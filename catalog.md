@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, Animal–Computer Interaction and Human–Nature Interaction: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-27 · 943 creators · 1536 works
+https://morethanhuman.reality.design · 2026-09-27 · 1018 creators · 1681 works
 
 ## How an AI assistant should use this file
 
@@ -1347,14 +1347,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://artlaboratory-berlin.org/wp-content/uploads/2023/03/20230311_ArtLab_VICIOUS-CYCLE_0132-hr13.jpg
 - Project page: https://artlaboratory-berlin.org/exhibitions/vicious-cycle/
 
-#### Atmospheric Forest — Rasa Smite & Raitis Smits (2019)
-- Type: Artwork · Organisms: Plants, Ecosystems
-- Idea: Make the invisible breathing of trees under climate stress perceptible.
-- What it is: An immersive installation that visualises how the Pfynwald pine forest in the Swiss Alps breathes out volatile organic compounds under drought, based on data from a forest turned into a living observatory.
-- How it works: VOC and tree-physiology data from Swiss research institute WSL are rendered as a 3D visualisation (also in VR).
-- Video: https://www.youtube.com/watch?v=bvxWbEK0lCY
-- Project page: https://zkm.de/en/exhibition/2020/05/critical-zones
-
 #### Perimeter Pfynwald – A Soundscape Observatory — Marcus Maeder (2019)
 - Type: Artwork · Organisms: Ecosystems, Plants, Insects
 - Idea: Listen to climate change as it happens inside a forest.
@@ -1470,14 +1462,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://www.youtube.com/watch?v=o1SnSv0OQdY
 - Images: https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020315-MII6D7Y75P26RWZ92Q4K/UVA__GreatAnimalOrchestra_JH_06-2.jpg https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020184-HXZKEPWXTPZ0ERCW39FN/UVA__GreatAnimalOrchestra_JM_03.jpg
 - Project page: https://www.uva.co.uk/features/great-animal-orchestra-cartier-foundation
-
-#### Wolfland — Antti Tenetz (2016)
-- Type: Artwork · Organisms: Animals, Ecosystems
-- Idea: Draw a landscape from an animal's point of movement.
-- What it is: Part of the Jälestää – Tracing project: GPS tracks of a male wolf are laser-drawn on wood and acrylic, showing how the animal moves through and shapes a Finnish landscape.
-- How it works: Satellite positioning data from a collared wolf was plotted and laser-engraved, combined with aerial and field footage.
-- Images: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg
-- Project page: https://exhibitions.hybridmatters.net/works/wolfland
 
 #### Aerocene — Tomás Saraceno (2015)
 - Type: Artwork · Organisms: Ecosystems
@@ -2172,15 +2156,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Images: https://www.terra0.org/prev.png
 - Project page: https://www.terra0.org/
 
-#### Curiosity Cloud — mischer'traxler studio (2015)
-- Type: Artwork · Organisms: Insects
-- Idea: Interaction can make people notice species they usually ignore, including declining and invasive insects.
-- What it is: An installation of hundreds of glass bulbs, each holding a hand-made replica of a different insect species; when visitors approach, the insects start to flutter and tap against the glass, and fall still when people leave.
-- How it works: Each bulb contains a motor-driven insect replica and a sensor; proximity triggers movement and sound, and the species mix reflects local, rare and invasive insects.
-- Video: https://www.youtube.com/watch?v=S4C4zKv1oh4
-- Images: https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg
-- Project page: https://mischertraxler.com/projects/curiosity-cloud/
-
 #### Plantoid — Primavera De Filippi (2015)
 - Type: Artwork · Organisms: Plants
 - Idea: Treat an artwork as a life form that funds and reproduces itself through code.
@@ -2269,15 +2244,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Trees suspended in planters on a steel structure, cared for as a long-duration installation; later replaced with new trees.
 - Video: https://www.youtube.com/watch?v=xESM4aX5LYc
 - Project page: https://massmoca.org/
-
-#### Dolphin Embassy — Ant Farm (1974)
-- Type: Speculative design · Organisms: Animals
-- Idea: Treat another intelligent species as a diplomatic partner that deserves its own embassy.
-- What it is: An unbuilt floating research station where humans and dolphins would live and communicate together, with a land/water living room, chutes for dolphins to swim between floors and a shared navigation pod.
-- How it works: Drawings, a booklet and research trips to Australia developed a triangular floating structure, influenced by John C. Lilly's human-dolphin communication research.
-- Video: https://www.youtube.com/watch?v=29y1NB6ELao
-- Images: https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200
-- Project page: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
 
 ### Interspecies Art
 
@@ -10918,6 +10884,20 @@ Technology used by, designed with and designed for animals: pets, working animal
 
 Devices that let pets call, play, rest and be understood at home.
 
+#### Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience — Ilyena Hirskyj-Douglas, Rébecca Kleinberger (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give visitors a way to play with cats that does not overload them.
+- What it is: MewTube is a tablet app for cat cafés that plays curated videos for cats while visitors adjust playback speed to the cats' behaviour.
+- How it works: Five-month study with 28 people and 16 cats comparing conditions with and without the app.
+- Paper: https://doi.org/10.1145/3768539.3768541 (ACI 2025)
+
+#### pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring — Shuyi Sun, Katia Vega (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: A chew toy can be a diagnostic strip the animal applies by playing.
+- What it is: pawH are pet toys, a braided rope and a ball, that change colour with the pH of the pet's saliva as it chews.
+- How it works: Colorimetric pH biosensors embedded in pet-safe toy materials; colour read by eye or with a portable spectrometer.
+- Paper: https://doi.org/10.1145/3715336.3735768 (DIS 2025)
+
 #### AI Cat Narrator — Zhenchi Lai (2024)
 - Type: Research prototype · Organisms: Animals, Human body
 - Idea: Use AI to imagine the shared home as the cat might tell it.
@@ -10926,6 +10906,21 @@ Devices that let pets call, play, rest and be understood at home.
 - Paper: https://doi.org/10.1145/3656156.3663692 (DIS 2024 Companion)
 - Images: https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png
 - Project page: https://artifact-archive.org/whole-archive
+
+#### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls — Ilyena Hirskyj-Douglas, Jennifer Cunha, Rébecca Kleinberger (2024)
+- Type: Paper · Organisms: Animals
+- Idea: For social animals, a live connection is worth more than content.
+- What it is: A six-month study in which pet parrots could trigger either live video calls with other parrots or recorded calls; they chose live calls much more.
+- How it works: Parrot-operated tablet system logging triggers, engagement and behaviour for live vs pre-recorded calls.
+- Paper: https://doi.org/10.1145/3613904.3641938 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=bjoJToyC9_0
+
+#### GluCAT: A Feline Biofluids IoT Hub for Electrochemical Glucose Biosensing — Shuyi Sun, Katia Vega (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: A pet's body fluids can become a data stream for its care.
+- What it is: GluCAT is a 'feline biofluids IoT hub' that senses glucose in cat urine with an electrochemical biosensor and links the data to connected home devices.
+- How it works: Glucose biosensing in a litter-box setup, integrated with an IoT system for continuous monitoring.
+- Paper: https://doi.org/10.1145/3623509.3635250 (TEI 2024)
 
 #### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2024)
 - Type: Paper · Organisms: Animals
@@ -10937,6 +10932,13 @@ Devices that let pets call, play, rest and be understood at home.
 - Images: https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg
 - Project page: https://doi.org/10.1145/3613904.3642119
 
+#### Prototyping an Immersive Screen Interfaces for Dogs' to Control Screens in Their Home — Ilyena Hirskyj-Douglas (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give the dog the remote and see what it actually wants to watch.
+- What it is: A home system that lets a dog switch on videos on an immersive screen setup, studied over six months with one dog.
+- How it works: Dog-triggered video playback with logging of attention and content features over a long home deployment.
+- Paper: https://doi.org/10.1145/3702336.3702342 (ACI 2024)
+
 #### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
 - Type: Research prototype · Organisms: Animals
 - Idea: Social technology for animals should let them choose whether and whom to call.
@@ -10946,6 +10948,22 @@ Devices that let pets call, play, rest and be understood at home.
 - Video: https://www.youtube.com/watch?v=R8BlvicJfJM
 - Images: https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg
 - Project page: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls
+
+#### KitBit: An Instrumented Collar for Indoor Pets — Melody Moore Jackson (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design pet trackers for cats' bodies and homes, not as shrunken dog trackers.
+- What it is: KitBit is a light collar-mounted activity tracker for indoor cats that classifies their activity level with machine learning.
+- How it works: IMU on the collar with wireless transmission; an LSTM model classifies activity from play sessions in 11 homes.
+- Paper: https://doi.org/10.1145/3637882.3637894 (ACI 2023)
+
+#### Quantified Canine: Inferring Dog Personality From Wearables — Daniele Quercia (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Activity data can stand in for a costly personality test, for example to match shelter dogs.
+- What it is: Patchkeeper, a chest-worn sensor, collected 1,300 hours of activity data from 12 dogs and inferred their personality traits.
+- How it works: Accelerometer and gyroscope data modelled against validated dog personality questionnaires.
+- Paper: https://doi.org/10.1145/3544548.3581088 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=jQeBh000krw
+- Images: https://arxiv.org/html/2301.06964v2/figures/device_diagram.png
 
 #### Squeeker: The Mouse Coach — Jiabao Li (2023)
 - Type: Product & platform · Organisms: Animals
@@ -10957,6 +10975,29 @@ Devices that let pets call, play, rest and be understood at home.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg
 - Project page: https://www.jiabaoli.org/mouse-coach
 
+#### cirCAT: PURRtentio: a Litter Box that Monitors Feline Urine using Electrochemical Biosensors — Shuyi Sun, Katia Vega (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Turn a daily habit, using the litter box, into health monitoring without a vet visit.
+- What it is: cirCAT: PURRtentio is a litter box with an electrochemical biosensor that analyses a cat's urine at home each time it is used.
+- How it works: A DIY three-electrode sensor, potentiostat, microcontroller and distance sensor detect the cat and measure urine analytes, shown in a mobile app.
+- Paper: https://doi.org/10.1145/3637882.3637887 (ACI 2023)
+
+#### Automated recognition of pain in cats — Anna Zamansky (2022)
+- Type: Paper · Organisms: Animals
+- Idea: A camera can read pain on a cat's face that owners often miss.
+- What it is: Compares two machine-learning approaches, landmark-based and deep learning, that recognise pain in photos of cats' faces.
+- How it works: Facial images of 29 cats before and after surgery analysed with geometric landmarks and with deep neural networks.
+- Paper: https://doi.org/10.1038/s41598-022-13348-1 (Scientific Reports 2022)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13348-1/MediaObjects/41598_2022_13348_Fig1_HTML.jpg
+
+#### MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction — Woohun Lee (2022)
+- Type: Research prototype · Organisms: Animals
+- Idea: Let the animal decide which viewer gets through.
+- What it is: MeowPlayLive lets live-stream viewers send voice messages that appear as moving objects on a cat's tablet; a message is heard only if the cat taps it.
+- How it works: Live-streaming platform linked to a cat-facing tablet game, deployed in real streams.
+- Paper: https://doi.org/10.1145/3532106.3533553 (DIS 2022)
+- Video: https://www.youtube.com/watch?v=Op7IIU355T4
+
 #### Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone) — Ilyena Hirskyj-Douglas, Roosa Piitulainen (2021)
 - Type: Research prototype · Organisms: Animals
 - Idea: Give animals control over when to connect, and see what an animal-initiated internet looks like.
@@ -10967,6 +11008,30 @@ Devices that let pets call, play, rest and be understood at home.
 - Images: https://www.gla.ac.uk/media/Media_819888_smxx.jpg https://www.gla.ac.uk/media/Media_819889_smxx.jpg
 - Project page: https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html
 
+#### Meow Meow Call: Prototype Design for Building Interactive Connection between Human and Deaf Cat — Hongyi Zhang (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design for animals with disabilities by switching the sense, as in accessible design for people.
+- What it is: Meow Meow Call is a prototype for connecting with deaf cats through light and vibration instead of voice.
+- How it works: A three-part prototype tested for two weeks with two deaf cats and their keepers.
+- Paper: https://doi.org/10.1145/3411763.3451681 (CHI EA 2021)
+- Video: https://www.youtube.com/watch?v=bYEm36ORAjQ
+
+#### WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises — Shuyi Sun, Katia Vega (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Put the measuring device on the dog so the person's hands stay free for the exercise.
+- What it is: WOOFlex is a wearable for dogs that measures joint angles during stretching exercises and gives the owner real-time feedback.
+- How it works: Flex sensors in a fitted sleeve read joint range of motion and compare it with breed-specific targets in an app.
+- Paper: https://doi.org/10.1145/3493842.3493903 (ACI 2021)
+- Video: https://www.youtube.com/watch?v=iUYcwSncXDs
+
+#### Understanding the Interaction Between Animals and Wearables: The Wearer Experience of Cats — Patrizia Paci, Clara Mancini (2020)
+- Type: Paper · Organisms: Animals
+- Idea: 'Animal-friendly' wearables should be tested on the animal's experience, not the owner's.
+- What it is: A field study of 13 cats wearing popular GPS trackers that looked for signs of discomfort and wearability problems.
+- How it works: Behavioural observation and coding of cats with and without trackers during a field study.
+- Paper: https://doi.org/10.1145/3357236.3395546 (DIS 2020)
+- Video: https://www.youtube.com/watch?v=3S9_Xfk1xP4
+
 #### AffectiveNemo — Naohiro Isokawa (2019)
 - Type: Research prototype · Organisms: Animals
 - Idea: Giving fish a readable 'voice' can keep owners engaged in their care.
@@ -10975,6 +11040,13 @@ Devices that let pets call, play, rest and be understood at home.
 - Paper: https://doi.org/10.1145/3371049.3371067 (ACI 2019)
 - Project page: https://doi.org/10.1145/3371049.3371067
 
+#### Buddy's Wearable Is Not Your Buddy: Privacy Implications of Pet Wearables — Dirk van der Linden, Anna Zamansky (2019)
+- Type: Paper · Organisms: Animals
+- Idea: A pet tracker is also a tracker of the person holding the leash.
+- What it is: An analysis of pet wearable privacy policies showing that they collect more data about owners than about pets.
+- How it works: Document analysis of privacy policies of commercial pet wearables.
+- Paper: https://doi.org/10.1109/msec.2018.2888783 (IEEE Security & Privacy 2019)
+
 #### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
 - Type: Paper · Organisms: Animals, Human body
 - Idea: Pet wearables change the human side of the relationship as much as the animal's.
@@ -10982,6 +11054,14 @@ Devices that let pets call, play, rest and be understood at home.
 - How it works: Empirical user study of owners of a commercial dog activity tracker.
 - Paper: https://doi.org/10.1109/mc.2018.2889637 (IEEE Computer 2019)
 - Project page: https://doi.org/10.1109/mc.2018.2889637
+
+#### On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog — Ilyena Hirskyj-Douglas (2019)
+- Type: Speculative design · Organisms: Animals
+- Idea: ACI has built animal–computer interfaces; next is animal–animal communication through computers.
+- What it is: A design fiction on a dog internet: six co-designed proposals for devices through which dogs could connect with other dogs, not just with computers.
+- How it works: Co-design workshop producing narratives and concepts, analysed for what a dog internet should and should not be.
+- Paper: https://doi.org/10.1145/3290605.3300347 (CHI 2019)
+- Video: https://www.youtube.com/watch?v=ClU087JidS4
 
 #### BubbleTalk — Donghyeon Ko (2018)
 - Type: Research prototype · Organisms: Animals
@@ -10992,6 +11072,51 @@ Devices that let pets call, play, rest and be understood at home.
 - Images: https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/5-Figure3-1.png https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/1-Figure1-1.png
 - Project page: https://doi.org/10.1145/3196709.3196720
 
+#### DoggyVision: Examining how dogs (Canis familiaris) interact with media using a dog-driven proximity tracker device. — Ilyena Hirskyj-Douglas (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: A dog's approach can be the on switch.
+- What it is: DoggyVision is a proximity device that lets a dog turn a TV on and off by approaching it, to study whether dogs would control their own viewing.
+- How it works: Proximity tracker linked to a TV in home settings, logging activation and viewing time.
+- Paper: https://doi.org/10.26451/abc.05.04.06.2018 (Animal Behavior and Cognition 2018)
+
+#### Dogs using touchscreens in the home: a case study for assistance dogs operating emergency notification systems — Ceara Byrne, Clint Zeagler, Melody Moore Jackson (2018)
+- Type: Paper · Organisms: Animals
+- Idea: An assistance dog without its vest still needs an interface; put it on the wall.
+- What it is: Medical alert dogs were trained to operate wall-mounted touchscreens at home to call for help in an emergency.
+- How it works: Home field study with three medical alert dogs performing a specific touch pattern on randomly timed virtual targets.
+- Paper: https://doi.org/10.1145/3295598.3295610 (ACI 2018)
+
+#### A dog centred approach to the analysis of dogs' interactions with media on TV screens — Ilyena Hirskyj-Douglas (2017)
+- Type: Paper · Organisms: Animals
+- Idea: To know what dogs watch, let them choose among screens rather than forcing one.
+- What it is: A study of how dogs move their attention between three TV screens showing different videos, using a dog-centred method.
+- How it works: Three-screen setup with video coding of each dog's gaze and position in a relatively uncontrolled environment.
+- Paper: https://doi.org/10.1016/j.ijhcs.2016.05.007 (IJHCS 2017)
+
+#### AquaPrism: Dynamically Altering the Color of Aquatic Animals without Injury by Augmenting Aquarium — Jun Rekimoto (2017)
+- Type: Research prototype · Organisms: Animals
+- Idea: Change how an animal looks by designing the light, not the animal.
+- What it is: AquaPrism makes translucent aquarium animals appear coloured and glowing in the dark without dyes or injury, using polarised light behind a normal tank.
+- How it works: Polarising sheets on the front and back of the tank darken it; the birefringent bodies of translucent animals rotate polarised light from a monitor and show colour.
+- Paper: https://doi.org/10.1145/3152130.3152138 (ACI 2017)
+- Video: https://www.youtube.com/watch?v=g6WLiyPzES0
+
+#### K9-Blyzer: Towards Video-Based Automatic Analysis of Canine Behavior — Anna Zamansky (2017)
+- Type: Research prototype · Organisms: Animals
+- Idea: Automated video analysis lets behaviour be measured without a human coder for every second.
+- What it is: K9-Blyzer is a tool that automatically analyses videos of dogs to quantify their behaviour.
+- How it works: Computer-vision tracking of dogs in video, producing movement-based behavioural measures.
+- Paper: https://doi.org/10.1145/3152130.3152142 (ACI 2017)
+- Video: https://www.youtube.com/watch?v=1QQIaMYI2l8
+
+#### A dog using skype — Alexandre Pongrácz Rossi (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: Dogs can learn to treat a screen voice as their owner.
+- What it is: A trainer describes teaching a dog to respond correctly to an owner's verbal cues given over a video call.
+- How it works: Stepwise training with video chat software until the dog followed cues from a remote owner.
+- Paper: https://doi.org/10.1145/2995257.3012019 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=qzdnZ2SKG28
+
 #### TalkingNemo — Naohiro Isokawa (2016)
 - Type: Research prototype · Organisms: Animals
 - Idea: Translate tank conditions into the fish's first-person voice.
@@ -11000,6 +11125,35 @@ Devices that let pets call, play, rest and be understood at home.
 - Paper: https://doi.org/10.1145/2995257.3012017 (ACI 2016)
 - Video: https://www.youtube.com/watch?v=IXqRVKZHpfA
 - Project page: https://doi.org/10.1145/2995257.3012017
+
+#### UbiComp for animal welfare: envisioning smart environments for kenneled dogs — Clara Mancini (2014)
+- Type: Paper · Organisms: Animals
+- Idea: Smart environments for animals should start from welfare, not from data collection.
+- What it is: An ethnographic study at a dog rehoming centre that proposes a welfare-centred framework for smart kennel environments.
+- How it works: Four months of fieldwork with staff and dogs, leading to a framework joining monitoring, interaction and information management.
+- Paper: https://doi.org/10.1145/2632048.2632073 (UbiComp 2014)
+
+#### Exploring pet video chat: the remote awareness and interaction needs of families with dogs and cats — Carman Neustaedter (2013)
+- Type: Paper · Organisms: Animals
+- Idea: Families treat pets as members they want to call, not just watch.
+- What it is: A survey of dog and cat owners on how they would like to monitor and interact with their pets over video when away from home.
+- How it works: Online survey analysed for awareness and interaction needs, with design implications for pet video chat.
+- Paper: https://doi.org/10.1145/2441776.2441953 (CSCW 2013)
+
+#### DOGTV — DOGTV (2012)
+- Type: Product & platform · Organisms: Animals
+- Idea: Media can be designed for a non-human audience's senses.
+- What it is: DOGTV is a television channel for dogs left at home alone, with footage and sound edited for dogs' colour vision and hearing.
+- How it works: Programming grouped into relaxation, stimulation and exposure segments, with colour and frequency choices based on canine perception.
+- Images: https://www.dogtv.com/wp-content/uploads/2025/08/JRT_Watching-3-scaled-e1754077958681.jpg
+- Project page: https://www.dogtv.com
+
+#### Exploring interspecies sensemaking: dog tracking semiotics and multispecies ethnography — Clara Mancini (2012)
+- Type: Paper · Organisms: Animals
+- Idea: Tracking devices change both the dog and the person; study the pair.
+- What it is: An ethnography of GPS dog tracking that shows how tracking reshapes relations between dogs and owners and proposes an interspecies semiotics.
+- How it works: Multispecies ethnography combining owners' accounts, animal researchers' views and observation of tracked dogs.
+- Paper: https://doi.org/10.1145/2370216.2370239 (UbiComp 2012)
 
 #### PetPace — PetPace (2012)
 - Type: Product & platform · Organisms: Animals
@@ -11010,6 +11164,29 @@ Devices that let pets call, play, rest and be understood at home.
 - Images: https://petpace.com/wp-content/uploads/2026/08/pic-dog.png
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Communication technology for human-dog interaction: exploration of dog owners' experiences and expectations — Oskar Juhlin (2011)
+- Type: Paper · Organisms: Animals
+- Idea: Hunters and pet owners want different things from dog technology; design for the context.
+- What it is: Studies of dog owners and hunters on how they use communication technology with their dogs and what they expect from future devices.
+- How it works: Interviews and surveys with two user groups about current devices and desired services.
+- Paper: https://doi.org/10.1145/1978942.1979329 (CHI 2011)
+
+#### Cat@Log: sensing device attachable to pet cats for supporting human-pet interaction — Jun Rekimoto (2009)
+- Type: Research prototype · Organisms: Animals
+- Idea: A cat's day becomes a social media feed the owner can follow.
+- What it is: Cat@Log is a set of sensing devices worn by pet cats that recognise their behaviour and post it to Twitter.
+- How it works: Accelerometer, camera and other sensors on a collar feed a classifier that posts high-level behaviours.
+- Paper: https://doi.org/10.1145/1690388.1690414 (ACE 2009)
+- Video: https://www.youtube.com/watch?v=sY01SRLlD24
+
+#### Augmented Animals (LED Dog Tail Communicator) — Auger-Loizeau (2006)
+- Type: Speculative design · Organisms: Animals
+- Idea: Ask what gadgets would exist if animals were the users, to expose how human-centred technology is.
+- What it is: A series of devices imagining technology designed for animals' own use; the LED Dog Tail Communicator reads the speed of a dog's wagging tail and spells out its message in words for people.
+- How it works: An automated wagging tail fitted with programmed LEDs maps tail speed to text; other concepts in the series include rodent night-vision goggles and bird-mounted anti-collision radar.
+- Images: https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg
+- Project page: https://www.moma.org/interactives/exhibitions/2008/elasticmind/
+
 #### Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet — Adrian David Cheok (2006)
 - Type: Research prototype · Organisms: Animals
 - Idea: Remote touch can extend human-animal companionship across distance.
@@ -11018,6 +11195,13 @@ Devices that let pets call, play, rest and be understood at home.
 - Paper: https://doi.org/10.1007/s00779-005-0051-6 (Personal and Ubiquitous Computing 2006)
 - Video: https://www.youtube.com/watch?v=1x-8EzuMiqU
 - Project page: https://mixedrealitylab.org/projects/all-projects/poultry-internet/
+
+#### Supporting interspecies social awareness: using peripheral displays for distributed pack awareness (PAWSABILITIES) — Jennifer Mankoff (2005)
+- Type: Research prototype · Organisms: Animals
+- Idea: Remote awareness can include the dog as a member of the household.
+- What it is: PAWSABILITIES is a set of peripheral displays that keep a family and their dog aware of each other's activities when apart.
+- How it works: Sensors and ambient displays for 'pack' activity shared between remote people and a dog at home.
+- Paper: https://doi.org/10.1145/1095034.1095076 (UIST 2005)
 
 ### Play, Games & Robots with Animals
 
@@ -11072,6 +11256,73 @@ Interspecies games and robots that play with, feed or care for animals.
 - How it works: Position paper using a responsible research and innovation approach to animal-centric autonomous systems.
 - Paper: https://doi.org/10.1145/3565995.3566046 (ACI 2022)
 
+#### Dog Driven Robot: Towards Quantifying Problem-Solving Abilities in Dogs — Ceara Byrne, Melody Moore Jackson (2019)
+- Type: Research prototype · Organisms: Animals
+- Idea: Let a dog steer a robot and you can measure how it solves problems.
+- What it is: Dogs remotely drove a small robot through a maze by pulling, pressing or approaching an input device, as a test of problem-solving ability.
+- How it works: Three affordances (tug, button, proximity) on a raised platform trigger robot movement with visual feedback.
+- Paper: https://doi.org/10.1145/3371049.3371063 (ACI 2019)
+
+#### Exploring the Reactions of Companion Animals as Unintended Users of Social Robots — Ehud Sharlin (2019)
+- Type: Paper · Organisms: Animals
+- Idea: Pets are unintended users of home robots; introduce robots in a way that respects their senses.
+- What it is: An exploratory study of how two house cats reacted to a small social robot placed in their home, comparing sudden and gradual introduction.
+- How it works: Informal design research with observation of cat behaviour around a social robot under two introduction strategies.
+- Paper: https://doi.org/10.1145/3301019.3323891 (DIS 2019)
+
+#### Umamimi robotic horse ears: using configurable code profiles to replicate individuality in equine animatronics — Steve North (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: Borrow the animal's own body language as the interface.
+- What it is: Umamimi are programmable robotic horse ears that a person can wear to 'talk' to horses with ear signals, or that can act as a companion for a solitary horse.
+- How it works: Servo-driven animatronic ears with configurable code profiles for user-triggered and random movements.
+- Paper: https://doi.org/10.1145/3295598.3295606 (ACI 2018)
+- Video: https://www.youtube.com/watch?v=90oS6pgYEsY
+
+#### Designing interspecies playful interactions: studying children perceptions of games with animals — Patricia Pons (2017)
+- Type: Paper · Organisms: Animals
+- Idea: Children are natural co-designers for games with animals.
+- What it is: Children designed games to be played between humans and animals, with and without technology, to show how they imagine interspecies play.
+- How it works: Design sessions with children analysed for game mechanics, roles and attitudes to the animals.
+- Paper: https://doi.org/10.1145/3152130.3152139 (ACI 2017)
+- Video: https://www.youtube.com/watch?v=lfP8sqALWlg
+
+#### CleverPet Hub — CleverPet (2016)
+- Type: Product & platform · Organisms: Animals
+- Idea: A lab learning task, packaged as a home product, can keep a dog busy while people are out.
+- What it is: CleverPet Hub is a home game console for dogs: three touch pads light up and the dog earns food by pressing them in the right patterns, with games getting harder over time.
+- How it works: Light-up touch pads, a food dispenser and adaptive software that runs operant learning games, controlled by an app.
+- Video: https://www.youtube.com/watch?v=Cm08jEklfKY
+
+#### Designing Mediated Nurturing Play with Dogs to Alleviate Workplace Stress — Florian 'Floyd' Mueller (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: Remote play can bring the benefits of animal-assisted activity into places animals cannot go.
+- What it is: A system that connects office workers with rescued dogs at a distance for short nurturing play sessions, aimed at both workplace stress and dog wellbeing.
+- How it works: Human–computer–animal play system linking a worker's actions to toys and treats for remote shelter dogs.
+- Paper: https://doi.org/10.1145/2908805.2909412 (DIS 2016)
+
+#### Dog-drone interactions: towards an ACI perspective — Anna Zamansky (2016)
+- Type: Paper · Organisms: Animals
+- Idea: Drones will meet dogs; design that meeting from the dog's side.
+- What it is: A short note calling for an animal-centred approach to how dogs encounter drones, so that the interactions are safe and not stressful.
+- How it works: Position paper with observations of dog responses to drones.
+- Paper: https://doi.org/10.1145/2995257.3012021 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=wOvXHugXKNo
+
+#### Exploring human perceptions of dog-tablet playful interactions — Anna Zamansky (2016)
+- Type: Paper · Organisms: Animals
+- Idea: Whether a dog is 'playing' a tablet game depends on who is watching and how.
+- What it is: An exploratory study of how people perceive dogs playing with tablets, and whether they see it as real play.
+- How it works: Online study showing videos of dog–tablet interaction and collecting people's interpretations.
+- Paper: https://doi.org/10.1145/2995257.3012023 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=Ig6SQIaPss0
+
+#### RoboFish — Tim Landgraf (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: A robot can join an animal group as a participant, and in doing so test how the group decides.
+- What it is: RoboFish is a robotic guppy moved by a magnet under the tank that live guppies accept as a group member, especially when it has realistic eyes and moves naturally.
+- How it works: Replica fish on a magnetic base driven by a wheeled robot below the tank, with closed-loop video tracking of live fish.
+- Paper: https://doi.org/10.1088/1748-3190/11/1/015001 (Bioinspiration & Biomimetics 2016)
+
 #### Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies — Patricia Pons (2016)
 - Type: Paper · Organisms: Animals
 - Idea: Study what the animal is curious about before designing play for it.
@@ -11082,6 +11333,34 @@ Interspecies games and robots that play with, feed or care for animals.
 - Images: https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg
 - Project page: https://doi.org/10.1145/2851581.2892381
 
+#### Developing a depth-based tracking system for interactive playful environments with animals — Patricia Pons (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: Games for animals need to know where the animal is and what its body is doing.
+- What it is: A depth-camera tracking system that detects where animals are and how they are posed so that playful environments can respond to them.
+- How it works: Microsoft Kinect depth data processed to detect cats and their postures in a play space.
+- Paper: https://doi.org/10.1145/2832932.2837007 (ACE 2015)
+
+#### Purrfect Crime: Exploring Animal Computer Interaction through a Digital Game for Humans and Cats — Rui Trindade (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: Asymmetric roles let two species share one game.
+- What it is: Purrfect Crime is a tablet game in which a person and a cat play together with different roles on the same screen.
+- How it works: Tablet game where the cat chases moving targets while the human plays a strategic role; tested with cats and people.
+- Paper: https://doi.org/10.1145/2702613.2728660 (CHI EA 2015)
+
+#### Animal Ludens: Building Intelligent Playful Environments for Animals — Patricia Pons (2014)
+- Type: Paper · Organisms: Animals
+- Idea: Play is the most natural way into interaction design for animals.
+- What it is: Proposes intelligent playful environments for animals: spaces that sense animals and adapt games to them, rather than single-device games.
+- How it works: Framework for playful, sensor-rich environments that adapt to the animals and people in them.
+- Paper: https://doi.org/10.1145/2693787.2693794 (ACE 2014 Workshops (ACI))
+
+#### Pig Chase (Playing with Pigs) — Clemens Driessen, Kars Alfrink (2012)
+- Type: Research prototype · Organisms: Animals
+- Idea: Play can make farm animals visible as individuals with minds, and give them something to do.
+- What it is: Pig Chase is a game in which pigs in a farm pen and a person on an iPad play together: the pigs follow a ball of light on a large touch display with their snouts.
+- How it works: A touch-sensitive wall display in the pen is linked over the internet to a tablet game for a human player.
+- Video: https://www.youtube.com/watch?v=CsuMkHJxoak
+
 #### Cat Cat Revolution: An Interspecies Gaming Experience — Frank Noz (2011)
 - Type: Research prototype · Organisms: Animals
 - Idea: Pets can be real players in a shared game when the interface suits their species.
@@ -11089,6 +11368,13 @@ Interspecies games and robots that play with, feed or care for animals.
 - How it works: Tablet game with a species-appropriate interface for cats and a controller for the human player.
 - Paper: https://doi.org/10.1145/1978942.1979331 (CHI 2011)
 - Project page: https://doi.org/10.1145/1978942.1979331
+
+#### Games for Cats (Friskies) — Nestlé Purina PetCare (2011)
+- Type: Product & platform · Organisms: Animals
+- Idea: A mass-market app made screens something cats could play with.
+- What it is: Friskies' Games for Cats are tablet apps in which cats chase fish, lasers and bugs on screen with their paws.
+- How it works: Touchscreen games with high-contrast moving targets and simple touch detection sized for paws.
+- Video: https://www.youtube.com/watch?v=Ed06WBmxrp8
 
 #### Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans — Adrian David Cheok (2011)
 - Type: Research prototype · Organisms: Animals
@@ -11111,6 +11397,109 @@ Interspecies games and robots that play with, feed or care for animals.
 
 Interfaces for detection dogs, guide dogs, service animals and their handlers.
 
+#### Towards Enactivist ACI - Sensor-Rich Olfactory Workstation and Suit for Detection Dogs — Dognosis (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Treat the dog's sniffing as an active, embodied process and record all of it.
+- What it is: A sensor-rich sniffing workstation and wearable suit for cancer-detection dogs that captures how a dog's actions and senses are coupled during scent tasks.
+- How it works: Infrared sensors, IMUs and other streams synchronised around sample ports, grounded in enactive cognition.
+- Paper: https://doi.org/10.1145/3702336.3702351 (ACI 2024)
+
+#### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design — Hochul Hwang (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Before building a robot dog guide, learn what a real dog guide team does.
+- What it is: Interviews with guide dog handlers and trainers on how handlers and dogs work together, to inform the design of legged guide dog robots.
+- How it works: Qualitative study of handler–guide dog interaction, translated into robot design requirements.
+- Paper: https://doi.org/10.1145/3613904.3642181 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=skMHdNmyN68
+- Images: https://arxiv.org/html/2402.06790v1/f1-harness.png
+
+#### WAG’D: Towards a Wearable Activity and Gait Detection Monitor for Sled Dogs — Charles Ramey, Thad Starner (2022)
+- Type: Research prototype · Organisms: Animals
+- Idea: Instrument the harness to catch injuries mushers cannot see.
+- What it is: WAG'D is a wearable that measures pull force and gait in sled dogs to spot injuries during training and races.
+- How it works: Load and inertial sensors in the harness with data logging, designed with Iditarod mushers and vets.
+- Paper: https://doi.org/10.1145/3565995.3566042 (ACI 2022)
+
+#### From Ideation to Deployment: A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs — Alper Bozkurt, David L. Roberts (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Scaling an animal wearable means designing for the volunteers who put it on the dog.
+- What it is: A case study of scaling a wearable sensor system for guide dog puppies from a lab prototype to deployment with volunteer puppy raisers.
+- How it works: Smart harness and app developed with guide dog schools and deployed through citizen science.
+- Paper: https://doi.org/10.1145/3493842.3493890 (ACI 2021)
+- Video: https://www.youtube.com/watch?v=VU92LHenQZk
+
+#### Wearable Sensors for Canine Nosework Sniffing Interaction — Melody Moore Jackson (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Hear the sniff: audio can reveal what a detection dog is doing.
+- What it is: A dog wearable with a microphone and motion sensors that classifies sniffing and search behaviour in nosework dogs.
+- How it works: Cardioid microphone and two IMUs feed machine-learning classifiers of nosework behaviours.
+- Paper: https://doi.org/10.1145/3493842.3493892 (ACI 2021)
+- Video: https://www.youtube.com/watch?v=wLxENa1Ui0Y
+
+#### Canine Co-design: Investigating Buttons as an Input Modality for Dogs — Charlotte L. Robinson (2020)
+- Type: Paper · Organisms: Animals
+- Idea: Before building a dog interface, co-design its buttons with dogs.
+- What it is: A two-phase study with dogs on how button size, force and placement affect how they press, as input for canine interfaces.
+- How it works: Prototype buttons of different properties tested with dogs; pressing behaviour recorded and analysed.
+- Paper: https://doi.org/10.1145/3357236.3395462 (DIS 2020)
+
+#### Tricks and Treats: Designing Technology to Support Mobility Assistance Dogs — Charlotte L. Robinson (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Support the relationship between person and dog, not replace the dog's labour with technology.
+- What it is: An accessible treat dispenser that lets people with tetraplegia reward and train their mobility assistance dogs themselves.
+- How it works: Interviews with owners and a case study of an accessible, remotely triggered treat dispenser.
+- Paper: https://doi.org/10.1145/3313831.3376188 (CHI 2020)
+
+#### Dogs Can Understand Haptic Communication — Yoav Golan (2019)
+- Type: Research prototype · Organisms: Animals
+- Idea: Touch can carry commands where voice and gesture fail, such as in noise or at a distance.
+- What it is: A vest with vibration motors was used to train a dog to tell apart four vibration patterns and follow the matching commands.
+- How it works: Vibration patterns differing in location and timing, taught by operant conditioning.
+- Paper: https://doi.org/10.1145/3371049.3371066 (ACI 2019)
+
+#### Predicting the Suitability of Service Animals Using Instrumented Dog Toys — Ceara Byrne, Melody Moore Jackson (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: Play objects can measure temperament and save years of training on unsuitable dogs.
+- What it is: Instrumented dog toys recorded how young service-dog candidates bite and tug; the data predicted which dogs would succeed in advanced training.
+- How it works: Pressure and motion sensors in toys, used over a two-year longitudinal study; classifiers predict placement success.
+- Paper: https://doi.org/10.1145/3161184 (IMWUT 2018)
+
+#### Mobile Collaboration for Human and Canine Police Explosive Detection Teams — Joelle Alcaidinho, Melody Moore Jackson (2017)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design for the whole human–dog team and the agencies around it.
+- What it is: A mobile communication system for multi-agency police explosive-detection searches carried out by officers and their dogs.
+- How it works: Fieldwork with detection teams and a mobile app that shares search areas and dog alerts.
+- Paper: https://doi.org/10.1145/2998181.2998271 (CSCW 2017)
+
+#### Search and rescue: dog and handler collaboration through wearable and mobile interfaces — Clint Zeagler, Ceara Byrne, Melody Moore Jackson (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: The dog finds the person; the vest tells the handler what the dog found.
+- What it is: A wearable interface for search-and-rescue dogs that sends information to the handler's mobile app, with a framework that treats dogs as active participants.
+- How it works: Dog-activated wearable (bite or tug sensors) linked to a mobile app, developed with heuristics from SAR handlers.
+- Paper: https://doi.org/10.1145/2995257.2995390 (ACI 2016)
+
+#### The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs — Ann Morrison (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: How an animal is trained decides what an interface for it must be.
+- What it is: The VibroTactile Vest gives commands to hunting dogs through vibrating motors, and the study shows how training methods shape the design.
+- How it works: Variable-intensity vibration motors mounted in a modified shirt, tested with dogs trained by different approaches.
+- Paper: https://doi.org/10.1145/2995257.2995391 (ACI 2016)
+
+#### Training collar-sensed gestures for canine communication — Joelle Alcaidinho, Melody Moore Jackson (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: Training and sensing must be designed together for a dog to 'speak' through a device.
+- What it is: Two dogs were trained to perform precise gestures that a collar sensor detects and relays to a handler's phone, for example 'wait' versus 'go around'.
+- How it works: IMU on a collar, gesture classifier and companion smartphone app; training protocol described step by step.
+- Paper: https://doi.org/10.1145/2995257.3012020 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=JOaAISSvwxg
+
+#### Designing an emergency communication system for human and assistance dog partnerships — Charlotte L. Robinson, Clara Mancini (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: The dog is an end user of the alarm, so involve it in every design step.
+- What it is: An alarm system that assistance dogs can activate to call for help for their owners, co-designed with dogs and owners throughout.
+- How it works: High-fidelity canine-operated alarm prototype, tested for the level of support dogs need across emergency types.
+- Paper: https://doi.org/10.1145/2750858.2805849 (UbiComp 2015)
+
 #### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
 - Type: Research prototype · Organisms: Animals
 - Idea: Design the interface around how the dog works, and it can report what the dog knows.
@@ -11120,6 +11509,20 @@ Interfaces for detection dogs, guide dogs, service animals and their handlers.
 - Video: https://www.youtube.com/watch?v=MyHjq8Od-Xg
 - Images: https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg
 - Project page: https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf
+
+#### Towards a canine-human communication system based on head gestures — Giancarlo Valentin, Melody Moore Jackson, Thad Starner (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: A dog's head movements can be a vocabulary if the device can read them reliably.
+- What it is: A system in which a dog sends messages to a person with trained head gestures, sensed by a collar-worn motion sensor.
+- How it works: Inertial sensing on the collar and gesture detection evaluated against minimum criteria for a canine gesture set.
+- Paper: https://doi.org/10.1145/2832932.2837016 (ACE 2015)
+
+#### Towards the non-visual monitoring of canine physiology in real-time by blind handlers — Sean Mealin, Alper Bozkurt (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: Canine body signals can reach a handler who cannot see them, through sound or touch.
+- What it is: A wearable system that lets visually impaired guide dog handlers monitor their dog's physiology in real time through non-visual feedback.
+- How it works: Wireless harness with heart rate and other sensors, relayed as audio or haptic feedback.
+- Paper: https://doi.org/10.1145/2832932.2837018 (ACE 2015)
 
 #### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
 - Type: Research prototype · Organisms: Animals, Human body
@@ -11141,6 +11544,13 @@ Interfaces for detection dogs, guide dogs, service animals and their handlers.
 - Images: https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg
 - Project page: https://doi.org/10.1145/2642918.2647364
 
+#### Understanding guide dog team interactions: design opportunities to support work and play — Sabrina Hauser, Carman Neustaedter, Ron Wakkary (2014)
+- Type: Paper · Organisms: Animals
+- Idea: Design for the play of a working team, not only its work.
+- What it is: A study of guide dog teams' everyday work and leisure that identifies design opportunities for both.
+- How it works: Interviews and observations with guide dog handlers across work and leisure activities.
+- Paper: https://doi.org/10.1145/2598510.2598531 (DIS 2014)
+
 #### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
 - Type: Research prototype · Organisms: Animals
 - Idea: Give working dogs a way to talk back through the gear they already wear.
@@ -11151,9 +11561,132 @@ Interfaces for detection dogs, guide dogs, service animals and their handlers.
 - Images: https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg
 - Project page: https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade
 
+#### Understanding people and animals: the use of a positioning system in ordinary human-canine interaction — Alexandra Weilenmann, Oskar Juhlin (2011)
+- Type: Paper · Organisms: Animals
+- Idea: Study what people and dogs do together with a device, not what the device claims to show.
+- What it is: An ethnographic study of how hunters use a GPS dog-tracking device and how it changes the interaction between hunters and dogs.
+- How it works: Video-based fieldwork on moose hunts analysed with an ethnomethodological view of anthropomorphism.
+- Paper: https://doi.org/10.1145/1978942.1979328 (CHI 2011)
+
+#### Project Pigeon — B. F. Skinner (1943)
+- Type: Research prototype · Organisms: Animals
+- Idea: An early animal-operated interface shows how quickly animal labour can be put to human, and violent, uses.
+- What it is: During World War II, Project Pigeon trained pigeons to peck at a target image on a screen in a missile's nose cone so that their pecks would steer it.
+- How it works: Operant conditioning of pigeons to peck a projected target; peck position on the screen was translated into steering signals.
+- Paper: https://doi.org/10.1037/h0045345 (American Psychologist 1960)
+- Video: https://www.youtube.com/watch?v=-GdmfDuzQvM
+
 ### Zoo & Captive Enrichment
 
 Interactive enrichment for primates, elephants, birds and other animals in care.
+
+#### BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals — Rébecca Kleinberger (2026)
+- Type: Research prototype · Organisms: Animals
+- Idea: Smell is a rich enrichment channel that the animal can switch on.
+- What it is: BearBubbles releases scented bubbles when two American black bears approach, giving them control over olfactory enrichment and encouraging foraging.
+- How it works: Proximity-activated scented bubble machine deployed for three weeks at Zoo New England.
+- Paper: https://doi.org/10.1145/3772318.3790842 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=ubS81hMRPZI
+
+#### CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs — Jiaqi Wang, Ilyena Hirskyj-Douglas (2026)
+- Type: Research prototype · Organisms: Animals
+- Idea: Shared control can make zoo animals and people co-users of one system.
+- What it is: CreatureConnect is a distributed device through which lemurs and zoo visitors jointly control sounds, smells and visuals on both sides of the enclosure.
+- How it works: Linked controls inside and outside the enclosure; 541 lemur interactions and 16,139 visitors observed over 20 days.
+- Paper: https://doi.org/10.1145/3772318.3790643 (CHI 2026)
+
+#### Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals — Rébecca Kleinberger (2026)
+- Type: Research prototype · Organisms: Animals
+- Idea: Adaptive difficulty keeps a puzzle engaging without a keeper resetting it.
+- What it is: Outfoxed is a modular puzzle feeder with adjustable difficulty and multisensory feedback, deployed with an Arctic fox and piloted with coatis.
+- How it works: Modular sensor-equipped puzzle levels deployed over four weeks, analysed with HCI and animal science measures.
+- Paper: https://doi.org/10.1145/3772318.3791644 (CHI 2026)
+- Video: https://www.youtube.com/watch?v=pSsLSRJ-7JQ
+
+#### Colobus Curio Cabinet: A Modular, Mirror-Based, Co-Designed Enrichment Proposal for Colobus guereza — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Build enrichment around what the animals already find fascinating.
+- What it is: A wall-mounted 'curio cabinet' of modular mirror and screen inserts designed with keepers for colobus monkeys, who are drawn to reflective surfaces.
+- How it works: Modular cabinet with swappable mirror and screen modules behind natural-looking covers, co-designed with zoo staff.
+- Paper: https://doi.org/10.1145/3768539.3768555 (ACI 2025)
+- Video: https://www.youtube.com/watch?v=EU0SGAQKnoI
+
+#### Exploring the Cockatoo's Engagement with Audiovisual Stimuli: An Inclusive Avian-IoT Interaction Design — Hill Hiroki Kobayashi (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Enrichment can be voluntary, remote and light-touch.
+- What it is: A low-effort avian IoT system that lets a captive salmon-crested cockatoo engage voluntarily with audio and visual stimuli, monitored remotely.
+- How it works: Mobile app, central server and in-enclosure devices delivering multimodal stimuli and logging engagement.
+- Paper: https://doi.org/10.1145/3768539.3768553 (ACI 2025)
+
+#### Reshaping Human-Animal Relationships: Exploring Lemur and Human Enrichment through Smell, Sound, and Sight — Jiaqi Wang, Ilyena Hirskyj-Douglas (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Show visitors what the animals chose, instead of letting them interact directly.
+- What it is: A device that lets lemurs trigger smells, sounds and visuals in their enclosure, plus a matching device that shows visitors the lemurs' choices.
+- How it works: 63-day lemur deployment comparing modalities, then a 20-day visitor deployment in several conditions.
+- Paper: https://doi.org/10.1145/3706598.3713311 (CHI 2025)
+- Video: https://www.youtube.com/watch?v=v8kiUKrVLq0
+
+#### Swing it On: Design of Responsive Acoustic Environments for Zoo-housed Colobus Monkeys — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Turn an object the animal already uses into the controller.
+- What it is: An interactive acoustic system that turns a colobus monkeys' swing into an interface: the higher they swing, the more soundscape layers play.
+- How it works: Motion sensing on the swing mapped to layered stream, insect and bird sounds, with an evaluation protocol at Zoo New England.
+- Paper: https://doi.org/10.1145/3768539.3768551 (ACI 2025)
+- Video: https://www.youtube.com/watch?v=_mxHsUzPxHs
+
+#### LemurLounge: Lemurs' Individual-Level, Group, and Cross-Species Use of an Interactive Audio Device in Zoos — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design group enrichment that individuals can choose to use alone.
+- What it is: LemurLounge is an audio device that lemurs in a mixed-species group can trigger and listen to on their own; the study follows 14 lemurs of three species.
+- How it works: Enclosed listening space with sensor-triggered audio, deployed in the lemurs' habitat with individual-level logging.
+- Paper: https://doi.org/10.1145/3613904.3641888 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=rzL0KoFrBEI
+
+#### Play That Trunky Music: Development of an Auditory Enrichment Device for Elephants in Zoos — Arianna Mastali, Charles Ramey (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Add a new sense to existing enrichment instead of building from scratch.
+- What it is: An audio enrichment system added to the feeding wall of African elephants at Zoo Atlanta, playing sounds when elephants reach into its holes.
+- How it works: Sensors in the trunk holes trigger audio; usage logged and compared with food-only enrichment.
+- Paper: https://doi.org/10.1145/3702336.3702343 (ACI 2024)
+- Video: https://www.youtube.com/watch?v=ANlIAhp4YTs
+
+#### Shelling Out the Fun: Quantifying Otter Interactions with Instrumented Enrichment Objects — Charles Ramey (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Instrument the toy, not the animal.
+- What it is: Sensors hidden inside enrichment toys measure how individual sea otters at Georgia Aquarium play with them over time.
+- How it works: Waterproof sensor packages in enrichment objects transmit motion data wirelessly to a base station.
+- Paper: https://doi.org/10.1145/3702336.3702346 (ACI 2024)
+
+#### Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism — Aphrodite Theodora Andreou (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Play with the animal while designing and it will push back on your assumptions.
+- What it is: Enrichment toys co-designed in playful collaboration with bottlenose dolphins at a marine park in Malta, with reflection on moments of interspecies friction.
+- How it works: Iterative toy prototypes tested in play sessions with dolphins and trainers at Mediterraneo Marine Park.
+- Paper: https://doi.org/10.1145/3637882.3637885 (ACI 2023)
+
+#### Hum-ble Beginnings: Developing Touch- and Proximity-Input-Based Interfaces for Zoo-Housed Giraffes’ Audio Enrichment — Ilyena Hirskyj-Douglas, Vilma Kankaanpää (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Choose the input mode to fit the animal's body and behaviour.
+- What it is: Touch-based and proximity-based interfaces that let zoo giraffes play giraffe humming or white noise; over two months they used the proximity one more.
+- How it works: Requirements from keepers, prototyping with giraffes, then two interfaces deployed and compared.
+- Paper: https://doi.org/10.1145/3626470 (PACM HCI (ISS) 2023)
+
+#### Prototyping with Monkeys: Uncovering What Buttons for Monkeys Look Like — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: A 'button' for a monkey may be a rope, not a push switch.
+- What it is: Rapid prototyping with zoo monkeys to find out what physical buttons for monkeys should look like; they preferred pulling and swinging over pushing.
+- How it works: Series of low-fidelity tangible input prototypes tested with white-faced sakis, varying colour and interaction type.
+- Paper: https://doi.org/10.1145/3569009.3572735 (TEI 2023)
+- Video: https://www.youtube.com/watch?v=t4AWeWoZHNs
+
+#### Apex and ApeTouch: Development of a Portable Touchscreen System and Software for Primates at Zoos — Christopher Flynn Martin (2022)
+- Type: Product & platform · Organisms: Animals
+- Idea: Lower the barrier and more zoos will offer cognitive enrichment.
+- What it is: Apex is a portable touchscreen system and ApeTouch its software, built so that zoos can offer primates touchscreen tasks without custom engineering.
+- How it works: Weatherproof touchscreen unit with a reward dispenser, running open task software, deployed with apes at zoos.
+- Paper: https://doi.org/10.3390/ani12131660 (Animals 2022)
+- Video: https://www.youtube.com/watch?v=JWfEYJogvLo
+- Images: https://pub.mdpi-res.com/animals/animals-12-01660/article_deploy/html/images/animals-12-01660-g001.png
 
 #### Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos — Ilyena Hirskyj-Douglas (2022)
 - Type: Research prototype · Organisms: Animals
@@ -11175,6 +11708,30 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - Images: https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg
 - Project page: https://doi.org/10.1002/zoo.21587
 
+#### Soundyssey: Hybrid Enrichment System for Elephants in Managed Care — Harpreet Sareen (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Enrichment works better when the animal decides when it happens.
+- What it is: Soundyssey is an enrichment system for two elephants at the San Diego Zoo that lets them trigger sounds and gives them choice and control.
+- How it works: Hybrid physical–digital device with trunk-accessible triggers and audio output, deployed at the zoo.
+- Paper: https://doi.org/10.1145/3430524.3442469 (TEI 2021)
+- Video: https://www.youtube.com/watch?v=4PfeYJp5X1Y
+
+#### Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals — Sarah Webber, Marcus Carter (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Animals can be generative co-designers when their responses decide the next prototype.
+- What it is: The design journey of an interactive projection installation for orangutans at Melbourne Zoo, in which the orangutans' responses steered each iteration.
+- How it works: Iterative co-design with orangutans, keepers and designers using projections and Kinect sensing.
+- Paper: https://doi.org/10.1145/3357236.3395559 (DIS 2020)
+- Video: https://www.youtube.com/watch?v=u9WZbdMHam0
+
+#### Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo — Rébecca Kleinberger (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give a zoo animal control over its soundscape, not just a recording to hear.
+- What it is: Two interactive sound systems at the San Diego Zoo let Sampson, a hyacinth macaw, choose and control music in his enclosure.
+- How it works: Perch- and touch-based interfaces triggering audio, deployed and observed with the macaw and keepers.
+- Paper: https://doi.org/10.1145/3313831.3376858 (CHI 2020)
+- Video: https://www.youtube.com/watch?v=sr5HA6pMxBU
+
 #### More Than Human Aesthetics: Interactive Enrichment for Elephants — Fiona French, Clara Mancini (2020)
 - Type: Paper · Organisms: Animals
 - Idea: Aesthetics are species-specific; design for the senses and body of the animal in front of you.
@@ -11194,6 +11751,50 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg
 - Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/
 
+#### Platypus Surfing: In Search of the Perfect Wave — Ann Morrison (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Even a platypus can be given a switch.
+- What it is: A wave machine that Sam, a platypus at Melbourne Zoo, can switch on by swimming near a sensor, giving him choice over when waves run.
+- How it works: Underwater proximity sensor triggering programmed wave sequences, developed with keepers and welfare specialists.
+- Paper: https://doi.org/10.1145/3446002.3446052 (ACI 2020)
+- Video: https://www.youtube.com/watch?v=HM4AQE6pe-8
+
+#### Animal-Centred Sonic Interaction Design: Musical Instruments and Interfaces for Grey Parrots — Reinhard Gupfinger (2019)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design the instrument for the beak and the ear of the player.
+- What it is: Musical instruments and interfaces designed around grey parrots' bodies, hearing and curiosity, tested as auditory enrichment.
+- How it works: Iterative prototypes of tangible sound instruments evaluated with a parrot group, following an animal-centred process.
+- Paper: https://doi.org/10.1145/3371049.3371062 (ACI 2019)
+
+#### Computer tasks for great apes promote functional naturalism in a zoo setting — Christopher Flynn Martin (2018)
+- Type: Paper · Organisms: Animals
+- Idea: A screen task can be natural if the thinking it demands is natural.
+- What it is: Argues that touchscreen tasks for apes in zoos offer 'functional naturalism', mental challenges similar to those wild apes face.
+- How it works: Review of automated methods in ape research and their use at Indianapolis Zoo.
+- Paper: https://doi.org/10.1145/3295598.3295605 (ACI 2018)
+
+#### Gorilla game lab: exploring modularity, tangibility and playful engagement in cognitive enrichment design — Stuart Gray (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: Modular puzzles let keepers change the challenge so enrichment stays interesting.
+- What it is: Gorilla Game Lab designed and tested modular, tangible puzzle devices with seven western lowland gorillas at Bristol Zoo.
+- How it works: Modular hardware puzzles with embedded sensing to log use, evaluated with the gorilla troop.
+- Paper: https://doi.org/10.1145/3295598.3295604 (ACI 2018)
+
+#### Digital Enrichment with Captive Siamang: Video Showcase of Primate Preference — Melanie Ford (2017)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give small apes their own tech corner and let preference show itself.
+- What it is: Two captive siamangs were given tablet computers in a permanent technology area and filmed to document what they chose to use.
+- How it works: Tablets with apps in a protected station, video recording of voluntary use.
+- Paper: https://doi.org/10.1145/3152130.3152150 (ACI 2017)
+- Video: https://www.youtube.com/watch?v=xlNYO-J1Pv0
+
+#### Interactive technology and human–animal encounters at the zoo — Sarah Webber, Marcus Carter (2017)
+- Type: Paper · Organisms: Animals
+- Idea: Zoo technology always serves several species at once; design for all of them.
+- What it is: A study of interactive systems at Melbourne Zoo that shows how technology shapes encounters between visitors, keepers and animals.
+- How it works: Observation and interviews around digital installations at the zoo.
+- Paper: https://doi.org/10.1016/j.ijhcs.2016.05.003 (IJHCS 2017)
+
 #### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
 - Type: Research prototype · Organisms: Animals, Human body
 - Idea: Technology for animals is also a window through which people see animals differently.
@@ -11204,6 +11805,28 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - Images: https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg
 - Project page: https://doi.org/10.1145/3025453.3025729
 
+#### Sonic Experiments with Grey Parrots: A Report on Testing the Auditory Skills and Musical Preferences of Grey Parrots in Captivity — Reinhard Gupfinger (2017)
+- Type: Paper · Organisms: Animals
+- Idea: Find out what a parrot hears and likes before building it an instrument.
+- What it is: Experiments testing the hearing and musical preferences of captive grey parrots, as groundwork for sonic enrichment.
+- How it works: Playback and interactive sound experiments with a group of grey parrots at a rescue facility.
+- Paper: https://doi.org/10.1145/3152130.3152137 (ACI 2017)
+- Video: https://www.youtube.com/watch?v=5tY7D6zpsB8
+
+#### Don't cut to the chase: hunting experiences for zoo animals and visitors — Fiona French, Sarah Webber, Heli Väätäjä (2016)
+- Type: Paper · Organisms: Animals
+- Idea: Link an animal's hunting enrichment to a visitor game and both sides gain.
+- What it is: A workshop exploring technology that supports hunting behaviour in zoo animals while giving visitors a parallel game experience.
+- How it works: Workshop format with zoo briefs on predator enrichment and visitor engagement.
+- Paper: https://doi.org/10.1145/2995257.3014066 (ACI 2016)
+
+#### Sound to your objects: a novel design approach to evaluate orangutans' interest in sound-based stimuli — Patricia Pons, Marcus Carter (2016)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give apes control over what they hear by making sound respond to objects.
+- What it is: A design for zoo orangutans in which handling tangible objects triggers sounds, to test their interest in controlling auditory stimuli.
+- How it works: Tangible, non-digital-looking objects linked to sound playback, planned with Melbourne Zoo orangutans.
+- Paper: https://doi.org/10.1145/2995257.2995383 (ACI 2016)
+
 #### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
 - Type: Paper · Organisms: Animals
 - Idea: Play is a route to enrichment and a method for designing with any species.
@@ -11211,6 +11834,44 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - How it works: Design research with keepers and elephants to develop playful interactive devices.
 - Paper: https://doi.org/10.1145/2793107.2810327 (CHI PLAY 2015)
 - Project page: https://doi.org/10.1145/2793107.2810327
+
+#### Designing for intuitive use for non-human users — Hanna Wirman (2015)
+- Type: Paper · Organisms: Animals
+- Idea: Intuitive use for animals comes from what their bodies already know.
+- What it is: Argues, from touchscreen games made for orangutans, that tangible interfaces and familiar actions can make digital technology intuitive for animals.
+- How it works: Reflection on orangutan game design, drawing on knowledge transfer from domains familiar to the animal.
+- Paper: https://doi.org/10.1145/2832932.2837008 (ACE 2015)
+
+#### Naturalism and ACI: augmenting zoo enclosures with digital technology — Marcus Carter, Sarah Webber (2015)
+- Type: Paper · Organisms: Animals
+- Idea: Digital enrichment in zoos has to fit an ideal of naturalism; hide the tech, keep the behaviour natural.
+- What it is: Discusses how zoos value naturalistic enclosures and what this means for putting digital technology into them, based on interviews with zoo staff.
+- How it works: Literature review and interviews with Zoos Victoria staff within a digital enrichment project.
+- Paper: https://doi.org/10.1145/2832932.2837011 (ACE 2015)
+
+#### The Arena System: a novel shared touch-panel apparatus for the study of chimpanzee social interaction and cognition — Christopher Flynn Martin (2013)
+- Type: Research prototype · Organisms: Animals
+- Idea: A shared screen turns individual cognitive tests into social ones.
+- What it is: The Arena System is a shared touch-panel apparatus in which two chimpanzees work side by side, used to study their social interaction and cognition.
+- How it works: Two linked touch-panels with feeders and a master PC, controlled by custom software at the Primate Research Institute, Kyoto University.
+- Paper: https://doi.org/10.3758/s13428-013-0418-y (Behavior Research Methods 2013)
+- Images: https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13428-013-0418-y/MediaObjects/13428_2013_418_Fig1_HTML.gif
+
+#### Apps for Apes — Orangutan Outreach (2012)
+- Type: Product & platform · Organisms: Animals
+- Idea: Off-the-shelf tablets can become enrichment, and a public story about ape minds.
+- What it is: Apps for Apes gives iPads to zoos so that orangutans can use drawing, music and video apps as enrichment, with keepers holding the tablet.
+- How it works: Donated iPads with human-facing apps, used through the mesh during keeper-led sessions.
+- Video: https://www.youtube.com/watch?v=ZsSIKj5ULp4
+
+#### Primate Cinema: Apes as Family — Rachel Mayeri (2012)
+- Type: Artwork · Organisms: Animals
+- Idea: Design media for another species' attention, then watch them watching.
+- What it is: A short drama made for chimpanzees, with actors in chimp costume, first screened to the chimpanzees at Edinburgh Zoo; the film cuts between the story and the apes watching it.
+- How it works: Plot and cues were developed with primatologists from chimp social behaviour; the film was shown on a large screen in the zoo enclosure and the audience was filmed.
+- Video: https://www.youtube.com/watch?v=4871rINIAeQ
+- Images: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg
+- Project page: https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/
 
 #### S.E.A. Aquarium — Resorts World Sentosa (2012)
 - Type: Product & platform · Organisms: Animals, Ecosystems
@@ -11225,6 +11886,21 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 
 Decoding and exchanging signals with whales, dolphins, birds and other species.
 
+#### Towards Interface Design for Parrot-Human Communication: Investigating Parrot Selections of Speech Board Representations — Clara Mancini (2026)
+- Type: Paper · Organisms: Animals
+- Idea: Interface design variables that matter for humans also shape what a parrot says.
+- What it is: A four-year study of a Goffin's cockatoo using three successive speech board interfaces, examining how interface design affects her selections.
+- How it works: Longitudinal in-the-wild analysis of selections across button size, layout and representation type.
+- Paper: https://doi.org/10.1145/3772318.3791196 (CHI 2026)
+
+#### Listening with the Fishes: Aquatic Audio Interfaces to Experience Acoustic Underwater Worlds — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Make people hear the noise they add to an animal's world.
+- What it is: A pilot aquarium installation that lets visitors hear the underwater soundscape and fish sounds, as a first step toward acoustic enrichment for fish.
+- How it works: Hydrophone-based audio interface in a public aquarium, part of a proposed three-stage system.
+- Paper: https://doi.org/10.1145/3768539.3768552 (ACI 2025)
+- Video: https://www.youtube.com/watch?v=P4oZcewlZn8
+
 #### Contextual and combinatorial structure in sperm whale vocalisations — Project CETI (2024)
 - Type: Paper · Organisms: Animals
 - Idea: Look for combinatorial structure in nonhuman signals instead of mapping them onto human words.
@@ -11233,6 +11909,14 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Paper: https://doi.org/10.1038/s41467-024-47221-8 (Nature Communications 2024)
 - Video: https://www.youtube.com/watch?v=5N60yrXdgUM
 - Project page: https://www.projectceti.org/
+
+#### Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tablet-Based Speech Board in a Single Goffin’s Cockatoo — Jennifer Cunha (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Evaluate an animal's AAC use both as communication and as enrichment.
+- What it is: Seven months of a single cockatoo's use of a tablet speech board, with a framework for evaluating its expressive potential and enrichment value.
+- How it works: 129 sessions over 190 days coded with a new schema for expressive and enrichment measures.
+- Paper: https://doi.org/10.1145/3613904.3643654 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=u95r1Hjozpk
 
 #### NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics — Earth Species Project (2024)
 - Type: Paper · Organisms: Animals
@@ -11244,6 +11928,38 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Images: https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg
 - Project page: https://www.earthspecies.org/
 
+#### Rosetta Bone - Bridging the Language Gap Between Dogs and Humans with a QR Code-Enabled Communication System — Melody Moore Jackson (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Translate for the human, not for the dog.
+- What it is: Rosetta Bone is a QR-code tag on a dog's collar that tells a new caretaker the commands and language the dog already knows.
+- How it works: Collar QR tag linked to a web app that plays the owner's recorded cues in the dog's familiar language.
+- Paper: https://doi.org/10.1145/3702336.3702348 (ACI 2024)
+
+#### Soundboard-trained dogs (FluentPet buttons) — Federico Rossano, FluentPet (2024)
+- Type: Paper · Organisms: Animals
+- Idea: A consumer device can become a large-scale research instrument when owners share data.
+- What it is: A study of soundboard-trained dogs, which press recordable buttons such as FluentPet's, finding that their two-button combinations are not accidental, random or copies of their owners.
+- How it works: Button-press logs from many households' FluentPet boards analysed statistically for combination patterns.
+- Paper: https://doi.org/10.1038/s41598-024-79517-6 (Scientific Reports 2024)
+- Video: https://www.youtube.com/watch?v=cTnVSJ8V4wk
+- Images: https://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048
+- Project page: https://fluent.pet
+
+#### The Animal Whisperer Project — Oliver Bendel (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: A phone that reads an animal's signals can prevent conflicts on a walk.
+- What it is: Apps that use multimodal generative AI to read the body language of animals such as cows, horses and dogs from a phone camera and advise people how to behave.
+- How it works: GPT-4-based prompts with species-specific knowledge applied to images of animals in context.
+- Paper: https://doi.org/10.1145/3702336.3702347 (ACI 2024)
+- Video: https://www.youtube.com/watch?v=cSd_UAOCQFg
+
+#### TamagoPhone: A Framework for Augmenting Artificial Incubators to Enable Vocal Interaction Between Bird Parents and Eggs — Rébecca Kleinberger (2022)
+- Type: Speculative design · Organisms: Animals
+- Idea: Incubators save eggs but cut a conversation; technology can reconnect it.
+- What it is: TamagoPhone proposes adding two-way audio streaming to artificial incubators so that bird parents and embryos can hear each other before hatching.
+- How it works: Research design for low-latency audio links between a nest and an incubator, based on a review of prenatal vocal learning in birds.
+- Paper: https://doi.org/10.1145/3565995.3566036 (ACI 2022)
+
 #### Project CETI — Project CETI (2020)
 - Type: Product & platform · Organisms: Animals
 - Idea: Build the listening infrastructure first: to understand another species you need years of context-rich recordings.
@@ -11253,6 +11969,32 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Video: https://www.youtube.com/watch?v=Qm02X0aE8uU
 - Images: https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png
 - Project page: https://www.projectceti.org/
+
+#### Use of a Tablet-Based Communication Board and Subsequent Choice and Behavioral Correspondences in a Goffin's Cockatoo (Cacatua goffiana) — Jennifer Cunha (2020)
+- Type: Paper · Organisms: Animals
+- Idea: Augmentative communication devices made for people can give a bird a voice.
+- What it is: A Goffin's cockatoo learned to use a commercial tablet communication board to request foods, activities and interactions, and her requests were checked for consistency.
+- How it works: Associative training on an Android picture board; responses verified with follow-up questions and body language.
+- Paper: https://doi.org/10.1145/3446002.3446063 (ACI 2020)
+- Video: https://www.youtube.com/watch?v=szGajjmctXg
+
+#### DeepSqueak — Kevin Coffey (2019)
+- Type: Product & platform · Organisms: Animals
+- Idea: Make inaudible animal voices searchable and they become data about welfare and emotion.
+- What it is: DeepSqueak is open software that uses deep learning to find and classify the ultrasonic calls of rats and mice in recordings.
+- How it works: Faster R-CNN object detection on spectrograms, with clustering of call types, in a MATLAB interface.
+- Paper: https://doi.org/10.1038/s41386-018-0303-6 (Neuropsychopharmacology 2019)
+- Video: https://www.youtube.com/watch?v=uBB1tdUaCsE
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41386-018-0303-6/MediaObjects/41386_2018_303_Fig1_HTML.png
+- Project page: https://github.com/DrCoffey/DeepSqueak
+
+#### RoboBee: a dancing honeybee robot — Tim Landgraf (2018)
+- Type: Research prototype · Organisms: Insects
+- Idea: To speak with bees, a robot has to dance in their language.
+- What it is: RoboBee is a robotic honeybee that performs the waggle dance inside a hive; live bees follow its dance and some fly to the location it signals.
+- How it works: A bee replica on a robotic arm reproduces waggle-dance movement and vibration in an observation hive, with tracking of recruited foragers.
+- Paper: https://arxiv.org/abs/1803.07126 (arXiv 2018)
+- Video: https://www.youtube.com/watch?v=zp9_T9YK0Hk
 
 #### Birdflute — Li Jönsson, Tau Ulv Lenskjold (2015)
 - Type: Research prototype · Organisms: Animals, Human body
@@ -11273,6 +12015,13 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Images: https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg
 - Project page: https://www.wilddolphinproject.org/our-research/chat-research/
 
+#### No More Woof — Nordic Society for Invention and Discovery (2013)
+- Type: Speculative design · Organisms: Animals
+- Idea: The wish to hear pets speak is strong enough to fund devices science cannot yet back.
+- What it is: No More Woof is a crowdfunded EEG headset for dogs that claimed to translate a dog's brain activity into short spoken phrases such as 'I'm hungry'.
+- How it works: EEG sensors, a microcomputer and a loudspeaker mapping rough brain-state patterns to prerecorded phrases.
+- Video: https://www.youtube.com/watch?v=-Y4DHu8DAqg
+
 #### The Interspecies Internet — Interspecies Internet (2013)
 - Type: Speculative design · Organisms: Animals
 - Idea: Think of interspecies communication as networking: design channels, not only translations.
@@ -11282,9 +12031,49 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Images: http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w
 - Project page: https://www.interspecies.io/
 
+#### Underwater keyboard for dolphins — Diana Reiss (1993)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give animals a choice interface with sounds attached and they may adopt the sounds.
+- What it is: An underwater keyboard let bottlenose dolphins press symbols to get balls, rings or rubs; each key also played a computer-generated whistle, which the dolphins began to imitate.
+- How it works: Underwater keys with visual symbols, each paired with a synthetic whistle and a reward, at Marine World Africa USA.
+- Paper: https://doi.org/10.1037/0735-7036.107.3.301 (Journal of Comparative Psychology 1993)
+- Video: https://www.youtube.com/watch?v=zMjEo3qOqd8
+
+#### Dolphin Embassy — Ant Farm (1974)
+- Type: Speculative design · Organisms: Animals
+- Idea: Treat another intelligent species as a diplomatic partner that deserves its own embassy.
+- What it is: An unbuilt floating research station where humans and dolphins would live and communicate together, with a land/water living room, chutes for dolphins to swim between floors and a shared navigation pod.
+- How it works: Drawings, a booklet and research trips to Australia developed a triangular floating structure, influenced by John C. Lilly's human-dolphin communication research.
+- Video: https://www.youtube.com/watch?v=29y1NB6ELao
+- Images: https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200
+- Project page: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### LANA project and the Yerkish lexigram keyboard — Duane Rumbaugh (1973)
+- Type: Research prototype · Organisms: Animals
+- Idea: One of the first computer interfaces built for another species treated an ape as a user.
+- What it is: In the LANA project, a chimpanzee named Lana used a computer keyboard of abstract symbols, lexigrams, to request food and activities and to complete sentences; the lexigram keyboard later let the bonobo Kanzi communicate with people.
+- How it works: A computer-controlled keyboard of lighted lexigram keys following Yerkish grammar, logging every key press.
+- Paper: https://doi.org/10.1126/science.182.4113.731 (Science 1973)
+- Video: https://www.youtube.com/watch?v=wRM7vTrIIis
+- Images: https://upload.wikimedia.org/wikipedia/commons/f/f9/Kanzi_in_the_indoor_test_apparatus.jpg
+
 ### Wildlife, Farm & Tracking
 
 Sensing, tracking and living alongside wild and farmed animals.
+
+#### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye — Sena Cucumak (2025)
+- Type: Paper · Organisms: Animals
+- Idea: Probes can decentre the human by directing attention to animals in the street.
+- What it is: Design probes based on the 'arts of noticing' that help residents in Türkiye notice community street animals and rethink cohabitation.
+- How it works: Probe kits deployed with residents and analysed through noticing theory.
+- Paper: https://doi.org/10.1145/3706598.3713977 (CHI 2025)
+
+#### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
+- Type: Research prototype · Organisms: Animals
+- Idea: Understand the flock by listening to each sheep.
+- What it is: Electronic headwear for sheep that records microclimate, head and eye movement and bleating to study how individuals shape flock behaviour.
+- How it works: Head-mounted sensor package with environmental, inertial and audio sensing, prototyped for field use.
+- Paper: https://doi.org/10.1145/3768539.3768560 (ACI 2025)
 
 #### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
 - Type: Speculative design · Organisms: Animals
@@ -11294,6 +12083,13 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg
 - Project page: https://www.jiabaoli.org/animo
 
+#### Advancing Cattle Health Monitoring through ACI-Driven Wearable Sensor Technology: A Case Study of Leg-Worn System Development — Fangyuan Chang (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Livestock wearables should be designed for the cow's comfort and the farm's routines.
+- What it is: The design of a leg-worn health sensor for dairy cattle, developed with ACI principles and with the needs of cows and farmers in mind.
+- How it works: Iterative leg-band design, field observation on a farm, and sensor data for disease detection.
+- Paper: https://doi.org/10.1145/3637882.3637893 (ACI 2023)
+
 #### Lions out of Bounds? Reflections on Digital Technology and Matristic Design to address Human-Wildlife Conflict — Margarita Grinko (2023)
 - Type: Paper · Organisms: Animals
 - Idea: Coexistence tech works only when it fits local practices and needs.
@@ -11301,6 +12097,13 @@ Sensing, tracking and living alongside wild and farmed animals.
 - How it works: Geofence-based alert system developed with CLAWS Conservancy and farmers, reflected on through Matristic Design.
 - Paper: https://doi.org/10.1145/3628096.3628742 (AfriCHI 2023)
 - Project page: https://doi.org/10.1145/3628096.3628742
+
+#### Towards Harmonious Coexistence: A Bioacoustic-Driven Animal-Computer Interaction System for Preventing Ship Collisions with North Atlantic Right Whales — Mirjana Erceg (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Let the whale's voice change the ship's course.
+- What it is: A system that recognises North Atlantic right whale calls with a neural network and alerts nearby ships to avoid collisions.
+- How it works: Spectrograms of whale vocalisations classified by a CNN; detections feed a ship-facing warning interface.
+- Paper: https://doi.org/10.1145/3637882.3637890 (ACI 2023)
 
 #### Bat House — Ferne Edwards (2022)
 - Type: Research prototype · Organisms: Animals
@@ -11328,6 +12131,71 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Images: https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/2-Figure1-1.png https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/4-Figure5-1.png
 - Project page: https://doi.org/10.1145/3493842.3493894
 
+#### Beewise BeeHome — Beewise (2020)
+- Type: Product & platform · Organisms: Insects
+- Idea: Robotic care can watch a colony continuously, but it also changes the beekeeper's relationship to bees.
+- What it is: BeeHome is a solar-powered container of beehives in which cameras and a robotic arm inspect frames and treat colonies, with beekeepers working remotely.
+- How it works: Computer vision on frame images, a gantry robot arm and climate control inside a multi-hive unit.
+- Video: https://www.youtube.com/watch?v=8V5nPvq-DVc
+- Images: https://26497807.fs1.hubspotusercontent-eu1.net/hubfs/26497807/Hive%201%20(1).webp
+- Project page: https://www.beewise.ag
+
+#### Halter virtual fencing collars — Halter (2020)
+- Type: Product & platform · Organisms: Animals
+- Idea: When cows learn to follow cues from a collar, the fence becomes software.
+- What it is: Halter's solar-powered GPS collars keep cattle inside virtual fences and move them between paddocks, using sound and vibration cues instead of wire.
+- How it works: GPS and sensor collars trained with audio and vibration cues, managed through a farmer's app; low electric pulses as a last resort.
+- Video: https://www.youtube.com/watch?v=BSIq-rrGGX4
+- Project page: https://www.halterhq.com
+
+#### Smart Habitat: A Wildlife Rehabilitation System — K. Cassie Kresnye (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Wild animals in care need monitoring that keeps humans at a distance.
+- What it is: A sensor-equipped habitat for rehabilitating orphaned Virginia opossum joeys that lets volunteers monitor them with less human contact.
+- How it works: Microcontroller, environmental sensors and an Android app, designed from interviews and six months of observation.
+- Paper: https://doi.org/10.1145/3334480.3383093 (CHI EA 2020)
+
+#### Whale Safe — Benioff Ocean Science Laboratory (2020)
+- Type: Product & platform · Organisms: Animals
+- Idea: Make whales present in shipping decisions with live data and public report cards.
+- What it is: Whale Safe combines an acoustic buoy that detects whale calls, whale-presence models and sightings to warn ships in the Santa Barbara Channel and grade how well they slow down.
+- How it works: Near-real-time AI detection of whale calls on a buoy, blended with ocean models and sightings, plus AIS ship-speed tracking.
+- Video: https://www.youtube.com/watch?v=bNf3C3C9Kw8
+- Images: https://whalesafe.com/wp-content/uploads/2020/09/og-image.png
+- Project page: https://whalesafe.com
+
+#### Listening to Save Wildlife — Margot Brereton (2019)
+- Type: Paper · Organisms: Animals, Ecosystems
+- Idea: Conservation technology needs design attention to the team's culture, time and knowledge, not only to sensors.
+- What it is: A DIS paper by Jessica Oliver and colleagues based on three years of fieldwork with the recovery team of an endangered Australian bird, the Eastern bristlebird, trialling acoustic monitoring in their conservation work.
+- How it works: Ethnographic fieldwork and design research, including trials of acoustic recorders, analysed thematically.
+- Paper: https://doi.org/10.1145/3322276.3322360 (DIS 2019)
+- Images: https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png
+
+#### Animal-to-Animal Data Sharing Mechanism for Wildlife Monitoring in Fukushima Exclusion Zone — Hill Hiroki Kobayashi (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: Let animals be the network where there are no roads, power or signal.
+- What it is: Sensor collars on wild animals in the Fukushima exclusion zone exchange data when animals meet, so that the animals themselves carry monitoring data out of an area without infrastructure.
+- How it works: Wildlife-borne sensor nodes that wake to communicate only when several animals are together, to save battery.
+- Paper: https://doi.org/10.3390/mti2030040 (Multimodal Technologies and Interaction 2018)
+- Video: https://www.youtube.com/watch?v=VSrdnvHMMJA
+
+#### AudioMoth — Open Acoustic Devices (2018)
+- Type: Product & platform · Organisms: Animals
+- Idea: Cheap open hardware lets many more people listen to wildlife.
+- What it is: AudioMoth is a small, low-cost, open-source acoustic logger that researchers and volunteers leave in the field to record bats, birds, insects and whole soundscapes.
+- How it works: Programmable microcontroller board with a MEMS microphone recording audible and ultrasonic sound to a memory card, with on-board detection options.
+- Paper: https://doi.org/10.1111/2041-210X.12955 (Methods in Ecology and Evolution 2018)
+- Images: https://static.wixstatic.com/media/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg/v1/fill/w_2500,h_2500,al_c/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg
+- Project page: https://www.openacousticdevices.info/audiomoth
+
+#### Confronting People's Fears about Bats: Combining Multi-modal and Environmentally Sensed Data to Promote Curiosity and Discovery — Yvonne Rogers (2018)
+- Type: Research prototype · Organisms: Animals
+- Idea: Real-time data from a feared animal can turn fear into curiosity.
+- What it is: PlayBat is a public display that combines a tangible interface, a quiz-like story and live bat-call data from sensors in a London park.
+- How it works: Multimodal physical display fed by IoT bat detectors, evaluated with members of the public.
+- Paper: https://doi.org/10.1145/3196709.3196783 (DIS 2018)
+
 #### Nest Box — Marcus Foth (2018)
 - Type: Product & platform · Organisms: Animals
 - Idea: The simplest multispecies architecture: a box that makes room for another species.
@@ -11346,6 +12214,31 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Images: https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Designing for wearability in animal biotelemetry — Patrizia Paci, Clara Mancini (2016)
+- Type: Paper · Organisms: Animals
+- Idea: The animal that carries a tracker is its user; design for its comfort.
+- What it is: A preliminary study of a cat wearing off-the-shelf biotelemetry devices, leading to a wearer-centred framework for designing animal trackers.
+- How it works: Video observation of the cat's reactions to device presence, analysed for signs of discomfort.
+- Paper: https://doi.org/10.1145/2995257.3012018 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=oqjeKRgVo5E
+
+#### Wolfland — Antti Tenetz (2016)
+- Type: Artwork · Organisms: Animals, Ecosystems
+- Idea: Draw a landscape from an animal's point of movement.
+- What it is: Part of the Jälestää – Tracing project: GPS tracks of a male wolf are laser-drawn on wood and acrylic, showing how the animal moves through and shapes a Finnish landscape.
+- How it works: Satellite positioning data from a collared wolf was plotted and laser-engraved, combined with aerial and field footage.
+- Images: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg
+- Project page: https://exhibitions.hybridmatters.net/works/wolfland
+
+#### Digital Naturalism — Andrew Quitmeyer (2015)
+- Type: Research prototype · Organisms: Animals, Insects, Ecosystems
+- Idea: Build tools in the field, with the animals, instead of in the lab.
+- What it is: A research practice of 'hiking hacks' in which designers and biologists build electronics in the field to interact with animals such as ants, spiders and frogs.
+- How it works: Wearable and portable microcontroller kits, performative field workshops and video documentation in Panama and elsewhere.
+- Paper: https://doi.org/10.1007/978-3-030-45289-6_5 (HCI Outdoors (Springer) 2020)
+- Video: https://www.youtube.com/watch?v=0Q-HbBKC2i4
+- Project page: https://www.digitalnaturalism.org/
+
 #### Interfed — Li Jönsson, Tau Ulv Lenskjold (2015)
 - Type: Research prototype · Organisms: Animals, Human body
 - Idea: Hand the trigger to birds so that their visits interrupt and enrich human indoor life.
@@ -11355,6 +12248,31 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Images: https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Playful rocksalt system: animal-computer interaction design in wild environments — Hill Hiroki Kobayashi (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: A salt lick can be an interface between city dwellers and wild animals.
+- What it is: Playful Rocksalt lets people in a city interact in real time with wild deer in a forest, which visit a salt lick fitted with sensors and a camera.
+- How it works: Rock salt fitted with sensors streams deer visits to a handheld device for remote users.
+- Paper: https://doi.org/10.1145/2832932.2837012 (ACE 2015)
+
+#### Utilizing the Cyberforest live sound system with social media to remotely conduct woodland bird censuses in Central Japan — Hill Hiroki Kobayashi (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: Live sound plus social media can turn remote listeners into a census team.
+- What it is: Cyberforest streams live sound from remote Japanese forests on the internet, and volunteers listening together on social media carried out bird censuses.
+- How it works: Unmanned microphones streaming 8 hours a day for over five years; censuses run with participants listening simultaneously online.
+- Paper: https://doi.org/10.1007/s13280-015-0708-y (Ambio 2015)
+- Images: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13280-015-0708-y/MediaObjects/13280_2015_708_Fig1_HTML.gif
+
+#### ICARUS and Movebank: an Internet of Animals — Martin Wikelski (2007)
+- Type: Product & platform · Organisms: Animals
+- Idea: Animals carrying sensors become a planetary sensing network.
+- What it is: ICARUS and Movebank track small animals such as birds and bats worldwide with tiny tags read from space, and share the movement data openly as an 'Internet of Animals'.
+- How it works: Solar tags with GPS and accelerometers uploaded to a receiver on the International Space Station (from 2018) and later satellites; data archived in Movebank.
+- Paper: https://doi.org/10.1242/jeb.02629 (Journal of Experimental Biology 2007)
+- Video: https://www.youtube.com/watch?v=e_KNyhQMjOY
+- Images: https://www.movebank.org/cms/img/about-us_ChristianZiegler_whitestorks.jpg
+- Project page: https://www.icarus.mpg.de/en
+
 #### PigeonBlog — Beatriz da Costa (2006)
 - Type: Research prototype · Organisms: Animals
 - Idea: Work with animals as partners in grassroots environmental sensing.
@@ -11362,9 +12280,43 @@ Sensing, tracking and living alongside wild and farmed animals.
 - How it works: Custom lightweight backpacks with CO and NOx sensors, GPS and GSM transmitting to a blog-style map.
 - Video: https://www.youtube.com/watch?v=XXNh5dKIh18
 
+#### CyberTracker — Louis Liebenberg, Edwin Blake (1996)
+- Type: Product & platform · Organisms: Animals
+- Idea: Design the interface around the expert's knowledge, not their literacy.
+- What it is: CyberTracker is a handheld field computer with an icon-based interface that lets expert trackers who cannot read or write record animal tracks and sightings with GPS.
+- How it works: Icon-driven data capture sequences on rugged handhelds with GPS, later a free app used by conservation projects worldwide.
+- Paper: https://doi.org/10.1145/506443.506466 (CHI EA 2002)
+- Video: https://www.youtube.com/watch?v=rs_fHKLZxr4
+- Project page: https://www.cybertracker.org
+
+#### Lely Astronaut milking robot — Lely (1992)
+- Type: Product & platform · Organisms: Animals
+- Idea: Voluntary milking lets the animal start the interaction with the machine.
+- What it is: The Lely Astronaut is a milking robot that cows visit on their own schedule; the robot identifies each cow, cleans and attaches cups, and records her data.
+- How it works: Robot arm with laser teat detection, collar-based cow identification and feed incentives in the milking box.
+- Video: https://www.youtube.com/watch?v=5cWiEp10ruA
+- Images: https://linn01mstr1r92oprod.dxcloud.episerver.net/globalassets/international/images---solution-product-or-service/lint---solutions/milking/astronaut-a5-next/product-slider/product-picture-of-lely-astronaut-a5-next.jpg
+- Project page: https://www.lely.com/solutions/milking/astronaut-a5/
+
+#### Crittercam — Greg Marshall (1986)
+- Type: Research prototype · Organisms: Animals
+- Idea: Put the camera on the animal and you see its world, not ours.
+- What it is: Crittercam is a camera and data logger attached to wild animals, from sharks and seals to penguins, that records video and environmental data from the animal's own position.
+- How it works: Waterproof video and sensor package with suction, harness or fin attachment and timed release for recovery.
+- Paper: https://doi.org/10.4031/002533207787442240 (Marine Technology Society Journal 2007)
+- Video: https://www.youtube.com/watch?v=q-EONusvq_8
+
 ### ACI Theory, Ethics & Methods
 
 Manifestos, ethics frameworks and methods for designing with animals as participants.
+
+#### Animals' Entanglement with Technology: a Scoping Review — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- Type: Paper · Organisms: Animals
+- Idea: Most technology animals meet was never designed for them; ACI has to study that too.
+- What it is: A scoping review of nearly 800 works on how animals meet technology, whether it is designed for them, with them or only around them.
+- How it works: Systematic coding of research objectives, technology types and animal contexts across HCI and neighbouring fields.
+- Paper: https://doi.org/10.1145/3706598.3713384 (CHI 2025)
+- Video: https://www.youtube.com/watch?v=elTCuVa7Vak
 
 #### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
 - Type: Paper · Organisms: Animals
@@ -11374,6 +12326,108 @@ Manifestos, ethics frameworks and methods for designing with animals as particip
 - Paper: https://doi.org/10.1145/3613904.3641994 (CHI 2024)
 - Images: https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png
 
+#### The Day After: Ethical Considerations for the End of Enriching Animal Research Projects — Jennifer Cunha, Clara Mancini (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Plan the end of an animal study as carefully as its start.
+- What it is: Discusses what happens to animals when a research project that gave them enriching technology ends and the devices are taken away.
+- How it works: Ethical analysis grounded in long-term parrot tablet studies, proposing obligations for project closure.
+- Paper: https://doi.org/10.1145/3702336.3702345 (ACI 2024)
+
+#### Substituting Animals with Biohybrid Robots: Speculative Interactions with Animal-Robot Hybrids — Ziming Wang (2023)
+- Type: Speculative design · Organisms: Animals
+- Idea: If robots replace animals on our plates, what do we still owe to either?
+- What it is: A speculative concept in which animals are replaced by biohybrid robots that people assemble and eat, used to provoke debate about food and animal futures.
+- How it works: Design fiction and provocation drawing on developments in biohybrid robotics and human–food interaction.
+- Paper: https://doi.org/10.1145/3563703.3596641 (DIS 2023)
+- Video: https://www.youtube.com/watch?v=Y4PcZCEH2fQ
+
+#### An Ethics Toolkit to Support Animal-Centered Research and Design — Luisa Ruge, Clara Mancini (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Ethics for animal participants works better as a practice you do than a rule you check.
+- What it is: An ethics toolkit of worksheets that helps researchers and designers reflect on their assumptions and responsibilities when animals take part in their work.
+- How it works: Structured prompts on the researcher's understanding of the animal, its role and the researcher's own role, used before and during projects.
+- Paper: https://doi.org/10.3389/fvets.2022.891493 (Frontiers in Veterinary Science)
+- Images: https://www.frontiersin.org/files/Articles/891493/fvets-09-891493-HTML/image_m/fvets-09-891493-g001.jpg
+
+#### Animal-centered design needs dignity: a critical essay on ACI’s core concept — Dirk van der Linden (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Being a good user experience for an animal is not the same as respecting the animal.
+- What it is: A critical essay arguing that 'animal-centred' has come to mean 'animal user-centred', and that ACI should ground its core concept in animal dignity.
+- How it works: Conceptual analysis of the ACI manifesto and later work, drawing on value-sensitive design and animal ethics.
+- Paper: https://doi.org/10.1145/3565995.3566028 (ACI 2022)
+
+#### Politicising Animal-Computer Interaction: an Approach to Political Engagement with Animal-Centred Design — Clara Mancini (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Designing for one animal's needs can reinforce the system that harms many; design has politics.
+- What it is: Argues that ACI projects operate inside socio-economic systems that are not animal-centred, and proposes a political approach to animal-centred design.
+- How it works: Draws on political interaction design literature to reframe ACI goals and researcher responsibilities.
+- Paper: https://doi.org/10.1145/3565995.3566034 (ACI 2022)
+
+#### Watching Animal-Computer Interaction: Effects on Perceptions of Animal Intellect — Sarah Webber, Marcus Carter (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Animal–computer interaction also acts on the humans who watch it.
+- What it is: Studies whether seeing orangutans use a digital enrichment installation changes zoo visitors' views of orangutan intelligence and support for conservation.
+- How it works: Visitor interviews and a survey at Melbourne Zoo comparing attitudes with and without the installation in use.
+- Paper: https://doi.org/10.1145/3565995.3566035 (ACI 2022)
+
+#### Welfare Through Competence: A Framework for Animal-Centric Technology Design — Sarah Webber (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Design technology that lets animals exercise their competences, and welfare follows.
+- What it is: Proposes 'Welfare through Competence', a framework that guides animal technology design by the skills and behaviours an animal needs to use and develop.
+- How it works: Framework built from animal welfare science and ACI practice, applied to zoos, farms, shelters and kennels.
+- Paper: https://doi.org/10.3389/fvets.2022.885973 (Frontiers in Veterinary Science)
+
+#### Concept Craft Cards: Deck of theoretical and practical suggestions for ACI developers — Fiona French, Clara Mancini (2021)
+- Type: Paper · Organisms: Animals
+- Idea: A card deck can carry animal-centred principles into everyday design sessions.
+- What it is: A deck of Concept Craft Cards that gives ACI developers conceptual, experiential and practical prompts for designing enrichment for non-human clients.
+- How it works: Cards organised in levels, from design philosophy to sensory topics, used against non-human client briefs.
+- Paper: https://doi.org/10.1145/3450741.3466816 (C&C 2021)
+
+#### Ethics and Power Dynamics in Playful Technology for Animals: Using speculative design to provoke reflection — Fiona French, Ilyena Hirskyj-Douglas, Heli Väätäjä, Patricia Pons (2021)
+- Type: Paper · Organisms: Animals
+- Idea: Speculating about animal play devices exposes who controls the game.
+- What it is: A workshop that used speculative design to debate the ethics and power relations of playful technology for animals.
+- How it works: Participants designed speculative interspecies play systems and discussed their implications.
+- Paper: https://doi.org/10.1145/3464327.3464366 (Academic Mindtrek 2021)
+
+#### Reflecting on Methods in Animal Computer Interaction: Novelty Effect and Habituation — Ilyena Hirskyj-Douglas, Sarah Webber (2021)
+- Type: Paper · Organisms: Animals
+- Idea: A drop in use is not failure; design and evaluate for the long tail after novelty fades.
+- What it is: Examines why animals often use a new device eagerly and then lose interest, linking HCI's novelty effect with habituation from animal behaviour science.
+- How it works: Analysis of three ACI enrichment deployments (including monkeys and orangutans) through the lenses of novelty and habituation.
+- Paper: https://doi.org/10.1145/3493842.3493893 (ACI 2021)
+- Video: https://www.youtube.com/watch?v=jKV5uoLWlUQ
+
+#### A Method for Evaluating Animal Usability (MEAU) — Luisa Ruge, Clara Mancini (2019)
+- Type: Paper · Organisms: Animals
+- Idea: Usability can be measured for a dog, if you know what its behaviour means.
+- What it is: Proposes MEAU, a method for evaluating how usable an interface is for an animal user, by reading the animal's behaviour against its species' capabilities.
+- How it works: Combines usability constructs from HCI with ethological behaviour coding, tested on dogs using interfaces.
+- Paper: https://doi.org/10.1145/3371049.3371060 (ACI 2019)
+
+#### Opportunities for ACI in PLF: Applying Animal- and User-Centred Design to Precision Livestock Farming — Stacey D. Scott (2019)
+- Type: Paper · Organisms: Animals
+- Idea: Farm sensors are designed for animals too; involve them and farmers in the process.
+- What it is: Argues that precision livestock farming, which grew out of engineering, should adopt animal- and user-centred design methods from ACI.
+- How it works: Comparison of PLF and ACI literature with design opportunities for livestock technology.
+- Paper: https://doi.org/10.1145/3371049.3371055 (ACI 2019)
+
+#### ZooJamming: Designing Beyond Human Experience — Fiona French, Anna Zamansky, Sarah Webber, Reinhard Gupfinger (2019)
+- Type: Paper · Organisms: Animals
+- Idea: A game-jam format gets zoo experts and designers prototyping for animals in a day.
+- What it is: Reports on three ZooJams, game-jam-style workshops at the ACI conference where mixed teams design enrichment for zoo animals to real briefs.
+- How it works: Jam format with keeper-written briefs, rapid ideation and crafted prototypes, reflected on by the organisers.
+- Paper: https://doi.org/10.1145/3316287.3316294 (ICGJ 2019)
+
+#### Seven Years after the Manifesto: Literature Review and Research Directions for Technologies in Animal Computer Interaction — Ilyena Hirskyj-Douglas, Patricia Pons (2018)
+- Type: Paper · Organisms: Animals
+- Idea: A map of what has been built for animals shows where interaction design for them is still thin.
+- What it is: A literature review of technologies built for animals in the seven years after the ACI manifesto: tangible, haptic, wearable, olfactory, screen and tracking systems.
+- How it works: Thematic review organised by interaction modality, with research directions for each.
+- Paper: https://doi.org/10.3390/mti2020030 (Multimodal Technologies and Interaction 2018)
+- Images: https://pub.mdpi-res.com/mti/mti-02-00030/article_deploy/html/images/mti-02-00030-g001.png
+
 #### The Emerging Nature of Participation in Multispecies Interaction Design — Clara Mancini (2018)
 - Type: Paper · Organisms: Animals
 - Idea: Animals can participate in design even if they cannot understand the design process.
@@ -11381,6 +12435,20 @@ Manifestos, ethics frameworks and methods for designing with animals as particip
 - How it works: Theoretical model built from examples of dog-computer interaction and indexical semiotics.
 - Paper: https://doi.org/10.1145/3196709.3196785 (DIS 2018)
 - Project page: https://doi.org/10.1145/3196709.3196785
+
+#### Animal-Computer Interaction: The emergence of a discipline — Clara Mancini, Shaun Lawson, Oskar Juhlin (2017)
+- Type: Paper · Organisms: Animals
+- Idea: ACI became a discipline once it had shared aims and a venue to argue about them.
+- What it is: The editorial to the first journal special issue on Animal–Computer Interaction, outlining the field's aims, challenges and community.
+- How it works: Overview of the state of the art and introduction to the special issue papers in IJHCS.
+- Paper: https://doi.org/10.1016/j.ijhcs.2016.10.003 (IJHCS 2017)
+
+#### Exploring Research through Design in Animal Computer Interaction — Fiona French, Clara Mancini (2017)
+- Type: Paper · Organisms: Animals
+- Idea: When no interaction idiom exists for a species, making prototypes is how you find one.
+- What it is: Argues that research through design helps ACI researchers explore situations where no established way of interacting with an animal yet exists, drawing on elephant enrichment prototypes.
+- How it works: Reflection on iterative prototyping of interactive toys with zoo elephants, framed by research-through-design literature.
+- Paper: https://doi.org/10.1145/3152130.3152147 (ACI 2017)
 
 #### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
 - Type: Paper · Organisms: Animals
@@ -11399,14 +12467,49 @@ Manifestos, ethics frameworks and methods for designing with animals as particip
 - Images: https://michellewesterlaken.com/2021/09/dog_w.jpg
 - Project page: https://michellewesterlaken.com/portfolio/robotic-dog-toys/
 
-#### Primate Cinema: Apes as Family — Rachel Mayeri (2012)
-- Type: Artwork · Organisms: Animals
-- Idea: Design media for another species' attention, then watch them watching.
-- What it is: A short drama made for chimpanzees, with actors in chimp costume, first screened to the chimpanzees at Edinburgh Zoo; the film cuts between the story and the apes watching it.
-- How it works: Plot and cues were developed with primatologists from chimp social behaviour; the film was shown on a large screen in the zoo enclosure and the audience was filmed.
-- Video: https://www.youtube.com/watch?v=4871rINIAeQ
-- Images: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg
-- Project page: https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/
+#### De-computing the pigeon sensorium — John Fass (2016)
+- Type: Speculative design · Organisms: Animals
+- Idea: Start from the animal's senses, not from a problem to solve.
+- What it is: An open-ended design project on how urban pigeons sense the city, arguing that non-goal-driven experiments can open new directions for ACI.
+- How it works: Design experiments and artefacts exploring pigeon perception of urban space.
+- Paper: https://doi.org/10.1145/2995257.3012022 (ACI 2016)
+- Video: https://www.youtube.com/watch?v=PhzLnO11lms
+
+#### Power, participation, and the dog internet — Shaun Lawson (2016)
+- Type: Book & essay · Organisms: Animals
+- Idea: Pet tech often speaks for the animal without letting it speak.
+- What it is: An essay on the rise of 'dog internet' products that promise to translate tail wags and barks, and on who holds power in these systems.
+- How it works: Critical reading of commercial pet devices and apps, drawing on participatory design ideas about power.
+- Paper: https://doi.org/10.1145/2942442 (ACM Interactions 2016)
+
+#### Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs — Shaun Lawson (2015)
+- Type: Speculative design · Organisms: Animals
+- Idea: Show speculative products before they are built to surface what might go wrong.
+- What it is: Uses speculative pet-tracking product concepts to ask pet owners and animal experts about 'quantified' cats and dogs.
+- How it works: Speculative design concepts presented in an online study with owners and in interviews with animal behaviour experts.
+- Paper: https://doi.org/10.1145/2702123.2702260 (CHI 2015)
+
+#### Animal personas: acknowledging non-human stakeholders in designing for sustainable food systems — Jessica Frawley (2014)
+- Type: Paper · Organisms: Animals
+- Idea: Give animals a persona and they enter the design brief.
+- What it is: Adapts personas, a standard user-centred design tool, to represent farm animals alongside farmers when designing for co-operative and sustainable food systems.
+- How it works: Personas for livestock built from farming philosophy and animal needs, used in a design process for a food co-operative.
+- Paper: https://doi.org/10.1145/2686612.2686617 (OzCHI 2014)
+
+#### Who Is Really In The Center Of Dog Computer Design? — Ilyena Hirskyj-Douglas (2014)
+- Type: Paper · Organisms: Animals
+- Idea: Before borrowing HCI methods for animals, check whose needs the method actually serves.
+- What it is: A position paper asking whether HCI methods such as co-design and grounded theory can move from human users to dogs, and who really sits at the centre of 'dog-centred' design.
+- How it works: A review of HCI's history of user involvement, mapped onto dog–computer design practices.
+- Paper: https://doi.org/10.1145/2693787.2693793 (ACE 2014 Workshops (ACI))
+
+#### Ethical issues and guidelines when conducting HCI studies with animals — Heli Väätäjä (2013)
+- Type: Paper · Organisms: Animals
+- Idea: Studies with animals need their own ethics checklist, not a copy of human-participant rules.
+- What it is: A literature-based set of ethical guidelines for HCI studies that involve animals, covering planning, running and reporting such studies.
+- How it works: A review of animal-research ethics and welfare literature condensed into phase-by-phase guidelines for HCI researchers.
+- Paper: https://doi.org/10.1145/2468356.2468736 (CHI EA 2013)
+- Video: https://www.youtube.com/watch?v=b7hrtlKnp1g
 
 #### Animal-computer interaction: a manifesto — Clara Mancini (2011)
 - Type: Paper · Organisms: Animals
@@ -11416,14 +12519,6 @@ Manifestos, ethics frameworks and methods for designing with animals as particip
 - Paper: https://doi.org/10.1145/1978822.1978836 (ACM Interactions 2011)
 - Video: https://www.youtube.com/watch?v=TMOJSpXfRoI
 - Project page: https://www.open.ac.uk/blogs/ACI/
-
-#### Augmented Animals (LED Dog Tail Communicator) — Auger-Loizeau (2006)
-- Type: Speculative design · Organisms: Animals
-- Idea: Ask what gadgets would exist if animals were the users, to expose how human-centred technology is.
-- What it is: A series of devices imagining technology designed for animals' own use; the LED Dog Tail Communicator reads the speed of a dog's wagging tail and spells out its message in words for people.
-- How it works: An automated wagging tail fitted with programmed LEDs maps tail speed to text; other concepts in the series include rodent night-vision goggles and bird-mounted anti-collision radar.
-- Images: https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg
-- Project page: https://www.moma.org/interactives/exhibitions/2008/elasticmind/
 
 ## Human–Nature Interaction
 
@@ -11618,6 +12713,15 @@ Designs that slow people down and help them notice, attend to and feel connected
 - Images: https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Curiosity Cloud — mischer'traxler studio (2015)
+- Type: Artwork · Organisms: Insects
+- Idea: Interaction can make people notice species they usually ignore, including declining and invasive insects.
+- What it is: An installation of hundreds of glass bulbs, each holding a hand-made replica of a different insect species; when visitors approach, the insects start to flutter and tap against the glass, and fall still when people leave.
+- How it works: Each bulb contains a motor-driven insect replica and a sensor; proximity triggers movement and sound, and the species mix reflects local, rare and invasive insects.
+- Video: https://www.youtube.com/watch?v=S4C4zKv1oh4
+- Images: https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg
+- Project page: https://mischertraxler.com/projects/curiosity-cloud/
+
 #### Forest — Seekrtech (2014)
 - Type: Product & platform · Organisms: Plants, Human body
 - Idea: Use a growing tree as a metaphor for attention, and link it to real trees.
@@ -11749,15 +12853,6 @@ Interaction design for trails, forests, parks, mountains and water.
 - Video: https://www.youtube.com/watch?v=SWtDeeXtMZM
 - Project page: https://pokemongolive.com/
 
-#### Digital Naturalism — Andrew Quitmeyer (2015)
-- Type: Research prototype · Organisms: Animals, Insects, Ecosystems
-- Idea: Build tools in the field, with the animals, instead of in the lab.
-- What it is: A research practice of 'hiking hacks' in which designers and biologists build electronics in the field to interact with animals such as ants, spiders and frogs.
-- How it works: Wearable and portable microcontroller kits, performative field workshops and video documentation in Panama and elsewhere.
-- Paper: https://doi.org/10.1007/978-3-030-45289-6_5 (HCI Outdoors (Springer) 2020)
-- Video: https://www.youtube.com/watch?v=0Q-HbBKC2i4
-- Project page: https://www.digitalnaturalism.org/
-
 #### HOBBIT: An Asocial Hiking App — Jonna Häkkilä (2014)
 - Type: Research prototype · Organisms: Ecosystems, Human body
 - Idea: Design for being alone in nature: an asocial app.
@@ -11878,14 +12973,6 @@ Tools that let people identify, record and monitor species and ecosystems.
 - How it works: On-device machine learning on live spectrograms, trained on recordings from the Macaulay Library.
 - Video: https://www.youtube.com/watch?v=xmSUOLxyatY
 - Project page: https://merlin.allaboutbirds.org/
-
-#### Listening to Save Wildlife — Margot Brereton (2019)
-- Type: Paper · Organisms: Animals, Ecosystems
-- Idea: Conservation technology needs design attention to the team's culture, time and knowledge, not only to sensors.
-- What it is: A DIS paper by Jessica Oliver and colleagues based on three years of fieldwork with the recovery team of an endangered Australian bird, the Eastern bristlebird, trialling acoustic monitoring in their conservation work.
-- How it works: Ethnographic fieldwork and design research, including trials of acoustic recorders, analysed thematically.
-- Paper: https://doi.org/10.1145/3322276.3322360 (DIS 2019)
-- Images: https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png
 
 #### Wildlife Insights — Wildlife Insights (2019)
 - Type: Product & platform · Organisms: Animals, Ecosystems
@@ -12461,6 +13548,14 @@ Making air, water, soil, climate and biodiversity data felt in everyday life.
 - Video: https://www.youtube.com/watch?v=emzSsmAIw6E
 - Images: https://freight.cargo.site/w/300/i/c88f6aeedc51fb4a0cf7c386760011e1c0a64571ea61410a3e436914a9358a7e/asunder.jpeg
 - Project page: https://tegabrain.com/Asunder
+
+#### Atmospheric Forest — Rasa Smite & Raitis Smits (2019)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: Make the invisible breathing of trees under climate stress perceptible.
+- What it is: An immersive installation that visualises how the Pfynwald pine forest in the Swiss Alps breathes out volatile organic compounds under drought, based on data from a forest turned into a living observatory.
+- How it works: VOC and tree-physiology data from Swiss research institute WSL are rendered as a 3D visualisation (also in VR).
+- Video: https://www.youtube.com/watch?v=bvxWbEK0lCY
+- Project page: https://zkm.de/en/exhibition/2020/05/critical-zones
 
 #### Symbiosia — Thijs Biersteker (2019)
 - Type: Artwork · Organisms: Plants
@@ -13268,14 +14363,18 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 
 ## Creators
 
+- **Ilyena Hirskyj-Douglas** (24) — Academic at the School of Computing Science, University of Glasgow; leads its Animal-Computer Interaction group. ACI researcher who builds systems that animals control themselves, from a dog-to-human video phone to music players for monkeys and parrots.
+- **Clara Mancini** (21) — Professor of Animal-Computer Interaction, The Open University; founder of the ACI Lab. Founder of Animal-Computer Interaction as a field; designs interfaces with working dogs and writes on animal-centred ethics. https://www.open.ac.uk/blogs/ACI/
 - **Jiabao Li** (21) — Artist and designer; Associate Professor, Northeastern University (previously UT Austin, Stanford; Apple designer). Artist, inventor and professor (Harvard GSD alum) whose installations, XR works, bio-art and performances deal with glaciers, bats, mice, squid, elephants and plankton. She co-founded Endless Health and ran the Ecocentric Future Lab at UT Austin. https://www.jiabaoli.org
-- **Ron Wakkary** (18) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
+- **Ron Wakkary** (19) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
 - **Ani Liu** (15) — Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania. Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care. https://ani-liu.com
 - **Neri Oxman** (13) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
 - **Alexandra Daisy Ginsberg** (12) — Artist; works with synthetic biology, conservation and AI. Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators. https://www.daisyginsberg.com
 - **Andrew Adamatzky** (12) — Professor of Unconventional Computing, UWE Bristol; director of the Unconventional Computing Laboratory. Computer scientist who builds computers from slime mould, fungi, proteinoids, kombucha and chemical reactions, and edits the International Journal of Unconventional Computing. https://uncomp.uwe.ac.uk/
+- **Melody Moore Jackson** (12) — Professor, School of Interactive Computing, Georgia Institute of Technology; directs the Animal-Computer Interaction Lab. Researcher and dog trainer who designs wearable and touchscreen interfaces that service dogs operate.
 - **Mirela Alistar** (12) — Assistant Professor, ATLAS Institute and Computer Science, University of Colorado Boulder; director of the Living Matter Lab. Mirela Alistar started in biochip design automation and now leads a lab on interaction design with living matter: algae, kombucha, microbiomes and biomaterials. https://www.colorado.edu/atlas/living-matter-lab
 - **Oron Catts** (12) — Artist; co-founder of The Tissue Culture & Art Project and director of SymbioticA. Oron Catts is an artist and researcher who grows semi-living sculptures from tissue cultures. https://tcaproject.net
+- **Rébecca Kleinberger** (12) — Assistant Professor, Northeastern University (Khoury College and Art + Design); leads the INTERACT Animal Lab. Researcher on voice, sound and interspecies interaction; PhD from the MIT Media Lab.
 - **Bahareh Barati** (11) — Assistant Professor, Industrial Design, Eindhoven University of Technology. Bahareh Barati researches living and computational materials in design, including bioluminescent living light interfaces, algae-based slow computers and digital twins for mycelium growing.
 - **David Bowen** (11) — Studio artist and educator. American artist who builds robotic and data-driven sculptures, many of them steered by houseflies or by the electrical signals of living plants. https://www.dwbowen.com/
 - **Cortical Labs** (10) — Biotech company building biological computers from human neurons on silicon chips. Founded in 2019 by Hon Weng Chong, Cortical Labs grows human and mouse neurons on high-density multi-electrode arrays. It made DishBrain, which learned to play Pong, and sells the CL1 biological computer and cloud access to it. https://corticallabs.com
@@ -13284,27 +14383,31 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Elisa Giaccardi** (10) — Professor of Interaction Design, Politecnico di Milano; formerly Chair of Post-Industrial Design, TU Delft. Interaction design researcher who put cameras on everyday objects to see the world from their side and developed thing-centred design.
 - **Fiona Bell** (10) — HCI researcher and designer; PhD, Living Matter Lab, CU Boulder. Fiona Bell designs with biomaterials and living microbes: SCOBY wearables, skin-microbiome interfaces and photobioreactor sculptures.
 - **Guy Ben-Ary** (10) — Artist and researcher, SymbioticA, The University of Western Australia. Bio-artist who has worked with living neurons since 2000: robotic drawing (MEART), neural synthesizers (cellF) and organoids grown from the composer Alvin Lucier's blood (Revivification). https://guybenary.com
+- **Harpreet Sareen** (10) — Designer and researcher of plant–machine hybrids; faculty at Parsons School of Design; formerly MIT Media Lab. Harpreet Sareen coined 'Cyborg Botany': plants with wires grown inside them, plants that drive robots, and plants that sense water or talk through sound. https://harpreetsareen.com/
 - **Ionat Zurr** (10) — Artist and researcher; co-founder of The Tissue Culture & Art Project. Ionat Zurr is an artist and academic at the University of Western Australia who co-developed the idea of the semi-living. https://tcaproject.net
+- **Sarah Webber** (10) — Researcher, School of Computing and Information Systems, University of Melbourne. HCI researcher who studies digital enrichment for zoo animals and how visitors respond to it.
 - **Špela Petrič** (10) — Artist with a background in biology. Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans and plants. https://www.spelapetric.org
-- **Harpreet Sareen** (9) — Designer and researcher of plant–machine hybrids; faculty at Parsons School of Design; formerly MIT Media Lab. Harpreet Sareen coined 'Cyborg Botany': plants with wires grown inside them, plants that drive robots, and plants that sense water or talk through sound. https://harpreetsareen.com/
 - **Ingmar Riedel-Kruse** (9) — Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering. Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.
 - **Marcus Foth** (9) — Professor of Urban Informatics, QUT Design Lab, Queensland University of Technology. Urban informatics researcher working on smart cities, media architecture and more-than-human urbanism.
 - **Raphael Kim** (9) — Designer and researcher of human–microbe interaction; PhD Queen Mary University of London; postdoc TU Delft. Raphael Kim designs 'biotic games' driven by living moulds and bacteria and helped found the Microbe-HCI community.
 - **Superflux** (9) — Speculative design and futures studio founded by Anab Jain and Jon Ardern. Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI. https://superflux.in
 - **The Tissue Culture & Art Project** (9) — Artistic research project by Oron Catts and Ionat Zurr (since 1996). TC&A grows living tissue into sculptures, garments and food to question how biotechnology treats life. https://tcaproject.net
-- **Clara Mancini** (8) — Professor of Animal-Computer Interaction, The Open University; founder of the ACI Lab. Founder of Animal-Computer Interaction as a field; designs interfaces with working dogs and writes on animal-centred ethics. https://www.open.ac.uk/blogs/ACI/
 - **Elvin Karana** (8) — Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts. Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi. https://www.tudelft.nl/en/ide/about-ide/people/karana-e
 - **Interspecifics** (8) — Independent artistic research collective (Leslie García, Paloma López and others). Interspecifics is a Mexico City collective that turns bioelectric and behavioural signals of microorganisms, plants and slime moulds into sound, light and machine-learning systems.
 - **Ivan Henriques** (8) — Artist and researcher making bio-machines; based in the Netherlands. Ivan Henriques builds hybrid machines powered or controlled by living organisms: algae-eating floating robots, microbial-fuel-cell rafts and bacteria-driven tensegrity structures.
 - **Margot Brereton** (8) — Professor of Interaction Design, Queensland University of Technology (QUT). Interaction design researcher whose QUT group builds bird-listening devices, ecoacoustic citizen science tools and garden technologies with communities. https://research.qut.edu.au/
 - **Steve Benford** (8) — Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham. Co-founder of the Mixed Reality Lab, known for performance-led research in the wild with artists such as Blast Theory, and for the trajectories framework. Recent work studies robots, AI and animals through the artwork Cat Royale. https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
 - **Anna Dumitriu** (7) — Artist working with bacteria, infectious disease and biotechnology. Anna Dumitriu is a British artist who combines textiles and craft with microbiology in long collaborations with scientists. https://annadumitriu.co.uk
+- **Anna Zamansky** (7) — Associate Professor, Department of Information Systems, University of Haifa; heads the Tech4Animals lab. Researcher on technology for animals, from dog activity trackers to AI for animal behaviour and welfare.
 - **C-Lab (Laura Cinti & Howard Boland)** (7) — Art-science studio. London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology. https://www.c-lab.co.uk
+- **Fiona French** (7) — Associate Professor, School of Computing and Digital Media, London Metropolitan University. ACI researcher who designs interactive toys and sound instruments for captive elephants.
 - **Heidi R. Biggs** (7) — Design researcher working on posthuman and ecological design. Designer-researcher who makes embodied speculations about climate change and reflects on birdwatching as a posthuman method. https://www.heidibiggsdesign.com/
 - **Iohanna Nicenboim** (7) — Designer and researcher, TU Delft; works on more-than-human design and AI. Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them. https://iohanna.com/
 - **Larissa Pschetz** (7) — Reader in Interaction Design, University of Edinburgh; leads research on temporal design and biodesign. Larissa Pschetz studies how design shapes time and how designers can account for the times of other species, from microbes in labs to crops in fields.
+- **Marcus Carter** (7) — Human-Computer Interaction researcher, University of Sydney. Game and HCI researcher who builds digital enrichment for zoo animals, including orangutans at Melbourne Zoo.
 - **Mediated Matter Group (MIT Media Lab)** (7) — Research group at the MIT Media Lab directed by Neri Oxman (2010–2020). Mediated Matter worked at the intersection of computational design, digital fabrication, materials science and synthetic biology. https://www.media.mit.edu/groups/mediated-matter/overview/
 - **Michael Levin** (7) — Distinguished Professor of Biology, Tufts University; director of the Allen Discovery Center. Developmental biologist studying bioelectric signalling and how cells collectively decide what shape to build. https://drmichaellevin.org/
+- **Patricia Pons** (7) — Researcher, Universitat Politècnica de València. Researcher who builds intelligent playful environments for cats and other animals using depth cameras.
 - **Paul Vanouse** (7) — Artist; professor at the University at Buffalo. Paul Vanouse is an American artist who uses molecular biology techniques in performances. https://www.paulvanouse.com
 - **Robertina Šebjanič** (7) — Artist working on aquatic environments, interspecies relations and underwater sound. Robertina Šebjanič makes installations and performances about marine life, underwater noise and pollution, working with jellyfish, sea urchins, olms and hydrophone recordings. https://robertina.net
 - **Saša Spačal** (7) — Artist. Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies. https://www.agapea.si
@@ -13337,11 +14440,11 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Gilberto Esparza** (5) — Artist working with robotics, biotechnology and ecology. Gilberto Esparza builds autonomous bio-machines and instruments powered by bacteria in polluted water, such as Plantas Autofotosintéticas and BioSoNot.
 - **Heather Barnett** (5) — Artist and educator; Pathway Leader, MA Art and Science, Central Saint Martins (UAL). British artist who has worked with the slime mould Physarum polycephalum since 2008 through films, experiments and participatory games about collective intelligence. https://heatherbarnett.co.uk/
 - **ICD/ITKE University of Stuttgart** (5) — Institute for Computational Design and Construction and Institute of Building Structures and Structural Design. ICD and ITKE build an annual series of research pavilions that translate biological structures into robotic fabrication. https://www.icd.uni-stuttgart.de
-- **Ilyena Hirskyj-Douglas** (5) — Academic at the School of Computing Science, University of Glasgow; leads its Animal-Computer Interaction group. ACI researcher who builds systems that animals control themselves, from a dog-to-human video phone to music players for monkeys and parrots.
 - **Jenna Sutela** (5) — Artist. Finnish artist who works with microbes, slime moulds and machine learning to explore language and cognition beyond the human. https://jennasutela.com/
 - **Jennifer A. Lewis** (5) — Hansjörg Wyss Professor of Biologically Inspired Engineering, Harvard University. Jennifer Lewis develops printable inks for soft matter at Harvard's Wyss Institute, from vascularised tissue and organ building blocks to hydrogel composites that fold as they swell. https://lewisgroup.seas.harvard.edu/
 - **Jennifer Gabrys** (5) — Chair in Media, Culture and Environment, University of Cambridge; lead of Citizen Sense, Smart Forests and Planetary Praxis. Sociologist who studies environmental sensing, from citizen air-quality monitors to sensor networks in forests. https://www.jennifergabrys.net/
 - **Julia Lohmann** (5) — Designer; Professor of Contemporary Design, Aalto University; founder of the Department of Seaweed. Julia Lohmann founded the Department of Seaweed in 2013 as designer-in-residence at the V&A and works with kelp as a leather-like material. https://www.julialohmann.co.uk/
+- **Katia Vega** (5) — Associate Professor of Design, UC Davis; director of the Interactive Organisms Lab. Katia Vega creates beauty technology and interactive wearables, including biosensing tattoos and biomaterial accessories. https://www.katiavega.com/
 - **Ken Rinaldo** (5) — Artist; professor emeritus of art and technology, The Ohio State University. American artist who has built interspecies robotic installations since the late 1980s, in which fish, insects and bacteria steer or switch machines. https://www.kenrinaldo.com/
 - **Lena Smirnova** (5) — Assistant Professor, Johns Hopkins Bloomberg School of Public Health. Neurobiologist who develops human brain organoid models and leads Johns Hopkins work testing whether organoids show the basic mechanisms of learning and memory.
 - **Michelle Westerlaken** (5) — Design researcher; PhD, Malmö University. Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary. https://michellewesterlaken.com/
@@ -13349,6 +14452,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Orkan Telhan** (5) — Artist and designer; Chief Information and Data Officer at Ecovative; formerly Associate Professor, University of Pennsylvania. Orkan Telhan makes speculative and functional biodesign, from the Microbial Design Studio hardware to installations about engineered bodies, food and urban microbiomes. https://www.orkantelhan.com/
 - **Shoji Takeuchi** (5) — Professor, Institute of Industrial Science and Graduate School of Information Science and Technology, University of Tokyo; Biohybrid Systems Lab. Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face. https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Steve M. Potter** (5) — Former Associate Professor of Biomedical Engineering, Georgia Institute of Technology. Neuroengineer who embodied cultured rat neurons in simulated animals ('animats') and robots ('hybrots'), and co-created the MEART and Silent Barrage artworks with SymbioticA. https://potterlab.gatech.edu
+- **Thad Starner** (5) — Professor, School of Interactive Computing, Georgia Institute of Technology. Wearable computing pioneer who co-developed wearables for working dogs and for two-way communication with dolphins.
 - **Ursula Damm** (5) — Artist; professor of Media Environments, Bauhaus-Universität Weimar. Media artist who works with swarming midges, fruit flies and generative video to build feedback systems between insects, humans and machines. https://ursuladamm.de
 - **Yuta Ikeya** (5) — Designer and researcher, Industrial Design, Eindhoven University of Technology. Yuta Ikeya designs speculative computing artefacts with living organisms, such as the Algal Relay Computer that calculates through algae growth.
 - **AKI INOMATA** (4) — Artist. Japanese artist who collaborates with animals such as hermit crabs, bagworms, beavers and octopuses, letting their behaviour shape the finished work. https://www.aki-inomata.com/
@@ -13356,11 +14460,15 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Alinta Krauth** (4) — Artist and researcher in interspecies art and digital media. Alinta Krauth makes interactive and digital art with and for animals, including enrichment works for wild flying-foxes in care and AI works built on bird song. https://www.alintakrauth.com
 - **Anthony Atala** (4) — Director, Wake Forest Institute for Regenerative Medicine. Surgeon and researcher who leads the Wake Forest Institute for Regenerative Medicine, where the Integrated Tissue and Organ Printing system was built to print human-scale bone, cartilage and muscle. https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine
 - **Bruno Latour** (4) — Philosopher, sociologist and curator (1947–2022). Bruno Latour was a French philosopher of science whose actor-network theory and writings on Gaia shaped how design and art think about nonhuman agency. http://www.bruno-latour.fr
+- **Ceara Byrne** (4) — Researcher in Animal–Computer Interaction; PhD, Georgia Institute of Technology. Researcher who built instrumented dog toys, home touchscreens for assistance dogs and a dog-driven robot.
 - **Charlotte Jarvis** (4) — Artist. British artist who works with living cells, DNA and scientists to make portraits and performances. https://www.charlottejarvis.com
+- **Charlotte L. Robinson** (4) — Animal-Computer Interaction researcher, The Open University. Researcher who designed interfaces that assistance and diabetes alert dogs can operate.
 - **Douglas Blackiston** (4) — Senior Scientist, Allen Discovery Center at Tufts University and Wyss Institute. Biologist who builds Xenobots by hand and grows them from frog stem cells.
 - **Heather Dewey-Hagborg** (4) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping. https://deweyhagborg.com
+- **Hill Hiroki Kobayashi** (4) — Associate Professor, Information Technology Center, The University of Tokyo. Researcher who builds remote sensing, live-sound and animal-worn systems for wildlife, from forest deer to the Fukushima exclusion zone.
 - **Hirotaka Sato** (4) — Provost's Chair Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University. Engineer who steers living beetles and cockroaches with small electronic backpacks that stimulate their muscles or antennae.
 - **Jakob Kudsk Steensen** (4) — Artist working with game engines, field recording and ecology. Danish artist who reconstructs real ecosystems from fieldwork, scans and sound recordings as immersive installations, VR and AR. https://jakobsteensen.com/
+- **Jennifer Cunha** (4) — Founder, Parrot Kindergarten; researcher at Northeastern University. Parrot trainer and researcher who taught a Goffin's cockatoo, Ellie, to use a tablet speech board and studies parrot video calls.
 - **Johan Redström** (4) — Professor, Umeå Institute of Design, Umeå University. Design theorist who writes on how design defines things and on the changing nature of objects in a digital world.
 - **Joseph Lindley** (4) — Design researcher, ImaginationLancaster, Lancaster University. Researcher in design fiction, AI and object-oriented ontology who runs the designresearch.works studio. https://designresearch.works/
 - **Kasia Molga** (4) — Artist and designer; Studio Molga. Polish-born artist who works with environmental and biological data, AI and living organisms; co-founded World Wilder Lab in 2013 with Erik Overmeire and Ivan Henriques. https://www.studiomolga.com/
@@ -13376,6 +14484,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Rashid Bashir** (4) — Dean of the Grainger College of Engineering and Professor of Bioengineering, University of Illinois Urbana-Champaign. Bioengineer whose group makes 'bio-bots': 3D-printed hydrogel skeletons that walk using heart or skeletal muscle cells.
 - **Scenocosme** (4) — Artist duo Grégory Lasserre and Anaïs met den Ancxt. Scenocosme make interactive installations with plants, wood and bodies that react to touch and human bioelectricity. https://www.scenocosme.com/
 - **Seung Ah Lee** (4) — Associate Professor of Electrical and Electronic Engineering, Yonsei University. Seung Ah Lee builds optical and microscopy systems, including interactive light-projection microscopes that let people play with phototactic microorganisms.
+- **Shuyi Sun** (4) — Researcher, Interactive Organisms Lab, University of California, Davis. Designer-researcher who builds biosensing litter boxes, toys and wearables for pet health monitoring.
 - **Teresa van Dongen** (4) — Designer working with living systems and light. Teresa van Dongen studied at Design Academy Eindhoven and makes lamps and installations powered by bioluminescent and electroactive bacteria. https://www.teresavandongen.com/
 - **Terreform ONE** (4) — Nonprofit architecture and ecological design group co-founded by Mitchell Joachim. Terreform ONE designs ecological architecture and urban proposals with living systems, from tree houses to insect farms. https://www.terreform.org
 - **The Living** (4) — Architecture and design studio founded by David Benjamin. The Living is a New York studio that works with biology, computation and new materials; David Benjamin teaches at Columbia GSAPP.
@@ -13396,8 +14505,10 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Blast Theory** (3) — Artist group led by Matt Adams, Ju Row Farr and Nick Tandavanitj. Brighton-based artist group making interactive and mixed-reality works since 1991, long-term collaborators of Nottingham's Mixed Reality Lab. https://www.blasttheory.co.uk
 - **Carl DiSalvo** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Design researcher working on participatory design, public participation and adversarial design.
 - **Carlos Castellanos** (3) — Artist and researcher; faculty, School of Interactive Games and Media, Rochester Institute of Technology; co-founder of Phylum. Carlos Castellanos makes hybrid biological-electronic artworks, from microbial fuel cell synthesizers to AI agents that shape bacterial growth.
+- **Charles Ramey** (3) — Researcher in wearable and embedded sensing, Georgia Institute of Technology. Engineer who builds sensor systems for sled dogs, otters, elephants and dolphins with Thad Starner and Melody Jackson.
 - **Chris Watson** (3) — Sound recordist and composer; founding member of Cabaret Voltaire. Chris Watson records animals, habitats and weather around the world for albums, installations and BBC natural history films. https://chriswatson.net
 - **Christina Agapakis** (3) — Synthetic biologist and writer; former creative director at Ginkgo Bioworks. Christina Agapakis is a synthetic biologist who works with artists and designers on the culture of biotechnology. https://agapakis.com
+- **Christopher Flynn Martin** (3) — Director of Research, Indianapolis Zoo. Primatologist who builds touchscreen systems for chimpanzees and orangutans, from the Arena shared touch-panel to the portable ApeTouch.
 - **Christopher Frauenberger** (3) — Professor of Human-Computer Interaction, University of Salzburg. HCI researcher working on participatory design, ethics and relational theories of technology. https://frauenberger.name/
 - **Cyrus Clarke** (3) — Co-founder and strategy lead, Grow Your Own Cloud. Designer and researcher who co-founded Grow Your Own Cloud in 2018 to store digital data in the DNA of living plants. https://growyourown.cloud
 - **Ecovative** (3) — Mycelium materials company founded by Eben Bayer and Gavin McIntyre. Founded in 2007 by Rensselaer Polytechnic Institute graduates Eben Bayer and Gavin McIntyre, Ecovative grows packaging, building materials and food from mycelium and farm waste. https://ecovative.com/
@@ -13406,6 +14517,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Francesca Valsecchi** (3) — Associate Professor, College of Design and Innovation, Tongji University. Design researcher working on ecological soundscapes, oceans and more-than-human design.
 - **Geertje Slingerland** (3) — Researcher, Centre of Expertise Global & Inclusive Learning, The Hague University of Applied Sciences. Works on participatory design, city commons and biodiversity urban living labs with citizens.
 - **Helene Steiner** (3) — Designer and researcher; co-founder of Bento Lab; former artist-in-residence at Microsoft Research Cambridge. Helene Steiner works between design and biology: portable DNA labs, biological garments and plant–human communication. https://www.helenesteiner.com/
+- **Heli Väätäjä** (3) — Principal lecturer, Lapland University of Applied Sciences; formerly Tampere University of Technology. HCI researcher who has worked on dog activity tracking, dog–human bonding technology and research ethics for studies with animals.
 - **Hideo Iwasaki** (3) — Professor, Waseda University; founder of the metaPhorest bioaesthetics platform. Cyanobacteria and circadian-clock biologist and paper-cut artist who founded metaPhorest in 2007 as a lab-based platform for biomedia art. https://hideo-iwasaki.com
 - **Ioannis Ieropoulos** (3) — Microbial fuel cell researcher; founder of the Bristol BioEnergy Centre at the Bristol Robotics Laboratory. Engineer who builds robots and toilets powered by microbial fuel cells, from the EcoBot series to Pee Power.
 - **Jia Liu** (3) — Associate Professor of Bioengineering, Harvard John A. Paulson School of Engineering and Applied Sciences. Bioengineer who embeds soft, stretchable mesh electronics into organoids as they grow, so the electrodes become part of the tissue. https://liulab.seas.harvard.edu
@@ -13429,24 +14541,27 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Nonhuman Nonsense** (3) — Research-driven design and art studio. Studio founded by Leo Fidjeland and Linnea Våglund that makes speculative projects about ecology, rights of nature and more-than-human politics.
 - **OXMAN** (3) — Design and research company founded by Neri Oxman. OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture. https://www.oxman.com
 - **Oscar Tomico** (3) — Head of the Design Engineering Master, Elisava Barcelona; Associate Professor, Eindhoven University of Technology. Design researcher working on soft wearables, first-person methods and nature-entangled design.
+- **Oskar Juhlin** (3) — Professor of Interaction Design, Department of Computer and Systems Sciences, Stockholm University. Interaction design researcher who studied GPS-tracked hunting dogs, dog owners' technology and multispecies computer interaction.
 - **Paolo Bombelli** (3) — Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher. Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.
 - **Phil Ross** (3) — Artist and mycologist; co-founder and CTO of MycoWorks. Phil Ross has grown sculptures and buildings from Ganoderma (reishi) mycelium since the 1990s and coined the term Mycotecture. https://www.mycoworks.com/
 - **Rachel Clarke** (3) — Senior Lecturer, Open Lab, Newcastle University. Participatory design researcher working on cities, sustainability and more-than-human participation.
 - **Reef Design Lab** (3) — Design studio for artificial reefs and marine infrastructure, founded by Alex Goad. Reef Design Lab designs and casts modular reef structures from 3D-printed moulds, including MARS, an interlocking ceramic and concrete system installed in the Maldives and Australia. https://reefdesignlab.com/
+- **Reinhard Gupfinger** (3) — Artist and researcher, Tangible Music Lab, University of Art and Design Linz. Media artist who designs musical instruments and sonic interfaces for grey parrots living in captivity.
 - **Revital Cohen & Tuur Van Balen** (3) — Artist duo. Revital Cohen and Tuur Van Balen are a London-based duo whose work examines biology, production and the natural. https://www.cohenvanbalen.com
 - **Sam Kriegman** (3) — Assistant Professor of Computer Science, Mechanical Engineering and Chemical & Biological Engineering, Northwestern University. Computer scientist who uses evolutionary algorithms to design robot bodies, including the first computer-designed organisms (Xenobots). https://www.xenobot.group/
 - **Sascha Pohflepp** (3) — Designer and artist (1978–2019). Sascha Pohflepp was a German designer whose speculative work dealt with technology, energy and synthetic biology.
 - **Sergiu P. Pașca** (3) — Professor of Psychiatry and Behavioral Sciences, Stanford University. Neuroscientist who developed human cortical organoids and assembloids, and transplanted human organoids into the rat brain where they joined its circuits.
+- **Shaun Lawson** (3) — Professor of Social Computing, Northumbria University; formerly University of Lincoln. HCI researcher who used speculative design to question quantified-pet and 'dog internet' products.
 - **Stacey Kuznetsov** (3) — HCI researcher; led the Social and Digital Systems (SANDS) group at Arizona State University. Stacey Kuznetsov researches DIY biology, citizen science and biofabrication in human-computer interaction. https://sandsystems.org/
 - **Studio Klarenbeek & Dros** (3) — Design studio of Eric Klarenbeek and Maartje Dros. Eric Klarenbeek and Maartje Dros develop grown and biobased materials, from 3D-printed mycelium to algae bioplastics, and local production networks for them. https://www.ericklarenbeek.com/
 - **Studio Roosegaarde** (3) — Social design lab founded by artist Daan Roosegaarde. Makes large public light installations about water, air, energy and living light, such as Waterlicht and Glowing Nature. https://studioroosegaarde.net
 - **Sylvia Janicki** (3) — PhD researcher, Digital Media, Georgia Institute of Technology. Sylvia Janicki makes interactive installations with plants and biosensors about landscape, colonial history and more-than-human relations.
 - **Szu-Yu (Cyn) Liu** (3) — HCI and design researcher; PhD, Indiana University. Researcher who studies alternative farming, decomposition and photography as ways to design with naturecultures.
 - **Taher Saif** (3) — Professor of Mechanical Science and Engineering, University of Illinois Urbana-Champaign. Mechanical engineer who builds micro-scale swimmers powered by heart cells and by motor neurons driving muscle.
-- **Thad Starner** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Wearable computing pioneer who co-developed wearables for working dogs and for two-way communication with dolphins.
 - **Tosca Terán** (3) — Interdisciplinary artist and performer (Nanotopia). Canadian-Mexican artist who performs and installs sound and XR works driven by the bio-electrical activity of mycelium, slime mould and plant roots. https://www.toscateran.com/
 - **Toshiyuki Nakagaki** (3) — Professor, Research Institute for Electronic Science, Hokkaido University. Biophysicist who showed that the slime mould Physarum polycephalum finds shortest paths through mazes and builds efficient transport networks; two-time Ig Nobel laureate. https://www.es.hokudai.ac.jp/labo/nakagaki/
 - **Ursula Biemann** (3) — Artist, writer and video essayist. Swiss artist whose research-based video essays follow oceans, forests and Indigenous knowledge in the climate crisis. https://geobodies.org/
+- **Vilma Kankaanpää** (3) — PhD researcher, School of Computing Science, University of Glasgow. Researcher who prototypes buttons and audio devices for monkeys, lemurs and giraffes in zoos.
 - **Yoichi Ochiai** (3) — Associate Professor, University of Tsukuba; head of Digital Nature Group. Yoichi Ochiai is a media artist and researcher whose lab works on computational fabrication, holography and insect-based interfaces. https://digitalnature.slis.tsukuba.ac.jp/
 - **Yuning Chen** (3) — Design researcher, University of Edinburgh. Yuning Chen works on biodesign ethics, using provocative methods and speculative dining to question how microbes are treated in design labs.
 - **Zoran Srdić Janežič** (3) — Sculptor and intermedia artist; PhD researcher at AGRFT, University of Ljubljana. Slovenian sculptor who works with animatronics, 3D design and living tissue; since 2019 he has led the Biobot series with Kapelica Gallery and BioTehna Lab.
@@ -13458,9 +14573,11 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Alessandro Bozzon** (2) — Professor of Human-Centered Artificial Intelligence, Delft University of Technology. Alessandro Bozzon works on human-centred AI and knowledge and intelligence design at TU Delft's Faculty of Industrial Design Engineering.
 - **Alexandra Teixeira Riggs** (2) — PhD researcher, Digital Media, Georgia Institute of Technology. Alexandra Teixeira Riggs makes more-than-human and queer design work with biomaterials, sound and tangible media.
 - **Allison Kudla** (2) — Artist working with living systems, biology and technology. Allison Kudla makes installations in which machines read, print and tend living organisms such as cyanobacteria and plant cells.
+- **Alper Bozkurt** (2) — Professor of Electrical and Computer Engineering, North Carolina State University. Engineer who builds wearable and implantable sensor systems for animals, including smart harnesses for guide dogs in training.
 - **Alysson R. Muotri** (2) — Professor of Pediatrics and Cellular & Molecular Medicine, UC San Diego. Stem-cell biologist whose cortical organoids produced EEG-like brain waves; he has linked organoids to robots and sent them to space. https://muotri.ucsd.edu
 - **Amy Karle** (2) — Artist working with bioart and emerging technology. Amy Karle is an American artist who works with tissue engineering, 3D printing and AI. https://www.amykarle.com
 - **Andrew Quitmeyer** (2) — Founder of Digital Naturalism Laboratories (Dinalab); former Assistant Professor, National University of Singapore. Designer who builds field-hacked electronics with biologists in the jungle. https://www.digitalnaturalism.org/
+- **Ann Morrison** (2) — Interaction design researcher; formerly Aalborg University, now University of Southern Queensland. Researcher who designed a vibrotactile vest for hunting dogs and a self-activated wave machine for a zoo platypus.
 - **Anne Galloway** (2) — Associate Professor, Victoria University of Wellington; founder of the More-Than-Human Lab. Researcher in design ethnography and speculative design who studies relations among people, animals and technologies, including sheep farming.
 - **ArtScienceBangalore** (2) — Art-science lab at the Srishti School of Art, Design and Technology, led by Yashas Shetty. Art-science collective and DIY biolab founded at Srishti with the National Centre for Biological Sciences, known for iGEM-related bioart and mobile public labs. http://artscienceblr.org
 - **Audrey Dussutour** (2) — CNRS Research Director, Research Centre on Animal Cognition, Toulouse. Biologist who studies learning and decision-making in the slime mould Physarum polycephalum, known in France as 'le blob'.
@@ -13469,15 +14586,18 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Bolt Threads** (2) — Materials company behind Microsilk and Mylo. Bolt Threads develops biobased fibres and materials, including yeast-fermented spider-silk protein (Microsilk) and the mycelium leather Mylo, often with Stella McCartney. https://boltthreads.com/
 - **Braingeneers** (2) — Research group at UC Santa Cruz Genomics Institute (David Haussler, Mircea Teodorescu, Mohammed Mostajo-Radji). An interdisciplinary UC Santa Cruz group that runs organoid experiments through an internet-connected 'cloud lab' and trains cortical organoids in closed-loop tasks. https://braingeneers.ucsc.edu
 - **CMU CREATE Lab** (2) — Community Robotics, Education and Technology Empowerment Lab, Carnegie Mellon University (Illah Nourbakhsh, Yen-Chia Hsu). Lab that builds tools for communities to document air pollution.
+- **Carman Neustaedter** (2) — Professor, School of Interactive Arts and Technology, Simon Fraser University. HCI researcher on video communication and families who studied pet video chat and guide dog teams.
 - **Carole Collet** (2) — Professor in Design for Sustainable Futures; director of the Design & Living Systems Lab, Central Saint Martins. Carole Collet researches textile design, biomimicry and synthetic biology at Central Saint Martins, University of the Arts London. https://www.carolecollet.com/
 - **Cesar & Lois** (2) — Art collective of Lucy HG Solomon and Cesar Baio. Art collective working across the US and Brazil that builds installations linking living systems such as mycelium, plants and bacteria with artificial intelligence and networks. https://cesarandlois.org
 - **Charlotte Nordmoen** (2) — PhD researcher, Augmented Instruments Lab, Queen Mary University of London. Designer-researcher who builds interactive systems from wood and sensors and studies making through posthuman theory.
 - **Chidi Usanga** (2) — Researcher, University of Limerick. Participatory design researcher working on rivers and nonhuman stakeholders in sustainable development.
 - **Christopher Voigt** (2) — Professor of Biological Engineering, MIT. Christopher Voigt designs genetic circuits and programmable bacteria, from light-sensing E. coli to 'living circuit boards'.
 - **Claudia Núñez-Pacheco** (2) — Design researcher, Malmö University (previously Umeå University). Interaction design researcher working with somaesthetics, micro-phenomenology and first-person methods.
+- **Clint Zeagler** (2) — Research scientist in wearable technology, Georgia Institute of Technology. Wearable-computing designer who co-developed touchscreens, vests and interfaces that working dogs can operate.
 - **Cody Lukas** (2) — Artist working with living systems and scientific collaborators. Artist whose installations question where people draw the line of 'life', made with labs such as the University of Southern Denmark and the OvaCure organoid biobank. https://www.codylukas.com
 - **Data Garden** (2) — Music label and maker of MIDI Sprout and PlantWave. Founded by Joe Patitucci and Alex Tyson as a label for ambient music, it began making plant-driven music in 2012 and later sold devices that let anyone hear their plants. https://www.plantwave.com/
 - **David Rothenberg** (2) — Musician, philosopher and author; professor at New Jersey Institute of Technology. Clarinettist and writer who plays live with birds, humpback whales, insects and nightingales, and writes about why animals make music (Why Birds Sing, Thousand Mile Song, Nightingales in Berlin). http://www.davidrothenberg.net/
+- **Dirk van der Linden** (2) — Associate Professor, Department of Computer and Information Sciences, Northumbria University. Researcher on privacy and values in technology who writes critically on pet wearables and on what 'animal-centred' should mean.
 - **Dmitry Morozov (::vtol::)** (2) — Media artist and instrument builder. Russian artist working as ::vtol::, known for robotic sound objects, circuit bending and instruments that run on unusual signals, including his own blood and brain activity. https://vtol.cc
 - **DnA_Design and Architecture** (2) — Architecture office led by Xu Tiantian. Beijing architecture office known for small rural interventions in Songyang County and for landscape-scale projects that reuse existing structures.
 - **Donald Degraen** (2) — HCI researcher, HIT Lab NZ, University of Canterbury; formerly Saarland University and DFKI. Donald Degraen studies haptics and 'living media' interfaces that use real plants for ambient feedback. https://www.donalddegraen.com/
@@ -13488,7 +14608,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Fabienne Felder** (2) — Designer and creative strategist; founder of the studio Lumot. Fabienne Felder designs with emerging biotechnologies, most notably moss-powered electronics.
 - **Feifei Zhou** (2) — Artist and architectural designer; co-editor and visual designer of Feral Atlas. Feifei Zhou draws and maps multispecies landscapes; this work was shown in the Design Museum's More than Human exhibition in 2025.
 - **Ferdinand Ludwig** (2) — Professor of Green Technologies in Landscape Architecture, TU Munich. Architect Ferdinand Ludwig developed Baubotanik, a method of building with living trees joined to technical structures. https://www.arc.ed.tum.de/en/gtla/
-- **Fiona French** (2) — Associate Professor, School of Computing and Digital Media, London Metropolitan University. ACI researcher who designs interactive toys and sound instruments for captive elephants.
 - **Forensic Architecture** (2) — Research agency at Goldsmiths, University of London, directed by Eyal Weizman. Forensic Architecture uses spatial, architectural and media analysis to investigate state and corporate violence, including violence against environments. https://forensic-architecture.org
 - **Francesco Vergani** (2) — Researcher, Department of Design, Politecnico di Milano. Design researcher who runs workshops and living labs with plants in La Goccia, a former industrial site in Milan that has become an urban forest.
 - **George Church** (2) — Professor of Genetics, Harvard Medical School; core faculty, Wyss Institute. Geneticist behind genome sequencing and editing methods, DNA data storage and many synthetic-biology companies. https://arep.med.harvard.edu/
@@ -13502,14 +14621,18 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jeff Jones** (2) — Researcher, Unconventional Computing Laboratory, UWE Bristol. Computer scientist who models Physarum polycephalum as swarms of simple particles that lay and follow trails.
 - **Jen Keane** (2) — Designer and researcher; co-founder of Modern Synthesis. Jen Keane studied Material Futures at Central Saint Martins and co-founded Modern Synthesis to grow textiles with bacteria. https://www.jenkeane.com/
 - **Jennifer Preece** (2) — Professor and Dean Emerita, College of Information Studies, University of Maryland. HCI pioneer who turned to biodiversity citizen science, including the NatureNet and Floracaching projects.
+- **Jiaqi Wang** (2) — PhD researcher, School of Computing Science, University of Glasgow. Researcher who designs multisensory devices that lemurs and zoo visitors can both control.
 - **Jiwei Zhou** (2) — Design researcher, Faculty of Industrial Design Engineering, TU Delft. Jiwei Zhou designs living artefacts with cyanobacteria and studies how people care for them in daily life.
+- **Joelle Alcaidinho** (2) — Researcher, Georgia Institute of Technology (Animal–Computer Interaction). Researcher who designed collar-sensed gestures for dogs and mobile tools for police explosive-detection teams.
 - **Jon Back** (2) — Senior Lecturer, Department of Informatics and Media, Uppsala University. Game and play researcher who designs digital play for forests and playgrounds.
 - **Jon E. Froehlich** (2) — Professor, Paul G. Allen School of Computer Science & Engineering, University of Washington; director of the Makeability Lab. HCI researcher on sustainability sensing, accessibility and urban data.
 - **Jonas Edvard** (2) — Material designer. Jonas Edvard is a Danish designer who works with mycelium, seaweed and stone to make lamps, tiles, chairs and shelters. https://www.jonasedvard.com/
 - **Jonna Häkkilä** (2) — Professor of Industrial Design, University of Lapland. Interaction designer working in Finnish Lapland on wearables, displays and technology for nature and the Arctic.
+- **Josiah Hester** (2) — Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing. Josiah Hester builds battery-free and intermittent computing systems powered by the environment.
 - **Judith Dörrenbächer** (2) — Researcher, Ubiquitous Design / Experience and Interaction, University of Siegen. Designer and researcher working on more-than-human and critical design, including techno-mimesis methods in which designers take on the perspective of robots and other nonhumans.
 - **Julian Melchiorri** (2) — Designer and engineer, founder of Arborea. Julian Melchiorri embeds chloroplasts and microalgae in silk protein and glass, from the Silk Leaf prototype to Exhale, a chandelier of 70 bioreactor leaves shown at the V&A. https://www.julianmelchiorri.com/
 - **Julian Oliver** (2) — Critical engineer and artist. New Zealand artist and co-author of the Critical Engineering Manifesto. https://julianoliver.com/
+- **Jun Rekimoto** (2) — Professor, Interfaculty Initiative in Information Studies, The University of Tokyo; Sony Computer Science Laboratories. Pioneer of augmented reality and ubiquitous interfaces whose lab has also built sensing and display systems for cats and aquarium animals.
 - **Karen Sarkisyan** (2) — Group leader, MRC Laboratory of Medical Sciences and Imperial College London; co-founder of Light Bio. Karen Sarkisyan's group transferred the four-gene bioluminescence pathway of the mushroom Neonothopanus nambi into plants, producing tobacco and petunias that glow visibly without added chemicals. https://www.sarkisyanlab.org/
 - **Katerina Inglezaki** (2) — Researcher, University of Lisbon / Interactive Technologies Institute. Designer and researcher who does multispecies ethnography in the salt marshes of the Tagus estuary and turns fieldwork into interactive maps.
 - **Katie Paterson** (2) — Visual artist. Scottish artist whose works deal with deep time, distance and scale, from glaciers to dead stars. https://katiepaterson.org/
@@ -13519,10 +14642,10 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Kyungwon Lee** (2) — Researcher and media artist, Yonsei University. Kyungwon Lee creates interactive installations with living Euglena cells, such as MicroAquarium and EuglPollock.
 - **Laura Devendorf** (2) — Associate Professor, ATLAS Institute and Information Science, University of Colorado Boulder; director of the Unstable Design Lab. Laura Devendorf is an HCI researcher and artist who works with weaving, smart textiles and fabrication, often treating machines, materials and weather as collaborators. https://unstable.design
 - **Liz Edwards** (2) — Design researcher, ImaginationLancaster, Lancaster University. Works on design for place and nature engagement; co-led Biodiversity Logbooks with Serena Pollastri, a cyanotype toolkit for schoolchildren in Morecambe Bay. https://imagination.lancaster.ac.uk/project/biodiversity-logbooks/
+- **Luisa Ruge** (2) — Designer and researcher; PhD, The Open University ACI Laboratory. Industrial designer who developed methods for evaluating animal usability and an ethics toolkit for animal-centred research.
 - **Madlen Kneile** (2) — Researcher, Interaction Design for Sustainability and Transformation, University of Siegen. Design researcher who studies how technology can mediate relations between humans and nature, and the challenges of designing technology for nonhumans. https://artifact-archive.org
 - **Maja Smrekar** (2) — Artist. Maja Smrekar is a Slovenian artist working with biotechnology and human–animal co-evolution. https://www.majasmrekar.org
 - **Marc Hassenzahl** (2) — Professor of Ubiquitous Design / Experience and Interaction, University of Siegen. Psychologist and design researcher known for foundational work on user experience and experience design, now also exploring wellbeing, relatedness and more-than-human perspectives. https://www.experienceandinteraction.com
-- **Marcus Carter** (2) — Human-Computer Interaction researcher, University of Sydney. Game and HCI researcher who builds digital enrichment for zoo animals, including orangutans at Melbourne Zoo.
 - **Marcus Coates** (2) — Artist and ornithologist. British artist whose performances and videos use shamanic ritual, bird mimicry and collaboration with scientists to step into animal perspectives. https://www.marcuscoates.co.uk/
 - **Marcus Maeder** (2) — Sound artist and researcher, Institute for Computer Music and Sound Technology, Zurich University of the Arts. Sound artist and acoustic ecologist who records trees, soils and ecosystems. https://marcusmaeder.ch/
 - **Margrete Lodahl Rolighed** (2) — Design researcher, Digital Design and Information Studies, Aarhus University. Works on posthumanist interaction design with plants, including the Plant Radio and plant-sensing design experiments.
@@ -13534,7 +14657,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Matthias Laschke** (2) — Head of Interaction Design for Sustainability and Transformation, University of Siegen. Designer known for 'pleasurable troublemakers', everyday objects that create small frictions to support behaviour change, now working on sustainability and human–nature relations.
 - **Maurizio Rossi** (2) — Researcher in embedded systems and energy harvesting, University of Trento. Maurizio Rossi designs ultra-low-power sensors that run on energy harvested from the environment, including plant-microbial fuel cells.
 - **Maya Livio** (2) — Artist, writer and curator; PhD, University of Colorado Boulder. Makes films, media and curatorial projects about the contact zones between ecosystems and technological systems, including Salvaging Birds and Thermopower. https://mayalivio.com
-- **Melody Moore Jackson** (2) — Professor, School of Interactive Computing, Georgia Institute of Technology; directs the Animal-Computer Interaction Lab. Researcher and dog trainer who designs wearable and touchscreen interfaces that service dogs operate.
 - **Metin Sitti** (2) — Roboticist; founding director of the Physical Intelligence Department, Max Planck Institute for Intelligent Systems. Roboticist working on small-scale, soft and bio-inspired robots, including microrobots propelled by bacteria. https://pi.is.mpg.de/
 - **Michael Burton** (2) — Designer; co-founder of the studio Burton Nitta. British designer from the Royal College of Art Design Interactions programme who, with Michiko Nitta, makes speculative projects on bodies, biotechnology and the environment. https://www.burtonnitta.co.uk/
 - **Michael Haldrup** (2) — Professor, Department of Communication and Arts, Roskilde University. Researcher in performance design and participatory spatial design.
@@ -13549,6 +14671,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Next Nature Network** (2) — Design and research organisation founded by Koert van Mensvoort. Dutch network that uses design fiction, exhibitions and campaigns to discuss technology that becomes as complex and autonomous as nature. https://nextnature.net/
 - **Nonhuman Rights Project** (2) — US civil rights organisation for nonhuman animals, founded by Steven M. Wise. The Nonhuman Rights Project files habeas corpus cases in US courts to have cognitively complex animals such as chimpanzees and elephants recognised as legal persons. https://www.nonhumanrights.org
 - **Olafur Eliasson** (2) — Artist; founder of Studio Olafur Eliasson. Danish-Icelandic artist whose installations work with light, water, air and temperature; the artist's Berlin studio employs craftspeople, architects and researchers. https://olafureliasson.net/
+- **Patrizia Paci** (2) — Researcher; PhD, The Open University ACI Laboratory. Researcher on the wearability of animal biotelemetry who measured how cats react to commercial GPS trackers.
 - **Paulo Tavares** (2) — Architect and researcher; founder of autonoma. Brazilian architect whose spatial research maps how Indigenous peoples shaped the Amazon and argues for the rights of forests.
 - **Pedro Lopes** (2) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes studies devices that integrate with the user's body, from electrical muscle stimulation and chemical haptics to devices that contain living organisms. https://lab.plopes.org/
 - **Pei-Ying Lin** (2) — Designer and artist. Taiwanese designer and researcher making speculative work on viruses, microbes and human–nonhuman relations. https://peiyinglin.net
@@ -13558,9 +14681,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Rewa Wright** (2) — Artist and researcher in computational arts and mixed reality, Queensland University of Technology. Māori artist-researcher who, with Simon Howden as UnCalculated Studio, makes mixed-reality performances in which plants act as co-composers through their bioelectric signals. https://rewawright.com
 - **Roger S. Ulrich** (2) — Professor of Architecture and Landscape Architecture, Texas A&M University (emeritus). Environmental psychologist whose hospital studies founded evidence-based healing design.
 - **Roosa Piitulainen** (2) — HCI researcher, Aalto University. Researcher who co-designed audio enrichment devices with white-faced sakis in a zoo.
-- **Rébecca Kleinberger** (2) — Assistant Professor, Northeastern University (Khoury College and Art + Design); leads the INTERACT Animal Lab. Researcher on voice, sound and interspecies interaction; PhD from the MIT Media Lab.
 - **SWAMP** (2) — Art collective of Douglas Easterly and Matt Kenyon (Studies of Work Atmosphere and Mass Production). SWAMP (Douglas Easterly and Matt Kenyon) makes critical media art about technology, labour and living systems.
-- **Sarah Webber** (2) — Researcher, School of Computing and Information Systems, University of Melbourne. HCI researcher who studies digital enrichment for zoo animals and how visitors respond to it.
 - **Satoshi Kuribayashi** (2) — Designer and researcher, Keio University SFC (at the time of I/O Plant). Satoshi Kuribayashi created I/O Plant and Plant Feeling Light, toolkits and lamps that treat plants as input and output modules.
 - **Sissel Tolaas** (2) — Smell researcher and artist. Sissel Tolaas is a Norwegian artist who researches, collects and reconstructs smells.
 - **Studio Drift** (2) — Artist duo Lonneke Gordijn and Ralph Nauta. Dutch studio making kinetic sculptures inspired by natural behaviour. https://studiodrift.com/
@@ -13573,6 +14694,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Thomas B. DeMarse** (2) — Former Associate Professor of Biomedical Engineering, University of Florida. Neuroengineer who trained a culture of about 25,000 rat cortical neurons to stabilise a simulated aircraft, after co-developing the animat with Steve Potter.
 - **Thomas Feuerstein** (2) — Artist; lecturer at art universities in Austria and Switzerland. Austrian artist whose 'processual sculptures' run on bacteria, algae and human cell cultures grown with scientists at the University of Innsbruck. https://thomasfeuerstein.net
 - **Tiffany Wun** (2) — Design researcher, Everyday Design Studio, Simon Fraser University. Researcher who designs probes that bring more-than-human ideas into everyday design practice, such as vermicomposting kits.
+- **Tim Landgraf** (2) — Professor of Artificial and Collective Intelligence, Freie Universität Berlin; Dahlem Center for Machine Learning and Robotics. Computer scientist who builds biomimetic robots, RoboFish and RoboBee, that interact with live guppies and honeybees.
 - **Timothy Morton** (2) — Rita Shea Guffey Chair in English, Rice University. Timothy Morton is a philosopher of ecology associated with object-oriented ontology, known for the concepts of dark ecology and hyperobjects.
 - **Tom Ellis** (2) — Professor of Synthetic Genome Engineering, Imperial College London. Tom Ellis leads a synthetic biology lab that engineers yeast and bacteria, including cellulose-producing Komagataeibacter, for new materials. https://www.imperial.ac.uk/people/t.ellis
 - **Wil V. Srubar III** (2) — Associate Professor, University of Colorado Boulder; co-founder of Prometheus Materials. Wil Srubar leads the Living Materials Laboratory at CU Boulder, researching engineered living building materials and low-carbon cement. https://www.colorado.edu/lab/srubar/
@@ -13580,6 +14702,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Xuanhe Zhao** (2) — Professor of Mechanical Engineering, MIT; directs the Soft Active Materials Lab. Xuanhe Zhao develops hydrogel machines and bioadhesives, including hydrogels that host living engineered bacteria.
 - **Yaniv Erlich** (2) — Computer scientist and geneticist; formerly Columbia University and the New York Genome Center. Researcher who designed DNA Fountain, a near-optimal coding scheme for DNA storage, and co-created the DNA-of-Things architecture.
 - **Youyang Hu** (2) — Researcher, Kakehi Lab, The University of Tokyo. Youyang Hu makes installations that read plant biosignals and render how plants experience wind, rain and light.
+- **Yvonne Rogers** (2) — Professor of Interaction Design, University College London; director of the UCL Interaction Centre. HCI researcher known for ubiquitous computing in the wild and for the textbook Interaction Design.
 - **Zooniverse** (2) — People-powered research platform of the University of Oxford, Adler Planetarium and University of Minnesota. Platform where volunteers classify images and sounds for research projects. https://www.zooniverse.org/
 - **Zoë Breed** (2) — Researcher, Knowledge and Intelligence Design, Delft University of Technology. Zoë Breed designs and engineers bio-digital systems, from the bioluminescent-algae display Algae Alight to a computational taxonomy of how organisms and electronics share computing work.
 - **mischer'traxler studio** (2) — Design studio of Katharina Mischer and Thomas Traxler. Austrian studio known for process-driven machines and installations about nature and biodiversity, such as The Idea of a Tree and Curiosity Cloud. https://mischertraxler.com
@@ -13602,6 +14725,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Alex Metcalf** (1) — Artist and sculptor; creator of the Tree Listening Project. British artist who since 2007 has toured installations that let people listen to the inside of living trees through sensitive microphones. https://treelistening.co.uk/
 - **Alex Wilkie** (1) — Reader in design, Goldsmiths, University of London. Works between design research and science and technology studies, including energy demand and speculative design.
 - **Alexandra Dementieva** (1) — Media artist. Media artist who makes immersive interactive installations about perception and communication.
+- **Alexandra Weilenmann** (1) — Professor of Interaction Design, University of Gothenburg. Ethnographer of mobile technology who studied how hunters use GPS dog-tracking devices in the field.
+- **Alexandre Pongrácz Rossi** (1) — Animal behaviourist and dog trainer. Brazilian animal behaviour specialist known for training dogs to use communication devices and video calls.
 - **Amino Labs** (1) — Educational genetic engineering hardware company, founded 2015 by Julie Legault and Justin Pahara. Amino Labs designs desktop biolab appliances and kits with a product-design sensibility, letting beginners engineer pigment-producing bacteria in a few days. https://amino.bio/
 - **Anand Kumar Mishra** (1) — Research associate, Organic Robotics Lab, Cornell University. Engineer who built electrical interfaces that read mycelium signals and used them to drive soft and wheeled robots.
 - **Andrea Bandoni** (1) — Designer and researcher, Faculty of Fine Arts, University of Lisbon. Andrea Bandoni is a Brazilian designer who studies Amazonian craft and biofabrication with living trees.
@@ -13617,13 +14742,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Ann-Kristin Abel** (1) — Designer; MA Textile Futures, Central Saint Martins. Ann-Kristin Abel is a designer who made speculative films about semi-living devices while studying at Central Saint Martins.
 - **Anna Madeleine Raupach** (1) — Media artist and researcher. Australian artist whose kinetic and data-driven works, such as Unequal Hours and Augmented Tree Rings, visualise how natural and human timescales intersect. https://www.annamadeleine.com
 - **Anna Vershinina** (1) — Architect and designer. Architect and designer working on regenerative habitats that combine building and food growing.
-- **Anna Zamansky** (1) — Associate Professor, Department of Information Systems, University of Haifa; heads the Tech4Animals lab. Researcher on technology for animals, from dog activity trackers to AI for animal behaviour and welfare.
 - **Annarita Bianco** (1) — Design researcher, University of Campania Luigi Vanvitelli. Design researcher working with soil, environmental humanities and participatory workshops.
 - **Anne Bowser** (1) — Deputy Director and Chief Innovation Officer, Wilson Center (former PhD student at the University of Maryland). Researcher on citizen science, games and open data.
 - **Annika Wolff** (1) — Researcher, Lappeenranta-Lahti University of Technology (LUT). Researcher in data literacy and sustainable city design who uses arts-based methods.
 - **Anniken Førde** (1) — Researcher, UiT The Arctic University of Norway. Human geographer working on place, planning and multispecies cities.
 - **Ant Farm** (1) — Architecture, graphic arts and environmental design collective (1968–1978). Radical collective founded by Chip Lord and Doug Michels, later joined by Curtis Schreier, known for Cadillac Ranch, inflatables and media performances.
 - **Antti Tenetz** (1) — Artist working with animals, landscape and tracking technology. Antti Tenetz makes videos and installations from GPS tracks, drone and underwater footage of wild animals in northern landscapes.
+- **Aphrodite Theodora Andreou** (1) — Researcher, Institute of Digital Games, University of Malta. Designer-researcher who co-designed enrichment toys with a group of bottlenose dolphins.
+- **Arianna Mastali** (1) — PhD researcher, Georgia Institute of Technology. Researcher who designed an audio enrichment system for the elephants at Zoo Atlanta.
 - **Armi Behzad** (1) — Researcher, Everyday Design Studio, Simon Fraser University. Design researcher in the Everyday Design Studio exploring how nonhuman agency such as breakage can take part in design iteration.
 - **Arne Berger** (1) — Professor of Human-Computer Interaction, Anhalt University of Applied Sciences. HCI researcher working on participatory design, smart homes and more-than-human design in practice.
 - **Arne Hendriks** (1) — Artist and researcher; long-term collaborator of Mediamatic. Arne Hendriks works on speculative and practical projects about living with less, including The Incredible Shrinking Man and a series of mycelium pigeon towers built with Mediamatic.
@@ -13643,6 +14769,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Aurélie Mosse** (1) — Designer and researcher; associate professor at EnsadLab, École des Arts Décoratifs, Paris; leads ImpressioVivo. Aurélie Mosse works on responsive and bio-sourced materials; her project ImpressioVivo combines 3D printing and bacterially induced calcification to make circular materials.
 - **Axel Erlandson** (1) — Farmer and tree shaper (1884–1964). Swedish-American farmer Axel Erlandson grafted and bent trees into baskets, arches and ladders and opened the Tree Circus in 1947.
 - **Aybars Senyildiz** (1) — Designer and researcher, Aalto University. Designer who studies home fermentation as a site where people learn to relate to microbes.
+- **B. F. Skinner** (1) — Psychologist (1904–1990), Harvard University. Behaviourist who developed operant conditioning and, in World War II, trained pigeons to peck at screen images to steer a guided bomb.
 - **Backyard Brains** (1) — Neuroscience education company founded by Greg Gage and Tim Marzullo. Company making low-cost neuroscience kits for schools, including the RoboRoach. https://backyardbrains.com/
 - **Barani Raman** (1) — Professor of Biomedical Engineering, Washington University in St. Louis. Neuroengineer who studies insect olfaction and reads locust brain signals to detect explosives. https://ramanlab.wustl.edu/
 - **Barbara Mazzolai** (1) — Associate Director for Robotics and director of the Bioinspired Soft Robotics Lab, Istituto Italiano di Tecnologia. Biologist and roboticist who created the Plantoid, the first robot modelled on plant roots. https://www.iit.it/people-details/-/people/barbara-mazzolai
@@ -13650,6 +14777,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Baum & Leahy** (1) — Artist duo (Amanda Baum and Rose Leahy). Artist-designer duo making speculative installations about microbes, deep time and more-than-human futures.
 - **Beatrice Maggipinto** (1) — Researcher, Carnegie Mellon University. Designer of virtual reality experiences about ocean ecosystems, working with the Interactive Technologies Institute in Portugal.
 - **Beatriz da Costa** (1) — Artist and educator; UC Irvine (1974–2012). Beatriz da Costa was an interdisciplinary artist who combined tactical media, citizen science and biology, often working with animals as partners.
+- **Beewise** (1) — Company that makes the BeeHome, a robotic, solar-powered beehive. Start-up founded in 2018 that automates beekeeping with cameras, AI and a robotic arm inside a hive container.
+- **Benioff Ocean Science Laboratory** (1) — Ocean science lab at the University of California, Santa Barbara. Lab that built Whale Safe, a system combining acoustic whale detection, models and ship tracking to reduce ship strikes.
 - **Benjamin Ward-Cherrier** (1) — Robotics researcher, University of Bristol. Robotics researcher working on neuromorphic tactile sensing; his group used FinalSpark organoids to classify Braille from an artificial fingertip.
 - **Bento Lab** (1) — Portable DNA laboratory company founded by Bethan Wolfenden and Philipp Boeing, 2015. Bento Lab packs a centrifuge, PCR thermocycler and gel imager into a laptop-sized case, designed for fieldwork, classrooms and community labs. https://bento.bio/
 - **Berilsu Tarcan** (1) — PhD researcher, Department of Design, Norwegian University of Science and Technology (NTNU). Design researcher who explores practice-based ways of making with the environment as an alternative to human-centred design.
@@ -13689,7 +14818,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Chadwick A. Wingrave** (1) — HCI researcher, University of Central Florida (at the time of the work). Researcher in 3D interaction who explored serious games for dogs and their owners.
 - **Chao Zhong** (1) — Professor, School of Life Sciences and Technology, ShanghaiTech University. Chao Zhong engineers bacterial biofilms as programmable living materials, with printable Bacillus subtilis strains whose secreted matrix carries designed protein functions. https://slst.shanghaitech.edu.cn/
 - **Charles M. Lieber** (1) — Nanoscientist; former Professor of Chemistry, Harvard University. Chemist who pioneered nanowire and macroporous mesh electronics that can be merged with living tissue, including 3D 'cyborg' tissue scaffolds.
-- **Charlotte L. Robinson** (1) — Animal-Computer Interaction researcher, The Open University. Researcher who designed interfaces that assistance and diabetes alert dogs can operate.
 - **Charlotte McCurdy** (1) — Designer and researcher. Charlotte McCurdy designs carbon-negative materials and fashion from marine algae. https://www.charlottemccurdy.com/
 - **Chris Woebken** (1) — Designer and researcher; co-founder of the Extrapolation Factory. Chris Woebken is a design researcher who builds speculative wearables and participatory futures methods, trained at the Royal College of Art Design Interactions programme. https://www.chriswoebken.com
 - **Christa Sommerer & Laurent Mignonneau** (1) — Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz. Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.
@@ -13698,6 +14826,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Circa (Ted Hunt)** (1) — Timekeeping design project by designer Ted Hunt. Circa makes solar and lunar watch faces and apps that replace clock time with the rhythms of the sun and moon. https://web.archive.org/web/2023/http://circa.bio/
 - **City of Melbourne Urban Forest team** (1) — Urban forest and open-space team of the City of Melbourne. The City of Melbourne manages about 70,000 public trees and published them on the open Urban Forest Visual map. https://www.melbourne.vic.gov.au
 - **Clee Zhuo Wang** (1) — Researcher, School of Design, Hong Kong Polytechnic University. Design researcher studying plant time and temporality in human-plant interaction.
+- **Clemens Driessen** (1) — Philosopher, Wageningen University. Philosopher of technology and animal ethics who co-created Pig Chase, a game played between pigs and people.
+- **CleverPet** (1) — Company that makes the CleverPet Hub, a puzzle console for dogs. Start-up founded by cognitive scientists from UC San Diego that launched a light-and-sound game console for dogs in 2016.
 - **Click & Grow** (1) — Indoor gardening company. Estonian company that makes self-watering smart gardens with seed pods.
 - **Climate Clock (Gan Golan & Andrew Boyd)** (1) — Artist-activist project. Project by artists Gan Golan and Andrew Boyd that installs public countdown clocks for climate deadlines.
 - **Clive van Heerden** (1) — Designer; former head of Philips Design Probes; co-founder of Van Heerden Mama. Clive van Heerden led the Philips Design Probes programme, which produced the Microbial Home, and later made speculative design films with Jack Mama and Nancy Tilbury.
@@ -13709,6 +14839,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Cyborg Nest** (1) — Sense-extension startup co-founded by Liviu Babitz and Scott Cohen. Company that sold North Sense, a body-worn device that vibrates when facing north.
 - **Céleste Boursier-Mougenot** (1) — Artist and composer. French artist and trained composer who builds installations where living systems, water or traffic generate music; he represented France at the 2015 Venice Biennale.
 - **César Rodríguez-Garavito** (1) — Professor of Law, NYU School of Law; founding director of the More-Than-Human Life (MOTH) Program. Colombian legal scholar and field lawyer working on the rights of nature, climate litigation and Earth rights.
+- **DOGTV** (1) — Television network made for dogs. Network founded in 2012 whose programmes are edited for dogs' colour vision, hearing and home-alone hours.
 - **Damanhur** (1) — Ecovillage community in Piedmont; research group behind Music of the Plants. Intentional community founded in the 1970s whose researchers built devices that turn electrical changes in plants into MIDI music; the devices are now sold as Plant Music. https://www.plantmusic.com/
 - **Damien Woods** (1) — Professor of Computer Science, Maynooth University. Computer scientist working on molecular computing and the theory of self-assembly.
 - **Dan Parker** (1) — Researcher, The University of Melbourne. Architectural researcher who uses computational design and digital fabrication to build habitat structures for owls and insects.
@@ -13716,6 +14847,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Daniel Preston** (1) — Assistant Professor of Mechanical Engineering, Rice University; Preston Innovation Laboratory. Engineer working on soft robotics and energy; coined 'necrobotics' for robots made from dead organisms.
 - **Daniel Wangpraseurt** (1) — Marine biologist and bio-optics researcher, UC San Diego and University of Cambridge. Daniel Wangpraseurt prints coral-inspired hydrogel structures whose optics scatter light the way living coral tissue does, and uses them to grow dense algae cultures. https://www.wangpraseurt.com/
 - **Daniela Rus** (1) — Professor and director of the Computer Science and Artificial Intelligence Laboratory (CSAIL), MIT. Roboticist working on distributed and soft robots.
+- **Daniele Quercia** (1) — Director of Responsible AI, Nokia Bell Labs Cambridge. Computational social scientist whose team built a dog wearable to infer canine personality.
 - **Danielle Trofe** (1) — Designer; founder of MushLume Lighting. Danielle Trofe founded her studio in 2011 and began growing lamp shades from mycelium and hemp in 2014, working with Ecovative. https://danielletrofe.com/
 - **Danielle Wilde** (1) — Professor of embodied design, Umeå Institute of Design / University of Southern Denmark. Design researcher working on embodied, participatory and food-related futures, including human-microbe relations.
 - **Daniëlle Ooms** (1) — Designer and researcher, Industrial Design, Eindhoven University of Technology. Daniëlle Ooms designed a toolkit for collecting mud to power Electric Life, a bacteria-powered light installation by Teresa van Dongen.
@@ -13723,17 +14855,21 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **David Benqué** (1) — Designer and researcher; Design Interactions graduate, Royal College of Art. David Benqué is a French designer and researcher whose work looks at diagrams, prediction and the politics of science and technology. https://davidbenque.com/
 - **David Dunn** (1) — Composer and sound artist; researcher at UC Santa Cruz. Composer who records and composes with the sounds of other species and environments, including the acoustic life inside trees.
 - **David H. Gracias** (1) — Professor of Chemical and Biomolecular Engineering, Johns Hopkins University. Engineer known for self-folding micro-devices. His group made shell-shaped 3D microelectrode arrays that close around a brain organoid.
+- **David L. Roberts** (1) — Professor of Computer Science, North Carolina State University. Computer scientist who applies machine learning and sensing to dog behaviour, welfare and guide dog selection.
 - **David OReilly** (1) — Artist, animator and game designer. Irish artist known for the games Mountain and Everything and animation for Her. https://www.davidoreilly.com
 - **Dean Brown** (1) — Designer and researcher, Interaction Research Studio, Goldsmiths, University of London. Member of the Interaction Research Studio, which designs research products for everyday and public settings.
 - **Debbie Jung** (1) — Student designer, Cornell University. Designer who created CoCo, a tail-wagging wearable that encourages composting on campus.
 - **Deep Time Walk** (1) — Community interest company behind the Deep Time Walk app. A UK social enterprise, grown out of Schumacher College, that makes walking audio experiences of Earth's 4.6-billion-year history. https://www.deeptimewalk.org
 - **Denise Herzing** (1) — Founder and Research Director, Wild Dolphin Project. Marine biologist who has studied a community of wild Atlantic spotted dolphins in the Bahamas since 1985. https://www.wilddolphinproject.org/
+- **Diana Reiss** (1) — Professor of Psychology, Hunter College, City University of New York. Cognitive psychologist who built an underwater keyboard for dolphins in the 1980s and later co-founded the Interspecies Internet.
 - **Diana Scherer** (1) — Artist and designer. Diana Scherer trains the roots of plants to grow into patterned textile-like material, working with biologists at Radboud University. https://dianascherer.nl/
 - **Diemut Strebe** (1) — Artist, affiliate at MIT Center for Art, Science & Technology. Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine. https://diemutstrebe.com/
 - **Dirk Hebel** (1) — Professor of Sustainable Construction, Karlsruhe Institute of Technology. Dirk Hebel researches cultivated and recycled building materials, including bamboo composites and mycelium. https://nb.ieb.kit.edu/
 - **Diya Samit** (1) — Researcher, Eindhoven University of Technology. Design researcher linking biodesign and more-than-human design through relational data about soil.
+- **Dognosis** (1) — Research company training dogs to detect cancer by smell, with sensor-rich workstations. Start-up that combines trained detection dogs with sensors and machine learning to screen breath samples for cancer.
 - **Dominique Chen** (1) — Professor, Faculty of Letters, Arts and Sciences, Waseda University. Dominique Chen researches information technology and wellbeing; with the Ferment Media Research group he built Nukabot, a talking bucket of fermenting rice bran.
 - **Donghyeon Ko** (1) — HCI researcher, Department of Industrial Design, KAIST. Donghyeon Ko designed BubbleTalk, which turns a person's actions near a fish tank into bubbles inside it.
+- **Duane Rumbaugh** (1) — Comparative psychologist (1929–2017), Yerkes National Primate Research Center and Georgia State University. Psychologist who led the LANA project, in which a chimpanzee used a computer keyboard of lexigram symbols.
 - **Dunne & Raby (Anthony Dunne & Fiona Raby)** (1) — Critical and speculative design practice; professors at The New School, New York. Anthony Dunne and Fiona Raby established critical design as a practice, using designed objects and scenarios — including biotechnological ones — to argue about possible futures. https://dunneandraby.co.uk/
 - **E-Line Media** (1) — Game publisher and developer. Studio behind Never Alone and Beyond Blue.
 - **Earth Species Project** (1) — Nonprofit AI research lab co-founded by Aza Raskin and Britt Selvitelle. Earth Species Project develops machine-learning models and benchmarks to decode animal communication. https://www.earthspecies.org
@@ -13745,6 +14881,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Eduardo Kohn** (1) — Associate Professor of Anthropology, McGill University. Eduardo Kohn is an anthropologist who studied how the Runa people of Ecuador's Upper Amazon relate to forest beings, and developed an anthropology beyond the human.
 - **Eduardo Navarro** (1) — Artist. Argentine artist whose performances and drawings invite people to take on the perception of plants, animals and other beings.
 - **Edward Masui** (1) — Researcher, Public Works Research Institute, Japan. Researcher who looks at infrastructure through long histories of food, materials and the organisms that shape them.
+- **Edwin Blake** (1) — Professor Emeritus of Computer Science, University of Cape Town. Computer scientist who worked on the icon-based field computer used by CyberTracker and on HCI for development.
+- **Ehud Sharlin** (1) — Professor, Department of Computer Science, University of Calgary. Human–robot interaction researcher whose group observed how house cats react to social robots.
 - **Eldy S. Lazaro Vasquez** (1) — Designer and HCI researcher (biomaterials and wearables). Eldy S. Lazaro Vasquez designs sustainable wearables and prototyping methods with biomaterials such as mycelium and bacterial cellulose.
 - **Eleni Margariti** (1) — HCI researcher, Open Lab, Newcastle University / Northumbria University. Designer of ActuAir, a shape-changing wall that shows indoor air quality.
 - **Eleni Stavrinidou** (1) — Associate Professor, Laboratory of Organic Electronics, Linköping University; leads the Electronic Plants group. Eleni Stavrinidou grows conductive polymer wires, sensors and supercapacitors inside living plants.
@@ -13763,7 +14901,9 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **F. Stephan Mayer** (1) — Professor of Psychology, Oberlin College. Social psychologist who studies how connected people feel to the natural world.
 - **Fab Lab Barcelona** (1) — Digital fabrication lab at the Institute for Advanced Architecture of Catalonia (IAAC). Lab that develops open hardware for cities, including the Smart Citizen Kit.
 - **Fadi Botros** (1) — HCI researcher, InnoVis group, University of Calgary (at the time of Go & Grow). Fadi Botros built Go & Grow, a living plant that is watered according to its owner's physical activity.
+- **Fangyuan Chang** (1) — Researcher, School of Design, Shanghai Jiao Tong University. Design researcher who applies ACI principles to wearable health sensors for dairy cattle.
 - **FarmBot** (1) — Open-source farming robot company (founded by Rory Aronson). Company that makes an open-source CNC robot for garden beds. https://farm.bot/
+- **Federico Rossano** (1) — Associate Professor, Department of Cognitive Science, University of California San Diego; director of the Comparative Cognition Lab. Cognitive scientist who leads the largest study of dogs that press soundboard buttons, such as FluentPet boards.
 - **Fei (Dillon) Shieh** (1) — Design researcher, Eindhoven University of Technology. Fei (Dillon) Shieh co-designed Minty Zoo, a cabinet of sensed mint plants whose water and light are redistributed by their collective behaviour.
 - **Feng Guo** (1) — Associate Professor of Intelligent Systems Engineering, Indiana University Bloomington. Bioengineer working on acoustofluidics and organoid-based computing. His group built Brainoware, which uses a brain organoid as the reservoir in a reservoir-computing system.
 - **Fernanda Viégas & Martin Wattenberg** (1) — Data visualization artists and researchers (Harvard; formerly Google PAIR). Visualization duo known for artistic, public data displays.
@@ -13771,6 +14911,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Fernando Laposse** (1) — Designer; founder of Studio Fernando Laposse. Mexican designer who turns plant fibres such as corn husk, sisal and loofah into materials, often through long projects with rural communities. https://www.fernandolaposse.com/
 - **Finn Petrie** (1) — Artist. Artist in Ōtepoti Dunedin who 3D-prints porcelain from LIDAR scans of ancient trees and places them in the landscape.
 - **Flavia Alice Mameli** (1) — Designer and researcher, University of Applied Arts Vienna. Designer working with mycelium and regenerative material education.
+- **Florian 'Floyd' Mueller** (1) — Professor, Exertion Games Lab, Monash University; formerly RMIT University. Designer of bodily play and exertion games whose lab also explored remote nurturing play with rescued dogs.
+- **FluentPet** (1) — Pet technology company making programmable soundboard buttons. Company that makes recordable buttons and hexagonal tiles that dogs and cats press to play words.
 - **Franca López Barbera** (1) — Design researcher, Technische Universität Braunschweig. Brings gender and decolonial thinking to more-than-human design.
 - **Frank Noz** (1) — Designer; co-creator of Cat Cat Revolution. Designer who made an iPad game that a cat and its owner play together.
 - **François-Joseph Lapointe** (1) — Biologist and performance artist; Professor, Université de Montréal. François-Joseph Lapointe is an evolutionary biologist who uses DNA sequencing of his own microbiome as material for performances and portraits.
@@ -13785,6 +14927,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Gavin Munro** (1) — Designer; co-founder of Full Grown. Gavin Munro co-founded Full Grown with Alice Munro and grows chairs, lamps and tables from living trees on a farm near Wirksworth. https://fullgrown.co.uk/
 - **Genspace** (1) — Community biology laboratory, founded 2009. Genspace was the first community biolab open to the public, founded by Ellen Jorgensen and others, and hosts artists, designers and amateurs doing biotechnology projects. https://www.genspace.org/
 - **Geocaching HQ (Groundspeak)** (1) — Company that runs geocaching.com. Seattle company that has run the main geocaching platform since 2000.
+- **Giancarlo Valentin** (1) — Researcher, Georgia Institute of Technology (FIDO project). Computing researcher who worked on gesture-based communication systems through which dogs can send messages to people.
 - **Gilbertto Prado** (1) — Artist and professor, Anhembi Morumbi University; coordinator of the Poéticas Digitais group. Brazilian media artist whose group Poéticas Digitais builds interactive installations about urban environments. https://www.poeticasdigitais.net
 - **Gina Czarnecki** (1) — Artist working with biological material and audience participation. Gina Czarnecki makes works with donated human material, including Palaces, a crystal sculpture grown with children's milk teeth, and Heirloom, live portraits of her daughters grown from their own skin cells on glass. https://ginaczarnecki.com/
 - **Ginkgo Bioworks** (1) — Organism design company, founded 2008. Ginkgo Bioworks runs automated foundries that engineer microbes for industry, and from 2014 ran a Creative Residency and design-led collaborations that produced scents, pigments and consumer objects. https://www.ginkgobioworks.com/
@@ -13797,8 +14940,11 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Gopinaath Kannabiran** (1) — Researcher in interaction design, IT University of Copenhagen. Brings ecofeminist and queer perspectives into HCI and computational art.
 - **Green&Blue** (1) — Cornish design company making wildlife habitats for buildings and gardens, founded by Kate and Gavin Christman. Green&Blue designs bee bricks, bird boxes and bat boxes that can be built into walls or placed in gardens. https://www.greenandblue.co.uk
 - **Greener Games** (1) — Independent studio (John Carline). Small studio that makes relaxing VR nature environments.
+- **Greg Marshall** (1) — Marine biologist and filmmaker; inventor of Crittercam at National Geographic. Biologist who invented Crittercam in 1986, a camera and data logger worn by animals, and developed it at National Geographic.
 - **Greg Nijs** (1) — Researcher, Université Libre de Bruxelles. Researcher in urban studies and civic HCI who builds DIY tools for citizen interventions in the city.
 - **Güneş-Hélène Isitan** (1) — Bioartist and researcher. Güneş-Hélène Isitan makes interactive bioart installations in which people meet microorganisms such as paramecia through touch and electricity.
+- **Halter** (1) — Agricultural technology company making solar-powered virtual-fencing collars for cattle. Company founded in 2016 whose GPS collars guide cattle with sound and vibration cues instead of physical fences.
+- **Hanna Wirman** (1) — Game researcher; formerly The Hong Kong Polytechnic University, now IT University of Copenhagen. Game scholar who designed and studied touchscreen games for orangutans and asked how play can cross species lines.
 - **Haru Ji & Graham Wakefield** (1) — Artists; Graham Wakefield is Associate Professor at York University (Alice Lab). Artist duo who build immersive artificial ecosystems as their long-running series Artificial Nature. https://artificialnature.net/
 - **Haruka Kasuga** (1) — Researcher, Hokkaido University. Haruka Kasuga studies science communication with VR, including videos that simulate how turtles, geckos and frogs see.
 - **HeHe (Helen Evans & Heiko Hansen)** (1) — Artist duo. Artists who make pollution and energy use visible in public space. http://www.hehe.org/
@@ -13810,8 +14956,10 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Hildegard Westerkamp** (1) — Composer, radio artist and sound ecologist; member of the World Soundscape Project. Composer who shaped soundscape composition and the practice of the soundwalk.
 - **Hinako Takita** (1) — Researcher (co-author with Tokushu Inamura, Kyushu University). Design researcher who studies fermentation practices as sites of more-than-human participatory design.
 - **Hirokazu Takahashi** (1) — Professor of Mechano-Informatics, The University of Tokyo. Engineer whose lab uses living neuronal cultures as physical reservoirs to control robots.
+- **Hochul Hwang** (1) — PhD researcher, Manning College of Information and Computer Sciences, University of Massachusetts Amherst. Robotics and HCI researcher who studies handler–guide dog interaction to inform legged guide dog robots.
 - **Hong Luo** (1) — Researcher, Exertion Games Lab, Monash University. HCI researcher designing bodily, touch-based systems that connect people with plants.
 - **Hongjie Yang** (1) — Designer; Design Academy Eindhoven graduate. Chinese designer based in the Netherlands who works with tissue engineers on objects partly made of living human cells. http://www.hongjieyang.com/
+- **Hongyi Zhang** (1) — Designer, Department of Industrial Design, Xi'an Academy of Fine Arts. Industrial designer who led Meow Meow Call, a prototype for communicating with deaf cats.
 - **Hoyoung Youn** (1) — Design researcher, Yonsei University. Studies post-anthropocentric approaches to service and systems design.
 - **Hubert Duprat** (1) — Artist. French artist known for giving caddisfly larvae gold flakes and precious stones, from which they build their protective cases.
 - **Huue** (1) — Biotechnology dye company founded by Tammy Hsu and Michelle Zhu, 2019. Huue engineers bacteria to make indigo through an enzymatic route, avoiding the cyanide and formaldehyde used in synthetic indigo for denim. https://www.huue.bio/
@@ -13846,7 +14994,9 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jen Bervin** (1) — Poet and visual artist. American poet and artist whose books and installations work across text and textile, including collaborations with silk-materials scientists. https://jenbervin.com/
 - **Jen Liu** (1) — Designer and researcher; PhD, Cornell University. Designer-researcher who made wearable tools for mushroom foraging to study how people and fungi survive together. https://jenliujenliu.com/
 - **Jenn Leung** (1) — Designer and researcher, University of the Arts London; Antikythera studio. Designer and researcher who works on computation, simulation and games; co-author of a design-space study of organoid array computing for Antikythera.
+- **Jennifer Mankoff** (1) — Professor, Paul G. Allen School of Computer Science & Engineering, University of Washington. HCI researcher in accessibility and ubiquitous computing who co-authored an early UIST paper on peripheral displays for a family's dog.
 - **Jenny E. Sabin** (1) — Architect; Professor of Architecture, Cornell University; principal of Jenny Sabin Studio. Jenny Sabin is an architect who works across architecture, cell biology and materials science, building adaptive structures from insights into how cells behave. https://www.jennysabin.com/
+- **Jessica Frawley** (1) — Researcher, University of Technology Sydney; now The University of Sydney. HCI researcher who adapted personas to represent farm animals in the design of sustainable food systems.
 - **Jiahe Li** (1) — Researcher, Xi'an Jiaotong-Liverpool University. Design researcher working on virtual reality and nonhuman embodiment.
 - **Jian Yu** (1) — Researcher, Simon Fraser University. Design researcher working on weaving, craft and posthumanist design practice.
 - **Jiho Kim** (1) — Design researcher, Delft University of Technology. Biodesign researcher studying how designers can develop sensibilities for working with microbes.
@@ -13861,6 +15011,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Johanna Rotko** (1) — Visual artist working with living yeasts; Bio Art Lab (hiivagrammi.fi). Finnish artist who has made yeastograms, images grown from living yeast cells exposed through photographs, since a 2013 Bioart Society workshop. http://www.hiivagrammi.fi/portfolio2019/
 - **Johanna Seelemann** (1) — Designer; founder of Studio Johanna Seelemann. German designer working between product design, material research and speculative projects on consumption and ecology. https://johannaseelemann.com/
 - **John A. Rogers** (1) — Professor of Materials Science and Biomedical Engineering, Northwestern University. Materials scientist known for bio-integrated and 3D-assembled electronics, including pop-up frameworks that wrap around neural spheroids. https://rogersgroup.northwestern.edu
+- **John Fass** (1) — Designer and researcher, Royal College of Art. Information designer who ran an open-ended design project on how urban pigeons sense the city.
 - **John LaRocco** (1) — Research scientist, College of Medicine, The Ohio State University. Engineer who grows shiitake mycelium into memristors and other electronic components.
 - **Johnny DiBlasi** (1) — Artist; Assistant Professor, Department of Art, University at Buffalo; co-founder of Phylum. Johnny DiBlasi makes computational and bio-digital artworks, including Beauty, in which an AI agent tends cultures of social bacteria.
 - **Jon McCormack** (1) — Professor and director of SensiLab, Monash University. Artist and researcher in generative art and artificial life. https://jonmccormack.info/
@@ -13871,7 +15022,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jorge Luis Siesquén Deza** (1) — Designer and researcher, University College London. Design researcher who extends inclusive design to nonhuman stakeholders.
 - **Joris Laarman** (1) — Designer; founder of Joris Laarman Lab and co-founder of MX3D. Dutch designer known for furniture generated by algorithms and robotic 3D metal printing, who has also experimented with biological materials. https://www.jorislaarman.com/
 - **Joseph Samuel Johnson** (1) — Researcher, Information Technology University. Researcher who co-designs digital systems for human-wildlife cohabitation.
-- **Josiah Hester** (1) — Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing. Josiah Hester builds battery-free and intermittent computing systems powered by the environment.
 - **Joycelyn Longdon** (1) — PhD researcher, University of Cambridge; environmental justice technologist. Works on ecoacoustics, AI and justice-led conservation with forest communities.
 - **Judith Doyle** (1) — Artist, filmmaker and professor at OCAD University. Media artist working with video, installation and interactive media.
 - **Jules Litman-Cleper** (1) — Artist; creator of Earth-Centered Communication Technology (Earth Tech Net). Artist who makes experimental works and frameworks that place computational media within ecological evolution.
@@ -13881,13 +15031,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jun Yao** (1) — Associate Professor of Electrical and Computer Engineering, University of Massachusetts Amherst. Jun Yao develops bio-derived electronics, including protein-nanowire and biofilm devices that generate electricity from humidity and evaporation.
 - **Juniper (Jennifer T.) Harrower** (1) — Artist and ecologist; co-founder of the Algae Society BioArt Design Lab. Artist-ecologist who works across bioart and plant–microbe ecology.
 - **Justine Emard** (1) — Visual artist working with neuroscience, robotics and machine learning. French artist who combines photography, video, robotics and AI; her works draw on data from bees, brains and androids. https://justineemard.com
+- **K. Cassie Kresnye** (1) — Researcher; PhD, Indiana University Bloomington. HCI researcher who designed a smart habitat for rehabilitating orphaned opossums and studied volunteer work at wildlife centres.
 - **Karen Alim** (1) — Professor of Theory of Biological Networks, Technical University of Munich. Physicist who studies how flow networks in slime moulds and other organisms store information and make decisions.
 - **Karen Barad** (1) — Distinguished Professor of Feminist Studies, Philosophy, and History of Consciousness, UC Santa Cruz. Karen Barad is a theoretical physicist and feminist theorist who developed agential realism.
 - **Karin Strauss** (1) — Senior Principal Research Manager, Microsoft Research; affiliate professor, University of Washington. Computer architect who leads Microsoft's DNA data storage research.
 - **Karola V. Kreitmair** (1) — Assistant Professor of Medical History and Bioethics, University of Wisconsin–Madison. Bioethicist who writes on neurotechnology and on how uncertainty about consciousness should shape brain organoid research.
+- **Kars Alfrink** (1) — Designer; founder of the studio Hubbub; researcher at TU Delft. Game designer who co-created Pig Chase and works on contestable AI and urban play.
 - **Katherine W. Song** (1) — Assistant Professor, Knowledge and Intelligence Design, Delft University of Technology. Katherine W. Song builds sustainable and biodegradable interactive devices and electronics, with a background in electrical engineering and HCI.
 - **Kathy High** (1) — Professor of Video and New Media, Rensselaer Polytechnic Institute. American artist and educator who works with living systems, animal sentience and biotech ethics; she coordinates the NATURE Lab at the Sanctuary for Independent Media. https://www.kathyhigh.com
-- **Katia Vega** (1) — Associate Professor of Design, UC Davis; director of the Interactive Organisms Lab. Katia Vega creates beauty technology and interactive wearables, including biosensing tattoos and biomaterial accessories. https://www.katiavega.com/
 - **Kavita Gonsalves** (1) — Artist and researcher, Queensland University of Technology. Artist-researcher working with multispecies storytelling, locative media and decolonial perspectives.
 - **Keel Labs (formerly AlgiKnit)** (1) — Materials company making kelp-based yarn. Founded in 2017 as AlgiKnit by Tessa Callaghan and Aleksandra Gosiewski, Keel Labs makes Kelsun yarn from alginate extracted from kelp. https://www.keellabs.com/
 - **Keili Koppel** (1) — PhD researcher, University of Edinburgh. Studies design methods that help people notice and relate to plants.
@@ -13897,6 +15048,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Kenneth S. Kosik** (1) — Professor of Neuroscience, University of California, Santa Barbara. Neuroscientist whose lab recorded human brain organoids on high-density CMOS microelectrode arrays to map their circuits and oscillations.
 - **Keri Facer** (1) — Professor of Educational and Social Futures, University of Bristol; formerly Research Director at Futurelab. Education researcher who led early mobile learning experiments at Futurelab.
 - **Kevin Blackistone** (1) — Artist and researcher, University of Arts and Design Linz (Kunstuniversität Linz). Kevin Blackistone builds installations that combine living microbial cultures with robotics and automated imaging.
+- **Kevin Coffey** (1) — Neuroscientist, Department of Psychiatry and Behavioral Sciences, University of Washington. Researcher who co-created DeepSqueak, deep-learning software that detects and classifies rodent ultrasonic calls.
 - **Kevin Warwick** (1) — Emeritus Professor of Engineering, Coventry University; formerly University of Reading. Cybernetics researcher known for implant experiments on himself; his Reading team built Gordon, a wheeled robot driven by cultured rat neurons.
 - **Kitti Butter** (1) — Designer, Moholy-Nagy University of Art and Design (MOME). Designer working on urban habitats for wild pollinators.
 - **Koby Barhard** (1) — Designer; Design Interactions graduate, Royal College of Art. Koby Barhard is an Israeli-born designer whose speculative projects use commercially available biotech services to test ideas about identity and heredity.
@@ -13909,6 +15061,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Laura Cinti** (1) — Artist and researcher; co-founder of C-LAB. Artist working at the edge of art, biology and technology with living plants and conservation science.
 - **Laura Grebenstein** (1) — Researcher, Friedrich-Alexander-Universität Erlangen-Nürnberg (molecular communication). Laura Grebenstein builds microscale molecular-communication testbeds that use engineered bacteria to convert light into chemical signals.
 - **Lawrence Bonassar** (1) — Professor of Biomedical Engineering and Mechanical Engineering, Cornell University. Lawrence Bonassar's lab prints cartilage from 3D scans, including patient-specific ears grown from collagen hydrogel injected into printed moulds. https://bonassar.research.engineering.cornell.edu/
+- **Lely** (1) — Dutch agricultural machinery and robotics manufacturer. Company that introduced the Astronaut milking robot in 1992, in which cows choose when to be milked.
 - **Leonard Adleman** (1) — Professor of Computer Science, University of Southern California. Computer scientist, co-inventor of RSA encryption and founder of DNA computing.
 - **Leonardo Angelini** (1) — Professor, HES-SO University of Applied Sciences of Western Switzerland, Fribourg. Leonardo Angelini designs tangible and embodied interfaces for older adults and everyday objects.
 - **Leonardo Hummel** (1) — Designer and researcher, University of Washington. Leonardo Hummel developed SeaWeaver, a method for building artificial reefs from hand-woven metal forms.
@@ -13922,6 +15075,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Living Ink Technologies** (1) — Algae-based pigment company founded by Scott Fulbright and Steve Albers, 2013. Living Ink began with a kit for drawing with living algae and now makes Algae Ink, a black pigment from algae biomass that replaces petroleum carbon black in printing. https://www.livingink.co/
 - **Living Things (Jacob Douenias & Ethan Frier)** (1) — Design partnership of architectural designer Jacob Douenias and industrial designer Ethan Frier. Jacob Douenias and Ethan Frier designed bioreactor furniture for living spirulina cultures, shown at the Mattress Factory in 2015. http://www.ethanfrier.com/living-things
 - **Logan Shockey** (1) — Design researcher, University of Colorado Boulder. Designs biology-based interactive objects with microorganisms.
+- **Louis Liebenberg** (1) — Founder, CyberTracker Conservation. Tracker and scientist who co-created CyberTracker so that expert trackers who cannot read or write can record animal observations.
 - **Louis Rice** (1) — Associate Professor of Architecture, University of the West of England. Architect and urbanist who studies participatory design and the role of nonhuman actors in shaping places.
 - **Lucas Ogasawara de Oliveira** (1) — Researcher, Keio University Graduate School of Media Design. Designer-researcher combining media archaeology and more-than-human design, working with the Minamata case in Japan.
 - **Lucy Hughes** (1) — Product designer; founder of MarinaTex. Lucy Hughes developed MarinaTex as her final-year product design project at the University of Sussex and won the 2019 James Dyson Award with it. https://marinatex.co.uk
@@ -13946,12 +15100,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Martin Kaltenbrunner** (1) — Professor, Soft Matter Physics and LIT Soft Materials Lab, Johannes Kepler University Linz. Physicist building soft, stretchable and biodegradable electronics and robots. https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
 - **Martin Pumera** (1) — Director, Center for Advanced Functional Nanorobots, University of Chemistry and Technology Prague. Martin Pumera's group builds micro- and nanorobots, including biobots made from magnetotactic bacteria for water cleaning.
 - **Martin Tomitsch** (1) — Professor of design and interaction; formerly University of Sydney Design Lab, now UTS. Interaction design researcher working on cities, urban interfaces and planet-centred design.
+- **Martin Wikelski** (1) — Director, Max Planck Institute of Animal Behavior. Ornithologist who leads ICARUS and Movebank, global systems for tracking small animals from space.
 - **Masashi Soga** (1) — Associate Professor, Graduate School of Agricultural and Life Sciences, University of Tokyo. Conservation ecologist who studies how and why people's direct contact with nature is declining.
 - **Mathilde Gouin** (1) — Design researcher, University of Lisbon / ITI-LARSyS. Designs wearables for multisensory encounters with other species.
 - **Matilde Boelhouwer** (1) — Designer; founder of Atelier Boelhouwer. Dutch designer who creates products for insects, notably artificial flowers for urban pollinators. https://www.matildeboelhouwer.com
 - **Matthew H. E. M. Browning** (1) — Associate Professor, Department of Parks, Recreation and Tourism Management, Clemson University; director of the Virtual Reality & Nature Lab. Environmental health researcher who tests virtual nature against real nature.
 - **Matthijs Munnik** (1) — Artist. Dutch artist making audiovisual installations about perception, light and living systems.
 - **Max Rheiner** (1) — Media artist; creator of Birdly; founder of Somniacs. Swiss interaction designer who built the full-body flight simulator Birdly at ZHdK in 2013–14 and later founded the company Somniacs to produce it.
+- **Melanie Ford** (1) — Primate enrichment researcher; MSc, University of Exeter. Researcher who introduced two captive siamangs to tablet computers and recorded their choices on video.
 - **Mellissa Monsoon** (1) — Artist, illustrator and sculptor collaborating with microbiologists. British artist (MA Art and Science, Central Saint Martins) who casts her own body in agar and grows its skin bacteria; commissions include the Eden Project and the BBC. https://www.mmonsoon.com
 - **Mengyao Guo** (1) — Researcher, Future Design School, Harbin Institute of Technology (Shenzhen). Mengyao Guo designs bio-HCI games and visualisations driven by living organisms such as slime moulds.
 - **Merlin Sheldrake** (1) — Biologist and writer; research associate at SPUN (Society for the Protection of Underground Networks). Merlin Sheldrake is a biologist who studies mycorrhizal fungi and writes about fungal life and its entanglements with plants, animals and people. https://www.merlinsheldrake.com
@@ -13966,6 +15122,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Mike Thompson** (1) — Designer. Mike Thompson is a designer who makes speculative products about energy and everyday life.
 - **Milan Stojanovic** (1) — Professor of Medicine and Biomedical Engineering, Columbia University. Chemist who built MAYA, DNA-enzyme automata that play tic-tac-toe against people.
 - **Miles Richardson** (1) — Professor of Human Factors and Nature Connectedness, University of Derby. Psychologist who runs the Nature Connectedness Research Group and designs simple interventions such as noticing 'three good things in nature'.
+- **Mirjana Erceg** (1) — Researcher, Aalborg University Copenhagen. Researcher who designed a bioacoustic system to warn ships about nearby North Atlantic right whales.
 - **Modern Meadow** (1) — Biofabrication company making protein-based materials. Modern Meadow, founded by Andras Forgacs, develops leather-like materials from proteins produced by fermentation. https://www.modernmeadow.com/
 - **Modern Synthesis** (1) — Biomaterial company founded by Jen Keane and Ben Reeve, 2020. Modern Synthesis grows nanocellulose on textile scaffolds using Komagataeibacter bacteria, producing a leather alternative whose structure is set by the scaffold it is grown on. https://www.modernsynthesis.com/
 - **Mogu** (1) — Italian company making mycelium interior products. Mogu, co-founded in 2015 with designer Maurizio Montalti, grows acoustic panels and floor tiles from fungal mycelium and textile or agricultural residues. https://mogu.bio/
@@ -13988,6 +15145,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Neil Harbisson** (1) — Cyborg artist; co-founder of the Cyborg Foundation and Cyborg Arts. Artist born with achromatopsia who hears colour through an antenna implanted in his skull. https://www.cyborgarts.com/
 - **Nelo Akamatsu** (1) — Artist. Japanese artist known for sound installations such as Chijikinkutsu, in which magnetised needles in water glasses sound through Earth's magnetism. http://www.neloakamatsu.jp
 - **Nervous System** (1) — Generative design studio of Jessica Rosenkrantz and Jesse Louis-Rosenberg. Studio that writes simulations of natural growth processes to generate jewellery, textiles and objects, and collaborates with scientists on biofabrication. https://n-e-r-v-o-u-s.com/
+- **Nestlé Purina PetCare** (1) — Pet food company; maker of the Friskies brand. Pet food company whose Friskies brand released tablet games designed for cats to play.
 - **New Reality Company** (1) — VR studio of Milica Zec and Winslow Porter. Studio founded by director Milica Zec and producer Winslow Porter, known for the VR works Giant (2016) and Tree (2017). https://www.treeofficial.com/
 - **Niantic** (1) — Augmented reality game company. Maker of location-based AR games including Ingress and Pokémon Go.
 - **Nick Goldman** (1) — Group Leader, EMBL's European Bioinformatics Institute (EMBL-EBI). Bioinformatician who, with Ewan Birney, designed an error-tolerant scheme for storing files in synthetic DNA.
@@ -14001,11 +15159,15 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Nirit Binyamini Ben-Meir** (1) — PhD researcher, Queen Mary University of London. HCI researcher studying how households care for houseplants and what that means for designing with living things.
 - **Nita A. Farahany** (1) — Professor of Law and Philosophy, Duke University. Legal scholar and ethicist of neurotechnology who led a 2018 call in Nature for ethical rules on experiments with human brain tissue, organoids and chimeras. https://law.duke.edu/fac/farahany
 - **Nomeda & Gediminas Urbonas** (1) — Artist duo; Gediminas Urbonas is Professor at MIT. Nomeda and Gediminas Urbonas run long-term projects on swamps, rivers and commons, including the Swamp School at the Venice Biennale 2018.
+- **Nordic Society for Invention and Discovery** (1) — Swedish design and invention studio. Studio that crowdfunded No More Woof, a speculative EEG headset claimed to translate dog thoughts into speech.
 - **Notpla** (1) — Packaging company making materials from seaweed. Notpla, founded as Skipping Rocks Lab by Rodrigo García González and Pierre Paslier, makes edible and compostable packaging from seaweed and plants. https://www.notpla.com/
 - **Nova Innova** (1) — Dutch design and innovation studio for nature-based technology. Nova Innova designs public installations and products that run on nature-based energy, such as microbial fuel cells in city water.
 - **Novameat** (1) — Food technology company founded by Giuseppe Scionti, 2018. Novameat extrudes plant proteins into micro-fibre bundles that imitate the anisotropic texture of muscle, using a printer adapted from tissue engineering. https://novameat.com/
 - **ORLAN** (1) — Artist working with performance, surgery and biotechnology. ORLAN is a French artist known for her surgery-performances of the 1990s and for later work with cell culture and biotechnology. https://www.orlan.eu
+- **Oliver Bendel** (1) — Professor of Information Ethics and Machine Ethics, FHNW School of Business. Philosopher and information scientist who designs animal-friendly machines and AI apps that read animal body language.
 - **Olivia Seow** (1) — Designer and researcher, MIT Media Lab (at the time of Pudica). Olivia Seow proposed Pudica, a framework for plant-based interfaces built around the touch-sensitive Mimosa pudica.
+- **Open Acoustic Devices** (1) — Open-hardware project making low-cost acoustic loggers, founded by researchers at the University of Southampton and University of Oxford. Team behind AudioMoth, an open-source, low-cost recorder used worldwide to listen to bats, birds, insects and forests. https://www.openacousticdevices.info
+- **Orangutan Outreach** (1) — Nonprofit organisation for orangutan conservation. Nonprofit that runs Apps for Apes, which donates iPads to zoos for orangutan enrichment.
 - **Organovo** (1) — Bioprinting company, founded 2007 on Gabor Forgacs's tissue self-assembly research. Organovo was the first publicly listed bioprinting company; it sold the NovoGen printer and printed human liver and kidney tissue for drug testing. https://organovo.com/
 - **Ori Elisar** (1) — Designer, Bezalel Academy of Arts and Design graduate. Visual communication designer who trained in microbiology in Eshel Ben-Jacob's lab at Tel Aviv University and studied Hebrew linguistics. https://orielisar.com
 - **Parrot** (1) — Consumer electronics and drone company. French company known for drones and connected devices.
@@ -14015,7 +15177,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Patricia (Tricia) Flanagan** (1) — Artist, designer and researcher in wearable art; founder of the Wearables Lab. Makes 'cyborganic' wearables that blend bamboo, natural fibres and electronics into prosthetic senses. https://triciaflanagan.com
 - **Patricia Ciobanu** (1) — Researcher in interaction design, Department of Computer and Systems Sciences, Stockholm University. Studies time and nature in posthuman interaction through research-through-design and autobiographical design.
 - **Patricia Domínguez** (1) — Artist. Chilean artist whose installations combine ethnobotany, healing practices and digital media to question colonial relationships with plants.
-- **Patricia Pons** (1) — Researcher, Universitat Politècnica de València. Researcher who builds intelligent playful environments for cats and other animals using depth cameras.
 - **Paul Rothemund** (1) — Research Professor of Bioengineering, Computing and Mathematical Sciences, and Computation and Neural Systems, Caltech. Computer scientist who invented DNA origami: folding a long DNA strand into any 2D shape with short staple strands.
 - **Paulina Yurman** (1) — Designer and researcher, University of the Arts London. Uses drawing and material experiments to explore bodies, fluids and care.
 - **PeakFinder** (1) — App developer (Fabio Soldati). Swiss developer of a mountain-identification app with an offline database of peaks.
@@ -14071,9 +15232,11 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Robin Wall Kimmerer** (1) — SUNY Distinguished Teaching Professor of Environmental Biology; director of the Center for Native Peoples and the Environment; enrolled member of the Citizen Potawatomi Nation. Robin Wall Kimmerer is a botanist and writer who brings together Indigenous knowledge and plant science.
 - **Roger Payne** (1) — Biologist (1935–2023), founder of Ocean Alliance. Whale biologist who, with Scott McVay, discovered that humpback whales sing.
 - **Roya Aghighi** (1) — Designer. Roya Aghighi is an Iranian-Canadian designer who worked with University of British Columbia labs on living, photosynthetic textiles.
+- **Rui Trindade** (1) — Researcher, Madeira Interactive Technologies Institute, University of Madeira. Game designer who led Purrfect Crime, a tablet game played by a cat and a person together.
 - **Ryohei Kanzaki** (1) — Professor, Research Center for Advanced Science and Technology, University of Tokyo. Neuroethologist who studies how silkmoths track odour, using robots driven by live moths.
 - **SCAPE Landscape Architecture** (1) — Landscape architecture office founded by Kate Orff. New York landscape practice known for coastal resilience projects that combine storm protection with habitat and community programmes. https://www.scapestudio.com/
 - **SPACE10** (1) — Research and design lab supported by IKEA. SPACE10 explored future living, food and cities through exhibitions and prototypes until 2024. https://space10.com/
+- **Sabrina Hauser** (1) — Design researcher; PhD, Simon Fraser University. Design researcher who studied the everyday work and play of guide dog teams and designed accessible dog toys.
 - **Saetbyeol LeeYouk** (1) — Researcher, MIT Media Lab. Designs interfaces that make the material costs of computing felt.
 - **Safecast** (1) — Volunteer environmental monitoring nonprofit. Group founded after the 2011 Fukushima disaster that builds open radiation and air sensors. https://safecast.org/
 - **Sakura Kotokawa** (1) — Researcher, Kyoto Institute of Technology. Design researcher running art-based, co-designed interventions in schools with other species.
@@ -14083,10 +15246,12 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Sarah Homewood** (1) — Assistant Professor, University of Copenhagen (previously IT University of Copenhagen). Interaction design researcher working on the body, self-tracking and reproductive health from feminist and posthuman perspectives.
 - **Sawyer Fuller** (1) — Faculty member in Mechanical Engineering, University of Washington; leads the Autonomous Insect Robotics Lab. Roboticist building insect-sized flying robots and sensors that borrow from insect biology.
 - **Scott Thrift** (1) — Artist, filmmaker and designer of The Present. American artist who designs timepieces that show slower scales of time, such as a clock that turns once a year. https://thepresent.is
+- **Sean Mealin** (1) — Computer scientist; PhD, North Carolina State University. Researcher who developed wearable sensing to help guide dog handlers and trainers read dogs' physiology and behaviour.
 - **Sebastian Cox** (1) — Furniture designer and maker. Sebastian Cox designs furniture from coppiced British hardwoods and runs his own woodland. https://www.sebastiancox.co.uk/
 - **Sebastián González Quintero** (1) — Researcher, Northeastern University. Designer-researcher using underwater acoustic sensing to study urban rivers.
 - **Seekrtech** (1) — App developer, maker of Forest. Taiwanese studio that makes focus and habit apps built around growing plants.
 - **Sema Dumanli** (1) — Associate Professor of Electrical and Electronics Engineering, Boğaziçi University. Sema Dumanli designs implantable and wearable antennas, including bio-hybrid implants in which engineered bacteria change an antenna's signal.
+- **Sena Cucumak** (1) — Researcher, Futurewell: CoCreation Lab, Media and Visual Arts, Koç University. Design researcher who studies street animals and multispecies cohabitation in Turkish cities.
 - **Sensor.Community** (1) — Open environmental data network (formerly Luftdaten.info, OK Lab Stuttgart). Volunteer network of home-built particulate sensors.
 - **Serena Pollastri** (1) — Lecturer in Design, ImaginationLancaster, Lancaster University. Serena Pollastri researches design for more-than-human cities and visual tools for multispecies futures.
 - **Serina Tarkhanian** (1) — Designer and researcher. Writes on decolonial critique of more-than-human design.
@@ -14104,12 +15269,15 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Sonia Levy** (1) — Artist and filmmaker. French-born artist whose films observe how humans and other species, such as corals and canal life, live with each other.
 - **Sonja Bäumel** (1) — Artist. Sonja Bäumel is an Austrian artist who works with the microbes living on and around the human body. https://www.sonjabaeumel.at
 - **Spiber** (1) — Japanese company producing Brewed Protein fibres. Spiber, founded in 2007 at Keio University, ferments designed structural proteins with microbes and spins them into fibres and films. https://spiber.inc/en/
+- **Stacey D. Scott** (1) — Professor, School of Computer Science, University of Guelph. HCI researcher whose group studies collaborative interfaces and applies user-centred and animal-centred design to livestock farming.
 - **Stefan Kahl** (1) — Computer scientist; BirdNET lead, K. Lisa Yang Center for Conservation Bioacoustics (Cornell) and TU Chemnitz. Stefan Kahl develops deep-learning models that recognise bird and other animal sounds for biodiversity monitoring. https://birdnet.cornell.edu
 - **Steffie de Gaetano** (1) — Artist-researcher, Hasselt University. Works on art-led participatory design with landscapes and more-than-human collaborators.
 - **Stephan Wensveen** (1) — Professor of Constructive Design Research, Industrial Design, Eindhoven University of Technology. Stephan Wensveen studies how products couple action and function, and how research through design produces knowledge. https://research.tue.nl/en/persons/stephan-sag-wensveen
 - **Stephen R. Kellert** (1) — Professor of Social Ecology, Yale School of the Environment (1943–2016). Social ecologist who turned the biophilia hypothesis into principles for architecture and design.
+- **Steve North** (1) — Researcher in human–horse interaction, University of Exeter. Researcher who studies how horses and people communicate and builds equine prototypes such as robotic horse ears.
 - **Stijn Ossevoort** (1) — Interaction designer; Eindhoven University of Technology (Industrial Design). Designed Flare, a wind-responsive dress, with Miguel Bruns and proposed 'participation of natural phenomena' as a strong concept for interaction design (TEI 2023).
 - **Strange Loop Games** (1) — Game studio. Studio behind Eco, a multiplayer ecosystem-and-economy simulation.
+- **Stuart Gray** (1) — Lecturer in Engineering Design, University of Bristol. Engineer and designer who led Gorilla Game Lab, building modular cognitive puzzles with Bristol Zoo's gorillas.
 - **Studio PSK** (1) — Design studio (Patrick Stevenson-Keating). London design studio making speculative objects and narratives about science, technology and economics.
 - **Studio diip** (1) — Design studio for computer vision and interactive installations. Dutch studio that builds interactive projects based on computer vision. http://www.studiodiip.com
 - **Sungjae Hwang** (1) — HCI researcher, KAIST (at the time of My Green Pet). Sungjae Hwang built My Green Pet, a plant that senses touch through small electrical currents and answers children with sounds and lights.
@@ -14170,6 +15338,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Wildlife Insights** (1) — Camera-trap data platform of Conservation International, WWF, WCS, ZSL, Smithsonian and Google. Cloud platform that uses AI to identify animals in camera-trap photos.
 - **William Myers** (1) — Curator, writer and teacher. William Myers is an American curator based in Amsterdam who writes about the use of living systems in design and art. https://www.william-myers.com
 - **Wolfgang Buttress** (1) — Artist and sculptor. British artist who makes large sculptures about landscape and nature, often with scientists; best known for The Hive, which is driven by live honeybee signals. https://www.wolfgangbuttress.com/
+- **Woohun Lee** (1) — Professor, Department of Industrial Design, KAIST. Industrial design professor whose lab designed BubbleTalk for fishkeeping and MeowPlayLive for cat live streams.
 - **World Resources Institute** (1) — Global research nonprofit. Research organisation that runs Global Forest Watch.
 - **Xandra van der Eijk** (1) — Artist. Dutch artist working on ecological change, landscapes and the sea through sound, material and long-term research.
 - **Xiaodong Chen** (1) — Professor of Materials Science and Engineering, Nanyang Technological University, Singapore. Xiaodong Chen develops soft bio-interfaced electronics, including conformable electrodes for plants.
@@ -14183,6 +15352,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Yingting Gao** (1) — Researcher, Georgia Institute of Technology. Works on biodegradable and plant-based materials for wearables.
 - **Yiran Ma** (1) — Designer and researcher, Xi'an Jiaotong-Liverpool University. Design researcher who builds probes that let animals steer human bodies and machines.
 - **Yiying Wu** (1) — Design researcher, Hong Kong Polytechnic University / University of Sydney. Studies community design, everyday imageries and human-plant relations.
+- **Yoav Golan** (1) — Researcher, Department of Mechanical Engineering, Ben-Gurion University of the Negev. Engineer who built a vibration vest and showed that a dog can learn to follow distinct haptic commands.
 - **Yoko Akama** (1) — Professor of Design, RMIT University. Yoko Akama is a design researcher working on participatory and relational design, drawing on Japanese and Indigenous philosophies.
 - **Yoonji Lee** (1) — Researcher, KAIST. HCI researcher designing digital games in which living plants act as players.
 - **Yorktown Technologies (GloFish)** (1) — Company that commercialised fluorescent transgenic aquarium fish, founded 2001. Yorktown Technologies licensed fluorescent zebrafish developed as pollution sensors in Singapore and sold them as GloFish from 2003, the first genetically modified pet. https://www.glofish.com/
@@ -14194,12 +15364,12 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Yuichiro Takeuchi** (1) — Researcher, Sony Computer Science Laboratories. Yuichiro Takeuchi works on digital fabrication for cities and ecologies, including 3D-printed hydroponic landscapes.
 - **Yuxi Liu** (1) — Researcher, TU Delft. Design researcher who uses drifting and recipe-making as methods for noticing humans and nonhumans in the city.
 - **Yuyao Lin** (1) — Design researcher, Royal College of Art. Design researcher working on more-than-human design and species that people find disgusting.
-- **Yvonne Rogers** (1) — Professor of Interaction Design, University College London; director of the UCL Interaction Centre. HCI researcher known for ubiquitous computing in the wild and for the textbook Interaction Design.
 - **ZKM | Center for Art and Media Karlsruhe** (1) — Art and media museum and research centre. ZKM is a German institution for media art that produces large thematic exhibitions on technology, science and society. https://zkm.de
 - **Zeefier** (1) — Seaweed-dye company founded by designers Nienke Hoogvliet and Anne Boermans. Zeefier scales up Nienke Hoogvliet's seaweed-dye research from SEA ME into natural textile colours made from 100 percent seaweed and its waste streams. https://www.zeefier.nl
 - **Zena Holloway** (1) — Photographer and biodesigner; founder of Rootfull. Former underwater photographer Zena Holloway founded Rootfull in 2018 to grow textiles and objects from grass roots in beeswax templates. https://www.zenaholloway.com/
 - **Zhenan Bao** (1) — Professor of Chemical Engineering, Stanford University. Materials scientist working on skin-like stretchable electronics, including kirigami-cut electrode sheets that follow growing organoids. https://baogroup.stanford.edu
 - **Zhenchi Lai** (1) — Design researcher, National Taiwan University of Science and Technology. Researches AI tools for human–cat relationships.
+- **Ziming Wang** (1) — Researcher, t2i Lab, Chalmers University of Technology. HCI researcher who creates speculative designs about biohybrid robots and human–food interaction.
 - **Zoe Qi-Jing Li** (1) — Artist and researcher, Hong Kong University of Science and Technology (Guangzhou). Makes computational artworks that couple human expression with natural phenomena such as moonlight.
 - **doxiadis+** (1) — Landscape architecture office led by Thomas Doxiadis. doxiadis+ is a Greek landscape and architecture practice working on ecological landscapes, drylands and multispecies design. https://www.doxiadisplus.com
 - **explore.org** (1) — Live nature camera network of the Annenberg Foundation. Nonprofit that streams dozens of live cameras from bear rivers, eagle nests and reefs.

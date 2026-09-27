@@ -1,5 +1,69 @@
 [
  {
+  "name": "JoyBranch (INTERACT Animal Lab)",
+  "why": "Interactive musical system for Sampson, a hyacinth macaw at San Diego Zoo Safari Park; video exists (youtube DXUmbs-0ArA) but no paper DOI found yet.",
+  "link": "https://www.youtube.com/watch?v=DXUmbs-0ArA",
+  "found_via": "rebecca-kleinberger",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Christena Nippert-Eng",
+  "why": "Indiana University; direct observation for user-centred design with gorillas; ACI papers on animal willingness and choice/control language.",
+  "link": "https://www.youtube.com/watch?v=tuhYpJVOPj0",
+  "found_via": "clara-mancini",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Orit Hirsch-Matsioulas",
+  "why": "University of Haifa; urban dog–leash–human entanglements, politicising ACI, dog shelters.",
+  "link": "https://doi.org/10.1145/3493842.3493889",
+  "found_via": "anna-zamansky",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Nofence",
+  "why": "Norwegian GPS virtual-fence collars for goats, sheep and cattle (2011–); parallel to Halter.",
+  "link": "https://www.nofence.no/en",
+  "found_via": "halter",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Save the Elephants geofencing",
+  "why": "GPS-collared elephants with virtual geofences that send SMS alerts when elephants approach farms (Kenya).",
+  "link": "https://www.savetheelephants.org",
+  "found_via": "martin-wikelski",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Diana Reiss – National Aquarium dolphin touchscreen (2018)",
+  "why": "Underwater interactive touchscreen for dolphins, successor of her 1980s keyboard.",
+  "link": "https://www.youtube.com/watch?v=3IqRPaAYm4I",
+  "found_via": "diana-reiss",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Furbo / Petcube treat cameras",
+  "why": "Mass-market remote pet cameras that toss treats; commercial form of pet video chat research.",
+  "link": "https://furbo.com",
+  "found_via": "carman-neustaedter",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
+  "name": "Thai Elephant Orchestra (Dave Soldier & Richard Lair, 2000)",
+  "why": "Elephants playing purpose-built instruments; interspecies music without computing.",
+  "link": "https://en.wikipedia.org/wiki/Thai_Elephant_Orchestra",
+  "found_via": "fiona-french",
+  "status": "open",
+  "batch": "aci"
+ },
+ {
   "name": "OXMAN — EDEN and VIGILS",
   "why": "Recent OXMAN projects (buildings as ecosystems; engineered bacterial biopigment patterning on textiles); year of first showing not confirmed.",
   "link": "https://www.oxman.com/projects/vigils",
@@ -1756,14 +1820,6 @@
   "why": "Learning from gardening, felt senses for more-than-human design (DIS 2024), 'Introducing More-Than-Human Design in Practice' (Interactions 2025).",
   "link": "",
   "found_via": "sara-heitlinger",
-  "status": "open",
-  "batch": "mth-hci"
- },
- {
-  "name": "Hanna Wirman",
-  "why": "Orangutan touch-screen games; ACI and game studies.",
-  "link": "",
-  "found_via": "sarah-webber",
   "status": "open",
   "batch": "mth-hci"
  },

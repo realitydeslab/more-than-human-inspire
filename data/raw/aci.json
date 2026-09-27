@@ -203,22 +203,6 @@
    "discovered_via": "fiona-french"
   },
   {
-   "id": "naohiro-isokawa",
-   "name": "Naohiro Isokawa",
-   "kind": "person",
-   "role": "Researcher, Keio University (Graduate School of Media and Governance)",
-   "based": "Fujisawa, Japan",
-   "bio": "Researcher who built TalkingNemo and AffectiveNemo, systems that let aquarium fish 'speak' to their owners through sensor data.",
-   "why": "His work gives a voice to pets that are usually treated as decoration.",
-   "links": {},
-   "role_zh": "庆应义塾大学研究者（政策・媒体研究科）",
-   "based_zh": "藤泽，日本",
-   "bio_zh": "研究者，开发了 TalkingNemo 和 AffectiveNemo，让水族箱里的鱼通过传感数据向主人“说话”。",
-   "why_zh": "他的研究让常被当作装饰的宠物有了声音。",
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
    "id": "alexandre-rossi",
    "name": "Alexandre Pongrácz Rossi",
    "kind": "person",
@@ -672,24 +656,6 @@
    "discovered_via": "ron-wakkary"
   },
   {
-   "id": "andrew-quitmeyer",
-   "name": "Andrew Quitmeyer",
-   "kind": "person",
-   "role": "Designer and researcher; founder of Digital Naturalism Laboratories (Dinalab), Panama",
-   "based": "Gamboa, Panama",
-   "bio": "Hacker-naturalist who builds field electronics with biologists and animals in the rainforest and runs hiking hackathons.",
-   "why": "Digital Naturalism brings making and performance into field biology with animals.",
-   "links": {
-    "site": "https://www.digitalnaturalism.org"
-   },
-   "role_zh": "设计师、研究者，巴拿马 Digital Naturalism Laboratories（Dinalab）创始人",
-   "based_zh": "甘博阿，巴拿马",
-   "bio_zh": "“黑客博物学家”，在雨林里与生物学家和动物一起制作野外电子设备，并组织徒步黑客松。",
-   "why_zh": "Digital Naturalism 把动手制作和表演带进了与动物相关的野外生物学。",
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
    "id": "jessica-frawley",
    "name": "Jessica Frawley",
    "kind": "person",
@@ -773,22 +739,6 @@
    "discovered_via": "seed"
   },
   {
-   "id": "yvonne-rogers",
-   "name": "Yvonne Rogers",
-   "kind": "person",
-   "role": "Professor of Interaction Design, UCL Interaction Centre, University College London",
-   "based": "London, UK",
-   "bio": "Leading interaction design researcher whose group built PlayBat, a public display that uses live bat-call data.",
-   "why": "PlayBat shows how sensed wildlife data can change public attitudes to a feared animal.",
-   "links": {},
-   "role_zh": "伦敦大学学院 UCL 交互中心交互设计教授",
-   "based_zh": "伦敦，英国",
-   "bio_zh": "交互设计领域的重要学者，她的团队制作了 PlayBat：一个使用实时蝙蝠叫声数据的公共展示装置。",
-   "why_zh": "PlayBat 展示了感知到的野生动物数据如何改变公众对一种令人害怕的动物的态度。",
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
    "id": "ehud-sharlin",
    "name": "Ehud Sharlin",
    "kind": "person",
@@ -801,22 +751,6 @@
    "based_zh": "卡尔加里，加拿大",
    "bio_zh": "人机器人交互研究者，他的团队观察了家猫如何对社交机器人作出反应。",
    "why_zh": "他的团队把宠物看作机器人设计者必须考虑的“非预期用户”。",
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
-   "id": "margot-brereton",
-   "name": "Margot Brereton",
-   "kind": "person",
-   "role": "Professor, Queensland University of Technology",
-   "based": "Brisbane, Australia",
-   "bio": "Interaction design researcher who works with conservation teams and citizens on acoustic monitoring of birds.",
-   "why": "Her group designs conservation technology around the culture of the people who use it.",
-   "links": {},
-   "role_zh": "昆士兰科技大学教授",
-   "based_zh": "布里斯班，澳大利亚",
-   "bio_zh": "交互设计研究者，与保护团队和公民合作开展鸟类声学监测。",
-   "why_zh": "她的团队围绕使用者自身的文化来设计保护技术。",
    "connected_to": [],
    "discovered_via": "seed"
   },
@@ -951,22 +885,6 @@
    "based_zh": "阿默斯特，美国",
    "bio_zh": "机器人与人机交互研究者，研究使用者与导盲犬的互动，为四足导盲机器人提供依据。",
    "why_zh": "他的研究从真实导盲犬团队的做法出发来设计机器人。",
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
-   "id": "zhenchi-lai",
-   "name": "Zhenchi Lai",
-   "kind": "person",
-   "role": "Researcher, Department of Design, National Taiwan University of Science and Technology",
-   "based": "Taipei, Taiwan, China",
-   "bio": "Design researcher who builds AI storytelling tools that narrate the shared world of people and cats.",
-   "why": "His AI Cat Narrator uses defamiliarisation to let owners see daily life from a cat's side.",
-   "links": {},
-   "role_zh": "台湾科技大学设计系研究者",
-   "based_zh": "台北，中国台湾",
-   "bio_zh": "设计研究者，制作讲述人与猫共同世界的 AI 叙事工具。",
-   "why_zh": "他的 AI Cat Narrator 用陌生化手法让主人从猫的一侧看日常生活。",
    "connected_to": [],
    "discovered_via": "seed"
   },
@@ -2228,45 +2146,6 @@
    }
   },
   {
-   "id": "naohiro-isokawa--talkingnemo",
-   "creator_ids": [
-    "naohiro-isokawa"
-   ],
-   "title": "TalkingNemo: aquarium fish talks its mind for breeding support",
-   "year": 2016,
-   "field": "aci",
-   "sub": "companion",
-   "organisms": [
-    "animals"
-   ],
-   "kind": "prototype",
-   "description": "TalkingNemo turns sensor readings from an aquarium into messages 'from the fish', so that owners notice what the fish and the tank need.",
-   "description_zh": "TalkingNemo 把水族箱的传感数据转化为“来自鱼的话”，让主人注意到鱼和鱼缸的需要。",
-   "idea_en": "Let the pet 'speak' through data and owners care better.",
-   "idea_zh": "让宠物通过数据“开口说话”，主人就会照顾得更好。",
-   "method": "Water and activity sensors feed a system that posts first-person messages from the fish to the owner.",
-   "method_zh": "水质和活动传感器的数据进入系统，以鱼的第一人称向主人发送消息。",
-   "keywords": [
-    "aquarium fish",
-    "fishkeeping",
-    "IoT",
-    "anthropomorphism"
-   ],
-   "also": [
-    "mth"
-   ],
-   "video": {
-    "url": "https://www.youtube.com/watch?v=IXqRVKZHpfA"
-   },
-   "paper": {
-    "url": "https://doi.org/10.1145/2995257.3012017",
-    "doi": "10.1145/2995257.3012017",
-    "arxiv": "",
-    "venue": "ACI 2016",
-    "title": "TalkingNemo: aquarium fish talks its mind for breeding support"
-   }
-  },
-  {
    "id": "alexandre-rossi--dog-using-skype",
    "creator_ids": [
     "alexandre-rossi"
@@ -3008,42 +2887,6 @@
    }
   },
   {
-   "id": "woohun-lee--bubbletalk",
-   "creator_ids": [
-    "woohun-lee"
-   ],
-   "title": "BubbleTalk: Enriching Experience with Fish by Supporting Human Behavior",
-   "year": 2018,
-   "field": "aci",
-   "sub": "companion",
-   "organisms": [
-    "animals"
-   ],
-   "kind": "prototype",
-   "description": "BubbleTalk lets people 'talk' to their pet fish by sending bubbles into the tank, which changed how long and how they interacted.",
-   "description_zh": "BubbleTalk 让人通过向鱼缸里送气泡来“和鱼说话”，改变了人与鱼互动的方式和时长。",
-   "idea_en": "For pets that cannot be touched, design the human's gesture.",
-   "idea_zh": "对于摸不到的宠物，就去设计人的动作。",
-   "method": "Interaction device mapping a person's input to bubble output in the tank, evaluated in a user study.",
-   "method_zh": "把人的输入映射为鱼缸中的气泡输出，并通过用户研究评估。",
-   "keywords": [
-    "fishkeeping",
-    "bubbles",
-    "pets",
-    "DIS 2018"
-   ],
-   "also": [
-    "mth"
-   ],
-   "paper": {
-    "url": "https://doi.org/10.1145/3196709.3196720",
-    "doi": "10.1145/3196709.3196720",
-    "arxiv": "",
-    "venue": "DIS 2018",
-    "title": "BubbleTalk: Enriching Experience with Fish by Supporting Human Behavior"
-   }
-  },
-  {
    "id": "patrizia-paci--wearer-experience-cats",
    "creator_ids": [
     "patrizia-paci",
@@ -3198,42 +3041,6 @@
     "arxiv": "2301.06964",
     "venue": "CHI 2023",
     "title": "Quantified Canine: Inferring Dog Personality From Wearables"
-   }
-  },
-  {
-   "id": "zhenchi-lai--ai-cat-narrator",
-   "creator_ids": [
-    "zhenchi-lai"
-   ],
-   "title": "AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat",
-   "year": 2024,
-   "field": "aci",
-   "sub": "companion",
-   "organisms": [
-    "animals"
-   ],
-   "kind": "prototype",
-   "description": "AI Cat Narrator is an AI storytelling tool that retells an owner's day as seen by their cat, mixing real sensor data with cat literature.",
-   "description_zh": "AI Cat Narrator 是一个 AI 叙事工具，结合真实数据和关于猫的文学，把主人的一天以猫的视角重新讲述。",
-   "idea_en": "Defamiliarise the shared home by narrating it from the cat's side.",
-   "idea_zh": "从猫的一侧讲述，让共同生活的家变得陌生而新鲜。",
-   "method": "Ethnographic data from the cat's viewpoint and literary excerpts form a database that prompts a language model.",
-   "method_zh": "以猫的视角收集的民族志数据和文学摘录构成数据库，用来引导语言模型生成叙事。",
-   "keywords": [
-    "cats",
-    "generative AI",
-    "storytelling",
-    "defamiliarisation"
-   ],
-   "also": [
-    "mth"
-   ],
-   "paper": {
-    "url": "https://doi.org/10.1145/3656156.3663692",
-    "doi": "10.1145/3656156.3663692",
-    "arxiv": "2406.06192",
-    "venue": "DIS 2024",
-    "title": "AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat"
    }
   },
   {
@@ -5884,46 +5691,6 @@
    }
   },
   {
-   "id": "nancy-smith--smart-bee-houses",
-   "creator_ids": [
-    "nancy-smith"
-   ],
-   "title": "Smart Bee Houses: Designing to Support Urban Pollination",
-   "year": 2021,
-   "field": "aci",
-   "sub": "wildlife",
-   "organisms": [
-    "insects"
-   ],
-   "kind": "prototype",
-   "description": "Smart bee houses for solitary bees that also sense local environmental conditions, designed to support urban pollinator habitats.",
-   "description_zh": "为独居蜂设计的智能蜂屋，同时感知当地环境条件，用来支持城市中的传粉者栖息地。",
-   "idea_en": "A bee hotel can also be a climate sensor for the city.",
-   "idea_zh": "蜂旅馆也可以是城市的气候传感器。",
-   "method": "Several bee house designs combining nesting materials with environmental sensors, tested outdoors.",
-   "method_zh": "多种蜂屋设计，把筑巢材料与环境传感器结合，并在户外测试。",
-   "keywords": [
-    "solitary bees",
-    "pollinators",
-    "bee hotel",
-    "environmental sensing"
-   ],
-   "also": [
-    "mth",
-    "hni"
-   ],
-   "video": {
-    "url": "https://www.youtube.com/watch?v=w6rjtsi2ve0"
-   },
-   "paper": {
-    "url": "https://doi.org/10.1145/3493842.3493894",
-    "doi": "10.1145/3493842.3493894",
-    "arxiv": "",
-    "venue": "ACI 2021",
-    "title": "Smart Bee Houses: Designing to Support Urban Pollination"
-   }
-  },
-  {
    "id": "mirjana-erceg--right-whale-ship-collisions",
    "creator_ids": [
     "mirjana-erceg"
@@ -6023,47 +5790,6 @@
    }
   },
   {
-   "id": "andrew-quitmeyer--digital-naturalism",
-   "creator_ids": [
-    "andrew-quitmeyer"
-   ],
-   "title": "Digital naturalism: interspecies performative tool making for embodied science",
-   "year": 2013,
-   "field": "aci",
-   "sub": "wildlife",
-   "organisms": [
-    "animals"
-   ],
-   "kind": "prototype",
-   "description": "Digital Naturalism builds custom electronic tools on site with field biologists and the animals they study, to explore behaviour and share it through performance.",
-   "description_zh": "Digital Naturalism 在野外现场与生物学家及其研究的动物一起制作定制电子工具，用来探索动物行为并通过表演分享。",
-   "idea_en": "Make tools in the field, with the animals, instead of bringing lab devices to them.",
-   "idea_zh": "在野外、与动物一起制作工具，而不是把实验室设备带给它们。",
-   "method": "Performative tool making: sensors and actuators prototyped on site to probe animal behaviour.",
-   "method_zh": "表演式工具制作：在现场制作传感器和执行器原型来探查动物行为。",
-   "keywords": [
-    "field biology",
-    "hacking",
-    "rainforest",
-    "Panama"
-   ],
-   "also": [
-    "mth",
-    "hni"
-   ],
-   "images": [
-    "https://www.digitalnaturalism.org/wp-content/uploads/2013/05/Bat.jpg"
-   ],
-   "paper": {
-    "url": "https://doi.org/10.1145/2494091.2501084",
-    "doi": "10.1145/2494091.2501084",
-    "arxiv": "",
-    "venue": "UbiComp 2013",
-    "title": "Digital naturalism: interspecies performative tool making for embodied science"
-   },
-   "source_url": "https://www.digitalnaturalism.org"
-  },
-  {
    "id": "yvonne-rogers--playbat",
    "creator_ids": [
     "yvonne-rogers"
@@ -6098,43 +5824,6 @@
     "arxiv": "",
     "venue": "DIS 2018",
     "title": "Confronting People's Fears about Bats: Combining Multi-modal and Environmentally Sensed Data to Promote Curiosity and Discovery"
-   }
-  },
-  {
-   "id": "margot-brereton--listening-to-save-wildlife",
-   "creator_ids": [
-    "margot-brereton"
-   ],
-   "title": "Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team",
-   "year": 2019,
-   "field": "aci",
-   "sub": "wildlife",
-   "organisms": [
-    "animals"
-   ],
-   "kind": "paper",
-   "description": "Three years of fieldwork with the recovery team of an endangered Australian bird, the eastern bristlebird, on bringing acoustic monitoring into conservation.",
-   "description_zh": "与澳大利亚濒危鸟类东部刚毛鸟的保护恢复团队一起进行了三年田野工作，研究如何把声学监测引入保护实践。",
-   "idea_en": "Conservation technology succeeds when it fits the team's culture and practice.",
-   "idea_zh": "当保护技术贴合团队的文化和做法时，它才会成功。",
-   "method": "Ethnography and design research on acoustic recording and analysis tools with the species recovery team.",
-   "method_zh": "与物种恢复团队一起，围绕录音和分析工具开展民族志与设计研究。",
-   "keywords": [
-    "eastern bristlebird",
-    "acoustic monitoring",
-    "conservation",
-    "DIS 2019"
-   ],
-   "also": [
-    "mth",
-    "hni"
-   ],
-   "paper": {
-    "url": "https://doi.org/10.1145/3322276.3322360",
-    "doi": "10.1145/3322276.3322360",
-    "arxiv": "",
-    "venue": "DIS 2019",
-    "title": "Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team"
    }
   },
   {
@@ -6955,5 +6644,118 @@
    "source_url": "https://www.cybertracker.org"
   }
  ],
- "leads": []
+ "leads": [
+  {
+   "name": "JoyBranch (INTERACT Animal Lab)",
+   "why": "Interactive musical system for Sampson, a hyacinth macaw at San Diego Zoo Safari Park; video exists (youtube DXUmbs-0ArA) but no paper DOI found yet.",
+   "link": "https://www.youtube.com/watch?v=DXUmbs-0ArA",
+   "found_via": "rebecca-kleinberger",
+   "status": "open"
+  },
+  {
+   "name": "Christena Nippert-Eng",
+   "why": "Indiana University; direct observation for user-centred design with gorillas; ACI papers on animal willingness and choice/control language.",
+   "link": "https://www.youtube.com/watch?v=tuhYpJVOPj0",
+   "found_via": "clara-mancini",
+   "status": "open"
+  },
+  {
+   "name": "Jérémy Barbay",
+   "why": "Universidad de Chile; touchscreen 'digital life enrichment' apps for monk parakeets (ACI 2022, three papers).",
+   "link": "https://doi.org/10.1145/3565995.3566040",
+   "found_via": "jennifer-cunha",
+   "status": "no_media"
+  },
+  {
+   "name": "Orit Hirsch-Matsioulas",
+   "why": "University of Haifa; urban dog–leash–human entanglements, politicising ACI, dog shelters.",
+   "link": "https://doi.org/10.1145/3493842.3493889",
+   "found_via": "anna-zamansky",
+   "status": "open"
+  },
+  {
+   "name": "Fredrik Aspling",
+   "why": "Stockholm University; multispecies-computer interaction with dogs and plants; 'Understanding animals: a critical challenge in ACI' (NordiCHI 2018).",
+   "link": "https://doi.org/10.1145/3240167.3240226",
+   "found_via": "oskar-juhlin",
+   "status": "no_media"
+  },
+  {
+   "name": "Yoram Chisik",
+   "why": "Animals and the (Playable) City; participatory design with small animals and children (IDC 2017 workshop).",
+   "link": "https://doi.org/10.1145/3371049.3371068",
+   "found_via": "clara-mancini",
+   "status": "no_media"
+  },
+  {
+   "name": "Tampere dog sensing group (Heini Törnqvist, Anna Valldeoriola, Outi Vainio)",
+   "why": "Dog behaviour classification from collar/harness sensors, dry-electrode canine ECG; partner of Heli Väätäjä.",
+   "link": "https://doi.org/10.1145/3295598.3295602",
+   "found_via": "heli-vaataja",
+   "status": "no_media"
+  },
+  {
+   "name": "NC State guide dog analytics (Yifan Wu, Timothy Holder, Marc Foster)",
+   "why": "Many ACI 2019–2025 papers on IMU/ECG sensing and ML for guide dog selection; only one case study added.",
+   "link": "https://doi.org/10.1145/3702336.3702337",
+   "found_via": "alper-bozkurt",
+   "status": "no_media"
+  },
+  {
+   "name": "Lisa Brey / Megan McNames (choice and control in zoos)",
+   "why": "Systematic review of 'choice' and 'control' language in ACI (2025) and expert interviews on zoo choice provision.",
+   "link": "https://doi.org/10.1145/3768539.3768544",
+   "found_via": "christopher-flynn-martin",
+   "status": "no_media"
+  },
+  {
+   "name": "Nofence",
+   "why": "Norwegian GPS virtual-fence collars for goats, sheep and cattle (2011–); parallel to Halter.",
+   "link": "https://www.nofence.no/en",
+   "found_via": "halter",
+   "status": "open"
+  },
+  {
+   "name": "Save the Elephants geofencing",
+   "why": "GPS-collared elephants with virtual geofences that send SMS alerts when elephants approach farms (Kenya).",
+   "link": "https://www.savetheelephants.org",
+   "found_via": "martin-wikelski",
+   "status": "open"
+  },
+  {
+   "name": "Diana Reiss – National Aquarium dolphin touchscreen (2018)",
+   "why": "Underwater interactive touchscreen for dolphins, successor of her 1980s keyboard.",
+   "link": "https://www.youtube.com/watch?v=3IqRPaAYm4I",
+   "found_via": "diana-reiss",
+   "status": "open"
+  },
+  {
+   "name": "Furbo / Petcube treat cameras",
+   "why": "Mass-market remote pet cameras that toss treats; commercial form of pet video chat research.",
+   "link": "https://furbo.com",
+   "found_via": "carman-neustaedter",
+   "status": "open"
+  },
+  {
+   "name": "Katia Vega – DiabetiCAT (ACI 2025)",
+   "why": "Litter box plus smart water fountain monitoring glucose and hydration in diabetic cats; sibling of cirCAT and GluCAT.",
+   "link": "https://doi.org/10.1145/3768539.3768543",
+   "found_via": "shuyi-sun",
+   "status": "no_media"
+  },
+  {
+   "name": "ZooJam series (ReptileJam 2021, Moon Jam 2023, Ape Jam 2025)",
+   "why": "Workshop papers by Fiona French et al.; covered by the ZooJamming report, not added individually.",
+   "link": "https://doi.org/10.1145/3768539.3768550",
+   "found_via": "fiona-french",
+   "status": "duplicate"
+  },
+  {
+   "name": "Thai Elephant Orchestra (Dave Soldier & Richard Lair, 2000)",
+   "why": "Elephants playing purpose-built instruments; interspecies music without computing.",
+   "link": "https://en.wikipedia.org/wiki/Thai_Elephant_Orchestra",
+   "found_via": "fiona-french",
+   "status": "open"
+  }
+ ]
 }

@@ -25,8 +25,11 @@ alex-wilkie | Alex Wilkie | 1 works
 alexandra-daisy-ginsberg | Alexandra Daisy Ginsberg | 12 works
 alexandra-dementieva | Alexandra Dementieva | 1 works
 alexandra-teixeira-riggs | Alexandra Teixeira Riggs | 2 works
+alexandra-weilenmann | Alexandra Weilenmann | 1 works
+alexandre-rossi | Alexandre Pongrácz Rossi | 1 works
 alinta-krauth | Alinta Krauth | 4 works
 allison-kudla | Allison Kudla | 2 works
+alper-bozkurt | Alper Bozkurt | 2 works
 alysson-muotri | Alysson R. Muotri | 2 works
 amino-labs | Amino Labs | 1 works
 amsilk | AMSilk | 1 works
@@ -52,11 +55,12 @@ ani-liu | Ani Liu | 15 works
 aniela-hoitink | Aniela Hoitink | 1 works
 ann-kristin-abel | Ann-Kristin Abel | 1 works
 ann-light | Ann Light | 5 works
+ann-morrison | Ann Morrison | 2 works
 anna-dumitriu | Anna Dumitriu | 7 works
 anna-madeleine-raupach | Anna Madeleine Raupach | 1 works
 anna-tsing | Anna Lowenhaupt Tsing | 3 works
 anna-vershinina | Anna Vershinina | 1 works
-anna-zamansky | Anna Zamansky | 1 works
+anna-zamansky | Anna Zamansky | 7 works
 annarita-bianco | Annarita Bianco | 1 works
 anne-bowser | Anne Bowser | 1 works
 anne-galloway | Anne Galloway | 2 works
@@ -67,6 +71,8 @@ ant-farm | Ant Farm | 1 works
 anthony-atala | Anthony Atala | 4 works
 anton-poikolainen-rosen | Anton Poikolainen Rosén | 3 works
 antti-tenetz | Antti Tenetz | 1 works
+aphrodite-andreou | Aphrodite Theodora Andreou | 1 works
+arianna-mastali | Arianna Mastali | 1 works
 armi-behzad | Armi Behzad | 1 works
 arne-berger | Arne Berger | 1 works
 arne-hendriks | Arne Hendriks | 1 works
@@ -90,6 +96,7 @@ aurelie-mosse | Aurélie Mosse | 1 works
 axel-erlandson | Axel Erlandson | 1 works
 aybars-senyildiz | Aybars Senyildiz | 1 works
 aykut-coskun | Aykut Coşkun | 3 works
+b-f-skinner | B. F. Skinner | 1 works
 backyard-brains | Backyard Brains | 1 works
 bahareh-barati | Bahareh Barati | 11 works
 barani-raman | Barani Raman | 1 works
@@ -100,6 +107,8 @@ baum-leahy | Baum & Leahy | 1 works
 bcl | BCL (Georg Tremmel & Shiho Fukuhara) | 2 works
 beatrice-maggipinto | Beatrice Maggipinto | 1 works
 beatriz-da-costa | Beatriz da Costa | 1 works
+beewise | Beewise | 1 works
+benioff-ocean-science-laboratory | Benioff Ocean Science Laboratory | 1 works
 benjamin-ward-cherrier | Benjamin Ward-Cherrier | 1 works
 bento-lab | Bento Lab | 1 works
 berilsu-tarcan | Berilsu Tarcan | 1 works
@@ -141,10 +150,13 @@ carl-disalvo | Carl DiSalvo | 3 works
 carla-alcala-badias | Carla Alcalà Badias | 1 works
 carlos-castellanos | Carlos Castellanos | 3 works
 carlos-peralta | Carlos Peralta | 1 works
+carman-neustaedter | Carman Neustaedter | 2 works
 carole-collet | Carole Collet | 2 works
 carolina-de-lara | Carolina De Lara | 1 works
+cassie-kresnye | K. Cassie Kresnye | 1 works
 catalog | Catalog | 1 works
 cayla-key | Cayla Key | 1 works
+ceara-byrne | Ceara Byrne | 4 works
 cecilia-jonsson | Cecilia Jonsson | 1 works
 celeste-boursier-mougenot | Céleste Boursier-Mougenot | 1 works
 cellink | CELLINK | 1 works
@@ -154,10 +166,11 @@ cesar-rodriguez-garavito | César Rodríguez-Garavito | 1 works
 chadwick-wingrave | Chadwick A. Wingrave | 1 works
 chao-zhong | Chao Zhong | 1 works
 charles-lieber | Charles M. Lieber | 1 works
+charles-ramey | Charles Ramey | 3 works
 charlotte-jarvis | Charlotte Jarvis | 4 works
 charlotte-mccurdy | Charlotte McCurdy | 1 works
 charlotte-nordmoen | Charlotte Nordmoen | 2 works
-charlotte-robinson | Charlotte L. Robinson | 1 works
+charlotte-robinson | Charlotte L. Robinson | 4 works
 chidi-usanga | Chidi Usanga | 2 works
 chris-watson | Chris Watson | 3 works
 chris-woebken | Chris Woebken | 1 works
@@ -165,15 +178,19 @@ christa-sommerer-laurent-mignonneau | Christa Sommerer & Laurent Mignonneau | 1 
 christian-brems | Christian Brems | 1 works
 christian-kerrigan | Christian Kerrigan | 1 works
 christina-agapakis | Christina Agapakis | 3 works
+christopher-flynn-martin | Christopher Flynn Martin | 3 works
 christopher-frauenberger | Christopher Frauenberger | 3 works
 christopher-voigt | Christopher Voigt | 2 works
 circa | Circa (Ted Hunt) | 1 works
 city-of-melbourne | City of Melbourne Urban Forest team | 1 works
-clara-mancini | Clara Mancini | 8 works
+clara-mancini | Clara Mancini | 21 works
 claudia-nunez-pacheco | Claudia Núñez-Pacheco | 2 works
 clee-zhuo-wang | Clee Zhuo Wang | 1 works
+clemens-driessen | Clemens Driessen | 1 works
+cleverpet | CleverPet | 1 works
 click-and-grow | Click & Grow | 1 works
 climate-clock | Climate Clock (Gan Golan & Andrew Boyd) | 1 works
+clint-zeagler | Clint Zeagler | 2 works
 clive-van-heerden | Clive van Heerden | 1 works
 cmu-create-lab | CMU CREATE Lab | 2 works
 cody-lukas | Cody Lukas | 2 works
@@ -196,6 +213,7 @@ daniel-crawford | Daniel Crawford | 1 works
 daniel-preston | Daniel Preston | 1 works
 daniel-wangpraseurt | Daniel Wangpraseurt | 1 works
 daniela-rus | Daniela Rus | 1 works
+daniele-quercia | Daniele Quercia | 1 works
 danielle-ooms | Daniëlle Ooms | 1 works
 danielle-trofe | Danielle Trofe | 1 works
 danielle-wilde | Danielle Wilde | 1 works
@@ -205,25 +223,31 @@ david-benque | David Benqué | 1 works
 david-bowen | David Bowen | 11 works
 david-dunn | David Dunn | 1 works
 david-gracias | David H. Gracias | 1 works
+david-l-roberts | David L. Roberts | 1 works
 david-oreilly | David OReilly | 1 works
 david-rothenberg | David Rothenberg | 2 works
 dean-brown | Dean Brown | 1 works
 debbie-jung | Debbie Jung | 1 works
 deep-time-walk | Deep Time Walk | 1 works
 denise-herzing | Denise Herzing | 1 works
+diana-reiss | Diana Reiss | 1 works
 diana-scherer | Diana Scherer | 1 works
 diemut-strebe | Diemut Strebe | 1 works
 dirk-hebel | Dirk Hebel | 1 works
+dirk-van-der-linden | Dirk van der Linden | 2 works
 diya-samit | Diya Samit | 1 works
 dmitry-morozov | Dmitry Morozov (::vtol::) | 2 works
 dna-design-and-architecture | DnA_Design and Architecture | 2 works
 doenja-oogjes | Doenja Oogjes | 10 works
+dognosis | Dognosis | 1 works
+dogtv | DOGTV | 1 works
 dominique-chen | Dominique Chen | 1 works
 donald-degraen | Donald Degraen | 2 works
 donghyeon-ko | Donghyeon Ko | 1 works
 donna-haraway | Donna Haraway | 5 works
 douglas-blackiston | Douglas Blackiston | 4 works
 doxiadis-plus | doxiadis+ | 1 works
+duane-rumbaugh | Duane Rumbaugh | 1 works
 dunne-raby | Dunne & Raby (Anthony Dunne & Fiona Raby) | 1 works
 e-line-media | E-Line Media | 1 works
 earth-species-project | Earth Species Project | 1 works
@@ -240,6 +264,8 @@ eduardo-miranda | Eduardo Reck Miranda | 5 works
 eduardo-navarro | Eduardo Navarro | 1 works
 edward-masui | Edward Masui | 1 works
 edward-o-wilson | Edward O. Wilson | 2 works
+edwin-blake | Edwin Blake | 1 works
+ehud-sharlin | Ehud Sharlin | 1 works
 eldy-lazaro-vasquez | Eldy S. Lazaro Vasquez | 1 works
 elena-sabinson | Elena Sabinson | 2 works
 eleni-margariti | Eleni Margariti | 1 works
@@ -265,7 +291,9 @@ f-stephan-mayer | F. Stephan Mayer | 1 works
 fab-lab-barcelona | Fab Lab Barcelona | 1 works
 fabienne-felder | Fabienne Felder | 2 works
 fadi-botros | Fadi Botros | 1 works
+fangyuan-chang | Fangyuan Chang | 1 works
 farmbot | FarmBot | 1 works
+federico-rossano | Federico Rossano | 1 works
 fei-shieh | Fei (Dillon) Shieh | 1 works
 feifei-zhou | Feifei Zhou | 2 works
 feng-guo | Feng Guo | 1 works
@@ -277,8 +305,10 @@ ferran-altarriba-bertran | Ferran Altarriba Bertran | 5 works
 finalspark | FinalSpark | 5 works
 finn-petrie | Finn Petrie | 1 works
 fiona-bell | Fiona Bell | 10 works
-fiona-french | Fiona French | 2 works
+fiona-french | Fiona French | 7 works
 flavia-alice-mameli | Flavia Alice Mameli | 1 works
+florian-mueller | Florian 'Floyd' Mueller | 1 works
+fluentpet | FluentPet | 1 works
 foad-hamidi | Foad Hamidi | 3 works
 forensic-architecture | Forensic Architecture | 2 works
 franca-lopez-barbera | Franca López Barbera | 1 works
@@ -298,6 +328,7 @@ geertje-slingerland | Geertje Slingerland | 3 works
 genspace | Genspace | 1 works
 george-church | George Church | 2 works
 gerd-geleff-nielsen | Gerd Geleff Nielsen | 2 works
+giancarlo-valentin | Giancarlo Valentin | 1 works
 gilberto-esparza | Gilberto Esparza | 5 works
 gilbertto-prado | Gilbertto Prado | 1 works
 gina-czarnecki | Gina Czarnecki | 1 works
@@ -313,14 +344,17 @@ glowing-plant | Glowing Plant (Taxa Biotechnologies) | 1 works
 gopinaath-kannabiran | Gopinaath Kannabiran | 1 works
 green-and-blue | Green&Blue | 1 works
 greener-games | Greener Games | 1 works
+greg-marshall | Greg Marshall | 1 works
 greg-nijs | Greg Nijs | 1 works
 groundspeak | Geocaching HQ (Groundspeak) | 1 works
 grow-observatory | GROW Observatory | 1 works
 gunes-helene-isitan | Güneş-Hélène Isitan | 1 works
 guto-nobrega | Guto Nóbrega | 2 works
 guy-ben-ary | Guy Ben-Ary | 10 works
+halter | Halter | 1 works
+hanna-wirman | Hanna Wirman | 1 works
 hanuma-teja-maddali | Hanuma Teja Maddali | 2 works
-harpreet-sareen | Harpreet Sareen | 9 works
+harpreet-sareen | Harpreet Sareen | 10 works
 haru-ji-graham-wakefield | Haru Ji & Graham Wakefield | 1 works
 haruka-kasuga | Haruka Kasuga | 1 works
 heather-barnett | Heather Barnett | 5 works
@@ -330,16 +364,20 @@ heidi-biggs | Heidi R. Biggs | 7 works
 heiko-hamann | Heiko Hamann | 1 works
 helen-pynor | Helen Pynor | 1 works
 helene-steiner | Helene Steiner | 3 works
+heli-vaataja | Heli Väätäjä | 3 works
 henk-jonkers | Henk Jonkers | 1 works
 herobeat-studios | Herobeat Studios | 1 works
 het-nieuwe-instituut | Het Nieuwe Instituut | 1 works
 hideo-iwasaki | Hideo Iwasaki | 3 works
 hildegard-westerkamp | Hildegard Westerkamp | 1 works
+hill-hiroki-kobayashi | Hill Hiroki Kobayashi | 4 works
 hinako-takita | Hinako Takita | 1 works
 hirokazu-takahashi | Hirokazu Takahashi | 1 works
 hirotaka-sato | Hirotaka Sato | 4 works
+hochul-hwang | Hochul Hwang | 1 works
 hong-luo | Hong Luo | 1 works
 hongjie-yang | Hongjie Yang | 1 works
+hongyi-zhang | Hongyi Zhang | 1 works
 horo-mo-x | hOrO mO X | 1 works
 hoyoung-youn | Hoyoung Youn | 1 works
 hubert-duprat | Hubert Duprat | 1 works
@@ -352,7 +390,7 @@ ida-nilstad-pettersen | Ida Nilstad Pettersen | 1 works
 ideo | IDEO | 1 works
 igem-paris-bettencourt | iGEM Paris Bettencourt | 1 works
 ilhan-aslan | Ilhan Aslan | 1 works
-ilyena-hirskyj-douglas | Ilyena Hirskyj-Douglas | 5 works
+ilyena-hirskyj-douglas | Ilyena Hirskyj-Douglas | 24 works
 impossible-foods | Impossible Foods | 1 works
 inaturalist | iNaturalist | 3 works
 ingmar-riedel-kruse | Ingmar Riedel-Kruse | 9 works
@@ -390,15 +428,19 @@ jen-keane | Jen Keane | 2 works
 jen-liu | Jen Liu | 1 works
 jenn-leung | Jenn Leung | 1 works
 jenna-sutela | Jenna Sutela | 5 works
+jennifer-cunha | Jennifer Cunha | 4 works
 jennifer-gabrys | Jennifer Gabrys | 5 works
 jennifer-lewis | Jennifer A. Lewis | 5 works
+jennifer-mankoff | Jennifer Mankoff | 1 works
 jennifer-preece | Jennifer Preece | 2 works
 jennifer-t-harrower | Juniper (Jennifer T.) Harrower | 1 works
 jenny-sabin | Jenny E. Sabin | 1 works
+jessica-frawley | Jessica Frawley | 1 works
 jia-liu | Jia Liu | 3 works
 jiabao-li | Jiabao Li | 21 works
 jiahe-li | Jiahe Li | 1 works
 jian-yu | Jian Yu | 1 works
+jiaqi-wang | Jiaqi Wang | 2 works
 jiho-kim | Jiho Kim | 1 works
 jingwen-zhu | Jingwen Zhu | 1 works
 jiwei-zhou | Jiwei Zhou | 2 works
@@ -409,11 +451,13 @@ joana-pestana | Joana Pestana | 1 works
 joaquin-fargas | Joaquín Fargas | 1 works
 jodi-forlizzi | Jodi Forlizzi | 1 works
 joe-davis | Joe Davis | 6 works
+joelle-alcaidinho | Joelle Alcaidinho | 2 works
 johan-redstrom | Johan Redström | 4 works
 johanna-just | Johanna Just | 1 works
 johanna-rotko | Johanna Rotko | 1 works
 johanna-seelemann | Johanna Seelemann | 1 works
 john-dabiri | John Dabiri | 3 works
+john-fass | John Fass | 1 works
 john-larocco | John LaRocco | 1 works
 john-rogers | John A. Rogers | 1 works
 johnny-diblasi | Johnny DiBlasi | 1 works
@@ -431,7 +475,7 @@ joris-laarman | Joris Laarman | 1 works
 joseph-lindley | Joseph Lindley | 4 works
 joseph-samuel-johnson | Joseph Samuel Johnson | 1 works
 josh-bongard | Josh Bongard | 3 works
-josiah-hester | Josiah Hester | 1 works
+josiah-hester | Josiah Hester | 2 works
 joyce-hwang | Joyce Hwang | 6 works
 joycelyn-longdon | Joycelyn Longdon | 1 works
 judith-dorrenbacher | Judith Dörrenbächer | 2 works
@@ -443,6 +487,7 @@ julian-abraham | Julian Abraham 'Togar' | 1 works
 julian-melchiorri | Julian Melchiorri | 2 works
 julian-oliver | Julian Oliver | 2 works
 julie-freeman | Julie Freeman | 1 works
+jun-rekimoto | Jun Rekimoto | 2 works
 jun-yao | Jun Yao | 1 works
 justine-emard | Justine Emard | 1 works
 karen-alim | Karen Alim | 1 works
@@ -450,11 +495,12 @@ karen-barad | Karen Barad | 1 works
 karen-sarkisyan | Karen Sarkisyan | 2 works
 karin-strauss | Karin Strauss | 1 works
 karola-kreitmair | Karola V. Kreitmair | 1 works
+kars-alfrink | Kars Alfrink | 1 works
 kasia-molga | Kasia Molga | 4 works
 katerina-inglezaki | Katerina Inglezaki | 2 works
 katherine-w-song | Katherine W. Song | 1 works
 kathy-high | Kathy High | 1 works
-katia-vega | Katia Vega | 1 works
+katia-vega | Katia Vega | 5 works
 katie-paterson | Katie Paterson | 2 works
 kavita-gonsalves | Kavita Gonsalves | 1 works
 keel-labs | Keel Labs (formerly AlgiKnit) | 1 works
@@ -466,6 +512,7 @@ kenjiro-fukuda | Kenjiro Fukuda | 1 works
 kenneth-kosik | Kenneth S. Kosik | 1 works
 keri-facer | Keri Facer | 1 works
 kevin-blackistone | Kevin Blackistone | 1 works
+kevin-coffey | Kevin Coffey | 1 works
 kevin-warwick | Kevin Warwick | 1 works
 khasi-communities | Khasi and Jaintia communities of Meghalaya | 2 works
 kit-parker | Kit Parker | 3 works
@@ -490,6 +537,7 @@ laura-forlano | Laura Forlano | 4 works
 laura-grebenstein | Laura Grebenstein | 1 works
 lawrence-bonassar | Lawrence Bonassar | 1 works
 leah-barclay | Leah Barclay | 3 works
+lely | Lely | 1 works
 lena-smirnova | Lena Smirnova | 5 works
 leonard-adleman | Leonard Adleman | 1 works
 leonardo-angelini | Leonardo Angelini | 1 works
@@ -509,10 +557,12 @@ liz-edwards | Liz Edwards | 2 works
 logan-shockey | Logan Shockey | 1 works
 lomax-boyd | J. Lomax Boyd | 1 works
 lone-koefoed-hansen | Lone Koefoed Hansen | 3 works
+louis-liebenberg | Louis Liebenberg | 1 works
 louis-rice | Louis Rice | 1 works
 lucas-ogasawara-de-oliveira | Lucas Ogasawara de Oliveira | 1 works
 lucy-hughes | Lucy Hughes | 1 works
 luis-ceze | Luis Ceze | 1 works
+luisa-ruge | Luisa Ruge | 2 works
 lulu-qian | Lulu Qian | 3 works
 lynette-wallworth | Lynette Wallworth | 1 works
 madalina-nicolae | Madalina Nicolae | 1 works
@@ -527,7 +577,7 @@ manuel-simoes | Manuel Simões | 1 works
 manuhuia-barcham | Manuhuia Barcham | 1 works
 marc-hassenzahl | Marc Hassenzahl | 2 works
 marcos-cruz | Marcos Cruz | 1 works
-marcus-carter | Marcus Carter | 2 works
+marcus-carter | Marcus Carter | 7 works
 marcus-coates | Marcus Coates | 2 works
 marcus-foth | Marcus Foth | 9 works
 marcus-maeder | Marcus Maeder | 2 works
@@ -548,6 +598,7 @@ martin-kaltenbrunner | Martin Kaltenbrunner | 1 works
 martin-pumera | Martin Pumera | 1 works
 martin-tironi | Martín Tironi | 3 works
 martin-tomitsch | Martin Tomitsch | 1 works
+martin-wikelski | Martin Wikelski | 1 works
 mary-maggic | Mary Maggic | 2 works
 masashi-soga | Masashi Soga | 1 works
 mathieu-lehanneur | Mathieu Lehanneur | 3 works
@@ -562,8 +613,9 @@ max-rheiner | Max Rheiner | 1 works
 maya-livio | Maya Livio | 2 works
 mbari | MBARI | 1 works
 mediated-matter | Mediated Matter Group (MIT Media Lab) | 7 works
+melanie-ford | Melanie Ford | 1 works
 mellissa-monsoon | Mellissa Monsoon | 1 works
-melody-moore-jackson | Melody Moore Jackson | 2 works
+melody-moore-jackson | Melody Moore Jackson | 12 works
 mengyao-guo | Mengyao Guo | 1 works
 merlin-sheldrake | Merlin Sheldrake | 1 works
 metin-sitti | Metin Sitti | 2 works
@@ -590,6 +642,7 @@ milan-stojanovic | Milan Stojanovic | 1 works
 mileece | Mileece | 2 works
 miles-richardson | Miles Richardson | 1 works
 mirela-alistar | Mirela Alistar | 12 works
+mirjana-erceg | Mirjana Erceg | 1 works
 mischer-traxler | mischer'traxler studio | 2 works
 mit-design-lab | MIT Design Lab | 1 works
 mit-senseable-city-lab | MIT Senseable City Lab | 1 works
@@ -625,6 +678,7 @@ neil-harbisson | Neil Harbisson | 1 works
 nelo-akamatsu | Nelo Akamatsu | 1 works
 neri-oxman | Neri Oxman | 13 works
 nervous-system | Nervous System | 1 works
+nestle-purina | Nestlé Purina PetCare | 1 works
 netta-ofer | Netta Ofer | 5 works
 new-reality-company | New Reality Company | 1 works
 next-nature-network | Next Nature Network | 2 works
@@ -644,17 +698,22 @@ noirlab | NSF NOIRLab (Globe at Night) | 1 works
 nomeda-gediminas-urbonas | Nomeda & Gediminas Urbonas | 1 works
 nonhuman-nonsense | Nonhuman Nonsense | 3 works
 nonhuman-rights-project | Nonhuman Rights Project | 2 works
+nordic-society-for-invention-and-discovery | Nordic Society for Invention and Discovery | 1 works
 notpla | Notpla | 1 works
 nova-innova | Nova Innova | 1 works
 novameat | Novameat | 1 works
 olafur-eliasson | Olafur Eliasson | 2 works
+oliver-bendel | Oliver Bendel | 1 works
 olivia-seow | Olivia Seow | 1 works
+open-acoustic-devices | Open Acoustic Devices | 1 works
+orangutan-outreach | Orangutan Outreach | 1 works
 organovo | Organovo | 1 works
 ori-elisar | Ori Elisar | 1 works
 orkan-telhan | Orkan Telhan | 5 works
 orlan | ORLAN | 1 works
 oron-catts | Oron Catts | 12 works
 oscar-tomico | Oscar Tomico | 3 works
+oskar-juhlin | Oskar Juhlin | 3 works
 oxman | OXMAN | 3 works
 paolo-bombelli | Paolo Bombelli | 3 works
 parrot | Parrot | 1 works
@@ -665,7 +724,8 @@ pat-pataranutaporn | Pat Pataranutaporn | 4 works
 patricia-ciobanu | Patricia Ciobanu | 1 works
 patricia-dominguez | Patricia Domínguez | 1 works
 patricia-flanagan | Patricia (Tricia) Flanagan | 1 works
-patricia-pons | Patricia Pons | 1 works
+patricia-pons | Patricia Pons | 7 works
+patrizia-paci | Patrizia Paci | 2 works
 paul-coulton | Paul Coulton | 6 works
 paul-rothemund | Paul Rothemund | 1 works
 paul-vanouse | Paul Vanouse | 7 works
@@ -720,10 +780,11 @@ rasa-weber | Rasa Weber | 1 works
 rashid-bashir | Rashid Bashir | 4 works
 raul-pereira-pinto | Raul Pereira Pinto | 1 works
 raune-frankjaer | Raune Frankjær | 2 works
-rebecca-kleinberger | Rébecca Kleinberger | 2 works
+rebecca-kleinberger | Rébecca Kleinberger | 12 works
 redefine-meat | Redefine Meat | 1 works
 reef-design-lab | Reef Design Lab | 3 works
 refik-anadol | Refik Anadol | 2 works
+reinhard-gupfinger | Reinhard Gupfinger | 3 works
 ren-ri | Ren Ri | 1 works
 resorts-world-sentosa | Resorts World Sentosa | 1 works
 rewa-wright | Rewa Wright | 2 works
@@ -740,11 +801,13 @@ robertina-sebjanic | Robertina Šebjanič | 7 works
 robin-wall-kimmerer | Robin Wall Kimmerer | 1 works
 roger-payne | Roger Payne | 1 works
 roger-ulrich | Roger S. Ulrich | 2 works
-ron-wakkary | Ron Wakkary | 18 works
+ron-wakkary | Ron Wakkary | 19 works
 roosa-piitulainen | Roosa Piitulainen | 2 works
 roya-aghighi | Roya Aghighi | 1 works
 rrreefs | rrreefs | 1 works
+rui-trindade | Rui Trindade | 1 works
 ryohei-kanzaki | Ryohei Kanzaki | 1 works
+sabrina-hauser | Sabrina Hauser | 1 works
 saetbyeol-leeyouk | Saetbyeol LeeYouk | 1 works
 safecast | Safecast | 1 works
 sakura-kotokawa | Sakura Kotokawa | 1 works
@@ -754,7 +817,7 @@ sam-van-aken | Sam Van Aken | 1 works
 samar-khan | Samar Khan | 1 works
 sara-heitlinger | Sara Heitlinger | 6 works
 sarah-homewood | Sarah Homewood | 1 works
-sarah-webber | Sarah Webber | 2 works
+sarah-webber | Sarah Webber | 10 works
 sasa-spacal | Saša Spačal | 7 works
 sascha-pohflepp | Sascha Pohflepp | 3 works
 satoshi-kuribayashi | Satoshi Kuribayashi | 2 works
@@ -762,10 +825,12 @@ sawyer-fuller | Sawyer Fuller | 1 works
 scape-landscape-architecture | SCAPE Landscape Architecture | 1 works
 scenocosme | Scenocosme | 4 works
 scott-thrift | Scott Thrift | 1 works
+sean-mealin | Sean Mealin | 1 works
 sebastian-cox | Sebastian Cox | 1 works
 sebastian-gonzalez-quintero | Sebastián González Quintero | 1 works
 seekrtech | Seekrtech | 1 works
 sema-dumanli | Sema Dumanli | 1 works
+sena-cucumak | Sena Cucumak | 1 works
 sensor-community | Sensor.Community | 1 works
 serena-pollastri | Serena Pollastri | 1 works
 sergiu-pasca | Sergiu P. Pașca | 3 works
@@ -774,12 +839,14 @@ seth-shipman | Seth Shipman | 1 works
 seung-ah-lee | Seung Ah Lee | 4 works
 shamees-aden | Shamees Aden | 1 works
 shaowen-bardzell | Shaowen Bardzell | 7 works
+shaun-lawson | Shaun Lawson | 3 works
 shijia-huang | Shijia Huang | 1 works
 shimabuku | Shimabuku | 1 works
 shimon-marom | Shimon Marom | 1 works
 shinichi-takemura | Shinichi Takemura | 1 works
 shoji-takeuchi | Shoji Takeuchi | 5 works
 shuai-zou | Shuai Zou | 1 works
+shuyi-sun | Shuyi Sun | 4 works
 silvia-ruzanka | Silvia Ruzanka | 1 works
 sissel-marie-tonn | Sissel Marie Tonn | 1 works
 sissel-tolaas | Sissel Tolaas | 2 works
@@ -791,15 +858,18 @@ space10 | SPACE10 | 1 works
 spela-petric | Špela Petrič | 10 works
 spiber | Spiber | 1 works
 stacey-kuznetsov | Stacey Kuznetsov | 3 works
+stacey-scott | Stacey D. Scott | 1 works
 stanislav-roudavski | Stanislav Roudavski | 6 works
 stefan-kahl | Stefan Kahl | 1 works
 steffie-de-gaetano | Steffie de Gaetano | 1 works
 stephan-wensveen | Stephan Wensveen | 1 works
 stephen-kellert | Stephen R. Kellert | 1 works
 steve-benford | Steve Benford | 8 works
+steve-north | Steve North | 1 works
 steve-potter | Steve M. Potter | 5 works
 stijn-ossevoort | Stijn Ossevoort | 1 works
 strange-loop-games | Strange Loop Games | 1 works
+stuart-gray | Stuart Gray | 1 works
 studio-diip | Studio diip | 1 works
 studio-drift | Studio Drift | 2 works
 studio-ossidiana | Studio Ossidiana | 7 works
@@ -836,7 +906,7 @@ teresa-van-dongen | Teresa van Dongen | 4 works
 teresa-vicente | Teresa Vicente | 1 works
 terra0 | terra0 | 1 works
 terreform-one | Terreform ONE | 4 works
-thad-starner | Thad Starner | 3 works
+thad-starner | Thad Starner | 5 works
 thatgamecompany | thatgamecompany | 1 works
 the-living | The Living | 4 works
 the-mycological-twist | The Mycological Twist | 1 works
@@ -857,6 +927,7 @@ tianjin-university | Tianjin University Haptics & Brain-Computer Interface Team 
 tiffany-wun | Tiffany Wun | 2 works
 till-fastnacht | Till Fastnacht | 1 works
 tim-dobbs | Tim Dobbs | 1 works
+tim-landgraf | Tim Landgraf | 2 works
 timothy-merritt | Timothy Merritt | 1 works
 timothy-morton | Timothy Morton | 2 works
 tina-gorjanc | Tina Gorjanc | 1 works
@@ -884,6 +955,7 @@ vasiliki-tsaknaki | Vasiliki Tsaknaki | 1 works
 verena-fuchsberger | Verena Fuchsberger | 1 works
 victoria-webster-wood | Victoria Webster-Wood | 1 works
 viegas-wattenberg | Fernanda Viégas & Martin Wattenberg | 1 works
+vilma-kankaanpaa | Vilma Kankaanpää | 3 works
 vincent-fournier | Vincent Fournier | 1 works
 vinciane-despret | Vinciane Despret | 1 works
 vito-gentile | Vito Gentile | 1 works
@@ -900,6 +972,7 @@ wildlife-insights | Wildlife Insights | 1 works
 william-myers | William Myers | 1 works
 william-odom | William Odom | 2 works
 wolfgang-buttress | Wolfgang Buttress | 1 works
+woohun-lee | Woohun Lee | 1 works
 world-resources-institute | World Resources Institute | 1 works
 xandra-van-der-eijk | Xandra van der Eijk | 1 works
 xiaodong-chen | Xiaodong Chen | 1 works
@@ -916,6 +989,7 @@ ying-zhou | Ying Zhou | 1 works
 yingting-gao | Yingting Gao | 1 works
 yiran-ma | Yiran Ma | 1 works
 yiying-wu | Yiying Wu | 1 works
+yoav-golan | Yoav Golan | 1 works
 yoichi-ochiai | Yoichi Ochiai | 3 works
 yoko-akama | Yoko Akama | 1 works
 yoonji-lee | Yoonji Lee | 1 works
@@ -931,11 +1005,12 @@ yuning-chen | Yuning Chen | 3 works
 yuta-ikeya | Yuta Ikeya | 5 works
 yuxi-liu | Yuxi Liu | 1 works
 yuyao-lin | Yuyao Lin | 1 works
-yvonne-rogers | Yvonne Rogers | 1 works
+yvonne-rogers | Yvonne Rogers | 2 works
 zeefier | Zeefier | 1 works
 zena-holloway | Zena Holloway | 1 works
 zhenan-bao | Zhenan Bao | 1 works
 zhenchi-lai | Zhenchi Lai | 1 works
+ziming-wang | Ziming Wang | 1 works
 zkm-karlsruhe | ZKM | Center for Art and Media Karlsruhe | 1 works
 zoe-breed | Zoë Breed | 2 works
 zoe-qi-jing-li | Zoe Qi-Jing Li | 1 works

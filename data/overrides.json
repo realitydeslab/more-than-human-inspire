@@ -396,6 +396,45 @@
    "also": [
     "mth"
    ]
+  },
+  "naohiro-isokawa--talkingnemo": {
+   "field": "aci",
+   "sub": "companion",
+   "also": []
+  },
+  "donghyeon-ko--bubbletalk": {
+   "field": "aci",
+   "sub": "companion",
+   "also": []
+  },
+  "nancy-smith--smart-bee-houses": {
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ]
+  },
+  "zhenchi-lai--ai-cat-narrator": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "hni",
+    "mth"
+   ]
+  },
+  "andrew-quitmeyer--digital-naturalism": {
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "hni"
+   ]
+  },
+  "margot-brereton--listening-to-save-wildlife": {
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "hni"
+   ]
   }
  }
 }

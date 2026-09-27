@@ -27069,5 +27069,2290 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "doi:10.1145/2693787.2693793": {
+  "doi": "10.1145/2693787.2693793",
+  "ok": true,
+  "type": "doi",
+  "title": "Who Is Really In The Center Of Dog Computer Design?",
+  "year": 2014,
+  "venue": "Proceedings of the 2014 Workshops on Advances in Computer Entertainment Conference",
+  "url": "https://doi.org/10.1145/2693787.2693793"
+ },
+ "video:youtube:b7hrtlKnp1g": {
+  "url": "https://www.youtube.com/watch?v=b7hrtlKnp1g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "b7hrtlKnp1g",
+  "title": "Ethical issues and guidelines when conducting HCI studies with animals",
+  "author": "Association for Computing Machinery (ACM)",
+  "thumbnail": "https://i.ytimg.com/vi/b7hrtlKnp1g/hqdefault.jpg"
+ },
+ "doi:10.1145/2468356.2468736": {
+  "doi": "10.1145/2468356.2468736",
+  "ok": true,
+  "type": "doi",
+  "title": "Ethical issues and guidelines when conducting HCI studies with animals",
+  "year": 2013,
+  "venue": "CHI '13 Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2468356.2468736"
+ },
+ "doi:10.1145/3152130.3152147": {
+  "doi": "10.1145/3152130.3152147",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring Research through Design in Animal Computer Interaction",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152147"
+ },
+ "doi:10.1145/3371049.3371060": {
+  "doi": "10.1145/3371049.3371060",
+  "ok": true,
+  "type": "doi",
+  "title": "A Method for Evaluating Animal Usability (MEAU)",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371060"
+ },
+ "video:youtube:jKV5uoLWlUQ": {
+  "url": "https://www.youtube.com/watch?v=jKV5uoLWlUQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jKV5uoLWlUQ",
+  "title": "Reflecting on Methods in Animal Computer Interaction: The Novelty Effect and Habituation",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/jKV5uoLWlUQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3493842.3493893": {
+  "doi": "10.1145/3493842.3493893",
+  "ok": true,
+  "type": "doi",
+  "title": "Reflecting on Methods in Animal Computer Interaction: Novelty Effect and Habituation",
+  "year": 2021,
+  "venue": "Eight International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3493842.3493893"
+ },
+ "doi:10.1145/3565995.3566028": {
+  "doi": "10.1145/3565995.3566028",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal-centered design needs dignity: a critical essay on ACI’s core concept",
+  "year": 2022,
+  "venue": "Proceedings of the Ninth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3565995.3566028"
+ },
+ "doi:10.1145/3565995.3566034": {
+  "doi": "10.1145/3565995.3566034",
+  "ok": true,
+  "type": "doi",
+  "title": "Politicising Animal-Computer Interaction: an Approach to Political Engagement with Animal-Centred Design",
+  "year": 2022,
+  "venue": "Proceedings of the Ninth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3565995.3566034"
+ },
+ "doi:10.1145/3565995.3566035": {
+  "doi": "10.1145/3565995.3566035",
+  "ok": true,
+  "type": "doi",
+  "title": "Watching Animal-Computer Interaction: Effects on Perceptions of Animal Intellect",
+  "year": 2022,
+  "venue": "Proceedings of the Ninth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3565995.3566035"
+ },
+ "doi:10.1145/3702336.3702345": {
+  "doi": "10.1145/3702336.3702345",
+  "ok": true,
+  "type": "doi",
+  "title": "The Day After: Ethical Considerations for the End of Enriching Animal Research Projects",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702345"
+ },
+ "video:youtube:elTCuVa7Vak": {
+  "url": "https://www.youtube.com/watch?v=elTCuVa7Vak",
+  "ok": true,
+  "platform": "youtube",
+  "id": "elTCuVa7Vak",
+  "title": "Animals' Entanglement with Technology: A Scoping Review - CHI 2025 Paper Presentation",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/elTCuVa7Vak/hqdefault.jpg"
+ },
+ "doi:10.1145/3706598.3713384": {
+  "doi": "10.1145/3706598.3713384",
+  "ok": true,
+  "type": "doi",
+  "title": "Animals' Entanglement with Technology: a Scoping Review",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713384"
+ },
+ "doi:10.1145/2686612.2686617": {
+  "doi": "10.1145/2686612.2686617",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal personas",
+  "year": 2014,
+  "venue": "Proceedings of the 26th Australian Computer-Human Interaction Conference on Designing Futures: the Future of Design",
+  "url": "https://doi.org/10.1145/2686612.2686617"
+ },
+ "doi:10.1145/2702123.2702260": {
+  "doi": "10.1145/2702123.2702260",
+  "ok": true,
+  "type": "doi",
+  "title": "Problematising Upstream Technology through Speculative Design",
+  "year": 2015,
+  "venue": "Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2702123.2702260"
+ },
+ "doi:10.1145/2942442": {
+  "doi": "10.1145/2942442",
+  "ok": true,
+  "type": "doi",
+  "title": "Power, participation, and the dog internet",
+  "year": 2016,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/2942442"
+ },
+ "doi:10.1145/3316287.3316294": {
+  "doi": "10.1145/3316287.3316294",
+  "ok": true,
+  "type": "doi",
+  "title": "ZooJamming",
+  "year": 2019,
+  "venue": "Proceedings of the International Conference on Game Jams, Hackathons and Game Creation Events 2019",
+  "url": "https://doi.org/10.1145/3316287.3316294"
+ },
+ "doi:10.1145/3450741.3466816": {
+  "doi": "10.1145/3450741.3466816",
+  "ok": true,
+  "type": "doi",
+  "title": "Concept Craft Cards",
+  "year": 2021,
+  "venue": "Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3450741.3466816"
+ },
+ "doi:10.1145/3464327.3464366": {
+  "doi": "10.1145/3464327.3464366",
+  "ok": true,
+  "type": "doi",
+  "title": "Ethics and Power Dynamics in Playful Technology for Animals",
+  "year": 2021,
+  "venue": "Academic Mindtrek 2021",
+  "url": "https://doi.org/10.1145/3464327.3464366"
+ },
+ "img:https://pub.mdpi-res.com/mti/mti-02-00030/article_deploy/html/images/mti-02-00030-g001.png": {
+  "url": "https://pub.mdpi-res.com/mti/mti-02-00030/article_deploy/html/images/mti-02-00030-g001.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.3390/mti2020030": {
+  "doi": "10.3390/mti2020030",
+  "ok": true,
+  "type": "doi",
+  "title": "Seven Years after the Manifesto: Literature Review and Research Directions for Technologies in Animal Computer Interaction",
+  "year": 2018,
+  "venue": "Multimodal Technologies and Interaction",
+  "url": "https://doi.org/10.3390/mti2020030"
+ },
+ "doi:10.3389/fvets.2022.885973": {
+  "doi": "10.3389/fvets.2022.885973",
+  "ok": true,
+  "type": "doi",
+  "title": "Welfare Through Competence: A Framework for Animal-Centric Technology Design",
+  "year": 2022,
+  "venue": "Frontiers in Veterinary Science",
+  "url": "https://doi.org/10.3389/fvets.2022.885973"
+ },
+ "doi:10.1016/j.ijhcs.2016.10.003": {
+  "doi": "10.1016/j.ijhcs.2016.10.003",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal-Computer Interaction: The emergence of a discipline",
+  "year": 2017,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2016.10.003"
+ },
+ "img:https://www.frontiersin.org/files/Articles/891493/fvets-09-891493-HTML/image_m/fvets-09-891493-g001.jpg": {
+  "url": "https://www.frontiersin.org/files/Articles/891493/fvets-09-891493-HTML/image_m/fvets-09-891493-g001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.3389/fvets.2022.891493": {
+  "doi": "10.3389/fvets.2022.891493",
+  "ok": true,
+  "type": "doi",
+  "title": "An Ethics Toolkit to Support Animal-Centered Research and Design",
+  "year": 2022,
+  "venue": "Frontiers in Veterinary Science",
+  "url": "https://doi.org/10.3389/fvets.2022.891493"
+ },
+ "video:youtube:Y4PcZCEH2fQ": {
+  "url": "https://www.youtube.com/watch?v=Y4PcZCEH2fQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Y4PcZCEH2fQ",
+  "title": "Substituting Animals with Biohybrid Robots: Speculative Interactions with Animal-Robot Hybrids",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/Y4PcZCEH2fQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3563703.3596641": {
+  "doi": "10.1145/3563703.3596641",
+  "ok": true,
+  "type": "doi",
+  "title": "Substituting Animals with Biohybrid Robots: Speculative Interactions with Animal-Robot Hybrids",
+  "year": 2023,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563703.3596641"
+ },
+ "video:youtube:PhzLnO11lms": {
+  "url": "https://www.youtube.com/watch?v=PhzLnO11lms",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PhzLnO11lms",
+  "title": "ACI2016-Video113-De-computing the Pigeon Sensorium",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/PhzLnO11lms/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012022": {
+  "doi": "10.1145/2995257.3012022",
+  "ok": true,
+  "type": "doi",
+  "title": "De-computing the pigeon sensorium",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012022"
+ },
+ "doi:10.1145/3371049.3371055": {
+  "doi": "10.1145/3371049.3371055",
+  "ok": true,
+  "type": "doi",
+  "title": "Opportunities for ACI in PLF",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371055"
+ },
+ "video:youtube:qzdnZ2SKG28": {
+  "url": "https://www.youtube.com/watch?v=qzdnZ2SKG28",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qzdnZ2SKG28",
+  "title": "ACI2016-Video109-A Dog Using Skype",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/qzdnZ2SKG28/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012019": {
+  "doi": "10.1145/2995257.3012019",
+  "ok": true,
+  "type": "doi",
+  "title": "A dog using skype",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012019"
+ },
+ "video:youtube:g6WLiyPzES0": {
+  "url": "https://www.youtube.com/watch?v=g6WLiyPzES0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "g6WLiyPzES0",
+  "title": "ACI2017-Video10-AquaPrism",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/g6WLiyPzES0/hqdefault.jpg"
+ },
+ "doi:10.1145/3152130.3152138": {
+  "doi": "10.1145/3152130.3152138",
+  "ok": true,
+  "type": "doi",
+  "title": "AquaPrism",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152138"
+ },
+ "doi:10.1145/3295598.3295610": {
+  "doi": "10.1145/3295598.3295610",
+  "ok": true,
+  "type": "doi",
+  "title": "Dogs using touchscreens in the home",
+  "year": 2018,
+  "venue": "Proceedings of the Fifth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3295598.3295610"
+ },
+ "video:youtube:iUYcwSncXDs": {
+  "url": "https://www.youtube.com/watch?v=iUYcwSncXDs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "iUYcwSncXDs",
+  "title": "WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises | ACI 2021",
+  "author": "Gabriela Vega",
+  "thumbnail": "https://i.ytimg.com/vi/iUYcwSncXDs/hqdefault.jpg"
+ },
+ "doi:10.1145/3493842.3493903": {
+  "doi": "10.1145/3493842.3493903",
+  "ok": true,
+  "type": "doi",
+  "title": "WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises",
+  "year": 2021,
+  "venue": "Eight International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3493842.3493903"
+ },
+ "doi:10.1145/3637882.3637887": {
+  "doi": "10.1145/3637882.3637887",
+  "ok": true,
+  "type": "doi",
+  "title": "cirCAT: PURRtentio: a Litter Box that Monitors Feline Urine using Electrochemical Biosensors",
+  "year": 2023,
+  "venue": "The Tenth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3637882.3637887"
+ },
+ "doi:10.1145/3623509.3635250": {
+  "doi": "10.1145/3623509.3635250",
+  "ok": true,
+  "type": "doi",
+  "title": "GluCAT: A Feline Biofluids IoT Hub for Electrochemical Glucose Biosensing",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3635250"
+ },
+ "doi:10.1145/3715336.3735768": {
+  "doi": "10.1145/3715336.3735768",
+  "ok": true,
+  "type": "doi",
+  "title": "pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735768"
+ },
+ "doi:10.1145/3637882.3637894": {
+  "doi": "10.1145/3637882.3637894",
+  "ok": true,
+  "type": "doi",
+  "title": "KitBit: An Instrumented Collar for Indoor Pets",
+  "year": 2023,
+  "venue": "The Tenth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3637882.3637894"
+ },
+ "doi:10.1145/3702336.3702342": {
+  "doi": "10.1145/3702336.3702342",
+  "ok": true,
+  "type": "doi",
+  "title": "Prototyping an Immersive Screen Interfaces for Dogs' to Control Screens in Their Home",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702342"
+ },
+ "doi:10.1016/j.ijhcs.2016.05.007": {
+  "doi": "10.1016/j.ijhcs.2016.05.007",
+  "ok": true,
+  "type": "doi",
+  "title": "A dog centred approach to the analysis of dogs' interactions with media on TV screens",
+  "year": 2017,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2016.05.007"
+ },
+ "doi:10.26451/abc.05.04.06.2018": {
+  "doi": "10.26451/abc.05.04.06.2018",
+  "ok": true,
+  "type": "doi",
+  "title": "DoggyVision: Examining how dogs (Canis familiaris) interact with media using a dog-driven proximity tracker device.",
+  "year": 2018,
+  "venue": "Animal Behavior and Cognition",
+  "url": "https://doi.org/10.26451/abc.05.04.06.2018"
+ },
+ "video:youtube:ClU087JidS4": {
+  "url": "https://www.youtube.com/watch?v=ClU087JidS4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ClU087JidS4",
+  "title": "On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/ClU087JidS4/hqdefault.jpg"
+ },
+ "doi:10.1145/3290605.3300347": {
+  "doi": "10.1145/3290605.3300347",
+  "ok": true,
+  "type": "doi",
+  "title": "On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog",
+  "year": 2019,
+  "venue": "Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3290605.3300347"
+ },
+ "arxiv:2105.03181": {
+  "arxiv": "2105.03181",
+  "ok": true,
+  "type": "arxiv",
+  "title": "On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog",
+  "year": 2021,
+  "url": "https://arxiv.org/abs/2105.03181"
+ },
+ "video:youtube:bjoJToyC9_0": {
+  "url": "https://www.youtube.com/watch?v=bjoJToyC9_0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bjoJToyC9_0",
+  "title": "Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/bjoJToyC9_0/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3641938": {
+  "doi": "10.1145/3613904.3641938",
+  "ok": true,
+  "type": "doi",
+  "title": "Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3641938"
+ },
+ "doi:10.1145/3768539.3768541": {
+  "doi": "10.1145/3768539.3768541",
+  "ok": true,
+  "type": "doi",
+  "title": "Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768541"
+ },
+ "doi:10.1145/1095034.1095076": {
+  "doi": "10.1145/1095034.1095076",
+  "ok": true,
+  "type": "doi",
+  "title": "Supporting interspecies social awareness",
+  "year": 2005,
+  "venue": "Proceedings of the 18th annual ACM symposium on User interface software and technology",
+  "url": "https://doi.org/10.1145/1095034.1095076"
+ },
+ "video:youtube:sY01SRLlD24": {
+  "url": "https://www.youtube.com/watch?v=sY01SRLlD24",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sY01SRLlD24",
+  "title": "Cat@Log: Sensing Device Attachable to Pet Cats for Supporting Human-Pet Interaction",
+  "author": "rkmtlab",
+  "thumbnail": "https://i.ytimg.com/vi/sY01SRLlD24/hqdefault.jpg"
+ },
+ "doi:10.1145/1690388.1690414": {
+  "doi": "10.1145/1690388.1690414",
+  "ok": true,
+  "type": "doi",
+  "title": "Cat@Log",
+  "year": 2009,
+  "venue": "Proceedings of the International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/1690388.1690414"
+ },
+ "doi:10.1145/1978942.1979329": {
+  "doi": "10.1145/1978942.1979329",
+  "ok": true,
+  "type": "doi",
+  "title": "Communication technology for human-dog interaction",
+  "year": 2011,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/1978942.1979329"
+ },
+ "doi:10.1145/2441776.2441953": {
+  "doi": "10.1145/2441776.2441953",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring pet video chat",
+  "year": 2013,
+  "venue": "Proceedings of the 2013 conference on Computer supported cooperative work",
+  "url": "https://doi.org/10.1145/2441776.2441953"
+ },
+ "doi:10.1145/2370216.2370239": {
+  "doi": "10.1145/2370216.2370239",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring interspecies sensemaking",
+  "year": 2012,
+  "venue": "Proceedings of the 2012 ACM Conference on Ubiquitous Computing",
+  "url": "https://doi.org/10.1145/2370216.2370239"
+ },
+ "doi:10.1145/2632048.2632073": {
+  "doi": "10.1145/2632048.2632073",
+  "ok": true,
+  "type": "doi",
+  "title": "UbiComp for animal welfare",
+  "year": 2014,
+  "venue": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+  "url": "https://doi.org/10.1145/2632048.2632073"
+ },
+ "video:youtube:3S9_Xfk1xP4": {
+  "url": "https://www.youtube.com/watch?v=3S9_Xfk1xP4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3S9_Xfk1xP4",
+  "title": "Understanding the interaction between animals and wearables: the wearer experience of cats",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/3S9_Xfk1xP4/hqdefault.jpg"
+ },
+ "doi:10.1145/3357236.3395546": {
+  "doi": "10.1145/3357236.3395546",
+  "ok": true,
+  "type": "doi",
+  "title": "Understanding the Interaction Between Animals and Wearables",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3357236.3395546"
+ },
+ "video:youtube:bYEm36ORAjQ": {
+  "url": "https://www.youtube.com/watch?v=bYEm36ORAjQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bYEm36ORAjQ",
+  "title": "Meow Meow Call: Prototype Design for Building Interactive Connection between Human and Deaf Cat",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/bYEm36ORAjQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3411763.3451681": {
+  "doi": "10.1145/3411763.3451681",
+  "ok": true,
+  "type": "doi",
+  "title": "Meow Meow Call: Prototype Design for Building Interactive Connection between Human and Deaf Cat",
+  "year": 2021,
+  "venue": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411763.3451681"
+ },
+ "video:youtube:Op7IIU355T4": {
+  "url": "https://www.youtube.com/watch?v=Op7IIU355T4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Op7IIU355T4",
+  "title": "MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/Op7IIU355T4/hqdefault.jpg"
+ },
+ "doi:10.1145/3532106.3533553": {
+  "doi": "10.1145/3532106.3533553",
+  "ok": true,
+  "type": "doi",
+  "title": "MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction",
+  "year": 2022,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3532106.3533553"
+ },
+ "video:youtube:jQeBh000krw": {
+  "url": "https://www.youtube.com/watch?v=jQeBh000krw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jQeBh000krw",
+  "title": "Quantified Canine: Inferring Dog Personality From Wearables",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/jQeBh000krw/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2301.06964v2/figures/device_diagram.png": {
+  "url": "https://arxiv.org/html/2301.06964v2/figures/device_diagram.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3544548.3581088": {
+  "doi": "10.1145/3544548.3581088",
+  "ok": true,
+  "type": "doi",
+  "title": "Quantified Canine: Inferring Dog Personality From Wearables",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581088"
+ },
+ "arxiv:2301.06964": {
+  "arxiv": "2301.06964",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Quantified Canine: Inferring Dog Personality From Wearables",
+  "year": 2023,
+  "url": "https://arxiv.org/abs/2301.06964"
+ },
+ "doi:10.1109/msec.2018.2888783": {
+  "doi": "10.1109/msec.2018.2888783",
+  "ok": true,
+  "type": "doi",
+  "title": "Buddy's Wearable Is Not Your Buddy: Privacy Implications of Pet Wearables",
+  "year": 2019,
+  "venue": "IEEE Security &amp; Privacy",
+  "url": "https://doi.org/10.1109/msec.2018.2888783"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13348-1/MediaObjects/41598_2022_13348_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13348-1/MediaObjects/41598_2022_13348_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41598-022-13348-1": {
+  "doi": "10.1038/s41598-022-13348-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Automated recognition of pain in cats",
+  "year": 2022,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-022-13348-1"
+ },
+ "video:youtube:1QQIaMYI2l8": {
+  "url": "https://www.youtube.com/watch?v=1QQIaMYI2l8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1QQIaMYI2l8",
+  "title": "K9-Blyzer – Towards Video-Based Automatic Analysis of Canine Behavior",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/1QQIaMYI2l8/hqdefault.jpg"
+ },
+ "doi:10.1145/3152130.3152142": {
+  "doi": "10.1145/3152130.3152142",
+  "ok": true,
+  "type": "doi",
+  "title": "K9-Blyzer",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152142"
+ },
+ "doi:10.1145/2693787.2693794": {
+  "doi": "10.1145/2693787.2693794",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal Ludens",
+  "year": 2014,
+  "venue": "Proceedings of the 2014 Workshops on Advances in Computer Entertainment Conference",
+  "url": "https://doi.org/10.1145/2693787.2693794"
+ },
+ "doi:10.1145/2832932.2837007": {
+  "doi": "10.1145/2832932.2837007",
+  "ok": true,
+  "type": "doi",
+  "title": "Developing a depth-based tracking system for interactive playful environments with animals",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837007"
+ },
+ "doi:10.1145/2995257.2995383": {
+  "doi": "10.1145/2995257.2995383",
+  "ok": true,
+  "type": "doi",
+  "title": "Sound to your objects",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.2995383"
+ },
+ "video:youtube:lfP8sqALWlg": {
+  "url": "https://www.youtube.com/watch?v=lfP8sqALWlg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "lfP8sqALWlg",
+  "title": "ACI2017-Video11-Designing interspecies playful interactions",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/lfP8sqALWlg/hqdefault.jpg"
+ },
+ "doi:10.1145/3152130.3152139": {
+  "doi": "10.1145/3152130.3152139",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing interspecies playful interactions",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152139"
+ },
+ "doi:10.1145/2702613.2728660": {
+  "doi": "10.1145/2702613.2728660",
+  "ok": true,
+  "type": "doi",
+  "title": "Purrfect Crime",
+  "year": 2015,
+  "venue": "Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2702613.2728660"
+ },
+ "doi:10.1145/2908805.2909412": {
+  "doi": "10.1145/2908805.2909412",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Mediated Nurturing Play with Dogs to Alleviate Workplace Stress",
+  "year": 2016,
+  "venue": "Proceedings of the 2016 ACM Conference Companion Publication on Designing Interactive Systems",
+  "url": "https://doi.org/10.1145/2908805.2909412"
+ },
+ "doi:10.1145/3301019.3323891": {
+  "doi": "10.1145/3301019.3323891",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Reactions of Companion Animals as Unintended Users of Social Robots",
+  "year": 2019,
+  "venue": "Companion Publication of the 2019 on Designing Interactive Systems Conference 2019 Companion",
+  "url": "https://doi.org/10.1145/3301019.3323891"
+ },
+ "doi:10.1145/3371049.3371063": {
+  "doi": "10.1145/3371049.3371063",
+  "ok": true,
+  "type": "doi",
+  "title": "Dog Driven Robot",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371063"
+ },
+ "video:youtube:90oS6pgYEsY": {
+  "url": "https://www.youtube.com/watch?v=90oS6pgYEsY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "90oS6pgYEsY",
+  "title": "Umamimi  - Robotic Horse Ears: a preview - Dr Steve North",
+  "author": "The University of Exeter’s Anthrozoology as Symbiotic Ethics (EASE) working group",
+  "thumbnail": "https://i.ytimg.com/vi/90oS6pgYEsY/hqdefault.jpg"
+ },
+ "doi:10.1145/3295598.3295606": {
+  "doi": "10.1145/3295598.3295606",
+  "ok": true,
+  "type": "doi",
+  "title": "Umamimi robotic horse ears",
+  "year": 2018,
+  "venue": "Proceedings of the Fifth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3295598.3295606"
+ },
+ "video:youtube:wOvXHugXKNo": {
+  "url": "https://www.youtube.com/watch?v=wOvXHugXKNo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wOvXHugXKNo",
+  "title": "Dog-drone interactions: ACI perspective",
+  "author": "Anna Zamansky",
+  "thumbnail": "https://i.ytimg.com/vi/wOvXHugXKNo/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012021": {
+  "doi": "10.1145/2995257.3012021",
+  "ok": true,
+  "type": "doi",
+  "title": "Dog-drone interactions",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012021"
+ },
+ "video:youtube:Ig6SQIaPss0": {
+  "url": "https://www.youtube.com/watch?v=Ig6SQIaPss0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ig6SQIaPss0",
+  "title": "ACI2016-Video114-Exploring Human Perceptions of Dog-Tablet Playful Interactions",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/Ig6SQIaPss0/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012023": {
+  "doi": "10.1145/2995257.3012023",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring human perceptions of dog-tablet playful interactions",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012023"
+ },
+ "doi:10.1145/2832932.2837016": {
+  "doi": "10.1145/2832932.2837016",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards a canine-human communication system based on head gestures",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837016"
+ },
+ "video:youtube:JOaAISSvwxg": {
+  "url": "https://www.youtube.com/watch?v=JOaAISSvwxg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JOaAISSvwxg",
+  "title": "ACI2016-Video110-Training Collar-sensed Gestures for Canine Communication",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/JOaAISSvwxg/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012020": {
+  "doi": "10.1145/2995257.3012020",
+  "ok": true,
+  "type": "doi",
+  "title": "Training collar-sensed gestures for canine communication",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012020"
+ },
+ "doi:10.1145/2832932.2837018": {
+  "doi": "10.1145/2832932.2837018",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards the non-visual monitoring of canine physiology in real-time by blind handlers",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837018"
+ },
+ "doi:10.1145/2995257.2995390": {
+  "doi": "10.1145/2995257.2995390",
+  "ok": true,
+  "type": "doi",
+  "title": "Search and rescue",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.2995390"
+ },
+ "doi:10.1145/2995257.2995391": {
+  "doi": "10.1145/2995257.2995391",
+  "ok": true,
+  "type": "doi",
+  "title": "The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.2995391"
+ },
+ "doi:10.1145/3371049.3371066": {
+  "doi": "10.1145/3371049.3371066",
+  "ok": true,
+  "type": "doi",
+  "title": "Dogs Can Understand Haptic Communication",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371066"
+ },
+ "doi:10.1145/2750858.2805849": {
+  "doi": "10.1145/2750858.2805849",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing an emergency communication system for human and assistance dog partnerships",
+  "year": 2015,
+  "venue": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+  "url": "https://doi.org/10.1145/2750858.2805849"
+ },
+ "doi:10.1145/3313831.3376188": {
+  "doi": "10.1145/3313831.3376188",
+  "ok": true,
+  "type": "doi",
+  "title": "Tricks and Treats: Designing Technology to Support Mobility Assistance Dogs",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376188"
+ },
+ "doi:10.1145/3357236.3395462": {
+  "doi": "10.1145/3357236.3395462",
+  "ok": true,
+  "type": "doi",
+  "title": "Canine Co-design",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3357236.3395462"
+ },
+ "doi:10.1145/1978942.1979328": {
+  "doi": "10.1145/1978942.1979328",
+  "ok": true,
+  "type": "doi",
+  "title": "Understanding people and animals",
+  "year": 2011,
+  "venue": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/1978942.1979328"
+ },
+ "doi:10.1145/2598510.2598531": {
+  "doi": "10.1145/2598510.2598531",
+  "ok": true,
+  "type": "doi",
+  "title": "Understanding guide dog team interactions",
+  "year": 2014,
+  "venue": "Proceedings of the 2014 conference on Designing interactive systems",
+  "url": "https://doi.org/10.1145/2598510.2598531"
+ },
+ "doi:10.1145/2998181.2998271": {
+  "doi": "10.1145/2998181.2998271",
+  "ok": true,
+  "type": "doi",
+  "title": "Mobile Collaboration for Human and Canine Police Explosive Detection Teams",
+  "year": 2017,
+  "venue": "Proceedings of the 2017 ACM Conference on Computer Supported Cooperative Work and Social Computing",
+  "url": "https://doi.org/10.1145/2998181.2998271"
+ },
+ "doi:10.1145/3161184": {
+  "doi": "10.1145/3161184",
+  "ok": true,
+  "type": "doi",
+  "title": "Predicting the Suitability of Service Animals Using Instrumented Dog Toys",
+  "year": 2018,
+  "venue": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "url": "https://doi.org/10.1145/3161184"
+ },
+ "video:youtube:VU92LHenQZk": {
+  "url": "https://www.youtube.com/watch?v=VU92LHenQZk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VU92LHenQZk",
+  "title": "A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/VU92LHenQZk/hqdefault.jpg"
+ },
+ "doi:10.1145/3493842.3493890": {
+  "doi": "10.1145/3493842.3493890",
+  "ok": true,
+  "type": "doi",
+  "title": "From Ideation to Deployment: A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs",
+  "year": 2021,
+  "venue": "Eight International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3493842.3493890"
+ },
+ "doi:10.1145/3565995.3566042": {
+  "doi": "10.1145/3565995.3566042",
+  "ok": true,
+  "type": "doi",
+  "title": "WAG’D: Towards a Wearable Activity and Gait Detection Monitor for Sled Dogs",
+  "year": 2022,
+  "venue": "Proceedings of the Ninth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3565995.3566042"
+ },
+ "video:youtube:wLxENa1Ui0Y": {
+  "url": "https://www.youtube.com/watch?v=wLxENa1Ui0Y",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wLxENa1Ui0Y",
+  "title": "Wearable Sensors for Canine Nosework Interaction",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/wLxENa1Ui0Y/hqdefault.jpg"
+ },
+ "doi:10.1145/3493842.3493892": {
+  "doi": "10.1145/3493842.3493892",
+  "ok": true,
+  "type": "doi",
+  "title": "Wearable Sensors for Canine Nosework Sniffing Interaction",
+  "year": 2021,
+  "venue": "Eight International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3493842.3493892"
+ },
+ "doi:10.1145/3702336.3702351": {
+  "doi": "10.1145/3702336.3702351",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Enactivist ACI - Sensor-Rich Olfactory Workstation and Suit for Detection Dogs",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702351"
+ },
+ "video:youtube:skMHdNmyN68": {
+  "url": "https://www.youtube.com/watch?v=skMHdNmyN68",
+  "ok": true,
+  "platform": "youtube",
+  "id": "skMHdNmyN68",
+  "title": "Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog R...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/skMHdNmyN68/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2402.06790v1/f1-harness.png": {
+  "url": "https://arxiv.org/html/2402.06790v1/f1-harness.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3613904.3642181": {
+  "doi": "10.1145/3613904.3642181",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3642181"
+ },
+ "arxiv:2402.06790": {
+  "arxiv": "2402.06790",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2402.06790"
+ },
+ "doi:10.1145/2832932.2837008": {
+  "doi": "10.1145/2832932.2837008",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing for intuitive use for non-human users",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837008"
+ },
+ "doi:10.1145/2832932.2837011": {
+  "doi": "10.1145/2832932.2837011",
+  "ok": true,
+  "type": "doi",
+  "title": "Naturalism and ACI",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837011"
+ },
+ "doi:10.1145/2995257.3014066": {
+  "doi": "10.1145/2995257.3014066",
+  "ok": true,
+  "type": "doi",
+  "title": "Don't cut to the chase",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3014066"
+ },
+ "video:youtube:5tY7D6zpsB8": {
+  "url": "https://www.youtube.com/watch?v=5tY7D6zpsB8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5tY7D6zpsB8",
+  "title": "ACI2017-Video9-Sonic Experiments with Grey Parrots",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/5tY7D6zpsB8/hqdefault.jpg"
+ },
+ "doi:10.1145/3152130.3152137": {
+  "doi": "10.1145/3152130.3152137",
+  "ok": true,
+  "type": "doi",
+  "title": "Sonic Experiments with Grey Parrots",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152137"
+ },
+ "doi:10.1145/3371049.3371062": {
+  "doi": "10.1145/3371049.3371062",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal-Centred Sonic Interaction Design",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371062"
+ },
+ "doi:10.1145/3295598.3295604": {
+  "doi": "10.1145/3295598.3295604",
+  "ok": true,
+  "type": "doi",
+  "title": "Gorilla game lab",
+  "year": 2018,
+  "venue": "Proceedings of the Fifth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3295598.3295604"
+ },
+ "doi:10.1145/3295598.3295605": {
+  "doi": "10.1145/3295598.3295605",
+  "ok": true,
+  "type": "doi",
+  "title": "Computer tasks for great apes promote functional naturalism in a zoo setting",
+  "year": 2018,
+  "venue": "Proceedings of the Fifth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3295598.3295605"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13428-013-0418-y/MediaObjects/13428_2013_418_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13428-013-0418-y/MediaObjects/13428_2013_418_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.3758/s13428-013-0418-y": {
+  "doi": "10.3758/s13428-013-0418-y",
+  "ok": true,
+  "type": "doi",
+  "title": "The Arena System: a novel shared touch-panel apparatus for the study of chimpanzee social interaction and cognition",
+  "year": 2014,
+  "venue": "Behavior Research Methods",
+  "url": "https://doi.org/10.3758/s13428-013-0418-y"
+ },
+ "video:youtube:JWfEYJogvLo": {
+  "url": "https://www.youtube.com/watch?v=JWfEYJogvLo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JWfEYJogvLo",
+  "title": "Christopher Flynn Martin - Automated Methods for Great Ape Cognitive Research and Enrichment",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/JWfEYJogvLo/hqdefault.jpg"
+ },
+ "img:https://pub.mdpi-res.com/animals/animals-12-01660/article_deploy/html/images/animals-12-01660-g001.png": {
+  "url": "https://pub.mdpi-res.com/animals/animals-12-01660/article_deploy/html/images/animals-12-01660-g001.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.3390/ani12131660": {
+  "doi": "10.3390/ani12131660",
+  "ok": true,
+  "type": "doi",
+  "title": "Apex and ApeTouch: Development of a Portable Touchscreen System and Software for Primates at Zoos",
+  "year": 2022,
+  "venue": "Animals",
+  "url": "https://doi.org/10.3390/ani12131660"
+ },
+ "doi:10.1016/j.ijhcs.2016.05.003": {
+  "doi": "10.1016/j.ijhcs.2016.05.003",
+  "ok": true,
+  "type": "doi",
+  "title": "Interactive technology and human–animal encounters at the zoo",
+  "year": 2017,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2016.05.003"
+ },
+ "video:youtube:u9WZbdMHam0": {
+  "url": "https://www.youtube.com/watch?v=u9WZbdMHam0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "u9WZbdMHam0",
+  "title": "Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/u9WZbdMHam0/hqdefault.jpg"
+ },
+ "doi:10.1145/3357236.3395559": {
+  "doi": "10.1145/3357236.3395559",
+  "ok": true,
+  "type": "doi",
+  "title": "Co-Designing with Orangutans",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3357236.3395559"
+ },
+ "video:youtube:sr5HA6pMxBU": {
+  "url": "https://www.youtube.com/watch?v=sr5HA6pMxBU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sr5HA6pMxBU",
+  "title": "Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/sr5HA6pMxBU/hqdefault.jpg"
+ },
+ "doi:10.1145/3313831.3376858": {
+  "doi": "10.1145/3313831.3376858",
+  "ok": true,
+  "type": "doi",
+  "title": "Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376858"
+ },
+ "video:youtube:4PfeYJp5X1Y": {
+  "url": "https://www.youtube.com/watch?v=4PfeYJp5X1Y",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4PfeYJp5X1Y",
+  "title": "Soundyssey: A Hybrid Enrichment System for Elephants in Managed Care",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/4PfeYJp5X1Y/hqdefault.jpg"
+ },
+ "doi:10.1145/3430524.3442469": {
+  "doi": "10.1145/3430524.3442469",
+  "ok": true,
+  "type": "doi",
+  "title": "Soundyssey: Hybrid Enrichment System for Elephants in Managed Care",
+  "year": 2021,
+  "venue": "Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3430524.3442469"
+ },
+ "video:youtube:HM4AQE6pe-8": {
+  "url": "https://www.youtube.com/watch?v=HM4AQE6pe-8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HM4AQE6pe-8",
+  "title": "Platypus Surfing: In Search of the Perfect Wave",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/HM4AQE6pe-8/hqdefault.jpg"
+ },
+ "doi:10.1145/3446002.3446052": {
+  "doi": "10.1145/3446002.3446052",
+  "ok": true,
+  "type": "doi",
+  "title": "Platypus Surfing",
+  "year": 2020,
+  "venue": "Proceedings of the Seventh International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3446002.3446052"
+ },
+ "video:youtube:xlNYO-J1Pv0": {
+  "url": "https://www.youtube.com/watch?v=xlNYO-J1Pv0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xlNYO-J1Pv0",
+  "title": "ACI2017-Video30-Digital Enrichment with Captive Siamang",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/xlNYO-J1Pv0/hqdefault.jpg"
+ },
+ "doi:10.1145/3152130.3152150": {
+  "doi": "10.1145/3152130.3152150",
+  "ok": true,
+  "type": "doi",
+  "title": "Digital Enrichment with Captive Siamang",
+  "year": 2017,
+  "venue": "Proceedings of the Fourth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3152130.3152150"
+ },
+ "doi:10.1145/3637882.3637885": {
+  "doi": "10.1145/3637882.3637885",
+  "ok": true,
+  "type": "doi",
+  "title": "Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism",
+  "year": 2023,
+  "venue": "The Tenth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3637882.3637885"
+ },
+ "video:youtube:ANlIAhp4YTs": {
+  "url": "https://www.youtube.com/watch?v=ANlIAhp4YTs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ANlIAhp4YTs",
+  "title": "Play That Trunky Music: Elephant Enrichment x Computer Science",
+  "author": "Georgia Tech College of Computing",
+  "thumbnail": "https://i.ytimg.com/vi/ANlIAhp4YTs/hqdefault.jpg"
+ },
+ "doi:10.1145/3702336.3702343": {
+  "doi": "10.1145/3702336.3702343",
+  "ok": true,
+  "type": "doi",
+  "title": "Play That Trunky Music: Development of an Auditory Enrichment Device for Elephants in Zoos",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702343"
+ },
+ "doi:10.1145/3702336.3702346": {
+  "doi": "10.1145/3702336.3702346",
+  "ok": true,
+  "type": "doi",
+  "title": "Shelling Out the Fun: Quantifying Otter Interactions with Instrumented Enrichment Objects",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702346"
+ },
+ "video:youtube:t4AWeWoZHNs": {
+  "url": "https://www.youtube.com/watch?v=t4AWeWoZHNs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "t4AWeWoZHNs",
+  "title": "Prototyping with Monkeys  Uncovering What Monkey Buttons Look Like",
+  "author": "Animal-Computer Interaction",
+  "thumbnail": "https://i.ytimg.com/vi/t4AWeWoZHNs/hqdefault.jpg"
+ },
+ "doi:10.1145/3569009.3572735": {
+  "doi": "10.1145/3569009.3572735",
+  "ok": true,
+  "type": "doi",
+  "title": "Prototyping with Monkeys: Uncovering What Buttons for Monkeys Look Like",
+  "year": 2023,
+  "venue": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3569009.3572735"
+ },
+ "doi:10.1145/3626470": {
+  "doi": "10.1145/3626470",
+  "ok": true,
+  "type": "doi",
+  "title": "Hum-ble Beginnings: Developing Touch- and Proximity-Input-Based Interfaces for Zoo-Housed Giraffes’ Audio Enrichment",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3626470"
+ },
+ "video:youtube:rzL0KoFrBEI": {
+  "url": "https://www.youtube.com/watch?v=rzL0KoFrBEI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rzL0KoFrBEI",
+  "title": "Uncovering Lemur Cross-Species Usage of an Interactive Audio Device In Zoos",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/rzL0KoFrBEI/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3641888": {
+  "doi": "10.1145/3613904.3641888",
+  "ok": true,
+  "type": "doi",
+  "title": "LemurLounge: Lemurs' Individual-Level, Group, and Cross-Species Use of an Interactive Audio Device in Zoos",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3641888"
+ },
+ "video:youtube:v8kiUKrVLq0": {
+  "url": "https://www.youtube.com/watch?v=v8kiUKrVLq0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "v8kiUKrVLq0",
+  "title": "Jiaqi Wang - Reshaping Human-animal Relationships | SICSA Pre-CHI Day 2025",
+  "author": "SICSAScotland",
+  "thumbnail": "https://i.ytimg.com/vi/v8kiUKrVLq0/hqdefault.jpg"
+ },
+ "doi:10.1145/3706598.3713311": {
+  "doi": "10.1145/3706598.3713311",
+  "ok": true,
+  "type": "doi",
+  "title": "Reshaping Human-Animal Relationships: Exploring Lemur and Human Enrichment through Smell, Sound, and Sight",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713311"
+ },
+ "doi:10.1145/3772318.3790643": {
+  "doi": "10.1145/3772318.3790643",
+  "ok": true,
+  "type": "doi",
+  "title": "CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790643"
+ },
+ "video:youtube:_mxHsUzPxHs": {
+  "url": "https://www.youtube.com/watch?v=_mxHsUzPxHs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_mxHsUzPxHs",
+  "title": "Swing it On: Responsive Acoustic Enrichment for Zoo-Housed Colobus Monkeys | ACI 2025 Presentation",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/_mxHsUzPxHs/hqdefault.jpg"
+ },
+ "doi:10.1145/3768539.3768551": {
+  "doi": "10.1145/3768539.3768551",
+  "ok": true,
+  "type": "doi",
+  "title": "Swing it On: Design of Responsive Acoustic Environments for Zoo-housed Colobus Monkeys",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768551"
+ },
+ "video:youtube:EU0SGAQKnoI": {
+  "url": "https://www.youtube.com/watch?v=EU0SGAQKnoI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EU0SGAQKnoI",
+  "title": "Colobus Curio Cabinet: Modular Mirror Enrichment for Zoo-Housed Monkeys | ACI 2025 Presentation",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/EU0SGAQKnoI/hqdefault.jpg"
+ },
+ "doi:10.1145/3768539.3768555": {
+  "doi": "10.1145/3768539.3768555",
+  "ok": true,
+  "type": "doi",
+  "title": "Colobus Curio Cabinet: A Modular, Mirror-Based, Co-Designed Enrichment Proposal for Colobus guereza",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768555"
+ },
+ "video:youtube:pSsLSRJ-7JQ": {
+  "url": "https://www.youtube.com/watch?v=pSsLSRJ-7JQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pSsLSRJ-7JQ",
+  "title": "Outfoxed: Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals - CHI 2026 demo video",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/pSsLSRJ-7JQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3772318.3791644": {
+  "doi": "10.1145/3772318.3791644",
+  "ok": true,
+  "type": "doi",
+  "title": "Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791644"
+ },
+ "video:youtube:ubS81hMRPZI": {
+  "url": "https://www.youtube.com/watch?v=ubS81hMRPZI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ubS81hMRPZI",
+  "title": "BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals  - CHI 2026",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/ubS81hMRPZI/hqdefault.jpg"
+ },
+ "doi:10.1145/3772318.3790842": {
+  "doi": "10.1145/3772318.3790842",
+  "ok": true,
+  "type": "doi",
+  "title": "BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790842"
+ },
+ "doi:10.1145/3768539.3768553": {
+  "doi": "10.1145/3768539.3768553",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Cockatoo's Engagement with Audiovisual Stimuli: An Inclusive Avian-IoT Interaction Design",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768553"
+ },
+ "video:youtube:szGajjmctXg": {
+  "url": "https://www.youtube.com/watch?v=szGajjmctXg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "szGajjmctXg",
+  "title": "Tablet Communication Training with a Goffin's Cockatoo",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/szGajjmctXg/hqdefault.jpg"
+ },
+ "doi:10.1145/3446002.3446063": {
+  "doi": "10.1145/3446002.3446063",
+  "ok": true,
+  "type": "doi",
+  "title": "Use of a Tablet-Based Communication Board and Subsequent Choice and Behavioral Correspondences in a Goffin's Cockatoo (Cacatua goffiana)",
+  "year": 2020,
+  "venue": "Proceedings of the Seventh International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3446002.3446063"
+ },
+ "video:youtube:u95r1Hjozpk": {
+  "url": "https://www.youtube.com/watch?v=u95r1Hjozpk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "u95r1Hjozpk",
+  "title": "Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tab...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/u95r1Hjozpk/hqdefault.jpg"
+ },
+ "doi:10.1145/3613904.3643654": {
+  "doi": "10.1145/3613904.3643654",
+  "ok": true,
+  "type": "doi",
+  "title": "Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tablet-Based Speech Board in a Single Goffin’s Cockatoo",
+  "year": 2024,
+  "venue": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613904.3643654"
+ },
+ "doi:10.1145/3772318.3791196": {
+  "doi": "10.1145/3772318.3791196",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Interface Design for Parrot-Human Communication: Investigating Parrot Selections of Speech Board Representations",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791196"
+ },
+ "doi:10.1145/3565995.3566036": {
+  "doi": "10.1145/3565995.3566036",
+  "ok": true,
+  "type": "doi",
+  "title": "TamagoPhone: A Framework for Augmenting Artificial Incubators to Enable Vocal Interaction Between Bird Parents and Eggs",
+  "year": 2022,
+  "venue": "Proceedings of the Ninth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3565995.3566036"
+ },
+ "video:youtube:P4oZcewlZn8": {
+  "url": "https://www.youtube.com/watch?v=P4oZcewlZn8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "P4oZcewlZn8",
+  "title": "Listening with the Fishes: Aquatic Audio Interfaces to Experience Underwater Worlds, ACI25",
+  "author": "INTERACT Animal Lab",
+  "thumbnail": "https://i.ytimg.com/vi/P4oZcewlZn8/hqdefault.jpg"
+ },
+ "doi:10.1145/3768539.3768552": {
+  "doi": "10.1145/3768539.3768552",
+  "ok": true,
+  "type": "doi",
+  "title": "Listening with the Fishes: Aquatic Audio Interfaces to Experience Acoustic Underwater Worlds",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768552"
+ },
+ "video:youtube:cSd_UAOCQFg": {
+  "url": "https://www.youtube.com/watch?v=cSd_UAOCQFg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cSd_UAOCQFg",
+  "title": "The Animal Whisperer Project",
+  "author": "Oliver Bendel",
+  "thumbnail": "https://i.ytimg.com/vi/cSd_UAOCQFg/hqdefault.jpg"
+ },
+ "doi:10.1145/3702336.3702347": {
+  "doi": "10.1145/3702336.3702347",
+  "ok": true,
+  "type": "doi",
+  "title": "The Animal Whisperer Project",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702347"
+ },
+ "doi:10.1145/3702336.3702348": {
+  "doi": "10.1145/3702336.3702348",
+  "ok": true,
+  "type": "doi",
+  "title": "Rosetta Bone - Bridging the Language Gap Between Dogs and Humans with a QR Code-Enabled Communication System",
+  "year": 2024,
+  "venue": "Proceedings of the International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3702336.3702348"
+ },
+ "doi:10.1145/2832932.2837012": {
+  "doi": "10.1145/2832932.2837012",
+  "ok": true,
+  "type": "doi",
+  "title": "Playful rocksalt system",
+  "year": 2015,
+  "venue": "Proceedings of the 12th International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/2832932.2837012"
+ },
+ "video:youtube:VSrdnvHMMJA": {
+  "url": "https://www.youtube.com/watch?v=VSrdnvHMMJA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VSrdnvHMMJA",
+  "title": "Animal-to-Animal Data Sharing Mechanism for Wildlife Monitoring",
+  "author": "Hill H. KOBAYASHI",
+  "thumbnail": "https://i.ytimg.com/vi/VSrdnvHMMJA/hqdefault.jpg"
+ },
+ "doi:10.3390/mti2030040": {
+  "doi": "10.3390/mti2030040",
+  "ok": true,
+  "type": "doi",
+  "title": "Animal-to-Animal Data Sharing Mechanism for Wildlife Monitoring in Fukushima Exclusion Zone",
+  "year": 2018,
+  "venue": "Multimodal Technologies and Interaction",
+  "url": "https://doi.org/10.3390/mti2030040"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13280-015-0708-y/MediaObjects/13280_2015_708_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13280-015-0708-y/MediaObjects/13280_2015_708_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/s13280-015-0708-y": {
+  "doi": "10.1007/s13280-015-0708-y",
+  "ok": true,
+  "type": "doi",
+  "title": "Utilizing the Cyberforest live sound system with social media to remotely conduct woodland bird censuses in Central Japan",
+  "year": 2015,
+  "venue": "Ambio",
+  "url": "https://doi.org/10.1007/s13280-015-0708-y"
+ },
+ "video:youtube:oqjeKRgVo5E": {
+  "url": "https://www.youtube.com/watch?v=oqjeKRgVo5E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oqjeKRgVo5E",
+  "title": "ACI2016-Video108-Designing for Wearability in Animal Biotelemetry",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/oqjeKRgVo5E/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012018": {
+  "doi": "10.1145/2995257.3012018",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing for wearability in animal biotelemetry",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012018"
+ },
+ "doi:10.1145/3637882.3637890": {
+  "doi": "10.1145/3637882.3637890",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards Harmonious Coexistence: A Bioacoustic-Driven Animal-Computer Interaction System for Preventing Ship Collisions with North Atlantic Right Whales",
+  "year": 2023,
+  "venue": "The Tenth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3637882.3637890"
+ },
+ "doi:10.1145/3637882.3637893": {
+  "doi": "10.1145/3637882.3637893",
+  "ok": true,
+  "type": "doi",
+  "title": "Advancing Cattle Health Monitoring through ACI-Driven Wearable Sensor Technology: A Case Study of Leg-Worn System Development",
+  "year": 2023,
+  "venue": "The Tenth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3637882.3637893"
+ },
+ "doi:10.1145/3768539.3768560": {
+  "doi": "10.1145/3768539.3768560",
+  "ok": true,
+  "type": "doi",
+  "title": "Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics",
+  "year": 2025,
+  "venue": "Proceedings of the ACM 12th International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3768539.3768560"
+ },
+ "doi:10.1145/3196709.3196783": {
+  "doi": "10.1145/3196709.3196783",
+  "ok": true,
+  "type": "doi",
+  "title": "Confronting People's Fears about Bats",
+  "year": 2018,
+  "venue": "Proceedings of the 2018 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3196709.3196783"
+ },
+ "doi:10.1145/3334480.3383093": {
+  "doi": "10.1145/3334480.3383093",
+  "ok": true,
+  "type": "doi",
+  "title": "Smart Habitat: A Wildlife Rehabilitation System",
+  "year": 2020,
+  "venue": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3334480.3383093"
+ },
+ "doi:10.1145/3706598.3713977": {
+  "doi": "10.1145/3706598.3713977",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713977"
+ },
+ "video:youtube:CsuMkHJxoak": {
+  "url": "https://www.youtube.com/watch?v=CsuMkHJxoak",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CsuMkHJxoak",
+  "title": "iPad App Will Let You Play with Real Pigs, Without the Mess",
+  "author": "Mashable",
+  "thumbnail": "https://i.ytimg.com/vi/CsuMkHJxoak/hqdefault.jpg"
+ },
+ "video:youtube:ZsSIKj5ULp4": {
+  "url": "https://www.youtube.com/watch?v=ZsSIKj5ULp4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZsSIKj5ULp4",
+  "title": "Apps for Apes: Smithsonian Orangutans using iPads for Enrichment",
+  "author": "Smithsonian's National Zoo",
+  "thumbnail": "https://i.ytimg.com/vi/ZsSIKj5ULp4/hqdefault.jpg"
+ },
+ "video:youtube:Cm08jEklfKY": {
+  "url": "https://www.youtube.com/watch?v=Cm08jEklfKY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Cm08jEklfKY",
+  "title": "CleverPet is a game console for your four-legged friend",
+  "author": "CNET",
+  "thumbnail": "https://i.ytimg.com/vi/Cm08jEklfKY/hqdefault.jpg"
+ },
+ "video:youtube:Ed06WBmxrp8": {
+  "url": "https://www.youtube.com/watch?v=Ed06WBmxrp8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ed06WBmxrp8",
+  "title": "iPad Game For Cats (Friskies - Fishing)",
+  "author": "Andrew Teman",
+  "thumbnail": "https://i.ytimg.com/vi/Ed06WBmxrp8/hqdefault.jpg"
+ },
+ "video:youtube:BSIq-rrGGX4": {
+  "url": "https://www.youtube.com/watch?v=BSIq-rrGGX4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BSIq-rrGGX4",
+  "title": "Virtual fencing for U.S. ranches | Halter’s GPS-enabled solar collar on 700,000+ cattle",
+  "author": "Halter USA",
+  "thumbnail": "https://i.ytimg.com/vi/BSIq-rrGGX4/hqdefault.jpg"
+ },
+ "video:youtube:5cWiEp10ruA": {
+  "url": "https://www.youtube.com/watch?v=5cWiEp10ruA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5cWiEp10ruA",
+  "title": "Lely Astronaut A5 - The art of milking - EN",
+  "author": "Lely",
+  "thumbnail": "https://i.ytimg.com/vi/5cWiEp10ruA/hqdefault.jpg"
+ },
+ "img:https://linn01mstr1r92oprod.dxcloud.episerver.net/globalassets/international/images---solution-product-or-service/lint---solutions/milking/astronaut-a5-next/product-slider/product-picture-of-lely-astronaut-a5-next.jpg": {
+  "url": "https://linn01mstr1r92oprod.dxcloud.episerver.net/globalassets/international/images---solution-product-or-service/lint---solutions/milking/astronaut-a5-next/product-slider/product-picture-of-lely-astronaut-a5-next.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:8V5nPvq-DVc": {
+  "url": "https://www.youtube.com/watch?v=8V5nPvq-DVc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8V5nPvq-DVc",
+  "title": "Overview of Beewise",
+  "author": "Beewise",
+  "thumbnail": "https://i.ytimg.com/vi/8V5nPvq-DVc/hqdefault.jpg"
+ },
+ "img:https://26497807.fs1.hubspotusercontent-eu1.net/hubfs/26497807/Hive%201%20(1).webp": {
+  "url": "https://26497807.fs1.hubspotusercontent-eu1.net/hubfs/26497807/Hive%201%20(1).webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg/v1/fill/w_2500,h_2500,al_c/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg/v1/fill/w_2500,h_2500,al_c/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1111/2041-210x.12955": {
+  "doi": "10.1111/2041-210x.12955",
+  "ok": true,
+  "type": "doi",
+  "title": "AudioMoth: Evaluation of a smart open acoustic device for monitoring biodiversity and the environment",
+  "year": 2018,
+  "venue": "Methods in Ecology and Evolution",
+  "url": "https://doi.org/10.1111/2041-210x.12955"
+ },
+ "video:youtube:bNf3C3C9Kw8": {
+  "url": "https://www.youtube.com/watch?v=bNf3C3C9Kw8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bNf3C3C9Kw8",
+  "title": "Whale Safe: Data insights to prevent whale-ship collisions",
+  "author": "Benioff Ocean Science Laboratory",
+  "thumbnail": "https://i.ytimg.com/vi/bNf3C3C9Kw8/hqdefault.jpg"
+ },
+ "img:https://whalesafe.com/wp-content/uploads/2020/09/og-image.png": {
+  "url": "https://whalesafe.com/wp-content/uploads/2020/09/og-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:e_KNyhQMjOY": {
+  "url": "https://www.youtube.com/watch?v=e_KNyhQMjOY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e_KNyhQMjOY",
+  "title": "Icarus initiative: Wildlife Observation from Space",
+  "author": "MaxPlanckSociety",
+  "thumbnail": "https://i.ytimg.com/vi/e_KNyhQMjOY/hqdefault.jpg"
+ },
+ "img:https://www.movebank.org/cms/img/about-us_ChristianZiegler_whitestorks.jpg": {
+  "url": "https://www.movebank.org/cms/img/about-us_ChristianZiegler_whitestorks.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1242/jeb.02629": {
+  "doi": "10.1242/jeb.02629",
+  "ok": true,
+  "type": "doi",
+  "title": "Going wild: what a global small-animal tracking system could do for experimental biologists",
+  "year": 2007,
+  "venue": "Journal of Experimental Biology",
+  "url": "https://doi.org/10.1242/jeb.02629"
+ },
+ "video:youtube:q-EONusvq_8": {
+  "url": "https://www.youtube.com/watch?v=q-EONusvq_8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "q-EONusvq_8",
+  "title": "Greg Marshall inventor of \"Critter Cam\"",
+  "author": "BLUE OceanFilmFest",
+  "thumbnail": "https://i.ytimg.com/vi/q-EONusvq_8/hqdefault.jpg"
+ },
+ "doi:10.4031/002533207787442240": {
+  "doi": "10.4031/002533207787442240",
+  "ok": true,
+  "type": "doi",
+  "title": "An Advanced Solid-state Animal-Borne Video and Environmental Data-Logging Device (“Crittercam”) for Marine Research",
+  "year": 2007,
+  "venue": "Marine Technology Society Journal",
+  "url": "https://doi.org/10.4031/002533207787442240"
+ },
+ "doi:10.1088/1748-3190/11/1/015001": {
+  "doi": "10.1088/1748-3190/11/1/015001",
+  "ok": true,
+  "type": "doi",
+  "title": "RoboFish: increased acceptance of interactive robotic fish with realistic eyes and natural motion patterns by live Trinidadian guppies",
+  "year": 2016,
+  "venue": "Bioinspiration &amp; Biomimetics",
+  "url": "https://doi.org/10.1088/1748-3190/11/1/015001"
+ },
+ "video:youtube:zp9_T9YK0Hk": {
+  "url": "https://www.youtube.com/watch?v=zp9_T9YK0Hk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zp9_T9YK0Hk",
+  "title": "Honeybee Robot Talks to a Bee",
+  "author": "BerlinBiorobotics",
+  "thumbnail": "https://i.ytimg.com/vi/zp9_T9YK0Hk/hqdefault.jpg"
+ },
+ "arxiv:1803.07126": {
+  "arxiv": "1803.07126",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Dancing Honey bee Robot Elicits Dance-Following and Recruits Foragers",
+  "year": 2018,
+  "url": "https://arxiv.org/abs/1803.07126"
+ },
+ "video:youtube:-Y4DHu8DAqg": {
+  "url": "https://www.youtube.com/watch?v=-Y4DHu8DAqg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-Y4DHu8DAqg",
+  "title": "NMW on SNL",
+  "author": "Nordic Invention",
+  "thumbnail": "https://i.ytimg.com/vi/-Y4DHu8DAqg/hqdefault.jpg"
+ },
+ "video:youtube:-GdmfDuzQvM": {
+  "url": "https://www.youtube.com/watch?v=-GdmfDuzQvM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-GdmfDuzQvM",
+  "title": "The WW2 experiment to make pigeon-guided missiles | BBC Global",
+  "author": "BBC Global",
+  "thumbnail": "https://i.ytimg.com/vi/-GdmfDuzQvM/hqdefault.jpg"
+ },
+ "doi:10.1037/h0045345": {
+  "doi": "10.1037/h0045345",
+  "ok": true,
+  "type": "doi",
+  "title": "Pigeons in a pelican.",
+  "year": 1960,
+  "venue": "American Psychologist",
+  "url": "https://doi.org/10.1037/h0045345"
+ },
+ "video:youtube:uBB1tdUaCsE": {
+  "url": "https://www.youtube.com/watch?v=uBB1tdUaCsE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uBB1tdUaCsE",
+  "title": "DeepSqueak helps researchers decode rodent chatter",
+  "author": "UW Medicine",
+  "thumbnail": "https://i.ytimg.com/vi/uBB1tdUaCsE/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41386-018-0303-6/MediaObjects/41386_2018_303_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41386-018-0303-6/MediaObjects/41386_2018_303_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41386-018-0303-6": {
+  "doi": "10.1038/s41386-018-0303-6",
+  "ok": true,
+  "type": "doi",
+  "title": "DeepSqueak: a deep learning-based system for detection and analysis of ultrasonic vocalizations",
+  "year": 2019,
+  "venue": "Neuropsychopharmacology",
+  "url": "https://doi.org/10.1038/s41386-018-0303-6"
+ },
+ "video:youtube:cTnVSJ8V4wk": {
+  "url": "https://www.youtube.com/watch?v=cTnVSJ8V4wk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cTnVSJ8V4wk",
+  "title": "Is Bunny the “talking\" dog legit? Here’s what science says",
+  "author": "Fig. 1 by University of California",
+  "thumbnail": "https://i.ytimg.com/vi/cTnVSJ8V4wk/hqdefault.jpg"
+ },
+ "img:https://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048": {
+  "url": "https://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1038/s41598-024-79517-6": {
+  "doi": "10.1038/s41598-024-79517-6",
+  "ok": true,
+  "type": "doi",
+  "title": "Soundboard-trained dogs produce non-accidental, non-random and non-imitative two-button combinations",
+  "year": 2024,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-024-79517-6"
+ },
+ "img:https://www.dogtv.com/wp-content/uploads/2025/08/JRT_Watching-3-scaled-e1754077958681.jpg": {
+  "url": "https://www.dogtv.com/wp-content/uploads/2025/08/JRT_Watching-3-scaled-e1754077958681.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:wRM7vTrIIis": {
+  "url": "https://www.youtube.com/watch?v=wRM7vTrIIis",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wRM7vTrIIis",
+  "title": "Kanzi with lexigram",
+  "author": "IowaPrimate .LearningSanctuary",
+  "thumbnail": "https://i.ytimg.com/vi/wRM7vTrIIis/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/f/f9/Kanzi_in_the_indoor_test_apparatus.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Kanzi_in_the_indoor_test_apparatus.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.182.4113.731": {
+  "doi": "10.1126/science.182.4113.731",
+  "ok": true,
+  "type": "doi",
+  "title": "Reading and Sentence Completion by a Chimpanzee (\n            Pan\n            )",
+  "year": 1973,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.182.4113.731"
+ },
+ "video:youtube:zMjEo3qOqd8": {
+  "url": "https://www.youtube.com/watch?v=zMjEo3qOqd8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zMjEo3qOqd8",
+  "title": "RETRO FIND: Dolphins used keyboards to communicate in 1982 study",
+  "author": "KCRA 3",
+  "thumbnail": "https://i.ytimg.com/vi/zMjEo3qOqd8/hqdefault.jpg"
+ },
+ "doi:10.1037/0735-7036.107.3.301": {
+  "doi": "10.1037/0735-7036.107.3.301",
+  "ok": true,
+  "type": "doi",
+  "title": "Spontaneous vocal mimicry and production by bottlenose dolphins (Tursiops truncatus): Evidence for vocal learning.",
+  "year": 1993,
+  "venue": "Journal of Comparative Psychology",
+  "url": "https://doi.org/10.1037/0735-7036.107.3.301"
+ },
+ "video:youtube:rs_fHKLZxr4": {
+  "url": "https://www.youtube.com/watch?v=rs_fHKLZxr4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rs_fHKLZxr4",
+  "title": "Louis Liebenberg explains the Cybertracker",
+  "author": "swxclients",
+  "thumbnail": "https://i.ytimg.com/vi/rs_fHKLZxr4/hqdefault.jpg"
+ },
+ "doi:10.1145/506443.506466": {
+  "doi": "10.1145/506443.506466",
+  "ok": true,
+  "type": "doi",
+  "title": "Extended abstract a field computer for animal trackers",
+  "year": 2002,
+  "venue": "CHI '02 Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/506443.506466"
+ },
+ "ytmax:b7hrtlKnp1g": {
+  "url": "https://i.ytimg.com/vi/b7hrtlKnp1g/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:jKV5uoLWlUQ": {
+  "url": "https://i.ytimg.com/vi/jKV5uoLWlUQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:elTCuVa7Vak": {
+  "url": "https://i.ytimg.com/vi/elTCuVa7Vak/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Y4PcZCEH2fQ": {
+  "url": "https://i.ytimg.com/vi/Y4PcZCEH2fQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:PhzLnO11lms": {
+  "url": "https://i.ytimg.com/vi/PhzLnO11lms/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qzdnZ2SKG28": {
+  "url": "https://i.ytimg.com/vi/qzdnZ2SKG28/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:g6WLiyPzES0": {
+  "url": "https://i.ytimg.com/vi/g6WLiyPzES0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:iUYcwSncXDs": {
+  "url": "https://i.ytimg.com/vi/iUYcwSncXDs/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ClU087JidS4": {
+  "url": "https://i.ytimg.com/vi/ClU087JidS4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bjoJToyC9_0": {
+  "url": "https://i.ytimg.com/vi/bjoJToyC9_0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sY01SRLlD24": {
+  "url": "https://i.ytimg.com/vi/sY01SRLlD24/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:3S9_Xfk1xP4": {
+  "url": "https://i.ytimg.com/vi/3S9_Xfk1xP4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bYEm36ORAjQ": {
+  "url": "https://i.ytimg.com/vi/bYEm36ORAjQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Op7IIU355T4": {
+  "url": "https://i.ytimg.com/vi/Op7IIU355T4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jQeBh000krw": {
+  "url": "https://i.ytimg.com/vi/jQeBh000krw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1QQIaMYI2l8": {
+  "url": "https://i.ytimg.com/vi/1QQIaMYI2l8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:lfP8sqALWlg": {
+  "url": "https://i.ytimg.com/vi/lfP8sqALWlg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:90oS6pgYEsY": {
+  "url": "https://i.ytimg.com/vi/90oS6pgYEsY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wOvXHugXKNo": {
+  "url": "https://i.ytimg.com/vi/wOvXHugXKNo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Ig6SQIaPss0": {
+  "url": "https://i.ytimg.com/vi/Ig6SQIaPss0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JOaAISSvwxg": {
+  "url": "https://i.ytimg.com/vi/JOaAISSvwxg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VU92LHenQZk": {
+  "url": "https://i.ytimg.com/vi/VU92LHenQZk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wLxENa1Ui0Y": {
+  "url": "https://i.ytimg.com/vi/wLxENa1Ui0Y/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:skMHdNmyN68": {
+  "url": "https://i.ytimg.com/vi/skMHdNmyN68/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5tY7D6zpsB8": {
+  "url": "https://i.ytimg.com/vi/5tY7D6zpsB8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JWfEYJogvLo": {
+  "url": "https://i.ytimg.com/vi/JWfEYJogvLo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+ },
+ "ytmax:u9WZbdMHam0": {
+  "url": "https://i.ytimg.com/vi/u9WZbdMHam0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sr5HA6pMxBU": {
+  "url": "https://i.ytimg.com/vi/sr5HA6pMxBU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4PfeYJp5X1Y": {
+  "url": "https://i.ytimg.com/vi/4PfeYJp5X1Y/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:HM4AQE6pe-8": {
+  "url": "https://i.ytimg.com/vi/HM4AQE6pe-8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xlNYO-J1Pv0": {
+  "url": "https://i.ytimg.com/vi/xlNYO-J1Pv0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ANlIAhp4YTs": {
+  "url": "https://i.ytimg.com/vi/ANlIAhp4YTs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:t4AWeWoZHNs": {
+  "url": "https://i.ytimg.com/vi/t4AWeWoZHNs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rzL0KoFrBEI": {
+  "url": "https://i.ytimg.com/vi/rzL0KoFrBEI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:v8kiUKrVLq0": {
+  "url": "https://i.ytimg.com/vi/v8kiUKrVLq0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_mxHsUzPxHs": {
+  "url": "https://i.ytimg.com/vi/_mxHsUzPxHs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EU0SGAQKnoI": {
+  "url": "https://i.ytimg.com/vi/EU0SGAQKnoI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pSsLSRJ-7JQ": {
+  "url": "https://i.ytimg.com/vi/pSsLSRJ-7JQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ubS81hMRPZI": {
+  "url": "https://i.ytimg.com/vi/ubS81hMRPZI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:szGajjmctXg": {
+  "url": "https://i.ytimg.com/vi/szGajjmctXg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:u95r1Hjozpk": {
+  "url": "https://i.ytimg.com/vi/u95r1Hjozpk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:P4oZcewlZn8": {
+  "url": "https://i.ytimg.com/vi/P4oZcewlZn8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cSd_UAOCQFg": {
+  "url": "https://i.ytimg.com/vi/cSd_UAOCQFg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VSrdnvHMMJA": {
+  "url": "https://i.ytimg.com/vi/VSrdnvHMMJA/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:oqjeKRgVo5E": {
+  "url": "https://i.ytimg.com/vi/oqjeKRgVo5E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CsuMkHJxoak": {
+  "url": "https://i.ytimg.com/vi/CsuMkHJxoak/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZsSIKj5ULp4": {
+  "url": "https://i.ytimg.com/vi/ZsSIKj5ULp4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Cm08jEklfKY": {
+  "url": "https://i.ytimg.com/vi/Cm08jEklfKY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Ed06WBmxrp8": {
+  "url": "https://i.ytimg.com/vi/Ed06WBmxrp8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:BSIq-rrGGX4": {
+  "url": "https://i.ytimg.com/vi/BSIq-rrGGX4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5cWiEp10ruA": {
+  "url": "https://i.ytimg.com/vi/5cWiEp10ruA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8V5nPvq-DVc": {
+  "url": "https://i.ytimg.com/vi/8V5nPvq-DVc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bNf3C3C9Kw8": {
+  "url": "https://i.ytimg.com/vi/bNf3C3C9Kw8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:e_KNyhQMjOY": {
+  "url": "https://i.ytimg.com/vi/e_KNyhQMjOY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:q-EONusvq_8": {
+  "url": "https://i.ytimg.com/vi/q-EONusvq_8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:zp9_T9YK0Hk": {
+  "url": "https://i.ytimg.com/vi/zp9_T9YK0Hk/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:-Y4DHu8DAqg": {
+  "url": "https://i.ytimg.com/vi/-Y4DHu8DAqg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-GdmfDuzQvM": {
+  "url": "https://i.ytimg.com/vi/-GdmfDuzQvM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uBB1tdUaCsE": {
+  "url": "https://i.ytimg.com/vi/uBB1tdUaCsE/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:cTnVSJ8V4wk": {
+  "url": "https://i.ytimg.com/vi/cTnVSJ8V4wk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wRM7vTrIIis": {
+  "url": "https://i.ytimg.com/vi/wRM7vTrIIis/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:zMjEo3qOqd8": {
+  "url": "https://i.ytimg.com/vi/zMjEo3qOqd8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rs_fHKLZxr4": {
+  "url": "https://i.ytimg.com/vi/rs_fHKLZxr4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
  }
 }

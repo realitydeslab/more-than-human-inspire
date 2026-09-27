@@ -105,13 +105,13 @@
   {
    "id": "natalie-jeremijenko--feral-robotic-dogs",
    "what": "image",
-   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg",
+   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
    "error": "URLError: <urlopen error [Errno 61] Connection refused>"
   },
   {
    "id": "natalie-jeremijenko--feral-robotic-dogs",
    "what": "image",
-   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
+   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg",
    "error": "URLError: <urlopen error [Errno 61] Connection refused>"
   },
   {

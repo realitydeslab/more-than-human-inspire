@@ -677,6 +677,9 @@
       "also": [
         "mth",
         "hni"
+      ],
+      "images": [
+        "https://figures.semanticscholar.org/ac1fefb2c93bec118edb33bc006643683bd8630a/2-Figure1-1.png"
       ]
     },
     {
@@ -756,6 +759,10 @@
       "source_url": "https://doi.org/10.1145/3772318.3791217",
       "also": [
         "bio"
+      ],
+      "images": [
+        "https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/5-Figure3-1.png",
+        "https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/6-Figure4-1.png"
       ]
     },
     {
@@ -932,7 +939,11 @@
         "venue": "DIS 2016",
         "title": "Probing the Potential of Post-Anthropocentric 3D Printing"
       },
-      "source_url": "https://doi.org/10.1145/2901790.2901879"
+      "source_url": "https://doi.org/10.1145/2901790.2901879",
+      "images": [
+        "https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/5-Figure1-1.png",
+        "https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/6-Figure2-1.png"
+      ]
     },
     {
       "id": "nina-rajcic--message-ritual",
@@ -1449,7 +1460,11 @@
         "venue": "SIGGRAPH Asia Art Papers 2025",
         "title": "The Dream of Zhuang Zhou: Entangled Agencies in Multispecies Virtual Reality"
       },
-      "source_url": "https://doi.org/10.1145/3757369.3767609"
+      "source_url": "https://doi.org/10.1145/3757369.3767609",
+      "images": [
+        "https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/2-Figure1-1.png",
+        "https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/4-Figure3-1.png"
+      ]
     },
     {
       "id": "joseph-samuel-johnson--living-with-bats",
@@ -1486,6 +1501,9 @@
       "source_url": "https://doi.org/10.1145/3773286",
       "also": [
         "aci"
+      ],
+      "images": [
+        "https://figures.semanticscholar.org/60addb5f1bee7beb7dedb36044f600f664400b19/7-Figure1-1.png"
       ]
     },
     {
@@ -1990,6 +2008,10 @@
       "source_url": "https://doi.org/10.1162/desi_a_00452",
       "also": [
         "mth"
+      ],
+      "images": [
+        "https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/4-Figure1-1.png",
+        "https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/8-Figure3-1.png"
       ]
     },
     {
@@ -2061,7 +2083,10 @@
         "venue": "The Design Journal 2024",
         "title": "Designing harvesting tools for olive trees: Methodological reflections on exploring and incorporating plant perspectives in the early stages of design process"
       },
-      "source_url": "https://doi.org/10.1080/14606925.2024.2397207"
+      "source_url": "https://doi.org/10.1080/14606925.2024.2397207",
+      "images": [
+        "https://figures.semanticscholar.org/a38bc502059ee49374643eabb328eab6689a6a59/5-Figure1-1.png"
+      ]
     },
     {
       "id": "hinako-takita--fermenting-corner",

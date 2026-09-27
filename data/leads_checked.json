@@ -1,5 +1,69 @@
 [
  {
+  "name": "Jérémy Barbay",
+  "why": "Universidad de Chile; touchscreen 'digital life enrichment' apps for monk parakeets (ACI 2022, three papers).",
+  "link": "https://doi.org/10.1145/3565995.3566040",
+  "found_via": "jennifer-cunha",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "Fredrik Aspling",
+  "why": "Stockholm University; multispecies-computer interaction with dogs and plants; 'Understanding animals: a critical challenge in ACI' (NordiCHI 2018).",
+  "link": "https://doi.org/10.1145/3240167.3240226",
+  "found_via": "oskar-juhlin",
+  "status": "covered",
+  "batch": "aci"
+ },
+ {
+  "name": "Yoram Chisik",
+  "why": "Animals and the (Playable) City; participatory design with small animals and children (IDC 2017 workshop).",
+  "link": "https://doi.org/10.1145/3371049.3371068",
+  "found_via": "clara-mancini",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "Tampere dog sensing group (Heini Törnqvist, Anna Valldeoriola, Outi Vainio)",
+  "why": "Dog behaviour classification from collar/harness sensors, dry-electrode canine ECG; partner of Heli Väätäjä.",
+  "link": "https://doi.org/10.1145/3295598.3295602",
+  "found_via": "heli-vaataja",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "NC State guide dog analytics (Yifan Wu, Timothy Holder, Marc Foster)",
+  "why": "Many ACI 2019–2025 papers on IMU/ECG sensing and ML for guide dog selection; only one case study added.",
+  "link": "https://doi.org/10.1145/3702336.3702337",
+  "found_via": "alper-bozkurt",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "Lisa Brey / Megan McNames (choice and control in zoos)",
+  "why": "Systematic review of 'choice' and 'control' language in ACI (2025) and expert interviews on zoo choice provision.",
+  "link": "https://doi.org/10.1145/3768539.3768544",
+  "found_via": "christopher-flynn-martin",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "Katia Vega – DiabetiCAT (ACI 2025)",
+  "why": "Litter box plus smart water fountain monitoring glucose and hydration in diabetic cats; sibling of cirCAT and GluCAT.",
+  "link": "https://doi.org/10.1145/3768539.3768543",
+  "found_via": "shuyi-sun",
+  "status": "no_media",
+  "batch": "aci"
+ },
+ {
+  "name": "ZooJam series (ReptileJam 2021, Moon Jam 2023, Ape Jam 2025)",
+  "why": "Workshop papers by Fiona French et al.; covered by the ZooJamming report, not added individually.",
+  "link": "https://doi.org/10.1145/3768539.3768550",
+  "found_via": "fiona-french",
+  "status": "duplicate",
+  "batch": "aci"
+ },
+ {
   "name": "Synthetic Apiary II (Mediated Matter, 2020)",
   "why": "Follow-up to Synthetic Apiary; no stable project page found.",
   "link": "https://www.oxman.com/projects/synthetic-apiary",
@@ -708,6 +772,14 @@
   "why": "Designs habitat structures for birds; 'Are You Blocking Nonhuman Leadership?' (PDC 2026).",
   "link": "",
   "found_via": "seed",
+  "status": "covered",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Hanna Wirman",
+  "why": "Orangutan touch-screen games; ACI and game studies.",
+  "link": "",
+  "found_via": "sarah-webber",
   "status": "covered",
   "batch": "mth-hci"
  },
