@@ -1,0 +1,3269 @@
+{
+ "heli-vaataja": [
+  "interaction"
+ ],
+ "hanna-wirman": [
+  "interaction"
+ ],
+ "hill-hiroki-kobayashi": [
+  "interaction"
+ ],
+ "clint-zeagler": [
+  "interaction"
+ ],
+ "ceara-byrne": [
+  "interaction"
+ ],
+ "giancarlo-valentin": [
+  "interaction"
+ ],
+ "joelle-alcaidinho": [
+  "interaction"
+ ],
+ "sean-mealin": [
+  "interaction"
+ ],
+ "alper-bozkurt": [
+  "science"
+ ],
+ "david-l-roberts": [
+  "science"
+ ],
+ "ann-morrison": [
+  "interaction"
+ ],
+ "alexandre-rossi": [
+  "science"
+ ],
+ "jun-rekimoto": [
+  "interaction"
+ ],
+ "reinhard-gupfinger": [
+  "interaction",
+  "art"
+ ],
+ "stuart-gray": [
+  "interaction"
+ ],
+ "christopher-flynn-martin": [
+  "science"
+ ],
+ "steve-north": [
+  "interaction"
+ ],
+ "stacey-scott": [
+  "interaction"
+ ],
+ "luisa-ruge": [
+  "interaction"
+ ],
+ "yoav-golan": [
+  "science"
+ ],
+ "jennifer-cunha": [
+  "science"
+ ],
+ "shuyi-sun": [
+  "interaction"
+ ],
+ "charles-ramey": [
+  "interaction"
+ ],
+ "arianna-mastali": [
+  "interaction"
+ ],
+ "dirk-van-der-linden": [
+  "speculative"
+ ],
+ "aphrodite-andreou": [
+  "interaction"
+ ],
+ "mirjana-erceg": [
+  "science"
+ ],
+ "fangyuan-chang": [
+  "interaction"
+ ],
+ "oliver-bendel": [
+  "speculative"
+ ],
+ "dognosis": [
+  "science"
+ ],
+ "louis-liebenberg": [
+  "science"
+ ],
+ "edwin-blake": [
+  "interaction"
+ ],
+ "jennifer-mankoff": [
+  "interaction"
+ ],
+ "oskar-juhlin": [
+  "interaction"
+ ],
+ "alexandra-weilenmann": [
+  "interaction"
+ ],
+ "carman-neustaedter": [
+  "interaction"
+ ],
+ "sabrina-hauser": [
+  "interaction"
+ ],
+ "jessica-frawley": [
+  "interaction"
+ ],
+ "rui-trindade": [
+  "interaction"
+ ],
+ "shaun-lawson": [
+  "speculative"
+ ],
+ "florian-mueller": [
+  "interaction"
+ ],
+ "woohun-lee": [
+  "interaction"
+ ],
+ "ehud-sharlin": [
+  "interaction"
+ ],
+ "patrizia-paci": [
+  "interaction"
+ ],
+ "cassie-kresnye": [
+  "interaction"
+ ],
+ "hongyi-zhang": [
+  "interaction"
+ ],
+ "daniele-quercia": [
+  "interaction"
+ ],
+ "vilma-kankaanpaa": [
+  "interaction"
+ ],
+ "jiaqi-wang": [
+  "interaction"
+ ],
+ "ziming-wang": [
+  "speculative",
+  "interaction"
+ ],
+ "hochul-hwang": [
+  "interaction"
+ ],
+ "sena-cucumak": [
+  "interaction"
+ ],
+ "melanie-ford": [
+  "science"
+ ],
+ "john-fass": [
+  "speculative"
+ ],
+ "tim-landgraf": [
+  "science"
+ ],
+ "kevin-coffey": [
+  "science"
+ ],
+ "cleverpet": [
+  "product"
+ ],
+ "nestle-purina": [
+  "product"
+ ],
+ "halter": [
+  "product"
+ ],
+ "lely": [
+  "product"
+ ],
+ "beewise": [
+  "product"
+ ],
+ "open-acoustic-devices": [
+  "science"
+ ],
+ "benioff-ocean-science-laboratory": [
+  "science"
+ ],
+ "martin-wikelski": [
+  "science"
+ ],
+ "greg-marshall": [
+  "science"
+ ],
+ "nordic-society-for-invention-and-discovery": [
+  "speculative"
+ ],
+ "b-f-skinner": [
+  "science"
+ ],
+ "duane-rumbaugh": [
+  "science"
+ ],
+ "diana-reiss": [
+  "science"
+ ],
+ "orangutan-outreach": [
+  "science"
+ ],
+ "federico-rossano": [
+  "science"
+ ],
+ "fluentpet": [
+  "product"
+ ],
+ "dogtv": [
+  "product"
+ ],
+ "clemens-driessen": [
+  "speculative"
+ ],
+ "kars-alfrink": [
+  "interaction"
+ ],
+ "jihan-sherman": [
+  "art"
+ ],
+ "yixiong-wang": [
+  "material"
+ ],
+ "stephan-huber": [
+  "art"
+ ],
+ "neri-oxman": [
+  "material"
+ ],
+ "mediated-matter": [
+  "material"
+ ],
+ "oxman": [
+  "material"
+ ],
+ "alexandra-daisy-ginsberg": [
+  "art",
+  "speculative"
+ ],
+ "sascha-pohflepp": [
+  "speculative",
+  "art"
+ ],
+ "christina-agapakis": [
+  "science",
+  "art"
+ ],
+ "sissel-tolaas": [
+  "art",
+  "science"
+ ],
+ "oron-catts": [
+  "art"
+ ],
+ "ionat-zurr": [
+  "art"
+ ],
+ "tissue-culture-art-project": [
+  "art"
+ ],
+ "symbiotica": [
+  "art"
+ ],
+ "eduardo-kac": [
+  "art"
+ ],
+ "joe-davis": [
+  "art"
+ ],
+ "anna-dumitriu": [
+  "art"
+ ],
+ "spela-petric": [
+  "art"
+ ],
+ "maja-smrekar": [
+  "art"
+ ],
+ "marta-de-menezes": [
+  "art"
+ ],
+ "jalila-essaidi": [
+  "art",
+  "material"
+ ],
+ "heather-dewey-hagborg": [
+  "art"
+ ],
+ "amy-karle": [
+  "art"
+ ],
+ "brandon-ballengee": [
+  "art",
+  "science"
+ ],
+ "sasa-spacal": [
+  "art"
+ ],
+ "kuai-shen": [
+  "art"
+ ],
+ "paul-vanouse": [
+  "art"
+ ],
+ "sonja-baumel": [
+  "art"
+ ],
+ "ai-hasegawa": [
+  "speculative",
+  "art"
+ ],
+ "cohen-van-balen": [
+  "art",
+  "speculative"
+ ],
+ "pinar-yoldas": [
+  "art",
+  "speculative"
+ ],
+ "rachel-armstrong": [
+  "architecture",
+  "science"
+ ],
+ "philip-beesley": [
+  "architecture",
+  "art"
+ ],
+ "ecologicstudio": [
+  "architecture"
+ ],
+ "arup": [
+  "science"
+ ],
+ "the-living": [
+  "architecture"
+ ],
+ "achim-menges": [
+  "architecture"
+ ],
+ "icd-stuttgart": [
+  "architecture"
+ ],
+ "terreform-one": [
+  "architecture"
+ ],
+ "magnus-larsson": [
+  "architecture",
+  "speculative"
+ ],
+ "marcos-cruz": [
+  "architecture"
+ ],
+ "william-myers": [
+  "material"
+ ],
+ "ecovative": [
+  "material"
+ ],
+ "phil-ross": [
+  "material",
+  "art"
+ ],
+ "mycoworks": [
+  "material"
+ ],
+ "bolt-threads": [
+  "material"
+ ],
+ "mogu": [
+  "material"
+ ],
+ "biohm": [
+  "material"
+ ],
+ "blast-studio": [
+  "material"
+ ],
+ "maurizio-montalti": [
+  "material"
+ ],
+ "sebastian-cox": [
+  "material"
+ ],
+ "ninela-ivanova": [
+  "material"
+ ],
+ "jonas-edvard": [
+  "material"
+ ],
+ "klarenbeek-dros": [
+  "material"
+ ],
+ "pascal-leboucq": [
+  "material"
+ ],
+ "danielle-trofe": [
+  "material"
+ ],
+ "bob-hendrikx": [
+  "material"
+ ],
+ "dirk-hebel": [
+  "material"
+ ],
+ "block-research-group": [
+  "architecture"
+ ],
+ "stacey-kuznetsov": [
+  "interaction",
+  "material"
+ ],
+ "eldy-lazaro-vasquez": [
+  "interaction",
+  "material"
+ ],
+ "katia-vega": [
+  "interaction"
+ ],
+ "athanassia-athanassiou": [
+  "science"
+ ],
+ "andre-studart": [
+  "science"
+ ],
+ "suzanne-lee": [
+  "material",
+  "fashion"
+ ],
+ "modern-meadow": [
+  "material"
+ ],
+ "biomason": [
+  "material"
+ ],
+ "wil-srubar": [
+  "material",
+  "science"
+ ],
+ "prometheus-materials": [
+  "material"
+ ],
+ "henk-jonkers": [
+  "science"
+ ],
+ "colorifix": [
+  "material"
+ ],
+ "spiber": [
+  "material"
+ ],
+ "tom-ellis": [
+  "science"
+ ],
+ "philips-design": [
+  "speculative"
+ ],
+ "glowee": [
+  "material"
+ ],
+ "teresa-van-dongen": [
+  "material",
+  "art"
+ ],
+ "natsai-audrey-chieza": [
+  "material"
+ ],
+ "living-colour": [
+  "material"
+ ],
+ "jen-keane": [
+  "material"
+ ],
+ "aniela-hoitink": [
+  "material",
+  "fashion"
+ ],
+ "keel-labs": [
+  "material"
+ ],
+ "blond-bieber": [
+  "material"
+ ],
+ "charlotte-mccurdy": [
+  "material",
+  "fashion"
+ ],
+ "julia-lohmann": [
+  "material",
+  "art"
+ ],
+ "roya-aghighi": [
+  "material",
+  "speculative"
+ ],
+ "notpla": [
+  "material"
+ ],
+ "nienke-hoogvliet": [
+  "material",
+  "fashion"
+ ],
+ "living-things-studio": [
+  "speculative",
+  "art"
+ ],
+ "mike-thompson": [
+  "speculative"
+ ],
+ "space10": [
+  "speculative"
+ ],
+ "diana-scherer": [
+  "art",
+  "material"
+ ],
+ "gavin-munro": [
+  "material",
+  "product"
+ ],
+ "ferdinand-ludwig": [
+  "architecture"
+ ],
+ "khasi-communities": [
+  "architecture"
+ ],
+ "pooktre": [
+  "art"
+ ],
+ "axel-erlandson": [
+  "art"
+ ],
+ "zena-holloway": [
+  "material"
+ ],
+ "werner-aisslinger": [
+  "product",
+  "speculative"
+ ],
+ "arthur-wiechula": [
+  "architecture",
+  "speculative"
+ ],
+ "carole-collet": [
+  "material",
+  "speculative"
+ ],
+ "mit-design-lab": [
+  "product"
+ ],
+ "livin-studio": [
+  "food",
+  "speculative"
+ ],
+ "heather-barnett": [
+  "art"
+ ],
+ "theresa-schubert": [
+  "art"
+ ],
+ "aki-inomata": [
+  "art"
+ ],
+ "tarsh-bates": [
+  "art"
+ ],
+ "dmitry-morozov": [
+  "art"
+ ],
+ "bartaku": [
+  "art"
+ ],
+ "andy-gracie": [
+  "art"
+ ],
+ "adam-w-brown": [
+  "art"
+ ],
+ "anne-marie-maes": [
+  "art"
+ ],
+ "agnes-meyer-brandis": [
+  "art"
+ ],
+ "robert-root-bernstein": [
+  "science"
+ ],
+ "monika-pocrnjic": [
+  "art"
+ ],
+ "cyrus-clarke": [
+  "speculative",
+  "science"
+ ],
+ "monika-seyfried": [
+  "speculative",
+  "science"
+ ],
+ "ori-elisar": [
+  "art"
+ ],
+ "hideo-iwasaki": [
+  "science",
+  "art"
+ ],
+ "ursula-damm": [
+  "art"
+ ],
+ "mick-lorusso": [
+  "art"
+ ],
+ "artsciencebangalore": [
+  "art",
+  "science"
+ ],
+ "yuichi-oba": [
+  "science"
+ ],
+ "nelo-akamatsu": [
+  "art"
+ ],
+ "thomas-feuerstein": [
+  "art"
+ ],
+ "zoran-srdic-janezic": [
+  "art"
+ ],
+ "cody-lukas": [
+  "art"
+ ],
+ "helen-pynor": [
+  "art"
+ ],
+ "justine-emard": [
+  "art"
+ ],
+ "kathy-high": [
+  "art"
+ ],
+ "tuurm": [
+  "art",
+  "interaction"
+ ],
+ "art-oriente-objet": [
+  "art"
+ ],
+ "ken-rinaldo": [
+  "art"
+ ],
+ "garnet-hertz": [
+  "art",
+  "speculative"
+ ],
+ "david-bowen": [
+  "art"
+ ],
+ "guto-nobrega": [
+  "art"
+ ],
+ "ken-goldberg": [
+  "science",
+  "art"
+ ],
+ "celeste-boursier-mougenot": [
+  "art"
+ ],
+ "laura-beloff": [
+  "art"
+ ],
+ "tosca-teran": [
+  "art"
+ ],
+ "tarun-nayar": [
+  "art"
+ ],
+ "studio-diip": [
+  "art"
+ ],
+ "susana-soares": [
+  "speculative"
+ ],
+ "jasmine-lu": [
+  "interaction"
+ ],
+ "pedro-lopes": [
+  "interaction"
+ ],
+ "pat-pataranutaporn": [
+  "interaction",
+  "science"
+ ],
+ "harpreet-sareen": [
+  "interaction"
+ ],
+ "yasuaki-kakehi": [
+  "interaction",
+  "art"
+ ],
+ "ivan-poupyrev": [
+  "interaction"
+ ],
+ "raphael-kim": [
+  "interaction"
+ ],
+ "elvin-karana": [
+  "material"
+ ],
+ "jiwei-zhou": [
+  "material"
+ ],
+ "mirela-alistar": [
+  "interaction"
+ ],
+ "fiona-bell": [
+  "interaction"
+ ],
+ "netta-ofer": [
+  "interaction"
+ ],
+ "nadia-campo-woytuk": [
+  "interaction"
+ ],
+ "ingmar-riedel-kruse": [
+  "science"
+ ],
+ "foad-hamidi": [
+  "interaction"
+ ],
+ "timothy-merritt": [
+  "interaction"
+ ],
+ "donald-degraen": [
+  "interaction"
+ ],
+ "jodi-forlizzi": [
+  "interaction"
+ ],
+ "akira-wakita": [
+  "interaction"
+ ],
+ "vito-gentile": [
+  "interaction"
+ ],
+ "leonardo-angelini": [
+  "interaction"
+ ],
+ "helene-steiner": [
+  "speculative",
+  "material"
+ ],
+ "eleni-stavrinidou": [
+  "science"
+ ],
+ "michael-strano": [
+  "science"
+ ],
+ "xiaodong-chen": [
+  "science"
+ ],
+ "fabienne-felder": [
+  "material"
+ ],
+ "paolo-bombelli": [
+  "science"
+ ],
+ "plant-e": [
+  "science"
+ ],
+ "josiah-hester": [
+  "science"
+ ],
+ "christopher-voigt": [
+  "science"
+ ],
+ "lining-yao": [
+  "material"
+ ],
+ "xuanhe-zhao": [
+  "science"
+ ],
+ "christa-sommerer-laurent-mignonneau": [
+  "art"
+ ],
+ "scenocosme": [
+  "art"
+ ],
+ "andrew-adamatzky": [
+  "science"
+ ],
+ "jeff-jones": [
+  "science"
+ ],
+ "ella-gale": [
+  "science"
+ ],
+ "toshiyuki-nakagaki": [
+  "science"
+ ],
+ "atsushi-tero": [
+  "science"
+ ],
+ "audrey-dussutour": [
+  "science"
+ ],
+ "karen-alim": [
+  "science"
+ ],
+ "soichiro-tsuda": [
+  "science"
+ ],
+ "rob-shepherd": [
+  "science"
+ ],
+ "anand-mishra": [
+  "science"
+ ],
+ "martin-kaltenbrunner": [
+  "science"
+ ],
+ "yu-fukasawa": [
+  "science"
+ ],
+ "john-larocco": [
+  "science"
+ ],
+ "sam-kriegman": [
+  "science"
+ ],
+ "josh-bongard": [
+  "science"
+ ],
+ "michael-levin": [
+  "science"
+ ],
+ "douglas-blackiston": [
+  "science"
+ ],
+ "gizem-gumuskaya": [
+  "science",
+  "architecture"
+ ],
+ "shoji-takeuchi": [
+  "science"
+ ],
+ "kit-parker": [
+  "science"
+ ],
+ "john-dabiri": [
+  "science"
+ ],
+ "nicole-xu": [
+  "science"
+ ],
+ "rashid-bashir": [
+  "science"
+ ],
+ "taher-saif": [
+  "science"
+ ],
+ "ritu-raman": [
+  "science"
+ ],
+ "metin-sitti": [
+  "science"
+ ],
+ "victoria-webster-wood": [
+  "science"
+ ],
+ "hirotaka-sato": [
+  "science"
+ ],
+ "kenjiro-fukuda": [
+  "science"
+ ],
+ "daniel-preston": [
+  "science"
+ ],
+ "sawyer-fuller": [
+  "science"
+ ],
+ "barani-raman": [
+  "science"
+ ],
+ "ryohei-kanzaki": [
+  "science"
+ ],
+ "backyard-brains": [
+  "science"
+ ],
+ "heiko-hamann": [
+  "science"
+ ],
+ "barbara-mazzolai": [
+  "science"
+ ],
+ "leonard-adleman": [
+  "science"
+ ],
+ "lulu-qian": [
+  "science"
+ ],
+ "erik-winfree": [
+  "science"
+ ],
+ "damien-woods": [
+  "science"
+ ],
+ "paul-rothemund": [
+  "science"
+ ],
+ "george-church": [
+  "science"
+ ],
+ "seth-shipman": [
+  "science"
+ ],
+ "nick-goldman": [
+  "science"
+ ],
+ "molecular-information-systems-lab": [
+  "science"
+ ],
+ "luis-ceze": [
+  "science"
+ ],
+ "karin-strauss": [
+  "science"
+ ],
+ "yaniv-erlich": [
+  "science"
+ ],
+ "robert-grass": [
+  "science"
+ ],
+ "catalog": [
+  "science"
+ ],
+ "biomemory": [
+  "science"
+ ],
+ "michael-elowitz": [
+  "science"
+ ],
+ "james-collins": [
+  "science"
+ ],
+ "yannick-rondelez": [
+  "science"
+ ],
+ "milan-stojanovic": [
+  "science"
+ ],
+ "albert-keung": [
+  "science"
+ ],
+ "ioannis-ieropoulos": [
+  "science"
+ ],
+ "thomas-boland": [
+  "science"
+ ],
+ "anthony-atala": [
+  "science"
+ ],
+ "jennifer-lewis": [
+  "science"
+ ],
+ "adam-feinberg": [
+  "science"
+ ],
+ "jordan-miller": [
+  "science"
+ ],
+ "tal-dvir": [
+  "science"
+ ],
+ "monica-laronda": [
+  "science"
+ ],
+ "michael-mcalpine": [
+  "science"
+ ],
+ "lawrence-bonassar": [
+  "science"
+ ],
+ "riccardo-levato": [
+  "science"
+ ],
+ "organovo": [
+  "science"
+ ],
+ "cellink": [
+  "science"
+ ],
+ "aspect-biosystems": [
+  "science"
+ ],
+ "prellis-biologics": [
+  "science"
+ ],
+ "aleph-farms": [
+  "science",
+  "food"
+ ],
+ "novameat": [
+  "science",
+  "food"
+ ],
+ "redefine-meat": [
+  "science",
+  "food"
+ ],
+ "3dbio-therapeutics": [
+  "science"
+ ],
+ "andrew-pelling": [
+  "science"
+ ],
+ "daniel-wangpraseurt": [
+  "science"
+ ],
+ "reef-design-lab": [
+  "architecture"
+ ],
+ "rrreefs": [
+  "architecture"
+ ],
+ "kunal-masania": [
+  "material"
+ ],
+ "andrea-shin-ling": [
+  "architecture",
+  "material"
+ ],
+ "chao-zhong": [
+  "science"
+ ],
+ "aleksi-vesaluoma": [
+  "material"
+ ],
+ "julian-melchiorri": [
+  "material"
+ ],
+ "light-bio": [
+  "science"
+ ],
+ "karen-sarkisyan": [
+  "science"
+ ],
+ "glowing-plant": [
+  "science"
+ ],
+ "the-odin": [
+  "science"
+ ],
+ "amino-labs": [
+  "science",
+  "product"
+ ],
+ "bento-lab": [
+  "science",
+  "product"
+ ],
+ "genspace": [
+  "science"
+ ],
+ "biorealize": [
+  "product",
+  "science"
+ ],
+ "orkan-telhan": [
+  "speculative",
+  "art"
+ ],
+ "ginkgo-bioworks": [
+  "science",
+  "product"
+ ],
+ "living-ink": [
+  "material"
+ ],
+ "huue": [
+  "material"
+ ],
+ "pili": [
+  "material"
+ ],
+ "amsilk": [
+  "material"
+ ],
+ "bcl": [
+  "art"
+ ],
+ "agi-haines": [
+  "speculative"
+ ],
+ "burton-nitta": [
+  "speculative"
+ ],
+ "dunne-raby": [
+  "speculative"
+ ],
+ "diemut-strebe": [
+  "art"
+ ],
+ "gina-czarnecki": [
+  "art"
+ ],
+ "amy-congdon": [
+  "material"
+ ],
+ "mary-maggic": [
+  "art"
+ ],
+ "center-for-genomic-gastronomy": [
+  "food",
+  "art"
+ ],
+ "modern-synthesis": [
+  "material"
+ ],
+ "post-carbon-lab": [
+  "material",
+  "fashion"
+ ],
+ "impossible-foods": [
+  "science",
+  "food"
+ ],
+ "yorktown-technologies": [
+  "science",
+  "product"
+ ],
+ "elise-elsacker": [
+  "architecture",
+  "material"
+ ],
+ "perfect-day": [
+  "science",
+  "food"
+ ],
+ "zoe-breed": [
+  "interaction"
+ ],
+ "alessandro-bozzon": [
+  "interaction"
+ ],
+ "katherine-w-song": [
+  "interaction",
+  "material"
+ ],
+ "bahareh-barati": [
+  "material",
+  "interaction"
+ ],
+ "yuta-ikeya": [
+  "speculative"
+ ],
+ "dan-vy-vu": [
+  "material"
+ ],
+ "julie-freeman": [
+  "art"
+ ],
+ "michel-maharbiz": [
+  "science"
+ ],
+ "sylvain-martel": [
+  "science"
+ ],
+ "jeffrey-tabor": [
+  "science"
+ ],
+ "allison-kudla": [
+  "art"
+ ],
+ "swamp": [
+  "art"
+ ],
+ "ivan-henriques": [
+  "art"
+ ],
+ "interspecifics": [
+  "art"
+ ],
+ "gunes-helene-isitan": [
+  "art"
+ ],
+ "carlos-castellanos": [
+  "art"
+ ],
+ "johnny-diblasi": [
+  "art"
+ ],
+ "gilberto-esparza": [
+  "art"
+ ],
+ "marin-sawa": [
+  "science",
+  "material"
+ ],
+ "iaac": [
+  "architecture"
+ ],
+ "maurizio-rossi": [
+  "science"
+ ],
+ "laura-grebenstein": [
+  "science"
+ ],
+ "tim-dobbs": [
+  "art"
+ ],
+ "seung-ah-lee": [
+  "interaction",
+  "science"
+ ],
+ "kyungwon-lee": [
+  "art",
+  "interaction"
+ ],
+ "nova-innova": [
+  "product"
+ ],
+ "dominique-chen": [
+  "interaction"
+ ],
+ "jun-yao": [
+  "science"
+ ],
+ "igem-paris-bettencourt": [
+  "science"
+ ],
+ "where-dogs-run": [
+  "art"
+ ],
+ "martin-pumera": [
+  "science"
+ ],
+ "sema-dumanli": [
+  "science"
+ ],
+ "valentin-postl": [
+  "interaction",
+  "art"
+ ],
+ "philip-wijesinghe": [
+  "science"
+ ],
+ "mengyao-guo": [
+  "interaction"
+ ],
+ "alexandra-teixeira-riggs": [
+  "speculative"
+ ],
+ "mathieu-lehanneur": [
+  "product"
+ ],
+ "tobie-kerridge": [
+  "speculative"
+ ],
+ "james-king": [
+  "speculative"
+ ],
+ "elio-caccavale": [
+  "speculative"
+ ],
+ "agata-jaworska": [
+  "speculative"
+ ],
+ "michael-burton": [
+  "speculative"
+ ],
+ "auger-loizeau": [
+  "speculative"
+ ],
+ "fernando-laposse": [
+  "material"
+ ],
+ "nervous-system": [
+  "product"
+ ],
+ "sam-van-aken": [
+  "art"
+ ],
+ "jae-rhim-lee": [
+  "art",
+  "material"
+ ],
+ "dna-design-and-architecture": [
+  "architecture"
+ ],
+ "suomi-koivisto": [
+  "architecture"
+ ],
+ "scape-landscape-architecture": [
+  "architecture"
+ ],
+ "parsons-charlesworth": [
+  "speculative"
+ ],
+ "johanna-seelemann": [
+  "product",
+  "speculative"
+ ],
+ "ant-farm": [
+  "architecture",
+  "speculative"
+ ],
+ "corentin-mahieu": [
+  "material"
+ ],
+ "marlene-huissoud": [
+  "material",
+  "art"
+ ],
+ "cesar-rodriguez-garavito": [
+  "speculative"
+ ],
+ "tomas-libertiny": [
+  "art"
+ ],
+ "carlos-peralta": [
+  "speculative"
+ ],
+ "ideo": [
+  "product"
+ ],
+ "vincent-fournier": [
+  "art"
+ ],
+ "christian-kerrigan": [
+  "art"
+ ],
+ "shamees-aden": [
+  "material",
+  "fashion"
+ ],
+ "troika": [
+  "speculative"
+ ],
+ "clive-van-heerden": [
+  "speculative"
+ ],
+ "jenny-sabin": [
+  "architecture",
+  "material"
+ ],
+ "ann-kristin-abel": [
+  "speculative"
+ ],
+ "david-benque": [
+  "speculative"
+ ],
+ "koby-barhard": [
+  "speculative"
+ ],
+ "mae-ling-lokko": [
+  "material",
+  "architecture"
+ ],
+ "kristel-peters": [
+  "fashion",
+  "material"
+ ],
+ "the-mycological-twist": [
+  "art"
+ ],
+ "joris-laarman": [
+  "product"
+ ],
+ "hongjie-yang": [
+  "art"
+ ],
+ "gabriela-munguia": [
+  "art"
+ ],
+ "jen-bervin": [
+  "art"
+ ],
+ "colleen-flanigan": [
+  "art"
+ ],
+ "next-nature-network": [
+  "speculative"
+ ],
+ "eduardo-navarro": [
+  "art"
+ ],
+ "patricia-dominguez": [
+  "art"
+ ],
+ "rachel-mayeri": [
+  "art"
+ ],
+ "francois-joseph-lapointe": [
+  "science",
+  "art"
+ ],
+ "vivian-xu": [
+  "art"
+ ],
+ "nigel-helyer": [
+  "art"
+ ],
+ "tagny-duff": [
+  "art"
+ ],
+ "orlan": [
+  "art"
+ ],
+ "christian-brems": [
+  "art"
+ ],
+ "antti-tenetz": [
+  "art"
+ ],
+ "maeid": [
+  "architecture",
+  "art"
+ ],
+ "doxiadis-plus": [
+  "architecture"
+ ],
+ "rasa-smite-raitis-smits": [
+  "art"
+ ],
+ "nomeda-gediminas-urbonas": [
+  "art"
+ ],
+ "sybille-neumeyer": [
+  "art"
+ ],
+ "werewool": [
+  "material",
+  "fashion"
+ ],
+ "tomtex": [
+  "material"
+ ],
+ "polybion": [
+  "material"
+ ],
+ "malai": [
+  "material"
+ ],
+ "lucy-hughes": [
+  "material",
+  "product"
+ ],
+ "elissa-brunato": [
+  "material",
+  "fashion"
+ ],
+ "tandem-repeat": [
+  "material"
+ ],
+ "tina-gorjanc": [
+  "speculative",
+  "fashion"
+ ],
+ "jonathan-dessi-olive": [
+  "architecture",
+  "material"
+ ],
+ "natalie-alima": [
+  "architecture",
+  "material"
+ ],
+ "carolina-de-lara": [
+  "material",
+  "fashion"
+ ],
+ "perla-armaly": [
+  "architecture",
+  "material"
+ ],
+ "aurelie-mosse": [
+  "material"
+ ],
+ "rasa-weber": [
+  "architecture",
+  "material"
+ ],
+ "basse-stittgen": [
+  "material"
+ ],
+ "tamara-orjola": [
+  "material"
+ ],
+ "madalina-nicolae": [
+  "interaction",
+  "material"
+ ],
+ "arne-hendriks": [
+  "speculative"
+ ],
+ "nikoletta-karastathi": [
+  "material",
+  "fashion"
+ ],
+ "julian-abraham": [
+  "art"
+ ],
+ "kevin-blackistone": [
+  "art"
+ ],
+ "zeefier": [
+  "material",
+  "fashion"
+ ],
+ "shijia-huang": [
+  "speculative"
+ ],
+ "peter-kahn": [
+  "science"
+ ],
+ "masashi-soga": [
+  "science"
+ ],
+ "roger-ulrich": [
+  "science",
+  "architecture"
+ ],
+ "rachel-stephen-kaplan": [
+  "science"
+ ],
+ "edward-o-wilson": [
+  "science"
+ ],
+ "stephen-kellert": [
+  "science",
+  "architecture"
+ ],
+ "richard-louv": [
+  "science"
+ ],
+ "f-stephan-mayer": [
+  "science"
+ ],
+ "miles-richardson": [
+  "science"
+ ],
+ "michael-d-jones": [
+  "interaction"
+ ],
+ "jonna-hakkila": [
+  "interaction"
+ ],
+ "jennifer-preece": [
+  "interaction"
+ ],
+ "anne-bowser": [
+  "science"
+ ],
+ "andrea-wiggins": [
+  "science"
+ ],
+ "rick-bonney": [
+  "science"
+ ],
+ "jakob-von-uexkull": [
+  "science"
+ ],
+ "ed-yong": [
+  "science"
+ ],
+ "thomas-nagel": [
+  "speculative"
+ ],
+ "bryan-pijanowski": [
+  "science"
+ ],
+ "oscar-tomico": [
+  "interaction"
+ ],
+ "jon-froehlich": [
+  "interaction"
+ ],
+ "margot-brereton": [
+  "interaction"
+ ],
+ "ferran-altarriba-bertran": [
+  "interaction"
+ ],
+ "xiaoge-wang": [
+  "interaction"
+ ],
+ "marta-galvao-ferreira": [
+  "interaction"
+ ],
+ "seekrtech": [
+  "interaction"
+ ],
+ "katie-paterson": [
+  "art"
+ ],
+ "hildegard-westerkamp": [
+  "art"
+ ],
+ "explore-org": [
+  "science"
+ ],
+ "roger-payne": [
+  "science"
+ ],
+ "yvonne-rogers": [
+  "interaction"
+ ],
+ "keri-facer": [
+  "interaction"
+ ],
+ "eric-klopfer": [
+  "interaction"
+ ],
+ "william-odom": [
+  "interaction"
+ ],
+ "jon-back": [
+  "interaction"
+ ],
+ "groundspeak": [
+  "interaction"
+ ],
+ "niantic": [
+  "interaction"
+ ],
+ "peakfinder": [
+  "interaction"
+ ],
+ "bluebrain": [
+  "art"
+ ],
+ "janet-cardiff": [
+  "art"
+ ],
+ "andrew-quitmeyer": [
+  "science"
+ ],
+ "inaturalist": [
+  "science"
+ ],
+ "national-audubon-society": [
+  "science"
+ ],
+ "zooniverse": [
+  "science"
+ ],
+ "noirlab": [
+  "science"
+ ],
+ "budburst": [
+  "science"
+ ],
+ "plantnet": [
+  "science"
+ ],
+ "peter-belhumeur": [
+  "science"
+ ],
+ "mosquito-alert": [
+  "science"
+ ],
+ "california-academy-of-sciences": [
+  "science"
+ ],
+ "sam-droege": [
+  "science"
+ ],
+ "wildlife-insights": [
+  "science"
+ ],
+ "mbari": [
+  "science"
+ ],
+ "grow-observatory": [
+  "science"
+ ],
+ "safecast": [
+  "science"
+ ],
+ "public-lab": [
+  "science"
+ ],
+ "fab-lab-barcelona": [
+  "product"
+ ],
+ "sensor-community": [
+  "science"
+ ],
+ "farmbot": [
+  "product"
+ ],
+ "click-and-grow": [
+  "product"
+ ],
+ "parrot": [
+  "product"
+ ],
+ "mu-design": [
+  "product"
+ ],
+ "daniela-rus": [
+  "science"
+ ],
+ "caleb-harper": [
+  "science"
+ ],
+ "hanuma-teja-maddali": [
+  "interaction"
+ ],
+ "ilhan-aslan": [
+  "interaction"
+ ],
+ "plantix": [
+  "science"
+ ],
+ "neil-harbisson": [
+  "art"
+ ],
+ "moon-ribas": [
+  "art"
+ ],
+ "cyborg-nest": [
+  "product"
+ ],
+ "peter-koenig": [
+  "science"
+ ],
+ "marcus-maeder": [
+  "art"
+ ],
+ "lisa-townsend": [
+  "interaction"
+ ],
+ "thomas-thwaites": [
+  "speculative"
+ ],
+ "eric-paulos": [
+  "interaction"
+ ],
+ "cmu-create-lab": [
+  "interaction"
+ ],
+ "eleni-margariti": [
+  "interaction"
+ ],
+ "michael-pinsky": [
+  "art"
+ ],
+ "ed-hawkins": [
+  "science"
+ ],
+ "climate-clock": [
+  "art"
+ ],
+ "daniel-crawford": [
+  "art"
+ ],
+ "andrea-polli": [
+  "art"
+ ],
+ "hehe": [
+  "art"
+ ],
+ "plume-labs": [
+  "product"
+ ],
+ "julian-oliver": [
+  "art"
+ ],
+ "nathalie-miebach": [
+  "art"
+ ],
+ "ecosia": [
+  "product"
+ ],
+ "world-resources-institute": [
+  "science"
+ ],
+ "mit-senseable-city-lab": [
+  "architecture"
+ ],
+ "viegas-wattenberg": [
+  "art",
+  "interaction"
+ ],
+ "cameron-beccario": [
+  "interaction"
+ ],
+ "shinichi-takemura": [
+  "interaction"
+ ],
+ "atmoph": [
+  "product"
+ ],
+ "coelux": [
+  "material"
+ ],
+ "teamlab": [
+  "art"
+ ],
+ "refik-anadol": [
+  "art"
+ ],
+ "random-international": [
+  "art"
+ ],
+ "tracy-fullerton": [
+  "art"
+ ],
+ "ed-key": [
+  "art"
+ ],
+ "thatgamecompany": [
+  "art"
+ ],
+ "strange-loop-games": [
+  "art"
+ ],
+ "ustwo-games": [
+  "art"
+ ],
+ "free-lives": [
+  "art"
+ ],
+ "e-line-media": [
+  "art"
+ ],
+ "greener-games": [
+  "art"
+ ],
+ "wevr": [
+  "art"
+ ],
+ "matthew-browning": [
+  "science"
+ ],
+ "gardens-by-the-bay": [
+  "architecture"
+ ],
+ "biosphere-2": [
+  "science"
+ ],
+ "haru-ji-graham-wakefield": [
+  "art"
+ ],
+ "jon-mccormack": [
+  "art"
+ ],
+ "joan-sol-roo": [
+  "interaction"
+ ],
+ "lynette-wallworth": [
+  "art"
+ ],
+ "studio-drift": [
+  "art"
+ ],
+ "theo-jansen": [
+  "art"
+ ],
+ "stephan-wensveen": [
+  "product"
+ ],
+ "ebba-ahlqvist": [
+  "interaction"
+ ],
+ "rachel-ann-arredondo": [
+  "material"
+ ],
+ "andrea-bandoni": [
+  "material"
+ ],
+ "riel-bessai": [
+  "speculative"
+ ],
+ "fadi-botros": [
+  "interaction"
+ ],
+ "jacqueline-chien": [
+  "interaction"
+ ],
+ "ashley-colley": [
+  "interaction"
+ ],
+ "till-fastnacht": [
+  "art"
+ ],
+ "fernando-galdon": [
+  "material"
+ ],
+ "bingjie-gao": [
+  "interaction"
+ ],
+ "gabrielle-hong": [
+  "interaction"
+ ],
+ "youyang-hu": [
+  "interaction"
+ ],
+ "leonardo-hummel": [
+  "material"
+ ],
+ "sungjae-hwang": [
+  "interaction"
+ ],
+ "naohiro-isokawa": [
+  "interaction"
+ ],
+ "riku-iwasaki": [
+  "material"
+ ],
+ "yoichi-ochiai": [
+  "art",
+  "interaction"
+ ],
+ "sylvia-janicki": [
+  "speculative"
+ ],
+ "michi-kanda": [
+  "interaction"
+ ],
+ "haruka-kasuga": [
+  "science"
+ ],
+ "donghyeon-ko": [
+  "interaction"
+ ],
+ "satoshi-kuribayashi": [
+  "interaction"
+ ],
+ "qiuyu-lu": [
+  "material"
+ ],
+ "tyler-luong": [
+  "science"
+ ],
+ "julia-moser": [
+  "fashion",
+  "material"
+ ],
+ "hye-yeon-nam": [
+  "art"
+ ],
+ "danielle-ooms": [
+  "material"
+ ],
+ "raul-pereira-pinto": [
+  "speculative"
+ ],
+ "serena-pollastri": [
+  "speculative"
+ ],
+ "aidan-puse": [
+  "interaction"
+ ],
+ "silvia-ruzanka": [
+  "art"
+ ],
+ "elena-sabinson": [
+  "material"
+ ],
+ "takumi-saeki": [
+  "art"
+ ],
+ "olivia-seow": [
+  "interaction"
+ ],
+ "fei-shieh": [
+  "interaction"
+ ],
+ "yuichiro-takeuchi": [
+  "interaction"
+ ],
+ "yuga-tsukuda": [
+  "interaction"
+ ],
+ "peter-washington": [
+  "science",
+  "interaction"
+ ],
+ "xinquan-wen": [
+  "interaction"
+ ],
+ "siyu-yao": [
+  "art"
+ ],
+ "ying-zhou": [
+  "interaction"
+ ],
+ "madlen-kneile": [
+  "interaction"
+ ],
+ "judith-dorrenbacher": [
+  "interaction"
+ ],
+ "marc-hassenzahl": [
+  "interaction"
+ ],
+ "matthias-laschke": [
+  "interaction"
+ ],
+ "raune-frankjaer": [
+  "interaction",
+  "fashion"
+ ],
+ "tega-brain": [
+  "art",
+  "science"
+ ],
+ "patricia-flanagan": [
+  "art",
+  "fashion"
+ ],
+ "interactive-architecture-lab": [
+  "architecture",
+  "interaction"
+ ],
+ "margrete-lodahl-rolighed": [
+  "interaction"
+ ],
+ "jaz-hee-jeong-choi": [
+  "interaction"
+ ],
+ "marketa-dolejsova": [
+  "speculative",
+  "food"
+ ],
+ "patricia-ciobanu": [
+  "interaction"
+ ],
+ "dean-brown": [
+  "interaction"
+ ],
+ "judith-doyle": [
+  "art"
+ ],
+ "studio-roosegaarde": [
+  "art"
+ ],
+ "resorts-world-sentosa": [
+  "science"
+ ],
+ "prophecy-sun": [
+  "art"
+ ],
+ "gerd-geleff-nielsen": [
+  "speculative"
+ ],
+ "geertje-slingerland": [
+  "interaction"
+ ],
+ "anna-madeleine-raupach": [
+  "art"
+ ],
+ "cesar-and-lois": [
+  "art"
+ ],
+ "ferne-edwards": [
+  "science"
+ ],
+ "johanna-rotko": [
+  "art"
+ ],
+ "jixiang-jiang": [
+  "speculative"
+ ],
+ "liz-edwards": [
+  "interaction"
+ ],
+ "maya-livio": [
+  "art"
+ ],
+ "mellissa-monsoon": [
+  "art"
+ ],
+ "mileece": [
+  "art"
+ ],
+ "rewa-wright": [
+  "art"
+ ],
+ "stijn-ossevoort": [
+  "interaction",
+  "fashion"
+ ],
+ "adrienne-adar": [
+  "art"
+ ],
+ "asa-river-jackson": [
+  "product"
+ ],
+ "circa": [
+  "product"
+ ],
+ "david-oreilly": [
+  "art"
+ ],
+ "deep-time-walk": [
+  "product"
+ ],
+ "francesca-valsecchi": [
+  "speculative"
+ ],
+ "giorgia-lupi": [
+  "interaction"
+ ],
+ "giulia-tomasello": [
+  "material",
+  "product"
+ ],
+ "herobeat-studios": [
+  "art"
+ ],
+ "jane-tingley": [
+  "art"
+ ],
+ "joaquin-fargas": [
+  "art",
+  "science"
+ ],
+ "marine-zorea": [
+  "interaction"
+ ],
+ "matilde-boelhouwer": [
+  "product"
+ ],
+ "michaela-honauer": [
+  "interaction",
+  "fashion"
+ ],
+ "mischer-traxler": [
+  "art"
+ ],
+ "miya-masaoka": [
+  "art"
+ ],
+ "petpace": [
+  "product"
+ ],
+ "scott-thrift": [
+  "product"
+ ],
+ "thijs-biersteker": [
+  "art"
+ ],
+ "zhenchi-lai": [
+  "interaction"
+ ],
+ "zoe-qi-jing-li": [
+  "art"
+ ],
+ "tomas-saraceno": [
+  "art",
+  "architecture"
+ ],
+ "pierre-huyghe": [
+  "art"
+ ],
+ "hubert-duprat": [
+  "art"
+ ],
+ "aganetha-dyck": [
+  "art"
+ ],
+ "ren-ri": [
+  "art"
+ ],
+ "jakob-kudsk-steensen": [
+  "art"
+ ],
+ "ursula-biemann": [
+  "art"
+ ],
+ "paulo-tavares": [
+  "architecture"
+ ],
+ "jenna-sutela": [
+  "art"
+ ],
+ "sonia-levy": [
+  "art"
+ ],
+ "ian-cheng": [
+  "art"
+ ],
+ "shimabuku": [
+  "art"
+ ],
+ "bernie-krause": [
+  "art",
+  "science"
+ ],
+ "united-visual-artists": [
+  "art"
+ ],
+ "david-rothenberg": [
+  "art"
+ ],
+ "jana-winderen": [
+  "art"
+ ],
+ "marcus-coates": [
+  "art"
+ ],
+ "alex-metcalf": [
+  "art"
+ ],
+ "data-garden": [
+  "product",
+  "art"
+ ],
+ "damanhur": [
+  "product"
+ ],
+ "botanicalls": [
+  "interaction"
+ ],
+ "wolfgang-buttress": [
+  "art"
+ ],
+ "ackroyd-harvey": [
+  "art"
+ ],
+ "olafur-eliasson": [
+  "art"
+ ],
+ "kasia-molga": [
+  "art"
+ ],
+ "marshmallow-laser-feast": [
+  "art"
+ ],
+ "new-reality-company": [
+  "art"
+ ],
+ "polymorf": [
+  "art"
+ ],
+ "max-rheiner": [
+  "interaction",
+  "art"
+ ],
+ "superflux": [
+  "speculative"
+ ],
+ "chris-woebken": [
+  "speculative"
+ ],
+ "kenichi-okada": [
+  "speculative"
+ ],
+ "terra0": [
+  "speculative",
+  "art"
+ ],
+ "primavera-de-filippi": [
+  "speculative",
+  "art"
+ ],
+ "forensic-architecture": [
+  "architecture"
+ ],
+ "andres-jaque": [
+  "architecture"
+ ],
+ "bruno-latour": [
+  "speculative"
+ ],
+ "zkm-karlsruhe": [
+  "art"
+ ],
+ "embassy-of-the-north-sea": [
+  "speculative"
+ ],
+ "het-nieuwe-instituut": [
+  "speculative"
+ ],
+ "anna-tsing": [
+  "speculative"
+ ],
+ "feifei-zhou": [
+  "art",
+  "architecture"
+ ],
+ "natalie-jeremijenko": [
+  "art",
+  "science"
+ ],
+ "beatriz-da-costa": [
+  "art",
+  "science"
+ ],
+ "interspecies-internet": [
+  "science"
+ ],
+ "earth-species-project": [
+  "science"
+ ],
+ "project-ceti": [
+  "science"
+ ],
+ "wild-me": [
+  "science"
+ ],
+ "rainforest-connection": [
+  "science"
+ ],
+ "city-of-melbourne": [
+  "science"
+ ],
+ "stefan-kahl": [
+  "science"
+ ],
+ "cornell-lab-of-ornithology": [
+  "science"
+ ],
+ "ron-wakkary": [
+  "interaction",
+  "speculative"
+ ],
+ "doenja-oogjes": [
+  "interaction",
+  "speculative"
+ ],
+ "tiffany-wun": [
+  "interaction"
+ ],
+ "elisa-giaccardi": [
+  "interaction"
+ ],
+ "johan-redstrom": [
+  "interaction",
+  "speculative"
+ ],
+ "nazli-cila": [
+  "interaction"
+ ],
+ "iohanna-nicenboim": [
+  "interaction"
+ ],
+ "laura-forlano": [
+  "speculative",
+  "interaction"
+ ],
+ "paul-coulton": [
+  "speculative",
+  "interaction"
+ ],
+ "joseph-lindley": [
+  "speculative"
+ ],
+ "aykut-coskun": [
+  "interaction"
+ ],
+ "christopher-frauenberger": [
+  "interaction"
+ ],
+ "shaowen-bardzell": [
+  "interaction"
+ ],
+ "nancy-smith": [
+  "interaction"
+ ],
+ "cyn-liu": [
+  "interaction"
+ ],
+ "heidi-biggs": [
+  "speculative"
+ ],
+ "carl-disalvo": [
+  "interaction",
+  "speculative"
+ ],
+ "anne-galloway": [
+  "speculative"
+ ],
+ "bert-de-roo": [
+  "interaction"
+ ],
+ "eva-eriksson": [
+  "interaction"
+ ],
+ "donna-haraway": [
+  "speculative"
+ ],
+ "arturo-escobar": [
+  "speculative"
+ ],
+ "tony-fry": [
+  "speculative"
+ ],
+ "jane-bennett": [
+  "speculative"
+ ],
+ "jennifer-gabrys": [
+  "speculative"
+ ],
+ "martin-tironi": [
+  "speculative"
+ ],
+ "jen-liu": [
+  "interaction"
+ ],
+ "rachel-clarke": [
+  "interaction"
+ ],
+ "sara-heitlinger": [
+  "interaction"
+ ],
+ "michelle-westerlaken": [
+  "interaction"
+ ],
+ "li-jonsson": [
+  "speculative"
+ ],
+ "tau-ulv-lenskjold": [
+  "speculative"
+ ],
+ "marcus-foth": [
+  "interaction"
+ ],
+ "martin-tomitsch": [
+  "interaction"
+ ],
+ "michael-haldrup": [
+  "speculative"
+ ],
+ "clara-mancini": [
+  "interaction"
+ ],
+ "charlotte-robinson": [
+  "interaction"
+ ],
+ "ilyena-hirskyj-douglas": [
+  "interaction"
+ ],
+ "roosa-piitulainen": [
+  "interaction"
+ ],
+ "rebecca-kleinberger": [
+  "interaction"
+ ],
+ "fiona-french": [
+  "interaction"
+ ],
+ "sarah-webber": [
+  "interaction"
+ ],
+ "marcus-carter": [
+  "interaction"
+ ],
+ "adrian-david-cheok": [
+  "interaction"
+ ],
+ "thad-starner": [
+  "interaction"
+ ],
+ "denise-herzing": [
+  "science"
+ ],
+ "melody-moore-jackson": [
+  "interaction"
+ ],
+ "chadwick-wingrave": [
+  "interaction"
+ ],
+ "frank-noz": [
+  "interaction"
+ ],
+ "patricia-pons": [
+  "interaction"
+ ],
+ "anna-zamansky": [
+  "interaction"
+ ],
+ "ashley-boone": [
+  "science"
+ ],
+ "lone-koefoed-hansen": [
+  "interaction"
+ ],
+ "ned-cooper": [
+  "speculative"
+ ],
+ "kristina-lindstrom": [
+  "speculative"
+ ],
+ "asa-stahl": [
+  "speculative"
+ ],
+ "chidi-usanga": [
+  "speculative"
+ ],
+ "maliheh-ghajargar": [
+  "interaction"
+ ],
+ "laura-devendorf": [
+  "interaction",
+  "art"
+ ],
+ "larissa-pschetz": [
+  "interaction"
+ ],
+ "yuning-chen": [
+  "speculative"
+ ],
+ "youngsil-lee": [
+  "speculative"
+ ],
+ "stanislav-roudavski": [
+  "architecture"
+ ],
+ "ann-light": [
+  "speculative"
+ ],
+ "yoko-akama": [
+  "speculative"
+ ],
+ "jeffrey-bardzell": [
+  "interaction"
+ ],
+ "anton-poikolainen-rosen": [
+  "interaction"
+ ],
+ "alinta-krauth": [
+  "art"
+ ],
+ "whanganui-iwi": [
+  "speculative"
+ ],
+ "teresa-vicente": [
+  "speculative"
+ ],
+ "constitutional-court-of-ecuador": [
+  "speculative"
+ ],
+ "nonhuman-rights-project": [
+  "speculative"
+ ],
+ "chris-watson": [
+  "art"
+ ],
+ "leah-barclay": [
+  "art"
+ ],
+ "robertina-sebjanic": [
+  "art"
+ ],
+ "studio-ossidiana": [
+  "architecture"
+ ],
+ "joyce-hwang": [
+  "architecture"
+ ],
+ "green-and-blue": [
+  "product"
+ ],
+ "suzanne-simard": [
+  "science"
+ ],
+ "merlin-sheldrake": [
+  "science"
+ ],
+ "robin-wall-kimmerer": [
+  "science"
+ ],
+ "timothy-morton": [
+  "speculative"
+ ],
+ "eduardo-kohn": [
+  "speculative"
+ ],
+ "vinciane-despret": [
+  "speculative"
+ ],
+ "emanuele-coccia": [
+  "speculative"
+ ],
+ "karen-barad": [
+  "speculative"
+ ],
+ "james-bridle": [
+  "art",
+  "speculative"
+ ],
+ "monica-gagliano": [
+  "science"
+ ],
+ "partizan-publik": [
+  "speculative"
+ ],
+ "aza-raskin": [
+  "science"
+ ],
+ "christian-rutz": [
+  "science"
+ ],
+ "shane-gero": [
+  "science"
+ ],
+ "more-than-human-life-program": [
+  "speculative"
+ ],
+ "google-deepmind": [
+  "science"
+ ],
+ "wild-dolphin-project": [
+  "science"
+ ],
+ "karen-bakker": [
+  "speculative"
+ ],
+ "irene-pepperberg": [
+  "science"
+ ],
+ "sue-savage-rumbaugh": [
+  "science"
+ ],
+ "con-slobodchikoff": [
+  "science"
+ ],
+ "yossi-yovel": [
+  "science"
+ ],
+ "mickey-pardo": [
+  "science"
+ ],
+ "david-omer": [
+  "science"
+ ],
+ "inbal-arnon": [
+  "science"
+ ],
+ "ocean-alliance": [
+  "science"
+ ],
+ "google-creative-lab": [
+  "interaction"
+ ],
+ "whale-seti": [
+  "science"
+ ],
+ "laela-sayigh": [
+  "science"
+ ],
+ "sophie-cohen-bodenes": [
+  "science"
+ ],
+ "daniela-vallentin": [
+  "science"
+ ],
+ "julie-elie": [
+  "science"
+ ],
+ "melissa-berthet": [
+  "science"
+ ],
+ "catherine-crockford": [
+  "science"
+ ],
+ "nicolas-mathevon": [
+  "science"
+ ],
+ "charlotte-nordmoen": [
+  "interaction"
+ ],
+ "caglar-genc": [
+  "interaction",
+  "material"
+ ],
+ "giulia-gualtieri": [
+  "architecture"
+ ],
+ "sarah-homewood": [
+  "interaction"
+ ],
+ "louis-rice": [
+  "architecture"
+ ],
+ "verena-fuchsberger": [
+  "interaction"
+ ],
+ "marie-louise-juul-sondergaard": [
+  "interaction"
+ ],
+ "armi-behzad": [
+  "interaction"
+ ],
+ "yangyang-yang": [
+  "interaction"
+ ],
+ "hong-luo": [
+  "interaction"
+ ],
+ "nirit-binyamini-ben-meir": [
+  "interaction"
+ ],
+ "debbie-jung": [
+  "product"
+ ],
+ "kristine-samson": [
+  "architecture"
+ ],
+ "berre-su-demir": [
+  "interaction"
+ ],
+ "monika-rosinska": [
+  "speculative"
+ ],
+ "giulia-jiangxian-zhu": [
+  "interaction"
+ ],
+ "emilija-veselova": [
+  "speculative"
+ ],
+ "lianne-toussaint": [
+  "fashion",
+  "material"
+ ],
+ "peng-jung-lin": [
+  "fashion",
+  "material"
+ ],
+ "yoonji-lee": [
+  "interaction"
+ ],
+ "botao-amber-hu": [
+  "interaction"
+ ],
+ "lucas-ogasawara-de-oliveira": [
+  "speculative"
+ ],
+ "andrew-whitcomb": [
+  "speculative"
+ ],
+ "diya-samit": [
+  "material"
+ ],
+ "yi-sui": [
+  "material"
+ ],
+ "sebastian-gonzalez-quintero": [
+  "interaction"
+ ],
+ "laura-cinti": [
+  "art"
+ ],
+ "aditi-maheshwari": [
+  "interaction"
+ ],
+ "ida-nilstad-pettersen": [
+  "architecture"
+ ],
+ "johanna-just": [
+  "architecture"
+ ],
+ "andrea-macruz": [
+  "architecture"
+ ],
+ "thom-van-dooren": [
+  "speculative"
+ ],
+ "betti-marenko": [
+  "speculative"
+ ],
+ "michelle-chang": [
+  "interaction"
+ ],
+ "fredrik-aspling": [
+  "interaction"
+ ],
+ "jingwen-zhu": [
+  "interaction",
+  "fashion"
+ ],
+ "alex-wilkie": [
+  "speculative"
+ ],
+ "pedro-galvao-ferreira": [
+  "interaction"
+ ],
+ "gopinaath-kannabiran": [
+  "interaction"
+ ],
+ "joycelyn-longdon": [
+  "interaction"
+ ],
+ "hoyoung-youn": [
+  "speculative"
+ ],
+ "paulina-yurman": [
+  "speculative"
+ ],
+ "danielle-wilde": [
+  "interaction",
+  "food"
+ ],
+ "margarita-grinko": [
+  "interaction"
+ ],
+ "steffie-de-gaetano": [
+  "art"
+ ],
+ "franca-lopez-barbera": [
+  "speculative"
+ ],
+ "yiying-wu": [
+  "interaction"
+ ],
+ "petra-lilja": [
+  "speculative"
+ ],
+ "tian-min": [
+  "interaction"
+ ],
+ "margaret-rynning": [
+  "speculative"
+ ],
+ "surayyn-uthayaselvan": [
+  "architecture"
+ ],
+ "naleefa-nazurdeen": [
+  "interaction"
+ ],
+ "saetbyeol-leeyouk": [
+  "interaction"
+ ],
+ "keili-koppel": [
+  "interaction"
+ ],
+ "qingyu-zhang": [
+  "speculative"
+ ],
+ "taku-onozato": [
+  "speculative"
+ ],
+ "mette-gislev-kjaersgaard": [
+  "speculative"
+ ],
+ "logan-shockey": [
+  "material",
+  "interaction"
+ ],
+ "angela-kilford": [
+  "fashion",
+  "art"
+ ],
+ "serina-tarkhanian": [
+  "speculative"
+ ],
+ "vasiliki-tsaknaki": [
+  "interaction"
+ ],
+ "aaron-v-bradshaw": [
+  "science"
+ ],
+ "mathilde-gouin": [
+  "interaction"
+ ],
+ "iuliia-larikova": [
+  "architecture"
+ ],
+ "yingting-gao": [
+  "material",
+  "fashion"
+ ],
+ "joana-pestana": [
+  "speculative"
+ ],
+ "kuan-ju-wu": [
+  "interaction"
+ ],
+ "michael-r-stead": [
+  "speculative"
+ ],
+ "claudia-nunez-pacheco": [
+  "interaction"
+ ],
+ "dan-parker": [
+  "architecture"
+ ],
+ "markus-wernli": [
+  "speculative"
+ ],
+ "cayla-key": [
+  "interaction"
+ ],
+ "greg-nijs": [
+  "interaction"
+ ],
+ "jan-fell": [
+  "interaction"
+ ],
+ "jonas-fritsch": [
+  "interaction"
+ ],
+ "annika-wolff": [
+  "speculative"
+ ],
+ "kavita-gonsalves": [
+  "art"
+ ],
+ "gilbertto-prado": [
+  "art"
+ ],
+ "adrian-wong": [
+  "interaction"
+ ],
+ "augustine-leudar": [
+  "art"
+ ],
+ "jennifer-t-harrower": [
+  "art",
+  "science"
+ ],
+ "liliana-e-caughman": [
+  "interaction"
+ ],
+ "yuyao-lin": [
+  "speculative"
+ ],
+ "yuanpeng-nie": [
+  "speculative"
+ ],
+ "nanyi-jiang": [
+  "interaction"
+ ],
+ "jiahe-li": [
+  "interaction"
+ ],
+ "vasco-costa": [
+  "interaction"
+ ],
+ "vanessa-monna": [
+  "speculative"
+ ],
+ "manuel-simoes": [
+  "material"
+ ],
+ "wenjia-sun": [
+  "speculative"
+ ],
+ "annarita-bianco": [
+  "speculative"
+ ],
+ "nina-williams": [
+  "speculative"
+ ],
+ "flavia-alice-mameli": [
+  "material"
+ ],
+ "yen-fu-chen": [
+  "interaction"
+ ],
+ "alexandra-dementieva": [
+  "art"
+ ],
+ "jiho-kim": [
+  "material"
+ ],
+ "isabel-correa": [
+  "interaction"
+ ],
+ "anniken-forde": [
+  "speculative"
+ ],
+ "jian-yu": [
+  "speculative"
+ ],
+ "susan-loh": [
+  "interaction"
+ ],
+ "gizem-oktay": [
+  "material"
+ ],
+ "katerina-inglezaki": [
+  "interaction"
+ ],
+ "francesco-vergani": [
+  "speculative"
+ ],
+ "nina-rajcic": [
+  "interaction",
+  "art"
+ ],
+ "berilsu-tarcan": [
+  "speculative"
+ ],
+ "evert-van-beek": [
+  "interaction"
+ ],
+ "manuhuia-barcham": [
+  "speculative"
+ ],
+ "cagdas-dedeoglu": [
+  "speculative"
+ ],
+ "arne-berger": [
+  "interaction"
+ ],
+ "david-dunn": [
+  "art"
+ ],
+ "beatrice-maggipinto": [
+  "interaction"
+ ],
+ "aybars-senyildiz": [
+  "food"
+ ],
+ "edward-masui": [
+  "science"
+ ],
+ "jules-litman-cleper": [
+  "art"
+ ],
+ "shuai-zou": [
+  "art"
+ ],
+ "joseph-samuel-johnson": [
+  "interaction"
+ ],
+ "finn-petrie": [
+  "art"
+ ],
+ "linas-kristupas-gabrielaitis": [
+  "interaction"
+ ],
+ "fredrik-bernerstedt": [
+  "interaction"
+ ],
+ "yiran-ma": [
+  "interaction"
+ ],
+ "jorge-luis-siesquen-deza": [
+  "speculative"
+ ],
+ "ning-gao": [
+  "architecture"
+ ],
+ "yuxi-liu": [
+  "speculative"
+ ],
+ "clee-zhuo-wang": [
+  "speculative"
+ ],
+ "kitti-butter": [
+  "product"
+ ],
+ "sakura-kotokawa": [
+  "speculative"
+ ],
+ "korey-wetherell": [
+  "speculative"
+ ],
+ "susanne-fredholm": [
+  "speculative"
+ ],
+ "bugra-karabey": [
+  "art"
+ ],
+ "angella-mackey": [
+  "product"
+ ],
+ "berre-su-yanlic": [
+  "speculative"
+ ],
+ "hinako-takita": [
+  "food"
+ ],
+ "cortical-labs": [
+  "science"
+ ],
+ "brett-kagan": [
+  "science"
+ ],
+ "finalspark": [
+  "science"
+ ],
+ "feng-guo": [
+  "science"
+ ],
+ "thomas-hartung": [
+  "science"
+ ],
+ "lena-smirnova": [
+  "science"
+ ],
+ "david-gracias": [
+  "science"
+ ],
+ "jia-liu": [
+  "science"
+ ],
+ "charles-lieber": [
+  "science"
+ ],
+ "sergiu-pasca": [
+  "science"
+ ],
+ "zhenan-bao": [
+  "science"
+ ],
+ "john-rogers": [
+  "science"
+ ],
+ "kenneth-kosik": [
+  "science"
+ ],
+ "alysson-muotri": [
+  "science"
+ ],
+ "braingeneers": [
+  "science"
+ ],
+ "steve-potter": [
+  "science",
+  "art"
+ ],
+ "thomas-demarse": [
+  "science"
+ ],
+ "kevin-warwick": [
+  "science"
+ ],
+ "shimon-marom": [
+  "science"
+ ],
+ "michela-chiappalone": [
+  "science"
+ ],
+ "takuya-isomura": [
+  "science"
+ ],
+ "hirokazu-takahashi": [
+  "science"
+ ],
+ "koniku": [
+  "science"
+ ],
+ "tianjin-university": [
+  "science"
+ ],
+ "the-thought-emporium": [
+  "science"
+ ],
+ "guy-ben-ary": [
+  "art"
+ ],
+ "horo-mo-x": [
+  "art"
+ ],
+ "eduardo-miranda": [
+  "art",
+  "science"
+ ],
+ "nefeli-manoudaki": [
+  "art",
+  "architecture"
+ ],
+ "andrea-lavazza": [
+  "speculative"
+ ],
+ "nita-farahany": [
+  "speculative"
+ ],
+ "national-academies": [
+  "science"
+ ],
+ "karola-kreitmair": [
+  "speculative"
+ ],
+ "lomax-boyd": [
+  "science",
+  "speculative"
+ ],
+ "jenn-leung": [
+  "speculative"
+ ],
+ "benjamin-ward-cherrier": [
+  "science"
+ ],
+ "ani-liu": [
+  "art"
+ ],
+ "jiabao-li": [
+  "art"
+ ],
+ "steve-benford": [
+  "interaction"
+ ],
+ "blast-theory": [
+  "art"
+ ],
+ "studio-psk": [
+  "speculative"
+ ],
+ "isaac-monte": [
+  "art"
+ ],
+ "pei-ying-lin": [
+  "speculative"
+ ],
+ "cecilia-jonsson": [
+  "art"
+ ],
+ "jiwon-woo": [
+  "art"
+ ],
+ "xandra-van-der-eijk": [
+  "art"
+ ],
+ "baum-leahy": [
+  "speculative"
+ ],
+ "jonathan-ho": [
+  "art"
+ ],
+ "emma-van-der-leest": [
+  "material"
+ ],
+ "michael-sedbon": [
+  "art"
+ ],
+ "sissel-marie-tonn": [
+  "art"
+ ],
+ "dasha-tsapenko": [
+  "material"
+ ],
+ "kuang-yi-ku": [
+  "art"
+ ],
+ "nonhuman-nonsense": [
+  "speculative"
+ ],
+ "anna-vershinina": [
+  "architecture"
+ ],
+ "carla-alcala-badias": [
+  "art"
+ ],
+ "emilia-tapprest": [
+  "speculative"
+ ],
+ "samar-khan": [
+  "speculative"
+ ],
+ "matthijs-munnik": [
+  "art"
+ ],
+ "charlotte-jarvis": [
+  "art"
+ ],
+ "c-lab": [
+  "art"
+ ]
+}

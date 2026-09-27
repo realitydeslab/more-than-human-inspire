@@ -32,7 +32,9 @@ OVERRIDES = ROOT / "data" / "overrides.json"
 TAXONOMY = ROOT / "data" / "taxonomy.json"
 CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
-MEDIA = ROOT / "data" / "media"  # extra media per work, kept apart from the research batches
+MEDIA = ROOT / "data" / "media"
+APPROACH = ROOT / "data" / "approach"      # { work_id: [approach ids] }
+DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
 
@@ -268,6 +270,18 @@ def apply_collections(works: list, known: set) -> None:
             w.pop("collections", None)
 
 
+def load_labels(folder: Path, allowed: set, what: str) -> dict:
+    """Merge label files ({id: [label, ...]}); later files win; unknown labels are dropped with a warning."""
+    out: dict = {}
+    for f in sorted(folder.glob("*.json")) if folder.exists() else []:
+        for k, v in json.loads(f.read_text()).items():
+            good = [x for x in (v if isinstance(v, list) else [v]) if x in allowed]
+            if len(good) != len(v if isinstance(v, list) else [v]):
+                logger.warning("%s %s: unknown label in %s (%s)", what, k, f.name, v)
+            out[k] = good[:2]
+    return out
+
+
 def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
     names = {re.sub(r"[^a-z]", "", c.get("name", "").lower()) for c in creators.values()}
     open_, checked, seen = [], [], set()
@@ -325,6 +339,17 @@ def main() -> None:
         c["work_count"] = sum(c["id"] in w["creator_ids"] for w in kept)
         c.pop("batches", None)
     apply_collections(kept, {c["id"] for c in tax.get("collections", [])})
+    approaches = load_labels(APPROACH, {a[0] for a in tax.get("approaches", [])}, "approach")
+    disciplines = load_labels(DISCIPLINE, {d[0] for d in tax.get("disciplines", [])}, "discipline")
+    for c in out_creators:
+        if disciplines.get(c["id"]):
+            c["disciplines"] = disciplines[c["id"]]
+    for w in kept:
+        if approaches.get(w["id"]):
+            w["approaches"] = approaches[w["id"]]
+        ds = sorted({d for cid in w["creator_ids"] for d in disciplines.get(cid, [])})
+        if ds:
+            w["disciplines"] = ds
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
     open_leads, checked_leads = classify_leads(leads, creators)
 
@@ -352,6 +377,8 @@ def main() -> None:
         stamp = str(int(time.time()))
         index.write_text(re.sub(r'(assets/(?:app|i18n|export)\.(?:js|css)|data/entries\.js)(\?v=\d+)?"', rf'\1?v={stamp}"', index.read_text()))
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
+    logger.info("classified: approach %d/%d works, discipline %d/%d creators",
+                sum(bool(w.get("approaches")) for w in kept), len(kept), sum(bool(c.get("disciplines")) for c in out_creators), len(out_creators))
     logger.info("creators=%d works=%d dropped=%d media_problems=%d open_leads=%d | %s | video=%d images=%d paper=%d",
                 len(out_creators), len(kept), len(dropped), len(problems), len(open_leads),
                 " ".join(f"{k}={v}" for k, v in by_field.items()),

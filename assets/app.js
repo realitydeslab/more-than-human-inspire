@@ -8,6 +8,8 @@
   const TAX = DATA.taxonomy;
   const FIELDS = TAX.fields;
   const COLS = TAX.collections || [];
+  const APPS = TAX.approaches || [];
+  const DISCS = TAX.disciplines || [];
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
   const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
@@ -31,10 +33,12 @@
   const pair = (list, k) => { const r = list.find((x) => x[0] === k); return r ? (zh() ? r[2] : r[1]) : k; };
   const orgName = (k) => pair(TAX.organisms, k);
   const kindName = (k) => pair(TAX.kinds, k);
+  const appName = (k) => pair(APPS, k);
+  const discName = (k) => pair(DISCS, k);
   const subOf = (w) => (fieldById[w.field]?.subs || []).find((s) => s.id === w.sub);
   const src = (p) => S().sources[p] || p;
 
-  const state = { view: "atlas", q: "", cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
+  const state = { view: "atlas", q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
   let currentList = [];
   let openIndex = -1;
   let mediaIndex = 0;
@@ -44,7 +48,7 @@
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
     state.view = VIEWS.includes(p.get("view")) ? p.get("view") : "atlas";
-    Object.assign(state, { q: p.get("q") || "", cols: set(p, "col"), fields: set(p, "f"), orgs: set(p, "o"), kinds: set(p, "k"), era: p.get("era") || "",
+    Object.assign(state, { q: p.get("q") || "", apps: set(p, "a"), discs: set(p, "d"), cols: set(p, "col"), fields: set(p, "f"), orgs: set(p, "o"), kinds: set(p, "k"), era: p.get("era") || "",
       sort: p.get("sort") || "new", creator: p.get("c") || "", video: p.get("v") === "1", paper: p.get("p") === "1", sub: p.get("sub") || "" });
     return { work: p.get("w") };
   }
@@ -55,6 +59,8 @@
     if (FILTERED.includes(state.view)) {
       if (state.q) p.set("q", state.q);
       if (state.cols.size) p.set("col", [...state.cols].join(","));
+      if (state.apps.size) p.set("a", [...state.apps].join(","));
+      if (state.discs.size) p.set("d", [...state.discs].join(","));
       if (state.fields.size) p.set("f", [...state.fields].join(","));
       if (state.orgs.size) p.set("o", [...state.orgs].join(","));
       if (state.kinds.size) p.set("k", [...state.kinds].join(","));
@@ -79,6 +85,8 @@
     if (state.creator && !w.creator_ids.includes(state.creator)) return false;
     if (state.video && !w.video?.url) return false;
     if (state.paper && !w.paper?.url) return false;
+    if (skip !== "a" && state.apps.size && !(w.approaches || []).some((x) => state.apps.has(x))) return false;
+    if (skip !== "d" && state.discs.size && !(w.disciplines || []).some((x) => state.discs.has(x))) return false;
     if (skip !== "c" && state.cols.size && !(w.collections || []).some((c) => state.cols.has(c))) return false;
     if (skip !== "f" && state.fields.size && ![...state.fields].some((f) => inField(w, f))) return false;
     if (skip !== "o" && state.orgs.size && !(w.organisms || []).some((o) => state.orgs.has(o))) return false;
@@ -155,6 +163,8 @@
   function renderChips() {
     $("#facetChips").innerHTML =
       chipRow(S().f_field, FIELDS.map((f) => [f.id, nm(f), (w) => inField(w, f.id)]), state.fields, "field", "f") +
+      (APPS.length ? chipRow(S().f_approach, APPS.map(([k]) => [k, appName(k), (w) => (w.approaches || []).includes(k)]), state.apps, "app", "a") : "") +
+      (DISCS.length ? chipRow(S().f_discipline, DISCS.map(([k]) => [k, discName(k), (w) => (w.disciplines || []).includes(k)]), state.discs, "disc", "d") : "") +
       chipRow(S().f_organism, TAX.organisms.map(([k]) => [k, orgName(k), (w) => (w.organisms || []).includes(k)]), state.orgs, "org", "o") +
       chipRow(S().f_kind, TAX.kinds.map(([k]) => [k, kindName(k), (w) => w.kind === k]), state.kinds, "kind", "k") +
       (COLS.length ? chipRow(S().f_collection, COLS.map((c) => [c.id, nm(c), (w) => (w.collections || []).includes(c.id)]), state.cols, "col", "c") : "");
@@ -192,7 +202,9 @@
           <p class="fieldcard__desc">${esc(zh() ? f.desc_zh : f.desc_en)}</p>
           <ul class="sublist">${subs}</ul>
           <button class="tour__start mono" data-go="${f.id}">${esc(S().atlas_open(ws.length))}</button></div></section>`;
-    }).join("")}</div>${COLS.length ? `<section class="cols"><h2 class="scat__title">${esc(S().collections)}</h2><p class="scat__desc">${esc(S().collections_lede)}</p>
+    }).join("")}</div>${APPS.some(([k]) => DATA.works.some((w) => (w.approaches || []).includes(k))) ? `<section class="cols"><h2 class="scat__title">${esc(S().by_approach)}</h2><p class="scat__desc">${esc(S().by_approach_lede)}</p>
+      <div class="cols__grid">${APPS.map(([k, en, zh_, dEn, dZh]) => { const n = DATA.works.filter((w) => (w.approaches || []).includes(k)).length; return n ? `<button class="colcard" data-app-go="${esc(k)}">
+        <span class="colcard__n mono">${n}</span><span class="colcard__title">${esc(zh() ? zh_ : en)}</span><span class="colcard__desc">${esc(zh() ? dZh : dEn)}</span></button>` : ""; }).join("")}</div></section>` : ""}${COLS.length ? `<section class="cols"><h2 class="scat__title">${esc(S().collections)}</h2><p class="scat__desc">${esc(S().collections_lede)}</p>
       <div class="cols__grid">${COLS.map(colCard).join("")}</div></section>` : ""}`;
     return FIELDS.length;
   }
@@ -243,7 +255,7 @@
       const t = TX.creator(c, lang);
       const links = Object.entries(c.links || {}).filter(([, u]) => u).map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(k)} ↗</a>`).join("");
       const conn = (c.connected_to || []).filter((id) => creatorsById[id]).map((id) => `<button data-creator="${esc(id)}">${esc(creatorsById[id].name)}</button>`).join("");
-      const kind = c.kind ? S()["kind_" + c.kind] : "";
+      const kind = [c.kind ? S()["kind_" + c.kind] : "", ...(c.disciplines || []).map(discName)].filter(Boolean).join(" · ");
       return `<article class="creator" id="c-${esc(c.id)}"><div>
           <h2 class="creator__name"><button data-creator="${esc(c.id)}">${esc(c.name)}</button></h2>
           <p class="creator__role">${kind ? esc(kind) + " · " : ""}${esc(t.role || "")}${t.based ? " · " + esc(t.based) : ""} · ${esc(S().n_works(works.length))}</p>
@@ -345,6 +357,7 @@
     const orgs = (w.organisms || []).map((o) => `<span class="tag">${esc(orgName(o))}</span>`).join("");
     const kws = (w.keywords || []).map((k) => `<span class="tag">${esc(k)}</span>`).join("");
     const cols = (w.collections || []).map((id) => COLS.find((c) => c.id === id)).filter(Boolean);
+    const appTags = (w.approaches || []).map((k) => `<button class="tag tag--col" data-app-go="${esc(k)}">↳ ${esc(appName(k))}</button>`).join("");
     const colTags = cols.map((c) => `<button class="tag tag--col" data-col-go="${esc(c.id)}">◎ ${esc(nm(c))}</button>`).join("");
     const survey = COLS.find((c) => c.work === w.id);
     const surveyN = survey ? DATA.works.filter((x) => (x.collections || []).includes(survey.id) && x.id !== w.id).length : 0;
@@ -357,7 +370,7 @@
       ${t.description ? `<p>${esc(t.description)}</p>` : ""}
       ${note(S().idea, t.idea)}${note(S().method, t.method)}
       ${survey && surveyN ? `<button class="tour__start mono survey-btn" data-col-go="${esc(survey.id)}">${esc(S().survey_works(surveyN))}</button>` : ""}
-      <div class="tags">${fieldTags}</div>${colTags ? `<div class="tags">${colTags}</div>` : ""}<div class="tags">${orgs}</div><div class="tags">${kws}</div>
+      <div class="tags">${fieldTags}</div>${appTags ? `<div class="tags">${appTags}</div>` : ""}${colTags ? `<div class="tags">${colTags}</div>` : ""}<div class="tags">${orgs}</div><div class="tags">${kws}</div>
       <div class="actions">
         ${p.url ? `<a class="watch watch--paper" href="${esc(p.url)}" target="_blank" rel="noopener">¶ ${esc(S().read_paper)}${p.title && p.title !== w.title ? `<span class="watch__sub watch__ptitle">${esc(p.title)}</span>` : ""}${p.venue || p.doi ? `<span class="watch__sub">${esc(p.venue || "")}${p.venue && p.doi ? " · " : ""}${p.doi ? "doi:" + esc(p.doi) : ""}</span>` : ""}</a>` : ""}
         ${w.video?.url ? `<a class="watch" href="${esc(w.video.url)}" target="_blank" rel="noopener">${esc(S().watch_on(src(w.video.platform)))}</a>` : ""}
@@ -425,7 +438,10 @@
     if (d.field) { toggle(state.fields, d.field); return render(); }
     if (d.org) { toggle(state.orgs, d.org); return render(); }
     if (d.col) { toggle(state.cols, d.col); return render(); }
-    if (d.colGo) { Object.assign(state, { q: "", cols: new Set([d.colGo]), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
+    if (d.app) { toggle(state.apps, d.app); return render(); }
+    if (d.disc) { toggle(state.discs, d.disc); return render(); }
+    if (d.appGo) { Object.assign(state, { q: "", apps: new Set([d.appGo]), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
+    if (d.colGo) { Object.assign(state, { q: "", apps: new Set(), discs: new Set(), cols: new Set([d.colGo]), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }
     if (d.kind) { toggle(state.kinds, d.kind); return render(); }
     if (d.era) { state.era = state.era === d.era ? "" : d.era; return render(); }
     if (d.media !== undefined) { mediaIndex = +d.media; return showMedia(worksById[$("#player").dataset.id]); }
@@ -434,7 +450,7 @@
     if ("clearCreator" in d) { state.creator = ""; return render(); }
     if (t.classList.contains("card")) return openWork(d.id);
   });
-  $("#clear").addEventListener("click", () => { Object.assign(state, { q: "", cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); render(); });
+  $("#clear").addEventListener("click", () => { Object.assign(state, { q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); render(); });
   $("#hasVideo").addEventListener("click", () => { state.video = !state.video; render(); });
   $("#hasPaper").addEventListener("click", () => { state.paper = !state.paper; render(); });
   let qTimer;

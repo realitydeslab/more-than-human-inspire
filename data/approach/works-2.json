@@ -1,0 +1,1461 @@
+{
+  "fiona-bell--micro-me": [
+    "interface",
+    "grow"
+  ],
+  "jonas-fritsch--breathing-with": [
+    "theorize"
+  ],
+  "rrreefs--clay-reef-bricks": [
+    "care",
+    "grow"
+  ],
+  "jan-fell--biocentric-perspective-plants": [
+    "theorize"
+  ],
+  "michael-r-stead--mth-right-to-repair": [
+    "speculate",
+    "advocate"
+  ],
+  "stanislav-roudavski--ai-habitat-abstractions": [
+    "care"
+  ],
+  "michael-levin--biodome-limb-regeneration": [
+    "grow"
+  ],
+  "iuliia-larikova--multispecies-facades": [
+    "care",
+    "fabricate"
+  ],
+  "luisa-ruge--ethics-toolkit": [
+    "theorize"
+  ],
+  "ed-yong--an-immense-world": [
+    "translate"
+  ],
+  "kit-parker--biohybrid-fish": [
+    "interface"
+  ],
+  "dirk-van-der-linden--dignity": [
+    "theorize"
+  ],
+  "christopher-flynn-martin--apetouch": [
+    "care",
+    "interface"
+  ],
+  "where-dogs-run--archaean-memory-farm": [
+    "interface",
+    "grow"
+  ],
+  "kuang-yi-ku--atlas-of-queer-anatomy": [
+    "speculate"
+  ],
+  "3dbio-therapeutics--aurinovo": [
+    "fabricate"
+  ],
+  "anna-zamansky--cat-pain-recognition": [
+    "translate"
+  ],
+  "igem-paris-bettencourt--bacterial-networked-interface": [
+    "engineer",
+    "interface"
+  ],
+  "ferne-edwards--bat-house": [
+    "care"
+  ],
+  "gilberto-esparza--bio-electrolisis": [
+    "interface",
+    "translate"
+  ],
+  "zoran-srdic-janezic--biobot": [
+    "interface"
+  ],
+  "rachel-armstrong--biodesign-culture-of-life": [
+    "theorize"
+  ],
+  "rachel-ann-arredondo--blue-ceramics": [
+    "care",
+    "fabricate"
+  ],
+  "stanislav-roudavski--cad-cam-habitat-structures": [
+    "care",
+    "fabricate"
+  ],
+  "yuga-tsukuda--calmbots": [
+    "interface"
+  ],
+  "aaron-v-bradshaw--plastic-eating-microbes": [
+    "theorize",
+    "co-create"
+  ],
+  "ferne-edwards--chicken-coop-design": [
+    "care"
+  ],
+  "catherine-crockford--chimpanzee-vocal-sequences": [
+    "translate"
+  ],
+  "jiabao-li--chthulucene": [
+    "speculate"
+  ],
+  "michael-sedbon--cryptographic-beings": [
+    "interface"
+  ],
+  "michael-sedbon--ctrl": [
+    "interface"
+  ],
+  "johanna-just--bird-watching": [
+    "care"
+  ],
+  "pat-pataranutaporn--cyberbiome": [
+    "engineer",
+    "interface"
+  ],
+  "aditi-maheshwari--ecological-restoration": [
+    "care"
+  ],
+  "michael-haldrup--designing-for-multispecies-commons": [
+    "co-create"
+  ],
+  "steve-benford--designing-for-trust-animal-centric": [
+    "theorize",
+    "care"
+  ],
+  "cortical-labs--dishbrain": [
+    "interface"
+  ],
+  "ilyena-hirskyj-douglas--monkeys-audio-or-visual": [
+    "care",
+    "interface"
+  ],
+  "robertina-sebjanic--echinoidea-future": [
+    "translate"
+  ],
+  "herobeat-studios--endling": [
+    "translate"
+  ],
+  "kyungwon-lee--euglpollock": [
+    "co-create",
+    "interface"
+  ],
+  "shane-gero--symbolic-marking-clans": [
+    "translate"
+  ],
+  "gopinaath-kannabiran--kolam": [
+    "theorize",
+    "care"
+  ],
+  "hanuma-teja-maddali--xr-garden": [
+    "care"
+  ],
+  "vasiliki-tsaknaki--biodata-futures": [
+    "speculate",
+    "theorize"
+  ],
+  "cayla-key--feminist-care-anthropocene": [
+    "theorize"
+  ],
+  "jaz-hee-jeong-choi--feral-map": [
+    "translate"
+  ],
+  "elvin-karana--flavorium": [
+    "interface",
+    "grow"
+  ],
+  "ferran-altarriba-bertran--from-the-wild": [
+    "theorize",
+    "care"
+  ],
+  "kenneth-kosik--hd-mea-organoids": [
+    "interface"
+  ],
+  "theresa-schubert--hyle": [
+    "interface"
+  ],
+  "jasmine-lu--slime-mould-smartwatch": [
+    "care",
+    "interface"
+  ],
+  "kenjiro-fukuda--solar-cyborg-cockroach": [
+    "interface"
+  ],
+  "alinta-krauth--flying-fox-enrichment-art": [
+    "care"
+  ],
+  "caglar-genc--interactive-mycelium": [
+    "grow",
+    "interface"
+  ],
+  "dna-design-and-architecture--into-the-island": [
+    "care"
+  ],
+  "braingeneers--iot-cloud-lab": [
+    "interface"
+  ],
+  "armi-behzad--feeling-with": [
+    "theorize"
+  ],
+  "andrew-adamatzky--language-of-fungi": [
+    "translate"
+  ],
+  "teresa-vicente--mar-menor-personhood": [
+    "advocate"
+  ],
+  "andre-studart--cellulose-granular-gels": [
+    "fabricate",
+    "grow"
+  ],
+  "shoji-takeuchi--living-skin-finger": [
+    "fabricate",
+    "interface"
+  ],
+  "charlotte-nordmoen--material-entanglements": [
+    "theorize"
+  ],
+  "berilsu-tarcan--making-with-environment": [
+    "theorize"
+  ],
+  "sergiu-pasca--transplanted-organoids": [
+    "interface"
+  ],
+  "patricia-ciobanu--me-the-hill-and-my-browser": [
+    "translate"
+  ],
+  "emilija-veselova--mediating-needs": [
+    "theorize"
+  ],
+  "jiabao-li--menstrual-garden": [
+    "translate"
+  ],
+  "woohun-lee--meowplaylive": [
+    "care",
+    "interface"
+  ],
+  "jun-yao--biofilm-evaporation-electricity": [
+    "interface",
+    "engineer"
+  ],
+  "andrew-adamatzky--mining-logical-circuits-fungi": [
+    "interface"
+  ],
+  "fei-shieh--minty-zoo": [
+    "interface",
+    "care"
+  ],
+  "earth-species-project--animal-vocalization-synthesizers": [
+    "translate"
+  ],
+  "michael-r-stead--mth-data-interaction": [
+    "theorize"
+  ],
+  "aykut-coskun--more-than-human-concepts-hci": [
+    "theorize"
+  ],
+  "paulina-yurman--fluid-speculations": [
+    "theorize"
+  ],
+  "teamlab--moss-garden": [
+    "interface"
+  ],
+  "nonhuman-nonsense--mud-and-flood": [
+    "speculate"
+  ],
+  "danielle-ooms--mud-collecting-journey": [
+    "care"
+  ],
+  "parsons-charlesworth--multispecies-inc": [
+    "speculate"
+  ],
+  "michelle-westerlaken--multispecies-worlding-through-design": [
+    "theorize"
+  ],
+  "martin-kaltenbrunner--myceliotronics": [
+    "grow",
+    "fabricate"
+  ],
+  "xiaoge-wang--nature-jar": [
+    "care"
+  ],
+  "daniel-preston--necrobotics": [
+    "fabricate"
+  ],
+  "margot-brereton--networked-gardens": [
+    "care",
+    "translate"
+  ],
+  "cortical-labs--organoid-ethics": [
+    "theorize"
+  ],
+  "rewa-wright--biorhythms": [
+    "co-create",
+    "interface"
+  ],
+  "yannick-rondelez--enzymatic-neural-networks": [
+    "engineer"
+  ],
+  "aurelie-mosse--papier-plume": [
+    "grow"
+  ],
+  "michelle-chang--human-plant-interaction": [
+    "theorize"
+  ],
+  "andrea-macruz--performative-accessories": [
+    "care",
+    "fabricate"
+  ],
+  "nelo-akamatsu--perhaps-art-begins-with-the-fireflies": [
+    "engineer"
+  ],
+  "margrete-lodahl-rolighed--plant-radio": [
+    "interface"
+  ],
+  "tarun-nayar--plant-ragas": [
+    "co-create",
+    "interface"
+  ],
+  "clara-mancini--politicising-aci": [
+    "theorize"
+  ],
+  "prometheus-materials--bio-concrete": [
+    "grow"
+  ],
+  "stanislav-roudavski--owl-habitat-structures": [
+    "care"
+  ],
+  "ivan-henriques--new-biomachine": [
+    "interface"
+  ],
+  "olivia-seow--pudica": [
+    "interface"
+  ],
+  "fiona-bell--reclaym": [
+    "grow"
+  ],
+  "andres-jaque--reggio-school": [
+    "care"
+  ],
+  "anton-poikolainen-rosen--relating-to-soil": [
+    "translate",
+    "care"
+  ],
+  "david-gracias--shell-mea": [
+    "interface"
+  ],
+  "xinquan-wen--sloooooooooow": [
+    "interface"
+  ],
+  "michelle-westerlaken--smart-forests-atlas": [
+    "translate"
+  ],
+  "gabrielle-hong--sprayful-moss-display": [
+    "interface",
+    "care"
+  ],
+  "jiabao-li--squid-map": [
+    "co-create"
+  ],
+  "jia-liu--stretchable-mesh": [
+    "interface"
+  ],
+  "rasa-weber--symbiocean-kiki": [
+    "care",
+    "fabricate"
+  ],
+  "rebecca-kleinberger--tamagophone": [
+    "interface",
+    "care"
+  ],
+  "michael-levin--tame": [
+    "theorize"
+  ],
+  "jennifer-t-harrower--algae-society": [
+    "co-create"
+  ],
+  "kuai-shen--the-crossing": [
+    "translate"
+  ],
+  "karen-bakker--sounds-of-life": [
+    "translate"
+  ],
+  "andres-jaque--transspecies-kitchen": [
+    "co-create"
+  ],
+  "superflux--vault-of-life": [
+    "speculate"
+  ],
+  "ursula-damm--time-of-the-flies": [
+    "translate"
+  ],
+  "tyler-luong--plant-based-sensor": [
+    "interface"
+  ],
+  "ron-wakkary--co-speculation-tilting-bowl": [
+    "theorize"
+  ],
+  "ani-liu--feeding-through-space-and-time": [
+    "translate"
+  ],
+  "ani-liu--labor-of-love": [
+    "translate"
+  ],
+  "ani-liu--milk-fat-globules": [
+    "translate"
+  ],
+  "ani-liu--untitled-pumping": [
+    "translate"
+  ],
+  "cyrus-clarke--urban-data-forest": [
+    "speculate",
+    "engineer"
+  ],
+  "patricia-dominguez--vegetal-matrix": [
+    "speculate"
+  ],
+  "charles-ramey--wagd-sled-dogs": [
+    "care",
+    "interface"
+  ],
+  "sarah-webber--watching-aci": [
+    "theorize"
+  ],
+  "james-bridle--ways-of-being": [
+    "theorize"
+  ],
+  "doenja-oogjes--weaving-stories": [
+    "theorize"
+  ],
+  "manuhuia-barcham--decolonial-river": [
+    "advocate"
+  ],
+  "sarah-webber--welfare-through-competence": [
+    "theorize",
+    "care"
+  ],
+  "aybars-senyildiz--kombucha-scoby-attuning": [
+    "care"
+  ],
+  "ned-cooper--would-the-trees-dim-the-lights": [
+    "advocate"
+  ],
+  "david-bowen--plant-machete": [
+    "interface"
+  ],
+  "kasia-molga--decompositions": [
+    "translate",
+    "interface"
+  ],
+  "douglas-blackiston--xenobots-2": [
+    "engineer",
+    "interface"
+  ],
+  "ecologicstudio--airbubble": [
+    "interface",
+    "grow"
+  ],
+  "harpreet-sareen--algaphon": [
+    "translate",
+    "interface"
+  ],
+  "sara-heitlinger--algorithmic-food-justice": [
+    "advocate"
+  ],
+  "the-living--alive": [
+    "care"
+  ],
+  "heidi-biggs--agrilogistics": [
+    "theorize"
+  ],
+  "xiaodong-chen--venus-flytrap-actuator": [
+    "interface"
+  ],
+  "marcus-carter--orangutan-interactive-projections": [
+    "care",
+    "interface"
+  ],
+  "ecologicstudio--bit-bio-bot": [
+    "grow",
+    "interface"
+  ],
+  "elise-elsacker--cellulose-reinforced-mycelium": [
+    "grow"
+  ],
+  "joe-davis--baitul-mamur": [
+    "engineer"
+  ],
+  "jakob-kudsk-steensen--berl-berl": [
+    "translate"
+  ],
+  "earth-species-project--biocppnet": [
+    "translate"
+  ],
+  "liz-edwards--biodiversity-logbook": [
+    "care",
+    "translate"
+  ],
+  "nadia-campo-woytuk--biomenstrual-spellbook": [
+    "care"
+  ],
+  "stefan-kahl--birdnet": [
+    "translate"
+  ],
+  "fiona-french--concept-craft-cards": [
+    "theorize"
+  ],
+  "aleph-farms--printed-ribeye": [
+    "fabricate"
+  ],
+  "netta-ofer--bioluminescent-algae": [
+    "interface"
+  ],
+  "annika-wolff--sciberpunks": [
+    "advocate",
+    "speculate"
+  ],
+  "jules-litman-cleper--earth-tech-net-lichen": [
+    "speculate",
+    "interface"
+  ],
+  "karen-alim--tube-memory": [
+    "interface"
+  ],
+  "margot-brereton--nature-sounds-citizen-science": [
+    "translate"
+  ],
+  "doxiadis-plus--entangled-kingdoms": [
+    "grow",
+    "care"
+  ],
+  "fiona-french--ethics-power-dynamics-play": [
+    "speculate",
+    "theorize"
+  ],
+  "anna-dumitriu--fermenting-futures": [
+    "engineer"
+  ],
+  "suzanne-simard--finding-the-mother-tree": [
+    "theorize"
+  ],
+  "ursula-biemann--forest-mind": [
+    "translate"
+  ],
+  "tosca-teran--forest-undersound": [
+    "translate"
+  ],
+  "jane-tingley--foresta-inclusive": [
+    "translate"
+  ],
+  "ilyena-hirskyj-douglas--dogphone": [
+    "care",
+    "interface"
+  ],
+  "alper-bozkurt--guide-dog-citizen-science-wearables": [
+    "care",
+    "interface"
+  ],
+  "studio-ossidiana--furniture-for-a-human-and-a-parrot": [
+    "care"
+  ],
+  "alexandra-dementieva--mnesitardigrada": [
+    "translate"
+  ],
+  "superflux--invocation-for-hope": [
+    "speculate"
+  ],
+  "sam-kriegman--kinematic-self-replication": [
+    "engineer"
+  ],
+  "elvin-karana--living-light-interfaces": [
+    "interface"
+  ],
+  "tom-ellis--programmable-cellulose": [
+    "engineer",
+    "grow"
+  ],
+  "constitutional-court-of-ecuador--los-cedros": [
+    "advocate"
+  ],
+  "refik-anadol--machine-hallucinations-nature-dreams": [
+    "speculate"
+  ],
+  "maeid--magic-queen": [
+    "interface",
+    "care"
+  ],
+  "oxman--man-nahata": [
+    "speculate",
+    "theorize"
+  ],
+  "hongyi-zhang--meow-meow-call": [
+    "care",
+    "interface"
+  ],
+  "cornell-lab-of-ornithology--merlin-sound-id": [
+    "translate"
+  ],
+  "raphael-kim--microbe-hci": [
+    "theorize"
+  ],
+  "kevin-blackistone--microbiospheric-engineering": [
+    "translate",
+    "grow"
+  ],
+  "ying-zhou--mosswater": [
+    "care",
+    "interface"
+  ],
+  "ecovative--mybacon": [
+    "grow"
+  ],
+  "tosca-teran--mycelia": [
+    "co-create",
+    "interface"
+  ],
+  "arne-hendriks--mycelium-pigeon-towers": [
+    "grow",
+    "care"
+  ],
+  "isabel-correa--myco-kit": [
+    "co-create",
+    "grow"
+  ],
+  "martin-tomitsch--non-human-personas": [
+    "advocate"
+  ],
+  "dominique-chen--nukabot": [
+    "care",
+    "interface"
+  ],
+  "hirokazu-takahashi--force-reservoir": [
+    "interface"
+  ],
+  "nonhuman-nonsense--planetary-personhood": [
+    "advocate"
+  ],
+  "yiying-wu--plant-hotels": [
+    "care"
+  ],
+  "studio-ossidiana--platform-for-humans-and-birds": [
+    "care"
+  ],
+  "alexandra-daisy-ginsberg--pollinator-pathmaker": [
+    "advocate"
+  ],
+  "foad-hamidi--raaz": [
+    "engineer"
+  ],
+  "andrew-adamatzky--reactive-fungal-wearable": [
+    "interface"
+  ],
+  "ilyena-hirskyj-douglas--novelty-and-habituation": [
+    "theorize"
+  ],
+  "superflux--refuge-for-resurgence": [
+    "speculate"
+  ],
+  "serena-pollastri--sensing-more-than-human-worlds": [
+    "translate"
+  ],
+  "nancy-smith--smart-bee-houses": [
+    "care",
+    "interface"
+  ],
+  "tega-brain--solar-protocol": [
+    "speculate"
+  ],
+  "harpreet-sareen--soundyssey": [
+    "care"
+  ],
+  "tandem-repeat--squitex": [
+    "engineer",
+    "grow"
+  ],
+  "gerd-geleff-nielsen--stress-monitor": [
+    "speculate",
+    "interface"
+  ],
+  "mycoworks--hermes-sylvania": [
+    "grow"
+  ],
+  "polymorf--symbiosis": [
+    "translate"
+  ],
+  "gerd-geleff-nielsen--symbiotic-breather": [
+    "speculate",
+    "care"
+  ],
+  "studio-ossidiana--birds-palace": [
+    "co-create"
+  ],
+  "national-academies--neural-organoids-report": [
+    "theorize"
+  ],
+  "ron-wakkary--things-we-could-design": [
+    "theorize"
+  ],
+  "john-rogers--3d-spheroid-interfaces": [
+    "interface"
+  ],
+  "joyce-hwang--to-middle-species-with-love": [
+    "care"
+  ],
+  "andrew-adamatzky--fungal-sensing-skin": [
+    "interface"
+  ],
+  "andrew-adamatzky--proteinoid-computers": [
+    "interface"
+  ],
+  "sarah-homewood--body-in-hci": [
+    "theorize"
+  ],
+  "michi-kanda--tranquillity-at-home": [
+    "interface",
+    "care"
+  ],
+  "blast-studio--tree-column": [
+    "fabricate",
+    "grow"
+  ],
+  "tomtex--seafood-shell-leather": [
+    "grow"
+  ],
+  "anna-madeleine-raupach--unequal-hours": [
+    "translate"
+  ],
+  "shuyi-sun--wooflex": [
+    "care",
+    "interface"
+  ],
+  "jeffrey-bardzell--wanting-to-live-here": [
+    "theorize"
+  ],
+  "heidi-biggs--watching-myself-watching-birds": [
+    "theorize"
+  ],
+  "melody-moore-jackson--nosework-sniffing-sensors": [
+    "care",
+    "interface"
+  ],
+  "zeefier--seaweed-dyes": [
+    "grow"
+  ],
+  "theresa-schubert--inside-an-inside-forest": [
+    "interface",
+    "grow"
+  ],
+  "theresa-schubert--ooze": [
+    "translate",
+    "interface"
+  ],
+  "elena-sabinson--pheb": [
+    "interface"
+  ],
+  "audrey-dussutour--eleve-ton-blob": [
+    "translate"
+  ],
+  "sam-kriegman--xenobots": [
+    "engineer"
+  ],
+  "rachel-armstrong--alice": [
+    "interface",
+    "translate"
+  ],
+  "ustwo-games--alba": [
+    "care"
+  ],
+  "cesar-and-lois--allochronic-cycles": [
+    "translate"
+  ],
+  "donald-degraen--ambiplant": [
+    "interface"
+  ],
+  "nikoletta-karastathi--bio-plexis": [
+    "grow",
+    "care"
+  ],
+  "sissel-marie-tonn--becoming-a-sentinel-species": [
+    "speculate",
+    "translate"
+  ],
+  "beewise--beehome": [
+    "care",
+    "interface"
+  ],
+  "e-line-media--beyond-blue": [
+    "care"
+  ],
+  "wil-srubar--living-building-materials": [
+    "grow"
+  ],
+  "daniel-wangpraseurt--bionic-coral": [
+    "fabricate",
+    "grow"
+  ],
+  "guy-ben-ary--bricolage": [
+    "grow",
+    "fabricate"
+  ],
+  "matthew-browning--simulated-nature-vr": [
+    "translate"
+  ],
+  "charlotte-robinson--canine-co-design-buttons": [
+    "co-create"
+  ],
+  "climate-clock--climate-clock": [
+    "translate"
+  ],
+  "forensic-architecture--cloud-studies": [
+    "translate"
+  ],
+  "sarah-webber--co-designing-with-orangutans": [
+    "co-create"
+  ],
+  "bruno-latour--critical-zones": [
+    "theorize"
+  ],
+  "cyrus-clarke--data-garden": [
+    "engineer",
+    "interface"
+  ],
+  "forensic-architecture--ecocide-in-indonesia": [
+    "translate"
+  ],
+  "yu-fukasawa--fungal-memory": [
+    "interface"
+  ],
+  "merlin-sheldrake--entangled-life": [
+    "theorize"
+  ],
+  "yoko-akama--expanding-participation": [
+    "advocate"
+  ],
+  "barani-raman--locust-explosive-sensing": [
+    "interface"
+  ],
+  "anna-tsing--feral-atlas": [
+    "translate",
+    "theorize"
+  ],
+  "greg-nijs--diy-speculative-fabulation": [
+    "speculate"
+  ],
+  "dasha-tsapenko--fur-tilize": [
+    "grow"
+  ],
+  "jiabao-li--glaciers-lament": [
+    "translate"
+  ],
+  "michael-d-jones--hci-outdoors": [
+    "theorize"
+  ],
+  "halter--virtual-fencing-collars": [
+    "care",
+    "interface"
+  ],
+  "heidi-biggs--high-water-pants": [
+    "speculate"
+  ],
+  "kasia-molga--how-to-make-an-ocean": [
+    "care"
+  ],
+  "michelle-westerlaken--imagining-multispecies-worlds": [
+    "theorize",
+    "speculate"
+  ],
+  "rebecca-kleinberger--avian-case-study-zoo": [
+    "care",
+    "interface"
+  ],
+  "alinta-krauth--intra-facing": [
+    "co-create"
+  ],
+  "pat-pataranutaporn--living-bits": [
+    "theorize"
+  ],
+  "timothy-merritt--living-media-interfaces": [
+    "theorize"
+  ],
+  "nova-innova--pond": [
+    "interface",
+    "translate"
+  ],
+  "bob-hendrikx--loop-living-cocoon": [
+    "grow",
+    "care"
+  ],
+  "nicole-xu--cyborg-jellyfish": [
+    "interface"
+  ],
+  "kyungwon-lee--microaquarium": [
+    "interface"
+  ],
+  "modern-synthesis--microbial-weaving": [
+    "grow"
+  ],
+  "rachel-clarke--ministry-multispecies": [
+    "speculate"
+  ],
+  "fiona-french--more-than-human-aesthetics-elephants": [
+    "care",
+    "theorize"
+  ],
+  "iohanna-nicenboim--more-than-human-design-and-ai": [
+    "theorize"
+  ],
+  "stanislav-roudavski--multispecies-cohabitation": [
+    "advocate",
+    "theorize"
+  ],
+  "roosa-piitulainen--music-for-monkeys": [
+    "care",
+    "interface"
+  ],
+  "jonas-edvard--myx-sail": [
+    "grow"
+  ],
+  "spela-petric--plai": [
+    "co-create",
+    "interface"
+  ],
+  "ingmar-riedel-kruse--pac-euglena": [
+    "interface"
+  ],
+  "karen-sarkisyan--autoluminescent-plants": [
+    "engineer"
+  ],
+  "nancy-smith--plantypus": [
+    "speculate",
+    "interface"
+  ],
+  "ann-morrison--platypus-surfing": [
+    "care",
+    "interface"
+  ],
+  "project-ceti--project-ceti": [
+    "translate"
+  ],
+  "redefine-meat--new-meat": [
+    "fabricate"
+  ],
+  "mycoworks--reishi": [
+    "grow"
+  ],
+  "earth-species-project--decoding-roadmap": [
+    "translate"
+  ],
+  "mirela-alistar--semina-aeternitatis": [
+    "engineer",
+    "interface"
+  ],
+  "neri-oxman--silk-pavilion-ii": [
+    "co-create"
+  ],
+  "cassie-kresnye--smart-habitat": [
+    "care",
+    "interface"
+  ],
+  "jennifer-gabrys--smart-forests": [
+    "theorize"
+  ],
+  "sawyer-fuller--smellicopter": [
+    "interface"
+  ],
+  "hanuma-teja-maddali--sociality-skill-sharing-garden": [
+    "care"
+  ],
+  "theresa-schubert--sound-for-fungi": [
+    "translate",
+    "interface"
+  ],
+  "justine-emard--supraorganism": [
+    "interface",
+    "translate"
+  ],
+  "nomeda-gediminas-urbonas--swamp-observatory": [
+    "interface",
+    "translate"
+  ],
+  "nancy-smith--sylvia-woodbridge": [
+    "speculate",
+    "interface"
+  ],
+  "elisa-giaccardi--technology-and-more-than-human-design": [
+    "theorize"
+  ],
+  "studio-ossidiana--city-of-birds": [
+    "theorize",
+    "care"
+  ],
+  "laura-beloff--the-hearing-test": [
+    "translate"
+  ],
+  "stanislav-roudavski--more-than-human-heritage": [
+    "advocate",
+    "theorize"
+  ],
+  "charlotte-robinson--tricks-and-treats": [
+    "care",
+    "interface"
+  ],
+  "patrizia-paci--wearer-experience-cats": [
+    "care"
+  ],
+  "jennifer-cunha--cockatoo-communication-board": [
+    "translate"
+  ],
+  "haruka-kasuga--vr-animal-vision": [
+    "translate"
+  ],
+  "studio-ossidiana--variations-on-a-birdcage": [
+    "theorize",
+    "care"
+  ],
+  "eduardo-navarro--vegetal-transmutation": [
+    "speculate",
+    "care"
+  ],
+  "werewool--protein-fibres": [
+    "engineer",
+    "grow"
+  ],
+  "benioff-ocean-science-laboratory--whale-safe": [
+    "translate",
+    "care"
+  ],
+  "nancy-smith--whisper": [
+    "speculate",
+    "translate"
+  ],
+  "raphael-kim--slow-biotic-games": [
+    "theorize"
+  ],
+  "sybille-neumeyer--souvenirs-entomologiques": [
+    "translate"
+  ],
+  "adam-feinberg--collagen-heart": [
+    "fabricate"
+  ],
+  "tal-dvir--printed-heart": [
+    "fabricate"
+  ],
+  "robert-grass--dna-of-things": [
+    "engineer"
+  ],
+  "luisa-ruge--meau": [
+    "theorize",
+    "care"
+  ],
+  "naohiro-isokawa--affectivenemo": [
+    "translate",
+    "care"
+  ],
+  "charlotte-mccurdy--after-ancient-sunlight": [
+    "grow"
+  ],
+  "living-ink--algae-ink": [
+    "grow"
+  ],
+  "michael-sedbon--alt-c": [
+    "speculate",
+    "interface"
+  ],
+  "reinhard-gupfinger--parrot-musical-instruments": [
+    "care"
+  ],
+  "harpreet-sareen--argus": [
+    "interface"
+  ],
+  "tega-brain--asunder": [
+    "speculate"
+  ],
+  "rasa-smite-raitis-smits--atmospheric-forest": [
+    "translate"
+  ],
+  "achim-menges--buga-wood-pavilion": [
+    "fabricate"
+  ],
+  "ivan-henriques--bacterbrain": [
+    "interface"
+  ],
+  "elissa-brunato--bio-iridescent-sequin": [
+    "grow"
+  ],
+  "tim-dobbs--bioartbot": [
+    "fabricate",
+    "grow"
+  ],
+  "roya-aghighi--biogarmentry": [
+    "grow",
+    "care"
+  ],
+  "dirk-van-der-linden--pet-wearable-privacy": [
+    "theorize"
+  ],
+  "ivan-henriques--c-der": [
+    "interface",
+    "care"
+  ],
+  "michael-sedbon--cmd": [
+    "interface",
+    "speculate"
+  ],
+  "catalog--wikipedia-in-dna": [
+    "engineer"
+  ],
+  "polybion--celium": [
+    "grow"
+  ],
+  "circa--circa": [
+    "care"
+  ],
+  "alysson-muotri--oscillatory-waves": [
+    "interface"
+  ],
+  "rewa-wright--contact-sense": [
+    "co-create",
+    "interface"
+  ],
+  "harpreet-sareen--cyborg-botany": [
+    "interface"
+  ],
+  "jia-liu--cyborg-organoids": [
+    "interface"
+  ],
+  "cyrus-clarke--data-flower-shop": [
+    "engineer",
+    "interface"
+  ],
+  "cyn-liu--decomposition-as-design": [
+    "theorize"
+  ],
+  "project-ceti--sperm-whale-deep-learning": [
+    "translate"
+  ],
+  "kevin-coffey--deepsqueak": [
+    "translate"
+  ],
+  "petra-lilja--age-of-species": [
+    "speculate",
+    "care"
+  ],
+  "damien-woods--dna-algorithms": [
+    "engineer"
+  ],
+  "ceara-byrne--dog-driven-robot": [
+    "care",
+    "interface"
+  ],
+  "yoav-golan--dogs-haptic-communication": [
+    "interface",
+    "care"
+  ],
+  "teresa-van-dongen--electric-life": [
+    "interface",
+    "care"
+  ],
+  "christopher-frauenberger--entanglement-hci": [
+    "theorize"
+  ],
+  "ehud-sharlin--cats-meet-social-robots": [
+    "care",
+    "theorize"
+  ],
+  "andrew-adamatzky--fungar": [
+    "grow",
+    "interface"
+  ],
+  "zoran-srdic-janezic--flaneuron": [
+    "interface",
+    "care"
+  ],
+  "emma-van-der-leest--fungkee": [
+    "grow"
+  ],
+  "studio-ossidiana--geese-grottos": [
+    "care"
+  ],
+  "raphael-kim--mouldcraft": [
+    "interface"
+  ],
+  "ecologicstudio--hortus-xl": [
+    "fabricate",
+    "grow"
+  ],
+  "margot-brereton--hci-in-the-garden": [
+    "theorize"
+  ],
+  "huue--biosynthetic-indigo": [
+    "engineer"
+  ],
+  "neri-oxman--hybrid-living-materials": [
+    "engineer",
+    "fabricate"
+  ],
+  "charlotte-jarvis--in-posse": [
+    "engineer"
+  ],
+  "anthony-atala--in-situ-skin-bioprinting": [
+    "fabricate"
+  ],
+  "paul-vanouse--labor": [
+    "grow"
+  ],
+  "margot-brereton--listening-to-save-wildlife": [
+    "care",
+    "translate"
+  ],
+  "ferdinand-ludwig--living-bridges-paper": [
+    "grow"
+  ],
+  "anna-zamansky--log-my-dog": [
+    "care"
+  ],
+  "blast-studio--lovely-trash": [
+    "fabricate",
+    "grow"
+  ],
+  "alexandra-daisy-ginsberg--machine-auguries": [
+    "translate",
+    "speculate"
+  ],
+  "lucy-hughes--marinatex": [
+    "grow"
+  ],
+  "raphael-kim--moldy-ghosts": [
+    "interface",
+    "theorize"
+  ],
+  "terreform-one--monarch-sanctuary": [
+    "care"
+  ],
+  "paul-coulton--more-than-human-centred-design": [
+    "theorize"
+  ],
+  "rachel-clarke--more-than-human-participation": [
+    "advocate"
+  ],
+  "prophecy-sun--mothering-bacteria": [
+    "translate",
+    "care"
+  ],
+  "jordan-miller--multivascular-networks": [
+    "fabricate"
+  ],
+  "stacey-kuznetsov--mycelium-artifacts": [
+    "grow"
+  ],
+  "eldy-lazaro-vasquez--myco-accessories": [
+    "grow",
+    "fabricate"
+  ],
+  "dean-brown--nature-scenes": [
+    "care",
+    "translate"
+  ],
+  "alysson-muotri--organoid-robots": [
+    "interface"
+  ],
+  "taher-saif--neuromuscular-bots": [
+    "interface"
+  ],
+  "david-rothenberg--nightingales-in-berlin": [
+    "co-create"
+  ],
+  "ilhan-aslan--iot-plants": [
+    "care",
+    "interface"
+  ],
+  "superflux--more-than-human-politics-talk": [
+    "theorize"
+  ],
+  "ilyena-hirskyj-douglas--dog-internet-design-fiction": [
+    "speculate"
+  ],
+  "agnes-meyer-brandis--one-tree-id": [
+    "translate"
+  ],
+  "stacey-scott--aci-in-precision-livestock-farming": [
+    "theorize",
+    "care"
+  ],
+  "donald-degraen--overgrown": [
+    "interface"
+  ],
+  "google-creative-lab--pattern-radio": [
+    "translate"
+  ],
+  "marcus-maeder--perimeter-pfynwald": [
+    "translate"
+  ],
+  "post-carbon-lab--photosynthetic-coating": [
+    "grow",
+    "care"
+  ],
+  "ashley-colley--plant-shadow-morphing": [
+    "interface"
+  ],
+  "carlos-castellanos--plantconnect": [
+    "co-create",
+    "interface"
+  ],
+  "alexandra-daisy-ginsberg--resurrecting-the-sublime": [
+    "engineer",
+    "speculate"
+  ],
+  "jennifer-lewis--swift": [
+    "fabricate"
+  ],
+  "maya-livio--salvaging-birds": [
+    "translate",
+    "advocate"
+  ],
+  "hongjie-yang--semi-human-vase": [
+    "fabricate",
+    "grow"
+  ],
+  "anne-marie-maes--sensorial-skin": [
+    "translate",
+    "grow"
+  ],
+  "jonathan-ho--sex-shells": [
+    "speculate"
+  ],
+  "adam-w-brown--shadows-from-the-walls-of-death": [
+    "grow",
+    "speculate"
+  ],
+  "adrienne-adar--sonic-succulents": [
+    "translate"
+  ],
+  "thijs-biersteker--symbiosia": [
+    "translate"
+  ],
+  "cyn-liu--symbiotic-encounters": [
+    "theorize"
+  ],
+  "spiber--moon-parka": [
+    "engineer"
+  ],
+  "jihan-sherman--telling-the-bees": [
+    "co-create",
+    "interface"
+  ],
+  "marlene-huissoud--insect-habitats": [
+    "care"
+  ],
+  "jakob-kudsk-steensen--the-deep-listener": [
+    "translate"
+  ],
+  "pascal-leboucq--growing-pavilion": [
+    "grow"
+  ],
+  "sara-heitlinger--right-to-the-sustainable-smart-city": [
+    "advocate"
+  ],
+  "giorgia-lupi--room-of-change": [
+    "translate"
+  ],
+  "vivian-xu--silkworm-project": [
+    "co-create"
+  ],
+  "alexandra-daisy-ginsberg--the-substitute": [
+    "speculate"
+  ],
+  "ani-liu--the-surrogacy": [
+    "speculate",
+    "engineer"
+  ],
+  "alexandra-daisy-ginsberg--wilding-of-mars": [
+    "speculate"
+  ],
+  "maya-livio--thermopower": [
+    "translate"
+  ],
+  "nervous-system--tissue-printing": [
+    "fabricate"
+  ],
+  "donna-haraway--tools-multispecies-futures": [
+    "theorize"
+  ],
+  "neri-oxman--totems": [
+    "fabricate"
+  ],
+  "paulo-tavares--trees-vines-palms": [
+    "advocate"
+  ],
+  "achim-menges--urbach-tower": [
+    "fabricate"
+  ],
+  "spela-petric--vegetariat-work-zero": [
+    "speculate",
+    "interface"
+  ],
+  "riccardo-levato--volumetric-bioprinting": [
+    "fabricate"
+  ],
+  "wildlife-insights--wildlife-insights": [
+    "translate",
+    "care"
+  ],
+  "monika-rosinska--zoepolis": [
+    "advocate",
+    "theorize"
+  ],
+  "fiona-french--zoojamming": [
+    "care"
+  ],
+  "adam-w-brown--irreverent": [
+    "grow",
+    "speculate"
+  ],
+  "david-bowen--plant-drone": [
+    "interface"
+  ],
+  "raphael-kim--mould-rush": [
+    "interface",
+    "grow"
+  ],
+  "ani-liu--ghosts-in-the-meat-machine": [
+    "translate"
+  ],
+  "ani-liu--taxonomy-for-possible-consciousness": [
+    "theorize"
+  ],
+  "ursula-biemann--acoustic-ocean": [
+    "translate"
+  ],
+  "neri-oxman--aguahoja": [
+    "fabricate",
+    "care"
+  ],
+  "fabienne-felder--algae-powered-thermometer": [
+    "interface",
+    "grow"
+  ],
+  "hill-hiroki-kobayashi--fukushima-animal-data-sharing": [
+    "interface",
+    "care"
+  ],
+  "marta-de-menezes--anti-marta": [
+    "translate"
+  ],
+  "open-acoustic-devices--audiomoth": [
+    "translate"
+  ],
+  "lynette-wallworth--awavena": [
+    "translate",
+    "advocate"
+  ],
+  "ian-cheng--bob": [
+    "speculate"
+  ],
+  "michael-mcalpine--bacterial-nanobionics": [
+    "fabricate",
+    "interface"
+  ],
+  "eduardo-miranda--biocomputer-rhythms": [
+    "interface"
+  ],
+  "shoji-takeuchi--antagonistic-muscle-robot": [
+    "interface",
+    "grow"
+  ]
+}

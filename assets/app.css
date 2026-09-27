@@ -397,3 +397,4 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .tag--col { background: none; cursor: pointer; text-transform: none; }
 .tag--col:hover { border-color: var(--accent); color: var(--accent-text); }
 .survey-btn { margin: 4px 0 8px; }
+.chiprow__label { flex-basis: 76px; }

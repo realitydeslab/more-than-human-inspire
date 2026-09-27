@@ -2014,7 +2014,14 @@
     "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
     "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg"
    ],
-   "source_url": "https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/"
+   "source_url": "https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/",
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/9324.003.0027",
+    "doi": "10.7551/mitpress/9324.003.0027",
+    "arxiv": "",
+    "venue": "Art + DIY Electronics (MIT Press) 2023",
+    "title": "Disobedience and Feral Robotic Dogs: Hardware Activism, Communities, and Planned Obsolescence"
+   }
   },
   {
    "id": "forensic-architecture--cloud-studies",

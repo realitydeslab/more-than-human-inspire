@@ -422,6 +422,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 作者为慕尼黑的一栋学生宿舍设计了带有筑巢空腔的 3D 打印陶瓷立面砖，供依赖洞穴筑巢的动物使用，并打印了一段 1:1 立面样板。
 - 实现方式: 用于可栖居陶瓷砖的计算设计工具、黏土增材制造，以及 1:1 原型。
 - 论文: https://doi.org/10.47982/jfde.2022.powerskin.7 (Journal of Facade Design and Engineering 2022)
+- 图片: https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg
 - 项目主页: https://doi.org/10.47982/jfde.2022.powerskin.7
 
 #### CAD/CAM Habitat Structures for Cavity-Dependent Animals — Stanislav Roudavski (2022)
@@ -437,6 +438,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 以观鸟者与在废弃砾石坑中筑巢的崖沙燕为例的两个案例，展示观鸟如何培养对鸟类及共同景观的关注，这对建筑师很有启发。
 - 实现方式: 借助多物种研究与景观思维的质性案例研究。
 - 论文: https://doi.org/10.1016/j.foar.2022.04.007 (Frontiers of Architectural Research 2022)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg
 
 #### Designing for Multispecies Commons: Ecologies and Collaborations in Participatory Design — Michael Haldrup (2022)
 - 类型: 论文 · 生物: 动物, 植物, 生态系统
@@ -511,6 +513,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 受澳大利亚 2019/20 年“黑色夏天”山火启发，从树木、蝙蝠等非人类的角度探讨智能路灯设计。
 - 实现方式: 把 Daniel Dennett 的“意向立场”作为启发法，用于智能照明的参与式设计。
 - 论文: https://doi.org/10.1145/3537797.3537799 (PDC 2022)
+- 视频: https://www.youtube.com/watch?v=Pk_8gR3dN98
 - 项目主页: https://arxiv.org/abs/2303.14914
 
 #### Biomenstrual, Spellbook — Nadia Campo Woytuk (2021)
@@ -1584,6 +1587,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 核心想法: 改造玩具，让看不见的污染变得公开、可读。
 - 作品内容: 学生和社区团体改装消费级机器狗，装上化学传感器，把它们放到受污染的场地上，让机器狗“嗅出”污染物并把人带过去。
 - 实现方式: 玩具机器狗被改装上挥发性有机物等传感器和简单的追踪行为，在美国多所大学以开放工作坊形式开展。
+- 论文: https://doi.org/10.7551/mitpress/9324.003.0027 (Art + DIY Electronics (MIT Press) 2023)
 - 图片: https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg
 - 项目主页: https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/
 
@@ -1619,6 +1623,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一个由鱼来引导行动的装置：鱼的游动决定携带它的人往哪里走，暂时颠倒了“谁控制谁”。
 - 实现方式: 一个设计探针，很可能追踪水箱中鱼的运动并转化为给佩戴者的方向提示，并在公共场所中部署。
 - 论文: https://doi.org/10.1145/3802974.3816028 (DIS 2026)
+- 视频: https://www.youtube.com/watch?v=wYR0M1p_Qyw
 - 项目主页: https://doi.org/10.1145/3802974.3816028
 
 #### Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World — Sylvia Janicki, Heidi R. Biggs (2026)
@@ -1658,6 +1663,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 《Bog Girl》是一部自传体虚构，把非二元的身体与被排干的湿地联系起来——两者都被医学和农业的二元逻辑切割——并想象与土地一起哀悼和疗愈的新方式。
 - 实现方式: 以自传体虚构和思辨设计物为研究方法，虚构人与土地的纠缠。
 - 论文: https://doi.org/10.1145/3706598.3714067 (CHI 2025)
+- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png
 
 #### Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'? — Wenjia Sun (2025)
 - 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
@@ -2351,6 +2357,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一件位置媒体艺术作品：四位有色人种女性艺术家记录自己与布里斯班城市植物园中一棵印度榕树生态系统的纠缠。
 - 实现方式: 各件作品锚定在榕树周边的具体位置，观众通过位置应用来访问。
 - 论文: https://doi.org/10.1162/leon_a_02243 (Leonardo 2023)
+- 视频: https://www.youtube.com/watch?v=P0XpS-6IYjU
 
 #### Echinoidea Future – Adriatic Sensing — Robertina Šebjanič (2022)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
@@ -2848,6 +2855,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: “非人类能动性光谱”是一个框架，把植物、动物和生态系统放在城市设计流程各阶段的不同参与层级上。
 - 实现方式: 基于对 38 个自然包容型设计案例和四个深入案例的质性分析构建。
 - 论文: https://doi.org/10.1016/j.destud.2026.101422 (Design Studies 2026)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg
 
 #### Three-Eyed Seeing — Korey Wetherell (2026)
 - 类型: 论文 · 生物: 昆虫, 生态系统
@@ -2998,6 +3006,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一篇论文，回顾艺术家与老鼠、蝙蝠、鱿鱼和大象共同创作的经验，讨论与非人类生命一起、为它们创作的伦理和方法。
 - 实现方式: 基于一系列装置、XR 与表演作品的反思性实践论文。
 - 论文: https://doi.org/10.1145/3686169.3686191 (Halfway to the Future 2024)
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg
 
 #### Design for Temporal Cohabitation — Larissa Pschetz (2024)
 - 类型: 论文 · 生物: 动物, 植物, 生态系统
@@ -3073,6 +3082,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 对二十年人-植物交互研究的批判性综述，主张 HCI 中的盆栽植物应从功能性物件转变为拥有自身能动性的共同居民。
 - 实现方式: 结合后人类主义 HCI 的理论推演，以及对人-植物交互项目的系统综述与元分析。
 - 论文: https://doi.org/10.1016/j.ijhcs.2023.103128 (IJHCS 2024)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S1071581923001374-gr2_lrg.jpg
 - 项目主页: https://doi.org/10.1016/j.ijhcs.2023.103128
 
 #### When a tree says no: Towards a more-than-human consent notion for design — Franca López Barbera (2024)
@@ -3630,6 +3640,8 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 定义“材料生态学”的论文：像生物生长自身组织那样，把计算、制造、材料与环境放在一起设计。
 - 实现方式: 一篇立场论文，以 Mediated Matter 的多材料打印、纤维制造和生物模板项目为依据。
 - 论文: https://doi.org/10.1016/j.cad.2014.05.009 (Computer-Aided Design 2015)
+- 视频: https://www.youtube.com/watch?v=uscqEIRA2Os
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Neri_Oxman_CartesianWax_03.tif/lossy-page1-1280px-Neri_Oxman_CartesianWax_03.tif.jpg
 - 项目主页: https://doi.org/10.1016/j.cad.2014.05.009
 
 #### The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins — Anna Lowenhaupt Tsing (2015)
@@ -4137,6 +4149,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 由会光合作用的蓝藻矿化的沙-水凝胶砖，其中的细菌保持存活；把一块砖掰开，加入新的沙子、凝胶和养分，就能长出新的砖。
 - 实现方式: 聚球藻（Synechococcus）在明胶-沙子支架中析出碳酸钙；通过温度和湿度让细菌在生长和休眠之间切换。
 - 论文: https://doi.org/10.1016/j.matt.2019.11.016 (Matter)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr1_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr2_lrg.jpg
 - 项目主页: https://www.colorado.edu/lab/srubar/
 
 #### Microbial Weaving — Modern Synthesis, Amy Congdon (2020)
@@ -9335,6 +9348,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 用旋转磁场引导的趋磁细菌群，从水中捕获并去除农药毒死蜱。
 - 实现方式: 趋磁螺菌 AMB-1 体内带有天然磁铁矿晶体；按程序顺时针旋转的磁场使它们成群运动，并吸附有机污染物。
 - 论文: https://doi.org/10.1021/acsami.2c16592 (ACS Applied Materials & Interfaces 2023)
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e3ad2b337921/am2c16592_0006.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e8c785413082/am2c16592_0003.jpg
 - 项目主页: https://pubs.acs.org/doi/10.1021/acsami.2c16592
 
 #### Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics — Rashid Bashir (2023)
@@ -10884,6 +10898,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 文章论证：既然无法排除脑类器官有意识的可能，研究就应在类器官的制造、使用和处置上遵循预防性规则。
 - 实现方式: 把各种意识理论应用到类器官研究实践中的哲学分析。
 - 论文: https://doi.org/10.1017/s0963180123000063 (Cambridge Quarterly of Healthcare Ethics 2023)
+- 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230926120648556-0603:S0963180123000063:S0963180123000063_fig1.png?pub-status=live
 
 #### The Baltimore declaration toward the exploration of organoid intelligence — Thomas Hartung, Lena Smirnova (2023)
 - 类型: 书与文章 · 生物: 神经元与类器官
@@ -10946,6 +10961,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: MewTube 是一款用于猫咖啡馆的平板应用，为猫播放精选视频，并让游客根据猫的行为调整播放速度。
 - 实现方式: 为期五个月的研究，涉及 28 位游客和 16 只猫，对比有无应用两种情况。
 - 论文: https://doi.org/10.1145/3768539.3768541 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png
 
 #### pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring — Shuyi Sun, Katia Vega (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -11102,6 +11118,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项对宠物可穿戴设备隐私政策的分析，发现这些设备收集的主人数据多于宠物数据。
 - 实现方式: 对市售宠物可穿戴设备的隐私政策进行文本分析。
 - 论文: https://doi.org/10.1109/msec.2018.2888783 (IEEE Security & Privacy 2019)
+- 图片: https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png
 
 #### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
 - 类型: 论文 · 生物: 动物, 人体
@@ -11135,6 +11152,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: DoggyVision 是一个接近感应装置，狗走近就能开关电视，用来研究狗是否会自己控制观看。
 - 实现方式: 在家中把接近感应器与电视相连，记录开启次数和观看时长。
 - 论文: https://doi.org/10.26451/abc.05.04.06.2018 (Animal Behavior and Cognition 2018)
+- 图片: https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png
 
 #### Dogs using touchscreens in the home: a case study for assistance dogs operating emergency notification systems — Ceara Byrne, Clint Zeagler, Melody Moore Jackson (2018)
 - 类型: 论文 · 生物: 动物
@@ -11142,6 +11160,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 训练医疗警报犬操作安装在家中墙上的触摸屏，在紧急情况下呼叫帮助。
 - 实现方式: 在家中开展实地研究，三只医疗警报犬在随机时间出现的虚拟目标上完成特定的触碰顺序。
 - 论文: https://doi.org/10.1145/3295598.3295610 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png
 
 #### A dog centred approach to the analysis of dogs' interactions with media on TV screens — Ilyena Hirskyj-Douglas (2017)
 - 类型: 论文 · 生物: 动物
@@ -11189,6 +11208,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 在狗狗再安置中心开展的民族志研究，提出以福利为中心的智能犬舍环境框架。
 - 实现方式: 与员工和狗一起进行为期四个月的田野调查，得出一个把监测、互动和信息管理结合起来的框架。
 - 论文: https://doi.org/10.1145/2632048.2632073 (UbiComp 2014)
+- 图片: https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png
 
 #### Exploring pet video chat: the remote awareness and interaction needs of families with dogs and cats — Carman Neustaedter (2013)
 - 类型: 论文 · 生物: 动物
@@ -11211,6 +11231,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项关于 GPS 狗追踪的民族志研究，揭示追踪如何重塑狗与主人之间的关系，并提出一种跨物种符号学。
 - 实现方式: 结合主人叙述、动物研究者观点和对被追踪狗的观察，进行多物种民族志研究。
 - 论文: https://doi.org/10.1145/2370216.2370239 (UbiComp 2012)
+- 图片: https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png
 
 #### PetPace — PetPace (2012)
 - 类型: 产品与平台 · 生物: 动物
@@ -11227,6 +11248,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 针对狗主人和猎人的研究，了解他们如何与狗一起使用通信技术，以及对未来设备的期待。
 - 实现方式: 对两类用户进行访谈和问卷，了解现有设备和期望的服务。
 - 论文: https://doi.org/10.1145/1978942.1979329 (CHI 2011)
+- 图片: https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png
 
 #### Cat@Log: sensing device attachable to pet cats for supporting human-pet interaction — Jun Rekimoto (2009)
 - 类型: 研究原型 · 生物: 动物
@@ -11259,6 +11281,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: PAWSABILITIES 是一组外围显示装置，让家人和狗在分开时仍能感知彼此的活动。
 - 实现方式: 传感器和环境显示把“狗群”活动在远方的人和家中的狗之间共享。
 - 论文: https://doi.org/10.1145/1095034.1095076 (UIST 2005)
+- 图片: https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png
 
 ### 与动物一起的游戏、玩耍与机器人
 
@@ -11333,6 +11356,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项探索性研究：观察两只家猫对放在家中的小型社交机器人的反应，比较突然引入和逐步引入两种方式。
 - 实现方式: 非正式的设计研究：在两种引入策略下观察猫在社交机器人周围的行为。
 - 论文: https://doi.org/10.1145/3301019.3323891 (DIS 2019)
+- 图片: https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png
 
 #### Umamimi robotic horse ears: using configurable code profiles to replicate individuality in equine animatronics — Steve North (2018)
 - 类型: 研究原型 · 生物: 动物
@@ -11403,6 +11427,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一个深度相机追踪系统，检测动物的位置和姿态，让游戏环境能对它们作出回应。
 - 实现方式: 处理 Microsoft Kinect 的深度数据，在游戏空间中检测猫及其姿态。
 - 论文: https://doi.org/10.1145/2832932.2837007 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png
 
 #### Purrfect Crime: Exploring Animal Computer Interaction through a Digital Game for Humans and Cats — Rui Trindade (2015)
 - 类型: 研究原型 · 生物: 动物
@@ -11484,6 +11509,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: WAG'D 是一款测量雪橇犬拉力和步态的可穿戴设备，用来在训练和比赛中发现伤病。
 - 实现方式: 在挽具中装入拉力和惯性传感器并记录数据，与艾迪塔罗德雪橇赛的驾驶者和兽医一起设计。
 - 论文: https://doi.org/10.1145/3565995.3566042 (ACI 2022)
+- 图片: https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png
 
 #### From Ideation to Deployment: A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs — Alper Bozkurt, David L. Roberts (2021)
 - 类型: 研究原型 · 生物: 动物
@@ -11507,6 +11533,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项分两阶段的研究：与狗一起测试按钮大小、所需力度和位置如何影响它们按压，为狗用界面提供依据。
 - 实现方式: 用不同属性的按钮原型与狗一起测试，记录并分析按压行为。
 - 论文: https://doi.org/10.1145/3357236.3395462 (DIS 2020)
+- 图片: https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png
 
 #### Tricks and Treats: Designing Technology to Support Mobility Assistance Dogs — Charlotte L. Robinson (2020)
 - 类型: 研究原型 · 生物: 动物
@@ -11528,6 +11555,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 带传感器的狗玩具记录了服务犬候选幼犬的咬合与拉扯方式，这些数据能预测哪些狗能通过高级训练。
 - 实现方式: 在玩具中装入压力和运动传感器，进行为期两年的追踪研究，用分类器预测是否能成功安置。
 - 论文: https://doi.org/10.1145/3161184 (IMWUT 2018)
+- 图片: https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png
 
 #### Mobile Collaboration for Human and Canine Police Explosive Detection Teams — Joelle Alcaidinho, Melody Moore Jackson (2017)
 - 类型: 研究原型 · 生物: 动物
@@ -11535,6 +11563,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 为多个机构联合开展的警察与警犬爆炸物搜查设计的移动通信系统。
 - 实现方式: 与搜查队开展田野调查，开发共享搜索区域和警犬报警信息的手机应用。
 - 论文: https://doi.org/10.1145/2998181.2998271 (CSCW 2017)
+- 图片: https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png
 
 #### Search and rescue: dog and handler collaboration through wearable and mobile interfaces — Clint Zeagler, Ceara Byrne, Melody Moore Jackson (2016)
 - 类型: 研究原型 · 生物: 动物
@@ -11542,6 +11571,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一套供搜救犬佩戴的界面，把信息发送到训导员的手机应用，并提出把狗当作主动参与者的框架。
 - 实现方式: 由狗触发的可穿戴设备（咬合或拉扯传感器）与手机应用相连，依据搜救训导员的经验法则开发。
 - 论文: https://doi.org/10.1145/2995257.2995390 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png
 
 #### The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs — Ann Morrison (2016)
 - 类型: 研究原型 · 生物: 动物
@@ -11549,6 +11579,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: VibroTactile Vest 通过振动马达向猎犬发出指令，研究展示了训练方法如何影响设计。
 - 实现方式: 把可调强度的振动马达装在改造过的背心里，与接受不同训练方法的狗一起测试。
 - 论文: https://doi.org/10.1145/2995257.2995391 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png
 
 #### Training collar-sensed gestures for canine communication — Joelle Alcaidinho, Melody Moore Jackson (2016)
 - 类型: 研究原型 · 生物: 动物
@@ -11564,6 +11595,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一套辅助犬可以启动、为主人呼救的警报系统，全程与狗和主人一起共同设计。
 - 实现方式: 高保真的狗操作警报原型，测试狗在不同紧急情况下需要多少支持。
 - 论文: https://doi.org/10.1145/2750858.2805849 (UbiComp 2015)
+- 图片: https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png
 
 #### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
 - 类型: 研究原型 · 生物: 动物
@@ -11581,6 +11613,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一个系统：狗用经过训练的头部动作向人发送信息，由项圈上的运动传感器感知。
 - 实现方式: 项圈上的惯性传感与手势识别，依据狗手势集的最低标准进行评估。
 - 论文: https://doi.org/10.1145/2832932.2837016 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png
 
 #### Towards the non-visual monitoring of canine physiology in real-time by blind handlers — Sean Mealin, Alper Bozkurt (2015)
 - 类型: 研究原型 · 生物: 动物
@@ -11588,6 +11621,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一套可穿戴系统，让视障的导盲犬使用者通过非视觉反馈实时了解狗的生理状态。
 - 实现方式: 装有心率等传感器的无线背带，把数据转为声音或触觉反馈。
 - 论文: https://doi.org/10.1145/2832932.2837018 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png
 
 #### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
 - 类型: 研究原型 · 生物: 动物, 人体
@@ -11615,6 +11649,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项关于导盲犬团队日常工作与闲暇的研究，并为两者找出设计机会。
 - 实现方式: 在工作和闲暇活动中对导盲犬使用者进行访谈和观察。
 - 论文: https://doi.org/10.1145/2598510.2598531 (DIS 2014)
+- 图片: https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png
 
 #### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
 - 类型: 研究原型 · 生物: 动物
@@ -11632,6 +11667,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项民族志研究：猎人如何使用 GPS 狗追踪设备，以及它如何改变猎人与狗之间的互动。
 - 实现方式: 对驼鹿狩猎进行视频田野调查，并从常人方法学的角度分析拟人化。
 - 论文: https://doi.org/10.1145/1978942.1979328 (CHI 2011)
+- 图片: https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png
 
 #### Project Pigeon — B. F. Skinner (1943)
 - 类型: 研究原型 · 生物: 动物
@@ -11659,6 +11695,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: CreatureConnect 是一个分布式装置，狐猴和动物园游客可以共同控制展区两侧的声音、气味和画面。
 - 实现方式: 展区内外的控制装置相互连接；20 天内记录了 541 次狐猴交互并观察了 16139 名游客。
 - 论文: https://doi.org/10.1145/3772318.3790643 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png
 
 #### Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals — Rébecca Kleinberger (2026)
 - 类型: 研究原型 · 生物: 动物
@@ -11682,6 +11719,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一个低干预的鸟类物联网系统，让一只圈养的鲑冠凤头鹦鹉自愿接触声音和图像刺激，并可远程监测。
 - 实现方式: 手机应用、中央服务器和笼舍内设备提供多模态刺激并记录参与情况。
 - 论文: https://doi.org/10.1145/3768539.3768553 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png
 
 #### Reshaping Human-Animal Relationships: Exploring Lemur and Human Enrichment through Smell, Sound, and Sight — Jiaqi Wang, Ilyena Hirskyj-Douglas (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -11837,6 +11875,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 论文主张：动物园里给猿类的触屏任务提供了“功能性自然主义”，即与野生猿类所面临的相似的心智挑战。
 - 实现方式: 回顾猿类研究中的自动化方法，以及它们在印第安纳波利斯动物园的应用。
 - 论文: https://doi.org/10.1145/3295598.3295605 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png
 
 #### Gorilla game lab: exploring modularity, tangibility and playful engagement in cognitive enrichment design — Stuart Gray (2018)
 - 类型: 研究原型 · 生物: 动物
@@ -11844,6 +11883,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: Gorilla Game Lab 与布里斯托动物园的七只西部低地大猩猩一起，设计并测试了模块化、可触摸的谜题装置。
 - 实现方式: 内嵌传感器记录使用情况的模块化硬件谜题，与大猩猩群一起评估。
 - 论文: https://doi.org/10.1145/3295598.3295604 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png
 
 #### Digital Enrichment with Captive Siamang: Video Showcase of Primate Preference — Melanie Ford (2017)
 - 类型: 研究原型 · 生物: 动物
@@ -11859,6 +11899,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项关于墨尔本动物园互动系统的研究，展示技术如何塑造游客、饲养员与动物之间的相遇。
 - 实现方式: 围绕动物园中的数字装置进行观察和访谈。
 - 论文: https://doi.org/10.1016/j.ijhcs.2016.05.003 (IJHCS 2017)
+- 图片: https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png
 
 #### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
 - 类型: 研究原型 · 生物: 动物, 人体
@@ -11891,6 +11932,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 为动物园红毛猩猩做的设计：摆弄实物就会触发声音，用来检验它们是否有兴趣控制听觉刺激。
 - 实现方式: 外观不像电子产品的实物与声音播放相连，与墨尔本动物园的红毛猩猩一起规划。
 - 论文: https://doi.org/10.1145/2995257.2995383 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png
 
 #### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
 - 类型: 论文 · 生物: 动物
@@ -11913,6 +11955,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 基于对动物园员工的访谈，讨论动物园如何重视自然化展区，以及这对在展区中引入数字技术意味着什么。
 - 实现方式: 在一个数字丰容项目中进行文献综述，并访谈维多利亚动物园的员工。
 - 论文: https://doi.org/10.1145/2832932.2837011 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png
 
 #### The Arena System: a novel shared touch-panel apparatus for the study of chimpanzee social interaction and cognition — Christopher Flynn Martin (2013)
 - 类型: 研究原型 · 生物: 动物
@@ -12019,6 +12062,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一项为期四年的研究：一只戈芬氏凤头鹦鹉先后使用三种语音板界面，考察界面设计如何影响她的选择。
 - 实现方式: 在真实生活环境中长期分析按钮大小、布局和表征方式不同时的选择。
 - 论文: https://doi.org/10.1145/3772318.3791196 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png
 
 #### alp-data — Earth Species Project (2026)
 - 类型: 产品与平台 · 生物: 动物
@@ -12357,6 +12401,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: TamagoPhone 提议为人工孵化器加入双向音频流，让鸟类亲鸟和蛋中的胚胎在孵化前就能听到彼此。
 - 实现方式: 基于对鸟类胚胎期声音学习的文献综述，设计巢与孵化器之间的低延迟音频连接方案。
 - 论文: https://doi.org/10.1145/3565995.3566036 (ACI 2022)
+- 图片: https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png
 
 #### The Sounds of Life: How Digital Technology Is Bringing Us Closer to the Worlds of Animals and Plants — Karen Bakker (2022)
 - 类型: 书与文章 · 生物: 动物, 植物
@@ -12626,6 +12671,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一种羊用电子头饰，记录微气候、头部和眼部运动以及叫声，用来研究个体如何影响羊群行为。
 - 实现方式: 头戴式传感模块集成环境、惯性和声音传感，为野外使用制作原型。
 - 论文: https://doi.org/10.1145/3768539.3768560 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png
 
 #### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
 - 类型: 思辨设计 · 生物: 动物
@@ -12726,6 +12772,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一个装有传感器的栖息箱，用于救助孤儿弗吉尼亚负鼠幼崽，让志愿者减少与它们的接触也能照看。
 - 实现方式: 微控制器、环境传感器和安卓应用，基于访谈和六个月的观察设计。
 - 论文: https://doi.org/10.1145/3334480.3383093 (CHI EA 2020)
+- 图片: https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png
 
 #### Whale Safe — Benioff Ocean Science Laboratory (2020)
 - 类型: 产品与平台 · 生物: 动物
@@ -12767,6 +12814,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: PlayBat 是一个公共展示装置，结合可触摸界面、问答式故事和伦敦公园中传感器实时采集的蝙蝠叫声数据。
 - 实现方式: 由物联网蝙蝠探测器供数的多模态实体展示装置，与公众一起评估。
 - 论文: https://doi.org/10.1145/3196709.3196783 (DIS 2018)
+- 图片: https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png
 
 #### Nest Box — Marcus Foth (2018)
 - 类型: 产品与平台 · 生物: 动物
@@ -12835,6 +12883,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: Playful Rocksalt 让城市里的人与森林中的野鹿实时互动：野鹿会来到装有传感器和摄像头的盐块旁。
 - 实现方式: 装有传感器的盐块把鹿来访的情况实时传到远程用户的手持设备上。
 - 论文: https://doi.org/10.1145/2832932.2837012 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png
 
 #### Utilizing the Cyberforest live sound system with social media to remotely conduct woodland bird censuses in Central Japan — Hill Hiroki Kobayashi (2015)
 - 类型: 研究原型 · 生物: 动物
@@ -12988,6 +13037,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一套 Concept Craft Cards 卡片，为动物-计算机交互开发者提供从概念、体验到实践层面的提示，用于为非人类“客户”设计丰容。
 - 实现方式: 卡片按层级组织，从设计理念到感官主题，配合非人类客户的设计需求使用。
 - 论文: https://doi.org/10.1145/3450741.3466816 (C&C 2021)
+- 图片: https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png
 
 #### Ethics and Power Dynamics in Playful Technology for Animals: Using speculative design to provoke reflection — Fiona French, Ilyena Hirskyj-Douglas, Heli Väätäjä, Patricia Pons (2021)
 - 类型: 论文 · 生物: 动物
@@ -12995,6 +13045,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一次工作坊：用思辨设计讨论面向动物的游戏化技术所涉及的伦理与权力关系。
 - 实现方式: 参与者设计思辨性的跨物种游戏系统，并讨论其影响。
 - 论文: https://doi.org/10.1145/3464327.3464366 (Academic Mindtrek 2021)
+- 图片: https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png
 
 #### Reflecting on Methods in Animal Computer Interaction: Novelty Effect and Habituation — Ilyena Hirskyj-Douglas, Sarah Webber (2021)
 - 类型: 论文 · 生物: 动物
@@ -13010,6 +13061,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 提出 MEAU：一种评估界面对动物用户是否好用的方法，依据该物种的能力来解读动物的行为。
 - 实现方式: 把人机交互中的可用性概念与动物行为学编码结合起来，在使用界面的狗身上加以检验。
 - 论文: https://doi.org/10.1145/3371049.3371060 (ACI 2019)
+- 图片: https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png
 
 #### Opportunities for ACI in PLF: Applying Animal- and User-Centred Design to Precision Livestock Farming — Stacey D. Scott (2019)
 - 类型: 论文 · 生物: 动物
@@ -13024,6 +13076,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 报告在动物-计算机交互会议上举办的三次 ZooJam：类似游戏马拉松的工作坊，跨学科团队按真实需求为动物园动物设计丰容方案。
 - 实现方式: 采用饲养员撰写需求、快速构思和手工原型的工作坊形式，并由组织者进行反思。
 - 论文: https://doi.org/10.1145/3316287.3316294 (ICGJ 2019)
+- 图片: https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png
 
 #### Seven Years after the Manifesto: Literature Review and Research Directions for Technologies in Animal Computer Interaction — Ilyena Hirskyj-Douglas, Patricia Pons (2018)
 - 类型: 论文 · 生物: 动物
@@ -13055,6 +13108,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 论文主张：在人与动物之间还不存在既定交互方式的情境里，“通过设计做研究”能帮助动物-计算机交互研究者展开探索，并以大象丰容原型为例。
 - 实现方式: 以“通过设计做研究”的文献为框架，反思为动物园大象反复制作互动玩具原型的过程。
 - 论文: https://doi.org/10.1145/3152130.3152147 (ACI 2017)
+- 图片: https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png
 
 #### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
 - 类型: 论文 · 生物: 动物
@@ -13087,6 +13141,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一篇文章，讨论那些声称能翻译摇尾和吠叫的“狗互联网”产品的兴起，以及在这些系统中谁掌握权力。
 - 实现方式: 借助参与式设计中关于权力的观点，批判性地解读市售宠物设备和应用。
 - 论文: https://doi.org/10.1145/2942442 (ACM Interactions 2016)
+- 图片: https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png
 
 #### Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs — Shaun Lawson (2015)
 - 类型: 思辨设计 · 生物: 动物
@@ -13094,6 +13149,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 用一组思辨性的宠物追踪产品概念，向宠物主人和动物专家询问他们对“量化”猫狗的看法。
 - 实现方式: 在面向宠物主人的在线研究和动物行为专家访谈中展示思辨设计概念。
 - 论文: https://doi.org/10.1145/2702123.2702260 (CHI 2015)
+- 图片: https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png
 
 #### Animal personas: acknowledging non-human stakeholders in designing for sustainable food systems — Jessica Frawley (2014)
 - 类型: 论文 · 生物: 动物
@@ -13101,6 +13157,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 改造了以用户为中心设计中常用的“用户画像”，在为合作式、可持续的食物系统做设计时，让农场动物与农民一起被代表。
 - 实现方式: 依据养殖理念和动物需要为家畜建立用户画像，并在食品合作社的设计过程中使用。
 - 论文: https://doi.org/10.1145/2686612.2686617 (OzCHI 2014)
+- 图片: https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png
 
 #### Who Is Really In The Center Of Dog Computer Design? — Ilyena Hirskyj-Douglas (2014)
 - 类型: 论文 · 生物: 动物
@@ -13108,6 +13165,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 1045 位创作者 · 1744 
 - 作品内容: 一篇立场论文：追问共同设计、扎根理论等人机交互方法能否从人类用户转用到狗身上，以及“以狗为中心”的设计里真正处在中心的是谁。
 - 实现方式: 回顾人机交互让用户参与的历史，并对照到狗与计算机的设计实践上。
 - 论文: https://doi.org/10.1145/2693787.2693793 (ACE 2014 Workshops (ACI))
+- 图片: https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png
 
 #### Ethical issues and guidelines when conducting HCI studies with animals — Heli Väätäjä (2013)
 - 类型: 论文 · 生物: 动物

@@ -490,5 +490,129 @@
       "url": "https://badaward.nl",
       "type": "award"
     }
+  ],
+  "approaches": [
+    [
+      "grow",
+      "Grow",
+      "培育",
+      "Cultivating living matter into materials, objects and structures.",
+      "把活的物质培育成材料、物件和结构。"
+    ],
+    [
+      "engineer",
+      "Engineer",
+      "编辑",
+      "Genetically modifying or programming organisms and cells.",
+      "对生物和细胞进行基因改造或编程。"
+    ],
+    [
+      "fabricate",
+      "Fabricate",
+      "制造",
+      "Printing, weaving or robotically fabricating with living or biological materials.",
+      "用活的或生物材料进行打印、编织或机器人制造。"
+    ],
+    [
+      "interface",
+      "Interface",
+      "连接",
+      "Building interfaces, sensors and computers that include living organisms.",
+      "构建包含活体生物的界面、传感器和计算机。"
+    ],
+    [
+      "co-create",
+      "Co-create",
+      "共创",
+      "Letting nonhumans act as co-makers, co-performers or co-designers.",
+      "让非人类成为共同的制作者、表演者或设计者。"
+    ],
+    [
+      "care",
+      "Care",
+      "照护",
+      "Designing for caring for, maintaining and living alongside other beings.",
+      "为照料、维系其他生命并与之共处而设计。"
+    ],
+    [
+      "translate",
+      "Translate",
+      "转译",
+      "Making nonhuman perception, signals and communication perceptible to people.",
+      "让人能感知非人类的感知、信号和交流。"
+    ],
+    [
+      "speculate",
+      "Speculate",
+      "思辨",
+      "Imagining and critiquing possible futures through design fiction and critical design.",
+      "通过设计虚构和批判性设计来想象和质疑可能的未来。"
+    ],
+    [
+      "advocate",
+      "Advocate",
+      "赋权",
+      "Giving nonhumans agency, voice, ownership or rights.",
+      "赋予非人类能动性、发言权、所有权或权利。"
+    ],
+    [
+      "theorize",
+      "Theorize",
+      "反思",
+      "Frameworks, methods, reviews and theory for designing beyond the human.",
+      "超越人类的设计的框架、方法、综述与理论。"
+    ]
+  ],
+  "disciplines": [
+    [
+      "product",
+      "Product & industrial design",
+      "产品与工业设计"
+    ],
+    [
+      "material",
+      "Material design",
+      "材料设计"
+    ],
+    [
+      "fashion",
+      "Fashion & textiles",
+      "时尚与纺织"
+    ],
+    [
+      "architecture",
+      "Architecture & spatial design",
+      "建筑与空间设计"
+    ],
+    [
+      "interaction",
+      "Interaction design & HCI",
+      "交互设计与人机交互"
+    ],
+    [
+      "speculative",
+      "Speculative & critical design",
+      "思辨与批判性设计"
+    ],
+    [
+      "art",
+      "Art",
+      "艺术"
+    ],
+    [
+      "theory",
+      "Theory & humanities",
+      "理论与人文"
+    ],
+    [
+      "science",
+      "Science & engineering",
+      "科学与工程"
+    ],
+    [
+      "food",
+      "Food",
+      "食物"
+    ]
   ]
 }

@@ -86,6 +86,11 @@
    "https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/7-Figure7-1.png"
   ]
  },
+ "giulia-gualtieri--spectrum-non-human-agency": {
+  "images": [
+   "https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg"
+  ]
+ },
  "gizem-oktay--living-probes-mycoremediation": {
   "images": [
    "https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/5-Figure3-1.png",
@@ -110,6 +115,11 @@
    "https://figures.semanticscholar.org/e52f1c0b2013baa30cc2a2e9ca0b6bc4e22e297f/3-Figure3-1.png"
   ]
  },
+ "heidi-biggs--bog-girl": {
+  "images": [
+   "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png"
+  ]
+ },
  "ilhan-aslan--iot-plants": {
   "images": [
    "https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/5-Figure4-1.png",
@@ -121,10 +131,27 @@
    "https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/3-Figure1-1.png"
   ]
  },
+ "iuliia-larikova--multispecies-facades": {
+  "images": [
+   "https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg"
+  ]
+ },
+ "jiabao-li--creating-with-more-than-humans": {
+  "images": [
+   "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg",
+   "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg"
+  ]
+ },
  "jodi-forlizzi--infotropism": {
   "images": [
    "https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/1-Figure1-1.png",
    "https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/4-Figure8-1.png"
+  ]
+ },
+ "johanna-just--bird-watching": {
+  "images": [
+   "https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg",
+   "https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg"
   ]
  },
  "jon-back--digital-physical-play-outdoors": {
@@ -153,6 +180,16 @@
   "images": [
    "https://figures.semanticscholar.org/60addb5f1bee7beb7dedb36044f600f664400b19/7-Figure1-1.png"
   ]
+ },
+ "karola-kreitmair--organoid-consciousness": {
+  "images": [
+   "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230926120648556-0603:S0963180123000063:S0963180123000063_fig1.png?pub-status=live"
+  ]
+ },
+ "kavita-gonsalves--transhuman-saunter": {
+  "video": {
+   "url": "https://www.youtube.com/watch?v=P0XpS-6IYjU"
+  }
  },
  "keri-facer--savannah": {
   "images": [
@@ -217,6 +254,12 @@
    "https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/3-Figure2-1.png"
   ]
  },
+ "martin-pumera--magnetospirillum-biobots": {
+  "images": [
+   "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e3ad2b337921/am2c16592_0006.jpg",
+   "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e8c785413082/am2c16592_0003.jpg"
+  ]
+ },
  "masashi-soga--extinction-of-experience": {
   "images": [
    "https://figures.semanticscholar.org/85ec779dadfabe243b477d84fdf10f0d8decfd44/3-Figure2-1.png"
@@ -233,6 +276,19 @@
    "https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/8-Figure6-1.png",
    "https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/9-Figure8-1.png"
   ]
+ },
+ "ned-cooper--would-the-trees-dim-the-lights": {
+  "video": {
+   "url": "https://www.youtube.com/watch?v=Pk_8gR3dN98"
+  }
+ },
+ "neri-oxman--material-ecology": {
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Neri_Oxman_CartesianWax_03.tif/lossy-page1-1280px-Neri_Oxman_CartesianWax_03.tif.jpg"
+  ],
+  "video": {
+   "url": "https://www.youtube.com/watch?v=uscqEIRA2Os"
+  }
  },
  "peter-kahn--hardware-companions": {
   "images": [
@@ -296,6 +352,11 @@
    "https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/3-Figure2-1.png"
   ]
  },
+ "susan-loh--mth-turn-human-plant": {
+  "images": [
+   "https://ars.els-cdn.com/content/image/1-s2.0-S1071581923001374-gr2_lrg.jpg"
+  ]
+ },
  "susan-loh--please-touch-the-plant": {
   "images": [
    "https://figures.semanticscholar.org/ac1fefb2c93bec118edb33bc006643683bd8630a/2-Figure1-1.png"
@@ -319,6 +380,12 @@
    "https://figures.semanticscholar.org/fd30fb11e697de6fc936eb14532ef915830322d3/6-Figure4-1.png"
   ]
  },
+ "wil-srubar--living-building-materials": {
+  "images": [
+   "https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr1_lrg.jpg",
+   "https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr2_lrg.jpg"
+  ]
+ },
  "xiaoge-wang--nature-jar": {
   "images": [
    "https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png",
@@ -329,6 +396,11 @@
   "images": [
    "https://figures.semanticscholar.org/3c1b715a6843a25a660a3dde2935b975eed7777f/5-Figure4-1.png"
   ]
+ },
+ "yiran-ma--piscinemobil": {
+  "video": {
+   "url": "https://www.youtube.com/watch?v=wYR0M1p_Qyw"
+  }
  },
  "yoonji-lee--plant-play": {
   "images": [

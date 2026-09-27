@@ -31078,5 +31078,578 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "doi:10.7551/mitpress/9324.003.0027": {
+  "doi": "10.7551/mitpress/9324.003.0027",
+  "ok": true,
+  "type": "doi",
+  "title": "Disobedience and Feral Robotic Dogs: Hardware Activism, Communities, and Planned Obsolescence",
+  "year": 2023,
+  "venue": "Art + DIY Electronics",
+  "url": "https://doi.org/10.7551/mitpress/9324.003.0027"
+ },
+ "img:https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "video:youtube:uscqEIRA2Os": {
+  "url": "https://www.youtube.com/watch?v=uscqEIRA2Os",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uscqEIRA2Os",
+  "title": "The Future of Architecture: Neri Oxman and the World of Material Ecology",
+  "author": "Architectural Record",
+  "thumbnail": "https://i.ytimg.com/vi/uscqEIRA2Os/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Neri_Oxman_CartesianWax_03.tif/lossy-page1-1280px-Neri_Oxman_CartesianWax_03.tif.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Neri_Oxman_CartesianWax_03.tif/lossy-page1-1280px-Neri_Oxman_CartesianWax_03.tif.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr1_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr1_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr2_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr2_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e3ad2b337921/am2c16592_0006.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e3ad2b337921/am2c16592_0006.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e8c785413082/am2c16592_0003.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6768/10016748/e8c785413082/am2c16592_0003.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Pk_8gR3dN98": {
+  "url": "https://www.youtube.com/watch?v=Pk_8gR3dN98",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Pk_8gR3dN98",
+  "title": "EP12: Would the Trees Dim the Lights? Adopting the Intentional: Stance for More-Than-Human PD",
+  "author": "PDC ",
+  "thumbnail": "https://i.ytimg.com/vi/Pk_8gR3dN98/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg": {
+  "url": "https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:P0XpS-6IYjU": {
+  "url": "https://www.youtube.com/watch?v=P0XpS-6IYjU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "P0XpS-6IYjU",
+  "title": "2022 ACUADS Conference_Day 2_ TransHuman Saunter",
+  "author": "ACUADS",
+  "thumbnail": "https://i.ytimg.com/vi/P0XpS-6IYjU/hqdefault.jpg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S1071581923001374-gr2_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S1071581923001374-gr2_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:wYR0M1p_Qyw": {
+  "url": "https://www.youtube.com/watch?v=wYR0M1p_Qyw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wYR0M1p_Qyw",
+  "title": "PiscineMobil",
+  "author": "anonymous",
+  "thumbnail": "https://i.ytimg.com/vi/wYR0M1p_Qyw/hqdefault.jpg"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230926120648556-0603:S0963180123000063:S0963180123000063_fig1.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230926120648556-0603:S0963180123000063:S0963180123000063_fig1.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "ytmax:uscqEIRA2Os": {
+  "url": "https://i.ytimg.com/vi/uscqEIRA2Os/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Pk_8gR3dN98": {
+  "url": "https://i.ytimg.com/vi/Pk_8gR3dN98/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:P0XpS-6IYjU": {
+  "url": "https://i.ytimg.com/vi/P0XpS-6IYjU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wYR0M1p_Qyw": {
+  "url": "https://i.ytimg.com/vi/wYR0M1p_Qyw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

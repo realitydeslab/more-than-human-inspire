@@ -1366,7 +1366,11 @@
     "arxiv": "",
     "venue": "ACE 2014 Workshops (ACI)",
     "title": "Who Is Really In The Center Of Dog Computer Design?"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png",
+    "https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png"
+   ]
   },
   {
    "id": "heli-vaataja--ethics-hci-studies-animals",
@@ -1441,7 +1445,11 @@
     "arxiv": "",
     "venue": "ACI 2017",
     "title": "Exploring Research through Design in Animal Computer Interaction"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png",
+    "https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png"
+   ]
   },
   {
    "id": "luisa-ruge--meau",
@@ -1478,7 +1486,10 @@
     "arxiv": "",
     "venue": "ACI 2019",
     "title": "A Method for Evaluating Animal Usability (MEAU)"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png"
+   ]
   },
   {
    "id": "ilyena-hirskyj-douglas--novelty-and-habituation",
@@ -1739,7 +1750,11 @@
     "arxiv": "",
     "venue": "OzCHI 2014",
     "title": "Animal personas: acknowledging non-human stakeholders in designing for sustainable food systems"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png"
+   ]
   },
   {
    "id": "shaun-lawson--quantified-cats-and-dogs",
@@ -1775,7 +1790,11 @@
     "arxiv": "",
     "venue": "CHI 2015",
     "title": "Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png",
+    "https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png"
+   ]
   },
   {
    "id": "shaun-lawson--dog-internet",
@@ -1811,7 +1830,11 @@
     "arxiv": "",
     "venue": "ACM Interactions 2016",
     "title": "Power, participation, and the dog internet"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png",
+    "https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png"
+   ]
   },
   {
    "id": "fiona-french--zoojamming",
@@ -1850,7 +1873,11 @@
     "arxiv": "",
     "venue": "ICGJ 2019",
     "title": "ZooJamming: Designing Beyond Human Experience"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png"
+   ]
   },
   {
    "id": "fiona-french--concept-craft-cards",
@@ -1886,7 +1913,10 @@
     "arxiv": "",
     "venue": "C&C 2021",
     "title": "Concept Craft Cards: Deck of theoretical and practical suggestions for ACI developers"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png"
+   ]
   },
   {
    "id": "fiona-french--ethics-power-dynamics-play",
@@ -1925,7 +1955,11 @@
     "arxiv": "",
     "venue": "Academic Mindtrek 2021",
     "title": "Ethics and Power Dynamics in Playful Technology for Animals: Using speculative design to provoke reflection"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png",
+    "https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png"
+   ]
   },
   {
    "id": "ilyena-hirskyj-douglas--seven-years-after-manifesto",
@@ -2307,7 +2341,11 @@
     "arxiv": "",
     "venue": "ACI 2018",
     "title": "Dogs using touchscreens in the home: a case study for assistance dogs operating emergency notification systems"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png",
+    "https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png"
+   ]
   },
   {
    "id": "shuyi-sun--wooflex",
@@ -2596,7 +2634,10 @@
     "arxiv": "",
     "venue": "Animal Behavior and Cognition 2018",
     "title": "DoggyVision: Examining how dogs (Canis familiaris) interact with media using a dog-driven proximity tracker device"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png"
+   ]
   },
   {
    "id": "ilyena-hirskyj-douglas--dog-internet-design-fiction",
@@ -2713,7 +2754,11 @@
     "arxiv": "",
     "venue": "ACI 2025",
     "title": "Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png"
+   ]
   },
   {
    "id": "jennifer-mankoff--pawsabilities",
@@ -2749,7 +2794,10 @@
     "arxiv": "",
     "venue": "UIST 2005",
     "title": "Supporting interspecies social awareness: using peripheral displays for distributed pack awareness"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png"
+   ]
   },
   {
    "id": "jun-rekimoto--cat-at-log",
@@ -2824,7 +2872,11 @@
     "arxiv": "",
     "venue": "CHI 2011",
     "title": "Communication technology for human-dog interaction: exploration of dog owners' experiences and expectations"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png",
+    "https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png"
+   ]
   },
   {
    "id": "carman-neustaedter--pet-video-chat",
@@ -2896,7 +2948,10 @@
     "arxiv": "",
     "venue": "UbiComp 2012",
     "title": "Exploring interspecies sensemaking: dog tracking semiotics and multispecies ethnography"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png"
+   ]
   },
   {
    "id": "clara-mancini--kenneled-dogs",
@@ -2932,7 +2987,11 @@
     "arxiv": "",
     "venue": "UbiComp 2014",
     "title": "UbiComp for animal welfare: envisioning smart environments for kenneled dogs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png",
+    "https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png"
+   ]
   },
   {
    "id": "patrizia-paci--wearer-experience-cats",
@@ -3125,7 +3184,10 @@
     "arxiv": "",
     "venue": "IEEE Security & Privacy 2019",
     "title": "Buddy's Wearable Is Not Your Buddy: Privacy Implications of Pet Wearables"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png"
+   ]
   },
   {
    "id": "anna-zamansky--cat-pain-recognition",
@@ -3269,7 +3331,10 @@
     "arxiv": "",
     "venue": "ACE 2015",
     "title": "Developing a depth-based tracking system for interactive playful environments with animals"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png"
+   ]
   },
   {
    "id": "patricia-pons--sound-to-your-objects",
@@ -3306,7 +3371,10 @@
     "arxiv": "",
     "venue": "ACI 2016",
     "title": "Sound to your objects: a novel design approach to evaluate orangutans' interest in sound-based stimuli"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png"
+   ]
   },
   {
    "id": "patricia-pons--children-design-interspecies-games",
@@ -3452,7 +3520,11 @@
     "arxiv": "",
     "venue": "DIS 2019",
     "title": "Exploring the Reactions of Companion Animals as Unintended Users of Social Robots"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png",
+    "https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png"
+   ]
   },
   {
    "id": "ceara-byrne--dog-driven-robot",
@@ -3640,7 +3712,11 @@
     "arxiv": "",
     "venue": "ACE 2015",
     "title": "Towards a canine-human communication system based on head gestures"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png",
+    "https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png"
+   ]
   },
   {
    "id": "joelle-alcaidinho--collar-sensed-gestures",
@@ -3711,7 +3787,10 @@
     "arxiv": "",
     "venue": "ACE 2015",
     "title": "Towards the non-visual monitoring of canine physiology in real-time by blind handlers"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png"
+   ]
   },
   {
    "id": "clint-zeagler--search-and-rescue",
@@ -3746,7 +3825,11 @@
     "arxiv": "",
     "venue": "ACI 2016",
     "title": "Search and rescue: dog and handler collaboration through wearable and mobile interfaces"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png",
+    "https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png"
+   ]
   },
   {
    "id": "ann-morrison--vibrotactile-vest-hunting-dogs",
@@ -3779,7 +3862,11 @@
     "arxiv": "",
     "venue": "ACI 2016",
     "title": "The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png"
+   ]
   },
   {
    "id": "yoav-golan--dogs-haptic-communication",
@@ -3848,7 +3935,11 @@
     "arxiv": "",
     "venue": "UbiComp 2015",
     "title": "Designing an emergency communication system for human and assistance dog partnerships"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png",
+    "https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png"
+   ]
   },
   {
    "id": "charlotte-robinson--tricks-and-treats",
@@ -3920,7 +4011,11 @@
     "arxiv": "",
     "venue": "DIS 2020",
     "title": "Canine Co-design: Investigating Buttons as an Input Modality for Dogs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png"
+   ]
   },
   {
    "id": "alexandra-weilenmann--hunting-dog-gps",
@@ -3957,7 +4052,11 @@
     "arxiv": "",
     "venue": "CHI 2011",
     "title": "Understanding people and animals: the use of a positioning system in ordinary human-canine interaction"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png",
+    "https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png"
+   ]
   },
   {
    "id": "sabrina-hauser--guide-dog-teams",
@@ -3995,7 +4094,11 @@
     "arxiv": "",
     "venue": "DIS 2014",
     "title": "Understanding guide dog team interactions: design opportunities to support work and play"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png",
+    "https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png"
+   ]
   },
   {
    "id": "joelle-alcaidinho--police-explosive-detection",
@@ -4031,7 +4134,10 @@
     "arxiv": "",
     "venue": "CSCW 2017",
     "title": "Mobile Collaboration for Human and Canine Police Explosive Detection Teams"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png"
+   ]
   },
   {
    "id": "ceara-byrne--instrumented-dog-toys",
@@ -4068,7 +4174,10 @@
     "arxiv": "",
     "venue": "IMWUT 2018",
     "title": "Predicting the Suitability of Service Animals Using Instrumented Dog Toys"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png"
+   ]
   },
   {
    "id": "alper-bozkurt--guide-dog-citizen-science-wearables",
@@ -4139,7 +4248,11 @@
     "arxiv": "",
     "venue": "ACI 2022",
     "title": "WAG’D: Towards a Wearable Activity and Gait Detection Monitor for Sled Dogs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png"
+   ]
   },
   {
    "id": "melody-moore-jackson--nosework-sniffing-sensors",
@@ -4322,7 +4435,10 @@
     "arxiv": "",
     "venue": "ACE 2015",
     "title": "Naturalism and ACI: augmenting zoo enclosures with digital technology"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png"
+   ]
   },
   {
    "id": "fiona-french--dont-cut-to-the-chase",
@@ -4469,7 +4585,11 @@
     "arxiv": "",
     "venue": "ACI 2018",
     "title": "Gorilla game lab: exploring modularity, tangibility and playful engagement in cognitive enrichment design"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png",
+    "https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png"
+   ]
   },
   {
    "id": "christopher-flynn-martin--computer-tasks-great-apes",
@@ -4505,7 +4625,11 @@
     "arxiv": "",
     "venue": "ACI 2018",
     "title": "Computer tasks for great apes promote functional naturalism in a zoo setting"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png",
+    "https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png"
+   ]
   },
   {
    "id": "christopher-flynn-martin--arena-system",
@@ -4621,7 +4745,10 @@
     "arxiv": "",
     "venue": "IJHCS 2017",
     "title": "Interactive technology and human–animal encounters at the zoo"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png"
+   ]
   },
   {
    "id": "sarah-webber--co-designing-with-orangutans",
@@ -5123,7 +5250,11 @@
     "arxiv": "",
     "venue": "CHI 2026",
     "title": "CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png",
+    "https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png"
+   ]
   },
   {
    "id": "rebecca-kleinberger--swing-it-on",
@@ -5315,7 +5446,10 @@
     "arxiv": "",
     "venue": "ACI 2025",
     "title": "Exploring the Cockatoo's Engagement with Audiovisual Stimuli: An Inclusive Avian-IoT Interaction Design"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png"
+   ]
   },
   {
    "id": "jennifer-cunha--cockatoo-communication-board",
@@ -5429,7 +5563,11 @@
     "arxiv": "",
     "venue": "CHI 2026",
     "title": "Towards Interface Design for Parrot-Human Communication: Investigating Parrot Selections of Speech Board Representations"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png",
+    "https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png"
+   ]
   },
   {
    "id": "rebecca-kleinberger--tamagophone",
@@ -5465,7 +5603,10 @@
     "arxiv": "",
     "venue": "ACI 2022",
     "title": "TamagoPhone: A Framework for Augmenting Artificial Incubators to Enable Vocal Interaction Between Bird Parents and Eggs"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png"
+   ]
   },
   {
    "id": "rebecca-kleinberger--listening-with-the-fishes",
@@ -5618,7 +5759,10 @@
     "arxiv": "",
     "venue": "ACE 2015",
     "title": "Playful rocksalt system: animal-computer interaction design in wild environments"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png"
+   ]
   },
   {
    "id": "hill-hiroki-kobayashi--fukushima-animal-data-sharing",
@@ -5835,7 +5979,11 @@
     "arxiv": "",
     "venue": "ACI 2025",
     "title": "Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png",
+    "https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png"
+   ]
   },
   {
    "id": "yvonne-rogers--playbat",
@@ -5872,7 +6020,11 @@
     "arxiv": "",
     "venue": "DIS 2018",
     "title": "Confronting People's Fears about Bats: Combining Multi-modal and Environmentally Sensed Data to Promote Curiosity and Discovery"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png"
+   ]
   },
   {
    "id": "cassie-kresnye--smart-habitat",
@@ -5908,7 +6060,11 @@
     "arxiv": "",
     "venue": "CHI EA 2020",
     "title": "Smart Habitat: A Wildlife Rehabilitation System"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png",
+    "https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png"
+   ]
   },
   {
    "id": "sena-cucumak--urban-noticing-probes",
