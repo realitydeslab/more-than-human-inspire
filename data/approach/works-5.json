@@ -1,0 +1,904 @@
+{
+  "julian-buchgraber--algae-harvester": [
+    "grow"
+  ],
+  "alejandro-alfaro--algee": [
+    "fabricate",
+    "grow"
+  ],
+  "artsilk--artificial-spider-silk": [
+    "engineer",
+    "fabricate"
+  ],
+  "joanna-cheng--astrofeast": [
+    "grow"
+  ],
+  "foamlab--bacterial-cellulose-foam": [
+    "grow"
+  ],
+  "isidora-correa--lithium-bacteria": [
+    "speculate"
+  ],
+  "peerasin-hutaphaet--growink": [
+    "fabricate",
+    "grow"
+  ],
+  "keltex--seaweed-leather": [
+    "grow"
+  ],
+  "microbeworks--microblue": [
+    "grow"
+  ],
+  "judith-zbanek--mycelium-and-fiber": [
+    "grow"
+  ],
+  "sealeo--thermal-packaging": [
+    "fabricate"
+  ],
+  "tera-mira--seaweed-stretch-fibre": [
+    "fabricate"
+  ],
+  "emily-salvi--the-mecc": [
+    "interface"
+  ],
+  "after-life-team--after-life": [
+    "care",
+    "fabricate"
+  ],
+  "ye-wen--algae-symbiont": [
+    "interface"
+  ],
+  "upenn-biodesign--bagasseries": [
+    "fabricate"
+  ],
+  "beehaven-team--beehaven": [
+    "care",
+    "fabricate"
+  ],
+  "macromedia-biodesign--biomandate-2045": [
+    "speculate"
+  ],
+  "brilliant-dyes--cyanobacteria-dyes": [
+    "grow"
+  ],
+  "arnaud-tantet--brio": [
+    "co-create"
+  ],
+  "zhdk-biodesign--chornozem": [
+    "translate"
+  ],
+  "erze-dinarama--drumming-for-love": [
+    "translate",
+    "advocate"
+  ],
+  "jonah-goodman--eco-skin": [
+    "grow"
+  ],
+  "robertina-sebjanic--echoes-of-the-abyss": [
+    "translate"
+  ],
+  "feifei-zhou--fungi-anarchist-designers": [
+    "advocate"
+  ],
+  "easd-castello-biodesign--from-flood-to-future": [
+    "speculate",
+    "care"
+  ],
+  "margent-farm--hemp-panels": [
+    "grow",
+    "fabricate"
+  ],
+  "rimini-protokoll--holy-shit": [
+    "translate"
+  ],
+  "markos-georgiou--hydra": [
+    "grow"
+  ],
+  "bas-emaus--jitiba": [
+    "grow"
+  ],
+  "kelpi--seaweed-coating": [
+    "fabricate"
+  ],
+  "stanford-biodesign--kerra": [
+    "fabricate"
+  ],
+  "karolina-sulich--lamp-biosensor": [
+    "translate"
+  ],
+  "mica-biodesign--living-records": [
+    "speculate",
+    "grow"
+  ],
+  "living-texcelium-team--living-texcelium": [
+    "grow"
+  ],
+  "robert-college-biodesign--meat-of-the-matter": [
+    "speculate"
+  ],
+  "mycoworks--mycelium-muse": [
+    "grow"
+  ],
+  "lotte-wigman--negotiating-boundaries": [
+    "care"
+  ],
+  "tak-keung-chan--reef-of-hope": [
+    "care",
+    "fabricate"
+  ],
+  "keio-kmd-biodesign--risou": [
+    "speculate"
+  ],
+  "cca-architecture-biodesign--shore-thing": [
+    "fabricate"
+  ],
+  "paolina-kuhr--sea-glass": [
+    "grow"
+  ],
+  "soilrevive-team--soilrevive": [
+    "care"
+  ],
+  "northeastern-biodesign--squidkid": [
+    "interface",
+    "care"
+  ],
+  "paola-torres-nunez-del-prado--singing-textiles": [
+    "interface"
+  ],
+  "entangled-others--liquid-strata": [
+    "translate"
+  ],
+  "turenscape--breathing-sea-wall": [
+    "care"
+  ],
+  "ailton-pereira--aiper": [
+    "grow"
+  ],
+  "algbio--algbio": [
+    "grow"
+  ],
+  "risd-terra-carta--biopod": [
+    "care"
+  ],
+  "easd-castello-biodesign--biomatrix": [
+    "fabricate"
+  ],
+  "carbon-polymerizing-team--carbon-polymerizing-system": [
+    "grow"
+  ],
+  "coast-4c--regenerative-seaweed": [
+    "care",
+    "grow"
+  ],
+  "marina-otero-verzier--computational-compost": [
+    "care"
+  ],
+  "marco-barotti--coral-sonic-resilience": [
+    "care"
+  ],
+  "kyran-knauf--crikorama": [
+    "grow"
+  ],
+  "emma-money--cyanoskin": [
+    "grow"
+  ],
+  "green-spot-technologies--ferment-up": [
+    "grow"
+  ],
+  "auburn-biodesign--from-the-ashes": [
+    "fabricate"
+  ],
+  "boqun-huang--grown-blur": [
+    "grow",
+    "fabricate"
+  ],
+  "bence-czibik--hyphal": [
+    "grow"
+  ],
+  "jonne-verheij--interwoven": [
+    "translate"
+  ],
+  "universidad-del-istmo-biodesign--kan-beh": [
+    "fabricate"
+  ],
+  "mcgill-biodesign--kelserra": [
+    "fabricate"
+  ],
+  "christopher-bellamy--lucid-life": [
+    "grow"
+  ],
+  "natural-fiber-welding--mirum": [
+    "fabricate"
+  ],
+  "mialgae--omega-3-algae": [
+    "grow"
+  ],
+  "monc--mycelium-packaging": [
+    "grow"
+  ],
+  "monika-brandic-lipinska--mycolith": [
+    "grow",
+    "speculate"
+  ],
+  "mycl--mylea": [
+    "grow"
+  ],
+  "naturemetrics--edna-biodiversity": [
+    "translate"
+  ],
+  "fara-peluso--ouroboros-records": [
+    "grow",
+    "fabricate"
+  ],
+  "plantpoxy-team--plantpoxy": [
+    "grow"
+  ],
+  "leo-roth--polynation": [
+    "care",
+    "fabricate"
+  ],
+  "paula-andrea-molina--printing-herbarium": [
+    "co-create"
+  ],
+  "seagraft-team--seagraft": [
+    "care"
+  ],
+  "ccs-biodesign--salt-minds": [
+    "translate"
+  ],
+  "marshmallow-laser-feast--seeing-echoes-whale": [
+    "translate"
+  ],
+  "cca-architecture-biodesign--shell-we-dance": [
+    "fabricate"
+  ],
+  "risd-terra-carta--shellf-life": [
+    "fabricate"
+  ],
+  "kat-austen--stranger-to-the-trees": [
+    "translate"
+  ],
+  "mica-biodesign--symbiotic-stitches": [
+    "co-create",
+    "care"
+  ],
+  "anton-vervoort--the-reef": [
+    "care"
+  ],
+  "ntu-biodesign--urban-vein": [
+    "speculate"
+  ],
+  "nid-wildwatch--wildwatch": [
+    "care"
+  ],
+  "mome-biodesign--phen": [
+    "fabricate"
+  ],
+  "alt-tex--alt-tex": [
+    "grow",
+    "fabricate"
+  ],
+  "jesse-adler--alchemical-mycology": [
+    "grow"
+  ],
+  "aquacycl--betts": [
+    "interface"
+  ],
+  "fragmentario--avocado-seed-brick": [
+    "fabricate"
+  ],
+  "biomilq--cell-cultured-milk": [
+    "grow"
+  ],
+  "cca-architecture-biodesign--bacterra": [
+    "fabricate"
+  ],
+  "friedrich-gerlach--biocement-chair": [
+    "fabricate"
+  ],
+  "tec-monterrey-biodesign--brio-kit": [
+    "care"
+  ],
+  "cellsense-team--cellsense": [
+    "fabricate"
+  ],
+  "melissa-ortiz--colores-del-rio": [
+    "translate"
+  ],
+  "reef-design-lab--erosion-mitigation-units": [
+    "care"
+  ],
+  "great-wrap--compostable-wrap": [
+    "grow"
+  ],
+  "heather-dewey-hagborg--hybrid": [
+    "advocate",
+    "speculate"
+  ],
+  "kbcols-sciences--microbial-colours": [
+    "grow"
+  ],
+  "gilberto-esparza--korallysis": [
+    "care",
+    "interface"
+  ],
+  "aula-firsthand-biodesign--lilypad": [
+    "care"
+  ],
+  "thomas-feuerstein--metabolica": [
+    "co-create",
+    "grow"
+  ],
+  "mica-biodesign--mother-nacre": [
+    "fabricate"
+  ],
+  "xuewei-zhao--mr-kombuchas-lab": [
+    "grow"
+  ],
+  "omlab--starter-homes-for-swallows": [
+    "care",
+    "fabricate"
+  ],
+  "o-ga-team--o-ga": [
+    "grow"
+  ],
+  "ana-maria-gomez-lopez--ocular-germination": [
+    "grow"
+  ],
+  "brad-hakes--orbweaver": [
+    "translate"
+  ],
+  "phycolabs--seaweed-fibres": [
+    "fabricate"
+  ],
+  "hang-su--phytosphere": [
+    "interface"
+  ],
+  "sea-forest--asparagopsis": [
+    "grow"
+  ],
+  "honoka--tatami-refab": [
+    "fabricate"
+  ],
+  "annah-sangosanya--purhyphae": [
+    "grow"
+  ],
+  "lucrezia-alessandroni--soothing-cup": [
+    "grow",
+    "care"
+  ],
+  "vasily-sitnikov--urban-biotope": [
+    "care"
+  ],
+  "julia-moser--yearning-for-colour": [
+    "co-create",
+    "grow"
+  ],
+  "kyeongho-park--zero-bag": [
+    "fabricate"
+  ],
+  "eden-harrison--reef-db": [
+    "care"
+  ],
+  "nyu-idm-biodesign--thrive": [
+    "speculate"
+  ],
+  "aerseeds--aerseeds": [
+    "care"
+  ],
+  "berta-daina--agro-biomaterials": [
+    "fabricate"
+  ],
+  "sarah-selby--between-the-lines": [
+    "engineer",
+    "speculate"
+  ],
+  "microbuild-masonry--bio-brick": [
+    "fabricate"
+  ],
+  "ponda--biopuff": [
+    "grow",
+    "care"
+  ],
+  "chitofarm--chitofarm": [
+    "grow"
+  ],
+  "cinzia-ferrari--cyanofabbrica": [
+    "co-create",
+    "grow"
+  ],
+  "disperseed-team--disperseed": [
+    "care",
+    "co-create"
+  ],
+  "yi-zhijian--desert-soilization": [
+    "fabricate"
+  ],
+  "phool--fleather": [
+    "grow"
+  ],
+  "seaforester--green-gravel": [
+    "care"
+  ],
+  "home-grown-rca--touchpad": [
+    "fabricate"
+  ],
+  "zsofia-kollar--human-material-loop": [
+    "fabricate"
+  ],
+  "hutan--wildlife-corridors": [
+    "care"
+  ],
+  "studio-makkink-bey--waterschool-m4h": [
+    "care"
+  ],
+  "divya-verma--kudarat": [
+    "fabricate"
+  ],
+  "lanzatech--gas-fermentation": [
+    "grow"
+  ],
+  "uniandes-biodesign--mustgo": [
+    "interface"
+  ],
+  "natalia-piorecka--mycosella": [
+    "grow"
+  ],
+  "zahra-jajarmikhayat--mosquitoes-and-lemons": [
+    "fabricate"
+  ],
+  "mycomerge-team--mycomerge": [
+    "grow"
+  ],
+  "notpla--seaweed-paper": [
+    "fabricate"
+  ],
+  "bioteos--oxylon": [
+    "interface"
+  ],
+  "parsons-biodesign--order-of-the-biodivine": [
+    "speculate"
+  ],
+  "plstc--plstc": [
+    "engineer"
+  ],
+  "keer-hu--power-mutualism": [
+    "interface"
+  ],
+  "primordial-rca--photobioreactor": [
+    "grow"
+  ],
+  "auke-bleij--respyre": [
+    "grow"
+  ],
+  "resting-reef--resting-reef": [
+    "care"
+  ],
+  "rubi-laboratories--rubi": [
+    "fabricate"
+  ],
+  "robeson-aula-biodesign--sista-sis-biodoula": [
+    "speculate",
+    "care"
+  ],
+  "alinta-krauth--otherhood-of-meep": [
+    "translate"
+  ],
+  "pascal-leboucq--exploded-view": [
+    "theorize"
+  ],
+  "camila-marambio--turba-tol-hol-hol-tol": [
+    "care"
+  ],
+  "shellworks--vivomer": [
+    "grow"
+  ],
+  "weird-ecologies--weird-ecologies": [
+    "care"
+  ],
+  "shonali-shetty--aer": [
+    "fabricate"
+  ],
+  "carbios--enzymatic-recycling": [
+    "engineer"
+  ],
+  "menlin-ng--citra": [
+    "fabricate"
+  ],
+  "coral-reef-rescuer-team--coral-reef-rescuer": [
+    "care"
+  ],
+  "coral-vita--coral-farms": [
+    "grow",
+    "care"
+  ],
+  "aalto-biodesign--dipwrap": [
+    "fabricate"
+  ],
+  "flash-forest--drone-reforestation": [
+    "care"
+  ],
+  "playfool--forest-crayons": [
+    "fabricate"
+  ],
+  "philip-potthast--hiive": [
+    "care"
+  ],
+  "joana-moll--inanimate-species": [
+    "advocate"
+  ],
+  "izabela-swica--new-life-capsule": [
+    "grow"
+  ],
+  "agnes-meyer-brandis--office-for-tree-migration": [
+    "advocate",
+    "care"
+  ],
+  "saic-biodesign--permapak": [
+    "fabricate"
+  ],
+  "ana-goidea--protomycokion": [
+    "fabricate",
+    "grow"
+  ],
+  "gabe-tavas--pyrus": [
+    "grow"
+  ],
+  "helena-nikonole--quorum-sensing": [
+    "engineer"
+  ],
+  "sanergy--black-soldier-fly": [
+    "grow"
+  ],
+  "fergus-telfer--scobio": [
+    "grow"
+  ],
+  "jakob-kukula--spreeberlin": [
+    "translate",
+    "advocate"
+  ],
+  "maurizio-vrenna--algae-grower": [
+    "grow"
+  ],
+  "zhang-tianyi--plant-intelligence-plan": [
+    "advocate"
+  ],
+  "sorawut-kittibanthorn--a-lighter-delicacy": [
+    "fabricate"
+  ],
+  "camila-wandemberg--algae-filters": [
+    "fabricate"
+  ],
+  "carvey-ehren-maigue--aureus": [
+    "fabricate"
+  ],
+  "monica-hartvigsen--bacterial-dye": [
+    "grow"
+  ],
+  "kent-state-biodesign--bioblack": [
+    "grow"
+  ],
+  "sutherlin-santo--biocraft": [
+    "fabricate"
+  ],
+  "hyunseok-an--coral": [
+    "grow"
+  ],
+  "hbbe-biodesign--culina": [
+    "speculate"
+  ],
+  "niamh-damery--econooc": [
+    "grow",
+    "care"
+  ],
+  "galy--lab-grown-cotton": [
+    "grow"
+  ],
+  "cincinnati-biodesign--lifebrik": [
+    "fabricate"
+  ],
+  "uniandes-biodesign--linneo": [
+    "grow"
+  ],
+  "tec-monterrey-biodesign--malgae": [
+    "fabricate"
+  ],
+  "nyu-idm-biodesign--microbial-memories": [
+    "speculate"
+  ],
+  "sasa-spacal--mycomythologies": [
+    "translate"
+  ],
+  "elias-pfuner--nemo": [
+    "care"
+  ],
+  "oflow-team--oflow": [
+    "interface"
+  ],
+  "yuning-chan--project-habitate": [
+    "care"
+  ],
+  "fab-lab-barcelona--remix-el-barrio": [
+    "fabricate"
+  ],
+  "ccs-biodesign--zebra-glass": [
+    "fabricate"
+  ],
+  "theresa-schubert--meat-me": [
+    "speculate",
+    "grow"
+  ],
+  "jan-klingler--bacteria-lamp": [
+    "grow"
+  ],
+  "uts-biodesign--death-on-mars": [
+    "speculate",
+    "engineer"
+  ],
+  "rmit-biodesign--enzer": [
+    "fabricate"
+  ],
+  "fit-biodesign--flora-fur": [
+    "fabricate",
+    "care"
+  ],
+  "nest-makerspace-biodesign--giy-bio-buddies": [
+    "grow"
+  ],
+  "creme-design--hyo-cup": [
+    "grow",
+    "co-create"
+  ],
+  "shneel-malik--indus": [
+    "grow"
+  ],
+  "kazuhito-takadoi--kado": [
+    "grow"
+  ],
+  "le-qara--lab-leather": [
+    "grow"
+  ],
+  "anna-budnikova--mycokarst": [
+    "grow",
+    "speculate"
+  ],
+  "crafting-plastics--nuatan": [
+    "fabricate",
+    "grow"
+  ],
+  "andrew-pelling--ouroboros-steak": [
+    "speculate",
+    "grow"
+  ],
+  "vollebak--plant-and-algae-t-shirt": [
+    "fabricate"
+  ],
+  "uniandes-biodesign--pseudofreeze": [
+    "fabricate"
+  ],
+  "seedballs-kenya--seedballs": [
+    "care"
+  ],
+  "solar-foods--solein": [
+    "grow"
+  ],
+  "avril-corroon--spoiled-spores": [
+    "speculate",
+    "grow"
+  ],
+  "green-nettle-textile--sustainable-sting": [
+    "grow"
+  ],
+  "marley-townsend--the-other-townsend": [
+    "translate"
+  ],
+  "circular-systems--agraloop": [
+    "fabricate"
+  ],
+  "algaeing--algaeing": [
+    "grow"
+  ],
+  "toledo-biodesign--apigiene-hive": [
+    "care"
+  ],
+  "junya-ishigami--art-biotop-water-garden": [
+    "care"
+  ],
+  "bcl--blp-2000d": [
+    "advocate",
+    "engineer"
+  ],
+  "ekaterina-semenova--care-for-milk": [
+    "fabricate"
+  ],
+  "shaina-garfield--leaves-biocoffin": [
+    "grow",
+    "care"
+  ],
+  "ubc-biodesign--mycommunity-toilet": [
+    "grow",
+    "care"
+  ],
+  "uc-davis-biodesign--sorbit": [
+    "grow"
+  ],
+  "sanne-visser--new-age-of-trichology": [
+    "fabricate"
+  ],
+  "uniandes-biodesign--woocoa": [
+    "fabricate"
+  ],
+  "greenwave--3d-ocean-farming": [
+    "grow",
+    "care"
+  ],
+  "nyu-itp-biodesign--beecosystem": [
+    "engineer",
+    "care"
+  ],
+  "fluidsolids--fluidsolids": [
+    "fabricate"
+  ],
+  "nova-innova--living-light": [
+    "interface"
+  ],
+  "jalila-essaidi--mestic": [
+    "fabricate"
+  ],
+  "liv-bargman--quantworm-mine": [
+    "speculate",
+    "care"
+  ],
+  "sahara-forest-project--sahara-forest": [
+    "care"
+  ],
+  "marcus-maeder--sounding-soil": [
+    "translate"
+  ],
+  "edinburgh-biodesign--ukew-2029": [
+    "speculate"
+  ],
+  "vegea--grape-leather": [
+    "fabricate"
+  ],
+  "amam--agar-plasticity": [
+    "fabricate"
+  ],
+  "tjeerd-veenhoven--algae-fabrics": [
+    "fabricate"
+  ],
+  "julian-schwarze--bee2bee": [
+    "care"
+  ],
+  "takuma-yamazaki--bio-vide": [
+    "fabricate"
+  ],
+  "luca-alessandrini--silk-violin": [
+    "fabricate"
+  ],
+  "yumi-sasaki--bugs-beat": [
+    "translate"
+  ],
+  "frank-kolkman--designs-for-flies": [
+    "engineer",
+    "care"
+  ],
+  "christien-meindertsma--flax-chair": [
+    "fabricate"
+  ],
+  "etsuko-yakushimaru--im-humanity": [
+    "engineer"
+  ],
+  "igem-paris-bettencourt--smell-of-us": [
+    "engineer"
+  ],
+  "neri-oxman--water-based-digital-fabrication": [
+    "fabricate"
+  ],
+  "next-nature-network--nano-supermarket": [
+    "speculate"
+  ],
+  "igem-cornell--organofoam": [
+    "engineer"
+  ],
+  "gionata-gatto--agricola": [
+    "fabricate"
+  ],
+  "igem-nyu-gallatin--aseatobacter": [
+    "engineer"
+  ],
+  "olga-kisseleva--eden": [
+    "care"
+  ],
+  "igem-ucl--plastic-republic": [
+    "engineer",
+    "speculate"
+  ],
+  "except-integrated-sustainability--polydome": [
+    "care"
+  ],
+  "lieske-schreuder--snail-poo-linoleum": [
+    "co-create",
+    "fabricate"
+  ],
+  "igem-imperial--auxin": [
+    "engineer"
+  ],
+  "formafantasma--botanica": [
+    "fabricate"
+  ],
+  "tjeerd-veenhoven--palmleather": [
+    "fabricate"
+  ],
+  "igem-kit-kyoto--e-coli-pen": [
+    "engineer"
+  ],
+  "igem-cambridge--eglowli": [
+    "engineer"
+  ],
+  "claudy-jongstra--waste-materials": [
+    "fabricate"
+  ],
+  "igem-harvard--igarden": [
+    "engineer"
+  ],
+  "celestine-briet--beleaf": [
+    "fabricate",
+    "care"
+  ],
+  "jelte-van-abbema--symbiose": [
+    "grow"
+  ],
+  "bios-urn--bios-urn": [
+    "grow"
+  ],
+  "buro-belen--living-colours": [
+    "theorize"
+  ],
+  "sci-arc-biodesign--mutua": [
+    "interface"
+  ],
+  "sva-biodesign--myotomato": [
+    "engineer"
+  ],
+  "not-a-matter-of-taste--edible-cellulose": [
+    "grow"
+  ],
+  "orange-fiber--orange-fiber": [
+    "fabricate"
+  ],
+  "sheng-hung-lee--tetrapot": [
+    "care"
+  ],
+  "cooking-sections--climavore": [
+    "care"
+  ],
+  "cactunes-team--cactunes": [
+    "interface"
+  ],
+  "vidhi-mehta--post-biotics": [
+    "translate"
+  ],
+  "igem-imperial--aqualose": [
+    "engineer",
+    "fabricate"
+  ],
+  "aagje-hoekstra--coleoptera": [
+    "fabricate"
+  ],
+  "nina-van-den-broek--ivorish": [
+    "fabricate"
+  ],
+  "ingrid-nijhoff--living-pixels": [
+    "grow"
+  ],
+  "tjeerd-veenhoven--no-ink": [
+    "fabricate"
+  ],
+  "milo-dool--pendant-lights": [
+    "grow"
+  ],
+  "next-nature-network--in-vitro-meat-cookbook": [
+    "speculate"
+  ]
+}

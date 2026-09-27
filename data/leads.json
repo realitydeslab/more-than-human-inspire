@@ -64,6 +64,78 @@
   "batch": "aci"
  },
  {
+  "name": "Olombria (RCA, BDC 2017)",
+  "why": "BDC team that became a venture using hoverflies as pollinators; worth researching separately.",
+  "link": "https://www.biodesignchallenge.org/2018-in-review",
+  "found_via": "biodesign-challenge-org",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Bioesters / Starter Culture (FIT and MICA, BDC 2016)",
+  "why": "Early BDC teams shown at Biofabricate 2016.",
+  "link": "https://www.biodesignchallenge.org/2017-in-review",
+  "found_via": "biodesign-challenge-org",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Rachel Armstrong – SPIKA / microbial hybrid architecture",
+  "why": "Falling Walls Art & Science 2026 finalist; creator already in the gallery.",
+  "link": "https://falling-walls.com/art-science",
+  "found_via": "isidora-correa",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "iGEM Best Art & Design special prize winners (2014–2016)",
+  "why": "iGEM results pages render client-side from a retired API; the full list of Art & Design-track winners could not be rebuilt.",
+  "link": "https://2016.igem.org/Tracks/Art_Design",
+  "found_via": "igem-imperial",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Lexus Design Award panel finalists 2013–2018",
+  "why": "Only the first finalist per year renders on discoverlexus.com; more bio-based finalists likely exist.",
+  "link": "https://discoverlexus.com/stories/lexus-design-award-2023/past-winners",
+  "found_via": "amam",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Russo Betak – NIPPON pendant lamp from shellfish shells",
+  "why": "SaloneSatellite Award 2026 first prize; shell-waste biomaterial.",
+  "link": "https://www.salonemilano.it/en/articles/salonesatellite-award-2026-future-design-way-algorithms-and-shells",
+  "found_via": "honoka",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Fragments From Shrinking Shore (Poulami Saha)",
+  "why": "Green Concept Award 2026 finalist: fish-scale sequins and leather.",
+  "link": "https://www.gp-award.com/en/projects/fragments",
+  "found_via": "paolina-kuhr",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Seasprout (Rhea Thomas, RCA)",
+  "why": "Green Concept Award 2024 finalist: seedling trays from shrimp-shell chitin.",
+  "link": "https://www.gp-award.com/en/projects/seasprout",
+  "found_via": "boqun-huang",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
+  "name": "Sun+ Shadecloth (Buro Belén)",
+  "why": "Dutch Design Awards 2022 nominee: bioplastic textile curtain for the Dutch Pavilion at Expo 2020.",
+  "link": "https://www.dutchdesignawards.nl/en/gallery/sun-shadecloth/",
+  "found_via": "buro-belen",
+  "status": "open",
+  "batch": "awards"
+ },
+ {
   "name": "OXMAN — EDEN and VIGILS",
   "why": "Recent OXMAN projects (buildings as ecosystems; engineered bacterial biopigment patterning on textiles); year of first showing not confirmed.",
   "link": "https://www.oxman.com/projects/vigils",
@@ -1123,14 +1195,6 @@
   "name": "Alanna Lynch",
   "why": "Fermentation / kombucha performances (Viscous Bodies, ALB 2018)",
   "link": "https://artlaboratory-berlin.org/exhibitions/viscous-bodies/",
-  "found_via": "art-laboratory-berlin",
-  "status": "open",
-  "batch": "exhibitions"
- },
- {
-  "name": "Fara Peluso",
-  "why": "Algae works 'Viva', 'WEA Reactor', 'Niche' (ALB 2019–20)",
-  "link": "https://artlaboratory-berlin.org/exhibitions/watery-ecologies/",
   "found_via": "art-laboratory-berlin",
   "status": "open",
   "batch": "exhibitions"

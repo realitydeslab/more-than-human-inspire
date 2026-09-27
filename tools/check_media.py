@@ -21,7 +21,7 @@ from check_video import UA, check as check_video, parse as parse_video
 IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|#|$)", re.I)
 
 
-TRANSIENT = re.compile(r"HTTP Error (429|5\d\d)|timed out|Temporary failure|Connection reset|RemoteDisconnected")
+TRANSIENT = re.compile(r"HTTP Error (429|5\d\d)|timed out|Temporary failure|Connection reset|RemoteDisconnected|nodename nor servname|Name or service not known|getaddrinfo failed")
 
 
 # Wikimedia rejects browser-like user agents from scripts (robot policy); it wants an identifying one.

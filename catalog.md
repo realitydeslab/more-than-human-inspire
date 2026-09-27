@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, Animal–Computer Interaction and Human–Nature Interaction: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-27 · 1045 creators · 1744 works
+https://morethanhuman.reality.design · 2026-09-28 · 1291 creators · 2028 works
 
 ## How an AI assistant should use this file
 
@@ -134,6 +134,30 @@ Co-designing with other species and designing for their needs alongside ours.
 - Paper: https://doi.org/10.1145/3789492.3796389 (PDC 2026)
 - Project page: https://doi.org/10.1145/3789492.3796389
 
+#### After Life — After Life team (RCA) (2025)
+- Type: Speculative design · Organisms: Animals, Algae, Ecosystems
+- Idea: Remembrance can become habitat for other species.
+- What it is: Personalised memorial reefs 3D-printed from cremation ashes, shellfish waste and algae as an alternative to conventional funerals, designed to support coral and marine life.
+- How it works: Generative design shapes reef forms that are printed and placed at sea.
+- Images: https://content.gp-award.com/assets/media/award25/0-after-life_blogLarge.jpg https://content.gp-award.com/assets/media/award25/1-after-life_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/after-life
+
+#### BeeHaven — BeeHaven team (Yao Yulu, Liu Xinyi, Dai Yanning) (2025)
+- Type: Research prototype · Organisms: Insects, Fungi
+- Idea: Copy the homes bees choose in nature, and grow them.
+- What it is: An urban beehive system whose forms come from 3D scans of tree cavities and are additively manufactured with mycelium; an algorithm places hives where city bees benefit most.
+- How it works: Scanned cavity geometry is printed as moulds and filled with mycelium substrate; site selection uses environmental analysis and A* search.
+- Images: https://content.gp-award.com/assets/media/award25/0-beehaven_blogLarge.jpg https://content.gp-award.com/assets/media/award25/2-beehaven_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/beehaven
+
+#### Brio — Arnaud Tantet (2025)
+- Type: Artwork · Organisms: Insects
+- Idea: Let insects carve non-recyclable waste.
+- What it is: Plastic-eating mealworms and superworms chew polystyrene waste into patterns, and the insect-shaped pieces are cast into vases and knives, with the designer guiding the insects as collaborators.
+- How it works: Superworms (Zophobas morio) eat into polystyrene blocks; the resulting forms are moulded and cast.
+- Images: https://content.gp-award.com/assets/media/award25/0-brio_blogLarge.jpg https://content.gp-award.com/assets/media/award25/1-brio_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/brio
+
 #### Compost Kits: Bridging More-than-Human Theory with Design Practice through Vermicomposting — Tiffany Wun, Ron Wakkary (2025)
 - Type: Research prototype · Organisms: Animals, Bacteria & microbes
 - Idea: Caring for worms and compost makes more-than-human ideas tangible in everyday design work.
@@ -165,6 +189,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Living 'thing ethnography' probe with sensors, plus semi-structured interviews.
 - Paper: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
 
+#### Negotiating Boundaries (Seacrete) — Lotte Wigman (2025)
+- Type: Research prototype · Organisms: Animals, Ecosystems
+- Idea: Design a material whose weathering is a gift to other species.
+- What it is: Seacrete, a building material from waste seashells designed to be shared with marine ecosystems: as it weathers in coastal settings it enriches habitats for non-human life.
+- How it works: Shell aggregate and binders are cast into textured coastal elements that erode into habitat.
+- Images: https://content.gp-award.com/assets/media/award25/0-negotiating-boundaries_blogLarge.jpg https://content.gp-award.com/assets/media/award25/2-negotiating-boundaries_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/negotiating-boundaries
+
 #### Ornithon — Studio Ossidiana (2025)
 - Type: Artwork · Organisms: Animals, Plants
 - Idea: Revive an ancient type, the aviary as a shared garden, for today's cities.
@@ -180,6 +212,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Research-through-design with stakeholder interviews and a one-year prototype of pollinator-friendly nesting structures.
 - Paper: https://doi.org/10.21606/nordes.2025.46 (Nordes 2025)
 - Project page: https://doi.org/10.21606/nordes.2025.46
+
+#### Reef of Hope — Tak Keung Chan (2025)
+- Type: Research prototype · Organisms: Animals, Ecosystems
+- Idea: Shape a reef around the larvae that will live on it.
+- What it is: A topologically designed artificial reef made from marine-safe material with upcycled oyster shell, whose geometry improves water flow and helps oyster larvae settle and grow.
+- How it works: Computational topology optimisation shapes 3D-printed units; oyster-shell aggregate provides familiar settlement cues.
+- Video: https://www.youtube.com/watch?v=Hj6UgMh6qGk
+- Images: https://www.jamesdysonaward.org/Document/7e97ea0b-b6cc-4acc-8db2-685c61de74df/img005.jpg https://www.jamesdysonaward.org/Document/c3e251be-bb54-4a70-807e-de01a2403103/img002.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2025/project/reef-of-hope-ar-for-oyster-reef-restoration/
 
 #### Tangible theory as tool for attuning to non-human voices in domestic gardens — Mette Gislev Kjærsgaard, Tau Ulv Lenskjold (2025)
 - Type: Paper · Organisms: Plants, Insects, Ecosystems
@@ -205,13 +246,22 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://designmuseum.org/image/a074dfd2-ff00-4bff-aaa2-aa0e6600eadc?width=1200
 - Project page: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
 
+#### Crikorama — Kyran Knauf (2024)
+- Type: Product & platform · Organisms: Insects
+- Idea: Bringing a whole insect life cycle into the kitchen changes how people relate to the food.
+- What it is: A compact home machine that manages the whole life cycle of crickets for protein, restarting each generation from the eggs of the previous one.
+- How it works: Chambers for breeding, rearing and harvesting are automated for temperature, feed and water.
+- Video: https://www.youtube.com/watch?v=ZfYwQlYxqTM
+- Images: https://www.jamesdysonaward.org/Document/72c652d2-a2d0-4fbb-94c8-bb5186ee2a2a/wearelive.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2024/project/crikorama/
+
 #### Crip Reflections on Designing with Plants: Intersecting Disability Theory, Chronic Illness, and More-than-Human Design — Sylvia Janicki (2024)
 - Type: Paper · Organisms: Plants, Human body
 - Idea: Failures and maintenance reveal how plants, technology and ill bodies depend on each other.
 - What it is: An autoethnography of designing, exhibiting and maintaining an interactive bioart installation with plants, told through breakdowns: plants needing care, buggy biodata and a chronically ill designer's body.
 - How it works: Deconstructs three exhibitions of the installation using crip theory, organised around maintenance, biodata and resistance to control.
 - Paper: https://doi.org/10.1145/3643834.3661509 (DIS 2024)
-- Images: https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/10-Figure4-1.png
+- Images: https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png
 - Project page: https://doi.org/10.1145/3643834.3661509
 
 #### Designing from the plants' perspective — Francesco Vergani (2024)
@@ -329,6 +379,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/70b44906f8-1769725226/1_0052_bbg_latespringevening.jpg https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/3e77a88b26-1769725226/4_pollinator-lounge-4-photo-by-liz-ligon-courtesy-of-brooklyn-botanic-garden.jpg
 - Project page: https://www.antsoftheprairie.com/projects/pollinator-lounge
 
+#### PolyNation — Leo Roth (2024)
+- Type: Research prototype · Organisms: Insects, Algae, Plants
+- Idea: Design life support for pollinators, not only for people.
+- What it is: 3D-printed artificial flowers made mainly from algae-based biomaterial, filled with 'C-Pollen' made from citrus waste, to support native pollinators in cities while native plants recover.
+- How it works: Algae-bioplastic flowers carry seeds and a citrus-derived pollen substitute and degrade into the soil.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648978569-EVOEDR6MOJJFIGHR2VV2/Polyflower+bloom+v2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648977038-AMISIY41FZUTGZ4RDWL7/Polyflower+%2B+Pollinators.png
+- Project page: https://www.biodesignchallenge.org/rye-country-day-school-2024
+
 #### The Elephant in the Room — Jiabao Li (2024)
 - Type: Artwork · Organisms: Animals
 - Idea: Art can act as evidence and advocacy for animals inside a courtroom.
@@ -347,6 +405,23 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=pVZCkespal8
 - Images: https://designmuseum.org/image/6a9f9a8b-a5cd-4d8d-be5a-f72b811c4a41?width=1200 https://static.wixstatic.com/media/3bfbd7_bc4ab2e27a1a4d8bb20f172af98003a1~mv2.jpeg
 - Project page: https://www.suomikoivisto.fi/alusta
+
+#### Brio-Kit — Tecnológico de Monterrey Biodesign Challenge team (2023)
+- Type: Product & platform · Organisms: Insects
+- Idea: Caring for a waste-eating insect is a lesson in both ecology and plastics.
+- What it is: An educational kit in which students raise mealworms and watch them biodegrade polystyrene, learning the worm's life cycle along the way.
+- How it works: Tenebrio molitor larvae digest polystyrene with the help of their gut bacteria; the kit provides habitat boxes and guides.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884836079-MYD73AYEAXXBED1IOX8O/IMG-20230410-WA0006.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884835827-NAJA2IZ3F1YK5QMC79ZJ/IMG-20230422-WA0025.jpg
+- Project page: https://www.biodesignchallenge.org/instituto-tecnologico-de-monterrey-2023
+
+#### Erosion Mitigation Units (EMUs) — Reef Design Lab (2023)
+- Type: Product & platform · Organisms: Animals, Algae, Ecosystems
+- Idea: Coastal defence can be designed as habitat.
+- What it is: Modular low-carbon concrete units that interlock to protect eroding shorelines, with textured crevices designed for algae, shellfish and fish, so the defence becomes a reef.
+- How it works: Cast units with biomimetic surface textures are stacked like a revetment and colonised by marine life.
+- Video: https://www.youtube.com/watch?v=tCeYPZaij7E
+- Images: https://static.dezeen.com/uploads/2023/07/hsyR6XbnGVP8mi5XfIN5XVchprABeURwLYyKmiNf_Z33nsize_2048.jpeg
+- Project page: https://www.reefdesignlab.com/
 
 #### I.N.S.E.C.T. Wall Twin: Designing for and with Insects, Fungi, and Humans — Dan Parker, Đan Vy Vu (2023)
 - Type: Paper · Organisms: Insects, Fungi, Human body
@@ -373,6 +448,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/dc7b0f84-ced6-466b-901d-407a21cd14de/mainphoto2_edit2.jpg
 - Project page: https://yutaikeya.com/projects/metamorphonic
 
+#### Nature-Friendly Starter Homes for Swallows — Omlab (2023)
+- Type: Product & platform · Organisms: Animals
+- Idea: Design a home for another species that is meant to be temporary.
+- What it is: 3D-printed temporary nests for house and barn swallows made from bio-based, calcium-rich materials; once the birds settle in a new district and build mud nests, the starter homes break down into the soil.
+- How it works: Printed without concrete, glue or nails from circular calcium-rich feedstock.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2023/06/1-Omlab-Natuurvriendelijke-starterswoning-voor-de-zwaluw-DDA23-product-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/natuurvriendelijke-starterswoning-voor-de-zwaluw/
+
 #### Pottery Wheel (Making Pottery with Bees) — Yuta Ikeya, Bahareh Barati (2023)
 - Type: Research prototype · Organisms: Insects, Human body
 - Idea: Let bees interrupt human work, so sharing a material becomes a negotiation.
@@ -389,6 +472,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Experimental design workshops analysed for how they produce multiple human and microbial perspectives.
 - Paper: https://doi.org/10.1080/07370024.2023.2276527 (HCI Journal 2023)
 - Project page: https://doi.org/10.1080/07370024.2023.2276527
+
+#### The Urban Biotope — Vasily Sitnikov (2023)
+- Type: Research prototype · Organisms: Plants, Insects, Animals
+- Idea: A façade can be designed as an ecosystem shared with other species.
+- What it is: 15 cm thick concrete façade screens cast in ice formwork, whose deep cells give plants, insects and nesting birds a habitat around the building while absorbing noise and regulating heat.
+- How it works: Ice waste from urban infrastructure is shaped into moulds that melt away, leaving complex cavities in the cast concrete.
+- Images: https://ars.electronica.art/starts-prize/files/2024/06/urban-biotop_press_sitnikov_010-1024x576.jpg
+- Project page: https://iceformwork.com
 
 #### Turner Boxes — Ron Wakkary, Doenja Oogjes (2023)
 - Type: Research prototype · Organisms: Insects, Plants
@@ -407,6 +498,22 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Situationist-style drifting combined with recursive recipe-making, compiled into a cookbook and a 'test kitchen'.
 - Paper: https://doi.org/10.21606/nordes.2023.65 (Nordes 2023)
 - Project page: https://doi.org/10.21606/nordes.2023.65
+
+#### reef dB — Eden Harrison (2023)
+- Type: Research prototype · Organisms: Animals, Ecosystems
+- Idea: Energy infrastructure can be designed for the ears and homes of marine life.
+- What it is: A biophilic metamaterial structure placed around offshore wind turbines that damps underwater operational noise while its form doubles as reef habitat on the North Sea floor.
+- How it works: Acoustic metamaterial geometry attenuates low-frequency noise and provides crevices for colonisation.
+- Images: https://www.jamesdysonaward.org/Document/24d2d801-7c21-471f-964a-0e6a96a260f7/heroshotlowfi.jpg https://www.jamesdysonaward.org/Document/f2692c47-45d4-4c7c-807e-b6a6457b888a/reefdb-1.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2023/project/reef-db/
+
+#### tHrIVE — NYU Integrated Design & Media Biodesign Challenge team (2023)
+- Type: Speculative design · Organisms: Insects, Bacteria & microbes
+- Idea: Pollinators could be carriers of an entire microbial commons.
+- What it is: Building on the Hénaff Lab's holobiont research, the team imagines a New York in which the microbes humans need collapse and honeybees are enlisted to re-inoculate the city with life-saving microbes.
+- How it works: Speculative campaign: maps of hive routes, subway graphics, PPE and wheat-paste posters for a 2073 Brooklyn Navy Yard.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883198226-XQOYOTDMDBZU09XZ7AHF/Copy+of+2023-bdc-thrive-hivehopmap.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883206469-0R67V1SZYVDPSKT6HS1I/Copy+of+2023-bdc-thrive-wheatpasting.jpg
+- Project page: https://www.biodesignchallenge.org/nyu-idm-2023
 
 #### AI Agent for Habitat Structure Design — Stanislav Roudavski (2022)
 - Type: Paper · Organisms: Animals, Plants
@@ -432,6 +539,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Generative and parametric modelling of cavities to meet stakeholder needs, then CNC and robotic manufacturing of the structures (Dan Parker et al.).
 - Paper: https://doi.org/10.1111/2041-210X.13806 (Methods in Ecology and Evolution 2022)
 
+#### Chitofarm — Chitofarm (Charlotte Böhning & Mary Lempres) (2022)
+- Type: Research prototype · Organisms: Insects
+- Idea: An insect colony can be a recycling plant, a material source and a farm at once.
+- What it is: A mealworm-powered biodigester in which mealworms eat polystyrene foam waste; the proposal also used their chitin exoskeletons for biodegradable packaging and the insects as protein.
+- How it works: Tenebrio molitor larvae digest polystyrene with gut microbes; chitin is extracted from moulted exoskeletons.
+- Images: https://discoverlexus.com/_statamic/stories/lexus-design-award/HERO_chitafarm_final.jpg
+- Project page: https://discoverlexus.com/stories/lexus-design-award-2023/program-details/chitofarm
+
 #### Cultivating more-than-human care: Exploring bird watching as a landscaping practice on the example of sand martins and flooded gravel pits — Johanna Just (2022)
 - Type: Paper · Organisms: Animals, Ecosystems
 - Idea: Bird watching is a way of caring for landscapes that designers can adopt.
@@ -439,6 +554,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Qualitative case studies drawing on multispecies studies and landscape thinking.
 - Paper: https://doi.org/10.1016/j.foar.2022.04.007 (Frontiers of Architectural Research 2022)
 - Images: https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg
+
+#### DISPERSEED — DISPERSEED team (Universitat Politècnica de València) (2022)
+- Type: Research prototype · Organisms: Plants, Animals, Ecosystems
+- Idea: Design with seed-dispersing animals as partners in restoration.
+- What it is: 3D-printed, biodegradable and edible spheres containing native seeds for burned forests; birds and other animals eat and carry them, spreading the seeds after wildfires.
+- How it works: Edible biomaterial shells are printed around seed mixes chosen for the burned ecosystem.
+- Video: https://www.youtube.com/watch?v=8OQPCjWEILM
+- Images: https://www.jamesdysonaward.org/Document/255d2cfa-e8a7-4481-a928-4dfed7170b16/diapositivas-definitivomesa-de-trabajo-1.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2022/project/disperseed/
 
 #### Designing for Multispecies Commons: Ecologies and Collaborations in Participatory Design — Michael Haldrup (2022)
 - Type: Paper · Organisms: Animals, Plants, Ecosystems
@@ -448,6 +572,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - Paper: https://doi.org/10.1145/3537797.3537801 (PDC 2022)
 - Video: https://www.youtube.com/watch?v=mcJbmSPBays
 - Project page: https://doi.org/10.1145/3537797.3537801
+
+#### Hutan wildlife corridors — Hutan (2022)
+- Type: Product & platform · Organisms: Animals, Plants, Ecosystems
+- Idea: Design landscapes for the movement of other species.
+- What it is: A community-run programme that reforests corridors along the Kinabatangan river so orangutans, elephants and other species can move again between forest fragments.
+- How it works: Local teams plant native trees and build rope bridges to reconnect habitat patches.
+- Video: https://www.youtube.com/watch?v=8mK1jbHjnTM
+- Images: https://earthshotprize.org/wp-content/uploads/2022/11/Hutan-worker-looks-up-at-jungle.jpg
+- Project page: https://www.hutan.org.my/
 
 #### Multispecies worlding through design — Michelle Westerlaken (2022)
 - Type: Paper · Organisms: Animals, Ecosystems
@@ -481,6 +614,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=Fbcpp4WtCGM
 - Images: https://offpolinn.com/wp-content/uploads/2022/12/01-COLEGIO-REGGIO-OFFPOLINN.jpg https://offpolinn.com/wp-content/uploads/2022/12/02-COLEGIO-REGGIO-OFFPOLINN.jpg
 - Project page: https://offpolinn.com/work/colegio-reggio-explora/
+
+#### Resting Reef — Resting Reef (Louise Skajem & Aura Murillo) (2022)
+- Type: Speculative design · Organisms: Animals, Ecosystems
+- Idea: A grave can become a home for other species.
+- What it is: A funeral service and marine cemetery in which cremated remains become part of artificial reef structures on the seabed, designed to be colonised by marine life.
+- How it works: Ash-containing reef units are shaped for settlement, placed on degraded seabeds and monitored.
+- Video: https://vimeo.com/665981630
+- Images: https://rca-media2.rca.ac.uk/images/Render_modified.2e16d0ba.fill-1200x1200.png
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/resting-reef
 
 #### Symbiocean: reef prototype Kiki — Rasa Weber (2022)
 - Type: Research prototype · Organisms: Animals, Ecosystems
@@ -557,7 +699,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: A work-in-progress biodesign toolkit that lets children grow and make artifacts with mycelium, framed as interspecies creative learning.
 - How it works: Design-based research on a kit of mycelium substrate, moulds and activities tested with young learners.
 - Paper: https://doi.org/10.1145/3459990.3465178 (IDC 2021)
-- Images: https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/4-Figure2-1.png https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/3-Figure1-1.png
+- Images: https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/4-Figure2-1.png
 
 #### Non-human Personas: Including Nature in the Participatory Design of Smart Cities — Martin Tomitsch, Marcus Foth (2021)
 - Type: Paper · Organisms: Animals, Plants, Ecosystems
@@ -602,6 +744,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://superflux.in/wp-content/uploads/2021/06/Web-Hero-V2-1024x683.jpg
 - Project page: https://superflux.in/index.php/work/refuge-for-resurgence/
 
+#### Sanergy circular sanitation — Sanergy (2021)
+- Type: Product & platform · Organisms: Insects, Bacteria & microbes
+- Idea: Design a city's waste system around the insects that can eat it.
+- What it is: Human and organic waste collected from urban sanitation in Nairobi is fed to black soldier fly larvae and composted, producing insect-protein feed and organic fertiliser.
+- How it works: Hermetia illucens larvae convert organic waste into biomass; residues are composted into fertiliser.
+- Video: https://www.youtube.com/watch?v=Os5j1y8O9QM
+- Images: https://earthshotprize.org/wp-content/uploads/2021/09/SANERGY-2-1.jpg
+- Project page: https://www.sanergy.com/
+
 #### The Birds' Palace — Studio Ossidiana (2021)
 - Type: Artwork · Organisms: Animals, Plants, Ecosystems
 - Idea: Let birds be the gardeners of a public artwork.
@@ -628,6 +779,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/112fe272-cf71-4aa5-a132-58f067e0f24d/IMG_20200914_165546.jpg
 - Project page: https://www.heidibiggsdesign.com/watching-myself-watching-birdspabjection-ecological-thinking-and-posthuman-design/
 
+#### Econooc — Niamh Damery (2020)
+- Type: Research prototype · Organisms: Fungi, Insects
+- Idea: Grow a habitat that feels like a tree rather than build a box.
+- What it is: A conservation beehive for wild native Irish black bees, grown from mycelium on agricultural by-products to mimic a hollow tree cavity, with a seeded-paper calendar on pollinator-friendly gardening.
+- How it works: Mycelium is grown in a mould on straw-type substrates into a thick, insulating hive body.
+- Video: https://www.youtube.com/watch?v=83gwk4Os1ms
+- Images: https://www.jamesdysonaward.org/Document/f472b3a0-c6eb-4fe3-9c3a-ac1efddc3ec7/econooc-head-image.jpg https://www.jamesdysonaward.org/Document/fefc3d63-7a54-4e46-ab42-2435b68337e3/testing-and-models.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2020/project/econooc/
+
 #### Imagining Multispecies Worlds — Michelle Westerlaken (2020)
 - Type: Book & essay · Organisms: Animals, Insects, Ecosystems
 - Idea: Design can practise imagination as an ethical skill for living with other species.
@@ -637,6 +797,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=vmPTLMXWSOE
 - Images: https://michellewesterlaken.com/2021/09/phdsmaller_w.jpg
 - Project page: https://michellewesterlaken.com/portfolio/phd-thesis/
+
+#### Project Habitate — Yuning Chan (2020)
+- Type: Speculative design · Organisms: Fungi, Plants
+- Idea: Humans can provide ecological services as hosts for endangered organisms.
+- What it is: A living wearable that lets people host the mosses, lichens and fungi losing their home as ash dieback kills Europe's ash trees, until new ash populations grow back.
+- How it works: A biomimetic material mimicking ash bark supports moss, lichen and fungal cultures on the body.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/Biomimicry-living-wearable-1024x512.jpg https://ars.electronica.art/starts-prize/files/2021/06/Material-sample-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/project-habitate/
 
 #### The City of Birds — Studio Ossidiana (2020)
 - Type: Research prototype · Organisms: Animals
@@ -722,6 +890,15 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: The paper introduces 'zoepolis', a political community of humans and nonhumans, and discusses the exhibition Zoepolis: Design for Plants and Animals as an experiment in multispecies care.
 - How it works: Curatorial case study grounded in Kymlicka and Donaldson's animal citizenship, Haraway and Latour.
 - Paper: https://doi.org/10.21606/nordes.2019.006 (Nordes 2019)
+- Video: https://www.youtube.com/watch?v=T9lNNC48cGk
+
+#### Apigiene Hive — University of Toledo Biodesign Challenge team (2018)
+- Type: Research prototype · Organisms: Insects, Algae
+- Idea: Design the hive entrance as a grooming tool for the colony.
+- What it is: A redesigned Langstroth beehive with a fibrous brush holding diatoms from zebra-mussel habitats; bees brush past it on entering, which removes Varroa mites from their bodies.
+- How it works: Sharp silica shells of diatoms abrade mites mechanically, avoiding chemical miticides inside the hive.
+- Video: https://www.youtube.com/watch?v=BHRuGA1Ao4s
+- Project page: https://www.biodesignchallenge.org/university-of-toledo
 
 #### Connected Seeds and Sensors: Co-designing Internet of Things for sustainable smart cities with urban food-growing communities — Sara Heitlinger (2018)
 - Type: Research prototype · Organisms: Plants, Ecosystems
@@ -748,7 +925,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: A participatory speculative walk through Hasselt that presented outcomes of a workshop on 'more-than-human' smart cities, asking how urban infrastructure could be designed for cohabitation with other species.
 - How it works: Curated situated walk combining provisional prototypes and speculative scenarios tied to local urban infrastructure.
 - Paper: https://doi.org/10.1145/3210604.3210641 (PDC 2018)
-- Images: https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure3-1.png
+- Images: https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png
 - Project page: https://doi.org/10.1145/3210604.3210641
 
 #### Prototyping Multispecies Environments — Martín Tironi (2018)
@@ -790,7 +967,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: Starting from how people gather around blossoming sakura trees, the paper argues that plants take part in computing through their urge to spread, and reviews how plants appear in computer systems and design.
 - How it works: Triangulates multispecies ethnography of cherry-blossom viewing, theory, and two literature reviews.
 - Paper: https://doi.org/10.1145/2995257.2995393 (ACI 2016)
-- Images: https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/7-Figure7-1.png
+- Images: https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png
 - Project page: https://doi.org/10.1145/2995257.2995393
 
 #### Bee Brick — Green&Blue (2015)
@@ -834,6 +1011,22 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/04b6a06017-1771258986/aop_batcloud.jpg https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/cd700e0a31-1771258992/bat-cloud-summer.jpg
 - Project page: https://www.antsoftheprairie.com/projects/bat-cloud
 
+#### Polydome — Except Integrated Sustainability (2012)
+- Type: Research prototype · Organisms: Plants, Animals, Fungi
+- Idea: Design a farm as a community of species that feed and protect each other.
+- What it is: A polyculture greenhouse modelled on a natural ecosystem, combining over 50 crops, two mushroom species, chickens, fish and bees so no synthetic fertiliser or pesticide is needed.
+- How it works: Species are placed so waste streams, pollination and pest control loop between them.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_0-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_1-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/polydome/
+
+#### Slakkenpoep-linoleum (Snail-poo linoleum) — Lieske Schreuder (2012)
+- Type: Research prototype · Organisms: Animals
+- Idea: Other animals can be small factories — with care for their diet.
+- What it is: Garden snails are fed coloured paper and their colour-keeping droppings are collected with a feeding machine and processed into a linoleum-like floor material.
+- How it works: A snail-feeding machine collects droppings, which are pressed with binders into sheets.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/slakkenpoep-lieske-schreuder-1800x1349-1-1024x767.jpg
+- Project page: https://new-material-award.nl/en/slakkenpoep-linoleum/
+
 #### Habitat Wall — Joyce Hwang (2011)
 - Type: Speculative design · Organisms: Animals
 - Idea: Buildings already house animals; design for it on purpose.
@@ -849,6 +1042,14 @@ Co-designing with other species and designing for their needs alongside ours.
 - How it works: Ribbed timber construction with roosting zones and bat-attracting plants at the base, next to insect-rich water.
 - Images: https://www.antsoftheprairie.com/media/pages/projects/bat-tower/a6e7b601f9-1769725221/1-bat-tower.jpg https://www.antsoftheprairie.com/media/pages/projects/bat-tower/009b23f938-1769725221/3-bat-tower-photo-by-albert-chao.jpg
 - Project page: https://www.antsoftheprairie.com/projects/bat-tower
+
+#### BeLeaf — Celestine Briët (2009)
+- Type: Research prototype · Organisms: Plants, Animals
+- Idea: Design an object's lifespan to match a bird's season.
+- What it is: A lightweight biodegradable material made from fallen autumn leaves and natural binders, shown as a birdhouse that shelters wildlife for about a year before decaying into the soil.
+- How it works: Leaves are pressed with natural binders and folded into a birdhouse.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/BeLeaf-coloured-leaves-Celestine-Briet-expo-NAi-1024x768.jpg
+- Project page: https://new-material-award.nl/en/beleaf/
 
 #### Local River — Mathieu Lehanneur (2008)
 - Type: Research prototype · Organisms: Animals, Plants
@@ -986,6 +1187,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://www.youtube.com/watch?v=bgnQpzwg-fA
 - Project page: https://doi.org/10.1145/3715336.3735803
 
+#### Chornozem — Zurich University of the Arts (ZHdK) Biodesign Challenge team (2025)
+- Type: Research prototype · Organisms: Ecosystems, Plants
+- Idea: Military tools can be turned toward repairing the ecocide they helped cause.
+- What it is: A low-cost, field-ready way to map heavy-metal contamination left by the Russian invasion in Ukraine's black-earth farmland: a modified curcumin solution mixed into fertiliser changes colour where metals are present, and repurposed drones scan the fields.
+- How it works: Curcumin reacts visibly with heavy metals under UV light; drone imagery and computer vision turn the reactions into contamination maps.
+- Video: https://www.youtube.com/watch?v=d2ZblOmFRfk
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483509601-Z0K498U6DSAO7KMVVLBI/soil_curcumin_reaction.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483501163-2U6BIJPV1EMAZMTKB51L/drone_render.jpg
+- Project page: https://www.biodesignchallenge.org/zurich-university-of-the-arts-2025
+
 #### CryoScapes — Jiabao Li (2025)
 - Type: Artwork · Organisms: Ecosystems
 - Idea: Melting is the message: a sculpture that is co-made by local heat and humidity.
@@ -1011,6 +1221,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Drawing on Barad's agential cuts, the authors prototype interface moves that reframe outputs of agent-based forest simulations.
 - Paper: https://doi.org/10.1145/3715336.3735404 (DIS 2025)
 
+#### Drumming for Love — Erzë Dinarama (2025)
+- Type: Artwork · Organisms: Insects, Ecosystems
+- Idea: The first signals of drought come from other species; listening to them is political.
+- What it is: A work that stages the vibrational 'drumming' communication of aquatic insects to investigate how drought is sensed and governed after Piedmont suspended the ecological minimum flow of its rivers.
+- How it works: Contact microphones capture stonefly-style substrate drumming, developed with fishermen, activists and scientists.
+- Video: https://www.youtube.com/watch?v=CnlT9KzSHFU
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/drumming-for-love_erze_ogr__cover-1024x576.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/drumming-for-love/
+
 #### Echo of the Abyss — Beatrice Maggipinto (2025)
 - Type: Research prototype · Organisms: Animals, Ecosystems
 - Idea: Let animals guide people into an ecosystem most of them will never reach.
@@ -1018,6 +1237,22 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: VR experience designed with HCI, ecopsychology and hydrocommons theory, tested in early pilot studies.
 - Paper: https://doi.org/10.1145/3689050.3704432 (TEI 2025)
 - Project page: https://doi.org/10.1145/3689050.3704432
+
+#### Echoes of the Abyss — Robertina Šebjanič (2025)
+- Type: Artwork · Organisms: Animals, Ecosystems
+- Idea: Bring the hidden toxic legacy for marine life into public perception.
+- What it is: Research into chemical munitions dumped on the Baltic and Adriatic seabeds, developed aboard the TARA research vessel and turned into immersive sound and installation work.
+- How it works: Hydrophone recordings, sediment data and archival research are composed into spatial sound installations.
+- Images: https://falling-walls.com/sites/default/files/styles/content/public/medien/262/bilder/echos-of-abyss-adriatic1-by-robertina-sebjanic-photo-by-borut-brozovic-drugo-more-made-in-full-3-2-1_0.jpg?h=a2a2f083&itok=sPa6sli5
+- Project page: https://falling-walls.com/science-breakthroughs-success-stories-robertina-sebjanic
+
+#### From Flood to Future — EASD Castelló Biodesign Challenge team (2025)
+- Type: Speculative design · Organisms: Fungi, Ecosystems
+- Idea: Design for floods should open debate about care and responsibility, not only deliver fixes.
+- What it is: A speculative project on resilience in Mediterranean regions after the 2024 DANA floods in Valencia, proposing mycelium pavements, raised zones, a civic early-warning app and distributed governance.
+- How it works: Built from survivors' testimonies; five interventions combine biomimetic surfaces, AIoT sensing and public engagement tools.
+- Video: https://www.youtube.com/watch?v=e2_M55DO7GQ
+- Project page: https://www.biodesignchallenge.org/easd-castello-2025
 
 #### Futile Efforts — Jiabao Li (2025)
 - Type: Artwork · Organisms: Ecosystems
@@ -1059,6 +1294,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://www.youtube.com/watch?v=vYdiSg_3lxQ
 - Project page: https://doi.org/10.21606/iasdr.2025.992
 
+#### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
+- Type: Research prototype · Organisms: Bacteria & microbes, Plants, Ecosystems
+- Idea: Remediation can listen to the plants it is trying to help.
+- What it is: A bioremediation station for heavy-metal-polluted soil that releases microbes to stabilise toxins; units share data and AI times releases according to how plants recover.
+- How it works: Inspired by Arabidopsis signalling and mycorrhizal networks, networked stations meter microbial inoculants.
+- Video: https://www.youtube.com/watch?v=BqE8Wr__hjo
+- Images: https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2025/project/soilrevive-2/
+
 #### The Coast Is Not a Line, It's a Zone — Feifei Zhou (2025)
 - Type: Artwork · Organisms: Ecosystems, Animals
 - Idea: Vernacular fishing gear can model how to take from an ecosystem while letting it regenerate.
@@ -1092,6 +1336,49 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Analyses extensive field material from collective work sessions, intersectoral collaboration and reuse of local materials and logistics.
 - Paper: https://doi.org/10.1080/15710882.2025.2604642 (CoDesign 2025)
 
+#### A Breathing Sea Wall: Haikou Jiangdong Beach Park — Turenscape (2024)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: A sea wall can breathe with the tide instead of blocking it.
+- What it is: A hard concrete seawall in Haikou was replaced with terraced, permeable coastal landscapes that let tides move through and re-establish coastal vegetation and intertidal habitat.
+- How it works: Terraces of planted, porous materials absorb wave energy and host salt-tolerant plants and intertidal life.
+- Images: https://static.dezeen.com/uploads/2024/07/6565cnwuDbwqnDmibfG5sfLzSYfJvAlTQZ98TnU2_Z33nsize_2048-1.jpg
+- Project page: https://www.dezeen.com/awards/2024/winners/a-breathing-sea-wall-haikou-jiangdong-beach-park/
+
+#### BIOPOD — RISD Terra Carta teams (2024)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Bring back the marsh edge that city walls removed.
+- What it is: Human-scale floating ecosystem modules that host marsh vegetation to clean urban water, rewild fringe marsh along city waterfronts and involve the public in citizen-science monitoring.
+- How it works: Buoyant planted modules support salt-marsh plants whose roots filter water and shelter organisms.
+- Video: https://www.youtube.com/watch?v=vt8I7JjWa0Y
+- Images: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png
+- Project page: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+
+#### Coast 4C regenerative seaweed — Coast 4C (2024)
+- Type: Product & platform · Organisms: Algae, Ecosystems
+- Idea: A supply chain can be designed to repair the coast it draws from.
+- What it is: A regenerative seaweed supply chain built with small-scale fishing communities in the Philippines, giving income while restoring coastal ecosystems and supplying bio-based products.
+- How it works: Community seaweed farms, processing and buyer agreements form a traceable chain.
+- Video: https://www.youtube.com/watch?v=F5NMqMfvQ58
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/Coast4C-Hero-1920x1080-@72DPI.jpg
+- Project page: https://www.coast4c.com/
+
+#### Computational Compost — Marina Otero Verzier (2024)
+- Type: Research prototype · Organisms: Animals, Bacteria & microbes
+- Idea: Data infrastructure's waste heat can sustain decomposers instead of being dumped.
+- What it is: A prototype that uses the heat emitted by computers running simulations of the universe's origin to power a vermicomposting machine with live worms and microorganisms.
+- How it works: Server heat keeps a compost chamber at the temperature earthworms and microbes need, developed with the Donostia International Physics Center.
+- Images: https://ars.electronica.art/starts-prize/files/2025/05/computational_compost-8-c-mikel_blasco_2-1024x576.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/computational-compost/
+
+#### Coral Sonic Resilience — Marco Barotti (2024)
+- Type: Artwork · Organisms: Animals, Ecosystems
+- Idea: Sound can be a restoration tool, not only a way to represent nature.
+- What it is: 3D-printed underwater sculptures that play recordings of healthy reefs to degraded coral reefs, using sound to attract fish and coral larvae back to bleached, silent sites.
+- How it works: Acoustic enrichment, based on research showing that reef sounds draw juvenile fish, is delivered by solar-powered speakers inside sculptural housings.
+- Video: https://vimeo.com/1039181409
+- Images: https://ars.electronica.art/starts-prize/files/2025/05/coralsonicresilience-5-c-marcobarotti-1024x576.jpg
+- Project page: https://www.marcobarotti.com/coral-sonic-resilience
+
 #### Embodied Traces: Multispecies Entanglement in Urban Spaces — Ashley Boone, Carl DiSalvo (2024)
 - Type: Paper · Organisms: Animals, Ecosystems
 - Idea: Producing environmental data is an embodied, emotional encounter with other species.
@@ -1100,6 +1387,23 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Paper: https://doi.org/10.1145/3643834.3660746 (DIS 2024 (pictorial))
 - Images: https://figures.semanticscholar.org/65b8fff88ebcee8ae470704ba7a07ecfd86b3512/3-Figure3-1.png
 - Project page: https://doi.org/10.1145/3643834.3660746
+
+#### From the Ashes — Auburn University Biodesign Challenge team (2024)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: A landscape's own residue can tell its conservation story.
+- What it is: Charcoal from prescribed burns at the Grand Bay National Estuarine Research Reserve in Mississippi is turned into a handmade 'Grand Bay Ink' and an installation about why controlled fire helps the ecosystem.
+- How it works: Pine charcoal from managed burns is ground and bound into ink, with GPS-labelled bottles linking each batch to a burn site.
+- Video: https://www.youtube.com/watch?v=ylhzglL8ATc
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643813176-S5A0MBFOT47DJ8O9INR8/ink+bottle+with+GPS+coordinates.jpg
+- Project page: https://www.biodesignchallenge.org/auburn-university-2024
+
+#### Kan Beh — Universidad del Istmo Biodesign Challenge team (2024)
+- Type: Product & platform · Organisms: Plants, Insects
+- Idea: Local plants and ancestral knowledge can replace imported agrochemicals.
+- What it is: An organic pesticide against the maize weevil made from the seed of Argemone mexicana and bee propolis, designed to fit traditional Guatemalan farming and protect corn.
+- How it works: Seed extract and propolis are formulated into a grain-storage treatment tested against weevils.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064201-ZLDV2CI92WB8DBZ1Z7EW/KAN+-+BEH+1+MAIN+PHOTO.JPG https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064180-BO1HN7FQH0OT0TS2Y0PD/KAN+-+BEH+3.JPG
+- Project page: https://www.biodesignchallenge.org/universidad-del-istmo-unis-2024
 
 #### Pheno-data — Youngsil Lee, Larissa Pschetz (2024)
 - Type: Paper · Organisms: Plants
@@ -1123,6 +1427,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Adapts the service blueprint into a Mutuality Service Blueprint based on data from the food-waste composting pilot.
 - Paper: https://doi.org/10.21606/drs.2024.415 (DRS 2024)
 
+#### SEAGRAFT — SEAGRAFT team (RCA) (2024)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Design the tool that lets underwater meadows be replanted at scale.
+- What it is: A planting method and tool for restoring seagrass meadows by setting seeds and rhizomes efficiently into muddy or sandy seabeds.
+- How it works: A hand tool anchors seedlings and rhizome fragments at the right depth in soft sediment.
+- Video: https://www.youtube.com/watch?v=cKYU2a_TaAQ
+- Project page: https://www.rca.ac.uk/
+
 #### SeaWeaver — Leonardo Hummel (2024)
 - Type: Research prototype · Organisms: Animals, Ecosystems
 - Idea: Weaving craft can produce reef-like complexity cheaply and at scale.
@@ -1131,13 +1443,29 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Paper: https://doi.org/10.21606/drs.2024.615 (DRS 2024)
 - Project page: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/157
 
+#### The Reef — Anton Vervoort (2024)
+- Type: Research prototype · Organisms: Animals, Algae, Ecosystems
+- Idea: An invasive filter-feeder can be recruited as a water-cleaning partner.
+- What it is: A structure that hosts zebra mussels and optimises their filtering to remove excess agricultural nutrients from water, fighting blue-green algae blooms without chemicals.
+- How it works: Stacked panels maximise surface area and flow for Dreissena polymorpha colonies in affected lakes.
+- Images: https://www.jamesdysonaward.org/Document/24f4911d-b03f-40ef-9462-af37a097dd22/afbeelding1.jpg https://www.jamesdysonaward.org/Document/9b4f6ebf-14c4-4903-a767-f9c4ece44066/afbeelding3.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2024/project/the-reef/
+
 #### CoCo: Compost Companion — Debbie Jung (2023)
 - Type: Paper · Organisms: Bacteria & microbes, Human body
 - Idea: An emotional companion can make composting feel like caring for someone.
 - What it is: CoCo is a wearable, creature-like companion that tracks campus composting spots by GPS, shows how much food a student has composted or wasted, and wags its tail when they compost well.
 - How it works: GPS, an OLED display and a servo-driven tail give informational and emotional feedback.
 - Paper: https://doi.org/10.1145/3544549.3583945 (CHI EA 2023)
-- Images: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/4-Figure5-1.png
+- Images: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png
+
+#### LilyPad — Aula Future + FirstHand Biodesign Challenge team (2023)
+- Type: Research prototype · Organisms: Animals, Plants, Ecosystems
+- Idea: A farm can double as habitat for the animals that clean its water.
+- What it is: A floating food farm for Philadelphia that irrigates with river water and uses endangered freshwater mussels to purify it; early prototypes were tested on a community centre's reservoir.
+- How it works: Filter-feeding mussels hang beneath a raft planted with crops that take up river water.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884048795-19WZVB44P2MY7IYJENKQ/Screenshot+2023-06-27+at+12.39.25+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884054078-FFLHHHIMKN8VYFJFS7VQ/Screenshot+2023-06-27+at+12.39.42+PM.png
+- Project page: https://www.biodesignchallenge.org/aula-future-firsthand-2023
 
 #### Once a Glacier — Jiabao Li (2023)
 - Type: Artwork · Organisms: Ecosystems
@@ -1189,6 +1517,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Paper: https://doi.org/10.1145/3544549.3577039 (CHI 2023)
 - Project page: https://doi.org/10.1145/3544549.3577039
 
+#### Aerseeds — Aerseeds (Bike & Begum Ayaskan) (2022)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Borrow a tree's dispersal strategy to scale reforestation.
+- What it is: Aerodynamic seed and nutrient pods made from food waste that are dispersed by wind like winged seeds to reach degraded or hard-to-access land.
+- How it works: Pods shaped after samaras are moulded from a food-waste biomaterial and packed with seeds and nutrients.
+- Video: https://www.youtube.com/watch?v=JIRnANF4qIc
+- Images: https://rca-media2.rca.ac.uk/images/AERSEEDs__Media-01.2e16d0ba.fill-1200x1200.jpg
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/aerseeds
+
 #### Blue Ceramics — Rachel Ann Arredondo, Lining Yao (2022)
 - Type: Research prototype · Organisms: Plants, Ecosystems
 - Idea: Design the material with the ecosystem: let the seabed's currents, seeds and sediment set the form.
@@ -1199,6 +1536,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://figures.semanticscholar.org/08d0957a0fa0b92e956c9689306a34b74cae83ac/500px/5-Figure8-1.png
 - Project page: https://doi.org/10.1145/3527927.3531453
 
+#### Desert Soilization — Yi Zhijian (2022)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Soil is a structure that can be designed, not only a resource to be found.
+- What it is: Sand is mixed with a paste derived from plant material that binds grains so they hold water and nutrients like soil, allowing crops and grasses to grow on former desert.
+- How it works: A cellulose-based binder gives sand particles the constraints that make soil mechanically and ecologically functional.
+- Video: https://www.youtube.com/watch?v=Wm-Y9i-LTVw
+- Images: https://earthshotprize.org/wp-content/uploads/2022/11/Desert-Agricultural-Transformation-in-city.jpg
+- Project page: https://earthshotprize.org/winners-finalists/desert-agricultural-transformation/
+
 #### Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions — Aditi Maheshwari (2022)
 - Type: Paper · Organisms: Plants, Ecosystems
 - Idea: Restoration technology has to fit the realities of the people and landscapes it serves.
@@ -1206,6 +1552,23 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Qualitative interview study with subject-matter experts, using a biomimetic device as a research probe.
 - Paper: https://doi.org/10.1145/3491102.3517664 (CHI 2022)
 - Video: https://www.youtube.com/watch?v=_pHAL6bu_6c
+
+#### Green Gravel — SeaForester (2022)
+- Type: Product & platform · Organisms: Algae, Ecosystems
+- Idea: A handful of seeded gravel is a scalable way to replant an underwater forest.
+- What it is: Small stones are seeded with kelp spores in nurseries and scattered on the seabed, where the young seaweed attaches and regrows kelp forests that store carbon and shelter marine life.
+- How it works: Kelp gametophytes are cultured onto gravel in tanks for weeks before outplanting.
+- Video: https://www.youtube.com/watch?v=MEYSbf0sDx0
+- Images: https://earthshotprize.org/wp-content/uploads/2022/11/SeaForester-Jan-Verbeek-Ines-Gill-Louro-in-lab.jpg
+- Project page: https://www.seaforester.org/
+
+#### IABR Down to Earth: WATERSCHOOL M4H+ — Studio Makkink & Bey (2022)
+- Type: Speculative design · Organisms: Fungi, Algae, Insects
+- Idea: Plan a neighbourhood from what can grow there.
+- What it is: A research and learning environment for Rotterdam's Merwe-Vierhavens district that plans a habitat for 6,300 future residents around five local resources: insects, duckweed, seaweed, wood and fungi.
+- How it works: About forty designers developed production landscapes and prototypes for each living resource, commissioned by IABR.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1-6266a8e0ba6c8-IABR-Waterschool-M4H-Studio-Makkink-Bey-image-by-Aad-Hoogendoorn-LR-14-1500x882.jpeg https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2-626816db21932-IABR-WATERSCHOOL-M4H-FUNGI-production-landscape-by-Juhee-Hahm-in-colloboration-with-Studio-Makkink-Bey-1500x882.jpeg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/iabr-down-to-earth-waterschool-m4h/
 
 #### Into the Island — DnA_Design and Architecture (2022)
 - Type: Research prototype · Organisms: Ecosystems, Animals, Plants
@@ -1247,6 +1610,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://superflux.in/wp-content/uploads/2022/07/Hero-Image-V2-1024x683.jpg
 - Project page: https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/
 
+#### Turba Tol Hol-Hol Tol — Camila Marambio (2022)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: Care for a wetland can be practised through art, language and science together.
+- What it is: The Chilean Pavilion at the 2022 Venice Biennale: a chant-like tribute to the peatlands of Tierra del Fuego and their Sphagnum mosses, linked to the resurgence of Selk'nam culture.
+- How it works: An immersive installation, the SphagnumLAB, residencies in the bog and research with scientists and Selk'nam community members.
+- Images: https://ars.electronica.art/starts-prize/files/2023/06/turbatol_6-SphagnumLAB-2022_Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/turbatol_2-Laying-Low-during-the-Residency-Grounding-into-the-Bog-at-Karunkina-Tierra-del-Fuego-2022-Turba-Tol_Curated-by-Camila-Marambio_-Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg
+- Project page: https://www.turbatol.org
+
 #### Weaving Together a Decolonial Imaginary Through Design for Effective River Management — Manuhuia Barcham (2022)
 - Type: Paper · Organisms: Ecosystems
 - Idea: Design tools can hold more than one world, including the river's.
@@ -1254,6 +1625,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Case study using boundary objects and infrastructuring in a riverine restoration project.
 - Paper: https://doi.org/10.1162/desi_a_00666 (Design Issues 2022)
 - Project page: https://doi.org/10.1162/desi_a_00666
+
+#### Weird Ecologies — Weird Ecologies (RCA team) (2022)
+- Type: Speculative design · Organisms: Plants, Bacteria & microbes, Ecosystems
+- Idea: Work with the organisms that already thrive in damaged places.
+- What it is: Devices that latch onto existing infrastructure in toxic landscapes and help toxin-tolerant organisms grow, managing contaminated sites through bioremediation instead of fencing them off.
+- How it works: Clip-on habitats deliver substrate and water to hyperaccumulator plants and microbes.
+- Images: https://rca-media2.rca.ac.uk/images/WEIRD_ECOLOGIES_Terra_Carta_Appl.f039940b.fill-1200x1200.jpg
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/weird-ecologies
 
 #### Alternatives to Agrilogistics: Designing for Ecological Thinking — Heidi R. Biggs, Shaowen Bardzell (2021)
 - Type: Paper · Organisms: Plants, Ecosystems
@@ -1272,6 +1651,32 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1659334574237-TGVI2IFHAT3G4XA0LH9J/HighresScreenshot00111.jpg
 - Project page: https://jakobsteensen.com/berlberl
 
+#### Coral Reef Rescuer — Yihan Liu & Yang Zhang (2021)
+- Type: Speculative design · Organisms: Animals, Ecosystems
+- Idea: Robots can be designed as caretakers for reefs.
+- What it is: A manta-ray-like 'mother' robot with 'child' units that supports the regeneration of coral reefs damaged by overfishing, warming, acidification and pollution.
+- How it works: The mother unit carries child robots that deploy coral fragments and monitor reef health.
+- Images: https://web.archive.org/web/20211127105104im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/Coral-reef-rescuer1-600x424.jpg
+- Project page: https://web.archive.org/web/20211127105104/https://www.globalgradshow.com/project/coral-reef-rescuer/
+
+#### Coral Vita land-based coral farms — Coral Vita (2021)
+- Type: Product & platform · Organisms: Animals, Ecosystems
+- Idea: Restoration can be designed as an industry that grows living infrastructure.
+- What it is: Land-based coral farms that use micro-fragmentation and assisted evolution to grow resilient corals up to 50 times faster than in nature, then outplant them onto degraded reefs.
+- How it works: Coral fragments fuse and grow in tanks under controlled stress to select heat-tolerant colonies.
+- Video: https://www.youtube.com/watch?v=xDt5RoQpWXU
+- Images: https://earthshotprize.org/wp-content/uploads/2021/09/CoralVita_2-v2-1-e1663706490703.jpeg https://earthshotprize.org/wp-content/uploads/2021/09/Gator-Halpern-Coral-Vita-facility-Grand-Bahama-1024x576.jpg
+- Project page: https://www.coralvita.co/
+
+#### Flash Forest — Flash Forest (2021)
+- Type: Product & platform · Organisms: Plants, Ecosystems
+- Idea: Speed and precision in replanting can be designed from the air.
+- What it is: Drones map sites and fire germinated seed pods into the soil to reforest burned and logged land quickly, with pod mixes tailored to native species.
+- How it works: Seed pods with germination aids are fired from drones along mapped planting paths.
+- Video: https://www.youtube.com/watch?v=Lq_wVSQtmp0
+- Images: https://cdn.prod.website-files.com/67d006c22ab4ba62f9fcd5ad/6a90ded04a80dca8e1c68a7f_Flash%20Forest%20OG%20Image.png
+- Project page: https://flashforest.ca/
+
 #### Los Cedros Rights of Nature Ruling — Constitutional Court of Ecuador (2021)
 - Type: Speculative design · Organisms: Ecosystems, Plants, Animals
 - Idea: Rights of nature can be enforced in court to protect a specific forest.
@@ -1279,6 +1684,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Constitutional ruling (case 1149-19-JP/21) applying the rights of nature and the precautionary principle to biodiversity data from the forest.
 - Images: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Los_Cedros.jpg/1280px-Los_Cedros.jpg
 - Project page: https://www.corteconstitucional.gob.ec/
+
+#### Office for Tree Migration (OTM) — Agnes Meyer-Brandis (2021)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: Treat trees as climate refugees and design ways to help them move.
+- What it is: A long-term art and research project on how trees migrate north and uphill as the climate changes, including assisted-migration trials in a Finnish peatland.
+- How it works: Phenological cameras, ecological monitoring and custom hardware and software track trees along treelines; saplings are planted in trial sites.
+- Video: https://vimeo.com/1172137373
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/01_assistedmigration_208a7022_otm-c-agnes_meyer-brandis-vgbildkunst-1024x576.jpg https://ars.electronica.art/starts-prize/files/2026/06/01_as_trees_go_by_documentation-c-agnes_meyer-brandis_a6a7112_16_50-1024x576.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/office-for-tree-migration-otm/
 
 #### Sensing More-than-human Worlds — Serena Pollastri (2021)
 - Type: Paper · Organisms: Ecosystems
@@ -1335,6 +1749,23 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1600373089411-GNWYV4IK917Q1X6X5DH3/Glacier+Data+Cello.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1602106288285-HIE2DT0MBDW01LD40Y5R/glacier+blue6.JPG https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1597952233408-ZR1Y2TRXHK9Y4MOY5ITD/3.png
 - Project page: https://www.jiabaoli.org/glacier
 
+#### LIFEBRIK — University of Cincinnati Biodesign Challenge team (2020)
+- Type: Research prototype · Organisms: Ecosystems, Plants
+- Idea: Package living soil as a building block for city growing.
+- What it is: A soil 'brick' with five layers — mineral, carbon, profile, biota and cover — that makes starting an urban garden simple.
+- How it works: Each layer reproduces a horizon of natural soil, including a biota layer with soil organisms.
+- Video: https://www.youtube.com/watch?v=So7kEMqr8Lk
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595467099794-NZDUSYHTFVHCL4LOIKPR/Lifebrik.JPG
+- Project page: https://lifebrik.wixsite.com/welovesoil
+
+#### Nemo — Elias Thaddäus Pfuner (2020)
+- Type: Research prototype · Organisms: Animals, Ecosystems
+- Idea: Scale reef restoration by designing the whole care chain, not a single tool.
+- What it is: A four-stage service for coral-reef restoration agencies: a planning platform, a transport box for coral fragments and a collaborative drone for outplanting nursery-grown corals.
+- How it works: Service design, product design of transport boxes and an underwater drone concept.
+- Images: https://www.jamesdysonaward.org/Document/16e2ada0-c28e-44e3-8159-7e53570396d3/sceneedit.jpg https://www.jamesdysonaward.org/Document/fac6323b-9540-48d8-9332-519c041d2087/boxes.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2020/project/nemo/
+
 #### Smart forests and data practices: From the Internet of Trees to planetary governance — Jennifer Gabrys (2020)
 - Type: Paper · Organisms: Plants, Ecosystems
 - Idea: When forests become 'smart', they also become instruments of governance; ask who they serve.
@@ -1353,6 +1784,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://www.youtube.com/watch?v=B5MHCtIIZmI
 - Project page: https://zkm.de/en/exhibition/2020/05/critical-zones
 
+#### Zebra Glass — College for Creative Studies Biodesign Challenge team (2020)
+- Type: Research prototype · Organisms: Animals, Ecosystems
+- Idea: Turn an 'othered' invasive species into a local craft material.
+- What it is: Invasive zebra and quagga mussels from the Great Lakes are harvested as the calcium carbonate source for a regional, artisanal soda-lime glass.
+- How it works: Mussel shells are cleaned, crushed and calcined to replace mined limestone in the glass batch.
+- Video: https://www.youtube.com/watch?v=2nq5StOmac8
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594849170023-PJTG7LNJKKWLRZ73YTZH/Screen+Shot+2020-07-15+at+5.36.33+PM.png
+- Project page: https://www.ccscmdmateriallab.com/projects/zebraglass
+
 #### souvenirs entomologiques #1: odonata / weathering data — Sybille Neumeyer (2020)
 - Type: Artwork · Organisms: Insects
 - Idea: Trace the metamorphoses an insect undergoes as it becomes data.
@@ -1369,6 +1809,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: Autonomous recorders in the forest, the pond and the soil captured sound during the 2018 heat summer; the recordings were compressed in time and space.
 - Video: https://www.youtube.com/watch?v=tjri6bfA_KE
 - Project page: https://zkm.de/en/exhibition/2020/05/critical-zones
+
+#### Seedballs — Seedballs Kenya (2019)
+- Type: Product & platform · Organisms: Plants, Ecosystems
+- Idea: Package a seed so it can wait for the right moment by itself.
+- What it is: Indigenous tree and grass seeds coated in a shell of charcoal dust that protects them from predators until the rains; the balls are scattered by hand, slingshot or aircraft.
+- How it works: Charcoal dust from waste is bound around seeds; rain breaks the coating and triggers germination.
+- Video: https://www.youtube.com/watch?v=zaxoZaDZE7g
+- Project page: https://seedballskenya.com/
 
 #### The Deep Listener — Jakob Kudsk Steensen (2019)
 - Type: Artwork · Organisms: Plants, Animals, Insects
@@ -1387,6 +1835,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://vimeo.com/255000012
 - Images: https://geobodies.org/wp-content/uploads/2022/03/aav-ao-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-AO-gallery-2-aspect-ratio-770-433.jpg
 - Project page: https://geobodies.org/art-and-videos/acoustic-ocean/
+
+#### Art Biotop Water Garden — junya.ishigami+associates (2018)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Architecture can be the careful relocation of a living landscape.
+- What it is: About 318 trees that had to be uprooted for a hotel development were replanted one by one in a former rice field in Nasu, threaded between some 160 shallow ponds fed by the old paddy water system.
+- How it works: Each tree's position was surveyed and re-planned; ponds and moss re-establish a woodland wetland.
+- Images: https://designmuseum.org/image/5cbbb7b5-2c28-4ded-98be-9c34292ec9fc?width=1600
+- Project page: https://designmuseum.org/exhibitions/beazley-designs-of-the-year/architecture-2019/art-biotop-water-garden
 
 #### Living Seawalls — Reef Design Lab (2018)
 - Type: Product & platform · Organisms: Ecosystems, Animals, Algae
@@ -1414,6 +1870,22 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://vimeo.com/288379735
 - Images: https://robertina.net/wp-content/uploads/2025/09/5aa0e-aqua_forensic_robertina_sebjanic_gjino_sutic-2-2.jpg
 - Project page: https://robertina.net/aqua_forensic/
+
+#### 3D Ocean Farming — GreenWave (2017)
+- Type: Product & platform · Organisms: Algae, Animals, Ecosystems
+- Idea: A farm can be designed as a polyculture that improves the water it uses.
+- What it is: Restorative ocean farms that grow kelp on vertical ropes with mussels, oysters and scallops in cages below, needing no feed, fresh water or fertiliser while absorbing carbon and nitrogen.
+- How it works: Seeded lines hang from buoys in a vertical water column; species at each depth filter and photosynthesise.
+- Video: https://www.youtube.com/watch?v=j8ViaskDSeI
+- Project page: https://www.greenwave.org/
+
+#### Sahara Forest Project — Sahara Forest Project (2017)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Couple technologies so each one's by-product feeds the next and revegetates the desert.
+- What it is: Saltwater-cooled greenhouses, concentrated solar power and desalination are combined to grow food in the desert, while evaporated seawater makes humid zones outside for planting salt-tolerant vegetation.
+- How it works: Pilot facilities in Qatar and Jordan integrate evaporative greenhouses, solar and outdoor revegetation plots.
+- Video: https://www.youtube.com/watch?v=3aZ8E7hj8VU
+- Project page: https://www.saharaforestproject.com/
 
 #### Seasynthesis — Xandra van der Eijk (2017)
 - Type: Artwork · Organisms: Ecosystems, Animals
@@ -1469,6 +1941,15 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://covers.openlibrary.org/b/isbn/9780816693146-L.jpg?default=false
 - Project page: https://www.jennifergabrys.net/program-earth/
 
+#### TetraPOT — Sheng-Hung Lee (2016)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Grey infrastructure can be a scaffold that living roots gradually take over.
+- What it is: A reworked concrete tetrapod sea-defence block that holds mangrove seedlings; as the trees grow, their roots exit through channels, interlock the blocks and form a living coastal defence.
+- How it works: Organic layers inside hollow tetrapods nurture mangroves until roots bind the units together.
+- Video: https://www.youtube.com/watch?v=6uGcQhTuXec
+- Images: http://web.archive.org/web/2023im_/https://www.jamesdysonaward.org/Document/ade55445-2238-4d89-93c3-6359809f784b/usr-3393-img-1468513835-c4574.jpg
+- Project page: http://web.archive.org/web/2023/https://www.jamesdysonaward.org/en-GB/2016/project/tetrapot/
+
 #### The Great Animal Orchestra — Bernie Krause, United Visual Artists (2016)
 - Type: Artwork · Organisms: Animals, Ecosystems
 - Idea: Listen to a habitat as one orchestra, and hear what is missing when species disappear.
@@ -1486,6 +1967,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://www.youtube.com/watch?v=AG_UXEXg_Mk
 - Images: https://studiotomassaraceno.org/files/19arg_bts_aerocenepacha_09520-3.jpg https://aerocene.org/wp-content/uploads/2020/03/TS_09MAS_museo-prato_00121edit.jpg
 - Project page: https://aerocene.org/
+
+#### CLIMAVORE — Cooking Sections (2015)
+- Type: Artwork · Organisms: Ecosystems, Algae, Animals
+- Idea: A diet can be designed to repair the habitats that feed it.
+- What it is: A long-term project on how to eat as humans change climates; in Skye and Raasay it helps shift from salmon farming to seaweed and shellfish that clean the water, with an intertidal table that becomes a habitat at high tide.
+- How it works: Menus, installations and partnerships with farmers and restaurants promote filter feeders in polluted waters and drought-resistant crops.
+- Images: https://ars.electronica.art/starts-prize/files/2023/06/climavore_02-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/climavore_03-1024x512.jpg
+- Project page: https://www.climavore.org
 
 #### COSMO — Andrés Jaque (2015)
 - Type: Research prototype · Organisms: Bacteria & microbes, Plants, Ecosystems
@@ -1632,7 +2121,7 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - What it is: A speculative fabulation built around Ray-Flats, shoes that glow near toxic sites listed in the US EPA database, and a navigation guide for living with pollution, drawing on environmental illness stories.
 - How it works: Wearable prototype linked to public EPA pollution data, framed by crip and posthuman theory.
 - Paper: https://doi.org/10.1145/3772318.3790454 (CHI 2026)
-- Images: https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/9-Figure5-1.png
+- Images: https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png
 - Project page: https://doi.org/10.1145/3772318.3790454
 
 #### You Are a River: Reorienting a Civic WaterBot from the Bottom Up — Liliana E. Caughman (2026)
@@ -1657,6 +2146,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Paper: https://doi.org/10.1145/3750069.3750443 (CHItaly 2025)
 - Project page: https://doi.org/10.1145/3750069.3750443
 
+#### FUNGI: Anarchist Designers — Feifei Zhou, Anna Lowenhaupt Tsing (2025)
+- Type: Artwork · Organisms: Fungi, Ecosystems
+- Idea: Stop treating fungi as material; learn design from how they act.
+- What it is: An exhibition that follows fungi as autonomous designers that shape environments — whether humans like it or not — rather than as passive materials for human use.
+- How it works: Drawings, maps and field research trace how fungi transform landscapes, bodies and infrastructures.
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/fungi-aadh-109-1024x576.jpg
+- Project page: https://terristories.net
+
 #### Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design — Heidi R. Biggs (2025)
 - Type: Paper · Organisms: Ecosystems, Human body
 - Idea: Queer bodies and wetlands can share a story of being cut and of healing.
@@ -1664,6 +2161,22 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Autofiction and speculative design artifacts are used as a research method to fabulate human–land entanglements.
 - Paper: https://doi.org/10.1145/3706598.3714067 (CHI 2025)
 - Images: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png
+
+#### Holy Shit — Rimini Protokoll (2025)
+- Type: Artwork · Organisms: Bacteria & microbes, Human body
+- Idea: The self is a multispecies community, and a theatre audience can feel it.
+- What it is: A theatre work by Stefan Kaegi and Caroline Barneaud about how the bacteria of the human gut influence decisions, shifting the seat of identity from the brain to the belly.
+- How it works: Documentary theatre combining microbiome science, volcano metaphors and audience participation.
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg
+- Project page: https://www.rimini-protokoll.de
+
+#### Meat of the Matter: A Flesh Perspective — Robert College of Istanbul Biodesign Challenge team (2025)
+- Type: Speculative design · Organisms: Animals
+- Idea: Satire can make the arbitrariness of our species categories impossible to ignore.
+- What it is: A satirical project that provokes reflection on meat eating by proposing that people eat animals normally kept as pets, exposing the line society draws between livestock and companions.
+- How it works: Mock products and a video campaign present the absurd proposal alongside data on emissions and animal welfare.
+- Video: https://www.youtube.com/watch?v=ROF3ucFHb7A
+- Project page: https://www.biodesignchallenge.org/robert-college-istanbul-2025
 
 #### Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'? — Wenjia Sun (2025)
 - Type: Speculative design · Organisms: Animals, Plants, Ecosystems
@@ -1775,6 +2288,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Biosensors on plants and people drive data displays in three tangible, embodied encounters, framed by three postcolonial design provocations.
 - Paper: https://doi.org/10.1145/3623509.3633389 (TEI 2024)
 - Project page: https://doi.org/10.1145/3623509.3633389
+
+#### Urban Vein — Nanyang Technological University Biodesign Challenge team (2024)
+- Type: Speculative design · Organisms: Plants, Ecosystems
+- Idea: Biophilic design can hide the same logic it claims to overcome.
+- What it is: A fictional green footbridge across Singapore that replaces parts of the old city centre, used to critique how green bioeconomy projects can stay human-centred and become covert commercial ventures.
+- How it works: Architectural visualisation and narrative film present the bridge as an 'ideal ecosophical state'.
+- Video: https://www.youtube.com/watch?v=WkP6e6KVojY
+- Project page: https://www.biodesignchallenge.org/nanyang-technolgical-university-2024
 
 #### A(I)nimal-centred AI Jam — Alinta Krauth (2023)
 - Type: Paper · Organisms: Animals
@@ -1893,6 +2414,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Images: https://parsonscharlesworth.com/wp-content/uploads/2022/11/MultispeciesInc_ParsonsCharlesworth_1440.jpg
 - Project page: https://parsonscharlesworth.com/multispecies-inc/
 
+#### Order of the Biodivine — Parsons School of Design Biodesign Challenge team (2022)
+- Type: Speculative design · Organisms: Ecosystems, Bacteria & microbes
+- Idea: Ritual and belief are design materials for changing how people relate to other species.
+- What it is: A speculative, immersive theatre experience about a future religion that worships interspecies symbiosis in a climate-insecure world.
+- How it works: Performance, costumes and a trailer film stage the rites of a symbiosis-centred order.
+- Video: https://www.youtube.com/watch?v=foYNxbBx_Ro
+- Project page: https://www.biodesignchallenge.org/parsons-2022
+
 #### Sloooooooooow — Xinquan Wen (2022)
 - Type: Research prototype · Organisms: Plants
 - Idea: Design for the shared microclimate instead of the single plant: a plant-decentred view.
@@ -1944,6 +2473,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Video: https://vimeo.com/579021465
 - Images: https://geobodies.org/wp-content/uploads/2022/03/aav-fm-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-FM-gallery-1-aspect-ratio-770-433.jpg
 - Project page: https://geobodies.org/art-and-videos/forest-mind/
+
+#### Inanimate Species — Joana Moll (2021)
+- Type: Artwork · Organisms: Insects, Animals
+- Idea: The rise of computation and the loss of species may be two sides of one story.
+- What it is: An installation that sets the history of microprocessors since the Intel 4004 (1971) against the collapse of wildlife populations over the same decades, using insects and chips side by side.
+- How it works: Insect specimens are paired with microprocessors by year, building a timeline of correlation.
+- Images: https://ars.electronica.art/starts-prize/files/2022/06/Inanimate-Species_72A8079-c-Joana-Moll-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/inanimate-species/
 
 #### Invocation for Hope — Superflux (2021)
 - Type: Artwork · Organisms: Plants, Ecosystems
@@ -2325,6 +2862,30 @@ Artworks made with, by or for other living beings.
 - Paper: https://doi.org/10.1162/desi.a.716 (Design Issues 2025)
 - Project page: https://doi.org/10.1162/desi.a.716
 
+#### liquid strata — Entangled Others (2025)
+- Type: Artwork · Organisms: Animals, Ecosystems
+- Idea: Make overlooked deep-sea life perceptible without pretending to represent it fully.
+- What it is: Installations that use machine learning on scientific datasets to make tangible interfaces to little-known deep-sea phenomena such as marine snow.
+- How it works: Models trained on oceanographic imagery and data generate forms shown in physical, interactive displays.
+- Images: https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/26_scsu_as_entangled_others_project.jpg?h=91e3a5cb&itok=mU9y5FMp
+- Project page: https://falling-walls.com/breakthroughs/finalists-interviews/entangled-others
+
+#### Stranger to the Trees — Kat Austen (2024)
+- Type: Artwork · Organisms: Plants
+- Idea: Listen to how trees experience our plastics.
+- What it is: Birch trees were grown in soil laced with microplastics and their physiological responses translated into sound and sculpture, examining pollution from the trees' perspective.
+- How it works: Sensors track sap flow and other physiology; data drive a sound composition and sculptural forms.
+- Images: https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-kat-austen-project-photo.jpg?h=6178a47d&itok=NlVjbyOB
+- Project page: https://falling-walls.com/plastic-tree-coexistence-kat-austens-exploration-microplastic-impact-forests
+
+#### Symbiotic Stitches — Maryland Institute College of Art Biodesign Challenge team (2024)
+- Type: Artwork · Organisms: Fungi, Slime mould
+- Idea: Craft traditions of making through hard times can include other species as makers.
+- What it is: A quilting project made with mycelium, slime mould and lichen that treats care as resilience and asks how humans can practise care with their nonhuman collaborators.
+- How it works: Quilt panels were inoculated or stitched with living fungi, slime mould and lichen and documented as they grew.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643576152-V2FZJI1JPC3OULZ4UN5K/Screenshot+2024-06-17+at+12.58.20+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643578608-WJHC6E1Y9G9OJH8IN3PP/Screenshot+2024-06-17+at+12.59.22+PM.png
+- Project page: https://www.biodesignchallenge.org/mica-2024
+
 #### Wings Against the Veil of Light — Jiabao Li (2024)
 - Type: Artwork · Organisms: Insects
 - Idea: Borrow an insect's sound-making body to feel how our light disrupts its courtship.
@@ -2341,6 +2902,14 @@ Artworks made with, by or for other living beings.
 - How it works: LIDAR scanning, porcelain 3D printing, site-specific placement and an AR gallery installation simulating plant growth.
 - Paper: https://doi.org/10.1162/leon_a_02367 (Leonardo 2023)
 - Project page: https://doi.org/10.1162/leon_a_02367
+
+#### Orbweaver — Brad Hakes (2023)
+- Type: Artwork · Organisms: Animals, Insects
+- Idea: Living with another species can start by re-reading what it makes.
+- What it is: A series of interventions — photos, videos and a hacked Roomba that interprets the planar webs of orb-weaver spiders — through which the artist tries to reduce his fear of spiders.
+- How it works: Drawing on Albert Bandura's exposure therapy, web geometries are translated into robot paths and media works.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881592851-AZD7PR7NHJE6X5ETJLUI/Screenshot+2023-06-27+at+11.56.23+AM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881600707-3KVU2SVJUJH16G0YJBXC/Screenshot+2023-06-27+at+11.57.06+AM.png
+- Project page: https://www.biodesignchallenge.org/ut-austin-2023
 
 #### Plant Play — Silvia Ruzanka (2023)
 - Type: Artwork · Organisms: Plants
@@ -2409,6 +2978,14 @@ Artworks made with, by or for other living beings.
 - How it works: Draws on tardigrade biology and Umwelt theory to design immersive interactive installations.
 - Paper: https://doi.org/10.1162/leon_a_01984 (Leonardo 2021)
 
+#### The Plant Intelligence Plan — Zhang Tianyi (2021)
+- Type: Artwork · Organisms: Plants, Animals
+- Idea: Restore relationships between species, not only habitats.
+- What it is: An ecological art project that recognises the initiative and rights of plants and uses biotechnology tools to restore relationships between commercially bred crops and animals.
+- How it works: Based on plant-intelligence research, the work reintroduces signals and materials through which crops and animals interact.
+- Images: https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-5-1024x512.jpg https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-4-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/plant-intelligence-plan/
+
 #### How to Make an Ocean — Kasia Molga (2020)
 - Type: Artwork · Organisms: Algae, Human body
 - Idea: Grief can become a habitat for other life.
@@ -2424,6 +3001,14 @@ Artworks made with, by or for other living beings.
 - What it is: A practice-led project in which family dogs co-create works of electronic literature: their interactions with the artist drive a generative writing system.
 - How it works: Digital interfaces that turn dog–human interactions into inputs for generative text.
 - Paper: https://doi.org/10.1145/3446002.3446051 (ACI 2020)
+
+#### MycoMythologies — Saša Spačal (2020)
+- Type: Artwork · Organisms: Fungi
+- Idea: Let fungal ontologies teach inclusion and care.
+- What it is: A series of biotechnological installations and myths asking how fungal networks can help humans think and practise multispecies survival in capitalist ruins.
+- How it works: Living mycelium in custom installations (Rupture, Patterning) is coupled with sensors and machines that translate its growth.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/MycoMythologies_Rupture_Sasa_Spacal_installation_Photo_KIBLA_Janez_Klenovsek_04-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/mycomythologies/
 
 #### Vegetal Transmutation — Eduardo Navarro (2020)
 - Type: Artwork · Organisms: Plants
@@ -2501,7 +3086,7 @@ Artworks made with, by or for other living beings.
 - What it is: A series of sound installations that record electrical action potentials in plants and the mycorrhizal network and spatialise them in 3D audio forest soundscapes.
 - How it works: Electrodes read plant action potentials, which drive sounds placed around listeners with custom 3D spatialisation.
 - Paper: https://doi.org/10.1162/leon_a_01338 (Leonardo 2018)
-- Images: https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/4-Figure5-1.png
+- Images: https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png
 
 #### nimiia cétiï — Jenna Sutela (2018)
 - Type: Artwork · Organisms: Bacteria & microbes
@@ -2604,6 +3189,14 @@ Artworks made with, by or for other living beings.
 - How it works: Electrodes on leaves read changes in electrical conductance, which biodata devices built with Sam Cusumano convert into MIDI notes for synthesizers.
 - Video: https://www.youtube.com/watch?v=Uq0aFi1x_mo
 - Project page: https://www.youtube.com/watch?v=ekV1ngd_9GY
+
+#### EDEN – Ethics, Durability, Ecology, Nature — Olga Kisseleva (2012)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: Treat a tree as a partner whose survival art and technology can help secure.
+- What it is: A long-running art and science project with trees that began with the rebirth of the Biscarosse Elm and grew into works on protecting endangered plant species and communication between trees and people.
+- How it works: Combines plant cloning and propagation with sensors that read trees' physiological signals, in collaboration with botanists and industry.
+- Images: https://ars.electronica.art/starts-prize/files/2020/06/EDEN10_2000x1000_OlgaKisselevaStudio-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/eden/
 
 #### Untilled — Pierre Huyghe (2012)
 - Type: Artwork · Organisms: Animals, Insects, Plants
@@ -3767,6 +4360,30 @@ Living organisms as material and collaborator: grown materials, microbial fabric
 
 Objects, packaging, leather and buildings grown from fungal mycelium.
 
+#### Mycelium & Fiber — Judith Antonia Zbanek (2026)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Weave a scaffold that tells the fungus where to grow.
+- What it is: A textile–mycelium composite in which the fungus Trametes hirsuta grows through silk, flax and cotton textile structures that guide its growth into light, stable, biodegradable parts.
+- How it works: Inoculated textiles are shaped in moulds; mycelium binds the fibres as it colonises them.
+- Images: https://content.gp-award.com/assets/media/award26/0-mycelium-fiber_1_blogLarge.jpg https://content.gp-award.com/assets/media/award26/2-mycelium-fiber_1_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/mycelium-fiber
+
+#### Living Tex'Celium — Living Tex'Celium team (University of Stuttgart) (2025)
+- Type: Research prototype · Organisms: Fungi, Plants
+- Idea: Let the fungus join building parts after they are placed.
+- What it is: Mycelium grown on agricultural and wood waste around jute textiles forms stronger, recyclable composites; flexible modules are grown and 'bio-welded' on site by the living fungus.
+- How it works: Jute-reinforced mycelium modules are placed while alive so hyphae grow across joints under digital guidance.
+- Images: https://content.gp-award.com/assets/media/award25/0-living-tex-celium_blogLarge.jpg https://content.gp-award.com/assets/media/award25/2-living-tex-celium_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/living-texcelium
+
+#### Mycelium Muse — MycoWorks (2025)
+- Type: Artwork · Organisms: Fungi
+- Idea: A grown material earns its place in craft through designers' hands.
+- What it is: Seven French women designers were given carte blanche to make collectible objects with Reishi, MycoWorks' sheet material grown from mycelium.
+- How it works: Fine Mycelium sheets are grown in trays, tanned and then cut, moulded and assembled by each designer.
+- Images: https://static.dezeen.com/uploads/2025/07/dezeen-awards-2025-collectible-design-longlist_dezeen_2364_col_0.jpg
+- Project page: https://www.dezeen.com/awards/2025/shortlists/mycelium-muse/
+
 #### Addressing Uncertainty in Biodesign through Digital Twins: A Case of Biofabrication with Mycelium — Đan Vy Vu, Bahareh Barati (2024)
 - Type: Paper · Organisms: Fungi
 - Idea: A continuously updated digital double can help designers live with the uncertainty of growing materials.
@@ -3776,6 +4393,39 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - Images: https://dl.acm.org/cms/10.1145/3685271/asset/ade6afb0-1138-461d-af50-28d1977a33db/assets/images/medium/tochi-2023-0198-f04.jpg
 - Project page: https://dl.acm.org/doi/10.1145/3685271
 
+#### HyphaL — Bence Czibik (2024)
+- Type: Product & platform · Organisms: Fungi
+- Idea: A grown material can be a precision acoustic component.
+- What it is: A studio monitor loudspeaker whose enclosure is made entirely of mycelium composite and hemp fibre, apart from screws and driver, using the material's acoustic damping.
+- How it works: Hemp-fibre substrate is grown with mycelium in a speaker-cabinet mould and heat-treated.
+- Images: https://content.gp-award.com/assets/media/award24/0-hyphal-mycelium-speaker_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/hyphal
+
+#### Monc mycelium packaging — Monc (2024)
+- Type: Product & platform · Organisms: Fungi
+- Idea: Grown packaging is ready for everyday retail.
+- What it is: Protective product packaging inserts grown from mushroom mycelium on agricultural waste instead of polystyrene, home-compostable after use.
+- How it works: Mycelium colonises agricultural substrate in moulds shaped around each product and is heat-treated to stop growth.
+- Images: https://static.dezeen.com/uploads/2024/07/eQUZeF3CcwezfeRsQCxa2DJO9a5NBTEzJNABgDkT_Z33nsize_2048.jpg
+- Project page: https://www.monc.co/
+
+#### Mycolith — Monika Brandić Lipińska (2024)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Grow off-world buildings from local dust and fungi.
+- What it is: A biofabrication strategy that uses mycelium to bind and stabilise regolith for building habitats in space, reducing the materials shipped from Earth.
+- How it works: Mycelium is grown through regolith simulant mixed with nutrients to form solid blocks.
+- Images: https://content.gp-award.com/assets/media/award24/0-mycolith_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/mycolith
+
+#### Mylea mycelium leather — MYCL (Mycotech Lab) (2024)
+- Type: Product & platform · Organisms: Fungi, Plants
+- Idea: A material business can fight air pollution by paying for waste.
+- What it is: Fungal mycelium grown on palm-oil and other agricultural waste is processed into Mylea, a low-carbon leather alternative; buying the waste gives farmers a reason to stop burning it.
+- How it works: Mycelium sheets grown on lignocellulosic residues are harvested, tanned-like treated and finished.
+- Video: https://www.youtube.com/watch?v=XRF34tXjrZ0
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/MYCL-Hero-1920x1080-@72DPI.jpg
+- Project page: https://mycl.bio/
+
 #### Accalmie and Stool 18 — Corentin Mahieu (2023)
 - Type: Product & platform · Organisms: Fungi
 - Idea: A piece of furniture can grow part of itself from its own production waste, and stay repairable by the same organism.
@@ -3783,6 +4433,14 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Beech sawdust and chips from the base are inoculated with fungal mycelium in moulds; after growth the mycelium is dried to dormancy.
 - Images: https://designmuseum.org/image/7cc707d8-eb0f-46e1-b07c-de714e9eaabf?width=1200
 - Project page: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### Alchemical Mycology — Jesse Adler (2023)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Fungi are a renewable palette.
+- What it is: Vivid pigments are extracted from wild-harvested and lab-grown fungi and developed into colourants for textiles and paint.
+- How it works: Fungal pigments are extracted with solvents and fixed with mordants onto fibres or bound into paints.
+- Images: https://content.gp-award.com/assets/media/award23/0-alchemical-mycology_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/alchemical-mycology
 
 #### BioForms — Natalie Alima (2023)
 - Type: Research prototype · Organisms: Fungi
@@ -3793,6 +4451,14 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - Video: https://www.youtube.com/watch?v=nKJmnH6hews
 - Images: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig4.png?pub-status=live https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig6.png?pub-status=live
 
+#### MyDeCo: MyCological DeComposition — Borough of Manhattan Community College Biodesign Challenge team (2023)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Send synthetic clothing to a fungus instead of a landfill.
+- What it is: A textile-recycling process in which Pestalotiopsis microspora, a fungus able to digest plastic, breaks down synthetic textile waste and its microfibres.
+- How it works: The fungus is grown on shredded polyester and polyurethane textile waste as its carbon source.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/d076d9bf-c3b9-43b5-839f-475971830e9a/Screenshot+2023-06-27+at+12.16.46+PM.png
+- Project page: https://www.biodesignchallenge.org/borough-of-manhattan-community-college-2023
+
 #### Phoenix (mycelium acoustic sculpture) — Jonathan Dessi-Olive (2023)
 - Type: Research prototype · Organisms: Fungi
 - Idea: Mycelium can be grown flat, then shaped into large three-dimensional forms while it is still alive.
@@ -3800,6 +4466,14 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Living myco-material is packed into flat formwork on a membrane, grown into flexible sheets, then hung and dried into computed ribbon geometries.
 - Paper: https://doi.org/10.1017/btd.2024.5 (Research Directions: Biotechnology Design 2024)
 - Images: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig9.png?pub-status=live https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig7.png?pub-status=live
+
+#### The Purhyphae Project — Annah-Ololade Sangosanya (2023)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Feed old clothes to fungi and harvest a new material.
+- What it is: Fungal mycelium is grown on shredded natural and synthetic textile waste, degrading it and forming leather-like mats.
+- How it works: Textile shreds serve as substrate; mycelium mats are harvested, pressed and finished.
+- Images: https://content.gp-award.com/assets/media/award23/0-the-purhyphae-project_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/purhyphae
 
 #### Three-dimensional printing of mycelium hydrogels into living complex materials — André R. Studart (2023)
 - Type: Paper · Organisms: Fungi
@@ -3810,6 +4484,15 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-022-01429-5/MediaObjects/41563_2022_1429_Fig1_HTML.png
 - Project page: https://www.nature.com/articles/s41563-022-01429-5
 
+#### Fleather — Phool (2022)
+- Type: Product & platform · Organisms: Plants, Fungi
+- Idea: A sacred waste stream can become a material economy that cleans a river.
+- What it is: Temple flower offerings are collected before they are dumped into the Ganges and turned into incense, packaging foam and Fleather, a plant-based leather alternative.
+- How it works: Floral waste is composted and processed; Fleather is made from flower biomass bound and grown with microbial and fungal processes (per Phool).
+- Video: https://www.youtube.com/watch?v=dUCqFEG0JDQ
+- Images: https://earthshotprize.org/wp-content/uploads/2022/10/Ankit-Agarwal-in-Phool-Fleather-office-with-colleagues.jpg
+- Project page: https://phool.co/
+
 #### Interactive Mycelium Composites: Material Exploration on Combining Mushroom with Off-the-shelf Electronic Components — Çağlar Genç (2022)
 - Type: Paper · Organisms: Fungi
 - Idea: Grow the electronics into the fungus instead of putting them in a plastic case.
@@ -3817,6 +4500,22 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Systematic material exploration combining mycelium composites with input (touch) and output (light, movement, color change) components.
 - Paper: https://doi.org/10.1145/3546155.3546689 (NordiCHI 2022)
 - Images: https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/5-Figure3-1.png https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/4-Figure2-1.png
+
+#### MYCOsella — Natalia Piórecka (2022)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Design the end of a chair's life together with its making.
+- What it is: A chair grown from a fully biodegradable mycelium-based material, exploring growth-based production and a life cycle that ends in compost.
+- How it works: Mycelium substrate is grown in a chair mould and dried.
+- Images: https://content.gp-award.com/assets/media/award22/0-mycosella_2_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/mycosella
+
+#### Mycomerge — Mycomerge team (Mai Thi Nguyen & Daniela Solueva) (2022)
+- Type: Research prototype · Organisms: Fungi, Plants
+- Idea: Grow the whole object, joints included.
+- What it is: A stool built as a multi-layer bio-based component in which living mycelium binds natural fibres, so every part can be grown.
+- How it works: Natural-fibre layers are inoculated and stacked so hyphae fuse them into one piece.
+- Images: https://content.gp-award.com/assets/media/award22/0-mycomerge_2_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/mycomerge
 
 #### Bacterial Cellulose-Reinforced Mycelium Composites — Elise Elsacker (2021)
 - Type: Paper · Organisms: Fungi, Bacteria & microbes
@@ -3834,6 +4533,22 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Ecovative's aerial mycelium process grows dense mats of Ostreatus mycelium on a nutrient tray in days; the mats are cured with salt and coconut fat and cut across the grain.
 - Video: https://www.youtube.com/watch?v=cEuIyYnyGv0
 - Project page: https://myforestfoods.com/
+
+#### PermaPak — School of the Art Institute of Chicago Biodesign Challenge team (2021)
+- Type: Research prototype · Organisms: Fungi, Insects
+- Idea: Combine a fungal and an insect by-product into a film that composts.
+- What it is: A minimally processed biopolymer packaging made from mycelial chitosan and sericin, the protein in silkworm cocoons, designed to biodegrade into a regenerative life cycle.
+- How it works: Chitosan extracted from mycelium is blended with sericin from silk processing and cast into films and pouches.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983904360-EWDLCJTQNZSQB68N6JS9/PermaPak+2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983905615-N4JIYHD6TKWEGXWV4A6Z/PermaPak+biopackaging.jpg
+- Project page: https://www.biodesignchallenge.org/saic-2021
+
+#### Protomycokion — Ana Goidea (2021)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Print the form, then let the fungus finish the structure.
+- What it is: A building column 3D-printed from living mycelium and waste fibres following an algorithmic design and then grown to solidity: structural, water-resistant and sound-absorbing.
+- How it works: A living mycelium–fibre paste is extruded in layers; colonisation fuses them before drying.
+- Images: https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-protomycokion_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/protomycokion
 
 #### Sylvania for the Hermès Victoria bag — MycoWorks (2021)
 - Type: Product & platform · Organisms: Fungi
@@ -3910,6 +4625,22 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Fungal mycelium is grown through agro-waste substrates in moulds, forming rigid bio-composite panels that are dried and assembled into the structure.
 - Video: https://www.youtube.com/watch?v=Vx4uoBAPHBU
 - Project page: https://www.maelokko.com/Exhibitions
+
+#### Leaves Biocoffin — Shaina Garfield (2018)
+- Type: Product & platform · Organisms: Fungi, Human body
+- Idea: A funeral can be a collaboration with decomposer fungi.
+- What it is: A burial shroud-coffin of biodegradable, reclaimed materials whose rope is coated with a dye containing fungal spores that grow after burial to decompose the body and neutralise toxins.
+- How it works: Spore-laden dye is applied to the lattice rope; moisture in soil triggers fungal growth.
+- Images: https://web.archive.org/web/20181208142943im_/http://www.globalgradshow.com/wp-content/uploads/2018/10/LEAVES-BIOCOFFIN_880-x-598-1-Rotated.jpg
+- Project page: https://web.archive.org/web/20181208142943/https://www.globalgradshow.com/projects/leaves-biocoffin/
+
+#### MYCOmmunity Toilet — University of British Columbia Biodesign Challenge team (2018)
+- Type: Research prototype · Organisms: Fungi, Human body
+- Idea: Sanitation can be a growth cycle rather than a waste-disposal problem.
+- What it is: A low-cost, waterless, off-grid toilet for under-resourced communities in which fungal mycelium decomposes human waste; when full, the unit is composted and used to grow trees, grasses and crops.
+- How it works: Fungal mycelium colonises a biodegradable container and breaks down solid waste into fertiliser without water or power.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287942037-TTPLUOFD82ZLC7X8UEDX/Screen+Shot+2018-06-29+at+11.57.37+AM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287940399-4NWK48DJO2UO654KO4A3/Screen+Shot+2018-06-29+at+11.57.46+AM.png
+- Project page: https://www.biodesignchallenge.org/university-british-columbia
 
 #### Mylo mycelium leather — Bolt Threads (2018)
 - Type: Product & platform · Organisms: Fungi
@@ -4004,6 +4735,14 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - Images: https://images.squarespace-cdn.com/content/v1/696ad21a1652bf2f2b937b65/4e9d732f-1a4f-4978-b0cd-1c48001e576f/MushLumeTerracePendant.jpg
 - Project page: https://danielletrofe.com/the-work
 
+#### Pendant Lights — Milo Dool (2014)
+- Type: Product & platform · Organisms: Fungi, Plants
+- Idea: Fungal decay can be a finish rather than a defect.
+- What it is: Lamps made from beech wood infected by white-rot fungi, normally chipped as waste; the fungal decay makes the wood more translucent and other fungi leave coloured patterns.
+- How it works: Spalted wood is turned thin so light passes through fungus-altered cell walls.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/72dpi_Nr.1_Pendant-Lights_Milo-Dool-1024x682.jpg https://new-material-award.nl/wp-content/uploads/2021/11/Blua-stained-pine_close-up-1024x682.jpg
+- Project page: https://new-material-award.nl/en/pendant-lights/
+
 #### Mushroom Tiny House — Ecovative (2013)
 - Type: Research prototype · Organisms: Fungi
 - Idea: A wall can be grown in place: fill the frame, wait, and the fungus makes the insulation.
@@ -4029,6 +4768,15 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 - How it works: Spent substrate from a mushroom farm is mixed with hemp fibre, moulded over a form and colonised by Pleurotus mycelium, then dried to stop growth.
 - Images: https://images.squarespace-cdn.com/content/v1/61289154ff90172fbe9bf970/c62d12ad-11d4-408b-8418-052d908a0e1b/Myxlamp_frontview_light%28JO%29.jpg https://images.squarespace-cdn.com/content/v1/61289154ff90172fbe9bf970/b5f37880-6ae8-4fcd-95b1-5382279aaba6/myx_hanging_growing_lamp_3+weeks%28JO%29.jpg
 - Project page: https://www.jonasedvard.com/myx/project-one-s3btt
+
+#### Organofoam — iGEM Team Cornell (2013)
+- Type: Research prototype · Organisms: Fungi, DNA & molecules
+- Idea: Genetic tools can extend what grown materials can do.
+- What it is: Inspired by Ecovative's mycelium packaging, a standardised toolkit for genetically engineering lignin-degrading fungi, for example to protect mycelium materials from mould.
+- How it works: Transformation vectors and parts were built for basidiomycete fungi used in mycelium composites.
+- Video: https://www.youtube.com/watch?v=dvBgyJckozs
+- Images: https://static.igem.org/mediawiki/2013/1/1c/CornellOrganofoamBadge.png
+- Project page: https://2013.igem.org/Team:Cornell
 
 #### The Growing Lab – Mycelia — Maurizio Montalti (2013)
 - Type: Research prototype · Organisms: Fungi
@@ -4094,6 +4842,73 @@ Objects, packaging, leather and buildings grown from fungal mycelium.
 
 Bacteria and yeast that make pigments, cellulose, cement and other materials.
 
+#### AstroFeast — Joanna Cheng (2026)
+- Type: Speculative design · Organisms: Bacteria & microbes
+- Idea: Food on a spaceship can be alive and changing.
+- What it is: Dried nutritional sheets of living yeast for long space missions, rehydrated with water only and kept in containers where the food keeps evolving.
+- How it works: Yeast cultures are dried into sheets and revived in nature-inspired vessels.
+- Images: https://content.gp-award.com/assets/media/award26/2-astrofeast_blogLarge.jpg https://content.gp-award.com/assets/media/award26/1-astrofeast_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/astrofeast
+
+#### Bacterial Cellulose Foam — Foamlab, Elvin Karana (2026)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Grow foam instead of blowing it from oil.
+- What it is: A lightweight, fire-resistant, compostable foam made by bacteria that grow cellulose networks from renewable feedstocks, aimed at packaging, insulation, furniture and apparel.
+- How it works: Bacteria produce cellulose in a foamed medium; the structure is stabilised in a low-energy process.
+- Images: https://content.gp-award.com/assets/media/award26/0-bacterial-cellulose-foam_blogLarge.jpg https://content.gp-award.com/assets/media/award26/3-bacterial-cellulose-foam_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/bacterial-cellulose-foam
+
+#### Breaking the Wall of Lithium Recovery with Bacteria — Isidora Correa (2026)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Microbes could replace extraction with recovery.
+- What it is: An artistic research project in which extremophile bacteria from lithium-rich environments recover lithium from discarded batteries instead of it being extracted from Atacama salt flats.
+- How it works: Fieldwork collects bacteria from salt flats; lab collaborations test bioleaching of battery waste; results are shown as installation.
+- Images: https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/credit_adriano_ferreira_borges_26_scsu_as_isidora_correa_project_photo.jpg?h=49c2a0f5&itok=o5gNutq4
+- Project page: https://falling-walls.com/breakthroughs/finalists-interviews/isidora-correa
+
+#### GROWinK — Peerasin Punxh Hutaphaet (2026)
+- Type: Research prototype · Organisms: Fungi, Bacteria & microbes
+- Idea: A print can be alive for a while and then return to soil.
+- What it is: A regenerative printing system that runs CMYK inkjet printing with fungal pigments and dormant bacterial spores instead of petroleum inks, so prints become living, temporary media.
+- How it works: Fungal pigment inks and spore suspensions are formulated for inkjet heads.
+- Images: https://content.gp-award.com/assets/media/award26/1-growink_blogLarge.jpg https://content.gp-award.com/assets/media/award26/3-growink_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/growink
+
+#### MicroBlue — Microbeworks (2026)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Biotech colour only scales if mills can use it tomorrow.
+- What it is: A biodegradable textile dye brewed by microbial fermentation and formulated to run in existing dyeing machinery.
+- How it works: Microbes ferment sugars into blue pigment molecules that are concentrated into a drop-in dye.
+- Video: https://www.youtube.com/watch?v=p9bJbxbPoMQ
+- Images: https://hmfoundation.com/wp-content/uploads/2026/06/MicroBlue_2026_GCA_winner-1.jpg
+- Project page: https://www.microbeworksscientific.com/
+
+#### ECO-SKIN — Jonah Goodman (2025)
+- Type: Research prototype · Organisms: Bacteria & microbes, Human body
+- Idea: A home fermentation culture can grow a low-cost medical material.
+- What it is: A bioactive wound dressing made from bacterial cellulose grown by kombucha SCOBY fermentation and enhanced with Manuka honey and acetic acid.
+- How it works: Komagataeibacter xylinus forms a dense, hydrated pellicle that is cleaned, infused and packaged as a moisture-retaining bandage.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486084412-USV0BWV9UUX5AK571OSN/ECO-SKIN+Application+-+Forearm.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486092754-UM63PISSKK1USITPQO86/ECO-SKIN+Removed+From+Pacakge.jpg
+- Project page: https://www.biodesignchallenge.org/parsons-2025
+
+#### Hydra — Markos Georgiou (2025)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Grow the final shape instead of cutting it from a flat sheet.
+- What it is: A modular bioreactor that grows three-dimensional bacterial-cellulose forms directly from waste feedstock, producing wound dressings, biocomposites and textiles such as a grown shoe upper.
+- How it works: Cellulose-producing bacteria grow at air–liquid interfaces shaped by the reactor's modular moulds.
+- Video: https://www.youtube.com/watch?v=zZHPcDz6BLY
+- Images: https://www.jamesdysonaward.org/Document/98007d0b-a748-447b-a6fa-c985c8cdcdec/hydra-hero.jpg https://www.jamesdysonaward.org/Document/4ad80a73-4cc5-4f44-b3f2-fa29026fb446/hydra-bacterial-cellulose-shoe.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2025/project/hydra/
+
+#### Living Records — Maryland Institute College of Art Biodesign Challenge team (2025)
+- Type: Speculative design · Organisms: Bacteria & microbes
+- Idea: Whose memory gets recorded is a design choice, even in the material of the medium.
+- What it is: Biologically fabricated records — bacterial-cellulose cassette tapes and biofabricated memory circuits — that hold the forgotten histories and unacknowledged labour behind the moon landing.
+- How it works: Bacterial cellulose sheets are grown, dried and formed into cassette-tape and circuit-like objects.
+- Video: https://www.youtube.com/watch?v=hz_jl2QqiVQ
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485898645-4ARDJI0J8CI0QZ3BA7TC/LivingRecords_MICABDC2025_01.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485895117-M972CFYBM6VOU8JLLIVR/LivingRecords_MICABDC2025_02.jpg
+- Project page: https://www.biodesignchallenge.org/maryland-institute-college-of-art-2025
+
 #### Quorum — Natsai Audrey Chieza (2025)
 - Type: Research prototype · Organisms: Bacteria & microbes
 - Idea: Design the microbial community and the waste stream together, not the organism alone.
@@ -4101,6 +4916,32 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - How it works: Streptomyces consortia are directed-evolved to digest complex sugars from specific waste streams; pigment output is characterised for textile dyeing and documented as a regenerative production system.
 - Images: https://faberfutures.com/wp-content/uploads/2025/05/Faber-Futures_QUORUM_4-768x1024.jpeg
 - Project page: https://faberfutures.com/projects/quorum/
+
+#### AIPER — Ailton Pereira (2024)
+- Type: Product & platform · Organisms: Bacteria & microbes, Fungi
+- Idea: Colour can come from microbes fed on farm waste.
+- What it is: A start-up producing microbial biopigments for textiles and cosmetics by fermentation, feeding the microbes on agricultural waste.
+- How it works: Pigment-producing strains ferment agro-residues; pigments are extracted and formulated.
+- Images: https://content.gp-award.com/assets/media/award24/0-aiper_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/aiper
+
+#### Carbon Polymerizing System — Carbon Polymerizing System team (Mahidol University) (2024)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Captured carbon can become a material instead of being buried.
+- What it is: An automated system that captures carbon and feeds it to bacteria that ferment it into polyhydroxybutyrate (PHB), a biodegradable plastic.
+- How it works: A capture unit supplies carbon to a bioreactor where PHB-accumulating bacteria grow; the polymer is then extracted.
+- Video: https://www.youtube.com/watch?v=FUlJ8WdIYHE
+- Images: https://www.jamesdysonaward.org/Document/1f2dacee-7db2-472e-934a-77a33e3d5c78/system.jpg https://www.jamesdysonaward.org/Document/916dcbcd-15b2-45c9-8d8d-62dd20133a11/phb1-large.jpeg
+- Project page: https://www.jamesdysonaward.org/en-GB/2024/project/carbon-polymerizing-system/
+
+#### Ferment'Up — Green Spot Technologies (2024)
+- Type: Product & platform · Organisms: Fungi, Bacteria & microbes, Plants
+- Idea: Fermentation can turn by-products back into food.
+- What it is: Fruit and vegetable skins and seeds from food processing are upcycled by solid-state (dry) fermentation into nutritious food ingredients.
+- How it works: Selected microorganisms ferment damp plant residues, raising protein and fibre quality.
+- Video: https://www.youtube.com/watch?v=VQzYd9CyKLA
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/FermentUp-Hero-1920x1080-@72DPI.jpg
+- Project page: https://earthshotprize.org/winners-finalists/ferment-up/
 
 #### O° — OXMAN, Neri Oxman (2024)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -4110,12 +4951,107 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd6a2f86f21e1b44867_OG%20Image%20O0.jpg
 - Project page: https://www.oxman.com/projects/o0
 
+#### PlantPoxy — PlantPoxy team (KMUTT) (2024)
+- Type: Research prototype · Organisms: Fungi, Plants
+- Idea: Deliver a living ally with the seed.
+- What it is: A glue-like culture medium carrying pest-controlling fungi that is coated onto seeds or stems, replacing chemical pesticides with a living biocontrol agent.
+- How it works: Entomopathogenic fungi are embedded in an adhesive nutrient matrix applied as a seed coating.
+- Video: https://www.youtube.com/watch?v=J6CL43yFfsU
+- Images: https://www.jamesdysonaward.org/Document/7540d90d-b224-4586-ba2d-a88971977309/img6021.png
+- Project page: https://www.jamesdysonaward.org/en-GB/2024/project/plantpoxy/
+
+#### pHen — Moholy-Nagy University of Art and Design Biodesign Challenge team (2024)
+- Type: Product & platform · Organisms: Bacteria & microbes, Plants
+- Idea: One bio-ink, many colours: let chemistry replace a box of single-use markers.
+- What it is: A refillable, 3D-printable marker whose ink changes colour with pH, using pigments from bacteria and vegetables such as actinorhodin from Streptomyces coelicolor and anthocyanins from red cabbage.
+- How it works: pH-responsive natural pigments are loaded into an open-source printable pen body with interchangeable tips.
+- Video: https://www.youtube.com/watch?v=AW1ucms2g-c
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647551297-GQ61ZCCUFHRI94QQQPIZ/BDC_HERO_V01_0233.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647541823-TYQRD9I7G10UKQ9SJWK9/DSC07963.JPG
+- Project page: https://www.biodesignchallenge.org/mome-2024
+
+#### ALT TEX — ALT TEX (2023)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Replace fossil polyester with a fermented, compostable one.
+- What it is: Food waste is fermented into biopolymers that are melt-spun into yarn and woven into a biodegradable alternative to polyester.
+- How it works: Microbial fermentation converts food-waste sugars into a polyester-like polymer suitable for melt spinning.
+- Video: https://www.youtube.com/watch?v=NG2bi-YqwKQ
+- Images: https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-ALT-TEX-.jpeg
+- Project page: https://thealttex.com/
+
+#### BacTerra: Designing Across Scales — California College of the Arts, Architecture Biodesign Challenge team (2023)
+- Type: Research prototype · Organisms: Bacteria & microbes, Animals
+- Idea: Borrow the shell-building chemistry of animals to bind building materials at room temperature.
+- What it is: A research project on biomaterials that cut building-industry carbon: inspired by plankton, molluscs and birds that make shells, the team combined clay, Bacillus subtilis and sea-urchin shells in a biomineralisation process.
+- How it works: Bacillus subtilis precipitates calcium carbonate that binds clay with crushed sea-urchin shell.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881104599-I9QD05VS578F6YLYF3I1/CCA_Architecture_Image01.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881107345-R516Q6N8DRMKFCYJEMAA/CCA_Architecture_Image02.jpg
+- Project page: https://www.biodesignchallenge.org/cca-architecture-2023
+
+#### Biocement Chair (The Essence of Biocement) — Friedrich Gerlach (2023)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Research materials reach people when they become furniture.
+- What it is: Seating cast from recycled brick aggregate bound by bacterially precipitated calcium carbonate, with no firing, made to communicate biocement research through a usable object.
+- How it works: Sporosarcina pasteurii bacteria precipitate calcite (MICP) through a cast aggregate in successive treatment cycles.
+- Video: https://www.youtube.com/watch?v=vNFfUw-JWW8
+- Images: https://www.jamesdysonaward.org/Document/3d109486-e0c8-4528-b041-3eddba2db81e/01biocementgerlachhuhnholzlq08.jpg https://www.jamesdysonaward.org/Document/7663292b-0318-48af-83fb-afaf52a827d5/02biocementgerlachhuhnholz.jpg
+- Project page: https://www.friedrichgerlach.de/the-essence-of-biocement
+
+#### Great Wrap — Great Wrap (2023)
+- Type: Product & platform · Organisms: Plants, Bacteria & microbes
+- Idea: Replace a ubiquitous plastic with one fermented from food waste.
+- What it is: A compostable stretch and cling wrap made from potato waste fermented into a bioplastic that performs like conventional film and breaks down without microplastics.
+- How it works: Potato-waste starches are fermented into a biopolymer (PHA-type) blend and blown into film.
+- Video: https://www.youtube.com/watch?v=ybQ94S1-sc4
+- Project page: https://greatwrap.com.au/
+
+#### KBCols Sciences microbial colours — KBCols Sciences (2023)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: A country's microbial diversity is a colour library.
+- What it is: Non-GMO natural textile colourants produced by bacteria isolated from India's biodiversity and grown by fermentation instead of petrochemical synthesis.
+- How it works: Pigment-producing bacterial strains are fermented and the pigments extracted for dyeing.
+- Video: https://www.youtube.com/watch?v=WeNLSr_HSlA
+- Images: https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-KBCols-Sciences.jpeg
+- Project page: https://www.kbcolssciences.com/
+
+#### METABOLICA — Thomas Feuerstein (2023)
+- Type: Artwork · Organisms: Bacteria & microbes, Algae
+- Idea: Living organisms can be both the quarry and the chisel of sculpture.
+- What it is: An exhibition in five chapters in which algae and bacteria make, digest and remake sculptures from PHB bioplastic, telling a story from whaling and oil to future biochemistry.
+- How it works: Bacteria metabolise fatty acids from algae into polyhydroxybutyrate (PHB), which is cast into sculptures that other microbes later degrade.
+- Images: https://ars.electronica.art/starts-prize/files/2024/06/metabolica-5-c-atelier-thomas-feuerstein-1024x576.jpg
+- Project page: https://thomasfeuerstein.net
+
+#### Mr. Kombucha's Lab — Xuewei Zhao (2023)
+- Type: Product & platform · Organisms: Bacteria & microbes, Fungi
+- Idea: Material innovation can be shared as recipes anyone can grow.
+- What it is: An open-source platform that teaches people to grow kombucha SCOBY and turn it into leather- and plastic-like everyday objects.
+- How it works: Guides cover breeding cultures, drying pellicles and forming objects, with a sharing community.
+- Images: https://content.gp-award.com/assets/media/award23/0-mr-kombuchas-lab_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/mr-kombuchas-lab
+
+#### CyanoFabbrica — Cinzia Ferrari (2022)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Share authorship of form with a microbe.
+- What it is: Cyanobacteria's ability to biomineralise is used to bind substrates into objects, making the organism a co-producer whose binding determines each unique form.
+- How it works: Cyanobacteria precipitate calcium carbonate among granular material in moulds under light.
+- Images: https://content.gp-award.com/assets/media/award22/0-cyanofabbrica_2_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/cyanofabbrica
+
+#### LanzaTech gas fermentation — LanzaTech (2022)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Pollution can be the diet of a microbe that makes materials.
+- What it is: Carbon-rich industrial off-gases are fed to anaerobic bacteria (Clostridium autoethanogenum) that ferment them into ethanol, used to make fuels, polyester and other products.
+- How it works: Steel-mill gases (CO, CO2, H2) are bubbled through bioreactors of gas-fermenting bacteria.
+- Video: https://www.youtube.com/watch?v=_tD8pmuP3SU
+- Images: https://earthshotprize.org/wp-content/uploads/2022/11/LanzaTech-CEO-Dr-Jennifer-Holmgren-with-beaker-1024x576.jpg
+- Project page: https://lanzatech.com/
+
 #### Living Materials Made by 3D Printing Cellulose-Producing Bacteria in Granular Gels — André R. Studart (2022)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Let the bacteria finish the object after the nozzle has left.
 - What it is: Cellulose-producing bacteria are written into a granular support gel, where they keep growing after printing and fuse the printed paths into a coherent, tough cellulose object.
 - How it works: A granular gel bath holds extruded bacteria-laden filaments in place during days of culture; the cellulose the bacteria secrete bridges neighbouring filaments and sets the final mechanics.
 - Paper: https://doi.org/10.1016/j.bioadv.2022.213095 (Biomaterials Advances)
+- Images: https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr3_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr1_lrg.jpg
 - Project page: https://complexmaterials.ethz.ch/
 
 #### Papier Plume (ImpressioVivo) — Aurélie Mosse (2022)
@@ -4134,6 +5070,14 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://www.som.com/wp-content/uploads/2022/11/2U9A2252-A_large-1667592938-scaled.jpg
 - Project page: https://www.som.com/research/bio-concrete/
 
+#### Vivomer packaging — Shellworks (2022)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Make packaging from something microbes both make and eat.
+- What it is: Packaging made from Vivomer, a PHA biopolymer produced by microorganisms through fermentation; soil and ocean bacteria recognise it as food, so it biodegrades without industrial composting.
+- How it works: Microbes accumulate PHA granules when fed; the extracted polymer is moulded into jars and closures.
+- Images: https://rca-media2.rca.ac.uk/images/Copy-of-Jars-in-blue-hues-2021--.2e16d0ba.fill-1200x1200.jpg
+- Project page: https://www.shellworks.com
+
 #### Living materials with programmable functionalities grown from engineered microbial co-cultures — Tom Ellis (2021)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Program the material while it grows by engineering the microbes that make it.
@@ -4142,6 +5086,31 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Paper: https://www.nature.com/articles/s41563-020-00857-5 (Nature Materials)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-020-00857-5/MediaObjects/41563_2020_857_Fig1_HTML.png
 - Project page: https://www.nature.com/articles/s41563-020-00857-5
+
+#### Pyrus — Gabe Tavas (2021)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: A brewery by-product can stand in for tropical timber.
+- What it is: A petroleum-free, wood-like material made from bacterial cellulose left over from kombucha brewing, which can be laser-cut, CNC-machined and sanded like exotic hardwoods.
+- How it works: Kombucha SCOBY pellicles are layered, pressed and cured into dense blocks with wood-like grain.
+- Video: https://www.youtube.com/watch?v=FKqc90syidU
+- Images: https://www.jamesdysonaward.org/Document/20e1597c-a17d-48d6-a4f5-2689d7a99b9b/img5065.jpg https://www.jamesdysonaward.org/Document/afd79e14-8c91-419b-b042-50783488d30a/image-from-ios-2.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2021/project/pyrus/
+
+#### Scobio — Fergus Telfer (2021)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: A distillery's waste can grow packaging.
+- What it is: A colourless, biodegradable film grown by microbes from Scottish gin-distillery waste to replace plastic packaging film; it is also antimicrobial and water-retentive.
+- How it works: Bacterial cellulose is grown on spent distillery liquid and processed into clear sheets.
+- Images: https://web.archive.org/web/20211129114907im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/more-wow-min-square-600x600.jpg
+- Project page: https://web.archive.org/web/20211129114907/https://www.globalgradshow.com/project/scobio/
+
+#### A Lighter Delicacy — Sorawut Kittibanthorn (2020)
+- Type: Research prototype · Organisms: Animals, DNA & molecules
+- Idea: Question what counts as food by treating slaughter waste as an ingredient.
+- What it is: A proposal to turn chicken-feather waste from slaughterhouses into a new edible product, since feathers are about 91% keratin protein.
+- How it works: Feathers are hydrolysed to break keratin into digestible peptides and amino acids, then formed into a food product.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/Hidden-value-of-waste-feathers-Credit-Pichaya-Sampanvejsobha-and-Varinthorn-Deprasertwong-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/a-lighter-delicacy/
 
 #### Biomineralization and Successive Regeneration of Engineered Living Building Materials — Wil V. Srubar III (2020)
 - Type: Paper · Organisms: Bacteria & microbes
@@ -4152,6 +5121,23 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr1_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2590238519303911-gr2_lrg.jpg
 - Project page: https://www.colorado.edu/lab/srubar/
 
+#### Linneo, Nourishing Beauty — Universidad de los Andes Biodesign Challenge team (2020)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Colour in cosmetics can come from fungal metabolism instead of mined minerals.
+- What it is: Cosmetic pigments sourced from fungi to replace ingredients such as heavy metals, parabens and phthalates with biological alternatives that nourish and protect the skin.
+- How it works: Pigment-producing fungal strains are cultured and their pigments extracted into a make-up palette.
+- Video: https://www.youtube.com/watch?v=cqJm9gxBifc
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284288770-2Z96KKKKVJUUO0RRJWF6/Linneo.JPG https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284359633-YW8NNGB1AADP8RDCZ7N8/LINNEO_Palette_3.jpg
+- Project page: https://www.biodesignchallenge.org/universidad-de-los-andes-2020
+
+#### Microbial Memories — NYU Integrated Design & Media Biodesign Challenge team (2020)
+- Type: Speculative design · Organisms: Bacteria & microbes
+- Idea: A place's taste lives in its microbes, so microbes can carry memories of places.
+- What it is: The project traces links between microbiomes and terroir in wine and other foods and imagines capturing the flavours and scents of a place through its microorganisms.
+- How it works: Combines microbiome sampling of food environments with speculative preservation and tasting experiences.
+- Video: https://www.youtube.com/watch?v=u3onQ7ogZgM
+- Project page: http://www.timeplaceculture.com/
+
 #### Microbial Weaving — Modern Synthesis, Amy Congdon (2020)
 - Type: Product & platform · Organisms: Bacteria & microbes
 - Idea: Design the scaffold and let the bacteria do the weaving.
@@ -4160,6 +5146,15 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Video: https://www.youtube.com/watch?v=jEIq_SZG1xE
 - Images: https://admin.modernsynthesis.com/wp-content/uploads/2026/07/Homepage-Header-High.png
 - Project page: https://www.modernsynthesis.com/
+
+#### OFlow — OFlow team (Shawn Navarednam, Kai Jie Chow, Frederick Wong) (2020)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: A bacterial biofilm's stickiness can be the filter.
+- What it is: A biofilter for wastewater treatment plants that uses biodegradable scaffolds coated with Pseudomonas fluorescens biofilms to trap small microplastics before effluent reaches rivers.
+- How it works: Biofilm-coated scaffolds slot into existing treatment stages and capture particles by adhesion.
+- Video: https://www.youtube.com/watch?v=kYT9eXGxDH4
+- Images: https://www.jamesdysonaward.org/Document/f2afbbec-08e9-472a-bc95-b8b515c73d20/whole-system.png https://www.jamesdysonaward.org/Document/47255153-073f-41c8-a615-08bc955c79e7/image-of-scaled-down-model.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2020/project/oflow/
 
 #### Celium — Polybion (2019)
 - Type: Product & platform · Organisms: Bacteria & microbes
@@ -4179,6 +5174,15 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://payload.cargocollective.com/1/16/540742/13689755/Electric-Life-2.0.01_1250.jpg
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Enzer — RMIT University Biodesign Challenge team (2019)
+- Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Catch synthetic fibres at home and let a bacterial enzyme digest them.
+- What it is: A microplastic filter that can be retrofitted to existing washing machines, combining fine filters with a powder that breaks plastic fibres down with enzymes from the bacterium Ideonella sakaiensis.
+- How it works: PETase-type enzymes from Ideonella sakaiensis hydrolyse PET microfibres captured by the filter.
+- Video: https://www.youtube.com/watch?v=eu2UlP6V8cM
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582038059-VSTURWUDLBXA4CHUBPE3/BDC+2019+RMIT+Finalist+Team+ENZER+_+Image+1.jpg
+- Project page: https://www.biodesignchallenge.org/rmit
+
 #### Fungkee | Fungal Supercoatings — Emma van der Leest (2019)
 - Type: Research prototype · Organisms: Bacteria & microbes, Fungi
 - Idea: A harmful fungus can lend a useful property to a microbe-grown material.
@@ -4187,6 +5191,15 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://www.badaward.nl/imager/assets/site/8180/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-137_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8182/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-123_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/emma-van-der-leest-aneta-schaap-oziemlak-with-paul-verweij-sybren-de-hoog-radboudumc-cwz
 
+#### GIY Bio Buddies — Nest Makerspace Biodesign Challenge team (2019)
+- Type: Product & platform · Organisms: Bacteria & microbes, Fungi
+- Idea: Children can learn material culture by growing their toys instead of buying them.
+- What it is: A kit that lets children grow and design their own toys from kombucha leather and mycelium, as an alternative to plastic toys.
+- How it works: Kombucha SCOBY cellulose is dried into leather-like sheets and mycelium is grown in moulds; the kit packages recipes and templates.
+- Video: https://www.youtube.com/watch?v=-zT7OKeApNA
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580295993-BWM6RO002JMJ8FCRYF4E/Final+GIY+Bio+Buddies+kit.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580298990-R6SNAG2Y2B0A1C1AO2TR/GIY+Bio+Buddies+Project+final+images.jpg
+- Project page: https://giybiobuddies.weebly.com/
+
 #### Huue Biosynthetic Indigo — Huue (2019)
 - Type: Product & platform · Organisms: Bacteria & microbes
 - Idea: Redesign the synthesis route and a polluting colour becomes a fermentation product.
@@ -4194,6 +5207,40 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - How it works: Enzymes from indigo-producing plants are expressed in bacteria that convert a sugar feedstock into indican and then indigo, dyeing fabric in a mild aqueous process.
 - Video: https://www.youtube.com/watch?v=2t_hg33RtQI
 - Project page: https://www.huue.bio/
+
+#### Le Qara lab leather — Le Qara (2019)
+- Type: Product & platform · Organisms: Bacteria & microbes, Plants
+- Idea: Program a material's properties by how you feed the microbes that grow it.
+- What it is: Microorganisms fed on Peruvian flower and fruit waste grow a biodegradable leather-like material whose texture, colour and thickness can be tuned during growth.
+- How it works: Microbial cellulose grows in trays of waste-based medium and is finished like leather.
+- Video: https://www.youtube.com/watch?v=j_q9SYeZr-Q
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Large-Le-Qara-684x1024.jpg
+- Project page: https://hmfoundation.com/gca/winner/le-qara/
+
+#### NUATAN — crafting plastics! studio (2019)
+- Type: Product & platform · Organisms: Plants, Bacteria & microbes
+- Idea: Design a material's lifespan as deliberately as its form.
+- What it is: An oil-free bioplastic blend made entirely from renewable resources that withstands over 100 °C, has a designed lifespan of 1–50 years and composts industrially.
+- How it works: Blends of PLA (from plant starch) and PHA (from bacterial fermentation) are tuned with the Slovak University of Technology and Panara.
+- Images: https://designmuseum.org/image/52577a1c-ac48-4d67-8dc1-9f4d76b281cf?width=1600
+- Project page: https://www.crafting-plastics.com/
+
+#### PseudoFreeze — Universidad de los Andes Biodesign Challenge team (2019)
+- Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: A bacterium's trick for freezing leaves can become cold-chain infrastructure.
+- What it is: A battery-free cooling system for transporting vaccines that uses the ice-nucleating protein of the bacterium Pseudomonas syringae.
+- How it works: The INA (ice nucleation active) protein makes water freeze at higher temperatures; the team built a carrier bag and lab tests around it to keep vials cold without power.
+- Video: https://www.youtube.com/watch?v=mwUVBkoInTY
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579829697-3QCPAY4U6F198SLVEZD4/PSEUDOFREEZE+BAG.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579824228-INMOFWBBHXXHJ50URMTP/PSEUDOFREEZE+LAB.jpg
+- Project page: https://www.pseudofreeze.com/
+
+#### Solein — Solar Foods (2019)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Food can be made from air and electricity.
+- What it is: A protein-rich food ingredient made by growing hydrogen-oxidising bacteria on CO2, hydrogen from electrolysis and minerals, without farmland.
+- How it works: Gas fermentation of a hydrogen-oxidising bacterium produces single-cell biomass that is dried into a powder.
+- Video: https://www.youtube.com/watch?v=z8zuqR95fqA
+- Project page: https://solarfoods.com/
 
 #### Malai coconut-water biocomposite — Malai (2018)
 - Type: Product & platform · Organisms: Bacteria & microbes, Plants
@@ -4213,6 +5260,15 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41589-018-0169-2/MediaObjects/41589_2018_169_Figa_HTML.png
 - Project page: https://www.nature.com/articles/s41589-018-0169-2
 
+#### Sorbit — University of California, Davis Biodesign Challenge team (2018)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Grow a disposable product from waste so it can return to soil instead of landfill.
+- What it is: A fully biodegradable diaper made of bacterial cellulose grown on citrus agricultural waste: soft, water-repellent outside and absorbent inside.
+- How it works: Cellulose-producing bacteria were cultured on citrus waste, then the cellulose sheets were processed into layered diaper components.
+- Video: https://www.youtube.com/watch?v=1fLnemtiFTg
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530282557415-L1VRZOFIT4QN69Q488DJ/Copy+of+UC+Davis+Winning+Team+4+Sorbet+Diaper+Folded+as+Worn.jpg
+- Project page: https://www.biodesignchallenge.org/uc-davis
+
 #### Mother's Hand Taste (Son-mat) — Jiwon Woo (2017)
 - Type: Artwork · Organisms: Bacteria & microbes, Fungi
 - Idea: The taste of a family's cooking may be a microbial inheritance.
@@ -4228,6 +5284,14 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - How it works: Engineered microbes (likely yeast) ferment collagen protein, which is purified and assembled into a fibrous material that can be cast, printed or bonded to fabric.
 - Images: https://3dprintingindustry.com/wp-content/uploads/2017/10/zoa-home-swatches.jpg
 - Project page: https://3dprintingindustry.com/news/modern-meadow-launches-zoa-worlds-first-biofabricated-leather-122023/
+
+#### Not a Matter of Taste — Maija Järviniemi & Outi Mustonen (2016)
+- Type: Research prototype · Organisms: Bacteria & microbes, Plants
+- Idea: Revive a neglected food as biodegradable tableware.
+- What it is: Edible bowls made by combining bacterially grown cellulose with pettu, a pine-inner-bark flour used in wartime Finland.
+- How it works: Bacterial cellulose sheets are moulded with pettu flour and dried into bowls.
+- Video: https://www.youtube.com/watch?v=kMgYwCRI-dg
+- Project page: https://web.archive.org/web/20210623043930/https://www.globalgradshow.com/project/not-a-matter-of-taste-researching-edible-cellulose-2/
 
 #### Spark of Life — Teresa van Dongen (2016)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -4263,6 +5327,23 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - Images: https://www.pili.bio/wp-content/uploads/2024/10/e4fc3802-0167-4461-bc3f-6954387fbeb1-773d8194-918d-4f56-b738-21759f9465df-pili-hero2.webp
 - Project page: https://www.pili.bio/
 
+#### Post/Biotics — Vidhi Mehta (2015)
+- Type: Research prototype · Organisms: Bacteria & microbes, Plants
+- Idea: Antibiotic discovery can happen in classrooms, not only in pharma labs.
+- What it is: A citizen-science toolkit and pop-up lab with which students test local plants and soils for antimicrobial compounds, proposing open-source antibiotic discovery.
+- How it works: Soil and plant extracts are tested against harmless bacteria on agar plates; results are shared online.
+- Video: https://www.youtube.com/watch?v=vl6fVplJTcc
+- Project page: https://web.archive.org/web/20210614220054/https://www.globalgradshow.com/project/post-biotics/
+
+#### Aqualose — iGEM Team Imperial College London (2014)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Grow a water filter with bacteria.
+- What it is: Customisable ultrafiltration membranes made from bacterial cellulose for low-cost water purification, including cellulose production in E. coli and an art-and-design strand prototyping uses.
+- How it works: Gluconacetobacter cellulose was functionalised with binding domains; E. coli was engineered to secrete cellulose.
+- Video: https://www.youtube.com/watch?v=cRoI-lS_F9E
+- Images: https://static.igem.org/mediawiki/2014/d/de/IC14-banner-cellulose3.JPG
+- Project page: https://2014.igem.org/Team:Imperial
+
 #### Glowee bioluminescent lighting — Glowee (2014)
 - Type: Product & platform · Organisms: Bacteria & microbes
 - Idea: Light that is grown and fed rather than wired.
@@ -4270,6 +5351,22 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 - How it works: Bioluminescent bacteria related to squid symbionts (likely Aliivibrio fischeri; early versions used engineered E. coli) are kept alive in a nutrient medium and emit light while oxygenated.
 - Video: https://www.youtube.com/watch?v=C26teAbSH1k
 - Project page: https://www.glowee.com/
+
+#### Living Pixels — Ingrid Nijhoff (2014)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Grow a colour palette instead of synthesising it.
+- What it is: An 'ink nursery' in which pigment-producing bacteria from soil, skin, plants and mouths are cultured to grow a full colour spectrum, processed into inks for printing and painting.
+- How it works: Pigmented bacterial biomass is harvested and processed into liquid inks.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/Levende-Pixels-Inktkwekerij-INgrid-Nijhoff-1024x599.jpg https://new-material-award.nl/wp-content/uploads/2021/11/IMG_4489-1024x1024.jpg
+- Project page: https://new-material-award.nl/en/living-pixels/
+
+#### Aseatobacter — iGEM Team NYU Gallatin (2012)
+- Type: Speculative design · Organisms: Bacteria & microbes
+- Idea: Engineer the organism to build material properties in, not add them later.
+- What it is: Work with the cellulose-making bacterium Acetobacter xylinum aiming to engineer grown material with colour, strength and water resistance, including designs for a bacterial-cellulose chair.
+- How it works: Genetic parts for pigment and binding proteins were planned for the cellulose producer.
+- Images: https://static.igem.org/mediawiki/2012/3/34/Aseatobacter-IMAGES-Chair_Diagrams.png
+- Project page: https://2012.igem.org/Team:NYU_Gallatin
 
 #### Bio Computation — The Living (2012)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -4320,6 +5417,55 @@ Bacteria and yeast that make pigments, cellulose, cement and other materials.
 
 Algae and photosynthetic organisms in products, facades and energy systems.
 
+#### Algae Harvester — Julian Yasin Buchgraber (2026)
+- Type: Speculative design · Organisms: Algae
+- Idea: Appliances can host food organisms using the energy they waste.
+- What it is: A household fridge with an integrated photobioreactor that reuses the fridge's waste heat to grow edible spirulina for a small daily harvest.
+- How it works: Heat from the compressor warms an illuminated algae chamber built into the fridge body.
+- Images: https://content.gp-award.com/assets/media/award26/0-algae-harvester_blogLarge.jpg https://content.gp-award.com/assets/media/award26/3-algae-harvester_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/algae-harvester
+
+#### Keltex — Keltex (2026)
+- Type: Product & platform · Organisms: Algae
+- Idea: Raise the value of a crop farmed by coastal women.
+- What it is: Biodegradable leather alternatives made from seaweed farmed along the Tanzanian coast, combining AI-optimised farming with biopolymer extraction.
+- How it works: Seaweed polysaccharides are extracted and formulated into flexible, leather-like sheets.
+- Images: https://hmfoundation.com/wp-content/uploads/2026/06/Keltex_2026_GCA_winner-1.jpg https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_KelTex-1280x800.jpg
+- Project page: https://keltexleather.com
+
+#### Sealeo biodegradable thermal packaging — Sealeo (Diana Epel & Emanuele Griccioli) (2026)
+- Type: Product & platform · Organisms: Algae
+- Idea: Replace foam boxes and gel packs with materials from the sea.
+- What it is: Thermal packaging for pharmaceutical cold chains that combines a seaweed biofoam with a seaweed hydrogel coolant, keeping contents cool up to 2.5 times longer and fully compostable.
+- How it works: Seaweed polymers are foamed into insulating panels and gelled into refreezable coolant packs.
+- Images: https://content.gp-award.com/assets/media/award26/w-biodegradable-thermal-material_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/Biodegradable-thermal-packaging
+
+#### Tera Mira — Tera Mira (2026)
+- Type: Product & platform · Organisms: Algae
+- Idea: Replace the one ingredient that makes clothes unrecyclable.
+- What it is: Seaweed is wet-spun at low temperature and without solvents into a stretch fibre designed to replace elastane, which blocks garment recycling.
+- How it works: Seaweed-derived polymers are wet-spun into elastic filaments.
+- Video: https://www.youtube.com/watch?v=Qm0VFX2qpZA
+- Images: https://hmfoundation.com/wp-content/uploads/2026/06/Tera-Mira_2026_GCA_winner-1.jpg
+- Project page: https://teramira.com
+
+#### Brilliant Dyes — Brilliant Dyes (2025)
+- Type: Product & platform · Organisms: Algae, Bacteria & microbes
+- Idea: Blue, the hardest natural colour, can be grown by microbes.
+- What it is: Phycocyanin and other pigments extracted from cyanobacteria through a low-energy biorefinery, as biodegradable colours for textiles, cosmetics and food.
+- How it works: Spirulina-type cyanobacteria are cultivated and their pigment-protein complexes extracted and stabilised.
+- Images: https://hmfoundation.com/wp-content/uploads/2025/05/Medium_Screen-Brilliant-Dyes-%E2%80%93-GCA-winner-2025.jpg
+- Project page: https://hmfoundation.com/gca/winner/brilliant-dyes/
+
+#### JiTiBa algae wastewater treatment — Bas Emaus (2025)
+- Type: Product & platform · Organisms: Algae
+- Idea: Algae can make wastewater a nutrient source for the city.
+- What it is: Wastewater treatment in which microalgae immobilised in gel beads clean sewage while recovering nutrients.
+- How it works: Algae-laden beads are held in reactors where they take up nitrogen and phosphorus and are easily separated.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-01-at-221408-00e80c9f-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/bas-emaus/
+
 #### Kelp Council — Julia Lohmann (2025)
 - Type: Artwork · Organisms: Algae, Ecosystems
 - Idea: Ask what seaweed needs from us before asking what material it can give us.
@@ -4327,6 +5473,31 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 - How it works: Dried and treated kelp is formed over armatures into sculptural bodies; the soundscape was composed with Ville Aslak Raasakka from tidal recordings.
 - Images: https://designmuseum.org/image/a2c2789e-dd51-4f82-b4c8-a2b5a2a5dd9e?width=1200
 - Project page: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### Kelpi high-barrier coating — Kelpi (2025)
+- Type: Product & platform · Organisms: Algae
+- Idea: A thin seaweed layer can remove plastic from paper packaging.
+- What it is: Seaweed-derived coatings for paper and card that match the barrier performance of plastic films, letting fibre packaging replace single-use plastics.
+- How it works: Seaweed polysaccharides are formulated into barrier coatings applied on paper lines.
+- Images: https://content.gp-award.com/assets/media/award25/0-kelpi_blogLarge.jpg https://content.gp-award.com/assets/media/award25/1-kelpi_blogLarge.jpg
+- Project page: https://www.kelpi.net
+
+#### Sea Glass — Paolina Kühr (2025)
+- Type: Research prototype · Organisms: Algae
+- Idea: Glass could be grown by microalgae instead of mined.
+- What it is: Glass made from diatoms, microalgae that pull silicon from seawater to build silica cell walls, so silica can be grown and CO2 captured instead of mining sand.
+- How it works: Diatom biomass is cultured, the organic matter removed and the silica frustules melted into glass.
+- Images: https://content.gp-award.com/assets/media/award25/0-sea-glass_blogLarge.jpg https://content.gp-award.com/assets/media/award25/2-sea-glass_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/sea-glass
+
+#### ALGBIO — ALGBIO (Selen Şenal & Ceyda Güneş) (2024)
+- Type: Research prototype · Organisms: Algae
+- Idea: Treat wastewater as a growth medium rather than a disposal problem.
+- What it is: A system that grows microalgae on wastewater and captured CO2, cleaning the water while producing biomass that becomes biofuels, bioplastics and other bioproducts.
+- How it works: Photobioreactors fed with wastewater and flue CO2 produce algal biomass for downstream conversion.
+- Video: https://www.youtube.com/watch?v=7VWf7Sn6qYE
+- Images: https://www.jamesdysonaward.org/Document/d91e569e-8f53-4dd8-bfb5-7ff679ef4e9b/36879fb1-0c0c-4362-92d5-b61111eb49fa.jpg https://www.jamesdysonaward.org/Document/711bc085-289b-41fc-b489-a1f4e88ede12/algbio-bioplastics.png
+- Project page: https://www.jamesdysonaward.org/en-GB/2024/project/algbio/
 
 #### Carbon Farm — Jiabao Li (2024)
 - Type: Artwork · Organisms: Algae
@@ -4337,6 +5508,140 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/e65b77d1-2a95-476a-91e1-7041d8ba550b/Jiabao+Li+Duende+51.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737387933851-A6BH4ZMGGF7QQ2T4RA2C/jiabao+li+carbon+farm+16.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737387934713-OHYCTHLHX28WEVSZ8YPC/jiabao+li+carbon+farm+17.jpg
 - Project page: https://www.jiabaoli.org/carbon-farm
 
+#### Cyanoskin — Emma Money (2024)
+- Type: Research prototype · Organisms: Bacteria & microbes, Algae
+- Idea: Paint a wall with something that breathes.
+- What it is: A living paint containing cyanobacteria that turns building façades into surfaces that absorb pollution and fix CO2, thickening over time as the microbes photosynthesise.
+- How it works: Cyanobacteria are embedded in a breathable binder that keeps them alive on outdoor surfaces.
+- Video: https://www.youtube.com/watch?v=9V_4S3d89r0
+- Images: https://content.gp-award.com/assets/media/award24/0-cyanoskin_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/cyanoskin
+
+#### Kelserra — McGill University Biodesign Challenge team (2024)
+- Type: Research prototype · Organisms: Algae, Human body
+- Idea: A seaweed's wet-grip chemistry can become a medical glue.
+- What it is: A surgical adhesive modelled on how the brown alga Fucus serratus sticks to wet rocks, aimed at closing internal wounds faster in minimally invasive gynaecological surgery.
+- How it works: The formula was tuned for wet adhesion strength, short curing time and biocompatibility.
+- Video: https://www.youtube.com/watch?v=W9txOGTM4pE
+- Project page: https://www.biodesignchallenge.org/mcgill-university-2024
+
+#### Lucid Life | Marama Ora — Christopher Bellamy (2024)
+- Type: Artwork · Organisms: Algae
+- Idea: A living material can bring biotechnology out of the lab and into traditional craft.
+- What it is: A living material that encapsulates bioluminescent microalgae, glows when touched and survives on sunlight for at least six months; artefacts were co-created with Polynesian artisans.
+- How it works: Dinoflagellates are embedded in a hydrogel matrix inspired by coral–algae symbiosis; mechanical stress triggers their bioluminescence.
+- Video: https://www.youtube.com/watch?v=1Icf_g_lJYI
+- Images: https://ars.electronica.art/starts-prize/files/2025/06/lucid-life-c-ben-turner-2-1024x576.jpg
+- Project page: https://biocrafted.com/lucid-life
+
+#### MiAlgae — MiAlgae (2024)
+- Type: Product & platform · Organisms: Algae
+- Idea: Feed farmed fish without catching wild fish.
+- What it is: Omega-3-rich microalgae grown by fermentation on whisky-distillery by-products, replacing fish oil in aquaculture feed.
+- How it works: Heterotrophic microalgae ferment distillery co-products in tanks and are dried into feed ingredients.
+- Video: https://www.youtube.com/watch?v=0wpUg9cntME
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/Mialgae-Support-Hero-1920x1080_0000_20240820_SGerrard_MiAlgae_DSC2064-1024x576.jpg
+- Project page: https://www.mialgae.com/
+
+#### Ouroboros (algae bioplastic LP records) — Fara Peluso, Kat Austen (2024)
+- Type: Research prototype · Organisms: Algae
+- Idea: A music medium can be grown instead of made from oil.
+- What it is: Circular LP records pressed from algae-based bioplastic, with Kat Austen's album about the Lusatia coal region as prototype; the research covers material, manufacture and sound.
+- How it works: Algae-derived bioplastic is formulated for record pressing and tested for groove fidelity.
+- Video: https://www.youtube.com/watch?v=xG_av2V6_LE
+- Images: https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-fara-peluso-6.jpeg?h=08b866d1&itok=lmbWHF8H
+- Project page: https://falling-walls.com/echoes-sustainability-fara-pelusos-ouroboros-sound-art-revolution
+
+#### Avocado Seed Brick — Fragmentario (María-Elena Pombo) (2023)
+- Type: Research prototype · Organisms: Plants, Algae
+- Idea: Two nuisances can become one material.
+- What it is: A brick made from discarded avocado seeds bound with a binder produced from Sargassum seaweed, combining two waste streams into a building material.
+- How it works: Ground avocado seed is bound with alginate-type binder from Sargassum and moulded.
+- Images: https://www.salonemilano.it/sites/default/files/styles/libero/public/2023-06/Fragmentario-Avocado%20Seed%20Brick-salone%20milano.jpg.webp?itok=wbU44Shi
+- Project page: https://www.salonemilano.it/en/articles/latest-design-challenges-salonesatellite-award-2023
+
+#### O-GA — O-GA team (Silpakorn University) (2023)
+- Type: Speculative design · Organisms: Algae
+- Idea: Rural landscapes could farm fuel in water rather than dig it from the ground.
+- What it is: Product-design proposal for algae cultivation units in a future renewable-energy countryside, where the algae are processed into bio-oil for vehicles.
+- How it works: Modular photobioreactor units grow algae whose lipids are converted to bio-oil.
+- Images: https://www.jamesdysonaward.org/Document/dd76504a-337f-4501-b946-1ebdcf847e96/71.jpg https://www.jamesdysonaward.org/Document/604dd5a3-e7cd-4f23-84f4-e13a785422fd/90.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2023/project/o-ga/
+
+#### Sea Forest Asparagopsis — Sea Forest (2023)
+- Type: Product & platform · Organisms: Algae, Animals
+- Idea: A seaweed can change the climate footprint of another species' digestion.
+- What it is: The red seaweed Asparagopsis is farmed and processed into a livestock-feed supplement whose bromoform-rich compounds sharply cut the methane cattle produce.
+- How it works: Asparagopsis compounds inhibit methanogenic archaea in the rumen.
+- Video: https://www.youtube.com/watch?v=jjkOLvxPqqs
+- Images: https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-SEAFORESTPAGE-Carousel-01-16_9.jpg
+- Project page: https://www.seaforest.com.au/
+
+#### Zero Bag — Kyeongho Park (2023)
+- Type: Product & platform · Organisms: Algae
+- Idea: Design packaging that becomes part of how the product is used.
+- What it is: A water-soluble package made of alginate from seaweed with a film of paper detergent or baking soda attached; the bag dissolves in the wash, leaving no plastic.
+- How it works: Sodium alginate film is cast and heat-sealed into bags that dissolve in water.
+- Video: https://www.youtube.com/watch?v=ej2T958I28s
+- Project page: https://discoverlexus.com/stories/lexus-design-award-2023/program-details/zero-bag
+
+#### Kudarat Bioleather — Divya Verma (2022)
+- Type: Research prototype · Organisms: Algae, Plants
+- Idea: A leather can be made without animals or petrochemicals.
+- What it is: A compostable leather alternative made from algae combined with food and fibre waste, designed to be waterproof with good tensile strength.
+- How it works: Algal biomass is mixed with waste fibres and plasticised, cast and finished into sheets.
+- Images: https://www.jamesdysonaward.org/Document/bea3a03b-b045-428d-9c4e-7232d85df92f/1.png https://www.jamesdysonaward.org/Document/ae2fcd9a-d4fd-4131-94b0-99744134085d/2.png
+- Project page: https://www.jamesdysonaward.org/en-GB/2022/project/kudarat-bioleather/
+
+#### Notpla Seaweed Paper — Notpla (2022)
+- Type: Product & platform · Organisms: Algae
+- Idea: Seaweed can reduce the trees in paper.
+- What it is: Paper for packaging in which part of the virgin wood pulp is replaced with seaweed by-products from Notpla's other processes, reaching 30% seaweed on industrial lines.
+- How it works: Seaweed fibre residues are blended into pulp and run on conventional paper machines.
+- Images: https://rca-media2.rca.ac.uk/images/Notpla_Paper__Sheets.2e16d0ba.fill-829x585.jpg
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/notpla-seaweed-paper
+
+#### OXYLON — BIOTEOS (Romain Dhenin) (2022)
+- Type: Product & platform · Organisms: Algae
+- Idea: Pollution can be food for a living filter.
+- What it is: An indoor air purifier for public spaces that passes air through a microalgae culture, which takes up pollutants such as CO2 and nitrogen oxides as nutrients.
+- How it works: A photobioreactor column bubbles room air through an illuminated algae culture.
+- Video: https://www.youtube.com/watch?v=K7lUgf0hiuI
+- Images: https://www.jamesdysonaward.org/Document/97d7a58d-9ad3-4887-8bf0-9e79c344ac45/oxylon.jpg https://www.jamesdysonaward.org/Document/97ed376a-1936-4574-90d6-acce788ba2bb/technology.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2022/project/oxylon/
+
+#### Primordial — Primordial (RCA team) (2022)
+- Type: Research prototype · Organisms: Algae
+- Idea: Cheap vessels are what let algae carbon capture spread.
+- What it is: Scalable, low-cost photobioreactor technology for cultivating microalgae that capture CO2 while producing biomass.
+- How it works: Simplified reactor geometries and materials reduce the cost of lighting, mixing and harvesting.
+- Images: https://rca-media2.rca.ac.uk/images/Screenshot_2022-01-20_at_17.39.0.2e16d0ba.fill-1200x1200.png
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/primordial
+
+#### DipWrap — Aalto University Biodesign Challenge team (2021)
+- Type: Research prototype · Organisms: Algae, Plants
+- Idea: Make packaging a coating you dip, not a film you wrap.
+- What it is: A replacement for plastic shrink wrap on supermarket produce: fruit and vegetables are dipped in a solution that dries into a peelable, biodegradable film.
+- How it works: The dip combines agar from red algae, cellulose nanocrystals and carnauba wax.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287025248-ZVGV0A2X46W2LFS0RF3V/AALTO+DipWrap+2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287006965-75D90FEFR36TARV4W4BH/AALTO+DipWrap+5.jpg
+- Project page: https://www.biodesignchallenge.org/aalto-university-2021
+
+#### NLC – The New Life Capsule — Izabela Świca (2021)
+- Type: Research prototype · Organisms: Algae, Fungi, Ecosystems
+- Idea: Microbial partnerships can restart soil life in deserts.
+- What it is: A capsule that co-cultivates microalgae and fungi, releasing a biofertiliser rich in nutrients to boost humus formation and plant growth in arid and degraded soils.
+- How it works: An algae–fungi consortium grows inside a capsule whose outflow drips into the root zone.
+- Images: https://www.jamesdysonaward.org/Document/694ed1df-5c14-411b-b2a0-01802f27e27d/img20210324161938easy-resizecom.jpg https://www.jamesdysonaward.org/Document/a3672ee2-7057-469b-8291-13a2e627de10/schemat-i-opis10241.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2021/project/nlc-the-new-life-capsule/
+
+#### The Algae Grower — Maurizio Vrenna (2021)
+- Type: Product & platform · Organisms: Algae
+- Idea: Make microalgae a fresh home-grown food.
+- What it is: A home photobioreactor for growing and harvesting fresh spirulina, about 5 g a day, the recommended adult intake.
+- How it works: An illuminated culture vessel with a harvesting filter lets users collect biomass daily.
+- Images: https://web.archive.org/web/20211110011503im_/https://globalgradshow.com/wp-content/uploads/2021/11/2-600x403.jpg
+- Project page: https://web.archive.org/web/20211110011503/https://www.globalgradshow.com/project/the-algae-grower/
+
 #### Zeefier seaweed dyes — Zeefier, Nienke Hoogvliet (2021)
 - Type: Product & platform · Organisms: Algae
 - Idea: Seaweed needs no farmland or fresh water, and it can colour textiles.
@@ -4345,6 +5650,32 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 - Video: https://www.youtube.com/watch?v=GJDCtMw7WI8
 - Images: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-klein_1633185309_1200x630.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-close-up-klein_1633185399_1440x720.jpg
 - Project page: https://site.ddw.nl/en/programme/6817/zeefier-natural-dyes-made-from-seaweed
+
+#### Algae Filters for Reusable Masks — Camila Wandemberg (2020)
+- Type: Research prototype · Organisms: Algae, Human body
+- Idea: In a crisis, a biomaterial recipe people can make at home is itself a design.
+- What it is: In response to shortages of protective equipment in Ecuador, the designer developed a low-cost method for making effective home-made Covid masks with an algae-based filter.
+- How it works: An algae-derived filter layer is cast and inserted into a reusable fabric mask.
+- Video: https://www.youtube.com/watch?v=YYlKUX1nloI
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594838094196-DWN0PQAOKBEEY80D77P7/Copy+of+FILTER+ON+WOMAN+WITH+AVERAGE+FACEMASK.JPG
+- Project page: https://www.biodesignchallenge.org/cca-design
+
+#### Coral — Hyunseok An (2020)
+- Type: Product & platform · Organisms: Algae
+- Idea: Make microalgae a domestic crop you can see growing on the wall.
+- What it is: A modular, wall-mounted photobioreactor kit for growing edible microalgae at home as easily as potted herbs; its changing greens make cultivation visible.
+- How it works: Transparent modules hold spirulina-type cultures lit by daylight; users harvest biomass as it thickens.
+- Video: https://www.youtube.com/watch?v=ysVNFNH8DXQ
+- Project page: http://web.archive.org/web/2021/https://discoverlexus.com/experiences/lexus-design-award-2020/coral
+
+#### Malgae — Tecnológico de Monterrey Biodesign Challenge team (2020)
+- Type: Product & platform · Organisms: Algae, Plants
+- Idea: A coastal nuisance becomes a biodegradable container that feeds the plant.
+- What it is: Planters made from sargassum, an invasive seaweed washing up on Caribbean beaches, that can be put straight into the soil where they act as fertiliser; sold as learning kits.
+- How it works: Dried sargassum is processed into a mouldable material and pressed into planter forms.
+- Video: https://www.youtube.com/watch?v=fbLwNWgHDIk
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596238223209-C94JP54VRVRBQSCADCC1/1.jpg
+- Project page: https://www.biodesignchallenge.org/tecnologico-de-monterrey
 
 #### After Ancient Sunlight — Charlotte McCurdy (2019)
 - Type: Speculative design · Organisms: Algae
@@ -4362,6 +5693,15 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 - Video: https://www.youtube.com/watch?v=85T_T9Ot-E0
 - Images: https://static1.squarespace.com/static/65662abc8bc75834d74f34c2/t/673cd312b414ac2a24a82a3b/1732039460395/P%2BC-Living+Ink-316.jpg?format=1500w
 - Project page: https://www.livingink.co/
+
+#### Indus — Shneel Malik, Marcos Cruz (2019)
+- Type: Research prototype · Organisms: Algae
+- Idea: A decorative craft surface can be a living water-treatment system.
+- What it is: A wall of modular ceramic tiles with leaf-vein channels filled with microalgae in a seaweed-based hydrogel; as wastewater flows over, the algae absorb heavy metals so artisan communities can reuse water.
+- How it works: Microalgae immobilised in alginate hydrogel sit in vein channels designed for flow and contact time.
+- Video: https://www.youtube.com/watch?v=cKwEjWvOqz8
+- Images: https://designmuseum.org/image/470ef110-a780-43c4-a3f8-6624e6bfc0b7?width=1600 https://designmuseum.org/image/1224fa00-b56a-471b-94b9-dae818a770f1?width=1600
+- Project page: https://designmuseum.org/exhibitions/beazley-designs-of-the-year/product/indus
 
 #### MarinaTex — Lucy Hughes (2019)
 - Type: Research prototype · Organisms: Algae, Animals
@@ -4403,6 +5743,15 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 - How it works: Microalgae (spirulina and chlorella, likely) circulate through a coiled tube photobioreactor fixed to a timber dome, fed by sunlight and CO2.
 - Video: https://www.youtube.com/watch?v=xFt4Mjna2dk
 - Project page: https://space10.com/projects/algae-dome/
+
+#### Agar Plasticity — AMAM (2016)
+- Type: Research prototype · Organisms: Algae
+- Idea: A food ingredient from seaweed can protect goods and then return to soil or sea.
+- What it is: Agar, a gelatinous substance from red seaweed, was dried and foamed into sheets and shock-absorbing forms as a biodegradable replacement for plastic packaging; a perfume bottle was shipped from Tokyo to Milan in an agar box.
+- How it works: Agar gel is freeze-dried or foamed and moulded; the material biodegrades and can even be used as a soil conditioner.
+- Video: https://www.youtube.com/watch?v=QJHUsmCFbPU
+- Images: https://static.dezeen.com/uploads/2016/02/agar-plasticity_amam_dezeen.jpg
+- Project page: https://www.dezeen.com/2016/04/19/eco-friendly-packaging-concept-agar-plasticity-seaweed-wins-lexus-design-award-milan-deisgn-week/
 
 #### Living Things — Living Things (Jacob Douenias & Ethan Frier) (2015)
 - Type: Speculative design · Organisms: Algae
@@ -4507,6 +5856,40 @@ Algae and photosynthetic organisms in products, facades and energy systems.
 
 Guiding roots, trees and plants to grow into furniture, textiles and structures.
 
+#### BagasSeries — University of Pennsylvania Biodesign Challenge team (2025)
+- Type: Product & platform · Organisms: Plants
+- Idea: Hyperlocal organic waste can supply the objects a community needs on site.
+- What it is: A catalogue of biocomposite products made from the sugarcane bagasse thrown away daily by juice stands at Philadelphia's FDR Park Southeast Asian Market, developed with vendors and park users.
+- How it works: Bagasse fibres are combined with non-toxic binders and pressed with low-energy methods into signs and useful objects.
+- Video: https://www.youtube.com/watch?v=KQRt5ttcNS8
+- Project page: https://www.biodesignchallenge.org/university-of-pennsylvania-2025
+
+#### Grow Your Own Home: hemp corrugated panels — Margent Farm (2025)
+- Type: Product & platform · Organisms: Plants
+- Idea: Grow the roof on the same land the building stands on.
+- What it is: Hemp grown on the farm is combined with a plant-derived bio-resin to make corrugated roofing and cladding panels that replace fibre-cement and plastic sheets.
+- How it works: Hemp fibre mats are impregnated with a bio-resin and pressed in corrugated moulds.
+- Video: https://www.youtube.com/watch?v=c2RJ1asZGWo
+- Images: https://static.dezeen.com/uploads/2025/07/Grow-your-own-home-Hero-Image-Material-Longlist_dezeen_2364_col_0.jpg
+- Project page: https://www.margentfarm.com/
+
+#### BIOmatrix: Weaving Sustainability – Reflejos Marinos — EASD Castelló Biodesign Challenge team (2024)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: A beach 'waste' made by a seagrass meadow can become a local craft material.
+- What it is: Products and materials made from 'Neptune balls', fibre balls formed by the Mediterranean seagrass Posidonia oceanica that wash up on beaches.
+- How it works: Beach-cast Posidonia fibres are cleaned, felted and bound into sheets and objects.
+- Video: https://www.youtube.com/watch?v=u0fWnQlkJqs
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648310269-NDYUXE887R0M8SL6OUFJ/01.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648311676-HTB48H4WQV1YDOB801WN/18.jpg
+- Project page: https://www.biodesignchallenge.org/easd-castello-2024
+
+#### Shellf Life — RISD Terra Carta teams (2024)
+- Type: Product & platform · Organisms: Animals
+- Idea: Seafood waste is a biogenic stone.
+- What it is: Discarded mollusc shells from the seafood industry are turned into a biomaterial for products and architectural surfaces.
+- How it works: Calcium-carbonate shells are cleaned, ground and bound into castable composites.
+- Images: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/576x720/ddbe68f3e1/shellf-life.png
+- Project page: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+
 #### Biofabrication with cuia fruits — Andrea Bandoni (2023)
 - Type: Research prototype · Organisms: Plants
 - Idea: Biofabrication can start from ancestral craft: the tree grows the object, the designer guides it.
@@ -4523,6 +5906,76 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - Paper: https://doi.org/10.21606/iasdr.2023.202 (IASDR 2023)
 - Project page: https://dl.designresearchsociety.org/iasdr/iasdr2023/fullpapers/44
 
+#### Agro Biomaterials — Berta Daina (2022)
+- Type: Product & platform · Organisms: Plants
+- Idea: Material production can be a domestic craft like cooking.
+- What it is: A kit of ingredients and instructions for making bioplastics at home from organic food waste.
+- How it works: Recipes combine food-waste powders with binders such as starch or gelatin, cast and dried into sheets.
+- Video: https://www.youtube.com/watch?v=xAAT7Ot2Afc
+- Images: https://www.jamesdysonaward.org/Document/ee45ff47-ba4d-452f-bf3c-ea585c5cec0e/1agro.jpg https://www.jamesdysonaward.org/Document/ba8c30b3-b07f-46e7-a3e8-79acadd348de/2agro.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2022/project/agro-biomaterials/
+
+#### Home Grown — Home Grown (RCA team) (2022)
+- Type: Research prototype · Organisms: Plants, Fungi
+- Idea: Electronics can be clad in grown, local materials.
+- What it is: A touchpad whose casing and components are made from bio-based, locally sourced materials and crafts, as an alternative to plastic electronics.
+- How it works: Bio-based casings are made with local crafts around standard electronic internals.
+- Video: https://vimeo.com/666548887
+- Images: https://rca-media2.rca.ac.uk/images/Home_Grown_2.2e16d0ba.fill-1200x1200.jpg
+- Project page: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/home-grown
+
+#### MUS(T)GO — Universidad de los Andes Biodesign Challenge team (2022)
+- Type: Research prototype · Organisms: Plants, Bacteria & microbes
+- Idea: A humble plant's structure can do the work of an industrial filter.
+- What it is: A moss-based water filter that removes harmful microorganisms and retains microplastics from water.
+- How it works: Moss tissue traps particles and microplastics in its dense leaflets while its surface chemistry inhibits microbes (as tested by the team).
+- Video: https://www.youtube.com/watch?v=m14cJUp08dI
+- Project page: https://www.biodesignchallenge.org/universidad-de-los-andes-2022
+
+#### Citra, The Bio Leather — Menlin Ng (2021)
+- Type: Research prototype · Organisms: Plants
+- Idea: Fruit peel can become a premium packaging material.
+- What it is: A biodegradable leather-like material made from citrus-peel waste, applied as packaging for a skincare kit.
+- How it works: Citrus peel is ground and bound with natural binders, cast into sheets and dried.
+- Video: https://www.youtube.com/watch?v=zkWPwevwHe4
+- Images: https://www.jamesdysonaward.org/Document/3645e1aa-c613-454c-b3af-88a6cfc2b9b7/1-01.png https://www.jamesdysonaward.org/Document/456969f4-436b-44ea-a1c1-85536069a51b/7-02.png
+- Project page: https://www.jamesdysonaward.org/en-GB/2021/project/citra-the-bio-leather/
+
+#### AuREUS — Carvey Ehren Maigue (2020)
+- Type: Research prototype · Organisms: Plants, DNA & molecules
+- Idea: Crops lost to disasters can become windows that generate electricity.
+- What it is: A translucent panel material with luminescent particles extracted from upcycled fruit and vegetable crop waste, which absorb stray UV light and re-emit visible light onto solar cells at the panel edges.
+- How it works: Bio-luminescent compounds from crushed crops are suspended in resin; edge-mounted PV cells collect the re-emitted light.
+- Video: https://www.youtube.com/watch?v=41BsHWhU8SM
+- Images: https://www.jamesdysonaward.org/Document/423769c8-8f23-41d9-ad68-67078e17747f/img20200715121623.jpg https://www.jamesdysonaward.org/Document/06e5abae-0a5c-4a64-b922-715ce2f1370e/info-graph.png
+- Project page: https://www.jamesdysonaward.org/en-GB/2020/project/aureus-aurora-renewable-energy-uv-sequestration/
+
+#### Remix el Barrio, Food Waste Biomaterial Makers — Fab Lab Barcelona (2020)
+- Type: Research prototype · Organisms: Plants, Bacteria & microbes
+- Idea: A neighbourhood's food waste can feed a local craft economy.
+- What it is: A pilot programme in Barcelona's Poblenou district in which designers learned to turn neighbourhood food scraps into biomaterials, using artisanal techniques and digital fabrication.
+- How it works: Peer-learning sessions at Fab Lab Barcelona developed recipes (bioplastics, composites, bacterial cellulose) from local food waste and shared them openly.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/Remix-6-1024x512.jpg https://ars.electronica.art/starts-prize/files/2021/06/Remix-3-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/remix-el-barrio/
+
+#### HyO-Cup (The Gourd Project) — Crème (Jun Aizaki) (2019)
+- Type: Product & platform · Organisms: Plants
+- Idea: Let the plant do the manufacturing.
+- What it is: Drinking cups grown by letting bottle-gourd fruits swell inside 3D-printed moulds on the vine and then drying them, so the plant manufactures compostable cups.
+- How it works: Young Lagenaria siceraria fruits are enclosed in moulds; mature gourds are harvested, dried and cut.
+- Video: https://www.youtube.com/watch?v=oqsW0buX088
+- Images: https://static.dezeen.com/uploads/2019/09/dezeen-awards-the-gourd-project-sq.jpg
+- Project page: https://www.cremedesign.com/
+
+#### KADO (Angle) — Kazuhito Takadoi (2019)
+- Type: Artwork · Organisms: Plants
+- Idea: Craft can begin by growing the material yourself.
+- What it is: A woven sculpture made entirely of grasses, branches and reeds that the artist grows in his garden, stitched with thread; it keeps changing shape and colour as the plants dry.
+- How it works: Garden-grown plant stems are harvested, dried and stitched into an angular woven form.
+- Video: https://www.youtube.com/watch?v=9zlBZ3J8yy0
+- Images: https://craftprize.loewe.com/on/demandware.static/-/Sites-LOE_CP-Library/default/dw77e39eab/CRAFT%20PRIZE%202019%20%20CONTENT/CP_ARTWORKS_WEB_25.jpg
+- Project page: https://craftprize.loewe.com/en/craftprize2019#winner2019-archive
+
 #### Living bridges using aerial roots of ficus elastica – an interdisciplinary perspective — Ferdinand Ludwig, Khasi and Jaintia communities of Meghalaya (2019)
 - Type: Paper · Organisms: Plants
 - Idea: Vernacular living structures are data for designing with growth.
@@ -4531,6 +5984,14 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - Paper: https://www.nature.com/articles/s41598-019-48652-w (Scientific Reports)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-48652-w/MediaObjects/41598_2019_48652_Fig1_HTML.jpg
 - Project page: https://www.arc.ed.tum.de/en/gtla/research/living-root-bridges/
+
+#### Care for Milk — Ekaterina Semenova (2018)
+- Type: Research prototype · Organisms: Animals, DNA & molecules
+- Idea: A kitchen waste can waterproof a vessel.
+- What it is: Leftover milk collected from neighbourhood households becomes a casein bioplastic glaze for ceramics, forming a waterproof layer whose colour varies with the milk.
+- How it works: Milk penetrates the pores of fired clay and is heat-cured into a casein film.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/Care-for-Milk_high-resolution-680x1024.jpg
+- Project page: https://new-material-award.nl/en/care-for-milk/
 
 #### Printable Hydroponics — Yuichiro Takeuchi (2018)
 - Type: Research prototype · Organisms: Plants
@@ -4550,6 +6011,14 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - Images: https://www.designboom.com/wp-content/uploads/2022/10/zena-holloway-rootfull-designboom-1800.jpg
 - Project page: https://www.designboom.com/design/zena-holloway-rootfull-collection-london-design-festival-10-04-2022/
 
+#### FluidSolids — FluidSolids (2017)
+- Type: Product & platform · Organisms: Plants
+- Idea: A bio-based material only scales if it fits existing factories.
+- What it is: A biocomposite made from by-products of renewable raw materials that can replace plastic, metal or wood and be processed with standard mass-production techniques.
+- How it works: Organic residues that do not compete with food supply are bound into a composite and moulded or extruded industrially.
+- Images: https://ars.electronica.art/starts-prize/files/2018/06/FluidSolids.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/fluidsolids/
+
 #### Totomoxtle — Fernando Laposse (2017)
 - Type: Product & platform · Organisms: Plants
 - Idea: A material project can keep a crop's genetic diversity and a community's livelihood alive.
@@ -4557,6 +6026,22 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - How it works: Heirloom corn is replanted with local farmers; the husks are flattened, ironed onto a textile or paper backing and hand-cut into marquetry.
 - Video: https://www.youtube.com/watch?v=0r08iXfJ-CM
 - Project page: https://www.fernandolaposse.com/
+
+#### Bio-Vide — Takuma Yamazaki (2016)
+- Type: Research prototype · Organisms: Plants
+- Idea: What a tree sheds every autumn can be a material harvest.
+- What it is: Products made from a material formed by pressing and binding layers of fallen leaves, treating seasonal leaf litter as a renewable, biodegradable resource.
+- How it works: Leaves are layered with a binder and pressed into sheets and forms.
+- Images: https://static.dezeen.com/uploads/2016/02/lexus-design-awards-2016-primary-images_dezeen_936_5.jpg
+- Project page: https://www.dezeen.com/2016/02/23/lexus-design-award-2016-finalists-four-prototypes-milan-design-week-exhibition/
+
+#### Flax Chair — Christien Meindertsma (2016)
+- Type: Product & platform · Organisms: Plants
+- Idea: Design from the whole flax plant, using as much of it as possible.
+- What it is: A chair made from a biodegradable composite of flax fibre and PLA: needle-punched flax-PLA felt is cut and heat-pressed so the PLA melts and binds the fibres into shell and legs.
+- How it works: Developed with Label/Breed and Enkev; rectangles of felt are pressed into folded forms without waste.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/flax-chair_0-750x442.jpg https://new-material-award.nl/wp-content/uploads/2021/11/1-766-LabelBreed41185-3-724x1024.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/flax-chair/
 
 #### Forest Wool — Tamara Orjola (2016)
 - Type: Research prototype · Organisms: Plants
@@ -4576,6 +6061,22 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - Images: https://cmsfiles.nieuweinstituut.nl/diana_scherer_interwoven01_85de138ea3.jpg
 - Project page: https://nieuweinstituut.nl/en/projects/new-material-award/diana-scherer
 
+#### Coleoptera — Aagje Hoekstra (2014)
+- Type: Research prototype · Organisms: Insects
+- Idea: Insect farming waste is a source of plastic-like material.
+- What it is: A bioplastic made from the wing cases of mealworm beetles discarded by insect farms, converted into chitin and chitosan and pressed into sheets; over 2,500 beetles make one small sheet.
+- How it works: Elytra are demineralised and deacetylated to chitosan, cast and pressed.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/Coleoptera8-1024x768.jpg https://new-material-award.nl/wp-content/uploads/2021/11/2013-10-13-1024x765.jpg
+- Project page: https://new-material-award.nl/en/coleoptera/
+
+#### No-ink — Tjeerd Veenhoven (2014)
+- Type: Research prototype · Organisms: Plants
+- Idea: A flower industry's waste petals can be a colour and a material.
+- What it is: Discarded tulip heads from North Holland bulb fields are dried and their petals laminated with compostable PLA into a sheet material; pigments are also extracted from the petals.
+- How it works: Dried petals are laminated in PLA film; spent petals are processed for dye extraction.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/No-ink-1024x768.jpg https://new-material-award.nl/wp-content/uploads/2021/11/colourscaleWEB-589x1024.jpg
+- Project page: https://new-material-award.nl/en/no-ink/
+
 #### Botanical Factory — Carole Collet (2013)
 - Type: Research prototype · Organisms: Plants
 - Idea: Produce without altering genes: steer plant growth and follow the seasons instead.
@@ -4583,6 +6084,14 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - How it works: Horticultural techniques such as growing gourds inside moulds shape the plant into a housing, harvested by season and fitted with electronics.
 - Images: http://thisisalive.com/wp-content/uploads/2013/04/BotanicalFabrication_Electronic-Products.jpg
 - Project page: http://thisisalive.com/botanical-factory-design-and-botany-workshop/
+
+#### Agricola — Gionata Gatto (2012)
+- Type: Product & platform · Organisms: Plants
+- Idea: Crop waste burned for energy can instead become light fittings.
+- What it is: Lamps made from fibrous agricultural by-products of fruit, vegetables and cereals, normally burned for biofuel, bound with natural agents such as latex, dammar gum and gamboge.
+- How it works: Fibres are moulded with natural resins and gums into translucent shades.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/sfondo-Agricola-1-1024x705.jpg
+- Project page: https://new-material-award.nl/en/agricola/
 
 #### Biolace — Carole Collet (2012)
 - Type: Speculative design · Organisms: Plants, DNA & molecules
@@ -4610,6 +6119,22 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - Video: https://www.youtube.com/watch?v=QijxrrnsZoA
 - Images: https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Plane_tree_cube.jpg/1280px-Plane_tree_cube.jpg https://images.adsttc.com/media/images/583b/672b/e58e/cebc/9300/010e/large_jpg/after_completion.jpg?1480288036
 - Project page: https://www.archdaily.com/800294/platanenkubus-nagold-ludwichoenle
+
+#### Botanica — Formafantasma (2011)
+- Type: Artwork · Organisms: Plants, Insects, Animals
+- Idea: Look back to natural polymers to imagine design after oil.
+- What it is: Vessels and objects imagining design as if the oil age never happened, made from pre-Bakelite natural polymers: plant gums, resins, rubber, shellac and animal blood.
+- How it works: Historical recipes for natural plastics were re-created and cast into vessels.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/botanica_01-1024x682.jpg https://new-material-award.nl/wp-content/uploads/2021/11/botanica_03-1024x598.jpg
+- Project page: https://new-material-award.nl/en/botanica/
+
+#### PalmLeather — Tjeerd Veenhoven (2011)
+- Type: Research prototype · Organisms: Plants
+- Idea: Restore a dead leaf's living properties instead of adding plastic.
+- What it is: Dry, brittle leaf sheaths of the areca palm are soaked in a biological softening solution that restores the toughness and flexibility of the living leaf, giving a leather-like sheet.
+- How it works: A plant-based softener penetrates the cell walls, then sheets are embossed and cut into slippers.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/13.-TjeerdVeenhoven-1800x1197-1-1024x681.jpg
+- Project page: https://new-material-award.nl/en/palmleather/
 
 #### Vessel #1 (The Honeycomb Vase) — Tomáš Gabzdil Libertíny (2011)
 - Type: Artwork · Organisms: Insects
@@ -4645,6 +6170,15 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 - How it works: Young trees are pruned, bent and grafted over moulds for six to nine years, then cut and dried for about a year.
 - Video: https://www.youtube.com/watch?v=89jZhzU8_rk
 - Project page: https://fullgrown.co.uk/
+
+#### Bios Urn — Bios Urn (Gerard Moliné & Martín Ruiz de Azúa) (2005)
+- Type: Product & platform · Organisms: Plants
+- Idea: Turn a burial into the start of a tree's life.
+- What it is: A biodegradable urn of compacted coconut shell, peat and cellulose that holds cremated ashes together with a tree seed; planted in the ground, it decomposes and the tree grows.
+- How it works: The upper capsule holds seed and growth medium; the lower chamber holds ashes, separated until roots reach them.
+- Video: https://www.youtube.com/watch?v=o-xw-DSUMRg
+- Images: https://urnabios.com/wp-content/uploads/2021/08/New-Bios-Urn-People%C2%AE-5.png
+- Project page: https://urnabios.com/
 
 #### Pooktre tree shaping — Pooktre (1995)
 - Type: Artwork · Organisms: Plants
@@ -4685,6 +6219,14 @@ Guiding roots, trees and plants to grow into furniture, textiles and structures.
 
 Garments and textiles dyed, grown or animated by living organisms.
 
+#### Kerra — Stanford University Biodesign Challenge team (2025)
+- Type: Research prototype · Organisms: Animals, DNA & molecules
+- Idea: Reconnect material innovation with farms, animals and land.
+- What it is: A biodegradable, high-performance textile made from keratin extracted from the large share of wool that farms cannot sell, developed with Bay Area farmers.
+- How it works: Green-chemistry processing dissolves wool keratin and re-forms it into elastic fibres and films.
+- Video: https://www.youtube.com/watch?v=o8TdxBGzE2E
+- Project page: https://www.biodesignchallenge.org/stanford-university-2025
+
 #### LivingLoom: Investigating Human-Plant Symbiosis Through Integrating Living Plants Into (E-)Textiles — Jingwen Zhu (2025)
 - Type: Research prototype · Organisms: Plants
 - Idea: Weave living plants into cloth instead of turning plants into fibre.
@@ -4694,6 +6236,15 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Video: https://www.youtube.com/watch?v=XggQrs19dls
 - Project page: https://doi.org/10.1145/3706598.3713156
 
+#### Risou (理藻) — Keio University Graduate School of Media Design Biodesign Challenge team (2025)
+- Type: Speculative design · Organisms: Algae
+- Idea: Clothes could be a visible record of how we treat the sea.
+- What it is: Drawing on Japan's cultural bond with seaweed, Risou proposes symbiotic seaweed-based textiles that change with the wearer and show their environmental impact — vibrant when ecological duties are met.
+- How it works: Seaweed-derived threads are spun, 3D-modelled and woven into speculative garments.
+- Video: https://www.youtube.com/watch?v=GwqCnpRZukw
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485030500-NOK4KAM1588WV69TSWRU/weave.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485025506-70G3HCO80FQ7KD76VK19/experiment.jpg
+- Project page: https://www.biodesignchallenge.org/keio-university-2025
+
 #### Fermenting Knits — Carolina De Lara (2024)
 - Type: Research prototype · Organisms: Bacteria & microbes
 - Idea: Bacterial cellulose can be treated as a fibre to rebuild with knitting, not only as a grown sheet.
@@ -4701,6 +6252,31 @@ Garments and textiles dyed, grown or animated by living organisms.
 - How it works: Bacterial cellulose pellicles are blended into a pulp, re-sheeted onto knit structures of different stitch and yarn types, and dried under controlled moisture.
 - Paper: https://doi.org/10.1017/btd.2024.3 (Research Directions: Biotechnology Design 2024)
 - Images: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig6.png?pub-status=live https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig1.png?pub-status=live
+
+#### GROWN BLUR — Boqun Huang (2024)
+- Type: Research prototype · Organisms: Algae
+- Idea: Pair a traditional textile technique with a grown dye.
+- What it is: Ikat textiles dyed with cultivated microalgae pigments instead of synthetic dyes, adapting ikat's resist-dye-before-weaving logic to algae dyeing.
+- How it works: Warp threads are resist-tied and dipped in microalgae pigment baths before weaving.
+- Images: https://content.gp-award.com/assets/media/award24/0-grown-blur_blogLarge.jpg https://content.gp-award.com/assets/media/award24/2-grown-blur_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/grown-blur
+
+#### MIRUM — Natural Fiber Welding (2024)
+- Type: Product & platform · Organisms: Plants
+- Idea: A bio-based material should be bio-based all the way through, including the binder.
+- What it is: A plastic-free leather alternative bound with natural rubber and plant oils instead of polyurethane, from a company whose welding process also fuses natural fibres such as cotton.
+- How it works: Natural rubber, plant oils, cork and fillers are compounded and cured on a natural-fibre backing.
+- Video: https://www.youtube.com/watch?v=oSTdvj_J8NY
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/NFW-thread.jpg https://earthshotprize.org/wp-content/uploads/2024/09/NFW-trainers-soles.jpg
+- Project page: https://www.nfw.earth/
+
+#### Printing Herbarium — Paula Andrea Molina (2024)
+- Type: Artwork · Organisms: Plants
+- Idea: Let a plant be the printing medium.
+- What it is: Living moss is applied to textile surfaces to create textures instead of water-intensive screen printing, co-creating a collection with the plants.
+- How it works: Moss fragments in a growth medium are applied through stencils and cultivated on fabric.
+- Images: https://content.gp-award.com/assets/media/award24/0-printing-herbarium_blogLarge.jpg https://content.gp-award.com/assets/media/award24/2-printing-herbarium_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/printing-herbarium
 
 #### Self-pigmenting textiles grown from cellulose-producing bacteria with engineered tyrosinase expression — Tom Ellis, Jen Keane (2024)
 - Type: Paper · Organisms: Bacteria & microbes
@@ -4719,6 +6295,15 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Paper: https://doi.org/10.1145/3623509.3635317 (TEI 2024)
 - Project page: https://doi.org/10.1145/3623509.3635317
 
+#### Cellsense — Cellsense team (Georgia Tech) (2023)
+- Type: Research prototype · Organisms: Algae, Plants
+- Idea: Even decoration can be biodegradable.
+- What it is: Garment embellishments such as sequins made from algae and regenerated cellulose, including bioluminescent versions, to replace microplastic sequins and glitter.
+- How it works: Algae and cellulose films are cast, cut and coated to produce sparkle and glow.
+- Video: https://www.youtube.com/watch?v=bynUOWm7rlg
+- Images: https://www.jamesdysonaward.org/Document/56b37502-f8b6-4372-9705-d03d2f459004/jd-final-option.jpg https://www.jamesdysonaward.org/Document/cee1e933-66a8-4802-b565-a320be9e5499/jd-option-4.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2023/project/cellsense-1/
+
 #### Fungi Fabrics and Living Colors: Toward Ecocentric Biodesign? — Lianne Toussaint (2023)
 - Type: Book & essay · Organisms: Fungi, Bacteria & microbes
 - Idea: Biodesign is not automatically ecological; it has to decenter the human.
@@ -4734,6 +6319,47 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Paper: https://doi.org/10.21606/ti-2023/109 (Textile Intersections 2023)
 - Video: https://www.youtube.com/watch?v=3lKQnyqlS0c
 - Project page: https://dl.designresearchsociety.org/textileintersections/textileintersections2023/researchpapers/9
+
+#### PhycoLabs seaweed fibres — PhycoLabs (2023)
+- Type: Research prototype · Organisms: Algae
+- Idea: The ocean can supply fibre without competing with food crops.
+- What it is: Textile fibres developed from marine algae to replace fossil-based and land-intensive fibres.
+- How it works: Algal polysaccharides are extracted and spun into fibres (process details not public).
+- Images: https://hmfoundation.com/wp-content/uploads/2023/06/Medium_Screen-PhycoLabs.jpeg
+- Project page: https://www.phycolabs.com/
+
+#### Yearning for Colour — Julia Moser (2023)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Let bacteria co-design the pattern as well as the colour.
+- What it is: Discarded hospital fabrics are dyed with pigments grown by bacteria sourced from nature, using little water and no harmful chemicals; the bacteria's growth patterns shape the garments.
+- How it works: Fabrics are inoculated with pigment-producing bacteria and incubated so colour spreads as the colonies grow.
+- Images: https://content.gp-award.com/assets/media/award23/0-yearning-for-colour_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/yearning-for-colour
+
+#### BioPuff — Ponda (2022)
+- Type: Product & platform · Organisms: Plants, Ecosystems
+- Idea: Farm a wetland plant so that growing fashion fibre also restores peat.
+- What it is: A fibre filler for insulated clothing made from Typha (bulrush) grown on rewetted peatlands, replacing down and polyester fill while restoring carbon-sinking wetlands.
+- How it works: Typha seed-head fibres are harvested and processed into lofty insulation batts.
+- Video: https://www.youtube.com/watch?v=n2XnsdXfc7o
+- Images: https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-saltyco.jpeg https://hmfoundation.com/wp-content/uploads/2022/03/Medium_Screen-BioPuff%C2%AE-5-1024x553.jpeg
+- Project page: https://ponda.bio/
+
+#### Human Material Loop — Zsofia Kollar (2022)
+- Type: Product & platform · Organisms: Human body
+- Idea: The most abundant fibre may be growing on our own heads.
+- What it is: Discarded human hair — a keratin fibre chemically similar to wool — is turned into yarns, textiles and garments; about 72 million kg of hair is wasted in Europe each year.
+- How it works: Hair collected from salons is cleaned, carded and spun, then knitted or woven.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1HUMAN-MATERIAL-LOOP-PHOTO-MEDINA-RESIC-2-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2HUMAN-MATERIAL-LOOP-PHOTO-KWADWO-AMFO-5-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/human-material-loop/
+
+#### Mosquitoes and Lemons — Zahra Jajarmikhayat (2022)
+- Type: Research prototype · Organisms: Plants, Insects
+- Idea: The repellent can be part of the material rather than a chemical coating.
+- What it is: Mosquito nets made from lemon rinds, replacing nets treated with chemical insecticides.
+- How it works: Lemon rind, rich in naturally repellent citrus oils, is processed into a flexible biomaterial mesh.
+- Video: https://www.youtube.com/watch?v=BQWK-F-gFqc
+- Project page: https://www.biodesignchallenge.org/cca-design-2022
 
 #### Squitex — Tandem Repeat (2021)
 - Type: Product & platform · Organisms: DNA & molecules, Bacteria & microbes
@@ -4779,6 +6405,22 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Images: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/cover_1602840410_1200x630.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/picture_1602840417_1200x600.jpg
 - Project page: https://site.ddw.nl/en/programme/5147/bio-plexis-by-nikoletta-karastathi
 
+#### Bacterial Dye – the Pigment of the Future — Monica Louise Hartvigsen (2020)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Bacterial dyeing can be scaled for industry.
+- What it is: Textiles dyed directly by pigment-producing bacteria, developed with DTU laboratories and Gabriel Textile, reaching bright colours with little water and no toxic chemicals.
+- How it works: Fabric is inoculated with pigment bacteria and incubated; process parameters are tuned for scale.
+- Video: https://www.youtube.com/watch?v=Hgx4UC32mqE
+- Project page: https://web.archive.org/web/20210416022133/https://www.globalgradshow.com/project/bacterial-dye-the-pigment-of-the-future/
+
+#### BioBlack — Kent State University Biodesign Challenge team (2020)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: The darkest, most polluting dye colour can be grown by a microbe.
+- What it is: A natural black textile dye made by the bacterium Janthinobacterium to replace synthetic black dyes, with pop-up shops where customers see garments being dyed.
+- How it works: Janthinobacterium produces the dark pigment violacein-related compounds on textiles incubated with the culture.
+- Video: https://www.youtube.com/watch?v=duRbE2ts_-o
+- Project page: https://www.bioblack.co/
+
 #### Fur_tilize — Dasha Tsapenko (2020)
 - Type: Speculative design · Organisms: Fungi, Plants
 - Idea: A garment can gain value over time by hosting other species.
@@ -4787,6 +6429,15 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Video: https://vimeo.com/490808883
 - Images: https://www.badaward.nl/imager/assets/site/3414/MU-Evolutionaries-Hanneke-Wetzer-118_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/3415/MU-Evolutionaries-Hanneke-Wetzer-114_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/dasha-tsapenko-with-han-w%C3%B6sten
+
+#### Galy lab-grown cotton — Galy (2020)
+- Type: Product & platform · Organisms: Plants, Cells & tissue
+- Idea: A plant product can be grown without growing the whole plant.
+- What it is: Cotton fibre grown from cotton plant cells in bioreactors instead of fields, aiming to cut water, land use and emissions.
+- How it works: Cotton cells are cultured in bioreactors and induced to elongate into cellulose fibres.
+- Video: https://www.youtube.com/watch?v=TJQKsL-ObJ8
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Large-GALY-lab-1024x683.jpg https://hmfoundation.com/wp-content/uploads/2021/06/cotton-1024x683.jpg
+- Project page: https://www.galy.co/
 
 #### Werewool DNA-designed fibres — Werewool (2020)
 - Type: Product & platform · Organisms: DNA & molecules, Bacteria & microbes
@@ -4814,6 +6465,14 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Images: https://s3files.core77.com/blog/images/876970_66863_83837_Co6IzY2hw.jpg
 - Project page: https://designawards.core77.com/personal-accessory/83837/Biogarmentry-Living-and-Photosynthetic-Textile
 
+#### Flora Fur — Fashion Institute of Technology Biodesign Challenge team (2019)
+- Type: Research prototype · Organisms: Plants, Insects
+- Idea: Choose a fibre crop that also feeds a threatened pollinator.
+- What it is: A biodegradable, animal-free fur made from the hollow seed fibres of milkweed bound with linen; milkweed and flax grown together also create habitat for monarch butterflies.
+- How it works: Milkweed seed floss is insulating and water-repellent; it is layered onto a linen base to make a fur-like pile.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582601681-1ZN4ITZ13YCM2YII6KJ6/IMG_5539.jpeg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582469961-LKESDG5HCACT14LV4KD8/flora+cycle.png
+- Project page: https://www.florafur.com/
+
 #### Photosynthetic Coating — Post Carbon Lab (2019)
 - Type: Research prototype · Organisms: Algae, Bacteria & microbes
 - Idea: Clothing that has to be kept alive, so care becomes visible as colour.
@@ -4821,6 +6480,23 @@ Garments and textiles dyed, grown or animated by living organisms.
 - How it works: Textiles receive a coating carrying photosynthetic microorganisms in a protective matrix; the studio publishes care regimes of light exposure and misting instead of washing instructions.
 - Images: https://static.wixstatic.com/media/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png/v1/fill/w_2560,h_1396,al_c/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png
 - Project page: https://postcarbonlab.com/
+
+#### Plant and Algae T-Shirt — Vollebak (2019)
+- Type: Product & platform · Organisms: Algae, Plants
+- Idea: Design clothing whose end of life is compost.
+- What it is: A T-shirt made from wood-pulp cellulose fibres and printed with algae-based ink, designed so the whole garment biodegrades in soil or compost.
+- How it works: Eucalyptus/beech pulp fibres are knitted; algae grown in bioreactors are turned into ink for the print.
+- Video: https://www.youtube.com/watch?v=czEMS-rrAp4
+- Project page: https://www.vollebak.com
+
+#### Sustainable Sting — Green Nettle Textile (2019)
+- Type: Product & platform · Organisms: Plants
+- Idea: A wild, drought-tolerant plant can be a textile crop for smallholders.
+- What it is: The hardy, low-water Kenyan giant nettle is cultivated and its stalks processed into a linen-like fabric, with leftovers used for paper and dyes.
+- How it works: Stalks are retted and decorticated to extract bast fibres, then spun and woven.
+- Video: https://www.youtube.com/watch?v=zsUfKXHienc
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Large-Green-Nettle-Textiles-1024x683.jpg
+- Project page: https://greennettletextiles.com/
 
 #### THE NORTH FACE Moon Parka (Brewed Protein) — Spiber (2019)
 - Type: Product & platform · Organisms: Bacteria & microbes, DNA & molecules
@@ -4839,6 +6515,24 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Images: https://artlaboratory-berlin.org/wp-content/uploads/2021/04/SL_201914Jul_ArtLab__0028.jpg
 - Project page: https://artlaboratory-berlin.org/exhibitions/the-silkworm-project/
 
+#### Agraloop — Circular Systems (2018)
+- Type: Product & platform · Organisms: Plants
+- Idea: Harvest a second crop — fibre — from what farms currently burn.
+- What it is: A process that turns food-crop residues such as banana trunks, pineapple leaves, rice straw and oilseed hemp or flax stalks into natural textile fibres.
+- How it works: Residues are processed with a low-impact biorefinery into spinnable fibre.
+- Video: https://www.youtube.com/watch?v=e7JEqSzVWUg
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Circular-Systems-GCA-winners-2018-1024x768.jpg
+- Project page: https://circularsystems.com/
+
+#### Algaeing — Algaeing (2018)
+- Type: Product & platform · Organisms: Algae
+- Idea: Algae can colour and form fabric at once.
+- What it is: Algae biomass formulated into bio-based fibres and textile dyes, with fabrics that the team says release nutrients onto the skin.
+- How it works: Algae are grown in closed systems and processed into dye formulations and fibre additives.
+- Video: https://www.youtube.com/watch?v=HElJjYer2Bo
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Algaeing-GCA-Winners-2018-2.jpg
+- Project page: https://www.algaeing.com/
+
 #### Kaumera Kimono — Nienke Hoogvliet (2018)
 - Type: Artwork · Organisms: Bacteria & microbes
 - Idea: Wastewater treatment can supply both the finish and the colour of a garment meant to last generations.
@@ -4848,6 +6542,14 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Images: https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimonoExp.jpg https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimono3Exp-1024x682.jpg
 - Project page: https://www.nienkehoogvliet.nl/portfolio/kaumera-kimono/
 
+#### The New Age of Trichology — Sanne Visser (2018)
+- Type: Research prototype · Organisms: Human body
+- Idea: Hair waste is strong enough to hold a person.
+- What it is: Human hair collected from salons is spun into yarn and rope with traditional rope makers; Visser has made climbing ropes, bags and swings from it.
+- How it works: Hair is washed, carded and spun, then laid into rope on traditional rope walks.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/03_Sanne-Visser-The-New-age-of-Trichology-photography-credit-Tom-Mannion-683x1024.jpg
+- Project page: https://new-material-award.nl/en/the-new-age-of-trichology/
+
 #### This is Grown. — Jen Keane (2018)
 - Type: Research prototype · Organisms: Bacteria & microbes
 - Idea: Share the loom with bacteria, so the product is grown to shape with no offcuts.
@@ -4856,6 +6558,23 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Video: https://www.youtube.com/watch?v=j_xlKpcNjI8
 - Images: https://ars.electronica.art/starts-prize/files/2019/05/Thisisgrown_2000x1000_c_Vita_Larvo-1024x512.jpg https://media.materialdistrict.com/wp-content/uploads/2018/11/shoe-grown-microbial-weaving-materialdistrict-2.jpg
 - Project page: https://starts-prize.aec.at/en/this-is-grown/
+
+#### Woocoa — Universidad de los Andes Biodesign Challenge team (2018)
+- Type: Research prototype · Organisms: Fungi, Plants
+- Idea: Fungal enzymes can do the finishing work that harsh chemicals do in textile mills.
+- What it is: A biodegradable wool-like textile made from unused Colombian hemp and coconut fibres, softened and bleached with lignin-degrading compounds extracted from oyster mushrooms.
+- How it works: Enzymes from Pleurotus ostreatus break down lignin in the plant fibres, making them softer and lighter in colour.
+- Video: https://www.youtube.com/watch?v=dZJaLyFQ1yg
+- Project page: https://www.biodesignchallenge.org/universidad-de-los-andes-2018
+
+#### Mestic — Jalila Essaïdi (2017)
+- Type: Research prototype · Organisms: Animals, Plants
+- Idea: A dairy farm's pollutant can be a fibre feedstock pre-processed by the cow.
+- What it is: Cellulose is extracted from cow manure — already broken down by the cow's digestive enzymes — and processed into bio-based textiles and bioplastics.
+- How it works: Manure is separated, cellulose purified and dissolved, then spun or cast.
+- Video: https://www.youtube.com/watch?v=OuhMIMs1gJs
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-3-1024x682.jpg https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-4-683x1024.jpg
+- Project page: https://www.jalilaessaidi.com/
 
 #### Microsilk dress with Stella McCartney — Bolt Threads (2017)
 - Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
@@ -4873,6 +6592,32 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Paper: https://doi.org/10.1145/3145690.3145704 (SIGGRAPH Asia 2017 Posters)
 - Images: https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/2-Figure5-1.png https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/1-Figure1-1.png
 - Project page: https://doi.org/10.1145/3145690.3145704
+
+#### VEGEA grape leather — VEGEA (2017)
+- Type: Product & platform · Organisms: Plants
+- Idea: Wine's waste can dress the people who drink it.
+- What it is: A leather alternative made from grape marc — skins, stalks and seeds discarded in winemaking — processed into coated textiles without heavy metals or toxic solvents.
+- How it works: Grape-marc fibres and oils are processed into a bio-based coating on a textile backing.
+- Video: https://www.youtube.com/watch?v=Ww8m8Mm5GMY
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/VEGEA-GCA-Winner-2017-3.jpg
+- Project page: https://www.vegeacompany.com/
+
+#### Algae Fabrics — Tjeerd Veenhoven (2016)
+- Type: Research prototype · Organisms: Algae
+- Idea: Beach-cast seaweed can be a textile crop that needs no land.
+- What it is: Cellulose is extracted from the cell walls of seaweed that washes up in excess on coasts and spun into a textile yarn, without farmland or irrigation.
+- How it works: Seaweed cellulose fibres are aligned in a liquid bath and spun into yarn.
+- Video: https://www.youtube.com/watch?v=tePbmFIWxrY
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-2.jpg https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-4-1024x683.jpg
+- Project page: https://hmfoundation.com/gca/winner/algae-fabrics/
+
+#### Biomaterials & Music (silk violin) — Luca Alessandrini (2016)
+- Type: Research prototype · Organisms: Insects, Animals
+- Idea: Tune sound by choosing which animal's fibre to use.
+- What it is: A violin made from a composite of silkworm silk and spider silk with a binder, whose fibre mix tunes the instrument's acoustics.
+- How it works: Silk fibre layers are laminated with resin in varying ratios to tune stiffness and damping.
+- Video: https://www.youtube.com/watch?v=URe1jw-brWw
+- Project page: https://web.archive.org/web/20210623063045/https://www.globalgradshow.com/project/biomaterials-music/
 
 #### Colorifix microbial dyeing — Colorifix (2016)
 - Type: Product & platform · Organisms: Bacteria & microbes
@@ -4892,6 +6637,14 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Images: https://livingcolour.eu/wp-content/uploads/2017/09/LC-Slider-1.png https://livingcolour.eu/wp-content/uploads/2016/09/Living-Colour-2.jpg
 - Project page: https://livingcolour.eu/
 
+#### Living Colours — Buro Belén (2016)
+- Type: Research prototype · Organisms: Plants
+- Idea: Design with fading instead of fighting it.
+- What it is: A textile research project that embraces the fading of plant-based dyes, charting how natural colours change over time so textiles become living surfaces.
+- How it works: Fabrics and papers dyed with plant dyes are exposed to light and catalogued as they discolour.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/12-1024x685.jpg
+- Project page: https://new-material-award.nl/en/living-colours/
+
 #### MycoTEX (Neffa dress) — Aniela Hoitink (2016)
 - Type: Research prototype · Organisms: Fungi
 - Idea: Clothes can be grown to the wearer's measurements and composted when worn out.
@@ -4900,6 +6653,15 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Video: https://www.youtube.com/watch?v=HFwvYkJyaRg
 - Images: https://media.materialdistrict.com/wp-content/uploads/2017/04/mycotex-textile-made-from-mushroom-mycelium-01.jpg
 - Project page: https://materialdistrict.com/article/mycotex-textile-mushroom-mycelium/
+
+#### Orange Fiber — Orange Fiber (2016)
+- Type: Product & platform · Organisms: Plants
+- Idea: Juice-industry waste can become a luxury textile.
+- What it is: A silk-like, biodegradable fibre made from cellulose extracted from the peel and pulp left over from Sicilian citrus-juice production.
+- How it works: Citrus cellulose is extracted and spun into acetate-type yarn, developed with Politecnico di Milano.
+- Video: https://www.youtube.com/watch?v=CYtTQBydg8w
+- Images: https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-5.jpg https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-3-1024x683.jpg
+- Project page: https://orangefiber.it/
 
 #### adidas Futurecraft Biofabric — AMSilk (2016)
 - Type: Product & platform · Organisms: Bacteria & microbes
@@ -4945,6 +6707,14 @@ Garments and textiles dyed, grown or animated by living organisms.
 - Video: https://www.youtube.com/watch?v=3p3-vl9VFYU
 - Project page: https://www.ted.com/talks/suzanne_lee_grow_your_own_clothes
 
+#### Waste Materials — Claudy Jongstra (2010)
+- Type: Artwork · Organisms: Animals, Plants
+- Idea: Art can be one link in a farm's living cycle.
+- What it is: A felted wall hanging made from merino wool, raw silk and leftover wool from Jongstra's own flock of Drenthe Heath sheep, coloured with weld grown in her dye garden.
+- How it works: Hand-felting combines farm wools and silk; plant dyes come from the artist's botanical garden.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/2010-29.-Claudy-Jongstra-1-724x1024.jpg
+- Project page: https://new-material-award.nl/en/waste-materials/
+
 ### Bio-responsive Materials
 
 Materials that move, change colour or shape using living cells or biological mechanisms.
@@ -4957,6 +6727,14 @@ Materials that move, change colour or shape using living cells or biological mec
 - Paper: https://www.nature.com/articles/s41586-022-05656-3 (Nature)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05656-3/MediaObjects/41586_2022_5656_Fig1_HTML.png
 - Project page: https://morphingmatter.cs.cmu.edu/
+
+#### Mother Nacre — Maryland Institute College of Art Biodesign Challenge team (2023)
+- Type: Speculative design · Organisms: Animals, DNA & molecules
+- Idea: Treat plastic the way an oyster treats grit: seal it and make it precious.
+- What it is: A 'plastic heirloom' that encases sentimental plastic objects in biomimetic nacre (mother of pearl), the coating molluscs use to seal off irritants.
+- How it works: Layers of calcium carbonate and organic binder are built up around the object to imitate nacre (process likely lab-based mineralisation).
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816179457-3NAUX3EW5FN8ED4C8BPC/mother+nacre+1.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816178536-ZKU8J72L65QSSCBRJCXM/nacre+ring-2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816181683-ORNWLFXQGYTDWMO909QA/pearl-Recovered.jpg
+- Project page: https://www.biodesignchallenge.org/mica-2023
 
 #### PUMA Biodesign: Breathing Shoe — MIT Design Lab (2018)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -5044,6 +6822,15 @@ Materials that move, change colour or shape using living cells or biological mec
 
 Buildings and structures that grow, breathe, repair or host life.
 
+#### SHORE thing — California College of the Arts, Architecture Biodesign Challenge team (2025)
+- Type: Research prototype · Organisms: Bacteria & microbes, Ecosystems
+- Idea: Coastal defence can be grown from local sand and degrade when its job is done.
+- What it is: Bio-beach rocks for the Maldives: one-metre geometric shells of coral sand, coconut coir and a safe bacterium, placed in the intertidal zone to slow currents and let sand build up on eroding beaches.
+- How it works: Microbially induced calcite binds sand and coir in a sand-casting technique that island communities can run themselves.
+- Video: https://www.youtube.com/watch?v=L0Ka7DgOzAQ
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486478758-4ZGTL0KWSNEFUX4PRW1V/BDC_Shorething_AerialRender.jpeg.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486476180-HZTMB1UHBJFYTGC7N321/SHORE+thing+design.jpg
+- Project page: https://www.biodesignchallenge.org/cca-arch-ucsf-maldives-2025
+
 #### MARS II — Reef Design Lab (2024)
 - Type: Product & platform · Organisms: Ecosystems, Animals
 - Idea: Iterate habitat design like a product line, with each generation testing a new geometry.
@@ -5051,6 +6838,14 @@ Buildings and structures that grow, breathe, repair or host life.
 - How it works: Updated 3D-printed moulds cast ceramic modules with larger internal voids and simpler assembly; the exhibition version let visitors see the interlocking logic normally hidden underwater.
 - Video: https://www.youtube.com/watch?v=vzoowZzFZJs
 - Project page: https://reefdesignlab.com/
+
+#### Shell We Dance? — California College of the Arts, Architecture Biodesign Challenge team (2024)
+- Type: Research prototype · Organisms: Animals, DNA & molecules
+- Idea: A city's food waste can be its next building stone.
+- What it is: Urban waste from eaten eggs and shellfish is turned into a biomaterial and a component-based building system, with moldable blocks and a matching adhesive tested at several scales.
+- How it works: Shells are harvested, ground and bound into blocks; chemical and structural tests guide formulations and reinforcement.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643016018-KUBYAPOMRLROO3TRIC4G/Shell+we+dance__Bio-Block+Module+and+Mock-Up.jpeg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643017978-OGBKMHU4R9BZ7BSAPWJH/Shell+we+Dance_Pavilion+1.png
+- Project page: https://www.biodesignchallenge.org/cca-ucsf-2024
 
 #### Cyanobacterial co-fabrication for architecture — Perla Armaly (2023)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -5076,6 +6871,31 @@ Buildings and structures that grow, breathe, repair or host life.
 - How it works: Clay is extrusion-printed into bricks with rough, porous surfaces and internal channels, fired, then dry-stacked underwater into walls seeded by natural coral recruitment.
 - Video: https://www.youtube.com/watch?v=L0WvFJz0CDQ
 - Project page: https://rrreefs.com/
+
+#### Bio-Brick — MicroBuild Masonry (Adrian Simone & Rania Al-Sheikhly) (2022)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Let bacteria do the binding that kilns and cement do today.
+- What it is: Masonry units made by binding recycled aggregate with microbially induced calcite precipitation at ambient temperature, without firing or cement.
+- How it works: Urease-producing bacteria and a calcium solution are pumped through moulds of aggregate, precipitating calcite that hardens the brick.
+- Images: https://www.jamesdysonaward.org/Document/917ac406-c5bf-4ad8-a3d9-7e517c17ca3d/20220516153750.jpg https://www.jamesdysonaward.org/Document/ee05d77b-3373-4fa7-92f8-c530e4601938/20220628110858.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2022/project/bio-brick/
+
+#### Respyre bioreceptive moss concrete — Auke Bleij (2022)
+- Type: Product & platform · Organisms: Plants
+- Idea: Design the surface so another species wants to live on it.
+- What it is: A bioreceptive concrete that moss colonises spontaneously, turning walls and urban surfaces into air-filtering, cooling green infrastructure; it can be applied as a layer or cast into new elements.
+- How it works: A porous, water-retaining concrete mix with up to 70% recycled cement is seeded with moss.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Picture-of-Adil-at-green-wall-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Auke-Bleij-Venray-nieuwbouw-vergroend-DDA24-1100x647.jpg
+- Project page: https://www.respyre.com
+
+#### The Exploded View Beyond Building — Pascal Leboucq (2022)
+- Type: Research prototype · Organisms: Fungi, Plants
+- Idea: A whole house could be built from grown materials — show every layer.
+- What it is: A pavilion at Dutch Design Week built as an exploded view of a house, showing over 100 bio-based building materials such as mycelium, hemp, reed and straw layer by layer.
+- How it works: Material samples from producers are mounted in their construction order in a timber frame.
+- Video: https://www.youtube.com/watch?v=dLcS2hJVxm4
+- Images: https://static.dezeen.com/uploads/2022/07/v2xdbNZVOpbPYCSGm7rXjVfKW48XqUsCxcxC5vPB_Z33nsize_2048.jpeg
+- Project page: https://biobasedcreations.com/
 
 #### AirBubble — ecoLogicStudio (2021)
 - Type: Research prototype · Organisms: Algae
@@ -5144,6 +6964,15 @@ Buildings and structures that grow, breathe, repair or host life.
 - How it works: A double-skin façade planted with milkweed and nectar plants is designed to support the whole monarch life cycle inside the building envelope.
 - Images: https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/f424be44-cdb2-408b-877b-6bdb6f22f5d4/terreform-butterfly-main-aaa-web.jpg
 - Project page: https://www.terreform.org/monarch-sanctuary
+
+#### Mycokarst — Anna Budnikova (2019)
+- Type: Speculative design · Organisms: Fungi, Ecosystems
+- Idea: Let fungi rebuild the rock that water dissolves.
+- What it is: For a karst ravine in Kazan, Russia, the project proposes fungi that mineralise calcite into limestone to reinforce the soil and reduce the collapse of roads and houses into sinkholes.
+- How it works: Based on fungal biomineralisation of calcium carbonate; the design maps sites and prototypes fungal-reinforced soil forms.
+- Video: https://www.youtube.com/watch?v=UEjUS4o1LHA
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580924834-52ZEVBX9E609LDT5PO39/Mycokarst+ravine_prototype_2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580915326-9RYKVPSECTJCX1OXLCWA/Archetype_3.jpg
+- Project page: https://www.biodesignchallenge.org/hse
 
 #### Totems — Neri Oxman, Mediated Matter Group (MIT Media Lab) (2019)
 - Type: Artwork · Organisms: DNA & molecules, Animals
@@ -5327,6 +7156,14 @@ Buildings and structures that grow, breathe, repair or host life.
 
 3D printing and robotic fabrication with living cells, hydrogels and biological materials.
 
+#### Algee — Alejandro Alfaro Enguídanos (2026)
+- Type: Research prototype · Organisms: Bacteria & microbes, Algae
+- Idea: Furniture can be printed from a plastic grown by microbes.
+- What it is: A modular soft-seating system shaped after algae forms and 3D printed from PHB, a biodegradable plastic produced by cyanobacteria, so the furniture can 'grow' by adding modules.
+- How it works: Cyanobacterial PHB filament is printed into lattice modules.
+- Images: https://content.gp-award.com/assets/media/award26/7-algee_blogLarge.jpg https://content.gp-award.com/assets/media/award26/0-algee_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/algee
+
 #### Bioreactors as Additive Manufacturing Environments — Orkan Telhan (2025)
 - Type: Paper · Organisms: Fungi, Bacteria & microbes
 - Idea: If the organism builds the object, the machine's job is to shape its environment.
@@ -5361,6 +7198,14 @@ Buildings and structures that grow, breathe, repair or host life.
 - Video: https://www.youtube.com/watch?v=g12qpAAqg6o
 - Project page: https://wyss.harvard.edu/
 
+#### Tatami ReFab — Honoka (2023)
+- Type: Product & platform · Organisms: Plants
+- Idea: A traditional plant material can be reborn through digital fabrication.
+- What it is: A furniture collection 3D-printed from a composite of biodegradable resin and igusa rush grass, the plant used for tatami mats, reviving a vanishing tradition.
+- How it works: Igusa fibres are compounded with bio-resin and printed on a large-format printer (with ExtraBold).
+- Images: https://www.salonemilano.it/sites/default/files/styles/libero/public/images/articles/2023-06/Tatami-Refab-salonemilano.jpg.webp?itok=jrTYNcJB
+- Project page: https://www.salonemilano.it/en/articles/latest-design-challenges-salonesatellite-award-2023
+
 #### Urban Stomach — Blast Studio (2023)
 - Type: Research prototype · Organisms: Fungi
 - Idea: A city's waste stream can be printed and then digested into structure by a fungus.
@@ -5376,6 +7221,14 @@ Buildings and structures that grow, breathe, repair or host life.
 - How it works: Chondrocytes from a biopsy of the patient's remaining ear are expanded, mixed into a collagen bioink and printed to the mirrored geometry of the other ear, then implanted under skin to mature.
 - Video: https://www.youtube.com/watch?v=INm3Q0xVWrQ
 - Project page: https://www.3dbiocorp.com/
+
+#### AeR — Shonali Shetty (2021)
+- Type: Speculative design · Organisms: Bacteria & microbes, Fungi, Algae
+- Idea: Print a living wall the way you choose paint.
+- What it is: A system that bioprints photosynthetic microorganisms such as cyanobacteria and lichens into modular wall surfaces, with users choosing bio-inks and scaffolds to tune their indoor microclimate.
+- How it works: Bio-inks carrying living cells are extruded onto printed scaffolds that are mounted indoors.
+- Images: https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-aer_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/aer
 
 #### Cultivated Ribeye Steak by 3D Bioprinting — Aleph Farms (2021)
 - Type: Product & platform · Organisms: Cells & tissue
@@ -5393,6 +7246,14 @@ Buildings and structures that grow, breathe, repair or host life.
 - Video: https://www.youtube.com/watch?v=xQReQhF4Gvc
 - Images: https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/maeid_biennale_architettura_2021.jpg?itok=MRSeTRk2
 - Project page: https://www.labiennale.org/en/architecture/2021/among-diverse-beings/maeid-b%C3%BCro-f%C3%BCr-architektur-und-transmediale-kunst
+
+#### Biocraft — Paul & Garrett Sutherlin Santo (2020)
+- Type: Research prototype · Organisms: Plants, DNA & molecules
+- Idea: A printed object can be designed to do ecological work during and after its life.
+- What it is: 3D-printed bio-gel scales made from natural biopolymers that absorb CO2 from the air and release nutrients into the soil as they degrade.
+- How it works: Biopolymer gels are extruded by a printer into scale-like tiles tuned for porosity and degradation.
+- Video: https://www.youtube.com/watch?v=XmgJzfTfA_c
+- Project page: https://sutherlinsanto.com/
 
 #### Bionic 3D Printed Corals — Daniel Wangpraseurt (2020)
 - Type: Paper · Organisms: Algae, Animals
@@ -5575,6 +7436,8 @@ Buildings and structures that grow, breathe, repair or host life.
 - What it is: Printed tissue more than a centimetre thick is kept alive for six weeks by perfusing its printed vascular network on a chip, with bone cells maturing inside.
 - How it works: Cell-laden inks, extracellular matrix and a fugitive ink are co-printed inside a perfusion chip; after the fugitive ink is removed, endothelial cells line the channels and medium is pumped for weeks.
 - Paper: https://doi.org/10.1073/pnas.1521342113 (PNAS)
+- Video: https://www.youtube.com/watch?v=gzupnyzXdcs
+- Images: https://figures.semanticscholar.org/86e1896c51ac34da19a5429fb827ad0644dc2811/4-Figure3-1.png
 - Project page: https://lewisgroup.seas.harvard.edu/
 
 #### FRESH: Freeform Reversible Embedding of Suspended Hydrogels — Adam Feinberg (2015)
@@ -5592,6 +7455,7 @@ Buildings and structures that grow, breathe, repair or host life.
 - What it is: The reference review of bioprinting for non-specialists: printer types, bioink requirements, resolution limits and the vascularisation problem, laid out as a design brief.
 - How it works: A systematic comparison of inkjet, microextrusion and laser-assisted bioprinting against the requirements of cell viability, resolution, mechanical strength and nutrient transport.
 - Paper: https://doi.org/10.1038/nbt.2958 (Nature Biotechnology)
+- Images: https://figures.semanticscholar.org/a1e8c96869c3f732aa82d2d1dd35564e2c152f77/2-Figure1-1.png
 - Project page: https://doi.org/10.1038/nbt.2958
 
 #### 3D Bioprinting of Vascularized, Heterogeneous Cell-Laden Tissue Constructs — Jennifer A. Lewis (2014)
@@ -5627,7 +7491,16 @@ Buildings and structures that grow, breathe, repair or host life.
 - What it is: A robotic arm extrudes chitosan and other biopolymers dissolved in water at architectural scale, varying stiffness, transparency and degradation along a single continuous print.
 - How it works: A multi-chamber extrusion system on a six-axis robot mixes biopolymer solutions of different concentrations on the fly, depositing functionally graded hydrogel composites that dry into rigid shells.
 - Paper: https://doi.org/10.1089/3dp.2014.0014 (3D Printing and Additive Manufacturing)
+- Images: https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/10-Figure5-1.png https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/9-Figure4-1.png
 - Project page: https://doi.org/10.1089/3dp.2014.0014
+
+#### Water-based Digital Fabrication Platform — Neri Oxman, Mediated Matter Group (MIT Media Lab) (2014)
+- Type: Research prototype · Organisms: Animals, DNA & molecules
+- Idea: Use water as nature does: as the medium that builds, shapes and later dissolves structure.
+- What it is: A robotic platform that extrudes water-based composites of chitosan, a crustacean-derived polymer, with graded mechanical and optical properties that shape themselves as they dry.
+- How it works: A multi-chamber extrusion system deposits chitosan-based gels with varying concentration; hydration differences guide self-assembly.
+- Images: https://ars.electronica.art/starts-prize/files/2016/06/waterbased.jpg https://ars.electronica.art/starts-prize/files/2016/06/waterbased2.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/water-based-digital-fabrication-platform/
 
 #### exVive3D Human Liver Tissue — Organovo (2014)
 - Type: Product & platform · Organisms: Cells & tissue
@@ -5686,11 +7559,37 @@ Buildings and structures that grow, breathe, repair or host life.
 - What it is: A modified Hewlett-Packard inkjet printer deposits protein and living cell suspensions in patterns, and the cells survive the printing process.
 - How it works: Commercial thermal inkjet cartridges were emptied and refilled with protein solutions and cell suspensions, which were printed onto gel substrates and then cultured.
 - Paper: https://doi.org/10.1002/ar.a.10057 (The Anatomical Record Part A)
+- Images: https://figures.semanticscholar.org/bf78f4fff14e17a4b294d9a98eecfdcbc9a86ef0/2-Figure1-1.png
 - Project page: https://doi.org/10.1002/ar.a.10057
 
 ### Genetic & Synthetic Biology Design
 
 Designers working with genetically modified and engineered organisms: glowing plants, edited microbes, new species and their speculative futures.
+
+#### ArtSilk — ArtSilk (2026)
+- Type: Product & platform · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Copy how spiders spin, not only what they spin.
+- What it is: Microorganisms produce spider-silk-inspired proteins that are spun into a high-performance fibre without heat, pressure or harsh chemicals.
+- How it works: Recombinant spidroin proteins are expressed in microbes and spun in aqueous conditions mimicking the spider's gland.
+- Images: https://hmfoundation.com/wp-content/uploads/2026/06/ArtSilk_2026_GCA_winner-1.jpg https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_ArtSilk-1280x800.jpg
+- Project page: https://hmfoundation.com/gca/winner/artsilk/
+
+#### BioMandate 2045 — Macromedia University Biodesign Challenge team (2025)
+- Type: Speculative design · Organisms: DNA & molecules, Human body
+- Idea: Governance, not only invention, shapes biotech futures — and it can be played.
+- What it is: A narrative strategy game in which the player directs a Global Biotech Regulation Agency and decides which innovations — gene editing, synthetic organisms, neural implants — get approved.
+- How it works: Players manage limited resources, investigate risks and balance governments, corporations and the public; each choice shifts global trust.
+- Video: https://www.youtube.com/watch?v=kP2Ldarnptw
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485204815-VYYAXEZV2MTG757HJCZX/BDC25_Biomandate_2045_Trailer_4.png
+- Project page: https://zapuffi.itch.io/biomandate-2045
+
+#### LAMP-PCR Biosensor for Heavy Metal Detection — Karolina Sulich (2025)
+- Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: The microbes already living in polluted water can report on the pollution.
+- What it is: A portable, low-cost biosensor for citizen scientists that detects heavy-metal contamination in urban waterways such as Brooklyn's Gowanus Canal by looking for microbial genes linked to bioremediation.
+- How it works: Loop-mediated isothermal amplification (LAMP) amplifies target genes from environmental DNA without lab equipment.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487349599-N7JCB6HB3QS641UFHXXR/PCR_March_2025.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487345476-6WVUWRBO3H9BM9CGJFF1/PCR+reaction-2.png
+- Project page: https://www.biodesignchallenge.org/new-york-university-idm-2025
 
 #### Consume Our Consumption (Plascetamol) — Jiabao Li (2024)
 - Type: Speculative design · Organisms: Insects, Bacteria & microbes
@@ -5708,6 +7607,22 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_the_dark_-_credit_to_Light_Bio_Inc.jpg?v=1730398670&width=2000 https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_daylight_-_credit_to_Light_Bio_Inc.jpg?v=1730398671&width=2000
 - Project page: https://light.bio/products/firefly-petunia
 
+#### BIOMILQ — BIOMILQ (2023)
+- Type: Product & platform · Organisms: Cells & tissue, Human body
+- Idea: Separate a body function from the body and design new forms of care.
+- What it is: Human mammary epithelial cells are cultured in bioreactors to secrete components of human milk outside the body, as an infant-nutrition option closer to breast milk than formula.
+- How it works: Primary mammary cells grow on scaffolds in bioreactors and secrete milk into a collection chamber.
+- Video: https://www.youtube.com/watch?v=emaNqen1Qlg
+- Project page: https://en.wikipedia.org/wiki/The_Index_Project
+
+#### Hybrid — Heather Dewey-Hagborg (2023)
+- Type: Artwork · Organisms: Animals, Human body
+- Idea: Interspecies genetic engineering needs public debate that includes the animals.
+- What it is: A documentary artwork on xenotransplantation research in which pigs are gene-edited with CRISPR to become organ donors for humans, taking viewers into the lab and to the animals.
+- How it works: Film and installation based on access to xenotransplant labs and interviews with scientists.
+- Images: https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_mu4-edited-heather-dewey-hagborg.jpg?h=a1e1a043&itok=ZO-V9wZD
+- Project page: https://falling-walls.com/navigating-genetic-frontiers-heather-dewey-hagborgs-insights-xenotransplantation
+
 #### Normal Phenomena of Life — Natsai Audrey Chieza, Ginkgo Bioworks (2023)
 - Type: Product & platform · Organisms: Bacteria & microbes
 - Idea: Biotechnology needs a retail language before it becomes part of daily life.
@@ -5716,6 +7631,47 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Video: https://www.youtube.com/watch?v=oIzinzHQcWg
 - Images: https://faberfutures.com/wp-content/uploads/2023/11/FF_NPOL_Website-Feature_Listing-Page_03.jpg
 - Project page: https://faberfutures.com/projects/normal-phenomena-of-life/
+
+#### PLSTC — PLSTC (2022)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Plastic clothing could end its life as food.
+- What it is: Naturally occurring bacteria are bio-engineered to digest polyester and other plastic textile waste into its building blocks and then convert them into edible biomass.
+- How it works: Engineered microbes depolymerise PET and use the monomers as carbon for growth.
+- Images: https://hmfoundation.com/wp-content/uploads/2022/05/PLSTC1B-768x1024.jpg https://hmfoundation.com/wp-content/uploads/2022/04/PLSTC-team.jpg
+- Project page: https://fashiontofood.com/
+
+#### Rubi — Rubi Laboratories (2022)
+- Type: Product & platform · Organisms: DNA & molecules
+- Idea: Make a tree's product without the tree.
+- What it is: Industrial CO2 is captured in a cell-free bioreactor where stabilised enzymes turn it into cellulose, which is spun into viscose- and lyocell-type fibres without wood pulp.
+- How it works: An enzymatic cascade inspired by plant photosynthesis builds cellulose from carbon captured at factories.
+- Video: https://www.youtube.com/watch?v=rUxl6Fz-MXY
+- Images: https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-Rubi.jpeg https://hmfoundation.com/wp-content/uploads/2022/03/Rubi-Cellulose-Samples-578x1024.jpg
+- Project page: https://rubi.earth/
+
+#### Sista-Sis Biodoula Services — Robeson High School + Aula Future + FirstHand Biodesign Challenge team (2022)
+- Type: Speculative design · Organisms: Human body, DNA & molecules
+- Idea: Biotech futures should be designed with and for the communities most failed by medicine.
+- What it is: In response to high maternal mortality among African-American women, high-school students imagined a community-supported doula service that includes mRNA therapies.
+- How it works: Speculative service design: brand, service blueprint and video around mRNA-based care.
+- Video: https://www.youtube.com/watch?v=zcfsdPZ1B_8
+- Project page: https://www.biodesignchallenge.org/paulrobeson-aula-firsthand-2022
+
+#### Carbios enzymatic recycling — Carbios (2021)
+- Type: Product & platform · Organisms: DNA & molecules, Bacteria & microbes
+- Idea: An engineered enzyme can make plastic endlessly recyclable.
+- What it is: An optimised enzyme, derived from one found in compost, breaks PET plastic and polyester textiles down into monomers that can be repolymerised into virgin-quality PET.
+- How it works: A leaf-branch compost cutinase was engineered for thermostability and activity on PET.
+- Video: https://www.youtube.com/watch?v=Usq7r5krxYc
+- Project page: https://www.carbios.com/
+
+#### Quorum Sensing: Skin Flora Signal System — Helena Nikonole (2021)
+- Type: Research prototype · Organisms: Bacteria & microbes, Human body, Plants
+- Idea: The skin microbiome can be a terminal that smells when something is wrong.
+- What it is: DIY methods for modifying the skin microbiome so that bacteria produce flower scents when triggered by disease or fever, turning the skin into a diagnostic interface.
+- How it works: Skin bacteria are engineered with plant scent genes under disease-responsive promoters (quorum-sensing logic).
+- Images: https://ars.electronica.art/starts-prize/files/2022/06/quorum-1024x512.jpg
+- Project page: https://nikonole.com/quorumsensing
 
 #### Raaz — Foad Hamidi (2021)
 - Type: Artwork · Organisms: Fungi, DNA & molecules
@@ -5726,6 +7682,15 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Video: https://www.youtube.com/watch?v=tYwyQ9cMDmk
 - Project page: https://doi.org/10.1145/3411764.3445408
 
+#### Culina — Hub for Biotechnology in the Built Environment Biodesign Challenge team (2020)
+- Type: Speculative design · Organisms: Bacteria & microbes, Plants
+- Idea: The kitchen becomes a small biofactory shared by residents.
+- What it is: A future kitchen for apartment towers that combines traditional farming and cooking techniques with synthetic biology, including bioreactors and hydroponics built into the home.
+- How it works: Architectural scenarios place microbial bioreactors, fermentation rooms and hydroponic walls into a tower block.
+- Video: https://www.youtube.com/watch?v=dtmQO7tlYiA
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228104189-LD314OZZ4EHJ1GV6HTTF/Copy+of+BIOREACTOR+1.jpeg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228125618-0VK2C8CSNAJME7JVGFU4/Copy+of+Dining+Room.jpeg
+- Project page: http://bbe.ac.uk/index.php/culina/
+
 #### Plants with Genetically Encoded Autoluminescence — Karen Sarkisyan (2020)
 - Type: Paper · Organisms: Plants
 - Idea: Self-sustaining plant light needs no chemical feeding, only the plant's own metabolism.
@@ -5734,6 +7699,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Paper: https://www.nature.com/articles/s41587-020-0500-9 (Nature Biotechnology)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-020-0500-9/MediaObjects/41587_2020_500_Fig1_HTML.png
 - Project page: https://www.nature.com/articles/s41587-020-0500-9
+
+#### Death on Mars — University of Technology Sydney Biodesign Challenge team (2019)
+- Type: Speculative design · Organisms: Plants, DNA & molecules
+- Idea: A plant can become an archive and a grave at once.
+- What it is: A proposal for living memorials on a future Mars colony: plants whose genomes store photos, videos, recipes and stories of the dead, released when people interact with the plant.
+- How it works: Imagines genome editing plus a synthetic chromosome that encodes computer data in DNA.
+- Video: https://www.youtube.com/watch?v=pBIPYySoRuc
+- Project page: https://www.biodesignchallenge.org/university-of-tech-sydney
 
 #### Resurrecting the Sublime — Alexandra Daisy Ginsberg, Christina Agapakis, Sissel Tolaas (2019)
 - Type: Artwork · Organisms: Plants, DNA & molecules
@@ -5751,6 +7724,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: Based on research into interspecific pregnancy for endangered species and pig-to-human organ transplants; made as 3D-printed resin sculptures.
 - Images: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/c6af31d9-48d4-4f81-a240-02a444e0dfcc/DSCF0020.JPG https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1c36b796-575b-43ac-9931-c5aa4ebb7552/B745CFFD-958C-4EE7-B234-84A76A9E0BEF.JPG https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/52611f4e-4d70-4516-aee0-08011085b728/Ani+Liu+Uterus+3d+print.jpg
 - Project page: https://ani-liu.com/the-surrogacy-pig
+
+#### BLP-2000D (Black List Printer) — BCL (Georg Tremmel & Shiho Fukuhara) (2018)
+- Type: Artwork · Organisms: DNA & molecules
+- Idea: Who is allowed to write DNA is a question of access and censorship, not only of safety.
+- What it is: A DIY DNA synthesiser built to print only the DNA sequences on the unofficial 'black list' that commercial synthesis companies refuse to make.
+- How it works: Low-cost microfluidics make DNA synthesis possible outside industry; the error-prone output produces mutated, harmless versions of blacklisted sequences.
+- Images: https://ars.electronica.art/starts-prize/files/2019/05/BLP_2000x1000-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/blp-2000-black-list-printer/
 
 #### Other Biological Futures — Alexandra Daisy Ginsberg (2018)
 - Type: Book & essay · Organisms: Ecosystems
@@ -5777,6 +7758,31 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://deweyhagborg.com/media/pages/projects/spirit-molecule/38614c2a12-1643025321/img_2580crop@0-25x.jpg
 - Project page: https://deweyhagborg.com/projects/spirit-molecule
 
+#### Beecosystem — NYU ITP Biodesign Challenge team (2017)
+- Type: Speculative design · Organisms: Bacteria & microbes, Insects
+- Idea: One engineered microbe can serve two industries and a third species at once.
+- What it is: A proposal that links brewing and beekeeping: genetically modified brewer's yeast makes hop beta acids during fermentation, which can flavour beer and also protect honeybees from parasitic Varroa mites.
+- How it works: Brewer's yeast would be engineered with the hop pathway for beta acids, known miticides used by beekeepers.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498341442238-BDC145GQB2XQW508E4IJ/Screen+Shot+2017-06-24+at+5.56.37+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1597795537044-50XZ9EINBS3KMQZ8J84H/download+%282%29.png
+- Project page: https://www.biodesignchallenge.org/nyu-itp
+
+#### Quantworm Mine — Liv Bargman, Nina Cutler (2017)
+- Type: Speculative design · Organisms: Animals, Ecosystems
+- Idea: A post-industrial landscape can be healed by animals that also become its new industry.
+- What it is: Quantworm Industries is a fictional nanotech wormery on former coal-mining sites in South Wales, where earthworms clean contaminated soil and turn heavy metals into quantum dots for solar panels.
+- How it works: Builds on research showing that earthworms biosynthesise cadmium telluride quantum dots from metals in soil; the project designs worm miners' tools, starter kits and a speculative supply chain.
+- Video: https://vimeo.com/219922957
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340842422-B3HKU265C726R8752I55/Worm_miner_in_the_extracting_QD_from_hybrid_worm.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340886242-UM22WQBJWM3OJ7DIFUB8/Quantworm_Industries_with_QDPhotovoltaic_flags.jpg
+- Project page: https://www.biodesignchallenge.org/central-saint-martins
+
+#### UK 2029 — University of Edinburgh Biodesign Challenge team (2017)
+- Type: Speculative design · Organisms: Bacteria & microbes, Human body
+- Idea: Speculating on biotech is also speculating on politics: who regulates, who profits, who is left out.
+- What it is: A set of artefacts, photographs and texts that imagine the United Kingdom in 2029, when biotechnology has become ordinary and is shaped by the country's politics after Brexit.
+- How it works: Design fiction: the team produced props and scenarios for everyday biotech products in a near-future Britain.
+- Video: https://www.youtube.com/watch?v=EfS-wU84WN4
+- Project page: https://biodesign.eca.ed.ac.uk/ukew-2029/
+
 #### Bento Lab — Bento Lab (2016)
 - Type: Product & platform · Organisms: DNA & molecules
 - Idea: Industrial design turns a room full of equipment into a piece of luggage.
@@ -5795,6 +7801,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://cdn11.bigcommerce.com/s-89v4ku3/products/195/images/1226/ChatGPT_Image_Mar_5_2026_02_50_27_PM__46930.1775622209.400.559.png?c=2
 - Project page: https://www.the-odin.com/diy-crispr-kit/
 
+#### Designs for Flies — Frank Kolkman (2016)
+- Type: Research prototype · Organisms: Insects, DNA & molecules
+- Idea: Research on orphan diseases could move from pharma labs into patients' homes, with flies as partners.
+- What it is: A DIY toolkit, developed with the Kyoto Institute of Technology's insect centre, that lets patients with rare diseases breed genetically modelled fruit flies and screen candidate drugs on them at home.
+- How it works: Drosophila lines carrying human disease genes are bred in custom boxes; behaviour changes under candidate compounds are recorded.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_0-1000x647.jpeg https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_1-750x442.jpeg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/designs-for-flies/
+
 #### Forget Me Not (Biotic Yearnings) — Ani Liu (2016)
 - Type: Speculative design · Organisms: Plants, DNA & molecules
 - Idea: Instead of wearing flower scents, engineer a flower that smells like someone you lost.
@@ -5802,6 +7816,24 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: A design proposal: a person's scent profile would likely be analysed and matched to plant fragrance pathways that could, in theory, be engineered.
 - Images: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146810619-22XBUHBEI37ERSDO4PVT/1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146821569-KQGLR05LMJ4KLHTGXYB1/1-1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1480401116374-P0ZRHHQ6D94CDTJAIC08/Ani+Liu+Experimental+Art+and+Olfaction2.png
 - Project page: https://ani-liu.com/botanyofmemory
+
+#### I'm Humanity — Etsuko Yakushimaru (2016)
+- Type: Artwork · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: A living organism can be a recording medium that outlasts humanity.
+- What it is: A pop song whose chord progression was converted into DNA and inserted into the chromosome of the cyanobacterium Synechococcus, so the music replicates with the living microbe.
+- How it works: A cipher based on the codon table turned the chords into a 276-nucleotide sequence, which was synthesised and integrated into Synechococcus; the song was also released as music.
+- Video: https://www.youtube.com/watch?v=92Dcp9Fbdac
+- Images: https://ars.electronica.art/starts-prize/files/2017/05/imhumanity.jpg https://ars.electronica.art/starts-prize/files/2017/05/imhumanity1.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/im-humanity/
+
+#### MyoTomato — School of Visual Arts Biodesign Challenge team (2016)
+- Type: Research prototype · Organisms: Plants, DNA & molecules
+- Idea: A crop can be redesigned to carry the nutrition we now take from animals.
+- What it is: Students proposed tomatoes engineered to make myoglobin, the iron-rich protein that gives meat its colour and taste, and began inserting a beef-derived gene into tomato plants.
+- How it works: Agrobacterium-mediated transformation was used to insert a myoglobin DNA sequence into the tomato genome.
+- Video: https://vimeo.com/202106875
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796965174-LJZZZ1B52VV3Y8WI1FCS/Myo-tomato005.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796881490-9U97HW1P4TMPG6ZKIB85/Myo-tomato003.jpg
+- Project page: https://www.biodesignchallenge.org/sva2016
 
 #### Soy Leghemoglobin (Impossible Burger heme) — Impossible Foods (2016)
 - Type: Product & platform · Organisms: DNA & molecules, Bacteria & microbes
@@ -5894,6 +7926,22 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://www.badaward.nl/imager/assets/site/482/STUDIOPSK1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/372/15897462326_37b42203c9_o_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/studio-psk
 
+#### The In Vitro Meat Cookbook — Next Nature Network (2014)
+- Type: Book & essay · Organisms: Cells & tissue, Animals
+- Idea: Recipes make an abstract technology concrete enough to argue about.
+- What it is: A speculative cookbook in which lab-grown meat is the recurring ingredient, with essays by scientists, chefs and philosophers, used to open public debate on cultured meat.
+- How it works: Design fiction: imagined dishes (meat ice cream, knitted meat) are illustrated and paired with scientific commentary.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_0-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_1-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/the-in-vitro-meat-cookbook/
+
+#### The Smell of Us — iGEM Paris Bettencourt (2014)
+- Type: Research prototype · Organisms: Bacteria & microbes, Human body
+- Idea: Body odour is designed by the skin microbiome, so design the microbiome.
+- What it is: A probiotic alternative to antibacterial deodorants, with a BioBrick smell library for mixing 'genetic perfumes' and a CRISPR method to isolate naturally odourless skin bacteria.
+- How it works: Scent-pathway parts and CRISPR-based selection were built for skin commensals.
+- Images: https://static.igem.org/mediawiki/2014/b/b1/Smelltheroses.png
+- Project page: https://2014.igem.org/Team:Paris_Bettencourt
+
 #### Wanderers: An Astrobiological Exploration — Neri Oxman, Mediated Matter Group (MIT Media Lab), OXMAN (2014)
 - Type: Speculative design · Organisms: Bacteria & microbes
 - Idea: A garment can be a portable ecosystem that keeps its wearer alive.
@@ -5928,6 +7976,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://www.kontejner.org/images/modules/tn_large_landscape_1609597134-_dsf1790.jpg
 - Project page: https://www.dezeen.com/2013/11/18/i-wanna-deliver-a-dolphin-synthetic-biology-concept-humans-giving-birth-to-food-by-ai-hasegawa/
 
+#### Nano Supermarket — Next Nature Network (2013)
+- Type: Speculative design · Organisms: DNA & molecules, Animals
+- Idea: Put future products on a shelf so people can decide before they arrive.
+- What it is: A travelling supermarket stocked with speculative products based on emerging nano- and biotechnologies, where visitors vote on which futures they want.
+- How it works: Designers contribute product prototypes and packaging; a mobile shop and voting system gather public responses.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_0-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_4-1500x882.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/nano-supermarket/
+
 #### Seasons of the Void — Alexandra Daisy Ginsberg, Sascha Pohflepp (2013)
 - Type: Speculative design · Organisms: Bacteria & microbes
 - Idea: If astronauts need GM food, it must also satisfy desire, not just engineering specs.
@@ -5961,6 +8017,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://static.wixstatic.com/media/ed6edc_1b2898bda8bc44dfb8403afdae21109c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/ed6edc_1b2898bda8bc44dfb8403afdae21109c%7Emv2.jpg
 - Project page: https://www.biology-design.com/
 
+#### Plastic Republic — iGEM Team UCL London (2012)
+- Type: Speculative design · Organisms: Bacteria & microbes, Ecosystems
+- Idea: A cleanup idea can also be a satire of land and ownership.
+- What it is: A proposal to engineer marine bacteria with stronger adhesion so their biofilms gather ocean microplastics into 'plastic islands', with a design fiction selling them as new land.
+- How it works: Roseobacter and E. coli adhesion genes were proposed to aggregate particles into biofilm rafts.
+- Images: https://static.igem.org/mediawiki/2012/c/c5/Ucl2012-landforsalebanner.jpg
+- Project page: https://2012.igem.org/Team:UCL_London
+
 #### Post Natural History — Vincent Fournier (2012)
 - Type: Artwork · Organisms: Animals
 - Idea: Present engineered species in the neutral language of a natural history museum to make them feel real.
@@ -5986,6 +8050,15 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Video: https://www.youtube.com/watch?v=uSw60KwHWxo
 - Project page: https://dublin.sciencegallery.com/growyourown/alliam
 
+#### AuxIn — iGEM Team Imperial College London (2011)
+- Type: Research prototype · Organisms: Bacteria & microbes, Plants
+- Idea: Design a microbe as a gardener for eroding soil.
+- What it is: Engineered E. coli that swim toward plant roots, secrete the hormone auxin to boost root growth against soil erosion, and carry a containment module.
+- How it works: Three modules: Phyto-Route (chemotaxis to roots), Auxin Xpress (auxin synthesis) and Gene Guard (containment).
+- Video: https://www.youtube.com/watch?v=klKg9Q1OS2g
+- Images: https://static.igem.org/mediawiki/2011/a/a7/New_storyboard_v2-08.png
+- Project page: https://2011.igem.org/Team:Imperial_College_London
+
 #### Banana Bacteria — C-Lab (Laura Cinti & Howard Boland) (2011)
 - Type: Artwork · Organisms: Bacteria & microbes
 - Idea: Changing how a microbe smells changes how we feel about it.
@@ -6009,6 +8082,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: Imagines engineered bacteria that aggregate into a solid cup under a specific light wavelength (likely building on light-control work in Wendell Lim's UCSF lab), then metabolise when rehydrated.
 - Images: http://thisisalive.com/wp-content/uploads/2013/04/10_Packaging_Creates_Contents_1-760x506.jpg http://thisisalive.com/wp-content/uploads/2013/04/11_Packaging_Creates_Contents_2.jpg
 - Project page: http://thisisalive.com/packaging-that-creates-its-contents/
+
+#### E.glowli — iGEM Team Cambridge (2010)
+- Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Engineered microbes can be a designed light source.
+- What it is: A set of BioBricks enabling bioluminescence in E. coli in many colours, for biosensor reporters and as light sources, shown in a bacterial 'bubble lamp' and photos lit only by bacteria.
+- How it works: Luciferase genes from fireflies and bacteria were standardised and tuned for different colours.
+- Images: https://static.igem.org/mediawiki/2010/7/70/Front.jpg
+- Project page: https://2010.igem.org/Team:Cambridge
 
 #### Half Life Lamp — Joris Laarman (2010)
 - Type: Research prototype · Organisms: Cells & tissue, DNA & molecules
@@ -6035,6 +8116,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: Speculative specimens and narratives: plants that turn into biofuel, secrete security pigments, sense airborne viruses or recover gold from electronic waste.
 - Images: http://thisisalive.com/wp-content/uploads/2013/03/IM_TROIKA_PLANT_FICTION_Selfeaterjpg-760x796.jpg
 - Project page: http://thisisalive.com/plant-fiction-weeping-thief/
+
+#### iGarden — iGEM Team Harvard (2010)
+- Type: Research prototype · Organisms: Plants, DNA & molecules
+- Idea: Imagine synthetic biology as home gardening.
+- What it is: A BioBrick toolkit for engineering garden plants via Agrobacterium, with a 'genetic fence' against gene spread and parts for new flavours, allergen knockdown and petal colour.
+- How it works: Plant expression parts were built for Arabidopsis and strawberry with containment logic.
+- Images: https://static.igem.org/mediawiki/2010/2/2d/Harvard2010igardenbanner.png
+- Project page: https://2010.igem.org/Team:Harvard
 
 #### Common Flowers / Flower Commons — BCL (Georg Tremmel & Shiho Fukuhara) (2009)
 - Type: Artwork · Organisms: Plants
@@ -6200,6 +8289,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://biodigitalviz.github.io/images/beauty.jpg
 - Project page: https://dl.acm.org/doi/10.1145/3597626
 
+#### Ocular Germination — Ana María Gómez López (2023)
+- Type: Artwork · Organisms: Plants, Human body
+- Idea: The human body can be a habitat for plant life.
+- What it is: The artist germinates Begonia seeds with her own basal tears, turning her body into an ecosystem that merges human and botanical realms.
+- How it works: Tears are collected and used as the germination medium for seeds in the studio.
+- Images: https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_1final1aopthalmologicalbasaltear-ana-maria-gomez-lopez.jpg?h=a05dec19&itok=QT0LDu2o
+- Project page: https://falling-walls.com/challenging-human-nature-divide-ana-m-gomez-lopezs-inventive-self-experimentation
+
 #### Atlas of Queer Anatomy (Filthy Anatomy) — Kuang-Yi Ku (2022)
 - Type: Speculative design · Organisms: Bacteria & microbes, Human body
 - Idea: Anatomy can include the microbes that blur where one body ends.
@@ -6278,6 +8375,22 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-1.jpg https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-2.jpg
 - Project page: https://history.siggraph.org/artwork/kevin-blackistone-amir-bastan-microbiospheric-engineering/
 
+#### mEat me — Theresa Schubert (2020)
+- Type: Artwork · Organisms: Cells & tissue, Human body
+- Idea: If humans treat animals as material, the logic should apply to humans too.
+- What it is: An artistic research project and performance in which the artist proposes her own body as material and food, growing tissue from her cells and serving it in a staged tasting.
+- How it works: Cells taken from the artist's body were cultured in the lab into a small 'meat' sample presented in a performance at Kapelica Gallery.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/Theresa-Schubert-mEat-me-performance-06.02.2020.-Photo-Tina-Lagler-Kapelica-Gallery-Archive-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/meat-me/
+
+#### Bacteria Lamp — Jan Klingler (2019)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: A person's microbial trace can become a keepsake.
+- What it is: A blown-glass lamp holding agar on which bacteria sampled from meaningful people and places are grown for 24–48 hours, then sealed in stasis and backlit.
+- How it works: Swabbed microbes grow on nutrient agar inside the glass; growth is stopped and the vessel sealed, lit by an LED in the stopper.
+- Images: https://designmuseum.org/image/c5cb9388-e5ce-4094-96a6-46c28a29a277?width=1600 https://static1.squarespace.com/static/5af188458ab722cefd414847/t/5ca32166f9619a0cc6a8e019/1554194815879/DSC02023.jpg
+- Project page: https://janklingler.com/
+
 #### BioArtBot — Tim Dobbs (2019)
 - Type: Research prototype · Organisms: Bacteria & microbes
 - Idea: Put a lab robot on the internet so anyone can paint with living ink.
@@ -6313,6 +8426,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://freight.cargo.site/w/1030/i/0628c89dccbcfd87fce26815139587bdd0ca155613e2ac0280f92bda9d46448f/mothering-bacteria-1.jpg
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Ouroboros Steak — Andrew Pelling, Orkan Telhan (2019)
+- Type: Speculative design · Organisms: Cells & tissue, Fungi, Human body
+- Idea: Growing meat from yourself exposes the hidden inputs of cultured meat.
+- What it is: A DIY kit for growing miniature 'steaks' from one's own cells on mushroom-based scaffolds with expired blood serum, critiquing the sustainability claims of the lab-grown meat industry.
+- How it works: Human cells are seeded on fungal mycelium scaffolds and fed with expired human blood serum (instead of fetal bovine serum).
+- Images: https://designmuseum.org/image/9c493538-a9c6-4a78-886d-e0e718da70da?width=1600 https://designmuseum.org/image/55c60d98-14cc-472e-a3e7-af47ebe94700?width=1600
+- Project page: https://designmuseum.org/exhibitions/beazley-designs-of-the-year/product/ouroboros-steak
+
 #### Semi-Human Vase — Hongjie Yang (2019)
 - Type: Artwork · Organisms: Cells & tissue, Human body
 - Idea: An everyday object made partly of human tissue blurs the line between body and product.
@@ -6320,6 +8441,22 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - How it works: Human cells are seeded onto a 3D-printed mould in the lab of Patricia Dankers with Dan Jing Wu, grown in culture and then stained to make them visible.
 - Video: https://www.youtube.com/watch?v=YHtBWkvpzws
 - Project page: https://www.youtube.com/watch?v=YHtBWkvpzws
+
+#### Spoiled Spores — Avril Corroon (2019)
+- Type: Artwork · Organisms: Fungi, Bacteria & microbes
+- Idea: Mould from a tenant's wall becomes an artisanal luxury — and a poisonous gift for the landlord.
+- What it is: An installation of up to 25 cheeses made with toxic black mould scraped over a year from damp rental homes in Dublin and London, responding to the housing crisis.
+- How it works: Mould samples collected with tenants were cultured and used as ripening cultures in cheese-making.
+- Images: https://ars.electronica.art/starts-prize/files/2020/06/SPOILED_SPORES_2000x1000-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/spoiled-spores/
+
+#### The Other Townsend — Marley E. Townsend (2019)
+- Type: Artwork · Organisms: Human body, DNA & molecules
+- Idea: Collecting biological and personal data by hand exposes what corporations do silently.
+- What it is: A literal and data portrait of a 'theoretical sibling', built by hand-tracking a family's moods, sleep, texting, genetics and browsing history for seven days.
+- How it works: The artist combined family genetic information with manually logged behavioural data into drawings and a chatbot persona.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561581725231-74KVXP751STI5NMIB8C7/Other_Townsend_policesketch.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1563218848839-AATWJFE2SRFCY8SQU1X6/Other_Townsend_habitat.jpg
+- Project page: https://theothertownsend.com/
 
 #### A Search for Ghosts in the Meat Machine (No Regrets for What You Haven't Been) — Ani Liu (2018)
 - Type: Artwork · Organisms: Human body, Cells & tissue
@@ -6571,6 +8708,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://deweyhagborg.com/media/pages/projects/invisible/45706f416f-1643025441/be_invisible_stop.jpg
 - Project page: https://deweyhagborg.com/projects/invisible
 
+#### Ivorish — Nina van den Broek (2014)
+- Type: Research prototype · Organisms: Human body
+- Idea: If ivory is precious, why not use our own?
+- What it is: An ivory substitute made at Waag's Open Wetlab by pulverising human milk teeth and mixing the powder with a binder, questioning the ethics of animal ivory.
+- How it works: Teeth are ground to dentine powder, bound and polished into small objects.
+- Images: https://new-material-award.nl/wp-content/uploads/2021/11/Ivorish-1024x678.jpg
+- Project page: https://new-material-award.nl/en/ivorish/
+
 #### Sterile — Revital Cohen & Tuur Van Balen (2014)
 - Type: Artwork · Organisms: Animals
 - Idea: Making an animal that cannot reproduce exposes how design turns living beings into products.
@@ -6736,6 +8881,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://cdn.myportfolio.com/b55c7e54-61bd-45c3-a02a-c28798af8ee3/18eb95bc-f6eb-460b-badd-2c1dbc0fedb9_car_1x1.jpg?h=6435d1017f6d54c4fb2478da8fc85871 https://cdn.myportfolio.com/b55c7e54-61bd-45c3-a02a-c28798af8ee3/005add81-1184-433e-8c37-01967f0bdb12_rw_1920.JPG?h=8fd4f4ec4f00a0ab9760c4ce632e678f
 - Project page: https://hideo-iwasaki.com/biognic-timestamp-with-oron-catts-2010
 
+#### E. coli pen — iGEM Team KIT-Kyoto (2010)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Draw with living colour.
+- What it is: A pen that uses no ink but a medium of genetically modified E. coli expressing more than four colours at various intensities from a single culture, presented as a tool for art.
+- How it works: Coloured protein genes under tunable promoters let one strain produce several hues.
+- Images: https://static.igem.org/mediawiki/2010/1/13/Science-and-art.png
+- Project page: https://2010.igem.org/Team:KIT-Kyoto/Home
+
 #### (In)visible Membrane — Sonja Bäumel (2009)
 - Type: Artwork · Organisms: Bacteria & microbes, Human body
 - Idea: The body does not end at the skin; clothing could be designed with our microbes.
@@ -6751,6 +8904,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - How it works: A gene fragment isolated from Kac's blood (an immune-system protein) was engineered to be expressed only in the flower's red veins.
 - Images: https://www.ekac.org/kac.nat.hist.enigma.01.jpg
 - Project page: https://www.ekac.org/nat.hist.enig.html
+
+#### Symbiose — Jelte van Abbema (2009)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Graphic design can be a living surface that keeps changing after printing.
+- What it is: An advertising column with a controlled climate in which bacteria grow over printed posters, transforming the prints and spreading beyond the paper's edges.
+- How it works: Posters printed with nutrient-bearing inks are inoculated and kept warm and humid inside the column.
+- Images: https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_0-1500x882.jpg https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_1-1100x647.jpg
+- Project page: https://www.dutchdesignawards.nl/en/gallery/jelte-van-abbema/
 
 #### Living Viral Tattoos — Tagny Duff (2008)
 - Type: Artwork · Organisms: Cells & tissue, DNA & molecules
@@ -6979,6 +9140,22 @@ Devices and displays with living organisms inside, and how people care for them.
 - How it works: 3D-printed forms from sound data around a hand-blown glass vessel, with pumps and lights to culture cyanobacteria (likely Spirulina).
 - Paper: https://doi.org/10.1145/3800645.3812785 (DIS 2026)
 
+#### The MECC — Emily Salvi (2026)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: A building skin can host microbes that clean the air.
+- What it is: A modular façade panel for landfills and gasworks that houses living methanotrophic microbes in a carrageenan hydrogel to oxidise methane, with sensors monitoring the community.
+- How it works: Methanotrophs in hydrogel cells are exposed to air flows; panel bodies are printed from wood-fibre PLA.
+- Images: https://content.gp-award.com/assets/media/award26/new-0-up-the-mecc_blogLarge.jpg https://content.gp-award.com/assets/media/award26/new-1-up-the-mecc_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/the-mecc
+
+#### Algae-Symbiont — Ye Wen (2025)
+- Type: Research prototype · Organisms: Algae
+- Idea: Furniture can be a place where people live with algae.
+- What it is: Living microalgae cultures built into an air-purifying table and wall module; an Arduino-controlled pump circulates room air through the algae, which absorb CO2 and release oxygen.
+- How it works: Tubes of microalgae are lit and aerated by a microcontroller-driven pump.
+- Images: https://content.gp-award.com/assets/media/award25/0-algae-symbiont_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/algae-symbiont
+
 #### Growth — Cody Lukas (2025)
 - Type: Artwork · Organisms: Cells & tissue, Human body
 - Idea: Listen to tissue growth itself, making the line between creation and uncontrolled growth audible.
@@ -7003,6 +9180,24 @@ Devices and displays with living organisms inside, and how people care for them.
 - How it works: Research through design with an autoethnographic study, drawing on exposure therapy and embodied cognition.
 - Paper: https://doi.org/10.21606/iasdr.2025.812 (IASDR 2025)
 - Project page: https://doi.org/10.21606/iasdr.2025.812
+
+#### SquidKid — Northeastern University Biodesign Challenge team (2025)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Caring for glowing microbes can teach children respect for invisible life.
+- What it is: An educational toy with a safe bioreactor of bioluminescent Aliivibrio fischeri bacteria that children feed and watch glow, learning to value microbial life.
+- How it works: The bacteria glow through quorum-sensing-controlled luciferase when their population is dense and well fed.
+- Video: https://www.youtube.com/watch?v=0VgPBadKbfo
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487060117-CGVZHZZA87E15ZBXJAQL/SquidKid_Poster1_1080x1080.jpg
+- Project page: https://www.biodesignchallenge.org/northeastern-university-2025
+
+#### The Singing Textiles: Weaving Life — Paola Torres Núñez del Prado (2025)
+- Type: Artwork · Organisms: Fungi, Algae
+- Idea: A textile can be an interface where growth and sensing cannot be separated.
+- What it is: Woven textiles with living lichens that respond to humidity, touch and atmospheric change and express those responses as sound, presented as a garden of care and interspecies symbiosis.
+- How it works: Electronic sensing threads measure the lichens' responses and drive a sound system; weaving draws on Andean knotting and computation.
+- Video: https://www.youtube.com/watch?v=3IqJ0lpUh3M
+- Images: https://ars.electronica.art/starts-prize/files/2026/06/the-singing-textiles_barumkunsthall__0_photo_by_tor_s__ulstein-1024x576.jpg
+- Project page: https://www.singingtextiles.com
 
 #### Algae Alight: Exploring the Potential of Bioluminescence through Bio-kinetic Pixels — Zoë Breed, Bahareh Barati (2024)
 - Type: Paper · Organisms: Algae
@@ -7076,6 +9271,15 @@ Devices and displays with living organisms inside, and how people care for them.
 - Paper: https://doi.org/10.1038/s41598-023-36244-8 (Scientific Reports)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-36244-8/MediaObjects/41598_2023_36244_Fig1_HTML.jpg
 - Project page: https://www.nature.com/articles/s41598-023-36244-8
+
+#### Korallysis — Gilberto Esparza (2023)
+- Type: Artwork · Organisms: Animals, Ecosystems
+- Idea: A machine and a coral colony can live in mutual benefit.
+- What it is: A hybrid organism of ceramic segments and coral colonies on the seabed that harvests energy from currents and waves to drive electrolysis, which accretes minerals and speeds coral growth.
+- How it works: Kinetic generators power mineral accretion (calcium carbonate) on the ceramic structure, which also shelters juvenile fish.
+- Video: https://www.youtube.com/watch?v=ppD3TJ4X8K4
+- Images: https://ars.electronica.art/starts-prize/files/2024/06/korallysis_3_2-c-gilberto-esparza-1024x576.jpg
+- Project page: https://korallysis.org
 
 #### SCOBY Breastplate: Slowly Growing a Microbial Interface — Fiona Bell, Mirela Alistar (2023)
 - Type: Artwork · Organisms: Bacteria & microbes, Fungi, Human body
@@ -7276,6 +9480,14 @@ Devices and displays with living organisms inside, and how people care for them.
 - How it works: Drosophila live in a chamber with pigmented food over paper; a camera with a CNN classifies the resulting marks in real time.
 - Images: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/582971c13ee3ee126545f835/standard_FlyPrinter_Nikolaj.jpg
 - Project page: https://exhibitions.hybridmatters.net/works/fly-printer-extended
+
+#### Mutua — Southern California Institute of Architecture (SCI-Arc) Biodesign Challenge team (2016)
+- Type: Speculative design · Organisms: Slime mould, Fungi
+- Idea: Let organisms that react to their surroundings become the home's sensor display.
+- What it is: A wall panel for the home on which lichen or slime mould grows, acting both as a living artwork and as a biosensor that shows changes in the indoor environment.
+- How it works: Lichen and slime mould respond visibly to humidity, light and pollution, so their growth patterns on the panel read out indoor conditions (visualised speculatively).
+- Video: https://vimeo.com/173535470
+- Project page: https://www.biodesignchallenge.org/sci-arc
 
 #### The Foragers — Heather Barnett (2016)
 - Type: Artwork · Organisms: Insects
@@ -7532,7 +9744,7 @@ Plants as touch sensors, displays, antennas and robots.
 - What it is: Plant.play() is a pet-simulation game whose only player is a living plant: its bioelectrical signals, environment and daily rhythm drive the caregiving actions while humans watch.
 - How it works: Plant bioelectrical signals, environmental sensors and circadian rhythms feed a game; deployed in a four-day exhibition with interviews.
 - Paper: https://doi.org/10.1145/3772318.3791373 (CHI 2026)
-- Images: https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/7-Figure4-1.png https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/4-Figure2-1.png https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/9-Figure6-1.png
+- Images: https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/7-Figure4-1.png https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/4-Figure2-1.png
 
 #### Origin — Thijs Biersteker (2025)
 - Type: Artwork · Organisms: Plants
@@ -7630,6 +9842,14 @@ Plants as touch sensors, displays, antennas and robots.
 - How it works: Prompts on humanity and planetary politics are fed to GPT-3; outputs are encoded as plant sounds and decoded through a mobile app. Made with Lauria Clarke.
 - Paper: https://doi.org/10.1145/3591196.3596828 (Creativity & Cognition 2023)
 - Images: https://harpreetsareen.com/wp-content/uploads/2023/08/download-3.jpeg
+
+#### Phytosphere — Hang Su (2023)
+- Type: Speculative design · Organisms: Plants
+- Idea: Give plants agency over where they go.
+- What it is: Six plant–machine hybrids in which plants' own bioelectric signals control robotic bodies, letting them move and adjust their environment within a plant community.
+- How it works: Electrodes read plant bioelectric potentials and map them to motors that move pots toward light or water.
+- Images: https://content.gp-award.com/assets/media/award23/1-phytosphere_blogLarge.jpg https://content.gp-award.com/assets/media/award23/10-phytosphere_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/phytosphere
 
 #### Plant Playmate — Bingjie Gao (2023)
 - Type: Research prototype · Organisms: Plants, Human body
@@ -7874,6 +10094,14 @@ Plants as touch sensors, displays, antennas and robots.
 - Images: https://news.mit.edu/sites/default/files/images/201712/MIT-Glowing-Plants.jpg
 - Project page: https://news.mit.edu/2017/engineers-create-nanobionic-plants-that-glow-1213
 
+#### Living Light — Nova Innova (2017)
+- Type: Product & platform · Organisms: Plants, Bacteria & microbes
+- Idea: Everyday electricity could come from the microbes around a plant's roots.
+- What it is: A lamp powered by the living plant and soil bacteria inside it; the light turns on when you touch the plant.
+- How it works: A plant microbial fuel cell: bacteria in the soil break down organic compounds released by roots and release electrons that are harvested by electrodes.
+- Images: https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-3-Nova-Innova-1024x512.jpg https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-2-Nova-Innova-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/the-living-light/
+
 #### EmotiPlant: Human-Plant Interaction for Older Adults — Leonardo Angelini (2016)
 - Type: Paper · Organisms: Plants
 - Idea: A plant that 'says' how it feels makes caring easier and more social.
@@ -7935,6 +10163,14 @@ Plants as touch sensors, displays, antennas and robots.
 - How it works: A plant-manipulation system controls light, water and other conditions so that growth changes encode data; four experiments test the design space.
 - Paper: https://doi.org/10.1145/2702613.2732770 (CHI 2015 EA)
 - Project page: https://doi.org/10.1145/2702613.2732770
+
+#### Cactunes — Pierre Charreau, Martin Hertig & Pauline Lemberger (2015)
+- Type: Research prototype · Organisms: Plants
+- Idea: A plant you avoid touching can become an instrument you play.
+- What it is: Household cacti fitted with touch sensors and audio devices become musical instruments, challenging the reflex not to touch them.
+- How it works: Capacitive sensing through the cactus spines triggers sounds from a speaker base.
+- Video: https://www.youtube.com/watch?v=uzowZxKJ80k
+- Project page: https://web.archive.org/web/20210515055322/https://www.globalgradshow.com/project/cactunes/
 
 #### Electronic Plants — Eleni Stavrinidou (2015)
 - Type: Paper · Organisms: Plants
@@ -8225,6 +10461,14 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Paper: https://doi.org/10.1371/journal.pone.0328965 (PLOS One)
 - Images: https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001
 - Project page: https://news.osu.edu/powered-by-mushrooms-living-computers-are-on-the-rise/
+
+#### Interwoven — Jonne Verheij & Lidewei Reitsma (2024)
+- Type: Artwork · Organisms: Fungi
+- Idea: Make a fungus's electrical life perceptible to people.
+- What it is: An installation that measures the electrical impulses fungi use to signal in their mycelial networks and translates them into projection and sound; touching the fungus changes the signal.
+- How it works: Electrodes in the substrate record spiking potentials, which drive generative visuals and audio.
+- Images: https://content.gp-award.com/assets/media/award24/0-interwoven_blogLarge.jpg https://content.gp-award.com/assets/media/award24/2-interwoven_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/interwoven
 
 #### Tracing slime mold — Netta Ofer, Mirela Alistar (2024)
 - Type: Paper · Organisms: Slime mould
@@ -8643,6 +10887,15 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Images: https://www.badaward.nl/imager/assets/site/8190/Microbial-Prophetesses-Still-Video-Wouter-3_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8191/Microbial-Prophetesses-Still-Video-Wouter-1_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/carla-alcal%C3%A0-badias-laura-villanueva
 
+#### Aquacycl BioElectrochemical Treatment — Aquacycl (2023)
+- Type: Product & platform · Organisms: Bacteria & microbes
+- Idea: Treatment plants could be power sources run by microbes.
+- What it is: Wastewater treatment that uses naturally occurring bacteria in microbial fuel cells to break down organic pollutants while generating a little electricity.
+- How it works: Electroactive bacteria oxidise organics at anodes, transferring electrons through an external circuit.
+- Video: https://www.youtube.com/watch?v=ZekQeI-AJQs
+- Images: https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-AQUACYCLPAGE-Carousel-01-16_9.jpg
+- Project page: https://www.aquacycl.com/
+
 #### Cyano-chromic Interface: Aligning Human-Microbe Temporalities Towards Noticing and Attending to Living Artefacts — Jiwei Zhou, Elvin Karana, Raphael Kim (2023)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Close the time gap between microbes and people with a display that speaks at human speed.
@@ -8676,6 +10929,14 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - How it works: Systematic review of HCI and art artefacts with microorganisms, plus hands-on studies with iridescent Flavobacteria.
 - Paper: https://doi.org/10.1145/3544548.3581417 (CHI 2023)
 - Video: https://www.youtube.com/watch?v=x_ZvWRkyFuE
+
+#### The Soothing Cup — Lucrezia Alessandroni (2023)
+- Type: Research prototype · Organisms: Bacteria & microbes, Human body, Algae
+- Idea: Intimate products can be designed as relationships with microbes.
+- What it is: A menstrual cup coated with a seaweed-based hydrogel plus an incubator in which users grow anti-inflammatory bacteria on their own cup, making a care ritual with microbes.
+- How it works: Probiotic bacteria are cultured on an alginate-type hydrogel layer before use.
+- Images: https://content.gp-award.com/assets/media/award23/1-the-soothing-cup_blogLarge.jpg
+- Project page: https://www.gp-award.com/en/projects/the-soothing-cup
 
 #### Utter — Paul Vanouse (2023)
 - Type: Artwork · Organisms: Bacteria & microbes
@@ -8762,6 +11023,14 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Paper: https://doi.org/10.1145/3546155.3547285 (NordiCHI 2022)
 - Images: https://static.wixstatic.com/media/f6397f_dda67aa2802e414299641a89c94c17e3~mv2.jpeg https://static.wixstatic.com/media/f6397f_16b7924c9b184dd296e86f610efa831e~mv2.jpeg https://payload.cargocollective.com/1/16/540742/13689755/Electric-Life-2.0.01_1250.jpg
 - Project page: https://doi.org/10.1145/3546155.3547285
+
+#### Power Mutualism — Keer Hu, Tongji University College of Design and Innovation Biodesign Challenge team (2022)
+- Type: Research prototype · Organisms: Algae, Bacteria & microbes, Human body
+- Idea: Wearables can run on a mutualistic exchange with living microbes.
+- What it is: A wearable that houses cyanobacteria: the body supplies moisture from sweat and breath, and the microbes' photosynthesis generates a small electrical current in return.
+- How it works: A biophotovoltaic cell with cyanobacteria collects moisture from the wearer and converts light into electricity.
+- Images: https://www.jamesdysonaward.org/Document/77da4a75-83d5-4b34-a4d1-5dee635791a7/dyson%e5%9b%be%e7%89%87001.jpeg https://www.jamesdysonaward.org/Document/b5f50ab8-66f6-411d-a2a5-32b32df2489f/dyson%e5%9b%be%e7%89%87002.jpeg
+- Project page: https://www.jamesdysonaward.org/en-GB/2021/project/power-mutualism/
 
 #### Microbe-HCI: Introduction and Directions for Growth — Raphael Kim, Pat Pataranutaporn, Ingmar Riedel-Kruse, Mirela Alistar (2021)
 - Type: Paper · Organisms: Bacteria & microbes
@@ -9842,6 +12111,14 @@ Computing and storing information with DNA, proteins and chemical reactions.
 - Video: https://www.youtube.com/watch?v=-Rdh31Cs3gs
 - Images: https://next.ink/wp-content/uploads/2024/06/image-43.png https://next.ink/wp-content/uploads/2024/06/image-46-1024x576.png
 - Project page: https://www.biomemory.com/
+
+#### Between the Lines — Sarah Selby (2022)
+- Type: Artwork · Organisms: DNA & molecules, Human body
+- Idea: DNA storage can smuggle human experience into systems that reduce people to risk scores.
+- What it is: Stories of people subjected to the UK border regime are encoded in synthetic DNA and slipped back into the bureaucratic paperwork that governs them.
+- How it works: Testimonies are converted to DNA sequences, synthesised and mixed into ink used on administrative forms.
+- Images: https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_btl_lab-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_installation-1024x512.jpg
+- Project page: https://www.betweenthelines.org.uk
 
 #### Nonlinear decision-making with enzymatic neural networks — Yannick Rondelez (2022)
 - Type: Paper · Organisms: DNA & molecules
@@ -11868,6 +14145,7 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - What it is: Musical instruments and interfaces designed around grey parrots' bodies, hearing and curiosity, tested as auditory enrichment.
 - How it works: Iterative prototypes of tangible sound instruments evaluated with a parrot group, following an animal-centred process.
 - Paper: https://doi.org/10.1145/3371049.3371062 (ACI 2019)
+- Video: https://www.youtube.com/watch?v=5tY7D6zpsB8
 
 #### Computer tasks for great apes promote functional naturalism in a zoo setting — Christopher Flynn Martin (2018)
 - Type: Paper · Organisms: Animals
@@ -12403,6 +14681,14 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - Paper: https://doi.org/10.1145/3565995.3566036 (ACI 2022)
 - Images: https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png
 
+#### The (m)Otherhood of Meep (the bat translator) — Alinta Krauth (2022)
+- Type: Artwork · Organisms: Animals
+- Idea: Translation between species can be poetic rather than literal, and still build empathy.
+- What it is: An AI interpreter that turns the calls of grey-headed flying foxes into poetic text in real time, drawing on the artist's experience as a bat rescuer.
+- How it works: A machine-learning model trained on categorised flying-fox vocalisations maps calls to phrases, displayed via TensorFlow visuals.
+- Images: https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_Image2-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_OutdoorTest3-1024x512.jpg
+- Project page: https://www.alintakrauth.com/otherhood
+
 #### The Sounds of Life: How Digital Technology Is Bringing Us Closer to the Worlds of Animals and Plants — Karen Bakker (2022)
 - Type: Book & essay · Organisms: Animals, Plants
 - Idea: Listening technologies can extend our senses but also extend our power over other species.
@@ -12701,6 +14987,14 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Images: https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg
 - Project page: https://www.projectceti.org/blog-posts/new-methods-for-whale-tracking-and-rendezvous-using-autonomous-robots
 
+#### WildWatch — WildWatch team (NID Ahmedabad) (2024)
+- Type: Research prototype · Organisms: Animals
+- Idea: Roads can be designed to notice other species.
+- What it is: A speed-control and wildlife-detection system for animal crossings on forest roads: proximity sensors detect approaching animals and trigger lights and warnings to prevent collisions.
+- How it works: Roadside sensor posts detect animal movement and activate illumination and driver warnings in low visibility.
+- Images: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/666x720/5f7e1845c6/wildwatch.png
+- Project page: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+
 #### Advancing Cattle Health Monitoring through ACI-Driven Wearable Sensor Technology: A Case Study of Leg-Worn System Development — Fangyuan Chang (2023)
 - Type: Research prototype · Organisms: Animals
 - Idea: Livestock wearables should be designed for the cow's comfort and the farm's routines.
@@ -12738,6 +15032,14 @@ Sensing, tracking and living alongside wild and farmed animals.
 - How it works: A student design project at NTNU developed within a study of cohabitation with birds, bees and bats in the city.
 - Paper: https://doi.org/10.21606/drs.2022.770 (DRS 2022)
 - Project page: https://artifact-archive.org/whole-archive
+
+#### HIIVE — Philip Potthast (2021)
+- Type: Product & platform · Organisms: Insects
+- Idea: Design the hive for the bees first and the beekeeper second.
+- What it is: A beehive designed around the natural behaviour of honeybees and built from sustainable materials, with low-energy sensors that let beekeepers monitor the colony without opening the hive often.
+- How it works: A thick, insulated, tree-cavity-like body houses sensors for temperature, humidity and weight.
+- Images: https://www.jamesdysonaward.org/Document/05423d37-dcfc-48b7-9842-9ba9122d3cc7/dyson001.jpg https://www.jamesdysonaward.org/Document/642cf8e3-9139-49b3-9ed8-f2447e7634f1/dyson002.jpg
+- Project page: https://www.jamesdysonaward.org/en-GB/2021/project/hiive/
 
 #### Smart Bee Houses — Nancy Smith (2021)
 - Type: Research prototype · Organisms: Insects
@@ -12833,6 +15135,14 @@ Sensing, tracking and living alongside wild and farmed animals.
 - Paper: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
 - Images: https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png
 - Project page: https://artifact-archive.org/whole-archive
+
+#### Bee2Bee – Pollination of Monocultures — Julian Schwarze (2016)
+- Type: Research prototype · Organisms: Insects
+- Idea: Pollination services need care infrastructure that moves with the crops.
+- What it is: A mobile, quick-to-assemble tent-like system for honeybee colonies in monoculture farmland, with sensors that track hive temperature, weight and flight activity.
+- How it works: Sensor data on colony health help beekeepers time treatments without opening hives.
+- Images: http://web.archive.org/web/2019im_/https://www.jamesdysonaward.org/Document/fb5c3143-cdd8-4a71-908b-34cb216a442f/usr-3365-img-1468686529-48b3e.jpg
+- Project page: http://web.archive.org/web/2019/https://www.jamesdysonaward.org/en-GB/2016/project/bee2bee-pollination-monocultures-new-beekeeper/
 
 #### Designing for wearability in animal biotelemetry — Patrizia Paci, Clara Mancini (2016)
 - Type: Paper · Organisms: Animals
@@ -13297,7 +15607,7 @@ Designs that slow people down and help them notice, attend to and feel connected
 - What it is: A home prototype, designed after a cultural probes study, that encourages city dwellers to notice, value and spend more time with the nature near where they live, and brings nature's restorative effects indoors.
 - How it works: Cultural probes with urban residents, followed by a tangible prototype that likely links indoor life with nearby nature.
 - Paper: https://doi.org/10.1145/3490149.3502426 (TEI 2022)
-- Images: https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/6-Figure6-1.png
+- Images: https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png
 
 #### Nga manawataki o te koiora: Biorhythms — Rewa Wright (2022)
 - Type: Artwork · Organisms: Plants, Human body
@@ -13326,6 +15636,15 @@ Designs that slow people down and help them notice, attend to and feel connected
 - Paper: https://doi.org/10.21606/nordes.2021.13 (Nordes 2021)
 - Images: https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg
 - Project page: https://artifact-archive.org/whole-archive
+
+#### Forest Crayons — Playfool (2021)
+- Type: Product & platform · Organisms: Plants
+- Idea: Let children learn a forest's species through its colours.
+- What it is: Crayons pigmented entirely with powdered wood, bark and leaves from Japanese forests, each colour named after its source tree species.
+- How it works: Forest by-products are dried, milled and mixed with wax binders.
+- Video: https://www.youtube.com/watch?v=NWkLR_KYm8k
+- Images: https://static.dezeen.com/uploads/2021/11/1-Deep-turquoise-crayon-made-fro.jpeg https://static.dezeen.com/uploads/2021/09/Forest-Crayons.jpeg
+- Project page: https://www.dezeen.com/awards/2021/winners/forest-crayons/
 
 #### Circa — Circa (Ted Hunt) (2019)
 - Type: Product & platform · Organisms: Ecosystems
@@ -13516,7 +15835,7 @@ Interaction design for trails, forests, parks, mountains and water.
 - What it is: A CHI paper in which interaction designers and landscape architects installed interactive play technology as part of a schoolyard and observed how it mixed with play with natural materials.
 - How it works: Schoolyard field trial of play technology integrated into a natural outdoor setting.
 - Paper: https://doi.org/10.1145/2851581.2892416 (CHI EA 2016)
-- Images: https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/5-Figure7-1.png
+- Images: https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png
 
 #### Pokémon Go — Niantic (2016)
 - Type: Product & platform · Organisms: Animals, Human body
@@ -13596,6 +15915,23 @@ Interaction design for trails, forests, parks, mountains and water.
 
 Tools that let people identify, record and monitor species and ecosystems.
 
+#### NatureMetrics eDNA monitoring — NatureMetrics (2024)
+- Type: Product & platform · Organisms: DNA & molecules, Ecosystems
+- Idea: Traces of DNA let many species be counted without seeing them.
+- What it is: Biodiversity is measured from environmental DNA shed by organisms into water and soil; sequencing a sample identifies which species live there.
+- How it works: Field kits filter water or soil; lab metabarcoding matches DNA sequences to reference databases.
+- Video: https://www.youtube.com/watch?v=FkMCZR8M930
+- Images: https://earthshotprize.org/wp-content/uploads/2024/09/Nature-Metrics-Hero-1920x1080-@72DPI.jpg
+- Project page: https://www.naturemetrics.com/
+
+#### Colores del Rio — Melissa Ortiz (2023)
+- Type: Research prototype · Organisms: Plants, Ecosystems
+- Idea: Agricultural waste can become a shared instrument for caring for a river.
+- What it is: A citizen-science tool that uses unwanted red cabbage from local farms so that young people can test river water for pH changes that signal contamination.
+- How it works: Anthocyanin pigments from dehydrated red cabbage change colour with pH; they are embedded in a hand-held testing tool.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875738957-AB7A77P0PIW9E4HO0G9Q/Olivia+at+river+with+tool+2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875723403-RPY19QL1SAXV1VNR5NIA/ColoresDelRio_CCA-Ortiz_1.jpg
+- Project page: https://www.biodesignchallenge.org/cca-design-2023
+
 #### Ocean Vision AI / FathomNet — MBARI (2023)
 - Type: Product & platform · Organisms: Animals, Ecosystems
 - Idea: The ocean is too big to watch alone; share both the images and the labelling.
@@ -13663,6 +15999,14 @@ Tools that let people identify, record and monitor species and ecosystems.
 - How it works: On-device image recognition model derived from iNaturalist data, with location-based species suggestions and challenges.
 - Video: https://www.youtube.com/watch?v=i56_R8z1N28
 - Project page: https://www.inaturalist.org/pages/seek_app
+
+#### Sounding Soil — Marcus Maeder (2017)
+- Type: Artwork · Organisms: Ecosystems, Animals
+- Idea: Listening to soil makes its hidden life and health audible.
+- What it is: An art, research and citizen-science project that records the sounds of soil animals, roots and water with needle microphones and shows how soil life sounds different across Switzerland.
+- How it works: Highly sensitive probe microphones inserted in the ground record soil acoustics; a touring container and participatory recordings share them with the public.
+- Images: https://ars.electronica.art/starts-prize/files/2020/06/SoundingSoil-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/sounding-soil/
 
 #### Wildbook — Wild Me (2017)
 - Type: Product & platform · Organisms: Animals
@@ -13876,7 +16220,7 @@ Technology for growing food and plants and for caring for them day to day.
 - What it is: A CHI paper, with Amanda Lazar, on how experienced gardeners share embodied skills and help others attune to sensory cues, and what social technology could add.
 - How it works: Participant observation with nine experienced gardeners aged 22–71.
 - Paper: https://doi.org/10.1145/3313831.3376246 (CHI 2020)
-- Images: https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/8-Figure7-1.png
+- Images: https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png
 
 #### Of Smarthomes, IoT Plants, and Implicit Interaction Design — Ilhan Aslan (2019)
 - Type: Research prototype · Organisms: Plants, Human body
@@ -13884,7 +16228,7 @@ Technology for growing food and plants and for caring for them day to day.
 - What it is: A TEI paper by Björn Bittner, Ilhan Aslan and colleagues that augments houseplants' non-verbal signals so they remind people to water them, instead of automating the watering away.
 - How it works: Field study with 24 participants comparing an augmented-reality design with embedded physical computing on the plants.
 - Paper: https://doi.org/10.1145/3294109.3295618 (TEI 2019)
-- Images: https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/5-Figure4-1.png
+- Images: https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png
 
 #### Insectology: Food for Buzz — Matilde Boelhouwer (2017)
 - Type: Research prototype · Organisms: Insects
@@ -13942,6 +16286,7 @@ Technology for growing food and plants and for caring for them day to day.
 - What it is: An interactive system at Spitalfields City Farm in London: visitors touch plants with an RFID watering can and hear them talk about their care, uses and histories in the voices of farm staff and volunteers.
 - How it works: RFID-augmented watering can triggering recorded plant voices, developed with a grassroots food-growing community.
 - Paper: https://doi.org/10.1145/2559206.2574792 (CHI EA 2014)
+- Video: https://www.youtube.com/watch?v=ygndjz_Zm-8
 
 #### Parrot Flower Power — Parrot (2013)
 - Type: Product & platform · Organisms: Plants
@@ -13982,7 +16327,7 @@ Experiences that let people perceive the world as other beings do: echolocation,
 - What it is: A CHI paper testing a multisensory VR experience that transitions people from their own body into a tree's perspective, and its effect on nature connectedness.
 - How it works: Mixed-methods VR study (N = 20) varying transitional elements and multisensory stimuli; both raised presence, embodiment and nature connectedness, with emotional effects lasting a week.
 - Paper: https://doi.org/10.1145/3772318.3790282 (CHI 2026)
-- Images: https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/9-Figure5-1.png
+- Images: https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png
 
 #### EchoVision + Nocturnal Fugue — Jiabao Li (2024)
 - Type: Artwork · Organisms: Animals
@@ -13993,6 +16338,14 @@ Experiences that let people perceive the world as other beings do: echolocation,
 - Video: https://www.youtube.com/watch?v=7LqsKpEZy4g
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg
 - Project page: https://www.jiabaoli.org/nocturnal-fugue
+
+#### Seeing Echoes in the Mind of a Whale — Marshmallow Laser Feast (2024)
+- Type: Artwork · Organisms: Animals
+- Idea: Experience the ocean as a world mapped by sound rather than sight.
+- What it is: A large audiovisual installation that immerses visitors in the sound-based perception of bottlenose dolphins, humpback whales and sperm whales recorded along the Spanish coast.
+- How it works: Hydrophone recordings and scientific data on echolocation are turned into spatial sound and visuals.
+- Images: https://ars.electronica.art/starts-prize/files/2025/05/seeing_echoes_in_the_mind_of_a_whale_mlf_starts_prize_6-1024x576.jpg
+- Project page: https://marshmallowlaserfeast.com/project/seeing-echoes-in-the-mind-of-the-whale
 
 #### Treesense — Michaela Honauer (2024)
 - Type: Research prototype · Organisms: Plants, Human body
@@ -14029,6 +16382,15 @@ Experiences that let people perceive the world as other beings do: echolocation,
 - Paper: https://doi.org/10.1145/3173225.3173316 (TEI 2018)
 - Images: https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png
 - Project page: https://artifact-archive.org/whole-archive
+
+#### Bug's Beat — Yumi Sasaki (2016)
+- Type: Artwork · Organisms: Insects
+- Idea: Change the listener's scale and a bug becomes a giant.
+- What it is: An installation that amplifies the footsteps of a small insect through directional speakers and a vibrating chair, so the listener hears and feels each step.
+- How it works: Contact microphones under the insect's arena pick up footsteps, fed to directional speakers and vibration transducers.
+- Video: https://vimeo.com/208145212
+- Images: https://ars.electronica.art/starts-prize/files/2017/05/bugsbeat.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/bugs-beat/
 
 #### GoatMan: A Holiday from Being Human — Thomas Thwaites (2016)
 - Type: Speculative design · Organisms: Animals, Human body
@@ -14160,6 +16522,14 @@ Making air, water, soil, climate and biodiversity data felt in everyday life.
 - Video: https://www.youtube.com/watch?v=NBnjZc1JOrs
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Salt Minds — College for Creative Studies Biodesign Challenge team (2024)
+- Type: Speculative design · Organisms: Ecosystems
+- Idea: A shared colour language can make an invisible pollutant legible.
+- What it is: An addendum to the Munsell soil colour system that uses colour as evidence of salt damage to freshwater ecosystems, meant to connect scientists, policymakers and the public.
+- How it works: Soil and sediment samples affected by road salt are catalogued and translated into colour chips.
+- Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644770738-RY1DC5B6L3C6GCUKX7TY/Screenshot+2024-06-17+at+1.17.54+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644772306-IQL7KKUG72RJSRO3Q9OH/Screenshot+2024-06-17+at+1.18.07+PM.png
+- Project page: https://www.biodesignchallenge.org/college-for-creative-studies-2024
+
 #### Me, the Hill and my Browser — Patricia Ciobanu (2022)
 - Type: Research prototype · Organisms: Ecosystems, Plants
 - Idea: Let slow natural change leak into fast screen time.
@@ -14186,6 +16556,14 @@ Making air, water, soil, climate and biodiversity data felt in everyday life.
 - Video: https://www.youtube.com/watch?v=mMYzM4_MZI4
 - Images: https://solarprotocol.net/images/full-map.jpeg
 - Project page: https://solarprotocol.net/
+
+#### SpreeBerlin – The Voice of a River — Jakob Kukula (2021)
+- Type: Research prototype · Organisms: Ecosystems
+- Idea: A river can speak for itself if we build it a microphone.
+- What it is: A sensing buoy, app and website that let Berlin's river Spree report its pollution and state to citizens, giving the river a 'political' voice.
+- How it works: Measuring devices on a buoy record water quality and stream it to an accessible public interface.
+- Images: https://ars.electronica.art/starts-prize/files/2022/06/SpreeBerlin_Couple-1024x512.jpg
+- Project page: https://ars.electronica.art/starts-prize/en/spreeberlin/
 
 #### Unequal Hours — Anna Madeleine Raupach (2021)
 - Type: Artwork · Organisms: Ecosystems, Animals, Plants
@@ -14458,7 +16836,7 @@ Making air, water, soil, climate and biodiversity data felt in everyday life.
 - What it is: A mobile app that senses how people travel and shows green trips on the phone's wallpaper as a growing tree or a polar bear whose ice floe expands.
 - How it works: Semi-automatic activity sensing with a wearable sensor and phone, plus ambient wallpaper; three-week field study with 13 participants.
 - Paper: https://doi.org/10.1145/1518701.1518861 (CHI 2009)
-- Images: https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/6-Figure5-1.png
+- Images: https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png
 
 #### Weather Scores — Nathalie Miebach (2009)
 - Type: Artwork · Organisms: Ecosystems
@@ -14590,7 +16968,7 @@ Nature rendered, simulated or augmented: VR forests, digital twins, generative e
 - What it is: An experiment comparing six minutes outdoors in nature, a 360-degree VR video recorded at the same spot, and an indoor setting: both nature conditions were restorative, but positive mood rose only outdoors.
 - How it works: Experiment with undergraduate students measuring skin conductance, restorativeness and mood before and after exposure.
 - Paper: https://doi.org/10.3389/fpsyg.2019.02667 (Frontiers in Psychology 2020)
-- Images: https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/3-Figure1-1.png
+- Images: https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png
 
 #### Salvaging Birds — Maya Livio (2019)
 - Type: Artwork · Organisms: Animals
@@ -14903,7 +17281,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - What it is: A DIS paper by Shannon Rodgers and colleagues describing a 'phenology circle': an online, global gardening community the researchers ran for over two years to attune to the rhythms of plants, animals and one another.
 - How it works: Online community of practice (N = 42) sharing over 1,200 images and posts; reflection on eight core members in the backstage of participatory design research.
 - Paper: https://doi.org/10.1145/3643834.3660694 (DIS 2024)
-- Images: https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/8-Figure4-1.png
+- Images: https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png
 
 #### Seeding a Repository of Methods-To-Be for Nature-Entangled Design Research — Oscar Tomico, Ferran Altarriba Bertran (2024)
 - Type: Paper · Organisms: Ecosystems, Plants, Human body
@@ -15046,7 +17424,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jiabao Li** (21) — Artist and designer; Associate Professor, Northeastern University (previously UT Austin, Stanford; Apple designer). Artist, inventor and professor (Harvard GSD alum) whose installations, XR works, bio-art and performances deal with glaciers, bats, mice, squid, elephants and plankton. She co-founded Endless Health and ran the Ecocentric Future Lab at UT Austin. https://www.jiabaoli.org
 - **Ron Wakkary** (19) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
 - **Ani Liu** (15) — Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania. Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care. https://ani-liu.com
-- **Neri Oxman** (13) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
+- **Neri Oxman** (14) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
 - **Project CETI** (13) — Cetacean Translation Initiative, led by David Gruber. Project CETI is an interdisciplinary nonprofit that combines bioacoustics, robotics and machine learning to understand sperm whale communication off Dominica. https://www.projectceti.org
 - **Alexandra Daisy Ginsberg** (12) — Artist; works with synthetic biology, conservation and AI. Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators. https://www.daisyginsberg.com
 - **Andrew Adamatzky** (12) — Professor of Unconventional Computing, UWE Bristol; director of the Unconventional Computing Laboratory. Computer scientist who builds computers from slime mould, fungi, proteinoids, kombucha and chemical reactions, and edits the International Journal of Unconventional Computing. https://uncomp.uwe.ac.uk/
@@ -15066,16 +17444,20 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Ionat Zurr** (10) — Artist and researcher; co-founder of The Tissue Culture & Art Project. Ionat Zurr is an artist and academic at the University of Western Australia who co-developed the idea of the semi-living. https://tcaproject.net
 - **Sarah Webber** (10) — Researcher, School of Computing and Information Systems, University of Melbourne. HCI researcher who studies digital enrichment for zoo animals and how visitors respond to it.
 - **Špela Petrič** (10) — Artist with a background in biology. Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans and plants. https://www.spelapetric.org
+- **Elvin Karana** (9) — Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts. Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi. https://www.tudelft.nl/en/ide/about-ide/people/karana-e
 - **Ingmar Riedel-Kruse** (9) — Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering. Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.
 - **Marcus Foth** (9) — Professor of Urban Informatics, QUT Design Lab, Queensland University of Technology. Urban informatics researcher working on smart cities, media architecture and more-than-human urbanism.
 - **Raphael Kim** (9) — Designer and researcher of human–microbe interaction; PhD Queen Mary University of London; postdoc TU Delft. Raphael Kim designs 'biotic games' driven by living moulds and bacteria and helped found the Microbe-HCI community.
 - **Superflux** (9) — Speculative design and futures studio founded by Anab Jain and Jon Ardern. Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI. https://superflux.in
 - **The Tissue Culture & Art Project** (9) — Artistic research project by Oron Catts and Ionat Zurr (since 1996). TC&A grows living tissue into sculptures, garments and food to question how biotechnology treats life. https://tcaproject.net
-- **Elvin Karana** (8) — Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts. Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi. https://www.tudelft.nl/en/ide/about-ide/people/karana-e
 - **Interspecifics** (8) — Independent artistic research collective (Leslie García, Paloma López and others). Interspecifics is a Mexico City collective that turns bioelectric and behavioural signals of microorganisms, plants and slime moulds into sound, light and machine-learning systems.
 - **Ivan Henriques** (8) — Artist and researcher making bio-machines; based in the Netherlands. Ivan Henriques builds hybrid machines powered or controlled by living organisms: algae-eating floating robots, microbial-fuel-cell rafts and bacteria-driven tensegrity structures.
 - **Margot Brereton** (8) — Professor of Interaction Design, Queensland University of Technology (QUT). Interaction design researcher whose QUT group builds bird-listening devices, ecoacoustic citizen science tools and garden technologies with communities. https://research.qut.edu.au/
+- **Mediated Matter Group (MIT Media Lab)** (8) — Research group at the MIT Media Lab directed by Neri Oxman (2010–2020). Mediated Matter worked at the intersection of computational design, digital fabrication, materials science and synthetic biology. https://www.media.mit.edu/groups/mediated-matter/overview/
+- **Robertina Šebjanič** (8) — Artist working on aquatic environments, interspecies relations and underwater sound. Robertina Šebjanič makes installations and performances about marine life, underwater noise and pollution, working with jellyfish, sea urchins, olms and hydrophone recordings. https://robertina.net
+- **Saša Spačal** (8) — Artist. Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies. https://www.agapea.si
 - **Steve Benford** (8) — Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham. Co-founder of the Mixed Reality Lab, known for performance-led research in the wild with artists such as Blast Theory, and for the trajectories framework. Recent work studies robots, AI and animals through the artwork Cat Royale. https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
+- **Theresa Schubert** (8) — Artist between media art and bioart; PhD, Bauhaus-University Weimar. Berlin-based artist who builds installations with slime mould, fungi, algae and microbes, often coupled to sensors, simulations and generative sound. https://www.theresaschubert.com/
 - **Anna Dumitriu** (7) — Artist working with bacteria, infectious disease and biotechnology. Anna Dumitriu is a British artist who combines textiles and craft with microbiology in long collaborations with scientists. https://annadumitriu.co.uk
 - **Anna Zamansky** (7) — Associate Professor, Department of Information Systems, University of Haifa; heads the Tech4Animals lab. Researcher on technology for animals, from dog activity trackers to AI for animal behaviour and welfare.
 - **C-Lab (Laura Cinti & Howard Boland)** (7) — Art-science studio. London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology. https://www.c-lab.co.uk
@@ -15084,27 +17466,25 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Iohanna Nicenboim** (7) — Designer and researcher, TU Delft; works on more-than-human design and AI. Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them. https://iohanna.com/
 - **Larissa Pschetz** (7) — Reader in Interaction Design, University of Edinburgh; leads research on temporal design and biodesign. Larissa Pschetz studies how design shapes time and how designers can account for the times of other species, from microbes in labs to crops in fields.
 - **Marcus Carter** (7) — Human-Computer Interaction researcher, University of Sydney. Game and HCI researcher who builds digital enrichment for zoo animals, including orangutans at Melbourne Zoo.
-- **Mediated Matter Group (MIT Media Lab)** (7) — Research group at the MIT Media Lab directed by Neri Oxman (2010–2020). Mediated Matter worked at the intersection of computational design, digital fabrication, materials science and synthetic biology. https://www.media.mit.edu/groups/mediated-matter/overview/
 - **Michael Levin** (7) — Distinguished Professor of Biology, Tufts University; director of the Allen Discovery Center. Developmental biologist studying bioelectric signalling and how cells collectively decide what shape to build. https://drmichaellevin.org/
 - **Patricia Pons** (7) — Researcher, Universitat Politècnica de València. Researcher who builds intelligent playful environments for cats and other animals using depth cameras.
 - **Paul Vanouse** (7) — Artist; professor at the University at Buffalo. Paul Vanouse is an American artist who uses molecular biology techniques in performances. https://www.paulvanouse.com
-- **Robertina Šebjanič** (7) — Artist working on aquatic environments, interspecies relations and underwater sound. Robertina Šebjanič makes installations and performances about marine life, underwater noise and pollution, working with jellyfish, sea urchins, olms and hydrophone recordings. https://robertina.net
-- **Saša Spačal** (7) — Artist. Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies. https://www.agapea.si
 - **Shaowen Bardzell** (7) — Professor, School of Interactive Computing, Georgia Institute of Technology. HCI scholar known for feminist HCI and humanistic approaches; advised several key more-than-human HCI projects.
 - **Studio Ossidiana** (7) — Architecture and design studio founded by Alessandra Covini and Giovanni Bellotti. Studio Ossidiana designs installations, furniture and landscapes for encounters between people and birds, from floating gardens to dovecote towers. https://www.studio-ossidiana.com
 - **Tega Brain** (7) — Artist and environmental engineer; Associate Professor of Integrated Digital Media, New York University. Australian-born artist whose works on ecological time, phenology and 'eccentric engineering' use sensors, data and clocks to rethink environmental systems. https://tegabrain.com
-- **Theresa Schubert** (7) — Artist between media art and bioart; PhD, Bauhaus-University Weimar. Berlin-based artist who builds installations with slime mould, fungi, algae and microbes, often coupled to sensors, simulations and generative sound. https://www.theresaschubert.com/
 - **Yasuaki Kakehi** (7) — Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Kakehi Lab. Yasuaki Kakehi is a media artist and interaction researcher who works with materials, water, light and living matter. https://www.xlab.iii.u-tokyo.ac.jp/
 - **ecoLogicStudio** (7) — Architecture and urban design studio founded by Claudia Pasquero and Marco Poletto. ecoLogicStudio designs architecture with microalgae photobioreactors, combining biology with digital design. https://www.ecologicstudio.com
 - **Achim Menges** (6) — Architect; director of the Institute for Computational Design and Construction (ICD), University of Stuttgart. Achim Menges researches biomimetic, computational and robotic architecture, often with wood and natural fibres. https://www.achimmenges.net/
 - **Andrés Jaque** (6) — Architect; founder of Office for Political Innovation; Dean of Columbia GSAPP. Andrés Jaque is an architect and scholar whose Office for Political Innovation designs architecture as a set of relations between people, technologies, microbes and waters. https://andresjaque.net
 - **Brett J. Kagan** (6) — Chief Scientific Officer, Cortical Labs. Neuroscientist who led the DishBrain study and coined the term Synthetic Biological Intelligence for trained in vitro neural systems. He also writes on the ethics of embodied neural cultures.
 - **Cornell Lab of Ornithology** (6) — Research institute at Cornell University. The Cornell Lab of Ornithology studies birds and runs large citizen-science platforms such as eBird and Merlin. https://www.birds.cornell.edu
+- **Gilberto Esparza** (6) — Artist working with robotics, biotechnology and ecology. Gilberto Esparza builds autonomous bio-machines and instruments powered by bacteria in polluted water, such as Plantas Autofotosintéticas and BioSoNot.
 - **Joe Davis** (6) — Artist; research affiliate at MIT and Harvard Medical School. Joe Davis is an American artist who has worked in molecular biology labs since the 1980s.
 - **Joyce Hwang** (6) — Professor of Architecture, University at Buffalo; director of Ants of the Prairie. Joyce Hwang designs architectural installations that house bats, birds, pollinators and other urban wildlife alongside people. https://www.antsoftheprairie.com
 - **Lining Yao** (6) — Associate Professor, UC Berkeley; director of the Morphing Matter Lab. Lining Yao designs shape-changing materials, including bioLogic, which used living natto bacteria as humidity-driven actuators.
 - **Nadia Campo Woytuk** (6) — Interaction design researcher, KTH Royal Institute of Technology. Nadia Campo Woytuk works on feminist HCI for intimate health, including menstruation and the vaginal microbiome.
 - **Nancy Smith** (6) — HCI researcher; PhD, Indiana University. Researcher who studied hybrid human–nature arrangements such as urban homesteads and their design implications.
+- **Orkan Telhan** (6) — Artist and designer; Chief Information and Data Officer at Ecovative; formerly Associate Professor, University of Pennsylvania. Orkan Telhan makes speculative and functional biodesign, from the Microbial Design Studio hardware to installations about engineered bodies, food and urban microbiomes. https://www.orkantelhan.com/
 - **Paul Coulton** (6) — Chair of Speculative and Game Design, ImaginationLancaster, Lancaster University. Design researcher who uses design fiction and object-oriented ontology to explore the Internet of Things and AI. https://designresearch.works/
 - **Pierre Huyghe** (6) — Artist. French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience. https://www.estherschipper.com/artists/41-pierre-huyghe/
 - **Rachel Armstrong** (6) — Professor of Regenerative Architecture, KU Leuven; formerly Newcastle University. Rachel Armstrong is a British architect and former medical doctor who works with protocells and microbial systems in architecture.
@@ -15112,13 +17492,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Stanislav Roudavski** (6) — Senior Lecturer in Digital Architectural Design, University of Melbourne; leads the Deep Design Lab. Stanislav Roudavski designs habitat structures for birds, bats and other animals with ecologists, using computational design, scanning of old trees and robotic fabrication.
 - **Tau Ulv Lenskjold** (6) — Design researcher, Denmark. Participatory design researcher who experiments with speculative prototypes and relations beyond the human.
 - **Thad Starner** (6) — Professor, School of Interactive Computing, Georgia Institute of Technology. Wearable computing pioneer who co-developed wearables for working dogs and for two-way communication with dolphins.
+- **Alinta Krauth** (5) — Artist and researcher in interspecies art and digital media. Alinta Krauth makes interactive and digital art with and for animals, including enrichment works for wild flying-foxes in care and AI works built on bird song. https://www.alintakrauth.com
 - **Ann Light** (5) — Professor of Design and Creative Technology, University of Sussex; Professor of Interaction Design, Malmö University. Ann Light researches participatory design, care and social change, and has argued for design that responds to ecological and existential crisis.
 - **Donna Haraway** (5) — Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz. Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.
 - **Eduardo Reck Miranda** (5) — Professor of Computer Music, University of Plymouth; head of ICCMR. Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.
 - **Ferran Altarriba Bertran** (5) — Researcher, Escola Universitària ERAM (University of Girona); formerly Tampere University Gamification Group. Play designer who co-designs technology 'from the wild', with forests, rivers and the people who use them.
 - **FinalSpark** (5) — Swiss startup running a remote-access biocomputing platform built on human brain organoids. Founded by Fred Jordan and Martin Kutter, FinalSpark keeps human forebrain organoids on multi-electrode arrays around the clock and lets researchers program them over the internet through its Neuroplatform. https://finalspark.com
-- **Gilberto Esparza** (5) — Artist working with robotics, biotechnology and ecology. Gilberto Esparza builds autonomous bio-machines and instruments powered by bacteria in polluted water, such as Plantas Autofotosintéticas and BioSoNot.
 - **Heather Barnett** (5) — Artist and educator; Pathway Leader, MA Art and Science, Central Saint Martins (UAL). British artist who has worked with the slime mould Physarum polycephalum since 2008 through films, experiments and participatory games about collective intelligence. https://heatherbarnett.co.uk/
+- **Heather Dewey-Hagborg** (5) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping. https://deweyhagborg.com
 - **ICD/ITKE University of Stuttgart** (5) — Institute for Computational Design and Construction and Institute of Building Structures and Structural Design. ICD and ITKE build an annual series of research pavilions that translate biological structures into robotic fabrication. https://www.icd.uni-stuttgart.de
 - **Jenna Sutela** (5) — Artist. Finnish artist who works with microbes, slime moulds and machine learning to explore language and cognition beyond the human. https://jennasutela.com/
 - **Jennifer A. Lewis** (5) — Hansjörg Wyss Professor of Biologically Inspired Engineering, Harvard University. Jennifer Lewis develops printable inks for soft matter at Harvard's Wyss Institute, from vascularised tissue and organ building blocks to hydrogel composites that fold as they swell. https://lewisgroup.seas.harvard.edu/
@@ -15130,7 +17511,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Michelle Westerlaken** (5) — Design researcher; PhD, Malmö University. Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary. https://michellewesterlaken.com/
 - **Natalie Jeremijenko** (5) — Artist and engineer; Associate Professor at NYU; director of the Environmental Health Clinic. Natalie Jeremijenko is an Australian artist-engineer whose projects invite people to act together with fish, trees, birds and robots to improve shared environments.
 - **Netta Ofer** (5) — PhD researcher, Living Matter Lab, ATLAS Institute, CU Boulder. Netta Ofer designs interactions with bioluminescent algae, kombucha and slime mould through organism-centred and first-person methods.
-- **Orkan Telhan** (5) — Artist and designer; Chief Information and Data Officer at Ecovative; formerly Associate Professor, University of Pennsylvania. Orkan Telhan makes speculative and functional biodesign, from the Microbial Design Studio hardware to installations about engineered bodies, food and urban microbiomes. https://www.orkantelhan.com/
 - **Shane Gero** (5) — Founder of the Dominica Sperm Whale Project; Biology Lead of Project CETI. Shane Gero is a whale biologist who has followed the same sperm whale families off Dominica since 2005, building the long-term dataset that Project CETI's AI work relies on. https://www.thespermwhaleproject.org
 - **Shoji Takeuchi** (5) — Professor, Institute of Industrial Science and Graduate School of Information Science and Technology, University of Tokyo; Biohybrid Systems Lab. Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face. https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Steve M. Potter** (5) — Former Associate Professor of Biomedical Engineering, Georgia Institute of Technology. Neuroengineer who embodied cultured rat neurons in simulated animals ('animats') and robots ('hybrots'), and co-created the MEART and Silent Barrage artworks with SymbioticA. https://potterlab.gatech.edu
@@ -15138,14 +17518,13 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Yuta Ikeya** (5) — Designer and researcher, Industrial Design, Eindhoven University of Technology. Yuta Ikeya designs speculative computing artefacts with living organisms, such as the Algal Relay Computer that calculates through algae growth.
 - **AKI INOMATA** (4) — Artist. Japanese artist who collaborates with animals such as hermit crabs, bagworms, beavers and octopuses, letting their behaviour shape the finished work. https://www.aki-inomata.com/
 - **Adam W. Brown** (4) — Artist; Professor, Michigan State University. American artist whose 're-enactments' use microbiology and chemistry, from gold-making bacteria to bleeding hosts, to question human exceptionalism. He has received four Prix Ars Electronica awards. https://adamwbrown.net
-- **Alinta Krauth** (4) — Artist and researcher in interspecies art and digital media. Alinta Krauth makes interactive and digital art with and for animals, including enrichment works for wild flying-foxes in care and AI works built on bird song. https://www.alintakrauth.com
+- **Anna Lowenhaupt Tsing** (4) — Anthropologist; Professor at UC Santa Cruz. Anna Tsing is an anthropologist of multispecies worlds, author of The Mushroom at the End of the World. https://feralatlas.org
 - **Anthony Atala** (4) — Director, Wake Forest Institute for Regenerative Medicine. Surgeon and researcher who leads the Wake Forest Institute for Regenerative Medicine, where the Integrated Tissue and Organ Printing system was built to print human-scale bone, cartilage and muscle. https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine
 - **Bruno Latour** (4) — Philosopher, sociologist and curator (1947–2022). Bruno Latour was a French philosopher of science whose actor-network theory and writings on Gaia shaped how design and art think about nonhuman agency. http://www.bruno-latour.fr
 - **Ceara Byrne** (4) — Researcher in Animal–Computer Interaction; PhD, Georgia Institute of Technology. Researcher who built instrumented dog toys, home touchscreens for assistance dogs and a dog-driven robot.
 - **Charlotte Jarvis** (4) — Artist. British artist who works with living cells, DNA and scientists to make portraits and performances. https://www.charlottejarvis.com
 - **Charlotte L. Robinson** (4) — Animal-Computer Interaction researcher, The Open University. Researcher who designed interfaces that assistance and diabetes alert dogs can operate.
 - **Douglas Blackiston** (4) — Senior Scientist, Allen Discovery Center at Tufts University and Wyss Institute. Biologist who builds Xenobots by hand and grows them from frog stem cells.
-- **Heather Dewey-Hagborg** (4) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping. https://deweyhagborg.com
 - **Hill Hiroki Kobayashi** (4) — Associate Professor, Information Technology Center, The University of Tokyo. Researcher who builds remote sensing, live-sound and animal-worn systems for wildlife, from forest deer to the Fukushima exclusion zone.
 - **Hirotaka Sato** (4) — Provost's Chair Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University. Engineer who steers living beetles and cockroaches with small electronic backpacks that stimulate their muscles or antennae.
 - **Jakob Kudsk Steensen** (4) — Artist working with game engines, field recording and ecology. Danish artist who reconstructs real ecosystems from fieldwork, scans and sound recordings as immersive installations, VR and AR. https://jakobsteensen.com/
@@ -15157,11 +17536,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Laura Beloff** (4) — Artist and researcher; professor, Aalto University. Finnish artist-researcher working on wearables, hybrid ecologies and art with living organisms, from plants to ticks and protocells.
 - **Laura Forlano** (4) — Professor, College of Arts, Media and Design, Northeastern University. Writer, social scientist and design researcher working at the intersection of design, science and technology studies and cities.
 - **Li Jönsson** (4) — Design researcher, Denmark. Design researcher who works with speculative prototypes to bring people into contact with urban animals.
+- **Marshmallow Laser Feast** (4) — Experiential art collective. London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com/
 - **Maurizio Montalti** (4) — Designer; founder of Officina Corpuscoli and co-founder of Mogu. Maurizio Montalti founded the studio Officina Corpuscoli in 2010 and has worked with fungal mycelium and mycologists at Utrecht University for more than a decade. https://www.corpuscoli.com/
 - **Michael Sedbon** (4) — Artist. French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.
+- **Next Nature Network** (4) — Design and research organisation founded by Koert van Mensvoort. Dutch network that uses design fiction, exhibitions and campaigns to discuss technology that becomes as complex and autonomous as nature. https://nextnature.net/
 - **Pat Pataranutaporn** (4) — Researcher, MIT Media Lab (Fluid Interfaces group). Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs. https://www.media.mit.edu/people/patpat/overview/
 - **Peter H. Kahn Jr.** (4) — Professor of Psychology and of Environmental and Forest Sciences, University of Washington; director of the Human Interaction with Nature and Technological Systems (HINTS) Lab. Psychologist who studies how people relate to nature and to 'technological nature' such as robot pets, nature webcams and plasma-screen windows. https://depts.washington.edu/hintslab/
 - **Rashid Bashir** (4) — Dean of the Grainger College of Engineering and Professor of Bioengineering, University of Illinois Urbana-Champaign. Bioengineer whose group makes 'bio-bots': 3D-printed hydrogel skeletons that walk using heart or skeletal muscle cells.
+- **Reef Design Lab** (4) — Design studio for artificial reefs and marine infrastructure, founded by Alex Goad. Reef Design Lab designs and casts modular reef structures from 3D-printed moulds, including MARS, an interlocking ceramic and concrete system installed in the Maldives and Australia. https://reefdesignlab.com/
 - **Scenocosme** (4) — Artist duo Grégory Lasserre and Anaïs met den Ancxt. Scenocosme make interactive installations with plants, wood and bodies that react to touch and human bioelectricity. https://www.scenocosme.com/
 - **Seung Ah Lee** (4) — Associate Professor of Electrical and Electronic Engineering, Yonsei University. Seung Ah Lee builds optical and microscopy systems, including interactive light-projection microscopes that let people play with phototactic microorganisms.
 - **Shuyi Sun** (4) — Researcher, Interactive Organisms Lab, University of California, Davis. Designer-researcher who builds biosensing litter boxes, toys and wearables for pet health monitoring.
@@ -15171,19 +17553,22 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Thijs Biersteker** (4) — Artist; founder of Woven Studio. Dutch 'eco-artist' who turns scientific data on climate, pollution and plants into real-time installations. https://thijsbiersteker.com
 - **Thomas Hartung** (4) — Professor, Johns Hopkins Bloomberg School of Public Health; director of CAAT. Toxicologist who led the 2023 proposal to name and fund Organoid Intelligence as a field, and convened the Baltimore Declaration on its ethics.
 - **Tomás Saraceno** (4) — Artist; founder of Studio Tomás Saraceno, the Aerocene community and Arachnophilia. Argentine artist trained in architecture who works with spiders, air, and floating solar sculptures, often with scientists and communities. https://studiotomassaraceno.org/
+- **Universidad de los Andes Biodesign Challenge team** (4) — Student team, Universidad de los Andes; Biodesign Challenge 2018–2025. Students at Universidad de los Andes who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Giovanna Danies and Carolina Obregón. https://www.biodesignchallenge.org/
 - **teamLab** (4) — Art collective. Japanese art collective of artists, programmers and engineers making immersive digital installations. https://www.teamlab.art/
 - **Adrian David Cheok** (3) — Founder and director, Mixed Reality Lab. Researcher in mixed reality and multisensory internet who built early remote-touch and play systems for pets. https://mixedrealitylab.org/
+- **Agnes Meyer-Brandis** (3) — Artist. German artist whose 'poetic-scientific' projects mix fieldwork, lab work and fiction, from raising moon geese to making a perfume from a tree's volatile compounds. http://www.blubblubb.net
 - **Amy Congdon** (3) — Designer and design researcher; Head of Design at Modern Synthesis. Amy Congdon's Biological Atelier and Tissue Engineered Textiles seeded cells onto embroidered scaffolds, developing a craft practice for growing rather than cutting material. https://www.amycongdon.com/
 - **Andrea Shin Ling** (3) — Architect and biodesigner; lead of Living Room Collective, Canada Pavilion, Venice 2025. Andrea Shin Ling works between architecture and biofabrication, from Design by Decay (fabricating with fungal and bacterial decomposition) to Picoplanktonics, a pavilion of printed cyanobacteria structures that must be watered and fed. https://www.andrealing.com/
 - **André R. Studart** (3) — Professor of Complex Materials, ETH Zurich. André Studart designs bioinspired and living materials, including 3D-printed materials that contain bacteria or fungi. https://complex.mat.ethz.ch/
 - **Andy Gracie** (3) — Artist (hostprods), co-founder of Hackteria. British artist whose installations connect robots, AI and living organisms such as fish, crickets, cyanobacteria and fruit flies, often framed as astrobiology experiments. https://www.hostprods.net
-- **Anna Lowenhaupt Tsing** (3) — Anthropologist; Professor at UC Santa Cruz. Anna Tsing is an anthropologist of multispecies worlds, author of The Mushroom at the End of the World. https://feralatlas.org
 - **Anne Marie Maes** (3) — Artist. Belgian artist who has run the Bee Laboratory on Brussels rooftops since 2009, building instrumented beehives and bacterial biofilms that monitor urban ecosystems. https://annemariemaes.net
 - **Anton Poikolainen Rosén** (3) — Design researcher, Södertörn University and KTH Royal Institute of Technology. Anton Poikolainen Rosén researches more-than-human design through sound, self-tracking and urban farming, often using his own body and experience as material.
 - **Aykut Coşkun** (3) — Associate Professor, Media and Visual Arts, Koç University. Interaction design researcher working on sustainable behaviour, the Internet of Things and more-than-human design.
 - **Aza Raskin** (3) — Co-founder and President of Earth Species Project; co-founder of the Center for Humane Technology. Aza Raskin is a designer and technologist who co-founded Earth Species Project in 2017 to use machine learning to decode nonhuman communication. https://www.earthspecies.org
+- **BCL (Georg Tremmel & Shiho Fukuhara)** (3) — Artistic research framework on biotechnology and society, founded 2004. Georg Tremmel and Shiho Fukuhara work on the legal and cultural edges of genetic modification, from storing human DNA in tree genomes to reverse-engineering a commercial blue rose and releasing it as a common. https://bcl.io/
 - **Blast Studio** (3) — Design studio 3D printing with living mycelium. Blast Studio, co-founded by Paola Garnousset and Arthur Lee, prints objects and structures from waste streams such as paper cups and lets mycelium grow through them. https://www.blast-studio.com/
 - **Blast Theory** (3) — Artist group led by Matt Adams, Ju Row Farr and Nick Tandavanitj. Brighton-based artist group making interactive and mixed-reality works since 1991, long-term collaborators of Nottingham's Mixed Reality Lab. https://www.blasttheory.co.uk
+- **California College of the Arts, Architecture Biodesign Challenge team** (3) — Student team, California College of the Arts, Architecture; Biodesign Challenge 2023–2025. Students at California College of the Arts, Architecture who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Carl DiSalvo** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Design researcher working on participatory design, public participation and adversarial design.
 - **Carlos Castellanos** (3) — Artist and researcher; faculty, School of Interactive Games and Media, Rochester Institute of Technology; co-founder of Phylum. Carlos Castellanos makes hybrid biological-electronic artworks, from microbial fuel cell synthesizers to AI agents that shape bacterial growth.
 - **Charles Ramey** (3) — Researcher in wearable and embedded sensing, Georgia Institute of Technology. Engineer who builds sensor systems for sled dogs, otters, elephants and dolphins with Thad Starner and Melody Jackson.
@@ -15194,6 +17579,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Cyrus Clarke** (3) — Co-founder and strategy lead, Grow Your Own Cloud. Designer and researcher who co-founded Grow Your Own Cloud in 2018 to store digital data in the DNA of living plants. https://growyourown.cloud
 - **Denise Herzing** (3) — Founder and Research Director, Wild Dolphin Project. Marine biologist who has studied a community of wild Atlantic spotted dolphins in the Bahamas since 1985. https://www.wilddolphinproject.org/
 - **Ecovative** (3) — Mycelium materials company founded by Eben Bayer and Gavin McIntyre. Founded in 2007 by Rensselaer Polytechnic Institute graduates Eben Bayer and Gavin McIntyre, Ecovative grows packaging, building materials and food from mycelium and farm waste. https://ecovative.com/
+- **Feifei Zhou** (3) — Artist and architectural designer; co-editor and visual designer of Feral Atlas. Feifei Zhou draws and maps multispecies landscapes; this work was shown in the Design Museum's More than Human exhibition in 2025.
 - **Ferne Edwards** (3) — Researcher, Norwegian University of Science and Technology (NTNU). Urban researcher who, with NTNU design colleagues, studied student design projects for cohabiting with birds, bees and bats in the city.
 - **Foad Hamidi** (3) — Faculty, Department of Information Systems, University of Maryland, Baltimore County. Foad Hamidi designs participatory and assistive technologies, including living media interfaces that use mushrooms and plants. https://www.foadhamidi.info/
 - **Francesca Valsecchi** (3) — Associate Professor, College of Design and Innovation, Tongji University. Design researcher working on ecological soundscapes, oceans and more-than-human design.
@@ -15209,13 +17595,15 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Leah Barclay** (3) — Sound artist and researcher; Discipline Lead of Design, University of the Sunshine Coast. Leah Barclay records terrestrial and underwater soundscapes and builds acoustic ecology projects that connect communities with rivers, reefs and forests. https://leahbarclay.com
 - **Lone Koefoed Hansen** (3) — Associate Professor, Department of Digital Design and Information Studies, Aarhus University. Interaction design researcher who makes plant–electronics experiments to shift how people notice plants.
 - **Lulu Qian** (3) — Professor of Bioengineering, Caltech. Bioengineer who builds neural networks and circuits out of DNA strands that react in a test tube. http://qianlab.caltech.edu/
-- **Marshmallow Laser Feast** (3) — Experiential art collective. London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com/
+- **Marcus Maeder** (3) — Sound artist and researcher, Institute for Computer Music and Sound Technology, Zurich University of the Arts. Sound artist and acoustic ecologist who records trees, soils and ecosystems. https://marcusmaeder.ch/
 - **Marta Galvão Ferreira** (3) — Researcher, Interactive Technologies Institute (ITI/LARSyS), Madeira. Researcher in learning sciences and design who uses drawing and walking to help people make sense of nature.
 - **Marta de Menezes** (3) — Artist; director of Cultivamos Cultura. Marta de Menezes is a Portuguese artist who has made art in biology labs since 1999. https://martademenezes.com
 - **Martín Tironi** (3) — Associate Professor, School of Design, Pontificia Universidad Católica de Chile. Design and STS researcher working on smart cities, algorithms and post-anthropocentric design.
+- **Maryland Institute College of Art Biodesign Challenge team** (3) — Student team, Maryland Institute College of Art; Biodesign Challenge 2016–2025. Students at Maryland Institute College of Art who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Ryan Hoover. https://www.biodesignchallenge.org/
 - **Mathieu Lehanneur** (3) — Designer; founder of Studio Mathieu Lehanneur. French designer who works across objects, interiors and science collaborations; early projects paired domestic products with plants, algae and fish. https://www.mathieulehanneur.fr/
 - **Miya Masaoka** (3) — Composer, koto player and sound artist; Professor at Columbia University. American composer who has made works with plants, insects and biofeedback since the 1990s. https://miyamasaoka.com
 - **Monika Seyfried** (3) — Co-founder and operations lead, Grow Your Own Cloud. Designer and co-founder of Grow Your Own Cloud, which develops plant-based DNA data storage with scientific advisor Jeff Nivala. https://growyourown.cloud
+- **MycoWorks** (3) — Biotechnology company making Fine Mycelium leather-like materials. Founded in 2013 by Phil Ross, Sophia Wang and Eddie Pavlu, MycoWorks grows sheets of Fine Mycelium that are tanned and finished like leather. https://www.mycoworks.com/
 - **National Audubon Society** (3) — Bird conservation nonprofit. US conservation organisation founded in 1905.
 - **Natsai Audrey Chieza** (3) — Designer; founder of Faber Futures. Natsai Audrey Chieza founded the biodesign studio Faber Futures and was the first designer in residence at Ginkgo Bioworks. https://faberfutures.com/
 - **Nazli Cila** (3) — Assistant Professor, Faculty of Industrial Design Engineering, TU Delft. Designer-researcher who studies connected products and AI as agents that act alongside people. https://nazlicila.com/
@@ -15227,7 +17615,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Paolo Bombelli** (3) — Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher. Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.
 - **Phil Ross** (3) — Artist and mycologist; co-founder and CTO of MycoWorks. Phil Ross has grown sculptures and buildings from Ganoderma (reishi) mycelium since the 1990s and coined the term Mycotecture. https://www.mycoworks.com/
 - **Rachel Clarke** (3) — Senior Lecturer, Open Lab, Newcastle University. Participatory design researcher working on cities, sustainability and more-than-human participation.
-- **Reef Design Lab** (3) — Design studio for artificial reefs and marine infrastructure, founded by Alex Goad. Reef Design Lab designs and casts modular reef structures from 3D-printed moulds, including MARS, an interlocking ceramic and concrete system installed in the Maldives and Australia. https://reefdesignlab.com/
 - **Reinhard Gupfinger** (3) — Artist and researcher, Tangible Music Lab, University of Art and Design Linz. Media artist who designs musical instruments and sonic interfaces for grey parrots living in captivity.
 - **Revital Cohen & Tuur Van Balen** (3) — Artist duo. Revital Cohen and Tuur Van Balen are a London-based duo whose work examines biology, production and the natural. https://www.cohenvanbalen.com
 - **Sam Kriegman** (3) — Assistant Professor of Computer Science, Mechanical Engineering and Chemical & Biological Engineering, Northwestern University. Computer scientist who uses evolutionary algorithms to design robot bodies, including the first computer-designed organisms (Xenobots). https://www.xenobot.group/
@@ -15240,6 +17627,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Sylvia Janicki** (3) — PhD researcher, Digital Media, Georgia Institute of Technology. Sylvia Janicki makes interactive installations with plants and biosensors about landscape, colonial history and more-than-human relations.
 - **Szu-Yu (Cyn) Liu** (3) — HCI and design researcher; PhD, Indiana University. Researcher who studies alternative farming, decomposition and photography as ways to design with naturecultures.
 - **Taher Saif** (3) — Professor of Mechanical Science and Engineering, University of Illinois Urbana-Champaign. Mechanical engineer who builds micro-scale swimmers powered by heart cells and by motor neurons driving muscle.
+- **Thomas Feuerstein** (3) — Artist; lecturer at art universities in Austria and Switzerland. Austrian artist whose 'processual sculptures' run on bacteria, algae and human cell cultures grown with scientists at the University of Innsbruck. https://thomasfeuerstein.net
+- **Tjeerd Veenhoven** (3) — Designer; Studio Tjeerd Veenhoven. Tjeerd Veenhoven is a Dutch designer who develops materials from plants and algae, from palm-leaf leather to seaweed yarn. https://www.tjeerdveenhoven.com/
 - **Tosca Terán** (3) — Interdisciplinary artist and performer (Nanotopia). Canadian-Mexican artist who performs and installs sound and XR works driven by the bio-electrical activity of mycelium, slime mould and plant roots. https://www.toscateran.com/
 - **Toshiyuki Nakagaki** (3) — Professor, Research Institute for Electronic Science, Hokkaido University. Biophysicist who showed that the slime mould Physarum polycephalum finds shortest paths through mazes and builds efficient transport networks; two-time Ig Nobel laureate. https://www.es.hokudai.ac.jp/labo/nakagaki/
 - **Ursula Biemann** (3) — Artist, writer and video essayist. Swiss artist whose research-based video essays follow oceans, forests and Indigenous knowledge in the climate crisis. https://geobodies.org/
@@ -15251,7 +17640,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **iNaturalist** (3) — Nonprofit nature observation network (formerly a joint initiative of the California Academy of Sciences and National Geographic Society). Online community and app where people share observations of organisms and help identify them. https://www.inaturalist.org/
 - **Adam Feinberg** (2) — Professor of Biomedical Engineering and Materials Science, Carnegie Mellon University. Adam Feinberg's lab invented FRESH printing, which builds soft collagen and cell structures inside a gelatin support bath, and used it to print heart valves, ventricles and a full-size heart scaffold. https://www.cmu.edu/bme/Feinberg-Lab/
 - **Agi Haines** (2) — Artist and designer; researcher at Design Informatics, University of Edinburgh. Agi Haines designs speculative modifications to the human body — reshaped infant skulls, printed organs made of repurposed tissue — and builds hyper-real silicone models of them. https://www.agihaines.com/
-- **Agnes Meyer-Brandis** (2) — Artist. German artist whose 'poetic-scientific' projects mix fieldwork, lab work and fiction, from raising moon geese to making a perfume from a tree's volatile compounds. http://www.blubblubb.net
 - **Ai Hasegawa** (2) — Artist and designer. Ai Hasegawa is a Japanese artist whose speculative designs deal with reproduction, biotechnology and the body.
 - **Alessandro Bozzon** (2) — Professor of Human-Centered Artificial Intelligence, Delft University of Technology. Alessandro Bozzon works on human-centred AI and knowledge and intelligence design at TU Delft's Faculty of Industrial Design Engineering.
 - **Alexandra Teixeira Riggs** (2) — PhD researcher, Digital Media, Georgia Institute of Technology. Alexandra Teixeira Riggs makes more-than-human and queer design work with biomaterials, sound and tangible media.
@@ -15259,12 +17647,12 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Alper Bozkurt** (2) — Professor of Electrical and Computer Engineering, North Carolina State University. Engineer who builds wearable and implantable sensor systems for animals, including smart harnesses for guide dogs in training.
 - **Alysson R. Muotri** (2) — Professor of Pediatrics and Cellular & Molecular Medicine, UC San Diego. Stem-cell biologist whose cortical organoids produced EEG-like brain waves; he has linked organoids to robots and sent them to space. https://muotri.ucsd.edu
 - **Amy Karle** (2) — Artist working with bioart and emerging technology. Amy Karle is an American artist who works with tissue engineering, 3D printing and AI. https://www.amykarle.com
+- **Andrew Pelling** (2) — Professor of Physics and Biology, University of Ottawa; founder of pHacktory. Andrew Pelling's lab grows mammalian cells on scaffolds cut from apples, asparagus and other plants, and publishes the recipes as open hardware and protocols. https://www.pellinglab.net/
 - **Andrew Quitmeyer** (2) — Founder of Digital Naturalism Laboratories (Dinalab); former Assistant Professor, National University of Singapore. Designer who builds field-hacked electronics with biologists in the jungle. https://www.digitalnaturalism.org/
 - **Ann Morrison** (2) — Interaction design researcher; formerly Aalborg University, now University of Southern Queensland. Researcher who designed a vibrotactile vest for hunting dogs and a self-activated wave machine for a zoo platypus.
 - **Anne Galloway** (2) — Associate Professor, Victoria University of Wellington; founder of the More-Than-Human Lab. Researcher in design ethnography and speculative design who studies relations among people, animals and technologies, including sheep farming.
 - **ArtScienceBangalore** (2) — Art-science lab at the Srishti School of Art, Design and Technology, led by Yashas Shetty. Art-science collective and DIY biolab founded at Srishti with the National Centre for Biological Sciences, known for iGEM-related bioart and mobile public labs. http://artscienceblr.org
 - **Audrey Dussutour** (2) — CNRS Research Director, Research Centre on Animal Cognition, Toulouse. Biologist who studies learning and decision-making in the slime mould Physarum polycephalum, known in France as 'le blob'.
-- **BCL (Georg Tremmel & Shiho Fukuhara)** (2) — Artistic research framework on biotechnology and society, founded 2004. Georg Tremmel and Shiho Fukuhara work on the legal and cultural edges of genetic modification, from storing human DNA in tree genomes to reverse-engineering a commercial blue rose and releasing it as a common. https://bcl.io/
 - **Bartaku** (2) — Artist-researcher. Belgian artist-researcher who has worked since 2007 on 'PhoEf', a long inquiry into the photovoltaic effect, making dye-sensitised solar cells from Aronia berries (Baroa belaobara) with scientists at Aalto University. https://bartaku.net
 - **Bolt Threads** (2) — Materials company behind Microsilk and Mylo. Bolt Threads develops biobased fibres and materials, including yeast-fermented spider-silk protein (Microsilk) and the mycelium leather Mylo, often with Stella McCartney. https://boltthreads.com/
 - **Braingeneers** (2) — Research group at UC Santa Cruz Genomics Institute (David Haussler, Mircea Teodorescu, Mohammed Mostajo-Radji). An interdisciplinary UC Santa Cruz group that runs organoid experiments through an internet-connected 'cloud lab' and trains cortical organoids in closed-loop tasks. https://braingeneers.ucsc.edu
@@ -15278,6 +17666,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Claudia Núñez-Pacheco** (2) — Design researcher, Malmö University (previously Umeå University). Interaction design researcher working with somaesthetics, micro-phenomenology and first-person methods.
 - **Clint Zeagler** (2) — Research scientist in wearable technology, Georgia Institute of Technology. Wearable-computing designer who co-developed touchscreens, vests and interfaces that working dogs can operate.
 - **Cody Lukas** (2) — Artist working with living systems and scientific collaborators. Artist whose installations question where people draw the line of 'life', made with labs such as the University of Southern Denmark and the OvaCure organoid biobank. https://www.codylukas.com
+- **College for Creative Studies Biodesign Challenge team** (2) — Student team, College for Creative Studies; Biodesign Challenge 2020–2024. Students at College for Creative Studies who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Con Slobodchikoff** (2) — Professor Emeritus of Biology, Northern Arizona University; founder of Zoolingua. Con Slobodchikoff studied Gunnison's prairie dog alarm calls for decades and found that they encode the type, size and colour of predators. https://zoolingua.com
 - **Data Garden** (2) — Music label and maker of MIDI Sprout and PlantWave. Founded by Joe Patitucci and Alex Tyson as a label for ambient music, it began making plant-driven music in 2012 and later sold devices that let anyone hear their plants. https://www.plantwave.com/
 - **David Rothenberg** (2) — Musician, philosopher and author; professor at New Jersey Institute of Technology. Clarinettist and writer who plays live with birds, humpback whales, insects and nightingales, and writes about why animals make music (Why Birds Sing, Thousand Mile Song, Nightingales in Berlin). http://www.davidrothenberg.net/
@@ -15286,12 +17675,13 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Dmitry Morozov (::vtol::)** (2) — Media artist and instrument builder. Russian artist working as ::vtol::, known for robotic sound objects, circuit bending and instruments that run on unusual signals, including his own blood and brain activity. https://vtol.cc
 - **DnA_Design and Architecture** (2) — Architecture office led by Xu Tiantian. Beijing architecture office known for small rural interventions in Songyang County and for landscape-scale projects that reuse existing structures.
 - **Donald Degraen** (2) — HCI researcher, HIT Lab NZ, University of Canterbury; formerly Saarland University and DFKI. Donald Degraen studies haptics and 'living media' interfaces that use real plants for ambient feedback. https://www.donalddegraen.com/
+- **EASD Castelló Biodesign Challenge team** (2) — Student team, EASD Castelló; Biodesign Challenge 2024–2025. Students at EASD Castelló who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Edward O. Wilson** (2) — Biologist, Harvard University (1929–2021). Biologist known for sociobiology, island biogeography and his work on ants and biodiversity.
 - **Elena Sabinson** (2) — Designer and researcher, Cornell University. Elena Sabinson designs soft robotic surfaces and interiors, including pheB, which moves in response to a plant's signals.
 - **Eric Paulos** (2) — Professor of Electrical Engineering and Computer Sciences, UC Berkeley; director of the Hybrid Ecologies Lab. HCI researcher who started citizen and participatory environmental sensing in HCI.
 - **Erik Winfree** (2) — Professor of Computer Science, Computation and Neural Systems, and Bioengineering, Caltech. Computer scientist who founded algorithmic DNA self-assembly and molecular programming. https://www.dna.caltech.edu/
+- **Fab Lab Barcelona** (2) — Digital fabrication lab at the Institute for Advanced Architecture of Catalonia (IAAC). Lab that develops open hardware for cities, including the Smart Citizen Kit.
 - **Fabienne Felder** (2) — Designer and creative strategist; founder of the studio Lumot. Fabienne Felder designs with emerging biotechnologies, most notably moss-powered electronics.
-- **Feifei Zhou** (2) — Artist and architectural designer; co-editor and visual designer of Feral Atlas. Feifei Zhou draws and maps multispecies landscapes; this work was shown in the Design Museum's More than Human exhibition in 2025.
 - **Ferdinand Ludwig** (2) — Professor of Green Technologies in Landscape Architecture, TU Munich. Architect Ferdinand Ludwig developed Baubotanik, a method of building with living trees joined to technical structures. https://www.arc.ed.tum.de/en/gtla/
 - **Forensic Architecture** (2) — Research agency at Goldsmiths, University of London, directed by Eyal Weizman. Forensic Architecture uses spatial, architectural and media analysis to investigate state and corporate violence, including violence against environments. https://forensic-architecture.org
 - **Francesco Vergani** (2) — Researcher, Department of Design, Politecnico di Milano. Design researcher who runs workshops and living labs with plants in La Goccia, a former industrial site in Milan that has become an urban forest.
@@ -15301,6 +17691,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Gizem Oktay** (2) — Researcher, Eindhoven University of Technology. Design researcher working on care and time in more-than-human design, using living materials such as mycelium as probes.
 - **Guto Nóbrega** (2) — Artist; professor at the School of Fine Arts, UFRJ, and coordinator of the NANO lab (Núcleo de Arte e Novos Organismos). Brazilian artist-researcher whose PhD at the University of Plymouth produced plant-machine hybrids read through galvanic response sensors.
 - **Hanuma Teja Maddali** (2) — HCI researcher, University of Maryland (with Amanda Lazar). Researcher who studies how older adults and novices share gardening skills, and how XR could support them.
+- **Jalila Essaïdi** (2) — Artist and bio-entrepreneur. Jalila Essaïdi is a Dutch artist who works with biomaterials, from spider-silk skin to materials made from manure. https://jalilaessaidi.com
 - **Janet Cardiff & George Bures Miller** (2) — Artist duo working with sound installations and audio walks. Canadian artists known for binaural audio walks and multi-speaker installations. https://cardiffmiller.com/
 - **Jasmine Lu** (2) — HCI researcher, Human Computer Integration Lab, University of Chicago. Jasmine Lu builds interactive devices that live, age and decay: a smartwatch powered by a slime mould, plant-driven robot actuators, and tools for reusing e-waste. https://lab.plopes.org/
 - **Jeff Jones** (2) — Researcher, Unconventional Computing Laboratory, UWE Bristol. Computer scientist who models Physarum polycephalum as swarms of simple particles that lay and follow trails.
@@ -15315,11 +17706,13 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jonna Häkkilä** (2) — Professor of Industrial Design, University of Lapland. Interaction designer working in Finnish Lapland on wearables, displays and technology for nature and the Arctic.
 - **Josiah Hester** (2) — Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing. Josiah Hester builds battery-free and intermittent computing systems powered by the environment.
 - **Judith Dörrenbächer** (2) — Researcher, Ubiquitous Design / Experience and Interaction, University of Siegen. Designer and researcher working on more-than-human and critical design, including techno-mimesis methods in which designers take on the perspective of robots and other nonhumans.
+- **Julia Moser** (2) — Textile designer and researcher, University of Arts Linz. Julia Moser dyes textiles with living pigment-producing bacteria and develops ways to design patterns with them. https://www.juliamoser.com
 - **Julian Melchiorri** (2) — Designer and engineer, founder of Arborea. Julian Melchiorri embeds chloroplasts and microalgae in silk protein and glass, from the Silk Leaf prototype to Exhale, a chandelier of 70 bioreactor leaves shown at the V&A. https://www.julianmelchiorri.com/
 - **Julian Oliver** (2) — Critical engineer and artist. New Zealand artist and co-author of the Critical Engineering Manifesto. https://julianoliver.com/
 - **Jun Rekimoto** (2) — Professor, Interfaculty Initiative in Information Studies, The University of Tokyo; Sony Computer Science Laboratories. Pioneer of augmented reality and ubiquitous interfaces whose lab has also built sensing and display systems for cats and aquarium animals.
 - **Karen Bakker** (2) — Professor, University of British Columbia; author (1968–2023). Karen Bakker was a geographer and writer who studied digital environmentalism and the rise of bioacoustics as a way of listening to nonhuman worlds. https://karenbakker.org
 - **Karen Sarkisyan** (2) — Group leader, MRC Laboratory of Medical Sciences and Imperial College London; co-founder of Light Bio. Karen Sarkisyan's group transferred the four-gene bioluminescence pathway of the mushroom Neonothopanus nambi into plants, producing tobacco and petunias that glow visibly without added chemicals. https://www.sarkisyanlab.org/
+- **Kat Austen** (2) — Artist and researcher. Kat Austen is a British artist working on environmental change through sound, sculpture and science.
 - **Katerina Inglezaki** (2) — Researcher, University of Lisbon / Interactive Technologies Institute. Designer and researcher who does multispecies ethnography in the salt marshes of the Tagus estuary and turns fieldwork into interactive maps.
 - **Katie Paterson** (2) — Visual artist. Scottish artist whose works deal with deep time, distance and scale, from glaciers to dead stars. https://katiepaterson.org/
 - **Khasi and Jaintia communities of Meghalaya** (2) — Indigenous communities who grow living root bridges. Villages of the Khasi and Jaintia hills in north-east India have guided the aerial roots of Ficus elastica across rivers for generations.
@@ -15332,8 +17725,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Madlen Kneile** (2) — Researcher, Interaction Design for Sustainability and Transformation, University of Siegen. Design researcher who studies how technology can mediate relations between humans and nature, and the challenges of designing technology for nonhumans. https://artifact-archive.org
 - **Maja Smrekar** (2) — Artist. Maja Smrekar is a Slovenian artist working with biotechnology and human–animal co-evolution. https://www.majasmrekar.org
 - **Marc Hassenzahl** (2) — Professor of Ubiquitous Design / Experience and Interaction, University of Siegen. Psychologist and design researcher known for foundational work on user experience and experience design, now also exploring wellbeing, relatedness and more-than-human perspectives. https://www.experienceandinteraction.com
+- **Marcos Cruz** (2) — Professor of Innovative Environments, The Bartlett (UCL); co-director of BiotA Lab. Marcos Cruz is an architect who designs bioreceptive façades that invite moss, lichen and algae to grow.
 - **Marcus Coates** (2) — Artist and ornithologist. British artist whose performances and videos use shamanic ritual, bird mimicry and collaboration with scientists to step into animal perspectives. https://www.marcuscoates.co.uk/
-- **Marcus Maeder** (2) — Sound artist and researcher, Institute for Computer Music and Sound Technology, Zurich University of the Arts. Sound artist and acoustic ecologist who records trees, soils and ecosystems. https://marcusmaeder.ch/
 - **Margrete Lodahl Rolighed** (2) — Design researcher, Digital Design and Information Studies, Aarhus University. Works on posthumanist interaction design with plants, including the Plant Radio and plant-sensing design experiments.
 - **Marie Louise Juul Søndergaard** (2) — Associate Professor, Oslo School of Architecture and Design (AHO). Interaction designer working on feminist, intimate and more-than-human design, including menstruation, fertility and mosses.
 - **Marin Sawa** (2) — Research fellow, Imperial College London; designer and bioengineer of printed biophotovoltaics. Marin Sawa, trained in textile design and bioengineering, inkjet-prints living cyanobacteria to make paper-based solar bio-batteries.
@@ -15352,15 +17745,18 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Michel Maharbiz** (2) — Professor of Electrical Engineering and Computer Sciences, UC Berkeley. Michel Maharbiz builds interfaces between microelectronics and living cells, from bacterial self-assembly on chips to neural dust implants.
 - **Mick Lorusso** (2) — Cross-disciplinary artist. Artist who builds microbial fuel cells, DIY microscopes and shadow theatres to stage microbial communities as energy producers and storytellers. https://micklorusso.net
 - **Mileece** (2) — Sonic artist and environmental designer. Sound artist who has performed and installed generative music made from the bioelectric signals of plants, including a 2013 performance at MoMA. https://www.mileece.is
-- **MycoWorks** (2) — Biotechnology company making Fine Mycelium leather-like materials. Founded in 2013 by Phil Ross, Sophia Wang and Eddie Pavlu, MycoWorks grows sheets of Fine Mycelium that are tanned and finished like leather. https://www.mycoworks.com/
+- **NYU Integrated Design & Media Biodesign Challenge team** (2) — Student team, NYU Integrated Design & Media; Biodesign Challenge 2020–2025. Students at NYU Integrated Design & Media who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Naohiro Isokawa** (2) — Researcher, Keio University Shonan Fujisawa Campus. Naohiro Isokawa designs aquarium systems that sense fish and tank conditions and show them as speech bubbles.
-- **Next Nature Network** (2) — Design and research organisation founded by Koert van Mensvoort. Dutch network that uses design fiction, exhibitions and campaigns to discuss technology that becomes as complex and autonomous as nature. https://nextnature.net/
 - **Nonhuman Rights Project** (2) — US civil rights organisation for nonhuman animals, founded by Steven M. Wise. The Nonhuman Rights Project files habeas corpus cases in US courts to have cognitively complex animals such as chimpanzees and elephants recognised as legal persons. https://www.nonhumanrights.org
+- **Notpla** (2) — Packaging company making materials from seaweed. Notpla, founded as Skipping Rocks Lab by Rodrigo García González and Pierre Paslier, makes edible and compostable packaging from seaweed and plants. https://www.notpla.com/
+- **Nova Innova** (2) — Dutch design and innovation studio for nature-based technology. Nova Innova designs public installations and products that run on nature-based energy, such as microbial fuel cells in city water.
 - **Olafur Eliasson** (2) — Artist; founder of Studio Olafur Eliasson. Danish-Icelandic artist whose installations work with light, water, air and temperature; the artist's Berlin studio employs craftspeople, architects and researchers. https://olafureliasson.net/
+- **Pascal Leboucq** (2) — Set designer and artist. Pascal Leboucq is a Dutch set designer who initiated the Growing Pavilion with the organisation Biobased Creations. https://thegrowingpavilion.com/
 - **Patrizia Paci** (2) — Researcher; PhD, The Open University ACI Laboratory. Researcher on the wearability of animal biotelemetry who measured how cats react to commercial GPS trackers.
 - **Paulo Tavares** (2) — Architect and researcher; founder of autonoma. Brazilian architect whose spatial research maps how Indigenous peoples shaped the Amazon and argues for the rights of forests.
 - **Pedro Lopes** (2) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes studies devices that integrate with the user's body, from electrical muscle stimulation and chemical haptics to devices that contain living organisms. https://lab.plopes.org/
 - **Pei-Ying Lin** (2) — Designer and artist. Taiwanese designer and researcher making speculative work on viruses, microbes and human–nonhuman relations. https://peiyinglin.net
+- **RISD Terra Carta teams** (2) — Student teams, Rhode Island School of Design. Student teams from the Rhode Island School of Design that won the 2024 Terra Carta Design Lab with BIOPOD and Shellf Life.
 - **Raune Frankjær** (2) — Designer and researcher in wearable and interaction design, Aarhus University. Designs light and textile interfaces that make plant and insect signals perceptible, from Flora Luma to the Rewilding Wearables and Plant Radio.
 - **Refik Anadol** (2) — Media artist; co-founder of Refik Anadol Studio and Dataland. Turkish-American artist who trains AI models on large image datasets to make fluid 'data paintings'. https://refikanadol.com/
 - **Rewa Wright** (2) — Artist and researcher in computational arts and mixed reality, Queensland University of Technology. Māori artist-researcher who, with Simon Howden as UnCalculated Studio, makes mixed-reality performances in which plants act as co-composers through their bioelectric signals. https://rewawright.com
@@ -15377,8 +17773,8 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Tagny Duff** (2) — Artist-researcher and curator. Tagny Duff works with tissue culture, viruses and bookbinding to explore how biotechnology archives and transmits life.
 - **Takuya Isomura** (2) — Team Leader, Brain Intelligence Theory Unit, RIKEN Center for Brain Science. Theoretical neuroscientist who tests the free-energy principle with cultured neurons that learn to separate mixed signals.
 - **Tarun Nayar** (2) — Musician and former biologist; creator of the Modern Biology project. Canadian electronic musician who performs and records with plants and mushrooms wired to synthesizers under the name Modern Biology. http://modernbiology.xyz
+- **Tecnológico de Monterrey Biodesign Challenge team** (2) — Student team, Tecnológico de Monterrey; Biodesign Challenge 2020–2025. Students at Tecnológico de Monterrey who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Thomas B. DeMarse** (2) — Former Associate Professor of Biomedical Engineering, University of Florida. Neuroengineer who trained a culture of about 25,000 rat cortical neurons to stabilise a simulated aircraft, after co-developing the animat with Steve Potter.
-- **Thomas Feuerstein** (2) — Artist; lecturer at art universities in Austria and Switzerland. Austrian artist whose 'processual sculptures' run on bacteria, algae and human cell cultures grown with scientists at the University of Innsbruck. https://thomasfeuerstein.net
 - **Tiffany Wun** (2) — Design researcher, Everyday Design Studio, Simon Fraser University. Researcher who designs probes that bring more-than-human ideas into everyday design practice, such as vermicomposting kits.
 - **Tim Landgraf** (2) — Professor of Artificial and Collective Intelligence, Freie Universität Berlin; Dahlem Center for Machine Learning and Robotics. Computer scientist who builds biomimetic robots, RoboFish and RoboBee, that interact with live guppies and honeybees.
 - **Timothy Morton** (2) — Rita Shea Guffey Chair in English, Rice University. Timothy Morton is a philosopher of ecology associated with object-oriented ontology, known for the concepts of dark ecology and hyperobjects.
@@ -15391,21 +17787,32 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Yvonne Rogers** (2) — Professor of Interaction Design, University College London; director of the UCL Interaction Centre. HCI researcher known for ubiquitous computing in the wild and for the textbook Interaction Design.
 - **Zooniverse** (2) — People-powered research platform of the University of Oxford, Adler Planetarium and University of Minnesota. Platform where volunteers classify images and sounds for research projects. https://www.zooniverse.org/
 - **Zoë Breed** (2) — Researcher, Knowledge and Intelligence Design, Delft University of Technology. Zoë Breed designs and engineers bio-digital systems, from the bioluminescent-algae display Algae Alight to a computational taxonomy of how organisms and electronics share computing work.
+- **iGEM Paris Bettencourt** (2) — Student synthetic-biology team at the Learning Planet Institute, Paris. iGEM Paris Bettencourt is a student team competing in the international iGEM synthetic-biology competition.
+- **iGEM Team Imperial College London** (2) — iGEM student team (2011–2014). The Imperial College London student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2014.igem.org/Team:Imperial
 - **mischer'traxler studio** (2) — Design studio of Katharina Mischer and Thomas Traxler. Austrian studio known for process-driven machines and installations about nature and biodiversity, such as The Idea of a Tree and Curiosity Cloud. https://mischertraxler.com
 - **Çağlar Genç** (2) — Researcher, Tampere University (previously University of Lapland). HCI researcher working with mycelium and other living materials in interactive products and playful more-than-human design tools.
 - **Đan Vy Vu** (2) — Researcher, Industrial Design, Eindhoven University of Technology. Đan Vy Vu studies how digital twins can help designers handle the uncertainty of growing materials with mycelium.
 - **3DBio Therapeutics** (1) — Regenerative medicine company, founded 2014. 3DBio Therapeutics developed AuriNovo, an ear implant printed from a patient's own cartilage cells and implanted in a clinical trial in 2022. https://www.3dbiocorp.com/
+- **ALGBIO (Selen Şenal & Ceyda Güneş)** (1) — Student start-up. Selen Şenal and Ceyda Güneş developed ALGBIO, a microalgae system that treats wastewater and makes bioproducts, Turkish national winner of the 2024 James Dyson Award. http://alg-bio.com
+- **ALT TEX** (1) — Company. ALT TEX, founded by Myra Arshad and Avani Patel, ferments food waste into a biodegradable polyester alternative. https://thealttex.com/
+- **AMAM** (1) — Design collective. AMAM is a Tokyo design collective (Kosuke Araki, Noriaki Maetani, Akira Muraoka) that won the 2016 Lexus Design Award Grand Prix with Agar Plasticity.
 - **AMSilk** (1) — Biotech silk protein manufacturer, founded 2008 as a spin-off of TU Munich. AMSilk ferments spider-silk-like proteins into Biosteel fibre and silk protein coatings; adidas used its fibre for the Futurecraft Biofabric shoe prototype in 2016. https://www.amsilk.com/
+- **Aagje Hoekstra** (1) — Designer. Aagje Hoekstra is a Dutch designer who made a chitosan bioplastic from mealworm beetle wing cases.
+- **Aalto University Biodesign Challenge team** (1) — Student team, Aalto University; Biodesign Challenge 2021–2023. Students at Aalto University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Aaron V. Bradshaw** (1) — Researcher, University College London. Studies human-microbe collaboration in environmental research.
 - **Ackroyd & Harvey** (1) — Artist duo: Heather Ackroyd and Dan Harvey. British artists working together since 1990 on growth and decay in living materials, known for photographs grown in grass; co-founders of Culture Declares Emergency. https://www.ackroydandharvey.com/
 - **Aditi Maheshwari** (1) — Research scientist, Accenture Labs. HCI researcher studying technology for plants, ecological restoration and human-plant interaction.
 - **Adrian Wong** (1) — Researcher, The University of Sydney. HCI researcher studying conversational agents and more-than-human perspectives in design.
 - **Adrienne Adar** (1) — Artist and plant-sound researcher. Makes interactive installations that amplify the vibrations and sounds of living plants. https://www.adrienneadar.com
+- **Aerseeds (Bike & Begum Ayaskan)** (1) — Design duo, Royal College of Art. Twin designers Bike and Begum Ayaskan created Aerseeds, winner of the 2022 Terra Carta Design Lab.
+- **After Life team (RCA)** (1) — Designer; Royal College of Art. After Life team (RCA) is a designer from Royal College of Art whose project After Life was selected by the Green Product / Green Concept Award.
 - **Aganetha Dyck** (1) — Artist. Canadian artist who has worked with honeybees since the early 1990s, placing objects in hives so the bees cover them with comb. https://www.aganethadyck.ca/
 - **Agata Jaworska** (1) — Designer and curator; Design Academy Eindhoven graduate. Polish-Canadian designer whose graduation project Made in Transit proposed food that grows during shipping instead of spoiling.
 - **Aidan Mark Puse** (1) — Interaction design student, University of Sydney (at the time of Synthium). Aidan Mark Puse co-designed Synthium, an installation that turns electrical signals from mushrooms into sound in urban green spaces.
+- **Ailton Pereira** (1) — Designer; State University of Londrina. Ailton Pereira is a designer from State University of Londrina whose project AIPER was selected by the Green Product / Green Concept Award.
 - **Akira Wakita** (1) — Professor, Faculty of Environment and Information Studies, Keio University. Akira Wakita works on information design, ambient displays and digital fabrication.
 - **Albert Keung** (1) — Associate Professor of Chemical and Biomolecular Engineering, North Carolina State University. Bioengineer working on DNA data storage and computing, and on synthetic epigenetics.
+- **Alejandro Alfaro Enguídanos** (1) — Designer; EASD Alicante. Alejandro Alfaro Enguídanos is a designer from EASD Alicante whose project Algee was selected by the Green Product / Green Concept Award.
 - **Aleksi Vesaluoma** (1) — Designer and researcher, mycelium structures. Aleksi Vesaluoma grew Grown Structures at Brunel University, coaxing mycelium through cardboard tubes wrapped by hand into tree-like frames that become rigid as the fungus digests the substrate.
 - **Aleph Farms** (1) — Cultivated meat company, founded 2017. Aleph Farms grows beef steaks from cow cells and used 3D bioprinting to produce a cultivated ribeye with marbling and internal structure. https://www.aleph-farms.com/
 - **Alex Metcalf** (1) — Artist and sculptor; creator of the Tree Listening Project. British artist who since 2007 has toured installations that let people listen to the inside of living trees through sensitive microphones. https://treelistening.co.uk/
@@ -15413,33 +17820,41 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Alexandra Dementieva** (1) — Media artist. Media artist who makes immersive interactive installations about perception and communication.
 - **Alexandra Weilenmann** (1) — Professor of Interaction Design, University of Gothenburg. Ethnographer of mobile technology who studied how hunters use GPS dog-tracking devices in the field.
 - **Alexandre Pongrácz Rossi** (1) — Animal behaviourist and dog trainer. Brazilian animal behaviour specialist known for training dogs to use communication devices and video calls.
+- **Algaeing** (1) — Company. Algaeing, founded by Renana Krebs, formulates algae biomass into bio-based fibres and dyes. https://www.algaeing.com/
 - **Amino Labs** (1) — Educational genetic engineering hardware company, founded 2015 by Julie Legault and Justin Pahara. Amino Labs designs desktop biolab appliances and kits with a product-design sensibility, letting beginners engineer pigment-producing bacteria in a few days. https://amino.bio/
+- **Ana Goidea** (1) — Architect and researcher, Lund University. Ana Goidea is an architect and researcher at Lund University who, with David Andréen, 3D-printed and grew the mycelium column Protomycokion.
+- **Ana María Gómez López** (1) — Artist. Ana María Gómez López is a Colombian artist whose self-experiments merge her body with plant life.
 - **Anand Kumar Mishra** (1) — Research associate, Organic Robotics Lab, Cornell University. Engineer who built electrical interfaces that read mycelium signals and used them to drive soft and wheeled robots.
 - **Andrea Bandoni** (1) — Designer and researcher, Faculty of Fine Arts, University of Lisbon. Andrea Bandoni is a Brazilian designer who studies Amazonian craft and biofabrication with living trees.
 - **Andrea Lavazza** (1) — Philosopher; Senior Research Fellow, Centro Universitario Internazionale, Arezzo. Philosopher of mind and neuroethicist who, with Marcello Massimini, first set out how to assess possible consciousness in cerebral organoids.
 - **Andrea Macruz** (1) — Associate Professor, College of Design and Innovation, Tongji University. Architect and designer working on biomimetic, multispecies and neuroscience-informed design.
 - **Andrea Polli** (1) — Professor of Art and Ecology, University of New Mexico. Environmental artist who works with air, weather and climate data.
 - **Andrea Wiggins** (1) — Associate Professor of Information Systems, University of Nebraska Omaha. Information scientist who studies how citizen science projects are organised and how they manage data.
-- **Andrew Pelling** (1) — Professor of Physics and Biology, University of Ottawa; founder of pHacktory. Andrew Pelling's lab grows mammalian cells on scaffolds cut from apples, asparagus and other plants, and publishes the recipes as open hardware and protocols. https://www.pellinglab.net/
 - **Andrew Whitcomb** (1) — Assistant Professor, The Design School, Arizona State University. Design researcher working on climate futures and affect in the Sonoran Desert.
 - **Angela Kilford** (1) — Māori artist and designer, Massey University. Works with harakeke (New Zealand flax) and Māori textile practices.
 - **Angella Mackey** (1) — Researcher, Amsterdam University of Applied Sciences. Designer and researcher working on wearables and solar energy through first-person design research.
 - **Aniela Hoitink** (1) — Designer; founder of NEFFA and MycoTEX. Aniela Hoitink founded NEFFA in 2016 to make custom garments from mycelium grown in moulds. https://www.neffa.nl/
 - **Ann-Kristin Abel** (1) — Designer; MA Textile Futures, Central Saint Martins. Ann-Kristin Abel is a designer who made speculative films about semi-living devices while studying at Central Saint Martins.
+- **Anna Budnikova** (1) — Architect and designer; HSE Graduate School of Urbanism alumna. Anna Budnikova is an architect who developed Mycokarst, a fungal biomineralisation proposal for karst sinkholes, which won Outstanding Science at the 2019 Biodesign Challenge.
 - **Anna Madeleine Raupach** (1) — Media artist and researcher. Australian artist whose kinetic and data-driven works, such as Unequal Hours and Augmented Tree Rings, visualise how natural and human timescales intersect. https://www.annamadeleine.com
 - **Anna Vershinina** (1) — Architect and designer. Architect and designer working on regenerative habitats that combine building and food growing.
+- **Annah-Ololade Sangosanya** (1) — Designer; IAAC. Annah-Ololade Sangosanya is a designer from IAAC whose project The Purhyphae project was selected by the Green Product / Green Concept Award.
 - **Annarita Bianco** (1) — Design researcher, University of Campania Luigi Vanvitelli. Design researcher working with soil, environmental humanities and participatory workshops.
 - **Anne Bowser** (1) — Deputy Director and Chief Innovation Officer, Wilson Center (former PhD student at the University of Maryland). Researcher on citizen science, games and open data.
 - **Annika Wolff** (1) — Researcher, Lappeenranta-Lahti University of Technology (LUT). Researcher in data literacy and sustainable city design who uses arts-based methods.
 - **Anniken Førde** (1) — Researcher, UiT The Arctic University of Norway. Human geographer working on place, planning and multispecies cities.
 - **Ant Farm** (1) — Architecture, graphic arts and environmental design collective (1968–1978). Radical collective founded by Chip Lord and Doug Michels, later joined by Curtis Schreier, known for Cadillac Ranch, inflatables and media performances.
+- **Anton Vervoort** (1) — Designer; University of Antwerp. Anton Vervoort is a Belgian designer whose mussel-hosting structure The Reef was a 2024 James Dyson Award International Top 20 project.
 - **Antti Tenetz** (1) — Artist working with animals, landscape and tracking technology. Antti Tenetz makes videos and installations from GPS tracks, drone and underwater footage of wild animals in northern landscapes.
 - **Aphrodite Theodora Andreou** (1) — Researcher, Institute of Digital Games, University of Malta. Designer-researcher who co-designed enrichment toys with a group of bottlenose dolphins.
+- **Aquacycl** (1) — Company. Aquacycl, founded by Orianna Bretschger, treats industrial wastewater with microbial fuel cells. https://www.aquacycl.com/
 - **Arianna Mastali** (1) — PhD researcher, Georgia Institute of Technology. Researcher who designed an audio enrichment system for the elephants at Zoo Atlanta.
 - **Armi Behzad** (1) — Researcher, Everyday Design Studio, Simon Fraser University. Design researcher in the Everyday Design Studio exploring how nonhuman agency such as breakage can take part in design iteration.
+- **Arnaud Tantet** (1) — Designer; ECAL. Arnaud Tantet is a designer from ECAL whose project Brio was selected by the Green Product / Green Concept Award.
 - **Arne Berger** (1) — Professor of Human-Computer Interaction, Anhalt University of Applied Sciences. HCI researcher working on participatory design, smart homes and more-than-human design in practice.
 - **Arne Hendriks** (1) — Artist and researcher; long-term collaborator of Mediamatic. Arne Hendriks works on speculative and practical projects about living with less, including The Incredible Shrinking Man and a series of mycelium pigeon towers built with Mediamatic.
 - **Art Orienté Objet** (1) — Artist duo of Marion Laval-Jeantet and Benoît Mangin. French duo formed in 1991 by Marion Laval-Jeantet and Benoît Mangin, working between ethology, biology and transcultural psychiatry.
+- **ArtSilk** (1) — Company. ArtSilk, founded by researchers Anna Rising and Benjamin Schmuck, spins fibre from spider-silk-inspired proteins made by microorganisms.
 - **Arthur Wiechula** (1) — Landscape architect (1868–1941). Arthur Wiechula was a German landscape architect who proposed growing houses and structures from living, grafted trees.
 - **Arturo Escobar** (1) — Professor Emeritus of Anthropology, University of North Carolina at Chapel Hill. Anthropologist of development and political ecology who argues for autonomous, place-based design.
 - **Arup** (1) — Engineering and design firm. Arup is a global engineering firm that co-developed the SolarLeaf algae façade. https://www.arup.com
@@ -15450,20 +17865,29 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Athanassia Athanassiou** (1) — Principal Investigator, Smart Materials group, Istituto Italiano di Tecnologia. Athanassia Athanassiou leads research on bio-based and sustainable composite materials at IIT. https://www.iit.it/
 - **Atmoph** (1) — Hardware startup. Kyoto company that makes a wall-mounted screen showing real-time and recorded landscape views.
 - **Atsushi Tero** (1) — Professor, Institute of Mathematics for Industry, Kyushu University. Mathematician who turned slime-mould tube growth into a mathematical model for designing adaptive networks.
+- **Auburn University Biodesign Challenge team** (1) — Student team, Auburn University; Biodesign Challenge 2024. Students at Auburn University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Devon Ward. https://www.biodesignchallenge.org/
 - **Auger-Loizeau** (1) — Design studio of James Auger and Jimmy Loizeau. Speculative design partnership formed in 2000 by two Royal College of Art graduates, known for prototypes that question how technology enters everyday life.
 - **Augustine Leudar** (1) — Sound artist and researcher. Sound artist who combines plant electrophysiology with 3D spatial audio in installations.
+- **Auke Bleij** (1) — Co-founder, Respyre. Auke Bleij co-founded Respyre, which develops bioreceptive concrete that moss colonises spontaneously. https://www.respyre.com
+- **Aula Future + FirstHand Biodesign Challenge team** (1) — Student team, Aula Future + FirstHand; Biodesign Challenge 2023. Students at Aula Future + FirstHand who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Aurélie Mosse** (1) — Designer and researcher; associate professor at EnsadLab, École des Arts Décoratifs, Paris; leads ImpressioVivo. Aurélie Mosse works on responsive and bio-sourced materials; her project ImpressioVivo combines 3D printing and bacterially induced calcification to make circular materials.
+- **Avril Corroon** (1) — Artist. Avril Corroon is an Irish artist whose installations use moulds, fermentation and food to address housing and labour. https://www.avrilcorroon.com/
 - **Axel Erlandson** (1) — Farmer and tree shaper (1884–1964). Swedish-American farmer Axel Erlandson grafted and bent trees into baskets, arches and ladders and opened the Tree Circus in 1947.
 - **Aybars Senyildiz** (1) — Designer and researcher, Aalto University. Designer who studies home fermentation as a site where people learn to relate to microbes.
 - **B. F. Skinner** (1) — Psychologist (1904–1990), Harvard University. Behaviourist who developed operant conditioning and, in World War II, trained pigeons to peck at screen images to steer a guided bomb.
+- **BIOMILQ** (1) — Company. BIOMILQ, founded by Leila Strickland and Michelle Egger, cultures human mammary cells to produce milk components outside the body.
+- **BIOTEOS (Romain Dhenin)** (1) — Start-up. Romain Dhenin founded BIOTEOS, which developed the microalgae air purifier OXYLON, French runner-up in the 2022 James Dyson Award. https://bioteos.com
 - **Backyard Brains** (1) — Neuroscience education company founded by Greg Gage and Tim Marzullo. Company making low-cost neuroscience kits for schools, including the RoboRoach. https://backyardbrains.com/
 - **Barani Raman** (1) — Professor of Biomedical Engineering, Washington University in St. Louis. Neuroengineer who studies insect olfaction and reads locust brain signals to detect explosives. https://ramanlab.wustl.edu/
 - **Barbara Mazzolai** (1) — Associate Director for Robotics and director of the Bioinspired Soft Robotics Lab, Istituto Italiano di Tecnologia. Biologist and roboticist who created the Plantoid, the first robot modelled on plant roots. https://www.iit.it/people-details/-/people/barbara-mazzolai
+- **Bas Emaus** (1) — Founder, JiTiBa Algae Technologies. Bas Emaus founded JiTiBa Algae Technologies, which uses immobilised microalgae for wastewater treatment.
 - **Basse Stittgen** (1) — Designer; tutor in the Social Design master at Design Academy Eindhoven. Basse Stittgen graduated from Design Academy Eindhoven in 2017 and turns overlooked waste streams, such as slaughterhouse blood and urban wood, into objects that make hidden processes visible. https://www.bassestittgen.com
 - **Baum & Leahy** (1) — Artist duo (Amanda Baum and Rose Leahy). Artist-designer duo making speculative installations about microbes, deep time and more-than-human futures.
 - **Beatrice Maggipinto** (1) — Researcher, Carnegie Mellon University. Designer of virtual reality experiences about ocean ecosystems, working with the Interactive Technologies Institute in Portugal.
 - **Beatriz da Costa** (1) — Artist and educator; UC Irvine (1974–2012). Beatriz da Costa was an interdisciplinary artist who combined tactical media, citizen science and biology, often working with animals as partners.
+- **BeeHaven team (Yao Yulu, Liu Xinyi, Dai Yanning)** (1) — Designer; China Academy of Art. BeeHaven team (Yao Yulu, Liu Xinyi, Dai Yanning) is a designer from China Academy of Art whose project BeeHaven was selected by the Green Product / Green Concept Award.
 - **Beewise** (1) — Company that makes the BeeHome, a robotic, solar-powered beehive. Start-up founded in 2018 that automates beekeeping with cameras, AI and a robotic arm inside a hive container.
+- **Bence Czibik** (1) — Designer; Széchenyi István University. Bence Czibik is a designer from Széchenyi István University whose project HyphaL was selected by the Green Product / Green Concept Award.
 - **Benioff Ocean Science Laboratory** (1) — Ocean science lab at the University of California, Santa Barbara. Lab that built Whale Safe, a system combining acoustic whale detection, models and ship tracking to reduce ship strikes.
 - **Benjamin Ward-Cherrier** (1) — Robotics researcher, University of Bristol. Robotics researcher working on neuromorphic tactile sensing; his group used FinalSpark organoids to classify Braille from an artificial fingertip.
 - **Bento Lab** (1) — Portable DNA laboratory company founded by Bethan Wolfenden and Philipp Boeing, 2015. Bento Lab packs a centrifuge, PCR thermocycler and gel imager into a laptop-sized case, designed for fieldwork, classrooms and community labs. https://bento.bio/
@@ -15472,61 +17896,86 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Berre Su Demir** (1) — PhD researcher, Koç University (also published as Berre Su Yanlıç). Design researcher building tools and methods for representing plants and other nonhumans in more-than-human design.
 - **Berre Su Yanlıç** (1) — Researcher, Koç University. Design researcher studying how plant perspectives can be brought into early design stages.
 - **Bert De Roo** (1) — Design researcher; co-author of the Umwelt-sketch method. Researcher who builds practical methods for bringing nonhuman perspectives into design workshops.
+- **Berta Daina** (1) — Designer; ELISAVA. Berta Daina is a Spanish designer whose home bioplastic kit Agro Biomaterials was a 2022 James Dyson Award International Top 20 project. https://www.agrobiomaterials.com
 - **Betti Marenko** (1) — Reader in design and philosophy, Central Saint Martins, University of the Arts London. Design theorist working at the meeting point of philosophy, digital technology and material culture.
 - **Bingjie Gao** (1) — Design researcher, Beijing Institute of Technology. Bingjie Gao co-designed Plant Playmate, a smart office plant with lights and expressions that offers short breaks from work stress.
 - **Biohm** (1) — Biomanufacturing company for mycelium building materials. Founded by Ehab Sayed in 2016, Biohm makes mycelium insulation panels and Orb, a board material made from food and industrial waste. https://www.biohm.co.uk/
 - **Biomason** (1) — Biocement company founded by Ginger Krieg Dosier. Architect Ginger Krieg Dosier developed a way to grow masonry with bacteria and founded Biomason to make biocement tiles and blocks. https://biomason.com/
 - **Biomemory** (1) — DNA data storage company, spin-out of CNRS and Sorbonne Université. Company that stores data in DNA made by engineered cells and is building DNA storage for data centres. https://www.biomemory.com/
 - **Biorealize** (1) — Biodesign hardware company founded by Orkan Telhan and Karen Hogan, 2015. Biorealize built the Microbial Design Studio, a desktop appliance that automates culturing, testing and harvesting microbes so designers can run biological experiments like a print queue. https://www.biorealize.com/
+- **Bios Urn (Gerard Moliné & Martín Ruiz de Azúa)** (1) — Design studio / company. Gerard Moliné and Martín Ruiz de Azúa designed the Bios Urn, a biodegradable urn that grows a tree from cremated ashes. https://urnabios.com/
 - **Biosphere 2** (1) — Earth system science facility, University of Arizona (built by Space Biospheres Ventures). Sealed glass building containing a rainforest, ocean, desert and farm.
 - **Block Research Group** (1) — Research group at ETH Zurich led by Philippe Block. The Block Research Group studies compression-only structures, shell design and structural form finding. https://block.arch.ethz.ch/
 - **Blond & Bieber** (1) — Design studio of Essi Johanna Glomb and Rasa Weber. Blond & Bieber work with microalgae as a colour source for textile printing and surfaces. https://www.blondandbieber.com/
 - **Bluebrain** (1) — Music duo (Hays and Ryan Holladay). Brothers who make location-aware albums that change as listeners walk through a place.
 - **Bob Hendrikx** (1) — Designer; founder of Loop Biotech. Bob Hendrikx studied at TU Delft and founded Loop Biotech with Lonneke Westhoff to grow coffins and urns from mycelium. https://loop-biotech.com/
+- **Boqun Huang** (1) — Designer; Central Saint Martins. Boqun Huang is a designer from Central Saint Martins whose project GROWN BLUR was selected by the Green Product / Green Concept Award.
+- **Borough of Manhattan Community College Biodesign Challenge team** (1) — Student team, Borough of Manhattan Community College; Biodesign Challenge 2023. Students at Borough of Manhattan Community College who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Botanicalls** (1) — Project team: Kati London, Rob Faludi, Kate Hartman and Rebecca Bray. Group formed at NYU ITP in 2006 that gave houseplants a voice through phone calls and, later, Twitter. https://www.botanicalls.com/
 - **Botao Amber Hu** (1) — Researcher, University of Oxford; founder of Reality Design Lab. Designer and researcher working on mixed reality, multispecies experience and human augmentation.
+- **Brad Hakes** (1) — Artist; The University of Texas at Austin. Brad Hakes is an artist whose Orbweaver interventions about living with spiders were Runner-Up at the 2023 Biodesign Challenge.
 - **Brandon Ballengée** (1) — Artist and biologist. Brandon Ballengée is an American artist-biologist who studies amphibian deformities and species decline. https://brandonballengee.com
+- **Brilliant Dyes** (1) — Company. Brilliant Dyes is a London start-up extracting pigments such as phycocyanin from cyanobacteria through a low-energy biorefinery.
 - **Bryan C. Pijanowski** (1) — Professor of Landscape Ecology and director of the Center for Global Soundscapes, Purdue University. Landscape ecologist who records soundscapes around the world as ecological data.
 - **Budburst (Chicago Botanic Garden)** (1) — Plant phenology citizen science programme. Programme where volunteers record when plants leaf, flower and fruit. https://budburst.org/
+- **Buro Belén** (1) — Design studio (Brecht Duijf, Lenneke Langenhuijsen). Buro Belén is an Amsterdam studio working with colour, textiles and natural dyes. https://www.burobelen.com
 - **Burton Nitta (Michael Burton & Michiko Nitta)** (1) — Artist-designer duo working on future bodies, food and ecology. Michael Burton and Michiko Nitta design bodily futures shaped by biotechnology, including Algaculture, a symbiotic suit that lets a person feed on algae grown in their own breath and light. https://www.burtonnitta.co.uk/
 - **Buğra Karabey** (1) — Artist and designer. Artist who builds platforms that turn the bioelectrical signals of plants into sound.
 - **CELLINK** (1) — Bioprinter and bioink manufacturer, founded 2016 (now part of BICO). CELLINK started by selling a universal cellulose-based bioink and then the BIO X desktop bioprinter, which put bioprinting on ordinary lab benches. https://www.cellink.com/
 - **Caleb Harper** (1) — Founder of the MIT Media Lab Open Agriculture Initiative (2015–2020). Architect-turned-researcher who promoted 'digital recipes' for growing food.
 - **California Academy of Sciences** (1) — Natural history museum and research institute. Museum that co-founded the City Nature Challenge and hosted iNaturalist.
 - **Cameron Beccario** (1) — Software engineer and visualization maker. Creator of earth.nullschool.net.
+- **Camila Marambio** (1) — Curator; founder of Ensayos. Camila Marambio is a Chilean curator who founded Ensayos, a nomadic research programme on the ecology of Tierra del Fuego, and curated the Chilean Pavilion Turba Tol Hol-Hol Tol. https://www.turbatol.org
+- **Camila Wandemberg** (1) — Designer; California College of the Arts alumna. Camila Wandemberg is an Ecuadorian designer whose algae-filter face masks were Runner-Up at the 2020 Biodesign Challenge.
+- **Carbios** (1) — Company. Carbios develops enzymes that break down PET plastic and polyester into monomers for recycling. https://www.carbios.com/
+- **Carbon Polymerizing System team (Mahidol University)** (1) — Student engineering team. Saharat Chawaruechai, Sumeth Klomchitcharoen and Kanyapat Ploypradith designed a carbon-to-PHB bacterial system, Thai national winner of the 2024 James Dyson Award.
 - **Carla Alcalà Badias** (1) — Artist. Spanish artist working with sound, sediments and microorganisms, often with marine scientists.
 - **Carlos Peralta** (1) — Design researcher; Design in Science project, Institute for Manufacturing, University of Cambridge. Carlos Peralta is a design researcher who worked with Cambridge scientists on how design can communicate emerging science, including biophotovoltaics.
 - **Carolina De Lara** (1) — Textile designer and biodesign researcher (University of Borås; Kyoto Institute of Technology). Carolina De Lara works on bacterial cellulose textiles, combining broken-down cellulose fibres with knitted and crocheted structures.
+- **Carvey Ehren Maigue** (1) — Designer; Mapúa University. Carvey Ehren Maigue is a Filipino engineer whose AuREUS solar material made from crop waste won the first James Dyson Award Sustainability prize in 2020.
 - **Catalog** (1) — DNA data storage and computing start-up (key assets acquired by Biomemory in 2026). Company that built a machine to write data into DNA from pre-made pieces, and stored English Wikipedia in DNA in 2019. https://www.catalogdna.com/
 - **Catherine Crockford** (1) — Director of Research, CNRS Institute for Cognitive Sciences; co-director of the Taï Chimpanzee Project. Catherine Crockford studies vocal communication and social bonds in wild chimpanzees in the Taï forest.
 - **Cayla Key** (1) — Design researcher, Northumbria University. Design researcher working on care ethics, posthumanism and more-than-human design in HCI.
 - **Cecilia Jonsson** (1) — Artist. Swedish artist working with metals, minerals and biological material, often extracting iron from living sources. https://www.ceciliajonsson.com
+- **Celestine Briët** (1) — Designer. Celestine Briët is a Dutch designer whose BeLeaf material is made from fallen leaves. http://celestine-briet.nl
+- **Cellsense team (Georgia Tech)** (1) — Student design team. Stefan Colton, Aradhita Parasrampuria and J Sebastian Garcia Medina designed Cellsense algae sequins, US runner-up in the 2023 James Dyson Award.
 - **Center for Genomic Gastronomy (Zack Denfeld & Cathrine Kramer)** (1) — Artist-led think tank on the biotechnologies and biodiversity of human food systems, founded 2010. Zack Denfeld and Cathrine Kramer research and stage food experiments about genetically modified organisms, pollution and agricultural biotech, including cooking shows made with fluorescent GM fish. https://genomicgastronomy.com/
 - **Chadwick A. Wingrave** (1) — HCI researcher, University of Central Florida (at the time of the work). Researcher in 3D interaction who explored serious games for dogs and their owners.
 - **Chao Zhong** (1) — Professor, School of Life Sciences and Technology, ShanghaiTech University. Chao Zhong engineers bacterial biofilms as programmable living materials, with printable Bacillus subtilis strains whose secreted matrix carries designed protein functions. https://slst.shanghaitech.edu.cn/
 - **Charles M. Lieber** (1) — Nanoscientist; former Professor of Chemistry, Harvard University. Chemist who pioneered nanowire and macroporous mesh electronics that can be merged with living tissue, including 3D 'cyborg' tissue scaffolds.
 - **Charlotte McCurdy** (1) — Designer and researcher. Charlotte McCurdy designs carbon-negative materials and fashion from marine algae. https://www.charlottemccurdy.com/
+- **Chitofarm (Charlotte Böhning & Mary Lempres)** (1) — Design team. Charlotte Böhning and Mary Lempres designed Chitofarm, a mealworm-powered biodigester for polystyrene, a 2022 Lexus Design Award finalist.
 - **Chris Woebken** (1) — Designer and researcher; co-founder of the Extrapolation Factory. Chris Woebken is a design researcher who builds speculative wearables and participatory futures methods, trained at the Royal College of Art Design Interactions programme. https://www.chriswoebken.com
 - **Christa Sommerer & Laurent Mignonneau** (1) — Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz. Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.
 - **Christian Brems** (1) — Artist. Christian Brems is a Danish artist working with sound, plants and speculative bio-acoustics.
 - **Christian Kerrigan** (1) — Artist and architect. Christian Kerrigan is an artist-architect who draws and films with growing and self-organising matter, including protocells and trees.
 - **Christian Rutz** (1) — Professor of Biology, University of St Andrews; founding president of the International Bio-Logging Society. Christian Rutz is a behavioural ecologist known for work on tool-using New Caledonian and Hawaiian crows and on animal-borne tracking tags. https://www.st-andrews.ac.uk/biology/people/cr68
+- **Christien Meindertsma** (1) — Designer. Christien Meindertsma is a Dutch designer known for tracing the full life of materials such as flax, wool and pigs. http://www.christienmeindertsma.com
+- **Christopher Bellamy** (1) — Biodesigner; founder of Biocrafted. Christopher Bellamy is a British biodesigner who develops living materials with bioluminescent microalgae. https://biocrafted.com/
+- **Cinzia Ferrari** (1) — Designer; Central Saint Martins. Cinzia Ferrari is a designer from Central Saint Martins whose project CyanoFabbrica was selected by the Green Product / Green Concept Award.
 - **Circa (Ted Hunt)** (1) — Timekeeping design project by designer Ted Hunt. Circa makes solar and lunar watch faces and apps that replace clock time with the rhythms of the sun and moon. https://web.archive.org/web/2023/http://circa.bio/
+- **Circular Systems** (1) — Company. Circular Systems is a materials company whose Agraloop process turns food-crop residues into textile fibres. https://circularsystems.com/
 - **City of Melbourne Urban Forest team** (1) — Urban forest and open-space team of the City of Melbourne. The City of Melbourne manages about 70,000 public trees and published them on the open Urban Forest Visual map. https://www.melbourne.vic.gov.au
+- **Claudy Jongstra** (1) — Textile artist. Claudy Jongstra is a Dutch textile artist who keeps her own flock of Drenthe Heath sheep and grows dye plants for her felted works. http://claudyjongstra.com
 - **Clee Zhuo Wang** (1) — Researcher, School of Design, Hong Kong Polytechnic University. Design researcher studying plant time and temporality in human-plant interaction.
 - **Clemens Driessen** (1) — Philosopher, Wageningen University. Philosopher of technology and animal ethics who co-created Pig Chase, a game played between pigs and people.
 - **CleverPet** (1) — Company that makes the CleverPet Hub, a puzzle console for dogs. Start-up founded by cognitive scientists from UC San Diego that launched a light-and-sound game console for dogs in 2016.
 - **Click & Grow** (1) — Indoor gardening company. Estonian company that makes self-watering smart gardens with seed pods.
 - **Climate Clock (Gan Golan & Andrew Boyd)** (1) — Artist-activist project. Project by artists Gan Golan and Andrew Boyd that installs public countdown clocks for climate deadlines.
 - **Clive van Heerden** (1) — Designer; former head of Philips Design Probes; co-founder of Van Heerden Mama. Clive van Heerden led the Philips Design Probes programme, which produced the Microbial Home, and later made speculative design films with Jack Mama and Nancy Tilbury.
+- **Coast 4C** (1) — Company. Coast 4C is a Philippine social enterprise building a regenerative seaweed supply chain with small-scale fishing communities. https://www.coast4c.com/
 - **CoeLux** (1) — Lighting company founded on research by Paolo Di Trapani (University of Insubria). Company that reproduces the look of sky and sunlight with nanoparticle optics.
 - **Colleen Flanigan** (1) — Artist; founder of Living Sea Sculpture. American sculptor who makes electrified steel structures that grow limestone underwater and serve as coral nurseries.
 - **Colorifix** (1) — Biotechnology company dyeing textiles with engineered microbes. Founded in 2016 by synthetic biologists Orr Yarkoni and Jim Ajioka, Colorifix uses engineered bacteria to make and fix dyes on fabric. https://colorifix.com/
 - **Constitutional Court of Ecuador** (1) — Ecuador's highest constitutional court. Ecuador was the first country to write the rights of nature into its constitution (2008); its Constitutional Court enforces those rights in landmark cases.
+- **Cooking Sections** (1) — Spatial practice (Daniel Fernández Pascual and Alon Schwabe). Cooking Sections is a London-based duo that examines the systems that organise the world through food, using installation, performance and site-specific interventions. https://www.climavore.org
+- **Coral Vita** (1) — Company. Coral Vita, founded by Sam Teicher and Gator Halpern, runs land-based coral farms for reef restoration. https://www.coralvita.co/
 - **Corentin Mahieu** (1) — Designer; co-founder of Bento Architecture. Belgian designer working with wood, waste streams and mycelium on furniture and interiors.
+- **Crème (Jun Aizaki)** (1) — Design studio. Crème is Jun Aizaki's Brooklyn design and architecture studio, known for the gourd-grown HyO-Cup. https://www.cremedesign.com/
 - **Cyborg Nest** (1) — Sense-extension startup co-founded by Liviu Babitz and Scott Cohen. Company that sold North Sense, a body-worn device that vibrates when facing north.
 - **Céleste Boursier-Mougenot** (1) — Artist and composer. French artist and trained composer who builds installations where living systems, water or traffic generate music; he represented France at the 2015 Venice Biennale.
 - **César Rodríguez-Garavito** (1) — Professor of Law, NYU School of Law; founding director of the More-Than-Human Life (MOTH) Program. Colombian legal scholar and field lawyer working on the rights of nature, climate litigation and Earth rights.
+- **DISPERSEED team (Universitat Politècnica de València)** (1) — Student design team. Irene Badía Madrigal, Diego Polo García, Carmen Amorós Egea and colleagues designed DISPERSEED, Spanish runner-up in the 2022 James Dyson Award.
 - **DOGTV** (1) — Television network made for dogs. Network founded in 2012 whose programmes are edited for dogs' colour vision, hearing and home-alone hours.
 - **Damanhur** (1) — Ecovillage community in Piedmont; research group behind Music of the Plants. Intentional community founded in the 1970s whose researchers built devices that turn electrical changes in plants into MIDI music; the devices are now sold as Plant Music. https://www.plantmusic.com/
 - **Damien Woods** (1) — Professor of Computer Science, Maynooth University. Computer scientist working on molecular computing and the theory of self-assembly.
@@ -15553,6 +18002,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Diana Scherer** (1) — Artist and designer. Diana Scherer trains the roots of plants to grow into patterned textile-like material, working with biologists at Radboud University. https://dianascherer.nl/
 - **Diemut Strebe** (1) — Artist, affiliate at MIT Center for Art, Science & Technology. Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine. https://diemutstrebe.com/
 - **Dirk Hebel** (1) — Professor of Sustainable Construction, Karlsruhe Institute of Technology. Dirk Hebel researches cultivated and recycled building materials, including bamboo composites and mycelium. https://nb.ieb.kit.edu/
+- **Divya Verma** (1) — Designer; National Institute of Design. Divya Verma is an Indian designer whose algae leather Kudarat was Indian runner-up in the 2022 James Dyson Award.
 - **Diya Samit** (1) — Researcher, Eindhoven University of Technology. Design researcher linking biodesign and more-than-human design through relational data about soil.
 - **Dognosis** (1) — Research company training dogs to detect cancer by smell, with sensor-rich workstations. Start-up that combines trained detection dogs with sensors and machine learning to screen breath samples for cancer.
 - **Dominique Chen** (1) — Professor, Faculty of Letters, Arts and Sciences, Waseda University. Dominique Chen researches information technology and wellbeing; with the Ferment Media Research group he built Nukabot, a talking bucket of fermenting rice bran.
@@ -15565,14 +18015,17 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Ed Hawkins** (1) — Professor of Climate Science, University of Reading. Climate scientist who created the warming stripes and climate spiral graphics.
 - **Ed Key & David Kanaga** (1) — Game designer and composer. Makers of Proteus, an island exploration game without goals.
 - **Ed Yong** (1) — Science journalist; former staff writer at The Atlantic. Pulitzer Prize-winning science writer on animals, microbes and pandemics.
+- **Eden Harrison** (1) — Designer; Royal College of Art & Imperial College London. Eden Harrison is a British designer whose reef dB structure damps offshore wind noise while providing reef habitat, UK runner-up in the 2023 James Dyson Award. http://www.edenharrison.com
 - **Eduardo Kohn** (1) — Associate Professor of Anthropology, McGill University. Eduardo Kohn is an anthropologist who studied how the Runa people of Ecuador's Upper Amazon relate to forest beings, and developed an anthropology beyond the human.
 - **Eduardo Navarro** (1) — Artist. Argentine artist whose performances and drawings invite people to take on the perception of plants, animals and other beings.
 - **Edward Masui** (1) — Researcher, Public Works Research Institute, Japan. Researcher who looks at infrastructure through long histories of food, materials and the organisms that shape them.
 - **Edwin Blake** (1) — Professor Emeritus of Computer Science, University of Cape Town. Computer scientist who worked on the icon-based field computer used by CyberTracker and on HCI for development.
 - **Ehud Sharlin** (1) — Professor, Department of Computer Science, University of Calgary. Human–robot interaction researcher whose group observed how house cats react to social robots.
+- **Ekaterina Semenova** (1) — Designer. Ekaterina Semenova is a designer whose Care for Milk turns leftover milk into a ceramic glaze. http://ekaterinasemenova.com
 - **Eldy S. Lazaro Vasquez** (1) — Designer and HCI researcher (biomaterials and wearables). Eldy S. Lazaro Vasquez designs sustainable wearables and prototyping methods with biomaterials such as mycelium and bacterial cellulose.
 - **Eleni Margariti** (1) — HCI researcher, Open Lab, Newcastle University / Northumbria University. Designer of ActuAir, a shape-changing wall that shows indoor air quality.
 - **Eleni Stavrinidou** (1) — Associate Professor, Laboratory of Organic Electronics, Linköping University; leads the Electronic Plants group. Eleni Stavrinidou grows conductive polymer wires, sensors and supercapacitors inside living plants.
+- **Elias Thaddäus Pfuner** (1) — Designer; Umeå Institute of Design. Elias Thaddäus Pfuner is a designer who with Mario Kapsalis created Nemo, a coral-restoration service, the 2020 James Dyson Award national winner in Sweden. http://eliaspfuner.com
 - **Elio Caccavale** (1) — Designer; Royal College of Art Design Interactions graduate. Italian designer who works with scientists and ethicists on objects that help people, especially children, talk about biotechnology.
 - **Elise Elsacker** (1) — Bio-architect and researcher, Vrije Universiteit Brussel and Newcastle University. Elise Elsacker studies fungal and bacterial biofabrication for architecture, characterising mycelium composites, bacterial cellulose reinforcement and self-healing living materials.
 - **Elissa Brunato** (1) — Material designer; graduate of the MA Material Futures, Central Saint Martins. Elissa Brunato works on bio-based alternatives for fashion embellishment; her Bio Iridescent Sequin was developed with RISE Research Institutes of Sweden. https://www.elissabrunato.com
@@ -15581,34 +18034,51 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Embassy of the North Sea** (1) — Research and design initiative representing the North Sea as a political subject. Founded in 2018, the Embassy of the North Sea works with artists, lawyers, scientists and fishers to listen to, speak with and eventually negotiate on behalf of the sea. https://www.embassyofthenorthsea.com
 - **Emilia Tapprest** (1) — Designer and filmmaker. Finnish designer and filmmaker who makes speculative films about technology, bodies and ecologies.
 - **Emilija Veselova** (1) — Doctoral researcher, Aalto University. Design researcher developing methods for mediating the needs of humans and natural nonhumans, including work on kombucha fermentation.
+- **Emily Salvi** (1) — Designer; Bartlett School of Architecture, UCL. Emily Salvi is a designer from Bartlett School of Architecture, UCL whose project The MECC was selected by the Green Product / Green Concept Award.
+- **Emma Money** (1) — Designer; co-founder of Cyanoskin. Emma Money is a designer who co-developed Cyanoskin, a living paint with cyanobacteria, with Holly Souza-Newman and Antoinette Nothomb.
 - **Emma van der Leest** (1) — Biodesigner; founder of BlueCity Lab. Dutch biodesigner who grows materials such as bacterial cellulose leather and runs the BlueCity Lab for biodesign in Rotterdam.
+- **Entangled Others** (1) — Artist duo (Sofia Crespo, Feileacan Kirkbride McCormick). Entangled Others is an artist duo using machine learning and scientific data to explore ecology and nonhuman life. https://entangledothers.studio
 - **Eric Klopfer** (1) — Professor and director of the Scheller Teacher Education Program, MIT. Learning scientist who builds simulations and augmented reality games for science education.
+- **Erzë Dinarama** (1) — Artist. Erzë Dinarama is a Kosovar artist whose research-based works deal with water, drought and the politics of ecological thresholds.
+- **Etsuko Yakushimaru** (1) — Musician, artist and producer. Etsuko Yakushimaru is a Japanese pop musician and artist who works across songs, instruments, satellites and biotechnology; she leads the band Soutaiseiriron. https://yakushimaruetsuko.com/
 - **Eva Eriksson** (1) — Associate Professor, Department of Digital Design and Information Studies, Aarhus University. Interaction design researcher working on participatory design, children and more-than-human perspectives.
 - **Evert van Beek** (1) — Researcher, Faculty of Industrial Design Engineering, TU Delft. Design researcher who studies everyday life with smart-home automation through the lens of human-technology co-performance.
+- **Except Integrated Sustainability** (1) — Sustainability design consultancy. Except Integrated Sustainability is a Rotterdam design and research consultancy for sustainable systems. http://www.except.nl/en/
 - **F. Stephan Mayer** (1) — Professor of Psychology, Oberlin College. Social psychologist who studies how connected people feel to the natural world.
-- **Fab Lab Barcelona** (1) — Digital fabrication lab at the Institute for Advanced Architecture of Catalonia (IAAC). Lab that develops open hardware for cities, including the Smart Citizen Kit.
 - **Fadi Botros** (1) — HCI researcher, InnoVis group, University of Calgary (at the time of Go & Grow). Fadi Botros built Go & Grow, a living plant that is watered according to its owner's physical activity.
 - **Fangyuan Chang** (1) — Researcher, School of Design, Shanghai Jiao Tong University. Design researcher who applies ACI principles to wearable health sensors for dairy cattle.
+- **Fara Peluso** (1) — Artist and designer. Fara Peluso is an Italian artist and designer in Berlin who works with algae as a living and material collaborator.
 - **FarmBot** (1) — Open-source farming robot company (founded by Rory Aronson). Company that makes an open-source CNC robot for garden beds. https://farm.bot/
+- **Fashion Institute of Technology Biodesign Challenge team** (1) — Student team, Fashion Institute of Technology; Biodesign Challenge 2016–2024. Students at Fashion Institute of Technology who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Theanne Schiros. https://www.biodesignchallenge.org/
 - **Federico Rossano** (1) — Associate Professor, Department of Cognitive Science, University of California San Diego; director of the Comparative Cognition Lab. Cognitive scientist who leads the largest study of dogs that press soundboard buttons, such as FluentPet boards.
 - **Fei (Dillon) Shieh** (1) — Design researcher, Eindhoven University of Technology. Fei (Dillon) Shieh co-designed Minty Zoo, a cabinet of sensed mint plants whose water and light are redistributed by their collective behaviour.
 - **Feng Guo** (1) — Associate Professor of Intelligent Systems Engineering, Indiana University Bloomington. Bioengineer working on acoustofluidics and organoid-based computing. His group built Brainoware, which uses a brain organoid as the reservoir in a reservoir-computing system.
+- **Fergus Telfer** (1) — Designer; Glasgow School of Art. Fergus Telfer is a Scottish designer who grew Scobio, a packaging film from gin-distillery waste.
 - **Fernanda Viégas & Martin Wattenberg** (1) — Data visualization artists and researchers (Harvard; formerly Google PAIR). Visualization duo known for artistic, public data displays.
 - **Fernando Galdon** (1) — Senior Tutor, Design Products, Royal College of Art. Fernando Galdon teaches and researches regenerative materials and furniture, framing their aesthetics as Bio-Brutalism.
 - **Fernando Laposse** (1) — Designer; founder of Studio Fernando Laposse. Mexican designer who turns plant fibres such as corn husk, sisal and loofah into materials, often through long projects with rural communities. https://www.fernandolaposse.com/
 - **Finn Petrie** (1) — Artist. Artist in Ōtepoti Dunedin who 3D-prints porcelain from LIDAR scans of ancient trees and places them in the landscape.
+- **Flash Forest** (1) — Company. Flash Forest uses drones to map land and fire germinated seed pods to reforest burned and logged areas. https://flashforest.ca/
 - **Flavia Alice Mameli** (1) — Designer and researcher, University of Applied Arts Vienna. Designer working with mycelium and regenerative material education.
 - **Florian 'Floyd' Mueller** (1) — Professor, Exertion Games Lab, Monash University; formerly RMIT University. Designer of bodily play and exertion games whose lab also explored remote nurturing play with rescued dogs.
 - **FluentPet** (1) — Pet technology company making programmable soundboard buttons. Company that makes recordable buttons and hexagonal tiles that dogs and cats press to play words.
+- **FluidSolids** (1) — Swiss biocomposite company. FluidSolids AG develops a biocomposite made from by-products of renewable raw materials that can be processed like plastic. https://www.fluidsolids.com/
+- **Foamlab** (1) — Biofabrication start-up (with Elvin Karana). Foamlab, with designer-researcher Elvin Karana, grows lightweight foams from bacterial cellulose.
+- **Formafantasma** (1) — Design studio (Andrea Trimarchi, Simone Farresin). Formafantasma is a research-driven design studio known for projects on materials, extraction and ecology. http://formafantasma.com
+- **Fragmentario (María-Elena Pombo)** (1) — Design studio. Fragmentario is María-Elena Pombo's studio designing materials from food and ocean waste, such as avocado seed and sargassum.
 - **Franca López Barbera** (1) — Design researcher, Technische Universität Braunschweig. Brings gender and decolonial thinking to more-than-human design.
+- **Frank Kolkman** (1) — Designer and researcher. Frank Kolkman is a Dutch designer who works on DIY medicine and technology; his Designs for Flies won the 2016 Dutch Design Award for Service & Systems. http://www.frankkolkman.nl
 - **Frank Noz** (1) — Designer; co-creator of Cat Cat Revolution. Designer who made an iPad game that a cat and its owner play together.
 - **François-Joseph Lapointe** (1) — Biologist and performance artist; Professor, Université de Montréal. François-Joseph Lapointe is an evolutionary biologist who uses DNA sequencing of his own microbiome as material for performances and portraits.
 - **Fredrik Aspling** (1) — Researcher in human-computer interaction, Stockholm University. Works on animal-computer and plant-computer interaction from a multispecies ethnography perspective.
 - **Fredrik Bernerstedt** (1) — Researcher, Uppsala University. HCI researcher exploring embodied, outdoor methods for more-than-human design.
 - **Free Lives** (1) — Game studio. South African studio behind Broforce and Terra Nil.
+- **Friedrich Gerlach** (1) — Designer; Bauhaus-Universität Weimar. Friedrich Gerlach is a German designer who with Julia Huhnholz made the Biocement Chair, German runner-up in the 2023 James Dyson Award and a Green Concept Award finalist. https://www.friedrichgerlach.de
 - **GROW Observatory** (1) — EU Horizon 2020 citizen science project led by the University of Dundee. Project in which growers across Europe placed soil sensors to validate satellite soil-moisture data.
+- **Gabe Tavas** (1) — Designer; University of Illinois. Gabe Tavas is an American designer who created Pyrus, a wood-like material from kombucha cellulose, a 2021 James Dyson Award International Top 20 project. http://symmetrywood.com
 - **Gabriela Munguía** (1) — Artist and researcher. Mexican artist who builds printed micro-architectures and measuring devices to study how microorganisms inhabit and change urban space.
 - **Gabrielle Hong** (1) — Design researcher, University of Sydney. Gabrielle Hong built a low-resolution display made of living moss that changes when sprayed with water.
+- **Galy** (1) — Company. Galy, founded by Luciano Bueno, grows cotton fibre from plant cells in bioreactors. https://www.galy.co/
 - **Gardens by the Bay** (1) — National garden (masterplan by Grant Associates, conservatories by Wilkinson Eyre). Singapore's 101-hectare garden park with artificial Supertrees and cooled conservatories.
 - **Garnet Hertz** (1) — Artist and design researcher; Canada Research Chair in Design and Media Arts, Emily Carr University. Canadian artist and researcher known for critical making, DIY electronics and the cockroach-driven robot he built as a graduate student at UC Irvine. http://www.conceptlab.com/
 - **Gavin Munro** (1) — Designer; co-founder of Full Grown. Gavin Munro co-founded Full Grown with Alice Munro and grows chairs, lamps and tables from living trees on a farm near Wirksworth. https://fullgrown.co.uk/
@@ -15618,6 +18088,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Gilbertto Prado** (1) — Artist and professor, Anhembi Morumbi University; coordinator of the Poéticas Digitais group. Brazilian media artist whose group Poéticas Digitais builds interactive installations about urban environments. https://www.poeticasdigitais.net
 - **Gina Czarnecki** (1) — Artist working with biological material and audience participation. Gina Czarnecki makes works with donated human material, including Palaces, a crystal sculpture grown with children's milk teeth, and Heirloom, live portraits of her daughters grown from their own skin cells on glass. https://ginaczarnecki.com/
 - **Ginkgo Bioworks** (1) — Organism design company, founded 2008. Ginkgo Bioworks runs automated foundries that engineer microbes for industry, and from 2014 ran a Creative Residency and design-led collaborations that produced scents, pigments and consumer objects. https://www.ginkgobioworks.com/
+- **Gionata Gatto** (1) — Designer and researcher. Gionata Gatto is an Italian designer whose Agricola lamps are made from agricultural by-products bound with natural gums. http://gionatagatto.com
 - **Giorgia Lupi** (1) — Information designer; partner at Pentagram. Italian information designer who co-founded Accurat and developed the idea of data humanism. http://giorgialupi.com
 - **Giulia Jiangxian Zhu** (1) — Design student, Politecnico di Milano. Designer who created Ripples, an interactive installation on the Venice Lagoon's MOSE gates and marsh species.
 - **Giulia Tomasello** (1) — Designer and researcher in biodesign and women's health. Italian designer whose Future Flora kit uses living bacteria for intimate care; STARTS Prize 2018 winner. http://gitomasello.com
@@ -15627,18 +18098,24 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Google Creative Lab** (1) — Google's in-house creative team for experiments and campaigns. Google Creative Lab makes public-facing experiments that let non-experts play with machine learning. https://experiments.withgoogle.com
 - **Google DeepMind** (1) — AI research lab of Google. Google DeepMind builds large AI models; its Gemma family of open models was adapted in 2025 to learn the structure of dolphin vocalisations. https://deepmind.google
 - **Gopinaath Kannabiran** (1) — Researcher in interaction design, IT University of Copenhagen. Brings ecofeminist and queer perspectives into HCI and computational art.
+- **Great Wrap** (1) — Company. Great Wrap, founded by Julia Kaisinger and Jordy Kay, makes compostable cling and stretch wrap from potato waste. https://greatwrap.com.au/
+- **Green Nettle Textile** (1) — Company. Green Nettle Textile is a Kenyan venture that cultivates the giant nettle and processes it into linen-like fabric. https://greennettletextiles.com/
+- **Green Spot Technologies** (1) — Company. Green Spot Technologies upcycles food-processing waste into ingredients with solid-state fermentation (Ferment'Up).
 - **Green&Blue** (1) — Cornish design company making wildlife habitats for buildings and gardens, founded by Kate and Gavin Christman. Green&Blue designs bee bricks, bird boxes and bat boxes that can be built into walls or placed in gardens. https://www.greenandblue.co.uk
+- **GreenWave** (1) — Nonprofit. GreenWave, founded by fisherman Bren Smith, develops and trains farmers in regenerative 3D ocean farming of seaweed and shellfish. https://www.greenwave.org/
 - **Greener Games** (1) — Independent studio (John Carline). Small studio that makes relaxing VR nature environments.
 - **Greg Marshall** (1) — Marine biologist and filmmaker; inventor of Crittercam at National Geographic. Biologist who invented Crittercam in 1986, a camera and data logger worn by animals, and developed it at National Geographic.
 - **Greg Nijs** (1) — Researcher, Université Libre de Bruxelles. Researcher in urban studies and civic HCI who builds DIY tools for citizen interventions in the city.
 - **Güneş-Hélène Isitan** (1) — Bioartist and researcher. Güneş-Hélène Isitan makes interactive bioart installations in which people meet microorganisms such as paramecia through touch and electricity.
 - **Halter** (1) — Agricultural technology company making solar-powered virtual-fencing collars for cattle. Company founded in 2016 whose GPS collars guide cattle with sound and vibration cues instead of physical fences.
+- **Hang Su** (1) — Designer; Politecnico di Milano. Hang Su is a designer from Politecnico di Milano whose project Phytosphere was selected by the Green Product / Green Concept Award.
 - **Hanna Wirman** (1) — Game researcher; formerly The Hong Kong Polytechnic University, now IT University of Copenhagen. Game scholar who designed and studied touchscreen games for orangutans and asked how play can cross species lines.
 - **Haru Ji & Graham Wakefield** (1) — Artists; Graham Wakefield is Associate Professor at York University (Alice Lab). Artist duo who build immersive artificial ecosystems as their long-running series Artificial Nature. https://artificialnature.net/
 - **Haruka Kasuga** (1) — Researcher, Hokkaido University. Haruka Kasuga studies science communication with VR, including videos that simulate how turtles, geckos and frogs see.
 - **HeHe (Helen Evans & Heiko Hansen)** (1) — Artist duo. Artists who make pollution and energy use visible in public space. http://www.hehe.org/
 - **Heiko Hamann** (1) — Professor of Computer Science, University of Konstanz; coordinator of flora robotica. Roboticist working on swarm robotics and robot–plant biohybrids.
 - **Helen Pynor** (1) — Artist working with the body, organs and life-death thresholds. Australian artist who works with organs, tissue and medical science; she made The Body is a Big Place with Peta Clancy at SymbioticA and with transplant researchers. http://www.helenpynor.com
+- **Helena Nikonole** (1) — Artist and curator. Helena Nikonole is a new-media artist working with AI, bio art and DIY biotechnology. https://nikonole.com/
 - **Henk Jonkers** (1) — Professor of Sustainable Building Materials, TU Delft. Microbiologist Henk Jonkers developed bacteria-based self-healing concrete, commercialised by the spin-off Basilisk. https://basiliskconcrete.com/en/
 - **Herobeat Studios** (1) — Independent video game studio. Spanish studio that developed Endling: Extinction is Forever. https://herobeatstudios.com
 - **Het Nieuwe Instituut** (1) — Dutch national institute for architecture, design and digital culture. Het Nieuwe Instituut is a museum and research institute whose research team, led by Klaas Kuitenbrouwer, developed the Zoöp model. https://zoop.hetnieuweinstituut.nl/en
@@ -15646,13 +18123,18 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Hinako Takita** (1) — Researcher (co-author with Tokushu Inamura, Kyushu University). Design researcher who studies fermentation practices as sites of more-than-human participatory design.
 - **Hirokazu Takahashi** (1) — Professor of Mechano-Informatics, The University of Tokyo. Engineer whose lab uses living neuronal cultures as physical reservoirs to control robots.
 - **Hochul Hwang** (1) — PhD researcher, Manning College of Information and Computer Sciences, University of Massachusetts Amherst. Robotics and HCI researcher who studies handler–guide dog interaction to inform legged guide dog robots.
+- **Home Grown (RCA team)** (1) — Student team, Royal College of Art. Home Grown is an RCA team making consumer electronics from bio-based, locally sourced materials.
 - **Hong Luo** (1) — Researcher, Exertion Games Lab, Monash University. HCI researcher designing bodily, touch-based systems that connect people with plants.
 - **Hongjie Yang** (1) — Designer; Design Academy Eindhoven graduate. Chinese designer based in the Netherlands who works with tissue engineers on objects partly made of living human cells. http://www.hongjieyang.com/
 - **Hongyi Zhang** (1) — Designer, Department of Industrial Design, Xi'an Academy of Fine Arts. Industrial designer who led Meow Meow Call, a prototype for communicating with deaf cats.
+- **Honoka** (1) — Design studio. Honoka is a Japanese design studio that 3D-prints furniture from a composite of igusa rush grass, the plant used for tatami mats.
 - **Hoyoung Youn** (1) — Design researcher, Yonsei University. Studies post-anthropocentric approaches to service and systems design.
+- **Hub for Biotechnology in the Built Environment Biodesign Challenge team** (1) — Student team, Hub for Biotechnology in the Built Environment; Biodesign Challenge 2020. Students at Hub for Biotechnology in the Built Environment who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://bbe.ac.uk/
 - **Hubert Duprat** (1) — Artist. French artist known for giving caddisfly larvae gold flakes and precious stones, from which they build their protective cases.
+- **Hutan** (1) — Conservation organisation. Hutan is a community-based conservation organisation founded by Isabelle Lackman and Marc Ancrenaz that reforests wildlife corridors in Sabah. https://www.hutan.org.my/
 - **Huue** (1) — Biotechnology dye company founded by Tammy Hsu and Michelle Zhu, 2019. Huue engineers bacteria to make indigo through an enzymatic route, avoiding the cyanide and formaldehyde used in synthetic indigo for denim. https://www.huue.bio/
 - **Hye Yeon Nam** (1) — Associate Professor of Digital Art, Louisiana State University. Hye Yeon Nam is a media artist whose recent work, including FloraWear, puts living plants on the body.
+- **Hyunseok An** (1) — Designer; Rhode Island School of Design. Hyunseok An is a Korean designer whose domestic microalgae farm Coral was a 2020 Lexus Design Award finalist.
 - **IAAC** (1) — Institute for Advanced Architecture of Catalonia. IAAC is an architecture school and research centre in Barcelona whose master's programmes explore digital fabrication, data and biomaterials.
 - **IDEO** (1) — Design and innovation consultancy. Global design consultancy; its San Francisco studio ran early speculative projects with synthetic biologists. https://www.ideo.com/
 - **Ian Cheng** (1) — Artist. American artist who builds live simulations of artificial creatures that learn, change and die without a script. http://iancheng.com/
@@ -15660,33 +18142,39 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Ilhan Aslan** (1) — Associate Professor, Department of Computer Science, Aalborg University (formerly University of Augsburg). HCI researcher on somaesthetics, implicit interaction and human–plant interfaces.
 - **Impossible Foods** (1) — Food company founded by Patrick O. Brown, 2011. Impossible Foods identified soy leghemoglobin as the molecule that makes meat taste like meat and produces it in engineered Pichia yeast for its plant-based burger. https://impossiblefoods.com/
 - **Inbal Arnon** (1) — Professor of Psychology, Hebrew University of Jerusalem. Inbal Arnon studies how children learn language and how statistical structure shapes learning.
+- **Ingrid Nijhoff** (1) — Designer. Ingrid Nijhoff is a Dutch designer who grew inks from pigment-producing bacteria in Living Pixels. http://studionijhoff.nl
 - **Interactive Architecture Lab** (1) — Research group at the Bartlett School of Architecture, UCL (led by Ruairi Glynn). A multidisciplinary lab studying the behaviour and interaction of things, environments and their inhabitants through robotic and responsive architecture. http://www.interactivearchitecture.org
 - **Interspecies Internet** (1) — Initiative founded by Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf. Interspecies Internet is a think tank that brings together researchers, technologists and artists to explore communication between humans and other animals. https://www.interspecies.io
 - **Irene Pepperberg** (1) — Research associate, Harvard University; founder of The Alex Foundation. Irene Pepperberg is a comparative psychologist who spent three decades teaching the African grey parrot Alex to use English labels for objects, colours and numbers. https://alexfoundation.org
 - **Isaac Monté** (1) — Designer and artist. Dutch designer who works with biological tissue and material processes, including decellularised organs.
 - **Isabel Correa** (1) — Researcher, Teachers College, Columbia University. Learning designer working on biodesign tools and pedagogies for children.
+- **Isidora Correa** (1) — Artist and researcher. Isidora Correa is a Chilean artist working with extremophile bacteria and lithium extraction; she won the 2026 Falling Walls Art & Science Breakthrough.
 - **Iuliia Larikova** (1) — Architect and researcher, Technical University of Munich. Works on digital fabrication for multispecies architecture.
 - **Ivan Poupyrev** (1) — Interaction researcher; formerly Disney Research and Google ATAP (Project Soli, Jacquard). Ivan Poupyrev invented sensing technologies such as Touché, Botanicus Interacticus, Soli radar and Jacquard textiles. http://www.ivanpoupyrev.com/
+- **Izabela Świca** (1) — Designer; University of Warmia and Mazury. Izabela Świca is a Polish designer whose algae–fungi biofertiliser capsule was a 2021 James Dyson Award national runner-up in Poland.
 - **J. Lomax Boyd** (1) — Assistant Professor, Berman Institute of Bioethics, Johns Hopkins University. Neuroscientist and bioethicist who studies public and expert attitudes toward brain organoids and embodied biocomputing.
 - **Jacqueline T. Chien** (1) — HCI researcher, Cornell University (at the time of Biogotchi!). Jacqueline T. Chien explored plants as living information displays by manipulating their growth to show personal data.
 - **Jae Rhim Lee** (1) — Artist; founder of Coeio. Korean-American artist who started the Infinity Burial Project and founded Coeio to produce a mushroom-based burial suit.
+- **Jakob Kukula** (1) — Designer. Jakob Kukula is a Berlin designer who created SpreeBerlin, a sensing buoy and platform that gives the river Spree a public voice. http://spreeberlin.de
 - **Jakob von Uexküll** (1) — Biologist (1864–1944), founder of the Institut für Umweltforschung, University of Hamburg. Baltic German biologist who described how each animal lives inside its own perceptual world.
-- **Jalila Essaïdi** (1) — Artist and bio-entrepreneur. Jalila Essaïdi is a Dutch artist who works with biomaterials, from spider-silk skin to materials made from manure. https://jalilaessaidi.com
 - **James Bridle** (1) — Artist and writer. James Bridle is an artist and writer working on technology, networks and nonhuman intelligence. https://jamesbridle.com
 - **James J. Collins** (1) — Termeer Professor of Medical Engineering and Science, MIT. Bioengineer, a founder of synthetic biology, who built the genetic toggle switch and later paper-based cell-free diagnostics. https://collinslab.mit.edu/
 - **James King** (1) — Designer; Royal College of Art Design Interactions graduate. British designer whose graduate work at the Royal College of Art speculated on how lab-grown meat might look and be served.
 - **Jan Fell** (1) — Researcher, National Tsing Hua University. HCI researcher studying ethics and sustainability in interaction design that involves plants.
+- **Jan Klingler** (1) — Designer. Jan Klingler is a designer whose Bacteria Lamps preserve colonies of bacteria sampled from people and places in glass. https://janklingler.com/
 - **Jana Winderen** (1) — Sound artist working with hydrophones and ultrasonic recording. Trained in mathematics, chemistry and fish ecology, Winderen records sounds in the sea, ice and rivers that humans usually cannot hear, and composes them into multichannel installations. https://www.janawinderen.com/
 - **Jane Bennett** (1) — Professor of Political Science, Johns Hopkins University. Political theorist who develops a vital materialism in which things and materials have their own agency.
 - **Jane Tingley** (1) — Artist; Associate Professor, York University; director of SLOlab. Canadian artist who builds sensor networks and interactive installations about trees and forests. https://janetingley.com
 - **Jaz Hee-jeong Choi** (1) — Professor and director of the Care-Full Design Lab, RMIT University. Design researcher on care, urban food and more-than-human participation; co-founder of the More-than-Human Dérive and Open Forest projects.
 - **Jeffrey Bardzell** (1) — Professor of Informatics, Pennsylvania State University. Jeffrey Bardzell is an HCI theorist working on design criticism, aesthetics and feminist and posthumanist perspectives on interaction design.
 - **Jeffrey J. Tabor** (1) — Professor of Bioengineering and Biosciences, Rice University. Jeffrey Tabor engineers light-controlled genetic circuits in bacteria; his early work turned E. coli lawns into biological film and an edge-detecting computer.
+- **Jelte van Abbema** (1) — Graphic designer. Jelte van Abbema is a Dutch graphic designer who won the 2009 Dutch Design Award for Young Designer, partly for Symbiose, a poster column overgrown by bacteria.
 - **Jen Bervin** (1) — Poet and visual artist. American poet and artist whose books and installations work across text and textile, including collaborations with silk-materials scientists. https://jenbervin.com/
 - **Jen Liu** (1) — Designer and researcher; PhD, Cornell University. Designer-researcher who made wearable tools for mushroom foraging to study how people and fungi survive together. https://jenliujenliu.com/
 - **Jenn Leung** (1) — Designer and researcher, University of the Arts London; Antikythera studio. Designer and researcher who works on computation, simulation and games; co-author of a design-space study of organoid array computing for Antikythera.
 - **Jennifer Mankoff** (1) — Professor, Paul G. Allen School of Computer Science & Engineering, University of Washington. HCI researcher in accessibility and ubiquitous computing who co-authored an early UIST paper on peripheral displays for a family's dog.
 - **Jenny E. Sabin** (1) — Architect; Professor of Architecture, Cornell University; principal of Jenny Sabin Studio. Jenny Sabin is an architect who works across architecture, cell biology and materials science, building adaptive structures from insights into how cells behave. https://www.jennysabin.com/
+- **Jesse Adler** (1) — Designer; Central Saint Martins. Jesse Adler is a designer from Central Saint Martins whose project Alchemical Mycology was selected by the Green Product / Green Concept Award.
 - **Jessica Frawley** (1) — Researcher, University of Technology Sydney; now The University of Sydney. HCI researcher who adapted personas to represent farm animals in the design of sustainable food systems.
 - **Jiahe Li** (1) — Researcher, Xi'an Jiaotong-Liverpool University. Design researcher working on virtual reality and nonhuman embodiment.
 - **Jian Yu** (1) — Researcher, Simon Fraser University. Design researcher working on weaving, craft and posthumanist design practice.
@@ -15696,7 +18184,9 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Jiwon Woo** (1) — Artist. Korean artist working with microbes, fungi and fermentation to explore identity and inheritance.
 - **Jixiang Jiang** (1) — Design researcher, Politecnico di Milano. Researches pluriversal and more-than-human design; led the Hokkhi project on Daoist practice and oyster reef restoration in Quanzhou with Shu Zhang and Yizao Wu.
 - **Joan Sol Roo** (1) — HCI researcher (PhD, Inria Bordeaux, Potioc team). Researcher on spatial augmented reality and mindfulness.
+- **Joana Moll** (1) — Artist and researcher. Joana Moll is an artist whose work examines the material and ecological costs of digital technologies. https://www.janavirgin.com/
 - **Joana Pestana** (1) — Designer and researcher, University of Porto / ITI-LARSyS. Designs participatory assemblies that include nonhuman voices.
+- **Joanna Cheng** (1) — Designer; University of the Arts London. Joanna Cheng is a designer from University of the Arts London whose project AstroFeast was selected by the Green Product / Green Concept Award.
 - **Joaquín Fargas** (1) — Artist and engineer; director of Proyecto Biosfera. Argentine artist working across art, science and technology on climate and life, including sealed biospheres and Antarctic robots. https://www.joaquinfargas.com
 - **Jodi Forlizzi** (1) — Professor, Human-Computer Interaction Institute, Carnegie Mellon University. Jodi Forlizzi is an interaction design researcher known for work on product experience, robots and service design.
 - **Johanna Just** (1) — Researcher, Institute of Landscape and Urban Studies, ETH Zurich. Landscape architecture researcher drawing on multispecies studies to rethink landscape practice.
@@ -15707,38 +18197,50 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **John LaRocco** (1) — Research scientist, College of Medicine, The Ohio State University. Engineer who grows shiitake mycelium into memristors and other electronic components.
 - **Johnny DiBlasi** (1) — Artist; Assistant Professor, Department of Art, University at Buffalo; co-founder of Phylum. Johnny DiBlasi makes computational and bio-digital artworks, including Beauty, in which an AI agent tends cultures of social bacteria.
 - **Jon McCormack** (1) — Professor and director of SensiLab, Monash University. Artist and researcher in generative art and artificial life. https://jonmccormack.info/
+- **Jonah Goodman** (1) — Designer; Parsons School of Design. Jonah Goodman is a designer whose kombucha-cellulose wound dressing ECO-SKIN won Outstanding Science at the 2025 Biodesign Challenge.
 - **Jonas Fritsch** (1) — Associate Professor, IT University of Copenhagen. Interaction design researcher working on affect, atmosphere and bodily experience in design.
 - **Jonathan Dessi-Olive** (1) — Architect; Assistant Professor of Architecture, University of North Carolina at Charlotte. Jonathan Dessi-Olive designs and grows large structures from mycelium composites, from the vaulted Monolito Micelio pavilion (2018) to the suspended acoustic sculpture Phoenix (2023).
 - **Jonathan Ho** (1) — Artist. Artist whose installations mix mythology, biology and gender, working with snail biologist Joris Koene on hermaphroditism.
+- **Jonne Verheij & Lidewei Reitsma** (1) — Designer; Studio Jonne Verheij. Jonne Verheij & Lidewei Reitsma is a designer from Studio Jonne Verheij whose project Interwoven was selected by the Green Product / Green Concept Award.
 - **Jordan Miller** (1) — Associate Professor of Bioengineering, Rice University. Jordan Miller works on stereolithographic printing of hydrogels with open-source hardware and software, including multivascular networks that mimic breathing lung tissue. https://millerlab.rice.edu/
 - **Jorge Luis Siesquén Deza** (1) — Designer and researcher, University College London. Design researcher who extends inclusive design to nonhuman stakeholders.
 - **Joris Laarman** (1) — Designer; founder of Joris Laarman Lab and co-founder of MX3D. Dutch designer known for furniture generated by algorithms and robotic 3D metal printing, who has also experimented with biological materials. https://www.jorislaarman.com/
 - **Joseph Samuel Johnson** (1) — Researcher, Information Technology University. Researcher who co-designs digital systems for human-wildlife cohabitation.
 - **Joycelyn Longdon** (1) — PhD researcher, University of Cambridge; environmental justice technologist. Works on ecoacoustics, AI and justice-led conservation with forest communities.
+- **Judith Antonia Zbanek** (1) — Designer; HTW Dresden. Judith Antonia Zbanek is a designer from HTW Dresden whose project Mycelium & Fiber was selected by the Green Product / Green Concept Award.
 - **Judith Doyle** (1) — Artist, filmmaker and professor at OCAD University. Media artist working with video, installation and interactive media.
 - **Jules Litman-Cleper** (1) — Artist; creator of Earth-Centered Communication Technology (Earth Tech Net). Artist who makes experimental works and frameworks that place computational media within ecological evolution.
-- **Julia Moser** (1) — Textile designer and researcher, University of Arts Linz. Julia Moser dyes textiles with living pigment-producing bacteria and develops ways to design patterns with them. https://www.juliamoser.com
 - **Julian Abraham 'Togar'** (1) — Artist, musician and self-described pseudo-scientist. Born in Medan in 1987, Julian Abraham 'Togar' makes installations and workshops that connect sound, open-source electronics, fermentation and ecology; he was shortlisted for the Future Generation Art Prize 2024.
+- **Julian Schwarze** (1) — Designer; HfG Offenbach. Julian Schwarze is a German designer whose mobile bee-colony system Bee2Bee was an International Top 20 project in the 2016 James Dyson Award.
+- **Julian Yasin Buchgraber** (1) — Designer; FH Joanneum. Julian Yasin Buchgraber is a designer from FH Joanneum whose project Algae Harvester was selected by the Green Product / Green Concept Award.
 - **Julie Elie** (1) — Researcher, University of California, Berkeley (Theunissen Lab). Julie Elie studies the vocal repertoire and meaning of calls in zebra finches, in the lab and in the wild.
 - **Julie Freeman** (1) — Artist and computer scientist; director of the data-art studio Translating Nature. Julie Freeman makes artworks from data produced by living systems, from fish movements to microbial electricity.
 - **Jun Yao** (1) — Associate Professor of Electrical and Computer Engineering, University of Massachusetts Amherst. Jun Yao develops bio-derived electronics, including protein-nanowire and biofilm devices that generate electricity from humidity and evaporation.
 - **Juniper (Jennifer T.) Harrower** (1) — Artist and ecologist; co-founder of the Algae Society BioArt Design Lab. Artist-ecologist who works across bioart and plant–microbe ecology.
 - **Justine Emard** (1) — Visual artist working with neuroscience, robotics and machine learning. French artist who combines photography, video, robotics and AI; her works draw on data from bees, brains and androids. https://justineemard.com
 - **K. Cassie Kresnye** (1) — Researcher; PhD, Indiana University Bloomington. HCI researcher who designed a smart habitat for rehabilitating orphaned opossums and studied volunteer work at wildlife centres.
+- **KBCols Sciences** (1) — Company. KBCols Sciences, founded by Vaishali Kulkarni, produces natural textile colourants from bacteria isolated from India's biodiversity. https://www.kbcolssciences.com/
 - **Karen Alim** (1) — Professor of Theory of Biological Networks, Technical University of Munich. Physicist who studies how flow networks in slime moulds and other organisms store information and make decisions.
 - **Karen Barad** (1) — Distinguished Professor of Feminist Studies, Philosophy, and History of Consciousness, UC Santa Cruz. Karen Barad is a theoretical physicist and feminist theorist who developed agential realism.
 - **Karin Strauss** (1) — Senior Principal Research Manager, Microsoft Research; affiliate professor, University of Washington. Computer architect who leads Microsoft's DNA data storage research.
 - **Karola V. Kreitmair** (1) — Assistant Professor of Medical History and Bioethics, University of Wisconsin–Madison. Bioethicist who writes on neurotechnology and on how uncertainty about consciousness should shape brain organoid research.
+- **Karolina Sulich** (1) — Designer; NYU Integrated Design & Media. Karolina Sulich is a designer whose community LAMP biosensor for heavy metals in the Gowanus Canal was a top-8 finalist at the 2025 Biodesign Challenge.
 - **Kars Alfrink** (1) — Designer; founder of the studio Hubbub; researcher at TU Delft. Game designer who co-created Pig Chase and works on contestable AI and urban play.
 - **Katherine W. Song** (1) — Assistant Professor, Knowledge and Intelligence Design, Delft University of Technology. Katherine W. Song builds sustainable and biodegradable interactive devices and electronics, with a background in electrical engineering and HCI.
 - **Kathy High** (1) — Professor of Video and New Media, Rensselaer Polytechnic Institute. American artist and educator who works with living systems, animal sentience and biotech ethics; she coordinates the NATURE Lab at the Sanctuary for Independent Media. https://www.kathyhigh.com
 - **Kavita Gonsalves** (1) — Artist and researcher, Queensland University of Technology. Artist-researcher working with multispecies storytelling, locative media and decolonial perspectives.
+- **Kazuhito Takadoi** (1) — Artist. Kazuhito Takadoi is a Japanese artist in the UK who grows the grasses, reeds and branches he weaves into sculptures; he won the 2019 LOEWE Foundation Craft Prize. https://www.kazuhitotakadoi.com
 - **Keel Labs (formerly AlgiKnit)** (1) — Materials company making kelp-based yarn. Founded in 2017 as AlgiKnit by Tessa Callaghan and Aleksandra Gosiewski, Keel Labs makes Kelsun yarn from alginate extracted from kelp. https://www.keellabs.com/
+- **Keer Hu** (1) — Designer; Tongji University College of Design and Innovation. Keer Hu is a Shanghai designer who, with Shuo Yuan, created Power Mutualism, a cyanobacteria wearable that won Outstanding Science at the 2022 Biodesign Challenge and the 2021 James Dyson Award in mainland China.
 - **Keili Koppel** (1) — PhD researcher, University of Edinburgh. Studies design methods that help people notice and relate to plants.
+- **Keio University Graduate School of Media Design Biodesign Challenge team** (1) — Student team, Keio University Graduate School of Media Design; Biodesign Challenge 2022–2025. Students at Keio University Graduate School of Media Design who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **Kelpi** (1) — Materials company. Kelpi is a Bristol start-up developing seaweed-derived barrier coatings for paper and card packaging. https://www.kelpi.net
+- **Keltex** (1) — Company. Keltex is a Tanzanian venture that combines AI-optimised seaweed farming with biopolymer extraction to make leather alternatives. https://keltexleather.com
 - **Ken Goldberg** (1) — Roboticist and artist; professor, UC Berkeley. Robotics researcher and artist who pioneered internet-controlled robots in the mid-1990s, including The Telegarden with Joseph Santarromana. https://goldberg.berkeley.edu/
 - **Kenichi Okada** (1) — Designer; Royal College of Art Design Interactions graduate. Kenichi Okada is a Japanese interaction designer who co-created Animal Superpowers with Chris Woebken at the Royal College of Art.
 - **Kenjiro Fukuda** (1) — Senior Research Scientist, Thin-Film Device Laboratory, RIKEN. Engineer developing ultrathin organic solar cells and electronics that can be worn by skin, plants and insects.
 - **Kenneth S. Kosik** (1) — Professor of Neuroscience, University of California, Santa Barbara. Neuroscientist whose lab recorded human brain organoids on high-density CMOS microelectrode arrays to map their circuits and oscillations.
+- **Kent State University Biodesign Challenge team** (1) — Student team, Kent State University; Biodesign Challenge 2020. Students at Kent State University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Keri Facer** (1) — Professor of Educational and Social Futures, University of Bristol; formerly Research Director at Futurelab. Education researcher who led early mobile learning experiments at Futurelab.
 - **Kevin Blackistone** (1) — Artist and researcher, University of Arts and Design Linz (Kunstuniversität Linz). Kevin Blackistone builds installations that combine living microbial cultures with robotics and automated imaging.
 - **Kevin Coffey** (1) — Neuroscientist, Department of Psychiatry and Behavioral Sciences, University of Washington. Researcher who co-created DeepSqueak, deep-learning software that detects and classifies rodent ultrasonic calls.
@@ -15751,27 +18253,38 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Kristine Samson** (1) — Associate Professor, Roskilde University. Researcher in urban design and performative urbanism, studying urban nature and planetary thinking in design.
 - **Kuang-Yi Ku** (1) — Bio artist, trained dentist. Taiwanese bio artist and researcher who uses biotechnology and speculative anatomy to explore queer sexuality and the body.
 - **Kunal Masania** (1) — Associate Professor of Aerospace Structures and Materials, TU Delft; Shaping Matter Lab. Kunal Masania designs printable material systems that grow, including hydrogel structures seeded with cyanobacteria that mineralise carbon while they photosynthesise. https://www.shapingmatterlab.org/
+- **Kyeongho Park** (1) — Designer; Hanyang University ERICA. Kyeongho Park is a Korean designer who with Yejin Heo created Zero Bag, a dissolving alginate package that won the 2023 Lexus Design Award.
+- **Kyran Knauf** (1) — Designer; Design Academy Eindhoven. Kyran Knauf is a designer whose home cricket farm Crikorama won the 2024 James Dyson Award in the Netherlands. http://kyranknauf.com
 - **Laela Sayigh** (1) — Research specialist, Woods Hole Oceanographic Institution; Sarasota Dolphin Research Program. Laela Sayigh has studied the signature whistles of the Sarasota Bay bottlenose dolphin community for over 35 years. https://www.whoi.edu
+- **LanzaTech** (1) — Company. LanzaTech, led by Jennifer Holmgren, uses gas-fermenting bacteria to turn industrial off-gases into ethanol and chemicals. https://lanzatech.com/
 - **Laura Cinti** (1) — Artist and researcher; co-founder of C-LAB. Artist working at the edge of art, biology and technology with living plants and conservation science.
 - **Laura Grebenstein** (1) — Researcher, Friedrich-Alexander-Universität Erlangen-Nürnberg (molecular communication). Laura Grebenstein builds microscale molecular-communication testbeds that use engineered bacteria to convert light into chemical signals.
 - **Lawrence Bonassar** (1) — Professor of Biomedical Engineering and Mechanical Engineering, Cornell University. Lawrence Bonassar's lab prints cartilage from 3D scans, including patient-specific ears grown from collagen hydrogel injected into printed moulds. https://bonassar.research.engineering.cornell.edu/
+- **Le Qara** (1) — Company. Le Qara is a Peruvian biomaterials company, founded by Isemar and Jacqueline Cruz Loayza, that grows leather-like material with microorganisms.
 - **Lely** (1) — Dutch agricultural machinery and robotics manufacturer. Company that introduced the Astronaut milking robot in 1992, in which cows choose when to be milked.
+- **Leo Roth** (1) — Student designer, Rye Country Day School. Leo Roth is a high-school designer whose PolyNation artificial flowers for pollinators was a top-8 finalist at the 2024 Biodesign Challenge.
 - **Leonard Adleman** (1) — Professor of Computer Science, University of Southern California. Computer scientist, co-inventor of RSA encryption and founder of DNA computing.
 - **Leonardo Angelini** (1) — Professor, HES-SO University of Applied Sciences of Western Switzerland, Fribourg. Leonardo Angelini designs tangible and embodied interfaces for older adults and everyday objects.
 - **Leonardo Hummel** (1) — Designer and researcher, University of Washington. Leonardo Hummel developed SeaWeaver, a method for building artificial reefs from hand-woven metal forms.
 - **Lianne Toussaint** (1) — Researcher and lecturer, ArtEZ University of the Arts. Fashion and design researcher writing on biodesign, wearables and ecocentric approaches to clothing.
+- **Lieske Schreuder** (1) — Designer. Lieske Schreuder is a Dutch designer who fed garden snails coloured paper to make a linoleum-like material from their droppings.
 - **Light Bio** (1) — Synthetic biology company selling bioluminescent plants, founded 2019. Light Bio developed the Firefly Petunia, a petunia carrying a fungal bioluminescence pathway that glows continuously, and sold it to US households from 2024. https://light.bio/
 - **Liliana E. Caughman** (1) — Researcher, Arizona State University. Researcher working on water governance, sustainability and civic chatbots.
 - **Linas Kristupas Gabrielaitis** (1) — Researcher, Tampere University. Game and design researcher who studies play with living, unpredictable partners such as fungi.
 - **Lisa L. Townsend** (1) — HCI researcher, LMU Munich (with Sven Mayer). Researcher on virtual reality and nature connectedness.
+- **Liv Bargman** (1) — Designer; Central Saint Martins MA Material Futures alumna. Liv Bargman is a London designer who works with biology and speculative material futures; with Nina Cutler she won the 2017 Biodesign Challenge with Quantworm Mine.
 - **Livin Studio** (1) — Design studio of Katharina Unger and Julia Kaisinger. Livin Studio, founded by Katharina Unger and Julia Kaisinger, designs food systems such as insect farms and fungal incubators. https://katharinaunger.com/
 - **Living Colour** (1) — Research project of designers Laura Luchtman (Kukka) and Ilfa Siebenhaar. Living Colour, started in 2016 with Hogeschool Rotterdam, grows pigment-producing bacteria directly on fabric. https://livingcolour.eu/
 - **Living Ink Technologies** (1) — Algae-based pigment company founded by Scott Fulbright and Steve Albers, 2013. Living Ink began with a kit for drawing with living algae and now makes Algae Ink, a black pigment from algae biomass that replaces petroleum carbon black in printing. https://www.livingink.co/
+- **Living Tex'Celium team (University of Stuttgart)** (1) — Designer; University of Stuttgart. Living Tex'Celium team (University of Stuttgart) is a designer from University of Stuttgart whose project Living Tex'Celium was selected by the Green Product / Green Concept Award.
 - **Living Things (Jacob Douenias & Ethan Frier)** (1) — Design partnership of architectural designer Jacob Douenias and industrial designer Ethan Frier. Jacob Douenias and Ethan Frier designed bioreactor furniture for living spirulina cultures, shown at the Mattress Factory in 2015. http://www.ethanfrier.com/living-things
 - **Logan Shockey** (1) — Design researcher, University of Colorado Boulder. Designs biology-based interactive objects with microorganisms.
+- **Lotte Wigman** (1) — Designer; Design Academy Eindhoven. Lotte Wigman is a designer from Design Academy Eindhoven whose project Negotiating Boundaries was selected by the Green Product / Green Concept Award.
 - **Louis Liebenberg** (1) — Founder, CyberTracker Conservation. Tracker and scientist who co-created CyberTracker so that expert trackers who cannot read or write can record animal observations.
 - **Louis Rice** (1) — Associate Professor of Architecture, University of the West of England. Architect and urbanist who studies participatory design and the role of nonhuman actors in shaping places.
+- **Luca Alessandrini** (1) — Designer; Royal College of Art. Luca Alessandrini is a designer who made a violin from silkworm and spider silk composites.
 - **Lucas Ogasawara de Oliveira** (1) — Researcher, Keio University Graduate School of Media Design. Designer-researcher combining media archaeology and more-than-human design, working with the Minamata case in Japan.
+- **Lucrezia Alessandroni** (1) — Designer; Central Saint Martins. Lucrezia Alessandroni is a designer from Central Saint Martins whose project The Soothing Cup was selected by the Green Product / Green Concept Award.
 - **Lucy Hughes** (1) — Product designer; founder of MarinaTex. Lucy Hughes developed MarinaTex as her final-year product design project at the University of Sussex and won the 2019 James Dyson Award with it. https://marinatex.co.uk
 - **Luis Ceze** (1) — Professor of Computer Science and Engineering, University of Washington; co-director of MISL. Computer architect who co-leads research on storing and computing with DNA.
 - **Lynette Wallworth** (1) — Artist and filmmaker. Australian artist who makes immersive works with communities, including Collisions and Awavena.
@@ -15779,17 +18292,24 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **MBARI** (1) — Monterey Bay Aquarium Research Institute. Ocean research institute behind FathomNet and Ocean Vision AI.
 - **MIT Design Lab** (1) — Design research lab at the Massachusetts Institute of Technology. The MIT Design Lab works with industry partners on design research for future products, including biodesign for sportswear with Puma. https://design.mit.edu/
 - **MIT Senseable City Lab** (1) — Research lab at MIT, directed by Carlo Ratti. Lab that studies cities through sensing and data.
+- **MYCL (Mycotech Lab)** (1) — Company. MYCL, co-founded by Adi Reza Nugroho and Annisa Wibi Ismarlanti, grows the mycelium leather Mylea on agricultural waste. https://mycl.bio/
+- **Macromedia University Biodesign Challenge team** (1) — Student team, Macromedia University; Biodesign Challenge 2025. Students at Macromedia University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Madalina Nicolae** (1) — HCI researcher (Saarland University, Télécom Paris and Léonard de Vinci Pôle Universitaire). Madalina Nicolae works on growable interactive devices, embedding electronics in living biofilms and bacterial cellulose so that the device body is grown rather than moulded.
 - **Mae-ling Lokko** (1) — Architectural scientist, designer and artist; Assistant Professor, Yale School of Architecture; founder of Willow Technologies. Ghanaian-Filipino architectural scientist who upcycles agricultural waste, fungi and plant fibres into building materials, linking material research to generative justice. https://www.maelokko.com/
 - **Magnus Larsson** (1) — Architect. Magnus Larsson is a Swedish architect known for his proposal to solidify desert sand with bacteria.
+- **Maija Järviniemi & Outi Mustonen** (1) — Designers; Aalto University. Maija Järviniemi and Outi Mustonen made edible tableware from bacterial cellulose and pine-bark flour at Aalto University.
 - **Malai** (1) — Biomaterials studio founded by Zuzana Gombošová and CS Susmith. Malai grows bacterial cellulose on waste coconut water collected from coconut processors in Kerala and turns it into a flexible, leather-like material for bags and accessories. https://www.malai.eco
 - **Maliheh Ghajargar** (1) — Researcher, Internet of Things and People Research Center, Malmö University. Interaction design researcher working on tangible interaction, AI and multispecies storytelling.
 - **Manuel Simões** (1) — Design researcher, University of Lisbon. Design researcher working with bio-pigments and local materials of the Tagus estuary.
 - **Manuhuia Barcham** (1) — Design researcher and practitioner. Māori design researcher who writes on decolonial and pluriversal design, drawing on river restoration work in Aotearoa New Zealand.
-- **Marcos Cruz** (1) — Professor of Innovative Environments, The Bartlett (UCL); co-director of BiotA Lab. Marcos Cruz is an architect who designs bioreceptive façades that invite moss, lichen and algae to grow.
+- **Marco Barotti** (1) — Media artist. Marco Barotti is an Italian media artist whose sound sculptures respond to environmental data and ecosystems. https://www.marcobarotti.com
 - **Margaret Rynning** (1) — Design researcher, Kristiania University College. Works on discursive design and design activism around biodiversity.
 - **Margarita Grinko** (1) — Researcher, University of Siegen. Works on socio-informatics and participatory technology projects in the Global South.
+- **Margent Farm** (1) — Company. Margent Farm grows hemp and makes bio-composite building products from it on the same farm. https://www.margentfarm.com/
+- **Marina Otero Verzier** (1) — Architect, researcher and curator. Marina Otero Verzier is a Spanish architect whose research addresses data infrastructure, extraction and care.
+- **Markos Georgiou** (1) — Designer; Royal College of Art. Markos Georgiou is a designer whose bacterial-cellulose bioreactor Hydra was UK runner-up in the 2025 James Dyson Award. https://markosdesigns.com
 - **Markéta Dolejšová** (1) — Design researcher, Aalto University; co-founder of Open Forest. Works on speculative food futures, fermentation and more-than-human forest data through participatory events.
+- **Marley E. Townsend** (1) — Artist; CalArts alumna. Marley E. Townsend is an artist whose data and genetic portrait The Other Townsend won Outstanding Social Critique at the 2019 Biodesign Challenge.
 - **Marlène Huissoud** (1) — Designer and artist. French designer, raised by a beekeeper, who works with insect by-products such as propolis and silkworm cocoons and designs habitats for insects.
 - **Martin Kaltenbrunner** (1) — Professor, Soft Matter Physics and LIT Soft Materials Lab, Johannes Kepler University Linz. Physicist building soft, stretchable and biodegradable electronics and robots. https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
 - **Martin Pumera** (1) — Director, Center for Advanced Functional Nanorobots, University of Chemistry and Technology Prague. Martin Pumera's group builds micro- and nanorobots, including biobots made from magnetotactic bacteria for water cleaning.
@@ -15800,12 +18320,17 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Matilde Boelhouwer** (1) — Designer; founder of Atelier Boelhouwer. Dutch designer who creates products for insects, notably artificial flowers for urban pollinators. https://www.matildeboelhouwer.com
 - **Matthew H. E. M. Browning** (1) — Associate Professor, Department of Parks, Recreation and Tourism Management, Clemson University; director of the Virtual Reality & Nature Lab. Environmental health researcher who tests virtual nature against real nature.
 - **Matthijs Munnik** (1) — Artist. Dutch artist making audiovisual installations about perception, light and living systems.
+- **Maurizio Vrenna** (1) — Designer; Politecnico di Torino. Maurizio Vrenna is an Italian designer who designed The Algae Grower, a home spirulina bioreactor.
 - **Max Rheiner** (1) — Media artist; creator of Birdly; founder of Somniacs. Swiss interaction designer who built the full-body flight simulator Birdly at ZHdK in 2013–14 and later founded the company Somniacs to produce it.
+- **McGill University Biodesign Challenge team** (1) — Student team, McGill University; Biodesign Challenge 2024–2025. Students at McGill University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Melanie Ford** (1) — Primate enrichment researcher; MSc, University of Exeter. Researcher who introduced two captive siamangs to tablet computers and recorded their choices on video.
+- **Melissa Ortiz** (1) — Designer; California College of the Arts. Melissa Ortiz is a designer whose citizen-science water-testing tool Colores del Rio won Outstanding Social Critique at the 2023 Biodesign Challenge.
 - **Mellissa Monsoon** (1) — Artist, illustrator and sculptor collaborating with microbiologists. British artist (MA Art and Science, Central Saint Martins) who casts her own body in agar and grows its skin bacteria; commissions include the Eden Project and the BBC. https://www.mmonsoon.com
 - **Mengyao Guo** (1) — Researcher, Future Design School, Harbin Institute of Technology (Shenzhen). Mengyao Guo designs bio-HCI games and visualisations driven by living organisms such as slime moulds.
+- **Menlin Ng** (1) — Designer; Universiti Sains Malaysia. Menlin Ng is a Malaysian designer who developed Citra, a leather-like material from citrus peel, a 2021 James Dyson Award International Top 20 project.
 - **Merlin Sheldrake** (1) — Biologist and writer; research associate at SPUN (Society for the Protection of Underground Networks). Merlin Sheldrake is a biologist who studies mycorrhizal fungi and writes about fungal life and its entanglements with plants, animals and people. https://www.merlinsheldrake.com
 - **Mette Gislev Kjærsgaard** (1) — Design anthropologist, University College South Denmark. Works on design anthropology, participation and futures.
+- **MiAlgae** (1) — Company. MiAlgae, founded by Douglas Martin, grows omega-3 microalgae on whisky-distillery by-products for fish feed. https://www.mialgae.com/
 - **Michael D. Jones** (1) — Professor of Computer Science, Brigham Young University. HCI researcher who studies computing on trails, rivers and mountains.
 - **Michael Elowitz** (1) — Professor of Biology and Bioengineering, Caltech; HHMI Investigator. Biologist who built the repressilator, one of the first synthetic gene circuits, and studies how cells compute. https://www.elowitz.caltech.edu/
 - **Michael Pinsky** (1) — Artist. British artist who makes public installations about air, water and urban space. https://www.michaelpinsky.com/
@@ -15814,72 +18339,99 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Michelle Chang** (1) — Design researcher, Carnegie Mellon University (at time of publication). Studies how plants can take part in interaction design as living partners.
 - **Michi Kanda** (1) — Researcher, Keio University Graduate School of Media Design. Michi Kanda designed a plant whose grow light is driven by the owner's eye-blink fatigue data.
 - **Mickey Pardo** (1) — Behavioural ecologist; postdoctoral researcher at Cornell University and Colorado State University. Mickey Pardo studies elephant vocal communication and led the study showing that African elephants address each other with name-like calls.
+- **MicroBuild Masonry (Adrian Simone & Rania Al-Sheikhly)** (1) — Student start-up. Adrian Simone and Rania Al-Sheikhly developed Bio-Brick, masonry bound by bacteria, Canadian runner-up in the 2022 James Dyson Award. http://microbuildmasonry.com
+- **Microbeworks** (1) — Company. Microbeworks is an Indian start-up whose MicroBlue dye is brewed by microbial fermentation for existing dyeing machinery. https://www.microbeworksscientific.com/
 - **Mike Thompson** (1) — Designer. Mike Thompson is a designer who makes speculative products about energy and everyday life.
 - **Milan Stojanovic** (1) — Professor of Medicine and Biomedical Engineering, Columbia University. Chemist who built MAYA, DNA-enzyme automata that play tic-tac-toe against people.
 - **Miles Richardson** (1) — Professor of Human Factors and Nature Connectedness, University of Derby. Psychologist who runs the Nature Connectedness Research Group and designs simple interventions such as noticing 'three good things in nature'.
+- **Milo Dool** (1) — Designer. Milo Dool is a Dutch designer whose Pendant Lights use beech wood transformed by white-rot fungi. http://milodool.nl
 - **Mirjana Erceg** (1) — Researcher, Aalborg University Copenhagen. Researcher who designed a bioacoustic system to warn ships about nearby North Atlantic right whales.
 - **Modern Meadow** (1) — Biofabrication company making protein-based materials. Modern Meadow, founded by Andras Forgacs, develops leather-like materials from proteins produced by fermentation. https://www.modernmeadow.com/
 - **Modern Synthesis** (1) — Biomaterial company founded by Jen Keane and Ben Reeve, 2020. Modern Synthesis grows nanocellulose on textile scaffolds using Komagataeibacter bacteria, producing a leather alternative whose structure is set by the scaffold it is grown on. https://www.modernsynthesis.com/
 - **Mogu** (1) — Italian company making mycelium interior products. Mogu, co-founded in 2015 with designer Maurizio Montalti, grows acoustic panels and floor tiles from fungal mycelium and textile or agricultural residues. https://mogu.bio/
+- **Moholy-Nagy University of Art and Design Biodesign Challenge team** (1) — Student team, Moholy-Nagy University of Art and Design; Biodesign Challenge 2024–2025. Students at Moholy-Nagy University of Art and Design who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Molecular Information Systems Lab (MISL)** (1) — Joint lab of the University of Washington and Microsoft Research. Lab that builds DNA data storage and molecular computing systems, from random access to fully automated storage. https://misl.cs.washington.edu/
+- **Monc** (1) — Company. Monc is a London design brand that packages its products in inserts grown from mushroom mycelium. https://www.monc.co/
 - **Monica Gagliano** (1) — Research Associate Professor in evolutionary ecology; director of the Biological Intelligence (BI) Lab, Southern Cross University. Monica Gagliano is an evolutionary ecologist known for experiments on plant learning, memory and bioacoustics.
 - **Monica Laronda** (1) — Associate Professor of Pediatrics, Northwestern University; Stanley Manne Children's Research Institute. Monica Laronda works on reproductive tissue engineering and printed the gelatin scaffold ovary that restored fertility in sterilised mice. https://www.laronda-lab.org/
+- **Monica Louise Hartvigsen** (1) — Designer; Royal Danish Academy. Monica Louise Hartvigsen is a Danish designer who developed bacterial dyeing of textiles with DTU laboratories and Gabriel Textile.
+- **Monika Brandić Lipińska** (1) — Designer; Hub for Biotechnology in the Built Environment. Monika Brandić Lipińska is a designer from Hub for Biotechnology in the Built Environment whose project Mycolith was selected by the Green Product / Green Concept Award.
 - **Monika Pocrnjić** (1) — Artist. Slovenian artist working with sound, analog electronics and living systems; co-author of Oscillatorium with Robertina Šebjanič.
 - **Monika Rosińska** (1) — Researcher and curator, Academy of Fine Arts in Warsaw. Design researcher and curator who co-curated the exhibition Zoepolis: Design for Plants and Animals.
 - **Moon Ribas** (1) — Cyborg artist and choreographer; co-founder of the Cyborg Foundation. Dancer who felt earthquakes worldwide through online seismic sensors implanted in her body. https://www.moonribas.com/
 - **More-Than-Human Life (MOTH) Program, NYU School of Law** (1) — Research program on the rights of nature and nonhuman animals, directed by César Rodríguez-Garavito. MOTH brings together lawyers, scientists, artists and Indigenous knowledge holders to develop legal and ethical frameworks that include more-than-human beings. https://www.law.nyu.edu/
 - **Mosquito Alert** (1) — Citizen science project of CEAB-CSIC, CREAF, UPF and ICREA. Spanish project that tracks invasive, disease-carrying mosquitoes with smartphone reports.
 - **Mu Design** (1) — Product design studio. Luxembourg studio that designed Lua, a planter with a face.
+- **Mycomerge team (Mai Thi Nguyen & Daniela Solueva)** (1) — Designer; University of Stuttgart. Mycomerge team (Mai Thi Nguyen & Daniela Solueva) is a designer from University of Stuttgart whose project Mycomerge was selected by the Green Product / Green Concept Award.
 - **Mélissa Berthet** (1) — Researcher, University of Zurich (Department of Comparative Language Science). Mélissa Berthet studies meaning and syntax in primate calls, using methods from formal semantics.
 - **NSF NOIRLab (Globe at Night)** (1) — US national optical-infrared astronomy centre. Astronomy centre that runs the Globe at Night light-pollution campaign.
+- **NYU ITP Biodesign Challenge team** (1) — Student team, NYU ITP; Biodesign Challenge 2017–2024. Students at NYU ITP who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Stefani Bardin. https://www.biodesignchallenge.org/
 - **Naleefa Nazurdeen** (1) — Design researcher, University of Moratuwa. Studies participatory design for human-elephant coexistence in rural Sri Lanka.
+- **Nanyang Technological University Biodesign Challenge team** (1) — Student team, Nanyang Technological University; Biodesign Challenge 2024. Students at Nanyang Technological University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Nanyi Jiang** (1) — Researcher, Cornell University. HCI researcher who co-designs wearables with her companion parrot.
+- **Natalia Piórecka** (1) — Designer; Newcastle University / UCL. Natalia Piórecka is a designer from Newcastle University / UCL whose project MYCOsella was selected by the Green Product / Green Concept Award.
 - **Natalie Alima** (1) — Architect and researcher at the School of Architecture and Urban Design, RMIT University. Natalie Alima develops 'interspecies forms' in which robotically 3D-printed scaffolds are colonised by mycelium, using agent-based algorithms to shape the printed skins.
 - **Nathalie Miebach** (1) — Artist. Artist who weaves weather and ocean data into sculptures and musical scores.
 - **National Academies of Sciences, Engineering, and Medicine** (1) — US non-profit institution that advises on science policy. Independent US institution that produces consensus reports; in 2021 it reviewed the science and ethics of human neural organoids, transplants and chimeras. https://www.nationalacademies.org
+- **Natural Fiber Welding** (1) — Company. Natural Fiber Welding, founded by Luke Haverhals, makes plastic-free materials such as the leather alternative MIRUM. https://www.nfw.earth/
+- **NatureMetrics** (1) — Company. NatureMetrics, founded by Kat Bruce, measures biodiversity from environmental DNA in water and soil samples. https://www.naturemetrics.com/
 - **Ned Cooper** (1) — Researcher, School of Cybernetics, Australian National University. Researcher who applies philosophy of mind to participatory design with trees and other nonhumans.
 - **Nefeli Manoudaki** (1) — Media artist and researcher, Media Arts and Technology, UC Santa Barbara. Architect and media artist who co-created Simulacra Naturae, an installation driven by recorded brain organoid activity.
 - **Neil Harbisson** (1) — Cyborg artist; co-founder of the Cyborg Foundation and Cyborg Arts. Artist born with achromatopsia who hears colour through an antenna implanted in his skull. https://www.cyborgarts.com/
 - **Nelo Akamatsu** (1) — Artist. Japanese artist known for sound installations such as Chijikinkutsu, in which magnetised needles in water glasses sound through Earth's magnetism. http://www.neloakamatsu.jp
 - **Nervous System** (1) — Generative design studio of Jessica Rosenkrantz and Jesse Louis-Rosenberg. Studio that writes simulations of natural growth processes to generate jewellery, textiles and objects, and collaborates with scientists on biofabrication. https://n-e-r-v-o-u-s.com/
+- **Nest Makerspace Biodesign Challenge team** (1) — Student team, Nest Makerspace; Biodesign Challenge 2019–2021. Students at Nest Makerspace who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Corinne Okada Takara. https://www.biodesignchallenge.org/
 - **Nestlé Purina PetCare** (1) — Pet food company; maker of the Friskies brand. Pet food company whose Friskies brand released tablet games designed for cats to play.
 - **New Reality Company** (1) — VR studio of Milica Zec and Winslow Porter. Studio founded by director Milica Zec and producer Winslow Porter, known for the VR works Giant (2016) and Tree (2017). https://www.treeofficial.com/
+- **Niamh Damery** (1) — Designer; University of Limerick. Niamh Damery is an Irish designer whose mycelium beehive Econooc for native black bees was a 2020 James Dyson Award International Top 20 project.
 - **Niantic** (1) — Augmented reality game company. Maker of location-based AR games including Ingress and Pokémon Go.
 - **Nick Goldman** (1) — Group Leader, EMBL's European Bioinformatics Institute (EMBL-EBI). Bioinformatician who, with Ewan Birney, designed an error-tolerant scheme for storing files in synthetic DNA.
 - **Nicolas Mathevon** (1) — Professor, University of Saint-Étienne (ENES Bioacoustics Research Lab). Nicolas Mathevon is a bioacoustician who studies how animals, from crocodiles to mice, encode information in sound.
 - **Nicole Xu** (1) — Assistant Professor of Mechanical Engineering, University of Colorado Boulder. Bioengineer who embeds microelectronics in live jellyfish to control and speed up their swimming.
 - **Nigel Helyer** (1) — Sculptor and sound artist (a.k.a. Dr Sonique). Nigel Helyer makes large sonic installations and bio-acoustic works, and was an early artist in residence at SymbioticA (2002–03). https://www.sonicobjects.com
 - **Nikoletta Karastathi** (1) — Textile designer and researcher in biodesign, University College London. Nikoletta Karastathi develops knitted bio-textiles and responsive yarns, including algae-infused wearables and pH-responsive hydrogel yarns.
+- **Nina Cutler** (1) — Designer; Central Saint Martins MA Material Futures alumna. Nina Cutler is a designer who co-created Quantworm Mine, the 2017 Biodesign Challenge overall winner, at Central Saint Martins.
 - **Nina Rajcic** (1) — Researcher, SensiLab, Monash University. Artist and researcher who builds domestic AI objects and studies living with them through a posthumanist lens.
 - **Nina Williams** (1) — Researcher, University of Canberra. Cultural geographer and design researcher working with fungi and multispecies time.
+- **Nina van den Broek** (1) — Designer. Nina van den Broek is a Dutch designer who made Ivorish, an ivory substitute from human milk teeth, at Waag's Open Wetlab.
 - **Ninela Ivanova** (1) — Design researcher and strategist. Ninela Ivanova is a design researcher who studies biofabrication and the future of materials. https://www.ninelaivanova.co.uk/
 - **Ning Gao** (1) — Researcher, Jiangnan University. Design researcher who reads Chinese architectural heritage through more-than-human design theory.
 - **Nirit Binyamini Ben-Meir** (1) — PhD researcher, Queen Mary University of London. HCI researcher studying how households care for houseplants and what that means for designing with living things.
 - **Nita A. Farahany** (1) — Professor of Law and Philosophy, Duke University. Legal scholar and ethicist of neurotechnology who led a 2018 call in Nature for ethical rules on experiments with human brain tissue, organoids and chimeras. https://law.duke.edu/fac/farahany
 - **Nomeda & Gediminas Urbonas** (1) — Artist duo; Gediminas Urbonas is Professor at MIT. Nomeda and Gediminas Urbonas run long-term projects on swamps, rivers and commons, including the Swamp School at the Venice Biennale 2018.
 - **Nordic Society for Invention and Discovery** (1) — Swedish design and invention studio. Studio that crowdfunded No More Woof, a speculative EEG headset claimed to translate dog thoughts into speech.
-- **Notpla** (1) — Packaging company making materials from seaweed. Notpla, founded as Skipping Rocks Lab by Rodrigo García González and Pierre Paslier, makes edible and compostable packaging from seaweed and plants. https://www.notpla.com/
-- **Nova Innova** (1) — Dutch design and innovation studio for nature-based technology. Nova Innova designs public installations and products that run on nature-based energy, such as microbial fuel cells in city water.
+- **Northeastern University Biodesign Challenge team** (1) — Student team, Northeastern University; Biodesign Challenge 2025. Students at Northeastern University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Novameat** (1) — Food technology company founded by Giuseppe Scionti, 2018. Novameat extrudes plant proteins into micro-fibre bundles that imitate the anisotropic texture of muscle, using a printer adapted from tissue engineering. https://novameat.com/
+- **O-GA team (Silpakorn University)** (1) — Student design team. Sorrawitch Upcha and team designed O-GA, algae cultivation units for a renewable-energy countryside, Thai national winner of the 2023 James Dyson Award.
+- **OFlow team (Shawn Navarednam, Kai Jie Chow, Frederick Wong)** (1) — Student engineering team. Shawn Navarednam, Kai Jie Chow and Frederick Wong designed OFlow, a bacterial biofilm filter for microplastics, UK runner-up in the 2020 James Dyson Award.
 - **ORLAN** (1) — Artist working with performance, surgery and biotechnology. ORLAN is a French artist known for her surgery-performances of the 1990s and for later work with cell culture and biotechnology. https://www.orlan.eu
 - **Ocean Alliance** (1) — Whale research and conservation nonprofit founded by Roger Payne in 1971; led by Iain Kerr. Ocean Alliance studies whales with non-invasive tools, from its long-running voyages to drones that collect whale breath. https://whale.org
+- **Olga Kisseleva** (1) — Artist; professor at Sorbonne University (Paris 1). Olga Kisseleva is a Russian-born French artist who works with scientists on trees, plants and ecological data, including the long-running EDEN project. https://www.kisseleva.org/
 - **Oliver Bendel** (1) — Professor of Information Ethics and Machine Ethics, FHNW School of Business. Philosopher and information scientist who designs animal-friendly machines and AI apps that read animal body language.
 - **Olivia Seow** (1) — Designer and researcher, MIT Media Lab (at the time of Pudica). Olivia Seow proposed Pudica, a framework for plant-based interfaces built around the touch-sensitive Mimosa pudica.
+- **Omlab** (1) — Design studio. Omlab is a Dutch studio designing nature-inclusive building products, such as 3D-printed starter homes for swallows. https://omlab.nl
 - **Open Acoustic Devices** (1) — Open-hardware project making low-cost acoustic loggers, founded by researchers at the University of Southampton and University of Oxford. Team behind AudioMoth, an open-source, low-cost recorder used worldwide to listen to bats, birds, insects and forests. https://www.openacousticdevices.info
+- **Orange Fiber** (1) — Company. Orange Fiber, founded by Adriana Santanocito and Enrica Arena, makes a silk-like textile from Sicilian citrus-juice by-products. https://orangefiber.it/
 - **Orangutan Outreach** (1) — Nonprofit organisation for orangutan conservation. Nonprofit that runs Apps for Apes, which donates iPads to zoos for orangutan enrichment.
 - **Organovo** (1) — Bioprinting company, founded 2007 on Gabor Forgacs's tissue self-assembly research. Organovo was the first publicly listed bioprinting company; it sold the NovoGen printer and printed human liver and kidney tissue for drug testing. https://organovo.com/
 - **Ori Elisar** (1) — Designer, Bezalel Academy of Arts and Design graduate. Visual communication designer who trained in microbiology in Eshel Ben-Jacob's lab at Tel Aviv University and studied Hebrew linguistics. https://orielisar.com
+- **PLSTC** (1) — Company. PLSTC (Fashion to Food) is an Australian team that bio-engineers bacteria to digest polyester textile waste into edible biomass. https://fashiontofood.com/
+- **Paola Torres Núñez del Prado** (1) — Artist. Paola Torres Núñez del Prado is a Peruvian artist who combines textiles, sound and technology, drawing on Andean knowledge systems. https://www.singingtextiles.com
+- **Paolina Kühr** (1) — Designer; Elisava. Paolina Kühr is a designer from Elisava whose project Sea Glass was selected by the Green Product / Green Concept Award.
 - **Parrot** (1) — Consumer electronics and drone company. French company known for drones and connected devices.
 - **Parsons & Charlesworth** (1) — Speculative design studio of Tim Parsons and Jessica Charlesworth. Chicago studio making speculative objects, drawings and fictional organisations about climate futures; both teach at the School of the Art Institute of Chicago. https://parsonscharlesworth.com/
+- **Parsons School of Design Biodesign Challenge team** (1) — Student team, Parsons School of Design; Biodesign Challenge 2019–2025. Students at Parsons School of Design who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Partizan Publik** (1) — Amsterdam think-and-do tank for social and ecological change; initiator of The Parliament of Things. Partizan Publik develops public programmes and speculative institutions, including The Parliament of Things, which led to the Embassy of the North Sea. https://theparliamentofthings.org
-- **Pascal Leboucq** (1) — Set designer and artist. Pascal Leboucq is a Dutch set designer who initiated the Growing Pavilion with the organisation Biobased Creations. https://thegrowingpavilion.com/
 - **Patricia (Tricia) Flanagan** (1) — Artist, designer and researcher in wearable art; founder of the Wearables Lab. Makes 'cyborganic' wearables that blend bamboo, natural fibres and electronics into prosthetic senses. https://triciaflanagan.com
 - **Patricia Ciobanu** (1) — Researcher in interaction design, Department of Computer and Systems Sciences, Stockholm University. Studies time and nature in posthuman interaction through research-through-design and autobiographical design.
 - **Patricia Domínguez** (1) — Artist. Chilean artist whose installations combine ethnobotany, healing practices and digital media to question colonial relationships with plants.
+- **Paul & Garrett Sutherlin Santo** (1) — Design studio. Paul and Garrett Sutherlin Santo are designers who combine natural biopolymers with digital fabrication; their Biocraft was a 2020 Lexus Design Award finalist. https://sutherlinsanto.com/
 - **Paul Rothemund** (1) — Research Professor of Bioengineering, Computing and Mathematical Sciences, and Computation and Neural Systems, Caltech. Computer scientist who invented DNA origami: folding a long DNA strand into any 2D shape with short staple strands.
+- **Paula Andrea Molina** (1) — Designer; Central Saint Martins. Paula Andrea Molina is a designer from Central Saint Martins whose project Printing Herbarium was selected by the Green Product / Green Concept Award.
 - **Paulina Yurman** (1) — Designer and researcher, University of the Arts London. Uses drawing and material experiments to explore bodies, fluids and care.
 - **PeakFinder** (1) — App developer (Fabio Soldati). Swiss developer of a mountain-identification app with an offline database of peaks.
 - **Pedro Galvão-Ferreira** (1) — Researcher, Instituto Superior Técnico and ITI/LARSyS, Lisbon. Designs locative games and experiences about natural and cultural heritage.
+- **Peerasin Punxh Hutaphaet** (1) — Designer; Central Saint Martins. Peerasin Punxh Hutaphaet is a designer from Central Saint Martins whose project GROWinK was selected by the Green Product / Green Concept Award.
 - **Peng-Jung Lin** (1) — Researcher, Southern University of Science and Technology. Designer-researcher weaving wearables that host living moss on the body.
 - **Perfect Day** (1) — Precision fermentation dairy company founded by Ryan Pandya and Perumal Gandhi, 2014. Perfect Day makes cow-identical whey protein by fermenting engineered fungi, and licenses it to brands that sell ice cream, milk and protein powder made without animals. https://perfectday.com/
 - **Perla Armaly** (1) — Architect and biodesign researcher at the Technion – Israel Institute of Technology. Perla Armaly develops co-fabrication workflows in which robots deposit sand-based mixtures and cyanobacteria mineralise them.
@@ -15889,25 +18441,34 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Peter Washington** (1) — Researcher, Riedel-Kruse Lab, Stanford University (at the time of the work). Peter Washington built a JavaScript API and online IDE for programming games and experiments with live Euglena under remote microscopes.
 - **Petra Lilja** (1) — Designer and researcher, Konstfack University of Arts, Crafts and Design. Swedish designer whose practice moved from products to multispecies coexistence.
 - **Philip Beesley** (1) — Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group. Philip Beesley builds immersive responsive environments that behave like near-living systems. https://www.philipbeesleystudioinc.com
+- **Philip Potthast** (1) — Designer; HTW Berlin. Philip Potthast is a German designer whose bee-centred hive HIIVE was a 2021 James Dyson Award International Top 20 project. https://www.hiive.eu
 - **Philip Wijesinghe** (1) — Researcher in optics and photonics, University of St Andrews. Philip Wijesinghe works on optical imaging and light manipulation and writes commentary on biophotonics research.
 - **Philips Design** (1) — Design division of Royal Philips. Philips Design ran the Design Probes programme, which explored far-future lifestyles in speculative concepts. https://www.philips.com/
+- **Phool** (1) — Company. Phool, founded by Ankit Agarwal, recycles temple flower offerings from the Ganges into incense, packaging foam and Fleather. https://phool.co/
+- **PhycoLabs** (1) — Company. PhycoLabs is a Brazilian biotech start-up developing textile fibres from marine algae. https://www.phycolabs.com/
+- **Pierre Charreau, Martin Hertig & Pauline Lemberger** (1) — Designers; ECAL. ECAL students who turned household cacti into touch-sensitive musical instruments.
 - **Pili** (1) — Bio-based colour company founded by Thomas Landrain, Jérémie Blache and Guillaume Boissonnat, 2015. Pili started in the Paris community lab La Paillasse as a project to grow ink from bacteria, and now produces bio-based dyes and pigments for textiles and inks at industrial scale. https://www.pili.bio/
 - **Pinar Yoldas** (1) — Artist; professor at UC San Diego. Pinar Yoldas is a Turkish-born artist and architect who designs speculative organisms. https://www.pinaryoldas.info
 - **Pl@ntNet** (1) — Plant identification project of CIRAD, INRAE, Inria and IRD. French research consortium behind one of the largest plant identification apps. https://plantnet.org/
 - **Plant-e** (1) — Wageningen spin-off company producing plant microbial fuel cells. Plant-e, co-founded by Marjolein Helder, harvests electricity from bacteria that feed on organic matter released by the roots of living plants. https://plant-e.com/
+- **PlantPoxy team (KMUTT)** (1) — Student design team. Jitapa Muangsiri and team developed PlantPoxy, a fungal biocontrol coating for seeds, Thai runner-up in the 2024 James Dyson Award.
 - **Plantix (PEAT)** (1) — Agritech company, Progressive Environmental & Agricultural Technologies. Company behind a crop-disease diagnosis app used by millions of smallholder farmers.
+- **Playfool** (1) — Design studio. Playfool is the design studio of Daniel Coppen and Saki Maruyama, making playful objects and games. https://playfool.net/
 - **Plume Labs** (1) — Air-quality data company (acquired by AccuWeather in 2022). Company that forecast air pollution and made the Flow personal sensor.
 - **Polybion** (1) — Bacterial-cellulose materials company founded by brothers Axel and Alexis Gómez-Ortigoza. Polybion grows Celium, a leather-like bacterial cellulose sheet, by feeding bacteria with fruit waste from Mexican agro-industry in large fermentation facilities. https://www.polybion.bio
 - **Polymorf** (1) — Multisensory art and design studio. Dutch studio led by Marcel van Brakel that makes experiences combining VR, scent, taste, haptics and soft robotics. https://www.polymorf.nl/
+- **Ponda** (1) — Company. Ponda (formerly SaltyCo), founded by Finlay Duncan and Julian Ellis-Brown at the Royal College of Art, makes fibres from Typha grown on rewetted peatlands. https://ponda.bio/
 - **Pooktre** (1) — Tree-shaping practice of Peter Cook and Becky Northey. Peter 'Pook' Cook and Becky Northey have shaped living trees into chairs, people and other forms since the 1990s. https://www.pooktre.com/
 - **Post Carbon Lab** (1) — Design and material research studio founded by Dian-Jen Lin and Hannes Hulstaert, 2018. Post Carbon Lab applies photosynthetic coatings of live algae and cyanobacteria to garments, so clothing sequesters carbon and releases oxygen while it is cared for like a plant. https://postcarbonlab.com/
 - **Prellis Biologics** (1) — Holographic bioprinting company, founded 2016. Prellis Biologics prints capillary-scale structures with holographic light fields and uses printed lymph-node organoids to generate human antibodies. https://www.prellisbio.com/
 - **Primavera De Filippi** (1) — Legal scholar and artist; researcher at CNRS Paris and faculty associate at the Berkman Klein Center, Harvard. Primavera De Filippi works on blockchain law and governance and, with the collective okhaos, makes artworks that test what autonomous code can own and decide. https://plantoid.org
+- **Primordial (RCA team)** (1) — Student venture, Royal College of Art. Primordial is an RCA team developing low-cost photobioreactors for microalgae.
 - **Prometheus Materials** (1) — Start-up making microalgae-based biocement. Spun out of CU Boulder, Prometheus Materials makes bio-cement from biomineralising cyanobacteria and has tested masonry blocks with SOM. https://prometheusmaterials.com/
 - **Prophecy Sun** (1) — Artist, performer and researcher; PhD, School of Interactive Arts and Technology, Simon Fraser University. Makes sound, performance and installation work on the maternal body, ecology and more-than-human relations. https://prophecysun.com
 - **Public Lab** (1) — Public Laboratory for Open Technology and Science. Community that develops low-cost tools for environmental investigation.
 - **Qingyu Zhang** (1) — Design researcher, Tongji University. Works on ecological soundscapes and multispecies ethnography.
 - **Qiuyu Lu** (1) — PhD researcher, Morphing Matter Lab (Carnegie Mellon University / UC Berkeley). Qiuyu Lu designs plant-facing sensors and shape-changing materials, including a wearable paper chip that reads plant guttation droplets.
+- **RMIT University Biodesign Challenge team** (1) — Student team, RMIT University; Biodesign Challenge 2019–2020. Students at RMIT University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Ollie Cotsaftis. https://www.biodesignchallenge.org/
 - **Rachel & Stephen Kaplan** (1) — Environmental psychologists, University of Michigan. Husband-and-wife research team who studied why natural settings restore people's attention.
 - **Rachel Ann Arredondo** (1) — Designer, Morphing Matter Lab (Carnegie Mellon University / UC Berkeley). Rachel Ann Arredondo led Blue Ceramics, digitally fabricated morphing ceramic tiles co-designed with marine scientists to restore seagrass meadows.
 - **Rachel Mayeri** (1) — Artist and filmmaker; Professor of Media Studies, Harvey Mudd College. Rachel Mayeri makes films and installations at the edge of art and primatology, including the Primate Cinema series of films made for chimpanzee and baboon audiences. https://www.rachelmayeri.com
@@ -15919,56 +18480,82 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Redefine Meat** (1) — Alternative meat company, founded 2018. Redefine Meat industrialised the printing of plant-based whole cuts, printing muscle, fat and blood analogues together at production scale. https://www.redefinemeat.com/
 - **Ren Ri** (1) — Artist and beekeeper. Chinese artist (b. 1984) who makes beeswax sculptures by steering how bee colonies build comb inside frames and acrylic boxes.
 - **Resorts World Sentosa** (1) — Integrated resort on Sentosa Island that operates the S.E.A. Aquarium. Tourism and leisure company whose S.E.A. Aquarium is one of the largest public aquariums in the world. https://www.rwsentosa.com
+- **Resting Reef (Louise Skajem & Aura Murillo)** (1) — Design duo, Royal College of Art. Louise Skajem and Aura Murillo founded Resting Reef, a marine burial service using reef structures.
 - **Riccardo Levato** (1) — Professor of Regenerative Medicine and Biofabrication, Utrecht University and UMC Utrecht. Riccardo Levato works on light-based biofabrication, including volumetric printing that forms a whole cell-laden object in seconds by projecting light patterns into a rotating resin. https://www.levatolab.com/
 - **Richard Louv** (1) — Journalist and author; co-founder of the Children & Nature Network. Writer on children, nature and technology.
 - **Rick Bonney** (1) — Director Emeritus of Public Engagement in Science, Cornell Lab of Ornithology. Pioneer of bird-focused public participation projects at the Cornell Lab.
 - **Riel Bessai** (1) — Design researcher, Faculty of Industrial Design Engineering, TU Delft. Riel Bessai researches circular and more-than-human design, including the design of a festival stage attuned to local ecosystems.
 - **Riku Iwasaki** (1) — Researcher, Digital Nature Group, University of Tsukuba. Riku Iwasaki developed Silk fabricator, which guides silkworms to spin flat silk sheets over computer-designed forms.
+- **Rimini Protokoll** (1) — Theatre collective (Helgard Haug, Stefan Kaegi, Daniel Wetzel). Rimini Protokoll is a theatre collective known for documentary and participatory works; Holy Shit was made by Stefan Kaegi with Caroline Barneaud. https://www.rimini-protokoll.de
 - **Ritu Raman** (1) — Assistant Professor of Mechanical Engineering, MIT. Engineer who builds adaptive machines from living muscle and nerve tissue, and writes about biofabrication.
 - **Rob Shepherd** (1) — Faculty member, Sibley School of Mechanical and Aerospace Engineering, Cornell University; director of the Organic Robotics Lab. Roboticist working on soft robots, sensory skins and robots powered or controlled by biological systems. https://orl.mae.cornell.edu/
+- **Robert College of Istanbul Biodesign Challenge team** (1) — Student team, Robert College of Istanbul; Biodesign Challenge 2025. Students at Robert College of Istanbul who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Robert Grass** (1) — Professor, Institute for Chemical and Bioengineering, ETH Zurich. Chemical engineer who encapsulates DNA in glass nanoparticles so data can survive for centuries and travel inside materials.
 - **Robert Root-Bernstein** (1) — Professor of Physiology, Michigan State University. American physiologist who studies the origins of life, creativity and the links between art and science; long-time collaborator of Adam W. Brown.
+- **Robeson High School + Aula Future + FirstHand Biodesign Challenge team** (1) — Student team, Robeson High School + Aula Future + FirstHand; Biodesign Challenge 2022–2023. Students at Robeson High School + Aula Future + FirstHand who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Genefer Baxter and Marco Locatelli. https://www.biodesignchallenge.org/
 - **Robin Wall Kimmerer** (1) — SUNY Distinguished Teaching Professor of Environmental Biology; director of the Center for Native Peoples and the Environment; enrolled member of the Citizen Potawatomi Nation. Robin Wall Kimmerer is a botanist and writer who brings together Indigenous knowledge and plant science.
 - **Roger Payne** (1) — Biologist (1935–2023), founder of Ocean Alliance. Whale biologist who, with Scott McVay, discovered that humpback whales sing.
 - **Roya Aghighi** (1) — Designer. Roya Aghighi is an Iranian-Canadian designer who worked with University of British Columbia labs on living, photosynthetic textiles.
+- **Rubi Laboratories** (1) — Company. Rubi Laboratories, founded by twin sisters Neeka and Leila Mashouf, turns captured CO2 into cellulose with enzymes. https://rubi.earth/
 - **Rui Trindade** (1) — Researcher, Madeira Interactive Technologies Institute, University of Madeira. Game designer who led Purrfect Crime, a tablet game played by a cat and a person together.
 - **Ryohei Kanzaki** (1) — Professor, Research Center for Advanced Science and Technology, University of Tokyo. Neuroethologist who studies how silkmoths track odour, using robots driven by live moths.
 - **SCAPE Landscape Architecture** (1) — Landscape architecture office founded by Kate Orff. New York landscape practice known for coastal resilience projects that combine storm protection with habitat and community programmes. https://www.scapestudio.com/
+- **SEAGRAFT team (RCA)** (1) — Student team, Royal College of Art. Hongyu Wu, Mingchuan Yang, Zexi Gong, Mengna Gao and Xiaozhuo Jiang designed SEAGRAFT, a tool for planting seagrass.
 - **SPACE10** (1) — Research and design lab supported by IKEA. SPACE10 explored future living, food and cities through exhibitions and prototypes until 2024. https://space10.com/
 - **Sabrina Hauser** (1) — Design researcher; PhD, Simon Fraser University. Design researcher who studied the everyday work and play of guide dog teams and designed accessible dog toys.
 - **Saetbyeol LeeYouk** (1) — Researcher, MIT Media Lab. Designs interfaces that make the material costs of computing felt.
 - **Safecast** (1) — Volunteer environmental monitoring nonprofit. Group founded after the 2011 Fukushima disaster that builds open radiation and air sensors. https://safecast.org/
+- **Sahara Forest Project** (1) — Company. The Sahara Forest Project combines seawater-cooled greenhouses, solar power and desalination to grow food and revegetate deserts; design by Exploration Architecture. https://www.saharaforestproject.com/
 - **Sakura Kotokawa** (1) — Researcher, Kyoto Institute of Technology. Design researcher running art-based, co-designed interventions in schools with other species.
 - **Sam Droege** (1) — Wildlife biologist, USGS Patuxent Wildlife Research Center. Biologist known for native bee monitoring and macro photography.
 - **Sam Van Aken** (1) — Artist; Professor of Art, Syracuse University. American artist who uses grafting to preserve heirloom fruit varieties in living sculptural trees.
 - **Samar Khan** (1) — Designer and researcher. Designer and researcher who co-created the film Ecotonal Beings with Emilia Tapprest.
+- **Sanergy** (1) — Company. Sanergy is a Kenyan sanitation company that turns human and organic waste into insect protein and fertiliser. https://www.sanergy.com/
+- **Sanne Visser** (1) — Material designer. Sanne Visser is a Dutch material designer who spins human hair into ropes and textiles. http://sannevisser.com
 - **Sarah Homewood** (1) — Assistant Professor, University of Copenhagen (previously IT University of Copenhagen). Interaction design researcher working on the body, self-tracking and reproductive health from feminist and posthuman perspectives.
+- **Sarah Selby** (1) — Artist and researcher. Sarah Selby is a British artist working with DNA data storage and critical technology. https://www.sarahselby.co.uk
 - **Sawyer Fuller** (1) — Faculty member in Mechanical Engineering, University of Washington; leads the Autonomous Insect Robotics Lab. Roboticist building insect-sized flying robots and sensors that borrow from insect biology.
+- **School of Visual Arts Biodesign Challenge team** (1) — Student team, School of Visual Arts; Biodesign Challenge 2016. Students at School of Visual Arts who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **School of the Art Institute of Chicago Biodesign Challenge team** (1) — Student team, School of the Art Institute of Chicago; Biodesign Challenge 2021–2024. Students at School of the Art Institute of Chicago who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Scott Thrift** (1) — Artist, filmmaker and designer of The Present. American artist who designs timepieces that show slower scales of time, such as a clock that turns once a year. https://thepresent.is
+- **Sea Forest** (1) — Company. Sea Forest, founded by Sam Elsom, farms the red seaweed Asparagopsis to cut methane from cattle. https://www.seaforest.com.au/
+- **SeaForester** (1) — Company. SeaForester, co-founded by Jan Verbeek, restores kelp forests by seeding small stones with seaweed spores ('green gravel'). https://www.seaforester.org/
+- **Sealeo (Diana Epel & Emanuele Griccioli)** (1) — Start-up. Diana Epel and Emanuele Griccioli founded Sealeo, which makes seaweed-based thermal packaging for pharmaceutical cold chains.
 - **Sean Mealin** (1) — Computer scientist; PhD, North Carolina State University. Researcher who developed wearable sensing to help guide dog handlers and trainers read dogs' physiology and behaviour.
 - **Sebastian Cox** (1) — Furniture designer and maker. Sebastian Cox designs furniture from coppiced British hardwoods and runs his own woodland. https://www.sebastiancox.co.uk/
 - **Sebastián González Quintero** (1) — Researcher, Northeastern University. Designer-researcher using underwater acoustic sensing to study urban rivers.
+- **Seedballs Kenya** (1) — Company. Seedballs Kenya, founded by Teddy Kinyanjui and Elsen Karstad, coats native seeds in charcoal dust for large-scale reforestation. https://seedballskenya.com/
 - **Seekrtech** (1) — App developer, maker of Forest. Taiwanese studio that makes focus and habit apps built around growing plants.
 - **Sema Dumanli** (1) — Associate Professor of Electrical and Electronics Engineering, Boğaziçi University. Sema Dumanli designs implantable and wearable antennas, including bio-hybrid implants in which engineered bacteria change an antenna's signal.
 - **Sensor.Community** (1) — Open environmental data network (formerly Luftdaten.info, OK Lab Stuttgart). Volunteer network of home-built particulate sensors.
 - **Serena Pollastri** (1) — Lecturer in Design, ImaginationLancaster, Lancaster University. Serena Pollastri researches design for more-than-human cities and visual tools for multispecies futures.
 - **Serina Tarkhanian** (1) — Designer and researcher. Writes on decolonial critique of more-than-human design.
 - **Seth Shipman** (1) — Associate Investigator, Gladstone Institutes; Associate Professor, UCSF. Bioengineer who turns living cells into recorders that write events into their own DNA. https://gladstone.org/people/seth-shipman
+- **Shaina Garfield** (1) — Designer; Pratt Institute. Shaina Garfield is an American designer who created the Leaves Biocoffin, a burial shroud seeded with fungal spores.
 - **Shamees Aden** (1) — Biodesigner and materials researcher. Shamees Aden is a London designer who works with scientists on living and protocell-based materials for fashion and sportswear. https://www.shameesaden.com/
+- **Shellworks** (1) — Materials company (Insiya Jafferjee, Amir Afshar). Shellworks is a London company founded by RCA graduates Insiya Jafferjee and Amir Afshar that makes packaging from the microbial biopolymer Vivomer. https://www.shellworks.com
+- **Sheng-Hung Lee** (1) — Designer; National Cheng Kung University. Sheng-Hung Lee is a Taiwanese designer who with Wan Kee Lee created TetraPOT, a mangrove-planting sea-defence block, a 2016 James Dyson Award International Top 20 project.
 - **Shijia Huang** (1) — Designer working on bio-printing and microbial habitats. Shijia Huang presented Microbial Oasis at Dutch Design Week 2024, a speculative design that uses bioprinted human tissue as habitat for microorganisms.
 - **Shimabuku** (1) — Artist. Japanese artist whose playful actions and objects are often made for or with animals, especially octopuses and fish. http://www.shimabuku.net/
 - **Shimon Marom** (1) — Professor of Physiology, Technion – Israel Institute of Technology. Neurophysiologist who showed in 2001 that cultured cortical networks can learn a stimulus-response task when stimulation stops as a reward.
 - **Shinichi Takemura** (1) — Anthropologist and professor, Kyoto University of the Arts; creator of Tangible Earth. Cultural anthropologist who designs interactive globes.
+- **Shneel Malik** (1) — Architect and researcher, Bio-ID Lab, UCL. Shneel Malik is an architect and researcher at UCL's Bio-ID Lab who developed the algae bioremediation tile wall Indus with Brenda Parker and Marcos Cruz.
+- **Shonali Shetty** (1) — Designer; Mesh Labs. Shonali Shetty is a designer from Mesh Labs whose project AeR was selected by the Green Product / Green Concept Award.
 - **Shuai Zou** (1) — Researcher, The Hong Kong University of Science and Technology (Guangzhou). Media artist and researcher working on virtual reality, Gaussian splatting and Chinese philosophy.
 - **Silvia Ruzanka** (1) — Artist and Lecturer, Rensselaer Polytechnic Institute. Silvia Ruzanka is a media artist who makes games and glitch art, including a videogame played by a Venus flytrap.
 - **Sissel Marie Tonn** (1) — Artist. Danish artist whose research-based works deal with embodiment, pollution and how bodies sense their environment.
 - **Siyu Yao** (1) — Artist and designer, Musashino Art University. Siyu Yao makes silk installations from flat cocoons, where silkworms spin planar sheets instead of 3D cocoons.
 - **Soichiro Tsuda** (1) — Researcher in biological and unconventional computing; built the Physarum-controlled robot at the University of Southampton. Computer scientist who used living slime-mould cells as the controller of a walking robot, working with Klaus-Peter Zauner and Yukio-Pegio Gunji.
+- **SoilRevive team (Chia-Yi Liu & Yen-Chun Chen)** (1) — Student design team. Chia-Yi Liu and Yen-Chun Chen designed SoilRevive, a microbial bioremediation station, Taiwanese runner-up in the 2025 James Dyson Award.
+- **Solar Foods** (1) — Company. Solar Foods grows the protein Solein from hydrogen-oxidising bacteria fed on CO2 and electricity. https://solarfoods.com/
 - **Sonia Levy** (1) — Artist and filmmaker. French-born artist whose films observe how humans and other species, such as corals and canal life, live with each other.
 - **Sonja Bäumel** (1) — Artist. Sonja Bäumel is an Austrian artist who works with the microbes living on and around the human body. https://www.sonjabaeumel.at
 - **Sophie Cohen-Bodénès** (1) — Researcher, École normale supérieure (with Peter Neri). Sophie Cohen-Bodénès studies visual and vibrational signalling in cuttlefish.
+- **Sorawut Kittibanthorn** (1) — Designer; Design Academy Eindhoven alumnus. Sorawut Kittibanthorn is a Thai designer working on food systems and waste streams.
+- **Southern California Institute of Architecture (SCI-Arc) Biodesign Challenge team** (1) — Student team, Southern California Institute of Architecture (SCI-Arc); Biodesign Challenge 2016. Students at Southern California Institute of Architecture (SCI-Arc) who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
 - **Spiber** (1) — Japanese company producing Brewed Protein fibres. Spiber, founded in 2007 at Keio University, ferments designed structural proteins with microbes and spins them into fibres and films. https://spiber.inc/en/
 - **Stacey D. Scott** (1) — Professor, School of Computer Science, University of Guelph. HCI researcher whose group studies collaborative interfaces and applies user-centred and animal-centred design to livestock farming.
+- **Stanford University Biodesign Challenge team** (1) — Student team, Stanford University; Biodesign Challenge 2025. Students at Stanford University who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Charlotte McCurdy. https://www.biodesignchallenge.org/
 - **Stefan Kahl** (1) — Computer scientist; BirdNET lead, K. Lisa Yang Center for Conservation Bioacoustics (Cornell) and TU Chemnitz. Stefan Kahl develops deep-learning models that recognise bird and other animal sounds for biodiversity monitoring. https://birdnet.cornell.edu
 - **Steffie de Gaetano** (1) — Artist-researcher, Hasselt University. Works on art-led participatory design with landscapes and more-than-human collaborators.
 - **Stephan Huber** (1) — Researcher, Chair of Psychological Ergonomics, Julius-Maximilians-Universität Würzburg. HCI researcher who explores co-creation with honeybees, offering them wax shapes to build on.
@@ -15978,6 +18565,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Stijn Ossevoort** (1) — Interaction designer; Eindhoven University of Technology (Industrial Design). Designed Flare, a wind-responsive dress, with Miguel Bruns and proposed 'participation of natural phenomena' as a strong concept for interaction design (TEI 2023).
 - **Strange Loop Games** (1) — Game studio. Studio behind Eco, a multiplayer ecosystem-and-economy simulation.
 - **Stuart Gray** (1) — Lecturer in Engineering Design, University of Bristol. Engineer and designer who led Gorilla Game Lab, building modular cognitive puzzles with Bristol Zoo's gorillas.
+- **Studio Makkink & Bey** (1) — Design studio (Rianne Makkink and Jurgen Bey). Studio Makkink & Bey is a Rotterdam design studio working across architecture, landscape and objects. https://www.studiomakkinkbey.nl
 - **Studio PSK** (1) — Design studio (Patrick Stevenson-Keating). London design studio making speculative objects and narratives about science, technology and economics.
 - **Studio diip** (1) — Design studio for computer vision and interactive installations. Dutch studio that builds interactive projects based on computer vision. http://www.studiodiip.com
 - **Sue Savage-Rumbaugh** (1) — Primatologist; former researcher at Georgia State University's Language Research Center. Sue Savage-Rumbaugh is known for her work with the bonobo Kanzi, who learned to communicate using a keyboard of abstract symbols called lexigrams.
@@ -15989,12 +18577,15 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Suzanne Simard** (1) — Professor of Forest Ecology, University of British Columbia. Suzanne Simard is a forest ecologist whose research on carbon transfer between trees through mycorrhizal networks popularised the idea of the "wood wide web".
 - **Sybille Neumeyer** (1) — Artist and researcher. Sybille Neumeyer works on insects, viruses and environmental data, combining archives, specimens and field research.
 - **Sylvain Martel** (1) — Professor, Polytechnique Montréal; director of the NanoRobotics Laboratory. Sylvain Martel pioneered steering magnetotactic bacteria with magnetic fields to move microrobots and deliver drugs.
+- **Tak Keung Chan** (1) — Designer; The Hong Kong Polytechnic University. Tak Keung Chan is a Hong Kong designer whose oyster-reef structure Reef of Hope won the 2025 James Dyson Award in Hong Kong. http://www.teamorz.com
 - **Taku Onozato** (1) — Design researcher, Kyoto Institute of Technology. Studies ontological and relational design for sustainability.
+- **Takuma Yamazaki** (1) — Designer; Lexus Design Award 2016 panel finalist. Takuma Yamazaki is a Japanese designer whose Bio-Vide leaf-litter material was a 2016 Lexus Design Award finalist.
 - **Takumi Saeki** (1) — Artist and researcher, Kyushu University. Takumi Saeki prints images with bioluminescent bacteria as ink, so the image glows, fades and disappears as the bacteria live and die.
 - **Tal Dvir** (1) — Professor and director of the Sagol Center for Regenerative Biotechnology, Tel Aviv University. Tal Dvir's group prints cardiac tissue from a patient's own reprogrammed cells suspended in a personalised hydrogel made from their tissue. https://en-lifesci.tau.ac.il/profile/dvirt
 - **Tamara Orjola** (1) — Designer; graduate of Design Academy Eindhoven (2016). Tamara Orjola researches unused parts of plants as material; her graduation project Forest Wool turns discarded pine needles into textiles, composites and paper. https://tamaraorjola.com
 - **Tandem Repeat** (1) — Biotech textile company co-founded by Melik Demirel and Gözde Senel-Ayaz. A Penn State spin-out that produces Squitex, a protein fibre based on the tandem-repeat structure of squid ring teeth, made by microbial fermentation. https://www.tandemrepeat.com
 - **Tarsh Bates** (1) — Artist and researcher; PhD in Biological Art, SymbioticA, University of Western Australia. Australian artist whose long-term practice centres on living with the yeast Candida albicans and other organisms, exploring interspecies care and the human body as an ecosystem. https://www.tarshbates.com/
+- **Tera Mira** (1) — Company. Tera Mira, founded by Jeanne Begon-Lours and Lucy Dain-Williams, wet-spins seaweed into stretch fibres. https://teramira.com
 - **Teresa Vicente** (1) — Professor of Philosophy of Law, University of Murcia; led the Mar Menor citizens' legislative initiative. Teresa Vicente led the popular legislative initiative that gathered over 600,000 signatures to give the Mar Menor lagoon legal personhood.
 - **The Mycological Twist** (1) — Artist collective (Eloïse Bonneviot and Anne de Boer). An art project by Eloïse Bonneviot and Anne de Boer that runs a mushroom garden and a nomadic programme of works, talks and performances timed to inoculation, growth and harvest.
 - **The ODIN** (1) — DIY genetic engineering kit company founded by Josiah Zayner, 2016. The ODIN sells mail-order kits for bacterial genetic engineering, including a CRISPR kit, along with lab equipment cheap enough for kitchen use. https://www.the-odin.com/
@@ -16012,23 +18603,38 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Tina Gorjanc** (1) — Slovenian designer and researcher; graduate of the MA Material Futures, Central Saint Martins. Tina Gorjanc works on the legal and ethical side of biotechnology in fashion, using speculative prototypes to expose gaps in the protection of genetic information. https://www.tinagorjanc.com
 - **Tobie Kerridge** (1) — Designer and researcher, Goldsmiths, University of London. British designer who studied in the Royal College of Art Design Interactions programme and researches public engagement with science through design.
 - **Tomáš Gabzdil Libertíny** (1) — Artist and designer. Slovak-born, Netherlands-based artist who makes sculptures and vessels by letting honeybees build comb over prepared forms. https://www.tomaslibertiny.com/
+- **Tongji University College of Design and Innovation Biodesign Challenge team** (1) — Student team, Tongji University College of Design and Innovation; Biodesign Challenge 2021–2022. Students at Tongji University College of Design and Innovation who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Hongtao Zhou, Lisha Ren and Francesca Valsecchi. https://www.biodesignchallenge.org/
 - **Tony Fry** (1) — Design theorist; founder of The Studio at the Edge of the World. Design philosopher who writes on sustainment, defuturing and design after unsustainability.
 - **Tracy Fullerton** (1) — Professor and director of the USC Game Innovation Lab. Game designer and educator who makes experimental games.
 - **Troika** (1) — Art and design studio (Eva Rucki, Conny Freyer, Sebastien Noel). London art collective making installations and speculative objects about perception, technology and nature. https://troika.uk.com/
+- **Turenscape** (1) — Landscape architecture firm. Turenscape is the landscape architecture firm founded by Kongjian Yu, known for 'sponge city' designs that work with water. https://www.turenscape.com/
 - **Tuurm** (1) — Interactive design studio founded by Zurich University of the Arts graduates. Zurich studio that builds tactile installations for museums and public spaces; its founders made SOMA at ZHdK with FinalSpark. https://tuurm.ch
 - **Tyler Luong** (1) — Engineering researcher, Bucknell University. Tyler Luong tested plant and mud microbial fuel cells as power sources for low-power plant sensors.
 - **TômTex** (1) — Materials start-up founded by designer Uyen Tran. TômTex makes a plastic-free leather alternative from chitosan extracted from seafood shells and mushroom waste; it started as Uyen Tran's student project at Pratt Institute. https://www.tomtex.com
 - **United Visual Artists** (1) — Art and design practice working with light, sound and code. London studio founded in 2003 by Matt Clark that makes large installations with light, sound and software. https://www.uva.co.uk/
+- **Universidad del Istmo Biodesign Challenge team** (1) — Student team, Universidad del Istmo; Biodesign Challenge 2024. Students at Universidad del Istmo who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **University of British Columbia Biodesign Challenge team** (1) — Student team, University of British Columbia; Biodesign Challenge 2018. Students at University of British Columbia who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Steven Hallam and Joseph Dahmen. https://www.biodesignchallenge.org/
+- **University of California, Davis Biodesign Challenge team** (1) — Student team, University of California, Davis; Biodesign Challenge 2018–2025. Students at University of California, Davis who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **University of Cincinnati Biodesign Challenge team** (1) — Student team, University of Cincinnati; Biodesign Challenge 2020. Students at University of Cincinnati who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **University of Edinburgh Biodesign Challenge team** (1) — Student team, University of Edinburgh; Biodesign Challenge 2017. Students at University of Edinburgh who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://biodesign.eca.ed.ac.uk/
+- **University of Pennsylvania Biodesign Challenge team** (1) — Student team, University of Pennsylvania; Biodesign Challenge 2024–2025. Students at University of Pennsylvania who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Laia Mogas-Soldevila. https://www.biodesignchallenge.org/
+- **University of Technology Sydney Biodesign Challenge team** (1) — Student team, University of Technology Sydney; Biodesign Challenge 2019. Students at University of Technology Sydney who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **University of Toledo Biodesign Challenge team** (1) — Student team, University of Toledo; Biodesign Challenge 2018. Students at University of Toledo who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. Instructors include Eric Zeigler and Brian Carpenter. https://www.biodesignchallenge.org/
+- **VEGEA** (1) — Company. VEGEA is an Italian company that makes leather alternatives from grape marc left over from winemaking. https://www.vegeacompany.com/
 - **Valentin Postl** (1) — Researcher, University of Applied Sciences Upper Austria (Media Interaction Lab). Valentin Postl builds fabrication tools for living media, including a 3D printer modified to print mould spores into drawings.
 - **Vanessa Monna** (1) — Design researcher, Delft University of Technology. Design researcher working on citizenship, urban participation and the more-than-human political.
 - **Vasco Costa** (1) — Design researcher. Design researcher working with children, storytelling and tangible making for planetary care.
 - **Vasiliki Tsaknaki** (1) — Associate Professor, IT University of Copenhagen. Interaction design researcher working on biodata, somaesthetics and more-than-human bodies.
+- **Vasily Sitnikov** (1) — Architect and researcher (ice formwork). Vasily Sitnikov is an architect who develops ice formwork for casting concrete, including façades that host plants, insects and birds. https://iceformwork.com
 - **Verena Fuchsberger** (1) — Senior Scientist, Human-Computer Interaction Division, University of Salzburg. HCI researcher working on materiality, posthumanism and responsibility in interaction design.
 - **Victoria Webster-Wood** (1) — Associate Professor of Mechanical Engineering, Carnegie Mellon University; Biohybrid and Organic Robotics Group. Engineer who builds biohybrid robots from sea-slug (Aplysia) muscle and nerve tissue and organic materials. https://engineering.cmu.edu/borg/
+- **Vidhi Mehta** (1) — Designer; Royal College of Art / Imperial College London. Vidhi Mehta is a designer who created Post/Biotics, a citizen-science toolkit for discovering antibiotics in local soils and plants.
 - **Vincent Fournier** (1) — Photographer and artist. French photographer whose series look at space exploration, robots and imagined future life forms. https://www.vincentfournier.co.uk/
 - **Vinciane Despret** (1) — Philosopher of science, University of Liège. Vinciane Despret is a philosopher who studies how scientists and animals shape each other in research, from birds to primates.
 - **Vito Gentile** (1) — Researcher, Ubiquitous Systems and Interfaces group, University of Palermo. Vito Gentile researches pervasive displays and touchless interaction in public spaces.
 - **Vivian Xu** (1) — Media artist and researcher working between bio and electronic media. Vivian Xu builds hybrid machines and wearables that combine insects such as silkworms with electronics and computation.
+- **Vollebak** (1) — Clothing company (Steve and Nick Tidball). Vollebak is a London clothing company known for experimental garments, including a T-shirt made from plants and algae. https://www.vollebak.com
+- **Weird Ecologies (RCA team)** (1) — Student team, Royal College of Art. Weird Ecologies is an RCA team designing devices that support toxin-tolerant organisms on contaminated land.
 - **Wenjia Sun** (1) — Design researcher, National Chung Cheng University. Design researcher working on speculative design, legal fiction and nonhuman rights.
 - **Werewool** (1) — Biotech fibre start-up co-founded by Chui-Lian Lee and Valentina Gomez. Werewool designs textile fibres from protein sequences found in nature, such as fluorescent coral proteins, so that colour, stretch or moisture handling are built into the fibre itself. https://www.werewool.bio
 - **Werner Aisslinger** (1) — Industrial designer; founder of Studio Aisslinger. Werner Aisslinger designs furniture, interiors and experimental material projects such as the Hemp Chair. https://aisslinger.de/
@@ -16037,6 +18643,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Whanganui Iwi** (1) — Māori tribes of the Whanganui River, represented in the Te Awa Tupua settlement. The iwi of the Whanganui River pursued recognition of the river as an ancestor and living whole for about 140 years, leading to the Te Awa Tupua Act 2017.
 - **Where Dogs Run** (1) — Art group from Yekaterinburg (Natalia Grekhova, Olga Inozemtseva, Alexey Korzukhin and others). Where Dogs Run is an art group that builds robotic and biological installations about memory, information and living systems.
 - **Wild Me** (1) — Nonprofit behind Wildbook, now part of Conservation X Labs. Wild Me builds open-source software that identifies individual animals from photographs contributed by researchers and the public. https://www.wildme.org
+- **WildWatch team (NID Ahmedabad)** (1) — Student team, National Institute of Design. Students at India's National Institute of Design who won the 2024 Terra Carta Design Lab with WildWatch, a wildlife-collision warning system.
 - **Wildlife Insights** (1) — Camera-trap data platform of Conservation International, WWF, WCS, ZSL, Smithsonian and Google. Cloud platform that uses AI to identify animals in camera-trap photos.
 - **William Myers** (1) — Curator, writer and teacher. William Myers is an American curator based in Amsterdam who writes about the use of living systems in design and art. https://www.william-myers.com
 - **Wolfgang Buttress** (1) — Artist and sculptor. British artist who makes large sculptures about landscape and nature, often with scientists; best known for The Hive, which is driven by live honeybee signals. https://www.wolfgangbuttress.com/
@@ -16046,10 +18653,14 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Xiaodong Chen** (1) — Professor of Materials Science and Engineering, Nanyang Technological University, Singapore. Xiaodong Chen develops soft bio-interfaced electronics, including conformable electrodes for plants.
 - **Xiaoge Wang** (1) — Interaction design researcher. Designer of Nature Jar, a tangible device that brings outdoor nature into the home.
 - **Xinquan Wen** (1) — Design researcher, School of Design, Hong Kong Polytechnic University. Xinquan Wen designed Sloooooooooow, a smart home in which curtains move with the humidity that plants transpire.
+- **Xuewei Zhao** (1) — Designer; Central Academy of Fine Arts. Xuewei Zhao is a designer from Central Academy of Fine Arts whose project Mr. Kombucha's Lab was selected by the Green Product / Green Concept Award.
 - **Yangyang Yang** (1) — Researcher, School of Information, University of California, Berkeley. Designer-researcher making mobile augmented reality experiences that invite people to take nonhuman perspectives.
 - **Yannick Rondelez** (1) — CNRS Research Director, Gulliver laboratory, ESPCI Paris. Chemist who builds dynamic molecular programs from DNA and enzymes that oscillate, compute and decide.
+- **Ye Wen** (1) — Designer; Hunan University. Ye Wen is a designer from Hunan University whose project Algae-Symbiont was selected by the Green Product / Green Concept Award.
 - **Yen-Fu Chen** (1) — Design researcher, Tatung University. Design researcher working on citizen science, sound and more-than-human participation.
 - **Yi Sui** (1) — PhD researcher, Department of Design, Politecnico di Milano. Design researcher studying shape-changing and responsive materials in more-than-human design.
+- **Yi Zhijian** (1) — Professor, Chongqing Jiaotong University. Yi Zhijian is a professor at Chongqing Jiaotong University who developed 'desert soilization', turning sand into soil-like ground with a plant-derived binder.
+- **Yihan Liu & Yang Zhang** (1) — Designers; Zhejiang University / Nanchang University. Yihan Liu and Yang Zhang designed Coral Reef Rescuer, a robot system for coral restoration.
 - **Ying Zhou** (1) — Design researcher, Zhejiang University. Ying Zhou co-designed MossWater, a moss display that is watered when office workers drink water.
 - **Yingting Gao** (1) — Researcher, Georgia Institute of Technology. Works on biodegradable and plant-based materials for wearables.
 - **Yiran Ma** (1) — Designer and researcher, Xi'an Jiaotong-Liverpool University. Design researcher who builds probes that let animals steer human bodies and machines.
@@ -16066,19 +18677,32 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Yuga Tsukuda** (1) — Researcher, Digital Nature Group, University of Tsukuba. Yuga Tsukuda develops Calmbots, cockroaches with small backpacks steered as a swarm to draw, carry and display.
 - **Yuichi Oba** (1) — Biologist, Chubu University. Bioluminescence researcher who led the reconstruction of the ancestral firefly luciferase published in Science Advances in 2020.
 - **Yuichiro Takeuchi** (1) — Researcher, Sony Computer Science Laboratories. Yuichiro Takeuchi works on digital fabrication for cities and ecologies, including 3D-printed hydroponic landscapes.
+- **Yumi Sasaki** (1) — Artist (with Dorita Takido). Yumi Sasaki is a Japanese artist who with Dorita Takido created Bug's Beat, which lets people hear and feel an insect's footsteps.
+- **Yuning Chan** (1) — Designer (Project Habitate, with Tom Hartley and Yishan Qin). Yuning Chan is a designer who, with Tom Hartley and Yishan Qin, created Project Habitate, a living wearable that hosts species displaced by ash dieback.
 - **Yuxi Liu** (1) — Researcher, TU Delft. Design researcher who uses drifting and recipe-making as methods for noticing humans and nonhumans in the city.
 - **Yuyao Lin** (1) — Design researcher, Royal College of Art. Design researcher working on more-than-human design and species that people find disgusting.
 - **ZKM | Center for Art and Media Karlsruhe** (1) — Art and media museum and research centre. ZKM is a German institution for media art that produces large thematic exhibitions on technology, science and society. https://zkm.de
+- **Zahra Jajarmikhayat** (1) — Designer; California College of the Arts alumna. Zahra Jajarmikhayat is a designer whose lemon-rind mosquito nets were Runner-Up at the 2022 Biodesign Challenge.
 - **Zeefier** (1) — Seaweed-dye company founded by designers Nienke Hoogvliet and Anne Boermans. Zeefier scales up Nienke Hoogvliet's seaweed-dye research from SEA ME into natural textile colours made from 100 percent seaweed and its waste streams. https://www.zeefier.nl
 - **Zena Holloway** (1) — Photographer and biodesigner; founder of Rootfull. Former underwater photographer Zena Holloway founded Rootfull in 2018 to grow textiles and objects from grass roots in beeswax templates. https://www.zenaholloway.com/
+- **Zhang Tianyi** (1) — Artist. Zhang Tianyi is a Chinese artist working on ecological art and plant intelligence.
 - **Zhenan Bao** (1) — Professor of Chemical Engineering, Stanford University. Materials scientist working on skin-like stretchable electronics, including kirigami-cut electrode sheets that follow growing organoids. https://baogroup.stanford.edu
 - **Zhenchi Lai** (1) — Design researcher, National Taiwan University of Science and Technology. Researches AI tools for human–cat relationships.
 - **Ziming Wang** (1) — Researcher, t2i Lab, Chalmers University of Technology. HCI researcher who creates speculative designs about biohybrid robots and human–food interaction.
 - **Zoe Qi-Jing Li** (1) — Artist and researcher, Hong Kong University of Science and Technology (Guangzhou). Makes computational artworks that couple human expression with natural phenomena such as moonlight.
+- **Zsofia Kollar** (1) — Designer; founder of Human Material Loop. Zsofia Kollar is a designer who founded Human Material Loop, turning waste human hair into textiles.
+- **Zurich University of the Arts (ZHdK) Biodesign Challenge team** (1) — Student team, Zurich University of the Arts (ZHdK); Biodesign Challenge 2025. Students at Zurich University of the Arts (ZHdK) who took part in the Biodesign Challenge, the international competition that pairs art and design students with biologists. https://www.biodesignchallenge.org/
+- **crafting plastics! studio** (1) — Design studio. crafting plastics! studio (Vlasta Kubušová, Miroslav Král) develops the oil-free bioplastic NUATAN with Slovak scientists. https://www.crafting-plastics.com/
 - **doxiadis+** (1) — Landscape architecture office led by Thomas Doxiadis. doxiadis+ is a Greek landscape and architecture practice working on ecological landscapes, drylands and multispecies design. https://www.doxiadisplus.com
 - **explore.org** (1) — Live nature camera network of the Annenberg Foundation. Nonprofit that streams dozens of live cameras from bear rivers, eagle nests and reefs.
 - **hOrO mO X** (1) — Digital artist. Paris-based artist working with quantum randomness, AI and biocomputers; the MindWare series connects him to FinalSpark organoids. https://horomox.com
-- **iGEM Paris Bettencourt** (1) — Student synthetic-biology team at the Learning Planet Institute, Paris. iGEM Paris Bettencourt is a student team competing in the international iGEM synthetic-biology competition.
+- **iGEM Team Cambridge** (1) — iGEM student team (2009–2010). The Cambridge student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2010.igem.org/Team:Cambridge
+- **iGEM Team Cornell** (1) — iGEM student team (2013). The Cornell student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2013.igem.org/Team:Cornell
+- **iGEM Team Harvard** (1) — iGEM student team (2010). The Harvard student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2010.igem.org/Team:Harvard
+- **iGEM Team KIT-Kyoto** (1) — iGEM student team (2010). The KIT-Kyoto student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2010.igem.org/Team:KIT-Kyoto/Home
+- **iGEM Team NYU Gallatin** (1) — iGEM student team (2012). The NYU Gallatin student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2012.igem.org/Team:NYU_Gallatin
+- **iGEM Team UCL London** (1) — iGEM student team (2012). The UCL London student team competed in iGEM, the International Genetically Engineered Machine competition, with a project that crossed synthetic biology and design. https://2012.igem.org/Team:UCL_London
+- **junya.ishigami+associates** (1) — Architecture office. junya.ishigami+associates is the Tokyo architecture office of Junya Ishigami, known for architecture that blurs building and landscape. https://www.jnyi.jp/
 - **rrreefs** (1) — Non-profit reef restoration venture, founded 2020. rrreefs 3D prints interlocking clay bricks that are assembled underwater into reef walls, first installed off San Andrés, Colombia. https://rrreefs.com/
 - **terra0** (1) — Art collective (Paul Kolling, Paul Seidler, Max Hampshire). terra0 is an art collective, founded in 2015, that explores how ecosystems could become economic and legal agents through blockchains and smart contracts. https://www.terra0.org
 - **thatgamecompany** (1) — Game studio co-founded by Jenova Chen. Studio behind flOw, Flower, Journey and Sky.

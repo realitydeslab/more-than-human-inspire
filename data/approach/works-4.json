@@ -1157,8 +1157,7 @@
   "interface"
  ],
  "andy-gracie--small-work-for-robot-and-insects": [
-  "co-create",
-  "interface"
+  "co-create"
  ],
  "donna-haraway--companion-species-manifesto": [
   "theorize"
@@ -1173,8 +1172,7 @@
   "translate"
  ],
  "natalie-jeremijenko--feral-robotic-dogs": [
-  "translate",
-  "interface"
+  "translate"
  ],
  "steve-potter--hybrot": [
   "interface"
@@ -1183,11 +1181,10 @@
   "engineer"
  ],
  "miya-masaoka--pieces-for-plants": [
-  "co-create",
-  "interface"
+  "co-create"
  ],
  "paul-vanouse--relative-velocity-inscription-device": [
-  "translate"
+  "engineer"
  ],
  "cornell-lab-of-ornithology--ebird": [
   "translate"
@@ -1196,13 +1193,13 @@
   "interface"
  ],
  "shimon-marom--learning-networks": [
-  "interface"
+  "theorize"
  ],
  "brandon-ballengee--malamp": [
   "translate"
  ],
  "diana-reiss--dolphin-mirror-self-recognition": [
-  "translate"
+  "theorize"
  ],
  "oron-catts--pig-wings": [
   "grow"
@@ -1233,10 +1230,10 @@
   "translate"
  ],
  "toshiyuki-nakagaki--maze-solving": [
-  "co-create"
+  "interface"
  ],
  "marta-de-menezes--nature": [
-  "grow"
+  "engineer"
  ],
  "oron-catts--semi-living-worry-dolls": [
   "grow"
@@ -1279,8 +1276,8 @@
   "interface"
  ],
  "eduardo-kac--essay-concerning-human-understanding": [
-  "interface",
-  "translate"
+  "co-create",
+  "interface"
  ],
  "sue-savage-rumbaugh--kanzi-lexigrams": [
   "translate"
@@ -1302,11 +1299,10 @@
   "interface"
  ],
  "lely--astronaut-milking-robot": [
-  "care",
-  "interface"
+  "care"
  ],
  "biosphere-2--biosphere-2": [
-  "speculate"
+  "care"
  ],
  "janet-cardiff--forest-walk": [
   "translate"
@@ -1349,12 +1345,11 @@
   "co-create"
  ],
  "damanhur--music-of-the-plants": [
-  "co-create",
-  "interface"
+  "translate"
  ],
  "ant-farm--dolphin-embassy": [
   "speculate",
-  "advocate"
+  "translate"
  ],
  "thomas-nagel--what-is-it-like-to-be-a-bat": [
   "theorize"

@@ -31651,5 +31651,4193 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:TuiU5YaQtuw": {
+  "url": "https://www.youtube.com/watch?v=TuiU5YaQtuw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TuiU5YaQtuw",
+  "title": "Virtual birding",
+  "author": "Association for Computing Machinery (ACM)",
+  "thumbnail": "https://i.ytimg.com/vi/TuiU5YaQtuw/hqdefault.jpg"
+ },
+ "video:youtube:ygndjz_Zm-8": {
+  "url": "https://www.youtube.com/watch?v=ygndjz_Zm-8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ygndjz_Zm-8",
+  "title": "The Talking Plants: an Interactive System for Grassroots Urban Food-Growing Communities",
+  "author": "Association for Computing Machinery (ACM)",
+  "thumbnail": "https://i.ytimg.com/vi/ygndjz_Zm-8/hqdefault.jpg"
+ },
+ "video:youtube:T9lNNC48cGk": {
+  "url": "https://www.youtube.com/watch?v=T9lNNC48cGk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "T9lNNC48cGk",
+  "title": "BWA ZOEpolis  Dizajn dla roślin i zwierząt",
+  "author": "DOKIS TV",
+  "thumbnail": "https://i.ytimg.com/vi/T9lNNC48cGk/hqdefault.jpg"
+ },
+ "ytmax:TuiU5YaQtuw": {
+  "url": "https://i.ytimg.com/vi/TuiU5YaQtuw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ygndjz_Zm-8": {
+  "url": "https://i.ytimg.com/vi/ygndjz_Zm-8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:T9lNNC48cGk": {
+  "url": "https://i.ytimg.com/vi/T9lNNC48cGk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:202106875": {
+  "url": "https://vimeo.com/202106875",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "202106875",
+  "embeddable": true,
+  "title": "MyoTomato",
+  "thumbnail": "https://i.vimeocdn.com/video/616052301-356211d5d33e9382a3c28dcae18f947ea04d5ca2103fb06c4968eb054c9a6ef5-d?f=webp&region=us"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796965174-LJZZZ1B52VV3Y8WI1FCS/Myo-tomato005.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796965174-LJZZZ1B52VV3Y8WI1FCS/Myo-tomato005.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796881490-9U97HW1P4TMPG6ZKIB85/Myo-tomato003.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1464796881490-9U97HW1P4TMPG6ZKIB85/Myo-tomato003.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:173535470": {
+  "url": "https://vimeo.com/173535470",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "173535470",
+  "embeddable": true,
+  "title": "MUTUA",
+  "thumbnail": "https://i.vimeocdn.com/video/579901498-7fc211355192ebd0c8a2ab939b2dc78d7846e2532ef4c3c10c12801ddbdef894-d?f=webp&region=us"
+ },
+ "video:vimeo:219922957": {
+  "url": "https://vimeo.com/219922957",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "219922957",
+  "embeddable": true,
+  "title": "The Quantworm Mine",
+  "thumbnail": "https://i.vimeocdn.com/video/637805264-83dfff0301f2048ac4f1ed4be170c50485f940dfdc1a8c01d970714dd690b732-d?f=webp&region=us"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340842422-B3HKU265C726R8752I55/Worm_miner_in_the_extracting_QD_from_hybrid_worm.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340842422-B3HKU265C726R8752I55/Worm_miner_in_the_extracting_QD_from_hybrid_worm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340886242-UM22WQBJWM3OJ7DIFUB8/Quantworm_Industries_with_QDPhotovoltaic_flags.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498340886242-UM22WQBJWM3OJ7DIFUB8/Quantworm_Industries_with_QDPhotovoltaic_flags.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:EfS-wU84WN4": {
+  "url": "https://www.youtube.com/watch?v=EfS-wU84WN4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EfS-wU84WN4",
+  "title": "UK 2029 Presentation | Biodesign Challenge Summit 2017",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/EfS-wU84WN4/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498341442238-BDC145GQB2XQW508E4IJ/Screen+Shot+2017-06-24+at+5.56.37+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498341442238-BDC145GQB2XQW508E4IJ/Screen+Shot+2017-06-24+at+5.56.37+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1597795537044-50XZ9EINBS3KMQZ8J84H/download+%282%29.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1597795537044-50XZ9EINBS3KMQZ8J84H/download+%282%29.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287942037-TTPLUOFD82ZLC7X8UEDX/Screen+Shot+2018-06-29+at+11.57.37+AM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287942037-TTPLUOFD82ZLC7X8UEDX/Screen+Shot+2018-06-29+at+11.57.37+AM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287940399-4NWK48DJO2UO654KO4A3/Screen+Shot+2018-06-29+at+11.57.46+AM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530287940399-4NWK48DJO2UO654KO4A3/Screen+Shot+2018-06-29+at+11.57.46+AM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:1fLnemtiFTg": {
+  "url": "https://www.youtube.com/watch?v=1fLnemtiFTg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1fLnemtiFTg",
+  "title": "University of California, Davis - Sorbit",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/1fLnemtiFTg/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530282557415-L1VRZOFIT4QN69Q488DJ/Copy+of+UC+Davis+Winning+Team+4+Sorbet+Diaper+Folded+as+Worn.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1530282557415-L1VRZOFIT4QN69Q488DJ/Copy+of+UC+Davis+Winning+Team+4+Sorbet+Diaper+Folded+as+Worn.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:BHRuGA1Ao4s": {
+  "url": "https://www.youtube.com/watch?v=BHRuGA1Ao4s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BHRuGA1Ao4s",
+  "title": "University of Toledo - Apigiene Hive",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/BHRuGA1Ao4s/hqdefault.jpg"
+ },
+ "video:youtube:dZJaLyFQ1yg": {
+  "url": "https://www.youtube.com/watch?v=dZJaLyFQ1yg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dZJaLyFQ1yg",
+  "title": "Universidad de los Andes - Woocoa",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/dZJaLyFQ1yg/hqdefault.jpg"
+ },
+ "video:youtube:mwUVBkoInTY": {
+  "url": "https://www.youtube.com/watch?v=mwUVBkoInTY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mwUVBkoInTY",
+  "title": "Universidad de los Andes – PseudoFreeze",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/mwUVBkoInTY/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579829697-3QCPAY4U6F198SLVEZD4/PSEUDOFREEZE+BAG.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579829697-3QCPAY4U6F198SLVEZD4/PSEUDOFREEZE+BAG.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579824228-INMOFWBBHXXHJ50URMTP/PSEUDOFREEZE+LAB.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561579824228-INMOFWBBHXXHJ50URMTP/PSEUDOFREEZE+LAB.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:-zT7OKeApNA": {
+  "url": "https://www.youtube.com/watch?v=-zT7OKeApNA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-zT7OKeApNA",
+  "title": "The Nest Makerspace – GIY Bio Buddies",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/-zT7OKeApNA/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580295993-BWM6RO002JMJ8FCRYF4E/Final+GIY+Bio+Buddies+kit.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580295993-BWM6RO002JMJ8FCRYF4E/Final+GIY+Bio+Buddies+kit.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580298990-R6SNAG2Y2B0A1C1AO2TR/GIY+Bio+Buddies+Project+final+images.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580298990-R6SNAG2Y2B0A1C1AO2TR/GIY+Bio+Buddies+Project+final+images.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:pBIPYySoRuc": {
+  "url": "https://www.youtube.com/watch?v=pBIPYySoRuc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pBIPYySoRuc",
+  "title": "Death On Mars Presentation",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/pBIPYySoRuc/hqdefault.jpg"
+ },
+ "video:youtube:UEjUS4o1LHA": {
+  "url": "https://www.youtube.com/watch?v=UEjUS4o1LHA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UEjUS4o1LHA",
+  "title": "National Research University HSE, Moscow – Mycokarst",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/UEjUS4o1LHA/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580924834-52ZEVBX9E609LDT5PO39/Mycokarst+ravine_prototype_2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580924834-52ZEVBX9E609LDT5PO39/Mycokarst+ravine_prototype_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580915326-9RYKVPSECTJCX1OXLCWA/Archetype_3.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561580915326-9RYKVPSECTJCX1OXLCWA/Archetype_3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561581725231-74KVXP751STI5NMIB8C7/Other_Townsend_policesketch.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561581725231-74KVXP751STI5NMIB8C7/Other_Townsend_policesketch.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1563218848839-AATWJFE2SRFCY8SQU1X6/Other_Townsend_habitat.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1563218848839-AATWJFE2SRFCY8SQU1X6/Other_Townsend_habitat.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:eu2UlP6V8cM": {
+  "url": "https://www.youtube.com/watch?v=eu2UlP6V8cM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eu2UlP6V8cM",
+  "title": "RMIT University – ENZER",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/eu2UlP6V8cM/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582038059-VSTURWUDLBXA4CHUBPE3/BDC+2019+RMIT+Finalist+Team+ENZER+_+Image+1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582038059-VSTURWUDLBXA4CHUBPE3/BDC+2019+RMIT+Finalist+Team+ENZER+_+Image+1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582601681-1ZN4ITZ13YCM2YII6KJ6/IMG_5539.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582601681-1ZN4ITZ13YCM2YII6KJ6/IMG_5539.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582469961-LKESDG5HCACT14LV4KD8/flora+cycle.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1561582469961-LKESDG5HCACT14LV4KD8/flora+cycle.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:2nq5StOmac8": {
+  "url": "https://www.youtube.com/watch?v=2nq5StOmac8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2nq5StOmac8",
+  "title": "College for Creative Studies – Zebra Glass",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/2nq5StOmac8/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594849170023-PJTG7LNJKKWLRZ73YTZH/Screen+Shot+2020-07-15+at+5.36.33+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594849170023-PJTG7LNJKKWLRZ73YTZH/Screen+Shot+2020-07-15+at+5.36.33+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:dtmQO7tlYiA": {
+  "url": "https://www.youtube.com/watch?v=dtmQO7tlYiA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dtmQO7tlYiA",
+  "title": "HBBE ⁠— Culina",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/dtmQO7tlYiA/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228104189-LD314OZZ4EHJ1GV6HTTF/Copy+of+BIOREACTOR+1.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228104189-LD314OZZ4EHJ1GV6HTTF/Copy+of+BIOREACTOR+1.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228125618-0VK2C8CSNAJME7JVGFU4/Copy+of+Dining+Room.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596228125618-0VK2C8CSNAJME7JVGFU4/Copy+of+Dining+Room.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:So7kEMqr8Lk": {
+  "url": "https://www.youtube.com/watch?v=So7kEMqr8Lk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "So7kEMqr8Lk",
+  "title": "University of Cincinnati – LIFEBRIK",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/So7kEMqr8Lk/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595467099794-NZDUSYHTFVHCL4LOIKPR/Lifebrik.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595467099794-NZDUSYHTFVHCL4LOIKPR/Lifebrik.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:fbLwNWgHDIk": {
+  "url": "https://www.youtube.com/watch?v=fbLwNWgHDIk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "fbLwNWgHDIk",
+  "title": "Tecnológico de Monterrey – Malgae",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/fbLwNWgHDIk/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596238223209-C94JP54VRVRBQSCADCC1/1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1596238223209-C94JP54VRVRBQSCADCC1/1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:u3onQ7ogZgM": {
+  "url": "https://www.youtube.com/watch?v=u3onQ7ogZgM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "u3onQ7ogZgM",
+  "title": "New York University IDM ⁠— Microbial Memories",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/u3onQ7ogZgM/hqdefault.jpg"
+ },
+ "video:youtube:YYlKUX1nloI": {
+  "url": "https://www.youtube.com/watch?v=YYlKUX1nloI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YYlKUX1nloI",
+  "title": "⁠California College of the Arts — Algae Filters",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/YYlKUX1nloI/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594838094196-DWN0PQAOKBEEY80D77P7/Copy+of+FILTER+ON+WOMAN+WITH+AVERAGE+FACEMASK.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594838094196-DWN0PQAOKBEEY80D77P7/Copy+of+FILTER+ON+WOMAN+WITH+AVERAGE+FACEMASK.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:duRbE2ts_-o": {
+  "url": "https://www.youtube.com/watch?v=duRbE2ts_-o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "duRbE2ts_-o",
+  "title": "Kent State University – Bio Black",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/duRbE2ts_-o/hqdefault.jpg"
+ },
+ "video:youtube:cqJm9gxBifc": {
+  "url": "https://www.youtube.com/watch?v=cqJm9gxBifc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cqJm9gxBifc",
+  "title": "Universidad de los Andes ⁠— Linneo",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/cqJm9gxBifc/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284288770-2Z96KKKKVJUUO0RRJWF6/Linneo.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284288770-2Z96KKKKVJUUO0RRJWF6/Linneo.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284359633-YW8NNGB1AADP8RDCZ7N8/LINNEO_Palette_3.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595284359633-YW8NNGB1AADP8RDCZ7N8/LINNEO_Palette_3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287025248-ZVGV0A2X46W2LFS0RF3V/AALTO+DipWrap+2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287025248-ZVGV0A2X46W2LFS0RF3V/AALTO+DipWrap+2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287006965-75D90FEFR36TARV4W4BH/AALTO+DipWrap+5.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626287006965-75D90FEFR36TARV4W4BH/AALTO+DipWrap+5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983904360-EWDLCJTQNZSQB68N6JS9/PermaPak+2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983904360-EWDLCJTQNZSQB68N6JS9/PermaPak+2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983905615-N4JIYHD6TKWEGXWV4A6Z/PermaPak+biopackaging.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1626983905615-N4JIYHD6TKWEGXWV4A6Z/PermaPak+biopackaging.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:m14cJUp08dI": {
+  "url": "https://www.youtube.com/watch?v=m14cJUp08dI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "m14cJUp08dI",
+  "title": "MUS(T)GO creado por uniandinos, ayudaría a retener microplásticos.",
+  "author": "Universidad de los Andes",
+  "thumbnail": "https://i.ytimg.com/vi/m14cJUp08dI/hqdefault.jpg"
+ },
+ "video:youtube:BQWK-F-gFqc": {
+  "url": "https://www.youtube.com/watch?v=BQWK-F-gFqc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BQWK-F-gFqc",
+  "title": "Mosquitoes and Lemons  - ZahraJajarmikhayat",
+  "author": "Sahra Jajarmikhayat",
+  "thumbnail": "https://i.ytimg.com/vi/BQWK-F-gFqc/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/77da4a75-83d5-4b34-a4d1-5dee635791a7/dyson%e5%9b%be%e7%89%87001.jpeg": {
+  "url": "https://www.jamesdysonaward.org/Document/77da4a75-83d5-4b34-a4d1-5dee635791a7/dyson%e5%9b%be%e7%89%87001.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/b5f50ab8-66f6-411d-a2a5-32b32df2489f/dyson%e5%9b%be%e7%89%87002.jpeg": {
+  "url": "https://www.jamesdysonaward.org/Document/b5f50ab8-66f6-411d-a2a5-32b32df2489f/dyson%e5%9b%be%e7%89%87002.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:foYNxbBx_Ro": {
+  "url": "https://www.youtube.com/watch?v=foYNxbBx_Ro",
+  "ok": true,
+  "platform": "youtube",
+  "id": "foYNxbBx_Ro",
+  "title": "OrderoftheBiodivineTRAILER",
+  "author": "Jessica Thies",
+  "thumbnail": "https://i.ytimg.com/vi/foYNxbBx_Ro/hqdefault.jpg"
+ },
+ "video:youtube:zcfsdPZ1B_8": {
+  "url": "https://www.youtube.com/watch?v=zcfsdPZ1B_8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zcfsdPZ1B_8",
+  "title": "Sista-sis Biodoula Services | Speculative biodesign project",
+  "author": "Naviri",
+  "thumbnail": "https://i.ytimg.com/vi/zcfsdPZ1B_8/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816179457-3NAUX3EW5FN8ED4C8BPC/mother+nacre+1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816179457-3NAUX3EW5FN8ED4C8BPC/mother+nacre+1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816178536-ZKU8J72L65QSSCBRJCXM/nacre+ring-2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816178536-ZKU8J72L65QSSCBRJCXM/nacre+ring-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816181683-ORNWLFXQGYTDWMO909QA/pearl-Recovered.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687816181683-ORNWLFXQGYTDWMO909QA/pearl-Recovered.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881592851-AZD7PR7NHJE6X5ETJLUI/Screenshot+2023-06-27+at+11.56.23+AM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881592851-AZD7PR7NHJE6X5ETJLUI/Screenshot+2023-06-27+at+11.56.23+AM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881600707-3KVU2SVJUJH16G0YJBXC/Screenshot+2023-06-27+at+11.57.06+AM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881600707-3KVU2SVJUJH16G0YJBXC/Screenshot+2023-06-27+at+11.57.06+AM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875738957-AB7A77P0PIW9E4HO0G9Q/Olivia+at+river+with+tool+2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875738957-AB7A77P0PIW9E4HO0G9Q/Olivia+at+river+with+tool+2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875723403-RPY19QL1SAXV1VNR5NIA/ColoresDelRio_CCA-Ortiz_1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875723403-RPY19QL1SAXV1VNR5NIA/ColoresDelRio_CCA-Ortiz_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881104599-I9QD05VS578F6YLYF3I1/CCA_Architecture_Image01.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881104599-I9QD05VS578F6YLYF3I1/CCA_Architecture_Image01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881107345-R516Q6N8DRMKFCYJEMAA/CCA_Architecture_Image02.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881107345-R516Q6N8DRMKFCYJEMAA/CCA_Architecture_Image02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/d076d9bf-c3b9-43b5-839f-475971830e9a/Screenshot+2023-06-27+at+12.16.46+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/d076d9bf-c3b9-43b5-839f-475971830e9a/Screenshot+2023-06-27+at+12.16.46+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883198226-XQOYOTDMDBZU09XZ7AHF/Copy+of+2023-bdc-thrive-hivehopmap.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883198226-XQOYOTDMDBZU09XZ7AHF/Copy+of+2023-bdc-thrive-hivehopmap.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883206469-0R67V1SZYVDPSKT6HS1I/Copy+of+2023-bdc-thrive-wheatpasting.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883206469-0R67V1SZYVDPSKT6HS1I/Copy+of+2023-bdc-thrive-wheatpasting.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884048795-19WZVB44P2MY7IYJENKQ/Screenshot+2023-06-27+at+12.39.25+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884048795-19WZVB44P2MY7IYJENKQ/Screenshot+2023-06-27+at+12.39.25+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884054078-FFLHHHIMKN8VYFJFS7VQ/Screenshot+2023-06-27+at+12.39.42+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884054078-FFLHHHIMKN8VYFJFS7VQ/Screenshot+2023-06-27+at+12.39.42+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884836079-MYD73AYEAXXBED1IOX8O/IMG-20230410-WA0006.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884836079-MYD73AYEAXXBED1IOX8O/IMG-20230410-WA0006.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884835827-NAJA2IZ3F1YK5QMC79ZJ/IMG-20230422-WA0025.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884835827-NAJA2IZ3F1YK5QMC79ZJ/IMG-20230422-WA0025.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064201-ZLDV2CI92WB8DBZ1Z7EW/KAN+-+BEH+1+MAIN+PHOTO.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064201-ZLDV2CI92WB8DBZ1Z7EW/KAN+-+BEH+1+MAIN+PHOTO.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064180-BO1HN7FQH0OT0TS2Y0PD/KAN+-+BEH+3.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064180-BO1HN7FQH0OT0TS2Y0PD/KAN+-+BEH+3.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:WkP6e6KVojY": {
+  "url": "https://www.youtube.com/watch?v=WkP6e6KVojY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "WkP6e6KVojY",
+  "title": "Nanyang Technological University – Urban Vein (2024)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/WkP6e6KVojY/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643016018-KUBYAPOMRLROO3TRIC4G/Shell+we+dance__Bio-Block+Module+and+Mock-Up.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643016018-KUBYAPOMRLROO3TRIC4G/Shell+we+dance__Bio-Block+Module+and+Mock-Up.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643017978-OGBKMHU4R9BZ7BSAPWJH/Shell+we+Dance_Pavilion+1.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643017978-OGBKMHU4R9BZ7BSAPWJH/Shell+we+Dance_Pavilion+1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643576152-V2FZJI1JPC3OULZ4UN5K/Screenshot+2024-06-17+at+12.58.20+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643576152-V2FZJI1JPC3OULZ4UN5K/Screenshot+2024-06-17+at+12.58.20+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643578608-WJHC6E1Y9G9OJH8IN3PP/Screenshot+2024-06-17+at+12.59.22+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643578608-WJHC6E1Y9G9OJH8IN3PP/Screenshot+2024-06-17+at+12.59.22+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:ylhzglL8ATc": {
+  "url": "https://www.youtube.com/watch?v=ylhzglL8ATc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ylhzglL8ATc",
+  "title": "Auburn University – From the Ashes (2024)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/ylhzglL8ATc/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643813176-S5A0MBFOT47DJ8O9INR8/ink+bottle+with+GPS+coordinates.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643813176-S5A0MBFOT47DJ8O9INR8/ink+bottle+with+GPS+coordinates.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644770738-RY1DC5B6L3C6GCUKX7TY/Screenshot+2024-06-17+at+1.17.54+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644770738-RY1DC5B6L3C6GCUKX7TY/Screenshot+2024-06-17+at+1.17.54+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644772306-IQL7KKUG72RJSRO3Q9OH/Screenshot+2024-06-17+at+1.18.07+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644772306-IQL7KKUG72RJSRO3Q9OH/Screenshot+2024-06-17+at+1.18.07+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:AW1ucms2g-c": {
+  "url": "https://www.youtube.com/watch?v=AW1ucms2g-c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AW1ucms2g-c",
+  "title": "PHen won the “Outstanding Art” award at the BioDesign Challenge 2024",
+  "author": "MOME Budapest",
+  "thumbnail": "https://i.ytimg.com/vi/AW1ucms2g-c/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647551297-GQ61ZCCUFHRI94QQQPIZ/BDC_HERO_V01_0233.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647551297-GQ61ZCCUFHRI94QQQPIZ/BDC_HERO_V01_0233.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647541823-TYQRD9I7G10UKQ9SJWK9/DSC07963.JPG": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718647541823-TYQRD9I7G10UKQ9SJWK9/DSC07963.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:u0fWnQlkJqs": {
+  "url": "https://www.youtube.com/watch?v=u0fWnQlkJqs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "u0fWnQlkJqs",
+  "title": "EASD Castelló – BIOmatrix: Weaving Sustainability - Reflejos Marinos (2024)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/u0fWnQlkJqs/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648310269-NDYUXE887R0M8SL6OUFJ/01.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648310269-NDYUXE887R0M8SL6OUFJ/01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648311676-HTB48H4WQV1YDOB801WN/18.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648311676-HTB48H4WQV1YDOB801WN/18.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648978569-EVOEDR6MOJJFIGHR2VV2/Polyflower+bloom+v2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648978569-EVOEDR6MOJJFIGHR2VV2/Polyflower+bloom+v2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648977038-AMISIY41FZUTGZ4RDWL7/Polyflower+%2B+Pollinators.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648977038-AMISIY41FZUTGZ4RDWL7/Polyflower+%2B+Pollinators.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:W9txOGTM4pE": {
+  "url": "https://www.youtube.com/watch?v=W9txOGTM4pE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "W9txOGTM4pE",
+  "title": "McGill University – Kelserra (2024)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/W9txOGTM4pE/hqdefault.jpg"
+ },
+ "video:youtube:d2ZblOmFRfk": {
+  "url": "https://www.youtube.com/watch?v=d2ZblOmFRfk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "d2ZblOmFRfk",
+  "title": "Zurich University of the Arts – Chornozem (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/d2ZblOmFRfk/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483509601-Z0K498U6DSAO7KMVVLBI/soil_curcumin_reaction.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483509601-Z0K498U6DSAO7KMVVLBI/soil_curcumin_reaction.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483501163-2U6BIJPV1EMAZMTKB51L/drone_render.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483501163-2U6BIJPV1EMAZMTKB51L/drone_render.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:KQRt5ttcNS8": {
+  "url": "https://www.youtube.com/watch?v=KQRt5ttcNS8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KQRt5ttcNS8",
+  "title": "University of Pennsylvania – BagasSeries (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/KQRt5ttcNS8/hqdefault.jpg"
+ },
+ "video:youtube:GwqCnpRZukw": {
+  "url": "https://www.youtube.com/watch?v=GwqCnpRZukw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GwqCnpRZukw",
+  "title": "Keio University – Risou (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/GwqCnpRZukw/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485030500-NOK4KAM1588WV69TSWRU/weave.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485030500-NOK4KAM1588WV69TSWRU/weave.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485025506-70G3HCO80FQ7KD76VK19/experiment.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485025506-70G3HCO80FQ7KD76VK19/experiment.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:kP2Ldarnptw": {
+  "url": "https://www.youtube.com/watch?v=kP2Ldarnptw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kP2Ldarnptw",
+  "title": "Macromedia University – BioMandate 2045 (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/kP2Ldarnptw/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485204815-VYYAXEZV2MTG757HJCZX/BDC25_Biomandate_2045_Trailer_4.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485204815-VYYAXEZV2MTG757HJCZX/BDC25_Biomandate_2045_Trailer_4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:e2_M55DO7GQ": {
+  "url": "https://www.youtube.com/watch?v=e2_M55DO7GQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e2_M55DO7GQ",
+  "title": "EASD Castelló – From Flood to Future (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/e2_M55DO7GQ/hqdefault.jpg"
+ },
+ "video:youtube:hz_jl2QqiVQ": {
+  "url": "https://www.youtube.com/watch?v=hz_jl2QqiVQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "hz_jl2QqiVQ",
+  "title": "Maryland Institute College of Art – Living Records (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/hz_jl2QqiVQ/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485898645-4ARDJI0J8CI0QZ3BA7TC/LivingRecords_MICABDC2025_01.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485898645-4ARDJI0J8CI0QZ3BA7TC/LivingRecords_MICABDC2025_01.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485895117-M972CFYBM6VOU8JLLIVR/LivingRecords_MICABDC2025_02.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751485895117-M972CFYBM6VOU8JLLIVR/LivingRecords_MICABDC2025_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486084412-USV0BWV9UUX5AK571OSN/ECO-SKIN+Application+-+Forearm.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486084412-USV0BWV9UUX5AK571OSN/ECO-SKIN+Application+-+Forearm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486092754-UM63PISSKK1USITPQO86/ECO-SKIN+Removed+From+Pacakge.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486092754-UM63PISSKK1USITPQO86/ECO-SKIN+Removed+From+Pacakge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:L0Ka7DgOzAQ": {
+  "url": "https://www.youtube.com/watch?v=L0Ka7DgOzAQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L0Ka7DgOzAQ",
+  "title": "CCA Architecture + UC San Francisco + Maldives National University – SHORE thing (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/L0Ka7DgOzAQ/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486478758-4ZGTL0KWSNEFUX4PRW1V/BDC_Shorething_AerialRender.jpeg.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486478758-4ZGTL0KWSNEFUX4PRW1V/BDC_Shorething_AerialRender.jpeg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486476180-HZTMB1UHBJFYTGC7N321/SHORE+thing+design.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751486476180-HZTMB1UHBJFYTGC7N321/SHORE+thing+design.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:ROF3ucFHb7A": {
+  "url": "https://www.youtube.com/watch?v=ROF3ucFHb7A",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ROF3ucFHb7A",
+  "title": "Robert College of Istanbul – Meat of the Matter: A Flesh Perspective (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/ROF3ucFHb7A/hqdefault.jpg"
+ },
+ "video:youtube:0VgPBadKbfo": {
+  "url": "https://www.youtube.com/watch?v=0VgPBadKbfo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0VgPBadKbfo",
+  "title": "Northeastern University – SquidKid (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/0VgPBadKbfo/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487060117-CGVZHZZA87E15ZBXJAQL/SquidKid_Poster1_1080x1080.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487060117-CGVZHZZA87E15ZBXJAQL/SquidKid_Poster1_1080x1080.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487349599-N7JCB6HB3QS641UFHXXR/PCR_March_2025.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487349599-N7JCB6HB3QS641UFHXXR/PCR_March_2025.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487345476-6WVUWRBO3H9BM9CGJFF1/PCR+reaction-2.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751487345476-6WVUWRBO3H9BM9CGJFF1/PCR+reaction-2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:o8TdxBGzE2E": {
+  "url": "https://www.youtube.com/watch?v=o8TdxBGzE2E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "o8TdxBGzE2E",
+  "title": "Stanford University – Kerra (2025)",
+  "author": "Biodesign Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/o8TdxBGzE2E/hqdefault.jpg"
+ },
+ "video:youtube:92Dcp9Fbdac": {
+  "url": "https://www.youtube.com/watch?v=92Dcp9Fbdac",
+  "ok": true,
+  "platform": "youtube",
+  "id": "92Dcp9Fbdac",
+  "title": "やくしまるえつこ『わたしは人類』Etsuko Yakushimaru - “I’m Humanity” / ArsElectronica STARTS Prize Grand Prize Winner",
+  "author": "MIRAI records - 相対性理論 / やくしまるえつこ [Official]",
+  "thumbnail": "https://i.ytimg.com/vi/92Dcp9Fbdac/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2017/05/imhumanity.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2017/05/imhumanity.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2017/05/imhumanity1.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2017/05/imhumanity1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2020/06/EDEN10_2000x1000_OlgaKisselevaStudio-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2020/06/EDEN10_2000x1000_OlgaKisselevaStudio-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Remix-6-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Remix-6-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Remix-3-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Remix-3-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:1172137373": {
+  "url": "https://vimeo.com/1172137373",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1172137373",
+  "embeddable": true,
+  "title": "Office for Tree Migration (OTM) 3min docu",
+  "thumbnail": "https://i.vimeocdn.com/video/2145179373-c5a10694c0e091e136a707793a0a0738e4ffcfac3adafafba74519c10a744606-d?f=webp&region=us"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/01_assistedmigration_208a7022_otm-c-agnes_meyer-brandis-vgbildkunst-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/01_assistedmigration_208a7022_otm-c-agnes_meyer-brandis-vgbildkunst-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/01_as_trees_go_by_documentation-c-agnes_meyer-brandis_a6a7112_16_50-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/01_as_trees_go_by_documentation-c-agnes_meyer-brandis_a6a7112_16_50-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2016/06/waterbased.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2016/06/waterbased.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2016/06/waterbased2.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2016/06/waterbased2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2018/06/FluidSolids.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2018/06/FluidSolids.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2019/05/BLP_2000x1000-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2019/05/BLP_2000x1000-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2020/06/SPOILED_SPORES_2000x1000-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2020/06/SPOILED_SPORES_2000x1000-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2020/06/SoundingSoil-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2020/06/SoundingSoil-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Hidden-value-of-waste-feathers-Credit-Pichaya-Sampanvejsobha-and-Varinthorn-Deprasertwong-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Hidden-value-of-waste-feathers-Credit-Pichaya-Sampanvejsobha-and-Varinthorn-Deprasertwong-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Theresa-Schubert-mEat-me-performance-06.02.2020.-Photo-Tina-Lagler-Kapelica-Gallery-Archive-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Theresa-Schubert-mEat-me-performance-06.02.2020.-Photo-Tina-Lagler-Kapelica-Gallery-Archive-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-3-Nova-Innova-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-3-Nova-Innova-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-2-Nova-Innova-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/LivingLight-2-Nova-Innova-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Biomimicry-living-wearable-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Biomimicry-living-wearable-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/Material-sample-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/Material-sample-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2021/06/MycoMythologies_Rupture_Sasa_Spacal_installation_Photo_KIBLA_Janez_Klenovsek_04-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2021/06/MycoMythologies_Rupture_Sasa_Spacal_installation_Photo_KIBLA_Janez_Klenovsek_04-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2022/06/Inanimate-Species_72A8079-c-Joana-Moll-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2022/06/Inanimate-Species_72A8079-c-Joana-Moll-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-5-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-5-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-4-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-4-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2022/06/quorum-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2022/06/quorum-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2022/06/SpreeBerlin_Couple-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2022/06/SpreeBerlin_Couple-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_btl_lab-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_btl_lab-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_installation-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/BetweenTheLines_installation-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/climavore_02-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/climavore_02-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/climavore_03-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/climavore_03-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/turbatol_6-SphagnumLAB-2022_Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/turbatol_6-SphagnumLAB-2022_Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/turbatol_2-Laying-Low-during-the-Residency-Grounding-into-the-Bog-at-Karunkina-Tierra-del-Fuego-2022-Turba-Tol_Curated-by-Camila-Marambio_-Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/turbatol_2-Laying-Low-during-the-Residency-Grounding-into-the-Bog-at-Karunkina-Tierra-del-Fuego-2022-Turba-Tol_Curated-by-Camila-Marambio_-Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_Image2-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_Image2-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_OutdoorTest3-1024x512.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2023/06/Meep-Translator_OutdoorTest3-1024x512.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:ppD3TJ4X8K4": {
+  "url": "https://www.youtube.com/watch?v=ppD3TJ4X8K4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ppD3TJ4X8K4",
+  "title": "KORALLYSIS english",
+  "author": "Gilberto Esparza",
+  "thumbnail": "https://i.ytimg.com/vi/ppD3TJ4X8K4/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2024/06/korallysis_3_2-c-gilberto-esparza-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2024/06/korallysis_3_2-c-gilberto-esparza-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2024/06/metabolica-5-c-atelier-thomas-feuerstein-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2024/06/metabolica-5-c-atelier-thomas-feuerstein-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2024/06/urban-biotop_press_sitnikov_010-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2024/06/urban-biotop_press_sitnikov_010-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2025/05/computational_compost-8-c-mikel_blasco_2-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2025/05/computational_compost-8-c-mikel_blasco_2-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:1039181409": {
+  "url": "https://vimeo.com/1039181409",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "1039181409",
+  "embeddable": true,
+  "title": "Coral Sonic Resilience",
+  "thumbnail": "https://i.vimeocdn.com/video/1966812706-bf63713de8300b7a2e1f70374f75df97cc98ecd0fa40b44d52683389b9b46663-d?f=webp&region=us"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2025/05/coralsonicresilience-5-c-marcobarotti-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2025/05/coralsonicresilience-5-c-marcobarotti-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2025/05/seeing_echoes_in_the_mind_of_a_whale_mlf_starts_prize_6-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2025/05/seeing_echoes_in_the_mind_of_a_whale_mlf_starts_prize_6-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:1Icf_g_lJYI": {
+  "url": "https://www.youtube.com/watch?v=1Icf_g_lJYI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1Icf_g_lJYI",
+  "title": "Lucid Life | Marama Ora - Traditional Knowledge and Science in French Polynesia",
+  "author": "Christopher Bellamy",
+  "thumbnail": "https://i.ytimg.com/vi/1Icf_g_lJYI/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2025/06/lucid-life-c-ben-turner-2-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2025/06/lucid-life-c-ben-turner-2-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:CnlT9KzSHFU": {
+  "url": "https://www.youtube.com/watch?v=CnlT9KzSHFU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CnlT9KzSHFU",
+  "title": "Erzë Dinarama | OGR Meet the Artist #15",
+  "author": "OGR Torino",
+  "thumbnail": "https://i.ytimg.com/vi/CnlT9KzSHFU/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/drumming-for-love_erze_ogr__cover-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/drumming-for-love_erze_ogr__cover-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:3IqJ0lpUh3M": {
+  "url": "https://www.youtube.com/watch?v=3IqJ0lpUh3M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3IqJ0lpUh3M",
+  "title": "Singing Textiles: Weaving Life",
+  "author": "(autódios)",
+  "thumbnail": "https://i.ytimg.com/vi/3IqJ0lpUh3M/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/the-singing-textiles_barumkunsthall__0_photo_by_tor_s__ulstein-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/the-singing-textiles_barumkunsthall__0_photo_by_tor_s__ulstein-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/fungi-aadh-109-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/fungi-aadh-109-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:208145212": {
+  "url": "https://vimeo.com/208145212",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "208145212",
+  "embeddable": true,
+  "title": "Bug's Beat short ver.",
+  "thumbnail": "https://i.vimeocdn.com/video/630871285-6c0e933e0566da67f359765efdc8fb5489c54a53ef69b3cd0f61dba72b33b2e7-d?f=webp&region=us"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2017/05/bugsbeat.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2017/05/bugsbeat.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:QJHUsmCFbPU": {
+  "url": "https://www.youtube.com/watch?v=QJHUsmCFbPU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "QJHUsmCFbPU",
+  "title": "Lexus Design Awards: AGAR PLASTICITY",
+  "author": "Lexus Canada",
+  "thumbnail": "https://i.ytimg.com/vi/QJHUsmCFbPU/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2016/02/agar-plasticity_amam_dezeen.jpg": {
+  "url": "https://static.dezeen.com/uploads/2016/02/agar-plasticity_amam_dezeen.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.dezeen.com/uploads/2016/02/lexus-design-awards-2016-primary-images_dezeen_936_5.jpg": {
+  "url": "https://static.dezeen.com/uploads/2016/02/lexus-design-awards-2016-primary-images_dezeen_936_5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:XmgJzfTfA_c": {
+  "url": "https://www.youtube.com/watch?v=XmgJzfTfA_c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XmgJzfTfA_c",
+  "title": "Lexus Design Award 2020 - Biocraft",
+  "author": "LexusAsia",
+  "thumbnail": "https://i.ytimg.com/vi/XmgJzfTfA_c/hqdefault.jpg"
+ },
+ "video:youtube:ysVNFNH8DXQ": {
+  "url": "https://www.youtube.com/watch?v=ysVNFNH8DXQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ysVNFNH8DXQ",
+  "title": "Incorporating algae into our everyday life || Hyun Seok An",
+  "author": "Design Indaba",
+  "thumbnail": "https://i.ytimg.com/vi/ysVNFNH8DXQ/hqdefault.jpg"
+ },
+ "img:https://discoverlexus.com/_statamic/stories/lexus-design-award/HERO_chitafarm_final.jpg": {
+  "url": "https://discoverlexus.com/_statamic/stories/lexus-design-award/HERO_chitafarm_final.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ej2T958I28s": {
+  "url": "https://www.youtube.com/watch?v=ej2T958I28s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ej2T958I28s",
+  "title": "LEXUS DESIGN AWARD 2023 | 受賞作品「Zero Bag」",
+  "author": "Lexus JP / レクサス",
+  "thumbnail": "https://i.ytimg.com/vi/ej2T958I28s/hqdefault.jpg"
+ },
+ "img:http://web.archive.org/web/2019im_/https://www.jamesdysonaward.org/Document/fb5c3143-cdd8-4a71-908b-34cb216a442f/usr-3365-img-1468686529-48b3e.jpg": {
+  "url": "http://web.archive.org/web/2019im_/https://www.jamesdysonaward.org/Document/fb5c3143-cdd8-4a71-908b-34cb216a442f/usr-3365-img-1468686529-48b3e.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:6uGcQhTuXec": {
+  "url": "https://www.youtube.com/watch?v=6uGcQhTuXec",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6uGcQhTuXec",
+  "title": "TetraPOT | Sheng-Hung Lee",
+  "author": "Sheng-Hung Lee",
+  "thumbnail": "https://i.ytimg.com/vi/6uGcQhTuXec/hqdefault.jpg"
+ },
+ "img:http://web.archive.org/web/2023im_/https://www.jamesdysonaward.org/Document/ade55445-2238-4d89-93c3-6359809f784b/usr-3393-img-1468513835-c4574.jpg": {
+  "url": "http://web.archive.org/web/2023im_/https://www.jamesdysonaward.org/Document/ade55445-2238-4d89-93c3-6359809f784b/usr-3393-img-1468513835-c4574.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:41BsHWhU8SM": {
+  "url": "https://www.youtube.com/watch?v=41BsHWhU8SM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "41BsHWhU8SM",
+  "title": "Aureus Live Demo",
+  "author": "Carvey Ehren Maigue",
+  "thumbnail": "https://i.ytimg.com/vi/41BsHWhU8SM/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/423769c8-8f23-41d9-ad68-67078e17747f/img20200715121623.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/423769c8-8f23-41d9-ad68-67078e17747f/img20200715121623.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/06e5abae-0a5c-4a64-b922-715ce2f1370e/info-graph.png": {
+  "url": "https://www.jamesdysonaward.org/Document/06e5abae-0a5c-4a64-b922-715ce2f1370e/info-graph.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:83gwk4Os1ms": {
+  "url": "https://www.youtube.com/watch?v=83gwk4Os1ms",
+  "ok": true,
+  "platform": "youtube",
+  "id": "83gwk4Os1ms",
+  "title": "Econooc   Sustainable Conservation Hive Made from Mycelium",
+  "author": "Niamh Damery",
+  "thumbnail": "https://i.ytimg.com/vi/83gwk4Os1ms/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/f472b3a0-c6eb-4fe3-9c3a-ac1efddc3ec7/econooc-head-image.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/f472b3a0-c6eb-4fe3-9c3a-ac1efddc3ec7/econooc-head-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/fefc3d63-7a54-4e46-ab42-2435b68337e3/testing-and-models.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/fefc3d63-7a54-4e46-ab42-2435b68337e3/testing-and-models.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/16e2ada0-c28e-44e3-8159-7e53570396d3/sceneedit.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/16e2ada0-c28e-44e3-8159-7e53570396d3/sceneedit.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/fac6323b-9540-48d8-9332-519c041d2087/boxes.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/fac6323b-9540-48d8-9332-519c041d2087/boxes.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:kYT9eXGxDH4": {
+  "url": "https://www.youtube.com/watch?v=kYT9eXGxDH4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kYT9eXGxDH4",
+  "title": "OFlow: A novel method for microplastic capture (Dyson award 2020 submission)",
+  "author": "Shawn Navarednam",
+  "thumbnail": "https://i.ytimg.com/vi/kYT9eXGxDH4/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/f2afbbec-08e9-472a-bc95-b8b515c73d20/whole-system.png": {
+  "url": "https://www.jamesdysonaward.org/Document/f2afbbec-08e9-472a-bc95-b8b515c73d20/whole-system.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.jamesdysonaward.org/Document/47255153-073f-41c8-a615-08bc955c79e7/image-of-scaled-down-model.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/47255153-073f-41c8-a615-08bc955c79e7/image-of-scaled-down-model.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:zkWPwevwHe4": {
+  "url": "https://www.youtube.com/watch?v=zkWPwevwHe4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zkWPwevwHe4",
+  "title": "Citra The Bio Leather",
+  "author": "Panmee Girl",
+  "thumbnail": "https://i.ytimg.com/vi/zkWPwevwHe4/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/3645e1aa-c613-454c-b3af-88a6cfc2b9b7/1-01.png": {
+  "url": "https://www.jamesdysonaward.org/Document/3645e1aa-c613-454c-b3af-88a6cfc2b9b7/1-01.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.jamesdysonaward.org/Document/456969f4-436b-44ea-a1c1-85536069a51b/7-02.png": {
+  "url": "https://www.jamesdysonaward.org/Document/456969f4-436b-44ea-a1c1-85536069a51b/7-02.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.jamesdysonaward.org/Document/05423d37-dcfc-48b7-9842-9ba9122d3cc7/dyson001.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/05423d37-dcfc-48b7-9842-9ba9122d3cc7/dyson001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/642cf8e3-9139-49b3-9ed8-f2447e7634f1/dyson002.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/642cf8e3-9139-49b3-9ed8-f2447e7634f1/dyson002.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/694ed1df-5c14-411b-b2a0-01802f27e27d/img20210324161938easy-resizecom.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/694ed1df-5c14-411b-b2a0-01802f27e27d/img20210324161938easy-resizecom.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/a3672ee2-7057-469b-8291-13a2e627de10/schemat-i-opis10241.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/a3672ee2-7057-469b-8291-13a2e627de10/schemat-i-opis10241.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:FKqc90syidU": {
+  "url": "https://www.youtube.com/watch?v=FKqc90syidU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FKqc90syidU",
+  "title": "Prototyping for Pyrus",
+  "author": "Gabe Tavas",
+  "thumbnail": "https://i.ytimg.com/vi/FKqc90syidU/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/20e1597c-a17d-48d6-a4f5-2689d7a99b9b/img5065.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/20e1597c-a17d-48d6-a4f5-2689d7a99b9b/img5065.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/afd79e14-8c91-419b-b042-50783488d30a/image-from-ios-2.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/afd79e14-8c91-419b-b042-50783488d30a/image-from-ios-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xAAT7Ot2Afc": {
+  "url": "https://www.youtube.com/watch?v=xAAT7Ot2Afc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xAAT7Ot2Afc",
+  "title": "Kit Agro Biomaterials",
+  "author": "BBERBERECHO",
+  "thumbnail": "https://i.ytimg.com/vi/xAAT7Ot2Afc/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/ee45ff47-ba4d-452f-bf3c-ea585c5cec0e/1agro.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/ee45ff47-ba4d-452f-bf3c-ea585c5cec0e/1agro.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/ba8c30b3-b07f-46e7-a3e8-79acadd348de/2agro.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/ba8c30b3-b07f-46e7-a3e8-79acadd348de/2agro.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/917ac406-c5bf-4ad8-a3d9-7e517c17ca3d/20220516153750.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/917ac406-c5bf-4ad8-a3d9-7e517c17ca3d/20220516153750.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/ee05d77b-3373-4fa7-92f8-c530e4601938/20220628110858.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/ee05d77b-3373-4fa7-92f8-c530e4601938/20220628110858.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:8OQPCjWEILM": {
+  "url": "https://www.youtube.com/watch?v=8OQPCjWEILM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8OQPCjWEILM",
+  "title": "DISPERSEED | A biodegradable 3D printed seed sphere",
+  "author": "YUDesign UPV",
+  "thumbnail": "https://i.ytimg.com/vi/8OQPCjWEILM/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/255d2cfa-e8a7-4481-a928-4dfed7170b16/diapositivas-definitivomesa-de-trabajo-1.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/255d2cfa-e8a7-4481-a928-4dfed7170b16/diapositivas-definitivomesa-de-trabajo-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/bea3a03b-b045-428d-9c4e-7232d85df92f/1.png": {
+  "url": "https://www.jamesdysonaward.org/Document/bea3a03b-b045-428d-9c4e-7232d85df92f/1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.jamesdysonaward.org/Document/ae2fcd9a-d4fd-4131-94b0-99744134085d/2.png": {
+  "url": "https://www.jamesdysonaward.org/Document/ae2fcd9a-d4fd-4131-94b0-99744134085d/2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:K7lUgf0hiuI": {
+  "url": "https://www.youtube.com/watch?v=K7lUgf0hiuI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "K7lUgf0hiuI",
+  "title": "Bioteos",
+  "author": "Bioteos",
+  "thumbnail": "https://i.ytimg.com/vi/K7lUgf0hiuI/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/97d7a58d-9ad3-4887-8bf0-9e79c344ac45/oxylon.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/97d7a58d-9ad3-4887-8bf0-9e79c344ac45/oxylon.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/97ed376a-1936-4574-90d6-acce788ba2bb/technology.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/97ed376a-1936-4574-90d6-acce788ba2bb/technology.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:vNFfUw-JWW8": {
+  "url": "https://www.youtube.com/watch?v=vNFfUw-JWW8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vNFfUw-JWW8",
+  "title": "The Essence of Biocement // Julia Huhnholz / Friedrich Gerlach",
+  "author": "Produktdesign by Bauhaus-Universität Weimar",
+  "thumbnail": "https://i.ytimg.com/vi/vNFfUw-JWW8/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/3d109486-e0c8-4528-b041-3eddba2db81e/01biocementgerlachhuhnholzlq08.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/3d109486-e0c8-4528-b041-3eddba2db81e/01biocementgerlachhuhnholzlq08.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/7663292b-0318-48af-83fb-afaf52a827d5/02biocementgerlachhuhnholz.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/7663292b-0318-48af-83fb-afaf52a827d5/02biocementgerlachhuhnholz.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:bynUOWm7rlg": {
+  "url": "https://www.youtube.com/watch?v=bynUOWm7rlg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bynUOWm7rlg",
+  "title": "Cellsense video",
+  "author": "Aradhita Parasrampuria",
+  "thumbnail": "https://i.ytimg.com/vi/bynUOWm7rlg/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/56b37502-f8b6-4372-9705-d03d2f459004/jd-final-option.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/56b37502-f8b6-4372-9705-d03d2f459004/jd-final-option.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/cee1e933-66a8-4802-b565-a320be9e5499/jd-option-4.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/cee1e933-66a8-4802-b565-a320be9e5499/jd-option-4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/dd76504a-337f-4501-b946-1ebdcf847e96/71.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/dd76504a-337f-4501-b946-1ebdcf847e96/71.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/604dd5a3-e7cd-4f23-84f4-e13a785422fd/90.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/604dd5a3-e7cd-4f23-84f4-e13a785422fd/90.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/24d2d801-7c21-471f-964a-0e6a96a260f7/heroshotlowfi.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/24d2d801-7c21-471f-964a-0e6a96a260f7/heroshotlowfi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/f2692c47-45d4-4c7c-807e-b6a6457b888a/reefdb-1.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/f2692c47-45d4-4c7c-807e-b6a6457b888a/reefdb-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:7VWf7Sn6qYE": {
+  "url": "https://www.youtube.com/watch?v=7VWf7Sn6qYE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7VWf7Sn6qYE",
+  "title": "Operation",
+  "author": "Selen Şenal",
+  "thumbnail": "https://i.ytimg.com/vi/7VWf7Sn6qYE/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/d91e569e-8f53-4dd8-bfb5-7ff679ef4e9b/36879fb1-0c0c-4362-92d5-b61111eb49fa.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/d91e569e-8f53-4dd8-bfb5-7ff679ef4e9b/36879fb1-0c0c-4362-92d5-b61111eb49fa.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/711bc085-289b-41fc-b489-a1f4e88ede12/algbio-bioplastics.png": {
+  "url": "https://www.jamesdysonaward.org/Document/711bc085-289b-41fc-b489-a1f4e88ede12/algbio-bioplastics.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:FUlJ8WdIYHE": {
+  "url": "https://www.youtube.com/watch?v=FUlJ8WdIYHE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FUlJ8WdIYHE",
+  "title": "Carbon Polymerizing System",
+  "author": "RaNDoM eDuCaToR",
+  "thumbnail": "https://i.ytimg.com/vi/FUlJ8WdIYHE/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/1f2dacee-7db2-472e-934a-77a33e3d5c78/system.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/1f2dacee-7db2-472e-934a-77a33e3d5c78/system.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/916dcbcd-15b2-45c9-8d8d-62dd20133a11/phb1-large.jpeg": {
+  "url": "https://www.jamesdysonaward.org/Document/916dcbcd-15b2-45c9-8d8d-62dd20133a11/phb1-large.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ZfYwQlYxqTM": {
+  "url": "https://www.youtube.com/watch?v=ZfYwQlYxqTM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZfYwQlYxqTM",
+  "title": "Crikorama Product Demo",
+  "author": "Kyran Knauf",
+  "thumbnail": "https://i.ytimg.com/vi/ZfYwQlYxqTM/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/72c652d2-a2d0-4fbb-94c8-bb5186ee2a2a/wearelive.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/72c652d2-a2d0-4fbb-94c8-bb5186ee2a2a/wearelive.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:J6CL43yFfsU": {
+  "url": "https://www.youtube.com/watch?v=J6CL43yFfsU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "J6CL43yFfsU",
+  "title": "PlantPoxy",
+  "author": "บีทาเก้น",
+  "thumbnail": "https://i.ytimg.com/vi/J6CL43yFfsU/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/7540d90d-b224-4586-ba2d-a88971977309/img6021.png": {
+  "url": "https://www.jamesdysonaward.org/Document/7540d90d-b224-4586-ba2d-a88971977309/img6021.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.jamesdysonaward.org/Document/24f4911d-b03f-40ef-9462-af37a097dd22/afbeelding1.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/24f4911d-b03f-40ef-9462-af37a097dd22/afbeelding1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/9b4f6ebf-14c4-4903-a767-f9c4ece44066/afbeelding3.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/9b4f6ebf-14c4-4903-a767-f9c4ece44066/afbeelding3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:zZHPcDz6BLY": {
+  "url": "https://www.youtube.com/watch?v=zZHPcDz6BLY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zZHPcDz6BLY",
+  "title": "Hydra Bioreactor: A Platform for Living Manufacturing",
+  "author": "Markos Georgiou",
+  "thumbnail": "https://i.ytimg.com/vi/zZHPcDz6BLY/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/98007d0b-a748-447b-a6fa-c985c8cdcdec/hydra-hero.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/98007d0b-a748-447b-a6fa-c985c8cdcdec/hydra-hero.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/4ad80a73-4cc5-4f44-b3f2-fa29026fb446/hydra-bacterial-cellulose-shoe.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/4ad80a73-4cc5-4f44-b3f2-fa29026fb446/hydra-bacterial-cellulose-shoe.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Hj6UgMh6qGk": {
+  "url": "https://www.youtube.com/watch?v=Hj6UgMh6qGk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Hj6UgMh6qGk",
+  "title": "Team Orz Pitching - Tigerlaunch",
+  "author": "Dean Chan",
+  "thumbnail": "https://i.ytimg.com/vi/Hj6UgMh6qGk/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/7e97ea0b-b6cc-4acc-8db2-685c61de74df/img005.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/7e97ea0b-b6cc-4acc-8db2-685c61de74df/img005.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/c3e251be-bb54-4a70-807e-de01a2403103/img002.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/c3e251be-bb54-4a70-807e-de01a2403103/img002.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:BqE8Wr__hjo": {
+  "url": "https://www.youtube.com/watch?v=BqE8Wr__hjo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BqE8Wr__hjo",
+  "title": "SoilRevive",
+  "author": "劉佳宜",
+  "thumbnail": "https://i.ytimg.com/vi/BqE8Wr__hjo/hqdefault.jpg"
+ },
+ "img:https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg": {
+  "url": "https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:tePbmFIWxrY": {
+  "url": "https://www.youtube.com/watch?v=tePbmFIWxrY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tePbmFIWxrY",
+  "title": "Algae Fabrics – GCA winner 2016",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/tePbmFIWxrY/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-2.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-4-1024x683.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Tjeerd-Veenhoven-Algae-Fabrics-GCA-Winner-2016-4-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:CYtTQBydg8w": {
+  "url": "https://www.youtube.com/watch?v=CYtTQBydg8w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CYtTQBydg8w",
+  "title": "Orange Fiber - An Alumni Update - Global Change Award 2020",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/CYtTQBydg8w/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-5.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-3-1024x683.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Orange-Fiber-GCA-Winners-2016-3-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:OuhMIMs1gJs": {
+  "url": "https://www.youtube.com/watch?v=OuhMIMs1gJs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "OuhMIMs1gJs",
+  "title": "Jalila Essaïdi's Mestic clothing collection is made from poo",
+  "author": "Dezeen",
+  "thumbnail": "https://i.ytimg.com/vi/OuhMIMs1gJs/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-3-1024x682.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-3-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-4-683x1024.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Mestic-GCA-Winner-2017-4-683x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Ww8m8Mm5GMY": {
+  "url": "https://www.youtube.com/watch?v=Ww8m8Mm5GMY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Ww8m8Mm5GMY",
+  "title": "VEGEA - An Alumni Update - Global Change Award 2020",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/Ww8m8Mm5GMY/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/VEGEA-GCA-Winner-2017-3.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/VEGEA-GCA-Winner-2017-3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:e7JEqSzVWUg": {
+  "url": "https://www.youtube.com/watch?v=e7JEqSzVWUg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e7JEqSzVWUg",
+  "title": "Global Change Award Winner 2018: Agraloop by Circular Systems",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/e7JEqSzVWUg/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Circular-Systems-GCA-winners-2018-1024x768.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Circular-Systems-GCA-winners-2018-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:HElJjYer2Bo": {
+  "url": "https://www.youtube.com/watch?v=HElJjYer2Bo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HElJjYer2Bo",
+  "title": "Global Change Award Winner 2018: Algaeing",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/HElJjYer2Bo/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Algaeing-GCA-Winners-2018-2.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Algaeing-GCA-Winners-2018-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:j_q9SYeZr-Q": {
+  "url": "https://www.youtube.com/watch?v=j_q9SYeZr-Q",
+  "ok": true,
+  "platform": "youtube",
+  "id": "j_q9SYeZr-Q",
+  "title": "Global Change Award Winner 2019: Le Qara",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/j_q9SYeZr-Q/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Large-Le-Qara-684x1024.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Large-Le-Qara-684x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:zsUfKXHienc": {
+  "url": "https://www.youtube.com/watch?v=zsUfKXHienc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zsUfKXHienc",
+  "title": "Global Change Award Winner 2019: Green Nettle Textile",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/zsUfKXHienc/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Large-Green-Nettle-Textiles-1024x683.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Large-Green-Nettle-Textiles-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:TJQKsL-ObJ8": {
+  "url": "https://www.youtube.com/watch?v=TJQKsL-ObJ8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TJQKsL-ObJ8",
+  "title": "GCA winner 2020: GALY",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/TJQKsL-ObJ8/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/Large-GALY-lab-1024x683.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/Large-GALY-lab-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2021/06/cotton-1024x683.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2021/06/cotton-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:n2XnsdXfc7o": {
+  "url": "https://www.youtube.com/watch?v=n2XnsdXfc7o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "n2XnsdXfc7o",
+  "title": "GCA winner 2022: BioPuff by saltyco",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/n2XnsdXfc7o/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-saltyco.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-saltyco.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/03/Medium_Screen-BioPuff%C2%AE-5-1024x553.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/03/Medium_Screen-BioPuff%C2%AE-5-1024x553.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/05/PLSTC1B-768x1024.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/05/PLSTC1B-768x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/04/PLSTC-team.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/04/PLSTC-team.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:rUxl6Fz-MXY": {
+  "url": "https://www.youtube.com/watch?v=rUxl6Fz-MXY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rUxl6Fz-MXY",
+  "title": "GCA winner 2022: Rubi",
+  "author": "H&M Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/rUxl6Fz-MXY/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-Rubi.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/04/Large_Print-Rubi.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2022/03/Rubi-Cellulose-Samples-578x1024.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2022/03/Rubi-Cellulose-Samples-578x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:NG2bi-YqwKQ": {
+  "url": "https://www.youtube.com/watch?v=NG2bi-YqwKQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NG2bi-YqwKQ",
+  "title": "Disrupting the environmental impact of fast fashion",
+  "author": "CBC News: The National",
+  "thumbnail": "https://i.ytimg.com/vi/NG2bi-YqwKQ/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-ALT-TEX-.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-ALT-TEX-.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:WeNLSr_HSlA": {
+  "url": "https://www.youtube.com/watch?v=WeNLSr_HSlA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "WeNLSr_HSlA",
+  "title": "KBCols Sciences Corporate Video",
+  "author": "Vaishali Kulkarni",
+  "thumbnail": "https://i.ytimg.com/vi/WeNLSr_HSlA/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-KBCols-Sciences.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2023/05/Large_Print-KBCols-Sciences.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2023/06/Medium_Screen-PhycoLabs.jpeg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2023/06/Medium_Screen-PhycoLabs.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2025/05/Medium_Screen-Brilliant-Dyes-%E2%80%93-GCA-winner-2025.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2025/05/Medium_Screen-Brilliant-Dyes-%E2%80%93-GCA-winner-2025.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/ArtSilk_2026_GCA_winner-1.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/ArtSilk_2026_GCA_winner-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_ArtSilk-1280x800.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_ArtSilk-1280x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/Keltex_2026_GCA_winner-1.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/Keltex_2026_GCA_winner-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_KelTex-1280x800.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/2000x1250_KelTex-1280x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:p9bJbxbPoMQ": {
+  "url": "https://www.youtube.com/watch?v=p9bJbxbPoMQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "p9bJbxbPoMQ",
+  "title": "#Biotech for #SustainableFashion C-CAMP supported startup #Microbeworks with microbial textile dyes",
+  "author": "C-CAMP India",
+  "thumbnail": "https://i.ytimg.com/vi/p9bJbxbPoMQ/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/MicroBlue_2026_GCA_winner-1.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/MicroBlue_2026_GCA_winner-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Qm0VFX2qpZA": {
+  "url": "https://www.youtube.com/watch?v=Qm0VFX2qpZA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Qm0VFX2qpZA",
+  "title": "Tera Mira - The Greenhouse Demo Day (Cohort 7) - 8 May 2025 - Undaunted",
+  "author": "Grantham Institute, Imperial College London",
+  "thumbnail": "https://i.ytimg.com/vi/Qm0VFX2qpZA/hqdefault.jpg"
+ },
+ "img:https://hmfoundation.com/wp-content/uploads/2026/06/Tera-Mira_2026_GCA_winner-1.jpg": {
+  "url": "https://hmfoundation.com/wp-content/uploads/2026/06/Tera-Mira_2026_GCA_winner-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xDt5RoQpWXU": {
+  "url": "https://www.youtube.com/watch?v=xDt5RoQpWXU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xDt5RoQpWXU",
+  "title": "How Earthshot Prize winner Coral Vita tackles reef restoration",
+  "author": "S&P Global",
+  "thumbnail": "https://i.ytimg.com/vi/xDt5RoQpWXU/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2021/09/CoralVita_2-v2-1-e1663706490703.jpeg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2021/09/CoralVita_2-v2-1-e1663706490703.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2021/09/Gator-Halpern-Coral-Vita-facility-Grand-Bahama-1024x576.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2021/09/Gator-Halpern-Coral-Vita-facility-Grand-Bahama-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Os5j1y8O9QM": {
+  "url": "https://www.youtube.com/watch?v=Os5j1y8O9QM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Os5j1y8O9QM",
+  "title": "Waste Management Services by Sanergy Collaborative. An Earthshot Prize Finalist.",
+  "author": "Fresh Life",
+  "thumbnail": "https://i.ytimg.com/vi/Os5j1y8O9QM/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2021/09/SANERGY-2-1.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2021/09/SANERGY-2-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Wm-Y9i-LTVw": {
+  "url": "https://www.youtube.com/watch?v=Wm-Y9i-LTVw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Wm-Y9i-LTVw",
+  "title": "Turning Sand Into Soil to Grow More Crops | @EarthshotPrize",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/Wm-Y9i-LTVw/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2022/11/Desert-Agricultural-Transformation-in-city.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2022/11/Desert-Agricultural-Transformation-in-city.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:dUCqFEG0JDQ": {
+  "url": "https://www.youtube.com/watch?v=dUCqFEG0JDQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dUCqFEG0JDQ",
+  "title": "Leather made from FLOWERS 🌸",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/dUCqFEG0JDQ/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2022/10/Ankit-Agarwal-in-Phool-Fleather-office-with-colleagues.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2022/10/Ankit-Agarwal-in-Phool-Fleather-office-with-colleagues.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:8mK1jbHjnTM": {
+  "url": "https://www.youtube.com/watch?v=8mK1jbHjnTM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8mK1jbHjnTM",
+  "title": "How wildlife corridors are protecting orangutans in Borneo 🦧",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/8mK1jbHjnTM/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2022/11/Hutan-worker-looks-up-at-jungle.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2022/11/Hutan-worker-looks-up-at-jungle.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:_tD8pmuP3SU": {
+  "url": "https://www.youtube.com/watch?v=_tD8pmuP3SU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_tD8pmuP3SU",
+  "title": "Capturing carbon in the same way we make beer?!",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/_tD8pmuP3SU/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2022/11/LanzaTech-CEO-Dr-Jennifer-Holmgren-with-beaker-1024x576.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2022/11/LanzaTech-CEO-Dr-Jennifer-Holmgren-with-beaker-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:MEYSbf0sDx0": {
+  "url": "https://www.youtube.com/watch?v=MEYSbf0sDx0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "MEYSbf0sDx0",
+  "title": "Restoring Seaweed Forests: SeaForester's Solution",
+  "author": "World Wildlife Fund",
+  "thumbnail": "https://i.ytimg.com/vi/MEYSbf0sDx0/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2022/11/SeaForester-Jan-Verbeek-Ines-Gill-Louro-in-lab.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2022/11/SeaForester-Jan-Verbeek-Ines-Gill-Louro-in-lab.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ZekQeI-AJQs": {
+  "url": "https://www.youtube.com/watch?v=ZekQeI-AJQs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZekQeI-AJQs",
+  "title": "Aquacycl is an Earthshot Finalist 2023",
+  "author": "Aquacycl - Industrial Wastewater Treatment",
+  "thumbnail": "https://i.ytimg.com/vi/ZekQeI-AJQs/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-AQUACYCLPAGE-Carousel-01-16_9.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-AQUACYCLPAGE-Carousel-01-16_9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:jjkOLvxPqqs": {
+  "url": "https://www.youtube.com/watch?v=jjkOLvxPqqs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jjkOLvxPqqs",
+  "title": "Safety concerns over cattle feed hailed as methane-reducing solution | Landline | ABC In-depth",
+  "author": "ABC News In-depth",
+  "thumbnail": "https://i.ytimg.com/vi/jjkOLvxPqqs/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-SEAFORESTPAGE-Carousel-01-16_9.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2023/09/JN0044-Sized-Assets-SEAFORESTPAGE-Carousel-01-16_9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:F5NMqMfvQ58": {
+  "url": "https://www.youtube.com/watch?v=F5NMqMfvQ58",
+  "ok": true,
+  "platform": "youtube",
+  "id": "F5NMqMfvQ58",
+  "title": "Pints, Plastics and Pharmaceuticals: Is Seaweed Farming the Future? | The Earthshot Prize",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/F5NMqMfvQ58/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/Coast4C-Hero-1920x1080-@72DPI.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/Coast4C-Hero-1920x1080-@72DPI.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:VQzYd9CyKLA": {
+  "url": "https://www.youtube.com/watch?v=VQzYd9CyKLA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VQzYd9CyKLA",
+  "title": "Fermentation Magic: Turning Waste into Delicious Treats! | @earthshotprize",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/VQzYd9CyKLA/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/FermentUp-Hero-1920x1080-@72DPI.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/FermentUp-Hero-1920x1080-@72DPI.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:XRF34tXjrZ0": {
+  "url": "https://www.youtube.com/watch?v=XRF34tXjrZ0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XRF34tXjrZ0",
+  "title": "Turning Air Pollution into Fashion: MYCL’s Fungi Leather Alternative",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/XRF34tXjrZ0/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/MYCL-Hero-1920x1080-@72DPI.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/MYCL-Hero-1920x1080-@72DPI.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:0wpUg9cntME": {
+  "url": "https://www.youtube.com/watch?v=0wpUg9cntME",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0wpUg9cntME",
+  "title": "How to Stop Overfishing: Using Algae as Fish Food",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/0wpUg9cntME/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/Mialgae-Support-Hero-1920x1080_0000_20240820_SGerrard_MiAlgae_DSC2064-1024x576.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/Mialgae-Support-Hero-1920x1080_0000_20240820_SGerrard_MiAlgae_DSC2064-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:oSTdvj_J8NY": {
+  "url": "https://www.youtube.com/watch?v=oSTdvj_J8NY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oSTdvj_J8NY",
+  "title": "Discover the Future of Sneakers: Made from Nature, Not Plastic!",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/oSTdvj_J8NY/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/NFW-thread.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/NFW-thread.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/NFW-trainers-soles.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/NFW-trainers-soles.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:FkMCZR8M930": {
+  "url": "https://www.youtube.com/watch?v=FkMCZR8M930",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FkMCZR8M930",
+  "title": "How Tiny Samples Can Have a Giant Impact on Biodiversity and Conservation",
+  "author": "The Earthshot Prize",
+  "thumbnail": "https://i.ytimg.com/vi/FkMCZR8M930/hqdefault.jpg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/09/Nature-Metrics-Hero-1920x1080-@72DPI.jpg": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/09/Nature-Metrics-Hero-1920x1080-@72DPI.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:o-xw-DSUMRg": {
+  "url": "https://www.youtube.com/watch?v=o-xw-DSUMRg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "o-xw-DSUMRg",
+  "title": "Bios Urn - Back To The Nature",
+  "author": "Bios Urn",
+  "thumbnail": "https://i.ytimg.com/vi/o-xw-DSUMRg/hqdefault.jpg"
+ },
+ "img:https://urnabios.com/wp-content/uploads/2021/08/New-Bios-Urn-People%C2%AE-5.png": {
+  "url": "https://urnabios.com/wp-content/uploads/2021/08/New-Bios-Urn-People%C2%AE-5.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:j8ViaskDSeI": {
+  "url": "https://www.youtube.com/watch?v=j8ViaskDSeI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "j8ViaskDSeI",
+  "title": "Vertical ocean farming - the least deadliest catch | Bren Smith | TEDxBermuda",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/j8ViaskDSeI/hqdefault.jpg"
+ },
+ "video:youtube:3aZ8E7hj8VU": {
+  "url": "https://www.youtube.com/watch?v=3aZ8E7hj8VU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3aZ8E7hj8VU",
+  "title": "Sahara Forest Project: From vision to reality",
+  "author": "SaharaForestProject",
+  "thumbnail": "https://i.ytimg.com/vi/3aZ8E7hj8VU/hqdefault.jpg"
+ },
+ "video:youtube:zaxoZaDZE7g": {
+  "url": "https://www.youtube.com/watch?v=zaxoZaDZE7g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zaxoZaDZE7g",
+  "title": "Fighting deforestation using seedballs",
+  "author": "CGTN Africa",
+  "thumbnail": "https://i.ytimg.com/vi/zaxoZaDZE7g/hqdefault.jpg"
+ },
+ "video:youtube:z8zuqR95fqA": {
+  "url": "https://www.youtube.com/watch?v=z8zuqR95fqA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "z8zuqR95fqA",
+  "title": "Solar Foods - Demystifying The Bioprocess",
+  "author": "Solar Foods",
+  "thumbnail": "https://i.ytimg.com/vi/z8zuqR95fqA/hqdefault.jpg"
+ },
+ "video:youtube:Usq7r5krxYc": {
+  "url": "https://www.youtube.com/watch?v=Usq7r5krxYc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Usq7r5krxYc",
+  "title": "Carbios' technologies explained",
+  "author": "CARBIOS",
+  "thumbnail": "https://i.ytimg.com/vi/Usq7r5krxYc/hqdefault.jpg"
+ },
+ "video:youtube:Lq_wVSQtmp0": {
+  "url": "https://www.youtube.com/watch?v=Lq_wVSQtmp0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Lq_wVSQtmp0",
+  "title": "Flash Forest: Using Drones to Plant 1 Billion Trees",
+  "author": "Studio549",
+  "thumbnail": "https://i.ytimg.com/vi/Lq_wVSQtmp0/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/67d006c22ab4ba62f9fcd5ad/6a90ded04a80dca8e1c68a7f_Flash%20Forest%20OG%20Image.png": {
+  "url": "https://cdn.prod.website-files.com/67d006c22ab4ba62f9fcd5ad/6a90ded04a80dca8e1c68a7f_Flash%20Forest%20OG%20Image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:emaNqen1Qlg": {
+  "url": "https://www.youtube.com/watch?v=emaNqen1Qlg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "emaNqen1Qlg",
+  "title": "Biomilq is making cell-cultured breast milk from dads and moms",
+  "author": "Evolve_ag",
+  "thumbnail": "https://i.ytimg.com/vi/emaNqen1Qlg/hqdefault.jpg"
+ },
+ "video:youtube:ybQ94S1-sc4": {
+  "url": "https://www.youtube.com/watch?v=ybQ94S1-sc4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ybQ94S1-sc4",
+  "title": "Melbourne Now | Great Wrap",
+  "author": "NGV Melbourne",
+  "thumbnail": "https://i.ytimg.com/vi/ybQ94S1-sc4/hqdefault.jpg"
+ },
+ "img:https://designmuseum.org/image/5cbbb7b5-2c28-4ded-98be-9c34292ec9fc?width=1600": {
+  "url": "https://designmuseum.org/image/5cbbb7b5-2c28-4ded-98be-9c34292ec9fc?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/c5cb9388-e5ce-4094-96a6-46c28a29a277?width=1600": {
+  "url": "https://designmuseum.org/image/c5cb9388-e5ce-4094-96a6-46c28a29a277?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static1.squarespace.com/static/5af188458ab722cefd414847/t/5ca32166f9619a0cc6a8e019/1554194815879/DSC02023.jpg": {
+  "url": "https://static1.squarespace.com/static/5af188458ab722cefd414847/t/5ca32166f9619a0cc6a8e019/1554194815879/DSC02023.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://designmuseum.org/image/52577a1c-ac48-4d67-8dc1-9f4d76b281cf?width=1600": {
+  "url": "https://designmuseum.org/image/52577a1c-ac48-4d67-8dc1-9f4d76b281cf?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:cKwEjWvOqz8": {
+  "url": "https://www.youtube.com/watch?v=cKwEjWvOqz8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cKwEjWvOqz8",
+  "title": "Designing Living Systems To Clean Polluted Water: Bio-Architecture | Shneel Malik | TEDxGateway",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/cKwEjWvOqz8/hqdefault.jpg"
+ },
+ "img:https://designmuseum.org/image/470ef110-a780-43c4-a3f8-6624e6bfc0b7?width=1600": {
+  "url": "https://designmuseum.org/image/470ef110-a780-43c4-a3f8-6624e6bfc0b7?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/1224fa00-b56a-471b-94b9-dae818a770f1?width=1600": {
+  "url": "https://designmuseum.org/image/1224fa00-b56a-471b-94b9-dae818a770f1?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/9c493538-a9c6-4a78-886d-e0e718da70da?width=1600": {
+  "url": "https://designmuseum.org/image/9c493538-a9c6-4a78-886d-e0e718da70da?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/55c60d98-14cc-472e-a3e7-af47ebe94700?width=1600": {
+  "url": "https://designmuseum.org/image/55c60d98-14cc-472e-a3e7-af47ebe94700?width=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:oqsW0buX088": {
+  "url": "https://www.youtube.com/watch?v=oqsW0buX088",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oqsW0buX088",
+  "title": "These Cups Are Actually Dried Gourds That Were Grown Inside 3D Printed Molds",
+  "author": "Mashable",
+  "thumbnail": "https://i.ytimg.com/vi/oqsW0buX088/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2019/09/dezeen-awards-the-gourd-project-sq.jpg": {
+  "url": "https://static.dezeen.com/uploads/2019/09/dezeen-awards-the-gourd-project-sq.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:NWkLR_KYm8k": {
+  "url": "https://www.youtube.com/watch?v=NWkLR_KYm8k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NWkLR_KYm8k",
+  "title": "How can you make crayons out of trees? | Forest Crayons by Playfool | Object in Focus | V&A",
+  "author": "Victoria and Albert Museum",
+  "thumbnail": "https://i.ytimg.com/vi/NWkLR_KYm8k/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2021/11/1-Deep-turquoise-crayon-made-fro.jpeg": {
+  "url": "https://static.dezeen.com/uploads/2021/11/1-Deep-turquoise-crayon-made-fro.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.dezeen.com/uploads/2021/09/Forest-Crayons.jpeg": {
+  "url": "https://static.dezeen.com/uploads/2021/09/Forest-Crayons.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:dLcS2hJVxm4": {
+  "url": "https://www.youtube.com/watch?v=dLcS2hJVxm4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dLcS2hJVxm4",
+  "title": "The Exploded View by Biobased Creations",
+  "author": "Stichting Nieuwe Helden",
+  "thumbnail": "https://i.ytimg.com/vi/dLcS2hJVxm4/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2022/07/v2xdbNZVOpbPYCSGm7rXjVfKW48XqUsCxcxC5vPB_Z33nsize_2048.jpeg": {
+  "url": "https://static.dezeen.com/uploads/2022/07/v2xdbNZVOpbPYCSGm7rXjVfKW48XqUsCxcxC5vPB_Z33nsize_2048.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:tCeYPZaij7E": {
+  "url": "https://www.youtube.com/watch?v=tCeYPZaij7E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tCeYPZaij7E",
+  "title": "Reef Design Lab - EMU (Erosion Mitigation Units) Coastal Defence and Marine Habitat Enhancement",
+  "author": "REEF DESIGN LAB",
+  "thumbnail": "https://i.ytimg.com/vi/tCeYPZaij7E/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2023/07/hsyR6XbnGVP8mi5XfIN5XVchprABeURwLYyKmiNf_Z33nsize_2048.jpeg": {
+  "url": "https://static.dezeen.com/uploads/2023/07/hsyR6XbnGVP8mi5XfIN5XVchprABeURwLYyKmiNf_Z33nsize_2048.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.dezeen.com/uploads/2024/07/6565cnwuDbwqnDmibfG5sfLzSYfJvAlTQZ98TnU2_Z33nsize_2048-1.jpg": {
+  "url": "https://static.dezeen.com/uploads/2024/07/6565cnwuDbwqnDmibfG5sfLzSYfJvAlTQZ98TnU2_Z33nsize_2048-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.dezeen.com/uploads/2024/07/eQUZeF3CcwezfeRsQCxa2DJO9a5NBTEzJNABgDkT_Z33nsize_2048.jpg": {
+  "url": "https://static.dezeen.com/uploads/2024/07/eQUZeF3CcwezfeRsQCxa2DJO9a5NBTEzJNABgDkT_Z33nsize_2048.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:c2RJ1asZGWo": {
+  "url": "https://www.youtube.com/watch?v=c2RJ1asZGWo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "c2RJ1asZGWo",
+  "title": "The House That Hemp Made – Film Director Steve Barron’s Margent Farm",
+  "author": "The Modern House & Inigo",
+  "thumbnail": "https://i.ytimg.com/vi/c2RJ1asZGWo/hqdefault.jpg"
+ },
+ "img:https://static.dezeen.com/uploads/2025/07/Grow-your-own-home-Hero-Image-Material-Longlist_dezeen_2364_col_0.jpg": {
+  "url": "https://static.dezeen.com/uploads/2025/07/Grow-your-own-home-Hero-Image-Material-Longlist_dezeen_2364_col_0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.dezeen.com/uploads/2025/07/dezeen-awards-2025-collectible-design-longlist_dezeen_2364_col_0.jpg": {
+  "url": "https://static.dezeen.com/uploads/2025/07/dezeen-awards-2025-collectible-design-longlist_dezeen_2364_col_0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_0-1000x647.jpeg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_0-1000x647.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_1-750x442.jpeg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/designs-for-flies_1-750x442.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_0-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_0-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_1-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/07/the-in-vitro-meat-cookbook_1-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_0-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_0-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_4-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/nano-supermarket_4-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_0-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_0-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_1-1100x647.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/09/jelte-van-abbema_1-1100x647.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_0-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_0-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_1-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2014/08/polydome_1-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1-6266a8e0ba6c8-IABR-Waterschool-M4H-Studio-Makkink-Bey-image-by-Aad-Hoogendoorn-LR-14-1500x882.jpeg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1-6266a8e0ba6c8-IABR-Waterschool-M4H-Studio-Makkink-Bey-image-by-Aad-Hoogendoorn-LR-14-1500x882.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2-626816db21932-IABR-WATERSCHOOL-M4H-FUNGI-production-landscape-by-Juhee-Hahm-in-colloboration-with-Studio-Makkink-Bey-1500x882.jpeg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2-626816db21932-IABR-WATERSCHOOL-M4H-FUNGI-production-landscape-by-Juhee-Hahm-in-colloboration-with-Studio-Makkink-Bey-1500x882.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2023/06/1-Omlab-Natuurvriendelijke-starterswoning-voor-de-zwaluw-DDA23-product-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2023/06/1-Omlab-Natuurvriendelijke-starterswoning-voor-de-zwaluw-DDA23-product-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/flax-chair_0-750x442.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2016/05/flax-chair_0-750x442.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/1-766-LabelBreed41185-3-724x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/1-766-LabelBreed41185-3-724x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1HUMAN-MATERIAL-LOOP-PHOTO-MEDINA-RESIC-2-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1HUMAN-MATERIAL-LOOP-PHOTO-MEDINA-RESIC-2-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2HUMAN-MATERIAL-LOOP-PHOTO-KWADWO-AMFO-5-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2HUMAN-MATERIAL-LOOP-PHOTO-KWADWO-AMFO-5-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Picture-of-Adil-at-green-wall-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Picture-of-Adil-at-green-wall-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Auke-Bleij-Venray-nieuwbouw-vergroend-DDA24-1100x647.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2024/07/Auke-Bleij-Venray-nieuwbouw-vergroend-DDA24-1100x647.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.dutchdesignawards.nl/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-01-at-221408-00e80c9f-1500x882.jpg": {
+  "url": "https://www.dutchdesignawards.nl/wp-content/uploads/2025/10/WhatsApp-Image-2025-08-01-at-221408-00e80c9f-1500x882.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:JIRnANF4qIc": {
+  "url": "https://www.youtube.com/watch?v=JIRnANF4qIc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JIRnANF4qIc",
+  "title": "The Terra Carta Design Lab Winners: Aerseeds",
+  "author": "Royal College of Art",
+  "thumbnail": "https://i.ytimg.com/vi/JIRnANF4qIc/hqdefault.jpg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/AERSEEDs__Media-01.2e16d0ba.fill-1200x1200.jpg": {
+  "url": "https://rca-media2.rca.ac.uk/images/AERSEEDs__Media-01.2e16d0ba.fill-1200x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Copy-of-Jars-in-blue-hues-2021--.2e16d0ba.fill-1200x1200.jpg": {
+  "url": "https://rca-media2.rca.ac.uk/images/Copy-of-Jars-in-blue-hues-2021--.2e16d0ba.fill-1200x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Notpla_Paper__Sheets.2e16d0ba.fill-829x585.jpg": {
+  "url": "https://rca-media2.rca.ac.uk/images/Notpla_Paper__Sheets.2e16d0ba.fill-829x585.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Screenshot_2022-01-20_at_17.39.0.2e16d0ba.fill-1200x1200.png": {
+  "url": "https://rca-media2.rca.ac.uk/images/Screenshot_2022-01-20_at_17.39.0.2e16d0ba.fill-1200x1200.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:vimeo:665981630": {
+  "url": "https://vimeo.com/665981630",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "665981630",
+  "embeddable": true,
+  "title": "Resting Reef (2022) - Skajem &amp; Murillo",
+  "thumbnail": "https://i.vimeocdn.com/video/1348062631-e912779cc0bcd2c8d8d6cbafe2ef8d0ba0700c81c393874218c38d5a8fd1a1ed-d?f=webp&region=us"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Render_modified.2e16d0ba.fill-1200x1200.png": {
+  "url": "https://rca-media2.rca.ac.uk/images/Render_modified.2e16d0ba.fill-1200x1200.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:vimeo:666548887": {
+  "url": "https://vimeo.com/666548887",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "666548887",
+  "embeddable": true,
+  "title": "Terra Carta - Home Grown",
+  "thumbnail": "https://i.vimeocdn.com/video/1349596002-43fe1b0d21ba3f45b2ebebeed89c43457c071e219923b880238cb62d5bb81df4-d?f=webp&region=us"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/Home_Grown_2.2e16d0ba.fill-1200x1200.jpg": {
+  "url": "https://rca-media2.rca.ac.uk/images/Home_Grown_2.2e16d0ba.fill-1200x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rca-media2.rca.ac.uk/images/WEIRD_ECOLOGIES_Terra_Carta_Appl.f039940b.fill-1200x1200.jpg": {
+  "url": "https://rca-media2.rca.ac.uk/images/WEIRD_ECOLOGIES_Terra_Carta_Appl.f039940b.fill-1200x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:vt8I7JjWa0Y": {
+  "url": "https://www.youtube.com/watch?v=vt8I7JjWa0Y",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vt8I7JjWa0Y",
+  "title": "Sustainable Markets Initiative’s Terra Carta Design Lab: RISD Winners Announced",
+  "author": "RISD / Rhode Island School of Design",
+  "thumbnail": "https://i.ytimg.com/vi/vt8I7JjWa0Y/hqdefault.jpg"
+ },
+ "img:https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png": {
+  "url": "https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/576x720/ddbe68f3e1/shellf-life.png": {
+  "url": "https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/576x720/ddbe68f3e1/shellf-life.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:9V_4S3d89r0": {
+  "url": "https://www.youtube.com/watch?v=9V_4S3d89r0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9V_4S3d89r0",
+  "title": "Cyanoskin’s Journey in Algae-Based Carbon Sequestration at Imperial College London",
+  "author": "Grantham Institute, Imperial College London",
+  "thumbnail": "https://i.ytimg.com/vi/9V_4S3d89r0/hqdefault.jpg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-cyanoskin_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-cyanoskin_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:cKYU2a_TaAQ": {
+  "url": "https://www.youtube.com/watch?v=cKYU2a_TaAQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cKYU2a_TaAQ",
+  "title": "Seagraft - Terra Carta Design Lab finalist 2024 | Royal College of Art",
+  "author": "Royal College of Art",
+  "thumbnail": "https://i.ytimg.com/vi/cKYU2a_TaAQ/hqdefault.jpg"
+ },
+ "img:https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/666x720/5f7e1845c6/wildwatch.png": {
+  "url": "https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/666x720/5f7e1845c6/wildwatch.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/Care-for-Milk_high-resolution-680x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/Care-for-Milk_high-resolution-680x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/03_Sanne-Visser-The-New-age-of-Trichology-photography-credit-Tom-Mannion-683x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/03_Sanne-Visser-The-New-age-of-Trichology-photography-credit-Tom-Mannion-683x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/12-1024x685.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/12-1024x685.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/Levende-Pixels-Inktkwekerij-INgrid-Nijhoff-1024x599.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/Levende-Pixels-Inktkwekerij-INgrid-Nijhoff-1024x599.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/IMG_4489-1024x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/IMG_4489-1024x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/Coleoptera8-1024x768.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/Coleoptera8-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/2013-10-13-1024x765.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/2013-10-13-1024x765.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/72dpi_Nr.1_Pendant-Lights_Milo-Dool-1024x682.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/72dpi_Nr.1_Pendant-Lights_Milo-Dool-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/Blua-stained-pine_close-up-1024x682.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/Blua-stained-pine_close-up-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/No-ink-1024x768.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/No-ink-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/colourscaleWEB-589x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/colourscaleWEB-589x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/Ivorish-1024x678.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/Ivorish-1024x678.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/botanica_01-1024x682.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/botanica_01-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/botanica_03-1024x598.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/botanica_03-1024x598.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/slakkenpoep-lieske-schreuder-1800x1349-1-1024x767.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/slakkenpoep-lieske-schreuder-1800x1349-1-1024x767.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/sfondo-Agricola-1-1024x705.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/sfondo-Agricola-1-1024x705.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/13.-TjeerdVeenhoven-1800x1197-1-1024x681.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/13.-TjeerdVeenhoven-1800x1197-1-1024x681.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/2010-29.-Claudy-Jongstra-1-724x1024.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/2010-29.-Claudy-Jongstra-1-724x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://new-material-award.nl/wp-content/uploads/2021/11/BeLeaf-coloured-leaves-Celestine-Briet-expo-NAi-1024x768.jpg": {
+  "url": "https://new-material-award.nl/wp-content/uploads/2021/11/BeLeaf-coloured-leaves-Celestine-Briet-expo-NAi-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-beehaven_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-beehaven_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/2-beehaven_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/2-beehaven_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/1-growink_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/1-growink_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/3-growink_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/3-growink_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/1-phytosphere_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/1-phytosphere_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/10-phytosphere_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/10-phytosphere_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-kelpi_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-kelpi_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/1-kelpi_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/1-kelpi_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/w-biodegradable-thermal-material_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/w-biodegradable-thermal-material_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/0-bacterial-cellulose-foam_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/0-bacterial-cellulose-foam_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/3-bacterial-cellulose-foam_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/3-bacterial-cellulose-foam_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/0-algae-harvester_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/0-algae-harvester_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/3-algae-harvester_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/3-algae-harvester_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/7-algee_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/7-algee_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/0-algee_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/0-algee_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/0-mycelium-fiber_1_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/0-mycelium-fiber_1_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/2-mycelium-fiber_1_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/2-mycelium-fiber_1_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/new-0-up-the-mecc_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/new-0-up-the-mecc_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/new-1-up-the-mecc_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/new-1-up-the-mecc_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/2-astrofeast_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/2-astrofeast_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award26/1-astrofeast_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award26/1-astrofeast_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-algae-symbiont_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-algae-symbiont_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-after-life_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-after-life_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/1-after-life_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/1-after-life_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-sea-glass_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-sea-glass_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/2-sea-glass_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/2-sea-glass_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-living-tex-celium_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-living-tex-celium_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/2-living-tex-celium_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/2-living-tex-celium_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-negotiating-boundaries_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-negotiating-boundaries_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/2-negotiating-boundaries_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/2-negotiating-boundaries_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/0-brio_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/0-brio_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award25/1-brio_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award25/1-brio_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-aiper_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-aiper_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-hyphal-mycelium-speaker_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-hyphal-mycelium-speaker_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-interwoven_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-interwoven_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/2-interwoven_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/2-interwoven_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-mycolith_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-mycolith_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-grown-blur_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-grown-blur_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/2-grown-blur_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/2-grown-blur_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/0-printing-herbarium_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/0-printing-herbarium_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award24/2-printing-herbarium_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award24/2-printing-herbarium_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/0-alchemical-mycology_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/0-alchemical-mycology_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/0-mr-kombuchas-lab_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/0-mr-kombuchas-lab_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/0-the-purhyphae-project_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/0-the-purhyphae-project_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/1-the-soothing-cup_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/1-the-soothing-cup_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award23/0-yearning-for-colour_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award23/0-yearning-for-colour_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award22/0-cyanofabbrica_2_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award22/0-cyanofabbrica_2_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award22/0-mycomerge_2_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award22/0-mycomerge_2_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/award22/0-mycosella_2_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/award22/0-mycosella_2_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-aer_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-aer_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-protomycokion_blogLarge.jpg": {
+  "url": "https://content.gp-award.com/assets/media/gpa-gca-submissions2021/0-protomycokion_blogLarge.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/20211129114907im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/more-wow-min-square-600x600.jpg": {
+  "url": "https://web.archive.org/web/20211129114907im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/more-wow-min-square-600x600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/20211110011503im_/https://globalgradshow.com/wp-content/uploads/2021/11/2-600x403.jpg": {
+  "url": "https://web.archive.org/web/20211110011503im_/https://globalgradshow.com/wp-content/uploads/2021/11/2-600x403.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:URe1jw-brWw": {
+  "url": "https://www.youtube.com/watch?v=URe1jw-brWw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "URe1jw-brWw",
+  "title": "Our silk made violin playing at Triennale together with a Stradivarious violin",
+  "author": "Luca Alessandrini",
+  "thumbnail": "https://i.ytimg.com/vi/URe1jw-brWw/hqdefault.jpg"
+ },
+ "video:youtube:Hgx4UC32mqE": {
+  "url": "https://www.youtube.com/watch?v=Hgx4UC32mqE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Hgx4UC32mqE",
+  "title": "Monica L. Hartvigsen. Pecha Kucha. Biocolour - Exploring Sustainable Colour seminar 14.10.2021",
+  "author": "BioColour",
+  "thumbnail": "https://i.ytimg.com/vi/Hgx4UC32mqE/hqdefault.jpg"
+ },
+ "video:youtube:kMgYwCRI-dg": {
+  "url": "https://www.youtube.com/watch?v=kMgYwCRI-dg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kMgYwCRI-dg",
+  "title": "CHEMARTS Summer School 2015: “Not a matter of taste\" -project by Maija Järviniemi and Outi Mustonen",
+  "author": "Aalto University",
+  "thumbnail": "https://i.ytimg.com/vi/kMgYwCRI-dg/hqdefault.jpg"
+ },
+ "img:https://web.archive.org/web/20181208142943im_/http://www.globalgradshow.com/wp-content/uploads/2018/10/LEAVES-BIOCOFFIN_880-x-598-1-Rotated.jpg": {
+  "url": "https://web.archive.org/web/20181208142943im_/http://www.globalgradshow.com/wp-content/uploads/2018/10/LEAVES-BIOCOFFIN_880-x-598-1-Rotated.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/20211127105104im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/Coral-reef-rescuer1-600x424.jpg": {
+  "url": "https://web.archive.org/web/20211127105104im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/Coral-reef-rescuer1-600x424.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:uzowZxKJ80k": {
+  "url": "https://www.youtube.com/watch?v=uzowZxKJ80k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uzowZxKJ80k",
+  "title": "Global Grad Show: CACTUNES, Pierre Charreau, Martin Hertig, Paulina Lamberger",
+  "author": "Dubai Design Week",
+  "thumbnail": "https://i.ytimg.com/vi/uzowZxKJ80k/hqdefault.jpg"
+ },
+ "video:youtube:vl6fVplJTcc": {
+  "url": "https://www.youtube.com/watch?v=vl6fVplJTcc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vl6fVplJTcc",
+  "title": "Global Grad Show: Post/Biotics, Vidhi Mehta",
+  "author": "Dubai Design Week",
+  "thumbnail": "https://i.ytimg.com/vi/vl6fVplJTcc/hqdefault.jpg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/credit_adriano_ferreira_borges_26_scsu_as_isidora_correa_project_photo.jpg?h=49c2a0f5&itok=o5gNutq4": {
+  "url": "https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/credit_adriano_ferreira_borges_26_scsu_as_isidora_correa_project_photo.jpg?h=49c2a0f5&itok=o5gNutq4",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/26_scsu_as_entangled_others_project.jpg?h=91e3a5cb&itok=mU9y5FMp": {
+  "url": "https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/26_scsu_as_entangled_others_project.jpg?h=91e3a5cb&itok=mU9y5FMp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/content/public/medien/262/bilder/echos-of-abyss-adriatic1-by-robertina-sebjanic-photo-by-borut-brozovic-drugo-more-made-in-full-3-2-1_0.jpg?h=a2a2f083&itok=sPa6sli5": {
+  "url": "https://falling-walls.com/sites/default/files/styles/content/public/medien/262/bilder/echos-of-abyss-adriatic1-by-robertina-sebjanic-photo-by-borut-brozovic-drugo-more-made-in-full-3-2-1_0.jpg?h=a2a2f083&itok=sPa6sli5",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xG_av2V6_LE": {
+  "url": "https://www.youtube.com/watch?v=xG_av2V6_LE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xG_av2V6_LE",
+  "title": "Interview Kat Austen & Fara Peluso | Ouroboros",
+  "author": "STARTS EU",
+  "thumbnail": "https://i.ytimg.com/vi/xG_av2V6_LE/hqdefault.jpg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-fara-peluso-6.jpeg?h=08b866d1&itok=lmbWHF8H": {
+  "url": "https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-fara-peluso-6.jpeg?h=08b866d1&itok=lmbWHF8H",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-kat-austen-project-photo.jpg?h=6178a47d&itok=NlVjbyOB": {
+  "url": "https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-kat-austen-project-photo.jpg?h=6178a47d&itok=NlVjbyOB",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_1final1aopthalmologicalbasaltear-ana-maria-gomez-lopez.jpg?h=a05dec19&itok=QT0LDu2o": {
+  "url": "https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_1final1aopthalmologicalbasaltear-ana-maria-gomez-lopez.jpg?h=a05dec19&itok=QT0LDu2o",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_mu4-edited-heather-dewey-hagborg.jpg?h=a1e1a043&itok=ZO-V9wZD": {
+  "url": "https://falling-walls.com/sites/default/files/styles/slider/public/medien/4/bilder/fw23_art_and_science_mu4-edited-heather-dewey-hagborg.jpg?h=a1e1a043&itok=ZO-V9wZD",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.igem.org/mediawiki/2010/7/70/Front.jpg": {
+  "url": "https://static.igem.org/mediawiki/2010/7/70/Front.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.igem.org/mediawiki/2010/2/2d/Harvard2010igardenbanner.png": {
+  "url": "https://static.igem.org/mediawiki/2010/2/2d/Harvard2010igardenbanner.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.igem.org/mediawiki/2010/1/13/Science-and-art.png": {
+  "url": "https://static.igem.org/mediawiki/2010/1/13/Science-and-art.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:klKg9Q1OS2g": {
+  "url": "https://www.youtube.com/watch?v=klKg9Q1OS2g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "klKg9Q1OS2g",
+  "title": "Imperial College London iGEM 2011 Trailer",
+  "author": "ImperialiGEM",
+  "thumbnail": "https://i.ytimg.com/vi/klKg9Q1OS2g/hqdefault.jpg"
+ },
+ "img:https://static.igem.org/mediawiki/2011/a/a7/New_storyboard_v2-08.png": {
+  "url": "https://static.igem.org/mediawiki/2011/a/a7/New_storyboard_v2-08.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.igem.org/mediawiki/2012/3/34/Aseatobacter-IMAGES-Chair_Diagrams.png": {
+  "url": "https://static.igem.org/mediawiki/2012/3/34/Aseatobacter-IMAGES-Chair_Diagrams.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.igem.org/mediawiki/2012/c/c5/Ucl2012-landforsalebanner.jpg": {
+  "url": "https://static.igem.org/mediawiki/2012/c/c5/Ucl2012-landforsalebanner.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:dvBgyJckozs": {
+  "url": "https://www.youtube.com/watch?v=dvBgyJckozs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dvBgyJckozs",
+  "title": "Cornell iGEM 2013- Fungal Biomaterials",
+  "author": "Cornell iGEM Project Team",
+  "thumbnail": "https://i.ytimg.com/vi/dvBgyJckozs/hqdefault.jpg"
+ },
+ "img:https://static.igem.org/mediawiki/2013/1/1c/CornellOrganofoamBadge.png": {
+  "url": "https://static.igem.org/mediawiki/2013/1/1c/CornellOrganofoamBadge.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:cRoI-lS_F9E": {
+  "url": "https://www.youtube.com/watch?v=cRoI-lS_F9E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cRoI-lS_F9E",
+  "title": "Aqualose Imperial iGEM 2014 presentation",
+  "author": "Imperial iGEM 2014",
+  "thumbnail": "https://i.ytimg.com/vi/cRoI-lS_F9E/hqdefault.jpg"
+ },
+ "img:https://static.igem.org/mediawiki/2014/d/de/IC14-banner-cellulose3.JPG": {
+  "url": "https://static.igem.org/mediawiki/2014/d/de/IC14-banner-cellulose3.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.igem.org/mediawiki/2014/b/b1/Smelltheroses.png": {
+  "url": "https://static.igem.org/mediawiki/2014/b/b1/Smelltheroses.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:9zlBZ3J8yy0": {
+  "url": "https://www.youtube.com/watch?v=9zlBZ3J8yy0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9zlBZ3J8yy0",
+  "title": "jaggedart Artists | Kazuhito Takadoi",
+  "author": "jaggedart",
+  "thumbnail": "https://i.ytimg.com/vi/9zlBZ3J8yy0/hqdefault.jpg"
+ },
+ "img:https://craftprize.loewe.com/on/demandware.static/-/Sites-LOE_CP-Library/default/dw77e39eab/CRAFT%20PRIZE%202019%20%20CONTENT/CP_ARTWORKS_WEB_25.jpg": {
+  "url": "https://craftprize.loewe.com/on/demandware.static/-/Sites-LOE_CP-Library/default/dw77e39eab/CRAFT%20PRIZE%202019%20%20CONTENT/CP_ARTWORKS_WEB_25.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.salonemilano.it/sites/default/files/styles/libero/public/images/articles/2023-06/Tatami-Refab-salonemilano.jpg.webp?itok=jrTYNcJB": {
+  "url": "https://www.salonemilano.it/sites/default/files/styles/libero/public/images/articles/2023-06/Tatami-Refab-salonemilano.jpg.webp?itok=jrTYNcJB",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.salonemilano.it/sites/default/files/styles/libero/public/2023-06/Fragmentario-Avocado%20Seed%20Brick-salone%20milano.jpg.webp?itok=wbU44Shi": {
+  "url": "https://www.salonemilano.it/sites/default/files/styles/libero/public/2023-06/Fragmentario-Avocado%20Seed%20Brick-salone%20milano.jpg.webp?itok=wbU44Shi",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:czEMS-rrAp4": {
+  "url": "https://www.youtube.com/watch?v=czEMS-rrAp4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "czEMS-rrAp4",
+  "title": "Biodegradable fashion : Vollebak Plant and Algae T Shirt",
+  "author": "Volta Future Positive",
+  "thumbnail": "https://i.ytimg.com/vi/czEMS-rrAp4/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/bf78f4fff14e17a4b294d9a98eecfdcbc9a86ef0/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/bf78f4fff14e17a4b294d9a98eecfdcbc9a86ef0/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr3_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr3_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr1_lrg.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2772950822003727-gr1_lrg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/10-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/10-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/9-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/f2fba0733bd2daac20ff52239f569cf82aab9d69/9-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/86e1896c51ac34da19a5429fb827ad0644dc2811/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/86e1896c51ac34da19a5429fb827ad0644dc2811/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a1e8c96869c3f732aa82d2d1dd35564e2c152f77/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/a1e8c96869c3f732aa82d2d1dd35564e2c152f77/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "ytmax:EfS-wU84WN4": {
+  "url": "https://i.ytimg.com/vi/EfS-wU84WN4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1fLnemtiFTg": {
+  "url": "https://i.ytimg.com/vi/1fLnemtiFTg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BHRuGA1Ao4s": {
+  "url": "https://i.ytimg.com/vi/BHRuGA1Ao4s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dZJaLyFQ1yg": {
+  "url": "https://i.ytimg.com/vi/dZJaLyFQ1yg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mwUVBkoInTY": {
+  "url": "https://i.ytimg.com/vi/mwUVBkoInTY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-zT7OKeApNA": {
+  "url": "https://i.ytimg.com/vi/-zT7OKeApNA/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:pBIPYySoRuc": {
+  "url": "https://i.ytimg.com/vi/pBIPYySoRuc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:UEjUS4o1LHA": {
+  "url": "https://i.ytimg.com/vi/UEjUS4o1LHA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:eu2UlP6V8cM": {
+  "url": "https://i.ytimg.com/vi/eu2UlP6V8cM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:2nq5StOmac8": {
+  "url": "https://i.ytimg.com/vi/2nq5StOmac8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dtmQO7tlYiA": {
+  "url": "https://i.ytimg.com/vi/dtmQO7tlYiA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:So7kEMqr8Lk": {
+  "url": "https://i.ytimg.com/vi/So7kEMqr8Lk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:fbLwNWgHDIk": {
+  "url": "https://i.ytimg.com/vi/fbLwNWgHDIk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:u3onQ7ogZgM": {
+  "url": "https://i.ytimg.com/vi/u3onQ7ogZgM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:YYlKUX1nloI": {
+  "url": "https://i.ytimg.com/vi/YYlKUX1nloI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:duRbE2ts_-o": {
+  "url": "https://i.ytimg.com/vi/duRbE2ts_-o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cqJm9gxBifc": {
+  "url": "https://i.ytimg.com/vi/cqJm9gxBifc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:m14cJUp08dI": {
+  "url": "https://i.ytimg.com/vi/m14cJUp08dI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BQWK-F-gFqc": {
+  "url": "https://i.ytimg.com/vi/BQWK-F-gFqc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:foYNxbBx_Ro": {
+  "url": "https://i.ytimg.com/vi/foYNxbBx_Ro/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zcfsdPZ1B_8": {
+  "url": "https://i.ytimg.com/vi/zcfsdPZ1B_8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:WkP6e6KVojY": {
+  "url": "https://i.ytimg.com/vi/WkP6e6KVojY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ylhzglL8ATc": {
+  "url": "https://i.ytimg.com/vi/ylhzglL8ATc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:AW1ucms2g-c": {
+  "url": "https://i.ytimg.com/vi/AW1ucms2g-c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:u0fWnQlkJqs": {
+  "url": "https://i.ytimg.com/vi/u0fWnQlkJqs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:W9txOGTM4pE": {
+  "url": "https://i.ytimg.com/vi/W9txOGTM4pE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:d2ZblOmFRfk": {
+  "url": "https://i.ytimg.com/vi/d2ZblOmFRfk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KQRt5ttcNS8": {
+  "url": "https://i.ytimg.com/vi/KQRt5ttcNS8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GwqCnpRZukw": {
+  "url": "https://i.ytimg.com/vi/GwqCnpRZukw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kP2Ldarnptw": {
+  "url": "https://i.ytimg.com/vi/kP2Ldarnptw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:e2_M55DO7GQ": {
+  "url": "https://i.ytimg.com/vi/e2_M55DO7GQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:hz_jl2QqiVQ": {
+  "url": "https://i.ytimg.com/vi/hz_jl2QqiVQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L0Ka7DgOzAQ": {
+  "url": "https://i.ytimg.com/vi/L0Ka7DgOzAQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ROF3ucFHb7A": {
+  "url": "https://i.ytimg.com/vi/ROF3ucFHb7A/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0VgPBadKbfo": {
+  "url": "https://i.ytimg.com/vi/0VgPBadKbfo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:o8TdxBGzE2E": {
+  "url": "https://i.ytimg.com/vi/o8TdxBGzE2E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:92Dcp9Fbdac": {
+  "url": "https://i.ytimg.com/vi/92Dcp9Fbdac/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ppD3TJ4X8K4": {
+  "url": "https://i.ytimg.com/vi/ppD3TJ4X8K4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1Icf_g_lJYI": {
+  "url": "https://i.ytimg.com/vi/1Icf_g_lJYI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CnlT9KzSHFU": {
+  "url": "https://i.ytimg.com/vi/CnlT9KzSHFU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3IqJ0lpUh3M": {
+  "url": "https://i.ytimg.com/vi/3IqJ0lpUh3M/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:QJHUsmCFbPU": {
+  "url": "https://i.ytimg.com/vi/QJHUsmCFbPU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XmgJzfTfA_c": {
+  "url": "https://i.ytimg.com/vi/XmgJzfTfA_c/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ysVNFNH8DXQ": {
+  "url": "https://i.ytimg.com/vi/ysVNFNH8DXQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ej2T958I28s": {
+  "url": "https://i.ytimg.com/vi/ej2T958I28s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:6uGcQhTuXec": {
+  "url": "https://i.ytimg.com/vi/6uGcQhTuXec/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:41BsHWhU8SM": {
+  "url": "https://i.ytimg.com/vi/41BsHWhU8SM/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:83gwk4Os1ms": {
+  "url": "https://i.ytimg.com/vi/83gwk4Os1ms/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kYT9eXGxDH4": {
+  "url": "https://i.ytimg.com/vi/kYT9eXGxDH4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:zkWPwevwHe4": {
+  "url": "https://i.ytimg.com/vi/zkWPwevwHe4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:FKqc90syidU": {
+  "url": "https://i.ytimg.com/vi/FKqc90syidU/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:xAAT7Ot2Afc": {
+  "url": "https://i.ytimg.com/vi/xAAT7Ot2Afc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8OQPCjWEILM": {
+  "url": "https://i.ytimg.com/vi/8OQPCjWEILM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:K7lUgf0hiuI": {
+  "url": "https://i.ytimg.com/vi/K7lUgf0hiuI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vNFfUw-JWW8": {
+  "url": "https://i.ytimg.com/vi/vNFfUw-JWW8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bynUOWm7rlg": {
+  "url": "https://i.ytimg.com/vi/bynUOWm7rlg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7VWf7Sn6qYE": {
+  "url": "https://i.ytimg.com/vi/7VWf7Sn6qYE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:FUlJ8WdIYHE": {
+  "url": "https://i.ytimg.com/vi/FUlJ8WdIYHE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZfYwQlYxqTM": {
+  "url": "https://i.ytimg.com/vi/ZfYwQlYxqTM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:J6CL43yFfsU": {
+  "url": "https://i.ytimg.com/vi/J6CL43yFfsU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zZHPcDz6BLY": {
+  "url": "https://i.ytimg.com/vi/zZHPcDz6BLY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Hj6UgMh6qGk": {
+  "url": "https://i.ytimg.com/vi/Hj6UgMh6qGk/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:BqE8Wr__hjo": {
+  "url": "https://i.ytimg.com/vi/BqE8Wr__hjo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tePbmFIWxrY": {
+  "url": "https://i.ytimg.com/vi/tePbmFIWxrY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CYtTQBydg8w": {
+  "url": "https://i.ytimg.com/vi/CYtTQBydg8w/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:OuhMIMs1gJs": {
+  "url": "https://i.ytimg.com/vi/OuhMIMs1gJs/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Ww8m8Mm5GMY": {
+  "url": "https://i.ytimg.com/vi/Ww8m8Mm5GMY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:e7JEqSzVWUg": {
+  "url": "https://i.ytimg.com/vi/e7JEqSzVWUg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:HElJjYer2Bo": {
+  "url": "https://i.ytimg.com/vi/HElJjYer2Bo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:j_q9SYeZr-Q": {
+  "url": "https://i.ytimg.com/vi/j_q9SYeZr-Q/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zsUfKXHienc": {
+  "url": "https://i.ytimg.com/vi/zsUfKXHienc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:TJQKsL-ObJ8": {
+  "url": "https://i.ytimg.com/vi/TJQKsL-ObJ8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:n2XnsdXfc7o": {
+  "url": "https://i.ytimg.com/vi/n2XnsdXfc7o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rUxl6Fz-MXY": {
+  "url": "https://i.ytimg.com/vi/rUxl6Fz-MXY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NG2bi-YqwKQ": {
+  "url": "https://i.ytimg.com/vi/NG2bi-YqwKQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:WeNLSr_HSlA": {
+  "url": "https://i.ytimg.com/vi/WeNLSr_HSlA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:p9bJbxbPoMQ": {
+  "url": "https://i.ytimg.com/vi/p9bJbxbPoMQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Qm0VFX2qpZA": {
+  "url": "https://i.ytimg.com/vi/Qm0VFX2qpZA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xDt5RoQpWXU": {
+  "url": "https://i.ytimg.com/vi/xDt5RoQpWXU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Os5j1y8O9QM": {
+  "url": "https://i.ytimg.com/vi/Os5j1y8O9QM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Wm-Y9i-LTVw": {
+  "url": "https://i.ytimg.com/vi/Wm-Y9i-LTVw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dUCqFEG0JDQ": {
+  "url": "https://i.ytimg.com/vi/dUCqFEG0JDQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8mK1jbHjnTM": {
+  "url": "https://i.ytimg.com/vi/8mK1jbHjnTM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_tD8pmuP3SU": {
+  "url": "https://i.ytimg.com/vi/_tD8pmuP3SU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:MEYSbf0sDx0": {
+  "url": "https://i.ytimg.com/vi/MEYSbf0sDx0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:ZekQeI-AJQs": {
+  "url": "https://i.ytimg.com/vi/ZekQeI-AJQs/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:jjkOLvxPqqs": {
+  "url": "https://i.ytimg.com/vi/jjkOLvxPqqs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:F5NMqMfvQ58": {
+  "url": "https://i.ytimg.com/vi/F5NMqMfvQ58/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VQzYd9CyKLA": {
+  "url": "https://i.ytimg.com/vi/VQzYd9CyKLA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XRF34tXjrZ0": {
+  "url": "https://i.ytimg.com/vi/XRF34tXjrZ0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0wpUg9cntME": {
+  "url": "https://i.ytimg.com/vi/0wpUg9cntME/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:oSTdvj_J8NY": {
+  "url": "https://i.ytimg.com/vi/oSTdvj_J8NY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:FkMCZR8M930": {
+  "url": "https://i.ytimg.com/vi/FkMCZR8M930/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:o-xw-DSUMRg": {
+  "url": "https://i.ytimg.com/vi/o-xw-DSUMRg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:j8ViaskDSeI": {
+  "url": "https://i.ytimg.com/vi/j8ViaskDSeI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3aZ8E7hj8VU": {
+  "url": "https://i.ytimg.com/vi/3aZ8E7hj8VU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zaxoZaDZE7g": {
+  "url": "https://i.ytimg.com/vi/zaxoZaDZE7g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:z8zuqR95fqA": {
+  "url": "https://i.ytimg.com/vi/z8zuqR95fqA/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Usq7r5krxYc": {
+  "url": "https://i.ytimg.com/vi/Usq7r5krxYc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Lq_wVSQtmp0": {
+  "url": "https://i.ytimg.com/vi/Lq_wVSQtmp0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:emaNqen1Qlg": {
+  "url": "https://i.ytimg.com/vi/emaNqen1Qlg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ybQ94S1-sc4": {
+  "url": "https://i.ytimg.com/vi/ybQ94S1-sc4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cKwEjWvOqz8": {
+  "url": "https://i.ytimg.com/vi/cKwEjWvOqz8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:oqsW0buX088": {
+  "url": "https://i.ytimg.com/vi/oqsW0buX088/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NWkLR_KYm8k": {
+  "url": "https://i.ytimg.com/vi/NWkLR_KYm8k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dLcS2hJVxm4": {
+  "url": "https://i.ytimg.com/vi/dLcS2hJVxm4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tCeYPZaij7E": {
+  "url": "https://i.ytimg.com/vi/tCeYPZaij7E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:c2RJ1asZGWo": {
+  "url": "https://i.ytimg.com/vi/c2RJ1asZGWo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JIRnANF4qIc": {
+  "url": "https://i.ytimg.com/vi/JIRnANF4qIc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vt8I7JjWa0Y": {
+  "url": "https://i.ytimg.com/vi/vt8I7JjWa0Y/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9V_4S3d89r0": {
+  "url": "https://i.ytimg.com/vi/9V_4S3d89r0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cKYU2a_TaAQ": {
+  "url": "https://i.ytimg.com/vi/cKYU2a_TaAQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:URe1jw-brWw": {
+  "url": "https://i.ytimg.com/vi/URe1jw-brWw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Hgx4UC32mqE": {
+  "url": "https://i.ytimg.com/vi/Hgx4UC32mqE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kMgYwCRI-dg": {
+  "url": "https://i.ytimg.com/vi/kMgYwCRI-dg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uzowZxKJ80k": {
+  "url": "https://i.ytimg.com/vi/uzowZxKJ80k/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:vl6fVplJTcc": {
+  "url": "https://i.ytimg.com/vi/vl6fVplJTcc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xG_av2V6_LE": {
+  "url": "https://i.ytimg.com/vi/xG_av2V6_LE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:klKg9Q1OS2g": {
+  "url": "https://i.ytimg.com/vi/klKg9Q1OS2g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:dvBgyJckozs": {
+  "url": "https://i.ytimg.com/vi/dvBgyJckozs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cRoI-lS_F9E": {
+  "url": "https://i.ytimg.com/vi/cRoI-lS_F9E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9zlBZ3J8yy0": {
+  "url": "https://i.ytimg.com/vi/9zlBZ3J8yy0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:czEMS-rrAp4": {
+  "url": "https://i.ytimg.com/vi/czEMS-rrAp4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
  }
 }

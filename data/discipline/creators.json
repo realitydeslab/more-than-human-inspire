@@ -73,7 +73,7 @@
   "interaction"
  ],
  "dirk-van-der-linden": [
-  "speculative"
+  "interaction"
  ],
  "aphrodite-andreou": [
   "interaction"
@@ -85,7 +85,8 @@
   "interaction"
  ],
  "oliver-bendel": [
-  "speculative"
+  "theory",
+  "science"
  ],
  "dognosis": [
   "science"
@@ -118,7 +119,7 @@
   "interaction"
  ],
  "shaun-lawson": [
-  "speculative"
+  "interaction"
  ],
  "florian-mueller": [
   "interaction"
@@ -148,8 +149,8 @@
   "interaction"
  ],
  "ziming-wang": [
-  "speculative",
-  "interaction"
+  "interaction",
+  "speculative"
  ],
  "hochul-hwang": [
   "interaction"
@@ -221,7 +222,8 @@
   "product"
  ],
  "clemens-driessen": [
-  "speculative"
+  "theory",
+  "interaction"
  ],
  "kars-alfrink": [
   "interaction"
@@ -245,12 +247,10 @@
   "material"
  ],
  "alexandra-daisy-ginsberg": [
-  "art",
-  "speculative"
+  "art"
  ],
  "sascha-pohflepp": [
-  "speculative",
-  "art"
+  "speculative"
  ],
  "christina-agapakis": [
   "science",
@@ -317,15 +317,13 @@
   "art"
  ],
  "ai-hasegawa": [
-  "speculative",
-  "art"
+  "speculative"
  ],
  "cohen-van-balen": [
   "art",
   "speculative"
  ],
  "pinar-yoldas": [
-  "art",
   "speculative"
  ],
  "rachel-armstrong": [
@@ -355,8 +353,7 @@
   "architecture"
  ],
  "magnus-larsson": [
-  "architecture",
-  "speculative"
+  "architecture"
  ],
  "marcos-cruz": [
   "architecture"
@@ -512,7 +509,7 @@
  ],
  "living-things-studio": [
   "speculative",
-  "art"
+  "material"
  ],
  "mike-thompson": [
   "speculative"
@@ -548,8 +545,7 @@
   "speculative"
  ],
  "arthur-wiechula": [
-  "architecture",
-  "speculative"
+  "architecture"
  ],
  "carole-collet": [
   "material",
@@ -599,12 +595,10 @@
   "art"
  ],
  "cyrus-clarke": [
-  "speculative",
-  "science"
+  "speculative"
  ],
  "monika-seyfried": [
-  "speculative",
-  "science"
+  "speculative"
  ],
  "ori-elisar": [
   "art"
@@ -1080,7 +1074,7 @@
  ],
  "orkan-telhan": [
   "speculative",
-  "art"
+  "material"
  ],
  "ginkgo-bioworks": [
   "science",
@@ -1102,7 +1096,8 @@
   "art"
  ],
  "agi-haines": [
-  "speculative"
+  "speculative",
+  "art"
  ],
  "burton-nitta": [
   "speculative"
@@ -1261,7 +1256,7 @@
   "interaction"
  ],
  "alexandra-teixeira-riggs": [
-  "speculative"
+  "art"
  ],
  "mathieu-lehanneur": [
   "product"
@@ -1276,6 +1271,7 @@
   "speculative"
  ],
  "agata-jaworska": [
+  "material",
   "speculative"
  ],
  "michael-burton": [
@@ -1325,7 +1321,7 @@
   "art"
  ],
  "cesar-rodriguez-garavito": [
-  "speculative"
+  "theory"
  ],
  "tomas-libertiny": [
   "art"
@@ -1347,6 +1343,7 @@
   "fashion"
  ],
  "troika": [
+  "art",
   "speculative"
  ],
  "clive-van-heerden": [
@@ -1466,8 +1463,8 @@
   "material"
  ],
  "tina-gorjanc": [
-  "speculative",
-  "fashion"
+  "fashion",
+  "speculative"
  ],
  "jonathan-dessi-olive": [
   "architecture",
@@ -1503,7 +1500,8 @@
   "material"
  ],
  "arne-hendriks": [
-  "speculative"
+  "speculative",
+  "art"
  ],
  "nikoletta-karastathi": [
   "material",
@@ -1576,7 +1574,7 @@
   "science"
  ],
  "thomas-nagel": [
-  "speculative"
+  "theory"
  ],
  "bryan-pijanowski": [
   "science"
@@ -1799,7 +1797,8 @@
   "interaction"
  ],
  "shinichi-takemura": [
-  "interaction"
+  "interaction",
+  "theory"
  ],
  "atmoph": [
   "product"
@@ -1926,6 +1925,7 @@
   "interaction"
  ],
  "sylvia-janicki": [
+  "art",
   "speculative"
  ],
  "michi-kanda": [
@@ -1957,7 +1957,7 @@
   "material"
  ],
  "raul-pereira-pinto": [
-  "speculative"
+  "art"
  ],
  "serena-pollastri": [
   "speculative"
@@ -2034,8 +2034,7 @@
   "interaction"
  ],
  "marketa-dolejsova": [
-  "speculative",
-  "food"
+  "speculative"
  ],
  "patricia-ciobanu": [
   "interaction"
@@ -2206,6 +2205,7 @@
   "art"
  ],
  "david-rothenberg": [
+  "theory",
   "art"
  ],
  "jana-winderen": [
@@ -2266,7 +2266,7 @@
   "art"
  ],
  "primavera-de-filippi": [
-  "speculative",
+  "theory",
   "art"
  ],
  "forensic-architecture": [
@@ -2276,7 +2276,7 @@
   "architecture"
  ],
  "bruno-latour": [
-  "speculative"
+  "theory"
  ],
  "zkm-karlsruhe": [
   "art"
@@ -2288,7 +2288,7 @@
   "speculative"
  ],
  "anna-tsing": [
-  "speculative"
+  "theory"
  ],
  "feifei-zhou": [
   "art",
@@ -2327,11 +2327,9 @@
   "science"
  ],
  "ron-wakkary": [
-  "interaction",
   "speculative"
  ],
  "doenja-oogjes": [
-  "interaction",
   "speculative"
  ],
  "tiffany-wun": [
@@ -2341,8 +2339,7 @@
   "interaction"
  ],
  "johan-redstrom": [
-  "interaction",
-  "speculative"
+  "theory"
  ],
  "nazli-cila": [
   "interaction"
@@ -2351,12 +2348,11 @@
   "interaction"
  ],
  "laura-forlano": [
-  "speculative",
-  "interaction"
+  "theory",
+  "speculative"
  ],
  "paul-coulton": [
-  "speculative",
-  "interaction"
+  "speculative"
  ],
  "joseph-lindley": [
   "speculative"
@@ -2380,8 +2376,7 @@
   "speculative"
  ],
  "carl-disalvo": [
-  "interaction",
-  "speculative"
+  "interaction"
  ],
  "anne-galloway": [
   "speculative"
@@ -2393,22 +2388,23 @@
   "interaction"
  ],
  "donna-haraway": [
-  "speculative"
+  "theory"
  ],
  "arturo-escobar": [
-  "speculative"
+  "theory"
  ],
  "tony-fry": [
-  "speculative"
+  "theory"
  ],
  "jane-bennett": [
-  "speculative"
+  "theory"
  ],
  "jennifer-gabrys": [
-  "speculative"
+  "theory"
  ],
  "martin-tironi": [
-  "speculative"
+  "speculative",
+  "theory"
  ],
  "jen-liu": [
   "interaction"
@@ -2435,7 +2431,7 @@
   "interaction"
  ],
  "michael-haldrup": [
-  "speculative"
+  "theory"
  ],
  "clara-mancini": [
   "interaction"
@@ -2492,6 +2488,7 @@
   "interaction"
  ],
  "ned-cooper": [
+  "theory",
   "speculative"
  ],
  "kristina-lindstrom": [
@@ -2523,12 +2520,13 @@
   "architecture"
  ],
  "ann-light": [
-  "speculative"
+  "interaction"
  ],
  "yoko-akama": [
   "speculative"
  ],
  "jeffrey-bardzell": [
+  "theory",
   "interaction"
  ],
  "anton-poikolainen-rosen": [
@@ -2538,16 +2536,16 @@
   "art"
  ],
  "whanganui-iwi": [
-  "speculative"
+  "theory"
  ],
  "teresa-vicente": [
-  "speculative"
+  "theory"
  ],
  "constitutional-court-of-ecuador": [
-  "speculative"
+  "theory"
  ],
  "nonhuman-rights-project": [
-  "speculative"
+  "theory"
  ],
  "chris-watson": [
   "art"
@@ -2574,26 +2572,28 @@
   "science"
  ],
  "robin-wall-kimmerer": [
+  "theory",
   "science"
  ],
  "timothy-morton": [
-  "speculative"
+  "theory"
  ],
  "eduardo-kohn": [
-  "speculative"
+  "theory"
  ],
  "vinciane-despret": [
-  "speculative"
+  "theory"
  ],
  "emanuele-coccia": [
-  "speculative"
+  "theory"
  ],
  "karen-barad": [
-  "speculative"
+  "theory",
+  "science"
  ],
  "james-bridle": [
   "art",
-  "speculative"
+  "theory"
  ],
  "monica-gagliano": [
   "science"
@@ -2611,7 +2611,7 @@
   "science"
  ],
  "more-than-human-life-program": [
-  "speculative"
+  "theory"
  ],
  "google-deepmind": [
   "science"
@@ -2620,7 +2620,7 @@
   "science"
  ],
  "karen-bakker": [
-  "speculative"
+  "theory"
  ],
  "irene-pepperberg": [
   "science"
@@ -2717,7 +2717,7 @@
   "interaction"
  ],
  "monika-rosinska": [
-  "speculative"
+  "theory"
  ],
  "giulia-jiangxian-zhu": [
   "interaction"
@@ -2770,10 +2770,10 @@
   "architecture"
  ],
  "thom-van-dooren": [
-  "speculative"
+  "theory"
  ],
  "betti-marenko": [
-  "speculative"
+  "theory"
  ],
  "michelle-chang": [
   "interaction"
@@ -2786,6 +2786,7 @@
   "fashion"
  ],
  "alex-wilkie": [
+  "theory",
   "speculative"
  ],
  "pedro-galvao-ferreira": [
@@ -2798,7 +2799,7 @@
   "interaction"
  ],
  "hoyoung-youn": [
-  "speculative"
+  "theory"
  ],
  "paulina-yurman": [
   "speculative"
@@ -2847,6 +2848,7 @@
   "speculative"
  ],
  "mette-gislev-kjaersgaard": [
+  "theory",
   "speculative"
  ],
  "logan-shockey": [
@@ -2956,6 +2958,7 @@
   "speculative"
  ],
  "nina-williams": [
+  "theory",
   "speculative"
  ],
  "flavia-alice-mameli": [
@@ -2974,7 +2977,7 @@
   "interaction"
  ],
  "anniken-forde": [
-  "speculative"
+  "theory"
  ],
  "jian-yu": [
   "speculative"
@@ -3002,10 +3005,10 @@
   "interaction"
  ],
  "manuhuia-barcham": [
-  "speculative"
+  "theory"
  ],
  "cagdas-dedeoglu": [
-  "speculative"
+  "theory"
  ],
  "arne-berger": [
   "interaction"
@@ -3065,7 +3068,7 @@
   "speculative"
  ],
  "susanne-fredholm": [
-  "speculative"
+  "theory"
  ],
  "bugra-karabey": [
   "art"
@@ -3170,20 +3173,20 @@
   "architecture"
  ],
  "andrea-lavazza": [
-  "speculative"
+  "theory"
  ],
  "nita-farahany": [
-  "speculative"
+  "theory"
  ],
  "national-academies": [
   "science"
  ],
  "karola-kreitmair": [
-  "speculative"
+  "theory"
  ],
  "lomax-boyd": [
-  "science",
-  "speculative"
+  "theory",
+  "science"
  ],
  "jenn-leung": [
   "speculative"
@@ -3252,7 +3255,8 @@
   "art"
  ],
  "emilia-tapprest": [
-  "speculative"
+  "speculative",
+  "art"
  ],
  "samar-khan": [
   "speculative"

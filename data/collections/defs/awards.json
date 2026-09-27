@@ -1,0 +1,146 @@
+[
+  {
+    "id": "biodesign-challenge",
+    "type": "award",
+    "en": "Biodesign Challenge",
+    "zh": "Biodesign Challenge 生物设计挑战赛",
+    "desc_en": "Summit winners and finalists of the Biodesign Challenge (2016–2025), the international competition in which art and design students work with biologists for a year and present at MoMA and Parsons in New York.",
+    "desc_zh": "Biodesign Challenge（2016–2025）峰会的获奖与入围作品。这一国际竞赛让艺术设计学生与生物学家合作一整年，并在纽约 MoMA 和帕森斯设计学院展示成果。",
+    "url": "https://www.biodesignchallenge.org/archive"
+  },
+  {
+    "id": "starts-prize",
+    "type": "award",
+    "en": "S+T+ARTS Prize",
+    "zh": "S+T+ARTS 奖（科学·技术·艺术）",
+    "desc_en": "Bio and more-than-human grand prizes, honorary mentions and nominations of the S+T+ARTS Prize, the European Commission's prize for art–science–technology collaboration run by Ars Electronica since 2016.",
+    "desc_zh": "S+T+ARTS 奖中与生命、生物及“超越人类”相关的大奖、荣誉提名和提名作品。该奖由欧盟委员会设立、自 2016 年起由电子艺术节（Ars Electronica）主办，表彰艺术、科学与技术的合作。",
+    "url": "https://starts-prize.aec.at/en/winners/"
+  },
+  {
+    "id": "james-dyson-award",
+    "type": "award",
+    "en": "James Dyson Award",
+    "zh": "詹姆斯·戴森设计奖",
+    "desc_en": "Bio-based international winners, national winners and runners-up and International Top 20 projects of the James Dyson Award for student designers and engineers.",
+    "desc_zh": "詹姆斯·戴森设计奖中以生物或生物基材料为核心的国际冠军、各国冠军与亚军以及国际 20 强项目。该奖面向学生设计师与工程师。",
+    "url": "https://www.jamesdysonaward.org/"
+  },
+  {
+    "id": "global-change-award",
+    "type": "award",
+    "en": "Global Change Award (H&M Foundation)",
+    "zh": "全球变革奖（H&M 基金会）",
+    "desc_en": "Bio-based and biotech winners of the H&M Foundation's Global Change Award for circular fashion innovation, 2016–2026.",
+    "desc_zh": "H&M 基金会“全球变革奖”（2016–2026）中与生物材料和生物技术相关的获奖项目。该奖表彰循环时尚创新。",
+    "url": "https://hmfoundation.com/gca/winners/"
+  },
+  {
+    "id": "earthshot-prize",
+    "type": "award",
+    "en": "The Earthshot Prize",
+    "zh": "地球奖（The Earthshot Prize）",
+    "desc_en": "Winners and finalists of the Earthshot Prize that work with living organisms, ecosystems or bio-based materials (2021–2024).",
+    "desc_zh": "地球奖（2021–2024）中与活体生物、生态系统或生物基材料合作的获奖与入围项目。",
+    "url": "https://earthshotprize.org/winners-finalists/"
+  },
+  {
+    "id": "index-award",
+    "type": "award",
+    "en": "INDEX: Design to Improve Life Award",
+    "zh": "INDEX“设计改善生活”奖",
+    "desc_en": "Bio-based winners and finalists of the biennial INDEX Award from The Index Project in Copenhagen.",
+    "desc_zh": "哥本哈根 The Index Project 两年一度的 INDEX 奖中以生物为基础的获奖与入围作品。",
+    "url": "https://theindexproject.org/award/winnersandfinalists"
+  },
+  {
+    "id": "beazley-designs-of-the-year",
+    "type": "award",
+    "en": "Beazley Designs of the Year (Design Museum)",
+    "zh": "Beazley 年度设计（伦敦设计博物馆）",
+    "desc_en": "Nominees and winners of the Design Museum London's Beazley Designs of the Year (2019–2020 editions) that work with living organisms or bio-based materials.",
+    "desc_zh": "伦敦设计博物馆 Beazley 年度设计（2019–2020 届）中与活体生物或生物基材料相关的提名与获奖作品。",
+    "url": "https://designmuseum.org/exhibitions/beazley-designs-of-the-year"
+  },
+  {
+    "id": "dezeen-awards",
+    "type": "award",
+    "en": "Dezeen Awards",
+    "zh": "Dezeen 设计奖",
+    "desc_en": "Winners, highly commended and shortlisted bio-based projects of the Dezeen Awards (2019–2025).",
+    "desc_zh": "Dezeen 设计奖（2019–2025）中以生物为基础的获奖、高度推荐和入围项目。",
+    "url": "https://www.dezeen.com/awards/"
+  },
+  {
+    "id": "lexus-design-award",
+    "type": "award",
+    "en": "Lexus Design Award",
+    "zh": "雷克萨斯设计奖",
+    "desc_en": "Bio-based finalists and winners of the Lexus Design Award for emerging designers (2014–2023).",
+    "desc_zh": "雷克萨斯设计奖（2014–2023）中以生物为基础的入围与获奖作品。该奖面向新锐设计师。",
+    "url": "https://discoverlexus.com/stories/lexus-design-award-2023/past-winners"
+  },
+  {
+    "id": "dutch-design-awards",
+    "type": "award",
+    "en": "Dutch Design Awards",
+    "zh": "荷兰设计奖",
+    "desc_en": "Winners and nominees of the Dutch Design Awards (Eindhoven) that design with living organisms, grown materials or other species.",
+    "desc_zh": "荷兰设计奖（埃因霍温）中与活体生物、生长材料或其他物种一起设计的获奖与提名作品。",
+    "url": "https://www.dutchdesignawards.nl/en/archive/"
+  },
+  {
+    "id": "terra-carta-design-lab",
+    "type": "award",
+    "en": "Terra Carta Design Lab",
+    "zh": "Terra Carta 设计实验室",
+    "desc_en": "Bio-based winners and finalists of the Terra Carta Design Lab, the Sustainable Markets Initiative's competition with the Royal College of Art (2022 and 2024 editions).",
+    "desc_zh": "Terra Carta 设计实验室（2022 与 2024 届）中以生物为基础的获奖与入围项目。该竞赛由可持续市场倡议与皇家艺术学院等院校合办。",
+    "url": "https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/"
+  },
+  {
+    "id": "new-material-award",
+    "type": "award",
+    "en": "New Material Award (DOEN Material Prize)",
+    "zh": "新材料奖（DOEN 材料奖）",
+    "desc_en": "Winners, fellows and nominees of the Dutch New Material Award (2014–2018) and its predecessor the DOEN Material Prize (2009–2013) made from plants, fungi, animals, microbes or the human body.",
+    "desc_zh": "荷兰新材料奖（2014–2018）及其前身 DOEN 材料奖（2009–2013）中由植物、真菌、动物、微生物或人体材料制成的获奖、驻留与提名作品。",
+    "url": "https://new-material-award.nl/en/"
+  },
+  {
+    "id": "green-product-award",
+    "type": "award",
+    "en": "Green Product Award & Green Concept Award",
+    "zh": "绿色产品奖与绿色概念奖",
+    "desc_en": "Bio-based winners and finalists of the Berlin-based Green Product Award and its student track, the Green Concept Award (2021–2026).",
+    "desc_zh": "柏林绿色产品奖及其学生赛道绿色概念奖（2021–2026）中以生物为基础的获奖与入围作品。",
+    "url": "https://www.gp-award.com/en/projects"
+  },
+  {
+    "id": "global-grad-show",
+    "type": "exhibition",
+    "en": "Global Grad Show (Dubai Design Week)",
+    "zh": "全球毕业展（迪拜设计周）",
+    "desc_en": "Graduate projects working with living organisms selected for the Global Grad Show at Dubai Design Week (2015–2021).",
+    "desc_zh": "入选迪拜设计周“全球毕业展”（2015–2021）的、与活体生物合作的毕业设计项目。",
+    "url": "https://www.globalgradshow.com"
+  },
+  {
+    "id": "falling-walls-art-science",
+    "type": "award",
+    "en": "Falling Walls Art & Science Breakthroughs",
+    "zh": "Falling Walls 艺术与科学年度突破",
+    "desc_en": "Winners and finalists of the Art & Science category of the Falling Walls Science Breakthroughs of the Year (Berlin) that work with living organisms and ecosystems.",
+    "desc_zh": "柏林 Falling Walls 年度科学突破奖“艺术与科学”类别中，与活体生物和生态系统合作的获奖与入围作品。",
+    "url": "https://falling-walls.com/past-science-breakthroughs/art-science"
+  },
+  {
+    "id": "igem-art-design",
+    "type": "award",
+    "en": "iGEM art & design projects",
+    "zh": "iGEM 艺术与设计项目",
+    "desc_en": "Projects from iGEM, the International Genetically Engineered Machine competition, that approached synthetic biology as design, art or public communication (2009–2014).",
+    "desc_zh": "国际基因工程机器大赛（iGEM，2009–2014）中把合成生物学作为设计、艺术或公共传播来开展的项目。",
+    "url": "https://2015.igem.org/Tracks/Art_Design"
+  }
+]

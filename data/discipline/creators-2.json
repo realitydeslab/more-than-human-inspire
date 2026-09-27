@@ -1,0 +1,758 @@
+{
+  "uniandes-biodesign": [
+    "material"
+  ],
+  "sva-biodesign": [
+    "science"
+  ],
+  "sci-arc-biodesign": [
+    "architecture",
+    "speculative"
+  ],
+  "edinburgh-biodesign": [
+    "speculative"
+  ],
+  "nyu-itp-biodesign": [
+    "speculative"
+  ],
+  "ubc-biodesign": [
+    "product"
+  ],
+  "uc-davis-biodesign": [
+    "material"
+  ],
+  "toledo-biodesign": [
+    "product"
+  ],
+  "nest-makerspace-biodesign": [
+    "product"
+  ],
+  "uts-biodesign": [
+    "speculative"
+  ],
+  "rmit-biodesign": [
+    "product"
+  ],
+  "fit-biodesign": [
+    "fashion"
+  ],
+  "ccs-biodesign": [
+    "material",
+    "speculative"
+  ],
+  "hbbe-biodesign": [
+    "architecture",
+    "speculative"
+  ],
+  "cincinnati-biodesign": [
+    "material"
+  ],
+  "tec-monterrey-biodesign": [
+    "product"
+  ],
+  "nyu-idm-biodesign": [
+    "speculative"
+  ],
+  "kent-state-biodesign": [
+    "material"
+  ],
+  "aalto-biodesign": [
+    "material"
+  ],
+  "saic-biodesign": [
+    "material"
+  ],
+  "parsons-biodesign": [
+    "speculative"
+  ],
+  "robeson-aula-biodesign": [
+    "speculative"
+  ],
+  "mica-biodesign": [
+    "art",
+    "speculative"
+  ],
+  "cca-architecture-biodesign": [
+    "architecture",
+    "material"
+  ],
+  "universidad-del-istmo-biodesign": [
+    "product"
+  ],
+  "ntu-biodesign": [
+    "architecture",
+    "speculative"
+  ],
+  "auburn-biodesign": [
+    "art"
+  ],
+  "mome-biodesign": [
+    "product"
+  ],
+  "easd-castello-biodesign": [
+    "speculative",
+    "material"
+  ],
+  "mcgill-biodesign": [
+    "material",
+    "science"
+  ],
+  "zhdk-biodesign": [
+    "science"
+  ],
+  "upenn-biodesign": [
+    "material"
+  ],
+  "keio-kmd-biodesign": [
+    "fashion",
+    "speculative"
+  ],
+  "macromedia-biodesign": [
+    "speculative"
+  ],
+  "robert-college-biodesign": [
+    "speculative"
+  ],
+  "northeastern-biodesign": [
+    "product"
+  ],
+  "stanford-biodesign": [
+    "material"
+  ],
+  "aula-firsthand-biodesign": [
+    "architecture"
+  ],
+  "tongji-biodesign": [
+    "interaction"
+  ],
+  "liv-bargman": [
+    "material",
+    "speculative"
+  ],
+  "nina-cutler": [
+    "material",
+    "speculative"
+  ],
+  "anna-budnikova": [
+    "architecture",
+    "speculative"
+  ],
+  "marley-townsend": [
+    "art"
+  ],
+  "camila-wandemberg": [
+    "material"
+  ],
+  "zahra-jajarmikhayat": [
+    "material"
+  ],
+  "keer-hu": [
+    "interaction"
+  ],
+  "brad-hakes": [
+    "art"
+  ],
+  "melissa-ortiz": [
+    "product"
+  ],
+  "leo-roth": [
+    "product"
+  ],
+  "jonah-goodman": [
+    "material"
+  ],
+  "karolina-sulich": [
+    "science"
+  ],
+  "etsuko-yakushimaru": [
+    "art"
+  ],
+  "olga-kisseleva": [
+    "art"
+  ],
+  "fluidsolids": [
+    "material"
+  ],
+  "avril-corroon": [
+    "art"
+  ],
+  "sorawut-kittibanthorn": [
+    "food"
+  ],
+  "yuning-chan": [
+    "speculative"
+  ],
+  "joana-moll": [
+    "art"
+  ],
+  "zhang-tianyi": [
+    "art"
+  ],
+  "helena-nikonole": [
+    "art"
+  ],
+  "jakob-kukula": [
+    "interaction"
+  ],
+  "sarah-selby": [
+    "art"
+  ],
+  "cooking-sections": [
+    "art"
+  ],
+  "camila-marambio": [
+    "art"
+  ],
+  "vasily-sitnikov": [
+    "architecture"
+  ],
+  "marina-otero-verzier": [
+    "architecture"
+  ],
+  "marco-barotti": [
+    "art"
+  ],
+  "christopher-bellamy": [
+    "material"
+  ],
+  "erze-dinarama": [
+    "art"
+  ],
+  "paola-torres-nunez-del-prado": [
+    "art"
+  ],
+  "rimini-protokoll": [
+    "art"
+  ],
+  "yumi-sasaki": [
+    "art"
+  ],
+  "amam": [
+    "material"
+  ],
+  "takuma-yamazaki": [
+    "material"
+  ],
+  "sutherlin-santo": [
+    "material"
+  ],
+  "hyunseok-an": [
+    "product"
+  ],
+  "chitofarm": [
+    "product"
+  ],
+  "kyeongho-park": [
+    "product"
+  ],
+  "julian-schwarze": [
+    "product"
+  ],
+  "sheng-hung-lee": [
+    "product"
+  ],
+  "carvey-ehren-maigue": [
+    "science",
+    "material"
+  ],
+  "niamh-damery": [
+    "product"
+  ],
+  "elias-pfuner": [
+    "product"
+  ],
+  "oflow-team": [
+    "science"
+  ],
+  "menlin-ng": [
+    "material"
+  ],
+  "philip-potthast": [
+    "product"
+  ],
+  "izabela-swica": [
+    "material"
+  ],
+  "gabe-tavas": [
+    "material"
+  ],
+  "berta-daina": [
+    "material"
+  ],
+  "microbuild-masonry": [
+    "material"
+  ],
+  "disperseed-team": [
+    "product"
+  ],
+  "divya-verma": [
+    "material"
+  ],
+  "bioteos": [
+    "product"
+  ],
+  "friedrich-gerlach": [
+    "material"
+  ],
+  "cellsense-team": [
+    "material"
+  ],
+  "o-ga-team": [
+    "speculative"
+  ],
+  "eden-harrison": [
+    "architecture"
+  ],
+  "algbio": [
+    "material"
+  ],
+  "carbon-polymerizing-team": [
+    "science"
+  ],
+  "kyran-knauf": [
+    "product"
+  ],
+  "plantpoxy-team": [
+    "material"
+  ],
+  "anton-vervoort": [
+    "product"
+  ],
+  "markos-georgiou": [
+    "material"
+  ],
+  "tak-keung-chan": [
+    "architecture"
+  ],
+  "soilrevive-team": [
+    "science"
+  ],
+  "tjeerd-veenhoven": [
+    "material"
+  ],
+  "orange-fiber": [
+    "material"
+  ],
+  "vegea": [
+    "material"
+  ],
+  "circular-systems": [
+    "material"
+  ],
+  "algaeing": [
+    "material"
+  ],
+  "le-qara": [
+    "material"
+  ],
+  "green-nettle-textile": [
+    "material"
+  ],
+  "galy": [
+    "material"
+  ],
+  "ponda": [
+    "material"
+  ],
+  "plstc": [
+    "material",
+    "science"
+  ],
+  "rubi-laboratories": [
+    "material"
+  ],
+  "alt-tex": [
+    "material"
+  ],
+  "kbcols-sciences": [
+    "material"
+  ],
+  "phycolabs": [
+    "material"
+  ],
+  "brilliant-dyes": [
+    "material"
+  ],
+  "artsilk": [
+    "material",
+    "science"
+  ],
+  "keltex": [
+    "material"
+  ],
+  "microbeworks": [
+    "material"
+  ],
+  "tera-mira": [
+    "material"
+  ],
+  "coral-vita": [
+    "science"
+  ],
+  "sanergy": [
+    "product"
+  ],
+  "yi-zhijian": [
+    "science"
+  ],
+  "phool": [
+    "material"
+  ],
+  "hutan": [
+    "science"
+  ],
+  "lanzatech": [
+    "material",
+    "science"
+  ],
+  "seaforester": [
+    "science"
+  ],
+  "aquacycl": [
+    "science"
+  ],
+  "sea-forest": [
+    "science"
+  ],
+  "coast-4c": [
+    "material"
+  ],
+  "green-spot-technologies": [
+    "food"
+  ],
+  "mycl": [
+    "material"
+  ],
+  "mialgae": [
+    "material"
+  ],
+  "natural-fiber-welding": [
+    "material"
+  ],
+  "naturemetrics": [
+    "science"
+  ],
+  "bios-urn": [
+    "product"
+  ],
+  "greenwave": [
+    "food"
+  ],
+  "sahara-forest-project": [
+    "architecture"
+  ],
+  "seedballs-kenya": [
+    "science"
+  ],
+  "solar-foods": [
+    "food"
+  ],
+  "carbios": [
+    "science"
+  ],
+  "flash-forest": [
+    "science"
+  ],
+  "biomilq": [
+    "food"
+  ],
+  "great-wrap": [
+    "material"
+  ],
+  "junya-ishigami": [
+    "architecture"
+  ],
+  "jan-klingler": [
+    "art"
+  ],
+  "crafting-plastics": [
+    "material"
+  ],
+  "shneel-malik": [
+    "architecture"
+  ],
+  "creme-design": [
+    "product"
+  ],
+  "playfool": [
+    "product"
+  ],
+  "turenscape": [
+    "architecture"
+  ],
+  "monc": [
+    "material"
+  ],
+  "margent-farm": [
+    "material"
+  ],
+  "frank-kolkman": [
+    "product"
+  ],
+  "jelte-van-abbema": [
+    "art"
+  ],
+  "except-integrated-sustainability": [
+    "architecture"
+  ],
+  "studio-makkink-bey": [
+    "architecture",
+    "speculative"
+  ],
+  "omlab": [
+    "product"
+  ],
+  "christien-meindertsma": [
+    "product"
+  ],
+  "zsofia-kollar": [
+    "material"
+  ],
+  "auke-bleij": [
+    "material"
+  ],
+  "bas-emaus": [
+    "material"
+  ],
+  "aerseeds": [
+    "product"
+  ],
+  "shellworks": [
+    "material"
+  ],
+  "primordial-rca": [
+    "material"
+  ],
+  "resting-reef": [
+    "product"
+  ],
+  "home-grown-rca": [
+    "product"
+  ],
+  "weird-ecologies": [
+    "speculative"
+  ],
+  "risd-terra-carta": [
+    "material",
+    "architecture"
+  ],
+  "emma-money": [
+    "material"
+  ],
+  "seagraft-team": [
+    "product"
+  ],
+  "nid-wildwatch": [
+    "interaction"
+  ],
+  "ekaterina-semenova": [
+    "material"
+  ],
+  "sanne-visser": [
+    "material"
+  ],
+  "buro-belen": [
+    "material"
+  ],
+  "ingrid-nijhoff": [
+    "material"
+  ],
+  "aagje-hoekstra": [
+    "material"
+  ],
+  "milo-dool": [
+    "product"
+  ],
+  "nina-van-den-broek": [
+    "material"
+  ],
+  "formafantasma": [
+    "material"
+  ],
+  "lieske-schreuder": [
+    "material"
+  ],
+  "gionata-gatto": [
+    "product"
+  ],
+  "claudy-jongstra": [
+    "art"
+  ],
+  "celestine-briet": [
+    "material"
+  ],
+  "beehaven-team": [
+    "product"
+  ],
+  "peerasin-hutaphaet": [
+    "material"
+  ],
+  "hang-su": [
+    "interaction"
+  ],
+  "kelpi": [
+    "material"
+  ],
+  "sealeo": [
+    "material"
+  ],
+  "foamlab": [
+    "material"
+  ],
+  "julian-buchgraber": [
+    "product",
+    "speculative"
+  ],
+  "alejandro-alfaro": [
+    "material"
+  ],
+  "judith-zbanek": [
+    "material"
+  ],
+  "emily-salvi": [
+    "architecture"
+  ],
+  "joanna-cheng": [
+    "speculative"
+  ],
+  "ye-wen": [
+    "interaction"
+  ],
+  "after-life-team": [
+    "speculative"
+  ],
+  "paolina-kuhr": [
+    "material"
+  ],
+  "living-texcelium-team": [
+    "architecture",
+    "material"
+  ],
+  "lotte-wigman": [
+    "material"
+  ],
+  "arnaud-tantet": [
+    "art"
+  ],
+  "ailton-pereira": [
+    "material"
+  ],
+  "bence-czibik": [
+    "material"
+  ],
+  "jonne-verheij": [
+    "art"
+  ],
+  "monika-brandic-lipinska": [
+    "architecture"
+  ],
+  "boqun-huang": [
+    "fashion"
+  ],
+  "paula-andrea-molina": [
+    "art"
+  ],
+  "jesse-adler": [
+    "material"
+  ],
+  "xuewei-zhao": [
+    "material"
+  ],
+  "annah-sangosanya": [
+    "material"
+  ],
+  "lucrezia-alessandroni": [
+    "product"
+  ],
+  "cinzia-ferrari": [
+    "material"
+  ],
+  "mycomerge-team": [
+    "material"
+  ],
+  "natalia-piorecka": [
+    "material"
+  ],
+  "shonali-shetty": [
+    "material",
+    "speculative"
+  ],
+  "ana-goidea": [
+    "architecture"
+  ],
+  "fergus-telfer": [
+    "material"
+  ],
+  "maurizio-vrenna": [
+    "product"
+  ],
+  "luca-alessandrini": [
+    "art"
+  ],
+  "monica-hartvigsen": [
+    "material"
+  ],
+  "not-a-matter-of-taste": [
+    "material"
+  ],
+  "shaina-garfield": [
+    "material"
+  ],
+  "coral-reef-rescuer-team": [
+    "interaction"
+  ],
+  "cactunes-team": [
+    "interaction"
+  ],
+  "vidhi-mehta": [
+    "science"
+  ],
+  "isidora-correa": [
+    "art"
+  ],
+  "entangled-others": [
+    "art"
+  ],
+  "fara-peluso": [
+    "art"
+  ],
+  "kat-austen": [
+    "art"
+  ],
+  "ana-maria-gomez-lopez": [
+    "art"
+  ],
+  "igem-cambridge": [
+    "science"
+  ],
+  "igem-harvard": [
+    "science"
+  ],
+  "igem-kit-kyoto": [
+    "science"
+  ],
+  "igem-imperial": [
+    "science"
+  ],
+  "igem-nyu-gallatin": [
+    "science"
+  ],
+  "igem-ucl": [
+    "science"
+  ],
+  "igem-cornell": [
+    "science"
+  ],
+  "kazuhito-takadoi": [
+    "art"
+  ],
+  "honoka": [
+    "product"
+  ],
+  "fragmentario": [
+    "material"
+  ],
+  "vollebak": [
+    "fashion"
+  ]
+}

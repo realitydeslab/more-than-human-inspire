@@ -64,6 +64,110 @@
   "batch": "aci"
  },
  {
+  "name": "Post-Anthropocentric Vending Machines in Japan (Keio University, BDC 2022)",
+  "why": "Ginkgo Prize for Biological Futures: microbe-powered vending machines making fermented food; no image or video found.",
+  "link": "https://www.biodesignchallenge.org/keio-university-2022",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "SlimeVolt (SAIC, BDC 2022 top-6)",
+  "why": "Artist-led collaborative putting slime mould and other biological components into electronic systems; no media found.",
+  "link": "https://www.biodesignchallenge.org/saic-2022",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Re-Form (College for Creative Studies, BDC 2021 overall winner)",
+  "why": "Thermoforming film from sugar-beet molasses and spent grain; no project media online.",
+  "link": "https://www.biodesignchallenge.org/ccs-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Dirty Playground (Design Academy Eindhoven, BDC 2021)",
+  "why": "Playground soil designed to build a multi-generational community holobiont; no media.",
+  "link": "https://www.biodesignchallenge.org/designacademy-eindhoven-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "LixiLab (Universidad de los Andes, BDC 2021)",
+  "why": "Soil bioremediation of heavy metals with Lysinibacillus sphaericus CBAM5 for small farms; no media.",
+  "link": "https://www.biodesignchallenge.org/universidad-de-los-andes-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Sub·ver·sive – BioFashion for Black Lives (Spelman College, BDC 2021 runner-up)",
+  "why": "Hoodie with modular biosensors and spider silk; no media.",
+  "link": "https://www.biodesignchallenge.org/spelman-college-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "River Defenders (Ball State, BDC 2021)",
+  "why": "Satirical campaign about militarised invasive-species removal; no media.",
+  "link": "https://www.biodesignchallenge.org/ballstate-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Biotech Paletero Cart (Nest Makerspace, BDC 2021)",
+  "why": "Mobile biotech education lab for a farmworker community; no media.",
+  "link": "https://www.biodesignchallenge.org/nest-makerspace-2021",
+  "found_via": "biodesign-challenge-org",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Brain Processing Unit (SoftBank, Daito Manabe, University of Tokyo)",
+  "why": "S+T+ARTS Prize 2025 honorary mention on brain/computer integration; left to the organoid batch.",
+  "link": "https://ars.electronica.art/starts-prize/en/brain-processing-unit/",
+  "found_via": "etsuko-yakushimaru",
+  "status": "duplicate",
+  "batch": "awards"
+ },
+ {
+  "name": "In-Vitro Intelligent Agents (Guy Ben-Ary, Nathan Thompson)",
+  "why": "Falling Walls Art & Science 2024 finalist with cerebral organoids in robotic bodies; belongs to the organoid batch.",
+  "link": "https://falling-walls.com/vitro-intelligent-agents-ben-arys-thompsons-innovative-synergy",
+  "found_via": "isidora-correa",
+  "status": "duplicate",
+  "batch": "awards"
+ },
+ {
+  "name": "Fast Company Innovation by Design / World Changing Ideas (bio categories)",
+  "why": "Lists load client-side from api.fastcompany.com and returned 403; could not be surveyed without a browser.",
+  "link": "https://www.fastcompany.com/innovation-by-design/list",
+  "found_via": "vollebak",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "LVMH Innovation Award and Kering Generation Award (biomaterials)",
+  "why": "Winner pages returned 404 and web search was unavailable.",
+  "link": "https://www.lvmh.com/",
+  "found_via": "ponda",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
+  "name": "Future Materials Award / MaterialDistrict awards",
+  "why": "No per-winner archive reachable; covered partly by the New Material Award.",
+  "link": "https://materialdistrict.com/",
+  "found_via": "tjeerd-veenhoven",
+  "status": "no_media",
+  "batch": "awards"
+ },
+ {
   "name": "Synthetic Apiary II (Mediated Matter, 2020)",
   "why": "Follow-up to Synthetic Apiary; no stable project page found.",
   "link": "https://www.oxman.com/projects/synthetic-apiary",
@@ -653,6 +757,14 @@
   "link": "https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1351872.html",
   "found_via": "symbiotica-residency",
   "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Fara Peluso",
+  "why": "Algae works 'Viva', 'WEA Reactor', 'Niche' (ALB 2019–20)",
+  "link": "https://artlaboratory-berlin.org/exhibitions/watery-ecologies/",
+  "found_via": "art-laboratory-berlin",
+  "status": "covered",
   "batch": "exhibitions"
  },
  {
