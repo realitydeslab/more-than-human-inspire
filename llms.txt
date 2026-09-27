@@ -1,6 +1,6 @@
 # More than Human Inspire
 
-> A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
+> A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, Animal–Computer Interaction and Human–Nature Interaction: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
 490 creators, 743 works (More-than-Human Design (168), Bio Design (189), Human × Biocomputing (219), Organoid Computing Design (58), Animal–Computer Interaction (51), Human–Nature Interaction (58)), 439 with papers, updated 2026-09-27. Bilingual (English / Simplified Chinese).
 

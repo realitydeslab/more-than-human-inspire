@@ -8,7 +8,8 @@ SITE = "https://morethanhuman.reality.design"
 T = {
     "en": {
         "title": "More than Human Inspire — catalog",
-        "intro": ("A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: "
+        "intro": ("A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, "
+                  "Animal–Computer Interaction and Human–Nature Interaction: "
                   "papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. "
                   "Each work lists its core idea, how it works, and links to its paper, video and images."),
         "how": "How an AI assistant should use this file",
@@ -24,7 +25,7 @@ T = {
     },
     "zh": {
         "title": "More than Human Inspire — 作品目录",
-        "intro": ("超越人类的设计、生物设计、人类 × 生物计算与类器官计算设计的作品目录：论文、研究原型、艺术作品和产品，"
+        "intro": ("超越人类的设计、生物设计、人类 × 生物计算、类器官计算设计、动物-计算机交互与人与自然交互的作品目录：论文、研究原型、艺术作品和产品，"
                   "由 Reality Design Lab 整理，作为设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。"),
         "how": "AI 助手应如何使用这个文件",
         "how_items": [
