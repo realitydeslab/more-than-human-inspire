@@ -24723,5 +24723,2351 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "video:youtube:l_QRBlxyFIY": {
+  "url": "https://www.youtube.com/watch?v=l_QRBlxyFIY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "l_QRBlxyFIY",
+  "title": "bel air lehanneur robillard",
+  "author": "crumpple",
+  "thumbnail": "https://i.ytimg.com/vi/l_QRBlxyFIY/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/BelAir/PAV18.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/BelAir/PAV18.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/OOxygenGenerator/OhiRes.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/OOxygenGenerator/OhiRes.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:wQDUxDBJc94": {
+  "url": "https://www.youtube.com/watch?v=wQDUxDBJc94",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wQDUxDBJc94",
+  "title": "WHAT IF... Domestic ecosystems produced our food?... Local River, by Mathieu Lehanneur",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/wQDUxDBJc94/hqdefault.jpg"
+ },
+ "video:youtube:mVrgztn6sfU": {
+  "url": "https://www.youtube.com/watch?v=mVrgztn6sfU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mVrgztn6sfU",
+  "title": "WHAT IF...Human tissue could be used to make objects?",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/mVrgztn6sfU/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/Biojewellery/biojewellery1.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/Biojewellery/biojewellery1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xmqHnBp8odg": {
+  "url": "https://www.youtube.com/watch?v=xmqHnBp8odg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xmqHnBp8odg",
+  "title": "WHAT IF...Meat could be grown in laboratories without harming animals?",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/xmqHnBp8odg/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/DressingtheMeatofTomorrow/JamesKingDressingtheMeatofTomorrow.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/DressingtheMeatofTomorrow/JamesKingDressingtheMeatofTomorrow.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioBunny/mybioglowingrabbit.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioBunny/mybioglowingrabbit.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioSpiderGoat/mybiospidergoat.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioSpiderGoat/mybiospidergoat.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioreactorCow/mybiobioreactor.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MyBioreactorCow/mybiobioreactor.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:7aVSMA1rylY": {
+  "url": "https://www.youtube.com/watch?v=7aVSMA1rylY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7aVSMA1rylY",
+  "title": "Made in Transit by Agata Jaworska and Seton Beggs",
+  "author": "Debra Solomon van Culiblog dot org",
+  "thumbnail": "https://i.ytimg.com/vi/7aVSMA1rylY/hqdefault.jpg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MushroomGrowthPackaging/mitpinkyellowoysters2.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MushroomGrowthPackaging/mitpinkyellowoysters2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MushroomGrowthPackaging/mityellowoystersside.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/MushroomGrowthPackaging/mityellowoystersside.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/Nanotopia/Nanotopia.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/Nanotopia/Nanotopia.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/TheRace/fingernails400.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/TheRace/fingernails400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg": {
+  "url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:0r08iXfJ-CM": {
+  "url": "https://www.youtube.com/watch?v=0r08iXfJ-CM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0r08iXfJ-CM",
+  "title": "TOTOMOXTLE - Biomaterial made from Mexican heirloom Corn husks.",
+  "author": "Fernando Laposse",
+  "thumbnail": "https://i.ytimg.com/vi/0r08iXfJ-CM/hqdefault.jpg"
+ },
+ "video:vimeo:606429490": {
+  "url": "https://vimeo.com/606429490",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "606429490",
+  "embeddable": true,
+  "title": "Think Evolution #1 : Kiku-ishi(Ammonite)",
+  "thumbnail": "https://i.vimeocdn.com/video/1243035423-7297a266e2d5ff8a71822ac4b837248c1676502f13639ecc43dfd1617385fef6-d?f=webp&region=us"
+ },
+ "img:https://www.aki-inomata.com/shared/img/works/07/07-01.jpg": {
+  "url": "https://www.aki-inomata.com/shared/img/works/07/07-01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.aki-inomata.com/shared/img/works/07/07-02.jpg": {
+  "url": "https://www.aki-inomata.com/shared/img/works/07/07-02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:bm1JzokM2Rk": {
+  "url": "https://www.youtube.com/watch?v=bm1JzokM2Rk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bm1JzokM2Rk",
+  "title": "A generative lung-mimicking design via collaboration with Nervous System",
+  "author": "Jordan Miller",
+  "thumbnail": "https://i.ytimg.com/vi/bm1JzokM2Rk/hqdefault.jpg"
+ },
+ "video:youtube:AzWBxccuIkI": {
+  "url": "https://www.youtube.com/watch?v=AzWBxccuIkI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AzWBxccuIkI",
+  "title": "Living Seawalls",
+  "author": "University of Plymouth",
+  "thumbnail": "https://i.ytimg.com/vi/AzWBxccuIkI/hqdefault.jpg"
+ },
+ "img:http://static1.squarespace.com/static/60efa1626de4b55189f0d735/t/6142edad5c600c24b6cea0db/1631776173367/E_St3fiUcAQsFi3.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/60efa1626de4b55189f0d735/t/6142edad5c600c24b6cea0db/1631776173367/E_St3fiUcAQsFi3.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:S4C4zKv1oh4": {
+  "url": "https://www.youtube.com/watch?v=S4C4zKv1oh4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "S4C4zKv1oh4",
+  "title": "Mischer'Traxler's interactive Curiosity Cloud installation is \"like being in a dream\"",
+  "author": "Dezeen",
+  "thumbnail": "https://i.ytimg.com/vi/S4C4zKv1oh4/hqdefault.jpg"
+ },
+ "img:https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg": {
+  "url": "https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg": {
+  "url": "https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:z7Idwk13RwQ": {
+  "url": "https://www.youtube.com/watch?v=z7Idwk13RwQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "z7Idwk13RwQ",
+  "title": "Science & Art Cabaret 23.5: Sam Van Aken - Tree of 40 Fruit",
+  "author": "Hallwalls Contemporary Arts Center",
+  "thumbnail": "https://i.ytimg.com/vi/z7Idwk13RwQ/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tree_of_40_Fruit_at_Syracuse_University.jpg/1280px-Tree_of_40_Fruit_at_Syracuse_University.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tree_of_40_Fruit_at_Syracuse_University.jpg/1280px-Tree_of_40_Fruit_at_Syracuse_University.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:_7rS_d1fiUc": {
+  "url": "https://www.youtube.com/watch?v=_7rS_d1fiUc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_7rS_d1fiUc",
+  "title": "Jae Rhim Lee: My mushroom burial suit",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/_7rS_d1fiUc/hqdefault.jpg"
+ },
+ "video:youtube:FQ3VgB_eaC0": {
+  "url": "https://www.youtube.com/watch?v=FQ3VgB_eaC0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FQ3VgB_eaC0",
+  "title": "Biomess",
+  "author": "Art Gallery Western Australia",
+  "thumbnail": "https://i.ytimg.com/vi/FQ3VgB_eaC0/hqdefault.jpg"
+ },
+ "video:youtube:2DoxcOrexJA": {
+  "url": "https://www.youtube.com/watch?v=2DoxcOrexJA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2DoxcOrexJA",
+  "title": "Bamboo Theatre, Hengkeng Village, China by DnA_Design and Architecture (2015)",
+  "author": "ArchDaily",
+  "thumbnail": "https://i.ytimg.com/vi/2DoxcOrexJA/hqdefault.jpg"
+ },
+ "video:youtube:tWPiG1bRmt0": {
+  "url": "https://www.youtube.com/watch?v=tWPiG1bRmt0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tWPiG1bRmt0",
+  "title": "FILM  | Into the Island",
+  "author": "CCAchannel",
+  "thumbnail": "https://i.ytimg.com/vi/tWPiG1bRmt0/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623663360237-U9EQRYJQOC0F73EE56U8/Studio+Ossidiana_200821_546_s.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623663360237-U9EQRYJQOC0F73EE56U8/Studio+Ossidiana_200821_546_s.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624384893641-JDP2787MPKP2Y36CUM97/Variations+on+a+Birdcage_overall.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624384893641-JDP2787MPKP2Y36CUM97/Variations+on+a+Birdcage_overall.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:pVZCkespal8": {
+  "url": "https://www.youtube.com/watch?v=pVZCkespal8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pVZCkespal8",
+  "title": "Arkkitehtuuria ihmistä laajemmassa maailmassa - Elina Koivisto ja Maiju Suomi",
+  "author": "Aalto University",
+  "thumbnail": "https://i.ytimg.com/vi/pVZCkespal8/hqdefault.jpg"
+ },
+ "img:https://designmuseum.org/image/6a9f9a8b-a5cd-4d8d-be5a-f72b811c4a41?width=1200": {
+  "url": "https://designmuseum.org/image/6a9f9a8b-a5cd-4d8d-be5a-f72b811c4a41?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/3bfbd7_bc4ab2e27a1a4d8bb20f172af98003a1~mv2.jpeg": {
+  "url": "https://static.wixstatic.com/media/3bfbd7_bc4ab2e27a1a4d8bb20f172af98003a1~mv2.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.54916/rae.142537": {
+  "doi": "10.54916/rae.142537",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring Ecological Relationality Through Architectural Practice",
+  "year": 2024,
+  "venue": "Research in Arts and Education",
+  "url": "https://doi.org/10.54916/rae.142537"
+ },
+ "video:youtube:mSYeKlTTSTU": {
+  "url": "https://www.youtube.com/watch?v=mSYeKlTTSTU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mSYeKlTTSTU",
+  "title": "Behind the scenes: ‘Living Breakwaters’ by 2023 OBEL AWARD winner SCAPE",
+  "author": "STIR",
+  "thumbnail": "https://i.ytimg.com/vi/mSYeKlTTSTU/hqdefault.jpg"
+ },
+ "img:https://www.scapestudio.com/images/LBW_4000_01_2.jpg?w=2000": {
+  "url": "https://www.scapestudio.com/images/LBW_4000_01_2.jpg?w=2000",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://parsonscharlesworth.com/wp-content/uploads/2022/11/MultispeciesInc_ParsonsCharlesworth_1440.jpg": {
+  "url": "https://parsonscharlesworth.com/wp-content/uploads/2022/11/MultispeciesInc_ParsonsCharlesworth_1440.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:b4XNXcHoVuU": {
+  "url": "https://www.youtube.com/watch?v=b4XNXcHoVuU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "b4XNXcHoVuU",
+  "title": "Micrographia – Redesign for Biodiversity | Studio Johanna Seelemann x Park Associati | MDW2024",
+  "author": "Park Associati",
+  "thumbnail": "https://i.ytimg.com/vi/b4XNXcHoVuU/hqdefault.jpg"
+ },
+ "video:youtube:29y1NB6ELao": {
+  "url": "https://www.youtube.com/watch?v=29y1NB6ELao",
+  "ok": true,
+  "platform": "youtube",
+  "id": "29y1NB6ELao",
+  "title": "Artist Talk: Ant Farm's Dolphin Embassy",
+  "author": "Mishkin Gallery",
+  "thumbnail": "https://i.ytimg.com/vi/29y1NB6ELao/hqdefault.jpg"
+ },
+ "img:https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200": {
+  "url": "https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/a074dfd2-ff00-4bff-aaa2-aa0e6600eadc?width=1200": {
+  "url": "https://designmuseum.org/image/a074dfd2-ff00-4bff-aaa2-aa0e6600eadc?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/a2c2789e-dd51-4f82-b4c8-a2b5a2a5dd9e?width=1200": {
+  "url": "https://designmuseum.org/image/a2c2789e-dd51-4f82-b4c8-a2b5a2a5dd9e?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designmuseum.org/image/7cc707d8-eb0f-46e1-b07c-de714e9eaabf?width=1200": {
+  "url": "https://designmuseum.org/image/7cc707d8-eb0f-46e1-b07c-de714e9eaabf?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:J-NLr6jk1NQ": {
+  "url": "https://www.youtube.com/watch?v=J-NLr6jk1NQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "J-NLr6jk1NQ",
+  "title": "(Re)wilding the City: Marlène Huissoud, Artist",
+  "author": "Arup",
+  "thumbnail": "https://i.ytimg.com/vi/J-NLr6jk1NQ/hqdefault.jpg"
+ },
+ "video:youtube:-VVtSP6bxoI": {
+  "url": "https://www.youtube.com/watch?v=-VVtSP6bxoI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-VVtSP6bxoI",
+  "title": "The Coast is Not a Line, It's a Zone",
+  "author": "Feifei Zhou",
+  "thumbnail": "https://i.ytimg.com/vi/-VVtSP6bxoI/hqdefault.jpg"
+ },
+ "img:https://designmuseum.org/image/4e4ed825-44d0-40d6-b9d7-9d325d381080?width=1200": {
+  "url": "https://designmuseum.org/image/4e4ed825-44d0-40d6-b9d7-9d325d381080?width=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/marin_sawa.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/marin_sawa.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/AlgaeBioreactors.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/AlgaeBioreactors.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/6phil_ross.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/6phil_ross.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/09/000626-760x1140.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/09/000626-760x1140.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/mosstable-760x1055.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/mosstable-760x1055.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/Mosstesting.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/Mosstesting.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:gziMMzIcIK8": {
+  "url": "https://www.youtube.com/watch?v=gziMMzIcIK8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gziMMzIcIK8",
+  "title": "Tomáš Gabzdil Libertíny: The Honeycomb Vase „made by bees“ - Národná cena za dizajn 2017",
+  "author": "Slovenské centrum dizajnu",
+  "thumbnail": "https://i.ytimg.com/vi/gziMMzIcIK8/hqdefault.jpg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/beevase-760x558.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/beevase-760x558.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/09/000635.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/09/000635.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/09/000553.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/09/000553.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/09/0009832.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/09/0009832.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/10_Packaging_Creates_Contents_1-760x506.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/10_Packaging_Creates_Contents_1-760x506.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/11_Packaging_Creates_Contents_2.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/11_Packaging_Creates_Contents_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/ef9219dc-1ff4-4840-bade-7c7e13850a03/Gen2_Seat_05%2B06-header.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/ef9219dc-1ff4-4840-bade-7c7e13850a03/Gen2_Seat_05%2B06-header.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/MIA_and_CHAIR_ALL_01.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/MIA_and_CHAIR_ALL_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:45504767": {
+  "url": "https://vimeo.com/45504767",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "45504767",
+  "embeddable": true,
+  "title": "Bio-Computation",
+  "thumbnail": "https://i.vimeocdn.com/video/316479599-08549e01a3db8e59cd1a6df7aaaf7454b2bfd9342a0e2cc657a29c07bc56ac54-d?f=webp&region=us"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/06-The-Living-Bio-Computation.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/06-The-Living-Bio-Computation.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/04-The-Living-Bio-Computation-760x499.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/04-The-Living-Bio-Computation-760x499.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/Seasons-of-the-Void-catalog-Fruit-760x541.png": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/Seasons-of-the-Void-catalog-Fruit-760x541.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/Seasons-of-the-Void-catalog-Journey-760x411.png": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/Seasons-of-the-Void-catalog-Journey-760x411.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:XomQ2nkQ20Q": {
+  "url": "https://www.youtube.com/watch?v=XomQ2nkQ20Q",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XomQ2nkQ20Q",
+  "title": "Vincent Fournier - Post Natural History | La Galerie",
+  "author": "La Galerie Paris 1839",
+  "thumbnail": "https://i.ytimg.com/vi/XomQ2nkQ20Q/hqdefault.jpg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/03/post-natural-history-1.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/03/post-natural-history-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/RoboticJellyfish-760x547.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/RoboticJellyfish-760x547.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/NanomagneticPlants03-760x535.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/NanomagneticPlants03-760x535.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/NanomagneticPlants05.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/NanomagneticPlants05.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/03/CactusProject42_42-760x895.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/03/CactusProject42_42-760x895.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/ChristianKerrigan04-760x570.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/ChristianKerrigan04-760x570.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Pim77yCOwX4": {
+  "url": "https://www.youtube.com/watch?v=Pim77yCOwX4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Pim77yCOwX4",
+  "title": "Materials researcher Shamees Aden explains how running shoes could one day be made of living cells",
+  "author": "Dezeen",
+  "thumbnail": "https://i.ytimg.com/vi/Pim77yCOwX4/hqdefault.jpg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/ShameesAden1.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/ShameesAden1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/ShameesAden-760x506.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/ShameesAden-760x506.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/03/IM_TROIKA_PLANT_FICTION_Selfeaterjpg-760x796.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/03/IM_TROIKA_PLANT_FICTION_Selfeaterjpg-760x796.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/03/DSC_9177SkinSucka-760x501.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/03/DSC_9177SkinSucka-760x501.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/DSC_8994_SkinSucka.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/DSC_8994_SkinSucka.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/eskin.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/eskin.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:vimeo:64243284": {
+  "url": "https://vimeo.com/64243284",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "64243284",
+  "embeddable": true,
+  "title": "&#x27;The Plasmorph - Living Information&#x27; for En Vie / Alive, Paris 2013",
+  "thumbnail": "https://i.vimeocdn.com/video/434820285-5feac3a06f671cc5c1f63a2735de28513d99b8776c7ab3f514ad208464f5d883-d?f=webp&region=us"
+ },
+ "img:http://thisisalive.com/wp-content/uploads/2013/04/BotanicalFabrication_Electronic-Products.jpg": {
+  "url": "http://thisisalive.com/wp-content/uploads/2013/04/BotanicalFabrication_Electronic-Products.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fbananabacteria00.jpg?alt=media&token=cf5d32d3-04d9-4a62-aa2b-886e3ebef0e4": {
+  "url": "https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fbananabacteria00.jpg?alt=media&token=cf5d32d3-04d9-4a62-aa2b-886e3ebef0e4",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:GXjq_1Jd8a0": {
+  "url": "https://www.youtube.com/watch?v=GXjq_1Jd8a0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GXjq_1Jd8a0",
+  "title": "The New Weathermen as part of GROW YOUR OWN... at Science Gallery",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/GXjq_1Jd8a0/hqdefault.jpg"
+ },
+ "img:https://davidbenque.com/projects/the-new-weathermen/cover.jpg": {
+  "url": "https://davidbenque.com/projects/the-new-weathermen/cover.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:uSw60KwHWxo": {
+  "url": "https://www.youtube.com/watch?v=uSw60KwHWxo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uSw60KwHWxo",
+  "title": "All That I Am as part of GROW YOUR OWN... at Science Gallery",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/uSw60KwHWxo/hqdefault.jpg"
+ },
+ "video:youtube:UBVejRz4PW0": {
+  "url": "https://www.youtube.com/watch?v=UBVejRz4PW0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UBVejRz4PW0",
+  "title": "Blighted By Kenning- Apples Infected with Knowledge",
+  "author": "Nitsan Debbi",
+  "thumbnail": "https://i.ytimg.com/vi/UBVejRz4PW0/hqdefault.jpg"
+ },
+ "video:youtube:2zgs-5TL3mc": {
+  "url": "https://www.youtube.com/watch?v=2zgs-5TL3mc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2zgs-5TL3mc",
+  "title": "Zero Park as part of GROW YOUR OWN... at Science Gallery",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/2zgs-5TL3mc/hqdefault.jpg"
+ },
+ "video:youtube:G3DRmqlphGQ": {
+  "url": "https://www.youtube.com/watch?v=G3DRmqlphGQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "G3DRmqlphGQ",
+  "title": "The Mechanism of Life - After Stéphane Leduc as part of GROW YOUR OWN... at Science Gallery",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/G3DRmqlphGQ/hqdefault.jpg"
+ },
+ "video:youtube:Vx4uoBAPHBU": {
+  "url": "https://www.youtube.com/watch?v=Vx4uoBAPHBU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Vx4uoBAPHBU",
+  "title": "Hack the Root",
+  "author": "Royal Institute of British Architects",
+  "thumbnail": "https://i.ytimg.com/vi/Vx4uoBAPHBU/hqdefault.jpg"
+ },
+ "video:youtube:Z8Lu6SN6ly4": {
+  "url": "https://www.youtube.com/watch?v=Z8Lu6SN6ly4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Z8Lu6SN6ly4",
+  "title": "Growing Shoes by Kristel Peters",
+  "author": "cojak, make your mark.",
+  "thumbnail": "https://i.ytimg.com/vi/Z8Lu6SN6ly4/hqdefault.jpg"
+ },
+ "video:youtube:bM0ce_eLZEw": {
+  "url": "https://www.youtube.com/watch?v=bM0ce_eLZEw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bM0ce_eLZEw",
+  "title": "Ghost Camp",
+  "author": "Mycological Twist",
+  "thumbnail": "https://i.ytimg.com/vi/bM0ce_eLZEw/hqdefault.jpg"
+ },
+ "video:youtube:edC9s3Hx9wU": {
+  "url": "https://www.youtube.com/watch?v=edC9s3Hx9wU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "edC9s3Hx9wU",
+  "title": "Half Life Lamp 2010",
+  "author": "Joris Laarman Lab",
+  "thumbnail": "https://i.ytimg.com/vi/edC9s3Hx9wU/hqdefault.jpg"
+ },
+ "img:https://www.jorislaarman.com/wp-content/uploads/2015/11/half-life-web-5.jpg": {
+  "url": "https://www.jorislaarman.com/wp-content/uploads/2015/11/half-life-web-5.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:YHtBWkvpzws": {
+  "url": "https://www.youtube.com/watch?v=YHtBWkvpzws",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YHtBWkvpzws",
+  "title": "Semi-human vase",
+  "author": "TU Eindhoven",
+  "thumbnail": "https://i.ytimg.com/vi/YHtBWkvpzws/hqdefault.jpg"
+ },
+ "video:youtube:kpr7QXN5vyA": {
+  "url": "https://www.youtube.com/watch?v=kpr7QXN5vyA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kpr7QXN5vyA",
+  "title": "Capacity for (urban eden, human error)",
+  "author": "Andres Posada",
+  "thumbnail": "https://i.ytimg.com/vi/kpr7QXN5vyA/hqdefault.jpg"
+ },
+ "video:youtube:qasR0oHCRwA": {
+  "url": "https://www.youtube.com/watch?v=qasR0oHCRwA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qasR0oHCRwA",
+  "title": "Habitáculos Orgánicos: una posible arquitectura orgánica para microorganismos",
+  "author": "Gabriela Munguía",
+  "thumbnail": "https://i.ytimg.com/vi/qasR0oHCRwA/hqdefault.jpg"
+ },
+ "video:youtube:Xcdx2R9iS5M": {
+  "url": "https://www.youtube.com/watch?v=Xcdx2R9iS5M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Xcdx2R9iS5M",
+  "title": "Pink Chicken Project",
+  "author": "Nonhuman Nonsense",
+  "thumbnail": "https://i.ytimg.com/vi/Xcdx2R9iS5M/hqdefault.jpg"
+ },
+ "video:youtube:LavMzNPgC0k": {
+  "url": "https://www.youtube.com/watch?v=LavMzNPgC0k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LavMzNPgC0k",
+  "title": "Jen Bervin Presents \"The Silk Poems\" at the 2015 Creative Capital Retreat",
+  "author": "Creative Capital Foundation ",
+  "thumbnail": "https://i.ytimg.com/vi/LavMzNPgC0k/hqdefault.jpg"
+ },
+ "video:youtube:POl5Y-xN_X4": {
+  "url": "https://www.youtube.com/watch?v=POl5Y-xN_X4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "POl5Y-xN_X4",
+  "title": "Algae-powered thermometer",
+  "author": "Lumot",
+  "thumbnail": "https://i.ytimg.com/vi/POl5Y-xN_X4/hqdefault.jpg"
+ },
+ "video:youtube:KXpmX7zaCiU": {
+  "url": "https://www.youtube.com/watch?v=KXpmX7zaCiU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KXpmX7zaCiU",
+  "title": "ZOE - A LIVING SEA SCULPTURE",
+  "author": "Colleen Flanigan",
+  "thumbnail": "https://i.ytimg.com/vi/KXpmX7zaCiU/hqdefault.jpg"
+ },
+ "video:youtube:9yy4EWbRO3E": {
+  "url": "https://www.youtube.com/watch?v=9yy4EWbRO3E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9yy4EWbRO3E",
+  "title": "Trailer - Bistro in Vitro",
+  "author": "Submarine Channel",
+  "thumbnail": "https://i.ytimg.com/vi/9yy4EWbRO3E/hqdefault.jpg"
+ },
+ "video:youtube:gVk_Vw1C7cs": {
+  "url": "https://www.youtube.com/watch?v=gVk_Vw1C7cs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gVk_Vw1C7cs",
+  "title": "Rayfish Footwear - Grow Your Own Sneaker",
+  "author": "RayfishFootwear",
+  "thumbnail": "https://i.ytimg.com/vi/gVk_Vw1C7cs/hqdefault.jpg"
+ },
+ "img:https://images.prismic.io/wellcomecollection/1d26c04b-589d-42d0-a750-c9962c6793af_EP_001764_018_Large.jpg": {
+  "url": "https://images.prismic.io/wellcomecollection/1d26c04b-589d-42d0-a750-c9962c6793af_EP_001764_018_Large.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.prismic.io/wellcomecollection/69f8843c-1ebf-456e-8ba3-e8e8766bf57e_EP_001764_010_Large.jpg": {
+  "url": "https://images.prismic.io/wellcomecollection/69f8843c-1ebf-456e-8ba3-e8e8766bf57e_EP_001764_010_Large.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:urSr7dh4l0A": {
+  "url": "https://www.youtube.com/watch?v=urSr7dh4l0A",
+  "ok": true,
+  "platform": "youtube",
+  "id": "urSr7dh4l0A",
+  "title": "GALERIJA KAPELICA: MAJA SMREKAR / K-9_TOPOLOGY: ECCE CANIS",
+  "author": "SODOBNA UMETNOST / CONTEMPORARY ART",
+  "thumbnail": "https://i.ytimg.com/vi/urSr7dh4l0A/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/K-9_topology_booklet-53.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/K-9_topology_booklet-53.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_IMG_941396.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_IMG_941396.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:4871rINIAeQ": {
+  "url": "https://www.youtube.com/watch?v=4871rINIAeQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4871rINIAeQ",
+  "title": "Primate Cinema: Apes as Family (trailer) / BIEFF 2013",
+  "author": "BIEFF",
+  "thumbnail": "https://i.ytimg.com/vi/4871rINIAeQ/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:a07QOTzpZxQ": {
+  "url": "https://www.youtube.com/watch?v=a07QOTzpZxQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "a07QOTzpZxQ",
+  "title": "1000 Handshakes: Mapping the Microbes Between Us (#1)",
+  "author": "Medical Museion",
+  "thumbnail": "https://i.ytimg.com/vi/a07QOTzpZxQ/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/04/SL_DSC_0412.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/04/SL_DSC_0412.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_20160419_Art_Lab_0068.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_20160419_Art_Lab_0068.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:k8g7DlDpeic": {
+  "url": "https://www.youtube.com/watch?v=k8g7DlDpeic",
+  "ok": true,
+  "platform": "youtube",
+  "id": "k8g7DlDpeic",
+  "title": "GALERIJA KAPELICA: VIVIAN XU: THE SILKWORM PROJECT",
+  "author": "SODOBNA UMETNOST / CONTEMPORARY ART",
+  "thumbnail": "https://i.ytimg.com/vi/k8g7DlDpeic/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/04/SL_201914Jul_ArtLab__0028.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/04/SL_201914Jul_ArtLab__0028.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SL_03-scaled.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SL_03-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SL-IMG_20200124_182446.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SL-IMG_20200124_182446.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/11/ANTI-MARTA__20211029-_62B1711-s20.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/11/ANTI-MARTA__20211029-_62B1711-s20.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:vxpwYC6yTS8": {
+  "url": "https://www.youtube.com/watch?v=vxpwYC6yTS8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vxpwYC6yTS8",
+  "title": "GALERIJA KAPELICA: ŠPELA PETRIČ / STRANGE ENCOUNTERS: METAPHYSIC, ALGAE and CARCINOMA",
+  "author": "SODOBNA UMETNOST / CONTEMPORARY ART",
+  "thumbnail": "https://i.ytimg.com/vi/vxpwYC6yTS8/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/Add__SL_170119-_110_top_slider_K.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/Add__SL_170119-_110_top_slider_K.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0054.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0054.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/GOOD_Opening_PSY-Visitor-1_Foto-Tursic.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/GOOD_Opening_PSY-Visitor-1_Foto-Tursic.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0947.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0947.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:RtxmJPxQegw": {
+  "url": "https://www.youtube.com/watch?v=RtxmJPxQegw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "RtxmJPxQegw",
+  "title": "GALERIJA KAPELICA: SAŠA SPAČAL in MIRJAN ŠVAGELJ: Meta_bolus",
+  "author": "SODOBNA UMETNOST / CONTEMPORARY ART",
+  "thumbnail": "https://i.ytimg.com/vi/RtxmJPxQegw/hqdefault.jpg"
+ },
+ "video:youtube:kzoqrzUeYBs": {
+  "url": "https://www.youtube.com/watch?v=kzoqrzUeYBs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kzoqrzUeYBs",
+  "title": "GALERIJA KAPELICA: CHARLOTTE JARVIS / ET IN ARCADIA EGO",
+  "author": "SODOBNA UMETNOST / CONTEMPORARY ART",
+  "thumbnail": "https://i.ytimg.com/vi/kzoqrzUeYBs/hqdefault.jpg"
+ },
+ "video:youtube:9lJU5zAdOTI": {
+  "url": "https://www.youtube.com/watch?v=9lJU5zAdOTI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9lJU5zAdOTI",
+  "title": "HOST_NIGEL HELYER",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/9lJU5zAdOTI/hqdefault.jpg"
+ },
+ "video:youtube:Bdnb4U7eP_k": {
+  "url": "https://www.youtube.com/watch?v=Bdnb4U7eP_k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Bdnb4U7eP_k",
+  "title": "CRYOBOOK ARCHIVES_TAGNY DUFF",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/Bdnb4U7eP_k/hqdefault.jpg"
+ },
+ "video:youtube:rXogCaax954": {
+  "url": "https://www.youtube.com/watch?v=rXogCaax954",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rXogCaax954",
+  "title": "ORLAN- Harlequin Coat 2008 Reportage",
+  "author": "ORLAN",
+  "thumbnail": "https://i.ytimg.com/vi/rXogCaax954/hqdefault.jpg"
+ },
+ "img:https://cms.waag.org/sites/waag/files/styles/1200x630/public/2024-10/spela_glue_tomatoes_lndwstudio.jpg": {
+  "url": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2024-10/spela_glue_tomatoes_lndwstudio.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/5715d7b53ee3ee65f3000000/standard__DSC3034.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/5715d7b53ee3ee65f3000000/standard__DSC3034.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/5715d7b53ee3ee65f3000001/standard__DSC3041.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/5715d7b53ee3ee65f3000001/standard__DSC3041.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/582971c13ee3ee126545f835/standard_FlyPrinter_Nikolaj.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/582971c13ee3ee126545f835/standard_FlyPrinter_Nikolaj.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/57320fd83ee3ee43a0f00808/standard_02.225_still_5_.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/57320fd83ee3ee43a0f00808/standard_02.225_still_5_.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/56dfec403ee3ee23ee000005/standard_Lindstrom_Stahl.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/56dfec403ee3ee23ee000005/standard_Lindstrom_Stahl.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/572b46463ee3ee4b0800000d/standard__DSC3099.jpg": {
+  "url": "https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/572b46463ee3ee4b0800000d/standard__DSC3099.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:2jqxx2R1Z4s": {
+  "url": "https://www.youtube.com/watch?v=2jqxx2R1Z4s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2jqxx2R1Z4s",
+  "title": "Biennale Architettura 2021 - The Living",
+  "author": "BiennaleChannel",
+  "thumbnail": "https://i.ytimg.com/vi/2jqxx2R1Z4s/hqdefault.jpg"
+ },
+ "img:https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/the_living_biennale_architettura_2021_.jpg?itok=SCsQmvHh": {
+  "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/the_living_biennale_architettura_2021_.jpg?itok=SCsQmvHh",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:xQReQhF4Gvc": {
+  "url": "https://www.youtube.com/watch?v=xQReQhF4Gvc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "xQReQhF4Gvc",
+  "title": "The Magic Queen",
+  "author": "ABB Robotics",
+  "thumbnail": "https://i.ytimg.com/vi/xQReQhF4Gvc/hqdefault.jpg"
+ },
+ "img:https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/maeid_biennale_architettura_2021.jpg?itok=MRSeTRk2": {
+  "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/maeid_biennale_architettura_2021.jpg?itok=MRSeTRk2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:qne3zmzhj1k": {
+  "url": "https://www.youtube.com/watch?v=qne3zmzhj1k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qne3zmzhj1k",
+  "title": "doxiadis+ Entangled Kingdoms - 2021 Venice Architectural Biennale",
+  "author": "doxiadis+",
+  "thumbnail": "https://i.ytimg.com/vi/qne3zmzhj1k/hqdefault.jpg"
+ },
+ "img:https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/doxiadis.jpg?itok=4yW5i6eJ": {
+  "url": "https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/doxiadis.jpg?itok=4yW5i6eJ",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:bvxWbEK0lCY": {
+  "url": "https://www.youtube.com/watch?v=bvxWbEK0lCY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bvxWbEK0lCY",
+  "title": "Atmospheric Forest | Rasa Smite and Raitis Smits",
+  "author": "MEET Digital Culture Center",
+  "thumbnail": "https://i.ytimg.com/vi/bvxWbEK0lCY/hqdefault.jpg"
+ },
+ "video:youtube:B5MHCtIIZmI": {
+  "url": "https://www.youtube.com/watch?v=B5MHCtIIZmI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "B5MHCtIIZmI",
+  "title": "Swamp Brain. The Swamp Observatory, 2020",
+  "author": "urbonas studio",
+  "thumbnail": "https://i.ytimg.com/vi/B5MHCtIIZmI/hqdefault.jpg"
+ },
+ "video:youtube:tjri6bfA_KE": {
+  "url": "https://www.youtube.com/watch?v=tjri6bfA_KE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tjri6bfA_KE",
+  "title": "Perimeter Pfynwald",
+  "author": "Marcus Maeder",
+  "thumbnail": "https://i.ytimg.com/vi/tjri6bfA_KE/hqdefault.jpg"
+ },
+ "video:youtube:z7YQbk_Nsx0": {
+  "url": "https://www.youtube.com/watch?v=z7YQbk_Nsx0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "z7YQbk_Nsx0",
+  "title": "Souvenirs Entomologique #1:odonata /weathering data",
+  "author": "Skövde Kulturhus",
+  "thumbnail": "https://i.ytimg.com/vi/z7YQbk_Nsx0/hqdefault.jpg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2023/03/20230311_ArtLab_VICIOUS-CYCLE_0132-hr13.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2023/03/20230311_ArtLab_VICIOUS-CYCLE_0132-hr13.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0017-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0017-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0053-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg": {
+  "url": "https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0053-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:zKigW6hDEcE": {
+  "url": "https://www.youtube.com/watch?v=zKigW6hDEcE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zKigW6hDEcE",
+  "title": "Spotlight on Science: Next Generation Performance Protein Fibers with Werewool",
+  "author": "Cole-Parmer",
+  "thumbnail": "https://i.ytimg.com/vi/zKigW6hDEcE/hqdefault.jpg"
+ },
+ "img:https://www.werewool.bio/uploads/22_eeac3db53f.webp": {
+  "url": "https://www.werewool.bio/uploads/22_eeac3db53f.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:kt6jFgMVbwQ": {
+  "url": "https://www.youtube.com/watch?v=kt6jFgMVbwQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kt6jFgMVbwQ",
+  "title": "Tômtex at IndieBio NY Class 3 Demo Day",
+  "author": "SOSV SF & NY (Formerly IndieBio)",
+  "thumbnail": "https://i.ytimg.com/vi/kt6jFgMVbwQ/hqdefault.jpg"
+ },
+ "img:https://www.tomtex.com/assets/images/technology/facility.png": {
+  "url": "https://www.tomtex.com/assets/images/technology/facility.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:k6FvZ_jHsV0": {
+  "url": "https://www.youtube.com/watch?v=k6FvZ_jHsV0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "k6FvZ_jHsV0",
+  "title": "Celium by Polybion | Pitch by Alexis Gómez-Ortigoza | WDCD Live Amsterdam 2024",
+  "author": "What Design Can Do",
+  "thumbnail": "https://i.ytimg.com/vi/k6FvZ_jHsV0/hqdefault.jpg"
+ },
+ "img:https://images.prismic.io/polybion/aZ8p2MFoBIGEgyhY_2LandingPage-NewCelium%E2%84%A2Sheets.jpg?auto=format,compress&rect=0,0,4000,2254&w=4000&h=2254": {
+  "url": "https://images.prismic.io/polybion/aZ8p2MFoBIGEgyhY_2LandingPage-NewCelium%E2%84%A2Sheets.jpg?auto=format,compress&rect=0,0,4000,2254&w=4000&h=2254",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://images.prismic.io/polybion/aUCkd3NYClf9oPLO_1LandingPage-PolybionBacterialCellulose.jpg?auto=format,compress&rect=0,0,2000,2021&w=2000&h=2021": {
+  "url": "https://images.prismic.io/polybion/aUCkd3NYClf9oPLO_1LandingPage-PolybionBacterialCellulose.jpg?auto=format,compress&rect=0,0,2000,2021&w=2000&h=2021",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "video:youtube:qr897rb64Rc": {
+  "url": "https://www.youtube.com/watch?v=qr897rb64Rc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qr897rb64Rc",
+  "title": "MALAI ECO - compostable leather alternative made from coconut water waste",
+  "author": "The Circular People",
+  "thumbnail": "https://i.ytimg.com/vi/qr897rb64Rc/hqdefault.jpg"
+ },
+ "img:https://malai.eco/cdn/shop/products/DSC02210.jpg?height=4240&v=1658490088": {
+  "url": "https://malai.eco/cdn/shop/products/DSC02210.jpg?height=4240&v=1658490088",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://malai.eco/cdn/shop/files/CB219488-5C8B-4E6E-A989-ACB8D6787EDA.jpg?v=1635226380": {
+  "url": "https://malai.eco/cdn/shop/files/CB219488-5C8B-4E6E-A989-ACB8D6787EDA.jpg?v=1635226380",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:YJ7esQeh-Cw": {
+  "url": "https://www.youtube.com/watch?v=YJ7esQeh-Cw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YJ7esQeh-Cw",
+  "title": "Fish scale bioplastic wins UK James Dyson Award for student design",
+  "author": "Dezeen",
+  "thumbnail": "https://i.ytimg.com/vi/YJ7esQeh-Cw/hqdefault.jpg"
+ },
+ "video:youtube:IphNwwjsTb0": {
+  "url": "https://www.youtube.com/watch?v=IphNwwjsTb0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IphNwwjsTb0",
+  "title": "Elissa Brunato: Eco-Sequins",
+  "author": "Design Indaba",
+  "thumbnail": "https://i.ytimg.com/vi/IphNwwjsTb0/hqdefault.jpg"
+ },
+ "video:youtube:ZPTjFOwPdg0": {
+  "url": "https://www.youtube.com/watch?v=ZPTjFOwPdg0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZPTjFOwPdg0",
+  "title": "Squitex - Microfiber Innovation Challenge Winner",
+  "author": "Conservation X Labs",
+  "thumbnail": "https://i.ytimg.com/vi/ZPTjFOwPdg0/hqdefault.jpg"
+ },
+ "img:https://www.tandemrepeat.com/wp-content/uploads/2023/02/leather-1.jpg": {
+  "url": "https://www.tandemrepeat.com/wp-content/uploads/2023/02/leather-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:BNzUNNGVSUg": {
+  "url": "https://www.youtube.com/watch?v=BNzUNNGVSUg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BNzUNNGVSUg",
+  "title": "Pure Human documentary | implications of making using human DNA in leather production",
+  "author": "Tina Gorjanc Safhalter",
+  "thumbnail": "https://i.ytimg.com/vi/BNzUNNGVSUg/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/682e21ea2de63b385eab8dfa/93fad5d5-c27d-4795-b356-c29a7ed971cd/Duff_ViralTattoos.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/682e21ea2de63b385eab8dfa/93fad5d5-c27d-4795-b356-c29a7ed971cd/Duff_ViralTattoos.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/682e21ea2de63b385eab8dfa/789d76d7-012e-4cdd-b042-cdc132040d63/Duff_LivingViralTattoos_Sculptures_PlugInGallery1_2014.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/682e21ea2de63b385eab8dfa/789d76d7-012e-4cdd-b042-cdc132040d63/Duff_LivingViralTattoos_Sculptures_PlugInGallery1_2014.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1162/leon_a_00123": {
+  "doi": "10.1162/leon_a_00123",
+  "ok": true,
+  "type": "doi",
+  "title": "How to Make Living Viral Tattoos",
+  "year": 2011,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_00123"
+ },
+ "video:youtube:JXucfw6c1kE": {
+  "url": "https://www.youtube.com/watch?v=JXucfw6c1kE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JXucfw6c1kE",
+  "title": "c-lab - Exposing Roses to Martian Atmosphere, Art + Science Experiment 2007",
+  "author": "MediaArtTube",
+  "thumbnail": "https://i.ytimg.com/vi/JXucfw6c1kE/hqdefault.jpg"
+ },
+ "doi:10.1162/leon.2009.42.2.178": {
+  "doi": "10.1162/leon.2009.42.2.178",
+  "ok": true,
+  "type": "doi",
+  "title": "The Martian Rose",
+  "year": 2009,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon.2009.42.2.178"
+ },
+ "video:youtube:QooCEfG-EH4": {
+  "url": "https://www.youtube.com/watch?v=QooCEfG-EH4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "QooCEfG-EH4",
+  "title": "Fermenting Futures",
+  "author": "Anna Dumitriu Studio",
+  "thumbnail": "https://i.ytimg.com/vi/QooCEfG-EH4/hqdefault.jpg"
+ },
+ "img:https://annadumitriu.co.uk/wp-content/uploads/2021/08/IMG_5479-1.jpeg": {
+  "url": "https://annadumitriu.co.uk/wp-content/uploads/2021/08/IMG_5479-1.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_02279": {
+  "doi": "10.1162/leon_a_02279",
+  "ok": true,
+  "type": "doi",
+  "title": "Fermenting Futures: An Artistic Exploration of Yeast Biotechnology",
+  "year": 2022,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02279"
+ },
+ "video:youtube:uc9GdS1WCfc": {
+  "url": "https://www.youtube.com/watch?v=uc9GdS1WCfc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "uc9GdS1WCfc",
+  "title": "Cybernetic Bacteria 2.0",
+  "author": "Anna Dumitriu Studio",
+  "thumbnail": "https://i.ytimg.com/vi/uc9GdS1WCfc/hqdefault.jpg"
+ },
+ "doi:10.1162/leon_a_00173": {
+  "doi": "10.1162/leon_a_00173",
+  "ok": true,
+  "type": "doi",
+  "title": "Cybernetic Bacteria 2.0",
+  "year": 2011,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_00173"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240515185243026-0155:S2752945224000025:S2752945224000025_fig1.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240515185243026-0155:S2752945224000025:S2752945224000025_fig1.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240515185243026-0155:S2752945224000025:S2752945224000025_fig2.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240515185243026-0155:S2752945224000025:S2752945224000025_fig2.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.2": {
+  "doi": "10.1017/btd.2024.2",
+  "ok": true,
+  "type": "doi",
+  "title": "Room acoustics of Mycelium Textiles: the Myx Sail at the Danish Design Museum",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.2"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig9.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig9.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig7.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240502112217198-0451:S2752945224000050:S2752945224000050_fig7.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.5": {
+  "doi": "10.1017/btd.2024.5",
+  "ok": true,
+  "type": "doi",
+  "title": "Design, Cultivation, and Acoustic Analysis of a Building-Sized Mycelium Sculpture",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.5"
+ },
+ "video:youtube:nKJmnH6hews": {
+  "url": "https://www.youtube.com/watch?v=nKJmnH6hews",
+  "ok": true,
+  "platform": "youtube",
+  "id": "nKJmnH6hews",
+  "title": "Interspecies Forms: Robotic Feedback Systems, Mycelia Growth & Computational Form - Natalie Alima",
+  "author": "CDFAM",
+  "thumbnail": "https://i.ytimg.com/vi/nKJmnH6hews/hqdefault.jpg"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig4.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig4.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig6.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241024145041158-0834:S2752945224000098:S2752945224000098_fig6.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.9": {
+  "doi": "10.1017/btd.2024.9",
+  "ok": true,
+  "type": "doi",
+  "title": "BioForms: 3-D printed mycelium wall panel systems",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.9"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig6.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig6.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig1.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240417060640777-0701:S2752945224000037:S2752945224000037_fig1.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.3": {
+  "doi": "10.1017/btd.2024.3",
+  "ok": true,
+  "type": "doi",
+  "title": "Fermenting knits: A material-driven exploration of knit-based bacterial cellulose biocomposite textile materials through fibre reassembly",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.3"
+ },
+ "video:youtube:qBKsZ-3kIgY": {
+  "url": "https://www.youtube.com/watch?v=qBKsZ-3kIgY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qBKsZ-3kIgY",
+  "title": "MAKING Artificial Reefs: Rasa Weber - Syntopolis",
+  "author": "Matters of Activity",
+  "thumbnail": "https://i.ytimg.com/vi/qBKsZ-3kIgY/hqdefault.jpg"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig1.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig1.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig4.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig4.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2024.16": {
+  "doi": "10.1017/btd.2024.16",
+  "ok": true,
+  "type": "doi",
+  "title": "Of other reefs: designing habitats in blasted seascapes",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2024.16"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230821111301711-0820:S2752945223000055:S2752945223000055_fig5.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230821111301711-0820:S2752945223000055:S2752945223000055_fig5.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230821111301711-0820:S2752945223000055:S2752945223000055_fig2.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20230821111301711-0820:S2752945223000055:S2752945223000055_fig2.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2023.5": {
+  "doi": "10.1017/btd.2023.5",
+  "ok": true,
+  "type": "doi",
+  "title": "Prototyping an additive co-fabrication workflow for architecture: utilizing cyanobacterial MICP in robotic deposition",
+  "year": 2023,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2023.5"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240207172918972-0330:S2752945223000110:S2752945223000110_fig3.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240207172918972-0330:S2752945223000110:S2752945223000110_fig3.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240207172918972-0330:S2752945223000110:S2752945223000110_fig2.png?pub-status=live": {
+  "url": "https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20240207172918972-0330:S2752945223000110:S2752945223000110_fig2.png?pub-status=live",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1017/btd.2023.11": {
+  "doi": "10.1017/btd.2023.11",
+  "ok": true,
+  "type": "doi",
+  "title": "Paper waste grown as a biocalcified foam: perspectives from a bacterial and design viewpoint",
+  "year": 2024,
+  "venue": "Research Directions: Biotechnology Design",
+  "url": "https://doi.org/10.1017/btd.2023.11"
+ },
+ "video:youtube:gKdn9Xh5mYo": {
+  "url": "https://www.youtube.com/watch?v=gKdn9Xh5mYo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gKdn9Xh5mYo",
+  "title": "Kaumera Kimono Nienke Hoogvliet Energie- & Grondstoffenfabriek",
+  "author": "Familie van der Doe",
+  "thumbnail": "https://i.ytimg.com/vi/gKdn9Xh5mYo/hqdefault.jpg"
+ },
+ "img:https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimonoExp.jpg": {
+  "url": "https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimonoExp.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimono3Exp-1024x682.jpg": {
+  "url": "https://www.nienkehoogvliet.nl/wp-content/uploads/2021/08/KaumeraKimono3Exp-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:qCYBHBqLEVM": {
+  "url": "https://www.youtube.com/watch?v=qCYBHBqLEVM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qCYBHBqLEVM",
+  "title": "Why I use blood as a material | Basse Stittgen | TEDxVienna",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/qCYBHBqLEVM/hqdefault.jpg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/0be2011e5e264283e0511bea3e417968d58141da25369d4b1abed3b99e8af354/BloodRelatedMU.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/0be2011e5e264283e0511bea3e417968d58141da25369d4b1abed3b99e8af354/BloodRelatedMU.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/3f80f56e7c6192721acd186eb133ad69e35df1b908060bbc0cb71a6fdf5a3b92/BloodRelatedVase.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/3f80f56e7c6192721acd186eb133ad69e35df1b908060bbc0cb71a6fdf5a3b92/BloodRelatedVase.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Y5-l9RP0cYM": {
+  "url": "https://www.youtube.com/watch?v=Y5-l9RP0cYM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Y5-l9RP0cYM",
+  "title": "Meet Postcode Lotteries Green Challenge nominee: Forest Wool",
+  "author": "Postcode Lotteries Green Challenge",
+  "thumbnail": "https://i.ytimg.com/vi/Y5-l9RP0cYM/hqdefault.jpg"
+ },
+ "img:https://impro.usercontent.one/appid/oneComWsb/domain/tamaraorjola.com/media/tamaraorjola.com/onewebmedia/02Tamara_Orjola_stool1.jpg?etag=%223041b8-581cf138%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=223%2B336&extract=0%2B0%2B222%2B336&quality=85": {
+  "url": "https://impro.usercontent.one/appid/oneComWsb/domain/tamaraorjola.com/media/tamaraorjola.com/onewebmedia/02Tamara_Orjola_stool1.jpg?etag=%223041b8-581cf138%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=223%2B336&extract=0%2B0%2B222%2B336&quality=85",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://impro.usercontent.one/appid/oneComWsb/domain/tamaraorjola.com/media/tamaraorjola.com/onewebmedia/Tamara%20Orjola_pinetrees.jpg?etag=W%2F%2220ac85-581cf3f8%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=504%2B715&extract=0%2B0%2B504%2B715&quality=85": {
+  "url": "https://impro.usercontent.one/appid/oneComWsb/domain/tamaraorjola.com/media/tamaraorjola.com/onewebmedia/Tamara%20Orjola_pinetrees.jpg?etag=W%2F%2220ac85-581cf3f8%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=504%2B715&extract=0%2B0%2B504%2B715&quality=85",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:w5ecPikgSTo": {
+  "url": "https://www.youtube.com/watch?v=w5ecPikgSTo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "w5ecPikgSTo",
+  "title": "Biohybrid Devices:Prototyping Interactive Devices With Growable Materials",
+  "author": "HCI Lab - Saarland University",
+  "thumbnail": "https://i.ytimg.com/vi/w5ecPikgSTo/hqdefault.jpg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/gamepad-light_1722536799_1200x630.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/gamepad-light_1722536799_1200x630.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3586183.3606774": {
+  "doi": "10.1145/3586183.3606774",
+  "ok": true,
+  "type": "doi",
+  "title": "Biohybrid Devices: Prototyping Interactive Devices with Growable Materials",
+  "year": 2023,
+  "venue": "Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3586183.3606774"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/dsc2421jpgmediaclass-full-widthc3083fedae46a95f1139ff9d5833b1b6b8e20a69_1634203514_1200x630.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/dsc2421jpgmediaclass-full-widthc3083fedae46a95f1139ff9d5833b1b6b8e20a69_1634203514_1200x630.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/dsc1578jpgmediaclass-full-widthc3083fedae46a95f1139ff9d5833b1b6b8e20a69_1634203590_1200x600.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/dsc1578jpgmediaclass-full-widthc3083fedae46a95f1139ff9d5833b1b6b8e20a69_1634203590_1200x600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/cover_1602840410_1200x630.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/cover_1602840410_1200x630.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/picture_1602840417_1200x600.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/picture_1602840417_1200x600.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:C0m6RDDYiR0": {
+  "url": "https://www.youtube.com/watch?v=C0m6RDDYiR0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "C0m6RDDYiR0",
+  "title": "KAPITÄN BIOPUNK: FERMENTATION MADNESS at EDIBLE",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/C0m6RDDYiR0/hqdefault.jpg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2017/10/2012_Abraham_KapitanBiopunk.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2017/10/2012_Abraham_KapitanBiopunk.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:VKFYnLfuivU": {
+  "url": "https://www.youtube.com/watch?v=VKFYnLfuivU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VKFYnLfuivU",
+  "title": "Anna Dumitriu, From \"Normal Flora\" to \"The Romantic Disease\"",
+  "author": "Leonardo Olats",
+  "thumbnail": "https://i.ytimg.com/vi/VKFYnLfuivU/hqdefault.jpg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2017/10/2005_Dumitriu_BedFlora.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2017/10/2005_Dumitriu_BedFlora.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2017/10/2005_Dumitriu_TableFlora.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2017/10/2005_Dumitriu_TableFlora.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-1.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-2.jpg": {
+  "url": "https://history.siggraph.org/wp-content/uploads/2025/10/2021-SA-Art-Gallery-Blackistone_Microbiospheric-Engineering-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3476123.3487875": {
+  "doi": "10.1145/3476123.3487875",
+  "ok": true,
+  "type": "doi",
+  "title": "Microbiospheric engineering",
+  "year": 2021,
+  "venue": "SIGGRAPH Asia 2021 Art Gallery",
+  "url": "https://doi.org/10.1145/3476123.3487875"
+ },
+ "video:youtube:GJDCtMw7WI8": {
+  "url": "https://www.youtube.com/watch?v=GJDCtMw7WI8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GJDCtMw7WI8",
+  "title": "Zeefier, Eco Textile Colouring from Seaweed (30s)",
+  "author": "zeefier",
+  "thumbnail": "https://i.ytimg.com/vi/GJDCtMw7WI8/hqdefault.jpg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-klein_1633185309_1200x630.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-klein_1633185309_1200x630.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-close-up-klein_1633185399_1440x720.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/bladderwrack-scarf-zeefier-close-up-klein_1633185399_1440x720.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1_1725123937_1200x630.jpg": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1_1725123937_1200x630.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/2_1725124384_1200x600.png": {
+  "url": "https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/2_1725124384_1200x600.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:49rzRKYMKyo": {
+  "url": "https://www.youtube.com/watch?v=49rzRKYMKyo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "49rzRKYMKyo",
+  "title": "Cellular Propeller (2013 - )",
+  "author": "C-LAB",
+  "thumbnail": "https://i.ytimg.com/vi/49rzRKYMKyo/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/f81172c3e1be018e35a4b8466cfac9131a402cfe/4-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/f81172c3e1be018e35a4b8466cfac9131a402cfe/4-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e4b2d4058b135ef625ef77c19038fa10ec48669f/8-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e4b2d4058b135ef625ef77c19038fa10ec48669f/8-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a3a9dd79e9927794784c1d44b9dd54a2ee7676c3/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/a3a9dd79e9927794784c1d44b9dd54a2ee7676c3/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a9409d933171330054a17d49c903837c2214a87d/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/a9409d933171330054a17d49c903837c2214a87d/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/163694826bc942c9ca1aa0707ae3f684c3683bf2/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/163694826bc942c9ca1aa0707ae3f684c3683bf2/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "doi:10.1145/1858171.1858211": {
+  "doi": "10.1145/1858171.1858211",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Mate, we don't need a chip to tell us the soil's dry\"",
+  "year": 2010,
+  "venue": "Proceedings of the 8th ACM Conference on Designing Interactive Systems",
+  "url": "https://doi.org/10.1145/1858171.1858211"
+ },
+ "img:https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/8-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/8-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "doi:10.1145/3563657.3595981": {
+  "doi": "10.1145/3563657.3595981",
+  "ok": true,
+  "type": "doi",
+  "title": "Nature Fictions: Designing for a Sustainable Future through Nature Relations",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563657.3595981"
+ },
+ "img:https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/134bfc9d694708e02db5cf218728b3bfeb61803d/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/134bfc9d694708e02db5cf218728b3bfeb61803d/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/4356d8905fe813da608acf865f1a02cf6a74302e/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/4356d8905fe813da608acf865f1a02cf6a74302e/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/46c2249904dd1bd634a5bb1fcc20f5fb5010887f/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/46c2249904dd1bd634a5bb1fcc20f5fb5010887f/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/29456af02d6238ee92da426a357d157593f09b09/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/29456af02d6238ee92da426a357d157593f09b09/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "ytmax:l_QRBlxyFIY": {
+  "url": "https://i.ytimg.com/vi/l_QRBlxyFIY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:wQDUxDBJc94": {
+  "url": "https://i.ytimg.com/vi/wQDUxDBJc94/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:mVrgztn6sfU": {
+  "url": "https://i.ytimg.com/vi/mVrgztn6sfU/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:xmqHnBp8odg": {
+  "url": "https://i.ytimg.com/vi/xmqHnBp8odg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:7aVSMA1rylY": {
+  "url": "https://i.ytimg.com/vi/7aVSMA1rylY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:0r08iXfJ-CM": {
+  "url": "https://i.ytimg.com/vi/0r08iXfJ-CM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bm1JzokM2Rk": {
+  "url": "https://i.ytimg.com/vi/bm1JzokM2Rk/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:AzWBxccuIkI": {
+  "url": "https://i.ytimg.com/vi/AzWBxccuIkI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:S4C4zKv1oh4": {
+  "url": "https://i.ytimg.com/vi/S4C4zKv1oh4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:z7Idwk13RwQ": {
+  "url": "https://i.ytimg.com/vi/z7Idwk13RwQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_7rS_d1fiUc": {
+  "url": "https://i.ytimg.com/vi/_7rS_d1fiUc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:FQ3VgB_eaC0": {
+  "url": "https://i.ytimg.com/vi/FQ3VgB_eaC0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:2DoxcOrexJA": {
+  "url": "https://i.ytimg.com/vi/2DoxcOrexJA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tWPiG1bRmt0": {
+  "url": "https://i.ytimg.com/vi/tWPiG1bRmt0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pVZCkespal8": {
+  "url": "https://i.ytimg.com/vi/pVZCkespal8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mSYeKlTTSTU": {
+  "url": "https://i.ytimg.com/vi/mSYeKlTTSTU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:b4XNXcHoVuU": {
+  "url": "https://i.ytimg.com/vi/b4XNXcHoVuU/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:29y1NB6ELao": {
+  "url": "https://i.ytimg.com/vi/29y1NB6ELao/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:J-NLr6jk1NQ": {
+  "url": "https://i.ytimg.com/vi/J-NLr6jk1NQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-VVtSP6bxoI": {
+  "url": "https://i.ytimg.com/vi/-VVtSP6bxoI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gziMMzIcIK8": {
+  "url": "https://i.ytimg.com/vi/gziMMzIcIK8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XomQ2nkQ20Q": {
+  "url": "https://i.ytimg.com/vi/XomQ2nkQ20Q/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:Pim77yCOwX4": {
+  "url": "https://i.ytimg.com/vi/Pim77yCOwX4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GXjq_1Jd8a0": {
+  "url": "https://i.ytimg.com/vi/GXjq_1Jd8a0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:uSw60KwHWxo": {
+  "url": "https://i.ytimg.com/vi/uSw60KwHWxo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:UBVejRz4PW0": {
+  "url": "https://i.ytimg.com/vi/UBVejRz4PW0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:2zgs-5TL3mc": {
+  "url": "https://i.ytimg.com/vi/2zgs-5TL3mc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:G3DRmqlphGQ": {
+  "url": "https://i.ytimg.com/vi/G3DRmqlphGQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Vx4uoBAPHBU": {
+  "url": "https://i.ytimg.com/vi/Vx4uoBAPHBU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Z8Lu6SN6ly4": {
+  "url": "https://i.ytimg.com/vi/Z8Lu6SN6ly4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bM0ce_eLZEw": {
+  "url": "https://i.ytimg.com/vi/bM0ce_eLZEw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:edC9s3Hx9wU": {
+  "url": "https://i.ytimg.com/vi/edC9s3Hx9wU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:YHtBWkvpzws": {
+  "url": "https://i.ytimg.com/vi/YHtBWkvpzws/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kpr7QXN5vyA": {
+  "url": "https://i.ytimg.com/vi/kpr7QXN5vyA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qasR0oHCRwA": {
+  "url": "https://i.ytimg.com/vi/qasR0oHCRwA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Xcdx2R9iS5M": {
+  "url": "https://i.ytimg.com/vi/Xcdx2R9iS5M/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:LavMzNPgC0k": {
+  "url": "https://i.ytimg.com/vi/LavMzNPgC0k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:POl5Y-xN_X4": {
+  "url": "https://i.ytimg.com/vi/POl5Y-xN_X4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KXpmX7zaCiU": {
+  "url": "https://i.ytimg.com/vi/KXpmX7zaCiU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9yy4EWbRO3E": {
+  "url": "https://i.ytimg.com/vi/9yy4EWbRO3E/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:gVk_Vw1C7cs": {
+  "url": "https://i.ytimg.com/vi/gVk_Vw1C7cs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:urSr7dh4l0A": {
+  "url": "https://i.ytimg.com/vi/urSr7dh4l0A/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4871rINIAeQ": {
+  "url": "https://i.ytimg.com/vi/4871rINIAeQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:a07QOTzpZxQ": {
+  "url": "https://i.ytimg.com/vi/a07QOTzpZxQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:k8g7DlDpeic": {
+  "url": "https://i.ytimg.com/vi/k8g7DlDpeic/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vxpwYC6yTS8": {
+  "url": "https://i.ytimg.com/vi/vxpwYC6yTS8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:RtxmJPxQegw": {
+  "url": "https://i.ytimg.com/vi/RtxmJPxQegw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kzoqrzUeYBs": {
+  "url": "https://i.ytimg.com/vi/kzoqrzUeYBs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9lJU5zAdOTI": {
+  "url": "https://i.ytimg.com/vi/9lJU5zAdOTI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Bdnb4U7eP_k": {
+  "url": "https://i.ytimg.com/vi/Bdnb4U7eP_k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rXogCaax954": {
+  "url": "https://i.ytimg.com/vi/rXogCaax954/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:2jqxx2R1Z4s": {
+  "url": "https://i.ytimg.com/vi/2jqxx2R1Z4s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:xQReQhF4Gvc": {
+  "url": "https://i.ytimg.com/vi/xQReQhF4Gvc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qne3zmzhj1k": {
+  "url": "https://i.ytimg.com/vi/qne3zmzhj1k/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:bvxWbEK0lCY": {
+  "url": "https://i.ytimg.com/vi/bvxWbEK0lCY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:B5MHCtIIZmI": {
+  "url": "https://i.ytimg.com/vi/B5MHCtIIZmI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tjri6bfA_KE": {
+  "url": "https://i.ytimg.com/vi/tjri6bfA_KE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:z7YQbk_Nsx0": {
+  "url": "https://i.ytimg.com/vi/z7YQbk_Nsx0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zKigW6hDEcE": {
+  "url": "https://i.ytimg.com/vi/zKigW6hDEcE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kt6jFgMVbwQ": {
+  "url": "https://i.ytimg.com/vi/kt6jFgMVbwQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:k6FvZ_jHsV0": {
+  "url": "https://i.ytimg.com/vi/k6FvZ_jHsV0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qr897rb64Rc": {
+  "url": "https://i.ytimg.com/vi/qr897rb64Rc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:YJ7esQeh-Cw": {
+  "url": "https://i.ytimg.com/vi/YJ7esQeh-Cw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:IphNwwjsTb0": {
+  "url": "https://i.ytimg.com/vi/IphNwwjsTb0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZPTjFOwPdg0": {
+  "url": "https://i.ytimg.com/vi/ZPTjFOwPdg0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:BNzUNNGVSUg": {
+  "url": "https://i.ytimg.com/vi/BNzUNNGVSUg/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:JXucfw6c1kE": {
+  "url": "https://i.ytimg.com/vi/JXucfw6c1kE/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:QooCEfG-EH4": {
+  "url": "https://i.ytimg.com/vi/QooCEfG-EH4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:uc9GdS1WCfc": {
+  "url": "https://i.ytimg.com/vi/uc9GdS1WCfc/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:nKJmnH6hews": {
+  "url": "https://i.ytimg.com/vi/nKJmnH6hews/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qBKsZ-3kIgY": {
+  "url": "https://i.ytimg.com/vi/qBKsZ-3kIgY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gKdn9Xh5mYo": {
+  "url": "https://i.ytimg.com/vi/gKdn9Xh5mYo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qCYBHBqLEVM": {
+  "url": "https://i.ytimg.com/vi/qCYBHBqLEVM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Y5-l9RP0cYM": {
+  "url": "https://i.ytimg.com/vi/Y5-l9RP0cYM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:w5ecPikgSTo": {
+  "url": "https://i.ytimg.com/vi/w5ecPikgSTo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:C0m6RDDYiR0": {
+  "url": "https://i.ytimg.com/vi/C0m6RDDYiR0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VKFYnLfuivU": {
+  "url": "https://i.ytimg.com/vi/VKFYnLfuivU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GJDCtMw7WI8": {
+  "url": "https://i.ytimg.com/vi/GJDCtMw7WI8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:49rzRKYMKyo": {
+  "url": "https://i.ytimg.com/vi/49rzRKYMKyo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

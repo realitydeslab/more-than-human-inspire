@@ -270,30 +270,6 @@
    "discovered_via": "seed"
   },
   {
-   "id": "josiah-zayner",
-   "name": "Josiah Zayner",
-   "kind": "person",
-   "role": "Biohacker; founder of The ODIN",
-   "role_zh": "生物黑客；The ODIN 创始人",
-   "based": "Oakland, US",
-   "based_zh": "奥克兰，美国",
-   "bio": "Former NASA synthetic biologist who founded The ODIN, a company selling genetic engineering kits for home and classroom use.",
-   "bio_zh": "前 NASA 合成生物学研究员，创立了 The ODIN，出售在家里和课堂上使用的基因工程套件。",
-   "why": "His kits put CRISPR in the hands of non-specialists and made DIY biology a design and policy question.",
-   "why_zh": "他的套件把 CRISPR 交到非专业人士手里，让 DIY 生物学成为设计与政策问题。",
-   "links": {
-    "site": "https://www.the-odin.com/",
-    "scholar": "",
-    "x": "",
-    "instagram": "",
-    "vimeo": "",
-    "youtube": "",
-    "github": ""
-   },
-   "connected_to": [],
-   "discovered_via": "seed"
-  },
-  {
    "id": "dna-design-and-architecture",
    "name": "DnA_Design and Architecture",
    "kind": "studio",
@@ -694,24 +670,6 @@
    "discovered_via": "carole-collet"
   },
   {
-   "id": "adam-brown",
-   "name": "Adam W. Brown",
-   "kind": "person",
-   "role": "Artist; Associate Professor of Electronic Art and Intermedia, Michigan State University",
-   "based": "East Lansing, US",
-   "bio": "Adam W. Brown is an artist who builds working laboratory installations that use microbes and chemistry to reenact old scientific and alchemical questions.",
-   "why": "The Great Work of the Metal Lover turns a gold-precipitating extremophile bacterium into a live alchemical artwork.",
-   "role_zh": "艺术家；密歇根州立大学电子艺术与跨媒体副教授",
-   "based_zh": "东兰辛，美国",
-   "bio_zh": "Adam W. Brown 是艺术家，搭建可实际运作的实验室装置，用微生物和化学重演古老的科学与炼金问题。",
-   "why_zh": "《The Great Work of the Metal Lover》把一种能沉淀出黄金的嗜极端细菌变成了一件现场运行的炼金术作品。",
-   "links": {
-    "site": "https://adamwbrown.net/"
-   },
-   "connected_to": [],
-   "discovered_via": "alexandra-daisy-ginsberg"
-  },
-  {
    "id": "david-benque",
    "name": "David Benqué",
    "kind": "person",
@@ -1038,32 +996,6 @@
     "oron-catts"
    ],
    "discovered_via": "symbiotica"
-  },
-  {
-   "id": "peta-clancy",
-   "name": "Peta Clancy",
-   "kind": "person",
-   "role": "Artist; lecturer, Monash University",
-   "role_zh": "艺术家；莫纳什大学讲师",
-   "based": "Melbourne, Australia",
-   "based_zh": "墨尔本，澳大利亚",
-   "bio": "Peta Clancy works with photography and installation on skin, the body and memory, often through hospital and lab residencies.",
-   "bio_zh": "Peta Clancy 以摄影和装置处理皮肤、身体与记忆，常通过医院和实验室驻留创作。",
-   "why": "Her collaboration with Helen Pynor made organ perfusion into a live performance.",
-   "why_zh": "她与 Helen Pynor 的合作把器官灌注变成了一场现场表演。",
-   "links": {
-    "site": "",
-    "scholar": "",
-    "x": "",
-    "instagram": "",
-    "vimeo": "",
-    "youtube": "",
-    "github": ""
-   },
-   "connected_to": [
-    "helen-pynor"
-   ],
-   "discovered_via": "helen-pynor"
   },
   {
    "id": "tagny-duff",
@@ -2057,8 +1989,8 @@
    ],
    "title": "Augmented Animals (LED Dog Tail Communicator)",
    "year": 2006,
-   "field": "mth",
-   "sub": "animal-computer",
+   "field": "aci",
+   "sub": "companion",
    "organisms": [
     "animals"
    ],
@@ -2083,6 +2015,9 @@
    "source_url": "https://www.moma.org/interactives/exhibitions/2008/elasticmind/",
    "collections": [
     "moma-elastic-mind-2008"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -2250,8 +2185,8 @@
    ],
    "title": "Curiosity Cloud",
    "year": 2015,
-   "field": "mth",
-   "sub": "decentering",
+   "field": "hni",
+   "sub": "nature-connection",
    "organisms": [
     "insects"
    ],
@@ -2279,6 +2214,9 @@
    "source_url": "https://mischertraxler.com/projects/curiosity-cloud/",
    "collections": [
     "cooper-hewitt-nature-2019"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -2668,8 +2606,8 @@
    ],
    "title": "Dolphin Embassy",
    "year": 1974,
-   "field": "mth",
-   "sub": "decentering",
+   "field": "aci",
+   "sub": "communication",
    "organisms": [
     "animals"
    ],
@@ -2698,6 +2636,9 @@
    "source_url": "https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human",
    "collections": [
     "design-museum-more-than-human-2025"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -4344,7 +4285,8 @@
    "images": [
     "https://images.prismic.io/wellcomecollection/1d26c04b-589d-42d0-a750-c9962c6793af_EP_001764_018_Large.jpg"
    ],
-   "source_url": "https://wellcomecollection.org/exhibitions/rooted-beings"
+   "source_url": "https://wellcomecollection.org/exhibitions/rooted-beings",
+   "collections": []
   },
   {
    "id": "patricia-dominguez--vegetal-matrix",
@@ -4375,7 +4317,8 @@
    "images": [
     "https://images.prismic.io/wellcomecollection/69f8843c-1ebf-456e-8ba3-e8e8766bf57e_EP_001764_010_Large.jpg"
    ],
-   "source_url": "https://wellcomecollection.org/exhibitions/rooted-beings"
+   "source_url": "https://wellcomecollection.org/exhibitions/rooted-beings",
+   "collections": []
   },
   {
    "id": "maja-smrekar--ecce-canis",
@@ -4417,8 +4360,8 @@
    ],
    "source_url": "https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/",
    "collections": [
-    "kapelica-gallery",
-    "art-laboratory-berlin"
+    "art-laboratory-berlin",
+    "kapelica-gallery"
    ]
   },
   {
@@ -4428,8 +4371,8 @@
    ],
    "title": "Primate Cinema: Apes as Family",
    "year": 2012,
-   "field": "mth",
-   "sub": "animal-computer",
+   "field": "aci",
+   "sub": "enrichment",
    "organisms": [
     "animals"
    ],
@@ -4456,6 +4399,9 @@
    "source_url": "https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/",
    "collections": [
     "art-laboratory-berlin"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -4807,8 +4753,8 @@
    },
    "source_url": "https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1351970.html",
    "collections": [
-    "symbiotica-residency",
-    "science-gallery-bio-shows"
+    "science-gallery-bio-shows",
+    "symbiotica-residency"
    ]
   },
   {
@@ -4844,8 +4790,8 @@
    },
    "source_url": "https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1352166.html",
    "collections": [
-    "symbiotica-residency",
-    "science-gallery-bio-shows"
+    "science-gallery-bio-shows",
+    "symbiotica-residency"
    ]
   },
   {
@@ -5036,8 +4982,8 @@
    ],
    "title": "Wolfland",
    "year": 2016,
-   "field": "mth",
-   "sub": "ecological",
+   "field": "aci",
+   "sub": "wildlife",
    "organisms": [
     "animals",
     "ecosystems"
@@ -5063,6 +5009,9 @@
    "source_url": "https://exhibitions.hybridmatters.net/works/wolfland",
    "collections": [
     "hybrid-matters-2015"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -5232,8 +5181,8 @@
    ],
    "title": "Atmospheric Forest",
    "year": 2019,
-   "field": "mth",
-   "sub": "ecological",
+   "field": "hni",
+   "sub": "eco-feedback",
    "organisms": [
     "plants",
     "ecosystems"
@@ -5258,6 +5207,9 @@
    "source_url": "https://zkm.de/en/exhibition/2020/05/critical-zones",
    "collections": [
     "zkm-critical-zones-2020"
+   ],
+   "also": [
+    "mth"
    ]
   },
   {
@@ -5366,8 +5318,8 @@
    ],
    "source_url": "https://artlaboratory-berlin.org/exhibitions/vicious-cycle/",
    "collections": [
-    "zkm-critical-zones-2020",
-    "art-laboratory-berlin"
+    "art-laboratory-berlin",
+    "zkm-critical-zones-2020"
    ]
   },
   {
@@ -6341,6 +6293,7 @@
    },
    "source_url": "https://site.ddw.nl/en/programme/11985/biohybrid-device-grown-technology",
    "collections": [
+    "acm-hci-living-organisms",
     "dutch-design-week-biobased"
    ]
   },
@@ -6455,8 +6408,8 @@
    ],
    "source_url": "https://history.siggraph.org/artwork/julian-abraham-kapitan-biopunk-fermentation-madness/",
    "collections": [
-    "siggraph-art-gallery",
-    "science-gallery-bio-shows"
+    "science-gallery-bio-shows",
+    "siggraph-art-gallery"
    ]
   },
   {
@@ -6616,6 +6569,45 @@
    "source_url": "https://site.ddw.nl/en/programme/12203/microbial-oasis-architecture-for-microorganisms",
    "collections": [
     "dutch-design-week-biobased"
+   ]
+  },
+  {
+   "id": "c-lab--cellular-propeller",
+   "creator_ids": [
+    "c-lab"
+   ],
+   "title": "Cellular Propeller",
+   "year": 2013,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "cells"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing bio-art project that tries to make living cells turn a tiny synthetic propeller, first with contracting heart-muscle cells and later with the artist's own sperm racing around a spinning disc; the sperm proposal was debated before an ethics panel at Waag's Trust Me, I'm an Artist in 2016.",
+   "description_zh": "一个持续进行的生物艺术项目：尝试让活细胞推动一个微小的人造螺旋桨，起初用会收缩的心肌细胞，后来改为用艺术家自己的精子绕着旋转圆盘赛跑；2016 年这个精子方案在 Waag 的 Trust Me, I'm an Artist 活动上接受了伦理小组的讨论。",
+   "idea_en": "Cells can be put to work as tiny motors, which raises the question of whose cells and for what.",
+   "idea_zh": "细胞可以被当作微型马达来驱动东西，而这马上引出问题：用谁的细胞、为了什么。",
+   "method": "Living motile or contractile cells are placed on a synthetic moulded disc so their movement spins it, developed during a lab residency at the German Cancer Research Center (DKFZ) in Heidelberg.",
+   "method_zh": "把会运动或收缩的活细胞放在人造模具圆盘上，靠它们的运动让圆盘转动；最初的实验在海德堡德国癌症研究中心（DKFZ）的实验室驻留中完成。",
+   "keywords": [
+    "Howard Boland",
+    "Laura Cinti",
+    "synthetic biology",
+    "sperm",
+    "Trust Me, I'm an Artist",
+    "Waag Open Wetlab",
+    "transmediale 2016"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=49rzRKYMKyo"
+   },
+   "source_url": "https://waag.org/en/article/propelled-sperm/",
+   "collections": [
+    "waag-open-wetlab"
    ]
   }
  ],

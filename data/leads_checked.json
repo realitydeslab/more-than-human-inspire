@@ -504,6 +504,126 @@
   "batch": "bioprint-genetic"
  },
  {
+  "name": "Liz Ciokajlo (OurOwnsKIN) & Maurizio Montalti — Caskia / Growing a MarsBoot",
+  "why": "Mycelium boot grown for Mars, shown in Broken Nature 2019; no reliable video/image found.",
+  "link": "http://www.brokennature.org/checklist/",
+  "found_via": "maurizio-montalti",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Ai Hasegawa — Human X Shark (2017)",
+  "why": "Speculative perfume-like device letting a human attract sharks via pheromones; Broken Nature 2019.",
+  "link": "http://www.brokennature.org/checklist/",
+  "found_via": "ai-hasegawa",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "AnotherFarm — Fantasma (2019)",
+  "why": "Dress of transgenic glowing silk (coral fluorescent protein) made with scientists; Nature—Cooper Hewitt Triennial.",
+  "link": "https://collection.cooperhewitt.org/exhibitions/2318794480/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Dunne & Raby — Designs for a World of Many Worlds: After the Festival (2023–24)",
+  "why": "Umwelt figures of a human as perceived by other species; mudac collection; Design Museum More than Human 2025.",
+  "link": "https://designmuseum.org/exhibitions/more-than-human",
+  "found_via": "dunne-raby",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "James Peplow Powell — Dovecote for London (2023)",
+  "why": "Pigeon dovecote supplying guano for urban farms; Future Observatory residency; More than Human 2025.",
+  "link": "https://designmuseum.org/exhibitions/more-than-human",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Tobias Revell – New Mumbai / Into Your Hands Are They Delivered",
+  "why": "Synbio design fictions in GROW YOUR OWN (2013): GM fungus in Dharavi, petrochemical-parasitic wasp.",
+  "link": "https://tobiasrevell.com/",
+  "found_via": "alexandra-daisy-ginsberg",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Stefan Schwabe & Jannis Hülsen – Xylinum Cones",
+  "why": "Production line growing bacterial-cellulose cones (GROW YOUR OWN 2013).",
+  "link": "https://dublin.sciencegallery.com/growyourown/xyliniumcones",
+  "found_via": "alexandra-daisy-ginsberg",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "X-TU Architects – Algo Screen",
+  "why": "Microalgae photobioreactor facade modules shown at La Fabrique du vivant 2019.",
+  "link": "https://www.x-tu.com/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Emile de Visscher – Pearling",
+  "why": "Home 'pearling' of objects by nacre-mimicking layer deposition (Alive 2013); biomimetic, no living organism.",
+  "link": "http://thisisalive.com/pearling/",
+  "found_via": "carole-collet",
+  "status": "off_topic",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "CITA – The Rise",
+  "why": "Rattan structure grown by simulated plant tropisms (Alive 2013); computational growth, no living matter.",
+  "link": "https://vimeo.com/65642142",
+  "found_via": "carole-collet",
+  "status": "off_topic",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Kira O'Reilly",
+  "why": "SymbioticA resident 2004: 'Marsyas – Running Out of Skin', living lace of her own skin cells; no usable image/video found",
+  "link": "https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1351872.html",
+  "found_via": "symbiotica-residency",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Nurit Bar-Shai – Objectivity [tentative]",
+  "why": "Sound-shaped colonies of Paenibacillus vortex, shown at Critical Zones; no media found",
+  "link": "https://www.nuritbarshai.com/",
+  "found_via": "zkm-critical-zones-2020",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "ICD/ITKE – Maison Fibre",
+  "why": "Venice 2021 robotic fibre architecture; biomimetic, not living",
+  "link": "https://www.icd.uni-stuttgart.de/projects/maison-fibre/",
+  "found_via": "venice-architecture-biennale-2021",
+  "status": "off_topic",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "George Gessert – iris hybrids / genetic art",
+  "why": "Leonardo articles 'Notes on Genetic Art' (1993, 10.2307/1575812) and 'Bastard Flowers' (1996); no verified media found",
+  "link": "https://doi.org/10.2307/1575812",
+  "found_via": "eduardo-kac",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
+  "name": "Jun Takita – Bioluminescent Garden / Light, only light",
+  "why": "Leonardo 2004 (10.1162/0024094041724463); no verified media found",
+  "link": "https://doi.org/10.1162/0024094041724463",
+  "found_via": "eduardo-kac",
+  "status": "no_media",
+  "batch": "exhibitions"
+ },
+ {
   "name": "Stephanie Posavec & Miriam Quick: Air Transformed (2015)",
   "why": "Data-sonification and wearable objects of Sheffield air quality; project page 404, no stable media found.",
   "link": "https://www.stefanieposavec.com/",

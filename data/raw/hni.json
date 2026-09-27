@@ -2485,7 +2485,10 @@
     "arxiv": "",
     "venue": "DIS 2024",
     "title": "Seeding a Repository of Methods-To-Be for Nature-Entangled Design Research"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f81172c3e1be018e35a4b8466cfac9131a402cfe/4-Figure7-1.png"
+   ]
   },
   {
    "id": "yoichi-ochiai--digital-nature",
@@ -2584,7 +2587,10 @@
     "arxiv": "",
     "venue": "DIS 2024",
     "title": "Phenology Circles: A Method to Deepen Relations in More-Than-Human Design Processes"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png"
+   ]
   },
   {
    "id": "margot-brereton--ambient-birdhouse",
@@ -2657,7 +2663,10 @@
     "arxiv": "",
     "venue": "TEI 2022",
     "title": "Nature Jar: Design for Facilitating Nature Connectedness and Restoration in Home Scenario"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png"
+   ]
   },
   {
    "id": "ferran-altarriba-bertran--from-the-wild",
@@ -2841,7 +2850,10 @@
     "arxiv": "",
     "venue": "DIS 2024",
     "title": "Dear Nature: Using data drawings to promote sensemaking in human-nature relations"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e4b2d4058b135ef625ef77c19038fa10ec48669f/8-Figure1-1.png"
+   ]
   },
   {
    "id": "marta-galvao-ferreira--re-enchanted-nature-walks",
@@ -3074,7 +3086,12 @@
     "arxiv": "",
     "venue": "IDC 2004",
     "title": "Ambient wood: designing new forms of digital augmentation for learning outdoors"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure1-1.png",
+    "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure2-1.png",
+    "https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure3-1.png"
+   ]
   },
   {
    "id": "keri-facer--savannah",
@@ -3109,7 +3126,10 @@
     "arxiv": "",
     "venue": "Journal of Computer Assisted Learning 2004",
     "title": "Savannah: mobile gaming and learning?"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a3a9dd79e9927794784c1d44b9dd54a2ee7676c3/2-Figure1-1.png"
+   ]
   },
   {
    "id": "eric-klopfer--environmental-detectives",
@@ -3180,7 +3200,10 @@
     "arxiv": "",
     "venue": "DIS 2014",
     "title": "Unexpected journeys with the HOBBIT: the design and evaluation of an asocial hiking app"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/a9409d933171330054a17d49c903837c2214a87d/1-Figure1-1.png"
+   ]
   },
   {
    "id": "william-odom--capra",
@@ -3252,7 +3275,11 @@
     "arxiv": "",
     "venue": "CHI EA 2016",
     "title": "Designing Children's Digital-Physical Play in Natural Outdoors Settings"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png",
+    "https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png"
+   ]
   },
   {
    "id": "jon-back--daddy-you-can-be-the-fox",
@@ -4123,7 +4150,10 @@
     "arxiv": "",
     "venue": "CHI 2013",
     "title": "Virtual birding: extending an environmental pastime into the virtual world for citizen science"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/163694826bc942c9ca1aa0707ae3f684c3683bf2/4-Figure2-1.png"
+   ]
   },
   {
    "id": "margot-brereton--listening-to-save-wildlife",
@@ -4157,7 +4187,10 @@
     "arxiv": "",
     "venue": "DIS 2019",
     "title": "Listening to Save Wildlife: Lessons Learnt from Use of Acoustic Technology by a Species Recovery Team"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png"
+   ]
   },
   {
    "id": "margot-brereton--nature-sounds-citizen-science",
@@ -4580,7 +4613,10 @@
     "arxiv": "",
     "venue": "CHI 2020",
     "title": "Sociality and Skill Sharing in the Garden"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png"
+   ]
   },
   {
    "id": "hanuma-teja-maddali--xr-garden",
@@ -4619,6 +4655,80 @@
    }
   },
   {
+   "id": "william-odom--mate-we-dont-need-a-chip",
+   "creator_ids": [
+    "william-odom"
+   ],
+   "title": "\"Mate, we don't need a chip to tell us the soil's dry\"",
+   "year": 2010,
+   "field": "hni",
+   "sub": "gardening",
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A DIS paper based on ethnographic fieldwork and a participatory design workshop with urban agriculture communities, whose members largely resisted technology in their growing practices.",
+   "description_zh": "一篇 DIS 论文，基于对城市农业社群的民族志田野工作与参与式设计工作坊；社群成员大多抗拒在种植实践中引入技术。",
+   "idea_en": "Urban growers value hands-on knowledge; design should support their community goals rather than automate the soil check.",
+   "idea_zh": "城市种植者看重亲手获得的知识；设计应支持他们的社群目标，而不是把查看土壤这件事自动化。",
+   "method": "Fieldwork with community gardeners and a design workshop, analysed for values and opportunities for sustainable HCI.",
+   "method_zh": "与社区园丁开展田野工作和设计工作坊，分析其中的价值观以及可持续 HCI 的机会。",
+   "keywords": [
+    "urban agriculture",
+    "community gardens",
+    "sustainable HCI",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1858171.1858211",
+    "doi": "10.1145/1858171.1858211",
+    "arxiv": "",
+    "venue": "DIS 2010",
+    "title": "\"Mate, we don't need a chip to tell us the soil's dry\": opportunities for designing interactive systems to support urban food production"
+   }
+  },
+  {
+   "id": "margot-brereton--nature-fictions",
+   "creator_ids": [
+    "margot-brereton"
+   ],
+   "title": "Nature Fictions",
+   "year": 2023,
+   "field": "hni",
+   "sub": "gardening",
+   "organisms": [
+    "plants",
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A DIS paper by Shannon Rodgers, Kellie Vella, Bernd Ploderer and Margot Brereton in which 15 gardeners used a phenology wheel, nature cards and paper prototypes to imagine sustainable futures that include nonhuman stakeholders.",
+   "description_zh": "Shannon Rodgers、Kellie Vella、Bernd Ploderer 与 Margot Brereton 的 DIS 论文：15 位园丁借助物候轮、自然卡片和纸原型，想象把非人类利益相关者纳入其中的可持续未来。",
+   "idea_en": "Start future-making from the relations in your own garden.",
+   "idea_zh": "从你自家花园中的种种关系出发去构想未来。",
+   "method": "Co-design workshops situated in gardens; outcomes grouped into three design spaces: community building, multispecies care, and balance in public spaces.",
+   "method_zh": "在花园中进行的共同设计工作坊；成果归为三个设计空间：社群建设、多物种照料，以及公共空间中的平衡。",
+   "keywords": [
+    "design fiction",
+    "gardening",
+    "phenology wheel",
+    "QUT",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3563657.3595981",
+    "doi": "10.1145/3563657.3595981",
+    "arxiv": "",
+    "venue": "DIS 2023",
+    "title": "Nature Fictions: Designing for a Sustainable Future through Nature Relations"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/5-Figure1-1.png",
+    "https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/8-Figure3-1.png"
+   ]
+  },
+  {
    "id": "ilhan-aslan--iot-plants",
    "creator_ids": [
     "ilhan-aslan"
@@ -4650,7 +4760,10 @@
     "arxiv": "",
     "venue": "TEI 2019",
     "title": "Of Smarthomes, IoT Plants, and Implicit Interaction Design"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png"
+   ]
   },
   {
    "id": "sara-heitlinger--talking-plants",
@@ -5019,7 +5132,11 @@
     "arxiv": "",
     "venue": "CHI 2026",
     "title": "A Tree's Perspective: Enhancing Nature Connectedness Through Transitional and Multisensory Virtual Reality Experiences"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png",
+    "https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png"
+   ]
   },
   {
    "id": "katie-paterson--vatnajokull",
@@ -5118,7 +5235,11 @@
     "arxiv": "",
     "venue": "CHI 2009",
     "title": "UbiGreen: investigating a mobile tool for tracking and supporting green transportation habits"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png"
+   ]
   },
   {
    "id": "eric-paulos--inair",
@@ -5151,7 +5272,10 @@
     "arxiv": "",
     "venue": "CHI 2010",
     "title": "InAir: sharing indoor air quality measurements and visualizations"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/134bfc9d694708e02db5cf218728b3bfeb61803d/1-Figure1-1.png"
+   ]
   },
   {
    "id": "eric-paulos--common-sense-street-sweepers",
@@ -5185,7 +5309,10 @@
     "arxiv": "",
     "venue": "CHI 2009",
     "title": "A vehicle for research: using street sweepers to explore the landscape of environmental community action"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/4356d8905fe813da608acf865f1a02cf6a74302e/3-Figure1-1.png"
+   ]
   },
   {
    "id": "cmu-create-lab--smell-pittsburgh",
@@ -6071,7 +6198,10 @@
     "arxiv": "",
     "venue": "Journal of Environmental Psychology 2008",
     "title": "A plasma display window?—The shifting baseline problem in a technologically mediated natural world"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/46c2249904dd1bd634a5bb1fcc20f5fb5010887f/3-Figure1-1.png"
+   ]
   },
   {
    "id": "peter-kahn--hardware-companions",
@@ -6108,7 +6238,11 @@
     "arxiv": "",
     "venue": "CHI 2003",
     "title": "Hardware companions?: what online AIBO discussion forums reveal about the human-robotic relationship"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/2-Figure1-1.png",
+    "https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/5-Figure2-1.png"
+   ]
   },
   {
    "id": "roger-ulrich--artificial-window-view",
@@ -6143,7 +6277,10 @@
     "arxiv": "",
     "venue": "CHI EA 2005",
     "title": "Artificial window view of nature"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/29456af02d6238ee92da426a357d157593f09b09/2-Figure1-1.png"
+   ]
   },
   {
    "id": "atmoph--atmoph-window",
@@ -6805,7 +6942,10 @@
     "arxiv": "",
     "venue": "Frontiers in Psychology 2020",
     "title": "Can Simulated Nature Support Mental Health? Comparing Short, Single-Doses of 360-Degree Nature Videos in Virtual Reality With the Outdoors"
-   }
+   },
+   "images": [
+    "https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png"
+   ]
   },
   {
    "id": "gardens-by-the-bay--supertree-grove",

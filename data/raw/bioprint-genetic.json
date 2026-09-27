@@ -576,7 +576,7 @@
    "id": "karen-sarkisyan",
    "name": "Karen Sarkisyan",
    "kind": "person",
-   "role": "Group leader, Imperial College London and Institute for Bioengineering of Catalonia; co-founder of Light Bio",
+   "role": "Group leader, MRC Laboratory of Medical Sciences and Imperial College London; co-founder of Light Bio",
    "based": "London, UK",
    "bio": "Karen Sarkisyan's group transferred the four-gene bioluminescence pathway of the mushroom Neonothopanus nambi into plants, producing tobacco and petunias that glow visibly without added chemicals.",
    "why": "He supplied the genetics behind glowing plants, the most widely recognised synthetic-biology design object.",
@@ -584,7 +584,7 @@
     "site": "https://www.sarkisyanlab.org/",
     "scholar": "https://scholar.google.com/citations?user=Zz7UdoQAAAAJ"
    },
-   "role_zh": "帝国理工学院与加泰罗尼亚生物工程研究所课题组负责人，Light Bio 联合创始人",
+   "role_zh": "MRC 医学科学实验室与帝国理工学院课题组负责人，Light Bio 联合创始人",
    "based_zh": "英国伦敦",
    "bio_zh": "Karen Sarkisyan 的团队把发光蘑菇 Neonothopanus nambi 的四基因发光通路转入植物，使烟草和矮牵牛在不添加化学物质的情况下可见发光。",
    "why_zh": "他提供了发光植物背后的遗传学，而发光植物是最广为人知的合成生物学设计物。",
@@ -1786,7 +1786,7 @@
     "cellink"
    ],
    "title": "BIO X Desktop Bioprinter and Universal Bioink",
-   "year": 2016,
+   "year": 2017,
    "field": "bio",
    "sub": "bioprinting",
    "organisms": [
@@ -2280,7 +2280,7 @@
    "creator_ids": [
     "lining-yao"
    ],
-   "title": "E-seed: Autonomous Self-Burying Seed Carriers",
+   "title": "Autonomous Self-Burying Seed Carriers for Aerial Seeding (E-seed)",
    "year": 2023,
    "field": "bio",
    "sub": "responsive",
