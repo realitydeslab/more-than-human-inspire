@@ -2000,34 +2000,98 @@
   "batch": "mth-leads"
  },
  {
+  "name": "Katie Zacarian",
+  "why": "Former CEO of Earth Species Project; co-author of BEANS and BEBE; public voice on ethics of decoding.",
+  "link": "https://earthspecies.org/about-us/",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Masato Hagiwara",
+  "why": "ESP senior AI researcher behind AVES, BEANS, ISPA and the term Animal Language Processing.",
+  "link": "https://earthspecies.org/about-us/",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Gašper Beguš",
+  "why": "UC Berkeley linguist leading CETI's interpretable-GAN and vowel work; also CiwGAN/fiwGAN speech models.",
+  "link": "https://www.gasperbegus.com",
+  "found_via": "project-ceti",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Raincoast Conservation Foundation (Valeria Vergara, Lance Barrett-Lennard)",
+  "why": "Killer whale communication and ship-noise studies with ESP.",
+  "link": "https://www.raincoast.org/voice/",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "FrogID (Australian Museum)",
+  "why": "Citizen-science frog call app that evaluated NatureLM-audio on real data.",
+  "link": "https://www.frogid.net.au",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "PrimateFace (Felipe Parodi)",
+  "why": "Face-landmark model across 60+ primate genera for studying facial expression, NeurIPS 2025 animal communication workshop.",
+  "link": "https://earthspecies.org/2026/04/07/what-can-a-primate-face-tell-us-a-scalable-approach-to-studying-facial-expressions/",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "NeurIPS 2025 Workshop on AI for Non-Human Animal Communication",
+  "why": "Co-organised by ESP; its accepted papers are a ready list of new works (bees, frogs, primates, zebra finches).",
+  "link": "https://earthspecies.org/blog/",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Hawaiian crow vocal repertoire (Christian Rutz, ESP)",
+  "why": "Ongoing ESP partnership on tool-using ʻalalā crows; no publication with media yet.",
+  "link": "https://earthspecies.org/what-we-do/partners-projects/",
+  "found_via": "christian-rutz",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Santa Fe Institute 'Animals in Translation' workshop (2024)",
+  "why": "Interspecies Internet + XPRIZE meeting that drafted criteria for claiming a decode.",
+  "link": "https://earthspecies.org/2024/07/15/field-notes-defining-decode/",
+  "found_via": "interspecies-internet",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Google Perch bioacoustics model",
+  "why": "Google Research's bird/whale classifier and agile-modelling tools, compared against BirdAVES.",
+  "link": "https://github.com/google-research/perch",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Alinta Krauth — Leonardo papers on AI animal translation",
+  "why": "Artist-researcher critiques of AI translation of animal sounds; overlaps this batch's communication scope.",
+  "link": "https://alintakrauth.com",
+  "found_via": "earth-species-project",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
   "name": "Kristin N. Dew & Daniela Rosner",
   "why": "'Lessons from the Woodshop: Cultivating Design with Living Materials' (CHI 2018) treats wood as a living collaborator; not in the Crossref term results.",
   "link": "https://doi.org/10.1145/3173574.3174159",
   "found_via": "seed",
-  "status": "open",
-  "batch": "mth-sweep"
- },
- {
-  "name": "Bee and honeybee co-creation papers (TEI/CHI)",
-  "why": "Telling the Bees (TEI 2019), 4D Bioforming with Bees (CHI 2025), Wax Arts with Honeybees (TEI 2025): left to the aci batch by agreement.",
-  "link": "https://doi.org/10.1145/3706598.3713696",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "mth-sweep"
- },
- {
-  "name": "Speaking for Animals / Urban Noticing Probes for Community Animals",
-  "why": "DIS 2026 and CHI 2025 multispecies-activism and street-animal cohabitation papers; left to the aci batch.",
-  "link": "https://doi.org/10.1145/3706598.3713977",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "mth-sweep"
- },
- {
-  "name": "Weilenmann & Juhlin — Exploring interspecies sensemaking (UbiComp 2012)",
-  "why": "Early multispecies ethnography of dog-tracking technology in hunting; left to the aci batch.",
-  "link": "https://doi.org/10.1145/2370216.2370239",
-  "found_via": "fredrik-aspling",
   "status": "open",
   "batch": "mth-sweep"
  },

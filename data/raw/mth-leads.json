@@ -1,0 +1,3070 @@
+{
+ "batch": "mth-leads",
+ "creators": [
+  {
+   "id": "aza-raskin",
+   "name": "Aza Raskin",
+   "kind": "person",
+   "role": "Co-founder and President of Earth Species Project; co-founder of the Center for Humane Technology",
+   "role_zh": "Earth Species Project 联合创始人兼总裁；Center for Humane Technology 联合创始人",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Aza Raskin is a designer and technologist who co-founded Earth Species Project in 2017 to use machine learning to decode nonhuman communication.",
+   "bio_zh": "Aza Raskin 是设计师和技术专家，2017 年联合创办 Earth Species Project，用机器学习解码非人类的交流。",
+   "why": "He framed animal-communication AI as a cultural project that could change how humans see their place in nature.",
+   "why_zh": "他把动物交流 AI 定位为一项文化工程，希望借此改变人类对自身在自然中位置的理解。",
+   "links": {
+    "site": "https://www.earthspecies.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "earth-species-project"
+   ],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "christian-rutz",
+   "name": "Christian Rutz",
+   "kind": "person",
+   "role": "Professor of Biology, University of St Andrews; founding president of the International Bio-Logging Society",
+   "role_zh": "圣安德鲁斯大学生物学教授；国际生物记录学会创会主席",
+   "based": "St Andrews, UK",
+   "based_zh": "圣安德鲁斯，英国",
+   "bio": "Christian Rutz is a behavioural ecologist known for work on tool-using New Caledonian and Hawaiian crows and on animal-borne tracking tags.",
+   "bio_zh": "Christian Rutz 是行为生态学家，以研究会使用工具的新喀鸦和夏威夷乌鸦以及动物携带式追踪标签而知名。",
+   "why": "He co-authored the field's reference paper on how machine learning should and should not be used to decode animal communication.",
+   "why_zh": "他参与撰写了该领域关于如何（以及不该如何）用机器学习解码动物交流的代表性论文。",
+   "links": {
+    "site": "https://www.st-andrews.ac.uk/biology/people/cr68",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "earth-species-project"
+   ],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "shane-gero",
+   "name": "Shane Gero",
+   "kind": "person",
+   "role": "Founder of the Dominica Sperm Whale Project; Biology Lead of Project CETI",
+   "role_zh": "Dominica Sperm Whale Project 创始人；Project CETI 生物学负责人",
+   "based": "Ottawa, Canada / Dominica",
+   "based_zh": "渥太华，加拿大 / 多米尼克",
+   "bio": "Shane Gero is a whale biologist who has followed the same sperm whale families off Dominica since 2005, building the long-term dataset that Project CETI's AI work relies on.",
+   "bio_zh": "Shane Gero 是鲸类生物学家，自 2005 年起持续追踪多米尼克海域的同一批抹香鲸家族，建立了 Project CETI 的 AI 研究所依赖的长期数据集。",
+   "why": "His decades of knowing individual whales by name show that decoding needs patient fieldwork, not only models.",
+   "why_zh": "他数十年来按名字认识每一头鲸，说明解码既需要模型，也需要耐心的野外工作。",
+   "links": {
+    "site": "https://www.thespermwhaleproject.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "project-ceti"
+   ],
+   "discovered_via": "project-ceti"
+  },
+  {
+   "id": "more-than-human-life-program",
+   "name": "More-Than-Human Life (MOTH) Program, NYU School of Law",
+   "kind": "lab",
+   "role": "Research program on the rights of nature and nonhuman animals, directed by César Rodríguez-Garavito",
+   "role_zh": "关于自然权利和非人类动物权利的研究项目，由 César Rodríguez-Garavito 主持",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "MOTH brings together lawyers, scientists, artists and Indigenous knowledge holders to develop legal and ethical frameworks that include more-than-human beings.",
+   "bio_zh": "MOTH 汇集律师、科学家、艺术家和原住民知识持有者，为包含超越人类的生命在内的法律与伦理框架出谋划策。",
+   "why": "It asks what legal duties follow once machines can partly understand what animals say.",
+   "why_zh": "它追问：一旦机器能部分理解动物在说什么，法律上随之产生哪些责任。",
+   "links": {
+    "site": "https://www.law.nyu.edu/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "project-ceti"
+   ],
+   "discovered_via": "project-ceti"
+  },
+  {
+   "id": "google-deepmind",
+   "name": "Google DeepMind",
+   "kind": "company",
+   "role": "AI research lab of Google",
+   "role_zh": "Google 的人工智能研究实验室",
+   "based": "London, UK / Mountain View, US",
+   "based_zh": "伦敦，英国 / 山景城，美国",
+   "bio": "Google DeepMind builds large AI models; its Gemma family of open models was adapted in 2025 to learn the structure of dolphin vocalisations.",
+   "bio_zh": "Google DeepMind 开发大型 AI 模型；2025 年其开放模型家族 Gemma 被改造用来学习海豚发声的结构。",
+   "why": "It brought a frontier language-model architecture to a decades-long field study of wild dolphins.",
+   "why_zh": "它把前沿的语言模型架构带进了一项持续数十年的野生海豚野外研究。",
+   "links": {
+    "site": "https://deepmind.google",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "wild-dolphin-project",
+    "thad-starner"
+   ],
+   "discovered_via": "denise-herzing"
+  },
+  {
+   "id": "wild-dolphin-project",
+   "name": "Wild Dolphin Project",
+   "kind": "lab",
+   "role": "Nonprofit research organisation founded by Denise Herzing in 1985",
+   "role_zh": "由 Denise Herzing 于 1985 年创立的非营利研究机构",
+   "based": "Jupiter, Florida, US",
+   "based_zh": "朱庇特，佛罗里达，美国",
+   "bio": "The Wild Dolphin Project has studied one community of wild Atlantic spotted dolphins in the Bahamas every summer since 1985, recording their sounds together with individual identities and behaviour.",
+   "bio_zh": "Wild Dolphin Project 自 1985 年起每年夏天在巴哈马研究同一群野生大西洋斑海豚，把它们的声音与个体身份和行为一起记录下来。",
+   "why": "It is the longest underwater study of a wild dolphin society and the data source behind CHAT and DolphinGemma.",
+   "why_zh": "这是对野生海豚社会最长的水下研究，也是 CHAT 和 DolphinGemma 背后的数据来源。",
+   "links": {
+    "site": "https://www.wilddolphinproject.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "denise-herzing",
+    "google-deepmind",
+    "thad-starner"
+   ],
+   "discovered_via": "denise-herzing"
+  },
+  {
+   "id": "karen-bakker",
+   "name": "Karen Bakker",
+   "kind": "person",
+   "role": "Professor, University of British Columbia; author (1968–2023)",
+   "role_zh": "英属哥伦比亚大学教授；作家（1968–2023）",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Karen Bakker was a geographer and writer who studied digital environmentalism and the rise of bioacoustics as a way of listening to nonhuman worlds.",
+   "bio_zh": "Karen Bakker 是地理学家和作家，研究数字环境主义，以及生物声学作为倾听非人类世界之方式的兴起。",
+   "why": "Her books gave designers and the public a clear map of how sensors and AI reshape our relationship with other species.",
+   "why_zh": "她的书为设计师和公众清楚描绘了传感器和 AI 如何重塑我们与其他物种的关系。",
+   "links": {
+    "site": "https://karenbakker.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "earth-species-project",
+    "interspecies-internet"
+   ],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "irene-pepperberg",
+   "name": "Irene Pepperberg",
+   "kind": "person",
+   "role": "Research associate, Harvard University; founder of The Alex Foundation",
+   "role_zh": "哈佛大学研究员；The Alex Foundation 创始人",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "bio": "Irene Pepperberg is a comparative psychologist who spent three decades teaching the African grey parrot Alex to use English labels for objects, colours and numbers.",
+   "bio_zh": "Irene Pepperberg 是比较心理学家，用了三十年时间教非洲灰鹦鹉 Alex 用英语词汇指称物体、颜色和数量。",
+   "why": "Her model-rival method showed that two-way symbolic communication with a bird is possible and measurable.",
+   "why_zh": "她的“示范者-竞争者”方法证明，与鸟类进行双向符号交流是可能的，而且可以测量。",
+   "links": {
+    "site": "https://alexfoundation.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "rebecca-kleinberger"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "sue-savage-rumbaugh",
+   "name": "Sue Savage-Rumbaugh",
+   "kind": "person",
+   "role": "Primatologist; former researcher at Georgia State University's Language Research Center",
+   "role_zh": "灵长类学家；曾任佐治亚州立大学语言研究中心研究员",
+   "based": "Iowa / Georgia, US",
+   "based_zh": "艾奥瓦 / 佐治亚，美国",
+   "bio": "Sue Savage-Rumbaugh is known for her work with the bonobo Kanzi, who learned to communicate using a keyboard of abstract symbols called lexigrams.",
+   "bio_zh": "Sue Savage-Rumbaugh 以与倭黑猩猩 Kanzi 的合作而知名；Kanzi 学会了使用一种由抽象符号（lexigram）组成的键盘进行交流。",
+   "why": "The lexigram board is one of the first designed interfaces between a human and another species.",
+   "why_zh": "Lexigram 键盘是人类与其他物种之间最早被设计出来的界面之一。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "interspecies-internet"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "con-slobodchikoff",
+   "name": "Con Slobodchikoff",
+   "kind": "person",
+   "role": "Professor Emeritus of Biology, Northern Arizona University; founder of Zoolingua",
+   "role_zh": "北亚利桑那大学生物学荣休教授；Zoolingua 创始人",
+   "based": "Flagstaff, Arizona, US",
+   "based_zh": "弗拉格斯塔夫，亚利桑那，美国",
+   "bio": "Con Slobodchikoff studied Gunnison's prairie dog alarm calls for decades and found that they encode the type, size and colour of predators.",
+   "bio_zh": "Con Slobodchikoff 数十年研究甘尼森草原犬鼠的警报叫声，发现这些叫声编码了捕食者的种类、大小和颜色。",
+   "why": "He moved from field linguistics of a rodent to a start-up that promises AI translation for pet dogs, a useful case for debating what translation means.",
+   "why_zh": "他从研究一种啮齿动物的“野外语言学”走到了承诺为宠物狗做 AI 翻译的创业公司，是讨论“翻译”含义的有用案例。",
+   "links": {
+    "site": "https://zoolingua.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "yossi-yovel",
+   "name": "Yossi Yovel",
+   "kind": "person",
+   "role": "Professor of Zoology, Tel Aviv University; head of the Bat Lab for Neuro-Ecology",
+   "role_zh": "特拉维夫大学动物学教授；蝙蝠神经生态学实验室负责人",
+   "based": "Tel Aviv, Israel",
+   "based_zh": "特拉维夫，以色列",
+   "bio": "Yossi Yovel studies how bats sense, navigate and communicate, using miniature GPS and audio tags on wild Egyptian fruit bats.",
+   "bio_zh": "Yossi Yovel 研究蝙蝠如何感知、导航和交流，在野生埃及果蝠身上使用微型 GPS 和录音标签。",
+   "why": "His lab showed that everyday bat squabbles carry who-is-talking-to-whom information, and co-runs the Coller-Dolittle Prize.",
+   "why_zh": "他的实验室证明蝙蝠日常的争吵声里包含“谁在对谁说话”的信息，并参与运营 Coller-Dolittle 奖。",
+   "links": {
+    "site": "https://www.yossiyovel.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "mickey-pardo",
+   "name": "Mickey Pardo",
+   "kind": "person",
+   "role": "Behavioural ecologist; postdoctoral researcher at Cornell University and Colorado State University",
+   "role_zh": "行为生态学家；康奈尔大学与科罗拉多州立大学博士后研究员",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "Mickey Pardo studies elephant vocal communication and led the study showing that African elephants address each other with name-like calls.",
+   "bio_zh": "Mickey Pardo 研究大象的声音交流，主导了“非洲象用类似名字的叫声彼此称呼”的研究。",
+   "why": "His work used machine learning to detect names in a species that does not imitate sounds, widening what counts as naming.",
+   "why_zh": "他用机器学习在一个不模仿声音的物种中发现了名字，拓宽了“命名”的含义。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "interspecies-internet"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "david-omer",
+   "name": "David Omer",
+   "kind": "person",
+   "role": "Principal Investigator, Safra Center for Brain Sciences, Hebrew University of Jerusalem",
+   "role_zh": "耶路撒冷希伯来大学 Safra 脑科学中心首席研究员",
+   "based": "Jerusalem, Israel",
+   "based_zh": "耶路撒冷，以色列",
+   "bio": "David Omer's lab studies the neural basis of vocal communication in common marmosets.",
+   "bio_zh": "David Omer 的实验室研究普通狨猴声音交流的神经基础。",
+   "why": "His team showed that marmosets use specific calls to address specific individuals, a finalist of the first Coller-Dolittle Prize.",
+   "why_zh": "他的团队证明狨猴会用特定叫声称呼特定个体，入围首届 Coller-Dolittle 奖决赛。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "inbal-arnon",
+   "name": "Inbal Arnon",
+   "kind": "person",
+   "role": "Professor of Psychology, Hebrew University of Jerusalem",
+   "role_zh": "耶路撒冷希伯来大学心理学教授",
+   "based": "Jerusalem, Israel",
+   "based_zh": "耶路撒冷，以色列",
+   "bio": "Inbal Arnon studies how children learn language and how statistical structure shapes learning.",
+   "bio_zh": "Inbal Arnon 研究儿童如何习得语言，以及统计结构如何影响学习。",
+   "why": "She applied tools from infant language research to humpback whale song and found the same statistical fingerprint.",
+   "why_zh": "她把婴儿语言研究的工具用于座头鲸歌声，发现了相同的统计特征。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "ocean-alliance",
+   "name": "Ocean Alliance",
+   "kind": "lab",
+   "role": "Whale research and conservation nonprofit founded by Roger Payne in 1971; led by Iain Kerr",
+   "role_zh": "由 Roger Payne 于 1971 年创立的鲸类研究与保护非营利组织；现由 Iain Kerr 领导",
+   "based": "Gloucester, Massachusetts, US",
+   "based_zh": "格洛斯特，马萨诸塞，美国",
+   "bio": "Ocean Alliance studies whales with non-invasive tools, from its long-running voyages to drones that collect whale breath.",
+   "bio_zh": "Ocean Alliance 用非侵入式工具研究鲸，从长期远洋考察到收集鲸鱼呼气的无人机。",
+   "why": "It showed that a consumer drone can replace darts and chases as a way to sample a whale's body.",
+   "why_zh": "它证明，一架消费级无人机就能取代飞镖和追逐，去采集鲸鱼身体的样本。",
+   "links": {
+    "site": "https://whale.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "roger-payne"
+   ],
+   "discovered_via": "project-ceti"
+  },
+  {
+   "id": "google-creative-lab",
+   "name": "Google Creative Lab",
+   "kind": "studio",
+   "role": "Google's in-house creative team for experiments and campaigns",
+   "role_zh": "Google 内部负责实验项目与传播活动的创意团队",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Google Creative Lab makes public-facing experiments that let non-experts play with machine learning.",
+   "bio_zh": "Google Creative Lab 制作面向公众的实验项目，让非专业人士也能上手玩机器学习。",
+   "why": "Its Pattern Radio turned years of ocean recordings into an explorable interface anyone can browse.",
+   "why_zh": "它的 Pattern Radio 把多年的海洋录音变成任何人都能浏览的可探索界面。",
+   "links": {
+    "site": "https://experiments.withgoogle.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "earth-species-project"
+  },
+  {
+   "id": "whale-seti",
+   "name": "Whale-SETI",
+   "kind": "lab",
+   "role": "Research team of the SETI Institute, UC Davis and the Alaska Whale Foundation (Brenda McCowan, Laurance Doyle, Fred Sharpe)",
+   "role_zh": "由 SETI Institute、加州大学戴维斯分校和 Alaska Whale Foundation 组成的研究团队（Brenda McCowan、Laurance Doyle、Fred Sharpe）",
+   "based": "California / Alaska, US",
+   "based_zh": "加利福尼亚 / 阿拉斯加，美国",
+   "bio": "Whale-SETI studies humpback whale communication with information theory as a test case for recognising intelligent signals from unknown senders.",
+   "bio_zh": "Whale-SETI 用信息论研究座头鲸的交流，把它当作识别未知发送者智能信号的测试案例。",
+   "why": "It treats talking to a whale as a rehearsal for talking to any nonhuman mind.",
+   "why_zh": "它把与鲸对话看作与任何非人类心智对话的预演。",
+   "links": {
+    "site": "https://www.seti.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "interspecies-internet"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "laela-sayigh",
+   "name": "Laela Sayigh",
+   "kind": "person",
+   "role": "Research specialist, Woods Hole Oceanographic Institution; Sarasota Dolphin Research Program",
+   "role_zh": "伍兹霍尔海洋研究所研究专家；萨拉索塔海豚研究项目",
+   "based": "Woods Hole, Massachusetts, US",
+   "based_zh": "伍兹霍尔，马萨诸塞，美国",
+   "bio": "Laela Sayigh has studied the signature whistles of the Sarasota Bay bottlenose dolphin community for over 35 years.",
+   "bio_zh": "Laela Sayigh 研究萨拉索塔湾宽吻海豚群体的签名哨声已超过 35 年。",
+   "why": "Her team won the first Coller-Dolittle Prize for showing dolphins share whistle types that may work like words.",
+   "why_zh": "她的团队因发现海豚共享可能像词语一样起作用的哨声类型，获得首届 Coller-Dolittle 奖。",
+   "links": {
+    "site": "https://www.whoi.edu",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "sophie-cohen-bodenes",
+   "name": "Sophie Cohen-Bodénès",
+   "kind": "person",
+   "role": "Researcher, École normale supérieure (with Peter Neri)",
+   "role_zh": "巴黎高等师范学院研究员（与 Peter Neri 合作）",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Sophie Cohen-Bodénès studies visual and vibrational signalling in cuttlefish.",
+   "bio_zh": "Sophie Cohen-Bodénès 研究乌贼的视觉信号和振动信号。",
+   "why": "She documented a sign-like arm-waving repertoire in cuttlefish and tested it with playback videos.",
+   "why_zh": "她记录了乌贼一套类似手语的挥臂动作，并用回放视频加以检验。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "daniela-vallentin",
+   "name": "Daniela Vallentin",
+   "kind": "person",
+   "role": "Research group leader, Max Planck Institute for Biological Intelligence",
+   "role_zh": "马克斯·普朗克生物智能研究所研究组长",
+   "based": "Seewiesen, Germany",
+   "based_zh": "泽维森，德国",
+   "bio": "Daniela Vallentin studies the neural circuits of vocal learning and turn-taking in songbirds.",
+   "bio_zh": "Daniela Vallentin 研究鸣禽发声学习与轮流发声的神经回路。",
+   "why": "Her team used real-time interactive playback to duet with wild nightingales.",
+   "why_zh": "她的团队用实时互动回放与野生夜莺进行对唱。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "julie-elie",
+   "name": "Julie Elie",
+   "kind": "person",
+   "role": "Researcher, University of California, Berkeley (Theunissen Lab)",
+   "role_zh": "加州大学伯克利分校研究员（Theunissen 实验室）",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "bio": "Julie Elie studies the vocal repertoire and meaning of calls in zebra finches, in the lab and in the wild.",
+   "bio_zh": "Julie Elie 在实验室和野外研究斑胸草雀的鸣叫种类及其含义。",
+   "why": "She mapped the full call vocabulary of a songbird and won the 2026 Coller-Dolittle Prize.",
+   "why_zh": "她绘制了一种鸣禽完整的叫声词汇表，获得 2026 年 Coller-Dolittle 奖。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "melissa-berthet",
+   "name": "Mélissa Berthet",
+   "kind": "person",
+   "role": "Researcher, University of Zurich (Department of Comparative Language Science)",
+   "role_zh": "苏黎世大学比较语言科学系研究员",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Mélissa Berthet studies meaning and syntax in primate calls, using methods from formal semantics.",
+   "bio_zh": "Mélissa Berthet 用形式语义学方法研究灵长类叫声中的意义和句法。",
+   "why": "She showed that bonobos combine calls in ways that build new meanings, as human language does.",
+   "why_zh": "她证明倭黑猩猩会像人类语言那样组合叫声，从而产生新的意义。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "catherine-crockford",
+   "name": "Catherine Crockford",
+   "kind": "person",
+   "role": "Director of Research, CNRS Institute for Cognitive Sciences; co-director of the Taï Chimpanzee Project",
+   "role_zh": "法国国家科学研究中心认知科学研究所研究主任；Taï 黑猩猩项目联合负责人",
+   "based": "Lyon, France / Côte d'Ivoire",
+   "based_zh": "里昂，法国 / 科特迪瓦",
+   "bio": "Catherine Crockford studies vocal communication and social bonds in wild chimpanzees in the Taï forest.",
+   "bio_zh": "Catherine Crockford 在 Taï 森林研究野生黑猩猩的声音交流与社会关系。",
+   "why": "Her team catalogued thousands of chimpanzee call sequences to look for grammar-like order.",
+   "why_zh": "她的团队整理了数千条黑猩猩叫声序列，寻找类似语法的顺序。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  },
+  {
+   "id": "nicolas-mathevon",
+   "name": "Nicolas Mathevon",
+   "kind": "person",
+   "role": "Professor, University of Saint-Étienne (ENES Bioacoustics Research Lab)",
+   "role_zh": "圣艾蒂安大学教授（ENES 生物声学研究实验室）",
+   "based": "Saint-Étienne, France",
+   "based_zh": "圣艾蒂安，法国",
+   "bio": "Nicolas Mathevon is a bioacoustician who studies how animals, from crocodiles to mice, encode information in sound.",
+   "bio_zh": "Nicolas Mathevon 是生物声学家，研究从鳄鱼到小鼠等动物如何在声音中编码信息。",
+   "why": "He took ultrasonic recording of mice out of the lab and into a wild population.",
+   "why_zh": "他把小鼠超声录音从实验室带到了野生种群中。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "yossi-yovel"
+  }
+ ],
+ "works": [
+  {
+   "id": "earth-species-project--decoding-roadmap",
+   "creator_ids": [
+    "earth-species-project",
+    "aza-raskin"
+   ],
+   "title": "Roadmaps towards decoding non-human languages (ESP Technical Roadmap)",
+   "year": 2020,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Earth Species Project's public research plan for decoding animal communication, first published on GitHub in 2020 and expanded as a technical roadmap in 2022: from building benchmarks and foundation models to testing meaning with generative playback.",
+   "description_zh": "Earth Species Project 公开的动物交流解码研究计划：2020 年首次发布在 GitHub 上，2022 年扩展为技术路线图——从建立基准和基础模型，到用生成式回放检验意义。",
+   "idea_en": "Treat decoding another species as a staged engineering roadmap that others can follow and criticise.",
+   "idea_zh": "把解码另一个物种当作一条分阶段、可供他人跟随和批评的工程路线图。",
+   "method": "It borrows the idea from unsupervised machine translation that languages share a latent geometry, and proposes aligning embeddings of animal signals and behaviour.",
+   "method_zh": "借鉴无监督机器翻译中“不同语言共享潜在几何结构”的想法，提出把动物信号与行为的嵌入空间对齐。",
+   "keywords": [
+    "Earth Species Project",
+    "roadmap",
+    "unsupervised translation",
+    "latent space",
+    "decoding"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rjvsl0mhqTk"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/638f8b23f186af7be3328294_Roadmap-Hero.png"
+   ],
+   "source_url": "https://earthspecies.org/2022/12/02/esp-technical-roadmap/",
+   "code_url": "https://github.com/earthspecies/project"
+  },
+  {
+   "id": "earth-species-project--biocppnet",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "BioCPPNet: automatic bioacoustic source separation with deep neural networks",
+   "year": 2021,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A neural network that pulls apart overlapping animal calls in one recording, separating the voices of individual macaques, bats and dolphins so each can be analysed on its own.",
+   "description_zh": "一个把单条录音里重叠的动物叫声分离开的神经网络，把猕猴、蝙蝠和海豚个体的声音逐一剥离，便于分别分析。",
+   "idea_en": "Solve the animal 'cocktail party problem' before trying to understand what anyone is saying.",
+   "idea_zh": "在理解谁在说什么之前，先解决动物的“鸡尾酒会问题”。",
+   "method": "A lightweight U-Net–style network trained on synthetic mixtures of known individuals' calls predicts a separate waveform for each speaker.",
+   "method_zh": "用已知个体叫声合成的混合音训练一个轻量的 U-Net 式网络，为每个“说话者”预测一条独立波形。",
+   "keywords": [
+    "BioCPPNet",
+    "source separation",
+    "cocktail party problem",
+    "macaque",
+    "Egyptian fruit bat",
+    "bottlenose dolphin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TGWFr-6JCDk"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/632ce7a5951bc104d2297aed_631d410ba6a75c58e6d8b259_0_hPfNeo5RHL-slH_D.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-021-02790-2",
+    "doi": "10.1038/s41598-021-02790-2",
+    "arxiv": "",
+    "venue": "Scientific Reports 2021",
+    "title": "BioCPPNet: automatic bioacoustic source separation with deep neural networks"
+   },
+   "source_url": "https://earthspecies.org/2022/09/22/solving-the-cocktail-party-problem/",
+   "code_url": "https://github.com/earthspecies/cocktail-party-problem"
+  },
+  {
+   "id": "earth-species-project--beans",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "BEANS: The Benchmark of Animal Sounds",
+   "year": 2023,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "A public benchmark of 12 datasets covering birds, mammals, amphibians and insects, used to compare how well machine-learning models classify and detect animal sounds.",
+   "description_zh": "一个包含 12 个数据集的公开基准，覆盖鸟类、哺乳动物、两栖动物和昆虫，用来比较机器学习模型识别和检测动物声音的能力。",
+   "idea_en": "A shared test lets a scattered field measure progress on many species at once.",
+   "idea_zh": "一套共享的测试，能让分散的领域同时衡量在多个物种上的进展。",
+   "method": "Standardised classification and detection tasks with fixed splits and baselines (from logistic regression to pretrained audio networks).",
+   "method_zh": "设定固定划分和基线（从逻辑回归到预训练音频网络）的标准化分类与检测任务。",
+   "keywords": [
+    "BEANS",
+    "benchmark",
+    "bioacoustics",
+    "classification",
+    "detection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=nY1-N1M-rxk"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/637e04ed3e538d1047f965e3_bee-and-flowers.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/ICASSP49357.2023.10096686",
+    "doi": "10.1109/ICASSP49357.2023.10096686",
+    "arxiv": "2210.12300",
+    "venue": "ICASSP 2023",
+    "title": "BEANS: The Benchmark of Animal Sounds"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/",
+   "code_url": "https://github.com/earthspecies/beans"
+  },
+  {
+   "id": "earth-species-project--aves",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "AVES: Animal Vocalization Encoder based on Self-Supervision",
+   "year": 2023,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "The first self-supervised foundation model for animal vocalisations: it learns general features of animal sound from unlabelled recordings and can then be fine-tuned for many species and tasks.",
+   "description_zh": "第一个面向动物发声的自监督基础模型：先从未标注录音中学习动物声音的通用特征，再针对不同物种和任务微调。",
+   "idea_en": "Let a model listen to vast unlabelled nature recordings before asking it anything specific.",
+   "idea_zh": "先让模型大量聆听未标注的自然录音，再向它提具体问题。",
+   "method": "A HuBERT transformer pretrained on curated animal sounds from FSD50K, AudioSet and VGGSound, evaluated on BEANS.",
+   "method_zh": "在 FSD50K、AudioSet 和 VGGSound 中筛选出的动物声音上预训练 HuBERT Transformer，并用 BEANS 评估。",
+   "keywords": [
+    "AVES",
+    "self-supervised learning",
+    "HuBERT",
+    "foundation model",
+    "animal vocalization"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9i-_CEhoCzw"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/647795b555df52d1f2e00f4d_rene-riegal-qAts81pZrbg-unsplash-1-min.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2210.14493",
+    "doi": "",
+    "arxiv": "2210.14493",
+    "venue": "ICASSP 2023",
+    "title": "AVES: Animal Vocalization Encoder based on Self-Supervision"
+   },
+   "source_url": "https://earthspecies.org/2023/05/31/finding-the-signal-in-the-noise-how-machine-learning-can-help-us-perceive-understand-and-protect-other-species/",
+   "code_url": "https://github.com/earthspecies/aves"
+  },
+  {
+   "id": "earth-species-project--animal-vocalization-synthesizers",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Modeling Animal Vocalizations through Synthesizers",
+   "year": 2022,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Instead of generating animal calls with a black-box network, this work fits the knobs of a differentiable sound synthesiser to reproduce recorded calls, so each call is described by a few readable parameters.",
+   "description_zh": "这项研究不用黑箱网络生成动物叫声，而是调节一个可微分声音合成器的旋钮去复现录音，让每一声叫都能用几个可读的参数来描述。",
+   "idea_en": "Describe an animal call as a synth patch that a person can read and tweak.",
+   "idea_zh": "把一声动物叫描述成一个人能读懂、能调整的合成器音色。",
+   "method": "Gradient-based and black-box optimisation of modular synthesiser parameters to match target vocalisations.",
+   "method_zh": "用基于梯度和黑箱的优化方法调整模块化合成器参数，使其匹配目标叫声。",
+   "keywords": [
+    "synthesizer",
+    "vocal modeling",
+    "generative audio",
+    "interpretability"
+   ],
+   "images": [
+    "https://arxiv.org/html/2210.10857v1/fig_overview.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2210.10857",
+    "doi": "",
+    "arxiv": "2210.10857",
+    "venue": "arXiv 2022",
+    "title": "Modeling Animal Vocalizations through Synthesizers"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/"
+  },
+  {
+   "id": "earth-species-project--bebe",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "BEBE: The Bio-logger Ethogram Benchmark",
+   "year": 2024,
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A benchmark of nine animal-borne sensor datasets, from sea turtles and crows to dogs and polar bears, for testing how well models turn raw motion data into behaviours; it grew out of ESP's National Geographic-funded self-supervised ethogram discovery project.",
+   "description_zh": "一个包含九个动物携带式传感器数据集的基准，从海龟、乌鸦到狗和北极熊，用来测试模型把原始运动数据转译为行为的能力；它源自 ESP 获得国家地理资助的“自监督行为谱发现”项目。",
+   "idea_en": "Behaviour, not only sound, is part of what an animal says.",
+   "idea_zh": "行为和声音一样，都是动物“说话”的一部分。",
+   "method": "Accelerometer, gyroscope and depth data from bio-loggers, labelled with behaviours and used to compare deep and classical classifiers, including self-supervised pretraining.",
+   "method_zh": "使用生物记录器的加速度计、陀螺仪和深度数据并标注行为，比较深度学习和传统分类器（含自监督预训练）的效果。",
+   "keywords": [
+    "BEBE",
+    "bio-logging",
+    "ethogram",
+    "accelerometer",
+    "benchmark",
+    "National Geographic"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1186%2Fs40462-024-00511-8/MediaObjects/40462_2024_511_Fig1_HTML.png",
+    "https://earthspecies.org/wp-content/uploads/2026/01/632ce7a53477ec726d657d53_631935de159912e0f26b5c47_1_XK47qdmOs-DOQmaPzWLsAA.jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1186/s40462-024-00511-8",
+    "doi": "10.1186/s40462-024-00511-8",
+    "arxiv": "",
+    "venue": "Movement Ecology 2024",
+    "title": "A benchmark for computational analysis of animal behavior, using animal-borne tags"
+   },
+   "source_url": "https://earthspecies.org/2022/09/22/self-supervised-ethogram-discovery/",
+   "code_url": "https://github.com/earthspecies/BEBE"
+  },
+  {
+   "id": "earth-species-project--voxaboxen",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Voxaboxen",
+   "year": 2023,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "An open-source tool that finds and labels every animal call in long field recordings with precise start and end times, so biologists no longer mark each call by hand.",
+   "description_zh": "一个开源工具，能在长时间的野外录音中找出并标注每一声动物叫，给出精确的起止时间，让生物学家不必再手工逐条标记。",
+   "idea_en": "Automate the slowest step of bioacoustics, annotation, so that studies can scale to whole seasons.",
+   "idea_zh": "把生物声学中最慢的一步——标注——自动化，让研究可以扩展到整个季节。",
+   "method": "Built on the AVES encoder with a detection head that predicts bounding boxes in time, trained on a few annotated files.",
+   "method_zh": "基于 AVES 编码器，加上在时间轴上预测边界框的检测头，只需少量标注文件即可训练。",
+   "keywords": [
+    "Voxaboxen",
+    "sound event detection",
+    "annotation",
+    "AVES",
+    "open source"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/64f0505eba7a72f147af1c09_joshua-j-cotten-Y_OxRWJFvuw-unsplash-1.jpg"
+   ],
+   "source_url": "https://earthspecies.org/2023/08/31/voxaboxen-new-tool-to-support-annotation-of-large-audio-files/",
+   "code_url": "https://github.com/earthspecies/voxaboxen"
+  },
+  {
+   "id": "earth-species-project--birdaves",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "BirdAVES",
+   "year": 2024,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A family of self-supervised audio models specialised for birds, released openly; it improves on AVES by more than 20% on bird datasets and tasks.",
+   "description_zh": "一组专门针对鸟类的自监督音频模型，开放发布；在鸟类数据集和任务上比 AVES 提升了 20% 以上。",
+   "idea_en": "A foundation model tuned for one richly vocal group can serve a whole community of field ornithologists.",
+   "idea_zh": "为一个叫声丰富的类群专门调校的基础模型，可以服务整个野外鸟类学界。",
+   "method": "HuBERT and BEATs-style encoders pretrained on large bird recording collections such as Xeno-canto, compared with BirdNET and Perch.",
+   "method_zh": "在 Xeno-canto 等大型鸟类录音集上预训练 HuBERT 和 BEATs 式编码器，并与 BirdNET、Perch 对比。",
+   "keywords": [
+    "BirdAVES",
+    "birdsong",
+    "self-supervised learning",
+    "Xeno-canto",
+    "foundation model"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/6674594a2cb3b5a535caf742_mario-mendez-JNK1R53FeYw-unsplash.jpg"
+   ],
+   "source_url": "https://earthspecies.org/2024/06/20/introducing-birdaves-self-supervised-audio-foundation-model-for-birds/",
+   "code_url": "https://github.com/earthspecies/aves"
+  },
+  {
+   "id": "earth-species-project--ispa",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds",
+   "year": 2024,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A proposal to write down any animal sound as text, like the International Phonetic Alphabet does for human speech, so that language models can read and learn from animal vocalisations.",
+   "description_zh": "一项把任何动物声音写成文字的方案，就像国际音标记录人类语音那样，让语言模型可以“阅读”并学习动物发声。",
+   "idea_en": "Transcription is a design decision: choose a notation and animal sound becomes text that language tools can use.",
+   "idea_zh": "转写本身就是设计决定：选定一种记法，动物声音就成了语言工具能处理的文本。",
+   "method": "Acoustic features are clustered into discrete phoneme-like units, and the resulting transcripts are used to train text-based models for classification.",
+   "method_zh": "把声学特征聚类为离散的类音素单元，再用得到的转写文本训练基于文本的分类模型。",
+   "keywords": [
+    "ISPA",
+    "transcription",
+    "phonetic alphabet",
+    "language models",
+    "discrete units"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.03269v1/fig_phoneme_cluster.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/icasspw62465.2024.10669911",
+    "doi": "10.1109/icasspw62465.2024.10669911",
+    "arxiv": "2402.03269",
+    "venue": "ICASSP Workshops 2024",
+    "title": "ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/",
+   "code_url": "https://github.com/earthspecies/ispa"
+  },
+  {
+   "id": "christian-rutz--ml-decode-animal-communication",
+   "creator_ids": [
+    "christian-rutz",
+    "earth-species-project",
+    "aza-raskin"
+   ],
+   "title": "Using machine learning to decode animal communication",
+   "year": 2023,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A Science perspective by biologists and ESP researchers that lays out what machine learning can realistically do for animal communication research, and warns about overclaiming and about effects on animals.",
+   "description_zh": "一篇由生物学家和 ESP 研究者撰写的 Science 观点文章，阐述机器学习在动物交流研究中能实际做到什么，并对夸大其词及对动物的影响提出警示。",
+   "idea_en": "Decoding is a scientific claim that needs criteria, experiments and ethics, not only bigger models.",
+   "idea_zh": "“解码”是一项科学主张，需要判定标准、实验和伦理，而不只是更大的模型。",
+   "method": "A review of supervised, self-supervised and generative methods, with playback experiments proposed as the test of meaning.",
+   "method_zh": "综述监督、自监督和生成式方法，并提出以回放实验作为检验意义的手段。",
+   "keywords": [
+    "Science",
+    "perspective",
+    "playback",
+    "ethics",
+    "animal communication"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/656cb45ee88deb55269fee96_Burrowing-Owls.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adg7314",
+    "doi": "10.1126/science.adg7314",
+    "arxiv": "",
+    "venue": "Science 2023",
+    "title": "Using machine learning to decode animal communication"
+   },
+   "source_url": "https://www.science.org/doi/10.1126/science.adg7314"
+  },
+  {
+   "id": "earth-species-project--biodenoising",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Biodenoising: Animal Vocalization Denoising without Access to Clean Data",
+   "year": 2024,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A method and open tool that removes wind, rain, boat engines and lab hum from animal recordings, even though no perfectly clean animal recordings exist to learn from.",
+   "description_zh": "一种方法和开放工具，可以去除动物录音中的风声、雨声、船只引擎和实验室嗡嗡声，即使并不存在可供学习的完全干净的动物录音。",
+   "idea_en": "Borrow a denoiser trained on human speech and let it bootstrap its own animal training data.",
+   "idea_zh": "借用在人类语音上训练的降噪器，让它自己生成动物领域的训练数据。",
+   "method": "A speech-enhancement model creates pseudo-clean targets, which are remixed with noise to train a new model iteratively.",
+   "method_zh": "用语音增强模型生成伪干净目标，再与噪声重新混合，迭代训练新模型。",
+   "keywords": [
+    "biodenoising",
+    "denoising",
+    "speech enhancement",
+    "noise",
+    "open source"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/67ae625135b978ff6aa16e7a_29275630206_512b1888b9_5k.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/icassp49660.2025.10889313",
+    "doi": "10.1109/icassp49660.2025.10889313",
+    "arxiv": "2410.03427",
+    "venue": "ICASSP 2025",
+    "title": "Biodenoising: Animal Vocalization Denoising without Access to Clean Data"
+   },
+   "source_url": "https://earthspecies.org/2024/12/05/biodenoising-a-novel-method-for-noise-reduction-in-animal-vocalizations/",
+   "code_url": "https://github.com/earthspecies/biodenoising"
+  },
+  {
+   "id": "earth-species-project--drasdic",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "DRASDIC: Synthetic data enables context-aware bioacoustic sound event detection",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A detector that finds a target call type after seeing only a few examples, trained on millions of synthetic soundscapes assembled from real recordings.",
+   "description_zh": "一个只看几个示例就能找到目标叫声类型的检测器，训练数据是用真实录音拼合而成的数百万段合成声景。",
+   "idea_en": "When real labelled data is scarce, build the training world yourself.",
+   "idea_zh": "当真实标注数据稀缺时，自己构建训练世界。",
+   "method": "Domain randomisation: calls and backgrounds are mixed at random to create labelled scenes, and a transformer learns to detect events given example clips in context.",
+   "method_zh": "领域随机化：把叫声与背景随机混合成带标注的场景，再训练 Transformer 在给定示例片段的上下文中检测事件。",
+   "keywords": [
+    "DRASDIC",
+    "few-shot",
+    "sound event detection",
+    "synthetic data",
+    "domain randomization"
+   ],
+   "images": [
+    "https://arxiv.org/html/2503.00296v2/figures/figures_v1.003.jpeg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2503.00296",
+    "doi": "",
+    "arxiv": "2503.00296",
+    "venue": "arXiv 2025",
+    "title": "Synthetic data enables context-aware bioacoustic sound event detection"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/",
+   "code_url": "https://github.com/earthspecies/drasdic_api"
+  },
+  {
+   "id": "earth-species-project--overlapping-sound-events",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Robust detection of overlapping bioacoustic sound events",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A detection model for dense bird choruses where calls overlap, tested on zebra finch colonies and other species where standard detectors merge simultaneous calls.",
+   "description_zh": "一个用于密集鸟类合唱中叫声相互重叠情形的检测模型，在斑胸草雀群体等场景中测试；传统检测器会把同时发出的叫声合并。",
+   "idea_en": "Communication is often simultaneous; tools must hear two voices at once.",
+   "idea_zh": "交流常常是同时发生的，工具必须能同时听见两个声音。",
+   "method": "An onset/offset prediction scheme that allows events to overlap, trained with synthetic mixtures and evaluated on several bioacoustic datasets.",
+   "method_zh": "采用允许事件重叠的起止点预测方案，用合成混合音训练，并在多个生物声学数据集上评估。",
+   "keywords": [
+    "zebra finch",
+    "sound event detection",
+    "overlap",
+    "chorus"
+   ],
+   "images": [
+    "https://arxiv.org/html/2503.02389v2/synth_results.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2503.02389",
+    "doi": "",
+    "arxiv": "2503.02389",
+    "venue": "arXiv 2025",
+    "title": "Robust detection of overlapping bioacoustic sound events"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/"
+  },
+  {
+   "id": "earth-species-project--carrion-crow-biologgers",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Capturing vocal communication in a free-living corvid",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Tiny tags on wild, cooperatively breeding carrion crows in northern Spain recorded more than 127,000 soft calls that directional microphones miss; ESP's Voxaboxen found and sorted them by caller.",
+   "description_zh": "在西班牙北部合作繁殖的野生小嘴乌鸦身上佩戴微型标签，录下了定向麦克风听不到的 12.7 万余声轻声叫；ESP 的 Voxaboxen 找出这些叫声并按发声者分类。",
+   "idea_en": "Put the microphone on the animal, and the quiet family conversation becomes audible.",
+   "idea_zh": "把麦克风放到动物身上，安静的家庭对话就能被听见。",
+   "method": "MiniDTAG bio-loggers with audio and accelerometers, combined with video and machine-learning detection of calls.",
+   "method_zh": "结合带音频和加速度计的 MiniDTAG 生物记录器、视频以及机器学习叫声检测。",
+   "keywords": [
+    "carrion crow",
+    "Corvus corone",
+    "bio-logging",
+    "MiniDTAG",
+    "University of León",
+    "Voxaboxen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2MipvgUzO6M"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/69417a419b5107d41885cfa4_CarrionCrowBiologger-1.png",
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-025-02018-0/MediaObjects/10071_2025_2018_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s10071-025-02018-0",
+    "doi": "10.1007/s10071-025-02018-0",
+    "arxiv": "",
+    "venue": "Animal Cognition 2025",
+    "title": "Capturing vocal communication in a free-living corvid: high-resolution data from low-impact miniaturized tags"
+   },
+   "source_url": "https://earthspecies.org/2025/12/15/unlocking-avian-secrets-how-tiny-biologgers-are-revealing-the-hidden-communication-of-carrion-crows/"
+  },
+  {
+   "id": "earth-species-project--crow-repertoire-behavior-mapping",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Follow-up study on the León crows that links each call type in the family's repertoire to what the birds were doing when they made it, to infer what the calls are for.",
+   "description_zh": "对莱昂乌鸦的后续研究：把家族叫声库中的每类叫声与鸟发声时正在做的事对应起来，从而推断这些叫声的用途。",
+   "idea_en": "Meaning can be approached by mapping sounds onto behaviour at scale.",
+   "idea_zh": "可以通过大规模把声音映射到行为上来接近“意义”。",
+   "method": "Unsupervised clustering of tag-recorded calls, aligned with accelerometer-derived and observed behaviours.",
+   "method_zh": "对标签录下的叫声做无监督聚类，并与加速度计推断和人工观察到的行为对齐。",
+   "keywords": [
+    "carrion crow",
+    "vocal repertoire",
+    "behaviour",
+    "cooperative breeding"
+   ],
+   "images": [
+    "https://www.cooperativecrows.com/img/visore_1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.64898/2026.04.02.715916",
+    "doi": "10.64898/2026.04.02.715916",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows"
+   },
+   "source_url": "https://www.cooperativecrows.com/index.htm"
+  },
+  {
+   "id": "earth-species-project--zebra-finch-ai-playbacks",
+   "creator_ids": [
+    "earth-species-project",
+    "aza-raskin"
+   ],
+   "title": "AI-powered playbacks engage in flexible vocal interactions with zebra finches",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Zebra finches were put in conversation with a generative AI that answered their calls in real time; the birds adjusted their timing and call choice to the machine partner, allowing researchers to test the rules of their exchanges.",
+   "description_zh": "研究者让斑胸草雀与一个能实时回应其叫声的生成式 AI 对话；鸟会根据这个机器伙伴调整发声时机和叫声类型，研究者借此检验它们交流的规则。",
+   "idea_en": "Test meaning by talking back: an interactive AI partner is an experiment, not only a translator.",
+   "idea_zh": "通过“回话”来检验意义：一个会互动的 AI 伙伴是一种实验，而不只是翻译器。",
+   "method": "A generative model of zebra finch calls runs in closed loop with microphones and speakers, varying its replies to probe the birds' responses.",
+   "method_zh": "斑胸草雀叫声的生成模型与麦克风和扬声器组成闭环，改变回应方式以探测鸟的反应。",
+   "keywords": [
+    "zebra finch",
+    "generative AI",
+    "interactive playback",
+    "closed loop",
+    "McGill University"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/08/Copy-of-Braid-weave-2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.64898/2026.02.12.705387",
+    "doi": "10.64898/2026.02.12.705387",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "Leveraging AI-powered interactive playbacks to decipher rules of communication in zebra finches"
+   },
+   "source_url": "https://earthspecies.org/2026/08/27/meet-the-researchers-unlocking-the-future-of-animal-communication-research/"
+  },
+  {
+   "id": "earth-species-project--avex",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "AVEX: What Matters for Animal Vocalization Encoding",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A large study of 19 models on 26 datasets that finds the training recipe for general animal-sound encoders, released as the open AVEX model library.",
+   "description_zh": "一项在 26 个数据集上测试 19 个模型的大规模研究，找出通用动物声音编码器的训练配方，并以开放的 AVEX 模型库形式发布。",
+   "idea_en": "Diverse sound, including non-animal audio, makes better listeners for animals.",
+   "idea_zh": "多样的声音（包括非动物音频）能训练出更会“听”动物的模型。",
+   "method": "Self-supervised pretraining followed by supervised post-training on mixed bioacoustic and general audio, with new tasks for individual identification and repertoire discovery.",
+   "method_zh": "先自监督预训练，再在生物声学与通用音频混合数据上做监督后训练，并新增个体识别和叫声库发现任务。",
+   "keywords": [
+    "AVEX",
+    "encoder",
+    "training recipe",
+    "ICLR 2026",
+    "benchmark"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/68c8820edb511ede36444b76_Cover.png",
+    "https://arxiv.org/html/2508.11845v3/figures/Fig1_updated.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2508.11845",
+    "doi": "",
+    "arxiv": "2508.11845",
+    "venue": "ICLR 2026",
+    "title": "AVEX: What Matters for Animal Vocalization Encoding"
+   },
+   "source_url": "https://earthspecies.org/2025/09/15/what-matters-for-bioacoustic-encoding-a-practical-training-recipe-for-building-generalizable-models/",
+   "code_url": "https://github.com/earthspecies/avex"
+  },
+  {
+   "id": "earth-species-project--killer-whale-pilot",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Decoding Killer Whale Communication From Above and Below",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A pilot with Raincoast Conservation Foundation that pairs aerial drone video of known killer whale matrilines with underwater hydrophone recordings, to link calls to coordinated behaviour and to ship noise.",
+   "description_zh": "与 Raincoast Conservation Foundation 合作的试点项目：把已知虎鲸母系群体的无人机航拍视频与水下水听器录音配对，把叫声与协同行为和船舶噪声联系起来。",
+   "idea_en": "Look and listen at the same time: synchronised views reveal who calls while doing what.",
+   "idea_zh": "同时看和听：同步的视角能揭示谁在做什么时发出叫声。",
+   "method": "Drone footage with individual photo-ID synchronised to hydrophone arrays, analysed with ESP's detection and encoder models.",
+   "method_zh": "把带个体照片识别的无人机影像与水听器阵列同步，用 ESP 的检测和编码模型分析。",
+   "keywords": [
+    "killer whale",
+    "orca",
+    "drone",
+    "hydrophone",
+    "Raincoast Conservation Foundation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Xhr5SvDipUc"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/6862918677532c8e6325f948_Orcas.png"
+   ],
+   "source_url": "https://earthspecies.org/2025/06/27/decoding-killer-whale-communication-from-above-and-below/"
+  },
+  {
+   "id": "earth-species-project--global-survey-ai-animal-communication",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "What the World Thinks About AI and Animal Communication (global survey)",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "publication",
+   "description": "A survey of 1,057 people in 67 countries, run with The Collective Intelligence Project, on what the public hopes and fears from using AI to understand other species.",
+   "description_zh": "与 The Collective Intelligence Project 合作，对 67 个国家的 1,057 人进行的调查，了解公众对用 AI 理解其他物种有何期待和担忧。",
+   "idea_en": "Ask the public before building the translator: who should speak to animals, and for what?",
+   "idea_zh": "在造翻译器之前先问问公众：谁可以和动物说话，为了什么？",
+   "method": "An online deliberative survey with open and closed questions on consent, uses, risks and governance.",
+   "method_zh": "在线审议式调查，就同意、用途、风险和治理提出开放和封闭式问题。",
+   "keywords": [
+    "survey",
+    "public attitudes",
+    "ethics",
+    "Collective Intelligence Project",
+    "governance"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/01/68dabbc59eab835c2a8c2360_blogcover.png"
+   ],
+   "source_url": "https://earthspecies.org/2025/09/29/what-the-world-thinks-about-ai-and-animal-communication-findings-from-our-first-global-survey/"
+  },
+  {
+   "id": "earth-species-project--animal-language-processing",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Animal Language Processing (ALP)",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "ESP's name for a new field: studying animal communication with AI at scale, species-agnostically and data-first, the way natural language processing studies human text.",
+   "description_zh": "ESP 为一个新领域起的名字：像自然语言处理研究人类文本那样，以数据为先、不限物种地用 AI 大规模研究动物交流。",
+   "idea_en": "Naming a field is a design move that gathers tools, people and questions into one place.",
+   "idea_zh": "为一个领域命名本身就是一种设计动作，它把工具、人和问题聚集到一起。",
+   "method": "A framework essay organising the pipeline from data and encoders to detection, repertoire discovery and interactive playback.",
+   "method_zh": "一篇框架性文章，梳理从数据、编码器到检测、叫声库发现和互动回放的整条流程。",
+   "keywords": [
+    "Animal Language Processing",
+    "ALP",
+    "framework",
+    "field building",
+    "Masato Hagiwara"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8bJzA1EySck"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/04/Braid-weave-5.png"
+   ],
+   "source_url": "https://earthspecies.org/2026/04/02/animal-language-processing-an-ai-convergence-in-animal-communication/"
+  },
+  {
+   "id": "earth-species-project--alp-data",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "alp-data",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A pip-installable Python package that gives one consistent interface to more than 35 bioacoustic datasets, plus a visual Data Explorer for browsing cross-species recordings.",
+   "description_zh": "一个可用 pip 安装的 Python 包，为 35 个以上的生物声学数据集提供统一接口，另有一个可视化 Data Explorer 用来浏览跨物种录音。",
+   "idea_en": "Shared infrastructure turns scattered recordings into a commons for a whole field.",
+   "idea_zh": "共享的基础设施能把分散的录音变成整个领域的公共资源。",
+   "method": "Dataset loaders with harmonised metadata and licences, hosted by ESP.",
+   "method_zh": "由 ESP 托管、统一了元数据和许可信息的数据集加载器。",
+   "keywords": [
+    "alp-data",
+    "dataset",
+    "open source",
+    "infrastructure",
+    "Python"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/07/Braid-weave-4.png"
+   ],
+   "source_url": "https://earthspecies.org/2026/07/22/introducing-alp-data-a-shared-data-layer-for-animal-language-processing/",
+   "code_url": "https://github.com/earthspecies/alp-data"
+  },
+  {
+   "id": "earth-species-project--birdcode",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "BirdCODE: Detecting bird communication at scale",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A zero-shot sound event detection model that finds and times the calls of more than 9,000 bird species without retraining, applied to over one million recordings.",
+   "description_zh": "一个零样本声音事件检测模型，无需重新训练即可找到并定位 9,000 多种鸟的叫声，已应用于一百多万条录音。",
+   "idea_en": "Precise timing of every call, across every species, opens questions about who answers whom.",
+   "idea_zh": "对每个物种每一声叫的精确定时，打开了“谁在回应谁”的问题。",
+   "method": "Trained on weakly labelled recordings, synthetic soundscapes and pseudo-labels; weights and detections released openly.",
+   "method_zh": "用弱标注录音、合成声景和伪标签训练；模型权重和检测结果公开发布。",
+   "keywords": [
+    "BirdCODE",
+    "zero-shot",
+    "sound event detection",
+    "birdsong",
+    "Xeno-canto"
+   ],
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/08/Feature-Image-Great-Tit.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.64898/2026.07.31.742086",
+    "doi": "10.64898/2026.07.31.742086",
+    "arxiv": "",
+    "venue": "bioRxiv 2026",
+    "title": "BirdCODE: Detecting bird communication at scale"
+   },
+   "source_url": "https://earthspecies.org/2026/08/20/birdcode-scaling-zero-shot-sound-event-detection-for-bioacoustics/",
+   "code_url": "https://github.com/earthspecies/sound-event-detection"
+  },
+  {
+   "id": "earth-species-project--bee-dance-iconicity",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "Ancestral iconicity: the dance language of bees revisited",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "Linguists and ESP researchers reread the honeybee waggle dance with tools from sign-language semantics, arguing that it is iconic: the dance's form resembles the flight it describes.",
+   "description_zh": "语言学家和 ESP 研究者用手语语义学的工具重新解读蜜蜂的摇摆舞，认为它具有象似性：舞蹈的形式与它所描述的飞行相似。",
+   "idea_en": "Some animal signals may mean by resemblance, like gestures, rather than by arbitrary code.",
+   "idea_zh": "有些动物信号可能像手势一样通过相似来表达意义，而不是依靠任意的编码。",
+   "method": "Formal semantic analysis of dance components compared across bee species and phylogeny.",
+   "method_zh": "对舞蹈的各组成部分做形式语义分析，并在不同蜂种和系统发育上进行比较。",
+   "keywords": [
+    "waggle dance",
+    "honeybee",
+    "iconicity",
+    "formal semantics",
+    "Philippe Schlenker"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/brv.70164",
+    "doi": "10.1002/brv.70164",
+    "arxiv": "",
+    "venue": "Biological Reviews 2026",
+    "title": "Ancestral iconicity: the dance language of bees revisited"
+   },
+   "source_url": "https://earthspecies.org/what-we-do/publications/"
+  },
+  {
+   "id": "project-ceti--sperm-whale-deep-learning",
+   "creator_ids": [
+    "project-ceti",
+    "shane-gero"
+   ],
+   "title": "Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics",
+   "year": 2019,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "The study that seeded Project CETI: neural networks detect sperm whale clicks in raw audio and classify codas, vocal clans and even individual whales from the Dominica recordings.",
+   "description_zh": "为 Project CETI 奠基的研究：神经网络在原始音频中检测抹香鲸的咔嗒声，并从多米尼克录音中区分尾声（coda）类型、声音族群乃至个体。",
+   "idea_en": "If a network can tell clans and individuals apart, the codas carry identity worth decoding.",
+   "idea_zh": "如果网络能区分族群和个体，说明尾声里承载着值得解码的身份信息。",
+   "method": "Convolutional networks on spectrograms for click detection and recurrent networks on inter-click intervals for coda, clan and individual classification.",
+   "method_zh": "用基于频谱图的卷积网络检测咔嗒声，用基于咔嗒间隔的循环网络分类尾声、族群和个体。",
+   "keywords": [
+    "sperm whale",
+    "coda",
+    "vocal clan",
+    "deep learning",
+    "Dominica"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-48909-4/MediaObjects/41598_2019_48909_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-019-48909-4",
+    "doi": "10.1038/s41598-019-48909-4",
+    "arxiv": "",
+    "venue": "Scientific Reports 2019",
+    "title": "Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics"
+   },
+   "source_url": "https://www.nature.com/articles/s41598-019-48909-4",
+   "code_url": "https://github.com/earthspecies/sperm-whale-clan-and-coda-detection"
+  },
+  {
+   "id": "shane-gero--dominica-clan-identity-cues",
+   "creator_ids": [
+    "shane-gero",
+    "project-ceti"
+   ],
+   "title": "Individual, unit and vocal clan level identity cues in sperm whale codas",
+   "year": 2016,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Long-term recordings of known Dominica sperm whale families show that some codas mark clan membership while others vary by family unit and by individual.",
+   "description_zh": "对多米尼克已知抹香鲸家族的长期录音显示：有些尾声标示所属族群，另一些则因家族单元和个体而异。",
+   "idea_en": "A whale's 'accent' can say which culture it belongs to.",
+   "idea_zh": "鲸的“口音”能说明它属于哪种文化。",
+   "method": "Coda rhythm analysis across photo-identified individuals recorded by the Dominica Sperm Whale Project since 2005.",
+   "method_zh": "对 Dominica Sperm Whale Project 自 2005 年起经照片识别的个体录音进行尾声节奏分析。",
+   "keywords": [
+    "Dominica Sperm Whale Project",
+    "vocal clan",
+    "culture",
+    "identity",
+    "coda"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441721935423-2KQECM5DU4SR54IDRT8M/Whale+research.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rsos.150372",
+    "doi": "10.1098/rsos.150372",
+    "arxiv": "",
+    "venue": "Royal Society Open Science 2016",
+    "title": "Individual, unit and vocal clan level identity cues in sperm whale codas"
+   },
+   "source_url": "https://thespermwhaleproject.org/"
+  },
+  {
+   "id": "shane-gero--symbolic-marking-clans",
+   "creator_ids": [
+    "shane-gero",
+    "project-ceti"
+   ],
+   "title": "Evidence from sperm whale clans of symbolic marking in non-human cultures",
+   "year": 2022,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Across 23,000 codas from the Pacific, 'identity codas' that mark clan membership differ most where clans overlap, the way human groups sharpen symbols of belonging where they meet.",
+   "description_zh": "对太平洋 23,000 条尾声的分析显示：标示族群身份的“身份尾声”在族群分布重叠的地方差异最大，就像人类群体在相遇处强化归属标志一样。",
+   "idea_en": "Animal cultures may use symbols to mark 'us' and 'them'.",
+   "idea_zh": "动物文化可能也会用符号来区分“我们”和“他们”。",
+   "method": "Statistical comparison of coda repertoires across 23 locations with agent-based models of cultural transmission.",
+   "method_zh": "对 23 个地点的尾声库进行统计比较，并用基于主体的文化传播模型加以模拟。",
+   "keywords": [
+    "sperm whale",
+    "symbolic marking",
+    "culture",
+    "clans",
+    "PNAS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.2201692119",
+    "doi": "10.1073/pnas.2201692119",
+    "arxiv": "",
+    "venue": "PNAS 2022",
+    "title": "Evidence from sperm whale clans of symbolic marking in non-human cultures"
+   },
+   "source_url": "https://doi.org/10.1073/pnas.2201692119"
+  },
+  {
+   "id": "project-ceti--social-learning-cultural-barriers",
+   "creator_ids": [
+    "project-ceti",
+    "shane-gero"
+   ],
+   "title": "Evidence of social learning across symbolic cultural barriers in sperm whales",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Clans of sperm whales that share waters also share more of their non-identity codas, suggesting they learn from each other while keeping their clan markers distinct.",
+   "description_zh": "共享同一海域的抹香鲸族群，彼此的非身份尾声也更相似，说明它们在保持族群标志不同的同时相互学习。",
+   "idea_en": "Cultures can borrow freely while guarding the signs of who they are.",
+   "idea_zh": "文化可以相互借鉴，同时守护表明“我们是谁”的符号。",
+   "method": "Variable-length Markov chains model coda sequences, and repertoires are compared across clans and geographic overlap.",
+   "method_zh": "用变长马尔可夫链对尾声序列建模，并比较不同族群及其地理重叠程度下的尾声库。",
+   "keywords": [
+    "sperm whale",
+    "social learning",
+    "culture",
+    "Markov chain",
+    "eLife"
+   ],
+   "images": [
+    "https://arxiv.org/html/2307.05304v4/figure_one_final.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7554/eLife.96362",
+    "doi": "10.7554/eLife.96362",
+    "arxiv": "2307.05304",
+    "venue": "eLife 2025",
+    "title": "Evidence of social learning across symbolic cultural barriers in sperm whales"
+   },
+   "source_url": "https://elifesciences.org/articles/96362"
+  },
+  {
+   "id": "project-ceti--whale-rendezvous-robots",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Reinforcement learning-based framework for whale rendezvous via autonomous sensing robots",
+   "year": 2024,
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A system that predicts where a diving sperm whale will surface and guides drones and boats to meet it, so tags and recordings can be collected with less disturbance.",
+   "description_zh": "一个预测下潜的抹香鲸会在哪里浮出水面、并引导无人机和船只前去会合的系统，以更少的打扰来布设标签和采集录音。",
+   "idea_en": "Plan robot behaviour around an animal's schedule instead of chasing it.",
+   "idea_zh": "围绕动物的作息来规划机器人的行为，而不是去追赶它。",
+   "method": "Reinforcement learning over sensor streams from VHF tags, hydrophones and aerial vision, tested in field trials off Dominica (the AVATARS framework).",
+   "method_zh": "基于 VHF 标签、水听器和空中视觉的传感数据流进行强化学习，并在多米尼克海域实地测试（AVATARS 框架）。",
+   "keywords": [
+    "AVATARS",
+    "reinforcement learning",
+    "drone",
+    "whale tracking",
+    "Harvard",
+    "Science Robotics"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AQlCiAUfXXI"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/scirobotics.adn7299",
+    "doi": "10.1126/scirobotics.adn7299",
+    "arxiv": "",
+    "venue": "Science Robotics 2024",
+    "title": "Reinforcement learning–based framework for whale rendezvous via autonomous sensing robots"
+   },
+   "source_url": "https://www.projectceti.org/blog-posts/new-methods-for-whale-tracking-and-rendezvous-using-autonomous-robots"
+  },
+  {
+   "id": "project-ceti--sperm-whale-vowels",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Vowel- and Diphthong-Like Spectral Patterns in Sperm Whale Codas",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Analysing codas as sound rather than rhythm, linguists find recurring spectral patterns that behave like vowels and diphthongs, a second layer of structure on top of click timing.",
+   "description_zh": "语言学家把尾声当作“音色”而非节奏来分析，发现反复出现、表现得像元音和双元音的频谱模式——在咔嗒节奏之上的第二层结构。",
+   "idea_en": "Listen for timbre, not only rhythm; hidden layers of a signal appear when you change what you measure.",
+   "idea_zh": "去听音色而不只是节奏；改变测量对象，信号的隐藏层就会显现。",
+   "method": "Spectral analysis of recorded click trains using methods from acoustic phonetics, such as formant-like peak tracking across a coda.",
+   "method_zh": "借用声学语音学方法（例如追踪整条尾声中类似共振峰的频谱峰）对咔嗒序列做频谱分析。",
+   "keywords": [
+    "sperm whale",
+    "vowels",
+    "diphthongs",
+    "phonetics",
+    "Gašper Beguš"
+   ],
+   "images": [
+    "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/663a463fc47f734a633292fb_Amanda%20Cotton%20-%20reflection%20(1).jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/opmi.a.252",
+    "doi": "10.1162/opmi.a.252",
+    "arxiv": "",
+    "venue": "Open Mind 2025",
+    "title": "Vowel- and Diphthong-Like Spectral Patterns in Sperm Whale Codas"
+   },
+   "source_url": "https://www.projectceti.org/research/index"
+  },
+  {
+   "id": "project-ceti--coda-vowel-phonology",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "The phonology of sperm whale coda vowels",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A follow-up that describes the rules governing sperm whale 'coda vowels': which vowel types occur, how they combine and how they shift within exchanges between whales.",
+   "description_zh": "后续研究描述了抹香鲸“尾声元音”的规则：有哪些元音类型、如何组合，以及在鲸与鲸的交流中如何变化。",
+   "idea_en": "Once units are found, look for the rules that organise them.",
+   "idea_zh": "找到了单元之后，就去寻找组织它们的规则。",
+   "method": "Phonological analysis of annotated coda vowels in multi-whale recordings from Dominica.",
+   "method_zh": "对多米尼克多鲸录音中已标注的尾声元音进行音系分析。",
+   "keywords": [
+    "sperm whale",
+    "phonology",
+    "coda vowels",
+    "linguistics",
+    "National Geographic"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L59pNqxvFdw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1098/rspb.2025.2994",
+    "doi": "10.1098/rspb.2025.2994",
+    "arxiv": "",
+    "venue": "Proceedings of the Royal Society B 2026",
+    "title": "The phonology of sperm whale coda vowels"
+   },
+   "source_url": "https://www.projectceti.org/research/index"
+  },
+  {
+   "id": "project-ceti--wham",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "WhAM: Towards A Translative Model of Sperm Whale Vocalization",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "The Whale Acoustics Model generates realistic sperm whale codas from prompts and can turn other sounds into coda-like audio; its learned features also classify codas better than earlier methods.",
+   "description_zh": "鲸声学模型（WhAM）能根据提示生成逼真的抹香鲸尾声，并能把其他声音转化为类似尾声的音频；它学到的特征在尾声分类上也优于以往方法。",
+   "idea_en": "A generative model of a species' voice becomes both a research instrument and a possible playback partner.",
+   "idea_zh": "一个物种声音的生成模型，既是研究工具，也可能成为回放实验中的对话者。",
+   "method": "A VampNet-style masked acoustic token transformer fine-tuned on Dominica coda recordings after pretraining on music and animal audio.",
+   "method_zh": "基于 VampNet 式的掩码声学 token Transformer，先在音乐和动物音频上预训练，再用多米尼克尾声录音微调。",
+   "keywords": [
+    "WhAM",
+    "generative audio",
+    "VampNet",
+    "sperm whale",
+    "NeurIPS 2025"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ccphRKVQnA4"
+   },
+   "images": [
+    "https://arxiv.org/html/2512.02206v1/main_figure.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2512.02206",
+    "doi": "",
+    "arxiv": "2512.02206",
+    "venue": "arXiv 2025",
+    "title": "WhAM: Towards A Translative Model of Sperm Whale Vocalization"
+   },
+   "source_url": "https://www.projectceti.org/research/index"
+  },
+  {
+   "id": "project-ceti--sperm-whale-birth",
+   "creator_ids": [
+    "project-ceti",
+    "shane-gero"
+   ],
+   "title": "A Sperm Whale Is Born (collaborative birth and Whale Tales)",
+   "year": 2026,
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Drone footage of a 2023 sperm whale birth off Dominica, analysed with CETI's Whale Tales computer-vision software, shows two families working together to lift the newborn, while their coda styles shift at key moments.",
+   "description_zh": "2023 年在多米尼克海域拍到的一次抹香鲸分娩无人机影像，经 CETI 的 Whale Tales 计算机视觉软件分析，显示两个家族合作托起新生幼鲸，同时它们的尾声风格在关键时刻发生变化。",
+   "idea_en": "Pairing video of behaviour with sound turns a rare event into evidence of how a society talks when it matters.",
+   "idea_zh": "把行为影像与声音配对，一次罕见事件就成了“关键时刻社会如何交流”的证据。",
+   "method": "Segmentation and tracking of whales in drone video, synchronised with hydrophone recordings and multiscale network analysis.",
+   "method_zh": "在无人机视频中分割并追踪鲸，与水听器录音同步，并进行多尺度网络分析。",
+   "keywords": [
+    "sperm whale",
+    "birth",
+    "Whale Tales",
+    "drone",
+    "computer vision",
+    "Science"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eV7VRURo4sY"
+   },
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-27438-3/MediaObjects/41598_2025_27438_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-025-27438-3",
+    "doi": "10.1038/s41598-025-27438-3",
+    "arxiv": "",
+    "venue": "Scientific Reports 2026",
+    "title": "Description of a collaborative sperm whale birth and shifts in coda vocal styles during key events"
+   },
+   "source_url": "https://www.projectceti.org/whalebirth"
+  },
+  {
+   "id": "project-ceti--latent-space-causal-inference",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Approaching an unknown communication system by latent space exploration and causal inference",
+   "year": 2026,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A method for finding which acoustic properties matter in an unknown signal system: train a generative network on whale codas, then intervene on its hidden variables and see what changes.",
+   "description_zh": "一种找出未知信号系统中哪些声学特性重要的方法：先用鲸的尾声训练生成网络，再干预其隐藏变量，观察生成结果如何变化。",
+   "idea_en": "Use a generative model as an experimental animal you can manipulate freely.",
+   "idea_zh": "把生成模型当作一只可以随意操控的“实验动物”。",
+   "method": "Generative adversarial networks with interpretable latent codes, combined with causal inference over the latent space.",
+   "method_zh": "使用带可解释潜在编码的生成对抗网络，并在潜在空间上进行因果推断。",
+   "keywords": [
+    "GAN",
+    "causal inference",
+    "interpretability",
+    "sperm whale",
+    "Gašper Beguš"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rsos.250829",
+    "doi": "10.1098/rsos.250829",
+    "arxiv": "",
+    "venue": "Royal Society Open Science 2026",
+    "title": "Approaching an unknown communication system by latent space exploration and causal inference"
+   },
+   "source_url": "https://royalsocietypublishing.org/rsos/article/13/8/250829/483032/Approaching-an-unknown-communication-system-by"
+  },
+  {
+   "id": "project-ceti--nact-principles",
+   "creator_ids": [
+    "project-ceti",
+    "more-than-human-life-program"
+   ],
+   "title": "Legal & Ethical Principles for Nonhuman Animal Communication Technologies (NACTs)",
+   "year": 2025,
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Project CETI and NYU's More-Than-Human Life Program drafted principles for technologies that decode or talk to animals: prevent harm, respect privacy and consent-like limits, and use insights to strengthen animals' legal protection.",
+   "description_zh": "Project CETI 与纽约大学 More-Than-Human Life 项目为解码动物或与动物对话的技术起草了原则：防止伤害、尊重隐私和类似“同意”的界限，并用所得认识加强动物的法律保护。",
+   "idea_en": "Write the ethics before the translator ships.",
+   "idea_zh": "在翻译器上市之前，先写好伦理规则。",
+   "method": "A multidisciplinary legal and ethical framework developed by lawyers, scientists and ethicists, building on rights-of-nature law.",
+   "method_zh": "由律师、科学家和伦理学者共同制定、建立在自然权利法基础上的跨学科法律与伦理框架。",
+   "keywords": [
+    "NACT",
+    "ethics",
+    "law",
+    "rights of nature",
+    "MOTH",
+    "NYU"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PR1wzsLR3ZQ"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66b298ce875525f9565009ec_project-ceti-x-moth.jpg",
+    "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/67ed45bce13f8881a440e216_Untitled%20design%20(47).png"
+   ],
+   "source_url": "https://www.projectceti.org/blog-posts/legal-ethical-principles-for-nacts"
+  },
+  {
+   "id": "google-deepmind--dolphingemma",
+   "creator_ids": [
+    "google-deepmind",
+    "wild-dolphin-project",
+    "thad-starner"
+   ],
+   "title": "DolphinGemma",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "An open AI model that learns the structure of wild Atlantic spotted dolphin sounds from 40 years of Wild Dolphin Project recordings and predicts the next sounds in a sequence, small enough to run on a Pixel phone in the field.",
+   "description_zh": "一个开放的 AI 模型，从 Wild Dolphin Project 40 年的录音中学习野生大西洋斑海豚声音的结构，并预测序列中接下来的声音；它足够小，可以在野外的 Pixel 手机上运行。",
+   "idea_en": "A language model for another species' sounds, running on a phone underwater.",
+   "idea_zh": "一个针对另一物种声音的语言模型，在水下的手机上运行。",
+   "method": "A roughly 400M-parameter Gemma-based audio model using SoundStream tokens, paired with Georgia Tech's CHAT wearable for two-way whistle experiments.",
+   "method_zh": "约 4 亿参数、基于 Gemma 的音频模型，使用 SoundStream token，并与佐治亚理工学院的 CHAT 可穿戴设备配合进行双向哨声实验。",
+   "keywords": [
+    "DolphinGemma",
+    "Gemma",
+    "Atlantic spotted dolphin",
+    "SoundStream",
+    "CHAT",
+    "Pixel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jH98kvC9f1s"
+   },
+   "images": [
+    "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png"
+   ],
+   "source_url": "https://blog.google/technology/ai/dolphingemma/"
+  },
+  {
+   "id": "wild-dolphin-project--wild-dolphin-project",
+   "creator_ids": [
+    "wild-dolphin-project",
+    "denise-herzing"
+   ],
+   "title": "Wild Dolphin Project: 40 years with the spotted dolphins of the Bahamas",
+   "year": 1985,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Since 1985 Denise Herzing's team has returned each summer to the same community of wild Atlantic spotted dolphins, filming and recording them underwater and cataloguing generations of individuals and their sounds.",
+   "description_zh": "自 1985 年起，Denise Herzing 的团队每年夏天都回到同一群野生大西洋斑海豚身边，在水下拍摄和录音，建立了跨越数代个体及其声音的档案。",
+   "idea_en": "Decades of non-invasive presence build the trust and the data that any translation needs.",
+   "idea_zh": "数十年非侵入式的陪伴，建立了任何翻译都需要的信任和数据。",
+   "method": "Underwater video and audio with photo-identification of individuals, linking sounds such as signature whistles and squawks to behaviour.",
+   "method_zh": "水下视频和音频加上个体照片识别，把签名哨声、尖叫声等声音与行为联系起来。",
+   "keywords": [
+    "Wild Dolphin Project",
+    "Atlantic spotted dolphin",
+    "Bahamas",
+    "long-term study",
+    "signature whistle"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R7jNuUMpws4"
+   },
+   "images": [
+    "https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg"
+   ],
+   "source_url": "https://www.wilddolphinproject.org/"
+  },
+  {
+   "id": "denise-herzing--dolphin-diaries",
+   "creator_ids": [
+    "denise-herzing",
+    "wild-dolphin-project"
+   ],
+   "title": "Dolphin Diaries: My 25 Years with Spotted Dolphins in the Bahamas",
+   "year": 2011,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Denise Herzing's book about a quarter-century of living alongside one dolphin society, and her 2013 TED talk proposing a shared human–dolphin vocabulary built with an underwater keyboard.",
+   "description_zh": "Denise Herzing 讲述与一个海豚社会共处四分之一个世纪的书，以及她 2013 年的 TED 演讲——提出用水下键盘建立人与海豚共享的词汇。",
+   "idea_en": "Instead of teaching animals our language, build a small third language both sides can learn.",
+   "idea_zh": "与其教动物学人的语言，不如建立一套双方都能学的小小“第三种语言”。",
+   "method": "Field memoir plus the design of symbol and whistle keyboards later developed into CHAT.",
+   "method_zh": "野外回忆录，以及后来发展为 CHAT 的符号与哨声键盘设计。",
+   "keywords": [
+    "Denise Herzing",
+    "book",
+    "TED",
+    "keyboard",
+    "interspecies language"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CQ5dRyyHwfM"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/6917022-L.jpg"
+   ],
+   "source_url": "https://www.wilddolphinproject.org/"
+  },
+  {
+   "id": "diana-reiss--dolphin-mirror-self-recognition",
+   "creator_ids": [
+    "diana-reiss"
+   ],
+   "title": "Mirror self-recognition in the bottlenose dolphin",
+   "year": 2001,
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Two dolphins marked with ink went to mirrors and turned to inspect the marked parts of their bodies, evidence that they recognised themselves.",
+   "description_zh": "两只身上被涂了墨水标记的海豚游到镜子前，转身察看被标记的身体部位，证明它们能认出自己。",
+   "idea_en": "Designing the right test lets an animal show a capacity we assumed was ours.",
+   "idea_zh": "设计出合适的测试，动物就能展示我们以为只属于人类的能力。",
+   "method": "Mark test with sham marks and mirror access in an aquarium, scored from video.",
+   "method_zh": "在水族馆中进行带假标记对照的镜像标记测试，并根据视频评分。",
+   "keywords": [
+    "mirror test",
+    "self-recognition",
+    "bottlenose dolphin",
+    "cognition"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vCSKDjkp6rI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.101086398",
+    "doi": "10.1073/pnas.101086398",
+    "arxiv": "",
+    "venue": "PNAS 2001",
+    "title": "Mirror self-recognition in the bottlenose dolphin: A case of cognitive convergence"
+   },
+   "source_url": "https://doi.org/10.1073/pnas.101086398"
+  },
+  {
+   "id": "laela-sayigh--dolphin-shared-whistles",
+   "creator_ids": [
+    "laela-sayigh"
+   ],
+   "title": "First evidence for widespread sharing of stereotyped non-signature whistle types by wild dolphins",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Recordings of the Sarasota Bay dolphins revealed about 20 whistle types, apart from each dolphin's signature whistle, shared across many individuals; playback of two of them drew distinct responses. It won the first Coller-Dolittle Prize.",
+   "description_zh": "对萨拉索塔湾海豚的录音发现，除每只海豚的签名哨声外，还有约 20 种被许多个体共享的哨声类型；回放其中两种会引发不同的反应。该研究获得首届 Coller-Dolittle 奖。",
+   "idea_en": "Shared calls that are not names may be the first candidate 'words' of dolphins.",
+   "idea_zh": "那些不是名字、却被共享的叫声，可能是海豚最早的候选“词语”。",
+   "method": "Suction-cup hydrophone tags on temporarily caught dolphins over decades, machine-learning whistle classification and field playback experiments.",
+   "method_zh": "数十年来在短暂捕获的海豚身上使用吸盘式水听器标签，结合机器学习哨声分类和野外回放实验。",
+   "keywords": [
+    "bottlenose dolphin",
+    "Sarasota Dolphin Research Program",
+    "whistles",
+    "playback",
+    "Coller-Dolittle Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8KCWr2yVq08"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1101/2025.04.21.647658",
+    "doi": "10.1101/2025.04.21.647658",
+    "arxiv": "",
+    "venue": "bioRxiv 2025",
+    "title": "First evidence for widespread sharing of stereotyped non-signature whistle types by wild dolphins"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2025",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "david-omer--marmoset-names",
+   "creator_ids": [
+    "david-omer"
+   ],
+   "title": "Vocal labeling of others by nonhuman primates (marmoset names)",
+   "year": 2024,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Marmosets exchanging 'phee' calls embed information that addresses a specific partner, and they respond more to calls aimed at them: the first evidence of name-like calls in a nonhuman primate.",
+   "description_zh": "狨猴在互相发出“phee”叫声时会嵌入指向特定对象的信息，并对针对自己的叫声反应更强：这是非人类灵长类中类名字叫声的首个证据。",
+   "idea_en": "Names may not need words; they can be a pattern inside a call.",
+   "idea_zh": "名字不一定需要词语，它可以是叫声里的一种模式。",
+   "method": "Recorded natural dialogues between pairs of marmosets, machine-learning classification of addressee, and playback experiments.",
+   "method_zh": "录制成对狨猴之间的自然对话，用机器学习对叫声的指向对象分类，并做回放实验。",
+   "keywords": [
+    "marmoset",
+    "names",
+    "vocal labeling",
+    "phee call",
+    "Science"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=aeLDYcyaQCE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adp3757",
+    "doi": "10.1126/science.adp3757",
+    "arxiv": "",
+    "venue": "Science 2024",
+    "title": "Vocal labeling of others by nonhuman primates"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2025",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "daniela-vallentin--nightingale-song-duels",
+   "creator_ids": [
+    "daniela-vallentin"
+   ],
+   "title": "Attuning to song duels facilitates song-matching in nightingales",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Researchers duetted with wild nightingales in real time by playing back song types; the birds matched the song types they heard, showing they attend to and answer the content of a rival's song.",
+   "description_zh": "研究者通过实时回放不同歌曲类型与野生夜莺对唱；夜莺会用相同的歌曲类型回应，说明它们关注并回应对手歌曲的内容。",
+   "idea_en": "An interactive playback system can hold a real exchange with a bird, not just broadcast at it.",
+   "idea_zh": "互动回放系统可以与鸟进行真正的交流，而不只是单向播放。",
+   "method": "Interactive playback in the field, likely with real-time song-type classification choosing the reply during night-time singing.",
+   "method_zh": "在野外夜间鸣唱时进行互动回放，很可能由实时歌曲类型分类来选择回应。",
+   "keywords": [
+    "nightingale",
+    "song matching",
+    "interactive playback",
+    "Max Planck",
+    "Coller-Dolittle Prize"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1101/2025.04.12.648496",
+    "doi": "10.1101/2025.04.12.648496",
+    "arxiv": "",
+    "venue": "bioRxiv 2025",
+    "title": "Attuning to song duels facilitates song-matching in nightingales"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2025",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "sophie-cohen-bodenes--cuttlefish-arm-wave-signs",
+   "creator_ids": [
+    "sophie-cohen-bodenes"
+   ],
+   "title": "Cuttlefish interact with multimodal 'arm wave sign' displays",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Cuttlefish perform four distinct arm-waving gestures ('up', 'side', 'roll', 'crown'); when shown videos or played vibrations of these signs, other cuttlefish wave back.",
+   "description_zh": "乌贼会做出四种不同的挥臂动作（“上”“侧”“翻滚”“冠”）；当向其他乌贼播放这些手势的视频或振动时，它们会挥臂回应。",
+   "idea_en": "A signal can be seen and felt at once; design playback for more than one sense.",
+   "idea_zh": "一个信号可以同时被看见和感觉到；回放设计应面向不止一种感官。",
+   "method": "Video playback and underwater vibration playback of recorded displays, with responses scored in the lab.",
+   "method_zh": "在实验室中播放录制的手势视频和水下振动，并对回应进行评分。",
+   "keywords": [
+    "cuttlefish",
+    "Sepia officinalis",
+    "gesture",
+    "vibration",
+    "Coller-Dolittle Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EMCZXANfWGM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1101/2025.04.13.648584",
+    "doi": "10.1101/2025.04.13.648584",
+    "arxiv": "",
+    "venue": "bioRxiv 2025",
+    "title": "Cuttlefish interact with multimodal “arm wave sign” displays"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2025",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "julie-elie--zebra-finch-vocal-repertoire",
+   "creator_ids": [
+    "julie-elie"
+   ],
+   "title": "The vocal repertoire of the domesticated zebra finch",
+   "year": 2016,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A complete catalogue of the zebra finch's call types, from distance calls to begging and alarm calls, with the acoustic features that carry each one's information; Julie Elie's work on the zebra finch 'language' won the 2026 Coller-Dolittle Prize.",
+   "description_zh": "一份完整的斑胸草雀叫声类型目录，从远距离联络叫到乞食叫和警报叫，并指出承载各类信息的声学特征；Julie Elie 对斑胸草雀“语言”的研究获得 2026 年 Coller-Dolittle 奖。",
+   "idea_en": "Before decoding meaning, draw the dictionary: list every sound and the context it belongs to.",
+   "idea_zh": "在解码意义之前，先编一本词典：列出每一种声音和它所属的情境。",
+   "method": "Recordings of known contexts, supervised classifiers and acoustic feature analysis to find which features distinguish call types.",
+   "method_zh": "在已知情境下录音，用监督分类器和声学特征分析找出区分叫声类型的特征。",
+   "keywords": [
+    "zebra finch",
+    "vocal repertoire",
+    "call types",
+    "Coller-Dolittle Prize",
+    "UC Berkeley"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-015-0933-6/MediaObjects/10071_2015_933_Fig1_HTML.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s10071-015-0933-6",
+    "doi": "10.1007/s10071-015-0933-6",
+    "arxiv": "",
+    "venue": "Animal Cognition 2016",
+    "title": "The vocal repertoire of the domesticated zebra finch: a data-driven approach to decipher the information-bearing acoustic features of communication signals"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2026",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "melissa-berthet--bonobo-compositionality",
+   "creator_ids": [
+    "melissa-berthet"
+   ],
+   "title": "Extensive compositionality in the vocal system of bonobos",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Wild bonobos combine calls into sequences whose meaning is built from the meanings of the parts, including non-trivial combinations where one call modifies another, as adjectives do in human language.",
+   "description_zh": "野生倭黑猩猩会把叫声组合成序列，序列的意义由各部分的意义构成，其中还有一个叫声修饰另一个叫声的非平凡组合，就像人类语言中的形容词。",
+   "idea_en": "Measure meaning from context, and grammar-like structure can be found in another ape's calls.",
+   "idea_zh": "从情境中测量意义，就能在另一种猿类的叫声里发现类似语法的结构。",
+   "method": "Hundreds of contextual features recorded with each call, distributional semantics to place calls in a meaning space, and tests of compositionality.",
+   "method_zh": "为每声叫记录数百项情境特征，用分布式语义把叫声放入意义空间，并检验组合性。",
+   "keywords": [
+    "bonobo",
+    "compositionality",
+    "syntax",
+    "distributional semantics",
+    "Kokolopori"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Rt6LauFHVBw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adv1170",
+    "doi": "10.1126/science.adv1170",
+    "arxiv": "",
+    "venue": "Science 2025",
+    "title": "Extensive compositionality in the vocal system of bonobos"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2026",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "catherine-crockford--chimpanzee-vocal-sequences",
+   "creator_ids": [
+    "catherine-crockford"
+   ],
+   "title": "Chimpanzees produce diverse vocal sequences with ordered and recombinatorial properties",
+   "year": 2022,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Nearly 5,000 recorded utterances from wild Taï chimpanzees contain hundreds of distinct call sequences with consistent order and recombined parts, suggesting a structured system rather than random strings.",
+   "description_zh": "对野生 Taï 黑猩猩近 5,000 条发声记录的分析，发现了数百种顺序稳定、部件可重组的叫声序列，表明这是一个有结构的系统，而非随机串联。",
+   "idea_en": "Count combinations at scale and a structured 'code' emerges.",
+   "idea_zh": "大规模统计组合方式，一套有结构的“代码”就会浮现。",
+   "method": "Long-term focal recordings, call-type annotation and sequence analysis for ordering and recombination.",
+   "method_zh": "长期焦点个体录音、叫声类型标注，以及针对顺序和重组的序列分析。",
+   "keywords": [
+    "chimpanzee",
+    "Taï Chimpanzee Project",
+    "vocal sequences",
+    "syntax"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZIsrIt470mI"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-022-03350-8/MediaObjects/42003_2022_3350_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s42003-022-03350-8",
+    "doi": "10.1038/s42003-022-03350-8",
+    "arxiv": "",
+    "venue": "Communications Biology 2022",
+    "title": "Chimpanzees produce diverse vocal sequences with ordered and recombinatorial properties"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2026",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "nicolas-mathevon--wild-mice-ultrasonic-landscape",
+   "creator_ids": [
+    "nicolas-mathevon"
+   ],
+   "title": "Ultrasonic signals support a large-scale communication landscape in wild mice",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Ultrasonic recorders across a semi-natural enclosure of wild house mice captured a busy landscape of calls far beyond the lab's mating songs, tied to social contexts across the whole population.",
+   "description_zh": "在野生家鼠的半自然围场中布设超声录音设备，录下了远超实验室求偶歌声的繁忙叫声景观，并与整个种群的社会情境相关联。",
+   "idea_en": "Take the recorder out of the cage and a species' communication looks entirely different.",
+   "idea_zh": "把录音设备从笼子里拿出来，一个物种的交流看起来就完全不同。",
+   "method": "Long-term ultrasonic recording across the enclosure, likely combined with individual tracking, and automated call detection and classification.",
+   "method_zh": "在围场内长期超声录音，很可能结合个体追踪，并进行自动叫声检测与分类。",
+   "keywords": [
+    "house mouse",
+    "ultrasonic vocalization",
+    "wild population",
+    "Current Biology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.cub.2025.08.028",
+    "doi": "10.1016/j.cub.2025.08.028",
+    "arxiv": "",
+    "venue": "Current Biology 2025",
+    "title": "Ultrasonic signals support a large-scale communication landscape in wild mice"
+   },
+   "source_url": "https://coller-dolittle-24.sites.tau.ac.il/2026",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "irene-pepperberg--alex-studies",
+   "creator_ids": [
+    "irene-pepperberg"
+   ],
+   "title": "The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots",
+   "year": 1999,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Irene Pepperberg's account of 30 years with Alex, an African grey parrot who learned English labels for more than 50 objects, seven colours and quantities up to six, and answered questions about same and different.",
+   "description_zh": "Irene Pepperberg 讲述与非洲灰鹦鹉 Alex 相处 30 年的书：Alex 学会了 50 多种物体、七种颜色以及六以内数量的英语名称，还能回答“相同”和“不同”的问题。",
+   "idea_en": "The training method is a design: two humans model the exchange so the bird learns by watching.",
+   "idea_zh": "训练方法本身就是一种设计：两个人示范交流过程，让鸟通过观看来学习。",
+   "method": "The model/rival technique, in which one trainer asks and another answers, rewarding with the named object itself.",
+   "method_zh": "“示范者/竞争者”法：一位训练者提问，另一位作答，并以被命名的物品本身作为奖励。",
+   "keywords": [
+    "Alex",
+    "African grey parrot",
+    "model/rival",
+    "labels",
+    "Coller-Dolittle Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w8LepYR8v9A"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/411886-L.jpg"
+   ],
+   "source_url": "https://alexfoundation.org",
+   "collections": [
+    "coller-dolittle"
+   ]
+  },
+  {
+   "id": "sue-savage-rumbaugh--kanzi-lexigrams",
+   "creator_ids": [
+    "sue-savage-rumbaugh"
+   ],
+   "title": "Kanzi and the lexigram keyboard",
+   "year": 1994,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "The bonobo Kanzi learned to communicate by pressing abstract symbols on a keyboard, largely by watching his mother's lessons, and understood spoken English sentences; the work is told in the book 'Kanzi: The Ape at the Brink of the Human Mind'.",
+   "description_zh": "倭黑猩猩 Kanzi 主要通过旁观母亲上课，学会了按键盘上的抽象符号来交流，并能听懂英语口语句子；这段研究记录在《Kanzi: The Ape at the Brink of the Human Mind》一书中。",
+   "idea_en": "An interface of arbitrary symbols can become a shared language between species.",
+   "idea_zh": "由任意符号组成的界面，可以变成物种之间共享的语言。",
+   "method": "A board of several hundred geometric lexigrams (later portable and speech-output versions) used in everyday life rather than drills.",
+   "method_zh": "由数百个几何符号组成的键盘（后来有便携和语音输出版本），在日常生活而非反复训练中使用。",
+   "keywords": [
+    "Kanzi",
+    "bonobo",
+    "lexigram",
+    "keyboard",
+    "Language Research Center"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0Myl142PvH8"
+   },
+   "images": [
+    "https://www.bonobohope.org/KanziSlideshow/KanziAndKeyboard2.jpg",
+    "https://covers.openlibrary.org/b/id/305815-L.jpg"
+   ],
+   "source_url": "https://www.bonobohope.org/"
+  },
+  {
+   "id": "con-slobodchikoff--prairie-dog-alarm-calls",
+   "creator_ids": [
+    "con-slobodchikoff"
+   ],
+   "title": "Prairie dog alarm calls encode labels about predator colors",
+   "year": 2009,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Gunnison's prairie dogs gave different alarm calls when the same person walked through the colony wearing shirts of different colours, part of Slobodchikoff's evidence that their calls describe predators in detail.",
+   "description_zh": "当同一个人穿着不同颜色的衬衫穿过草原犬鼠的聚居地时，甘尼森草原犬鼠会发出不同的警报叫声——这是 Slobodchikoff 证明其叫声详细描述捕食者的证据之一。",
+   "idea_en": "Controlled field stimuli can reveal how much detail a 'simple' alarm call carries.",
+   "idea_zh": "受控的野外刺激能揭示一个“简单”警报叫声里究竟包含多少细节。",
+   "method": "Human walkers in blue, green, yellow and grey shirts, recorded calls and discriminant analysis of acoustic features.",
+   "method_zh": "让人分别穿蓝、绿、黄、灰色衬衫走过，录下叫声并对声学特征做判别分析。",
+   "keywords": [
+    "prairie dog",
+    "Cynomys gunnisoni",
+    "alarm call",
+    "referential communication"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-008-0203-y/MediaObjects/10071_2008_203_Fig1_HTML.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/s10071-008-0203-y",
+    "doi": "10.1007/s10071-008-0203-y",
+    "arxiv": "",
+    "venue": "Animal Cognition 2009",
+    "title": "Prairie dog alarm calls encode labels about predator colors"
+   },
+   "source_url": "https://link.springer.com/article/10.1007/s10071-008-0203-y"
+  },
+  {
+   "id": "con-slobodchikoff--chasing-doctor-dolittle",
+   "creator_ids": [
+    "con-slobodchikoff"
+   ],
+   "title": "Chasing Doctor Dolittle: Learning the Language of Animals",
+   "year": 2012,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Con Slobodchikoff's book arguing that many animals have language-like communication, drawing on his prairie dog research; it led to Zoolingua, a start-up that aims to build AI 'translators' for pet dogs' barks and body language.",
+   "description_zh": "Con Slobodchikoff 的书，基于草原犬鼠研究，认为许多动物拥有类似语言的交流；此书后来催生了 Zoolingua——一家希望为宠物狗的叫声和肢体语言做 AI“翻译器”的创业公司。",
+   "idea_en": "Popular science and a pet-tech product raise the question of what 'translating' an animal should promise.",
+   "idea_zh": "科普写作和宠物科技产品一起提出了一个问题：“翻译”动物究竟应该承诺什么。",
+   "method": "A synthesis of field studies of referential calls, extended into a product concept using machine learning on dog video and sound.",
+   "method_zh": "对指称性叫声野外研究的综述，并延伸为用机器学习分析狗的视频和声音的产品构想。",
+   "keywords": [
+    "Zoolingua",
+    "dog translator",
+    "prairie dog",
+    "pet tech",
+    "book"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/7592769-L.jpg",
+    "https://zoolingua.com/wp-content/uploads/2025/11/dalmation1-1024x684.jpg"
+   ],
+   "source_url": "https://zoolingua.com/"
+  },
+  {
+   "id": "yossi-yovel--bat-vocalizations",
+   "creator_ids": [
+    "yossi-yovel"
+   ],
+   "title": "Everyday bat vocalizations contain information about emitter, addressee, context, and behavior",
+   "year": 2016,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "From about 15,000 recorded squabbles among Egyptian fruit bats, a machine-learning model could tell who was calling, often to whom, and whether the argument was about food, sleeping spots or mating.",
+   "description_zh": "从埃及果蝠约 15,000 次争吵的录音中，机器学习模型能分辨出是谁在叫、常常还能分辨叫给谁，以及争执是关于食物、栖位还是交配。",
+   "idea_en": "Everyday noise between animals can carry who, to whom and why.",
+   "idea_zh": "动物之间日常的“噪音”，也可能说明了是谁、对谁、为什么。",
+   "method": "Continuous audio-video monitoring of a captive colony for 75 days and likely classification of spectral call features with Gaussian mixture models.",
+   "method_zh": "对圈养蝙蝠群连续 75 天音视频监测，并（很可能）用高斯混合模型对叫声的频谱特征分类。",
+   "keywords": [
+    "Egyptian fruit bat",
+    "Rousettus aegyptiacus",
+    "vocalization",
+    "machine learning",
+    "Tel Aviv University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7lMR-umhfko"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep39419/MediaObjects/41598_2016_Article_BFsrep39419_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/srep39419",
+    "doi": "10.1038/srep39419",
+    "arxiv": "",
+    "venue": "Scientific Reports 2016",
+    "title": "Everyday bat vocalizations contain information about emitter, addressee, context, and behavior"
+   },
+   "source_url": "https://www.nature.com/articles/srep39419"
+  },
+  {
+   "id": "mickey-pardo--elephant-names",
+   "creator_ids": [
+    "mickey-pardo"
+   ],
+   "title": "African elephants address one another with individually specific name-like calls",
+   "year": 2024,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A machine-learning model could predict which elephant a rumble was addressed to, and elephants in Kenya reacted more strongly to playbacks of calls addressed to them: evidence of names that are not imitations.",
+   "description_zh": "机器学习模型能预测一声低吼是叫给哪头大象的，而肯尼亚的大象对“叫给自己”的回放反应更强：这证明存在并非模仿而来的名字。",
+   "idea_en": "Machine learning can find structure humans cannot hear, then field playbacks test whether animals care.",
+   "idea_zh": "机器学习能找到人耳听不出的结构，再由野外回放检验动物是否在意。",
+   "method": "Random-forest classification of rumbles from Samburu and Amboseli recordings, followed by playback experiments with free-ranging elephants.",
+   "method_zh": "用随机森林对桑布鲁和安博塞利的低吼录音进行分类，再对自由生活的大象做回放实验。",
+   "keywords": [
+    "African elephant",
+    "names",
+    "rumble",
+    "random forest",
+    "ElephantVoices",
+    "Save the Elephants"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YDFhPeYl4Ck"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-024-02420-w/MediaObjects/41559_2024_2420_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41559-024-02420-w",
+    "doi": "10.1038/s41559-024-02420-w",
+    "arxiv": "",
+    "venue": "Nature Ecology & Evolution 2024",
+    "title": "African elephants address one another with individually specific name-like calls"
+   },
+   "source_url": "https://www.nature.com/articles/s41559-024-02420-w"
+  },
+  {
+   "id": "whale-seti--twain-humpback-conversation",
+   "creator_ids": [
+    "whale-seti"
+   ],
+   "title": "'Conversing' with an Alaskan humpback whale (Twain)",
+   "year": 2023,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "In 2021 the Whale-SETI team played a recorded humpback 'whup' contact call into the sea off Alaska; a whale named Twain approached and answered 36 times over 20 minutes, matching the intervals between calls.",
+   "description_zh": "2021 年，Whale-SETI 团队在阿拉斯加海域播放一段录制的座头鲸“whup”联络叫声；一头名叫 Twain 的鲸靠近并在 20 分钟内回应了 36 次，并与叫声间隔相匹配。",
+   "idea_en": "Treat a playback as a turn in a conversation and measure whether the animal takes the next turn.",
+   "idea_zh": "把回放当作对话中的一个轮次，衡量动物是否接过下一轮。",
+   "method": "Underwater speaker and hydrophone playback of a single call type, with inter-call intervals analysed for turn-taking.",
+   "method_zh": "用水下扬声器和水听器回放单一叫声类型，分析叫声间隔中的轮流模式。",
+   "keywords": [
+    "humpback whale",
+    "Twain",
+    "playback",
+    "SETI Institute",
+    "Alaska Whale Foundation",
+    "turn-taking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3cvSLNn8RZk"
+   },
+   "images": [
+    "https://dfzljdn9uc3pi.cloudfront.net/2023/16349/1/fig-1-1x.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7717/peerj.16349",
+    "doi": "10.7717/peerj.16349",
+    "arxiv": "",
+    "venue": "PeerJ 2023",
+    "title": "Interactive bioacoustic playback as a tool for detecting and exploring nonhuman intelligence: “conversing” with an Alaskan humpback whale"
+   },
+   "source_url": "https://peerj.com/articles/16349/"
+  },
+  {
+   "id": "inbal-arnon--humpback-song-statistical-structure",
+   "creator_ids": [
+    "inbal-arnon"
+   ],
+   "title": "Whale song shows language-like statistical structure",
+   "year": 2025,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Eight years of humpback whale song from New Caledonia, segmented with methods used to study how infants find words, contain recurring parts whose frequencies follow Zipf's law, as words in human languages do.",
+   "description_zh": "对新喀里多尼亚八年座头鲸歌声的分析，借用研究婴儿如何切分词语的方法，发现其中反复出现的片段频率服从齐普夫定律，与人类语言中的词一样。",
+   "idea_en": "Tools built to study how human babies learn can reveal structure in another species' culture.",
+   "idea_zh": "为研究人类婴儿如何学习而开发的工具，可以揭示另一物种文化中的结构。",
+   "method": "Transitional-probability segmentation of symbolically transcribed song, and frequency-rank analysis of the resulting units.",
+   "method_zh": "对以符号转写的歌声进行转移概率切分，并对得到的单元做频率-排序分析。",
+   "keywords": [
+    "humpback whale",
+    "Zipf's law",
+    "statistical learning",
+    "whale song",
+    "Science"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=goZA5SlXx-g"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.adq7055",
+    "doi": "10.1126/science.adq7055",
+    "arxiv": "",
+    "venue": "Science 2025",
+    "title": "Whale song shows language-like statistical structure"
+   },
+   "source_url": "https://doi.org/10.1126/science.adq7055"
+  },
+  {
+   "id": "ocean-alliance--snotbot",
+   "creator_ids": [
+    "ocean-alliance"
+   ],
+   "title": "SnotBot",
+   "year": 2016,
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A drone flies through the spout of a surfacing whale and catches its exhaled breath in petri dishes, collecting DNA, microbiome and hormone samples without touching or chasing the animal.",
+   "description_zh": "一架无人机飞过浮出水面的鲸喷出的水雾，用培养皿接住它呼出的气体，在不接触、不追赶动物的情况下采集 DNA、微生物组和激素样本。",
+   "idea_en": "Replace invasive sampling with a gentle machine that meets the animal on its terms.",
+   "idea_zh": "用一台温和的机器取代侵入式采样，按动物自己的节奏与它相遇。",
+   "method": "Consumer quadcopters (DJI Inspire) with petri dishes, later adapted for tag deployment, disentanglement support and body-condition photogrammetry.",
+   "method_zh": "带培养皿的消费级四旋翼无人机（DJI Inspire），后来又用于布设标签、协助解救被缠绕的鲸和进行体况摄影测量。",
+   "keywords": [
+    "SnotBot",
+    "drone",
+    "whale blow",
+    "non-invasive",
+    "Ocean Alliance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0WTDdWwKbyk"
+   },
+   "images": [
+    "https://whale.org/wp-content/uploads/2024/06/Snotbot_Drone_01.webp"
+   ],
+   "source_url": "https://whale.org/snotbot/"
+  },
+  {
+   "id": "google-creative-lab--pattern-radio",
+   "creator_ids": [
+    "google-creative-lab"
+   ],
+   "title": "Pattern Radio: Whale Songs",
+   "year": 2019,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A web tool that lets anyone scroll through 15 years of humpback whale recordings from the Pacific, with a machine-learning model highlighting where songs occur and letting users annotate patterns.",
+   "description_zh": "一个网页工具，任何人都能滚动浏览太平洋 15 年的座头鲸录音，机器学习模型会标出歌声出现的位置，用户也可以标注其中的模式。",
+   "idea_en": "Open a scientific archive as a playable interface and non-experts can help find patterns.",
+   "idea_zh": "把科学档案开放成一个可以把玩的界面，非专业人士也能帮忙发现模式。",
+   "method": "A spectrogram viewer for NOAA hydrophone data with a convolutional humpback detector, built with NOAA's Ann Allen.",
+   "method_zh": "基于 NOAA 水听器数据的频谱图浏览器，配有卷积网络座头鲸检测器，与 NOAA 的 Ann Allen 合作开发。",
+   "keywords": [
+    "Pattern Radio",
+    "humpback whale",
+    "NOAA",
+    "spectrogram",
+    "web experiment"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JE3-LkMqBfM"
+   },
+   "images": [
+    "https://patternradio.withgoogle.com/assets/share.jpg"
+   ],
+   "source_url": "https://patternradio.withgoogle.com/"
+  },
+  {
+   "id": "karen-bakker--sounds-of-life",
+   "creator_ids": [
+    "karen-bakker"
+   ],
+   "title": "The Sounds of Life: How Digital Technology Is Bringing Us Closer to the Worlds of Animals and Plants",
+   "year": 2022,
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth",
+    "hni"
+   ],
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "publication",
+   "description": "Karen Bakker's book on digital bioacoustics: how networks of cheap microphones and AI reveal the communication of whales, bats, bees, corals, turtles and plants, and the ethical risks of listening in.",
+   "description_zh": "Karen Bakker 关于数字生物声学的书：廉价麦克风网络和 AI 如何揭示鲸、蝙蝠、蜜蜂、珊瑚、海龟和植物的交流，以及“偷听”带来的伦理风险。",
+   "idea_en": "Listening technologies can extend our senses but also extend our power over other species.",
+   "idea_zh": "聆听技术能延伸我们的感官，也会延伸我们对其他物种的权力。",
+   "method": "A synthesis of field research and interviews across bioacoustics, ecology and machine learning.",
+   "method_zh": "综合生物声学、生态学和机器学习领域的野外研究和访谈。",
+   "keywords": [
+    "Karen Bakker",
+    "bioacoustics",
+    "book",
+    "digital technology",
+    "Princeton University Press"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Fwd3SB_YYZc"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/id/14645234-L.jpg"
+   ],
+   "source_url": "https://karenbakker.org"
+  },
+  {
+   "id": "karen-bakker--gaias-web",
+   "creator_ids": [
+    "karen-bakker"
+   ],
+   "title": "Gaia's Web: How Digital Environmentalism Can Combat Climate Change, Restore Biodiversity, Cultivate Empathy, and Regenerate the Earth",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Karen Bakker's last book maps 'digital environmentalism', from sensor networks and satellite tracking to AI, and asks how planetary-scale sensing could serve nature rather than control it.",
+   "description_zh": "Karen Bakker 的最后一本书梳理了“数字环境主义”——从传感器网络、卫星追踪到 AI——并追问行星尺度的感知如何服务自然而非控制自然。",
+   "idea_en": "A planetary sensing network is a political design: decide who it serves before you build it.",
+   "idea_zh": "行星尺度的感知网络是一种政治设计：在建造之前先决定它为谁服务。",
+   "method": "A critical survey of environmental monitoring technologies and governance models.",
+   "method_zh": "对环境监测技术和治理模式的批判性综述。",
+   "keywords": [
+    "Karen Bakker",
+    "digital environmentalism",
+    "Smart Earth",
+    "sensing",
+    "MIT Press"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/14672307-L.jpg"
+   ],
+   "source_url": "https://karenbakker.org"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Katie Zacarian",
+   "why": "Former CEO of Earth Species Project; co-author of BEANS and BEBE; public voice on ethics of decoding.",
+   "link": "https://earthspecies.org/about-us/",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "Masato Hagiwara",
+   "why": "ESP senior AI researcher behind AVES, BEANS, ISPA and the term Animal Language Processing.",
+   "link": "https://earthspecies.org/about-us/",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "Gašper Beguš",
+   "why": "UC Berkeley linguist leading CETI's interpretable-GAN and vowel work; also CiwGAN/fiwGAN speech models.",
+   "link": "https://www.gasperbegus.com",
+   "found_via": "project-ceti",
+   "status": "open"
+  },
+  {
+   "name": "Raincoast Conservation Foundation (Valeria Vergara, Lance Barrett-Lennard)",
+   "why": "Killer whale communication and ship-noise studies with ESP.",
+   "link": "https://www.raincoast.org/voice/",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "FrogID (Australian Museum)",
+   "why": "Citizen-science frog call app that evaluated NatureLM-audio on real data.",
+   "link": "https://www.frogid.net.au",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "PrimateFace (Felipe Parodi)",
+   "why": "Face-landmark model across 60+ primate genera for studying facial expression, NeurIPS 2025 animal communication workshop.",
+   "link": "https://earthspecies.org/2026/04/07/what-can-a-primate-face-tell-us-a-scalable-approach-to-studying-facial-expressions/",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "NeurIPS 2025 Workshop on AI for Non-Human Animal Communication",
+   "why": "Co-organised by ESP; its accepted papers are a ready list of new works (bees, frogs, primates, zebra finches).",
+   "link": "https://earthspecies.org/blog/",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "Federico Rossano (FluentPet button study)",
+   "why": "Studies of dogs pressing soundboard buttons, the main empirical test of consumer 'talking pet' devices.",
+   "link": "https://comparativecognitionlab.ucsd.edu",
+   "found_via": "con-slobodchikoff",
+   "status": "duplicate"
+  },
+  {
+   "name": "Hawaiian crow vocal repertoire (Christian Rutz, ESP)",
+   "why": "Ongoing ESP partnership on tool-using ʻalalā crows; no publication with media yet.",
+   "link": "https://earthspecies.org/what-we-do/partners-projects/",
+   "found_via": "christian-rutz",
+   "status": "open"
+  },
+  {
+   "name": "Santa Fe Institute 'Animals in Translation' workshop (2024)",
+   "why": "Interspecies Internet + XPRIZE meeting that drafted criteria for claiming a decode.",
+   "link": "https://earthspecies.org/2024/07/15/field-notes-defining-decode/",
+   "found_via": "interspecies-internet",
+   "status": "open"
+  },
+  {
+   "name": "Google Perch bioacoustics model",
+   "why": "Google Research's bird/whale classifier and agile-modelling tools, compared against BirdAVES.",
+   "link": "https://github.com/google-research/perch",
+   "found_via": "earth-species-project",
+   "status": "open"
+  },
+  {
+   "name": "Alinta Krauth — Leonardo papers on AI animal translation",
+   "why": "Artist-researcher critiques of AI translation of animal sounds; overlaps this batch's communication scope.",
+   "link": "https://alintakrauth.com",
+   "found_via": "earth-species-project",
+   "status": "open"
+  }
+ ]
+}

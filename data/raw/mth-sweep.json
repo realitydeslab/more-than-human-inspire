@@ -2156,24 +2156,24 @@
     },
     {
       "name": "Bee and honeybee co-creation papers (TEI/CHI)",
-      "why": "Telling the Bees (TEI 2019), 4D Bioforming with Bees (CHI 2025), Wax Arts with Honeybees (TEI 2025): left to the aci batch by agreement.",
+      "why": "Telling the Bees (TEI 2019), 4D Bioforming with Bees (CHI 2025), Wax Arts with Honeybees (TEI 2025): left to the aci batch by agreement. Now in aci.json.",
       "link": "https://doi.org/10.1145/3706598.3713696",
       "found_via": "seed",
-      "status": "open"
+      "status": "duplicate"
     },
     {
       "name": "Speaking for Animals / Urban Noticing Probes for Community Animals",
-      "why": "DIS 2026 and CHI 2025 multispecies-activism and street-animal cohabitation papers; left to the aci batch.",
+      "why": "DIS 2026 and CHI 2025 multispecies-activism and street-animal cohabitation papers; left to the aci batch. Now in aci.json.",
       "link": "https://doi.org/10.1145/3706598.3713977",
       "found_via": "seed",
-      "status": "open"
+      "status": "duplicate"
     },
     {
       "name": "Weilenmann & Juhlin — Exploring interspecies sensemaking (UbiComp 2012)",
-      "why": "Early multispecies ethnography of dog-tracking technology in hunting; left to the aci batch.",
+      "why": "Early multispecies ethnography of dog-tracking technology in hunting; left to the aci batch. Now in aci.json.",
       "link": "https://doi.org/10.1145/2370216.2370239",
       "found_via": "fredrik-aspling",
-      "status": "open"
+      "status": "duplicate"
     },
     {
       "name": "William Odom — urban agriculture and sustainable HCI (DIS 2010)",

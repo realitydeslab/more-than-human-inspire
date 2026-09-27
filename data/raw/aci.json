@@ -1281,6 +1281,54 @@
     "clemens-driessen"
    ],
    "discovered_via": "clemens-driessen"
+  },
+  {
+   "id": "jihan-sherman",
+   "name": "Jihan Sherman",
+   "kind": "person",
+   "role": "Designer and researcher; Digital Media, Georgia Institute of Technology",
+   "based": "Atlanta, US",
+   "bio": "Digital media researcher who led Telling the Bees, an immersive piece based on the custom of telling bees household news.",
+   "why": "Her work turns an old human–bee ritual into a tangible, voice-driven interface.",
+   "links": {},
+   "role_zh": "设计师、研究者，佐治亚理工学院数字媒体专业",
+   "based_zh": "亚特兰大，美国",
+   "bio_zh": "数字媒体研究者，主导了 Telling the Bees：一件根据“把家中大事告诉蜜蜂”这一习俗创作的沉浸式作品。",
+   "why_zh": "她的作品把一种古老的人与蜜蜂的仪式变成了可触摸、可对话的界面。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yixiong-wang",
+   "name": "Yixiong Wang",
+   "kind": "person",
+   "role": "Researcher, Computational Media and Arts Thrust, HKUST (Guangzhou); Design Academy, Sichuan Fine Arts Institute",
+   "based": "Guangzhou, China",
+   "bio": "Design researcher who develops methods for shaping honeycomb together with bees and beekeepers.",
+   "why": "His 4D bioforming method lets bees build designed honeycomb forms within ordinary beekeeping practice.",
+   "links": {},
+   "role_zh": "香港科技大学（广州）计算媒体与艺术学域研究者；四川美术学院设计学院",
+   "based_zh": "广州，中国",
+   "bio_zh": "设计研究者，开发与蜜蜂和养蜂人一起塑造蜂巢形态的方法。",
+   "why_zh": "他的“4D 生物成形”方法让蜜蜂在日常养蜂实践中建造经过设计的蜂巢形态。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stephan-huber",
+   "name": "Stephan Huber",
+   "kind": "person",
+   "role": "Researcher, Chair of Psychological Ergonomics, Julius-Maximilians-Universität Würzburg",
+   "based": "Würzburg, Germany",
+   "bio": "HCI researcher who explores co-creation with honeybees, offering them wax shapes to build on.",
+   "why": "His wax sculptures treat bees as co-authors of an artwork rather than producers of raw material.",
+   "links": {},
+   "role_zh": "维尔茨堡大学心理人因学教席研究者",
+   "based_zh": "维尔茨堡，德国",
+   "bio_zh": "人机交互研究者，探索与蜜蜂共同创作：为蜜蜂提供蜡质形状，让它们在上面继续建造。",
+   "why_zh": "他的蜡雕把蜜蜂当作艺术作品的共同作者，而不是原材料的生产者。",
+   "connected_to": [],
+   "discovered_via": "seed"
   }
  ],
  "works": [
@@ -6642,6 +6690,155 @@
     "title": "Extended abstract a field computer for animal trackers"
    },
    "source_url": "https://www.cybertracker.org"
+  },
+  {
+   "id": "jihan-sherman--telling-the-bees",
+   "creator_ids": [
+    "jihan-sherman"
+   ],
+   "title": "Telling the Bees: Designing for Immersion, Mediation, and Ritual",
+   "year": 2019,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "Telling the Bees is an immersive prototype based on the old custom of beekeepers telling their bees family news; visitors speak to and touch a hive-like interface that answers with sound and images.",
+   "description_zh": "Telling the Bees 是一个沉浸式原型，源于养蜂人把家中大事告诉蜜蜂的古老习俗；参与者对着一个蜂箱般的界面说话、触摸它，界面以声音和影像回应。",
+   "idea_en": "An old ritual of talking to animals can guide how we design conversational interfaces with them.",
+   "idea_zh": "一种与动物说话的古老仪式，可以启发我们如何设计与动物之间的对话式界面。",
+   "method": "Tactile and vocal inputs drive procedural audio-visual feedback in an installation that invites ritual body postures.",
+   "method_zh": "触觉和声音输入驱动程序化的声画反馈，装置引导参与者做出仪式般的身体姿态。",
+   "keywords": [
+    "honeybees",
+    "ritual",
+    "tangible interface",
+    "TEI 2019"
+   ],
+   "also": [
+    "mth",
+    "hni"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3294109.3301001",
+    "doi": "10.1145/3294109.3301001",
+    "arxiv": "",
+    "venue": "TEI 2019",
+    "title": "Telling the Bees: Designing for Immersion, Mediation, and Ritual"
+   }
+  },
+  {
+   "id": "yixiong-wang--4d-bioforming-bees",
+   "creator_ids": [
+    "yixiong-wang"
+   ],
+   "title": "4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation",
+   "year": 2025,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A prototyping method in which beekeepers give bees shaped scaffolds so the colony builds honeycomb into new, polymorphic forms, while keeping standard hive practice.",
+   "description_zh": "一种原型方法：养蜂人为蜜蜂提供造型支架，让蜂群把蜂巢建成新的多形态造型，同时保留常规的养蜂流程。",
+   "idea_en": "Design with the bees' building behaviour instead of printing the form yourself.",
+   "idea_zh": "借助蜜蜂的建造行为来设计，而不是自己把形态打印出来。",
+   "method": "Four steps: scaffold creation, quadrilateral shape division, placement in hives and colony building; tested with beekeepers.",
+   "method_zh": "四个步骤：制作支架、四边形分区、放入蜂箱、由蜂群建造；与养蜂人一起测试。",
+   "keywords": [
+    "honeybees",
+    "honeycomb",
+    "4D bioforming",
+    "beekeeping",
+    "CHI 2025"
+   ],
+   "also": [
+    "mth",
+    "bio"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713696",
+    "doi": "10.1145/3706598.3713696",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation"
+   }
+  },
+  {
+   "id": "sena-cucumak--speaking-for-animals",
+   "creator_ids": [
+    "sena-cucumak"
+   ],
+   "title": "Speaking for Animals: Design Opportunities through Tensions in Multispecies Activism",
+   "year": 2026,
+   "field": "aci",
+   "sub": "aci-theory",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A study of community animal rights activists in Türkiye resisting a new law that removes street animals from public space, drawing out design opportunities from the tensions of speaking for animals.",
+   "description_zh": "一项关于土耳其社区动物权益活动者的研究：他们抵制一项把街头动物从公共空间清除的新法律，研究从“替动物发声”的张力中提炼设计机会。",
+   "idea_en": "Designers who speak for animals need to face whose voice is heard and whose is silenced.",
+   "idea_zh": "替动物发声的设计者，必须面对谁的声音被听见、谁的声音被压制。",
+   "method": "Qualitative study with activists, analysed through multispecies justice and care.",
+   "method_zh": "对活动者开展质性研究，并从多物种正义与照护的角度分析。",
+   "keywords": [
+    "street animals",
+    "activism",
+    "multispecies justice",
+    "Türkiye",
+    "DIS 2026"
+   ],
+   "also": [
+    "mth"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3800645.3812970",
+    "doi": "10.1145/3800645.3812970",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Speaking for Animals: Design Opportunities through Tensions in Multispecies Activism"
+   }
+  },
+  {
+   "id": "stephan-huber--wax-arts-with-honeybees",
+   "creator_ids": [
+    "stephan-huber"
+   ],
+   "title": "Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation",
+   "year": 2025,
+   "field": "aci",
+   "sub": "play",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "Over one season, researchers placed human-made wax shapes in hives and let honeybees build on them, producing sculptures that go beyond the bees' usual comb forms.",
+   "description_zh": "在一个季节里，研究者把人制作的蜡质形状放入蜂箱，让蜜蜂在上面继续建造，形成超出蜜蜂常规巢脾形态的雕塑。",
+   "idea_en": "Treat bees as co-creators and the hive becomes a studio.",
+   "idea_zh": "把蜜蜂当作共同创作者，蜂箱就成了工作室。",
+   "method": "Wax starter shapes introduced into Apis mellifera colonies for four months, with documentation of how bees deviated from regular comb.",
+   "method_zh": "把蜡质起始造型放入西方蜜蜂群落中四个月，记录蜜蜂如何偏离常规巢脾。",
+   "keywords": [
+    "honeybees",
+    "Apis mellifera",
+    "beeswax",
+    "co-creation",
+    "TEI 2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3705990",
+    "doi": "10.1145/3689050.3705990",
+    "arxiv": "",
+    "venue": "TEI 2025",
+    "title": "Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation"
+   }
   }
  ],
  "leads": [

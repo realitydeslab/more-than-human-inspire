@@ -1,10 +1,5 @@
 {
- "works": [
-  {
-   "id": "natalie-jeremijenko--feral-robotic-dogs",
-   "why": "no working video, image or paper"
-  }
- ],
+ "works": [],
  "media": [
   {
    "id": "neri-oxman--aguahoja",
@@ -63,12 +58,6 @@
    "title": "Self-healing bioconcrete"
   },
   {
-   "id": "ori-elisar--living-language-project",
-   "what": "image",
-   "url": "https://web.archive.org/web/20191114090514im_/https://orielisar.com/wp-content/uploads/2015/08/IMG_9224-copy1.jpg",
-   "error": "URLError: <urlopen error [Errno 61] Connection refused>"
-  },
-  {
    "id": "ingmar-riedel-kruse--biology-cloud-lab",
    "what": "doi-title",
    "doi": "10.1145/3051457.3053994",
@@ -95,24 +84,6 @@
    "doi": "10.1016/j.isci.2022.104393",
    "crossref": "Toward understanding the communication in sperm whales",
    "title": "Project CETI"
-  },
-  {
-   "id": "anne-galloway--counting-sheep",
-   "what": "image",
-   "url": "https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png",
-   "error": "URLError: <urlopen error [Errno 61] Connection refused>"
-  },
-  {
-   "id": "natalie-jeremijenko--feral-robotic-dogs",
-   "what": "image",
-   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
-   "error": "URLError: <urlopen error [Errno 61] Connection refused>"
-  },
-  {
-   "id": "natalie-jeremijenko--feral-robotic-dogs",
-   "what": "image",
-   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg",
-   "error": "URLError: <urlopen error [Errno 61] Connection refused>"
   },
   {
    "id": "jiabao-li--echovision",

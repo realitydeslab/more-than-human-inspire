@@ -16357,9 +16357,9 @@
  },
  "img:https://web.archive.org/web/20191114090514im_/https://orielisar.com/wp-content/uploads/2015/08/IMG_9224-copy1.jpg": {
   "url": "https://web.archive.org/web/20191114090514im_/https://orielisar.com/wp-content/uploads/2015/08/IMG_9224-copy1.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  "content_type": "image/jpeg"
  },
  "video:vimeo:337648262": {
   "url": "https://vimeo.com/337648262",
@@ -20385,9 +20385,9 @@
  },
  "img:https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png": {
   "url": "https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  "content_type": "image/png"
  },
  "doi:10.4324/9781315526379-8": {
   "doi": "10.4324/9781315526379-8",
@@ -20763,15 +20763,15 @@
  },
  "img:https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg": {
   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  "content_type": "image/jpeg"
  },
  "img:https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg": {
   "url": "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "URLError: <urlopen error [Errno 61] Connection refused>"
+  "content_type": "image/jpeg"
  },
  "video:vimeo:757505563": {
   "url": "https://vimeo.com/757505563",
@@ -29129,9 +29129,9 @@
  },
  "ytmax:JWfEYJogvLo": {
   "url": "https://i.ytimg.com/vi/JWfEYJogvLo/maxresdefault.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "URLError: <urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  "content_type": "image/jpeg"
  },
  "ytmax:u9WZbdMHam0": {
   "url": "https://i.ytimg.com/vi/u9WZbdMHam0/maxresdefault.jpg",
@@ -29354,5 +29354,1729 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "doi:10.1145/3294109.3301001": {
+  "doi": "10.1145/3294109.3301001",
+  "ok": true,
+  "type": "doi",
+  "title": "Telling the Bees",
+  "year": 2019,
+  "venue": "Proceedings of the Thirteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3294109.3301001"
+ },
+ "doi:10.1145/3706598.3713696": {
+  "doi": "10.1145/3706598.3713696",
+  "ok": true,
+  "type": "doi",
+  "title": "4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713696"
+ },
+ "doi:10.1145/3800645.3812970": {
+  "doi": "10.1145/3800645.3812970",
+  "ok": true,
+  "type": "doi",
+  "title": "Speaking for Animals: Design Opportunities through Tensions in Multispecies Activism",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3800645.3812970"
+ },
+ "doi:10.1145/3689050.3705990": {
+  "doi": "10.1145/3689050.3705990",
+  "ok": true,
+  "type": "doi",
+  "title": "Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation",
+  "year": 2025,
+  "venue": "Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3689050.3705990"
+ },
+ "img:https://figures.semanticscholar.org/e218967af5c512308ff34f92e6cd1ca4fe3d1d2a/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e218967af5c512308ff34f92e6cd1ca4fe3d1d2a/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e218967af5c512308ff34f92e6cd1ca4fe3d1d2a/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/e218967af5c512308ff34f92e6cd1ca4fe3d1d2a/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/018f8fb3526a93a583853f261fb029610c529ede/4-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/018f8fb3526a93a583853f261fb029610c529ede/4-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/018f8fb3526a93a583853f261fb029610c529ede/4-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/018f8fb3526a93a583853f261fb029610c529ede/4-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e52f1c0b2013baa30cc2a2e9ca0b6bc4e22e297f/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/e52f1c0b2013baa30cc2a2e9ca0b6bc4e22e297f/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e52f1c0b2013baa30cc2a2e9ca0b6bc4e22e297f/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/e52f1c0b2013baa30cc2a2e9ca0b6bc4e22e297f/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d55e1b434a1d0b9047cd87ea186e2f1a689a53af/6-Figure8-1.png": {
+  "url": "https://figures.semanticscholar.org/d55e1b434a1d0b9047cd87ea186e2f1a689a53af/6-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d55e1b434a1d0b9047cd87ea186e2f1a689a53af/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d55e1b434a1d0b9047cd87ea186e2f1a689a53af/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/95c54b6cd4336a6907474812776f28e92d0d2614/5-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/95c54b6cd4336a6907474812776f28e92d0d2614/5-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/95c54b6cd4336a6907474812776f28e92d0d2614/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/95c54b6cd4336a6907474812776f28e92d0d2614/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/4-Figure8-1.png": {
+  "url": "https://figures.semanticscholar.org/9063f812ff5cce96a14ebf63ac80b06b92dc7d62/4-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fd30fb11e697de6fc936eb14532ef915830322d3/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/fd30fb11e697de6fc936eb14532ef915830322d3/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fd30fb11e697de6fc936eb14532ef915830322d3/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/fd30fb11e697de6fc936eb14532ef915830322d3/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/789bdc3f9373fefe32b90246dab6647b6df10742/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/789bdc3f9373fefe32b90246dab6647b6df10742/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/789bdc3f9373fefe32b90246dab6647b6df10742/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/789bdc3f9373fefe32b90246dab6647b6df10742/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/3c1b715a6843a25a660a3dde2935b975eed7777f/5-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/3c1b715a6843a25a660a3dde2935b975eed7777f/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/85ec779dadfabe243b477d84fdf10f0d8decfd44/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/85ec779dadfabe243b477d84fdf10f0d8decfd44/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/2e888654c68524163fbf7a54396488249e73a702/6-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/2e888654c68524163fbf7a54396488249e73a702/6-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/8-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/8-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/6-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/6-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/5-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/5-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/8-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/8-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/5-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/9-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/9-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/6-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/6-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9952a7109f9177a8ea128f6bd209b02f679d2bf4/9-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/9952a7109f9177a8ea128f6bd209b02f679d2bf4/9-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9952a7109f9177a8ea128f6bd209b02f679d2bf4/12-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/9952a7109f9177a8ea128f6bd209b02f679d2bf4/12-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/7-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/7-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/6-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/6-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/8-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/8-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/9-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/9-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9bbabb7ea3ee36a739a2360cbffd66ab7009a676/8-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/9bbabb7ea3ee36a739a2360cbffd66ab7009a676/8-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/65b8fff88ebcee8ae470704ba7a07ecfd86b3512/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/65b8fff88ebcee8ae470704ba7a07ecfd86b3512/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/11-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/11-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/9-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/9-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/28a1dbe45ae7b36a3df1e40a7df0306967c95e58/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/28a1dbe45ae7b36a3df1e40a7df0306967c95e58/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/549d1677f6afbb09916edf7bb1e4b1c37c1799b0/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/549d1677f6afbb09916edf7bb1e4b1c37c1799b0/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "video:youtube:rjvsl0mhqTk": {
+  "url": "https://www.youtube.com/watch?v=rjvsl0mhqTk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rjvsl0mhqTk",
+  "title": "Aza Raskin and Earth Species Project",
+  "author": "Earth Species Project (ESP)",
+  "thumbnail": "https://i.ytimg.com/vi/rjvsl0mhqTk/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/638f8b23f186af7be3328294_Roadmap-Hero.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/638f8b23f186af7be3328294_Roadmap-Hero.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:TGWFr-6JCDk": {
+  "url": "https://www.youtube.com/watch?v=TGWFr-6JCDk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "TGWFr-6JCDk",
+  "title": "BioCPPNet",
+  "author": "Earth Species Project (ESP)",
+  "thumbnail": "https://i.ytimg.com/vi/TGWFr-6JCDk/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/632ce7a5951bc104d2297aed_631d410ba6a75c58e6d8b259_0_hPfNeo5RHL-slH_D.jpeg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/632ce7a5951bc104d2297aed_631d410ba6a75c58e6d8b259_0_hPfNeo5RHL-slH_D.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41598-021-02790-2": {
+  "doi": "10.1038/s41598-021-02790-2",
+  "ok": true,
+  "type": "doi",
+  "title": "BioCPPNet: automatic bioacoustic source separation with deep neural networks",
+  "year": 2021,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-021-02790-2"
+ },
+ "video:youtube:nY1-N1M-rxk": {
+  "url": "https://www.youtube.com/watch?v=nY1-N1M-rxk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "nY1-N1M-rxk",
+  "title": "ICASSP 2023 - BEANS: The Benchmark of Animal Sounds",
+  "author": "Earth Species Project (ESP)",
+  "thumbnail": "https://i.ytimg.com/vi/nY1-N1M-rxk/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/637e04ed3e538d1047f965e3_bee-and-flowers.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/637e04ed3e538d1047f965e3_bee-and-flowers.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/icassp49357.2023.10096686": {
+  "doi": "10.1109/icassp49357.2023.10096686",
+  "ok": true,
+  "type": "doi",
+  "title": "BEANS: The Benchmark of Animal Sounds",
+  "year": 2023,
+  "venue": "ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+  "url": "https://doi.org/10.1109/icassp49357.2023.10096686"
+ },
+ "arxiv:2210.12300": {
+  "arxiv": "2210.12300",
+  "ok": true,
+  "type": "arxiv",
+  "title": "BEANS: The Benchmark of Animal Sounds",
+  "year": 2022,
+  "url": "https://arxiv.org/abs/2210.12300"
+ },
+ "video:youtube:9i-_CEhoCzw": {
+  "url": "https://www.youtube.com/watch?v=9i-_CEhoCzw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9i-_CEhoCzw",
+  "title": "ICASSP 2023- AVES: Animal Vocalization Encoder based on Self Supervision",
+  "author": "Earth Species Project (ESP)",
+  "thumbnail": "https://i.ytimg.com/vi/9i-_CEhoCzw/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/647795b555df52d1f2e00f4d_rene-riegal-qAts81pZrbg-unsplash-1-min.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/647795b555df52d1f2e00f4d_rene-riegal-qAts81pZrbg-unsplash-1-min.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "arxiv:2210.14493": {
+  "arxiv": "2210.14493",
+  "ok": true,
+  "type": "arxiv",
+  "title": "AVES: Animal Vocalization Encoder based on Self-Supervision",
+  "year": 2022,
+  "url": "https://arxiv.org/abs/2210.14493"
+ },
+ "img:https://arxiv.org/html/2210.10857v1/fig_overview.png": {
+  "url": "https://arxiv.org/html/2210.10857v1/fig_overview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2210.10857": {
+  "arxiv": "2210.10857",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Modeling Animal Vocalizations through Synthesizers",
+  "year": 2022,
+  "url": "https://arxiv.org/abs/2210.10857"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1186%2Fs40462-024-00511-8/MediaObjects/40462_2024_511_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1186%2Fs40462-024-00511-8/MediaObjects/40462_2024_511_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/632ce7a53477ec726d657d53_631935de159912e0f26b5c47_1_XK47qdmOs-DOQmaPzWLsAA.jpeg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/632ce7a53477ec726d657d53_631935de159912e0f26b5c47_1_XK47qdmOs-DOQmaPzWLsAA.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1186/s40462-024-00511-8": {
+  "doi": "10.1186/s40462-024-00511-8",
+  "ok": true,
+  "type": "doi",
+  "title": "A benchmark for computational analysis of animal behavior, using animal-borne tags",
+  "year": 2024,
+  "venue": "Movement Ecology",
+  "url": "https://doi.org/10.1186/s40462-024-00511-8"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/64f0505eba7a72f147af1c09_joshua-j-cotten-Y_OxRWJFvuw-unsplash-1.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/64f0505eba7a72f147af1c09_joshua-j-cotten-Y_OxRWJFvuw-unsplash-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/6674594a2cb3b5a535caf742_mario-mendez-JNK1R53FeYw-unsplash.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/6674594a2cb3b5a535caf742_mario-mendez-JNK1R53FeYw-unsplash.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2402.03269v1/fig_phoneme_cluster.png": {
+  "url": "https://arxiv.org/html/2402.03269v1/fig_phoneme_cluster.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1109/icasspw62465.2024.10669911": {
+  "doi": "10.1109/icasspw62465.2024.10669911",
+  "ok": true,
+  "type": "doi",
+  "title": "ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds",
+  "year": 2024,
+  "venue": "2024 IEEE International Conference on Acoustics, Speech, and Signal Processing Workshops (ICASSPW)",
+  "url": "https://doi.org/10.1109/icasspw62465.2024.10669911"
+ },
+ "arxiv:2402.03269": {
+  "arxiv": "2402.03269",
+  "ok": true,
+  "type": "arxiv",
+  "title": "ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2402.03269"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/656cb45ee88deb55269fee96_Burrowing-Owls.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/656cb45ee88deb55269fee96_Burrowing-Owls.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.adg7314": {
+  "doi": "10.1126/science.adg7314",
+  "ok": true,
+  "type": "doi",
+  "title": "Using machine learning to decode animal communication",
+  "year": 2023,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adg7314"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/67ae625135b978ff6aa16e7a_29275630206_512b1888b9_5k.jpg": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/67ae625135b978ff6aa16e7a_29275630206_512b1888b9_5k.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/icassp49660.2025.10889313": {
+  "doi": "10.1109/icassp49660.2025.10889313",
+  "ok": true,
+  "type": "doi",
+  "title": "Biodenoising: Animal Vocalization Denoising without Access to Clean Data",
+  "year": 2025,
+  "venue": "ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+  "url": "https://doi.org/10.1109/icassp49660.2025.10889313"
+ },
+ "arxiv:2410.03427": {
+  "arxiv": "2410.03427",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Biodenoising: Animal Vocalization Denoising without Access to Clean Data",
+  "year": 2024,
+  "url": "https://arxiv.org/abs/2410.03427"
+ },
+ "img:https://arxiv.org/html/2503.00296v2/figures/figures_v1.003.jpeg": {
+  "url": "https://arxiv.org/html/2503.00296v2/figures/figures_v1.003.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "arxiv:2503.00296": {
+  "arxiv": "2503.00296",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Synthetic data enables context-aware bioacoustic sound event detection",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2503.00296"
+ },
+ "img:https://arxiv.org/html/2503.02389v2/synth_results.png": {
+  "url": "https://arxiv.org/html/2503.02389v2/synth_results.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2503.02389": {
+  "arxiv": "2503.02389",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Robust detection of overlapping bioacoustic sound events",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2503.02389"
+ },
+ "video:youtube:2MipvgUzO6M": {
+  "url": "https://www.youtube.com/watch?v=2MipvgUzO6M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "2MipvgUzO6M",
+  "title": "The Language of Crows: Earth Species Project + University of León",
+  "author": "Earth Species Project (ESP)",
+  "thumbnail": "https://i.ytimg.com/vi/2MipvgUzO6M/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/69417a419b5107d41885cfa4_CarrionCrowBiologger-1.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/69417a419b5107d41885cfa4_CarrionCrowBiologger-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-025-02018-0/MediaObjects/10071_2025_2018_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-025-02018-0/MediaObjects/10071_2025_2018_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/s10071-025-02018-0": {
+  "doi": "10.1007/s10071-025-02018-0",
+  "ok": true,
+  "type": "doi",
+  "title": "Capturing vocal communication in a free-living corvid: high-resolution data from low-impact miniaturized tags",
+  "year": 2025,
+  "venue": "Animal Cognition",
+  "url": "https://doi.org/10.1007/s10071-025-02018-0"
+ },
+ "img:https://www.cooperativecrows.com/img/visore_1.jpg": {
+  "url": "https://www.cooperativecrows.com/img/visore_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.64898/2026.04.02.715916": {
+  "doi": "10.64898/2026.04.02.715916",
+  "ok": true,
+  "type": "doi",
+  "title": "Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.64898/2026.04.02.715916"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/08/Copy-of-Braid-weave-2.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/08/Copy-of-Braid-weave-2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.64898/2026.02.12.705387": {
+  "doi": "10.64898/2026.02.12.705387",
+  "ok": true,
+  "type": "doi",
+  "title": "Leveraging AI-powered interactive playbacks to decipher rules of communication in zebra finches",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.64898/2026.02.12.705387"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/68c8820edb511ede36444b76_Cover.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/68c8820edb511ede36444b76_Cover.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://arxiv.org/html/2508.11845v3/figures/Fig1_updated.png": {
+  "url": "https://arxiv.org/html/2508.11845v3/figures/Fig1_updated.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2508.11845": {
+  "arxiv": "2508.11845",
+  "ok": true,
+  "type": "arxiv",
+  "title": "AVEX: What Matters for Animal Vocalization Encoding",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2508.11845"
+ },
+ "video:youtube:Xhr5SvDipUc": {
+  "url": "https://www.youtube.com/watch?v=Xhr5SvDipUc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Xhr5SvDipUc",
+  "title": "Studying whale communication from above and below",
+  "author": "Raincoast Conservation Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/Xhr5SvDipUc/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/6862918677532c8e6325f948_Orcas.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/6862918677532c8e6325f948_Orcas.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/01/68dabbc59eab835c2a8c2360_blogcover.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/01/68dabbc59eab835c2a8c2360_blogcover.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:8bJzA1EySck": {
+  "url": "https://www.youtube.com/watch?v=8bJzA1EySck",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8bJzA1EySck",
+  "title": "「動物言語処理」入門—AI と基盤モデルで動物言語を解読",
+  "author": "NLPコロキウム",
+  "thumbnail": "https://i.ytimg.com/vi/8bJzA1EySck/hqdefault.jpg"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/04/Braid-weave-5.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/04/Braid-weave-5.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/07/Braid-weave-4.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/07/Braid-weave-4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://earthspecies.org/wp-content/uploads/2026/08/Feature-Image-Great-Tit.png": {
+  "url": "https://earthspecies.org/wp-content/uploads/2026/08/Feature-Image-Great-Tit.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.64898/2026.07.31.742086": {
+  "doi": "10.64898/2026.07.31.742086",
+  "ok": true,
+  "type": "doi",
+  "title": "BirdCODE: Detecting bird communication at scale",
+  "year": 2026,
+  "venue": "",
+  "url": "https://doi.org/10.64898/2026.07.31.742086"
+ },
+ "doi:10.1002/brv.70164": {
+  "doi": "10.1002/brv.70164",
+  "ok": true,
+  "type": "doi",
+  "title": "Ancestral iconicity: the dance language of bees revisited",
+  "year": 2026,
+  "venue": "Biological Reviews",
+  "url": "https://doi.org/10.1002/brv.70164"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-48909-4/MediaObjects/41598_2019_48909_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-019-48909-4/MediaObjects/41598_2019_48909_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41598-019-48909-4": {
+  "doi": "10.1038/s41598-019-48909-4",
+  "ok": true,
+  "type": "doi",
+  "title": "Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-019-48909-4"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441721935423-2KQECM5DU4SR54IDRT8M/Whale+research.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441721935423-2KQECM5DU4SR54IDRT8M/Whale+research.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1098/rsos.150372": {
+  "doi": "10.1098/rsos.150372",
+  "ok": true,
+  "type": "doi",
+  "title": "Individual, unit and vocal clan level identity cues in sperm whale codas",
+  "year": 2016,
+  "venue": "Royal Society Open Science",
+  "url": "https://doi.org/10.1098/rsos.150372"
+ },
+ "doi:10.1073/pnas.2201692119": {
+  "doi": "10.1073/pnas.2201692119",
+  "ok": true,
+  "type": "doi",
+  "title": "Evidence from sperm whale clans of symbolic marking in non-human cultures",
+  "year": 2022,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.2201692119"
+ },
+ "img:https://arxiv.org/html/2307.05304v4/figure_one_final.png": {
+  "url": "https://arxiv.org/html/2307.05304v4/figure_one_final.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.7554/elife.96362": {
+  "doi": "10.7554/elife.96362",
+  "ok": true,
+  "type": "doi",
+  "title": "Evidence of social learning across symbolic cultural barriers in sperm whales",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.7554/elife.96362"
+ },
+ "arxiv:2307.05304": {
+  "arxiv": "2307.05304",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Evidence of social learning across symbolic cultural barriers in sperm whales",
+  "year": 2023,
+  "url": "https://arxiv.org/abs/2307.05304"
+ },
+ "video:youtube:AQlCiAUfXXI": {
+  "url": "https://www.youtube.com/watch?v=AQlCiAUfXXI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AQlCiAUfXXI",
+  "title": "Project CETI’s autonomous custom glider system",
+  "author": "Project CETI",
+  "thumbnail": "https://i.ytimg.com/vi/AQlCiAUfXXI/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg": {
+  "url": "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/scirobotics.adn7299": {
+  "doi": "10.1126/scirobotics.adn7299",
+  "ok": true,
+  "type": "doi",
+  "title": "Reinforcement learning–based framework for whale rendezvous via autonomous sensing robots",
+  "year": 2024,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.adn7299"
+ },
+ "img:https://cdn.prod.website-files.com/644849cc07ba153932ff365d/663a463fc47f734a633292fb_Amanda%20Cotton%20-%20reflection%20(1).jpg": {
+  "url": "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/663a463fc47f734a633292fb_Amanda%20Cotton%20-%20reflection%20(1).jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/opmi.a.252": {
+  "doi": "10.1162/opmi.a.252",
+  "ok": true,
+  "type": "doi",
+  "title": "Vowel- and Diphthong-Like Spectral Patterns in Sperm Whale Codas",
+  "year": 2025,
+  "venue": "Open Mind",
+  "url": "https://doi.org/10.1162/opmi.a.252"
+ },
+ "video:youtube:L59pNqxvFdw": {
+  "url": "https://www.youtube.com/watch?v=L59pNqxvFdw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L59pNqxvFdw",
+  "title": "The phonology of sperm whale coda vowels",
+  "author": "Project CETI",
+  "thumbnail": "https://i.ytimg.com/vi/L59pNqxvFdw/hqdefault.jpg"
+ },
+ "doi:10.1098/rspb.2025.2994": {
+  "doi": "10.1098/rspb.2025.2994",
+  "ok": true,
+  "type": "doi",
+  "title": "The phonology of sperm whale coda vowels",
+  "year": 2026,
+  "venue": "Proceedings of the Royal Society B: Biological Sciences",
+  "url": "https://doi.org/10.1098/rspb.2025.2994"
+ },
+ "video:youtube:ccphRKVQnA4": {
+  "url": "https://www.youtube.com/watch?v=ccphRKVQnA4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ccphRKVQnA4",
+  "title": "Project CETI WhAM (Whale Acoustics Model)",
+  "author": "Project CETI",
+  "thumbnail": "https://i.ytimg.com/vi/ccphRKVQnA4/hqdefault.jpg"
+ },
+ "img:https://arxiv.org/html/2512.02206v1/main_figure.png": {
+  "url": "https://arxiv.org/html/2512.02206v1/main_figure.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "arxiv:2512.02206": {
+  "arxiv": "2512.02206",
+  "ok": true,
+  "type": "arxiv",
+  "title": "WhAM: Towards A Translative Model of Sperm Whale Vocalization",
+  "year": 2025,
+  "url": "https://arxiv.org/abs/2512.02206"
+ },
+ "video:youtube:eV7VRURo4sY": {
+  "url": "https://www.youtube.com/watch?v=eV7VRURo4sY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eV7VRURo4sY",
+  "title": "Drone footage of sperm whales helping with a birth",
+  "author": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+  "thumbnail": "https://i.ytimg.com/vi/eV7VRURo4sY/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-27438-3/MediaObjects/41598_2025_27438_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-27438-3/MediaObjects/41598_2025_27438_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41598-025-27438-3": {
+  "doi": "10.1038/s41598-025-27438-3",
+  "ok": true,
+  "type": "doi",
+  "title": "Description of a collaborative sperm whale birth and shifts in coda vocal styles during key events",
+  "year": 2026,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-025-27438-3"
+ },
+ "doi:10.1098/rsos.250829": {
+  "doi": "10.1098/rsos.250829",
+  "ok": true,
+  "type": "doi",
+  "title": "Approaching an unknown communication system by latent space exploration and causal inference",
+  "year": 2026,
+  "venue": "Royal Society Open Science",
+  "url": "https://doi.org/10.1098/rsos.250829"
+ },
+ "video:youtube:PR1wzsLR3ZQ": {
+  "url": "https://www.youtube.com/watch?v=PR1wzsLR3ZQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PR1wzsLR3ZQ",
+  "title": "Project CETI - Synced drone and underwater audio sperm whale footage",
+  "author": "ABA Journal - Law News Now",
+  "thumbnail": "https://i.ytimg.com/vi/PR1wzsLR3ZQ/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66b298ce875525f9565009ec_project-ceti-x-moth.jpg": {
+  "url": "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66b298ce875525f9565009ec_project-ceti-x-moth.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/644849cc07ba153932ff365d/67ed45bce13f8881a440e216_Untitled%20design%20(47).png": {
+  "url": "https://cdn.prod.website-files.com/644849cc07ba153932ff365d/67ed45bce13f8881a440e216_Untitled%20design%20(47).png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:jH98kvC9f1s": {
+  "url": "https://www.youtube.com/watch?v=jH98kvC9f1s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jH98kvC9f1s",
+  "title": "Google’s DolphinGemma: One Giant Splash Towards Interspecies Communication",
+  "author": "Google for Developers",
+  "thumbnail": "https://i.ytimg.com/vi/jH98kvC9f1s/hqdefault.jpg"
+ },
+ "img:https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png": {
+  "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:R7jNuUMpws4": {
+  "url": "https://www.youtube.com/watch?v=R7jNuUMpws4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "R7jNuUMpws4",
+  "title": "Celebrating 40 years of dolphin research with Dr. Denise Herzing & renowned artist Geoffrey C. Smith",
+  "author": "WILD DOLPHIN PROJECT",
+  "thumbnail": "https://i.ytimg.com/vi/R7jNuUMpws4/hqdefault.jpg"
+ },
+ "img:https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg": {
+  "url": "https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:CQ5dRyyHwfM": {
+  "url": "https://www.youtube.com/watch?v=CQ5dRyyHwfM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CQ5dRyyHwfM",
+  "title": "Could we speak the language of dolphins? | Denise Herzing",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/CQ5dRyyHwfM/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/id/6917022-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/6917022-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:vCSKDjkp6rI": {
+  "url": "https://www.youtube.com/watch?v=vCSKDjkp6rI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vCSKDjkp6rI",
+  "title": "The dolphin in the mirror: Diana Reiss at TEDxBrussels",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/vCSKDjkp6rI/hqdefault.jpg"
+ },
+ "doi:10.1073/pnas.101086398": {
+  "doi": "10.1073/pnas.101086398",
+  "ok": true,
+  "type": "doi",
+  "title": "Mirror self-recognition in the bottlenose dolphin: A case of cognitive convergence",
+  "year": 2001,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.101086398"
+ },
+ "video:youtube:8KCWr2yVq08": {
+  "url": "https://www.youtube.com/watch?v=8KCWr2yVq08",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8KCWr2yVq08",
+  "title": "Coller-Dolittle Challenge awards event",
+  "author": "bat lab",
+  "thumbnail": "https://i.ytimg.com/vi/8KCWr2yVq08/hqdefault.jpg"
+ },
+ "doi:10.1101/2025.04.21.647658": {
+  "doi": "10.1101/2025.04.21.647658",
+  "ok": true,
+  "type": "doi",
+  "title": "First evidence for widespread sharing of stereotyped non-signature whistle types by wild dolphins",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.1101/2025.04.21.647658"
+ },
+ "video:youtube:aeLDYcyaQCE": {
+  "url": "https://www.youtube.com/watch?v=aeLDYcyaQCE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "aeLDYcyaQCE",
+  "title": "\"The Naming of Nonhuman Primates: Vocal Labeling of Others by Marmoset Monkeys\" with David Omer",
+  "author": "Interspecies Internet",
+  "thumbnail": "https://i.ytimg.com/vi/aeLDYcyaQCE/hqdefault.jpg"
+ },
+ "doi:10.1126/science.adp3757": {
+  "doi": "10.1126/science.adp3757",
+  "ok": true,
+  "type": "doi",
+  "title": "Vocal labeling of others by nonhuman primates",
+  "year": 2024,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adp3757"
+ },
+ "doi:10.1101/2025.04.12.648496": {
+  "doi": "10.1101/2025.04.12.648496",
+  "ok": true,
+  "type": "doi",
+  "title": "Attuning to song duels facilitates song-matching in nightingales",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.1101/2025.04.12.648496"
+ },
+ "video:youtube:EMCZXANfWGM": {
+  "url": "https://www.youtube.com/watch?v=EMCZXANfWGM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EMCZXANfWGM",
+  "title": "Cuttlefish use their arms to wave at each other",
+  "author": "ScienceAlert External Sources",
+  "thumbnail": "https://i.ytimg.com/vi/EMCZXANfWGM/hqdefault.jpg"
+ },
+ "doi:10.1101/2025.04.13.648584": {
+  "doi": "10.1101/2025.04.13.648584",
+  "ok": true,
+  "type": "doi",
+  "title": "Cuttlefish interact with multimodal “arm wave sign” displays",
+  "year": 2025,
+  "venue": "",
+  "url": "https://doi.org/10.1101/2025.04.13.648584"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-015-0933-6/MediaObjects/10071_2015_933_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-015-0933-6/MediaObjects/10071_2015_933_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/s10071-015-0933-6": {
+  "doi": "10.1007/s10071-015-0933-6",
+  "ok": true,
+  "type": "doi",
+  "title": "The vocal repertoire of the domesticated zebra finch: a data-driven approach to decipher the information-bearing acoustic features of communication signals",
+  "year": 2016,
+  "venue": "Animal Cognition",
+  "url": "https://doi.org/10.1007/s10071-015-0933-6"
+ },
+ "video:youtube:Rt6LauFHVBw": {
+  "url": "https://www.youtube.com/watch?v=Rt6LauFHVBw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Rt6LauFHVBw",
+  "title": "\"Bonobos Combine Calls into Sentence-Like Sequences\" with Mélissa Berthet",
+  "author": "Interspecies Internet",
+  "thumbnail": "https://i.ytimg.com/vi/Rt6LauFHVBw/hqdefault.jpg"
+ },
+ "doi:10.1126/science.adv1170": {
+  "doi": "10.1126/science.adv1170",
+  "ok": true,
+  "type": "doi",
+  "title": "Extensive compositionality in the vocal system of bonobos",
+  "year": 2025,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adv1170"
+ },
+ "video:youtube:ZIsrIt470mI": {
+  "url": "https://www.youtube.com/watch?v=ZIsrIt470mI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZIsrIt470mI",
+  "title": "Catherine Crockford & Roman Wittig: Cracking the Chimpanzee Code",
+  "author": "Tai Chimpanzee Project",
+  "thumbnail": "https://i.ytimg.com/vi/ZIsrIt470mI/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-022-03350-8/MediaObjects/42003_2022_3350_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-022-03350-8/MediaObjects/42003_2022_3350_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s42003-022-03350-8": {
+  "doi": "10.1038/s42003-022-03350-8",
+  "ok": true,
+  "type": "doi",
+  "title": "Chimpanzees produce diverse vocal sequences with ordered and recombinatorial properties",
+  "year": 2022,
+  "venue": "Communications Biology",
+  "url": "https://doi.org/10.1038/s42003-022-03350-8"
+ },
+ "doi:10.1016/j.cub.2025.08.028": {
+  "doi": "10.1016/j.cub.2025.08.028",
+  "ok": true,
+  "type": "doi",
+  "title": "Ultrasonic signals support a large-scale communication landscape in wild mice",
+  "year": 2025,
+  "venue": "Current Biology",
+  "url": "https://doi.org/10.1016/j.cub.2025.08.028"
+ },
+ "video:youtube:w8LepYR8v9A": {
+  "url": "https://www.youtube.com/watch?v=w8LepYR8v9A",
+  "ok": true,
+  "platform": "youtube",
+  "id": "w8LepYR8v9A",
+  "title": "Talking parrots and the origins of human intelligence",
+  "author": "Harvard University",
+  "thumbnail": "https://i.ytimg.com/vi/w8LepYR8v9A/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/id/411886-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/411886-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:0Myl142PvH8": {
+  "url": "https://www.youtube.com/watch?v=0Myl142PvH8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0Myl142PvH8",
+  "title": "The First InterSpecies-Internet Conversation",
+  "author": "Bonobo Hope: Kanzi, Panbanisha, Nyota, Teco",
+  "thumbnail": "https://i.ytimg.com/vi/0Myl142PvH8/hqdefault.jpg"
+ },
+ "img:https://www.bonobohope.org/KanziSlideshow/KanziAndKeyboard2.jpg": {
+  "url": "https://www.bonobohope.org/KanziSlideshow/KanziAndKeyboard2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://covers.openlibrary.org/b/id/305815-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/305815-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-008-0203-y/MediaObjects/10071_2008_203_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-008-0203-y/MediaObjects/10071_2008_203_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/s10071-008-0203-y": {
+  "doi": "10.1007/s10071-008-0203-y",
+  "ok": true,
+  "type": "doi",
+  "title": "Prairie dog alarm calls encode labels about predator colors",
+  "year": 2009,
+  "venue": "Animal Cognition",
+  "url": "https://doi.org/10.1007/s10071-008-0203-y"
+ },
+ "img:https://covers.openlibrary.org/b/id/7592769-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/7592769-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://zoolingua.com/wp-content/uploads/2025/11/dalmation1-1024x684.jpg": {
+  "url": "https://zoolingua.com/wp-content/uploads/2025/11/dalmation1-1024x684.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:7lMR-umhfko": {
+  "url": "https://www.youtube.com/watch?v=7lMR-umhfko",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7lMR-umhfko",
+  "title": "Yossi Yovel: The bat's point of view | ESI SyNC 23",
+  "author": "ESI Frankfurt",
+  "thumbnail": "https://i.ytimg.com/vi/7lMR-umhfko/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep39419/MediaObjects/41598_2016_Article_BFsrep39419_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep39419/MediaObjects/41598_2016_Article_BFsrep39419_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/srep39419": {
+  "doi": "10.1038/srep39419",
+  "ok": true,
+  "type": "doi",
+  "title": "Everyday bat vocalizations contain information about emitter, addressee, context, and behavior",
+  "year": 2016,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/srep39419"
+ },
+ "video:youtube:YDFhPeYl4Ck": {
+  "url": "https://www.youtube.com/watch?v=YDFhPeYl4Ck",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YDFhPeYl4Ck",
+  "title": "\"What’s in a Name? Elephants Address One Another With Individually Specific Calls\" with Mickey Pardo",
+  "author": "Interspecies Internet",
+  "thumbnail": "https://i.ytimg.com/vi/YDFhPeYl4Ck/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-024-02420-w/MediaObjects/41559_2024_2420_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-024-02420-w/MediaObjects/41559_2024_2420_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41559-024-02420-w": {
+  "doi": "10.1038/s41559-024-02420-w",
+  "ok": true,
+  "type": "doi",
+  "title": "African elephants address one another with individually specific name-like calls",
+  "year": 2024,
+  "venue": "Nature Ecology &amp; Evolution",
+  "url": "https://doi.org/10.1038/s41559-024-02420-w"
+ },
+ "video:youtube:3cvSLNn8RZk": {
+  "url": "https://www.youtube.com/watch?v=3cvSLNn8RZk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3cvSLNn8RZk",
+  "title": "Conversation with Twain: Groundbreaking Encounter with Humpback Whale",
+  "author": "WhaleSETI",
+  "thumbnail": "https://i.ytimg.com/vi/3cvSLNn8RZk/hqdefault.jpg"
+ },
+ "img:https://dfzljdn9uc3pi.cloudfront.net/2023/16349/1/fig-1-1x.jpg": {
+  "url": "https://dfzljdn9uc3pi.cloudfront.net/2023/16349/1/fig-1-1x.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "doi:10.7717/peerj.16349": {
+  "doi": "10.7717/peerj.16349",
+  "ok": true,
+  "type": "doi",
+  "title": "Interactive bioacoustic playback as a tool for detecting and exploring nonhuman intelligence: “conversing” with an Alaskan humpback whale",
+  "year": 2023,
+  "venue": "PeerJ",
+  "url": "https://doi.org/10.7717/peerj.16349"
+ },
+ "video:youtube:goZA5SlXx-g": {
+  "url": "https://www.youtube.com/watch?v=goZA5SlXx-g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "goZA5SlXx-g",
+  "title": "Why whale song is like pop music | The Royal Society",
+  "author": "The Royal Society",
+  "thumbnail": "https://i.ytimg.com/vi/goZA5SlXx-g/hqdefault.jpg"
+ },
+ "doi:10.1126/science.adq7055": {
+  "doi": "10.1126/science.adq7055",
+  "ok": true,
+  "type": "doi",
+  "title": "Whale song shows language-like statistical structure",
+  "year": 2025,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.adq7055"
+ },
+ "video:youtube:0WTDdWwKbyk": {
+  "url": "https://www.youtube.com/watch?v=0WTDdWwKbyk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0WTDdWwKbyk",
+  "title": "SnotBot ™",
+  "author": "Ocean Alliance",
+  "thumbnail": "https://i.ytimg.com/vi/0WTDdWwKbyk/hqdefault.jpg"
+ },
+ "img:https://whale.org/wp-content/uploads/2024/06/Snotbot_Drone_01.webp": {
+  "url": "https://whale.org/wp-content/uploads/2024/06/Snotbot_Drone_01.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:JE3-LkMqBfM": {
+  "url": "https://www.youtube.com/watch?v=JE3-LkMqBfM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JE3-LkMqBfM",
+  "title": "Whale Songs and AI, for everyone to explore",
+  "author": "Google",
+  "thumbnail": "https://i.ytimg.com/vi/JE3-LkMqBfM/hqdefault.jpg"
+ },
+ "img:https://patternradio.withgoogle.com/assets/share.jpg": {
+  "url": "https://patternradio.withgoogle.com/assets/share.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Fwd3SB_YYZc": {
+  "url": "https://www.youtube.com/watch?v=Fwd3SB_YYZc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Fwd3SB_YYZc",
+  "title": "The Sounds of Life | Karen Bakker | Talks at Google",
+  "author": "Talks at Google",
+  "thumbnail": "https://i.ytimg.com/vi/Fwd3SB_YYZc/hqdefault.jpg"
+ },
+ "img:https://covers.openlibrary.org/b/id/14645234-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/14645234-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://covers.openlibrary.org/b/id/14672307-L.jpg": {
+  "url": "https://covers.openlibrary.org/b/id/14672307-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/f48aea886b2a4299f6449678697ea8bf5dd549b0/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/4-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/4-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/7-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/7-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/9-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/c2571b3b672a4eedb0e264a4e7fb7569f65417d3/9-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/8-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/8-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/7-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/7-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/10-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/10-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/9-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/9-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/8-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/8-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/9-Figure8-1.png": {
+  "url": "https://figures.semanticscholar.org/4ec5a6e84dce51c2128852e2e24e1bf61fd5a72e/9-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/7-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/7-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/df961775586e2edf641f587ec561e987f9d241c4/8-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/df961775586e2edf641f587ec561e987f9d241c4/8-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/6-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/6-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/8-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/8-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/4-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/4-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ac1fefb2c93bec118edb33bc006643683bd8630a/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ac1fefb2c93bec118edb33bc006643683bd8630a/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/6-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/6-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/60addb5f1bee7beb7dedb36044f600f664400b19/7-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/60addb5f1bee7beb7dedb36044f600f664400b19/7-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/8-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/8-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/a38bc502059ee49374643eabb328eab6689a6a59/5-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/a38bc502059ee49374643eabb328eab6689a6a59/5-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/4-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/4-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "ytmax:rjvsl0mhqTk": {
+  "url": "https://i.ytimg.com/vi/rjvsl0mhqTk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:TGWFr-6JCDk": {
+  "url": "https://i.ytimg.com/vi/TGWFr-6JCDk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:nY1-N1M-rxk": {
+  "url": "https://i.ytimg.com/vi/nY1-N1M-rxk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9i-_CEhoCzw": {
+  "url": "https://i.ytimg.com/vi/9i-_CEhoCzw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:2MipvgUzO6M": {
+  "url": "https://i.ytimg.com/vi/2MipvgUzO6M/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Xhr5SvDipUc": {
+  "url": "https://i.ytimg.com/vi/Xhr5SvDipUc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8bJzA1EySck": {
+  "url": "https://i.ytimg.com/vi/8bJzA1EySck/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:AQlCiAUfXXI": {
+  "url": "https://i.ytimg.com/vi/AQlCiAUfXXI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L59pNqxvFdw": {
+  "url": "https://i.ytimg.com/vi/L59pNqxvFdw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ccphRKVQnA4": {
+  "url": "https://i.ytimg.com/vi/ccphRKVQnA4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:eV7VRURo4sY": {
+  "url": "https://i.ytimg.com/vi/eV7VRURo4sY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:PR1wzsLR3ZQ": {
+  "url": "https://i.ytimg.com/vi/PR1wzsLR3ZQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jH98kvC9f1s": {
+  "url": "https://i.ytimg.com/vi/jH98kvC9f1s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:R7jNuUMpws4": {
+  "url": "https://i.ytimg.com/vi/R7jNuUMpws4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:CQ5dRyyHwfM": {
+  "url": "https://i.ytimg.com/vi/CQ5dRyyHwfM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vCSKDjkp6rI": {
+  "url": "https://i.ytimg.com/vi/vCSKDjkp6rI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8KCWr2yVq08": {
+  "url": "https://i.ytimg.com/vi/8KCWr2yVq08/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:aeLDYcyaQCE": {
+  "url": "https://i.ytimg.com/vi/aeLDYcyaQCE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EMCZXANfWGM": {
+  "url": "https://i.ytimg.com/vi/EMCZXANfWGM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Rt6LauFHVBw": {
+  "url": "https://i.ytimg.com/vi/Rt6LauFHVBw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZIsrIt470mI": {
+  "url": "https://i.ytimg.com/vi/ZIsrIt470mI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:w8LepYR8v9A": {
+  "url": "https://i.ytimg.com/vi/w8LepYR8v9A/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0Myl142PvH8": {
+  "url": "https://i.ytimg.com/vi/0Myl142PvH8/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:7lMR-umhfko": {
+  "url": "https://i.ytimg.com/vi/7lMR-umhfko/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:YDFhPeYl4Ck": {
+  "url": "https://i.ytimg.com/vi/YDFhPeYl4Ck/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3cvSLNn8RZk": {
+  "url": "https://i.ytimg.com/vi/3cvSLNn8RZk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:goZA5SlXx-g": {
+  "url": "https://i.ytimg.com/vi/goZA5SlXx-g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:0WTDdWwKbyk": {
+  "url": "https://i.ytimg.com/vi/0WTDdWwKbyk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JE3-LkMqBfM": {
+  "url": "https://i.ytimg.com/vi/JE3-LkMqBfM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Fwd3SB_YYZc": {
+  "url": "https://i.ytimg.com/vi/Fwd3SB_YYZc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }
