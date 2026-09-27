@@ -108,11 +108,18 @@
           "desc_zh": "会生长、呼吸、自我修复或容纳生命的建筑与结构。"
         },
         {
+          "id": "bioprinting",
+          "en": "Bioprinting & Biofabrication",
+          "zh": "生物 3D 打印与生物制造",
+          "desc_en": "3D printing and robotic fabrication with living cells, hydrogels and biological materials.",
+          "desc_zh": "用活细胞、水凝胶和生物材料进行 3D 打印和机器人制造。"
+        },
+        {
           "id": "synbio",
-          "en": "Synthetic Biology Design",
-          "zh": "合成生物学设计",
-          "desc_en": "Designers working with engineered organisms, and speculative synthetic-biology futures.",
-          "desc_zh": "与工程改造生物合作的设计，以及关于合成生物学的思辨未来。"
+          "en": "Genetic & Synthetic Biology Design",
+          "zh": "基因与合成生物学设计",
+          "desc_en": "Designers working with genetically modified and engineered organisms: glowing plants, edited microbes, new species and their speculative futures.",
+          "desc_zh": "与基因改造和工程生物合作的设计：发光植物、编辑过的微生物、新物种，以及它们的思辨未来。"
         },
         {
           "id": "bioart",
@@ -335,7 +342,8 @@
       "desc_en": "The 70 bio-digital systems across HCI, design and engineering analysed in Breed, Karana, Bozzon & Song's computational design taxonomy for synergistic bio-digital systems.",
       "desc_zh": "Breed、Karana、Bozzon 与 Song 在其“协同生物-数字系统的计算设计分类法”中分析的 70 个横跨人机交互、设计与工程的生物-数字系统。",
       "url": "https://arxiv.org/abs/2601.15804",
-      "work": "zoe-breed--entangled-life-and-code"
+      "work": "zoe-breed--entangled-life-and-code",
+      "type": "survey"
     },
     {
       "id": "ikeya-2025",
@@ -344,7 +352,18 @@
       "desc_en": "The artefacts reviewed in Ikeya, Barati & Wensveen's CHI 2025 systematic review of critical perspectives and aesthetics in designing with living organisms.",
       "desc_zh": "Ikeya、Barati 与 Wensveen 在 CHI 2025 系统综述中审视的作品：关于“与生命一起设计”的批判视角与美学。",
       "url": "https://doi.org/10.1145/3706598.3713343",
-      "work": "yuta-ikeya--aesthetics-designing-with-the-living"
+      "work": "yuta-ikeya--aesthetics-designing-with-the-living",
+      "type": "survey"
+    },
+    {
+      "id": "kneile-2025",
+      "en": "Post-Anthropocentric Artifacts (Kneile et al. 2025)",
+      "zh": "后人类中心主义作品（Kneile 等，TOCHI 2025）",
+      "desc_en": "The 114 post-anthropocentric artifacts that mediate human–nature relations, extracted from 53 papers in Kneile, Dörrenbächer, Hassenzahl & Laschke's TOCHI scoping review, with the seven design strategies they identify.",
+      "desc_zh": "Kneile、Dörrenbächer、Hassenzahl 与 Laschke 在 TOCHI 范围综述中，从 53 篇论文里提取的 114 件调解人与自然关系的后人类中心主义作品，以及他们归纳的七种设计策略。",
+      "url": "https://doi.org/10.1145/3743674",
+      "work": "madlen-kneile--post-anthropocentric-artifacts",
+      "type": "survey"
     },
     {
       "id": "bad-award",
@@ -352,7 +371,8 @@
       "zh": "BAD Award（生物艺术与设计奖）",
       "desc_en": "Winners and nominees of the Bio Art & Design Award (ZonMw, NWO and MU Hybrid Art House, Netherlands), which pairs artists and designers with biomedical labs.",
       "desc_zh": "荷兰生物艺术与设计奖（由 ZonMw、NWO 与 MU Hybrid Art House 发起）的获奖与提名作品；该奖让艺术家和设计师与生物医学实验室合作。",
-      "url": "https://badaward.nl"
+      "url": "https://badaward.nl",
+      "type": "award"
     }
   ]
 }

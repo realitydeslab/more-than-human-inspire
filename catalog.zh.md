@@ -2,7 +2,7 @@
 
 超越人类的设计、生物设计、人类 × 生物计算与类器官计算设计的作品目录：论文、研究原型、艺术作品和产品，由 Reality Design Lab 整理，作为设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 件作品
+https://morethanhuman.reality.design · 2026-09-27 · 360 位创作者 · 557 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -2649,9 +2649,9 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - 图片: https://www.designboom.com/twitterimages/uploads/2013/06/dune_01.jpg
 - 项目主页: https://www.designboom.com/architecture/magnus-larsson-sculpts-the-saharan-desert-with-bacteria/
 
-### 合成生物学设计
+### 基因与合成生物学设计
 
-与工程改造生物合作的设计，以及关于合成生物学的思辨未来。
+与基因改造和工程生物合作的设计：发光植物、编辑过的微生物、新物种，以及它们的思辨未来。
 
 #### Consume Our Consumption (Plascetamol) — Jiabao Li (2024)
 - 类型: 思辨设计 · 生物: 昆虫, 细菌与微生物
@@ -3227,6 +3227,15 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - 论文: https://doi.org/10.1145/3544548.3581276 (CHI 2023)
 - 视频: https://www.youtube.com/watch?v=tAAHQFDw1Gc
 
+#### Kombucha electronics: electronic circuits on kombucha mats — Andrew Adamatzky (2023)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌
+- 核心想法: 用茶、糖和微生物“长”出你的电路板。
+- 作品内容: 研究者在干燥和活的康普茶菌膜（由细菌和酵母长成的纤维素膜）上打印和安装电路；菌膜被折叠、揉皱后，LED 和简单电路仍能工作。
+- 实现方式: 在由 SCOBY 菌群长成的细菌纤维素膜上打印导电聚合物线路并安装元件，再测试弯折和撕裂下的表现。
+- 论文: https://doi.org/10.1038/s41598-023-36244-8 (Scientific Reports)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-36244-8/MediaObjects/41598_2023_36244_Fig1_HTML.jpg
+- 项目主页: https://www.nature.com/articles/s41598-023-36244-8
+
 #### SCOBY Breastplate: Slowly Growing a Microbial Interface — Fiona Bell, Mirela Alistar (2023)
 - 类型: 艺术作品 · 生物: 细菌与微生物, 真菌, 人体
 - 核心想法: 按生物的节奏做原型，而不是按“快速试错”的节奏。
@@ -3246,6 +3255,16 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - 图片: https://lab.plopes.org/project-thumbnails/UIST22-IntegratingPhysarum.png
 - 项目主页: https://lab.plopes.org/
 - 代码: https://github.com/humancomputerintegration/integrating-living-organisms
+
+#### MycelioTronics: Fungal mycelium skin for sustainable electronics — Martin Kaltenbrunner (2022)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 用真菌长出的皮替代塑料电路板。
+- 作品内容: 把灵芝在木材上长出的薄皮剥下来，用作电路板、电池和传感器的柔性耐热基底，这些器件可以在土壤中降解。
+- 实现方式: 从山毛榉木屑培养物上采下菌丝体皮，干燥压平后，用激光图案化的铜和金线路进行金属化。
+- 论文: https://doi.org/10.1126/sciadv.add7118 (Science Advances)
+- 视频: https://www.youtube.com/watch?v=jz7ftR8ln0I
+- 图片: https://www.jku.at/fileadmin/_processed_/7/f/csm_myceliotronics_edabc67f66.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8059/9651864/c189498a5480/sciadv.add7118-f1.jpg
+- 项目主页: https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/news-highlights/detail/news/publication-myceliotronics-fungal-mycelium-skin-for-sustainable-electronics/
 
 #### Designing Direct Interactions with Bioluminescent Algae — Netta Ofer, Fiona Bell, Mirela Alistar (2021)
 - 类型: 论文 · 生物: 藻类
@@ -3513,6 +3532,190 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - 实现方式: 测量植物与观众身体之间的电位差，并映射为三维计算机生成植物的生长。
 - 视频: https://www.youtube.com/watch?v=JXX7JNFD2X8
 
+### 真菌与黏菌计算
+
+会感知、传递信号和解决问题的菌丝体与黏菌。
+
+#### Sustainable memristors from shiitake mycelium for high-frequency bioelectronics — John LaRocco (2025)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 用可食用的蘑菇长出计算机存储器，而不是开采稀有材料。
+- 作品内容: 研究者把脱水的香菇菌丝体接入电路，它可以作为忆阻器工作，切换频率最高约每秒 5850 次，准确率约 90%。
+- 实现方式: 在培养基上培养香菇菌丝体，干燥后再补水并连接电极，用不同频率的电压扫描测量其特性。
+- 论文: https://doi.org/10.1371/journal.pone.0328965 (PLOS One)
+- 图片: https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001
+- 项目主页: https://news.osu.edu/powered-by-mushrooms-living-computers-are-on-the-rise/
+
+#### Language of fungi derived from their electrical spiking activity — Andrew Adamatzky (2022)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 把真菌的电活动当作要解码的信号，甚至一种语言，而不是噪声。
+- 作品内容: 研究者把电极插入四种真菌菌丝体长满的基质中，记录到成串的电脉冲；把脉冲按间隔分成“词”，每个物种的“词汇量”最多约 50 个。
+- 实现方式: 用皮下针电极和数据记录仪连续数天记录金针菇、裂褶菌、鬼伞菌和虫草的电压脉冲，再对脉冲序列做聚类并用语言复杂度指标分析。
+- 论文: https://doi.org/10.1098/rsos.211926 (Royal Society Open Science)
+- 视频: https://www.youtube.com/watch?v=CT_zB9XJ7kI
+- 图片: https://blogs.uwe.ac.uk/research-external-engagement/wp-content/uploads/sites/3/2022/04/mushrrooms.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49d0/8984380/3cd48c7b91b5/rsos211926f01.jpg
+- 项目主页: https://blogs.uwe.ac.uk/research-business-innovation/uwe-bristol-academic-researches-the-language-of-fungi-derived-from-their-electrical-spiking-activity/
+
+#### Encoding memory in tube diameter hierarchy of living flow network — Karen Alim (2021)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 记忆可以储存在身体的形状里。
+- 作品内容: 黏菌找到食物后，附近的管道变粗、其他管道变细；这种管径分布会保留下来，记录食物曾经在哪里，就像写在身体里的记忆。
+- 实现方式: 在局部给予食物刺激后用显微镜观察黏菌网络，并结合一个“软化物质随细胞质流动而运输”的流体模型。
+- 论文: https://doi.org/10.1073/pnas.2007815118 (PNAS)
+- 图片: https://mediasvc.eurekalert.org/Api/v1/Multimedia/22575943-afdb-431d-8165-5265f158dee5/Rendition/low-res/Content/Public https://mediasvc.eurekalert.org/Api/v1/Multimedia/5c929f33-15de-44df-a0df-92f842bc5852/Rendition/low-res/Content/Public
+- 项目主页: https://www.eurekalert.org/news-releases/671382
+
+#### Reactive fungal wearable — Andrew Adamatzky (2021)
+- 类型: 论文 · 生物: 真菌, 人体
+- 核心想法: 因为织进了真菌，衣服也有了感觉。
+- 作品内容: 戴在身上的活平菇菌丝体贴片在被按压或拉伸时会产生电脉冲，让真菌成为可穿戴传感器。
+- 实现方式: 在被菌丝长满的麻纤维贴片中插入针电极，施加机械刺激并记录它的脉冲响应。
+- 论文: https://doi.org/10.1016/j.biosystems.2020.104304 (BioSystems)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0303264720301805-gr1.jpg
+- 项目主页: https://www.sciencedirect.com/science/article/pii/S0303264720301805
+
+#### Towards fungal sensing skin — Andrew Adamatzky (2021)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 一层因为活着，所以会生长、会愈合、会感知的皮肤。
+- 作品内容: 一层薄薄的活灵芝菌丝体在受到触碰和光照时会改变电位，可以当作柔软的传感皮肤，覆盖在机器人或建筑表面。
+- 实现方式: 在菌丝黏结的麻纤维片上安装电极，记录它受压或受光照时的脉冲和电位变化。
+- 论文: https://doi.org/10.1186/s40694-021-00113-8 (Fungal Biology and Biotechnology)
+- 图片: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40694-021-00113-8/MediaObjects/40694_2021_113_Fig1_HTML.jpg
+- 项目主页: https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-021-00113-8
+
+#### Élève ta blob (Raise your blob) — Audrey Dussutour (2021)
+- 类型: 研究原型 · 生物: 黏菌
+- 核心想法: 一种没有大脑的生物，可以成为宇航员和中小学生共同参与的实验。
+- 作品内容: 法国国家空间研究中心（CNES）与 CNRS 发起的公众科学实验：黏菌随宇航员 Thomas Pesquet 飞上国际空间站，同时法国数千个班级在地面上做同样的喂养实验。
+- 实现方式: 把休眠的干燥黏菌样本分别在微重力环境和学校里唤醒；学生在不同喂养条件下拍摄黏菌的生长，并与空间站的结果比较。
+- 视频: https://www.youtube.com/watch?v=zqR0jWoYbfw
+- 图片: https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/le_blob_myxomycete_h8082_ter.jpg https://i.ytimg.com/vi/zqR0jWoYbfw/maxresdefault.jpg
+- 项目主页: https://lejournal.cnrs.fr/articles/le-blob-a-la-conquete-de-lespace
+
+#### Ecological memory and relocation decisions in fungal mycelial networks — Yu Fukasawa (2020)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 菌丝网络记得自己一直在往哪里去。
+- 作品内容: 一种木腐真菌从一块木块长向另一块新木块；把原木块移到新土壤后，它主要从朝向之前目标的一侧重新长出，好像“记得”方向。
+- 实现方式: 让绒毛平革菌在土壤上从一块木块长向另一块，再把原木块转移，测量新菌丝生长的方向和范围。
+- 论文: https://doi.org/10.1038/s41396-019-0536-3 (The ISME Journal)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-019-0536-3/MediaObjects/41396_2019_536_Fig1_HTML.png
+- 项目主页: https://www.nature.com/articles/s41396-019-0536-3
+
+#### FUNGAR — Fungal Architectures — Andrew Adamatzky (2019)
+- 类型: 思辨设计 · 生物: 真菌
+- 核心想法: 一座墙体就是活的、会“思考”的真菌网络的建筑。
+- 作品内容: 欧盟研究项目（2019–2023），目标是用活菌丝体复合材料长出一座建筑，它能感知光、触摸和污染物并处理这些信息，是一种会计算的“真菌建筑”。
+- 实现方式: 在菌丝体建筑砌块中嵌入电极，测试它们作为传感器和计算单元的能力，并尝试用纳米颗粒对其功能化。
+- 视频: https://www.youtube.com/watch?v=awY2WjxjAek
+- 图片: https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg https://cordis.europa.eu/docs/article/images/2023-10/446827.jpg
+- 项目主页: https://www.fungar.eu/
+
+#### Towards fungal computer — Andrew Adamatzky (2018)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 一片蘑菇菌落，就是一块湿的、会自己长的电路板。
+- 作品内容: 一篇构想用活菌丝网络做计算机的论文：沿菌丝传播的电脉冲是信号，网络的几何结构就是电路。
+- 实现方式: 基于在平菇菌丝体中记录到的类动作电位脉冲，论文设想在某些位置施加刺激、在另一些位置读取脉冲图案，以实现逻辑运算。
+- 论文: https://doi.org/10.1098/rsfs.2018.0029 (Interface Focus)
+- 视频: https://www.youtube.com/watch?v=d8Jwn9VuD0s
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49a6/6227805/0820f15791d1/rsfs20180029-g1.jpg
+- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC6227805/
+
+#### Habituation in non-neural organisms: evidence from slime moulds — Audrey Dussutour (2016)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 学习不一定需要神经系统。
+- 作品内容: 黏菌要穿过一座涂有苦味但无害的奎宁或咖啡因的“桥”才能吃到食物，它们一天比一天犹豫得少；停止几天后又恢复了厌恶。这是一种没有神经元的简单学习。
+- 实现方式: 连续六天让多头绒泡菌穿过含驱避物的琼脂桥，并将穿越时间与未训练的对照组比较。
+- 论文: https://doi.org/10.1098/rspb.2016.0446 (Proceedings of the Royal Society B)
+- 视频: https://www.youtube.com/watch?v=dYQG6ac38UA
+- 图片: https://upload.wikimedia.org/wikipedia/commons/6/6a/Habituation_P._polycephalum.png https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bccc/4855389/d7b108bb6413/rspb20160446-g1.jpg
+- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC4855389/
+
+#### Biocomputer Music — Eduardo Reck Miranda (2015)
+- 类型: 艺术作品 · 生物: 黏菌
+- 核心想法: 把一种活的生物当作即兴演奏的音乐伙伴。
+- 作品内容: 作曲家 Eduardo Miranda 与一台生物计算机的钢琴二重奏：他弹奏的音符被转成电信号送入黏菌忆阻器，经黏菌改变后的电流再作为“回应”在同一架钢琴上弹奏出来。
+- 实现方式: 生长在电极之间的多头绒泡菌充当忆阻器；MIDI 音符被转成电压，产生的电流再被映射回音符，由电磁铁在钢琴上弹奏。
+- 论文: https://doi.org/10.1007/978-3-319-46282-0_26 (Music, Mind, and Embodiment (CMMR 2015), LNCS)
+- 视频: https://www.youtube.com/watch?v=yoCwysg_YpI
+- 图片: https://i.ytimg.com/vi/yoCwysg_YpI/hqdefault.jpg
+- 项目主页: https://link.springer.com/chapter/10.1007/978-3-319-46282-0_26
+
+#### Slime Mould Memristors — Ella Gale, Andrew Adamatzky (2015)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 一个活细胞可以是带记忆的电路元件。
+- 作品内容: 测量表明，活的多头绒泡菌呈现“捏合”的电流-电压回线，这是忆阻器的特征：它的电阻取决于此前流过的电流。
+- 实现方式: 在电极之间的黏菌管上做电流-电压扫描，分析其迟滞回线。
+- 论文: https://doi.org/10.1007/s12668-014-0156-3 (BioNanoScience)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12668-014-0156-3/MediaObjects/12668_2014_156_Fig1_HTML.gif
+- 项目主页: https://link.springer.com/article/10.1007/s12668-014-0156-3
+
+#### Characteristics of pattern formation and evolution in approximations of Physarum transport networks — Jeff Jones (2010)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 几条关于感知和移动的局部规则，就足以长出有机的网络。
+- 作品内容: 一个模拟：成千上万个简单智能体沉积并追随化学痕迹，再现了黏菌的网络图案；这一模型后来成为广泛使用的生成艺术技法。
+- 实现方式: 每个粒子有朝前的传感器，转向痕迹浓度更高的方向并在移动时留下痕迹；痕迹图每一步都会扩散和衰减。
+- 论文: https://doi.org/10.1162/artl.2010.16.2.16202 (Artificial Life)
+- 图片: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-16823-4
+- 项目主页: https://direct.mit.edu/artl/article/16/2/127/2650
+
+#### Physarum Machines: Computers from Slime Mould — Andrew Adamatzky (2010)
+- 类型: 书与文章 · 生物: 黏菌
+- 核心想法: 一个在燕麦片之间蔓延的单细胞，可以被看作一台缓慢但通用的计算机。
+- 作品内容: 这本书汇集了让多头绒泡菌做计算的实验：它能生成生成树和 Voronoi 图、绕开障碍寻路，还能充当逻辑门和机器人控制器。
+- 实现方式: 把数据编码为食物和驱避物的位置，黏菌原质团不断生长和收缩的原生质管构成输出图案。
+- 论文: https://doi.org/10.1142/7968 (World Scientific Series on Nonlinear Science)
+- 视频: https://www.youtube.com/watch?v=75k8sqh5tfQ
+- 图片: https://i.ytimg.com/vi/75k8sqh5tfQ/hqdefault.jpg https://upload.wikimedia.org/wikipedia/commons/5/58/Blob_%28Physarum_polycephalum%29.jpg
+- 项目主页: https://doi.org/10.1142/7968
+
+#### Road planning with slime mould: if Physarum built motorways — Andrew Adamatzky, Jeff Jones (2010)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 让一种生物先画出基础设施草图，再拿它的方案与人类的对比。
+- 作品内容: 研究者把燕麦片放在英国地图上主要城市的位置，让黏菌把它们连起来，再把黏菌的管网与真实的高速公路网对比；后续研究在许多国家重复了这一实验。
+- 实现方式: 在琼脂地图上把黏菌接种在伦敦，在城市位置放燕麦片，再把长出的原生质网络与高速公路图进行比较。
+- 论文: https://doi.org/10.1142/S0218127410027568 (International Journal of Bifurcation and Chaos)
+- 视频: https://www.youtube.com/watch?v=_DB-RAgAlVI
+- 图片: https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/17/1392652837727/A-map-of-the-M6-motorway--011.jpg?width=445&dpr=1&s=none&crop=none https://i.ytimg.com/vi/_DB-RAgAlVI/hqdefault.jpg
+- 项目主页: https://www.theguardian.com/cities/2014/feb/18/slime-mould-rail-road-transport-routes
+
+#### Rules for biologically inspired adaptive network design (slime mould Tokyo rail) — Toshiyuki Nakagaki, Atsushi Tero (2010)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 工程师仍在研究的网络设计问题，进化早已给出了答案。
+- 作品内容: 研究者按东京周边城市的位置摆放燕麦片，黏菌把它们连成的网络在效率、成本和容错性上都与真实铁路网相近；作者据此推导出一个数学模型。
+- 实现方式: 让黏菌在关东地区的模板上生长，用光照模拟山地和海洋；再把“流量越大管道越粗”的规律写成一个简单的自适应网络模型。
+- 论文: https://doi.org/10.1126/science.1177894 (Science)
+- 视频: https://www.youtube.com/watch?v=GwKuFREOgmo
+- 图片: https://media.wired.com/photos/59346eb5d80dd005b42b4404/191:100/w_1280,c_limit/slime_mold_21.jpg
+- 项目主页: https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/
+
+#### Amoebae anticipate periodic events — Toshiyuki Nakagaki (2008)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 即使是一个单细胞，也能记住节奏、预期未来。
+- 作品内容: 黏菌在按固定间隔经历几次低温干燥刺激后，会在“下一次刺激本该到来”的时刻自行放慢速度，即使刺激并没有出现。
+- 实现方式: 让迁移中的黏菌周期性地经历温度和湿度下降，记录它的移动速度，并用耦合振子模型解释。
+- 论文: https://doi.org/10.1103/PhysRevLett.100.018101 (Physical Review Letters)
+- 图片: https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/1/medium https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/2/medium
+- 项目主页: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.018101
+
+#### Robot control with biological cells — Soichiro Tsuda (2007)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 用活细胞的节律充当机器人的神经系统。
+- 作品内容: 一台六足机器人由生长在星形电路上的活黏菌控制：机器人传感器把光照投到黏菌上，改变它的振荡节律，节律再驱动机器人的腿。
+- 实现方式: 生长在图案电极上的黏菌对光刺激产生反应，测量其局部厚度振荡并映射为六足机器人的电机指令。
+- 论文: https://doi.org/10.1016/j.biosystems.2006.09.016 (BioSystems)
+- 视频: https://www.youtube.com/watch?v=EbHDSabIN-w
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr3.jpg https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr4.jpg
+- 项目主页: https://www.sciencedirect.com/science/article/pii/S0303264706001687
+
+#### Maze-solving by an amoeboid organism — Toshiyuki Nakagaki (2000)
+- 类型: 论文 · 生物: 黏菌
+- 核心想法: 智能可以来自生长与收缩，而不一定来自大脑。
+- 作品内容: 黏菌先铺满整个迷宫；在入口和出口放上食物后，它从死胡同里撤回，只保留一条沿最短路径的管道。
+- 实现方式: 把多头绒泡菌的原质团碎片放入琼脂迷宫，在两个出口放燕麦片，较长路径上的管道随之消失。
+- 论文: https://doi.org/10.1038/35035159 (Nature)
+- 视频: https://www.youtube.com/watch?v=p4C-7ina7-o
+- 图片: https://upload.wikimedia.org/wikipedia/commons/d/d1/Slime_mold_solves_maze.png https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35035159/MediaObjects/41586_2000_Article_BF35035159_Fig1_HTML.jpg
+- 项目主页: https://www.nature.com/articles/35035159
+
 ### 微生物传感与可穿戴
 
 把天然或改造的微生物当作传感器、显示器和身上的伙伴。
@@ -3702,6 +3905,554 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - 实现方式: 合成的感光受体（蓝藻光敏色素与 EnvZ 融合）在光照下关闭色素基因，受光细胞保持浅色。由 Anselm Levskaya 与 Voigt、Ellington 实验室完成。
 - 论文: https://doi.org/10.1038/nature04405 (Nature 2005)
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04405/MediaObjects/41586_2005_BFnature04405_Fig1_HTML.jpg
+
+### 生物混合机器人
+
+由肌肉、细胞、真菌或整个生物驱动的机器人。
+
+#### Biohybrid hand actuated by multiple human muscle tissues — Shoji Takeuchi (2025)
+- 类型: 论文 · 生物: 细胞与组织, 人体
+- 核心想法: 像卷寿司一样把细肌肉卷成束，做到人手的尺寸。
+- 作品内容: 一只长 18 厘米的手，由卷成束的人体肌肉组织驱动，手指能弯曲、能捏合，比以往毫米级的生物混合体在尺度上跨了一大步。
+- 实现方式: 把培养的人体肌肉薄片卷成“MuMuTA”（多肌肉组织执行器），作为肌腱连到 3D 打印的手上，再通过电刺激驱动。
+- 论文: https://doi.org/10.1126/scirobotics.adr5512 (Science Robotics)
+- 图片: https://www.u-tokyo.ac.jp/content/400256657.png https://assets.newatlas.com/dims4/default/a710743/2147483647/strip/true/crop/1541x867+0+80/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fcc6a072746f2850ddb3fb7743f85%2Fbiohybrid-hand.jpg
+- 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00386.html
+
+#### Cyborg insect factory: automatic assembly for insect-computer hybrid robots — Hirotaka Sato (2025)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 当赛博动物可以量产，问题就从“能不能”变成了“该不该大规模做”。
+- 作品内容: 一条由计算机视觉引导的机械臂，大约一分钟就能给一只蟑螂装好电子背包，把赛博昆虫的组装变成流水线。
+- 实现方式: 深度学习视觉系统定位昆虫体节，机械臂安装背包，其电极刺激前胸背板以控制方向。
+- 论文: https://doi.org/10.1038/s41467-025-60779-1 (Nature Communications)
+- 视频: https://www.youtube.com/watch?v=AXA7plI6-6M
+- 图片: https://www.ntu.edu.sg/media/images/default-source/hub-news/ai-powered-robot-assembles-search-and-rescue-cyborg-insects.jpg?sfvrsn=e402bfbb_1 https://mediasvc.eurekalert.org/Api/v1/Multimedia/5b6abd45-9ddb-43d8-8d02-480c0afa2be2/Rendition/low-res/Content/Public
+- 项目主页: https://www.ntu.edu.sg/news/detail/ai-powered-robot-assembles-search-and-rescue-cyborg-insects
+
+#### Swarm navigation of cyborg-insects in unknown obstructed soft terrain — Hirotaka Sato (2025)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 结合动物的灵活性与群体算法，而不是对每只昆虫严密控制。
+- 作品内容: 一群赛博蟑螂以群体方式穿越崎岖地形，算法让被卡住的个体可以被同伴“帮”出来。
+- 实现方式: 每只蟑螂背着带传感器和刺激器的背包，领航-跟随算法利用昆虫的天然行为，只在必要时轻微干预。
+- 论文: https://doi.org/10.1038/s41467-024-55197-8 (Nature Communications)
+- 视频: https://www.youtube.com/watch?v=th1bLBuLdc4
+- 图片: https://mediasvc.eurekalert.org/Api/v1/Multimedia/bed9d6e1-f699-4016-a69e-e15ab06c6789/Rendition/low-res/Content/Public https://mediasvc.eurekalert.org/Api/v1/Multimedia/6926c6e1-bf85-4799-abdb-1ad761d046aa/Rendition/low-res/Content/Public
+- 项目主页: https://www.eurekalert.org/news-releases/1069510
+
+#### Biohybrid bipedal robot powered by skeletal muscle tissue — Shoji Takeuchi (2024)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 用真正的肌肉而不是电机，实现类人的行走。
+- 作品内容: 一台小型双足机器人能在水中行走和转弯，每条腿都由一条实验室培养的肌肉拉动，肌肉在刺激下收缩。
+- 实现方式: 培养的骨骼肌组织连接在带浮子的柔性硅胶身体上，水中的电极交替刺激两条腿收缩。
+- 论文: https://doi.org/10.1016/j.matt.2023.12.035 (Matter)
+- 视频: https://www.youtube.com/watch?v=IesRn6ca-ws
+- 图片: https://www.u-tokyo.ac.jp/content/400231540.jpg https://www.u-tokyo.ac.jp/content/400231539.gif
+- 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00329.html
+
+#### Electromechanical enhancement of live jellyfish for ocean exploration — John Dabiri (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 让动物成为自带能源的海洋传感器。
+- 作品内容: 活水母戴上一个可装载传感器的 3D 打印流线型“帽子”，起搏器让它们游得更快，朝着用水母采样深海的方向迈进一步。
+- 实现方式: 3D 打印的前体降低阻力并承载载荷；在高竖直水槽中与电刺激器一起测试游动。
+- 论文: https://doi.org/10.1088/1748-3190/ad277f (Bioinspiration & Biomimetics)
+- 视频: https://www.youtube.com/watch?v=_ZfthP_7s5g
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/Dabiri-Jellyfish-Explorers-w.91523faf.fill-1600x810-c100.jpg
+- 项目主页: https://www.caltech.edu/about/news/building-bionic-jellyfish-for-ocean-exploration
+
+#### Perforation-type anchors inspired by skin ligament for robotic face covered with living skin — Shoji Takeuchi (2024)
+- 类型: 论文 · 生物: 细胞与组织, 人体
+- 核心想法: 像韧带那样固定活组织，让机器可以“长”出一张脸。
+- 作品内容: 一张覆盖着实验室培养皮肤的小型机器人脸，皮肤通过穿过微孔的“锚”固定，因此能随脸部移动，做出微笑。
+- 实现方式: 机器人表面的 V 形穿孔中填入胶原凝胶和成纤维细胞，把真皮层锚定；面部由下方的执行器驱动。
+- 论文: https://doi.org/10.1016/j.xcrp.2024.102066 (Cell Reports Physical Science)
+- 视频: https://www.youtube.com/watch?v=p3DLgbOV9UM
+- 图片: https://www.u-tokyo.ac.jp/content/400242951.png https://www.u-tokyo.ac.jp/content/400242950.png
+- 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00360.html
+
+#### Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia — Anand Kumar Mishra, Rob Shepherd (2024)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 把真菌放进控制回路，让机器人通过一个活的生物来感知世界。
+- 作品内容: 一台柔软的星形步行机器人和一台轮式小车，由活的杏鲍菇菌丝体的电脉冲驱动；用紫外光照射真菌会改变它的信号，从而改变机器人的步态。
+- 实现方式: 让菌丝体长进 3D 打印支架中的电极接口，对其电脉冲滤波后转换为执行器指令，并以紫外光作为刺激。
+- 论文: https://doi.org/10.1126/scirobotics.adk8019 (Science Robotics)
+- 视频: https://www.youtube.com/watch?v=qREuXKvWMqA
+- 图片: https://news.cornell.edu/sites/default/files/2024-08/figure-6a.jpg https://www.popsci.com/wp-content/uploads/2024/09/mushroom-robot.png
+- 项目主页: https://news.cornell.edu/stories/2024/08/biohybrid-robots-controlled-electrical-impulses-mushrooms
+
+#### Anthrobots: Motile living biobots self-construct from adult human somatic progenitor seed cells — Gizem Gumuskaya, Michael Levin (2023)
+- 类型: 论文 · 生物: 细胞与组织, 人体
+- 核心想法: 我们自己的细胞，一旦脱离身体的蓝图，就能变成新的生命形态。
+- 作品内容: 单个成人气管细胞在新的培养环境中自行长成会移动的多细胞机器人；把它们放在被划伤的人类神经元层上，它们能帮助伤口愈合。
+- 实现方式: 把人类气管上皮细胞先在 Matrigel 中培养成类器官，再转入低黏度培养基，使纤毛朝外，从而能够游动。
+- 论文: https://doi.org/10.1002/advs.202303575 (Advanced Science)
+- 视频: https://www.youtube.com/watch?v=4z-3DTlSnp0
+- 图片: https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-11/231130_anthrobots_lg.jpg https://wyss-prod.imgix.net/app/uploads/2023/11/29101538/Anthrobot-with-Cilia-02.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=db2cbe30b4a028e3f25f665e437c31f2
+- 项目主页: https://now.tufts.edu/2023/11/30/scientists-build-tiny-biological-robots-human-cells
+
+#### Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics — Rashid Bashir (2023)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 把活肌肉和无电池电子器件结合，实现无线控制。
+- 作品内容: 肌肉驱动的生物机器人背上带着一块微型无线 LED 电路，LED 闪烁时，光敏肌肉收缩，因此每个机器人都能被远程转向和操控。
+- 实现方式: 光遗传骨骼肌与 John Rogers 团队的柔性无线供电微型 LED 模块结合，射频为 LED 供电。
+- 论文: https://doi.org/10.1126/scirobotics.add1053 (Science Robotics)
+- 视频: https://www.youtube.com/watch?v=MI__Nm6EzvA
+- 图片: https://news.northwestern.edu/assets/Stories/2023/01/biobot1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg
+- 项目主页: https://news.northwestern.edu/stories/2023/01/muscle-powered-robots-have-freedom-of-movement/
+
+#### An autonomously swimming biohybrid fish designed with human cardiac biophysics — Kit Parker (2022)
+- 类型: 论文 · 生物: 细胞与组织, 人体
+- 核心想法: 把心脏的反馈回路做进一个身体，它就能自己运转下去。
+- 作品内容: 一条用纸和明胶做成的鱼，由两层人类干细胞来源的心肌驱动，内置起搏节点，能自主游动 100 多天。
+- 实现方式: 尾部两侧的人类心肌细胞相互拉伸、轮流激活，另有一团细胞充当节律起搏器。
+- 论文: https://doi.org/10.1126/science.abh0474 (Science)
+- 视频: https://www.youtube.com/watch?v=PudGp0BeHTw
+- 图片: https://seas.harvard.edu/sites/default/files/styles/opengraph/public/2022-02/hFish_02.jpg?h=406f0743&itok=nfC2Gm-2 https://www.seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2022-02/hFish_09.jpg?itok=xPJWhb42
+- 项目主页: https://www.seas.harvard.edu/news/2022/02/biohybrid-fish-made-human-cardiac-cells-swims-heart-beats
+
+#### Integration of body-mounted ultrasoft organic solar cell on cyborg insects with intact mobility — Kenjiro Fukuda, Hirotaka Sato (2022)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 把电子器件做得足够薄，让动物自身的身体照常运作。
+- 作品内容: 马达加斯加发声蟑螂背着 3D 打印的背包，腹部贴有 4 微米厚的太阳能薄膜，为操控它们的电池充电，且不妨碍它们行动和翻身。
+- 实现方式: 超薄有机光伏薄膜以粘贴与不粘贴交替的条带贴合腹节，无线模块刺激尾须来转向。
+- 论文: https://doi.org/10.1038/s41528-022-00207-2 (npj Flexible Electronics)
+- 视频: https://www.youtube.com/watch?v=kaTWbghsweI
+- 图片: https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220905_2_twitter.png
+- 项目主页: https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220905_2/index.html
+
+#### Living skin on a robot — Shoji Takeuchi (2022)
+- 类型: 论文 · 生物: 细胞与组织, 人体
+- 核心想法: 一台有着和我们一样的皮肤、会受伤也会愈合的机器人。
+- 作品内容: 一根机器人手指被覆盖上培养的人体皮肤：弯曲时皮肤随之伸展，像真皮肤一样防水，被割伤后贴上胶原“创可贴”还能愈合。
+- 实现方式: 把手指浸入含胶原和人真皮成纤维细胞的溶液中，溶液收缩贴合后，再接种角质形成细胞形成表皮。
+- 论文: https://doi.org/10.1016/j.matt.2022.05.019 (Matter)
+- 视频: https://www.youtube.com/watch?v=1fvlYZ0zwa0
+- 图片: https://www.u-tokyo.ac.jp/content/400189277.png https://www.u-tokyo.ac.jp/content/400189276.png
+- 项目主页: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00225.html
+
+#### Necrobotics: Biotic materials as ready-to-use actuators — Daniel Preston (2022)
+- 类型: 论文 · 生物: 昆虫, 动物
+- 核心想法: 死去的身体，仍可以是一台现成的、能工作的机器。
+- 作品内容: 把死去的狼蛛变成夹爪：向身体里注入空气时腿会张开，放气时腿会合拢，能抓起比蜘蛛本身更重的物体。
+- 实现方式: 蜘蛛靠液压驱动腿部；把针头粘进头胸部并连到注射器，给身体加压让腿张开。
+- 论文: https://doi.org/10.1002/advs.202201174 (Advanced Science)
+- 视频: https://www.youtube.com/watch?v=1JOS6hMHIUM
+- 图片: https://news.rice.edu/sites/g/files/bxs2656/files/2022-07/0718_necro_b_1.jpg https://news.rice.edu/sites/g/files/bxs2656/files/inline-images/0718_NECRO%201%20RN.jpg
+- 项目主页: https://news.rice.edu/news/2022/rice-engineers-get-grip-necrobotic-spiders
+
+#### A cellular platform for the development of synthetic living machines (Xenobots 2.0) — Douglas Blackiston, Michael Levin, Josh Bongard, Sam Kriegman (2021)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 让细胞自己组织出身体，再在其上编程行为。
+- 作品内容: 让青蛙干细胞自行聚集，形成用纤毛游动的球形 Xenobots；它们能协作把碎屑聚成堆，还能用会变色的记忆蛋白记录曾经接触过的东西。
+- 实现方式: 非洲爪蟾动物帽细胞聚集成表面布满可运动纤毛的球体；可光转换蛋白 EosFP 的 mRNA 作为记录是否受过蓝光照射的一比特记忆。
+- 论文: https://doi.org/10.1126/scirobotics.abf1571 (Science Robotics)
+- 视频: https://www.youtube.com/watch?v=g_eLsiAv8w4
+- 图片: https://now.tufts.edu/sites/default/files/uploaded-assets/images/2022-04/next-generation-living-robots.jpg https://now.tufts.edu/sites/default/files/inline-images/eofsp2%2520vTN%281%29.jpg
+- 项目主页: https://now.tufts.edu/2021/03/31/scientists-create-next-generation-living-robots
+
+#### Kinematic self-replication in reconfigurable organisms — Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard (2021)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 一种新的繁殖方式：像机器那样，用散落的零件拼出自己的副本。
+- 作品内容: 在散落的青蛙干细胞中游动的 Xenobots 把细胞推成堆，这些堆会长成新的 Xenobots；AI 设计的“吃豆人”形状让这种复制能延续更多代。
+- 实现方式: 在模拟中用进化搜索找到最能“堆细胞”的身体形状，再在含有分散爪蟾细胞的培养皿中测试。
+- 论文: https://doi.org/10.1073/pnas.2112672118 (PNAS)
+- 视频: https://www.youtube.com/watch?v=aBYtBXaxsOw
+- 图片: https://wyss-prod.imgix.net/app/uploads/2021/11/29104616/Blackiston4.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=91e3c9a5c06a3586953895229a7b6ade https://now.tufts.edu/sites/default/files/uploaded-assets/images/migrated/211129_xenobot_replicating_lg.jpg
+- 项目主页: https://wyss.harvard.edu/news/team-builds-first-living-robots-that-can-reproduce/
+
+#### A scalable pipeline for designing reconfigurable organisms (Xenobots) — Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard (2020)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 计算机设计身体，活细胞来建造：第一批由 AI 从零设计的生物体。
+- 作品内容: 进化算法在模拟中设计身体形态，研究者再用青蛙的皮肤细胞和心肌细胞手工拼出最佳设计；这些不到一毫米的“Xenobots”会行走、推动小颗粒，被切开后还能愈合。
+- 实现方式: 在超级计算机上进化出的设计，用显微外科工具从非洲爪蟾干细胞组织中雕刻出来，跳动的心肌细胞提供推进力。
+- 论文: https://doi.org/10.1073/pnas.1910837117 (PNAS)
+- 视频: https://www.youtube.com/watch?v=aQRBCCjaYGE
+- 图片: https://www.uvm.edu/d10-files/styles/default_1920/public/shared/story-photos/xenobot-organism-pair-800x400.jpg.webp?itok=DdsLbXZG https://upload.wikimedia.org/wikipedia/commons/a/ad/A_xenobot_in_simulation_and_reality.png
+- 项目主页: https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots
+
+#### Explosive sensing with insect-based biorobots — Barani Raman (2020)
+- 类型: 论文 · 生物: 昆虫, 神经元与类器官
+- 核心想法: 把昆虫的大脑读成一台化学探测器。
+- 作品内容: 大脑中植入电极、背着小背包的蝗虫，能在几毫秒内分辨不同爆炸物的气味，而且在小车上移动时也能做到。
+- 实现方式: 解码美洲沙漠蝗触角叶的神经记录；研究者还提出用翅膀上的发热“纹身”来引导它们。
+- 论文: https://doi.org/10.1016/j.biosx.2020.100050 (Biosensors and Bioelectronics: X)
+- 视频: https://www.youtube.com/watch?v=mpz9Nq-Ud8c
+- 图片: https://source.washu.edu/app/uploads/2020/08/locustsensor.jpg https://source.washu.edu/app/uploads/2016/06/Locusts-for-Source.jpg
+- 项目主页: https://source.washu.edu/2020/08/researchers-one-step-closer-to-bomb-sniffing-cyborg-locusts/
+
+#### Low-power microelectronics embedded in live jellyfish enhance propulsion — Nicole Xu, John Dabiri (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 强化一个本就擅长游泳的动物，而不是另造一台机器人。
+- 作品内容: 给海月水母装上一个小型起搏器，可以让它们游速提高到近三倍，额外能耗很少，也看不出明显的应激反应。
+- 实现方式: 在海月水母的游泳肌中插入电极，由一个自带电源的微电子刺激器设定比其自然节律更快的搏动频率。
+- 论文: https://doi.org/10.1126/sciadv.aaz3194 (Science Advances)
+- 视频: https://www.youtube.com/watch?v=pH5CVb7yjFw
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/Xu-Dabiri-Jellyfish-Illustra.bab43a61.fill-1600x810-c100.jpg
+- 项目主页: https://www.caltech.edu/about/news/bionic-jellyfish-swim-faster-and-more-efficiently
+
+#### Smellicopter: a bio-hybrid odor-guided autonomous palm-sized air vehicle — Sawyer Fuller (2020)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 借用昆虫的感觉器官（它比任何人造传感器都灵敏），装到机器上。
+- 作品内容: 一架手掌大小的无人机把烟草天蛾的活触角当作鼻子，能自主转向气味源并避开障碍。
+- 实现方式: 摘下的烟草天蛾触角夹在电极之间可存活数小时；闻到气味时信号会突增，无人机的羽流追踪算法据此行动。
+- 论文: https://doi.org/10.1088/1748-3190/abbd81 (Bioinspiration & Biomimetics)
+- 视频: https://www.youtube.com/watch?v=8SGx2qmo9M4
+- 图片: https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110526/SmellicopterWEB001.jpg https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110529/SmellicopterWEB003-750x500.jpg
+- 项目主页: https://www.washington.edu/news/2020/12/07/smellicopter-avoids-obstacles-uses-live-moth-antenna-to-smell/
+
+#### Neuromuscular actuation of biohybrid motile bots — Taher Saif (2019)
+- 类型: 论文 · 生物: 细胞与组织, 神经元与类器官
+- 核心想法: 给生物混合机器人装上它自己的神经。
+- 作品内容: 一个游泳机器人，其肌肉由干细胞培养出的活运动神经元驱动；让它动起来的是神经细胞，而不是外部电脉冲。
+- 实现方式: 来自小鼠干细胞的光遗传神经元团支配双尾支架上的骨骼肌，光激活神经元，神经元再驱动肌肉。
+- 论文: https://doi.org/10.1073/pnas.1907051116 (PNAS)
+- 图片: https://scx2.b-cdn.net/gfx/news/2019/15-researchersb.jpg
+- 项目主页: https://techxplore.com/news/2019-09-microscopic-biohybrid-robots-propelled-muscles.html
+
+#### Biohybrid robot powered by an antagonistic pair of skeletal muscle tissues — Shoji Takeuchi (2018)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 照搬身体里成对肌肉的布局，让活体执行器更持久。
+- 作品内容: 一个机器人手指关节由两束实验室培养的大鼠肌肉驱动，它们像肱二头肌和肱三头肌一样相互拮抗，让手指来回弯曲了一周，还能拾起并放下一个圆环。
+- 实现方式: 含成肌细胞的水凝胶片在树脂骨架上成熟为肌肉，电刺激轮流收缩两侧肌肉，另一侧则保持张力。
+- 论文: https://doi.org/10.1126/scirobotics.aat4440 (Science Robotics)
+- 视频: https://www.youtube.com/watch?v=3UXG4xL0S4g
+- 图片: https://scx2.b-cdn.net/gfx/news/2018/5b0eadc3c3428.jpg https://neurosciencenews.com/files/2018/06/muslces-robots-neurosciencnews.jpg
+- 项目主页: https://www.sciencedaily.com/releases/2018/05/180530144132.htm
+
+#### Soft erythrocyte-based bacterial microswimmers for cargo delivery — Metin Sitti (2018)
+- 类型: 论文 · 生物: 细菌与微生物, 细胞与组织
+- 核心想法: 把细菌当马达、把血细胞当柔软的载具，做体内机器人。
+- 作品内容: 装载药物和磁性颗粒的红细胞由附着的大肠杆菌推动前进，用磁场引导方向，还能用光按指令销毁。
+- 实现方式: 工程大肠杆菌通过生物素-亲和素结合到红细胞上；超顺磁纳米颗粒用于磁场导航，近红外光触发自毁。
+- 论文: https://doi.org/10.1126/scirobotics.aar4423 (Science Robotics)
+- 视频: https://www.youtube.com/watch?v=5EIAGsc4cR0
+- 图片: https://images.squarespace-cdn.com/content/v1/57ed3edb37c58182f815c65f/1524758481020-IS6JIXV2ZM3NWFMJ64FB/content_Electromicroscopic_image_of_the_RBC_microswimmer.jpg
+- 项目主页: https://www.is.mpg.de/news/multifunctional-bacterial-microswimmer-able-to-deliver-cargo-and-destroy-itself
+
+#### Toward self-growing soft robots inspired by plant roots (Plantoid) — Barbara Mazzolai (2017)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 以植物为原型，让机器人靠生长而不是行走来移动。
+- 作品内容: 一根靠生长钻入土壤的机器人根：尖端里的 3D 打印机不断铺设新材料，让它像真正的根一样从尖端伸长。
+- 实现方式: 这是受植物启发的机器人，而非生物混合体：尖端的增材制造机构随着根的前进逐层沉积热塑性丝材。
+- 论文: https://doi.org/10.1089/soro.2016.0080 (Soft Robotics)
+- 视频: https://www.youtube.com/watch?v=mrEAwZJKxzE
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/145c1144700e/fig-1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/171874803de1/fig-13.jpg
+- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC5649421/
+
+#### Aplysia californica as a novel source of material for biohybrid robots and organic machines — Victoria Webster-Wood (2016)
+- 类型: 论文 · 生物: 动物, 细胞与组织
+- 核心想法: 挑一种组织能在实验室外存活的强韧动物。
+- 作品内容: 一台 3D 打印的爬行机器人，利用加州海兔的口球肌肉移动；这种肌肉能耐受较大的温度范围，机器人本身也由可降解材料制成。
+- 实现方式: 把海兔的 I2 口球肌接在打印的聚合物身体上，用电刺激驱动；后续版本用动物自身的神经节作为控制器。
+- 论文: https://doi.org/10.1007/978-3-319-42417-0_33 (Living Machines 2016, LNCS)
+- 视频: https://www.youtube.com/watch?v=5MJZd1PnqvM
+- 图片: https://www.newswise.com/images/uploads/2016/07/18/biobot.jpg
+- 项目主页: https://www.newswise.com/articles/researchers-build-a-crawling-robot-from-sea-slug-parts-and-a-3-d-printed-body
+
+#### Optogenetic skeletal muscle-powered adaptive biological machines — Ritu Raman, Rashid Bashir (2016)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 像运动员一样会训练、会变强的机器。
+- 作品内容: 装有光敏肌肉的生物机器人在蓝光闪烁时行走，而且肌肉会在反复“锻炼”后变得更强。
+- 实现方式: 表达通道视紫红质的小鼠成肌细胞在水凝胶骨架上形成肌肉环，光脉冲决定步态，反复刺激会提高收缩力。
+- 论文: https://doi.org/10.1073/pnas.1516139113 (PNAS)
+- 视频: https://www.youtube.com/watch?v=BwMT_ok4WW0
+- 图片: https://media.news.illinois.edu/wp-content/uploads/2024/12/19140142/84871-1140x760.jpg
+- 项目主页: https://news.illinois.edu/light-illuminates-the-way-for-bio-bots/
+
+#### Phototactic guidance of a tissue-engineered soft-robotic ray — Kit Parker (2016)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 让肌肉对光敏感，就能用光来驾驶一台活的机器。
+- 作品内容: 一只长 16 毫米的机器人鳐鱼，有金质骨架和 20 万个经基因改造的大鼠心肌细胞，能游动，并跟随光脉冲穿过障碍赛道。
+- 实现方式: 经光遗传改造的心肌细胞附着在弹性体身体上，对蓝光产生收缩；左右鳍由不同频率的光分别触发。
+- 论文: https://doi.org/10.1126/science.aaf4292 (Science)
+- 视频: https://www.youtube.com/watch?v=E8YwpECaHdw
+- 图片: https://i.ytimg.com/vi/-D_XrRo0h20/maxresdefault.jpg https://i.ytimg.com/vi/E8YwpECaHdw/hqdefault.jpg
+- 项目主页: https://www.science.org/content/article/robotic-stingray-powered-light-activated-muscle-cells
+
+#### flora robotica — mixed societies of symbiotic robot–plant bio-hybrids — Heiko Hamann (2015)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 由植物生长、由机器人在数月间引导的建筑。
+- 作品内容: 一个欧盟项目：带灯光和传感器的机器人引导攀缘植物沿编织支架生长，机器人与植物一起塑造建筑。
+- 实现方式: 分布式机器人节点发出蓝光，引导植物朝选定方向生长并感知植物位置；植物反过来加固支架。
+- 论文: https://doi.org/10.1109/SSCI.2015.158 (IEEE Symposium Series on Computational Intelligence (SSCI) 2015)
+- 视频: https://www.youtube.com/watch?v=Byo55asQUwM
+- 图片: http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototypes.jpg http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototype_detail.jpg
+- 项目主页: http://www.florarobotica.eu
+
+#### A self-propelled biohybrid swimmer at low Reynolds number — Taher Saif (2014)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 让细胞通过身体的力学彼此协调。
+- 作品内容: 一个像精子的游泳机器人，头部是心肌细胞，尾巴是聚合物；相邻细胞沿着尾巴协调搏动，让它自主游动。
+- 实现方式: 心肌细胞生长在柔性 PDMS 细丝上，机械耦合让它们的收缩同步为一个行波。
+- 论文: https://doi.org/10.1038/ncomms4081 (Nature Communications)
+- 视频: https://www.youtube.com/watch?v=7XbElMI6OaA
+- 图片: https://scx2.b-cdn.net/gfx/news/hires/2014/tinyswimming.jpg
+- 项目主页: https://phys.org/news/2014-01-tiny-bio-bots-boldly-bot-swum.html
+
+#### Three-dimensionally printed biological machines powered by skeletal muscle — Rashid Bashir (2014)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 从心肌换成骨骼肌，让机器只在被命令时才动。
+- 作品内容: 由一圈骨骼肌驱动的生物机器人，只在电脉冲刺激下才移动，首次实现了“按指令行走”的生物机器人控制。
+- 实现方式: 小鼠成肌细胞在水凝胶环中围绕 3D 打印的立柱分化成肌肉，电脉冲频率决定行走速度。
+- 论文: https://doi.org/10.1073/pnas.1401577111 (PNAS)
+- 视频: https://www.youtube.com/watch?v=skCzl7FlM34
+- 图片: https://bioengineering.illinois.edu/_sitemanager/viewphoto.aspx?id=36457&s=1200 https://scx2.b-cdn.net/gfx/news/hires/2014/musclepowere.jpg
+- 项目主页: https://bioengineering.illinois.edu/news/muscle-powered-biobots-walk-command
+
+#### Odour-tracking capability of a silkmoth driving a mobile robot — Ryohei Kanzaki (2013)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 让昆虫驾驶车辆，观察它的大脑如何适应。
+- 作品内容: 一只雄性家蚕蛾在装在小型轮式机器人上的球上行走，它的步伐驱动机器人驶向雌蛾信息素源；即使机器人的响应被延迟或偏转，它也能找到。
+- 实现方式: 光学传感器读取蛾在追踪球上的行走，并转换成车轮速度；再人为加入延迟和转向偏差来测试其适应能力。
+- 论文: https://doi.org/10.1088/1748-3182/8/1/016008 (Bioinspiration & Biomimetics)
+- 视频: https://www.youtube.com/watch?v=n2k1T2X7_Aw
+- 图片: https://scx1.b-cdn.net/csz/news/800a/2013/ytfguk.jpg https://scx1.b-cdn.net/csz/news/800a/2013/l87ngkuyf.jpg
+- 项目主页: https://phys.org/news/2013-02-insect-robot-track-video.html
+
+#### RoboRoach — Backyard Brains (2013)
+- 类型: 产品与平台 · 生物: 昆虫
+- 核心想法: 一个用来教授神经科学的赛博昆虫套件，也是对伦理边界的一次公开测试。
+- 作品内容: 一款面向公众的套件，学生可以把蓝牙背包接到蟑螂触角上，用手机应用让它左转或右转。
+- 实现方式: 插入触角的导线发出微小电脉冲，蟑螂会感觉像碰到了障碍物，于是转向另一边。
+- 视频: https://www.youtube.com/watch?v=L0jBzi-gKco
+- 图片: https://backyardbrains.com/cdn/shop/products/RoboRoach_iPod.jpg?v=1734628912 https://backyardbrains.com/cdn/shop/products/roboRoachGoRight.jpg?v=1741629247
+- 项目主页: https://backyardbrains.com/products/roboroach
+
+#### A tissue-engineered jellyfish with biomimetic propulsion (Medusoid) — Kit Parker, John Dabiri (2012)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 用另一种细胞重建一种动物，以此反向理解它。
+- 作品内容: 由硅胶和大鼠心肌细胞做成的扁平八臂“Medusoid”，在电场刺激细胞收缩时，像幼年海月水母一样游动。
+- 实现方式: 把大鼠心肌细胞按海月水母的肌肉排列图案培养在硅胶片上，用电场刺激产生同步的划水动作。
+- 论文: https://doi.org/10.1038/nbt.2269 (Nature Biotechnology)
+- 视频: https://www.youtube.com/watch?v=gfC3eVjmpfo
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2012.11046/MediaObjects/41586_2012_Article_BFnature201211046_Figa_HTML.jpg https://wyss-prod.imgix.net/app/uploads/2016/08/05180605/artificial.jellyfish-275x257.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=8004ee7bfeccacb58da6f8451f10b92f
+- 项目主页: https://www.nature.com/news/artificial-jellyfish-built-from-rat-cells-1.11046
+
+#### Development of miniaturized walking biological machines — Rashid Bashir, Taher Saif (2012)
+- 类型: 论文 · 生物: 细胞与组织, 动物
+- 核心想法: 打印一副骨架，种上细胞，让心跳变成步态。
+- 作品内容: 半厘米长的 3D 打印水凝胶悬臂上覆盖着跳动的大鼠心肌细胞，能在表面上“行走”，这是伊利诺伊“生物机器人”的第一代。
+- 实现方式: 用光固化打印的非对称水凝胶梁上覆盖一层心肌细胞，每次搏动都让它弯曲，从而向前移动。
+- 论文: https://doi.org/10.1038/srep00857 (Scientific Reports)
+- 视频: https://www.youtube.com/watch?v=LZgdOelmIVw
+- 图片: https://scx2.b-cdn.net/gfx/news/hires/2012/thesebotswer.jpg
+- 项目主页: https://phys.org/news/2012-11-bots-cells-power-biological-machines.html
+
+#### Remote radio control of insect flight — Hirotaka Sato (2009)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 与其造一台会飞的机器人，不如操控一只本来就会飞的昆虫。
+- 作品内容: 背着无线电“背包”的大型花金龟，可以通过刺激大脑和飞行肌肉，按指令起飞、转弯和停止飞行。
+- 实现方式: 在花金龟的视叶和基节肌中植入电极，连接到背上的微控制器和无线接收器。
+- 论文: https://doi.org/10.3389/neuro.07.024.2009 (Frontiers in Integrative Neuroscience)
+- 视频: https://www.youtube.com/watch?v=UhPbln4vnvw
+- 图片: https://content.time.com/time/photoessays/2009/50_best_inventions/inventions_cyborg_beetle.jpg
+- 项目主页: https://content.time.com/time/specials/packages/article/0,28804,1934027_1934003_1933968,00.html
+
+### DNA 与分子计算
+
+用 DNA、蛋白质和化学反应来计算和存储信息。
+
+#### Supervised learning in DNA neural networks — Lulu Qian (2025)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 分子不仅能执行我们给的程序，还能自己学习。
+- 作品内容: 一个 DNA 神经网络在试管中从示例中学习：训练分子储存权重，网络随后能对新的分子图案分类，无需先用计算机算出权重。
+- 实现方式: 训练样本激活 DNA 链并就地设定分子权重，测试图案随后由同一个链置换网络处理。
+- 论文: https://doi.org/10.1038/s41586-025-09479-w (Nature)
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_3200x1620.27baed7e.fill-1600x810-c100.jpg https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_2.5dad4ab6.width-450.jpg
+- 项目主页: https://www.caltech.edu/about/news/dna-based-neural-network-learns-from-examples-to-solve-problems
+
+#### A primordial DNA store and compute engine — Albert Keung (2024)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 像电脑一样，在 DNA 中把存储和计算放在一起。
+- 作品内容: 一种柔软的聚合物“树枝状胶体”承载 DNA 文件，可以在同一个装置里存储、读取、擦除、重写，并用来解小型数独和国际象棋问题。
+- 实现方式: 把 DNA 装载在起保护作用的分支聚合物支架上，用酶和链操作就地读取和修改数据。
+- 论文: https://doi.org/10.1038/s41565-024-01771-6 (Nature Nanotechnology)
+- 视频: https://www.youtube.com/watch?v=IThHS5rkTPw
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01771-6/MediaObjects/41565_2024_1771_Fig1_HTML.png
+- 项目主页: https://news.ncsu.edu/2024/08/functional-dna-computing/
+
+#### Biomemory DNA Card — Biomemory (2024)
+- 类型: 产品与平台 · 生物: DNA 与分子, 细菌与微生物
+- 核心想法: 把 DNA 包装成熟悉的物件（机架上的一张卡），让它融入现有的基础设施。
+- 作品内容: Biomemory 用 DNA 存储数据，推出了一种信用卡大小、面向数据中心机架的 DNA 存储卡；2021 年，它把法国《人权宣言》和《女权宣言》存入 DNA，交由法国国家档案馆保存。
+- 实现方式: 用工程细胞以生物方式生产编码数据的 DNA，而不完全依赖化学合成，再干燥并封装进卡盒。
+- 视频: https://www.youtube.com/watch?v=-Rdh31Cs3gs
+- 图片: https://next.ink/wp-content/uploads/2024/06/image-43.png https://next.ink/wp-content/uploads/2024/06/image-46-1024x576.png
+- 项目主页: https://www.biomemory.com/
+
+#### Nonlinear decision-making with enzymatic neural networks — Yannick Rondelez (2022)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 能做非线性决策的化学反应，为智能诊断打开了道路。
+- 作品内容: DNA 与酶反应构成的神经网络，能把输入分到任意形状的区域中，做到以往分子网络做不到的非线性决策。
+- 实现方式: 由酶驱动的 DNA 模板充当带激活和抑制的神经元，在数千个微液滴中运行以绘制决策边界。
+- 论文: https://doi.org/10.1038/s41586-022-05218-7 (Nature)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05218-7/MediaObjects/41586_2022_5218_Fig1_HTML.png
+- 项目主页: https://www.nature.com/articles/s41586-022-05218-7
+
+#### Towards proteinoid computers — Andrew Adamatzky (2021)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 比细胞更古老的原始生命化学，也许已经能计算。
+- 作品内容: 一篇假说论文，提出类蛋白（受热生成、能自组装成微球并产生电脉冲的蛋白）可以连成网络来计算。
+- 实现方式: 加热氨基酸得到类蛋白微球，它们自发的电振荡被设想为类脑电路中的信号。
+- 论文: https://doi.org/10.1016/j.biosystems.2021.104480 (BioSystems)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0303264721001295-gr1.jpg
+- 项目主页: https://www.sciencedirect.com/science/article/pii/S0303264721001295
+
+#### A DNA-of-things storage architecture to create materials with embedded memory — Robert Grass, Yaniv Erlich (2019)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 像生物一样，物体可以携带自己的蓝图。
+- 作品内容: 一只 3D 打印的斯坦福兔子，塑料里含有打印它自己的文件（以 DNA 形式存储）；从中切下一小块，就能打印出新的兔子，重复了五代。
+- 实现方式: 把编码 STL 文件的 DNA 封装在二氧化硅纳米珠中并混入打印材料；从碎片中提取 DNA 进行测序。
+- 论文: https://doi.org/10.1038/s41587-019-0356-z (Nature Biotechnology)
+- 视频: https://www.youtube.com/watch?v=yo5Q1WfpMtw
+- 图片: https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1104599190.jpg https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/wide_content/textimage_774183200/image.imageformat.text50percent.607066266.jpg
+- 项目主页: https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects.html
+
+#### Catalog: English Wikipedia in DNA — Catalog (2019)
+- 类型: 产品与平台 · 生物: DNA 与分子
+- 核心想法: 像活字印刷一样，用预制片段拼出数据，让写 DNA 变得便宜。
+- 作品内容: Catalog 用自己的写入机器把约 16 GB 的英文维基百科文本编码进合成 DNA，后来又开发了在 DNA 数据上搜索和计算的平台。
+- 实现方式: 不逐个合成碱基，而是把数据编码为预制 DNA 片段库的组合，由类似喷墨打印的机器拼接。
+- 视频: https://www.youtube.com/watch?v=HzCTP6rZI7s
+- 图片: https://www.cnet.com/wp-content/uploads/sites/2/263029fd-eb98-4097-a824-0ef8e58449f7.jpg?resize=1200,675 https://www.cnet.com/wp-content/uploads/sites/2/7a15c31e-bdcc-450e-925e-119241a0249b.jpg?resize=1200,675
+- 项目主页: https://www.cnet.com/news/startup-packs-all-16gb-wikipedia-onto-dna-strands-demonstrate-new-storage-tech/
+
+#### Diverse and robust molecular algorithms using reprogrammable DNA self-assembly — Damien Woods, Erik Winfree (2019)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 改变混合物里有哪些零件，就能重新编程分子，好比在硬件上换软件。
+- 作品内容: 一套 355 块的 DNA 瓦片，通过选择放入试管的瓦片，运行了计数、排序、选“领导者”等 21 种算法；计算结果以带图案的 DNA 条带长出来。
+- 实现方式: 单链瓦片按黏性末端匹配结合，以 DNA 折纸为种子逐行实现布尔元胞自动机，原子力显微镜图像显示计算结果。
+- 论文: https://doi.org/10.1038/s41586-019-1014-9 (Nature)
+- 视频: https://www.youtube.com/watch?v=fphgFhAn4tA
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/Winfree-Algorithmic-Molecular-Self.d0f1a612.max-1400x800.jpg
+- 项目主页: https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system
+
+#### Random access in large-scale DNA data storage — Molecular Information Systems Lab (MISL), Luis Ceze, Karin Strauss (2018)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 只有能单独打开一个文件而不必读完整座图书馆，DNA 存储才真正可用。
+- 作品内容: 超过 200 MB 的数据被存入 DNA，包括 OK Go 的音乐视频和 100 种语言的《世界人权宣言》，而且可以单独取出某个文件，不必读取全部数据。
+- 实现方式: 每个文件的 DNA 链带有一对引物作为地址，测序前用 PCR 只扩增所需文件，并配合纠错码。
+- 论文: https://doi.org/10.1038/nbt.4079 (Nature Biotechnology)
+- 视频: https://www.youtube.com/watch?v=qloX87Apz2o
+- 图片: https://news.cs.washington.edu/wp-content/uploads/2018/02/MISL-wetlab-1.jpg https://news.cs.washington.edu/wp-content/uploads/2018/02/Ok-Go-video-snapshot.jpg
+- 项目主页: https://news.cs.washington.edu/2018/02/19/uw-and-microsoft-researchers-achieve-random-access-in-large-scale-dna-data-storage
+
+#### Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks — Lulu Qian (2018)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 能识别图案的分子，也许能让材料和细胞对周围环境进行分类。
+- 作品内容: 一个 DNA 神经网络识别“分子手写体”：把手写数字编码为 DNA 链的混合物，它能在试管中对其正确分类。
+- 实现方式: 每幅 10×10 的数字图像对应 100 条 DNA 链中的 20 条；权重乘法、求和和“赢家通吃”层判断属于哪一类数字，并以荧光显示。
+- 论文: https://doi.org/10.1038/s41586-018-0289-6 (Nature)
+- 视频: https://www.youtube.com/watch?v=idCjH20I65M
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/LQian_WTA-Neural-Networks-Made-fro.ce986c20.max-1400x800.jpg https://www.qianlab.caltech.edu/media_WTA_1_300px.png
+- 项目主页: https://www.caltech.edu/about/news/test-tube-artificial-neural-network-recognizes-molecular-handwriting-82679
+
+#### CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria — Seth Shipman, George Church (2017)
+- 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
+- 核心想法: 活细胞可以充当记录器，把经历写进自己的 DNA。
+- 作品内容: Eadweard Muybridge 奔马影片的画面在几天内被逐帧写入活大肠杆菌的基因组，之后又从细菌群体中读了出来。
+- 实现方式: 像素值编码进短 DNA 片段并逐帧导入，Cas1–Cas2 整合酶按顺序把它们存进 CRISPR 阵列，顺序即代表时间。
+- 论文: https://doi.org/10.1038/nature23017 (Nature)
+- 视频: https://vimeo.com/224354684
+- 图片: https://wyss-prod.imgix.net/app/uploads/2017/07/11111818/Encoding-Memories-in-Living-Cells-with-CRISPR-Listing-Image.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=e9a58d3d21ace4dc0d3b3bd5fca1e085 https://wp.technologyreview.com/wp-content/uploads/2017/07/horsegif_0-3.gif
+- 项目主页: https://wyss.harvard.edu/news/taking-cells-out-to-the-movies-with-new-crispr-technology
+
+#### DNA Fountain enables a robust and efficient storage architecture — Yaniv Erlich (2017)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 借用视频流媒体的编码，把 DNA 装到接近极限。
+- 作品内容: 一套操作系统、一部短片、一张亚马逊礼品卡和一个计算机病毒，用喷泉码存入 DNA，接近每个核苷酸所能承载比特数的理论上限。
+- 实现方式: 用 Luby 变换喷泉码从数据中生成大量“液滴”，丢弃会导致难以合成的序列的液滴，其余进行合成。
+- 论文: https://doi.org/10.1126/science.aaj2038 (Science)
+- 视频: https://www.youtube.com/watch?v=kXHfQ1KafK4
+- 图片: https://sciinitprod.wpengine.com/wp-content/uploads/2017/04/NYGC_lab_500.jpg
+- 项目主页: https://science.fas.columbia.edu/news/researchers-store-computer-operating-system-and-short-movie-on-dna/
+
+#### Genetic circuit design automation (Cello) — Christopher Voigt (2016)
+- 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
+- 核心想法: 一种为活细胞写程序的编程语言。
+- 作品内容: Cello 把用 Verilog（设计芯片的语言）写的电路编译成 DNA 序列，让大肠杆菌执行对应的逻辑；构建的 60 个电路中有 45 个按设计工作。
+- 实现方式: 把逻辑映射到一组已表征的、基于阻遏蛋白的 NOT/NOR 门，组装成质粒并导入细菌。
+- 论文: https://doi.org/10.1126/science.aac7341 (Science)
+- 视频: https://www.youtube.com/watch?v=SLn_SkL7vkQ
+- 图片: https://news.mit.edu/sites/default/files/images/201603/MIT-Program-Bacteria.jpg
+- 项目主页: https://news.mit.edu/2016/programming-language-living-cells-bacteria-0331
+
+#### Towards practical, high-capacity, low-maintenance information storage in synthesized DNA — Nick Goldman (2013)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 围绕介质的弱点设计编码，DNA 就能成为可靠的档案库。
+- 作品内容: 莎士比亚全部 154 首十四行诗、Watson 与 Crick 论文的 PDF、一张照片和马丁·路德·金《我有一个梦想》的音频片段被存入 DNA，并无差错地恢复。
+- 实现方式: 把数据转成三进制，并以不出现相同碱基连续重复的方式编码以避开测序错误；重叠片段提供四倍冗余。
+- 论文: https://doi.org/10.1038/nature11875 (Nature)
+- 视频: https://www.youtube.com/watch?v=tBvd7OSDGgQ
+- 图片: https://acxngcvroo.cloudimg.io/v7/https://content.embl.org/sites/default/files/2021-10/NEWS_Nick_Goldman_DNA_storage.jpg?w=1000&h=600
+- 项目主页: https://www.ebi.ac.uk/about/news/press-releases/DNA-storage
+
+#### Next-generation digital information storage in DNA — George Church (2012)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: DNA 是我们已知密度最高、保存最久的存储介质。
+- 作品内容: Church 团队把一本 5.3 万词、带图片和 JavaScript 程序的书写进 DNA 再读出来，存储密度约为每立方毫米 5.5 拍比特。
+- 实现方式: 把比特映射到碱基（每个碱基一比特），切成带地址的 96 比特数据块，用微阵列合成，再用二代测序读回。
+- 论文: https://doi.org/10.1126/science.1226355 (Science)
+- 视频: https://vimeo.com/47615970
+- 图片: https://wyss-prod.imgix.net/app/uploads/2016/08/30133118/16991-e1472738750194.jpeg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=0a41ae74fcc99c355ede938cc4c69f77 https://i.vimeocdn.com/video/330548088-f385c4265826dadcfbc4ef350a9eb421e5fcddc0a29ca03ba045060c9e3228c5-d_1280
+- 项目主页: https://wyss.harvard.edu/news/writing-the-book-in-dna/
+
+#### Neural network computation with DNA strand displacement cascades — Lulu Qian, Erik Winfree (2011)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 神经计算可以完全用分子写成，不需要任何电子器件。
+- 作品内容: 一个由 112 条 DNA 链组成的试管神经网络玩“读心”游戏：给出几道是非题的部分答案，它能回忆出这些答案对应四位科学家中的哪一位。
+- 实现方式: 用 DNA 链置换构成的“跷跷板”门实现 Hopfield 型网络的加权求和与阈值，由荧光读出结果。
+- 论文: https://doi.org/10.1038/nature10262 (Nature)
+- 视频: https://www.youtube.com/watch?v=N_VisNOKQMc
+- 图片: https://caltech-prod.resources.caltech.edu/main/images/CT_Winfree-Qian_Nature-SPOTLIGHT.16890135.max-1400x800.jpg
+- 项目主页: https://www.caltech.edu/about/news/caltech-researchers-create-first-artificial-neural-network-out-dna-1703
+
+#### Folding DNA to create nanoscale shapes and patterns (DNA origami) — Paul Rothemund (2006)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 在电脑上设计形状，让分子自己折叠成这个形状。
+- 作品内容: 一条长的病毒 DNA 被约 200 条短“订书钉”链折叠成笑脸、星星和美洲地图，每个图形宽约 100 纳米。
+- 实现方式: 计算出能把 M13 骨架链上相距较远的部分结合起来的订书钉序列；混合降温后结构自组装，并用原子力显微镜成像。
+- 论文: https://doi.org/10.1038/nature04586 (Nature)
+- 视频: https://www.youtube.com/watch?v=WhGG__boRxU
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04586/MediaObjects/41586_2006_BFnature04586_Fig2_HTML.jpg https://upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png
+- 项目主页: https://www.nature.com/articles/nature04586
+
+#### Medium scale integration of molecular logic gates in an automaton (MAYA-II) — Milan Stojanovic (2006)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 一种你可以和它对弈的分子逻辑。
+- 作品内容: MAYA-II 是一台 DNA 计算机，在 3×3 的孔板上与人下井字棋：玩家每走一步就加入一条 DNA 链，机器要下的那一格就会发光。
+- 实现方式: 128 个脱氧核酶逻辑门分布在九个孔中，当输入链存在时切割荧光底物而发光。
+- 论文: https://doi.org/10.1021/nl0620684 (Nano Letters)
+- 项目主页: https://en.wikipedia.org/wiki/MAYA-II
+
+#### A synthetic oscillatory network of transcriptional regulators (the repressilator) — Michael Elowitz (2000)
+- 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
+- 核心想法: 像工程师设计电路那样，用零件设计一种生物行为。
+- 作品内容: 三个基因首尾相连、依次关闭下一个，让大肠杆菌周期性地发出绿色荧光，一个从零设计的基因时钟。
+- 实现方式: LacI、TetR 和 cI 三个阻遏蛋白在质粒上组成负反馈环，由 GFP 报告振荡。
+- 论文: https://doi.org/10.1038/35002125 (Nature)
+- 视频: https://www.youtube.com/watch?v=qD7hUZ5pVP4
+- 图片: https://upload.wikimedia.org/wikipedia/commons/0/03/Repressilator_%28representation_based_on_Elowitz_%26_Liebler_2000%29.png https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif
+- 项目主页: https://en.wikipedia.org/wiki/Repressilator
+
+#### Construction of a genetic toggle switch in Escherichia coli — James J. Collins (2000)
+- 类型: 论文 · 生物: 细菌与微生物, DNA 与分子
+- 核心想法: 给细胞一比特的存储器。
+- 作品内容: 两个相互抑制的基因，让细菌有了稳定的开/关状态；用化学物质或热脉冲可以切换，切换后状态会被记住。
+- 实现方式: 两对阻遏蛋白-启动子相互抑制，短暂的 IPTG 或温度信号切换主导状态，由荧光报告基因读出。
+- 论文: https://doi.org/10.1038/35002131 (Nature)
+- 视频: https://www.youtube.com/watch?v=Sde4U1VTaaU
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002131/MediaObjects/41586_2000_Article_BF35002131_Fig1_HTML.gif
+- 项目主页: https://www.nature.com/articles/35002131
+
+#### Molecular computation of solutions to combinatorial problems — Leonard Adleman (1994)
+- 类型: 论文 · 生物: DNA 与分子
+- 核心想法: 化学可以通过同时尝试所有答案来进行计算。
+- 作品内容: Adleman 在试管里解出了一个七城市的哈密顿路径问题：编码城市和道路的 DNA 链以所有可能的方式结合，再通过实验步骤筛出唯一有效的路线。
+- 实现方式: 用代表顶点和边的寡核苷酸连接成路径，再用 PCR、凝胶电泳和亲和纯化筛选出长度正确、经过每个顶点的路径。
+- 论文: https://doi.org/10.1126/science.7973651 (Science)
+- 视频: https://www.youtube.com/watch?v=Bhqf8M5yYIw
+- 图片: https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg
+- 项目主页: https://en.wikipedia.org/wiki/DNA_computing
 
 ### 身体与生物信号
 
@@ -4285,6 +5036,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Ani Liu** (15) — 艺术家；宾夕法尼亚大学韦茨曼设计学院 Carrafiell 助理教授（新兴设计方向）. 以研究为基础的艺术家，工作横跨生物学、技术与性别议题；毕业于 MIT 媒体实验室，曾任普林斯顿艺术学者。她的雕塑和装置用微生物、植物、母乳、精子和气味来探讨生育、劳动与照护。 https://ani-liu.com
 - **Alexandra Daisy Ginsberg** (11) — 艺术家，创作涉及合成生物学、自然保护与人工智能. Alexandra Daisy Ginsberg 是常驻伦敦的艺术家，作品追问人如何看待自然，从合成生物学思辨到为传粉昆虫而做的活体艺术。 https://www.daisyginsberg.com
 - **Neri Oxman** (11) — 设计师、建筑师；OXMAN 创始人；前 MIT 媒体实验室教授. Neri Oxman 曾在 MIT 媒体实验室领导 Mediated Matter 研究组（2010–2020），提出“材料生态学”（Material Ecology），把计算、制造和生物学融为一体。 https://www.oxman.com
+- **Andrew Adamatzky** (10) — 英国西英格兰大学（UWE Bristol）非常规计算教授，非常规计算实验室主任. 计算机科学家，用黏菌、真菌、类蛋白、康普茶菌膜和化学反应搭建计算机，并主编《国际非常规计算期刊》。 https://uncomp.uwe.ac.uk/
 - **Cortical Labs** (10) — 用硅芯片上的人类神经元构建生物计算机的生物科技公司. Cortical Labs 由 Hon Weng Chong 于 2019 年创立，在高密度多电极阵列上培养人类和小鼠神经元。它做出了学会玩 Pong 的 DishBrain，并出售 CL1 生物计算机和它的云端访问。 https://corticallabs.com
 - **Harpreet Sareen** (9) — 植物-机器混合体的设计师与研究者；任教于帕森斯设计学院，曾在麻省理工学院媒体实验室. Harpreet Sareen 提出“赛博植物学”（Cyborg Botany）：在植物体内长出导线、让植物驾驶机器人、让植物感知水质或用声音说话。 https://harpreetsareen.com/
 - **Mirela Alistar** (9) — 科罗拉多大学博尔德分校 ATLAS 研究所与计算机科学系助理教授，Living Matter Lab 负责人. Mirela Alistar 出身于生物芯片设计自动化，现在领导一个研究与活体物质交互设计的实验室：藻类、康普茶、微生物组和生物材料。 https://www.colorado.edu/atlas/living-matter-lab
@@ -4309,27 +5061,36 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Ingmar Riedel-Kruse** (5) — 亚利桑那大学分子与细胞生物学教授，曾任斯坦福大学生物工程系. Ingmar Riedel-Kruse 开创了“生物游戏”和交互式生物技术：用触摸屏、摇杆和云实验室，让人用光引导活的眼虫细胞。
 - **Lena Smirnova** (5) — 约翰斯·霍普金斯大学布隆伯格公共卫生学院助理教授. 神经生物学家，开发人类脑类器官模型，领导约翰斯·霍普金斯大学检验类器官是否具备学习与记忆基本机制的研究。
 - **Shaowen Bardzell** (5) — 佐治亚理工学院交互计算学院教授. HCI 学者，以女性主义 HCI 和人文取向研究著称，指导了多项重要的超越人类 HCI 研究。
+- **Shoji Takeuchi** (5) — 东京大学生产技术研究所与信息理工学系研究科教授，生物混合系统实验室负责人. 工程师，在机器人骨架上培养肌肉组织和皮肤，从肌肉驱动的手指、行走机器人到覆盖活皮肤的机器人脸。 https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Steve M. Potter** (5) — 佐治亚理工学院生物医学工程系前副教授. 神经工程师，把培养的大鼠神经元接入模拟动物（“animat”）和机器人（“hybrot”），并与 SymbioticA 合作创作了 MEART 和 Silent Barrage。 https://potterlab.gatech.edu
 - **Superflux** (5) — 由 Anab Jain 和 Jon Ardern 创办的思辨设计与未来研究工作室. Superflux 用沉浸式装置、影像和政策原型把可能的未来做成可以体验的东西，其中一条长期主线是超越人类的政治与生态 AI。 https://superflux.in
 - **ecoLogicStudio** (5) — 由 Claudia Pasquero 与 Marco Poletto 创立的建筑与城市设计工作室. ecoLogicStudio 以微藻光生物反应器设计建筑，把生物学与数字设计结合。 https://www.ecologicstudio.com
 - **Eduardo Kac** (4) — 艺术家；提出“转基因艺术”一词. Eduardo Kac 是巴西裔美国艺术家，以用基因工程创造新生命和新文本的作品著称。 https://www.ekac.org
 - **FinalSpark** (4) — 运营基于人类脑类器官的远程生物计算平台的瑞士初创公司. FinalSpark 由 Fred Jordan 和 Martin Kutter 创立，把人类前脑类器官全天候养在多电极阵列上，研究者可以通过它的 Neuroplatform 在网上给这些类器官编程。 https://finalspark.com
+- **Hirotaka Sato** (4) — 新加坡南洋理工大学机械与航空航天工程学院教务长讲席教授. 工程师，用小型电子“背包”刺激甲虫和蟑螂的肌肉或触角，操控这些活昆虫。
 - **Jakob Kudsk Steensen** (4) — 用游戏引擎、野外录音和生态研究创作的艺术家. 丹麦艺术家，以野外考察、扫描和录音为基础，把真实生态系统重建为沉浸式装置、VR 和 AR 作品。 https://jakobsteensen.com/
 - **Maurizio Montalti** (4) — 设计师；Officina Corpuscoli 创始人，Mogu 联合创始人. Maurizio Montalti 于 2010 年创立工作室 Officina Corpuscoli，十多年来与乌得勒支大学的真菌学家一起研究菌丝体。 https://www.corpuscoli.com/
+- **Michael Levin** (4) — 塔夫茨大学生物学杰出教授，艾伦发现中心主任. 发育生物学家，研究生物电信号，以及细胞如何集体决定要长成什么形态。 https://drmichaellevin.org/
 - **Pat Pataranutaporn** (4) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究员. Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。 https://www.media.mit.edu/people/patpat/overview/
 - **Rachel Armstrong** (4) — 鲁汶大学再生建筑教授；曾任职纽卡斯尔大学. Rachel Armstrong 是英国建筑师、前医生，研究原生细胞与微生物系统在建筑中的应用。
+- **Rashid Bashir** (4) — 伊利诺伊大学厄巴纳-香槟分校格兰杰工程学院院长、生物工程教授. 生物工程师，团队制作“生物机器人”：3D 打印的水凝胶骨架，用心肌或骨骼肌细胞驱动行走。
 - **Sara Heitlinger** (4) — 伦敦大学城市圣乔治学院人机交互设计中心高级讲师. 参与式设计研究者，与城市食物种植者合作，研究种子、传感器和区块链未来。 https://www.connectedseeds.org/
 - **Thomas Hartung** (4) — 约翰斯·霍普金斯大学布隆伯格公共卫生学院教授，替代动物试验中心（CAAT）主任. 毒理学家，2023 年牵头提出把“类器官智能”（Organoid Intelligence）确立为一个研究领域，并召集制定了关于其伦理的《巴尔的摩宣言》。
 - **Tomás Saraceno** (4) — 艺术家；Studio Tomás Saraceno、Aerocene 社群与 Arachnophilia 的创立者. 阿根廷艺术家，建筑背景出身，与蜘蛛、空气和太阳能漂浮雕塑一起创作，常与科学家和社区合作。 https://studiotomassaraceno.org/
 - **Yasuaki Kakehi** (4) — 东京大学大学院情报学环教授，筧康明实验室负责人. 筧康明（Yasuaki Kakehi）是媒体艺术家和交互研究者，作品涉及材料、水、光和活体物质。 https://www.xlab.iii.u-tokyo.ac.jp/
 - **Blast Theory** (3) — 由 Matt Adams、Ju Row Farr 和 Nick Tandavanitj 领导的艺术团体. 总部位于布莱顿的艺术团体，自 1991 年起创作互动与混合现实作品，是诺丁汉大学混合现实实验室的长期合作者。 https://www.blasttheory.co.uk
 - **Carl DiSalvo** (3) — 佐治亚理工学院交互计算学院教授. 设计研究者，研究参与式设计、公共参与和对抗性设计。
+- **Douglas Blackiston** (3) — 塔夫茨大学艾伦发现中心与哈佛 Wyss 研究所资深科学家. 生物学家，亲手组装 Xenobots，并用青蛙干细胞把它们培养出来。
 - **Heidi R. Biggs** (3) — 从事后人类设计与生态设计的研究者. 设计研究者，制作关于气候变化的具身思辨作品，并把观鸟作为后人类方法进行反思。 https://www.heidibiggsdesign.com/
 - **Iohanna Nicenboim** (3) — 代尔夫特理工大学设计师与研究者，研究超越人类设计与人工智能. 设计研究者，把语音助手和 AI 看作超越人类的行动者，并设计与它们的情境化对话。 https://iohanna.com/
 - **Jennifer Gabrys** (3) — 剑桥大学媒体、文化与环境讲席教授，Citizen Sense、Smart Forests 与 Planetary Praxis 项目负责人. 社会学家，研究环境感知，从市民空气质量监测器到森林中的传感器网络。 https://www.jennifergabrys.net/
 - **Jia Liu** (3) — 哈佛大学约翰·保尔森工程与应用科学学院生物工程副教授. 生物工程师，在类器官生长过程中把柔软、可拉伸的网状电子嵌入其中，让电极成为组织的一部分。 https://liulab.seas.harvard.edu
+- **John Dabiri** (3) — 加州理工学院航空与机械工程百年教授. 流体力学家，研究水母的游动，并把活水母改造成探测海洋的生物混合体。 https://dabirilab.com/
 - **Joseph Lindley** (3) — 兰卡斯特大学 ImaginationLancaster 设计研究者. 研究设计虚构、人工智能与物导向本体论，运营 designresearch.works 工作室。 https://designresearch.works/
+- **Josh Bongard** (3) — 佛蒙特大学计算机科学教授，形态、进化与认知实验室负责人. 机器人学家，研究进化机器人学以及身体与大脑的协同设计。 https://www.meclab.org/
+- **Kit Parker** (3) — 哈佛大学工程与应用科学学院生物工程与应用物理教授，疾病生物物理课题组负责人. 生物工程师，用心肌细胞制造会游泳的生物混合动物（水母、鳐鱼、鱼），用来研究心脏。 https://diseasebiophysics.seas.harvard.edu/
 - **Laura Forlano** (3) — 美国东北大学艺术、媒体与设计学院教授. 写作者、社会科学家和设计研究者，工作于设计、科学技术研究与城市的交叉领域。
+- **Lulu Qian** (3) — 加州理工学院生物工程教授. 生物工程师，用在试管中反应的 DNA 链搭建神经网络和电路。 http://qianlab.caltech.edu/
 - **Marcus Foth** (3) — 昆士兰科技大学 QUT Design Lab 城市信息学教授. 城市信息学研究者，关注智慧城市、媒体建筑和超越人类的城市主义。
 - **Marshmallow Laser Feast** (3) — 体验艺术团体. 伦敦艺术团体（Barney Steel、Robin McNicholas 等），创作关于感知与自然世界的多感官 VR 与装置。 https://marshmallowlaserfeast.com/
 - **Michelle Westerlaken** (3) — 设计研究者，马尔默大学博士. 设计研究者，把狗和其他动物作为设计参与者，并以“多物种动物寓言集”的形式写成博士论文。 https://michellewesterlaken.com/
@@ -4337,11 +5098,14 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **OXMAN** (3) — 由 Neri Oxman 创立的设计与研究公司. OXMAN 以公司形式延续 Mediated Matter 的方向，开发由生物生长出的产品和生态建筑。 https://www.oxman.com
 - **Paul Coulton** (3) — 兰卡斯特大学 ImaginationLancaster 思辨设计与游戏设计讲席教授. 设计研究者，用设计虚构和物导向本体论探讨物联网与人工智能。 https://designresearch.works/
 - **Revital Cohen & Tuur Van Balen** (3) — 艺术家二人组. Revital Cohen 与 Tuur Van Balen 是常驻伦敦的艺术家二人组，作品审视生物学、生产与“自然”。 https://www.cohenvanbalen.com
+- **Sam Kriegman** (3) — 美国西北大学计算机科学、机械工程与化学生物工程助理教授. 计算机科学家，用进化算法设计机器人身体，包括第一批由计算机设计的生物体（Xenobots）。 https://www.xenobot.group/
 - **Sergiu P. Pașca** (3) — 斯坦福大学精神病学与行为科学教授. 神经科学家，开发了人类皮层类器官和“组装体”（assembloids），并把人类类器官移植进大鼠大脑，使其接入大鼠的神经回路。
 - **Studio Klarenbeek & Dros** (3) — Eric Klarenbeek 和 Maartje Dros 的设计工作室. Eric Klarenbeek 和 Maartje Dros 开发生长材料和生物基材料，从 3D 打印菌丝体到藻类生物塑料，并为它们建立本地生产网络。 https://www.ericklarenbeek.com/
 - **Szu-Yu (Cyn) Liu** (3) — HCI 与设计研究者，印第安纳大学博士. 研究替代农业、分解和摄影，以此探索与“自然文化”一起设计的方法。
+- **Taher Saif** (3) — 伊利诺伊大学厄巴纳-香槟分校机械科学与工程教授. 机械工程师，制造由心肌细胞、以及由运动神经元驱动肌肉的微型游泳机器人。
 - **Terreform ONE** (3) — 由 Mitchell Joachim 联合创立的非营利建筑与生态设计团体. Terreform ONE 用活体系统设计生态建筑和城市方案，从树屋到昆虫农场。 https://www.terreform.org
 - **Thad Starner** (3) — 佐治亚理工学院交互计算学院教授. 可穿戴计算先驱，参与开发了工作犬可穿戴设备和与海豚双向交流的设备。
+- **Toshiyuki Nakagaki** (3) — 北海道大学电子科学研究所教授. 生物物理学家，证明了多头绒泡菌能在迷宫中找到最短路径、搭建高效的运输网络；两次获得搞笑诺贝尔奖。 https://www.es.hokudai.ac.jp/labo/nakagaki/
 - **Ursula Biemann** (3) — 艺术家、作家、影像散文作者. 瑞士艺术家，以研究为基础的影像散文关注气候危机中的海洋、森林和原住民知识。 https://geobodies.org/
 - **Špela Petrič** (3) — 有生物学背景的艺术家. Špela Petrič 是斯洛文尼亚艺术家和生物学家，以表演探索人与植物的关系。 https://www.spelapetric.org
 - **Adrian David Cheok** (2) — Mixed Reality Lab 创始人和负责人. 混合现实和多感官互联网研究者，较早为宠物制作了远程触摸和游戏系统。 https://mixedrealitylab.org/
@@ -4349,20 +5113,26 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Amy Karle** (2) — 从事生物艺术与新兴技术的艺术家. Amy Karle 是美国艺术家，使用组织工程、3D 打印和人工智能创作。 https://www.amykarle.com
 - **Anna Dumitriu** (2) — 以细菌、传染病和生物技术为媒介的艺术家. Anna Dumitriu 是英国艺术家，与科学家长期合作，把纺织与手工艺和微生物学结合。 https://annadumitriu.co.uk
 - **Anna Lowenhaupt Tsing** (2) — 人类学家；加州大学圣克鲁兹分校教授. Anna Tsing 是研究多物种世界的人类学家，著有《末日松茸》。 https://feralatlas.org
+- **Audrey Dussutour** (2) — 法国国家科学研究中心（CNRS）研究主任，图卢兹动物认知研究中心. 生物学家，研究多头绒泡菌（法国人称之为“le blob”）的学习与决策。
 - **Bolt Threads** (2) — Microsilk 和 Mylo 背后的材料公司. Bolt Threads 开发生物基纤维和材料，包括用酵母发酵生产的蛛丝蛋白 Microsilk 和菌丝皮革 Mylo，常与 Stella McCartney 合作。 https://boltthreads.com/
 - **Braingeneers** (2) — 加州大学圣克鲁兹分校基因组研究所的研究团队（David Haussler、Mircea Teodorescu、Mohammed Mostajo-Radji）. 加州大学圣克鲁兹分校的跨学科团队，通过联网的“云实验室”运行类器官实验，并在闭环任务中训练皮层类器官。 https://braingeneers.ucsc.edu
 - **Christina Agapakis** (2) — 合成生物学家、作者；曾任 Ginkgo Bioworks 创意总监. Christina Agapakis 是合成生物学家，长期与艺术家和设计师合作探讨生物技术的文化。 https://agapakis.com
 - **Christopher Frauenberger** (2) — 萨尔茨堡大学人机交互教授. HCI 研究者，关注参与式设计、伦理和技术的关系性理论。 https://frauenberger.name/
+- **Christopher Voigt** (2) — 麻省理工学院生物工程教授. Christopher Voigt 设计基因电路和可编程细菌，从能感光的大肠杆菌到“活体电路板”。
 - **Cornell Lab of Ornithology** (2) — 康奈尔大学的研究机构. 康奈尔鸟类学实验室研究鸟类，并运营 eBird、Merlin 等大型公民科学平台。 https://www.birds.cornell.edu
 - **Data Garden** (2) — 音乐厂牌，MIDI Sprout 与 PlantWave 的开发者. 由 Joe Patitucci 和 Alex Tyson 创立，最初是氛围音乐厂牌，2012 年开始做由植物驱动的音乐，后来推出让任何人都能“听”自家植物的设备。 https://www.plantwave.com/
 - **David Rothenberg** (2) — 音乐人、哲学家、作家；新泽西理工学院教授. 单簧管演奏者和作家，与鸟、座头鲸、昆虫和夜莺现场合奏，并写书讨论动物为何“作音乐”（《Why Birds Sing》《Thousand Mile Song》《Nightingales in Berlin》）。 http://www.davidrothenberg.net/
 - **Donald Degraen** (2) — 坎特伯雷大学 HIT Lab NZ 的 HCI 研究者，曾在萨尔大学和德国人工智能研究中心（DFKI）. Donald Degraen 研究触觉，以及用真实植物做环境反馈的“活体媒介”界面。 https://www.donalddegraen.com/
 - **Ecovative** (2) — 由 Eben Bayer 和 Gavin McIntyre 创立的菌丝体材料公司. Ecovative 由伦斯勒理工学院毕业生 Eben Bayer 和 Gavin McIntyre 于 2007 年创立，用菌丝体和农业废料生长出包装、建材和食品。 https://ecovative.com/
+- **Eduardo Reck Miranda** (2) — 普利茅斯大学计算机音乐教授，计算机音乐跨学科研究中心（ICCMR）负责人. 作曲家，研究非常规计算与音乐，从生物计算机到量子计算机。
+- **Erik Winfree** (2) — 加州理工学院计算机科学、计算与神经系统及生物工程教授. 计算机科学家，开创了算法式 DNA 自组装和分子编程。 https://www.dna.caltech.edu/
 - **Ferdinand Ludwig** (2) — 慕尼黑工业大学景观建筑绿色技术教授. 建筑师 Ferdinand Ludwig 提出了 Baubotanik（建筑植物学），用活树与技术结构结合来建造。 https://www.arc.ed.tum.de/en/gtla/
 - **Fiona French** (2) — 伦敦城市大学计算与数字媒体学院副教授. ACI 研究者，为圈养大象设计互动玩具和声音装置。
 - **Foad Hamidi** (2) — 马里兰大学巴尔的摩县分校信息系统系教师. Foad Hamidi 设计参与式与辅助技术，包括使用蘑菇和植物的“活体媒介界面”。 https://www.foadhamidi.info/
+- **George Church** (2) — 哈佛医学院遗传学教授，Wyss 研究所核心成员. 遗传学家，开发了基因组测序与编辑方法、DNA 数据存储，并参与创办了许多合成生物学公司。 https://arep.med.harvard.edu/
 - **Helene Steiner** (2) — 设计师与研究者，Bento Lab 联合创始人，曾任微软剑桥研究院驻留艺术家. Helene Steiner 在设计与生物之间工作：便携 DNA 实验室、生物服装以及植物与人的通讯。 https://www.helenesteiner.com/
 - **Jasmine Lu** (2) — 芝加哥大学人机融合实验室（Human Computer Integration Lab）HCI 研究者. Jasmine Lu 研究会生长、衰老和分解的交互设备：由黏菌供电的智能手表、由植物驱动的机器人执行器，以及回收电子垃圾的制作工具。 https://lab.plopes.org/
+- **Jeff Jones** (2) — 英国西英格兰大学非常规计算实验室研究员. 计算机科学家，把多头绒泡菌建模为大量会留下并追随痕迹的简单粒子。
 - **Jen Keane** (2) — 设计师与研究者；Modern Synthesis 联合创始人. Jen Keane 就读于中央圣马丁学院 Material Futures 专业，并共同创立 Modern Synthesis，用细菌生长纺织品。 https://www.jenkeane.com/
 - **Jiwei Zhou** (2) — 代尔夫特理工大学工业设计工程学院设计研究者. 周纪伟（Jiwei Zhou）用蓝藻设计活体人造物，并研究人们在日常生活中如何照料它们。
 - **Johan Redström** (2) — 于默奥大学于默奥设计学院教授. 设计理论家，研究设计如何定义“物”，以及数字时代物件本质的变化。
@@ -4396,11 +5166,14 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Tom Ellis** (2) — 伦敦帝国理工学院合成基因组工程教授. Tom Ellis 领导一个合成生物学实验室，改造酵母和细菌（包括产纤维素的 Komagataeibacter）来制造新材料。 https://www.imperial.ac.uk/people/t.ellis
 - **Wil V. Srubar III** (2) — 科罗拉多大学博尔德分校副教授；Prometheus Materials 联合创始人. Wil Srubar 在科罗拉多大学领导 Living Materials Laboratory，研究工程化活体建材和低碳水泥。 https://www.colorado.edu/lab/srubar/
 - **Xuanhe Zhao** (2) — 麻省理工学院机械工程教授，软活性材料实验室负责人. 赵选贺（Xuanhe Zhao）研发水凝胶机器和生物粘合剂，包括容纳活体工程细菌的水凝胶。
+- **Yaniv Erlich** (2) — 计算机科学家与遗传学家，曾任职于哥伦比亚大学和纽约基因组中心. 研究者，设计了接近理论极限的 DNA 存储编码方案 DNA Fountain，并共同提出“物之 DNA”架构。
 - **Ackroyd & Harvey** (1) — 艺术家二人组：Heather Ackroyd 与 Dan Harvey. 英国艺术家，自 1990 年合作，关注生命材料的生长与衰败，以“长在草上的照片”闻名；Culture Declares Emergency 联合发起人。 https://www.ackroydandharvey.com/
 - **Aganetha Dyck** (1) — 艺术家. 加拿大艺术家，自 1990 年代初起与蜜蜂合作，把物件放进蜂箱，让蜜蜂在上面筑起蜂巢。 https://www.aganethadyck.ca/
 - **Ai Hasegawa** (1) — 艺术家、设计师. 长谷川爱是日本艺术家，思辨设计关注生殖、生物技术与身体。
 - **Akira Wakita** (1) — 庆应义塾大学环境情报学部教授. 脇田玲（Akira Wakita）研究信息设计、环境显示和数字制造。
+- **Albert Keung** (1) — 北卡罗来纳州立大学化学与生物分子工程副教授. 生物工程师，研究 DNA 数据存储与计算，以及合成表观遗传学。
 - **Alex Metcalf** (1) — 艺术家、雕塑家；Tree Listening Project 创作者. 英国艺术家，自 2007 年起巡展装置，让人们通过高灵敏麦克风聆听活树内部的声音。 https://treelistening.co.uk/
+- **Anand Kumar Mishra** (1) — 康奈尔大学有机机器人实验室研究助理. 工程师，搭建了读取菌丝体电信号的接口，并用这些信号驱动软体机器人和轮式机器人。
 - **Andrea Lavazza** (1) — 哲学家，阿雷佐国际大学中心高级研究员. 心灵哲学家和神经伦理学家，与 Marcello Massimini 最早提出了如何评估脑类器官可能具有的意识。
 - **André R. Studart** (1) — 苏黎世联邦理工学院复杂材料教授. André Studart 设计仿生材料和活体材料，包括含有细菌或真菌的 3D 打印材料。 https://complex.mat.ethz.ch/
 - **Andrés Jaque** (1) — 建筑师；Office for Political Innovation 创办人；哥伦比亚大学建筑规划与保护研究生院院长. Andrés Jaque 是建筑师和学者，其事务所把建筑设计成人、技术、微生物和水之间的一组关系。 https://andresjaque.net
@@ -4413,8 +5186,12 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Arup** (1) — 工程与设计公司. Arup 是全球性工程公司，参与开发了 SolarLeaf 微藻立面。 https://www.arup.com
 - **Ashley Boone** (1) — 佐治亚理工学院博士研究者. 研究社区科学中的数据实践，例如志愿者监测鸟类撞击建筑。
 - **Athanassia Athanassiou** (1) — 意大利技术研究院智能材料组首席研究员. Athanassia Athanassiou 在意大利技术研究院（IIT）领导生物基可持续复合材料研究。 https://www.iit.it/
+- **Atsushi Tero** (1) — 九州大学产业数学研究所教授. 数学家，把黏菌管道的生长转化为设计自适应网络的数学模型。
 - **Axel Erlandson** (1) — 农民与塑树人（1884–1964）. 瑞典裔美国农民 Axel Erlandson 把树嫁接、弯折成篮子、拱门和梯子的形状，并于 1947 年开放了 Tree Circus（树木马戏团）。
 - **Aykut Coşkun** (1) — 科奇大学媒体与视觉艺术系副教授. 交互设计研究者，研究可持续行为、物联网和超越人类设计。
+- **Backyard Brains** (1) — 由 Greg Gage 和 Tim Marzullo 创立的神经科学教育公司. 为学校生产低成本神经科学套件的公司，产品包括 RoboRoach。 https://backyardbrains.com/
+- **Barani Raman** (1) — 圣路易斯华盛顿大学生物医学工程教授. 神经工程师，研究昆虫嗅觉，并读取蝗虫大脑信号来探测爆炸物。 https://ramanlab.wustl.edu/
+- **Barbara Mazzolai** (1) — 意大利技术研究院机器人副院长、仿生软体机器人实验室主任. 生物学家与机器人学家，创造了 Plantoid，第一台以植物根系为原型的机器人。 https://www.iit.it/people-details/-/people/barbara-mazzolai
 - **Baum & Leahy** (1) — 艺术家二人组（Amanda Baum 与 Rose Leahy）. 艺术家-设计师二人组，创作关于微生物、深时和超越人类未来的思辨装置。
 - **Beatriz da Costa** (1) — 艺术家、教育者；加州大学欧文分校（1974–2012）. Beatriz da Costa 是跨学科艺术家，把战术媒体、公民科学和生物学结合在一起，常常与动物合作。
 - **Benjamin Ward-Cherrier** (1) — 布里斯托大学机器人研究者. 机器人研究者，研究类脑触觉传感；他的团队用 FinalSpark 的类器官对人工指尖读取的盲文进行分类。
@@ -4422,6 +5199,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Bert De Roo** (1) — 设计研究者，Umwelt-sketch 方法的共同作者. 研究者，开发把非人类视角带入设计工作坊的实用方法。
 - **Biohm** (1) — 生产菌丝体建材的生物制造公司. Biohm 由 Ehab Sayed 于 2016 年创立，生产菌丝体保温板和用食品及工业废料制成的板材 Orb。 https://www.biohm.co.uk/
 - **Biomason** (1) — 由 Ginger Krieg Dosier 创立的生物水泥公司. 建筑师 Ginger Krieg Dosier 发明了用细菌生长砌块的方法，并创立 Biomason 生产生物水泥瓷砖和砌块。 https://biomason.com/
+- **Biomemory** (1) — DNA 数据存储公司，法国国家科学研究中心与索邦大学的衍生企业. 用工程细胞制造的 DNA 存储数据，并为数据中心开发 DNA 存储的公司。 https://www.biomemory.com/
 - **Blast Studio** (1) — 用活体菌丝体做 3D 打印的设计工作室. Blast Studio 由 Paola Garnousset 和 Arthur Lee 共同创立，用纸杯等废料进行打印，再让菌丝体长满打印件。 https://www.blast-studio.com/
 - **Block Research Group** (1) — 苏黎世联邦理工学院 Philippe Block 领导的研究组. Block Research Group 研究纯受压结构、壳体设计和结构找形。 https://block.arch.ethz.ch/
 - **Blond & Bieber** (1) — Essi Johanna Glomb 与 Rasa Weber 的设计工作室. Blond & Bieber 用微藻作为纺织印染和表面材料的颜色来源。 https://www.blondandbieber.com/
@@ -4432,6 +5210,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **C-Lab (Laura Cinti & Howard Boland)** (1) — 艺术-科学工作室. Laura Cinti 与 Howard Boland 在伦敦的工作室，用细菌、植物和生物技术制作活体装置。 https://www.c-lab.co.uk
 - **Carla Alcalà Badias** (1) — 艺术家. 西班牙艺术家，常与海洋科学家合作，用声音、沉积物和微生物创作。
 - **Carole Collet** (1) — 可持续未来设计教授；中央圣马丁学院 Design & Living Systems Lab 负责人. Carole Collet 在伦敦艺术大学中央圣马丁学院研究纺织设计、仿生学和合成生物学。 https://www.carolecollet.com/
+- **Catalog** (1) — DNA 数据存储与计算初创公司（核心资产于 2026 年被 Biomemory 收购）. 公司开发了用预制 DNA 片段写入数据的机器，并在 2019 年把英文维基百科存进了 DNA。 https://www.catalogdna.com/
 - **Cecilia Jonsson** (1) — 艺术家. 瑞典艺术家，使用金属、矿物和生物材料创作，常从生命体中提取铁。 https://www.ceciliajonsson.com
 - **Chadwick A. Wingrave** (1) — HCI 研究者，完成该研究时任职于中佛罗里达大学. 三维交互研究者，探索了面向狗和主人的严肃游戏。
 - **Charles M. Lieber** (1) — 纳米科学家，哈佛大学化学系前教授. 化学家，开创了可与活体组织融合的纳米线和大孔网状电子，包括三维“赛博”组织支架。
@@ -4441,10 +5220,11 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Chidi Usanga** (1) — 利默里克大学研究者. 参与式设计研究者，关注河流以及可持续发展中的非人类利益相关者。
 - **Chris Woebken** (1) — 设计师、研究者；Extrapolation Factory 联合创办人. Chris Woebken 是一位设计研究者，毕业于皇家艺术学院 Design Interactions 专业，制作思辨性的可穿戴设备并开发参与式未来方法。 https://www.chriswoebken.com
 - **Christa Sommerer & Laurent Mignonneau** (1) — 媒体艺术二人组，林茨艺术与设计大学界面文化系教授. Christa Sommerer 和 Laurent Mignonneau 自 1990 年代初开始创作关于人工生命的交互艺术。
-- **Christopher Voigt** (1) — 麻省理工学院生物工程教授. Christopher Voigt 设计基因电路和可编程细菌，从能感光的大肠杆菌到“活体电路板”。
 - **City of Melbourne Urban Forest team** (1) — 墨尔本市政府城市森林团队. 墨尔本市政府管理约七万棵公共树木，并把它们发布在开放的 Urban Forest Visual 地图上。 https://www.melbourne.vic.gov.au
 - **Colorifix** (1) — 用工程微生物给纺织品染色的生物技术公司. Colorifix 由合成生物学家 Orr Yarkoni 和 Jim Ajioka 于 2016 年创立，用工程细菌生产染料并把它固定在织物上。 https://colorifix.com/
 - **Damanhur** (1) — 皮埃蒙特的生态社区；Music of the Plants 的研究团队. 1970 年代建立的意向社区，其研究者开发了把植物电信号变化转成 MIDI 音乐的设备，现以 Plant Music 品牌销售。 https://www.plantmusic.com/
+- **Damien Woods** (1) — 爱尔兰梅努斯大学计算机科学教授. 计算机科学家，研究分子计算和自组装理论。
+- **Daniel Preston** (1) — 莱斯大学机械工程助理教授，Preston 创新实验室负责人. 工程师，研究软体机器人与能源，提出“死体机器人学”（necrobotics）这一概念。
 - **Danielle Trofe** (1) — 设计师；MushLume Lighting 创始人. Danielle Trofe 于 2011 年创立工作室，2014 年开始与 Ecovative 合作，用菌丝体和大麻纤维生长灯罩。 https://danielletrofe.com/
 - **Dasha Tsapenko** (1) — 设计师. 旅居荷兰的乌克兰设计师，使用真菌、植物和生长出来的纺织品进行设计。
 - **David H. Gracias** (1) — 约翰斯·霍普金斯大学化学与生物分子工程教授. 以自折叠微器件闻名的工程师。他的团队做出了能像贝壳一样合拢、包住脑类器官的三维微电极阵列。
@@ -4453,9 +5233,9 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Dirk Hebel** (1) — 卡尔斯鲁厄理工学院可持续建造教授. Dirk Hebel 研究种植出来和回收再生的建筑材料，包括竹复合材料和菌丝体。 https://nb.ieb.kit.edu/
 - **Donna Haraway** (1) — 加州大学圣克鲁兹分校意识史系杰出荣誉教授. 女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。
 - **Earth Species Project** (1) — 由 Aza Raskin 和 Britt Selvitelle 共同创办的非营利 AI 研究实验室. Earth Species Project 开发机器学习模型和基准，用来解码动物交流。 https://www.earthspecies.org
-- **Eduardo Reck Miranda** (1) — 普利茅斯大学计算机音乐教授，计算机音乐跨学科研究中心（ICCMR）负责人. 作曲家，研究非常规计算与音乐，从生物计算机到量子计算机。
 - **Eldy S. Lazaro Vasquez** (1) — 设计师与人机交互研究者（生物材料与可穿戴）. Eldy S. Lazaro Vasquez 用菌丝体、细菌纤维素等生物材料设计可持续的可穿戴设备和原型方法。
 - **Eleni Stavrinidou** (1) — 林雪平大学有机电子实验室副教授，Electronic Plants 研究组负责人. Eleni Stavrinidou 在活植物体内长出导电聚合物导线、传感器和超级电容器。
+- **Ella Gale** (1) — 忆阻器与非常规计算研究者，曾任职于英国西英格兰大学. 化学家与计算机科学家，研究黏菌、蛋白质等软物质中的忆阻行为。
 - **Embassy of the North Sea** (1) — 把北海作为政治主体来代表的研究与设计机构. 北海大使馆成立于 2018 年，与艺术家、律师、科学家和渔民合作，先学习倾听大海、再与之对话，最终代表大海谈判。 https://www.embassyofthenorthsea.com
 - **Emilia Tapprest** (1) — 设计师、电影创作者. 芬兰设计师和电影创作者，拍摄关于技术、身体与生态的思辨影像。
 - **Emma van der Leest** (1) — 生物设计师；BlueCity Lab 创始人. 荷兰生物设计师，培育细菌纤维素皮革等材料，并在鹿特丹运营生物设计实验室 BlueCity Lab。
@@ -4466,8 +5246,10 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Forensic Architecture** (1) — 伦敦大学金史密斯学院的研究机构，由 Eyal Weizman 领导. Forensic Architecture 用空间、建筑和媒体分析调查国家与企业的暴力，其中也包括对环境的暴力。 https://forensic-architecture.org
 - **Frank Noz** (1) — 设计师，Cat Cat Revolution 的共同创作者. 设计师，制作了猫和主人一起玩的 iPad 游戏。
 - **Gavin Munro** (1) — 设计师；Full Grown 联合创始人. Gavin Munro 与 Alice Munro 共同创立 Full Grown，在沃克斯沃斯附近的农场把活树长成椅子、灯和桌子。 https://fullgrown.co.uk/
+- **Gizem Gumuskaya** (1) — 研究者；在塔夫茨大学 Michael Levin 实验室读博期间开发了 Anthrobots；本科在麻省理工学院学建筑. 从建筑转向合成形态学的研究者，用成人人体细胞制造多细胞机器人。
 - **Glowee** (1) — 用发光细菌照明的初创公司. Glowee 由 Sandra Rey 于 2014 年创立，用海洋发光细菌为橱窗、活动和城市提供照明。 https://www.glowee.com/
 - **Heather Dewey-Hagborg** (1) — 艺术家、生物黑客. Heather Dewey-Hagborg 是美国艺术家，作品关注基因监控和 DNA 表型推断。 https://deweyhagborg.com
+- **Heiko Hamann** (1) — 康斯坦茨大学计算机科学教授，flora robotica 项目协调人. 机器人学家，研究群体机器人和机器人-植物生物混合体。
 - **Henk Jonkers** (1) — 代尔夫特理工大学可持续建筑材料教授. 微生物学家 Henk Jonkers 研发了基于细菌的自愈混凝土，由衍生公司 Basilisk 推向市场。 https://basiliskconcrete.com/en/
 - **Het Nieuwe Instituut** (1) — 荷兰国家建筑、设计与数字文化机构. Het Nieuwe Instituut 是一家博物馆兼研究机构，其研究团队（由 Klaas Kuitenbrouwer 领导）提出了 Zoöp 模型。 https://zoop.hetnieuweinstituut.nl/en
 - **Hirokazu Takahashi** (1) — 东京大学机械信息学教授. 工程师，他的实验室把活体神经元培养物当作物理储备池来控制机器人。
@@ -4478,6 +5260,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Ivan Poupyrev** (1) — 交互研究者；曾任职迪士尼研究院与 Google ATAP（Project Soli、Jacquard）. Ivan Poupyrev 发明了 Touché、Botanicus Interacticus、Soli 雷达和 Jacquard 智能织物等感知技术。 http://www.ivanpoupyrev.com/
 - **J. Lomax Boyd** (1) — 约翰斯·霍普金斯大学伯曼生命伦理研究所助理教授. 神经科学家和生命伦理学家，研究公众和专家如何看待脑类器官与具身生物计算。
 - **Jalila Essaïdi** (1) — 艺术家、生物创业者. Jalila Essaïdi 是荷兰艺术家，材料从蛛丝皮肤到粪便制成的新材料。 https://jalilaessaidi.com
+- **James J. Collins** (1) — 麻省理工学院医学工程与科学 Termeer 讲席教授. 生物工程师，合成生物学的奠基人之一，构建了基因拨动开关，后来又开发纸基无细胞诊断。 https://collinslab.mit.edu/
 - **Jana Winderen** (1) — 使用水听器和超声录音的声音艺术家. 受过数学、化学和鱼类生态学训练，Winderen 在海洋、冰层和河流中录制人类通常听不到的声音，并把它们作成多声道装置。 https://www.janawinderen.com/
 - **Jane Bennett** (1) — 约翰斯·霍普金斯大学政治学教授. 政治理论家，提出“活力唯物主义”，认为物与材料有其自身的能动性。
 - **Jen Liu** (1) — 设计师与研究者，康奈尔大学博士. 设计研究者，制作了采蘑菇用的可穿戴工具，研究人与真菌如何共同生存。 https://jenliujenliu.com/
@@ -4487,42 +5270,53 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Jodi Forlizzi** (1) — 卡内基梅隆大学人机交互研究所教授. Jodi Forlizzi 是交互设计研究者，以产品体验、机器人和服务设计方面的研究著称。
 - **Joe Davis** (1) — 艺术家；MIT 与哈佛医学院研究员. Joe Davis 是美国艺术家，自 1980 年代起就在分子生物学实验室里创作。
 - **John A. Rogers** (1) — 美国西北大学材料科学与生物医学工程教授. 材料科学家，以生物集成电子和三维组装电子闻名，包括可包裹神经球体的弹出式三维框架。 https://rogersgroup.northwestern.edu
+- **John LaRocco** (1) — 俄亥俄州立大学医学院研究科学家. 工程师，把香菇菌丝体培养成忆阻器等电子元件。
 - **Jonas Edvard** (1) — 材料设计师. Jonas Edvard 是丹麦设计师，用菌丝体、海藻和石头制作灯具、砖、椅子和小屋。 https://www.jonasedvard.com/
 - **Jonathan Ho** (1) — 艺术家. 艺术家，装置融合神话、生物学与性别议题，曾与蜗牛生物学家 Joris Koene 合作研究雌雄同体。
 - **Josiah Hester** (1) — 佐治亚理工学院副教授，领导研究可持续无电池计算的 Ka Moamoa 实验室. Josiah Hester 研究由环境供能的无电池、间歇式计算系统。
 - **Julia Lohmann** (1) — 设计师；阿尔托大学当代设计教授；Department of Seaweed 创始人. Julia Lohmann 于 2013 年在 V&A 担任驻馆设计师时创立 Department of Seaweed，把海带当作类皮革材料来使用。 https://www.julialohmann.co.uk/
+- **Karen Alim** (1) — 慕尼黑工业大学生物网络理论教授. 物理学家，研究黏菌等生物体内的流动网络如何储存信息、做出决策。
+- **Karin Strauss** (1) — 微软研究院高级首席研究经理，华盛顿大学兼职教授. 计算机体系结构学者，领导微软的 DNA 数据存储研究。
 - **Karola V. Kreitmair** (1) — 威斯康星大学麦迪逊分校医学史与生命伦理学助理教授. 生命伦理学家，研究神经技术，以及对意识的不确定性应如何影响脑类器官研究。
 - **Kasia Molga** (1) — 艺术家、设计师；Studio Molga. 出生于波兰的艺术家，用环境与生物数据、AI 和活体生物创作；2013 年与 Erik Overmeire、Ivan Henriques 共同创立 World Wilder Lab。 https://www.studiomolga.com/
 - **Katia Vega** (1) — 加州大学戴维斯分校设计系副教授；Interactive Organisms Lab 负责人. Katia Vega 创作美妆科技和交互式可穿戴设备，包括生物传感纹身和生物材料饰品。 https://www.katiavega.com/
 - **Keel Labs (formerly AlgiKnit)** (1) — 生产海带基纱线的材料公司. Keel Labs 原名 AlgiKnit，2017 年由 Tessa Callaghan 和 Aleksandra Gosiewski 创立，用海带中提取的海藻酸盐生产 Kelsun 纱线。 https://www.keellabs.com/
 - **Kenichi Okada** (1) — 设计师；皇家艺术学院 Design Interactions 毕业. Kenichi Okada 是日本交互设计师，在皇家艺术学院与 Chris Woebken 共同创作了 Animal Superpowers。
+- **Kenjiro Fukuda** (1) — 日本理化学研究所（RIKEN）薄膜器件实验室资深研究员. 工程师，开发超薄有机太阳能电池和电子器件，可贴在皮肤、植物和昆虫身上。
 - **Kenneth S. Kosik** (1) — 加州大学圣塔芭芭拉分校神经科学教授. 神经科学家，他的实验室用高密度 CMOS 微电极阵列记录人类脑类器官，绘制其神经回路和振荡。
 - **Kevin Warwick** (1) — 考文垂大学工程学荣休教授，曾任职于雷丁大学. 控制论研究者，以在自己身上做植入实验闻名；他在雷丁大学的团队做出了由培养的大鼠神经元驱动的轮式机器人 Gordon。
 - **Koniku** (1) — 用活体神经元制造气味传感器的湿件初创公司. Koniku 由 Oshiorenoya Agabi 于 2015 年创立，把带有嗅觉受体的工程神经元与硅结合，用于检测爆炸物和疾病。 https://koniku.com
 - **Kristina Lindström** (1) — 马尔默大学艺术与传播学院设计研究者. 参与式设计研究者，与 Åsa Ståhl 合作研究塑料、堆肥以及在设计的余波中生活。
 - **Kuai Shen** (1) — 艺术家. Kuai Shen（Kuai Shen Auson）是厄瓜多尔艺术家，与蚂蚁群落合作创作装置。
 - **Kuang-Yi Ku** (1) — 生物艺术家，受过牙医训练. 台湾生物艺术家和研究者，用生物技术和思辨性解剖学探讨酷儿性与身体。
+- **Leonard Adleman** (1) — 南加州大学计算机科学教授. 计算机科学家，RSA 加密算法的共同发明人，DNA 计算的开创者。
 - **Leonardo Angelini** (1) — 瑞士西部应用科学大学（HES-SO）弗里堡校区教授. Leonardo Angelini 为老年人和日常物件设计实体交互界面。
 - **Livin Studio** (1) — Katharina Unger 与 Julia Kaisinger 的设计工作室. Livin Studio 由 Katharina Unger 和 Julia Kaisinger 创立，设计昆虫农场、真菌培养器等食物系统。 https://katharinaunger.com/
 - **Living Colour** (1) — 设计师 Laura Luchtman（Kukka）与 Ilfa Siebenhaar 的研究项目. Living Colour 于 2016 年与鹿特丹应用科技大学合作开始，直接在布料上培养产色素的细菌。 https://livingcolour.eu/
 - **Living Things (Jacob Douenias & Ethan Frier)** (1) — 建筑设计师 Jacob Douenias 与工业设计师 Ethan Frier 的合作. Jacob Douenias 和 Ethan Frier 为活体螺旋藻设计了生物反应器家具，2015 年在 Mattress Factory 展出。 http://www.ethanfrier.com/living-things
 - **Lone Koefoed Hansen** (1) — 奥胡斯大学数字设计与信息研究系副教授. 交互设计研究者，制作植物与电子结合的实验，改变人们感知植物的方式。
+- **Luis Ceze** (1) — 华盛顿大学计算机科学与工程教授，MISL 共同负责人. 计算机体系结构学者，共同领导 DNA 存储与计算研究。
 - **MIT Design Lab** (1) — 麻省理工学院的设计研究实验室. MIT Design Lab 与产业伙伴合作做面向未来产品的设计研究，包括与 Puma 合作的运动装备生物设计。 https://design.mit.edu/
 - **Magnus Larsson** (1) — 建筑师. Magnus Larsson 是瑞典建筑师，以用细菌固化沙漠沙丘的方案闻名。
 - **Maja Smrekar** (1) — 艺术家. Maja Smrekar 是斯洛文尼亚艺术家，创作涉及生物技术和人与动物的共同进化。 https://www.majasmrekar.org
 - **Maliheh Ghajargar** (1) — 马尔默大学物联网与人研究中心研究者. 交互设计研究者，关注实体交互、人工智能和多物种叙事。
 - **Marcos Cruz** (1) — 伦敦大学学院巴特利特建筑学院创新环境教授；BiotA Lab 联合负责人. Marcos Cruz 是建筑师，设计能吸引苔藓、地衣和藻类生长的“生物接纳”立面。
 - **Marta de Menezes** (1) — 艺术家；Cultivamos Cultura 负责人. Marta de Menezes 是葡萄牙艺术家，自 1999 年起在生物实验室里创作。 https://martademenezes.com
+- **Martin Kaltenbrunner** (1) — 林茨约翰·开普勒大学软物质物理系教授. 物理学家，研究柔软、可拉伸、可降解的电子器件和机器人。 https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
 - **Martin Tomitsch** (1) — 设计与交互教授，曾任悉尼大学 Design Lab，现任职于悉尼科技大学. 交互设计研究者，关注城市、城市界面和以地球为中心的设计。
 - **Martín Tironi** (1) — 智利天主教大学设计学院副教授. 设计与科学技术研究学者，关注智慧城市、算法和后人类中心的设计。
 - **Matthijs Munnik** (1) — 艺术家. 荷兰艺术家，创作关于感知、光与生命系统的视听装置。
 - **Max Rheiner** (1) — 媒体艺术家；Birdly 创作者；Somniacs 创始人. 瑞士交互设计师，2013–14 年在苏黎世艺术大学制作全身飞行模拟器 Birdly，之后创立 Somniacs 公司生产它。
+- **Metin Sitti** (1) — 机器人学家，马克斯·普朗克智能系统研究所物理智能部门创始主任. 机器人学家，研究微尺度、软体和仿生机器人，包括由细菌推动的微型机器人。 https://pi.is.mpg.de/
+- **Michael Elowitz** (1) — 加州理工学院生物学与生物工程教授，霍华德·休斯医学研究所研究员. 生物学家，构建了最早的合成基因电路之一“抑制振荡子”，并研究细胞如何计算。 https://www.elowitz.caltech.edu/
 - **Michael Haldrup** (1) — 罗斯基勒大学传播与艺术系教授. 研究表演设计与参与式空间设计。
 - **Michael Sedbon** (1) — 艺术家. 法国艺术家，搭建由算法管理蓝藻等活体培养物的人工生态系统。
 - **Michela Chiappalone** (1) — 热那亚大学生物工程副教授，曾任职于意大利技术研究院. 生物工程师，把模块化的神经元培养物接入闭环机器人导航任务。
 - **Mike Thompson** (1) — 设计师. Mike Thompson 是一位设计师，创作关于能源和日常生活的思辨产品。
+- **Milan Stojanovic** (1) — 哥伦比亚大学医学与生物医学工程教授. 化学家，制造了能和人下井字棋的 DNA 酶自动机 MAYA。
 - **Modern Meadow** (1) — 生产蛋白质基材料的生物制造公司. Modern Meadow 由 Andras Forgacs 创立，用发酵生产的蛋白质开发类皮革材料。 https://www.modernmeadow.com/
 - **Mogu** (1) — 生产菌丝体室内产品的意大利公司. Mogu 于 2015 年与设计师 Maurizio Montalti 共同创立，用真菌菌丝体和纺织或农业残料生长出吸音板和地砖。 https://mogu.bio/
+- **Molecular Information Systems Lab (MISL)** (1) — 华盛顿大学与微软研究院联合实验室. 构建 DNA 数据存储和分子计算系统的实验室，从随机读取到全自动存储。 https://misl.cs.washington.edu/
 - **Nadia Campo Woytuk** (1) — 瑞典皇家理工学院（KTH）交互设计研究者. Nadia Campo Woytuk 从事面向私密健康的女性主义 HCI 研究，包括月经和阴道微生物组。
 - **Nancy Smith** (1) — HCI 研究者，印第安纳大学博士. 研究城市家庭农庄等人与自然混合安排及其设计意义。
 - **National Academies of Sciences, Engineering, and Medicine** (1) — 为科学政策提供咨询的美国非营利机构. 独立的美国机构，发布共识报告；2021 年评估了人类神经类器官、移植和嵌合体的科学与伦理。 https://www.nationalacademies.org
@@ -4530,6 +5324,8 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Ned Cooper** (1) — 澳大利亚国立大学控制论学院研究者. 研究者，把心灵哲学用于与树木等非人类进行的参与式设计。
 - **Nefeli Manoudaki** (1) — 加州大学圣塔芭芭拉分校媒体艺术与技术项目的媒体艺术家与研究者. 建筑师和媒体艺术家，与团队共同创作了由脑类器官活动记录驱动的装置《Simulacra Naturae》。
 - **New Reality Company** (1) — Milica Zec 与 Winslow Porter 的 VR 工作室. 由导演 Milica Zec 和制作人 Winslow Porter 创立，代表作为 VR 作品《Giant》（2016）和《Tree》（2017）。 https://www.treeofficial.com/
+- **Nick Goldman** (1) — 欧洲分子生物学实验室欧洲生物信息研究所（EMBL-EBI）课题组长. 生物信息学家，与 Ewan Birney 一起设计了一种容错的合成 DNA 文件存储方案。
+- **Nicole Xu** (1) — 科罗拉多大学博尔德分校机械工程助理教授. 生物工程师，把微电子装置嵌入活水母体内，控制并加快它们的游动。
 - **Nienke Hoogvliet** (1) — 设计师；Studio Nienke Hoogvliet 创始人. Nienke Hoogvliet 用海藻、鱼皮和污水处理厂的副产品制作纺织品、染料和皮革。 https://www.nienkehoogvliet.nl/
 - **Ninela Ivanova** (1) — 设计研究者与策略师. Ninela Ivanova 是研究生物制造和材料未来的设计研究者。 https://www.ninelaivanova.co.uk/
 - **Nita A. Farahany** (1) — 杜克大学法学与哲学教授. 研究神经技术的法学学者和伦理学家，2018 年在《自然》上牵头呼吁为人脑组织、类器官和嵌合体实验制定伦理规则。 https://law.duke.edu/fac/farahany
@@ -4538,6 +5334,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Paolo Bombelli** (1) — 剑桥大学生物化学系生物化学家，生物光伏研究者. Paolo Bombelli 研发生物光伏系统，从苔藓、藻类等光合生物中收集电能。
 - **Pascal Leboucq** (1) — 舞台设计师与艺术家. Pascal Leboucq 是荷兰舞台设计师，与 Biobased Creations 一起发起了 Growing Pavilion。 https://thegrowingpavilion.com/
 - **Patricia Pons** (1) — 瓦伦西亚理工大学研究者. 研究者，用深度摄像头为猫和其他动物搭建智能游戏环境。
+- **Paul Rothemund** (1) — 加州理工学院生物工程、计算与数学科学、计算与神经系统研究教授. 计算机科学家，发明了 DNA 折纸：用短的“订书钉”链把一条长 DNA 折成任意二维形状。
 - **Paul Vanouse** (1) — 艺术家；纽约州立大学布法罗分校教授. Paul Vanouse 是美国艺术家，在表演中使用分子生物学技术。 https://www.paulvanouse.com
 - **Pei-Ying Lin** (1) — 设计师、艺术家. 台湾设计师和研究者，以病毒、微生物和人与非人关系为主题创作思辨作品。 https://peiyinglin.net
 - **Philip Beesley** (1) — 建筑师、艺术家；滑铁卢大学教授；Living Architecture Systems Group 负责人. Philip Beesley 建造沉浸式响应环境，让它们像“近乎活着”的系统一样运作。 https://www.philipbeesleystudioinc.com
@@ -4551,16 +5348,23 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Rachel Clarke** (1) — 纽卡斯尔大学 Open Lab 高级讲师. 参与式设计研究者，关注城市、可持续性和超越人类的参与。
 - **Rainforest Connection** (1) — 由 Topher White 创办的保护技术非营利组织. Rainforest Connection（RFCx）用回收手机制作太阳能声学监测器，在森林中监听电锯声和野生动物。 https://rfcx.org
 - **Ren Ri** (1) — 艺术家、养蜂人. 中国艺术家（生于 1984 年），通过引导蜂群在框架和亚克力盒中筑巢来制作蜂蜡雕塑。
+- **Ritu Raman** (1) — 麻省理工学院机械工程助理教授. 工程师，用活的肌肉和神经组织制造会适应的机器，也撰写关于生物制造的书。
+- **Rob Shepherd** (1) — 康奈尔大学机械与航空航天工程学院教员，有机机器人实验室主任. 机器人学家，研究软体机器人、传感皮肤，以及由生物系统驱动或控制的机器人。 https://orl.mae.cornell.edu/
+- **Robert Grass** (1) — 苏黎世联邦理工学院化学与生物工程研究所教授. 化学工程师，把 DNA 封装在玻璃纳米颗粒里，让数据能保存数百年，并能混入材料中。
 - **Roya Aghighi** (1) — 设计师. Roya Aghighi 是伊朗裔加拿大设计师，与不列颠哥伦比亚大学的实验室合作开发会光合作用的活体织物。
+- **Ryohei Kanzaki** (1) — 东京大学先端科学技术研究中心教授. 神经行为学家，研究家蚕蛾如何追踪气味，并使用由活蛾驾驶的机器人。
 - **SPACE10** (1) — 由 IKEA 支持的研究与设计实验室. SPACE10 在 2024 年之前通过展览和原型探索未来的居住、食物和城市。 https://space10.com/
 - **Samar Khan** (1) — 设计师、研究者. 设计师和研究者，与 Emilia Tapprest 共同创作影片 Ecotonal Beings。
 - **Sascha Pohflepp** (1) — 设计师、艺术家（1978–2019）. Sascha Pohflepp 是德国设计师，思辨作品关注技术、能源与合成生物学。
+- **Sawyer Fuller** (1) — 华盛顿大学机械工程系教员，自主昆虫机器人实验室负责人. 机器人学家，制造昆虫尺寸的飞行机器人，以及借用昆虫生物结构的传感器。
 - **Saša Spačal** (1) — 艺术家. Saša Spačal 是斯洛文尼亚艺术家，创作连接人体与真菌的装置。 https://www.agapea.si
 - **Scenocosme** (1) — 艺术家二人组 Grégory Lasserre 与 Anaïs met den Ancxt. Scenocosme 创作以植物、木头和身体为媒介的交互装置，对触摸和人体生物电作出反应。 https://www.scenocosme.com/
 - **Sebastian Cox** (1) — 家具设计师与制作人. Sebastian Cox 用矮林作业的英国硬木设计家具，并经营自己的林地。 https://www.sebastiancox.co.uk/
+- **Seth Shipman** (1) — 格拉德斯通研究所副研究员，加州大学旧金山分校副教授. 生物工程师，把活细胞变成记录器，让它们把发生的事件写进自己的 DNA。 https://gladstone.org/people/seth-shipman
 - **Shimabuku** (1) — 艺术家. 日本艺术家，Shimabuku 充满趣味的行动与物件常常是为动物、尤其是章鱼和鱼而做，或与它们一起完成。 http://www.shimabuku.net/
 - **Shimon Marom** (1) — 以色列理工学院生理学教授. 神经生理学家，2001 年证明：当刺激的停止被用作奖励时，培养的皮层网络可以学会一个刺激-反应任务。
 - **Sissel Marie Tonn** (1) — 艺术家. 丹麦艺术家，研究型作品关注具身性、污染以及身体如何感知环境。
+- **Soichiro Tsuda** (1) — 生物计算与非常规计算研究者，在南安普顿大学搭建了黏菌控制的机器人. 计算机科学家，与 Klaus-Peter Zauner 和郡司幸夫合作，把活的黏菌细胞用作步行机器人的控制器。
 - **Sonia Levy** (1) — 艺术家、电影人. 生于法国的艺术家，其影片观察人与珊瑚、运河生物等其他物种如何共同生活。
 - **Sonja Bäumel** (1) — 艺术家. Sonja Bäumel 是奥地利艺术家，与生活在人体表面和周围的微生物合作。 https://www.sonjabaeumel.at
 - **Spiber** (1) — 生产 Brewed Protein 纤维的日本公司. Spiber 于 2007 年在庆应义塾大学创立，用微生物发酵设计好的结构蛋白，再纺成纤维和薄膜。 https://spiber.inc/en/
@@ -4572,6 +5376,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Timothy Merritt** (1) — 奥尔堡大学计算机科学系副教授. Timothy Merritt 研究形变界面、实体界面和活体媒介界面。
 - **Tony Fry** (1) — 设计理论家，The Studio at the Edge of the World 创始人. 设计哲学家，写作关于“持续”“去未来化”以及不可持续之后的设计。
 - **United Visual Artists** (1) — 以光、声音和代码创作的艺术与设计工作室. 由 Matt Clark 于 2003 年在伦敦创立，用光、声音和软件制作大型装置。 https://www.uva.co.uk/
+- **Victoria Webster-Wood** (1) — 卡内基梅隆大学机械工程副教授，生物混合与有机机器人课题组负责人. 工程师，用海兔（Aplysia）的肌肉、神经组织和有机材料制造生物混合机器人。 https://engineering.cmu.edu/borg/
 - **Vito Gentile** (1) — 巴勒莫大学泛在系统与界面组研究者. Vito Gentile 研究公共空间中的泛在显示与无接触交互。
 - **Werner Aisslinger** (1) — 工业设计师；Studio Aisslinger 创始人. Werner Aisslinger 设计家具、室内以及 Hemp Chair 等实验性材料项目。 https://aisslinger.de/
 - **Wild Me** (1) — Wildbook 的开发机构，现属 Conservation X Labs. Wild Me 开发开源软件，从研究者和公众提供的照片中识别动物个体。 https://www.wildme.org
@@ -4579,6 +5384,8 @@ https://morethanhuman.reality.design · 2026-09-27 · 304 位创作者 · 481 �
 - **Wolfgang Buttress** (1) — 艺术家、雕塑家. 英国艺术家，常与科学家合作创作关于景观与自然的大型雕塑，最知名的作品是由实时蜜蜂信号驱动的 The Hive。 https://www.wolfgangbuttress.com/
 - **Xandra van der Eijk** (1) — 艺术家. 荷兰艺术家，用声音、材料和长期研究关注生态变化、景观与海洋。
 - **Xiaodong Chen** (1) — 新加坡南洋理工大学材料科学与工程教授. 陈晓东（Xiaodong Chen）研发与生物贴合的柔性电子，包括贴附在植物上的电极。
+- **Yannick Rondelez** (1) — 法国国家科学研究中心研究主任，巴黎高等物理化工学院 Gulliver 实验室. 化学家，用 DNA 和酶构建会振荡、计算和决策的动态分子程序。
+- **Yu Fukasawa** (1) — 东北大学农学研究科副教授. 真菌生态学家，研究木腐真菌和菌根网络如何感知、记忆和传递信号。
 - **ZKM | Center for Art and Media Karlsruhe** (1) — 艺术与媒体博物馆及研究中心. ZKM 是德国的媒体艺术机构，制作关于技术、科学与社会的大型主题展览。 https://zkm.de
 - **Zena Holloway** (1) — 摄影师与生物设计师；Rootfull 创始人. 前水下摄影师 Zena Holloway 于 2018 年创立 Rootfull，在蜂蜡模板中用草根生长织物和物件。 https://www.zenaholloway.com/
 - **Zhenan Bao** (1) — 斯坦福大学化学工程教授. 材料科学家，研究类皮肤的可拉伸电子，包括能随类器官生长而变形的剪纸（kirigami）电极薄片。 https://baogroup.stanford.edu

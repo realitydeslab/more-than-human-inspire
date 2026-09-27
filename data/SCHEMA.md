@@ -75,9 +75,10 @@ python3 tools/check_media.py --og <project-page-url>      # lists og:image / twi
 
 ## Collections
 A collection is a named set of works: the systems analysed in a survey paper, the winners of an award.
-Defined in `data/taxonomy.json` → `collections` (`id, en, zh, desc_en, desc_zh, url`, optional `work` = the survey paper's work id).
+Defined in `data/taxonomy.json` → `collections` (`id, type, en, zh, desc_en, desc_zh, url`, optional `work` = the survey paper's work id). `type`: `survey` | `award` | `exhibition` | `venue`.
 A work joins by listing the id in its `collections`, or by adding its work id to `data/collections/<collection-id>.json`
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
+New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
 
 ## Lead (person/lab found but not researched in this batch)
 ```json

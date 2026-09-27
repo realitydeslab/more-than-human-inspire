@@ -106,7 +106,9 @@ def dedupe(works: list) -> list:
             keys.append(f"doi:{_doi(w['paper'])}")
         if w["video"].get("id"):
             keys.append(f"v:{w['video']['platform']}:{w['video']['id']}")
-        cur = next((index[k] for k in keys if k in index), None)
+        # same DOI only means same work when the titles agree too: one paper can present several artifacts
+        cur = next((index[k] for k in keys if k in index
+                    and (not k.startswith("doi:") or _similar(index[k].get("title", ""), w.get("title", "")) >= 0.6)), None)
         if cur is None:
             w["creator_ids"] = list(dict.fromkeys(w.get("creator_ids", [])))
             out.append(w)
@@ -265,6 +267,9 @@ def classify_leads(leads: list, creators: dict) -> tuple[list, list]:
 def main() -> None:
     recheck = "--recheck" in sys.argv
     tax = json.loads(TAXONOMY.read_text())
+    for f in sorted((COLLECTIONS / "defs").glob("*.json")) if (COLLECTIONS / "defs").exists() else []:
+        known = {c["id"] for c in tax["collections"]}
+        tax["collections"] += [c for c in json.loads(f.read_text()) if c["id"] not in known]
     subs = {f["id"]: {s["id"] for s in f["subs"]} for f in tax["fields"]}
     creators, works, leads = load_raw()
     ov = json.loads(OVERRIDES.read_text()) if OVERRIDES.exists() else {}

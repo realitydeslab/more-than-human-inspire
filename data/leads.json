@@ -416,6 +416,142 @@
   "batch": "biohybrid-hci"
  },
  {
+  "name": "Ioannis Ieropoulos (Bristol Robotics Laboratory)",
+  "why": "EcoBot robots powered by microbial fuel cells that digest flies and waste; Pee Power urine-fuelled electricity.",
+  "link": "https://www.brl.ac.uk/",
+  "found_via": "andrew-adamatzky",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Heather Barnett",
+  "why": "The Physarum Experiments: art and pedagogy with slime mould, crowd-behaviour workshops; likely bio-art scope.",
+  "link": "https://heatherbarnett.co.uk/",
+  "found_via": "toshiyuki-nakagaki",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Klaus-Peter Zauner (University of Southampton)",
+  "why": "Co-built the Physarum-controlled robot; molecular and cellular computing for robot control.",
+  "link": "https://www.southampton.ac.uk/people/5x2n5m/doctor-klaus-peter-zauner",
+  "found_via": "soichiro-tsuda",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Yukio-Pegio Gunji",
+  "why": "Physarum and soldier-crab swarm computing; co-author of the slime-mould robot.",
+  "link": "https://www.waseda.jp/",
+  "found_via": "soichiro-tsuda",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Sage Jenson",
+  "why": "Widely shared Physarum simulations (based on Jeff Jones' model) as digital art.",
+  "link": "https://cargocollective.com/sagejenson/physarum",
+  "found_via": "jeff-jones",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Anna Nikolaidou (UWE Bristol)",
+  "why": "Architect in the Unconventional Computing Lab: fungal and living architecture, 'Living Architecture' (LIAR) project.",
+  "link": "https://uncomp.uwe.ac.uk/",
+  "found_via": "andrew-adamatzky",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Alessandro Chiolerio (IIT)",
+  "why": "Fungal electronics, proteinoid and liquid computing with Adamatzky.",
+  "link": "https://www.iit.it/",
+  "found_via": "andrew-adamatzky",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Joseph Ayers (Northeastern University)",
+  "why": "Cyberplasm: a micro-robot lamprey with engineered muscle and bacterial sensors; biomimetic lobster robots.",
+  "link": "https://www.northeastern.edu/",
+  "found_via": "victoria-webster-wood",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Hillel Chiel (Case Western Reserve University)",
+  "why": "Aplysia neuromechanics and biohybrid sea-slug robots with Webster-Wood.",
+  "link": "https://biology.case.edu/",
+  "found_via": "victoria-webster-wood",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Leonardo Ricotti (Scuola Superiore Sant'Anna)",
+  "why": "Biohybrid muscle actuators and the BioMot swimmer.",
+  "link": "https://www.santannapisa.it/",
+  "found_via": "shoji-takeuchi",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Ritu Raman — Biofabrication (MIT Press, 2021)",
+  "why": "Accessible book on building with living cells; good publication entry.",
+  "link": "https://mitpress.mit.edu/9780262543156/biofabrication/",
+  "found_via": "ritu-raman",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Drew Endy (Stanford)",
+  "why": "Transcriptor (biological transistor, Science 2013), BioBricks and open synthetic biology.",
+  "link": "https://bioengineering.stanford.edu/",
+  "found_via": "christopher-voigt",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Timothy Lu (MIT, now Senti Bio)",
+  "why": "Genomically encoded memory in bacteria (SCRIBE) and analog computing in living cells.",
+  "link": "https://www.mit.edu/",
+  "found_via": "james-collins",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Georg Seelig (University of Washington)",
+  "why": "DNA strand displacement circuits and molecular programming.",
+  "link": "https://homes.cs.washington.edu/~seelig/",
+  "found_via": "lulu-qian",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Nadrian (Ned) Seeman",
+  "why": "Founder of structural DNA nanotechnology (1982), origin of DNA origami and tiles.",
+  "link": "https://en.wikipedia.org/wiki/Nadrian_Seeman",
+  "found_via": "paul-rothemund",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "DNA Data Storage Alliance / Twist Bioscience",
+  "why": "Industry standards and synthesis platforms for DNA archives.",
+  "link": "https://dnastoragealliance.org/",
+  "found_via": "molecular-information-systems-lab",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Tosca Terán",
+  "why": "Artist making sound performances from mycelium bioelectrical signals.",
+  "link": "https://toscateran.com/",
+  "found_via": "andrew-adamatzky",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
   "name": "Pierre Huyghe — Exomind (Deep Water)",
   "why": "Living beehive on a concrete figure in a permanent garden at Dazaifu Tenmangu shrine (2017–); image only, could be its own work.",
   "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/17096-pierre-huyghe-exomind-deep-water-2017ongoing/",

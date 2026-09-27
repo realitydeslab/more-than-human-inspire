@@ -25,7 +25,8 @@ TAX = json.loads((ROOT / "data" / "taxonomy.json").read_text())
 FIELDS = {f["id"]: {s["id"] for s in f["subs"]} for f in TAX["fields"]}
 ORGANISMS = {o[0] for o in TAX["organisms"]}
 KINDS = {k[0] for k in TAX["kinds"]}
-COLLECTIONS = {c["id"] for c in TAX.get("collections", [])}
+COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
+    c["id"] for f in (ROOT / "data" / "collections" / "defs").glob("*.json") for c in json.loads(f.read_text())}
 CJK = re.compile(r"[㐀-鿿]")
 
 WORK_EN = ("title", "description", "idea_en", "method")

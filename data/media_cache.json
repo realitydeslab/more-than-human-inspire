@@ -9026,5 +9026,2269 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:75k8sqh5tfQ": {
+  "url": "https://www.youtube.com/watch?v=75k8sqh5tfQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "75k8sqh5tfQ",
+  "title": "Slime mould solves maze: original video",
+  "author": "Andy Adamatzky",
+  "thumbnail": "https://i.ytimg.com/vi/75k8sqh5tfQ/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/75k8sqh5tfQ/hqdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/75k8sqh5tfQ/hqdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/5/58/Blob_%28Physarum_polycephalum%29.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Blob_%28Physarum_polycephalum%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1142/7968": {
+  "doi": "10.1142/7968",
+  "ok": true,
+  "type": "doi",
+  "title": "Physarum Machines",
+  "year": 2010,
+  "venue": "World Scientific Series on Nonlinear Science Series A",
+  "url": "https://doi.org/10.1142/7968"
+ },
+ "video:youtube:CT_zB9XJ7kI": {
+  "url": "https://www.youtube.com/watch?v=CT_zB9XJ7kI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "CT_zB9XJ7kI",
+  "title": "Mushrooms Use Electric Spike Syntax Resembling Words To Talk, New Study",
+  "author": "Anton Petrov",
+  "thumbnail": "https://i.ytimg.com/vi/CT_zB9XJ7kI/hqdefault.jpg"
+ },
+ "img:https://blogs.uwe.ac.uk/research-external-engagement/wp-content/uploads/sites/3/2022/04/mushrrooms.jpg": {
+  "url": "https://blogs.uwe.ac.uk/research-external-engagement/wp-content/uploads/sites/3/2022/04/mushrrooms.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49d0/8984380/3cd48c7b91b5/rsos211926f01.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49d0/8984380/3cd48c7b91b5/rsos211926f01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1098/rsos.211926": {
+  "doi": "10.1098/rsos.211926",
+  "ok": true,
+  "type": "doi",
+  "title": "Language of fungi derived from their electrical spiking activity",
+  "year": 2022,
+  "venue": "Royal Society Open Science",
+  "url": "https://doi.org/10.1098/rsos.211926"
+ },
+ "video:youtube:d8Jwn9VuD0s": {
+  "url": "https://www.youtube.com/watch?v=d8Jwn9VuD0s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "d8Jwn9VuD0s",
+  "title": "Computing With Conscious Fungi | Dr. Andrew Adamatzky | XPANSE 2024",
+  "author": "XPANSE",
+  "thumbnail": "https://i.ytimg.com/vi/d8Jwn9VuD0s/hqdefault.jpg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49a6/6227805/0820f15791d1/rsfs20180029-g1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49a6/6227805/0820f15791d1/rsfs20180029-g1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1098/rsfs.2018.0029": {
+  "doi": "10.1098/rsfs.2018.0029",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards fungal computer",
+  "year": 2018,
+  "venue": "Interface Focus",
+  "url": "https://doi.org/10.1098/rsfs.2018.0029"
+ },
+ "img:https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40694-021-00113-8/MediaObjects/40694_2021_113_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40694-021-00113-8/MediaObjects/40694_2021_113_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1186/s40694-021-00113-8": {
+  "doi": "10.1186/s40694-021-00113-8",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards fungal sensing skin",
+  "year": 2021,
+  "venue": "Fungal Biology and Biotechnology",
+  "url": "https://doi.org/10.1186/s40694-021-00113-8"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S0303264720301805-gr1.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0303264720301805-gr1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.biosystems.2020.104304": {
+  "doi": "10.1016/j.biosystems.2020.104304",
+  "ok": true,
+  "type": "doi",
+  "title": "Reactive fungal wearable",
+  "year": 2021,
+  "venue": "Biosystems",
+  "url": "https://doi.org/10.1016/j.biosystems.2020.104304"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S0303264721001295-gr1.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0303264721001295-gr1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.biosystems.2021.104480": {
+  "doi": "10.1016/j.biosystems.2021.104480",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards proteinoid computers. Hypothesis paper",
+  "year": 2021,
+  "venue": "Biosystems",
+  "url": "https://doi.org/10.1016/j.biosystems.2021.104480"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-36244-8/MediaObjects/41598_2023_36244_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-36244-8/MediaObjects/41598_2023_36244_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41598-023-36244-8": {
+  "doi": "10.1038/s41598-023-36244-8",
+  "ok": true,
+  "type": "doi",
+  "title": "Kombucha electronics: electronic circuits on kombucha mats",
+  "year": 2023,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-023-36244-8"
+ },
+ "video:youtube:_DB-RAgAlVI": {
+  "url": "https://www.youtube.com/watch?v=_DB-RAgAlVI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_DB-RAgAlVI",
+  "title": "Physarum approximates road networks in UK",
+  "author": "Andy Adamatzky",
+  "thumbnail": "https://i.ytimg.com/vi/_DB-RAgAlVI/hqdefault.jpg"
+ },
+ "img:https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/17/1392652837727/A-map-of-the-M6-motorway--011.jpg?width=445&dpr=1&s=none&crop=none": {
+  "url": "https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/17/1392652837727/A-map-of-the-M6-motorway--011.jpg?width=445&dpr=1&s=none&crop=none",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://i.ytimg.com/vi/_DB-RAgAlVI/hqdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/_DB-RAgAlVI/hqdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1142/s0218127410027568": {
+  "doi": "10.1142/s0218127410027568",
+  "ok": true,
+  "type": "doi",
+  "title": "ROAD PLANNING WITH SLIME MOULD: IF PHYSARUM BUILT MOTORWAYS IT WOULD ROUTE M6/M74 THROUGH NEWCASTLE",
+  "year": 2010,
+  "venue": "International Journal of Bifurcation and Chaos",
+  "url": "https://doi.org/10.1142/s0218127410027568"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12668-014-0156-3/MediaObjects/12668_2014_156_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12668-014-0156-3/MediaObjects/12668_2014_156_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/s12668-014-0156-3": {
+  "doi": "10.1007/s12668-014-0156-3",
+  "ok": true,
+  "type": "doi",
+  "title": "Slime Mould Memristors",
+  "year": 2015,
+  "venue": "BioNanoScience",
+  "url": "https://doi.org/10.1007/s12668-014-0156-3"
+ },
+ "video:youtube:awY2WjxjAek": {
+  "url": "https://www.youtube.com/watch?v=awY2WjxjAek",
+  "ok": true,
+  "platform": "youtube",
+  "id": "awY2WjxjAek",
+  "title": "Mycelium Building Material & Fungal Architecture | Prof. Andrew Adamatzky | UWE Bristol",
+  "author": "Arcas & Callisto Consulting ",
+  "thumbnail": "https://i.ytimg.com/vi/awY2WjxjAek/hqdefault.jpg"
+ },
+ "img:https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg": {
+  "url": "https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cordis.europa.eu/docs/article/images/2023-10/446827.jpg": {
+  "url": "https://cordis.europa.eu/docs/article/images/2023-10/446827.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:p4C-7ina7-o": {
+  "url": "https://www.youtube.com/watch?v=p4C-7ina7-o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "p4C-7ina7-o",
+  "title": "The significance of being unique -what slime molds told me- | Toshiyuki Nakagaki | TEDxSapporo",
+  "author": "TEDx Talks",
+  "thumbnail": "https://i.ytimg.com/vi/p4C-7ina7-o/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/d/d1/Slime_mold_solves_maze.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Slime_mold_solves_maze.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35035159/MediaObjects/41586_2000_Article_BF35035159_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35035159/MediaObjects/41586_2000_Article_BF35035159_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/35035159": {
+  "doi": "10.1038/35035159",
+  "ok": true,
+  "type": "doi",
+  "title": "Maze-solving by an amoeboid organism",
+  "year": 2000,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/35035159"
+ },
+ "video:youtube:GwKuFREOgmo": {
+  "url": "https://www.youtube.com/watch?v=GwKuFREOgmo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GwKuFREOgmo",
+  "title": "Slime mold form a map of the Tokyo-area railway system",
+  "author": "Harvard Magazine",
+  "thumbnail": "https://i.ytimg.com/vi/GwKuFREOgmo/hqdefault.jpg"
+ },
+ "img:https://media.wired.com/photos/59346eb5d80dd005b42b4404/191:100/w_1280,c_limit/slime_mold_21.jpg": {
+  "url": "https://media.wired.com/photos/59346eb5d80dd005b42b4404/191:100/w_1280,c_limit/slime_mold_21.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1126/science.1177894": {
+  "doi": "10.1126/science.1177894",
+  "ok": true,
+  "type": "doi",
+  "title": "Rules for Biologically Inspired Adaptive Network Design",
+  "year": 2010,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.1177894"
+ },
+ "img:https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/1/medium": {
+  "url": "https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/1/medium",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/2/medium": {
+  "url": "https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/2/medium",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1103/physrevlett.100.018101": {
+  "doi": "10.1103/physrevlett.100.018101",
+  "ok": true,
+  "type": "doi",
+  "title": "Amoebae Anticipate Periodic Events",
+  "year": 2008,
+  "venue": "Physical Review Letters",
+  "url": "https://doi.org/10.1103/physrevlett.100.018101"
+ },
+ "video:youtube:dYQG6ac38UA": {
+  "url": "https://www.youtube.com/watch?v=dYQG6ac38UA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "dYQG6ac38UA",
+  "title": "Breakthrough: The Slime Minder",
+  "author": "SciFri",
+  "thumbnail": "https://i.ytimg.com/vi/dYQG6ac38UA/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/6/6a/Habituation_P._polycephalum.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Habituation_P._polycephalum.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bccc/4855389/d7b108bb6413/rspb20160446-g1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bccc/4855389/d7b108bb6413/rspb20160446-g1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1098/rspb.2016.0446": {
+  "doi": "10.1098/rspb.2016.0446",
+  "ok": true,
+  "type": "doi",
+  "title": "Habituation in non-neural organisms: evidence from slime moulds",
+  "year": 2016,
+  "venue": "Proceedings of the Royal Society B: Biological Sciences",
+  "url": "https://doi.org/10.1098/rspb.2016.0446"
+ },
+ "video:youtube:zqR0jWoYbfw": {
+  "url": "https://www.youtube.com/watch?v=zqR0jWoYbfw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zqR0jWoYbfw",
+  "title": "[Alpha] #ElèveTonBlob : l'expérience éducative du CNES",
+  "author": "CNES",
+  "thumbnail": "https://i.ytimg.com/vi/zqR0jWoYbfw/hqdefault.jpg"
+ },
+ "img:https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/le_blob_myxomycete_h8082_ter.jpg": {
+  "url": "https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/le_blob_myxomycete_h8082_ter.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i.ytimg.com/vi/zqR0jWoYbfw/maxresdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/zqR0jWoYbfw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-16823-4": {
+  "url": "https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-16823-4",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/artl.2010.16.2.16202": {
+  "doi": "10.1162/artl.2010.16.2.16202",
+  "ok": true,
+  "type": "doi",
+  "title": "Characteristics of Pattern Formation and Evolution in Approximations of Physarum Transport Networks",
+  "year": 2010,
+  "venue": "Artificial Life",
+  "url": "https://doi.org/10.1162/artl.2010.16.2.16202"
+ },
+ "img:https://mediasvc.eurekalert.org/Api/v1/Multimedia/22575943-afdb-431d-8165-5265f158dee5/Rendition/low-res/Content/Public": {
+  "url": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/22575943-afdb-431d-8165-5265f158dee5/Rendition/low-res/Content/Public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mediasvc.eurekalert.org/Api/v1/Multimedia/5c929f33-15de-44df-a0df-92f842bc5852/Rendition/low-res/Content/Public": {
+  "url": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/5c929f33-15de-44df-a0df-92f842bc5852/Rendition/low-res/Content/Public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1073/pnas.2007815118": {
+  "doi": "10.1073/pnas.2007815118",
+  "ok": true,
+  "type": "doi",
+  "title": "Encoding memory in tube diameter hierarchy of living flow network",
+  "year": 2021,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.2007815118"
+ },
+ "video:youtube:EbHDSabIN-w": {
+  "url": "https://www.youtube.com/watch?v=EbHDSabIN-w",
+  "ok": true,
+  "platform": "youtube",
+  "id": "EbHDSabIN-w",
+  "title": "Slime mould controlled robot",
+  "author": "so1tsuda",
+  "thumbnail": "https://i.ytimg.com/vi/EbHDSabIN-w/hqdefault.jpg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr3.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr4.jpg": {
+  "url": "https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.biosystems.2006.09.016": {
+  "doi": "10.1016/j.biosystems.2006.09.016",
+  "ok": true,
+  "type": "doi",
+  "title": "Robot control with biological cells",
+  "year": 2007,
+  "venue": "Biosystems",
+  "url": "https://doi.org/10.1016/j.biosystems.2006.09.016"
+ },
+ "video:youtube:yoCwysg_YpI": {
+  "url": "https://www.youtube.com/watch?v=yoCwysg_YpI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yoCwysg_YpI",
+  "title": "Symmetry Festival 2016 – Eduardo Miranda: Biocomputer Music",
+  "author": "International Symmetry Association",
+  "thumbnail": "https://i.ytimg.com/vi/yoCwysg_YpI/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/yoCwysg_YpI/hqdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/yoCwysg_YpI/hqdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1007/978-3-319-46282-0_26": {
+  "doi": "10.1007/978-3-319-46282-0_26",
+  "ok": true,
+  "type": "doi",
+  "title": "BioComputer Music: Generating Musical Responses with Physarum polycephalum-Based Memristors",
+  "year": 2016,
+  "venue": "Lecture Notes in Computer Science",
+  "url": "https://doi.org/10.1007/978-3-319-46282-0_26"
+ },
+ "video:youtube:qREuXKvWMqA": {
+  "url": "https://www.youtube.com/watch?v=qREuXKvWMqA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qREuXKvWMqA",
+  "title": "Fungus-controlled biohybrid robots",
+  "author": "New Atlas",
+  "thumbnail": "https://i.ytimg.com/vi/qREuXKvWMqA/hqdefault.jpg"
+ },
+ "img:https://news.cornell.edu/sites/default/files/2024-08/figure-6a.jpg": {
+  "url": "https://news.cornell.edu/sites/default/files/2024-08/figure-6a.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.popsci.com/wp-content/uploads/2024/09/mushroom-robot.png": {
+  "url": "https://www.popsci.com/wp-content/uploads/2024/09/mushroom-robot.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1126/scirobotics.adk8019": {
+  "doi": "10.1126/scirobotics.adk8019",
+  "ok": true,
+  "type": "doi",
+  "title": "Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia",
+  "year": 2024,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.adk8019"
+ },
+ "video:youtube:jz7ftR8ln0I": {
+  "url": "https://www.youtube.com/watch?v=jz7ftR8ln0I",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jz7ftR8ln0I",
+  "title": "What if We Could Make Electronics From Mushrooms? | Mashable",
+  "author": "Mashable",
+  "thumbnail": "https://i.ytimg.com/vi/jz7ftR8ln0I/hqdefault.jpg"
+ },
+ "img:https://www.jku.at/fileadmin/_processed_/7/f/csm_myceliotronics_edabc67f66.jpg": {
+  "url": "https://www.jku.at/fileadmin/_processed_/7/f/csm_myceliotronics_edabc67f66.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8059/9651864/c189498a5480/sciadv.add7118-f1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8059/9651864/c189498a5480/sciadv.add7118-f1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/sciadv.add7118": {
+  "doi": "10.1126/sciadv.add7118",
+  "ok": true,
+  "type": "doi",
+  "title": "MycelioTronics: Fungal mycelium skin for sustainable electronics",
+  "year": 2022,
+  "venue": "Science Advances",
+  "url": "https://doi.org/10.1126/sciadv.add7118"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-019-0536-3/MediaObjects/41396_2019_536_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-019-0536-3/MediaObjects/41396_2019_536_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41396-019-0536-3": {
+  "doi": "10.1038/s41396-019-0536-3",
+  "ok": true,
+  "type": "doi",
+  "title": "Ecological memory and relocation decisions in fungal mycelial networks: responses to quantity and location of new resources",
+  "year": 2020,
+  "venue": "The ISME Journal",
+  "url": "https://doi.org/10.1038/s41396-019-0536-3"
+ },
+ "img:https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png": {
+  "url": "https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001": {
+  "url": "https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1371/journal.pone.0328965": {
+  "doi": "10.1371/journal.pone.0328965",
+  "ok": true,
+  "type": "doi",
+  "title": "Sustainable memristors from shiitake mycelium for high-frequency bioelectronics",
+  "year": 2025,
+  "venue": "PLOS One",
+  "url": "https://doi.org/10.1371/journal.pone.0328965"
+ },
+ "video:youtube:aQRBCCjaYGE": {
+  "url": "https://www.youtube.com/watch?v=aQRBCCjaYGE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "aQRBCCjaYGE",
+  "title": "UVM and Tufts Team Builds First Living Robots",
+  "author": "University of Vermont",
+  "thumbnail": "https://i.ytimg.com/vi/aQRBCCjaYGE/hqdefault.jpg"
+ },
+ "img:https://www.uvm.edu/d10-files/styles/default_1920/public/shared/story-photos/xenobot-organism-pair-800x400.jpg.webp?itok=DdsLbXZG": {
+  "url": "https://www.uvm.edu/d10-files/styles/default_1920/public/shared/story-photos/xenobot-organism-pair-800x400.jpg.webp?itok=DdsLbXZG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/ad/A_xenobot_in_simulation_and_reality.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/A_xenobot_in_simulation_and_reality.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1073/pnas.1910837117": {
+  "doi": "10.1073/pnas.1910837117",
+  "ok": true,
+  "type": "doi",
+  "title": "A scalable pipeline for designing reconfigurable organisms",
+  "year": 2020,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.1910837117"
+ },
+ "video:youtube:g_eLsiAv8w4": {
+  "url": "https://www.youtube.com/watch?v=g_eLsiAv8w4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "g_eLsiAv8w4",
+  "title": "Scientists Create the Next Generation of Living Robots",
+  "author": "Tufts University",
+  "thumbnail": "https://i.ytimg.com/vi/g_eLsiAv8w4/hqdefault.jpg"
+ },
+ "img:https://now.tufts.edu/sites/default/files/uploaded-assets/images/2022-04/next-generation-living-robots.jpg": {
+  "url": "https://now.tufts.edu/sites/default/files/uploaded-assets/images/2022-04/next-generation-living-robots.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://now.tufts.edu/sites/default/files/inline-images/eofsp2%2520vTN%281%29.jpg": {
+  "url": "https://now.tufts.edu/sites/default/files/inline-images/eofsp2%2520vTN%281%29.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1126/scirobotics.abf1571": {
+  "doi": "10.1126/scirobotics.abf1571",
+  "ok": true,
+  "type": "doi",
+  "title": "A cellular platform for the development of synthetic living machines",
+  "year": 2021,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.abf1571"
+ },
+ "video:youtube:aBYtBXaxsOw": {
+  "url": "https://www.youtube.com/watch?v=aBYtBXaxsOw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "aBYtBXaxsOw",
+  "title": "Xenobots: Building the First-Ever Self-Replicating Living Robots",
+  "author": "University of Vermont",
+  "thumbnail": "https://i.ytimg.com/vi/aBYtBXaxsOw/hqdefault.jpg"
+ },
+ "img:https://wyss-prod.imgix.net/app/uploads/2021/11/29104616/Blackiston4.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=91e3c9a5c06a3586953895229a7b6ade": {
+  "url": "https://wyss-prod.imgix.net/app/uploads/2021/11/29104616/Blackiston4.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=91e3c9a5c06a3586953895229a7b6ade",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://now.tufts.edu/sites/default/files/uploaded-assets/images/migrated/211129_xenobot_replicating_lg.jpg": {
+  "url": "https://now.tufts.edu/sites/default/files/uploaded-assets/images/migrated/211129_xenobot_replicating_lg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1073/pnas.2112672118": {
+  "doi": "10.1073/pnas.2112672118",
+  "ok": true,
+  "type": "doi",
+  "title": "Kinematic self-replication in reconfigurable organisms",
+  "year": 2021,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.2112672118"
+ },
+ "video:youtube:4z-3DTlSnp0": {
+  "url": "https://www.youtube.com/watch?v=4z-3DTlSnp0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4z-3DTlSnp0",
+  "title": "Anthrobots: Scientists build tiny biological robots from human tracheal cells",
+  "author": "Science X",
+  "thumbnail": "https://i.ytimg.com/vi/4z-3DTlSnp0/hqdefault.jpg"
+ },
+ "img:https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-11/231130_anthrobots_lg.jpg": {
+  "url": "https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-11/231130_anthrobots_lg.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://wyss-prod.imgix.net/app/uploads/2023/11/29101538/Anthrobot-with-Cilia-02.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=db2cbe30b4a028e3f25f665e437c31f2": {
+  "url": "https://wyss-prod.imgix.net/app/uploads/2023/11/29101538/Anthrobot-with-Cilia-02.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=db2cbe30b4a028e3f25f665e437c31f2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1002/advs.202303575": {
+  "doi": "10.1002/advs.202303575",
+  "ok": true,
+  "type": "doi",
+  "title": "Motile Living Biobots Self‐Construct from Adult Human Somatic Progenitor Seed Cells",
+  "year": 2024,
+  "venue": "Advanced Science",
+  "url": "https://doi.org/10.1002/advs.202303575"
+ },
+ "video:youtube:3UXG4xL0S4g": {
+  "url": "https://www.youtube.com/watch?v=3UXG4xL0S4g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3UXG4xL0S4g",
+  "title": "Biohybrid robot powered by an antagonistic pair of skeletal muscle tissues",
+  "author": "ScienceVio",
+  "thumbnail": "https://i.ytimg.com/vi/3UXG4xL0S4g/hqdefault.jpg"
+ },
+ "img:https://scx2.b-cdn.net/gfx/news/2018/5b0eadc3c3428.jpg": {
+  "url": "https://scx2.b-cdn.net/gfx/news/2018/5b0eadc3c3428.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://neurosciencenews.com/files/2018/06/muslces-robots-neurosciencnews.jpg": {
+  "url": "https://neurosciencenews.com/files/2018/06/muslces-robots-neurosciencnews.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1126/scirobotics.aat4440": {
+  "doi": "10.1126/scirobotics.aat4440",
+  "ok": true,
+  "type": "doi",
+  "title": "Biohybrid robot powered by an antagonistic pair of skeletal muscle tissues",
+  "year": 2018,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.aat4440"
+ },
+ "video:youtube:1fvlYZ0zwa0": {
+  "url": "https://www.youtube.com/watch?v=1fvlYZ0zwa0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1fvlYZ0zwa0",
+  "title": "Japanese scientists develop 'living human skin' on robotic finger",
+  "author": "Reuters",
+  "thumbnail": "https://i.ytimg.com/vi/1fvlYZ0zwa0/hqdefault.jpg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400189277.png": {
+  "url": "https://www.u-tokyo.ac.jp/content/400189277.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400189276.png": {
+  "url": "https://www.u-tokyo.ac.jp/content/400189276.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1016/j.matt.2022.05.019": {
+  "doi": "10.1016/j.matt.2022.05.019",
+  "ok": true,
+  "type": "doi",
+  "title": "Living skin on a robot",
+  "year": 2022,
+  "venue": "Matter",
+  "url": "https://doi.org/10.1016/j.matt.2022.05.019"
+ },
+ "video:youtube:p3DLgbOV9UM": {
+  "url": "https://www.youtube.com/watch?v=p3DLgbOV9UM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "p3DLgbOV9UM",
+  "title": "This robot 'smiles' using lab-grown living skin | REUTERS",
+  "author": "Reuters",
+  "thumbnail": "https://i.ytimg.com/vi/p3DLgbOV9UM/hqdefault.jpg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400242951.png": {
+  "url": "https://www.u-tokyo.ac.jp/content/400242951.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400242950.png": {
+  "url": "https://www.u-tokyo.ac.jp/content/400242950.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1016/j.xcrp.2024.102066": {
+  "doi": "10.1016/j.xcrp.2024.102066",
+  "ok": true,
+  "type": "doi",
+  "title": "Perforation-type anchors inspired by skin ligament for robotic face covered with living skin",
+  "year": 2024,
+  "venue": "Cell Reports Physical Science",
+  "url": "https://doi.org/10.1016/j.xcrp.2024.102066"
+ },
+ "video:youtube:IesRn6ca-ws": {
+  "url": "https://www.youtube.com/watch?v=IesRn6ca-ws",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IesRn6ca-ws",
+  "title": "Watch a robot with living muscles walk through water",
+  "author": "New Scientist",
+  "thumbnail": "https://i.ytimg.com/vi/IesRn6ca-ws/hqdefault.jpg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400231540.jpg": {
+  "url": "https://www.u-tokyo.ac.jp/content/400231540.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400231539.gif": {
+  "url": "https://www.u-tokyo.ac.jp/content/400231539.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "doi:10.1016/j.matt.2023.12.035": {
+  "doi": "10.1016/j.matt.2023.12.035",
+  "ok": true,
+  "type": "doi",
+  "title": "Biohybrid bipedal robot powered by skeletal muscle tissue",
+  "year": 2024,
+  "venue": "Matter",
+  "url": "https://doi.org/10.1016/j.matt.2023.12.035"
+ },
+ "img:https://www.u-tokyo.ac.jp/content/400256657.png": {
+  "url": "https://www.u-tokyo.ac.jp/content/400256657.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://assets.newatlas.com/dims4/default/a710743/2147483647/strip/true/crop/1541x867+0+80/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fcc6a072746f2850ddb3fb7743f85%2Fbiohybrid-hand.jpg": {
+  "url": "https://assets.newatlas.com/dims4/default/a710743/2147483647/strip/true/crop/1541x867+0+80/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fcc6a072746f2850ddb3fb7743f85%2Fbiohybrid-hand.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/scirobotics.adr5512": {
+  "doi": "10.1126/scirobotics.adr5512",
+  "ok": true,
+  "type": "doi",
+  "title": "Biohybrid hand actuated by multiple human muscle tissues",
+  "year": 2025,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.adr5512"
+ },
+ "video:youtube:gfC3eVjmpfo": {
+  "url": "https://www.youtube.com/watch?v=gfC3eVjmpfo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "gfC3eVjmpfo",
+  "title": "Artificial jellyfish made from rat heart",
+  "author": "Nature Newsteam",
+  "thumbnail": "https://i.ytimg.com/vi/gfC3eVjmpfo/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2012.11046/MediaObjects/41586_2012_Article_BFnature201211046_Figa_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2012.11046/MediaObjects/41586_2012_Article_BFnature201211046_Figa_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wyss-prod.imgix.net/app/uploads/2016/08/05180605/artificial.jellyfish-275x257.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=8004ee7bfeccacb58da6f8451f10b92f": {
+  "url": "https://wyss-prod.imgix.net/app/uploads/2016/08/05180605/artificial.jellyfish-275x257.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=8004ee7bfeccacb58da6f8451f10b92f",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1038/nbt.2269": {
+  "doi": "10.1038/nbt.2269",
+  "ok": true,
+  "type": "doi",
+  "title": "A tissue-engineered jellyfish with biomimetic propulsion",
+  "year": 2012,
+  "venue": "Nature Biotechnology",
+  "url": "https://doi.org/10.1038/nbt.2269"
+ },
+ "video:youtube:E8YwpECaHdw": {
+  "url": "https://www.youtube.com/watch?v=E8YwpECaHdw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "E8YwpECaHdw",
+  "title": "Cyborg ray: Light-guided robotic stingray powered by heart cells",
+  "author": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+  "thumbnail": "https://i.ytimg.com/vi/E8YwpECaHdw/hqdefault.jpg"
+ },
+ "img:https://i.ytimg.com/vi/-D_XrRo0h20/maxresdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/-D_XrRo0h20/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i.ytimg.com/vi/E8YwpECaHdw/hqdefault.jpg": {
+  "url": "https://i.ytimg.com/vi/E8YwpECaHdw/hqdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.aaf4292": {
+  "doi": "10.1126/science.aaf4292",
+  "ok": true,
+  "type": "doi",
+  "title": "Phototactic guidance of a tissue-engineered soft-robotic ray",
+  "year": 2016,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.aaf4292"
+ },
+ "video:youtube:PudGp0BeHTw": {
+  "url": "https://www.youtube.com/watch?v=PudGp0BeHTw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PudGp0BeHTw",
+  "title": "Biohybrid fish made from human cardiac cells swims like the heart beats",
+  "author": "Harvard John A. Paulson School of Engineering and Applied Sciences",
+  "thumbnail": "https://i.ytimg.com/vi/PudGp0BeHTw/hqdefault.jpg"
+ },
+ "img:https://seas.harvard.edu/sites/default/files/styles/opengraph/public/2022-02/hFish_02.jpg?h=406f0743&itok=nfC2Gm-2": {
+  "url": "https://seas.harvard.edu/sites/default/files/styles/opengraph/public/2022-02/hFish_02.jpg?h=406f0743&itok=nfC2Gm-2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2022-02/hFish_09.jpg?itok=xPJWhb42": {
+  "url": "https://www.seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2022-02/hFish_09.jpg?itok=xPJWhb42",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.abh0474": {
+  "doi": "10.1126/science.abh0474",
+  "ok": true,
+  "type": "doi",
+  "title": "An autonomously swimming biohybrid fish designed with human cardiac biophysics",
+  "year": 2022,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.abh0474"
+ },
+ "video:youtube:LZgdOelmIVw": {
+  "url": "https://www.youtube.com/watch?v=LZgdOelmIVw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LZgdOelmIVw",
+  "title": "University of Illinois Bio-bot",
+  "author": "Plastic Pals",
+  "thumbnail": "https://i.ytimg.com/vi/LZgdOelmIVw/hqdefault.jpg"
+ },
+ "img:https://scx2.b-cdn.net/gfx/news/hires/2012/thesebotswer.jpg": {
+  "url": "https://scx2.b-cdn.net/gfx/news/hires/2012/thesebotswer.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/srep00857": {
+  "doi": "10.1038/srep00857",
+  "ok": true,
+  "type": "doi",
+  "title": "Development of Miniaturized Walking Biological Machines",
+  "year": 2012,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/srep00857"
+ },
+ "video:youtube:skCzl7FlM34": {
+  "url": "https://www.youtube.com/watch?v=skCzl7FlM34",
+  "ok": true,
+  "platform": "youtube",
+  "id": "skCzl7FlM34",
+  "title": "Muscle-Powered Bio-Bots: Soft biological machines take a step forward",
+  "author": "NewsAtIllinois",
+  "thumbnail": "https://i.ytimg.com/vi/skCzl7FlM34/hqdefault.jpg"
+ },
+ "img:https://bioengineering.illinois.edu/_sitemanager/viewphoto.aspx?id=36457&s=1200": {
+  "url": "https://bioengineering.illinois.edu/_sitemanager/viewphoto.aspx?id=36457&s=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://scx2.b-cdn.net/gfx/news/hires/2014/musclepowere.jpg": {
+  "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/musclepowere.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1073/pnas.1401577111": {
+  "doi": "10.1073/pnas.1401577111",
+  "ok": true,
+  "type": "doi",
+  "title": "Three-dimensionally printed biological machines powered by skeletal muscle",
+  "year": 2014,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.1401577111"
+ },
+ "video:youtube:MI__Nm6EzvA": {
+  "url": "https://www.youtube.com/watch?v=MI__Nm6EzvA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "MI__Nm6EzvA",
+  "title": "Remote control electronic biobots",
+  "author": "NewsAtIllinois",
+  "thumbnail": "https://i.ytimg.com/vi/MI__Nm6EzvA/hqdefault.jpg"
+ },
+ "img:https://news.northwestern.edu/assets/Stories/2023/01/biobot1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg": {
+  "url": "https://news.northwestern.edu/assets/Stories/2023/01/biobot1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/scirobotics.add1053": {
+  "doi": "10.1126/scirobotics.add1053",
+  "ok": true,
+  "type": "doi",
+  "title": "Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics",
+  "year": 2023,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.add1053"
+ },
+ "video:youtube:7XbElMI6OaA": {
+  "url": "https://www.youtube.com/watch?v=7XbElMI6OaA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7XbElMI6OaA",
+  "title": "Biobot swimmer",
+  "author": "Taher Saif",
+  "thumbnail": "https://i.ytimg.com/vi/7XbElMI6OaA/hqdefault.jpg"
+ },
+ "img:https://scx2.b-cdn.net/gfx/news/hires/2014/tinyswimming.jpg": {
+  "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/tinyswimming.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/ncomms4081": {
+  "doi": "10.1038/ncomms4081",
+  "ok": true,
+  "type": "doi",
+  "title": "A self-propelled biohybrid swimmer at low Reynolds number",
+  "year": 2014,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/ncomms4081"
+ },
+ "img:https://scx2.b-cdn.net/gfx/news/2019/15-researchersb.jpg": {
+  "url": "https://scx2.b-cdn.net/gfx/news/2019/15-researchersb.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1073/pnas.1907051116": {
+  "doi": "10.1073/pnas.1907051116",
+  "ok": true,
+  "type": "doi",
+  "title": "Neuromuscular actuation of biohybrid motile bots",
+  "year": 2019,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.1907051116"
+ },
+ "video:youtube:BwMT_ok4WW0": {
+  "url": "https://www.youtube.com/watch?v=BwMT_ok4WW0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BwMT_ok4WW0",
+  "title": "Light illuminates the way for bio-bots",
+  "author": "NewsAtIllinois",
+  "thumbnail": "https://i.ytimg.com/vi/BwMT_ok4WW0/hqdefault.jpg"
+ },
+ "img:https://media.news.illinois.edu/wp-content/uploads/2024/12/19140142/84871-1140x760.jpg": {
+  "url": "https://media.news.illinois.edu/wp-content/uploads/2024/12/19140142/84871-1140x760.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1073/pnas.1516139113": {
+  "doi": "10.1073/pnas.1516139113",
+  "ok": true,
+  "type": "doi",
+  "title": "Optogenetic skeletal muscle-powered adaptive biological machines",
+  "year": 2016,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.1516139113"
+ },
+ "video:youtube:5EIAGsc4cR0": {
+  "url": "https://www.youtube.com/watch?v=5EIAGsc4cR0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5EIAGsc4cR0",
+  "title": "Researchers develop multifunctional bacterial microswimmer",
+  "author": "Max Planck Institute for Intelligent Systems",
+  "thumbnail": "https://i.ytimg.com/vi/5EIAGsc4cR0/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/57ed3edb37c58182f815c65f/1524758481020-IS6JIXV2ZM3NWFMJ64FB/content_Electromicroscopic_image_of_the_RBC_microswimmer.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/57ed3edb37c58182f815c65f/1524758481020-IS6JIXV2ZM3NWFMJ64FB/content_Electromicroscopic_image_of_the_RBC_microswimmer.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1126/scirobotics.aar4423": {
+  "doi": "10.1126/scirobotics.aar4423",
+  "ok": true,
+  "type": "doi",
+  "title": "Soft erythrocyte-based bacterial microswimmers for cargo delivery",
+  "year": 2018,
+  "venue": "Science Robotics",
+  "url": "https://doi.org/10.1126/scirobotics.aar4423"
+ },
+ "video:youtube:5MJZd1PnqvM": {
+  "url": "https://www.youtube.com/watch?v=5MJZd1PnqvM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5MJZd1PnqvM",
+  "title": "BioHybrid Robots: Researchers build a crawling robot from Sea Slug parts and a 3-D printed body",
+  "author": "Rajamanickam Antonimuthu",
+  "thumbnail": "https://i.ytimg.com/vi/5MJZd1PnqvM/hqdefault.jpg"
+ },
+ "img:https://www.newswise.com/images/uploads/2016/07/18/biobot.jpg": {
+  "url": "https://www.newswise.com/images/uploads/2016/07/18/biobot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1007/978-3-319-42417-0_33": {
+  "doi": "10.1007/978-3-319-42417-0_33",
+  "ok": true,
+  "type": "doi",
+  "title": "Aplysia Californica as a Novel Source of Material for Biohybrid Robots and Organic Machines",
+  "year": 2016,
+  "venue": "Lecture Notes in Computer Science",
+  "url": "https://doi.org/10.1007/978-3-319-42417-0_33"
+ },
+ "video:youtube:UhPbln4vnvw": {
+  "url": "https://www.youtube.com/watch?v=UhPbln4vnvw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "UhPbln4vnvw",
+  "title": "Remotely Controlled Beetles at the University of California Berkeley",
+  "author": "FerrisJabr",
+  "thumbnail": "https://i.ytimg.com/vi/UhPbln4vnvw/hqdefault.jpg"
+ },
+ "img:https://content.time.com/time/photoessays/2009/50_best_inventions/inventions_cyborg_beetle.jpg": {
+  "url": "https://content.time.com/time/photoessays/2009/50_best_inventions/inventions_cyborg_beetle.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.3389/neuro.07.024.2009": {
+  "doi": "10.3389/neuro.07.024.2009",
+  "ok": true,
+  "type": "doi",
+  "title": "Remote radio control of insect flight",
+  "year": 2009,
+  "venue": "Frontiers in Integrative Neuroscience",
+  "url": "https://doi.org/10.3389/neuro.07.024.2009"
+ },
+ "video:youtube:kaTWbghsweI": {
+  "url": "https://www.youtube.com/watch?v=kaTWbghsweI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kaTWbghsweI",
+  "title": "Wireless locomotion control of cyborg roach using a recharged battery",
+  "author": "riken english channel",
+  "thumbnail": "https://i.ytimg.com/vi/kaTWbghsweI/hqdefault.jpg"
+ },
+ "img:https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220905_2_twitter.png": {
+  "url": "https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220905_2_twitter.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "doi:10.1038/s41528-022-00207-2": {
+  "doi": "10.1038/s41528-022-00207-2",
+  "ok": true,
+  "type": "doi",
+  "title": "Integration of body-mounted ultrasoft organic solar cell on cyborg insects with intact mobility",
+  "year": 2022,
+  "venue": "npj Flexible Electronics",
+  "url": "https://doi.org/10.1038/s41528-022-00207-2"
+ },
+ "video:youtube:AXA7plI6-6M": {
+  "url": "https://www.youtube.com/watch?v=AXA7plI6-6M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "AXA7plI6-6M",
+  "title": "NTU develops world's first automated system to deploy cyborg insects for rescue missions",
+  "author": "CNA",
+  "thumbnail": "https://i.ytimg.com/vi/AXA7plI6-6M/hqdefault.jpg"
+ },
+ "img:https://www.ntu.edu.sg/media/images/default-source/hub-news/ai-powered-robot-assembles-search-and-rescue-cyborg-insects.jpg?sfvrsn=e402bfbb_1": {
+  "url": "https://www.ntu.edu.sg/media/images/default-source/hub-news/ai-powered-robot-assembles-search-and-rescue-cyborg-insects.jpg?sfvrsn=e402bfbb_1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mediasvc.eurekalert.org/Api/v1/Multimedia/5b6abd45-9ddb-43d8-8d02-480c0afa2be2/Rendition/low-res/Content/Public": {
+  "url": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/5b6abd45-9ddb-43d8-8d02-480c0afa2be2/Rendition/low-res/Content/Public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41467-025-60779-1": {
+  "doi": "10.1038/s41467-025-60779-1",
+  "ok": true,
+  "type": "doi",
+  "title": "Cyborg insect factory: automatic assembly for insect-computer hybrid robot via vision-guided robotic arm manipulation of custom bipolar electrodes",
+  "year": 2025,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-025-60779-1"
+ },
+ "video:youtube:th1bLBuLdc4": {
+  "url": "https://www.youtube.com/watch?v=th1bLBuLdc4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "th1bLBuLdc4",
+  "title": "Watch swarms of cyborg cockroaches avoid obstacles",
+  "author": "New Scientist",
+  "thumbnail": "https://i.ytimg.com/vi/th1bLBuLdc4/hqdefault.jpg"
+ },
+ "img:https://mediasvc.eurekalert.org/Api/v1/Multimedia/bed9d6e1-f699-4016-a69e-e15ab06c6789/Rendition/low-res/Content/Public": {
+  "url": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/bed9d6e1-f699-4016-a69e-e15ab06c6789/Rendition/low-res/Content/Public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mediasvc.eurekalert.org/Api/v1/Multimedia/6926c6e1-bf85-4799-abdb-1ad761d046aa/Rendition/low-res/Content/Public": {
+  "url": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/6926c6e1-bf85-4799-abdb-1ad761d046aa/Rendition/low-res/Content/Public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41467-024-55197-8": {
+  "doi": "10.1038/s41467-024-55197-8",
+  "ok": true,
+  "type": "doi",
+  "title": "Swarm navigation of cyborg-insects in unknown obstructed soft terrain",
+  "year": 2025,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-024-55197-8"
+ },
+ "video:youtube:pH5CVb7yjFw": {
+  "url": "https://www.youtube.com/watch?v=pH5CVb7yjFw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pH5CVb7yjFw",
+  "title": "Bionic Jellyfish Swim Faster, More Efficiently",
+  "author": "caltech",
+  "thumbnail": "https://i.ytimg.com/vi/pH5CVb7yjFw/hqdefault.jpg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/Xu-Dabiri-Jellyfish-Illustra.bab43a61.fill-1600x810-c100.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/Xu-Dabiri-Jellyfish-Illustra.bab43a61.fill-1600x810-c100.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/sciadv.aaz3194": {
+  "doi": "10.1126/sciadv.aaz3194",
+  "ok": true,
+  "type": "doi",
+  "title": "Low-power microelectronics embedded in live jellyfish enhance propulsion",
+  "year": 2020,
+  "venue": "Science Advances",
+  "url": "https://doi.org/10.1126/sciadv.aaz3194"
+ },
+ "video:youtube:_ZfthP_7s5g": {
+  "url": "https://www.youtube.com/watch?v=_ZfthP_7s5g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_ZfthP_7s5g",
+  "title": "Robotic Jellyfish Explorers",
+  "author": "caltech",
+  "thumbnail": "https://i.ytimg.com/vi/_ZfthP_7s5g/hqdefault.jpg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/Dabiri-Jellyfish-Explorers-w.91523faf.fill-1600x810-c100.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/Dabiri-Jellyfish-Explorers-w.91523faf.fill-1600x810-c100.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1088/1748-3190/ad277f": {
+  "doi": "10.1088/1748-3190/ad277f",
+  "ok": true,
+  "type": "doi",
+  "title": "Electromechanical enhancement of live jellyfish for ocean exploration",
+  "year": 2024,
+  "venue": "Bioinspiration &amp; Biomimetics",
+  "url": "https://doi.org/10.1088/1748-3190/ad277f"
+ },
+ "video:youtube:1JOS6hMHIUM": {
+  "url": "https://www.youtube.com/watch?v=1JOS6hMHIUM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1JOS6hMHIUM",
+  "title": "Lab manipulates deceased spiders’ legs with a puff of air to serve as grabbers",
+  "author": "Rice University",
+  "thumbnail": "https://i.ytimg.com/vi/1JOS6hMHIUM/hqdefault.jpg"
+ },
+ "img:https://news.rice.edu/sites/g/files/bxs2656/files/2022-07/0718_necro_b_1.jpg": {
+  "url": "https://news.rice.edu/sites/g/files/bxs2656/files/2022-07/0718_necro_b_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://news.rice.edu/sites/g/files/bxs2656/files/inline-images/0718_NECRO%201%20RN.jpg": {
+  "url": "https://news.rice.edu/sites/g/files/bxs2656/files/inline-images/0718_NECRO%201%20RN.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1002/advs.202201174": {
+  "doi": "10.1002/advs.202201174",
+  "ok": true,
+  "type": "doi",
+  "title": "Necrobotics: Biotic Materials as Ready‐to‐Use Actuators",
+  "year": 2022,
+  "venue": "Advanced Science",
+  "url": "https://doi.org/10.1002/advs.202201174"
+ },
+ "video:youtube:8SGx2qmo9M4": {
+  "url": "https://www.youtube.com/watch?v=8SGx2qmo9M4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8SGx2qmo9M4",
+  "title": "'Smellicopter' uses moth antenna to locate odor source",
+  "author": "UW (University of Washington)",
+  "thumbnail": "https://i.ytimg.com/vi/8SGx2qmo9M4/hqdefault.jpg"
+ },
+ "img:https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110526/SmellicopterWEB001.jpg": {
+  "url": "https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110526/SmellicopterWEB001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110529/SmellicopterWEB003-750x500.jpg": {
+  "url": "https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110529/SmellicopterWEB003-750x500.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1088/1748-3190/abbd81": {
+  "doi": "10.1088/1748-3190/abbd81",
+  "ok": true,
+  "type": "doi",
+  "title": "A bio-hybrid odor-guided autonomous palm-sized air vehicle",
+  "year": 2020,
+  "venue": "Bioinspiration &amp; Biomimetics",
+  "url": "https://doi.org/10.1088/1748-3190/abbd81"
+ },
+ "video:youtube:mpz9Nq-Ud8c": {
+  "url": "https://www.youtube.com/watch?v=mpz9Nq-Ud8c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mpz9Nq-Ud8c",
+  "title": "Bomb sniffing locusts | Inside the Research | Washington University",
+  "author": "Washington University in St. Louis",
+  "thumbnail": "https://i.ytimg.com/vi/mpz9Nq-Ud8c/hqdefault.jpg"
+ },
+ "img:https://source.washu.edu/app/uploads/2020/08/locustsensor.jpg": {
+  "url": "https://source.washu.edu/app/uploads/2020/08/locustsensor.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://source.washu.edu/app/uploads/2016/06/Locusts-for-Source.jpg": {
+  "url": "https://source.washu.edu/app/uploads/2016/06/Locusts-for-Source.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.biosx.2020.100050": {
+  "doi": "10.1016/j.biosx.2020.100050",
+  "ok": true,
+  "type": "doi",
+  "title": "Explosive sensing with insect-based biorobots",
+  "year": 2020,
+  "venue": "Biosensors and Bioelectronics: X",
+  "url": "https://doi.org/10.1016/j.biosx.2020.100050"
+ },
+ "video:youtube:n2k1T2X7_Aw": {
+  "url": "https://www.youtube.com/watch?v=n2k1T2X7_Aw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "n2k1T2X7_Aw",
+  "title": "A small robot being driven by a moth",
+  "author": "Institute of Physics",
+  "thumbnail": "https://i.ytimg.com/vi/n2k1T2X7_Aw/hqdefault.jpg"
+ },
+ "img:https://scx1.b-cdn.net/csz/news/800a/2013/ytfguk.jpg": {
+  "url": "https://scx1.b-cdn.net/csz/news/800a/2013/ytfguk.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://scx1.b-cdn.net/csz/news/800a/2013/l87ngkuyf.jpg": {
+  "url": "https://scx1.b-cdn.net/csz/news/800a/2013/l87ngkuyf.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1088/1748-3182/8/1/016008": {
+  "doi": "10.1088/1748-3182/8/1/016008",
+  "ok": true,
+  "type": "doi",
+  "title": "Odour-tracking capability of a silkmoth driving a mobile robot with turning bias and time delay",
+  "year": 2013,
+  "venue": "Bioinspiration &amp; Biomimetics",
+  "url": "https://doi.org/10.1088/1748-3182/8/1/016008"
+ },
+ "video:youtube:L0jBzi-gKco": {
+  "url": "https://www.youtube.com/watch?v=L0jBzi-gKco",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L0jBzi-gKco",
+  "title": "The Backyard Brains RoboRoach",
+  "author": "Backyard Brains",
+  "thumbnail": "https://i.ytimg.com/vi/L0jBzi-gKco/hqdefault.jpg"
+ },
+ "img:https://backyardbrains.com/cdn/shop/products/RoboRoach_iPod.jpg?v=1734628912": {
+  "url": "https://backyardbrains.com/cdn/shop/products/RoboRoach_iPod.jpg?v=1734628912",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://backyardbrains.com/cdn/shop/products/roboRoachGoRight.jpg?v=1741629247": {
+  "url": "https://backyardbrains.com/cdn/shop/products/roboRoachGoRight.jpg?v=1741629247",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:Byo55asQUwM": {
+  "url": "https://www.youtube.com/watch?v=Byo55asQUwM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Byo55asQUwM",
+  "title": "flora robotica - crowds of robots to grow our houses and future green cities",
+  "author": "florarobotica",
+  "thumbnail": "https://i.ytimg.com/vi/Byo55asQUwM/hqdefault.jpg"
+ },
+ "img:http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototypes.jpg": {
+  "url": "http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototypes.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototype_detail.jpg": {
+  "url": "http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototype_detail.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1109/ssci.2015.158": {
+  "doi": "10.1109/ssci.2015.158",
+  "ok": true,
+  "type": "doi",
+  "title": "Flora Robotica - Mixed Societies of Symbiotic Robot-Plant Bio-Hybrids",
+  "year": 2015,
+  "venue": "2015 IEEE Symposium Series on Computational Intelligence",
+  "url": "https://doi.org/10.1109/ssci.2015.158"
+ },
+ "video:youtube:mrEAwZJKxzE": {
+  "url": "https://www.youtube.com/watch?v=mrEAwZJKxzE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "mrEAwZJKxzE",
+  "title": "First growing robot concept",
+  "author": "BSR Bioinspired Soft Robotics lab",
+  "thumbnail": "https://i.ytimg.com/vi/mrEAwZJKxzE/hqdefault.jpg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/145c1144700e/fig-1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/145c1144700e/fig-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/171874803de1/fig-13.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/171874803de1/fig-13.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1089/soro.2016.0080": {
+  "doi": "10.1089/soro.2016.0080",
+  "ok": true,
+  "type": "doi",
+  "title": "Toward Self-Growing Soft Robots Inspired by Plant Roots and Based on Additive Manufacturing Technologies",
+  "year": 2017,
+  "venue": "Soft Robotics",
+  "url": "https://doi.org/10.1089/soro.2016.0080"
+ },
+ "video:youtube:Bhqf8M5yYIw": {
+  "url": "https://www.youtube.com/watch?v=Bhqf8M5yYIw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Bhqf8M5yYIw",
+  "title": "Adleman: Inventing DNA Computing",
+  "author": "Turing Awardee Clips",
+  "thumbnail": "https://i.ytimg.com/vi/Bhqf8M5yYIw/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+  "unverified": true
+ },
+ "doi:10.1126/science.7973651": {
+  "doi": "10.1126/science.7973651",
+  "ok": true,
+  "type": "doi",
+  "title": "Molecular Computation of Solutions to Combinatorial Problems",
+  "year": 1994,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.7973651"
+ },
+ "video:youtube:N_VisNOKQMc": {
+  "url": "https://www.youtube.com/watch?v=N_VisNOKQMc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "N_VisNOKQMc",
+  "title": "Building a tiny \"DNA brain\" (Part I: design)",
+  "author": "luluqian",
+  "thumbnail": "https://i.ytimg.com/vi/N_VisNOKQMc/hqdefault.jpg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/CT_Winfree-Qian_Nature-SPOTLIGHT.16890135.max-1400x800.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/CT_Winfree-Qian_Nature-SPOTLIGHT.16890135.max-1400x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/nature10262": {
+  "doi": "10.1038/nature10262",
+  "ok": true,
+  "type": "doi",
+  "title": "Neural network computation with DNA strand displacement cascades",
+  "year": 2011,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature10262"
+ },
+ "video:youtube:idCjH20I65M": {
+  "url": "https://www.youtube.com/watch?v=idCjH20I65M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "idCjH20I65M",
+  "title": "Qian Lab - \"Winner Take All\" Method Enables DNA Computing",
+  "author": "caltech",
+  "thumbnail": "https://i.ytimg.com/vi/idCjH20I65M/hqdefault.jpg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/LQian_WTA-Neural-Networks-Made-fro.ce986c20.max-1400x800.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/LQian_WTA-Neural-Networks-Made-fro.ce986c20.max-1400x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.qianlab.caltech.edu/media_WTA_1_300px.png": {
+  "url": "https://www.qianlab.caltech.edu/media_WTA_1_300px.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41586-018-0289-6": {
+  "doi": "10.1038/s41586-018-0289-6",
+  "ok": true,
+  "type": "doi",
+  "title": "Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks",
+  "year": 2018,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-018-0289-6"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_3200x1620.27baed7e.fill-1600x810-c100.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_3200x1620.27baed7e.fill-1600x810-c100.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_2.5dad4ab6.width-450.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_2.5dad4ab6.width-450.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41586-025-09479-w": {
+  "doi": "10.1038/s41586-025-09479-w",
+  "ok": true,
+  "type": "doi",
+  "title": "Supervised learning in DNA neural networks",
+  "year": 2025,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-025-09479-w"
+ },
+ "video:vimeo:47615970": {
+  "url": "https://vimeo.com/47615970",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "47615970",
+  "embeddable": true,
+  "title": "Information Storage in DNA",
+  "thumbnail": "https://i.vimeocdn.com/video/330548088-f385c4265826dadcfbc4ef350a9eb421e5fcddc0a29ca03ba045060c9e3228c5-d?f=webp&region=us"
+ },
+ "img:https://wyss-prod.imgix.net/app/uploads/2016/08/30133118/16991-e1472738750194.jpeg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=0a41ae74fcc99c355ede938cc4c69f77": {
+  "url": "https://wyss-prod.imgix.net/app/uploads/2016/08/30133118/16991-e1472738750194.jpeg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=0a41ae74fcc99c355ede938cc4c69f77",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://i.vimeocdn.com/video/330548088-f385c4265826dadcfbc4ef350a9eb421e5fcddc0a29ca03ba045060c9e3228c5-d_1280": {
+  "url": "https://i.vimeocdn.com/video/330548088-f385c4265826dadcfbc4ef350a9eb421e5fcddc0a29ca03ba045060c9e3228c5-d_1280",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "doi:10.1126/science.1226355": {
+  "doi": "10.1126/science.1226355",
+  "ok": true,
+  "type": "doi",
+  "title": "Next-Generation Digital Information Storage in DNA",
+  "year": 2012,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.1226355"
+ },
+ "video:youtube:tBvd7OSDGgQ": {
+  "url": "https://www.youtube.com/watch?v=tBvd7OSDGgQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tBvd7OSDGgQ",
+  "title": "Future Computing: DNA Hard Drives | Nick Goldman",
+  "author": "World Economic Forum",
+  "thumbnail": "https://i.ytimg.com/vi/tBvd7OSDGgQ/hqdefault.jpg"
+ },
+ "img:https://acxngcvroo.cloudimg.io/v7/https://content.embl.org/sites/default/files/2021-10/NEWS_Nick_Goldman_DNA_storage.jpg?w=1000&h=600": {
+  "url": "https://acxngcvroo.cloudimg.io/v7/https://content.embl.org/sites/default/files/2021-10/NEWS_Nick_Goldman_DNA_storage.jpg?w=1000&h=600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1038/nature11875": {
+  "doi": "10.1038/nature11875",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards practical, high-capacity, low-maintenance information storage in synthesized DNA",
+  "year": 2013,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature11875"
+ },
+ "video:vimeo:224354684": {
+  "url": "https://vimeo.com/224354684",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "224354684",
+  "embeddable": true,
+  "title": "CRISPR-Cas: Molecular Recording",
+  "thumbnail": "https://i.vimeocdn.com/video/644349946-ce9643ce67e92405a655775026ee49f228db370f11f0f5f82dd111b703151bac-d?f=webp&region=us"
+ },
+ "img:https://wyss-prod.imgix.net/app/uploads/2017/07/11111818/Encoding-Memories-in-Living-Cells-with-CRISPR-Listing-Image.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=e9a58d3d21ace4dc0d3b3bd5fca1e085": {
+  "url": "https://wyss-prod.imgix.net/app/uploads/2017/07/11111818/Encoding-Memories-in-Living-Cells-with-CRISPR-Listing-Image.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=e9a58d3d21ace4dc0d3b3bd5fca1e085",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://wp.technologyreview.com/wp-content/uploads/2017/07/horsegif_0-3.gif": {
+  "url": "https://wp.technologyreview.com/wp-content/uploads/2017/07/horsegif_0-3.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1038/nature23017": {
+  "doi": "10.1038/nature23017",
+  "ok": true,
+  "type": "doi",
+  "title": "CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria",
+  "year": 2017,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature23017"
+ },
+ "video:youtube:qloX87Apz2o": {
+  "url": "https://www.youtube.com/watch?v=qloX87Apz2o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qloX87Apz2o",
+  "title": "Microsoft and University of Washington DNA Storage Research Project",
+  "author": "Microsoft Research",
+  "thumbnail": "https://i.ytimg.com/vi/qloX87Apz2o/hqdefault.jpg"
+ },
+ "img:https://news.cs.washington.edu/wp-content/uploads/2018/02/MISL-wetlab-1.jpg": {
+  "url": "https://news.cs.washington.edu/wp-content/uploads/2018/02/MISL-wetlab-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://news.cs.washington.edu/wp-content/uploads/2018/02/Ok-Go-video-snapshot.jpg": {
+  "url": "https://news.cs.washington.edu/wp-content/uploads/2018/02/Ok-Go-video-snapshot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/nbt.4079": {
+  "doi": "10.1038/nbt.4079",
+  "ok": true,
+  "type": "doi",
+  "title": "Random access in large-scale DNA data storage",
+  "year": 2018,
+  "venue": "Nature Biotechnology",
+  "url": "https://doi.org/10.1038/nbt.4079"
+ },
+ "video:youtube:kXHfQ1KafK4": {
+  "url": "https://www.youtube.com/watch?v=kXHfQ1KafK4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kXHfQ1KafK4",
+  "title": "Movie Stored and Retrieved from DNA Molecules",
+  "author": "Columbia Data Science Institute",
+  "thumbnail": "https://i.ytimg.com/vi/kXHfQ1KafK4/hqdefault.jpg"
+ },
+ "img:https://sciinitprod.wpengine.com/wp-content/uploads/2017/04/NYGC_lab_500.jpg": {
+  "url": "https://sciinitprod.wpengine.com/wp-content/uploads/2017/04/NYGC_lab_500.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.aaj2038": {
+  "doi": "10.1126/science.aaj2038",
+  "ok": true,
+  "type": "doi",
+  "title": "DNA Fountain enables a robust and efficient storage architecture",
+  "year": 2017,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.aaj2038"
+ },
+ "video:youtube:yo5Q1WfpMtw": {
+  "url": "https://www.youtube.com/watch?v=yo5Q1WfpMtw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yo5Q1WfpMtw",
+  "title": "Storing data in everyday objects",
+  "author": "ETH Zürich",
+  "thumbnail": "https://i.ytimg.com/vi/yo5Q1WfpMtw/hqdefault.jpg"
+ },
+ "img:https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1104599190.jpg": {
+  "url": "https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1104599190.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/wide_content/textimage_774183200/image.imageformat.text50percent.607066266.jpg": {
+  "url": "https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/wide_content/textimage_774183200/image.imageformat.text50percent.607066266.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41587-019-0356-z": {
+  "doi": "10.1038/s41587-019-0356-z",
+  "ok": true,
+  "type": "doi",
+  "title": "A DNA-of-things storage architecture to create materials with embedded memory",
+  "year": 2020,
+  "venue": "Nature Biotechnology",
+  "url": "https://doi.org/10.1038/s41587-019-0356-z"
+ },
+ "video:youtube:HzCTP6rZI7s": {
+  "url": "https://www.youtube.com/watch?v=HzCTP6rZI7s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HzCTP6rZI7s",
+  "title": "Harnessing DNA to preserve the human record | Catalog",
+  "author": "Cambridge Consultants",
+  "thumbnail": "https://i.ytimg.com/vi/HzCTP6rZI7s/hqdefault.jpg"
+ },
+ "img:https://www.cnet.com/wp-content/uploads/sites/2/263029fd-eb98-4097-a824-0ef8e58449f7.jpg?resize=1200,675": {
+  "url": "https://www.cnet.com/wp-content/uploads/sites/2/263029fd-eb98-4097-a824-0ef8e58449f7.jpg?resize=1200,675",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.cnet.com/wp-content/uploads/sites/2/7a15c31e-bdcc-450e-925e-119241a0249b.jpg?resize=1200,675": {
+  "url": "https://www.cnet.com/wp-content/uploads/sites/2/7a15c31e-bdcc-450e-925e-119241a0249b.jpg?resize=1200,675",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:-Rdh31Cs3gs": {
+  "url": "https://www.youtube.com/watch?v=-Rdh31Cs3gs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-Rdh31Cs3gs",
+  "title": "Dr Tech #2 The DNA Data revolution with Biomemory",
+  "author": "Natixis Corporate & Investment Banking",
+  "thumbnail": "https://i.ytimg.com/vi/-Rdh31Cs3gs/hqdefault.jpg"
+ },
+ "img:https://next.ink/wp-content/uploads/2024/06/image-43.png": {
+  "url": "https://next.ink/wp-content/uploads/2024/06/image-43.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://next.ink/wp-content/uploads/2024/06/image-46-1024x576.png": {
+  "url": "https://next.ink/wp-content/uploads/2024/06/image-46-1024x576.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:SLn_SkL7vkQ": {
+  "url": "https://www.youtube.com/watch?v=SLn_SkL7vkQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "SLn_SkL7vkQ",
+  "title": "Cello Demo",
+  "author": "CIDAR LAB",
+  "thumbnail": "https://i.ytimg.com/vi/SLn_SkL7vkQ/hqdefault.jpg"
+ },
+ "img:https://news.mit.edu/sites/default/files/images/201603/MIT-Program-Bacteria.jpg": {
+  "url": "https://news.mit.edu/sites/default/files/images/201603/MIT-Program-Bacteria.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/science.aac7341": {
+  "doi": "10.1126/science.aac7341",
+  "ok": true,
+  "type": "doi",
+  "title": "Genetic circuit design automation",
+  "year": 2016,
+  "venue": "Science",
+  "url": "https://doi.org/10.1126/science.aac7341"
+ },
+ "video:youtube:qD7hUZ5pVP4": {
+  "url": "https://www.youtube.com/watch?v=qD7hUZ5pVP4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qD7hUZ5pVP4",
+  "title": "Scientist Stories: Michael Elowitz, Genetic Circuits in Living Cells",
+  "author": "Axial",
+  "thumbnail": "https://i.ytimg.com/vi/qD7hUZ5pVP4/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/0/03/Repressilator_%28representation_based_on_Elowitz_%26_Liebler_2000%29.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Repressilator_%28representation_based_on_Elowitz_%26_Liebler_2000%29.png",
+  "ok": true,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
+  "unverified": true
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/35002125": {
+  "doi": "10.1038/35002125",
+  "ok": true,
+  "type": "doi",
+  "title": "A synthetic oscillatory network of transcriptional regulators",
+  "year": 2000,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/35002125"
+ },
+ "video:youtube:Sde4U1VTaaU": {
+  "url": "https://www.youtube.com/watch?v=Sde4U1VTaaU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Sde4U1VTaaU",
+  "title": "From Genetic Toggle Switches to Living Diagnostics and Therapeutics with James J. Collins",
+  "author": "Pittcon",
+  "thumbnail": "https://i.ytimg.com/vi/Sde4U1VTaaU/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002131/MediaObjects/41586_2000_Article_BF35002131_Fig1_HTML.gif": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002131/MediaObjects/41586_2000_Article_BF35002131_Fig1_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/35002131": {
+  "doi": "10.1038/35002131",
+  "ok": true,
+  "type": "doi",
+  "title": "Construction of a genetic toggle switch in Escherichia coli",
+  "year": 2000,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/35002131"
+ },
+ "video:youtube:WhGG__boRxU": {
+  "url": "https://www.youtube.com/watch?v=WhGG__boRxU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "WhGG__boRxU",
+  "title": "Paul Rothemund: The astonishing promise of DNA folding",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/WhGG__boRxU/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04586/MediaObjects/41586_2006_BFnature04586_Fig2_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04586/MediaObjects/41586_2006_BFnature04586_Fig2_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/nature04586": {
+  "doi": "10.1038/nature04586",
+  "ok": true,
+  "type": "doi",
+  "title": "Folding DNA to create nanoscale shapes and patterns",
+  "year": 2006,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/nature04586"
+ },
+ "video:youtube:fphgFhAn4tA": {
+  "url": "https://www.youtube.com/watch?v=fphgFhAn4tA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "fphgFhAn4tA",
+  "title": "Damien Woods: 21 molecular algorithms using reprogrammable DNA self-assembly",
+  "author": "Thomas Ouldridge",
+  "thumbnail": "https://i.ytimg.com/vi/fphgFhAn4tA/hqdefault.jpg"
+ },
+ "img:https://caltech-prod.resources.caltech.edu/main/images/Winfree-Algorithmic-Molecular-Self.d0f1a612.max-1400x800.jpg": {
+  "url": "https://caltech-prod.resources.caltech.edu/main/images/Winfree-Algorithmic-Molecular-Self.d0f1a612.max-1400x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41586-019-1014-9": {
+  "doi": "10.1038/s41586-019-1014-9",
+  "ok": true,
+  "type": "doi",
+  "title": "Diverse and robust molecular algorithms using reprogrammable DNA self-assembly",
+  "year": 2019,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-019-1014-9"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05218-7/MediaObjects/41586_2022_5218_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05218-7/MediaObjects/41586_2022_5218_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41586-022-05218-7": {
+  "doi": "10.1038/s41586-022-05218-7",
+  "ok": true,
+  "type": "doi",
+  "title": "Nonlinear decision-making with enzymatic neural networks",
+  "year": 2022,
+  "venue": "Nature",
+  "url": "https://doi.org/10.1038/s41586-022-05218-7"
+ },
+ "doi:10.1021/nl0620684": {
+  "doi": "10.1021/nl0620684",
+  "ok": true,
+  "type": "doi",
+  "title": "Medium Scale Integration of Molecular Logic Gates in an Automaton",
+  "year": 2006,
+  "venue": "Nano Letters",
+  "url": "https://doi.org/10.1021/nl0620684"
+ },
+ "video:youtube:IThHS5rkTPw": {
+  "url": "https://www.youtube.com/watch?v=IThHS5rkTPw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IThHS5rkTPw",
+  "title": "The first ever DNA computer engine and storage device",
+  "author": "Somewhere on Earth: The Global Tech Podcast ex BBC",
+  "thumbnail": "https://i.ytimg.com/vi/IThHS5rkTPw/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01771-6/MediaObjects/41565_2024_1771_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01771-6/MediaObjects/41565_2024_1771_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41565-024-01771-6": {
+  "doi": "10.1038/s41565-024-01771-6",
+  "ok": true,
+  "type": "doi",
+  "title": "A primordial DNA store and compute engine",
+  "year": 2024,
+  "venue": "Nature Nanotechnology",
+  "url": "https://doi.org/10.1038/s41565-024-01771-6"
+ },
+ "ytmax:75k8sqh5tfQ": {
+  "url": "https://i.ytimg.com/vi/75k8sqh5tfQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:CT_zB9XJ7kI": {
+  "url": "https://i.ytimg.com/vi/CT_zB9XJ7kI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:d8Jwn9VuD0s": {
+  "url": "https://i.ytimg.com/vi/d8Jwn9VuD0s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_DB-RAgAlVI": {
+  "url": "https://i.ytimg.com/vi/_DB-RAgAlVI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:awY2WjxjAek": {
+  "url": "https://i.ytimg.com/vi/awY2WjxjAek/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:p4C-7ina7-o": {
+  "url": "https://i.ytimg.com/vi/p4C-7ina7-o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GwKuFREOgmo": {
+  "url": "https://i.ytimg.com/vi/GwKuFREOgmo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:dYQG6ac38UA": {
+  "url": "https://i.ytimg.com/vi/dYQG6ac38UA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zqR0jWoYbfw": {
+  "url": "https://i.ytimg.com/vi/zqR0jWoYbfw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:EbHDSabIN-w": {
+  "url": "https://i.ytimg.com/vi/EbHDSabIN-w/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:yoCwysg_YpI": {
+  "url": "https://i.ytimg.com/vi/yoCwysg_YpI/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qREuXKvWMqA": {
+  "url": "https://i.ytimg.com/vi/qREuXKvWMqA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jz7ftR8ln0I": {
+  "url": "https://i.ytimg.com/vi/jz7ftR8ln0I/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:aQRBCCjaYGE": {
+  "url": "https://i.ytimg.com/vi/aQRBCCjaYGE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:g_eLsiAv8w4": {
+  "url": "https://i.ytimg.com/vi/g_eLsiAv8w4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:aBYtBXaxsOw": {
+  "url": "https://i.ytimg.com/vi/aBYtBXaxsOw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4z-3DTlSnp0": {
+  "url": "https://i.ytimg.com/vi/4z-3DTlSnp0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3UXG4xL0S4g": {
+  "url": "https://i.ytimg.com/vi/3UXG4xL0S4g/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:1fvlYZ0zwa0": {
+  "url": "https://i.ytimg.com/vi/1fvlYZ0zwa0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:p3DLgbOV9UM": {
+  "url": "https://i.ytimg.com/vi/p3DLgbOV9UM/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:IesRn6ca-ws": {
+  "url": "https://i.ytimg.com/vi/IesRn6ca-ws/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:gfC3eVjmpfo": {
+  "url": "https://i.ytimg.com/vi/gfC3eVjmpfo/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:E8YwpECaHdw": {
+  "url": "https://i.ytimg.com/vi/E8YwpECaHdw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:PudGp0BeHTw": {
+  "url": "https://i.ytimg.com/vi/PudGp0BeHTw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:LZgdOelmIVw": {
+  "url": "https://i.ytimg.com/vi/LZgdOelmIVw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:skCzl7FlM34": {
+  "url": "https://i.ytimg.com/vi/skCzl7FlM34/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:MI__Nm6EzvA": {
+  "url": "https://i.ytimg.com/vi/MI__Nm6EzvA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7XbElMI6OaA": {
+  "url": "https://i.ytimg.com/vi/7XbElMI6OaA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BwMT_ok4WW0": {
+  "url": "https://i.ytimg.com/vi/BwMT_ok4WW0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5EIAGsc4cR0": {
+  "url": "https://i.ytimg.com/vi/5EIAGsc4cR0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5MJZd1PnqvM": {
+  "url": "https://i.ytimg.com/vi/5MJZd1PnqvM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:UhPbln4vnvw": {
+  "url": "https://i.ytimg.com/vi/UhPbln4vnvw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:kaTWbghsweI": {
+  "url": "https://i.ytimg.com/vi/kaTWbghsweI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:AXA7plI6-6M": {
+  "url": "https://i.ytimg.com/vi/AXA7plI6-6M/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:th1bLBuLdc4": {
+  "url": "https://i.ytimg.com/vi/th1bLBuLdc4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pH5CVb7yjFw": {
+  "url": "https://i.ytimg.com/vi/pH5CVb7yjFw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:_ZfthP_7s5g": {
+  "url": "https://i.ytimg.com/vi/_ZfthP_7s5g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1JOS6hMHIUM": {
+  "url": "https://i.ytimg.com/vi/1JOS6hMHIUM/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:8SGx2qmo9M4": {
+  "url": "https://i.ytimg.com/vi/8SGx2qmo9M4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:mpz9Nq-Ud8c": {
+  "url": "https://i.ytimg.com/vi/mpz9Nq-Ud8c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:n2k1T2X7_Aw": {
+  "url": "https://i.ytimg.com/vi/n2k1T2X7_Aw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L0jBzi-gKco": {
+  "url": "https://i.ytimg.com/vi/L0jBzi-gKco/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Byo55asQUwM": {
+  "url": "https://i.ytimg.com/vi/Byo55asQUwM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:mrEAwZJKxzE": {
+  "url": "https://i.ytimg.com/vi/mrEAwZJKxzE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Bhqf8M5yYIw": {
+  "url": "https://i.ytimg.com/vi/Bhqf8M5yYIw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:N_VisNOKQMc": {
+  "url": "https://i.ytimg.com/vi/N_VisNOKQMc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:idCjH20I65M": {
+  "url": "https://i.ytimg.com/vi/idCjH20I65M/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:tBvd7OSDGgQ": {
+  "url": "https://i.ytimg.com/vi/tBvd7OSDGgQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qloX87Apz2o": {
+  "url": "https://i.ytimg.com/vi/qloX87Apz2o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kXHfQ1KafK4": {
+  "url": "https://i.ytimg.com/vi/kXHfQ1KafK4/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:yo5Q1WfpMtw": {
+  "url": "https://i.ytimg.com/vi/yo5Q1WfpMtw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:HzCTP6rZI7s": {
+  "url": "https://i.ytimg.com/vi/HzCTP6rZI7s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-Rdh31Cs3gs": {
+  "url": "https://i.ytimg.com/vi/-Rdh31Cs3gs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:SLn_SkL7vkQ": {
+  "url": "https://i.ytimg.com/vi/SLn_SkL7vkQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:qD7hUZ5pVP4": {
+  "url": "https://i.ytimg.com/vi/qD7hUZ5pVP4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Sde4U1VTaaU": {
+  "url": "https://i.ytimg.com/vi/Sde4U1VTaaU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:WhGG__boRxU": {
+  "url": "https://i.ytimg.com/vi/WhGG__boRxU/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:fphgFhAn4tA": {
+  "url": "https://i.ytimg.com/vi/fphgFhAn4tA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:IThHS5rkTPw": {
+  "url": "https://i.ytimg.com/vi/IThHS5rkTPw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }

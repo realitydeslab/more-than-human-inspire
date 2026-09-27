@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-27 · 304 creators · 481 works
+https://morethanhuman.reality.design · 2026-09-27 · 360 creators · 557 works
 
 ## How an AI assistant should use this file
 
@@ -2649,9 +2649,9 @@ Buildings and structures that grow, breathe, repair or host life.
 - Images: https://www.designboom.com/twitterimages/uploads/2013/06/dune_01.jpg
 - Project page: https://www.designboom.com/architecture/magnus-larsson-sculpts-the-saharan-desert-with-bacteria/
 
-### Synthetic Biology Design
+### Genetic & Synthetic Biology Design
 
-Designers working with engineered organisms, and speculative synthetic-biology futures.
+Designers working with genetically modified and engineered organisms: glowing plants, edited microbes, new species and their speculative futures.
 
 #### Consume Our Consumption (Plascetamol) — Jiabao Li (2024)
 - Type: Speculative design · Organisms: Insects, Bacteria & microbes
@@ -3227,6 +3227,15 @@ Devices and displays with living organisms inside, and how people care for them.
 - Paper: https://doi.org/10.1145/3544548.3581276 (CHI 2023)
 - Video: https://www.youtube.com/watch?v=tAAHQFDw1Gc
 
+#### Kombucha electronics: electronic circuits on kombucha mats — Andrew Adamatzky (2023)
+- Type: Paper · Organisms: Bacteria & microbes, Fungi
+- Idea: Grow your circuit board from tea, sugar and microbes.
+- What it is: Circuits were printed and mounted on dried and living kombucha mats, the cellulose films grown by bacteria and yeast; LEDs and simple circuits kept working even after the mats were folded or crumpled.
+- How it works: Conductive polymer tracks were printed and components attached to bacterial cellulose mats from a SCOBY culture, then tested under bending and tearing.
+- Paper: https://doi.org/10.1038/s41598-023-36244-8 (Scientific Reports)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-023-36244-8/MediaObjects/41598_2023_36244_Fig1_HTML.jpg
+- Project page: https://www.nature.com/articles/s41598-023-36244-8
+
 #### SCOBY Breastplate: Slowly Growing a Microbial Interface — Fiona Bell, Mirela Alistar (2023)
 - Type: Artwork · Organisms: Bacteria & microbes, Fungi, Human body
 - Idea: Prototype at the pace of the organism, not at the pace of fail-fast.
@@ -3246,6 +3255,16 @@ Devices and displays with living organisms inside, and how people care for them.
 - Images: https://lab.plopes.org/project-thumbnails/UIST22-IntegratingPhysarum.png
 - Project page: https://lab.plopes.org/
 - Code: https://github.com/humancomputerintegration/integrating-living-organisms
+
+#### MycelioTronics: Fungal mycelium skin for sustainable electronics — Martin Kaltenbrunner (2022)
+- Type: Paper · Organisms: Fungi
+- Idea: Replace plastic circuit boards with a skin grown by a fungus.
+- What it is: The thin skin that Ganoderma lucidum grows on wood is peeled off and used as a flexible, heat-resistant substrate for circuit boards, batteries and sensors that decompose in soil.
+- How it works: Mycelium skins are harvested from beech-wood cultures, dried and laminated, then metallised with laser-patterned copper and gold tracks.
+- Paper: https://doi.org/10.1126/sciadv.add7118 (Science Advances)
+- Video: https://www.youtube.com/watch?v=jz7ftR8ln0I
+- Images: https://www.jku.at/fileadmin/_processed_/7/f/csm_myceliotronics_edabc67f66.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/8059/9651864/c189498a5480/sciadv.add7118-f1.jpg
+- Project page: https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/news-highlights/detail/news/publication-myceliotronics-fungal-mycelium-skin-for-sustainable-electronics/
 
 #### Designing Direct Interactions with Bioluminescent Algae — Netta Ofer, Fiona Bell, Mirela Alistar (2021)
 - Type: Paper · Organisms: Algae
@@ -3513,6 +3532,190 @@ Plants as touch sensors, displays, antennas and robots.
 - How it works: The electrical potential difference between plant and visitor's body is measured and mapped to the growth of 3D computer-generated plants.
 - Video: https://www.youtube.com/watch?v=JXX7JNFD2X8
 
+### Fungal & Slime-mould Computing
+
+Mycelium and slime moulds that sense, signal and solve problems.
+
+#### Sustainable memristors from shiitake mycelium for high-frequency bioelectronics — John LaRocco (2025)
+- Type: Paper · Organisms: Fungi
+- Idea: Grow computer memory from edible mushrooms instead of mining rare materials.
+- What it is: Dehydrated shiitake mycelium was wired into circuits and worked as a memristor, switching at up to about 5,850 times per second with around 90% accuracy.
+- How it works: Shiitake mycelium cultured on growth medium was dried, rehydrated and connected with electrodes, then characterised with voltage sweeps at different frequencies.
+- Paper: https://doi.org/10.1371/journal.pone.0328965 (PLOS One)
+- Images: https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001
+- Project page: https://news.osu.edu/powered-by-mushrooms-living-computers-are-on-the-rise/
+
+#### Language of fungi derived from their electrical spiking activity — Andrew Adamatzky (2022)
+- Type: Paper · Organisms: Fungi
+- Idea: Treat fungal electrical activity as a signal to decode, maybe even a language, not as noise.
+- What it is: Electrodes pushed into mycelium-colonised substrates of four fungal species recorded trains of electrical spikes; grouping the spikes into 'words' gave vocabularies of up to about 50 words per species.
+- How it works: Sub-dermal needle electrodes and a data logger recorded voltage spikes from enoki, split gill, ghost and caterpillar fungi over days, then spike trains were clustered and analysed with linguistic complexity measures.
+- Paper: https://doi.org/10.1098/rsos.211926 (Royal Society Open Science)
+- Video: https://www.youtube.com/watch?v=CT_zB9XJ7kI
+- Images: https://blogs.uwe.ac.uk/research-external-engagement/wp-content/uploads/sites/3/2022/04/mushrrooms.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49d0/8984380/3cd48c7b91b5/rsos211926f01.jpg
+- Project page: https://blogs.uwe.ac.uk/research-business-innovation/uwe-bristol-academic-researches-the-language-of-fungi-derived-from-their-electrical-spiking-activity/
+
+#### Encoding memory in tube diameter hierarchy of living flow network — Karen Alim (2021)
+- Type: Paper · Organisms: Slime mould
+- Idea: Memory can be stored in the shape of a body.
+- What it is: When a slime mould finds food, the tubes near it thicken and others shrink; the pattern of tube widths persists and stores where food was found, working as a memory written into the body.
+- How it works: Microscopy of Physarum networks after local food stimuli, combined with a flow model where a softening agent is carried by cytoplasmic flow.
+- Paper: https://doi.org/10.1073/pnas.2007815118 (PNAS)
+- Images: https://mediasvc.eurekalert.org/Api/v1/Multimedia/22575943-afdb-431d-8165-5265f158dee5/Rendition/low-res/Content/Public https://mediasvc.eurekalert.org/Api/v1/Multimedia/5c929f33-15de-44df-a0df-92f842bc5852/Rendition/low-res/Content/Public
+- Project page: https://www.eurekalert.org/news-releases/671382
+
+#### Reactive fungal wearable — Andrew Adamatzky (2021)
+- Type: Paper · Organisms: Fungi, Human body
+- Idea: Clothing that feels, because a fungus is woven into it.
+- What it is: Patches of living oyster mushroom mycelium worn on the body spike electrically when pressed or stretched, turning the fungus into a wearable sensor.
+- How it works: Mycelium-colonised hemp patches with needle electrodes were stimulated mechanically and their spiking responses recorded.
+- Paper: https://doi.org/10.1016/j.biosystems.2020.104304 (BioSystems)
+- Images: https://ars.els-cdn.com/content/image/1-s2.0-S0303264720301805-gr1.jpg
+- Project page: https://www.sciencedirect.com/science/article/pii/S0303264720301805
+
+#### Towards fungal sensing skin — Andrew Adamatzky (2021)
+- Type: Paper · Organisms: Fungi
+- Idea: A skin that grows, heals and senses because it is alive.
+- What it is: A thin sheet of living Ganoderma mycelium responds to touch and light with changes in its electrical potential, working as a soft sensing skin that could cover robots or buildings.
+- How it works: Electrodes on a mycelium-bound hemp sheet record spikes and potential shifts when weights press on it or it is illuminated.
+- Paper: https://doi.org/10.1186/s40694-021-00113-8 (Fungal Biology and Biotechnology)
+- Images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40694-021-00113-8/MediaObjects/40694_2021_113_Fig1_HTML.jpg
+- Project page: https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-021-00113-8
+
+#### Élève ta blob (Raise your blob) — Audrey Dussutour (2021)
+- Type: Research prototype · Organisms: Slime mould
+- Idea: A brainless organism can become a shared experiment between astronauts and schoolchildren.
+- What it is: A citizen-science experiment by CNES and CNRS: slime moulds flew to the International Space Station with astronaut Thomas Pesquet while thousands of French classrooms ran the same feeding experiments on Earth.
+- How it works: Dormant, dried Physarum samples were revived in microgravity and in schools; students photographed growth under different food conditions and compared it with the ISS results.
+- Video: https://www.youtube.com/watch?v=zqR0jWoYbfw
+- Images: https://lejournal.cnrs.fr/sites/default/files/styles/visuel_principal/public/assets/images/le_blob_myxomycete_h8082_ter.jpg https://i.ytimg.com/vi/zqR0jWoYbfw/maxresdefault.jpg
+- Project page: https://lejournal.cnrs.fr/articles/le-blob-a-la-conquete-de-lespace
+
+#### Ecological memory and relocation decisions in fungal mycelial networks — Yu Fukasawa (2020)
+- Type: Paper · Organisms: Fungi
+- Idea: A mycelial network carries a memory of where it has been going.
+- What it is: A wood-decay fungus that grew from one wood block to a new one 'remembered' the direction it had come from: when moved to fresh soil, it regrew mainly from the side facing its former target.
+- How it works: Phanerochaete velutina was grown between wood blocks on soil; after transferring the original block, the direction and extent of new growth were measured.
+- Paper: https://doi.org/10.1038/s41396-019-0536-3 (The ISME Journal)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41396-019-0536-3/MediaObjects/41396_2019_536_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41396-019-0536-3
+
+#### FUNGAR — Fungal Architectures — Andrew Adamatzky (2019)
+- Type: Speculative design · Organisms: Fungi
+- Idea: A building whose walls are a living, thinking fungal network.
+- What it is: An EU research project (2019–2023) that aimed to grow a building from living mycelium composites that would sense light, touch and pollutants and process that information, a 'fungal architecture' that computes.
+- How it works: Mycelium-bound building blocks with embedded electrodes were tested as sensors and computing elements, alongside functionalisation with nanoparticles.
+- Video: https://www.youtube.com/watch?v=awY2WjxjAek
+- Images: https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg https://cordis.europa.eu/docs/article/images/2023-10/446827.jpg
+- Project page: https://www.fungar.eu/
+
+#### Towards fungal computer — Andrew Adamatzky (2018)
+- Type: Paper · Organisms: Fungi
+- Idea: A mushroom colony is a wet, self-growing circuit board.
+- What it is: A proposal for a computer made of a living mycelium network, in which electrical spikes travelling through hyphae are the signals and the network geometry is the circuit.
+- How it works: Based on recorded action-potential-like spikes in oyster mushroom mycelium, the paper outlines how stimuli at some points could be read as spike patterns at others to implement logic.
+- Paper: https://doi.org/10.1098/rsfs.2018.0029 (Interface Focus)
+- Video: https://www.youtube.com/watch?v=d8Jwn9VuD0s
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49a6/6227805/0820f15791d1/rsfs20180029-g1.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC6227805/
+
+#### Habituation in non-neural organisms: evidence from slime moulds — Audrey Dussutour (2016)
+- Type: Paper · Organisms: Slime mould
+- Idea: Learning does not need a nervous system.
+- What it is: Slime moulds that had to cross a bridge coated with bitter but harmless quinine or caffeine to reach food hesitated less each day, and recovered their aversion after a pause: a simple form of learning without neurons.
+- How it works: Physarum polycephalum was trained over six days on agar bridges containing repellents; crossing time was compared with naive controls.
+- Paper: https://doi.org/10.1098/rspb.2016.0446 (Proceedings of the Royal Society B)
+- Video: https://www.youtube.com/watch?v=dYQG6ac38UA
+- Images: https://upload.wikimedia.org/wikipedia/commons/6/6a/Habituation_P._polycephalum.png https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bccc/4855389/d7b108bb6413/rspb20160446-g1.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC4855389/
+
+#### Biocomputer Music — Eduardo Reck Miranda (2015)
+- Type: Artwork · Organisms: Slime mould
+- Idea: Improvise with a living organism as a musical partner.
+- What it is: A piano duet between composer Eduardo Miranda and a biocomputer: notes he plays are sent through slime-mould memristors, and the altered currents come back as the biocomputer's reply played on the same piano.
+- How it works: Physarum polycephalum grown between electrodes acts as a memristor; MIDI notes are converted to voltages, and the resulting current is mapped back to notes played by electromagnets on the piano.
+- Paper: https://doi.org/10.1007/978-3-319-46282-0_26 (Music, Mind, and Embodiment (CMMR 2015), LNCS)
+- Video: https://www.youtube.com/watch?v=yoCwysg_YpI
+- Images: https://i.ytimg.com/vi/yoCwysg_YpI/hqdefault.jpg
+- Project page: https://link.springer.com/chapter/10.1007/978-3-319-46282-0_26
+
+#### Slime Mould Memristors — Ella Gale, Andrew Adamatzky (2015)
+- Type: Paper · Organisms: Slime mould
+- Idea: A living cell can be a circuit element with memory.
+- What it is: Measurements show that living Physarum polycephalum has a pinched current–voltage loop, the signature of a memristor, so its resistance depends on the current that has passed through it.
+- How it works: Current–voltage sweeps were applied across slime-mould tubes between electrodes and the hysteresis loops analysed.
+- Paper: https://doi.org/10.1007/s12668-014-0156-3 (BioNanoScience)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12668-014-0156-3/MediaObjects/12668_2014_156_Fig1_HTML.gif
+- Project page: https://link.springer.com/article/10.1007/s12668-014-0156-3
+
+#### Characteristics of pattern formation and evolution in approximations of Physarum transport networks — Jeff Jones (2010)
+- Type: Paper · Organisms: Slime mould
+- Idea: A few local rules for sensing and moving are enough to grow organic networks.
+- What it is: A simulation in which thousands of simple agents deposit and follow a chemical trail reproduces the network patterns of slime mould; the model later spread widely as a generative-art technique.
+- How it works: Particles with forward-facing sensors turn toward higher trail concentration and deposit trail as they move; the trail map diffuses and decays each step.
+- Paper: https://doi.org/10.1162/artl.2010.16.2.16202 (Artificial Life)
+- Images: https://media.springernature.com/full/springer-static/cover-hires/book/978-3-319-16823-4
+- Project page: https://direct.mit.edu/artl/article/16/2/127/2650
+
+#### Physarum Machines: Computers from Slime Mould — Andrew Adamatzky (2010)
+- Type: Book & essay · Organisms: Slime mould
+- Idea: A single cell spreading over oat flakes can be read as a general-purpose, if slow, computer.
+- What it is: A book that collects experiments in which the slime mould Physarum polycephalum computes: it builds spanning trees and Voronoi diagrams, routes around obstacles, and acts as logic gates and robot controllers.
+- How it works: Data are encoded as positions of nutrients and repellents; the plasmodium's growing and retracting protoplasmic tubes form the output pattern.
+- Paper: https://doi.org/10.1142/7968 (World Scientific Series on Nonlinear Science)
+- Video: https://www.youtube.com/watch?v=75k8sqh5tfQ
+- Images: https://i.ytimg.com/vi/75k8sqh5tfQ/hqdefault.jpg https://upload.wikimedia.org/wikipedia/commons/5/58/Blob_%28Physarum_polycephalum%29.jpg
+- Project page: https://doi.org/10.1142/7968
+
+#### Road planning with slime mould: if Physarum built motorways — Andrew Adamatzky, Jeff Jones (2010)
+- Type: Paper · Organisms: Slime mould
+- Idea: Let an organism draft infrastructure, then compare its plan with ours.
+- What it is: Oat flakes placed on a map of the UK at the positions of major cities were connected by the slime mould, whose tube network was compared with the real motorway system; later studies repeated this for many countries.
+- How it works: Physarum plasmodium is inoculated at London on an agar map with oat flakes at urban areas; the resulting protoplasmic network is compared with motorway graphs.
+- Paper: https://doi.org/10.1142/S0218127410027568 (International Journal of Bifurcation and Chaos)
+- Video: https://www.youtube.com/watch?v=_DB-RAgAlVI
+- Images: https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/17/1392652837727/A-map-of-the-M6-motorway--011.jpg?width=445&dpr=1&s=none&crop=none https://i.ytimg.com/vi/_DB-RAgAlVI/hqdefault.jpg
+- Project page: https://www.theguardian.com/cities/2014/feb/18/slime-mould-rail-road-transport-routes
+
+#### Rules for biologically inspired adaptive network design (slime mould Tokyo rail) — Toshiyuki Nakagaki, Atsushi Tero (2010)
+- Type: Paper · Organisms: Slime mould
+- Idea: Evolution has already solved network design problems that engineers still work on.
+- What it is: Oat flakes placed like the cities around Tokyo were linked by the slime mould into a network with efficiency, cost and fault tolerance similar to the real rail system; the authors derived a mathematical model from it.
+- How it works: Physarum was grown on a template of the Kanto region with light used to mimic mountains and sea; tube thickening by flow was captured in a simple adaptive-network model.
+- Paper: https://doi.org/10.1126/science.1177894 (Science)
+- Video: https://www.youtube.com/watch?v=GwKuFREOgmo
+- Images: https://media.wired.com/photos/59346eb5d80dd005b42b4404/191:100/w_1280,c_limit/slime_mold_21.jpg
+- Project page: https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/
+
+#### Amoebae anticipate periodic events — Toshiyuki Nakagaki (2008)
+- Type: Paper · Organisms: Slime mould
+- Idea: Even a single cell can keep time and expect the future.
+- What it is: After being exposed to cold, dry pulses at regular intervals, a slime mould slowed down at the time the next pulse would have come, even when it did not come.
+- How it works: Migrating Physarum was subjected to periodic drops in temperature and humidity; its locomotion speed was tracked and modelled with coupled oscillators.
+- Paper: https://doi.org/10.1103/PhysRevLett.100.018101 (Physical Review Letters)
+- Images: https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/1/medium https://journals.aps.org/prl/article/10.1103/PhysRevLett.100.018101/figures/2/medium
+- Project page: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.100.018101
+
+#### Robot control with biological cells — Soichiro Tsuda (2007)
+- Type: Paper · Organisms: Slime mould
+- Idea: Use the rhythm of a living cell as a robot's nervous system.
+- What it is: A six-legged robot was controlled by a living slime mould grown on a star-shaped circuit; light shone on the cell by the robot's sensors changed its oscillations, which drove the legs.
+- How it works: Physarum on a patterned electrode reacts to light stimuli; its local thickness oscillations are measured and mapped to motor commands for a hexapod robot.
+- Paper: https://doi.org/10.1016/j.biosystems.2006.09.016 (BioSystems)
+- Video: https://www.youtube.com/watch?v=EbHDSabIN-w
+- Images: https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr3.jpg https://ars.els-cdn.com/content/image/1-s2.0-S0303264706001687-gr4.jpg
+- Project page: https://www.sciencedirect.com/science/article/pii/S0303264706001687
+
+#### Maze-solving by an amoeboid organism — Toshiyuki Nakagaki (2000)
+- Type: Paper · Organisms: Slime mould
+- Idea: Intelligence can be a property of growth and shrinkage, not of a brain.
+- What it is: A slime mould filling a maze, given food at the entrance and exit, withdrew from dead ends and kept a single tube along the shortest route.
+- How it works: Pieces of Physarum polycephalum plasmodium were placed in an agar maze; oat flakes at two exits caused tubes on longer paths to disappear.
+- Paper: https://doi.org/10.1038/35035159 (Nature)
+- Video: https://www.youtube.com/watch?v=p4C-7ina7-o
+- Images: https://upload.wikimedia.org/wikipedia/commons/d/d1/Slime_mold_solves_maze.png https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35035159/MediaObjects/41586_2000_Article_BF35035159_Fig1_HTML.jpg
+- Project page: https://www.nature.com/articles/35035159
+
 ### Microbial Sensors & Wearables
 
 Engineered or natural microbes as sensors, displays and on-body companions.
@@ -3702,6 +3905,554 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - How it works: A synthetic light-sensing receptor (cyanobacterial phytochrome fused to EnvZ) switches a pigment-producing gene off in light, so exposed cells stay pale. Led by Anselm Levskaya with the Voigt and Ellington labs.
 - Paper: https://doi.org/10.1038/nature04405 (Nature 2005)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04405/MediaObjects/41586_2005_BFnature04405_Fig1_HTML.jpg
+
+### Biohybrid Robots
+
+Robots driven by muscle, cells, fungi or whole organisms.
+
+#### Biohybrid hand actuated by multiple human muscle tissues — Shoji Takeuchi (2025)
+- Type: Paper · Organisms: Cells & tissue, Human body
+- Idea: Bundle thin muscles like sushi rolls to reach the size of a human hand.
+- What it is: An 18-centimetre hand whose fingers bend and pinch, powered by bundles of rolled human muscle tissue, a jump in scale from earlier millimetre-sized biohybrids.
+- How it works: Thin sheets of cultured human muscle were rolled into 'MuMuTAs' (multiple muscle tissue actuators) and attached as tendons to a 3D-printed hand, then electrically stimulated.
+- Paper: https://doi.org/10.1126/scirobotics.adr5512 (Science Robotics)
+- Images: https://www.u-tokyo.ac.jp/content/400256657.png https://assets.newatlas.com/dims4/default/a710743/2147483647/strip/true/crop/1541x867+0+80/resize/1200x675!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F5c%2F61%2Fcc6a072746f2850ddb3fb7743f85%2Fbiohybrid-hand.jpg
+- Project page: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00386.html
+
+#### Cyborg insect factory: automatic assembly for insect-computer hybrid robots — Hirotaka Sato (2025)
+- Type: Paper · Organisms: Insects
+- Idea: Mass-producing cyborg animals changes the questions from 'can we' to 'should we, at scale'.
+- What it is: A robot arm guided by computer vision attaches electronic backpacks to cockroaches in about a minute each, turning cyborg-insect assembly into a production line.
+- How it works: A deep-learning vision system locates the insect's body segments and a robot arm mounts a backpack whose electrodes stimulate the pronotum for steering.
+- Paper: https://doi.org/10.1038/s41467-025-60779-1 (Nature Communications)
+- Video: https://www.youtube.com/watch?v=AXA7plI6-6M
+- Images: https://www.ntu.edu.sg/media/images/default-source/hub-news/ai-powered-robot-assembles-search-and-rescue-cyborg-insects.jpg?sfvrsn=e402bfbb_1 https://mediasvc.eurekalert.org/Api/v1/Multimedia/5b6abd45-9ddb-43d8-8d02-480c0afa2be2/Rendition/low-res/Content/Public
+- Project page: https://www.ntu.edu.sg/news/detail/ai-powered-robot-assembles-search-and-rescue-cyborg-insects
+
+#### Swarm navigation of cyborg-insects in unknown obstructed soft terrain — Hirotaka Sato (2025)
+- Type: Paper · Organisms: Insects
+- Idea: Combine animal agility with swarm algorithms rather than controlling each insect tightly.
+- What it is: A group of cyborg cockroaches navigates as a swarm over rough terrain, with an algorithm that lets stuck insects be helped free by others.
+- How it works: Each cockroach carries a backpack with sensors and stimulators; a leader–follower algorithm uses the insects' natural behaviours and only nudges them occasionally.
+- Paper: https://doi.org/10.1038/s41467-024-55197-8 (Nature Communications)
+- Video: https://www.youtube.com/watch?v=th1bLBuLdc4
+- Images: https://mediasvc.eurekalert.org/Api/v1/Multimedia/bed9d6e1-f699-4016-a69e-e15ab06c6789/Rendition/low-res/Content/Public https://mediasvc.eurekalert.org/Api/v1/Multimedia/6926c6e1-bf85-4799-abdb-1ad761d046aa/Rendition/low-res/Content/Public
+- Project page: https://www.eurekalert.org/news-releases/1069510
+
+#### Biohybrid bipedal robot powered by skeletal muscle tissue — Shoji Takeuchi (2024)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Human-like walking with real muscle, not motors.
+- What it is: A small two-legged robot walks and turns underwater, each leg pulled by a strip of lab-grown muscle that contracts when stimulated.
+- How it works: Cultured skeletal muscle tissue attached to a flexible silicone body with a float; electrodes in the water trigger alternate leg contractions.
+- Paper: https://doi.org/10.1016/j.matt.2023.12.035 (Matter)
+- Video: https://www.youtube.com/watch?v=IesRn6ca-ws
+- Images: https://www.u-tokyo.ac.jp/content/400231540.jpg https://www.u-tokyo.ac.jp/content/400231539.gif
+- Project page: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00329.html
+
+#### Electromechanical enhancement of live jellyfish for ocean exploration — John Dabiri (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Recruit animals as ocean sensors that power themselves.
+- What it is: Live jellyfish wear a 3D-printed streamlined 'hat' that can carry sensors, and a pacemaker makes them swim faster, as a step toward jellyfish that sample the deep ocean.
+- How it works: A 3D-printed forebody reduces drag and holds a payload; swimming was tested in a tall vertical tank with the electronic stimulator.
+- Paper: https://doi.org/10.1088/1748-3190/ad277f (Bioinspiration & Biomimetics)
+- Video: https://www.youtube.com/watch?v=_ZfthP_7s5g
+- Images: https://caltech-prod.resources.caltech.edu/main/images/Dabiri-Jellyfish-Explorers-w.91523faf.fill-1600x810-c100.jpg
+- Project page: https://www.caltech.edu/about/news/building-bionic-jellyfish-for-ocean-exploration
+
+#### Perforation-type anchors inspired by skin ligament for robotic face covered with living skin — Shoji Takeuchi (2024)
+- Type: Paper · Organisms: Cells & tissue, Human body
+- Idea: Anchor living tissue the way ligaments do, so a machine can wear a face.
+- What it is: A small robotic face covered with lab-grown skin that is held on by anchors through tiny holes, so the skin moves with the face and forms a smile.
+- How it works: V-shaped perforations in the robot's surface fill with collagen gel and fibroblasts that anchor the dermis; the face is moved by actuators beneath.
+- Paper: https://doi.org/10.1016/j.xcrp.2024.102066 (Cell Reports Physical Science)
+- Video: https://www.youtube.com/watch?v=p3DLgbOV9UM
+- Images: https://www.u-tokyo.ac.jp/content/400242951.png https://www.u-tokyo.ac.jp/content/400242950.png
+- Project page: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00360.html
+
+#### Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia — Anand Kumar Mishra, Rob Shepherd (2024)
+- Type: Paper · Organisms: Fungi
+- Idea: Put a fungus in the control loop so the robot senses the world through a living organism.
+- What it is: Two robots, a soft star-shaped walker and a wheeled rover, were driven by electrical spikes from living king oyster mycelium; shining UV light on the fungus changed its signals and so the robots' gait.
+- How it works: Mycelium grown into an electrode interface in a 3D-printed scaffold; its spikes are filtered and converted into actuator commands, with UV light as the stimulus.
+- Paper: https://doi.org/10.1126/scirobotics.adk8019 (Science Robotics)
+- Video: https://www.youtube.com/watch?v=qREuXKvWMqA
+- Images: https://news.cornell.edu/sites/default/files/2024-08/figure-6a.jpg https://www.popsci.com/wp-content/uploads/2024/09/mushroom-robot.png
+- Project page: https://news.cornell.edu/stories/2024/08/biohybrid-robots-controlled-electrical-impulses-mushrooms
+
+#### Anthrobots: Motile living biobots self-construct from adult human somatic progenitor seed cells — Gizem Gumuskaya, Michael Levin (2023)
+- Type: Paper · Organisms: Cells & tissue, Human body
+- Idea: Our own cells, freed from the body plan, can become new kinds of creatures.
+- What it is: Single adult human airway cells grown in a new environment built themselves into moving multicellular bots; placed on a scratched layer of human neurons, they helped the gap close.
+- How it works: Human tracheal epithelial cells were grown as organoids in Matrigel and then in low-viscosity medium, which turned their cilia outward so they could swim.
+- Paper: https://doi.org/10.1002/advs.202303575 (Advanced Science)
+- Video: https://www.youtube.com/watch?v=4z-3DTlSnp0
+- Images: https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-11/231130_anthrobots_lg.jpg https://wyss-prod.imgix.net/app/uploads/2023/11/29101538/Anthrobot-with-Cilia-02.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=db2cbe30b4a028e3f25f665e437c31f2
+- Project page: https://now.tufts.edu/2023/11/30/scientists-build-tiny-biological-robots-human-cells
+
+#### Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics — Rashid Bashir (2023)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Combine living muscle with battery-free electronics for untethered control.
+- What it is: Muscle-powered biobots carry a tiny wireless LED circuit on their backs; flashing the light contracts light-sensitive muscle, so each bot can be steered and turned remotely.
+- How it works: Optogenetic skeletal muscle is paired with a soft, wirelessly powered micro-LED module from John Rogers' group; radio frequency powers the lights.
+- Paper: https://doi.org/10.1126/scirobotics.add1053 (Science Robotics)
+- Video: https://www.youtube.com/watch?v=MI__Nm6EzvA
+- Images: https://news.northwestern.edu/assets/Stories/2023/01/biobot1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg
+- Project page: https://news.northwestern.edu/stories/2023/01/muscle-powered-robots-have-freedom-of-movement/
+
+#### An autonomously swimming biohybrid fish designed with human cardiac biophysics — Kit Parker (2022)
+- Type: Paper · Organisms: Cells & tissue, Human body
+- Idea: Build a heart's feedback loop into a body, and it keeps itself going.
+- What it is: A paper-and-gelatin fish powered by two layers of human stem-cell-derived heart muscle swims on its own for more than 100 days, with a built-in pacemaker node.
+- How it works: Human cardiomyocytes on each side of the tail stretch-activate each other in turn, while a separate node of cells sets the rhythm.
+- Paper: https://doi.org/10.1126/science.abh0474 (Science)
+- Video: https://www.youtube.com/watch?v=PudGp0BeHTw
+- Images: https://seas.harvard.edu/sites/default/files/styles/opengraph/public/2022-02/hFish_02.jpg?h=406f0743&itok=nfC2Gm-2 https://www.seas.harvard.edu/sites/default/files/styles/embedded_image_large/public/2022-02/hFish_09.jpg?itok=xPJWhb42
+- Project page: https://www.seas.harvard.edu/news/2022/02/biohybrid-fish-made-human-cardiac-cells-swims-heart-beats
+
+#### Integration of body-mounted ultrasoft organic solar cell on cyborg insects with intact mobility — Kenjiro Fukuda, Hirotaka Sato (2022)
+- Type: Paper · Organisms: Insects
+- Idea: Design electronics thin enough that the animal's own body still works.
+- What it is: Madagascar hissing cockroaches carry a 3D-printed backpack and a 4-micrometre-thick solar film on their abdomen, which recharges the battery that steers them without stopping them from moving or righting themselves.
+- How it works: An ultrathin organic photovoltaic film with adhesive and non-adhesive stripes follows abdominal segments; a wireless module stimulates the cerci to steer.
+- Paper: https://doi.org/10.1038/s41528-022-00207-2 (npj Flexible Electronics)
+- Video: https://www.youtube.com/watch?v=kaTWbghsweI
+- Images: https://www.riken.jp/news-pubs-en/research-news-en/2022-research-en/20220905_2_twitter.png
+- Project page: https://www.riken.jp/en/news_pubs/research_news/pr/2022/20220905_2/index.html
+
+#### Living skin on a robot — Shoji Takeuchi (2022)
+- Type: Paper · Organisms: Cells & tissue, Human body
+- Idea: A robot that can be wounded and heal, with skin like ours.
+- What it is: A robotic finger was covered in cultured human skin that stretched as it bent, repelled water like real skin and healed a cut when a collagen bandage was applied.
+- How it works: The finger was dipped into a solution of collagen and human dermal fibroblasts that shrank to fit, then seeded with keratinocytes to form an epidermis.
+- Paper: https://doi.org/10.1016/j.matt.2022.05.019 (Matter)
+- Video: https://www.youtube.com/watch?v=1fvlYZ0zwa0
+- Images: https://www.u-tokyo.ac.jp/content/400189277.png https://www.u-tokyo.ac.jp/content/400189276.png
+- Project page: https://www.u-tokyo.ac.jp/focus/en/press/z0508_00225.html
+
+#### Necrobotics: Biotic materials as ready-to-use actuators — Daniel Preston (2022)
+- Type: Paper · Organisms: Insects, Animals
+- Idea: A dead body can still be a finished, working machine.
+- What it is: Dead wolf spiders turned into grippers: injecting air into the body extends the legs, and releasing it lets them close to pick up objects heavier than the spider.
+- How it works: Spiders move legs hydraulically; a needle glued into the cephalothorax connects to a syringe that pressurises the body to open the legs.
+- Paper: https://doi.org/10.1002/advs.202201174 (Advanced Science)
+- Video: https://www.youtube.com/watch?v=1JOS6hMHIUM
+- Images: https://news.rice.edu/sites/g/files/bxs2656/files/2022-07/0718_necro_b_1.jpg https://news.rice.edu/sites/g/files/bxs2656/files/inline-images/0718_NECRO%201%20RN.jpg
+- Project page: https://news.rice.edu/news/2022/rice-engineers-get-grip-necrobotic-spiders
+
+#### A cellular platform for the development of synthetic living machines (Xenobots 2.0) — Douglas Blackiston, Michael Levin, Josh Bongard, Sam Kriegman (2021)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Let cells self-organise the body, then program behaviour on top.
+- What it is: Frog stem cells left to self-assemble formed spherical Xenobots that swim with hair-like cilia, work together to gather debris into piles and can record an encounter with a colour-changing memory protein.
+- How it works: Xenopus animal-cap cells aggregate into spheroids covered in motile cilia; mRNA for the photoconvertible protein EosFP serves as a one-bit memory of blue-light exposure.
+- Paper: https://doi.org/10.1126/scirobotics.abf1571 (Science Robotics)
+- Video: https://www.youtube.com/watch?v=g_eLsiAv8w4
+- Images: https://now.tufts.edu/sites/default/files/uploaded-assets/images/2022-04/next-generation-living-robots.jpg https://now.tufts.edu/sites/default/files/inline-images/eofsp2%2520vTN%281%29.jpg
+- Project page: https://now.tufts.edu/2021/03/31/scientists-create-next-generation-living-robots
+
+#### Kinematic self-replication in reconfigurable organisms — Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard (2021)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: A new way for life to reproduce: by building copies from loose parts, like a machine would.
+- What it is: Xenobots swimming among loose frog stem cells pushed them into piles that matured into new Xenobots; an AI-designed 'Pac-Man' shape kept this replication going for more generations.
+- How it works: Evolutionary search in simulation found body shapes that maximise pile-making; the designs were tested in dishes of dissociated Xenopus cells.
+- Paper: https://doi.org/10.1073/pnas.2112672118 (PNAS)
+- Video: https://www.youtube.com/watch?v=aBYtBXaxsOw
+- Images: https://wyss-prod.imgix.net/app/uploads/2021/11/29104616/Blackiston4.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=91e3c9a5c06a3586953895229a7b6ade https://now.tufts.edu/sites/default/files/uploaded-assets/images/migrated/211129_xenobot_replicating_lg.jpg
+- Project page: https://wyss.harvard.edu/news/team-builds-first-living-robots-that-can-reproduce/
+
+#### A scalable pipeline for designing reconfigurable organisms (Xenobots) — Sam Kriegman, Douglas Blackiston, Michael Levin, Josh Bongard (2020)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: A computer designs the body, living cells build it: the first organisms designed from scratch by AI.
+- What it is: An evolutionary algorithm designed body shapes in simulation, and the best designs were built by hand from frog skin and heart cells; the sub-millimetre 'Xenobots' walked, pushed pellets and healed after cuts.
+- How it works: Designs evolved on a supercomputer were sculpted from Xenopus laevis stem-cell tissue with microsurgery tools; beating cardiomyocytes provided propulsion.
+- Paper: https://doi.org/10.1073/pnas.1910837117 (PNAS)
+- Video: https://www.youtube.com/watch?v=aQRBCCjaYGE
+- Images: https://www.uvm.edu/d10-files/styles/default_1920/public/shared/story-photos/xenobot-organism-pair-800x400.jpg.webp?itok=DdsLbXZG https://upload.wikimedia.org/wikipedia/commons/a/ad/A_xenobot_in_simulation_and_reality.png
+- Project page: https://www.uvm.edu/uvmnews/news/team-builds-first-living-robots
+
+#### Explosive sensing with insect-based biorobots — Barani Raman (2020)
+- Type: Paper · Organisms: Insects, Neurons & organoids
+- Idea: Read an insect's brain as a chemical detector.
+- What it is: Locusts fitted with electrodes in their brain and a small backpack could tell apart the vapours of different explosives within milliseconds, and did so while moving on a small cart.
+- How it works: Recordings from the antennal lobe of Schistocerca americana were decoded; a heat-producing tattoo on the wings was proposed to steer them.
+- Paper: https://doi.org/10.1016/j.biosx.2020.100050 (Biosensors and Bioelectronics: X)
+- Video: https://www.youtube.com/watch?v=mpz9Nq-Ud8c
+- Images: https://source.washu.edu/app/uploads/2020/08/locustsensor.jpg https://source.washu.edu/app/uploads/2016/06/Locusts-for-Source.jpg
+- Project page: https://source.washu.edu/2020/08/researchers-one-step-closer-to-bomb-sniffing-cyborg-locusts/
+
+#### Low-power microelectronics embedded in live jellyfish enhance propulsion — Nicole Xu, John Dabiri (2020)
+- Type: Paper · Organisms: Animals
+- Idea: Augment an animal that is already an efficient swimmer instead of building a new robot.
+- What it is: A small pacemaker attached to moon jellyfish made them swim up to nearly three times faster while using only a little extra energy, without apparent stress to the animal.
+- How it works: A self-contained microelectronic stimulator with electrodes in the swimming muscle of Aurelia aurita sets a faster pulse rate than the animal's own.
+- Paper: https://doi.org/10.1126/sciadv.aaz3194 (Science Advances)
+- Video: https://www.youtube.com/watch?v=pH5CVb7yjFw
+- Images: https://caltech-prod.resources.caltech.edu/main/images/Xu-Dabiri-Jellyfish-Illustra.bab43a61.fill-1600x810-c100.jpg
+- Project page: https://www.caltech.edu/about/news/bionic-jellyfish-swim-faster-and-more-efficiently
+
+#### Smellicopter: a bio-hybrid odor-guided autonomous palm-sized air vehicle — Sawyer Fuller (2020)
+- Type: Paper · Organisms: Insects
+- Idea: Borrow an insect's sense organ, which beats any artificial sensor, and put it on a machine.
+- What it is: A palm-sized drone uses a live antenna from a hawk moth as its nose, turning toward an odour source and avoiding obstacles on its own.
+- How it works: An excised Manduca sexta antenna stays alive for hours between electrodes; its signal spikes when it detects odour, and the drone's plume-tracking algorithm uses that signal.
+- Paper: https://doi.org/10.1088/1748-3190/abbd81 (Bioinspiration & Biomimetics)
+- Video: https://www.youtube.com/watch?v=8SGx2qmo9M4
+- Images: https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110526/SmellicopterWEB001.jpg https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110529/SmellicopterWEB003-750x500.jpg
+- Project page: https://www.washington.edu/news/2020/12/07/smellicopter-avoids-obstacles-uses-live-moth-antenna-to-smell/
+
+#### Neuromuscular actuation of biohybrid motile bots — Taher Saif (2019)
+- Type: Paper · Organisms: Cells & tissue, Neurons & organoids
+- Idea: Give a biohybrid robot its own nerves.
+- What it is: A swimmer whose muscle is driven by living motor neurons grown from stem cells, so the nerve cells, not an external pulse, make it move.
+- How it works: An optogenetic neural cluster from mouse stem cells innervates skeletal muscle on a two-tailed scaffold; light activates the neurons, which drive the muscle.
+- Paper: https://doi.org/10.1073/pnas.1907051116 (PNAS)
+- Images: https://scx2.b-cdn.net/gfx/news/2019/15-researchersb.jpg
+- Project page: https://techxplore.com/news/2019-09-microscopic-biohybrid-robots-propelled-muscles.html
+
+#### Biohybrid robot powered by an antagonistic pair of skeletal muscle tissues — Shoji Takeuchi (2018)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Copy the body's paired-muscle layout to make living actuators last.
+- What it is: A robotic finger joint bent back and forth for a week, driven by two lab-grown rat muscles working against each other like biceps and triceps, and picked up and placed a ring.
+- How it works: Myoblast-laden hydrogel sheets matured into muscle on a resin skeleton; electrical stimulation contracted each side in turn while the opposite muscle kept tension.
+- Paper: https://doi.org/10.1126/scirobotics.aat4440 (Science Robotics)
+- Video: https://www.youtube.com/watch?v=3UXG4xL0S4g
+- Images: https://scx2.b-cdn.net/gfx/news/2018/5b0eadc3c3428.jpg https://neurosciencenews.com/files/2018/06/muslces-robots-neurosciencnews.jpg
+- Project page: https://www.sciencedaily.com/releases/2018/05/180530144132.htm
+
+#### Soft erythrocyte-based bacterial microswimmers for cargo delivery — Metin Sitti (2018)
+- Type: Paper · Organisms: Bacteria & microbes, Cells & tissue
+- Idea: Use bacteria as motors and blood cells as soft vehicles for robots inside the body.
+- What it is: Red blood cells loaded with drugs and magnetic particles are pushed along by attached E. coli bacteria, steered by magnets, and can be destroyed on command with light.
+- How it works: Engineered E. coli bind to red blood cells via biotin–avidin; superparamagnetic nanoparticles enable magnetic steering and near-infrared light triggers self-destruction.
+- Paper: https://doi.org/10.1126/scirobotics.aar4423 (Science Robotics)
+- Video: https://www.youtube.com/watch?v=5EIAGsc4cR0
+- Images: https://images.squarespace-cdn.com/content/v1/57ed3edb37c58182f815c65f/1524758481020-IS6JIXV2ZM3NWFMJ64FB/content_Electromicroscopic_image_of_the_RBC_microswimmer.jpg
+- Project page: https://www.is.mpg.de/news/multifunctional-bacterial-microswimmer-able-to-deliver-cargo-and-destroy-itself
+
+#### Toward self-growing soft robots inspired by plant roots (Plantoid) — Barbara Mazzolai (2017)
+- Type: Paper · Organisms: Plants
+- Idea: Take plants as the model for robots that grow instead of walk.
+- What it is: A robot root that moves into soil by growing: a 3D printer in its tip lays down new material, so it lengthens from the tip like a real root.
+- How it works: A plant-inspired robot, not a biohybrid: a tip-mounted additive-manufacturing mechanism deposits thermoplastic filament layer by layer as the root advances.
+- Paper: https://doi.org/10.1089/soro.2016.0080 (Soft Robotics)
+- Video: https://www.youtube.com/watch?v=mrEAwZJKxzE
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/145c1144700e/fig-1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bb2a/5649421/171874803de1/fig-13.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC5649421/
+
+#### Aplysia californica as a novel source of material for biohybrid robots and organic machines — Victoria Webster-Wood (2016)
+- Type: Paper · Organisms: Animals, Cells & tissue
+- Idea: Pick a tough animal whose tissue can survive outside the lab.
+- What it is: A 3D-printed crawler moves using the buccal muscle of the California sea slug, which tolerates wide temperature ranges and is built from biodegradable parts.
+- How it works: The I2 buccal muscle of Aplysia is attached to a printed polymer body and stimulated electrically; later versions use the animal's own nerve ganglia as controllers.
+- Paper: https://doi.org/10.1007/978-3-319-42417-0_33 (Living Machines 2016, LNCS)
+- Video: https://www.youtube.com/watch?v=5MJZd1PnqvM
+- Images: https://www.newswise.com/images/uploads/2016/07/18/biobot.jpg
+- Project page: https://www.newswise.com/articles/researchers-build-a-crawling-robot-from-sea-slug-parts-and-a-3-d-printed-body
+
+#### Optogenetic skeletal muscle-powered adaptive biological machines — Ritu Raman, Rashid Bashir (2016)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Machines that train and grow stronger, like athletes.
+- What it is: Biobots with light-sensitive muscle walk when blue light pulses, and their muscle gets stronger with repeated 'exercise'.
+- How it works: Channelrhodopsin-expressing mouse myoblasts form muscle rings on hydrogel skeletons; light pulses set the gait and repeated stimulation increases force.
+- Paper: https://doi.org/10.1073/pnas.1516139113 (PNAS)
+- Video: https://www.youtube.com/watch?v=BwMT_ok4WW0
+- Images: https://media.news.illinois.edu/wp-content/uploads/2024/12/19140142/84871-1140x760.jpg
+- Project page: https://news.illinois.edu/light-illuminates-the-way-for-bio-bots/
+
+#### Phototactic guidance of a tissue-engineered soft-robotic ray — Kit Parker (2016)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Steer a living machine with light by making its muscle light-sensitive.
+- What it is: A 16-millimetre robotic stingray with a gold skeleton and 200,000 genetically modified rat heart cells swims and follows pulses of light through an obstacle course.
+- How it works: Optogenetically engineered cardiomyocytes on an elastomer body contract in response to blue light; left and right fins are triggered by different light frequencies.
+- Paper: https://doi.org/10.1126/science.aaf4292 (Science)
+- Video: https://www.youtube.com/watch?v=E8YwpECaHdw
+- Images: https://i.ytimg.com/vi/-D_XrRo0h20/maxresdefault.jpg https://i.ytimg.com/vi/E8YwpECaHdw/hqdefault.jpg
+- Project page: https://www.science.org/content/article/robotic-stingray-powered-light-activated-muscle-cells
+
+#### flora robotica — mixed societies of symbiotic robot–plant bio-hybrids — Heiko Hamann (2015)
+- Type: Research prototype · Organisms: Plants
+- Idea: Architecture that is grown by plants and steered by robots over months.
+- What it is: An EU project in which robots with lights and sensors steer the growth of climbing plants along braided scaffolds, so robots and plants shape architecture together.
+- How it works: Distributed robot nodes emit blue light to attract plant growth toward chosen directions and sense plant position; plants in turn stiffen the scaffold.
+- Paper: https://doi.org/10.1109/SSCI.2015.158 (IEEE Symposium Series on Computational Intelligence (SSCI) 2015)
+- Video: https://www.youtube.com/watch?v=Byo55asQUwM
+- Images: http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototypes.jpg http://www.florarobotica.eu/wp-content/uploads/2016/11/CITA_M18-review-prototype_detail.jpg
+- Project page: http://www.florarobotica.eu
+
+#### A self-propelled biohybrid swimmer at low Reynolds number — Taher Saif (2014)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Let cells coordinate among themselves through the body's mechanics.
+- What it is: A sperm-like swimmer with a polymer tail and a head of heart cells swims on its own, as neighbouring cells coordinate their beating along the tail.
+- How it works: Cardiomyocytes grow on a flexible PDMS filament; mechanical coupling synchronises their contractions into a travelling wave.
+- Paper: https://doi.org/10.1038/ncomms4081 (Nature Communications)
+- Video: https://www.youtube.com/watch?v=7XbElMI6OaA
+- Images: https://scx2.b-cdn.net/gfx/news/hires/2014/tinyswimming.jpg
+- Project page: https://phys.org/news/2014-01-tiny-bio-bots-boldly-bot-swum.html
+
+#### Three-dimensionally printed biological machines powered by skeletal muscle — Rashid Bashir (2014)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Switch from heart to skeletal muscle so the machine moves only when told.
+- What it is: Bio-bots powered by a ring of skeletal muscle move only when stimulated by electrical pulses, giving the first on-command control of walking biobots.
+- How it works: Mouse myoblasts in a hydrogel ring differentiate into muscle around 3D-printed pillars; the pulse frequency sets the walking speed.
+- Paper: https://doi.org/10.1073/pnas.1401577111 (PNAS)
+- Video: https://www.youtube.com/watch?v=skCzl7FlM34
+- Images: https://bioengineering.illinois.edu/_sitemanager/viewphoto.aspx?id=36457&s=1200 https://scx2.b-cdn.net/gfx/news/hires/2014/musclepowere.jpg
+- Project page: https://bioengineering.illinois.edu/news/muscle-powered-biobots-walk-command
+
+#### Odour-tracking capability of a silkmoth driving a mobile robot — Ryohei Kanzaki (2013)
+- Type: Paper · Organisms: Insects
+- Idea: Let an insect drive a vehicle to see how its brain adapts.
+- What it is: A male silkmoth walks on a ball mounted on a small wheeled robot, and its steps drive the robot toward a female pheromone source, even when the robot's response is delayed or biased.
+- How it works: The moth's walking on a trackball is read by optical sensors and converted into wheel speed; delays and turning bias are introduced to test adaptation.
+- Paper: https://doi.org/10.1088/1748-3182/8/1/016008 (Bioinspiration & Biomimetics)
+- Video: https://www.youtube.com/watch?v=n2k1T2X7_Aw
+- Images: https://scx1.b-cdn.net/csz/news/800a/2013/ytfguk.jpg https://scx1.b-cdn.net/csz/news/800a/2013/l87ngkuyf.jpg
+- Project page: https://phys.org/news/2013-02-insect-robot-track-video.html
+
+#### RoboRoach — Backyard Brains (2013)
+- Type: Product & platform · Organisms: Insects
+- Idea: A cyborg-insect kit as a way to teach neuroscience, and a public test of where the ethical line lies.
+- What it is: A consumer kit that lets students attach a Bluetooth backpack to a cockroach's antennae and turn it left or right with a smartphone app.
+- How it works: Wires inserted into the antennae deliver small pulses that the cockroach perceives as touching an obstacle, so it turns the other way.
+- Video: https://www.youtube.com/watch?v=L0jBzi-gKco
+- Images: https://backyardbrains.com/cdn/shop/products/RoboRoach_iPod.jpg?v=1734628912 https://backyardbrains.com/cdn/shop/products/roboRoachGoRight.jpg?v=1741629247
+- Project page: https://backyardbrains.com/products/roboroach
+
+#### A tissue-engineered jellyfish with biomimetic propulsion (Medusoid) — Kit Parker, John Dabiri (2012)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Reverse-engineer an animal by rebuilding it from different cells.
+- What it is: A flat, eight-armed 'Medusoid' made of silicone and rat heart muscle cells swims like a juvenile moon jellyfish when an electric field makes the cells contract.
+- How it works: Rat cardiomyocytes were patterned on a silicone sheet to copy the muscle alignment of Aurelia aurita; field stimulation produces synchronous strokes.
+- Paper: https://doi.org/10.1038/nbt.2269 (Nature Biotechnology)
+- Video: https://www.youtube.com/watch?v=gfC3eVjmpfo
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature.2012.11046/MediaObjects/41586_2012_Article_BFnature201211046_Figa_HTML.jpg https://wyss-prod.imgix.net/app/uploads/2016/08/05180605/artificial.jellyfish-275x257.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=8004ee7bfeccacb58da6f8451f10b92f
+- Project page: https://www.nature.com/news/artificial-jellyfish-built-from-rat-cells-1.11046
+
+#### Development of miniaturized walking biological machines — Rashid Bashir, Taher Saif (2012)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Print a skeleton, seed it with cells, and let the heartbeat become a gait.
+- What it is: Half-centimetre 3D-printed hydrogel cantilevers covered with beating rat heart cells 'walked' across a surface, the first of the Illinois bio-bots.
+- How it works: A stereolithography-printed asymmetric hydrogel beam with a layer of cardiomyocytes bends with each beat, moving the bot forward.
+- Paper: https://doi.org/10.1038/srep00857 (Scientific Reports)
+- Video: https://www.youtube.com/watch?v=LZgdOelmIVw
+- Images: https://scx2.b-cdn.net/gfx/news/hires/2012/thesebotswer.jpg
+- Project page: https://phys.org/news/2012-11-bots-cells-power-biological-machines.html
+
+#### Remote radio control of insect flight — Hirotaka Sato (2009)
+- Type: Paper · Organisms: Insects
+- Idea: Instead of building a flying robot, steer an insect that already flies.
+- What it is: Large flower beetles fitted with a radio backpack could be made to take off, turn and stop flying on command, by stimulating their brain and flight muscles.
+- How it works: Electrodes implanted in the optic lobes and basalar muscles of Mecynorrhina torquata connect to a microcontroller and radio receiver on the back.
+- Paper: https://doi.org/10.3389/neuro.07.024.2009 (Frontiers in Integrative Neuroscience)
+- Video: https://www.youtube.com/watch?v=UhPbln4vnvw
+- Images: https://content.time.com/time/photoessays/2009/50_best_inventions/inventions_cyborg_beetle.jpg
+- Project page: https://content.time.com/time/specials/packages/article/0,28804,1934027_1934003_1933968,00.html
+
+### DNA & Molecular Computing
+
+Computing and storing information with DNA, proteins and chemical reactions.
+
+#### Supervised learning in DNA neural networks — Lulu Qian (2025)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Molecules that can learn, not only execute a program we give them.
+- What it is: A DNA neural network learned from examples inside the test tube: training molecules stored weights, and the network then classified new molecular patterns without a computer calculating the weights first.
+- How it works: Training examples activate DNA strands that set molecular weights in place; test patterns are then processed by the same strand-displacement network.
+- Paper: https://doi.org/10.1038/s41586-025-09479-w (Nature)
+- Images: https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_3200x1620.27baed7e.fill-1600x810-c100.jpg https://caltech-prod.resources.caltech.edu/main/images/Liquid_learning_2.5dad4ab6.width-450.jpg
+- Project page: https://www.caltech.edu/about/news/dna-based-neural-network-learns-from-examples-to-solve-problems
+
+#### A primordial DNA store and compute engine — Albert Keung (2024)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Keep storage and computation together in DNA, as in a computer.
+- What it is: A soft polymer 'dendricolloid' holds DNA files that can be stored, read, erased, rewritten and used to solve small sudoku and chess problems in one device.
+- How it works: DNA is loaded onto a branched polymer scaffold that protects it; enzymes and strand operations read and modify data in place.
+- Paper: https://doi.org/10.1038/s41565-024-01771-6 (Nature Nanotechnology)
+- Video: https://www.youtube.com/watch?v=IThHS5rkTPw
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-024-01771-6/MediaObjects/41565_2024_1771_Fig1_HTML.png
+- Project page: https://news.ncsu.edu/2024/08/functional-dna-computing/
+
+#### Biomemory DNA Card — Biomemory (2024)
+- Type: Product & platform · Organisms: DNA & molecules, Bacteria & microbes
+- Idea: Package DNA as a familiar object, a card in a rack, so it fits existing infrastructure.
+- What it is: Biomemory stores data in DNA and presented a credit-card-sized DNA storage cartridge for data-centre racks; in 2021 it stored the French declarations of human and women's rights in DNA for the Archives nationales.
+- How it works: Data-encoding DNA is produced biologically with engineered cells rather than purely chemical synthesis, then dried and sealed in a cartridge.
+- Video: https://www.youtube.com/watch?v=-Rdh31Cs3gs
+- Images: https://next.ink/wp-content/uploads/2024/06/image-43.png https://next.ink/wp-content/uploads/2024/06/image-46-1024x576.png
+- Project page: https://www.biomemory.com/
+
+#### Nonlinear decision-making with enzymatic neural networks — Yannick Rondelez (2022)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Chemistry that makes non-linear decisions opens the way to smart diagnostics.
+- What it is: DNA and enzyme reactions formed neural networks that classify inputs into regions of any shape, the kind of non-linear decisions earlier molecular networks could not make.
+- How it works: Enzyme-driven DNA templates act as neurons with activation and inhibition, and are run in thousands of microdroplets to map their decision boundaries.
+- Paper: https://doi.org/10.1038/s41586-022-05218-7 (Nature)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05218-7/MediaObjects/41586_2022_5218_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41586-022-05218-7
+
+#### Towards proteinoid computers — Andrew Adamatzky (2021)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Proto-life chemistry, older than cells, may already be able to compute.
+- What it is: A hypothesis paper proposing that proteinoids, thermal proteins that self-assemble into microspheres and produce electrical spikes, could be wired into networks that compute.
+- How it works: Heating amino acids produces proteinoid microspheres whose spontaneous electrical oscillations are proposed as signals in neuromorphic circuits.
+- Paper: https://doi.org/10.1016/j.biosystems.2021.104480 (BioSystems)
+- Images: https://ars.els-cdn.com/content/image/1-s2.0-S0303264721001295-gr1.jpg
+- Project page: https://www.sciencedirect.com/science/article/pii/S0303264721001295
+
+#### A DNA-of-things storage architecture to create materials with embedded memory — Robert Grass, Yaniv Erlich (2019)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Objects that carry their own blueprint, like living things do.
+- What it is: A 3D-printed Stanford bunny carries the file for printing itself in DNA inside its plastic; a piece cut from it can be used to print a new bunny, repeated over five generations.
+- How it works: DNA encoding the STL file is sealed in silica nanobeads and mixed into the printing polymer; DNA is extracted from a fragment and sequenced.
+- Paper: https://doi.org/10.1038/s41587-019-0356-z (Nature Biotechnology)
+- Video: https://www.youtube.com/watch?v=yo5Q1WfpMtw
+- Images: https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/pageimages/imageCarousel.imageformat.lightbox.1104599190.jpg https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects/_jcr_content/wide_content/textimage_774183200/image.imageformat.text50percent.607066266.jpg
+- Project page: https://ethz.ch/en/news-and-events/eth-news/news/2019/12/dna-of-things-storing-data-in-everyday-objects.html
+
+#### Catalog: English Wikipedia in DNA — Catalog (2019)
+- Type: Product & platform · Organisms: DNA & molecules
+- Idea: Make DNA writing cheap by assembling data from prefabricated pieces, like movable type.
+- What it is: Catalog encoded the roughly 16 GB text of English Wikipedia into synthetic DNA using its own writing machine, and later built a platform for searching and computing over data stored in DNA.
+- How it works: Instead of synthesising each base, data are encoded as combinations of a library of pre-made DNA fragments joined by an inkjet-style machine.
+- Video: https://www.youtube.com/watch?v=HzCTP6rZI7s
+- Images: https://www.cnet.com/wp-content/uploads/sites/2/263029fd-eb98-4097-a824-0ef8e58449f7.jpg?resize=1200,675 https://www.cnet.com/wp-content/uploads/sites/2/7a15c31e-bdcc-450e-925e-119241a0249b.jpg?resize=1200,675
+- Project page: https://www.cnet.com/news/startup-packs-all-16gb-wikipedia-onto-dna-strands-demonstrate-new-storage-tech/
+
+#### Diverse and robust molecular algorithms using reprogrammable DNA self-assembly — Damien Woods, Erik Winfree (2019)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Reprogram molecules by changing which pieces are in the mix, like software on hardware.
+- What it is: One set of 355 DNA tiles ran 21 different algorithms, such as counting, sorting and electing a leader, by choosing which tiles went into the tube; the result grows as a patterned DNA ribbon.
+- How it works: Single-stranded tiles bind by sticky-end matching to implement Boolean cellular automata row by row on a DNA origami seed; AFM images reveal the computation.
+- Paper: https://doi.org/10.1038/s41586-019-1014-9 (Nature)
+- Video: https://www.youtube.com/watch?v=fphgFhAn4tA
+- Images: https://caltech-prod.resources.caltech.edu/main/images/Winfree-Algorithmic-Molecular-Self.d0f1a612.max-1400x800.jpg
+- Project page: https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system
+
+#### Random access in large-scale DNA data storage — Molecular Information Systems Lab (MISL), Luis Ceze, Karin Strauss (2018)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: DNA storage becomes usable when you can open one file without reading the whole library.
+- What it is: More than 200 MB, including an OK Go music video and the Universal Declaration of Human Rights in 100 languages, were stored in DNA, and individual files could be retrieved without reading everything.
+- How it works: Each file's strands carry a primer pair used as an address; PCR amplifies only the requested file before sequencing, with error-correcting codes.
+- Paper: https://doi.org/10.1038/nbt.4079 (Nature Biotechnology)
+- Video: https://www.youtube.com/watch?v=qloX87Apz2o
+- Images: https://news.cs.washington.edu/wp-content/uploads/2018/02/MISL-wetlab-1.jpg https://news.cs.washington.edu/wp-content/uploads/2018/02/Ok-Go-video-snapshot.jpg
+- Project page: https://news.cs.washington.edu/2018/02/19/uw-and-microsoft-researchers-achieve-random-access-in-large-scale-dna-data-storage
+
+#### Scaling up molecular pattern recognition with DNA-based winner-take-all neural networks — Lulu Qian (2018)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Molecules that recognise patterns could let materials and cells classify their surroundings.
+- What it is: A DNA neural network recognised 'molecular handwriting': handwritten digits encoded as mixtures of DNA strands were classified correctly in the test tube.
+- How it works: Each 10×10 digit image maps to 20 of 100 DNA strands; weight multiplication, summation and a winner-take-all layer decide between two digit classes, reported by fluorescence.
+- Paper: https://doi.org/10.1038/s41586-018-0289-6 (Nature)
+- Video: https://www.youtube.com/watch?v=idCjH20I65M
+- Images: https://caltech-prod.resources.caltech.edu/main/images/LQian_WTA-Neural-Networks-Made-fro.ce986c20.max-1400x800.jpg https://www.qianlab.caltech.edu/media_WTA_1_300px.png
+- Project page: https://www.caltech.edu/about/news/test-tube-artificial-neural-network-recognizes-molecular-handwriting-82679
+
+#### CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria — Seth Shipman, George Church (2017)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Living cells can act as recorders that write their experience into DNA.
+- What it is: Frames of Eadweard Muybridge's galloping-horse film were written into the genomes of living E. coli over several days, and later read back from the bacterial population.
+- How it works: Pixel values were encoded in short DNA snippets delivered frame by frame; the Cas1–Cas2 integrase stored them in order in the CRISPR array, so their order encodes time.
+- Paper: https://doi.org/10.1038/nature23017 (Nature)
+- Video: https://vimeo.com/224354684
+- Images: https://wyss-prod.imgix.net/app/uploads/2017/07/11111818/Encoding-Memories-in-Living-Cells-with-CRISPR-Listing-Image.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=e9a58d3d21ace4dc0d3b3bd5fca1e085 https://wp.technologyreview.com/wp-content/uploads/2017/07/horsegif_0-3.gif
+- Project page: https://wyss.harvard.edu/news/taking-cells-out-to-the-movies-with-new-crispr-technology
+
+#### DNA Fountain enables a robust and efficient storage architecture — Yaniv Erlich (2017)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Borrow codes from video streaming to pack DNA almost to its limit.
+- What it is: An operating system, a short film, an Amazon gift card and a computer virus were stored in DNA with a fountain code, close to the theoretical maximum of bits per nucleotide.
+- How it works: Luby-transform fountain codes create many droplets from the data; droplets that would give hard-to-synthesise sequences are discarded, and the rest are synthesised.
+- Paper: https://doi.org/10.1126/science.aaj2038 (Science)
+- Video: https://www.youtube.com/watch?v=kXHfQ1KafK4
+- Images: https://sciinitprod.wpengine.com/wp-content/uploads/2017/04/NYGC_lab_500.jpg
+- Project page: https://science.fas.columbia.edu/news/researchers-store-computer-operating-system-and-short-movie-on-dna/
+
+#### Genetic circuit design automation (Cello) — Christopher Voigt (2016)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: A programming language for living cells.
+- What it is: Cello compiles a circuit written in Verilog, the language used for electronic chips, into a DNA sequence that makes E. coli perform that logic; 45 of the 60 circuits built worked as designed.
+- How it works: Logic is mapped to a library of characterised repressor-based NOT/NOR gates, assembled into a plasmid and inserted into bacteria.
+- Paper: https://doi.org/10.1126/science.aac7341 (Science)
+- Video: https://www.youtube.com/watch?v=SLn_SkL7vkQ
+- Images: https://news.mit.edu/sites/default/files/images/201603/MIT-Program-Bacteria.jpg
+- Project page: https://news.mit.edu/2016/programming-language-living-cells-bacteria-0331
+
+#### Towards practical, high-capacity, low-maintenance information storage in synthesized DNA — Nick Goldman (2013)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Design the code around the medium's weaknesses and DNA becomes a reliable archive.
+- What it is: All 154 Shakespeare sonnets, a PDF of Watson and Crick's paper, a photo and an audio clip of Martin Luther King's 'I have a dream' were stored in DNA and recovered without errors.
+- How it works: Data were converted to base-3 and encoded so that no base repeats, avoiding sequencing errors; overlapping fragments gave fourfold redundancy.
+- Paper: https://doi.org/10.1038/nature11875 (Nature)
+- Video: https://www.youtube.com/watch?v=tBvd7OSDGgQ
+- Images: https://acxngcvroo.cloudimg.io/v7/https://content.embl.org/sites/default/files/2021-10/NEWS_Nick_Goldman_DNA_storage.jpg?w=1000&h=600
+- Project page: https://www.ebi.ac.uk/about/news/press-releases/DNA-storage
+
+#### Next-generation digital information storage in DNA — George Church (2012)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: DNA is the densest, longest-lasting storage medium we know.
+- What it is: Church's team wrote a 53,000-word book, with images and a JavaScript program, into DNA and read it back, storing about 5.5 petabits per cubic millimetre.
+- How it works: Bits were mapped to bases (one bit per base), split into 96-bit blocks with addresses, synthesised on microarrays and read back by next-generation sequencing.
+- Paper: https://doi.org/10.1126/science.1226355 (Science)
+- Video: https://vimeo.com/47615970
+- Images: https://wyss-prod.imgix.net/app/uploads/2016/08/30133118/16991-e1472738750194.jpeg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=0a41ae74fcc99c355ede938cc4c69f77 https://i.vimeocdn.com/video/330548088-f385c4265826dadcfbc4ef350a9eb421e5fcddc0a29ca03ba045060c9e3228c5-d_1280
+- Project page: https://wyss.harvard.edu/news/writing-the-book-in-dna/
+
+#### Neural network computation with DNA strand displacement cascades — Lulu Qian, Erik Winfree (2011)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Neural computation can be written in molecules, with no electronics at all.
+- What it is: A test-tube neural network of 112 DNA strands played a 'mind-reading' game: given partial answers to yes/no questions, it recalled which of four scientists the answers matched.
+- How it works: Seesaw gates built from DNA strand displacement implement weighted sums and thresholds of a Hopfield-type network; fluorescence reports the output.
+- Paper: https://doi.org/10.1038/nature10262 (Nature)
+- Video: https://www.youtube.com/watch?v=N_VisNOKQMc
+- Images: https://caltech-prod.resources.caltech.edu/main/images/CT_Winfree-Qian_Nature-SPOTLIGHT.16890135.max-1400x800.jpg
+- Project page: https://www.caltech.edu/about/news/caltech-researchers-create-first-artificial-neural-network-out-dna-1703
+
+#### Folding DNA to create nanoscale shapes and patterns (DNA origami) — Paul Rothemund (2006)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Design a shape on a computer and have molecules fold themselves into it.
+- What it is: A long viral DNA strand was folded by about 200 short 'staple' strands into smiley faces, stars and a map of the Americas, each about 100 nanometres wide.
+- How it works: Staple sequences are computed to bind distant parts of the M13 scaffold; mixing and cooling makes the structure self-assemble, imaged by atomic force microscopy.
+- Paper: https://doi.org/10.1038/nature04586 (Nature)
+- Video: https://www.youtube.com/watch?v=WhGG__boRxU
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04586/MediaObjects/41586_2006_BFnature04586_Fig2_HTML.jpg https://upload.wikimedia.org/wikipedia/commons/7/73/DNA_Origami.png
+- Project page: https://www.nature.com/articles/nature04586
+
+#### Medium scale integration of molecular logic gates in an automaton (MAYA-II) — Milan Stojanovic (2006)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Molecular logic you can play against.
+- What it is: MAYA-II is a DNA computer that plays tic-tac-toe against a human on a 3×3 plate of wells: the player adds a DNA strand for each move and the well where the machine plays lights up.
+- How it works: 128 deoxyribozyme logic gates distributed across nine wells cleave a fluorescent substrate when their input strands are present.
+- Paper: https://doi.org/10.1021/nl0620684 (Nano Letters)
+- Project page: https://en.wikipedia.org/wiki/MAYA-II
+
+#### A synthetic oscillatory network of transcriptional regulators (the repressilator) — Michael Elowitz (2000)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Design a biological behaviour from parts, the way engineers design circuits.
+- What it is: Three genes that switch each other off in a loop made E. coli cells blink green on and off, a genetic clock designed from scratch.
+- How it works: LacI, TetR and cI repressors are arranged in a ring of negative feedback on a plasmid; a GFP reporter shows the oscillation.
+- Paper: https://doi.org/10.1038/35002125 (Nature)
+- Video: https://www.youtube.com/watch?v=qD7hUZ5pVP4
+- Images: https://upload.wikimedia.org/wikipedia/commons/0/03/Repressilator_%28representation_based_on_Elowitz_%26_Liebler_2000%29.png https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif
+- Project page: https://en.wikipedia.org/wiki/Repressilator
+
+#### Construction of a genetic toggle switch in Escherichia coli — James J. Collins (2000)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Give a cell one bit of memory.
+- What it is: Two genes that repress each other gave bacteria a stable on/off state that can be flipped with a chemical or heat pulse and is remembered afterwards.
+- How it works: Two repressor–promoter pairs repress each other; transient IPTG or temperature signals switch the dominant state, read by a fluorescent reporter.
+- Paper: https://doi.org/10.1038/35002131 (Nature)
+- Video: https://www.youtube.com/watch?v=Sde4U1VTaaU
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002131/MediaObjects/41586_2000_Article_BF35002131_Fig1_HTML.gif
+- Project page: https://www.nature.com/articles/35002131
+
+#### Molecular computation of solutions to combinatorial problems — Leonard Adleman (1994)
+- Type: Paper · Organisms: DNA & molecules
+- Idea: Chemistry can compute by trying every answer at once in parallel.
+- What it is: Adleman solved a seven-city Hamiltonian path problem in a test tube: DNA strands coding cities and roads combined in all possible ways, and lab steps filtered out the one valid route.
+- How it works: Oligonucleotides for vertices and edges were ligated; PCR, gel electrophoresis and affinity purification selected paths of the right length that visit every vertex.
+- Paper: https://doi.org/10.1126/science.7973651 (Science)
+- Video: https://www.youtube.com/watch?v=Bhqf8M5yYIw
+- Images: https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg
+- Project page: https://en.wikipedia.org/wiki/DNA_computing
 
 ### Body & Biosignals
 
@@ -4285,6 +5036,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Ani Liu** (15) — Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania. Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care. https://ani-liu.com
 - **Alexandra Daisy Ginsberg** (11) — Artist; works with synthetic biology, conservation and AI. Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators. https://www.daisyginsberg.com
 - **Neri Oxman** (11) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
+- **Andrew Adamatzky** (10) — Professor of Unconventional Computing, UWE Bristol; director of the Unconventional Computing Laboratory. Computer scientist who builds computers from slime mould, fungi, proteinoids, kombucha and chemical reactions, and edits the International Journal of Unconventional Computing. https://uncomp.uwe.ac.uk/
 - **Cortical Labs** (10) — Biotech company building biological computers from human neurons on silicon chips. Founded in 2019 by Hon Weng Chong, Cortical Labs grows human and mouse neurons on high-density multi-electrode arrays. It made DishBrain, which learned to play Pong, and sells the CL1 biological computer and cloud access to it. https://corticallabs.com
 - **Harpreet Sareen** (9) — Designer and researcher of plant–machine hybrids; faculty at Parsons School of Design; formerly MIT Media Lab. Harpreet Sareen coined 'Cyborg Botany': plants with wires grown inside them, plants that drive robots, and plants that sense water or talk through sound. https://harpreetsareen.com/
 - **Mirela Alistar** (9) — Assistant Professor, ATLAS Institute and Computer Science, University of Colorado Boulder; director of the Living Matter Lab. Mirela Alistar started in biochip design automation and now leads a lab on interaction design with living matter: algae, kombucha, microbiomes and biomaterials. https://www.colorado.edu/atlas/living-matter-lab
@@ -4309,27 +5061,36 @@ Consciousness, consent and the futures of computing with living brains.
 - **Ingmar Riedel-Kruse** (5) — Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering. Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.
 - **Lena Smirnova** (5) — Assistant Professor, Johns Hopkins Bloomberg School of Public Health. Neurobiologist who develops human brain organoid models and leads Johns Hopkins work testing whether organoids show the basic mechanisms of learning and memory.
 - **Shaowen Bardzell** (5) — Professor, School of Interactive Computing, Georgia Institute of Technology. HCI scholar known for feminist HCI and humanistic approaches; advised several key more-than-human HCI projects.
+- **Shoji Takeuchi** (5) — Professor, Institute of Industrial Science and Graduate School of Information Science and Technology, University of Tokyo; Biohybrid Systems Lab. Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face. https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Steve M. Potter** (5) — Former Associate Professor of Biomedical Engineering, Georgia Institute of Technology. Neuroengineer who embodied cultured rat neurons in simulated animals ('animats') and robots ('hybrots'), and co-created the MEART and Silent Barrage artworks with SymbioticA. https://potterlab.gatech.edu
 - **Superflux** (5) — Speculative design and futures studio founded by Anab Jain and Jon Ardern. Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI. https://superflux.in
 - **ecoLogicStudio** (5) — Architecture and urban design studio founded by Claudia Pasquero and Marco Poletto. ecoLogicStudio designs architecture with microalgae photobioreactors, combining biology with digital design. https://www.ecologicstudio.com
 - **Eduardo Kac** (4) — Artist; coined the term transgenic art. Eduardo Kac is a Brazilian-American artist known for works that use genetic engineering to create new living beings and texts. https://www.ekac.org
 - **FinalSpark** (4) — Swiss startup running a remote-access biocomputing platform built on human brain organoids. Founded by Fred Jordan and Martin Kutter, FinalSpark keeps human forebrain organoids on multi-electrode arrays around the clock and lets researchers program them over the internet through its Neuroplatform. https://finalspark.com
+- **Hirotaka Sato** (4) — Provost's Chair Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University. Engineer who steers living beetles and cockroaches with small electronic backpacks that stimulate their muscles or antennae.
 - **Jakob Kudsk Steensen** (4) — Artist working with game engines, field recording and ecology. Danish artist who reconstructs real ecosystems from fieldwork, scans and sound recordings as immersive installations, VR and AR. https://jakobsteensen.com/
 - **Maurizio Montalti** (4) — Designer; founder of Officina Corpuscoli and co-founder of Mogu. Maurizio Montalti founded the studio Officina Corpuscoli in 2010 and has worked with fungal mycelium and mycologists at Utrecht University for more than a decade. https://www.corpuscoli.com/
+- **Michael Levin** (4) — Distinguished Professor of Biology, Tufts University; director of the Allen Discovery Center. Developmental biologist studying bioelectric signalling and how cells collectively decide what shape to build. https://drmichaellevin.org/
 - **Pat Pataranutaporn** (4) — Researcher, MIT Media Lab (Fluid Interfaces group). Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs. https://www.media.mit.edu/people/patpat/overview/
 - **Rachel Armstrong** (4) — Professor of Regenerative Architecture, KU Leuven; formerly Newcastle University. Rachel Armstrong is a British architect and former medical doctor who works with protocells and microbial systems in architecture.
+- **Rashid Bashir** (4) — Dean of the Grainger College of Engineering and Professor of Bioengineering, University of Illinois Urbana-Champaign. Bioengineer whose group makes 'bio-bots': 3D-printed hydrogel skeletons that walk using heart or skeletal muscle cells.
 - **Sara Heitlinger** (4) — Senior Lecturer, Centre for Human-Computer Interaction Design, City St George's, University of London. Participatory design researcher who works with urban food growers on seeds, sensors and blockchain futures. https://www.connectedseeds.org/
 - **Thomas Hartung** (4) — Professor, Johns Hopkins Bloomberg School of Public Health; director of CAAT. Toxicologist who led the 2023 proposal to name and fund Organoid Intelligence as a field, and convened the Baltimore Declaration on its ethics.
 - **Tomás Saraceno** (4) — Artist; founder of Studio Tomás Saraceno, the Aerocene community and Arachnophilia. Argentine artist trained in architecture who works with spiders, air, and floating solar sculptures, often with scientists and communities. https://studiotomassaraceno.org/
 - **Yasuaki Kakehi** (4) — Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Kakehi Lab. Yasuaki Kakehi is a media artist and interaction researcher who works with materials, water, light and living matter. https://www.xlab.iii.u-tokyo.ac.jp/
 - **Blast Theory** (3) — Artist group led by Matt Adams, Ju Row Farr and Nick Tandavanitj. Brighton-based artist group making interactive and mixed-reality works since 1991, long-term collaborators of Nottingham's Mixed Reality Lab. https://www.blasttheory.co.uk
 - **Carl DiSalvo** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Design researcher working on participatory design, public participation and adversarial design.
+- **Douglas Blackiston** (3) — Senior Scientist, Allen Discovery Center at Tufts University and Wyss Institute. Biologist who builds Xenobots by hand and grows them from frog stem cells.
 - **Heidi R. Biggs** (3) — Design researcher working on posthuman and ecological design. Designer-researcher who makes embodied speculations about climate change and reflects on birdwatching as a posthuman method. https://www.heidibiggsdesign.com/
 - **Iohanna Nicenboim** (3) — Designer and researcher, TU Delft; works on more-than-human design and AI. Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them. https://iohanna.com/
 - **Jennifer Gabrys** (3) — Chair in Media, Culture and Environment, University of Cambridge; lead of Citizen Sense, Smart Forests and Planetary Praxis. Sociologist who studies environmental sensing, from citizen air-quality monitors to sensor networks in forests. https://www.jennifergabrys.net/
 - **Jia Liu** (3) — Associate Professor of Bioengineering, Harvard John A. Paulson School of Engineering and Applied Sciences. Bioengineer who embeds soft, stretchable mesh electronics into organoids as they grow, so the electrodes become part of the tissue. https://liulab.seas.harvard.edu
+- **John Dabiri** (3) — Centennial Professor of Aeronautics and Mechanical Engineering, Caltech. Fluid dynamicist who studies jellyfish swimming and turns live jellyfish into ocean-sensing biohybrids. https://dabirilab.com/
 - **Joseph Lindley** (3) — Design researcher, ImaginationLancaster, Lancaster University. Researcher in design fiction, AI and object-oriented ontology who runs the designresearch.works studio. https://designresearch.works/
+- **Josh Bongard** (3) — Professor of Computer Science, University of Vermont; Morphology, Evolution & Cognition Lab. Roboticist working on evolutionary robotics and the co-design of bodies and brains. https://www.meclab.org/
+- **Kit Parker** (3) — Tarr Family Professor of Bioengineering and Applied Physics, Harvard SEAS; Disease Biophysics Group. Bioengineer who builds swimming biohybrid animals (jellyfish, ray, fish) from heart muscle cells to study the heart. https://diseasebiophysics.seas.harvard.edu/
 - **Laura Forlano** (3) — Professor, College of Arts, Media and Design, Northeastern University. Writer, social scientist and design researcher working at the intersection of design, science and technology studies and cities.
+- **Lulu Qian** (3) — Professor of Bioengineering, Caltech. Bioengineer who builds neural networks and circuits out of DNA strands that react in a test tube. http://qianlab.caltech.edu/
 - **Marcus Foth** (3) — Professor of Urban Informatics, QUT Design Lab, Queensland University of Technology. Urban informatics researcher working on smart cities, media architecture and more-than-human urbanism.
 - **Marshmallow Laser Feast** (3) — Experiential art collective. London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com/
 - **Michelle Westerlaken** (3) — Design researcher; PhD, Malmö University. Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary. https://michellewesterlaken.com/
@@ -4337,11 +5098,14 @@ Consciousness, consent and the futures of computing with living brains.
 - **OXMAN** (3) — Design and research company founded by Neri Oxman. OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture. https://www.oxman.com
 - **Paul Coulton** (3) — Chair of Speculative and Game Design, ImaginationLancaster, Lancaster University. Design researcher who uses design fiction and object-oriented ontology to explore the Internet of Things and AI. https://designresearch.works/
 - **Revital Cohen & Tuur Van Balen** (3) — Artist duo. Revital Cohen and Tuur Van Balen are a London-based duo whose work examines biology, production and the natural. https://www.cohenvanbalen.com
+- **Sam Kriegman** (3) — Assistant Professor of Computer Science, Mechanical Engineering and Chemical & Biological Engineering, Northwestern University. Computer scientist who uses evolutionary algorithms to design robot bodies, including the first computer-designed organisms (Xenobots). https://www.xenobot.group/
 - **Sergiu P. Pașca** (3) — Professor of Psychiatry and Behavioral Sciences, Stanford University. Neuroscientist who developed human cortical organoids and assembloids, and transplanted human organoids into the rat brain where they joined its circuits.
 - **Studio Klarenbeek & Dros** (3) — Design studio of Eric Klarenbeek and Maartje Dros. Eric Klarenbeek and Maartje Dros develop grown and biobased materials, from 3D-printed mycelium to algae bioplastics, and local production networks for them. https://www.ericklarenbeek.com/
 - **Szu-Yu (Cyn) Liu** (3) — HCI and design researcher; PhD, Indiana University. Researcher who studies alternative farming, decomposition and photography as ways to design with naturecultures.
+- **Taher Saif** (3) — Professor of Mechanical Science and Engineering, University of Illinois Urbana-Champaign. Mechanical engineer who builds micro-scale swimmers powered by heart cells and by motor neurons driving muscle.
 - **Terreform ONE** (3) — Nonprofit architecture and ecological design group co-founded by Mitchell Joachim. Terreform ONE designs ecological architecture and urban proposals with living systems, from tree houses to insect farms. https://www.terreform.org
 - **Thad Starner** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Wearable computing pioneer who co-developed wearables for working dogs and for two-way communication with dolphins.
+- **Toshiyuki Nakagaki** (3) — Professor, Research Institute for Electronic Science, Hokkaido University. Biophysicist who showed that the slime mould Physarum polycephalum finds shortest paths through mazes and builds efficient transport networks; two-time Ig Nobel laureate. https://www.es.hokudai.ac.jp/labo/nakagaki/
 - **Ursula Biemann** (3) — Artist, writer and video essayist. Swiss artist whose research-based video essays follow oceans, forests and Indigenous knowledge in the climate crisis. https://geobodies.org/
 - **Špela Petrič** (3) — Artist with a background in biology. Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans and plants. https://www.spelapetric.org
 - **Adrian David Cheok** (2) — Founder and director, Mixed Reality Lab. Researcher in mixed reality and multisensory internet who built early remote-touch and play systems for pets. https://mixedrealitylab.org/
@@ -4349,20 +5113,26 @@ Consciousness, consent and the futures of computing with living brains.
 - **Amy Karle** (2) — Artist working with bioart and emerging technology. Amy Karle is an American artist who works with tissue engineering, 3D printing and AI. https://www.amykarle.com
 - **Anna Dumitriu** (2) — Artist working with bacteria, infectious disease and biotechnology. Anna Dumitriu is a British artist who combines textiles and craft with microbiology in long collaborations with scientists. https://annadumitriu.co.uk
 - **Anna Lowenhaupt Tsing** (2) — Anthropologist; Professor at UC Santa Cruz. Anna Tsing is an anthropologist of multispecies worlds, author of The Mushroom at the End of the World. https://feralatlas.org
+- **Audrey Dussutour** (2) — CNRS Research Director, Research Centre on Animal Cognition, Toulouse. Biologist who studies learning and decision-making in the slime mould Physarum polycephalum, known in France as 'le blob'.
 - **Bolt Threads** (2) — Materials company behind Microsilk and Mylo. Bolt Threads develops biobased fibres and materials, including yeast-fermented spider-silk protein (Microsilk) and the mycelium leather Mylo, often with Stella McCartney. https://boltthreads.com/
 - **Braingeneers** (2) — Research group at UC Santa Cruz Genomics Institute (David Haussler, Mircea Teodorescu, Mohammed Mostajo-Radji). An interdisciplinary UC Santa Cruz group that runs organoid experiments through an internet-connected 'cloud lab' and trains cortical organoids in closed-loop tasks. https://braingeneers.ucsc.edu
 - **Christina Agapakis** (2) — Synthetic biologist and writer; former creative director at Ginkgo Bioworks. Christina Agapakis is a synthetic biologist who works with artists and designers on the culture of biotechnology. https://agapakis.com
 - **Christopher Frauenberger** (2) — Professor of Human-Computer Interaction, University of Salzburg. HCI researcher working on participatory design, ethics and relational theories of technology. https://frauenberger.name/
+- **Christopher Voigt** (2) — Professor of Biological Engineering, MIT. Christopher Voigt designs genetic circuits and programmable bacteria, from light-sensing E. coli to 'living circuit boards'.
 - **Cornell Lab of Ornithology** (2) — Research institute at Cornell University. The Cornell Lab of Ornithology studies birds and runs large citizen-science platforms such as eBird and Merlin. https://www.birds.cornell.edu
 - **Data Garden** (2) — Music label and maker of MIDI Sprout and PlantWave. Founded by Joe Patitucci and Alex Tyson as a label for ambient music, it began making plant-driven music in 2012 and later sold devices that let anyone hear their plants. https://www.plantwave.com/
 - **David Rothenberg** (2) — Musician, philosopher and author; professor at New Jersey Institute of Technology. Clarinettist and writer who plays live with birds, humpback whales, insects and nightingales, and writes about why animals make music (Why Birds Sing, Thousand Mile Song, Nightingales in Berlin). http://www.davidrothenberg.net/
 - **Donald Degraen** (2) — HCI researcher, HIT Lab NZ, University of Canterbury; formerly Saarland University and DFKI. Donald Degraen studies haptics and 'living media' interfaces that use real plants for ambient feedback. https://www.donalddegraen.com/
 - **Ecovative** (2) — Mycelium materials company founded by Eben Bayer and Gavin McIntyre. Founded in 2007 by Rensselaer Polytechnic Institute graduates Eben Bayer and Gavin McIntyre, Ecovative grows packaging, building materials and food from mycelium and farm waste. https://ecovative.com/
+- **Eduardo Reck Miranda** (2) — Professor of Computer Music, University of Plymouth; head of ICCMR. Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.
+- **Erik Winfree** (2) — Professor of Computer Science, Computation and Neural Systems, and Bioengineering, Caltech. Computer scientist who founded algorithmic DNA self-assembly and molecular programming. https://www.dna.caltech.edu/
 - **Ferdinand Ludwig** (2) — Professor of Green Technologies in Landscape Architecture, TU Munich. Architect Ferdinand Ludwig developed Baubotanik, a method of building with living trees joined to technical structures. https://www.arc.ed.tum.de/en/gtla/
 - **Fiona French** (2) — Associate Professor, School of Computing and Digital Media, London Metropolitan University. ACI researcher who designs interactive toys and sound instruments for captive elephants.
 - **Foad Hamidi** (2) — Faculty, Department of Information Systems, University of Maryland, Baltimore County. Foad Hamidi designs participatory and assistive technologies, including living media interfaces that use mushrooms and plants. https://www.foadhamidi.info/
+- **George Church** (2) — Professor of Genetics, Harvard Medical School; core faculty, Wyss Institute. Geneticist behind genome sequencing and editing methods, DNA data storage and many synthetic-biology companies. https://arep.med.harvard.edu/
 - **Helene Steiner** (2) — Designer and researcher; co-founder of Bento Lab; former artist-in-residence at Microsoft Research Cambridge. Helene Steiner works between design and biology: portable DNA labs, biological garments and plant–human communication. https://www.helenesteiner.com/
 - **Jasmine Lu** (2) — HCI researcher, Human Computer Integration Lab, University of Chicago. Jasmine Lu builds interactive devices that live, age and decay: a smartwatch powered by a slime mould, plant-driven robot actuators, and tools for reusing e-waste. https://lab.plopes.org/
+- **Jeff Jones** (2) — Researcher, Unconventional Computing Laboratory, UWE Bristol. Computer scientist who models Physarum polycephalum as swarms of simple particles that lay and follow trails.
 - **Jen Keane** (2) — Designer and researcher; co-founder of Modern Synthesis. Jen Keane studied Material Futures at Central Saint Martins and co-founded Modern Synthesis to grow textiles with bacteria. https://www.jenkeane.com/
 - **Jiwei Zhou** (2) — Design researcher, Faculty of Industrial Design Engineering, TU Delft. Jiwei Zhou designs living artefacts with cyanobacteria and studies how people care for them in daily life.
 - **Johan Redström** (2) — Professor, Umeå Institute of Design, Umeå University. Design theorist who writes on how design defines things and on the changing nature of objects in a digital world.
@@ -4396,11 +5166,14 @@ Consciousness, consent and the futures of computing with living brains.
 - **Tom Ellis** (2) — Professor of Synthetic Genome Engineering, Imperial College London. Tom Ellis leads a synthetic biology lab that engineers yeast and bacteria, including cellulose-producing Komagataeibacter, for new materials. https://www.imperial.ac.uk/people/t.ellis
 - **Wil V. Srubar III** (2) — Associate Professor, University of Colorado Boulder; co-founder of Prometheus Materials. Wil Srubar leads the Living Materials Laboratory at CU Boulder, researching engineered living building materials and low-carbon cement. https://www.colorado.edu/lab/srubar/
 - **Xuanhe Zhao** (2) — Professor of Mechanical Engineering, MIT; directs the Soft Active Materials Lab. Xuanhe Zhao develops hydrogel machines and bioadhesives, including hydrogels that host living engineered bacteria.
+- **Yaniv Erlich** (2) — Computer scientist and geneticist; formerly Columbia University and the New York Genome Center. Researcher who designed DNA Fountain, a near-optimal coding scheme for DNA storage, and co-created the DNA-of-Things architecture.
 - **Ackroyd & Harvey** (1) — Artist duo: Heather Ackroyd and Dan Harvey. British artists working together since 1990 on growth and decay in living materials, known for photographs grown in grass; co-founders of Culture Declares Emergency. https://www.ackroydandharvey.com/
 - **Aganetha Dyck** (1) — Artist. Canadian artist who has worked with honeybees since the early 1990s, placing objects in hives so the bees cover them with comb. https://www.aganethadyck.ca/
 - **Ai Hasegawa** (1) — Artist and designer. Ai Hasegawa is a Japanese artist whose speculative designs deal with reproduction, biotechnology and the body.
 - **Akira Wakita** (1) — Professor, Faculty of Environment and Information Studies, Keio University. Akira Wakita works on information design, ambient displays and digital fabrication.
+- **Albert Keung** (1) — Associate Professor of Chemical and Biomolecular Engineering, North Carolina State University. Bioengineer working on DNA data storage and computing, and on synthetic epigenetics.
 - **Alex Metcalf** (1) — Artist and sculptor; creator of the Tree Listening Project. British artist who since 2007 has toured installations that let people listen to the inside of living trees through sensitive microphones. https://treelistening.co.uk/
+- **Anand Kumar Mishra** (1) — Research associate, Organic Robotics Lab, Cornell University. Engineer who built electrical interfaces that read mycelium signals and used them to drive soft and wheeled robots.
 - **Andrea Lavazza** (1) — Philosopher; Senior Research Fellow, Centro Universitario Internazionale, Arezzo. Philosopher of mind and neuroethicist who, with Marcello Massimini, first set out how to assess possible consciousness in cerebral organoids.
 - **André R. Studart** (1) — Professor of Complex Materials, ETH Zurich. André Studart designs bioinspired and living materials, including 3D-printed materials that contain bacteria or fungi. https://complex.mat.ethz.ch/
 - **Andrés Jaque** (1) — Architect; founder of Office for Political Innovation; Dean of Columbia GSAPP. Andrés Jaque is an architect and scholar whose Office for Political Innovation designs architecture as a set of relations between people, technologies, microbes and waters. https://andresjaque.net
@@ -4413,8 +5186,12 @@ Consciousness, consent and the futures of computing with living brains.
 - **Arup** (1) — Engineering and design firm. Arup is a global engineering firm that co-developed the SolarLeaf algae façade. https://www.arup.com
 - **Ashley Boone** (1) — PhD researcher, Georgia Institute of Technology. Researcher who studies data practices of community science, such as volunteers monitoring bird collisions with buildings.
 - **Athanassia Athanassiou** (1) — Principal Investigator, Smart Materials group, Istituto Italiano di Tecnologia. Athanassia Athanassiou leads research on bio-based and sustainable composite materials at IIT. https://www.iit.it/
+- **Atsushi Tero** (1) — Professor, Institute of Mathematics for Industry, Kyushu University. Mathematician who turned slime-mould tube growth into a mathematical model for designing adaptive networks.
 - **Axel Erlandson** (1) — Farmer and tree shaper (1884–1964). Swedish-American farmer Axel Erlandson grafted and bent trees into baskets, arches and ladders and opened the Tree Circus in 1947.
 - **Aykut Coşkun** (1) — Associate Professor, Media and Visual Arts, Koç University. Interaction design researcher working on sustainable behaviour, the Internet of Things and more-than-human design.
+- **Backyard Brains** (1) — Neuroscience education company founded by Greg Gage and Tim Marzullo. Company making low-cost neuroscience kits for schools, including the RoboRoach. https://backyardbrains.com/
+- **Barani Raman** (1) — Professor of Biomedical Engineering, Washington University in St. Louis. Neuroengineer who studies insect olfaction and reads locust brain signals to detect explosives. https://ramanlab.wustl.edu/
+- **Barbara Mazzolai** (1) — Associate Director for Robotics and director of the Bioinspired Soft Robotics Lab, Istituto Italiano di Tecnologia. Biologist and roboticist who created the Plantoid, the first robot modelled on plant roots. https://www.iit.it/people-details/-/people/barbara-mazzolai
 - **Baum & Leahy** (1) — Artist duo (Amanda Baum and Rose Leahy). Artist-designer duo making speculative installations about microbes, deep time and more-than-human futures.
 - **Beatriz da Costa** (1) — Artist and educator; UC Irvine (1974–2012). Beatriz da Costa was an interdisciplinary artist who combined tactical media, citizen science and biology, often working with animals as partners.
 - **Benjamin Ward-Cherrier** (1) — Robotics researcher, University of Bristol. Robotics researcher working on neuromorphic tactile sensing; his group used FinalSpark organoids to classify Braille from an artificial fingertip.
@@ -4422,6 +5199,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Bert De Roo** (1) — Design researcher; co-author of the Umwelt-sketch method. Researcher who builds practical methods for bringing nonhuman perspectives into design workshops.
 - **Biohm** (1) — Biomanufacturing company for mycelium building materials. Founded by Ehab Sayed in 2016, Biohm makes mycelium insulation panels and Orb, a board material made from food and industrial waste. https://www.biohm.co.uk/
 - **Biomason** (1) — Biocement company founded by Ginger Krieg Dosier. Architect Ginger Krieg Dosier developed a way to grow masonry with bacteria and founded Biomason to make biocement tiles and blocks. https://biomason.com/
+- **Biomemory** (1) — DNA data storage company, spin-out of CNRS and Sorbonne Université. Company that stores data in DNA made by engineered cells and is building DNA storage for data centres. https://www.biomemory.com/
 - **Blast Studio** (1) — Design studio 3D printing with living mycelium. Blast Studio, co-founded by Paola Garnousset and Arthur Lee, prints objects and structures from waste streams such as paper cups and lets mycelium grow through them. https://www.blast-studio.com/
 - **Block Research Group** (1) — Research group at ETH Zurich led by Philippe Block. The Block Research Group studies compression-only structures, shell design and structural form finding. https://block.arch.ethz.ch/
 - **Blond & Bieber** (1) — Design studio of Essi Johanna Glomb and Rasa Weber. Blond & Bieber work with microalgae as a colour source for textile printing and surfaces. https://www.blondandbieber.com/
@@ -4432,6 +5210,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **C-Lab (Laura Cinti & Howard Boland)** (1) — Art-science studio. London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology. https://www.c-lab.co.uk
 - **Carla Alcalà Badias** (1) — Artist. Spanish artist working with sound, sediments and microorganisms, often with marine scientists.
 - **Carole Collet** (1) — Professor in Design for Sustainable Futures; director of the Design & Living Systems Lab, Central Saint Martins. Carole Collet researches textile design, biomimicry and synthetic biology at Central Saint Martins, University of the Arts London. https://www.carolecollet.com/
+- **Catalog** (1) — DNA data storage and computing start-up (key assets acquired by Biomemory in 2026). Company that built a machine to write data into DNA from pre-made pieces, and stored English Wikipedia in DNA in 2019. https://www.catalogdna.com/
 - **Cecilia Jonsson** (1) — Artist. Swedish artist working with metals, minerals and biological material, often extracting iron from living sources. https://www.ceciliajonsson.com
 - **Chadwick A. Wingrave** (1) — HCI researcher, University of Central Florida (at the time of the work). Researcher in 3D interaction who explored serious games for dogs and their owners.
 - **Charles M. Lieber** (1) — Nanoscientist; former Professor of Chemistry, Harvard University. Chemist who pioneered nanowire and macroporous mesh electronics that can be merged with living tissue, including 3D 'cyborg' tissue scaffolds.
@@ -4441,10 +5220,11 @@ Consciousness, consent and the futures of computing with living brains.
 - **Chidi Usanga** (1) — Researcher, University of Limerick. Participatory design researcher working on rivers and nonhuman stakeholders in sustainable development.
 - **Chris Woebken** (1) — Designer and researcher; co-founder of the Extrapolation Factory. Chris Woebken is a design researcher who builds speculative wearables and participatory futures methods, trained at the Royal College of Art Design Interactions programme. https://www.chriswoebken.com
 - **Christa Sommerer & Laurent Mignonneau** (1) — Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz. Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.
-- **Christopher Voigt** (1) — Professor of Biological Engineering, MIT. Christopher Voigt designs genetic circuits and programmable bacteria, from light-sensing E. coli to 'living circuit boards'.
 - **City of Melbourne Urban Forest team** (1) — Urban forest and open-space team of the City of Melbourne. The City of Melbourne manages about 70,000 public trees and published them on the open Urban Forest Visual map. https://www.melbourne.vic.gov.au
 - **Colorifix** (1) — Biotechnology company dyeing textiles with engineered microbes. Founded in 2016 by synthetic biologists Orr Yarkoni and Jim Ajioka, Colorifix uses engineered bacteria to make and fix dyes on fabric. https://colorifix.com/
 - **Damanhur** (1) — Ecovillage community in Piedmont; research group behind Music of the Plants. Intentional community founded in the 1970s whose researchers built devices that turn electrical changes in plants into MIDI music; the devices are now sold as Plant Music. https://www.plantmusic.com/
+- **Damien Woods** (1) — Professor of Computer Science, Maynooth University. Computer scientist working on molecular computing and the theory of self-assembly.
+- **Daniel Preston** (1) — Assistant Professor of Mechanical Engineering, Rice University; Preston Innovation Laboratory. Engineer working on soft robotics and energy; coined 'necrobotics' for robots made from dead organisms.
 - **Danielle Trofe** (1) — Designer; founder of MushLume Lighting. Danielle Trofe founded her studio in 2011 and began growing lamp shades from mycelium and hemp in 2014, working with Ecovative. https://danielletrofe.com/
 - **Dasha Tsapenko** (1) — Designer. Ukrainian designer based in the Netherlands, working with fungi, plants and grown textiles.
 - **David H. Gracias** (1) — Professor of Chemical and Biomolecular Engineering, Johns Hopkins University. Engineer known for self-folding micro-devices. His group made shell-shaped 3D microelectrode arrays that close around a brain organoid.
@@ -4453,9 +5233,9 @@ Consciousness, consent and the futures of computing with living brains.
 - **Dirk Hebel** (1) — Professor of Sustainable Construction, Karlsruhe Institute of Technology. Dirk Hebel researches cultivated and recycled building materials, including bamboo composites and mycelium. https://nb.ieb.kit.edu/
 - **Donna Haraway** (1) — Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz. Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.
 - **Earth Species Project** (1) — Nonprofit AI research lab co-founded by Aza Raskin and Britt Selvitelle. Earth Species Project develops machine-learning models and benchmarks to decode animal communication. https://www.earthspecies.org
-- **Eduardo Reck Miranda** (1) — Professor of Computer Music, University of Plymouth; head of ICCMR. Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.
 - **Eldy S. Lazaro Vasquez** (1) — Designer and HCI researcher (biomaterials and wearables). Eldy S. Lazaro Vasquez designs sustainable wearables and prototyping methods with biomaterials such as mycelium and bacterial cellulose.
 - **Eleni Stavrinidou** (1) — Associate Professor, Laboratory of Organic Electronics, Linköping University; leads the Electronic Plants group. Eleni Stavrinidou grows conductive polymer wires, sensors and supercapacitors inside living plants.
+- **Ella Gale** (1) — Researcher in memristors and unconventional computing; formerly at UWE Bristol. Chemist and computer scientist who studied memristive behaviour in slime mould, proteins and other soft matter.
 - **Embassy of the North Sea** (1) — Research and design initiative representing the North Sea as a political subject. Founded in 2018, the Embassy of the North Sea works with artists, lawyers, scientists and fishers to listen to, speak with and eventually negotiate on behalf of the sea. https://www.embassyofthenorthsea.com
 - **Emilia Tapprest** (1) — Designer and filmmaker. Finnish designer and filmmaker who makes speculative films about technology, bodies and ecologies.
 - **Emma van der Leest** (1) — Biodesigner; founder of BlueCity Lab. Dutch biodesigner who grows materials such as bacterial cellulose leather and runs the BlueCity Lab for biodesign in Rotterdam.
@@ -4466,8 +5246,10 @@ Consciousness, consent and the futures of computing with living brains.
 - **Forensic Architecture** (1) — Research agency at Goldsmiths, University of London, directed by Eyal Weizman. Forensic Architecture uses spatial, architectural and media analysis to investigate state and corporate violence, including violence against environments. https://forensic-architecture.org
 - **Frank Noz** (1) — Designer; co-creator of Cat Cat Revolution. Designer who made an iPad game that a cat and its owner play together.
 - **Gavin Munro** (1) — Designer; co-founder of Full Grown. Gavin Munro co-founded Full Grown with Alice Munro and grows chairs, lamps and tables from living trees on a farm near Wirksworth. https://fullgrown.co.uk/
+- **Gizem Gumuskaya** (1) — Researcher; developed Anthrobots as a PhD student in Michael Levin's lab at Tufts; trained as an architect at MIT. Architect turned synthetic morphologist who builds multicellular robots from adult human cells.
 - **Glowee** (1) — Start-up making light with bioluminescent bacteria. Glowee was founded by Sandra Rey in 2014 to develop lighting from bioluminescent marine bacteria for shop windows, events and cities. https://www.glowee.com/
 - **Heather Dewey-Hagborg** (1) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping. https://deweyhagborg.com
+- **Heiko Hamann** (1) — Professor of Computer Science, University of Konstanz; coordinator of flora robotica. Roboticist working on swarm robotics and robot–plant biohybrids.
 - **Henk Jonkers** (1) — Professor of Sustainable Building Materials, TU Delft. Microbiologist Henk Jonkers developed bacteria-based self-healing concrete, commercialised by the spin-off Basilisk. https://basiliskconcrete.com/en/
 - **Het Nieuwe Instituut** (1) — Dutch national institute for architecture, design and digital culture. Het Nieuwe Instituut is a museum and research institute whose research team, led by Klaas Kuitenbrouwer, developed the Zoöp model. https://zoop.hetnieuweinstituut.nl/en
 - **Hirokazu Takahashi** (1) — Professor of Mechano-Informatics, The University of Tokyo. Engineer whose lab uses living neuronal cultures as physical reservoirs to control robots.
@@ -4478,6 +5260,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Ivan Poupyrev** (1) — Interaction researcher; formerly Disney Research and Google ATAP (Project Soli, Jacquard). Ivan Poupyrev invented sensing technologies such as Touché, Botanicus Interacticus, Soli radar and Jacquard textiles. http://www.ivanpoupyrev.com/
 - **J. Lomax Boyd** (1) — Assistant Professor, Berman Institute of Bioethics, Johns Hopkins University. Neuroscientist and bioethicist who studies public and expert attitudes toward brain organoids and embodied biocomputing.
 - **Jalila Essaïdi** (1) — Artist and bio-entrepreneur. Jalila Essaïdi is a Dutch artist who works with biomaterials, from spider-silk skin to materials made from manure. https://jalilaessaidi.com
+- **James J. Collins** (1) — Termeer Professor of Medical Engineering and Science, MIT. Bioengineer, a founder of synthetic biology, who built the genetic toggle switch and later paper-based cell-free diagnostics. https://collinslab.mit.edu/
 - **Jana Winderen** (1) — Sound artist working with hydrophones and ultrasonic recording. Trained in mathematics, chemistry and fish ecology, Winderen records sounds in the sea, ice and rivers that humans usually cannot hear, and composes them into multichannel installations. https://www.janawinderen.com/
 - **Jane Bennett** (1) — Professor of Political Science, Johns Hopkins University. Political theorist who develops a vital materialism in which things and materials have their own agency.
 - **Jen Liu** (1) — Designer and researcher; PhD, Cornell University. Designer-researcher who made wearable tools for mushroom foraging to study how people and fungi survive together. https://jenliujenliu.com/
@@ -4487,42 +5270,53 @@ Consciousness, consent and the futures of computing with living brains.
 - **Jodi Forlizzi** (1) — Professor, Human-Computer Interaction Institute, Carnegie Mellon University. Jodi Forlizzi is an interaction design researcher known for work on product experience, robots and service design.
 - **Joe Davis** (1) — Artist; research affiliate at MIT and Harvard Medical School. Joe Davis is an American artist who has worked in molecular biology labs since the 1980s.
 - **John A. Rogers** (1) — Professor of Materials Science and Biomedical Engineering, Northwestern University. Materials scientist known for bio-integrated and 3D-assembled electronics, including pop-up frameworks that wrap around neural spheroids. https://rogersgroup.northwestern.edu
+- **John LaRocco** (1) — Research scientist, College of Medicine, The Ohio State University. Engineer who grows shiitake mycelium into memristors and other electronic components.
 - **Jonas Edvard** (1) — Material designer. Jonas Edvard is a Danish designer who works with mycelium, seaweed and stone to make lamps, tiles, chairs and shelters. https://www.jonasedvard.com/
 - **Jonathan Ho** (1) — Artist. Artist whose installations mix mythology, biology and gender, working with snail biologist Joris Koene on hermaphroditism.
 - **Josiah Hester** (1) — Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing. Josiah Hester builds battery-free and intermittent computing systems powered by the environment.
 - **Julia Lohmann** (1) — Designer; Professor of Contemporary Design, Aalto University; founder of the Department of Seaweed. Julia Lohmann founded the Department of Seaweed in 2013 as designer-in-residence at the V&A and works with kelp as a leather-like material. https://www.julialohmann.co.uk/
+- **Karen Alim** (1) — Professor of Theory of Biological Networks, Technical University of Munich. Physicist who studies how flow networks in slime moulds and other organisms store information and make decisions.
+- **Karin Strauss** (1) — Senior Principal Research Manager, Microsoft Research; affiliate professor, University of Washington. Computer architect who leads Microsoft's DNA data storage research.
 - **Karola V. Kreitmair** (1) — Assistant Professor of Medical History and Bioethics, University of Wisconsin–Madison. Bioethicist who writes on neurotechnology and on how uncertainty about consciousness should shape brain organoid research.
 - **Kasia Molga** (1) — Artist and designer; Studio Molga. Polish-born artist who works with environmental and biological data, AI and living organisms; co-founded World Wilder Lab in 2013 with Erik Overmeire and Ivan Henriques. https://www.studiomolga.com/
 - **Katia Vega** (1) — Associate Professor of Design, UC Davis; director of the Interactive Organisms Lab. Katia Vega creates beauty technology and interactive wearables, including biosensing tattoos and biomaterial accessories. https://www.katiavega.com/
 - **Keel Labs (formerly AlgiKnit)** (1) — Materials company making kelp-based yarn. Founded in 2017 as AlgiKnit by Tessa Callaghan and Aleksandra Gosiewski, Keel Labs makes Kelsun yarn from alginate extracted from kelp. https://www.keellabs.com/
 - **Kenichi Okada** (1) — Designer; Royal College of Art Design Interactions graduate. Kenichi Okada is a Japanese interaction designer who co-created Animal Superpowers with Chris Woebken at the Royal College of Art.
+- **Kenjiro Fukuda** (1) — Senior Research Scientist, Thin-Film Device Laboratory, RIKEN. Engineer developing ultrathin organic solar cells and electronics that can be worn by skin, plants and insects.
 - **Kenneth S. Kosik** (1) — Professor of Neuroscience, University of California, Santa Barbara. Neuroscientist whose lab recorded human brain organoids on high-density CMOS microelectrode arrays to map their circuits and oscillations.
 - **Kevin Warwick** (1) — Emeritus Professor of Engineering, Coventry University; formerly University of Reading. Cybernetics researcher known for implant experiments on himself; his Reading team built Gordon, a wheeled robot driven by cultured rat neurons.
 - **Koniku** (1) — Wetware startup building smell sensors from living neurons. Founded in 2015 by Oshiorenoya Agabi, Koniku builds devices that combine engineered neurons carrying olfactory receptors with silicon, aimed at detecting explosives and disease. https://koniku.com
 - **Kristina Lindström** (1) — Design researcher, School of Arts and Communication, Malmö University. Participatory design researcher who, with Åsa Ståhl, works on plastics, compost and living in the aftermath of design.
 - **Kuai Shen** (1) — Artist. Kuai Shen (Kuai Shen Auson) is an Ecuadorian artist who creates installations with ant colonies.
 - **Kuang-Yi Ku** (1) — Bio artist, trained dentist. Taiwanese bio artist and researcher who uses biotechnology and speculative anatomy to explore queer sexuality and the body.
+- **Leonard Adleman** (1) — Professor of Computer Science, University of Southern California. Computer scientist, co-inventor of RSA encryption and founder of DNA computing.
 - **Leonardo Angelini** (1) — Professor, HES-SO University of Applied Sciences of Western Switzerland, Fribourg. Leonardo Angelini designs tangible and embodied interfaces for older adults and everyday objects.
 - **Livin Studio** (1) — Design studio of Katharina Unger and Julia Kaisinger. Livin Studio, founded by Katharina Unger and Julia Kaisinger, designs food systems such as insect farms and fungal incubators. https://katharinaunger.com/
 - **Living Colour** (1) — Research project of designers Laura Luchtman (Kukka) and Ilfa Siebenhaar. Living Colour, started in 2016 with Hogeschool Rotterdam, grows pigment-producing bacteria directly on fabric. https://livingcolour.eu/
 - **Living Things (Jacob Douenias & Ethan Frier)** (1) — Design partnership of architectural designer Jacob Douenias and industrial designer Ethan Frier. Jacob Douenias and Ethan Frier designed bioreactor furniture for living spirulina cultures, shown at the Mattress Factory in 2015. http://www.ethanfrier.com/living-things
 - **Lone Koefoed Hansen** (1) — Associate Professor, Department of Digital Design and Information Studies, Aarhus University. Interaction design researcher who makes plant–electronics experiments to shift how people notice plants.
+- **Luis Ceze** (1) — Professor of Computer Science and Engineering, University of Washington; co-director of MISL. Computer architect who co-leads research on storing and computing with DNA.
 - **MIT Design Lab** (1) — Design research lab at the Massachusetts Institute of Technology. The MIT Design Lab works with industry partners on design research for future products, including biodesign for sportswear with Puma. https://design.mit.edu/
 - **Magnus Larsson** (1) — Architect. Magnus Larsson is a Swedish architect known for his proposal to solidify desert sand with bacteria.
 - **Maja Smrekar** (1) — Artist. Maja Smrekar is a Slovenian artist working with biotechnology and human–animal co-evolution. https://www.majasmrekar.org
 - **Maliheh Ghajargar** (1) — Researcher, Internet of Things and People Research Center, Malmö University. Interaction design researcher working on tangible interaction, AI and multispecies storytelling.
 - **Marcos Cruz** (1) — Professor of Innovative Environments, The Bartlett (UCL); co-director of BiotA Lab. Marcos Cruz is an architect who designs bioreceptive façades that invite moss, lichen and algae to grow.
 - **Marta de Menezes** (1) — Artist; director of Cultivamos Cultura. Marta de Menezes is a Portuguese artist who has made art in biology labs since 1999. https://martademenezes.com
+- **Martin Kaltenbrunner** (1) — Professor, Soft Matter Physics and LIT Soft Materials Lab, Johannes Kepler University Linz. Physicist building soft, stretchable and biodegradable electronics and robots. https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
 - **Martin Tomitsch** (1) — Professor of design and interaction; formerly University of Sydney Design Lab, now UTS. Interaction design researcher working on cities, urban interfaces and planet-centred design.
 - **Martín Tironi** (1) — Associate Professor, School of Design, Pontificia Universidad Católica de Chile. Design and STS researcher working on smart cities, algorithms and post-anthropocentric design.
 - **Matthijs Munnik** (1) — Artist. Dutch artist making audiovisual installations about perception, light and living systems.
 - **Max Rheiner** (1) — Media artist; creator of Birdly; founder of Somniacs. Swiss interaction designer who built the full-body flight simulator Birdly at ZHdK in 2013–14 and later founded the company Somniacs to produce it.
+- **Metin Sitti** (1) — Roboticist; founding director of the Physical Intelligence Department, Max Planck Institute for Intelligent Systems. Roboticist working on small-scale, soft and bio-inspired robots, including microrobots propelled by bacteria. https://pi.is.mpg.de/
+- **Michael Elowitz** (1) — Professor of Biology and Bioengineering, Caltech; HHMI Investigator. Biologist who built the repressilator, one of the first synthetic gene circuits, and studies how cells compute. https://www.elowitz.caltech.edu/
 - **Michael Haldrup** (1) — Professor, Department of Communication and Arts, Roskilde University. Researcher in performance design and participatory spatial design.
 - **Michael Sedbon** (1) — Artist. French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.
 - **Michela Chiappalone** (1) — Associate Professor of Bioengineering, University of Genoa; formerly Istituto Italiano di Tecnologia. Bioengineer who embodied modular neuronal cultures in closed-loop robot navigation tasks.
 - **Mike Thompson** (1) — Designer. Mike Thompson is a designer who makes speculative products about energy and everyday life.
+- **Milan Stojanovic** (1) — Professor of Medicine and Biomedical Engineering, Columbia University. Chemist who built MAYA, DNA-enzyme automata that play tic-tac-toe against people.
 - **Modern Meadow** (1) — Biofabrication company making protein-based materials. Modern Meadow, founded by Andras Forgacs, develops leather-like materials from proteins produced by fermentation. https://www.modernmeadow.com/
 - **Mogu** (1) — Italian company making mycelium interior products. Mogu, co-founded in 2015 with designer Maurizio Montalti, grows acoustic panels and floor tiles from fungal mycelium and textile or agricultural residues. https://mogu.bio/
+- **Molecular Information Systems Lab (MISL)** (1) — Joint lab of the University of Washington and Microsoft Research. Lab that builds DNA data storage and molecular computing systems, from random access to fully automated storage. https://misl.cs.washington.edu/
 - **Nadia Campo Woytuk** (1) — Interaction design researcher, KTH Royal Institute of Technology. Nadia Campo Woytuk works on feminist HCI for intimate health, including menstruation and the vaginal microbiome.
 - **Nancy Smith** (1) — HCI researcher; PhD, Indiana University. Researcher who studied hybrid human–nature arrangements such as urban homesteads and their design implications.
 - **National Academies of Sciences, Engineering, and Medicine** (1) — US non-profit institution that advises on science policy. Independent US institution that produces consensus reports; in 2021 it reviewed the science and ethics of human neural organoids, transplants and chimeras. https://www.nationalacademies.org
@@ -4530,6 +5324,8 @@ Consciousness, consent and the futures of computing with living brains.
 - **Ned Cooper** (1) — Researcher, School of Cybernetics, Australian National University. Researcher who applies philosophy of mind to participatory design with trees and other nonhumans.
 - **Nefeli Manoudaki** (1) — Media artist and researcher, Media Arts and Technology, UC Santa Barbara. Architect and media artist who co-created Simulacra Naturae, an installation driven by recorded brain organoid activity.
 - **New Reality Company** (1) — VR studio of Milica Zec and Winslow Porter. Studio founded by director Milica Zec and producer Winslow Porter, known for the VR works Giant (2016) and Tree (2017). https://www.treeofficial.com/
+- **Nick Goldman** (1) — Group Leader, EMBL's European Bioinformatics Institute (EMBL-EBI). Bioinformatician who, with Ewan Birney, designed an error-tolerant scheme for storing files in synthetic DNA.
+- **Nicole Xu** (1) — Assistant Professor of Mechanical Engineering, University of Colorado Boulder. Bioengineer who embeds microelectronics in live jellyfish to control and speed up their swimming.
 - **Nienke Hoogvliet** (1) — Designer; founder of Studio Nienke Hoogvliet. Nienke Hoogvliet makes textiles, dyes and leather from seaweed, fish skin and waste streams from water treatment. https://www.nienkehoogvliet.nl/
 - **Ninela Ivanova** (1) — Design researcher and strategist. Ninela Ivanova is a design researcher who studies biofabrication and the future of materials. https://www.ninelaivanova.co.uk/
 - **Nita A. Farahany** (1) — Professor of Law and Philosophy, Duke University. Legal scholar and ethicist of neurotechnology who led a 2018 call in Nature for ethical rules on experiments with human brain tissue, organoids and chimeras. https://law.duke.edu/fac/farahany
@@ -4538,6 +5334,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Paolo Bombelli** (1) — Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher. Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.
 - **Pascal Leboucq** (1) — Set designer and artist. Pascal Leboucq is a Dutch set designer who initiated the Growing Pavilion with the organisation Biobased Creations. https://thegrowingpavilion.com/
 - **Patricia Pons** (1) — Researcher, Universitat Politècnica de València. Researcher who builds intelligent playful environments for cats and other animals using depth cameras.
+- **Paul Rothemund** (1) — Research Professor of Bioengineering, Computing and Mathematical Sciences, and Computation and Neural Systems, Caltech. Computer scientist who invented DNA origami: folding a long DNA strand into any 2D shape with short staple strands.
 - **Paul Vanouse** (1) — Artist; professor at the University at Buffalo. Paul Vanouse is an American artist who uses molecular biology techniques in performances. https://www.paulvanouse.com
 - **Pei-Ying Lin** (1) — Designer and artist. Taiwanese designer and researcher making speculative work on viruses, microbes and human–nonhuman relations. https://peiyinglin.net
 - **Philip Beesley** (1) — Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group. Philip Beesley builds immersive responsive environments that behave like near-living systems. https://www.philipbeesleystudioinc.com
@@ -4551,16 +5348,23 @@ Consciousness, consent and the futures of computing with living brains.
 - **Rachel Clarke** (1) — Senior Lecturer, Open Lab, Newcastle University. Participatory design researcher working on cities, sustainability and more-than-human participation.
 - **Rainforest Connection** (1) — Conservation-technology nonprofit founded by Topher White. Rainforest Connection (RFCx) builds solar-powered acoustic monitors from recycled phones that listen to forests for chainsaws and wildlife. https://rfcx.org
 - **Ren Ri** (1) — Artist and beekeeper. Chinese artist (b. 1984) who makes beeswax sculptures by steering how bee colonies build comb inside frames and acrylic boxes.
+- **Ritu Raman** (1) — Assistant Professor of Mechanical Engineering, MIT. Engineer who builds adaptive machines from living muscle and nerve tissue, and writes about biofabrication.
+- **Rob Shepherd** (1) — Faculty member, Sibley School of Mechanical and Aerospace Engineering, Cornell University; director of the Organic Robotics Lab. Roboticist working on soft robots, sensory skins and robots powered or controlled by biological systems. https://orl.mae.cornell.edu/
+- **Robert Grass** (1) — Professor, Institute for Chemical and Bioengineering, ETH Zurich. Chemical engineer who encapsulates DNA in glass nanoparticles so data can survive for centuries and travel inside materials.
 - **Roya Aghighi** (1) — Designer. Roya Aghighi is an Iranian-Canadian designer who worked with University of British Columbia labs on living, photosynthetic textiles.
+- **Ryohei Kanzaki** (1) — Professor, Research Center for Advanced Science and Technology, University of Tokyo. Neuroethologist who studies how silkmoths track odour, using robots driven by live moths.
 - **SPACE10** (1) — Research and design lab supported by IKEA. SPACE10 explored future living, food and cities through exhibitions and prototypes until 2024. https://space10.com/
 - **Samar Khan** (1) — Designer and researcher. Designer and researcher who co-created the film Ecotonal Beings with Emilia Tapprest.
 - **Sascha Pohflepp** (1) — Designer and artist (1978–2019). Sascha Pohflepp was a German designer whose speculative work dealt with technology, energy and synthetic biology.
+- **Sawyer Fuller** (1) — Faculty member in Mechanical Engineering, University of Washington; leads the Autonomous Insect Robotics Lab. Roboticist building insect-sized flying robots and sensors that borrow from insect biology.
 - **Saša Spačal** (1) — Artist. Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies. https://www.agapea.si
 - **Scenocosme** (1) — Artist duo Grégory Lasserre and Anaïs met den Ancxt. Scenocosme make interactive installations with plants, wood and bodies that react to touch and human bioelectricity. https://www.scenocosme.com/
 - **Sebastian Cox** (1) — Furniture designer and maker. Sebastian Cox designs furniture from coppiced British hardwoods and runs his own woodland. https://www.sebastiancox.co.uk/
+- **Seth Shipman** (1) — Associate Investigator, Gladstone Institutes; Associate Professor, UCSF. Bioengineer who turns living cells into recorders that write events into their own DNA. https://gladstone.org/people/seth-shipman
 - **Shimabuku** (1) — Artist. Japanese artist whose playful actions and objects are often made for or with animals, especially octopuses and fish. http://www.shimabuku.net/
 - **Shimon Marom** (1) — Professor of Physiology, Technion – Israel Institute of Technology. Neurophysiologist who showed in 2001 that cultured cortical networks can learn a stimulus-response task when stimulation stops as a reward.
 - **Sissel Marie Tonn** (1) — Artist. Danish artist whose research-based works deal with embodiment, pollution and how bodies sense their environment.
+- **Soichiro Tsuda** (1) — Researcher in biological and unconventional computing; built the Physarum-controlled robot at the University of Southampton. Computer scientist who used living slime-mould cells as the controller of a walking robot, working with Klaus-Peter Zauner and Yukio-Pegio Gunji.
 - **Sonia Levy** (1) — Artist and filmmaker. French-born artist whose films observe how humans and other species, such as corals and canal life, live with each other.
 - **Sonja Bäumel** (1) — Artist. Sonja Bäumel is an Austrian artist who works with the microbes living on and around the human body. https://www.sonjabaeumel.at
 - **Spiber** (1) — Japanese company producing Brewed Protein fibres. Spiber, founded in 2007 at Keio University, ferments designed structural proteins with microbes and spins them into fibres and films. https://spiber.inc/en/
@@ -4572,6 +5376,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Timothy Merritt** (1) — Associate Professor, Department of Computer Science, Aalborg University. Timothy Merritt researches shape-changing, tangible and living media interfaces.
 - **Tony Fry** (1) — Design theorist; founder of The Studio at the Edge of the World. Design philosopher who writes on sustainment, defuturing and design after unsustainability.
 - **United Visual Artists** (1) — Art and design practice working with light, sound and code. London studio founded in 2003 by Matt Clark that makes large installations with light, sound and software. https://www.uva.co.uk/
+- **Victoria Webster-Wood** (1) — Associate Professor of Mechanical Engineering, Carnegie Mellon University; Biohybrid and Organic Robotics Group. Engineer who builds biohybrid robots from sea-slug (Aplysia) muscle and nerve tissue and organic materials. https://engineering.cmu.edu/borg/
 - **Vito Gentile** (1) — Researcher, Ubiquitous Systems and Interfaces group, University of Palermo. Vito Gentile researches pervasive displays and touchless interaction in public spaces.
 - **Werner Aisslinger** (1) — Industrial designer; founder of Studio Aisslinger. Werner Aisslinger designs furniture, interiors and experimental material projects such as the Hemp Chair. https://aisslinger.de/
 - **Wild Me** (1) — Nonprofit behind Wildbook, now part of Conservation X Labs. Wild Me builds open-source software that identifies individual animals from photographs contributed by researchers and the public. https://www.wildme.org
@@ -4579,6 +5384,8 @@ Consciousness, consent and the futures of computing with living brains.
 - **Wolfgang Buttress** (1) — Artist and sculptor. British artist who makes large sculptures about landscape and nature, often with scientists; best known for The Hive, which is driven by live honeybee signals. https://www.wolfgangbuttress.com/
 - **Xandra van der Eijk** (1) — Artist. Dutch artist working on ecological change, landscapes and the sea through sound, material and long-term research.
 - **Xiaodong Chen** (1) — Professor of Materials Science and Engineering, Nanyang Technological University, Singapore. Xiaodong Chen develops soft bio-interfaced electronics, including conformable electrodes for plants.
+- **Yannick Rondelez** (1) — CNRS Research Director, Gulliver laboratory, ESPCI Paris. Chemist who builds dynamic molecular programs from DNA and enzymes that oscillate, compute and decide.
+- **Yu Fukasawa** (1) — Associate Professor, Graduate School of Agricultural Science, Tohoku University. Fungal ecologist who studies how wood-decay fungi and mycorrhizal networks sense, remember and signal.
 - **ZKM | Center for Art and Media Karlsruhe** (1) — Art and media museum and research centre. ZKM is a German institution for media art that produces large thematic exhibitions on technology, science and society. https://zkm.de
 - **Zena Holloway** (1) — Photographer and biodesigner; founder of Rootfull. Former underwater photographer Zena Holloway founded Rootfull in 2018 to grow textiles and objects from grass roots in beeswax templates. https://www.zenaholloway.com/
 - **Zhenan Bao** (1) — Professor of Chemical Engineering, Stanford University. Materials scientist working on skin-like stretchable electronics, including kirigami-cut electrode sheets that follow growing organoids. https://baogroup.stanford.edu
