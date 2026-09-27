@@ -17735,6 +17735,7 @@
    "field": "biohybrid",
    "sub": "microbial-interfaces",
    "also": [
+    "hni",
     "mth"
    ],
    "organisms": [
@@ -31232,6 +31233,7 @@
    "field": "biohybrid",
    "sub": "living-interfaces",
    "also": [
+    "aci",
     "mth"
    ],
    "organisms": [

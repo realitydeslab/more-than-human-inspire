@@ -9,7 +9,7 @@
   const FIELDS = TAX.fields;
   const COLS = TAX.collections || [];
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "works", "papers", "creators", "starred"];
+  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -165,6 +165,18 @@
   }
 
   /* ---------- views ---------- */
+  const colCount = (c) => DATA.works.filter((w) => (w.collections || []).includes(c.id)).length;
+  const colCard = (c) => { const n = colCount(c); return n ? `<button class="colcard" data-col-go="${esc(c.id)}">
+      <span class="colcard__n mono">${n} · ${esc(S().col_types[c.type] || "")}</span><span class="colcard__title">${esc(nm(c))}</span>
+      <span class="colcard__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</span></button>` : ""; };
+  function renderCollections() {
+    currentList = [];
+    const groups = ["survey", "award", "exhibition", "venue"].map((t) => [t, COLS.filter((c) => (c.type || "award") === t && colCount(c))]).filter(([, cs]) => cs.length);
+    $("#collectionList").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().collections)}</h2><p class="starred__lede">${esc(S().collections_lede)}</p></div>` +
+      groups.map(([t, cs]) => `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(S().col_groups[t])}</h3><span class="scat__n mono">${cs.length}</span></div>
+        <div class="cols__grid">${cs.map(colCard).join("")}</div></section>`).join("");
+    return groups.length;
+  }
   function renderAtlas() {
     currentList = [];
     $("#atlas").innerHTML = `<p class="keys__lede">${esc(S().atlas_lede)}</p><div class="atlas">${FIELDS.map((f, i) => {
@@ -181,8 +193,7 @@
           <ul class="sublist">${subs}</ul>
           <button class="tour__start mono" data-go="${f.id}">${esc(S().atlas_open(ws.length))}</button></div></section>`;
     }).join("")}</div>${COLS.length ? `<section class="cols"><h2 class="scat__title">${esc(S().collections)}</h2><p class="scat__desc">${esc(S().collections_lede)}</p>
-      <div class="cols__grid">${COLS.map((c) => { const n = DATA.works.filter((w) => (w.collections || []).includes(c.id)).length; return n ? `<button class="colcard" data-col-go="${esc(c.id)}">
-        <span class="colcard__n mono">${n}</span><span class="colcard__title">${esc(nm(c))}</span><span class="colcard__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</span></button>` : ""; }).join("")}</div></section>` : ""}`;
+      <div class="cols__grid">${COLS.map(colCard).join("")}</div></section>` : ""}`;
     return FIELDS.length;
   }
   function renderField(f) {
@@ -271,7 +282,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();
