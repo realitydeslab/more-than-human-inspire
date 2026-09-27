@@ -35,7 +35,7 @@ Each research batch writes one file: `data/raw/<batch>.json`
   "creator_ids": ["lining-yao", "mit-tangible-media"],
   "title": "bioLogic: Natto Cells as Nanoactuators for Shape-Changing Interfaces",
   "year": 2015,
-  "field": "bio",                            // primary field: mth | bio | biohybrid | organoid  (data/taxonomy.json)
+  "field": "bio",                            // primary field: mth | bio | biohybrid | organoid | hni  (data/taxonomy.json)
   "sub": "responsive",                       // one sub-category id of that field
   "also": ["biohybrid"],                     // optional: other fields it clearly belongs to
   "organisms": ["bacteria"],                 // 1-3 from the organism vocabulary

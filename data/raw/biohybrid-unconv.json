@@ -1430,6 +1430,32 @@
       "based_zh": "罗利，美国",
       "connected_to": [],
       "discovered_via": "seed"
+    },
+    {
+      "id": "ioannis-ieropoulos",
+      "name": "Ioannis Ieropoulos",
+      "kind": "person",
+      "role": "Microbial fuel cell researcher; founder of the Bristol BioEnergy Centre at the Bristol Robotics Laboratory",
+      "based": "UK",
+      "bio": "Engineer who builds robots and toilets powered by microbial fuel cells, from the EcoBot series to Pee Power.",
+      "why": "He showed that robots can feed themselves through the metabolism of living microbes.",
+      "links": {
+        "site": "",
+        "scholar": "",
+        "x": "",
+        "instagram": "",
+        "vimeo": "",
+        "youtube": "",
+        "github": ""
+      },
+      "role_zh": "微生物燃料电池研究者，布里斯托机器人实验室布里斯托生物能源中心创始人",
+      "bio_zh": "工程师，制造由微生物燃料电池供能的机器人和厕所，从 EcoBot 系列到 Pee Power。",
+      "why_zh": "他证明了机器人可以通过活微生物的新陈代谢来养活自己。",
+      "based_zh": "英国",
+      "connected_to": [
+        "andrew-adamatzky"
+      ],
+      "discovered_via": "andrew-adamatzky"
     }
   ],
   "works": [
@@ -1980,11 +2006,11 @@
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4855389/"
     },
     {
-      "id": "audrey-dussutour--eleve-ta-blob",
+      "id": "audrey-dussutour--eleve-ton-blob",
       "creator_ids": [
         "audrey-dussutour"
       ],
-      "title": "Élève ta blob (Raise your blob)",
+      "title": "Élève ton blob (Raise your blob)",
       "year": 2021,
       "field": "biohybrid",
       "sub": "fungal-computing",
@@ -2000,6 +2026,7 @@
       "method_zh": "把休眠的干燥黏菌样本分别在微重力环境和学校里唤醒；学生在不同喂养条件下拍摄黏菌的生长，并与空间站的结果比较。",
       "keywords": [
         "CNES",
+        "#ElèveTonBlob",
         "le blob",
         "International Space Station",
         "citizen science",
@@ -2101,8 +2128,8 @@
         "slime-mold"
       ],
       "kind": "paper",
-      "description": "A six-legged robot was controlled by a living slime mould grown on a star-shaped circuit; light shone on the cell by the robot's sensors changed its oscillations, which drove the legs.",
-      "description_zh": "一台六足机器人由生长在星形电路上的活黏菌控制：机器人传感器把光照投到黏菌上，改变它的振荡节律，节律再驱动机器人的腿。",
+      "description": "A six-legged robot was controlled by a living slime mould grown on a star-shaped circuit; light shone on the cell by the robot's sensors changed its oscillations, which drove the legs. In 2010 Tsuda also drove a wheeled robot the same way.",
+      "description_zh": "一台六足机器人由生长在星形电路上的活黏菌控制：机器人传感器把光照投到黏菌上，改变它的振荡节律，节律再驱动机器人的腿。2010 年，Tsuda 又用同样的方法驱动了一台轮式机器人。",
       "idea_en": "Use the rhythm of a living cell as a robot's nervous system.",
       "idea_zh": "用活细胞的节律充当机器人的神经系统。",
       "method": "Physarum on a patterned electrode reacts to light stimuli; its local thickness oscillations are measured and mapped to motor commands for a hexapod robot.",
@@ -2277,6 +2304,7 @@
       "method_zh": "让绒毛平革菌在土壤上从一块木块长向另一块，再把原木块转移，测量新菌丝生长的方向和范围。",
       "keywords": [
         "Phanerochaete velutina",
+        "Lynne Boddy",
         "fungal memory",
         "decision-making",
         "mycelial network"
@@ -2465,7 +2493,8 @@
       "id": "gizem-gumuskaya--anthrobots",
       "creator_ids": [
         "gizem-gumuskaya",
-        "michael-levin"
+        "michael-levin",
+        "douglas-blackiston"
       ],
       "title": "Anthrobots: Motile living biobots self-construct from adult human somatic progenitor seed cells",
       "year": 2023,
@@ -3635,11 +3664,11 @@
       "source_url": "http://www.florarobotica.eu"
     },
     {
-      "id": "barbara-mazzolai--plantoid",
+      "id": "barbara-mazzolai--growing-root-robot",
       "creator_ids": [
         "barbara-mazzolai"
       ],
-      "title": "Toward self-growing soft robots inspired by plant roots (Plantoid)",
+      "title": "Toward self-growing soft robots inspired by plant roots and based on additive manufacturing technologies",
       "year": 2017,
       "field": "biohybrid",
       "sub": "biohybrid-robots",
@@ -3647,14 +3676,15 @@
         "plants"
       ],
       "kind": "paper",
-      "description": "A robot root that moves into soil by growing: a 3D printer in its tip lays down new material, so it lengthens from the tip like a real root.",
-      "description_zh": "一根靠生长钻入土壤的机器人根：尖端里的 3D 打印机不断铺设新材料，让它像真正的根一样从尖端伸长。",
+      "description": "A robot root that follows IIT's earlier Plantoid project and moves into soil by growing: a 3D printer in its tip lays down new material, so it lengthens from the tip like a real root.",
+      "description_zh": "一根延续 IIT 早期 Plantoid 项目、靠生长钻入土壤的机器人根：尖端里的 3D 打印机不断铺设新材料，让它像真正的根一样从尖端伸长。",
       "idea_en": "Take plants as the model for robots that grow instead of walk.",
       "idea_zh": "以植物为原型，让机器人靠生长而不是行走来移动。",
       "method": "A plant-inspired robot, not a biohybrid: a tip-mounted additive-manufacturing mechanism deposits thermoplastic filament layer by layer as the root advances.",
       "method_zh": "这是受植物启发的机器人，而非生物混合体：尖端的增材制造机构随着根的前进逐层沉积热塑性丝材。",
       "keywords": [
         "Plantoid",
+        "Ali Sadeghi",
         "growing robot",
         "plant roots",
         "IIT",
@@ -3674,6 +3704,171 @@
         "venue": "Soft Robotics"
       },
       "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5649421/"
+    },
+    {
+      "id": "michael-levin--two-headed-planaria",
+      "creator_ids": [
+        "michael-levin"
+      ],
+      "title": "Long-term, stochastic editing of regenerative anatomy via targeting endogenous bioelectric gradients (two-headed planaria)",
+      "year": 2017,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "animals",
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "Flatworms cut while their cell-to-cell electrical connections were briefly blocked regrew with a head at both ends; in many others the change stayed hidden and appeared only when they were cut again, with no change to their genome.",
+      "description_zh": "在短暂阻断细胞间电连接的情况下切开扁形虫，一部分会在两端都长出头；另一些虫看起来正常，但再切一次时才显露出双头，而它们的基因组并没有改变。",
+      "idea_en": "Body shape is stored partly in a bioelectric pattern that can be rewritten, like memory.",
+      "idea_zh": "身体的形状部分储存在一种可以改写的生物电图式里，就像记忆。",
+      "method": "Planarian fragments regenerated in 8-OH-octanol, a gap-junction blocker; their bioelectric state was imaged with voltage-sensitive dyes and the worms were re-cut in plain water.",
+      "method_zh": "让涡虫片段在缝隙连接阻断剂 8-OH-辛醇中再生，用电压敏感染料成像其生物电状态，再在清水中重新切割。",
+      "keywords": [
+        "planaria",
+        "bioelectricity",
+        "gap junctions",
+        "regeneration",
+        "Fallon Durant"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=XheAMrS8Q1c"
+      },
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/952dc79ee79a/gr1.jpg",
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/bfc91713360f/gr2.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.bpj.2017.04.011",
+        "doi": "10.1016/j.bpj.2017.04.011",
+        "arxiv": "",
+        "venue": "Biophysical Journal"
+      },
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5443973/"
+    },
+    {
+      "id": "michael-levin--biodome-limb-regeneration",
+      "creator_ids": [
+        "michael-levin"
+      ],
+      "title": "Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration in adult Xenopus laevis (BioDome)",
+      "year": 2022,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "animals",
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "Adult frogs, which normally cannot regrow limbs, wore a silicone 'BioDome' with a five-drug cocktail over a fresh amputation for just 24 hours, and over the next 18 months regrew a largely functional leg.",
+      "description_zh": "成年青蛙本来无法再生肢体；研究者在截肢伤口上给它们戴一个装有五种药物的硅胶“BioDome”，只戴 24 小时，之后 18 个月里它们长出了功能基本完整的腿。",
+      "idea_en": "A short, well-timed nudge from a wearable device can start a body's own long-term growth program.",
+      "idea_zh": "可穿戴装置在恰当时机轻推一下，就能启动身体自己的长期生长程序。",
+      "method": "A wearable silk-hydrogel bioreactor delivers growth and anti-inflammatory compounds to the wound for 24 hours; regeneration is tracked by imaging, micro-CT and sensory tests.",
+      "method_zh": "可穿戴的丝蛋白水凝胶生物反应器向伤口递送生长因子和抗炎药物 24 小时，再用成像、显微 CT 和感觉测试追踪再生。",
+      "keywords": [
+        "BioDome",
+        "Xenopus laevis",
+        "limb regeneration",
+        "wearable bioreactor",
+        "Nirosha Murugan",
+        "David Kaplan"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=KQPP7AOr47g"
+      },
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9be/8791464/db53aba00e45/sciadv.abj2164-f1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.abj2164",
+        "doi": "10.1126/sciadv.abj2164",
+        "arxiv": "",
+        "venue": "Science Advances"
+      },
+      "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8791464/"
+    },
+    {
+      "id": "michael-levin--tame",
+      "creator_ids": [
+        "michael-levin"
+      ],
+      "title": "Technological Approach to Mind Everywhere (TAME): an experimentally-grounded framework for understanding diverse bodies and minds",
+      "year": 2022,
+      "field": "mth",
+      "sub": "theory-methods",
+      "also": [
+        "biohybrid"
+      ],
+      "organisms": [
+        "cells",
+        "animals"
+      ],
+      "kind": "paper",
+      "description": "A theoretical framework that treats cognition as a continuum across cells, tissues, organisms, swarms and hybrids such as Xenobots and cyborgs, judged by what goals a system can pursue.",
+      "description_zh": "一个理论框架，把认知看成从细胞、组织、生物体、群体到 Xenobots 和赛博格等混合体的连续谱，以一个系统能追求什么样的目标来衡量它。",
+      "idea_en": "Ask not whether something has a mind, but how large a goal it can pursue and how we can talk to it.",
+      "idea_zh": "不问某物有没有心智，而问它能追求多大的目标、我们能怎样和它“对话”。",
+      "method": "Draws on regeneration, bioelectricity and biohybrid experiments to define a scale of 'cognitive light cones' and experimental tests for agency in any substrate.",
+      "method_zh": "借助再生、生物电和生物混合体实验，定义“认知光锥”的尺度，以及在任何载体中检验能动性的实验方法。",
+      "keywords": [
+        "TAME",
+        "diverse intelligence",
+        "cognitive light cone",
+        "basal cognition"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7FGM33sz25k"
+      },
+      "images": [
+        "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/768201/fnsys-16-768201-HTML-r1/image_m/fnsys-16-768201-g001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/fnsys.2022.768201",
+        "doi": "10.3389/fnsys.2022.768201",
+        "arxiv": "",
+        "venue": "Frontiers in Systems Neuroscience"
+      },
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full"
+    },
+    {
+      "id": "ioannis-ieropoulos--ecobot-iii",
+      "creator_ids": [
+        "ioannis-ieropoulos"
+      ],
+      "title": "EcoBot-III: a robot with guts",
+      "year": 2010,
+      "field": "biohybrid",
+      "sub": "biohybrid-robots",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "prototype",
+      "description": "A robot powered by 48 microbial fuel cells that collected its own food and water from an arena, digested it with bacteria, excreted the waste and kept itself running for seven days.",
+      "description_zh": "一台由 48 个微生物燃料电池供能的机器人，它从场地中自己收集食物和水，用细菌消化，再排出废物，靠自己连续运行了七天。",
+      "idea_en": "A robot that eats, digests and excretes, powered by the metabolism of its microbes.",
+      "idea_zh": "一台会吃、会消化、会排泄的机器人，由体内微生物的新陈代谢供能。",
+      "method": "Anaerobic bacteria in a stack of microbial fuel cells oxidise organic feedstock and release electrons to the anodes; a pump circulates food, water and waste like a digestive tract.",
+      "method_zh": "微生物燃料电池堆中的厌氧细菌氧化有机原料，把电子释放到阳极上；泵像消化道一样循环输送食物、水和废物。",
+      "keywords": [
+        "EcoBot",
+        "microbial fuel cell",
+        "energy autonomy",
+        "Bristol Robotics Laboratory",
+        "John Greenman",
+        "Chris Melhuish"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=qU6zi1_aZiw"
+      },
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/en/7/71/Image_eco_bot_-III.jpg"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/EcoBot"
     },
     {
       "id": "leonard-adleman--dna-computing",
@@ -4476,13 +4671,6 @@
   ],
   "leads": [
     {
-      "name": "Ioannis Ieropoulos (Bristol Robotics Laboratory)",
-      "why": "EcoBot robots powered by microbial fuel cells that digest flies and waste; Pee Power urine-fuelled electricity.",
-      "link": "https://www.brl.ac.uk/",
-      "found_via": "andrew-adamatzky",
-      "status": "open"
-    },
-    {
       "name": "Heather Barnett",
       "why": "The Physarum Experiments: art and pedagogy with slime mould, crowd-behaviour workshops; likely bio-art scope.",
       "link": "https://heatherbarnett.co.uk/",
@@ -4598,6 +4786,20 @@
       "name": "Tosca Terán",
       "why": "Artist making sound performances from mycelium bioelectrical signals.",
       "link": "https://toscateran.com/",
+      "found_via": "andrew-adamatzky",
+      "status": "open"
+    },
+    {
+      "name": "Christopher Voigt — Living circuit boards built by printing bacterial transistors (Nature Chemical Biology, Aug 2026)",
+      "why": "Doosthosseini, Chen & Voigt, DOI 10.1038/s41589-026-02300-3 (verified); abstract not accessible, so no work entry yet. Creator christopher-voigt is in biohybrid-hci.",
+      "link": "https://doi.org/10.1038/s41589-026-02300-3",
+      "found_via": "christopher-voigt",
+      "status": "open"
+    },
+    {
+      "name": "Netta Ofer & Mirela Alistar — Tracing as a Strategy for Orienting to Nonhuman Perspectives (DIS 2024)",
+      "why": "Slime-mould design practice in HCI; DOI 10.1145/3643834.3661621 (verified). Fits mth theory-methods or biohybrid fungal-computing.",
+      "link": "https://doi.org/10.1145/3643834.3661621",
       "found_via": "andrew-adamatzky",
       "status": "open"
     }

@@ -27,6 +27,7 @@ ORGANISMS = {o[0] for o in TAX["organisms"]}
 KINDS = {k[0] for k in TAX["kinds"]}
 COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
     c["id"] for f in (ROOT / "data" / "collections" / "defs").glob("*.json") for c in json.loads(f.read_text())}
+LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
 CJK = re.compile(r"[㐀-鿿]")
 
 WORK_EN = ("title", "description", "idea_en", "method")
@@ -99,6 +100,8 @@ def validate(path: Path) -> list[str]:
         _lang(errs, who, w, WORK_EN, WORK_ZH)
         if not isinstance(w.get("year"), int):
             errs.append(f"{who}: year must be an integer")
+        if (w.get("field"), w.get("sub")) in LEGACY:  # moved categories: accepted, remapped at build
+            w = {**w, **dict(zip(("field", "sub"), LEGACY[(w["field"], w["sub"])]))}
         if w.get("field") not in FIELDS:
             errs.append(f"{who}: field must be one of {sorted(FIELDS)}")
         elif w.get("sub") not in FIELDS[w["field"]]:

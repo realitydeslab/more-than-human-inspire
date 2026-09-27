@@ -416,14 +416,6 @@
   "batch": "biohybrid-hci"
  },
  {
-  "name": "Ioannis Ieropoulos (Bristol Robotics Laboratory)",
-  "why": "EcoBot robots powered by microbial fuel cells that digest flies and waste; Pee Power urine-fuelled electricity.",
-  "link": "https://www.brl.ac.uk/",
-  "found_via": "andrew-adamatzky",
-  "status": "open",
-  "batch": "biohybrid-unconv"
- },
- {
   "name": "Heather Barnett",
   "why": "The Physarum Experiments: art and pedagogy with slime mould, crowd-behaviour workshops; likely bio-art scope.",
   "link": "https://heatherbarnett.co.uk/",
@@ -550,6 +542,54 @@
   "found_via": "andrew-adamatzky",
   "status": "open",
   "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Christopher Voigt — Living circuit boards built by printing bacterial transistors (Nature Chemical Biology, Aug 2026)",
+  "why": "Doosthosseini, Chen & Voigt, DOI 10.1038/s41589-026-02300-3 (verified); abstract not accessible, so no work entry yet. Creator christopher-voigt is in biohybrid-hci.",
+  "link": "https://doi.org/10.1038/s41589-026-02300-3",
+  "found_via": "christopher-voigt",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Netta Ofer & Mirela Alistar — Tracing as a Strategy for Orienting to Nonhuman Perspectives (DIS 2024)",
+  "why": "Slime-mould design practice in HCI; DOI 10.1145/3643834.3661621 (verified). Fits mth theory-methods or biohybrid fungal-computing.",
+  "link": "https://doi.org/10.1145/3643834.3661621",
+  "found_via": "andrew-adamatzky",
+  "status": "open",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Phylum",
+  "why": "Art-research collective (DiBlasi, Castellanos, Bello) making machine-microbial artworks.",
+  "link": "https://dl.acm.org/doi/10.1145/3597626",
+  "found_via": "johnny-diblasi",
+  "status": "open",
+  "batch": "breed-2026"
+ },
+ {
+  "name": "Bristol BioEnergy Centre",
+  "why": "Microbial fuel cell research behind EcoBot, Pee Power and ALICE.",
+  "link": "https://alice-interface.eu/",
+  "found_via": "ioannis-ieropoulos",
+  "status": "open",
+  "batch": "breed-2026"
+ },
+ {
+  "name": "Counter Culture Labs",
+  "why": "Oakland community biolab hosting BioArtBot and other open bio projects.",
+  "link": "https://biosummit.live/2020/bio-creation-station/darktemplate-3el6p",
+  "found_via": "tim-dobbs",
+  "status": "open",
+  "batch": "breed-2026"
+ },
+ {
+  "name": "Bio-Digital Systems Explorer",
+  "why": "Open, community-extendable database of coded bio-digital systems from Breed et al. 2026; new submissions may add works.",
+  "link": "https://biodigitalviz.github.io/",
+  "found_via": "zoe-breed",
+  "status": "open",
+  "batch": "breed-2026"
  },
  {
   "name": "Pierre Huyghe — Exomind (Deep Water)",

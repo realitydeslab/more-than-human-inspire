@@ -1,0 +1,3137 @@
+{
+ "batch": "breed-2026",
+ "creators": [
+  {
+   "id": "zoe-breed",
+   "name": "Zoë Breed",
+   "kind": "person",
+   "role": "Researcher, Knowledge and Intelligence Design, Delft University of Technology",
+   "based": "Delft, NL",
+   "bio": "Zoë Breed designs and engineers bio-digital systems, from the bioluminescent-algae display Algae Alight to a computational taxonomy of how organisms and electronics share computing work.",
+   "why": "Her work gives designers and electronics engineers a shared vocabulary for deciding which part of a bio-digital system the organism computes.",
+   "links": {},
+   "role_zh": "代尔夫特理工大学 Knowledge and Intelligence Design 研究者",
+   "bio_zh": "Zoë Breed 设计并搭建生物-数字系统，从以发光藻为像素的显示装置 Algae Alight，到一套描述生物与电子如何分担计算的分类法。",
+   "why_zh": "她的工作让设计师和电子工程师在“哪一部分由生物来计算”这个问题上有了共同语言。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "elvin-karana",
+    "alessandro-bozzon",
+    "katherine-w-song",
+    "bahareh-barati"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alessandro-bozzon",
+   "name": "Alessandro Bozzon",
+   "kind": "person",
+   "role": "Professor of Human-Centered Artificial Intelligence, Delft University of Technology",
+   "based": "Delft, NL",
+   "bio": "Alessandro Bozzon works on human-centred AI and knowledge and intelligence design at TU Delft's Faculty of Industrial Design Engineering.",
+   "why": "He brings a computer-science view of computation and data into biodesign research on bio-digital systems.",
+   "links": {},
+   "role_zh": "代尔夫特理工大学以人为本人工智能教授",
+   "bio_zh": "Alessandro Bozzon 在代尔夫特理工大学工业设计工程学院研究以人为本的人工智能与知识和智能设计。",
+   "why_zh": "他把计算机科学对计算和数据的理解带进了生物-数字系统的设计研究。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "zoe-breed",
+    "katherine-w-song"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "katherine-w-song",
+   "name": "Katherine W. Song",
+   "kind": "person",
+   "role": "Assistant Professor, Knowledge and Intelligence Design, Delft University of Technology",
+   "based": "Delft, NL",
+   "bio": "Katherine W. Song builds sustainable and biodegradable interactive devices and electronics, with a background in electrical engineering and HCI.",
+   "why": "She connects hardware engineering with ecological and living-material design in HCI.",
+   "links": {},
+   "role_zh": "代尔夫特理工大学 Knowledge and Intelligence Design 助理教授",
+   "bio_zh": "Katherine W. Song 有电子工程与人机交互背景，研究可持续、可降解的交互设备和电子器件。",
+   "why_zh": "她把硬件工程与生态设计、活体材料设计连接起来。",
+   "based_zh": "代尔夫特，荷兰",
+   "connected_to": [
+    "zoe-breed",
+    "alessandro-bozzon"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "bahareh-barati",
+   "name": "Bahareh Barati",
+   "kind": "person",
+   "role": "Assistant Professor, Industrial Design, Eindhoven University of Technology",
+   "based": "Eindhoven, NL",
+   "bio": "Bahareh Barati researches living and computational materials in design, including bioluminescent living light interfaces, algae-based slow computers and digital twins for mycelium growing.",
+   "why": "She is a central figure in designing interactive artefacts with living microorganisms in HCI.",
+   "links": {},
+   "role_zh": "埃因霍温理工大学工业设计系助理教授",
+   "bio_zh": "Bahareh Barati 研究设计中的活体材料与计算材料，作品包括发光藻活体光界面、用藻类计算的“慢”计算机，以及用于菌丝培养的数字孪生。",
+   "why_zh": "她是 HCI 中与活体微生物一起设计交互物件的核心研究者之一。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [
+    "elvin-karana",
+    "zoe-breed",
+    "yuta-ikeya",
+    "dan-vy-vu"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "yuta-ikeya",
+   "name": "Yuta Ikeya",
+   "kind": "person",
+   "role": "Designer and researcher, Industrial Design, Eindhoven University of Technology",
+   "based": "Eindhoven, NL",
+   "bio": "Yuta Ikeya designs speculative computing artefacts with living organisms, such as the Algal Relay Computer that calculates through algae growth.",
+   "why": "His work uses slow biological computation to question clock time in interaction design.",
+   "links": {},
+   "role_zh": "埃因霍温理工大学工业设计系设计师与研究者",
+   "bio_zh": "Yuta Ikeya 用活体生物设计思辨性的计算装置，例如通过藻类生长来做运算的 Algal Relay Computer。",
+   "why_zh": "他用缓慢的生物计算来追问交互设计中的时钟时间。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [
+    "bahareh-barati"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "dan-vy-vu",
+   "name": "Đan Vy Vu",
+   "kind": "person",
+   "role": "Researcher, Industrial Design, Eindhoven University of Technology",
+   "based": "Eindhoven, NL",
+   "bio": "Đan Vy Vu studies how digital twins can help designers handle the uncertainty of growing materials with mycelium.",
+   "why": "Her work links bio-industry data tools to hands-on biodesign practice.",
+   "links": {},
+   "role_zh": "埃因霍温理工大学工业设计系研究者",
+   "bio_zh": "Đan Vy Vu 研究数字孪生如何帮助设计师应对用菌丝体培养材料时的不确定性。",
+   "why_zh": "她把生物产业中的数据工具带进了动手的生物设计实践。",
+   "based_zh": "埃因霍温，荷兰",
+   "connected_to": [
+    "bahareh-barati"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "julie-freeman",
+   "name": "Julie Freeman",
+   "kind": "person",
+   "role": "Artist and computer scientist; director of the data-art studio Translating Nature",
+   "based": "London, UK",
+   "bio": "Julie Freeman makes artworks from data produced by living systems, from fish movements to microbial electricity.",
+   "why": "She turns biological data into animation and sound so that nonhuman activity becomes perceptible.",
+   "links": {},
+   "role_zh": "艺术家与计算机科学家；数据艺术工作室 Translating Nature 负责人",
+   "bio_zh": "Julie Freeman 用生命系统产生的数据创作艺术，从鱼的游动到微生物发出的电。",
+   "why_zh": "她把生物数据转化为动画和声音，让非人类的活动能被感知。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "rachel-armstrong",
+    "ioannis-ieropoulos"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "michel-maharbiz",
+   "name": "Michel Maharbiz",
+   "kind": "person",
+   "role": "Professor of Electrical Engineering and Computer Sciences, UC Berkeley",
+   "based": "Berkeley, US",
+   "bio": "Michel Maharbiz builds interfaces between microelectronics and living cells, from bacterial self-assembly on chips to neural dust implants.",
+   "why": "His lab treats cells and organisms as components that electronics can pattern, steer and read.",
+   "links": {},
+   "role_zh": "加州大学伯克利分校电子工程与计算机科学教授",
+   "bio_zh": "Michel Maharbiz 研究微电子与活细胞之间的接口，从芯片上的细菌自组装到“神经尘埃”植入器件。",
+   "why_zh": "他的实验室把细胞和生物当作可以被电子器件排布、引导和读取的元件。",
+   "based_zh": "伯克利，美国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "sylvain-martel",
+   "name": "Sylvain Martel",
+   "kind": "person",
+   "role": "Professor, Polytechnique Montréal; director of the NanoRobotics Laboratory",
+   "based": "Montreal, CA",
+   "bio": "Sylvain Martel pioneered steering magnetotactic bacteria with magnetic fields to move microrobots and deliver drugs.",
+   "why": "He showed that swimming bacteria can serve as controllable motors for microscale robots.",
+   "links": {},
+   "role_zh": "蒙特利尔理工学院教授，NanoRobotics Laboratory 负责人",
+   "bio_zh": "Sylvain Martel 率先用磁场引导趋磁细菌，让它们推动微型机器人并输送药物。",
+   "why_zh": "他证明了会游动的细菌可以成为微型机器人的可控马达。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "jeffrey-tabor",
+   "name": "Jeffrey J. Tabor",
+   "kind": "person",
+   "role": "Professor of Bioengineering and Biosciences, Rice University",
+   "based": "Houston, US",
+   "bio": "Jeffrey Tabor engineers light-controlled genetic circuits in bacteria; his early work turned E. coli lawns into biological film and an edge-detecting computer.",
+   "why": "He made light a programmable input channel into living cells.",
+   "links": {},
+   "role_zh": "莱斯大学生物工程与生物科学教授",
+   "bio_zh": "Jeffrey Tabor 在细菌中设计受光控制的基因线路；他早期把大肠杆菌菌苔变成“生物胶片”和能识别图像边缘的计算机。",
+   "why_zh": "他让光成为进入活细胞的可编程输入通道。",
+   "based_zh": "休斯敦，美国",
+   "connected_to": [
+    "christopher-voigt"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "allison-kudla",
+   "name": "Allison Kudla",
+   "kind": "person",
+   "role": "Artist working with living systems, biology and technology",
+   "based": "Seattle, US",
+   "bio": "Allison Kudla makes installations in which machines read, print and tend living organisms such as cyanobacteria and plant cells.",
+   "why": "Her work treats living growth as data that a machine reads and changes.",
+   "links": {},
+   "role_zh": "以生命系统、生物与技术为媒介的艺术家",
+   "bio_zh": "Allison Kudla 创作让机器读取、打印和照料活体生物（如蓝细菌和植物细胞）的装置。",
+   "why_zh": "她的作品把生物的生长当作机器读取并改变的数据。",
+   "based_zh": "西雅图，美国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "swamp",
+   "name": "SWAMP",
+   "kind": "studio",
+   "role": "Art collective of Douglas Easterly and Matt Kenyon (Studies of Work Atmosphere and Mass Production)",
+   "based": "US / NZ",
+   "bio": "SWAMP (Douglas Easterly and Matt Kenyon) makes critical media art about technology, labour and living systems.",
+   "why": "Tardigotchi joined a living tardigrade and a digital pet into one object.",
+   "links": {},
+   "role_zh": "由 Douglas Easterly 与 Matt Kenyon 组成的艺术团体（Studies of Work Atmosphere and Mass Production）",
+   "bio_zh": "SWAMP（Douglas Easterly 与 Matt Kenyon）创作关于技术、劳动和生命系统的批判性媒体艺术。",
+   "why_zh": "Tardigotchi 把一只活的缓步动物和一个电子宠物合为一体。",
+   "based_zh": "美国 / 新西兰",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "ivan-henriques",
+   "name": "Ivan Henriques",
+   "kind": "person",
+   "role": "Artist and researcher making bio-machines; based in the Netherlands",
+   "based": "Amsterdam, NL",
+   "bio": "Ivan Henriques builds hybrid machines powered or controlled by living organisms: algae-eating floating robots, microbial-fuel-cell rafts and bacteria-driven tensegrity structures.",
+   "why": "His 'environmental robotics' imagines machines that live off and clean the ecosystems they inhabit.",
+   "links": {},
+   "role_zh": "制作生物机器的艺术家与研究者，常驻荷兰",
+   "bio_zh": "Ivan Henriques 制作由活体生物供能或控制的混合机器：吃藻类的漂浮机器人、微生物燃料电池筏，以及由细菌驱动的张拉整体结构。",
+   "why_zh": "他的“环境机器人”设想的是依靠所处生态系统生存、同时清洁它的机器。",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "interspecifics",
+   "name": "Interspecifics",
+   "kind": "studio",
+   "role": "Independent artistic research collective (Leslie García, Paloma López and others)",
+   "based": "Mexico City, MX",
+   "bio": "Interspecifics is a Mexico City collective that turns bioelectric and behavioural signals of microorganisms, plants and slime moulds into sound, light and machine-learning systems.",
+   "why": "They build open tools for listening to nonhuman patterns and publish them for others to reuse.",
+   "links": {},
+   "role_zh": "独立艺术研究团体（成员包括 Leslie García、Paloma López 等）",
+   "bio_zh": "Interspecifics 是墨西哥城的艺术团体，把微生物、植物和黏菌的生物电与行为信号转化为声音、光和机器学习系统。",
+   "why_zh": "他们制作用于“倾听”非人类模式的开源工具，并公开给他人使用。",
+   "based_zh": "墨西哥城，墨西哥",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "gunes-helene-isitan",
+   "name": "Güneş-Hélène Isitan",
+   "kind": "person",
+   "role": "Bioartist and researcher",
+   "based": "Montreal, CA",
+   "bio": "Güneş-Hélène Isitan makes interactive bioart installations in which people meet microorganisms such as paramecia through touch and electricity.",
+   "why": "Her work designs direct, bodily contact zones between humans and microbes.",
+   "links": {},
+   "role_zh": "生物艺术家与研究者",
+   "bio_zh": "Güneş-Hélène Isitan 创作互动生物艺术装置，让人通过触摸和电与草履虫等微生物相遇。",
+   "why_zh": "她设计的是人与微生物之间直接的、身体性的接触区。",
+   "based_zh": "蒙特利尔，加拿大",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "carlos-castellanos",
+   "name": "Carlos Castellanos",
+   "kind": "person",
+   "role": "Artist and researcher; faculty, School of Interactive Games and Media, Rochester Institute of Technology; co-founder of Phylum",
+   "based": "Rochester, US",
+   "bio": "Carlos Castellanos makes hybrid biological-electronic artworks, from microbial fuel cell synthesizers to AI agents that shape bacterial growth.",
+   "why": "He uses sound and machine learning to explore agency shared between microbes and machines.",
+   "links": {},
+   "role_zh": "艺术家与研究者；罗切斯特理工学院互动游戏与媒体学院教师；Phylum 联合创始人",
+   "bio_zh": "Carlos Castellanos 创作生物-电子混合艺术，从微生物燃料电池合成器到塑造细菌生长的人工智能体。",
+   "why_zh": "他用声音和机器学习探索微生物与机器之间共享的能动性。",
+   "based_zh": "罗切斯特，美国",
+   "connected_to": [
+    "johnny-diblasi"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "johnny-diblasi",
+   "name": "Johnny DiBlasi",
+   "kind": "person",
+   "role": "Artist; Assistant Professor, Department of Art, University at Buffalo; co-founder of Phylum",
+   "based": "Buffalo, US",
+   "bio": "Johnny DiBlasi makes computational and bio-digital artworks, including Beauty, in which an AI agent tends cultures of social bacteria.",
+   "why": "His work asks what aesthetic judgement means when a machine shapes a living culture.",
+   "links": {},
+   "role_zh": "艺术家；布法罗大学艺术系助理教授；Phylum 联合创始人",
+   "bio_zh": "Johnny DiBlasi 创作计算艺术与生物-数字艺术，包括由人工智能体照料社会性细菌菌落的作品 Beauty。",
+   "why_zh": "他的作品追问：当机器塑造一个活的菌落时，审美判断意味着什么。",
+   "based_zh": "布法罗，美国",
+   "connected_to": [
+    "carlos-castellanos"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "gilberto-esparza",
+   "name": "Gilberto Esparza",
+   "kind": "person",
+   "role": "Artist working with robotics, biotechnology and ecology",
+   "based": "Mexico City, MX",
+   "bio": "Gilberto Esparza builds autonomous bio-machines and instruments powered by bacteria in polluted water, such as Plantas Autofotosintéticas and BioSoNot.",
+   "why": "He turns water pollution into energy, sound and images, making microbial cleaning work visible.",
+   "links": {},
+   "role_zh": "以机器人、生物技术和生态为媒介的艺术家",
+   "bio_zh": "Gilberto Esparza 制作由污染水体中的细菌供能的自主生物机器和乐器，例如 Plantas Autofotosintéticas 和 BioSoNot。",
+   "why_zh": "他把水污染转化为能量、声音和图像，让微生物净化水的工作变得可见。",
+   "based_zh": "墨西哥城，墨西哥",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "marin-sawa",
+   "name": "Marin Sawa",
+   "kind": "person",
+   "role": "Research fellow, Imperial College London; designer and bioengineer of printed biophotovoltaics",
+   "based": "London, UK",
+   "bio": "Marin Sawa, trained in textile design and bioengineering, inkjet-prints living cyanobacteria to make paper-based solar bio-batteries.",
+   "why": "She brings print and textile processes into living electronics.",
+   "links": {},
+   "role_zh": "伦敦帝国理工学院研究员；印刷生物光伏的设计者与生物工程师",
+   "bio_zh": "Marin Sawa 受过纺织设计与生物工程训练，用喷墨打印活的蓝细菌，制作纸基的太阳能生物电池。",
+   "why_zh": "她把印刷与纺织工艺带进了活体电子。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "paolo-bombelli"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "iaac",
+   "name": "IAAC",
+   "kind": "lab",
+   "role": "Institute for Advanced Architecture of Catalonia",
+   "based": "Barcelona, ES",
+   "bio": "IAAC is an architecture school and research centre in Barcelona whose master's programmes explore digital fabrication, data and biomaterials.",
+   "why": "Its student projects test living organisms as responsive building materials.",
+   "links": {},
+   "role_zh": "加泰罗尼亚高级建筑研究院",
+   "bio_zh": "IAAC 是巴塞罗那的建筑学院与研究中心，其硕士项目探索数字制造、数据与生物材料。",
+   "why_zh": "其学生项目尝试把活体生物用作会响应的建筑材料。",
+   "based_zh": "巴塞罗那，西班牙",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "maurizio-rossi",
+   "name": "Maurizio Rossi",
+   "kind": "person",
+   "role": "Researcher in embedded systems and energy harvesting, University of Trento",
+   "based": "Trento, IT",
+   "bio": "Maurizio Rossi designs ultra-low-power sensors that run on energy harvested from the environment, including plant-microbial fuel cells.",
+   "why": "He showed that bacteria living around plant roots can power wireless sensing devices.",
+   "links": {},
+   "role_zh": "特伦托大学嵌入式系统与能量采集研究者",
+   "bio_zh": "Maurizio Rossi 设计依靠环境能量运行的超低功耗传感器，其中包括植物-微生物燃料电池供电的设备。",
+   "why_zh": "他证明了植物根系周围的细菌可以为无线传感设备供电。",
+   "based_zh": "特伦托，意大利",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "laura-grebenstein",
+   "name": "Laura Grebenstein",
+   "kind": "person",
+   "role": "Researcher, Friedrich-Alexander-Universität Erlangen-Nürnberg (molecular communication)",
+   "based": "Erlangen, DE",
+   "bio": "Laura Grebenstein builds microscale molecular-communication testbeds that use engineered bacteria to convert light into chemical signals.",
+   "why": "Her work uses living cells as signal converters between electronics and chemistry.",
+   "links": {},
+   "role_zh": "埃尔朗根-纽伦堡大学研究者（分子通信）",
+   "bio_zh": "Laura Grebenstein 搭建微尺度的分子通信实验平台，用工程改造的细菌把光信号转换为化学信号。",
+   "why_zh": "她把活细胞当作电子与化学之间的信号转换器。",
+   "based_zh": "埃尔朗根，德国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "tim-dobbs",
+   "name": "Tim Dobbs",
+   "kind": "person",
+   "role": "Community biologist; founder of BioArtBot at Counter Culture Labs",
+   "based": "Oakland, US",
+   "bio": "Tim Dobbs runs BioArtBot, an open-source project at Counter Culture Labs that lets anyone online design pixel art printed with coloured E. coli by a lab robot.",
+   "why": "BioArtBot opened wet-lab bio-art to people without lab access.",
+   "links": {},
+   "role_zh": "社区生物学家；Counter Culture Labs 的 BioArtBot 发起人",
+   "bio_zh": "Tim Dobbs 在 Counter Culture Labs 运营开源项目 BioArtBot：任何人都能在网上设计像素画，由实验室机器人用彩色大肠杆菌打印出来。",
+   "why_zh": "BioArtBot 让没有实验室条件的人也能做湿实验生物艺术。",
+   "based_zh": "奥克兰，美国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "seung-ah-lee",
+   "name": "Seung Ah Lee",
+   "kind": "person",
+   "role": "Associate Professor of Electrical and Electronic Engineering, Yonsei University",
+   "based": "Seoul, KR",
+   "bio": "Seung Ah Lee builds optical and microscopy systems, including interactive light-projection microscopes that let people play with phototactic microorganisms.",
+   "why": "Her systems make microscopic life touchable and playable for the public.",
+   "links": {},
+   "role_zh": "延世大学电气与电子工程系副教授",
+   "bio_zh": "Seung Ah Lee 研发光学与显微系统，包括让人与趋光微生物互动的光投影显微镜。",
+   "why_zh": "她的系统让公众可以触碰、游玩显微镜下的生命。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [
+    "ingmar-riedel-kruse",
+    "kyungwon-lee"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "kyungwon-lee",
+   "name": "Kyungwon Lee",
+   "kind": "person",
+   "role": "Researcher and media artist, Yonsei University",
+   "based": "Seoul, KR",
+   "bio": "Kyungwon Lee creates interactive installations with living Euglena cells, such as MicroAquarium and EuglPollock.",
+   "why": "Her work frames microorganisms as collaborators in play and art making.",
+   "links": {},
+   "role_zh": "延世大学研究者与媒体艺术家",
+   "bio_zh": "Kyungwon Lee 用活的眼虫细胞创作互动装置，如 MicroAquarium 和 EuglPollock。",
+   "why_zh": "她的作品把微生物当作游戏和艺术创作中的合作者。",
+   "based_zh": "首尔，韩国",
+   "connected_to": [
+    "seung-ah-lee"
+   ],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "nova-innova",
+   "name": "Nova Innova",
+   "kind": "studio",
+   "role": "Dutch design and innovation studio for nature-based technology",
+   "based": "Rotterdam, NL",
+   "bio": "Nova Innova designs public installations and products that run on nature-based energy, such as microbial fuel cells in city water.",
+   "why": "POND gives urban water a visible 'voice' powered by its own microbes.",
+   "links": {},
+   "role_zh": "荷兰的自然技术设计与创新工作室",
+   "bio_zh": "Nova Innova 设计依靠自然能源运行的公共装置与产品，例如放在城市水体中的微生物燃料电池。",
+   "why_zh": "POND 让城市水体借助自身微生物的能量“发声”。",
+   "based_zh": "鹿特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "dominique-chen",
+   "name": "Dominique Chen",
+   "kind": "person",
+   "role": "Professor, Faculty of Letters, Arts and Sciences, Waseda University",
+   "based": "Tokyo, JP",
+   "bio": "Dominique Chen researches information technology and wellbeing; with the Ferment Media Research group he built Nukabot, a talking bucket of fermenting rice bran.",
+   "why": "Nukabot turned care for a microbial community into an everyday conversational interface.",
+   "links": {},
+   "role_zh": "早稻田大学文学学术院教授",
+   "bio_zh": "Dominique Chen 研究信息技术与幸福感；他与 Ferment Media Research 团队制作了会说话的米糠发酵桶 Nukabot。",
+   "why_zh": "Nukabot 把照料微生物群落变成了日常的对话式界面。",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "jun-yao",
+   "name": "Jun Yao",
+   "kind": "person",
+   "role": "Associate Professor of Electrical and Computer Engineering, University of Massachusetts Amherst",
+   "based": "Amherst, US",
+   "bio": "Jun Yao develops bio-derived electronics, including protein-nanowire and biofilm devices that generate electricity from humidity and evaporation.",
+   "why": "His work treats microbial material as a functional electronic component.",
+   "links": {},
+   "role_zh": "马萨诸塞大学阿默斯特分校电子与计算机工程副教授",
+   "bio_zh": "Jun Yao 研发生物来源的电子器件，包括能从湿度和蒸发中发电的蛋白纳米线与生物膜器件。",
+   "why_zh": "他把微生物材料当作能工作的电子元件。",
+   "based_zh": "阿默斯特，美国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "igem-paris-bettencourt",
+   "name": "iGEM Paris Bettencourt",
+   "kind": "lab",
+   "role": "Student synthetic-biology team at the Learning Planet Institute, Paris",
+   "based": "Paris, FR",
+   "bio": "iGEM Paris Bettencourt is a student team competing in the international iGEM synthetic-biology competition.",
+   "why": "Its 2022 project built a two-way electrical interface between engineered bacteria and computers.",
+   "links": {},
+   "role_zh": "巴黎 Learning Planet Institute 的合成生物学学生队伍",
+   "bio_zh": "iGEM Paris Bettencourt 是参加国际基因工程机器大赛（iGEM）的学生队伍。",
+   "why_zh": "其 2022 年项目搭建了工程细菌与计算机之间的双向电接口。",
+   "based_zh": "巴黎，法国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "where-dogs-run",
+   "name": "Where Dogs Run",
+   "kind": "studio",
+   "role": "Art group from Yekaterinburg (Natalia Grekhova, Olga Inozemtseva, Alexey Korzukhin and others)",
+   "based": "Yekaterinburg, RU",
+   "bio": "Where Dogs Run is an art group that builds robotic and biological installations about memory, information and living systems.",
+   "why": "Archaean Memory Farm explores bacteria as a medium for storing information.",
+   "links": {},
+   "role_zh": "来自叶卡捷琳堡的艺术团体（成员包括 Natalia Grekhova、Olga Inozemtseva、Alexey Korzukhin 等）",
+   "bio_zh": "Where Dogs Run 是一个艺术团体，制作关于记忆、信息和生命系统的机器人与生物装置。",
+   "why_zh": "Archaean Memory Farm 探索把细菌当作存储信息的媒介。",
+   "based_zh": "叶卡捷琳堡，俄罗斯",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "martin-pumera",
+   "name": "Martin Pumera",
+   "kind": "person",
+   "role": "Director, Center for Advanced Functional Nanorobots, University of Chemistry and Technology Prague",
+   "based": "Prague, CZ",
+   "bio": "Martin Pumera's group builds micro- and nanorobots, including biobots made from magnetotactic bacteria for water cleaning.",
+   "why": "His lab steers living bacteria as swarming robots for environmental tasks.",
+   "links": {},
+   "role_zh": "布拉格化工大学先进功能纳米机器人中心主任",
+   "bio_zh": "Martin Pumera 的团队研制微型与纳米机器人，包括用趋磁细菌做成、用于净化水体的生物机器人。",
+   "why_zh": "他的实验室把活细菌当作成群行动的机器人来完成环境任务。",
+   "based_zh": "布拉格，捷克",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "sema-dumanli",
+   "name": "Sema Dumanli",
+   "kind": "person",
+   "role": "Associate Professor of Electrical and Electronics Engineering, Boğaziçi University",
+   "based": "Istanbul, TR",
+   "bio": "Sema Dumanli designs implantable and wearable antennas, including bio-hybrid implants in which engineered bacteria change an antenna's signal.",
+   "why": "Her work uses living cells as the sensing element of wireless medical devices.",
+   "links": {},
+   "role_zh": "海峡大学电气与电子工程系副教授",
+   "bio_zh": "Sema Dumanli 设计植入式和可穿戴天线，包括由工程细菌改变天线信号的生物混合植入物。",
+   "why_zh": "她把活细胞用作无线医疗设备的传感元件。",
+   "based_zh": "伊斯坦布尔，土耳其",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "valentin-postl",
+   "name": "Valentin Postl",
+   "kind": "person",
+   "role": "Researcher, University of Applied Sciences Upper Austria (Media Interaction Lab)",
+   "based": "Hagenberg, AT",
+   "bio": "Valentin Postl builds fabrication tools for living media, including a 3D printer modified to print mould spores into drawings.",
+   "why": "Mold Printer lets a machine plan a drawing that a fungus then completes over days.",
+   "links": {},
+   "role_zh": "上奥地利应用科学大学研究者（Media Interaction Lab）",
+   "bio_zh": "Valentin Postl 为活体媒介制作制造工具，包括一台改装后用霉菌孢子“打印”图画的 3D 打印机。",
+   "why_zh": "Mold Printer 让机器规划图画，再由真菌在几天里把它长出来。",
+   "based_zh": "哈根贝格，奥地利",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "philip-wijesinghe",
+   "name": "Philip Wijesinghe",
+   "kind": "person",
+   "role": "Researcher in optics and photonics, University of St Andrews",
+   "based": "St Andrews, UK",
+   "bio": "Philip Wijesinghe works on optical imaging and light manipulation and writes commentary on biophotonics research.",
+   "why": "His commentary highlighted light-steered Euglena biohybrid microrobots.",
+   "links": {},
+   "role_zh": "圣安德鲁斯大学光学与光子学研究者",
+   "bio_zh": "Philip Wijesinghe 研究光学成像与光操控，并撰写生物光子学研究的评述。",
+   "why_zh": "他的评述介绍了用光操控的眼虫生物混合微型机器人。",
+   "based_zh": "圣安德鲁斯，英国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "mengyao-guo",
+   "name": "Mengyao Guo",
+   "kind": "person",
+   "role": "Researcher, Future Design School, Harbin Institute of Technology (Shenzhen)",
+   "based": "Shenzhen, CN",
+   "bio": "Mengyao Guo designs bio-HCI games and visualisations driven by living organisms such as slime moulds.",
+   "why": "SLIMO CITY maps slime mould growth onto a city game players can read.",
+   "links": {},
+   "role_zh": "哈尔滨工业大学（深圳）未来设计学院研究者",
+   "bio_zh": "Mengyao Guo 设计由黏菌等活体生物驱动的生物-HCI 游戏与可视化。",
+   "why_zh": "SLIMO CITY 把黏菌的生长映射成玩家能读懂的城市游戏。",
+   "based_zh": "深圳，中国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  },
+  {
+   "id": "alexandra-teixeira-riggs",
+   "name": "Alexandra Teixeira Riggs",
+   "kind": "person",
+   "role": "PhD researcher, Digital Media, Georgia Institute of Technology",
+   "based": "Atlanta, US",
+   "bio": "Alexandra Teixeira Riggs makes more-than-human and queer design work with biomaterials, sound and tangible media.",
+   "why": "Mold Sounds reframes toxic mould as a sonic, multispecies collaborator.",
+   "links": {},
+   "role_zh": "佐治亚理工学院数字媒体博士研究者",
+   "bio_zh": "Alexandra Teixeira Riggs 以生物材料、声音和可触媒介开展超越人类设计与酷儿设计研究。",
+   "why_zh": "Mold Sounds 把被视为有毒的霉菌重新看作发声的多物种合作者。",
+   "based_zh": "亚特兰大，美国",
+   "connected_to": [],
+   "discovered_via": "zoe-breed"
+  }
+ ],
+ "works": [
+  {
+   "id": "zoe-breed--entangled-life-and-code",
+   "creator_ids": [
+    "zoe-breed",
+    "elvin-karana",
+    "alessandro-bozzon",
+    "katherine-w-song"
+   ],
+   "title": "Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems",
+   "year": 2026,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "algae",
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A taxonomy that describes bio-digital systems by eight computational layers (input, transduction, evaluation, routing, memory, adaptation, output, power), applied to 70 microorganism-based systems from HCI, design, engineering and bio-art, with an open visualisation platform.",
+   "description_zh": "一套用八个计算层（输入、转导、评估、选择/路由、记忆、适应、输出、供能）描述生物-数字系统的分类法，用它分析了来自人机交互、设计、工程和生物艺术的 70 个基于微生物的系统，并提供开放的可视化平台。",
+   "idea_en": "Ask which computing role the organism plays: most systems use microbes only as transducers or batteries, leaving memory, evaluation and adaptation open.",
+   "idea_zh": "追问生物承担的是哪种计算角色：多数系统只把微生物用作转导器或电池，记忆、评估与适应几乎无人探索。",
+   "method": "Two coders from biodesign and computer science coded each system's organism, trigger, output, scale, timing and the computational roles of organism and electronics, then explored gaps in a React/D3 Sankey visualisation.",
+   "method_zh": "来自生物设计和计算机科学的两位编码者为每个系统标注生物、触发、输出、尺度、时间特性以及生物与电子各自的计算角色，再在 React/D3 桑基图可视化中寻找空白。",
+   "keywords": [
+    "computational taxonomy",
+    "bio-digital systems",
+    "biodesign",
+    "CHI 2026",
+    "systematic review",
+    "Sankey visualization"
+   ],
+   "images": [
+    "https://arxiv.org/html/2601.15804v1/figures/header_final_cropped.jpg",
+    "https://arxiv.org/html/2601.15804v1/figures/new_bio_digital_systems_thumbnails_copy.jpg",
+    "https://arxiv.org/html/2601.15804v1/figures/viz_home.png"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2601.15804",
+    "doi": "10.1145/3772318.3790657",
+    "arxiv": "2601.15804",
+    "venue": "CHI 2026",
+    "title": "Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems"
+   },
+   "source_url": "https://biodigitalviz.github.io/",
+   "code_url": "",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ioannis-ieropoulos--ecobot-ii",
+   "creator_ids": [
+    "ioannis-ieropoulos"
+   ],
+   "title": "EcoBot-II: An Artificial Agent with a Natural Metabolism",
+   "year": 2005,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A small robot that powers itself with microbial fuel cells full of sewage-sludge bacteria; fed with flies and other raw food, it senses light, processes data, communicates and moves.",
+   "description_zh": "一个用装满污泥细菌的微生物燃料电池给自己供电的小机器人；喂给它苍蝇等未经提炼的食物，它就能感光、处理数据、通信和移动。",
+   "idea_en": "A robot can eat: let bacterial digestion be its battery.",
+   "idea_zh": "机器人也可以“吃饭”：让细菌的消化成为它的电池。",
+   "method": "Eight microbial fuel cells with mixed bacterial cultures oxidise organic substrate at the anode and use oxygen from air at the cathode, charging capacitors that drive the robot in bursts.",
+   "method_zh": "八个装有混合菌群的微生物燃料电池在阳极分解有机物、在阴极利用空气中的氧气，为电容充电，机器人再分段行动。",
+   "keywords": [
+    "EcoBot",
+    "microbial fuel cell",
+    "artificial symbiosis",
+    "Bristol Robotics Laboratory",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6M6i0GM2nsY"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/ecobot.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5772/5777",
+    "doi": "10.5772/5777",
+    "arxiv": "",
+    "venue": "International Journal of Advanced Robotic Systems 2005",
+    "title": "EcoBot-II: An Artificial Agent with a Natural Metabolism"
+   },
+   "source_url": "https://doi.org/10.5772/5777",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "michel-maharbiz--micro-flea-circus",
+   "creator_ids": [
+    "michel-maharbiz"
+   ],
+   "title": "A Micro \"Flea Circus\": Self Assembly of Bacteria Through Spatio-Temporal Control of Aerotaxis",
+   "year": 2006,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A microfluidic chip whose tiny electrodes release doses of oxygen, so swimming Bacillus subtilis gather and self-assemble wherever the chip creates an oxygen hotspot.",
+   "description_zh": "一块微流控芯片，微电极按需释放氧气，游动的枯草芽孢杆菌便聚集到芯片制造的“氧气热点”，自组装成图案。",
+   "idea_en": "Electronics can choreograph living cells by shaping what they want, here oxygen.",
+   "idea_zh": "电子器件可以通过塑造细胞“想要”的东西（这里是氧气）来编排活细胞。",
+   "method": "Electrolysis at an array of microelectrodes patterns dissolved-oxygen gradients in space and time; aerotactic B. subtilis follow them.",
+   "method_zh": "微电极阵列通过电解在时空上排布溶解氧梯度，趋氧的枯草芽孢杆菌随之移动。",
+   "keywords": [
+    "Bacillus subtilis",
+    "aerotaxis",
+    "microfluidics",
+    "self-assembly",
+    "MEMS",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger oxygen → output movement"
+   ],
+   "images": [
+    "https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/MEMSYS.2006.1627861",
+    "doi": "10.1109/MEMSYS.2006.1627861",
+    "arxiv": "",
+    "venue": "IEEE MEMS 2006",
+    "title": "A Micro \"Flea Circus\": Self Assembly of Bacteria Through Spatio-Temporal Control of Aerotaxis"
+   },
+   "source_url": "https://ieeexplore.ieee.org/document/1627861",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "sylvain-martel--magnetotactic-microrobot",
+   "creator_ids": [
+    "sylvain-martel"
+   ],
+   "title": "Preliminary design of an autonomous microrobot propelled by magnetotactic bacteria",
+   "year": 2007,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Design of a sub-millimetre autonomous robot pushed by magnetotactic bacteria, with an on-chip coil that generates a magnetic field to steer the bacteria and so the robot.",
+   "description_zh": "一个亚毫米级自主机器人的设计：由趋磁细菌推动，芯片上的线圈产生磁场来引导细菌，从而控制机器人方向。",
+   "idea_en": "Use swimming bacteria as the motor and electronics only as the steering wheel.",
+   "idea_zh": "让会游的细菌做马达，电子器件只负责方向盘。",
+   "method": "MC-1 magnetotactic bacteria align with a field produced by a CMOS-based 3D solenoid; photovoltaic cells power the electronics.",
+   "method_zh": "MC-1 趋磁细菌沿 CMOS 三维线圈产生的磁场排列并游动；光伏电池为电子部分供电。",
+   "keywords": [
+    "magnetotactic bacteria",
+    "MC-1",
+    "microrobot",
+    "CMOS coil",
+    "Breed 2026: organism as input, output, transduction",
+    "Breed 2026: digital as input (activate), selection/routing",
+    "Breed 2026: trigger magnetic → output movement"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/MTB_microrobot.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/AIM.2007.4412427",
+    "doi": "10.1109/AIM.2007.4412427",
+    "arxiv": "",
+    "venue": "IEEE/ASME AIM 2007",
+    "title": "Preliminary design of an autonomous microrobot propelled by magnetotactic bacteria"
+   },
+   "source_url": "https://doi.org/10.1109/AIM.2007.4412427",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "jeffrey-tabor--massively-parallel-living-computers",
+   "creator_ids": [
+    "jeffrey-tabor"
+   ],
+   "title": "Programming living cells to function as massively parallel computers",
+   "year": 2007,
+   "field": "biohybrid",
+   "sub": "molecular",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "Engineered E. coli are spread as a lawn that acts as photographic film: projected light patterns switch pigment production on, and cell-to-cell signalling lets the lawn compute the edges of the image.",
+   "description_zh": "工程大肠杆菌铺成一层菌苔，像胶片一样工作：投射的光图案开启色素合成，细胞间的信号交流让菌苔算出图像的边缘。",
+   "idea_en": "A lawn of bacteria is a massively parallel computer with one processor per cell.",
+   "idea_zh": "一层细菌就是一台大规模并行计算机，每个细胞都是一个处理器。",
+   "method": "A red-light sensor rewired to a pigment-producing enzyme turns each cell into a pixel; a quorum-sensing circuit adds edge detection.",
+   "method_zh": "把红光感受器改接到产生色素的酶上，每个细胞成为一个像素；群体感应基因线路实现边缘检测。",
+   "keywords": [
+    "Escherichia coli",
+    "synthetic biology",
+    "bacterial photography",
+    "edge detection",
+    "optogenetics",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output optical effect"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/parallel_computers.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1278480.1278642",
+    "doi": "10.1145/1278480.1278642",
+    "arxiv": "",
+    "venue": "DAC 2007",
+    "title": "Programming living cells to function as massively parallel computers"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/1278480.1278642",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "adrian-david-cheok--empathetic-living-media",
+   "creator_ids": [
+    "adrian-david-cheok"
+   ],
+   "title": "Empathetic living media",
+   "year": 2008,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "An ambient display in which genetically modified E. coli glow brighter or dimmer to show social or ecological data, such as time spent with family.",
+   "description_zh": "一种环境显示装置：转基因大肠杆菌按社会或生态数据（例如与家人相处的时间）变亮或变暗。",
+   "idea_en": "Couple personal data to a living organism so people care about the data as they care about a living thing.",
+   "idea_zh": "把个人数据和一个活的生物绑在一起，让人像照料生命一样在意这些数据。",
+   "method": "A closed-loop controller doses inducer fluids into E. coli cultures carrying a fluorescence gene, setting their glow in near real time.",
+   "method_zh": "闭环控制系统向携带荧光基因的大肠杆菌培养液中投放诱导液，近实时地调节它们的亮度。",
+   "keywords": [
+    "Escherichia coli",
+    "ambient display",
+    "living media",
+    "GFP",
+    "DIS",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output light"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/emph_liv_media.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1394445.1394495",
+    "doi": "10.1145/1394445.1394495",
+    "arxiv": "",
+    "venue": "DIS 2008",
+    "title": "Empathetic living media"
+   },
+   "source_url": "https://doi.org/10.1145/1394445.1394495",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "allison-kudla--the-crucible",
+   "creator_ids": [
+    "allison-kudla"
+   ],
+   "title": "The Crucible",
+   "year": 2008,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A mechatronic installation that scans Petri dishes printed with cyanobacteria in the pattern of computer punch cards, then changes each dish's light according to what it reads.",
+   "description_zh": "一件机电装置：扫描按计算机穿孔卡片图案印上蓝细菌的培养皿，再根据读到的内容改变每个培养皿的光照。",
+   "idea_en": "Software that grows: the machine reads living data that its own light keeps rewriting.",
+   "idea_zh": "会生长的软件：机器读取活的数据，而它的光又不断改写这些数据。",
+   "method": "A camera on a mechanical arm reads the colonies; brighter light speeds cyanobacterial growth, so the 'punch card' darkens and the reading changes over time.",
+   "method_zh": "机械臂上的摄像头读取菌落；光越亮蓝细菌长得越快，“穿孔卡片”逐渐变深，读数随之改变。",
+   "keywords": [
+    "cyanobacteria",
+    "punch card",
+    "living software",
+    "DesCours 2008",
+    "Ryan Wolfe",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output growth"
+   ],
+   "images": [
+    "http://allisonx.com/wp-content/uploads/2008/12/algae-punch-card-petri-1024x768.jpg",
+    "http://allisonx.com/wp-content/uploads/2008/12/3154897266_b6120856ec_o-1024x768.jpg",
+    "https://biodigitalviz.github.io/images/crucible.jpg"
+   ],
+   "source_url": "http://allisonx.com/project/the-crucible/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "swamp--tardigotchi",
+   "creator_ids": [
+    "swamp"
+   ],
+   "title": "Tardigotchi",
+   "year": 2010,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A brass sphere that houses a living tardigrade under a microscope lens next to its digital-pet avatar; caring for the avatar also feeds and warms the real animal.",
+   "description_zh": "一个黄铜球体，里面在显微镜头下住着一只活的缓步动物，旁边是它的电子宠物化身；照顾化身的同时也在喂养和温暖真实的动物。",
+   "idea_en": "Pair a real micro-animal with its virtual twin so digital care has living consequences.",
+   "idea_zh": "把真实的微小动物和它的虚拟分身配成一对，让数字化的照料产生真实的后果。",
+   "method": "Interactions with the on-screen pet trigger a feeding mechanism and a heat lamp for the tardigrade, which is visible through a magnifying lens.",
+   "method_zh": "与屏幕宠物的互动会触发给缓步动物喂食的机构和加热灯；透过放大镜可以看到这只动物。",
+   "keywords": [
+    "tardigrade",
+    "digital pet",
+    "Tamagotchi",
+    "device art",
+    "SWAMP",
+    "Breed 2026: organism as none",
+    "Breed 2026: digital as power (maintain life), output (connect to humans)",
+    "Breed 2026: trigger nutrients → output movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jqILkd54ENY"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/Tardigotchi.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1935701.1935795",
+    "doi": "10.1145/1935701.1935795",
+    "arxiv": "",
+    "venue": "TEI 2011",
+    "title": "Tardigotchi"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/1935701.1935795",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "c-lab--stress-o-stat",
+   "creator_ids": [
+    "c-lab"
+   ],
+   "title": "Stress-o-stat",
+   "year": 2011,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A life-size chemostat installation in which engineered E. coli fluoresce when stressed, so bacterial stress becomes a flickering light.",
+   "description_zh": "一件真人尺度的恒化器装置：工程大肠杆菌在受到压力时发出荧光，细菌的“压力”变成闪烁的光。",
+   "idea_en": "Make an invisible cellular state readable as light, and let the machine that feeds the cells look alive.",
+   "idea_zh": "把看不见的细胞状态变成可读的光，也让喂养细胞的机器显得有生命。",
+   "method": "An oxidative-stress promoter drives fluorescent protein expression; a chemostat of pumps and vessels keeps the culture alive while light and filters reveal the glow.",
+   "method_zh": "氧化应激启动子驱动荧光蛋白表达；由泵和容器组成的恒化器维持菌群存活，光源与滤光片让荧光显现。",
+   "keywords": [
+    "Escherichia coli",
+    "synthetic biology",
+    "chemostat",
+    "stress response",
+    "fluorescent protein",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as power (maintain life), input (activate), transduction",
+    "Breed 2026: trigger oxidative stress, nutrients, light → output light"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fEAfDs_8hD0"
+   },
+   "images": [
+    "https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fstressostat%2FstressOstat_01.jpg?alt=media&token=e7e082f9-fb2f-43d6-8299-477c1ca466c3",
+    "https://biodigitalviz.github.io/images/stress-o-stat.jpg"
+   ],
+   "source_url": "https://www.c-lab.co.uk/projects/stress_o_stat",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ivan-henriques--symbiotic-machine",
+   "creator_ids": [
+    "ivan-henriques"
+   ],
+   "title": "Symbiotic Machine",
+   "year": 2014,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A floating bio-machine that collects algae from the water, harvests energy from their photosynthesis and uses it to move and collect more algae.",
+   "description_zh": "一台漂浮的生物机器：从水中收集藻类，从它们的光合作用中获取能量，再用这些能量移动、收集更多藻类。",
+   "idea_en": "A machine that lives off its environment the way an animal grazes.",
+   "idea_zh": "一台像动物吃草那样靠环境生活的机器。",
+   "method": "A worm-screw 'mouth' pulls in Spirogyra; the algae feed a photosynthetic energy cell (likely a bio-photovoltaic design by VU Amsterdam biophysicists) whose current drives the floating robot.",
+   "method_zh": "螺旋推进的“嘴”吸入水绵；藻类进入光合能量电池（很可能是与阿姆斯特丹自由大学生物物理学家合作的生物光伏设计），产生的电流驱动漂浮机器人。",
+   "keywords": [
+    "Spirogyra",
+    "photosynthesis",
+    "environmental robotics",
+    "Zone2Source",
+    "Amstelpark",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as input (activate), transduction",
+    "Breed 2026: trigger mechanical, light → output electrical"
+   ],
+   "images": [
+    "https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07923.jpg",
+    "https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07940_edit.jpg"
+   ],
+   "source_url": "https://ivanhenriques.com/works/symbiotic-machine/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "andrew-adamatzky--slime-mould-logic-gates",
+   "creator_ids": [
+    "andrew-adamatzky"
+   ],
+   "title": "Slime mould logic gates based on frequency changes of electrical potential oscillation",
+   "year": 2014,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "paper",
+   "description": "Logic gates built from protoplasmic tubes of the slime mould Physarum polycephalum, where inputs are light or food and outputs are shifts in the tube's electrical oscillation frequency.",
+   "description_zh": "用多头绒泡菌的原生质管搭建的逻辑门：输入是光或食物，输出是管子电振荡频率的变化。",
+   "idea_en": "A single cell's rhythm can encode Boolean values.",
+   "idea_zh": "单个细胞的节律可以编码布尔值。",
+   "method": "Electrodes record the tubes' electrical potential oscillation; stimuli change its frequency, and thresholds on that change are read as logical 0/1, cascaded with software.",
+   "method_zh": "电极记录原生质管的电位振荡；刺激改变振荡频率，以阈值把变化读作逻辑 0/1，并用软件级联。",
+   "keywords": [
+    "Physarum polycephalum",
+    "unconventional computing",
+    "logic gates",
+    "electrical oscillation",
+    "James Whiting",
+    "Breed 2026: organism as transduction, evaluation/comparison",
+    "Breed 2026: digital as none",
+    "Breed 2026: trigger electrical → output electrical"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/logic-gate.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.biosystems.2014.08.001",
+    "doi": "10.1016/j.biosystems.2014.08.001",
+    "arxiv": "",
+    "venue": "BioSystems 2014",
+    "title": "Slime mould logic gates based on frequency changes of electrical potential oscillation"
+   },
+   "source_url": "https://doi.org/10.1016/j.biosystems.2014.08.001",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ecologicstudio--urban-algae-canopy",
+   "creator_ids": [
+    "ecologicstudio"
+   ],
+   "title": "Urban Algae Canopy",
+   "year": 2015,
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "A pavilion canopy at Expo Milano 2015 whose ETFE cushions hold living Spirulina; the algae grow faster on sunny days and shade visitors, while visitors' presence triggers the digital control of flow and growth.",
+   "description_zh": "2015 年米兰世博会上的一座展亭顶棚，ETFE 气枕里养着活的螺旋藻；晴天藻类长得更快、为游客遮阳，而游客的到来会触发控制水流和生长的数字系统。",
+   "idea_en": "Let a building skin be a living, digitally tuned photosynthetic system.",
+   "idea_zh": "让建筑表皮成为一个活的、由数字系统调节的光合系统。",
+   "method": "Spirulina circulates through a modified ETFE cladding system; sensors and pumps regulate flow, oxygenation and density in response to sun and people.",
+   "method_zh": "螺旋藻在改造过的 ETFE 覆层系统中循环；传感器和泵根据日照与人流调节流速、充氧和藻液浓度。",
+   "keywords": [
+    "Spirulina",
+    "ETFE",
+    "Expo Milano 2015",
+    "bio-digital architecture",
+    "Urban Algae Folly",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output growth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=bC7yLdYbnkU"
+   },
+   "images": [
+    "https://admin.ecologicstudio.com/wp-content/uploads/2021/03/EXPO2015-74m.jpg",
+    "https://admin.ecologicstudio.com/wp-content/uploads/2021/03/WP_20150527_21_18_22_Pro__highres-scaled.jpg"
+   ],
+   "source_url": "https://www.ecologicstudio.com/projects/expo-milano-2015-urban-algae-folly",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "interspecifics--gfp-screen",
+   "creator_ids": [
+    "interspecifics"
+   ],
+   "title": "GFP Screen",
+   "year": 2015,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A 16-bit binary screen of GFP-expressing E. coli lit by black-light lamps, spelling out in ASCII a random poem 'written' from a bacterial point of view.",
+   "description_zh": "一块由表达 GFP 的大肠杆菌组成、用黑光灯激发的 16 位二进制屏幕，以 ASCII 码逐字显示一首“从细菌视角写成”的随机诗。",
+   "idea_en": "Living fluorescence can carry text, one bit per culture.",
+   "idea_zh": "活体荧光也能承载文字，每一皿菌就是一个比特。",
+   "method": "Lamps near the GFP excitation band switch individual bacterial cells on and off under software control, two characters every two milliseconds.",
+   "method_zh": "软件控制接近 GFP 激发波段的灯逐个开关各格细菌，每两毫秒显示两个字符。",
+   "keywords": [
+    "Escherichia coli",
+    "GFP",
+    "binary display",
+    "ASCII",
+    "light",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output light"
+   ],
+   "images": [
+    "https://farm2.staticflickr.com/1545/24486216019_abc97d5daf_k_d.jpg",
+    "https://farm2.staticflickr.com/1492/24760358331_b204617c4e_k_d.jpg"
+   ],
+   "source_url": "https://interspecifics.cc/work/gfp-screen-2015/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "seung-ah-lee--tangible-interactive-microbiology",
+   "creator_ids": [
+    "seung-ah-lee",
+    "ingmar-riedel-kruse"
+   ],
+   "title": "Tangible Interactive Microbiology for Informal Science Education",
+   "year": 2015,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A touch-screen microscope station where visitors draw on a live view of Euglena; the drawing is projected into the chamber as light and the cells swim in response.",
+   "description_zh": "一台触摸屏显微镜：观众在眼虫的实时画面上作画，画面以光的形式投射进微流控腔室，细胞随之游动。",
+   "idea_en": "Touch the screen, touch the microbe: drawing becomes a light stimulus for living cells.",
+   "idea_zh": "触摸屏幕就是触摸微生物：画出来的线变成照向活细胞的光刺激。",
+   "method": "A projector-equipped microscope images phototactic Euglena gracilis and projects users' touch drawings onto the microfluidic chamber.",
+   "method_zh": "装有投影仪的显微镜拍摄趋光的纤细裸藻（眼虫），并把用户在触摸屏上的画投射到微流控腔室里。",
+   "keywords": [
+    "Euglena gracilis",
+    "phototaxis",
+    "touch screen",
+    "informal science education",
+    "TEI",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as input (activate), output (connect to humans)",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "images": [
+    "https://dl.acm.org/cms/asset/2442beb4-fa94-4473-b4ab-1f1078831d6a/2677199.2680561.key.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2677199.2680561",
+    "doi": "10.1145/2677199.2680561",
+    "arxiv": "",
+    "venue": "TEI 2015",
+    "title": "Tangible Interactive Microbiology for Informal Science Education"
+   },
+   "source_url": "https://doi.org/10.1145/2677199.2680561",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "eduardo-miranda--physarum-memristors-music",
+   "creator_ids": [
+    "eduardo-miranda"
+   ],
+   "title": "Physarum-Based Memristors for Computer Music",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "paper",
+   "description": "Grown slime-mould memristors used to answer musical material: the organism's changing resistance turns seed melodies into responses played in a composition for live performance.",
+   "description_zh": "用培养出来的黏菌忆阻器来“回应”音乐素材：生物体不断变化的电阻把种子旋律转化为回应，写进一首现场演出的作品。",
+   "idea_en": "A living component whose resistance remembers can be a musical partner.",
+   "idea_zh": "一个电阻会“记住”过去的活体元件，可以成为音乐伙伴。",
+   "method": "Physarum polycephalum grown between electrodes behaves as a memristor; note sequences encoded as voltages pass through it and the measured currents are decoded back into notes.",
+   "method_zh": "在电极之间生长的多头绒泡菌表现出忆阻特性；编码成电压的音符序列通过它，测得的电流再被解码成音符。",
+   "keywords": [
+    "Physarum polycephalum",
+    "memristor",
+    "computer music",
+    "ICCMR",
+    "Edward Braund",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: trigger electrical → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5y36KcWmBtw"
+   },
+   "images": [
+    "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-26662-6_34/MediaObjects/385644_1_En_34_Fig2_HTML.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-3-319-26662-6_34",
+    "doi": "10.1007/978-3-319-26662-6_34",
+    "arxiv": "",
+    "venue": "Advances in Unconventional Computing (Springer) 2016",
+    "title": "Physarum-Based Memristors for Computer Music"
+   },
+   "source_url": "https://doi.org/10.1007/978-3-319-26662-6_34",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ingmar-riedel-kruse--biographr",
+   "creator_ids": [
+    "ingmar-riedel-kruse"
+   ],
+   "title": "BioGraphr: Science Games on a Biotic Computer",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A tabletop gaming system that projects images into a mini-aquarium of millions of Euglena, which rearrange into visible bioconvection patterns within seconds for players to play with.",
+   "description_zh": "一套桌面游戏系统：把图像投射进装有数百万眼虫的小水族箱，眼虫在几秒内重新排列成肉眼可见的生物对流图案，供玩家游戏。",
+   "idea_en": "At millimetre scale a population of microbes becomes a playable screen.",
+   "idea_zh": "在毫米尺度上，一群微生物就成了一块可以玩的屏幕。",
+   "method": "A projector shines light patterns onto phototactic Euglena gracilis; a camera tracks the resulting cell density patterns to drive games.",
+   "method_zh": "投影仪把光图案照在趋光的眼虫上；摄像头追踪由此形成的细胞密度图案来驱动游戏。",
+   "keywords": [
+    "Euglena gracilis",
+    "biotic games",
+    "bioconvection",
+    "tabletop",
+    "biotic computer",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as output (connect to humans), input (activate)",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "images": [
+    "https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.26503/dl.v2016i1.753",
+    "doi": "10.26503/dl.v2016i1.753",
+    "arxiv": "",
+    "venue": "DiGRA/FDG 2016",
+    "title": "BioGraphr: Science Games on a Biotic Computer"
+   },
+   "source_url": "https://doi.org/10.26503/dl.v2016i1.753",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ivan-henriques--caravel",
+   "creator_ids": [
+    "ivan-henriques"
+   ],
+   "title": "Caravel",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A hexagonal floating bio-machine that harvests electricity from bacteria in polluted water while its plants and fuel cells filter that water; units can join into a swarm.",
+   "description_zh": "一台六边形的漂浮生物机器：从污染水体中的细菌获取电能，同时用植物和燃料电池过滤水；多台可以拼接成群。",
+   "idea_en": "A machine that cleans the water that powers it.",
+   "idea_zh": "一台清洁为它供电的水的机器。",
+   "method": "Seven hexagons are microbial fuel cells with carbon-brush anodes and steel-mesh cathodes where Geobacter-dominated bacteria oxidise pollutants; trapezoids hold filtering water plants such as Pistia.",
+   "method_zh": "七个六边形单元是微生物燃料电池：碳刷阳极、钢网阴极，以地杆菌为主的细菌分解污染物；梯形单元种着大薸等滤水植物。",
+   "keywords": [
+    "microbial fuel cell",
+    "Geobacter",
+    "water purification",
+    "swarm",
+    "DIWO",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jJg0PEP5Ukc"
+   },
+   "images": [
+    "https://ivanhenriques.com/wp-content/uploads/2016/04/img_1996.jpg",
+    "https://ivanhenriques.com/wp-content/uploads/2016/04/caravel_korneel-e1517413346684.jpg"
+   ],
+   "source_url": "https://ivanhenriques.com/works/caravel/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "interspecifics--micro-rhythms",
+   "creator_ids": [
+    "interspecifics"
+   ],
+   "title": "Micro-Rhythms",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "An installation where tiny voltage variations from soil-bacteria fuel cells drive arrays of lights; a computer-vision algorithm finds matching light sequences and turns them into octophonic sound.",
+   "description_zh": "一件装置：土壤细菌燃料电池产生的微小电压变化驱动一组组灯光，计算机视觉算法找出匹配的光序列，把它们变成八声道声音。",
+   "idea_en": "Let microbes write a graphic score that a machine listens to.",
+   "idea_zh": "让微生物写下一份图形乐谱，再由机器来“听”。",
+   "method": "Microbial fuel cells filled with local soil power LEDs; three Raspberry Pi cameras with OpenCV track light patterns and SuperCollider plays them.",
+   "method_zh": "装有当地土壤的微生物燃料电池点亮 LED；三台装有 OpenCV 的树莓派摄像头追踪光的图案，由 SuperCollider 发声。",
+   "keywords": [
+    "microbial fuel cell",
+    "soil bacteria",
+    "pattern recognition",
+    "SuperCollider",
+    "MAMM Medellín",
+    "Breed 2026: organism as input",
+    "Breed 2026: digital as transduction, evaluation/comparison, adaptation, output (connect to humans)",
+    "Breed 2026: trigger none → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=33gF1bvw2yQ"
+   },
+   "images": [
+    "https://farm6.staticflickr.com/5801/30454096641_4c9fa188d1_k_d.jpg",
+    "https://farm6.staticflickr.com/5520/30541618515_d2b6f89fd2_k_d.jpg"
+   ],
+   "source_url": "https://interspecifics.cc/work/micro-ritmos-2016/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "gunes-helene-isitan--where-species-meet",
+   "creator_ids": [
+    "gunes-helene-isitan"
+   ],
+   "title": "Where Species Meet",
+   "year": 2016,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation where visitors put their hands into a large dish of water with live and projected paramecia; the electrical field of their bodies draws the paramecia towards them.",
+   "description_zh": "一件互动装置：观众把手伸进装着活草履虫和投影草履虫的大水盘，身体的电场会把草履虫吸引过来。",
+   "idea_en": "Use the body's own electricity as a language that single cells can answer.",
+   "idea_zh": "把身体自带的电当作单细胞能回应的语言。",
+   "method": "Electrically sensitive paramecia under a custom microscope-camera respond to changes in field caused by participants' hands, and their live feed is projected into the basin.",
+   "method_zh": "定制显微摄像头下对电敏感的草履虫响应参与者双手引起的电场变化，实时画面被投射进水盘。",
+   "keywords": [
+    "Paramecium",
+    "galvanotaxis",
+    "Zones de contact",
+    "Martin Giguère",
+    "bioart",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger electrical → output movement"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/Where_Species_Meet.png"
+   ],
+   "source_url": "https://www.gunesisitan.com/where-species-meet",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "carlos-castellanos--microbial-sonorities",
+   "creator_ids": [
+    "carlos-castellanos"
+   ],
+   "title": "Microbial Sonorities",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A hybrid biological-electronic sound system in which voltage changes from an array of microbial fuel cells modulate modular synthesizers, with machine learning interpreting the bacterial patterns.",
+   "description_zh": "一套生物-电子混合的声音系统：一组微生物燃料电池的电压变化调制模块合成器，机器学习负责解读细菌的电信号模式。",
+   "idea_en": "Listen to microbial metabolism as rhythm and learn its patterns with machine learning.",
+   "idea_zh": "把微生物代谢当作节奏来听，并用机器学习读出它的规律。",
+   "method": "Amplified MFC signals become control voltages for a Eurorack synth and Max/MSP; classifiers trigger presets and regression predicts voltage changes.",
+   "method_zh": "放大后的燃料电池信号成为 Eurorack 合成器和 Max/MSP 的控制电压；分类器触发音色预设，回归模型预测电压变化。",
+   "keywords": [
+    "microbial fuel cell",
+    "modular synthesizer",
+    "machine learning",
+    "sonification",
+    "ISEA 2017",
+    "Breed 2026: organism as input, transduction",
+    "Breed 2026: digital as evaluation/comparison, output (connect to humans)",
+    "Breed 2026: trigger none → output electrical"
+   ],
+   "images": [
+    "https://www.ccastellanos.com/wp-content/gallery/microbial-sonorities/d.jpg"
+   ],
+   "source_url": "https://www.ccastellanos.com/projects/microbial-sonorities/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--biosonot",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "BioSoNot 1.2",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A musical synthesizer that plays the biological activity of microorganisms in contaminated water samples while those microbes clean the water.",
+   "description_zh": "一台音乐合成器：演奏污染水样中微生物的生物活动，而这些微生物同时在净化水。",
+   "idea_en": "A polluted river can be an instrument, and playing it can help clean it.",
+   "idea_zh": "一条被污染的河可以是一件乐器，演奏它的同时也在帮它变干净。",
+   "method": "Water from polluted sites fills microbial fuel cells; the fluctuating electrical output from bacterial metabolism is translated into sound.",
+   "method_zh": "来自污染地点的水被装入微生物燃料电池；细菌代谢产生的起伏电信号被转化为声音。",
+   "keywords": [
+    "microbial fuel cell",
+    "water pollution",
+    "sound art",
+    "synthesizer",
+    "SIGGRAPH",
+    "Breed 2026: organism as input",
+    "Breed 2026: digital as output (connect to humans), transduction",
+    "Breed 2026: trigger none → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pDvqnnBTjD0"
+   },
+   "images": [
+    "https://samim.io/static/upload/0biosonot-12.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3072940.3080500",
+    "doi": "10.1145/3072940.3080500",
+    "arxiv": "",
+    "venue": "ACM SIGGRAPH 2017 Art Gallery",
+    "title": "BioSoNot 1.2"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3072940.3080500",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "marin-sawa--printed-cyanobacteria",
+   "creator_ids": [
+    "marin-sawa",
+    "paolo-bombelli"
+   ],
+   "title": "Electricity generation from digitally printed cyanobacteria",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A paper-based bio-solar cell made with a standard inkjet printer: living cyanobacteria printed onto carbon-nanotube ink generate current in light and, as a 'bio-battery', in the dark.",
+   "description_zh": "用普通喷墨打印机做出的纸基生物太阳能电池：印在碳纳米管墨水上的活蓝细菌在光照下发电，在黑暗中也能像“生物电池”一样放电。",
+   "idea_en": "Print living power sources like you print a page.",
+   "idea_zh": "像打印一页纸一样打印活的电源。",
+   "method": "Synechocystis cells are inkjet-printed over a printed carbon-nanotube conductive layer; photosynthetic electron export produces current (biophotovoltaics).",
+   "method_zh": "把集胞藻细胞喷墨打印在打印的碳纳米管导电层上；光合作用输出的电子形成电流（生物光伏）。",
+   "keywords": [
+    "cyanobacteria",
+    "Synechocystis",
+    "biophotovoltaics",
+    "inkjet printing",
+    "carbon nanotubes",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction",
+    "Breed 2026: trigger light → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1KU7jE4_DnI"
+   },
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-01084-4/MediaObjects/41467_2017_1084_Fig1_HTML.jpg",
+    "https://www.designboom.com/wp-content/uploads/2017/11/wallpaper-bio-solar-panel-designboom01-1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-017-01084-4",
+    "doi": "10.1038/s41467-017-01084-4",
+    "arxiv": "",
+    "venue": "Nature Communications 2017",
+    "title": "Electricity generation from digitally printed cyanobacteria"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-017-01084-4",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "helene-steiner--bixels",
+   "creator_ids": [
+    "helene-steiner"
+   ],
+   "title": "Bixels DNA Tetris",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "molecular",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "molecules"
+   ],
+   "kind": "prototype",
+   "description": "An 8x8 'bio-pixel' display cartridge whose pixels are fluorescent proteins made with cell-free DNA circuits, lit by an LED matrix so people can play Tetris and learn to program with DNA.",
+   "description_zh": "一块 8×8 的“生物像素”显示卡匣：像素是由无细胞 DNA 线路生成的荧光蛋白，由 LED 矩阵激发，人们可以用它玩俄罗斯方块、学习用 DNA 编程。",
+   "idea_en": "Teach biology the way pixels taught computing: through a tiny programmable display.",
+   "idea_zh": "像像素教会人们计算那样教生物学：通过一块可编程的小屏幕。",
+   "method": "Cell-free transcription-translation reactions express proteins such as GFP in each well; an LED matrix with filters excites them and an app toggles bio-pixels.",
+   "method_zh": "无细胞转录-翻译反应在每个孔里表达 GFP 等蛋白；带滤光片的 LED 矩阵激发荧光，手机应用开关各个生物像素。",
+   "keywords": [
+    "cell-free",
+    "GFP",
+    "bio-pixel",
+    "STEAM education",
+    "Tetris",
+    "Breed 2026: listed in Table 4 (not coded in the online dataset)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GZgTMy8Kumo"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/636fcb7db73c8d53ca64117c/637a8f8f4a80ddb6abe77a42_Screenshot%202022-11-20%20at%2021.35.23.png"
+   ],
+   "source_url": "https://www.helenesteiner.com/project/bixels",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "iaac--living-screens",
+   "creator_ids": [
+    "iaac"
+   ],
+   "title": "[Slime Mould] Living Screens",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "prototype",
+   "description": "A student architecture project that grows slime mould inside panels and steers its growth with food, salt and light so that its yellow network forms a changing screen.",
+   "description_zh": "一个建筑学生项目：在面板里培养黏菌，用食物、盐和光引导它生长，让黄色的网络形成一块不断变化的屏幕。",
+   "idea_en": "A facade could display information by growing it.",
+   "idea_zh": "立面可以通过“长出来”来显示信息。",
+   "method": "Physarum polycephalum is cultured under controlled moisture and light; oat food sources attract it and salt or light repel it to draw patterns.",
+   "method_zh": "在受控的湿度和光照下培养多头绒泡菌；用燕麦吸引、用盐或光驱赶，引导它画出图案。",
+   "keywords": [
+    "Physarum polycephalum",
+    "IAAC",
+    "architecture",
+    "Catalina Puello",
+    "data-driven material",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate), power (maintain life)",
+    "Breed 2026: trigger nutrients → output growth"
+   ],
+   "images": [
+    "https://www.iaacblog.com/wp-content/uploads/2017/06/final-presentation_0646.jpg",
+    "https://www.iaacblog.com/wp-content/uploads/2017/04/hud_circles_page_01.jpg"
+   ],
+   "source_url": "https://www.iaacblog.com/projects/slime-mould-living-screens-2/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "maurizio-rossi--microbes-power-display",
+   "creator_ids": [
+    "maurizio-rossi"
+   ],
+   "title": "Let the microbes power your sensing display",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A self-powered sensor node that drives an e-paper display using only electricity from electrogenic bacteria living with plant roots.",
+   "description_zh": "一个自供电的传感节点，仅靠与植物根系共生的产电细菌发出的电来驱动电子纸显示屏。",
+   "idea_en": "A potted plant can be the battery of an Internet-of-Things device.",
+   "idea_zh": "一盆植物可以成为物联网设备的电池。",
+   "method": "A plant-microbial fuel cell feeds a custom power-management circuit that stores energy and wakes the sensor and e-paper display.",
+   "method_zh": "植物-微生物燃料电池为定制的电源管理电路供电，储能后唤醒传感器和电子纸屏幕。",
+   "keywords": [
+    "plant-microbial fuel cell",
+    "e-paper",
+    "energy harvesting",
+    "Internet of Things",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/sensing_display.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/ICSENS.2017.8234406",
+    "doi": "10.1109/ICSENS.2017.8234406",
+    "arxiv": "",
+    "venue": "IEEE SENSORS 2017",
+    "title": "Let the microbes power your sensing display"
+   },
+   "source_url": "https://doi.org/10.1109/ICSENS.2017.8234406",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "maurizio-rossi--pmfc-wireless-sensing",
+   "creator_ids": [
+    "maurizio-rossi"
+   ],
+   "title": "Long range wireless sensing powered by plant-microbial fuel cell",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "An ultra-low-power sensor that measures its surroundings and sends data over long-range radio, powered by a plant-microbial fuel cell that only needs watering.",
+   "description_zh": "一个超低功耗传感器：测量周围环境并通过远距离无线电发送数据，由只需浇水的植物-微生物燃料电池供电。",
+   "idea_en": "Soil bacteria can power a wireless sensor if the electronics learn to sleep.",
+   "idea_zh": "只要电子器件学会“睡觉”，土壤细菌就能为无线传感器供电。",
+   "method": "FRAM keeps microcontroller state so the electronics can shut down fully between measurements while bacteria recharge the store.",
+   "method_zh": "用 FRAM 保存微控制器状态，使电子部分在两次测量之间完全关闭，细菌则在这段时间里重新充电。",
+   "keywords": [
+    "plant-microbial fuel cell",
+    "LoRa",
+    "FRAM",
+    "energy-neutral sensing",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0Wxvm4QU0B-fkBeOgnV5jbOSTQw95wE7vQ&s"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.23919/DATE.2017.7927258",
+    "doi": "10.23919/DATE.2017.7927258",
+    "arxiv": "",
+    "venue": "DATE 2017",
+    "title": "Long range wireless sensing powered by plant-microbial fuel cell"
+   },
+   "source_url": "https://ieeexplore.ieee.org/document/7927258",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "michel-maharbiz--flagellar-motor-sensor",
+   "creator_ids": [
+    "michel-maharbiz"
+   ],
+   "title": "Towards a biohybrid sensing platform built on impedance-based bacterial flagellar motor tachometry",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A biohybrid chemical sensor that reads how fast and in which direction a single E. coli flagellar motor spins, using that bacterium's own chemotaxis as the sensing front end.",
+   "description_zh": "一种生物混合化学传感器：读取单个大肠杆菌鞭毛马达的转速和方向，把细菌自身的趋化系统当作传感前端。",
+   "idea_en": "Borrow a bacterium's near-perfect chemical sense and read it electronically.",
+   "idea_zh": "借用细菌近乎完美的化学感知，再用电子方式把它读出来。",
+   "method": "Lithographic silica shaft encoders bind to flagellar motors; a four-point impedance array detects their rotation in a 4 x 4 micron region.",
+   "method_zh": "光刻制成的二氧化硅“轴编码器”结合在鞭毛马达上；四点阻抗阵列在 4×4 微米的区域内检测其旋转。",
+   "keywords": [
+    "Escherichia coli",
+    "bacterial flagellar motor",
+    "chemotaxis",
+    "impedance sensing",
+    "Tom Zajdel",
+    "Breed 2026: organism as input",
+    "Breed 2026: digital as evaluation/comparison, transduction",
+    "Breed 2026: trigger chemical → output movement"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/biohybrid_sensing.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/BIOCAS.2017.8325135",
+    "doi": "10.1109/BIOCAS.2017.8325135",
+    "arxiv": "",
+    "venue": "IEEE BioCAS 2017",
+    "title": "Towards a biohybrid sensing platform built on impedance-based bacterial flagellar motor tachometry"
+   },
+   "source_url": "https://ieeexplore.ieee.org/document/8325135",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "laura-grebenstein--optical-to-chemical-interface",
+   "creator_ids": [
+    "laura-grebenstein"
+   ],
+   "title": "Biological optical-to-chemical signal conversion interface",
+   "year": 2018,
+   "field": "biohybrid",
+   "sub": "molecular",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "A microscale modulator in which engineered E. coli turn LED light into a chemical signal by pumping protons and changing the local pH.",
+   "description_zh": "一种微尺度调制器：工程大肠杆菌把 LED 的光转换成化学信号——泵出质子，改变局部 pH。",
+   "idea_en": "Let bacteria translate between light-controlled electronics and chemical communication.",
+   "idea_zh": "让细菌在光控电子与化学通信之间充当翻译。",
+   "method": "E. coli express the light-driven proton pump gloeorhodopsin; LED pulses make them export protons, modulating pH as a molecular-communication signal.",
+   "method_zh": "大肠杆菌表达光驱动质子泵 gloeorhodopsin；LED 脉冲让它们泵出质子，以 pH 变化作为分子通信信号。",
+   "keywords": [
+    "Escherichia coli",
+    "molecular communication",
+    "gloeorhodopsin",
+    "pH modulation",
+    "NanoCom",
+    "Breed 2026: organism as transduction, output",
+    "Breed 2026: digital as input (activate), evaluation/comparison",
+    "Breed 2026: trigger light → output chemical"
+   ],
+   "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqxW52V4BUk-uskpJMVuvT1kTnNl1XLpPRw&s"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3233188.3233203",
+    "doi": "10.1145/3233188.3233203",
+    "arxiv": "",
+    "venue": "ACM NanoCom 2018",
+    "title": "Biological optical-to-chemical signal conversion interface"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3233188.3233203",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "eduardo-miranda--composing-with-biomemristors",
+   "creator_ids": [
+    "eduardo-miranda"
+   ],
+   "title": "Composing with Biomemristors: Is Biocomputing the New Technology of Computer Music?",
+   "year": 2018,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "paper",
+   "description": "PhyBox, a biocomputer of four slime-mould memristors that generates music interactively; the article walks through a composition made with it.",
+   "description_zh": "PhyBox：由四个黏菌忆阻器组成、能交互生成音乐的生物计算机；文章详细介绍了用它完成的一首作品。",
+   "idea_en": "A living memory component can shape how a music system answers a performer.",
+   "idea_zh": "一个活的记忆元件可以决定音乐系统如何回应演奏者。",
+   "method": "Music input is encoded as voltage transitions through Physarum biomemristors, and the currents they yield are decoded as musical output.",
+   "method_zh": "音乐输入被编码为通过多头绒泡菌忆阻器的电压变化，其产生的电流再被解码为音乐输出。",
+   "keywords": [
+    "Physarum polycephalum",
+    "biomemristor",
+    "PhyBox",
+    "biocomputer music",
+    "ICCMR",
+    "Breed 2026: organism as input, transduction",
+    "Breed 2026: digital as adaptation, evaluation/comparison, input (activate), transduction",
+    "Breed 2026: trigger mechanical → output electrical"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/Biocomputer_Rhythms.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/comj_a_00469",
+    "doi": "10.1162/comj_a_00469",
+    "arxiv": "",
+    "venue": "Computer Music Journal 2018",
+    "title": "Composing with Biomemristors: Is Biocomputing the New Technology of Computer Music?"
+   },
+   "source_url": "https://direct.mit.edu/comj/article/42/3/28/94775/Composing-with-Biomemristors-Is-Biocomputing-the",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "tim-dobbs--bioartbot",
+   "creator_ids": [
+    "tim-dobbs"
+   ],
+   "title": "BioArtBot",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "An open-source platform where anyone online designs pixel art that a liquid-handling robot prints onto agar with coloured E. coli, which then grows into the picture.",
+   "description_zh": "一个开源平台：任何人都能在网上设计像素画，由移液机器人用彩色大肠杆菌打印到琼脂上，细菌长出来就成了画。",
+   "idea_en": "Put a lab robot on the internet so anyone can paint with living ink.",
+   "idea_zh": "把实验室机器人接上互联网，让任何人都能用活墨水作画。",
+   "method": "A web app converts designs into a procedure for an Opentrons robot that inoculates plates with five E. coli strains, each making a different coloured protein.",
+   "method_zh": "网页应用把设计转换为 Opentrons 机器人的操作流程，用五种分别产生不同颜色蛋白的大肠杆菌菌株接种培养皿。",
+   "keywords": [
+    "Escherichia coli",
+    "Opentrons",
+    "chromoproteins",
+    "community biology",
+    "Counter Culture Labs",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger none → output growth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SMBGHynhiAQ"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061428993-TPM4UFM5MYOU6HQIIUHP/1.+bunny%2C+by+BT.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061761960-T4QAAMWHN16LNSY3T11N/1.+bunny%2C+by+BT.jpg?format=1000w"
+   ],
+   "source_url": "https://biosummit.live/2020/bio-creation-station/darktemplate-3el6p",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ivan-henriques--bacterbrain",
+   "creator_ids": [
+    "ivan-henriques"
+   ],
+   "title": "Bacterbrain",
+   "year": 2019,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A tensegrity structure that moves and reshapes itself according to electrical fluctuations from photosynthetic bacteria, which also power it.",
+   "description_zh": "一个张拉整体结构，根据光合细菌的电信号起伏移动、改变形状，这些细菌同时为它供电。",
+   "idea_en": "What would a robot do if its 'brain' were a bacterial colony?",
+   "idea_zh": "如果机器人的“大脑”是一团细菌，它会怎样行动？",
+   "method": "Rhodobacter sphaeroides with potassium permanganate form photosynthetic microbial fuel cells; their voltage variations trigger motors that shift weights inside the structure.",
+   "method_zh": "类球红细菌与高锰酸钾组成光合微生物燃料电池；电压变化触发电机，移动结构内部的配重。",
+   "keywords": [
+    "Rhodobacter sphaeroides",
+    "tensegrity",
+    "photosynthetic microbial fuel cell",
+    "BOZAR",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "images": [
+    "https://ivanhenriques.com/wp-content/uploads/2019/11/IMG_3417-1024x683.jpg",
+    "https://ivanhenriques.com/wp-content/uploads/2019/05/IMG_3406.jpg"
+   ],
+   "source_url": "https://ivanhenriques.com/works/bacterbrain/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "rachel-armstrong--alice",
+   "creator_ids": [
+    "rachel-armstrong",
+    "julie-freeman",
+    "ioannis-ieropoulos"
+   ],
+   "title": "ALICE",
+   "year": 2020,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "An interactive artwork powered by a bank of microbial fuel cells that also displays their data as animated creatures ('mobes') and sound, treating microbial electrons as data.",
+   "description_zh": "一件由一组微生物燃料电池供电的互动艺术作品，同时把这些电池的数据显示为动画生物（mobes）和声音，把微生物产生的电子当作数据。",
+   "idea_en": "Microbes can be both the power source and the storyteller of an interface.",
+   "idea_zh": "微生物既可以是界面的电源，也可以是它的讲述者。",
+   "method": "Fifteen MFCs power a small computer, sensors and lights; sensor data feed an artificial-life algorithm based on bacterial foraging that animates the mobes.",
+   "method_zh": "十五个微生物燃料电池为小型计算机、传感器和灯光供电；传感器数据驱动一个模仿细菌觅食的人工生命算法，让 mobes 动起来。",
+   "keywords": [
+    "microbial fuel cell",
+    "urine",
+    "artificial life",
+    "data art",
+    "Active Living Infrastructure: Controlled Environment",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as output (connect to humans), transduction",
+    "Breed 2026: trigger nutrients, chemical → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ye3N_X4dOKA"
+   },
+   "images": [
+    "https://alice-interface.eu/assets/img/alice_479A9372crop.jpg",
+    "https://alice-interface.eu/assets/img/white_mfc_detail-crop.png"
+   ],
+   "source_url": "https://alice-interface.eu/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "ingmar-riedel-kruse--pac-euglena",
+   "creator_ids": [
+    "ingmar-riedel-kruse",
+    "seung-ah-lee"
+   ],
+   "title": "Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts",
+   "year": 2020,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A biotic Pac-Man in which players steer a living Euglena cell with light through a real microfluidic maze while virtual ghosts and collectibles are overlaid on the microscope view.",
+   "description_zh": "一个“生物版吃豆人”：玩家用光引导一只活眼虫穿过真实的微流控迷宫，显微画面上叠加着虚拟的鬼魂和道具。",
+   "idea_en": "Mix living cells, virtual game objects and human players in one mixed reality.",
+   "idea_zh": "把活细胞、虚拟游戏元素和人类玩家放进同一个混合现实。",
+   "method": "A microscope with directional LED stimuli guides phototactic Euglena gracilis; computer vision tracks the cell and merges it with game logic.",
+   "method_zh": "带有方向性 LED 刺激的显微镜引导趋光的眼虫；计算机视觉追踪细胞，并把它与游戏逻辑结合。",
+   "keywords": [
+    "Euglena gracilis",
+    "biotic games",
+    "Pac-Man",
+    "microfluidics",
+    "CHI",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as input (activate), output (connect to humans), evaluation/comparison",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sy5Mistz150"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/pac_eugelena.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376378",
+    "doi": "10.1145/3313831.3376378",
+    "arxiv": "",
+    "venue": "CHI 2020",
+    "title": "Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3313831.3376378",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "kyungwon-lee--microaquarium",
+   "creator_ids": [
+    "kyungwon-lee",
+    "seung-ah-lee"
+   ],
+   "title": "MicroAquarium: An Immersive and Interactive Installation with Living Microorganisms",
+   "year": 2020,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "An immersive installation where visitors' hand motions become light patterns projected onto living phototactic microorganisms, whose magnified response fills a large screen like an aquarium.",
+   "description_zh": "一件沉浸式装置：观众的手势被转换成光图案投射到活的趋光微生物上，放大后的反应铺满大屏幕，像一个水族箱。",
+   "idea_en": "Scale the viewer down to the cells' world, and let hands speak in light.",
+   "idea_zh": "把观者缩小到细胞的世界，让双手用光来说话。",
+   "method": "A custom light-projection microscope with a hand-tracking input device projects patterns onto Euglena and shows the live view on an immersive display.",
+   "method_zh": "定制的光投影显微镜配合手势追踪设备，把图案投射到眼虫上，并在沉浸式屏幕上实时显示。",
+   "keywords": [
+    "Euglena gracilis",
+    "phototaxis",
+    "installation",
+    "hand tracking",
+    "CHI",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as output (connect to humans), input (activate)",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "images": [
+    "https://dl.acm.org/cms/attachment/html/10.1145/3334480.3383164/assets/html/images/chi20extendedabstracts-542-fig1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3334480.3383164",
+    "doi": "10.1145/3334480.3383164",
+    "arxiv": "",
+    "venue": "CHI 2020 Extended Abstracts",
+    "title": "MicroAquarium: An Immersive and Interactive Installation with Living Microorganisms"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3334480.3383164",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "nova-innova--pond",
+   "creator_ids": [
+    "nova-innova"
+   ],
+   "title": "Living Water – POND",
+   "year": 2020,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A floating network of lights in city water powered by the water's own microbes; the lights' colours show water quality measured by sensors running on that microbial power.",
+   "description_zh": "漂浮在城市水面上的灯光网络，由水中自身的微生物供电；灯的颜色显示传感器测得的水质，而传感器同样靠这些微生物的电运行。",
+   "idea_en": "Give water a voice powered by the life in it.",
+   "idea_zh": "用水中的生命发出的电，让水“开口说话”。",
+   "method": "Microbial fuel cells capture electrons released as bacteria break down organic matter; the power runs water-quality sensors and a light 'language' after dark.",
+   "method_zh": "微生物燃料电池收集细菌分解有机物时释放的电子；这些电力驱动水质传感器，并在天黑后点亮灯光“语言”。",
+   "keywords": [
+    "microbial fuel cell",
+    "water quality",
+    "Living Water",
+    "public installation",
+    "Utrecht",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as transduction, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output electrical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sWj5ujsJmNI"
+   },
+   "images": [
+    "https://www.novainnova.com/wp-content/uploads/2024/10/POND-tech-V4-1876x2048.png",
+    "https://www.novainnova.com/wp-content/uploads/2026/09/POND_29-1-26_BrianLubking_DEF-91-crop-800x800.jpg"
+   ],
+   "source_url": "https://www.novainnova.com/pond/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "dominique-chen--nukabot",
+   "creator_ids": [
+    "dominique-chen"
+   ],
+   "title": "Nukabot: Design of Care for Human-Microbe Relationships",
+   "year": 2021,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A traditional wooden nukadoko pickling bucket fitted with sensors and a voice so the lactic-acid bacteria can 'tell' people when they need stirring; six people lived with it for ten days.",
+   "description_zh": "一个装上传感器和语音的传统木制米糠腌菜桶，让乳酸菌能“告诉”人们何时需要搅拌；六位参与者与它共同生活了十天。",
+   "idea_en": "Voice a microbial community's needs so caring for it becomes a conversation.",
+   "idea_zh": "替微生物群落说出它的需要，让照料变成一场对话。",
+   "method": "Sensors in the rice-bran bed (likely gas and temperature) estimate fermentation state; a speech interface answers questions and prompts care.",
+   "method_zh": "米糠床中的传感器（很可能是气体和温度传感器）估计发酵状态；语音界面回答问题并提醒照料。",
+   "keywords": [
+    "nukadoko",
+    "lactic acid bacteria",
+    "fermentation",
+    "care",
+    "voice interface",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as output (connect to humans), transduction",
+    "Breed 2026: trigger nutrients, mechanical → output gas, electrical, temperature, chemical"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Un597Bil9Iw"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/nukabot.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411763.3451605",
+    "doi": "10.1145/3411763.3451605",
+    "arxiv": "",
+    "venue": "CHI 2021 Extended Abstracts",
+    "title": "Nukabot: Design of Care for Human-Microbe Relationships"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3411763.3451605",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "gilberto-esparza--bio-electrolisis",
+   "creator_ids": [
+    "gilberto-esparza"
+   ],
+   "title": "Bio-Electrólisis",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A series of prints etched onto copper plates by electrolysis powered by bacteria from the polluted Atoyac River, telling the river's history; the bioreactor etches plates live in the gallery.",
+   "description_zh": "一组版画：用来自受污染的阿托亚克河的细菌发出的电，通过电解蚀刻铜版，讲述这条河的历史；展厅中的生物反应器实时蚀刻铜版。",
+   "idea_en": "Let the river's own microbes etch the story of its pollution.",
+   "idea_zh": "让河里的微生物亲手蚀刻出这条河被污染的故事。",
+   "method": "A microbial-fuel-cell bioreactor with native Geobacter-rich bacteria is wired to copper and iron plates; the current erodes the copper, which is then printed on a press.",
+   "method_zh": "装有本地富含地杆菌的菌群的微生物燃料电池反应器连接铜板和铁板；电流蚀刻铜板，再用版画机印刷。",
+   "keywords": [
+    "Geobacter",
+    "Atoyac River",
+    "electrolysis",
+    "printmaking",
+    "microbial fuel cell",
+    "Breed 2026: organism as power",
+    "Breed 2026: digital as none",
+    "Breed 2026: trigger moisture → output electrical"
+   ],
+   "images": [
+    "http://gilbertoesparza.net/wp-content/uploads/2023/01/IMG_8819-1024x768.jpg"
+   ],
+   "source_url": "https://gilbertoesparza.net/portfolio/bio-electrolisis/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "kyungwon-lee--euglpollock",
+   "creator_ids": [
+    "kyungwon-lee",
+    "seung-ah-lee"
+   ],
+   "title": "EuglPollock: Rethinking Interspecies Collaboration through Art Making",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A platform for making artworks with Euglena: users guide the cells with light under a microscope, and the cells' swimming traces become unique, non-repeatable paintings.",
+   "description_zh": "一个与眼虫共同创作艺术的平台：用户在显微镜下用光引导细胞，细胞游动留下的轨迹成为独一无二、不可重复的画作。",
+   "idea_en": "Co-author a painting with a microorganism.",
+   "idea_zh": "与一个微生物共同署名一幅画。",
+   "method": "Light-projection microscopy steers phototactic Euglena gracilis; their tracked trajectories are rendered as brush strokes in the manner of action painting.",
+   "method_zh": "光投影显微镜引导趋光的眼虫；追踪到的游动轨迹被渲染成类似行动绘画的笔触。",
+   "keywords": [
+    "Euglena gracilis",
+    "interspecies collaboration",
+    "action painting",
+    "Jackson Pollock",
+    "ACM MM",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as input (activate), output (connect to humans)",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "images": [
+    "https://dl.acm.org/cms/asset/f80029e8-1d66-48bc-96d0-f18f4517f0c3/3503161.3548151.key.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3503161.3548151",
+    "doi": "10.1145/3503161.3548151",
+    "arxiv": "",
+    "venue": "ACM Multimedia 2022",
+    "title": "EuglPollock: Rethinking Interspecies Collaboration through Art Making"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3503161.3548151",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "jun-yao--biofilm-evaporation-electricity",
+   "creator_ids": [
+    "jun-yao"
+   ],
+   "title": "Microbial biofilms for electricity generation from water evaporation and power to wearables",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A thin sheet of bacterial biofilm that continuously generates electricity as water evaporates from it, worn as a skin patch that powers wearables from sweat and moisture.",
+   "description_zh": "一层薄薄的细菌生物膜，随着水分从中蒸发持续发电；做成贴在皮肤上的贴片，可以靠汗水和湿气为可穿戴设备供电。",
+   "idea_en": "Microbial material can harvest energy from evaporation without being fed.",
+   "idea_zh": "微生物材料不需要喂养，也能从蒸发中收集能量。",
+   "method": "A ~40 µm engineered biofilm (likely Geobacter sulfurreducens) sits between mesh electrodes; water evaporation through it drives an ionic current.",
+   "method_zh": "约 40 微米厚的工程生物膜（很可能是硫还原地杆菌）夹在网状电极之间；水分穿过它蒸发，形成离子电流。",
+   "keywords": [
+    "biofilm",
+    "hydrovoltaic",
+    "evaporation",
+    "wearable",
+    "Derek Lovley",
+    "Breed 2026: microbes as power source (biofilm electricity)"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32105-6/MediaObjects/41467_2022_32105_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-022-32105-6",
+    "doi": "10.1038/s41467-022-32105-6",
+    "arxiv": "",
+    "venue": "Nature Communications 2022",
+    "title": "Microbial biofilms for electricity generation from water evaporation and power to wearables"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-022-32105-6",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "igem-paris-bettencourt--bacterial-networked-interface",
+   "creator_ids": [
+    "igem-paris-bettencourt"
+   ],
+   "title": "Bacterial Networked Electronic Interface",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "prototype",
+   "description": "A two-way electrical interface between engineered bacteria and computers: information from the internet is sent as an electrical signal into a bacterial population, processed by genetic circuits and read back electronically.",
+   "description_zh": "工程细菌与计算机之间的双向电接口：来自互联网的信息以电信号送入细菌群体，经基因线路处理后再以电子方式读回。",
+   "idea_en": "Toward an 'Internet of Living Things' with bacteria as networked processors.",
+   "idea_zh": "迈向“生命物联网”：让细菌成为联网的处理器。",
+   "method": "An electro-genetic toolkit of 19 electro-responsive promoters, a processor plasmid and an output plasmid, plus hardware to stimulate and monitor gene expression.",
+   "method_zh": "一套电-基因工具包：19 个电响应启动子、处理器质粒和输出质粒，以及刺激并监测基因表达的硬件。",
+   "keywords": [
+    "Escherichia coli",
+    "electrogenetics",
+    "iGEM",
+    "Internet of Living Things",
+    "synthetic biology",
+    "Breed 2026: organism as transduction, selection/routing, output",
+    "Breed 2026: digital as input (activate), transduction",
+    "Breed 2026: trigger chemical, electrical → output electrical"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/bacteria_interface.png",
+    "https://static.igem.wiki/teams/4216/wiki/wiki/general-scheme.png"
+   ],
+   "source_url": "https://2022.igem.wiki/paris-bettencourt/",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "andrew-adamatzky--mining-logical-circuits-fungi",
+   "creator_ids": [
+    "andrew-adamatzky"
+   ],
+   "title": "Mining logical circuits in fungi",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Many-input Boolean functions found in mycelium-bound composites of oyster fungus: electrical pulses in, spiking responses out, decoded as logic.",
+   "description_zh": "在平菇菌丝复合材料中找到多输入布尔函数：输入电脉冲，输出电响应，再解码为逻辑。",
+   "idea_en": "Grown fungal materials could compute, not just insulate or package.",
+   "idea_zh": "长出来的真菌材料不只能隔热和包装，还可能计算。",
+   "method": "Pleurotus ostreatus composites receive input bits as electrical stimuli of set amplitude or frequency; their nonlinear electrical responses are mapped to logical outputs.",
+   "method_zh": "向平菇菌丝复合材料输入以特定幅值或频率表示的电刺激；其非线性电响应被映射为逻辑输出。",
+   "keywords": [
+    "Pleurotus ostreatus",
+    "mycelium composite",
+    "Boolean logic",
+    "fungal computing",
+    "Nic Roberts",
+    "Breed 2026: organism as transduction, evaluation/comparison",
+    "Breed 2026: digital as none",
+    "Breed 2026: trigger electrical → output electrical"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/mining.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41598-022-20080-3",
+    "doi": "10.1038/s41598-022-20080-3",
+    "arxiv": "",
+    "venue": "Scientific Reports 2022",
+    "title": "Mining logical circuits in fungi"
+   },
+   "source_url": "https://doi.org/10.1038/s41598-022-20080-3",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "michael-sedbon--ctrl",
+   "creator_ids": [
+    "michael-sedbon"
+   ],
+   "title": "Ctrl",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "artwork",
+   "description": "An installation in which ten slime moulds compete in Conway's Game of Life: their electrical potentials set the game's moves, and an AI uses light flashes to 'optimise' their behaviour.",
+   "description_zh": "一件装置：十只黏菌在康威的生命游戏中竞赛，它们的电位决定游戏中的走法，人工智能再用强光闪烁去“优化”它们的行为。",
+   "idea_en": "Put a living organism inside a game of control and watch who controls whom.",
+   "idea_zh": "把一个活的生物放进一场控制游戏，看究竟是谁在控制谁。",
+   "method": "Electrodes at both ends of a protoplasmic tube between two food sources measure potential differences used as coordinates; an algorithm triggers light stimuli.",
+   "method_zh": "在连接两处食物的原生质管两端测量电位差，用作坐标；算法据此触发光刺激。",
+   "keywords": [
+    "Physarum polycephalum",
+    "Game of Life",
+    "artificial intelligence",
+    "Kapelica Gallery",
+    "control",
+    "Breed 2026: slime mould electrical spike trains (§6.1.5)"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=z3f2JyQ8pu0"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/c7355d1a6c8c98402ec9b9b58ac773e267fffad1bc97046d3df6cd94bdf346fa/IMG_0120.jpg"
+   ],
+   "source_url": "https://michaelsedbon.com/C-t-r-l",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "michael-sedbon--cryptographic-beings",
+   "creator_ids": [
+    "michael-sedbon"
+   ],
+   "title": "Cryptographic Beings",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A data-storage machine that uses marimo algae balls as bits: lit balls float (1) and dark ones sink (0), so an array can store a five-letter word.",
+   "description_zh": "一台用绿球藻（marimo）当比特的存储机器：受光的藻球浮起代表 1，处于黑暗中的下沉代表 0，一组藻球能存下一个五个字母的单词。",
+   "idea_en": "Living behaviour reduced to two states can hold digital data.",
+   "idea_zh": "把生命的行为简化成两种状态，就能存储数字数据。",
+   "method": "Aegagropila linnaei photosynthesise under controlled light, trapping gas bubbles that make them float; darkness lets them sink; tubes are addressed as bytes.",
+   "method_zh": "球藻在受控光照下进行光合作用，产生的气泡让它浮起，黑暗中则下沉；每根管子按字节寻址。",
+   "keywords": [
+    "Aegagropila linnaei",
+    "marimo",
+    "biological memory",
+    "data storage",
+    "bistable",
+    "Breed 2026: organism as memory/state, evaluation/comparison",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger light → output gas, movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BPFqU_wRMXM"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/13aa55cb03d22d09726d26f969946bbc5e5bf60349ec69204148670ccf1cb518/RK_00215.png",
+    "https://freight.cargo.site/w/1750/i/110ee6337084ec3ec011aef5a996afc6d13cef872d6efb81d065be9030377669/RK_00209.jpg"
+   ],
+   "source_url": "https://michaelsedbon.com/Cryptographic-Beings",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "where-dogs-run--archaean-memory-farm",
+   "creator_ids": [
+    "where-dogs-run"
+   ],
+   "title": "Archaean Memory Farm",
+   "year": 2022,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A robotic farm that cultivates magnetotactic bacteria and uses magnetic fields to write data into them, aiming at 'geological clots of information' made by humans and bacteria together.",
+   "description_zh": "一座培养趋磁细菌的机器人“农场”，用磁场把数据写进细菌，目标是由人与细菌共同形成的“信息地质凝块”。",
+   "idea_en": "Treat ancient bacteria as a slow, geological storage medium.",
+   "idea_zh": "把古老的细菌当作一种缓慢的、地质尺度的存储介质。",
+   "method": "A roboticised setup keeps magnetotactic bacteria alive and applies patterned magnetic fields so that their magnetite accumulates as a physical record.",
+   "method_zh": "机器人化的装置维持趋磁细菌存活，并施加图案化磁场，使其磁铁矿颗粒沉积成物理记录。",
+   "keywords": [
+    "magnetotactic bacteria",
+    "information storage",
+    "bio-cybernetics",
+    "Leonardo",
+    "Kapelica Gallery",
+    "Breed 2026: organism as memory/state, input",
+    "Breed 2026: digital as power (maintain life), evaluation/comparison, transduction",
+    "Breed 2026: trigger magnetic → output movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R0xcev8793U"
+   },
+   "images": [
+    "https://starts.eu/wp-content/uploads/Where-Dogs-Run_Archean-Memory-Farm_cover_Credit-WDR.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_02278",
+    "doi": "10.1162/leon_a_02278",
+    "arxiv": "",
+    "venue": "Leonardo 2022",
+    "title": "Archaean Memory Farm: Notes on the Creation Process"
+   },
+   "source_url": "https://doi.org/10.1162/leon_a_02278",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "johnny-diblasi--beauty",
+   "creator_ids": [
+    "johnny-diblasi",
+    "carlos-castellanos"
+   ],
+   "title": "Beauty",
+   "year": 2023,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A machine-microbial artwork in which a reinforcement-learning agent alters cultures of pattern-forming bacteria to make them more 'beautiful'.",
+   "description_zh": "一件机器-微生物艺术作品：强化学习智能体改变会形成图案的细菌菌落，让它们变得“更美”。",
+   "idea_en": "What happens to beauty when a machine learns to groom living growth?",
+   "idea_zh": "当机器学会修整生命的生长，美会变成什么？",
+   "method": "A deep reinforcement-learning agent observes Paenibacillus and Bacillus colonies by camera and acts on them (likely by dispensing nutrients), rewarded by an aesthetic score.",
+   "method_zh": "深度强化学习智能体通过摄像头观察类芽孢杆菌和芽孢杆菌菌落并对其施加影响（很可能是投放营养物），以审美评分作为奖励。",
+   "keywords": [
+    "Paenibacillus dendritiformis",
+    "Bacillus subtilis",
+    "reinforcement learning",
+    "Phylum",
+    "social bacteria",
+    "Breed 2026: organism as input, output, transduction, adaptation",
+    "Breed 2026: digital as power (maintain life), evaluation/comparison, input (activate), adaptation",
+    "Breed 2026: trigger nutrients → output growth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=F-XhDxIQP-M"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/beauty.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3597626",
+    "doi": "10.1145/3597626",
+    "arxiv": "",
+    "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques 2023",
+    "title": "Beauty"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3597626",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "yuta-ikeya--algal-relay-computer",
+   "creator_ids": [
+    "yuta-ikeya",
+    "bahareh-barati"
+   ],
+   "title": "Algal Relay Computer (ARC)",
+   "year": 2023,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "A 'slow' computer whose relays are switched by the growth of algae, so a calculation takes days instead of nanoseconds.",
+   "description_zh": "一台“慢”计算机：继电器由藻类的生长来切换，一次运算要花几天而不是几纳秒。",
+   "idea_en": "Let a computer run at the pace of algae to make nonhuman time felt.",
+   "idea_zh": "让计算机按藻类的节奏运行，让人感受到非人类的时间。",
+   "method": "Spirulina cultures grow under light; sensing of their growth (likely optical) switches relays that carry the calculation forward.",
+   "method_zh": "螺旋藻在光照下生长；对其生长的检测（很可能是光学检测）切换继电器，推进运算。",
+   "keywords": [
+    "Spirulina",
+    "relay computer",
+    "more-than-human temporality",
+    "slow technology",
+    "Dutch Design Week",
+    "Breed 2026: organism as selection/routing",
+    "Breed 2026: digital as evaluation/comparison",
+    "Breed 2026: trigger light → output growth"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=FKSwIlIvUAk"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/algae_relay.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544549.3585874",
+    "doi": "10.1145/3544549.3585874",
+    "arxiv": "",
+    "venue": "CHI 2023 Extended Abstracts",
+    "title": "Designing an Algal Relay Computer: A Critical Orientation in Exploring More-than-Human Temporality"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3544549.3585874",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "martin-pumera--magnetospirillum-biobots",
+   "creator_ids": [
+    "martin-pumera"
+   ],
+   "title": "Precisely Navigated Biobot Swarms of Bacteria Magnetospirillum magneticum for Water Decontamination",
+   "year": 2023,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Swarms of magnetotactic bacteria steered by rotating magnetic fields to capture and remove the pesticide chlorpyrifos from water.",
+   "description_zh": "用旋转磁场引导的趋磁细菌群，从水中捕获并去除农药毒死蜱。",
+   "idea_en": "Living bacteria can be both the robot and the cleaning agent.",
+   "idea_zh": "活细菌既可以是机器人，也可以是清洁剂。",
+   "method": "Magnetospirillum magneticum AMB-1 carry natural magnetite crystals; programmed clockwise fields make them swarm, and they bind organic pollutants.",
+   "method_zh": "趋磁螺菌 AMB-1 体内带有天然磁铁矿晶体；按程序顺时针旋转的磁场使它们成群运动，并吸附有机污染物。",
+   "keywords": [
+    "Magnetospirillum magneticum",
+    "biobots",
+    "swarm",
+    "water decontamination",
+    "chlorpyrifos",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger magnetic → output movement"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1021/acsami.2c16592",
+    "doi": "10.1021/acsami.2c16592",
+    "arxiv": "",
+    "venue": "ACS Applied Materials & Interfaces 2023",
+    "title": "Precisely Navigated Biobot Swarms of Bacteria Magnetospirillum magneticum for Water Decontamination"
+   },
+   "source_url": "https://pubs.acs.org/doi/10.1021/acsami.2c16592",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "sema-dumanli--biodegradable-implant-antenna",
+   "creator_ids": [
+    "sema-dumanli"
+   ],
+   "title": "Biodegradable Implant Antenna Utilized for Real-Time Sensing Through Genetically Modified Bacteria",
+   "year": 2024,
+   "field": "biohybrid",
+   "sub": "body-bio",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A wireless sensing implant made of a biodegradable antenna and genetically modified bacteria that speed up its degradation when a target molecule is present; a wearable reader tracks the antenna's frequency shift.",
+   "description_zh": "一种无线传感植入物：由可降解天线和转基因细菌组成，目标分子出现时细菌会加快天线降解；可穿戴读取器追踪天线的频率偏移。",
+   "idea_en": "Let living cells rewrite an antenna's shape, and read the chemistry from outside the body.",
+   "idea_zh": "让活细胞改写天线的形状，从体外读出体内的化学信息。",
+   "method": "Engineered bacteria degrade the passive reflector antenna at a rate set by the analyte; the changing geometry shifts its resonance, measured by an on-body reader antenna.",
+   "method_zh": "工程细菌以由待测分子决定的速度降解无源反射天线；几何形状改变使共振频率偏移，由贴身的读取天线测量。",
+   "keywords": [
+    "genetically modified bacteria",
+    "implant antenna",
+    "biodegradable electronics",
+    "wireless sensing",
+    "EuCAP",
+    "Breed 2026: organism as input, transduction",
+    "Breed 2026: digital as evaluation/comparison",
+    "Breed 2026: trigger pH, temperature, chemical → output chemical"
+   ],
+   "images": [
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoSwDpCerybK5dWA7kXFC0fHba5rLM66QxA&s"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.23919/EuCAP60739.2024.10501075",
+    "doi": "10.23919/EuCAP60739.2024.10501075",
+    "arxiv": "",
+    "venue": "EuCAP 2024",
+    "title": "Biodegradable Implant Antenna Utilized for Real-Time Sensing Through Genetically Modified Bacteria"
+   },
+   "source_url": "https://ieeexplore.ieee.org/document/10501075",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "zoe-breed--algae-alight",
+   "creator_ids": [
+    "zoe-breed",
+    "bahareh-barati"
+   ],
+   "title": "Algae Alight: Exploring the Potential of Bioluminescence through Bio-kinetic Pixels",
+   "year": 2024,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "A living light display whose pixels are vessels of bioluminescent algae; vibration modules shake each pixel so the algae flash in controlled patterns.",
+   "description_zh": "一块活体光显示屏：每个像素是一瓶发光藻，振动模块摇动像素，让藻类按受控的图案闪光。",
+   "idea_en": "A pixel can be a living organism that glows when touched.",
+   "idea_zh": "一个像素可以是一种被碰触就会发光的生物。",
+   "method": "Adjustable-weight vibration modules stimulate dinoflagellates' mechanically triggered bioluminescence, with organism-centric algorithms that rest pixels to avoid exhausting them.",
+   "method_zh": "带可调配重的振动模块刺激甲藻的机械触发生物发光，以生物为中心的算法让像素轮流休息，避免藻类耗竭。",
+   "keywords": [
+    "dinoflagellates",
+    "bioluminescence",
+    "bio-kinetic pixels",
+    "living light interface",
+    "DIS",
+    "Breed 2026: organism as output, transduction",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger mechanical → output light"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u_ZRy6KOdmQ"
+   },
+   "images": [
+    "https://biodigitalviz.github.io/images/algae_alight.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660728",
+    "doi": "10.1145/3643834.3660728",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Algae Alight: Exploring the Potential of Bioluminescence through Bio-kinetic Pixels"
+   },
+   "source_url": "https://doi.org/10.1145/3643834.3660728",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "valentin-postl--mold-printer",
+   "creator_ids": [
+    "valentin-postl"
+   ],
+   "title": "Mold Printer",
+   "year": 2024,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A modified 3D printer that deposits invisible mould spores onto growth medium, so computer drawings slowly reveal themselves as coloured fungal growth over days.",
+   "description_zh": "一台改装的 3D 打印机，把肉眼看不见的霉菌孢子点到培养基上；电脑绘制的图像在几天里以彩色霉菌的形式慢慢显现。",
+   "idea_en": "Machine precision draws the plan; fungal growth finishes the picture.",
+   "idea_zh": "机器的精度画出草图，真菌的生长完成画作。",
+   "method": "A modified 3D printer deposits spores of two non-toxic mould species on agar along a computer drawing; growth, colour and species interaction shape the final image.",
+   "method_zh": "改装的 3D 打印机沿电脑绘制的路径把两种无毒霉菌的孢子点在琼脂上；生长、颜色和物种间的互动共同决定最终图像。",
+   "keywords": [
+    "mould spores",
+    "3D printer",
+    "living drawing",
+    "self-revealing artwork",
+    "TEI",
+    "Breed 2026: organism as transduction, output",
+    "Breed 2026: digital as input (activate)",
+    "Breed 2026: trigger none → output growth"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/mold_printer.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3623509.3633396",
+    "doi": "10.1145/3623509.3633396",
+    "arxiv": "",
+    "venue": "TEI 2024",
+    "title": "Mold Printer: Creating Living Self-Revealing Artworks"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3623509.3633396",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "dan-vy-vu--digital-twins-mycelium",
+   "creator_ids": [
+    "dan-vy-vu",
+    "bahareh-barati"
+   ],
+   "title": "Addressing Uncertainty in Biodesign through Digital Twins: A Case of Biofabrication with Mycelium",
+   "year": 2024,
+   "field": "bio",
+   "sub": "mycelium",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A framework for digital twins in biodesign, demonstrated with a proof-of-concept twin that monitors and models mycelium as it grows into material.",
+   "description_zh": "一个面向生物设计的数字孪生框架，并以一个监测、建模菌丝体长成材料过程的概念验证孪生加以演示。",
+   "idea_en": "A continuously updated digital double can help designers live with the uncertainty of growing materials.",
+   "idea_zh": "一个持续更新的数字分身，能帮助设计师与生长材料的不确定性共处。",
+   "method": "Sensors on a mycelium growing setup stream data into a model that represents the living process, mapped through a dataflow framework drawn from bio-industries.",
+   "method_zh": "菌丝培养装置上的传感器把数据持续传入表征生长过程的模型，并借用生物产业的数据流框架加以组织。",
+   "keywords": [
+    "mycelium",
+    "digital twin",
+    "biofabrication",
+    "uncertainty",
+    "TOCHI",
+    "Breed 2026: organism as input",
+    "Breed 2026: digital as power (maintain life)",
+    "Breed 2026: trigger none → output growth"
+   ],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3685271/asset/ade6afb0-1138-461d-af50-28d1977a33db/assets/images/medium/tochi-2023-0198-f04.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3685271",
+    "doi": "10.1145/3685271",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2024",
+    "title": "Addressing Uncertainty in Biodesign through Digital Twins: A Case of Biofabrication with Mycelium"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3685271",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "philip-wijesinghe--light-deformable-microrobots",
+   "creator_ids": [
+    "philip-wijesinghe"
+   ],
+   "title": "Light-deformable microrobots shape up for the biological obstacle course",
+   "year": 2024,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "algae",
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A commentary on Euglena gracilis turned into soft bio-microrobots whose motion and body shape are controlled with light, for tasks such as drug delivery and removing diseased cells.",
+   "description_zh": "一篇评述：纤细裸藻被改造成柔软的生物微型机器人，用光控制其运动和身体形状，用于药物递送、清除病变细胞等任务。",
+   "idea_en": "A microalga's own shape-changing can be the robot's actuator, steered by light.",
+   "idea_zh": "微藻自身的变形能力就是机器人的执行器，由光来操纵。",
+   "method": "Light stimulates phototaxis and cell-body deformation of Euglena gracilis, so optical patterns steer and reshape the living microrobots.",
+   "method_zh": "光刺激眼虫的趋光运动和细胞形变，光图案因此可以引导并改变这些活体微型机器人的形状。",
+   "keywords": [
+    "Euglena gracilis",
+    "microrobot",
+    "phototaxis",
+    "News & Views",
+    "biophotonics",
+    "Breed 2026: organism as transduction",
+    "Breed 2026: digital as input (activate), transduction",
+    "Breed 2026: trigger light → output movement"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-024-01448-8/MediaObjects/41377_2024_1448_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/s41377-024-01448-8",
+    "doi": "10.1038/s41377-024-01448-8",
+    "arxiv": "",
+    "venue": "Light: Science & Applications 2024",
+    "title": "Light-deformable microrobots shape up for the biological obstacle course"
+   },
+   "source_url": "https://www.nature.com/articles/s41377-024-01448-8",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "metin-sitti--microalgal-magnetic-biohybrids",
+   "creator_ids": [
+    "metin-sitti"
+   ],
+   "title": "Navigating microalgal biohybrids through confinements with magnetic guidance",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "biohybrid-robots",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "Magnetised green microalgae that swim on their own and are steered by magnetic fields through narrow, viscous spaces that mimic tissue and soil.",
+   "description_zh": "被磁化的绿色微藻：自己游动，并在磁场引导下穿过模拟组织和土壤的狭窄黏稠空间。",
+   "idea_en": "Combine an organism's propulsion with external magnetic steering to navigate confinement.",
+   "idea_zh": "把生物自身的推进力与外部磁场导航结合起来，穿过受限空间。",
+   "method": "Chlamydomonas reinhardtii cells are coated with magnetic material in high yield; external fields guide them, producing backtracking and crossing behaviours in confined channels.",
+   "method_zh": "高产率地给莱茵衣藻细胞包覆磁性材料；外部磁场引导它们，在受限通道中出现回溯和穿越等行为。",
+   "keywords": [
+    "Chlamydomonas reinhardtii",
+    "biohybrid microrobot",
+    "magnetic guidance",
+    "Max Planck Institute for Intelligent Systems",
+    "Mukrime Birgul Akolpoglu",
+    "Breed 2026: organism as output",
+    "Breed 2026: digital as input (activate), selection/routing",
+    "Breed 2026: trigger magnetic → output movement"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=e0trR_1t5As"
+   },
+   "images": [
+    "https://www.cell.com/cms/10.1016/j.matt.2025.102052/asset/52030a26-3f3e-46a7-b557-7b8ef4ce3ff0/main.assets/fx1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.matt.2025.102052",
+    "doi": "10.1016/j.matt.2025.102052",
+    "arxiv": "",
+    "venue": "Matter 2025",
+    "title": "Navigating microalgal biohybrids through confinements with magnetic guidance"
+   },
+   "source_url": "https://doi.org/10.1016/j.matt.2025.102052",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "mengyao-guo--slimo-city",
+   "creator_ids": [
+    "mengyao-guo"
+   ],
+   "title": "SLIMO CITY",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "fungal-computing",
+   "organisms": [
+    "slime-mold"
+   ],
+   "kind": "prototype",
+   "description": "A game that turns a living slime mould's growth into a developing city visualisation, mapping its behaviour to city scale, colour palette and building height.",
+   "description_zh": "一个把活黏菌的生长转化为城市演化可视化的游戏：它的行为被映射为城市规模、配色和建筑高度。",
+   "idea_en": "Translate microscopic growth into an urban metaphor people already understand.",
+   "idea_zh": "把微观的生长翻译成人们熟悉的城市隐喻。",
+   "method": "Sensors monitor Physarum polycephalum growth and environmental responses; software maps these readings to three urban parameters in real time.",
+   "method_zh": "传感器监测多头绒泡菌的生长与环境响应；软件实时把这些读数映射为三个城市参数。",
+   "keywords": [
+    "Physarum polycephalum",
+    "bio-HCI",
+    "urban visualization",
+    "game",
+    "IUI",
+    "Breed 2026: organism as input",
+    "Breed 2026: digital as transduction, evaluation/comparison, output (connect to humans)",
+    "Breed 2026: trigger nutrients → output growth"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/slimo_city.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3708557.3716346",
+    "doi": "10.1145/3708557.3716346",
+    "arxiv": "",
+    "venue": "IUI 2025 Companion",
+    "title": "SLIMO CITY: A Bio-HCI Game System Amplifying Slime Mold Behaviors through Urban Visualization"
+   },
+   "source_url": "https://doi.org/10.1145/3708557.3716346",
+   "collections": [
+    "breed-2026"
+   ]
+  },
+  {
+   "id": "alexandra-teixeira-riggs--mold-sounds",
+   "creator_ids": [
+    "alexandra-teixeira-riggs"
+   ],
+   "title": "Mold Sounds",
+   "year": 2025,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A sound artefact in which moulds grow over conductive components and so change the sounds it produces, reframing 'toxic' mould as a polyphonic multispecies collaborator.",
+   "description_zh": "一件声音物件：霉菌在导电元件上生长，从而改变它发出的声音，把“有毒”的霉菌重新看作复调的多物种合作者。",
+   "idea_en": "Let growth you usually clean away become a voice in the piece.",
+   "idea_zh": "让平时会被清除掉的生长，成为作品里的一个声部。",
+   "method": "Moulds colonise conductive materials in an enclosed environment; their growth alters electrical paths that modulate a sound circuit.",
+   "method_zh": "霉菌在封闭环境中侵占导电材料；它们的生长改变电路通路，从而调制声音电路。",
+   "keywords": [
+    "mould",
+    "queer ecologies",
+    "polyphony",
+    "sound",
+    "TEI",
+    "Breed 2026: organism as input, selection/routing",
+    "Breed 2026: digital as output (connect to humans), transduction",
+    "Breed 2026: trigger nutrients → output growth"
+   ],
+   "images": [
+    "https://biodigitalviz.github.io/images/mould.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3704417",
+    "doi": "10.1145/3689050.3704417",
+    "arxiv": "",
+    "venue": "TEI 2025",
+    "title": "Mold Sounds: Queering Ecologies in Polyphonic Material Explorations"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3689050.3704417",
+   "collections": [
+    "breed-2026"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Phylum",
+   "why": "Art-research collective (DiBlasi, Castellanos, Bello) making machine-microbial artworks.",
+   "link": "https://dl.acm.org/doi/10.1145/3597626",
+   "found_via": "johnny-diblasi",
+   "status": "open"
+  },
+  {
+   "name": "Bristol BioEnergy Centre",
+   "why": "Microbial fuel cell research behind EcoBot, Pee Power and ALICE.",
+   "link": "https://alice-interface.eu/",
+   "found_via": "ioannis-ieropoulos",
+   "status": "open"
+  },
+  {
+   "name": "Counter Culture Labs",
+   "why": "Oakland community biolab hosting BioArtBot and other open bio projects.",
+   "link": "https://biosummit.live/2020/bio-creation-station/darktemplate-3el6p",
+   "found_via": "tim-dobbs",
+   "status": "open"
+  },
+  {
+   "name": "Bio-Digital Systems Explorer",
+   "why": "Open, community-extendable database of coded bio-digital systems from Breed et al. 2026; new submissions may add works.",
+   "link": "https://biodigitalviz.github.io/",
+   "found_via": "zoe-breed",
+   "status": "open"
+  }
+ ]
+}

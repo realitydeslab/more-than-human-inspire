@@ -2,7 +2,7 @@
 
 > A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-360 creators, 557 works (More-than-Human Design (192), Bio Design (164), Human × Biocomputing (143), Organoid Computing Design (58)), 296 with papers, updated 2026-09-27. Bilingual (English / Simplified Chinese).
+397 creators, 616 works (More-than-Human Design (148), Bio Design (173), Human × Biocomputing (191), Organoid Computing Design (58), Animal–Computer Interaction (38), Human–Nature Interaction (8)), 335 with papers, updated 2026-09-27. Bilingual (English / Simplified Chinese).
 
 ## Full catalog
 

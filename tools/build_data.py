@@ -32,6 +32,8 @@ OVERRIDES = ROOT / "data" / "overrides.json"
 TAXONOMY = ROOT / "data" / "taxonomy.json"
 CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
+# categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
+LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
 
 
 def _check_mp4(url: str) -> dict:
@@ -277,6 +279,8 @@ def main() -> None:
     merge_creators(creators, works, ov.get("merge_creators", {}))
     works = [w for w in works if w.get("id") not in set(ov.get("drop_works", []))]
     for w in works:
+        if (w.get("field"), w.get("sub")) in LEGACY:
+            w["field"], w["sub"] = LEGACY[(w["field"], w["sub"])]
         w.update(ov.get("patch_works", {}).get(w["id"], {}))
     cache = verify(works, recheck)
 

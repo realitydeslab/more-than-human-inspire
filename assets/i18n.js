@@ -2,7 +2,7 @@
 window.MTH_I18N = {
   en: {
     title: "Design with <em>more than humans</em>.",
-    lede: "Fungi that compute, bacteria that dye, plants that sense touch, neurons in a dish that learn to play, and designers who ask what other species need. Papers, prototypes, artworks and products across four fields, each with its core idea, how it works, and links to the paper, video and images.",
+    lede: "Fungi that compute, bacteria that dye, plants that sense touch, neurons in a dish that learn to play, and designers who ask what other species need. Papers, prototypes, artworks and products across six fields, each with its core idea, how it works, and links to the paper, video and images.",
     lang_toggle: "中文",
     stat_works: "Works", stat_creators: "Creators", stat_papers: "Papers", stat_video: "With video", stat_span: "Span",
     tab_atlas: "Atlas", tab_works: "All works", tab_papers: "Papers", tab_creators: "Creators", tab_starred: "Starred",
@@ -12,7 +12,7 @@ window.MTH_I18N = {
     f_field: "Field", f_organism: "Organism", f_kind: "Type", f_collection: "Collection",
     collections: "Collections", collections_lede: "Sets of works that belong together: the systems analysed in a survey paper, the winners of an award.",
     survey_works: (n) => `◎ See the ${n} works analysed in this paper →`,
-    atlas_lede: "Four fields, one question: what happens when design works with, for and through other forms of life. Open a field to browse it by sub-category.",
+    atlas_lede: "Six fields, one question: what happens when design works with, for and through other forms of life. Open a field to browse it by sub-category.",
     atlas_open: (n) => `Open · ${n} works →`,
     field_count: (n, a) => `${n} works` + (a ? ` · ${a} more from other fields` : ""),
     also_title: "Also relevant", also_desc: "Works whose main field is elsewhere but that belong here too.",
@@ -42,7 +42,7 @@ window.MTH_I18N = {
   },
   zh: {
     title: "与<em>万物</em>一起设计。",
-    lede: "会计算的真菌、会染色的细菌、能感知触摸的植物、在培养皿里学会玩游戏的神经元，以及追问其他物种需要什么的设计师。这里收录四个领域的论文、研究原型、艺术作品和产品，每件都写明核心想法和实现方式，并附上论文、视频和图片链接。",
+    lede: "会计算的真菌、会染色的细菌、能感知触摸的植物、在培养皿里学会玩游戏的神经元，以及追问其他物种需要什么的设计师。这里收录六个领域的论文、研究原型、艺术作品和产品，每件都写明核心想法和实现方式，并附上论文、视频和图片链接。",
     lang_toggle: "EN",
     stat_works: "作品", stat_creators: "创作者", stat_papers: "论文", stat_video: "有视频", stat_span: "年份",
     tab_atlas: "总览", tab_works: "全部作品", tab_papers: "论文", tab_creators: "创作者", tab_starred: "收藏",
@@ -52,7 +52,7 @@ window.MTH_I18N = {
     f_field: "领域", f_organism: "生物", f_kind: "类型", f_collection: "合集",
     collections: "合集", collections_lede: "属于同一组的作品：一篇综述论文分析过的系统、一个奖项的获奖作品。",
     survey_works: (n) => `◎ 查看这篇论文分析的 ${n} 件作品 →`,
-    atlas_lede: "四个领域，一个问题：当设计与其他生命一起、为它们、借助它们工作时，会发生什么。点开任一领域，按子类浏览。",
+    atlas_lede: "六个领域，一个问题：当设计与其他生命一起、为它们、借助它们工作时，会发生什么。点开任一领域，按子类浏览。",
     atlas_open: (n) => `打开 · ${n} 件作品 →`,
     field_count: (n, a) => `${n} 件作品` + (a ? ` · 另有 ${a} 件来自其他领域` : ""),
     also_title: "也相关", also_desc: "主领域在别处、但同样属于这里的作品。",

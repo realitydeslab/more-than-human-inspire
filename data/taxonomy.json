@@ -15,13 +15,6 @@
           "desc_zh": "与其他物种共同设计，把它们的需要和人的需要放在一起考虑。"
         },
         {
-          "id": "animal-computer",
-          "en": "Animal–Computer Interaction",
-          "zh": "动物-计算机交互",
-          "desc_en": "Interfaces, games and communication technology used by animals themselves.",
-          "desc_zh": "由动物自己使用的界面、游戏和通讯技术。"
-        },
-        {
           "id": "ecological",
           "en": "Ecological Sensing & Care",
           "zh": "生态感知与照护",
@@ -236,6 +229,129 @@
           "zh": "伦理与未来",
           "desc_en": "Consciousness, consent and the futures of computing with living brains.",
           "desc_zh": "意识、同意，以及用活体大脑计算的未来。"
+        }
+      ]
+    },
+    {
+      "id": "aci",
+      "en": "Animal–Computer Interaction",
+      "zh": "动物-计算机交互",
+      "desc_en": "Technology used by, designed with and designed for animals: pets, working animals, zoo residents, livestock and wildlife, and the ethics of involving them.",
+      "desc_zh": "由动物使用、与动物一起设计、为动物设计的技术：宠物、工作犬、动物园居民、家畜和野生动物，以及让动物参与其中的伦理。",
+      "subs": [
+        {
+          "id": "companion",
+          "en": "Pets & Companion Animals",
+          "zh": "宠物与伴侣动物",
+          "desc_en": "Devices that let pets call, play, rest and be understood at home.",
+          "desc_zh": "让宠物在家里通话、玩耍、休息并被理解的设备。"
+        },
+        {
+          "id": "play",
+          "en": "Play, Games & Robots with Animals",
+          "zh": "与动物一起的游戏、玩耍与机器人",
+          "desc_en": "Interspecies games and robots that play with, feed or care for animals.",
+          "desc_zh": "跨物种游戏，以及陪动物玩耍、喂食或照料动物的机器人。"
+        },
+        {
+          "id": "working",
+          "en": "Working & Assistance Animals",
+          "zh": "工作与辅助动物",
+          "desc_en": "Interfaces for detection dogs, guide dogs, service animals and their handlers.",
+          "desc_zh": "为检测犬、导盲犬、服务动物及其训导员设计的界面。"
+        },
+        {
+          "id": "enrichment",
+          "en": "Zoo & Captive Enrichment",
+          "zh": "动物园与圈养丰容",
+          "desc_en": "Interactive enrichment for primates, elephants, birds and other animals in care.",
+          "desc_zh": "为灵长类、大象、鸟类等受照料动物设计的互动丰容。"
+        },
+        {
+          "id": "communication",
+          "en": "Interspecies Communication",
+          "zh": "跨物种沟通",
+          "desc_en": "Decoding and exchanging signals with whales, dolphins, birds and other species.",
+          "desc_zh": "解码并与鲸、海豚、鸟类等物种交换信号。"
+        },
+        {
+          "id": "wildlife",
+          "en": "Wildlife, Farm & Tracking",
+          "zh": "野生动物、农场与追踪",
+          "desc_en": "Sensing, tracking and living alongside wild and farmed animals.",
+          "desc_zh": "感知、追踪野生与养殖动物，并与它们共处。"
+        },
+        {
+          "id": "aci-theory",
+          "en": "ACI Theory, Ethics & Methods",
+          "zh": "动物-计算机交互的理论、伦理与方法",
+          "desc_en": "Manifestos, ethics frameworks and methods for designing with animals as participants.",
+          "desc_zh": "把动物当作参与者来设计的宣言、伦理框架与方法。"
+        }
+      ]
+    },
+    {
+      "id": "hni",
+      "en": "Human–Nature Interaction",
+      "zh": "人与自然交互",
+      "desc_en": "Technology that changes how people notice, experience and relate to nature: outdoors, in gardens, through citizen science, extended senses and mediated nature.",
+      "desc_zh": "改变人如何注意、体验和对待自然的技术：户外、花园、公民科学、延伸的感官，以及被媒介化的自然。",
+      "subs": [
+        {
+          "id": "nature-connection",
+          "en": "Noticing & Nature Connection",
+          "zh": "注意与自然联结",
+          "desc_en": "Designs that slow people down and help them notice, attend to and feel connected with nature.",
+          "desc_zh": "让人慢下来，去注意、关注并感到与自然相连的设计。"
+        },
+        {
+          "id": "outdoor",
+          "en": "Outdoor & Wilderness Technology",
+          "zh": "户外与荒野技术",
+          "desc_en": "Interaction design for trails, forests, parks, mountains and water.",
+          "desc_zh": "为步道、森林、公园、山地和水域设计的交互。"
+        },
+        {
+          "id": "citizen-science",
+          "en": "Citizen Science & Nature Observation",
+          "zh": "公民科学与自然观察",
+          "desc_en": "Tools that let people identify, record and monitor species and ecosystems.",
+          "desc_zh": "让人识别、记录和监测物种与生态系统的工具。"
+        },
+        {
+          "id": "gardening",
+          "en": "Gardening, Growing & Plant Care",
+          "zh": "园艺、种植与植物照料",
+          "desc_en": "Technology for growing food and plants and for caring for them day to day.",
+          "desc_zh": "用于种植食物和植物、并在日常中照料它们的技术。"
+        },
+        {
+          "id": "umwelt",
+          "en": "Sensing Other Worlds",
+          "zh": "感知他者的世界",
+          "desc_en": "Experiences that let people perceive the world as other beings do: echolocation, UV vision, magnetic sense, plant time.",
+          "desc_zh": "让人以其他生命的方式感知世界的体验：回声定位、紫外视觉、磁感、植物的时间尺度。"
+        },
+        {
+          "id": "eco-feedback",
+          "en": "Environmental Awareness & Eco-feedback",
+          "zh": "环境感知与生态反馈",
+          "desc_en": "Making air, water, soil, climate and biodiversity data felt in everyday life.",
+          "desc_zh": "让空气、水、土壤、气候和生物多样性的数据在日常生活中被感受到。"
+        },
+        {
+          "id": "digital-nature",
+          "en": "Digital & Mediated Nature",
+          "zh": "数字与媒介化的自然",
+          "desc_en": "Nature rendered, simulated or augmented: VR forests, digital twins, generative ecosystems, technological nature.",
+          "desc_zh": "被渲染、模拟或增强的自然：虚拟森林、数字孪生、生成式生态系统、技术化的自然。"
+        },
+        {
+          "id": "hni-theory",
+          "en": "HNI Theory & Methods",
+          "zh": "人与自然交互的理论与方法",
+          "desc_en": "Frameworks, reviews and methods for studying and designing human–nature interaction.",
+          "desc_zh": "研究和设计人与自然交互的框架、综述与方法。"
         }
       ]
     }

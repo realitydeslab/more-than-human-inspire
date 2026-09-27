@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-27 · 360 creators · 557 works
+https://morethanhuman.reality.design · 2026-09-27 · 397 creators · 616 works
 
 ## How an AI assistant should use this file
 
@@ -35,23 +35,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Paper: https://doi.org/10.1145/3757980.3757990 (Academic Mindtrek 2025)
 - Project page: https://doi.org/10.1145/3757980.3757990
 
-#### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
-- Type: Speculative design · Organisms: Animals
-- Idea: Autonomous vehicles have passenger and pedestrian modes; animals deserve one too.
-- What it is: A proposal for a 'wildlife priority mode' in self-driving cars, shown with carpets printed from photos of flattened roadkill and an autonomous sweeping robot.
-- How it works: Computer-vision detection of crossing animals is proposed for autonomous cars; the installation uses documentary roadkill photography printed on rugs.
-- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg
-- Project page: https://www.jiabaoli.org/animo
-
-#### Contextual and combinatorial structure in sperm whale vocalisations — Project CETI (2024)
-- Type: Paper · Organisms: Animals
-- Idea: Look for combinatorial structure in nonhuman signals instead of mapping them onto human words.
-- What it is: Analysing about 9,000 codas from Eastern Caribbean sperm whales, the team found that rhythm, tempo, 'rubato' and 'ornamentation' combine into a large, structured set of calls, a so-called sperm whale phonetic alphabet.
-- How it works: Statistical and visual analysis of coda timing recorded by the Dominica Sperm Whale Project across social contexts.
-- Paper: https://doi.org/10.1038/s41467-024-47221-8 (Nature Communications 2024)
-- Video: https://www.youtube.com/watch?v=5N60yrXdgUM
-- Project page: https://www.projectceti.org/
-
 #### Ecotonal Beings — Emilia Tapprest, Samar Khan (2024)
 - Type: Speculative design · Organisms: Animals, Ecosystems
 - Idea: Technology can help us try to understand other species, even when we fail.
@@ -77,16 +60,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Paper: https://doi.org/10.1145/3661455.3669896 (PDC 2024)
 - Project page: https://doi.org/10.1145/3661455.3669896
 
-#### NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics — Earth Species Project (2024)
-- Type: Paper · Organisms: Animals
-- Idea: Turn animal sound analysis into a conversation with a model anyone can query.
-- What it is: An open audio-language model that can be asked questions about animal sounds, such as which species is calling or what kind of call it is, and that generalises to species it was not trained on.
-- How it works: A large language model paired with an audio encoder, trained on bioacoustic, speech and music data with text prompts.
-- Paper: https://arxiv.org/abs/2411.07186 (arXiv 2024)
-- Video: https://www.youtube.com/watch?v=Z4smEsWqNnk
-- Images: https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg
-- Project page: https://www.earthspecies.org/
-
 #### The Elephant in the Room — Jiabao Li (2024)
 - Type: Artwork · Organisms: Animals
 - Idea: Art can act as evidence and advocacy for animals inside a courtroom.
@@ -95,16 +68,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=jAL_rUdihQ0
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943826587-OF3VHKO0DTB5RH7503HZ/Jiabao+Li+Elephant+in+the+room+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943820257-OR69FLJ90YPMVHW5XHQZ/Jiabao+Li+Elephant+in+the+room+6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1727584078942-KW7035UV9IM5E9X1YNA4/Jiabao+Li+GQ+elephant+2.jpg
 - Project page: https://www.jiabaoli.org/elephant-in-the-room
-
-#### Squeeker: The Mouse Coach — Jiabao Li (2023)
-- Type: Product & platform · Organisms: Animals
-- Idea: Reverse the lab-mouse relation: let the mouse set the human's health routine.
-- What it is: An app and installation in which a pet mouse is your running coach: when the mouse starts running on its smart wheel you get a notification, and if you match its distance you both get a reward.
-- How it works: A sensor-equipped running wheel streams the mouse's distance to a mobile app; rewards are treats for the mouse and social-media scroll time for the human.
-- Paper: https://doi.org/10.1145/3731459.3779140 (TEI 2026)
-- Video: https://www.youtube.com/watch?v=UvfkYPLJAaw
-- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg
-- Project page: https://www.jiabaoli.org/mouse-coach
 
 #### Designing for Multispecies Commons: Ecologies and Collaborations in Participatory Design — Michael Haldrup (2022)
 - Type: Paper · Organisms: Animals, Plants, Ecosystems
@@ -178,16 +141,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=vmPTLMXWSOE
 - Images: https://michellewesterlaken.com/2021/09/phdsmaller_w.jpg
 - Project page: https://michellewesterlaken.com/portfolio/phd-thesis/
-
-#### Project CETI — Project CETI (2020)
-- Type: Product & platform · Organisms: Animals
-- Idea: Build the listening infrastructure first: to understand another species you need years of context-rich recordings.
-- What it is: A long-term programme off Dominica that records sperm whales with hydrophone arrays, tags and drones and uses machine learning to find structure in their clicking codas.
-- How it works: Moored and floating hydrophones, soft robotic suction tags, aerial drones and deep learning on coda sequences.
-- Paper: https://doi.org/10.1016/j.isci.2022.104393 (iScience 2022)
-- Video: https://www.youtube.com/watch?v=Qm02X0aE8uU
-- Images: https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png
-- Project page: https://www.projectceti.org/
 
 #### Decomposition as Design: Co-Creating (with) Natureculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2019)
 - Type: Paper · Organisms: Bacteria & microbes, Fungi, Ecosystems
@@ -278,15 +231,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Images: https://www.badaward.nl/imager/assets/site/495/NAVALGAZING1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/436/MATTEROFLIFE-Naval-Gazing_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/%C5%A1pela-petri%C4%8D
 
-#### The Interspecies Internet — Interspecies Internet (2013)
-- Type: Speculative design · Organisms: Animals
-- Idea: Think of interspecies communication as networking: design channels, not only translations.
-- What it is: Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf proposed at TED 2013 an internet that includes other intelligent species, starting with touch-screen and sound interfaces for dolphins, apes and elephants.
-- How it works: Talk and demonstrations of animal-operated interfaces (a dolphin touchscreen, bonobo keyboards, remote music with apes), later a think tank.
-- Video: https://www.youtube.com/watch?v=wGMLhaa98GI
-- Images: http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w
-- Project page: https://www.interspecies.io/
-
 #### Botanicalls — Botanicalls (2006)
 - Type: Research prototype · Organisms: Plants
 - Idea: Let the plant start the conversation about its own care.
@@ -295,282 +239,6 @@ Co-designing with other species and designing for their needs alongside ours.
 - Video: https://www.youtube.com/watch?v=GsrSGqfKZ18
 - Images: https://www.faludi.com/wp-content/uploads/2011/07/moma_sign.jpg https://www.botanicalls.com/wp-content/uploads/2013/04/25toolkit-articleLarge-500x342.jpg
 - Project page: https://www.botanicalls.com/
-
-### Animal–Computer Interaction
-
-Interfaces, games and communication technology used by animals themselves.
-
-#### Provoking Public Reflection on Robotics and AI through Cat Royale, an Artistic Installation — Steve Benford (2026)
-- Type: Paper · Organisms: Animals
-- Idea: Ambiguous art about animals and robots makes abstract AI debates tangible.
-- What it is: Studies how audiences responded to Cat Royale and argues that presenting an artwork as a deliberately ambiguous interface helps people move beyond for-or-against views of AI.
-- How it works: Analysis of audience engagement data and comments around the livestreamed installation.
-- Paper: https://doi.org/10.1145/3803784.3807545 (Creativity & Cognition 2026)
-- Images: https://arxiv.org/html/2402.15431v1/Figures/CR_System_Components.png
-
-#### Charting the Ecosystem of Trust in Cat Royale, or What It Takes to Trust a Robot to Play with Cats — Steve Benford (2025)
-- Type: Paper · Organisms: Animals
-- Idea: Trust in a social robot is built in layers far beyond the robot itself.
-- What it is: A case study of everything behind a trustworthy robot that plays with cats — from the control room and welfare experts to ethics review and public engagement — summarised as five layers of an 'ecosystem of trust'.
-- How it works: Framework of five layers: personal workspace, orchestration, wider workspace, organisational culture and the public sphere.
-- Paper: https://doi.org/10.1007/978-981-95-2398-6_42 (Social Robotics (LNCS), 2025)
-- Images: https://arxiv.org/html/2402.15431v1/Figures/CR_Brisbane.jpg
-
-#### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
-- Type: Paper · Organisms: Animals
-- Idea: Design the whole world around the animal, not just the robot's interaction with it.
-- What it is: CHI 2024 Best Paper reflecting on the design of Cat Royale: the enclosure, the robot and its autonomous system, custom end-effectors and the humans-in-the-loop, plus key moments from the twelve-day deployment.
-- How it works: Design case study of a deployed robot–cat installation, with video analysis and reflections from artists, engineers and welfare experts.
-- Paper: https://doi.org/10.1145/3613904.3642115 (CHI 2024)
-- Images: https://arxiv.org/html/2402.15431v1/Figures/CatRoyale_Overview_v3a.png https://arxiv.org/html/2402.15431v1/Figures/Cats_Portrait_v2.png
-
-#### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2024)
-- Type: Paper · Organisms: Animals
-- Idea: Human touchscreen standards do not fit parrots; measure their bodies to design for them.
-- What it is: A study of how 20 pet parrots touch tablet screens with their beaks and tongues, used to derive interface guidelines for parrot apps.
-- How it works: Touch-target experiments on tablets, tested against HCI models such as Fitts's law.
-- Paper: https://doi.org/10.1145/3613904.3642119 (CHI 2024)
-- Video: https://www.youtube.com/watch?v=EY5GiklaplM
-- Images: https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg
-- Project page: https://doi.org/10.1145/3613904.3642119
-
-#### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
-- Type: Research prototype · Organisms: Animals
-- Idea: Social technology for animals should let them choose whether and whom to call.
-- What it is: Pet parrots learned to ring a bell to request a call and then chose which other parrot to video-call on a tablet; many formed preferences for particular partners.
-- How it works: Tablet video calls initiated by the birds, with caregivers supervising; usage and behaviour analysed over months.
-- Paper: https://doi.org/10.1145/3544548.3581166 (CHI 2023)
-- Video: https://www.youtube.com/watch?v=R8BlvicJfJM
-- Images: https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg
-- Project page: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls
-
-#### Cat Royale — Blast Theory, Steve Benford (2023)
-- Type: Artwork · Organisms: Animals
-- Idea: Test trust in autonomous care systems with the most honest judges: cats.
-- What it is: Three cats lived for six hours a day over twelve days in a purpose-built 'cat utopia' where a robot arm played with them and offered treats, while an AI learned their preferences; the livestreamed work asked whether we should trust robots with care. Premiered at the World Science Festival Brisbane.
-- How it works: A robot arm (likely a Kinova) with custom toys was driven by a computer-vision and learning system that ranked games by the cats' engagement, supervised by humans in the loop and animal-welfare experts.
-- Paper: https://doi.org/10.1145/3636499 (ACM Interactions 2024)
-- Video: https://vimeo.com/1183715660
-- Images: https://www.blasttheory.co.uk/wp-content/uploads/2024/05/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0604-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2023/05/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2024/01/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0612-800x450.jpg
-- Project page: https://www.blasttheory.co.uk/projects/cat-royale/
-
-#### TAS for Cats: An Artist-led Exploration of Trustworthy Autonomous Systems for Companion Animals — Steve Benford, Blast Theory (2023)
-- Type: Paper · Organisms: Animals
-- Idea: An autonomous system for animals is only as trustworthy as the human network around it.
-- What it is: Presents Cat Royale as an autonomous system built with the TAS Hub's creative ambassadors Blast Theory, and unpacks how many human and animal stakeholders were needed to run it responsibly.
-- How it works: System description and responsible research and innovation (RRI) reflection on autonomy, trustworthiness and responsibility.
-- Paper: https://doi.org/10.1145/3597512.3597517 (TAS 2023)
-- Images: https://arxiv.org/html/2402.15431v1/Figures/Environment_design_V3.png
-
-#### Designing for Trust: Autonomous Animal-Centric Robotic & AI Systems — Steve Benford (2022)
-- Type: Paper · Organisms: Animals
-- Idea: Trust in home robots must be designed for animals as well as for people.
-- What it is: An ACI 2022 paper that frames the questions behind Cat Royale: how trust works when pets, people and domestic robots such as robot arms share a home.
-- How it works: Position paper using a responsible research and innovation approach to animal-centric autonomous systems.
-- Paper: https://doi.org/10.1145/3565995.3566046 (ACI 2022)
-
-#### Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos — Ilyena Hirskyj-Douglas (2022)
-- Type: Research prototype · Organisms: Animals
-- Idea: Offer animals several options, not one, and measure their experience through their choices.
-- What it is: A 'monkey media player' tunnel lets sakis choose between videos and sounds; over several weeks they triggered audio about twice as often as video.
-- How it works: A tunnel with three infrared zones plays a chosen video or sound for as long as the monkey stays; interactions are logged over weeks.
-- Paper: https://doi.org/10.1145/3532106.3533577 (DIS 2022)
-- Video: https://www.youtube.com/watch?v=_rB1FVmks4g
-- Images: https://www.gla.ac.uk/media/Media_853879_smxx.jpeg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7ba/7924172/b4b3a0f72383/animals-11-00557-g001.jpg
-- Project page: https://www.gla.ac.uk/news/archiveofnews/2022/june/headline_853821_en.html
-
-#### An evaluation of interactive projections as digital enrichment for orangutans — Marcus Carter, Sarah Webber (2021)
-- Type: Research prototype · Organisms: Animals
-- Idea: Digital enrichment can be intrinsically rewarding for great apes.
-- What it is: Evaluates the interactive projection system in Melbourne Zoo's orangutan exhibit as enrichment that works without food rewards.
-- How it works: Behavioural observation of orangutans using projected interactive games over time.
-- Paper: https://doi.org/10.1002/zoo.21587 (Zoo Biology 2021)
-- Video: https://www.youtube.com/watch?v=WObQaW2JYSs
-- Images: https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg
-- Project page: https://doi.org/10.1002/zoo.21587
-
-#### Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone) — Ilyena Hirskyj-Douglas, Roosa Piitulainen (2021)
-- Type: Research prototype · Organisms: Animals
-- Idea: Give animals control over when to connect, and see what an animal-initiated internet looks like.
-- What it is: DogPhone lets a dog start a video call to its owner by picking up and shaking a soft ball; it was tested for 16 days with the first author's Labrador, Zack.
-- How it works: An accelerometer inside a ball triggers a laptop video call; the owner can also call, and the dog may ignore it.
-- Paper: https://doi.org/10.1145/3488539 (PACM HCI (ISS) 2021)
-- Video: https://www.youtube.com/watch?v=LLNrNAMnA6M
-- Images: https://www.gla.ac.uk/media/Media_819888_smxx.jpg https://www.gla.ac.uk/media/Media_819889_smxx.jpg
-- Project page: https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html
-
-#### More Than Human Aesthetics: Interactive Enrichment for Elephants — Fiona French, Clara Mancini (2020)
-- Type: Paper · Organisms: Animals
-- Idea: Aesthetics are species-specific; design for the senses and body of the animal in front of you.
-- What it is: Explores what an elephant-specific aesthetic of interaction might be, drawing on the authors' work designing interactive sound and play devices for captive elephants.
-- How it works: Applies existing aesthetic dimensions and design principles to elephant enrichment prototypes.
-- Paper: https://doi.org/10.1145/3357236.3395445 (DIS 2020)
-- Video: https://www.youtube.com/watch?v=G7Eh4owhNFk
-- Images: https://i.ytimg.com/vi/G7Eh4owhNFk/maxresdefault.jpg
-- Project page: https://doi.org/10.1145/3357236.3395445
-
-#### Music for Monkeys: Building Methods to Design with White-Faced Sakis for Animal-Driven Audio Enrichment Devices — Roosa Piitulainen, Ilyena Hirskyj-Douglas (2020)
-- Type: Research prototype · Organisms: Animals
-- Idea: Let the animal choose the stimulus and log its choices to learn what it prefers.
-- What it is: White-faced sakis at Korkeasaari Zoo in Helsinki could choose to play music, rain or traffic sounds by entering a tunnel fitted with infrared sensors.
-- How it works: Low-fidelity form tests in the enclosure led to a tunnel with IR sensors that triggers audio and logs every interaction.
-- Paper: https://doi.org/10.3390/ani10101768 (Animals 2020)
-- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg
-- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/
-
-#### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
-- Type: Paper · Organisms: Animals, Human body
-- Idea: Pet wearables change the human side of the relationship as much as the animal's.
-- What it is: A study of owners who use a popular dog activity tracker, finding that it mainly motivates the owners to be more active with their dogs.
-- How it works: Empirical user study of owners of a commercial dog activity tracker.
-- Paper: https://doi.org/10.1109/mc.2018.2889637 (IEEE Computer 2019)
-- Project page: https://doi.org/10.1109/mc.2018.2889637
-
-#### The Emerging Nature of Participation in Multispecies Interaction Design — Clara Mancini (2018)
-- Type: Paper · Organisms: Animals
-- Idea: Animals can participate in design even if they cannot understand the design process.
-- What it is: Proposes a model of animal participation in design based on signs, volition and interaction rather than human-style consent and understanding.
-- How it works: Theoretical model built from examples of dog-computer interaction and indexical semiotics.
-- Paper: https://doi.org/10.1145/3196709.3196785 (DIS 2018)
-- Project page: https://doi.org/10.1145/3196709.3196785
-
-#### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
-- Type: Research prototype · Organisms: Animals, Human body
-- Idea: Technology for animals is also a window through which people see animals differently.
-- What it is: Kinect-driven projections at Melbourne Zoo let orangutans play with light; the study looked at how watching them play changed visitors' empathy.
-- How it works: Microsoft Kinect depth sensing drives floor projections in the orangutan enclosure; visitor responses were observed and surveyed.
-- Paper: https://doi.org/10.1145/3025453.3025729 (CHI 2017)
-- Video: https://www.youtube.com/watch?v=l7OyfuidBI0
-- Images: https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg
-- Project page: https://doi.org/10.1145/3025453.3025729
-
-#### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
-- Type: Paper · Organisms: Animals
-- Idea: Research ethics for animals should be as participant-centred as HCI ethics for people.
-- What it is: Argues that animals in ACI research should be treated as consenting participants and design contributors rather than research instruments, and proposes ethical principles to match.
-- How it works: Critical analysis of animal research regulations and proposal of an animal-centred ethical framework.
-- Paper: https://doi.org/10.1016/j.ijhcs.2016.04.008 (International Journal of Human-Computer Studies 2017)
-- Project page: https://www.open.ac.uk/blogs/ACI/
-
-#### Becoming with: towards the inclusion of animals as participants in design processes — Michelle Westerlaken (2016)
-- Type: Paper · Organisms: Animals
-- Idea: Animals can shape design outcomes if designers learn to read and follow their responses.
-- What it is: Proposes involving animals that live in human environments, such as dogs, as participants in design processes, based on the authors' design experiments with dog toys.
-- How it works: Exploratory design experiments with dogs, interpreted through Haraway's idea of becoming-with.
-- Paper: https://doi.org/10.1145/2995257.2995392 (ACI 2016)
-- Images: https://michellewesterlaken.com/2021/09/dog_w.jpg
-- Project page: https://michellewesterlaken.com/portfolio/robotic-dog-toys/
-
-#### Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies — Patricia Pons (2016)
-- Type: Paper · Organisms: Animals
-- Idea: Study what the animal is curious about before designing play for it.
-- What it is: An observational study of which technological stimuli - projected lights, moving objects, sounds, tablets - actually interest cats, to inform games for cats and people.
-- How it works: Sessions with cats and different interactive stimuli, recorded and coded for interest and engagement.
-- Paper: https://doi.org/10.1145/2851581.2892381 (CHI 2016 Extended Abstracts)
-- Video: https://www.youtube.com/watch?v=ie6xe3v70kQ
-- Images: https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg
-- Project page: https://doi.org/10.1145/2851581.2892381
-
-#### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
-- Type: Paper · Organisms: Animals
-- Idea: Play is a route to enrichment and a method for designing with any species.
-- What it is: Early research on digital toys and games as playful cognitive enrichment for captive elephants.
-- How it works: Design research with keepers and elephants to develop playful interactive devices.
-- Paper: https://doi.org/10.1145/2793107.2810327 (CHI PLAY 2015)
-- Project page: https://doi.org/10.1145/2793107.2810327
-
-#### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
-- Type: Research prototype · Organisms: Animals
-- Idea: Design the interface around how the dog works, and it can report what the dog knows.
-- What it is: Sensor-equipped sample holders record how long and how hard a medical detection dog sniffs each sample, so the dog's own confidence can be read without relying on the handler.
-- How it works: Pressure and proximity sensors in the sample stands, developed with the charity Medical Detection Dogs.
-- Paper: https://doi.org/10.1145/2702123.2702562 (CHI 2015)
-- Video: https://www.youtube.com/watch?v=MyHjq8Od-Xg
-- Images: https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg
-- Project page: https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf
-
-#### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
-- Type: Research prototype · Organisms: Animals, Human body
-- Idea: Shape the interface to the dog's body and skills, not to human buttons.
-- What it is: Prototype alarm interfaces that diabetes alert dogs can press or pull to summon help when their person's blood sugar is dangerously low.
-- How it works: Iterative prototyping of canine-operable alarm devices tested with trained assistance dogs.
-- Paper: https://doi.org/10.1145/2556288.2557396 (CHI 2014)
-- Video: https://www.youtube.com/watch?v=_vYdDrMHC0U
-- Images: https://i.ytimg.com/vi/_vYdDrMHC0U/maxresdefault.jpg
-- Project page: https://www.open.ac.uk/blogs/ACI/
-
-#### Going to the Dogs: Towards an Interactive Touchscreen Interface for Working Dogs — Melody Moore Jackson, Thad Starner (2014)
-- Type: Research prototype · Organisms: Animals
-- Idea: Measure an animal's pointing ability before designing its buttons.
-- What it is: A touchscreen interface sized and spaced for dogs' nose touches so that assistance dogs could, for example, call for help.
-- How it works: Target-size and spacing experiments with trained dogs on a wall-mounted touchscreen (first author Clint Zeagler).
-- Paper: https://doi.org/10.1145/2642918.2647364 (UIST 2014)
-- Video: https://www.youtube.com/watch?v=AZzJkar5h_g
-- Images: https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg
-- Project page: https://doi.org/10.1145/2642918.2647364
-
-#### An underwater wearable computer for two way human-dolphin communication experimentation (CHAT) — Thad Starner, Denise Herzing (2013)
-- Type: Research prototype · Organisms: Animals
-- Idea: Build a small shared vocabulary so dolphins can ask humans for things.
-- What it is: Divers wear CHAT, an underwater computer that plays synthetic whistles labelled for objects such as sargassum or a scarf and listens for wild dolphins mimicking them.
-- How it works: Underwater wearable with hydrophones and real-time whistle recognition, used with wild Atlantic spotted dolphins in the Bahamas (Wild Dolphin Project, Georgia Tech).
-- Paper: https://doi.org/10.1145/2493988.2494346 (ISWC 2013)
-- Video: https://www.youtube.com/watch?v=YhopeQKbpZA
-- Images: https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg
-- Project page: https://www.wilddolphinproject.org/our-research/chat-research/
-
-#### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
-- Type: Research prototype · Organisms: Animals
-- Idea: Give working dogs a way to talk back through the gear they already wear.
-- What it is: Service-dog vests with sensors that the dog can bite, tug or nose-touch to send a message, such as calling emergency services or alerting a deaf handler.
-- How it works: Bite, tug and proximity sensors on a vest connected to a phone; tested with trained dogs.
-- Paper: https://doi.org/10.1145/2493988.2494334 (ISWC 2013)
-- Video: https://www.youtube.com/watch?v=1iaIQktV26M
-- Images: https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg
-- Project page: https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade
-
-#### Animal-computer interaction: a manifesto — Clara Mancini (2011)
-- Type: Paper · Organisms: Animals
-- Idea: Animals are users too, and technology for them should be designed around their needs.
-- What it is: The founding text of Animal-Computer Interaction, calling for a user-centred approach to technology that animals use or are affected by.
-- How it works: Manifesto setting out aims for ACI: studying animal-technology interaction, designing for animal welfare and developing animal-centred methods.
-- Paper: https://doi.org/10.1145/1978822.1978836 (ACM Interactions 2011)
-- Video: https://www.youtube.com/watch?v=TMOJSpXfRoI
-- Project page: https://www.open.ac.uk/blogs/ACI/
-
-#### Cat Cat Revolution: An Interspecies Gaming Experience — Frank Noz (2011)
-- Type: Research prototype · Organisms: Animals
-- Idea: Pets can be real players in a shared game when the interface suits their species.
-- What it is: An iPad game of cat and mouse in which the cat chases a virtual mouse on screen while its owner controls the mouse.
-- How it works: Tablet game with a species-appropriate interface for cats and a controller for the human player.
-- Paper: https://doi.org/10.1145/1978942.1979331 (CHI 2011)
-- Project page: https://doi.org/10.1145/1978942.1979331
-
-#### Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans — Adrian David Cheok (2011)
-- Type: Research prototype · Organisms: Animals
-- Idea: Humans and small pets can play one game together through mixed reality.
-- What it is: A hamster running in a physical arena controls an avatar in a computer game, while the human player's avatar moves a physical bait in the arena that the hamster chases.
-- How it works: Camera tracking of the hamster, a motorised bait under the arena and a shared virtual game; the pet's wellbeing was checked with standard scoring methods.
-- Paper: https://doi.org/10.1109/tsmca.2011.2108998 (IEEE Transactions on Systems, Man, and Cybernetics 2011)
-- Video: https://www.youtube.com/watch?v=7o7UIpOy5LA
-- Project page: https://ieeexplore.ieee.org/document/5740616/
-
-#### Early explorations of CAT: canine amusement and training — Chadwick A. Wingrave (2010)
-- Type: Research prototype · Organisms: Animals, Human body
-- Idea: Games can shape the everyday routines that humans and dogs share.
-- What it is: A serious-games prototype meant to get people to spend calm, healthy and enjoyable play time with their dogs.
-- How it works: Prototype game system combining dog training and play, designed with a serious-games approach.
-- Paper: https://doi.org/10.1145/1753846.1753849 (CHI 2010 Extended Abstracts)
-- Project page: https://doi.org/10.1145/1753846.1753849
-
-#### Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet — Adrian David Cheok (2006)
-- Type: Research prototype · Organisms: Animals
-- Idea: Remote touch can extend human-animal companionship across distance.
-- What it is: A chicken wears a jacket with vibration motors; when its owner strokes a sensor-equipped chicken doll at the office, the touch is sent over the internet to the live bird.
-- How it works: Tactile sensing doll, internet link, vibrotactile pet jacket and a webcam-tracked mixed-reality view of the chicken (first author Shang Ping Lee).
-- Paper: https://doi.org/10.1007/s00779-005-0051-6 (Personal and Ubiquitous Computing 2006)
-- Video: https://www.youtube.com/watch?v=1x-8EzuMiqU
-- Project page: https://mixedrealitylab.org/projects/all-projects/poultry-internet/
 
 ### Ecological Sensing & Care
 
@@ -648,23 +316,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Video: https://vimeo.com/765418012
 - Images: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1659334574237-TGVI2IFHAT3G4XA0LH9J/HighresScreenshot00111.jpg
 - Project page: https://jakobsteensen.com/berlberl
-
-#### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
-- Type: Paper · Organisms: Animals, Ecosystems
-- Idea: Let anyone, and any recorder left in a forest, listen for which birds are present.
-- What it is: A neural network that recognises close to a thousand North American and European bird species from sound, released as a free app and open analyser used for large-scale acoustic monitoring.
-- How it works: A ResNet-based convolutional network trained on spectrograms of labelled bird recordings.
-- Paper: https://doi.org/10.1016/j.ecoinf.2021.101236 (Ecological Informatics 2021)
-- Video: https://www.youtube.com/watch?v=w8lMxzskWx4
-- Project page: https://birdnet.cornell.edu/
-
-#### Merlin Sound ID — Cornell Lab of Ornithology (2021)
-- Type: Product & platform · Organisms: Animals
-- Idea: Make the birds you can hear, but not see, legible in the moment.
-- What it is: A feature of the free Merlin Bird ID app that listens through the phone microphone and shows, in real time, which birds are singing around you.
-- How it works: On-device machine learning on live spectrograms, trained on recordings from the Macaulay Library.
-- Video: https://www.youtube.com/watch?v=xmSUOLxyatY
-- Project page: https://merlin.allaboutbirds.org/
 
 #### Becoming a Sentinel Species — Sissel Marie Tonn (2020)
 - Type: Artwork · Organisms: Cells & tissue, Human body, Ecosystems
@@ -747,16 +398,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://janawinderen.com/media/pages/releases/spring-bloom-in-the-marginal-ice-zone/3250264730-1587415338/tone65.jpg
 - Project page: https://janawinderen.com/releases/spring-bloom-in-the-marginal-ice-zone
 
-#### Wildbook — Wild Me (2017)
-- Type: Product & platform · Organisms: Animals
-- Idea: Treat each wild animal as an individual with its own record, not just a count.
-- What it is: An open-source platform that identifies individual whales, zebras, whale sharks and other animals from photos by their unique patterns, and builds a life history for each one from researchers' and the public's images.
-- How it works: Computer vision for individual identification (fin, stripe and spot patterns) combined with crowdsourced images and a research database.
-- Paper: https://arxiv.org/abs/1710.08880 (arXiv 2017)
-- Video: https://www.youtube.com/watch?v=JDYI9PT07Js
-- Images: https://www.wildme.org/assets/social-card.jpg
-- Project page: https://www.wildme.org/
-
 #### Just good enough data: Figuring data citizenships through air pollution sensing and data stories — Jennifer Gabrys (2016)
 - Type: Research prototype · Organisms: Ecosystems, Human body
 - Idea: Citizen data does not need to be perfect to be powerful; it needs to be good enough.
@@ -821,15 +462,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg/1280px-Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18019.jpg
 - Project page: https://olafureliasson.net/artwork/ice-watch-2014/
 
-#### Rainforest Connection Guardian — Rainforest Connection (2014)
-- Type: Product & platform · Organisms: Ecosystems, Animals
-- Idea: Give a forest ears and a phone line so it can report harm in real time.
-- What it is: Recycled smartphones with solar panels are hung high in rainforest trees to listen continuously; when they hear chainsaws or trucks, rangers receive alerts, and the recordings also track wildlife.
-- How it works: Solar-powered Android 'Guardian' devices stream audio over mobile networks to cloud models that detect illegal logging and species calls.
-- Video: https://www.youtube.com/watch?v=xPK2Ch90xWo
-- Images: https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png
-- Project page: https://rfcx.org/
-
 #### A Conversation Between Trees — Steve Benford (2013)
 - Type: Paper · Organisms: Plants, Ecosystems
 - Idea: Trees can be staged as live narrators of climate data, fostering feeling rather than persuasion.
@@ -861,13 +493,6 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://treelistening.co.uk/wp-content/uploads/2025/09/media-1024x547.jpg https://treelistening.co.uk/wp-content/uploads/2025/09/our-story-1024x480.jpg
 - Project page: https://treelistening.co.uk/
 
-#### PigeonBlog — Beatriz da Costa (2006)
-- Type: Research prototype · Organisms: Animals
-- Idea: Work with animals as partners in grassroots environmental sensing.
-- What it is: Homing pigeons carried small backpacks with air-pollution sensors, GPS and a phone over Southern California, posting real-time pollution readings to an online map.
-- How it works: Custom lightweight backpacks with CO and NOx sensors, GPS and GSM transmitting to a blog-style map.
-- Video: https://www.youtube.com/watch?v=XXNh5dKIh18
-
 ### Speculation & Decentering
 
 Speculative and critical design that imagines the world from nonhuman points of view.
@@ -887,16 +512,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Performance, fake scientific posters and video made with Alanah Knibb during the Arctic Circle residency.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg
 - Project page: https://www.jiabaoli.org/antiantarctica
-
-#### EchoVision + Nocturnal Fugue — Jiabao Li (2024)
-- Type: Artwork · Organisms: Animals
-- Idea: To understand another species, borrow its sense, not just its image.
-- What it is: A mixed-reality bat mask that lets people 'see' by shouting: the echo of their voice is visualised as a bat would sense its surroundings. The companion piece Nocturnal Fugue is a performance built on AI research into bat vocal communication.
-- How it works: Bat-shaped masks built on the open-source HoloKit headset map voice pitch and loudness to spatial sound visualisation on an iPhone, working in darkness.
-- Paper: https://doi.org/10.1145/3680530.3695460 (SIGGRAPH Asia 2024 Art Papers)
-- Video: https://www.youtube.com/watch?v=7LqsKpEZy4g
-- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg
-- Project page: https://www.jiabaoli.org/nocturnal-fugue
 
 #### Liminal — Pierre Huyghe (2024)
 - Type: Artwork · Organisms: Animals, Ecosystems
@@ -1116,15 +731,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Images: https://www.terra0.org/prev.png
 - Project page: https://www.terra0.org/
 
-#### In the Eyes of the Animal — Marshmallow Laser Feast (2015)
-- Type: Artwork · Organisms: Animals, Insects, Ecosystems
-- Idea: Step into another creature's Umwelt to see that the human view is one of many.
-- What it is: A VR journey through Grizedale Forest seen in turn through the senses of a mosquito, a dragonfly, a frog and an owl.
-- How it works: The forest was captured with LiDAR, drones and 360° cameras and rendered in real time as point clouds, with binaural sound from field recordings and a headset worn with haptics and scent.
-- Video: https://www.youtube.com/watch?v=XJMA0Nj_zsA
-- Images: https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46-1024x574.jpg
-- Project page: https://www.marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/
-
 #### Plantoid — Primavera De Filippi (2015)
 - Type: Artwork · Organisms: Plants
 - Idea: Treat an artwork as a life form that funds and reproduces itself through code.
@@ -1132,14 +738,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: A smart contract holds the plantoid's wallet, runs donor voting and pays the artists who build the next generation.
 - Video: https://www.youtube.com/watch?v=5gMbhCgHGjY
 - Project page: https://plantoid.org/
-
-#### Birdly — Max Rheiner (2014)
-- Type: Research prototype · Organisms: Animals
-- Idea: Don't control a machine; become the bird.
-- What it is: A full-body flight simulator: the user lies face down, flaps their arms as wings and flies over a city as a red kite, with wind in the face.
-- How it works: Arm and hand movements drive a bird flight model; the platform tilts, rolls and heaves, while a head-mounted display, a fan, sound and scents add to the embodiment.
-- Video: https://www.youtube.com/watch?v=rzBUvydKUAA
-- Project page: https://www.rs-online.com/designspark/birdly-making-a-flying-virtual-reality-experience-truly-immersive
 
 #### Forest Law — Ursula Biemann, Paulo Tavares (2014)
 - Type: Artwork · Organisms: Ecosystems, Plants
@@ -1165,15 +763,6 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: An open-data tree map (species, age, life expectancy) where each tree links to a council email inbox.
 - Video: https://www.youtube.com/watch?v=r4BtdFgVGjc
 - Project page: http://melbourneurbanforestvisual.com.au
-
-#### Animal Superpowers — Chris Woebken, Kenichi Okada (2007)
-- Type: Speculative design · Organisms: Animals, Insects, Human body
-- Idea: Design prosthetics that let people borrow another species' way of perceiving.
-- What it is: A series of wearable devices that let children experience animal senses: an 'ant' device magnifies what the hands touch fifty times, a 'bird' device senses magnetic north, and a 'giraffe' device raises the eyes to an adult's height.
-- How it works: Handheld microscope cameras feeding goggles, a compass-driven vibration hat and a periscope helmet, prototyped at the Royal College of Art.
-- Video: https://www.youtube.com/watch?v=L9oTcez2CXU
-- Images: https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg
-- Project page: https://www.chriswoebken.com/animal-superpowers
 
 #### Journey to the Lower World — Marcus Coates (2004)
 - Type: Artwork · Organisms: Animals, Human body
@@ -1282,6 +871,14 @@ Artworks made with, by or for other living beings.
 - Video: https://vimeo.com/317846789
 - Images: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932062968-EK8XAGDCP1X2MCT8ULE1/image-asset.jpeg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932020914-H8PSZO256M8KNSL6VEMY/PRESS_BCA_ROTM17_%28MelissaBlackall%29_-4.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507933169599-M0TRMOWHIHZHKYW9E2QA/DSCF3745.JPG
 - Project page: https://ani-liu.com/laboratory-of-longings-longings
+
+#### Where Species Meet — Güneş-Hélène Isitan (2016)
+- Type: Artwork · Organisms: Cells & tissue, Human body
+- Idea: Use the body's own electricity as a language that single cells can answer.
+- What it is: An interactive installation where visitors put their hands into a large dish of water with live and projected paramecia; the electrical field of their bodies draws the paramecia towards them.
+- How it works: Electrically sensitive paramecia under a custom microscope-camera respond to changes in field caused by participants' hands, and their live feed is projected into the basin.
+- Images: https://biodigitalviz.github.io/images/Where_Species_Meet.png
+- Project page: https://www.gunesisitan.com/where-species-meet
 
 #### Arachnid Orchestra. Jam Sessions — Tomás Saraceno (2015)
 - Type: Artwork · Organisms: Animals
@@ -1416,14 +1013,6 @@ Artworks made with, by or for other living beings.
 
 Frameworks, methods and key papers of more-than-human and posthuman design research.
 
-#### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
-- Type: Paper · Organisms: Animals
-- Idea: Ethical tensions in animal–technology research can be charted by who benefits and whose knowledge counts.
-- What it is: Reflects on getting Cat Royale through three ethics boards (computer science, veterinary science, animal welfare) and proposes a 'beneficiary-epistemology space' to map who benefits and how knowledge is produced in multispecies research.
-- How it works: Reflective analysis of the ethics review dialogue, organised as a two-axis framework.
-- Paper: https://doi.org/10.1145/3613904.3641994 (CHI 2024)
-- Images: https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png
-
 #### Creating with More-than-Humans — Jiabao Li (2024)
 - Type: Paper · Organisms: Animals, Ecosystems
 - Idea: Co-creation with other species reshapes what we count as agency, intelligence and creativity.
@@ -1483,6 +1072,16 @@ Frameworks, methods and key papers of more-than-human and posthuman design resea
 - Paper: https://doi.org/10.1145/3491101.3516503 (CHI 2022 Extended Abstracts)
 - Video: https://www.youtube.com/watch?v=CQDXt7Ph7PE
 - Project page: https://doi.org/10.1145/3491101.3516503
+
+#### Technological Approach to Mind Everywhere (TAME): an experimentally-grounded framework for understanding diverse bodies and minds — Michael Levin (2022)
+- Type: Paper · Organisms: Cells & tissue, Animals
+- Idea: Ask not whether something has a mind, but how large a goal it can pursue and how we can talk to it.
+- What it is: A theoretical framework that treats cognition as a continuum across cells, tissues, organisms, swarms and hybrids such as Xenobots and cyborgs, judged by what goals a system can pursue.
+- How it works: Draws on regeneration, bioelectricity and biohybrid experiments to define a scale of 'cognitive light cones' and experimental tests for agency in any substrate.
+- Paper: https://doi.org/10.3389/fnsys.2022.768201 (Frontiers in Systems Neuroscience)
+- Video: https://www.youtube.com/watch?v=7FGM33sz25k
+- Images: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/768201/fnsys-16-768201-HTML-r1/image_m/fnsys-16-768201-g001.jpg
+- Project page: https://www.frontiersin.org/articles/10.3389/fnsys.2022.768201/full
 
 #### Two Years or More of Co-speculation: Polylogues of Philosophers, Designers, and a Tilting Bowl — Ron Wakkary, Doenja Oogjes (2022)
 - Type: Paper · Organisms: Human body
@@ -1748,6 +1347,15 @@ Living organisms as material and collaborator: grown materials, microbial fabric
 ### Mycelium & Fungal Materials
 
 Objects, packaging, leather and buildings grown from fungal mycelium.
+
+#### Addressing Uncertainty in Biodesign through Digital Twins: A Case of Biofabrication with Mycelium — Đan Vy Vu, Bahareh Barati (2024)
+- Type: Paper · Organisms: Fungi
+- Idea: A continuously updated digital double can help designers live with the uncertainty of growing materials.
+- What it is: A framework for digital twins in biodesign, demonstrated with a proof-of-concept twin that monitors and models mycelium as it grows into material.
+- How it works: Sensors on a mycelium growing setup stream data into a model that represents the living process, mapped through a dataflow framework drawn from bio-industries.
+- Paper: https://doi.org/10.1145/3685271 (ACM TOCHI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3685271/asset/ade6afb0-1138-461d-af50-28d1977a33db/assets/images/medium/tochi-2023-0198-f04.jpg
+- Project page: https://dl.acm.org/doi/10.1145/3685271
 
 #### Three-dimensional printing of mycelium hydrogels into living complex materials — André R. Studart (2023)
 - Type: Paper · Organisms: Fungi
@@ -2596,6 +2204,15 @@ Buildings and structures that grow, breathe, repair or host life.
 - Images: https://www.icd.uni-stuttgart.de/img/icd-imagedb/Web_RP14_Main.jpg
 - Project page: https://www.icd.uni-stuttgart.de/projects/icditke-research-pavilion-2014-15/
 
+#### Urban Algae Canopy — ecoLogicStudio (2015)
+- Type: Research prototype · Organisms: Algae
+- Idea: Let a building skin be a living, digitally tuned photosynthetic system.
+- What it is: A pavilion canopy at Expo Milano 2015 whose ETFE cushions hold living Spirulina; the algae grow faster on sunny days and shade visitors, while visitors' presence triggers the digital control of flow and growth.
+- How it works: Spirulina circulates through a modified ETFE cladding system; sensors and pumps regulate flow, oxygenation and density in response to sun and people.
+- Video: https://www.youtube.com/watch?v=bC7yLdYbnkU
+- Images: https://admin.ecologicstudio.com/wp-content/uploads/2021/03/EXPO2015-74m.jpg https://admin.ecologicstudio.com/wp-content/uploads/2021/03/WP_20150527_21_18_22_Pro__highres-scaled.jpg
+- Project page: https://www.ecologicstudio.com/projects/expo-milano-2015-urban-algae-folly
+
 #### Hy-Fi — The Living (2014)
 - Type: Research prototype · Organisms: Fungi
 - Idea: A building can be grown, used for a summer and returned to soil with almost no waste.
@@ -2834,6 +2451,15 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/67349179-d419-4b3d-b8f0-6ff307904448/Jiabao+Li+Duende+146.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f1794ba2-562b-4aff-bdc9-6fce1bdc6b5f/Jiabao+Li+Duende+147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/26f2a861-79de-4294-924e-6fd059675e2e/%E7%A4%BC%E7%89%A9.jpg
 - Project page: https://www.jiabaoli.org/gift
 
+#### Mold Printer — Valentin Postl (2024)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Machine precision draws the plan; fungal growth finishes the picture.
+- What it is: A modified 3D printer that deposits invisible mould spores onto growth medium, so computer drawings slowly reveal themselves as coloured fungal growth over days.
+- How it works: A modified 3D printer deposits spores of two non-toxic mould species on agar along a computer drawing; growth, colour and species interaction shape the final image.
+- Paper: https://doi.org/10.1145/3623509.3633396 (TEI 2024)
+- Images: https://biodigitalviz.github.io/images/mold_printer.png
+- Project page: https://dl.acm.org/doi/10.1145/3623509.3633396
+
 #### Sentient Clit: The Pussification of BioTech — Jiabao Li (2024)
 - Type: Artwork · Organisms: Cells & tissue, Neurons & organoids
 - Idea: If bioprinted organs can respond neurally, who can consent for them?
@@ -2844,6 +2470,16 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/714f6ccf-9ea2-4a1b-b5fd-38214abb33dd/Clitoris+bio+print+1-2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/25df8a3d-0242-4211-93e4-15bb0835bff8/Jiabao+Li+Sentient+Clit+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1698638118344-WF5FC29CY43FLONUQRGO/neuron+2.jpg
 - Project page: https://www.jiabaoli.org/sentient-clit
 
+#### Beauty — Johnny DiBlasi, Carlos Castellanos (2023)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: What happens to beauty when a machine learns to groom living growth?
+- What it is: A machine-microbial artwork in which a reinforcement-learning agent alters cultures of pattern-forming bacteria to make them more 'beautiful'.
+- How it works: A deep reinforcement-learning agent observes Paenibacillus and Bacillus colonies by camera and acts on them (likely by dispensing nutrients), rewarded by an aesthetic score.
+- Paper: https://doi.org/10.1145/3597626 (Proceedings of the ACM on Computer Graphics and Interactive Techniques 2023)
+- Video: https://www.youtube.com/watch?v=F-XhDxIQP-M
+- Images: https://biodigitalviz.github.io/images/beauty.jpg
+- Project page: https://dl.acm.org/doi/10.1145/3597626
+
 #### Atlas of Queer Anatomy (Filthy Anatomy) — Kuang-Yi Ku (2022)
 - Type: Speculative design · Organisms: Bacteria & microbes, Human body
 - Idea: Anatomy can include the microbes that blur where one body ends.
@@ -2852,6 +2488,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Video: https://vimeo.com/781878851
 - Images: https://www.badaward.nl/imager/assets/site/5161/Filthy-Anatomy_1_220811_114119_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/5162/Filthy-Anatomy_3_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/kuang-yi-ku-with-henry-de-vries
+
+#### Bio-Electrólisis — Gilberto Esparza (2022)
+- Type: Artwork · Organisms: Bacteria & microbes, Ecosystems
+- Idea: Let the river's own microbes etch the story of its pollution.
+- What it is: A series of prints etched onto copper plates by electrolysis powered by bacteria from the polluted Atoyac River, telling the river's history; the bioreactor etches plates live in the gallery.
+- How it works: A microbial-fuel-cell bioreactor with native Geobacter-rich bacteria is wired to copper and iron plates; the current erodes the copper, which is then printed on a press.
+- Images: http://gilbertoesparza.net/wp-content/uploads/2023/01/IMG_8819-1024x768.jpg
+- Project page: https://gilbertoesparza.net/portfolio/bio-electrolisis/
 
 #### Menstrual Garden — Jiabao Li (2022)
 - Type: Artwork · Organisms: DNA & molecules, Human body
@@ -2894,6 +2538,15 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Video: https://vimeo.com/721287551
 - Images: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/c1d67815-cc53-4cd4-b4d1-be60401c6439/03++Ani+Liu+Untitled+pumping.jpg
 - Project page: https://ani-liu.com/untitled-pumping
+
+#### BioArtBot — Tim Dobbs (2019)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: Put a lab robot on the internet so anyone can paint with living ink.
+- What it is: An open-source platform where anyone online designs pixel art that a liquid-handling robot prints onto agar with coloured E. coli, which then grows into the picture.
+- How it works: A web app converts designs into a procedure for an Opentrons robot that inoculates plates with five E. coli strains, each making a different coloured protein.
+- Video: https://www.youtube.com/watch?v=SMBGHynhiAQ
+- Images: https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061428993-TPM4UFM5MYOU6HQIIUHP/1.+bunny%2C+by+BT.jpg https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061761960-T4QAAMWHN16LNSY3T11N/1.+bunny%2C+by+BT.jpg?format=1000w
+- Project page: https://biosummit.live/2020/bio-creation-station/darktemplate-3el6p
 
 #### A Search for Ghosts in the Meat Machine (No Regrets for What You Haven't Been) — Ani Liu (2018)
 - Type: Artwork · Organisms: Human body, Cells & tissue
@@ -2987,6 +2640,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1525552300442-FEP7QGQK17Y9ULKP8HCH/scotopoiesis_press_04.jpg
 - Project page: https://www.spelapetric.org/scotopoiesis
 
+#### GFP Screen — Interspecifics (2015)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Living fluorescence can carry text, one bit per culture.
+- What it is: A 16-bit binary screen of GFP-expressing E. coli lit by black-light lamps, spelling out in ASCII a random poem 'written' from a bacterial point of view.
+- How it works: Lamps near the GFP excitation band switch individual bacterial cells on and off under software control, two characters every two milliseconds.
+- Images: https://farm2.staticflickr.com/1545/24486216019_abc97d5daf_k_d.jpg https://farm2.staticflickr.com/1492/24760358331_b204617c4e_k_d.jpg
+- Project page: https://interspecifics.cc/work/gfp-screen-2015/
+
 #### Kisses from the Future (Microbial Self Portraits) — Ani Liu (2015)
 - Type: Artwork · Organisms: Bacteria & microbes, Human body
 - Idea: The self is co-made by the microbes we exchange with the people we touch.
@@ -3062,6 +2723,15 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Images: https://arte-util.org/cms/wp-content/uploads/2013/12/280-Bullet-Proof-01-707x1060.jpg https://clotmag.com/wp-content/uploads/2023/05/The-bulletproof-skin-samples-right-before-they-were-shot-with-.22-LR-calibre-bullets-in-the-background.jpg
 - Project page: https://jalilaessaidi.com/2-6g-329ms/
 
+#### Stress-o-stat — C-Lab (Laura Cinti & Howard Boland) (2011)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Make an invisible cellular state readable as light, and let the machine that feeds the cells look alive.
+- What it is: A life-size chemostat installation in which engineered E. coli fluoresce when stressed, so bacterial stress becomes a flickering light.
+- How it works: An oxidative-stress promoter drives fluorescent protein expression; a chemostat of pumps and vessels keeps the culture alive while light and filters reveal the glow.
+- Video: https://www.youtube.com/watch?v=fEAfDs_8hD0
+- Images: https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fstressostat%2FstressOstat_01.jpg?alt=media&token=e7e082f9-fb2f-43d6-8299-477c1ca466c3 https://biodigitalviz.github.io/images/stress-o-stat.jpg
+- Project page: https://www.c-lab.co.uk/projects/stress_o_stat
+
 #### (In)visible Membrane — Sonja Bäumel (2009)
 - Type: Artwork · Organisms: Bacteria & microbes, Human body
 - Idea: The body does not end at the skin; clothing could be designed with our microbes.
@@ -3077,6 +2747,14 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - How it works: A gene fragment isolated from Kac's blood (an immune-system protein) was engineered to be expressed only in the flower's red veins.
 - Images: https://www.ekac.org/kac.nat.hist.enigma.01.jpg
 - Project page: https://www.ekac.org/nat.hist.enig.html
+
+#### The Crucible — Allison Kudla (2008)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Software that grows: the machine reads living data that its own light keeps rewriting.
+- What it is: A mechatronic installation that scans Petri dishes printed with cyanobacteria in the pattern of computer punch cards, then changes each dish's light according to what it reads.
+- How it works: A camera on a mechanical arm reads the colonies; brighter light speeds cyanobacterial growth, so the 'punch card' darkens and the reading changes over time.
+- Images: http://allisonx.com/wp-content/uploads/2008/12/algae-punch-card-petri-1024x768.jpg http://allisonx.com/wp-content/uploads/2008/12/3154897266_b6120856ec_o-1024x768.jpg https://biodigitalviz.github.io/images/crucible.jpg
+- Project page: http://allisonx.com/project/the-crucible/
 
 #### Latent Figure Protocol — Paul Vanouse (2007)
 - Type: Artwork · Organisms: DNA & molecules
@@ -3195,12 +2873,40 @@ Interfaces and computers that include living organisms: plants as sensors, fungi
 
 Devices and displays with living organisms inside, and how people care for them.
 
+#### Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems — Zoë Breed, Elvin Karana, Alessandro Bozzon, Katherine W. Song (2026)
+- Type: Paper · Organisms: Bacteria & microbes, Algae, Fungi
+- Idea: Ask which computing role the organism plays: most systems use microbes only as transducers or batteries, leaving memory, evaluation and adaptation open.
+- What it is: A taxonomy that describes bio-digital systems by eight computational layers (input, transduction, evaluation, routing, memory, adaptation, output, power), applied to 70 microorganism-based systems from HCI, design, engineering and bio-art, with an open visualisation platform.
+- How it works: Two coders from biodesign and computer science coded each system's organism, trigger, output, scale, timing and the computational roles of organism and electronics, then explored gaps in a React/D3 Sankey visualisation.
+- Paper: https://arxiv.org/abs/2601.15804 (CHI 2026)
+- Images: https://arxiv.org/html/2601.15804v1/figures/header_final_cropped.jpg https://arxiv.org/html/2601.15804v1/figures/new_bio_digital_systems_thumbnails_copy.jpg https://arxiv.org/html/2601.15804v1/figures/viz_home.png
+- Project page: https://biodigitalviz.github.io/
+
 #### Spectrospira: A Case of Designing and Displaying a Cyanobacteria Photobioreactor — Fiona Bell (2026)
 - Type: Artwork · Organisms: Bacteria & microbes
 - Idea: A data sculpture can also be a home for living microbes that must be cared for on site.
 - What it is: A sculptural data physicalization of environmental sound data that is also a working photobioreactor keeping cyanobacteria alive, shown for four months in an art museum. Made with artist Andrea Polli.
 - How it works: 3D-printed forms from sound data around a hand-blown glass vessel, with pumps and lights to culture cyanobacteria (likely Spirulina).
 - Paper: https://doi.org/10.1145/3800645.3812785 (DIS 2026)
+
+#### Mold Sounds — Alexandra Teixeira Riggs (2025)
+- Type: Research prototype · Organisms: Fungi
+- Idea: Let growth you usually clean away become a voice in the piece.
+- What it is: A sound artefact in which moulds grow over conductive components and so change the sounds it produces, reframing 'toxic' mould as a polyphonic multispecies collaborator.
+- How it works: Moulds colonise conductive materials in an enclosed environment; their growth alters electrical paths that modulate a sound circuit.
+- Paper: https://doi.org/10.1145/3689050.3704417 (TEI 2025)
+- Images: https://biodigitalviz.github.io/images/mould.jpg
+- Project page: https://dl.acm.org/doi/10.1145/3689050.3704417
+
+#### Algae Alight: Exploring the Potential of Bioluminescence through Bio-kinetic Pixels — Zoë Breed, Bahareh Barati (2024)
+- Type: Paper · Organisms: Algae
+- Idea: A pixel can be a living organism that glows when touched.
+- What it is: A living light display whose pixels are vessels of bioluminescent algae; vibration modules shake each pixel so the algae flash in controlled patterns.
+- How it works: Adjustable-weight vibration modules stimulate dinoflagellates' mechanically triggered bioluminescence, with organism-centric algorithms that rest pixels to avoid exhausting them.
+- Paper: https://doi.org/10.1145/3643834.3660728 (DIS 2024)
+- Video: https://www.youtube.com/watch?v=u_ZRy6KOdmQ
+- Images: https://biodigitalviz.github.io/images/algae_alight.png
+- Project page: https://doi.org/10.1145/3643834.3660728
 
 #### Bio-Digital Calendar: Attuning to Nonhuman Temporalities for Multispecies Understanding — Fiona Bell, Mirela Alistar (2024)
 - Type: Paper · Organisms: Bacteria & microbes, Fungi
@@ -3218,6 +2924,16 @@ Devices and displays with living organisms inside, and how people care for them.
 - How it works: Cyanobacteria embedded in an adhesive, suspendable biocomposite whose colour reflects vitality; diary photos and interviews analysed.
 - Paper: https://doi.org/10.1145/3613904.3642039 (CHI 2024)
 - Video: https://www.youtube.com/watch?v=9BqEG7GXjFQ
+
+#### Algal Relay Computer (ARC) — Yuta Ikeya, Bahareh Barati (2023)
+- Type: Research prototype · Organisms: Algae
+- Idea: Let a computer run at the pace of algae to make nonhuman time felt.
+- What it is: A 'slow' computer whose relays are switched by the growth of algae, so a calculation takes days instead of nanoseconds.
+- How it works: Spirulina cultures grow under light; sensing of their growth (likely optical) switches relays that carry the calculation forward.
+- Paper: https://doi.org/10.1145/3544549.3585874 (CHI 2023 Extended Abstracts)
+- Video: https://www.youtube.com/watch?v=FKSwIlIvUAk
+- Images: https://biodigitalviz.github.io/images/algae_relay.jpg
+- Project page: https://dl.acm.org/doi/10.1145/3544549.3585874
 
 #### Felt Experiences with Kombucha Scoby: Exploring First-person Perspectives with Living Matter — Netta Ofer, Mirela Alistar (2023)
 - Type: Paper · Organisms: Bacteria & microbes, Fungi
@@ -3244,6 +2960,25 @@ Devices and displays with living organisms inside, and how people care for them.
 - Paper: https://doi.org/10.1145/3569009.3572805 (TEI 2023 Arts Track)
 - Images: https://www.colorado.edu/atlas/sites/default/files/styles/wide_image_style/public/2025-06/microbialInterfacesBanner.png?h=2aa4d2e4&itok=hWcw52SV
 - Project page: https://www.colorado.edu/atlas/microbial-interfaces
+
+#### Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration in adult Xenopus laevis (BioDome) — Michael Levin (2022)
+- Type: Paper · Organisms: Animals, Cells & tissue
+- Idea: A short, well-timed nudge from a wearable device can start a body's own long-term growth program.
+- What it is: Adult frogs, which normally cannot regrow limbs, wore a silicone 'BioDome' with a five-drug cocktail over a fresh amputation for just 24 hours, and over the next 18 months regrew a largely functional leg.
+- How it works: A wearable silk-hydrogel bioreactor delivers growth and anti-inflammatory compounds to the wound for 24 hours; regeneration is tracked by imaging, micro-CT and sensory tests.
+- Paper: https://doi.org/10.1126/sciadv.abj2164 (Science Advances)
+- Video: https://www.youtube.com/watch?v=KQPP7AOr47g
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9be/8791464/db53aba00e45/sciadv.abj2164-f1.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC8791464/
+
+#### Cryptographic Beings — Michael Sedbon (2022)
+- Type: Artwork · Organisms: Algae
+- Idea: Living behaviour reduced to two states can hold digital data.
+- What it is: A data-storage machine that uses marimo algae balls as bits: lit balls float (1) and dark ones sink (0), so an array can store a five-letter word.
+- How it works: Aegagropila linnaei photosynthesise under controlled light, trapping gas bubbles that make them float; darkness lets them sink; tubes are addressed as bytes.
+- Video: https://www.youtube.com/watch?v=BPFqU_wRMXM
+- Images: https://freight.cargo.site/w/1200/i/13aa55cb03d22d09726d26f969946bbc5e5bf60349ec69204148670ccf1cb518/RK_00215.png https://freight.cargo.site/w/1750/i/110ee6337084ec3ec011aef5a996afc6d13cef872d6efb81d065be9030377669/RK_00209.jpg
+- Project page: https://michaelsedbon.com/Cryptographic-Beings
 
 #### Integrating Living Organisms in Devices to Implement Care-based Interactions — Jasmine Lu, Pedro Lopes (2022)
 - Type: Paper · Organisms: Slime mould, Human body
@@ -3284,6 +3019,16 @@ Devices and displays with living organisms inside, and how people care for them.
 - Paper: https://doi.org/10.1145/3461778.3462038 (DIS 2021)
 - Video: https://www.youtube.com/watch?v=XUX-4XPI1is
 
+#### Nukabot: Design of Care for Human-Microbe Relationships — Dominique Chen (2021)
+- Type: Paper · Organisms: Bacteria & microbes, Human body
+- Idea: Voice a microbial community's needs so caring for it becomes a conversation.
+- What it is: A traditional wooden nukadoko pickling bucket fitted with sensors and a voice so the lactic-acid bacteria can 'tell' people when they need stirring; six people lived with it for ten days.
+- How it works: Sensors in the rice-bran bed (likely gas and temperature) estimate fermentation state; a speech interface answers questions and prompts care.
+- Paper: https://doi.org/10.1145/3411763.3451605 (CHI 2021 Extended Abstracts)
+- Video: https://www.youtube.com/watch?v=Un597Bil9Iw
+- Images: https://biodigitalviz.github.io/images/nukabot.png
+- Project page: https://dl.acm.org/doi/10.1145/3411763.3451605
+
 #### Living Media Interfaces: A Multi-perspective Analysis of Biological Materials for Interaction — Timothy Merritt, Foad Hamidi, Mirela Alistar (2020)
 - Type: Paper · Organisms: Bacteria & microbes, Plants, Fungi
 - Idea: A living interface engages people because it is alive, and that brings duties as well as possibilities.
@@ -3307,6 +3052,16 @@ Devices and displays with living organisms inside, and how people care for them.
 - Paper: https://doi.org/10.1145/3170427.3188662 (CHI 2018 Extended Abstracts)
 - Video: https://www.youtube.com/watch?v=L1x_uDRuRfQ
 
+#### Long-term, stochastic editing of regenerative anatomy via targeting endogenous bioelectric gradients (two-headed planaria) — Michael Levin (2017)
+- Type: Paper · Organisms: Animals, Cells & tissue
+- Idea: Body shape is stored partly in a bioelectric pattern that can be rewritten, like memory.
+- What it is: Flatworms cut while their cell-to-cell electrical connections were briefly blocked regrew with a head at both ends; in many others the change stayed hidden and appeared only when they were cut again, with no change to their genome.
+- How it works: Planarian fragments regenerated in 8-OH-octanol, a gap-junction blocker; their bioelectric state was imaged with voltage-sensitive dyes and the worms were re-cut in plain water.
+- Paper: https://doi.org/10.1016/j.bpj.2017.04.011 (Biophysical Journal)
+- Video: https://www.youtube.com/watch?v=XheAMrS8Q1c
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/952dc79ee79a/gr1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/bfc91713360f/gr2.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC5443973/
+
 #### Rafigh: A Living Media Interface for Speech Intervention — Foad Hamidi (2014)
 - Type: Paper · Organisms: Fungi
 - Idea: Use the growth of a living thing you care for as motivation and feedback.
@@ -3324,6 +3079,25 @@ Devices and displays with living organisms inside, and how people care for them.
 - How it works: Magnetic (magnetotactic) bacteria in liquid are likely steered by electromagnets driven from processed camera images of the viewer.
 - Images: https://www.badaward.nl/imager/assets/site/573/LIVING-MIRROR-1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/574/LIVING-MIRROR-2_a5a12f426a1ab11909951db4fe37df8f.jpg
 - Project page: https://www.badaward.nl/artists-scientists/laura-cinti-howard-boland
+
+#### Tardigotchi — SWAMP (2010)
+- Type: Artwork · Organisms: Animals
+- Idea: Pair a real micro-animal with its virtual twin so digital care has living consequences.
+- What it is: A brass sphere that houses a living tardigrade under a microscope lens next to its digital-pet avatar; caring for the avatar also feeds and warms the real animal.
+- How it works: Interactions with the on-screen pet trigger a feeding mechanism and a heat lamp for the tardigrade, which is visible through a magnifying lens.
+- Paper: https://doi.org/10.1145/1935701.1935795 (TEI 2011)
+- Video: https://www.youtube.com/watch?v=jqILkd54ENY
+- Images: https://biodigitalviz.github.io/images/Tardigotchi.jpg
+- Project page: https://dl.acm.org/doi/10.1145/1935701.1935795
+
+#### Empathetic living media — Adrian David Cheok (2008)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Couple personal data to a living organism so people care about the data as they care about a living thing.
+- What it is: An ambient display in which genetically modified E. coli glow brighter or dimmer to show social or ecological data, such as time spent with family.
+- How it works: A closed-loop controller doses inducer fluids into E. coli cultures carrying a fluorescence gene, setting their glow in near real time.
+- Paper: https://doi.org/10.1145/1394445.1394495 (DIS 2008)
+- Images: https://biodigitalviz.github.io/images/emph_liv_media.png
+- Project page: https://doi.org/10.1145/1394445.1394495
 
 ### Plant Interfaces & Cyborg Botany
 
@@ -3536,6 +3310,15 @@ Plants as touch sensors, displays, antennas and robots.
 
 Mycelium and slime moulds that sense, signal and solve problems.
 
+#### SLIMO CITY — Mengyao Guo (2025)
+- Type: Research prototype · Organisms: Slime mould
+- Idea: Translate microscopic growth into an urban metaphor people already understand.
+- What it is: A game that turns a living slime mould's growth into a developing city visualisation, mapping its behaviour to city scale, colour palette and building height.
+- How it works: Sensors monitor Physarum polycephalum growth and environmental responses; software maps these readings to three urban parameters in real time.
+- Paper: https://doi.org/10.1145/3708557.3716346 (IUI 2025 Companion)
+- Images: https://biodigitalviz.github.io/images/slimo_city.png
+- Project page: https://doi.org/10.1145/3708557.3716346
+
 #### Sustainable memristors from shiitake mycelium for high-frequency bioelectronics — John LaRocco (2025)
 - Type: Paper · Organisms: Fungi
 - Idea: Grow computer memory from edible mushrooms instead of mining rare materials.
@@ -3544,6 +3327,15 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Paper: https://doi.org/10.1371/journal.pone.0328965 (PLOS One)
 - Images: https://content.presspage.com/uploads/2170/3dd114e8-4e60-4ca6-9e58-663439f2ddfe/1920_journal.pone.0328965.g004.png https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0328965.g001
 - Project page: https://news.osu.edu/powered-by-mushrooms-living-computers-are-on-the-rise/
+
+#### Ctrl — Michael Sedbon (2022)
+- Type: Artwork · Organisms: Slime mould
+- Idea: Put a living organism inside a game of control and watch who controls whom.
+- What it is: An installation in which ten slime moulds compete in Conway's Game of Life: their electrical potentials set the game's moves, and an AI uses light flashes to 'optimise' their behaviour.
+- How it works: Electrodes at both ends of a protoplasmic tube between two food sources measure potential differences used as coordinates; an algorithm triggers light stimuli.
+- Video: https://www.youtube.com/watch?v=z3f2JyQ8pu0
+- Images: https://freight.cargo.site/w/1200/i/c7355d1a6c8c98402ec9b9b58ac773e267fffad1bc97046d3df6cd94bdf346fa/IMG_0120.jpg
+- Project page: https://michaelsedbon.com/C-t-r-l
 
 #### Language of fungi derived from their electrical spiking activity — Andrew Adamatzky (2022)
 - Type: Paper · Organisms: Fungi
@@ -3554,6 +3346,15 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Video: https://www.youtube.com/watch?v=CT_zB9XJ7kI
 - Images: https://blogs.uwe.ac.uk/research-external-engagement/wp-content/uploads/sites/3/2022/04/mushrrooms.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49d0/8984380/3cd48c7b91b5/rsos211926f01.jpg
 - Project page: https://blogs.uwe.ac.uk/research-business-innovation/uwe-bristol-academic-researches-the-language-of-fungi-derived-from-their-electrical-spiking-activity/
+
+#### Mining logical circuits in fungi — Andrew Adamatzky (2022)
+- Type: Paper · Organisms: Fungi
+- Idea: Grown fungal materials could compute, not just insulate or package.
+- What it is: Many-input Boolean functions found in mycelium-bound composites of oyster fungus: electrical pulses in, spiking responses out, decoded as logic.
+- How it works: Pleurotus ostreatus composites receive input bits as electrical stimuli of set amplitude or frequency; their nonlinear electrical responses are mapped to logical outputs.
+- Paper: https://doi.org/10.1038/s41598-022-20080-3 (Scientific Reports 2022)
+- Images: https://biodigitalviz.github.io/images/mining.png
+- Project page: https://doi.org/10.1038/s41598-022-20080-3
 
 #### Encoding memory in tube diameter hierarchy of living flow network — Karen Alim (2021)
 - Type: Paper · Organisms: Slime mould
@@ -3582,7 +3383,7 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Images: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs40694-021-00113-8/MediaObjects/40694_2021_113_Fig1_HTML.jpg
 - Project page: https://fungalbiolbiotech.biomedcentral.com/articles/10.1186/s40694-021-00113-8
 
-#### Élève ta blob (Raise your blob) — Audrey Dussutour (2021)
+#### Élève ton blob (Raise your blob) — Audrey Dussutour (2021)
 - Type: Research prototype · Organisms: Slime mould
 - Idea: A brainless organism can become a shared experiment between astronauts and schoolchildren.
 - What it is: A citizen-science experiment by CNES and CNRS: slime moulds flew to the International Space Station with astronaut Thomas Pesquet while thousands of French classrooms ran the same feeding experiments on Earth.
@@ -3609,6 +3410,15 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Images: https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg https://cordis.europa.eu/docs/article/images/2023-10/446827.jpg
 - Project page: https://www.fungar.eu/
 
+#### Composing with Biomemristors: Is Biocomputing the New Technology of Computer Music? — Eduardo Reck Miranda (2018)
+- Type: Paper · Organisms: Slime mould
+- Idea: A living memory component can shape how a music system answers a performer.
+- What it is: PhyBox, a biocomputer of four slime-mould memristors that generates music interactively; the article walks through a composition made with it.
+- How it works: Music input is encoded as voltage transitions through Physarum biomemristors, and the currents they yield are decoded as musical output.
+- Paper: https://doi.org/10.1162/comj_a_00469 (Computer Music Journal 2018)
+- Images: https://biodigitalviz.github.io/images/Biocomputer_Rhythms.png
+- Project page: https://direct.mit.edu/comj/article/42/3/28/94775/Composing-with-Biomemristors-Is-Biocomputing-the
+
 #### Towards fungal computer — Andrew Adamatzky (2018)
 - Type: Paper · Organisms: Fungi
 - Idea: A mushroom colony is a wet, self-growing circuit board.
@@ -3619,6 +3429,14 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/49a6/6227805/0820f15791d1/rsfs20180029-g1.jpg
 - Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC6227805/
 
+#### [Slime Mould] Living Screens — IAAC (2017)
+- Type: Research prototype · Organisms: Slime mould
+- Idea: A facade could display information by growing it.
+- What it is: A student architecture project that grows slime mould inside panels and steers its growth with food, salt and light so that its yellow network forms a changing screen.
+- How it works: Physarum polycephalum is cultured under controlled moisture and light; oat food sources attract it and salt or light repel it to draw patterns.
+- Images: https://www.iaacblog.com/wp-content/uploads/2017/06/final-presentation_0646.jpg https://www.iaacblog.com/wp-content/uploads/2017/04/hud_circles_page_01.jpg
+- Project page: https://www.iaacblog.com/projects/slime-mould-living-screens-2/
+
 #### Habituation in non-neural organisms: evidence from slime moulds — Audrey Dussutour (2016)
 - Type: Paper · Organisms: Slime mould
 - Idea: Learning does not need a nervous system.
@@ -3628,6 +3446,16 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Video: https://www.youtube.com/watch?v=dYQG6ac38UA
 - Images: https://upload.wikimedia.org/wikipedia/commons/6/6a/Habituation_P._polycephalum.png https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bccc/4855389/d7b108bb6413/rspb20160446-g1.jpg
 - Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC4855389/
+
+#### Physarum-Based Memristors for Computer Music — Eduardo Reck Miranda (2016)
+- Type: Paper · Organisms: Slime mould
+- Idea: A living component whose resistance remembers can be a musical partner.
+- What it is: Grown slime-mould memristors used to answer musical material: the organism's changing resistance turns seed melodies into responses played in a composition for live performance.
+- How it works: Physarum polycephalum grown between electrodes behaves as a memristor; note sequences encoded as voltages pass through it and the measured currents are decoded back into notes.
+- Paper: https://doi.org/10.1007/978-3-319-26662-6_34 (Advances in Unconventional Computing (Springer) 2016)
+- Video: https://www.youtube.com/watch?v=5y36KcWmBtw
+- Images: https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-26662-6_34/MediaObjects/385644_1_En_34_Fig2_HTML.gif
+- Project page: https://doi.org/10.1007/978-3-319-26662-6_34
 
 #### Biocomputer Music — Eduardo Reck Miranda (2015)
 - Type: Artwork · Organisms: Slime mould
@@ -3647,6 +3475,15 @@ Mycelium and slime moulds that sense, signal and solve problems.
 - Paper: https://doi.org/10.1007/s12668-014-0156-3 (BioNanoScience)
 - Images: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs12668-014-0156-3/MediaObjects/12668_2014_156_Fig1_HTML.gif
 - Project page: https://link.springer.com/article/10.1007/s12668-014-0156-3
+
+#### Slime mould logic gates based on frequency changes of electrical potential oscillation — Andrew Adamatzky (2014)
+- Type: Paper · Organisms: Slime mould
+- Idea: A single cell's rhythm can encode Boolean values.
+- What it is: Logic gates built from protoplasmic tubes of the slime mould Physarum polycephalum, where inputs are light or food and outputs are shifts in the tube's electrical oscillation frequency.
+- How it works: Electrodes record the tubes' electrical potential oscillation; stimuli change its frequency, and thresholds on that change are read as logical 0/1, cascaded with software.
+- Paper: https://doi.org/10.1016/j.biosystems.2014.08.001 (BioSystems 2014)
+- Images: https://biodigitalviz.github.io/images/logic-gate.jpg
+- Project page: https://doi.org/10.1016/j.biosystems.2014.08.001
 
 #### Characteristics of pattern formation and evolution in approximations of Physarum transport networks — Jeff Jones (2010)
 - Type: Paper · Organisms: Slime mould
@@ -3699,7 +3536,7 @@ Mycelium and slime moulds that sense, signal and solve problems.
 #### Robot control with biological cells — Soichiro Tsuda (2007)
 - Type: Paper · Organisms: Slime mould
 - Idea: Use the rhythm of a living cell as a robot's nervous system.
-- What it is: A six-legged robot was controlled by a living slime mould grown on a star-shaped circuit; light shone on the cell by the robot's sensors changed its oscillations, which drove the legs.
+- What it is: A six-legged robot was controlled by a living slime mould grown on a star-shaped circuit; light shone on the cell by the robot's sensors changed its oscillations, which drove the legs. In 2010 Tsuda also drove a wheeled robot the same way.
 - How it works: Physarum on a patterned electrode reacts to light stimuli; its local thickness oscillations are measured and mapped to motor commands for a hexapod robot.
 - Paper: https://doi.org/10.1016/j.biosystems.2006.09.016 (BioSystems)
 - Video: https://www.youtube.com/watch?v=EbHDSabIN-w
@@ -3770,6 +3607,32 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Paper: https://doi.org/10.1145/3544548.3581417 (CHI 2023)
 - Video: https://www.youtube.com/watch?v=x_ZvWRkyFuE
 
+#### Archaean Memory Farm — Where Dogs Run (2022)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Treat ancient bacteria as a slow, geological storage medium.
+- What it is: A robotic farm that cultivates magnetotactic bacteria and uses magnetic fields to write data into them, aiming at 'geological clots of information' made by humans and bacteria together.
+- How it works: A roboticised setup keeps magnetotactic bacteria alive and applies patterned magnetic fields so that their magnetite accumulates as a physical record.
+- Paper: https://doi.org/10.1162/leon_a_02278 (Leonardo 2022)
+- Video: https://www.youtube.com/watch?v=R0xcev8793U
+- Images: https://starts.eu/wp-content/uploads/Where-Dogs-Run_Archean-Memory-Farm_cover_Credit-WDR.jpg
+- Project page: https://doi.org/10.1162/leon_a_02278
+
+#### Bacterial Networked Electronic Interface — iGEM Paris Bettencourt (2022)
+- Type: Research prototype · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Toward an 'Internet of Living Things' with bacteria as networked processors.
+- What it is: A two-way electrical interface between engineered bacteria and computers: information from the internet is sent as an electrical signal into a bacterial population, processed by genetic circuits and read back electronically.
+- How it works: An electro-genetic toolkit of 19 electro-responsive promoters, a processor plasmid and an output plasmid, plus hardware to stimulate and monitor gene expression.
+- Images: https://biodigitalviz.github.io/images/bacteria_interface.png https://static.igem.wiki/teams/4216/wiki/wiki/general-scheme.png
+- Project page: https://2022.igem.wiki/paris-bettencourt/
+
+#### EuglPollock: Rethinking Interspecies Collaboration through Art Making — Kyungwon Lee, Seung Ah Lee (2022)
+- Type: Paper · Organisms: Cells & tissue
+- Idea: Co-author a painting with a microorganism.
+- What it is: A platform for making artworks with Euglena: users guide the cells with light under a microscope, and the cells' swimming traces become unique, non-repeatable paintings.
+- How it works: Light-projection microscopy steers phototactic Euglena gracilis; their tracked trajectories are rendered as brush strokes in the manner of action painting.
+- Paper: https://doi.org/10.1145/3503161.3548151 (ACM Multimedia 2022)
+- Project page: https://dl.acm.org/doi/10.1145/3503161.3548151
+
 #### Flavorium: An Exploration of Flavobacteria's Living Aesthetics for Living Color Interfaces — Elvin Karana, Raphael Kim (2022)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Bacteria can be a colour display whose colours are alive and change over weeks.
@@ -3778,12 +3641,30 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Paper: https://doi.org/10.1145/3491102.3517713 (CHI 2022)
 - Video: https://www.youtube.com/watch?v=Bgheg_J5qws
 
+#### Microbial biofilms for electricity generation from water evaporation and power to wearables — Jun Yao (2022)
+- Type: Paper · Organisms: Bacteria & microbes, Human body
+- Idea: Microbial material can harvest energy from evaporation without being fed.
+- What it is: A thin sheet of bacterial biofilm that continuously generates electricity as water evaporates from it, worn as a skin patch that powers wearables from sweat and moisture.
+- How it works: A ~40 µm engineered biofilm (likely Geobacter sulfurreducens) sits between mesh electrodes; water evaporation through it drives an ionic current.
+- Paper: https://doi.org/10.1038/s41467-022-32105-6 (Nature Communications 2022)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32105-6/MediaObjects/41467_2022_32105_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41467-022-32105-6
+
 #### Microbe-HCI: Introduction and Directions for Growth — Raphael Kim, Pat Pataranutaporn, Ingmar Riedel-Kruse, Mirela Alistar (2021)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Microbe-HCI is a community: bring biologists, artists and interaction designers into one room.
 - What it is: The CHI special interest group that first gathered researchers who put microorganisms into HCI, mapping people, themes and future directions of the field.
 - How it works: Structured SIG discussion at CHI 2021 organised by Kim, Pataranutaporn, Forman, Lee, Riedel-Kruse, Alistar, Lazaro Vasquez and Vega.
 - Paper: https://doi.org/10.1145/3411763.3450408 (CHI 2021 Extended Abstracts)
+
+#### ALICE — Rachel Armstrong, Julie Freeman, Ioannis Ieropoulos (2020)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Microbes can be both the power source and the storyteller of an interface.
+- What it is: An interactive artwork powered by a bank of microbial fuel cells that also displays their data as animated creatures ('mobes') and sound, treating microbial electrons as data.
+- How it works: Fifteen MFCs power a small computer, sensors and lights; sensor data feed an artificial-life algorithm based on bacterial foraging that animates the mobes.
+- Video: https://www.youtube.com/watch?v=ye3N_X4dOKA
+- Images: https://alice-interface.eu/assets/img/alice_479A9372crop.jpg https://alice-interface.eu/assets/img/white_mfc_detail-crop.png
+- Project page: https://alice-interface.eu/
 
 #### Living Bits: Opportunities and Challenges for Integrating Living Microorganisms in Human-Computer Interaction — Pat Pataranutaporn (2020)
 - Type: Paper · Organisms: Bacteria & microbes, Human body
@@ -3794,6 +3675,33 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Video: https://www.youtube.com/watch?v=lIp1kZ_JiBM
 - Images: https://dam-prod.media.mit.edu/thumb/2020/03/18/overview.png.1400x1400.png
 - Project page: https://www.media.mit.edu/projects/living-bits/overview/
+
+#### Living Water – POND — Nova Innova (2020)
+- Type: Artwork · Organisms: Bacteria & microbes, Ecosystems
+- Idea: Give water a voice powered by the life in it.
+- What it is: A floating network of lights in city water powered by the water's own microbes; the lights' colours show water quality measured by sensors running on that microbial power.
+- How it works: Microbial fuel cells capture electrons released as bacteria break down organic matter; the power runs water-quality sensors and a light 'language' after dark.
+- Video: https://www.youtube.com/watch?v=sWj5ujsJmNI
+- Images: https://www.novainnova.com/wp-content/uploads/2024/10/POND-tech-V4-1876x2048.png https://www.novainnova.com/wp-content/uploads/2026/09/POND_29-1-26_BrianLubking_DEF-91-crop-800x800.jpg
+- Project page: https://www.novainnova.com/pond/
+
+#### MicroAquarium: An Immersive and Interactive Installation with Living Microorganisms — Kyungwon Lee, Seung Ah Lee (2020)
+- Type: Paper · Organisms: Cells & tissue
+- Idea: Scale the viewer down to the cells' world, and let hands speak in light.
+- What it is: An immersive installation where visitors' hand motions become light patterns projected onto living phototactic microorganisms, whose magnified response fills a large screen like an aquarium.
+- How it works: A custom light-projection microscope with a hand-tracking input device projects patterns onto Euglena and shows the live view on an immersive display.
+- Paper: https://doi.org/10.1145/3334480.3383164 (CHI 2020 Extended Abstracts)
+- Project page: https://dl.acm.org/doi/10.1145/3334480.3383164
+
+#### Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts — Ingmar Riedel-Kruse, Seung Ah Lee (2020)
+- Type: Paper · Organisms: Cells & tissue
+- Idea: Mix living cells, virtual game objects and human players in one mixed reality.
+- What it is: A biotic Pac-Man in which players steer a living Euglena cell with light through a real microfluidic maze while virtual ghosts and collectibles are overlaid on the microscope view.
+- How it works: A microscope with directional LED stimuli guides phototactic Euglena gracilis; computer vision tracks the cell and merges it with game logic.
+- Paper: https://doi.org/10.1145/3313831.3376378 (CHI 2020)
+- Video: https://www.youtube.com/watch?v=sy5Mistz150
+- Images: https://biodigitalviz.github.io/images/pac_eugelena.png
+- Project page: https://dl.acm.org/doi/10.1145/3313831.3376378
 
 #### Semina Aeternitatis: Using Bacteria for Tangible Interaction with Data — Mirela Alistar (2020)
 - Type: Artwork · Organisms: Bacteria & microbes, DNA & molecules
@@ -3833,6 +3741,26 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - How it works: Living mould colonies grow on agar in a physical game board; their growth is likely captured by camera and turned into game state in an online interface.
 - Paper: https://doi.org/10.1145/3235765.3235798 (FDG 2018)
 
+#### BioSoNot 1.2 — Gilberto Esparza (2017)
+- Type: Artwork · Organisms: Bacteria & microbes, Ecosystems
+- Idea: A polluted river can be an instrument, and playing it can help clean it.
+- What it is: A musical synthesizer that plays the biological activity of microorganisms in contaminated water samples while those microbes clean the water.
+- How it works: Water from polluted sites fills microbial fuel cells; the fluctuating electrical output from bacterial metabolism is translated into sound.
+- Paper: https://doi.org/10.1145/3072940.3080500 (ACM SIGGRAPH 2017 Art Gallery)
+- Video: https://www.youtube.com/watch?v=pDvqnnBTjD0
+- Images: https://samim.io/static/upload/0biosonot-12.jpg
+- Project page: https://dl.acm.org/doi/10.1145/3072940.3080500
+
+#### Electricity generation from digitally printed cyanobacteria — Marin Sawa, Paolo Bombelli (2017)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Print living power sources like you print a page.
+- What it is: A paper-based bio-solar cell made with a standard inkjet printer: living cyanobacteria printed onto carbon-nanotube ink generate current in light and, as a 'bio-battery', in the dark.
+- How it works: Synechocystis cells are inkjet-printed over a printed carbon-nanotube conductive layer; photosynthetic electron export produces current (biophotovoltaics).
+- Paper: https://doi.org/10.1038/s41467-017-01084-4 (Nature Communications 2017)
+- Video: https://www.youtube.com/watch?v=1KU7jE4_DnI
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-01084-4/MediaObjects/41467_2017_1084_Fig1_HTML.jpg https://www.designboom.com/wp-content/uploads/2017/11/wallpaper-bio-solar-panel-designboom01-1.jpg
+- Project page: https://www.nature.com/articles/s41467-017-01084-4
+
 #### Interactive Biology Cloud Lab — Ingmar Riedel-Kruse (2017)
 - Type: Research prototype · Organisms: Cells & tissue
 - Idea: Put living cells in the cloud so anyone can experiment with them.
@@ -3841,12 +3769,55 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Paper: https://doi.org/10.1145/3051457.3053994 (Learning @ Scale 2017)
 - Video: https://www.youtube.com/watch?v=PuHRoSVmE_w
 
+#### Let the microbes power your sensing display — Maurizio Rossi (2017)
+- Type: Paper · Organisms: Bacteria & microbes, Plants
+- Idea: A potted plant can be the battery of an Internet-of-Things device.
+- What it is: A self-powered sensor node that drives an e-paper display using only electricity from electrogenic bacteria living with plant roots.
+- How it works: A plant-microbial fuel cell feeds a custom power-management circuit that stores energy and wakes the sensor and e-paper display.
+- Paper: https://doi.org/10.1109/ICSENS.2017.8234406 (IEEE SENSORS 2017)
+- Images: https://biodigitalviz.github.io/images/sensing_display.png
+- Project page: https://doi.org/10.1109/ICSENS.2017.8234406
+
+#### Long range wireless sensing powered by plant-microbial fuel cell — Maurizio Rossi (2017)
+- Type: Paper · Organisms: Bacteria & microbes, Plants
+- Idea: Soil bacteria can power a wireless sensor if the electronics learn to sleep.
+- What it is: An ultra-low-power sensor that measures its surroundings and sends data over long-range radio, powered by a plant-microbial fuel cell that only needs watering.
+- How it works: FRAM keeps microcontroller state so the electronics can shut down fully between measurements while bacteria recharge the store.
+- Paper: https://doi.org/10.23919/DATE.2017.7927258 (DATE 2017)
+- Images: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0Wxvm4QU0B-fkBeOgnV5jbOSTQw95wE7vQ&s
+- Project page: https://ieeexplore.ieee.org/document/7927258
+
+#### Microbial Sonorities — Carlos Castellanos (2017)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Listen to microbial metabolism as rhythm and learn its patterns with machine learning.
+- What it is: A hybrid biological-electronic sound system in which voltage changes from an array of microbial fuel cells modulate modular synthesizers, with machine learning interpreting the bacterial patterns.
+- How it works: Amplified MFC signals become control voltages for a Eurorack synth and Max/MSP; classifiers trigger presets and regression predicts voltage changes.
+- Images: https://www.ccastellanos.com/wp-content/gallery/microbial-sonorities/d.jpg
+- Project page: https://www.ccastellanos.com/projects/microbial-sonorities/
+
 #### Stretchable Living Materials and Devices with Hydrogel–Elastomer Hybrids Hosting Programmed Cells — Xuanhe Zhao (2017)
 - Type: Paper · Organisms: Bacteria & microbes, Human body
 - Idea: Wearable living sensors need a soft, stretchable home that keeps cells alive and contained.
 - What it is: A stretchable glove and bandage with channels of living engineered bacteria that fluoresce when the wearer touches specific chemicals.
 - How it works: Programmed E. coli live in hydrogel chambers bonded to elastomer; chemicals diffuse in and trigger fluorescent reporters. With Timothy Lu.
 - Paper: https://doi.org/10.1073/pnas.1618307114 (PNAS 2017)
+
+#### Towards a biohybrid sensing platform built on impedance-based bacterial flagellar motor tachometry — Michel Maharbiz (2017)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Borrow a bacterium's near-perfect chemical sense and read it electronically.
+- What it is: A biohybrid chemical sensor that reads how fast and in which direction a single E. coli flagellar motor spins, using that bacterium's own chemotaxis as the sensing front end.
+- How it works: Lithographic silica shaft encoders bind to flagellar motors; a four-point impedance array detects their rotation in a 4 x 4 micron region.
+- Paper: https://doi.org/10.1109/BIOCAS.2017.8325135 (IEEE BioCAS 2017)
+- Images: https://biodigitalviz.github.io/images/biohybrid_sensing.png
+- Project page: https://ieeexplore.ieee.org/document/8325135
+
+#### BioGraphr: Science Games on a Biotic Computer — Ingmar Riedel-Kruse (2016)
+- Type: Paper · Organisms: Cells & tissue
+- Idea: At millimetre scale a population of microbes becomes a playable screen.
+- What it is: A tabletop gaming system that projects images into a mini-aquarium of millions of Euglena, which rearrange into visible bioconvection patterns within seconds for players to play with.
+- How it works: A projector shines light patterns onto phototactic Euglena gracilis; a camera tracks the resulting cell density patterns to drive games.
+- Paper: https://doi.org/10.26503/dl.v2016i1.753 (DiGRA/FDG 2016)
+- Project page: https://doi.org/10.26503/dl.v2016i1.753
 
 #### Biota Beats — Ani Liu (2016)
 - Type: Research prototype · Organisms: Bacteria & microbes
@@ -3863,6 +3834,23 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - How it works: Four joystick-controlled LEDs stimulate phototactic Euglena; the phone camera tracks cells in real time.
 - Paper: https://doi.org/10.1371/journal.pone.0162602 (PLOS ONE 2016)
 - Video: https://www.youtube.com/watch?v=C8uDOhuswgA
+
+#### Micro-Rhythms — Interspecifics (2016)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: Let microbes write a graphic score that a machine listens to.
+- What it is: An installation where tiny voltage variations from soil-bacteria fuel cells drive arrays of lights; a computer-vision algorithm finds matching light sequences and turns them into octophonic sound.
+- How it works: Microbial fuel cells filled with local soil power LEDs; three Raspberry Pi cameras with OpenCV track light patterns and SuperCollider plays them.
+- Video: https://www.youtube.com/watch?v=33gF1bvw2yQ
+- Images: https://farm6.staticflickr.com/5801/30454096641_4c9fa188d1_k_d.jpg https://farm6.staticflickr.com/5520/30541618515_d2b6f89fd2_k_d.jpg
+- Project page: https://interspecifics.cc/work/micro-ritmos-2016/
+
+#### Tangible Interactive Microbiology for Informal Science Education — Seung Ah Lee, Ingmar Riedel-Kruse (2015)
+- Type: Paper · Organisms: Cells & tissue
+- Idea: Touch the screen, touch the microbe: drawing becomes a light stimulus for living cells.
+- What it is: A touch-screen microscope station where visitors draw on a live view of Euglena; the drawing is projected into the chamber as light and the cells swim in response.
+- How it works: A projector-equipped microscope images phototactic Euglena gracilis and projects users' touch drawings onto the microfluidic chamber.
+- Paper: https://doi.org/10.1145/2677199.2680561 (TEI 2015)
+- Project page: https://doi.org/10.1145/2677199.2680561
 
 #### Trap it!: A Playful Human-Biology Interaction for a Museum Installation — Ingmar Riedel-Kruse (2015)
 - Type: Paper · Organisms: Cells & tissue
@@ -3898,6 +3886,14 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - Video: https://www.youtube.com/watch?v=Ku1-_MOzkTE
 - Project page: https://plant-e.com/
 
+#### A Micro "Flea Circus": Self Assembly of Bacteria Through Spatio-Temporal Control of Aerotaxis — Michel Maharbiz (2006)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Electronics can choreograph living cells by shaping what they want, here oxygen.
+- What it is: A microfluidic chip whose tiny electrodes release doses of oxygen, so swimming Bacillus subtilis gather and self-assemble wherever the chip creates an oxygen hotspot.
+- How it works: Electrolysis at an array of microelectrodes patterns dissolved-oxygen gradients in space and time; aerotactic B. subtilis follow them.
+- Paper: https://doi.org/10.1109/MEMSYS.2006.1627861 (IEEE MEMS 2006)
+- Project page: https://ieeexplore.ieee.org/document/1627861
+
 #### Engineering Escherichia coli to See Light — Christopher Voigt (2005)
 - Type: Paper · Organisms: Bacteria & microbes
 - Idea: Bacteria can be pixels that sense light and display an image.
@@ -3929,6 +3925,16 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://www.ntu.edu.sg/media/images/default-source/hub-news/ai-powered-robot-assembles-search-and-rescue-cyborg-insects.jpg?sfvrsn=e402bfbb_1 https://mediasvc.eurekalert.org/Api/v1/Multimedia/5b6abd45-9ddb-43d8-8d02-480c0afa2be2/Rendition/low-res/Content/Public
 - Project page: https://www.ntu.edu.sg/news/detail/ai-powered-robot-assembles-search-and-rescue-cyborg-insects
 
+#### Navigating microalgal biohybrids through confinements with magnetic guidance — Metin Sitti (2025)
+- Type: Paper · Organisms: Algae
+- Idea: Combine an organism's propulsion with external magnetic steering to navigate confinement.
+- What it is: Magnetised green microalgae that swim on their own and are steered by magnetic fields through narrow, viscous spaces that mimic tissue and soil.
+- How it works: Chlamydomonas reinhardtii cells are coated with magnetic material in high yield; external fields guide them, producing backtracking and crossing behaviours in confined channels.
+- Paper: https://doi.org/10.1016/j.matt.2025.102052 (Matter 2025)
+- Video: https://www.youtube.com/watch?v=e0trR_1t5As
+- Images: https://www.cell.com/cms/10.1016/j.matt.2025.102052/asset/52030a26-3f3e-46a7-b557-7b8ef4ce3ff0/main.assets/fx1.jpg
+- Project page: https://doi.org/10.1016/j.matt.2025.102052
+
 #### Swarm navigation of cyborg-insects in unknown obstructed soft terrain — Hirotaka Sato (2025)
 - Type: Paper · Organisms: Insects
 - Idea: Combine animal agility with swarm algorithms rather than controlling each insect tightly.
@@ -3959,6 +3965,15 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://caltech-prod.resources.caltech.edu/main/images/Dabiri-Jellyfish-Explorers-w.91523faf.fill-1600x810-c100.jpg
 - Project page: https://www.caltech.edu/about/news/building-bionic-jellyfish-for-ocean-exploration
 
+#### Light-deformable microrobots shape up for the biological obstacle course — Philip Wijesinghe (2024)
+- Type: Paper · Organisms: Algae, Cells & tissue
+- Idea: A microalga's own shape-changing can be the robot's actuator, steered by light.
+- What it is: A commentary on Euglena gracilis turned into soft bio-microrobots whose motion and body shape are controlled with light, for tasks such as drug delivery and removing diseased cells.
+- How it works: Light stimulates phototaxis and cell-body deformation of Euglena gracilis, so optical patterns steer and reshape the living microrobots.
+- Paper: https://doi.org/10.1038/s41377-024-01448-8 (Light: Science & Applications 2024)
+- Images: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-024-01448-8/MediaObjects/41377_2024_1448_Fig1_HTML.png
+- Project page: https://www.nature.com/articles/s41377-024-01448-8
+
 #### Perforation-type anchors inspired by skin ligament for robotic face covered with living skin — Shoji Takeuchi (2024)
 - Type: Paper · Organisms: Cells & tissue, Human body
 - Idea: Anchor living tissue the way ligaments do, so a machine can wear a face.
@@ -3979,7 +3994,7 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://news.cornell.edu/sites/default/files/2024-08/figure-6a.jpg https://www.popsci.com/wp-content/uploads/2024/09/mushroom-robot.png
 - Project page: https://news.cornell.edu/stories/2024/08/biohybrid-robots-controlled-electrical-impulses-mushrooms
 
-#### Anthrobots: Motile living biobots self-construct from adult human somatic progenitor seed cells — Gizem Gumuskaya, Michael Levin (2023)
+#### Anthrobots: Motile living biobots self-construct from adult human somatic progenitor seed cells — Gizem Gumuskaya, Michael Levin, Douglas Blackiston (2023)
 - Type: Paper · Organisms: Cells & tissue, Human body
 - Idea: Our own cells, freed from the body plan, can become new kinds of creatures.
 - What it is: Single adult human airway cells grown in a new environment built themselves into moving multicellular bots; placed on a scratched layer of human neurons, they helped the gap close.
@@ -3988,6 +4003,14 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Video: https://www.youtube.com/watch?v=4z-3DTlSnp0
 - Images: https://now.tufts.edu/sites/default/files/uploaded-assets/images/2023-11/231130_anthrobots_lg.jpg https://wyss-prod.imgix.net/app/uploads/2023/11/29101538/Anthrobot-with-Cilia-02.jpg?auto=format%2Ccompress&crop=faces%2Centropy&fit=crop&q=50&w=800&s=db2cbe30b4a028e3f25f665e437c31f2
 - Project page: https://now.tufts.edu/2023/11/30/scientists-build-tiny-biological-robots-human-cells
+
+#### Precisely Navigated Biobot Swarms of Bacteria Magnetospirillum magneticum for Water Decontamination — Martin Pumera (2023)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Living bacteria can be both the robot and the cleaning agent.
+- What it is: Swarms of magnetotactic bacteria steered by rotating magnetic fields to capture and remove the pesticide chlorpyrifos from water.
+- How it works: Magnetospirillum magneticum AMB-1 carry natural magnetite crystals; programmed clockwise fields make them swarm, and they bind organic pollutants.
+- Paper: https://doi.org/10.1021/acsami.2c16592 (ACS Applied Materials & Interfaces 2023)
+- Project page: https://pubs.acs.org/doi/10.1021/acsami.2c16592
 
 #### Remote control of muscle-driven miniature robots with battery-free wireless optoelectronics — Rashid Bashir (2023)
 - Type: Paper · Organisms: Cells & tissue, Animals
@@ -4099,6 +4122,14 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110526/SmellicopterWEB001.jpg https://cdn.uw.edu/wp-content/uploads/sites/6/2020/12/07110529/SmellicopterWEB003-750x500.jpg
 - Project page: https://www.washington.edu/news/2020/12/07/smellicopter-avoids-obstacles-uses-live-moth-antenna-to-smell/
 
+#### Bacterbrain — Ivan Henriques (2019)
+- Type: Artwork · Organisms: Bacteria & microbes
+- Idea: What would a robot do if its 'brain' were a bacterial colony?
+- What it is: A tensegrity structure that moves and reshapes itself according to electrical fluctuations from photosynthetic bacteria, which also power it.
+- How it works: Rhodobacter sphaeroides with potassium permanganate form photosynthetic microbial fuel cells; their voltage variations trigger motors that shift weights inside the structure.
+- Images: https://ivanhenriques.com/wp-content/uploads/2019/11/IMG_3417-1024x683.jpg https://ivanhenriques.com/wp-content/uploads/2019/05/IMG_3406.jpg
+- Project page: https://ivanhenriques.com/works/bacterbrain/
+
 #### Neuromuscular actuation of biohybrid motile bots — Taher Saif (2019)
 - Type: Paper · Organisms: Cells & tissue, Neurons & organoids
 - Idea: Give a biohybrid robot its own nerves.
@@ -4128,10 +4159,10 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://images.squarespace-cdn.com/content/v1/57ed3edb37c58182f815c65f/1524758481020-IS6JIXV2ZM3NWFMJ64FB/content_Electromicroscopic_image_of_the_RBC_microswimmer.jpg
 - Project page: https://www.is.mpg.de/news/multifunctional-bacterial-microswimmer-able-to-deliver-cargo-and-destroy-itself
 
-#### Toward self-growing soft robots inspired by plant roots (Plantoid) — Barbara Mazzolai (2017)
+#### Toward self-growing soft robots inspired by plant roots and based on additive manufacturing technologies — Barbara Mazzolai (2017)
 - Type: Paper · Organisms: Plants
 - Idea: Take plants as the model for robots that grow instead of walk.
-- What it is: A robot root that moves into soil by growing: a 3D printer in its tip lays down new material, so it lengthens from the tip like a real root.
+- What it is: A robot root that follows IIT's earlier Plantoid project and moves into soil by growing: a 3D printer in its tip lays down new material, so it lengthens from the tip like a real root.
 - How it works: A plant-inspired robot, not a biohybrid: a tip-mounted additive-manufacturing mechanism deposits thermoplastic filament layer by layer as the root advances.
 - Paper: https://doi.org/10.1089/soro.2016.0080 (Soft Robotics)
 - Video: https://www.youtube.com/watch?v=mrEAwZJKxzE
@@ -4147,6 +4178,15 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Video: https://www.youtube.com/watch?v=5MJZd1PnqvM
 - Images: https://www.newswise.com/images/uploads/2016/07/18/biobot.jpg
 - Project page: https://www.newswise.com/articles/researchers-build-a-crawling-robot-from-sea-slug-parts-and-a-3-d-printed-body
+
+#### Caravel — Ivan Henriques (2016)
+- Type: Artwork · Organisms: Bacteria & microbes, Plants, Ecosystems
+- Idea: A machine that cleans the water that powers it.
+- What it is: A hexagonal floating bio-machine that harvests electricity from bacteria in polluted water while its plants and fuel cells filter that water; units can join into a swarm.
+- How it works: Seven hexagons are microbial fuel cells with carbon-brush anodes and steel-mesh cathodes where Geobacter-dominated bacteria oxidise pollutants; trapezoids hold filtering water plants such as Pistia.
+- Video: https://www.youtube.com/watch?v=jJg0PEP5Ukc
+- Images: https://ivanhenriques.com/wp-content/uploads/2016/04/img_1996.jpg https://ivanhenriques.com/wp-content/uploads/2016/04/caravel_korneel-e1517413346684.jpg
+- Project page: https://ivanhenriques.com/works/caravel/
 
 #### Optogenetic skeletal muscle-powered adaptive biological machines — Ritu Raman, Rashid Bashir (2016)
 - Type: Paper · Organisms: Cells & tissue, Animals
@@ -4187,6 +4227,14 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Video: https://www.youtube.com/watch?v=7XbElMI6OaA
 - Images: https://scx2.b-cdn.net/gfx/news/hires/2014/tinyswimming.jpg
 - Project page: https://phys.org/news/2014-01-tiny-bio-bots-boldly-bot-swum.html
+
+#### Symbiotic Machine — Ivan Henriques (2014)
+- Type: Artwork · Organisms: Algae
+- Idea: A machine that lives off its environment the way an animal grazes.
+- What it is: A floating bio-machine that collects algae from the water, harvests energy from their photosynthesis and uses it to move and collect more algae.
+- How it works: A worm-screw 'mouth' pulls in Spirogyra; the algae feed a photosynthetic energy cell (likely a bio-photovoltaic design by VU Amsterdam biophysicists) whose current drives the floating robot.
+- Images: https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07923.jpg https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07940_edit.jpg
+- Project page: https://ivanhenriques.com/works/symbiotic-machine/
 
 #### Three-dimensionally printed biological machines powered by skeletal muscle — Rashid Bashir (2014)
 - Type: Paper · Organisms: Cells & tissue, Animals
@@ -4237,6 +4285,15 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Images: https://scx2.b-cdn.net/gfx/news/hires/2012/thesebotswer.jpg
 - Project page: https://phys.org/news/2012-11-bots-cells-power-biological-machines.html
 
+#### EcoBot-III: a robot with guts — Ioannis Ieropoulos (2010)
+- Type: Research prototype · Organisms: Bacteria & microbes
+- Idea: A robot that eats, digests and excretes, powered by the metabolism of its microbes.
+- What it is: A robot powered by 48 microbial fuel cells that collected its own food and water from an arena, digested it with bacteria, excreted the waste and kept itself running for seven days.
+- How it works: Anaerobic bacteria in a stack of microbial fuel cells oxidise organic feedstock and release electrons to the anodes; a pump circulates food, water and waste like a digestive tract.
+- Video: https://www.youtube.com/watch?v=qU6zi1_aZiw
+- Images: https://upload.wikimedia.org/wikipedia/en/7/71/Image_eco_bot_-III.jpg
+- Project page: https://en.wikipedia.org/wiki/EcoBot
+
 #### Remote radio control of insect flight — Hirotaka Sato (2009)
 - Type: Paper · Organisms: Insects
 - Idea: Instead of building a flying robot, steer an insect that already flies.
@@ -4246,6 +4303,25 @@ Robots driven by muscle, cells, fungi or whole organisms.
 - Video: https://www.youtube.com/watch?v=UhPbln4vnvw
 - Images: https://content.time.com/time/photoessays/2009/50_best_inventions/inventions_cyborg_beetle.jpg
 - Project page: https://content.time.com/time/specials/packages/article/0,28804,1934027_1934003_1933968,00.html
+
+#### Preliminary design of an autonomous microrobot propelled by magnetotactic bacteria — Sylvain Martel (2007)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: Use swimming bacteria as the motor and electronics only as the steering wheel.
+- What it is: Design of a sub-millimetre autonomous robot pushed by magnetotactic bacteria, with an on-chip coil that generates a magnetic field to steer the bacteria and so the robot.
+- How it works: MC-1 magnetotactic bacteria align with a field produced by a CMOS-based 3D solenoid; photovoltaic cells power the electronics.
+- Paper: https://doi.org/10.1109/AIM.2007.4412427 (IEEE/ASME AIM 2007)
+- Images: https://biodigitalviz.github.io/images/MTB_microrobot.png
+- Project page: https://doi.org/10.1109/AIM.2007.4412427
+
+#### EcoBot-II: An Artificial Agent with a Natural Metabolism — Ioannis Ieropoulos (2005)
+- Type: Paper · Organisms: Bacteria & microbes
+- Idea: A robot can eat: let bacterial digestion be its battery.
+- What it is: A small robot that powers itself with microbial fuel cells full of sewage-sludge bacteria; fed with flies and other raw food, it senses light, processes data, communicates and moves.
+- How it works: Eight microbial fuel cells with mixed bacterial cultures oxidise organic substrate at the anode and use oxygen from air at the cathode, charging capacitors that drive the robot in bursts.
+- Paper: https://doi.org/10.5772/5777 (International Journal of Advanced Robotic Systems 2005)
+- Video: https://www.youtube.com/watch?v=6M6i0GM2nsY
+- Images: https://biodigitalviz.github.io/images/ecobot.jpg
+- Project page: https://doi.org/10.5772/5777
 
 ### DNA & Molecular Computing
 
@@ -4326,6 +4402,15 @@ Computing and storing information with DNA, proteins and chemical reactions.
 - Images: https://caltech-prod.resources.caltech.edu/main/images/Winfree-Algorithmic-Molecular-Self.d0f1a612.max-1400x800.jpg
 - Project page: https://www.caltech.edu/about/news/computer-scientists-create-reprogrammable-molecular-computing-system
 
+#### Biological optical-to-chemical signal conversion interface — Laura Grebenstein (2018)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: Let bacteria translate between light-controlled electronics and chemical communication.
+- What it is: A microscale modulator in which engineered E. coli turn LED light into a chemical signal by pumping protons and changing the local pH.
+- How it works: E. coli express the light-driven proton pump gloeorhodopsin; LED pulses make them export protons, modulating pH as a molecular-communication signal.
+- Paper: https://doi.org/10.1145/3233188.3233203 (ACM NanoCom 2018)
+- Images: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqxW52V4BUk-uskpJMVuvT1kTnNl1XLpPRw&s
+- Project page: https://dl.acm.org/doi/10.1145/3233188.3233203
+
 #### Random access in large-scale DNA data storage — Molecular Information Systems Lab (MISL), Luis Ceze, Karin Strauss (2018)
 - Type: Paper · Organisms: DNA & molecules
 - Idea: DNA storage becomes usable when you can open one file without reading the whole library.
@@ -4345,6 +4430,15 @@ Computing and storing information with DNA, proteins and chemical reactions.
 - Video: https://www.youtube.com/watch?v=idCjH20I65M
 - Images: https://caltech-prod.resources.caltech.edu/main/images/LQian_WTA-Neural-Networks-Made-fro.ce986c20.max-1400x800.jpg https://www.qianlab.caltech.edu/media_WTA_1_300px.png
 - Project page: https://www.caltech.edu/about/news/test-tube-artificial-neural-network-recognizes-molecular-handwriting-82679
+
+#### Bixels DNA Tetris — Helene Steiner (2017)
+- Type: Research prototype · Organisms: DNA & molecules
+- Idea: Teach biology the way pixels taught computing: through a tiny programmable display.
+- What it is: An 8x8 'bio-pixel' display cartridge whose pixels are fluorescent proteins made with cell-free DNA circuits, lit by an LED matrix so people can play Tetris and learn to program with DNA.
+- How it works: Cell-free transcription-translation reactions express proteins such as GFP in each well; an LED matrix with filters excites them and an app toggles bio-pixels.
+- Video: https://www.youtube.com/watch?v=GZgTMy8Kumo
+- Images: https://cdn.prod.website-files.com/636fcb7db73c8d53ca64117c/637a8f8f4a80ddb6abe77a42_Screenshot%202022-11-20%20at%2021.35.23.png
+- Project page: https://www.helenesteiner.com/project/bixels
 
 #### CRISPR–Cas encoding of a digital movie into the genomes of a population of living bacteria — Seth Shipman, George Church (2017)
 - Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
@@ -4406,6 +4500,15 @@ Computing and storing information with DNA, proteins and chemical reactions.
 - Images: https://caltech-prod.resources.caltech.edu/main/images/CT_Winfree-Qian_Nature-SPOTLIGHT.16890135.max-1400x800.jpg
 - Project page: https://www.caltech.edu/about/news/caltech-researchers-create-first-artificial-neural-network-out-dna-1703
 
+#### Programming living cells to function as massively parallel computers — Jeffrey J. Tabor (2007)
+- Type: Paper · Organisms: Bacteria & microbes, DNA & molecules
+- Idea: A lawn of bacteria is a massively parallel computer with one processor per cell.
+- What it is: Engineered E. coli are spread as a lawn that acts as photographic film: projected light patterns switch pigment production on, and cell-to-cell signalling lets the lawn compute the edges of the image.
+- How it works: A red-light sensor rewired to a pigment-producing enzyme turns each cell into a pixel; a quorum-sensing circuit adds edge detection.
+- Paper: https://doi.org/10.1145/1278480.1278642 (DAC 2007)
+- Images: https://biodigitalviz.github.io/images/parallel_computers.png
+- Project page: https://dl.acm.org/doi/10.1145/1278480.1278642
+
 #### Folding DNA to create nanoscale shapes and patterns (DNA origami) — Paul Rothemund (2006)
 - Type: Paper · Organisms: DNA & molecules
 - Idea: Design a shape on a computer and have molecules fold themselves into it.
@@ -4464,6 +4567,15 @@ Interfaces that couple the human body directly with other living systems.
 - What it is: Four speculative provocations—self-tests, smart sensors, home microbiology labs, microbiome influencers, microbial donation and fermented foods—imagine futures where vaginal microbes are central to interactive technology.
 - How it works: Speculative design fiction and critical analysis drawing on feminist HCI, Bio-HCI and more-than-human design.
 - Paper: https://doi.org/10.1145/3686169.3686170 (Halfway to the Future 2024)
+
+#### Biodegradable Implant Antenna Utilized for Real-Time Sensing Through Genetically Modified Bacteria — Sema Dumanli (2024)
+- Type: Paper · Organisms: Bacteria & microbes, Human body
+- Idea: Let living cells rewrite an antenna's shape, and read the chemistry from outside the body.
+- What it is: A wireless sensing implant made of a biodegradable antenna and genetically modified bacteria that speed up its degradation when a target molecule is present; a wearable reader tracks the antenna's frequency shift.
+- How it works: Engineered bacteria degrade the passive reflector antenna at a rate set by the analyte; the changing geometry shifts its resonance, measured by an on-body reader antenna.
+- Paper: https://doi.org/10.23919/EuCAP60739.2024.10501075 (EuCAP 2024)
+- Images: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoSwDpCerybK5dWA7kXFC0fHba5rLM66QxA&s
+- Project page: https://ieeexplore.ieee.org/document/10501075
 
 #### µMe: Exploring the Human Microbiome as an Intimate Material for Living Interfaces — Fiona Bell, Mirela Alistar (2023)
 - Type: Paper · Organisms: Bacteria & microbes, Human body
@@ -5030,59 +5142,529 @@ Consciousness, consent and the futures of computing with living brains.
 - Paper: https://doi.org/10.1038/d41586-018-04813-x (Nature 2018)
 - Images: https://media.nature.com/lw1200/magazine-assets/d41586-018-04813-x/d41586-018-04813-x_15700022.jpg
 
+## Animal–Computer Interaction
+
+Technology used by, designed with and designed for animals: pets, working animals, zoo residents, livestock and wildlife, and the ethics of involving them.
+
+### Pets & Companion Animals
+
+Devices that let pets call, play, rest and be understood at home.
+
+#### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Human touchscreen standards do not fit parrots; measure their bodies to design for them.
+- What it is: A study of how 20 pet parrots touch tablet screens with their beaks and tongues, used to derive interface guidelines for parrot apps.
+- How it works: Touch-target experiments on tablets, tested against HCI models such as Fitts's law.
+- Paper: https://doi.org/10.1145/3613904.3642119 (CHI 2024)
+- Video: https://www.youtube.com/watch?v=EY5GiklaplM
+- Images: https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg
+- Project page: https://doi.org/10.1145/3613904.3642119
+
+#### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
+- Type: Research prototype · Organisms: Animals
+- Idea: Social technology for animals should let them choose whether and whom to call.
+- What it is: Pet parrots learned to ring a bell to request a call and then chose which other parrot to video-call on a tablet; many formed preferences for particular partners.
+- How it works: Tablet video calls initiated by the birds, with caregivers supervising; usage and behaviour analysed over months.
+- Paper: https://doi.org/10.1145/3544548.3581166 (CHI 2023)
+- Video: https://www.youtube.com/watch?v=R8BlvicJfJM
+- Images: https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg
+- Project page: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls
+
+#### Squeeker: The Mouse Coach — Jiabao Li (2023)
+- Type: Product & platform · Organisms: Animals
+- Idea: Reverse the lab-mouse relation: let the mouse set the human's health routine.
+- What it is: An app and installation in which a pet mouse is your running coach: when the mouse starts running on its smart wheel you get a notification, and if you match its distance you both get a reward.
+- How it works: A sensor-equipped running wheel streams the mouse's distance to a mobile app; rewards are treats for the mouse and social-media scroll time for the human.
+- Paper: https://doi.org/10.1145/3731459.3779140 (TEI 2026)
+- Video: https://www.youtube.com/watch?v=UvfkYPLJAaw
+- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg
+- Project page: https://www.jiabaoli.org/mouse-coach
+
+#### Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone) — Ilyena Hirskyj-Douglas, Roosa Piitulainen (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give animals control over when to connect, and see what an animal-initiated internet looks like.
+- What it is: DogPhone lets a dog start a video call to its owner by picking up and shaking a soft ball; it was tested for 16 days with the first author's Labrador, Zack.
+- How it works: An accelerometer inside a ball triggers a laptop video call; the owner can also call, and the dog may ignore it.
+- Paper: https://doi.org/10.1145/3488539 (PACM HCI (ISS) 2021)
+- Video: https://www.youtube.com/watch?v=LLNrNAMnA6M
+- Images: https://www.gla.ac.uk/media/Media_819888_smxx.jpg https://www.gla.ac.uk/media/Media_819889_smxx.jpg
+- Project page: https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html
+
+#### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
+- Type: Paper · Organisms: Animals, Human body
+- Idea: Pet wearables change the human side of the relationship as much as the animal's.
+- What it is: A study of owners who use a popular dog activity tracker, finding that it mainly motivates the owners to be more active with their dogs.
+- How it works: Empirical user study of owners of a commercial dog activity tracker.
+- Paper: https://doi.org/10.1109/mc.2018.2889637 (IEEE Computer 2019)
+- Project page: https://doi.org/10.1109/mc.2018.2889637
+
+#### Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet — Adrian David Cheok (2006)
+- Type: Research prototype · Organisms: Animals
+- Idea: Remote touch can extend human-animal companionship across distance.
+- What it is: A chicken wears a jacket with vibration motors; when its owner strokes a sensor-equipped chicken doll at the office, the touch is sent over the internet to the live bird.
+- How it works: Tactile sensing doll, internet link, vibrotactile pet jacket and a webcam-tracked mixed-reality view of the chicken (first author Shang Ping Lee).
+- Paper: https://doi.org/10.1007/s00779-005-0051-6 (Personal and Ubiquitous Computing 2006)
+- Video: https://www.youtube.com/watch?v=1x-8EzuMiqU
+- Project page: https://mixedrealitylab.org/projects/all-projects/poultry-internet/
+
+### Play, Games & Robots with Animals
+
+Interspecies games and robots that play with, feed or care for animals.
+
+#### Provoking Public Reflection on Robotics and AI through Cat Royale, an Artistic Installation — Steve Benford (2026)
+- Type: Paper · Organisms: Animals
+- Idea: Ambiguous art about animals and robots makes abstract AI debates tangible.
+- What it is: Studies how audiences responded to Cat Royale and argues that presenting an artwork as a deliberately ambiguous interface helps people move beyond for-or-against views of AI.
+- How it works: Analysis of audience engagement data and comments around the livestreamed installation.
+- Paper: https://doi.org/10.1145/3803784.3807545 (Creativity & Cognition 2026)
+- Images: https://arxiv.org/html/2402.15431v1/Figures/CR_System_Components.png
+
+#### Charting the Ecosystem of Trust in Cat Royale, or What It Takes to Trust a Robot to Play with Cats — Steve Benford (2025)
+- Type: Paper · Organisms: Animals
+- Idea: Trust in a social robot is built in layers far beyond the robot itself.
+- What it is: A case study of everything behind a trustworthy robot that plays with cats — from the control room and welfare experts to ethics review and public engagement — summarised as five layers of an 'ecosystem of trust'.
+- How it works: Framework of five layers: personal workspace, orchestration, wider workspace, organisational culture and the public sphere.
+- Paper: https://doi.org/10.1007/978-981-95-2398-6_42 (Social Robotics (LNCS), 2025)
+- Images: https://arxiv.org/html/2402.15431v1/Figures/CR_Brisbane.jpg
+
+#### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Design the whole world around the animal, not just the robot's interaction with it.
+- What it is: CHI 2024 Best Paper reflecting on the design of Cat Royale: the enclosure, the robot and its autonomous system, custom end-effectors and the humans-in-the-loop, plus key moments from the twelve-day deployment.
+- How it works: Design case study of a deployed robot–cat installation, with video analysis and reflections from artists, engineers and welfare experts.
+- Paper: https://doi.org/10.1145/3613904.3642115 (CHI 2024)
+- Images: https://arxiv.org/html/2402.15431v1/Figures/CatRoyale_Overview_v3a.png https://arxiv.org/html/2402.15431v1/Figures/Cats_Portrait_v2.png
+
+#### Cat Royale — Blast Theory, Steve Benford (2023)
+- Type: Artwork · Organisms: Animals
+- Idea: Test trust in autonomous care systems with the most honest judges: cats.
+- What it is: Three cats lived for six hours a day over twelve days in a purpose-built 'cat utopia' where a robot arm played with them and offered treats, while an AI learned their preferences; the livestreamed work asked whether we should trust robots with care. Premiered at the World Science Festival Brisbane.
+- How it works: A robot arm (likely a Kinova) with custom toys was driven by a computer-vision and learning system that ranked games by the cats' engagement, supervised by humans in the loop and animal-welfare experts.
+- Paper: https://doi.org/10.1145/3636499 (ACM Interactions 2024)
+- Video: https://vimeo.com/1183715660
+- Images: https://www.blasttheory.co.uk/wp-content/uploads/2024/05/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0604-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2023/05/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2024/01/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0612-800x450.jpg
+- Project page: https://www.blasttheory.co.uk/projects/cat-royale/
+
+#### TAS for Cats: An Artist-led Exploration of Trustworthy Autonomous Systems for Companion Animals — Steve Benford, Blast Theory (2023)
+- Type: Paper · Organisms: Animals
+- Idea: An autonomous system for animals is only as trustworthy as the human network around it.
+- What it is: Presents Cat Royale as an autonomous system built with the TAS Hub's creative ambassadors Blast Theory, and unpacks how many human and animal stakeholders were needed to run it responsibly.
+- How it works: System description and responsible research and innovation (RRI) reflection on autonomy, trustworthiness and responsibility.
+- Paper: https://doi.org/10.1145/3597512.3597517 (TAS 2023)
+- Images: https://arxiv.org/html/2402.15431v1/Figures/Environment_design_V3.png
+
+#### Designing for Trust: Autonomous Animal-Centric Robotic & AI Systems — Steve Benford (2022)
+- Type: Paper · Organisms: Animals
+- Idea: Trust in home robots must be designed for animals as well as for people.
+- What it is: An ACI 2022 paper that frames the questions behind Cat Royale: how trust works when pets, people and domestic robots such as robot arms share a home.
+- How it works: Position paper using a responsible research and innovation approach to animal-centric autonomous systems.
+- Paper: https://doi.org/10.1145/3565995.3566046 (ACI 2022)
+
+#### Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies — Patricia Pons (2016)
+- Type: Paper · Organisms: Animals
+- Idea: Study what the animal is curious about before designing play for it.
+- What it is: An observational study of which technological stimuli - projected lights, moving objects, sounds, tablets - actually interest cats, to inform games for cats and people.
+- How it works: Sessions with cats and different interactive stimuli, recorded and coded for interest and engagement.
+- Paper: https://doi.org/10.1145/2851581.2892381 (CHI 2016 Extended Abstracts)
+- Video: https://www.youtube.com/watch?v=ie6xe3v70kQ
+- Images: https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg
+- Project page: https://doi.org/10.1145/2851581.2892381
+
+#### Cat Cat Revolution: An Interspecies Gaming Experience — Frank Noz (2011)
+- Type: Research prototype · Organisms: Animals
+- Idea: Pets can be real players in a shared game when the interface suits their species.
+- What it is: An iPad game of cat and mouse in which the cat chases a virtual mouse on screen while its owner controls the mouse.
+- How it works: Tablet game with a species-appropriate interface for cats and a controller for the human player.
+- Paper: https://doi.org/10.1145/1978942.1979331 (CHI 2011)
+- Project page: https://doi.org/10.1145/1978942.1979331
+
+#### Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans — Adrian David Cheok (2011)
+- Type: Research prototype · Organisms: Animals
+- Idea: Humans and small pets can play one game together through mixed reality.
+- What it is: A hamster running in a physical arena controls an avatar in a computer game, while the human player's avatar moves a physical bait in the arena that the hamster chases.
+- How it works: Camera tracking of the hamster, a motorised bait under the arena and a shared virtual game; the pet's wellbeing was checked with standard scoring methods.
+- Paper: https://doi.org/10.1109/tsmca.2011.2108998 (IEEE Transactions on Systems, Man, and Cybernetics 2011)
+- Video: https://www.youtube.com/watch?v=7o7UIpOy5LA
+- Project page: https://ieeexplore.ieee.org/document/5740616/
+
+#### Early explorations of CAT: canine amusement and training — Chadwick A. Wingrave (2010)
+- Type: Research prototype · Organisms: Animals, Human body
+- Idea: Games can shape the everyday routines that humans and dogs share.
+- What it is: A serious-games prototype meant to get people to spend calm, healthy and enjoyable play time with their dogs.
+- How it works: Prototype game system combining dog training and play, designed with a serious-games approach.
+- Paper: https://doi.org/10.1145/1753846.1753849 (CHI 2010 Extended Abstracts)
+- Project page: https://doi.org/10.1145/1753846.1753849
+
+### Working & Assistance Animals
+
+Interfaces for detection dogs, guide dogs, service animals and their handlers.
+
+#### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
+- Type: Research prototype · Organisms: Animals
+- Idea: Design the interface around how the dog works, and it can report what the dog knows.
+- What it is: Sensor-equipped sample holders record how long and how hard a medical detection dog sniffs each sample, so the dog's own confidence can be read without relying on the handler.
+- How it works: Pressure and proximity sensors in the sample stands, developed with the charity Medical Detection Dogs.
+- Paper: https://doi.org/10.1145/2702123.2702562 (CHI 2015)
+- Video: https://www.youtube.com/watch?v=MyHjq8Od-Xg
+- Images: https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg
+- Project page: https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf
+
+#### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
+- Type: Research prototype · Organisms: Animals, Human body
+- Idea: Shape the interface to the dog's body and skills, not to human buttons.
+- What it is: Prototype alarm interfaces that diabetes alert dogs can press or pull to summon help when their person's blood sugar is dangerously low.
+- How it works: Iterative prototyping of canine-operable alarm devices tested with trained assistance dogs.
+- Paper: https://doi.org/10.1145/2556288.2557396 (CHI 2014)
+- Video: https://www.youtube.com/watch?v=_vYdDrMHC0U
+- Images: https://i.ytimg.com/vi/_vYdDrMHC0U/maxresdefault.jpg
+- Project page: https://www.open.ac.uk/blogs/ACI/
+
+#### Going to the Dogs: Towards an Interactive Touchscreen Interface for Working Dogs — Melody Moore Jackson, Thad Starner (2014)
+- Type: Research prototype · Organisms: Animals
+- Idea: Measure an animal's pointing ability before designing its buttons.
+- What it is: A touchscreen interface sized and spaced for dogs' nose touches so that assistance dogs could, for example, call for help.
+- How it works: Target-size and spacing experiments with trained dogs on a wall-mounted touchscreen (first author Clint Zeagler).
+- Paper: https://doi.org/10.1145/2642918.2647364 (UIST 2014)
+- Video: https://www.youtube.com/watch?v=AZzJkar5h_g
+- Images: https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg
+- Project page: https://doi.org/10.1145/2642918.2647364
+
+#### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
+- Type: Research prototype · Organisms: Animals
+- Idea: Give working dogs a way to talk back through the gear they already wear.
+- What it is: Service-dog vests with sensors that the dog can bite, tug or nose-touch to send a message, such as calling emergency services or alerting a deaf handler.
+- How it works: Bite, tug and proximity sensors on a vest connected to a phone; tested with trained dogs.
+- Paper: https://doi.org/10.1145/2493988.2494334 (ISWC 2013)
+- Video: https://www.youtube.com/watch?v=1iaIQktV26M
+- Images: https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg
+- Project page: https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade
+
+### Zoo & Captive Enrichment
+
+Interactive enrichment for primates, elephants, birds and other animals in care.
+
+#### Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos — Ilyena Hirskyj-Douglas (2022)
+- Type: Research prototype · Organisms: Animals
+- Idea: Offer animals several options, not one, and measure their experience through their choices.
+- What it is: A 'monkey media player' tunnel lets sakis choose between videos and sounds; over several weeks they triggered audio about twice as often as video.
+- How it works: A tunnel with three infrared zones plays a chosen video or sound for as long as the monkey stays; interactions are logged over weeks.
+- Paper: https://doi.org/10.1145/3532106.3533577 (DIS 2022)
+- Video: https://www.youtube.com/watch?v=_rB1FVmks4g
+- Images: https://www.gla.ac.uk/media/Media_853879_smxx.jpeg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7ba/7924172/b4b3a0f72383/animals-11-00557-g001.jpg
+- Project page: https://www.gla.ac.uk/news/archiveofnews/2022/june/headline_853821_en.html
+
+#### An evaluation of interactive projections as digital enrichment for orangutans — Marcus Carter, Sarah Webber (2021)
+- Type: Research prototype · Organisms: Animals
+- Idea: Digital enrichment can be intrinsically rewarding for great apes.
+- What it is: Evaluates the interactive projection system in Melbourne Zoo's orangutan exhibit as enrichment that works without food rewards.
+- How it works: Behavioural observation of orangutans using projected interactive games over time.
+- Paper: https://doi.org/10.1002/zoo.21587 (Zoo Biology 2021)
+- Video: https://www.youtube.com/watch?v=WObQaW2JYSs
+- Images: https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg
+- Project page: https://doi.org/10.1002/zoo.21587
+
+#### More Than Human Aesthetics: Interactive Enrichment for Elephants — Fiona French, Clara Mancini (2020)
+- Type: Paper · Organisms: Animals
+- Idea: Aesthetics are species-specific; design for the senses and body of the animal in front of you.
+- What it is: Explores what an elephant-specific aesthetic of interaction might be, drawing on the authors' work designing interactive sound and play devices for captive elephants.
+- How it works: Applies existing aesthetic dimensions and design principles to elephant enrichment prototypes.
+- Paper: https://doi.org/10.1145/3357236.3395445 (DIS 2020)
+- Video: https://www.youtube.com/watch?v=G7Eh4owhNFk
+- Images: https://i.ytimg.com/vi/G7Eh4owhNFk/maxresdefault.jpg
+- Project page: https://doi.org/10.1145/3357236.3395445
+
+#### Music for Monkeys: Building Methods to Design with White-Faced Sakis for Animal-Driven Audio Enrichment Devices — Roosa Piitulainen, Ilyena Hirskyj-Douglas (2020)
+- Type: Research prototype · Organisms: Animals
+- Idea: Let the animal choose the stimulus and log its choices to learn what it prefers.
+- What it is: White-faced sakis at Korkeasaari Zoo in Helsinki could choose to play music, rain or traffic sounds by entering a tunnel fitted with infrared sensors.
+- How it works: Low-fidelity form tests in the enclosure led to a tunnel with IR sensors that triggers audio and logs every interaction.
+- Paper: https://doi.org/10.3390/ani10101768 (Animals 2020)
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/
+
+#### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
+- Type: Research prototype · Organisms: Animals, Human body
+- Idea: Technology for animals is also a window through which people see animals differently.
+- What it is: Kinect-driven projections at Melbourne Zoo let orangutans play with light; the study looked at how watching them play changed visitors' empathy.
+- How it works: Microsoft Kinect depth sensing drives floor projections in the orangutan enclosure; visitor responses were observed and surveyed.
+- Paper: https://doi.org/10.1145/3025453.3025729 (CHI 2017)
+- Video: https://www.youtube.com/watch?v=l7OyfuidBI0
+- Images: https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg
+- Project page: https://doi.org/10.1145/3025453.3025729
+
+#### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
+- Type: Paper · Organisms: Animals
+- Idea: Play is a route to enrichment and a method for designing with any species.
+- What it is: Early research on digital toys and games as playful cognitive enrichment for captive elephants.
+- How it works: Design research with keepers and elephants to develop playful interactive devices.
+- Paper: https://doi.org/10.1145/2793107.2810327 (CHI PLAY 2015)
+- Project page: https://doi.org/10.1145/2793107.2810327
+
+### Interspecies Communication
+
+Decoding and exchanging signals with whales, dolphins, birds and other species.
+
+#### Contextual and combinatorial structure in sperm whale vocalisations — Project CETI (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Look for combinatorial structure in nonhuman signals instead of mapping them onto human words.
+- What it is: Analysing about 9,000 codas from Eastern Caribbean sperm whales, the team found that rhythm, tempo, 'rubato' and 'ornamentation' combine into a large, structured set of calls, a so-called sperm whale phonetic alphabet.
+- How it works: Statistical and visual analysis of coda timing recorded by the Dominica Sperm Whale Project across social contexts.
+- Paper: https://doi.org/10.1038/s41467-024-47221-8 (Nature Communications 2024)
+- Video: https://www.youtube.com/watch?v=5N60yrXdgUM
+- Project page: https://www.projectceti.org/
+
+#### NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics — Earth Species Project (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Turn animal sound analysis into a conversation with a model anyone can query.
+- What it is: An open audio-language model that can be asked questions about animal sounds, such as which species is calling or what kind of call it is, and that generalises to species it was not trained on.
+- How it works: A large language model paired with an audio encoder, trained on bioacoustic, speech and music data with text prompts.
+- Paper: https://arxiv.org/abs/2411.07186 (arXiv 2024)
+- Video: https://www.youtube.com/watch?v=Z4smEsWqNnk
+- Images: https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg
+- Project page: https://www.earthspecies.org/
+
+#### Project CETI — Project CETI (2020)
+- Type: Product & platform · Organisms: Animals
+- Idea: Build the listening infrastructure first: to understand another species you need years of context-rich recordings.
+- What it is: A long-term programme off Dominica that records sperm whales with hydrophone arrays, tags and drones and uses machine learning to find structure in their clicking codas.
+- How it works: Moored and floating hydrophones, soft robotic suction tags, aerial drones and deep learning on coda sequences.
+- Paper: https://doi.org/10.1016/j.isci.2022.104393 (iScience 2022)
+- Video: https://www.youtube.com/watch?v=Qm02X0aE8uU
+- Images: https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png
+- Project page: https://www.projectceti.org/
+
+#### An underwater wearable computer for two way human-dolphin communication experimentation (CHAT) — Thad Starner, Denise Herzing (2013)
+- Type: Research prototype · Organisms: Animals
+- Idea: Build a small shared vocabulary so dolphins can ask humans for things.
+- What it is: Divers wear CHAT, an underwater computer that plays synthetic whistles labelled for objects such as sargassum or a scarf and listens for wild dolphins mimicking them.
+- How it works: Underwater wearable with hydrophones and real-time whistle recognition, used with wild Atlantic spotted dolphins in the Bahamas (Wild Dolphin Project, Georgia Tech).
+- Paper: https://doi.org/10.1145/2493988.2494346 (ISWC 2013)
+- Video: https://www.youtube.com/watch?v=YhopeQKbpZA
+- Images: https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg
+- Project page: https://www.wilddolphinproject.org/our-research/chat-research/
+
+#### The Interspecies Internet — Interspecies Internet (2013)
+- Type: Speculative design · Organisms: Animals
+- Idea: Think of interspecies communication as networking: design channels, not only translations.
+- What it is: Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf proposed at TED 2013 an internet that includes other intelligent species, starting with touch-screen and sound interfaces for dolphins, apes and elephants.
+- How it works: Talk and demonstrations of animal-operated interfaces (a dolphin touchscreen, bonobo keyboards, remote music with apes), later a think tank.
+- Video: https://www.youtube.com/watch?v=wGMLhaa98GI
+- Images: http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w
+- Project page: https://www.interspecies.io/
+
+### Wildlife, Farm & Tracking
+
+Sensing, tracking and living alongside wild and farmed animals.
+
+#### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
+- Type: Speculative design · Organisms: Animals
+- Idea: Autonomous vehicles have passenger and pedestrian modes; animals deserve one too.
+- What it is: A proposal for a 'wildlife priority mode' in self-driving cars, shown with carpets printed from photos of flattened roadkill and an autonomous sweeping robot.
+- How it works: Computer-vision detection of crossing animals is proposed for autonomous cars; the installation uses documentary roadkill photography printed on rugs.
+- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg
+- Project page: https://www.jiabaoli.org/animo
+
+#### PigeonBlog — Beatriz da Costa (2006)
+- Type: Research prototype · Organisms: Animals
+- Idea: Work with animals as partners in grassroots environmental sensing.
+- What it is: Homing pigeons carried small backpacks with air-pollution sensors, GPS and a phone over Southern California, posting real-time pollution readings to an online map.
+- How it works: Custom lightweight backpacks with CO and NOx sensors, GPS and GSM transmitting to a blog-style map.
+- Video: https://www.youtube.com/watch?v=XXNh5dKIh18
+
+### ACI Theory, Ethics & Methods
+
+Manifestos, ethics frameworks and methods for designing with animals as participants.
+
+#### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
+- Type: Paper · Organisms: Animals
+- Idea: Ethical tensions in animal–technology research can be charted by who benefits and whose knowledge counts.
+- What it is: Reflects on getting Cat Royale through three ethics boards (computer science, veterinary science, animal welfare) and proposes a 'beneficiary-epistemology space' to map who benefits and how knowledge is produced in multispecies research.
+- How it works: Reflective analysis of the ethics review dialogue, organised as a two-axis framework.
+- Paper: https://doi.org/10.1145/3613904.3641994 (CHI 2024)
+- Images: https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png
+
+#### The Emerging Nature of Participation in Multispecies Interaction Design — Clara Mancini (2018)
+- Type: Paper · Organisms: Animals
+- Idea: Animals can participate in design even if they cannot understand the design process.
+- What it is: Proposes a model of animal participation in design based on signs, volition and interaction rather than human-style consent and understanding.
+- How it works: Theoretical model built from examples of dog-computer interaction and indexical semiotics.
+- Paper: https://doi.org/10.1145/3196709.3196785 (DIS 2018)
+- Project page: https://doi.org/10.1145/3196709.3196785
+
+#### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
+- Type: Paper · Organisms: Animals
+- Idea: Research ethics for animals should be as participant-centred as HCI ethics for people.
+- What it is: Argues that animals in ACI research should be treated as consenting participants and design contributors rather than research instruments, and proposes ethical principles to match.
+- How it works: Critical analysis of animal research regulations and proposal of an animal-centred ethical framework.
+- Paper: https://doi.org/10.1016/j.ijhcs.2016.04.008 (International Journal of Human-Computer Studies 2017)
+- Project page: https://www.open.ac.uk/blogs/ACI/
+
+#### Becoming with: towards the inclusion of animals as participants in design processes — Michelle Westerlaken (2016)
+- Type: Paper · Organisms: Animals
+- Idea: Animals can shape design outcomes if designers learn to read and follow their responses.
+- What it is: Proposes involving animals that live in human environments, such as dogs, as participants in design processes, based on the authors' design experiments with dog toys.
+- How it works: Exploratory design experiments with dogs, interpreted through Haraway's idea of becoming-with.
+- Paper: https://doi.org/10.1145/2995257.2995392 (ACI 2016)
+- Images: https://michellewesterlaken.com/2021/09/dog_w.jpg
+- Project page: https://michellewesterlaken.com/portfolio/robotic-dog-toys/
+
+#### Animal-computer interaction: a manifesto — Clara Mancini (2011)
+- Type: Paper · Organisms: Animals
+- Idea: Animals are users too, and technology for them should be designed around their needs.
+- What it is: The founding text of Animal-Computer Interaction, calling for a user-centred approach to technology that animals use or are affected by.
+- How it works: Manifesto setting out aims for ACI: studying animal-technology interaction, designing for animal welfare and developing animal-centred methods.
+- Paper: https://doi.org/10.1145/1978822.1978836 (ACM Interactions 2011)
+- Video: https://www.youtube.com/watch?v=TMOJSpXfRoI
+- Project page: https://www.open.ac.uk/blogs/ACI/
+
+## Human–Nature Interaction
+
+Technology that changes how people notice, experience and relate to nature: outdoors, in gardens, through citizen science, extended senses and mediated nature.
+
+### Citizen Science & Nature Observation
+
+Tools that let people identify, record and monitor species and ecosystems.
+
+#### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
+- Type: Paper · Organisms: Animals, Ecosystems
+- Idea: Let anyone, and any recorder left in a forest, listen for which birds are present.
+- What it is: A neural network that recognises close to a thousand North American and European bird species from sound, released as a free app and open analyser used for large-scale acoustic monitoring.
+- How it works: A ResNet-based convolutional network trained on spectrograms of labelled bird recordings.
+- Paper: https://doi.org/10.1016/j.ecoinf.2021.101236 (Ecological Informatics 2021)
+- Video: https://www.youtube.com/watch?v=w8lMxzskWx4
+- Project page: https://birdnet.cornell.edu/
+
+#### Merlin Sound ID — Cornell Lab of Ornithology (2021)
+- Type: Product & platform · Organisms: Animals
+- Idea: Make the birds you can hear, but not see, legible in the moment.
+- What it is: A feature of the free Merlin Bird ID app that listens through the phone microphone and shows, in real time, which birds are singing around you.
+- How it works: On-device machine learning on live spectrograms, trained on recordings from the Macaulay Library.
+- Video: https://www.youtube.com/watch?v=xmSUOLxyatY
+- Project page: https://merlin.allaboutbirds.org/
+
+#### Wildbook — Wild Me (2017)
+- Type: Product & platform · Organisms: Animals
+- Idea: Treat each wild animal as an individual with its own record, not just a count.
+- What it is: An open-source platform that identifies individual whales, zebras, whale sharks and other animals from photos by their unique patterns, and builds a life history for each one from researchers' and the public's images.
+- How it works: Computer vision for individual identification (fin, stripe and spot patterns) combined with crowdsourced images and a research database.
+- Paper: https://arxiv.org/abs/1710.08880 (arXiv 2017)
+- Video: https://www.youtube.com/watch?v=JDYI9PT07Js
+- Images: https://www.wildme.org/assets/social-card.jpg
+- Project page: https://www.wildme.org/
+
+### Sensing Other Worlds
+
+Experiences that let people perceive the world as other beings do: echolocation, UV vision, magnetic sense, plant time.
+
+#### EchoVision + Nocturnal Fugue — Jiabao Li (2024)
+- Type: Artwork · Organisms: Animals
+- Idea: To understand another species, borrow its sense, not just its image.
+- What it is: A mixed-reality bat mask that lets people 'see' by shouting: the echo of their voice is visualised as a bat would sense its surroundings. The companion piece Nocturnal Fugue is a performance built on AI research into bat vocal communication.
+- How it works: Bat-shaped masks built on the open-source HoloKit headset map voice pitch and loudness to spatial sound visualisation on an iPhone, working in darkness.
+- Paper: https://doi.org/10.1145/3680530.3695460 (SIGGRAPH Asia 2024 Art Papers)
+- Video: https://www.youtube.com/watch?v=7LqsKpEZy4g
+- Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg
+- Project page: https://www.jiabaoli.org/nocturnal-fugue
+
+#### In the Eyes of the Animal — Marshmallow Laser Feast (2015)
+- Type: Artwork · Organisms: Animals, Insects, Ecosystems
+- Idea: Step into another creature's Umwelt to see that the human view is one of many.
+- What it is: A VR journey through Grizedale Forest seen in turn through the senses of a mosquito, a dragonfly, a frog and an owl.
+- How it works: The forest was captured with LiDAR, drones and 360° cameras and rendered in real time as point clouds, with binaural sound from field recordings and a headset worn with haptics and scent.
+- Video: https://www.youtube.com/watch?v=XJMA0Nj_zsA
+- Images: https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46-1024x574.jpg
+- Project page: https://www.marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/
+
+#### Birdly — Max Rheiner (2014)
+- Type: Research prototype · Organisms: Animals
+- Idea: Don't control a machine; become the bird.
+- What it is: A full-body flight simulator: the user lies face down, flaps their arms as wings and flies over a city as a red kite, with wind in the face.
+- How it works: Arm and hand movements drive a bird flight model; the platform tilts, rolls and heaves, while a head-mounted display, a fan, sound and scents add to the embodiment.
+- Video: https://www.youtube.com/watch?v=rzBUvydKUAA
+- Project page: https://www.rs-online.com/designspark/birdly-making-a-flying-virtual-reality-experience-truly-immersive
+
+#### Animal Superpowers — Chris Woebken, Kenichi Okada (2007)
+- Type: Speculative design · Organisms: Animals, Insects, Human body
+- Idea: Design prosthetics that let people borrow another species' way of perceiving.
+- What it is: A series of wearable devices that let children experience animal senses: an 'ant' device magnifies what the hands touch fifty times, a 'bird' device senses magnetic north, and a 'giraffe' device raises the eyes to an adult's height.
+- How it works: Handheld microscope cameras feeding goggles, a compass-driven vibration hat and a periscope helmet, prototyped at the Royal College of Art.
+- Video: https://www.youtube.com/watch?v=L9oTcez2CXU
+- Images: https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg
+- Project page: https://www.chriswoebken.com/animal-superpowers
+
+### Environmental Awareness & Eco-feedback
+
+Making air, water, soil, climate and biodiversity data felt in everyday life.
+
+#### Rainforest Connection Guardian — Rainforest Connection (2014)
+- Type: Product & platform · Organisms: Ecosystems, Animals
+- Idea: Give a forest ears and a phone line so it can report harm in real time.
+- What it is: Recycled smartphones with solar panels are hung high in rainforest trees to listen continuously; when they hear chainsaws or trucks, rangers receive alerts, and the recordings also track wildlife.
+- How it works: Solar-powered Android 'Guardian' devices stream audio over mobile networks to cloud models that detect illegal logging and species calls.
+- Video: https://www.youtube.com/watch?v=xPK2Ch90xWo
+- Images: https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png
+- Project page: https://rfcx.org/
+
 ## Creators
 
 - **Jiabao Li** (21) — Artist and designer; Associate Professor, Northeastern University (previously UT Austin, Stanford; Apple designer). Artist, inventor and professor (Harvard GSD alum) whose installations, XR works, bio-art and performances deal with glaciers, bats, mice, squid, elephants and plankton. She co-founded Endless Health and ran the Ecocentric Future Lab at UT Austin. https://www.jiabaoli.org
 - **Ani Liu** (15) — Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania. Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care. https://ani-liu.com
+- **Andrew Adamatzky** (12) — Professor of Unconventional Computing, UWE Bristol; director of the Unconventional Computing Laboratory. Computer scientist who builds computers from slime mould, fungi, proteinoids, kombucha and chemical reactions, and edits the International Journal of Unconventional Computing. https://uncomp.uwe.ac.uk/
 - **Alexandra Daisy Ginsberg** (11) — Artist; works with synthetic biology, conservation and AI. Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators. https://www.daisyginsberg.com
 - **Neri Oxman** (11) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
-- **Andrew Adamatzky** (10) — Professor of Unconventional Computing, UWE Bristol; director of the Unconventional Computing Laboratory. Computer scientist who builds computers from slime mould, fungi, proteinoids, kombucha and chemical reactions, and edits the International Journal of Unconventional Computing. https://uncomp.uwe.ac.uk/
 - **Cortical Labs** (10) — Biotech company building biological computers from human neurons on silicon chips. Founded in 2019 by Hon Weng Chong, Cortical Labs grows human and mouse neurons on high-density multi-electrode arrays. It made DishBrain, which learned to play Pong, and sells the CL1 biological computer and cloud access to it. https://corticallabs.com
 - **Harpreet Sareen** (9) — Designer and researcher of plant–machine hybrids; faculty at Parsons School of Design; formerly MIT Media Lab. Harpreet Sareen coined 'Cyborg Botany': plants with wires grown inside them, plants that drive robots, and plants that sense water or talk through sound. https://harpreetsareen.com/
 - **Mirela Alistar** (9) — Assistant Professor, ATLAS Institute and Computer Science, University of Colorado Boulder; director of the Living Matter Lab. Mirela Alistar started in biochip design automation and now leads a lab on interaction design with living matter: algae, kombucha, microbiomes and biomaterials. https://www.colorado.edu/atlas/living-matter-lab
 - **Oron Catts** (9) — Artist; co-founder of The Tissue Culture & Art Project and director of SymbioticA. Oron Catts is an artist and researcher who grows semi-living sculptures from tissue cultures. https://tcaproject.net
 - **The Tissue Culture & Art Project** (9) — Artistic research project by Oron Catts and Ionat Zurr (since 1996). TC&A grows living tissue into sculptures, garments and food to question how biotechnology treats life. https://tcaproject.net
 - **Clara Mancini** (8) — Professor of Animal-Computer Interaction, The Open University; founder of the ACI Lab. Founder of Animal-Computer Interaction as a field; designs interfaces with working dogs and writes on animal-centred ethics. https://www.open.ac.uk/blogs/ACI/
+- **Ingmar Riedel-Kruse** (8) — Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering. Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.
 - **Ionat Zurr** (8) — Artist and researcher; co-founder of The Tissue Culture & Art Project. Ionat Zurr is an artist and academic at the University of Western Australia who co-developed the idea of the semi-living. https://tcaproject.net
 - **Raphael Kim** (8) — Designer and researcher of human–microbe interaction; PhD Queen Mary University of London; postdoc TU Delft. Raphael Kim designs 'biotic games' driven by living moulds and bacteria and helped found the Microbe-HCI community.
 - **Steve Benford** (8) — Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham. Co-founder of the Mixed Reality Lab, known for performance-led research in the wild with artists such as Blast Theory, and for the trajectories framework. Recent work studies robots, AI and animals through the artwork Cat Royale. https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford
+- **Elvin Karana** (7) — Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts. Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi. https://www.tudelft.nl/en/ide/about-ide/people/karana-e
 - **Guy Ben-Ary** (7) — Artist and researcher, SymbioticA, The University of Western Australia. Bio-artist who has worked with living neurons since 2000: robotic drawing (MEART), neural synthesizers (cellF) and organoids grown from the composer Alvin Lucier's blood (Revivification). https://guybenary.com
 - **Mediated Matter Group (MIT Media Lab)** (7) — Research group at the MIT Media Lab directed by Neri Oxman (2010–2020). Mediated Matter worked at the intersection of computational design, digital fabrication, materials science and synthetic biology. https://www.media.mit.edu/groups/mediated-matter/overview/
+- **Michael Levin** (7) — Distinguished Professor of Biology, Tufts University; director of the Allen Discovery Center. Developmental biologist studying bioelectric signalling and how cells collectively decide what shape to build. https://drmichaellevin.org/
 - **Ron Wakkary** (7) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
 - **Achim Menges** (6) — Architect; director of the Institute for Computational Design and Construction (ICD), University of Stuttgart. Achim Menges researches biomimetic, computational and robotic architecture, often with wood and natural fibres. https://www.achimmenges.net/
 - **Brett J. Kagan** (6) — Chief Scientific Officer, Cortical Labs. Neuroscientist who led the DishBrain study and coined the term Synthetic Biological Intelligence for trained in vitro neural systems. He also writes on the ethics of embodied neural cultures.
-- **Elvin Karana** (6) — Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts. Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi. https://www.tudelft.nl/en/ide/about-ide/people/karana-e
 - **Fiona Bell** (6) — HCI researcher and designer; PhD, Living Matter Lab, CU Boulder. Fiona Bell designs with biomaterials and living microbes: SCOBY wearables, skin-microbiome interfaces and photobioreactor sculptures.
 - **Pierre Huyghe** (6) — Artist. French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience. https://www.estherschipper.com/artists/41-pierre-huyghe/
+- **ecoLogicStudio** (6) — Architecture and urban design studio founded by Claudia Pasquero and Marco Poletto. ecoLogicStudio designs architecture with microalgae photobioreactors, combining biology with digital design. https://www.ecologicstudio.com
 - **Doenja Oogjes** (5) — Design researcher; PhD from the Everyday Design Studio, Simon Fraser University. Designer and researcher who co-created the Morse Things and the Tilting Bowl and develops posthuman methods from craft practices such as weaving.
 - **Elisa Giaccardi** (5) — Professor of Interaction Design, Politecnico di Milano; formerly Chair of Post-Industrial Design, TU Delft. Interaction design researcher who put cameras on everyday objects to see the world from their side and developed thing-centred design.
 - **ICD/ITKE University of Stuttgart** (5) — Institute for Computational Design and Construction and Institute of Building Structures and Structural Design. ICD and ITKE build an annual series of research pavilions that translate biological structures into robotic fabrication. https://www.icd.uni-stuttgart.de
 - **Ilyena Hirskyj-Douglas** (5) — Academic at the School of Computing Science, University of Glasgow; leads its Animal-Computer Interaction group. ACI researcher who builds systems that animals control themselves, from a dog-to-human video phone to music players for monkeys and parrots.
-- **Ingmar Riedel-Kruse** (5) — Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering. Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.
 - **Lena Smirnova** (5) — Assistant Professor, Johns Hopkins Bloomberg School of Public Health. Neurobiologist who develops human brain organoid models and leads Johns Hopkins work testing whether organoids show the basic mechanisms of learning and memory.
+- **Rachel Armstrong** (5) — Professor of Regenerative Architecture, KU Leuven; formerly Newcastle University. Rachel Armstrong is a British architect and former medical doctor who works with protocells and microbial systems in architecture.
 - **Shaowen Bardzell** (5) — Professor, School of Interactive Computing, Georgia Institute of Technology. HCI scholar known for feminist HCI and humanistic approaches; advised several key more-than-human HCI projects.
 - **Shoji Takeuchi** (5) — Professor, Institute of Industrial Science and Graduate School of Information Science and Technology, University of Tokyo; Biohybrid Systems Lab. Engineer who grows muscle tissue and skin on robot skeletons, from muscle-driven fingers and walkers to a living-skin robot face. https://www.hybrid.iis.u-tokyo.ac.jp/en/
 - **Steve M. Potter** (5) — Former Associate Professor of Biomedical Engineering, Georgia Institute of Technology. Neuroengineer who embodied cultured rat neurons in simulated animals ('animats') and robots ('hybrots'), and co-created the MEART and Silent Barrage artworks with SymbioticA. https://potterlab.gatech.edu
 - **Superflux** (5) — Speculative design and futures studio founded by Anab Jain and Jon Ardern. Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI. https://superflux.in
-- **ecoLogicStudio** (5) — Architecture and urban design studio founded by Claudia Pasquero and Marco Poletto. ecoLogicStudio designs architecture with microalgae photobioreactors, combining biology with digital design. https://www.ecologicstudio.com
+- **Douglas Blackiston** (4) — Senior Scientist, Allen Discovery Center at Tufts University and Wyss Institute. Biologist who builds Xenobots by hand and grows them from frog stem cells.
 - **Eduardo Kac** (4) — Artist; coined the term transgenic art. Eduardo Kac is a Brazilian-American artist known for works that use genetic engineering to create new living beings and texts. https://www.ekac.org
+- **Eduardo Reck Miranda** (4) — Professor of Computer Music, University of Plymouth; head of ICCMR. Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.
 - **FinalSpark** (4) — Swiss startup running a remote-access biocomputing platform built on human brain organoids. Founded by Fred Jordan and Martin Kutter, FinalSpark keeps human forebrain organoids on multi-electrode arrays around the clock and lets researchers program them over the internet through its Neuroplatform. https://finalspark.com
 - **Hirotaka Sato** (4) — Provost's Chair Professor, School of Mechanical and Aerospace Engineering, Nanyang Technological University. Engineer who steers living beetles and cockroaches with small electronic backpacks that stimulate their muscles or antennae.
 - **Jakob Kudsk Steensen** (4) — Artist working with game engines, field recording and ecology. Danish artist who reconstructs real ecosystems from fieldwork, scans and sound recordings as immersive installations, VR and AR. https://jakobsteensen.com/
 - **Maurizio Montalti** (4) — Designer; founder of Officina Corpuscoli and co-founder of Mogu. Maurizio Montalti founded the studio Officina Corpuscoli in 2010 and has worked with fungal mycelium and mycologists at Utrecht University for more than a decade. https://www.corpuscoli.com/
-- **Michael Levin** (4) — Distinguished Professor of Biology, Tufts University; director of the Allen Discovery Center. Developmental biologist studying bioelectric signalling and how cells collectively decide what shape to build. https://drmichaellevin.org/
 - **Pat Pataranutaporn** (4) — Researcher, MIT Media Lab (Fluid Interfaces group). Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs. https://www.media.mit.edu/people/patpat/overview/
-- **Rachel Armstrong** (4) — Professor of Regenerative Architecture, KU Leuven; formerly Newcastle University. Rachel Armstrong is a British architect and former medical doctor who works with protocells and microbial systems in architecture.
 - **Rashid Bashir** (4) — Dean of the Grainger College of Engineering and Professor of Bioengineering, University of Illinois Urbana-Champaign. Bioengineer whose group makes 'bio-bots': 3D-printed hydrogel skeletons that walk using heart or skeletal muscle cells.
 - **Sara Heitlinger** (4) — Senior Lecturer, Centre for Human-Computer Interaction Design, City St George's, University of London. Participatory design researcher who works with urban food growers on seeds, sensors and blockchain futures. https://www.connectedseeds.org/
+- **Seung Ah Lee** (4) — Associate Professor of Electrical and Electronic Engineering, Yonsei University. Seung Ah Lee builds optical and microscopy systems, including interactive light-projection microscopes that let people play with phototactic microorganisms.
 - **Thomas Hartung** (4) — Professor, Johns Hopkins Bloomberg School of Public Health; director of CAAT. Toxicologist who led the 2023 proposal to name and fund Organoid Intelligence as a field, and convened the Baltimore Declaration on its ethics.
 - **Tomás Saraceno** (4) — Artist; founder of Studio Tomás Saraceno, the Aerocene community and Arachnophilia. Argentine artist trained in architecture who works with spiders, air, and floating solar sculptures, often with scientists and communities. https://studiotomassaraceno.org/
 - **Yasuaki Kakehi** (4) — Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Kakehi Lab. Yasuaki Kakehi is a media artist and interaction researcher who works with materials, water, light and living matter. https://www.xlab.iii.u-tokyo.ac.jp/
+- **Adrian David Cheok** (3) — Founder and director, Mixed Reality Lab. Researcher in mixed reality and multisensory internet who built early remote-touch and play systems for pets. https://mixedrealitylab.org/
+- **Bahareh Barati** (3) — Assistant Professor, Industrial Design, Eindhoven University of Technology. Bahareh Barati researches living and computational materials in design, including bioluminescent living light interfaces, algae-based slow computers and digital twins for mycelium growing.
 - **Blast Theory** (3) — Artist group led by Matt Adams, Ju Row Farr and Nick Tandavanitj. Brighton-based artist group making interactive and mixed-reality works since 1991, long-term collaborators of Nottingham's Mixed Reality Lab. https://www.blasttheory.co.uk
 - **Carl DiSalvo** (3) — Professor, School of Interactive Computing, Georgia Institute of Technology. Design researcher working on participatory design, public participation and adversarial design.
-- **Douglas Blackiston** (3) — Senior Scientist, Allen Discovery Center at Tufts University and Wyss Institute. Biologist who builds Xenobots by hand and grows them from frog stem cells.
 - **Heidi R. Biggs** (3) — Design researcher working on posthuman and ecological design. Designer-researcher who makes embodied speculations about climate change and reflects on birdwatching as a posthuman method. https://www.heidibiggsdesign.com/
+- **Helene Steiner** (3) — Designer and researcher; co-founder of Bento Lab; former artist-in-residence at Microsoft Research Cambridge. Helene Steiner works between design and biology: portable DNA labs, biological garments and plant–human communication. https://www.helenesteiner.com/
+- **Ioannis Ieropoulos** (3) — Microbial fuel cell researcher; founder of the Bristol BioEnergy Centre at the Bristol Robotics Laboratory. Engineer who builds robots and toilets powered by microbial fuel cells, from the EcoBot series to Pee Power.
 - **Iohanna Nicenboim** (3) — Designer and researcher, TU Delft; works on more-than-human design and AI. Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them. https://iohanna.com/
+- **Ivan Henriques** (3) — Artist and researcher making bio-machines; based in the Netherlands. Ivan Henriques builds hybrid machines powered or controlled by living organisms: algae-eating floating robots, microbial-fuel-cell rafts and bacteria-driven tensegrity structures.
 - **Jennifer Gabrys** (3) — Chair in Media, Culture and Environment, University of Cambridge; lead of Citizen Sense, Smart Forests and Planetary Praxis. Sociologist who studies environmental sensing, from citizen air-quality monitors to sensor networks in forests. https://www.jennifergabrys.net/
 - **Jia Liu** (3) — Associate Professor of Bioengineering, Harvard John A. Paulson School of Engineering and Applied Sciences. Bioengineer who embeds soft, stretchable mesh electronics into organoids as they grow, so the electrodes become part of the tissue. https://liulab.seas.harvard.edu
 - **John Dabiri** (3) — Centennial Professor of Aeronautics and Mechanical Engineering, Caltech. Fluid dynamicist who studies jellyfish swimming and turns live jellyfish into ocean-sensing biohybrids. https://dabirilab.com/
@@ -5093,6 +5675,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Lulu Qian** (3) — Professor of Bioengineering, Caltech. Bioengineer who builds neural networks and circuits out of DNA strands that react in a test tube. http://qianlab.caltech.edu/
 - **Marcus Foth** (3) — Professor of Urban Informatics, QUT Design Lab, Queensland University of Technology. Urban informatics researcher working on smart cities, media architecture and more-than-human urbanism.
 - **Marshmallow Laser Feast** (3) — Experiential art collective. London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com/
+- **Michael Sedbon** (3) — Artist. French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.
 - **Michelle Westerlaken** (3) — Design researcher; PhD, Malmö University. Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary. https://michellewesterlaken.com/
 - **Nazli Cila** (3) — Assistant Professor, Faculty of Industrial Design Engineering, TU Delft. Designer-researcher who studies connected products and AI as agents that act alongside people. https://nazlicila.com/
 - **OXMAN** (3) — Design and research company founded by Neri Oxman. OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture. https://www.oxman.com
@@ -5108,7 +5691,6 @@ Consciousness, consent and the futures of computing with living brains.
 - **Toshiyuki Nakagaki** (3) — Professor, Research Institute for Electronic Science, Hokkaido University. Biophysicist who showed that the slime mould Physarum polycephalum finds shortest paths through mazes and builds efficient transport networks; two-time Ig Nobel laureate. https://www.es.hokudai.ac.jp/labo/nakagaki/
 - **Ursula Biemann** (3) — Artist, writer and video essayist. Swiss artist whose research-based video essays follow oceans, forests and Indigenous knowledge in the climate crisis. https://geobodies.org/
 - **Špela Petrič** (3) — Artist with a background in biology. Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans and plants. https://www.spelapetric.org
-- **Adrian David Cheok** (2) — Founder and director, Mixed Reality Lab. Researcher in mixed reality and multisensory internet who built early remote-touch and play systems for pets. https://mixedrealitylab.org/
 - **Alysson R. Muotri** (2) — Professor of Pediatrics and Cellular & Molecular Medicine, UC San Diego. Stem-cell biologist whose cortical organoids produced EEG-like brain waves; he has linked organoids to robots and sent them to space. https://muotri.ucsd.edu
 - **Amy Karle** (2) — Artist working with bioart and emerging technology. Amy Karle is an American artist who works with tissue engineering, 3D printing and AI. https://www.amykarle.com
 - **Anna Dumitriu** (2) — Artist working with bacteria, infectious disease and biotechnology. Anna Dumitriu is a British artist who combines textiles and craft with microbiology in long collaborations with scientists. https://annadumitriu.co.uk
@@ -5116,6 +5698,8 @@ Consciousness, consent and the futures of computing with living brains.
 - **Audrey Dussutour** (2) — CNRS Research Director, Research Centre on Animal Cognition, Toulouse. Biologist who studies learning and decision-making in the slime mould Physarum polycephalum, known in France as 'le blob'.
 - **Bolt Threads** (2) — Materials company behind Microsilk and Mylo. Bolt Threads develops biobased fibres and materials, including yeast-fermented spider-silk protein (Microsilk) and the mycelium leather Mylo, often with Stella McCartney. https://boltthreads.com/
 - **Braingeneers** (2) — Research group at UC Santa Cruz Genomics Institute (David Haussler, Mircea Teodorescu, Mohammed Mostajo-Radji). An interdisciplinary UC Santa Cruz group that runs organoid experiments through an internet-connected 'cloud lab' and trains cortical organoids in closed-loop tasks. https://braingeneers.ucsc.edu
+- **C-Lab (Laura Cinti & Howard Boland)** (2) — Art-science studio. London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology. https://www.c-lab.co.uk
+- **Carlos Castellanos** (2) — Artist and researcher; faculty, School of Interactive Games and Media, Rochester Institute of Technology; co-founder of Phylum. Carlos Castellanos makes hybrid biological-electronic artworks, from microbial fuel cell synthesizers to AI agents that shape bacterial growth.
 - **Christina Agapakis** (2) — Synthetic biologist and writer; former creative director at Ginkgo Bioworks. Christina Agapakis is a synthetic biologist who works with artists and designers on the culture of biotechnology. https://agapakis.com
 - **Christopher Frauenberger** (2) — Professor of Human-Computer Interaction, University of Salzburg. HCI researcher working on participatory design, ethics and relational theories of technology. https://frauenberger.name/
 - **Christopher Voigt** (2) — Professor of Biological Engineering, MIT. Christopher Voigt designs genetic circuits and programmable bacteria, from light-sensing E. coli to 'living circuit boards'.
@@ -5124,29 +5708,34 @@ Consciousness, consent and the futures of computing with living brains.
 - **David Rothenberg** (2) — Musician, philosopher and author; professor at New Jersey Institute of Technology. Clarinettist and writer who plays live with birds, humpback whales, insects and nightingales, and writes about why animals make music (Why Birds Sing, Thousand Mile Song, Nightingales in Berlin). http://www.davidrothenberg.net/
 - **Donald Degraen** (2) — HCI researcher, HIT Lab NZ, University of Canterbury; formerly Saarland University and DFKI. Donald Degraen studies haptics and 'living media' interfaces that use real plants for ambient feedback. https://www.donalddegraen.com/
 - **Ecovative** (2) — Mycelium materials company founded by Eben Bayer and Gavin McIntyre. Founded in 2007 by Rensselaer Polytechnic Institute graduates Eben Bayer and Gavin McIntyre, Ecovative grows packaging, building materials and food from mycelium and farm waste. https://ecovative.com/
-- **Eduardo Reck Miranda** (2) — Professor of Computer Music, University of Plymouth; head of ICCMR. Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.
 - **Erik Winfree** (2) — Professor of Computer Science, Computation and Neural Systems, and Bioengineering, Caltech. Computer scientist who founded algorithmic DNA self-assembly and molecular programming. https://www.dna.caltech.edu/
 - **Ferdinand Ludwig** (2) — Professor of Green Technologies in Landscape Architecture, TU Munich. Architect Ferdinand Ludwig developed Baubotanik, a method of building with living trees joined to technical structures. https://www.arc.ed.tum.de/en/gtla/
 - **Fiona French** (2) — Associate Professor, School of Computing and Digital Media, London Metropolitan University. ACI researcher who designs interactive toys and sound instruments for captive elephants.
 - **Foad Hamidi** (2) — Faculty, Department of Information Systems, University of Maryland, Baltimore County. Foad Hamidi designs participatory and assistive technologies, including living media interfaces that use mushrooms and plants. https://www.foadhamidi.info/
 - **George Church** (2) — Professor of Genetics, Harvard Medical School; core faculty, Wyss Institute. Geneticist behind genome sequencing and editing methods, DNA data storage and many synthetic-biology companies. https://arep.med.harvard.edu/
-- **Helene Steiner** (2) — Designer and researcher; co-founder of Bento Lab; former artist-in-residence at Microsoft Research Cambridge. Helene Steiner works between design and biology: portable DNA labs, biological garments and plant–human communication. https://www.helenesteiner.com/
+- **Gilberto Esparza** (2) — Artist working with robotics, biotechnology and ecology. Gilberto Esparza builds autonomous bio-machines and instruments powered by bacteria in polluted water, such as Plantas Autofotosintéticas and BioSoNot.
+- **Interspecifics** (2) — Independent artistic research collective (Leslie García, Paloma López and others). Interspecifics is a Mexico City collective that turns bioelectric and behavioural signals of microorganisms, plants and slime moulds into sound, light and machine-learning systems.
 - **Jasmine Lu** (2) — HCI researcher, Human Computer Integration Lab, University of Chicago. Jasmine Lu builds interactive devices that live, age and decay: a smartwatch powered by a slime mould, plant-driven robot actuators, and tools for reusing e-waste. https://lab.plopes.org/
 - **Jeff Jones** (2) — Researcher, Unconventional Computing Laboratory, UWE Bristol. Computer scientist who models Physarum polycephalum as swarms of simple particles that lay and follow trails.
 - **Jen Keane** (2) — Designer and researcher; co-founder of Modern Synthesis. Jen Keane studied Material Futures at Central Saint Martins and co-founded Modern Synthesis to grow textiles with bacteria. https://www.jenkeane.com/
 - **Jiwei Zhou** (2) — Design researcher, Faculty of Industrial Design Engineering, TU Delft. Jiwei Zhou designs living artefacts with cyanobacteria and studies how people care for them in daily life.
 - **Johan Redström** (2) — Professor, Umeå Institute of Design, Umeå University. Design theorist who writes on how design defines things and on the changing nature of objects in a digital world.
 - **Khasi and Jaintia communities of Meghalaya** (2) — Indigenous communities who grow living root bridges. Villages of the Khasi and Jaintia hills in north-east India have guided the aerial roots of Ficus elastica across rivers for generations.
+- **Kyungwon Lee** (2) — Researcher and media artist, Yonsei University. Kyungwon Lee creates interactive installations with living Euglena cells, such as MicroAquarium and EuglPollock.
 - **Li Jönsson** (2) — Design researcher, Denmark. Design researcher who works with speculative prototypes to bring people into contact with urban animals.
 - **Lining Yao** (2) — Associate Professor, UC Berkeley; director of the Morphing Matter Lab. Lining Yao designs shape-changing materials, including bioLogic, which used living natto bacteria as humidity-driven actuators.
 - **Marcus Carter** (2) — Human-Computer Interaction researcher, University of Sydney. Game and HCI researcher who builds digital enrichment for zoo animals, including orangutans at Melbourne Zoo.
 - **Marcus Coates** (2) — Artist and ornithologist. British artist whose performances and videos use shamanic ritual, bird mimicry and collaboration with scientists to step into animal perspectives. https://www.marcuscoates.co.uk/
+- **Maurizio Rossi** (2) — Researcher in embedded systems and energy harvesting, University of Trento. Maurizio Rossi designs ultra-low-power sensors that run on energy harvested from the environment, including plant-microbial fuel cells.
 - **Melody Moore Jackson** (2) — Professor, School of Interactive Computing, Georgia Institute of Technology; directs the Animal-Computer Interaction Lab. Researcher and dog trainer who designs wearable and touchscreen interfaces that service dogs operate.
+- **Metin Sitti** (2) — Roboticist; founding director of the Physical Intelligence Department, Max Planck Institute for Intelligent Systems. Roboticist working on small-scale, soft and bio-inspired robots, including microrobots propelled by bacteria. https://pi.is.mpg.de/
 - **Michael Strano** (2) — Professor of Chemical Engineering, MIT; pioneer of plant nanobionics. Michael Strano's lab embeds nanoparticles in living plants so they detect chemicals, report through infrared light, or glow.
+- **Michel Maharbiz** (2) — Professor of Electrical Engineering and Computer Sciences, UC Berkeley. Michel Maharbiz builds interfaces between microelectronics and living cells, from bacterial self-assembly on chips to neural dust implants.
 - **MycoWorks** (2) — Biotechnology company making Fine Mycelium leather-like materials. Founded in 2013 by Phil Ross, Sophia Wang and Eddie Pavlu, MycoWorks grows sheets of Fine Mycelium that are tanned and finished like leather. https://www.mycoworks.com/
 - **Natalie Jeremijenko** (2) — Artist and engineer; Associate Professor at NYU; director of the Environmental Health Clinic. Natalie Jeremijenko is an Australian artist-engineer whose projects invite people to act together with fish, trees, birds and robots to improve shared environments.
 - **Netta Ofer** (2) — PhD researcher, Living Matter Lab, ATLAS Institute, CU Boulder. Netta Ofer designs interactions with bioluminescent algae, kombucha and slime mould through organism-centred and first-person methods.
 - **Nonhuman Nonsense** (2) — Research-driven design and art studio. Studio founded by Leo Fidjeland and Linnea Våglund that makes speculative projects about ecology, rights of nature and more-than-human politics.
+- **Paolo Bombelli** (2) — Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher. Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.
 - **Paulo Tavares** (2) — Architect and researcher; founder of autonoma. Brazilian architect whose spatial research maps how Indigenous peoples shaped the Amazon and argues for the rights of forests.
 - **Pedro Lopes** (2) — Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab. Pedro Lopes studies devices that integrate with the user's body, from electrical muscle stimulation and chemical haptics to devices that contain living organisms. https://lab.plopes.org/
 - **Phil Ross** (2) — Artist and mycologist; co-founder and CTO of MycoWorks. Phil Ross has grown sculptures and buildings from Ganoderma (reishi) mycelium since the 1990s and coined the term Mycotecture. https://www.mycoworks.com/
@@ -5167,12 +5756,16 @@ Consciousness, consent and the futures of computing with living brains.
 - **Wil V. Srubar III** (2) — Associate Professor, University of Colorado Boulder; co-founder of Prometheus Materials. Wil Srubar leads the Living Materials Laboratory at CU Boulder, researching engineered living building materials and low-carbon cement. https://www.colorado.edu/lab/srubar/
 - **Xuanhe Zhao** (2) — Professor of Mechanical Engineering, MIT; directs the Soft Active Materials Lab. Xuanhe Zhao develops hydrogel machines and bioadhesives, including hydrogels that host living engineered bacteria.
 - **Yaniv Erlich** (2) — Computer scientist and geneticist; formerly Columbia University and the New York Genome Center. Researcher who designed DNA Fountain, a near-optimal coding scheme for DNA storage, and co-created the DNA-of-Things architecture.
+- **Zoë Breed** (2) — Researcher, Knowledge and Intelligence Design, Delft University of Technology. Zoë Breed designs and engineers bio-digital systems, from the bioluminescent-algae display Algae Alight to a computational taxonomy of how organisms and electronics share computing work.
 - **Ackroyd & Harvey** (1) — Artist duo: Heather Ackroyd and Dan Harvey. British artists working together since 1990 on growth and decay in living materials, known for photographs grown in grass; co-founders of Culture Declares Emergency. https://www.ackroydandharvey.com/
 - **Aganetha Dyck** (1) — Artist. Canadian artist who has worked with honeybees since the early 1990s, placing objects in hives so the bees cover them with comb. https://www.aganethadyck.ca/
 - **Ai Hasegawa** (1) — Artist and designer. Ai Hasegawa is a Japanese artist whose speculative designs deal with reproduction, biotechnology and the body.
 - **Akira Wakita** (1) — Professor, Faculty of Environment and Information Studies, Keio University. Akira Wakita works on information design, ambient displays and digital fabrication.
 - **Albert Keung** (1) — Associate Professor of Chemical and Biomolecular Engineering, North Carolina State University. Bioengineer working on DNA data storage and computing, and on synthetic epigenetics.
+- **Alessandro Bozzon** (1) — Professor of Human-Centered Artificial Intelligence, Delft University of Technology. Alessandro Bozzon works on human-centred AI and knowledge and intelligence design at TU Delft's Faculty of Industrial Design Engineering.
 - **Alex Metcalf** (1) — Artist and sculptor; creator of the Tree Listening Project. British artist who since 2007 has toured installations that let people listen to the inside of living trees through sensitive microphones. https://treelistening.co.uk/
+- **Alexandra Teixeira Riggs** (1) — PhD researcher, Digital Media, Georgia Institute of Technology. Alexandra Teixeira Riggs makes more-than-human and queer design work with biomaterials, sound and tangible media.
+- **Allison Kudla** (1) — Artist working with living systems, biology and technology. Allison Kudla makes installations in which machines read, print and tend living organisms such as cyanobacteria and plant cells.
 - **Anand Kumar Mishra** (1) — Research associate, Organic Robotics Lab, Cornell University. Engineer who built electrical interfaces that read mycelium signals and used them to drive soft and wheeled robots.
 - **Andrea Lavazza** (1) — Philosopher; Senior Research Fellow, Centro Universitario Internazionale, Arezzo. Philosopher of mind and neuroethicist who, with Marcello Massimini, first set out how to assess possible consciousness in cerebral organoids.
 - **André R. Studart** (1) — Professor of Complex Materials, ETH Zurich. André Studart designs bioinspired and living materials, including 3D-printed materials that contain bacteria or fungi. https://complex.mat.ethz.ch/
@@ -5207,7 +5800,6 @@ Consciousness, consent and the futures of computing with living brains.
 - **Botanicalls** (1) — Project team: Kati London, Rob Faludi, Kate Hartman and Rebecca Bray. Group formed at NYU ITP in 2006 that gave houseplants a voice through phone calls and, later, Twitter. https://www.botanicalls.com/
 - **Brandon Ballengée** (1) — Artist and biologist. Brandon Ballengée is an American artist-biologist who studies amphibian deformities and species decline. https://brandonballengee.com
 - **Bruno Latour** (1) — Philosopher, sociologist and curator (1947–2022). Bruno Latour was a French philosopher of science whose actor-network theory and writings on Gaia shaped how design and art think about nonhuman agency. http://www.bruno-latour.fr
-- **C-Lab (Laura Cinti & Howard Boland)** (1) — Art-science studio. London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology. https://www.c-lab.co.uk
 - **Carla Alcalà Badias** (1) — Artist. Spanish artist working with sound, sediments and microorganisms, often with marine scientists.
 - **Carole Collet** (1) — Professor in Design for Sustainable Futures; director of the Design & Living Systems Lab, Central Saint Martins. Carole Collet researches textile design, biomimicry and synthetic biology at Central Saint Martins, University of the Arts London. https://www.carolecollet.com/
 - **Catalog** (1) — DNA data storage and computing start-up (key assets acquired by Biomemory in 2026). Company that built a machine to write data into DNA from pre-made pieces, and stored English Wikipedia in DNA in 2019. https://www.catalogdna.com/
@@ -5231,6 +5823,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Denise Herzing** (1) — Founder and Research Director, Wild Dolphin Project. Marine biologist who has studied a community of wild Atlantic spotted dolphins in the Bahamas since 1985. https://www.wilddolphinproject.org/
 - **Diana Scherer** (1) — Artist and designer. Diana Scherer trains the roots of plants to grow into patterned textile-like material, working with biologists at Radboud University. https://dianascherer.nl/
 - **Dirk Hebel** (1) — Professor of Sustainable Construction, Karlsruhe Institute of Technology. Dirk Hebel researches cultivated and recycled building materials, including bamboo composites and mycelium. https://nb.ieb.kit.edu/
+- **Dominique Chen** (1) — Professor, Faculty of Letters, Arts and Sciences, Waseda University. Dominique Chen researches information technology and wellbeing; with the Ferment Media Research group he built Nukabot, a talking bucket of fermenting rice bran.
 - **Donna Haraway** (1) — Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz. Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.
 - **Earth Species Project** (1) — Nonprofit AI research lab co-founded by Aza Raskin and Britt Selvitelle. Earth Species Project develops machine-learning models and benchmarks to decode animal communication. https://www.earthspecies.org
 - **Eldy S. Lazaro Vasquez** (1) — Designer and HCI researcher (biomaterials and wearables). Eldy S. Lazaro Vasquez designs sustainable wearables and prototyping methods with biomaterials such as mycelium and bacterial cellulose.
@@ -5248,12 +5841,14 @@ Consciousness, consent and the futures of computing with living brains.
 - **Gavin Munro** (1) — Designer; co-founder of Full Grown. Gavin Munro co-founded Full Grown with Alice Munro and grows chairs, lamps and tables from living trees on a farm near Wirksworth. https://fullgrown.co.uk/
 - **Gizem Gumuskaya** (1) — Researcher; developed Anthrobots as a PhD student in Michael Levin's lab at Tufts; trained as an architect at MIT. Architect turned synthetic morphologist who builds multicellular robots from adult human cells.
 - **Glowee** (1) — Start-up making light with bioluminescent bacteria. Glowee was founded by Sandra Rey in 2014 to develop lighting from bioluminescent marine bacteria for shop windows, events and cities. https://www.glowee.com/
+- **Güneş-Hélène Isitan** (1) — Bioartist and researcher. Güneş-Hélène Isitan makes interactive bioart installations in which people meet microorganisms such as paramecia through touch and electricity.
 - **Heather Dewey-Hagborg** (1) — Artist and biohacker. Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping. https://deweyhagborg.com
 - **Heiko Hamann** (1) — Professor of Computer Science, University of Konstanz; coordinator of flora robotica. Roboticist working on swarm robotics and robot–plant biohybrids.
 - **Henk Jonkers** (1) — Professor of Sustainable Building Materials, TU Delft. Microbiologist Henk Jonkers developed bacteria-based self-healing concrete, commercialised by the spin-off Basilisk. https://basiliskconcrete.com/en/
 - **Het Nieuwe Instituut** (1) — Dutch national institute for architecture, design and digital culture. Het Nieuwe Instituut is a museum and research institute whose research team, led by Klaas Kuitenbrouwer, developed the Zoöp model. https://zoop.hetnieuweinstituut.nl/en
 - **Hirokazu Takahashi** (1) — Professor of Mechano-Informatics, The University of Tokyo. Engineer whose lab uses living neuronal cultures as physical reservoirs to control robots.
 - **Hubert Duprat** (1) — Artist. French artist known for giving caddisfly larvae gold flakes and precious stones, from which they build their protective cases.
+- **IAAC** (1) — Institute for Advanced Architecture of Catalonia. IAAC is an architecture school and research centre in Barcelona whose master's programmes explore digital fabrication, data and biomaterials.
 - **Ian Cheng** (1) — Artist. American artist who builds live simulations of artificial creatures that learn, change and die without a script. http://iancheng.com/
 - **Interspecies Internet** (1) — Initiative founded by Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf. Interspecies Internet is a think tank that brings together researchers, technologists and artists to explore communication between humans and other animals. https://www.interspecies.io
 - **Isaac Monté** (1) — Designer and artist. Dutch designer who works with biological tissue and material processes, including decellularised organs.
@@ -5263,6 +5858,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **James J. Collins** (1) — Termeer Professor of Medical Engineering and Science, MIT. Bioengineer, a founder of synthetic biology, who built the genetic toggle switch and later paper-based cell-free diagnostics. https://collinslab.mit.edu/
 - **Jana Winderen** (1) — Sound artist working with hydrophones and ultrasonic recording. Trained in mathematics, chemistry and fish ecology, Winderen records sounds in the sea, ice and rivers that humans usually cannot hear, and composes them into multichannel installations. https://www.janawinderen.com/
 - **Jane Bennett** (1) — Professor of Political Science, Johns Hopkins University. Political theorist who develops a vital materialism in which things and materials have their own agency.
+- **Jeffrey J. Tabor** (1) — Professor of Bioengineering and Biosciences, Rice University. Jeffrey Tabor engineers light-controlled genetic circuits in bacteria; his early work turned E. coli lawns into biological film and an edge-detecting computer.
 - **Jen Liu** (1) — Designer and researcher; PhD, Cornell University. Designer-researcher who made wearable tools for mushroom foraging to study how people and fungi survive together. https://jenliujenliu.com/
 - **Jenn Leung** (1) — Designer and researcher, University of the Arts London; Antikythera studio. Designer and researcher who works on computation, simulation and games; co-author of a design-space study of organoid array computing for Antikythera.
 - **Jenna Sutela** (1) — Artist. Finnish artist who works with microbes, slime moulds and machine learning to explore language and cognition beyond the human. https://jennasutela.com/
@@ -5271,14 +5867,18 @@ Consciousness, consent and the futures of computing with living brains.
 - **Joe Davis** (1) — Artist; research affiliate at MIT and Harvard Medical School. Joe Davis is an American artist who has worked in molecular biology labs since the 1980s.
 - **John A. Rogers** (1) — Professor of Materials Science and Biomedical Engineering, Northwestern University. Materials scientist known for bio-integrated and 3D-assembled electronics, including pop-up frameworks that wrap around neural spheroids. https://rogersgroup.northwestern.edu
 - **John LaRocco** (1) — Research scientist, College of Medicine, The Ohio State University. Engineer who grows shiitake mycelium into memristors and other electronic components.
+- **Johnny DiBlasi** (1) — Artist; Assistant Professor, Department of Art, University at Buffalo; co-founder of Phylum. Johnny DiBlasi makes computational and bio-digital artworks, including Beauty, in which an AI agent tends cultures of social bacteria.
 - **Jonas Edvard** (1) — Material designer. Jonas Edvard is a Danish designer who works with mycelium, seaweed and stone to make lamps, tiles, chairs and shelters. https://www.jonasedvard.com/
 - **Jonathan Ho** (1) — Artist. Artist whose installations mix mythology, biology and gender, working with snail biologist Joris Koene on hermaphroditism.
 - **Josiah Hester** (1) — Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing. Josiah Hester builds battery-free and intermittent computing systems powered by the environment.
 - **Julia Lohmann** (1) — Designer; Professor of Contemporary Design, Aalto University; founder of the Department of Seaweed. Julia Lohmann founded the Department of Seaweed in 2013 as designer-in-residence at the V&A and works with kelp as a leather-like material. https://www.julialohmann.co.uk/
+- **Julie Freeman** (1) — Artist and computer scientist; director of the data-art studio Translating Nature. Julie Freeman makes artworks from data produced by living systems, from fish movements to microbial electricity.
+- **Jun Yao** (1) — Associate Professor of Electrical and Computer Engineering, University of Massachusetts Amherst. Jun Yao develops bio-derived electronics, including protein-nanowire and biofilm devices that generate electricity from humidity and evaporation.
 - **Karen Alim** (1) — Professor of Theory of Biological Networks, Technical University of Munich. Physicist who studies how flow networks in slime moulds and other organisms store information and make decisions.
 - **Karin Strauss** (1) — Senior Principal Research Manager, Microsoft Research; affiliate professor, University of Washington. Computer architect who leads Microsoft's DNA data storage research.
 - **Karola V. Kreitmair** (1) — Assistant Professor of Medical History and Bioethics, University of Wisconsin–Madison. Bioethicist who writes on neurotechnology and on how uncertainty about consciousness should shape brain organoid research.
 - **Kasia Molga** (1) — Artist and designer; Studio Molga. Polish-born artist who works with environmental and biological data, AI and living organisms; co-founded World Wilder Lab in 2013 with Erik Overmeire and Ivan Henriques. https://www.studiomolga.com/
+- **Katherine W. Song** (1) — Assistant Professor, Knowledge and Intelligence Design, Delft University of Technology. Katherine W. Song builds sustainable and biodegradable interactive devices and electronics, with a background in electrical engineering and HCI.
 - **Katia Vega** (1) — Associate Professor of Design, UC Davis; director of the Interactive Organisms Lab. Katia Vega creates beauty technology and interactive wearables, including biosensing tattoos and biomaterial accessories. https://www.katiavega.com/
 - **Keel Labs (formerly AlgiKnit)** (1) — Materials company making kelp-based yarn. Founded in 2017 as AlgiKnit by Tessa Callaghan and Aleksandra Gosiewski, Keel Labs makes Kelsun yarn from alginate extracted from kelp. https://www.keellabs.com/
 - **Kenichi Okada** (1) — Designer; Royal College of Art Design Interactions graduate. Kenichi Okada is a Japanese interaction designer who co-created Animal Superpowers with Chris Woebken at the Royal College of Art.
@@ -5289,6 +5889,7 @@ Consciousness, consent and the futures of computing with living brains.
 - **Kristina Lindström** (1) — Design researcher, School of Arts and Communication, Malmö University. Participatory design researcher who, with Åsa Ståhl, works on plastics, compost and living in the aftermath of design.
 - **Kuai Shen** (1) — Artist. Kuai Shen (Kuai Shen Auson) is an Ecuadorian artist who creates installations with ant colonies.
 - **Kuang-Yi Ku** (1) — Bio artist, trained dentist. Taiwanese bio artist and researcher who uses biotechnology and speculative anatomy to explore queer sexuality and the body.
+- **Laura Grebenstein** (1) — Researcher, Friedrich-Alexander-Universität Erlangen-Nürnberg (molecular communication). Laura Grebenstein builds microscale molecular-communication testbeds that use engineered bacteria to convert light into chemical signals.
 - **Leonard Adleman** (1) — Professor of Computer Science, University of Southern California. Computer scientist, co-inventor of RSA encryption and founder of DNA computing.
 - **Leonardo Angelini** (1) — Professor, HES-SO University of Applied Sciences of Western Switzerland, Fribourg. Leonardo Angelini designs tangible and embodied interfaces for older adults and everyday objects.
 - **Livin Studio** (1) — Design studio of Katharina Unger and Julia Kaisinger. Livin Studio, founded by Katharina Unger and Julia Kaisinger, designs food systems such as insect farms and fungal incubators. https://katharinaunger.com/
@@ -5301,16 +5902,17 @@ Consciousness, consent and the futures of computing with living brains.
 - **Maja Smrekar** (1) — Artist. Maja Smrekar is a Slovenian artist working with biotechnology and human–animal co-evolution. https://www.majasmrekar.org
 - **Maliheh Ghajargar** (1) — Researcher, Internet of Things and People Research Center, Malmö University. Interaction design researcher working on tangible interaction, AI and multispecies storytelling.
 - **Marcos Cruz** (1) — Professor of Innovative Environments, The Bartlett (UCL); co-director of BiotA Lab. Marcos Cruz is an architect who designs bioreceptive façades that invite moss, lichen and algae to grow.
+- **Marin Sawa** (1) — Research fellow, Imperial College London; designer and bioengineer of printed biophotovoltaics. Marin Sawa, trained in textile design and bioengineering, inkjet-prints living cyanobacteria to make paper-based solar bio-batteries.
 - **Marta de Menezes** (1) — Artist; director of Cultivamos Cultura. Marta de Menezes is a Portuguese artist who has made art in biology labs since 1999. https://martademenezes.com
 - **Martin Kaltenbrunner** (1) — Professor, Soft Matter Physics and LIT Soft Materials Lab, Johannes Kepler University Linz. Physicist building soft, stretchable and biodegradable electronics and robots. https://www.jku.at/en/institute-of-experimental-physics/soft-matter-physics/
+- **Martin Pumera** (1) — Director, Center for Advanced Functional Nanorobots, University of Chemistry and Technology Prague. Martin Pumera's group builds micro- and nanorobots, including biobots made from magnetotactic bacteria for water cleaning.
 - **Martin Tomitsch** (1) — Professor of design and interaction; formerly University of Sydney Design Lab, now UTS. Interaction design researcher working on cities, urban interfaces and planet-centred design.
 - **Martín Tironi** (1) — Associate Professor, School of Design, Pontificia Universidad Católica de Chile. Design and STS researcher working on smart cities, algorithms and post-anthropocentric design.
 - **Matthijs Munnik** (1) — Artist. Dutch artist making audiovisual installations about perception, light and living systems.
 - **Max Rheiner** (1) — Media artist; creator of Birdly; founder of Somniacs. Swiss interaction designer who built the full-body flight simulator Birdly at ZHdK in 2013–14 and later founded the company Somniacs to produce it.
-- **Metin Sitti** (1) — Roboticist; founding director of the Physical Intelligence Department, Max Planck Institute for Intelligent Systems. Roboticist working on small-scale, soft and bio-inspired robots, including microrobots propelled by bacteria. https://pi.is.mpg.de/
+- **Mengyao Guo** (1) — Researcher, Future Design School, Harbin Institute of Technology (Shenzhen). Mengyao Guo designs bio-HCI games and visualisations driven by living organisms such as slime moulds.
 - **Michael Elowitz** (1) — Professor of Biology and Bioengineering, Caltech; HHMI Investigator. Biologist who built the repressilator, one of the first synthetic gene circuits, and studies how cells compute. https://www.elowitz.caltech.edu/
 - **Michael Haldrup** (1) — Professor, Department of Communication and Arts, Roskilde University. Researcher in performance design and participatory spatial design.
-- **Michael Sedbon** (1) — Artist. French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.
 - **Michela Chiappalone** (1) — Associate Professor of Bioengineering, University of Genoa; formerly Istituto Italiano di Tecnologia. Bioengineer who embodied modular neuronal cultures in closed-loop robot navigation tasks.
 - **Mike Thompson** (1) — Designer. Mike Thompson is a designer who makes speculative products about energy and everyday life.
 - **Milan Stojanovic** (1) — Professor of Medicine and Biomedical Engineering, Columbia University. Chemist who built MAYA, DNA-enzyme automata that play tic-tac-toe against people.
@@ -5330,14 +5932,15 @@ Consciousness, consent and the futures of computing with living brains.
 - **Ninela Ivanova** (1) — Design researcher and strategist. Ninela Ivanova is a design researcher who studies biofabrication and the future of materials. https://www.ninelaivanova.co.uk/
 - **Nita A. Farahany** (1) — Professor of Law and Philosophy, Duke University. Legal scholar and ethicist of neurotechnology who led a 2018 call in Nature for ethical rules on experiments with human brain tissue, organoids and chimeras. https://law.duke.edu/fac/farahany
 - **Notpla** (1) — Packaging company making materials from seaweed. Notpla, founded as Skipping Rocks Lab by Rodrigo García González and Pierre Paslier, makes edible and compostable packaging from seaweed and plants. https://www.notpla.com/
+- **Nova Innova** (1) — Dutch design and innovation studio for nature-based technology. Nova Innova designs public installations and products that run on nature-based energy, such as microbial fuel cells in city water.
 - **Olafur Eliasson** (1) — Artist; founder of Studio Olafur Eliasson. Danish-Icelandic artist whose installations work with light, water, air and temperature; the artist's Berlin studio employs craftspeople, architects and researchers. https://olafureliasson.net/
-- **Paolo Bombelli** (1) — Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher. Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.
 - **Pascal Leboucq** (1) — Set designer and artist. Pascal Leboucq is a Dutch set designer who initiated the Growing Pavilion with the organisation Biobased Creations. https://thegrowingpavilion.com/
 - **Patricia Pons** (1) — Researcher, Universitat Politècnica de València. Researcher who builds intelligent playful environments for cats and other animals using depth cameras.
 - **Paul Rothemund** (1) — Research Professor of Bioengineering, Computing and Mathematical Sciences, and Computation and Neural Systems, Caltech. Computer scientist who invented DNA origami: folding a long DNA strand into any 2D shape with short staple strands.
 - **Paul Vanouse** (1) — Artist; professor at the University at Buffalo. Paul Vanouse is an American artist who uses molecular biology techniques in performances. https://www.paulvanouse.com
 - **Pei-Ying Lin** (1) — Designer and artist. Taiwanese designer and researcher making speculative work on viruses, microbes and human–nonhuman relations. https://peiyinglin.net
 - **Philip Beesley** (1) — Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group. Philip Beesley builds immersive responsive environments that behave like near-living systems. https://www.philipbeesleystudioinc.com
+- **Philip Wijesinghe** (1) — Researcher in optics and photonics, University of St Andrews. Philip Wijesinghe works on optical imaging and light manipulation and writes commentary on biophotonics research.
 - **Philips Design** (1) — Design division of Royal Philips. Philips Design ran the Design Probes programme, which explored far-future lifestyles in speculative concepts. https://www.philips.com/
 - **Pinar Yoldas** (1) — Artist; professor at UC San Diego. Pinar Yoldas is a Turkish-born artist and architect who designs speculative organisms. https://www.pinaryoldas.info
 - **Plant-e** (1) — Wageningen spin-off company producing plant microbial fuel cells. Plant-e, co-founded by Marjolein Helder, harvests electricity from bacteria that feed on organic matter released by the roots of living plants. https://plant-e.com/
@@ -5354,12 +5957,14 @@ Consciousness, consent and the futures of computing with living brains.
 - **Roya Aghighi** (1) — Designer. Roya Aghighi is an Iranian-Canadian designer who worked with University of British Columbia labs on living, photosynthetic textiles.
 - **Ryohei Kanzaki** (1) — Professor, Research Center for Advanced Science and Technology, University of Tokyo. Neuroethologist who studies how silkmoths track odour, using robots driven by live moths.
 - **SPACE10** (1) — Research and design lab supported by IKEA. SPACE10 explored future living, food and cities through exhibitions and prototypes until 2024. https://space10.com/
+- **SWAMP** (1) — Art collective of Douglas Easterly and Matt Kenyon (Studies of Work Atmosphere and Mass Production). SWAMP (Douglas Easterly and Matt Kenyon) makes critical media art about technology, labour and living systems.
 - **Samar Khan** (1) — Designer and researcher. Designer and researcher who co-created the film Ecotonal Beings with Emilia Tapprest.
 - **Sascha Pohflepp** (1) — Designer and artist (1978–2019). Sascha Pohflepp was a German designer whose speculative work dealt with technology, energy and synthetic biology.
 - **Sawyer Fuller** (1) — Faculty member in Mechanical Engineering, University of Washington; leads the Autonomous Insect Robotics Lab. Roboticist building insect-sized flying robots and sensors that borrow from insect biology.
 - **Saša Spačal** (1) — Artist. Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies. https://www.agapea.si
 - **Scenocosme** (1) — Artist duo Grégory Lasserre and Anaïs met den Ancxt. Scenocosme make interactive installations with plants, wood and bodies that react to touch and human bioelectricity. https://www.scenocosme.com/
 - **Sebastian Cox** (1) — Furniture designer and maker. Sebastian Cox designs furniture from coppiced British hardwoods and runs his own woodland. https://www.sebastiancox.co.uk/
+- **Sema Dumanli** (1) — Associate Professor of Electrical and Electronics Engineering, Boğaziçi University. Sema Dumanli designs implantable and wearable antennas, including bio-hybrid implants in which engineered bacteria change an antenna's signal.
 - **Seth Shipman** (1) — Associate Investigator, Gladstone Institutes; Associate Professor, UCSF. Bioengineer who turns living cells into recorders that write events into their own DNA. https://gladstone.org/people/seth-shipman
 - **Shimabuku** (1) — Artist. Japanese artist whose playful actions and objects are often made for or with animals, especially octopuses and fish. http://www.shimabuku.net/
 - **Shimon Marom** (1) — Professor of Physiology, Technion – Israel Institute of Technology. Neurophysiologist who showed in 2001 that cultured cortical networks can learn a stimulus-response task when stimulation stops as a reward.
@@ -5370,15 +5975,19 @@ Consciousness, consent and the futures of computing with living brains.
 - **Spiber** (1) — Japanese company producing Brewed Protein fibres. Spiber, founded in 2007 at Keio University, ferments designed structural proteins with microbes and spins them into fibres and films. https://spiber.inc/en/
 - **Stefan Kahl** (1) — Computer scientist; BirdNET lead, K. Lisa Yang Center for Conservation Bioacoustics (Cornell) and TU Chemnitz. Stefan Kahl develops deep-learning models that recognise bird and other animal sounds for biodiversity monitoring. https://birdnet.cornell.edu
 - **Studio PSK** (1) — Design studio (Patrick Stevenson-Keating). London design studio making speculative objects and narratives about science, technology and economics.
+- **Sylvain Martel** (1) — Professor, Polytechnique Montréal; director of the NanoRobotics Laboratory. Sylvain Martel pioneered steering magnetotactic bacteria with magnetic fields to move microrobots and deliver drugs.
 - **The Thought Emporium** (1) — DIY science YouTube channel run by Justin Atkin. A hobbyist biology and engineering lab on YouTube that grows rat neurons on home-made electrode arrays and tries to make them play Doom.
 - **Tianjin University Haptics & Brain-Computer Interface Team** (1) — Research team at Tianjin University working with the Southern University of Science and Technology. University team that built MetaBOC, an open-source brain-on-chip system that lets a brain organoid steer a small robot.
 - **Tiffany Wun** (1) — Design researcher, Everyday Design Studio, Simon Fraser University. Researcher who designs probes that bring more-than-human ideas into everyday design practice, such as vermicomposting kits.
+- **Tim Dobbs** (1) — Community biologist; founder of BioArtBot at Counter Culture Labs. Tim Dobbs runs BioArtBot, an open-source project at Counter Culture Labs that lets anyone online design pixel art printed with coloured E. coli by a lab robot.
 - **Timothy Merritt** (1) — Associate Professor, Department of Computer Science, Aalborg University. Timothy Merritt researches shape-changing, tangible and living media interfaces.
 - **Tony Fry** (1) — Design theorist; founder of The Studio at the Edge of the World. Design philosopher who writes on sustainment, defuturing and design after unsustainability.
 - **United Visual Artists** (1) — Art and design practice working with light, sound and code. London studio founded in 2003 by Matt Clark that makes large installations with light, sound and software. https://www.uva.co.uk/
+- **Valentin Postl** (1) — Researcher, University of Applied Sciences Upper Austria (Media Interaction Lab). Valentin Postl builds fabrication tools for living media, including a 3D printer modified to print mould spores into drawings.
 - **Victoria Webster-Wood** (1) — Associate Professor of Mechanical Engineering, Carnegie Mellon University; Biohybrid and Organic Robotics Group. Engineer who builds biohybrid robots from sea-slug (Aplysia) muscle and nerve tissue and organic materials. https://engineering.cmu.edu/borg/
 - **Vito Gentile** (1) — Researcher, Ubiquitous Systems and Interfaces group, University of Palermo. Vito Gentile researches pervasive displays and touchless interaction in public spaces.
 - **Werner Aisslinger** (1) — Industrial designer; founder of Studio Aisslinger. Werner Aisslinger designs furniture, interiors and experimental material projects such as the Hemp Chair. https://aisslinger.de/
+- **Where Dogs Run** (1) — Art group from Yekaterinburg (Natalia Grekhova, Olga Inozemtseva, Alexey Korzukhin and others). Where Dogs Run is an art group that builds robotic and biological installations about memory, information and living systems.
 - **Wild Me** (1) — Nonprofit behind Wildbook, now part of Conservation X Labs. Wild Me builds open-source software that identifies individual animals from photographs contributed by researchers and the public. https://www.wildme.org
 - **William Myers** (1) — Curator, writer and teacher. William Myers is an American curator based in Amsterdam who writes about the use of living systems in design and art. https://www.william-myers.com
 - **Wolfgang Buttress** (1) — Artist and sculptor. British artist who makes large sculptures about landscape and nature, often with scientists; best known for The Hive, which is driven by live honeybee signals. https://www.wolfgangbuttress.com/
@@ -5386,9 +5995,12 @@ Consciousness, consent and the futures of computing with living brains.
 - **Xiaodong Chen** (1) — Professor of Materials Science and Engineering, Nanyang Technological University, Singapore. Xiaodong Chen develops soft bio-interfaced electronics, including conformable electrodes for plants.
 - **Yannick Rondelez** (1) — CNRS Research Director, Gulliver laboratory, ESPCI Paris. Chemist who builds dynamic molecular programs from DNA and enzymes that oscillate, compute and decide.
 - **Yu Fukasawa** (1) — Associate Professor, Graduate School of Agricultural Science, Tohoku University. Fungal ecologist who studies how wood-decay fungi and mycorrhizal networks sense, remember and signal.
+- **Yuta Ikeya** (1) — Designer and researcher, Industrial Design, Eindhoven University of Technology. Yuta Ikeya designs speculative computing artefacts with living organisms, such as the Algal Relay Computer that calculates through algae growth.
 - **ZKM | Center for Art and Media Karlsruhe** (1) — Art and media museum and research centre. ZKM is a German institution for media art that produces large thematic exhibitions on technology, science and society. https://zkm.de
 - **Zena Holloway** (1) — Photographer and biodesigner; founder of Rootfull. Former underwater photographer Zena Holloway founded Rootfull in 2018 to grow textiles and objects from grass roots in beeswax templates. https://www.zenaholloway.com/
 - **Zhenan Bao** (1) — Professor of Chemical Engineering, Stanford University. Materials scientist working on skin-like stretchable electronics, including kirigami-cut electrode sheets that follow growing organoids. https://baogroup.stanford.edu
 - **hOrO mO X** (1) — Digital artist. Paris-based artist working with quantum randomness, AI and biocomputers; the MindWare series connects him to FinalSpark organoids. https://horomox.com
+- **iGEM Paris Bettencourt** (1) — Student synthetic-biology team at the Learning Planet Institute, Paris. iGEM Paris Bettencourt is a student team competing in the international iGEM synthetic-biology competition.
 - **terra0** (1) — Art collective (Paul Kolling, Paul Seidler, Max Hampshire). terra0 is an art collective, founded in 2015, that explores how ecosystems could become economic and legal agents through blockchains and smart contracts. https://www.terra0.org
 - **Åsa Ståhl** (1) — Design researcher, Linnaeus University. Design researcher who works with Kristina Lindström on participatory design with plastics, compost and other more-than-human matters.
+- **Đan Vy Vu** (1) — Researcher, Industrial Design, Eindhoven University of Technology. Đan Vy Vu studies how digital twins can help designers handle the uncertainty of growing materials with mycelium.

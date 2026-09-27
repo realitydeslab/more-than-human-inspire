@@ -1,0 +1,330 @@
+{
+ "patch_works": {
+  "michelle-westerlaken--becoming-with": {
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ]
+  },
+  "clara-mancini--multispecies-participation": {
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ]
+  },
+  "clara-mancini--aci-manifesto": {
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ]
+  },
+  "clara-mancini--animal-centred-ethics": {
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--ethical-tensions-multispecies": {
+   "field": "aci",
+   "sub": "aci-theory",
+   "also": [
+    "mth"
+   ]
+  },
+  "clara-mancini--cancer-detection-dogs": {
+   "field": "aci",
+   "sub": "working",
+   "also": [
+    "mth"
+   ]
+  },
+  "charlotte-robinson--diabetes-alert-dogs": {
+   "field": "aci",
+   "sub": "working",
+   "also": [
+    "mth"
+   ]
+  },
+  "melody-moore-jackson--fido": {
+   "field": "aci",
+   "sub": "working",
+   "also": [
+    "mth"
+   ]
+  },
+  "melody-moore-jackson--going-to-the-dogs": {
+   "field": "aci",
+   "sub": "working",
+   "also": [
+    "mth"
+   ]
+  },
+  "ilyena-hirskyj-douglas--dogphone": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "rebecca-kleinberger--parrot-video-calls": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "rebecca-kleinberger--no-more-angry-birds": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "anna-zamansky--log-my-dog": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "adrian-david-cheok--poultry-internet": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "jiabao-li--squeeker-mouse-coach": {
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "mth"
+   ]
+  },
+  "roosa-piitulainen--music-for-monkeys": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "ilyena-hirskyj-douglas--monkeys-audio-or-visual": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "fiona-french--more-than-human-aesthetics-elephants": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "fiona-french--interactive-toys-for-elephants": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "sarah-webber--kinecting-with-orangutans": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "marcus-carter--orangutan-interactive-projections": {
+   "field": "aci",
+   "sub": "enrichment",
+   "also": [
+    "mth"
+   ]
+  },
+  "adrian-david-cheok--metazoa-ludens": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "frank-noz--cat-cat-revolution": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "chadwick-wingrave--canine-amusement-and-training": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "patricia-pons--interspecies-digital-games": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "blast-theory--cat-royale": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--multispecies-worlds": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--tas-for-cats": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--designing-for-trust-animal-centric": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--ecosystem-of-trust-cat-royale": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "steve-benford--provoking-reflection-cat-royale": {
+   "field": "aci",
+   "sub": "play",
+   "also": [
+    "mth"
+   ]
+  },
+  "thad-starner--chat-dolphin-wearable": {
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ]
+  },
+  "project-ceti--project-ceti": {
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ]
+  },
+  "project-ceti--sperm-whale-phonetic-alphabet": {
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ]
+  },
+  "earth-species-project--naturelm-audio": {
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ]
+  },
+  "interspecies-internet--interspecies-internet": {
+   "field": "aci",
+   "sub": "communication",
+   "also": [
+    "mth"
+   ]
+  },
+  "beatriz-da-costa--pigeonblog": {
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth",
+    "hni"
+   ]
+  },
+  "jiabao-li--animo-wildlife-priority": {
+   "field": "aci",
+   "sub": "wildlife",
+   "also": [
+    "mth"
+   ]
+  },
+  "stefan-kahl--birdnet": {
+   "field": "hni",
+   "sub": "citizen-science",
+   "also": [
+    "aci"
+   ]
+  },
+  "cornell-lab-of-ornithology--merlin-sound-id": {
+   "field": "hni",
+   "sub": "citizen-science",
+   "also": [
+    "aci"
+   ]
+  },
+  "wild-me--wildbook": {
+   "field": "hni",
+   "sub": "citizen-science",
+   "also": [
+    "aci"
+   ]
+  },
+  "rainforest-connection--guardian": {
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ]
+  },
+  "jiabao-li--echovision": {
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "aci",
+    "mth"
+   ]
+  },
+  "marshmallow-laser-feast--in-the-eyes-of-the-animal": {
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "aci",
+    "mth"
+   ]
+  },
+  "max-rheiner--birdly": {
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "aci"
+   ]
+  },
+  "chris-woebken--animal-superpowers": {
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "aci",
+    "mth"
+   ]
+  }
+ }
+}

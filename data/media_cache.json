@@ -11290,5 +11290,1216 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/952dc79ee79a/gr1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/952dc79ee79a/gr1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/bfc91713360f/gr2.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/bfc91713360f/gr2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.bpj.2017.04.011": {
+  "doi": "10.1016/j.bpj.2017.04.011",
+  "ok": true,
+  "type": "doi",
+  "title": "Long-Term, Stochastic Editing of Regenerative Anatomy via Targeting Endogenous Bioelectric Gradients",
+  "year": 2017,
+  "venue": "Biophysical Journal",
+  "url": "https://doi.org/10.1016/j.bpj.2017.04.011"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9be/8791464/db53aba00e45/sciadv.abj2164-f1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9be/8791464/db53aba00e45/sciadv.abj2164-f1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1126/sciadv.abj2164": {
+  "doi": "10.1126/sciadv.abj2164",
+  "ok": true,
+  "type": "doi",
+  "title": "Acute multidrug delivery via a wearable bioreactor facilitates long-term limb regeneration and functional recovery in adult\n            Xenopus laevis",
+  "year": 2022,
+  "venue": "Science Advances",
+  "url": "https://doi.org/10.1126/sciadv.abj2164"
+ },
+ "img:https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/768201/fnsys-16-768201-HTML-r1/image_m/fnsys-16-768201-g001.jpg": {
+  "url": "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/768201/fnsys-16-768201-HTML-r1/image_m/fnsys-16-768201-g001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.3389/fnsys.2022.768201": {
+  "doi": "10.3389/fnsys.2022.768201",
+  "ok": true,
+  "type": "doi",
+  "title": "Technological Approach to Mind Everywhere: An Experimentally-Grounded Framework for Understanding Diverse Bodies and Minds",
+  "year": 2022,
+  "venue": "Frontiers in Systems Neuroscience",
+  "url": "https://doi.org/10.3389/fnsys.2022.768201"
+ },
+ "video:youtube:XheAMrS8Q1c": {
+  "url": "https://www.youtube.com/watch?v=XheAMrS8Q1c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XheAMrS8Q1c",
+  "title": "Michael Levin: The electrical blueprints that orchestrate life | TED",
+  "author": "TED",
+  "thumbnail": "https://i.ytimg.com/vi/XheAMrS8Q1c/hqdefault.jpg"
+ },
+ "video:youtube:KQPP7AOr47g": {
+  "url": "https://www.youtube.com/watch?v=KQPP7AOr47g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "KQPP7AOr47g",
+  "title": "Local Researchers Able To Regrow Frog's Amputated Leg",
+  "author": "CBS Boston",
+  "thumbnail": "https://i.ytimg.com/vi/KQPP7AOr47g/hqdefault.jpg"
+ },
+ "video:youtube:7FGM33sz25k": {
+  "url": "https://www.youtube.com/watch?v=7FGM33sz25k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "7FGM33sz25k",
+  "title": "Bioelectric networks underlie the intelligence of the body",
+  "author": "Michael Levin's Academic Content",
+  "thumbnail": "https://i.ytimg.com/vi/7FGM33sz25k/hqdefault.jpg"
+ },
+ "video:youtube:qU6zi1_aZiw": {
+  "url": "https://www.youtube.com/watch?v=qU6zi1_aZiw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "qU6zi1_aZiw",
+  "title": "Ecobot III Goes Poo",
+  "author": "BotJunkie",
+  "thumbnail": "https://i.ytimg.com/vi/qU6zi1_aZiw/hqdefault.jpg"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/en/7/71/Image_eco_bot_-III.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/en/7/71/Image_eco_bot_-III.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2601.15804v1/figures/header_final_cropped.jpg": {
+  "url": "https://arxiv.org/html/2601.15804v1/figures/header_final_cropped.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2601.15804v1/figures/new_bio_digital_systems_thumbnails_copy.jpg": {
+  "url": "https://arxiv.org/html/2601.15804v1/figures/new_bio_digital_systems_thumbnails_copy.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arxiv.org/html/2601.15804v1/figures/viz_home.png": {
+  "url": "https://arxiv.org/html/2601.15804v1/figures/viz_home.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3772318.3790657": {
+  "doi": "10.1145/3772318.3790657",
+  "ok": true,
+  "type": "doi",
+  "title": "Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790657"
+ },
+ "arxiv:2601.15804": {
+  "arxiv": "2601.15804",
+  "ok": true,
+  "type": "arxiv",
+  "title": "Entangled Life and Code: A Computational Design Taxonomy for Synergistic Bio-Digital Systems",
+  "year": 2026,
+  "url": "https://arxiv.org/abs/2601.15804"
+ },
+ "video:youtube:6M6i0GM2nsY": {
+  "url": "https://www.youtube.com/watch?v=6M6i0GM2nsY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6M6i0GM2nsY",
+  "title": "Ecobot II explanation",
+  "author": "sWorgan",
+  "thumbnail": "https://i.ytimg.com/vi/6M6i0GM2nsY/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/ecobot.jpg": {
+  "url": "https://biodigitalviz.github.io/images/ecobot.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.5772/5777": {
+  "doi": "10.5772/5777",
+  "ok": true,
+  "type": "doi",
+  "title": "EcoBot-II: An Artificial Agent with a Natural Metabolism",
+  "year": 2005,
+  "venue": "International Journal of Advanced Robotic Systems",
+  "url": "https://doi.org/10.5772/5777"
+ },
+ "img:https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg": {
+  "url": "https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "doi:10.1109/memsys.2006.1627861": {
+  "doi": "10.1109/memsys.2006.1627861",
+  "ok": true,
+  "type": "doi",
+  "title": "A Micro \"Flea Circus\": Self Assembly of Bacteria Through Spatio-Temporal Control of Aerotaxis",
+  "year": 2006,
+  "venue": "19th IEEE International Conference on Micro Electro Mechanical Systems",
+  "url": "https://doi.org/10.1109/memsys.2006.1627861"
+ },
+ "img:https://biodigitalviz.github.io/images/MTB_microrobot.png": {
+  "url": "https://biodigitalviz.github.io/images/MTB_microrobot.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1109/aim.2007.4412427": {
+  "doi": "10.1109/aim.2007.4412427",
+  "ok": true,
+  "type": "doi",
+  "title": "Preliminary design of an autonomous microrobot propelled by magnetotactic bacteria",
+  "year": 2007,
+  "venue": "2007 IEEE/ASME international conference on advanced intelligent mechatronics",
+  "url": "https://doi.org/10.1109/aim.2007.4412427"
+ },
+ "img:https://biodigitalviz.github.io/images/parallel_computers.png": {
+  "url": "https://biodigitalviz.github.io/images/parallel_computers.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/1278480.1278642": {
+  "doi": "10.1145/1278480.1278642",
+  "ok": true,
+  "type": "doi",
+  "title": "Programming living cells to function as massively parallel computers",
+  "year": 2007,
+  "venue": "Proceedings of the 44th annual conference on Design automation - DAC '07",
+  "url": "https://doi.org/10.1145/1278480.1278642"
+ },
+ "img:https://biodigitalviz.github.io/images/emph_liv_media.png": {
+  "url": "https://biodigitalviz.github.io/images/emph_liv_media.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/1394445.1394495": {
+  "doi": "10.1145/1394445.1394495",
+  "ok": true,
+  "type": "doi",
+  "title": "Empathetic living media",
+  "year": 2008,
+  "venue": "Proceedings of the 7th ACM conference on Designing interactive systems",
+  "url": "https://doi.org/10.1145/1394445.1394495"
+ },
+ "img:http://allisonx.com/wp-content/uploads/2008/12/algae-punch-card-petri-1024x768.jpg": {
+  "url": "http://allisonx.com/wp-content/uploads/2008/12/algae-punch-card-petri-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://allisonx.com/wp-content/uploads/2008/12/3154897266_b6120856ec_o-1024x768.jpg": {
+  "url": "http://allisonx.com/wp-content/uploads/2008/12/3154897266_b6120856ec_o-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://biodigitalviz.github.io/images/crucible.jpg": {
+  "url": "https://biodigitalviz.github.io/images/crucible.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:jqILkd54ENY": {
+  "url": "https://www.youtube.com/watch?v=jqILkd54ENY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jqILkd54ENY",
+  "title": "HUMAN+ TARDIGOTCHI_SWAMP and TIAGO RORKE",
+  "author": "Science Gallery Dublin",
+  "thumbnail": "https://i.ytimg.com/vi/jqILkd54ENY/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/Tardigotchi.jpg": {
+  "url": "https://biodigitalviz.github.io/images/Tardigotchi.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/1935701.1935795": {
+  "doi": "10.1145/1935701.1935795",
+  "ok": true,
+  "type": "doi",
+  "title": "Tardigotchi",
+  "year": 2010,
+  "venue": "Proceedings of the fifth international conference on Tangible, embedded, and embodied interaction",
+  "url": "https://doi.org/10.1145/1935701.1935795"
+ },
+ "video:youtube:fEAfDs_8hD0": {
+  "url": "https://www.youtube.com/watch?v=fEAfDs_8hD0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "fEAfDs_8hD0",
+  "title": "Stress-o-stat",
+  "author": "C-LAB",
+  "thumbnail": "https://i.ytimg.com/vi/fEAfDs_8hD0/hqdefault.jpg"
+ },
+ "img:https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fstressostat%2FstressOstat_01.jpg?alt=media&token=e7e082f9-fb2f-43d6-8299-477c1ca466c3": {
+  "url": "https://firebasestorage.googleapis.com/v0/b/c-lab-fe10d.appspot.com/o/userdata%2Fprojects%2Fstressostat%2FstressOstat_01.jpg?alt=media&token=e7e082f9-fb2f-43d6-8299-477c1ca466c3",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://biodigitalviz.github.io/images/stress-o-stat.jpg": {
+  "url": "https://biodigitalviz.github.io/images/stress-o-stat.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07923.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07923.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07940_edit.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2014/03/dsc07940_edit.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://biodigitalviz.github.io/images/logic-gate.jpg": {
+  "url": "https://biodigitalviz.github.io/images/logic-gate.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1016/j.biosystems.2014.08.001": {
+  "doi": "10.1016/j.biosystems.2014.08.001",
+  "ok": true,
+  "type": "doi",
+  "title": "Slime mould logic gates based on frequency changes of electrical potential oscillation",
+  "year": 2014,
+  "venue": "Biosystems",
+  "url": "https://doi.org/10.1016/j.biosystems.2014.08.001"
+ },
+ "video:youtube:bC7yLdYbnkU": {
+  "url": "https://www.youtube.com/watch?v=bC7yLdYbnkU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bC7yLdYbnkU",
+  "title": "BioCanopy EXPO - Urban Algae Canopy",
+  "author": "ecoLogicStudio eLS",
+  "thumbnail": "https://i.ytimg.com/vi/bC7yLdYbnkU/hqdefault.jpg"
+ },
+ "img:https://admin.ecologicstudio.com/wp-content/uploads/2021/03/EXPO2015-74m.jpg": {
+  "url": "https://admin.ecologicstudio.com/wp-content/uploads/2021/03/EXPO2015-74m.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://admin.ecologicstudio.com/wp-content/uploads/2021/03/WP_20150527_21_18_22_Pro__highres-scaled.jpg": {
+  "url": "https://admin.ecologicstudio.com/wp-content/uploads/2021/03/WP_20150527_21_18_22_Pro__highres-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://farm2.staticflickr.com/1545/24486216019_abc97d5daf_k_d.jpg": {
+  "url": "https://farm2.staticflickr.com/1545/24486216019_abc97d5daf_k_d.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://farm2.staticflickr.com/1492/24760358331_b204617c4e_k_d.jpg": {
+  "url": "https://farm2.staticflickr.com/1492/24760358331_b204617c4e_k_d.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://dl.acm.org/cms/asset/2442beb4-fa94-4473-b4ab-1f1078831d6a/2677199.2680561.key.jpg": {
+  "url": "https://dl.acm.org/cms/asset/2442beb4-fa94-4473-b4ab-1f1078831d6a/2677199.2680561.key.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "doi:10.1145/2677199.2680561": {
+  "doi": "10.1145/2677199.2680561",
+  "ok": true,
+  "type": "doi",
+  "title": "Tangible Interactive Microbiology for Informal Science Education",
+  "year": 2015,
+  "venue": "Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/2677199.2680561"
+ },
+ "video:youtube:5y36KcWmBtw": {
+  "url": "https://www.youtube.com/watch?v=5y36KcWmBtw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5y36KcWmBtw",
+  "title": "Peninsula Arts Contemporary Music Festival Biocomputer",
+  "author": "University of Plymouth",
+  "thumbnail": "https://i.ytimg.com/vi/5y36KcWmBtw/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-26662-6_34/MediaObjects/385644_1_En_34_Fig2_HTML.gif": {
+  "url": "https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-3-319-26662-6_34/MediaObjects/385644_1_En_34_Fig2_HTML.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1007/978-3-319-26662-6_34": {
+  "doi": "10.1007/978-3-319-26662-6_34",
+  "ok": true,
+  "type": "doi",
+  "title": "Physarum-Based Memristors for Computer Music",
+  "year": 2016,
+  "venue": "Emergence, Complexity and Computation",
+  "url": "https://doi.org/10.1007/978-3-319-26662-6_34"
+ },
+ "img:https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png": {
+  "url": "https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "doi:10.26503/dl.v2016i1.753": {
+  "doi": "10.26503/dl.v2016i1.753",
+  "ok": true,
+  "type": "doi",
+  "title": "BioGraphr: Science Games on a Biotic Computer",
+  "year": 2016,
+  "venue": "DiGRA Digital Library",
+  "url": "https://doi.org/10.26503/dl.v2016i1.753"
+ },
+ "video:youtube:jJg0PEP5Ukc": {
+  "url": "https://www.youtube.com/watch?v=jJg0PEP5Ukc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "jJg0PEP5Ukc",
+  "title": "Caravel Do It With Others (time-lapse) | Lagos Ciência Viva Science Centre",
+  "author": "Ciência Viva Lagos",
+  "thumbnail": "https://i.ytimg.com/vi/jJg0PEP5Ukc/hqdefault.jpg"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2016/04/img_1996.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2016/04/img_1996.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2016/04/caravel_korneel-e1517413346684.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2016/04/caravel_korneel-e1517413346684.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:33gF1bvw2yQ": {
+  "url": "https://www.youtube.com/watch?v=33gF1bvw2yQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "33gF1bvw2yQ",
+  "title": "Micro-Ritmos, Leslie García y Paloma López Mamm 2016 - Medellín - Colombia",
+  "author": "Melissa Ibarbo",
+  "thumbnail": "https://i.ytimg.com/vi/33gF1bvw2yQ/hqdefault.jpg"
+ },
+ "img:https://farm6.staticflickr.com/5801/30454096641_4c9fa188d1_k_d.jpg": {
+  "url": "https://farm6.staticflickr.com/5801/30454096641_4c9fa188d1_k_d.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://farm6.staticflickr.com/5520/30541618515_d2b6f89fd2_k_d.jpg": {
+  "url": "https://farm6.staticflickr.com/5520/30541618515_d2b6f89fd2_k_d.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://biodigitalviz.github.io/images/Where_Species_Meet.png": {
+  "url": "https://biodigitalviz.github.io/images/Where_Species_Meet.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.ccastellanos.com/wp-content/gallery/microbial-sonorities/d.jpg": {
+  "url": "https://www.ccastellanos.com/wp-content/gallery/microbial-sonorities/d.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:pDvqnnBTjD0": {
+  "url": "https://www.youtube.com/watch?v=pDvqnnBTjD0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pDvqnnBTjD0",
+  "title": "BioSoNot",
+  "author": "Gilberto Esparza",
+  "thumbnail": "https://i.ytimg.com/vi/pDvqnnBTjD0/hqdefault.jpg"
+ },
+ "img:https://samim.io/static/upload/0biosonot-12.jpg": {
+  "url": "https://samim.io/static/upload/0biosonot-12.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3072940.3080500": {
+  "doi": "10.1145/3072940.3080500",
+  "ok": true,
+  "type": "doi",
+  "title": "BioSoNot 1.2",
+  "year": 2017,
+  "venue": "ACM SIGGRAPH 2017 Art Gallery",
+  "url": "https://doi.org/10.1145/3072940.3080500"
+ },
+ "video:youtube:1KU7jE4_DnI": {
+  "url": "https://www.youtube.com/watch?v=1KU7jE4_DnI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1KU7jE4_DnI",
+  "title": "Development of Printed Solar Biobattery for use in Bioelectronics - Dr. Marin Sawa, Imperial College",
+  "author": "Arm Research",
+  "thumbnail": "https://i.ytimg.com/vi/1KU7jE4_DnI/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-01084-4/MediaObjects/41467_2017_1084_Fig1_HTML.jpg": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-017-01084-4/MediaObjects/41467_2017_1084_Fig1_HTML.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.designboom.com/wp-content/uploads/2017/11/wallpaper-bio-solar-panel-designboom01-1.jpg": {
+  "url": "https://www.designboom.com/wp-content/uploads/2017/11/wallpaper-bio-solar-panel-designboom01-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1038/s41467-017-01084-4": {
+  "doi": "10.1038/s41467-017-01084-4",
+  "ok": true,
+  "type": "doi",
+  "title": "Electricity generation from digitally printed cyanobacteria",
+  "year": 2017,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-017-01084-4"
+ },
+ "video:youtube:GZgTMy8Kumo": {
+  "url": "https://www.youtube.com/watch?v=GZgTMy8Kumo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "GZgTMy8Kumo",
+  "title": "Bixels  Playing tetris with DNA",
+  "author": "Helene Steiner",
+  "thumbnail": "https://i.ytimg.com/vi/GZgTMy8Kumo/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/636fcb7db73c8d53ca64117c/637a8f8f4a80ddb6abe77a42_Screenshot%202022-11-20%20at%2021.35.23.png": {
+  "url": "https://cdn.prod.website-files.com/636fcb7db73c8d53ca64117c/637a8f8f4a80ddb6abe77a42_Screenshot%202022-11-20%20at%2021.35.23.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.iaacblog.com/wp-content/uploads/2017/06/final-presentation_0646.jpg": {
+  "url": "https://www.iaacblog.com/wp-content/uploads/2017/06/final-presentation_0646.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.iaacblog.com/wp-content/uploads/2017/04/hud_circles_page_01.jpg": {
+  "url": "https://www.iaacblog.com/wp-content/uploads/2017/04/hud_circles_page_01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://biodigitalviz.github.io/images/sensing_display.png": {
+  "url": "https://biodigitalviz.github.io/images/sensing_display.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1109/icsens.2017.8234406": {
+  "doi": "10.1109/icsens.2017.8234406",
+  "ok": true,
+  "type": "doi",
+  "title": "Let the microbes power your sensing display",
+  "year": 2017,
+  "venue": "2017 IEEE SENSORS",
+  "url": "https://doi.org/10.1109/icsens.2017.8234406"
+ },
+ "img:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0Wxvm4QU0B-fkBeOgnV5jbOSTQw95wE7vQ&s": {
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0Wxvm4QU0B-fkBeOgnV5jbOSTQw95wE7vQ&s",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.23919/date.2017.7927258": {
+  "doi": "10.23919/date.2017.7927258",
+  "ok": true,
+  "type": "doi",
+  "title": "Long range wireless sensing powered by plant-microbial fuel cell",
+  "year": 2017,
+  "venue": "Design, Automation &amp; Test in Europe Conference &amp; Exhibition (DATE), 2017",
+  "url": "https://doi.org/10.23919/date.2017.7927258"
+ },
+ "img:https://biodigitalviz.github.io/images/biohybrid_sensing.png": {
+  "url": "https://biodigitalviz.github.io/images/biohybrid_sensing.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1109/biocas.2017.8325135": {
+  "doi": "10.1109/biocas.2017.8325135",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards a biohybrid sensing platform built on impedance-based bacterial flagellar motor tachometry",
+  "year": 2017,
+  "venue": "2017 IEEE Biomedical Circuits and Systems Conference (BioCAS)",
+  "url": "https://doi.org/10.1109/biocas.2017.8325135"
+ },
+ "img:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqxW52V4BUk-uskpJMVuvT1kTnNl1XLpPRw&s": {
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxqxW52V4BUk-uskpJMVuvT1kTnNl1XLpPRw&s",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3233188.3233203": {
+  "doi": "10.1145/3233188.3233203",
+  "ok": true,
+  "type": "doi",
+  "title": "Biological optical-to-chemical signal conversion interface",
+  "year": 2018,
+  "venue": "Proceedings of the 5th ACM International Conference on Nanoscale Computing and Communication",
+  "url": "https://doi.org/10.1145/3233188.3233203"
+ },
+ "img:https://biodigitalviz.github.io/images/Biocomputer_Rhythms.png": {
+  "url": "https://biodigitalviz.github.io/images/Biocomputer_Rhythms.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1162/comj_a_00469": {
+  "doi": "10.1162/comj_a_00469",
+  "ok": true,
+  "type": "doi",
+  "title": "Composing with Biomemristors: Is Biocomputing the New Technology of Computer Music?",
+  "year": 2018,
+  "venue": "Computer Music Journal",
+  "url": "https://doi.org/10.1162/comj_a_00469"
+ },
+ "video:youtube:SMBGHynhiAQ": {
+  "url": "https://www.youtube.com/watch?v=SMBGHynhiAQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "SMBGHynhiAQ",
+  "title": "BioArtBot Introduction Video",
+  "author": "jrwolfe0917",
+  "thumbnail": "https://i.ytimg.com/vi/SMBGHynhiAQ/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061428993-TPM4UFM5MYOU6HQIIUHP/1.+bunny%2C+by+BT.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061428993-TPM4UFM5MYOU6HQIIUHP/1.+bunny%2C+by+BT.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061761960-T4QAAMWHN16LNSY3T11N/1.+bunny%2C+by+BT.jpg?format=1000w": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5f201c898b5f5516ea2b6ec0/1602061761960-T4QAAMWHN16LNSY3T11N/1.+bunny%2C+by+BT.jpg?format=1000w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2019/11/IMG_3417-1024x683.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2019/11/IMG_3417-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ivanhenriques.com/wp-content/uploads/2019/05/IMG_3406.jpg": {
+  "url": "https://ivanhenriques.com/wp-content/uploads/2019/05/IMG_3406.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ye3N_X4dOKA": {
+  "url": "https://www.youtube.com/watch?v=ye3N_X4dOKA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ye3N_X4dOKA",
+  "title": "Pee is Powerful! From artwork to new world infrastructures with ALICE",
+  "author": "Electromagnetic Field",
+  "thumbnail": "https://i.ytimg.com/vi/ye3N_X4dOKA/hqdefault.jpg"
+ },
+ "img:https://alice-interface.eu/assets/img/alice_479A9372crop.jpg": {
+  "url": "https://alice-interface.eu/assets/img/alice_479A9372crop.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://alice-interface.eu/assets/img/white_mfc_detail-crop.png": {
+  "url": "https://alice-interface.eu/assets/img/white_mfc_detail-crop.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:sy5Mistz150": {
+  "url": "https://www.youtube.com/watch?v=sy5Mistz150",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sy5Mistz150",
+  "title": "Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/sy5Mistz150/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/pac_eugelena.png": {
+  "url": "https://biodigitalviz.github.io/images/pac_eugelena.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3313831.3376378": {
+  "doi": "10.1145/3313831.3376378",
+  "ok": true,
+  "type": "doi",
+  "title": "Pac-Euglena: A Living Cellular Pac-Man Meets Virtual Ghosts",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3313831.3376378"
+ },
+ "img:https://dl.acm.org/cms/attachment/html/10.1145/3334480.3383164/assets/html/images/chi20extendedabstracts-542-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/attachment/html/10.1145/3334480.3383164/assets/html/images/chi20extendedabstracts-542-fig1.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "doi:10.1145/3334480.3383164": {
+  "doi": "10.1145/3334480.3383164",
+  "ok": true,
+  "type": "doi",
+  "title": "MicroAquarium: An Immersive and Interactive Installation with Living Microorganisms",
+  "year": 2020,
+  "venue": "Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3334480.3383164"
+ },
+ "video:youtube:sWj5ujsJmNI": {
+  "url": "https://www.youtube.com/watch?v=sWj5ujsJmNI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sWj5ujsJmNI",
+  "title": "Living Water - POND Utrecht opening",
+  "author": "Nova Innova",
+  "thumbnail": "https://i.ytimg.com/vi/sWj5ujsJmNI/hqdefault.jpg"
+ },
+ "img:https://www.novainnova.com/wp-content/uploads/2024/10/POND-tech-V4-1876x2048.png": {
+  "url": "https://www.novainnova.com/wp-content/uploads/2024/10/POND-tech-V4-1876x2048.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.novainnova.com/wp-content/uploads/2026/09/POND_29-1-26_BrianLubking_DEF-91-crop-800x800.jpg": {
+  "url": "https://www.novainnova.com/wp-content/uploads/2026/09/POND_29-1-26_BrianLubking_DEF-91-crop-800x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:Un597Bil9Iw": {
+  "url": "https://www.youtube.com/watch?v=Un597Bil9Iw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Un597Bil9Iw",
+  "title": "Nukabot: Design of Care for Human-Microbe Relationships",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/Un597Bil9Iw/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/nukabot.png": {
+  "url": "https://biodigitalviz.github.io/images/nukabot.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3411763.3451605": {
+  "doi": "10.1145/3411763.3451605",
+  "ok": true,
+  "type": "doi",
+  "title": "Nukabot: Design of Care for Human-Microbe Relationships",
+  "year": 2021,
+  "venue": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411763.3451605"
+ },
+ "img:http://gilbertoesparza.net/wp-content/uploads/2023/01/IMG_8819-1024x768.jpg": {
+  "url": "http://gilbertoesparza.net/wp-content/uploads/2023/01/IMG_8819-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://dl.acm.org/cms/asset/f80029e8-1d66-48bc-96d0-f18f4517f0c3/3503161.3548151.key.jpg": {
+  "url": "https://dl.acm.org/cms/asset/f80029e8-1d66-48bc-96d0-f18f4517f0c3/3503161.3548151.key.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "doi:10.1145/3503161.3548151": {
+  "doi": "10.1145/3503161.3548151",
+  "ok": true,
+  "type": "doi",
+  "title": "EuglPollock: Rethinking Interspecies Collaboration through Art Making",
+  "year": 2022,
+  "venue": "Proceedings of the 30th ACM International Conference on Multimedia",
+  "url": "https://doi.org/10.1145/3503161.3548151"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32105-6/MediaObjects/41467_2022_32105_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32105-6/MediaObjects/41467_2022_32105_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41467-022-32105-6": {
+  "doi": "10.1038/s41467-022-32105-6",
+  "ok": true,
+  "type": "doi",
+  "title": "Microbial biofilms for electricity generation from water evaporation and power to wearables",
+  "year": 2022,
+  "venue": "Nature Communications",
+  "url": "https://doi.org/10.1038/s41467-022-32105-6"
+ },
+ "img:https://biodigitalviz.github.io/images/bacteria_interface.png": {
+  "url": "https://biodigitalviz.github.io/images/bacteria_interface.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.igem.wiki/teams/4216/wiki/wiki/general-scheme.png": {
+  "url": "https://static.igem.wiki/teams/4216/wiki/wiki/general-scheme.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://biodigitalviz.github.io/images/mining.png": {
+  "url": "https://biodigitalviz.github.io/images/mining.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41598-022-20080-3": {
+  "doi": "10.1038/s41598-022-20080-3",
+  "ok": true,
+  "type": "doi",
+  "title": "Mining logical circuits in fungi",
+  "year": 2022,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-022-20080-3"
+ },
+ "video:youtube:z3f2JyQ8pu0": {
+  "url": "https://www.youtube.com/watch?v=z3f2JyQ8pu0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "z3f2JyQ8pu0",
+  "title": "Ctrl",
+  "author": "Michael Sed",
+  "thumbnail": "https://i.ytimg.com/vi/z3f2JyQ8pu0/hqdefault.jpg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/c7355d1a6c8c98402ec9b9b58ac773e267fffad1bc97046d3df6cd94bdf346fa/IMG_0120.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/c7355d1a6c8c98402ec9b9b58ac773e267fffad1bc97046d3df6cd94bdf346fa/IMG_0120.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:BPFqU_wRMXM": {
+  "url": "https://www.youtube.com/watch?v=BPFqU_wRMXM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BPFqU_wRMXM",
+  "title": "Cryptographic Beings",
+  "author": "Michael Sed",
+  "thumbnail": "https://i.ytimg.com/vi/BPFqU_wRMXM/hqdefault.jpg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/13aa55cb03d22d09726d26f969946bbc5e5bf60349ec69204148670ccf1cb518/RK_00215.png": {
+  "url": "https://freight.cargo.site/w/1200/i/13aa55cb03d22d09726d26f969946bbc5e5bf60349ec69204148670ccf1cb518/RK_00215.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://freight.cargo.site/w/1750/i/110ee6337084ec3ec011aef5a996afc6d13cef872d6efb81d065be9030377669/RK_00209.jpg": {
+  "url": "https://freight.cargo.site/w/1750/i/110ee6337084ec3ec011aef5a996afc6d13cef872d6efb81d065be9030377669/RK_00209.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:R0xcev8793U": {
+  "url": "https://www.youtube.com/watch?v=R0xcev8793U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "R0xcev8793U",
+  "title": "Archean Memory Farm / 2025 / Where dogs run",
+  "author": "Where dogs run ",
+  "thumbnail": "https://i.ytimg.com/vi/R0xcev8793U/hqdefault.jpg"
+ },
+ "img:https://starts.eu/wp-content/uploads/Where-Dogs-Run_Archean-Memory-Farm_cover_Credit-WDR.jpg": {
+  "url": "https://starts.eu/wp-content/uploads/Where-Dogs-Run_Archean-Memory-Farm_cover_Credit-WDR.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_02278": {
+  "doi": "10.1162/leon_a_02278",
+  "ok": true,
+  "type": "doi",
+  "title": "Archaean Memory Farm: Notes on the Creation Process",
+  "year": 2022,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02278"
+ },
+ "video:youtube:F-XhDxIQP-M": {
+  "url": "https://www.youtube.com/watch?v=F-XhDxIQP-M",
+  "ok": true,
+  "platform": "youtube",
+  "id": "F-XhDxIQP-M",
+  "title": "Carlos Castellanos- Beauty: A Machine-Microbial Artwork",
+  "author": "SPECIES Society",
+  "thumbnail": "https://i.ytimg.com/vi/F-XhDxIQP-M/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/beauty.jpg": {
+  "url": "https://biodigitalviz.github.io/images/beauty.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3597626": {
+  "doi": "10.1145/3597626",
+  "ok": true,
+  "type": "doi",
+  "title": "Beauty",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+  "url": "https://doi.org/10.1145/3597626"
+ },
+ "video:youtube:FKSwIlIvUAk": {
+  "url": "https://www.youtube.com/watch?v=FKSwIlIvUAk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "FKSwIlIvUAk",
+  "title": "ARC – Algal Relay Computer",
+  "author": "DDW Drivers of Change",
+  "thumbnail": "https://i.ytimg.com/vi/FKSwIlIvUAk/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/algae_relay.jpg": {
+  "url": "https://biodigitalviz.github.io/images/algae_relay.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3544549.3585874": {
+  "doi": "10.1145/3544549.3585874",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing an Algal Relay Computer: A Critical Orientation in Exploring More-than-Human Temporality",
+  "year": 2023,
+  "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544549.3585874"
+ },
+ "doi:10.1021/acsami.2c16592": {
+  "doi": "10.1021/acsami.2c16592",
+  "ok": true,
+  "type": "doi",
+  "title": "Precisely Navigated Biobot Swarms of Bacteria Magnetospirillum magneticum for Water Decontamination",
+  "year": 2023,
+  "venue": "ACS Applied Materials &amp; Interfaces",
+  "url": "https://doi.org/10.1021/acsami.2c16592"
+ },
+ "img:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoSwDpCerybK5dWA7kXFC0fHba5rLM66QxA&s": {
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKoSwDpCerybK5dWA7kXFC0fHba5rLM66QxA&s",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.23919/eucap60739.2024.10501075": {
+  "doi": "10.23919/eucap60739.2024.10501075",
+  "ok": true,
+  "type": "doi",
+  "title": "Biodegradable Implant Antenna Utilized for Real-Time Sensing Through Genetically Modified Bacteria",
+  "year": 2024,
+  "venue": "2024 18th European Conference on Antennas and Propagation (EuCAP)",
+  "url": "https://doi.org/10.23919/eucap60739.2024.10501075"
+ },
+ "video:youtube:u_ZRy6KOdmQ": {
+  "url": "https://www.youtube.com/watch?v=u_ZRy6KOdmQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "u_ZRy6KOdmQ",
+  "title": "Algae Alight",
+  "author": "Zoë Breed",
+  "thumbnail": "https://i.ytimg.com/vi/u_ZRy6KOdmQ/hqdefault.jpg"
+ },
+ "img:https://biodigitalviz.github.io/images/algae_alight.png": {
+  "url": "https://biodigitalviz.github.io/images/algae_alight.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3643834.3660728": {
+  "doi": "10.1145/3643834.3660728",
+  "ok": true,
+  "type": "doi",
+  "title": "Algae Alight: Exploring the Potential of Bioluminescence through Bio-kinetic Pixels",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3660728"
+ },
+ "img:https://biodigitalviz.github.io/images/mold_printer.png": {
+  "url": "https://biodigitalviz.github.io/images/mold_printer.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3623509.3633396": {
+  "doi": "10.1145/3623509.3633396",
+  "ok": true,
+  "type": "doi",
+  "title": "Mold Printer: Creating Living Self-Revealing Artworks",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3633396"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3685271/asset/ade6afb0-1138-461d-af50-28d1977a33db/assets/images/medium/tochi-2023-0198-f04.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3685271/asset/ade6afb0-1138-461d-af50-28d1977a33db/assets/images/medium/tochi-2023-0198-f04.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3685271": {
+  "doi": "10.1145/3685271",
+  "ok": true,
+  "type": "doi",
+  "title": "Addressing Uncertainty in Biodesign through Digital Twins: A Case of Biofabrication with Mycelium",
+  "year": 2024,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3685271"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-024-01448-8/MediaObjects/41377_2024_1448_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41377-024-01448-8/MediaObjects/41377_2024_1448_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41377-024-01448-8": {
+  "doi": "10.1038/s41377-024-01448-8",
+  "ok": true,
+  "type": "doi",
+  "title": "Light-deformable microrobots shape up for the biological obstacle course",
+  "year": 2024,
+  "venue": "Light: Science &amp; Applications",
+  "url": "https://doi.org/10.1038/s41377-024-01448-8"
+ },
+ "video:youtube:e0trR_1t5As": {
+  "url": "https://www.youtube.com/watch?v=e0trR_1t5As",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e0trR_1t5As",
+  "title": "Magnetic Microalgae on a mission to become robots",
+  "author": "Max Planck Institute for Intelligent Systems",
+  "thumbnail": "https://i.ytimg.com/vi/e0trR_1t5As/hqdefault.jpg"
+ },
+ "img:https://www.cell.com/cms/10.1016/j.matt.2025.102052/asset/52030a26-3f3e-46a7-b557-7b8ef4ce3ff0/main.assets/fx1.jpg": {
+  "url": "https://www.cell.com/cms/10.1016/j.matt.2025.102052/asset/52030a26-3f3e-46a7-b557-7b8ef4ce3ff0/main.assets/fx1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "doi:10.1016/j.matt.2025.102052": {
+  "doi": "10.1016/j.matt.2025.102052",
+  "ok": true,
+  "type": "doi",
+  "title": "Navigating microalgal biohybrids through confinements with magnetic guidance",
+  "year": 2025,
+  "venue": "Matter",
+  "url": "https://doi.org/10.1016/j.matt.2025.102052"
+ },
+ "img:https://biodigitalviz.github.io/images/slimo_city.png": {
+  "url": "https://biodigitalviz.github.io/images/slimo_city.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3708557.3716346": {
+  "doi": "10.1145/3708557.3716346",
+  "ok": true,
+  "type": "doi",
+  "title": "SLIMO CITY: A Bio-HCI Game System Amplifying Slime Mold Behaviors through Urban Visualization",
+  "year": 2025,
+  "venue": "Companion Proceedings of the 30th International Conference on Intelligent User Interfaces",
+  "url": "https://doi.org/10.1145/3708557.3716346"
+ },
+ "img:https://biodigitalviz.github.io/images/mould.jpg": {
+  "url": "https://biodigitalviz.github.io/images/mould.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3689050.3704417": {
+  "doi": "10.1145/3689050.3704417",
+  "ok": true,
+  "type": "doi",
+  "title": "Mold Sounds: Queering Ecologies in Polyphonic Material Explorations",
+  "year": 2025,
+  "venue": "Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3689050.3704417"
+ },
+ "ytmax:XheAMrS8Q1c": {
+  "url": "https://i.ytimg.com/vi/XheAMrS8Q1c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:KQPP7AOr47g": {
+  "url": "https://i.ytimg.com/vi/KQPP7AOr47g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:7FGM33sz25k": {
+  "url": "https://i.ytimg.com/vi/7FGM33sz25k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:qU6zi1_aZiw": {
+  "url": "https://i.ytimg.com/vi/qU6zi1_aZiw/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:6M6i0GM2nsY": {
+  "url": "https://i.ytimg.com/vi/6M6i0GM2nsY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:jqILkd54ENY": {
+  "url": "https://i.ytimg.com/vi/jqILkd54ENY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:fEAfDs_8hD0": {
+  "url": "https://i.ytimg.com/vi/fEAfDs_8hD0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bC7yLdYbnkU": {
+  "url": "https://i.ytimg.com/vi/bC7yLdYbnkU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:5y36KcWmBtw": {
+  "url": "https://i.ytimg.com/vi/5y36KcWmBtw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:jJg0PEP5Ukc": {
+  "url": "https://i.ytimg.com/vi/jJg0PEP5Ukc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:33gF1bvw2yQ": {
+  "url": "https://i.ytimg.com/vi/33gF1bvw2yQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pDvqnnBTjD0": {
+  "url": "https://i.ytimg.com/vi/pDvqnnBTjD0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1KU7jE4_DnI": {
+  "url": "https://i.ytimg.com/vi/1KU7jE4_DnI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:GZgTMy8Kumo": {
+  "url": "https://i.ytimg.com/vi/GZgTMy8Kumo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:SMBGHynhiAQ": {
+  "url": "https://i.ytimg.com/vi/SMBGHynhiAQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ye3N_X4dOKA": {
+  "url": "https://i.ytimg.com/vi/ye3N_X4dOKA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sy5Mistz150": {
+  "url": "https://i.ytimg.com/vi/sy5Mistz150/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sWj5ujsJmNI": {
+  "url": "https://i.ytimg.com/vi/sWj5ujsJmNI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Un597Bil9Iw": {
+  "url": "https://i.ytimg.com/vi/Un597Bil9Iw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:z3f2JyQ8pu0": {
+  "url": "https://i.ytimg.com/vi/z3f2JyQ8pu0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:BPFqU_wRMXM": {
+  "url": "https://i.ytimg.com/vi/BPFqU_wRMXM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:R0xcev8793U": {
+  "url": "https://i.ytimg.com/vi/R0xcev8793U/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:F-XhDxIQP-M": {
+  "url": "https://i.ytimg.com/vi/F-XhDxIQP-M/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:FKSwIlIvUAk": {
+  "url": "https://i.ytimg.com/vi/FKSwIlIvUAk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:u_ZRy6KOdmQ": {
+  "url": "https://i.ytimg.com/vi/u_ZRy6KOdmQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:e0trR_1t5As": {
+  "url": "https://i.ytimg.com/vi/e0trR_1t5As/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }
