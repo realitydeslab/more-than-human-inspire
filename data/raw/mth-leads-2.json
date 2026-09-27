@@ -1,0 +1,3380 @@
+{
+ "batch": "mth-leads",
+ "creators": [
+  {
+   "id": "laura-devendorf",
+   "name": "Laura Devendorf",
+   "kind": "person",
+   "role": "Associate Professor, ATLAS Institute and Information Science, University of Colorado Boulder; director of the Unstable Design Lab",
+   "role_zh": "科罗拉多大学博尔德分校 ATLAS 研究所与信息科学系副教授，Unstable Design Lab 主任",
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "bio": "Laura Devendorf is an HCI researcher and artist who works with weaving, smart textiles and fabrication, often treating machines, materials and weather as collaborators.",
+   "bio_zh": "Laura Devendorf 是人机交互研究者和艺术家，研究织造、智能纺织品和数字制造，常把机器、材料和天气当作合作者。",
+   "why": "Her lab turns post-anthropocentric theory into working looms and fabrication tools.",
+   "why_zh": "她的实验室把后人类中心主义理论做成了可以运转的织机和制造工具。",
+   "links": {
+    "site": "https://unstable.design",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "jen-liu"
+   ],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "larissa-pschetz",
+   "name": "Larissa Pschetz",
+   "kind": "person",
+   "role": "Reader in Interaction Design, University of Edinburgh; leads research on temporal design and biodesign",
+   "role_zh": "爱丁堡大学交互设计 Reader，领导时间设计与生物设计研究",
+   "based": "Edinburgh, UK",
+   "based_zh": "爱丁堡，英国",
+   "bio": "Larissa Pschetz studies how design shapes time and how designers can account for the times of other species, from microbes in labs to crops in fields.",
+   "bio_zh": "Larissa Pschetz 研究设计如何塑造时间，以及设计师如何顾及其他物种的时间：从实验室里的微生物到田里的作物。",
+   "why": "She introduced temporal design and brings multispecies time and labour into HCI.",
+   "why_zh": "她提出了“时间设计”，并把多物种的时间与劳动带进人机交互研究。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "yuning-chen",
+    "youngsil-lee"
+   ],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "yuning-chen",
+   "name": "Yuning Chen",
+   "kind": "person",
+   "role": "Design researcher, University of Edinburgh",
+   "role_zh": "爱丁堡大学设计研究者",
+   "based": "Edinburgh, UK",
+   "based_zh": "爱丁堡，英国",
+   "bio": "Yuning Chen works on biodesign ethics, using provocative methods and speculative dining to question how microbes are treated in design labs.",
+   "bio_zh": "Yuning Chen 研究生物设计伦理，用挑衅性的方法和思辨性的餐桌体验追问设计实验室如何对待微生物。",
+   "why": "Her work asks what microorganisms give, and lose, when designers put them to work.",
+   "why_zh": "她的研究追问：当设计师让微生物“工作”时，微生物付出了什么、失去了什么。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "larissa-pschetz"
+   ],
+   "discovered_via": "larissa-pschetz"
+  },
+  {
+   "id": "youngsil-lee",
+   "name": "Youngsil Lee",
+   "kind": "person",
+   "role": "Design researcher, University of Edinburgh",
+   "role_zh": "爱丁堡大学设计研究者",
+   "based": "Edinburgh, UK",
+   "based_zh": "爱丁堡，英国",
+   "bio": "Youngsil Lee researches data practices for ecological worlds, using plants such as tomatoes to rethink what counts as data.",
+   "bio_zh": "Youngsil Lee 研究面向生态世界的数据实践，用番茄等植物重新思考什么才算数据。",
+   "why": "She proposes reading living organisms themselves as records of their environment.",
+   "why_zh": "她主张把生物本身读作记录环境的数据。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "larissa-pschetz"
+   ],
+   "discovered_via": "larissa-pschetz"
+  },
+  {
+   "id": "stanislav-roudavski",
+   "name": "Stanislav Roudavski",
+   "kind": "person",
+   "role": "Senior Lecturer in Digital Architectural Design, University of Melbourne; leads the Deep Design Lab",
+   "role_zh": "墨尔本大学数字建筑设计高级讲师，领导 Deep Design Lab",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Stanislav Roudavski designs habitat structures for birds, bats and other animals with ecologists, using computational design, scanning of old trees and robotic fabrication.",
+   "bio_zh": "Stanislav Roudavski 与生态学家合作，用计算设计、老树扫描和机器人制造为鸟类、蝙蝠等动物设计栖息结构。",
+   "why": "His lab shows how architecture can take nonhuman clients and cultures seriously.",
+   "why_zh": "他的实验室展示了建筑如何认真对待非人类“客户”及其文化。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "ann-light",
+   "name": "Ann Light",
+   "kind": "person",
+   "role": "Professor of Design and Creative Technology, University of Sussex; Professor of Interaction Design, Malmö University",
+   "role_zh": "萨塞克斯大学设计与创意技术教授，马尔默大学交互设计教授",
+   "based": "Brighton, UK / Malmö, Sweden",
+   "based_zh": "布莱顿，英国 / 马尔默，瑞典",
+   "bio": "Ann Light researches participatory design, care and social change, and has argued for design that responds to ecological and existential crisis.",
+   "bio_zh": "Ann Light 研究参与式设计、照护与社会变革，主张设计应回应生态危机与存在危机。",
+   "why": "She helped bring more-than-human concerns into participatory design.",
+   "why_zh": "她推动了参与式设计把超越人类的关切纳入其中。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "rachel-clarke",
+    "sara-heitlinger",
+    "yoko-akama"
+   ],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "yoko-akama",
+   "name": "Yoko Akama",
+   "kind": "person",
+   "role": "Professor of Design, RMIT University",
+   "role_zh": "皇家墨尔本理工大学设计学教授",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Yoko Akama is a design researcher working on participatory and relational design, drawing on Japanese and Indigenous philosophies.",
+   "bio_zh": "Yoko Akama 是设计研究者，研究参与式与关系性设计，借鉴日本哲学与原住民哲学。",
+   "why": "Her work asks how rivers, rocks and spirits could take part in design.",
+   "why_zh": "她的研究追问河流、岩石与神灵如何参与设计。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "ann-light"
+   ],
+   "discovered_via": "ann-light"
+  },
+  {
+   "id": "jeffrey-bardzell",
+   "name": "Jeffrey Bardzell",
+   "kind": "person",
+   "role": "Professor of Informatics, Pennsylvania State University",
+   "role_zh": "宾夕法尼亚州立大学信息学教授",
+   "based": "University Park, US",
+   "based_zh": "大学园，美国",
+   "bio": "Jeffrey Bardzell is an HCI theorist working on design criticism, aesthetics and feminist and posthumanist perspectives on interaction design.",
+   "bio_zh": "Jeffrey Bardzell 是人机交互理论学者，研究设计批评、美学以及交互设计中的女性主义与后人类视角。",
+   "why": "His work with Shaowen Bardzell and Ann Light reads eco-farming as design after anthropocentrism.",
+   "why_zh": "他与 Shaowen Bardzell、Ann Light 合作，把生态农耕读作“人类中心之后”的设计。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "shaowen-bardzell",
+    "ann-light"
+   ],
+   "discovered_via": "ann-light"
+  },
+  {
+   "id": "anton-poikolainen-rosen",
+   "name": "Anton Poikolainen Rosén",
+   "kind": "person",
+   "role": "Design researcher, Södertörn University and KTH Royal Institute of Technology",
+   "role_zh": "瑞典索德脱恩大学与皇家理工学院设计研究者",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Anton Poikolainen Rosén researches more-than-human design through sound, self-tracking and urban farming, often using his own body and experience as material.",
+   "bio_zh": "Anton Poikolainen Rosén 通过声音、自我追踪和城市农耕研究超越人类的设计，常把自己的身体与经验当作研究材料。",
+   "why": "He shows how nutrient cycles and bodily waste can become sites of more-than-human design.",
+   "why_zh": "他展示了营养循环和身体排泄物如何成为超越人类设计的场所。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "alinta-krauth",
+   "name": "Alinta Krauth",
+   "kind": "person",
+   "role": "Artist and researcher in interspecies art and digital media",
+   "role_zh": "跨物种艺术与数字媒体艺术家、研究者",
+   "based": "Brisbane, Australia",
+   "based_zh": "布里斯班，澳大利亚",
+   "bio": "Alinta Krauth makes interactive and digital art with and for animals, including enrichment works for wild flying-foxes in care and AI works built on bird song.",
+   "bio_zh": "Alinta Krauth 与动物一起、为动物创作互动与数字艺术，包括为救护中的野生狐蝠做的丰容作品，以及基于鸟鸣的 AI 作品。",
+   "why": "She treats interactive art as a form of care for other species.",
+   "why_zh": "她把互动艺术当作照护其他物种的一种方式。",
+   "links": {
+    "site": "https://www.alintakrauth.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "https://www.youtube.com/@alintakrauth",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "whanganui-iwi",
+   "name": "Whanganui Iwi",
+   "kind": "lab",
+   "role": "Māori tribes of the Whanganui River, represented in the Te Awa Tupua settlement",
+   "role_zh": "旺格努伊河流域的毛利部落，在 Te Awa Tupua 和解协议中作为一方",
+   "based": "Whanganui, New Zealand",
+   "based_zh": "旺格努伊，新西兰",
+   "bio": "The iwi of the Whanganui River pursued recognition of the river as an ancestor and living whole for about 140 years, leading to the Te Awa Tupua Act 2017.",
+   "bio_zh": "旺格努伊河的毛利部落为让河流被承认为祖先与活的整体，争取了约 140 年，最终促成 2017 年的 Te Awa Tupua 法案。",
+   "why": "Their settlement made a river a legal person for the first time.",
+   "why_zh": "他们的和解协议第一次让一条河成为法律上的人。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "teresa-vicente",
+   "name": "Teresa Vicente",
+   "kind": "person",
+   "role": "Professor of Philosophy of Law, University of Murcia; led the Mar Menor citizens' legislative initiative",
+   "role_zh": "穆尔西亚大学法哲学教授，Mar Menor 公民立法提案的发起人",
+   "based": "Murcia, Spain",
+   "based_zh": "穆尔西亚，西班牙",
+   "bio": "Teresa Vicente led the popular legislative initiative that gathered over 600,000 signatures to give the Mar Menor lagoon legal personhood.",
+   "bio_zh": "Teresa Vicente 发起了一项公民立法提案，收集了 60 多万个签名，为 Mar Menor 潟湖争取法人资格。",
+   "why": "She turned a dying lagoon into the first ecosystem with legal rights in Europe.",
+   "why_zh": "她让一片濒死的潟湖成为欧洲第一个拥有法律权利的生态系统。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "constitutional-court-of-ecuador",
+   "name": "Constitutional Court of Ecuador",
+   "kind": "lab",
+   "role": "Ecuador's highest constitutional court",
+   "role_zh": "厄瓜多尔最高宪法法院",
+   "based": "Quito, Ecuador",
+   "based_zh": "基多，厄瓜多尔",
+   "bio": "Ecuador was the first country to write the rights of nature into its constitution (2008); its Constitutional Court enforces those rights in landmark cases.",
+   "bio_zh": "厄瓜多尔是第一个把自然权利写进宪法的国家（2008 年），其宪法法院在一系列标志性案件中执行这些权利。",
+   "why": "Its rulings test whether rights of nature can stop mining and deforestation.",
+   "why_zh": "它的判决检验了自然权利能否阻止采矿与砍伐。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "nonhuman-rights-project",
+   "name": "Nonhuman Rights Project",
+   "kind": "lab",
+   "role": "US civil rights organisation for nonhuman animals, founded by Steven M. Wise",
+   "role_zh": "由 Steven M. Wise 创立的美国非人类动物民权组织",
+   "based": "Washington, US",
+   "based_zh": "华盛顿，美国",
+   "bio": "The Nonhuman Rights Project files habeas corpus cases in US courts to have cognitively complex animals such as chimpanzees and elephants recognised as legal persons.",
+   "bio_zh": "Nonhuman Rights Project 在美国法院提起人身保护令诉讼，争取让黑猩猩、大象等认知复杂的动物被承认为法律上的人。",
+   "why": "It uses the courtroom as a design space for animal personhood.",
+   "why_zh": "它把法庭当作设计动物人格的场所。",
+   "links": {
+    "site": "https://www.nonhumanrights.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "chris-watson",
+   "name": "Chris Watson",
+   "kind": "person",
+   "role": "Sound recordist and composer; founding member of Cabaret Voltaire",
+   "role_zh": "录音师与作曲家，Cabaret Voltaire 创始成员",
+   "based": "Newcastle, UK",
+   "based_zh": "纽卡斯尔，英国",
+   "bio": "Chris Watson records animals, habitats and weather around the world for albums, installations and BBC natural history films.",
+   "bio_zh": "Chris Watson 在世界各地录制动物、栖息地和天气的声音，用于专辑、装置和 BBC 自然纪录片。",
+   "why": "His recordings let listeners spend time inside nonhuman soundscapes.",
+   "why_zh": "他的录音让听众在非人类的声景里停留。",
+   "links": {
+    "site": "https://chriswatson.net",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "leah-barclay",
+   "name": "Leah Barclay",
+   "kind": "person",
+   "role": "Sound artist and researcher; Discipline Lead of Design, University of the Sunshine Coast",
+   "role_zh": "声音艺术家与研究者，阳光海岸大学设计学科负责人",
+   "based": "Sunshine Coast, Australia",
+   "based_zh": "阳光海岸，澳大利亚",
+   "bio": "Leah Barclay records terrestrial and underwater soundscapes and builds acoustic ecology projects that connect communities with rivers, reefs and forests.",
+   "bio_zh": "Leah Barclay 录制陆地和水下声景，发起声学生态项目，把社区与河流、礁石和森林联系起来。",
+   "why": "She uses listening as a method for ecological monitoring and public engagement.",
+   "why_zh": "她把倾听当作生态监测和公众参与的方法。",
+   "links": {
+    "site": "https://leahbarclay.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "robertina-sebjanic",
+   "name": "Robertina Šebjanič",
+   "kind": "person",
+   "role": "Artist working on aquatic environments, interspecies relations and underwater sound",
+   "role_zh": "关注水域环境、跨物种关系与水下声音的艺术家",
+   "based": "Ljubljana, Slovenia",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "bio": "Robertina Šebjanič makes installations and performances about marine life, underwater noise and pollution, working with jellyfish, sea urchins, olms and hydrophone recordings.",
+   "bio_zh": "Robertina Šebjanič 创作关于海洋生命、水下噪音与污染的装置和表演，作品涉及水母、海胆、洞螈和水听器录音。",
+   "why": "Her work asks how the ocean listens to us, not how we hear the ocean.",
+   "why_zh": "她的作品问的是海洋如何听我们，而不是我们如何听海洋。",
+   "links": {
+    "site": "https://robertina.net",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "studio-ossidiana",
+   "name": "Studio Ossidiana",
+   "kind": "studio",
+   "role": "Architecture and design studio founded by Alessandra Covini and Giovanni Bellotti",
+   "role_zh": "由 Alessandra Covini 和 Giovanni Bellotti 创立的建筑与设计工作室",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "鹿特丹，荷兰",
+   "bio": "Studio Ossidiana designs installations, furniture and landscapes for encounters between people and birds, from floating gardens to dovecote towers.",
+   "bio_zh": "Studio Ossidiana 设计让人与鸟相遇的装置、家具和景观，从漂浮花园到鸽塔。",
+   "why": "They treat birds as users of architecture with their own affordances.",
+   "why_zh": "他们把鸟当作建筑的使用者，有自己的可供性。",
+   "links": {
+    "site": "https://www.studio-ossidiana.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "joyce-hwang",
+   "name": "Joyce Hwang",
+   "kind": "person",
+   "role": "Professor of Architecture, University at Buffalo; director of Ants of the Prairie",
+   "role_zh": "布法罗大学建筑学教授，Ants of the Prairie 工作室主持人",
+   "based": "Buffalo, US",
+   "based_zh": "布法罗，美国",
+   "bio": "Joyce Hwang designs architectural installations that house bats, birds, pollinators and other urban wildlife alongside people.",
+   "bio_zh": "Joyce Hwang 设计能同时容纳蝙蝠、鸟类、传粉昆虫等城市野生动物与人的建筑装置。",
+   "why": "She makes the animals already living in buildings visible and welcome.",
+   "why_zh": "她让本就住在建筑里的动物被看见、被欢迎。",
+   "links": {
+    "site": "https://www.antsoftheprairie.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "green-and-blue",
+   "name": "Green&Blue",
+   "kind": "company",
+   "role": "Cornish design company making wildlife habitats for buildings and gardens, founded by Kate and Gavin Christman",
+   "role_zh": "由 Kate 和 Gavin Christman 创立的康沃尔设计公司，为建筑和花园制作野生动物栖息设施",
+   "based": "Cornwall, UK",
+   "based_zh": "康沃尔，英国",
+   "bio": "Green&Blue designs bee bricks, bird boxes and bat boxes that can be built into walls or placed in gardens.",
+   "bio_zh": "Green&Blue 设计可砌进墙里或放在花园中的蜜蜂砖、鸟巢和蝙蝠箱。",
+   "why": "Its Bee Brick made habitat a standard building component.",
+   "why_zh": "它的 Bee Brick 让栖息地成了一种标准建筑构件。",
+   "links": {
+    "site": "https://www.greenandblue.co.uk",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "suzanne-simard",
+   "name": "Suzanne Simard",
+   "kind": "person",
+   "role": "Professor of Forest Ecology, University of British Columbia",
+   "role_zh": "不列颠哥伦比亚大学森林生态学教授",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Suzanne Simard is a forest ecologist whose research on carbon transfer between trees through mycorrhizal networks popularised the idea of the \"wood wide web\".",
+   "bio_zh": "Suzanne Simard 是森林生态学家，她关于树木通过菌根网络传递碳的研究让“木联网”这一说法广为人知。",
+   "why": "Her work reframes forests as connected communities rather than competing individuals.",
+   "why_zh": "她的研究把森林重新描述为相互连接的群落，而非彼此竞争的个体。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "merlin-sheldrake",
+   "name": "Merlin Sheldrake",
+   "kind": "person",
+   "role": "Biologist and writer; research associate at SPUN (Society for the Protection of Underground Networks)",
+   "role_zh": "生物学家与作家，SPUN（地下网络保护协会）研究员",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Merlin Sheldrake is a biologist who studies mycorrhizal fungi and writes about fungal life and its entanglements with plants, animals and people.",
+   "bio_zh": "Merlin Sheldrake 是研究菌根真菌的生物学家，书写真菌生命及其与植物、动物和人的缠绕关系。",
+   "why": "He made fungi a common reference point for designers thinking beyond the individual.",
+   "why_zh": "他让真菌成了设计师思考“超越个体”时的常用参照。",
+   "links": {
+    "site": "https://www.merlinsheldrake.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "robin-wall-kimmerer",
+   "name": "Robin Wall Kimmerer",
+   "kind": "person",
+   "role": "SUNY Distinguished Teaching Professor of Environmental Biology; director of the Center for Native Peoples and the Environment; enrolled member of the Citizen Potawatomi Nation",
+   "role_zh": "纽约州立大学环境生物学杰出教学教授，原住民与环境中心主任，公民波塔瓦托米族成员",
+   "based": "Syracuse, US",
+   "based_zh": "锡拉丘兹，美国",
+   "bio": "Robin Wall Kimmerer is a botanist and writer who brings together Indigenous knowledge and plant science.",
+   "bio_zh": "Robin Wall Kimmerer 是植物学家和作家，把原住民知识与植物科学结合在一起。",
+   "why": "She offers reciprocity and gratitude as design principles for relations with plants.",
+   "why_zh": "她把互惠与感恩作为与植物相处的设计原则。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "timothy-morton",
+   "name": "Timothy Morton",
+   "kind": "person",
+   "role": "Rita Shea Guffey Chair in English, Rice University",
+   "role_zh": "莱斯大学英语系 Rita Shea Guffey 讲席教授",
+   "based": "Houston, US",
+   "based_zh": "休斯敦，美国",
+   "bio": "Timothy Morton is a philosopher of ecology associated with object-oriented ontology, known for the concepts of dark ecology and hyperobjects.",
+   "bio_zh": "Timothy Morton 是生态哲学家，与物导向本体论相关，以“黑暗生态学”和“超物体”等概念著称。",
+   "why": "His concepts give designers words for phenomena too large to see at once, like climate.",
+   "why_zh": "他的概念为设计师提供了描述气候这类大到无法一眼看清的现象的词汇。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "eduardo-kohn",
+   "name": "Eduardo Kohn",
+   "kind": "person",
+   "role": "Associate Professor of Anthropology, McGill University",
+   "role_zh": "麦吉尔大学人类学副教授",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "bio": "Eduardo Kohn is an anthropologist who studied how the Runa people of Ecuador's Upper Amazon relate to forest beings, and developed an anthropology beyond the human.",
+   "bio_zh": "Eduardo Kohn 是人类学家，研究厄瓜多尔亚马孙上游的 Runa 人如何与森林中的生命相处，发展出一种超越人类的人类学。",
+   "why": "He argues that forests think through signs that are not only human language.",
+   "why_zh": "他认为森林通过并非只有人类语言的符号来“思考”。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "vinciane-despret",
+   "name": "Vinciane Despret",
+   "kind": "person",
+   "role": "Philosopher of science, University of Liège",
+   "role_zh": "列日大学科学哲学家",
+   "based": "Liège, Belgium",
+   "based_zh": "列日，比利时",
+   "bio": "Vinciane Despret is a philosopher who studies how scientists and animals shape each other in research, from birds to primates.",
+   "bio_zh": "Vinciane Despret 是哲学家，研究科学家与动物在研究中如何相互塑造，从鸟类到灵长类。",
+   "why": "She shows that what animals can do depends on the questions we ask them.",
+   "why_zh": "她指出，动物能做什么取决于我们向它们提什么问题。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "emanuele-coccia",
+   "name": "Emanuele Coccia",
+   "kind": "person",
+   "role": "Associate Professor, École des Hautes Études en Sciences Sociales (EHESS)",
+   "role_zh": "法国社会科学高等研究院副教授",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Emanuele Coccia is a philosopher who writes about plants, metamorphosis and the mixture of all living beings.",
+   "bio_zh": "Emanuele Coccia 是哲学家，书写植物、变形与一切生命的交融。",
+   "why": "He places plants at the centre of what it means to live in a world.",
+   "why_zh": "他把植物放在“生活在世界中”这件事的中心。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "karen-barad",
+   "name": "Karen Barad",
+   "kind": "person",
+   "role": "Distinguished Professor of Feminist Studies, Philosophy, and History of Consciousness, UC Santa Cruz",
+   "role_zh": "加州大学圣克鲁兹分校女性主义研究、哲学与意识史杰出教授",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "bio": "Karen Barad is a theoretical physicist and feminist theorist who developed agential realism.",
+   "bio_zh": "Karen Barad 是理论物理学家和女性主义理论家，提出了能动实在论。",
+   "why": "Her concept of intra-action underpins much posthumanist design research.",
+   "why_zh": "她的“内部互动”概念是许多后人类设计研究的基础。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "james-bridle",
+   "name": "James Bridle",
+   "kind": "person",
+   "role": "Artist and writer",
+   "role_zh": "艺术家与作家",
+   "based": "Athens, Greece",
+   "based_zh": "雅典，希腊",
+   "bio": "James Bridle is an artist and writer working on technology, networks and nonhuman intelligence.",
+   "bio_zh": "James Bridle 是艺术家和作家，关注技术、网络与非人类智能。",
+   "why": "They connect debates on AI with the intelligence of animals, plants and ecosystems.",
+   "why_zh": "他们把关于 AI 的讨论与动物、植物和生态系统的智能联系在一起。",
+   "links": {
+    "site": "https://jamesbridle.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "monica-gagliano",
+   "name": "Monica Gagliano",
+   "kind": "person",
+   "role": "Research Associate Professor in evolutionary ecology; director of the Biological Intelligence (BI) Lab, Southern Cross University",
+   "role_zh": "进化生态学研究副教授，南十字星大学生物智能实验室主任",
+   "based": "Lismore, Australia",
+   "based_zh": "利斯莫尔，澳大利亚",
+   "bio": "Monica Gagliano is an evolutionary ecologist known for experiments on plant learning, memory and bioacoustics.",
+   "bio_zh": "Monica Gagliano 是进化生态学家，以植物学习、记忆和生物声学的实验闻名。",
+   "why": "Her work challenges designers to treat plants as sensing, learning partners.",
+   "why_zh": "她的研究促使设计师把植物当作会感知、会学习的伙伴。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "mth-leads"
+  },
+  {
+   "id": "partizan-publik",
+   "name": "Partizan Publik",
+   "kind": "studio",
+   "role": "Amsterdam think-and-do tank for social and ecological change; initiator of The Parliament of Things",
+   "role_zh": "阿姆斯特丹的社会与生态变革智库兼行动团体，“物的议会”的发起者",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "bio": "Partizan Publik develops public programmes and speculative institutions, including The Parliament of Things, which led to the Embassy of the North Sea.",
+   "bio_zh": "Partizan Publik 策划公共项目和思辨性机构，包括“物的议会”，并由此催生了北海大使馆。",
+   "why": "They turned Latour's thought experiment into a working institution.",
+   "why_zh": "他们把 Latour 的思想实验变成了一个实际运作的机构。",
+   "links": {
+    "site": "https://theparliamentofthings.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "embassy-of-the-north-sea",
+    "bruno-latour"
+   ],
+   "discovered_via": "mth-leads"
+  }
+ ],
+ "works": [
+  {
+   "id": "anne-galloway--counting-sheep",
+   "creator_ids": [
+    "anne-galloway"
+   ],
+   "title": "Counting Sheep: NZ Merino in an Internet of Things",
+   "year": 2014,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A three-year project that followed New Zealand merino sheep from breeding stations to labs and markets, then turned the fieldwork into four speculative designs (BoneKnitter, Grow Your Own Lamb, PermaLamb and Kotahitanga Farm) that the public could respond to online.",
+   "description_zh": "一个为期三年的项目：跟随新西兰美利奴羊，从育种站走到实验室和市场，再把田野调查变成四个思辨设计（BoneKnitter、Grow Your Own Lamb、PermaLamb 和 Kotahitanga Farm），让公众在线回应。",
+   "idea_en": "Ground speculative design in ethnography of animals and the people who breed them, then use it to ask questions rather than predict.",
+   "idea_zh": "让思辨设计扎根于对动物及其养育者的民族志，用它来提问，而不是预测。",
+   "method": "Multi-site ethnography of merino breeding and marketing, translated into illustrated future scenarios with an anonymous survey for public responses.",
+   "method_zh": "对美利奴羊育种与营销的多点民族志，转化为配图的未来情景，并用匿名问卷收集公众回应。",
+   "keywords": [
+    "More-Than-Human Lab",
+    "merino",
+    "Internet of Things",
+    "speculative design",
+    "Marsden Fund",
+    "Victoria University of Wellington"
+   ],
+   "images": [
+    "https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781315526379-8",
+    "doi": "10.4324/9781315526379-8",
+    "arxiv": "",
+    "venue": "Undesign (Routledge) 2018",
+    "title": "Speculative design as research method: From answers to questions and \"staying with the trouble\""
+   },
+   "source_url": "https://web.archive.org/web/2019/http://morethanhumanlab.org/blog/project/counting-sheep-nz-merino-in-an-internet-of-things/"
+  },
+  {
+   "id": "laura-devendorf--wind-loom",
+   "creator_ids": [
+    "laura-devendorf"
+   ],
+   "title": "Wind Loom",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A modified tapestry loom where every fourth warp thread is attached to a small umbrella-like sail, so gusts of wind lift the threads and open the shed; the weaver waits for the wind and weaves into whatever pattern it makes.",
+   "description_zh": "一台改装过的挂毯织机：每第四根经线连着一个小伞状的帆，风一吹就把经线抬起、打开梭口；织工等风来，按风留下的开口去织。",
+   "idea_en": "Hand part of a craft process to a nonhuman force and accept its rhythm and unreliability.",
+   "idea_zh": "把手工过程的一部分交给非人类的力量，接受它的节奏和不可控。",
+   "method": "Laser-cut acrylic hooks clip onto warp yarns and connect to pivoting arms with aluminium posts and nylon umbrellas; post length tunes how much wind each arm needs.",
+   "method_zh": "激光切割的亚克力钩扣在经纱上，连接带铝杆和尼龙伞的转臂；铝杆长度决定每只转臂需要多大的风。",
+   "keywords": [
+    "Unstable Design Lab",
+    "weaving",
+    "jacquard",
+    "wind",
+    "nonhuman collaborator",
+    "Instructables"
+   ],
+   "images": [
+    "https://unstable.design/img/windloom_cover.jpg",
+    "https://unstable.design/img/windloom-detail.png"
+   ],
+   "source_url": "https://unstable.design/projects/windloom/"
+  },
+  {
+   "id": "larissa-pschetz--temporal-design",
+   "creator_ids": [
+    "larissa-pschetz"
+   ],
+   "title": "Temporal Design: Rethinking time in design",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A Design Studies article, with Michelle Bastian, arguing that design always shapes time and that designers should consider plural temporalities, including natural and ecological rhythms, rather than only clock time.",
+   "description_zh": "与 Michelle Bastian 合作发表在 Design Studies 上的文章，认为设计总在塑造时间，设计师应考虑多元的时间性，包括自然与生态的节律，而不只是钟表时间。",
+   "idea_en": "Time is a design material: choosing whose rhythms a product follows is a political choice.",
+   "idea_zh": "时间是一种设计材料：选择一件产品跟随谁的节奏，是一种政治选择。",
+   "method": "Conceptual review drawing on time studies and design practice to define temporal design as a field.",
+   "method_zh": "借鉴时间研究与设计实践的概念综述，把时间设计界定为一个领域。",
+   "keywords": [
+    "temporal design",
+    "time",
+    "Michelle Bastian",
+    "Design Studies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/J.DESTUD.2017.10.007",
+    "doi": "10.1016/J.DESTUD.2017.10.007",
+    "arxiv": "",
+    "venue": "Design Studies 2018",
+    "title": "Temporal Design: Rethinking time in design"
+   }
+  },
+  {
+   "id": "larissa-pschetz--design-for-temporal-cohabitation",
+   "creator_ids": [
+    "larissa-pschetz"
+   ],
+   "title": "Design for Temporal Cohabitation",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2024 paper, with Keili Koppel and Michelle Bastian, that proposes designing for the different times of humans and other species together, and critiques the split between \"human\" and \"natural\" time.",
+   "description_zh": "与 Keili Koppel、Michelle Bastian 合作的 CHI 2024 论文，提出为人类与其他物种不同的时间一起设计，并批评“人类时间”与“自然时间”的二分。",
+   "idea_en": "Dominant clock time is designed and imposed; design can take responsibility for how it affects other species.",
+   "idea_zh": "主导性的钟表时间是被设计、被强加的；设计可以为它对其他物种的影响负责。",
+   "method": "Critical essay drawing on temporal theory, decolonial scholarship and examples from ecological design.",
+   "method_zh": "借鉴时间理论、去殖民研究和生态设计案例的批判性论文。",
+   "keywords": [
+    "temporal design",
+    "multispecies time",
+    "more-than-human",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613905.3644068",
+    "doi": "10.1145/3613905.3644068",
+    "arxiv": "",
+    "venue": "CHI EA 2024",
+    "title": "Design for Temporal Cohabitation"
+   }
+  },
+  {
+   "id": "yuning-chen--microbial-revolt",
+   "creator_ids": [
+    "yuning-chen",
+    "larissa-pschetz"
+   ],
+   "title": "Microbial Revolt",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A provocative workshop method in which designers and biologists pick a microorganism, imagine its life in the wild and in the lab, and redesign lab tools to account for its \"non-participation\" in experiments.",
+   "description_zh": "一种挑衅性的工作坊方法：设计师和生物学家各选一种微生物，想象它在野外和实验室里的生活，再重新设计实验室工具，把它在实验中的“不参与”考虑进去。",
+   "idea_en": "Imagine lab equipment from the microbe's side to expose whose care a lab is built for.",
+   "idea_zh": "从微生物的角度重新想象实验器材，看清实验室是为谁的照护而建。",
+   "method": "Workshops with designers and biology researchers plus follow-up interviews about adapting design practice to lab standards.",
+   "method_zh": "与设计师和生物研究者开展工作坊，并做后续访谈，讨论设计实践如何适应实验室规范。",
+   "keywords": [
+    "biodesign",
+    "care ecologies",
+    "microorganisms",
+    "biolab",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3641981",
+    "doi": "10.1145/3613904.3641981",
+    "arxiv": "",
+    "venue": "CHI 2024",
+    "title": "Microbial Revolt: Redefining biolab tools and practices for more-than-human care ecologies"
+   }
+  },
+  {
+   "id": "youngsil-lee--pheno-data",
+   "creator_ids": [
+    "youngsil-lee",
+    "larissa-pschetz"
+   ],
+   "title": "Pheno-data",
+   "year": 2024,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A concept and fabulation workshop that treats the changing traits of tomato plants (their colour, shape and growth) as data about the world they grow in, as an alternative to abstract digital data.",
+   "description_zh": "一个概念与虚构工作坊：把番茄植株不断变化的性状（颜色、形状、生长）当作关于其生长环境的数据，作为抽象数字数据之外的另一种选择。",
+   "idea_en": "A living organism is already a record of its environment; learn to read it.",
+   "idea_zh": "活的生物本身就是其环境的记录，要学会去读它。",
+   "method": "Tomatoes grown under different conditions were used as props in a fabulation workshop to develop \"pheno-fication\" as a practice of accessing pheno-data.",
+   "method_zh": "把在不同条件下种出的番茄作为工作坊道具，发展出“表型化”（pheno-fication）这一获取表型数据的实践。",
+   "keywords": [
+    "pheno-data",
+    "tomatoes",
+    "data practice",
+    "Chris Speed",
+    "Human–Computer Interaction"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2023.2300779",
+    "doi": "10.1080/07370024.2023.2300779",
+    "arxiv": "",
+    "venue": "Human–Computer Interaction 2024",
+    "title": "Pheno-data: using tomatoes to rethink data and data practice for ecological worlds"
+   }
+  },
+  {
+   "id": "yuning-chen--labour-provenance",
+   "creator_ids": [
+    "yuning-chen",
+    "larissa-pschetz"
+   ],
+   "title": "Labour Provenance",
+   "year": 2025,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "bacteria",
+    "cells",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2025 paper that traces all the organisms behind one biodesign lab experiment, from engineered bacteria to the animals whose bodies supply lab reagents, and maps them as five types of more-than-human labourers.",
+   "description_zh": "一篇 CHI 2025 论文：追溯一次生物设计实验背后的所有生物，从工程菌到为实验试剂提供身体的动物，把它们归纳为五类超越人类的劳动者。",
+   "idea_en": "\"Sustainable\" biodesign hides a long supply chain of living labour; make it visible.",
+   "idea_zh": "“可持续”的生物设计背后藏着一条很长的活体劳动供应链，要让它被看见。",
+   "method": "Workshop method and an analytical framework grounded in labour theory, applied to a synthetic biology experiment.",
+   "method_zh": "基于劳动理论的工作坊方法与分析框架，应用于一次合成生物学实验。",
+   "keywords": [
+    "biodesign",
+    "labour theory",
+    "provenance",
+    "synthetic biology",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3706598.3713272",
+    "doi": "10.1145/3706598.3713272",
+    "arxiv": "",
+    "venue": "CHI 2025",
+    "title": "Labour Provenance as a Lens to Reveal More-Than-Human Ecologies in Biological Design and HCI"
+   }
+  },
+  {
+   "id": "yuning-chen--chewing-it-over",
+   "creator_ids": [
+    "yuning-chen",
+    "larissa-pschetz"
+   ],
+   "title": "Chewing It Over",
+   "year": 2026,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "bacteria",
+    "cells",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A dining-theatre intervention in which 47 diners ate dishes said to contain speculative human–microbial hybrid cells and assigned moral values to them, to test whether shared bodily vulnerability can produce compassion toward microorganisms.",
+   "description_zh": "一场餐桌剧场式的介入：47 位食客吃下据称含有“人类-微生物杂交细胞”的菜，并为它们赋予道德价值，以检验共同的身体脆弱性能否引发对微生物的同情。",
+   "idea_en": "Put the ethics of multispecies design on the dinner plate, where people feel it.",
+   "idea_zh": "把多物种设计的伦理放到餐盘上，让人亲身感受到。",
+   "method": "Seven speculative dining sessions with staged narratives about the origin of hybrid cells, followed by discussion of participants' moral frameworks.",
+   "method_zh": "七场思辨晚餐，以舞台化叙事讲述杂交细胞的来源，随后讨论参与者的道德框架。",
+   "keywords": [
+    "speculative design",
+    "relational ethics",
+    "corporal compassion",
+    "dining",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791048",
+    "doi": "10.1145/3772318.3791048",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "Chewing It Over: Revealing Tensions And New Directions For More-Than-Human Relational Ethics Through Speculative Design"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--owl-habitat-structures",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "Prosthetic Habitat-Structures for Powerful Owls",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Architects and ecologists designed nesting structures for the powerful owl (Ninox strenua) around Melbourne, and argue that such structures must respond to the cultural behaviours of owls as well as people.",
+   "description_zh": "建筑师与生态学家为墨尔本周边的强鸮（Ninox strenua）设计筑巢结构，并认为这些结构既要回应人的文化，也要回应猫头鹰的文化行为。",
+   "idea_en": "An artificial nest is a cultural object for two species at once.",
+   "idea_zh": "人工巢穴同时是两个物种的文化物件。",
+   "method": "Nest designs based on data from natural tree hollows and owl behaviour, discussed as provocations for interspecies art and design (with Dan Parker, Bronwyn Isaac and Nick Bradsworth).",
+   "method_zh": "根据天然树洞与猫头鹰行为数据设计巢穴，并把它们作为跨物种艺术与设计的挑衅来讨论（合作者 Dan Parker、Bronwyn Isaac、Nick Bradsworth）。",
+   "keywords": [
+    "powerful owl",
+    "Ninox strenua",
+    "habitat structures",
+    "Deep Design Lab",
+    "Leonardo"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1XumiGl1IbY"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_02224",
+    "doi": "10.1162/leon_a_02224",
+    "arxiv": "",
+    "venue": "Leonardo 2022",
+    "title": "Toward Interspecies Art and Design: Prosthetic Habitat-Structures in Human-Owl Cultures"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--cad-cam-habitat-structures",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "CAD/CAM Habitat Structures for Cavity-Dependent Animals",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A method for designing and fabricating artificial tree hollows for birds, bats and possums that are losing the large old trees whose cavities take centuries to form.",
+   "description_zh": "一种为鸟类、蝙蝠和负鼠设计并制造人工树洞的方法：它们赖以栖身、需要几百年才能形成树洞的老树正在消失。",
+   "idea_en": "Use parametric design and robotic fabrication to replace, in years, habitat that took centuries to grow.",
+   "idea_zh": "用参数化设计和机器人制造，在几年内替代需要几百年才长成的栖息地。",
+   "method": "Generative and parametric modelling of cavities to meet stakeholder needs, then CNC and robotic manufacturing of the structures (Dan Parker et al.).",
+   "method_zh": "用生成式与参数化建模设计树洞以满足各方需求，再用数控与机器人加工制造（Dan Parker 等）。",
+   "keywords": [
+    "tree hollows",
+    "nest boxes",
+    "parametric design",
+    "robotic fabrication",
+    "Methods in Ecology and Evolution"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1111/2041-210X.13806",
+    "doi": "10.1111/2041-210X.13806",
+    "arxiv": "",
+    "venue": "Methods in Ecology and Evolution 2022",
+    "title": "A framework for computer-aided design and manufacturing of habitat structures for cavity-dependent animals"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--ai-habitat-abstractions",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "AI Agent for Habitat Structure Design",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "An AI agent that learns from 3D scans of large old trees and generates simplified branch forms that designers can use for artificial perch structures for birds.",
+   "description_zh": "一个 AI 智能体：学习大型老树的三维扫描，生成简化的枝杈形态，供设计师用于为鸟类建造人工栖木结构。",
+   "idea_en": "Let AI abstract what makes a tree good for birds, not just copy its shape.",
+   "idea_zh": "让 AI 抽象出一棵树对鸟来说好在哪里，而不只是复制它的形状。",
+   "method": "Reinforcement-learning agent trained on point-cloud data of trees to synthesise visual abstractions for human-made habitat (Gianluca Mirra et al.).",
+   "method_zh": "在树木点云数据上训练的强化学习智能体，为人造栖息地合成视觉抽象（Gianluca Mirra 等）。",
+   "keywords": [
+    "artificial intelligence",
+    "LiDAR",
+    "perch structures",
+    "large old trees",
+    "Frontiers"
+   ],
+   "images": [
+    "https://www.frontiersin.org/files/Articles/806453/xml-images/fevo-10-806453-g001.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3389/fevo.2022.806453",
+    "doi": "10.3389/fevo.2022.806453",
+    "arxiv": "",
+    "venue": "Frontiers in Ecology and Evolution 2022",
+    "title": "An Artificial Intelligence Agent That Synthesises Visual Abstractions of Natural Forms to Support the Design of Human-Made Habitat Structures"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--more-than-human-heritage",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "Towards More-than-Human Heritage",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An essay, with Julian Rutten, arguing that tree hollows and other habitat features are heritage for the birds, bats and other animals who use and pass them on, not only for people.",
+   "description_zh": "与 Julian Rutten 合写的文章，认为树洞等栖息地特征对使用并传承它们的鸟类、蝙蝠等动物来说也是遗产，而不只是人类的遗产。",
+   "idea_en": "Heritage preservation should include what other species inherit.",
+   "idea_zh": "遗产保护应该包括其他物种所继承的东西。",
+   "method": "Theoretical argument illustrated with arboreal habitats and artificial replacement habitats.",
+   "method_zh": "以树栖栖息地与人工替代栖息地为例的理论论证。",
+   "keywords": [
+    "heritage",
+    "tree hollows",
+    "arboreal habitat",
+    "Built Heritage"
+   ],
+   "images": [
+    "https://media.springernature.com/m685/springer-static/image/art%3A10.1186%2Fs43238-020-00003-9/MediaObjects/43238_2020_3_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1186/s43238-020-00003-9",
+    "doi": "10.1186/s43238-020-00003-9",
+    "arxiv": "",
+    "venue": "Built Heritage 2020",
+    "title": "Towards more-than-human heritage: arboreal habitats as a challenge for heritage preservation"
+   }
+  },
+  {
+   "id": "ann-light--design-for-existential-crisis",
+   "creator_ids": [
+    "ann-light"
+   ],
+   "title": "Design for Existential Crisis in the Anthropocene Age",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A paper, with Alison Powell and Irina Shklovski, arguing that communities and designers need ways to live with the existential threat of ecological collapse, not only technical fixes.",
+   "description_zh": "与 Alison Powell、Irina Shklovski 合作的论文，认为社区和设计师需要学会与生态崩溃带来的存在威胁共处，而不只是寻找技术解决方案。",
+   "idea_en": "Design can help people face the scale of ecological crisis, not just optimise around it.",
+   "idea_zh": "设计可以帮助人们直面生态危机的规模，而不只是在它周围做优化。",
+   "method": "Position paper drawing on community technology research and care theory.",
+   "method_zh": "借鉴社区技术研究与照护理论的立场论文。",
+   "keywords": [
+    "Anthropocene",
+    "existential crisis",
+    "communities",
+    "C&T"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3083671.3083688",
+    "doi": "10.1145/3083671.3083688",
+    "arxiv": "",
+    "venue": "C&T 2017",
+    "title": "Design for Existential Crisis in the Anthropocene Age"
+   }
+  },
+  {
+   "id": "yoko-akama--expanding-participation",
+   "creator_ids": [
+    "yoko-akama",
+    "ann-light"
+   ],
+   "title": "Expanding Participation to Design with More-Than-Human Concerns",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A PDC paper that asks what participation could mean when plants, animals, rocks, rivers and spirits take part in shaping futures, bringing feminist and Japanese relational philosophy into participatory design.",
+   "description_zh": "一篇参与式设计会议论文，追问当植物、动物、岩石、河流和神灵也参与塑造未来时，“参与”意味着什么，把女性主义与日本关系哲学带入参与式设计。",
+   "idea_en": "Participatory design can extend its circle of participants beyond people.",
+   "idea_zh": "参与式设计可以把参与者的范围扩展到人之外。",
+   "method": "Theoretical dialogue between feminist technoscience and Japanese concepts of relationality, with examples from the authors' practice (with Tomomi Kamihira).",
+   "method_zh": "女性主义技术科学与日本关系性概念之间的理论对话，并结合作者的实践案例（合作者 Tomomi Kamihira）。",
+   "keywords": [
+    "participatory design",
+    "pluriversal",
+    "more-than-human",
+    "PDC"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3385010.3385016",
+    "doi": "10.1145/3385010.3385016",
+    "arxiv": "",
+    "venue": "PDC 2020",
+    "title": "Expanding Participation to Design with More-Than-Human Concerns"
+   }
+  },
+  {
+   "id": "jeffrey-bardzell--wanting-to-live-here",
+   "creator_ids": [
+    "jeffrey-bardzell",
+    "shaowen-bardzell",
+    "ann-light"
+   ],
+   "title": "Wanting To Live Here",
+   "year": 2021,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A CHI paper based on fieldwork at an experimental eco-farming community, reading its practices and artefacts as examples of design after anthropocentric functionalism.",
+   "description_zh": "一篇基于实验性生态农耕社区田野调查的 CHI 论文，把社区的实践与物件读作“人类中心功能主义之后”的设计范例。",
+   "idea_en": "Look for post-anthropocentric design in communities already living it, however imperfectly.",
+   "idea_zh": "到已经在这样生活的社区里寻找后人类中心的设计，哪怕并不完美。",
+   "method": "Ethnography and design criticism of farming practices, community building and local repair.",
+   "method_zh": "对农耕实践、社区营造和本地修复进行民族志研究与设计批评。",
+   "keywords": [
+    "eco-farming",
+    "posthumanism",
+    "care ethics",
+    "anthropocentric functionalism",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445167",
+    "doi": "10.1145/3411764.3445167",
+    "arxiv": "",
+    "venue": "CHI 2021",
+    "title": "Wanting To Live Here: Design After Anthropocentric Functionalism"
+   }
+  },
+  {
+   "id": "anton-poikolainen-rosen--phosphorus",
+   "creator_ids": [
+    "anton-poikolainen-rosen"
+   ],
+   "title": "Does Phosphorus Want to Sound Like That?",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A DRS 2024 paper that uses sound to let people experience the phosphorus cycle and possible futures of this scarce nutrient, and asks what a more-than-human voice for an element would be.",
+   "description_zh": "一篇 DRS 2024 论文：用声音让人体验磷循环以及这种稀缺养分的可能未来，并追问一种元素的“超越人类的声音”会是什么样。",
+   "idea_en": "Give a nutrient cycle a voice, then question whose voice it really is.",
+   "idea_zh": "给一个养分循环配上声音，再追问那究竟是谁的声音。",
+   "method": "Design of sonic experiences of phosphorus futures, reflected on through first-person research.",
+   "method_zh": "设计关于磷之未来的声音体验，并通过第一人称研究进行反思。",
+   "keywords": [
+    "phosphorus",
+    "sonification",
+    "nutrient cycles",
+    "DRS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.829",
+    "doi": "10.21606/drs.2024.829",
+    "arxiv": "",
+    "venue": "DRS 2024",
+    "title": "'Does Phosphorus Want to Sound Like That?': Experiencing More-Than-Human Futures"
+   }
+  },
+  {
+   "id": "anton-poikolainen-rosen--more-than-human-self-tracking",
+   "creator_ids": [
+    "anton-poikolainen-rosen"
+   ],
+   "title": "More-than-Human Self-Tracking",
+   "year": 2026,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "The author tracked his own urine and protein intake to follow how excess nitrogen and phosphorus leave the body and enter waterways, reframing self-tracking as tracking one's ecological entanglements.",
+   "description_zh": "作者追踪自己的尿液和蛋白质摄入，观察过量的氮和磷如何离开身体、进入水道，把“自我追踪”重新定义为追踪自己与生态的缠绕。",
+   "idea_en": "Self-tracking can measure what your body does to rivers, not only to you.",
+   "idea_zh": "自我追踪可以测量你的身体对河流做了什么，而不只是对你自己。",
+   "method": "First-person design research with urine monitoring and dietary logging, written as an uncertain account.",
+   "method_zh": "以尿液监测和饮食记录开展的第一人称设计研究，写成一份带有不确定性的记述。",
+   "keywords": [
+    "self-tracking",
+    "urine",
+    "nitrogen",
+    "phosphorus",
+    "DRS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.778",
+    "doi": "10.21606/drs.2026.778",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "More-than-Human Self-Tracking: An Uncertain Account of Urine Monitoring, Protein Excess and Ecological Entanglements"
+   }
+  },
+  {
+   "id": "alinta-krauth--flying-fox-enrichment-art",
+   "creator_ids": [
+    "alinta-krauth"
+   ],
+   "title": "Interactive Art as Enrichment for Flying-Foxes",
+   "year": 2022,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Interactive digital artworks made as enrichment for wild flying-foxes in rehabilitation care, with devices that respond to the bats' presence and give carers and artist a shared object to watch.",
+   "description_zh": "为救护中的野生狐蝠制作的互动数字艺术丰容：装置会对蝙蝠的出现作出反应，也让照护者和艺术家有了一个共同观察的对象。",
+   "idea_en": "An artwork can be enrichment: made for another species' experience first.",
+   "idea_zh": "艺术作品可以是一种丰容：首先为另一个物种的体验而做。",
+   "method": "Practice-based PhD combining animal–computer interaction methods with interactive projection and sound (likely sensor-triggered); the code is shared in a walkthrough video.",
+   "method_zh": "结合动物-计算机交互方法与传感器触发的投影和声音的实践型博士研究；代码在讲解视频中公开。",
+   "keywords": [
+    "flying-fox",
+    "bats",
+    "enrichment",
+    "interactive art",
+    "QUT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TXAIxQafMug"
+   },
+   "paper": {
+    "url": "https://doi.org/10.5204/thesis.eprints.235060",
+    "doi": "10.5204/thesis.eprints.235060",
+    "arxiv": "",
+    "venue": "PhD thesis, Queensland University of Technology 2022",
+    "title": "More-than-human creative practice: Approaches to making interactive and digital art as enrichment for wild flying foxes and domesticated dogs"
+   }
+  },
+  {
+   "id": "alinta-krauth--intra-facing",
+   "creator_ids": [
+    "alinta-krauth"
+   ],
+   "title": "Intra-Facing: Writing with Dogs",
+   "year": 2020,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A practice-led project in which family dogs co-create works of electronic literature: their interactions with the artist drive a generative writing system.",
+   "description_zh": "一个实践导向的项目：家里的狗参与共同创作电子文学作品，它们与艺术家的互动驱动一个生成式写作系统。",
+   "idea_en": "Let an animal's behaviour, not a human plan, lead a creative work.",
+   "idea_zh": "让动物的行为而不是人的计划来引领创作。",
+   "method": "Digital interfaces that turn dog–human interactions into inputs for generative text.",
+   "method_zh": "把狗与人的互动转换为生成文本输入的数字界面。",
+   "keywords": [
+    "dogs",
+    "electronic literature",
+    "co-creation",
+    "ACI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3446002.3446051",
+    "doi": "10.1145/3446002.3446051",
+    "arxiv": "",
+    "venue": "ACI 2020",
+    "title": "Making-with: Nonhuman Animal Inclusivity in an Electronic Literature Practice"
+   }
+  },
+  {
+   "id": "alinta-krauth--animal-centred-ai-jam",
+   "creator_ids": [
+    "alinta-krauth"
+   ],
+   "title": "A(I)nimal-centred AI Jam",
+   "year": 2023,
+   "field": "mth",
+   "sub": "decentering",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A workshop format, with Jason Nelson, that uses sci-fi narrative and design fiction to imagine uses of machine learning that put animal wellbeing first.",
+   "description_zh": "与 Jason Nelson 合作的工作坊形式：用科幻叙事与设计虚构，想象以动物福祉为先的机器学习用途。",
+   "idea_en": "Imagine AI futures from the position of the animals they affect.",
+   "idea_zh": "从受 AI 影响的动物的立场去想象 AI 的未来。",
+   "method": "Scenario building and design fiction exercises in a workshop at ACI 2023.",
+   "method_zh": "在 ACI 2023 工作坊中进行情景构建与设计虚构练习。",
+   "keywords": [
+    "design fiction",
+    "artificial intelligence",
+    "multispecies futures",
+    "ACI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3637882.3637903",
+    "doi": "10.1145/3637882.3637903",
+    "arxiv": "",
+    "venue": "ACI 2023",
+    "title": "A(I)nimal-centred AI Jam: Design Fictions for Positive Multispecies Futures"
+   }
+  },
+  {
+   "id": "julia-lohmann--cow-benches",
+   "creator_ids": [
+    "julia-lohmann"
+   ],
+   "title": "Cow Benches",
+   "year": 2005,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Leather benches shaped like resting cows, each named after a cow whose hide was used, made as a memento mori for the animals behind everyday materials.",
+   "description_zh": "形似卧牛的皮革长凳，每一张都以提供皮料的那头牛命名，是为日常材料背后的动物所做的“死亡象征”。",
+   "idea_en": "Make the animal inside a material visible again.",
+   "idea_zh": "让材料里的那只动物重新被看见。",
+   "method": "One whole cow hide stretched over a moulded form per bench.",
+   "method_zh": "每张长凳用一整张牛皮蒙在模制骨架上。",
+   "keywords": [
+    "leather",
+    "memento mori",
+    "animal materials",
+    "furniture"
+   ],
+   "images": [
+    "https://www.julialohmann.co.uk/images/work/gallery/cow-benches/1239099915/standard/cow-benches-0.jpg"
+   ],
+   "source_url": "https://www.julialohmann.co.uk/work/gallery/cow-benches/"
+  },
+  {
+   "id": "julia-lohmann--co-existence",
+   "creator_ids": [
+    "julia-lohmann"
+   ],
+   "title": "Co-Existence",
+   "year": 2009,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A window installation for the Wellcome Trust made of 9,000 Petri dishes printed with images of bacterial colonies, arranged as a human figure so each microbe sits where it commonly lives on or in the body.",
+   "description_zh": "为 Wellcome Trust 做的橱窗装置：9000 个印有细菌菌落图像的培养皿拼成人形，每种微生物都放在它在人体上或体内常住的位置。",
+   "idea_en": "Draw the human body as a map of the microbes that live in it.",
+   "idea_zh": "把人体画成一张住在体内的微生物地图。",
+   "method": "Petri dishes with pixelated microbe images, Perspex and lighting, positioned by body site.",
+   "method_zh": "印有像素化微生物图像的培养皿、亚克力和灯光，按身体部位排布。",
+   "keywords": [
+    "microbiome",
+    "Petri dishes",
+    "Wellcome Trust",
+    "installation"
+   ],
+   "images": [
+    "https://www.julialohmann.co.uk/images/work/gallery/co-existence-wellcome-trust/1238501099/standard/wt-window-1.jpg"
+   ],
+   "source_url": "https://www.julialohmann.co.uk/work/gallery/co-existence-wellcome-trust/"
+  },
+  {
+   "id": "whanganui-iwi--te-awa-tupua",
+   "creator_ids": [
+    "whanganui-iwi"
+   ],
+   "title": "Te Awa Tupua: Whanganui River Legal Personhood",
+   "year": 2017,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "New Zealand's Te Awa Tupua (Whanganui River Claims Settlement) Act 2017 recognised the Whanganui River, from mountains to sea, as a living and indivisible whole with the rights of a legal person, represented by two guardians, one from the iwi and one from the Crown.",
+   "description_zh": "新西兰 2017 年的 Te Awa Tupua（旺格努伊河诉求和解）法案承认旺格努伊河从山到海是一个活的、不可分割的整体，拥有法人的权利，由两位监护人代表：一位来自毛利部落，一位来自王室。",
+   "idea_en": "A river can be a person in law when law follows an Indigenous view of kinship: \"I am the river and the river is me.\"",
+   "idea_zh": "当法律遵循原住民的亲缘观时，一条河可以是法律上的人：“我是河，河是我。”",
+   "method": "Treaty settlement legislation creating a legal person and a guardianship office (Te Pou Tupua), after about 140 years of Māori claims.",
+   "method_zh": "在毛利人约 140 年的诉求之后，通过条约和解立法设立法人与监护机构（Te Pou Tupua）。",
+   "keywords": [
+    "rights of nature",
+    "legal personhood",
+    "Whanganui River",
+    "Māori",
+    "Te Awa Tupua Act 2017"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3zAPwaOYjQU"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Motor_Vessel_Wairua.jpg/1280px-Motor_Vessel_Wairua.jpg"
+   ],
+   "source_url": "https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html"
+  },
+  {
+   "id": "teresa-vicente--mar-menor-personhood",
+   "creator_ids": [
+    "teresa-vicente"
+   ],
+   "title": "Legal Personhood for the Mar Menor",
+   "year": 2022,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "After mass fish die-offs in Europe's largest saltwater lagoon, a citizens' initiative with over 600,000 signatures led Spain to pass Law 19/2022, giving the Mar Menor and its basin legal personhood.",
+   "description_zh": "欧洲最大的咸水潟湖接连发生鱼类大量死亡后，一项收集到 60 多万个签名的公民提案促使西班牙通过第 19/2022 号法律，赋予 Mar Menor 及其流域法人资格。",
+   "idea_en": "Citizens can write an ecosystem into law as a subject with rights.",
+   "idea_zh": "公民可以把一个生态系统作为权利主体写进法律。",
+   "method": "Popular legislative initiative; the law creates a representative committee, a monitoring commission and a scientific committee for the lagoon.",
+   "method_zh": "公民立法提案；法律为潟湖设立代表委员会、监督委员会和科学委员会。",
+   "keywords": [
+    "rights of nature",
+    "Mar Menor",
+    "legal personhood",
+    "Spain",
+    "Ley 19/2022"
+   ],
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mar_Menor._Vista_a%C3%A9rea.jpg/1280px-Mar_Menor._Vista_a%C3%A9rea.jpg"
+   ],
+   "source_url": "https://www.boe.es/buscar/act.php?id=BOE-A-2022-16019"
+  },
+  {
+   "id": "constitutional-court-of-ecuador--los-cedros",
+   "creator_ids": [
+    "constitutional-court-of-ecuador"
+   ],
+   "title": "Los Cedros Rights of Nature Ruling",
+   "year": 2021,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "Ecuador's Constitutional Court ruled that mining permits in the Los Cedros cloud forest violated the rights of nature written into the 2008 constitution, and revoked them.",
+   "description_zh": "厄瓜多尔宪法法院裁定，在 Los Cedros 云雾森林发放的采矿许可侵犯了 2008 年宪法中写入的自然权利，并予以撤销。",
+   "idea_en": "Rights of nature can be enforced in court to protect a specific forest.",
+   "idea_zh": "自然权利可以在法庭上执行，用来保护一片具体的森林。",
+   "method": "Constitutional ruling (case 1149-19-JP/21) applying the rights of nature and the precautionary principle to biodiversity data from the forest.",
+   "method_zh": "宪法判决（案号 1149-19-JP/21），把自然权利和预防原则应用于这片森林的生物多样性数据。",
+   "keywords": [
+    "rights of nature",
+    "Los Cedros",
+    "cloud forest",
+    "Ecuador",
+    "mining"
+   ],
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Los_Cedros.jpg/1280px-Los_Cedros.jpg"
+   ],
+   "source_url": "https://www.corteconstitucional.gob.ec/"
+  },
+  {
+   "id": "nonhuman-rights-project--happy",
+   "creator_ids": [
+    "nonhuman-rights-project"
+   ],
+   "title": "The Case of Happy the Elephant",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A habeas corpus case seeking the release of Happy, an Asian elephant living alone at the Bronx Zoo, to a sanctuary; in 2022 New York's highest court ruled 5–2 against, with two strong dissents recognising her claim.",
+   "description_zh": "一起人身保护令诉讼：请求把独自生活在布朗克斯动物园的亚洲象 Happy 转移到保护区；2022 年纽约州最高法院以 5 比 2 驳回，两位法官写下了支持她诉求的有力异议。",
+   "idea_en": "Test in court whether a self-aware elephant can be a person with a right to liberty.",
+   "idea_zh": "在法庭上检验：一头有自我意识的大象能否作为享有自由权的人。",
+   "method": "Legal strategy based on habeas corpus and scientific evidence of elephant cognition, including Happy passing the mirror self-recognition test.",
+   "method_zh": "基于人身保护令和大象认知科学证据的法律策略，其中包括 Happy 通过镜像自我识别测试。",
+   "keywords": [
+    "Nonhuman Rights Project",
+    "habeas corpus",
+    "elephant",
+    "Bronx Zoo",
+    "animal personhood"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2dFRtvPyaCI"
+   },
+   "images": [
+    "https://www.nonhumanrights.org/wp-content/uploads/Happy-3010-700x467.jpg"
+   ],
+   "source_url": "https://www.nonhumanrights.org/client-happy/"
+  },
+  {
+   "id": "nonhuman-rights-project--tommy",
+   "creator_ids": [
+    "nonhuman-rights-project"
+   ],
+   "title": "The Case of Tommy the Chimpanzee",
+   "year": 2013,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "The Nonhuman Rights Project's first lawsuit, filed for Tommy, a chimpanzee kept alone in a cage on a used-trailer lot in upstate New York, arguing he should be recognised as a legal person with a right to bodily liberty.",
+   "description_zh": "Nonhuman Rights Project 的第一起诉讼，为被独自关在纽约州北部一处二手拖车场笼子里的黑猩猩 Tommy 提起，主张他应被承认为享有身体自由权的法人。",
+   "idea_en": "Personhood is a legal category that could be redesigned to include other species.",
+   "idea_zh": "“人”是一个法律类别，可以被重新设计以纳入其他物种。",
+   "method": "Habeas corpus petition supported by expert affidavits on chimpanzee cognition.",
+   "method_zh": "以黑猩猩认知的专家证词支持的人身保护令请愿。",
+   "keywords": [
+    "Nonhuman Rights Project",
+    "chimpanzee",
+    "habeas corpus",
+    "Steven Wise",
+    "animal personhood"
+   ],
+   "images": [
+    "https://www.nonhumanrights.org/wp-content/uploads/Tommy-in-cage-PH-Films.jpg"
+   ],
+   "source_url": "https://www.nonhumanrights.org/client-tommy/"
+  },
+  {
+   "id": "andres-jaque--reggio-school",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "Reggio School",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A school in Madrid built as a layered ecosystem for children to explore, with a thick cork facade designed to host plants, insects and birds and a building that exposes its own structure and services.",
+   "description_zh": "马德里的一所学校，被建成供孩子探索的分层生态系统：厚厚的软木立面可以容纳植物、昆虫和鸟类，建筑也把自身的结构与设备暴露出来。",
+   "idea_en": "A facade can be a habitat, and a school can be a shared home for species.",
+   "idea_zh": "立面可以是栖息地，学校可以是多个物种共享的家。",
+   "method": "Sprayed cork insulation facade that retains moisture and minerals for colonisation by plants and animals; part of MoMA's collection.",
+   "method_zh": "喷涂软木保温立面，保留水分与矿物，供植物和动物定殖；已被纽约现代艺术博物馆收藏。",
+   "keywords": [
+    "Office for Political Innovation",
+    "cork facade",
+    "school",
+    "Madrid",
+    "MoMA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Fbcpp4WtCGM"
+   },
+   "images": [
+    "https://offpolinn.com/wp-content/uploads/2022/12/01-COLEGIO-REGGIO-OFFPOLINN.jpg",
+    "https://offpolinn.com/wp-content/uploads/2022/12/02-COLEGIO-REGGIO-OFFPOLINN.jpg"
+   ],
+   "source_url": "https://offpolinn.com/work/colegio-reggio-explora/"
+  },
+  {
+   "id": "andres-jaque--transspecies-kitchen",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "The Transspecies Kitchen: An Antwerphagia",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "bacteria",
+    "fungi",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A working kitchen at the Middelheim Museum in Antwerp that decarbonises cooking by relying on fermentation, treating cooking, digesting, growing and decomposing as one alliance between forms of life.",
+   "description_zh": "安特卫普 Middelheim 博物馆里一座可用的厨房，依靠发酵来减少烹饪的碳排放，把烹饪、消化、生长和分解看作不同生命形式之间的同一场联盟。",
+   "idea_en": "Design a kitchen around microbes as co-cooks.",
+   "idea_zh": "围绕作为“共同厨师”的微生物来设计一座厨房。",
+   "method": "Stone kitchen made with M-Marble Project, with fermentation vessels and compost cycles in place of fossil-fuelled cooking.",
+   "method_zh": "与 M-Marble Project 合作的石材厨房，用发酵容器和堆肥循环取代化石燃料烹饪。",
+   "keywords": [
+    "fermentation",
+    "kitchen",
+    "Middelheim Museum",
+    "transscalar architecture"
+   ],
+   "images": [
+    "https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-01.jpg",
+    "https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-02.jpg"
+   ],
+   "source_url": "https://offpolinn.com/work/the-transspecies-kitchen-an-antwerphagia/"
+  },
+  {
+   "id": "andres-jaque--transspecies-palace",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "The Transspecies Palace",
+   "year": 2025,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation at the 24th Triennale di Milano that provides the conditions for a dense microbial community (cyanobacteria, nitrogen fixers and others) able to metabolise toxins and help repair damaged environments.",
+   "description_zh": "第 24 届米兰三年展上的装置，为一个密集的微生物群落（蓝细菌、固氮菌等）提供生存条件，这些微生物能代谢毒素，帮助修复受损环境。",
+   "idea_en": "Architecture as a palace for microbes that do repair work.",
+   "idea_zh": "把建筑做成做修复工作的微生物的宫殿。",
+   "method": "Thick cork crust, first tested on the Reggio School facade, that retains minerals, sugars and moisture for aerobic and anaerobic microbes.",
+   "method_zh": "厚软木外壳（先在 Reggio School 立面上测试）保留矿物、糖分和水分，供需氧与厌氧微生物生存。",
+   "keywords": [
+    "microbial community",
+    "bioremediation",
+    "cork",
+    "Triennale Milano"
+   ],
+   "images": [
+    "https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-01.jpg",
+    "https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-02.jpg"
+   ],
+   "source_url": "https://offpolinn.com/work/the-transspecies-palace/"
+  },
+  {
+   "id": "andres-jaque--stonelife",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "STONELIFE",
+   "year": 2025,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation at the 2025 Venice Architecture Biennale, with mineralist Gokce Ustunisik, that presents stones as living lithoecosystems full of microbes rather than inert extracted material.",
+   "description_zh": "2025 年威尼斯建筑双年展上的装置，与矿物学家 Gokce Ustunisik 合作，把石头呈现为充满微生物的活的“岩石生态系统”，而不是被开采的惰性材料。",
+   "idea_en": "A stone is an ecosystem; cutting and polishing it is an act on life.",
+   "idea_zh": "一块石头就是一个生态系统，切割和抛光它是对生命的行为。",
+   "method": "Stone samples and microbial research displayed to trace links between rock microbes, extractive industry and affected communities.",
+   "method_zh": "展示石材样本与微生物研究，追踪岩石微生物、采掘产业与受影响社区之间的联系。",
+   "keywords": [
+    "lithoecosystems",
+    "stone",
+    "microbes",
+    "extractivism",
+    "Venice Biennale 2025"
+   ],
+   "images": [
+    "https://offpolinn.com/wp-content/uploads/2025/05/01-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg",
+    "https://offpolinn.com/wp-content/uploads/2025/05/02-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg"
+   ],
+   "source_url": "https://offpolinn.com/work/stonelife-the-microbeplanetary-infrastructure-of-lithoecosystems/"
+  },
+  {
+   "id": "superflux--the-quiet-enchanting",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "The Quiet Enchanting",
+   "year": 2023,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "An installation of screens and printed artworks on the Strand in London, made with King's College London, imagining a mythic future in which people rewild themselves and the city returns to ecological abundance.",
+   "description_zh": "与伦敦国王学院合作、在伦敦 Strand 街展出的屏幕与印刷作品装置，想象一个神话般的未来：人们重新“野化”自己，城市重回生态丰饶。",
+   "idea_en": "Offer a hopeful image of rewilding, starting with our inner lives.",
+   "idea_zh": "给出一个关于“重新野化”的希望图景，从我们的内心开始。",
+   "method": "A year of research conversations with King's academics, turned into moving-image and printed scenes along a public street.",
+   "method_zh": "与国王学院学者进行一年的研究对话，转化为沿公共街道展示的动态影像和印刷场景。",
+   "keywords": [
+    "rewilding",
+    "King's Culture",
+    "London",
+    "climate imaginaries"
+   ],
+   "video": {
+    "url": "https://vimeo.com/957254694"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2024/06/SF_Quiet-Enchanting_52.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/the-quiet-enchanting/"
+  },
+  {
+   "id": "superflux--vault-of-life",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "The Vault of Life",
+   "year": 2022,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A room at Dubai's Museum of the Future, set in 2071, where 2,400 suspended crystal jars, each etched with an image of a living or extinct species, form a genetic archive of life on Earth that visitors explore with handheld devices.",
+   "description_zh": "迪拜未来博物馆中的一个展厅，设定在 2071 年：2400 个悬挂的水晶罐各刻有一种现存或已灭绝物种的图像，组成一座地球生命的基因档案馆，观众用手持设备探索。",
+   "idea_en": "Stage biodiversity as a library we are responsible for keeping.",
+   "idea_zh": "把生物多样性呈现为一座我们有责任守护的图书馆。",
+   "method": "Exhibit design with 2,400 etched crystal jars in a 375 m² room and handheld interactive devices built with Marshmallow Laser Feast.",
+   "method_zh": "展陈设计：375 平方米空间内 2400 个刻有图像的水晶罐，加上与 Marshmallow Laser Feast 合作开发的手持互动设备。",
+   "keywords": [
+    "Museum of the Future",
+    "Dubai",
+    "biodiversity",
+    "DNA library",
+    "exhibition"
+   ],
+   "images": [
+    "https://superflux.in/wp-content/uploads/2022/07/Hero-Image-V2-1024x683.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/"
+  },
+  {
+   "id": "superflux--more-than-human-politics-talk",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "On Critical Activism and Fungal Revolts (Calling for a More-than-Human Politics)",
+   "year": 2019,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A talk by Anab Jain at the Tentacular Festival in Madrid arguing that design must move from human-centred to more-than-human-centred and take up a more-than-human politics.",
+   "description_zh": "Anab Jain 在马德里 Tentacular 艺术节上的演讲，主张设计必须从以人为中心转向以超越人类为中心，并投入一种超越人类的政治。",
+   "idea_en": "Human-centred design is part of the problem; widen who design serves.",
+   "idea_zh": "以人为中心的设计是问题的一部分，要扩大设计服务的对象。",
+   "method": "Lecture drawing on Superflux projects such as Mitigation of Shock, with an edited transcript published by the studio.",
+   "method_zh": "结合 Mitigation of Shock 等 Superflux 项目的演讲，工作室发布了整理后的讲稿。",
+   "keywords": [
+    "Anab Jain",
+    "more-than-human centred design",
+    "Tentacular Festival",
+    "talk"
+   ],
+   "video": {
+    "url": "https://vimeo.com/395931818"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2022/03/More-than-Human-Web-feature.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/calling-for-a-more-than-human-politics-a-talk-by-anab-jain-at-tentacular-festival-november-2019/"
+  },
+  {
+   "id": "superflux--safe-and-just-earth-system-boundaries",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Safe & Just Earth System Boundaries",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "An immersive film installation at the World Economic Forum in Davos that imagines the Amazon rainforest after a safe and just transformation, based on the Earth Commission's Nature paper on Earth system boundaries.",
+   "description_zh": "在达沃斯世界经济论坛展出的沉浸式影像装置，依据地球委员会发表在 Nature 上的“地球系统边界”研究，想象亚马孙雨林经历安全而公正的转型之后的样子。",
+   "idea_en": "Make planetary science felt by showing a future where human and more-than-human wellbeing are tied together.",
+   "idea_zh": "通过呈现人类与超越人类的福祉相互绑定的未来，让行星科学被感受到。",
+   "method": "Moving-image worlds built with Earth Commission scientists, one per boundary (climate, biosphere, freshwater and others).",
+   "method_zh": "与地球委员会科学家合作构建的动态影像世界，每条边界（气候、生物圈、淡水等）各一个。",
+   "keywords": [
+    "Earth Commission",
+    "planetary boundaries",
+    "Amazon",
+    "World Economic Forum"
+   ],
+   "images": [
+    "https://superflux.in/wp-content/uploads/2024/04/Hero-SF_Earth-Commission_Biosphere.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/earth-commission/"
+  },
+  {
+   "id": "natalie-jeremijenko--feral-robotic-dogs",
+   "creator_ids": [
+    "natalie-jeremijenko"
+   ],
+   "title": "Feral Robotic Dogs",
+   "year": 2002,
+   "field": "mth",
+   "sub": "ecological",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Students and community groups hacked consumer robot dogs, fitted them with chemical sensors and released them on contaminated sites, where the dogs \"sniffed out\" pollutants and led people to them.",
+   "description_zh": "学生和社区团体改装消费级机器狗，装上化学传感器，把它们放到受污染的场地上，让机器狗“嗅出”污染物并把人带过去。",
+   "idea_en": "Repurpose a toy to make invisible pollution public and legible.",
+   "idea_zh": "改造玩具，让看不见的污染变得公开、可读。",
+   "method": "Toy robot dogs re-engineered with VOC and other sensors and simple tracking behaviours, run as open workshops at universities across the US.",
+   "method_zh": "玩具机器狗被改装上挥发性有机物等传感器和简单的追踪行为，在美国多所大学以开放工作坊形式开展。",
+   "keywords": [
+    "robot dogs",
+    "pollution sensing",
+    "citizen science",
+    "xDesign",
+    "hacking"
+   ],
+   "images": [
+    "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg",
+    "https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg"
+   ],
+   "source_url": "https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/"
+  },
+  {
+   "id": "forensic-architecture--cloud-studies",
+   "creator_ids": [
+    "forensic-architecture"
+   ],
+   "title": "Cloud Studies",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A film and research project that tracks toxic clouds, from tear gas and chemical attacks to industrial pollution and forest fires, and shows how airborne violence is produced and denied.",
+   "description_zh": "一部影片与研究项目：追踪各种有毒云团，从催泪瓦斯、化学袭击到工业污染和森林大火，揭示空气中的暴力如何被制造又如何被否认。",
+   "idea_en": "The air is a contested space; clouds can be evidence.",
+   "idea_zh": "空气是被争夺的空间，云团可以成为证据。",
+   "method": "Compiles open-source video, remote sensing and fluid-dynamics modelling from several investigations into one film, commissioned by ZKM Center for Art and Media.",
+   "method_zh": "把多个调查中的开源视频、遥感数据和流体力学建模汇编成一部影片，由 ZKM 艺术与媒体中心委托制作。",
+   "keywords": [
+    "toxic clouds",
+    "air pollution",
+    "fluid dynamics",
+    "ZKM",
+    "Critical Zones"
+   ],
+   "video": {
+    "url": "https://vimeo.com/757505563"
+   },
+   "images": [
+    "https://content.forensic-architecture.org/wp-content/uploads/2020/06/1-scaled.jpg"
+   ],
+   "source_url": "https://forensic-architecture.org/investigation/cloudstudies"
+  },
+  {
+   "id": "partizan-publik--parliament-of-things",
+   "creator_ids": [
+    "partizan-publik",
+    "bruno-latour"
+   ],
+   "title": "The Parliament of Things",
+   "year": 2016,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A speculative research programme by the Amsterdam collective Partizan Publik that takes Bruno Latour's idea of a Parliament of Things literally, holding sessions, talks and publications in which animals, plants, rivers and the sea are given political voice; it led to the Embassy of the North Sea.",
+   "description_zh": "阿姆斯特丹团体 Partizan Publik 的思辨研究项目，把 Bruno Latour 的“物的议会”设想付诸实践，通过会议、讲座和出版，让动物、植物、河流和海洋获得政治发言权；后来催生了北海大使馆。",
+   "idea_en": "Take a philosophical proposal literally and run it as an institution.",
+   "idea_zh": "把一个哲学设想当真，把它办成一个机构。",
+   "method": "Public sessions, lectures, publications and mock parliaments with philosophers, artists, lawyers and scientists.",
+   "method_zh": "与哲学家、艺术家、律师和科学家一起举办公开会议、讲座、出版和模拟议会。",
+   "keywords": [
+    "Parliament of Things",
+    "Bruno Latour",
+    "rights of nature",
+    "Netherlands"
+   ],
+   "images": [
+    "https://theparliamentofthings.org/wp-content/uploads/2017/04/15392195485_43de687052_k-min.jpg",
+    "https://new.theparliamentofthings.org/wp-content/uploads/2018/03/fish.png"
+   ],
+   "source_url": "https://theparliamentofthings.org"
+  },
+  {
+   "id": "chris-watson--weather-report",
+   "creator_ids": [
+    "chris-watson"
+   ],
+   "title": "Weather Report",
+   "year": 2003,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An album of three long compositions made from field recordings: a day in a Kenyan game reserve, a season in a Scottish glen, and the slow movement of an Icelandic glacier.",
+   "description_zh": "一张由三段长篇田野录音作品组成的专辑：肯尼亚野生动物保护区的一天、苏格兰峡谷的一个季节，以及冰岛冰川的缓慢移动。",
+   "idea_en": "Compress time, not space: let a place's animals and weather compose.",
+   "idea_zh": "压缩的是时间而不是空间：让一个地方的动物和天气来作曲。",
+   "method": "Long-duration location recordings edited into time-compressed narratives, released by Touch.",
+   "method_zh": "长时间的现场录音，被剪辑成时间压缩的叙事，由 Touch 厂牌发行。",
+   "keywords": [
+    "field recording",
+    "Touch",
+    "Kenya",
+    "Scotland",
+    "Vatnajökull"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uqvkmacBJv8"
+   },
+   "source_url": "https://chriswatson.net"
+  },
+  {
+   "id": "chris-watson--whispering-in-the-leaves",
+   "creator_ids": [
+    "chris-watson"
+   ],
+   "title": "Whispering in the Leaves",
+   "year": 2008,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A multichannel sound installation that fills a glasshouse with the dawn and dusk choruses of Central and South American rainforests, first shown at AV Festival 2008 and later in the Palm House at Kew Gardens.",
+   "description_zh": "一件多声道声音装置，用中美洲和南美洲雨林的黎明与黄昏合唱填满温室；2008 年首展于 AV Festival，后在邱园棕榈温室展出。",
+   "idea_en": "Bring an absent ecosystem into a building through its sound alone.",
+   "idea_zh": "只用声音，把一个不在场的生态系统带进建筑里。",
+   "method": "Rainforest recordings diffused through loudspeakers placed among tropical plants, timed to the light of the day.",
+   "method_zh": "雨林录音通过布置在热带植物间的扬声器播放，并按一天中的光线变化安排。",
+   "keywords": [
+    "sound installation",
+    "rainforest",
+    "dawn chorus",
+    "Kew Gardens",
+    "AV Festival"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jxrqHwH1NVE"
+   },
+   "source_url": "https://chriswatson.net"
+  },
+  {
+   "id": "chris-watson--planet-ocean",
+   "creator_ids": [
+    "chris-watson"
+   ],
+   "title": "Planet Ocean",
+   "year": 2026,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An hour-long album of 17 tracks celebrating the sounds, rhythms and textures of oceans worldwide, recorded above and below the surface, with a booklet of 20 photographs.",
+   "description_zh": "一张时长一小时、共 17 首的专辑，记录世界各地海洋水面上下的声音、节奏与质感，附带 20 张照片的小册子。",
+   "idea_en": "The ocean is the planet's largest and most sound-rich habitat; listen to it as one.",
+   "idea_zh": "海洋是地球上最大、声音最丰富的栖息地，把它当作一个整体来听。",
+   "method": "Hydrophone and air-microphone recordings from many seas, released by Touch as a download with a PDF booklet.",
+   "method_zh": "来自多片海域的水听器和空气麦克风录音，由 Touch 以数字下载加 PDF 小册子的形式发行。",
+   "keywords": [
+    "hydrophone",
+    "ocean",
+    "field recording",
+    "Touch"
+   ],
+   "images": [
+    "https://chriswatson.net/wp-content/uploads/sites/5/Planet-Ocean-cover-scaled.jpg"
+   ],
+   "source_url": "https://chriswatson.net/2025/12/30/1980/"
+  },
+  {
+   "id": "leah-barclay--biosphere-soundscapes",
+   "creator_ids": [
+    "leah-barclay"
+   ],
+   "title": "Biosphere Soundscapes",
+   "year": 2013,
+   "field": "mth",
+   "sub": "ecological",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A long-term acoustic ecology project in UNESCO biosphere reserves that runs residencies, recordings and workshops so communities can listen to and monitor environmental change through sound.",
+   "description_zh": "一个在联合国教科文组织生物圈保护区开展的长期声学生态项目，通过驻地、录音和工作坊，让社区借助声音倾听并监测环境变化。",
+   "idea_en": "Use listening as a shared measure of ecosystem health.",
+   "idea_zh": "把倾听当作衡量生态系统健康的共同尺度。",
+   "method": "Terrestrial and underwater field recordings, community workshops and composed mixes; endorsed by UNESCO's Man and the Biosphere Programme in 2013.",
+   "method_zh": "陆地和水下田野录音、社区工作坊与创作混音；2013 年获联合国教科文组织“人与生物圈计划”认可。",
+   "keywords": [
+    "acoustic ecology",
+    "UNESCO biosphere reserves",
+    "hydrophone",
+    "soundscape"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0EBEGneXB8w"
+   },
+   "images": [
+    "https://biospheresoundscapes.org/uploads/2/0/1/3/2013969/eo9dy2iuuaewue_orig.jpg"
+   ],
+   "source_url": "https://biospheresoundscapes.org"
+  },
+  {
+   "id": "leah-barclay--rainforest-listening",
+   "creator_ids": [
+    "leah-barclay"
+   ],
+   "title": "Rainforest Listening",
+   "year": 2015,
+   "field": "mth",
+   "sub": "ecological",
+   "also": [
+    "hni"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An augmented-reality sound project that places geolocated rainforest soundscapes in cities; it launched in Times Square during Climate Week NYC 2015 and was shown in Paris during COP21.",
+   "description_zh": "一个增强现实声音项目，把带地理定位的雨林声景放进城市；2015 年纽约气候周期间在时代广场首发，并在巴黎 COP21 期间展出。",
+   "idea_en": "Overlay a distant forest on a city street so people hear what is at stake.",
+   "idea_zh": "把远方的森林叠加到城市街道上，让人听到正在失去的东西。",
+   "method": "Mobile app that triggers Amazon soundscapes by GPS as listeners walk, produced with Rainforest Partnership.",
+   "method_zh": "手机应用根据 GPS 在听众行走时触发亚马孙声景，与 Rainforest Partnership 合作制作。",
+   "keywords": [
+    "augmented reality",
+    "Amazon",
+    "COP21",
+    "Times Square",
+    "soundscape"
+   ],
+   "video": {
+    "url": "https://vimeo.com/157876186"
+   },
+   "images": [
+    "https://www.rainforestlistening.com/uploads/2/0/1/3/2013969/3809756_orig.jpg"
+   ],
+   "source_url": "https://www.rainforestlistening.com"
+  },
+  {
+   "id": "robertina-sebjanic--aquatocene",
+   "creator_ids": [
+    "robertina-sebjanic"
+   ],
+   "title": "Aquatocene / Subaquatic Quest for Serenity",
+   "year": 2016,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Sound compositions built from hydrophone recordings of seas, lakes and rivers that make audible how ships and human noise fill the underwater world where animals rely on sound.",
+   "description_zh": "用海洋、湖泊和河流的水听器录音创作的声音作品，让人听见船只和人类噪音如何充斥依赖声音生存的水下世界。",
+   "idea_en": "Ask how the ocean hears us, not how we hear the ocean.",
+   "idea_zh": "问海洋如何听见我们，而不是我们如何听见海洋。",
+   "method": "Long-term hydrophone recording and composition, presented as installation, performance and listening sessions.",
+   "method_zh": "长期的水听器录音与作曲，以装置、表演和聆听会的形式呈现。",
+   "keywords": [
+    "underwater noise",
+    "hydrophone",
+    "anthropophony",
+    "acoustic ecology"
+   ],
+   "video": {
+    "url": "https://vimeo.com/215171764"
+   },
+   "images": [
+    "https://robertina.net/wp-content/uploads/2025/09/cbdc0-aquatocene-by-robertina-sebjanic-new1.jpg"
+   ],
+   "source_url": "https://robertina.net/aquatocene/"
+  },
+  {
+   "id": "robertina-sebjanic--aqua-forensic",
+   "creator_ids": [
+    "robertina-sebjanic"
+   ],
+   "title": "aqua_forensic",
+   "year": 2018,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation, workshop and citizen-science project, with Gjino Šutić, that makes pharmaceutical residues in water visible through holograms of microorganisms dying in highly diluted drug solutions.",
+   "description_zh": "与 Gjino Šutić 合作的装置、工作坊与公民科学项目：用全息影像呈现微生物在高度稀释的药物溶液中死亡的过程，让水中的药物残留变得可见。",
+   "idea_en": "Show the invisible chemical footprint we leave in water through its smallest inhabitants.",
+   "idea_zh": "通过水中最小的居民，呈现我们留在水里的看不见的化学足迹。",
+   "method": "In vitro experiments with microorganisms in pharmaceutical solutions 20,000 times weaker than a human dose, shown as holographic video in a copper-pipe installation.",
+   "method_zh": "在比人用剂量弱 2 万倍的药物溶液中开展微生物体外实验，以全息视频的形式呈现在铜管装置中。",
+   "keywords": [
+    "pharmaceutical pollution",
+    "citizen science",
+    "holograms",
+    "microorganisms"
+   ],
+   "video": {
+    "url": "https://vimeo.com/288379735"
+   },
+   "images": [
+    "https://robertina.net/wp-content/uploads/2025/09/5aa0e-aqua_forensic_robertina_sebjanic_gjino_sutic-2-2.jpg"
+   ],
+   "source_url": "https://robertina.net/aqua_forensic/"
+  },
+  {
+   "id": "robertina-sebjanic--echinoidea-future",
+   "creator_ids": [
+    "robertina-sebjanic"
+   ],
+   "title": "Echinoidea Future – Adriatic Sensing",
+   "year": 2022,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A video and sound work about sea urchins in the southern Adriatic living in low-oxygen water shaped by human liquid waste, showing both the stress and the resilience of the species.",
+   "description_zh": "一件关于亚得里亚海南部海胆的影像与声音作品：它们生活在被人类液体废物改变、含氧量低的海水中，作品同时呈现物种承受的压力与韧性。",
+   "idea_en": "Sense a polluted sea from the position of one of its inhabitants.",
+   "idea_zh": "从海中一位居民的位置去感知被污染的海。",
+   "method": "Underwater recording and AI-assisted video made during the STARTS4Water Zero Pollution Adriatic residency with marine scientists.",
+   "method_zh": "在 STARTS4Water“零污染亚得里亚海”驻地期间与海洋科学家合作完成的水下录音与 AI 辅助影像。",
+   "keywords": [
+    "sea urchins",
+    "Adriatic",
+    "hypoxia",
+    "STARTS4Water"
+   ],
+   "video": {
+    "url": "https://vimeo.com/922237843"
+   },
+   "images": [
+    "https://robertina.net/wp-content/uploads/2024/05/aab3851-1.jpg"
+   ],
+   "source_url": "https://robertina.net/echinoidea-future-adriatic-sensing-starts4water-zero-pollution-adriatic/"
+  },
+  {
+   "id": "robertina-sebjanic--lygophilia",
+   "creator_ids": [
+    "robertina-sebjanic"
+   ],
+   "title": "Lygophilia",
+   "year": 2017,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A series of installations, video and sound works about animals that love darkness, the Mexican axolotl and the European olm, which never grow up and live in places hostile to humans.",
+   "description_zh": "一系列装置、影像与声音作品，关于喜爱黑暗的动物：墨西哥钝口螈和欧洲洞螈，它们终生保持幼态，生活在对人类不友好的地方。",
+   "idea_en": "Learn from animals that thrive in the dark and never leave their juvenile form.",
+   "idea_zh": "向在黑暗中生存、终生保持幼态的动物学习。",
+   "method": "Research in Mexico and Slovenia combining mythology and biology, shown as installation, video essay and sound composition.",
+   "method_zh": "在墨西哥和斯洛文尼亚开展的研究，把神话与生物学结合，以装置、影像随笔和声音作品呈现。",
+   "keywords": [
+    "axolotl",
+    "olm",
+    "Proteus anguinus",
+    "neoteny",
+    "darkness"
+   ],
+   "images": [
+    "https://robertina.net/wp-content/uploads/2025/09/81d51-0ab24554d6e5511e2f6e741ef597cd21-1.jpg"
+   ],
+   "source_url": "https://robertina.net/lygophilia/"
+  },
+  {
+   "id": "studio-ossidiana--birds-palace",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "The Birds' Palace",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A floating garden anchored in a pond in Amsterdam's Vondelpark with tall perches and bird feeders; over six weeks the birds' feeding and droppings turned its soil heap into a flower field that drew bees and butterflies.",
+   "description_zh": "锚定在阿姆斯特丹冯德尔公园池塘中的漂浮花园，设有高高的栖木和喂鸟器；六周里，鸟的取食和粪便把土堆变成一片花田，引来了蜜蜂和蝴蝶。",
+   "idea_en": "Let birds be the gardeners of a public artwork.",
+   "idea_zh": "让鸟成为公共艺术作品的园丁。",
+   "method": "Floating platform with fertile soil, perches and feeders; seeds dispersed by birds; viewed from shore with binoculars.",
+   "method_zh": "带有肥沃土壤、栖木和喂食器的漂浮平台；种子由鸟传播；观众在岸边用望远镜观看。",
+   "keywords": [
+    "birds",
+    "Vondelpark",
+    "floating garden",
+    "Art in the Schinkel"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/e85569f1-dee1-464b-819e-1254fc47d75b/The+Bird%27s+Palace.jpg",
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/7b480486-268c-40f9-b280-c3dacc24708c/The+Birds+Palace+-+Courtesy+of+Studio+Ossidiana+-+Photo+by+Riccardo+de+Vecchi2_2.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/the-birds-palace"
+  },
+  {
+   "id": "studio-ossidiana--variations-on-a-birdcage",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "Variations on a Birdcage",
+   "year": 2020,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A series of objects that spatialise the relationship between a human and a bird, translating acts such as retreating, feeding, domesticating and playing into forms between cage, perch and furniture.",
+   "description_zh": "一系列把人与鸟之间的关系空间化的物件，把后退、喂食、驯化、玩耍等行为转化为介于鸟笼、栖木和家具之间的形态。",
+   "idea_en": "A birdcage can be redesigned as a negotiation between two species.",
+   "idea_zh": "鸟笼可以被重新设计成两个物种之间的协商。",
+   "method": "Cast and assembled objects made in Maastricht in 2020, part of the studio's City of Birds research.",
+   "method_zh": "2020 年在马斯特里赫特制作的浇铸与组装物件，属于工作室“鸟之城”研究的一部分。",
+   "keywords": [
+    "birds",
+    "birdcage",
+    "Maastricht",
+    "City of Birds"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624385418951-F4PQU7P1EEMOXPLA7L77/Variations+on+a+Birdcage+14.jpg",
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1588273074967-NNYD8U67UOB1P6COC4V8/Studio+Ossidiana_Variations+on+a+bird+cage+%281%29.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/variations-on-a-birdcage-"
+  },
+  {
+   "id": "studio-ossidiana--furniture-for-a-human-and-a-parrot",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "Furniture for a Human and a Parrot",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Chairs, a bench and a cluster made during lockdown for the designers and their parrot Coco, with perches, food bowls and places to play built into furniture both species use.",
+   "description_zh": "疫情封控期间为设计师和他们的鹦鹉 Coco 做的椅子、长凳和组合家具，把栖木、食盆和玩耍的地方做进两个物种共用的家具里。",
+   "idea_en": "Design one piece of furniture for two species living in the same room.",
+   "idea_zh": "为住在同一个房间里的两个物种设计同一件家具。",
+   "method": "Cast and wooden furniture shaped around the parrot's habits of perching, chewing and eating; shown at the 2021 Venice Architecture Biennale.",
+   "method_zh": "根据鹦鹉栖息、啃咬和进食的习惯塑形的浇铸与木质家具；在 2021 年威尼斯建筑双年展展出。",
+   "keywords": [
+    "parrot",
+    "Amazona oratrix",
+    "furniture",
+    "Venice Biennale 2021",
+    "Meubel Award"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yc_ig-pbc0E"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624378718506-A9O8GS2IZ6EPIQSWPCPV/Coco+detail+LQ.jpg",
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623330542968-ZPDUD035ZCRTTWI2KCY8/Chair+front+Coco+Eating+copy.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/furniture-for-a-human-and-a-parrot"
+  },
+  {
+   "id": "studio-ossidiana--platform-for-humans-and-birds",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "Platform for Humans and Birds",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A modular cast landscape at the 2021 Venice Architecture Biennale with edible insertions, water bowls, games and backrests, overseen by three dovecote towers and tall perches, for people and birds to share.",
+   "description_zh": "2021 年威尼斯建筑双年展上的模块化浇铸景观，嵌有可食用的部分、水碗、游戏和靠背，由三座鸽塔和高栖木守望，供人和鸟共享。",
+   "idea_en": "A public platform where both species find things to eat, drink and do.",
+   "idea_zh": "一个让两个物种都能找到吃的、喝的和事可做的公共平台。",
+   "method": "Cast modules with edible insertions and water-collecting bowls, plus a five-metre Pigeon Tower with metal \"feathers\" in the Giardino delle Vergini.",
+   "method_zh": "嵌入种子和集水结构的浇铸模块，以及立在 Giardino delle Vergini 的五米高、覆有金属“羽毛”的鸽塔。",
+   "keywords": [
+    "birds",
+    "pigeons",
+    "dovecote",
+    "Venice Biennale 2021"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623334193482-J5309IFFVQ5XASZ5JH8M/Platform+for+Humans+and+Birds_Photo+by+Riccardo+de+Vecchi9.jpg",
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624386771422-V0ZIATHE4P4R4JNNBCY2/Dovecote+Tower_Photo+by+Riccardo+de+Vecchi_02lowres2.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/platform-for-humans-and-birds-la-biennale-di-venezia"
+  },
+  {
+   "id": "studio-ossidiana--geese-grottos",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "Geese Grottos",
+   "year": 2019,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Three nesting structures for over 500 geese at artist Kutlug Ataman's ranch in Erzincan, Turkey, shaped from moved soil to give shelter from wind and define the geese's territory.",
+   "description_zh": "为艺术家 Kutlug Ataman 在土耳其埃尔津詹的牧场设计的三座鹅巢，供 500 多只鹅在繁殖季使用，用挪动的土方塑造，挡风并划定鹅的领地。",
+   "idea_en": "A nest can also be a folly: useful for geese, a garden for people.",
+   "idea_zh": "一座巢也可以是一座园林小品：对鹅有用，对人是花园。",
+   "method": "Earthworks and built nests designed around geese breeding behaviour and wind conditions.",
+   "method_zh": "围绕鹅的繁殖行为和风况设计的土方与巢体。",
+   "keywords": [
+    "geese",
+    "nesting",
+    "Erzincan",
+    "landscape"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1588262060635-WDKJILXBVD97CCUV8EH7/Geese+Grottos_Studio+Ossidiana15.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/geese-grottos"
+  },
+  {
+   "id": "studio-ossidiana--ornithon",
+   "creator_ids": [
+    "studio-ossidiana"
+   ],
+   "title": "Ornithon",
+   "year": 2025,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An aviary-garden installation at the Centro Cultural de Belém in Lisbon inspired by the Roman writer Varro's aviary, with seats for birds and people, water and planting.",
+   "description_zh": "里斯本贝伦文化中心的鸟舍花园装置，灵感来自罗马作家瓦罗的鸟舍，设有供鸟和人使用的座位、水和植物。",
+   "idea_en": "Revive an ancient type, the aviary as a shared garden, for today's cities.",
+   "idea_zh": "为今天的城市复活一种古老的类型：作为共享花园的鸟舍。",
+   "method": "Built landscape of perches, basins and plants referencing Varro's De Re Rustica.",
+   "method_zh": "由栖木、水池和植物组成的建造景观，参照瓦罗的《论农业》。",
+   "keywords": [
+    "aviary",
+    "Varro",
+    "Lisbon",
+    "Centro Cultural de Belém"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/b0ac47db-d7dc-4d1b-a71a-b7b7a188c8ef/Studio+Ossidiana_Mac_Riccardo+De+Vecchi+photographer-1.jpg"
+   ],
+   "source_url": "https://www.studio-ossidiana.com/ornithon-/-centro-cultural-de-belm"
+  },
+  {
+   "id": "joyce-hwang--bat-tower",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "Bat Tower",
+   "year": 2010,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "A sculptural tower by a pond in Griffis Sculpture Park, New York, designed for bats to roost in, with landing pads, grooved surfaces for climbing and dark panels that absorb sunlight to keep the interior warm.",
+   "description_zh": "纽约州格里菲斯雕塑公园池塘边的一座雕塑塔，供蝙蝠栖息：设有着陆台、便于攀爬的凹槽表面，以及吸收阳光、保持内部温暖的深色面板。",
+   "idea_en": "Make an invisible neighbour conspicuous: a vertical cave in the open.",
+   "idea_zh": "让看不见的邻居变得显眼：一座立在空地上的垂直洞穴。",
+   "method": "Ribbed timber construction with roosting zones and bat-attracting plants at the base, next to insect-rich water.",
+   "method_zh": "肋状木结构，设有栖息区，底部种植吸引蝙蝠的植物，旁边是昆虫丰富的水面。",
+   "keywords": [
+    "bats",
+    "roost",
+    "Griffis Sculpture Park",
+    "Ants of the Prairie"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/bat-tower/a6e7b601f9-1769725221/1-bat-tower.jpg",
+    "https://www.antsoftheprairie.com/media/pages/projects/bat-tower/009b23f938-1769725221/3-bat-tower-photo-by-albert-chao.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/bat-tower"
+  },
+  {
+   "id": "joyce-hwang--habitat-wall",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "Habitat Wall",
+   "year": 2011,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A prototype exterior wall that builds in roosting and nesting spaces for bats and birds, asking how a facade could act as a living membrane rather than only a barrier.",
+   "description_zh": "一面外墙原型：把蝙蝠和鸟类的栖息与筑巢空间做进墙里，追问立面能否成为活的膜，而不只是屏障。",
+   "idea_en": "Buildings already house animals; design for it on purpose.",
+   "idea_zh": "建筑本来就住着动物，那就有意识地为它们设计。",
+   "method": "Iterations of wall modules (Pest Wall, Layered Vernacular) developed as models and prototypes.",
+   "method_zh": "以模型和原型迭代发展的墙体模块（Pest Wall、Layered Vernacular）。",
+   "keywords": [
+    "facade",
+    "bats",
+    "birds",
+    "urban wildlife"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/habitat-wall/4de6e05158-1771260188/hw1_habitat-wall-buffalo-model.jpg",
+    "https://www.antsoftheprairie.com/media/pages/projects/habitat-wall/35bc6d248b-1771260188/hw0_pest-wall.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/habitat-wall"
+  },
+  {
+   "id": "joyce-hwang--bat-cloud",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "Bat Cloud",
+   "year": 2012,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A canopy of hanging vessels in the trees, shown in Buffalo and Rotterdam, each with an insulated upper roost for bats and a soil-filled lower part where their guano feeds plants.",
+   "description_zh": "悬挂在树间的容器群，曾在布法罗和鹿特丹展出；每个容器上部是保温的蝙蝠栖所，下部装满土壤，蝙蝠粪便在那里滋养植物。",
+   "idea_en": "Link a species' shelter to a garden through its waste.",
+   "idea_zh": "通过排泄物把一个物种的栖所和一座花园连在一起。",
+   "method": "Fabricated vessels hung from trees, with seeds and soil below and bat-accessible roosting chambers above.",
+   "method_zh": "悬挂在树上的定制容器，下部是种子和土壤，上部是蝙蝠可进入的栖息腔。",
+   "keywords": [
+    "bats",
+    "guano",
+    "canopy",
+    "Buffalo",
+    "Rotterdam"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/04b6a06017-1771258986/aop_batcloud.jpg",
+    "https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/cd700e0a31-1771258992/bat-cloud-summer.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/bat-cloud"
+  },
+  {
+   "id": "joyce-hwang--no-crash-zone",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "No Crash Zone",
+   "year": 2015,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A temporary renovation of a window in Chicago's Carson Pirie Scott Building with graphic patterns that make the glass visible to birds while keeping a view out for people.",
+   "description_zh": "对芝加哥 Carson Pirie Scott 大楼一扇窗的临时改造：用图案让鸟能看见玻璃，同时为人保留向外的视野。",
+   "idea_en": "Ornament can do ecological work: preventing bird strikes.",
+   "idea_zh": "装饰也能承担生态功能：防止鸟撞。",
+   "method": "Window graphics based on bird-strike prevention guidelines, pixel camouflage and one-point perspective.",
+   "method_zh": "依据防鸟撞指南设计的窗面图案，结合像素迷彩与单点透视。",
+   "keywords": [
+    "bird strikes",
+    "glass",
+    "Chicago",
+    "ornament"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/no-crash-zone/1b5f537ef7-1771340721/no-crash-zone-left-side.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/no-crash-zone"
+  },
+  {
+   "id": "joyce-hwang--to-middle-species-with-love",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "To Middle Species, With Love",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An installation in Mill Race Park, Columbus, Indiana, made of hardwood towers with bird perches and bat houses and dry-stacked stone mounds, for the common \"middle species\" of bats, birds, amphibians and reptiles.",
+   "description_zh": "位于印第安纳州哥伦布市 Mill Race 公园的装置，由带鸟栖木和蝙蝠屋的硬木塔以及干砌石堆组成，服务于蝙蝠、鸟类、两栖和爬行动物等常见的“中间物种”。",
+   "idea_en": "Design for the ordinary species we share cities with, not only the charismatic ones.",
+   "idea_zh": "为与我们共享城市的普通物种设计，而不只是那些明星物种。",
+   "method": "Indiana hardwood towers modelled on bat houses for the endangered Indiana bat, plus ultrasonic detectors that record bat calls and turn them into sound.",
+   "method_zh": "参照濒危印第安纳蝙蝠的蝙蝠屋制作的印第安纳硬木塔，加上记录蝙蝠叫声并将其转为声音的超声波探测器。",
+   "keywords": [
+    "middle species",
+    "Indiana bat",
+    "Exhibit Columbus",
+    "echolocation"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/0e6efdb4c4-1769725224/1_to-middle-species-with-love-dawn.jpg",
+    "https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/ce8aad150e-1769725224/6_to-middle-species-with-love-towers.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/to-middle-species-with-love"
+  },
+  {
+   "id": "joyce-hwang--pollinator-lounge",
+   "creator_ids": [
+    "joyce-hwang"
+   ],
+   "title": "Pollinator Lounge",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "insects",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An outdoor multispecies resting space at Brooklyn Botanic Garden with wooden seats for people, 43 habitat boxes for local pollinators and stone gabions for small ground-dwelling animals.",
+   "description_zh": "布鲁克林植物园的户外多物种休憩空间：为人设置木座椅，为本地传粉者设置 43 个栖息箱，并用石笼为小型地栖动物提供庇护。",
+   "idea_en": "Put human rest and pollinator habitat in the same piece of furniture.",
+   "idea_zh": "把人的休息和传粉者的栖息做进同一件家具里。",
+   "method": "Towers and seats with habitat boxes designed by students at the University at Buffalo and UT Austin, with Nerea Feliz.",
+   "method_zh": "塔与座椅上的栖息箱由布法罗大学和得克萨斯大学奥斯汀分校的学生设计，与 Nerea Feliz 合作。",
+   "keywords": [
+    "pollinators",
+    "Brooklyn Botanic Garden",
+    "habitat boxes",
+    "Nerea Feliz"
+   ],
+   "images": [
+    "https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/70b44906f8-1769725226/1_0052_bbg_latespringevening.jpg",
+    "https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/3e77a88b26-1769725226/4_pollinator-lounge-4-photo-by-liz-ligon-courtesy-of-brooklyn-botanic-garden.jpg"
+   ],
+   "source_url": "https://www.antsoftheprairie.com/projects/pollinator-lounge"
+  },
+  {
+   "id": "green-and-blue--bee-brick",
+   "creator_ids": [
+    "green-and-blue"
+   ],
+   "title": "Bee Brick",
+   "year": 2015,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "product",
+   "description": "A concrete brick with nesting holes for solitary bees that can replace a standard brick in a wall or stand in a garden; Brighton & Hove began requiring swift and bee bricks in new buildings in 2020.",
+   "description_zh": "一块带有独居蜂筑巢孔的混凝土砖，可以替代墙里的普通砖，也可以立在花园里；布莱顿-霍夫市从 2020 年起要求新建筑安装雨燕砖和蜜蜂砖。",
+   "idea_en": "Make habitat a standard building component that a planning rule can require.",
+   "idea_zh": "让栖息地成为一种标准建筑构件，可以写进规划条例。",
+   "method": "Cast concrete block (made partly from Cornish china-clay waste) with cavities sized for solitary bees such as mason bees.",
+   "method_zh": "浇铸混凝土砌块（部分采用康沃尔瓷土废料），孔洞尺寸适合壁蜂等独居蜂。",
+   "keywords": [
+    "solitary bees",
+    "building component",
+    "planning policy",
+    "Brighton"
+   ],
+   "images": [
+    "https://www.greenandblue.co.uk/cdn/shop/products/white-grey-bee-brick.jpg?v=1668523534",
+    "https://www.greenandblue.co.uk/cdn/shop/products/bee-brick-christmas-gift-solitary-bee-shown.jpg?v=1668523534&width=1946"
+   ],
+   "source_url": "https://www.greenandblue.co.uk/products/bee-brick"
+  },
+  {
+   "id": "suzanne-simard--finding-the-mother-tree",
+   "creator_ids": [
+    "suzanne-simard"
+   ],
+   "title": "Finding the Mother Tree: Discovering the Wisdom of the Forest",
+   "year": 2021,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A memoir and science book in which Simard tells how her experiments showed that trees exchange carbon and signals through mycorrhizal networks, and that old \"mother trees\" support younger ones.",
+   "description_zh": "一本回忆录兼科学著作：Simard 讲述她的实验如何发现树木通过菌根网络交换碳与信号，以及年老的“母树”如何扶持幼树。",
+   "idea_en": "A forest is a cooperative network, and managing it means caring for its hubs.",
+   "idea_zh": "森林是一张合作的网络，管理森林就是照护它的枢纽。",
+   "method": "Decades of field experiments with isotope labelling of carbon between trees, told as personal narrative.",
+   "method_zh": "几十年的野外实验，用同位素标记追踪树木之间的碳流动，以个人叙事写成。",
+   "keywords": [
+    "mycorrhizal networks",
+    "wood wide web",
+    "mother trees",
+    "forest ecology"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/10525226-L.jpg"
+   ]
+  },
+  {
+   "id": "merlin-sheldrake--entangled-life",
+   "creator_ids": [
+    "merlin-sheldrake"
+   ],
+   "title": "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "fungi",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A book about the fungal kingdom, from mycorrhizal networks and lichens to yeasts and psychedelics, that uses fungi to question ideas of individuality and intelligence.",
+   "description_zh": "一本关于真菌王国的书，从菌根网络、地衣到酵母和致幻蘑菇，借真菌追问“个体”与“智能”的概念。",
+   "idea_en": "Fungi show that life is made of relationships more than individuals.",
+   "idea_zh": "真菌表明，生命更多由关系构成，而不是由个体构成。",
+   "method": "Field research, lab science and personal experiment written for a general audience.",
+   "method_zh": "田野研究、实验室科学与个人实验，写给大众读者。",
+   "keywords": [
+    "fungi",
+    "mycelium",
+    "mycorrhiza",
+    "lichen"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/10152882-L.jpg"
+   ],
+   "source_url": "https://www.merlinsheldrake.com/entangled-life"
+  },
+  {
+   "id": "robin-wall-kimmerer--braiding-sweetgrass",
+   "creator_ids": [
+    "robin-wall-kimmerer"
+   ],
+   "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants",
+   "year": 2013,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Essays that braid botany with Potawatomi knowledge and stories, proposing reciprocity and gratitude as the basis of human relations with plants and land.",
+   "description_zh": "一组散文，把植物学与波塔瓦托米族的知识和故事编织在一起，提出以互惠和感恩作为人与植物、土地关系的基础。",
+   "idea_en": "Treat plants as teachers and the land as a gift that asks for reciprocity.",
+   "idea_zh": "把植物当作老师，把土地当作需要回报的礼物。",
+   "method": "Essays combining plant science, Indigenous stories and the author's experience as botanist and mother.",
+   "method_zh": "结合植物科学、原住民故事和作者作为植物学家与母亲的经历写成的散文。",
+   "keywords": [
+    "Indigenous knowledge",
+    "Potawatomi",
+    "reciprocity",
+    "botany",
+    "sweetgrass"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/7281575-L.jpg"
+   ]
+  },
+  {
+   "id": "bruno-latour--politics-of-nature",
+   "creator_ids": [
+    "bruno-latour"
+   ],
+   "title": "Politics of Nature: How to Bring the Sciences into Democracy",
+   "year": 2004,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Latour argues that the split between nature and society blocks ecological politics, and proposes a collective in which humans and nonhumans are represented together.",
+   "description_zh": "Latour 认为自然与社会的二分阻碍了生态政治，提出建立一个人类与非人类共同被代表的“集体”。",
+   "idea_en": "Abandon \"nature\" as a separate realm and give nonhumans representation in politics.",
+   "idea_zh": "放弃把“自然”当作独立领域，让非人类在政治中获得代表。",
+   "method": "Philosophical argument drawing on science studies; English translation of Politiques de la nature (1999).",
+   "method_zh": "借鉴科学研究的哲学论证；为《Politiques de la nature》（1999）的英译本。",
+   "keywords": [
+    "political ecology",
+    "nonhumans",
+    "democracy",
+    "science studies"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/412231-L.jpg"
+   ]
+  },
+  {
+   "id": "bruno-latour--we-have-never-been-modern",
+   "creator_ids": [
+    "bruno-latour"
+   ],
+   "title": "We Have Never Been Modern",
+   "year": 1993,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Latour argues that modernity pretended to separate nature from culture while producing ever more hybrids of both, and ends by calling for a Parliament of Things.",
+   "description_zh": "Latour 认为现代性假装把自然与文化分开，却制造出越来越多二者的混合体，全书以呼吁建立“物的议会”作结。",
+   "idea_en": "Hybrids of nature and culture need a Parliament of Things to represent them.",
+   "idea_zh": "自然与文化的混合体需要一个“物的议会”来代表它们。",
+   "method": "Philosophical essay from science and technology studies; English translation of Nous n'avons jamais été modernes (1991).",
+   "method_zh": "科学技术研究领域的哲学论著；为《Nous n'avons jamais été modernes》（1991）的英译本。",
+   "keywords": [
+    "Parliament of Things",
+    "hybrids",
+    "modernity",
+    "actor-network theory"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/414244-L.jpg"
+   ]
+  },
+  {
+   "id": "timothy-morton--ecology-without-nature",
+   "creator_ids": [
+    "timothy-morton"
+   ],
+   "title": "Ecology without Nature: Rethinking Environmental Aesthetics",
+   "year": 2007,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Morton argues that the idea of \"Nature\" as something out there, separate and pure, gets in the way of ecological thinking and art.",
+   "description_zh": "Morton 认为，把“自然”当作外在、独立而纯粹之物的观念，妨碍了生态思考与生态艺术。",
+   "idea_en": "Drop the idealised image of Nature to think ecologically.",
+   "idea_zh": "放下理想化的“自然”形象，才能生态地思考。",
+   "method": "Literary and aesthetic theory, reading romantic and contemporary art.",
+   "method_zh": "文学与美学理论，解读浪漫主义与当代艺术。",
+   "keywords": [
+    "environmental aesthetics",
+    "dark ecology",
+    "romanticism"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/1336211-L.jpg"
+   ]
+  },
+  {
+   "id": "timothy-morton--hyperobjects",
+   "creator_ids": [
+    "timothy-morton"
+   ],
+   "title": "Hyperobjects: Philosophy and Ecology after the End of the World",
+   "year": 2013,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Morton names \"hyperobjects\", things such as global warming or plutonium that are so spread out in time and space that they cannot be seen whole but affect everything.",
+   "description_zh": "Morton 提出“超物体”概念：全球变暖、钚等在时间和空间上极度延展的事物，无法被整体看见，却影响着一切。",
+   "idea_en": "Some things are too big to see; design has to make them sensible in parts.",
+   "idea_zh": "有些东西大到看不见，设计要把它们分段地变得可感。",
+   "method": "Object-oriented philosophy applied to ecological crisis.",
+   "method_zh": "把物导向哲学应用于生态危机。",
+   "keywords": [
+    "hyperobjects",
+    "object-oriented ontology",
+    "climate change"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/7276179-L.jpg"
+   ]
+  },
+  {
+   "id": "eduardo-kohn--how-forests-think",
+   "creator_ids": [
+    "eduardo-kohn"
+   ],
+   "title": "How Forests Think: Toward an Anthropology Beyond the Human",
+   "year": 2013,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "Based on fieldwork with the Runa of Ecuador's Upper Amazon, Kohn argues that forests and animals use signs and that thinking is not only human.",
+   "description_zh": "基于在厄瓜多尔亚马孙上游 Runa 人中的田野调查，Kohn 认为森林与动物也使用符号，思考并不专属于人类。",
+   "idea_en": "Other beings interpret and represent the world too; design can listen to their signs.",
+   "idea_zh": "其他生命也在解读和表征世界，设计可以倾听它们的符号。",
+   "method": "Ethnography combined with Peircean semiotics.",
+   "method_zh": "民族志与皮尔士符号学的结合。",
+   "keywords": [
+    "multispecies ethnography",
+    "semiotics",
+    "Runa",
+    "Amazon"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/7853496-L.jpg"
+   ]
+  },
+  {
+   "id": "vinciane-despret--what-would-animals-say",
+   "creator_ids": [
+    "vinciane-despret"
+   ],
+   "title": "What Would Animals Say If We Asked the Right Questions?",
+   "year": 2016,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "An alphabetical book of short chapters on animal research, showing how experiments shape what animals are able to show and what counts as their intelligence.",
+   "description_zh": "一本按字母排序、由短章组成的书，讨论动物研究，指出实验如何塑造动物能展现什么、什么算作它们的智能。",
+   "idea_en": "Animals answer the questions we ask; ask better ones.",
+   "idea_zh": "动物回答的是我们提出的问题，所以要提出更好的问题。",
+   "method": "Philosophical and historical reading of ethology and animal-cognition studies, from A to Z.",
+   "method_zh": "从 A 到 Z 对动物行为学和动物认知研究的哲学与历史解读。",
+   "keywords": [
+    "ethology",
+    "animal cognition",
+    "philosophy of science"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/8896337-L.jpg"
+   ]
+  },
+  {
+   "id": "emanuele-coccia--the-life-of-plants",
+   "creator_ids": [
+    "emanuele-coccia"
+   ],
+   "title": "The Life of Plants: A Metaphysics of Mixture",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "publication",
+   "description": "Coccia argues that plants, through leaves, roots and flowers, make the atmosphere and the world that all other life lives in, and uses them to rethink what a world is.",
+   "description_zh": "Coccia 认为植物通过叶、根和花创造了大气，也创造了其他一切生命所生活的世界，并借植物重新思考“世界”是什么。",
+   "idea_en": "Start from the plant's point of view: to live is to be immersed in and to make a world.",
+   "idea_zh": "从植物的视角出发：活着就是沉浸于世界并创造世界。",
+   "method": "Philosophical essay organised around leaf, root and flower; English translation of La vie des plantes (2016).",
+   "method_zh": "以叶、根、花为结构的哲学随笔；为《La vie des plantes》（2016）的英译本。",
+   "keywords": [
+    "plants",
+    "atmosphere",
+    "metaphysics",
+    "immersion"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/9228061-L.jpg"
+   ]
+  },
+  {
+   "id": "karen-barad--meeting-the-universe-halfway",
+   "creator_ids": [
+    "karen-barad"
+   ],
+   "title": "Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning",
+   "year": 2007,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "molecules"
+   ],
+   "kind": "publication",
+   "description": "Barad develops agential realism, in which things and meanings emerge through \"intra-actions\" rather than pre-existing and then interacting.",
+   "description_zh": "Barad 提出能动实在论：事物与意义通过“内部互动”生成，而不是先各自存在、再相互作用。",
+   "idea_en": "Entities do not precede their relations; design configures intra-actions.",
+   "idea_zh": "实体并不先于关系存在，设计是在配置“内部互动”。",
+   "method": "Philosophy of physics building on Niels Bohr, combined with feminist and poststructuralist theory.",
+   "method_zh": "以尼尔斯·玻尔为基础的物理学哲学，结合女性主义与后结构主义理论。",
+   "keywords": [
+    "agential realism",
+    "intra-action",
+    "new materialism",
+    "Niels Bohr"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/1559112-L.jpg"
+   ]
+  },
+  {
+   "id": "donna-haraway--when-species-meet",
+   "creator_ids": [
+    "donna-haraway"
+   ],
+   "title": "When Species Meet",
+   "year": 2008,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "Haraway writes about the relations people form with dogs, lab animals and other species, and argues that becoming is always becoming-with.",
+   "description_zh": "Haraway 书写人与狗、实验动物和其他物种形成的关系，认为“成为”总是“共同成为”。",
+   "idea_en": "Species become who they are through encounters with each other.",
+   "idea_zh": "物种通过彼此相遇，才成为它们自己。",
+   "method": "Essays drawing on the author's agility training with her dog, science studies and philosophy.",
+   "method_zh": "结合作者与爱犬的敏捷训练经历、科学研究与哲学写成的文集。",
+   "keywords": [
+    "companion species",
+    "becoming-with",
+    "dogs",
+    "posthumanities"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/2651380-L.jpg"
+   ]
+  },
+  {
+   "id": "donna-haraway--companion-species-manifesto",
+   "creator_ids": [
+    "donna-haraway"
+   ],
+   "title": "The Companion Species Manifesto: Dogs, People, and Significant Otherness",
+   "year": 2003,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "A short manifesto that uses the co-history of dogs and people to argue that humans and other species make each other through shared histories.",
+   "description_zh": "一篇简短的宣言，借狗与人共同的历史，论证人类与其他物种在共享的历史中相互塑造。",
+   "idea_en": "Relationships are the smallest unit of analysis, not individuals.",
+   "idea_zh": "关系而不是个体，才是最小的分析单位。",
+   "method": "Essay mixing personal stories, breed histories and theory.",
+   "method_zh": "把个人故事、犬种史与理论混合在一起的随笔。",
+   "keywords": [
+    "companion species",
+    "dogs",
+    "significant otherness",
+    "Prickly Paradigm Press"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/737091-L.jpg"
+   ]
+  },
+  {
+   "id": "james-bridle--ways-of-being",
+   "creator_ids": [
+    "james-bridle"
+   ],
+   "title": "Ways of Being: Animals, Plants, Machines: The Search for a Planetary Intelligence",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "slime-mold"
+   ],
+   "kind": "publication",
+   "description": "Bridle surveys the intelligence of octopuses, plants, slime moulds and ecosystems and argues that computing should learn from, and make room for, these other ways of being.",
+   "description_zh": "Bridle 考察章鱼、植物、黏菌和生态系统的智能，主张计算应向这些其他的存在方式学习，并为它们留出空间。",
+   "idea_en": "Intelligence is plural and ecological; AI is one more kind among many.",
+   "idea_zh": "智能是多元且生态性的，AI 只是其中之一。",
+   "method": "Essay combining science reporting, computing history and art projects.",
+   "method_zh": "结合科学报道、计算史与艺术项目的论著。",
+   "keywords": [
+    "more-than-human intelligence",
+    "slime mould",
+    "octopus",
+    "artificial intelligence"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/14435859-L.jpg"
+   ]
+  },
+  {
+   "id": "monica-gagliano--thus-spoke-the-plant",
+   "creator_ids": [
+    "monica-gagliano"
+   ],
+   "title": "Thus Spoke the Plant",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "publication",
+   "description": "Gagliano recounts her experiments showing that plants can learn and remember, such as mimosa plants habituating to drops and pea roots finding water by sound, alongside her encounters with plants in Indigenous traditions.",
+   "description_zh": "Gagliano 讲述她的实验：植物能够学习和记忆，比如含羞草对跌落产生习惯化、豌豆根靠声音找到水源；也讲述她在原住民传统中与植物的相遇。",
+   "idea_en": "Plants learn; research can be designed so they are able to show it.",
+   "idea_zh": "植物会学习，研究可以被设计得让它们展现这一点。",
+   "method": "Behavioural ecology experiments on plant learning and bioacoustics, told as personal narrative.",
+   "method_zh": "关于植物学习与生物声学的行为生态学实验，以个人叙事写成。",
+   "keywords": [
+    "plant cognition",
+    "Mimosa pudica",
+    "bioacoustics",
+    "plant learning"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/8747734-L.jpg"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "Maya Livio",
+   "why": "The Eco-Technical Interface (CHI 2022, with Laura Devendorf) is a key theory paper; her artefacts are in kneile-2025 but the paper itself is not a work yet",
+   "link": "https://doi.org/10.1145/3491102.3501851",
+   "found_via": "laura-devendorf",
+   "status": "open"
+  },
+  {
+   "name": "Laura Devendorf – Redeform / Post-Anthropocentric 3D Printing (DIS 2016)",
+   "why": "Post-anthropocentric framing of makers, machines and materials; no image found",
+   "link": "https://doi.org/10.1145/2901790.2901879",
+   "found_via": "laura-devendorf",
+   "status": "no_media"
+  },
+  {
+   "name": "Anne Galloway – The Great NZ Cat Controversy; A Good Death; Sheepcare",
+   "why": "More-Than-Human Lab projects on invasive species, on-farm slaughter and sheep care; lab site offline, no media",
+   "link": "https://web.archive.org/web/2019/http://morethanhumanlab.org/projects/",
+   "found_via": "anne-galloway",
+   "status": "no_media"
+  },
+  {
+   "name": "Claudia Núñez-Pacheco & Anton Poikolainen Rosén – Articulating Felt Senses for More-Than-Human Design (DIS 2024)",
+   "why": "Micro-phenomenology as a method for noticing more-than-human relations",
+   "link": "https://doi.org/10.1145/3643834.3661554",
+   "found_via": "anton-poikolainen-rosen",
+   "status": "open"
+  },
+  {
+   "name": "Rachel Clarke et al. – More-than-human urban futures: speculative participatory design to avoid ecocidal smart cities (PDC 2018)",
+   "why": "Speculative urban walk; related to existing rachel-clarke works",
+   "link": "https://doi.org/10.1145/3210604.3210641",
+   "found_via": "ann-light",
+   "status": "open"
+  },
+  {
+   "name": "Stanislav Roudavski – Modelling and Design of Habitat Features: manufactured poles vs living trees (Sustainability 2023)",
+   "why": "Perch structures for birds; MDPI figures blocked (403)",
+   "link": "https://doi.org/10.3390/su15097588",
+   "found_via": "stanislav-roudavski",
+   "status": "no_media"
+  },
+  {
+   "name": "Alinta Krauth – Interspecies Translation Technologies (Leonardo 2026); AI and Care for Other(ed) Animals (Leonardo 2025); butcherbird vocal AI artwork",
+   "why": "Art-led interfaces for interpreting animal signals; overlaps Part A animal-communication scope",
+   "link": "https://doi.org/10.1162/leon_a_02674",
+   "found_via": "alinta-krauth",
+   "status": "open"
+  },
+  {
+   "name": "Julia Lohmann – Hidaka Ohmu (2020), Oki Naganode (2013), Ruminant Bloom",
+   "why": "Seaweed pavilions and animal-material works; Hidaka Ohmu is mentioned inside the existing Department of Seaweed entry",
+   "link": "https://www.julialohmann.co.uk/work/gallery/hidaka-ohmu/",
+   "found_via": "julia-lohmann",
+   "status": "duplicate"
+  },
+  {
+   "name": "Joyce Hwang – Multispecies Lounge (Bentway, 2023), Over 100 Species in a Home, Shelter of Belonging",
+   "why": "Further multispecies architecture projects with images on antsoftheprairie.com",
+   "link": "https://www.antsoftheprairie.com/projects",
+   "found_via": "joyce-hwang",
+   "status": "open"
+  },
+  {
+   "name": "Andrés Jaque – Techno-Floresta Bogotá (2016), Manifesta 12 Planetary Garden (2018), We the Bacteria (Triennale)",
+   "why": "Further transspecies architecture works",
+   "link": "https://offpolinn.com/work/",
+   "found_via": "andres-jaque",
+   "status": "open"
+  },
+  {
+   "name": "Studio Ossidiana – The City of Birds (2020–21)",
+   "why": "Model collection of pigeon lofts, bat towers, aviaries and traps; partly covered by Variations on a Birdcage",
+   "link": "https://www.studio-ossidiana.com/the-city-of-birds",
+   "found_via": "studio-ossidiana",
+   "status": "open"
+  },
+  {
+   "name": "Robertina Šebjanič – Hidden Adriatic, CO_SONIC (Tribeca Immersive 2024), Echoes of the Abyss (Tara expedition)",
+   "why": "Further underwater sound and ocean pollution works",
+   "link": "https://robertina.net",
+   "found_via": "robertina-sebjanic",
+   "status": "open"
+  },
+  {
+   "name": "Leah Barclay – River Listening",
+   "why": "Acoustic ecology of Australian rivers; project site certificate broken",
+   "link": "https://www.youtube.com/watch?v=dGAcUChycp4",
+   "found_via": "leah-barclay",
+   "status": "open"
+  },
+  {
+   "name": "Natalie Jeremijenko – OOZ, xDrones",
+   "why": "No non-EHC media source found",
+   "link": "",
+   "found_via": "natalie-jeremijenko",
+   "status": "no_media"
+  },
+  {
+   "name": "Tomás Saraceno – Spider/Web Pavilion 7 (Venice 2019), Arachnophilia",
+   "why": "Further spider works not yet in the gallery",
+   "link": "https://studiotomassaraceno.org",
+   "found_via": "tomas-saraceno",
+   "status": "open"
+  },
+  {
+   "name": "Kelp Council (Julia Lohmann)",
+   "why": "Named in the brief; no page or media found on julialohmann.co.uk",
+   "link": "",
+   "found_via": "julia-lohmann",
+   "status": "no_media"
+  },
+  {
+   "name": "Timothy Morton – Dark Ecology (2016)",
+   "why": "Third Morton book; cover available (Open Library id 8834498)",
+   "link": "https://openlibrary.org/works/OL20185977W",
+   "found_via": "timothy-morton",
+   "status": "open"
+  },
+  {
+   "name": "Michael Marder – Plant-Thinking (2013)",
+   "why": "Philosophy of plant life; cover ISBN unverified",
+   "link": "https://openlibrary.org/works/OL21497654W",
+   "found_via": "emanuele-coccia",
+   "status": "open"
+  }
+ ]
+}

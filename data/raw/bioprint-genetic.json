@@ -1,0 +1,3770 @@
+{
+ "batch": "bioprint-genetic",
+ "creators": [
+  {
+   "id": "thomas-boland",
+   "name": "Thomas Boland",
+   "kind": "person",
+   "role": "Professor of Metallurgical, Materials and Biomedical Engineering, University of Texas at El Paso",
+   "based": "El Paso, US",
+   "bio": "Thomas Boland converted a desktop inkjet printer into the first cell printer at Clemson University and published the founding papers of bioprinting in 2003.",
+   "why": "He showed that living cells can be deposited by an ordinary printer, which is the technical starting point every designer working with bioprinting inherits.",
+   "links": {
+    "site": "https://www.utep.edu/engineering/metallurgical-materials-biomedical/faculty-and-staff/faculty-profiles/thomas-boland.html"
+   },
+   "role_zh": "德克萨斯大学埃尔帕索分校冶金、材料与生物医学工程教授",
+   "based_zh": "美国埃尔帕索",
+   "bio_zh": "Thomas Boland 在克莱姆森大学把桌面喷墨打印机改造成第一台细胞打印机，并在 2003 年发表了生物打印的奠基论文。",
+   "why_zh": "他证明活细胞可以用普通打印机沉积，这是所有从事生物打印的设计师所继承的技术起点。",
+   "connected_to": [
+    "lawrence-bonassar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anthony-atala",
+   "name": "Anthony Atala",
+   "kind": "person",
+   "role": "Director, Wake Forest Institute for Regenerative Medicine",
+   "based": "Winston-Salem, US",
+   "bio": "Surgeon and researcher who leads the Wake Forest Institute for Regenerative Medicine, where the Integrated Tissue and Organ Printing system was built to print human-scale bone, cartilage and muscle.",
+   "why": "His 2011 TED demonstration of a printed kidney prototype is the image that put organ printing into public and design imagination.",
+   "links": {
+    "site": "https://school.wakehealth.edu/research/institutes-and-centers/wake-forest-institute-for-regenerative-medicine"
+   },
+   "role_zh": "维克森林再生医学研究所所长",
+   "based_zh": "美国温斯顿-塞勒姆",
+   "bio_zh": "外科医生与研究者，领导维克森林再生医学研究所，该所开发了可打印人体尺度骨骼、软骨与肌肉的 ITOP 系统。",
+   "why_zh": "他在 2011 年 TED 演示的打印肾脏原型，是把器官打印带入公众与设计想象的那个画面。",
+   "connected_to": [
+    "thomas-boland"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-lewis",
+   "name": "Jennifer A. Lewis",
+   "kind": "person",
+   "role": "Hansjörg Wyss Professor of Biologically Inspired Engineering, Harvard University",
+   "based": "Cambridge, US",
+   "bio": "Jennifer Lewis develops printable inks for soft matter at Harvard's Wyss Institute, from vascularised tissue and organ building blocks to hydrogel composites that fold as they swell.",
+   "why": "Her lab turned bioprinting into an ink-design problem, which is how most designers can actually enter the field.",
+   "links": {
+    "site": "https://lewisgroup.seas.harvard.edu/",
+    "scholar": "https://scholar.google.com/citations?user=8aDFHKMAAAAJ"
+   },
+   "role_zh": "哈佛大学 Hansjörg Wyss 仿生工程教授",
+   "based_zh": "美国剑桥",
+   "bio_zh": "Jennifer Lewis 在哈佛 Wyss 研究所研究软物质的可打印墨水，从血管化组织、器官构件到会随吸水而弯折的水凝胶复合材料。",
+   "why_zh": "她的实验室把生物打印变成了墨水设计问题，这正是设计师能真正切入这个领域的方式。",
+   "connected_to": [
+    "neri-oxman"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adam-feinberg",
+   "name": "Adam Feinberg",
+   "kind": "person",
+   "role": "Professor of Biomedical Engineering and Materials Science, Carnegie Mellon University",
+   "based": "Pittsburgh, US",
+   "bio": "Adam Feinberg's lab invented FRESH printing, which builds soft collagen and cell structures inside a gelatin support bath, and used it to print heart valves, ventricles and a full-size heart scaffold.",
+   "why": "FRESH made printing with very soft biological materials possible with open-source hardware, and the method spread quickly beyond labs.",
+   "links": {
+    "site": "https://www.cmu.edu/bme/Feinberg-Lab/"
+   },
+   "role_zh": "卡内基梅隆大学生物医学工程与材料科学教授",
+   "based_zh": "美国匹兹堡",
+   "bio_zh": "Adam Feinberg 的实验室发明了 FRESH 打印：在明胶支撑浴中打印柔软的胶原与细胞结构，并用它打印出心脏瓣膜、心室和全尺寸心脏支架。",
+   "why_zh": "FRESH 让极柔软的生物材料能被打印，而且用开源硬件就能实现，方法很快传出实验室。",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jordan-miller",
+   "name": "Jordan Miller",
+   "kind": "person",
+   "role": "Associate Professor of Bioengineering, Rice University",
+   "based": "Houston, US",
+   "bio": "Jordan Miller works on stereolithographic printing of hydrogels with open-source hardware and software, including multivascular networks that mimic breathing lung tissue.",
+   "why": "He builds his printers, inks and code in the open, which makes advanced bioprinting reproducible outside well-funded labs.",
+   "links": {
+    "site": "https://millerlab.rice.edu/",
+    "github": "https://github.com/jordanmiller"
+   },
+   "role_zh": "莱斯大学生物工程副教授",
+   "based_zh": "美国休斯顿",
+   "bio_zh": "Jordan Miller 用开源硬件和软件做水凝胶的光固化打印，包括模仿肺部呼吸的多血管网络。",
+   "why_zh": "他的打印机、墨水和代码都是开放的，让高阶生物打印在资源有限的地方也能复现。",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tal-dvir",
+   "name": "Tal Dvir",
+   "kind": "person",
+   "role": "Professor and director of the Sagol Center for Regenerative Biotechnology, Tel Aviv University",
+   "based": "Tel Aviv, Israel",
+   "bio": "Tal Dvir's group prints cardiac tissue from a patient's own reprogrammed cells suspended in a personalised hydrogel made from their tissue.",
+   "why": "His printed heart made the idea of patient-specific, personally sourced biological material concrete.",
+   "links": {
+    "site": "https://en-lifesci.tau.ac.il/profile/dvirt"
+   },
+   "role_zh": "特拉维夫大学教授、Sagol 再生生物技术中心主任",
+   "based_zh": "以色列特拉维夫",
+   "bio_zh": "Tal Dvir 的团队用病人自己重编程的细胞，配上取自其组织的个性化水凝胶，打印心脏组织。",
+   "why_zh": "他的打印心脏让「材料来自本人」的个性化生物材料变得具体可见。",
+   "connected_to": [
+    "anthony-atala"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "monica-laronda",
+   "name": "Monica Laronda",
+   "kind": "person",
+   "role": "Associate Professor of Pediatrics, Northwestern University; Stanley Manne Children's Research Institute",
+   "based": "Chicago, US",
+   "bio": "Monica Laronda works on reproductive tissue engineering and printed the gelatin scaffold ovary that restored fertility in sterilised mice.",
+   "why": "A printed organ whose geometry, not its cells, does the work — a clear lesson in structural design for biology.",
+   "links": {
+    "site": "https://www.laronda-lab.org/"
+   },
+   "role_zh": "西北大学儿科副教授，Stanley Manne 儿童研究所",
+   "based_zh": "美国芝加哥",
+   "bio_zh": "Monica Laronda 研究生殖组织工程，打印出的明胶支架卵巢让绝育小鼠恢复生育能力。",
+   "why_zh": "这是一个由几何结构而非细胞本身起作用的打印器官，对生物结构设计是很清楚的一课。",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "michael-mcalpine",
+   "name": "Michael McAlpine",
+   "kind": "person",
+   "role": "Professor of Mechanical Engineering, University of Minnesota",
+   "based": "Minneapolis, US",
+   "bio": "Michael McAlpine prints electronics and living cells together, from the 2013 bionic ear with a coiled silver antenna to bacteria printed onto a fingertip.",
+   "why": "He treats the boundary between device and tissue as a single printable assembly.",
+   "links": {
+    "site": "https://mcalpinegroup.umn.edu/"
+   },
+   "role_zh": "明尼苏达大学机械工程教授",
+   "based_zh": "美国明尼阿波利斯",
+   "bio_zh": "Michael McAlpine 把电子与活细胞一起打印，从 2013 年内嵌螺旋银天线的仿生耳，到直接打印在指尖上的细菌。",
+   "why_zh": "他把器件与组织的边界当作一个可以一次打印出来的装配体。",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "lawrence-bonassar",
+   "name": "Lawrence Bonassar",
+   "kind": "person",
+   "role": "Professor of Biomedical Engineering and Mechanical Engineering, Cornell University",
+   "based": "Ithaca, US",
+   "bio": "Lawrence Bonassar's lab prints cartilage from 3D scans, including patient-specific ears grown from collagen hydrogel injected into printed moulds.",
+   "why": "His workflow — scan, print mould, grow tissue — is the most design-legible route from a body to a living replacement part.",
+   "links": {
+    "site": "https://bonassar.research.engineering.cornell.edu/"
+   },
+   "role_zh": "康奈尔大学生物医学工程与机械工程教授",
+   "based_zh": "美国伊萨卡",
+   "bio_zh": "Lawrence Bonassar 的实验室根据三维扫描打印软骨，包括把胶原水凝胶注入打印模具、培养出与病人匹配的耳朵。",
+   "why_zh": "扫描、打印模具、培养组织：这是从身体到活体替换件最容易被设计理解的流程。",
+   "connected_to": [
+    "thomas-boland"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "riccardo-levato",
+   "name": "Riccardo Levato",
+   "kind": "person",
+   "role": "Professor of Regenerative Medicine and Biofabrication, Utrecht University and UMC Utrecht",
+   "based": "Utrecht, Netherlands",
+   "bio": "Riccardo Levato works on light-based biofabrication, including volumetric printing that forms a whole cell-laden object in seconds by projecting light patterns into a rotating resin.",
+   "why": "Volumetric printing replaces layer-by-layer logic with light shaped in a volume, which changes what forms are printable in living material.",
+   "links": {
+    "site": "https://www.levatolab.com/"
+   },
+   "role_zh": "乌特勒支大学与 UMC Utrecht 再生医学与生物制造教授",
+   "based_zh": "荷兰乌特勒支",
+   "bio_zh": "Riccardo Levato 研究基于光的生物制造，包括把光图案投射进旋转树脂、数秒内成形含细胞整体的体积打印。",
+   "why_zh": "体积打印用「在体积中塑光」取代逐层堆叠，改变了活体材料能做出什么形状。",
+   "connected_to": [
+    "jennifer-lewis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "organovo",
+   "name": "Organovo",
+   "kind": "company",
+   "role": "Bioprinting company, founded 2007 on Gabor Forgacs's tissue self-assembly research",
+   "based": "San Diego, US",
+   "bio": "Organovo was the first publicly listed bioprinting company; it sold the NovoGen printer and printed human liver and kidney tissue for drug testing.",
+   "why": "The first attempt to make printed living tissue an industrial product rather than a lab result.",
+   "links": {
+    "site": "https://organovo.com/"
+   },
+   "role_zh": "生物打印公司，2007 年基于 Gabor Forgacs 的组织自组装研究成立",
+   "based_zh": "美国圣迭戈",
+   "bio_zh": "Organovo 是第一家上市的生物打印公司，销售 NovoGen 打印机，并打印用于药物测试的人类肝脏与肾脏组织。",
+   "why_zh": "这是第一次尝试把打印出的活体组织做成工业产品，而不只是实验结果。",
+   "connected_to": [
+    "modern-meadow"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cellink",
+   "name": "CELLINK",
+   "kind": "company",
+   "role": "Bioprinter and bioink manufacturer, founded 2016 (now part of BICO)",
+   "based": "Gothenburg, Sweden",
+   "bio": "CELLINK started by selling a universal cellulose-based bioink and then the BIO X desktop bioprinter, which put bioprinting on ordinary lab benches.",
+   "why": "It made bioprinting an off-the-shelf tool, the same shift desktop 3D printers made for form.",
+   "links": {
+    "site": "https://www.cellink.com/"
+   },
+   "role_zh": "生物打印机与生物墨水制造商，2016 年成立（现属 BICO）",
+   "based_zh": "瑞典哥德堡",
+   "bio_zh": "CELLINK 从销售通用纤维素生物墨水起步，随后推出 BIO X 桌面生物打印机，把生物打印放到普通实验台上。",
+   "why_zh": "它让生物打印成为可直接购买的工具，正如桌面 3D 打印机对造型所做的那样。",
+   "connected_to": [
+    "organovo"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aspect-biosystems",
+   "name": "Aspect Biosystems",
+   "kind": "company",
+   "role": "Microfluidic bioprinting company, founded 2013",
+   "based": "Vancouver, Canada",
+   "bio": "Aspect Biosystems prints tissue with a microfluidic printhead that mixes cells and hydrogel at the nozzle, and is developing printed tissue therapeutics.",
+   "why": "Its printhead design shows how fluid engineering, not gantry mechanics, sets the resolution of living prints.",
+   "links": {
+    "site": "https://aspectbiosystems.com/"
+   },
+   "role_zh": "微流控生物打印公司，2013 年成立",
+   "based_zh": "加拿大温哥华",
+   "bio_zh": "Aspect Biosystems 用在喷头处混合细胞与水凝胶的微流控打印头打印组织，并在开发打印组织疗法。",
+   "why_zh": "它的喷头设计说明，决定活体打印精度的是流体工程，而不是机架机械。",
+   "connected_to": [
+    "cellink"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "prellis-biologics",
+   "name": "Prellis Biologics",
+   "kind": "company",
+   "role": "Holographic bioprinting company, founded 2016",
+   "based": "San Francisco, US",
+   "bio": "Prellis Biologics prints capillary-scale structures with holographic light fields and uses printed lymph-node organoids to generate human antibodies.",
+   "why": "It prints at the scale of capillaries, the bottleneck that keeps most printed tissue from staying alive.",
+   "links": {
+    "site": "https://www.prellisbio.com/"
+   },
+   "role_zh": "全息生物打印公司，2016 年成立",
+   "based_zh": "美国旧金山",
+   "bio_zh": "Prellis Biologics 用全息光场打印毛细血管尺度的结构，并用打印出的淋巴结类器官生产人类抗体。",
+   "why_zh": "它打印的是毛细血管尺度——这正是大多数打印组织无法存活的瓶颈。",
+   "connected_to": [
+    "jordan-miller"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aleph-farms",
+   "name": "Aleph Farms",
+   "kind": "company",
+   "role": "Cultivated meat company, founded 2017",
+   "based": "Rehovot, Israel",
+   "bio": "Aleph Farms grows beef steaks from cow cells and used 3D bioprinting to produce a cultivated ribeye with marbling and internal structure.",
+   "why": "Food is where most people will first eat something that was bioprinted.",
+   "links": {
+    "site": "https://www.aleph-farms.com/"
+   },
+   "role_zh": "细胞培养肉公司，2017 年成立",
+   "based_zh": "以色列雷霍沃特",
+   "bio_zh": "Aleph Farms 用牛细胞培养牛排，并用 3D 生物打印做出带有脂肪纹理与内部结构的培养肋眼。",
+   "why_zh": "食物会是大多数人第一次吃到生物打印产物的地方。",
+   "connected_to": [
+    "novameat"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "novameat",
+   "name": "Novameat",
+   "kind": "company",
+   "role": "Food technology company founded by Giuseppe Scionti, 2018",
+   "based": "Barcelona, Spain",
+   "bio": "Novameat extrudes plant proteins into micro-fibre bundles that imitate the anisotropic texture of muscle, using a printer adapted from tissue engineering.",
+   "why": "It transfers a tissue-engineering printhead to plant protein, and texture — not taste — becomes the design problem.",
+   "links": {
+    "site": "https://novameat.com/"
+   },
+   "role_zh": "由 Giuseppe Scionti 于 2018 年创立的食品科技公司",
+   "based_zh": "西班牙巴塞罗那",
+   "bio_zh": "Novameat 用改自组织工程的打印机，把植物蛋白挤出成模仿肌肉各向异性纹理的微纤维束。",
+   "why_zh": "它把组织工程的喷头搬到植物蛋白上，于是口感——而不是味道——成了设计问题。",
+   "connected_to": [
+    "aleph-farms"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "redefine-meat",
+   "name": "Redefine Meat",
+   "kind": "company",
+   "role": "Alternative meat company, founded 2018",
+   "based": "Rehovot, Israel",
+   "bio": "Redefine Meat industrialised the printing of plant-based whole cuts, printing muscle, fat and blood analogues together at production scale.",
+   "why": "It shows what happens when a printed food stops being a demo and becomes a supply chain.",
+   "links": {
+    "site": "https://www.redefinemeat.com/"
+   },
+   "role_zh": "替代肉公司，2018 年成立",
+   "based_zh": "以色列雷霍沃特",
+   "bio_zh": "Redefine Meat 把植物基整块肉的打印做到工业规模，同时打印肌肉、脂肪和血液的替代物。",
+   "why_zh": "它展示了当打印食物不再是演示、而变成供应链时会发生什么。",
+   "connected_to": [
+    "novameat"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "3dbio-therapeutics",
+   "name": "3DBio Therapeutics",
+   "kind": "company",
+   "role": "Regenerative medicine company, founded 2014",
+   "based": "Queens, New York, US",
+   "bio": "3DBio Therapeutics developed AuriNovo, an ear implant printed from a patient's own cartilage cells and implanted in a clinical trial in 2022.",
+   "why": "The first printed living body part implanted in a person as part of an approved trial.",
+   "links": {
+    "site": "https://www.3dbiocorp.com/"
+   },
+   "role_zh": "再生医学公司，2014 年成立",
+   "based_zh": "美国纽约皇后区",
+   "bio_zh": "3DBio Therapeutics 开发了 AuriNovo：用病人自身软骨细胞打印的耳朵植入物，2022 年在临床试验中植入人体。",
+   "why_zh": "这是第一个在获批试验中植入人体的打印活体身体部件。",
+   "connected_to": [
+    "lawrence-bonassar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andrew-pelling",
+   "name": "Andrew Pelling",
+   "kind": "person",
+   "role": "Professor of Physics and Biology, University of Ottawa; founder of pHacktory",
+   "based": "Ottawa, Canada",
+   "bio": "Andrew Pelling's lab grows mammalian cells on scaffolds cut from apples, asparagus and other plants, and publishes the recipes as open hardware and protocols.",
+   "why": "He replaces expensive engineered scaffolds with supermarket produce, which makes tissue design cheap enough to hack.",
+   "links": {
+    "site": "https://www.pellinglab.net/"
+   },
+   "role_zh": "渥太华大学物理与生物学教授，pHacktory 创始人",
+   "based_zh": "加拿大渥太华",
+   "bio_zh": "Andrew Pelling 的实验室把哺乳动物细胞培养在苹果、芦笋等植物切出的支架上，并把配方作为开源硬件与流程发布。",
+   "why_zh": "他用超市食材替代昂贵的工程支架，让组织设计便宜到可以被折腾。",
+   "connected_to": [
+    "lawrence-bonassar"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "daniel-wangpraseurt",
+   "name": "Daniel Wangpraseurt",
+   "kind": "person",
+   "role": "Marine biologist and bio-optics researcher, UC San Diego and University of Cambridge",
+   "based": "San Diego, US",
+   "bio": "Daniel Wangpraseurt prints coral-inspired hydrogel structures whose optics scatter light the way living coral tissue does, and uses them to grow dense algae cultures.",
+   "why": "He copies the light-management geometry of coral instead of its appearance.",
+   "links": {
+    "site": "https://www.wangpraseurt.com/"
+   },
+   "role_zh": "海洋生物学与生物光学研究者，加州大学圣迭戈分校与剑桥大学",
+   "based_zh": "美国圣迭戈",
+   "bio_zh": "Daniel Wangpraseurt 打印受珊瑚启发的水凝胶结构，其光学特性像活珊瑚组织一样散射光线，并用它培养高密度藻类。",
+   "why_zh": "他复制的是珊瑚管理光线的几何，而不是它的外观。",
+   "connected_to": [
+    "reef-design-lab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "reef-design-lab",
+   "name": "Reef Design Lab",
+   "kind": "studio",
+   "role": "Design studio for artificial reefs and marine infrastructure, founded by Alex Goad",
+   "based": "Melbourne, Australia",
+   "bio": "Reef Design Lab designs and casts modular reef structures from 3D-printed moulds, including MARS, an interlocking ceramic and concrete system installed in the Maldives and Australia.",
+   "why": "Industrial design methods aimed at habitat for other species rather than products for people.",
+   "links": {
+    "site": "https://reefdesignlab.com/",
+    "instagram": "https://www.instagram.com/reefdesignlab/"
+   },
+   "role_zh": "人工礁与海洋基础设施设计工作室，由 Alex Goad 创立",
+   "based_zh": "澳大利亚墨尔本",
+   "bio_zh": "Reef Design Lab 用 3D 打印模具浇注模块化礁体，包括在马尔代夫和澳大利亚安装的互锁陶瓷与混凝土系统 MARS。",
+   "why_zh": "这是把工业设计方法用在为其他物种造栖息地，而不是为人做产品。",
+   "connected_to": [
+    "rrreefs",
+    "daniel-wangpraseurt"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rrreefs",
+   "name": "rrreefs",
+   "kind": "company",
+   "role": "Non-profit reef restoration venture, founded 2020",
+   "based": "Zurich, Switzerland",
+   "bio": "rrreefs 3D prints interlocking clay bricks that are assembled underwater into reef walls, first installed off San Andrés, Colombia.",
+   "why": "A reef made of fired clay bricks that divers can assemble by hand, designed for repair rather than spectacle.",
+   "links": {
+    "site": "https://rrreefs.com/",
+    "instagram": "https://www.instagram.com/rrreefs/"
+   },
+   "role_zh": "非营利珊瑚礁修复机构，2020 年成立",
+   "based_zh": "瑞士苏黎世",
+   "bio_zh": "rrreefs 用 3D 打印互锁陶土砖，在水下拼成礁墙，首个项目位于哥伦比亚圣安德烈斯岛外海。",
+   "why_zh": "用潜水员可手工拼装的陶土砖造礁，为修复而设计，不为奇观。",
+   "connected_to": [
+    "reef-design-lab"
+   ],
+   "discovered_via": "reef-design-lab"
+  },
+  {
+   "id": "kunal-masania",
+   "name": "Kunal Masania",
+   "kind": "person",
+   "role": "Associate Professor of Aerospace Structures and Materials, TU Delft; Shaping Matter Lab",
+   "based": "Delft, Netherlands",
+   "bio": "Kunal Masania designs printable material systems that grow, including hydrogel structures seeded with cyanobacteria that mineralise carbon while they photosynthesise.",
+   "why": "He designs printed materials whose function appears only after they are alive.",
+   "links": {
+    "site": "https://www.shapingmatterlab.org/"
+   },
+   "role_zh": "代尔夫特理工大学航空结构与材料副教授，Shaping Matter Lab",
+   "based_zh": "荷兰代尔夫特",
+   "bio_zh": "Kunal Masania 设计会生长的可打印材料体系，包括接种蓝细菌、在光合作用同时矿化碳的水凝胶结构。",
+   "why_zh": "他设计的打印材料，功能只在它活起来之后才出现。",
+   "connected_to": [
+    "andre-studart",
+    "andrea-shin-ling"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andrea-shin-ling",
+   "name": "Andrea Shin Ling",
+   "kind": "person",
+   "role": "Architect and biodesigner; lead of Living Room Collective, Canada Pavilion, Venice 2025",
+   "based": "Zurich, Switzerland / Toronto, Canada",
+   "bio": "Andrea Shin Ling works between architecture and biofabrication, from Design by Decay (fabricating with fungal and bacterial decomposition) to Picoplanktonics, a pavilion of printed cyanobacteria structures that must be watered and fed.",
+   "why": "She treats a building as a culture that curators have to keep alive.",
+   "links": {
+    "site": "https://www.andrealing.com/",
+    "instagram": "https://www.instagram.com/lingandrea/"
+   },
+   "role_zh": "建筑师与生物设计师，2025 年威尼斯双年展加拿大馆 Living Room Collective 主创",
+   "based_zh": "瑞士苏黎世／加拿大多伦多",
+   "bio_zh": "Andrea Shin Ling 在建筑与生物制造之间工作，从以真菌与细菌分解为手段的 Design by Decay，到需要浇水投食的蓝细菌打印结构展馆 Picoplanktonics。",
+   "why_zh": "她把建筑当作一份需要策展团队每天维持存活的培养物。",
+   "connected_to": [
+    "kunal-masania",
+    "andre-studart"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chao-zhong",
+   "name": "Chao Zhong",
+   "kind": "person",
+   "role": "Professor, School of Life Sciences and Technology, ShanghaiTech University",
+   "based": "Shanghai, China",
+   "bio": "Chao Zhong engineers bacterial biofilms as programmable living materials, with printable Bacillus subtilis strains whose secreted matrix carries designed protein functions.",
+   "why": "He makes the bacterial biofilm itself the printable material, not a passive gel containing bacteria.",
+   "links": {
+    "site": "https://slst.shanghaitech.edu.cn/"
+   },
+   "role_zh": "上海科技大学生命科学与技术学院教授",
+   "based_zh": "中国上海",
+   "bio_zh": "Chao Zhong 把细菌生物膜改造成可编程的活体材料，可打印的枯草芽孢杆菌分泌出带有设定蛋白功能的基质。",
+   "why_zh": "他让细菌生物膜本身成为可打印材料，而不是装着细菌的被动凝胶。",
+   "connected_to": [
+    "andre-studart"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aleksi-vesaluoma",
+   "name": "Aleksi Vesaluoma",
+   "kind": "person",
+   "role": "Designer and researcher, mycelium structures",
+   "based": "London, UK",
+   "bio": "Aleksi Vesaluoma grew Grown Structures at Brunel University, coaxing mycelium through cardboard tubes wrapped by hand into tree-like frames that become rigid as the fungus digests the substrate.",
+   "why": "A structural system whose formwork is the food supply.",
+   "links": {
+    "instagram": "https://www.instagram.com/aleksivesaluoma/"
+   },
+   "role_zh": "设计师与研究者，专注菌丝体结构",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Aleksi Vesaluoma 在布鲁内尔大学做了 Grown Structures：把菌丝体引入手工缠绕成树状框架的纸管，真菌消化基质后结构变硬。",
+   "why_zh": "一个把模板本身当作养料的结构系统。",
+   "connected_to": [
+    "blast-studio"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julian-melchiorri",
+   "name": "Julian Melchiorri",
+   "kind": "person",
+   "role": "Designer and engineer, founder of Arborea",
+   "based": "London, UK",
+   "bio": "Julian Melchiorri embeds chloroplasts and microalgae in silk protein and glass, from the Silk Leaf prototype to Exhale, a chandelier of 70 bioreactor leaves shown at the V&A.",
+   "why": "He designs objects whose function is photosynthesis, placed in rooms rather than fields.",
+   "links": {
+    "site": "https://www.julianmelchiorri.com/",
+    "instagram": "https://www.instagram.com/julianmelchiorri/"
+   },
+   "role_zh": "设计师与工程师，Arborea 创始人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Julian Melchiorri 把叶绿体和微藻封入丝蛋白与玻璃中，从 Silk Leaf 原型到在 V&A 展出的 70 片生物反应器叶片吊灯 Exhale。",
+   "why_zh": "他设计的物件功能是光合作用，而它们被放进房间而不是田野。",
+   "connected_to": [
+    "ecologicstudio"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "light-bio",
+   "name": "Light Bio",
+   "kind": "company",
+   "role": "Synthetic biology company selling bioluminescent plants, founded 2019",
+   "based": "Ketchum, Idaho, US",
+   "bio": "Light Bio developed the Firefly Petunia, a petunia carrying a fungal bioluminescence pathway that glows continuously, and sold it to US households from 2024.",
+   "why": "The first genetically engineered ornamental organism sold as a consumer product for its beauty alone.",
+   "links": {
+    "site": "https://light.bio/",
+    "instagram": "https://www.instagram.com/light.bio/"
+   },
+   "role_zh": "销售生物发光植物的合成生物学公司，2019 年成立",
+   "based_zh": "美国爱达荷州凯彻姆",
+   "bio_zh": "Light Bio 开发了 Firefly Petunia：携带真菌发光通路、可持续发光的矮牵牛，2024 年起在美国面向家庭销售。",
+   "why_zh": "这是第一种纯粹因为好看而作为消费品出售的基因工程观赏生物。",
+   "connected_to": [
+    "karen-sarkisyan",
+    "glowing-plant"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "karen-sarkisyan",
+   "name": "Karen Sarkisyan",
+   "kind": "person",
+   "role": "Group leader, Imperial College London and Institute for Bioengineering of Catalonia; co-founder of Light Bio",
+   "based": "London, UK",
+   "bio": "Karen Sarkisyan's group transferred the four-gene bioluminescence pathway of the mushroom Neonothopanus nambi into plants, producing tobacco and petunias that glow visibly without added chemicals.",
+   "why": "He supplied the genetics behind glowing plants, the most widely recognised synthetic-biology design object.",
+   "links": {
+    "site": "https://www.sarkisyanlab.org/",
+    "scholar": "https://scholar.google.com/citations?user=Zz7UdoQAAAAJ"
+   },
+   "role_zh": "帝国理工学院与加泰罗尼亚生物工程研究所课题组负责人，Light Bio 联合创始人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Karen Sarkisyan 的团队把发光蘑菇 Neonothopanus nambi 的四基因发光通路转入植物，使烟草和矮牵牛在不添加化学物质的情况下可见发光。",
+   "why_zh": "他提供了发光植物背后的遗传学，而发光植物是最广为人知的合成生物学设计物。",
+   "connected_to": [
+    "light-bio"
+   ],
+   "discovered_via": "light-bio"
+  },
+  {
+   "id": "glowing-plant",
+   "name": "Glowing Plant (Taxa Biotechnologies)",
+   "kind": "company",
+   "role": "Crowdfunded synthetic biology startup by Antony Evans, Kyle Taylor and Omri Amirav-Drory, 2013",
+   "based": "San Francisco, US",
+   "bio": "Glowing Plant raised over $480,000 on Kickstarter in 2013 to send engineered luminescent Arabidopsis seeds to backers; the plants never glowed brightly and the company pivoted to a scented moss before closing.",
+   "why": "The project that made synthetic biology a consumer proposition, and the clearest case study in how that promise fails.",
+   "links": {
+    "site": "https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit"
+   },
+   "role_zh": "由 Antony Evans、Kyle Taylor 与 Omri Amirav-Drory 于 2013 年发起的众筹合成生物学初创公司",
+   "based_zh": "美国旧金山",
+   "bio_zh": "Glowing Plant 在 2013 年 Kickstarter 上筹得超过 48 万美元，承诺把工程发光拟南芥种子寄给支持者；植物始终不够亮，公司转向香味苔藓后关闭。",
+   "why_zh": "它把合成生物学变成消费提案，也最清楚地展示了这种承诺如何落空。",
+   "connected_to": [
+    "light-bio",
+    "the-odin"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "the-odin",
+   "name": "The ODIN",
+   "kind": "company",
+   "role": "DIY genetic engineering kit company founded by Josiah Zayner, 2016",
+   "based": "Oakland, US",
+   "bio": "The ODIN sells mail-order kits for bacterial genetic engineering, including a CRISPR kit, along with lab equipment cheap enough for kitchen use.",
+   "why": "It turned gene editing into a $160 shelf product and forced the question of who gets to design organisms.",
+   "links": {
+    "site": "https://www.the-odin.com/"
+   },
+   "role_zh": "由 Josiah Zayner 于 2016 年创立的 DIY 基因工程套件公司",
+   "based_zh": "美国奥克兰",
+   "bio_zh": "The ODIN 邮购销售细菌基因工程套件（包括 CRISPR 套件），以及便宜到能放在厨房里的实验设备。",
+   "why_zh": "它把基因编辑变成 160 美元的货架商品，也把「谁有资格设计生物」这个问题摆上桌面。",
+   "connected_to": [
+    "amino-labs",
+    "genspace"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amino-labs",
+   "name": "Amino Labs",
+   "kind": "company",
+   "role": "Educational genetic engineering hardware company, founded 2015 by Julie Legault and Justin Pahara",
+   "based": "Edmonton, Canada",
+   "bio": "Amino Labs designs desktop biolab appliances and kits with a product-design sensibility, letting beginners engineer pigment-producing bacteria in a few days.",
+   "why": "Interaction and product design applied to a wet lab, so genetic engineering becomes a kit with instructions.",
+   "links": {
+    "site": "https://amino.bio/",
+    "youtube": "https://www.youtube.com/@AminoLabs"
+   },
+   "role_zh": "教育用基因工程硬件公司，由 Julie Legault 与 Justin Pahara 于 2015 年创立",
+   "based_zh": "加拿大埃德蒙顿",
+   "bio_zh": "Amino Labs 用产品设计的方式做桌面生物实验室器具和套件，让初学者几天内改造出产色素的细菌。",
+   "why_zh": "把交互与产品设计用在湿实验室上，基因工程于是变成一套带说明书的工具包。",
+   "connected_to": [
+    "the-odin",
+    "bento-lab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bento-lab",
+   "name": "Bento Lab",
+   "kind": "company",
+   "role": "Portable DNA laboratory company founded by Bethan Wolfenden and Philipp Boeing, 2015",
+   "based": "London, UK",
+   "bio": "Bento Lab packs a centrifuge, PCR thermocycler and gel imager into a laptop-sized case, designed for fieldwork, classrooms and community labs.",
+   "why": "An industrial-design answer to DNA work: the lab becomes something you carry.",
+   "links": {
+    "site": "https://bento.bio/"
+   },
+   "role_zh": "便携 DNA 实验室公司，由 Bethan Wolfenden 与 Philipp Boeing 于 2015 年创立",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Bento Lab 把离心机、PCR 仪和凝胶成像仪装进笔记本大小的箱子，面向田野工作、课堂和社区实验室。",
+   "why_zh": "这是对 DNA 工作的工业设计回答：实验室变成一件可以带走的东西。",
+   "connected_to": [
+    "amino-labs",
+    "helene-steiner"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "genspace",
+   "name": "Genspace",
+   "kind": "lab",
+   "role": "Community biology laboratory, founded 2009",
+   "based": "Brooklyn, New York, US",
+   "bio": "Genspace was the first community biolab open to the public, founded by Ellen Jorgensen and others, and hosts artists, designers and amateurs doing biotechnology projects.",
+   "why": "The infrastructure that let designers and artists work with living systems without a university appointment.",
+   "links": {
+    "site": "https://www.genspace.org/"
+   },
+   "role_zh": "社区生物实验室，2009 年成立",
+   "based_zh": "美国纽约布鲁克林",
+   "bio_zh": "Genspace 是第一家向公众开放的社区生物实验室，由 Ellen Jorgensen 等人创立，接纳艺术家、设计师和业余爱好者做生物技术项目。",
+   "why_zh": "它是让设计师和艺术家无需大学身份也能与生命系统工作的基础设施。",
+   "connected_to": [
+    "the-odin",
+    "heather-dewey-hagborg"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "biorealize",
+   "name": "Biorealize",
+   "kind": "company",
+   "role": "Biodesign hardware company founded by Orkan Telhan and Karen Hogan, 2015",
+   "based": "Philadelphia, US",
+   "bio": "Biorealize built the Microbial Design Studio, a desktop appliance that automates culturing, testing and harvesting microbes so designers can run biological experiments like a print queue.",
+   "why": "It designs the tool, not the organism: a bioreactor shaped for design studios.",
+   "links": {
+    "site": "https://www.biorealize.com/"
+   },
+   "role_zh": "生物设计硬件公司，由 Orkan Telhan 与 Karen Hogan 于 2015 年创立",
+   "based_zh": "美国费城",
+   "bio_zh": "Biorealize 开发了 Microbial Design Studio：一台自动完成培养、测试和收获微生物的桌面设备，让设计师像排打印任务一样做生物实验。",
+   "why_zh": "它设计的是工具而不是生物：一台为设计工作室而造的生物反应器。",
+   "connected_to": [
+    "orkan-telhan",
+    "mit-design-lab"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "orkan-telhan",
+   "name": "Orkan Telhan",
+   "kind": "person",
+   "role": "Artist and designer; Chief Information and Data Officer at Ecovative; formerly Associate Professor, University of Pennsylvania",
+   "based": "New York, US",
+   "bio": "Orkan Telhan makes speculative and functional biodesign, from the Microbial Design Studio hardware to installations about engineered bodies, food and urban microbiomes.",
+   "why": "He works on both sides of synthetic biology design: the instruments and the arguments.",
+   "links": {
+    "site": "https://www.orkantelhan.com/"
+   },
+   "role_zh": "艺术家与设计师，Ecovative 首席信息与数据官，曾任宾夕法尼亚大学副教授",
+   "based_zh": "美国纽约",
+   "bio_zh": "Orkan Telhan 做思辨与实用兼具的生物设计，从 Microbial Design Studio 硬件到关于工程化身体、食物与城市微生物群的装置。",
+   "why_zh": "他同时在合成生物学设计的两侧工作：仪器与论证。",
+   "connected_to": [
+    "biorealize",
+    "ecovative"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ginkgo-bioworks",
+   "name": "Ginkgo Bioworks",
+   "kind": "company",
+   "role": "Organism design company, founded 2008",
+   "based": "Boston, US",
+   "bio": "Ginkgo Bioworks runs automated foundries that engineer microbes for industry, and from 2014 ran a Creative Residency and design-led collaborations that produced scents, pigments and consumer objects.",
+   "why": "The largest industrial organism designer, and one of the few that hired artists and designers to ask what it is for.",
+   "links": {
+    "site": "https://www.ginkgobioworks.com/"
+   },
+   "role_zh": "生物体设计公司，2008 年成立",
+   "based_zh": "美国波士顿",
+   "bio_zh": "Ginkgo Bioworks 运行自动化「铸造厂」为工业改造微生物，并从 2014 年起设立创意驻留和设计合作，产出香气、色素与消费物件。",
+   "why_zh": "它是最大的工业生物体设计者，也是少数雇艺术家和设计师来追问「这是为了什么」的公司。",
+   "connected_to": [
+    "natsai-audrey-chieza",
+    "christina-agapakis",
+    "alexandra-daisy-ginsberg"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "living-ink",
+   "name": "Living Ink Technologies",
+   "kind": "company",
+   "role": "Algae-based pigment company founded by Scott Fulbright and Steve Albers, 2013",
+   "based": "Berthoud, Colorado, US",
+   "bio": "Living Ink began with a kit for drawing with living algae and now makes Algae Ink, a black pigment from algae biomass that replaces petroleum carbon black in printing.",
+   "why": "It moved from a novelty of drawing with living cells to replacing a commodity pigment.",
+   "links": {
+    "site": "https://www.livingink.co/"
+   },
+   "role_zh": "藻类色素公司，由 Scott Fulbright 与 Steve Albers 于 2013 年创立",
+   "based_zh": "美国科罗拉多州伯索德",
+   "bio_zh": "Living Ink 起初推出用活藻作画的套件，如今生产 Algae Ink：以藻类生物质制成的黑色颜料，替代印刷用石油炭黑。",
+   "why_zh": "它从「用活细胞画画」的新奇，走到替代一种大宗颜料。",
+   "connected_to": [
+    "pili",
+    "huue"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "huue",
+   "name": "Huue",
+   "kind": "company",
+   "role": "Biotechnology dye company founded by Tammy Hsu and Michelle Zhu, 2019",
+   "based": "Berkeley, US",
+   "bio": "Huue engineers bacteria to make indigo through an enzymatic route, avoiding the cyanide and formaldehyde used in synthetic indigo for denim.",
+   "why": "A single colour redesigned at the level of its synthesis pathway.",
+   "links": {
+    "site": "https://www.huue.bio/"
+   },
+   "role_zh": "生物技术染料公司，由 Tammy Hsu 与 Michelle Zhu 于 2019 年创立",
+   "based_zh": "美国伯克利",
+   "bio_zh": "Huue 改造细菌通过酶途径合成靛蓝，避开合成靛蓝制造中使用的氰化物与甲醛。",
+   "why_zh": "一种颜色在合成通路层面被重新设计。",
+   "connected_to": [
+    "colorifix",
+    "pili",
+    "living-ink"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pili",
+   "name": "Pili",
+   "kind": "company",
+   "role": "Bio-based colour company founded by Thomas Landrain, Jérémie Blache and Guillaume Boissonnat, 2015",
+   "based": "Toulouse, France",
+   "bio": "Pili started in the Paris community lab La Paillasse as a project to grow ink from bacteria, and now produces bio-based dyes and pigments for textiles and inks at industrial scale.",
+   "why": "A community-lab experiment in growing colour that became a chemical manufacturer.",
+   "links": {
+    "site": "https://www.pili.bio/"
+   },
+   "role_zh": "生物基色彩公司，由 Thomas Landrain、Jérémie Blache 与 Guillaume Boissonnat 于 2015 年创立",
+   "based_zh": "法国图卢兹",
+   "bio_zh": "Pili 起源于巴黎社区实验室 La Paillasse 的「用细菌生长墨水」项目，现在为纺织与油墨工业规模生产生物基染料和颜料。",
+   "why_zh": "一个社区实验室里的「生长颜色」实验，长成了化学制造商。",
+   "connected_to": [
+    "living-ink",
+    "huue",
+    "colorifix"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amsilk",
+   "name": "AMSilk",
+   "kind": "company",
+   "role": "Biotech silk protein manufacturer, founded 2008 as a spin-off of TU Munich",
+   "based": "Planegg, Germany",
+   "bio": "AMSilk ferments spider-silk-like proteins into Biosteel fibre and silk protein coatings; adidas used its fibre for the Futurecraft Biofabric shoe prototype in 2016.",
+   "why": "The first engineered silk protein used in a named mass-market product prototype.",
+   "links": {
+    "site": "https://www.amsilk.com/"
+   },
+   "role_zh": "生物技术丝蛋白制造商，2008 年由慕尼黑工业大学衍生成立",
+   "based_zh": "德国普拉内格",
+   "bio_zh": "AMSilk 用发酵生产类蜘蛛丝蛋白，制成 Biosteel 纤维与丝蛋白涂层；adidas 在 2016 年用它的纤维做了 Futurecraft Biofabric 鞋原型。",
+   "why_zh": "这是第一种被用在有名字的大众市场产品原型里的工程丝蛋白。",
+   "connected_to": [
+    "bolt-threads",
+    "spiber"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bcl",
+   "name": "BCL (Georg Tremmel & Shiho Fukuhara)",
+   "kind": "studio",
+   "role": "Artistic research framework on biotechnology and society, founded 2004",
+   "based": "Tokyo, Japan / Vienna, Austria",
+   "bio": "Georg Tremmel and Shiho Fukuhara work on the legal and cultural edges of genetic modification, from storing human DNA in tree genomes to reverse-engineering a commercial blue rose and releasing it as a common.",
+   "why": "They treat intellectual property and regulation as the real material of genetic design.",
+   "links": {
+    "site": "https://bcl.io/"
+   },
+   "role_zh": "关于生物技术与社会的艺术研究组合，2004 年成立",
+   "based_zh": "日本东京／奥地利维也纳",
+   "bio_zh": "Georg Tremmel 与 Shiho Fukuhara 在基因改造的法律与文化边界上工作，从把人类 DNA 存入树木基因组，到逆向解析商业蓝色花卉并将其作为公共物释放。",
+   "why_zh": "他们把知识产权和监管当作基因设计真正的材料。",
+   "connected_to": [
+    "joe-davis",
+    "eduardo-kac"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "agi-haines",
+   "name": "Agi Haines",
+   "kind": "person",
+   "role": "Artist and designer; researcher at Design Informatics, University of Edinburgh",
+   "based": "Edinburgh, UK",
+   "bio": "Agi Haines designs speculative modifications to the human body — reshaped infant skulls, printed organs made of repurposed tissue — and builds hyper-real silicone models of them.",
+   "why": "She designs the body as a product, then makes the prototype convincing enough to argue with.",
+   "links": {
+    "site": "https://www.agihaines.com/",
+    "instagram": "https://www.instagram.com/agihaines/"
+   },
+   "role_zh": "艺术家与设计师，爱丁堡大学 Design Informatics 研究员",
+   "based_zh": "英国爱丁堡",
+   "bio_zh": "Agi Haines 设计对人体的思辨改造——被重塑的婴儿头骨、用重组组织做成的打印器官——并制作高度写实的硅胶模型。",
+   "why_zh": "她把身体当产品来设计，再把原型做到足以让人争论的逼真程度。",
+   "connected_to": [
+    "cohen-van-balen",
+    "ai-hasegawa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "burton-nitta",
+   "name": "Burton Nitta (Michael Burton & Michiko Nitta)",
+   "kind": "studio",
+   "role": "Artist-designer duo working on future bodies, food and ecology",
+   "based": "London, UK",
+   "bio": "Michael Burton and Michiko Nitta design bodily futures shaped by biotechnology, including Algaculture, a symbiotic suit that lets a person feed on algae grown in their own breath and light.",
+   "why": "They design the human body's metabolism, not the products around it.",
+   "links": {
+    "site": "https://www.burtonnitta.co.uk/",
+    "instagram": "https://www.instagram.com/burtonnitta/"
+   },
+   "role_zh": "关注未来身体、食物与生态的艺术设计二人组",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Michael Burton 与 Michiko Nitta 设计被生物技术塑造的身体未来，包括 Algaculture：一件让人以自己呼吸与光照培养的藻类为食的共生服装。",
+   "why_zh": "他们设计的是人体的代谢，而不是围绕身体的产品。",
+   "connected_to": [
+    "agi-haines",
+    "ai-hasegawa"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dunne-raby",
+   "name": "Dunne & Raby (Anthony Dunne & Fiona Raby)",
+   "kind": "studio",
+   "role": "Critical and speculative design practice; professors at The New School, New York",
+   "based": "New York, US",
+   "bio": "Anthony Dunne and Fiona Raby established critical design as a practice, using designed objects and scenarios — including biotechnological ones — to argue about possible futures.",
+   "why": "Their Foragers scenario is the reference point for speculative design that uses synthetic biology as a premise.",
+   "links": {
+    "site": "https://dunneandraby.co.uk/"
+   },
+   "role_zh": "批判与思辨设计实践者，纽约 The New School 教授",
+   "based_zh": "美国纽约",
+   "bio_zh": "Anthony Dunne 与 Fiona Raby 确立了批判设计这一实践，用设计物件与情境——包括生物技术的情境——来讨论可能的未来。",
+   "why_zh": "他们的 Foragers 情境是「以合成生物学为前提的思辨设计」的参照点。",
+   "connected_to": [
+    "superflux",
+    "alexandra-daisy-ginsberg"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gina-czarnecki",
+   "name": "Gina Czarnecki",
+   "kind": "person",
+   "role": "Artist working with biological material and audience participation",
+   "based": "Liverpool, UK",
+   "bio": "Gina Czarnecki makes works with donated human material, including Palaces, a crystal sculpture grown with children's milk teeth, and Heirloom, live portraits of her daughters grown from their own skin cells on glass.",
+   "why": "She asks what it means to own, donate and display a portrait that is literally alive.",
+   "links": {
+    "site": "https://ginaczarnecki.com/"
+   },
+   "role_zh": "以生物材料与观众参与创作的艺术家",
+   "based_zh": "英国利物浦",
+   "bio_zh": "Gina Czarnecki 用捐赠的人体材料创作，包括用儿童乳牙生长的水晶雕塑 Palaces，以及用女儿自身皮肤细胞在玻璃上培养的活体肖像 Heirloom。",
+   "why_zh": "她追问：拥有、捐赠和展示一幅字面意义上活着的肖像意味着什么。",
+   "connected_to": [
+    "oron-catts",
+    "charlotte-jarvis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "amy-congdon",
+   "name": "Amy Congdon",
+   "kind": "person",
+   "role": "Designer and design researcher; Head of Design at Modern Synthesis",
+   "based": "London, UK",
+   "bio": "Amy Congdon's Biological Atelier and Tissue Engineered Textiles seeded cells onto embroidered scaffolds, developing a craft practice for growing rather than cutting material.",
+   "why": "She built the studio methods — scaffolds, stitching, sample books — that tissue-engineered fashion needs.",
+   "links": {
+    "site": "https://www.amycongdon.com/"
+   },
+   "role_zh": "设计师与设计研究者，Modern Synthesis 设计负责人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Amy Congdon 的 Biological Atelier 与 Tissue Engineered Textiles 把细胞播种到刺绣支架上，发展出一套「生长」而非「裁剪」材料的手工实践。",
+   "why_zh": "她建立了组织工程时尚所需的工作室方法：支架、缝制、样本册。",
+   "connected_to": [
+    "suzanne-lee",
+    "modern-synthesis",
+    "carole-collet"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "center-for-genomic-gastronomy",
+   "name": "Center for Genomic Gastronomy (Zack Denfeld & Cathrine Kramer)",
+   "kind": "studio",
+   "role": "Artist-led think tank on the biotechnologies and biodiversity of human food systems, founded 2010",
+   "based": "Bengaluru, India / Europe",
+   "bio": "Zack Denfeld and Cathrine Kramer research and stage food experiments about genetically modified organisms, pollution and agricultural biotech, including cooking shows made with fluorescent GM fish.",
+   "why": "They put synthetic biology on a plate, where people already have opinions.",
+   "links": {
+    "site": "https://genomicgastronomy.com/"
+   },
+   "role_zh": "关注人类食物系统的生物技术与生物多样性的艺术家智库，2010 年成立",
+   "based_zh": "印度班加罗尔／欧洲",
+   "bio_zh": "Zack Denfeld 与 Cathrine Kramer 研究并上演关于转基因生物、污染和农业生物技术的食物实验，包括用荧光转基因鱼做的烹饪节目。",
+   "why_zh": "他们把合成生物学端上餐盘——人们对餐盘本来就有意见。",
+   "connected_to": [
+    "orkan-telhan",
+    "yorktown-technologies"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "modern-synthesis",
+   "name": "Modern Synthesis",
+   "kind": "company",
+   "role": "Biomaterial company founded by Jen Keane and Ben Reeve, 2020",
+   "based": "London, UK",
+   "bio": "Modern Synthesis grows nanocellulose on textile scaffolds using Komagataeibacter bacteria, producing a leather alternative whose structure is set by the scaffold it is grown on.",
+   "why": "It industrialised microbial weaving: the pattern is designed first, then the bacteria fill it in.",
+   "links": {
+    "site": "https://www.modernsynthesis.com/"
+   },
+   "role_zh": "生物材料公司，由 Jen Keane 与 Ben Reeve 于 2020 年创立",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Modern Synthesis 用 Komagataeibacter 细菌在纺织支架上生长纳米纤维素，做出结构由支架决定的皮革替代材料。",
+   "why_zh": "它把「微生物编织」工业化：先设计图案，再让细菌填满。",
+   "connected_to": [
+    "jen-keane",
+    "amy-congdon"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "post-carbon-lab",
+   "name": "Post Carbon Lab",
+   "kind": "studio",
+   "role": "Design and material research studio founded by Dian-Jen Lin and Hannes Hulstaert, 2018",
+   "based": "London, UK",
+   "bio": "Post Carbon Lab applies photosynthetic coatings of live algae and cyanobacteria to garments, so clothing sequesters carbon and releases oxygen while it is cared for like a plant.",
+   "why": "Clothes that need light and water, which rewrites what garment care means.",
+   "links": {
+    "site": "https://postcarbonlab.com/",
+    "instagram": "https://www.instagram.com/postcarbonlab/"
+   },
+   "role_zh": "设计与材料研究工作室，由 Dian-Jen Lin 与 Hannes Hulstaert 于 2018 年创立",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Post Carbon Lab 把活藻与蓝细菌的光合涂层做到服装上，衣服在像植物一样被照料的同时固碳并释放氧气。",
+   "why_zh": "需要光和水的衣服，重写了「衣物保养」的含义。",
+   "connected_to": [
+    "roya-aghighi",
+    "julian-melchiorri"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "impossible-foods",
+   "name": "Impossible Foods",
+   "kind": "company",
+   "role": "Food company founded by Patrick O. Brown, 2011",
+   "based": "Redwood City, US",
+   "bio": "Impossible Foods identified soy leghemoglobin as the molecule that makes meat taste like meat and produces it in engineered Pichia yeast for its plant-based burger.",
+   "why": "A mass-market food designed around one engineered protein, and the FDA fight to get it approved.",
+   "links": {
+    "site": "https://impossiblefoods.com/"
+   },
+   "role_zh": "食品公司，由 Patrick O. Brown 于 2011 年创立",
+   "based_zh": "美国红木城",
+   "bio_zh": "Impossible Foods 认定大豆血红蛋白是让肉有肉味的分子，并用工程化毕赤酵母生产它，用于植物基汉堡。",
+   "why_zh": "一款围绕单一工程蛋白设计的大众食品，以及为获批而与 FDA 的交涉。",
+   "connected_to": [
+    "novameat",
+    "ginkgo-bioworks"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yorktown-technologies",
+   "name": "Yorktown Technologies (GloFish)",
+   "kind": "company",
+   "role": "Company that commercialised fluorescent transgenic aquarium fish, founded 2001",
+   "based": "Austin, US",
+   "bio": "Yorktown Technologies licensed fluorescent zebrafish developed as pollution sensors in Singapore and sold them as GloFish from 2003, the first genetically modified pet.",
+   "why": "The first transgenic animal sold as a household object, decades before glowing plants.",
+   "links": {
+    "site": "https://www.glofish.com/"
+   },
+   "role_zh": "将荧光转基因观赏鱼商业化的公司，2001 年成立",
+   "based_zh": "美国奥斯汀",
+   "bio_zh": "Yorktown Technologies 取得新加坡为污染检测开发的荧光斑马鱼授权，从 2003 年以 GloFish 出售，成为第一种转基因宠物。",
+   "why_zh": "这是第一种作为家居物件出售的转基因动物，比发光植物早了几十年。",
+   "connected_to": [
+    "center-for-genomic-gastronomy",
+    "eduardo-kac"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "elise-elsacker",
+   "name": "Elise Elsacker",
+   "kind": "person",
+   "role": "Bio-architect and researcher, Vrije Universiteit Brussel and Newcastle University",
+   "based": "Brussels, Belgium",
+   "bio": "Elise Elsacker studies fungal and bacterial biofabrication for architecture, characterising mycelium composites, bacterial cellulose reinforcement and self-healing living materials.",
+   "why": "She supplies the material data that keeps grown architecture from being wishful.",
+   "links": {
+    "scholar": "https://scholar.google.com/citations?user=_DlBbT0AAAAJ"
+   },
+   "role_zh": "生物建筑研究者，布鲁塞尔自由大学与纽卡斯尔大学",
+   "based_zh": "比利时布鲁塞尔",
+   "bio_zh": "Elise Elsacker 研究用于建筑的真菌与细菌生物制造，表征菌丝体复合材料、细菌纤维素增强以及自修复活体材料。",
+   "why_zh": "她提供的材料数据，让「生长出来的建筑」不停留在愿望层面。",
+   "connected_to": [
+    "maurizio-montalti",
+    "andrea-shin-ling"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "perfect-day",
+   "name": "Perfect Day",
+   "kind": "company",
+   "role": "Precision fermentation dairy company founded by Ryan Pandya and Perumal Gandhi, 2014",
+   "based": "Berkeley, US",
+   "bio": "Perfect Day makes cow-identical whey protein by fermenting engineered fungi, and licenses it to brands that sell ice cream, milk and protein powder made without animals.",
+   "why": "It shows a synthetic-biology ingredient entering everyday food as an invisible substitution.",
+   "links": {
+    "site": "https://perfectday.com/"
+   },
+   "role_zh": "精密发酵乳品公司，由 Ryan Pandya 与 Perumal Gandhi 于 2014 年创立",
+   "based_zh": "美国伯克利",
+   "bio_zh": "Perfect Day 用发酵工程真菌生产与牛奶相同的乳清蛋白，并授权给品牌制作不含动物成分的冰淇淋、牛奶和蛋白粉。",
+   "why_zh": "它展示了一种合成生物学原料如何以看不见的替换方式进入日常食品。",
+   "connected_to": [
+    "impossible-foods",
+    "ginkgo-bioworks"
+   ],
+   "discovered_via": "impossible-foods"
+  }
+ ],
+ "works": [
+  {
+   "id": "thomas-boland--cell-and-organ-printing",
+   "creator_ids": [
+    "thomas-boland"
+   ],
+   "title": "Cell and Organ Printing 1: Protein and Cell Printers",
+   "year": 2003,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A modified Hewlett-Packard inkjet printer deposits protein and living cell suspensions in patterns, and the cells survive the printing process.",
+   "description_zh": "一台改装的惠普喷墨打印机把蛋白质和活细胞悬液按图案喷出，而细胞在打印过程中存活下来。",
+   "idea_en": "An office printer, with the ink swapped for cells, is enough to start printing tissue.",
+   "idea_zh": "把墨水换成细胞，一台办公打印机就足以开始打印组织。",
+   "method": "Commercial thermal inkjet cartridges were emptied and refilled with protein solutions and cell suspensions, which were printed onto gel substrates and then cultured.",
+   "method_zh": "把商用热喷墨墨盒清空后装入蛋白溶液和细胞悬液，打印到凝胶基底上再培养。",
+   "keywords": [
+    "inkjet bioprinting",
+    "Clemson University",
+    "cell viability",
+    "tissue engineering"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/ar.a.10057",
+    "doi": "10.1002/ar.a.10057",
+    "venue": "The Anatomical Record Part A",
+    "title": "Cell and organ printing 1: Protein and cell printers"
+   },
+   "source_url": "https://doi.org/10.1002/ar.a.10057"
+  },
+  {
+   "id": "anthony-atala--printed-kidney-prototype",
+   "creator_ids": [
+    "anthony-atala"
+   ],
+   "title": "Printing a Human Kidney (TED 2011)",
+   "year": 2011,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "prototype",
+   "description": "On stage at TED, Atala's team prints a kidney-shaped scaffold of cells layer by layer and he lifts the wet, finished prototype out of the printer.",
+   "description_zh": "在 TED 舞台上，Atala 的团队逐层打印出肾脏形状的细胞支架，他把湿润的成品原型从打印机中取出。",
+   "idea_en": "Showing an organ come out of a printer changed what the public believed was buildable.",
+   "idea_zh": "让一个器官从打印机里出来，改变了公众对「什么是可以被造出来的」的认知。",
+   "method": "A gantry bioprinter deposited layers of hydrogel and human kidney cells from a CT-derived model; the object shown was a prototype scaffold, not a transplantable kidney.",
+   "method_zh": "龙门式生物打印机依据 CT 模型逐层沉积水凝胶与人肾细胞；台上展示的是原型支架，并非可移植肾脏。",
+   "keywords": [
+    "TED 2011",
+    "Wake Forest Institute for Regenerative Medicine",
+    "organ printing",
+    "scaffold"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9RMx31GnNXY"
+   },
+   "source_url": "https://www.ted.com/talks/anthony_atala_printing_a_human_kidney"
+  },
+  {
+   "id": "anthony-atala--itop",
+   "creator_ids": [
+    "anthony-atala"
+   ],
+   "title": "Integrated Tissue and Organ Printing (ITOP)",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A printer that combines cell-laden hydrogel with a stiff biodegradable polymer lattice, producing human-scale ears, jaw bone and muscle that survive implantation in animals.",
+   "description_zh": "这台打印机把载细胞水凝胶与坚硬的可降解聚合物网格结合，做出人体尺度的耳朵、下颌骨和肌肉，并在动物体内存活。",
+   "idea_en": "Print the support structure and the cells at the same time, and size stops being the limit.",
+   "idea_zh": "把支撑结构和细胞同时打印，尺寸就不再是限制。",
+   "method": "Multiple nozzles print PCL polymer lattices, cell-laden hydrogels and sacrificial Pluronic F-127 in one build, with microchannels left open so nutrients reach the interior.",
+   "method_zh": "多喷头在一次构建中打印 PCL 聚合物网格、载细胞水凝胶和可牺牲的 Pluronic F-127，并留下微通道让养分进入内部。",
+   "keywords": [
+    "ITOP",
+    "human-scale tissue",
+    "polycaprolactone",
+    "microchannels"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnbt.3413/MediaObjects/41587_2016_Article_BFnbt3413_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/nbt.3413",
+    "doi": "10.1038/nbt.3413",
+    "venue": "Nature Biotechnology",
+    "title": "A 3D bioprinting system to produce human-scale tissue constructs with structural integrity"
+   },
+   "source_url": "https://www.nature.com/articles/nbt.3413"
+  },
+  {
+   "id": "jennifer-lewis--vascularized-tissue",
+   "creator_ids": [
+    "jennifer-lewis"
+   ],
+   "title": "3D Bioprinting of Vascularized, Heterogeneous Cell-Laden Tissue Constructs",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Several inks — cell-laden gels, an extracellular matrix and a fugitive ink that melts away — are printed together, leaving an open vascular network inside a block of living tissue.",
+   "description_zh": "把载细胞凝胶、细胞外基质和会融化消失的「逃逸墨水」一起打印，在活体组织块内部留下开放的血管网络。",
+   "idea_en": "Print the plumbing first as a sacrificial ink, then wash it out to leave channels.",
+   "idea_zh": "先用可牺牲墨水打印管路，再把它冲掉，留下通道。",
+   "method": "A custom multi-material printer extrudes Pluronic F-127 fugitive ink, GelMA and cell-laden inks; cooling liquefies the fugitive ink so it can be evacuated and the channels lined with endothelial cells.",
+   "method_zh": "定制多材料打印机挤出 Pluronic F-127 逃逸墨水、GelMA 和载细胞墨水；降温使逃逸墨水液化被抽出，通道内再铺上内皮细胞。",
+   "keywords": [
+    "fugitive ink",
+    "Pluronic F-127",
+    "vasculature",
+    "multi-material printing",
+    "Wyss Institute"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gzupnyzXdcs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1002/adma.201305506",
+    "doi": "10.1002/adma.201305506",
+    "venue": "Advanced Materials",
+    "title": "3D Bioprinting of Vascularized, Heterogeneous Cell-Laden Tissue Constructs"
+   },
+   "source_url": "https://lewisgroup.seas.harvard.edu/"
+  },
+  {
+   "id": "jennifer-lewis--swift",
+   "creator_ids": [
+    "jennifer-lewis"
+   ],
+   "title": "SWIFT: Sacrificial Writing Into Functional Tissue",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Instead of printing cells into a gel, a nozzle writes vascular channels directly inside a dense matrix of organ building blocks made of hundreds of thousands of organoids.",
+   "description_zh": "不再把细胞打印进凝胶，而是用喷头直接在由数十万个类器官组成的致密「器官构件」基质中写出血管通道。",
+   "idea_en": "Make the tissue the print bed, and print only the channels that keep it alive.",
+   "idea_zh": "把组织本身当作打印床，只打印维持它存活的通道。",
+   "method": "Compacted organoid slurry behaves as a self-healing support; a gelatin ink is written into it at low temperature, then melted out at 37 °C to leave perfusable channels.",
+   "method_zh": "压实的类器官浆料作为自愈支撑体，在低温下写入明胶墨水，再在 37 °C 融出可灌流通道。",
+   "keywords": [
+    "SWIFT",
+    "organ building blocks",
+    "embedded printing",
+    "perfusion"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1126/sciadv.aaw2459",
+    "doi": "10.1126/sciadv.aaw2459",
+    "venue": "Science Advances",
+    "title": "Biomanufacturing of organ-specific tissues with high cellular density and embedded vascular channels"
+   },
+   "source_url": "https://doi.org/10.1126/sciadv.aaw2459"
+  },
+  {
+   "id": "jennifer-lewis--biomimetic-4d-printing",
+   "creator_ids": [
+    "jennifer-lewis"
+   ],
+   "title": "Biomimetic 4D Printing",
+   "year": 2016,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Hydrogel composites printed with aligned cellulose fibrils swell anisotropically in water and fold into orchid- and flower-like forms predicted by the print path.",
+   "description_zh": "含定向纤维素纤维的水凝胶复合材料在水中各向异性膨胀，按打印路径折叠成兰花等花形。",
+   "idea_en": "Encode the final shape in the print path, and let water do the shaping.",
+   "idea_zh": "把最终形状编码在打印路径里，让水来完成成形。",
+   "method": "Cellulose fibrils in a hydrogel ink align with the nozzle direction, setting local swelling anisotropy; a mathematical model inverts a target surface into printing paths, following the hygroscopic movement of plant tissue.",
+   "method_zh": "水凝胶墨水中的纤维素纤维随喷头方向排列，决定局部膨胀的各向异性；数学模型把目标曲面反解为打印路径，原理取自植物组织的吸湿运动。",
+   "keywords": [
+    "4D printing",
+    "cellulose fibrils",
+    "anisotropic swelling",
+    "plant-inspired",
+    "Wyss Institute"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmat4544/MediaObjects/41563_2016_Article_BFnmat4544_Fig1_HTML.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-Bwane5xhbE"
+   },
+   "paper": {
+    "url": "https://www.nature.com/articles/nmat4544",
+    "doi": "10.1038/nmat4544",
+    "venue": "Nature Materials",
+    "title": "Biomimetic 4D printing"
+   },
+   "source_url": "https://www.nature.com/articles/nmat4544"
+  },
+  {
+   "id": "adam-feinberg--fresh",
+   "creator_ids": [
+    "adam-feinberg"
+   ],
+   "title": "FRESH: Freeform Reversible Embedding of Suspended Hydrogels",
+   "year": 2015,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Very soft biological inks are extruded inside a bath of gelatin microparticles that holds each filament in place until the print is finished and the bath is melted away.",
+   "description_zh": "把极软的生物墨水挤进明胶微粒支撑浴中，浴体在打印完成前固定每一根细丝，随后被融化去除。",
+   "idea_en": "Print soft material by printing inside something soft that lets go afterwards.",
+   "idea_zh": "想打印软材料，就在一种事后会放手的软介质里打印。",
+   "method": "A slurry of gelatin microparticles acts as a Bingham plastic support bath: the nozzle moves through it freely while extruded collagen, alginate or fibrin stays put; heating to 37 °C releases the object.",
+   "method_zh": "明胶微粒浆料作为宾汉塑性支撑浴：喷头可自由穿行，而挤出的胶原、海藻酸盐或纤维蛋白保持原位；升温至 37 °C 即释放物体。",
+   "keywords": [
+    "FRESH",
+    "support bath printing",
+    "collagen",
+    "open-source bioprinter"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SDV0thJFnpQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/sciadv.1500758",
+    "doi": "10.1126/sciadv.1500758",
+    "venue": "Science Advances",
+    "title": "Three-dimensional printing of complex biological structures by freeform reversible embedding of suspended hydrogels"
+   },
+   "source_url": "https://www.cmu.edu/bme/Feinberg-Lab/"
+  },
+  {
+   "id": "adam-feinberg--collagen-heart",
+   "creator_ids": [
+    "adam-feinberg"
+   ],
+   "title": "3D Bioprinting of Collagen to Rebuild Components of the Human Heart",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "FRESH printing at 20-micron resolution produces collagen heart valves, small vessels and a beating ventricle seeded with human stem-cell-derived heart muscle.",
+   "description_zh": "用 20 微米分辨率的 FRESH 打印做出胶原心脏瓣膜、细小血管，以及植入人源干细胞心肌、会跳动的心室。",
+   "idea_en": "Collagen — the body's own building material — can be printed at the resolution organs need.",
+   "idea_zh": "胶原这种身体自身的建筑材料，可以按器官所需的分辨率被打印出来。",
+   "method": "Acidified collagen is extruded into a buffered gelatin support bath where it neutralises and gels in place; printed ventricles seeded with human cardiomyocytes contract and pump.",
+   "method_zh": "酸化胶原被挤入带缓冲的明胶支撑浴，在其中中和并原位凝胶；植入人心肌细胞的打印心室会收缩并泵动。",
+   "keywords": [
+    "FRESH v2",
+    "collagen",
+    "heart valve",
+    "ventricle",
+    "Carnegie Mellon"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ivWJOVRA8CQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.aav9051",
+    "doi": "10.1126/science.aav9051",
+    "venue": "Science",
+    "title": "3D bioprinting of collagen to rebuild components of the human heart"
+   },
+   "source_url": "https://www.cmu.edu/bme/Feinberg-Lab/"
+  },
+  {
+   "id": "jordan-miller--multivascular-networks",
+   "creator_ids": [
+    "jordan-miller"
+   ],
+   "title": "Multivascular Networks and Functional Intravascular Topologies within Biocompatible Hydrogels",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Open-source stereolithography prints hydrogels containing entangled, separate vessel networks, including an air sac that oxygenates flowing red blood cells as it inflates and deflates.",
+   "description_zh": "开源光固化打印出含有相互缠绕、彼此独立血管网络的水凝胶，其中的「气囊」在充放气时为流经的红细胞供氧。",
+   "idea_en": "Two separate circulations can be woven into one printed block, like lung and blood.",
+   "idea_zh": "两套独立的循环可以被编织进同一个打印块中，就像肺与血液。",
+   "method": "Food-dye photoabsorbers let projection stereolithography cure thin layers of PEGDA hydrogel with sharp z-resolution; the printer, resins and design files were released openly.",
+   "method_zh": "用食用色素作为光吸收剂，使投影光固化能以清晰的 z 向分辨率固化 PEGDA 水凝胶薄层；打印机、树脂和设计文件全部开放发布。",
+   "keywords": [
+    "stereolithography",
+    "open source",
+    "alveolar model",
+    "food dye photoabsorber",
+    "Rice University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GqJYMgAcc0Q"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/science.aav9750",
+    "doi": "10.1126/science.aav9750",
+    "venue": "Science",
+    "title": "Multivascular networks and functional intravascular topologies within biocompatible hydrogels"
+   },
+   "source_url": "https://millerlab.rice.edu/"
+  },
+  {
+   "id": "tal-dvir--printed-heart",
+   "creator_ids": [
+    "tal-dvir"
+   ],
+   "title": "3D Printing of Personalized Thick and Perfusable Cardiac Patches and Hearts",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A patient's omental tissue is turned into a personalised hydrogel and their own reprogrammed cells into cardiac and endothelial cells, printed as a vascularised patch and a small whole heart.",
+   "description_zh": "把病人的网膜组织转化为个性化水凝胶，把其重编程细胞转化为心肌与内皮细胞，打印成血管化补片和一颗小型完整心脏。",
+   "idea_en": "Both the cells and the gel can come from the same person, so nothing is foreign.",
+   "idea_zh": "细胞和凝胶都可以来自同一个人，于是没有任何异物。",
+   "method": "Omentum is decellularised into a personalised extracellular-matrix ink; iPSCs from the same biopsy are differentiated into cardiomyocytes and endothelial cells and printed with CT-derived vessel geometry.",
+   "method_zh": "网膜经去细胞化制成个性化细胞外基质墨水；同一活检来源的 iPSC 分化为心肌与内皮细胞，按 CT 提取的血管几何打印。",
+   "keywords": [
+    "personalised hydrogel",
+    "omentum",
+    "iPSC",
+    "Tel Aviv University"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SA3B8IOYI9s"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1002/advs.201900344",
+    "doi": "10.1002/advs.201900344",
+    "venue": "Advanced Science",
+    "title": "3D Printing of Personalized Thick and Perfusable Cardiac Patches and Hearts"
+   },
+   "source_url": "https://doi.org/10.1002/advs.201900344"
+  },
+  {
+   "id": "monica-laronda--bioprosthetic-ovary",
+   "creator_ids": [
+    "monica-laronda"
+   ],
+   "title": "A Bioprosthetic Ovary Created Using 3D Printed Microporous Scaffolds",
+   "year": 2017,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A gelatin lattice printed at specific strut angles holds ovarian follicles in place; implanted in sterilised mice, it restored hormone cycles and produced healthy pups.",
+   "description_zh": "以特定支柱角度打印的明胶网格把卵泡固定住；植入绝育小鼠后恢复了激素周期，并产下健康幼鼠。",
+   "idea_en": "The geometry of the scaffold, not the material, decides whether the follicles survive.",
+   "idea_zh": "决定卵泡能否存活的是支架的几何，而不是材料。",
+   "method": "Gelatin ink is printed as 30°, 60° or 90° strut lattices; the 30/60° geometry gives follicles multiple contact points, and implanted scaffolds vascularise and ovulate.",
+   "method_zh": "明胶墨水打印成 30°、60° 或 90° 支柱网格；30/60° 几何为卵泡提供多点接触，植入后支架血管化并排卵。",
+   "keywords": [
+    "bioprosthetic ovary",
+    "gelatin scaffold",
+    "fertility",
+    "Northwestern University"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms15261/MediaObjects/41467_2017_Article_BFncomms15261_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/ncomms15261",
+    "doi": "10.1038/ncomms15261",
+    "venue": "Nature Communications",
+    "title": "A bioprosthetic ovary created using 3D printed microporous scaffolds restores ovarian function in sterilized mice"
+   },
+   "source_url": "https://www.nature.com/articles/ncomms15261"
+  },
+  {
+   "id": "michael-mcalpine--bionic-ear",
+   "creator_ids": [
+    "michael-mcalpine"
+   ],
+   "title": "3D Printed Bionic Ears",
+   "year": 2013,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "An ear-shaped alginate scaffold with calf cartilage cells is printed around a coil of silver nanoparticle ink, producing a grown ear that picks up radio frequencies.",
+   "description_zh": "把含小牛软骨细胞的耳形海藻酸支架与银纳米颗粒墨水线圈一起打印，长成的耳朵能接收无线电频率。",
+   "idea_en": "Print tissue and electronics as one object instead of implanting a device into tissue.",
+   "idea_zh": "把组织和电子当作同一个物体打印，而不是把器件植入组织。",
+   "method": "A 3D printer alternates a chondrocyte-laden alginate hydrogel and a silver nanoparticle ink to form an inductive coil inside the cartilage; the construct is cultured for ten weeks.",
+   "method_zh": "3D 打印机交替沉积载软骨细胞的海藻酸水凝胶与银纳米颗粒墨水，在软骨内形成感应线圈，构件培养十周。",
+   "keywords": [
+    "bionic ear",
+    "silver nanoparticle ink",
+    "chondrocytes",
+    "Princeton"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jjuhkpBR4bI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1021/nl4007744",
+    "doi": "10.1021/nl4007744",
+    "venue": "Nano Letters",
+    "title": "3D Printed Bionic Ears"
+   },
+   "source_url": "https://mcalpinegroup.umn.edu/"
+  },
+  {
+   "id": "michael-mcalpine--bacterial-nanobionics",
+   "creator_ids": [
+    "michael-mcalpine"
+   ],
+   "title": "Bacterial Nanobionics via 3D Printing",
+   "year": 2018,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Live cyanobacteria are printed in a hydrogel together with graphene electrodes onto a curved surface, including a fingertip, forming a living bio-photovoltaic patch.",
+   "description_zh": "把活蓝细菌与石墨烯电极一起打印在曲面（包括指尖）上，形成活体生物光伏贴片。",
+   "idea_en": "A living energy device can be printed directly onto the surface it will sit on.",
+   "idea_zh": "活体能源器件可以直接打印在它将要贴附的表面上。",
+   "method": "Multi-nozzle printing combines a cyanobacteria-laden hydrogel with graphene nanoribbon electrodes, adapted in real time to the 3D geometry of the substrate.",
+   "method_zh": "多喷头打印把载蓝细菌水凝胶与石墨烯纳米带电极结合，并实时适配基底的三维几何。",
+   "keywords": [
+    "bio-photovoltaics",
+    "cyanobacteria",
+    "graphene",
+    "conformal printing"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1021/acs.nanolett.8b02642",
+    "doi": "10.1021/acs.nanolett.8b02642",
+    "venue": "Nano Letters",
+    "title": "Bacterial Nanobionics via 3D Printing"
+   },
+   "source_url": "https://mcalpinegroup.umn.edu/"
+  },
+  {
+   "id": "lawrence-bonassar--printed-ear",
+   "creator_ids": [
+    "lawrence-bonassar"
+   ],
+   "title": "High-Fidelity Tissue Engineering of Patient-Specific Auricles",
+   "year": 2013,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A child's ear is 3D scanned, mirrored and printed as a mould; collagen hydrogel with cartilage cells is injected into it and cultured into an ear with the right shape and stiffness.",
+   "description_zh": "扫描孩子的耳朵并镜像，打印成模具；把含软骨细胞的胶原水凝胶注入其中培养，长成形状与硬度都合适的耳朵。",
+   "idea_en": "Scan the patient, print the mould, grow the part — a repeatable pipeline from body to implant.",
+   "idea_zh": "扫描病人、打印模具、培养部件：一条从身体到植入物的可复制流程。",
+   "method": "A 3D laser scan of the contralateral ear becomes a printed negative mould; collagen type I with bovine or human chondrocytes is injected, cross-linked and cultured up to three months.",
+   "method_zh": "对侧耳朵的三维激光扫描生成打印负模；注入含牛或人软骨细胞的 I 型胶原，交联后培养最长三个月。",
+   "keywords": [
+    "auricular reconstruction",
+    "microtia",
+    "collagen hydrogel",
+    "3D scanning",
+    "Cornell"
+   ],
+   "images": [
+    "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0056506.g008&size=inline"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-RgI_bcETkM"
+   },
+   "paper": {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056506",
+    "doi": "10.1371/journal.pone.0056506",
+    "venue": "PLOS ONE",
+    "title": "High-Fidelity Tissue Engineering of Patient-Specific Auricles for Reconstruction of Pediatric Microtia and Other Auricular Deformities"
+   },
+   "source_url": "https://bonassar.research.engineering.cornell.edu/"
+  },
+  {
+   "id": "riccardo-levato--volumetric-bioprinting",
+   "creator_ids": [
+    "riccardo-levato"
+   ],
+   "title": "Volumetric Bioprinting of Complex Living-Tissue Constructs within Seconds",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Light patterns projected into a rotating vial of cell-laden resin build a whole centimetre-scale construct in tens of seconds, with no layers.",
+   "description_zh": "把光图案投射进旋转的载细胞树脂管中，在数十秒内一次成形厘米级构件，没有分层。",
+   "idea_en": "Cure the whole volume at once and printing time stops depending on object size.",
+   "idea_zh": "一次固化整个体积，打印时间就不再取决于物体大小。",
+   "method": "Tomographic back-projection: a sequence of computed light patterns is projected from many angles into a rotating GelMA suspension of cells, accumulating dose where the object should solidify.",
+   "method_zh": "断层反投影：按计算好的光图案从多个角度投射进旋转的载细胞 GelMA 悬液，在应当固化的位置累积剂量。",
+   "keywords": [
+    "volumetric printing",
+    "tomographic back-projection",
+    "GelMA",
+    "Utrecht"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/adma.201904209",
+    "doi": "10.1002/adma.201904209",
+    "venue": "Advanced Materials",
+    "title": "Volumetric Bioprinting of Complex Living-Tissue Constructs within Seconds"
+   },
+   "source_url": "https://www.levatolab.com/"
+  },
+  {
+   "id": "andrew-pelling--apple-scaffolds",
+   "creator_ids": [
+    "andrew-pelling"
+   ],
+   "title": "Apple Derived Cellulose Scaffolds for 3D Mammalian Cell Culture",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Apple slices are stripped of their own cells with soap and water, leaving a cellulose skeleton that human cells colonise; carved into an ear shape it grows into cartilage-like tissue.",
+   "description_zh": "用洗涤剂和水去掉苹果切片自身的细胞，留下纤维素骨架供人类细胞定植；雕成耳朵形状后长成类软骨组织。",
+   "idea_en": "A supermarket apple is a free, open-source tissue scaffold.",
+   "idea_zh": "超市里的苹果就是一个免费的开源组织支架。",
+   "method": "Hypocotyl and apple tissue is decellularised in sodium dodecyl sulphate, sterilised and seeded with mammalian cells, which attach to the remaining cellulose architecture and proliferate.",
+   "method_zh": "用十二烷基硫酸钠对苹果组织去细胞化、灭菌后接种哺乳动物细胞，细胞附着在残留的纤维素结构上增殖。",
+   "keywords": [
+    "decellularisation",
+    "plant cellulose scaffold",
+    "open science",
+    "biohacking"
+   ],
+   "images": [
+    "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0097835.g006&size=inline"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7LPJrzZaoZg"
+   },
+   "paper": {
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097835",
+    "doi": "10.1371/journal.pone.0097835",
+    "venue": "PLOS ONE",
+    "title": "Apple Derived Cellulose Scaffolds for 3D Mammalian Cell Culture"
+   },
+   "source_url": "https://www.pellinglab.net/"
+  },
+  {
+   "id": "organovo--exvive3d",
+   "creator_ids": [
+    "organovo"
+   ],
+   "title": "exVive3D Human Liver Tissue",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "Organovo printed human liver and kidney tissue from spheroids of primary cells and sold it as a service for testing drug toxicity over weeks rather than hours.",
+   "description_zh": "Organovo 用原代细胞球打印人类肝脏和肾脏组织，并作为服务出售，用于以周而非小时为尺度测试药物毒性。",
+   "idea_en": "The first commercial product made of printed living human tissue was a test object, not an implant.",
+   "idea_zh": "第一个由打印人体活组织构成的商业产品是检测对象，而不是植入物。",
+   "method": "The NovoGen MMX bioprinter deposits multicellular spheroids that fuse into tissue without a scaffold, following Gabor Forgacs's principle of tissue self-assembly.",
+   "method_zh": "NovoGen MMX 生物打印机沉积多细胞球，它们无需支架即融合成组织，依据 Gabor Forgacs 的组织自组装原理。",
+   "keywords": [
+    "exVive3D",
+    "NovoGen MMX",
+    "scaffold-free",
+    "drug toxicity testing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=h_Sdu5pfUTI"
+   },
+   "source_url": "https://organovo.com/"
+  },
+  {
+   "id": "cellink--bio-x",
+   "creator_ids": [
+    "cellink"
+   ],
+   "title": "BIO X Desktop Bioprinter and Universal Bioink",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "A bench-top bioprinter with swappable printheads, clean-chamber lighting and a touch interface, sold together with ready-made cellulose and gelatin bioinks.",
+   "description_zh": "一台可更换打印头、带洁净腔照明与触屏界面的台式生物打印机，并配套出售现成的纤维素与明胶生物墨水。",
+   "idea_en": "Packaging bioprinting as an appliance is what let non-specialists start printing cells.",
+   "idea_zh": "把生物打印包装成一台家电式设备，才让非专业者也能开始打印细胞。",
+   "method": "Pneumatic and thermoplastic printheads extrude commercial bioinks inside a HEPA-filtered chamber with UV sterilisation, controlled through a preset-driven touchscreen.",
+   "method_zh": "气动与热塑打印头在带 HEPA 过滤和紫外灭菌的腔体内挤出商用生物墨水，通过预设驱动的触摸屏控制。",
+   "keywords": [
+    "BIO X",
+    "universal bioink",
+    "desktop bioprinter",
+    "BICO"
+   ],
+   "images": [
+    "https://www.cellink.com/wp-content/uploads/2021/10/BIO-X.02.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4x8rBzCMuCo"
+   },
+   "source_url": "https://www.cellink.com/bioprinting/bio-x/"
+  },
+  {
+   "id": "aspect-biosystems--microfluidic-printhead",
+   "creator_ids": [
+    "aspect-biosystems"
+   ],
+   "title": "Lab-on-a-Printer Microfluidic Bioprinting",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "A printhead that is itself a microfluidic chip: cells, hydrogel and cross-linker meet inside the nozzle, so the fibre composition can change while printing.",
+   "description_zh": "打印头本身就是一块微流控芯片：细胞、水凝胶和交联剂在喷嘴内部汇合，因此纤维成分可以在打印过程中变化。",
+   "idea_en": "Move the mixing into the nozzle and the material becomes programmable along the filament.",
+   "idea_zh": "把混合搬进喷嘴，材料就能沿着细丝被逐点编程。",
+   "method": "Coaxial microfluidic channels sheath a cell-laden ink with cross-linking solution, gelling each filament on the fly and allowing switching between inks mid-print.",
+   "method_zh": "同轴微流控通道用交联液包裹载细胞墨水，使每根细丝即时凝胶，并可在打印中途切换墨水。",
+   "keywords": [
+    "Lab-on-a-Printer",
+    "microfluidics",
+    "coaxial extrusion",
+    "tissue therapeutics"
+   ],
+   "images": [
+    "https://aspectbiosystems.com/_images/banners/2026-Gem-2.png"
+   ],
+   "source_url": "https://aspectbiosystems.com/"
+  },
+  {
+   "id": "prellis-biologics--holographic-capillaries",
+   "creator_ids": [
+    "prellis-biologics"
+   ],
+   "title": "Holographic Printing of Capillary Networks and Lymph Node Organoids",
+   "year": 2018,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "Holographic light fields cure photopolymer at capillary scale, producing vessel networks a few microns wide and printed lymph-node organoids used to produce human antibodies.",
+   "description_zh": "用全息光场在毛细血管尺度固化光聚合物，做出数微米宽的血管网络，以及用于生产人类抗体的打印淋巴结类器官。",
+   "idea_en": "Print at the scale of capillaries and thick tissue can finally be fed.",
+   "idea_zh": "在毛细血管尺度打印，厚组织才终于能被喂养。",
+   "method": "A spatial light modulator projects holograms into a photosensitive resin so many voxels polymerise at once, reaching micron features fast enough for cell-safe exposure times.",
+   "method_zh": "空间光调制器把全息图投射进感光树脂，使大量体素同时聚合，在对细胞安全的曝光时间内达到微米级特征。",
+   "keywords": [
+    "holographic printing",
+    "capillary networks",
+    "lymph node organoid",
+    "EXIS antibodies"
+   ],
+   "images": [
+    "https://cdn.sanity.io/images/km3brrze/production/7c3deebab6b574ce1b0943968cacc7c22cf94f20-1200x630.jpg"
+   ],
+   "source_url": "https://www.prellisbio.com/"
+  },
+  {
+   "id": "3dbio-therapeutics--aurinovo",
+   "creator_ids": [
+    "3dbio-therapeutics"
+   ],
+   "title": "AuriNovo: 3D Printed Living Ear Implant",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "An ear implant printed from a patient's own cartilage cells in a collagen-based bioink was implanted in a woman with microtia in the first trial of its kind.",
+   "description_zh": "用病人自身软骨细胞和胶原基生物墨水打印的耳朵植入物，被植入一位小耳症患者体内，是同类中的首次试验。",
+   "idea_en": "A printed living body part left the lab and entered a clinical trial.",
+   "idea_zh": "一个打印出的活体身体部件离开实验室，进入了临床试验。",
+   "method": "Chondrocytes from a biopsy of the patient's remaining ear are expanded, mixed into a collagen bioink and printed to the mirrored geometry of the other ear, then implanted under skin to mature.",
+   "method_zh": "从病人残余耳取活检获取软骨细胞并扩增，混入胶原生物墨水，按另一侧耳朵的镜像几何打印，再植入皮下继续成熟。",
+   "keywords": [
+    "AuriNovo",
+    "microtia",
+    "autologous chondrocytes",
+    "clinical trial"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=INm3Q0xVWrQ"
+   },
+   "source_url": "https://www.3dbiocorp.com/"
+  },
+  {
+   "id": "aleph-farms--printed-ribeye",
+   "creator_ids": [
+    "aleph-farms"
+   ],
+   "title": "Cultivated Ribeye Steak by 3D Bioprinting",
+   "year": 2021,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "product",
+   "description": "A cultivated steak printed from cow muscle, fat and blood vessel cells on a plant-based scaffold, with marbling arranged so that it cooks and cuts like a ribeye.",
+   "description_zh": "用牛的肌肉、脂肪和血管细胞在植物基支架上打印出的培养牛排，脂肪纹理被排布得让它像肋眼一样可煎可切。",
+   "idea_en": "Once meat is printed, marbling becomes a layout decision.",
+   "idea_zh": "肉一旦是打印出来的，脂肪纹理就成了排版决定。",
+   "method": "Bovine cells are grown in bioreactors and printed with Aleph Farms' partner technology onto a plant-protein scaffold that gives the cut its fibre direction and internal fat distribution.",
+   "method_zh": "牛细胞在生物反应器中培养，再与合作方技术一起打印到植物蛋白支架上，由支架决定纤维方向和内部脂肪分布。",
+   "keywords": [
+    "cultivated meat",
+    "ribeye",
+    "bioprinting",
+    "food design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1id1EQwQvE0"
+   },
+   "source_url": "https://www.aleph-farms.com/"
+  },
+  {
+   "id": "novameat--printed-meat-analogue",
+   "creator_ids": [
+    "novameat"
+   ],
+   "title": "Novameat 3D Printed Whole-Cut Meat Analogue",
+   "year": 2018,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Plant proteins are extruded into bundles of micro-fibres tens of microns across, reproducing the grain of muscle in a printed steak that can also carry cultivated fat cells.",
+   "description_zh": "把植物蛋白挤出成数十微米粗的微纤维束，在打印牛排中复现肌肉纹理，也可承载培养脂肪细胞。",
+   "idea_en": "Texture, not flavour, is what a printer contributes to meat.",
+   "idea_zh": "打印机为肉带来的是纹理，而不是味道。",
+   "method": "A micro-extrusion printhead adapted from tissue-engineering scaffolds lays down pea and rice protein filaments with controlled anisotropy, later combined with cultivated adipose cells.",
+   "method_zh": "改自组织工程支架的微挤出打印头以可控各向异性铺设豌豆与米蛋白细丝，后期还结合培养脂肪细胞。",
+   "keywords": [
+    "micro-extrusion",
+    "plant protein",
+    "anisotropic texture",
+    "hybrid meat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UA73qYxxNew"
+   },
+   "source_url": "https://novameat.com/"
+  },
+  {
+   "id": "redefine-meat--new-meat",
+   "creator_ids": [
+    "redefine-meat"
+   ],
+   "title": "Redefine Meat New-Meat Printed Whole Cuts",
+   "year": 2020,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Industrial printers deposit separate muscle, fat and blood analogue inks into whole cuts, produced at tonnes per month and sold to restaurants across Europe.",
+   "description_zh": "工业打印机把肌肉、脂肪和血液的替代墨水分别沉积成整块肉，以每月数吨产量供应欧洲餐厅。",
+   "idea_en": "Printing food at production scale turns a recipe into a digital file and a supply chain.",
+   "idea_zh": "以生产规模打印食物，把配方变成数字文件和一条供应链。",
+   "method": "Three ink types — soy and pea protein muscle, fat and a beet-based blood analogue — are printed in parallel by multi-nozzle industrial machines against digitally described cut structures.",
+   "method_zh": "三类墨水（大豆与豌豆蛋白肌肉、脂肪、甜菜基血液替代物）由多喷头工业设备并行打印，依据数字描述的肉块结构成形。",
+   "keywords": [
+    "New-Meat",
+    "industrial printing",
+    "whole cuts",
+    "alt protein"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gbfsOHk6smg"
+   },
+   "source_url": "https://www.redefinemeat.com/"
+  },
+  {
+   "id": "andre-studart--flink",
+   "creator_ids": [
+    "andre-studart"
+   ],
+   "title": "Flink: 3D Printing of Bacteria into Functional Complex Materials",
+   "year": 2017,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A hydrogel ink carrying live bacteria is printed in chosen patterns so that one species secretes cellulose for a skin graft scaffold while another degrades pollutants.",
+   "description_zh": "载有活细菌的水凝胶墨水按设定图案打印，一种细菌分泌纤维素形成皮肤移植支架，另一种分解污染物。",
+   "idea_en": "Choose which bacterium goes where, and the printed object does biological work.",
+   "idea_zh": "决定哪种细菌去哪里，打印出的物体就能完成生物工作。",
+   "method": "Bacteria are suspended in a biocompatible hyaluronic acid, fumed silica and κ-carrageenan ink that is shear-thinning enough to print and stiff enough to hold shape while the cells stay viable.",
+   "method_zh": "把细菌悬于透明质酸、气相二氧化硅与 κ-卡拉胶组成的生物相容墨水中，其剪切变稀特性足以打印、强度足以保形，同时细胞保持存活。",
+   "keywords": [
+    "Flink",
+    "Pseudomonas putida",
+    "Acetobacter xylinum",
+    "functional living materials",
+    "ETH Zurich"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W2piUVYukyA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1126/sciadv.aao6804",
+    "doi": "10.1126/sciadv.aao6804",
+    "venue": "Science Advances",
+    "title": "3D printing of bacteria into functional complex materials"
+   },
+   "source_url": "https://complexmaterials.ethz.ch/"
+  },
+  {
+   "id": "andre-studart--cellulose-granular-gels",
+   "creator_ids": [
+    "andre-studart"
+   ],
+   "title": "Living Materials Made by 3D Printing Cellulose-Producing Bacteria in Granular Gels",
+   "year": 2022,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Cellulose-producing bacteria are written into a granular support gel, where they keep growing after printing and fuse the printed paths into a coherent, tough cellulose object.",
+   "description_zh": "把产纤维素的细菌写入颗粒状支撑凝胶，它们在打印后继续生长，把打印路径连成一个坚韧的整体纤维素物体。",
+   "idea_en": "Let the bacteria finish the object after the nozzle has left.",
+   "idea_zh": "让细菌在喷头离开之后把物体完成。",
+   "method": "A granular gel bath holds extruded bacteria-laden filaments in place during days of culture; the cellulose the bacteria secrete bridges neighbouring filaments and sets the final mechanics.",
+   "method_zh": "颗粒凝胶浴在数天培养中固定挤出的含菌细丝，细菌分泌的纤维素把相邻细丝连接起来，决定最终力学性能。",
+   "keywords": [
+    "bacterial cellulose",
+    "granular gel",
+    "embedded printing",
+    "engineered living materials"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.bioadv.2022.213095",
+    "doi": "10.1016/j.bioadv.2022.213095",
+    "venue": "Biomaterials Advances",
+    "title": "Living materials made by 3D printing cellulose-producing bacteria in granular gels"
+   },
+   "source_url": "https://complexmaterials.ethz.ch/"
+  },
+  {
+   "id": "kunal-masania--photosynthetic-living-materials",
+   "creator_ids": [
+    "kunal-masania",
+    "andrea-shin-ling"
+   ],
+   "title": "Dual Carbon Sequestration with Photosynthetic Living Materials",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria",
+    "algae"
+   ],
+   "kind": "paper",
+   "description": "Printed hydrogel structures seeded with cyanobacteria both store carbon as biomass and precipitate it as mineral carbonate inside the material, staying active for over a year.",
+   "description_zh": "接种蓝细菌的打印水凝胶结构，既以生物质储碳，又在材料内部把碳沉淀为矿物碳酸盐，活性维持一年以上。",
+   "idea_en": "A printed material that keeps taking carbon out of the air as long as it is kept alive.",
+   "idea_zh": "只要维持它活着，这种打印材料就会不断把碳从空气中取走。",
+   "method": "Cyanobacteria are embedded in a printable hydrogel with a nutrient supply and high surface-to-volume geometry; photosynthesis raises local pH so carbonate minerals precipitate in the matrix.",
+   "method_zh": "把蓝细菌嵌入带养分供给、高比表面积几何的可打印水凝胶；光合作用抬升局部 pH，使碳酸盐矿物在基质中沉淀。",
+   "keywords": [
+    "photosynthetic living materials",
+    "carbon sequestration",
+    "cyanobacteria",
+    "ETH Zurich",
+    "biomineralisation"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-025-58761-y/MediaObjects/41467_2025_58761_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41467-025-58761-y",
+    "doi": "10.1038/s41467-025-58761-y",
+    "venue": "Nature Communications",
+    "title": "Dual carbon sequestration with photosynthetic living materials"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-025-58761-y"
+  },
+  {
+   "id": "andrea-shin-ling--picoplanktonics",
+   "creator_ids": [
+    "andrea-shin-ling"
+   ],
+   "title": "Picoplanktonics (Canada Pavilion, Venice Architecture Biennale 2025)",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "Two large printed structures seeded with carbon-sequestering cyanobacteria fill the Canada Pavilion; a team of caretakers waters, feeds and monitors them for the length of the Biennale.",
+   "description_zh": "两座接种固碳蓝细菌的大型打印结构占据加拿大馆，一支照护团队在整个双年展期间为它们浇水、投食并监测状态。",
+   "idea_en": "An exhibition where the building material is a culture that needs daily care.",
+   "idea_zh": "一个展览，其建筑材料是一份需要每天照料的培养物。",
+   "method": "Sand-based hydrogel structures printed with a robotic arm carry Synechococcus cyanobacteria; a controlled humidity, light and nutrient regime keeps them photosynthesising and mineralising carbon on site.",
+   "method_zh": "用机械臂打印的砂基水凝胶结构携带 Synechococcus 蓝细菌；受控的湿度、光照与营养方案让它们在现场持续光合并矿化碳。",
+   "keywords": [
+    "Venice Architecture Biennale 2025",
+    "Canada Pavilion",
+    "Living Room Collective",
+    "cyanobacteria",
+    "care"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z0LymYR0-Cg"
+   },
+   "source_url": "https://www.canadacouncil.ca/initiatives/venice-biennale"
+  },
+  {
+   "id": "andrea-shin-ling--design-by-decay",
+   "creator_ids": [
+    "andrea-shin-ling"
+   ],
+   "title": "Design by Decay, Decay by Design",
+   "year": 2018,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi",
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A biofabrication method that uses controlled rot: chitosan and cellulose components are grown, colonised and partly decomposed by fungi and bacteria as part of the making process.",
+   "description_zh": "一种利用受控腐烂的生物制造方法：甲壳素与纤维素构件在制作过程中被真菌与细菌定植并部分分解。",
+   "idea_en": "Decomposition is a fabrication tool, not the end of the object.",
+   "idea_zh": "分解是一种制造工具，而不是物件的终点。",
+   "method": "Cast and printed biopolymer substrates are inoculated with fungal and bacterial cultures under controlled humidity, so growth and decay together shape density, colour and strength.",
+   "method_zh": "浇铸与打印出的生物聚合物基底在受控湿度下接种真菌与细菌培养物，让生长与腐烂共同塑造密度、颜色和强度。",
+   "keywords": [
+    "biofabrication",
+    "decay",
+    "chitosan",
+    "S+T+ARTS Prize 2020"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9qDmvXTiVlA"
+   },
+   "source_url": "https://www.andrealing.com/"
+  },
+  {
+   "id": "neri-oxman--hybrid-living-materials",
+   "creator_ids": [
+    "neri-oxman"
+   ],
+   "title": "Hybrid Living Materials (HLM)",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Multi-material printed surfaces are inoculated with engineered E. coli that respond to chemicals in the substrate, so patterns of colour and fluorescence appear along the printed gradients.",
+   "description_zh": "多材料打印表面接种能对基底化学物质响应的工程大肠杆菌，颜色与荧光图案随打印梯度显现。",
+   "idea_en": "Print a chemical landscape and let engineered bacteria draw on it.",
+   "idea_zh": "打印一片化学地景，让工程细菌在上面作画。",
+   "method": "A digital workflow assigns local concentrations of nutrients and inducers in a multi-material print; a hydrogel layer carrying sensor strains of E. coli is applied, and expression maps the printed chemistry.",
+   "method_zh": "数字流程在多材料打印中分配局部养分与诱导物浓度；覆盖含传感菌株大肠杆菌的水凝胶层后，基因表达把打印的化学分布显示出来。",
+   "keywords": [
+    "Mediated Matter",
+    "engineered living materials",
+    "E. coli sensors",
+    "multi-material printing"
+   ],
+   "images": [
+    "https://dam-prod.media.mit.edu/thumb/2020/01/22/gradients2.png.1400x1400.png",
+    "https://dam-prod.media.mit.edu/thumb/2020/01/22/morecolors_tlb8mEq.jpg.1400x1400.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gL_KuEu9ABQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1002/adfm.201907401",
+    "doi": "10.1002/adfm.201907401",
+    "venue": "Advanced Functional Materials",
+    "title": "Hybrid Living Materials: Digital Design and Fabrication of 3D Multimaterial Structures with Programmable Biohybrid Surfaces"
+   },
+   "source_url": "https://www.media.mit.edu/projects/hybrid-living-materials/overview/"
+  },
+  {
+   "id": "neri-oxman--water-based-robotic-fabrication",
+   "creator_ids": [
+    "neri-oxman"
+   ],
+   "title": "Water-Based Robotic Fabrication",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells",
+    "molecules"
+   ],
+   "kind": "paper",
+   "description": "A robotic arm extrudes chitosan and other biopolymers dissolved in water at architectural scale, varying stiffness, transparency and degradation along a single continuous print.",
+   "description_zh": "机械臂以建筑尺度挤出溶于水的甲壳素等生物聚合物，在一次连续打印中改变硬度、透明度和降解速度。",
+   "idea_en": "Water, not heat, is the medium: material properties are tuned by concentration along the path.",
+   "idea_zh": "介质是水而不是热：材料性能靠沿路径变化的浓度来调节。",
+   "method": "A multi-chamber extrusion system on a six-axis robot mixes biopolymer solutions of different concentrations on the fly, depositing functionally graded hydrogel composites that dry into rigid shells.",
+   "method_zh": "六轴机器人上的多腔挤出系统实时混合不同浓度的生物聚合物溶液，沉积功能梯度水凝胶复合材料，干燥后成为刚性壳体。",
+   "keywords": [
+    "Mediated Matter",
+    "chitosan",
+    "functionally graded materials",
+    "robotic extrusion"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1089/3dp.2014.0014",
+    "doi": "10.1089/3dp.2014.0014",
+    "venue": "3D Printing and Additive Manufacturing",
+    "title": "Water-Based Robotic Fabrication: Large-Scale Additive Manufacturing of Functionally Graded Hydrogel Composites via Multichamber Extrusion"
+   },
+   "source_url": "https://doi.org/10.1089/3dp.2014.0014"
+  },
+  {
+   "id": "chao-zhong--printable-biofilms",
+   "creator_ids": [
+    "chao-zhong"
+   ],
+   "title": "Programmable and Printable Bacillus subtilis Biofilms as Engineered Living Materials",
+   "year": 2018,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Engineered Bacillus subtilis secretes a protein matrix carrying chosen functional domains, and the biofilm can be printed or cast into patterned living coatings.",
+   "description_zh": "工程枯草芽孢杆菌分泌带有设定功能域的蛋白基质，这种生物膜可以被打印或浇铸成带图案的活体涂层。",
+   "idea_en": "Program what the biofilm secretes, and the material grows itself with the function built in.",
+   "idea_zh": "编程生物膜分泌什么，材料就会自己长出内置的功能。",
+   "method": "The TasA matrix protein is fused to functional peptides and enzymes; secreted fibres self-assemble into a biofilm that can template nanoparticles, immobilise enzymes or adhere to surfaces.",
+   "method_zh": "把基质蛋白 TasA 与功能肽或酶融合，分泌的纤维自组装成生物膜，可模板化纳米颗粒、固定酶或黏附表面。",
+   "keywords": [
+    "Bacillus subtilis",
+    "TasA",
+    "engineered living materials",
+    "biofilm patterning",
+    "ShanghaiTech"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41589-018-0169-2/MediaObjects/41589_2018_169_Figa_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41589-018-0169-2",
+    "doi": "10.1038/s41589-018-0169-2",
+    "venue": "Nature Chemical Biology",
+    "title": "Programmable and printable Bacillus subtilis biofilms as engineered living materials"
+   },
+   "source_url": "https://www.nature.com/articles/s41589-018-0169-2"
+  },
+  {
+   "id": "lining-yao--e-seed",
+   "creator_ids": [
+    "lining-yao"
+   ],
+   "title": "E-seed: Autonomous Self-Burying Seed Carriers",
+   "year": 2023,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Wood-veneer carriers copied from the self-drilling Erodium seed coil and uncoil with humidity, drilling a dropped seed into the soil without any machine.",
+   "description_zh": "模仿 Erodium 自钻种子的木皮载体随湿度卷曲与舒展，把落地的种子钻进土壤，不需要任何机械。",
+   "idea_en": "A hygroscopic shape change can replace the machinery of planting.",
+   "idea_zh": "一次吸湿形变就能替代播种的机械。",
+   "method": "Anisotropic wood veneer is laser-cut and moisture-programmed into a three-tailed coil; day-night humidity cycles turn the coil, and the tails anchor against the ground so the tip screws downward.",
+   "method_zh": "各向异性木皮经激光切割与湿度编程做成三尾螺旋；昼夜湿度循环使螺旋旋转，尾部撑住地面让尖端向下旋入。",
+   "keywords": [
+    "Erodium",
+    "hygromorphic",
+    "aerial seeding",
+    "Morphing Matter Lab",
+    "wood veneer"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05656-3/MediaObjects/41586_2022_5656_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41586-022-05656-3",
+    "doi": "10.1038/s41586-022-05656-3",
+    "venue": "Nature",
+    "title": "Autonomous self-burying seed carriers for aerial seeding"
+   },
+   "source_url": "https://morphingmatter.cs.cmu.edu/"
+  },
+  {
+   "id": "blast-studio--urban-stomach",
+   "creator_ids": [
+    "blast-studio"
+   ],
+   "title": "Urban Stomach",
+   "year": 2023,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "Discarded coffee cups collected around London are pulped into a paste, 3D printed into columns and vessels, and colonised by oyster mycelium that binds and fruits on the objects.",
+   "description_zh": "把伦敦街头回收的咖啡杯打成纸浆，3D 打印成柱体和容器，再由平菇菌丝体定植，既固化结构也在物件上出菇。",
+   "idea_en": "A city's waste stream can be printed and then digested into structure by a fungus.",
+   "idea_zh": "城市的废弃物流可以被打印出来，再由真菌消化成结构。",
+   "method": "Paper cups are shredded and mixed into a printable cellulose paste; printed forms are inoculated with Pleurotus mycelium, incubated to bind the substrate, and harvested for mushrooms before drying.",
+   "method_zh": "把纸杯粉碎混成可打印纤维素浆，打印成形后接种平菇菌丝体，培养使基质结合，出菇采收后再干燥。",
+   "keywords": [
+    "coffee cups",
+    "Pleurotus",
+    "mycelium printing",
+    "circular material",
+    "London"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sQPFRRDt25E"
+   },
+   "source_url": "https://www.blast-studio.com/"
+  },
+  {
+   "id": "aleksi-vesaluoma--grown-structures",
+   "creator_ids": [
+    "aleksi-vesaluoma"
+   ],
+   "title": "Grown Structures",
+   "year": 2017,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "Hand-wrapped cardboard tubes are soaked with mycelium and bundled into tree-like frames; as the fungus digests the cardboard the bundles stiffen into a self-supporting structure.",
+   "description_zh": "手工缠绕的纸管浸入菌丝体后被束成树状框架；真菌消化纸板的过程让这些束体变硬，形成自支撑结构。",
+   "idea_en": "The formwork is also the fungus's food, so the structure stiffens as it is eaten.",
+   "idea_zh": "模板同时是真菌的食物，结构在被吃掉的过程中变硬。",
+   "method": "Cardboard strips are inoculated with mushroom mycelium, wrapped by hand around tubular forms and grown in humid conditions until hyphae bond the layers, then dried to stop growth.",
+   "method_zh": "纸板条接种食用菌菌丝体，手工缠绕在管状模具上，在潮湿条件下生长至菌丝黏合各层，再干燥终止生长。",
+   "keywords": [
+    "mycelium",
+    "cardboard",
+    "Brunel University",
+    "grown structure"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9MNfBdy2IVo"
+   },
+   "source_url": "https://www.dezeen.com/2017/07/18/aleksi-vesaluoma-grown-structures-mushroom-mycelium-cardboard-design/"
+  },
+  {
+   "id": "reef-design-lab--mars",
+   "creator_ids": [
+    "reef-design-lab"
+   ],
+   "title": "MARS: Modular Artificial Reef Structure",
+   "year": 2018,
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Ceramic reef modules cast from 3D-printed moulds interlock on a steel spine, are assembled by divers underwater, and are seeded with coral fragments that grow over the structure.",
+   "description_zh": "用 3D 打印模具浇注的陶瓷礁体模块以钢芯互锁，由潜水员在水下拼装，并植入珊瑚断枝让其覆盖结构生长。",
+   "idea_en": "Design the flat-packed, diver-assembled habitat, not the sculpture.",
+   "idea_zh": "要设计的是可平装、潜水员就能拼装的栖息地，而不是雕塑。",
+   "method": "3D-printed moulds produce cast ceramic and concrete units with coral-friendly surface texture and internal voids; modules thread onto a rebar spine so they can be transported flat and built up on site.",
+   "method_zh": "3D 打印模具浇注出带适合珊瑚附着的表面纹理和内部孔洞的陶瓷与混凝土单元；模块串接在钢筋芯上，可平装运输、现场搭建。",
+   "keywords": [
+    "MARS",
+    "artificial reef",
+    "Maldives",
+    "modular casting",
+    "Alex Goad"
+   ],
+   "images": [
+    "https://static1.squarespace.com/static/648fefcad6448545d11043fd/t/64a22f46a64c476f109c18e9/1728881186769/RDL+MARS+SHARING+IMAGE.jpg?format=1500w"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BMCfiLnncg8"
+   },
+   "source_url": "https://reefdesignlab.com/mars"
+  },
+  {
+   "id": "rrreefs--clay-reef-bricks",
+   "creator_ids": [
+    "rrreefs"
+   ],
+   "title": "3D Printed Clay Reef, San Andrés",
+   "year": 2022,
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Interlocking clay bricks printed and fired on land are carried down by divers and stacked into reef walls whose cavities shelter fish while corals settle on the surfaces.",
+   "description_zh": "在陆地打印并烧制的互锁陶土砖由潜水员带到水下，堆成礁墙，其空腔为鱼提供庇护，表面供珊瑚附着。",
+   "idea_en": "Use a ceramic brick, not concrete, so the reef can be built and repaired by hand.",
+   "idea_zh": "用陶砖而不是混凝土，让礁体可以手工搭建与修补。",
+   "method": "Clay is extrusion-printed into bricks with rough, porous surfaces and internal channels, fired, then dry-stacked underwater into walls seeded by natural coral recruitment.",
+   "method_zh": "陶土被挤出打印成表面粗糙多孔、内部带通道的砖块，烧制后在水下干砌成墙，依靠自然珊瑚附着定殖。",
+   "keywords": [
+    "clay 3D printing",
+    "coral restoration",
+    "San Andrés",
+    "Colombia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L0WvFJz0CDQ"
+   },
+   "source_url": "https://rrreefs.com/"
+  },
+  {
+   "id": "daniel-wangpraseurt--bionic-coral",
+   "creator_ids": [
+    "daniel-wangpraseurt"
+   ],
+   "title": "Bionic 3D Printed Corals",
+   "year": 2020,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "algae",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Coral-inspired hydrogel structures printed at cellular resolution scatter light the way coral tissue does, and grow microalgae at densities far above conventional photobioreactors.",
+   "description_zh": "以细胞级分辨率打印的仿珊瑚水凝胶结构，像珊瑚组织一样散射光线，培养微藻的密度远超常规光生物反应器。",
+   "idea_en": "Copy the optical geometry of coral and photosynthesis gets more efficient.",
+   "idea_zh": "复制珊瑚的光学几何，光合作用就变得更高效。",
+   "method": "Rapid 3D bioprinting combines a cellulose-derived scaffold with an algae-laden hydrogel; the printed micro-geometry redistributes light internally, mimicking coral skeleton and tissue optics.",
+   "method_zh": "快速 3D 生物打印把纤维素基支架与载藻水凝胶结合；打印出的微几何在内部重新分配光线，模拟珊瑚骨骼与组织的光学特性。",
+   "keywords": [
+    "bionic coral",
+    "Symbiodinium",
+    "photobioreactor",
+    "bio-optics",
+    "Cambridge"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-15486-4/MediaObjects/41467_2020_15486_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41467-020-15486-4",
+    "doi": "10.1038/s41467-020-15486-4",
+    "venue": "Nature Communications",
+    "title": "Bionic 3D printed corals"
+   },
+   "source_url": "https://www.nature.com/articles/s41467-020-15486-4"
+  },
+  {
+   "id": "elise-elsacker--cellulose-reinforced-mycelium",
+   "creator_ids": [
+    "elise-elsacker"
+   ],
+   "title": "Bacterial Cellulose-Reinforced Mycelium Composites",
+   "year": 2021,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Mycelium composites are grown on substrates mixed with bacterial cellulose, and mechanical testing shows how the added nanofibres change stiffness and strength.",
+   "description_zh": "在混入细菌纤维素的基质上培养菌丝体复合材料，力学测试显示这些纳米纤维如何改变刚度与强度。",
+   "idea_en": "Two microbes in one material: one grows the body, the other reinforces it.",
+   "idea_zh": "一种材料里放两种微生物：一种长出主体，另一种提供增强。",
+   "method": "Fungal mycelium is cultivated on lignocellulosic substrates supplemented with bacterial cellulose from Komagataeibacter cultures; samples are dried and tested in compression and bending.",
+   "method_zh": "真菌菌丝体在补充了 Komagataeibacter 细菌纤维素的木质纤维基质上培养，样品干燥后进行压缩与弯曲测试。",
+   "keywords": [
+    "mycelium composite",
+    "bacterial cellulose",
+    "material characterisation",
+    "biofabrication"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1186/s40694-021-00125-4",
+    "doi": "10.1186/s40694-021-00125-4",
+    "venue": "Fungal Biology and Biotechnology",
+    "title": "Mechanical characteristics of bacterial cellulose-reinforced mycelium composite materials"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JrpbduZ6cWY"
+   },
+   "source_url": "https://doi.org/10.1186/s40694-021-00125-4"
+  },
+  {
+   "id": "julian-melchiorri--silk-leaf",
+   "creator_ids": [
+    "julian-melchiorri"
+   ],
+   "title": "Silk Leaf",
+   "year": 2014,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "plants",
+    "cells"
+   ],
+   "kind": "prototype",
+   "description": "Chloroplasts extracted from plant cells are suspended in silk protein and cast into a thin leaf-like membrane that photosynthesises when given light and water.",
+   "description_zh": "从植物细胞提取的叶绿体被悬于丝蛋白中，浇铸成薄如叶片的膜，在给予光和水时进行光合作用。",
+   "idea_en": "Take photosynthesis out of the plant and make it a material you can shape.",
+   "idea_zh": "把光合作用从植物中取出，做成可以造型的材料。",
+   "method": "Chloroplasts are isolated from plant tissue and embedded in a silk fibroin matrix, which stabilises the organelles while remaining permeable to water, carbon dioxide and light.",
+   "method_zh": "从植物组织分离叶绿体并嵌入丝素蛋白基质，基质稳定这些细胞器，同时对水、二氧化碳和光保持通透。",
+   "keywords": [
+    "chloroplast",
+    "silk fibroin",
+    "artificial leaf",
+    "Royal College of Art"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LM_jruaJmNw"
+   },
+   "source_url": "https://www.julianmelchiorri.com/"
+  },
+  {
+   "id": "julian-melchiorri--exhale",
+   "creator_ids": [
+    "julian-melchiorri"
+   ],
+   "title": "Exhale: Bionic Chandelier",
+   "year": 2017,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A chandelier of 70 glass leaves, each a bioreactor of living microalgae, hangs at the V&A; the algae photosynthesise under the light and release oxygen into the room.",
+   "description_zh": "由 70 片玻璃叶组成的吊灯悬在 V&A，每片都是活体微藻的生物反应器；藻类在灯光下光合作用并向房间释放氧气。",
+   "idea_en": "A light fixture that exhales, turning decoration into a small metabolism.",
+   "idea_zh": "一件会呼气的灯具，把装饰变成一个小型代谢系统。",
+   "method": "Hand-blown glass leaf units hold microalgae in a nutrient medium connected by tubing; LED light drives photosynthesis and oxygen is vented into the gallery air.",
+   "method_zh": "手工吹制的玻璃叶单元用管路连接，内含营养液中的微藻；LED 光驱动光合作用，氧气排入展厅空气。",
+   "keywords": [
+    "Exhale",
+    "microalgae",
+    "V&A",
+    "bioreactor",
+    "glass"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Lxd43iH-CX0"
+   },
+   "source_url": "https://www.vam.ac.uk/"
+  },
+  {
+   "id": "orkan-telhan--bioreactors-as-fabrication",
+   "creator_ids": [
+    "orkan-telhan"
+   ],
+   "title": "Bioreactors as Additive Manufacturing Environments",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi",
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A framework and set of prototypes treating the bioreactor itself as the printer: growth conditions, not a nozzle path, define the geometry of the fabricated object.",
+   "description_zh": "一套把生物反应器本身当作打印机的框架与原型：决定物件几何的是生长条件，而不是喷头路径。",
+   "idea_en": "If the organism builds the object, the machine's job is to shape its environment.",
+   "idea_zh": "如果物体由生物建造，机器的工作就是塑造它的环境。",
+   "method": "Chambers control nutrient gradients, gas exchange, temperature and light so microbial and fungal growth deposits material in designed patterns, with fabrication parameters logged like print settings.",
+   "method_zh": "腔体控制营养梯度、气体交换、温度与光照，使微生物和真菌的生长按设计图案沉积材料，制造参数像打印设置一样被记录。",
+   "keywords": [
+    "bioreactor",
+    "additive manufacturing",
+    "biodesign tools",
+    "growth control"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5258ba2be4b0804fa254bd19/c64c93ee-247d-4869-a501-a2afd3d92b76/hyphal_chip_v1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1089/3dp.2024.0023",
+    "doi": "10.1089/3dp.2024.0023",
+    "venue": "3D Printing and Additive Manufacturing",
+    "title": "Bioreactors as Additive Manufacturing Environments"
+   },
+   "source_url": "https://www.orkantelhan.com/engineering"
+  },
+  {
+   "id": "post-carbon-lab--photosynthetic-coating",
+   "creator_ids": [
+    "post-carbon-lab"
+   ],
+   "title": "Photosynthetic Coating",
+   "year": 2019,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "algae",
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Garments are coated with live algae and cyanobacteria so the fabric photosynthesises; the colour fades if the wearer does not give the clothes light and moisture.",
+   "description_zh": "在服装上涂覆活藻与蓝细菌，让面料进行光合作用；如果穿着者不给衣服光和湿度，颜色就会褪去。",
+   "idea_en": "Clothing that has to be kept alive, so care becomes visible as colour.",
+   "idea_zh": "必须被养活的衣服，照护以颜色的形式显现。",
+   "method": "Textiles receive a coating carrying photosynthetic microorganisms in a protective matrix; the studio publishes care regimes of light exposure and misting instead of washing instructions.",
+   "method_zh": "在织物上施加含光合微生物的保护性涂层；工作室发布的是光照与喷雾的照护方案，而不是洗涤说明。",
+   "keywords": [
+    "photosynthetic textile",
+    "living coating",
+    "garment care",
+    "carbon sequestration"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png/v1/fill/w_2560,h_1396,al_c/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png"
+   ],
+   "source_url": "https://postcarbonlab.com/"
+  },
+  {
+   "id": "modern-synthesis--microbial-weaving",
+   "creator_ids": [
+    "modern-synthesis",
+    "amy-congdon"
+   ],
+   "title": "Microbial Weaving",
+   "year": 2020,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "Bacteria grow nanocellulose onto a designed textile scaffold, fusing yarn and microbial material into a single sheet used for shoes, bags and garment panels.",
+   "description_zh": "细菌在设计好的织物支架上长出纳米纤维素，把纱线与微生物材料融合成一整片，用于鞋、包和服装部件。",
+   "idea_en": "Design the scaffold and let the bacteria do the weaving.",
+   "idea_zh": "设计支架，让细菌完成编织。",
+   "method": "Komagataeibacter cultures are fed sugar and grow cellulose around a knitted or laid yarn template; the composite is then dried, finished and dyed, with pattern and thickness set by the template.",
+   "method_zh": "Komagataeibacter 培养物以糖为食，在针织或铺设的纱线模板周围生长纤维素；复合体随后干燥、后处理与染色，图案和厚度由模板决定。",
+   "keywords": [
+    "nanocellulose",
+    "Komagataeibacter",
+    "microbial weaving",
+    "leather alternative"
+   ],
+   "images": [
+    "https://admin.modernsynthesis.com/wp-content/uploads/2026/07/Homepage-Header-High.png"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jEIq_SZG1xE"
+   },
+   "source_url": "https://www.modernsynthesis.com/"
+  },
+  {
+   "id": "light-bio--firefly-petunia",
+   "creator_ids": [
+    "light-bio",
+    "karen-sarkisyan"
+   ],
+   "title": "Firefly Petunia",
+   "year": 2024,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "A white petunia carrying a fungal bioluminescence pathway glows greenish-white from its buds and flowers, and was sold to US households as an ordinary houseplant.",
+   "description_zh": "一株携带真菌发光通路的白色矮牵牛，花蕾与花朵发出青白色的光，作为普通家庭盆栽在美国出售。",
+   "idea_en": "A genetically engineered organism sold for beauty, not utility, and kept on a windowsill.",
+   "idea_zh": "一种因为美而不是用途被出售、养在窗台上的基因工程生物。",
+   "method": "Four genes of the fungus Neonothopanus nambi are inserted so the plant recycles caffeic acid into luciferin and back, producing continuous light without added chemicals.",
+   "method_zh": "插入发光菇 Neonothopanus nambi 的四个基因，让植物把咖啡酸循环转化为荧光素再回收，无需添加化学物质即持续发光。",
+   "keywords": [
+    "bioluminescence",
+    "Petunia",
+    "USDA deregulated",
+    "Neonothopanus nambi",
+    "houseplant"
+   ],
+   "images": [
+    "https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_the_dark_-_credit_to_Light_Bio_Inc.jpg?v=1730398670&width=2000",
+    "https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_daylight_-_credit_to_Light_Bio_Inc.jpg?v=1730398671&width=2000"
+   ],
+   "source_url": "https://light.bio/products/firefly-petunia"
+  },
+  {
+   "id": "karen-sarkisyan--autoluminescent-plants",
+   "creator_ids": [
+    "karen-sarkisyan"
+   ],
+   "title": "Plants with Genetically Encoded Autoluminescence",
+   "year": 2020,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Tobacco plants given the fungal bioluminescence pathway emit light bright enough to see by eye, with the glow strongest in young leaves and flowers.",
+   "description_zh": "转入真菌发光通路的烟草植物发出肉眼可见的光，幼叶和花朵最亮。",
+   "idea_en": "Self-sustaining plant light needs no chemical feeding, only the plant's own metabolism.",
+   "idea_zh": "自持的植物发光不需要喂化学试剂，只靠植物自身代谢。",
+   "method": "The caffeic acid cycle of Neonothopanus nambi — four enzymes that convert caffeic acid to luciferin, oxidise it and recycle the product — is expressed in Nicotiana tabacum.",
+   "method_zh": "把 Neonothopanus nambi 的咖啡酸循环（四种酶负责转化、氧化并回收）表达在烟草中。",
+   "keywords": [
+    "autoluminescence",
+    "caffeic acid cycle",
+    "Nicotiana tabacum",
+    "Planta",
+    "fungal luciferase"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-020-0500-9/MediaObjects/41587_2020_500_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41587-020-0500-9",
+    "doi": "10.1038/s41587-020-0500-9",
+    "venue": "Nature Biotechnology",
+    "title": "Plants with genetically encoded autoluminescence"
+   },
+   "source_url": "https://www.nature.com/articles/s41587-020-0500-9"
+  },
+  {
+   "id": "glowing-plant--glowing-plant-kickstarter",
+   "creator_ids": [
+    "glowing-plant"
+   ],
+   "title": "Glowing Plant",
+   "year": 2013,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "A Kickstarter campaign promised backers seeds of a glowing Arabidopsis engineered with firefly and bacterial luciferase genes; it raised over $480,000 and never shipped a plant that visibly glowed.",
+   "description_zh": "一个 Kickstarter 项目承诺向支持者寄送用萤火虫与细菌荧光素酶基因改造的发光拟南芥种子，筹得超过 48 万美元，却始终没能交付真正可见发光的植物。",
+   "idea_en": "Synthetic biology sold directly to consumers, before anyone had made it work.",
+   "idea_zh": "在还没有人让它真正成功之前，合成生物学就被直接卖给了消费者。",
+   "method": "Luciferase gene constructs were designed in Genome Compiler and transformed into Arabidopsis thaliana; light output stayed far below what the renderings promised, and the company later pivoted to a scented moss.",
+   "method_zh": "用 Genome Compiler 设计荧光素酶基因构件并转入拟南芥；实际发光远低于宣传图所示，公司后来转向香味苔藓。",
+   "keywords": [
+    "Kickstarter",
+    "Arabidopsis thaliana",
+    "luciferase",
+    "crowdfunding",
+    "biohacking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_CQZVWwiPbE"
+   },
+   "source_url": "https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit"
+  },
+  {
+   "id": "the-odin--diy-crispr-kit",
+   "creator_ids": [
+    "the-odin"
+   ],
+   "title": "DIY CRISPR Bacterial Gene Engineering Kit",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A boxed kit with plasmids, competent E. coli, plates and reagents that lets anyone edit a bacterial gene at a kitchen table for about the price of a phone accessory.",
+   "description_zh": "一个装有质粒、感受态大肠杆菌、培养皿和试剂的盒子，让任何人都能在餐桌上编辑细菌基因，价格相当于一个手机配件。",
+   "idea_en": "Gene editing as a shelf product, which makes access — not capability — the design question.",
+   "idea_zh": "把基因编辑做成货架商品，于是设计问题变成了「谁能接触到」，而不是「能不能做到」。",
+   "method": "The kit supplies a CRISPR plasmid and template DNA to change a single base in the E. coli rpsL gene, conferring streptomycin resistance as a visible selection, with protocols written for beginners.",
+   "method_zh": "套件提供 CRISPR 质粒与模板 DNA，用于改变大肠杆菌 rpsL 基因的单个碱基，以链霉素抗性作为可见筛选，并附初学者流程。",
+   "keywords": [
+    "CRISPR kit",
+    "DIY biology",
+    "Josiah Zayner",
+    "rpsL",
+    "biohacking"
+   ],
+   "images": [
+    "https://cdn11.bigcommerce.com/s-89v4ku3/products/195/images/1226/ChatGPT_Image_Mar_5_2026_02_50_27_PM__46930.1775622209.400.559.png?c=2"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4vmHweDC5SY"
+   },
+   "source_url": "https://www.the-odin.com/diy-crispr-kit/"
+  },
+  {
+   "id": "amino-labs--engineer-it-kit",
+   "creator_ids": [
+    "amino-labs"
+   ],
+   "title": "Engineer-it Kit and Amino Labs Minilab",
+   "year": 2015,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A set of desktop appliances and cartridge-style kits guide a beginner through transforming bacteria to produce a coloured pigment over four days.",
+   "description_zh": "一组桌面设备与卡带式套件，引导初学者在四天内转化细菌使其产生彩色色素。",
+   "idea_en": "Design the whole beginner experience, and genetic engineering becomes teachable in a classroom.",
+   "idea_zh": "把初学者的完整体验设计出来，基因工程就能在教室里被教会。",
+   "method": "The DNA Playground incubator-cooler, sterile pre-poured plates and freeze-dried reagents remove wet-lab set-up; students transform E. coli with pigment plasmids and read results by colour.",
+   "method_zh": "DNA Playground 培养/冷却器、预灌无菌培养皿和冻干试剂省去湿实验室准备；学生用色素质粒转化大肠杆菌，靠颜色读结果。",
+   "keywords": [
+    "Engineer-it Kit",
+    "DNA Playground",
+    "STEM education",
+    "pigment bacteria",
+    "Zero to Genetic Engineering Hero"
+   ],
+   "images": [
+    "https://amino.bio/cdn/shop/files/allkits_18ab326a-fe5a-4f52-99bf-57f2437646d8_1024x1024.png?v=1614278632"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZADzCQValI0"
+   },
+   "source_url": "https://amino.bio/"
+  },
+  {
+   "id": "bento-lab--portable-dna-lab",
+   "creator_ids": [
+    "bento-lab"
+   ],
+   "title": "Bento Lab",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "molecules"
+   ],
+   "kind": "product",
+   "description": "A laptop-sized case holding a centrifuge, PCR thermocycler and blue-light gel imager, designed so DNA analysis can be done in a classroom, a field station or a kitchen.",
+   "description_zh": "一个笔记本大小的箱子，内含离心机、PCR 仪和蓝光凝胶成像器，让 DNA 分析可以在教室、野外站点或厨房完成。",
+   "idea_en": "Industrial design turns a room full of equipment into a piece of luggage.",
+   "idea_zh": "工业设计把一整间设备变成一件行李。",
+   "method": "Three miniaturised instruments share one enclosure and power supply, with a simplified interface and consumables sized for small sample numbers.",
+   "method_zh": "三台微型仪器共用一个机身和电源，界面简化，耗材按小样本量设计。",
+   "keywords": [
+    "portable DNA lab",
+    "PCR",
+    "citizen science",
+    "industrial design",
+    "Kickstarter"
+   ],
+   "images": [
+    "https://cdn.bento.bio/app/uploads/bento_lab_product_picture-white.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-Tlq-BTE0FE"
+   },
+   "source_url": "https://bento.bio/product/bento-lab/"
+  },
+  {
+   "id": "genspace--community-biolab",
+   "creator_ids": [
+    "genspace"
+   ],
+   "title": "Genspace Community Biology Lab",
+   "year": 2009,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "The first community biolab open to the public: a BSL-1 space in Brooklyn where artists, designers, students and amateurs run biotechnology projects with shared equipment and supervision.",
+   "description_zh": "第一家向公众开放的社区生物实验室：位于布鲁克林的 BSL-1 空间，艺术家、设计师、学生和业余爱好者在共享设备与指导下开展生物技术项目。",
+   "idea_en": "A membership lab is the infrastructure that lets non-scientists design with life.",
+   "idea_zh": "会员制实验室是让非科学家也能与生命一起设计的基础设施。",
+   "method": "Genspace runs a certified biosafety level 1 lab with classes, residencies and open nights, so projects that need sterile technique and equipment do not need a university affiliation.",
+   "method_zh": "Genspace 运营经认证的一级生物安全实验室，提供课程、驻留与开放之夜，让需要无菌操作和设备的项目不再依赖大学身份。",
+   "keywords": [
+    "community biolab",
+    "DIYbio",
+    "Ellen Jorgensen",
+    "Brooklyn",
+    "biosafety level 1"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/588b7cc315d5dbdea1425e5e/45081f2d-2c8a-497a-9842-25822a1536be/Website+Banner+.png"
+   ],
+   "source_url": "https://www.genspace.org/about"
+  },
+  {
+   "id": "biorealize--microbial-design-studio",
+   "creator_ids": [
+    "biorealize",
+    "orkan-telhan"
+   ],
+   "title": "Microbial Design Studio",
+   "year": 2015,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A desktop appliance that automates culturing, sampling and harvesting of microbes, with cartridges so a designer can run parallel experiments on pigments, scents or flavours.",
+   "description_zh": "一台自动完成微生物培养、取样与收获的桌面设备，用卡盒让设计师并行测试色素、香气或风味。",
+   "idea_en": "Give designers a machine that treats living cultures like a job queue.",
+   "idea_zh": "给设计师一台把活体培养物当作任务队列来管理的机器。",
+   "method": "Small bioreactor chambers with controlled temperature, agitation and dosing run programmed protocols; an interface schedules growth, induction and harvesting without manual pipetting.",
+   "method_zh": "带温控、搅拌和加液控制的小型生物反应器腔执行预设流程；界面安排生长、诱导与收获，无需手动移液。",
+   "keywords": [
+    "Microbial Design Studio",
+    "bioreactor",
+    "biodesign tool",
+    "pigments",
+    "University of Pennsylvania"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5258ba2be4b0804fa254bd19/1677190447163-6BHWAZ2LD0HDQOH9TGAZ/microbial_kit.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=c7KR1K9lIVs"
+   },
+   "source_url": "https://www.biorealize.com/"
+  },
+  {
+   "id": "natsai-audrey-chieza--normal-phenomena-of-life",
+   "creator_ids": [
+    "natsai-audrey-chieza",
+    "ginkgo-bioworks"
+   ],
+   "title": "Normal Phenomena of Life",
+   "year": 2023,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A consumer brand built by Faber Futures with Ginkgo Bioworks that sells biodesign products — microbially dyed garments, prints, skincare — as ordinary retail rather than lab demonstrations.",
+   "description_zh": "Faber Futures 与 Ginkgo Bioworks 共同创立的消费品牌，把生物设计产品（微生物染色服装、版画、护肤品）当作普通零售商品出售，而不是实验室演示。",
+   "idea_en": "Biotechnology needs a retail language before it becomes part of daily life.",
+   "idea_zh": "生物技术要进入日常生活，先需要一套零售语言。",
+   "method": "The brand commissions and curates products made with biological processes — Streptomyces pigment dyeing among them — and publishes the provenance of each organism and process alongside the product.",
+   "method_zh": "品牌委托并策划以生物过程制造的产品（其中包括 Streptomyces 色素染色），并把每种生物和工艺的来龙去脉与产品一起公布。",
+   "keywords": [
+    "Normal Phenomena of Life",
+    "Faber Futures",
+    "Ginkgo Bioworks",
+    "Streptomyces coelicolor",
+    "biodesign brand"
+   ],
+   "images": [
+    "https://faberfutures.com/wp-content/uploads/2023/11/FF_NPOL_Website-Feature_Listing-Page_03.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oIzinzHQcWg"
+   },
+   "source_url": "https://faberfutures.com/projects/normal-phenomena-of-life/"
+  },
+  {
+   "id": "living-ink--algae-ink",
+   "creator_ids": [
+    "living-ink"
+   ],
+   "title": "Algae Ink",
+   "year": 2019,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "product",
+   "description": "A black pigment made from algae biomass replaces petroleum carbon black in screen printing and packaging inks, and is used on apparel by Patagonia and Nike.",
+   "description_zh": "用藻类生物质制成的黑色颜料替代丝网印刷与包装油墨中的石油炭黑，已被 Patagonia、Nike 等品牌用在服装上。",
+   "idea_en": "Swapping the source of one industrial pigment changes the footprint of everything printed with it.",
+   "idea_zh": "换掉一种工业颜料的来源，所有用它印刷的东西的足迹都会改变。",
+   "method": "Spent algae biomass from other industries is carbonised and milled into a dispersible black pigment that drops into existing ink formulations without new printing equipment.",
+   "method_zh": "把其他产业的废弃藻类生物质碳化、研磨成可分散的黑色颜料，直接替换现有油墨配方，无需更换印刷设备。",
+   "keywords": [
+    "Algae Ink",
+    "carbon black replacement",
+    "screen printing",
+    "Living Ink Technologies"
+   ],
+   "images": [
+    "https://static1.squarespace.com/static/65662abc8bc75834d74f34c2/t/673cd312b414ac2a24a82a3b/1732039460395/P%2BC-Living+Ink-316.jpg?format=1500w"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=85T_T9Ot-E0"
+   },
+   "source_url": "https://www.livingink.co/"
+  },
+  {
+   "id": "huue--biosynthetic-indigo",
+   "creator_ids": [
+    "huue"
+   ],
+   "title": "Huue Biosynthetic Indigo",
+   "year": 2019,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "Engineered bacteria make indigo dye through an enzyme pathway, so denim can be dyed without the cyanide, formaldehyde and harsh reducing agents of synthetic indigo.",
+   "description_zh": "工程细菌通过酶通路生产靛蓝染料，牛仔布染色因此不再需要合成靛蓝所用的氰化物、甲醛和强还原剂。",
+   "idea_en": "Redesign the synthesis route and a polluting colour becomes a fermentation product.",
+   "idea_zh": "重新设计合成路线，一种污染性的颜色就变成了发酵产物。",
+   "method": "Enzymes from indigo-producing plants are expressed in bacteria that convert a sugar feedstock into indican and then indigo, dyeing fabric in a mild aqueous process.",
+   "method_zh": "把产靛植物的酶表达在细菌中，将糖类原料转化为靛苷再转为靛蓝，以温和的水相工艺染色。",
+   "keywords": [
+    "indigo",
+    "denim",
+    "precision fermentation",
+    "enzymatic dyeing",
+    "Berkeley"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=2t_hg33RtQI"
+   },
+   "source_url": "https://www.huue.bio/"
+  },
+  {
+   "id": "pili--biofabricated-colour",
+   "creator_ids": [
+    "pili"
+   ],
+   "title": "Pili Biofabricated Dyes and Inks",
+   "year": 2015,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A project that began as growing ink from bacteria in a Paris community lab now ferments and finishes bio-based dyes and pigments for textiles and printing.",
+   "description_zh": "这个项目起初在巴黎社区实验室里用细菌生长墨水，如今以发酵和后处理方式为纺织与印刷生产生物基染料和颜料。",
+   "idea_en": "Colour can be grown and then taken through the same industrial chemistry as any dye.",
+   "idea_zh": "颜色可以先被生长出来，再走和任何染料一样的工业化学流程。",
+   "method": "Microbial fermentation produces aromatic precursor molecules that are chemically finished into dyes and pigments, avoiding petrochemical feedstocks while matching industrial colour standards.",
+   "method_zh": "微生物发酵产生芳香前体分子，再经化学后处理成为染料和颜料，避开石化原料同时满足工业色彩标准。",
+   "keywords": [
+    "bio-based dye",
+    "fermentation",
+    "La Paillasse",
+    "textile colour",
+    "Toulouse"
+   ],
+   "images": [
+    "https://www.pili.bio/wp-content/uploads/2024/10/e4fc3802-0167-4461-bc3f-6954387fbeb1-773d8194-918d-4f56-b738-21759f9465df-pili-hero2.webp"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=iscwuujSr_8"
+   },
+   "source_url": "https://www.pili.bio/"
+  },
+  {
+   "id": "amsilk--futurecraft-biofabric",
+   "creator_ids": [
+    "amsilk"
+   ],
+   "title": "adidas Futurecraft Biofabric",
+   "year": 2016,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A running shoe prototype whose upper is knitted from AMSilk's Biosteel fibre, a fermented silk protein, presented as fully biodegradable in a protease solution.",
+   "description_zh": "一款跑鞋原型，鞋面用 AMSilk 发酵丝蛋白纤维 Biosteel 编织，宣称在蛋白酶溶液中可完全降解。",
+   "idea_en": "A mass-market shoe whose material can be dissolved on purpose at the end of its life.",
+   "idea_zh": "一双大众市场的鞋，其材料在寿命终点可以被有意溶解。",
+   "method": "Spider-silk-like proteins produced by fermenting engineered bacteria are spun into Biosteel fibre, knitted into an upper that degrades when exposed to the enzyme proteinase.",
+   "method_zh": "用工程细菌发酵生产类蜘蛛丝蛋白，纺成 Biosteel 纤维并编织成鞋面，遇蛋白酶即降解。",
+   "keywords": [
+    "Biosteel",
+    "adidas",
+    "spider silk protein",
+    "biodegradable footwear"
+   ],
+   "images": [
+    "https://www.amsilk.com/app/uploads/AMSilk_employees-inspecting-a-biotech-silk-protein-fiber-spool-_fotocredit_@AMSilk-1024x683.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_RchPGsnHx8"
+   },
+   "source_url": "https://www.amsilk.com/"
+  },
+  {
+   "id": "impossible-foods--soy-leghemoglobin",
+   "creator_ids": [
+    "impossible-foods"
+   ],
+   "title": "Soy Leghemoglobin (Impossible Burger heme)",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "molecules",
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A plant protein normally found in soy root nodules is produced in engineered yeast and added to a plant burger to give it the smell, colour change and taste of cooking meat.",
+   "description_zh": "一种通常存在于大豆根瘤中的蛋白，被用工程酵母生产并加入植物汉堡，使其具有煎肉时的气味、变色和味道。",
+   "idea_en": "Identify the single molecule that reads as meat, then ferment it.",
+   "idea_zh": "找出那个让人读作「肉」的单一分子，然后发酵它。",
+   "method": "The soy leghemoglobin gene is expressed in Pichia pastoris yeast and the purified heme protein is blended into a plant-protein patty, where it drives Maillard reactions during frying.",
+   "method_zh": "把大豆血红蛋白基因表达在毕赤酵母中，纯化后的血红素蛋白混入植物蛋白肉饼，在煎制时驱动美拉德反应。",
+   "keywords": [
+    "soy leghemoglobin",
+    "Pichia pastoris",
+    "precision fermentation",
+    "food design",
+    "FDA GRAS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n6U4H8WC9jg"
+   },
+   "source_url": "https://impossiblefoods.com/heme"
+  },
+  {
+   "id": "yorktown-technologies--glofish",
+   "creator_ids": [
+    "yorktown-technologies"
+   ],
+   "title": "GloFish",
+   "year": 2003,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Fluorescent transgenic zebrafish, first engineered in Singapore as water pollution sensors, were licensed and sold in US pet shops as the first genetically modified pet.",
+   "description_zh": "最初在新加坡被改造为水污染传感器的荧光转基因斑马鱼，经授权在美国宠物店出售，成为第一种转基因宠物。",
+   "idea_en": "A research organism became an ornament, and regulation had to catch up with the aquarium trade.",
+   "idea_zh": "一种研究生物变成了装饰品，监管只能追着水族贸易跑。",
+   "method": "Zebrafish carry fluorescent protein genes from jellyfish and coral under constitutive promoters, so the colour is inherited; the line was commercialised without FDA objection in 2003.",
+   "method_zh": "斑马鱼在组成型启动子下携带来自水母与珊瑚的荧光蛋白基因，颜色可遗传；该品系于 2003 年在 FDA 未异议的情况下商业化。",
+   "keywords": [
+    "GloFish",
+    "transgenic pet",
+    "GFP",
+    "zebrafish",
+    "regulation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Kn-eQFbrXiI"
+   },
+   "source_url": "https://www.glofish.com/"
+  },
+  {
+   "id": "christina-agapakis--designing-synthetic-biology",
+   "creator_ids": [
+    "christina-agapakis"
+   ],
+   "title": "Designing Synthetic Biology",
+   "year": 2014,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "An essay arguing that synthetic biology's engineering metaphors — parts, circuits, chassis — are design choices, and that collaboration with designers changes what gets built.",
+   "description_zh": "一篇论文指出，合成生物学的工程隐喻（零件、电路、底盘）本身就是设计选择，与设计师合作会改变被造出来的东西。",
+   "idea_en": "The metaphors a field designs with decide the organisms it produces.",
+   "idea_zh": "一个领域用来设计的隐喻，决定了它产出什么样的生物。",
+   "method": "A critical review from inside the field, comparing engineering-driven abstraction with design and craft practices, drawing on the author's residencies with artists and designers.",
+   "method_zh": "来自领域内部的批判性综述，把工程式抽象与设计、手艺实践对照，并援引作者与艺术家、设计师的驻留经验。",
+   "keywords": [
+    "synthetic biology",
+    "design theory",
+    "abstraction",
+    "Synthetic Aesthetics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1021/sb4001068",
+    "doi": "10.1021/sb4001068",
+    "venue": "ACS Synthetic Biology",
+    "title": "Designing Synthetic Biology"
+   },
+   "source_url": "https://doi.org/10.1021/sb4001068"
+  },
+  {
+   "id": "bcl--common-flowers",
+   "creator_ids": [
+    "bcl"
+   ],
+   "title": "Common Flowers / Flower Commons",
+   "year": 2009,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "BCL bought Suntory's genetically modified blue carnation, cloned it from cut flowers with a kitchen tissue-culture protocol, and released the plants and the method as a commons.",
+   "description_zh": "BCL 买来三得利的转基因蓝色康乃馨，用可在厨房完成的组织培养流程从切花克隆出植株，并把植株与方法作为公共物释放。",
+   "idea_en": "If a company patents a living thing, cloning it in a kitchen is a political act.",
+   "idea_zh": "当一家公司为一个生物申请专利时，在厨房里克隆它就是一种政治行动。",
+   "method": "Cut Moondust carnations are surface-sterilised and propagated in vitro on home-made media; the resulting plants are distributed with the protocol so others can reproduce the GM organism.",
+   "method_zh": "把 Moondust 康乃馨切花表面消毒后在自制培养基上离体繁殖；所得植株连同流程一起分发，让他人也能复制这种转基因生物。",
+   "keywords": [
+    "Suntory Moondust",
+    "transgenic carnation",
+    "tissue culture",
+    "biopiracy",
+    "commons"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=VhzRSjDUciE"
+   },
+   "source_url": "https://bcl.io/"
+  },
+  {
+   "id": "bcl--biopresence",
+   "creator_ids": [
+    "bcl",
+    "joe-davis"
+   ],
+   "title": "Biopresence",
+   "year": 2005,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants",
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "A service proposing living memorials: a person's DNA is encoded into the genome of a tree using Joe Davis's transcription method, making the tree a carrier of memory without changing how it grows.",
+   "description_zh": "一项提出「活体纪念碑」的服务：用 Joe Davis 的转写方法把某人的 DNA 编码进树的基因组，让树成为记忆载体，而不改变它的生长方式。",
+   "idea_en": "A grave that grows, with the person's code written into non-coding DNA.",
+   "idea_zh": "一座会生长的墓：人的编码被写进非编码 DNA 中。",
+   "method": "Human DNA sequence is translated by Davis's DNA Manifold algorithm into a sequence inserted into the tree genome at sites chosen to leave phenotype unchanged; the project was framed as a commercial service.",
+   "method_zh": "用 Davis 的 DNA Manifold 算法把人类 DNA 序列转写成插入树基因组的序列，插入位点选在不改变表型之处；项目以商业服务的形式呈现。",
+   "keywords": [
+    "Biopresence",
+    "transgenic tree",
+    "DNA Manifold",
+    "memorial",
+    "Georg Tremmel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hjrY36VD82I"
+   },
+   "source_url": "https://bcl.io/"
+  },
+  {
+   "id": "ai-hasegawa--impossible-baby",
+   "creator_ids": [
+    "ai-hasegawa"
+   ],
+   "title": "(Im)possible Baby",
+   "year": 2015,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "humans",
+    "molecules"
+   ],
+   "kind": "speculative",
+   "description": "Using the genome data of a real same-sex couple, the project simulates the children they could have and presents them as a family photo album and a television documentary.",
+   "description_zh": "项目用一对真实同性伴侣的基因组数据模拟他们可能拥有的孩子，并以家庭相册和电视纪录片的形式呈现。",
+   "idea_en": "Make the speculative child concrete enough that the family, and the law, have to respond.",
+   "idea_zh": "把思辨中的孩子做得足够具体，让家庭和法律都不得不回应。",
+   "method": "Consumer genotyping data from both partners is combined to predict plausible offspring traits, which are used to generate portraits and staged family scenes, aired on NHK in Japan.",
+   "method_zh": "把双方的消费级基因检测数据结合，预测可能的后代特征，据此生成肖像与家庭场景，并在日本 NHK 播出。",
+   "keywords": [
+    "same-sex reproduction",
+    "genome data",
+    "speculative family",
+    "NHK"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Bz933usY7E8"
+   },
+   "source_url": "https://www.japansociety.org/"
+  },
+  {
+   "id": "agi-haines--transfigurations",
+   "creator_ids": [
+    "agi-haines"
+   ],
+   "title": "Transfigurations",
+   "year": 2013,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "Silicone infant models show surgical modifications a parent might choose — a heat-dissipating skull, a caffeine-absorbing patch, a facial change for social advantage.",
+   "description_zh": "硅胶婴儿模型展示父母可能选择的手术改造：散热的头骨、吸收咖啡因的贴片、为社会优势而做的面部改变。",
+   "idea_en": "If the body is designable, the first client is a parent making decisions for someone else.",
+   "idea_zh": "如果身体是可设计的，第一个客户是替别人做决定的父母。",
+   "method": "Hyper-real silicone babies are sculpted with plausible post-operative results, presented as if from a medical catalogue to test where a viewer's objection begins.",
+   "method_zh": "用超写实硅胶雕塑出貌似术后的婴儿，以医疗图册的口吻呈现，测试观众的反对从哪里开始。",
+   "keywords": [
+    "speculative surgery",
+    "body design",
+    "silicone models",
+    "design fiction"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/82b477_8c7c0a19de57410483df6a884d1b2256~mv2_d_5616_3744_s_4_2.jpg/v1/fill/w_2500,h_1666,al_c/82b477_8c7c0a19de57410483df6a884d1b2256~mv2_d_5616_3744_s_4_2.jpg"
+   ],
+   "source_url": "https://www.agihaines.com/transfigurations"
+  },
+  {
+   "id": "agi-haines--circumventive-organs",
+   "creator_ids": [
+    "agi-haines"
+   ],
+   "title": "Circumventive Organs",
+   "year": 2013,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "Three fictional organs printed from a mix of cells taken from different species and body parts, each designed to pre-empt a specific medical emergency.",
+   "description_zh": "三个虚构器官，由取自不同物种和身体部位的细胞混合打印而成，各自用于预先阻止一种特定的医疗紧急情况。",
+   "idea_en": "If organs can be printed from mixed cells, medicine starts designing new organs, not repairing old ones.",
+   "idea_zh": "如果器官能用混合细胞打印，医学就会开始设计新器官，而不是修补旧的。",
+   "method": "Each proposal recombines known cell behaviours — electric eel electrocytes, rattlesnake muscle, tracheal cilia — into a printable organ, realised as a detailed physical model.",
+   "method_zh": "每个方案把已知的细胞行为（电鳗发电细胞、响尾蛇肌肉、气管纤毛）重组成一个可打印器官，并做成精细实物模型。",
+   "keywords": [
+    "speculative organs",
+    "bioprinting",
+    "electrocytes",
+    "design fiction"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/82b477_fa6dda32e4534e318d9ff2b0a52f76b0.jpg/v1/fit/w_2500,h_1330,al_c/82b477_fa6dda32e4534e318d9ff2b0a52f76b0.jpg"
+   ],
+   "source_url": "https://www.agihaines.com/circumventive-organs"
+  },
+  {
+   "id": "burton-nitta--algaculture",
+   "creator_ids": [
+    "burton-nitta"
+   ],
+   "title": "Algaculture",
+   "year": 2010,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A wearable symbiosis suit of glass tubes lets a person grow and drink algae fed by their own exhaled breath and sunlight, proposing partly photosynthetic humans.",
+   "description_zh": "一件由玻璃管构成的共生服装，让人用自己呼出的气与阳光培养并饮用藻类，提出部分靠光合作用生存的人类。",
+   "idea_en": "Design the human into the food chain rather than at the end of it.",
+   "idea_zh": "把人设计进食物链里，而不是放在食物链末端。",
+   "method": "Blown-glass vessels worn on the body circulate a microalgae culture that takes in exhaled carbon dioxide and light; the wearer drinks the culture, a scenario developed with algae researchers.",
+   "method_zh": "佩戴在身上的吹制玻璃容器循环微藻培养液，吸收呼出的二氧化碳与光照；佩戴者饮用培养液，该情境与藻类研究者共同开发。",
+   "keywords": [
+    "symbiosis suit",
+    "Spirulina",
+    "photosynthetic human",
+    "wearable",
+    "Algae Opera"
+   ],
+   "images": [
+    "https://www.burtonnitta.co.uk/Algaculture/AlgacultureBurtonNitta.jpg",
+    "https://www.burtonnitta.co.uk/Algaculture/AlgacultureBurtonNitta3.jpg"
+   ],
+   "source_url": "https://www.burtonnitta.co.uk/algaculture.html"
+  },
+  {
+   "id": "dunne-raby--foragers",
+   "creator_ids": [
+    "dunne-raby"
+   ],
+   "title": "Designs for an Overpopulated Planet: Foragers",
+   "year": 2009,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "humans",
+    "bacteria"
+   ],
+   "kind": "speculative",
+   "description": "Prototypes of digestive devices for people who, facing food scarcity, use synthetic biology and animal digestion to extract nutrition from roadside plants.",
+   "description_zh": "为面对粮食短缺的人设计的消化装置原型：他们借合成生物学与动物的消化方式，从路边植物中获取营养。",
+   "idea_en": "Take matters into your own gut: DIY biology as survival equipment.",
+   "idea_zh": "把事情交给自己的肠道：把 DIY 生物学当作生存装备。",
+   "method": "Each foraging device combines mechanical processing with cultures and enzymes borrowed from ruminants and microbes, presented as worn prototypes with a field film.",
+   "method_zh": "每件觅食装置把机械处理与取自反刍动物和微生物的培养物、酶结合，以佩戴原型和田野影片呈现。",
+   "keywords": [
+    "critical design",
+    "synthetic biology",
+    "food scarcity",
+    "Protofarm 2050",
+    "design fiction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=gjEaIiCzMnQ"
+   },
+   "source_url": "https://dunneandraby.co.uk/"
+  },
+  {
+   "id": "gina-czarnecki--heirloom",
+   "creator_ids": [
+    "gina-czarnecki"
+   ],
+   "title": "Heirloom",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Living portraits of the artist's two daughters, grown from their own skin cells onto glass casts of their faces, made with cell biologist John Hunt.",
+   "description_zh": "艺术家两个女儿的活体肖像：用她们自身的皮肤细胞在其面部玻璃铸型上培养而成，与细胞生物学家 John Hunt 合作。",
+   "idea_en": "A family portrait made of the sitter, which has to be fed to stay a likeness.",
+   "idea_zh": "一幅由被画者本人构成的家庭肖像，必须被喂养才能维持相似。",
+   "method": "Skin cells taken from the daughters are cultured onto glass face casts in a bioreactor over months; the growing cell sheet gradually takes on the features of the cast.",
+   "method_zh": "取自女儿的皮肤细胞在生物反应器中于玻璃面模上培养数月，生长的细胞层逐渐呈现出面模的特征。",
+   "keywords": [
+    "cell culture",
+    "portraiture",
+    "bioart",
+    "Liverpool",
+    "John Hunt"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Uk70Yd02Dg4"
+   },
+   "source_url": "https://ginaczarnecki.com/"
+  },
+  {
+   "id": "amy-congdon--biological-atelier",
+   "creator_ids": [
+    "amy-congdon"
+   ],
+   "title": "Biological Atelier",
+   "year": 2013,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "speculative",
+   "description": "A fictional couture house whose collections are grown rather than sewn: ivory jewellery, shark-tooth pieces and skin textiles cultured from cells on embroidered scaffolds.",
+   "description_zh": "一个虚构的高级定制工坊，其系列是生长出来而非缝制出来的：象牙首饰、鲨齿饰品和在刺绣支架上培养的皮肤织物。",
+   "idea_en": "If materials are grown, luxury can use ivory and skin without any animal.",
+   "idea_zh": "如果材料是生长出来的，奢侈品就能用象牙和皮肤，而不需要动物。",
+   "method": "Digitally embroidered scaffolds are seeded with cells in a lab, and the resulting samples are presented as seasonal collections with fabricated brand and process documentation.",
+   "method_zh": "把数码刺绣支架在实验室接种细胞，所得样本以季节系列的形式呈现，并配有虚构的品牌与工艺文档。",
+   "keywords": [
+    "speculative couture",
+    "tissue engineered textiles",
+    "embroidery scaffold",
+    "SS 2082"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52ffae96e4b01936eeb0e979/1472064587398-1OCH4P0T9SPZH2ZL2Z7O/Amy+Congdon_Biological+Atelier_1.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CGo91FB1zKg"
+   },
+   "source_url": "https://www.amycongdon.com/biological-atelier-ss-2082-extinct"
+  },
+  {
+   "id": "amy-congdon--tissue-engineered-textiles",
+   "creator_ids": [
+    "amy-congdon"
+   ],
+   "title": "Tissue Engineered Textiles",
+   "year": 2015,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "prototype",
+   "description": "A working research practice in which embroidered scaffolds are seeded with cells in a tissue-culture lab, producing sample books of textiles that were grown in place.",
+   "description_zh": "一项实际的研究实践：在组织培养实验室把细胞播种到刺绣支架上，做出「原位生长」的织物样本册。",
+   "idea_en": "Bring the craft methods of textile design — sampling, stitching, archives — into the cell lab.",
+   "idea_zh": "把纺织设计的手艺方法——打样、缝制、样本档案——带进细胞实验室。",
+   "method": "Scaffolds embroidered from silk and degradable threads are sterilised, seeded with fibroblasts or osteoblasts and cultured; stitch density and thread choice control where tissue forms.",
+   "method_zh": "用丝线与可降解线刺绣的支架经灭菌后接种成纤维细胞或成骨细胞培养；针迹密度与线材选择决定组织在哪里形成。",
+   "keywords": [
+    "tissue engineering",
+    "embroidery",
+    "material sampling",
+    "SymbioticA",
+    "Cooper Hewitt"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52ffae96e4b01936eeb0e979/1472064691139-LJTNQHX7PPFW9RPGEYF9/Amy+Congdon_Biological+Atelier+AW+2082_3.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PVEoXq_QwmU"
+   },
+   "source_url": "https://www.amycongdon.com/tissue-engineered-textiles"
+  },
+  {
+   "id": "charlotte-jarvis--in-posse",
+   "creator_ids": [
+    "charlotte-jarvis"
+   ],
+   "title": "In Posse",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "With stem cell scientist Susana Chuva de Sousa Lopes, Jarvis works towards making sperm from a female body, alongside a 'female' semen made from the bodily fluids of many contributors.",
+   "description_zh": "Jarvis 与干细胞科学家 Susana Chuva de Sousa Lopes 合作，试图用女性身体制造精子，并以众多参与者的体液制成一份「女性」精液。",
+   "idea_en": "Unmake one of biology's assumed asymmetries and see what social forms follow.",
+   "idea_zh": "拆掉生物学中一项被默认的不对称，看看随之而来的社会形式。",
+   "method": "Induced pluripotent stem cells from the artist are differentiated towards germ cells in the Leiden lab, while a plasma-like 'semen' is composed from donated fluids and used in performances.",
+   "method_zh": "艺术家的诱导多能干细胞在莱顿实验室向生殖细胞方向分化；同时用捐赠体液配制类血浆「精液」，用于表演。",
+   "keywords": [
+    "iPSC",
+    "germ cells",
+    "feminist biology",
+    "Leiden UMC",
+    "performance"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=o0bcNLzp_y8"
+   },
+   "source_url": "https://sheffdocfest.com/films/in-posse/"
+  },
+  {
+   "id": "center-for-genomic-gastronomy--glowing-sushi",
+   "creator_ids": [
+    "center-for-genomic-gastronomy"
+   ],
+   "title": "Glowing Sushi Cooking Show",
+   "year": 2011,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A cooking show in which fluorescent GM aquarium fish are prepared as sushi, using a pet-shop transgenic animal to make debates about GM food edible.",
+   "description_zh": "一场烹饪节目，把荧光转基因观赏鱼做成寿司，用宠物店里的转基因动物把关于转基因食品的争论变成可以吃的东西。",
+   "idea_en": "Serve the genetically modified organism that is already legal and watch the argument change.",
+   "idea_zh": "把已经合法的转基因生物端上桌，看争论如何转向。",
+   "method": "GloFish bought as pets are filleted and served under UV light in a performed cooking show, with the legal and regulatory status of each organism discussed as part of the recipe.",
+   "method_zh": "把作为宠物购买的 GloFish 切片，在紫外光下的表演式烹饪节目中端上，并把每种生物的法律与监管状态作为食谱的一部分讨论。",
+   "keywords": [
+    "GloFish",
+    "GM food",
+    "performance cooking",
+    "Science Gallery Dublin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dxJWngFe00E"
+   },
+   "source_url": "https://genomicgastronomy.com/"
+  },
+  {
+   "id": "orkan-telhan--salivations",
+   "creator_ids": [
+    "orkan-telhan"
+   ],
+   "title": "Salivations",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Chewing gum chewed by four displaced dogs is cast into architectural forms and paired with DNA sequencing of the microbes that the dogs and their humans share.",
+   "description_zh": "四只流离失所的狗咀嚼过的口香糖被铸成建筑形态，并配以对狗与主人共享微生物的 DNA 测序结果。",
+   "idea_en": "Shared saliva as evidence of shared life: a microbiome as a record of migration.",
+   "idea_zh": "共享的唾液作为共同生活的证据：微生物组是一份迁徙记录。",
+   "method": "Gum chewed by the dogs is collected, sterilised and formed into structures with the architecture collective elii; DNA from the samples is sequenced to identify shared oral microbiota.",
+   "method_zh": "收集狗咀嚼过的口香糖，灭菌后与建筑团体 elii 一起塑成结构；对样本 DNA 测序以识别共享的口腔微生物群。",
+   "keywords": [
+    "Triennale Milano",
+    "We the Bacteria",
+    "microbiome",
+    "displacement",
+    "elii"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5258ba2be4b0804fa254bd19/1754594952210-4HY9KGSS6DBR5WNOPU9A/salivations03.png"
+   ],
+   "source_url": "https://www.orkantelhan.com/salivations"
+  },
+  {
+   "id": "jennifer-lewis--thick-vascularized-tissues",
+   "creator_ids": [
+    "jennifer-lewis"
+   ],
+   "title": "Three-Dimensional Bioprinting of Thick Vascularized Tissues",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "Printed tissue more than a centimetre thick is kept alive for six weeks by perfusing its printed vascular network on a chip, with bone cells maturing inside.",
+   "description_zh": "厚度超过一厘米的打印组织，通过芯片上打印出的血管网络灌流，存活六周，内部的骨细胞持续成熟。",
+   "idea_en": "Thickness is a plumbing problem, and printed plumbing plus perfusion solves it.",
+   "idea_zh": "厚度是管路问题，而打印出的管路加上灌流解决了它。",
+   "method": "Cell-laden inks, extracellular matrix and a fugitive ink are co-printed inside a perfusion chip; after the fugitive ink is removed, endothelial cells line the channels and medium is pumped for weeks.",
+   "method_zh": "载细胞墨水、细胞外基质与逃逸墨水在灌流芯片内共同打印；去除逃逸墨水后，内皮细胞铺衬通道，培养液连续泵送数周。",
+   "keywords": [
+    "thick tissue",
+    "perfusion chip",
+    "osteogenic differentiation",
+    "fugitive ink"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1073/pnas.1521342113",
+    "doi": "10.1073/pnas.1521342113",
+    "venue": "PNAS",
+    "title": "Three-dimensional bioprinting of thick vascularized tissues"
+   },
+   "source_url": "https://lewisgroup.seas.harvard.edu/"
+  },
+  {
+   "id": "jennifer-lewis--reconstruct",
+   "creator_ids": [
+    "jennifer-lewis"
+   ],
+   "title": "ReConstruct: 3D Bioprinted Vascularized Fat Tissue",
+   "year": 2023,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "prototype",
+   "description": "Printed vascularised fat tissue is developed as a soft-tissue graft for breast reconstruction after mastectomy, built from a patient's own cells.",
+   "description_zh": "打印出的血管化脂肪组织被开发为乳房切除术后重建用的软组织移植物，以病人自身细胞构建。",
+   "idea_en": "Design the replacement for soft tissue, not just the structural parts of the body.",
+   "idea_zh": "要设计的是软组织的替代物，而不只是身体的结构件。",
+   "method": "Adipose-derived stem cells and endothelial cells are printed as organ building blocks with embedded vascular channels, then perfused so the graft survives at clinically useful volumes.",
+   "method_zh": "把脂肪来源干细胞与内皮细胞作为器官构件打印，内嵌血管通道，再灌流使移植物在临床所需体积下存活。",
+   "keywords": [
+    "breast reconstruction",
+    "adipose tissue",
+    "vascularisation",
+    "Wyss Institute"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=g12qpAAqg6o"
+   },
+   "source_url": "https://wyss.harvard.edu/"
+  },
+  {
+   "id": "natsai-audrey-chieza--quorum",
+   "creator_ids": [
+    "natsai-audrey-chieza"
+   ],
+   "title": "Quorum",
+   "year": 2025,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Faber Futures and Evolutor evolve mixed microbial communities that eat food-industry waste — oat milk residue, restaurant waste — and return high-performance textile pigments.",
+   "description_zh": "Faber Futures 与 Evolutor 培育混合微生物群落，让它们以食品工业废料（燕麦奶残渣、餐厅废弃物）为食，产出高性能纺织颜料。",
+   "idea_en": "Design the microbial community and the waste stream together, not the organism alone.",
+   "idea_zh": "要一起设计微生物群落和废料流，而不是只设计单一生物。",
+   "method": "Streptomyces consortia are directed-evolved to digest complex sugars from specific waste streams; pigment output is characterised for textile dyeing and documented as a regenerative production system.",
+   "method_zh": "用定向进化让 Streptomyces 群落消化特定废料流中的复杂糖类；对色素产出进行纺织染色表征，并作为再生生产体系记录下来。",
+   "keywords": [
+    "Quorum",
+    "Streptomyces",
+    "waste feedstock",
+    "directed evolution",
+    "Evolutor"
+   ],
+   "images": [
+    "https://faberfutures.com/wp-content/uploads/2025/05/Faber-Futures_QUORUM_4-768x1024.jpeg"
+   ],
+   "source_url": "https://faberfutures.com/projects/quorum/"
+  },
+  {
+   "id": "ecovative--mybacon",
+   "creator_ids": [
+    "ecovative"
+   ],
+   "title": "MyBacon (MyForest Foods)",
+   "year": 2021,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Slabs of pure mycelium grown in vertical farms are cured and sliced into bacon strips, sold in supermarkets as a whole-cut meat alternative with no extrusion.",
+   "description_zh": "在垂直农场生长的纯菌丝体块经腌制后切成培根片，作为无需挤压成型的整块肉替代品在超市出售。",
+   "idea_en": "Grow the whole cut instead of assembling it, and the fungus supplies the fibre structure.",
+   "idea_zh": "直接长出整块，而不是拼装出来，纤维结构由真菌提供。",
+   "method": "Ecovative's aerial mycelium process grows dense mats of Ostreatus mycelium on a nutrient tray in days; the mats are cured with salt and coconut fat and cut across the grain.",
+   "method_zh": "Ecovative 的气生菌丝工艺在营养托盘上数天内长出致密的平菇菌丝垫；菌丝垫用盐和椰子油腌制，再横纹切片。",
+   "keywords": [
+    "aerial mycelium",
+    "MyForest Foods",
+    "whole-cut alternative",
+    "Ecovative"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=cEuIyYnyGv0"
+   },
+   "source_url": "https://myforestfoods.com/"
+  },
+  {
+   "id": "blast-studio--lovely-trash",
+   "creator_ids": [
+    "blast-studio"
+   ],
+   "title": "Lovely Trash",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "An early series of 3D-printed objects made from waste paste and colonised by mycelium, testing how printed geometry guides fungal growth and final strength.",
+   "description_zh": "一批早期作品：用废料浆 3D 打印并由菌丝体定植的物件，测试打印几何如何引导真菌生长与最终强度。",
+   "idea_en": "Printed geometry is a growth instruction for the fungus, not just a shape.",
+   "idea_zh": "打印几何对真菌来说是一份生长指令，而不只是一个形状。",
+   "method": "Waste cellulose is mixed into a printable paste, printed as open lattices and ribbed vessels, inoculated with mycelium and incubated so hyphae bridge the printed gaps.",
+   "method_zh": "把废纤维素混成可打印浆料，打印成开放网格和带棱容器，接种菌丝体后培养，使菌丝跨越打印缝隙。",
+   "keywords": [
+    "mycelium printing",
+    "waste material",
+    "London",
+    "Blast Studio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W8tpiWSZfm0"
+   },
+   "source_url": "https://www.blast-studio.com/"
+  },
+  {
+   "id": "perfect-day--animal-free-whey",
+   "creator_ids": [
+    "perfect-day"
+   ],
+   "title": "Animal-Free Whey Protein",
+   "year": 2014,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "molecules",
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "Whey protein identical to cow's milk protein is produced by engineered fungi in fermentation tanks, and sold inside ice cream, milk and protein powders.",
+   "description_zh": "与牛奶蛋白相同的乳清蛋白由工程真菌在发酵罐中生产，用于冰淇淋、牛奶和蛋白粉等产品。",
+   "idea_en": "Keep the molecule, drop the animal: the product tastes the same because the protein is the same.",
+   "idea_zh": "保留分子，去掉动物：产品味道一样，因为蛋白就是同一种。",
+   "method": "The bovine beta-lactoglobulin gene is expressed in Trichoderma fungi fed sugar; the secreted protein is purified and used as a drop-in dairy ingredient.",
+   "method_zh": "把牛的 β-乳球蛋白基因表达在以糖为食的 Trichoderma 真菌中，分泌的蛋白经纯化后作为可直接替代的乳制品原料。",
+   "keywords": [
+    "precision fermentation",
+    "beta-lactoglobulin",
+    "animal-free dairy",
+    "Trichoderma"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wjAv24vhKmM"
+   },
+   "source_url": "https://perfectday.com/"
+  }
+ ],
+ "leads": []
+}

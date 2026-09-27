@@ -32,11 +32,67 @@
   "batch": "bio-arch-art"
  },
  {
+  "name": "Orkan Telhan",
+  "why": "Designer of microbial design studios and bio-fabricated food/material platforms.",
+  "link": "https://www.design.upenn.edu/people/orkan-telhan",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Genspace",
+  "why": "Community biolab in Brooklyn; site of many DIY-bio art projects (e.g. Stranger Visions work).",
+  "link": "https://www.genspace.org/",
+  "found_via": "heather-dewey-hagborg",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Kathy High",
+  "why": "Embracing Animal (2004): transgenic rats as art and care.",
+  "link": "https://www.kathyhigh.com/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Gina Czarnecki",
+  "why": "Palaces (2012): crystal sculpture to be seeded with stem cells from donated milk teeth.",
+  "link": "https://www.ginaczarnecki.com/",
+  "found_via": "oron-catts",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Elise Elsacker",
+  "why": "Mycelium composite materials research and bio-based architecture (VUB / Brussels)",
+  "link": "https://www.eliseelsacker.com/",
+  "found_via": "andre-studart",
+  "status": "covered",
+  "batch": "bio-materials"
+ },
+ {
   "name": "Vollebak Plant and Algae T-shirt",
   "why": "Compostable T-shirt printed with algae ink (2019); YouTube coverage only, no good official media found",
   "link": "https://www.vollebak.com/",
   "found_via": "keel-labs",
   "status": "no_media",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Living Ink Technologies",
+  "why": "Algae-based black ink as carbon-negative pigment",
+  "link": "https://livinginktech.com/",
+  "found_via": "charlotte-mccurdy",
+  "status": "covered",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Pili",
+  "why": "Microbial fermentation of dyes and pigments (France)",
+  "link": "https://www.pili.bio/",
+  "found_via": "colorifix",
+  "status": "covered",
   "batch": "bio-materials"
  },
  {
@@ -56,6 +112,342 @@
   "batch": "bio-materials"
  },
  {
+  "name": "Theresa Schubert — milieu #01-05 (2017-)",
+  "why": "Performance growing urban and skin microbes on agar; microbial growth only, no sensing or computing.",
+  "link": "https://www.theresaschubert.com/works/milieu-01-05/",
+  "found_via": "theresa-schubert",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Kasia Molga — Human Sensor (2016)",
+  "why": "Performers' costumes light up with live air-pollution data; environmental sensing without other organisms.",
+  "link": "https://www.studiomolga.com/art_HS.html",
+  "found_via": "kasia-molga",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Kasia Molga — By the Code of Soil (2018)",
+  "why": "Benign computer virus showing soil-sensor data when Sentinel-1A passes over; sensors, no organism in the loop.",
+  "link": "https://www.studiomolga.com/art_BTCOS.html",
+  "found_via": "kasia-molga",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Saša Spačal — Meta_bolus (2017)",
+  "why": "Bioreactor with Streptomyces rimosus producing antibiotics and geosmin; metabolic loop without sensing or signal.",
+  "link": "https://www.agapea.si/en/projects/meta_bolus-2",
+  "found_via": "sasa-spacal",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Mycelium Network Society",
+  "why": "Collective around Saša Spačal and others working on fungal networks as interfaces; no project page found on agapea.si.",
+  "link": "https://www.agapea.si/en/projects/mycohuman-relationships",
+  "found_via": "sasa-spacal",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Jenna Sutela — Holobiont / nimiia vibié",
+  "why": "Named in the brief; not listed on her current site, no media found.",
+  "link": "https://jennasutela.com/",
+  "found_via": "jenna-sutela",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Data Garden / MIDI Sprout",
+  "why": "Already in gallery (data-garden--plantwave, data-garden--quartet).",
+  "link": "",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Interspecifics — Codex Virtualis_Genesis",
+  "why": "Prix AI & Life Art 2023 HM; AI-generated speculative microorganisms trained on the NARO microbe database; no living organisms act in the work.",
+  "link": "https://int-lab.cc/codex/",
+  "found_via": "interspecifics",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Interspecifics — Recurrent Morphing Radio",
+  "why": "AI radio built from streaming-music data; no organisms.",
+  "link": "https://int-lab.cc/rmr/",
+  "found_via": "interspecifics",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Gilberto Esparza — Korallysis",
+  "why": "Current-driven electrolysis devices that accelerate coral growth (2018-2024); corals are cultivated, not sensing.",
+  "link": "https://gilbertoesparza.net/portfolio/korallysis/",
+  "found_via": "gilberto-esparza",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Gilberto Esparza — Parásitos Urbanos",
+  "why": "Artificial-life robots from e-waste stealing grid power; no living organisms.",
+  "link": "https://gilbertoesparza.net/portfolio/parasitos-urbanos/",
+  "found_via": "gilberto-esparza",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Thijs Biersteker — Econtinuum",
+  "why": "AI root sculpture that mimics tree communication using room sensors; no living plant.",
+  "link": "https://thijsbiersteker.com/econtinuum",
+  "found_via": "thijs-biersteker",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Thijs Biersteker — Fungal Faculty",
+  "why": "AI artwork inspired by mycelium networks; no evidence of living fungi being sensed.",
+  "link": "https://thijsbiersteker.com/fungal-faculty",
+  "found_via": "thijs-biersteker",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "::vtol:: — mycological congress",
+  "why": "Electronic pseudo-fungi 'Ascoma digitale' imitating fungal warning signals; no living fungi.",
+  "link": "https://vtol.cc/mycological-congress",
+  "found_via": "dmitry-morozov",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Andy Gracie — Drosophila titanus",
+  "why": "Prix Hybrid Art 2015 HM; artificial selection of fruit flies for Titan conditions; breeding rather than sensing/computing.",
+  "link": "https://www.hostprods.net/drosophila-titanus-2/",
+  "found_via": "andy-gracie",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Agnes Meyer-Brandis — Teacup Tools",
+  "why": "Prix Hybrid Art 2015 AoD; cybernetic teacups visualising aerosols; no organism interface.",
+  "link": "http://www.ffur.de/tea",
+  "found_via": "agnes-meyer-brandis",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Paula Gaetano Adi — Guanaquerx",
+  "why": "Prix AI & Life Art 2025 Golden Nica; quadruped robot crossing the Andes with muleteers and mules; animals accompany but are not an interface.",
+  "link": "https://www.guanaquerx.com/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "BCL (Shiho Fukuhara & Georg Tremmel) — Biopresence",
+  "why": "Human DNA encoded into tree DNA as living memorials (2002-), using Joe Davis's DNA Manifold silent-codon method; strong DNA-as-data work but no usable image found (bcl.io is JS-only, biopresence.com has a logo only).",
+  "link": "https://www.biopresence.com/description.html",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "BCL — Common Flowers / Flower Commons",
+  "why": "Prix Ars Electronica Hybrid Art 2009 Honorary Mention; DIY cloning and release of Suntory's blue GM carnation. About GMO ownership, no sensing or data aspect.",
+  "link": "https://archive.aec.at/prix/129683/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "BCL — Ghost in the Cell (2015) and On/Off/Maybe: Towards a Biological Ultimate Machine",
+  "why": "Hatsune Miku 'DNA' in iPS-derived heart cells (21st Century Museum Kanazawa) and a biological logic machine; no project pages or media reachable.",
+  "link": "https://bcl.io",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Joe Davis — Audio Microscope",
+  "why": "Microscope that turns light from living cells into sound so each cell has an acoustic signature; no media found.",
+  "link": "https://en.wikipedia.org/wiki/Joe_Davis_(artist)",
+  "found_via": "joe-davis",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Joe Davis — Poetica Vaginal (1986)",
+  "why": "Vaginal contractions converted to a signal and beamed from MIT Millstone radar; body data, not organism computing.",
+  "link": "https://en.wikipedia.org/wiki/Joe_Davis_(artist)",
+  "found_via": "joe-davis",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Hideo Iwasaki — An der schönen regenbogenfarbenen Donau (2010)",
+  "why": "Danube bacteria painted as iridescent images visible only from certain angles; bacterial painting rather than sensing/computing.",
+  "link": "https://hideo-iwasaki.com/an-der-schonen-regenbogenfarbenen-dona-2010",
+  "found_via": "hideo-iwasaki",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Anna Dumitriu & Alex May — ArchaeaBot, ModCell, BioComputation Robots",
+  "why": "Robots inspired by archaea, stem cells and optogenetics, but no living organisms inside.",
+  "link": "https://annadumitriu.co.uk/portfolio/archaeabot/",
+  "found_via": "anna-dumitriu",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Charlotte Jarvis — Et in Arcadia Ego / In Posse",
+  "why": "DNA-music storage and synthetic semen works; artist site domain now belongs to someone else, no media found.",
+  "link": "https://www.badaward.nl/artists-scientists/charlotte-jarvis",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Pinar Yoldas — other works",
+  "why": "Checked portfolio (Very Loud Chamber Orchestra, Distilling the Sky, Kitty AI); none use living organisms that sense or compute.",
+  "link": "https://pinaryoldas.info",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Thomas Feuerstein — Prometheus Delivered / OCTOPLASMA (2017)",
+  "why": "Bacteria dissolve a marble Prometheus and their biomass feeds human liver cells grown into an octopus-liver sculpture; a metabolic chain without sensing or signal.",
+  "link": "https://thomasfeuerstein.net/50_WORKS/07_PROMETHEUS/10_Prometheus_Delivered",
+  "found_via": "thomas-feuerstein",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Thomas Feuerstein — PSYCHOPROSA (2015)",
+  "why": "Algae and fungi feed a chemical pipeline producing a synthetic psychedelic (PSILAMIN); process art, no organism sensing.",
+  "link": "https://thomasfeuerstein.net/50_WORKS/08_PSYCHOPROSA/06_Psychoprosa",
+  "found_via": "thomas-feuerstein",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Billy Apple & Craig Hilton — The Immortalisation of Billy Apple (2011)",
+  "why": "Prix Hybrid Art 2011 HM; the artist's cells immortalised as a cell line; no sensing or signal aspect.",
+  "link": "https://archive.aec.at/prix/169619/",
+  "found_via": "prix",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Anne Niemetz & Andrew Pelling — The Dark Side of the Cell (2004)",
+  "why": "Sound installation from AFM recordings of vibrating yeast cell walls (sonocytology; Pelling et al., Science 2004, DOI 10.1126/science.1097640); artist site has an expired certificate, no verified media.",
+  "link": "https://www.niemetz.net/",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Paul Thomas — Midas / Nanoessence",
+  "why": "AFM-based works sonifying and visualising living and dying skin cells at SymbioticA; no verified page found.",
+  "link": "",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Marianne Lechner et al. — The Silent Scream of Cells (2025)",
+  "why": "Interactive sculpture about forces on brain cells; no living cells.",
+  "link": "https://ars.electronica.art/panic/en/view/the-silent-scream-of-cells-20f38ddb450c81009798cf00502ba1c2",
+  "found_via": "ars-electronica",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Justine Emard — Myriades (2025)",
+  "why": "Magnetic grains in glass move to physiological data from brain axons recorded in a lab; no living cells in the work.",
+  "link": "https://justineemard.com/myriades/",
+  "found_via": "justine-emard",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "BCL (Georg Tremmel, Shiho Fukuhara) — Ghost in the Cell (2015)",
+  "why": "iPS-derived beating cardiomyocytes for a virtual idol; bcl.io is a stub, still no media (also a grp-c lead).",
+  "link": "https://bcl.io",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "David Bowen — swarm (c. 2008)",
+  "why": "Autonomous roving device steered by houseflies in a spherical chamber; precursor of fly blimps. Only archived images found.",
+  "link": "https://web.archive.org/web/2008/http://www.dwbowen.com/swarm.html",
+  "found_via": "david-bowen",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Miya Masaoka — Adventures of the Solitary Bee (1999)",
+  "why": "Video in which bees explore the artist's body; part of her insect series but not sensor-driven.",
+  "link": "https://miyamasaoka.com/work/2018/adventures-of-the-solitary-bee/",
+  "found_via": "miya-masaoka",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Tosca Terán — Mycorrhizal Rhythm Machine (NAISA 2021)",
+  "why": "Grow room where electrodes in mycorrhizal plant roots trigger synth voices; no usable images on the page.",
+  "link": "https://www.toscateran.com/mycorrhizal-rhythm-machine",
+  "found_via": "tosca-teran",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Vincross / Sun Tianqi — Hexa plant robot (2018)",
+  "why": "Hexa legged robot modified to carry a succulent into sun or shade; the plant is a passenger, not a controller, and it is a product demo.",
+  "link": "https://www.youtube.com/watch?v=pR5zCtWOoE8",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Anicka Yi — Life Is Cheap (2017) / Biologizing the Machine (2019)",
+  "why": "Installations with ant colonies and bacteria, but organisms are not in a sensing or control loop with machines.",
+  "link": "https://www.guggenheim.org/artwork/artist/anicka-yi",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Martin Howse — Earthcodes / The Dark Interpreter",
+  "why": "Earth- and soil-based computing works; no living organism clearly in the loop.",
+  "link": "https://www.1010.co.uk/",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Akira Nakayasu — Himawari (2009)",
+  "why": "Robotic sunflower that reacts to people; no living plant (checked).",
+  "link": "https://www.youtube.com/watch?v=paoICVywrRQ",
+  "found_via": "seed",
+  "status": "off_topic",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Laura Beloff — The Condition (2016) and R-Bus (Leonardo 2026)",
+  "why": "Other Beloff works with plants and AI; artist site offline, no media found.",
+  "link": "https://doi.org/10.1162/leon.a.2735",
+  "found_via": "laura-beloff",
+  "status": "no_media",
+  "batch": "biocomputing-art"
+ },
+ {
   "name": "Living Matter Lab — Nurturing Light",
   "why": "Escape-room installation guided only by bioluminescent dinoflagellates that players feed by solving puzzles; year and documentation not found.",
   "link": "https://www.colorado.edu/atlas/nurturing-light",
@@ -64,11 +456,67 @@
   "batch": "biohybrid-hci"
  },
  {
+  "name": "Heather Barnett",
+  "why": "The Physarum Experiments: art and pedagogy with slime mould, crowd-behaviour workshops; likely bio-art scope.",
+  "link": "https://heatherbarnett.co.uk/",
+  "found_via": "toshiyuki-nakagaki",
+  "status": "covered",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Tosca Terán",
+  "why": "Artist making sound performances from mycelium bioelectrical signals.",
+  "link": "https://toscateran.com/",
+  "found_via": "andrew-adamatzky",
+  "status": "covered",
+  "batch": "biohybrid-unconv"
+ },
+ {
+  "name": "Stephanie Posavec & Miriam Quick: Air Transformed (2015)",
+  "why": "Data-sonification and wearable objects of Sheffield air quality; project page 404, no stable media found.",
+  "link": "https://www.stefanieposavec.com/",
+  "found_via": "hehe",
+  "status": "no_media",
+  "batch": "hni"
+ },
+ {
+  "name": "HeHe: Champs d'Ozone (2007)",
+  "why": "Paris sky coloured by live ozone data; no media found.",
+  "link": "http://www.hehe.org/",
+  "found_via": "hehe",
+  "status": "no_media",
+  "batch": "hni"
+ },
+ {
   "name": "Jenna Sutela — From Hierarchy to Holarchy / Holobiont",
   "why": "Slime-mould and microbiome works; no verified media found in this pass.",
   "link": "https://jennasutela.com/",
   "found_via": "jenna-sutela",
   "status": "no_media",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Chris Watson",
+  "why": "Wildlife sound recordist and sound artist (Weather Report, Inside the Circle of Fire).",
+  "link": "https://chriswatson.net/",
+  "found_via": "jana-winderen",
+  "status": "covered",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Leah Barclay",
+  "why": "Sound artist and researcher on acoustic ecology and river listening (River Listening, Biosphere Soundscapes).",
+  "link": "https://leahbarclay.com/",
+  "found_via": "jana-winderen",
+  "status": "covered",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Robertina Šebjanič",
+  "why": "Artist working with underwater noise and jellyfish (Aurelia 1+Hz, Echoes of the Abyss).",
+  "link": "https://robertina.net/",
+  "found_via": "kuai-shen",
+  "status": "covered",
   "batch": "mth-art-spec"
  },
  {
@@ -94,6 +542,86 @@
   "found_via": "anne-galloway",
   "status": "no_media",
   "batch": "mth-hci"
+ },
+ {
+  "name": "Ann Light",
+  "why": "Co-author of more-than-human participation; PD with non-human stakeholders; 'More-than-Human Participatory Approaches for Design' (PDC 2024, 10.1145/3661455.3669862).",
+  "link": "",
+  "found_via": "rachel-clarke",
+  "status": "covered",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Stanislav Roudavski",
+  "why": "Designs habitat structures for birds; 'Are You Blocking Nonhuman Leadership?' (PDC 2026).",
+  "link": "",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Jeffrey Bardzell",
+  "why": "Co-author across the Bardzell lab's naturecultures papers.",
+  "link": "",
+  "found_via": "shaowen-bardzell",
+  "status": "covered",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Maya Livio",
+  "why": "The Eco-Technical Interface (CHI 2022, with Laura Devendorf) is a key theory paper; her artefacts are in kneile-2025 but the paper itself is not a work yet",
+  "link": "https://doi.org/10.1145/3491102.3501851",
+  "found_via": "laura-devendorf",
+  "status": "covered",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Laura Devendorf – Redeform / Post-Anthropocentric 3D Printing (DIS 2016)",
+  "why": "Post-anthropocentric framing of makers, machines and materials; no image found",
+  "link": "https://doi.org/10.1145/2901790.2901879",
+  "found_via": "laura-devendorf",
+  "status": "no_media",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Anne Galloway – The Great NZ Cat Controversy; A Good Death; Sheepcare",
+  "why": "More-Than-Human Lab projects on invasive species, on-farm slaughter and sheep care; lab site offline, no media",
+  "link": "https://web.archive.org/web/2019/http://morethanhumanlab.org/projects/",
+  "found_via": "anne-galloway",
+  "status": "no_media",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Stanislav Roudavski – Modelling and Design of Habitat Features: manufactured poles vs living trees (Sustainability 2023)",
+  "why": "Perch structures for birds; MDPI figures blocked (403)",
+  "link": "https://doi.org/10.3390/su15097588",
+  "found_via": "stanislav-roudavski",
+  "status": "no_media",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Julia Lohmann – Hidaka Ohmu (2020), Oki Naganode (2013), Ruminant Bloom",
+  "why": "Seaweed pavilions and animal-material works; Hidaka Ohmu is mentioned inside the existing Department of Seaweed entry",
+  "link": "https://www.julialohmann.co.uk/work/gallery/hidaka-ohmu/",
+  "found_via": "julia-lohmann",
+  "status": "duplicate",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Natalie Jeremijenko – OOZ, xDrones",
+  "why": "No non-EHC media source found",
+  "link": "",
+  "found_via": "natalie-jeremijenko",
+  "status": "no_media",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Kelp Council (Julia Lohmann)",
+  "why": "Named in the brief; no page or media found on julialohmann.co.uk",
+  "link": "",
+  "found_via": "julia-lohmann",
+  "status": "no_media",
+  "batch": "mth-leads"
  },
  {
   "name": "Oron Catts & Ionat Zurr / SymbioticA",
@@ -157,6 +685,14 @@
   "link": "https://www.badaward.nl/artists-scientists/haseeb-ahmed",
   "found_via": "bad-award",
   "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Agi Haines",
+  "why": "BAD Award 2015: Drones with Desires (machines with reconstructed nervous systems).",
+  "link": "https://www.badaward.nl/artists-scientists/agi-haines-marcel-de-jeu-jos-van-der-geest",
+  "found_via": "bad-award",
+  "status": "covered",
   "batch": "user-picks"
  },
  {

@@ -48,14 +48,6 @@
   "batch": "bio-arch-art"
  },
  {
-  "name": "Orkan Telhan",
-  "why": "Designer of microbial design studios and bio-fabricated food/material platforms.",
-  "link": "https://www.design.upenn.edu/people/orkan-telhan",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "bio-arch-art"
- },
- {
   "name": "Biodesign Challenge",
   "why": "Student competition and summit (since 2015) linking art/design schools with biotech; good source of student projects.",
   "link": "https://www.biodesignchallenge.org/",
@@ -68,14 +60,6 @@
   "why": "Art & design projects within the iGEM synthetic biology competition.",
   "link": "https://igem.org/",
   "found_via": "alexandra-daisy-ginsberg",
-  "status": "open",
-  "batch": "bio-arch-art"
- },
- {
-  "name": "Genspace",
-  "why": "Community biolab in Brooklyn; site of many DIY-bio art projects (e.g. Stranger Visions work).",
-  "link": "https://www.genspace.org/",
-  "found_via": "heather-dewey-hagborg",
   "status": "open",
   "batch": "bio-arch-art"
  },
@@ -128,22 +112,6 @@
   "batch": "bio-arch-art"
  },
  {
-  "name": "Kathy High",
-  "why": "Embracing Animal (2004): transgenic rats as art and care.",
-  "link": "https://www.kathyhigh.com/",
-  "found_via": "seed",
-  "status": "open",
-  "batch": "bio-arch-art"
- },
- {
-  "name": "Gina Czarnecki",
-  "why": "Palaces (2012): crystal sculpture to be seeded with stem cells from donated milk teeth.",
-  "link": "https://www.ginaczarnecki.com/",
-  "found_via": "oron-catts",
-  "status": "open",
-  "batch": "bio-arch-art"
- },
- {
   "name": "Fiona Bell & Mirela Alistar (ATLAS, CU Boulder)",
   "why": "HCI biomaterials: Kombucha SCOBY studio (TEI 2023, 10.1145/3569009.3571841), ReClaym compost clay (CHI 2022), Alganyl; likely belongs to biohybrid-hci",
   "link": "https://www.fionaabell.com/",
@@ -156,14 +124,6 @@
   "why": "Bacterial cellulose + electronics fabrication framework (10.1145/3586183.3606774); interface-focused, for biohybrid-hci",
   "link": "https://hci.cs.uni-saarland.de/projects/biohybrid-devices/",
   "found_via": "eldy-lazaro-vasquez",
-  "status": "open",
-  "batch": "bio-materials"
- },
- {
-  "name": "Elise Elsacker",
-  "why": "Mycelium composite materials research and bio-based architecture (VUB / Brussels)",
-  "link": "https://www.eliseelsacker.com/",
-  "found_via": "andre-studart",
   "status": "open",
   "batch": "bio-materials"
  },
@@ -184,14 +144,6 @@
   "batch": "bio-materials"
  },
  {
-  "name": "Living Ink Technologies",
-  "why": "Algae-based black ink as carbon-negative pigment",
-  "link": "https://livinginktech.com/",
-  "found_via": "charlotte-mccurdy",
-  "status": "open",
-  "batch": "bio-materials"
- },
- {
   "name": "Malai (coconut-water bacterial cellulose, India)",
   "why": "Bacterial cellulose leather alternative from coconut water waste",
   "link": "https://malai.eco/",
@@ -204,14 +156,6 @@
   "why": "Bacterial cellulose material grown on fruit waste (Mexico)",
   "link": "https://www.polybion.bio/",
   "found_via": "suzanne-lee",
-  "status": "open",
-  "batch": "bio-materials"
- },
- {
-  "name": "Pili",
-  "why": "Microbial fermentation of dyes and pigments (France)",
-  "link": "https://www.pili.bio/",
-  "found_via": "colorifix",
   "status": "open",
   "batch": "bio-materials"
  },
@@ -294,6 +238,350 @@
   "found_via": "lining-yao",
   "status": "open",
   "batch": "bio-materials"
+ },
+ {
+  "name": "Heather Barnett — Nodes and Networks: NYC (2015)",
+  "why": "One-day art-science marathon on slime mould and human collective behaviour across NYC sites (with GenSpace, SVA BioArt Lab, the Met MediaLab); images on her site.",
+  "link": "https://heatherbarnett.co.uk/work/nodes-and-networks/",
+  "found_via": "heather-barnett",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "plan b (Sophia New & Daniel Belasco Rogers)",
+  "why": "GPS-drawing duo; co-authors of Swarm | Cell | City with Heather Barnett.",
+  "link": "https://www.youtube.com/watch?v=BZTpxQmRsCI",
+  "found_via": "heather-barnett",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Theresa Schubert — EcoGuards (2024)",
+  "why": "Installation with algae reactors, mycelium and recycled electronics imagining an ecological AI; unclear whether organisms feed data into the system.",
+  "link": "https://www.theresaschubert.com/works/ecoguards/",
+  "found_via": "theresa-schubert",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Mind the Fungi (TU Berlin, Vera Meyer)",
+  "why": "Art-science residency programme on fungi that produced Sound for Fungi; could hold other fungal-interface artworks.",
+  "link": "https://www.theresaschubert.com/works/sound-for-fungi/",
+  "found_via": "theresa-schubert",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Eduardo Reck Miranda — residency at DTU Biosustain (Pablo I. Nikel lab)",
+  "why": "Possible microbial music work after the Physarum pieces; not researched.",
+  "link": "https://www.youtube.com/watch?v=lNJnWvN9d9U",
+  "found_via": "eduardo-miranda",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Kasia Molga & Ivan Henriques — Natural Glitch (2020)",
+  "why": "Ars Electronica 2020 project by the World Wilder Lab founders on transforming bodies at the molecular level; mostly correspondence and online A/V.",
+  "link": "https://www.youtube.com/watch?v=O895WKwK5a8",
+  "found_via": "ivan-henriques",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "World Wilder Lab (Kasia Molga, Erik Overmeire, Ivan Henriques)",
+  "why": "Platform for inter-species communication; made PlanEt plant biodata device, Plandscapes, Organic Cinema.",
+  "link": "https://www.studiomolga.com/design_PLANeT.html",
+  "found_via": "kasia-molga",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Jenna Sutela — Many-Headed (2016) and nimiia seance (2019)",
+  "why": "Decentralised performance with a Physarum trip report, and a performance channelling the bacterial-Martian culture of nimiia cétiï.",
+  "link": "https://jennasutela.com/",
+  "found_via": "jenna-sutela",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Tarsh Bates — in vitero (2011)",
+  "why": "Artist lived three months in a gallery caring for eight lab organisms (Physarum, C. elegans, Daphnia, Candida...); care practice, no sensing.",
+  "link": "https://www.tarshbates.com/invitero",
+  "found_via": "tarsh-bates",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Tarsh Bates — The Tangled Field (2016)",
+  "why": "Kinetic sculpture tracing phenotypic changes of Candida albicans; unclear whether living cultures are used.",
+  "link": "https://www.tarshbates.com/tangledfield",
+  "found_via": "tarsh-bates",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "AKI INOMATA — Think Evolution #1: Kiku-ishi (Ammonite) (2016)",
+  "why": "Octopus offered a 3D-printed ammonite shell; animal as co-maker.",
+  "link": "https://www.aki-inomata.com/works/kiku-ishi/",
+  "found_via": "aki-inomata",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Scenocosme — Pulsations, Alsos, Ecorces",
+  "why": "Other plant/tree sound works; Pulsations plays heartbeat sounds through a living tree but does not sense it.",
+  "link": "http://www.scenocosme.com/pulsations_e.htm",
+  "found_via": "scenocosme",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Christa Sommerer & Laurent Mignonneau — other living-plant works",
+  "why": "Brief asked for more plant works besides Interactive Plant Growing; none found quickly.",
+  "link": "",
+  "found_via": "christa-sommerer-laurent-mignonneau",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Interspecifics — Non-Human Rhythms",
+  "why": "Live recordings of bacterial fuel cells and Physarum sonified (2016); overlaps Micro-Rhythms / Energy Bending Lab.",
+  "link": "https://interspecifics.cc/work/non-human-rhythms/",
+  "found_via": "interspecifics",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "::vtol:: — last breath",
+  "why": "Breath-controlled generative organ (2019); body input but no organism signal beyond breath pressure.",
+  "link": "https://vtol.cc/last-breath",
+  "found_via": "dmitry-morozov",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "::vtol:: — eeg_deer",
+  "why": "Audiovisual performance with a modified Necomimi EEG interface (2014).",
+  "link": "https://vtol.cc/eeg_deer",
+  "found_via": "dmitry-morozov",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Robertina Šebjanič — Echinoidea Future – Adriatic Sensing",
+  "why": "Sea urchins exposed to low-oxygen stressors as pollution indicators, glass sculptures and Copernicus data (2024).",
+  "link": "https://robertina.net/echinoidea-future-adriatic-sensing-starts4water-zero-pollution-adriatic/",
+  "found_via": "robertina-sebjanic",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Robertina Šebjanič & Špela Petrič — Humalga",
+  "why": "Speculative human-algae hybrid evolution project; more material/speculation than sensing.",
+  "link": "https://robertina.net/humalga/",
+  "found_via": "robertina-sebjanic",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Michael Sedbon — Ants Aided Manufacturing",
+  "why": "Weaver ants activating materials combined with agent-based CAD (research).",
+  "link": "https://michaelsedbon.com/Research-2",
+  "found_via": "michael-sedbon",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Andy Gracie — Deep Data Prototypes",
+  "why": "Tardigrades, Arabidopsis and C. elegans exposed to space-probe data (magnetic fields, spectra, gravity); year unclear.",
+  "link": "https://www.hostprods.net/deep-data-2/",
+  "found_via": "andy-gracie",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Andy Gracie — Proxy",
+  "why": "Twin robots searching moss samples for tardigrades and nematodes.",
+  "link": "https://www.hostprods.net/proxy-2/",
+  "found_via": "andy-gracie",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Anne Marie Maes — The Sound Beehive Experiment",
+  "why": "Instrumented hive monitoring colony development via sound (2013-2015); overlaps Transparent Beehive.",
+  "link": "https://annemariemaes.net/projects/the-sound-beehive-experiment/",
+  "found_via": "anne-marie-maes",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Bartaku — Hoopgas",
+  "why": "Experiments using banana ethylene to 'talk' Sansevieria into flowering.",
+  "link": "https://bartaku.net/hoopgas/",
+  "found_via": "bartaku",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Heather Dewey-Hagborg — DNA Spoofing (2013), Watson's Ghost (2021), T3511 (2018)",
+  "why": "Further DNA-as-data works (genetic countersurveillance, DNA portraits of James Watson, re-identifying a saliva donor); close variants of works already included.",
+  "link": "https://deweyhagborg.com/projects/category:bio-art",
+  "found_via": "heather-dewey-hagborg",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Mick Lorusso — Biodiamond Energy Theater (2013)",
+  "why": "Workshop in which microbial fuel cells power a DIY microscope theatre; image at micklorusso.net.",
+  "link": "https://micklorusso.net/portfolio/biodiamond-energy-theater/",
+  "found_via": "mick-lorusso",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Hackteria (Marc Dusseiller, Urs Gaudenz)",
+  "why": "Open-source bioart network; DIY microscopy and bioluminescence workshops rather than discrete artworks; look for specific bacterial sound or sensing pieces.",
+  "link": "https://www.hackteria.org",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Orkan Telhan — Breathing Shoe (PUMA x MIT Design Lab, 2018)",
+  "why": "Shoe material patterned with microbes that eat media and open ventilation holes in response to foot heat; responsive material, fits bio/responsive.",
+  "link": "https://www.orkantelhan.com/biodesign",
+  "found_via": "orkan-telhan",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Ana Rajčević — Chimera: Cell (2024)",
+  "why": "Lab-grown organoids as chimeric pendants, with a sensor system by ::vtol::; unclear what the sensors do.",
+  "link": "https://kersnikova.org/posts/events/all/ana-rajcevic-himera",
+  "found_via": "kapelica",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Charlotte Jarvis & Patricia Saragüeta — Organ of Radical Care (2023)",
+  "why": "A collective endometrial cell colony kept alive in a chalice in a nightly performance of care; Ars Electronica 2023.",
+  "link": "https://ars.electronica.art/who-owns-the-truth/en/organ-of-radical-care/",
+  "found_via": "charlotte-jarvis",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Sandra Lorenzi — How to Read Poetry to Cancer Cells? (2021)",
+  "why": "Studiotopia residency with VIB Centre for Cancer Biology; unclear whether living cells respond.",
+  "link": "https://ars.electronica.art/newdigitaldeal/en/poetry-to-cancer-cells/",
+  "found_via": "ars-electronica",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "WhiteFeather Hunter — The Witch in the Lab Coat / Mooncalf",
+  "why": "Tissue culture with menstrual serum at SymbioticA; site blocks scripts (403).",
+  "link": "https://artlaboratory-berlin.org/exhibitions/matter-of-flux/",
+  "found_via": "art-laboratory-berlin",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Boryana Rossa",
+  "why": "Co-author of Snowflake / Neuroplastika; worked in Steve Potter's lab with Ben-Ary.",
+  "link": "https://vimeo.com/128319458",
+  "found_via": "guy-ben-ary",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "David Bowen — growth modeling device (c. 2009)",
+  "why": "Laser-scans an onion plant daily and 3D-prints a model of its growth; plant growth drives fabrication but no sensing loop.",
+  "link": "https://www.dwbowen.com/growth-modeling-device",
+  "found_via": "david-bowen",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Guto Nóbrega — HA (Hiperorganismo Antropofágico), Laboratorium Mapa D2 (2011)",
+  "why": "Telematic performance robot derived from a plant–machine hybrid design; unclear whether a living plant was kept in the final version.",
+  "link": "https://doi.org/10.5216/vis.v9i2.19847",
+  "found_via": "guto-nobrega",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Miya Masaoka — Sonifying the Plants (Toronto Biennial 2022)",
+  "why": "Later plant-sonification performances continuing Pieces for Plants.",
+  "link": "https://torontobiennial.org/programs/miya-masaoka-sonifying-the-plants/",
+  "found_via": "miya-masaoka",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Tosca Terán — Symbiosis/\\Dysbiosis (VR)",
+  "why": "Multiplayer VR in which conductance of Ganoderma lucidum and players' EEG drive the world.",
+  "link": "https://www.toscateran.com/symbiosis",
+  "found_via": "tosca-teran",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Kuai Shen — Yupana Emergente (2014)",
+  "why": "Ants 'reanimate' an Andean yupana (abacus) at MAC Quito; unclear whether ant movement drives computation.",
+  "link": "https://kuaishen.tv/yupanaemergente.html",
+  "found_via": "kuai-shen",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Allison Kudla — capacity for (urban eden, human error)",
+  "why": "Prix Ars Electronica Hybrid Art 2010 HM: a computer-controlled table 'prints' algorithmic bio-architecture from living moss and seeds; organisms are printed, not computing, so left out.",
+  "link": "https://archive.aec.at/prix/132206/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Miriam Simun — Interspecies Robot Sex",
+  "why": "Prix Ars Electronica AI & Life Art 2023 HM; robotic and human pollination after colony collapse; check whether plants/insects act in a machine loop.",
+  "link": "https://archive.aec.at/prix/277480/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Tagny Duff — Wastelands",
+  "why": "Prix Ars Electronica AI & Life Art 2019 HM; bio-art with engineered microbes and speculative fiction about plastic waste.",
+  "link": "https://archive.aec.at/prix/245484/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Jiwon Woo — Mother's Hand Taste (Son-mat)",
+  "why": "Prix Ars Electronica AI & Life Art 2019 HM; hand microbiome and fermentation; microbial but not an interface.",
+  "link": "https://archive.aec.at/prix/244861/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Lucie Strecker & Klaus Spiess — Hare's Blood +",
+  "why": "Prix Ars Electronica Hybrid Art 2015 HM; DNA and Beuys' performance; check whether DNA is used as a data carrier.",
+  "link": "https://archive.aec.at/prix/212658/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biocomputing-art"
+ },
+ {
+  "name": "Mind the Fungi (TU Berlin / Art Laboratory Berlin)",
+  "why": "Art-science programme on fungi (2018-2020) that produced several fungal-interface artworks; a source for more fungal art.",
+  "link": "https://www.artlaboratory-berlin.org/",
+  "found_via": "theresa-schubert",
+  "status": "open",
+  "batch": "biocomputing-art"
  },
  {
   "name": "Christopher Voigt lab — Living circuit boards (bacterial transistors)",
@@ -416,14 +704,6 @@
   "batch": "biohybrid-hci"
  },
  {
-  "name": "Heather Barnett",
-  "why": "The Physarum Experiments: art and pedagogy with slime mould, crowd-behaviour workshops; likely bio-art scope.",
-  "link": "https://heatherbarnett.co.uk/",
-  "found_via": "toshiyuki-nakagaki",
-  "status": "open",
-  "batch": "biohybrid-unconv"
- },
- {
   "name": "Klaus-Peter Zauner (University of Southampton)",
   "why": "Co-built the Physarum-controlled robot; molecular and cellular computing for robot control.",
   "link": "https://www.southampton.ac.uk/people/5x2n5m/doctor-klaus-peter-zauner",
@@ -536,14 +816,6 @@
   "batch": "biohybrid-unconv"
  },
  {
-  "name": "Tosca Terán",
-  "why": "Artist making sound performances from mycelium bioelectrical signals.",
-  "link": "https://toscateran.com/",
-  "found_via": "andrew-adamatzky",
-  "status": "open",
-  "batch": "biohybrid-unconv"
- },
- {
   "name": "Christopher Voigt — Living circuit boards built by printing bacterial transistors (Nature Chemical Biology, Aug 2026)",
   "why": "Doosthosseini, Chen & Voigt, DOI 10.1038/s41589-026-02300-3 (verified); abstract not accessible, so no work entry yet. Creator christopher-voigt is in biohybrid-hci.",
   "link": "https://doi.org/10.1038/s41589-026-02300-3",
@@ -590,6 +862,222 @@
   "found_via": "zoe-breed",
   "status": "open",
   "batch": "breed-2026"
+ },
+ {
+  "name": "Keith Cheverst (Lancaster University)",
+  "why": "Co-editor of HCI Outdoors; rural and Lake District locative media, e.g. Wray village displays.",
+  "link": "https://www.lancaster.ac.uk/scc/about-us/people/keith-cheverst",
+  "found_via": "michael-d-jones",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Zann Anderson & Michael Jones: Rethinking mobile computing in recreational hiking",
+  "why": "HCI Outdoors chapter on hiking technology values.",
+  "link": "https://doi.org/10.1007/978-3-030-45289-6_16",
+  "found_via": "michael-d-jones",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Kellie Vella: Nature Networks (DIS 2024)",
+  "why": "Designing nature data collection and sharing from local to global; QUT follow-up to Networked Gardens.",
+  "link": "https://doi.org/10.1145/3643834.3661520",
+  "found_via": "margot-brereton",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "NatureCapture (CHI 2026)",
+  "why": "Turns real-world nature into shared VR experiences for human–nature connection; no media found yet.",
+  "link": "https://doi.org/10.1145/3772318.3790465",
+  "found_via": "lisa-townsend",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "GreenCompass (CHI EA 2025)",
+  "why": "Context-aware gamified nature connection in urban 'pocket time'.",
+  "link": "https://doi.org/10.1145/3706599.3719811",
+  "found_via": "ferran-altarriba-bertran",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Reacquainting with Everyday Urban Nature: natural soundscape restoration with personal audio (CHI 2026)",
+  "why": "Personal audio that restores natural soundscapes in cities.",
+  "link": "https://doi.org/10.1145/3772318.3791961",
+  "found_via": "margot-brereton",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Wildfire and Forest Management: Opportunities for HCI Research (TOCHI 2026)",
+  "why": "Review framing wildfire and forestry as an HCI domain.",
+  "link": "https://doi.org/10.1145/3765288",
+  "found_via": "michael-d-jones",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Nature Relatedness Scale (Nisbet, Zelenski & Murphy 2009)",
+  "why": "Second standard measure of nature connection, alongside the CNS.",
+  "link": "https://doi.org/10.1037/t05985-000",
+  "found_via": "f-stephan-mayer",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Miles Richardson: 'Three Good Things in Nature' intervention",
+  "why": "Simple noticing intervention with measured effects; candidate for a nature-connection app.",
+  "link": "https://findingnature.org.uk/",
+  "found_via": "miles-richardson",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Kahn: Robotic pets in the lives of preschool children (2006)",
+  "why": "Second AIBO study, with children; complements Hardware Companions?.",
+  "link": "https://doi.org/10.1075/is.7.3.13kah",
+  "found_via": "peter-kahn",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Tega Brain: Deep Swamp (2018)",
+  "why": "AI agents tending three wetlands, shown at Transmediale; check against mth-art-spec before adding.",
+  "link": "https://tegabrain.com/",
+  "found_via": "tega-brain",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Studio Roosegaarde: GROW (2021)",
+  "why": "Light recipes over a 20,000 m² leek field to highlight agriculture; gardening / eco-feedback.",
+  "link": "https://www.studioroosegaarde.net/",
+  "found_via": "studio-roosegaarde",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "teamLab: Universe of Water Particles",
+  "why": "Digital waterfall on a real rock form; digital-nature.",
+  "link": "https://www.teamlab.art/",
+  "found_via": "teamlab",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Random International: Swarm Study series",
+  "why": "Light sculptures that behave like flocks; digital-nature.",
+  "link": "https://www.random-international.com/",
+  "found_via": "random-international",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Chris Watson (sound recordist)",
+  "why": "Nature sound works such as 'Whispering in the Leaves' and 'Weather Report'.",
+  "link": "https://chriswatson.net/",
+  "found_via": "hildegard-westerkamp",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Cornell Lab Bird Cams",
+  "why": "Live nest and feeder cams with citizen science layers (e.g. Cornell Hawks).",
+  "link": "https://www.allaboutbirds.org/cams/",
+  "found_via": "explore-org",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Project FeederWatch",
+  "why": "Long-running winter feeder counts, Cornell Lab and Birds Canada.",
+  "link": "https://feederwatch.org/",
+  "found_via": "rick-bonney",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "NatureNet (Preece, Jacobs et al.)",
+  "why": "Tabletop and mobile system for nature observation at parks; early HCI citizen science.",
+  "link": "https://doi.org/10.1145/2531602.2531703",
+  "found_via": "jennifer-preece",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Whale FM and Bat Detective (Zooniverse)",
+  "why": "Audio classification projects for orca calls and bat echolocation.",
+  "link": "https://www.zooniverse.org/",
+  "found_via": "zooniverse",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "AllTrails and body inclusivity (CHI EA 2025)",
+  "why": "Critical analysis of the dominant hiking app.",
+  "link": "https://doi.org/10.1145/3706599.3719942",
+  "found_via": "michael-d-jones",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Edyn garden sensor (2014)",
+  "why": "Solar-powered soil sensor with a connected valve; gardening product.",
+  "link": "https://www.youtube.com/watch?v=vLsm1uoEDZ4",
+  "found_via": "parrot",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "AeroGarden (2006)",
+  "why": "Early consumer hydroponic countertop garden.",
+  "link": "https://www.youtube.com/watch?v=NnUFlagDwZA",
+  "found_via": "click-and-grow",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Universal Everything: Nature Always Wins / Lifeforms",
+  "why": "Generative nature forms in public installations.",
+  "link": "https://www.youtube.com/watch?v=jI4SkPIUFAY",
+  "found_via": "refik-anadol",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Charles Foster: Being a Beast (2016)",
+  "why": "Book on living as a badger, otter, fox, deer and swift; umwelt.",
+  "link": "https://en.wikipedia.org/wiki/Being_a_Beast",
+  "found_via": "thomas-thwaites",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Stymphalian Birds (Briot et al., DIS 2020 / CHI 2021)",
+  "why": "Feather-based textile that senses beyond the body.",
+  "link": "https://doi.org/10.1145/3393914.3395840",
+  "found_via": "ilhan-aslan",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Plantimate (DIS 2020)",
+  "why": "Plant-based companion interface.",
+  "link": "https://doi.org/10.1145/3393914.3395901",
+  "found_via": "ilhan-aslan",
+  "status": "open",
+  "batch": "hni"
+ },
+ {
+  "name": "Existing works that could be reclassified as hni",
+  "why": "Already in the gallery under mth: The Hive (Buttress), The Great Animal Orchestra (Krause), Ice Watch (Eliasson), Treehugger: Wawona and We Live in an Ocean of Air (MLF), Amphibious Architecture (Jeremijenko), A Conversation Between Trees (Benford), Red balloon, green balloon (Kuznetsov), Tree VR (new-reality-company--tree), Melbourne tree emails (city-of-melbourne--tree-emails), Encountering Human-Plant Relations (lone-koefoed-hansen--encountering-human-plant-relations). Suggest also=['hni'] via overrides.",
+  "link": "",
+  "found_via": "peter-kahn",
+  "status": "open",
+  "batch": "hni"
  },
  {
   "name": "AnimalSense (VR games on animal senses)",
@@ -668,38 +1156,6 @@
   "why": "Old-growth forest and other ecosystem simulations on the artist site.",
   "link": "https://jakobsteensen.com/",
   "found_via": "jakob-kudsk-steensen",
-  "status": "open",
-  "batch": "mth-art-spec"
- },
- {
-  "name": "Chris Watson",
-  "why": "Wildlife sound recordist and sound artist (Weather Report, Inside the Circle of Fire).",
-  "link": "https://chriswatson.net/",
-  "found_via": "jana-winderen",
-  "status": "open",
-  "batch": "mth-art-spec"
- },
- {
-  "name": "Leah Barclay",
-  "why": "Sound artist and researcher on acoustic ecology and river listening (River Listening, Biosphere Soundscapes).",
-  "link": "https://leahbarclay.com/",
-  "found_via": "jana-winderen",
-  "status": "open",
-  "batch": "mth-art-spec"
- },
- {
-  "name": "Robertina Šebjanič",
-  "why": "Artist working with underwater noise and jellyfish (Aurelia 1+Hz, Echoes of the Abyss).",
-  "link": "https://robertina.net/",
-  "found_via": "kuai-shen",
-  "status": "open",
-  "batch": "mth-art-spec"
- },
- {
-  "name": "World Wilder Lab (Kasia Molga, Erik Overmeire, Ivan Henriques)",
-  "why": "Platform for inter- and intra-species communication founded 2013.",
-  "link": "https://www.studiomolga.com/ABOUT.html",
-  "found_via": "kasia-molga",
   "status": "open",
   "batch": "mth-art-spec"
  },
@@ -840,26 +1296,10 @@
   "batch": "mth-hci"
  },
  {
-  "name": "Ann Light",
-  "why": "Co-author of more-than-human participation; PD with non-human stakeholders; 'More-than-Human Participatory Approaches for Design' (PDC 2024, 10.1145/3661455.3669862).",
-  "link": "",
-  "found_via": "rachel-clarke",
-  "status": "open",
-  "batch": "mth-hci"
- },
- {
   "name": "Anna Poikolainen Rosén",
   "why": "Learning from gardening, felt senses for more-than-human design (DIS 2024), 'Introducing More-Than-Human Design in Practice' (Interactions 2025).",
   "link": "",
   "found_via": "sara-heitlinger",
-  "status": "open",
-  "batch": "mth-hci"
- },
- {
-  "name": "Stanislav Roudavski",
-  "why": "Designs habitat structures for birds; 'Are You Blocking Nonhuman Leadership?' (PDC 2026).",
-  "link": "",
-  "found_via": "seed",
   "status": "open",
   "batch": "mth-hci"
  },
@@ -968,12 +1408,92 @@
   "batch": "mth-hci"
  },
  {
-  "name": "Jeffrey Bardzell",
-  "why": "Co-author across the Bardzell lab's naturecultures papers.",
-  "link": "",
-  "found_via": "shaowen-bardzell",
+  "name": "Claudia Núñez-Pacheco & Anton Poikolainen Rosén – Articulating Felt Senses for More-Than-Human Design (DIS 2024)",
+  "why": "Micro-phenomenology as a method for noticing more-than-human relations",
+  "link": "https://doi.org/10.1145/3643834.3661554",
+  "found_via": "anton-poikolainen-rosen",
   "status": "open",
-  "batch": "mth-hci"
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Rachel Clarke et al. – More-than-human urban futures: speculative participatory design to avoid ecocidal smart cities (PDC 2018)",
+  "why": "Speculative urban walk; related to existing rachel-clarke works",
+  "link": "https://doi.org/10.1145/3210604.3210641",
+  "found_via": "ann-light",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Alinta Krauth – Interspecies Translation Technologies (Leonardo 2026); AI and Care for Other(ed) Animals (Leonardo 2025); butcherbird vocal AI artwork",
+  "why": "Art-led interfaces for interpreting animal signals; overlaps Part A animal-communication scope",
+  "link": "https://doi.org/10.1162/leon_a_02674",
+  "found_via": "alinta-krauth",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Joyce Hwang – Multispecies Lounge (Bentway, 2023), Over 100 Species in a Home, Shelter of Belonging",
+  "why": "Further multispecies architecture projects with images on antsoftheprairie.com",
+  "link": "https://www.antsoftheprairie.com/projects",
+  "found_via": "joyce-hwang",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Andrés Jaque – Techno-Floresta Bogotá (2016), Manifesta 12 Planetary Garden (2018), We the Bacteria (Triennale)",
+  "why": "Further transspecies architecture works",
+  "link": "https://offpolinn.com/work/",
+  "found_via": "andres-jaque",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Studio Ossidiana – The City of Birds (2020–21)",
+  "why": "Model collection of pigeon lofts, bat towers, aviaries and traps; partly covered by Variations on a Birdcage",
+  "link": "https://www.studio-ossidiana.com/the-city-of-birds",
+  "found_via": "studio-ossidiana",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Robertina Šebjanič – Hidden Adriatic, CO_SONIC (Tribeca Immersive 2024), Echoes of the Abyss (Tara expedition)",
+  "why": "Further underwater sound and ocean pollution works",
+  "link": "https://robertina.net",
+  "found_via": "robertina-sebjanic",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Leah Barclay – River Listening",
+  "why": "Acoustic ecology of Australian rivers; project site certificate broken",
+  "link": "https://www.youtube.com/watch?v=dGAcUChycp4",
+  "found_via": "leah-barclay",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Tomás Saraceno – Spider/Web Pavilion 7 (Venice 2019), Arachnophilia",
+  "why": "Further spider works not yet in the gallery",
+  "link": "https://studiotomassaraceno.org",
+  "found_via": "tomas-saraceno",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Timothy Morton – Dark Ecology (2016)",
+  "why": "Third Morton book; cover available (Open Library id 8834498)",
+  "link": "https://openlibrary.org/works/OL20185977W",
+  "found_via": "timothy-morton",
+  "status": "open",
+  "batch": "mth-leads"
+ },
+ {
+  "name": "Michael Marder – Plant-Thinking (2013)",
+  "why": "Philosophy of plant life; cover ISBN unverified",
+  "link": "https://openlibrary.org/works/OL21497654W",
+  "found_via": "emanuele-coccia",
+  "status": "open",
+  "batch": "mth-leads"
  },
  {
   "name": "Jordan & Kutter (FinalSpark founders)",
@@ -1115,14 +1635,6 @@
   "name": "Center for Genomic Gastronomy (Zack Denfeld & Cat Kramer)",
   "why": "BAD Award 2011: Eat Less, Live More – and Pray for Beans.",
   "link": "https://www.badaward.nl/artists-scientists/zack-denfeld-cat-kramer",
-  "found_via": "bad-award",
-  "status": "open",
-  "batch": "user-picks"
- },
- {
-  "name": "Agi Haines",
-  "why": "BAD Award 2015: Drones with Desires (machines with reconstructed nervous systems).",
-  "link": "https://www.badaward.nl/artists-scientists/agi-haines-marcel-de-jeu-jos-van-der-geest",
   "found_via": "bad-award",
   "status": "open",
   "batch": "user-picks"

@@ -1,0 +1,2129 @@
+{
+ "batch": "mth-sweep",
+ "creators": [
+  {
+   "id": "claudia-nunez-pacheco",
+   "name": "Claudia Núñez-Pacheco",
+   "kind": "person",
+   "role": "Design researcher, Malmö University (previously Umeå University)",
+   "role_zh": "马尔默大学设计研究者（曾任职于于默奥大学）",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典",
+   "bio": "Interaction design researcher working with somaesthetics, micro-phenomenology and first-person methods.",
+   "bio_zh": "交互设计研究者，研究身体美学、微观现象学和第一人称方法。",
+   "why": "She develops bodily noticing methods that help designers describe how they relate to the more-than-human world.",
+   "why_zh": "她发展基于身体感受的“留意”方法，帮助设计者描述自己与非人世界的关系。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dan-parker",
+   "name": "Dan Parker",
+   "kind": "person",
+   "role": "Researcher, The University of Melbourne",
+   "role_zh": "墨尔本大学研究者",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Architectural researcher who uses computational design and digital fabrication to build habitat structures for owls and insects.",
+   "bio_zh": "建筑研究者，用计算设计和数字制造为猫头鹰和昆虫搭建栖息结构。",
+   "why": "His prosthetic habitats show how architecture can be designed for the behaviours and cultures of other species.",
+   "why_zh": "他的“假体栖息地”展示了建筑如何为其他物种的行为和文化而设计。",
+   "links": {},
+   "connected_to": [
+    "dan-vy-vu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "markus-wernli",
+   "name": "Markus Wernli",
+   "kind": "person",
+   "role": "Design researcher, Hong Kong Polytechnic University",
+   "role_zh": "香港理工大学设计研究者",
+   "based": "Hong Kong, China",
+   "based_zh": "香港，中国",
+   "bio": "Eco-social designer who runs soil-regeneration projects that link farms, hotels and retailers through food-waste composting.",
+   "bio_zh": "生态社会设计师，通过厨余堆肥把农场、酒店和零售商连接起来，开展土壤再生项目。",
+   "why": "His Hong Kong projects turn soil care into a shared service and a design material.",
+   "why_zh": "他在香港的项目把照护土壤变成一种共同的服务和设计材料。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cayla-key",
+   "name": "Cayla Key",
+   "kind": "person",
+   "role": "Design researcher, Northumbria University",
+   "role_zh": "诺森比亚大学设计研究者",
+   "based": "Newcastle, UK",
+   "based_zh": "纽卡斯尔，英国",
+   "bio": "Design researcher working on care ethics, posthumanism and more-than-human design in HCI.",
+   "bio_zh": "设计研究者，研究关怀伦理、后人类主义和 HCI 中的超越人类设计。",
+   "why": "She mapped the practical tensions researchers face when they try to design with more-than-humans.",
+   "why_zh": "她梳理了研究者在尝试与非人一起设计时遇到的实际矛盾。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "greg-nijs",
+   "name": "Greg Nijs",
+   "kind": "person",
+   "role": "Researcher, Université Libre de Bruxelles",
+   "role_zh": "布鲁塞尔自由大学研究者",
+   "based": "Brussels, Belgium",
+   "based_zh": "布鲁塞尔，比利时",
+   "bio": "Researcher in urban studies and civic HCI who builds DIY tools for citizen interventions in the city.",
+   "bio_zh": "城市研究与公民 HCI 研究者，为市民在城市中的行动制作 DIY 工具。",
+   "why": "He brought Haraway's speculative fabulation into participatory civic design.",
+   "why_zh": "他把 Haraway 的“思辨寓言”方法带入参与式公民设计。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jan-fell",
+   "name": "Jan Fell",
+   "kind": "person",
+   "role": "Researcher, National Tsing Hua University",
+   "role_zh": "清华大学（新竹）研究者",
+   "based": "Hsinchu, Taiwan, China",
+   "based_zh": "新竹，中国台湾",
+   "bio": "HCI researcher studying ethics and sustainability in interaction design that involves plants.",
+   "bio_zh": "HCI 研究者，研究涉及植物的交互设计中的伦理与可持续问题。",
+   "why": "He proposed the first biocentric ethics guidance for HCI research that uses living plants.",
+   "why_zh": "他为使用活体植物的 HCI 研究提出了第一套生物中心主义伦理指引。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonas-fritsch",
+   "name": "Jonas Fritsch",
+   "kind": "person",
+   "role": "Associate Professor, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学副教授",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Interaction design researcher working on affect, atmosphere and bodily experience in design.",
+   "bio_zh": "交互设计研究者，研究设计中的情动、氛围和身体经验。",
+   "why": "With colleagues he proposed breathing-with as a concrete tactic for more-than-human design.",
+   "why_zh": "他与同事提出“与之同呼吸”，作为超越人类设计的一种具体策略。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "annika-wolff",
+   "name": "Annika Wolff",
+   "kind": "person",
+   "role": "Researcher, Lappeenranta-Lahti University of Technology (LUT)",
+   "role_zh": "拉彭兰塔-拉赫蒂工业大学（LUT）研究者",
+   "based": "Lappeenranta, Finland",
+   "based_zh": "拉彭兰塔，芬兰",
+   "bio": "Researcher in data literacy and sustainable city design who uses arts-based methods.",
+   "bio_zh": "研究数据素养和可持续城市设计，常用基于艺术的方法。",
+   "why": "Her SciberPunk personas give the environment a voice in city design workshops.",
+   "why_zh": "她的 SciberPunk 人物角色让环境在城市设计工作坊中有了声音。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kavita-gonsalves",
+   "name": "Kavita Gonsalves",
+   "kind": "person",
+   "role": "Artist and researcher, Queensland University of Technology",
+   "role_zh": "昆士兰科技大学艺术家、研究者",
+   "based": "Brisbane, Australia",
+   "based_zh": "布里斯班，澳大利亚",
+   "bio": "Artist-researcher working with multispecies storytelling, locative media and decolonial perspectives.",
+   "bio_zh": "艺术家和研究者，从事多物种叙事、位置媒体和去殖民视角的创作。",
+   "why": "She led TransHuman Saunter, a geolocative artwork told from the ecosystem of a banyan tree.",
+   "why_zh": "她主导了 TransHuman Saunter，一件从榕树生态系统出发讲故事的位置艺术作品。",
+   "links": {},
+   "connected_to": [
+    "marcus-foth"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gilbertto-prado",
+   "name": "Gilbertto Prado",
+   "kind": "person",
+   "role": "Artist and professor, Anhembi Morumbi University; coordinator of the Poéticas Digitais group",
+   "role_zh": "Anhembi Morumbi 大学教授、艺术家，Poéticas Digitais 小组协调人",
+   "based": "São Paulo, Brazil",
+   "based_zh": "圣保罗，巴西",
+   "bio": "Brazilian media artist whose group Poéticas Digitais builds interactive installations about urban environments.",
+   "bio_zh": "巴西媒体艺术家，他的小组 Poéticas Digitais 创作关于城市环境的互动装置。",
+   "why": "Project Amoreiras gave urban mulberry trees a machine-learning body that reacts to pollution.",
+   "why_zh": "Amoreiras 项目给城市里的桑树装上会学习的机械身体，让它们对污染做出反应。",
+   "links": {
+    "site": "https://www.poeticasdigitais.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "adrian-wong",
+   "name": "Adrian Wong",
+   "kind": "person",
+   "role": "Researcher, The University of Sydney",
+   "role_zh": "悉尼大学研究者",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "bio": "HCI researcher studying conversational agents and more-than-human perspectives in design.",
+   "bio_zh": "HCI 研究者，研究对话代理和设计中的超越人类视角。",
+   "why": "He reviewed how chatbots could speak for animals, plants and ecosystems.",
+   "why_zh": "他梳理了聊天机器人如何为动物、植物和生态系统发声。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "augustine-leudar",
+   "name": "Augustine Leudar",
+   "kind": "person",
+   "role": "Sound artist and researcher",
+   "role_zh": "声音艺术家、研究者",
+   "based": "UK",
+   "based_zh": "英国",
+   "bio": "Sound artist who combines plant electrophysiology with 3D spatial audio in installations.",
+   "bio_zh": "声音艺术家，在装置中把植物电生理信号与三维空间音频结合。",
+   "why": "His Surrounded series turns electrical signals of plants into immersive forest soundscapes.",
+   "why_zh": "他的 Surrounded 系列把植物的电信号变成沉浸式的森林声景。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jennifer-t-harrower",
+   "name": "Juniper (Jennifer T.) Harrower",
+   "kind": "person",
+   "role": "Artist and ecologist; co-founder of the Algae Society BioArt Design Lab",
+   "role_zh": "艺术家、生态学家，Algae Society BioArt Design Lab 联合创始人",
+   "based": "California, US",
+   "based_zh": "加利福尼亚，美国",
+   "bio": "Artist-ecologist who works across bioart and plant–microbe ecology.",
+   "bio_zh": "横跨生物艺术和植物-微生物生态学的艺术家和生态学者。",
+   "why": "She co-founded a global collective that treats algae as research partners and kin.",
+   "why_zh": "她参与创立了一个把藻类当作研究伙伴和亲属的全球艺术集体。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "liliana-e-caughman",
+   "name": "Liliana E. Caughman",
+   "kind": "person",
+   "role": "Researcher, Arizona State University",
+   "role_zh": "亚利桑那州立大学研究者",
+   "based": "Tempe, US",
+   "based_zh": "坦佩，美国",
+   "bio": "Researcher working on water governance, sustainability and civic chatbots.",
+   "bio_zh": "研究水资源治理、可持续性和公民聊天机器人。",
+   "why": "Her RiverBot shows how a single role prompt can let an AI agent speak as a river.",
+   "why_zh": "她的 RiverBot 展示了一条角色提示词如何让 AI 以河流的身份说话。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuyao-lin",
+   "name": "Yuyao Lin",
+   "kind": "person",
+   "role": "Design researcher, Royal College of Art",
+   "role_zh": "英国皇家艺术学院设计研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Design researcher working on more-than-human design and species that people find disgusting.",
+   "bio_zh": "设计研究者，关注超越人类设计以及那些让人反感的物种。",
+   "why": "Her work uses abjection as a design resource instead of focusing only on charismatic animals.",
+   "why_zh": "她把“厌弃”当作设计资源，而不是只关注讨人喜欢的动物。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yuanpeng-nie",
+   "name": "Yuanpeng Nie",
+   "kind": "person",
+   "role": "Design researcher, Guangdong University of Technology",
+   "role_zh": "广东工业大学设计研究者",
+   "based": "Guangzhou, China",
+   "based_zh": "广州，中国",
+   "bio": "Design researcher exploring speculative more-than-human social media.",
+   "bio_zh": "设计研究者，探索思辨性的超越人类社交媒体。",
+   "why": "His project imagines domestic spiders as members of our social networks.",
+   "why_zh": "他的项目设想让家里的蜘蛛成为社交网络中的一员。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nanyi-jiang",
+   "name": "Nanyi Jiang",
+   "kind": "person",
+   "role": "Researcher, Cornell University",
+   "role_zh": "康奈尔大学研究者",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "HCI researcher who co-designs wearables with her companion parrot.",
+   "bio_zh": "HCI 研究者，与自己的伴侣鹦鹉一起共同设计可穿戴物。",
+   "why": "NomadicPerch treats long-term life with an animal as an ongoing co-design process.",
+   "why_zh": "NomadicPerch 把与动物的长期共同生活视为持续的共同设计过程。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jiahe-li",
+   "name": "Jiahe Li",
+   "kind": "person",
+   "role": "Researcher, Xi'an Jiaotong-Liverpool University",
+   "role_zh": "西交利物浦大学研究者",
+   "based": "Suzhou, China",
+   "based_zh": "苏州，中国",
+   "bio": "Design researcher working on virtual reality and nonhuman embodiment.",
+   "bio_zh": "设计研究者，研究虚拟现实和非人化身体验。",
+   "why": "Being Stone asks what it feels like to inhabit a thing that does not act with intention.",
+   "why_zh": "Being Stone 追问：化身为一个没有意图的物体，是什么感觉。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vasco-costa",
+   "name": "Vasco Costa",
+   "kind": "person",
+   "role": "Design researcher",
+   "role_zh": "设计研究者",
+   "based": "Portugal",
+   "based_zh": "葡萄牙",
+   "bio": "Design researcher working with children, storytelling and tangible making for planetary care.",
+   "bio_zh": "设计研究者，结合儿童、讲故事和动手制作来做行星照护教育。",
+   "why": "BioFabulations turns coastal observation into children's multispecies stories.",
+   "why_zh": "BioFabulations 把海岸观察变成孩子们的多物种故事。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "vanessa-monna",
+   "name": "Vanessa Monna",
+   "kind": "person",
+   "role": "Design researcher, Delft University of Technology",
+   "role_zh": "代尔夫特理工大学设计研究者",
+   "based": "Delft, Netherlands",
+   "based_zh": "代尔夫特，荷兰",
+   "bio": "Design researcher working on citizenship, urban participation and the more-than-human political.",
+   "bio_zh": "设计研究者，研究公民身份、城市参与和超越人类的政治。",
+   "why": "She proposes Positional Citizenship to extend political belonging to nonhumans.",
+   "why_zh": "她提出“位置公民身份”，把政治归属扩展到非人。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "manuel-simoes",
+   "name": "Manuel Simões",
+   "kind": "person",
+   "role": "Design researcher, University of Lisbon",
+   "role_zh": "里斯本大学设计研究者",
+   "based": "Lisbon, Portugal",
+   "based_zh": "里斯本，葡萄牙",
+   "bio": "Design researcher working with bio-pigments and local materials of the Tagus estuary.",
+   "bio_zh": "设计研究者，研究塔霍河口的生物颜料和本地材料。",
+   "why": "His colour swatch treats materials as records of an estuary's ecological time.",
+   "why_zh": "他的色卡把材料当作河口生态时间的记录。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wenjia-sun",
+   "name": "Wenjia Sun",
+   "kind": "person",
+   "role": "Design researcher, National Chung Cheng University",
+   "role_zh": "中正大学设计研究者",
+   "based": "Chiayi, Taiwan, China",
+   "based_zh": "嘉义，中国台湾",
+   "bio": "Design researcher working on speculative design, legal fiction and nonhuman rights.",
+   "bio_zh": "设计研究者，研究思辨设计、法律虚构和非人权利。",
+   "why": "Her Cross-species Symbiosis Lives project prototypes laws for shared dwelling with other species.",
+   "why_zh": "她的“跨物种共生生活”项目为与其他物种共居的法律做原型。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "annarita-bianco",
+   "name": "Annarita Bianco",
+   "kind": "person",
+   "role": "Design researcher, University of Campania Luigi Vanvitelli",
+   "role_zh": "坎帕尼亚大学（Luigi Vanvitelli）设计研究者",
+   "based": "Naples, Italy",
+   "based_zh": "那不勒斯，意大利",
+   "bio": "Design researcher working with soil, environmental humanities and participatory workshops.",
+   "bio_zh": "设计研究者，结合土壤、环境人文和参与式工作坊开展研究。",
+   "why": "Becoming Compost uses soil exchange and chromatography to cultivate soil care.",
+   "why_zh": "Becoming Compost 通过交换土壤和色谱实验培养对土壤的照护。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nina-williams",
+   "name": "Nina Williams",
+   "kind": "person",
+   "role": "Researcher, University of Canberra",
+   "role_zh": "堪培拉大学研究者",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚",
+   "bio": "Cultural geographer and design researcher working with fungi and multispecies time.",
+   "bio_zh": "文化地理学者和设计研究者，研究真菌和多物种时间。",
+   "why": "She shows the limits of attunement when design meets the slow time of fungi.",
+   "why_zh": "她指出设计在面对真菌的缓慢时间时，“调谐”也有其极限。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "flavia-alice-mameli",
+   "name": "Flavia Alice Mameli",
+   "kind": "person",
+   "role": "Designer and researcher, University of Applied Arts Vienna",
+   "role_zh": "维也纳应用艺术大学设计师、研究者",
+   "based": "Vienna, Austria",
+   "based_zh": "维也纳，奥地利",
+   "bio": "Designer working with mycelium and regenerative material education.",
+   "bio_zh": "设计师，从事菌丝体和再生材料教育。",
+   "why": "Her BLX toys let children build with blocks that can be composted.",
+   "why_zh": "她的 BLX 玩具让孩子们用可以堆肥的积木搭建。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "yen-fu-chen",
+   "name": "Yen-Fu Chen",
+   "kind": "person",
+   "role": "Design researcher, Tatung University",
+   "role_zh": "大同大学设计研究者",
+   "based": "Taipei, Taiwan, China",
+   "based_zh": "台北，中国台湾",
+   "bio": "Design researcher working on citizen science, sound and more-than-human participation.",
+   "bio_zh": "设计研究者，研究公民科学、声音与超越人类的参与。",
+   "why": "Identifrog turns frog-call recognition into a practice of ecological listening.",
+   "why_zh": "Identifrog 把识别蛙鸣变成一种生态聆听的实践。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alexandra-dementieva",
+   "name": "Alexandra Dementieva",
+   "kind": "person",
+   "role": "Media artist",
+   "role_zh": "媒体艺术家",
+   "based": "Brussels, Belgium",
+   "based_zh": "布鲁塞尔，比利时",
+   "bio": "Media artist who makes immersive interactive installations about perception and communication.",
+   "bio_zh": "媒体艺术家，创作关于感知与沟通的沉浸式互动装置。",
+   "why": "Her work uses tardigrades to imagine communication between very different sensoria.",
+   "why_zh": "她用水熊虫来想象截然不同的感官世界之间如何沟通。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jiho-kim",
+   "name": "Jiho Kim",
+   "kind": "person",
+   "role": "Design researcher, Delft University of Technology",
+   "role_zh": "代尔夫特理工大学设计研究者",
+   "based": "Delft, Netherlands",
+   "based_zh": "代尔夫特，荷兰",
+   "bio": "Biodesign researcher studying how designers can develop sensibilities for working with microbes.",
+   "bio_zh": "生物设计研究者，研究设计者如何培养与微生物合作的感受力。",
+   "why": "Becoming microbes offers a non-anthropocentric stance for designing with bacteria and yeast.",
+   "why_zh": "“成为微生物”为与细菌、酵母一起设计提供了一种非人类中心的立场。",
+   "links": {},
+   "connected_to": [
+    "raphael-kim",
+    "elvin-karana"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "isabel-correa",
+   "name": "Isabel Correa",
+   "kind": "person",
+   "role": "Researcher, Teachers College, Columbia University",
+   "role_zh": "哥伦比亚大学师范学院研究者",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Learning designer working on biodesign tools and pedagogies for children.",
+   "bio_zh": "学习设计研究者，为儿童设计生物设计工具和教学法。",
+   "why": "Myco-kit introduces interspecies creative learning, where children make things together with fungi.",
+   "why_zh": "Myco-kit 提出“跨物种创造性学习”，让孩子们和真菌一起做东西。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anniken-forde",
+   "name": "Anniken Førde",
+   "kind": "person",
+   "role": "Researcher, UiT The Arctic University of Norway",
+   "role_zh": "挪威北极大学研究者",
+   "based": "Tromsø, Norway",
+   "based_zh": "特罗姆瑟，挪威",
+   "bio": "Human geographer working on place, planning and multispecies cities.",
+   "bio_zh": "人文地理学者，研究地方、规划和多物种城市。",
+   "why": "Her Ladder of Multispecies Participation adapts Arnstein's ladder to include other species in planning.",
+   "why_zh": "她的“多物种参与阶梯”改写了 Arnstein 的参与阶梯，把其他物种纳入规划。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jian-yu",
+   "name": "Jian Yu",
+   "kind": "person",
+   "role": "Researcher, Simon Fraser University",
+   "role_zh": "西蒙菲莎大学研究者",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Design researcher working on weaving, craft and posthumanist design practice.",
+   "bio_zh": "设计研究者，研究编织、手工艺和后人类主义设计实践。",
+   "why": "Open Weaving is an autoethnographic practice for decentering the designer while making.",
+   "why_zh": "Open Weaving 是一种自我民族志实践，在制作中让设计者退出中心。",
+   "links": {},
+   "connected_to": [
+    "ron-wakkary"
+   ],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "anton-poikolainen-rosen--relating-to-soil",
+   "creator_ids": [
+    "anton-poikolainen-rosen"
+   ],
+   "title": "Relating to Soil: Chromatography as a Tool for Environmental Engagement",
+   "year": 2022,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A pictorial on soil care at an urban community farm, where workshop participants used soil chromatography to see soil health as coloured patterns on paper.",
+   "description_zh": "这篇图文论文记录了城市社区农场里的土壤照护工作坊：参与者用土壤色谱法，把土壤健康状况显影成纸上的彩色图案。",
+   "idea_en": "Slow, qualitative, hands-on tests can relate people to soil in ways digital sensors cannot.",
+   "idea_zh": "缓慢、定性、亲手做的检测，能让人以数字传感器做不到的方式与土壤建立关系。",
+   "method": "Soil samples are dissolved and wicked through silver-nitrate-treated filter paper, producing radial chromatograms that farmers read together.",
+   "method_zh": "把土壤样本溶解后在经硝酸银处理的滤纸上扩散，形成放射状色谱图，由农人一起解读。",
+   "keywords": [
+    "soil chromatography",
+    "urban farming",
+    "soil care",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533503",
+    "doi": "10.1145/3532106.3533503",
+    "arxiv": "",
+    "venue": "DIS 2022",
+    "title": "Relating to Soil: Chromatography as a Tool for Environmental Engagement"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=KlObabEVJVg"
+   }
+  },
+  {
+   "id": "elisa-giaccardi--makings-of-mth-design",
+   "creator_ids": [
+    "elisa-giaccardi",
+    "johan-redstrom",
+    "iohanna-nicenboim"
+   ],
+   "title": "The making(s) of more-than-human design: introduction to the special issue on more-than-human design and HCI",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "publication",
+   "description": "The introduction to a Human–Computer Interaction journal special issue that frames more-than-human design as a response to the limits of human-centred design and maps what the collected papers make.",
+   "description_zh": "《Human–Computer Interaction》期刊“超越人类设计”特刊的导言，把超越人类设计看作对以人为中心设计局限的回应，并梳理特刊中各篇论文的实践。",
+   "idea_en": "Design now decides what counts as human; it should be grounded in more-than-human relations.",
+   "idea_zh": "设计如今在决定“什么是人”，因此应当建立在超越人类的关系之上。",
+   "method": "An editorial essay that synthesises the special issue's papers into themes of making, agency and relationality.",
+   "method_zh": "编者导言，把特刊论文归纳为制作、能动性和关系性等主题。",
+   "keywords": [
+    "special issue",
+    "more-than-human design",
+    "HCI",
+    "editorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2024.2353357",
+    "doi": "10.1080/07370024.2024.2353357",
+    "arxiv": "",
+    "venue": "HCI Journal 2024",
+    "title": "The making(s) of more-than-human design: introduction to the special issue on more-than-human design and HCI"
+   }
+  },
+  {
+   "id": "elisa-giaccardi--diffractive-interfaces",
+   "creator_ids": [
+    "elisa-giaccardi",
+    "iohanna-nicenboim"
+   ],
+   "title": "Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A pictorial that redesigns the interface of an urban-forest agent-based model so users can shift between scales and see a forest as an interdependent more-than-human body rather than a set of individual trees.",
+   "description_zh": "这篇图文论文重新设计城市森林的主体模型界面，让使用者在不同尺度间切换，把森林看成相互依存的超越人类身体，而不是一棵棵单独的树。",
+   "idea_en": "Interfaces decide what a forest is; design them to show relations, not just metrics.",
+   "idea_zh": "界面决定了森林“是什么”；应该设计成显示关系，而不只是指标。",
+   "method": "Drawing on Barad's agential cuts, the authors prototype interface moves that reframe outputs of agent-based forest simulations.",
+   "method_zh": "借用 Barad 的“能动切割”概念，作者为森林主体模型的输出设计了一系列重构视角的界面原型。",
+   "keywords": [
+    "urban forest",
+    "agent-based model",
+    "diffraction",
+    "data interface",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735404",
+    "doi": "10.1145/3715336.3735404",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales"
+   }
+  },
+  {
+   "id": "claudia-nunez-pacheco--felt-senses",
+   "creator_ids": [
+    "claudia-nunez-pacheco"
+   ],
+   "title": "Articulating Felt Senses for More-Than-Human Design: A Viewpoint for Noticing",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Two researchers used micro-phenomenological interviews to describe their own felt senses while using a telepresence robot and smartphone photography, and propose this as a way of noticing more-than-human relations.",
+   "description_zh": "两位研究者用微观现象学访谈，细致描述自己使用远程临场机器人和手机拍照时的身体感受，并把这种描述当作“留意”超越人类关系的方法。",
+   "idea_en": "Careful description of bodily felt sense makes relations with nonhumans noticeable.",
+   "idea_zh": "细致描述身体的感受，能让人察觉到与非人的关系。",
+   "method": "Micro-phenomenological interviews elicit pre-reflective bodily experience, which is then analysed for relational qualities.",
+   "method_zh": "通过微观现象学访谈引出前反思的身体经验，再分析其中的关系性质。",
+   "keywords": [
+    "felt sense",
+    "micro-phenomenology",
+    "noticing",
+    "first-person research"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661554",
+    "doi": "10.1145/3643834.3661554",
+    "arxiv": "",
+    "venue": "DIS 2024",
+    "title": "Articulating Felt Senses for More-Than-Human Design: A Viewpoint for Noticing"
+   }
+  },
+  {
+   "id": "claudia-nunez-pacheco--entangled-weathers",
+   "creator_ids": [
+    "claudia-nunez-pacheco"
+   ],
+   "title": "Entangled Weathers: A Noticing Tactic",
+   "year": 2025,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A pictorial introducing entangled weathers, a tactic for noticing how inner states and outside weather overlap, illustrated with stories from the author's design practice.",
+   "description_zh": "这篇图文论文提出“纠缠的天气”：一种留意内心状态与外部天气如何交叠的策略，并用作者设计实践中的故事来说明。",
+   "idea_en": "Treat the weather inside and outside the body as one entangled field to notice.",
+   "idea_zh": "把身体内外的天气当作同一个纠缠的场域来留意。",
+   "method": "Builds on the feminist concept of weathering and offers five practices: measuring and mapping, space-time reflection, weathering narratives, metaphorising and surrendering.",
+   "method_zh": "借鉴女性主义的“风化”概念，提出测量与绘图、时空反思、风化叙事、隐喻化和臣服五种做法。",
+   "keywords": [
+    "weathering",
+    "noticing",
+    "feminist theory",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3698061.3726955",
+    "doi": "10.1145/3698061.3726955",
+    "arxiv": "",
+    "venue": "C&C 2025",
+    "title": "Entangled Weathers: A Noticing Tactic"
+   }
+  },
+  {
+   "id": "stanislav-roudavski--multispecies-cohabitation",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "Multispecies Cohabitation and Future Design",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A position paper arguing that designers should treat birds, bats, trees and other lifeforms as informants, co-designers, clients and users, with emancipatory multispecies cohabitation as the goal.",
+   "description_zh": "一篇立场论文，主张设计者应把鸟、蝙蝠、树等生命当作信息提供者、共同设计者、委托人和用户，以解放性的多物种共居为目标。",
+   "idea_en": "Nonhuman lifeforms can be design clients, not just context.",
+   "idea_zh": "非人生命可以是设计的委托人，而不只是背景。",
+   "method": "Translates scholarship in ethics, politics and aesthetics into design terms, drawing on habitat projects for birds, bats and trees.",
+   "method_zh": "把伦理、政治和美学方面的学术讨论转译成设计语言，并以鸟类、蝙蝠和树木的栖息地项目为例。",
+   "keywords": [
+    "multispecies cohabitation",
+    "habitat design",
+    "biodiversity",
+    "urban wildlife"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2020.402",
+    "doi": "10.21606/drs.2020.402",
+    "arxiv": "",
+    "venue": "DRS 2020",
+    "title": "Multispecies Cohabitation and Future Design"
+   },
+   "also": [
+    "aci"
+   ]
+  },
+  {
+   "id": "stanislav-roudavski--nonhuman-leadership",
+   "creator_ids": [
+    "stanislav-roudavski"
+   ],
+   "title": "Are You Blocking Nonhuman Leadership? Five Questions to Find Out",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Five diagnostic questions that help practitioners see where their design process sidelines evidence from nonhuman behaviours, structures and histories.",
+   "description_zh": "五个诊断性问题，帮助实践者看清自己的设计流程在哪些地方忽视了来自非人行为、结构和历史的证据。",
+   "idea_en": "Let nonhuman evidence lead design decisions, and check where your process blocks it.",
+   "idea_zh": "让非人的证据引领设计决策，并检查自己的流程在哪里阻挡了它。",
+   "method": "A short exploratory paper that distils lessons from habitat-design projects into a checklist for participatory design.",
+   "method_zh": "一篇探索性短文，把栖息地设计项目的经验提炼成参与式设计可用的检查清单。",
+   "keywords": [
+    "more-than-human participation",
+    "participatory design",
+    "nonhuman agency",
+    "checklist"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3789492.3796416",
+    "doi": "10.1145/3789492.3796416",
+    "arxiv": "",
+    "venue": "PDC 2026",
+    "title": "Are You Blocking Nonhuman Leadership? Five Questions to Find Out"
+   }
+  },
+  {
+   "id": "dan-parker--insect-wall-twin",
+   "creator_ids": [
+    "dan-parker",
+    "dan-vy-vu"
+   ],
+   "title": "I.N.S.E.C.T. Wall Twin: Designing for and with Insects, Fungi, and Humans",
+   "year": 2023,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "insects",
+    "fungi",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A pictorial of an architectural wall installation built during a nine-day summer camp in Newcastle upon Tyne to support coexistence of local insects, fungi and people.",
+   "description_zh": "这篇图文论文记录了在英国纽卡斯尔九天夏令营中搭建的建筑墙体装置，用来支持本地昆虫、真菌和人的共存。",
+   "idea_en": "Walls can be designed as shared habitat for insects and fungi, not only as human boundaries.",
+   "idea_zh": "墙可以被设计成昆虫和真菌共享的栖息地，而不只是人的边界。",
+   "method": "Workshop participants used bio-digital fabrication, likely combining 3D-printed and mycelium-grown elements, to build a habitat wall and its digital twin.",
+   "method_zh": "工作坊参与者用生物-数字制造技术（可能结合 3D 打印和菌丝体生长构件）搭建栖息墙及其数字孪生。",
+   "keywords": [
+    "insect habitat",
+    "bio-digital fabrication",
+    "mycelium",
+    "summer camp",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.46467/tdd39.2023.228-247",
+    "doi": "10.46467/tdd39.2023.228-247",
+    "arxiv": "",
+    "venue": "Temes de Disseny 2023",
+    "title": "I.N.S.E.C.T. Wall Twin: Designing for and with Insects, Fungi, and Humans"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "markus-wernli--mutuality-service-blueprint",
+   "creator_ids": [
+    "markus-wernli"
+   ],
+   "title": "Rendering Soil Care Across Hotel, Retailer, And Farm With A Mutuality Service Blueprint",
+   "year": 2024,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "In a 43-week pilot in Hong Kong, 13 hoteliers and 17 retail customers diverted 4,800 litres of food waste to composting and grew 1,500 kg of crops; the authors map this as a service blueprint that serves soil as well as people.",
+   "description_zh": "在香港为期 43 周的试点中，13 家酒店和 17 位零售顾客把 4800 升厨余送去堆肥，种出 1500 公斤作物；作者把这一过程画成同时服务土壤和人的服务蓝图。",
+   "idea_en": "Service design tools can include soil as a party whose needs must be met.",
+   "idea_zh": "服务设计工具可以把土壤当作一方，其需要同样必须被满足。",
+   "method": "Adapts the service blueprint into a Mutuality Service Blueprint based on data from the food-waste composting pilot.",
+   "method_zh": "根据厨余堆肥试点的数据，把服务蓝图改造成“互惠服务蓝图”。",
+   "keywords": [
+    "soil care",
+    "service design",
+    "food waste",
+    "composting",
+    "Hong Kong"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.415",
+    "doi": "10.21606/drs.2024.415",
+    "arxiv": "",
+    "venue": "DRS 2024",
+    "title": "Rendering Soil Care Across Hotel, Retailer, And Farm With A Mutuality Service Blueprint"
+   }
+  },
+  {
+   "id": "markus-wernli--nai-waan",
+   "creator_ids": [
+    "markus-wernli"
+   ],
+   "title": "‘Nai Waan’ (泥玩): designing working relationships with soil",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A study of Nai Waan (Soil Trust), an experimental farm studio in Hong Kong where a farmer, a design school and a hotel upcycled food waste to regenerate local soil, and how volunteers' relationships to soil changed.",
+   "description_zh": "研究香港实验农场工作室“泥玩”（Soil Trust）：一位农人、一所设计学院和一家酒店合作，把厨余转化来再生本地土壤；论文分析志愿者与土壤关系的变化。",
+   "idea_en": "Collective, hands-on soil work builds organic, physical and affective ties with soil.",
+   "idea_zh": "集体的亲手土壤劳动，会建立起与土壤在有机、身体和情感上的联系。",
+   "method": "Analyses extensive field material from collective work sessions, intersectoral collaboration and reuse of local materials and logistics.",
+   "method_zh": "分析大量田野材料，涵盖集体劳动、跨部门合作以及本地材料与物流的再利用。",
+   "keywords": [
+    "soil",
+    "Hong Kong",
+    "eco-social design",
+    "food waste",
+    "volunteers"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2025.2604642",
+    "doi": "10.1080/15710882.2025.2604642",
+    "arxiv": "",
+    "venue": "CoDesign 2025",
+    "title": "‘Nai Waan’ (泥玩): designing working relationships with soil"
+   }
+  },
+  {
+   "id": "anna-tsing--unruly-edges",
+   "creator_ids": [
+    "anna-tsing"
+   ],
+   "title": "Unruly Edges: Mushrooms as Companion Species",
+   "year": 2012,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "fungi",
+    "plants",
+    "humans"
+   ],
+   "kind": "publication",
+   "description": "An essay that follows fungi through ten thousand years of human disturbance history to argue that human nature is an interspecies relationship.",
+   "description_zh": "这篇文章跟随真菌穿越一万年的人类扰动史，论证人性本身就是一种跨物种关系。",
+   "idea_en": "Human nature is an interspecies relationship; look for it at the unruly edges of empire.",
+   "idea_zh": "人性就是一种跨物种关系；要在帝国空间那些不受控的边缘处寻找它。",
+   "method": "A feminist multispecies essay that extends Haraway's companion species from pets to mushrooms, cereals and plantations.",
+   "method_zh": "一篇女性主义多物种论文，把 Haraway 的“伴侣物种”从宠物扩展到蘑菇、谷物和种植园。",
+   "keywords": [
+    "companion species",
+    "mushrooms",
+    "multispecies ethnography",
+    "Anna Tsing"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/22011919-3610012",
+    "doi": "10.1215/22011919-3610012",
+    "arxiv": "",
+    "venue": "Environmental Humanities 2012",
+    "title": "Unruly Edges: Mushrooms as Companion Species"
+   }
+  },
+  {
+   "id": "cayla-key--feminist-care-anthropocene",
+   "creator_ids": [
+    "cayla-key"
+   ],
+   "title": "Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Results of a workshop with 17 researchers working between care ethics and posthumanism, laying out tensions around representation, legitimacy, unseen labour and materials in more-than-human design.",
+   "description_zh": "一场有 17 位关怀伦理与后人类主义研究者参加的工作坊的成果，列出超越人类设计中关于代表性、合法性、隐形劳动和材料的矛盾。",
+   "idea_en": "Name the tensions of caring for more-than-humans rather than smoothing them over.",
+   "idea_zh": "把照护非人时遇到的矛盾说出来，而不是把它们掩盖掉。",
+   "method": "Participants packed and unpacked physical 'suitcases' of tensions in a workshop, which the authors analysed thematically.",
+   "method_zh": "参与者在工作坊中“打包”与“拆包”装满矛盾的实体手提箱，作者再做主题分析。",
+   "keywords": [
+    "feminist care ethics",
+    "posthumanism",
+    "workshop",
+    "Anthropocene"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533540",
+    "doi": "10.1145/3532106.3533540",
+    "arxiv": "",
+    "venue": "DIS 2022",
+    "title": "Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9L8b3gXBipM"
+   }
+  },
+  {
+   "id": "greg-nijs--diy-speculative-fabulation",
+   "creator_ids": [
+    "greg-nijs"
+   ],
+   "title": "Fostering More-than-Human Imaginaries: Introducing DIY Speculative Fabulation in Civic HCI",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Two participatory design sessions in Brussels used speculative fabulation with DIY tools to engage citizens with human and more-than-human urban issues.",
+   "description_zh": "在布鲁塞尔开展的两场参与式设计活动，用 DIY 工具结合思辨寓言，引导市民讨论人与非人的城市议题。",
+   "idea_en": "Collective storytelling about other species can open civic imagination beyond human-centred city-making.",
+   "idea_zh": "关于其他物种的集体讲故事，可以让公民想象超出以人为中心的城市建设。",
+   "method": "An ethnographic account of workshops that combined DIY civic tools with Haraway-inspired speculative fabulation.",
+   "method_zh": "对工作坊的民族志记录，工作坊把 DIY 公民工具和受 Haraway 启发的思辨寓言结合起来。",
+   "keywords": [
+    "speculative fabulation",
+    "civic HCI",
+    "DIY",
+    "Brussels"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3419249.3420147",
+    "doi": "10.1145/3419249.3420147",
+    "arxiv": "",
+    "venue": "NordiCHI 2020",
+    "title": "Fostering More-than-Human Imaginaries: Introducing DIY Speculative Fabulation in Civic HCI"
+   }
+  },
+  {
+   "id": "michelle-westerlaken--unsettling-participation",
+   "creator_ids": [
+    "michelle-westerlaken",
+    "jennifer-gabrys"
+   ],
+   "title": "Unsettling Participation by Foregrounding More-than-Human Relations in Digital Forests",
+   "year": 2023,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An essay showing how trees, fungi, soils and sensors disrupt, extend and redistribute participation in digital forest-monitoring projects.",
+   "description_zh": "这篇文章展示树木、真菌、土壤和传感器如何打乱、扩展并重新分配数字森林监测项目中的“参与”。",
+   "idea_en": "Participation in forests is never only human; digital projects should account for that.",
+   "idea_zh": "森林中的参与从来不只是人的；数字项目应当把这一点纳入考虑。",
+   "method": "Travels through three processes of unsettling drawn from the Smart Forests research project.",
+   "method_zh": "以 Smart Forests 研究项目为素材，依次讨论三种“扰动”过程。",
+   "keywords": [
+    "digital forests",
+    "participation",
+    "Smart Forests",
+    "environmental monitoring"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/22011919-10216173",
+    "doi": "10.1215/22011919-10216173",
+    "arxiv": "",
+    "venue": "Environmental Humanities 2023",
+    "title": "Unsettling Participation by Foregrounding More-than-Human Relations in Digital Forests"
+   }
+  },
+  {
+   "id": "jan-fell--biocentric-perspective-plants",
+   "creator_ids": [
+    "jan-fell"
+   ],
+   "title": "A Biocentric Perspective on HCI Design Research Involving Plants",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A review of HCI research that uses plants as interfaces or sensors, read through Taylor's Respect for Nature, ending in ethical guidance for research involving living plants.",
+   "description_zh": "这篇文章综述把植物当作界面或传感器的 HCI 研究，以 Taylor 的“尊重自然”为视角，最后给出涉及活体植物研究的伦理指引。",
+   "idea_en": "Research ethics should extend from humans and animals to plants.",
+   "idea_zh": "研究伦理应当从人和动物延伸到植物。",
+   "method": "A literature review of plant-based HCI projects analysed with biocentric philosophy.",
+   "method_zh": "以生物中心主义哲学分析植物相关 HCI 项目的文献综述。",
+   "keywords": [
+    "biocentrism",
+    "plant ethics",
+    "Respect for Nature",
+    "review"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3512887",
+    "doi": "10.1145/3512887",
+    "arxiv": "",
+    "venue": "TOCHI 2022",
+    "title": "A Biocentric Perspective on HCI Design Research Involving Plants"
+   },
+   "also": [
+    "biohybrid"
+   ]
+  },
+  {
+   "id": "jonas-fritsch--breathing-with",
+   "creator_ids": [
+    "jonas-fritsch"
+   ],
+   "title": "‘Breathing-with’: a design tactic for the more-than-human",
+   "year": 2023,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "The authors analyse three of their projects about breath and breathing and propose breathing-with as a design tactic that extends bodily awareness to material, living and social bodies.",
+   "description_zh": "作者分析自己三个关于呼吸的项目，提出“与之同呼吸”这一设计策略，把身体觉察延伸到物质、生命和社会的身体。",
+   "idea_en": "Breath is a shared medium that can move designers from their own body to the more-than-human.",
+   "idea_zh": "呼吸是一种共享的媒介，能把设计者从自己的身体带到超越人类的世界。",
+   "method": "Comparative analysis of three research-through-design projects that engaged breathing bodies and air.",
+   "method_zh": "对三个涉及呼吸身体和空气的通过设计进行研究的项目作比较分析。",
+   "keywords": [
+    "breathing",
+    "soma design",
+    "design tactic",
+    "air"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2023.2275760",
+    "doi": "10.1080/07370024.2023.2275760",
+    "arxiv": "",
+    "venue": "HCI Journal 2023",
+    "title": "‘Breathing-with’: a design tactic for the more-than-human"
+   }
+  },
+  {
+   "id": "annika-wolff--sciberpunks",
+   "creator_ids": [
+    "annika-wolff"
+   ],
+   "title": "Designing SciberPunks as Future Personas for More than Human Design",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A method for creating future personas called SciberPunks, who can feel environmental data, for example tasting it or showing it as living tattoos, to voice the environment in sustainable city design.",
+   "description_zh": "一种创建未来人物角色的方法：SciberPunk 能感知环境数据，比如尝出数据的味道，或把数据显示成皮肤上的活体纹身，用来在可持续城市设计中替环境发声。",
+   "idea_en": "Give personas data-sensing superpowers so they can speak for the environment.",
+   "idea_zh": "给人物角色赋予感知数据的超能力，让它们替环境说话。",
+   "method": "Five participants went through arts-based activities with environmental data to build their personas.",
+   "method_zh": "五位参与者通过基于艺术的环境数据活动来构建各自的人物角色。",
+   "keywords": [
+    "personas",
+    "environmental data",
+    "smart city",
+    "arts-based methods"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411763.3443443",
+    "doi": "10.1145/3411763.3443443",
+    "arxiv": "",
+    "venue": "CHI 2021 EA",
+    "title": "Designing SciberPunks as Future Personas for More than Human Design"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mwNiFZ188rQ"
+   }
+  },
+  {
+   "id": "kavita-gonsalves--transhuman-saunter",
+   "creator_ids": [
+    "kavita-gonsalves",
+    "marcus-foth"
+   ],
+   "title": "TransHuman Saunter: Multispecies Storytelling in Precarious Times",
+   "year": 2023,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A geolocative artwork in which four women artists of colour document their entanglements with the ecosystem of an Indian banyan tree in Brisbane City Botanic Gardens.",
+   "description_zh": "一件位置媒体艺术作品：四位有色人种女性艺术家记录自己与布里斯班城市植物园中一棵印度榕树生态系统的纠缠。",
+   "idea_en": "Tell pluralistic stories from one tree's multispecies community.",
+   "idea_zh": "从一棵树的多物种群落出发，讲述多元的故事。",
+   "method": "Individual artworks are anchored to locations around the banyan tree and accessed through a geolocative app.",
+   "method_zh": "各件作品锚定在榕树周边的具体位置，观众通过位置应用来访问。",
+   "keywords": [
+    "banyan tree",
+    "geolocative art",
+    "multispecies storytelling",
+    "Brisbane"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_02243",
+    "doi": "10.1162/leon_a_02243",
+    "arxiv": "",
+    "venue": "Leonardo 2023",
+    "title": "TransHuman Saunter: Multispecies Storytelling in Precarious Times"
+   }
+  },
+  {
+   "id": "doenja-oogjes--knitting-unknown-trees",
+   "creator_ids": [
+    "doenja-oogjes",
+    "netta-ofer"
+   ],
+   "title": "Knitting with unknown trees: assembling a more-than-human practice",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A pictorial that takes the 'unknown' entries of a municipal tree dataset, trees unclassified due to error, decay or absence, and knits them as a way of knowing urban trees beyond quantification.",
+   "description_zh": "这篇图文论文选取市政树木数据库中“未知”的条目（因错误、腐朽或缺失而未分类的树），用编织的方式去认识城市树木，而不是只靠量化。",
+   "idea_en": "The gaps in a dataset can be where nonhuman agency shows up.",
+   "idea_zh": "数据集里的空白，可能正是非人能动性显现的地方。",
+   "method": "Knitting translates data on unknown trees into textile pieces, documented with reflections on shifts and compromises in the practice.",
+   "method_zh": "用编织把未知树木的数据转化为织物，并记录实践中的转变和妥协。",
+   "keywords": [
+    "urban trees",
+    "knitting",
+    "tree dataset",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3715336.3735431",
+    "doi": "10.1145/3715336.3735431",
+    "arxiv": "",
+    "venue": "DIS 2025",
+    "title": "Knitting with unknown trees: assembling a more-than-human practice"
+   }
+  },
+  {
+   "id": "gilbertto-prado--amoreiras",
+   "creator_ids": [
+    "gilbertto-prado"
+   ],
+   "title": "Project Amoreiras (Mulberry Trees): Autonomy and Artificial Learning in an Urban Environment",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An urban intervention on Avenida Paulista in São Paulo where mulberry trees in robotic pots sense pollution and pedestrians and move in response.",
+   "description_zh": "在圣保罗保利斯塔大道上的城市介入：种在机械花盆里的桑树感知污染和行人，并做出动作回应。",
+   "idea_en": "Give urban trees a body that reacts to the pollution they live in.",
+   "idea_zh": "给城市树木一个会对所处污染做出反应的身体。",
+   "method": "Sensors read air quality and presence; the trees' motion follows Conway-style neighbourhood rules and machine learning.",
+   "method_zh": "传感器读取空气质量和人的存在，树的运动遵循类似 Conway 生命游戏的邻域规则并结合机器学习。",
+   "keywords": [
+    "mulberry trees",
+    "urban intervention",
+    "air pollution",
+    "Poéticas Digitais",
+    "São Paulo"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_01557",
+    "doi": "10.1162/leon_a_01557",
+    "arxiv": "",
+    "venue": "Leonardo 2018",
+    "title": "Project Amoreiras (Mulberry Trees): Autonomy and Artificial Learning in an Urban Environment"
+   },
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6iGPny3BQYs"
+   },
+   "source_url": "https://www.poeticasdigitais.net"
+  },
+  {
+   "id": "judith-dorrenbacher--navigating-the-paradox",
+   "creator_ids": [
+    "judith-dorrenbacher",
+    "madlen-kneile",
+    "marc-hassenzahl",
+    "matthias-laschke"
+   ],
+   "title": "Navigating the Paradox: Challenges of Designing Technology for Nonhumans",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "An analysis of seven student concepts that advocate for nonhuman interests, such as tree representatives in parliament or a robot bat that throws seed bombs, and of the paradox each one contains.",
+   "description_zh": "分析七个替非人利益发声的学生概念，例如议会里的树木代表、投掷种子炸弹的机器蝙蝠，并指出每个概念内含的悖论。",
+   "idea_en": "Designing for nonhumans often means preserving by separating and conserving the wild by taming it.",
+   "idea_zh": "为非人设计往往意味着“以分隔来保护”“以驯化来保存荒野”。",
+   "method": "Concepts from a master's course were coded by the relations they allow (inter-, intra- or none) and their core paradox.",
+   "method_zh": "对硕士课程产出的概念按其允许的关系（种间、种内或无关系）和核心悖论进行编码。",
+   "keywords": [
+    "student concepts",
+    "paradox",
+    "nonhuman interests",
+    "design education"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3679318.3685363",
+    "doi": "10.1145/3679318.3685363",
+    "arxiv": "",
+    "venue": "NordiCHI 2024",
+    "title": "Navigating the Paradox: Challenges of Designing Technology for Nonhumans"
+   }
+  },
+  {
+   "id": "larissa-pschetz--temporal-ecologies",
+   "creator_ids": [
+    "larissa-pschetz"
+   ],
+   "title": "Designing Temporal Ecologies: Reframing Multispecies Temporalities Through Design",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Using design examples from an interdisciplinary workshop, the paper shows how design can reconnect human and other-species timescales and reduce temporal mismatches that drive biodiversity loss.",
+   "description_zh": "论文以一场跨学科工作坊产生的设计案例为素材，说明设计如何重新连接人与其他物种的时间尺度，减少导致生物多样性丧失的时间错配。",
+   "idea_en": "Biodiversity loss is also a problem of mismatched times; design can re-align them.",
+   "idea_zh": "生物多样性丧失也是时间错配的问题；设计可以把时间重新对齐。",
+   "method": "Applies the Temporal Design framework to workshop outputs about phenology, seasons and multispecies rhythms.",
+   "method_zh": "把时间设计框架应用于关于物候、季节和多物种节律的工作坊成果。",
+   "keywords": [
+    "temporal design",
+    "phenology",
+    "multispecies time",
+    "workshop"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.1068",
+    "doi": "10.21606/drs.2024.1068",
+    "arxiv": "",
+    "venue": "DRS 2024",
+    "title": "Designing Temporal Ecologies: Reframing Multispecies Temporalities Through Design"
+   }
+  },
+  {
+   "id": "adrian-wong--conversational-agents-mth",
+   "creator_ids": [
+    "adrian-wong"
+   ],
+   "title": "Beyond Human Interaction: A Contextual Review of Conversational Agents to Represent More-Than-Human Perspectives",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A review of how conversational agents could represent animals, native flora and fauna and natural systems in HCI, translating ecological data into voices people can engage with.",
+   "description_zh": "综述对话代理如何在 HCI 中代表动物、本土动植物和自然系统，把生态数据转化成人可以交流的声音。",
+   "idea_en": "Chatbots can amplify nonhuman voices, if designed with care about who speaks.",
+   "idea_zh": "聊天机器人可以放大非人的声音，但要谨慎处理由谁来说话。",
+   "method": "A contextual literature review of conversational agents and more-than-human HCI.",
+   "method_zh": "对对话代理与超越人类 HCI 的情境化文献综述。",
+   "keywords": [
+    "conversational agents",
+    "chatbots",
+    "more-than-human voices",
+    "review"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3726986.3727047",
+    "doi": "10.1145/3726986.3727047",
+    "arxiv": "",
+    "venue": "OzCHI 2024",
+    "title": "Beyond Human Interaction: A Contextual Review of Conversational Agents to Represent More-Than-Human Perspectives"
+   }
+  },
+  {
+   "id": "nadia-campo-woytuk--designing-fertility-otherwise",
+   "creator_ids": [
+    "nadia-campo-woytuk"
+   ],
+   "title": "Designing fertility otherwise: Of human, animal and soil relations",
+   "year": 2023,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "humans",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A feminist analysis of fertility sensing across human bodies, livestock and soil, followed by 'design seeds' and four evocative images for designing fertility otherwise.",
+   "description_zh": "对人体、家畜和土壤三类“生育力”传感的女性主义分析，并提出“设计种子”和四幅唤起性图像，探索另一种生育力设计。",
+   "idea_en": "Fertility technologies for bodies, animals and land share one patriarchal history; design can break it.",
+   "idea_zh": "针对身体、动物和土地的生育力技术共享一段父权历史；设计可以打破它。",
+   "method": "Critical analysis of existing fertility technologies plus material design explorations presented as prompts.",
+   "method_zh": "对现有生育力技术的批判分析，加上以提示形式呈现的材料设计探索。",
+   "keywords": [
+    "fertility sensing",
+    "feminist HCI",
+    "soil",
+    "livestock"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/nordes.2023.36",
+    "doi": "10.21606/nordes.2023.36",
+    "arxiv": "",
+    "venue": "Nordes 2023",
+    "title": "Designing fertility otherwise: Of human, animal and soil relations"
+   }
+  },
+  {
+   "id": "augustine-leudar--surrounded",
+   "creator_ids": [
+    "augustine-leudar"
+   ],
+   "title": "Surrounded: A Series of Sound Installations That Combine Plant Electrophysiology and 3D Sonic Art",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A series of sound installations that record electrical action potentials in plants and the mycorrhizal network and spatialise them in 3D audio forest soundscapes.",
+   "description_zh": "一系列声音装置：记录植物和菌根网络中的电动作电位，并在三维音频森林声景中进行空间化呈现。",
+   "idea_en": "Plant electrical signals can be composed into immersive sound, not just plotted as data.",
+   "idea_zh": "植物的电信号可以被作曲成沉浸式声音，而不只是画成数据图。",
+   "method": "Electrodes read plant action potentials, which drive sounds placed in space with novel 3D spatialisation techniques.",
+   "method_zh": "电极读取植物动作电位，驱动用新型三维空间化技术放置的声音。",
+   "keywords": [
+    "plant electrophysiology",
+    "3D audio",
+    "mycorrhizal network",
+    "sound installation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_01338",
+    "doi": "10.1162/leon_a_01338",
+    "arxiv": "",
+    "venue": "Leonardo 2018",
+    "title": "Surrounded: A Series of Sound Installations That Combine Plant Electrophysiology and 3D Sonic Art"
+   },
+   "also": [
+    "biohybrid"
+   ]
+  },
+  {
+   "id": "jennifer-t-harrower--algae-society",
+   "creator_ids": [
+    "jennifer-t-harrower"
+   ],
+   "title": "The Algae Society BioArt Design Lab: Exploring Multispecies Entanglements and Making Kin with Algae",
+   "year": 2022,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "The founding members of the Algae Society, a global collective of artists, scientists and scholars who treat algae as research partners, introduce the group and a collective collage of their works.",
+   "description_zh": "Algae Society 的创始成员介绍这个把藻类当作研究伙伴的全球艺术家、科学家和学者集体，以及成员作品的集体拼贴。",
+   "idea_en": "Make kin with algae by working with them as international research partners.",
+   "idea_zh": "把藻类当作国际研究伙伴一起工作，与它们结成亲缘。",
+   "method": "Members cultivate and image algae in bioart works and reflect on process, materiality and aesthetics.",
+   "method_zh": "成员在生物艺术作品中培养和影像化藻类，并反思过程、材料性和美学。",
+   "keywords": [
+    "Algae Society",
+    "bioart",
+    "algae",
+    "kinship",
+    "collective"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_02184",
+    "doi": "10.1162/leon_a_02184",
+    "arxiv": "",
+    "venue": "Leonardo 2022",
+    "title": "The Algae Society BioArt Design Lab: Exploring Multispecies Entanglements and Making Kin with Algae"
+   },
+   "also": [
+    "bio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R7Py_-UmwSA"
+   },
+   "images": [
+    "https://algaesociety.org/wp-content/uploads/2022/01/Algae-Digital-Kaleidoscope-_-Tapestry-2022-Jennifer-Parker-400x400.jpg"
+   ],
+   "source_url": "https://algaesociety.org"
+  },
+  {
+   "id": "liliana-e-caughman--you-are-a-river",
+   "creator_ids": [
+    "liliana-e-caughman"
+   ],
+   "title": "You Are a River: Reorienting a Civic WaterBot from the Bottom Up",
+   "year": 2026,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "While iterating on WaterBot, a civic water chatbot, the team replaced layered instructions with a single system prompt, 'You are a river', and found the resulting RiverBot gave more resonant answers across communities.",
+   "description_zh": "团队在迭代公民水资源聊天机器人 WaterBot 时，用一句系统提示词“你是一条河”替换了层层叠加的指令；由此得到的 RiverBot 在不同社群中给出更有共鸣的回答。",
+   "idea_en": "Letting an AI speak as the river reframes civic information around relation instead of facts.",
+   "idea_zh": "让 AI 以河流的身份说话，把公民信息从事实转向关系。",
+   "method": "A prompt-engineered LLM chatbot with retrieval and guardrails was reframed through Whole Body Knowing and relational learning, then compared with the original.",
+   "method_zh": "对带有检索增强和安全护栏的大模型聊天机器人，用“全身认知”和关系学习重新构思，并与原版对比。",
+   "keywords": [
+    "LLM",
+    "chatbot",
+    "river",
+    "water governance",
+    "role prompting"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3772318.3791890",
+    "doi": "10.1145/3772318.3791890",
+    "arxiv": "",
+    "venue": "CHI 2026",
+    "title": "You Are a River: Reorienting a Civic WaterBot from the Bottom Up"
+   }
+  },
+  {
+   "id": "yuyao-lin--co-designing-with-the-abject",
+   "creator_ids": [
+    "yuyao-lin"
+   ],
+   "title": "Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions",
+   "year": 2025,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "paper",
+   "description": "A method that uses Animal Writing and autoethnography to design with species that provoke disgust, treating abjection as a productive force rather than an obstacle.",
+   "description_zh": "一种结合“动物书写”和自我民族志的方法，用来与令人反感的物种一起设计，把厌弃看作有生产力的力量而不是障碍。",
+   "idea_en": "Stop designing only for charismatic species; work with the ones we recoil from.",
+   "idea_zh": "不要只为讨人喜欢的物种设计，也要与那些让我们退缩的物种合作。",
+   "method": "Integrates Animal Writing with autoethnography into a research-through-design cycle.",
+   "method_zh": "把动物书写与自我民族志整合进通过设计进行研究的循环。",
+   "keywords": [
+    "abjection",
+    "Animal Writing",
+    "autoethnography",
+    "research through design"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2025.2563061",
+    "doi": "10.1080/15710882.2025.2563061",
+    "arxiv": "",
+    "venue": "CoDesign 2025",
+    "title": "Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions"
+   }
+  },
+  {
+   "id": "yuanpeng-nie--spider-net-friend",
+   "creator_ids": [
+    "yuanpeng-nie"
+   ],
+   "title": "My Spider \"Net Friend\": Designing More-than-Human Social Media for Human-Spider Entanglement",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "speculative",
+   "description": "An ongoing project that speculates a social media platform where spiders living in homes become 'friends' in people's feeds, prompting attention to their presence and wellbeing.",
+   "description_zh": "一个进行中的思辨项目：设想一个社交媒体平台，让住在家里的蜘蛛成为人们信息流中的“网友”，促使人关注它们的存在和状态。",
+   "idea_en": "Put the spiders we share homes with into our social networks.",
+   "idea_zh": "把与我们同住的蜘蛛放进我们的社交网络。",
+   "method": "Speculative design of a platform, likely using cameras or sensors near webs to post spider activity.",
+   "method_zh": "思辨性平台设计，可能在蛛网附近用摄像头或传感器发布蜘蛛的动态。",
+   "keywords": [
+    "spiders",
+    "social media",
+    "speculative design",
+    "domestic space"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3758871.3758944",
+    "doi": "10.1145/3758871.3758944",
+    "arxiv": "",
+    "venue": "Chinese CHI 2024",
+    "title": "My Spider \"Net Friend\": Designing More-than-Human Social Media for Human-Spider Entanglement"
+   }
+  },
+  {
+   "id": "nanyi-jiang--nomadicperch",
+   "creator_ids": [
+    "nanyi-jiang"
+   ],
+   "title": "NomadicPerch: More-Than-Human Co-Design of a Shared Perch",
+   "year": 2026,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A felted, sensor-augmented wearable perch co-designed over time by the first author and her parrot Shiso, whose avoidance, destruction and attraction reshaped each prototype.",
+   "description_zh": "一件毛毡制、带传感器的可穿戴栖木，由第一作者和她的鹦鹉 Shiso 长期共同设计；鹦鹉的回避、破坏和亲近改变了每一版原型。",
+   "idea_en": "Co-design with an animal is a long, embodied relationship, not a single session.",
+   "idea_zh": "与动物共同设计是一段长期的、具身的关系，而不是一次活动。",
+   "method": "Iterative felted prototypes worn on the hand, with sensors, adjusted according to the parrot's behaviour.",
+   "method_zh": "迭代制作戴在手上的毛毡原型并加装传感器，根据鹦鹉的行为不断调整。",
+   "keywords": [
+    "parrot",
+    "wearable",
+    "co-design",
+    "felting",
+    "companion species"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802974.3808031",
+    "doi": "10.1145/3802974.3808031",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "NomadicPerch: More-Than-Human Co-Design of a Shared Perch"
+   },
+   "also": [
+    "aci"
+   ]
+  },
+  {
+   "id": "jiahe-li--being-stone",
+   "creator_ids": [
+    "jiahe-li"
+   ],
+   "title": "Being Stone: Designing Nonhuman Embodiment in VR",
+   "year": 2026,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A VR experience in which participants inhabit the viewpoint of a stone that changes over time but does not act with intention; participants described their agency as indirect and distributed.",
+   "description_zh": "一个 VR 体验：参与者化身为一块随时间变化却没有意图的石头；参与者把自己的能动性描述为间接、分散的。",
+   "idea_en": "Embodying a non-acting thing unsettles the idea that agency means intention.",
+   "idea_zh": "化身为一个不会行动的物体，会动摇“能动性等于意图”的想法。",
+   "method": "Two VR configurations let participants enter the stone's time and environment; experiences were studied through interviews.",
+   "method_zh": "两种 VR 配置让参与者进入石头的时间与环境，并通过访谈研究其体验。",
+   "keywords": [
+    "virtual reality",
+    "nonhuman embodiment",
+    "stone",
+    "agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3802974.3808023",
+    "doi": "10.1145/3802974.3808023",
+    "arxiv": "",
+    "venue": "DIS 2026",
+    "title": "Being Stone: Designing Nonhuman Embodiment in VR"
+   }
+  },
+  {
+   "id": "vasco-costa--biofabulations",
+   "creator_ids": [
+    "vasco-costa"
+   ],
+   "title": "BioFabulations: Embodied Sensemaking for Planetary Care",
+   "year": 2026,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A toolkit and framework in which children observe coastal life, invent and model magical creatures, and animate their stories with stop-motion as a way to learn planetary care.",
+   "description_zh": "一套工具包和框架：孩子们观察海岸生命，创造并制作神奇生物模型，再用定格动画讲述它们的故事，以此学习行星照护。",
+   "idea_en": "Fabulating creatures from real coastal observation turns ecology into embodied relation.",
+   "idea_zh": "从真实海岸观察出发虚构生物，把生态知识变成具身的关系。",
+   "method": "Three stages, observe, create and fabulate, animate and tell, run as activities with children using sketching, modelling and digital stop-motion.",
+   "method_zh": "分为观察、创造与虚构、动画与讲述三阶段，孩子们用素描、建模和数字定格动画完成。",
+   "keywords": [
+    "children",
+    "fabulation",
+    "stop-motion",
+    "coastal ecology"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803784.3809288",
+    "doi": "10.1145/3803784.3809288",
+    "arxiv": "",
+    "venue": "C&C 2026",
+    "title": "BioFabulations: Embodied Sensemaking for Planetary Care"
+   }
+  },
+  {
+   "id": "vanessa-monna--positional-citizenship",
+   "creator_ids": [
+    "vanessa-monna"
+   ],
+   "title": "Towards Positional Citizenship: designing for the More-than-Human Political",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "The paper introduces Positional Citizenship, a notion of citizenship based on Plessner's positionality, so that more-than-human agents shaping collective life can take part in the political.",
+   "description_zh": "论文提出基于 Plessner“位置性”概念的“位置公民身份”，让塑造集体生活的非人主体也能参与政治。",
+   "idea_en": "Citizenship can be rethought as relational co-presence rather than a human privilege.",
+   "idea_zh": "公民身份可以被重新理解为关系性的共在，而不是人的特权。",
+   "method": "A conceptual argument grounded in Latour and Plessner and applied to urban design situations.",
+   "method_zh": "以 Latour 和 Plessner 为基础的概念论证，并应用于城市设计情境。",
+   "keywords": [
+    "citizenship",
+    "Latour",
+    "Plessner",
+    "urban politics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.2605",
+    "doi": "10.21606/drs.2026.2605",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "Towards Positional Citizenship: designing for the More-than-Human Political"
+   }
+  },
+  {
+   "id": "manuel-simoes--tagus-colour-swatch",
+   "creator_ids": [
+    "manuel-simoes"
+   ],
+   "title": "Tagus estuary color swatch – Materials as affective mediators in more-than-human temporalities",
+   "year": 2026,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "algae",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A research-through-design colour palette made from bio-pigments of local plants, minerals, algae and waste streams of the Tagus estuary in Lisbon.",
+   "description_zh": "一套通过设计进行研究的色卡，用里斯本塔霍河口本地植物、矿物、藻类和废弃物中提取的生物颜料制成。",
+   "idea_en": "A material catalogue can be an archive of an estuary's deep time and affect.",
+   "idea_zh": "材料目录可以成为一个河口深时与情感的档案。",
+   "method": "Pigments are extracted and processed from estuary sources and organised into a swatch that encodes seasonal and ecological rhythms.",
+   "method_zh": "从河口来源提取加工颜料，整理成能体现季节与生态节律的色卡。",
+   "keywords": [
+    "bio-pigments",
+    "Tagus estuary",
+    "colour swatch",
+    "material catalogue"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.2121",
+    "doi": "10.21606/drs.2026.2121",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "Tagus estuary color swatch – Materials as affective mediators in more-than-human temporalities"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "wenjia-sun--cross-species-symbiosis-lives",
+   "creator_ids": [
+    "wenjia-sun"
+   ],
+   "title": "Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'?",
+   "year": 2025,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A speculative design project, Cross-species Symbiosis Lives, that uses provotypes and legislative fictioneering to imagine social contracts granting legal personhood to nonhumans in shared dwellings.",
+   "description_zh": "思辨设计项目“跨物种共生生活”用挑衅性原型和“立法虚构”，想象在共居空间中赋予非人法律人格的社会契约。",
+   "idea_en": "Prototype the laws, not just the objects, of living with other species.",
+   "idea_zh": "不只为与其他物种共居设计物件，也为之设计法律。",
+   "method": "Combines legislative fictioneering, material prototypes and embedded governance scenarios.",
+   "method_zh": "结合立法虚构、材料原型和嵌入式治理情境。",
+   "keywords": [
+    "non-human rights",
+    "legislative fiction",
+    "provotype",
+    "posthuman governance"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/iasdr.2025.568",
+    "doi": "10.21606/iasdr.2025.568",
+    "arxiv": "",
+    "venue": "IASDR 2025",
+    "title": "Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'?"
+   }
+  },
+  {
+   "id": "annarita-bianco--becoming-compost",
+   "creator_ids": [
+    "annarita-bianco"
+   ],
+   "title": "Becoming compost: Fostering soil care through design practices",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Two workshops in which participants mixed and exchanged soil samples, made radial chromatographies and used augmented reality to reflect on soil as a site of interspecies exchange.",
+   "description_zh": "两场工作坊：参与者混合、交换土壤样本，制作放射状色谱图，并借助增强现实思考土壤作为跨物种交换之地。",
+   "idea_en": "Handling and exchanging soil builds awareness of its fragility and life.",
+   "idea_zh": "亲手处理和交换土壤，能让人意识到它的脆弱与生机。",
+   "method": "Soil mixing, radial chromatography and AR layers were combined in participatory workshops inspired by the environmental humanities.",
+   "method_zh": "受环境人文启发，在参与式工作坊中结合土壤混合、放射状色谱和增强现实。",
+   "keywords": [
+    "soil",
+    "chromatography",
+    "augmented reality",
+    "workshop"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/nordes.2025.45",
+    "doi": "10.21606/nordes.2025.45",
+    "arxiv": "",
+    "venue": "Nordes 2025",
+    "title": "Becoming compost: Fostering soil care through design practices"
+   }
+  },
+  {
+   "id": "nina-williams--fungal-time",
+   "creator_ids": [
+    "nina-williams"
+   ],
+   "title": "Incommensurable durations: Fungal time and the limits of attunement in multispecies design",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Through encounters with fungal growth, the paper argues that organisms' timeframes are incommensurable with human and capitalist time, which limits how far designers can 'attune'.",
+   "description_zh": "论文通过与真菌生长的相遇论证：生物的时间尺度与人类和资本主义的时间无法通约，这限制了设计者“调谐”的程度。",
+   "idea_en": "Multispecies design must accept times it cannot fully share.",
+   "idea_zh": "多物种设计必须接受那些无法完全共享的时间。",
+   "method": "Reflects on a set of experiments with fungi and their growth rhythms.",
+   "method_zh": "反思一系列与真菌及其生长节律有关的实验。",
+   "keywords": [
+    "fungal time",
+    "multispecies design",
+    "temporality",
+    "attunement"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.1709",
+    "doi": "10.21606/drs.2026.1709",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "Incommensurable durations: Fungal time and the limits of attunement in multispecies design"
+   }
+  },
+  {
+   "id": "flavia-alice-mameli--blx-mycelium-toys",
+   "creator_ids": [
+    "flavia-alice-mameli"
+   ],
+   "title": "Co-creating with fungi: mycelium toys and pedagogies for regenerative futures",
+   "year": 2026,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "fungi",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "BLX is a series of mycelium-grown educational toys shaped like inflated building blocks that children can play with, compost or reuse as plant pots.",
+   "description_zh": "BLX 是一套用菌丝体长成的教育玩具，形如充气积木，孩子们可以玩，也可以拿去堆肥或当花盆再用。",
+   "idea_en": "Toys that decay teach children regeneration by making it tangible.",
+   "idea_zh": "会腐烂的玩具让再生过程变得可触摸，从而教给孩子。",
+   "method": "Mycelium is grown in block-shaped moulds and dried; the toys are tested with children in early-years and primary education.",
+   "method_zh": "在积木形模具中培养菌丝体并干燥，再在幼儿和小学教育中与孩子们测试。",
+   "keywords": [
+    "mycelium",
+    "toys",
+    "children",
+    "compostable",
+    "education"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2026.604",
+    "doi": "10.21606/drs.2026.604",
+    "arxiv": "",
+    "venue": "DRS 2026",
+    "title": "Co-creating with fungi: mycelium toys and pedagogies for regenerative futures"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "yen-fu-chen--identifrog",
+   "creator_ids": [
+    "yen-fu-chen"
+   ],
+   "title": "Listening with frogs: sonic thick mapping for more-than-human participation",
+   "year": 2026,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Identifrog is a mobile citizen science app for frog-call recognition in Taiwan that keeps uncertainty open with probabilistic AI and interactive spectrograms, turning identification into ecological listening.",
+   "description_zh": "Identifrog 是台湾的一款蛙鸣识别公民科学 App，用概率式 AI 和可交互的声谱图保留不确定性，把识别变成生态聆听。",
+   "idea_en": "Keep ambiguity in species ID so that listening, not classification, is the point.",
+   "idea_zh": "在物种识别中保留模糊性，让重点落在聆听而非分类上。",
+   "method": "A mobile app combines a probabilistic frog-call classifier with interactive spectrograms; engagements with diverse participants informed sonic thick mapping.",
+   "method_zh": "移动 App 结合概率式蛙鸣分类器和可交互声谱图；与多元参与者的互动形成了“声音厚描地图”。",
+   "keywords": [
+    "frogs",
+    "bioacoustics",
+    "citizen science",
+    "thick mapping",
+    "Taiwan"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/15710882.2026.2726166",
+    "doi": "10.1080/15710882.2026.2726166",
+    "arxiv": "",
+    "venue": "CoDesign 2026",
+    "title": "Listening with frogs: sonic thick mapping for more-than-human participation"
+   },
+   "also": [
+    "hni"
+   ]
+  },
+  {
+   "id": "alexandra-dementieva--mnesitardigrada",
+   "creator_ids": [
+    "alexandra-dementieva"
+   ],
+   "title": "Homo Sapiens, Mnesitardigrada Class and Umwelt: A Dialogue on Interspecies Organic Data Flow",
+   "year": 2021,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "Artistic research staged as an imagined dialogue between a human scientist and a human-alien hybrid artist, using tardigrades' organs, molecules and proteins as a model for interspecies communication through immersive installations.",
+   "description_zh": "以人类科学家与人-外星混血艺术家之间的想象对话形式呈现的艺术研究，以水熊虫的器官、分子和蛋白表达为模型，通过沉浸式装置探讨跨物种沟通。",
+   "idea_en": "When sensoria are too different to talk, poetic installations can still share a world.",
+   "idea_zh": "当感官世界差异大到无法交谈时，诗意的装置仍能分享一个世界。",
+   "method": "Draws on tardigrade biology and Umwelt theory to design immersive interactive installations.",
+   "method_zh": "借用水熊虫生物学和“环世界”理论设计沉浸式互动装置。",
+   "keywords": [
+    "tardigrades",
+    "Umwelt",
+    "interspecies communication",
+    "installation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/leon_a_01984",
+    "doi": "10.1162/leon_a_01984",
+    "arxiv": "",
+    "venue": "Leonardo 2021",
+    "title": "Homo Sapiens, Mnesitardigrada Class and Umwelt: A Dialogue on Interspecies Organic Data Flow"
+   }
+  },
+  {
+   "id": "rachel-armstrong--biodesign-culture-of-life",
+   "creator_ids": [
+    "rachel-armstrong"
+   ],
+   "title": "Biodesign for a culture of life: Of microbes, ethics, and design",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An essay asking what it means to dwell and design in an irreducibly microbial world, and proposing an ethics for biodesign in which microbes are partners in ecologically beneficial design.",
+   "description_zh": "一篇文章：追问在一个彻底由微生物构成的世界里居住和设计意味着什么，并为生物设计提出一种伦理，把微生物视为生态有益设计的伙伴。",
+   "idea_en": "Our world is microbial; biodesign needs an ethics that follows from that.",
+   "idea_zh": "我们的世界是微生物的；生物设计需要由此出发的伦理。",
+   "method": "A theoretical argument drawing on the human, built-environment and urban microbiome, illustrated with the author's living architecture work.",
+   "method_zh": "以人体、建成环境和城市微生物组的研究为基础的理论论证，并以作者的活体建筑项目为例。",
+   "keywords": [
+    "microbes",
+    "biodesign ethics",
+    "microbiome",
+    "living architecture"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2022.144",
+    "doi": "10.21606/drs.2022.144",
+    "arxiv": "",
+    "venue": "DRS 2022",
+    "title": "Biodesign for a culture of life: Of microbes, ethics, and design"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "jiho-kim--becoming-microbes",
+   "creator_ids": [
+    "jiho-kim",
+    "raphael-kim",
+    "elvin-karana"
+   ],
+   "title": "Becoming microbes: An approach to cultivating microbial sensibilities in biodesign",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "The paper proposes 'becoming microbes', a philosophically grounded approach for biodesigners to cultivate sensibilities for microbial temporalities, scales and behaviours.",
+   "description_zh": "论文提出“成为微生物”，一种有哲学基础的方法，帮助生物设计者培养对微生物时间、尺度和行为的感受力。",
+   "idea_en": "Designing with microbes starts with learning to sense like them.",
+   "idea_zh": "与微生物一起设计，要从学习像它们一样感知开始。",
+   "method": "Develops the concept from non-anthropocentric philosophy and illustrates it with biodesign practices in the lab.",
+   "method_zh": "从非人类中心哲学出发发展概念，并以实验室中的生物设计实践为例。",
+   "keywords": [
+    "microbes",
+    "biodesign",
+    "sensibility",
+    "non-anthropocentrism"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.950",
+    "doi": "10.21606/drs.2024.950",
+    "arxiv": "",
+    "venue": "DRS 2024",
+    "title": "Becoming microbes: An approach to cultivating microbial sensibilities in biodesign"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "isabel-correa--myco-kit",
+   "creator_ids": [
+    "isabel-correa"
+   ],
+   "title": "Myco-kit: Towards a design for interspecies creative learning",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "fungi",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A work-in-progress biodesign toolkit that lets children grow and make artifacts with mycelium, framed as interspecies creative learning.",
+   "description_zh": "一套仍在开发中的生物设计工具包，让孩子们用菌丝体生长和制作物件，提出“跨物种创造性学习”的概念。",
+   "idea_en": "Children learn by making together with another species, blurring making and growing.",
+   "idea_zh": "孩子们通过与另一个物种一起制作来学习，模糊“制作”与“生长”的界限。",
+   "method": "Design-based research on a kit of mycelium substrate, moulds and activities tested with young learners.",
+   "method_zh": "以设计为本的研究，工具包包括菌丝基质、模具和活动，并与少年学习者一起测试。",
+   "keywords": [
+    "mycelium",
+    "children",
+    "biodesign kit",
+    "creative learning"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3459990.3465178",
+    "doi": "10.1145/3459990.3465178",
+    "arxiv": "",
+    "venue": "IDC 2021",
+    "title": "Myco-kit: Towards a design for interspecies creative learning"
+   },
+   "also": [
+    "bio"
+   ]
+  },
+  {
+   "id": "anniken-forde--ladder-multispecies-participation",
+   "creator_ids": [
+    "anniken-forde"
+   ],
+   "title": "The Ladder of Multispecies Participation: Moving Towards a More Convivial Urban Planning",
+   "year": 2025,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "The paper adapts Arnstein's ladder of citizen participation into a ladder of multispecies participation for discussing how urban planning can include species with whom we share no language.",
+   "description_zh": "论文把 Arnstein 的公民参与阶梯改写为“多物种参与阶梯”，用来讨论城市规划如何纳入与我们没有共同语言的物种。",
+   "idea_en": "Grade how far a planning process really lets other species take part.",
+   "idea_zh": "衡量一个规划过程在多大程度上真正让其他物种参与。",
+   "method": "A conceptual tool built on Arnstein's model and multispecies studies, discussed with urban planning cases.",
+   "method_zh": "以 Arnstein 模型和多物种研究为基础的概念工具，并结合城市规划案例讨论。",
+   "keywords": [
+    "multispecies participation",
+    "urban planning",
+    "Arnstein",
+    "conviviality"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.18261/njus.6.1.1",
+    "doi": "10.18261/njus.6.1.1",
+    "arxiv": "",
+    "venue": "Nordic Journal of Urban Studies 2025",
+    "title": "The Ladder of Multispecies Participation: Moving Towards a More Convivial Urban Planning"
+   }
+  },
+  {
+   "id": "jian-yu--open-weaving",
+   "creator_ids": [
+    "jian-yu",
+    "ron-wakkary"
+   ],
+   "title": "Open Weaving: Decentering Practice in More-than-Human Relations",
+   "year": 2026,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "An autoethnography of open weaving with a reflective workbook, showing how the loom, fibres and other nonhumans participate in making and how hard it is for a designer to step back.",
+   "description_zh": "一项关于“开放编织”的自我民族志，配合反思手册，展示织机、纤维等非人如何参与制作，以及设计者退后一步有多难。",
+   "idea_en": "Decentering is a practice to rehearse with materials, not only a theory to adopt.",
+   "idea_zh": "去中心化是一种要在材料中反复练习的实践，而不只是一个要采纳的理论。",
+   "method": "The first author weaves without a fixed plan and records reflections, which are analysed for nonhuman creativity and friction.",
+   "method_zh": "第一作者在没有固定计划的情况下编织并记录反思，再分析其中的非人创造力和摩擦。",
+   "keywords": [
+    "weaving",
+    "autoethnography",
+    "decentering",
+    "craft"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803784.3816832",
+    "doi": "10.1145/3803784.3816832",
+    "arxiv": "",
+    "venue": "C&C 2026",
+    "title": "Open Weaving: Decentering Practice in More-than-Human Relations"
+   }
+  }
+ ],
+ "leads": []
+}
