@@ -1,0 +1,25 @@
+{
+  "batch": "curator",
+  "creators": [],
+  "works": [
+    {
+      "id": "lining-yao--biologic",
+      "creator_ids": ["lining-yao"],
+      "title": "bioLogic",
+      "year": 2015,
+      "field": "bio", "sub": "responsive", "also": ["biohybrid"],
+      "organisms": ["bacteria"], "kind": "paper",
+      "description": "Natto bacteria cells printed onto thin films expand and contract with humidity, so a sportswear garment opens flaps over the skin when the wearer sweats and closes them as it dries.",
+      "description_zh": "印在薄膜上的纳豆菌细胞会随湿度膨胀和收缩：穿着者出汗时，运动服上的小翼片自动张开透气，汗干后再合上。",
+      "idea_en": "Living cells as the actuator: the garment reacts to the body because the bacteria react to moisture.",
+      "idea_zh": "让活细胞当驱动器：衣服之所以能回应身体，是因为细菌在回应湿气。",
+      "method": "Bacillus subtilis natto cells are bio-printed on a latex layer; the cell layer absorbs and loses water much faster than latex, so the bilayer bends reversibly with relative humidity.",
+      "method_zh": "把纳豆枯草芽孢杆菌生物打印在乳胶层上；细胞层吸水和失水都远快于乳胶，双层膜因此随相对湿度可逆地弯曲。",
+      "keywords": ["Bacillus subtilis natto", "hygromorphic", "bio-printing", "MIT Tangible Media Group", "New Balance"],
+      "images": ["https://tmg-external.s3.amazonaws.com/public/Projects/349-biologic/flowerleaf.gif", "https://tmg-external.s3.amazonaws.com/public/Projects/349-biologic/cell-zoom.gif"],
+      "paper": { "doi": "10.1145/2702123.2702611", "venue": "CHI 2015", "title": "bioLogic: Natto Cells as Nanoactuators for Shape Changing Interfaces" },
+      "source_url": "https://tangible.media.mit.edu/project/biologic/"
+    }
+  ],
+  "leads": []
+}

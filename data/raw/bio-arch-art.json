@@ -1,0 +1,3645 @@
+{
+  "batch": "bio-arch-art",
+  "creators": [
+    {
+      "id": "neri-oxman",
+      "name": "Neri Oxman",
+      "kind": "person",
+      "role": "Designer and architect; founder of OXMAN; former professor at the MIT Media Lab",
+      "based": "New York, US",
+      "bio": "Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology.",
+      "why": "Her silkworm, bee and biopolymer projects are reference works for designing with living organisms at architectural scale.",
+      "links": {
+        "site": "https://www.oxman.com"
+      },
+      "role_zh": "设计师、建筑师；OXMAN 创始人；前 MIT 媒体实验室教授",
+      "bio_zh": "Neri Oxman 曾在 MIT 媒体实验室领导 Mediated Matter 研究组（2010–2020），提出“材料生态学”（Material Ecology），把计算、制造和生物学融为一体。",
+      "why_zh": "她与蚕、蜜蜂和生物聚合物合作的项目，是在建筑尺度上与生命一起设计的标杆案例。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "mediated-matter",
+        "oxman"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "mediated-matter",
+      "name": "Mediated Matter Group (MIT Media Lab)",
+      "kind": "lab",
+      "role": "Research group at the MIT Media Lab directed by Neri Oxman (2010–2020)",
+      "based": "Cambridge, US",
+      "bio": "Mediated Matter worked at the intersection of computational design, digital fabrication, materials science and synthetic biology.",
+      "why": "The group produced many of the best-known biofabrication pavilions and living-material prototypes of the 2010s.",
+      "links": {
+        "site": "https://www.media.mit.edu/groups/mediated-matter/overview/"
+      },
+      "role_zh": "MIT 媒体实验室研究组，由 Neri Oxman 领导（2010–2020）",
+      "bio_zh": "Mediated Matter 在计算设计、数字制造、材料科学与合成生物学的交叉处开展研究。",
+      "why_zh": "该组做出了 2010 年代最知名的一批生物制造展亭与活体材料原型。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [
+        "neri-oxman"
+      ],
+      "discovered_via": "neri-oxman"
+    },
+    {
+      "id": "oxman",
+      "name": "OXMAN",
+      "kind": "company",
+      "role": "Design and research company founded by Neri Oxman",
+      "based": "New York, US",
+      "bio": "OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture.",
+      "why": "It tests whether nature-centred biodesign can move from gallery prototypes into products and buildings.",
+      "links": {
+        "site": "https://www.oxman.com"
+      },
+      "role_zh": "由 Neri Oxman 创立的设计与研究公司",
+      "bio_zh": "OXMAN 以公司形式延续 Mediated Matter 的方向，开发由生物生长出的产品和生态建筑。",
+      "why_zh": "它在检验以自然为中心的生物设计能否从展厅原型走向产品和建筑。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "discovered_via": "neri-oxman"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg",
+      "name": "Alexandra Daisy Ginsberg",
+      "kind": "person",
+      "role": "Artist; works with synthetic biology, conservation and AI",
+      "based": "London, UK",
+      "bio": "Alexandra Daisy Ginsberg is a London-based artist whose work examines how humans value nature, from synthetic biology speculation to living artworks for pollinators.",
+      "why": "She helped define synthetic biology design as a field and later moved to designing artworks for other species.",
+      "links": {
+        "site": "https://www.daisyginsberg.com"
+      },
+      "role_zh": "艺术家，创作涉及合成生物学、自然保护与人工智能",
+      "bio_zh": "Alexandra Daisy Ginsberg 是常驻伦敦的艺术家，作品追问人如何看待自然，从合成生物学思辨到为传粉昆虫而做的活体艺术。",
+      "why_zh": "她参与奠定了“合成生物学设计”这一领域，后来又转向为其他物种设计艺术作品。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "christina-agapakis",
+        "sissel-tolaas",
+        "sascha-pohflepp"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sascha-pohflepp",
+      "name": "Sascha Pohflepp",
+      "kind": "person",
+      "role": "Designer and artist (1978–2019)",
+      "based": "Berlin, DE",
+      "bio": "Sascha Pohflepp was a German designer whose speculative work dealt with technology, energy and synthetic biology.",
+      "why": "His collaborations with Ginsberg helped shape early speculative synthetic-biology design.",
+      "links": {},
+      "role_zh": "设计师、艺术家（1978–2019）",
+      "bio_zh": "Sascha Pohflepp 是德国设计师，思辨作品关注技术、能源与合成生物学。",
+      "why_zh": "他与 Ginsberg 的合作塑造了早期的合成生物学思辨设计。",
+      "based_zh": "柏林，德国",
+      "connected_to": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "discovered_via": "alexandra-daisy-ginsberg"
+    },
+    {
+      "id": "christina-agapakis",
+      "name": "Christina Agapakis",
+      "kind": "person",
+      "role": "Synthetic biologist and writer; former creative director at Ginkgo Bioworks",
+      "based": "Los Angeles, US",
+      "bio": "Christina Agapakis is a synthetic biologist who works with artists and designers on the culture of biotechnology.",
+      "why": "She brought scientist–artist collaboration into a synthetic biology company through Ginkgo's creative residency.",
+      "links": {
+        "site": "https://agapakis.com"
+      },
+      "role_zh": "合成生物学家、作者；曾任 Ginkgo Bioworks 创意总监",
+      "bio_zh": "Christina Agapakis 是合成生物学家，长期与艺术家和设计师合作探讨生物技术的文化。",
+      "why_zh": "她通过 Ginkgo 的创意驻留计划，把科学家与艺术家的合作带进了合成生物学公司。",
+      "based_zh": "洛杉矶，美国",
+      "connected_to": [
+        "alexandra-daisy-ginsberg",
+        "sissel-tolaas"
+      ],
+      "discovered_via": "alexandra-daisy-ginsberg"
+    },
+    {
+      "id": "sissel-tolaas",
+      "name": "Sissel Tolaas",
+      "kind": "person",
+      "role": "Smell researcher and artist",
+      "based": "Berlin, DE",
+      "bio": "Sissel Tolaas is a Norwegian artist who researches, collects and reconstructs smells.",
+      "why": "She makes smell a design material for encounters with microbes and lost species.",
+      "links": {},
+      "role_zh": "气味研究者、艺术家",
+      "bio_zh": "Sissel Tolaas 是挪威艺术家，研究、收集并重建气味。",
+      "why_zh": "她把气味当作设计材料，让人去“遇见”微生物和已灭绝的物种。",
+      "based_zh": "柏林，德国",
+      "connected_to": [
+        "christina-agapakis",
+        "alexandra-daisy-ginsberg"
+      ],
+      "discovered_via": "alexandra-daisy-ginsberg"
+    },
+    {
+      "id": "oron-catts",
+      "name": "Oron Catts",
+      "kind": "person",
+      "role": "Artist; co-founder of The Tissue Culture & Art Project and director of SymbioticA",
+      "based": "Perth, AU",
+      "bio": "Oron Catts is an artist and researcher who grows semi-living sculptures from tissue cultures.",
+      "why": "He made tissue engineering an art medium and a tool for public debate about the use of life.",
+      "links": {
+        "site": "https://tcaproject.net"
+      },
+      "role_zh": "艺术家；组织培养与艺术项目联合创始人，SymbioticA 主任",
+      "bio_zh": "Oron Catts 是艺术家和研究者，用组织培养生长出“半活体”雕塑。",
+      "why_zh": "他把组织工程变成艺术媒介，也变成公众讨论“如何使用生命”的工具。",
+      "based_zh": "珀斯，澳大利亚",
+      "connected_to": [
+        "ionat-zurr",
+        "tissue-culture-art-project",
+        "symbiotica"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ionat-zurr",
+      "name": "Ionat Zurr",
+      "kind": "person",
+      "role": "Artist and researcher; co-founder of The Tissue Culture & Art Project",
+      "based": "Perth, AU",
+      "bio": "Ionat Zurr is an artist and academic at the University of Western Australia who co-developed the idea of the semi-living.",
+      "why": "Her writing on the ethics of the semi-living is a core reference for bio art.",
+      "links": {
+        "site": "https://tcaproject.net"
+      },
+      "role_zh": "艺术家、研究者；组织培养与艺术项目联合创始人",
+      "bio_zh": "Ionat Zurr 是西澳大学的艺术家和学者，与 Catts 共同提出“半活体”概念。",
+      "why_zh": "她关于半活体伦理的论述是生物艺术的核心参考。",
+      "based_zh": "珀斯，澳大利亚",
+      "connected_to": [
+        "oron-catts",
+        "tissue-culture-art-project",
+        "symbiotica"
+      ],
+      "discovered_via": "oron-catts"
+    },
+    {
+      "id": "tissue-culture-art-project",
+      "name": "The Tissue Culture & Art Project",
+      "kind": "studio",
+      "role": "Artistic research project by Oron Catts and Ionat Zurr (since 1996)",
+      "based": "Perth, AU",
+      "bio": "TC&A grows living tissue into sculptures, garments and food to question how biotechnology treats life.",
+      "why": "Its works (Victimless Leather, Disembodied Cuisine) became landmarks of bio art and early references for lab-grown meat and leather.",
+      "links": {
+        "site": "https://tcaproject.net"
+      },
+      "role_zh": "Oron Catts 与 Ionat Zurr 的艺术研究项目（1996 年起）",
+      "bio_zh": "TC&A 把活体组织培养成雕塑、服装和食物，追问生物技术如何对待生命。",
+      "why_zh": "它的作品（如“无受害者皮革”“离体料理”）成为生物艺术的里程碑，也是实验室培养肉和皮革的早期参照。",
+      "based_zh": "珀斯，澳大利亚",
+      "connected_to": [
+        "oron-catts",
+        "ionat-zurr",
+        "symbiotica"
+      ],
+      "discovered_via": "oron-catts"
+    },
+    {
+      "id": "symbiotica",
+      "name": "SymbioticA",
+      "kind": "lab",
+      "role": "Centre of excellence in biological arts at the University of Western Australia (founded 2000)",
+      "based": "Perth, AU",
+      "bio": "SymbioticA is an artistic laboratory inside a life-science school where artists do hands-on work with biological techniques.",
+      "why": "It was the first permanent lab for artists in a biology department and has hosted many leading bio artists.",
+      "links": {
+        "site": "https://www.symbiotica.uwa.edu.au/"
+      },
+      "role_zh": "西澳大学生物艺术卓越中心（2000 年成立）",
+      "bio_zh": "SymbioticA 是设在生命科学学院里的艺术实验室，让艺术家亲手使用生物技术。",
+      "why_zh": "它是第一个设在生物系里的常设艺术家实验室，接待过许多重要的生物艺术家。",
+      "based_zh": "珀斯，澳大利亚",
+      "connected_to": [
+        "oron-catts",
+        "ionat-zurr"
+      ],
+      "discovered_via": "oron-catts"
+    },
+    {
+      "id": "eduardo-kac",
+      "name": "Eduardo Kac",
+      "kind": "person",
+      "role": "Artist; coined the term transgenic art",
+      "based": "Chicago, US",
+      "bio": "Eduardo Kac is a Brazilian-American artist known for works that use genetic engineering to create new living beings and texts.",
+      "why": "His GFP Bunny and Genesis made transgenic organisms a public art topic.",
+      "links": {
+        "site": "https://www.ekac.org"
+      },
+      "role_zh": "艺术家；提出“转基因艺术”一词",
+      "bio_zh": "Eduardo Kac 是巴西裔美国艺术家，以用基因工程创造新生命和新文本的作品著称。",
+      "why_zh": "他的《GFP 兔》和《创世纪》让转基因生物成为公共艺术话题。",
+      "based_zh": "芝加哥，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "joe-davis",
+      "name": "Joe Davis",
+      "kind": "person",
+      "role": "Artist; research affiliate at MIT and Harvard Medical School",
+      "based": "Cambridge, US",
+      "bio": "Joe Davis is an American artist who has worked in molecular biology labs since the 1980s.",
+      "why": "His Microvenus is widely cited as the first artwork made with molecular biology.",
+      "links": {},
+      "role_zh": "艺术家；MIT 与哈佛医学院研究员",
+      "bio_zh": "Joe Davis 是美国艺术家，自 1980 年代起就在分子生物学实验室里创作。",
+      "why_zh": "他的《Microvenus》常被认为是第一件用分子生物学做成的艺术品。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "anna-dumitriu",
+      "name": "Anna Dumitriu",
+      "kind": "person",
+      "role": "Artist working with bacteria, infectious disease and biotechnology",
+      "based": "Brighton, UK",
+      "bio": "Anna Dumitriu is a British artist who combines textiles and craft with microbiology in long collaborations with scientists.",
+      "why": "She shows how bacteria and gene editing can be handled through familiar crafts like mending and dyeing.",
+      "links": {
+        "site": "https://annadumitriu.co.uk"
+      },
+      "role_zh": "以细菌、传染病和生物技术为媒介的艺术家",
+      "bio_zh": "Anna Dumitriu 是英国艺术家，与科学家长期合作，把纺织与手工艺和微生物学结合。",
+      "why_zh": "她展示了如何通过缝补、染色等熟悉的手艺去接触细菌与基因编辑。",
+      "based_zh": "布莱顿，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "spela-petric",
+      "name": "Špela Petrič",
+      "kind": "person",
+      "role": "Artist with a background in biology",
+      "based": "Ljubljana, SI",
+      "bio": "Špela Petrič is a Slovenian artist and biologist whose performances explore relationships between humans and plants.",
+      "why": "Her Confronting Vegetal Otherness series is a key reference for plant-centred art.",
+      "links": {
+        "site": "https://www.spelapetric.org"
+      },
+      "role_zh": "有生物学背景的艺术家",
+      "bio_zh": "Špela Petrič 是斯洛文尼亚艺术家和生物学家，以表演探索人与植物的关系。",
+      "why_zh": "她的“面对植物他者”系列是以植物为中心的艺术的重要参照。",
+      "based_zh": "卢布尔雅那，斯洛文尼亚",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "maja-smrekar",
+      "name": "Maja Smrekar",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Ljubljana, SI",
+      "bio": "Maja Smrekar is a Slovenian artist working with biotechnology and human–animal co-evolution.",
+      "why": "Her K-9_topology series (Golden Nica 2017) uses her own body and cells to question the human–dog boundary.",
+      "links": {
+        "site": "https://www.majasmrekar.org"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "Maja Smrekar 是斯洛文尼亚艺术家，创作涉及生物技术和人与动物的共同进化。",
+      "why_zh": "她的 K-9_topology 系列（2017 年金尼卡奖）用自己的身体和细胞追问人与狗的边界。",
+      "based_zh": "卢布尔雅那，斯洛文尼亚",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "marta-de-menezes",
+      "name": "Marta de Menezes",
+      "kind": "person",
+      "role": "Artist; director of Cultivamos Cultura",
+      "based": "Lisbon, PT",
+      "bio": "Marta de Menezes is a Portuguese artist who has made art in biology labs since 1999.",
+      "why": "Her butterfly work Nature? is an early example of art made by guiding living development rather than genes.",
+      "links": {
+        "site": "https://martademenezes.com"
+      },
+      "role_zh": "艺术家；Cultivamos Cultura 负责人",
+      "bio_zh": "Marta de Menezes 是葡萄牙艺术家，自 1999 年起在生物实验室里创作。",
+      "why_zh": "她的蝴蝶作品《自然？》是通过引导生命发育（而非改基因）来创作的早期案例。",
+      "based_zh": "里斯本，葡萄牙",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jalila-essaidi",
+      "name": "Jalila Essaïdi",
+      "kind": "person",
+      "role": "Artist and bio-entrepreneur",
+      "based": "Eindhoven, NL",
+      "bio": "Jalila Essaïdi is a Dutch artist who works with biomaterials, from spider-silk skin to materials made from manure.",
+      "why": "Her bulletproof skin experiment turned a science-fiction question into a real lab test.",
+      "links": {
+        "site": "https://jalilaessaidi.com"
+      },
+      "role_zh": "艺术家、生物创业者",
+      "bio_zh": "Jalila Essaïdi 是荷兰艺术家，材料从蛛丝皮肤到粪便制成的新材料。",
+      "why_zh": "她的“防弹皮肤”把一个科幻问题变成了真实的实验。",
+      "based_zh": "埃因霍温，荷兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "heather-dewey-hagborg",
+      "name": "Heather Dewey-Hagborg",
+      "kind": "person",
+      "role": "Artist and biohacker",
+      "based": "New York, US",
+      "bio": "Heather Dewey-Hagborg is an American artist whose work deals with genetic surveillance and DNA phenotyping.",
+      "why": "She makes the politics of genetic data visible through portraits.",
+      "links": {
+        "site": "https://deweyhagborg.com"
+      },
+      "role_zh": "艺术家、生物黑客",
+      "bio_zh": "Heather Dewey-Hagborg 是美国艺术家，作品关注基因监控和 DNA 表型推断。",
+      "why_zh": "她用肖像让基因数据背后的政治变得可见。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "amy-karle",
+      "name": "Amy Karle",
+      "kind": "person",
+      "role": "Artist working with bioart and emerging technology",
+      "based": "San Francisco, US",
+      "bio": "Amy Karle is an American artist who works with tissue engineering, 3D printing and AI.",
+      "why": "Her work treats the regenerating body as a design space.",
+      "links": {
+        "site": "https://www.amykarle.com"
+      },
+      "role_zh": "从事生物艺术与新兴技术的艺术家",
+      "bio_zh": "Amy Karle 是美国艺术家，使用组织工程、3D 打印和人工智能创作。",
+      "why_zh": "她把可再生的身体当作一个设计空间。",
+      "based_zh": "旧金山，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "brandon-ballengee",
+      "name": "Brandon Ballengée",
+      "kind": "person",
+      "role": "Artist and biologist",
+      "based": "Louisiana, US",
+      "bio": "Brandon Ballengée is an American artist-biologist who studies amphibian deformities and species decline.",
+      "why": "He combines field science with art to make ecological damage visible.",
+      "links": {
+        "site": "https://brandonballengee.com"
+      },
+      "role_zh": "艺术家、生物学家",
+      "bio_zh": "Brandon Ballengée 是美国艺术家兼生物学家，研究两栖动物畸形和物种衰退。",
+      "why_zh": "他把野外科学与艺术结合，让生态破坏变得可见。",
+      "based_zh": "路易斯安那，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sasa-spacal",
+      "name": "Saša Spačal",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Ljubljana, SI",
+      "bio": "Saša Spačal is a Slovenian artist who builds installations connecting human and fungal bodies.",
+      "why": "Her Myconnect makes a person part of a feedback loop with mycelium.",
+      "links": {
+        "site": "https://www.agapea.si"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "Saša Spačal 是斯洛文尼亚艺术家，创作连接人体与真菌的装置。",
+      "why_zh": "她的《Myconnect》让人成为与菌丝体相连的反馈回路的一部分。",
+      "based_zh": "卢布尔雅那，斯洛文尼亚",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "kuai-shen",
+      "name": "Kuai Shen",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Quito, EC",
+      "bio": "Kuai Shen (Kuai Shen Auson) is an Ecuadorian artist who creates installations with ant colonies.",
+      "why": "He turns insect behaviour into sound and image while keeping the colony alive in the gallery.",
+      "links": {},
+      "role_zh": "艺术家",
+      "bio_zh": "Kuai Shen（Kuai Shen Auson）是厄瓜多尔艺术家，与蚂蚁群落合作创作装置。",
+      "why_zh": "他把昆虫行为转化为声音和影像，同时让蚁群在展厅中正常生活。",
+      "based_zh": "基多，厄瓜多尔",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "paul-vanouse",
+      "name": "Paul Vanouse",
+      "kind": "person",
+      "role": "Artist; professor at the University at Buffalo",
+      "based": "Buffalo, US",
+      "bio": "Paul Vanouse is an American artist who uses molecular biology techniques in performances.",
+      "why": "He exposes how DNA 'fingerprints' are constructed rather than simply read.",
+      "links": {
+        "site": "https://www.paulvanouse.com"
+      },
+      "role_zh": "艺术家；纽约州立大学布法罗分校教授",
+      "bio_zh": "Paul Vanouse 是美国艺术家，在表演中使用分子生物学技术。",
+      "why_zh": "他揭示了 DNA“指纹”是被构造出来的，而不只是被读取的。",
+      "based_zh": "布法罗，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "sonja-baumel",
+      "name": "Sonja Bäumel",
+      "kind": "person",
+      "role": "Artist",
+      "based": "Vienna, AT",
+      "bio": "Sonja Bäumel is an Austrian artist who works with the microbes living on and around the human body.",
+      "why": "She makes the body's microbial 'second skin' visible.",
+      "links": {
+        "site": "https://www.sonjabaeumel.at"
+      },
+      "role_zh": "艺术家",
+      "bio_zh": "Sonja Bäumel 是奥地利艺术家，与生活在人体表面和周围的微生物合作。",
+      "why_zh": "她让身体的微生物“第二层皮肤”变得可见。",
+      "based_zh": "维也纳，奥地利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ai-hasegawa",
+      "name": "Ai Hasegawa",
+      "kind": "person",
+      "role": "Artist and designer",
+      "based": "Tokyo, JP",
+      "bio": "Ai Hasegawa is a Japanese artist whose speculative designs deal with reproduction, biotechnology and the body.",
+      "why": "She uses provocative biotech scenarios to open debate on reproduction and other species.",
+      "links": {},
+      "role_zh": "艺术家、设计师",
+      "bio_zh": "长谷川爱是日本艺术家，思辨设计关注生殖、生物技术与身体。",
+      "why_zh": "她用挑衅性的生物技术情境，打开关于生殖与其他物种的讨论。",
+      "based_zh": "东京，日本",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "cohen-van-balen",
+      "name": "Revital Cohen & Tuur Van Balen",
+      "kind": "studio",
+      "role": "Artist duo",
+      "based": "London, UK",
+      "bio": "Revital Cohen and Tuur Van Balen are a London-based duo whose work examines biology, production and the natural.",
+      "why": "Their early projects are key examples of critical design with animals and synthetic biology.",
+      "links": {
+        "site": "https://www.cohenvanbalen.com"
+      },
+      "role_zh": "艺术家二人组",
+      "bio_zh": "Revital Cohen 与 Tuur Van Balen 是常驻伦敦的艺术家二人组，作品审视生物学、生产与“自然”。",
+      "why_zh": "他们的早期项目是以动物和合成生物学为对象的批判性设计的重要案例。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pinar-yoldas",
+      "name": "Pinar Yoldas",
+      "kind": "person",
+      "role": "Artist; professor at UC San Diego",
+      "based": "San Diego, US",
+      "bio": "Pinar Yoldas is a Turkish-born artist and architect who designs speculative organisms.",
+      "why": "Her work imagines how life could evolve in response to human pollution.",
+      "links": {
+        "site": "https://www.pinaryoldas.info"
+      },
+      "role_zh": "艺术家；加州大学圣地亚哥分校教授",
+      "bio_zh": "Pinar Yoldas 是土耳其裔艺术家和建筑师，设计思辨性的生物。",
+      "why_zh": "她的作品想象生命会如何因人类污染而演化。",
+      "based_zh": "圣地亚哥，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "rachel-armstrong",
+      "name": "Rachel Armstrong",
+      "kind": "person",
+      "role": "Professor of Regenerative Architecture, KU Leuven; formerly Newcastle University",
+      "based": "Leuven, BE",
+      "bio": "Rachel Armstrong is a British architect and former medical doctor who works with protocells and microbial systems in architecture.",
+      "why": "She coordinated the EU Living Architecture project and wrote key texts on living buildings.",
+      "links": {},
+      "role_zh": "鲁汶大学再生建筑教授；曾任职纽卡斯尔大学",
+      "bio_zh": "Rachel Armstrong 是英国建筑师、前医生，研究原生细胞与微生物系统在建筑中的应用。",
+      "why_zh": "她主持了欧盟“活体建筑”项目，撰写了关于活体建筑的重要文本。",
+      "based_zh": "鲁汶，比利时",
+      "connected_to": [
+        "philip-beesley"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "philip-beesley",
+      "name": "Philip Beesley",
+      "kind": "person",
+      "role": "Architect and artist; professor at the University of Waterloo; director of the Living Architecture Systems Group",
+      "based": "Toronto, CA",
+      "bio": "Philip Beesley builds immersive responsive environments that behave like near-living systems.",
+      "why": "His Hylozoic series is a reference for architecture that breathes, senses and hosts chemical life.",
+      "links": {
+        "site": "https://www.philipbeesleystudioinc.com"
+      },
+      "role_zh": "建筑师、艺术家；滑铁卢大学教授；Living Architecture Systems Group 负责人",
+      "bio_zh": "Philip Beesley 建造沉浸式响应环境，让它们像“近乎活着”的系统一样运作。",
+      "why_zh": "他的 Hylozoic 系列是会呼吸、会感知、能容纳化学生命的建筑的参照。",
+      "based_zh": "多伦多，加拿大",
+      "connected_to": [
+        "rachel-armstrong"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "ecologicstudio",
+      "name": "ecoLogicStudio",
+      "kind": "studio",
+      "role": "Architecture and urban design studio founded by Claudia Pasquero and Marco Poletto",
+      "based": "London, UK",
+      "bio": "ecoLogicStudio designs architecture with microalgae photobioreactors, combining biology with digital design.",
+      "why": "Its algae curtains, pavilions and bioreactor gardens are among the most visible examples of photosynthetic architecture.",
+      "links": {
+        "site": "https://www.ecologicstudio.com"
+      },
+      "role_zh": "由 Claudia Pasquero 与 Marco Poletto 创立的建筑与城市设计工作室",
+      "bio_zh": "ecoLogicStudio 以微藻光生物反应器设计建筑，把生物学与数字设计结合。",
+      "why_zh": "它的藻类幕帘、展亭和生物反应器花园是光合建筑中最受关注的案例。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "arup",
+      "name": "Arup",
+      "kind": "company",
+      "role": "Engineering and design firm",
+      "based": "London, UK",
+      "bio": "Arup is a global engineering firm that co-developed the SolarLeaf algae façade.",
+      "why": "Its BIQ façade was the first building-scale test of algae bioreactors.",
+      "links": {
+        "site": "https://www.arup.com"
+      },
+      "role_zh": "工程与设计公司",
+      "bio_zh": "Arup 是全球性工程公司，参与开发了 SolarLeaf 微藻立面。",
+      "why_zh": "它的 BIQ 立面是第一次在建筑尺度上测试微藻生物反应器。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "the-living",
+      "name": "The Living",
+      "kind": "studio",
+      "role": "Architecture and design studio founded by David Benjamin",
+      "based": "New York, US",
+      "bio": "The Living is a New York studio that works with biology, computation and new materials; David Benjamin teaches at Columbia GSAPP.",
+      "why": "Its Hy-Fi tower showed that grown mycelium bricks can make a temporary building.",
+      "links": {},
+      "role_zh": "由 David Benjamin 创立的建筑与设计工作室",
+      "bio_zh": "The Living 是纽约的设计工作室，结合生物学、计算与新材料；创始人 David Benjamin 任教于哥伦比亚大学建筑学院。",
+      "why_zh": "它的 Hy-Fi 塔证明了生长出来的菌丝砖可以建成一座临时建筑。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "achim-menges",
+      "name": "Achim Menges",
+      "kind": "person",
+      "role": "Architect; director of the Institute for Computational Design and Construction (ICD), University of Stuttgart",
+      "based": "Stuttgart, DE",
+      "bio": "Achim Menges researches biomimetic, computational and robotic architecture, often with wood and natural fibres.",
+      "why": "His hygroscopic wood structures move and self-shape using the material's own biology, without motors.",
+      "links": {
+        "site": "https://www.icd.uni-stuttgart.de"
+      },
+      "role_zh": "建筑师；斯图加特大学计算设计与建造研究所（ICD）所长",
+      "bio_zh": "Achim Menges 研究仿生、计算与机器人建筑，常用木材和天然纤维。",
+      "why_zh": "他的吸湿木结构利用材料自身的生物特性来运动和自成形，无需电机。",
+      "based_zh": "斯图加特，德国",
+      "connected_to": [
+        "icd-stuttgart"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "icd-stuttgart",
+      "name": "ICD/ITKE University of Stuttgart",
+      "kind": "lab",
+      "role": "Institute for Computational Design and Construction and Institute of Building Structures and Structural Design",
+      "based": "Stuttgart, DE",
+      "bio": "ICD and ITKE build an annual series of research pavilions that translate biological structures into robotic fabrication.",
+      "why": "Their pavilions are a reference for bio-inspired and bio-based architecture.",
+      "links": {
+        "site": "https://www.icd.uni-stuttgart.de"
+      },
+      "role_zh": "斯图加特大学计算设计与建造研究所 / 建筑结构与结构设计研究所",
+      "bio_zh": "ICD 与 ITKE 每年建造研究展亭，把生物结构转化为机器人建造。",
+      "why_zh": "他们的展亭是仿生与生物基建筑的重要参照。",
+      "based_zh": "斯图加特，德国",
+      "connected_to": [
+        "achim-menges"
+      ],
+      "discovered_via": "achim-menges"
+    },
+    {
+      "id": "terreform-one",
+      "name": "Terreform ONE",
+      "kind": "studio",
+      "role": "Nonprofit architecture and ecological design group co-founded by Mitchell Joachim",
+      "based": "New York, US",
+      "bio": "Terreform ONE designs ecological architecture and urban proposals with living systems, from tree houses to insect farms.",
+      "why": "It proposes buildings that serve other species as much as people.",
+      "links": {
+        "site": "https://www.terreform.org"
+      },
+      "role_zh": "由 Mitchell Joachim 联合创立的非营利建筑与生态设计团体",
+      "bio_zh": "Terreform ONE 用活体系统设计生态建筑和城市方案，从树屋到昆虫农场。",
+      "why_zh": "它提出的建筑为其他物种服务，也为人服务。",
+      "based_zh": "纽约，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "magnus-larsson",
+      "name": "Magnus Larsson",
+      "kind": "person",
+      "role": "Architect",
+      "based": "London, UK",
+      "bio": "Magnus Larsson is a Swedish architect known for his proposal to solidify desert sand with bacteria.",
+      "why": "His Dune project is an early vision of microbially grown architecture at landscape scale.",
+      "links": {},
+      "role_zh": "建筑师",
+      "bio_zh": "Magnus Larsson 是瑞典建筑师，以用细菌固化沙漠沙丘的方案闻名。",
+      "why_zh": "他的 Dune 是景观尺度上用微生物“长出”建筑的早期设想。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "marcos-cruz",
+      "name": "Marcos Cruz",
+      "kind": "person",
+      "role": "Professor of Innovative Environments, The Bartlett (UCL); co-director of BiotA Lab",
+      "based": "London, UK",
+      "bio": "Marcos Cruz is an architect who designs bioreceptive façades that invite moss, lichen and algae to grow.",
+      "why": "His bioreceptive concrete shows how a building surface can become habitat without irrigation.",
+      "links": {},
+      "role_zh": "伦敦大学学院巴特利特建筑学院创新环境教授；BiotA Lab 联合负责人",
+      "bio_zh": "Marcos Cruz 是建筑师，设计能吸引苔藓、地衣和藻类生长的“生物接纳”立面。",
+      "why_zh": "他的生物接纳混凝土展示了建筑表面如何在不浇灌的情况下成为栖息地。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "william-myers",
+      "name": "William Myers",
+      "kind": "person",
+      "role": "Curator, writer and teacher",
+      "based": "Amsterdam, NL",
+      "bio": "William Myers is an American curator based in Amsterdam who writes about the use of living systems in design and art.",
+      "why": "His book BioDesign gave the field its most widely used survey and name.",
+      "links": {
+        "site": "https://www.william-myers.com"
+      },
+      "role_zh": "策展人、作者、教师",
+      "bio_zh": "William Myers 是常驻阿姆斯特丹的美国策展人，书写生命系统在设计与艺术中的应用。",
+      "why_zh": "他的《BioDesign》一书为这个领域提供了最常用的综述和名称。",
+      "based_zh": "阿姆斯特丹，荷兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "neri-oxman--silk-pavilion",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Silk Pavilion",
+      "year": 2013,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "A dome of 26 polygonal panels was first wound with silk thread by a robot; then 6,500 live silkworms were released onto it and spun a dense silk layer over the scaffold.",
+      "description_zh": "机器人先用丝线缠出由 26 块多边形面板组成的穹顶骨架，随后 6,500 条活蚕被放到上面，在骨架上吐出一层致密的丝。",
+      "idea_en": "Let a robot lay the coarse structure and let living organisms finish it.",
+      "idea_zh": "机器人铺设粗结构，由生物完成细节。",
+      "method": "CNC-wound silk thread on a steel frame guided Bombyx mori silkworms, whose spinning responds to light, heat and geometry, to add a non-woven silk infill.",
+      "method_zh": "钢框上由数控缠绕的丝线引导家蚕吐丝；蚕的吐丝行为受光、热和几何形状影响，从而形成无纺丝填充层。",
+      "keywords": [
+        "Bombyx mori",
+        "silkworm",
+        "robotic fabrication",
+        "co-fabrication",
+        "pavilion"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tnH1C5rJ94k"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2017/10/13/silkPavilion_4.jpg.1400x1400.jpg",
+        "https://dam-prod.media.mit.edu/thumb/2017/10/13/01silk.jpg.1400x1400.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.2307/j.ctt1tp3c5w.34",
+        "doi": "10.2307/j.ctt1tp3c5w.34",
+        "arxiv": "",
+        "venue": "Fabricate 2014"
+      },
+      "source_url": "https://www.media.mit.edu/projects/silk-pavilion/overview/"
+    },
+    {
+      "id": "neri-oxman--silk-pavilion-ii",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Silk Pavilion II",
+      "year": 2020,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "A large knitted scaffold was slowly rotated on a jig while about 17,000 silkworms spun over it, producing a silk-covered pavilion shown at MoMA.",
+      "description_zh": "一个大型针织骨架在转台上缓慢旋转，约 17,000 条蚕在上面吐丝，最终形成一座覆满蚕丝的展亭，在 MoMA 展出。",
+      "idea_en": "Tune a structure's geometry and motion so another species builds the envelope for you.",
+      "idea_zh": "调节结构的几何与运动，让另一个物种替你织出外壳。",
+      "method": "A robotically knitted fibre scaffold on a rotating jig steered silkworm spinning; silkworms came from a farm and completed metamorphosis afterwards.",
+      "method_zh": "旋转转台上的机器编织纤维骨架引导蚕的吐丝；蚕来自养蚕场，吐丝后完成变态。",
+      "keywords": [
+        "Bombyx mori",
+        "silk",
+        "knitting",
+        "MoMA",
+        "co-fabrication"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=MUVv4wtyMPE"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd8c2e76f1573d4d8e6_OG%20Image%20SILK%20PAVILION%20II.jpg",
+        "https://dam-prod.media.mit.edu/thumb/2020/03/05/05-Fabric_Detail_With_Silkworms_0J2id9g.jpg.1400x1400.jpg"
+      ],
+      "source_url": "https://www.oxman.com/projects/silk-pavillion-ii"
+    },
+    {
+      "id": "neri-oxman--synthetic-apiary",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Synthetic Apiary",
+      "year": 2016,
+      "field": "bio",
+      "sub": "architecture",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "An indoor environment that keeps honeybees in a permanent spring, with controlled light, humidity and temperature and synthetic pollen, so colonies can live year-round inside a building.",
+      "description_zh": "一个室内环境，用受控的光照、湿度、温度和人工花粉让蜜蜂生活在“永恒的春天”里，使蜂群能全年住在建筑内部。",
+      "idea_en": "Architecture can be designed as habitat for another species, not only for humans.",
+      "idea_zh": "建筑可以被设计成另一个物种的栖息地，而不只是人的。",
+      "method": "Researchers measured honeybee needs and engineered a sealed room simulating spring conditions; the team recorded the first documented bee birth in a synthetic environment.",
+      "method_zh": "研究者测量蜜蜂的需求，建造一个模拟春季条件的封闭房间；团队记录到首次在人工环境中出生的蜜蜂。",
+      "keywords": [
+        "honeybee",
+        "Apis mellifera",
+        "colony collapse",
+        "controlled environment",
+        "habitat design"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=n4dRPsbwhlQ"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd74676be92e261c43c_OG%20Image%20SYNTHETIC%20APIARY.jpg",
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/697384d671e19de3b135573b_imgi_2_67d49a9ce07e57c6908416d9_mediated-matter-synthetic-apiary-10.jpg"
+      ],
+      "source_url": "https://www.oxman.com/projects/synthetic-apiary"
+    },
+    {
+      "id": "neri-oxman--aguahoja",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Aguahoja",
+      "year": 2018,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "plants",
+        "animals"
+      ],
+      "kind": "prototype",
+      "description": "A pavilion and artefacts robotically printed from the most abundant biopolymers on Earth — cellulose, chitosan and pectin — whose skins stiffen, flex or dissolve depending on their composition.",
+      "description_zh": "用地球上最丰富的生物聚合物（纤维素、壳聚糖和果胶）机器人打印出的展亭和器物，表皮随成分不同而变硬、弯曲或在水中溶解。",
+      "idea_en": "Design the material's end of life at the same time as its form: things made of water-based biopolymers can return to the ecosystem.",
+      "idea_zh": "在设计形态的同时设计材料的归宿：水基生物聚合物做的东西可以回到生态系统。",
+      "method": "A water-based robotic extrusion platform printed functionally graded biocomposites of chitosan (from shrimp shells), cellulose and pectin.",
+      "method_zh": "水基机器人挤出平台打印功能梯度生物复合材料，原料为壳聚糖（来自虾壳）、纤维素和果胶。",
+      "keywords": [
+        "chitosan",
+        "cellulose",
+        "pectin",
+        "water-based fabrication",
+        "biodegradable",
+        "robotic printing"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=14flotuAzfY"
+      },
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd725bf83d73fcebe7b_OG%20Image%20AGUAHOJA.jpg",
+        "https://dam-prod.media.mit.edu/thumb/2019/03/18/Structure_1.jpg.1400x1400.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1089/3dp.2014.0014",
+        "doi": "10.1089/3dp.2014.0014",
+        "arxiv": "",
+        "venue": "3D Printing and Additive Manufacturing 2014"
+      },
+      "source_url": "https://www.oxman.com/projects/aguahoja"
+    },
+    {
+      "id": "neri-oxman--totems",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Totems",
+      "year": 2019,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "molecules",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "Tall 3D-printed columns channel melanin, the pigment found across the tree of life, testing it as a material for architectural surfaces; shown at the XXII Triennale di Milano.",
+      "description_zh": "高大的 3D 打印柱体内流动着黑色素（遍布生命之树的色素），测试它作为建筑表面材料的可能；在第 22 届米兰三年展展出。",
+      "idea_en": "Borrow a molecule that evolved to protect living bodies and scale it to protect buildings.",
+      "idea_zh": "借用一个演化出来保护生物体的分子，把它放大到保护建筑。",
+      "method": "Melanin extracted from bird feathers and cuttlefish ink or synthesised in the lab was flowed through multi-material printed vessels.",
+      "method_zh": "从鸟羽和墨鱼墨汁中提取、或在实验室合成的黑色素，被灌入多材料打印的容器中。",
+      "keywords": [
+        "melanin",
+        "pigment",
+        "multi-material 3D printing",
+        "Triennale di Milano",
+        "Stratasys"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd72f1a7d5708e90d4e_OG%20Image%20TOTEMS.jpg",
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/697388ddafbca67a84260e2f_imgi_2_67d49fc7ff773f00ece0a803_totems-04.jpg"
+      ],
+      "source_url": "https://www.oxman.com/projects/totems"
+    },
+    {
+      "id": "neri-oxman--vespers",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter"
+      ],
+      "title": "Vespers",
+      "year": 2016,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "Three series of 3D-printed death masks move from ancient to future: in the third series, engineered microbes inside the masks produce pigments in designed patterns.",
+      "description_zh": "三组 3D 打印的死亡面具从古代走向未来：在第三组中，面具里的工程微生物按设计图案产生色素。",
+      "idea_en": "A printed object can serve as a spatial template that tells living cells where to express colour.",
+      "idea_zh": "打印物可以作为空间模板，告诉活细胞在哪里显色。",
+      "method": "Voxel-based multi-material printing created chemical gradients that induced engineered E. coli to express pigments locally.",
+      "method_zh": "基于体素的多材料打印形成化学梯度，诱导工程大肠杆菌在局部表达色素。",
+      "keywords": [
+        "death mask",
+        "E. coli",
+        "hybrid living materials",
+        "voxel printing",
+        "Stratasys"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9g0w6rpjvvE"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2016/12/13/33_Mask_5_close_notext.jpg.1400x1400.jpg",
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69738dd099ab05e2609cd8d4_imgi_2_67d4aa0ca8744e9431c38d4e_vespersiii-hlm-blue-pigment-bacteria.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1002/adfm.201907401",
+        "doi": "10.1002/adfm.201907401",
+        "arxiv": "",
+        "venue": "Advanced Functional Materials 2020"
+      },
+      "source_url": "https://www.oxman.com/projects/vespers-iii"
+    },
+    {
+      "id": "neri-oxman--wanderers",
+      "creator_ids": [
+        "neri-oxman",
+        "mediated-matter",
+        "oxman"
+      ],
+      "title": "Wanderers: An Astrobiological Exploration",
+      "year": 2014,
+      "field": "bio",
+      "sub": "synbio",
+      "also": [
+        "biohybrid"
+      ],
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "speculative",
+      "description": "Four 3D-printed wearables designed for other planets; Mushtari has 58 m of internal channels meant to host microbes that turn sunlight into food and useful compounds for the wearer.",
+      "description_zh": "为其他星球设计的四件 3D 打印可穿戴装置；其中 Mushtari 有 58 米长的内部通道，设想容纳能把阳光转化为食物和有用物质的微生物。",
+      "idea_en": "A garment can be a portable ecosystem that keeps its wearer alive.",
+      "idea_zh": "衣服可以是一个随身生态系统，维持穿戴者的生存。",
+      "method": "Generative growth algorithms produced the forms; multi-material printing made fluid channels designed for co-cultures of photosynthetic cyanobacteria and E. coli.",
+      "method_zh": "生成式生长算法生成形态；多材料打印制造流体通道，用于光合蓝细菌与大肠杆菌的共培养。",
+      "keywords": [
+        "Mushtari",
+        "wearable",
+        "cyanobacteria",
+        "astrobiology",
+        "microfluidics",
+        "Stratasys"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=6zMlowpj3Ko"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2017/10/13/wanderers01.jpg.1400x1400.jpg",
+        "https://dam-prod.media.mit.edu/thumb/files/Display/mushtari.png.1400x1400.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1089/3dp.2016.0027",
+        "doi": "10.1089/3dp.2016.0027",
+        "arxiv": "",
+        "venue": "3D Printing and Additive Manufacturing 2016"
+      },
+      "source_url": "https://www.media.mit.edu/projects/wanderers/overview/"
+    },
+    {
+      "id": "oxman--o0",
+      "creator_ids": [
+        "oxman",
+        "neri-oxman"
+      ],
+      "title": "O°",
+      "year": 2024,
+      "field": "bio",
+      "sub": "microbial",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "prototype",
+      "description": "Shoes and textiles made from a single bacterially produced bioplastic (PHA), designed so each product can decompose back into its ecosystem at end of life.",
+      "description_zh": "用单一细菌生产的生物塑料（PHA）制成的鞋和织物，设计成在使用寿命结束时能分解回生态系统。",
+      "idea_en": "Design a product's decomposition as carefully as its use.",
+      "idea_zh": "像设计使用一样认真地设计产品的分解。",
+      "method": "Polyhydroxyalkanoates made by bacteria were processed by 3D printing, hot-melt spinning and knitting into a mono-material product family.",
+      "method_zh": "细菌合成的聚羟基脂肪酸酯（PHA）经 3D 打印、热熔纺丝和针织，做成单一材料的产品系列。",
+      "keywords": [
+        "PHA",
+        "polyhydroxyalkanoate",
+        "bioplastic",
+        "footwear",
+        "mono-material",
+        "biodegradation"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69762cd6a2f86f21e1b44867_OG%20Image%20O0.jpg"
+      ],
+      "source_url": "https://www.oxman.com/projects/o0"
+    },
+    {
+      "id": "oxman--man-nahata",
+      "creator_ids": [
+        "oxman",
+        "neri-oxman"
+      ],
+      "title": "Man-Nahata",
+      "year": 2021,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "A study of Manhattan's future as an interface between built and grown environments, starting from the island's pre-1600 ecology; made for Francis Ford Coppola's film Megalopolis and shown at SFMOMA.",
+      "description_zh": "以 1600 年前曼哈顿的生态为起点，设想这座岛的未来成为建成环境与生长环境之间的界面；为 Francis Ford Coppola 的电影《大都会》而作，在 SFMOMA 展出。",
+      "idea_en": "Use a place's lost ecology as the brief for its future city.",
+      "idea_zh": "把一个地方失去的生态当作它未来城市的设计任务书。",
+      "method": "Ecological data on Mannahatta's 55 historical ecological communities informed a bottom-up, growth-based urban model; the method is likely computational simulation.",
+      "method_zh": "关于 Mannahatta 55 种历史生态群落的数据被用于自下而上、以生长为基础的城市模型；方法可能是计算模拟。",
+      "keywords": [
+        "Mannahatta",
+        "Megalopolis",
+        "urban ecology",
+        "SFMOMA",
+        "rewilding"
+      ],
+      "images": [
+        "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/69723d6bb41c87fed446c09a_imgi_1_67bd9f3dc5a230660b0d2179_mglps-header.avif"
+      ],
+      "source_url": "https://www.oxman.com/projects/man-nahata"
+    },
+    {
+      "id": "neri-oxman--age-of-entanglement",
+      "creator_ids": [
+        "neri-oxman"
+      ],
+      "title": "Age of Entanglement (Krebs Cycle of Creativity)",
+      "year": 2016,
+      "field": "mth",
+      "sub": "theory-methods",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "publication",
+      "description": "The opening essay of the Journal of Design and Science, which introduced the Krebs Cycle of Creativity: a map in which science, engineering, design and art feed into each other.",
+      "description_zh": "《设计与科学期刊》的创刊文章，提出“创造力克雷布斯循环”：一张科学、工程、设计与艺术彼此输送能量的图。",
+      "idea_en": "Disciplines are no longer separate; ideas should flow across science, engineering, design and art like energy in a metabolic cycle.",
+      "idea_zh": "学科不再分离，想法应像代谢循环中的能量一样在科学、工程、设计与艺术之间流动。",
+      "method": "An essay that maps four modes of creativity onto the Krebs cycle of cellular respiration.",
+      "method_zh": "一篇把四种创造模式映射到细胞呼吸的克雷布斯循环上的论文。",
+      "keywords": [
+        "Krebs Cycle of Creativity",
+        "antidisciplinary",
+        "Journal of Design and Science",
+        "MIT Press"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.21428/7e0583ad",
+        "doi": "10.21428/7e0583ad",
+        "arxiv": "",
+        "venue": "Journal of Design and Science 2016"
+      },
+      "source_url": "https://doi.org/10.21428/7e0583ad"
+    },
+    {
+      "id": "neri-oxman--material-ecology",
+      "creator_ids": [
+        "neri-oxman"
+      ],
+      "title": "Material Ecology",
+      "year": 2015,
+      "field": "mth",
+      "sub": "theory-methods",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "paper",
+      "description": "A paper that defines Material Ecology: an approach in which computation, fabrication and material are designed together with the environment, the way organisms grow their own tissues.",
+      "description_zh": "定义“材料生态学”的论文：像生物生长自身组织那样，把计算、制造、材料与环境放在一起设计。",
+      "idea_en": "Design objects the way nature grows them: form, material and environment decided together.",
+      "idea_zh": "像自然生长一样设计物体：形态、材料与环境同时决定。",
+      "method": "A position paper drawing on Mediated Matter projects that combine multi-material printing, fibre-based fabrication and biological templates.",
+      "method_zh": "一篇立场论文，以 Mediated Matter 的多材料打印、纤维制造和生物模板项目为依据。",
+      "keywords": [
+        "Material Ecology",
+        "computational design",
+        "digital fabrication",
+        "biology-inspired design"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.cad.2014.05.009",
+        "doi": "10.1016/j.cad.2014.05.009",
+        "arxiv": "",
+        "venue": "Computer-Aided Design 2015"
+      },
+      "source_url": "https://doi.org/10.1016/j.cad.2014.05.009"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--e-chromi",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "E. chromi",
+      "year": 2009,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "speculative",
+      "description": "With James King and the Cambridge iGEM 2009 team, Ginsberg helped engineer E. coli that produce visible colours, then designed scenarios for coloured bacteria, such as a yoghurt whose bacteria colour faeces to signal disease.",
+      "description_zh": "Ginsberg 与 James King 及剑桥大学 iGEM 2009 团队合作，改造出能产生可见颜色的大肠杆菌，再设计一系列使用“彩色细菌”的情境，例如能让粪便变色以提示疾病的酸奶。",
+      "idea_en": "Designers can work inside a synthetic biology project and show its possible futures before the technology is finished.",
+      "idea_zh": "设计师可以进入合成生物学项目内部，在技术完成之前就展示它可能的未来。",
+      "method": "Standard BioBrick genetic parts were combined so E. coli express pigments of different colours in response to chemical signals.",
+      "method_zh": "用标准 BioBrick 基因元件组合，让大肠杆菌对化学信号作出反应、表达不同颜色的色素。",
+      "keywords": [
+        "iGEM",
+        "E. coli",
+        "biosensor",
+        "BioBrick",
+        "James King",
+        "Cambridge"
+      ],
+      "video": {
+        "url": "https://vimeo.com/19759432"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/echromi-gallery-1.jpg",
+        "https://www.daisyginsberg.com/img/work/echromi-gallery-3.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/echromi-living-colour-from-bacteria"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--growth-assembly",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg",
+        "sascha-pohflepp"
+      ],
+      "title": "Growth Assembly",
+      "year": 2009,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "speculative",
+      "description": "A set of botanical-style illustrations shows a future in which product parts, such as a herbicide sprayer, are grown by engineered plants and assembled by hand.",
+      "description_zh": "一组植物图谱风格的插图，描绘产品零件（比如除草剂喷雾器）由工程植物长出、再手工组装的未来。",
+      "idea_en": "If plants can grow our products, the factory becomes a field and the supply chain becomes seasonal.",
+      "idea_zh": "如果植物能长出我们的产品，工厂就变成了田野，供应链就有了季节。",
+      "method": "Speculative design using scientific illustration to depict plants engineered to grow product components.",
+      "method_zh": "以科学插画为手法的思辨设计，描绘被改造来生长产品零件的植物。",
+      "keywords": [
+        "speculative design",
+        "botanical illustration",
+        "distributed manufacturing",
+        "Sascha Pohflepp"
+      ],
+      "video": {
+        "url": "https://vimeo.com/7009032"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/growth-gallery-8.jpg",
+        "https://www.daisyginsberg.com/img/work/growth-gallery-2.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/growth-assembly"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--synthetic-kingdom",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "The Synthetic Kingdom",
+      "year": 2009,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "speculative",
+      "description": "Proposes a new branch on the tree of life for engineered organisms and imagines their unintended side effects on bodies and landscapes.",
+      "description_zh": "为工程生物在生命之树上提出一个新的分支，并想象它们对身体和景观造成的意外后果。",
+      "idea_en": "Imagine the side effects of a technology, not only its intended uses.",
+      "idea_zh": "去想象一项技术的副作用，而不只是它的预期用途。",
+      "method": "Speculative objects and a taxonomic diagram present consequences of synthetic organisms escaping into the world.",
+      "method_zh": "用思辨物件和分类图示，呈现合成生物逃逸到世界中后的后果。",
+      "keywords": [
+        "tree of life",
+        "taxonomy",
+        "speculative design",
+        "unintended consequences"
+      ],
+      "video": {
+        "url": "https://vimeo.com/5271766"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/synking-gallery-1.jpg",
+        "https://www.daisyginsberg.com/img/work/synking-gallery-2.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/synthetic-kingdom"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--sixth-extinction",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "Designing for the Sixth Extinction",
+      "year": 2013,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "ecosystems",
+        "bacteria"
+      ],
+      "kind": "speculative",
+      "description": "Imagines synthetic organisms released into the wild to stand in for the ecological work of lost species, and asks whether nature designed by industry could still be called nature.",
+      "description_zh": "设想把合成生物放归野外，替代已消失物种的生态功能，并追问由工业设计出来的“自然”还算不算自然。",
+      "idea_en": "Before engineering a fix for biodiversity loss, ask what kind of nature it would produce.",
+      "idea_zh": "在用工程手段修补生物多样性之前，先问它会造出什么样的自然。",
+      "method": "Speculative field-guide specimens and renderings of engineered organisms, each with a function such as bioremediation or seed dispersal.",
+      "method_zh": "用思辨的野外图鉴标本和渲染图呈现工程生物，每种都有功能，如生物修复或种子传播。",
+      "keywords": [
+        "biodiversity",
+        "de-extinction",
+        "conservation",
+        "speculative specimens"
+      ],
+      "images": [
+        "https://www.daisyginsberg.com/img/work/extinction-gallery-16.jpg",
+        "https://www.daisyginsberg.com/img/work/extinction-gallery-1.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/designing-for-the-sixth-extinction"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--resurrecting-the-sublime",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg",
+        "christina-agapakis",
+        "sissel-tolaas"
+      ],
+      "title": "Resurrecting the Sublime",
+      "year": 2019,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "plants",
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "Installations let visitors smell flowers that humans made extinct, reconstructed from DNA in herbarium specimens, while standing among the rocks where the plants once grew.",
+      "description_zh": "装置让观众站在植物曾生长的岩石之间，闻到被人类灭绝的花的香气；这些气味由植物标本中的 DNA 重建而来。",
+      "idea_en": "Bring back an extinct species not as a living organism but as a partial, uncertain sensory trace.",
+      "idea_zh": "不把灭绝物种作为活体复活，而是作为不完整、不确定的感官痕迹带回来。",
+      "method": "Ginkgo Bioworks extracted DNA from herbarium samples, predicted scent-producing genes and resynthesised candidate molecules; Tolaas recombined them into smells.",
+      "method_zh": "Ginkgo Bioworks 从植物标本中提取 DNA，预测产生香味的基因并合成候选分子；Tolaas 再把它们组合成气味。",
+      "keywords": [
+        "Ginkgo Bioworks",
+        "de-extinction",
+        "herbarium",
+        "scent",
+        "Hibiscadelphus wilderianus"
+      ],
+      "video": {
+        "url": "https://vimeo.com/326304593"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/sublime-gallery-4.jpg",
+        "https://www.daisyginsberg.com/img/work/mzo_agapakis_-_daisy_ginsberg_-_tolaas__1547.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/resurrecting-the-sublime"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--wilding-of-mars",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "The Wilding of Mars",
+      "year": 2019,
+      "field": "mth",
+      "sub": "decentering",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "plants",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A simulated Mars is seeded with Earth plants and left without human intervention for a millennium; visitors watch the planet slowly green or fail.",
+      "description_zh": "在模拟的火星上播下地球植物，任其在没有人类干预的情况下演化一千年；观众看着这个星球慢慢变绿或失败。",
+      "idea_en": "Instead of terraforming a planet for people, imagine letting it become wild for its own sake.",
+      "idea_zh": "不为人类改造星球，而是想象让它为自己变得荒野。",
+      "method": "A computer simulation of plant growth, dispersal and competition on Martian terrain, shown as an installation.",
+      "method_zh": "以装置形式展示的计算机模拟，模拟植物在火星地形上的生长、扩散与竞争。",
+      "keywords": [
+        "Mars",
+        "terraforming",
+        "rewilding",
+        "simulation",
+        "Mars Exploration"
+      ],
+      "video": {
+        "url": "https://vimeo.com/350723399"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/option3.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/the-wilding-of-mars"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--machine-auguries",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "Machine Auguries",
+      "year": 2019,
+      "field": "mth",
+      "sub": "decentering",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "In a darkened room a dawn chorus of real birds is gradually taken over by artificial birdsong generated by machine learning, highlighting how urban noise changes the way birds sing.",
+      "description_zh": "在黑暗的房间里，一段真实鸟类的黎明合唱逐渐被机器学习生成的人工鸟鸣取代，揭示城市噪声如何改变鸟的歌唱。",
+      "idea_en": "Use AI to make audible what other species lose in human environments.",
+      "idea_zh": "用人工智能让人听见其他物种在人类环境中失去的东西。",
+      "method": "Generative adversarial networks trained on recordings of UK birdsong produced artificial calls, mixed with real recordings in a spatial sound installation.",
+      "method_zh": "用英国鸟鸣录音训练生成对抗网络，产生人工鸟叫，并与真实录音混合成空间声音装置。",
+      "keywords": [
+        "birdsong",
+        "GAN",
+        "dawn chorus",
+        "noise pollution",
+        "sound installation"
+      ],
+      "images": [
+        "https://www.daisyginsberg.com/img/work/250108_machine_auguries_umea_1770_gallery.jpg",
+        "https://www.daisyginsberg.com/img/work/machine_auguries_london_bildmuseet_gallery.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/machine-auguries"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--pollinator-pathmaker",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "Pollinator Pathmaker",
+      "year": 2021,
+      "field": "mth",
+      "sub": "multispecies",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "insects",
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "An algorithm designs gardens for the widest range of pollinating insects rather than for human taste; living editions are planted at the Eden Project, in Berlin and elsewhere, and anyone can design one online.",
+      "description_zh": "一个算法为尽可能多种类的传粉昆虫设计花园，而不是迎合人的审美；活体版本种在伊甸园项目、柏林等地，任何人都能在线设计自己的一座。",
+      "idea_en": "Hand the aesthetic brief to other species: a garden designed for pollinators' preferences.",
+      "idea_zh": "把审美决定权交给其他物种：按传粉者的偏好设计花园。",
+      "method": "An optimisation algorithm, built with ecologists, selects and arranges plant species to maximise pollinator diversity across the season.",
+      "method_zh": "与生态学家共同开发的优化算法挑选并排布植物种类，让整个季节的传粉者多样性最大化。",
+      "keywords": [
+        "pollinators",
+        "algorithm",
+        "Eden Project",
+        "LAS Art Foundation",
+        "living artwork"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=IN3YzdziqBY"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/pp_las_25_gallery.jpeg",
+        "https://www.daisyginsberg.com/img/work/pp_las_dig_ren_4_web.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/pollinator-pathmaker"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--the-substitute",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "The Substitute",
+      "year": 2019,
+      "field": "mth",
+      "sub": "decentering",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "A life-size, AI-generated northern white rhino appears on a wall and becomes more lifelike as its model learns, after the last male of the subspecies died in 2018.",
+      "description_zh": "在这一亚种最后一头雄性于 2018 年死去后，一头真实大小、由 AI 生成的北方白犀牛出现在墙上，随着模型学习变得越来越逼真。",
+      "idea_en": "Question why we pour effort into making artificial life while real species disappear.",
+      "idea_zh": "追问：当真实物种消失时，我们为何投入精力去制造人工生命。",
+      "method": "A digital rhino animated by an artificial-life model trained on archive footage and sound of the subspecies, projected at full scale.",
+      "method_zh": "一头由人工生命模型驱动的数字犀牛，用该亚种的档案影像和声音训练，按真实比例投影。",
+      "keywords": [
+        "northern white rhino",
+        "extinction",
+        "artificial life",
+        "AI",
+        "Cooper Hewitt"
+      ],
+      "video": {
+        "url": "https://vimeo.com/352678068"
+      },
+      "images": [
+        "https://www.daisyginsberg.com/img/work/nmbe_thesubstitute__n__9859_photography_nelly_rodriguez.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/the-substitute"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--synthetic-aesthetics",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "Synthetic Aesthetics: Investigating Synthetic Biology's Designs on Nature",
+      "year": 2014,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "publication",
+      "description": "A book (MIT Press) from a programme that paired synthetic biologists with artists and designers, with essays on how synthetic biology designs living things.",
+      "description_zh": "一本由 MIT 出版社出版的书，来自一个让合成生物学家与艺术家、设计师结对合作的项目，收录关于合成生物学如何“设计”生命的文章。",
+      "idea_en": "Put scientists and designers together early, and let each question the other's idea of design.",
+      "idea_zh": "尽早让科学家和设计师一起工作，让彼此质疑对方心中的“设计”。",
+      "method": "Edited volume by Ginsberg, Jane Calvert, Pablo Schyfter, Alistair Elfick and Drew Endy, documenting paired residencies and critical essays.",
+      "method_zh": "由 Ginsberg、Jane Calvert、Pablo Schyfter、Alistair Elfick 和 Drew Endy 编著，记录结对驻留与批判性文章。",
+      "keywords": [
+        "MIT Press",
+        "Drew Endy",
+        "Jane Calvert",
+        "art-science residency",
+        "synthetic biology"
+      ],
+      "images": [
+        "https://www.daisyginsberg.com/img/work/syn_aesthetics_cover.jpg",
+        "https://www.daisyginsberg.com/img/work/synthetic_aesthetics_2.jpg"
+      ],
+      "source_url": "https://www.daisyginsberg.com/work/synthetic-aesthetics"
+    },
+    {
+      "id": "alexandra-daisy-ginsberg--other-biological-futures",
+      "creator_ids": [
+        "alexandra-daisy-ginsberg"
+      ],
+      "title": "Other Biological Futures",
+      "year": 2018,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "publication",
+      "description": "A special issue of the Journal of Design and Science, co-edited with Natsai Audrey Chieza, that gathers views on biodesign beyond the promises of the biotechnology industry.",
+      "description_zh": "《设计与科学期刊》的一期特刊，由 Ginsberg 与 Natsai Audrey Chieza 共同主编，汇集超越生物技术产业承诺的生物设计观点。",
+      "idea_en": "There is more than one future for biology; design can help imagine the ones industry leaves out.",
+      "idea_zh": "生物学的未来不止一种；设计可以帮助想象被产业忽略的那些。",
+      "method": "An editorial framing a collection of essays by designers, scientists and theorists.",
+      "method_zh": "一篇为设计师、科学家和理论家文章合集定调的社论。",
+      "keywords": [
+        "Journal of Design and Science",
+        "Natsai Audrey Chieza",
+        "biodesign critique"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.21428/566868b5",
+        "doi": "10.21428/566868b5",
+        "arxiv": "",
+        "venue": "Journal of Design and Science 2018"
+      },
+      "source_url": "https://doi.org/10.21428/566868b5"
+    },
+    {
+      "id": "christina-agapakis--selfmade",
+      "creator_ids": [
+        "christina-agapakis",
+        "sissel-tolaas"
+      ],
+      "title": "Selfmade",
+      "year": 2013,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Cheeses made with bacteria swabbed from people's hands, feet, noses and armpits, including from Olafur Eliasson and Michael Pollan, shown with the smells of their donors.",
+      "description_zh": "用从人手、脚、鼻子和腋下采集的细菌做成的奶酪，其中包括 Olafur Eliasson 与 Michael Pollan 的菌群，并与捐赠者的气味一起展出。",
+      "idea_en": "Our body microbes and food microbes are relatives; showing that can reduce fear of bacteria.",
+      "idea_zh": "我们身上的微生物和食物里的微生物是亲戚；让人看到这一点，可以减少对细菌的恐惧。",
+      "method": "Skin swabs were inoculated into pasteurised milk and incubated at 37 °C; curds were strained and pressed into fresh cheese.",
+      "method_zh": "把皮肤拭子接种到巴氏杀菌奶中，在 37 °C 培养，再把凝乳过滤、压制成鲜奶酪。",
+      "keywords": [
+        "cheese",
+        "human microbiome",
+        "smell",
+        "Synthetic Aesthetics",
+        "Science Gallery"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1Ej4BP64BsU"
+      },
+      "images": [
+        "https://freight.cargo.site/w/1200/i/0fc1e65d151b6460db94908392cd3eca4a26dd45a35f4ca05d650779e358ab65/cheese.png"
+      ],
+      "source_url": "https://agapakis.com/selfmade"
+    },
+    {
+      "id": "oron-catts--semi-living-worry-dolls",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project",
+        "symbiotica"
+      ],
+      "title": "Semi-Living Worry Dolls",
+      "year": 2000,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "artwork",
+      "description": "Seven tiny doll figures, modelled on Guatemalan worry dolls, were grown from living cells on degradable polymer inside a bioreactor; visitors were invited to whisper their worries to them.",
+      "description_zh": "七个以危地马拉“解忧娃娃”为原型的小人偶，用活细胞在可降解聚合物上、在生物反应器中生长而成；观众被邀请向它们低声倾诉烦恼。",
+      "idea_en": "A 'semi-living' object is neither alive nor dead, and needs our care to exist.",
+      "idea_zh": "“半活体”物件既不算活也不算死，需要我们的照料才能存在。",
+      "method": "Cells were seeded onto hand-shaped scaffolds of biodegradable polymer and surgical sutures and kept in a sterile bioreactor at body temperature.",
+      "method_zh": "把细胞接种到由可降解聚合物和手术缝线手工塑形的支架上，放在保持体温的无菌生物反应器中。",
+      "keywords": [
+        "semi-living",
+        "tissue engineering",
+        "bioreactor",
+        "Ars Electronica"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Semi-Living-Worry-Dolls-Oron-Catts-and-Ionat-Zurr-09.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/002409402760181123",
+        "doi": "10.1162/002409402760181123",
+        "arxiv": "",
+        "venue": "Leonardo 2002"
+      },
+      "source_url": "https://tcaproject.net/portfolio/worry-dolls/"
+    },
+    {
+      "id": "oron-catts--pig-wings",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "Pig Wings",
+      "year": 2001,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "Three sets of small wings — in the shapes of bat, bird and pterosaur wings — were grown from pig bone-marrow stem cells, answering the saying 'when pigs fly'.",
+      "description_zh": "用猪骨髓干细胞培养出三对小翅膀，分别是蝙蝠、鸟和翼龙翅膀的形状，回应俗语“除非猪会飞”。",
+      "idea_en": "Tissue engineering can make metaphors literal, and in doing so expose the desires behind biotech.",
+      "idea_zh": "组织工程能把隐喻变成实物，也因此暴露出生物技术背后的欲望。",
+      "method": "Pig mesenchymal stem cells were differentiated into bone tissue over wing-shaped biodegradable scaffolds.",
+      "method_zh": "猪间充质干细胞在翅膀形可降解支架上分化为骨组织。",
+      "keywords": [
+        "stem cells",
+        "pig",
+        "xenotransplantation",
+        "tissue engineering"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Pigs-Wings-Oron-Catts-and-Ionat-Zurr-01.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/pigs-wings/"
+    },
+    {
+      "id": "oron-catts--extra-ear",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "Extra Ear ¼ Scale",
+      "year": 2003,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "With performance artist Stelarc, a quarter-scale replica of Stelarc's ear was grown from living cells, a step towards the ear he later had implanted on his arm.",
+      "description_zh": "与行为艺术家 Stelarc 合作，用活细胞培养出按四分之一比例复制的 Stelarc 耳朵；这是他后来把耳朵植入手臂的前奏。",
+      "idea_en": "Grow a body part outside the body to ask who owns it and what it is for.",
+      "idea_zh": "在体外长出身体的一部分，追问它属于谁、为了什么。",
+      "method": "Human cells were seeded on an ear-shaped biodegradable scaffold and grown in a bioreactor.",
+      "method_zh": "把人类细胞接种到耳形可降解支架上，在生物反应器中培养。",
+      "keywords": [
+        "Stelarc",
+        "ear",
+        "tissue engineering",
+        "semi-living"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Project-Extra-Ear-Oron-Catts-and-Ionat-Zurr-and-Stelarc-01.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/extra-ear/"
+    },
+    {
+      "id": "oron-catts--disembodied-cuisine",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project",
+        "symbiotica"
+      ],
+      "title": "Disembodied Cuisine",
+      "year": 2003,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "Frog muscle was grown into a small 'steak' in the gallery while the living frogs it came from lived beside it; at the end the tissue was cooked and eaten at a dinner in Nantes.",
+      "description_zh": "在展厅里用青蛙肌肉细胞培养出一小块“牛排”，提供细胞的活青蛙就生活在旁边；展览结束时，这块组织在南特的一场晚宴上被烹饪并吃掉。",
+      "idea_en": "Lab-grown meat is not 'victimless'; showing the donor animal next to the steak makes that visible.",
+      "idea_zh": "实验室培养肉并非“没有受害者”；把供体动物放在肉旁边，能让这一点变得可见。",
+      "method": "Frog skeletal muscle cells were grown over biopolymer scaffolds in a bioreactor; the medium included animal-derived serum.",
+      "method_zh": "青蛙骨骼肌细胞在生物反应器中的生物聚合物支架上生长；培养液含动物来源的血清。",
+      "keywords": [
+        "in vitro meat",
+        "cultured meat",
+        "frog",
+        "L'Art Biotech",
+        "Nantes"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2003/12/TCA-Disembodied-Cuisine-Oron-Catts-and-Ionat-Zurr-0.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1080/13534645.2013.752062",
+        "doi": "10.1080/13534645.2013.752062",
+        "arxiv": "",
+        "venue": "Parallax 2013"
+      },
+      "source_url": "https://tcaproject.net/portfolio/disembodied-cuisine/"
+    },
+    {
+      "id": "oron-catts--victimless-leather",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "Victimless Leather",
+      "year": 2004,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "artwork",
+      "description": "A miniature stitchless jacket grown from living cells in a glass bioreactor; at MoMA's Design and the Elastic Mind (2008) it grew so fast that the curator had to switch it off.",
+      "description_zh": "在玻璃生物反应器里用活细胞长出的一件无缝微型夹克；在 MoMA“设计与弹性思维”展（2008）上它长得太快，策展人不得不把它“关掉”。",
+      "idea_en": "A 'victimless' material still involves life, death and care; the gallery has to decide when to kill it.",
+      "idea_zh": "“无受害者”材料仍然牵涉生、死与照料；展馆必须决定何时终结它。",
+      "method": "Mouse and human cell lines were grown over a jacket-shaped biodegradable polymer in a perfusion bioreactor.",
+      "method_zh": "小鼠和人类细胞系在灌流生物反应器中的夹克形可降解聚合物上生长。",
+      "keywords": [
+        "tissue-engineered leather",
+        "MoMA",
+        "Design and the Elastic Mind",
+        "bioreactor"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Project-Victimless-Leather-Oron-Catts-and-Ionat-Zurr.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/victimless-leather/"
+    },
+    {
+      "id": "oron-catts--noark",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "NoArk",
+      "year": 2007,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "An experimental vessel keeps alive a single mass of cells and tissues that came from many different organisms, a 'surrogate body' for life forms that no taxonomy fits.",
+      "description_zh": "一个实验容器养活着一团来自多种不同生物的细胞和组织，是为无法归入任何分类的生命准备的“替代身体”。",
+      "idea_en": "Biotechnology produces life that breaks our categories; a new kind of collection is needed to display it.",
+      "idea_zh": "生物技术造出了打破分类的生命，需要一种新的收藏方式来展示它。",
+      "method": "Cell lines from tissue banks and labs were co-cultured in one custom bioreactor, with Marcus Canning.",
+      "method_zh": "与 Marcus Canning 合作，把来自组织库和实验室的多种细胞系共同培养在一个定制生物反应器中。",
+      "keywords": [
+        "co-culture",
+        "taxonomy",
+        "natural history",
+        "Marcus Canning"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Project-NoArk-Oron-Catts-and-Ionat-Zurr-04.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/noark/"
+    },
+    {
+      "id": "oron-catts--crude-matter",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "Crude Matter",
+      "year": 2012,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "artwork",
+      "description": "Loosely based on the Golem story, cells are grown on different synthetic substrates that push stem cells to become blood, bone or fat.",
+      "description_zh": "大致以“魔像”传说为蓝本，把细胞培养在不同的合成基质上，基质推动干细胞变成血液、骨骼或脂肪。",
+      "idea_en": "The material a cell sits on can shape what it becomes; substrate is a design decision.",
+      "idea_zh": "细胞所附着的材料会影响它变成什么；基质本身就是设计决定。",
+      "method": "Stem cells were cultured on a range of polymer substrates that steer differentiation.",
+      "method_zh": "把干细胞培养在多种引导分化的聚合物基质上。",
+      "keywords": [
+        "Golem",
+        "stem cell differentiation",
+        "substrate",
+        "semi-living"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Project-Crude-Matter-Oron-Catts-Ionat-Zurr-03.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/crude-matter/"
+    },
+    {
+      "id": "oron-catts--stir-fly",
+      "creator_ids": [
+        "oron-catts",
+        "ionat-zurr",
+        "tissue-culture-art-project"
+      ],
+      "title": "Stir Fly: Nutrient Bug 1.0",
+      "year": 2016,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "insects"
+      ],
+      "kind": "speculative",
+      "description": "A prototype kitchen bioreactor for growing insect meat from fly cells at home, which also makes visible that the nutrient bag still contains animal serum.",
+      "description_zh": "一个用苍蝇细胞在家中培养昆虫肉的厨房生物反应器原型，同时让人看到营养袋里仍然含有动物血清。",
+      "idea_en": "A domestic appliance can expose the hidden dependencies of 'clean' food technology.",
+      "idea_zh": "一件家用电器可以揭示“清洁”食品技术隐藏的依赖。",
+      "method": "Insect cells, which grow at room temperature, were cultured in a sterile vessel fed from a nutrient bag, with Robert Foster.",
+      "method_zh": "与 Robert Foster 合作；可在室温生长的昆虫细胞在无菌容器中培养，由营养袋供液。",
+      "keywords": [
+        "insect cells",
+        "in vitro meat",
+        "domestic bioreactor",
+        "fetal calf serum",
+        "Robert Foster"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/TCA-Project-Stir-Fly-The-Nutrient-Bug-1.0-by-Oron-Catts-Ionat-Zurr-4.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/stir-fly-nutrient-bug-1-0/"
+    },
+    {
+      "id": "oron-catts--vapour-meat",
+      "creator_ids": [
+        "oron-catts",
+        "tissue-culture-art-project"
+      ],
+      "title": "Vapour Meat",
+      "year": 2018,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "speculative",
+      "description": "A helmet that emits a vapour of lab-grown rat muscle cells, essential oils and water, mixing molecular gastronomy, lab-grown meat and e-cigarettes.",
+      "description_zh": "一个会喷出实验室培养大鼠肌肉细胞、精油和水混合蒸汽的头盔，把分子料理、培养肉和电子烟混在一起。",
+      "idea_en": "Push a food technology to its absurd end to show how far it moves us from the animal.",
+      "idea_zh": "把一种食品技术推到荒诞的尽头，显示它让我们离动物有多远。",
+      "method": "Cultured rat muscle cells were suspended with oils and water and vaporised in a wearable device, with Devon Ward.",
+      "method_zh": "与 Devon Ward 合作；把培养的大鼠肌肉细胞与油和水混合，在可穿戴装置中雾化。",
+      "keywords": [
+        "vaporware",
+        "cultured meat",
+        "Science Gallery Dublin",
+        "Devon Ward"
+      ],
+      "images": [
+        "https://tcaproject.net/wp-content/uploads/2018/12/Devon-Ward-Oron-Catts-Vapour-Meat-Science-Gallery-Dublin-1200x800-01.jpg"
+      ],
+      "source_url": "https://tcaproject.net/portfolio/vapour-meat/"
+    },
+    {
+      "id": "eduardo-kac--genesis",
+      "creator_ids": [
+        "eduardo-kac"
+      ],
+      "title": "Genesis",
+      "year": 1999,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "molecules",
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "A sentence from the Book of Genesis was translated into Morse code and then into a synthetic gene placed in bacteria; online visitors switched on UV light to mutate the bacteria and so rewrite the text.",
+      "description_zh": "把《创世纪》中的一句话译成摩尔斯电码，再译成一段合成基因放入细菌中；网上观众可以打开紫外灯让细菌突变，从而改写这段文字。",
+      "idea_en": "DNA is also a writing system; letting the public mutate it asks who has dominion over life.",
+      "idea_zh": "DNA 也是一种书写系统；让公众去突变它，就是在追问谁拥有对生命的支配权。",
+      "method": "Text → Morse → base pairs; the synthetic gene was cloned into E. coli under a microscope connected to the internet with remotely controlled UV.",
+      "method_zh": "文字 → 摩尔斯电码 → 碱基对；合成基因被克隆进大肠杆菌，显微镜联网，紫外灯可远程控制。",
+      "keywords": [
+        "transgenic art",
+        "synthetic gene",
+        "Morse code",
+        "Ars Electronica",
+        "telepresence"
+      ],
+      "images": [
+        "https://www.ekac.org/genesis.kac.1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.2307/j.ctv36xw15f.7",
+        "doi": "10.2307/j.ctv36xw15f.7",
+        "arxiv": "",
+        "venue": "Art, Technology, Consciousness (Intellect) 2000"
+      },
+      "source_url": "https://www.ekac.org/geninfo.html"
+    },
+    {
+      "id": "eduardo-kac--gfp-bunny",
+      "creator_ids": [
+        "eduardo-kac"
+      ],
+      "title": "GFP Bunny (Alba)",
+      "year": 2000,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "animals",
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "Alba, an albino rabbit carrying a green fluorescent protein gene, was presented as an artwork including the public debate and the family life around her.",
+      "description_zh": "Alba 是一只携带绿色荧光蛋白基因的白化兔，作品把她本身、围绕她的公共争论和家庭生活都当作作品的一部分。",
+      "idea_en": "A transgenic animal as art is as much about responsibility and care as about the organism.",
+      "idea_zh": "把转基因动物当作艺术，关乎的是责任和照料，而不只是生物本身。",
+      "method": "Alba was produced at the French agricultural research institute INRA with an enhanced GFP gene that makes her glow green under blue light.",
+      "method_zh": "Alba 在法国国家农业研究院（INRA）培育，带有增强型 GFP 基因，在蓝光下发出绿色荧光。",
+      "keywords": [
+        "GFP",
+        "transgenic rabbit",
+        "Alba",
+        "INRA",
+        "transgenic art"
+      ],
+      "images": [
+        "https://www.ekac.org/albagreen-cutout.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/002409403321554125",
+        "doi": "10.1162/002409403321554125",
+        "arxiv": "",
+        "venue": "Leonardo 2003"
+      },
+      "source_url": "https://www.ekac.org/gfpbunny.html"
+    },
+    {
+      "id": "eduardo-kac--natural-history-of-the-enigma",
+      "creator_ids": [
+        "eduardo-kac"
+      ],
+      "title": "Natural History of the Enigma (Edunia)",
+      "year": 2009,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "plants",
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "Edunia is a petunia that expresses the artist's own DNA only in the red veins of its petals, a 'plantimal' mixing human and plant.",
+      "description_zh": "Edunia 是一种矮牵牛花，花瓣上的红色叶脉中表达着艺术家自己的 DNA，是人与植物混合的“植物动物”。",
+      "idea_en": "Make kinship between species literal by putting your own gene into a flower.",
+      "idea_zh": "把自己的基因放进一朵花里，让物种间的亲缘关系变成字面意义。",
+      "method": "A gene fragment isolated from Kac's blood (an immune-system protein) was engineered to be expressed only in the flower's red veins.",
+      "method_zh": "从 Kac 血液中分离的一段基因（一种免疫系统蛋白）被改造为只在花的红色叶脉中表达。",
+      "keywords": [
+        "Edunia",
+        "petunia",
+        "transgenic plant",
+        "plantimal",
+        "Weisman Art Museum"
+      ],
+      "images": [
+        "https://www.ekac.org/kac.nat.hist.enigma.01.jpg"
+      ],
+      "source_url": "https://www.ekac.org/nat.hist.enig.html"
+    },
+    {
+      "id": "eduardo-kac--specimen-of-secrecy",
+      "creator_ids": [
+        "eduardo-kac"
+      ],
+      "title": "Specimen of Secrecy about Marvelous Discoveries",
+      "year": 2006,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "bacteria",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "A series of 'biotopes': framed living works of earth, water and thousands of microorganisms whose colours change over the exhibition as the microbes metabolise.",
+      "description_zh": "一系列“生物群落画”：装框的活作品由泥土、水和成千上万的微生物组成，随着微生物代谢，颜色在展期中不断变化。",
+      "idea_en": "A painting can be a self-sustaining ecosystem that the artist only orchestrates.",
+      "idea_zh": "一幅画可以是自我维持的生态系统，艺术家只负责编排。",
+      "method": "Kac arranged microbial communities and nutrients in sealed frames so their metabolism produces evolving colour fields.",
+      "method_zh": "Kac 在密封画框中安排微生物群落与养分，让它们的代谢产生不断变化的色域。",
+      "keywords": [
+        "biotope",
+        "microbial ecology",
+        "Winogradsky",
+        "Singapore Biennale"
+      ],
+      "images": [
+        "https://www.ekac.org/specimen_doohickey.jpg"
+      ],
+      "source_url": "https://www.ekac.org/specimen.html"
+    },
+    {
+      "id": "joe-davis--microvenus",
+      "creator_ids": [
+        "joe-davis"
+      ],
+      "title": "Microvenus",
+      "year": 1986,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "molecules",
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "An ancient Germanic rune for life and the female earth was encoded as a short synthetic DNA sequence and inserted into E. coli, often cited as the first artwork made with molecular biology.",
+      "description_zh": "把一个象征生命与大地女性的古日耳曼符文编码成一段短的合成 DNA 序列，插入大肠杆菌中；常被认为是第一件用分子生物学做成的艺术品。",
+      "idea_en": "Living cells can carry an image as a message, like a plaque sent to space.",
+      "idea_zh": "活细胞可以像送往太空的金属铭牌一样携带图像信息。",
+      "method": "The icon was converted to binary and then to a 28-base-pair DNA sequence, synthesised with geneticist Dana Boyd and cloned into E. coli.",
+      "method_zh": "图形先转换为二进制，再转成 28 个碱基对的 DNA 序列；与遗传学家 Dana Boyd 合作合成并克隆进大肠杆菌。",
+      "keywords": [
+        "DNA encoding",
+        "E. coli",
+        "Dana Boyd",
+        "Pioneer plaque",
+        "SETI"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1080/00043249.1996.10791743",
+        "doi": "10.1080/00043249.1996.10791743",
+        "arxiv": "",
+        "venue": "Art Journal 1996"
+      },
+      "source_url": "https://doi.org/10.1080/00043249.1996.10791743"
+    },
+    {
+      "id": "anna-dumitriu--make-do-and-mend",
+      "creator_ids": [
+        "anna-dumitriu"
+      ],
+      "title": "Make Do and Mend",
+      "year": 2017,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "bacteria",
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "A 1940s British utility dress is patched with fabric impregnated with E. coli from which an antibiotic-resistance gene was removed by CRISPR editing.",
+      "description_zh": "一件 1940 年代英国“实用服”被补上一块布料，布料中浸有大肠杆菌，这些细菌的抗生素耐药基因已用 CRISPR 删除。",
+      "idea_en": "Mending clothes and editing genes are both repair; the craft metaphor makes gene editing discussable.",
+      "idea_zh": "缝补衣服和编辑基因都是修复；手工的隐喻让基因编辑变得可以讨论。",
+      "method": "CRISPR-Cas9 was used in a lab to knock out a resistance gene in E. coli, which was then killed and applied to textile patches.",
+      "method_zh": "在实验室用 CRISPR-Cas9 敲除大肠杆菌的一个耐药基因，再把灭活的细菌用在布料补丁上。",
+      "keywords": [
+        "CRISPR",
+        "antibiotic resistance",
+        "textile",
+        "wartime dress"
+      ],
+      "video": {
+        "url": "https://vimeo.com/214423418"
+      },
+      "images": [
+        "https://i0.wp.com/annadumitriu.co.uk/wp-content/uploads/2020/02/FEAT_Anna-Dumitriu_Make-Do-and-Mend_Detail2.jpg?resize=768%2C1024&ssl=1"
+      ],
+      "source_url": "https://annadumitriu.co.uk/portfolio/make-do-and-mend/"
+    },
+    {
+      "id": "anna-dumitriu--the-romantic-disease",
+      "creator_ids": [
+        "anna-dumitriu"
+      ],
+      "title": "The Romantic Disease: An Artistic Investigation of Tuberculosis",
+      "year": 2014,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "Textiles, lace and objects about the history of tuberculosis, dyed with materials from historical remedies; some pieces contain sterilised TB bacteria.",
+      "description_zh": "一组关于结核病历史的织物、蕾丝和物件，用历史疗法中的材料染色；部分作品中含有灭菌的结核分枝杆菌。",
+      "idea_en": "Craft objects can hold the history and the biology of a disease at the same time.",
+      "idea_zh": "手工物件可以同时承载一种疾病的历史和生物学。",
+      "method": "Worked with microbiologists on whole-genome sequencing of TB; bacteria were grown, sterilised and embedded in textiles alongside natural dyes.",
+      "method_zh": "与微生物学家合作开展结核菌全基因组测序；细菌经培养、灭菌后与天然染料一起嵌入织物。",
+      "keywords": [
+        "tuberculosis",
+        "Mycobacterium tuberculosis",
+        "textile",
+        "medical history"
+      ],
+      "images": [
+        "https://i0.wp.com/annadumitriu.co.uk/wp-content/uploads/2020/01/00100lPORTRAIT_00100_BURST20190603101317260_COVER.jpeg?resize=1024%2C768&ssl=1"
+      ],
+      "source_url": "https://annadumitriu.co.uk/portfolio/the-romantic-disease/"
+    },
+    {
+      "id": "spela-petric--skotopoiesis",
+      "creator_ids": [
+        "spela-petric"
+      ],
+      "title": "Confronting Vegetal Otherness: Skotopoiesis",
+      "year": 2015,
+      "field": "bio",
+      "sub": "bioart",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "plants",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "For 20 hours the artist stood facing a field of germinating cress lit by a projector; her shadow made the cress grow pale and elongated, leaving a lasting imprint of her body.",
+      "description_zh": "艺术家面对一片在投影灯下发芽的水芹站立 20 小时；她的影子让水芹长得苍白细长，留下了她身体的长久印记。",
+      "idea_en": "Meet a plant on its own time scale: slow down until you can exchange something with it.",
+      "idea_zh": "以植物的时间尺度与它相遇：慢下来，直到能与它交换些什么。",
+      "method": "Shading caused etiolation in the cress (growth in darkness), while the artist's body lost water and shrank slightly.",
+      "method_zh": "遮光导致水芹黄化（在黑暗中徒长），而艺术家的身体失水后也略微缩小。",
+      "keywords": [
+        "plant-human intercognition",
+        "etiolation",
+        "cress",
+        "Kapelica Gallery",
+        "performance"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1525552300442-FEP7QGQK17Y9ULKP8HCH/scotopoiesis_press_04.jpg"
+      ],
+      "source_url": "https://www.spelapetric.org/scotopoiesis"
+    },
+    {
+      "id": "spela-petric--phytoteratology",
+      "creator_ids": [
+        "spela-petric"
+      ],
+      "title": "Confronting Vegetal Otherness: Phytoteratology",
+      "year": 2016,
+      "field": "bio",
+      "sub": "bioart",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "plants",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Plant embryos were grown in vitro with human hormones from the artist's own body, producing small 'plant-human monsters' displayed as an ectogenetic nursery.",
+      "description_zh": "用艺术家身体中提取的人类激素在体外培育植物胚胎，长出小小的“植物-人类怪物”，陈列为一个体外育婴室。",
+      "idea_en": "Hormones cross kingdoms; a plant can be partly 'fathered' by a human.",
+      "idea_zh": "激素可以跨越生物界；一株植物可以部分“源自”一个人。",
+      "method": "Plant tissue culture: embryos were cultured on media supplemented with steroid hormones extracted from the artist's urine.",
+      "method_zh": "植物组织培养：在添加了从艺术家尿液中提取的类固醇激素的培养基上培育胚胎。",
+      "keywords": [
+        "Ectogenesis",
+        "plant tissue culture",
+        "hormones",
+        "teratology"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1534189733741-1EUWR4JLBX43M635NE6J/MG_6180.jpg"
+      ],
+      "source_url": "https://www.spelapetric.org/phytoteratology"
+    },
+    {
+      "id": "maja-smrekar--arte-mis",
+      "creator_ids": [
+        "maja-smrekar"
+      ],
+      "title": "K-9_topology: ARTE_mis",
+      "year": 2017,
+      "field": "bio",
+      "sub": "bioart",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "cells",
+        "animals",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "The artist's own egg cell was emptied of its nucleus and fused with a body cell from her dog Ada, creating a hybrid cell that cannot develop further, preserved in liquid nitrogen.",
+      "description_zh": "艺术家把自己卵细胞的细胞核取出，再与她的狗 Ada 的体细胞融合，形成一个不能继续发育的混合细胞，保存在液氮中。",
+      "idea_en": "Co-evolution with a companion species can be made literal at the level of the cell.",
+      "idea_zh": "与伴侣物种的共同进化可以在细胞层面变成字面意义。",
+      "method": "Somatic cell fusion with an enucleated human oocyte, done in a biotechnology lab; the fused cell was cryopreserved.",
+      "method_zh": "在生物技术实验室把体细胞与去核的人类卵母细胞融合，并将融合细胞冷冻保存。",
+      "keywords": [
+        "K-9_topology",
+        "Golden Nica",
+        "Ars Electronica",
+        "human-dog",
+        "cell fusion"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/5c326f997c9327edb6347bf8/1575144123627-D23FKWEOWCQDMTPEUYSY/Maja_Smrekar_ARTE_mis_Photo_Maja_Smrekar.jpg"
+      ],
+      "source_url": "https://www.majasmrekar.org/k-9-topology-artemis"
+    },
+    {
+      "id": "marta-de-menezes--nature",
+      "creator_ids": [
+        "marta-de-menezes"
+      ],
+      "title": "Nature?",
+      "year": 2000,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "artwork",
+      "description": "Live butterflies were given wing patterns never seen in nature, such as asymmetric eyespots, by intervening in the development of the pupae; the designs live and die with the butterflies.",
+      "description_zh": "通过干预蛹的发育，让活蝴蝶长出自然界从未有过的翅膀图案（例如不对称的眼斑）；这些设计随蝴蝶一起生存和死亡。",
+      "idea_en": "You can design a living form through its development without touching its genes.",
+      "idea_zh": "不碰基因，也能通过发育过程设计一个活的形态。",
+      "method": "Microsurgery and cauterisation on developing wing tissue of Bicyclus anynana altered eyespot formation; the change is not inherited.",
+      "method_zh": "对 Bicyclus anynana 发育中的翅膀组织进行显微手术和烧灼，改变眼斑形成；这种改变不会遗传。",
+      "keywords": [
+        "butterfly",
+        "Bicyclus anynana",
+        "eyespot",
+        "developmental biology",
+        "Ars Electronica"
+      ],
+      "images": [
+        "https://martademenezes.com/wp-content/uploads/2021/07/01-Nature__Cover-1000x1000.jpg"
+      ],
+      "source_url": "https://martademenezes.com/portfolio/nature/"
+    },
+    {
+      "id": "jalila-essaidi--bulletproof-skin",
+      "creator_ids": [
+        "jalila-essaidi"
+      ],
+      "title": "2.6g 329m/s (Bulletproof Skin)",
+      "year": 2011,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Woven spider silk was embedded in lab-grown human skin and shot at with .22 bullets: the skin stopped a slower bullet but not one at full speed.",
+      "description_zh": "把编织的蛛丝嵌入实验室培养的人类皮肤，再用 .22 口径子弹射击：皮肤挡住了低速子弹，但没挡住全速子弹。",
+      "idea_en": "Test a science-fiction idea in the lab to open debate on safety and enhancement.",
+      "idea_zh": "在实验室里检验一个科幻设想，引出关于安全与人体增强的讨论。",
+      "method": "Transgenic spider silk from Utah State University was woven and layered between bioengineered skin cells at Leiden University Medical Center.",
+      "method_zh": "犹他州立大学的转基因蛛丝经编织后，在莱顿大学医学中心夹入生物工程皮肤细胞层之间。",
+      "keywords": [
+        "spider silk",
+        "tissue-engineered skin",
+        "Leiden",
+        "human enhancement",
+        "BAD Award 2010"
+      ],
+      "images": [
+        "https://arte-util.org/cms/wp-content/uploads/2013/12/280-Bullet-Proof-01-707x1060.jpg",
+        "https://clotmag.com/wp-content/uploads/2023/05/The-bulletproof-skin-samples-right-before-they-were-shot-with-.22-LR-calibre-bullets-in-the-background.jpg"
+      ],
+      "source_url": "https://jalilaessaidi.com/2-6g-329ms/",
+      "collections": [
+        "bad-award"
+      ]
+    },
+    {
+      "id": "heather-dewey-hagborg--stranger-visions",
+      "creator_ids": [
+        "heather-dewey-hagborg"
+      ],
+      "title": "Stranger Visions",
+      "year": 2012,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "molecules",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Hair, cigarette butts and chewing gum collected in New York streets were analysed for DNA and turned into 3D-printed portrait masks of the strangers who left them.",
+      "description_zh": "从纽约街头收集头发、烟头和口香糖，提取 DNA 并据此 3D 打印出遗留者的肖像面具。",
+      "idea_en": "The traces we leave everywhere can be read by anyone with a lab; genetic privacy is a design issue.",
+      "idea_zh": "我们到处留下的痕迹，任何有实验室的人都能读取；基因隐私是一个设计问题。",
+      "method": "DIY-lab DNA extraction and SNP analysis for traits such as ancestry and eye colour fed a face-modelling program; results were 3D-printed.",
+      "method_zh": "在 DIY 实验室提取 DNA，分析与祖源、眼色等特征相关的 SNP，输入面部建模程序后 3D 打印。",
+      "keywords": [
+        "DNA phenotyping",
+        "genetic surveillance",
+        "biohacking",
+        "3D printing",
+        "Genspace"
+      ],
+      "video": {
+        "url": "https://vimeo.com/257272785"
+      },
+      "images": [
+        "https://deweyhagborg.com/media/pages/projects/stranger-visions/d8bb0edf45-1643025614/wall_of_faces.jpg",
+        "https://deweyhagborg.com/media/pages/projects/stranger-visions/ac735c5217-1643025534/petri-web.jpg"
+      ],
+      "source_url": "https://deweyhagborg.com/projects/stranger-visions"
+    },
+    {
+      "id": "amy-karle--regenerative-reliquary",
+      "creator_ids": [
+        "amy-karle"
+      ],
+      "title": "Regenerative Reliquary",
+      "year": 2016,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "cells",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A bioprinted scaffold in the shape of a human hand skeleton, held in a bioreactor so that human stem cells can grow over it and turn into bone.",
+      "description_zh": "一个人手骨骼形状的生物打印支架，放在生物反应器中，让人类干细胞在上面生长并变成骨骼。",
+      "idea_en": "A scaffold can be a sculpture that finishes itself as cells grow into it.",
+      "idea_zh": "支架可以是一件随着细胞长入而自我完成的雕塑。",
+      "method": "A trabecular hand scaffold printed in PEGDA hydrogel was seeded with human mesenchymal stem cells to differentiate into bone.",
+      "method_zh": "用 PEGDA 水凝胶打印出骨小梁结构的手部支架，接种人类间充质干细胞，使其分化为骨。",
+      "keywords": [
+        "bioprinting",
+        "PEGDA",
+        "mesenchymal stem cells",
+        "bioreactor"
+      ],
+      "video": {
+        "url": "https://vimeo.com/245243383"
+      },
+      "images": [
+        "https://www.amykarle.com/wp-content/uploads/2016/12/Amy-Karle-REGENERATIVE-RELIQUARY-3D-printed-trabecular-scaffold-in-pegda-hydrogel-for-stem-cell-culture-in-bioreactor.jpg"
+      ],
+      "source_url": "https://www.amykarle.com/project/regenerative-reliquary/"
+    },
+    {
+      "id": "brandon-ballengee--malamp",
+      "creator_ids": [
+        "brandon-ballengee"
+      ],
+      "title": "Malamp",
+      "year": 2001,
+      "field": "bio",
+      "sub": "bioart",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "artwork",
+      "description": "Large prints of deformed frogs collected in the field, chemically cleared and stained so their bones glow red and cartilage blue, serve as memorials to amphibian decline.",
+      "description_zh": "把野外采集的畸形青蛙经化学透明和染色处理，骨骼呈红色、软骨呈蓝色，制成大幅照片，作为两栖动物衰退的纪念。",
+      "idea_en": "Scientific specimens can become portraits that make ecological harm personal.",
+      "idea_zh": "科学标本可以成为肖像，让生态伤害变得切身。",
+      "method": "Field surveys of malformed amphibians; specimens were cleared with enzymes and stained with alizarin red and alcian blue, then scanned.",
+      "method_zh": "对畸形两栖动物做野外调查；标本用酶透明化，再用茜素红和阿利新蓝染色后扫描。",
+      "keywords": [
+        "amphibian deformities",
+        "clearing and staining",
+        "citizen science",
+        "Malamp Reliquaries"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/69bc4da3042b683983220a8c/81a66649-8091-4547-8f65-f8bc1af405b1/brandon_ballengee_dfb42_electra_ozomene.jpg"
+      ],
+      "source_url": "https://www.brandonballengee.com/malamp/"
+    },
+    {
+      "id": "sasa-spacal--myconnect",
+      "creator_ids": [
+        "sasa-spacal"
+      ],
+      "title": "Myconnect",
+      "year": 2013,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "fungi",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A visitor lies in a capsule while their heartbeat is sent through mycelium, altered by it, and returned to the body as sound, light and vibration.",
+      "description_zh": "观众躺在一个舱体里，心跳信号被送入菌丝体，经其改变后再以声音、光和振动传回身体。",
+      "idea_en": "Make a person part of a feedback loop with another organism, so the boundary of the body blurs.",
+      "idea_zh": "让人成为与另一个生物的反馈回路的一部分，让身体的边界变得模糊。",
+      "method": "Heart-rate sensors fed a signal through a mycelium culture, likely read as changes in its electrical response, which modulated sound, light and haptic actuators; made with Mirjan Švagelj and Anil Podgornik.",
+      "method_zh": "心率传感器的信号穿过菌丝体培养物，可能通过其电响应的变化来调制声音、灯光和触觉装置；与 Mirjan Švagelj 和 Anil Podgornik 合作。",
+      "keywords": [
+        "mycelium",
+        "biofeedback",
+        "symbiotic interface",
+        "Kapelica Gallery"
+      ],
+      "video": {
+        "url": "https://vimeo.com/238714637"
+      },
+      "images": [
+        "https://www.agapea.si/wp-content/uploads/2015/05/S3D3092-WB2.jpg"
+      ],
+      "source_url": "https://www.agapea.si/en/projects/myconnect"
+    },
+    {
+      "id": "kuai-shen--ohm1gas",
+      "creator_ids": [
+        "kuai-shen"
+      ],
+      "title": "Oh!m1gas: Biomimetic Stridulation Environment",
+      "year": 2011,
+      "field": "mth",
+      "sub": "interspecies-art",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "insects"
+      ],
+      "kind": "artwork",
+      "description": "A colony of about 1,000 leafcutter ants lives in a plexiglass nest while their movements drive two turntables, scratching records into a soundscape of the colony's life.",
+      "description_zh": "约 1,000 只切叶蚁生活在有机玻璃蚁巢里，它们的活动驱动两台唱机，把唱片“搓”成蚁群生活的声景。",
+      "idea_en": "Let a colony's collective behaviour become the performer rather than the subject.",
+      "idea_zh": "让蚁群的集体行为成为表演者，而不是被观察的对象。",
+      "method": "Camera tracking and contact microphones picked up ant movement and stridulation; the data controlled turntable motors.",
+      "method_zh": "摄像头追踪和接触式麦克风采集蚂蚁的运动和摩擦发声，数据控制唱机电机。",
+      "keywords": [
+        "leafcutter ants",
+        "stridulation",
+        "turntables",
+        "SIGGRAPH",
+        "FACT Liverpool"
+      ],
+      "images": [
+        "https://cdn.fact.co.uk/uploads/images/_1200x630_crop_center-center_82_none/Kuai-Shen-Ohm1gas-2012.-Image-by-Rob-Battersby.-Installation-view-at-FACT.-2.jpg.jpg?v=1721756641",
+        "https://history.siggraph.org/wp-content/uploads/2017/10/2011_Auson_Ohm1gasbiomieticstridulationenvironment2.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/leon_a_00213",
+        "doi": "10.1162/leon_a_00213",
+        "arxiv": "",
+        "venue": "Leonardo 2011"
+      },
+      "source_url": "https://www.fact.co.uk/artwork/ohm1gas"
+    },
+    {
+      "id": "paul-vanouse--latent-figure-protocol",
+      "creator_ids": [
+        "paul-vanouse"
+      ],
+      "title": "Latent Figure Protocol",
+      "year": 2007,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "In a live performance, DNA samples are run through gel electrophoresis so the DNA bands form recognisable images, such as a copyright symbol.",
+      "description_zh": "在现场表演中，把 DNA 样本进行凝胶电泳，让 DNA 条带排成可辨认的图像，比如版权符号。",
+      "idea_en": "A 'DNA fingerprint' is an image produced by choices in the lab, not a neutral reading.",
+      "idea_zh": "“DNA 指纹”是实验室里的选择造出来的图像，而不是中立的读取。",
+      "method": "Restriction enzymes cut DNA into fragments of chosen lengths; loaded into many gel wells, the bands build a pixel image.",
+      "method_zh": "用限制性内切酶把 DNA 切成选定长度的片段，加入多个凝胶孔中，条带拼成像素图像。",
+      "keywords": [
+        "gel electrophoresis",
+        "DNA fingerprint",
+        "restriction enzymes",
+        "performance"
+      ],
+      "video": {
+        "url": "https://vimeo.com/337656704"
+      },
+      "images": [
+        "https://www.paulvanouse.com/DSC_154-small.jpg"
+      ],
+      "source_url": "https://www.paulvanouse.com/lfp.html"
+    },
+    {
+      "id": "sonja-baumel--invisible-membrane",
+      "creator_ids": [
+        "sonja-baumel"
+      ],
+      "title": "(In)visible Membrane",
+      "year": 2009,
+      "field": "bio",
+      "sub": "bioart",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Crocheted garments, a film and bacterial cultures make visible the layer of skin bacteria that surrounds every person as a second skin.",
+      "description_zh": "钩织服装、影片和细菌培养物，让包裹每个人的皮肤细菌层——“第二层皮肤”——变得可见。",
+      "idea_en": "The body does not end at the skin; clothing could be designed with our microbes.",
+      "idea_zh": "身体并不止于皮肤；衣服可以与我们的微生物一起设计。",
+      "method": "Skin bacteria were likely transferred onto agar and cultured to reveal their pattern; the artist learned microbiology during an internship at Wageningen University.",
+      "method_zh": "皮肤细菌可能被转印到琼脂上培养以显现其图案；艺术家在瓦赫宁根大学实习期间学习了微生物学。",
+      "keywords": [
+        "skin microbiome",
+        "agar",
+        "crochet",
+        "Design Academy Eindhoven"
+      ],
+      "images": [
+        "https://sonjabaeumel.at/files/pro/00032/4crochetedmembranephotobyMaurizioMontalt_mm.jpg"
+      ],
+      "source_url": "http://www.sonjabaeumel.at/info/13-archive/8-invisible-membrane"
+    },
+    {
+      "id": "ai-hasegawa--i-wanna-deliver-a-dolphin",
+      "creator_ids": [
+        "ai-hasegawa"
+      ],
+      "title": "I Wanna Deliver a Dolphin…",
+      "year": 2013,
+      "field": "bio",
+      "sub": "synbio",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals",
+        "humans"
+      ],
+      "kind": "speculative",
+      "description": "A woman gestates and gives birth to an endangered Maui's dolphin, which could then be raised or eaten, as a response to overpopulation and the wish to have a child.",
+      "description_zh": "一名女性孕育并生下一只濒危的毛伊海豚，之后可以抚养它，也可以吃掉它；以此回应人口过剩和生育愿望。",
+      "idea_en": "Speculative reproduction scenarios can reveal how we value other species.",
+      "idea_zh": "思辨性的生殖情境可以揭示我们如何看待其他物种。",
+      "method": "A proposed synthetic placenta would let a human womb support a dolphin fetus; presented as film and objects.",
+      "method_zh": "设想一种合成胎盘，使人类子宫能孕育海豚胎儿；以影片和物件呈现。",
+      "keywords": [
+        "Maui's dolphin",
+        "synthetic placenta",
+        "reproduction",
+        "Royal College of Art"
+      ],
+      "images": [
+        "https://www.kontejner.org/images/modules/tn_large_landscape_1609597134-_dsf1790.jpg"
+      ],
+      "source_url": "https://www.dezeen.com/2013/11/18/i-wanna-deliver-a-dolphin-synthetic-biology-concept-humans-giving-birth-to-food-by-ai-hasegawa/"
+    },
+    {
+      "id": "cohen-van-balen--life-support",
+      "creator_ids": [
+        "cohen-van-balen"
+      ],
+      "title": "Life Support",
+      "year": 2008,
+      "field": "bio",
+      "sub": "synbio",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals"
+      ],
+      "kind": "speculative",
+      "description": "Revital Cohen proposed that retired working animals, such as racing greyhounds and farm sheep, could become companions that also act as a patient's breathing aid or dialysis machine.",
+      "description_zh": "Revital Cohen 提出，让退役的工作动物（如赛狗灵缇和农场羊）成为病人的伴侣，同时充当呼吸辅助或透析机器。",
+      "idea_en": "Asking animals to replace medical machines shows how we already use them as devices.",
+      "idea_zh": "让动物代替医疗机器，揭示了我们早已把它们当作装置使用。",
+      "method": "Speculative design with photographs and prototypes: a greyhound whose breathing would drive a patient's ventilator and a sheep proposed as an external dialysis companion; the medical mechanisms are hypothetical.",
+      "method_zh": "用照片和原型呈现的思辨设计：用灵缇的呼吸驱动病人的呼吸机，用一只羊充当体外透析伙伴；其中的医学机制是假设性的。",
+      "keywords": [
+        "greyhound",
+        "dialysis",
+        "medical device",
+        "companion species",
+        "Royal College of Art"
+      ],
+      "images": [
+        "https://www.cohenvanbalen.com/wp-content/uploads/2012/09/ventilation-dog.jpg"
+      ],
+      "source_url": "https://www.cohenvanbalen.com/work/life-support"
+    },
+    {
+      "id": "cohen-van-balen--pigeon-dor",
+      "creator_ids": [
+        "cohen-van-balen"
+      ],
+      "title": "Pigeon d'Or",
+      "year": 2010,
+      "field": "bio",
+      "sub": "synbio",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "bacteria",
+        "animals"
+      ],
+      "kind": "speculative",
+      "description": "Tuur Van Balen designed bacteria that, fed to city pigeons, would turn their droppings into soap, plus a windowsill pigeon house for the process.",
+      "description_zh": "Tuur Van Balen 设计了一种细菌，喂给城市鸽子后，能让它们的粪便变成肥皂，并设计了配套的窗台鸽舍。",
+      "idea_en": "Use an urban animal as a platform for synthetic biology to question who designs the city's metabolism.",
+      "idea_zh": "把城市动物当作合成生物学平台，追问谁在设计城市的新陈代谢。",
+      "method": "With biochemist James Chappell, bacteria were engineered to produce lipase and lower pH in the pigeon gut; a domestic 'pigeon-house' interface was prototyped.",
+      "method_zh": "与生化学家 James Chappell 合作，改造细菌在鸽子肠道中产生脂肪酶并降低 pH；同时制作了家用“鸽舍”界面原型。",
+      "keywords": [
+        "pigeon",
+        "lipase",
+        "urban synthetic biology",
+        "Ars Electronica",
+        "VIDA"
+      ],
+      "video": {
+        "url": "https://vimeo.com/17574292"
+      },
+      "images": [
+        "https://www.cohenvanbalen.com/wp-content/uploads/2012/09/100403_tuur_5D_0082.jpg"
+      ],
+      "source_url": "https://www.cohenvanbalen.com/work/pigeon-dor"
+    },
+    {
+      "id": "cohen-van-balen--sterile",
+      "creator_ids": [
+        "cohen-van-balen"
+      ],
+      "title": "Sterile",
+      "year": 2014,
+      "field": "bio",
+      "sub": "bioart",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "An edition of 45 albino goldfish engineered to hatch without reproductive organs, conceived by the artists not as animals but as objects that cannot take part in the biological cycle.",
+      "description_zh": "一个由 45 条白化金鱼组成的版本，它们被改造为孵化时没有生殖器官；艺术家不把它们当作动物，而是当作无法参与生命循环的“物件”。",
+      "idea_en": "Making an animal that cannot reproduce exposes how design turns living beings into products.",
+      "idea_zh": "造出一种不能繁殖的动物，揭示了设计如何把生命变成产品。",
+      "method": "Produced over a long collaboration in Professor Etsuro Yamaha's fish-biology lab in Hokkaido, likely by embryo manipulation that blocks germ-cell development.",
+      "method_zh": "与北海道山羽悦郎教授的鱼类生物学实验室长期合作培育，可能通过胚胎操作阻断生殖细胞发育。",
+      "keywords": [
+        "goldfish",
+        "sterility",
+        "Schering Stiftung",
+        "The Arts Catalyst",
+        "commodity"
+      ],
+      "video": {
+        "url": "https://vimeo.com/200047560"
+      },
+      "images": [
+        "https://www.cohenvanbalen.com/wp-content/uploads/2015/01/IMG_6457-website.jpg"
+      ],
+      "source_url": "https://www.cohenvanbalen.com/work/sterile"
+    },
+    {
+      "id": "pinar-yoldas--ecosystem-of-excess",
+      "creator_ids": [
+        "pinar-yoldas"
+      ],
+      "title": "An Ecosystem of Excess",
+      "year": 2014,
+      "field": "bio",
+      "sub": "synbio",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "animals",
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "A speculative set of new organisms imagined to evolve in the plastic-filled Pacific garbage patch, with organs that sense, digest or display plastic.",
+      "description_zh": "一组思辨的新生物，设想在满是塑料的太平洋垃圾带中演化而来，拥有感知、消化或展示塑料的器官。",
+      "idea_en": "Imagine what evolution does with our pollution.",
+      "idea_zh": "想象演化会怎样利用我们的污染。",
+      "method": "Sculpted specimens and illustrations of speculative organisms, grounded in research on plastic-degrading microbes.",
+      "method_zh": "以雕塑标本和插图呈现思辨生物，依据是对降解塑料微生物的研究。",
+      "keywords": [
+        "Great Pacific Garbage Patch",
+        "plastic",
+        "speculative biology",
+        "transmediale"
+      ],
+      "images": [
+        "https://payload.cargocollective.com/1/0/10589/10336044/prt_450x301_1443471010_2x.jpg"
+      ],
+      "source_url": "https://www.pinaryoldas.info/Ecosystem-of-Excess-2014"
+    },
+    {
+      "id": "rachel-armstrong--future-venice",
+      "creator_ids": [
+        "rachel-armstrong"
+      ],
+      "title": "Future Venice",
+      "year": 2009,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "molecules",
+        "ecosystems"
+      ],
+      "kind": "speculative",
+      "description": "A proposal to grow an artificial limestone-like reef under Venice with protocells that swim away from light towards the city's dark foundations and deposit mineral there, slowing the city's sinking.",
+      "description_zh": "设想在威尼斯地下用原生细胞长出一片类石灰岩的人造礁：这些原生细胞避光游向城市黑暗的地基，在那里沉积矿物，减缓城市下沉。",
+      "idea_en": "Instead of building a foundation, program a chemical 'organism' to grow one where it is needed.",
+      "idea_zh": "不去建造地基，而是给一种化学“生物”编程，让它在需要的地方把地基长出来。",
+      "method": "Oil-in-water protocells (non-living chemical droplets with life-like behaviour) designed to be photophobic and to precipitate carbonate from dissolved minerals and CO₂.",
+      "method_zh": "水包油的原生细胞（有类生命行为的非生命化学液滴）被设计成避光，并能从溶解的矿物和二氧化碳中析出碳酸盐。",
+      "keywords": [
+        "protocells",
+        "Venice",
+        "artificial reef",
+        "biocrete",
+        "Venice Architecture Biennale"
+      ],
+      "video": {
+        "url": "https://vimeo.com/96792142"
+      },
+      "source_url": "https://www.dezeen.com/2014/05/30/movie-rachel-armstrong-future-venice-growing-giant-artificial-reef/"
+    },
+    {
+      "id": "rachel-armstrong--living-architecture",
+      "creator_ids": [
+        "rachel-armstrong"
+      ],
+      "title": "Living Architecture (LIAR)",
+      "year": 2016,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "prototype",
+      "description": "An EU research project building a modular bioreactor wall whose bricks contain microbial fuel cells that clean greywater, generate electricity and can report how 'happy' their microbes are.",
+      "description_zh": "一个欧盟研究项目，建造模块化生物反应墙：墙砖内含微生物燃料电池，能净化灰水、发电，并能报告其中微生物的“状态”。",
+      "idea_en": "A wall can be a digestive organ for the building: it metabolises waste into power and clean water.",
+      "idea_zh": "墙可以是建筑的消化器官：把废物代谢成电力和净水。",
+      "method": "Microbial fuel cells with engineered and natural consortia sit in modular bricks; sensors powered by the MFCs monitor microbial activity.",
+      "method_zh": "模块化墙砖中装有微生物燃料电池，内含工程菌与天然菌群；由燃料电池供电的传感器监测微生物活动。",
+      "keywords": [
+        "microbial fuel cell",
+        "bioreactor wall",
+        "Horizon 2020",
+        "Newcastle University",
+        "greywater"
+      ],
+      "images": [
+        "https://livingarchitecture-h2020.eu/wp-content/uploads/2016/07/liar-news-4-1024x512.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1515/9783035608922-022",
+        "doi": "10.1515/9783035608922-022",
+        "arxiv": "",
+        "venue": "Cultivated Building Materials (Birkhäuser) 2017"
+      },
+      "source_url": "https://livingarchitecture-h2020.eu/"
+    },
+    {
+      "id": "rachel-armstrong--living-quarters",
+      "creator_ids": [
+        "rachel-armstrong"
+      ],
+      "title": "Synthetic Biology: Living Quarters",
+      "year": 2010,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "molecules",
+        "bacteria"
+      ],
+      "kind": "publication",
+      "description": "A short Nature commentary with Neil Spiller arguing that architecture should use protocells and synthetic biology to make buildings that grow, repair and interact with their environment.",
+      "description_zh": "与 Neil Spiller 合写的《自然》短评，主张建筑应借助原生细胞和合成生物学，造出能生长、修复并与环境互动的房子。",
+      "idea_en": "Architecture could move from inert materials to materials with metabolism.",
+      "idea_zh": "建筑可以从惰性材料走向有新陈代谢的材料。",
+      "method": "A position piece drawing on protocell chemistry and early synthetic biology.",
+      "method_zh": "一篇立场文章，依据原生细胞化学和早期合成生物学。",
+      "keywords": [
+        "Nature",
+        "Neil Spiller",
+        "protocells",
+        "living buildings"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/467916a",
+        "doi": "10.1038/467916a",
+        "arxiv": "",
+        "venue": "Nature 2010"
+      },
+      "source_url": "https://doi.org/10.1038/467916a"
+    },
+    {
+      "id": "philip-beesley--hylozoic-ground",
+      "creator_ids": [
+        "philip-beesley",
+        "rachel-armstrong"
+      ],
+      "title": "Hylozoic Ground",
+      "year": 2010,
+      "field": "bio",
+      "sub": "responsive",
+      "organisms": [
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "An immersive forest of tens of thousands of acrylic fronds, whiskers and filters in the Canada Pavilion at the Venice Architecture Biennale, moving in response to visitors and hosting flasks of protocell chemistry.",
+      "description_zh": "威尼斯建筑双年展加拿大馆里由数万片亚克力叶片、触须和过滤器组成的沉浸式“森林”，会对观众作出反应，并容纳装有原生细胞化学物的烧瓶。",
+      "idea_en": "A building could behave like a living being: sensing, breathing and slowly metabolising its surroundings.",
+      "idea_zh": "建筑可以像生物一样行为：感知、呼吸，并缓慢地代谢周围环境。",
+      "method": "Meshed microcontrollers and sensors drive shape-memory-alloy actuators; Rachel Armstrong's flasks of oils, minerals and canal water form a chemical 'lymphatic' system.",
+      "method_zh": "联网微控制器和传感器驱动形状记忆合金执行器；Rachel Armstrong 设计的装有油、矿物和运河水的烧瓶构成化学“淋巴系统”。",
+      "keywords": [
+        "hylozoism",
+        "responsive environment",
+        "protocells",
+        "Venice Architecture Biennale",
+        "Living Architecture Systems Group"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=jgL2ppDmNtA"
+      },
+      "images": [
+        "https://www.philipbeesleystudioinc.com/wp-content/uploads/2021/06/banner-39.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.21312/978-1-926724-99-7",
+        "doi": "10.21312/978-1-926724-99-7",
+        "arxiv": "",
+        "venue": "Living Architecture Systems Group monograph 2016"
+      },
+      "source_url": "https://www.philipbeesleystudioinc.com/sculpture/hylozoic-ground-venice-biennale/"
+    },
+    {
+      "id": "ecologicstudio--biotechhut",
+      "creator_ids": [
+        "ecologicstudio"
+      ],
+      "title": "BioTechHut",
+      "year": 2017,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "prototype",
+      "description": "A prototype house for Astana Expo 2017 whose spaces are organised around algae photobioreactors that grow food and capture CO₂ from the air.",
+      "description_zh": "为 2017 年阿斯塔纳世博会设计的原型住宅，空间围绕微藻光生物反应器组织，微藻既生产食物又从空气中捕获二氧化碳。",
+      "idea_en": "Let the home host a photosynthetic organism as a working part of daily life.",
+      "idea_zh": "让家容纳一种光合生物，并让它成为日常生活中工作的一部分。",
+      "method": "Glass photobioreactors cultured spirulina and other microalgae, fed by air pumped from the interior.",
+      "method_zh": "玻璃光生物反应器培养螺旋藻等微藻，由室内空气泵入供气。",
+      "keywords": [
+        "Astana Expo 2017",
+        "spirulina",
+        "photobioreactor",
+        "carbon capture"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=X4BoZwM3idc"
+      },
+      "images": [
+        "https://admin.ecologicstudio.com/wp-content/uploads/2021/03/3-Cells-of-body-orizontal-scaled.jpg"
+      ],
+      "source_url": "https://www.ecologicstudio.com/projects/biotechhut"
+    },
+    {
+      "id": "ecologicstudio--photo-synth-etica",
+      "creator_ids": [
+        "ecologicstudio"
+      ],
+      "title": "Photo.Synth.Etica",
+      "year": 2018,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "prototype",
+      "description": "An 'urban curtain' of bioplastic modules filled with microalgae hung on a building façade in Dublin, where the algae capture CO₂ from passing air and grow in daylight.",
+      "description_zh": "挂在都柏林一栋建筑立面上的“城市幕帘”，由装有微藻的生物塑料模块组成；微藻在日光下生长，吸收流经空气中的二氧化碳。",
+      "idea_en": "A façade can be a thin, living layer that breathes for the city.",
+      "idea_zh": "立面可以是一层替城市呼吸的薄薄的活体。",
+      "method": "Air is pumped through serpentine channels in welded bioplastic panels where microalgae photosynthesise; excess biomass can be harvested.",
+      "method_zh": "空气被泵入焊接生物塑料板中的蛇形通道，微藻在其中进行光合作用；多余的生物质可以收获。",
+      "keywords": [
+        "urban algae curtain",
+        "Climate Innovation Summit",
+        "bioplastic",
+        "façade",
+        "Dublin"
+      ],
+      "images": [
+        "https://admin.ecologicstudio.com/wp-content/uploads/2021/01/01_UrbanAlgaeCurtain.jpg",
+        "https://admin.ecologicstudio.com/wp-content/uploads/2021/01/PhotoSynthEtica@DublinCastleMontage-scaled.jpg"
+      ],
+      "source_url": "https://www.ecologicstudio.com/projects/photo-synth-etica"
+    },
+    {
+      "id": "ecologicstudio--hortus-xl",
+      "creator_ids": [
+        "ecologicstudio"
+      ],
+      "title": "H.O.R.T.U.S. XL Astaxanthin.g",
+      "year": 2019,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae",
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "A large 3D-printed lattice, shown at the Centre Pompidou, whose triangular cells hold a biogel inoculated with photosynthetic cyanobacteria that grow into a green pattern.",
+      "description_zh": "在蓬皮杜中心展出的大型 3D 打印格构，三角形单元中装着接种了光合蓝细菌的生物凝胶，蓝细菌长成绿色图案。",
+      "idea_en": "Printing the substrate for a colony lets digital geometry and biological growth co-author a form.",
+      "idea_zh": "为菌落打印基底，让数字几何和生物生长共同完成一个形态。",
+      "method": "Digitally designed, coral-like geometry was printed as hexagonal-triangular modules; cyanobacteria were deposited in biogel on each cell.",
+      "method_zh": "以数字方式设计的类珊瑚几何被打印成三角模块；蓝细菌以生物凝胶形式放入每个单元。",
+      "keywords": [
+        "cyanobacteria",
+        "biogel",
+        "3D printing",
+        "Centre Pompidou",
+        "bio-digital"
+      ],
+      "images": [
+        "https://admin.ecologicstudio.com/wp-content/uploads/2021/02/MG_0470-scaled.jpg"
+      ],
+      "source_url": "https://www.ecologicstudio.com/projects/h-o-r-t-u-s-xl-astaxanthin-g"
+    },
+    {
+      "id": "ecologicstudio--airbubble",
+      "creator_ids": [
+        "ecologicstudio"
+      ],
+      "title": "AirBubble",
+      "year": 2021,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "prototype",
+      "description": "A children's playground in Warsaw built around an algae bioreactor that filters and cleans the air while children play.",
+      "description_zh": "华沙的一座儿童游乐场，围绕一个微藻生物反应器建造，孩子们玩耍时它同时过滤和净化空气。",
+      "idea_en": "Make air purification a visible, playful activity shared with microorganisms.",
+      "idea_zh": "让空气净化成为一种可见的、与微生物共同进行的游戏。",
+      "method": "Air is drawn through a transparent bioreactor with Chlorella microalgae that absorb pollutants and CO₂ and release oxygen.",
+      "method_zh": "空气被吸入装有小球藻的透明生物反应器，微藻吸收污染物和二氧化碳并释放氧气。",
+      "keywords": [
+        "Chlorella",
+        "air purification",
+        "playground",
+        "Warsaw",
+        "photobioreactor"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ZjA4uTlW1EE"
+      },
+      "source_url": "https://www.ecologicstudio.com/projects/air-bubble-air-purifying-eco-machine"
+    },
+    {
+      "id": "ecologicstudio--bit-bio-bot",
+      "creator_ids": [
+        "ecologicstudio"
+      ],
+      "title": "BIT.BIO.BOT",
+      "year": 2021,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "artwork",
+      "description": "An installation at the Venice Architecture Biennale 2021 that turned a room into a domestic bio-digital garden, where visitors saw spirulina grown in photobioreactors and processed into food.",
+      "description_zh": "2021 年威尼斯建筑双年展上的装置，把一个房间变成家用“生物-数字花园”，观众看到螺旋藻在光生物反应器中生长并被加工成食物。",
+      "idea_en": "Cohabitation with microalgae can be part of how we eat and breathe at home.",
+      "idea_zh": "与微藻共居可以成为我们在家中吃与呼吸的一部分。",
+      "method": "Spirulina was cultured in custom bioreactors fed with the room's air and harvested into edible product.",
+      "method_zh": "螺旋藻在定制的生物反应器中培养，用房间空气供气，再收获成可食用产品。",
+      "keywords": [
+        "spirulina",
+        "Venice Architecture Biennale",
+        "How will we live together?",
+        "bio-digital"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=GS4pcdIVajc"
+      },
+      "images": [
+        "https://admin.ecologicstudio.com/wp-content/uploads/2021/05/MRC1818-Modifica-scaled.jpg"
+      ],
+      "source_url": "https://www.ecologicstudio.com/projects/bitbiobot"
+    },
+    {
+      "id": "arup--biq-solarleaf",
+      "creator_ids": [
+        "arup"
+      ],
+      "title": "BIQ House and SolarLeaf façade",
+      "year": 2013,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "prototype",
+      "description": "A four-storey apartment building in Hamburg with 129 flat glass bioreactors on its sunny faces, where microalgae grow to shade the building and provide biomass and heat.",
+      "description_zh": "汉堡一栋四层公寓，向阳面装有 129 块扁平玻璃生物反应器，里面的微藻生长起来，为建筑遮阳，并提供生物质和热量。",
+      "idea_en": "A façade can be a working farm that produces energy and shade at the same time.",
+      "idea_zh": "立面可以是一个同时生产能源和阴影的农场。",
+      "method": "Microalgae circulate in 2.5 × 0.7 m photobioreactor panels; biomass is harvested for biogas and solar heat is recovered via heat exchangers.",
+      "method_zh": "微藻在 2.5 × 0.7 米的光生物反应器面板中循环；收获的生物质用于制沼气，太阳热能通过换热器回收。",
+      "keywords": [
+        "BIQ",
+        "SolarLeaf",
+        "IBA Hamburg",
+        "SSC Strategic Science Consult",
+        "Splitterwerk",
+        "photobioreactor"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=t3OddaOgo5Q"
+      },
+      "images": [
+        "https://www.arup.com/globalassets/images/projects/s/solarleaf/front-view-of-the-biq-house-teaser.jpg"
+      ],
+      "source_url": "https://www.arup.com/projects/solarleaf"
+    },
+    {
+      "id": "the-living--hy-fi",
+      "creator_ids": [
+        "the-living"
+      ],
+      "title": "Hy-Fi",
+      "year": 2014,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "fungi"
+      ],
+      "kind": "prototype",
+      "description": "A 12-metre tower of three branching cylinders built from about 10,000 bricks of mycelium grown on corn stalks, the winner of MoMA PS1's Young Architects Program; the bricks were composted afterwards.",
+      "description_zh": "一座 12 米高、由三个分叉圆柱组成的塔，用约 10,000 块在玉米秸秆上长成的菌丝砖建成，是 MoMA PS1 青年建筑师项目的获奖作品；展后砖块被堆肥。",
+      "idea_en": "A building can be grown, used for a summer and returned to soil with almost no waste.",
+      "idea_zh": "建筑可以被种出来，用一个夏天，再几乎零废弃地回到土壤。",
+      "method": "With Ecovative, chopped corn stalks and mycelium grew into bricks in moulds; reflective 3M film trays used as moulds became the top bricks.",
+      "method_zh": "与 Ecovative 合作，切碎的玉米秸秆和菌丝在模具中长成砖；作为模具的 3M 反光膜托盘成为塔顶的砖。",
+      "keywords": [
+        "mycelium brick",
+        "Ecovative",
+        "MoMA PS1",
+        "Young Architects Program",
+        "David Benjamin"
+      ],
+      "video": {
+        "url": "https://vimeo.com/85426618"
+      },
+      "images": [
+        "https://images.adsttc.com/media/images/53ad/5f8f/c07a/8021/be00/0039/large_jpg/5302011be8e44e1589000253_behind-hy-fi-the-entirely-organic-compostable-tower-that-won-moma-ps1-young-architect-s-program-2014_ps1_cov.jpg?1403871114"
+      ],
+      "source_url": "https://www.archdaily.com/521266/hy-fi-the-organic-mushroom-brick-tower-opens-at-moma-s-ps1-courtyard"
+    },
+    {
+      "id": "achim-menges--hygroskin",
+      "creator_ids": [
+        "achim-menges",
+        "icd-stuttgart"
+      ],
+      "title": "HygroSkin: Meteorosensitive Pavilion",
+      "year": 2013,
+      "field": "bio",
+      "sub": "responsive",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "A pavilion whose apertures, made of thin wood veneer, open and close on their own as air humidity changes, with no sensors or motors.",
+      "description_zh": "一座展亭，薄木单板做成的开口随空气湿度变化自行开合，不需要传感器或电机。",
+      "idea_en": "The material itself can be the sensor, the motor and the controller.",
+      "idea_zh": "材料本身就可以是传感器、电机和控制器。",
+      "method": "Wood veneer–composite bilayers bend as wood fibres swell and shrink with moisture; robotically fabricated panels hold the apertures.",
+      "method_zh": "木单板与复合材料的双层结构随木纤维吸湿膨胀或失水收缩而弯曲；机器人制造的面板承载这些开口。",
+      "keywords": [
+        "hygroscopic wood",
+        "biomimetic",
+        "FRAC Centre Orléans",
+        "responsive architecture",
+        "pine cone"
+      ],
+      "video": {
+        "url": "https://vimeo.com/73727749"
+      },
+      "images": [
+        "https://www.icd.uni-stuttgart.de/img/icd-imagedb/Web_HygroSkin_Main.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.cad.2014.02.010",
+        "doi": "10.1016/j.cad.2014.02.010",
+        "arxiv": "",
+        "venue": "Computer-Aided Design 2015"
+      },
+      "source_url": "https://www.icd.uni-stuttgart.de/projects/hygroskin-meteorosensitive-pavilion/"
+    },
+    {
+      "id": "achim-menges--urbach-tower",
+      "creator_ids": [
+        "achim-menges",
+        "icd-stuttgart"
+      ],
+      "title": "Urbach Tower",
+      "year": 2019,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "A 14-metre tower made of curved timber panels that were not bent by machines: flat bilayer boards curled into shape by themselves as the wood dried.",
+      "description_zh": "一座 14 米高的塔，弯曲木板不是用机器弯的：扁平的双层木板在干燥过程中自己卷成了所需形状。",
+      "idea_en": "Program the wood's growth structure so drying does the shaping work.",
+      "idea_zh": "对木材的生长结构编程，让干燥来完成成形。",
+      "method": "Spruce bilayers with different grain orientations and moisture contents curve predictably on drying; curved parts were laminated into CLT and robotically machined.",
+      "method_zh": "纹理方向和含水率不同的云杉双层板在干燥时发生可预测的弯曲；弯曲部件被层压成交叉层积材并由机器人加工。",
+      "keywords": [
+        "self-shaping wood",
+        "cross-laminated timber",
+        "Remstal Gartenschau",
+        "bilayer"
+      ],
+      "video": {
+        "url": "https://vimeo.com/419050044"
+      },
+      "images": [
+        "https://www.icd.uni-stuttgart.de/img/icd-imagedb/ICD_Web_UrbachTower.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.aax1311",
+        "doi": "10.1126/sciadv.aax1311",
+        "arxiv": "",
+        "venue": "Science Advances 2019"
+      },
+      "source_url": "https://www.icd.uni-stuttgart.de/projects/remstal-gartenschau-2019-urbach-turm/"
+    },
+    {
+      "id": "achim-menges--research-pavilion-2014-15",
+      "creator_ids": [
+        "achim-menges",
+        "icd-stuttgart"
+      ],
+      "title": "ICD/ITKE Research Pavilion 2014–15",
+      "year": 2015,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "Inspired by the diving bell water spider, which reinforces an underwater air bubble with silk, a robot inside an inflated membrane laid carbon fibres to stiffen it into a permanent shell.",
+      "description_zh": "受水蛛启发——水蛛用丝加固水下的气泡——一台机器人在充气膜内部铺设碳纤维，把它加固成永久的壳体。",
+      "idea_en": "Borrow a construction sequence from an animal, not only its final form.",
+      "idea_zh": "向动物借鉴建造的顺序，而不只是它最终的形态。",
+      "method": "An industrial robot placed carbon fibre on the inside of a pneumatic ETFE membrane, guided by sensor feedback; biological model: Argyroneta aquatica.",
+      "method_zh": "工业机器人在充气 ETFE 膜内侧铺设碳纤维，由传感器反馈引导；生物原型为水蛛（Argyroneta aquatica）。",
+      "keywords": [
+        "water spider",
+        "Argyroneta aquatica",
+        "carbon fibre",
+        "pneumatic formwork",
+        "biomimetics"
+      ],
+      "video": {
+        "url": "https://vimeo.com/132910518"
+      },
+      "images": [
+        "https://www.icd.uni-stuttgart.de/img/icd-imagedb/Web_RP14_Main.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1002/ad.1955",
+        "doi": "10.1002/ad.1955",
+        "arxiv": "",
+        "venue": "Architectural Design 2015"
+      },
+      "source_url": "https://www.icd.uni-stuttgart.de/projects/icditke-research-pavilion-2014-15/"
+    },
+    {
+      "id": "achim-menges--elytra-filament-pavilion",
+      "creator_ids": [
+        "achim-menges",
+        "icd-stuttgart"
+      ],
+      "title": "Elytra Filament Pavilion",
+      "year": 2016,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "A canopy of robotically wound glass- and carbon-fibre cells, based on the fibrous structure of beetle forewings (elytra), installed at the V&A; sensors in the fibres recorded how visitors used it.",
+      "description_zh": "一个由机器人缠绕的玻璃纤维和碳纤维单元组成的顶棚，以甲虫前翅（鞘翅）的纤维结构为原型，安装在 V&A 博物馆；纤维中的传感器记录观众如何使用它。",
+      "idea_en": "A beetle's wing shows how to put fibres only where loads need them.",
+      "idea_zh": "甲虫的翅膀展示了如何只在需要受力的地方放置纤维。",
+      "method": "Fibre layouts derived from elytra were wound by a robot on a reconfigurable frame; resin-impregnated fibres cured into hexagonal cells.",
+      "method_zh": "从鞘翅中提取的纤维排布由机器人在可重构框架上缠绕，浸树脂的纤维固化成六边形单元。",
+      "keywords": [
+        "beetle elytra",
+        "fibre winding",
+        "V&A",
+        "biomimetics",
+        "robotic fabrication"
+      ],
+      "video": {
+        "url": "https://vimeo.com/168351499"
+      },
+      "images": [
+        "https://www.icd.uni-stuttgart.de/img/icd-imagedb/Web_ICD_VA3.jpg"
+      ],
+      "source_url": "https://www.icd.uni-stuttgart.de/projects/elytra-filament-pavilion/"
+    },
+    {
+      "id": "achim-menges--buga-wood-pavilion",
+      "creator_ids": [
+        "achim-menges",
+        "icd-stuttgart"
+      ],
+      "title": "BUGA Wood Pavilion",
+      "year": 2019,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "animals"
+      ],
+      "kind": "prototype",
+      "description": "A 30-metre timber shell for the Bundesgartenschau Heilbronn made of 376 hollow wooden segments, whose layout follows the plate skeleton of sea urchins.",
+      "description_zh": "为海尔布隆联邦园艺展建造的 30 米木壳结构，由 376 个中空木构件组成，其排布参照海胆的骨板结构。",
+      "idea_en": "Sea urchin plates show how many small segments can form a strong, light shell.",
+      "idea_zh": "海胆骨板展示了许多小构件如何组成轻而坚固的壳。",
+      "method": "Computational design translated sea-urchin plate principles into segments; robots machined and assembled the hollow wood cassettes.",
+      "method_zh": "计算设计把海胆骨板原理转化为构件；机器人加工并组装中空木盒。",
+      "keywords": [
+        "sea urchin",
+        "segmented timber shell",
+        "Bundesgartenschau",
+        "biomimetics"
+      ],
+      "video": {
+        "url": "https://vimeo.com/372594657"
+      },
+      "images": [
+        "https://www.icd.uni-stuttgart.de/img/icd-imagedb/ICD_Projects_19_BUGA-2019_Wood.jpg"
+      ],
+      "source_url": "https://www.icd.uni-stuttgart.de/projects/buga-wood-pavilion-2019/"
+    },
+    {
+      "id": "terreform-one--fab-tree-hab",
+      "creator_ids": [
+        "terreform-one"
+      ],
+      "title": "Fab Tree Hab",
+      "year": 2008,
+      "field": "bio",
+      "sub": "grown",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "speculative",
+      "description": "A proposed home grown from native trees trained over removable CNC scaffolds, with living walls of vines and soil pockets, so that the house becomes part of the local ecosystem.",
+      "description_zh": "一个用本地树木沿可拆卸数控支架生长而成的住宅方案，墙体由藤蔓和土壤袋构成，让房屋成为本地生态系统的一部分。",
+      "idea_en": "Grow a house rather than build it, and let it keep serving other species.",
+      "idea_zh": "不建造房子，而是种出房子，并让它持续为其他物种服务。",
+      "method": "Pleaching (grafting and training living branches) over prefabricated plywood scaffolds that are removed once the trees hold their shape.",
+      "method_zh": "编枝（嫁接并训练活枝条）沿预制胶合板支架生长，树木定型后移除支架。",
+      "keywords": [
+        "pleaching",
+        "tree architecture",
+        "Mitchell Joachim"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=l9A0qeZ8BDE"
+      },
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/2bb510c9-839b-4983-b5b9-1f364425202c/fab-tree-hab-terreform-greenweb.jpg"
+      ],
+      "source_url": "https://www.terreform.org/fab-tree-hab"
+    },
+    {
+      "id": "terreform-one--monarch-sanctuary",
+      "creator_ids": [
+        "terreform-one"
+      ],
+      "title": "Monarch Sanctuary",
+      "year": 2019,
+      "field": "bio",
+      "sub": "architecture",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "insects",
+        "plants"
+      ],
+      "kind": "speculative",
+      "description": "A design for an eight-storey commercial building in New York whose façade, roof and atrium are breeding habitat for monarch butterflies, shown at the Cooper Hewitt Design Triennial.",
+      "description_zh": "为纽约一栋八层商业楼设计的方案，立面、屋顶和中庭都是帝王蝶的繁殖栖息地，在库珀·休伊特设计三年展展出。",
+      "idea_en": "Treat a building envelope as habitat for a declining species.",
+      "idea_zh": "把建筑外壳当作衰退物种的栖息地。",
+      "method": "A double-skin façade planted with milkweed and nectar plants is designed to support the whole monarch life cycle inside the building envelope.",
+      "method_zh": "种有马利筋和蜜源植物的双层立面，被设计成在建筑外壳内支持帝王蝶完整的生命周期。",
+      "keywords": [
+        "monarch butterfly",
+        "Danaus plexippus",
+        "milkweed",
+        "Cooper Hewitt Design Triennial",
+        "habitat façade"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/f424be44-cdb2-408b-877b-6bdb6f22f5d4/terreform-butterfly-main-aaa-web.jpg"
+      ],
+      "source_url": "https://www.terreform.org/monarch-sanctuary"
+    },
+    {
+      "id": "terreform-one--cricket-shelter",
+      "creator_ids": [
+        "terreform-one"
+      ],
+      "title": "Cricket Shelter: Modular Edible Insect Farm",
+      "year": 2016,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "insects"
+      ],
+      "kind": "prototype",
+      "description": "A small pavilion that is both an emergency shelter and a farm for crickets, testing insect protein as a low-footprint food in cities.",
+      "description_zh": "一个小展亭，既是应急庇护所，也是蟋蟀养殖场，用来检验昆虫蛋白作为城市低环境足迹食物的可能。",
+      "idea_en": "Combine shelter and food production in one structure that houses another species.",
+      "idea_zh": "在一个容纳另一物种的结构里，把庇护与食物生产结合在一起。",
+      "method": "Modular, likely digitally fabricated units form both the cricket habitat and the structure; shown at Art Basel Miami.",
+      "method_zh": "模块化单元（可能为数字化制造）同时构成蟋蟀栖息地和结构；在迈阿密巴塞尔艺博会展出。",
+      "keywords": [
+        "edible insects",
+        "crickets",
+        "urban farming",
+        "Art Basel Miami"
+      ],
+      "images": [
+        "https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/a4119b5e-7f32-4fbb-9b34-0f5797f435a6/Cricket_Shelter_25.png"
+      ],
+      "source_url": "https://www.terreform.org/cricket-shelter"
+    },
+    {
+      "id": "magnus-larsson--dune",
+      "creator_ids": [
+        "magnus-larsson"
+      ],
+      "title": "Dune: Arenaceous Anti-Desertification Architecture",
+      "year": 2008,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "speculative",
+      "description": "A proposal for a 6,000-km wall across the Sahara made by solidifying sand dunes into sandstone with bacteria, creating shelter and a barrier against the spreading desert.",
+      "description_zh": "设想横跨撒哈拉修建一道 6,000 公里的墙：用细菌把沙丘固化成砂岩，既提供庇护，又阻挡沙漠扩张。",
+      "idea_en": "Let microbes do the construction at landscape scale, using the material already on site.",
+      "idea_zh": "让微生物在景观尺度上完成建造，并使用场地上已有的材料。",
+      "method": "Microbially induced calcite precipitation: Sporosarcina (Bacillus) pasteurii injected into sand binds grains into sandstone.",
+      "method_zh": "微生物诱导碳酸钙沉淀：把巴氏芽孢杆菌注入沙中，把沙粒胶结成砂岩。",
+      "keywords": [
+        "Bacillus pasteurii",
+        "MICP",
+        "Sahara",
+        "desertification",
+        "Architectural Association"
+      ],
+      "images": [
+        "https://www.designboom.com/twitterimages/uploads/2013/06/dune_01.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1007/978-3-642-14779-1_20",
+        "doi": "10.1007/978-3-642-14779-1_20",
+        "arxiv": "",
+        "venue": "Environmental Science and Engineering (Springer) 2010"
+      },
+      "source_url": "https://www.designboom.com/architecture/magnus-larsson-sculpts-the-saharan-desert-with-bacteria/"
+    },
+    {
+      "id": "marcos-cruz--bioreceptive-concrete",
+      "creator_ids": [
+        "marcos-cruz"
+      ],
+      "title": "Bioreceptive Concrete Panels",
+      "year": 2016,
+      "field": "bio",
+      "sub": "architecture",
+      "organisms": [
+        "algae",
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "Concrete façade panels milled with fissures and pockets so that mosses, lichens and algae colonise them by themselves, without irrigation; piloted on a London Underground retaining wall.",
+      "description_zh": "表面铣出裂缝和凹穴的混凝土立面板，苔藓、地衣和藻类会自行在上面定殖，无需浇灌；在伦敦地铁的一段挡土墙上试点。",
+      "idea_en": "Design the surface so life can move in, instead of planting and maintaining a green wall.",
+      "idea_zh": "设计让生命能自己住进来的表面，而不是种植并养护一面绿墙。",
+      "method": "Low-pH, water-retaining concrete mixes were CNC-milled with geometries that hold moisture for poikilohydric cryptogams.",
+      "method_zh": "低 pH、保水的混凝土配方经数控铣削出能保持湿度的几何形态，供变水性隐花植物生长。",
+      "keywords": [
+        "bioreceptivity",
+        "cryptogams",
+        "moss",
+        "lichen",
+        "BiotA Lab",
+        "The Bartlett"
+      ],
+      "images": [
+        "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMiZnrdmylfd-vR_8XljSOM_6iWJSxK2iiYIRK6WehTvb_Y1M3R6t6B98KtbCp0VrYUwWaGxK5J7iAq0aPbGEU1iSvJgrVSqxrmfMewz7oCB0acsxlpLyd9n3wdZoTZfbDvkP9HB4EfV8/w1200-h630-p-k-no-nu/BiotALab_BioreceptivePanels-on-site_Copyright-PaulSmoothy3.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1017/s1359135516000130",
+        "doi": "10.1017/s1359135516000130",
+        "arxiv": "",
+        "venue": "Architectural Research Quarterly 2016"
+      },
+      "source_url": "http://marcoscruzarchitect.blogspot.com/2017/10/bioreceptive-concrete-facades-design.html"
+    },
+    {
+      "id": "william-myers--biodesign",
+      "creator_ids": [
+        "william-myers"
+      ],
+      "title": "BioDesign: Nature + Science + Creativity",
+      "year": 2012,
+      "field": "bio",
+      "sub": "synbio",
+      "organisms": [
+        "ecosystems"
+      ],
+      "kind": "publication",
+      "description": "A book (MoMA / Thames & Hudson) surveying over 70 projects that integrate living organisms into architecture, design and art; it helped name and define the field of biodesign.",
+      "description_zh": "一本由 MoMA 与 Thames & Hudson 出版的书，综述 70 多个把活体生物融入建筑、设计与艺术的项目，帮助命名并界定了“生物设计”领域。",
+      "idea_en": "Biodesign means using living processes in the work itself, not only imitating nature's forms.",
+      "idea_zh": "生物设计意味着在作品中使用生命过程本身，而不只是模仿自然的形态。",
+      "method": "A curated survey with case studies and interviews, updated in a 2018 edition.",
+      "method_zh": "一部包含案例研究和访谈的策展式综述，2018 年出了修订版。",
+      "keywords": [
+        "MoMA",
+        "Thames & Hudson",
+        "Paola Antonelli",
+        "biodesign survey"
+      ],
+      "images": [
+        "https://static.wixstatic.com/media/ed6edc_1b2898bda8bc44dfb8403afdae21109c%7Emv2.jpg/v1/fit/w_2500,h_1330,al_c/ed6edc_1b2898bda8bc44dfb8403afdae21109c%7Emv2.jpg"
+      ],
+      "source_url": "https://www.biology-design.com/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "OXMAN — EDEN and VIGILS",
+      "why": "Recent OXMAN projects (buildings as ecosystems; engineered bacterial biopigment patterning on textiles); year of first showing not confirmed.",
+      "link": "https://www.oxman.com/projects/vigils",
+      "found_via": "oxman",
+      "status": "open"
+    },
+    {
+      "name": "Synthetic Apiary II (Mediated Matter, 2020)",
+      "why": "Follow-up to Synthetic Apiary; no stable project page found.",
+      "link": "https://www.oxman.com/projects/synthetic-apiary",
+      "found_via": "neri-oxman",
+      "status": "no_media"
+    },
+    {
+      "name": "Anicka Yi",
+      "why": "Artist working with bacteria, scent and 'biologizing the machine' (e.g. Life is Cheap, Guggenheim 2017).",
+      "link": "https://www.guggenheim.org/artwork/artist/anicka-yi",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Ani Liu",
+      "why": "Artist working on biology, reproduction and care; covered by the user-picks batch.",
+      "link": "https://ani-liu.com/",
+      "found_via": "seed",
+      "status": "duplicate"
+    },
+    {
+      "name": "Adam Zaretsky",
+      "why": "Bio artist; Workhorse Zoo (2002, with Julia Reodica), VivoArts workshops; no usable image found.",
+      "link": "https://www.fondation-langlois.org/html/e/page.php?NumPage=263",
+      "found_via": "seed",
+      "status": "no_media"
+    },
+    {
+      "name": "Jennifer Willet",
+      "why": "Bio artist, BioARTCAMP and Incubator lab (Windsor).",
+      "link": "https://www.incubatorartlab.com/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "George Gessert",
+      "why": "Plant-breeding artist (Iris Project), early genetic art.",
+      "link": "https://en.wikipedia.org/wiki/George_Gessert",
+      "found_via": "eduardo-kac",
+      "status": "open"
+    },
+    {
+      "name": "Stelarc — Ear on Arm",
+      "why": "Surgically constructed ear on the forearm; continues Extra Ear ¼ Scale with TC&A.",
+      "link": "https://stelarc.org/?catID=20242",
+      "found_via": "oron-catts",
+      "status": "open"
+    },
+    {
+      "name": "Guy Ben-Ary",
+      "why": "SymbioticA artist (cellF, MEART) — likely owned by the organoid batch.",
+      "link": "https://guybenary.com/",
+      "found_via": "symbiotica",
+      "status": "duplicate"
+    },
+    {
+      "name": "Critical Art Ensemble",
+      "why": "GenTerra, Free Range Grain: public-participation biotech critique.",
+      "link": "http://critical-art.net/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Orkan Telhan",
+      "why": "Designer of microbial design studios and bio-fabricated food/material platforms.",
+      "link": "https://www.design.upenn.edu/people/orkan-telhan",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Biodesign Challenge",
+      "why": "Student competition and summit (since 2015) linking art/design schools with biotech; good source of student projects.",
+      "link": "https://www.biodesignchallenge.org/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "iGEM Art & Design track",
+      "why": "Art & design projects within the iGEM synthetic biology competition.",
+      "link": "https://igem.org/",
+      "found_via": "alexandra-daisy-ginsberg",
+      "status": "open"
+    },
+    {
+      "name": "Genspace",
+      "why": "Community biolab in Brooklyn; site of many DIY-bio art projects (e.g. Stranger Visions work).",
+      "link": "https://www.genspace.org/",
+      "found_via": "heather-dewey-hagborg",
+      "status": "open"
+    },
+    {
+      "name": "Richard Beckett — Probiotic design",
+      "why": "Architecture that cultivates beneficial microbes indoors (The Bartlett).",
+      "link": "https://www.ucl.ac.uk/bartlett/architecture/people/richard-beckett",
+      "found_via": "marcos-cruz",
+      "status": "open"
+    },
+    {
+      "name": "Martyn Dade-Robertson",
+      "why": "Newcastle University; responsive bio-materials and 'living construction' (bacteria that respond to pressure).",
+      "link": "https://www.ncl.ac.uk/",
+      "found_via": "rachel-armstrong",
+      "status": "open"
+    },
+    {
+      "name": "Living Architecture Systems Group",
+      "why": "Beesley's international research network; many further installations (Aegis, Grove, Meander).",
+      "link": "https://livingarchitecturesystems.com/",
+      "found_via": "philip-beesley",
+      "status": "open"
+    },
+    {
+      "name": "Achim Menges — HygroScope and livMatS Biomimetic Shell",
+      "why": "More hygroscopic and bio-based ICD projects not added here.",
+      "link": "https://www.icd.uni-stuttgart.de/projects/hygroscope-meteorosensitive-morphology/",
+      "found_via": "achim-menges",
+      "status": "open"
+    },
+    {
+      "name": "ecoLogicStudio — GAN-Physarum, XenoDerma, Tree One",
+      "why": "More bio-digital projects, including slime-mould urban mapping.",
+      "link": "https://www.ecologicstudio.com/projects/gan-physarum-la-derive-numerique",
+      "found_via": "ecologicstudio",
+      "status": "open"
+    },
+    {
+      "name": "Alexandra Daisy Ginsberg — Every Thing Eats Light, Growth Assembly editions",
+      "why": "Further Ginsberg works on photosynthesis and plants.",
+      "link": "https://www.daisyginsberg.com/work/every-thing-eats-light",
+      "found_via": "alexandra-daisy-ginsberg",
+      "status": "open"
+    },
+    {
+      "name": "Kathy High",
+      "why": "Embracing Animal (2004): transgenic rats as art and care.",
+      "link": "https://www.kathyhigh.com/",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Gina Czarnecki",
+      "why": "Palaces (2012): crystal sculpture to be seeded with stem cells from donated milk teeth.",
+      "link": "https://www.ginaczarnecki.com/",
+      "found_via": "oron-catts",
+      "status": "open"
+    }
+  ]
+}

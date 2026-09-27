@@ -1,0 +1,210 @@
+[
+ {
+  "name": "Synthetic Apiary II (Mediated Matter, 2020)",
+  "why": "Follow-up to Synthetic Apiary; no stable project page found.",
+  "link": "https://www.oxman.com/projects/synthetic-apiary",
+  "found_via": "neri-oxman",
+  "status": "no_media",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Ani Liu",
+  "why": "Artist working on biology, reproduction and care; covered by the user-picks batch.",
+  "link": "https://ani-liu.com/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Adam Zaretsky",
+  "why": "Bio artist; Workhorse Zoo (2002, with Julia Reodica), VivoArts workshops; no usable image found.",
+  "link": "https://www.fondation-langlois.org/html/e/page.php?NumPage=263",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Guy Ben-Ary",
+  "why": "SymbioticA artist (cellF, MEART) — likely owned by the organoid batch.",
+  "link": "https://guybenary.com/",
+  "found_via": "symbiotica",
+  "status": "covered",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Vollebak Plant and Algae T-shirt",
+  "why": "Compostable T-shirt printed with algae ink (2019); YouTube coverage only, no good official media found",
+  "link": "https://www.vollebak.com/",
+  "found_via": "keel-labs",
+  "status": "no_media",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Mitchell Joachim / Terreform ONE – Fab Tree Hab",
+  "why": "Speculative grown tree house (2006); likely bio-arch-art",
+  "link": "https://terreform.org/",
+  "found_via": "ferdinand-ludwig",
+  "status": "duplicate",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Emma van der Leest",
+  "why": "Bacterial cellulose and biodesign education (BlueCity Lab)",
+  "link": "",
+  "found_via": "suzanne-lee",
+  "status": "covered",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Living Matter Lab — Nurturing Light",
+  "why": "Escape-room installation guided only by bioluminescent dinoflagellates that players feed by solving puzzles; year and documentation not found.",
+  "link": "https://www.colorado.edu/atlas/nurturing-light",
+  "found_via": "mirela-alistar",
+  "status": "no_media",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Jenna Sutela — From Hierarchy to Holarchy / Holobiont",
+  "why": "Slime-mould and microbiome works; no verified media found in this pass.",
+  "link": "https://jennasutela.com/",
+  "found_via": "jenna-sutela",
+  "status": "no_media",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Shoaling Upstream (Reality Design Lab)",
+  "why": "Site-specific spatial-audio AR journey on Strawberry Creek, UC Berkeley, where the visitor moves upstream as a shoal of steelhead; repos exist but no public video or images yet.",
+  "link": "https://github.com/realitydeslab/shoaling-upstream-waypoints",
+  "found_via": "seed",
+  "status": "no_media",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Revital Cohen & Tuur Van Balen — Sterile (2014)",
+  "why": "Albino goldfish engineered without reproductive organs, made as objects; Vimeo 200047560 on artists' site. Borders bio-art. Now in bio-arch-art as cohen-van-balen--sterile.",
+  "link": "https://www.cohenvanbalen.com/work/sterile",
+  "found_via": "seed",
+  "status": "duplicate",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Anne Galloway - More-Than-Human Lab projects (Counting Sheep, speculative sheep farming)",
+  "why": "Speculative design with sheep and farmers; lab pages were unreachable this round.",
+  "link": "https://www.morethanhumanlab.org/",
+  "found_via": "anne-galloway",
+  "status": "no_media",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Oron Catts & Ionat Zurr / SymbioticA",
+  "why": "Host lab of Ben-Ary's neural works; belongs mainly to the bio-art batch.",
+  "link": "",
+  "found_via": "guy-ben-ary",
+  "status": "duplicate",
+  "batch": "organoid"
+ },
+ {
+  "name": "Bricolage (Guy Ben-Ary, 2020)",
+  "why": "Self-assembling cardiomyocyte sculptures; heart cells, not neurons, so it belongs to the bio-art batch.",
+  "link": "https://guybenary.com/projects/bricolage.html",
+  "found_via": "guy-ben-ary",
+  "status": "off_topic",
+  "batch": "organoid"
+ },
+ {
+  "name": "Clara Mancini",
+  "why": "Animal–computer interaction pioneer (Open University); co-author on Cat Royale ethics.",
+  "link": "https://www.animalcomputerinteractionlab.org/cat-royale-project",
+  "found_via": "steve-benford",
+  "status": "covered",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Active Ingredient / Rachel Jacobs",
+  "why": "Artists behind A Conversation Between Trees (tree-sensing climate artwork).",
+  "link": "",
+  "found_via": "steve-benford",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Tiddo Bakker",
+  "why": "BAD Award 2011: In Vena Verbum, a device that makes chloroplast activity visible (plant voice). No images found.",
+  "link": "https://www.badaward.nl/artists-scientists/tiddo-bakker",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Lionel Billiet",
+  "why": "BAD project Concrete Lichen: inoculating concrete walls with lichen (Xanthoria parietina). No images found.",
+  "link": "https://www.badaward.nl/artists-scientists/lionel-billiet",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Emma Dorothy Conley",
+  "why": "BAD Award 2015: MSA – Microbiome Security Agency. No images found.",
+  "link": "https://www.badaward.nl/artists-scientists/emma-dorothy-conley-guus-roeselers",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Haseeb Ahmed",
+  "why": "BAD Award 2012: Fish Bone Chapel (3D-printed mutated zebrafish skeletons). No images found.",
+  "link": "https://www.badaward.nl/artists-scientists/haseeb-ahmed",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Lilian van Daal & Roos Meerman",
+  "why": "BAD Award 2016: Dynamorphosis, materials inspired by embryonic self-assembly. No images found.",
+  "link": "https://www.badaward.nl/artists-scientists/lilian-van-daal-roos-meerman-with-renee-van-amerongen",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ },
+ {
+  "name": "pamela varela & ella hebendanz",
+  "why": "BAD Award 2023: re-c(O)unting (bodies, laboratories, decolonial healing).",
+  "link": "https://www.badaward.nl/artists-scientists/pamela-varela-ella-hebendanz-with-joris-koene",
+  "found_via": "bad-award",
+  "status": "off_topic",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Hung Lu Chan",
+  "why": "BAD Award 2023: Close Encounters with Inner Aliens (fMRI + Midjourney).",
+  "link": "https://www.badaward.nl/artists-scientists/hung-lu-chan-with-floris-de-lange",
+  "found_via": "bad-award",
+  "status": "off_topic",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Nadine Botha",
+  "why": "BAD Award 2020: The Orders of the Undead (zombie films and infectious disease).",
+  "link": "https://www.badaward.nl/artists-scientists/nadine-botha-with-henry-de-vries",
+  "found_via": "bad-award",
+  "status": "off_topic",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Yiyun Chen",
+  "why": "BAD Award 2018: Horizontal Living (metabolic health, living in bed).",
+  "link": "https://www.badaward.nl/artists-scientists/yiyun-chen-with-patrick-schrauwen-vera-schrauwen-hinderling",
+  "found_via": "bad-award",
+  "status": "off_topic",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Guo Cheng",
+  "why": "BAD Award 2017: A Felicitous Neo-Past (a square metre of Amsterdam soil washed free of human traces). No clear work image found.",
+  "link": "https://www.badaward.nl/artists-scientists/guo-cheng-with-heather-leslie",
+  "found_via": "bad-award",
+  "status": "no_media",
+  "batch": "user-picks"
+ }
+]

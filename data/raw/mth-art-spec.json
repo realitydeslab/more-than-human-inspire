@@ -1,0 +1,3882 @@
+{
+ "batch": "mth-art-spec",
+ "creators": [
+  {
+   "id": "tomas-saraceno",
+   "name": "Tomás Saraceno",
+   "kind": "person",
+   "role": "Artist; founder of Studio Tomás Saraceno, the Aerocene community and Arachnophilia",
+   "role_zh": "艺术家；Studio Tomás Saraceno、Aerocene 社群与 Arachnophilia 的创立者",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Argentine artist trained in architecture who works with spiders, air, and floating solar sculptures, often with scientists and communities.",
+   "bio_zh": "阿根廷艺术家，建筑背景出身，与蜘蛛、空气和太阳能漂浮雕塑一起创作，常与科学家和社区合作。",
+   "why": "Saraceno treats spiders as co-authors and the atmosphere as a commons, turning interspecies collaboration into large public works.",
+   "why_zh": "Saraceno 把蜘蛛当作共同作者、把大气当作公共资源，让跨物种合作变成大型公共作品。",
+   "links": {
+    "site": "https://studiotomassaraceno.org/",
+    "scholar": "",
+    "x": "",
+    "instagram": "https://www.instagram.com/studiotomassaraceno/",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pierre-huyghe",
+   "name": "Pierre Huyghe",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Santiago, Chile",
+   "based_zh": "圣地亚哥，智利",
+   "bio": "French artist who builds living, self-changing situations with animals, plants, microbes and machine learning systems that continue without the audience.",
+   "bio_zh": "法国艺术家，用动物、植物、微生物和机器学习系统搭建会自行变化的活体情境，这些情境在没有观众时也照样运行。",
+   "why": "Huyghe's works hand authorship to nonhuman agents and show an exhibition as an ecosystem rather than a display.",
+   "why_zh": "Huyghe 把作者身份交给非人类行动者，把展览做成一个生态系统而不是陈列。",
+   "links": {
+    "site": "https://www.estherschipper.com/artists/41-pierre-huyghe/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "hubert-duprat",
+   "name": "Hubert Duprat",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "France",
+   "based_zh": "法国",
+   "bio": "French artist known for giving caddisfly larvae gold flakes and precious stones, from which they build their protective cases.",
+   "bio_zh": "法国艺术家，以给石蛾幼虫提供金片和宝石、让它们用这些材料筑造护身壳而闻名。",
+   "why": "Duprat is an early, precise example of delegating the making of an artwork to an insect's own building behaviour.",
+   "why_zh": "Duprat 很早就把作品的制作交给昆虫自身的建造行为，是这种做法的精确范例。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aganetha-dyck",
+   "name": "Aganetha Dyck",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Winnipeg, Canada",
+   "based_zh": "温尼伯，加拿大",
+   "bio": "Canadian artist who has worked with honeybees since the early 1990s, placing objects in hives so the bees cover them with comb.",
+   "bio_zh": "加拿大艺术家，自 1990 年代初起与蜜蜂合作，把物件放进蜂箱，让蜜蜂在上面筑起蜂巢。",
+   "why": "Dyck's decades of hive collaborations model patient co-authorship with a colony rather than control of it.",
+   "why_zh": "Dyck 与蜂群数十年的合作，示范了一种耐心的共同创作，而不是对蜂群的控制。",
+   "links": {
+    "site": "https://www.aganethadyck.ca/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ren-ri",
+   "name": "Ren Ri",
+   "kind": "person",
+   "role": "Artist and beekeeper",
+   "role_zh": "艺术家、养蜂人",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "bio": "Chinese artist (b. 1984) who makes beeswax sculptures by steering how bee colonies build comb inside frames and acrylic boxes.",
+   "bio_zh": "中国艺术家（生于 1984 年），通过引导蜂群在框架和亚克力盒中筑巢来制作蜂蜡雕塑。",
+   "why": "Ren Ri's Yuansu series shows a designer setting constraints and letting a colony do the forming.",
+   "why_zh": "其“元塑”系列展示了设计者只设定约束、由蜂群完成造型的方式。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "https://www.youtube.com/@riren5510",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jakob-kudsk-steensen",
+   "name": "Jakob Kudsk Steensen",
+   "kind": "person",
+   "role": "Artist working with game engines, field recording and ecology",
+   "role_zh": "用游戏引擎、野外录音和生态研究创作的艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Danish artist who reconstructs real ecosystems from fieldwork, scans and sound recordings as immersive installations, VR and AR.",
+   "bio_zh": "丹麦艺术家，以野外考察、扫描和录音为基础，把真实生态系统重建为沉浸式装置、VR 和 AR 作品。",
+   "why": "Kudsk Steensen shows how real-time 3D tools can make overlooked species and landscapes perceptible.",
+   "why_zh": "Kudsk Steensen 展示了实时三维工具如何让被忽视的物种和景观变得可感。",
+   "links": {
+    "site": "https://jakobsteensen.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "https://vimeo.com/jakobsteensen",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ursula-biemann",
+   "name": "Ursula Biemann",
+   "kind": "person",
+   "role": "Artist, writer and video essayist",
+   "role_zh": "艺术家、作家、影像散文作者",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "bio": "Swiss artist whose research-based video essays follow oceans, forests and Indigenous knowledge in the climate crisis.",
+   "bio_zh": "瑞士艺术家，以研究为基础的影像散文关注气候危机中的海洋、森林和原住民知识。",
+   "why": "Biemann's films treat forests and oceans as legal and intelligent subjects, not backdrops.",
+   "why_zh": "其影片把森林和海洋当作具有法律地位与智能的主体，而不是背景。",
+   "links": {
+    "site": "https://geobodies.org/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "https://vimeo.com/geobodies",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "paulo-tavares"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "paulo-tavares",
+   "name": "Paulo Tavares",
+   "kind": "person",
+   "role": "Architect and researcher; founder of autonoma",
+   "role_zh": "建筑师、研究者；autonoma 创办人",
+   "based": "Brasília, Brazil",
+   "based_zh": "巴西利亚，巴西",
+   "bio": "Brazilian architect whose spatial research maps how Indigenous peoples shaped the Amazon and argues for the rights of forests.",
+   "bio_zh": "巴西建筑师，其空间研究描绘了原住民如何塑造亚马逊，并为森林的权利发声。",
+   "why": "Tavares brings forensic and cartographic methods to the question of whether nature can be a legal subject.",
+   "why_zh": "Tavares 把取证与制图方法用于“自然能否成为法律主体”这一问题。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "ursula-biemann"
+   ],
+   "discovered_via": "ursula-biemann"
+  },
+  {
+   "id": "jenna-sutela",
+   "name": "Jenna Sutela",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "Finnish artist who works with microbes, slime moulds and machine learning to explore language and cognition beyond the human.",
+   "bio_zh": "芬兰艺术家，与微生物、黏菌和机器学习合作，探索超越人类的语言与认知。",
+   "why": "Sutela's works set up conversations between bacteria, algorithms and people, treating each as a possible author.",
+   "why_zh": "其作品让细菌、算法与人之间展开对话，把每一方都视为可能的作者。",
+   "links": {
+    "site": "https://jennasutela.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sonia-levy",
+   "name": "Sonia Levy",
+   "kind": "person",
+   "role": "Artist and filmmaker",
+   "role_zh": "艺术家、电影人",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "French-born artist whose films observe how humans and other species, such as corals and canal life, live with each other.",
+   "bio_zh": "生于法国的艺术家，其影片观察人与珊瑚、运河生物等其他物种如何共同生活。",
+   "why": "Levy films scientific care practices as multispecies relationships.",
+   "why_zh": "Levy 把科学中的照护实践拍成多物种之间的关系。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "https://www.youtube.com/@sonialevy4839",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ian-cheng",
+   "name": "Ian Cheng",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "American artist who builds live simulations of artificial creatures that learn, change and die without a script.",
+   "bio_zh": "美国艺术家，构建人工生物的实时模拟，这些生物在没有剧本的情况下学习、变化和死亡。",
+   "why": "Cheng's simulations show a nonhuman agent developing its own personality in front of the audience.",
+   "why_zh": "其模拟让观众看到一个非人类主体如何形成自己的个性。",
+   "links": {
+    "site": "http://iancheng.com/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "shimabuku",
+   "name": "Shimabuku",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "based": "Okinawa, Japan",
+   "based_zh": "冲绳，日本",
+   "bio": "Japanese artist whose playful actions and objects are often made for or with animals, especially octopuses and fish.",
+   "bio_zh": "日本艺术家，Shimabuku 充满趣味的行动与物件常常是为动物、尤其是章鱼和鱼而做，或与它们一起完成。",
+   "why": "Shimabuku designs artworks whose intended audience is another species.",
+   "why_zh": "Shimabuku 设计的作品，目标观众是另一个物种。",
+   "links": {
+    "site": "http://www.shimabuku.net/",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bernie-krause",
+   "name": "Bernie Krause",
+   "kind": "person",
+   "role": "Soundscape ecologist and musician; founder of Wild Sanctuary",
+   "based": "Sonoma County, US",
+   "bio": "Former synthesizer musician who began recording wild soundscapes in 1968 and built an archive of thousands of hours from habitats worldwide. Krause coined the terms biophony, geophony and anthropophony.",
+   "why": "Krause showed that a whole habitat can be heard as one orchestra, and that its silence is evidence of loss.",
+   "links": {
+    "site": "https://www.wildsanctuary.com/"
+   },
+   "role_zh": "声景生态学家、音乐人；Wild Sanctuary 创始人",
+   "bio_zh": "曾是合成器音乐人，1968 年起录制野外声景，积累了来自全球栖息地的数千小时录音。Krause 提出了“生物声”“地理声”“人类声”这组概念。",
+   "why_zh": "Krause 让人们把整个栖息地听成一支乐团，并把它的沉默当作生态损失的证据。",
+   "based_zh": "加州索诺玛县，美国",
+   "connected_to": [
+    "united-visual-artists"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "united-visual-artists",
+   "name": "United Visual Artists",
+   "kind": "studio",
+   "role": "Art and design practice working with light, sound and code",
+   "based": "London, UK",
+   "bio": "London studio founded in 2003 by Matt Clark that makes large installations with light, sound and software.",
+   "why": "They turned Bernie Krause's field recordings into a space people can walk into.",
+   "links": {
+    "site": "https://www.uva.co.uk/"
+   },
+   "role_zh": "以光、声音和代码创作的艺术与设计工作室",
+   "bio_zh": "由 Matt Clark 于 2003 年在伦敦创立，用光、声音和软件制作大型装置。",
+   "why_zh": "他们把 Bernie Krause 的野外录音变成了人可以走进去的空间。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "bernie-krause"
+   ],
+   "discovered_via": "bernie-krause"
+  },
+  {
+   "id": "david-rothenberg",
+   "name": "David Rothenberg",
+   "kind": "person",
+   "role": "Musician, philosopher and author; professor at New Jersey Institute of Technology",
+   "based": "New York, US",
+   "bio": "Clarinettist and writer who plays live with birds, humpback whales, insects and nightingales, and writes about why animals make music (Why Birds Sing, Thousand Mile Song, Nightingales in Berlin).",
+   "why": "Rothenberg treats interspecies music as a real conversation to be tried in the field, not a metaphor.",
+   "links": {
+    "site": "http://www.davidrothenberg.net/"
+   },
+   "role_zh": "音乐人、哲学家、作家；新泽西理工学院教授",
+   "bio_zh": "单簧管演奏者和作家，与鸟、座头鲸、昆虫和夜莺现场合奏，并写书讨论动物为何“作音乐”（《Why Birds Sing》《Thousand Mile Song》《Nightingales in Berlin》）。",
+   "why_zh": "Rothenberg 把跨物种音乐当作要在野外真正尝试的对话，而不是比喻。",
+   "based_zh": "纽约，美国",
+   "connected_to": [
+    "marcus-coates"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jana-winderen",
+   "name": "Jana Winderen",
+   "kind": "person",
+   "role": "Sound artist working with hydrophones and ultrasonic recording",
+   "based": "Oslo, Norway",
+   "bio": "Trained in mathematics, chemistry and fish ecology, Winderen records sounds in the sea, ice and rivers that humans usually cannot hear, and composes them into multichannel installations.",
+   "why": "Winderen's work makes the underwater soundscape, and its disturbance by human noise, audible to a gallery audience.",
+   "links": {
+    "site": "https://www.janawinderen.com/"
+   },
+   "role_zh": "使用水听器和超声录音的声音艺术家",
+   "bio_zh": "受过数学、化学和鱼类生态学训练，Winderen 在海洋、冰层和河流中录制人类通常听不到的声音，并把它们作成多声道装置。",
+   "why_zh": "其作品让展厅观众听到水下声景，以及人类噪音对它的干扰。",
+   "based_zh": "奥斯陆，挪威",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marcus-coates",
+   "name": "Marcus Coates",
+   "kind": "person",
+   "role": "Artist and ornithologist",
+   "based": "London, UK",
+   "bio": "British artist whose performances and videos use shamanic ritual, bird mimicry and collaboration with scientists to step into animal perspectives.",
+   "why": "Coates tests, with humour and seriousness, how far a human body can imitate or channel another species.",
+   "links": {
+    "site": "https://www.marcuscoates.co.uk/"
+   },
+   "role_zh": "艺术家、鸟类学者",
+   "bio_zh": "英国艺术家，用萨满仪式、模仿鸟鸣以及与科学家合作的表演和影像，尝试进入动物的视角。",
+   "why_zh": "Coates 以幽默又认真的方式，试探人的身体能在多大程度上模仿或“通达”另一个物种。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [
+    "david-rothenberg"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "alex-metcalf",
+   "name": "Alex Metcalf",
+   "kind": "person",
+   "role": "Artist and sculptor; creator of the Tree Listening Project",
+   "based": "UK",
+   "bio": "British artist who since 2007 has toured installations that let people listen to the inside of living trees through sensitive microphones.",
+   "why": "A simple listening device turns a tree from scenery into a working body.",
+   "links": {
+    "site": "https://treelistening.co.uk/"
+   },
+   "role_zh": "艺术家、雕塑家；Tree Listening Project 创作者",
+   "bio_zh": "英国艺术家，自 2007 年起巡展装置，让人们通过高灵敏麦克风聆听活树内部的声音。",
+   "why_zh": "一个简单的聆听装置，就能让树从风景变成一个正在运作的身体。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "data-garden",
+   "name": "Data Garden",
+   "kind": "company",
+   "role": "Music label and maker of MIDI Sprout and PlantWave",
+   "based": "Philadelphia, US",
+   "bio": "Founded by Joe Patitucci and Alex Tyson as a label for ambient music, it began making plant-driven music in 2012 and later sold devices that let anyone hear their plants.",
+   "why": "They turned plant biodata sonification from a lab curiosity into a consumer product.",
+   "links": {
+    "site": "https://www.plantwave.com/"
+   },
+   "role_zh": "音乐厂牌，MIDI Sprout 与 PlantWave 的开发者",
+   "bio_zh": "由 Joe Patitucci 和 Alex Tyson 创立，最初是氛围音乐厂牌，2012 年开始做由植物驱动的音乐，后来推出让任何人都能“听”自家植物的设备。",
+   "why_zh": "他们把植物生物数据发声从实验室的新奇玩意变成了消费产品。",
+   "based_zh": "费城，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "damanhur",
+   "name": "Damanhur",
+   "kind": "lab",
+   "role": "Ecovillage community in Piedmont; research group behind Music of the Plants",
+   "based": "Valchiusella, Italy",
+   "bio": "Intentional community founded in the 1970s whose researchers built devices that turn electrical changes in plants into MIDI music; the devices are now sold as Plant Music.",
+   "why": "An early, long-running and widely copied practice of playing concerts with plants.",
+   "links": {
+    "site": "https://www.plantmusic.com/"
+   },
+   "role_zh": "皮埃蒙特的生态社区；Music of the Plants 的研究团队",
+   "bio_zh": "1970 年代建立的意向社区，其研究者开发了把植物电信号变化转成 MIDI 音乐的设备，现以 Plant Music 品牌销售。",
+   "why_zh": "与植物合奏音乐会的一项早期、持续多年且被广泛效仿的实践。",
+   "based_zh": "瓦尔基乌塞拉，意大利",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "botanicalls",
+   "name": "Botanicalls",
+   "kind": "studio",
+   "role": "Project team: Kati London, Rob Faludi, Kate Hartman and Rebecca Bray",
+   "based": "New York, US",
+   "bio": "Group formed at NYU ITP in 2006 that gave houseplants a voice through phone calls and, later, Twitter.",
+   "why": "An early Internet-of-Things project that let a plant ask a human for care.",
+   "links": {
+    "site": "https://www.botanicalls.com/"
+   },
+   "role_zh": "项目团队：Kati London、Rob Faludi、Kate Hartman、Rebecca Bray",
+   "bio_zh": "2006 年在纽约大学 ITP 组成的团队，让室内植物通过电话、后来通过 Twitter 发声。",
+   "why_zh": "一个早期物联网项目：让植物主动向人请求照顾。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wolfgang-buttress",
+   "name": "Wolfgang Buttress",
+   "kind": "person",
+   "role": "Artist and sculptor",
+   "based": "Nottingham, UK",
+   "bio": "British artist who makes large sculptures about landscape and nature, often with scientists; best known for The Hive, which is driven by live honeybee signals.",
+   "why": "Buttress made bee colony data into an architectural space people can walk through.",
+   "links": {
+    "site": "https://www.wolfgangbuttress.com/"
+   },
+   "role_zh": "艺术家、雕塑家",
+   "bio_zh": "英国艺术家，常与科学家合作创作关于景观与自然的大型雕塑，最知名的作品是由实时蜜蜂信号驱动的 The Hive。",
+   "why_zh": "Buttress 把蜂群数据变成了人可以走进去的建筑空间。",
+   "based_zh": "诺丁汉，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ackroyd-harvey",
+   "name": "Ackroyd & Harvey",
+   "kind": "studio",
+   "role": "Artist duo: Heather Ackroyd and Dan Harvey",
+   "based": "London, UK",
+   "bio": "British artists working together since 1990 on growth and decay in living materials, known for photographs grown in grass; co-founders of Culture Declares Emergency.",
+   "why": "They use photosynthesis itself as the photographic process.",
+   "links": {
+    "site": "https://www.ackroydandharvey.com/"
+   },
+   "role_zh": "艺术家二人组：Heather Ackroyd 与 Dan Harvey",
+   "bio_zh": "英国艺术家，自 1990 年合作，关注生命材料的生长与衰败，以“长在草上的照片”闻名；Culture Declares Emergency 联合发起人。",
+   "why_zh": "他们直接把光合作用当作摄影工艺。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "olafur-eliasson",
+   "name": "Olafur Eliasson",
+   "kind": "person",
+   "role": "Artist; founder of Studio Olafur Eliasson",
+   "based": "Berlin, Germany",
+   "bio": "Danish-Icelandic artist whose installations work with light, water, air and temperature; the artist's Berlin studio employs craftspeople, architects and researchers.",
+   "why": "Eliasson makes climate data physical, at the scale of a public square.",
+   "links": {
+    "site": "https://olafureliasson.net/"
+   },
+   "role_zh": "艺术家；Studio Olafur Eliasson 创始人",
+   "bio_zh": "丹麦裔冰岛艺术家，作品处理光、水、空气与温度；其柏林工作室有工匠、建筑师和研究人员。",
+   "why_zh": "Eliasson 把气候数据变成在城市广场尺度上可以触摸的实物。",
+   "based_zh": "柏林，德国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kasia-molga",
+   "name": "Kasia Molga",
+   "kind": "person",
+   "role": "Artist and designer; Studio Molga",
+   "based": "UK",
+   "bio": "Polish-born artist who works with environmental and biological data, AI and living organisms; co-founded World Wilder Lab in 2013 with Erik Overmeire and Ivan Henriques.",
+   "why": "Molga's work links personal emotion with the health of marine ecosystems.",
+   "links": {
+    "site": "https://www.studiomolga.com/"
+   },
+   "role_zh": "艺术家、设计师；Studio Molga",
+   "bio_zh": "出生于波兰的艺术家，用环境与生物数据、AI 和活体生物创作；2013 年与 Erik Overmeire、Ivan Henriques 共同创立 World Wilder Lab。",
+   "why_zh": "其作品把个人情绪与海洋生态的健康联系在一起。",
+   "based_zh": "英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "marshmallow-laser-feast",
+   "name": "Marshmallow Laser Feast",
+   "kind": "studio",
+   "role": "Experiential art collective",
+   "based": "London, UK",
+   "bio": "London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world.",
+   "why": "They use VR to let people borrow the senses of animals and trees.",
+   "links": {
+    "site": "https://marshmallowlaserfeast.com/"
+   },
+   "role_zh": "体验艺术团体",
+   "bio_zh": "伦敦艺术团体（Barney Steel、Robin McNicholas 等），创作关于感知与自然世界的多感官 VR 与装置。",
+   "why_zh": "他们用 VR 让人“借用”动物与树的感官。",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "new-reality-company",
+   "name": "New Reality Company",
+   "kind": "studio",
+   "role": "VR studio of Milica Zec and Winslow Porter",
+   "based": "New York, US",
+   "bio": "Studio founded by director Milica Zec and producer Winslow Porter, known for the VR works Giant (2016) and Tree (2017).",
+   "why": "Their Tree put the viewer into the body of a rainforest tree.",
+   "links": {
+    "site": "https://www.treeofficial.com/"
+   },
+   "role_zh": "Milica Zec 与 Winslow Porter 的 VR 工作室",
+   "bio_zh": "由导演 Milica Zec 和制作人 Winslow Porter 创立，代表作为 VR 作品《Giant》（2016）和《Tree》（2017）。",
+   "why_zh": "他们的《Tree》把观众放进一棵雨林树的身体里。",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "polymorf",
+   "name": "Polymorf",
+   "kind": "studio",
+   "role": "Multisensory art and design studio",
+   "based": "Netherlands",
+   "bio": "Dutch studio led by Marcel van Brakel that makes experiences combining VR, scent, taste, haptics and soft robotics.",
+   "why": "They design bodies, not only images, for people who want to feel like another species.",
+   "links": {
+    "site": "https://www.polymorf.nl/"
+   },
+   "role_zh": "多感官艺术设计工作室",
+   "bio_zh": "由 Marcel van Brakel 主导的荷兰工作室，结合 VR、气味、味觉、触觉与软体机器人创作体验。",
+   "why_zh": "他们为想体验其他物种的人设计的不只是画面，而是“身体”。",
+   "based_zh": "荷兰",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "max-rheiner",
+   "name": "Max Rheiner",
+   "kind": "person",
+   "role": "Media artist; creator of Birdly; founder of Somniacs",
+   "based": "Zurich, Switzerland",
+   "bio": "Swiss interaction designer who built the full-body flight simulator Birdly at ZHdK in 2013–14 and later founded the company Somniacs to produce it.",
+   "why": "Birdly showed how a whole-body interface can make a human feel like a bird.",
+   "links": {},
+   "role_zh": "媒体艺术家；Birdly 创作者；Somniacs 创始人",
+   "bio_zh": "瑞士交互设计师，2013–14 年在苏黎世艺术大学制作全身飞行模拟器 Birdly，之后创立 Somniacs 公司生产它。",
+   "why_zh": "Birdly 展示了全身交互界面如何让人感觉自己是一只鸟。",
+   "based_zh": "苏黎世，瑞士",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "superflux",
+   "name": "Superflux",
+   "kind": "studio",
+   "role": "Speculative design and futures studio founded by Anab Jain and Jon Ardern",
+   "role_zh": "由 Anab Jain 和 Jon Ardern 创办的思辨设计与未来研究工作室",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Superflux builds immersive installations, films and policy prototypes that make possible futures tangible, with a long strand of work on more-than-human politics and ecological AI.",
+   "bio_zh": "Superflux 用沉浸式装置、影像和政策原型把可能的未来做成可以体验的东西，其中一条长期主线是超越人类的政治与生态 AI。",
+   "why": "Their installations turn more-than-human theory into rooms, meals and objects a public audience can walk through.",
+   "why_zh": "他们把超越人类的理论变成公众可以走进去的房间、餐桌和物件。",
+   "links": {
+    "site": "https://superflux.in",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "https://vimeo.com/superflux",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "chris-woebken",
+   "name": "Chris Woebken",
+   "kind": "person",
+   "role": "Designer and researcher; co-founder of the Extrapolation Factory",
+   "role_zh": "设计师、研究者；Extrapolation Factory 联合创办人",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Chris Woebken is a design researcher who builds speculative wearables and participatory futures methods, trained at the Royal College of Art Design Interactions programme.",
+   "bio_zh": "Chris Woebken 是一位设计研究者，毕业于皇家艺术学院 Design Interactions 专业，制作思辨性的可穿戴设备并开发参与式未来方法。",
+   "why": "Animal Superpowers is an early, widely cited example of designing devices that let people borrow animal senses.",
+   "why_zh": "Animal Superpowers 是较早且被广泛引用的案例：设计让人借用动物感官的装置。",
+   "links": {
+    "site": "https://www.chriswoebken.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "kenichi-okada"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "kenichi-okada",
+   "name": "Kenichi Okada",
+   "kind": "person",
+   "role": "Designer; Royal College of Art Design Interactions graduate",
+   "role_zh": "设计师；皇家艺术学院 Design Interactions 毕业",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "bio": "Kenichi Okada is a Japanese interaction designer who co-created Animal Superpowers with Chris Woebken at the Royal College of Art.",
+   "bio_zh": "Kenichi Okada 是日本交互设计师，在皇家艺术学院与 Chris Woebken 共同创作了 Animal Superpowers。",
+   "why": "Co-author of one of the first speculative devices for experiencing nonhuman perception.",
+   "why_zh": "最早一批体验非人类感知的思辨装置之一的共同作者。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "chris-woebken"
+   ],
+   "discovered_via": "chris-woebken"
+  },
+  {
+   "id": "terra0",
+   "name": "terra0",
+   "kind": "studio",
+   "role": "Art collective (Paul Kolling, Paul Seidler, Max Hampshire)",
+   "role_zh": "艺术团体（Paul Kolling、Paul Seidler、Max Hampshire）",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "bio": "terra0 is an art collective, founded in 2015, that explores how ecosystems could become economic and legal agents through blockchains and smart contracts.",
+   "bio_zh": "terra0 是 2015 年成立的艺术团体，研究生态系统如何借助区块链和智能合约成为经济和法律上的行动者。",
+   "why": "Their self-owning forest is a key reference for giving nonhumans ownership and agency through software.",
+   "why_zh": "他们的“自我拥有的森林”是用软件赋予非人类所有权和能动性的关键参考。",
+   "links": {
+    "site": "https://www.terra0.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "primavera-de-filippi"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "primavera-de-filippi",
+   "name": "Primavera De Filippi",
+   "kind": "person",
+   "role": "Legal scholar and artist; researcher at CNRS Paris and faculty associate at the Berkman Klein Center, Harvard",
+   "role_zh": "法学学者、艺术家；巴黎 CNRS 研究员，哈佛 Berkman Klein 中心研究员",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Primavera De Filippi works on blockchain law and governance and, with the collective okhaos, makes artworks that test what autonomous code can own and decide.",
+   "bio_zh": "Primavera De Filippi 研究区块链的法律与治理，并与 okhaos 团体一起创作艺术，测试自主运行的代码能拥有什么、决定什么。",
+   "why": "Plantoid is a canonical case of a nonhuman-like entity that funds and reproduces itself.",
+   "why_zh": "Plantoid 是“类非人类实体自我筹资、自我繁殖”的经典案例。",
+   "links": {
+    "site": "https://plantoid.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "terra0"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "forensic-architecture",
+   "name": "Forensic Architecture",
+   "kind": "lab",
+   "role": "Research agency at Goldsmiths, University of London, directed by Eyal Weizman",
+   "role_zh": "伦敦大学金史密斯学院的研究机构，由 Eyal Weizman 领导",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Forensic Architecture uses spatial, architectural and media analysis to investigate state and corporate violence, including violence against environments.",
+   "bio_zh": "Forensic Architecture 用空间、建筑和媒体分析调查国家与企业的暴力，其中也包括对环境的暴力。",
+   "why": "Their ecocide investigations treat forests and atmospheres as witnesses and victims, not only as backgrounds.",
+   "why_zh": "他们的生态灭绝调查把森林和大气当作证人与受害者，而不只是背景。",
+   "links": {
+    "site": "https://forensic-architecture.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "https://www.youtube.com/@ForensicArchitecture",
+    "github": ""
+   },
+   "connected_to": [
+    "paulo-tavares"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andres-jaque",
+   "name": "Andrés Jaque",
+   "kind": "person",
+   "role": "Architect; founder of Office for Political Innovation; Dean of Columbia GSAPP",
+   "role_zh": "建筑师；Office for Political Innovation 创办人；哥伦比亚大学建筑规划与保护研究生院院长",
+   "based": "Madrid, Spain / New York, US",
+   "based_zh": "马德里，西班牙 / 纽约，美国",
+   "bio": "Andrés Jaque is an architect and scholar whose Office for Political Innovation designs architecture as a set of relations between people, technologies, microbes and waters.",
+   "bio_zh": "Andrés Jaque 是建筑师和学者，其事务所把建筑设计成人、技术、微生物和水之间的一组关系。",
+   "why": "COSMO and the office's later 'transmaterial' work show architecture that is built to host and clean living ecologies.",
+   "why_zh": "COSMO 及其后来的“跨物质”作品展示了为容纳和净化生命生态而建的建筑。",
+   "links": {
+    "site": "https://andresjaque.net",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "bruno-latour",
+   "name": "Bruno Latour",
+   "kind": "person",
+   "role": "Philosopher, sociologist and curator (1947–2022)",
+   "role_zh": "哲学家、社会学家、策展人（1947–2022）",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "bio": "Bruno Latour was a French philosopher of science whose actor-network theory and writings on Gaia shaped how design and art think about nonhuman agency.",
+   "bio_zh": "Bruno Latour 是法国科学哲学家，其行动者网络理论和关于盖娅的写作深刻影响了设计与艺术对非人类能动性的理解。",
+   "why": "Latour's 'thought exhibitions' gave a curatorial method for staging nonhuman actors in public.",
+   "why_zh": "Latour 的“思想展览”为在公共空间里呈现非人类行动者提供了一种策展方法。",
+   "links": {
+    "site": "http://www.bruno-latour.fr",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "zkm-karlsruhe"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zkm-karlsruhe",
+   "name": "ZKM | Center for Art and Media Karlsruhe",
+   "kind": "lab",
+   "role": "Art and media museum and research centre",
+   "role_zh": "艺术与媒体博物馆及研究中心",
+   "based": "Karlsruhe, Germany",
+   "based_zh": "卡尔斯鲁厄，德国",
+   "bio": "ZKM is a German institution for media art that produces large thematic exhibitions on technology, science and society.",
+   "bio_zh": "ZKM 是德国的媒体艺术机构，制作关于技术、科学与社会的大型主题展览。",
+   "why": "Host of Critical Zones, a key exhibition on the thin living layer of the Earth.",
+   "why_zh": "《Critical Zones》的主办方，这是关于地球薄薄一层生命圈的重要展览。",
+   "links": {
+    "site": "https://zkm.de",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "bruno-latour"
+   ],
+   "discovered_via": "bruno-latour"
+  },
+  {
+   "id": "embassy-of-the-north-sea",
+   "name": "Embassy of the North Sea",
+   "kind": "studio",
+   "role": "Research and design initiative representing the North Sea as a political subject",
+   "role_zh": "把北海作为政治主体来代表的研究与设计机构",
+   "based": "The Hague, Netherlands",
+   "based_zh": "海牙，荷兰",
+   "bio": "Founded in 2018, the Embassy of the North Sea works with artists, lawyers, scientists and fishers to listen to, speak with and eventually negotiate on behalf of the sea.",
+   "bio_zh": "北海大使馆成立于 2018 年，与艺术家、律师、科学家和渔民合作，先学习倾听大海、再与之对话，最终代表大海谈判。",
+   "why": "A working model of how nonhuman entities could get political representation.",
+   "why_zh": "一个让非人类获得政治代表权的实际运作模型。",
+   "links": {
+    "site": "https://www.embassyofthenorthsea.com",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "het-nieuwe-instituut"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "het-nieuwe-instituut",
+   "name": "Het Nieuwe Instituut",
+   "kind": "lab",
+   "role": "Dutch national institute for architecture, design and digital culture",
+   "role_zh": "荷兰国家建筑、设计与数字文化机构",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "鹿特丹，荷兰",
+   "bio": "Het Nieuwe Instituut is a museum and research institute whose research team, led by Klaas Kuitenbrouwer, developed the Zoöp model.",
+   "bio_zh": "Het Nieuwe Instituut 是一家博物馆兼研究机构，其研究团队（由 Klaas Kuitenbrouwer 领导）提出了 Zoöp 模型。",
+   "why": "It turned more-than-human theory into an organisational form that real companies can adopt.",
+   "why_zh": "它把超越人类的理论变成了真实组织可以采用的组织形式。",
+   "links": {
+    "site": "https://zoop.hetnieuweinstituut.nl/en",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "embassy-of-the-north-sea"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-tsing",
+   "name": "Anna Lowenhaupt Tsing",
+   "kind": "person",
+   "role": "Anthropologist; Professor at UC Santa Cruz",
+   "role_zh": "人类学家；加州大学圣克鲁兹分校教授",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "bio": "Anna Tsing is an anthropologist of multispecies worlds, author of The Mushroom at the End of the World.",
+   "bio_zh": "Anna Tsing 是研究多物种世界的人类学家，著有《末日松茸》。",
+   "why": "Tsing's concept of 'feral' ecologies and patchy Anthropocene is a core vocabulary for more-than-human design.",
+   "why_zh": "Tsing 提出的“野性”生态和斑块化人类世，是超越人类设计的核心词汇。",
+   "links": {
+    "site": "https://feralatlas.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "feifei-zhou"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "feifei-zhou",
+   "name": "Feifei Zhou",
+   "kind": "person",
+   "role": "Artist and architectural designer; co-editor and visual designer of Feral Atlas",
+   "role_zh": "艺术家、建筑设计师；Feral Atlas 共同编者与视觉设计",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Feifei Zhou draws and maps multispecies landscapes; this work was shown in the Design Museum's More than Human exhibition in 2025.",
+   "bio_zh": "Feifei Zhou 以绘画和制图呈现多物种景观，作品曾在 2025 年设计博物馆“More than Human”展中展出。",
+   "why": "Shows how illustration and mapping can carry multispecies research.",
+   "why_zh": "展示了插画和制图如何承载多物种研究。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "anna-tsing"
+   ],
+   "discovered_via": "anna-tsing"
+  },
+  {
+   "id": "natalie-jeremijenko",
+   "name": "Natalie Jeremijenko",
+   "kind": "person",
+   "role": "Artist and engineer; Associate Professor at NYU; director of the Environmental Health Clinic",
+   "role_zh": "艺术家、工程师；纽约大学副教授；环境健康诊所负责人",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Natalie Jeremijenko is an Australian artist-engineer whose projects invite people to act together with fish, trees, birds and robots to improve shared environments.",
+   "bio_zh": "Natalie Jeremijenko 是澳大利亚艺术家兼工程师，其项目邀请人们与鱼、树、鸟和机器人一起行动，改善共同的环境。",
+   "why": "Jeremijenko pioneered participatory, playful interfaces between people and other species long before 'more-than-human design' had a name.",
+   "why_zh": "早在“超越人类设计”这个说法出现之前，Jeremijenko 就开创了人与其他物种之间参与式、游戏化的界面。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "the-living"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "beatriz-da-costa",
+   "name": "Beatriz da Costa",
+   "kind": "person",
+   "role": "Artist and educator; UC Irvine (1974–2012)",
+   "role_zh": "艺术家、教育者；加州大学欧文分校（1974–2012）",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "bio": "Beatriz da Costa was an interdisciplinary artist who combined tactical media, citizen science and biology, often working with animals as partners.",
+   "bio_zh": "Beatriz da Costa 是跨学科艺术家，把战术媒体、公民科学和生物学结合在一起，常常与动物合作。",
+   "why": "PigeonBlog is an early model of animals as co-researchers in environmental sensing.",
+   "why_zh": "PigeonBlog 是动物作为环境感知共同研究者的早期范例。",
+   "links": {
+    "site": "",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "interspecies-internet",
+   "name": "Interspecies Internet",
+   "kind": "lab",
+   "role": "Initiative founded by Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf",
+   "role_zh": "由 Diana Reiss、Peter Gabriel、Neil Gershenfeld 和 Vint Cerf 发起的计划",
+   "based": "US / UK",
+   "based_zh": "美国 / 英国",
+   "bio": "Interspecies Internet is a think tank that brings together researchers, technologists and artists to explore communication between humans and other animals.",
+   "bio_zh": "Interspecies Internet 是一个智库，召集研究者、技术人员和艺术家探索人与其他动物之间的交流。",
+   "why": "It framed interspecies communication as an internet-scale design problem.",
+   "why_zh": "它把跨物种交流定义为一个互联网规模的设计问题。",
+   "links": {
+    "site": "https://www.interspecies.io",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "earth-species-project",
+    "project-ceti"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "earth-species-project",
+   "name": "Earth Species Project",
+   "kind": "lab",
+   "role": "Nonprofit AI research lab co-founded by Aza Raskin and Britt Selvitelle",
+   "role_zh": "由 Aza Raskin 和 Britt Selvitelle 共同创办的非营利 AI 研究实验室",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "bio": "Earth Species Project develops machine-learning models and benchmarks to decode animal communication.",
+   "bio_zh": "Earth Species Project 开发机器学习模型和基准，用来解码动物交流。",
+   "why": "Its open foundation models make bioacoustic AI a design material for others.",
+   "why_zh": "它开放的基础模型让生物声学 AI 成为其他人可以使用的设计材料。",
+   "links": {
+    "site": "https://www.earthspecies.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "interspecies-internet",
+    "project-ceti"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "project-ceti",
+   "name": "Project CETI",
+   "kind": "lab",
+   "role": "Cetacean Translation Initiative, led by David Gruber",
+   "role_zh": "鲸类翻译计划，由 David Gruber 领导",
+   "based": "Dominica / New York, US",
+   "based_zh": "多米尼克 / 纽约，美国",
+   "bio": "Project CETI is an interdisciplinary nonprofit that combines bioacoustics, robotics and machine learning to understand sperm whale communication off Dominica.",
+   "bio_zh": "Project CETI 是一个跨学科非营利组织，结合生物声学、机器人和机器学习，研究多米尼克海域抹香鲸的交流。",
+   "why": "The largest attempt so far to listen to one nonhuman culture at scale.",
+   "why_zh": "迄今为止规模最大的、系统倾听一个非人类文化的尝试。",
+   "links": {
+    "site": "https://www.projectceti.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "earth-species-project",
+    "interspecies-internet"
+   ],
+   "discovered_via": "interspecies-internet"
+  },
+  {
+   "id": "wild-me",
+   "name": "Wild Me",
+   "kind": "lab",
+   "role": "Nonprofit behind Wildbook, now part of Conservation X Labs",
+   "role_zh": "Wildbook 的开发机构，现属 Conservation X Labs",
+   "based": "Portland, US",
+   "based_zh": "波特兰，美国",
+   "bio": "Wild Me builds open-source software that identifies individual animals from photographs contributed by researchers and the public.",
+   "bio_zh": "Wild Me 开发开源软件，从研究者和公众提供的照片中识别动物个体。",
+   "why": "Wildbook shows how citizen photos and computer vision can give individual animals a record of their own.",
+   "why_zh": "Wildbook 展示了公众照片与计算机视觉如何为每一只动物建立属于它自己的档案。",
+   "links": {
+    "site": "https://www.wildme.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rainforest-connection",
+   "name": "Rainforest Connection",
+   "kind": "company",
+   "role": "Conservation-technology nonprofit founded by Topher White",
+   "role_zh": "由 Topher White 创办的保护技术非营利组织",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "bio": "Rainforest Connection (RFCx) builds solar-powered acoustic monitors from recycled phones that listen to forests for chainsaws and wildlife.",
+   "bio_zh": "Rainforest Connection（RFCx）用回收手机制作太阳能声学监测器，在森林中监听电锯声和野生动物。",
+   "why": "An early, low-cost model of forests that can 'call for help'.",
+   "why_zh": "一个低成本的早期范例：让森林能够“求救”。",
+   "links": {
+    "site": "https://rfcx.org",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "city-of-melbourne",
+   "name": "City of Melbourne Urban Forest team",
+   "kind": "company",
+   "role": "Urban forest and open-space team of the City of Melbourne",
+   "role_zh": "墨尔本市政府城市森林团队",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "The City of Melbourne manages about 70,000 public trees and published them on the open Urban Forest Visual map.",
+   "bio_zh": "墨尔本市政府管理约七万棵公共树木，并把它们发布在开放的 Urban Forest Visual 地图上。",
+   "why": "Their tree email IDs accidentally became one of the best-known cases of people writing to nonhumans.",
+   "why_zh": "他们给树编的邮件编号，意外成了人们给非人类写信的最著名案例之一。",
+   "links": {
+    "site": "https://www.melbourne.vic.gov.au",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "stefan-kahl",
+   "name": "Stefan Kahl",
+   "kind": "person",
+   "role": "Computer scientist; BirdNET lead, K. Lisa Yang Center for Conservation Bioacoustics (Cornell) and TU Chemnitz",
+   "role_zh": "计算机科学家；BirdNET 负责人，康奈尔大学 K. Lisa Yang 保护生物声学中心与开姆尼茨工业大学",
+   "based": "Ithaca, US / Chemnitz, Germany",
+   "based_zh": "伊萨卡，美国 / 开姆尼茨，德国",
+   "bio": "Stefan Kahl develops deep-learning models that recognise bird and other animal sounds for biodiversity monitoring.",
+   "bio_zh": "Stefan Kahl 开发能识别鸟类和其他动物声音的深度学习模型，用于生物多样性监测。",
+   "why": "BirdNET made automated listening to ecosystems available to anyone with a phone.",
+   "why_zh": "BirdNET 让任何有手机的人都能自动“倾听”生态系统。",
+   "links": {
+    "site": "https://birdnet.cornell.edu",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "cornell-lab-of-ornithology"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cornell-lab-of-ornithology",
+   "name": "Cornell Lab of Ornithology",
+   "kind": "lab",
+   "role": "Research institute at Cornell University",
+   "role_zh": "康奈尔大学的研究机构",
+   "based": "Ithaca, US",
+   "based_zh": "伊萨卡，美国",
+   "bio": "The Cornell Lab of Ornithology studies birds and runs large citizen-science platforms such as eBird and Merlin.",
+   "bio_zh": "康奈尔鸟类学实验室研究鸟类，并运营 eBird、Merlin 等大型公民科学平台。",
+   "why": "Its apps turn millions of people into attentive listeners of birds.",
+   "why_zh": "它的应用把数百万人变成了鸟类的专注倾听者。",
+   "links": {
+    "site": "https://www.birds.cornell.edu",
+    "scholar": "",
+    "x": "",
+    "instagram": "",
+    "vimeo": "",
+    "youtube": "",
+    "github": ""
+   },
+   "connected_to": [
+    "stefan-kahl"
+   ],
+   "discovered_via": "stefan-kahl"
+  }
+ ],
+ "works": [
+  {
+   "id": "tomas-saraceno--hybrid-webs",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Hybrid Webs",
+   "year": 2008,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Spiders of different species are introduced one after another into the same frame, and each builds on the previous web, producing hybrid webs that no single species would make. The studio scans them in 3D and shows them as floating sculptures.",
+   "description_zh": "不同种类的蜘蛛被依次放进同一个框架，每一只都在前一只的网上继续编织，形成任何单一物种都不会织出的混合蛛网。工作室对这些网进行三维扫描，并以悬浮雕塑的形式展出。",
+   "idea_en": "Stack the building behaviours of several species in one structure and let the result be co-authored.",
+   "idea_zh": "把几个物种的建造行为叠加在同一个结构里，让结果成为共同创作。",
+   "method": "Solitary and social spider species weave in sequence inside rotating carbon-fibre frames; webs are later digitised with laser tomography.",
+   "method_zh": "独居与群居蜘蛛在可旋转的碳纤维框架中依次织网，之后用激光断层扫描将蛛网数字化。",
+   "keywords": [
+    "spider webs",
+    "Arachnophilia",
+    "laser tomography",
+    "co-authorship"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rjVDyxTXGAg"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/14DEU_Kolbe_00060-1-1920x1280.jpg",
+    "https://studiotomassaraceno.org/files/002-1920x1280.jpg"
+   ],
+   "source_url": "https://studiotomassaraceno.org/hybrid-webs/"
+  },
+  {
+   "id": "tomas-saraceno--arachnid-orchestra-jam-sessions",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Arachnid Orchestra. Jam Sessions",
+   "year": 2015,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Live spider webs are fitted with vibration sensors and amplified, and musicians improvise with the spiders, responding to and sending vibrations through the silk.",
+   "description_zh": "活体蛛网上装有振动传感器并被放大，音乐人与蜘蛛即兴合奏，一边回应蛛丝的振动，一边向蛛丝发送振动。",
+   "idea_en": "A spider lives in a world of vibration, so meet it there: make the web an instrument both sides can play.",
+   "idea_zh": "蜘蛛生活在振动的世界里，那就在振动中与它相遇：把蛛网变成双方都能演奏的乐器。",
+   "method": "Contact microphones and laser vibrometry pick up web vibrations from spiders, which are amplified in real time while humans play back into the web.",
+   "method_zh": "接触式麦克风和激光测振仪拾取蜘蛛在网上产生的振动，实时放大，同时人类也向蛛网回送振动。",
+   "keywords": [
+    "biotremology",
+    "spider/web",
+    "vibration",
+    "sound",
+    "NTU CCA Singapore"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=hIuNu-dcQX8"
+   },
+   "source_url": "https://studiotomassaraceno.org/arachnid-orchestra-jam-sessions/"
+  },
+  {
+   "id": "tomas-saraceno--aerocene",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "Aerocene",
+   "year": 2015,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An open artistic community that builds and flies sculptures lifted only by the sun's heat and the air, with no fossil fuels, batteries or helium. In 2020 the Aerocene Pacha balloon carried a person over the Salinas Grandes in Argentina, setting world records for solar flight.",
+   "description_zh": "一个开放的艺术社群，制作并放飞仅靠太阳热量和空气升空的雕塑，不使用化石燃料、电池或氦气。2020 年，Aerocene Pacha 气球载人飞越阿根廷的 Salinas Grandes 盐沼，创下太阳能飞行的世界纪录。",
+   "idea_en": "Design a way of moving that belongs to the atmosphere instead of burning it.",
+   "idea_zh": "设计一种属于大气、而不是燃烧大气的移动方式。",
+   "method": "Lightweight envelopes made of recycled or thin films absorb solar radiation and heat the air inside until they float; an open-source kit and app let anyone launch one.",
+   "method_zh": "用回收材料或薄膜做成的轻质气囊吸收太阳辐射、加热内部空气而升空；开源套件和应用让任何人都能放飞。",
+   "keywords": [
+    "aerosolar",
+    "post-fossil",
+    "open source",
+    "Fly with Pacha",
+    "Salinas Grandes"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AG_UXEXg_Mk"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/19arg_bts_aerocenepacha_09520-3.jpg",
+    "https://aerocene.org/wp-content/uploads/2020/03/TS_09MAS_museo-prato_00121edit.jpg"
+   ],
+   "source_url": "https://aerocene.org/"
+  },
+  {
+   "id": "tomas-saraceno--on-air",
+   "creator_ids": [
+    "tomas-saraceno"
+   ],
+   "title": "ON AIR",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A carte blanche exhibition at the Palais de Tokyo in Paris built as an ecosystem of spider webs, cosmic dust, air and sound, with live spiders among the co-producers.",
+   "description_zh": "在巴黎东京宫举办的整馆展览，被构建为一个由蛛网、宇宙尘埃、空气和声音组成的生态系统，活体蜘蛛也是共同制作者之一。",
+   "idea_en": "An exhibition can be a habitat whose inhabitants keep changing it during the show.",
+   "idea_zh": "展览可以是一个栖息地，其中的居民在展期内不断改变它。",
+   "method": "Hybrid webs, live spiders, particle and air sensing, and sonified web vibrations are installed across the building as an evolving environment.",
+   "method_zh": "在整座建筑中布置混合蛛网、活体蜘蛛、颗粒与空气感测以及蛛网振动的声音化，形成一个不断演变的环境。",
+   "keywords": [
+    "Palais de Tokyo",
+    "spiders",
+    "cosmic dust",
+    "Sounding the Air"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=X4SqhD-81d8"
+   },
+   "images": [
+    "https://studiotomassaraceno.org/files/38_18fra_pdt_press_20_ar.jpg"
+   ],
+   "source_url": "https://studiotomassaraceno.org/on-air/"
+  },
+  {
+   "id": "pierre-huyghe--zoodram",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Zoodram (aquarium series)",
+   "year": 2011,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A series of living marine aquariums; in the best-known versions a hermit crab lives inside a resin copy of Brancusi's Sleeping Muse, carrying the sculpture as its shell.",
+   "description_zh": "一系列活体海洋水族箱；在最著名的几件中，一只寄居蟹住在布朗库西《沉睡的缪斯》的树脂复制品里，把雕塑当作自己的壳背着走。",
+   "idea_en": "Let an animal's own habits decide how an artwork moves and where it is seen.",
+   "idea_zh": "让动物自身的习性决定作品如何移动、在哪里被看见。",
+   "method": "Closed seawater tanks with filtration host hermit crabs, arrow crabs and other species; the crab adopts the sculpture as a shell.",
+   "method_zh": "带过滤系统的封闭海水缸中养着寄居蟹、箭蟹等物种，寄居蟹把雕塑当作壳来使用。",
+   "keywords": [
+    "hermit crab",
+    "aquarium",
+    "Brancusi",
+    "Sleeping Muse",
+    "living sculpture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1KTUnlBisVw"
+   },
+   "images": [
+    "https://iiif.micr.io/idjDM/full/1200,/0/default.jpg",
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/zoodram5_huyghe.jpg"
+   ],
+   "source_url": "https://philamuseum.org/collection/object/326218"
+  },
+  {
+   "id": "pierre-huyghe--untilled",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Untilled",
+   "year": 2012,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "insects",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A compost site in Kassel's Karlsaue park for dOCUMENTA (13), where a reclining nude sculpture had a live beehive for a head, a white dog with a pink leg roamed, and psychoactive and aphrodisiac plants grew around it.",
+   "description_zh": "为第 13 届卡塞尔文献展在卡尔斯奥公园一处堆肥场所做的作品：一座卧姿裸体雕塑的头部是一个活蜂巢，一只前腿染成粉色的白狗在其中游荡，周围种着致幻与催情植物。",
+   "idea_en": "An artwork can be a site that grows and decays on its own, indifferent to whether anyone is watching.",
+   "idea_zh": "作品可以是一处自己生长和腐烂的场地，不在乎有没有人在看。",
+   "method": "The artist set up conditions (sculpture, hive, dog, plants, compost) and left the living elements to interact over the exhibition's 100 days.",
+   "method_zh": "艺术家设置了雕塑、蜂巢、狗、植物和堆肥等条件，然后让这些活体元素在展期的 100 天内自行互动。",
+   "keywords": [
+    "dOCUMENTA (13)",
+    "beehive",
+    "compost",
+    "Human the dog",
+    "Kassel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mEjEy3RY37o"
+   },
+   "images": [
+    "https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_13.jpg",
+    "https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_3.jpg",
+    "https://www.generazionecritica.it/wp-content/uploads/2022/05/UNTILLED_STEREO_PCONTRASTE_RGB-12MODIF.jpg"
+   ],
+   "source_url": "https://www.estherschipper.com/exhibitions/386-untilled-pierre-huyghe/"
+  },
+  {
+   "id": "pierre-huyghe--human-mask",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Untitled (Human Mask)",
+   "year": 2014,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A short film in which a monkey wearing a young woman's mask and wig moves alone through an abandoned restaurant near Fukushima after the 2011 disaster.",
+   "description_zh": "一部短片：2011 年灾难之后，一只戴着年轻女性面具和假发的猴子，独自在福岛附近一家废弃餐馆里走动。",
+   "idea_en": "Show a human world after the humans, seen through an animal trained to imitate us.",
+   "idea_zh": "通过一只被训练来模仿人类的动物，呈现人类离开之后的人类世界。",
+   "method": "Film shot in an empty restaurant with a trained macaque, first seen via drone footage of the exclusion zone.",
+   "method_zh": "以一只受过训练的猕猴在空荡餐馆中拍摄，开场是无人机拍下的隔离区画面。",
+   "keywords": [
+    "Fukushima",
+    "macaque",
+    "film",
+    "post-human"
+   ],
+   "images": [
+    "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/huyghe-humanmask.jpg"
+   ],
+   "source_url": "https://hyperallergic.com/228401/pierre-huyghe-and-the-art-of-the-rupture/"
+  },
+  {
+   "id": "pierre-huyghe--after-alife-ahead",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "After ALife Ahead",
+   "year": 2017,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "cells",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "For Skulptur Projekte Münster, Huyghe cut open the concrete floor of a former ice rink and created a sloping landscape of soil, water, bees, algae, bacteria and peacock-coloured cone snails, while HeLa cancer cells divided in an incubator and an app showed augmented forms.",
+   "description_zh": "为明斯特雕塑项目展，Huyghe 凿开一座旧溜冰场的混凝土地面，造出一片由土壤、水、蜜蜂、藻类、细菌和锥形海螺构成的倾斜景观；同时，培养箱里的 HeLa 癌细胞在分裂，一款应用程序在现场显示增强现实形态。",
+   "idea_en": "Let biological growth rates run the exhibition: cell division triggers events in the space.",
+   "idea_zh": "让生物的生长速度来驱动展览：细胞分裂触发空间中的事件。",
+   "method": "An incubator of HeLa cells linked to sensors drives the opening of ceiling panels and AR pyramids, while a living aquarium and hive evolve on site.",
+   "method_zh": "连接传感器的 HeLa 细胞培养箱控制天花板开合和 AR 金字塔的出现，同时现场的活体水族箱与蜂巢不断演变。",
+   "keywords": [
+    "Skulptur Projekte Münster",
+    "HeLa cells",
+    "cone snail",
+    "augmented reality",
+    "ice rink"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eWre6dlUAbo"
+   },
+   "images": [
+    "https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/artists/hero_image/items/59/597f36d864fd4671b45ac80958164a74/pierre_munster_1377.jpg"
+   ],
+   "source_url": "https://www.estherschipper.com/artists/41-pierre-huyghe/"
+  },
+  {
+   "id": "pierre-huyghe--uumwelt",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "UUmwelt",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "insects",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "At the Serpentine Gallery, huge LED screens showed images reconstructed by a neural network from a person's brain activity while imagining pictures, and thousands of flies lived in the gallery, landing on and altering the screens' conditions.",
+   "description_zh": "在蛇形画廊，巨大的 LED 屏幕显示神经网络根据一个人想象画面时的大脑活动重建出的图像；数千只苍蝇生活在展厅里，停落在屏幕上并改变着环境条件。",
+   "idea_en": "Put machine-reconstructed human imagination in a room where flies are the permanent residents.",
+   "idea_zh": "把机器重建的人类想象，放进一个由苍蝇长住的房间。",
+   "method": "Deep image reconstruction from fMRI data (with Kamitani Lab) generated the images; sensors for temperature, humidity and fly activity altered the sequence in real time.",
+   "method_zh": "与 Kamitani 实验室合作，用 fMRI 数据做深度图像重建生成画面；温度、湿度和苍蝇活动传感器实时改变画面序列。",
+   "keywords": [
+    "Serpentine",
+    "fMRI",
+    "deep image reconstruction",
+    "flies",
+    "Umwelt"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=enx-vyWn7UU"
+   },
+   "source_url": "https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/"
+  },
+  {
+   "id": "pierre-huyghe--liminal",
+   "creator_ids": [
+    "pierre-huyghe"
+   ],
+   "title": "Liminal",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An exhibition at Punta della Dogana, Venice, where a faceless human-like figure, aquariums with living organisms, and AI-driven films and voices change continuously in response to sensors in the space.",
+   "description_zh": "在威尼斯海关大楼举办的展览：一个没有面孔的类人形体、养着活体生物的水族箱，以及由 AI 驱动的影像和声音，会根据空间里的传感器持续变化。",
+   "idea_en": "A show as a sensing organism: the space perceives its visitors and nonhuman inhabitants and rewrites itself.",
+   "idea_zh": "把展览做成一个会感知的有机体：空间感知访客和非人类居民，并不断改写自己。",
+   "method": "Sensors feed machine-learning systems that edit films and generate a non-human language in real time, alongside living aquarium ecosystems.",
+   "method_zh": "传感器数据输入机器学习系统，实时剪辑影片并生成一种非人类语言，与活体水族生态系统并置。",
+   "keywords": [
+    "Punta della Dogana",
+    "Pinault Collection",
+    "machine learning",
+    "Idiom",
+    "Camata"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3UKSRjwsDUE"
+   },
+   "images": [
+    "https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg",
+    "https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/artists/41/pierre-venice2024-1_313.jpeg"
+   ],
+   "source_url": "https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal"
+  },
+  {
+   "id": "hubert-duprat--caddisfly-cases",
+   "creator_ids": [
+    "hubert-duprat"
+   ],
+   "title": "Trichoptères (Caddisfly Cases)",
+   "year": 1980,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "Caddisfly larvae, which normally build protective tubes from sand and twigs, are given only gold flakes, pearls and semi-precious stones, and they build jewel-like cases from them.",
+   "description_zh": "石蛾幼虫平时用沙粒和细枝筑造护身管，艺术家只给它们金片、珍珠和半宝石，它们就用这些材料造出珠宝般的壳。",
+   "idea_en": "Change the materials in an animal's environment and let its instinct do the fabrication.",
+   "idea_zh": "改变动物环境中的材料，让它的本能来完成制造。",
+   "method": "Larvae are removed from their original cases and placed in aquariums containing only gold and stones, which they bind with their own silk.",
+   "method_zh": "把幼虫从原来的壳中取出，放进只有黄金和宝石的水族箱里，它们用自己吐的丝把这些材料粘合起来。",
+   "keywords": [
+    "caddisfly",
+    "Trichoptera",
+    "gold",
+    "delegated making",
+    "The Caddisfly's Mirror"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yHqPaDMILHU"
+   },
+   "source_url": "https://www.mam.paris.fr/fr/expositions/exposition-hubert-duprat"
+  },
+  {
+   "id": "aganetha-dyck--honeybee-collaborations",
+   "creator_ids": [
+    "aganetha-dyck"
+   ],
+   "title": "Honeybee collaborations (Guest Workers)",
+   "year": 1991,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "Dyck places everyday objects such as figurines, shoes and sports gear into beehives, and the bees slowly cover them in honeycomb over months or years.",
+   "description_zh": "Dyck 把小雕像、鞋子、运动器材等日常物件放进蜂箱，蜜蜂在数月乃至数年间慢慢给它们覆上蜂巢。",
+   "idea_en": "Offer an object to a colony and accept whatever they decide to build.",
+   "idea_zh": "把一件物品交给蜂群，然后接受它们决定建造的任何形态。",
+   "method": "Objects are placed in active hives, sometimes with guide marks or wax, and returned to the colony across seasons while the artist and beekeepers observe.",
+   "method_zh": "把物件放进正在使用的蜂箱，有时加上引导标记或蜂蜡，并跨季节交还蜂群，艺术家与养蜂人一同观察。",
+   "keywords": [
+    "honeybees",
+    "honeycomb",
+    "beeswax",
+    "Guest Workers",
+    "hive"
+   ],
+   "video": {
+    "url": "https://vimeo.com/27487390"
+   },
+   "images": [
+    "https://fls-a14a5228-3d0a-4d78-a717-99c3c57b4113.laravel.cloud/44285/conversions/honeycomb-bee-art-sculpture-aganetha-dyck-16-content.jpg"
+   ],
+   "source_url": "https://www.cbc.ca/arts/aganetha-dyck-reveals-how-she-works-with-bees-to-create-strange-and-wonderful-art-1.4597098"
+  },
+  {
+   "id": "ren-ri--yuansu",
+   "creator_ids": [
+    "ren-ri"
+   ],
+   "title": "Yuansu (元塑)",
+   "year": 2008,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "A series of beeswax sculptures built by bee colonies: Ren Ri moves and rotates the hive frames or boxes at set intervals, and the bees keep building comb in new directions.",
+   "description_zh": "由蜂群筑成的一系列蜂蜡雕塑：任日按设定的时间间隔移动和旋转蜂框或盒子，蜜蜂便不断朝新的方向筑巢。",
+   "idea_en": "The designer controls orientation and timing; the colony controls form.",
+   "idea_zh": "设计者控制方向和时间，蜂群控制形态。",
+   "method": "Queen and colony are placed in wooden frames or acrylic cubes that the artist turns according to rules such as dice rolls or compass directions.",
+   "method_zh": "把蜂后与蜂群放进木框或亚克力立方体中，艺术家依据掷骰子或方位等规则转动它们。",
+   "keywords": [
+    "beeswax",
+    "honeybee",
+    "Yuansu",
+    "rules",
+    "Pearl Lam Galleries"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=sgT_4EJhi6U"
+   },
+   "images": [
+    "https://www.pearllam.com/wp-content/uploads/2017/03/21ren-ri-b-1984-yuansu-series-i-geometric-series-07-italy-2008-2009-natural-beeswax-wood-wire-73-x-57-x-5-cm.jpg",
+    "https://www.pearllam.com/wp-content/uploads/2017/03/ren-ri-b1984-yuansu-series-ii6-40-6-402014-15acrylic-box-natural-beeswax-40-x-40-x-40-cm-scaled.jpg"
+   ],
+   "source_url": "https://www.pearllam.com/artist/ren-ri/"
+  },
+  {
+   "id": "jakob-kudsk-steensen--primal-tourism",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Primal Tourism",
+   "year": 2016,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A full-scale virtual replica of the tourist island Bora Bora where ancient ecosystems, future sea levels and abandoned resorts coexist, explored as video, game or VR.",
+   "description_zh": "旅游岛屿波拉波拉岛的等比例虚拟复制品，岛上古老生态系统、未来海平面与废弃度假村并存，可以作为影片、游戏或 VR 来探索。",
+   "idea_en": "Use a game engine to show a paradise island from the future, after tourists and before recovery.",
+   "idea_zh": "用游戏引擎呈现一座来自未来的天堂岛：游客离开之后、生态恢复之前。",
+   "method": "Satellite maps, scientific projections of water levels and native species were built into a landscape in Unreal Engine 4.",
+   "method_zh": "把卫星地图、海平面科学预测和本地物种放进 Unreal Engine 4 中构建成景观。",
+   "keywords": [
+    "Bora Bora",
+    "Unreal Engine",
+    "VR",
+    "climate",
+    "tourism"
+   ],
+   "video": {
+    "url": "https://vimeo.com/185262742"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5eb426b12bf8463a49209757/1588861849430/FKV_How-to-Make-a-Paradise_Jakob-Kudsk-Steensen_Primal-Tourism_01-1.png?format=1500w",
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1494531862145-26Y0QF86HHFFX0DS8B2N/Island_stillshot_master.jpg"
+   ],
+   "source_url": "https://jakobsteensen.com/primal-tourism-1"
+  },
+  {
+   "id": "jakob-kudsk-steensen--re-animated",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "RE-ANIMATED",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A video and VR work that reanimates the Kauaʻi ʻōʻō, a Hawaiian bird declared extinct after its last recorded mating call in 1987, inside a digital reconstruction of its forest habitat.",
+   "description_zh": "一件影像与 VR 作品，在数字重建的森林栖息地中复活了夏威夷的考艾岛吸蜜鸟（Kauaʻi ʻōʻō），这种鸟在 1987 年最后一次被录到求偶叫声后被宣告灭绝。",
+   "idea_en": "Answer an extinct bird's last recorded call with a world built for it.",
+   "idea_zh": "用为它搭建的世界，回应一种已灭绝鸟类最后留下的鸣叫。",
+   "method": "Fieldwork on Kauaʻi with scientists, photogrammetry of plants and archival sound recordings were combined in a game engine, with algorithms spreading flora across the island.",
+   "method_zh": "结合在考艾岛与科学家一起的野外考察、植物摄影测量和档案录音，在游戏引擎中构建，由算法让植物在岛上蔓延。",
+   "keywords": [
+    "Kauaʻi ʻōʻō",
+    "extinction",
+    "VR",
+    "photogrammetry",
+    "sound archive"
+   ],
+   "video": {
+    "url": "https://vimeo.com/394649444"
+   },
+   "images": [
+    "https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5fa18fa769489423af9f8999/1604164829226/Jakob+Kudsk+Steensen++re-animator+1+hires.jpg?format=1500w",
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg"
+   ],
+   "source_url": "https://jakobsteensen.com/re-animated"
+  },
+  {
+   "id": "jakob-kudsk-steensen--the-deep-listener",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "The Deep Listener",
+   "year": 2019,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "animals",
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "An audio-visual AR walk through Kensington Gardens and Hyde Park that lets visitors see and hear five of the park's species: London plane trees, bats, parakeets, azure damselflies and reedbeds.",
+   "description_zh": "在肯辛顿花园和海德公园进行的视听 AR 漫步，让访客看到并听到公园里的五种生物：伦敦悬铃木、蝙蝠、长尾鹦鹉、天蓝豆娘和芦苇丛。",
+   "idea_en": "Use AR not to add objects to a park but to reveal the species already living in it.",
+   "idea_zh": "用 AR 不是往公园里添加东西，而是揭示已经生活在那里的物种。",
+   "method": "Field recordings, ultrasonic bat sounds and 3D scans of each species are placed at their real locations in a mobile AR app, as a Serpentine Augmented Architecture commission.",
+   "method_zh": "把野外录音、蝙蝠超声波和各物种的三维扫描放在它们真实所在的位置，做成手机 AR 应用，属于蛇形画廊的增强建筑委托项目。",
+   "keywords": [
+    "augmented reality",
+    "Serpentine",
+    "Hyde Park",
+    "deep listening",
+    "London plane"
+   ],
+   "video": {
+    "url": "https://vimeo.com/394495876"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1614095935755-M0XR28UWTQMZZAGJ1EOJ/1.hero.png",
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1588338407003-FSLM7QH06TPXGQ1RI2UE/Deep_Listening_Launch-4920.jpg"
+   ],
+   "source_url": "https://jakobsteensen.com/the-deep-listener"
+  },
+  {
+   "id": "jakob-kudsk-steensen--berl-berl",
+   "creator_ids": [
+    "jakob-kudsk-steensen"
+   ],
+   "title": "Berl-Berl",
+   "year": 2021,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An immersive installation and online world with a swamp as its protagonist, recreating the wetlands on which Berlin was built, with a soundscape that blends Arca's voice with amphibian calls.",
+   "description_zh": "一件以沼泽为主角的沉浸式装置与线上世界，重现柏林赖以建城的湿地，其声景把 Arca 的歌声与两栖动物的叫声融为一体。",
+   "idea_en": "Make the forgotten ecosystem beneath a city the main character.",
+   "idea_zh": "让城市底下被遗忘的生态系统成为主角。",
+   "method": "Months of fieldwork in Berlin-Brandenburg wetlands and specimens from the Museum für Naturkunde were rebuilt in Unreal Engine; sound by Matt McCorkle and Arca.",
+   "method_zh": "在柏林-勃兰登堡湿地进行数月野外考察，结合柏林自然博物馆的标本，在 Unreal Engine 中重建；声音由 Matt McCorkle 与 Arca 制作。",
+   "keywords": [
+    "wetlands",
+    "LAS Art Foundation",
+    "Museum für Naturkunde",
+    "Arca",
+    "Unreal Engine"
+   ],
+   "video": {
+    "url": "https://vimeo.com/765418012"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1659334574237-TGVI2IFHAT3G4XA0LH9J/HighresScreenshot00111.jpg"
+   ],
+   "source_url": "https://jakobsteensen.com/berlberl"
+  },
+  {
+   "id": "ursula-biemann--forest-law",
+   "creator_ids": [
+    "ursula-biemann",
+    "paulo-tavares"
+   ],
+   "title": "Forest Law",
+   "year": 2014,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A two-channel video and research project on legal cases in the Ecuadorian Amazon where the forest and its Indigenous peoples argue for the rights of nature against oil and mining.",
+   "description_zh": "一件双频影像与研究项目，关注厄瓜多尔亚马逊地区的法律案件：森林与原住民以自然权利为依据，对抗石油和采矿开发。",
+   "idea_en": "Treat the forest as a legal subject and film the court case from its side.",
+   "idea_zh": "把森林当作法律主体，从它的一方拍摄这场诉讼。",
+   "method": "Video essay combining landscape footage, interviews with the Sarayaku people and lawyers, and spatial analysis of extraction.",
+   "method_zh": "影像散文，结合景观画面、对 Sarayaku 族人和律师的访谈，以及对开采活动的空间分析。",
+   "keywords": [
+    "rights of nature",
+    "Amazon",
+    "Sarayaku",
+    "Ecuador",
+    "video essay"
+   ],
+   "video": {
+    "url": "https://vimeo.com/316761337"
+   },
+   "images": [
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-fl-cover-large-aspect-ratio-770-433.jpg",
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-FL-gallery-3-scaled-aspect-ratio-770-433.jpg"
+   ],
+   "source_url": "https://geobodies.org/art-and-videos/forest-law/"
+  },
+  {
+   "id": "ursula-biemann--acoustic-ocean",
+   "creator_ids": [
+    "ursula-biemann"
+   ],
+   "title": "Acoustic Ocean",
+   "year": 2018,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A video set on the Lofoten Islands in which a Sámi biologist-diver listens to deep-sea life with hydrophones and other recording devices, since sound is the main way marine beings navigate and communicate.",
+   "description_zh": "一部在罗弗敦群岛拍摄的影片：一位萨米族生物学家兼潜水员用水听器等录音设备倾听深海生命，因为声音是海洋生物导航和交流的主要方式。",
+   "idea_en": "Listening, not seeing, is the way into the ocean's world.",
+   "idea_zh": "进入海洋世界的方式是倾听，而不是观看。",
+   "method": "Hydrophones, parabolic microphones and underwater recording set up a sensing station; the video pairs this equipment with Indigenous knowledge of the sea.",
+   "method_zh": "用水听器、抛物面麦克风和水下录音搭建感测站，影片把这些设备与原住民关于大海的知识并置。",
+   "keywords": [
+    "hydrophone",
+    "Lofoten",
+    "Sámi",
+    "bioacoustics",
+    "ocean"
+   ],
+   "video": {
+    "url": "https://vimeo.com/255000012"
+   },
+   "images": [
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-ao-cover-large-aspect-ratio-770-433.jpg",
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-AO-gallery-2-aspect-ratio-770-433.jpg"
+   ],
+   "source_url": "https://geobodies.org/art-and-videos/acoustic-ocean/"
+  },
+  {
+   "id": "ursula-biemann--forest-mind",
+   "creator_ids": [
+    "ursula-biemann"
+   ],
+   "title": "Forest Mind",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A two-channel video from the Colombian Amazon that brings together plant science and Inga shamanic knowledge to ask how a forest thinks.",
+   "description_zh": "一部在哥伦比亚亚马逊拍摄的双频影片，把植物科学与 Inga 族萨满知识放在一起，追问森林如何思考。",
+   "idea_en": "Place scientific and Indigenous accounts of plant intelligence side by side, without ranking them.",
+   "idea_zh": "把关于植物智能的科学叙述与原住民叙述并排放置，不分高下。",
+   "method": "Video essay combining microscopy and DNA-lab footage with conversations with Inga knowledge holders, made with the Indigenous university project Devenir Universidad.",
+   "method_zh": "影像散文，结合显微镜与 DNA 实验室画面和与 Inga 族知识持有者的对话，与原住民大学项目 Devenir Universidad 合作完成。",
+   "keywords": [
+    "plant intelligence",
+    "Amazon",
+    "Inga",
+    "Colombia",
+    "biocentric"
+   ],
+   "video": {
+    "url": "https://vimeo.com/579021465"
+   },
+   "images": [
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-fm-cover-large-aspect-ratio-770-433.jpg",
+    "https://geobodies.org/wp-content/uploads/2022/03/aav-FM-gallery-1-aspect-ratio-770-433.jpg"
+   ],
+   "source_url": "https://geobodies.org/art-and-videos/forest-mind/"
+  },
+  {
+   "id": "jenna-sutela--nimiia-cetii",
+   "creator_ids": [
+    "jenna-sutela"
+   ],
+   "title": "nimiia cétiï",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "bacteria"
+   ],
+   "also": [
+    "biohybrid"
+   ],
+   "kind": "artwork",
+   "description": "An audiovisual work in which a machine-learning model, trained on recordings of a medium channelling a 'Martian' language, writes new language driven by the movements of Bacillus subtilis nattō bacteria under a microscope.",
+   "description_zh": "一件视听作品：一个机器学习模型以灵媒说出的“火星语”录音为训练数据，再由显微镜下纳豆枯草芽孢杆菌的运动驱动，生成新的语言。",
+   "idea_en": "Let bacteria and a neural network co-write a language no human speaks.",
+   "idea_zh": "让细菌和神经网络一起写出一种没有人会说的语言。",
+   "method": "Recordings of Hélène Smith's 19th-century 'Martian' and the artist's voice train a neural network; microscope video of Bacillus subtilis modulates its output (with Google Arts & Culture Lab).",
+   "method_zh": "用 19 世纪灵媒 Hélène Smith 的“火星语”和艺术家本人的声音训练神经网络，再用枯草芽孢杆菌的显微影像调制其输出（与 Google Arts & Culture Lab 合作）。",
+   "keywords": [
+    "Bacillus subtilis",
+    "machine learning",
+    "Martian language",
+    "xenolinguistics",
+    "Google Arts & Culture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NaoZV7jPo10"
+   },
+   "images": [
+    "https://lh3.googleusercontent.com/fYBCrVoUw_bXbUlxfEZSHznVO1q9L6URCgiZydVn9PMobLNY7-SZ8PxplbLnWxvfsapF9-4Uh65vee6DhJhDVRCbM4MM"
+   ],
+   "source_url": "https://experiments.withgoogle.com/nimiia-cetii"
+  },
+  {
+   "id": "sonia-levy--for-the-love-of-corals",
+   "creator_ids": [
+    "sonia-levy"
+   ],
+   "title": "For the Love of Corals",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A film made at the Horniman Museum's Project Coral in London, where scientists recreate lunar and seasonal cycles in tanks so that corals spawn in captivity.",
+   "description_zh": "一部在伦敦霍尼曼博物馆“珊瑚计划”拍摄的影片：科学家在水族箱里重建月相和季节周期，让珊瑚在人工环境中产卵。",
+   "idea_en": "Film laboratory care as intimacy between species, not as control.",
+   "idea_zh": "把实验室里的照护拍成物种之间的亲密关系，而不是控制。",
+   "method": "Close macro cinematography of coral spawning in aquariums where light, temperature and moonlight are set by computers.",
+   "method_zh": "用微距摄影近距离拍摄水族箱中的珊瑚产卵，箱内的光照、温度和月光由电脑设定。",
+   "keywords": [
+    "coral spawning",
+    "Horniman Museum",
+    "Project Coral",
+    "care",
+    "The Camille Diaries"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ntti-BQHBx4"
+   },
+   "images": [
+    "https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SLIDER__-Levy-2.jpg"
+   ],
+   "source_url": "https://artlaboratory-berlin.org/exhibitions/the-camille-diaries/"
+  },
+  {
+   "id": "ian-cheng--bob",
+   "creator_ids": [
+    "ian-cheng"
+   ],
+   "title": "BOB (Bag of Beliefs)",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "BOB is an artificial lifeform, a serpent-like creature on screen whose personality and beliefs develop over the exhibition as it lives, learns and dies, and visitors can make offerings to it through an app.",
+   "description_zh": "BOB 是一种人工生命，屏幕上一条蛇形生物，它的个性和信念在展期中随着生活、学习和死亡而不断发展，观众可以通过应用向它献上供品。",
+   "idea_en": "An artwork that grows its own personality from experience, which the audience can influence but not script.",
+   "idea_zh": "一件从经历中长出个性的作品，观众可以影响它，却无法为它写剧本。",
+   "method": "A real-time simulation with an AI architecture of competing drives and beliefs; the creature's body and behaviour change based on what happens to it.",
+   "method_zh": "实时模拟，AI 架构由相互竞争的驱力和信念组成；生物的身体和行为随它的遭遇而改变。",
+   "keywords": [
+    "artificial life",
+    "simulation",
+    "Serpentine",
+    "agent",
+    "Venice Biennale 2019"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XFmMrcW2ZsM"
+   },
+   "source_url": "https://www.serpentinegalleries.org/whats-on/ian-cheng-bob/"
+  },
+  {
+   "id": "shimabuku--sculpture-for-octopuses",
+   "creator_ids": [
+    "shimabuku"
+   ],
+   "title": "Sculpture for Octopuses: Exploring for Their Favorite Colours",
+   "year": 2010,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Shimabuku makes small coloured sculptures for octopuses, based on the shells and stones they collect from the sea floor, and places them underwater to see which ones the octopuses choose.",
+   "description_zh": "Shimabuku 参照章鱼从海底收集的贝壳和石头，为它们制作彩色小雕塑，放到水下，看章鱼会挑选哪一件。",
+   "idea_en": "Make an artwork whose audience, and critic, is an octopus.",
+   "idea_zh": "做一件作品，观众和评论者都是章鱼。",
+   "method": "Hand-made coloured objects are placed in octopus habitat and the animals' choices are documented on video and photographs.",
+   "method_zh": "把手工制作的彩色物件放入章鱼栖息地，用影像和照片记录章鱼的选择。",
+   "keywords": [
+    "octopus",
+    "animal audience",
+    "Animals & Us",
+    "Turner Contemporary"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=90ogkcNM_AY"
+   },
+   "source_url": "http://www.shimabuku.net/"
+  },
+  {
+   "id": "bernie-krause--great-animal-orchestra",
+   "creator_ids": [
+    "bernie-krause",
+    "united-visual-artists"
+   ],
+   "title": "The Great Animal Orchestra",
+   "year": 2016,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An immersive room at Fondation Cartier in Paris where Bernie Krause's soundscapes from seven habitats play while live spectrograms scroll across the walls and reflect in a pool of dark water.",
+   "description_zh": "巴黎卡地亚当代艺术基金会里的沉浸式展厅：Bernie Krause 在七个栖息地录下的声景在播放，实时声谱图在墙上滚动，并倒映在一池深色水面里。",
+   "idea_en": "Listen to a habitat as one orchestra, and hear what is missing when species disappear.",
+   "idea_zh": "把一个栖息地当作一支乐团来听，也就能听出物种消失后缺了什么。",
+   "method": "Field recordings from Krause's 5,000-hour archive are analysed into spectrograms that United Visual Artists render as projected, moving landscapes synchronised with the sound.",
+   "method_zh": "从 Krause 五千小时录音档案中选取的野外录音被转换成声谱图，由 United Visual Artists 渲染成与声音同步移动的投影景观。",
+   "keywords": [
+    "soundscape ecology",
+    "biophony",
+    "spectrogram",
+    "Fondation Cartier",
+    "field recording"
+   ],
+   "source_url": "https://www.uva.co.uk/features/great-animal-orchestra-cartier-foundation",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=o1SnSv0OQdY"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020315-MII6D7Y75P26RWZ92Q4K/UVA__GreatAnimalOrchestra_JH_06-2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020184-HXZKEPWXTPZ0ERCW39FN/UVA__GreatAnimalOrchestra_JM_03.jpg"
+   ]
+  },
+  {
+   "id": "david-rothenberg--whale-music",
+   "creator_ids": [
+    "david-rothenberg"
+   ],
+   "title": "Whale Music (Thousand Mile Song)",
+   "year": 2008,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "David Rothenberg lowers an underwater speaker off Hawaii and improvises on clarinet with singing humpback whales, listening back through hydrophones to hear whether they answer.",
+   "description_zh": "David Rothenberg 在夏威夷外海放下水下扬声器，用单簧管与正在歌唱的座头鲸即兴合奏，再通过水听器听它们是否回应。",
+   "idea_en": "Treat whale song as music you can join, not only a signal to decode.",
+   "idea_zh": "把鲸歌当作可以加入的音乐，而不只是需要破译的信号。",
+   "method": "Clarinet sound is sent into the sea through an underwater speaker and the whales' song is monitored and recorded with hydrophones from a small boat.",
+   "method_zh": "单簧管声音通过水下扬声器传入海中，再在小船上用水听器监听并录下鲸歌。",
+   "keywords": [
+    "humpback whale",
+    "clarinet",
+    "hydrophone",
+    "interspecies music",
+    "Thousand Mile Song"
+   ],
+   "source_url": "http://www.davidrothenberg.net/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=807LSbW28Po"
+   }
+  },
+  {
+   "id": "david-rothenberg--nightingales-in-berlin",
+   "creator_ids": [
+    "david-rothenberg"
+   ],
+   "title": "Nightingales in Berlin",
+   "year": 2019,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Over five springs Rothenberg and invited musicians played at night in Berlin parks with singing nightingales; the project became a book, an album and a documentary film.",
+   "description_zh": "连续五个春天，Rothenberg 和受邀音乐人夜里在柏林公园与正在鸣唱的夜莺合奏；项目最后形成了一本书、一张专辑和一部纪录片。",
+   "idea_en": "A city park can be a concert hall shared by humans and birds.",
+   "idea_zh": "城市公园可以是人和鸟共用的音乐厅。",
+   "method": "Musicians improvise acoustically or with electronics next to wild nightingales during their breeding-season night song, recorded on location.",
+   "method_zh": "音乐人在野生夜莺繁殖季夜鸣时，于现场用原声乐器或电子设备在旁即兴，并实地录音。",
+   "keywords": [
+    "nightingale",
+    "Berlin",
+    "interspecies music",
+    "improvisation",
+    "urban nature"
+   ],
+   "source_url": "https://www.nightingalesinberlin.com/",
+   "video": {
+    "url": "https://vimeo.com/191341487"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545854144930-51ZI1VJPD5S4RJ0YVA24/helsinki+nightingale+morning.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545865720868-KZ6W270W12YSVTMPJJE9/david+open+mouth+Hasenheide+ah.png"
+   ]
+  },
+  {
+   "id": "jana-winderen--spring-bloom",
+   "creator_ids": [
+    "jana-winderen"
+   ],
+   "title": "Spring Bloom in the Marginal Ice Zone",
+   "year": 2017,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "algae",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A seven-channel sound installation of the Barents Sea during the spring plankton bloom: cracking sea ice, bearded seals, whales, cod and crustaceans that all depend on the bloom.",
+   "description_zh": "一件七声道声音装置，呈现巴伦支海春季浮游生物大爆发时的水下世界：开裂的海冰、髯海豹、鲸、鳕鱼和甲壳动物，它们都依赖这场爆发。",
+   "idea_en": "Make an ecosystem's most important moment audible, so its fragility is felt rather than read.",
+   "idea_zh": "让一个生态系统最关键的时刻被听见，脆弱就不只是读到的数据。",
+   "method": "Hydrophone recordings made near Svalbard are composed into a spatial multichannel piece; commissioned by Sonic Acts and Dark Ecology.",
+   "method_zh": "在斯瓦尔巴群岛附近用水听器录音，再编排成空间化的多声道作品；由 Sonic Acts 与 Dark Ecology 委托。",
+   "keywords": [
+    "hydrophone",
+    "phytoplankton",
+    "Barents Sea",
+    "sea ice",
+    "Sonic Acts"
+   ],
+   "source_url": "https://janawinderen.com/releases/spring-bloom-in-the-marginal-ice-zone",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oxGIQF3iRYM"
+   },
+   "images": [
+    "https://janawinderen.com/media/pages/releases/spring-bloom-in-the-marginal-ice-zone/3250264730-1587415338/tone65.jpg"
+   ]
+  },
+  {
+   "id": "marcus-coates--journey-to-the-lower-world",
+   "creator_ids": [
+    "marcus-coates"
+   ],
+   "title": "Journey to the Lower World",
+   "year": 2004,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "In a Liverpool tower block due for demolition, Coates wears a deer skin and performs a shamanic ritual in a resident's flat, travelling to the \"lower world\" to ask animal spirits the residents' question about their future.",
+   "description_zh": "在利物浦一栋即将拆除的高层住宅里，Coates 披上鹿皮，在一户居民家中进行萨满仪式，前往“下界”替居民向动物精灵询问这片社区的未来。",
+   "idea_en": "Borrow an animal's point of view to answer a human, social question.",
+   "idea_zh": "借动物的视角来回答一个属于人类社会的问题。",
+   "method": "A participatory performance filmed as a 28-minute video: residents pose a question, Coates enacts the trance with animal calls and costume, then reports what the animals said.",
+   "method_zh": "一场参与式表演，拍成 28 分钟影像：居民提出问题，Coates 用动物叫声和装扮进入“出神”，然后转述动物说了什么。",
+   "keywords": [
+    "shamanism",
+    "performance",
+    "animal voice",
+    "Liverpool",
+    "participation"
+   ],
+   "source_url": "https://marcuscoates.co.uk/projects/78-journey-to-the-lower-world",
+   "images": [
+    "https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/JTLW_block3.jpg"
+   ]
+  },
+  {
+   "id": "marcus-coates--dawn-chorus",
+   "creator_ids": [
+    "marcus-coates"
+   ],
+   "title": "Dawn Chorus",
+   "year": 2007,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A 14-screen video installation of people in their bathrooms, cars and bedrooms each singing a bird's song; played back at speed, their voices sound almost exactly like a dawn chorus.",
+   "description_zh": "一件 14 屏影像装置：人们分别在浴室、车里、卧室里唱一种鸟的歌；加速播放后，他们的声音几乎和清晨的鸟鸣合唱一模一样。",
+   "idea_en": "Slowed down, birdsong fits a human voice; sped up, humans become birds.",
+   "idea_zh": "放慢后，鸟鸣能被人声唱出；加快后，人就变成了鸟。",
+   "method": "Field recordings of birds were slowed up to about 16 times, learned and sung by volunteers on film, and the video was then sped up by the same factor.",
+   "method_zh": "把鸟鸣录音放慢约 16 倍，让志愿者学会并对着镜头演唱，再把影像按同样倍数加速。",
+   "keywords": [
+    "birdsong",
+    "time-stretching",
+    "video installation",
+    "mimicry",
+    "Wellcome Trust"
+   ],
+   "source_url": "https://marcuscoates.co.uk/projects/68-dawn-chorus",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zF1uihdcZmY"
+   },
+   "images": [
+    "https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/fabrica.jpg"
+   ]
+  },
+  {
+   "id": "alex-metcalf--tree-listening",
+   "creator_ids": [
+    "alex-metcalf"
+   ],
+   "title": "The Tree Listening Project",
+   "year": 2007,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Visitors put on headphones connected to a living tree and hear its interior: low rumbles and quiet popping as water moves through the xylem.",
+   "description_zh": "观众戴上连接活树的耳机，听到树的内部：低沉的轰鸣，以及水在木质部中流动时轻微的噼啪声。",
+   "idea_en": "A tree is always busy; you only need the right ear to notice.",
+   "idea_zh": "树一直在忙碌，只是需要合适的“耳朵”才能察觉。",
+   "method": "Highly sensitive contact microphones on the trunk pick up vibrations and cavitation clicks in the water-conducting xylem, amplified to shared headphones.",
+   "method_zh": "贴在树干上的高灵敏接触式麦克风拾取输水木质部中的振动和空穴化咔嗒声，放大后传到共享耳机。",
+   "keywords": [
+    "tree",
+    "xylem",
+    "contact microphone",
+    "cavitation",
+    "public installation"
+   ],
+   "source_url": "https://treelistening.co.uk/",
+   "images": [
+    "https://treelistening.co.uk/wp-content/uploads/2025/09/media-1024x547.jpg",
+    "https://treelistening.co.uk/wp-content/uploads/2025/09/our-story-1024x480.jpg"
+   ]
+  },
+  {
+   "id": "data-garden--quartet",
+   "creator_ids": [
+    "data-garden"
+   ],
+   "title": "Data Garden Quartet",
+   "year": 2012,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Four plants in the Philadelphia Museum of Art played synthesizers live, a work the museum called its first bio-reactive, plant-controlled artwork.",
+   "description_zh": "费城艺术博物馆里的四株植物现场演奏合成器，博物馆称之为馆内第一件由植物控制的生物反应艺术作品。",
+   "idea_en": "Let plants play the instruments and let humans be the audience.",
+   "idea_zh": "让植物演奏乐器，让人类当观众。",
+   "method": "Electrodes on leaves read changes in electrical conductance, which biodata devices built with Sam Cusumano convert into MIDI notes for synthesizers.",
+   "method_zh": "叶片上的电极读取电导变化，由与 Sam Cusumano 合作制作的生物数据设备转换成 MIDI 音符，驱动合成器。",
+   "keywords": [
+    "biodata sonification",
+    "MIDI",
+    "plants",
+    "Philadelphia Museum of Art",
+    "Electricfeel"
+   ],
+   "source_url": "https://www.youtube.com/watch?v=ekV1ngd_9GY",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Uq0aFi1x_mo"
+   }
+  },
+  {
+   "id": "damanhur--music-of-the-plants",
+   "creator_ids": [
+    "damanhur"
+   ],
+   "title": "Music of the Plants",
+   "year": 1976,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Researchers at the Damanhur community built devices that turn a plant's electrical changes into melodies, and hold concerts in which plants and trees \"play\" alongside musicians.",
+   "description_zh": "Damanhur 社区的研究者制作了把植物电信号变化转成旋律的设备，并举办植物和树与音乐人一起“演奏”的音乐会。",
+   "idea_en": "Give plants a voice in real time, then ask whether they respond to how they are heard.",
+   "idea_zh": "让植物实时发声，再追问它们是否会回应“被聆听”的方式。",
+   "method": "Electrodes on a leaf and in the soil measure variations in electrical resistance, which the device converts into MIDI notes; Damanhur claims plants learn to modulate the sound, a claim not scientifically established.",
+   "method_zh": "叶片和土壤中的电极测量电阻变化，设备把它转换成 MIDI 音符；Damanhur 称植物能学会调节声音，但这一说法没有科学定论。",
+   "keywords": [
+    "plant music",
+    "MIDI",
+    "Damanhur",
+    "biofeedback",
+    "concert"
+   ],
+   "source_url": "https://www.damanhur.foundation/project/the-music-of-the-plants/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=M-SgriGwu6c"
+   },
+   "images": [
+    "https://www.damanhur.foundation/wp-content/uploads/Bamboo.png"
+   ]
+  },
+  {
+   "id": "botanicalls--botanicalls",
+   "creator_ids": [
+    "botanicalls"
+   ],
+   "title": "Botanicalls",
+   "year": 2006,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "Houseplants fitted with a soil-moisture sensor phone or tweet their owners when they need water, and say thank you after being watered.",
+   "description_zh": "装了土壤湿度传感器的室内植物，缺水时会给主人打电话或发推文，浇水后还会道谢。",
+   "idea_en": "Let the plant start the conversation about its own care.",
+   "idea_zh": "让植物主动开口，谈论它自己需要的照顾。",
+   "method": "A moisture probe in the pot feeds a networked microcontroller that places a phone call or posts to Twitter with pre-written messages in the plant's voice.",
+   "method_zh": "花盆里的湿度探针连接联网的微控制器，用预先写好的“植物口吻”打电话或发 Twitter。",
+   "keywords": [
+    "Internet of Things",
+    "houseplant",
+    "Twitter",
+    "moisture sensor",
+    "NYU ITP"
+   ],
+   "source_url": "https://www.botanicalls.com/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GsrSGqfKZ18"
+   },
+   "images": [
+    "https://www.faludi.com/wp-content/uploads/2011/07/moma_sign.jpg",
+    "https://www.botanicalls.com/wp-content/uploads/2013/04/25toolkit-articleLarge-500x342.jpg"
+   ]
+  },
+  {
+   "id": "wolfgang-buttress--the-hive",
+   "creator_ids": [
+    "wolfgang-buttress"
+   ],
+   "title": "The Hive",
+   "year": 2015,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "A 17-metre lattice sculpture, first the UK Pavilion at Expo Milano 2015 and then at Kew Gardens, whose 1,000 LED lights and soundscape pulse with the activity of a real honeybee colony.",
+   "description_zh": "一座 17 米高的网格雕塑，先是 2015 年米兰世博会英国馆，后移至邱园；其中 1000 盏 LED 灯和声景随一个真实蜂群的活动而起伏。",
+   "idea_en": "Let people stand inside the rhythm of a beehive.",
+   "idea_zh": "让人站进一个蜂巢的节律里。",
+   "method": "Accelerometers inside a hive, developed with physicist Martin Bencsik at Nottingham Trent University, stream bee vibrations that drive the lights and a composed soundtrack in real time.",
+   "method_zh": "与诺丁汉特伦特大学物理学家 Martin Bencsik 合作，把加速度传感器放进蜂箱，实时传输蜜蜂振动，驱动灯光和作曲声轨。",
+   "keywords": [
+    "honeybee",
+    "accelerometer",
+    "Expo Milano 2015",
+    "Kew Gardens",
+    "sonification"
+   ],
+   "source_url": "https://www.smithsonianmag.com/arts-culture/sculpture-controlled-live-honeybees-180960006/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wSzsoW2IjpE"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Hive_installation_Kew_Gardens.jpg/1280px-The_Hive_installation_Kew_Gardens.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/51/The_Hive%2C_Kew_Gardens_-_geograph.org.uk_-_5868730.jpg"
+   ]
+  },
+  {
+   "id": "ackroyd-harvey--photographic-photosynthesis",
+   "creator_ids": [
+    "ackroyd-harvey"
+   ],
+   "title": "Photographic Photosynthesis (grass photographs)",
+   "year": 1991,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Large portraits that appear in a wall of young grass: where more light fell, the blades are greener, so the grass itself becomes the photograph, and fades as it grows and dies.",
+   "description_zh": "在一面嫩草墙上浮现的大幅肖像：受光多的地方草更绿，草本身就成了照片，并随着生长与枯萎而慢慢消褪。",
+   "idea_en": "Photosynthesis is already a photographic process.",
+   "idea_zh": "光合作用本身就是一种摄影工艺。",
+   "method": "A negative image is projected for days onto grass seedlings grown in darkness; chlorophyll develops in proportion to the light, and a stay-green grass variety slows the fading.",
+   "method_zh": "把负片影像连续数天投射到在暗处萌发的草苗上，叶绿素按受光多少生成；使用“保绿”草种可以减缓褪色。",
+   "keywords": [
+    "grass",
+    "chlorophyll",
+    "photosynthesis",
+    "portrait",
+    "stay-green"
+   ],
+   "source_url": "https://www.ackroydandharvey.com/celebrating-30-years-of-photographic-photosynthesis/",
+   "also": [
+    "bio"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w67UPDSKc44"
+   },
+   "images": [
+    "https://clotmag.com/wp-content/uploads/2022/03/4.jpg",
+    "https://www.ackroydandharvey.com/wp-content/uploads/2021/12/05.-Mother-and-Child-comparative-study-Artists-studio-Dorking-Adj-1-451x360.jpg"
+   ]
+  },
+  {
+   "id": "olafur-eliasson--ice-watch",
+   "creator_ids": [
+    "olafur-eliasson"
+   ],
+   "title": "Ice Watch",
+   "year": 2014,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Twelve blocks of Greenland glacial ice placed in a clock formation in a city square, left to melt in public; shown in Copenhagen (2014), Paris during COP21 (2015) and London (2018).",
+   "description_zh": "十二块格陵兰冰川冰按钟面排列在城市广场上，在众人面前融化；先后在哥本哈根（2014）、COP21 期间的巴黎（2015）和伦敦（2018）展出。",
+   "idea_en": "Put the melting Arctic within touching distance of the people who cause it.",
+   "idea_zh": "把正在融化的北极放到造成它的人伸手可及之处。",
+   "method": "Blocks that had calved from the Greenland ice sheet were collected from a fjord near Nuuk with geologist Minik Rosing and shipped to each city to melt in the open.",
+   "method_zh": "与地质学家 Minik Rosing 合作，从努克附近峡湾收集从格陵兰冰盖崩落的冰块，运到各城市露天融化。",
+   "keywords": [
+    "glacial ice",
+    "Greenland",
+    "COP21",
+    "climate",
+    "Minik Rosing"
+   ],
+   "source_url": "https://olafureliasson.net/artwork/ice-watch-2014/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qd-JRGBKSXA"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg/1280px-Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg",
+    "https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18019.jpg"
+   ]
+  },
+  {
+   "id": "kasia-molga--how-to-make-an-ocean",
+   "creator_ids": [
+    "kasia-molga"
+   ],
+   "title": "How to Make an Ocean",
+   "year": 2020,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "algae",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An installation and ritual in which the artist's collected tears host tiny marine ecosystems of phytoplankton; visitors can add their own tears with help from an AI \"moirologist\" bot.",
+   "description_zh": "一件装置与仪式作品：艺术家收集的眼泪中养着由浮游植物构成的微型海洋生态；观众可在 AI“哭丧人”机器人的引导下加入自己的眼泪。",
+   "idea_en": "Grief can become a habitat for other life.",
+   "idea_zh": "悲伤也可以成为其他生命的栖息地。",
+   "method": "Tears are collected with custom spoons and vessels, enriched as seawater-like medium and inoculated with marine microalgae, grown under light in small glass containers.",
+   "method_zh": "用特制的勺子和容器收集眼泪，调配成类似海水的培养基并接种海洋微藻，在小玻璃容器中光照培养。",
+   "keywords": [
+    "tears",
+    "phytoplankton",
+    "grief",
+    "AI chatbot",
+    "Ars Electronica"
+   ],
+   "source_url": "https://www.studiomolga.com/art_HTMAO.html",
+   "also": [
+    "bio"
+   ],
+   "video": {
+    "url": "https://vimeo.com/595232480"
+   },
+   "images": [
+    "https://www.studiomolga.com/art/HTMAO_04.jpg"
+   ]
+  },
+  {
+   "id": "marshmallow-laser-feast--in-the-eyes-of-the-animal",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "In the Eyes of the Animal",
+   "year": 2015,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A VR journey through Grizedale Forest seen in turn through the senses of a mosquito, a dragonfly, a frog and an owl.",
+   "description_zh": "一段穿越格里泽代尔森林的 VR 旅程，依次通过蚊子、蜻蜓、青蛙和猫头鹰的感官去看。",
+   "idea_en": "Step into another creature's Umwelt to see that the human view is one of many.",
+   "idea_zh": "走进另一个生物的“环境界”，才会明白人类视角只是众多视角之一。",
+   "method": "The forest was captured with LiDAR, drones and 360° cameras and rendered in real time as point clouds, with binaural sound from field recordings and a headset worn with haptics and scent.",
+   "method_zh": "用激光雷达、无人机和 360° 相机采集森林，实时渲染为点云，配以野外录音制作的双耳声，并结合触觉与气味。",
+   "keywords": [
+    "VR",
+    "Umwelt",
+    "LiDAR",
+    "Grizedale Forest",
+    "Abandon Normal Devices"
+   ],
+   "source_url": "https://www.marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XJMA0Nj_zsA"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46-1024x574.jpg"
+   ]
+  },
+  {
+   "id": "marshmallow-laser-feast--treehugger-wawona",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "Treehugger: Wawona",
+   "year": 2016,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Visitors hug a large sculpted sequoia trunk, put their head into a knot and enter VR, where they watch water rise from roots to crown and drift into slow \"tree time\".",
+   "description_zh": "观众拥抱一棵巨大的红杉树干雕塑，把头伸进树瘤进入 VR，看水分从根部升到树冠，并慢慢进入“树的时间”。",
+   "idea_en": "Hug a tree long enough and you start to live at its pace.",
+   "idea_zh": "抱树抱得够久，就会开始按它的节奏生活。",
+   "method": "Mixed reality: a tactile sculpture plus VR headset, spatial audio, haptics and scent; the visualisation is modelled on a giant sequoia in Sequoia National Park.",
+   "method_zh": "混合现实：可触摸的雕塑配合 VR 头显、空间音频、触觉与气味；可视化以红杉国家公园的一棵巨杉为原型。",
+   "keywords": [
+    "giant sequoia",
+    "mixed reality",
+    "haptics",
+    "tree time",
+    "Tribeca"
+   ],
+   "source_url": "https://www.marshmallowlaserfeast.com/project/treehugger-wawona/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=if0wfysmoMU"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2024/08/5-1024x576.jpg",
+    "https://marshmallowlaserfeast.com/app/uploads/2024/08/WIP_Treehugger_Rocktree_16-1024x682.jpg"
+   ]
+  },
+  {
+   "id": "marshmallow-laser-feast--we-live-in-an-ocean-of-air",
+   "creator_ids": [
+    "marshmallow-laser-feast"
+   ],
+   "title": "We Live in an Ocean of Air",
+   "year": 2018,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A multi-user VR installation at the Saatchi Gallery in which each visitor's breath is shown as it leaves the body and is taken in by a giant sequoia, making the gas exchange between people and trees visible.",
+   "description_zh": "萨奇画廊的多人 VR 装置：每位观众呼出的气息被可视化，并被一棵巨杉吸入，人与树之间的气体交换因此变得可见。",
+   "idea_en": "Every breath is a trade with a plant.",
+   "idea_zh": "每一次呼吸都是与植物的交换。",
+   "method": "Breath sensors and heart-rate monitors on each visitor drive real-time particle visuals in untethered VR headsets, alongside scent and a spatial soundscape.",
+   "method_zh": "每位观众佩戴的呼吸传感器和心率监测驱动无线 VR 头显中的实时粒子画面，同时配合气味和空间声景。",
+   "keywords": [
+    "breath",
+    "VR",
+    "giant sequoia",
+    "Saatchi Gallery",
+    "biofeedback"
+   ],
+   "source_url": "https://www.marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Ex5OFWIQ0Q"
+   },
+   "images": [
+    "https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml-1024x682.jpg"
+   ]
+  },
+  {
+   "id": "new-reality-company--tree",
+   "creator_ids": [
+    "new-reality-company"
+   ],
+   "title": "Tree",
+   "year": 2017,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A VR experience in which the viewer becomes a rainforest tree, growing from a seed to the canopy and then witnessing the forest burn.",
+   "description_zh": "一个 VR 体验：观众变成一棵雨林树，从种子长到林冠，然后目睹森林被焚烧。",
+   "idea_en": "Embody a tree for a lifetime in minutes, so deforestation is felt from the inside.",
+   "idea_zh": "用几分钟经历一棵树的一生，从内部感受森林砍伐。",
+   "method": "Room-scale VR with arms tracked as branches, plus wind, heat, scent and a vibrating floor; premiered at Sundance New Frontier 2017, with the Rainforest Alliance.",
+   "method_zh": "房间尺度 VR，双臂被追踪为树枝，并加入风、热、气味和振动地板；2017 年在圣丹斯 New Frontier 首映，与雨林联盟合作。",
+   "keywords": [
+    "VR",
+    "rainforest",
+    "embodiment",
+    "Sundance",
+    "deforestation"
+   ],
+   "source_url": "https://www.treeofficial.com/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oEqkLuyKGUk"
+   }
+  },
+  {
+   "id": "polymorf--symbiosis",
+   "creator_ids": [
+    "polymorf"
+   ],
+   "title": "Symbiosis",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "slime-mold",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A group VR performance set 200 years in the future where visitors wear haptic suits and live as a slime mould, a toad or a plant, sharing resources before meeting in a final food ritual.",
+   "description_zh": "一场设定在 200 年后的多人 VR 表演：观众穿上触觉服，作为黏菌、蟾蜍或植物生活，分享资源，最后在一场共同进食的仪式中相遇。",
+   "idea_en": "Feeling like another species needs a whole body, not just a headset.",
+   "idea_zh": "要感觉像另一个物种，需要整个身体，而不只是一个头显。",
+   "method": "Each participant wears VR plus a soft-robotic haptic wearable; scent, sound and plant-based snacks are tailored to each creature, and the characters interact in shared virtual space.",
+   "method_zh": "每位参与者佩戴 VR 和软体机器人触觉穿戴；气味、声音和植物零食按角色定制，角色们在共享的虚拟空间中互动。",
+   "keywords": [
+    "VR",
+    "haptic suit",
+    "soft robotics",
+    "Donna Haraway",
+    "IDFA DocLab"
+   ],
+   "source_url": "https://www.polymorf.nl/symbiosis",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZYVn3vREyYg"
+   },
+   "images": [
+    "https://polymorf.nl/wp-content/uploads/2026/05/Polymorf-Symbiosis-Holland-Festival-Frascati-22-1.jpg",
+    "https://polymorf.nl/wp-content/uploads/2026/05/MultiBodyCreature_8-scaled.jpg"
+   ]
+  },
+  {
+   "id": "max-rheiner--birdly",
+   "creator_ids": [
+    "max-rheiner"
+   ],
+   "title": "Birdly",
+   "year": 2014,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A full-body flight simulator: the user lies face down, flaps their arms as wings and flies over a city as a red kite, with wind in the face.",
+   "description_zh": "一台全身飞行模拟器：使用者俯卧，用双臂当翅膀扇动，以赤鸢的身份飞越城市，风迎面吹来。",
+   "idea_en": "Don't control a machine; become the bird.",
+   "idea_zh": "不是操控一台机器，而是成为那只鸟。",
+   "method": "Arm and hand movements drive a bird flight model; the platform tilts, rolls and heaves, while a head-mounted display, a fan, sound and scents add to the embodiment.",
+   "method_zh": "手臂和手的动作驱动鸟类飞行模型；平台随之俯仰、侧倾和升降，头戴显示器、风扇、声音和气味加强了身体代入。",
+   "keywords": [
+    "VR",
+    "embodiment",
+    "red kite",
+    "flight simulator",
+    "ZHdK"
+   ],
+   "source_url": "https://www.rs-online.com/designspark/birdly-making-a-flying-virtual-reality-experience-truly-immersive",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rzBUvydKUAA"
+   }
+  },
+  {
+   "id": "superflux--mitigation-of-shock",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Mitigation of Shock",
+   "year": 2017,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A full-scale London apartment from around 2050, adapted for food scarcity caused by climate change: windows turned into grow rooms, with DIY hydroponics and mushroom growing among the furniture.",
+   "description_zh": "一套按真实尺寸搭建的约 2050 年伦敦公寓，为应对气候变化带来的粮食短缺而改造：窗户变成种植间，家具之间是自制水培设备和菌菇培养。",
+   "idea_en": "Let people walk into a lived-in future where survival depends on growing with other species at home.",
+   "idea_zh": "让人走进一个有人生活过的未来：在这里，活下去要靠在家里与其他物种一起生长。",
+   "method": "Immersive set design with working hydroponic and mushroom-growing prototypes, based on climate and food-system research.",
+   "method_zh": "以气候与粮食系统研究为基础的沉浸式布景，配有能实际运行的水培和蘑菇种植原型。",
+   "keywords": [
+    "experiential futures",
+    "climate change",
+    "food insecurity",
+    "CCCB"
+   ],
+   "video": {
+    "url": "https://vimeo.com/321703760"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2019/04/Main-Image-MOS-Resized.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/mitigation-of-shock/"
+  },
+  {
+   "id": "superflux--invocation-for-hope",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Invocation for Hope",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation at the MAK Vienna for the Vienna Biennale 2021: visitors walk through more than 400 fire-blackened pine trees from an Austrian forest fire to a living clearing and a mirrored pool, where a film shows other species looking back.",
+   "description_zh": "维也纳应用艺术博物馆（MAK）为 2021 年维也纳双年展呈现的装置：观众穿过 400 多棵来自奥地利山火的焦黑松树，走到一片有生命的林间空地和一池镜面水前，影像中其他物种在回望人类。",
+   "idea_en": "Stage the path from ecological ruin to multispecies renewal as a walk the body has to take.",
+   "idea_zh": "把从生态废墟走向多物种复苏的过程，变成身体必须亲自走完的一段路。",
+   "method": "Burnt pine trunks, living plants and a projected film arranged as a one-person-at-a-time journey through the gallery hall.",
+   "method_zh": "焦黑松树干、活体植物和投影影片被布置成一次一人通过的展厅旅程。",
+   "keywords": [
+    "Vienna Biennale",
+    "MAK",
+    "wildfire",
+    "forest",
+    "multispecies"
+   ],
+   "video": {
+    "url": "https://vimeo.com/642021162"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2021/06/Web-feature-image.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/invocation-for-hope-3/"
+  },
+  {
+   "id": "superflux--refuge-for-resurgence",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Refuge for Resurgence",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "fungi",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A banquet table set for fourteen species (fox, rat, wasp, pigeon, cow, human adults and child, wild boar, snake, beaver, wolf, raven and mushroom) in a ruined, post-collapse interior, shown at the Venice Architecture Biennale 2021.",
+   "description_zh": "2021 年威尼斯建筑双年展上的一张宴会桌，设在一处崩溃后的室内废墟里，为十四种生命摆好了座位：狐狸、老鼠、黄蜂、鸽子、牛、成人与孩子、野猪、蛇、河狸、狼、渡鸦和蘑菇。",
+   "idea_en": "Give every species a seat, a plate and cutlery shaped to its body, and ask who we share the table with.",
+   "idea_zh": "给每个物种一个座位、一只盘子和按它身体形状设计的餐具，问问我们在和谁同桌。",
+   "method": "A hand-carved table and species-specific tableware designed from each animal's anatomy and diet, placed in a post-collapse set.",
+   "method_zh": "手工雕刻的长桌和按每种动物身体结构与食性设计的专属餐具，被放置在一个崩溃后的场景中。",
+   "keywords": [
+    "Venice Architecture Biennale",
+    "banquet",
+    "CreaTures",
+    "multispecies commons"
+   ],
+   "video": {
+    "url": "https://vimeo.com/641995934"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2021/06/Web-Hero-V2-1024x683.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/refuge-for-resurgence/"
+  },
+  {
+   "id": "superflux--ecological-intelligence-agency",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "The Ecological Intelligence Agency",
+   "year": 2023,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A speculative AI agency, made for the UK Policy Lab and Defra, that speaks on behalf of a river in water-policy decisions, shown through films of flooding, pollution and sewage scenarios.",
+   "description_zh": "为英国 Policy Lab 与环境、食品和农村事务部（Defra）设计的一个思辨性 AI 机构，在水政策决策中代表河流发言，通过洪水、污染和污水等情景短片呈现。",
+   "idea_en": "Imagine an AI whose client is a river, not a person, and design the meetings it would attend.",
+   "idea_zh": "设想一个 AI 的委托人是一条河而不是一个人，然后设计它会去参加的会议。",
+   "method": "Scenario films and a mock policy workshop built on river-sensor data and language models framed as an 'ecological AI' advocate.",
+   "method_zh": "以河流传感数据和语言模型为基础的情景短片与模拟政策工作坊，把 AI 设定为“生态 AI”代言人。",
+   "keywords": [
+    "ecological AI",
+    "rivers",
+    "policy design",
+    "Defra",
+    "Policy Lab"
+   ],
+   "video": {
+    "url": "https://vimeo.com/855500602"
+   },
+   "images": [
+    "https://superflux.in/wp-content/uploads/2023/08/PolicyLab2023_CropHero-1024x683.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/the-ecological-intelligence-agency/"
+  },
+  {
+   "id": "superflux--nobody-told-me-rivers-dream",
+   "creator_ids": [
+    "superflux"
+   ],
+   "title": "Nobody Told Me Rivers Dream",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Three handcrafted sensor sculptures listen to birdsong, tidal flow and sky along the River Thames; an AI trained on this data and on folklore and Indigenous ecological knowledge offers visitors poetic prompts about the river.",
+   "description_zh": "三件手工制作的传感雕塑在泰晤士河边倾听鸟鸣、潮汐和天空；一个用这些数据以及民间传说和原住民生态知识训练的 AI，向观众提出关于河流的诗意问题。",
+   "idea_en": "Use AI to deepen human attention to a river, not to extract from it.",
+   "idea_zh": "用 AI 加深人对一条河的注意，而不是从河里索取。",
+   "method": "Open-source sensors for bird calls, water flow and weather feed large language models on a GPU unit with an LED display.",
+   "method_zh": "识别鸟鸣、水流和天气的开源传感器，把数据送入带 GPU 和 LED 显示屏的装置中的大语言模型。",
+   "keywords": [
+    "Design Museum",
+    "More than Human",
+    "River Thames",
+    "ecological AI",
+    "sensors"
+   ],
+   "images": [
+    "https://superflux.in/wp-content/uploads/2025/08/Wide-Combine-ALL-ARTEFACTS-00.2-scaled.jpg"
+   ],
+   "source_url": "https://superflux.in/index.php/work/nobody-told-me-rivers-dream/"
+  },
+  {
+   "id": "chris-woebken--animal-superpowers",
+   "creator_ids": [
+    "chris-woebken",
+    "kenichi-okada"
+   ],
+   "title": "Animal Superpowers",
+   "year": 2007,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "insects",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A series of wearable devices that let children experience animal senses: an 'ant' device magnifies what the hands touch fifty times, a 'bird' device senses magnetic north, and a 'giraffe' device raises the eyes to an adult's height.",
+   "description_zh": "一组让孩子体验动物感官的可穿戴装置：“蚂蚁”装置把手触摸到的东西放大五十倍，“鸟”装置感知磁北，“长颈鹿”装置把眼睛抬到成人的高度。",
+   "idea_en": "Design prosthetics that let people borrow another species' way of perceiving.",
+   "idea_zh": "设计让人借用其他物种感知方式的“义肢”。",
+   "method": "Handheld microscope cameras feeding goggles, a compass-driven vibration hat and a periscope helmet, prototyped at the Royal College of Art.",
+   "method_zh": "在皇家艺术学院制作的原型：连接护目镜的手持显微摄像头、由指南针驱动的震动帽和潜望镜头盔。",
+   "keywords": [
+    "Umwelt",
+    "wearables",
+    "Design Interactions",
+    "Royal College of Art",
+    "children"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=L9oTcez2CXU"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg"
+   ],
+   "source_url": "https://www.chriswoebken.com/animal-superpowers"
+  },
+  {
+   "id": "terra0--self-owning-forest",
+   "creator_ids": [
+    "terra0"
+   ],
+   "title": "terra0: A Self-Owning Augmented Forest",
+   "year": 2016,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A whitepaper and prototype for a forest that owns itself: sensors and smart contracts let it sell logging licences for its own trees, accumulate capital and eventually buy the land it stands on.",
+   "description_zh": "一份白皮书和原型，设想一片拥有自己的森林：传感器和智能合约让它出售自己树木的采伐许可、积累资本，最终买下脚下的土地。",
+   "idea_en": "Give an ecosystem an economic agency and see what legal and ethical questions appear.",
+   "idea_zh": "赋予一个生态系统经济能动性，看看会出现哪些法律和伦理问题。",
+   "method": "Ethereum smart contracts linked to satellite and sensor data about tree growth, acting as an automated owner and seller.",
+   "method_zh": "与树木生长的卫星和传感数据相连的以太坊智能合约，扮演自动化的所有者和卖家。",
+   "keywords": [
+    "blockchain",
+    "Ethereum",
+    "DAO",
+    "self-ownership",
+    "forest"
+   ],
+   "images": [
+    "https://www.terra0.org/prev.png"
+   ],
+   "source_url": "https://www.terra0.org/"
+  },
+  {
+   "id": "primavera-de-filippi--plantoid",
+   "creator_ids": [
+    "primavera-de-filippi"
+   ],
+   "title": "Plantoid",
+   "year": 2015,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A metal flower-like sculpture connected to a blockchain that asks for cryptocurrency donations; when it has enough, it commissions artists to build its next offspring, chosen by its donors.",
+   "description_zh": "一件金属花形雕塑，与区块链相连并请求加密货币捐赠；筹够后它会委托艺术家制作下一代，由捐赠者投票决定。",
+   "idea_en": "Treat an artwork as a life form that funds and reproduces itself through code.",
+   "idea_zh": "把一件艺术品当作靠代码自我筹资、自我繁殖的生命形式。",
+   "method": "A smart contract holds the plantoid's wallet, runs donor voting and pays the artists who build the next generation.",
+   "method_zh": "智能合约掌管 Plantoid 的钱包，组织捐赠者投票，并付钱给制作下一代的艺术家。",
+   "keywords": [
+    "blockchain",
+    "DAO",
+    "okhaos",
+    "artificial life",
+    "self-reproduction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5gMbhCgHGjY"
+   },
+   "source_url": "https://plantoid.org/"
+  },
+  {
+   "id": "forensic-architecture--ecocide-in-indonesia",
+   "creator_ids": [
+    "forensic-architecture"
+   ],
+   "title": "Ecocide in Indonesia",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "An investigation, with Greenpeace International, into how rainforest in Papua was cleared by fire for palm-oil plantations, reconstructing the fires from satellite imagery, heat data and smoke plumes.",
+   "description_zh": "与绿色和平国际合作的一项调查，研究巴布亚的雨林如何被放火清除以开辟棕榈油种植园，并利用卫星影像、热点数据和烟羽重建火灾过程。",
+   "idea_en": "Read a forest's destruction as evidence, with the landscape itself as witness.",
+   "idea_zh": "把森林的毁灭当作证据来读，让地景本身成为证人。",
+   "method": "Satellite image analysis, fire hotspot data and smoke-plume modelling combined into a spatial timeline of land clearing.",
+   "method_zh": "把卫星影像分析、火点数据和烟羽模拟整合成土地清除的空间时间线。",
+   "keywords": [
+    "ecocide",
+    "Papua",
+    "palm oil",
+    "satellite imagery",
+    "Greenpeace"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1wn70zF8IWs"
+   },
+   "source_url": "https://forensic-architecture.org/investigation/ecocide-in-indonesia"
+  },
+  {
+   "id": "andres-jaque--cosmo",
+   "creator_ids": [
+    "andres-jaque"
+   ],
+   "title": "COSMO",
+   "year": 2015,
+   "field": "mth",
+   "sub": "ecological",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A movable water-purifying artefact for the MoMA PS1 courtyard: a web of pipes, tanks and plants that filters 3,000 gallons of water in four days and glows when the water is clean.",
+   "description_zh": "为 MoMA PS1 庭院设计的可移动净水装置：由管道、水箱和植物组成的网络，四天内过滤 3000 加仑水，水变干净时会发光。",
+   "idea_en": "Make the invisible ecology of urban water visible, and design architecture as a working part of it.",
+   "idea_zh": "让城市用水中看不见的生态变得可见，并把建筑设计成这个生态的一部分。",
+   "method": "Constructed wetlands, plant roots and microbial biofilms clean the water in stages; the structure is built from irrigation parts.",
+   "method_zh": "人工湿地、植物根系和微生物膜分阶段净化水，结构由灌溉配件搭成。",
+   "keywords": [
+    "MoMA PS1",
+    "Young Architects Program",
+    "water purification",
+    "Office for Political Innovation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1QrRBSxUoJU"
+   },
+   "source_url": "https://www.moma.org/calendar/exhibitions/1507"
+  },
+  {
+   "id": "bruno-latour--critical-zones",
+   "creator_ids": [
+    "bruno-latour",
+    "zkm-karlsruhe"
+   ],
+   "title": "Critical Zones: Observatories for Earthly Politics",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A 'thought exhibition' at ZKM Karlsruhe, curated by Bruno Latour and Peter Weibel, on the thin layer of the Earth shaped by life, combining scientific observatories and artworks, with a digital exhibition opened during the pandemic.",
+   "description_zh": "由 Bruno Latour 和 Peter Weibel 在卡尔斯鲁厄 ZKM 策划的一场“思想展览”，关注地表被生命塑造的那一薄层，把科学观测站和艺术作品放在一起，疫情期间还开放了线上展览。",
+   "idea_en": "Curate an exhibition as a way to land on Earth: show the soil, water and life that make politics possible.",
+   "idea_zh": "把展览当作“降落地球”的方法：展示让政治成为可能的土壤、水和生命。",
+   "method": "Scientific critical-zone observatories, artworks and a web platform arranged as an argument about Gaia and earthly politics.",
+   "method_zh": "把关键带科学观测站、艺术作品和网络平台组织成一个关于盖娅与地球政治的论证。",
+   "keywords": [
+    "Critical Zone",
+    "Gaia",
+    "thought exhibition",
+    "ZKM",
+    "Peter Weibel"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CXC7ZMK2QKU"
+   },
+   "images": [
+    "https://critical-zones.zkm.de/images/og-image.jpg"
+   ],
+   "source_url": "https://zkm.de/en/exhibition/2020/05/critical-zones"
+  },
+  {
+   "id": "embassy-of-the-north-sea--embassy",
+   "creator_ids": [
+    "embassy-of-the-north-sea"
+   ],
+   "title": "Embassy of the North Sea",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A long-term institution that represents the North Sea and its life as a political subject, planned in stages to 2030: first listening to the sea, then speaking with it, then negotiating on its behalf, through exhibitions, moot courts and assemblies.",
+   "description_zh": "一个把北海及其中的生命作为政治主体来代表的长期机构，分阶段规划到 2030 年：先倾听大海，再与之对话，最后代表它谈判，形式包括展览、模拟法庭和公民大会。",
+   "idea_en": "Design an embassy for a sea, and let the process of learning to listen be the design.",
+   "idea_zh": "为一片海设计一座大使馆，让“学会倾听”的过程本身成为设计。",
+   "method": "Artistic field research, underwater sound recording and legal experiments such as moot courts with lawyers, scientists and fishers.",
+   "method_zh": "艺术田野研究、水下录音，以及与律师、科学家和渔民一起进行的模拟法庭等法律实验。",
+   "keywords": [
+    "rights of nature",
+    "North Sea",
+    "legal personhood",
+    "listening",
+    "Parliament of Things"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=rRRsMZAZbUM"
+   },
+   "images": [
+    "https://embassyofthenorthsea.com/wp-content/uploads/2019/05/Noordzeeslak-blauw.jpg"
+   ],
+   "source_url": "https://www.embassyofthenorthsea.com/"
+  },
+  {
+   "id": "het-nieuwe-instituut--zoop",
+   "creator_ids": [
+    "het-nieuwe-instituut"
+   ],
+   "title": "Zoöp",
+   "year": 2018,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "An organisational model in which human and nonhuman life cooperate: a Zoöp gives a 'Speaker for the Living' a voice in the organisation's decisions and commits to improving the ecological health of its site.",
+   "description_zh": "一种让人类与非人类生命合作的组织模型：Zoöp 让一位“生命代言人”参与组织决策，并承诺改善所在场地的生态健康。",
+   "idea_en": "Put nonhuman interests into an organisation's governance, like a cooperative that also includes other species.",
+   "idea_zh": "把非人类的利益写进组织治理，就像一个也包括其他物种的合作社。",
+   "method": "Legal and organisational design: a Zoönomic Foundation certifies organisations, which appoint a speaker and follow an ecological regeneration plan.",
+   "method_zh": "法律与组织设计：由 Zoönomic Foundation 认证组织，组织任命代言人并执行生态恢复计划。",
+   "keywords": [
+    "zoöperation",
+    "governance",
+    "rights of nature",
+    "Klaas Kuitenbrouwer",
+    "Speaker for the Living"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=4MglYTfRBOI"
+   },
+   "images": [
+    "https://cmsfiles.nieuweinstituut.nl/DSC_7051_header_a2b85bc97a.jpg"
+   ],
+   "source_url": "https://zoop.hetnieuweinstituut.nl/en"
+  },
+  {
+   "id": "anna-tsing--feral-atlas",
+   "creator_ids": [
+    "anna-tsing",
+    "feifei-zhou"
+   ],
+   "title": "Feral Atlas: The More-Than-Human Anthropocene",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "bacteria"
+   ],
+   "kind": "publication",
+   "description": "A digital, open-access atlas edited by Anna Tsing, Jennifer Deger, Alder Keleman Saxena and Feifei Zhou, with 79 field reports on the 'feral' ecologies that grow around human infrastructure, from pathogens to invasive species.",
+   "description_zh": "由 Anna Tsing、Jennifer Deger、Alder Keleman Saxena 和 Feifei Zhou 编辑的开放数字地图集，收录 79 篇田野报告，讲述在人类基础设施周围生长的“野性”生态，从病原体到入侵物种。",
+   "idea_en": "Map the Anthropocene through nonhuman stories that escape human plans.",
+   "idea_zh": "通过逃离人类计划的非人类故事来绘制人类世。",
+   "method": "Illustrated interactive web publication linking field reports by scientists, humanists and artists through infrastructure types.",
+   "method_zh": "一部有插画的交互式网络出版物，按基础设施类型串联科学家、人文学者和艺术家的田野报告。",
+   "keywords": [
+    "feral ecologies",
+    "Anthropocene",
+    "Stanford University Press",
+    "infrastructure",
+    "multispecies ethnography"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vVMrLLLU630"
+   },
+   "images": [
+    "https://feralatlas.org/build/sup/assets/img/jpg/fa.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21627/2020fa",
+    "doi": "10.21627/2020fa",
+    "arxiv": "",
+    "venue": "Stanford University Press"
+   },
+   "source_url": "https://feralatlas.org/"
+  },
+  {
+   "id": "natalie-jeremijenko--amphibious-architecture",
+   "creator_ids": [
+    "natalie-jeremijenko",
+    "the-living"
+   ],
+   "title": "Amphibious Architecture",
+   "year": 2009,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Floating tubes in New York's East River and Bronx River sense water quality and fish presence and light up above the surface; people can also text the fish and get replies about conditions below.",
+   "description_zh": "漂浮在纽约东河和布朗克斯河上的灯管感知水质和鱼的出没，并在水面上亮起不同颜色；人们还可以给鱼发短信，收到关于水下状况的回复。",
+   "idea_en": "Make the life under a city's river visible and addressable, so people can talk with fish.",
+   "idea_zh": "让城市河流下的生命变得可见、可联系，让人可以和鱼“对话”。",
+   "method": "Two networks of sensor-equipped buoyant tubes (water quality, fish detection) drive LED lights and an SMS interface; with David Benjamin and Soo-in Yang of The Living.",
+   "method_zh": "两组装有传感器（水质、鱼类探测）的浮管驱动 LED 灯光和短信界面；与 The Living 的 David Benjamin 和 Soo-in Yang 合作。",
+   "keywords": [
+    "Toward the Sentient City",
+    "Architectural League",
+    "East River",
+    "fish",
+    "SMS"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tE8gsMUguLY"
+   },
+   "source_url": "http://urbanomnibus.net/2009/09/toward-the-sentient-city-interviews/"
+  },
+  {
+   "id": "natalie-jeremijenko--tree-logic",
+   "creator_ids": [
+    "natalie-jeremijenko"
+   ],
+   "title": "Tree Logic",
+   "year": 1999,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Six living trees hang upside down from a frame at MASS MoCA and slowly bend their growth back towards the light over the years.",
+   "description_zh": "六棵活树倒挂在 MASS MoCA 的框架上，多年里慢慢把生长方向重新转向光。",
+   "idea_en": "Let a tree's own growth logic, not human design, shape the artwork over time.",
+   "idea_zh": "让树自己的生长逻辑而不是人的设计，随时间塑造作品。",
+   "method": "Trees suspended in planters on a steel structure, cared for as a long-duration installation; later replaced with new trees.",
+   "method_zh": "把种在花盆里的树悬挂在钢结构上，作为长期装置照料，后来又换上新树。",
+   "keywords": [
+    "MASS MoCA",
+    "phototropism",
+    "living installation",
+    "trees"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xESM4aX5LYc"
+   },
+   "source_url": "https://massmoca.org/"
+  },
+  {
+   "id": "beatriz-da-costa--pigeonblog",
+   "creator_ids": [
+    "beatriz-da-costa"
+   ],
+   "title": "PigeonBlog",
+   "year": 2006,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Homing pigeons carried small backpacks with air-pollution sensors, GPS and a phone over Southern California, posting real-time pollution readings to an online map.",
+   "description_zh": "信鸽背着装有空气污染传感器、GPS 和手机模块的小背包飞越南加州，把实时污染读数发布到在线地图上。",
+   "idea_en": "Work with animals as partners in grassroots environmental sensing.",
+   "idea_zh": "把动物当作基层环境监测的合作者。",
+   "method": "Custom lightweight backpacks with CO and NOx sensors, GPS and GSM transmitting to a blog-style map.",
+   "method_zh": "定制的轻型背包，内含一氧化碳和氮氧化物传感器、GPS 和 GSM 模块，把数据发送到博客式地图。",
+   "keywords": [
+    "pigeons",
+    "air pollution",
+    "citizen science",
+    "tactical media",
+    "Cina Hazegh"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=XXNh5dKIh18"
+   },
+   "source_url": ""
+  },
+  {
+   "id": "interspecies-internet--interspecies-internet",
+   "creator_ids": [
+    "interspecies-internet"
+   ],
+   "title": "The Interspecies Internet",
+   "year": 2013,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "Diana Reiss, Peter Gabriel, Neil Gershenfeld and Vint Cerf proposed at TED 2013 an internet that includes other intelligent species, starting with touch-screen and sound interfaces for dolphins, apes and elephants.",
+   "description_zh": "Diana Reiss、Peter Gabriel、Neil Gershenfeld 和 Vint Cerf 在 2013 年 TED 上提出一个包括其他智慧物种的互联网，从为海豚、猿和大象设计的触屏和声音界面开始。",
+   "idea_en": "Think of interspecies communication as networking: design channels, not only translations.",
+   "idea_zh": "把跨物种交流当作组网来思考：设计通道，而不仅是翻译。",
+   "method": "Talk and demonstrations of animal-operated interfaces (a dolphin touchscreen, bonobo keyboards, remote music with apes), later a think tank.",
+   "method_zh": "演讲并展示动物操作的界面（海豚触屏、倭黑猩猩键盘、与猿远程合奏音乐），之后发展为一个智库。",
+   "keywords": [
+    "TED",
+    "dolphins",
+    "bonobos",
+    "Diana Reiss",
+    "Peter Gabriel",
+    "Vint Cerf"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wGMLhaa98GI"
+   },
+   "images": [
+    "http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w"
+   ],
+   "source_url": "https://www.interspecies.io/"
+  },
+  {
+   "id": "earth-species-project--naturelm-audio",
+   "creator_ids": [
+    "earth-species-project"
+   ],
+   "title": "NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An open audio-language model that can be asked questions about animal sounds, such as which species is calling or what kind of call it is, and that generalises to species it was not trained on.",
+   "description_zh": "一个开放的音频-语言模型，可以就动物声音提问，比如是哪个物种在叫、属于哪种叫声，并能推广到训练中没见过的物种。",
+   "idea_en": "Turn animal sound analysis into a conversation with a model anyone can query.",
+   "idea_zh": "把动物声音分析变成任何人都能提问的对话。",
+   "method": "A large language model paired with an audio encoder, trained on bioacoustic, speech and music data with text prompts.",
+   "method_zh": "把音频编码器与大语言模型结合，用生物声学、语音和音乐数据及文本提示进行训练。",
+   "keywords": [
+    "bioacoustics",
+    "foundation model",
+    "animal communication",
+    "machine learning"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z4smEsWqNnk"
+   },
+   "images": [
+    "https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/2411.07186",
+    "doi": "",
+    "arxiv": "2411.07186",
+    "venue": "arXiv 2024"
+   },
+   "source_url": "https://www.earthspecies.org/"
+  },
+  {
+   "id": "project-ceti--project-ceti",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Project CETI",
+   "year": 2020,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A long-term programme off Dominica that records sperm whales with hydrophone arrays, tags and drones and uses machine learning to find structure in their clicking codas.",
+   "description_zh": "在多米尼克海域开展的长期项目，用水听器阵列、标签和无人机记录抹香鲸，并用机器学习寻找它们“咔哒”声韵律（coda）中的结构。",
+   "idea_en": "Build the listening infrastructure first: to understand another species you need years of context-rich recordings.",
+   "idea_zh": "先建倾听的基础设施：要理解另一个物种，需要多年带情境的录音。",
+   "method": "Moored and floating hydrophones, soft robotic suction tags, aerial drones and deep learning on coda sequences.",
+   "method_zh": "锚定和漂浮的水听器、软体机器人吸附标签、航拍无人机，以及对 coda 序列的深度学习。",
+   "keywords": [
+    "sperm whales",
+    "Dominica",
+    "bioacoustics",
+    "machine learning",
+    "David Gruber"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Qm02X0aE8uU"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.isci.2022.104393",
+    "doi": "10.1016/j.isci.2022.104393",
+    "arxiv": "",
+    "venue": "iScience 2022"
+   },
+   "source_url": "https://www.projectceti.org/"
+  },
+  {
+   "id": "project-ceti--sperm-whale-phonetic-alphabet",
+   "creator_ids": [
+    "project-ceti"
+   ],
+   "title": "Contextual and combinatorial structure in sperm whale vocalisations",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Analysing about 9,000 codas from Eastern Caribbean sperm whales, the team found that rhythm, tempo, 'rubato' and 'ornamentation' combine into a large, structured set of calls, a so-called sperm whale phonetic alphabet.",
+   "description_zh": "研究团队分析了东加勒比海抹香鲸约 9000 个 coda，发现节奏、速度、“弹性速度”和“装饰音”组合成一个庞大而有结构的叫声集合，被称为抹香鲸的“语音字母表”。",
+   "idea_en": "Look for combinatorial structure in nonhuman signals instead of mapping them onto human words.",
+   "idea_zh": "在非人类信号中寻找组合结构，而不是把它们对应到人类词汇上。",
+   "method": "Statistical and visual analysis of coda timing recorded by the Dominica Sperm Whale Project across social contexts.",
+   "method_zh": "对多米尼克抹香鲸项目在不同社交情境下记录的 coda 时间结构进行统计和可视化分析。",
+   "keywords": [
+    "sperm whales",
+    "codas",
+    "phonetic alphabet",
+    "Nature Communications"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5N60yrXdgUM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1038/s41467-024-47221-8",
+    "doi": "10.1038/s41467-024-47221-8",
+    "arxiv": "",
+    "venue": "Nature Communications 2024"
+   },
+   "source_url": "https://www.projectceti.org/"
+  },
+  {
+   "id": "wild-me--wildbook",
+   "creator_ids": [
+    "wild-me"
+   ],
+   "title": "Wildbook",
+   "year": 2017,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "An open-source platform that identifies individual whales, zebras, whale sharks and other animals from photos by their unique patterns, and builds a life history for each one from researchers' and the public's images.",
+   "description_zh": "一个开源平台，根据独特花纹从照片中识别鲸、斑马、鲸鲨等动物个体，并用研究者和公众的照片为每一只建立生活史。",
+   "idea_en": "Treat each wild animal as an individual with its own record, not just a count.",
+   "idea_zh": "把每一只野生动物当作有自己档案的个体，而不只是一个数字。",
+   "method": "Computer vision for individual identification (fin, stripe and spot patterns) combined with crowdsourced images and a research database.",
+   "method_zh": "用计算机视觉识别个体（鳍、条纹和斑点花纹），结合众包图片和研究数据库。",
+   "keywords": [
+    "individual identification",
+    "computer vision",
+    "citizen science",
+    "whale sharks",
+    "zebras"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=JDYI9PT07Js"
+   },
+   "images": [
+    "https://www.wildme.org/assets/social-card.jpg"
+   ],
+   "paper": {
+    "url": "https://arxiv.org/abs/1710.08880",
+    "doi": "",
+    "arxiv": "1710.08880",
+    "venue": "arXiv 2017"
+   },
+   "source_url": "https://www.wildme.org/"
+  },
+  {
+   "id": "rainforest-connection--guardian",
+   "creator_ids": [
+    "rainforest-connection"
+   ],
+   "title": "Rainforest Connection Guardian",
+   "year": 2014,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "product",
+   "description": "Recycled smartphones with solar panels are hung high in rainforest trees to listen continuously; when they hear chainsaws or trucks, rangers receive alerts, and the recordings also track wildlife.",
+   "description_zh": "带太阳能板的回收智能手机被挂在雨林高处的树上持续监听；一旦听到电锯或卡车声，护林员就会收到警报，录音还可用来追踪野生动物。",
+   "idea_en": "Give a forest ears and a phone line so it can report harm in real time.",
+   "idea_zh": "给森林装上耳朵和电话线，让它能实时报告伤害。",
+   "method": "Solar-powered Android 'Guardian' devices stream audio over mobile networks to cloud models that detect illegal logging and species calls.",
+   "method_zh": "太阳能驱动的 Android“Guardian”设备通过移动网络把音频传到云端模型，检测非法采伐和物种叫声。",
+   "keywords": [
+    "acoustic monitoring",
+    "illegal logging",
+    "upcycled phones",
+    "Topher White",
+    "TED"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xPK2Ch90xWo"
+   },
+   "images": [
+    "https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png"
+   ],
+   "source_url": "https://rfcx.org/"
+  },
+  {
+   "id": "city-of-melbourne--tree-emails",
+   "creator_ids": [
+    "city-of-melbourne"
+   ],
+   "title": "Melbourne Urban Forest Visual: Trees with Email Addresses",
+   "year": 2013,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Every public tree in Melbourne was given an ID and an email address on an open map so residents could report problems; instead, thousands of people wrote love letters, questions and jokes to individual trees.",
+   "description_zh": "墨尔本的每棵公共树木都在一张开放地图上获得了编号和邮箱地址，本意是方便居民报告问题；结果成千上万的人给一棵棵树写情书、提问题、开玩笑。",
+   "idea_en": "A simple address for a nonhuman can change how people relate to it.",
+   "idea_zh": "给非人类一个简单的地址，就能改变人与它的关系。",
+   "method": "An open-data tree map (species, age, life expectancy) where each tree links to a council email inbox.",
+   "method_zh": "一张开放数据树木地图（物种、树龄、预期寿命），每棵树都链接到市政府的一个邮箱。",
+   "keywords": [
+    "urban forest",
+    "open data",
+    "email",
+    "Melbourne",
+    "trees"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r4BtdFgVGjc"
+   },
+   "source_url": "http://melbourneurbanforestvisual.com.au"
+  },
+  {
+   "id": "nonhuman-nonsense--planetary-personhood",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Planetary Personhood",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A campaign and 'Universal Declaration of Martian Rights' proposing legal personhood for the planet Mars before humans arrive, including solidarity with Martian stones.",
+   "description_zh": "一场运动和一份《火星权利普遍宣言》，提议在人类抵达火星之前赋予整个火星法律人格，并主张与火星上的石头团结。",
+   "idea_en": "Extend rights-of-nature thinking to nonlife, and question biocentrism itself.",
+   "idea_zh": "把自然权利的思路延伸到非生命，并质疑“以生命为中心”本身。",
+   "method": "A declaration, films, public talks and a campaign website, launched at Dutch Design Week.",
+   "method_zh": "由宣言、影片、公开讲座和运动网站构成，在荷兰设计周发布。",
+   "keywords": [
+    "Mars",
+    "rights of nature",
+    "space colonisation",
+    "legal personhood",
+    "Dutch Design Week"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Aidzo97dydw"
+   },
+   "images": [
+    "https://planetarypersonhood.com/planetary-personhood.webp"
+   ],
+   "source_url": "https://planetarypersonhood.com/"
+  },
+  {
+   "id": "paulo-tavares--trees-vines-palms",
+   "creator_ids": [
+    "paulo-tavares"
+   ],
+   "title": "Trees, Vines, Palms and Other Architectural Monuments",
+   "year": 2019,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation for the Chicago Architecture Biennial 2019 arguing that parts of the Amazon forest are designed landscapes, shaped by Indigenous peoples over centuries, and should be protected as architectural heritage.",
+   "description_zh": "为 2019 年芝加哥建筑双年展创作的装置，论证亚马逊森林的一部分是原住民数百年塑造的设计景观，应当作为建筑遗产受到保护。",
+   "idea_en": "Read a forest as architecture made with plants, and use heritage law to defend it.",
+   "idea_zh": "把森林当作与植物一起建成的建筑来读，并用遗产法来保护它。",
+   "method": "Forensic mapping of anthropogenic soils and plant distributions, with drawings and documents presented as a heritage dossier.",
+   "method_zh": "对人为土壤和植物分布进行取证式制图，并把图纸和文件整理成一份遗产档案展出。",
+   "keywords": [
+    "Amazon",
+    "Indigenous landscapes",
+    "Chicago Architecture Biennial",
+    "heritage",
+    "forest"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QgasLW7EbJs"
+   },
+   "source_url": ""
+  },
+  {
+   "id": "stefan-kahl--birdnet",
+   "creator_ids": [
+    "stefan-kahl",
+    "cornell-lab-of-ornithology"
+   ],
+   "title": "BirdNET: A deep learning solution for avian diversity monitoring",
+   "year": 2021,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A neural network that recognises close to a thousand North American and European bird species from sound, released as a free app and open analyser used for large-scale acoustic monitoring.",
+   "description_zh": "一个能从声音中识别近千种北美和欧洲鸟类的神经网络，以免费应用和开放分析工具发布，用于大规模声学监测。",
+   "idea_en": "Let anyone, and any recorder left in a forest, listen for which birds are present.",
+   "idea_zh": "让任何人以及留在森林里的任何录音机，都能听出哪些鸟在场。",
+   "method": "A ResNet-based convolutional network trained on spectrograms of labelled bird recordings.",
+   "method_zh": "基于 ResNet 的卷积网络，在已标注鸟类录音的声谱图上训练。",
+   "keywords": [
+    "bioacoustics",
+    "birdsong",
+    "deep learning",
+    "citizen science",
+    "TU Chemnitz"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=w8lMxzskWx4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ecoinf.2021.101236",
+    "doi": "10.1016/j.ecoinf.2021.101236",
+    "arxiv": "",
+    "venue": "Ecological Informatics 2021"
+   },
+   "source_url": "https://birdnet.cornell.edu/"
+  },
+  {
+   "id": "cornell-lab-of-ornithology--merlin-sound-id",
+   "creator_ids": [
+    "cornell-lab-of-ornithology"
+   ],
+   "title": "Merlin Sound ID",
+   "year": 2021,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A feature of the free Merlin Bird ID app that listens through the phone microphone and shows, in real time, which birds are singing around you.",
+   "description_zh": "免费应用 Merlin Bird ID 的一个功能：通过手机麦克风收听，实时显示周围正在鸣唱的是哪些鸟。",
+   "idea_en": "Make the birds you can hear, but not see, legible in the moment.",
+   "idea_zh": "把听得到却看不见的鸟，当场变得可以辨认。",
+   "method": "On-device machine learning on live spectrograms, trained on recordings from the Macaulay Library.",
+   "method_zh": "在手机上对实时声谱图运行机器学习，训练数据来自 Macaulay Library 的录音。",
+   "keywords": [
+    "Merlin Bird ID",
+    "birdsong",
+    "machine learning",
+    "Macaulay Library",
+    "app"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xmSUOLxyatY"
+   },
+   "source_url": "https://merlin.allaboutbirds.org/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Pierre Huyghe — Exomind (Deep Water)",
+   "why": "Living beehive on a concrete figure in a permanent garden at Dazaifu Tenmangu shrine (2017–); image only, could be its own work.",
+   "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/17096-pierre-huyghe-exomind-deep-water-2017ongoing/",
+   "found_via": "pierre-huyghe",
+   "status": "open"
+  },
+  {
+   "name": "Pierre Huyghe — Umwelt (2011, ants and spiders on wall)",
+   "why": "Early gallery work releasing ants and spiders; image available at Esther Schipper.",
+   "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/7048-pierre-huyghe-umwelt-2011/",
+   "found_via": "pierre-huyghe",
+   "status": "open"
+  },
+  {
+   "name": "Tomás Saraceno — Spider/Web Pavilion 7 and Arachnomancy cards",
+   "why": "Venice 2019 web pavilion and a spider-web divination deck; more works on studiotomassaraceno.org.",
+   "link": "https://studiotomassaraceno.org/spiderweb-pavilion-7/",
+   "found_via": "tomas-saraceno",
+   "status": "open"
+  },
+  {
+   "name": "Jenna Sutela — From Hierarchy to Holarchy / Holobiont",
+   "why": "Slime-mould and microbiome works; no verified media found in this pass.",
+   "link": "https://jennasutela.com/",
+   "found_via": "jenna-sutela",
+   "status": "no_media"
+  },
+  {
+   "name": "Sonia Levy — Creatures of the Lines",
+   "why": "Film on London's canal ecosystems (Nottingham Contemporary screening).",
+   "link": "https://www.youtube.com/watch?v=odAqq-XU0ic",
+   "found_via": "sonia-levy",
+   "status": "open"
+  },
+  {
+   "name": "Jakob Kudsk Steensen — Catharsis / Liminal Lands",
+   "why": "Old-growth forest and other ecosystem simulations on the artist site.",
+   "link": "https://jakobsteensen.com/",
+   "found_via": "jakob-kudsk-steensen",
+   "status": "open"
+  },
+  {
+   "name": "Chris Watson",
+   "why": "Wildlife sound recordist and sound artist (Weather Report, Inside the Circle of Fire).",
+   "link": "https://chriswatson.net/",
+   "found_via": "jana-winderen",
+   "status": "open"
+  },
+  {
+   "name": "Leah Barclay",
+   "why": "Sound artist and researcher on acoustic ecology and river listening (River Listening, Biosphere Soundscapes).",
+   "link": "https://leahbarclay.com/",
+   "found_via": "jana-winderen",
+   "status": "open"
+  },
+  {
+   "name": "Robertina Šebjanič",
+   "why": "Artist working with underwater noise and jellyfish (Aurelia 1+Hz, Echoes of the Abyss).",
+   "link": "https://robertina.net/",
+   "found_via": "kuai-shen",
+   "status": "open"
+  },
+  {
+   "name": "World Wilder Lab (Kasia Molga, Erik Overmeire, Ivan Henriques)",
+   "why": "Platform for inter- and intra-species communication founded 2013.",
+   "link": "https://www.studiomolga.com/ABOUT.html",
+   "found_via": "kasia-molga",
+   "status": "open"
+  },
+  {
+   "name": "Sam Cusumano (Electricfeel)",
+   "why": "Built the biodata sonification hardware behind Data Garden Quartet and MIDI Sprout.",
+   "link": "https://www.youtube.com/watch?v=ekV1ngd_9GY",
+   "found_via": "data-garden",
+   "status": "open"
+  },
+  {
+   "name": "Martin Bencsik",
+   "why": "Physicist monitoring honeybee colonies with accelerometers; scientific partner of The Hive.",
+   "link": "https://adventuresinbeeland.com/2017/03/05/middlesex-federation-day-dr-martin-bencsik-monitoring-honeybee-colony-activity-with-accelerometer-sensors/",
+   "found_via": "wolfgang-buttress",
+   "status": "open"
+  },
+  {
+   "name": "Marshmallow Laser Feast — Evolver / Of the Oak",
+   "why": "Later MLF works on breath, bodies and trees not yet added.",
+   "link": "https://marshmallowlaserfeast.com/",
+   "found_via": "marshmallow-laser-feast",
+   "status": "open"
+  },
+  {
+   "name": "Ackroyd & Harvey — Beuys' Acorns",
+   "why": "Oak saplings grown from Joseph Beuys's 7000 Oaks acorns; tree-care as art.",
+   "link": "https://www.ackroydandharvey.com/",
+   "found_via": "ackroyd-harvey",
+   "status": "open"
+  },
+  {
+   "name": "Kuai Shen — Thermotaxis / The Crossing",
+   "why": "Further ant-colony installations (redwood ants in a cooled vessel; rain ants crossing laser barriers).",
+   "link": "https://kuaishen.tv/thermotaxis.html",
+   "found_via": "kuai-shen",
+   "status": "open"
+  },
+  {
+   "name": "Shoaling Upstream (Reality Design Lab)",
+   "why": "Site-specific spatial-audio AR journey on Strawberry Creek, UC Berkeley, where the visitor moves upstream as a shoal of steelhead; repos exist but no public video or images yet.",
+   "link": "https://github.com/realitydeslab/shoaling-upstream-waypoints",
+   "found_via": "seed",
+   "status": "no_media"
+  },
+  {
+   "name": "Revital Cohen & Tuur Van Balen — Sterile (2014)",
+   "why": "Albino goldfish engineered without reproductive organs, made as objects; Vimeo 200047560 on artists' site. Borders bio-art. Now in bio-arch-art as cohen-van-balen--sterile.",
+   "link": "https://www.cohenvanbalen.com/work/sterile",
+   "found_via": "seed",
+   "status": "duplicate"
+  },
+  {
+   "name": "Shimabuku / Julia Lohmann Kelp Council / MOTH (More Than Human Life) — Design Museum 'More than Human' 2025",
+   "why": "Exhibition list is a good source: Kelp Council, rights-of-waterways mural by MOTH (NYU), Alusta Pavilion, Andrés Jaque's Microplanetary Rosette.",
+   "link": "https://designmuseum.org/exhibitions/more-than-human",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "MOTH — More Than Human Life Project (NYU, César Rodríguez-Garavito)",
+   "why": "Rights of nature and more-than-human rights programme with festival and mural; video y6MUjXUnaQg.",
+   "link": "https://mothproject.org",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "Superflux — The Quiet Enchanting (2024)",
+   "why": "Mythic frieze on Bush House, King's College London, about collective re-enchantment with nature; Vimeo 952330021.",
+   "link": "https://superflux.in/index.php/work/the-quiet-enchanting/",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "Superflux — The Vault of Life, Museum of the Future Dubai (2022)",
+   "why": "Biodiversity vault exhibition, Vimeo 718404298.",
+   "link": "https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/",
+   "found_via": "superflux",
+   "status": "open"
+  },
+  {
+   "name": "Natalie Jeremijenko — OOZ, Feral Robotic Dogs, Cross(x)Species Adventure Club, xDrones",
+   "why": "Several more interspecies interfaces; environmentalhealthclinic.net domain now hosts spam, so media must come from museum or press pages.",
+   "link": "https://en.wikipedia.org/wiki/Natalie_Jeremijenko",
+   "found_via": "natalie-jeremijenko",
+   "status": "open"
+  },
+  {
+   "name": "Forensic Architecture — Cloud Studies (2020–21)",
+   "why": "Investigations of toxic clouds and airborne violence; atmosphere as evidence.",
+   "link": "https://forensic-architecture.org/investigation/cloud-studies",
+   "found_via": "forensic-architecture",
+   "status": "open"
+  },
+  {
+   "name": "Andrés Jaque — The Microplanetary Rosette (2025) / Transmaterial works",
+   "why": "Shown in Design Museum More than Human; microbial ecologies as architecture.",
+   "link": "https://designmuseum.org/exhibitions/more-than-human",
+   "found_via": "andres-jaque",
+   "status": "open"
+  },
+  {
+   "name": "Tobias Revell / Agi Haines / Dunne & Raby",
+   "why": "Speculative-design names from the brief; their work is mostly human- or synbio-centred, so nothing clearly nonhuman-oriented was found without web search.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Parliament of Things (Het Nieuwe Instituut / Casco, 2015–)",
+   "why": "Latour-inspired process that led to the Embassy of the North Sea.",
+   "link": "https://theparliamentofthings.org",
+   "found_via": "embassy-of-the-north-sea",
+   "status": "open"
+  },
+  {
+   "name": "Interspecies Internet — Animals in Translation workshops",
+   "why": "Annual convenings linking ESP, CETI and ACI researchers; video qImucxZzzew.",
+   "link": "https://www.interspecies.io/",
+   "found_via": "interspecies-internet",
+   "status": "open"
+  }
+ ]
+}

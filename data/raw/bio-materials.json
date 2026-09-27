@@ -1,0 +1,3543 @@
+{
+ "batch": "bio-materials",
+ "creators": [
+  {
+   "id": "ecovative",
+   "name": "Ecovative",
+   "kind": "company",
+   "role": "Mycelium materials company founded by Eben Bayer and Gavin McIntyre",
+   "based": "Green Island, New York, US",
+   "bio": "Founded in 2007 by Rensselaer Polytechnic Institute graduates Eben Bayer and Gavin McIntyre, Ecovative grows packaging, building materials and food from mycelium and farm waste.",
+   "why": "The company that turned mycelium composites from a student experiment into an industrial material, and licensed the process to designers worldwide.",
+   "links": {
+    "site": "https://ecovative.com/",
+    "youtube": "https://www.youtube.com/@EcovativeDesign"
+   },
+   "role_zh": "由 Eben Bayer 和 Gavin McIntyre 创立的菌丝体材料公司",
+   "based_zh": "美国纽约州格林艾兰",
+   "bio_zh": "Ecovative 由伦斯勒理工学院毕业生 Eben Bayer 和 Gavin McIntyre 于 2007 年创立，用菌丝体和农业废料生长出包装、建材和食品。",
+   "why_zh": "它把菌丝体复合材料从学生实验变成了工业材料，并把生长工艺授权给世界各地的设计师。",
+   "connected_to": [
+    "danielle-trofe",
+    "the-living"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "phil-ross",
+   "name": "Phil Ross",
+   "kind": "person",
+   "role": "Artist and mycologist; co-founder and CTO of MycoWorks",
+   "based": "San Francisco, US",
+   "bio": "Phil Ross has grown sculptures and buildings from Ganoderma (reishi) mycelium since the 1990s and coined the term Mycotecture.",
+   "why": "An artist whose fungal sculptures led directly to MycoWorks and the mycelium leather industry.",
+   "links": {
+    "site": "https://www.mycoworks.com/"
+   },
+   "role_zh": "艺术家、真菌学家；MycoWorks 联合创始人兼首席技术官",
+   "based_zh": "美国旧金山",
+   "bio_zh": "Phil Ross 自 1990 年代起用灵芝（Ganoderma）菌丝体生长雕塑和建筑，并提出了 Mycotecture（菌丝建筑）一词。",
+   "why_zh": "他的真菌雕塑直接催生了 MycoWorks 和菌丝皮革产业。",
+   "connected_to": [
+    "mycoworks"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mycoworks",
+   "name": "MycoWorks",
+   "kind": "company",
+   "role": "Biotechnology company making Fine Mycelium leather-like materials",
+   "based": "Emeryville, California, US",
+   "bio": "Founded in 2013 by Phil Ross, Sophia Wang and Eddie Pavlu, MycoWorks grows sheets of Fine Mycelium that are tanned and finished like leather.",
+   "why": "Brought mycelium into luxury craft, including a collaboration with Hermès.",
+   "links": {
+    "site": "https://www.mycoworks.com/",
+    "youtube": "https://www.youtube.com/@mycoworks"
+   },
+   "role_zh": "生产 Fine Mycelium 类皮革材料的生物技术公司",
+   "based_zh": "美国加州埃默里维尔",
+   "bio_zh": "MycoWorks 由 Phil Ross、Sophia Wang 和 Eddie Pavlu 于 2013 年创立，生长出可以像皮革一样鞣制和整理的 Fine Mycelium 片材。",
+   "why_zh": "把菌丝体带进了奢侈品工艺，包括与 Hermès 的合作。",
+   "connected_to": [
+    "phil-ross"
+   ],
+   "discovered_via": "phil-ross"
+  },
+  {
+   "id": "bolt-threads",
+   "name": "Bolt Threads",
+   "kind": "company",
+   "role": "Materials company behind Microsilk and Mylo",
+   "based": "Emeryville, California, US",
+   "bio": "Bolt Threads develops biobased fibres and materials, including yeast-fermented spider-silk protein (Microsilk) and the mycelium leather Mylo, often with Stella McCartney.",
+   "why": "Showed fashion brands how fermentation and fungal growth can replace animal and petrochemical materials.",
+   "links": {
+    "site": "https://boltthreads.com/",
+    "youtube": "https://www.youtube.com/@boltthreads"
+   },
+   "role_zh": "Microsilk 和 Mylo 背后的材料公司",
+   "based_zh": "美国加州埃默里维尔",
+   "bio_zh": "Bolt Threads 开发生物基纤维和材料，包括用酵母发酵生产的蛛丝蛋白 Microsilk 和菌丝皮革 Mylo，常与 Stella McCartney 合作。",
+   "why_zh": "向时尚品牌展示了发酵和真菌生长如何取代动物材料和石化材料。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mogu",
+   "name": "Mogu",
+   "kind": "company",
+   "role": "Italian company making mycelium interior products",
+   "based": "Inarzo, Varese, Italy",
+   "bio": "Mogu, co-founded in 2015 with designer Maurizio Montalti, grows acoustic panels and floor tiles from fungal mycelium and textile or agricultural residues.",
+   "why": "One of the first companies to put mycelium into certified, commercially sold interior products.",
+   "links": {
+    "site": "https://mogu.bio/",
+    "youtube": "https://www.youtube.com/@mogu_bio"
+   },
+   "role_zh": "生产菌丝体室内产品的意大利公司",
+   "based_zh": "意大利瓦雷泽",
+   "bio_zh": "Mogu 于 2015 年与设计师 Maurizio Montalti 共同创立，用真菌菌丝体和纺织或农业残料生长出吸音板和地砖。",
+   "why_zh": "最早把菌丝体做成通过认证、真正在市场上销售的室内产品的公司之一。",
+   "connected_to": [
+    "maurizio-montalti"
+   ],
+   "discovered_via": "maurizio-montalti"
+  },
+  {
+   "id": "biohm",
+   "name": "Biohm",
+   "kind": "company",
+   "role": "Biomanufacturing company for mycelium building materials",
+   "based": "London, UK",
+   "bio": "Founded by Ehab Sayed in 2016, Biohm makes mycelium insulation panels and Orb, a board material made from food and industrial waste.",
+   "why": "Applies mycelium growth to the thermal performance problem of buildings.",
+   "links": {
+    "site": "https://www.biohm.co.uk/",
+    "youtube": "https://www.youtube.com/@biohm"
+   },
+   "role_zh": "生产菌丝体建材的生物制造公司",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Biohm 由 Ehab Sayed 于 2016 年创立，生产菌丝体保温板和用食品及工业废料制成的板材 Orb。",
+   "why_zh": "把菌丝体生长用于解决建筑的保温问题。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blast-studio",
+   "name": "Blast Studio",
+   "kind": "studio",
+   "role": "Design studio 3D printing with living mycelium",
+   "based": "London, UK",
+   "bio": "Blast Studio, co-founded by Paola Garnousset and Arthur Lee, prints objects and structures from waste streams such as paper cups and lets mycelium grow through them.",
+   "why": "Turned mycelium into a printable material for load-bearing architecture made from city waste.",
+   "links": {
+    "site": "https://www.blast-studio.com/",
+    "youtube": "https://www.youtube.com/@blaststudio"
+   },
+   "role_zh": "用活体菌丝体做 3D 打印的设计工作室",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Blast Studio 由 Paola Garnousset 和 Arthur Lee 共同创立，用纸杯等废料进行打印，再让菌丝体长满打印件。",
+   "why_zh": "把菌丝体变成可打印的材料，用城市垃圾建造承重建筑构件。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "maurizio-montalti",
+   "name": "Maurizio Montalti",
+   "kind": "person",
+   "role": "Designer; founder of Officina Corpuscoli and co-founder of Mogu",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Maurizio Montalti founded the studio Officina Corpuscoli in 2010 and has worked with fungal mycelium and mycologists at Utrecht University for more than a decade.",
+   "why": "A pioneer of designing with fungi, from speculative projects to Mogu's industrial products.",
+   "links": {
+    "site": "https://www.corpuscoli.com/"
+   },
+   "role_zh": "设计师；Officina Corpuscoli 创始人，Mogu 联合创始人",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio_zh": "Maurizio Montalti 于 2010 年创立工作室 Officina Corpuscoli，十多年来与乌得勒支大学的真菌学家一起研究菌丝体。",
+   "why_zh": "与真菌一起设计的先驱，从思辨项目一直做到 Mogu 的工业产品。",
+   "connected_to": [
+    "mogu"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sebastian-cox",
+   "name": "Sebastian Cox",
+   "kind": "person",
+   "role": "Furniture designer and maker",
+   "based": "London and Kent, UK",
+   "bio": "Sebastian Cox designs furniture from coppiced British hardwoods and runs his own woodland.",
+   "why": "Combined woodland craft with mycelium growth to make furniture from wood waste.",
+   "links": {
+    "site": "https://www.sebastiancox.co.uk/"
+   },
+   "role_zh": "家具设计师与制作人",
+   "based_zh": "英国伦敦与肯特",
+   "bio_zh": "Sebastian Cox 用矮林作业的英国硬木设计家具，并经营自己的林地。",
+   "why_zh": "把林地工艺和菌丝体生长结合起来，用木材废料做家具。",
+   "connected_to": [
+    "ninela-ivanova"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ninela-ivanova",
+   "name": "Ninela Ivanova",
+   "kind": "person",
+   "role": "Design researcher and strategist",
+   "based": "London, UK",
+   "bio": "Ninela Ivanova is a design researcher who studies biofabrication and the future of materials.",
+   "why": "Developed the Mycelium + Timber growing method with Sebastian Cox.",
+   "links": {
+    "site": "https://www.ninelaivanova.co.uk/"
+   },
+   "role_zh": "设计研究者与策略师",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Ninela Ivanova 是研究生物制造和材料未来的设计研究者。",
+   "why_zh": "与 Sebastian Cox 一起开发了 Mycelium + Timber 的生长方法。",
+   "connected_to": [
+    "sebastian-cox"
+   ],
+   "discovered_via": "sebastian-cox"
+  },
+  {
+   "id": "jonas-edvard",
+   "name": "Jonas Edvard",
+   "kind": "person",
+   "role": "Material designer",
+   "based": "Copenhagen, Denmark",
+   "bio": "Jonas Edvard is a Danish designer who works with mycelium, seaweed and stone to make lamps, tiles, chairs and shelters.",
+   "why": "Early design work showing mycelium objects that also yield edible mushrooms.",
+   "links": {
+    "site": "https://www.jonasedvard.com/"
+   },
+   "role_zh": "材料设计师",
+   "based_zh": "丹麦哥本哈根",
+   "bio_zh": "Jonas Edvard 是丹麦设计师，用菌丝体、海藻和石头制作灯具、砖、椅子和小屋。",
+   "why_zh": "较早用设计作品展示：菌丝体物件在成形的同时还能长出可食用的蘑菇。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "klarenbeek-dros",
+   "name": "Studio Klarenbeek & Dros",
+   "kind": "studio",
+   "role": "Design studio of Eric Klarenbeek and Maartje Dros",
+   "based": "Zaandam, Netherlands",
+   "bio": "Eric Klarenbeek and Maartje Dros develop grown and biobased materials, from 3D-printed mycelium to algae bioplastics, and local production networks for them.",
+   "why": "Pioneered printing with living mycelium and set up the Algae Lab at Atelier LUMA.",
+   "links": {
+    "site": "https://www.ericklarenbeek.com/",
+    "youtube": "https://www.youtube.com/@klarenbeekdros"
+   },
+   "role_zh": "Eric Klarenbeek 和 Maartje Dros 的设计工作室",
+   "based_zh": "荷兰赞丹",
+   "bio_zh": "Eric Klarenbeek 和 Maartje Dros 开发生长材料和生物基材料，从 3D 打印菌丝体到藻类生物塑料，并为它们建立本地生产网络。",
+   "why_zh": "率先用活菌丝体做打印，并在 Atelier LUMA 建立了藻类实验室。",
+   "connected_to": [
+    "pascal-leboucq"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pascal-leboucq",
+   "name": "Pascal Leboucq",
+   "kind": "person",
+   "role": "Set designer and artist",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Pascal Leboucq is a Dutch set designer who initiated the Growing Pavilion with the organisation Biobased Creations.",
+   "why": "Brought mycelium building panels to a public pavilion at Dutch Design Week.",
+   "links": {
+    "site": "https://thegrowingpavilion.com/"
+   },
+   "role_zh": "舞台设计师与艺术家",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio_zh": "Pascal Leboucq 是荷兰舞台设计师，与 Biobased Creations 一起发起了 Growing Pavilion。",
+   "why_zh": "把菌丝体建筑板材带进了荷兰设计周的公共展亭。",
+   "connected_to": [
+    "klarenbeek-dros"
+   ],
+   "discovered_via": "klarenbeek-dros"
+  },
+  {
+   "id": "danielle-trofe",
+   "name": "Danielle Trofe",
+   "kind": "person",
+   "role": "Designer; founder of MushLume Lighting",
+   "based": "Brooklyn, New York, US",
+   "bio": "Danielle Trofe founded her studio in 2011 and began growing lamp shades from mycelium and hemp in 2014, working with Ecovative.",
+   "why": "Made one of the first commercial lighting collections grown from mycelium.",
+   "links": {
+    "site": "https://danielletrofe.com/"
+   },
+   "role_zh": "设计师；MushLume Lighting 创始人",
+   "based_zh": "美国纽约布鲁克林",
+   "bio_zh": "Danielle Trofe 于 2011 年创立工作室，2014 年开始与 Ecovative 合作，用菌丝体和大麻纤维生长灯罩。",
+   "why_zh": "做出了最早一批商业化的菌丝体灯具系列之一。",
+   "connected_to": [
+    "ecovative"
+   ],
+   "discovered_via": "ecovative"
+  },
+  {
+   "id": "bob-hendrikx",
+   "name": "Bob Hendrikx",
+   "kind": "person",
+   "role": "Designer; founder of Loop Biotech",
+   "based": "Delft, Netherlands",
+   "bio": "Bob Hendrikx studied at TU Delft and founded Loop Biotech with Lonneke Westhoff to grow coffins and urns from mycelium.",
+   "why": "Designs for the end of life, turning burial into a way of feeding soil.",
+   "links": {
+    "site": "https://loop-biotech.com/",
+    "youtube": "https://www.youtube.com/@loopbiotech"
+   },
+   "role_zh": "设计师；Loop Biotech 创始人",
+   "based_zh": "荷兰代尔夫特",
+   "bio_zh": "Bob Hendrikx 毕业于代尔夫特理工大学，与 Lonneke Westhoff 一起创立 Loop Biotech，用菌丝体生长棺木和骨灰盒。",
+   "why_zh": "为生命的终点做设计，让下葬变成滋养土壤的过程。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "dirk-hebel",
+   "name": "Dirk Hebel",
+   "kind": "person",
+   "role": "Professor of Sustainable Construction, Karlsruhe Institute of Technology",
+   "based": "Karlsruhe, Germany",
+   "bio": "Dirk Hebel researches cultivated and recycled building materials, including bamboo composites and mycelium.",
+   "why": "Co-led MycoTree and argues for building materials that are grown rather than mined.",
+   "links": {
+    "site": "https://nb.ieb.kit.edu/"
+   },
+   "role_zh": "卡尔斯鲁厄理工学院可持续建造教授",
+   "based_zh": "德国卡尔斯鲁厄",
+   "bio_zh": "Dirk Hebel 研究种植出来和回收再生的建筑材料，包括竹复合材料和菌丝体。",
+   "why_zh": "共同主持了 MycoTree，主张建材应当是种出来的，而不是挖出来的。",
+   "connected_to": [
+    "block-research-group"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "block-research-group",
+   "name": "Block Research Group",
+   "kind": "lab",
+   "role": "Research group at ETH Zurich led by Philippe Block",
+   "based": "Zurich, Switzerland",
+   "bio": "The Block Research Group studies compression-only structures, shell design and structural form finding.",
+   "why": "Designed the compression-only geometry that let weak mycelium carry loads in MycoTree.",
+   "links": {
+    "site": "https://block.arch.ethz.ch/"
+   },
+   "role_zh": "苏黎世联邦理工学院 Philippe Block 领导的研究组",
+   "based_zh": "瑞士苏黎世",
+   "bio_zh": "Block Research Group 研究纯受压结构、壳体设计和结构找形。",
+   "why_zh": "为 MycoTree 设计了只受压力的几何形态，让强度不高的菌丝体也能承重。",
+   "connected_to": [
+    "dirk-hebel"
+   ],
+   "discovered_via": "dirk-hebel"
+  },
+  {
+   "id": "stacey-kuznetsov",
+   "name": "Stacey Kuznetsov",
+   "kind": "person",
+   "role": "HCI researcher; led the Social and Digital Systems (SANDS) group at Arizona State University",
+   "based": "Tempe, Arizona, US",
+   "bio": "Stacey Kuznetsov researches DIY biology, citizen science and biofabrication in human-computer interaction.",
+   "why": "Her group made mycelium a practical prototyping material for HCI.",
+   "links": {
+    "site": "https://sandsystems.org/"
+   },
+   "role_zh": "人机交互研究者；曾领导亚利桑那州立大学 SANDS 研究组",
+   "based_zh": "美国亚利桑那州坦佩",
+   "bio_zh": "Stacey Kuznetsov 在人机交互领域研究 DIY 生物学、公民科学和生物制造。",
+   "why_zh": "她的研究组让菌丝体成为 HCI 中实用的原型材料。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eldy-lazaro-vasquez",
+   "name": "Eldy S. Lazaro Vasquez",
+   "kind": "person",
+   "role": "Designer and HCI researcher (biomaterials and wearables)",
+   "based": "Boulder, Colorado, US",
+   "bio": "Eldy S. Lazaro Vasquez designs sustainable wearables and prototyping methods with biomaterials such as mycelium and bacterial cellulose.",
+   "why": "Showed how electronics can be embedded in grown, compostable materials.",
+   "links": {},
+   "role_zh": "设计师与人机交互研究者（生物材料与可穿戴）",
+   "based_zh": "美国科罗拉多州博尔德",
+   "bio_zh": "Eldy S. Lazaro Vasquez 用菌丝体、细菌纤维素等生物材料设计可持续的可穿戴设备和原型方法。",
+   "why_zh": "展示了电子元件可以嵌入可生长、可堆肥的材料中。",
+   "connected_to": [
+    "katia-vega"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "katia-vega",
+   "name": "Katia Vega",
+   "kind": "person",
+   "role": "Associate Professor of Design, UC Davis; director of the Interactive Organisms Lab",
+   "based": "Davis, California, US",
+   "bio": "Katia Vega creates beauty technology and interactive wearables, including biosensing tattoos and biomaterial accessories.",
+   "why": "Leads work that joins living and grown materials with wearable electronics.",
+   "links": {
+    "site": "https://www.katiavega.com/"
+   },
+   "role_zh": "加州大学戴维斯分校设计系副教授；Interactive Organisms Lab 负责人",
+   "based_zh": "美国加州戴维斯",
+   "bio_zh": "Katia Vega 创作美妆科技和交互式可穿戴设备，包括生物传感纹身和生物材料饰品。",
+   "why_zh": "带领把活体材料和生长材料与可穿戴电子结合的研究。",
+   "connected_to": [
+    "eldy-lazaro-vasquez"
+   ],
+   "discovered_via": "eldy-lazaro-vasquez"
+  },
+  {
+   "id": "athanassia-athanassiou",
+   "name": "Athanassia Athanassiou",
+   "kind": "person",
+   "role": "Principal Investigator, Smart Materials group, Istituto Italiano di Tecnologia",
+   "based": "Genoa, Italy",
+   "bio": "Athanassia Athanassiou leads research on bio-based and sustainable composite materials at IIT.",
+   "why": "Her group showed how the feeding substrate tunes the properties of pure mycelium materials.",
+   "links": {
+    "site": "https://www.iit.it/"
+   },
+   "role_zh": "意大利技术研究院智能材料组首席研究员",
+   "based_zh": "意大利热那亚",
+   "bio_zh": "Athanassia Athanassiou 在意大利技术研究院（IIT）领导生物基可持续复合材料研究。",
+   "why_zh": "她的团队证明了培养基质可以调节纯菌丝体材料的性能。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "andre-studart",
+   "name": "André R. Studart",
+   "kind": "person",
+   "role": "Professor of Complex Materials, ETH Zurich",
+   "based": "Zurich, Switzerland",
+   "bio": "André Studart designs bioinspired and living materials, including 3D-printed materials that contain bacteria or fungi.",
+   "why": "His lab printed living mycelium hydrogels that keep growing and self-repair.",
+   "links": {
+    "site": "https://complex.mat.ethz.ch/"
+   },
+   "role_zh": "苏黎世联邦理工学院复杂材料教授",
+   "based_zh": "瑞士苏黎世",
+   "bio_zh": "André Studart 设计仿生材料和活体材料，包括含有细菌或真菌的 3D 打印材料。",
+   "why_zh": "他的实验室打印出能继续生长、自我修复的活菌丝体水凝胶。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "suzanne-lee",
+   "name": "Suzanne Lee",
+   "kind": "person",
+   "role": "Designer; founder of BioCouture and Biofabricate",
+   "based": "New York, US",
+   "bio": "Suzanne Lee grew garments from kombucha bacterial cellulose at Central Saint Martins, later founded the Biofabricate conference and was Chief Creative Officer at Modern Meadow.",
+   "why": "Coined much of the language of biofabrication and built the community around it.",
+   "links": {
+    "site": "https://www.biofabricate.co/"
+   },
+   "role_zh": "设计师；BioCouture 与 Biofabricate 创始人",
+   "based_zh": "美国纽约",
+   "bio_zh": "Suzanne Lee 在中央圣马丁学院用康普茶细菌纤维素生长服装，后来创办 Biofabricate 大会，并担任 Modern Meadow 首席创意官。",
+   "why_zh": "生物制造领域的很多说法都出自她，她也搭建了这个领域的社群。",
+   "connected_to": [
+    "modern-meadow"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "modern-meadow",
+   "name": "Modern Meadow",
+   "kind": "company",
+   "role": "Biofabrication company making protein-based materials",
+   "based": "Nutley, New Jersey, US",
+   "bio": "Modern Meadow, founded by Andras Forgacs, develops leather-like materials from proteins produced by fermentation.",
+   "why": "Presented Zoa, the first biofabricated material acquired by MoMA.",
+   "links": {
+    "site": "https://www.modernmeadow.com/"
+   },
+   "role_zh": "生产蛋白质基材料的生物制造公司",
+   "based_zh": "美国新泽西州纳特利",
+   "bio_zh": "Modern Meadow 由 Andras Forgacs 创立，用发酵生产的蛋白质开发类皮革材料。",
+   "why_zh": "推出了 Zoa，第一件被 MoMA 收藏的生物制造材料作品。",
+   "connected_to": [
+    "suzanne-lee"
+   ],
+   "discovered_via": "suzanne-lee"
+  },
+  {
+   "id": "biomason",
+   "name": "Biomason",
+   "kind": "company",
+   "role": "Biocement company founded by Ginger Krieg Dosier",
+   "based": "Durham, North Carolina, US",
+   "bio": "Architect Ginger Krieg Dosier developed a way to grow masonry with bacteria and founded Biomason to make biocement tiles and blocks.",
+   "why": "Showed that bricks can be grown at room temperature instead of fired in kilns.",
+   "links": {
+    "site": "https://biomason.com/"
+   },
+   "role_zh": "由 Ginger Krieg Dosier 创立的生物水泥公司",
+   "based_zh": "美国北卡罗来纳州达勒姆",
+   "bio_zh": "建筑师 Ginger Krieg Dosier 发明了用细菌生长砌块的方法，并创立 Biomason 生产生物水泥瓷砖和砌块。",
+   "why_zh": "证明了砖可以在常温下长出来，而不必进窑烧制。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "wil-srubar",
+   "name": "Wil V. Srubar III",
+   "kind": "person",
+   "role": "Associate Professor, University of Colorado Boulder; co-founder of Prometheus Materials",
+   "based": "Boulder, Colorado, US",
+   "bio": "Wil Srubar leads the Living Materials Laboratory at CU Boulder, researching engineered living building materials and low-carbon cement.",
+   "why": "Made cyanobacteria-grown building materials that can reproduce themselves.",
+   "links": {
+    "site": "https://www.colorado.edu/lab/srubar/"
+   },
+   "role_zh": "科罗拉多大学博尔德分校副教授；Prometheus Materials 联合创始人",
+   "based_zh": "美国科罗拉多州博尔德",
+   "bio_zh": "Wil Srubar 在科罗拉多大学领导 Living Materials Laboratory，研究工程化活体建材和低碳水泥。",
+   "why_zh": "做出了由蓝藻生长、还能自我繁殖的建筑材料。",
+   "connected_to": [
+    "prometheus-materials"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "prometheus-materials",
+   "name": "Prometheus Materials",
+   "kind": "company",
+   "role": "Start-up making microalgae-based biocement",
+   "based": "Longmont, Colorado, US",
+   "bio": "Spun out of CU Boulder, Prometheus Materials makes bio-cement from biomineralising cyanobacteria and has tested masonry blocks with SOM.",
+   "why": "Carries living building material research into commercial concrete products.",
+   "links": {
+    "site": "https://prometheusmaterials.com/"
+   },
+   "role_zh": "生产微藻生物水泥的初创公司",
+   "based_zh": "美国科罗拉多州朗蒙特",
+   "bio_zh": "Prometheus Materials 从科罗拉多大学博尔德分校衍生，用会生物矿化的蓝藻制造生物水泥，并与 SOM 一起测试了砌块。",
+   "why_zh": "把活体建材研究推进到商业化的混凝土产品。",
+   "connected_to": [
+    "wil-srubar"
+   ],
+   "discovered_via": "wil-srubar"
+  },
+  {
+   "id": "henk-jonkers",
+   "name": "Henk Jonkers",
+   "kind": "person",
+   "role": "Professor of Sustainable Building Materials, TU Delft",
+   "based": "Delft, Netherlands",
+   "bio": "Microbiologist Henk Jonkers developed bacteria-based self-healing concrete, commercialised by the spin-off Basilisk.",
+   "why": "Made concrete that repairs its own cracks with dormant bacteria.",
+   "links": {
+    "site": "https://basiliskconcrete.com/en/"
+   },
+   "role_zh": "代尔夫特理工大学可持续建筑材料教授",
+   "based_zh": "荷兰代尔夫特",
+   "bio_zh": "微生物学家 Henk Jonkers 研发了基于细菌的自愈混凝土，由衍生公司 Basilisk 推向市场。",
+   "why_zh": "让混凝土依靠休眠的细菌自己修补裂缝。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "colorifix",
+   "name": "Colorifix",
+   "kind": "company",
+   "role": "Biotechnology company dyeing textiles with engineered microbes",
+   "based": "Norwich, UK",
+   "bio": "Founded in 2016 by synthetic biologists Orr Yarkoni and Jim Ajioka, Colorifix uses engineered bacteria to make and fix dyes on fabric.",
+   "why": "Brings microbial dyeing into existing textile factories.",
+   "links": {
+    "site": "https://colorifix.com/",
+    "youtube": "https://www.youtube.com/@colorifix"
+   },
+   "role_zh": "用工程微生物给纺织品染色的生物技术公司",
+   "based_zh": "英国诺里奇",
+   "bio_zh": "Colorifix 由合成生物学家 Orr Yarkoni 和 Jim Ajioka 于 2016 年创立，用工程细菌生产染料并把它固定在织物上。",
+   "why_zh": "把微生物染色带进了现有的纺织厂。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "spiber",
+   "name": "Spiber",
+   "kind": "company",
+   "role": "Japanese company producing Brewed Protein fibres",
+   "based": "Tsuruoka, Yamagata, Japan",
+   "bio": "Spiber, founded in 2007 at Keio University, ferments designed structural proteins with microbes and spins them into fibres and films.",
+   "why": "Made the first commercial garment from microbially produced protein.",
+   "links": {
+    "site": "https://spiber.inc/en/"
+   },
+   "role_zh": "生产 Brewed Protein 纤维的日本公司",
+   "based_zh": "日本山形县鹤冈",
+   "bio_zh": "Spiber 于 2007 年在庆应义塾大学创立，用微生物发酵设计好的结构蛋白，再纺成纤维和薄膜。",
+   "why_zh": "做出了第一件用微生物生产的蛋白质制成的商业服装。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "tom-ellis",
+   "name": "Tom Ellis",
+   "kind": "person",
+   "role": "Professor of Synthetic Genome Engineering, Imperial College London",
+   "based": "London, UK",
+   "bio": "Tom Ellis leads a synthetic biology lab that engineers yeast and bacteria, including cellulose-producing Komagataeibacter, for new materials.",
+   "why": "His lab made bacterial cellulose that is programmable, self-dyeing and responsive.",
+   "links": {
+    "site": "https://www.imperial.ac.uk/people/t.ellis"
+   },
+   "role_zh": "伦敦帝国理工学院合成基因组工程教授",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Tom Ellis 领导一个合成生物学实验室，改造酵母和细菌（包括产纤维素的 Komagataeibacter）来制造新材料。",
+   "why_zh": "他的实验室做出了可编程、会自我染色、能响应刺激的细菌纤维素。",
+   "connected_to": [
+    "jen-keane"
+   ],
+   "discovered_via": "jen-keane"
+  },
+  {
+   "id": "philips-design",
+   "name": "Philips Design",
+   "kind": "company",
+   "role": "Design division of Royal Philips",
+   "based": "Eindhoven, Netherlands",
+   "bio": "Philips Design ran the Design Probes programme, which explored far-future lifestyles in speculative concepts.",
+   "why": "Its Microbial Home was an early and influential vision of a house run by microbes.",
+   "links": {
+    "site": "https://www.philips.com/"
+   },
+   "role_zh": "皇家飞利浦公司的设计部门",
+   "based_zh": "荷兰埃因霍温",
+   "bio_zh": "飞利浦设计曾运行 Design Probes 项目，用思辨概念探索远未来的生活方式。",
+   "why_zh": "它的 Microbial Home 是较早、影响很大的“由微生物运转的家”的设想。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "glowee",
+   "name": "Glowee",
+   "kind": "company",
+   "role": "Start-up making light with bioluminescent bacteria",
+   "based": "Évry, France",
+   "bio": "Glowee was founded by Sandra Rey in 2014 to develop lighting from bioluminescent marine bacteria for shop windows, events and cities.",
+   "why": "Treats light as something grown and fed, not only generated.",
+   "links": {
+    "site": "https://www.glowee.com/"
+   },
+   "role_zh": "用发光细菌照明的初创公司",
+   "based_zh": "法国埃夫里",
+   "bio_zh": "Glowee 由 Sandra Rey 于 2014 年创立，用海洋发光细菌为橱窗、活动和城市提供照明。",
+   "why_zh": "把光当作可以培养和喂养的东西，而不只是电产生的东西。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "teresa-van-dongen",
+   "name": "Teresa van Dongen",
+   "kind": "person",
+   "role": "Designer working with living systems and light",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Teresa van Dongen studied at Design Academy Eindhoven and makes lamps and installations powered by bioluminescent and electroactive bacteria.",
+   "why": "Turns microbial metabolism into domestic light objects.",
+   "links": {
+    "site": "https://www.teresavandongen.com/"
+   },
+   "role_zh": "与活体系统和光一起工作的设计师",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio_zh": "Teresa van Dongen 毕业于埃因霍温设计学院，用发光细菌和产电细菌制作灯具和装置。",
+   "why_zh": "把微生物的新陈代谢变成家中的照明物件。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "natsai-audrey-chieza",
+   "name": "Natsai Audrey Chieza",
+   "kind": "person",
+   "role": "Designer; founder of Faber Futures",
+   "based": "London, UK",
+   "bio": "Natsai Audrey Chieza founded the biodesign studio Faber Futures and was the first designer in residence at Ginkgo Bioworks.",
+   "why": "Pioneered textile dyeing with the pigment-producing soil bacterium Streptomyces coelicolor.",
+   "links": {
+    "site": "https://faberfutures.com/",
+    "youtube": ""
+   },
+   "role_zh": "设计师；Faber Futures 创始人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Natsai Audrey Chieza 创立了生物设计工作室 Faber Futures，是 Ginkgo Bioworks 的第一位驻场设计师。",
+   "why_zh": "率先用会产色素的土壤细菌 Streptomyces coelicolor 给纺织品染色。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "living-colour",
+   "name": "Living Colour",
+   "kind": "studio",
+   "role": "Research project of designers Laura Luchtman (Kukka) and Ilfa Siebenhaar",
+   "based": "Rotterdam, Netherlands",
+   "bio": "Living Colour, started in 2016 with Hogeschool Rotterdam, grows pigment-producing bacteria directly on fabric.",
+   "why": "Shows the growth pattern of bacteria as the pattern of the textile.",
+   "links": {
+    "site": "https://livingcolour.eu/",
+    "vimeo": "https://vimeo.com/livingcolour"
+   },
+   "role_zh": "设计师 Laura Luchtman（Kukka）与 Ilfa Siebenhaar 的研究项目",
+   "based_zh": "荷兰鹿特丹",
+   "bio_zh": "Living Colour 于 2016 年与鹿特丹应用科技大学合作开始，直接在布料上培养产色素的细菌。",
+   "why_zh": "让细菌的生长纹样直接成为织物的图案。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jen-keane",
+   "name": "Jen Keane",
+   "kind": "person",
+   "role": "Designer and researcher; co-founder of Modern Synthesis",
+   "based": "London, UK",
+   "bio": "Jen Keane studied Material Futures at Central Saint Martins and co-founded Modern Synthesis to grow textiles with bacteria.",
+   "why": "Invented microbial weaving, where bacteria grow the weft around a woven warp.",
+   "links": {
+    "site": "https://www.jenkeane.com/"
+   },
+   "role_zh": "设计师与研究者；Modern Synthesis 联合创始人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Jen Keane 就读于中央圣马丁学院 Material Futures 专业，并共同创立 Modern Synthesis，用细菌生长纺织品。",
+   "why_zh": "发明了“微生物编织”：人织经线，细菌长出纬线。",
+   "connected_to": [
+    "tom-ellis"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "aniela-hoitink",
+   "name": "Aniela Hoitink",
+   "kind": "person",
+   "role": "Designer; founder of NEFFA and MycoTEX",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Aniela Hoitink founded NEFFA in 2016 to make custom garments from mycelium grown in moulds.",
+   "why": "Grew seamless, compostable clothing directly from mycelium.",
+   "links": {
+    "site": "https://www.neffa.nl/"
+   },
+   "role_zh": "设计师；NEFFA 与 MycoTEX 创始人",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio_zh": "Aniela Hoitink 于 2016 年创立 NEFFA，用模具中生长的菌丝体制作定制服装。",
+   "why_zh": "直接用菌丝体长出无缝、可堆肥的衣服。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "keel-labs",
+   "name": "Keel Labs (formerly AlgiKnit)",
+   "kind": "company",
+   "role": "Materials company making kelp-based yarn",
+   "based": "North Carolina, US",
+   "bio": "Founded in 2017 as AlgiKnit by Tessa Callaghan and Aleksandra Gosiewski, Keel Labs makes Kelsun yarn from alginate extracted from kelp.",
+   "why": "Turns fast-growing seaweed into textile fibre at industrial scale.",
+   "links": {
+    "site": "https://www.keellabs.com/"
+   },
+   "role_zh": "生产海带基纱线的材料公司",
+   "based_zh": "美国北卡罗来纳州",
+   "bio_zh": "Keel Labs 原名 AlgiKnit，2017 年由 Tessa Callaghan 和 Aleksandra Gosiewski 创立，用海带中提取的海藻酸盐生产 Kelsun 纱线。",
+   "why_zh": "把生长迅速的海藻变成可工业化生产的纺织纤维。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "blond-bieber",
+   "name": "Blond & Bieber",
+   "kind": "studio",
+   "role": "Design studio of Essi Johanna Glomb and Rasa Weber",
+   "based": "Berlin, Germany",
+   "bio": "Blond & Bieber work with microalgae as a colour source for textile printing and surfaces.",
+   "why": "Made algae dyes whose colours keep changing in sunlight.",
+   "links": {
+    "site": "https://www.blondandbieber.com/",
+    "vimeo": "https://vimeo.com/blondandbieber"
+   },
+   "role_zh": "Essi Johanna Glomb 与 Rasa Weber 的设计工作室",
+   "based_zh": "德国柏林",
+   "bio_zh": "Blond & Bieber 用微藻作为纺织印染和表面材料的颜色来源。",
+   "why_zh": "做出了在阳光下颜色会继续变化的藻类染料。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "charlotte-mccurdy",
+   "name": "Charlotte McCurdy",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "based": "US",
+   "bio": "Charlotte McCurdy designs carbon-negative materials and fashion from marine algae.",
+   "why": "Frames algae materials as a way to live on present-day rather than ancient sunlight.",
+   "links": {
+    "site": "https://www.charlottemccurdy.com/"
+   },
+   "role_zh": "设计师与研究者",
+   "based_zh": "美国",
+   "bio_zh": "Charlotte McCurdy 用海洋藻类设计负碳材料和服装。",
+   "why_zh": "把藻类材料看作依靠“今天的阳光”而不是“远古阳光”生活的方式。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "julia-lohmann",
+   "name": "Julia Lohmann",
+   "kind": "person",
+   "role": "Designer; Professor of Contemporary Design, Aalto University; founder of the Department of Seaweed",
+   "based": "Helsinki, Finland",
+   "bio": "Julia Lohmann founded the Department of Seaweed in 2013 as designer-in-residence at the V&A and works with kelp as a leather-like material.",
+   "why": "Built a community practice around kelp as a design material.",
+   "links": {
+    "site": "https://www.julialohmann.co.uk/"
+   },
+   "role_zh": "设计师；阿尔托大学当代设计教授；Department of Seaweed 创始人",
+   "based_zh": "芬兰赫尔辛基",
+   "bio_zh": "Julia Lohmann 于 2013 年在 V&A 担任驻馆设计师时创立 Department of Seaweed，把海带当作类皮革材料来使用。",
+   "why_zh": "围绕海带这种设计材料建立了一个社群式的实践。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "roya-aghighi",
+   "name": "Roya Aghighi",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Vancouver, Canada",
+   "bio": "Roya Aghighi is an Iranian-Canadian designer who worked with University of British Columbia labs on living, photosynthetic textiles.",
+   "why": "Designed clothing that must be watered and cared for like a plant.",
+   "links": {},
+   "role_zh": "设计师",
+   "based_zh": "加拿大温哥华",
+   "bio_zh": "Roya Aghighi 是伊朗裔加拿大设计师，与不列颠哥伦比亚大学的实验室合作开发会光合作用的活体织物。",
+   "why_zh": "设计了需要像植物一样浇水照料的衣服。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "notpla",
+   "name": "Notpla",
+   "kind": "company",
+   "role": "Packaging company making materials from seaweed",
+   "based": "London, UK",
+   "bio": "Notpla, founded as Skipping Rocks Lab by Rodrigo García González and Pierre Paslier, makes edible and compostable packaging from seaweed and plants.",
+   "why": "Its Ooho pods turned seaweed membranes into packaging you can eat.",
+   "links": {
+    "site": "https://www.notpla.com/"
+   },
+   "role_zh": "用海藻制造包装材料的公司",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Notpla 前身是 Rodrigo García González 与 Pierre Paslier 创立的 Skipping Rocks Lab，用海藻和植物制造可食用、可堆肥的包装。",
+   "why_zh": "它的 Ooho 水球把海藻薄膜变成了可以吃掉的包装。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nienke-hoogvliet",
+   "name": "Nienke Hoogvliet",
+   "kind": "person",
+   "role": "Designer; founder of Studio Nienke Hoogvliet",
+   "based": "The Hague, Netherlands",
+   "bio": "Nienke Hoogvliet makes textiles, dyes and leather from seaweed, fish skin and waste streams from water treatment.",
+   "why": "Uses materials from water systems to talk about the sea and its pollution.",
+   "links": {
+    "site": "https://www.nienkehoogvliet.nl/"
+   },
+   "role_zh": "设计师；Studio Nienke Hoogvliet 创始人",
+   "based_zh": "荷兰海牙",
+   "bio_zh": "Nienke Hoogvliet 用海藻、鱼皮和污水处理厂的副产品制作纺织品、染料和皮革。",
+   "why_zh": "用来自水体系统的材料讲述大海和它受到的污染。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "living-things-studio",
+   "name": "Living Things (Jacob Douenias & Ethan Frier)",
+   "kind": "studio",
+   "role": "Design partnership of architectural designer Jacob Douenias and industrial designer Ethan Frier",
+   "based": "Pittsburgh, US",
+   "bio": "Jacob Douenias and Ethan Frier designed bioreactor furniture for living spirulina cultures, shown at the Mattress Factory in 2015.",
+   "why": "Imagined a domestic interior where furniture farms algae for light and food.",
+   "links": {
+    "site": "http://www.ethanfrier.com/living-things"
+   },
+   "role_zh": "建筑设计师 Jacob Douenias 与工业设计师 Ethan Frier 的合作",
+   "based_zh": "美国匹兹堡",
+   "bio_zh": "Jacob Douenias 和 Ethan Frier 为活体螺旋藻设计了生物反应器家具，2015 年在 Mattress Factory 展出。",
+   "why_zh": "设想了一种家具本身就在养殖藻类、提供照明和食物的居家空间。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mike-thompson",
+   "name": "Mike Thompson",
+   "kind": "person",
+   "role": "Designer",
+   "based": "Netherlands",
+   "bio": "Mike Thompson is a designer who makes speculative products about energy and everyday life.",
+   "why": "Designed a lamp powered by algae that the owner must care for like a pet.",
+   "links": {},
+   "role_zh": "设计师",
+   "based_zh": "荷兰",
+   "bio_zh": "Mike Thompson 是一位设计师，创作关于能源和日常生活的思辨产品。",
+   "why_zh": "设计了一盏由藻类供电、需要主人像宠物一样照顾的灯。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "space10",
+   "name": "SPACE10",
+   "kind": "lab",
+   "role": "Research and design lab supported by IKEA",
+   "based": "Copenhagen, Denmark",
+   "bio": "SPACE10 explored future living, food and cities through exhibitions and prototypes until 2024.",
+   "why": "Built the Algae Dome, a public pavilion that grew microalgae as food.",
+   "links": {
+    "site": "https://space10.com/"
+   },
+   "role_zh": "由 IKEA 支持的研究与设计实验室",
+   "based_zh": "丹麦哥本哈根",
+   "bio_zh": "SPACE10 在 2024 年之前通过展览和原型探索未来的居住、食物和城市。",
+   "why_zh": "建造了 Algae Dome，一个用来养殖可食用微藻的公共展亭。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "diana-scherer",
+   "name": "Diana Scherer",
+   "kind": "person",
+   "role": "Artist and designer",
+   "based": "Amsterdam, Netherlands",
+   "bio": "Diana Scherer trains the roots of plants to grow into patterned textile-like material, working with biologists at Radboud University.",
+   "why": "Made root growth itself the loom.",
+   "links": {
+    "site": "https://dianascherer.nl/"
+   },
+   "role_zh": "艺术家与设计师",
+   "based_zh": "荷兰阿姆斯特丹",
+   "bio_zh": "Diana Scherer 与拉德堡德大学的生物学家合作，引导植物根系长成带图案的类织物材料。",
+   "why_zh": "让根系的生长本身成为织布机。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "gavin-munro",
+   "name": "Gavin Munro",
+   "kind": "person",
+   "role": "Designer; co-founder of Full Grown",
+   "based": "Derbyshire, UK",
+   "bio": "Gavin Munro co-founded Full Grown with Alice Munro and grows chairs, lamps and tables from living trees on a farm near Wirksworth.",
+   "why": "Grows furniture in one piece from a living tree over six to nine years.",
+   "links": {
+    "site": "https://fullgrown.co.uk/",
+    "youtube": "https://www.youtube.com/@fullgrown"
+   },
+   "role_zh": "设计师；Full Grown 联合创始人",
+   "based_zh": "英国德比郡",
+   "bio_zh": "Gavin Munro 与 Alice Munro 共同创立 Full Grown，在沃克斯沃斯附近的农场把活树长成椅子、灯和桌子。",
+   "why_zh": "用六到九年时间，让一棵活树整体长成一件家具。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "ferdinand-ludwig",
+   "name": "Ferdinand Ludwig",
+   "kind": "person",
+   "role": "Professor of Green Technologies in Landscape Architecture, TU Munich",
+   "based": "Munich, Germany",
+   "bio": "Architect Ferdinand Ludwig developed Baubotanik, a method of building with living trees joined to technical structures.",
+   "why": "Turned tree shaping into an architectural method and studies living root bridges.",
+   "links": {
+    "site": "https://www.arc.ed.tum.de/en/gtla/"
+   },
+   "role_zh": "慕尼黑工业大学景观建筑绿色技术教授",
+   "based_zh": "德国慕尼黑",
+   "bio_zh": "建筑师 Ferdinand Ludwig 提出了 Baubotanik（建筑植物学），用活树与技术结构结合来建造。",
+   "why_zh": "把塑树技艺变成一种建筑方法，并研究活体根桥。",
+   "connected_to": [
+    "khasi-communities"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "khasi-communities",
+   "name": "Khasi and Jaintia communities of Meghalaya",
+   "kind": "studio",
+   "role": "Indigenous communities who grow living root bridges",
+   "based": "Meghalaya, India",
+   "bio": "Villages of the Khasi and Jaintia hills in north-east India have guided the aerial roots of Ficus elastica across rivers for generations.",
+   "why": "The living root bridges are one of the oldest examples of architecture grown with a living organism.",
+   "links": {},
+   "role_zh": "培育活体根桥的原住民社区",
+   "based_zh": "印度梅加拉亚邦",
+   "bio_zh": "印度东北部卡西山和贾因蒂亚山的村落世代引导印度橡胶树（Ficus elastica）的气生根跨越河流。",
+   "why_zh": "活体根桥是人类与活体生物一起“长”出建筑的最古老例子之一。",
+   "connected_to": [
+    "ferdinand-ludwig"
+   ],
+   "discovered_via": "ferdinand-ludwig"
+  },
+  {
+   "id": "pooktre",
+   "name": "Pooktre",
+   "kind": "studio",
+   "role": "Tree-shaping practice of Peter Cook and Becky Northey",
+   "based": "Queensland, Australia",
+   "bio": "Peter 'Pook' Cook and Becky Northey have shaped living trees into chairs, people and other forms since the 1990s.",
+   "why": "Refined a patient, low-tech method of guiding trees into designed shapes.",
+   "links": {
+    "site": "https://www.pooktre.com/"
+   },
+   "role_zh": "Peter Cook 与 Becky Northey 的塑树实践",
+   "based_zh": "澳大利亚昆士兰",
+   "bio_zh": "Peter “Pook” Cook 和 Becky Northey 自 1990 年代起把活树塑造成椅子、人形等形态。",
+   "why_zh": "发展出一种耐心、低技术的引导树木长成设计形状的方法。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "axel-erlandson",
+   "name": "Axel Erlandson",
+   "kind": "person",
+   "role": "Farmer and tree shaper (1884–1964)",
+   "based": "Scotts Valley, California, US",
+   "bio": "Swedish-American farmer Axel Erlandson grafted and bent trees into baskets, arches and ladders and opened the Tree Circus in 1947.",
+   "why": "An early, self-taught precedent for designing with tree growth.",
+   "links": {},
+   "role_zh": "农民与塑树人（1884–1964）",
+   "based_zh": "美国加州斯科茨谷",
+   "bio_zh": "瑞典裔美国农民 Axel Erlandson 把树嫁接、弯折成篮子、拱门和梯子的形状，并于 1947 年开放了 Tree Circus（树木马戏团）。",
+   "why_zh": "用树木生长来做设计的一个早期、自学成才的先例。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "zena-holloway",
+   "name": "Zena Holloway",
+   "kind": "person",
+   "role": "Photographer and biodesigner; founder of Rootfull",
+   "based": "London, UK",
+   "bio": "Former underwater photographer Zena Holloway founded Rootfull in 2018 to grow textiles and objects from grass roots in beeswax templates.",
+   "why": "A low-energy way to grow textiles from seed and water in twelve days.",
+   "links": {
+    "site": "https://www.zenaholloway.com/"
+   },
+   "role_zh": "摄影师与生物设计师；Rootfull 创始人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "前水下摄影师 Zena Holloway 于 2018 年创立 Rootfull，在蜂蜡模板中用草根生长织物和物件。",
+   "why_zh": "一种只需种子和水、十二天就能长出织物的低能耗方法。",
+   "connected_to": [
+    "diana-scherer"
+   ],
+   "discovered_via": "diana-scherer"
+  },
+  {
+   "id": "werner-aisslinger",
+   "name": "Werner Aisslinger",
+   "kind": "person",
+   "role": "Industrial designer; founder of Studio Aisslinger",
+   "based": "Berlin, Germany",
+   "bio": "Werner Aisslinger designs furniture, interiors and experimental material projects such as the Hemp Chair.",
+   "why": "Proposed farming furniture by growing plants through steel moulds.",
+   "links": {
+    "site": "https://aisslinger.de/"
+   },
+   "role_zh": "工业设计师；Studio Aisslinger 创始人",
+   "based_zh": "德国柏林",
+   "bio_zh": "Werner Aisslinger 设计家具、室内以及 Hemp Chair 等实验性材料项目。",
+   "why_zh": "提出让植物穿过钢模生长、像耕种一样“种”家具。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "arthur-wiechula",
+   "name": "Arthur Wiechula",
+   "kind": "person",
+   "role": "Landscape architect (1868–1941)",
+   "based": "Germany",
+   "bio": "Arthur Wiechula was a German landscape architect who proposed growing houses and structures from living, grafted trees.",
+   "why": "Wrote one of the first design manuals for architecture grown from trees.",
+   "links": {},
+   "role_zh": "景观建筑师（1868–1941）",
+   "based_zh": "德国",
+   "bio_zh": "Arthur Wiechula 是德国景观建筑师，提出用活树嫁接生长出房屋和构筑物。",
+   "why_zh": "写出了最早的“用树长出建筑”的设计手册之一。",
+   "connected_to": [
+    "ferdinand-ludwig"
+   ],
+   "discovered_via": "ferdinand-ludwig"
+  },
+  {
+   "id": "carole-collet",
+   "name": "Carole Collet",
+   "kind": "person",
+   "role": "Professor in Design for Sustainable Futures; director of the Design & Living Systems Lab, Central Saint Martins",
+   "based": "London, UK",
+   "bio": "Carole Collet researches textile design, biomimicry and synthetic biology at Central Saint Martins, University of the Arts London.",
+   "why": "Her speculative projects ask what textiles look like when plants and microbes produce them.",
+   "links": {
+    "site": "https://www.carolecollet.com/"
+   },
+   "role_zh": "可持续未来设计教授；中央圣马丁学院 Design & Living Systems Lab 负责人",
+   "based_zh": "英国伦敦",
+   "bio_zh": "Carole Collet 在伦敦艺术大学中央圣马丁学院研究纺织设计、仿生学和合成生物学。",
+   "why_zh": "她的思辨项目追问：当织物由植物和微生物来生产时，它会是什么样子。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mit-design-lab",
+   "name": "MIT Design Lab",
+   "kind": "lab",
+   "role": "Design research lab at the Massachusetts Institute of Technology",
+   "based": "Cambridge, Massachusetts, US",
+   "bio": "The MIT Design Lab works with industry partners on design research for future products, including biodesign for sportswear with Puma.",
+   "why": "Prototyped sportswear that uses living bacteria to adapt to the athlete.",
+   "links": {
+    "site": "https://design.mit.edu/"
+   },
+   "role_zh": "麻省理工学院的设计研究实验室",
+   "based_zh": "美国马萨诸塞州剑桥",
+   "bio_zh": "MIT Design Lab 与产业伙伴合作做面向未来产品的设计研究，包括与 Puma 合作的运动装备生物设计。",
+   "why_zh": "做出了用活细菌适应运动员身体的运动装备原型。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "achim-menges",
+   "name": "Achim Menges",
+   "kind": "person",
+   "role": "Professor and director of the Institute for Computational Design and Construction (ICD), University of Stuttgart",
+   "based": "Stuttgart, Germany",
+   "bio": "Architect Achim Menges researches computational design, robotic fabrication and biological principles in architecture.",
+   "why": "Used the hygroscopic behaviour of wood to make surfaces that respond to humidity without motors.",
+   "links": {
+    "site": "https://www.achimmenges.net/"
+   },
+   "role_zh": "斯图加特大学计算设计与建造研究所（ICD）教授兼所长",
+   "based_zh": "德国斯图加特",
+   "bio_zh": "建筑师 Achim Menges 研究计算设计、机器人建造以及建筑中的生物学原理。",
+   "why_zh": "利用木材的吸湿特性，做出不需要电机就能随湿度开合的表皮。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "livin-studio",
+   "name": "Livin Studio",
+   "kind": "studio",
+   "role": "Design studio of Katharina Unger and Julia Kaisinger",
+   "based": "Vienna, Austria",
+   "bio": "Livin Studio, founded by Katharina Unger and Julia Kaisinger, designs food systems such as insect farms and fungal incubators.",
+   "why": "Imagined domestic devices where fungi digest plastic waste into food.",
+   "links": {
+    "site": "https://katharinaunger.com/"
+   },
+   "role_zh": "Katharina Unger 与 Julia Kaisinger 的设计工作室",
+   "based_zh": "奥地利维也纳",
+   "bio_zh": "Livin Studio 由 Katharina Unger 和 Julia Kaisinger 创立，设计昆虫农场、真菌培养器等食物系统。",
+   "why_zh": "设想了让真菌把塑料垃圾消化成食物的家用装置。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  }
+ ],
+ "works": [
+  {
+   "id": "ecovative--mushroom-packaging",
+   "creator_ids": [
+    "ecovative"
+   ],
+   "title": "Mushroom Packaging (MycoComposite)",
+   "year": 2007,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Protective packaging grown in moulds from hemp hurd or other farm waste bound together by fungal mycelium, used as a compostable replacement for polystyrene foam.",
+   "description_zh": "在模具里用大麻芯等农业废料和真菌菌丝体生长出来的缓冲包装，用来替代聚苯乙烯泡沫，用完可以堆肥。",
+   "idea_en": "Instead of moulding foam from oil, let a fungus glue crop waste into the shape you need.",
+   "idea_zh": "不用石油发泡，而是让真菌把农业废料“粘”成你需要的形状。",
+   "method": "Pasteurised agricultural residue is inoculated with mycelium, packed into moulds for several days of growth, then heat-dried to stop growth.",
+   "method_zh": "把消毒后的农业残料接种菌丝体，填入模具生长数天，再加热烘干让菌丝停止生长。",
+   "keywords": [
+    "MycoComposite",
+    "packaging",
+    "polystyrene alternative",
+    "Eben Bayer",
+    "Gavin McIntyre",
+    "compostable"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=zw2O1PhrzA0"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Material_by_Ecovative.jpg/250px-Material_by_Ecovative.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Ecovative_Design"
+  },
+  {
+   "id": "ecovative--mushroom-tiny-house",
+   "creator_ids": [
+    "ecovative"
+   ],
+   "title": "Mushroom Tiny House",
+   "year": 2013,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A small timber-framed house whose wall cavities were filled with mycelium insulation that grew in place inside the frame.",
+   "description_zh": "一座木框架小屋，墙体空腔里填入菌丝体保温材料，让它在框架内部直接长成墙体。",
+   "idea_en": "A wall can be grown in place: fill the frame, wait, and the fungus makes the insulation.",
+   "idea_zh": "墙可以在原地“长”出来：填满框架，等待，真菌就会长成保温层。",
+   "method": "Mycelium-inoculated substrate was packed between wooden forms and left to grow into a solid, insulating block before drying.",
+   "method_zh": "把接种了菌丝体的基质填进木模板之间，让它长成坚实的保温块后再干燥。",
+   "keywords": [
+    "mycelium insulation",
+    "grown in place",
+    "tiny house",
+    "building material"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BUxael8qV78"
+   },
+   "images": [
+    "https://ecovative.com/images/process.jpg"
+   ],
+   "source_url": "https://ecovative.com/"
+  },
+  {
+   "id": "phil-ross--mycotecture",
+   "creator_ids": [
+    "phil-ross"
+   ],
+   "title": "Mycotecture (Mycotectural Alpha)",
+   "year": 2009,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "A small tea house built from bricks of grown reishi mycelium at Kunsthalle Düsseldorf; at the end of the show pieces of the bricks were brewed into tea for visitors.",
+   "description_zh": "在杜塞尔多夫美术馆用灵芝菌丝体砖搭起的小茶室；展览结束时，砖块被拿来煮成茶给观众喝。",
+   "idea_en": "A building material that is also a medicine and a drink, and returns to the soil.",
+   "idea_zh": "一种建筑材料，同时也是药材和饮品，最后还能回归土壤。",
+   "method": "Ganoderma lucidum mycelium was grown on pasteurised sawdust in brick moulds, dried and stacked into an arch.",
+   "method_zh": "在砖形模具中让灵芝（Ganoderma lucidum）菌丝体长满消毒锯末，干燥后砌成拱形。",
+   "keywords": [
+    "Ganoderma lucidum",
+    "reishi",
+    "mycelium bricks",
+    "Kunsthalle Düsseldorf",
+    "Mycotecture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7q5i9poYc3w"
+   },
+   "images": [
+    "https://www.archpaper.com/wp-content/uploads/2012/10/Mycotecture_1.jpeg",
+    "https://ww2.kqed.org/app/uploads/sites/39/2014/06/Phil-Ross-Feature-Image-640x360-Katie-McKracken-Workshop-Residence.jpg"
+   ],
+   "source_url": "https://www.archpaper.com/2012/10/mycotecture-exploring-the-potential-materiality-of-mushrooms/"
+  },
+  {
+   "id": "mycoworks--reishi",
+   "creator_ids": [
+    "mycoworks",
+    "phil-ross"
+   ],
+   "title": "Reishi Fine Mycelium",
+   "year": 2020,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A leather-like sheet material grown from mycelium in trays, then tanned and finished in traditional tanneries for shoes, bags and furniture.",
+   "description_zh": "在托盘里长出的类皮革菌丝体片材，再送到传统制革厂鞣制和整理，用于鞋、包和家具。",
+   "idea_en": "Grow the fibre structure of leather instead of raising an animal for it.",
+   "idea_zh": "直接长出皮革的纤维结构，而不是为了皮革去养一头动物。",
+   "method": "Fine Mycelium is grown so that the hyphae interlock densely, then treated with tanning and finishing processes similar to hide leather.",
+   "method_zh": "Fine Mycelium 工艺让菌丝紧密交织生长，再用类似动物皮革的鞣制和整理工艺处理。",
+   "keywords": [
+    "Fine Mycelium",
+    "mycelium leather",
+    "Reishi",
+    "tannery"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vcrKZrNFVDA"
+   },
+   "source_url": "https://www.mycoworks.com/"
+  },
+  {
+   "id": "mycoworks--hermes-sylvania",
+   "creator_ids": [
+    "mycoworks"
+   ],
+   "title": "Sylvania for the Hermès Victoria bag",
+   "year": 2021,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A version of Hermès' Victoria travel bag with panels of Sylvania, a mycelium material grown by MycoWorks and tanned in Hermès' French tanneries.",
+   "description_zh": "Hermès Victoria 旅行包的一个版本，包身用 MycoWorks 生长、再由 Hermès 法国制革厂鞣制的菌丝体材料 Sylvania 制成。",
+   "idea_en": "Grown materials can meet the standards of luxury craft, not only of eco products.",
+   "idea_zh": "生长材料不只适合环保产品，也能达到奢侈品工艺的标准。",
+   "method": "Fine Mycelium sheets grown in California were tanned and finished by Hermès artisans, then assembled with calfskin trim.",
+   "method_zh": "在加州生长的 Fine Mycelium 片材由 Hermès 工匠鞣制整理，再与小牛皮饰边拼合。",
+   "keywords": [
+    "Hermès",
+    "Sylvania",
+    "Victoria bag",
+    "Fine Mycelium",
+    "luxury"
+   ],
+   "images": [
+    "https://www.designboom.com/twitterimages/uploads/2021/03/hermes-mushroom-leather-mycoworks-designboom-FB.jpg"
+   ],
+   "source_url": "https://www.designboom.com/design/hermes-mycoworks-mushroom-leather-bag-fine-mycelium-03-11-2021/"
+  },
+  {
+   "id": "bolt-threads--mylo",
+   "creator_ids": [
+    "bolt-threads"
+   ],
+   "title": "Mylo mycelium leather",
+   "year": 2018,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A leather alternative made from mycelium grown on beds of sawdust, used by Stella McCartney for the Frayme Mylo bag and by other brands.",
+   "description_zh": "一种用锯末培养床上长出的菌丝体做成的皮革替代品，Stella McCartney 的 Frayme Mylo 包等产品都用了它。",
+   "idea_en": "A fungal mat, grown in days in vertical farms, can be finished into a material that behaves like leather.",
+   "idea_zh": "在垂直农场里几天就能长出的菌丝垫，可以被加工成像皮革一样的材料。",
+   "method": "Mycelium grows as a foam-like mat on organic substrate in controlled rooms, is harvested, compressed, tanned and embossed.",
+   "method_zh": "菌丝体在可控环境里的有机基质上长成泡沫状的菌丝垫，收割后压实、鞣制并压纹。",
+   "keywords": [
+    "Mylo",
+    "Stella McCartney",
+    "Frayme Mylo",
+    "mycelium leather",
+    "vegan leather"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AAyy8v_5Ox8"
+   },
+   "source_url": "https://www.stellamccartney.com/us/en/stellas-world/frayme-mylo-mycelium-bag.html"
+  },
+  {
+   "id": "mogu--mycelium-interiors",
+   "creator_ids": [
+    "mogu",
+    "maurizio-montalti"
+   ],
+   "title": "Mogu Acoustic and Mogu Floor",
+   "year": 2015,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Sound-absorbing wall panels and resilient floor tiles grown from fungal mycelium and textile or agricultural residues, sold for offices, shops and homes.",
+   "description_zh": "用真菌菌丝体和纺织或农业残料生长出的吸音墙板和弹性地砖，已用于办公室、商店和住宅。",
+   "idea_en": "Mycelium can pass fire and acoustic tests and become an ordinary catalogue product.",
+   "idea_zh": "菌丝体可以通过防火和声学测试，成为普通的产品目录里的一件商品。",
+   "method": "Selected fungal strains are fermented on pre-consumer residues in moulds, then dried and, for floors, coated with a biobased resin.",
+   "method_zh": "用选定的菌种在模具中发酵消费前残料，再干燥；地砖还会涂上一层生物基树脂。",
+   "keywords": [
+    "acoustic panels",
+    "mycelium flooring",
+    "interior design",
+    "residue upcycling"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=BayiRYtsPZg"
+   },
+   "images": [
+    "https://mogu.bio/wp-content/uploads/2021/10/12_Wave_doppia-V1-scaled-e1633957545909.jpg"
+   ],
+   "source_url": "https://mogu.bio/mycelium-acoustic-panels/"
+  },
+  {
+   "id": "biohm--mycelium-insulation",
+   "creator_ids": [
+    "biohm"
+   ],
+   "title": "Biohm mycelium insulation and Orb",
+   "year": 2016,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "Thermal and acoustic insulation panels grown from mycelium, and Orb, a board material made from food and industrial by-products.",
+   "description_zh": "用菌丝体生长的隔热吸音板，以及用食品和工业副产品制成的板材 Orb。",
+   "idea_en": "Buildings can be insulated with a material that is grown from waste and composts at end of life.",
+   "idea_zh": "建筑的保温材料可以从废料里长出来，拆除后还能堆肥。",
+   "method": "Mycelium is grown through agricultural and industrial waste in panel moulds, then dried and compressed.",
+   "method_zh": "让菌丝体在板材模具中长满农业和工业废料，再干燥压制。",
+   "keywords": [
+    "mycelium insulation",
+    "Orb",
+    "construction",
+    "Ehab Sayed",
+    "circular economy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9bh3B1QdY3g"
+   },
+   "source_url": "https://www.biohm.co.uk/"
+  },
+  {
+   "id": "blast-studio--tree-column",
+   "creator_ids": [
+    "blast-studio"
+   ],
+   "title": "Tree Column",
+   "year": 2021,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A two-metre column 3D printed from living mycelium mixed with pulped paper coffee cups; it fruits edible mushrooms before being dried into a load-bearing element.",
+   "description_zh": "一根两米高的柱子，用混合了咖啡纸杯纸浆的活菌丝体 3D 打印而成；它先长出可食用的蘑菇，再被烘干成承重构件。",
+   "idea_en": "Architecture printed from city waste that feeds people before it holds up a roof.",
+   "idea_zh": "用城市垃圾打印出的建筑，在撑起屋顶之前先喂饱人。",
+   "method": "A custom cold extruder prints modules of mycelium and paper-cup feedstock along an algorithmically designed profile; the fungus colonises and binds the printed layers.",
+   "method_zh": "用定制冷挤出机沿算法设计的轮廓打印菌丝体与纸杯原料的模块，真菌长满并把打印层粘合在一起。",
+   "keywords": [
+    "3D printing",
+    "mycelium",
+    "coffee cups",
+    "structural column",
+    "edible mushrooms"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/6807b75e7d058a08ac560f59/0ca8cfed-cf27-4b54-b745-19bb0244966b/Blast+Studio_Tree+Column%2C+3d+printed+mycelium+column+made+from+used+coffee+cups_1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/6807b75e7d058a08ac560f59/4f7e1ad0-1228-4301-91a6-5bfa6ced0c16/Tree+Column+in+Waste+Age+Hong+Kong+-+Blast+Studio.jpg"
+   ],
+   "source_url": "https://www.blast-studio.com/tree-column"
+  },
+  {
+   "id": "maurizio-montalti--growing-lab",
+   "creator_ids": [
+    "maurizio-montalti"
+   ],
+   "title": "The Growing Lab – Mycelia",
+   "year": 2013,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "An ongoing research project with Utrecht University that grows bowls, containers and panels from fungal mycelium on straw, cotton and hemp residues.",
+   "description_zh": "一个与乌得勒支大学合作的长期研究项目，用真菌菌丝体在稻草、棉花和大麻残料上长出碗、容器和板材。",
+   "idea_en": "Replace production with cultivation: products grow on waste, like a slow natural 3D print.",
+   "idea_zh": "用“培育”取代“生产”：产品在废料上慢慢长出来，就像一种缓慢的自然 3D 打印。",
+   "method": "Selected fungal strains colonise low-value agricultural or textile residues in moulds and bind them into solid objects.",
+   "method_zh": "选定的菌种在模具里长满低价值的农业或纺织残料，把它们粘合成坚实的物件。",
+   "keywords": [
+    "Officina Corpuscoli",
+    "Utrecht University",
+    "Han Wösten",
+    "growing objects",
+    "residues"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Un5Qnobb_F8"
+   },
+   "images": [
+    "https://www.corpuscoli.com/wp-content/uploads/2014/06/Officina-Corpuscoli_Maurizio-MontaltiMycelium-Binder-Growing-Objects.jpg"
+   ],
+   "source_url": "https://www.corpuscoli.com/projects/the-growing-lab/"
+  },
+  {
+   "id": "maurizio-montalti--fungal-futures",
+   "creator_ids": [
+    "maurizio-montalti"
+   ],
+   "title": "Fungal Futures – Growing Domestic Bio-Landscapes",
+   "year": 2016,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "speculative",
+   "description": "An exhibition and publication, made with Utrecht University, of domestic objects, surfaces and materials grown from fungi, presented as a possible future home.",
+   "description_zh": "与乌得勒支大学合作的展览和出版物，展示用真菌长出的家居物件、表面和材料，把它们呈现为一种可能的未来之家。",
+   "idea_en": "Imagine the home as a landscape of materials grown with fungi rather than bought.",
+   "idea_zh": "把家想象成一片与真菌一起长出来、而不是买来的材料景观。",
+   "method": "Mycelium composites and pure fungal skins were grown in the lab and shaped into furniture, tableware and textiles for the exhibition.",
+   "method_zh": "在实验室里培养菌丝体复合材料和纯真菌薄膜，再做成展览用的家具、餐具和织物。",
+   "keywords": [
+    "Officina Corpuscoli",
+    "Utrecht University",
+    "fungal materials",
+    "domestic",
+    "exhibition"
+   ],
+   "video": {
+    "url": "https://vimeo.com/161762670"
+   },
+   "images": [
+    "https://www.corpuscoli.com/wp-content/uploads/2016/03/detail-publication-FF-Officina-Corpuscoli_Maurizio-Montalti.jpg"
+   ],
+   "source_url": "https://www.corpuscoli.com/fungal-futures-growing-domestic-bio-landscapes/"
+  },
+  {
+   "id": "sebastian-cox--mycelium-timber",
+   "creator_ids": [
+    "sebastian-cox",
+    "ninela-ivanova"
+   ],
+   "title": "Mycelium + Timber",
+   "year": 2017,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "Stools and lampshades grown from coppiced hazel and willow offcuts bound by the mycelium of the tinder fungus, around handmade timber frames.",
+   "description_zh": "用矮林作业剩下的榛木和柳木碎料，围绕手工木框，由木蹄层孔菌的菌丝体粘合长成的凳子和灯罩。",
+   "idea_en": "Let a woodland fungus finish the furniture that woodland waste starts.",
+   "idea_zh": "让林地里的真菌，把林地废料开了头的家具“长”完。",
+   "method": "Fresh wood shavings are inoculated with Fomes fomentarius and packed around frames, where the mycelium grows into a suede-like, solid composite.",
+   "method_zh": "把新鲜木屑接种木蹄层孔菌（Fomes fomentarius）后填在木框周围，菌丝体长成表面像麂皮的坚实复合材料。",
+   "keywords": [
+    "Fomes fomentarius",
+    "coppice",
+    "hazel",
+    "willow",
+    "biofacture",
+    "London Design Festival"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5e2aee099a01410615e245ef/1581419003285-B4CAY9DDGSCQXSANEP8K/Sebastian+Cox_Ninela+Ivanova_Mycelium%2BTimber_Petr+Krejci+Photography_26.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5e2aee099a01410615e245ef/1581418480406-QDW6WNBPEA6MORD676N3/19.jpg"
+   ],
+   "source_url": "https://www.sebastiancox.co.uk/news/mycelium-timber-exploring-biofacture-in-a-new-collection-of-grown-furniture"
+  },
+  {
+   "id": "jonas-edvard--myx",
+   "creator_ids": [
+    "jonas-edvard"
+   ],
+   "title": "Myx lamp",
+   "year": 2013,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "Lampshades grown from oyster-mushroom mycelium and hemp fibre in three weeks; edible mushrooms are harvested during growth before the shade is dried.",
+   "description_zh": "用平菇菌丝体和大麻纤维三周长成的灯罩；生长过程中可以采收可食用的蘑菇，之后再把灯罩烘干。",
+   "idea_en": "One growth cycle yields two products: food and a lamp.",
+   "idea_zh": "一次生长周期，得到两样东西：食物和一盏灯。",
+   "method": "Spent substrate from a mushroom farm is mixed with hemp fibre, moulded over a form and colonised by Pleurotus mycelium, then dried to stop growth.",
+   "method_zh": "把蘑菇农场的废菌糠和大麻纤维混合，覆在模具上让平菇菌丝体长满，再烘干停止生长。",
+   "keywords": [
+    "Pleurotus ostreatus",
+    "oyster mushroom",
+    "hemp",
+    "lighting",
+    "Myx"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/61289154ff90172fbe9bf970/c62d12ad-11d4-408b-8418-052d908a0e1b/Myxlamp_frontview_light%28JO%29.jpg",
+    "https://images.squarespace-cdn.com/content/v1/61289154ff90172fbe9bf970/b5f37880-6ae8-4fcd-95b1-5382279aaba6/myx_hanging_growing_lamp_3+weeks%28JO%29.jpg"
+   ],
+   "source_url": "https://www.jonasedvard.com/myx/project-one-s3btt"
+  },
+  {
+   "id": "klarenbeek-dros--mycelium-chair",
+   "creator_ids": [
+    "klarenbeek-dros"
+   ],
+   "title": "Mycelium Chair",
+   "year": 2013,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A chair 3D printed from a paste of straw, water and living mycelium, which grew through the print to make it solid; mushrooms sprouted on its surface before it was dried.",
+   "description_zh": "一把用稻草、水和活菌丝体调成的浆料 3D 打印出的椅子，菌丝体在打印件内部生长使它变得坚固；表面长出蘑菇后再烘干。",
+   "idea_en": "Print with a living material and let the organism complete the structure after printing.",
+   "idea_zh": "用活的材料打印，让生物在打印之后把结构补完。",
+   "method": "Yellow oyster mushroom mycelium in a straw substrate was extruded with Wageningen University and sealed in a thin printed bioplastic skin while it grew.",
+   "method_zh": "与瓦赫宁根大学合作，把含金顶侧耳菌丝体的稻草基质挤出打印，生长时外面包一层打印的生物塑料薄壳。",
+   "keywords": [
+    "3D printing",
+    "living material",
+    "Wageningen University",
+    "oyster mushroom",
+    "Dutch Design Week"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=dGXV2CVrSvk"
+   },
+   "images": [
+    "https://d1tm14lrsghf7q.cloudfront.net/public/media/5366/conversions/193101-thumb.jpg"
+   ],
+   "source_url": "https://frameweb.com/article/mycelium-chair-by-eric-klarenbeek"
+  },
+  {
+   "id": "pascal-leboucq--growing-pavilion",
+   "creator_ids": [
+    "pascal-leboucq",
+    "klarenbeek-dros"
+   ],
+   "title": "The Growing Pavilion",
+   "year": 2019,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A drum-shaped events pavilion at Dutch Design Week clad in mycelium panels on a timber frame, with cattail, hemp and other biobased materials inside.",
+   "description_zh": "荷兰设计周上一座鼓形的活动展亭，木框架外挂菌丝体板材，内部使用香蒲、大麻等生物基材料。",
+   "idea_en": "A public building whose skin was grown in weeks and can go back to the soil.",
+   "idea_zh": "一座外皮几周就能长出来、之后还能回归土壤的公共建筑。",
+   "method": "Mycelium panels grown by Krown Design were mounted on a wooden frame and coated with a biobased protective finish.",
+   "method_zh": "由 Krown Design 生长的菌丝体板材安装在木框架上，并涂上一层生物基保护涂层。",
+   "keywords": [
+    "Biobased Creations",
+    "Krown Design",
+    "Dutch Design Week",
+    "pavilion",
+    "mycelium panels"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3IMXhMnLG8Y"
+   },
+   "images": [
+    "https://thegrowingpavilion.com/wp-content/uploads/2019/12/The-Growing-Pavilion-DDW-2019_c-Oscar-Vinck_20191025165306136_DSC1029-min-768x512.jpg"
+   ],
+   "source_url": "https://thegrowingpavilion.com/dutch-design-week-2019/"
+  },
+  {
+   "id": "danielle-trofe--mushlume",
+   "creator_ids": [
+    "danielle-trofe"
+   ],
+   "title": "MushLume Lighting",
+   "year": 2014,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "product",
+   "description": "A collection of pendant lamps and sconces whose shades are grown from mycelium and hemp in custom moulds.",
+   "description_zh": "一个吊灯和壁灯系列，灯罩由菌丝体和大麻纤维在定制模具中长成。",
+   "idea_en": "A lamp shade can be grown to shape in a few days and composted afterwards.",
+   "idea_zh": "灯罩可以在几天内按形状长出来，用完还能堆肥。",
+   "method": "Hemp hurd and liquid mycelium culture (Ecovative's process) fill moulds for several days, then the shades are dried and heat-treated.",
+   "method_zh": "把大麻芯和液体菌种（Ecovative 的工艺）填入模具生长数天，再烘干和热处理。",
+   "keywords": [
+    "lighting",
+    "mycelium",
+    "hemp",
+    "Ecovative",
+    "MushLume"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OPRqoedPm9A"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/696ad21a1652bf2f2b937b65/4e9d732f-1a4f-4978-b0cd-1c48001e576f/MushLumeTerracePendant.jpg"
+   ],
+   "source_url": "https://danielletrofe.com/the-work"
+  },
+  {
+   "id": "bob-hendrikx--loop-living-cocoon",
+   "creator_ids": [
+    "bob-hendrikx"
+   ],
+   "title": "Loop Living Cocoon",
+   "year": 2020,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi",
+    "humans"
+   ],
+   "kind": "product",
+   "description": "A coffin grown in about seven days from mycelium and hemp, lined with moss; in the ground it breaks down within weeks and helps compost the body.",
+   "description_zh": "一口约七天用菌丝体和大麻纤维长成、内衬苔藓的棺木；埋入地下后几周内就会分解，并帮助遗体转化为养分。",
+   "idea_en": "Design the last object of a life so that the body feeds new life.",
+   "idea_zh": "把人生最后一件物品设计成让身体去滋养新生命的东西。",
+   "method": "Mycelium and hemp substrate grow in a coffin-shaped mould, are dried, and reactivate in moist soil to decompose.",
+   "method_zh": "菌丝体和大麻基质在棺形模具中生长，干燥后放入潮湿土壤会重新活跃并开始分解。",
+   "keywords": [
+    "coffin",
+    "end of life",
+    "Loop Biotech",
+    "mycelium",
+    "TU Delft"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=uQXOls5Mefs"
+   },
+   "images": [
+    "https://s3files.core77.com/blog/images/lead_n_spotlight/1780348_lead_400_139559_.jpg",
+    "https://s3files.core77.com/blog/images/1780350_81_139559_PjL8Bg8YY.jpeg"
+   ],
+   "source_url": "https://www.core77.com/posts/139559/The-Loop-Living-Cocoon-A-Mushroom-Based-Coffin-Grown-in-Seven-Days"
+  },
+  {
+   "id": "dirk-hebel--mycotree",
+   "creator_ids": [
+    "dirk-hebel",
+    "block-research-group"
+   ],
+   "title": "MycoTree",
+   "year": 2017,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A self-supporting, tree-shaped spatial structure of load-bearing mycelium components, shown at the Seoul Biennale of Architecture and Urbanism.",
+   "description_zh": "一座由承重菌丝体构件组成、自承重的树形空间结构，在首尔建筑与城市双年展上展出。",
+   "idea_en": "A weak grown material can carry loads if the geometry keeps it in pure compression.",
+   "idea_zh": "只要几何形态让它只受压，强度不高的生长材料也能承重。",
+   "method": "Mycelium components were grown in moulds from agricultural waste and assembled into a branching form found with 3D graphic statics, so every part works in compression.",
+   "method_zh": "用农业废料在模具中长出菌丝体构件，按三维图解静力学找出的分叉形态组装，让每个构件都只受压。",
+   "keywords": [
+    "Seoul Biennale",
+    "graphic statics",
+    "compression-only",
+    "KIT",
+    "ETH Zurich",
+    "Future Cities Laboratory"
+   ],
+   "images": [
+    "https://world-architects.com/images/CmsPageElementImage/19/12/30/59aeaff69c4c4023a14052adac10015c/59aeaff69c4c4023a14052adac10015c.f5fb7444.JPG",
+    "https://world-architects.com/images/CmsPageElementImage/98/51/42/59aeb072bdd4446a86565733ac10015c/59aeb072bdd4446a86565733ac10015c.f5fb7444.JPG"
+   ],
+   "source_url": "https://world-architects.com/en/architecture-news/works/mycotree"
+  },
+  {
+   "id": "stacey-kuznetsov--mycelium-artifacts",
+   "creator_ids": [
+    "stacey-kuznetsov"
+   ],
+   "title": "Mycelium Artifacts: Exploring Shapeable and Accessible Biofabrication",
+   "year": 2019,
+   "field": "bio",
+   "sub": "mycelium",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "An HCI study of a year of growing 3D forms from mycelium, proposing it as a low-cost prototyping material for enclosures, hand-sculpted forms and replicas of 3D models.",
+   "description_zh": "一项人机交互研究，记录一年里用菌丝体生长三维形体的经验，提出把它当作低成本原型材料，用于外壳、手工塑形和三维模型复制。",
+   "idea_en": "Mycelium can be an everyday prototyping material for designers, not only a lab material.",
+   "idea_zh": "菌丝体可以成为设计师日常用的原型材料，而不只是实验室材料。",
+   "method": "Mycelium was grown on substrate in moulds made from everyday materials and, for replicas, likely from 3D-printed negatives, then dried.",
+   "method_zh": "在用日常材料做成的模具中培养菌丝体（复制三维模型时可能使用 3D 打印的负模），然后干燥。",
+   "keywords": [
+    "HCI",
+    "biofabrication",
+    "prototyping",
+    "DIY biology",
+    "DIS"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3301019.3325156",
+    "doi": "10.1145/3301019.3325156",
+    "arxiv": "",
+    "venue": "DIS 2019 Companion"
+   },
+   "source_url": "https://sandsystems.org/wp-content/uploads/2019/04/DIS-mycelium.pdf"
+  },
+  {
+   "id": "eldy-lazaro-vasquez--myco-accessories",
+   "creator_ids": [
+    "eldy-lazaro-vasquez",
+    "katia-vega"
+   ],
+   "title": "Myco-accessories: Sustainable Wearables with Biodegradable Materials",
+   "year": 2019,
+   "field": "bio",
+   "sub": "mycelium",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Wearable accessories with embedded electronics made from laminated sheets of grown mycelium skin, as a biodegradable alternative to plastic housings.",
+   "description_zh": "用层压的菌丝体薄皮制作、内嵌电子元件的可穿戴饰品，作为塑料外壳的可降解替代。",
+   "idea_en": "Wearable electronics can be housed in a material that composts.",
+   "idea_zh": "可穿戴电子设备可以装在能堆肥的材料里。",
+   "method": "Circuits are laminated between two layers of mycelium skin using a cornstarch glue and stitching.",
+   "method_zh": "用玉米淀粉胶和缝线把电路夹在两层菌丝体薄皮之间层压。",
+   "keywords": [
+    "wearables",
+    "mycelium skin",
+    "sustainable prototyping",
+    "ISWC"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3341163.3346938",
+    "doi": "10.1145/3341163.3346938",
+    "arxiv": "",
+    "venue": "ISWC 2019"
+   },
+   "source_url": "https://dl.acm.org/doi/10.1145/3341163.3346938"
+  },
+  {
+   "id": "athanassia-athanassiou--advanced-mycelium-materials",
+   "creator_ids": [
+    "athanassia-athanassiou"
+   ],
+   "title": "Advanced Materials From Fungal Mycelium: Fabrication and Tuning of Physical Properties",
+   "year": 2017,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "A materials-science study showing that pure mycelium films grown on different substrates have different stiffness, elasticity and surface properties.",
+   "description_zh": "一项材料科学研究，表明在不同基质上生长的纯菌丝体薄膜会有不同的刚度、弹性和表面性质。",
+   "idea_en": "What you feed the fungus decides the material you get.",
+   "idea_zh": "你喂真菌吃什么，就决定了你得到什么材料。",
+   "method": "Ganoderma lucidum and Pleurotus ostreatus were grown on cellulose or cellulose/potato-dextrose; harder-to-digest substrates gave more chitin and stiffer material.",
+   "method_zh": "在纤维素或纤维素/马铃薯葡萄糖基质上培养灵芝和平菇；越难消化的基质产生越多几丁质，材料越硬。",
+   "keywords": [
+    "Ganoderma lucidum",
+    "Pleurotus ostreatus",
+    "chitin",
+    "Young's modulus",
+    "IIT"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep41292/MediaObjects/41598_2017_Article_BFsrep41292_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/srep41292",
+    "doi": "10.1038/srep41292",
+    "arxiv": "",
+    "venue": "Scientific Reports"
+   },
+   "source_url": "https://www.nature.com/articles/srep41292"
+  },
+  {
+   "id": "andre-studart--mycelium-hydrogels",
+   "creator_ids": [
+    "andre-studart"
+   ],
+   "title": "Three-dimensional printing of mycelium hydrogels into living complex materials",
+   "year": 2023,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "paper",
+   "description": "Hydrogels loaded with living Ganoderma mycelium are 3D printed into lattices that keep growing, self-repair after damage and form a robust fungal skin.",
+   "description_zh": "把含活灵芝菌丝体的水凝胶 3D 打印成网格结构，它会继续生长、受损后自我修复，并形成坚韧的真菌表皮。",
+   "idea_en": "A printed object that stays alive, heals and adapts after it leaves the printer.",
+   "idea_zh": "一个离开打印机后仍然活着、会愈合、会适应的打印物。",
+   "method": "A hydrogel ink containing Ganoderma lucidum mycelium is printed into lattices; hyphae grow through and across the filaments to bridge gaps.",
+   "method_zh": "把含灵芝菌丝体的水凝胶墨水打印成网格，菌丝在打印丝内部和之间生长，填补缝隙。",
+   "keywords": [
+    "engineered living materials",
+    "3D printing",
+    "Ganoderma lucidum",
+    "self-healing",
+    "ETH Zurich"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-022-01429-5/MediaObjects/41563_2022_1429_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41563-022-01429-5",
+    "doi": "10.1038/s41563-022-01429-5",
+    "arxiv": "2203.00976",
+    "venue": "Nature Materials"
+   },
+   "source_url": "https://www.nature.com/articles/s41563-022-01429-5"
+  },
+  {
+   "id": "suzanne-lee--biocouture",
+   "creator_ids": [
+    "suzanne-lee"
+   ],
+   "title": "BioCouture",
+   "year": 2010,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Jackets, dresses and shoes made from sheets of bacterial cellulose grown in bathtubs of sweetened green tea, then dried, shaped and dyed with fruit and vegetable pigments.",
+   "description_zh": "用在加糖绿茶浴缸里长出的细菌纤维素片材做成的夹克、裙子和鞋，干燥、塑形后用果蔬色素染色。",
+   "idea_en": "Grow a garment in a vat of liquid instead of weaving and cutting cloth.",
+   "idea_zh": "在一缸液体里“长”出一件衣服，而不是织布再裁剪。",
+   "method": "A kombucha culture (symbiotic bacteria and yeast) spins cellulose nanofibres into a floating mat, which is harvested wet and moulded or seamed while drying.",
+   "method_zh": "康普茶菌群（细菌与酵母共生）把纤维素纳米纤维织成漂浮的菌膜，湿时收割，在干燥过程中塑形或拼接。",
+   "keywords": [
+    "kombucha",
+    "bacterial cellulose",
+    "SCOBY",
+    "Central Saint Martins",
+    "biofabrication"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3p3-vl9VFYU"
+   },
+   "source_url": "https://www.ted.com/talks/suzanne_lee_grow_your_own_clothes"
+  },
+  {
+   "id": "modern-meadow--zoa",
+   "creator_ids": [
+    "modern-meadow",
+    "suzanne-lee"
+   ],
+   "title": "Zoa biofabricated leather",
+   "year": 2017,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "product",
+   "description": "A leather-like material made from collagen protein produced by engineered microbes, first shown as a T-shirt in MoMA's 'Items: Is Fashion Modern?' and acquired by the museum.",
+   "description_zh": "一种用工程微生物生产的胶原蛋白制成的类皮革材料，首次以 T 恤形式出现在 MoMA 展览《Items: Is Fashion Modern?》中，并被该馆收藏。",
+   "idea_en": "Make the protein that gives leather its structure, without the animal, and shape it as a liquid.",
+   "idea_zh": "不要动物，只做出赋予皮革结构的那种蛋白质，并且像液体一样给它塑形。",
+   "method": "Engineered microbes (likely yeast) ferment collagen protein, which is purified and assembled into a fibrous material that can be cast, printed or bonded to fabric.",
+   "method_zh": "工程微生物（可能是酵母）发酵生产胶原蛋白，纯化后组装成纤维状材料，可以浇铸、印刷或与布料复合。",
+   "keywords": [
+    "collagen",
+    "biofabricated leather",
+    "MoMA",
+    "Items: Is Fashion Modern?",
+    "fermentation"
+   ],
+   "images": [
+    "https://3dprintingindustry.com/wp-content/uploads/2017/10/zoa-home-swatches.jpg"
+   ],
+   "source_url": "https://3dprintingindustry.com/news/modern-meadow-launches-zoa-worlds-first-biofabricated-leather-122023/"
+  },
+  {
+   "id": "biomason--biocement",
+   "creator_ids": [
+    "biomason"
+   ],
+   "title": "Biomason biocement bricks and tiles",
+   "year": 2012,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "Masonry units grown at room temperature in about three days, as bacteria precipitate calcium carbonate between grains of sand, with no kiln firing.",
+   "description_zh": "在常温下大约三天长成的砌块：细菌在沙粒之间析出碳酸钙，把沙子粘在一起，完全不需要窑烧。",
+   "idea_en": "Make bricks the way corals and shells make stone.",
+   "idea_zh": "像珊瑚和贝壳造“石头”那样来造砖。",
+   "method": "Sand in moulds is repeatedly irrigated with Sporosarcina pasteurii bacteria, urea and calcium chloride; microbially induced calcite precipitation binds the grains.",
+   "method_zh": "反复向模具里的沙子灌入巴氏芽孢八叠球菌（Sporosarcina pasteurii）、尿素和氯化钙，微生物诱导的方解石沉淀把沙粒粘合。",
+   "keywords": [
+    "MICP",
+    "Sporosarcina pasteurii",
+    "biocement",
+    "bioLITH",
+    "Ginger Krieg Dosier"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=6BqoM4am8kw"
+   },
+   "images": [
+    "https://www.designindaba.com/sites/default/files/node/news/24118/bmwebsiteupdate0618005-1-960x525c.jpeg"
+   ],
+   "source_url": "https://www.designindaba.com/articles/creative-work/biomason-grows-bricks-without-using-any-heat"
+  },
+  {
+   "id": "wil-srubar--living-building-materials",
+   "creator_ids": [
+    "wil-srubar"
+   ],
+   "title": "Biomineralization and Successive Regeneration of Engineered Living Building Materials",
+   "year": 2020,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Sand-hydrogel bricks mineralised by photosynthetic cyanobacteria that stay alive; splitting one brick and adding fresh sand, gel and nutrients grows new bricks.",
+   "description_zh": "由会光合作用的蓝藻矿化的沙-水凝胶砖，其中的细菌保持存活；把一块砖掰开，加入新的沙子、凝胶和养分，就能长出新的砖。",
+   "idea_en": "A building material that can reproduce itself.",
+   "idea_zh": "一种能够自我繁殖的建筑材料。",
+   "method": "Synechococcus sp. cyanobacteria precipitate calcium carbonate in a gelatin-sand scaffold; temperature and humidity switch the bacteria between growth and dormancy.",
+   "method_zh": "聚球藻（Synechococcus）在明胶-沙子支架中析出碳酸钙；通过温度和湿度让细菌在生长和休眠之间切换。",
+   "keywords": [
+    "engineered living materials",
+    "cyanobacteria",
+    "Synechococcus",
+    "biomineralization",
+    "regeneration"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.matt.2019.11.016",
+    "doi": "10.1016/j.matt.2019.11.016",
+    "arxiv": "",
+    "venue": "Matter"
+   },
+   "source_url": "https://www.colorado.edu/lab/srubar/"
+  },
+  {
+   "id": "prometheus-materials--bio-concrete",
+   "creator_ids": [
+    "prometheus-materials",
+    "wil-srubar"
+   ],
+   "title": "Prometheus Materials bio-concrete blocks",
+   "year": 2022,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "algae"
+   ],
+   "kind": "product",
+   "description": "Masonry blocks made with a bio-cement produced by microalgae instead of Portland cement, tested with the architecture firm SOM.",
+   "description_zh": "用微藻生产的生物水泥代替波特兰水泥制成的砌块，与建筑事务所 SOM 一起进行了测试。",
+   "idea_en": "Let photosynthetic microbes grow the binder of concrete and store carbon in it.",
+   "idea_zh": "让会光合作用的微生物长出混凝土的胶凝材料，并把碳存进去。",
+   "method": "Biomineralising cyanobacteria grown with sunlight, seawater and CO2 produce a calcium-carbonate binder that is mixed with aggregate and cured into blocks.",
+   "method_zh": "用阳光、海水和二氧化碳培养会生物矿化的蓝藻，生成碳酸钙胶凝材料，与骨料混合后养护成砌块。",
+   "keywords": [
+    "bio-cement",
+    "microalgae",
+    "cyanobacteria",
+    "SOM",
+    "low-carbon concrete"
+   ],
+   "images": [
+    "https://www.som.com/wp-content/uploads/2022/11/2U9A2252-A_large-1667592938-scaled.jpg"
+   ],
+   "source_url": "https://www.som.com/research/bio-concrete/"
+  },
+  {
+   "id": "henk-jonkers--self-healing-concrete",
+   "creator_ids": [
+    "henk-jonkers"
+   ],
+   "title": "Self-healing bioconcrete",
+   "year": 2010,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Concrete mixed with dormant bacterial spores and their food; when a crack lets in water, the bacteria wake up and fill the crack with limestone.",
+   "description_zh": "在混凝土里掺入休眠的细菌孢子和它们的食物；一旦裂缝进水，细菌就会苏醒，用石灰石把裂缝填上。",
+   "idea_en": "Put a repair crew of bacteria inside the material, asleep until damage appears.",
+   "idea_zh": "把一支细菌维修队放进材料里，平时休眠，出现损伤才开工。",
+   "method": "Alkali-resistant Bacillus spores and calcium lactate are encapsulated in the mix; water ingress triggers germination and calcium carbonate precipitation.",
+   "method_zh": "把耐碱的芽孢杆菌孢子和乳酸钙封装后拌入混凝土；进水会触发孢子萌发和碳酸钙沉淀。",
+   "keywords": [
+    "self-healing concrete",
+    "Bacillus",
+    "calcium lactate",
+    "TU Delft",
+    "Basilisk"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OXkW1q9HpFA"
+   },
+   "images": [
+    "https://t.e7096c671.entry.domains/SMxQ_AxRXE3Oq18kVrs1NmEc0lk=/fit-in/640x373/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2Fuser_upload%2FGreen%2520Basilisk%25201.jpg%3Fhash%3Db1841649b6"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ecoleng.2008.12.036",
+    "doi": "10.1016/j.ecoleng.2008.12.036",
+    "arxiv": "",
+    "venue": "Ecological Engineering"
+   },
+   "source_url": "https://www.tudelft.nl/en/innovation-impact/pioneering-tech/articles/the-enormous-potential-of-self-healing-bio-concrete"
+  },
+  {
+   "id": "colorifix--microbial-dyeing",
+   "creator_ids": [
+    "colorifix"
+   ],
+   "title": "Colorifix microbial dyeing",
+   "year": 2016,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "A dyeing process in which engineered bacteria produce pigments and deposit them on fabric inside standard dyeing machines, used in pilots with H&M and Pangaia.",
+   "description_zh": "一种染色工艺：工程细菌在普通染色机里生产色素并把它沉积到布料上，已与 H&M、Pangaia 做过试点。",
+   "idea_en": "Swap the chemistry of dyeing for fermentation, while keeping the existing factory.",
+   "idea_zh": "把染色的化学过程换成发酵，但保留现有的工厂设备。",
+   "method": "Colour-producing genes found in nature are put into bacteria that are grown on sugar and plant by-products; the culture is added to the dye bath and heat releases and fixes the colour.",
+   "method_zh": "把自然界找到的产色基因导入细菌，用糖和植物副产品培养；菌液加入染浴后，加热让颜色释放并固定在纤维上。",
+   "keywords": [
+    "microbial dye",
+    "synthetic biology",
+    "textile industry",
+    "H&M",
+    "Pangaia"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7Xndlq9-JXk"
+   },
+   "images": [
+    "https://www.discover.ukri.org/colorifix/assets/wmCG6YgEnk/casestudy-colorific-1019x1019.jpg"
+   ],
+   "source_url": "https://colorifix.com/"
+  },
+  {
+   "id": "bolt-threads--microsilk-dress",
+   "creator_ids": [
+    "bolt-threads"
+   ],
+   "title": "Microsilk dress with Stella McCartney",
+   "year": 2017,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "prototype",
+   "description": "A gold knitted shift dress made from yeast-fermented spider-silk protein, shown in MoMA's 'Items: Is Fashion Modern?'.",
+   "description_zh": "一件用酵母发酵生产的蛛丝蛋白编织而成的金色直身连衣裙，在 MoMA《Items: Is Fashion Modern?》展览中展出。",
+   "idea_en": "Brew a spider's silk protein in yeast instead of farming spiders.",
+   "idea_zh": "不用养蜘蛛，而是让酵母“酿”出蛛丝蛋白。",
+   "method": "Yeast carrying spider-silk-inspired genes ferments sugar into protein, which is purified, wet-spun into yarn and knitted.",
+   "method_zh": "携带蛛丝仿生基因的酵母把糖发酵成蛋白质，纯化后湿法纺成纱线再编织。",
+   "keywords": [
+    "Microsilk",
+    "spider silk",
+    "yeast fermentation",
+    "Stella McCartney",
+    "MoMA"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=u8fS6aR2_6g"
+   },
+   "source_url": "https://www.stellamccartney.com/us/en/sustainability/silk.html"
+  },
+  {
+   "id": "spiber--moon-parka",
+   "creator_ids": [
+    "spiber"
+   ],
+   "title": "THE NORTH FACE Moon Parka (Brewed Protein)",
+   "year": 2019,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria",
+    "molecules"
+   ],
+   "kind": "product",
+   "description": "A down parka made with Goldwin whose outer shell is woven from Brewed Protein, a structural protein fibre produced by microbial fermentation.",
+   "description_zh": "与 Goldwin 合作的羽绒派克服，外层面料用 Brewed Protein 织成，这是一种由微生物发酵生产的结构蛋白纤维。",
+   "idea_en": "Design the protein first, then let microbes brew it into a fibre.",
+   "idea_zh": "先设计蛋白质，再让微生物把它“酿”成纤维。",
+   "method": "Engineered microbes ferment sugar and nutrients into designed protein polymers in tanks; the protein is spun into multifilament yarn and woven.",
+   "method_zh": "工程微生物在发酵罐中把糖和营养物转化为设计好的蛋白聚合物，蛋白再纺成复丝纱线并织成布。",
+   "keywords": [
+    "Brewed Protein",
+    "Goldwin",
+    "THE NORTH FACE",
+    "structural protein",
+    "fermentation"
+   ],
+   "images": [
+    "https://about.goldwin.co.jp/eng/cms/wp-content/uploads/2019/09/190829_1230_01.jpg"
+   ],
+   "source_url": "https://about.goldwin.co.jp/eng/news/page-10045"
+  },
+  {
+   "id": "tom-ellis--programmable-cellulose",
+   "creator_ids": [
+    "tom-ellis"
+   ],
+   "title": "Living materials with programmable functionalities grown from engineered microbial co-cultures",
+   "year": 2021,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "A kombucha-like co-culture of cellulose-making bacteria and engineered yeast grows bacterial cellulose that can sense and respond to chemicals and light.",
+   "description_zh": "一种类似康普茶的共培养体系：产纤维素细菌和工程酵母一起长出能感知并响应化学物质和光的细菌纤维素。",
+   "idea_en": "Program the material while it grows by engineering the microbes that make it.",
+   "idea_zh": "通过改造制造材料的微生物，让材料在生长时就被“编程”。",
+   "method": "Komagataeibacter rhaeticus produces cellulose while engineered Saccharomyces cerevisiae secretes enzymes into it or lives inside it as a sensor.",
+   "method_zh": "Komagataeibacter rhaeticus 生产纤维素，同时工程酿酒酵母向其中分泌酶，或作为传感器生活在材料里。",
+   "keywords": [
+    "Syn-SCOBY",
+    "engineered living materials",
+    "Komagataeibacter rhaeticus",
+    "Saccharomyces cerevisiae",
+    "biosensing"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41563-020-00857-5/MediaObjects/41563_2020_857_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41563-020-00857-5",
+    "doi": "10.1038/s41563-020-00857-5",
+    "arxiv": "",
+    "venue": "Nature Materials"
+   },
+   "source_url": "https://www.nature.com/articles/s41563-020-00857-5"
+  },
+  {
+   "id": "tom-ellis--self-pigmenting-textiles",
+   "creator_ids": [
+    "tom-ellis",
+    "jen-keane"
+   ],
+   "title": "Self-pigmenting textiles grown from cellulose-producing bacteria with engineered tyrosinase expression",
+   "year": 2024,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "paper",
+   "description": "Bacteria engineered to make melanin grow a black, self-dyed cellulose material, used to make a shoe upper and a wallet.",
+   "description_zh": "经过改造、能合成黑色素的细菌长出自带黑色的纤维素材料，被做成了鞋面和钱包。",
+   "idea_en": "A material that grows and dyes itself in one step.",
+   "idea_zh": "一种在同一步里既长成又染好色的材料。",
+   "method": "Komagataeibacter rhaeticus expressing a recombinant tyrosinase grows bacterial cellulose, then is triggered to produce eumelanin throughout it.",
+   "method_zh": "表达重组酪氨酸酶的 Komagataeibacter rhaeticus 先长出细菌纤维素，再被诱导在材料内部生成真黑素。",
+   "keywords": [
+    "melanin",
+    "bacterial cellulose",
+    "Komagataeibacter rhaeticus",
+    "vegan leather",
+    "Modern Synthesis"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-024-02194-3/MediaObjects/41587_2024_2194_Fig1_HTML.png"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41587-024-02194-3",
+    "doi": "10.1038/s41587-024-02194-3",
+    "arxiv": "",
+    "venue": "Nature Biotechnology"
+   },
+   "source_url": "https://www.nature.com/articles/s41587-024-02194-3"
+  },
+  {
+   "id": "philips-design--microbial-home",
+   "creator_ids": [
+    "philips-design"
+   ],
+   "title": "Microbial Home",
+   "year": 2011,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A concept home at Dutch Design Week in which a methane digester, a bioluminescent bacteria wall light, a larder and a fungal plastic-recycling unit pass waste and energy to each other.",
+   "description_zh": "荷兰设计周上的概念住宅：沼气池、发光细菌壁灯、食品储藏柜和真菌塑料回收装置之间相互传递废物与能量。",
+   "idea_en": "Design the home as a biological machine where one appliance's waste is another's food.",
+   "idea_zh": "把家设计成一台生物机器，一个电器的废物就是另一个电器的食物。",
+   "method": "Speculative appliances connect bacterial digestion, bioluminescent cultures fed with digester output, and fungal composting into one domestic loop.",
+   "method_zh": "思辨性的电器把细菌消化、以沼气池产物喂养的发光菌群和真菌堆肥连成一个家庭循环。",
+   "keywords": [
+    "Design Probes",
+    "bio-digester",
+    "Bio-light",
+    "speculative design",
+    "domestic ecosystem"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=qWisAEmqCp0"
+   },
+   "images": [
+    "https://ifdalivestorage.blob.core.windows.net/user-uploads/5738/86665/00000000-0000-0000-0000-000000000000/01_1-Microbial_Home_large.jpg"
+   ],
+   "source_url": "https://ifdesign.com/en/winner-ranking/project/microbial-home/86665"
+  },
+  {
+   "id": "glowee--bioluminescent-light",
+   "creator_ids": [
+    "glowee"
+   ],
+   "title": "Glowee bioluminescent lighting",
+   "year": 2014,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "product",
+   "description": "Transparent vessels and panels filled with a nutrient liquid of bioluminescent marine bacteria that glow blue-green, used for shop windows, events and street-light trials.",
+   "description_zh": "装满发光海洋细菌营养液的透明容器和面板，发出蓝绿色的光，用于橱窗、活动和城市照明试点。",
+   "idea_en": "Light that is grown and fed rather than wired.",
+   "idea_zh": "一种靠培养和喂养、而不是靠电线的光。",
+   "method": "Bioluminescent bacteria related to squid symbionts (likely Aliivibrio fischeri; early versions used engineered E. coli) are kept alive in a nutrient medium and emit light while oxygenated.",
+   "method_zh": "与鱿鱼共生菌同类的发光细菌（可能是 Aliivibrio fischeri；早期版本用过工程大肠杆菌）在营养液中存活，有氧时发光。",
+   "keywords": [
+    "bioluminescence",
+    "Aliivibrio fischeri",
+    "urban lighting",
+    "Sandra Rey"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=C26teAbSH1k"
+   },
+   "source_url": "https://www.glowee.com/"
+  },
+  {
+   "id": "teresa-van-dongen--ambio",
+   "creator_ids": [
+    "teresa-van-dongen"
+   ],
+   "title": "Ambio",
+   "year": 2014,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A balanced lamp with a glass tube of seawater and bioluminescent bacteria; a gentle push rocks the tube, mixes in oxygen and makes the bacteria glow.",
+   "description_zh": "一盏平衡式的灯，玻璃管里装着海水和发光细菌；轻轻一推，管子摆动混入氧气，细菌就会发光。",
+   "idea_en": "Touch and motion become the light switch because the organism needs oxygen to shine.",
+   "idea_zh": "触摸和摆动就是开关，因为这种生物需要氧气才会发光。",
+   "method": "Bioluminescent bacteria taken from octopus skin live in seawater in a sealed tube; movement aerates the liquid and triggers luciferase light.",
+   "method_zh": "从章鱼皮肤上取得的发光细菌生活在密封管的海水里；摆动让液体充氧，触发荧光素酶发光。",
+   "keywords": [
+    "bioluminescence",
+    "octopus bacteria",
+    "lamp",
+    "Design Academy Eindhoven"
+   ],
+   "video": {
+    "url": "https://vimeo.com/105638791"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/16/540742/8522001/AMBIO_01AA_1250.jpg"
+   ],
+   "source_url": "https://www.teresavandongen.com/Ambio"
+  },
+  {
+   "id": "teresa-van-dongen--spark-of-life",
+   "creator_ids": [
+    "teresa-van-dongen"
+   ],
+   "title": "Spark of Life",
+   "year": 2016,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A pendant lamp powered by electroactive bacteria in four compartments; their metabolism produces a small current that lights LEDs, as long as they are fed acetate.",
+   "description_zh": "一盏由四个腔室中的产电细菌供电的吊灯；只要定期喂食醋酸盐，它们代谢产生的微弱电流就能点亮 LED。",
+   "idea_en": "A lamp you keep alive by feeding it, like a pet.",
+   "idea_zh": "一盏要像宠物一样喂养才能亮的灯。",
+   "method": "Geobacter bacteria from river mud form microbial fuel cells that pass electrons to electrodes; developed with Ghent University.",
+   "method_zh": "来自河泥的地杆菌（Geobacter）形成微生物燃料电池，把电子传给电极；与根特大学合作开发。",
+   "keywords": [
+    "microbial fuel cell",
+    "Geobacter",
+    "Ghent University",
+    "lighting"
+   ],
+   "images": [
+    "https://payload.cargocollective.com/1/16/540742/12090344/Spark_Of_Life_05b_1250.jpg"
+   ],
+   "source_url": "https://www.teresavandongen.com/Spark-of-Life"
+  },
+  {
+   "id": "natsai-audrey-chieza--project-coelicolor",
+   "creator_ids": [
+    "natsai-audrey-chieza"
+   ],
+   "title": "Project Coelicolor",
+   "year": 2011,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Silk scarves and garments dyed by growing the soil bacterium Streptomyces coelicolor directly on the fabric, producing blue, pink and purple patterns.",
+   "description_zh": "让土壤细菌 Streptomyces coelicolor 直接在布料上生长，给丝巾和服装染出蓝、粉、紫色的图案。",
+   "idea_en": "Let bacteria dye the cloth: the pattern records where and how they grew.",
+   "idea_zh": "让细菌来染布：图案记录了它们在哪里、如何生长。",
+   "method": "The bacterium secretes the pH-sensitive pigment actinorhodin, which binds to textile fibres without mordants and with far less water than industrial dyeing.",
+   "method_zh": "这种细菌分泌对酸碱敏感的色素放线紫红素（actinorhodin），无需媒染剂就能与纤维结合，用水量远少于工业染色。",
+   "keywords": [
+    "Streptomyces coelicolor",
+    "actinorhodin",
+    "Faber Futures",
+    "Ginkgo Bioworks",
+    "UCL"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ciAPl7FLdMY"
+   },
+   "images": [
+    "https://faberfutures.com/wp-content/uploads/2019/12/Project_ASSEMBLAGE002-2019_%C2%A9-FaberFutures_050919_4-1024x683.png"
+   ],
+   "source_url": "https://faberfutures.com/projects/project-coelicolor/"
+  },
+  {
+   "id": "living-colour--bacterial-dyeing",
+   "creator_ids": [
+    "living-colour"
+   ],
+   "title": "Living Colour",
+   "year": 2016,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Textiles dyed by culturing pigment-producing bacteria directly on the fabric, including experiments that shaped growth patterns with sound.",
+   "description_zh": "直接在布料上培养产色素细菌来染色，其中还有用声音塑造细菌生长图案的实验。",
+   "idea_en": "The life cycle of the bacteria becomes the print.",
+   "idea_zh": "细菌的生命周期本身就成了印花。",
+   "method": "Bacteria that produce carotenoids or violacein ferment nutrients into pigment while growing on the fabric; each batch leaves a unique growth pattern.",
+   "method_zh": "产类胡萝卜素或紫色杆菌素的细菌在布上生长，把营养发酵成色素；每一批都会留下独特的生长纹样。",
+   "keywords": [
+    "violacein",
+    "live dyeing",
+    "Kukka",
+    "Hogeschool Rotterdam",
+    "sound"
+   ],
+   "video": {
+    "url": "https://vimeo.com/294452499"
+   },
+   "images": [
+    "https://livingcolour.eu/wp-content/uploads/2017/09/LC-Slider-1.png",
+    "https://livingcolour.eu/wp-content/uploads/2016/09/Living-Colour-2.jpg"
+   ],
+   "source_url": "https://livingcolour.eu/"
+  },
+  {
+   "id": "jen-keane--this-is-grown",
+   "creator_ids": [
+    "jen-keane"
+   ],
+   "title": "This is Grown.",
+   "year": 2018,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A shoe upper grown in one piece by 'microbial weaving': the designer weaves the warp threads and bacteria grow the weft of cellulose around them.",
+   "description_zh": "用“微生物编织”一体长成的鞋面：设计师织好经线，细菌在周围长出纤维素纬线。",
+   "idea_en": "Share the loom with bacteria, so the product is grown to shape with no offcuts.",
+   "idea_zh": "和细菌共用一台织机，让产品按形状长出来，没有边角料。",
+   "method": "Komagataeibacter rhaeticus grows nanocellulose onto a biodegradable yarn framework in a nutrient bath, producing a strong, light composite.",
+   "method_zh": "Komagataeibacter rhaeticus 在营养液中把纳米纤维素长在可降解纱线骨架上，形成轻而强的复合材料。",
+   "keywords": [
+    "microbial weaving",
+    "bacterial cellulose",
+    "Komagataeibacter rhaeticus",
+    "Central Saint Martins",
+    "S+T+ARTS Prize"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=j_xlKpcNjI8"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2019/05/Thisisgrown_2000x1000_c_Vita_Larvo-1024x512.jpg",
+    "https://media.materialdistrict.com/wp-content/uploads/2018/11/shoe-grown-microbial-weaving-materialdistrict-2.jpg"
+   ],
+   "source_url": "https://starts-prize.aec.at/en/this-is-grown/"
+  },
+  {
+   "id": "aniela-hoitink--mycotex",
+   "creator_ids": [
+    "aniela-hoitink"
+   ],
+   "title": "MycoTEX (Neffa dress)",
+   "year": 2016,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "A dress assembled from round modules of pure mycelium moulded around a body form, the start of a method for growing seamless, made-to-measure clothes.",
+   "description_zh": "一件由纯菌丝体圆形模块围绕人台拼接而成的连衣裙，也是一种生长无缝、量身定制服装方法的起点。",
+   "idea_en": "Clothes can be grown to the wearer's measurements and composted when worn out.",
+   "idea_zh": "衣服可以按穿着者的尺寸长出来，穿旧了就拿去堆肥。",
+   "method": "Mycelium is grown into flexible sheets or modules in moulds, which fuse together as they grow over a 3D body shape.",
+   "method_zh": "在模具中把菌丝体长成柔软的片或模块，它们在三维人体形状上生长时相互融合。",
+   "keywords": [
+    "mycelium textile",
+    "NEFFA",
+    "made to measure",
+    "compostable fashion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HFwvYkJyaRg"
+   },
+   "images": [
+    "https://media.materialdistrict.com/wp-content/uploads/2017/04/mycotex-textile-made-from-mushroom-mycelium-01.jpg"
+   ],
+   "source_url": "https://materialdistrict.com/article/mycotex-textile-mushroom-mycelium/"
+  },
+  {
+   "id": "mit-design-lab--breathing-shoe",
+   "creator_ids": [
+    "mit-design-lab"
+   ],
+   "title": "PUMA Biodesign: Breathing Shoe",
+   "year": 2018,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A shoe upper with cavities of bacteria and gel that respond to the heat of the foot and open personalised ventilation channels over time.",
+   "description_zh": "一种鞋面，里面的空腔装着细菌和凝胶，会对脚的温度作出反应，逐渐形成个性化的透气通道。",
+   "idea_en": "A product that adapts to one body because living cells respond to that body's heat.",
+   "idea_zh": "一件会适应某一个人身体的产品，因为其中的活细胞会对这个人的体温作出反应。",
+   "method": "Bacteria in a gelatinous matrix consume it where the foot is warmest, altering the upper's surface; made with PUMA and the start-up Biorealize.",
+   "method_zh": "凝胶基质中的细菌在脚最热的位置把基质吃掉，从而改变鞋面；与 PUMA 和初创公司 Biorealize 合作完成。",
+   "keywords": [
+    "PUMA",
+    "Biorealize",
+    "sportswear",
+    "adaptive",
+    "Milan Design Week"
+   ],
+   "video": {
+    "url": "https://vimeo.com/265128805"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5f45797044d9a24b866b9afd/1610232507163-UR8Y2MG44PM574ZV3QU2/Breathing+Shoe_04.jpg"
+   ],
+   "source_url": "https://design-lab.mit.edu/projects/puma-biodesign"
+  },
+  {
+   "id": "achim-menges--hygroscope",
+   "creator_ids": [
+    "achim-menges"
+   ],
+   "title": "HygroScope: Meteorosensitive Morphology",
+   "year": 2012,
+   "field": "bio",
+   "sub": "responsive",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A wooden surface in a climate-controlled glass case at the Centre Pompidou that opens and closes its thousands of scales as humidity changes, with no motors or electronics.",
+   "description_zh": "蓬皮杜中心一个温湿度可控的玻璃柜里的木质表皮，成千上万片鳞片随湿度变化开合，不用任何电机或电子元件。",
+   "idea_en": "Program behaviour into the material, like a pine cone, instead of adding machines.",
+   "idea_zh": "像松果一样，把行为“写进”材料里，而不是额外加机器。",
+   "method": "Thin maple veneer laminated to a synthetic layer bends as the wood absorbs or releases moisture; computational design sets fibre direction and geometry.",
+   "method_zh": "薄枫木单板与合成层复合，木材吸湿或放湿时发生弯曲；用计算设计确定纤维方向和几何形态。",
+   "keywords": [
+    "hygromorphic",
+    "wood veneer",
+    "Centre Pompidou",
+    "Steffen Reichert",
+    "ICD Stuttgart",
+    "biomimetic"
+   ],
+   "video": {
+    "url": "https://vimeo.com/55938597"
+   },
+   "source_url": "https://www.achimmenges.net/project/hygroscope-meteorosensitive-morphology-2/"
+  },
+  {
+   "id": "klarenbeek-dros--algae-lab",
+   "creator_ids": [
+    "klarenbeek-dros"
+   ],
+   "title": "Algae Lab (Atelier LUMA)",
+   "year": 2017,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "An open lab in Arles that cultivates local microalgae and seaweed and turns them into a bioplastic for 3D printing vessels, tableware and replicas of historic glassware.",
+   "description_zh": "阿尔勒的一个开放实验室，培养本地微藻和海藻，把它们做成生物塑料，用来 3D 打印器皿、餐具和历史玻璃器的复制品。",
+   "idea_en": "Build a local material economy on algae that grow by absorbing CO2.",
+   "idea_zh": "以吸收二氧化碳生长的藻类为基础，建立一种本地的材料经济。",
+   "method": "Dried algae biomass is combined with potato starch into a biopolymer (developed with Wageningen University) and extruded as 3D-printing filament.",
+   "method_zh": "把干燥的藻类生物质与马铃薯淀粉结合成生物聚合物（与瓦赫宁根大学共同开发），再挤出成 3D 打印线材。",
+   "keywords": [
+    "Atelier LUMA",
+    "Arles",
+    "algae bioplastic",
+    "3D printing",
+    "New Material Award 2018"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=t9sNeReXkSg"
+   },
+   "images": [
+    "https://new-material-award.nl/wp-content/uploads/2021/11/DSC03346_053_AntoinRaabLUMA-1024x683.jpg",
+    "https://media.materialdistrict.com/wp-content/uploads/2017/12/reproducing-historical-glassware-with-3d-printed-algae-01.jpg"
+   ],
+   "source_url": "https://new-material-award.nl/en/algae-lab/"
+  },
+  {
+   "id": "keel-labs--kelsun",
+   "creator_ids": [
+    "keel-labs"
+   ],
+   "title": "AlgiKnit / Kelsun kelp yarn",
+   "year": 2017,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "product",
+   "description": "A yarn made from alginate extracted from kelp, extruded into fibre and knitted into textiles that can biodegrade.",
+   "description_zh": "一种用海带中提取的海藻酸盐挤出成纤维的纱线，可以编织成能生物降解的纺织品。",
+   "idea_en": "Grow textile fibre in the sea, where kelp grows fast without land, fresh water or fertiliser.",
+   "idea_zh": "在海里“种”纺织纤维：海带长得快，不占土地、不用淡水和化肥。",
+   "method": "Alginate from brown kelp is dissolved, extruded into a calcium bath where it gels into filaments, then processed into yarn.",
+   "method_zh": "把褐藻中的海藻酸盐溶解后挤入钙浴，凝胶化成丝，再加工成纱线。",
+   "keywords": [
+    "kelp",
+    "alginate",
+    "yarn",
+    "Kelsun",
+    "biodegradable textile"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=3QXk0kk544w"
+   },
+   "source_url": "https://www.keellabs.com/"
+  },
+  {
+   "id": "blond-bieber--algaemy",
+   "creator_ids": [
+    "blond-bieber"
+   ],
+   "title": "Algaemy",
+   "year": 2014,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "A hand-operated textile printer that prints with dyes extracted from microalgae; the prints keep changing colour in sunlight after they are made.",
+   "description_zh": "一台手动的纺织印花机，用从微藻中提取的染料印花；印好的图案在阳光下还会继续变色。",
+   "idea_en": "A living colour palette: the textile keeps changing because the pigment does.",
+   "idea_zh": "一套“活的”色板：因为色素在变，织物也一直在变。",
+   "method": "Pigments from blue, green, red and brown microalgae, developed with Fraunhofer IGB, are extracted and thickened into printing pastes.",
+   "method_zh": "与弗劳恩霍夫界面工程与生物技术研究所合作，从蓝、绿、红、褐色微藻中提取色素，调成印花浆。",
+   "keywords": [
+    "microalgae",
+    "natural dye",
+    "textile printing",
+    "Fraunhofer IGB",
+    "photosensitive"
+   ],
+   "video": {
+    "url": "https://vimeo.com/88760027"
+   },
+   "images": [
+    "http://www.archipanic.com/wp-content/uploads/2014/09/Algaemi-01.jpg"
+   ],
+   "source_url": "https://www.archipanic.com/algaemy/"
+  },
+  {
+   "id": "charlotte-mccurdy--after-ancient-sunlight",
+   "creator_ids": [
+    "charlotte-mccurdy"
+   ],
+   "title": "After Ancient Sunlight",
+   "year": 2019,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "speculative",
+   "description": "A translucent raincoat made from a bioplastic of marine macroalgae, shown in the Cooper Hewitt Design Triennial as a carbon-negative alternative to oil-based plastic.",
+   "description_zh": "一件用海洋大型藻类生物塑料做成的半透明雨衣，在库珀·休伊特设计三年展中作为石油塑料的负碳替代品展出。",
+   "idea_en": "Swap materials made from ancient sunlight (fossil fuels) for materials made from today's sunlight.",
+   "idea_zh": "把用“远古阳光”（化石燃料）做的材料，换成用“今天的阳光”做的材料。",
+   "method": "Biopolymers derived from seaweed are cast into a water-resistant film and sewn with algae-based sequins.",
+   "method_zh": "把海藻提取的生物聚合物浇铸成防水薄膜，再缝上藻基亮片。",
+   "keywords": [
+    "algae bioplastic",
+    "raincoat",
+    "carbon-negative",
+    "Cooper Hewitt",
+    "Nature Design Triennial"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/68fbbc1b54d7213899866bb4/34015ad0-8da0-4fb2-8155-e467fdca2705/Algae%2BRaincoat%281%29.jpg"
+   ],
+   "source_url": "https://www.charlottemccurdy.com/afterancientsunlight"
+  },
+  {
+   "id": "julia-lohmann--department-of-seaweed",
+   "creator_ids": [
+    "julia-lohmann"
+   ],
+   "title": "Department of Seaweed",
+   "year": 2013,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A transdisciplinary community practice that treats kelp as a leather-like design material, leading to lamps, objects and the kelp pavilion Hidaka Ohmu.",
+   "description_zh": "一个跨学科的社群实践，把海带当作类皮革的设计材料，做出了灯具、物件和海带展亭 Hidaka Ohmu。",
+   "idea_en": "Learn a material together with the ecosystem it comes from, not only as a resource.",
+   "idea_zh": "和材料所来自的生态系统一起去认识材料，而不只把它当资源。",
+   "method": "Dried kelp is rehydrated, treated with glycerine to stay flexible, then stretched, stitched and shaped over frames like leather.",
+   "method_zh": "干海带重新泡软，用甘油处理保持柔韧，再像皮革一样绷在框架上缝合、塑形。",
+   "keywords": [
+    "kelp",
+    "seaweed",
+    "V&A",
+    "Aalto University",
+    "Hidaka Ohmu"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8RWcmw8fHGY"
+   },
+   "source_url": "https://www.julialohmann.co.uk/"
+  },
+  {
+   "id": "roya-aghighi--biogarmentry",
+   "creator_ids": [
+    "roya-aghighi"
+   ],
+   "title": "Biogarmentry",
+   "year": 2019,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "speculative",
+   "description": "A living, photosynthetic textile of single-cell algae that must be watered occasionally and lives for weeks, proposed as clothing that turns CO2 into oxygen.",
+   "description_zh": "一种由单细胞藻类构成、会光合作用的活织物，需要偶尔浇水，能活几周；作者把它设想为能把二氧化碳变成氧气的衣服。",
+   "idea_en": "If clothes are alive, we have to care for them, and may keep them longer.",
+   "idea_zh": "如果衣服是活的，我们就得照顾它，也许就会穿得更久。",
+   "method": "Chlamydomonas reinhardtii algae are spun together with a nanopolymer into a non-woven sheet, developed with UBC's AMPEL and botany labs.",
+   "method_zh": "把莱茵衣藻（Chlamydomonas reinhardtii）和纳米聚合物一起纺成无纺布，与不列颠哥伦比亚大学 AMPEL 实验室和植物学实验室合作开发。",
+   "keywords": [
+    "Chlamydomonas reinhardtii",
+    "living textile",
+    "photosynthesis",
+    "UBC",
+    "slow fashion"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eWX_KvpaFak"
+   },
+   "images": [
+    "https://s3files.core77.com/blog/images/876970_66863_83837_Co6IzY2hw.jpg"
+   ],
+   "source_url": "https://designawards.core77.com/personal-accessory/83837/Biogarmentry-Living-and-Photosynthetic-Textile"
+  },
+  {
+   "id": "notpla--ooho",
+   "creator_ids": [
+    "notpla"
+   ],
+   "title": "Ooho",
+   "year": 2014,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "product",
+   "description": "Edible, flexible pods of water or juice wrapped in a seaweed membrane, used for example to hand out drinks at the London Marathon.",
+   "description_zh": "用海藻薄膜包裹的可食用软水球或果汁球，比如在伦敦马拉松上被用来给选手补水。",
+   "idea_en": "The packaging disappears: you eat it, or it composts in weeks.",
+   "idea_zh": "包装会消失：你把它吃掉，或者它几周内自然降解。",
+   "method": "Liquid with calcium lactate is dropped into a sodium alginate bath from brown seaweed, forming a gel skin by spherification.",
+   "method_zh": "把含乳酸钙的液体滴入褐藻提取的海藻酸钠溶液，通过“球化”反应形成凝胶外膜。",
+   "keywords": [
+    "seaweed",
+    "alginate",
+    "edible packaging",
+    "Skipping Rocks Lab",
+    "spherification"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EzlpCjh8nBU"
+   },
+   "source_url": "https://www.notpla.com/ooho"
+  },
+  {
+   "id": "nienke-hoogvliet--sea-me",
+   "creator_ids": [
+    "nienke-hoogvliet"
+   ],
+   "title": "SEA ME",
+   "year": 2014,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "A rug of green seaweed yarn hand-knotted into an old fishing net, setting what the sea offers against the plastic waste we put into it.",
+   "description_zh": "一块用绿色海藻纱线在旧渔网上手工打结做成的地毯，把大海给予我们的东西和我们扔进大海的塑料垃圾放在一起。",
+   "idea_en": "A material story: the same object shows the sea as a source and as a dump.",
+   "idea_zh": "一个关于材料的故事：同一件物品，既展示大海的馈赠，也展示它被当成垃圾场。",
+   "method": "Yarn is spun from cellulose extracted from kelp, dip-dyed on the cone for a gradient, and knotted into a discarded net.",
+   "method_zh": "用从海带中提取的纤维素纺成纱线，在纱筒上浸染出渐变色，再打结编进废弃渔网。",
+   "keywords": [
+    "seaweed yarn",
+    "kelp",
+    "fishing net",
+    "Dutch Design Week",
+    "rug"
+   ],
+   "images": [
+    "https://www.nienkehoogvliet.nl/wp-content/uploads/2015/05/SEAME_01.jpg"
+   ],
+   "source_url": "https://www.nienkehoogvliet.nl/portfolio/seame/"
+  },
+  {
+   "id": "living-things-studio--living-things",
+   "creator_ids": [
+    "living-things-studio"
+   ],
+   "title": "Living Things",
+   "year": 2015,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "speculative",
+   "description": "An installation at Pittsburgh's Mattress Factory of three furnished rooms whose glass bioreactors grow edible spirulina and double as lamps and heaters.",
+   "description_zh": "匹兹堡 Mattress Factory 的一件装置：三个布置好的房间里，玻璃生物反应器养着可食用的螺旋藻，同时也是灯和取暖器。",
+   "idea_en": "Furniture as a farm: the home produces food and light from algae.",
+   "idea_zh": "家具就是农场：家用藻类生产食物和光。",
+   "method": "Hand-blown vessels connected by pumps and tubing keep Arthrospira (spirulina) cultures growing under light; the harvest can be eaten.",
+   "method_zh": "用泵和管道连接的手吹玻璃容器让螺旋藻（Arthrospira）在光照下持续生长，收获后可以食用。",
+   "keywords": [
+    "spirulina",
+    "bioreactor furniture",
+    "Mattress Factory",
+    "domestic",
+    "food"
+   ],
+   "video": {
+    "url": "https://vimeo.com/128654962"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/556fd511e4b06084871e33e5/1433699029590-JL00Y23DXYE8VMC8XU31/Living+Things+1.jpg"
+   ],
+   "source_url": "http://www.ethanfrier.com/living-things"
+  },
+  {
+   "id": "mike-thompson--latro",
+   "creator_ids": [
+    "mike-thompson"
+   ],
+   "title": "Latro algae lamp",
+   "year": 2010,
+   "field": "bio",
+   "sub": "algae",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "algae"
+   ],
+   "kind": "speculative",
+   "description": "A concept lamp that draws power from living algae in its chamber; the owner must give it sunlight, water and CO2 to keep the algae, and the light, alive.",
+   "description_zh": "一盏概念灯，从灯室里的活藻类获取电能；主人要给它阳光、水和二氧化碳，藻类和灯光才能一直“活着”。",
+   "idea_en": "Energy as a relationship of care between a person and an organism.",
+   "idea_zh": "把能源看作人和生物之间的照料关系。",
+   "method": "Based on research into harvesting photosynthetic current from algal chloroplasts; a battery stores the energy and a light sensor limits use so the algae are not exhausted.",
+   "method_zh": "基于从藻类叶绿体中获取光合电流的研究；电池储存能量，光敏传感器限制使用，以免藻类“累坏”。",
+   "keywords": [
+    "algae",
+    "photosynthetic electricity",
+    "speculative product",
+    "care",
+    "Science Gallery Dublin"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=IoMWCaTmrbQ"
+   },
+   "images": [
+    "https://makezine.com/wp-content/uploads/2010/06/ltr1.jpg"
+   ],
+   "source_url": "https://nextnature.org/en/magazine/story/2012/latro-algae-lamp"
+  },
+  {
+   "id": "space10--algae-dome",
+   "creator_ids": [
+    "space10"
+   ],
+   "title": "The Algae Dome",
+   "year": 2017,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "prototype",
+   "description": "A four-metre pavilion in Copenhagen wrapped in 320 metres of tubing where microalgae grew in sunlight, proposing buildings that produce food for their residents.",
+   "description_zh": "哥本哈根一座四米高的展亭，外面缠绕着 320 米长的管道，微藻在阳光下生长，设想建筑能为住户生产食物。",
+   "idea_en": "A building skin can be a farm.",
+   "idea_zh": "建筑的外皮可以是一座农场。",
+   "method": "Microalgae (spirulina and chlorella, likely) circulate through a coiled tube photobioreactor fixed to a timber dome, fed by sunlight and CO2.",
+   "method_zh": "微藻（可能是螺旋藻和小球藻）在固定于木穹顶上的盘管光生物反应器中循环，靠阳光和二氧化碳生长。",
+   "keywords": [
+    "photobioreactor",
+    "pavilion",
+    "food",
+    "CHART Art Fair",
+    "Copenhagen"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=xFt4Mjna2dk"
+   },
+   "source_url": "https://space10.com/projects/algae-dome/"
+  },
+  {
+   "id": "diana-scherer--interwoven",
+   "creator_ids": [
+    "diana-scherer"
+   ],
+   "title": "Interwoven",
+   "year": 2016,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Textile-like panels and garments made by growing wheat and other grass roots against carved underground templates so that the roots form lace and hexagon patterns.",
+   "description_zh": "让小麦等禾草的根系贴着雕刻好的地下模板生长，长成蕾丝和六边形图案，做出类似织物的面板和服装。",
+   "idea_en": "Domesticate the root system: the root follows the template and weaves itself.",
+   "idea_zh": "“驯化”根系：根沿着模板生长，自己把自己织成布。",
+   "method": "Seeds are sown over 3D-printed or carved bioplastic templates in soil; after weeks of growth the root mat is harvested and dried.",
+   "method_zh": "把种子播在土里的 3D 打印或雕刻生物塑料模板上，生长几周后收割根垫并干燥。",
+   "keywords": [
+    "root weaving",
+    "wheat",
+    "Radboud University",
+    "Het Nieuwe Instituut",
+    "New Material Award"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9be4A9vvo3c"
+   },
+   "images": [
+    "https://cmsfiles.nieuweinstituut.nl/diana_scherer_interwoven01_85de138ea3.jpg"
+   ],
+   "source_url": "https://nieuweinstituut.nl/en/projects/new-material-award/diana-scherer"
+  },
+  {
+   "id": "gavin-munro--full-grown",
+   "creator_ids": [
+    "gavin-munro"
+   ],
+   "title": "Full Grown chairs",
+   "year": 2006,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Chairs, lamps and tables grown from living willow, ash, sycamore and other trees trained over frames in a Derbyshire field, then harvested whole.",
+   "description_zh": "在德比郡的田里，让柳树、白蜡、梧桐等活树沿框架生长，长成椅子、灯和桌子后再整体收获。",
+   "idea_en": "Grow the tree into the object directly, a kind of slow 3D printing.",
+   "idea_zh": "让树直接长成物件，一种很慢的 3D 打印。",
+   "method": "Young trees are pruned, bent and grafted over moulds for six to nine years, then cut and dried for about a year.",
+   "method_zh": "把幼树沿模具修剪、弯折和嫁接六到九年，再砍下干燥大约一年。",
+   "keywords": [
+    "tree shaping",
+    "grafting",
+    "willow",
+    "furniture",
+    "slow design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=89jZhzU8_rk"
+   },
+   "source_url": "https://fullgrown.co.uk/"
+  },
+  {
+   "id": "ferdinand-ludwig--plane-tree-cube",
+   "creator_ids": [
+    "ferdinand-ludwig"
+   ],
+   "title": "Plane-Tree-Cube Nagold",
+   "year": 2012,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A six-level cube in Nagold whose walls are London plane trees planted in stacked planters and grafted together, supported by steel scaffolding that will be removed as the trees grow.",
+   "description_zh": "纳戈尔德一座六层的立方体，墙体由种在层层花槽里、彼此嫁接的悬铃木构成，由钢脚手架支撑，树长大后脚手架会被拆除。",
+   "idea_en": "A building that becomes stronger and more alive as it ages.",
+   "idea_zh": "一座越老越结实、越有生命的建筑。",
+   "method": "Plant-addition: young trees are placed in pots at several heights and grafted into one connected living network that gradually takes over the load.",
+   "method_zh": "植物叠加法：把幼树放在不同高度的花盆里，嫁接成一个相连的活体网络，逐渐承担荷载。",
+   "keywords": [
+    "Baubotanik",
+    "Platanus",
+    "plant addition",
+    "grafting",
+    "ludwig.schoenle"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=QijxrrnsZoA"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Plane_tree_cube.jpg/1280px-Plane_tree_cube.jpg",
+    "https://images.adsttc.com/media/images/583b/672b/e58e/cebc/9300/010e/large_jpg/after_completion.jpg?1480288036"
+   ],
+   "source_url": "https://www.archdaily.com/800294/platanenkubus-nagold-ludwichoenle"
+  },
+  {
+   "id": "khasi-communities--living-root-bridges",
+   "creator_ids": [
+    "khasi-communities"
+   ],
+   "title": "Living root bridges of Meghalaya",
+   "year": 1844,
+   "field": "bio",
+   "sub": "grown",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Footbridges up to about 50 metres long grown over generations by guiding the aerial roots of rubber fig trees across streams; some are centuries old.",
+   "description_zh": "世代引导印度橡胶树的气生根跨过溪流而长成的步行桥，最长约 50 米，有些已有几百年历史。",
+   "idea_en": "Infrastructure grown and maintained across generations, which gets stronger with age.",
+   "idea_zh": "跨越几代人生长和维护的基础设施，越老越结实。",
+   "method": "Roots of Ficus elastica are wrapped around bamboo or areca-palm guides; they thicken and fuse (inosculate) into a load-bearing network. Year is the first written European record.",
+   "method_zh": "把印度橡胶树（Ficus elastica）的根缠在竹子或槟榔树干做的导向物上，根逐渐变粗并相互融合（连生），形成承重网络。年份为欧洲人最早的书面记录。",
+   "keywords": [
+    "Ficus elastica",
+    "Khasi",
+    "Jaintia",
+    "vernacular",
+    "inosculation",
+    "Nongriat"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=l1RupS_jZNg"
+   },
+   "images": [
+    "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg/1280px-Living_root_bridges%2C_Nongriat_village%2C_Meghalaya2.jpg"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Living_root_bridge"
+  },
+  {
+   "id": "ferdinand-ludwig--living-bridges-paper",
+   "creator_ids": [
+    "ferdinand-ludwig",
+    "khasi-communities"
+   ],
+   "title": "Living bridges using aerial roots of ficus elastica – an interdisciplinary perspective",
+   "year": 2019,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A field study that inventories living root bridges in Meghalaya and measures how the roots grow, fuse and form stable structures, to learn from them for architecture.",
+   "description_zh": "一项实地研究：清点梅加拉亚邦的活体根桥，测量根系如何生长、融合并形成稳定结构，以便为建筑学习。",
+   "idea_en": "Vernacular living structures are data for designing with growth.",
+   "idea_zh": "民间的活体结构，是研究“与生长一起设计”的数据。",
+   "method": "Survey of bridge location, age and length plus measurements of root cross-sections and inosculations; the TUM team modelled the structural logic.",
+   "method_zh": "调查桥的位置、年代和长度，并测量根的截面和连生点；慕尼黑工业大学团队对其结构逻辑进行了建模。",
+   "keywords": [
+    "Ficus elastica",
+    "living root bridges",
+    "Baubotanik",
+    "TU Munich",
+    "inosculation"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-48652-w/MediaObjects/41598_2019_48652_Fig1_HTML.jpg"
+   ],
+   "paper": {
+    "url": "https://www.nature.com/articles/s41598-019-48652-w",
+    "doi": "10.1038/s41598-019-48652-w",
+    "arxiv": "",
+    "venue": "Scientific Reports"
+   },
+   "source_url": "https://www.arc.ed.tum.de/en/gtla/research/living-root-bridges/"
+  },
+  {
+   "id": "pooktre--tree-shaping",
+   "creator_ids": [
+    "pooktre"
+   ],
+   "title": "Pooktre tree shaping",
+   "year": 1995,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Living trees gradually guided into chairs, human figures, mirrors and other designed shapes over years of growth.",
+   "description_zh": "在多年的生长过程中，把活树逐步引导成椅子、人形、镜框等设计好的形状。",
+   "idea_en": "Design with a tree's 'shaping zone': guide only the newest growth.",
+   "idea_zh": "利用树的“塑形区”来设计：只引导最新长出的部分。",
+   "method": "Young, flexible growth is bent along a planned design and held with ties and frames, then trimmed and grafted so the tree fills out the form.",
+   "method_zh": "把新长出的柔软枝条按设计弯折，用绑带和框架固定，再修剪和嫁接，让树长满这个形状。",
+   "keywords": [
+    "tree shaping",
+    "arborsculpture",
+    "grafting",
+    "Peter Cook",
+    "Becky Northey"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7wkJBCAC7yk"
+   },
+   "images": [
+    "https://www.pooktre.com/wp-content/uploads/2022/03/pooktre-00001-03-300x256.jpg"
+   ],
+   "source_url": "https://www.pooktre.com/"
+  },
+  {
+   "id": "axel-erlandson--tree-circus",
+   "creator_ids": [
+    "axel-erlandson"
+   ],
+   "title": "The Tree Circus",
+   "year": 1947,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A roadside attraction of trees grafted and bent into baskets, arches, ladders and spirals; about twenty survive at Gilroy Gardens in California.",
+   "description_zh": "一处路边景点，树被嫁接、弯折成篮子、拱门、梯子和螺旋的样子；约二十棵至今保存在加州 Gilroy Gardens。",
+   "idea_en": "Self-grafting between branches can be used as a joinery technique.",
+   "idea_zh": "枝条之间的自然连生可以当作一种“接合”工艺。",
+   "method": "Sycamore, box elder and other trees were planted in patterns, topped, bent and approach-grafted together following drawings.",
+   "method_zh": "按图纸把梧桐、复叶槭等树种成特定图案，截顶、弯折并靠接嫁接在一起。",
+   "keywords": [
+    "grafting",
+    "inosculation",
+    "Gilroy Gardens",
+    "Scotts Valley",
+    "roadside attraction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=OWEK1pNgTDA"
+   },
+   "images": [
+    "https://www.gilroygardens.org/wp-content/uploads/2025/01/VisitGilroy_Gilroy_Gardens_Basket-Tree_01_2560x1257-1024x503.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/3e/Twolegtree.jpg"
+   ],
+   "source_url": "https://www.gilroygardens.org/circus-trees/"
+  },
+  {
+   "id": "zena-holloway--rootfull",
+   "creator_ids": [
+    "zena-holloway"
+   ],
+   "title": "Rootfull",
+   "year": 2018,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "product",
+   "description": "Lampshades, wall hangings and garment pieces grown from wheatgrass roots in carved beeswax templates in about twelve days.",
+   "description_zh": "用麦草根在雕刻好的蜂蜡模板中大约十二天长成的灯罩、挂毯和服装部件。",
+   "idea_en": "A textile made only from seed and water, woven by the root.",
+   "idea_zh": "只用种子和水做成、由根系自己编织的织物。",
+   "method": "Wheatgrass is sown over beeswax moulds carved from 3D-printed patterns; roots fill the channels, and the mat is cut away from the shoots and dried.",
+   "method_zh": "把麦草种子播在按 3D 打印图样雕刻的蜂蜡模具上；根系长满沟槽后把根垫从草茎上割下并干燥。",
+   "keywords": [
+    "wheatgrass",
+    "root textile",
+    "beeswax",
+    "London Design Festival"
+   ],
+   "video": {
+    "url": "https://vimeo.com/694327629"
+   },
+   "images": [
+    "https://www.designboom.com/wp-content/uploads/2022/10/zena-holloway-rootfull-designboom-1800.jpg"
+   ],
+   "source_url": "https://www.designboom.com/design/zena-holloway-rootfull-collection-london-design-festival-10-04-2022/"
+  },
+  {
+   "id": "werner-aisslinger--chair-farm",
+   "creator_ids": [
+    "werner-aisslinger"
+   ],
+   "title": "Chair Farm",
+   "year": 2012,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "Chairs grown by training fast-growing plants through steel corsets in a greenhouse; when the mould is removed a grown seat remains.",
+   "description_zh": "在温室里让生长迅速的植物穿过钢制“束身架”生长，拆掉模具后留下一把长成的椅子。",
+   "idea_en": "Furniture harvested locally from product plantations instead of shipped globally.",
+   "idea_zh": "家具从本地的“产品种植园”里收获，而不是全球运输。",
+   "method": "Steel moulds guide plant stems into the shape of a chair over one or more growing seasons; the plant is then dried and cut free.",
+   "method_zh": "钢模具在一个或多个生长季里引导植物茎干长成椅子的形状，之后干燥并剪下。",
+   "keywords": [
+    "Studio Aisslinger",
+    "Ventura Lambrate",
+    "Milan Design Week",
+    "plantation furniture"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UEX9H2H5NwQ"
+   },
+   "images": [
+    "https://aisslinger.de/wp-content/uploads/2018/01/chairfarm_credits_studio-aisslinger_02-1800x1050.jpg"
+   ],
+   "source_url": "https://aisslinger.de/project/chair-farm/"
+  },
+  {
+   "id": "arthur-wiechula--wachsende-hauser",
+   "creator_ids": [
+    "arthur-wiechula"
+   ],
+   "title": "Wachsende Häuser aus lebenden Bäumen entstehend (Growing Houses from Living Trees)",
+   "year": 1926,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "publication",
+   "description": "A book with drawings and techniques for growing walls, houses and fences from rows of living trees grafted into a continuous lattice.",
+   "description_zh": "一本书，用图纸和技术说明如何把成排的活树嫁接成连续网格，长出墙、房屋和围栏。",
+   "idea_en": "Architecture could be planted and grafted instead of built.",
+   "idea_zh": "建筑可以种出来、嫁接出来，而不是盖出来。",
+   "method": "Proposes planting young trees close together and grafting their branches into a dense self-supporting wall that thickens over years.",
+   "method_zh": "主张把幼树密植，并把枝条嫁接成一面随年份加厚、能自我支撑的墙。",
+   "keywords": [
+    "grafting",
+    "living architecture",
+    "tree shaping",
+    "Baubotanik precedent"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/58/Wiechula_grafted_branches.gif"
+   ],
+   "source_url": "https://en.wikipedia.org/wiki/Arthur_Wiechula"
+  },
+  {
+   "id": "carole-collet--biolace",
+   "creator_ids": [
+    "carole-collet"
+   ],
+   "title": "Biolace",
+   "year": 2012,
+   "field": "bio",
+   "sub": "grown",
+   "organisms": [
+    "plants",
+    "molecules"
+   ],
+   "kind": "speculative",
+   "description": "A speculative series of engineered plants, such as 'Strawberry Noir', that produce food above ground and lace from their roots below ground.",
+   "description_zh": "一组思辨性的工程植物，比如“Strawberry Noir”，地上结出食物，地下的根长成蕾丝。",
+   "idea_en": "One plant, two harvests: food above, textile below.",
+   "idea_zh": "一株植物，两份收成：地上是食物，地下是织物。",
+   "method": "Imagines reprogramming plant morphogenesis with synthetic biology so roots grow into lace patterns; presented as images and a film.",
+   "method_zh": "设想用合成生物学重编植物的形态发生，让根长成蕾丝图案；以图像和影片呈现。",
+   "keywords": [
+    "Strawberry Noir",
+    "synthetic biology",
+    "speculative design",
+    "Central Saint Martins",
+    "lace"
+   ],
+   "video": {
+    "url": "https://vimeo.com/52477313"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/11fc0c17ebdb5e94695fcc0034573ff12244b0c51ae109b8be45509836465fef/01_Biolace_Carole_Collet_IMMATTERS_2012_HD.jpg"
+   ],
+   "source_url": "https://immatters.com/Carole-Collet-Biolace"
+  },
+  {
+   "id": "livin-studio--fungi-mutarium",
+   "creator_ids": [
+    "livin-studio"
+   ],
+   "title": "Fungi Mutarium",
+   "year": 2014,
+   "field": "bio",
+   "sub": "mycelium",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "speculative",
+   "description": "A prototype incubator in which edible fungi grow on UV-treated plastic inside agar pods, digesting the plastic into edible mycelium.",
+   "description_zh": "一台原型培养器：可食用真菌在琼脂小杯中生长在经紫外处理的塑料上，把塑料消化成可以吃的菌丝体。",
+   "idea_en": "Close the loop between plastic waste and food with a fungus in the kitchen.",
+   "idea_zh": "用厨房里的一种真菌，把塑料垃圾和食物连成一个循环。",
+   "method": "Plastic is pre-degraded with UV light and placed in agar pods seeded with Pleurotus ostreatus or Schizophyllum commune, developed with Utrecht University.",
+   "method_zh": "塑料先经紫外线预降解，再放进接种了平菇或裂褶菌的琼脂小杯中；与乌得勒支大学合作开发。",
+   "keywords": [
+    "plastic degradation",
+    "Pleurotus ostreatus",
+    "Schizophyllum commune",
+    "food design",
+    "Utrecht University",
+    "Bio Art & Design Award 2014"
+   ],
+   "video": {
+    "url": "https://vimeo.com/113942952"
+   },
+   "images": [
+    "https://thisismold.com/wp-content/uploads/2015/01/FungiMutarium-prototype.jpg"
+   ],
+   "source_url": "https://katharinaunger.com/fungi-mutarium"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Fiona Bell & Mirela Alistar (ATLAS, CU Boulder)",
+   "why": "HCI biomaterials: Kombucha SCOBY studio (TEI 2023, 10.1145/3569009.3571841), ReClaym compost clay (CHI 2022), Alganyl; likely belongs to biohybrid-hci",
+   "link": "https://www.fionaabell.com/",
+   "found_via": "stacey-kuznetsov",
+   "status": "open"
+  },
+  {
+   "name": "Madalina Nicolae – Biohybrid Devices (UIST 2023)",
+   "why": "Bacterial cellulose + electronics fabrication framework (10.1145/3586183.3606774); interface-focused, for biohybrid-hci",
+   "link": "https://hci.cs.uni-saarland.de/projects/biohybrid-devices/",
+   "found_via": "eldy-lazaro-vasquez",
+   "status": "open"
+  },
+  {
+   "name": "Elise Elsacker",
+   "why": "Mycelium composite materials research and bio-based architecture (VUB / Brussels)",
+   "link": "https://www.eliseelsacker.com/",
+   "found_via": "andre-studart",
+   "status": "open"
+  },
+  {
+   "name": "Han Wösten (Utrecht University)",
+   "why": "Mycologist behind many design collaborations (Montalti, Livin Studio, Klarenbeek)",
+   "link": "https://www.uu.nl/staff/HABWosten",
+   "found_via": "maurizio-montalti",
+   "status": "open"
+  },
+  {
+   "name": "Amy Congdon – Biological Atelier",
+   "why": "Tissue-engineered textiles and jewellery; co-created Zoa at Modern Meadow",
+   "link": "https://www.amycongdon.com/",
+   "found_via": "modern-meadow",
+   "status": "open"
+  },
+  {
+   "name": "Vollebak Plant and Algae T-shirt",
+   "why": "Compostable T-shirt printed with algae ink (2019); YouTube coverage only, no good official media found",
+   "link": "https://www.vollebak.com/",
+   "found_via": "keel-labs",
+   "status": "no_media"
+  },
+  {
+   "name": "Living Ink Technologies",
+   "why": "Algae-based black ink as carbon-negative pigment",
+   "link": "https://livinginktech.com/",
+   "found_via": "charlotte-mccurdy",
+   "status": "open"
+  },
+  {
+   "name": "Malai (coconut-water bacterial cellulose, India)",
+   "why": "Bacterial cellulose leather alternative from coconut water waste",
+   "link": "https://malai.eco/",
+   "found_via": "suzanne-lee",
+   "status": "open"
+  },
+  {
+   "name": "Polybion – Celium",
+   "why": "Bacterial cellulose material grown on fruit waste (Mexico)",
+   "link": "https://www.polybion.bio/",
+   "found_via": "suzanne-lee",
+   "status": "open"
+  },
+  {
+   "name": "Pili",
+   "why": "Microbial fermentation of dyes and pigments (France)",
+   "link": "https://www.pili.bio/",
+   "found_via": "colorifix",
+   "status": "open"
+  },
+  {
+   "name": "Julia Lohmann – Hidaka Ohmu kelp pavilion (WEF Davos 2020)",
+   "why": "Large kelp-and-rattan pavilion; could be a separate work under Department of Seaweed",
+   "link": "https://www.dezeen.com/2020/01/24/seaweed-pavilion-julia-lohmann-hidaka-ohmu-architecture/",
+   "found_via": "julia-lohmann",
+   "status": "open"
+  },
+  {
+   "name": "Faber Futures – Colour Coded (2018)",
+   "why": "Pigment collection and research on microbial colour; second Chieza work",
+   "link": "https://faberfutures.com/projects/colour-coded/",
+   "found_via": "natsai-audrey-chieza",
+   "status": "open"
+  },
+  {
+   "name": "Jonas Edvard – Myx tile / Myx chair",
+   "why": "Further mycelium works (acoustic tile 2017, chair for The Mindcraft Project)",
+   "link": "https://www.jonasedvard.com/myx/myxtile",
+   "found_via": "jonas-edvard",
+   "status": "open"
+  },
+  {
+   "name": "Carole Collet – Botanical Fur and other Design & Living Systems Lab projects",
+   "why": "More speculative plant/microbe textile works",
+   "link": "https://www.carolecollet.com/",
+   "found_via": "carole-collet",
+   "status": "open"
+  },
+  {
+   "name": "Dirk Hebel & Felix Heisel – Cultivated Building Materials (Birkhäuser, 2017)",
+   "why": "Key book on grown building materials (mycelium, bamboo, bacteria)",
+   "link": "https://nb.ieb.kit.edu/",
+   "found_via": "dirk-hebel",
+   "status": "open"
+  },
+  {
+   "name": "MY-CO SPACE (MY-CO-X, 2018) and Shell Mycelium (Kochi Biennale 2016)",
+   "why": "Further mycelium pavilions; check against bio-arch-art",
+   "link": "",
+   "found_via": "dirk-hebel",
+   "status": "open"
+  },
+  {
+   "name": "Mitchell Joachim / Terreform ONE – Fab Tree Hab",
+   "why": "Speculative grown tree house (2006); likely bio-arch-art",
+   "link": "https://terreform.org/",
+   "found_via": "ferdinand-ludwig",
+   "status": "duplicate"
+  },
+  {
+   "name": "Richard Reames – arborsculpture",
+   "why": "Tree-shaping practitioner and author",
+   "link": "",
+   "found_via": "pooktre",
+   "status": "open"
+  },
+  {
+   "name": "Teresa van Dongen – Electric Life (2019)",
+   "why": "Installation powered by electroactive bacteria; follow-up to Spark of Life",
+   "link": "https://www.teresavandongen.com/Electric-Life",
+   "found_via": "teresa-van-dongen",
+   "status": "open"
+  },
+  {
+   "name": "Emma van der Leest",
+   "why": "Bacterial cellulose and biodesign education (BlueCity Lab)",
+   "link": "",
+   "found_via": "suzanne-lee",
+   "status": "open"
+  },
+  {
+   "name": "Kukka (Laura Luchtman)",
+   "why": "Further natural and bacterial dye projects",
+   "link": "https://www.kukka.nl/",
+   "found_via": "living-colour",
+   "status": "open"
+  },
+  {
+   "name": "Lining Yao – Morphing Matter Lab other bio-based works",
+   "why": "Check for bio-based responsive materials beyond bioLogic (e.g. hygromorphic biomaterials)",
+   "link": "https://morphingmatter.org/",
+   "found_via": "lining-yao",
+   "status": "open"
+  }
+ ]
+}

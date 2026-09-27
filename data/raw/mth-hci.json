@@ -1,0 +1,4277 @@
+{
+ "batch": "mth-hci",
+ "creators": [
+  {
+   "id": "ron-wakkary",
+   "name": "Ron Wakkary",
+   "kind": "person",
+   "role": "Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio",
+   "bio": "Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist.",
+   "why": "His book Things We Could Design set out posthumanist, more-than-human design as a practice for HCI.",
+   "links": {
+    "site": "http://eds.siat.sfu.ca/"
+   },
+   "role_zh": "西蒙菲莎大学交互艺术与技术学院教授，Everyday Design Studio 创始人",
+   "bio_zh": "设计研究者，制作 Morse Things、Tilting Bowl 这类“反事实”物件，并让人与它们长期共同生活，研究物与人如何共处。",
+   "why_zh": "他的著作《Things We Could Design》把后人类主义、超越人类的设计确立为 HCI 中的一种设计实践。",
+   "connected_to": [
+    "doenja-oogjes",
+    "elisa-giaccardi",
+    "tiffany-wun"
+   ],
+   "discovered_via": "seed",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大"
+  },
+  {
+   "id": "doenja-oogjes",
+   "name": "Doenja Oogjes",
+   "kind": "person",
+   "role": "Design researcher; PhD from the Everyday Design Studio, Simon Fraser University",
+   "bio": "Designer and researcher who co-created the Morse Things and the Tilting Bowl and develops posthuman methods from craft practices such as weaving.",
+   "why": "Her work shows how nonhuman materials and tools can take part in design research, not only be used by it.",
+   "links": {},
+   "role_zh": "设计研究者，西蒙菲莎大学 Everyday Design Studio 博士",
+   "bio_zh": "参与创作 Morse Things 与 Tilting Bowl 的设计研究者，从编织等手工实践中发展后人类设计方法。",
+   "why_zh": "她的研究展示了非人类的材料和工具如何参与设计研究，而不只是被使用。",
+   "connected_to": [
+    "ron-wakkary",
+    "iohanna-nicenboim",
+    "heidi-biggs"
+   ],
+   "discovered_via": "ron-wakkary"
+  },
+  {
+   "id": "tiffany-wun",
+   "name": "Tiffany Wun",
+   "kind": "person",
+   "role": "Design researcher, Everyday Design Studio, Simon Fraser University",
+   "bio": "Researcher who designs probes that bring more-than-human ideas into everyday design practice, such as vermicomposting kits.",
+   "why": "Her Compost Kits turn abstract posthuman theory into something designers can care for every day.",
+   "links": {},
+   "role_zh": "西蒙菲莎大学 Everyday Design Studio 设计研究者",
+   "bio_zh": "设计研究者，通过蚯蚓堆肥套件等探针，把超越人类的理念带进日常设计实践。",
+   "why_zh": "她的 Compost Kits 把抽象的后人类理论变成设计师每天都要照料的东西。",
+   "connected_to": [
+    "ron-wakkary"
+   ],
+   "discovered_via": "ron-wakkary",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大"
+  },
+  {
+   "id": "elisa-giaccardi",
+   "name": "Elisa Giaccardi",
+   "kind": "person",
+   "role": "Professor of Interaction Design, Politecnico di Milano; formerly Chair of Post-Industrial Design, TU Delft",
+   "bio": "Interaction design researcher who put cameras on everyday objects to see the world from their side and developed thing-centred design.",
+   "why": "Thing ethnography and her Design Issues paper with Redström are core references for more-than-human design.",
+   "links": {},
+   "role_zh": "米兰理工大学交互设计教授，曾任代尔夫特理工大学后工业设计讲席教授",
+   "bio_zh": "交互设计研究者，把相机装在日常物件上，从物的角度观察世界，发展了以物为中心的设计。",
+   "why_zh": "“物的民族志”以及她与 Redström 合写的 Design Issues 论文，是超越人类设计的核心参考。",
+   "connected_to": [
+    "johan-redstrom",
+    "nazli-cila",
+    "iohanna-nicenboim",
+    "ron-wakkary"
+   ],
+   "discovered_via": "seed",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利"
+  },
+  {
+   "id": "johan-redstrom",
+   "name": "Johan Redström",
+   "kind": "person",
+   "role": "Professor, Umeå Institute of Design, Umeå University",
+   "bio": "Design theorist who writes on how design defines things and on the changing nature of objects in a digital world.",
+   "why": "He co-authored the framing of more-than-human design as an answer to the limits of human-centred design.",
+   "links": {},
+   "role_zh": "于默奥大学于默奥设计学院教授",
+   "bio_zh": "设计理论家，研究设计如何定义“物”，以及数字时代物件本质的变化。",
+   "why_zh": "他参与提出了超越人类设计的框架，用来回应以人为中心设计的局限。",
+   "connected_to": [
+    "elisa-giaccardi",
+    "iohanna-nicenboim"
+   ],
+   "discovered_via": "elisa-giaccardi",
+   "based": "Umeå, Sweden",
+   "based_zh": "于默奥，瑞典"
+  },
+  {
+   "id": "nazli-cila",
+   "name": "Nazli Cila",
+   "kind": "person",
+   "role": "Assistant Professor, Faculty of Industrial Design Engineering, TU Delft",
+   "bio": "Designer-researcher who studies connected products and AI as agents that act alongside people.",
+   "why": "Her Products as Agents metaphors give designers a way to treat smart things as partners, not tools.",
+   "links": {
+    "site": "https://nazlicila.com/"
+   },
+   "role_zh": "代尔夫特理工大学工业设计工程学院助理教授",
+   "bio_zh": "设计研究者，研究把联网产品和 AI 当作与人并肩行动的“代理者”。",
+   "why_zh": "她提出的“产品即代理者”隐喻，让设计师把智能物当作伙伴而不是工具。",
+   "connected_to": [
+    "elisa-giaccardi",
+    "aykut-coskun"
+   ],
+   "discovered_via": "elisa-giaccardi",
+   "based": "Delft, Netherlands",
+   "based_zh": "代尔夫特，荷兰"
+  },
+  {
+   "id": "iohanna-nicenboim",
+   "name": "Iohanna Nicenboim",
+   "kind": "person",
+   "role": "Designer and researcher, TU Delft; works on more-than-human design and AI",
+   "bio": "Designer-researcher who treats voice assistants and AI as more-than-human agents and designs situated conversations with them.",
+   "why": "She connects posthuman theory with hands-on design of AI, and co-edits key more-than-human design publications.",
+   "links": {
+    "site": "https://iohanna.com/"
+   },
+   "role_zh": "代尔夫特理工大学设计师与研究者，研究超越人类设计与人工智能",
+   "bio_zh": "设计研究者，把语音助手和 AI 看作超越人类的行动者，并设计与它们的情境化对话。",
+   "why_zh": "她把后人类理论与 AI 的动手设计连接起来，并参与编辑多部超越人类设计的重要出版物。",
+   "connected_to": [
+    "elisa-giaccardi",
+    "johan-redstrom",
+    "doenja-oogjes",
+    "heidi-biggs"
+   ],
+   "discovered_via": "elisa-giaccardi",
+   "based": "Delft, Netherlands",
+   "based_zh": "代尔夫特，荷兰"
+  },
+  {
+   "id": "laura-forlano",
+   "name": "Laura Forlano",
+   "kind": "person",
+   "role": "Professor, College of Arts, Media and Design, Northeastern University",
+   "bio": "Writer, social scientist and design researcher working at the intersection of design, science and technology studies and cities.",
+   "why": "Her papers on posthumanism and on decentering the human gave design a vocabulary for nonhuman actors.",
+   "links": {},
+   "role_zh": "美国东北大学艺术、媒体与设计学院教授",
+   "bio_zh": "写作者、社会科学家和设计研究者，工作于设计、科学技术研究与城市的交叉领域。",
+   "why_zh": "她关于后人类主义和“去人类中心”的论文，为设计提供了讨论非人类行动者的语言。",
+   "connected_to": [
+    "rachel-clarke",
+    "carl-disalvo",
+    "marcus-foth"
+   ],
+   "discovered_via": "seed",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国"
+  },
+  {
+   "id": "paul-coulton",
+   "name": "Paul Coulton",
+   "kind": "person",
+   "role": "Chair of Speculative and Game Design, ImaginationLancaster, Lancaster University",
+   "bio": "Design researcher who uses design fiction and object-oriented ontology to explore the Internet of Things and AI.",
+   "why": "He and Joseph Lindley named and argued for more-than-human centred design in design research.",
+   "links": {
+    "site": "https://designresearch.works/"
+   },
+   "role_zh": "兰卡斯特大学 ImaginationLancaster 思辨设计与游戏设计讲席教授",
+   "bio_zh": "设计研究者，用设计虚构和物导向本体论探讨物联网与人工智能。",
+   "why_zh": "他与 Joseph Lindley 在设计研究中提出并论证了“超越人类中心的设计”。",
+   "connected_to": [
+    "joseph-lindley"
+   ],
+   "discovered_via": "seed",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国"
+  },
+  {
+   "id": "joseph-lindley",
+   "name": "Joseph Lindley",
+   "kind": "person",
+   "role": "Design researcher, ImaginationLancaster, Lancaster University",
+   "bio": "Researcher in design fiction, AI and object-oriented ontology who runs the designresearch.works studio.",
+   "why": "He shows how philosophy of things can be turned into concrete design tools such as the speculative lathe.",
+   "links": {
+    "site": "https://designresearch.works/"
+   },
+   "role_zh": "兰卡斯特大学 ImaginationLancaster 设计研究者",
+   "bio_zh": "研究设计虚构、人工智能与物导向本体论，运营 designresearch.works 工作室。",
+   "why_zh": "他展示了如何把关于物的哲学变成具体的设计工具，例如“思辨车床”。",
+   "connected_to": [
+    "paul-coulton"
+   ],
+   "discovered_via": "paul-coulton",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国"
+  },
+  {
+   "id": "aykut-coskun",
+   "name": "Aykut Coşkun",
+   "kind": "person",
+   "role": "Associate Professor, Media and Visual Arts, Koç University",
+   "bio": "Interaction design researcher working on sustainable behaviour, the Internet of Things and more-than-human design.",
+   "why": "He led the CHI 2022 gathering that mapped more-than-human concepts and methods across HCI.",
+   "links": {},
+   "role_zh": "科奇大学媒体与视觉艺术系副教授",
+   "bio_zh": "交互设计研究者，研究可持续行为、物联网和超越人类设计。",
+   "why_zh": "他牵头组织了 CHI 2022 的研讨，梳理了 HCI 中超越人类的概念和方法。",
+   "connected_to": [
+    "nazli-cila",
+    "iohanna-nicenboim"
+   ],
+   "discovered_via": "seed",
+   "based": "Istanbul, Türkiye",
+   "based_zh": "伊斯坦布尔，土耳其"
+  },
+  {
+   "id": "christopher-frauenberger",
+   "name": "Christopher Frauenberger",
+   "kind": "person",
+   "role": "Professor of Human-Computer Interaction, University of Salzburg",
+   "bio": "HCI researcher working on participatory design, ethics and relational theories of technology.",
+   "why": "His Entanglement HCI paper proposed a post-humanist research paradigm for the field.",
+   "links": {
+    "site": "https://frauenberger.name/"
+   },
+   "role_zh": "萨尔茨堡大学人机交互教授",
+   "bio_zh": "HCI 研究者，关注参与式设计、伦理和技术的关系性理论。",
+   "why_zh": "他的“纠缠 HCI”论文为这个领域提出了后人类主义的研究范式。",
+   "connected_to": [
+    "aykut-coskun"
+   ],
+   "discovered_via": "aykut-coskun",
+   "based": "Salzburg, Austria",
+   "based_zh": "萨尔茨堡，奥地利"
+  },
+  {
+   "id": "shaowen-bardzell",
+   "name": "Shaowen Bardzell",
+   "kind": "person",
+   "role": "Professor, School of Interactive Computing, Georgia Institute of Technology",
+   "bio": "HCI scholar known for feminist HCI and humanistic approaches; advised several key more-than-human HCI projects.",
+   "why": "Her lab produced early HCI work on naturecultures, decomposition and decentering the human.",
+   "links": {},
+   "role_zh": "佐治亚理工学院交互计算学院教授",
+   "bio_zh": "HCI 学者，以女性主义 HCI 和人文取向研究著称，指导了多项重要的超越人类 HCI 研究。",
+   "why_zh": "她的实验室较早在 HCI 中研究自然文化、分解和去人类中心。",
+   "connected_to": [
+    "nancy-smith",
+    "cyn-liu",
+    "heidi-biggs"
+   ],
+   "discovered_via": "seed",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国"
+  },
+  {
+   "id": "nancy-smith",
+   "name": "Nancy Smith",
+   "kind": "person",
+   "role": "HCI researcher; PhD, Indiana University",
+   "bio": "Researcher who studied hybrid human–nature arrangements such as urban homesteads and their design implications.",
+   "why": "Her CHI 2017 paper is one of the first to use naturecultures to decenter the human in HCI.",
+   "links": {},
+   "role_zh": "HCI 研究者，印第安纳大学博士",
+   "bio_zh": "研究城市家庭农庄等人与自然混合安排及其设计意义。",
+   "why_zh": "她的 CHI 2017 论文是最早用“自然文化”概念在 HCI 中去人类中心的研究之一。",
+   "connected_to": [
+    "shaowen-bardzell"
+   ],
+   "discovered_via": "shaowen-bardzell"
+  },
+  {
+   "id": "cyn-liu",
+   "name": "Szu-Yu (Cyn) Liu",
+   "kind": "person",
+   "role": "HCI and design researcher; PhD, Indiana University",
+   "bio": "Researcher who studies alternative farming, decomposition and photography as ways to design with naturecultures.",
+   "why": "Her work turns feminist technoscience concepts into concrete non-anthropocentric design tactics.",
+   "links": {},
+   "role_zh": "HCI 与设计研究者，印第安纳大学博士",
+   "bio_zh": "研究替代农业、分解和摄影，以此探索与“自然文化”一起设计的方法。",
+   "why_zh": "她把女性主义技术科学的概念转化为具体的非人类中心设计策略。",
+   "connected_to": [
+    "shaowen-bardzell"
+   ],
+   "discovered_via": "shaowen-bardzell"
+  },
+  {
+   "id": "heidi-biggs",
+   "name": "Heidi R. Biggs",
+   "kind": "person",
+   "role": "Design researcher working on posthuman and ecological design",
+   "bio": "Designer-researcher who makes embodied speculations about climate change and reflects on birdwatching as a posthuman method.",
+   "why": "Her High Water Pants make future sea-level rise felt in the body today.",
+   "links": {
+    "site": "https://www.heidibiggsdesign.com/"
+   },
+   "role_zh": "从事后人类设计与生态设计的研究者",
+   "bio_zh": "设计研究者，制作关于气候变化的具身思辨作品，并把观鸟作为后人类方法进行反思。",
+   "why_zh": "她的 High Water Pants 让人在今天就用身体感受到未来的海平面上升。",
+   "connected_to": [
+    "shaowen-bardzell",
+    "doenja-oogjes",
+    "iohanna-nicenboim"
+   ],
+   "discovered_via": "shaowen-bardzell"
+  },
+  {
+   "id": "carl-disalvo",
+   "name": "Carl DiSalvo",
+   "kind": "person",
+   "role": "Professor, School of Interactive Computing, Georgia Institute of Technology",
+   "bio": "Design researcher working on participatory design, public participation and adversarial design.",
+   "why": "He wrote one of the earliest design texts on nonanthropocentrism and the nonhuman.",
+   "links": {},
+   "role_zh": "佐治亚理工学院交互计算学院教授",
+   "bio_zh": "设计研究者，研究参与式设计、公共参与和对抗性设计。",
+   "why_zh": "他写了设计领域最早讨论非人类中心主义与非人类的文本之一。",
+   "connected_to": [
+    "laura-forlano",
+    "rachel-clarke",
+    "ashley-boone"
+   ],
+   "discovered_via": "laura-forlano",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国"
+  },
+  {
+   "id": "anne-galloway",
+   "name": "Anne Galloway",
+   "kind": "person",
+   "role": "Associate Professor, Victoria University of Wellington; founder of the More-Than-Human Lab",
+   "bio": "Researcher in design ethnography and speculative design who studies relations among people, animals and technologies, including sheep farming.",
+   "why": "Her More-Than-Human Lab was one of the first research groups to use the term in design.",
+   "links": {},
+   "role_zh": "惠灵顿维多利亚大学副教授，More-Than-Human Lab 创始人",
+   "bio_zh": "设计民族志与思辨设计研究者，研究人、动物与技术之间的关系，包括养羊业。",
+   "why_zh": "她的 More-Than-Human Lab 是最早在设计研究中使用这一术语的团队之一。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Wellington, New Zealand",
+   "based_zh": "惠灵顿，新西兰"
+  },
+  {
+   "id": "bert-de-roo",
+   "name": "Bert De Roo",
+   "kind": "person",
+   "role": "Design researcher; co-author of the Umwelt-sketch method",
+   "bio": "Researcher who builds practical methods for bringing nonhuman perspectives into design workshops.",
+   "why": "The Umwelt-sketch gives designers a concrete drawing method for decentering.",
+   "links": {},
+   "role_zh": "设计研究者，Umwelt-sketch 方法的共同作者",
+   "bio_zh": "研究者，开发把非人类视角带入设计工作坊的实用方法。",
+   "why_zh": "Umwelt-sketch 为设计师提供了一种去中心化的具体绘图方法。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "eva-eriksson",
+   "name": "Eva Eriksson",
+   "kind": "person",
+   "role": "Associate Professor, Department of Digital Design and Information Studies, Aarhus University",
+   "bio": "Interaction design researcher working on participatory design, children and more-than-human perspectives.",
+   "why": "Her scoping review maps how HCI actually uses more-than-human perspectives.",
+   "links": {},
+   "role_zh": "奥胡斯大学数字设计与信息研究系副教授",
+   "bio_zh": "交互设计研究者，关注参与式设计、儿童和超越人类的视角。",
+   "why_zh": "她的范围综述梳理了 HCI 实际如何运用超越人类视角。",
+   "connected_to": [
+    "lone-koefoed-hansen"
+   ],
+   "discovered_via": "seed",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦"
+  },
+  {
+   "id": "donna-haraway",
+   "name": "Donna Haraway",
+   "kind": "person",
+   "role": "Distinguished Professor Emerita, History of Consciousness Department, UC Santa Cruz",
+   "bio": "Feminist scholar of science and technology, author of the Cyborg Manifesto, When Species Meet and Staying with the Trouble.",
+   "why": "Her ideas of companion species, making kin and response-ability underpin much multispecies design.",
+   "links": {},
+   "role_zh": "加州大学圣克鲁兹分校意识史系杰出荣誉教授",
+   "bio_zh": "女性主义科学技术学者，著有《赛博格宣言》《当物种相遇》和《与麻烦共存》。",
+   "why_zh": "她提出的伴侣物种、“结亲”和“回应能力”等概念是许多多物种设计的基础。",
+   "connected_to": [
+    "anna-tsing"
+   ],
+   "discovered_via": "seed",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国"
+  },
+  {
+   "id": "anna-tsing",
+   "name": "Anna Lowenhaupt Tsing",
+   "kind": "person",
+   "role": "Professor of Anthropology, UC Santa Cruz",
+   "bio": "Anthropologist who follows the matsutake mushroom to study life and collaboration in damaged landscapes.",
+   "why": "Her notion of collaborative survival is a direct source for HCI work with fungi and landscapes.",
+   "links": {},
+   "role_zh": "加州大学圣克鲁兹分校人类学教授",
+   "bio_zh": "人类学家，追踪松茸，研究在受损景观中的生命与协作。",
+   "why_zh": "她提出的“协作生存”是 HCI 中与真菌和景观相关研究的直接来源。",
+   "connected_to": [
+    "donna-haraway"
+   ],
+   "discovered_via": "seed",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国"
+  },
+  {
+   "id": "arturo-escobar",
+   "name": "Arturo Escobar",
+   "kind": "person",
+   "role": "Professor Emeritus of Anthropology, University of North Carolina at Chapel Hill",
+   "bio": "Anthropologist of development and political ecology who argues for autonomous, place-based design.",
+   "why": "Designs for the Pluriverse links design to relational ontologies and to many worlds beyond the modern one.",
+   "links": {},
+   "role_zh": "北卡罗来纳大学教堂山分校人类学荣誉教授",
+   "bio_zh": "研究发展与政治生态的人类学家，倡导自主的、扎根地方的设计。",
+   "why_zh": "《为多元世界设计》把设计与关系本体论、与现代世界之外的多元世界联系起来。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Cali, Colombia",
+   "based_zh": "卡利，哥伦比亚"
+  },
+  {
+   "id": "tony-fry",
+   "name": "Tony Fry",
+   "kind": "person",
+   "role": "Design theorist; founder of The Studio at the Edge of the World",
+   "bio": "Design philosopher who writes on sustainment, defuturing and design after unsustainability.",
+   "why": "Defuturing names how design takes futures away from humans and nonhumans alike.",
+   "links": {},
+   "role_zh": "设计理论家，The Studio at the Edge of the World 创始人",
+   "bio_zh": "设计哲学家，写作关于“持续”“去未来化”以及不可持续之后的设计。",
+   "why_zh": "“去未来化”指出设计如何同时剥夺人类和非人类的未来。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Tasmania, Australia",
+   "based_zh": "塔斯马尼亚，澳大利亚"
+  },
+  {
+   "id": "jane-bennett",
+   "name": "Jane Bennett",
+   "kind": "person",
+   "role": "Professor of Political Science, Johns Hopkins University",
+   "bio": "Political theorist who develops a vital materialism in which things and materials have their own agency.",
+   "why": "Vibrant Matter is a common starting point for designers who treat materials as actors.",
+   "links": {},
+   "role_zh": "约翰斯·霍普金斯大学政治学教授",
+   "bio_zh": "政治理论家，提出“活力唯物主义”，认为物与材料有其自身的能动性。",
+   "why_zh": "《活力物质》是设计师把材料视为行动者的常用起点。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Baltimore, US",
+   "based_zh": "巴尔的摩，美国"
+  },
+  {
+   "id": "jennifer-gabrys",
+   "name": "Jennifer Gabrys",
+   "kind": "person",
+   "role": "Chair in Media, Culture and Environment, University of Cambridge; lead of Citizen Sense, Smart Forests and Planetary Praxis",
+   "bio": "Sociologist who studies environmental sensing, from citizen air-quality monitors to sensor networks in forests.",
+   "why": "Her work shows how sensing technologies change what environments are and who gets to speak for them.",
+   "links": {
+    "site": "https://www.jennifergabrys.net/"
+   },
+   "role_zh": "剑桥大学媒体、文化与环境讲席教授，Citizen Sense、Smart Forests 与 Planetary Praxis 项目负责人",
+   "bio_zh": "社会学家，研究环境感知，从市民空气质量监测器到森林中的传感器网络。",
+   "why_zh": "她的研究说明了传感技术如何改变环境本身，以及谁有资格替环境发声。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国"
+  },
+  {
+   "id": "martin-tironi",
+   "name": "Martín Tironi",
+   "kind": "person",
+   "role": "Associate Professor, School of Design, Pontificia Universidad Católica de Chile",
+   "bio": "Design and STS researcher working on smart cities, algorithms and post-anthropocentric design.",
+   "why": "His edited book gathers Latin American and global voices on more-than-human futures.",
+   "links": {},
+   "role_zh": "智利天主教大学设计学院副教授",
+   "bio_zh": "设计与科学技术研究学者，关注智慧城市、算法和后人类中心的设计。",
+   "why_zh": "他主编的书汇集了拉丁美洲及全球关于超越人类未来的研究。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Santiago, Chile",
+   "based_zh": "圣地亚哥，智利"
+  },
+  {
+   "id": "jen-liu",
+   "name": "Jen Liu",
+   "kind": "person",
+   "role": "Designer and researcher; PhD, Cornell University",
+   "bio": "Designer-researcher who made wearable tools for mushroom foraging to study how people and fungi survive together.",
+   "why": "Her CHI 2018 best paper brought Tsing's collaborative survival into HCI through making.",
+   "links": {
+    "site": "https://jenliujenliu.com/"
+   },
+   "role_zh": "设计师与研究者，康奈尔大学博士",
+   "bio_zh": "设计研究者，制作了采蘑菇用的可穿戴工具，研究人与真菌如何共同生存。",
+   "why_zh": "她获得 CHI 2018 最佳论文的研究，通过动手制作把 Tsing 的“协作生存”带进了 HCI。",
+   "connected_to": [
+    "anna-tsing"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "rachel-clarke",
+   "name": "Rachel Clarke",
+   "kind": "person",
+   "role": "Senior Lecturer, Open Lab, Newcastle University",
+   "bio": "Participatory design researcher working on cities, sustainability and more-than-human participation.",
+   "why": "She co-led the call for more-than-human participation in smart city design.",
+   "links": {},
+   "role_zh": "纽卡斯尔大学 Open Lab 高级讲师",
+   "bio_zh": "参与式设计研究者，关注城市、可持续性和超越人类的参与。",
+   "why_zh": "她共同发起了在智慧城市设计中实现超越人类参与的倡议。",
+   "connected_to": [
+    "sara-heitlinger",
+    "laura-forlano",
+    "marcus-foth",
+    "carl-disalvo"
+   ],
+   "discovered_via": "seed",
+   "based": "Newcastle, UK",
+   "based_zh": "纽卡斯尔，英国"
+  },
+  {
+   "id": "sara-heitlinger",
+   "name": "Sara Heitlinger",
+   "kind": "person",
+   "role": "Senior Lecturer, Centre for Human-Computer Interaction Design, City St George's, University of London",
+   "bio": "Participatory design researcher who works with urban food growers on seeds, sensors and blockchain futures.",
+   "why": "Her projects show how to include plants, soil and pollinators as participants in smart city design.",
+   "links": {
+    "site": "https://www.connectedseeds.org/"
+   },
+   "role_zh": "伦敦大学城市圣乔治学院人机交互设计中心高级讲师",
+   "bio_zh": "参与式设计研究者，与城市食物种植者合作，研究种子、传感器和区块链未来。",
+   "why_zh": "她的项目展示了如何把植物、土壤和传粉者作为参与者纳入智慧城市设计。",
+   "connected_to": [
+    "rachel-clarke",
+    "marcus-foth"
+   ],
+   "discovered_via": "seed",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "michelle-westerlaken",
+   "name": "Michelle Westerlaken",
+   "kind": "person",
+   "role": "Design researcher; PhD, Malmö University",
+   "bio": "Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary.",
+   "why": "Her work offers practical ways to imagine and design for multispecies worlds.",
+   "links": {
+    "site": "https://michellewesterlaken.com/"
+   },
+   "role_zh": "设计研究者，马尔默大学博士",
+   "bio_zh": "设计研究者，把狗和其他动物作为设计参与者，并以“多物种动物寓言集”的形式写成博士论文。",
+   "why_zh": "她的研究为想象和设计多物种世界提供了实际方法。",
+   "connected_to": [
+    "clara-mancini"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "li-jonsson",
+   "name": "Li Jönsson",
+   "kind": "person",
+   "role": "Design researcher, Denmark",
+   "bio": "Design researcher who works with speculative prototypes to bring people into contact with urban animals.",
+   "why": "Urban Animals and Us is an early design experiment with wild animals as significant others.",
+   "links": {},
+   "role_zh": "丹麦设计研究者",
+   "bio_zh": "设计研究者，用思辨原型让人与城市动物建立接触。",
+   "why_zh": "Urban Animals and Us 是早期把野生动物当作“重要他者”的设计实验。",
+   "connected_to": [
+    "tau-ulv-lenskjold"
+   ],
+   "discovered_via": "seed",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦"
+  },
+  {
+   "id": "tau-ulv-lenskjold",
+   "name": "Tau Ulv Lenskjold",
+   "kind": "person",
+   "role": "Design researcher, Denmark",
+   "bio": "Participatory design researcher who experiments with speculative prototypes and relations beyond the human.",
+   "why": "His alien ethnographies propose ways to study animals and things without reducing them to human terms.",
+   "links": {},
+   "role_zh": "丹麦设计研究者",
+   "bio_zh": "参与式设计研究者，用思辨原型实验人类之外的关系。",
+   "why_zh": "他的“异类民族志”提出了在不把动物和物简化为人类术语的前提下研究它们的方法。",
+   "connected_to": [
+    "li-jonsson"
+   ],
+   "discovered_via": "li-jonsson",
+   "based": "Denmark",
+   "based_zh": "丹麦"
+  },
+  {
+   "id": "marcus-foth",
+   "name": "Marcus Foth",
+   "kind": "person",
+   "role": "Professor of Urban Informatics, QUT Design Lab, Queensland University of Technology",
+   "bio": "Urban informatics researcher working on smart cities, media architecture and more-than-human urbanism.",
+   "why": "He pushed media architecture and smart city research to consider nonhuman city dwellers.",
+   "links": {},
+   "role_zh": "昆士兰科技大学 QUT Design Lab 城市信息学教授",
+   "bio_zh": "城市信息学研究者，关注智慧城市、媒体建筑和超越人类的城市主义。",
+   "why_zh": "他推动媒体建筑和智慧城市研究去考虑城市中的非人类居民。",
+   "connected_to": [
+    "rachel-clarke",
+    "sara-heitlinger",
+    "martin-tomitsch"
+   ],
+   "discovered_via": "rachel-clarke",
+   "based": "Brisbane, Australia",
+   "based_zh": "布里斯班，澳大利亚"
+  },
+  {
+   "id": "martin-tomitsch",
+   "name": "Martin Tomitsch",
+   "kind": "person",
+   "role": "Professor of design and interaction; formerly University of Sydney Design Lab, now UTS",
+   "bio": "Interaction design researcher working on cities, urban interfaces and planet-centred design.",
+   "why": "Non-human personas adapt a standard UX tool so that nature has a voice in design.",
+   "links": {},
+   "role_zh": "设计与交互教授，曾任悉尼大学 Design Lab，现任职于悉尼科技大学",
+   "bio_zh": "交互设计研究者，关注城市、城市界面和以地球为中心的设计。",
+   "why_zh": "“非人类人物角色”改造了常用的 UX 工具，让自然在设计中有发言权。",
+   "connected_to": [
+    "marcus-foth"
+   ],
+   "discovered_via": "marcus-foth",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚"
+  },
+  {
+   "id": "michael-haldrup",
+   "name": "Michael Haldrup",
+   "kind": "person",
+   "role": "Professor, Department of Communication and Arts, Roskilde University",
+   "bio": "Researcher in performance design and participatory spatial design.",
+   "why": "His work extends participatory design to other species in commons and landscapes.",
+   "links": {},
+   "role_zh": "罗斯基勒大学传播与艺术系教授",
+   "bio_zh": "研究表演设计与参与式空间设计。",
+   "why_zh": "他的研究把参与式设计扩展到公共地和景观中的其他物种。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Roskilde, Denmark",
+   "based_zh": "罗斯基勒，丹麦"
+  },
+  {
+   "id": "clara-mancini",
+   "name": "Clara Mancini",
+   "kind": "person",
+   "role": "Professor of Animal-Computer Interaction, The Open University; founder of the ACI Lab",
+   "bio": "Founder of Animal-Computer Interaction as a field; designs interfaces with working dogs and writes on animal-centred ethics.",
+   "why": "Her 2011 manifesto launched ACI as a user-centred discipline for animals.",
+   "links": {
+    "site": "https://www.open.ac.uk/blogs/ACI/"
+   },
+   "role_zh": "英国开放大学动物-计算机交互教授，ACI 实验室创始人",
+   "bio_zh": "动物-计算机交互（ACI）领域的创立者，与工作犬一起设计界面，并写作以动物为中心的伦理。",
+   "why_zh": "她 2011 年的宣言把 ACI 确立为以动物为用户中心的学科。",
+   "connected_to": [
+    "charlotte-robinson",
+    "fiona-french",
+    "ilyena-hirskyj-douglas"
+   ],
+   "discovered_via": "seed",
+   "based": "Milton Keynes, UK",
+   "based_zh": "米尔顿凯恩斯，英国"
+  },
+  {
+   "id": "charlotte-robinson",
+   "name": "Charlotte L. Robinson",
+   "kind": "person",
+   "role": "Animal-Computer Interaction researcher, The Open University",
+   "bio": "Researcher who designed interfaces that assistance and diabetes alert dogs can operate.",
+   "why": "Her work established canine-centred interface design in HCI.",
+   "links": {},
+   "role_zh": "英国开放大学动物-计算机交互研究者",
+   "bio_zh": "研究者，设计了辅助犬和糖尿病预警犬能够操作的界面。",
+   "why_zh": "她的研究在 HCI 中确立了以犬为中心的界面设计。",
+   "connected_to": [
+    "clara-mancini"
+   ],
+   "discovered_via": "clara-mancini",
+   "based": "Milton Keynes, UK",
+   "based_zh": "米尔顿凯恩斯，英国"
+  },
+  {
+   "id": "ilyena-hirskyj-douglas",
+   "name": "Ilyena Hirskyj-Douglas",
+   "kind": "person",
+   "role": "Academic at the School of Computing Science, University of Glasgow; leads its Animal-Computer Interaction group",
+   "bio": "ACI researcher who builds systems that animals control themselves, from a dog-to-human video phone to music players for monkeys and parrots.",
+   "why": "Her projects test what it means for animals to be real users with choice and agency.",
+   "links": {},
+   "role_zh": "格拉斯哥大学计算科学学院教员，领导该院的动物-计算机交互研究组",
+   "bio_zh": "ACI 研究者，制作由动物自己控制的系统，从狗打给人的视频电话，到给猴子和鹦鹉用的音乐播放器。",
+   "why_zh": "她的项目检验了动物作为拥有选择和能动性的真正用户意味着什么。",
+   "connected_to": [
+    "roosa-piitulainen",
+    "rebecca-kleinberger",
+    "clara-mancini"
+   ],
+   "discovered_via": "seed",
+   "based": "Glasgow, UK",
+   "based_zh": "格拉斯哥，英国"
+  },
+  {
+   "id": "roosa-piitulainen",
+   "name": "Roosa Piitulainen",
+   "kind": "person",
+   "role": "HCI researcher, Aalto University",
+   "bio": "Researcher who co-designed audio enrichment devices with white-faced sakis in a zoo.",
+   "why": "Her work shows how to build animal-driven interfaces with low-fidelity prototypes in the enclosure.",
+   "links": {},
+   "role_zh": "阿尔托大学 HCI 研究者",
+   "bio_zh": "研究者，与动物园中的白脸僧面猴共同设计了声音丰容装置。",
+   "why_zh": "她的研究展示了如何在兽舍中用低保真原型搭建由动物驱动的界面。",
+   "connected_to": [
+    "ilyena-hirskyj-douglas"
+   ],
+   "discovered_via": "ilyena-hirskyj-douglas",
+   "based": "Espoo, Finland",
+   "based_zh": "埃斯波，芬兰"
+  },
+  {
+   "id": "rebecca-kleinberger",
+   "name": "Rébecca Kleinberger",
+   "kind": "person",
+   "role": "Assistant Professor, Northeastern University (Khoury College and Art + Design); leads the INTERACT Animal Lab",
+   "bio": "Researcher on voice, sound and interspecies interaction; PhD from the MIT Media Lab.",
+   "why": "Her parrot video-calling and tablet studies treat pet birds as users with their own ergonomics and social needs.",
+   "links": {},
+   "role_zh": "美国东北大学助理教授（Khoury 计算机学院与艺术设计学院），领导 INTERACT Animal Lab",
+   "bio_zh": "研究声音、嗓音和跨物种交互，麻省理工学院媒体实验室博士。",
+   "why_zh": "她关于鹦鹉视频通话和平板电脑的研究，把宠物鸟当作有自己的人体工学和社交需求的用户。",
+   "connected_to": [
+    "ilyena-hirskyj-douglas"
+   ],
+   "discovered_via": "ilyena-hirskyj-douglas",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国"
+  },
+  {
+   "id": "fiona-french",
+   "name": "Fiona French",
+   "kind": "person",
+   "role": "Associate Professor, School of Computing and Digital Media, London Metropolitan University",
+   "bio": "ACI researcher who designs interactive toys and sound instruments for captive elephants.",
+   "why": "She introduced species-specific aesthetics as a design concern.",
+   "links": {},
+   "role_zh": "伦敦城市大学计算与数字媒体学院副教授",
+   "bio_zh": "ACI 研究者，为圈养大象设计互动玩具和声音装置。",
+   "why_zh": "她提出把“物种特有的美学”作为设计问题。",
+   "connected_to": [
+    "clara-mancini"
+   ],
+   "discovered_via": "clara-mancini",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "sarah-webber",
+   "name": "Sarah Webber",
+   "kind": "person",
+   "role": "Researcher, School of Computing and Information Systems, University of Melbourne",
+   "bio": "HCI researcher who studies digital enrichment for zoo animals and how visitors respond to it.",
+   "why": "Her orangutan projection work links animal welfare with visitor empathy.",
+   "links": {},
+   "role_zh": "墨尔本大学计算与信息系统学院研究者",
+   "bio_zh": "HCI 研究者，研究动物园动物的数字丰容以及游客的反应。",
+   "why_zh": "她的猩猩投影研究把动物福利与游客共情联系起来。",
+   "connected_to": [
+    "marcus-carter"
+   ],
+   "discovered_via": "seed",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚"
+  },
+  {
+   "id": "marcus-carter",
+   "name": "Marcus Carter",
+   "kind": "person",
+   "role": "Human-Computer Interaction researcher, University of Sydney",
+   "bio": "Game and HCI researcher who builds digital enrichment for zoo animals, including orangutans at Melbourne Zoo.",
+   "why": "He showed that interactive projections can enrich orangutans without food rewards.",
+   "links": {},
+   "role_zh": "悉尼大学人机交互研究者",
+   "bio_zh": "游戏与 HCI 研究者，为动物园动物制作数字丰容，包括墨尔本动物园的猩猩。",
+   "why_zh": "他证明了互动投影可以在不用食物奖励的情况下为猩猩提供丰容。",
+   "connected_to": [
+    "sarah-webber"
+   ],
+   "discovered_via": "sarah-webber",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚"
+  },
+  {
+   "id": "adrian-david-cheok",
+   "name": "Adrian David Cheok",
+   "kind": "person",
+   "role": "Founder and director, Mixed Reality Lab",
+   "bio": "Researcher in mixed reality and multisensory internet who built early remote-touch and play systems for pets.",
+   "why": "Poultry.Internet and Metazoa Ludens are early experiments in human–animal play over the internet.",
+   "links": {
+    "site": "https://mixedrealitylab.org/"
+   },
+   "role_zh": "Mixed Reality Lab 创始人和负责人",
+   "bio_zh": "混合现实和多感官互联网研究者，较早为宠物制作了远程触摸和游戏系统。",
+   "why_zh": "Poultry.Internet 和 Metazoa Ludens 是早期通过互联网进行人与动物游戏的实验。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "thad-starner",
+   "name": "Thad Starner",
+   "kind": "person",
+   "role": "Professor, School of Interactive Computing, Georgia Institute of Technology",
+   "bio": "Wearable computing pioneer who co-developed wearables for working dogs and for two-way communication with dolphins.",
+   "why": "His lab brought wearable computing into animal-computer interaction.",
+   "links": {},
+   "role_zh": "佐治亚理工学院交互计算学院教授",
+   "bio_zh": "可穿戴计算先驱，参与开发了工作犬可穿戴设备和与海豚双向交流的设备。",
+   "why_zh": "他的实验室把可穿戴计算带进了动物-计算机交互。",
+   "connected_to": [
+    "melody-moore-jackson",
+    "denise-herzing"
+   ],
+   "discovered_via": "seed",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国"
+  },
+  {
+   "id": "denise-herzing",
+   "name": "Denise Herzing",
+   "kind": "person",
+   "role": "Founder and Research Director, Wild Dolphin Project",
+   "bio": "Marine biologist who has studied a community of wild Atlantic spotted dolphins in the Bahamas since 1985.",
+   "why": "The CHAT wearable tested whether humans and dolphins can share a small artificial vocabulary.",
+   "links": {
+    "site": "https://www.wilddolphinproject.org/"
+   },
+   "role_zh": "Wild Dolphin Project 创始人和研究主任",
+   "bio_zh": "海洋生物学家，自 1985 年起研究巴哈马的一群野生大西洋斑纹海豚。",
+   "why_zh": "CHAT 可穿戴设备检验了人与海豚能否共享一小套人工词汇。",
+   "connected_to": [
+    "thad-starner"
+   ],
+   "discovered_via": "thad-starner",
+   "based": "Florida, US",
+   "based_zh": "佛罗里达，美国"
+  },
+  {
+   "id": "melody-moore-jackson",
+   "name": "Melody Moore Jackson",
+   "kind": "person",
+   "role": "Professor, School of Interactive Computing, Georgia Institute of Technology; directs the Animal-Computer Interaction Lab",
+   "bio": "Researcher and dog trainer who designs wearable and touchscreen interfaces that service dogs operate.",
+   "why": "FIDO vests let working dogs send messages, such as calling for help.",
+   "links": {},
+   "role_zh": "佐治亚理工学院交互计算学院教授，负责动物-计算机交互实验室",
+   "bio_zh": "研究者兼训犬师，设计服务犬能够操作的可穿戴设备和触摸屏界面。",
+   "why_zh": "FIDO 背心让工作犬能够发送信息，例如呼叫救援。",
+   "connected_to": [
+    "thad-starner"
+   ],
+   "discovered_via": "thad-starner",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国"
+  },
+  {
+   "id": "chadwick-wingrave",
+   "name": "Chadwick A. Wingrave",
+   "kind": "person",
+   "role": "HCI researcher, University of Central Florida (at the time of the work)",
+   "bio": "Researcher in 3D interaction who explored serious games for dogs and their owners.",
+   "why": "CAT is one of the earliest CHI papers on games for dogs.",
+   "links": {},
+   "role_zh": "HCI 研究者，完成该研究时任职于中佛罗里达大学",
+   "bio_zh": "三维交互研究者，探索了面向狗和主人的严肃游戏。",
+   "why_zh": "CAT 是 CHI 上最早关于狗的游戏的论文之一。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Orlando, US",
+   "based_zh": "奥兰多，美国"
+  },
+  {
+   "id": "frank-noz",
+   "name": "Frank Noz",
+   "kind": "person",
+   "role": "Designer; co-creator of Cat Cat Revolution",
+   "bio": "Designer who made an iPad game that a cat and its owner play together.",
+   "why": "Cat Cat Revolution was an early CHI case of pets as game players.",
+   "links": {},
+   "role_zh": "设计师，Cat Cat Revolution 的共同创作者",
+   "bio_zh": "设计师，制作了猫和主人一起玩的 iPad 游戏。",
+   "why_zh": "Cat Cat Revolution 是 CHI 上较早把宠物当作玩家的案例。",
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "patricia-pons",
+   "name": "Patricia Pons",
+   "kind": "person",
+   "role": "Researcher, Universitat Politècnica de València",
+   "bio": "Researcher who builds intelligent playful environments for cats and other animals using depth cameras.",
+   "why": "Her work studies what digital stimuli actually interest cats before designing games for them.",
+   "links": {},
+   "role_zh": "瓦伦西亚理工大学研究者",
+   "bio_zh": "研究者，用深度摄像头为猫和其他动物搭建智能游戏环境。",
+   "why_zh": "她在为猫设计游戏之前，先研究哪些数字刺激真正能吸引猫。",
+   "connected_to": [
+    "ilyena-hirskyj-douglas"
+   ],
+   "discovered_via": "seed",
+   "based": "Valencia, Spain",
+   "based_zh": "瓦伦西亚，西班牙"
+  },
+  {
+   "id": "anna-zamansky",
+   "name": "Anna Zamansky",
+   "kind": "person",
+   "role": "Associate Professor, Department of Information Systems, University of Haifa; heads the Tech4Animals lab",
+   "bio": "Researcher on technology for animals, from dog activity trackers to AI for animal behaviour and welfare.",
+   "why": "She studies how pet wearables change the relationship between owners and dogs.",
+   "links": {},
+   "role_zh": "海法大学信息系统系副教授，领导 Tech4Animals 实验室",
+   "bio_zh": "研究面向动物的技术，从狗活动追踪器到用于动物行为和福利的 AI。",
+   "why_zh": "她研究宠物可穿戴设备如何改变主人与狗之间的关系。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Haifa, Israel",
+   "based_zh": "海法，以色列"
+  },
+  {
+   "id": "stacey-kuznetsov",
+   "name": "Stacey Kuznetsov",
+   "kind": "person",
+   "role": "Associate Professor, School of Arts, Media and Engineering, Arizona State University",
+   "bio": "HCI researcher on DIY citizen science, environmental sensing and bio-making.",
+   "why": "Her glowing air-quality balloons are an early example of public, DIY environmental sensing.",
+   "links": {},
+   "role_zh": "亚利桑那州立大学艺术、媒体与工程学院副教授",
+   "bio_zh": "HCI 研究者，关注 DIY 公民科学、环境感知和生物制作。",
+   "why_zh": "她的发光空气质量气球是公众参与的 DIY 环境感知的早期例子。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Tempe, US",
+   "based_zh": "坦佩，美国"
+  },
+  {
+   "id": "ashley-boone",
+   "name": "Ashley Boone",
+   "kind": "person",
+   "role": "PhD researcher, Georgia Institute of Technology",
+   "bio": "Researcher who studies data practices of community science, such as volunteers monitoring bird collisions with buildings.",
+   "why": "Her pictorial shows how making environmental data is itself a multispecies encounter.",
+   "links": {},
+   "role_zh": "佐治亚理工学院博士研究者",
+   "bio_zh": "研究社区科学中的数据实践，例如志愿者监测鸟类撞击建筑。",
+   "why_zh": "她的图文论文展示了生产环境数据本身就是一次多物种相遇。",
+   "connected_to": [
+    "carl-disalvo"
+   ],
+   "discovered_via": "carl-disalvo",
+   "based": "Atlanta, US",
+   "based_zh": "亚特兰大，美国"
+  },
+  {
+   "id": "lone-koefoed-hansen",
+   "name": "Lone Koefoed Hansen",
+   "kind": "person",
+   "role": "Associate Professor, Department of Digital Design and Information Studies, Aarhus University",
+   "bio": "Interaction design researcher who makes plant–electronics experiments to shift how people notice plants.",
+   "why": "Her work uses interaction design as a way to build sensitivity to plants.",
+   "links": {},
+   "role_zh": "奥胡斯大学数字设计与信息研究系副教授",
+   "bio_zh": "交互设计研究者，制作植物与电子结合的实验，改变人们感知植物的方式。",
+   "why_zh": "她把交互设计作为培养人对植物敏感度的途径。",
+   "connected_to": [
+    "eva-eriksson"
+   ],
+   "discovered_via": "eva-eriksson",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦"
+  },
+  {
+   "id": "ned-cooper",
+   "name": "Ned Cooper",
+   "kind": "person",
+   "role": "Researcher, School of Cybernetics, Australian National University",
+   "bio": "Researcher who applies philosophy of mind to participatory design with trees and other nonhumans.",
+   "why": "He proposes the intentional stance as a practical heuristic for more-than-human participation.",
+   "links": {},
+   "role_zh": "澳大利亚国立大学控制论学院研究者",
+   "bio_zh": "研究者，把心灵哲学用于与树木等非人类进行的参与式设计。",
+   "why_zh": "他提出把“意向立场”作为超越人类参与的实用启发法。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚"
+  },
+  {
+   "id": "kristina-lindstrom",
+   "name": "Kristina Lindström",
+   "kind": "person",
+   "role": "Design researcher, School of Arts and Communication, Malmö University",
+   "bio": "Participatory design researcher who, with Åsa Ståhl, works on plastics, compost and living in the aftermath of design.",
+   "why": "Their idea of response-able stakeholders extends participation to material and nonhuman issues.",
+   "links": {},
+   "role_zh": "马尔默大学艺术与传播学院设计研究者",
+   "bio_zh": "参与式设计研究者，与 Åsa Ståhl 合作研究塑料、堆肥以及在设计的余波中生活。",
+   "why_zh": "她们提出的“有回应能力的利益相关者”把参与扩展到物质与非人类议题。",
+   "connected_to": [
+    "asa-stahl"
+   ],
+   "discovered_via": "seed",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典"
+  },
+  {
+   "id": "asa-stahl",
+   "name": "Åsa Ståhl",
+   "kind": "person",
+   "role": "Design researcher, Linnaeus University",
+   "bio": "Design researcher who works with Kristina Lindström on participatory design with plastics, compost and other more-than-human matters.",
+   "why": "Their collaborative practice is a Nordic reference for caring, more-than-human participatory design.",
+   "links": {},
+   "role_zh": "林奈大学设计研究者",
+   "bio_zh": "设计研究者，与 Kristina Lindström 合作，围绕塑料、堆肥等超越人类的议题开展参与式设计。",
+   "why_zh": "她们的合作实践是北欧关怀式、超越人类参与式设计的重要参考。",
+   "connected_to": [
+    "kristina-lindstrom"
+   ],
+   "discovered_via": "kristina-lindstrom",
+   "based": "Växjö, Sweden",
+   "based_zh": "韦克舍，瑞典"
+  },
+  {
+   "id": "chidi-usanga",
+   "name": "Chidi Usanga",
+   "kind": "person",
+   "role": "Researcher, University of Limerick",
+   "bio": "Participatory design researcher working on rivers and nonhuman stakeholders in sustainable development.",
+   "why": "He brought the question of giving voice to nature to the Participatory Design Conference.",
+   "links": {},
+   "role_zh": "利默里克大学研究者",
+   "bio_zh": "参与式设计研究者，关注河流以及可持续发展中的非人类利益相关者。",
+   "why_zh": "他把“如何让自然发声”的问题带到了参与式设计会议上。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Limerick, Ireland",
+   "based_zh": "利默里克，爱尔兰"
+  },
+  {
+   "id": "maliheh-ghajargar",
+   "name": "Maliheh Ghajargar",
+   "kind": "person",
+   "role": "Researcher, Internet of Things and People Research Center, Malmö University",
+   "bio": "Interaction design researcher working on tangible interaction, AI and multispecies storytelling.",
+   "why": "She uses graphic novels with a landscape as the protagonist as a multispecies design method.",
+   "links": {},
+   "role_zh": "马尔默大学物联网与人研究中心研究者",
+   "bio_zh": "交互设计研究者，关注实体交互、人工智能和多物种叙事。",
+   "why_zh": "她用以景观为主角的图像小说作为多物种设计方法。",
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Malmö, Sweden",
+   "based_zh": "马尔默，瑞典"
+  }
+ ],
+ "works": [
+  {
+   "id": "ron-wakkary--things-we-could-design",
+   "creator_ids": [
+    "ron-wakkary"
+   ],
+   "title": "Things We Could Design: For More Than Human-Centered Worlds",
+   "year": 2021,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "publication",
+   "description": "A book arguing that human-centred design is part of the ecological problem and laying out a posthumanist design practice in which humans share centre stage with nonhumans.",
+   "description_zh": "这本书认为以人为中心的设计本身就是生态问题的一部分，并提出一种人类与非人类共同站在中心的后人类主义设计实践。",
+   "idea_en": "Design with humility and cohabitation: treat things, materials and species as participants, not resources.",
+   "idea_zh": "带着谦逊与共处去设计：把物、材料和物种当作参与者，而不是资源。",
+   "method": "Draws on posthumanist philosophy and a decade of the author's research-through-design projects to define concepts such as designer-as-assemblage and repertoires.",
+   "method_zh": "结合后人类主义哲学和作者十多年的通过设计进行研究的项目，提出“设计者即集合体”“行动剧目”等概念。",
+   "keywords": [
+    "posthumanism",
+    "more-than-human design",
+    "Everyday Design Studio",
+    "book"
+   ],
+   "video": {
+    "url": "https://vimeo.com/512886973"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780262542999-L.jpg?default=false"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/13649.001.0001",
+    "doi": "10.7551/mitpress/13649.001.0001",
+    "arxiv": "",
+    "venue": "MIT Press 2021"
+   },
+   "source_url": "https://mitpress.mit.edu/9780262542999/things-we-could-design/"
+  },
+  {
+   "id": "ron-wakkary--morse-things",
+   "creator_ids": [
+    "ron-wakkary",
+    "doenja-oogjes"
+   ],
+   "title": "Morse Things: A Design Inquiry into the Gap Between Things and Us",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Sets of ceramic cups and bowls that talk to each other in Morse code over the home network, mostly ignoring the people who live with them; designers' households lived with them for months.",
+   "description_zh": "几组陶瓷杯碗通过家庭网络用摩尔斯电码互相“交谈”，基本不理会与它们同住的人；设计师家庭与它们共同生活了数月。",
+   "idea_en": "Design things that have their own lives, so people notice the gap between things and us.",
+   "idea_zh": "设计拥有自己生活的物，让人注意到物与人之间的距离。",
+   "method": "Networked ceramic vessels with embedded electronics exchange beeps and light in Morse code and post to Twitter; studied through long-term home deployments.",
+   "method_zh": "内置电子元件的联网陶瓷器皿用摩尔斯电码交换声音和灯光信号并发布到推特，通过长期入户部署进行研究。",
+   "keywords": [
+    "Internet of Things",
+    "material speculation",
+    "ceramics",
+    "thing perspective"
+   ],
+   "video": {
+    "url": "https://vimeo.com/182202765"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/591018273-8f6a09e2cbb83b2ae0030eba966c0e3f15a3b1524d9ac331962d9952e0c5df56-d_1280x720.jpg",
+    "https://i.vimeocdn.com/video/591017885-a8d0a26f494d96276a25f7f886243de3ce86c1dc70ed3f2aeef8aa576935275f-d_1280x720.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3064663.3064734",
+    "doi": "10.1145/3064663.3064734",
+    "arxiv": "",
+    "venue": "DIS 2017"
+   },
+   "source_url": "http://eds.siat.sfu.ca/?eds_project=morse-things"
+  },
+  {
+   "id": "ron-wakkary--tilting-bowl",
+   "creator_ids": [
+    "ron-wakkary",
+    "doenja-oogjes"
+   ],
+   "title": "Philosophers Living with the Tilting Bowl",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A porcelain bowl that tilts by itself a few times a day for no reason was placed in the homes of philosophers, who reflected on how they lived with it.",
+   "description_zh": "一个每天会无缘无故自己倾斜几次的瓷碗被放进哲学家的家中，哲学家们记录并反思与它共同生活的经验。",
+   "idea_en": "An artifact with no function beyond its own behaviour can open new relations between people and technology.",
+   "idea_zh": "一个除了自身行为外没有其他功能的物件，可以打开人与技术之间的新关系。",
+   "method": "A motorised glazed bowl tilts for a few seconds at random intervals; philosophers kept it for months and were interviewed as co-speculators.",
+   "method_zh": "带电机的釉面瓷碗在随机时间倾斜几秒；哲学家们与它共处数月，并以共同思辨者的身份接受访谈。",
+   "keywords": [
+    "counterfactual artifact",
+    "co-speculation",
+    "postphenomenology",
+    "material speculation"
+   ],
+   "video": {
+    "url": "https://vimeo.com/151196220"
+   },
+   "images": [
+    "https://i.vimeocdn.com/video/541478518-6ff95d5999dfb2566f2f5e28ec9811d4fa50bddd6c8ee46cab84c5b9bd6084d5-d_1280x720.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3173668",
+    "doi": "10.1145/3173574.3173668",
+    "arxiv": "",
+    "venue": "CHI 2018"
+   },
+   "source_url": "http://eds.siat.sfu.ca/?eds_project=tilting-bowl"
+  },
+  {
+   "id": "ron-wakkary--co-speculation-tilting-bowl",
+   "creator_ids": [
+    "ron-wakkary",
+    "doenja-oogjes"
+   ],
+   "title": "Two Years or More of Co-speculation: Polylogues of Philosophers, Designers, and a Tilting Bowl",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A multi-year conversation among designers, philosophers and the Tilting Bowl that proposes new relations with technological things, including non-anthropocentric care.",
+   "description_zh": "设计师、哲学家与 Tilting Bowl 之间持续多年的对话，提出与技术物的新关系，包括非人类中心的照护。",
+   "idea_en": "Long-term co-speculation with an odd artifact can generate theory about how we live with things.",
+   "idea_zh": "与一个古怪物件长期共同思辨，可以生成关于人如何与物共处的理论。",
+   "method": "Extends material speculation into 'polylogues': repeated conversations with philosophers who lived with the bowl, analysed together with the artifact's own record.",
+   "method_zh": "把物质思辨扩展为“多声对话”：与和碗同住的哲学家反复交谈，并结合物件自身的记录一起分析。",
+   "keywords": [
+    "co-speculation",
+    "polylogue",
+    "non-anthropocentric care",
+    "Tilting Bowl"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R2aM8ChhSCo"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/R2aM8ChhSCo/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3514235",
+    "doi": "10.1145/3514235",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2022"
+   },
+   "source_url": "http://eds.siat.sfu.ca/?eds_project=tilting-bowl"
+  },
+  {
+   "id": "doenja-oogjes--weaving-stories",
+   "creator_ids": [
+    "doenja-oogjes",
+    "ron-wakkary"
+   ],
+   "title": "Weaving Stories: Toward Repertoires for Designing Things",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "The first author accounts for her own weaving through methods from outside HCI to bring the creative part of looms, yarn and software into design research writing.",
+   "description_zh": "第一作者借用 HCI 之外的方法记录自己的编织过程，让织机、纱线和软件的创造性进入设计研究的叙述。",
+   "idea_en": "Designers can adopt concrete repertoires, such as noticing and describing the landscape, to let nonhumans take part in design.",
+   "idea_zh": "设计者可以采用“注意”“描述场景”等具体行动剧目，让非人类参与设计。",
+   "method": "First-person weaving practice documented through landscape description, noticing and translation, then reflected on with posthuman theory.",
+   "method_zh": "以第一人称的编织实践为材料，通过描述场景、注意和转译三种方式记录，再用后人类理论进行反思。",
+   "keywords": [
+    "repertoires",
+    "weaving",
+    "first-person research",
+    "posthuman design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W41U-1YB4QI"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/W41U-1YB4QI/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501901",
+    "doi": "10.1145/3491102.3501901",
+    "arxiv": "",
+    "venue": "CHI 2022"
+   },
+   "source_url": "https://doi.org/10.1145/3491102.3501901"
+  },
+  {
+   "id": "elisa-giaccardi--thing-ethnography",
+   "creator_ids": [
+    "elisa-giaccardi",
+    "nazli-cila"
+   ],
+   "title": "Thing Ethnography: Doing Design Research with Non-Humans",
+   "year": 2016,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Cameras attached to everyday objects such as kettles and cups record how the objects are used, giving designers a view of daily life from the things' side.",
+   "description_zh": "把相机装在水壶、杯子等日常物件上，记录它们如何被使用，让设计者从物的角度观察日常生活。",
+   "idea_en": "Things can act as co-ethnographers and reveal patterns that people cannot report themselves.",
+   "idea_zh": "物可以充当共同民族志研究者，揭示人自己说不出的模式。",
+   "method": "Autographer cameras and sensors on household objects captured images and data, which were analysed alongside interviews with the people who used them.",
+   "method_zh": "在家居物件上安装 Autographer 相机和传感器采集图像与数据，并与使用者访谈一起分析。",
+   "keywords": [
+    "thing perspective",
+    "co-ethnography",
+    "Internet of Things",
+    "design research method"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1Z0mVcV1EgA"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/1Z0mVcV1EgA/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2901790.2901905",
+    "doi": "10.1145/2901790.2901905",
+    "arxiv": "",
+    "venue": "DIS 2016"
+   },
+   "source_url": "https://doi.org/10.1145/2901790.2901905"
+  },
+  {
+   "id": "elisa-giaccardi--technology-and-more-than-human-design",
+   "creator_ids": [
+    "elisa-giaccardi",
+    "johan-redstrom"
+   ],
+   "title": "Technology and More-Than-Human Design",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "An essay asking what happens when human-centred design can no longer give form to data technologies such as IoT and AI, and pointing to more-than-human design as an alternative.",
+   "description_zh": "一篇论文，探讨当以人为中心的设计无法再为物联网和人工智能等数据技术赋形时会发生什么，并提出超越人类设计作为替代。",
+   "idea_en": "Human-centred design is not enough for technologies that act, learn and relate on their own.",
+   "idea_zh": "对于会自行行动、学习和建立关系的技术，以人为中心的设计已经不够。",
+   "method": "Conceptual argument drawing on philosophy of technology and the authors' design research programmes.",
+   "method_zh": "基于技术哲学和两位作者的设计研究项目进行理论论证。",
+   "keywords": [
+    "more-than-human design",
+    "human-centred design",
+    "AI",
+    "Internet of Things"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CIjaBeN-et8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1162/desi_a_00612",
+    "doi": "10.1162/desi_a_00612",
+    "arxiv": "",
+    "venue": "Design Issues 2020"
+   },
+   "source_url": "https://direct.mit.edu/desi/article/36/4/33/94540/Technology-and-More-Than-Human-Design"
+  },
+  {
+   "id": "nazli-cila--products-as-agents",
+   "creator_ids": [
+    "nazli-cila",
+    "elisa-giaccardi"
+   ],
+   "title": "Products as Agents: Metaphors for Designing the Products of the IoT Age",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Proposes three metaphors - products as collectors, actors and creators - for connected products that gather data, act on their own and co-create with people.",
+   "description_zh": "为联网产品提出三种隐喻：产品作为收集者、行动者和创造者，它们收集数据、自主行动并与人共同创造。",
+   "idea_en": "Treat smart products as agents with roles, not as passive tools.",
+   "idea_zh": "把智能产品当作有角色的代理者，而不是被动的工具。",
+   "method": "Metaphors derived from design workshops and critical analysis of IoT products.",
+   "method_zh": "从设计工作坊和对物联网产品的批判分析中提炼出隐喻。",
+   "keywords": [
+    "agency",
+    "Internet of Things",
+    "metaphors",
+    "smart products"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5f6312c65070bb0554a3d6e3/1602250220682-DE0ZFGIJR9K9HJYZT1BS/Smart%2Bsink.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025797",
+    "doi": "10.1145/3025453.3025797",
+    "arxiv": "",
+    "venue": "CHI 2017"
+   },
+   "source_url": "https://nazlicila.com/projects/human-agent-partnerships"
+  },
+  {
+   "id": "laura-forlano--posthumanism-and-design",
+   "creator_ids": [
+    "laura-forlano"
+   ],
+   "title": "Posthumanism and Design",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "An overview of how posthumanist theory, from feminist new materialism to STS, challenges human-centred design and what design might do instead.",
+   "description_zh": "综述后人类主义理论（从女性主义新唯物主义到科学技术研究）如何挑战以人为中心的设计，以及设计可以转向何处。",
+   "idea_en": "Design needs to move beyond the individual human user towards networks of humans, nonhumans and technologies.",
+   "idea_zh": "设计需要超越单个人类用户，转向人、非人类和技术组成的网络。",
+   "method": "Literature synthesis of posthumanist philosophy and its implications for design practice and education.",
+   "method_zh": "综合后人类主义哲学文献，讨论其对设计实践与教育的意义。",
+   "keywords": [
+    "posthumanism",
+    "new materialism",
+    "STS",
+    "She Ji"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.sheji.2017.08.001",
+    "doi": "10.1016/j.sheji.2017.08.001",
+    "arxiv": "",
+    "venue": "She Ji 2017"
+   },
+   "source_url": "https://doi.org/10.1016/j.sheji.2017.08.001"
+  },
+  {
+   "id": "laura-forlano--decentering-the-human",
+   "creator_ids": [
+    "laura-forlano"
+   ],
+   "title": "Decentering the Human in the Design of Collaborative Cities",
+   "year": 2016,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Argues that sensor-rich smart cities are sites where human and nonhuman actors negotiate urban futures, and that designers should decenter the human in them.",
+   "description_zh": "认为布满传感器的智慧城市是人类与非人类行动者协商城市未来的场所，设计者应在其中去人类中心。",
+   "idea_en": "Cities are made by humans, nonhumans and technologies together; design should treat them that way.",
+   "idea_zh": "城市由人、非人类和技术共同塑造，设计应当以此为前提。",
+   "method": "Applies science and technology studies to cases of environmental monitoring and urban data projects.",
+   "method_zh": "运用科学技术研究的视角分析环境监测和城市数据项目。",
+   "keywords": [
+    "smart cities",
+    "decentering",
+    "STS",
+    "urban design"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1162/desi_a_00398",
+    "doi": "10.1162/desi_a_00398",
+    "arxiv": "",
+    "venue": "Design Issues 2016"
+   },
+   "source_url": "https://doi.org/10.1162/desi_a_00398"
+  },
+  {
+   "id": "paul-coulton--more-than-human-centred-design",
+   "creator_ids": [
+    "paul-coulton",
+    "joseph-lindley"
+   ],
+   "title": "More-Than Human Centred Design: Considering Other Things",
+   "year": 2019,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Argues that networked things such as IoT devices have their own agency and that design must consider these other things, not only human users.",
+   "description_zh": "论证物联网设备等联网物拥有自身能动性，设计必须考虑这些“其他物”，而不只考虑人类用户。",
+   "idea_en": "Human-centred design hides the agency of things; more-than-human centred design brings it into view.",
+   "idea_zh": "以人为中心的设计遮蔽了物的能动性；超越人类中心的设计让它显现出来。",
+   "method": "Uses object-oriented ontology and design fiction examples to build the argument.",
+   "method_zh": "借助物导向本体论和设计虚构案例展开论证。",
+   "keywords": [
+    "object-oriented ontology",
+    "Internet of Things",
+    "design fiction",
+    "more-than-human centred design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LlPmeirPep4"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/LlPmeirPep4/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/14606925.2019.1614320",
+    "doi": "10.1080/14606925.2019.1614320",
+    "arxiv": "",
+    "venue": "The Design Journal 2019"
+   },
+   "source_url": "https://designresearch.works/blog/designing-technology-for-more-than-human-futures-book-chapter"
+  },
+  {
+   "id": "joseph-lindley--speculative-lathe",
+   "creator_ids": [
+    "joseph-lindley",
+    "paul-coulton"
+   ],
+   "title": "Turning Philosophy with a Speculative Lathe: Object-Oriented Ontology, Carpentry, and Design Fiction",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Introduces the 'speculative lathe', a way of combining object-oriented ontology, carpentry (making things that express how objects experience the world) and design fiction to address IoT anxieties.",
+   "description_zh": "提出“思辨车床”：把物导向本体论、“木工”（制作表达物如何经验世界的东西）和设计虚构结合起来，以回应人们对物联网的焦虑。",
+   "idea_en": "Philosophy of objects becomes a design tool when you make artifacts that show how things relate to each other.",
+   "idea_zh": "当你制作能展示物与物如何相互关联的物件时，关于物的哲学就成了设计工具。",
+   "method": "Combines Ian Bogost's carpentry with design fiction to produce artifacts that reveal network-contingent agency.",
+   "method_zh": "把 Ian Bogost 的“木工”概念与设计虚构结合，制作揭示网络依赖型能动性的物件。",
+   "keywords": [
+    "object-oriented ontology",
+    "carpentry",
+    "design fiction",
+    "Internet of Things"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2018.327",
+    "doi": "10.21606/drs.2018.327",
+    "arxiv": "",
+    "venue": "DRS 2018"
+   },
+   "source_url": "https://dl.designresearchsociety.org/drs-conference-papers/drs2018/researchpapers/20/"
+  },
+  {
+   "id": "iohanna-nicenboim--more-than-human-design-and-ai",
+   "creator_ids": [
+    "iohanna-nicenboim",
+    "elisa-giaccardi",
+    "johan-redstrom"
+   ],
+   "title": "More-Than-Human Design and AI: In Conversation with Agents",
+   "year": 2020,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A workshop, run in sessions across several world regions, in which participants studied smart speakers and other AI agents from a more-than-human perspective using thing ethnography and material speculation.",
+   "description_zh": "在多个时区分场举办的工作坊，参与者用物的民族志和物质思辨方法，从超越人类的视角研究智能音箱等 AI 代理。",
+   "idea_en": "Treat conversational agents as more-than-human participants, not as neutral assistants.",
+   "idea_zh": "把对话代理当作超越人类的参与者，而不是中立的助手。",
+   "method": "Workshop activities with voice assistants placed in homes, combined with speculative making and collective reflection.",
+   "method_zh": "把语音助手放进家中开展工作坊活动，结合思辨制作与集体反思。",
+   "keywords": [
+    "conversational agents",
+    "AI",
+    "smart speakers",
+    "workshop"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CJKwKQG_heI"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/4/137851/14306494/IMG_5103_670.jpg",
+    "https://payload.cargocollective.com/1/4/137851/14306494/prt_1669881272_2x.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3393914.3395912",
+    "doi": "10.1145/3393914.3395912",
+    "arxiv": "",
+    "venue": "DIS 2020 Companion"
+   },
+   "source_url": "https://iohanna.com/More-than-human-AI"
+  },
+  {
+   "id": "iohanna-nicenboim--decentering-through-design",
+   "creator_ids": [
+    "iohanna-nicenboim",
+    "doenja-oogjes",
+    "heidi-biggs"
+   ],
+   "title": "Decentering Through Design: Bridging Posthuman Theory with More-than-Human Design Practices",
+   "year": 2023,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Traces the idea of decentering the human from critical posthumanism into HCI and identifies five dimensions of how designers practise it.",
+   "description_zh": "追溯“去人类中心”从批判后人类主义到 HCI 的脉络，归纳设计者实践这一理念的五个维度。",
+   "idea_en": "Designers do not only apply posthuman theory; through making they produce posthuman knowledge.",
+   "idea_zh": "设计者不只是应用后人类理论，也通过制作生产后人类知识。",
+   "method": "Review of posthuman theory and more-than-human HCI papers, synthesised into a framework.",
+   "method_zh": "综述后人类理论和超越人类 HCI 论文，整合为一个框架。",
+   "keywords": [
+    "decentering",
+    "posthumanism",
+    "HCI",
+    "framework"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2023.2283535",
+    "doi": "10.1080/07370024.2023.2283535",
+    "arxiv": "",
+    "venue": "Human-Computer Interaction (journal)"
+   },
+   "source_url": "https://doi.org/10.1080/07370024.2023.2283535"
+  },
+  {
+   "id": "aykut-coskun--more-than-human-concepts-hci",
+   "creator_ids": [
+    "aykut-coskun",
+    "nazli-cila",
+    "iohanna-nicenboim",
+    "christopher-frauenberger",
+    "ron-wakkary",
+    "clara-mancini",
+    "elisa-giaccardi"
+   ],
+   "title": "More-than-human Concepts, Methodologies, and Practices in HCI",
+   "year": 2022,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A CHI workshop that brought together researchers working with animals, things, AI and ecosystems to map shared concepts and methods of more-than-human HCI.",
+   "description_zh": "一场 CHI 工作坊，汇集研究动物、物、人工智能和生态系统的学者，梳理超越人类 HCI 的共同概念和方法。",
+   "idea_en": "More-than-human HCI is a shared field across animal, thing and ecological research.",
+   "idea_zh": "超越人类的 HCI 是一个横跨动物、物和生态研究的共同领域。",
+   "method": "Workshop with position papers and group mapping of concepts, methods and practices.",
+   "method_zh": "通过立场论文和小组讨论，绘制概念、方法与实践的图谱。",
+   "keywords": [
+    "workshop",
+    "CHI",
+    "more-than-human HCI",
+    "methods"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=CQDXt7Ph7PE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3491101.3516503",
+    "doi": "10.1145/3491101.3516503",
+    "arxiv": "",
+    "venue": "CHI 2022 Extended Abstracts"
+   },
+   "source_url": "https://doi.org/10.1145/3491101.3516503"
+  },
+  {
+   "id": "christopher-frauenberger--entanglement-hci",
+   "creator_ids": [
+    "christopher-frauenberger"
+   ],
+   "title": "Entanglement HCI The Next Wave?",
+   "year": 2019,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Argues that our entanglement with AI, neuro-implants and cyber-physical systems calls for a new HCI paradigm built on relational ontologies.",
+   "description_zh": "认为人与人工智能、神经植入物和信息物理系统的纠缠，需要一种建立在关系本体论上的新 HCI 范式。",
+   "idea_en": "Humans and technologies make each other; HCI should design for that entanglement.",
+   "idea_zh": "人与技术相互塑造；HCI 应当为这种纠缠而设计。",
+   "method": "Reviews actor-network theory, postphenomenology, object-oriented ontology and agential realism and their uptake in HCI.",
+   "method_zh": "回顾行动者网络理论、后现象学、物导向本体论和能动实在论及其在 HCI 中的应用。",
+   "keywords": [
+    "entanglement",
+    "agential realism",
+    "actor-network theory",
+    "HCI paradigm"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kXXsQvloZfU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3364998",
+    "doi": "10.1145/3364998",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2019"
+   },
+   "source_url": "https://frauenberger.name/research/entanglement-hci"
+  },
+  {
+   "id": "nancy-smith--designing-for-cohabitation",
+   "creator_ids": [
+    "nancy-smith",
+    "shaowen-bardzell"
+   ],
+   "title": "Designing for Cohabitation: Naturecultures, Hybrids, and Decentering the Human in Design",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A study of urban homesteaders who live closely with plants, animals and soil, used to rethink design for cohabitation between humans and nonhumans.",
+   "description_zh": "研究与植物、动物和土壤紧密共处的城市家庭农庄者，以此重新思考人与非人类共居的设计。",
+   "idea_en": "Design for cohabitation with nature, not for control over it.",
+   "idea_zh": "为与自然共居而设计，而不是为了控制自然。",
+   "method": "Ethnographic fieldwork with homesteaders, analysed with Haraway's natureculture concept.",
+   "method_zh": "对家庭农庄者进行民族志田野研究，并用 Haraway 的“自然文化”概念分析。",
+   "keywords": [
+    "naturecultures",
+    "urban homesteading",
+    "cohabitation",
+    "decentering"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Az3oYUa8eSo"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/Az3oYUa8eSo/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025948",
+    "doi": "10.1145/3025453.3025948",
+    "arxiv": "",
+    "venue": "CHI 2017"
+   },
+   "source_url": "https://doi.org/10.1145/3025453.3025948"
+  },
+  {
+   "id": "carl-disalvo--nonanthropocentrism-in-design",
+   "creator_ids": [
+    "carl-disalvo"
+   ],
+   "title": "Nonanthropocentrism and the Nonhuman in Design: Possibilities for Designing New Forms of Engagement with and through Technology",
+   "year": 2011,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "A book chapter that asks how design could engage nonhumans, drawing on projects that make animals, plants and environments into participants in civic technology.",
+   "description_zh": "一章书稿，探讨设计如何与非人类互动，并以让动物、植物和环境成为公民技术参与者的项目为例。",
+   "idea_en": "Civic and participatory design can include nonhumans as participants.",
+   "idea_zh": "公民设计和参与式设计可以把非人类作为参与者纳入其中。",
+   "method": "Theoretical essay with case discussions of speculative and participatory design projects.",
+   "method_zh": "理论论文，结合思辨设计与参与式设计项目的案例讨论。",
+   "keywords": [
+    "nonanthropocentrism",
+    "civic technology",
+    "participatory design",
+    "book chapter"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7551/mitpress/8744.003.0034",
+    "doi": "10.7551/mitpress/8744.003.0034",
+    "arxiv": "",
+    "venue": "From Social Butterfly to Engaged Citizen (MIT Press 2011)"
+   },
+   "source_url": "https://doi.org/10.7551/mitpress/8744.003.0034"
+  },
+  {
+   "id": "anne-galloway--emergent-media-human-nonhuman",
+   "creator_ids": [
+    "anne-galloway"
+   ],
+   "title": "Emergent Media Technologies, Speculation, Expectation, and Human/Nonhuman Relations",
+   "year": 2013,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Examines how speculative design and expectations about new media technologies shape relations between humans and nonhumans, drawing on the author's research with sheep and farming.",
+   "description_zh": "探讨思辨设计和人们对新媒体技术的期待如何塑造人与非人类的关系，并结合作者关于绵羊和农业的研究。",
+   "idea_en": "Speculation about technology is also speculation about how we will live with animals.",
+   "idea_zh": "对技术的思辨，也是对人将如何与动物共处的思辨。",
+   "method": "Conceptual paper combining speculative design practice with more-than-human geography and STS.",
+   "method_zh": "理论论文，结合思辨设计实践、超越人类的地理学与科学技术研究。",
+   "keywords": [
+    "speculative design",
+    "More-Than-Human Lab",
+    "sheep",
+    "expectation"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/08838151.2012.761705",
+    "doi": "10.1080/08838151.2012.761705",
+    "arxiv": "",
+    "venue": "Journal of Broadcasting & Electronic Media 2013"
+   },
+   "source_url": "https://doi.org/10.1080/08838151.2012.761705"
+  },
+  {
+   "id": "bert-de-roo--umwelt-sketch",
+   "creator_ids": [
+    "bert-de-roo"
+   ],
+   "title": "The Umwelt-sketch as More-than-human Design Methodology",
+   "year": 2023,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A design method in which participants draw the overlapping perceptual worlds (Umwelten) of different species to find moments where the human perspective is decentered.",
+   "description_zh": "一种设计方法：参与者画出不同物种相互重叠的感知世界（Umwelt），从中找到人类视角被去中心化的时刻。",
+   "idea_en": "Sketching another species' Umwelt is a practical way to decenter a design process.",
+   "idea_zh": "画出另一个物种的感知世界，是让设计过程去中心化的实用方法。",
+   "method": "Builds on Jakob von Uexküll's Umwelt concept and tests visual sketching in design workshops.",
+   "method_zh": "以 Jakob von Uexküll 的 Umwelt 概念为基础，在设计工作坊中测试视觉草图方法。",
+   "keywords": [
+    "Umwelt",
+    "Uexküll",
+    "sketching",
+    "design method"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5o22Yf1mxGc"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/5o22Yf1mxGc/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3563703.3596628",
+    "doi": "10.1145/3563703.3596628",
+    "arxiv": "",
+    "venue": "DIS 2023"
+   },
+   "source_url": "https://doi.org/10.1145/3563703.3596628"
+  },
+  {
+   "id": "eva-eriksson--more-than-human-scoping-review",
+   "creator_ids": [
+    "eva-eriksson"
+   ],
+   "title": "More-than-Human Perspectives in Human-Computer Interaction Research: A Scoping Review",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A scoping review of 40 HCI papers that use more-than-human perspectives, summarising their motivations, approaches and practices.",
+   "description_zh": "对 40 篇采用超越人类视角的 HCI 论文进行范围综述，总结其动机、方法和实践。",
+   "idea_en": "A map of what 'more-than-human' currently means in HCI and where design fits in.",
+   "idea_zh": "一张地图：说明“超越人类”在当下 HCI 中的含义以及设计的位置。",
+   "method": "Systematic search of the ACM Digital Library followed by thematic analysis of the final corpus.",
+   "method_zh": "系统检索 ACM 数字图书馆，再对最终语料进行主题分析。",
+   "keywords": [
+    "scoping review",
+    "more-than-human HCI",
+    "ACM Digital Library"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3679318.3685408",
+    "doi": "10.1145/3679318.3685408",
+    "arxiv": "",
+    "venue": "NordiCHI 2024"
+   },
+   "source_url": "https://doi.org/10.1145/3679318.3685408"
+  },
+  {
+   "id": "joseph-lindley--productive-oscillation",
+   "creator_ids": [
+    "joseph-lindley",
+    "paul-coulton"
+   ],
+   "title": "Productive Oscillation as a strategy for doing more-than-human design research",
+   "year": 2023,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "Proposes that researchers can move back and forth between human-centred and more-than-human framings, reflecting on a project about trust in connected systems.",
+   "description_zh": "提出研究者可以在以人为中心和超越人类的框架之间来回切换，并以一个关于联网系统中信任的项目为例进行反思。",
+   "idea_en": "You do not have to abandon human-centred design; oscillating between the two views can be productive.",
+   "idea_zh": "不必放弃以人为中心的设计；在两种视角之间来回摆动本身就有生产性。",
+   "method": "Reflective analysis of workshops and artifacts from a research-through-design project on trust.",
+   "method_zh": "对一个关于信任的“通过设计进行研究”项目中的工作坊与物件进行反思分析。",
+   "keywords": [
+    "oscillation",
+    "trust",
+    "research through design",
+    "more-than-human design"
+   ],
+   "images": [
+    "https://designresearch.works/images/productive-oscillation.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1080/07370024.2023.2276393",
+    "doi": "10.1080/07370024.2023.2276393",
+    "arxiv": "",
+    "venue": "Human-Computer Interaction (journal)"
+   },
+   "source_url": "https://designresearch.works/blog/productive-oscillation-as-a-strategy-for-more-than-human-design-research"
+  },
+  {
+   "id": "donna-haraway--staying-with-the-trouble",
+   "creator_ids": [
+    "donna-haraway"
+   ],
+   "title": "Staying with the Trouble: Making Kin in the Chthulucene",
+   "year": 2016,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A book on living and dying well with other species in damaged times, with stories of pigeons, corals, lichens and speculative fabulation.",
+   "description_zh": "一本关于在受损的时代与其他物种共同好好生活、好好死去的书，讲述了鸽子、珊瑚、地衣和思辨寓言的故事。",
+   "idea_en": "Make kin, not babies: build responsible relations across species instead of waiting for a technical fix.",
+   "idea_zh": "“结亲，而非生子”：与其他物种建立负责任的关系，而不是等待技术修补。",
+   "method": "Philosophical and storytelling work mixing science studies, art projects and speculative fiction (the Camille Stories).",
+   "method_zh": "融合科学研究、艺术项目和思辨小说（Camille 故事）的哲学与叙事写作。",
+   "keywords": [
+    "Chthulucene",
+    "making kin",
+    "response-ability",
+    "sympoiesis",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=GrYA7sMQaBQ"
+   },
+   "images": [
+    "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/2d1641c2-5337-4ad5-b011-7af82dc239c0/978-0-8223-6224-1_pr.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/9780822373780",
+    "doi": "10.1215/9780822373780",
+    "arxiv": "",
+    "venue": "Duke University Press 2016"
+   },
+   "source_url": "https://www.dukeupress.edu/staying-with-the-trouble"
+  },
+  {
+   "id": "anna-tsing--mushroom-at-the-end-of-the-world",
+   "creator_ids": [
+    "anna-tsing"
+   ],
+   "title": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+   "year": 2015,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An ethnography that follows the matsutake mushroom through forests, foragers and global trade to show how life continues in disturbed landscapes.",
+   "description_zh": "一部民族志，追随松茸穿越森林、采集者和全球贸易，展示生命如何在受扰动的景观中延续。",
+   "idea_en": "Survival is always collaborative, across species and in the ruins we have made.",
+   "idea_zh": "生存总是协作的，跨越物种，也发生在我们造成的废墟之中。",
+   "method": "Multi-sited fieldwork in Oregon, Japan, China and Finland combined with forest ecology.",
+   "method_zh": "在美国俄勒冈、日本、中国和芬兰进行多点田野调查，并结合森林生态学。",
+   "keywords": [
+    "matsutake",
+    "collaborative survival",
+    "multispecies ethnography",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=f8MhBwsKdJA"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780691162751-L.jpg?default=false"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1515/9781400873548",
+    "doi": "10.1515/9781400873548",
+    "arxiv": "",
+    "venue": "Princeton University Press 2015"
+   },
+   "source_url": "https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world"
+  },
+  {
+   "id": "arturo-escobar--designs-for-the-pluriverse",
+   "creator_ids": [
+    "arturo-escobar"
+   ],
+   "title": "Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A book that proposes autonomous, place-based design rooted in relational ontologies and in Indigenous and Afro-descendant struggles in Latin America.",
+   "description_zh": "一本书，提出扎根于关系本体论、以及拉丁美洲原住民和非洲裔社群斗争的自主的、地方性的设计。",
+   "idea_en": "Design can serve many worlds and the radical interdependence of all beings, not one modern world.",
+   "idea_zh": "设计可以服务于多元世界和万物之间的根本相互依存，而不只是单一的现代世界。",
+   "method": "Theoretical synthesis of ontological design, political ecology and transition discourses.",
+   "method_zh": "综合本体论设计、政治生态学和转型论述的理论写作。",
+   "keywords": [
+    "pluriverse",
+    "ontological design",
+    "autonomous design",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8Ouy7aN6XPs"
+   },
+   "images": [
+    "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/1d132b7d-fc65-4ccc-93a9-bcedfd3d4e4f/978-0-8223-7105-2_pr.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/9780822371816",
+    "doi": "10.1215/9780822371816",
+    "arxiv": "",
+    "venue": "Duke University Press 2018"
+   },
+   "source_url": "https://www.dukeupress.edu/designs-for-the-pluriverse"
+  },
+  {
+   "id": "tony-fry--defuturing",
+   "creator_ids": [
+    "tony-fry"
+   ],
+   "title": "Defuturing: A New Design Philosophy",
+   "year": 1999,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A book arguing that much design 'defutures', taking away futures from humans and nonhuman others, and calling for a philosophy of design as sustainment.",
+   "description_zh": "一本书，认为大量设计在“去未来化”，剥夺人类与非人类的未来，并呼吁把设计哲学转向“持续”。",
+   "idea_en": "Every design act either takes futures away or helps sustain them.",
+   "idea_zh": "每个设计行为要么剥夺未来，要么帮助维持未来。",
+   "method": "Philosophical critique of design history and modernity.",
+   "method_zh": "对设计史与现代性的哲学批判。",
+   "keywords": [
+    "defuturing",
+    "sustainment",
+    "design philosophy",
+    "book"
+   ],
+   "images": [
+    "https://covers.openlibrary.org/b/id/4540057-L.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5040/9781350089563",
+    "doi": "10.5040/9781350089563",
+    "arxiv": "",
+    "venue": "UNSW Press 1999; Bloomsbury 2020"
+   },
+   "source_url": "https://www.bloomsbury.com/us/defuturing-9781350089570/"
+  },
+  {
+   "id": "jane-bennett--vibrant-matter",
+   "creator_ids": [
+    "jane-bennett"
+   ],
+   "title": "Vibrant Matter: A Political Ecology of Things",
+   "year": 2010,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "publication",
+   "description": "A book arguing that things - from electricity grids to food and trash - have their own vitality and act within human-nonhuman assemblages.",
+   "description_zh": "一本书，论证从电网到食物再到垃圾，各种物都有自身的活力，并在人与非人类的集合体中行动。",
+   "idea_en": "Matter is not passive; politics and design should account for the agency of things.",
+   "idea_zh": "物质并非被动；政治与设计都应考虑物的能动性。",
+   "method": "Political philosophy drawing on Spinoza, Deleuze and case studies such as the 2003 North American blackout.",
+   "method_zh": "借鉴斯宾诺莎、德勒兹等哲学，并以 2003 年北美大停电等案例展开的政治哲学写作。",
+   "keywords": [
+    "vital materialism",
+    "new materialism",
+    "assemblage",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=q607Ni23QjA"
+   },
+   "images": [
+    "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/7d3014c0-1e3d-48eb-a050-b69327d08fd8/978-0-8223-4633-3_pr.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1215/9780822391623",
+    "doi": "10.1215/9780822391623",
+    "arxiv": "",
+    "venue": "Duke University Press 2010"
+   },
+   "source_url": "https://www.dukeupress.edu/vibrant-matter"
+  },
+  {
+   "id": "jennifer-gabrys--program-earth",
+   "creator_ids": [
+    "jennifer-gabrys"
+   ],
+   "title": "Program Earth: Environmental Sensing Technology and the Making of a Computational Planet",
+   "year": 2016,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "publication",
+   "description": "A book on how sensor networks, from wildlife tracking to citizen air monitors, turn the Earth into something programmable and change how environments are known.",
+   "description_zh": "一本书，讨论从野生动物追踪到市民空气监测的传感器网络，如何把地球变成可编程的对象，并改变人们认识环境的方式。",
+   "idea_en": "Sensors do not just measure environments; they make new environments and new environmental citizens.",
+   "idea_zh": "传感器不只是测量环境，也在制造新的环境和新的环境公民。",
+   "method": "Studies cases of ecological sensor networks, animal tracking and citizen sensing with Whitehead's process philosophy.",
+   "method_zh": "结合怀特海的过程哲学，研究生态传感网络、动物追踪和市民感知等案例。",
+   "keywords": [
+    "environmental sensing",
+    "citizen sensing",
+    "computational planet",
+    "book"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tNsFJ7iW17w"
+   },
+   "images": [
+    "https://covers.openlibrary.org/b/isbn/9780816693146-L.jpg?default=false"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.5749/minnesota/9780816693122.001.0001",
+    "doi": "10.5749/minnesota/9780816693122.001.0001",
+    "arxiv": "",
+    "venue": "University of Minnesota Press 2016"
+   },
+   "source_url": "https://www.jennifergabrys.net/program-earth/"
+  },
+  {
+   "id": "martin-tironi--design-for-more-than-human-futures",
+   "creator_ids": [
+    "martin-tironi"
+   ],
+   "title": "Design For More-Than-Human Futures: Towards Post-Anthropocentric Worlding",
+   "year": 2023,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "An edited book of essays and projects on post-anthropocentric design, with many contributions from Latin America.",
+   "description_zh": "一本编著，收录关于后人类中心设计的论文和项目，其中许多来自拉丁美洲。",
+   "idea_en": "More-than-human design looks different from the Global South; worlding is plural.",
+   "idea_zh": "从全球南方看，超越人类的设计会呈现不同的样子；“成世”是多元的。",
+   "method": "Collection edited by Martín Tironi, Marcos Chilet, Carola Ureta Marín and Pablo Hermansen.",
+   "method_zh": "由 Martín Tironi、Marcos Chilet、Carola Ureta Marín 和 Pablo Hermansen 主编的文集。",
+   "keywords": [
+    "post-anthropocentric design",
+    "Latin America",
+    "worlding",
+    "book"
+   ],
+   "images": [
+    "https://images.routledge.com/common/jackets/crclarge/978103233/9781032334394.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.4324/9781003319689",
+    "doi": "10.4324/9781003319689",
+    "arxiv": "",
+    "venue": "Routledge 2023"
+   },
+   "source_url": "https://www.routledge.com/Design-For-More-Than-Human-Futures-Towards-Post-Anthropocentric-Worlding/Tironi-Chilet-Marin-Hermansen/p/book/9781032334394"
+  },
+  {
+   "id": "jen-liu--design-for-collaborative-survival",
+   "creator_ids": [
+    "jen-liu"
+   ],
+   "title": "Design for Collaborative Survival: An Inquiry into Human-Fungi Relationships",
+   "year": 2018,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Wearable foraging tools - a glove with soil sensors in the fingertips, a GPS vest that marks where fungi grow, and shoes that scatter spores - made to study how mushroom hunters and fungi live together.",
+   "description_zh": "一组采蘑菇用的可穿戴工具——指尖装有土壤传感器的手套、标记真菌生长位置的 GPS 背心和能撒播孢子的鞋——用来研究采菇人与真菌如何共同生活。",
+   "idea_en": "Design tools that help humans and fungi survive together, not just help humans harvest.",
+   "idea_zh": "设计帮助人与真菌共同生存的工具，而不只是帮助人收获。",
+   "method": "Ethnographic study with mushroom foragers followed by research-through-design of sensor-equipped wearables inspired by Tsing's collaborative survival.",
+   "method_zh": "先对采菇人做民族志研究，再受 Tsing“协作生存”启发，通过设计研究制作带传感器的可穿戴工具。",
+   "keywords": [
+    "mushroom foraging",
+    "collaborative survival",
+    "wearables",
+    "Anna Tsing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Z53d1WCVsxM"
+   },
+   "images": [
+    "https://jenliujenliu.com/Files/gimgs/cs_HSI_sq.jpg",
+    "https://jenliujenliu.com/Files/gimgs/cs_dataharvest.jpg",
+    "https://jenliujenliu.com/Files/gimgs/cs_sporestepper.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173574.3173614",
+    "doi": "10.1145/3173574.3173614",
+    "arxiv": "",
+    "venue": "CHI 2018 (Best Paper)"
+   },
+   "source_url": "https://jenliujenliu.com/tools_cosurvival.html"
+  },
+  {
+   "id": "cyn-liu--symbiotic-encounters",
+   "creator_ids": [
+    "cyn-liu",
+    "shaowen-bardzell"
+   ],
+   "title": "Symbiotic Encounters: HCI and Sustainable Agriculture",
+   "year": 2019,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "An ethnography of alternative farms where relations between crops, insects, animals and farmers shift between helpful and harmful across seasons.",
+   "description_zh": "对替代农场的民族志研究：作物、昆虫、动物与农民之间的关系随季节在互利与有害之间变化。",
+   "idea_en": "To 'work with nature', HCI must design for changing multispecies assemblages, not stable systems.",
+   "idea_zh": "要“与自然合作”，HCI 必须为不断变化的多物种集合体设计，而不是为稳定的系统设计。",
+   "method": "Fieldwork with permaculture and alternative farmers, analysed through the concept of assemblage.",
+   "method_zh": "对朴门永续农业和替代农业农民进行田野研究，用“集合体”概念分析。",
+   "keywords": [
+    "sustainable agriculture",
+    "permaculture",
+    "assemblage",
+    "sustainable HCI"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yXs888XZaX8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300547",
+    "doi": "10.1145/3290605.3300547",
+    "arxiv": "",
+    "venue": "CHI 2019"
+   },
+   "source_url": "https://doi.org/10.1145/3290605.3300547"
+  },
+  {
+   "id": "cyn-liu--decomposition-as-design",
+   "creator_ids": [
+    "cyn-liu",
+    "shaowen-bardzell"
+   ],
+   "title": "Decomposition as Design: Co-Creating (with) Natureculture",
+   "year": 2019,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "bacteria",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A curated study of hundreds of examples of decomposition in architecture, textiles, crafts and food, turned into design tactics for working with natural processes.",
+   "description_zh": "整理并分析建筑、纺织、手工艺和食物制作中数百个“分解”的案例，并提炼为与自然过程合作的设计策略。",
+   "idea_en": "Decay can be a co-designer: let microbes and time finish the work.",
+   "idea_zh": "腐烂也可以是共同设计者：让微生物和时间来完成作品。",
+   "method": "Annotated portfolio of decomposition examples, critiqued to derive nonanthropocentric design tactics.",
+   "method_zh": "建立分解案例的注释作品集，通过批判分析提炼非人类中心的设计策略。",
+   "keywords": [
+    "decomposition",
+    "natureculture",
+    "annotated portfolio",
+    "design tactics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3294109.3295653",
+    "doi": "10.1145/3294109.3295653",
+    "arxiv": "",
+    "venue": "TEI 2019"
+   },
+   "source_url": "https://doi.org/10.1145/3294109.3295653"
+  },
+  {
+   "id": "cyn-liu--photography-natureculture",
+   "creator_ids": [
+    "cyn-liu",
+    "shaowen-bardzell"
+   ],
+   "title": "Photography as a Design Research Tool into Natureculture",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "The authors use their own photographs to build a visual language for natureculture - layers, gatherings and movements where nature and culture mix.",
+   "description_zh": "作者用自己拍摄的照片，为“自然文化”建立一套视觉语言——自然与文化交织的层次、聚集和流动。",
+   "idea_en": "Photographing entanglement trains a designer's eye for design beyond the nature/culture split.",
+   "idea_zh": "拍摄纠缠的景象，可以训练设计者超越自然/文化二分的眼光。",
+   "method": "Iterative practice of taking, editing, organising and reflecting on photographs.",
+   "method_zh": "反复拍摄、编辑、整理和反思照片的迭代实践。",
+   "keywords": [
+    "photography",
+    "natureculture",
+    "visual method",
+    "design research"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3196709.3196819",
+    "doi": "10.1145/3196709.3196819",
+    "arxiv": "",
+    "venue": "DIS 2018"
+   },
+   "source_url": "https://doi.org/10.1145/3196709.3196819"
+  },
+  {
+   "id": "rachel-clarke--more-than-human-participation",
+   "creator_ids": [
+    "rachel-clarke",
+    "sara-heitlinger",
+    "laura-forlano",
+    "marcus-foth",
+    "carl-disalvo"
+   ],
+   "title": "More-than-human participation: design for sustainable smart city futures",
+   "year": 2019,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A short manifesto-style article calling for smart city design that includes plants, animals, soil and waterways as participants.",
+   "description_zh": "一篇宣言式短文，呼吁智慧城市设计把植物、动物、土壤和水道作为参与者纳入其中。",
+   "idea_en": "Participatory design should widen who counts as a participant to other species and ecosystems.",
+   "idea_zh": "参与式设计应当把其他物种和生态系统也算作参与者。",
+   "method": "Position paper building on a series of participatory design workshops on more-than-human urban futures.",
+   "method_zh": "以一系列关于超越人类城市未来的参与式设计工作坊为基础的立场论文。",
+   "keywords": [
+    "participatory design",
+    "smart cities",
+    "more-than-human participation",
+    "Interactions"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=n_0YIj1efK0"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3319075",
+    "doi": "10.1145/3319075",
+    "arxiv": "",
+    "venue": "ACM Interactions 2019"
+   },
+   "source_url": "https://doi.org/10.1145/3319075"
+  },
+  {
+   "id": "sara-heitlinger--connected-seeds-and-sensors",
+   "creator_ids": [
+    "sara-heitlinger"
+   ],
+   "title": "Connected Seeds and Sensors: Co-designing Internet of Things for sustainable smart cities with urban food-growing communities",
+   "year": 2018,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "With urban food growers in London, the team co-designed the Connected Seeds Library: a cabinet of seed packets linked to stories and sensor data about the plants grown from them.",
+   "description_zh": "团队与伦敦的城市食物种植者共同设计了 Connected Seeds Library：一个装着种子包的柜子，连接着关于这些种子的故事和植物生长的传感器数据。",
+   "idea_en": "IoT for a sustainable city can start from seed saving and growers' knowledge, not from efficiency.",
+   "idea_zh": "面向可持续城市的物联网，可以从留种和种植者的知识出发，而不是从效率出发。",
+   "method": "Participatory design workshops with growers; seed packets tagged with NFC and linked to audio stories and soil sensors.",
+   "method_zh": "与种植者开展参与式设计工作坊；种子包带有 NFC 标签，关联音频故事和土壤传感器。",
+   "keywords": [
+    "seed library",
+    "urban agriculture",
+    "Internet of Things",
+    "participatory design"
+   ],
+   "images": [
+    "https://www.connectedseeds.org/wp-content/uploads/2017/01/home8.jpg",
+    "https://www.connectedseeds.org/wp-content/uploads/2017/01/home1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3210604.3210620",
+    "doi": "10.1145/3210604.3210620",
+    "arxiv": "",
+    "venue": "PDC 2018"
+   },
+   "source_url": "https://www.connectedseeds.org/"
+  },
+  {
+   "id": "sara-heitlinger--right-to-the-sustainable-smart-city",
+   "creator_ids": [
+    "sara-heitlinger"
+   ],
+   "title": "The Right to the Sustainable Smart City",
+   "year": 2019,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Reflects on the Connected Seeds project to argue that smart city design should include nonhumans such as plants and pollinators, and the growers who care for them.",
+   "description_zh": "以 Connected Seeds 项目为基础，论证智慧城市设计应当纳入植物、传粉者等非人类，以及照料它们的种植者。",
+   "idea_en": "The right to the smart city should extend to more-than-human city dwellers.",
+   "idea_zh": "“智慧城市权”应当延伸到城市中超越人类的居民。",
+   "method": "Participatory design case study analysed through the right-to-the-city concept and more-than-human theory.",
+   "method_zh": "用“城市权”概念和超越人类理论分析一个参与式设计案例。",
+   "keywords": [
+    "smart cities",
+    "right to the city",
+    "urban food growing",
+    "more-than-human participation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MaPFc720eaA"
+   },
+   "images": [
+    "https://www.connectedseeds.org/wp-content/uploads/2017/01/home3.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3290605.3300517",
+    "doi": "10.1145/3290605.3300517",
+    "arxiv": "",
+    "venue": "CHI 2019"
+   },
+   "source_url": "https://www.connectedseeds.org/"
+  },
+  {
+   "id": "sara-heitlinger--algorithmic-food-justice",
+   "creator_ids": [
+    "sara-heitlinger"
+   ],
+   "title": "Algorithmic Food Justice: Co-Designing More-than-Human Blockchain Futures for the Food Commons",
+   "year": 2021,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "Workshops in which urban growers role-played plants, pollinators and soil to imagine how blockchain and smart contracts could support a fair, more-than-human food commons.",
+   "description_zh": "在工作坊中，城市种植者扮演植物、传粉者和土壤，想象区块链和智能合约如何支持一个公平的、超越人类的食物公地。",
+   "idea_en": "Let nonhumans hold a seat at the table when designing algorithms for food systems.",
+   "idea_zh": "设计食物系统的算法时，给非人类留一个席位。",
+   "method": "Speculative co-design with growers and artists (Furtherfield), using role-play such as a 'corn council' and blockchain prototypes.",
+   "method_zh": "与种植者和艺术机构 Furtherfield 开展思辨共创，使用“玉米议会”等角色扮演和区块链原型。",
+   "keywords": [
+    "blockchain",
+    "food commons",
+    "role-play",
+    "Furtherfield"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=lB-rnzrrWJk"
+   },
+   "images": [
+    "https://algorithmicfoodjustice.net/wp-content/uploads/2020/01/Groups_working.jpg",
+    "https://algorithmicfoodjustice.net/wp-content/uploads/2020/01/corn_council.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445655",
+    "doi": "10.1145/3411764.3445655",
+    "arxiv": "",
+    "venue": "CHI 2021"
+   },
+   "source_url": "https://algorithmicfoodjustice.net/"
+  },
+  {
+   "id": "michelle-westerlaken--imagining-multispecies-worlds",
+   "creator_ids": [
+    "michelle-westerlaken"
+   ],
+   "title": "Imagining Multispecies Worlds",
+   "year": 2020,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "publication",
+   "description": "A doctoral thesis written as a multispecies bestiary: each chapter follows an animal protagonist to explore how design can imagine worlds shared with other species.",
+   "description_zh": "一篇以“多物种动物寓言集”形式写成的博士论文：每章跟随一个动物主角，探讨设计如何想象与其他物种共享的世界。",
+   "idea_en": "Design can practise imagination as an ethical skill for living with other species.",
+   "idea_zh": "设计可以把想象力当作一种与其他物种共同生活的伦理能力来练习。",
+   "method": "Combines design experiments with dogs and other animals, fieldwork and speculative writing.",
+   "method_zh": "结合与狗等动物进行的设计实验、田野研究和思辨写作。",
+   "keywords": [
+    "bestiary",
+    "multispecies design",
+    "thesis",
+    "speculative writing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vmPTLMXWSOE"
+   },
+   "images": [
+    "https://michellewesterlaken.com/2021/09/phdsmaller_w.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.24834/isbn.9789178771059",
+    "doi": "10.24834/isbn.9789178771059",
+    "arxiv": "",
+    "venue": "PhD thesis, Malmö University 2020"
+   },
+   "source_url": "https://michellewesterlaken.com/portfolio/phd-thesis/"
+  },
+  {
+   "id": "michelle-westerlaken--becoming-with",
+   "creator_ids": [
+    "michelle-westerlaken"
+   ],
+   "title": "Becoming with: towards the inclusion of animals as participants in design processes",
+   "year": 2016,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Proposes involving animals that live in human environments, such as dogs, as participants in design processes, based on the authors' design experiments with dog toys.",
+   "description_zh": "提出让生活在人类环境中的动物（例如狗）作为参与者进入设计过程，基于作者用狗玩具进行的设计实验。",
+   "idea_en": "Animals can shape design outcomes if designers learn to read and follow their responses.",
+   "idea_zh": "只要设计者学会解读并追随动物的反应，动物就能塑造设计结果。",
+   "method": "Exploratory design experiments with dogs, interpreted through Haraway's idea of becoming-with.",
+   "method_zh": "与狗进行探索性设计实验，并用 Haraway 的“共同生成”概念解读。",
+   "keywords": [
+    "dogs",
+    "participatory design",
+    "becoming-with",
+    "ACI"
+   ],
+   "images": [
+    "https://michellewesterlaken.com/2021/09/dog_w.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2995257.2995392",
+    "doi": "10.1145/2995257.2995392",
+    "arxiv": "",
+    "venue": "ACI 2016"
+   },
+   "source_url": "https://michellewesterlaken.com/portfolio/robotic-dog-toys/"
+  },
+  {
+   "id": "michelle-westerlaken--multispecies-worlding-through-design",
+   "creator_ids": [
+    "michelle-westerlaken"
+   ],
+   "title": "Multispecies worlding through design",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A short essay on how design practices can take part in 'worlding' - making worlds that other species also inhabit.",
+   "description_zh": "一篇短文，讨论设计实践如何参与“成世”——营造其他物种也居住其中的世界。",
+   "idea_en": "Every design makes a world; ask whose world it is.",
+   "idea_zh": "每一次设计都在营造一个世界；要问这是谁的世界。",
+   "method": "Essay drawing on the author's thesis and multispecies studies.",
+   "method_zh": "基于作者博士论文和多物种研究的短文。",
+   "keywords": [
+    "worlding",
+    "multispecies design",
+    "Interactions"
+   ],
+   "images": [
+    "https://michellewesterlaken.com/2021/09/forest_w.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3568306",
+    "doi": "10.1145/3568306",
+    "arxiv": "",
+    "venue": "ACM Interactions 2022"
+   },
+   "source_url": "https://michellewesterlaken.com/"
+  },
+  {
+   "id": "li-jonsson--not-quite-companion-species",
+   "creator_ids": [
+    "li-jonsson",
+    "tau-ulv-lenskjold"
+   ],
+   "title": "A Foray Into Not-Quite Companion Species: Design Experiments With Urban-Animals as Significant Others",
+   "year": 2014,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "In the project Urban Animals and Us, speculative prototypes tried to bring wild urban animals such as magpies and gulls into contact with residents of a retirement home.",
+   "description_zh": "在 Urban Animals and Us 项目中，思辨原型尝试让喜鹊、海鸥等城市野生动物与养老院的居民建立联系。",
+   "idea_en": "Wild city animals can become 'not-quite companion species' through design.",
+   "idea_zh": "通过设计，城市野生动物可以成为“不完全的伴侣物种”。",
+   "method": "Three design experiments with speculative prototypes and co-design tools, analysed with Haraway's companion species.",
+   "method_zh": "用思辨原型和共创工具进行三次设计实验，并用 Haraway 的“伴侣物种”概念分析。",
+   "keywords": [
+    "urban animals",
+    "magpies",
+    "gulls",
+    "companion species"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.14434/artifact.v3i2.3957",
+    "doi": "10.14434/artifact.v3i2.3957",
+    "arxiv": "",
+    "venue": "Artifact 2014"
+   },
+   "source_url": "https://scholarworks.iu.edu/journals/index.php/artifact/article/view/3957"
+  },
+  {
+   "id": "tau-ulv-lenskjold--alien-ethnographies",
+   "creator_ids": [
+    "tau-ulv-lenskjold",
+    "li-jonsson"
+   ],
+   "title": "Speculative prototypes and alien ethnographies: experimenting with relations beyond the human",
+   "year": 2017,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Uses speculative prototypes built for urban animals to develop 'alien ethnography', a way of studying relations with nonhumans without assuming access to their experience.",
+   "description_zh": "借助为城市动物制作的思辨原型，发展“异类民族志”：在不假设能进入非人类经验的前提下研究与它们的关系。",
+   "idea_en": "Prototypes can be research instruments for relations we cannot fully understand.",
+   "idea_zh": "原型可以成为研究我们无法完全理解之关系的工具。",
+   "method": "Reflects on earlier design experiments using speculative realism and Ian Bogost's alien phenomenology.",
+   "method_zh": "借助思辨实在论和 Ian Bogost 的“异类现象学”反思早期设计实验。",
+   "keywords": [
+    "alien phenomenology",
+    "speculative prototypes",
+    "urban animals",
+    "Diseña"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.7764/disena.11.134-147",
+    "doi": "10.7764/disena.11.134-147",
+    "arxiv": "",
+    "venue": "Diseña 2017"
+   },
+   "source_url": "http://revistadisena.uc.cl/index.php/Disena/article/view/85"
+  },
+  {
+   "id": "marcus-foth--more-than-human-media-architecture",
+   "creator_ids": [
+    "marcus-foth"
+   ],
+   "title": "More-than-Human Media Architecture",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A critical review of media architecture projects that challenges human exceptionalism and asks how urban screens and installations could serve nonhuman city dwellers.",
+   "description_zh": "对媒体建筑项目的批判性综述，挑战人类例外论，追问城市屏幕和装置如何服务城市中的非人类居民。",
+   "idea_en": "Media architecture can be designed for birds, plants and ecosystems too.",
+   "idea_zh": "媒体建筑也可以为鸟类、植物和生态系统而设计。",
+   "method": "Critical review of media architecture examples through more-than-human theory.",
+   "method_zh": "用超越人类理论对媒体建筑案例进行批判性回顾。",
+   "keywords": [
+    "media architecture",
+    "urban informatics",
+    "human exceptionalism"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=wqKcXZdKOUE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "doi": "10.1145/3284389.3284495",
+    "arxiv": "",
+    "venue": "Media Architecture Biennale 2018"
+   },
+   "source_url": "https://doi.org/10.1145/3284389.3284495"
+  },
+  {
+   "id": "martin-tomitsch--non-human-personas",
+   "creator_ids": [
+    "martin-tomitsch",
+    "marcus-foth"
+   ],
+   "title": "Non-human Personas: Including Nature in the Participatory Design of Smart Cities",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Adapts the persona method so that animals, plants and ecosystems are represented when designing smart urban furniture.",
+   "description_zh": "改造人物角色方法，使动物、植物和生态系统在设计智能城市家具时得到代表。",
+   "idea_en": "A familiar UX tool can give nature a voice in the design room.",
+   "idea_zh": "一个熟悉的 UX 工具，可以让自然在设计会议中有发言权。",
+   "method": "Case study of designing smart urban furniture with non-human personas built from ecological data.",
+   "method_zh": "以设计智能城市家具为案例，使用基于生态数据构建的非人类人物角色。",
+   "keywords": [
+    "personas",
+    "smart cities",
+    "urban furniture",
+    "planet-centred design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vCfm-Q-5qtE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.55612/s-5002-050-007",
+    "doi": "10.55612/s-5002-050-007",
+    "arxiv": "",
+    "venue": "Interaction Design and Architecture(s) 2021"
+   },
+   "source_url": "https://ixdea.org/50_7/"
+  },
+  {
+   "id": "michael-haldrup--designing-for-multispecies-commons",
+   "creator_ids": [
+    "michael-haldrup"
+   ],
+   "title": "Designing for Multispecies Commons: Ecologies and Collaborations in Participatory Design",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Two spatial design cases, including Amager Fælled commons in Copenhagen, are used to ask how other species can become co-creators in participatory design.",
+   "description_zh": "以包括哥本哈根 Amager Fælled 公地在内的两个空间设计案例，探讨其他物种如何成为参与式设计中的共同创造者。",
+   "idea_en": "Treat landscapes as multispecies commons whose members all have a stake in design.",
+   "idea_zh": "把景观看作多物种公地，其所有成员都与设计利益相关。",
+   "method": "Case analysis of participatory spatial design projects through the lens of design ecologies.",
+   "method_zh": "从“设计生态”的视角分析参与式空间设计项目。",
+   "keywords": [
+    "commons",
+    "Amager Fælled",
+    "participatory design",
+    "spatial design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=mcJbmSPBays"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3537797.3537801",
+    "doi": "10.1145/3537797.3537801",
+    "arxiv": "",
+    "venue": "PDC 2022"
+   },
+   "source_url": "https://doi.org/10.1145/3537797.3537801"
+  },
+  {
+   "id": "clara-mancini--multispecies-participation",
+   "creator_ids": [
+    "clara-mancini"
+   ],
+   "title": "The Emerging Nature of Participation in Multispecies Interaction Design",
+   "year": 2018,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Proposes a model of animal participation in design based on signs, volition and interaction rather than human-style consent and understanding.",
+   "description_zh": "提出一种动物参与设计的模型，其基础是符号、意愿和互动，而不是人类式的同意和理解。",
+   "idea_en": "Animals can participate in design even if they cannot understand the design process.",
+   "idea_zh": "动物即使无法理解设计过程，也可以参与设计。",
+   "method": "Theoretical model built from examples of dog-computer interaction and indexical semiotics.",
+   "method_zh": "基于狗与计算机交互的案例和指示性符号学构建理论模型。",
+   "keywords": [
+    "participation",
+    "semiotics",
+    "multispecies interaction design",
+    "dogs"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3196709.3196785",
+    "doi": "10.1145/3196709.3196785",
+    "arxiv": "",
+    "venue": "DIS 2018"
+   },
+   "source_url": "https://doi.org/10.1145/3196709.3196785"
+  },
+  {
+   "id": "heidi-biggs--watching-myself-watching-birds",
+   "creator_ids": [
+    "heidi-biggs",
+    "shaowen-bardzell"
+   ],
+   "title": "Watching Myself Watching Birds: Abjection, Ecological Thinking, and Posthuman Methods",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A first-person study in which the author watched birds at feeders and reflected on the discomfort and entanglement this revealed.",
+   "description_zh": "作者在喂鸟器旁观察鸟类并进行第一人称研究，反思这一过程中暴露出的不适与纠缠。",
+   "idea_en": "Uncomfortable feelings about other species are data for posthuman design.",
+   "idea_zh": "对其他物种产生的不适感，也是后人类设计的数据。",
+   "method": "Autoethnographic birdwatching with notes and photographs, analysed with Kristeva's abjection and Morton's ecological thinking.",
+   "method_zh": "以笔记和照片进行自我民族志观鸟，借助 Kristeva 的“贱斥”与 Morton 的“生态思维”分析。",
+   "keywords": [
+    "birdwatching",
+    "autoethnography",
+    "abjection",
+    "ecological thinking"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_LBEVTtY2kc"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/112fe272-cf71-4aa5-a132-58f067e0f24d/IMG_20200914_165546.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3411764.3445329",
+    "doi": "10.1145/3411764.3445329",
+    "arxiv": "",
+    "venue": "CHI 2021"
+   },
+   "source_url": "https://www.heidibiggsdesign.com/watching-myself-watching-birdspabjection-ecological-thinking-and-posthuman-design/"
+  },
+  {
+   "id": "heidi-biggs--high-water-pants",
+   "creator_ids": [
+    "heidi-biggs"
+   ],
+   "title": "High Water Pants: Designing Embodied Environmental Speculation",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "Cycling trousers that roll themselves up when the rider enters parts of Seattle projected to flood from sea-level rise in the coming decades.",
+   "description_zh": "一条骑行裤：当骑行者进入西雅图未来几十年可能因海平面上升而被淹的区域时，裤腿会自动卷起。",
+   "idea_en": "Make future climate impacts felt in the body today.",
+   "idea_zh": "让人在今天就用身体感受到未来的气候影响。",
+   "method": "GPS geofences built from sea-level-rise projections trigger a mechanism that shortens the pant legs; tested through first-person rides.",
+   "method_zh": "根据海平面上升预测建立 GPS 地理围栏，触发缩短裤腿的机构；通过第一人称骑行进行测试。",
+   "keywords": [
+    "sea-level rise",
+    "wearable",
+    "embodied speculation",
+    "Seattle"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1565731623908-Z0U6RVXWDMSV6EMD6RQ3/DSC_1545.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566704728828-BB385YY32KVRGW9IQ9WU/geofences0.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566272644054-G5TLSERR6D3CUB4NYPT6/longer-bead-pants2-3.gif"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3313831.3376429",
+    "doi": "10.1145/3313831.3376429",
+    "arxiv": "",
+    "venue": "CHI 2020"
+   },
+   "source_url": "https://www.heidibiggsdesign.com/high-water-pants"
+  },
+  {
+   "id": "ashley-boone--embodied-traces",
+   "creator_ids": [
+    "ashley-boone",
+    "carl-disalvo"
+   ],
+   "title": "Embodied Traces: Multispecies Entanglement in Urban Spaces",
+   "year": 2024,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A pictorial on volunteers who walk Atlanta's streets during migration seasons to record birds killed by collisions with buildings.",
+   "description_zh": "一篇图文论文，记录迁徙季节志愿者在亚特兰大街头巡查、登记撞击建筑而死的鸟类。",
+   "idea_en": "Producing environmental data is an embodied, emotional encounter with other species.",
+   "idea_zh": "生产环境数据，是一次与其他物种的具身、带情感的相遇。",
+   "method": "Participant observation in bird-collision monitoring, interviews with volunteers and photography.",
+   "method_zh": "参与鸟类撞击监测、访谈志愿者并拍摄照片。",
+   "keywords": [
+    "bird-building collisions",
+    "community science",
+    "data production",
+    "pictorial"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660746",
+    "doi": "10.1145/3643834.3660746",
+    "arxiv": "",
+    "venue": "DIS 2024 (pictorial)"
+   },
+   "source_url": "https://doi.org/10.1145/3643834.3660746"
+  },
+  {
+   "id": "lone-koefoed-hansen--encountering-human-plant-relations",
+   "creator_ids": [
+    "lone-koefoed-hansen"
+   ],
+   "title": "Encountering Human-Plant Relations: a Discussion of How Interaction Design Can encourage Human Sensibility to More-than-human Plants",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "Two plant-electronics design experiments were placed with people to see whether interaction design can make them more attentive to plants.",
+   "description_zh": "把两件植物与电子结合的设计实验交给人们使用，观察交互设计能否让人更留意植物。",
+   "idea_en": "Interaction design can train human sensibility to plants, not only monitor them.",
+   "idea_zh": "交互设计可以培养人对植物的敏感，而不只是监测植物。",
+   "method": "Deployments of plant-electronics prototypes studied through interviews, diaries and observation.",
+   "method_zh": "部署植物电子原型，通过访谈、日记和观察进行研究。",
+   "keywords": [
+    "plants",
+    "plant-electronics",
+    "sensibility",
+    "posthuman"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3661586",
+    "doi": "10.1145/3643834.3661586",
+    "arxiv": "",
+    "venue": "DIS 2024"
+   },
+   "source_url": "https://doi.org/10.1145/3643834.3661586"
+  },
+  {
+   "id": "ned-cooper--would-the-trees-dim-the-lights",
+   "creator_ids": [
+    "ned-cooper"
+   ],
+   "title": "Would the Trees Dim the Lights? Adopting the Intentional Stance for More-Than-Human Participatory Design",
+   "year": 2022,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Explores smart street lighting from the point of view of trees, bats and other nonhumans, prompted by Australia's 2019/20 Black Summer bushfires.",
+   "description_zh": "受澳大利亚 2019/20 年“黑色夏天”山火启发，从树木、蝙蝠等非人类的角度探讨智能路灯设计。",
+   "idea_en": "Adopting the intentional stance toward trees gives designers a workable way to include them.",
+   "idea_zh": "对树木采取“意向立场”，为设计者提供了一种可行的纳入方式。",
+   "method": "Applies Daniel Dennett's intentional stance as a heuristic in participatory design of smart lighting.",
+   "method_zh": "把 Daniel Dennett 的“意向立场”作为启发法，用于智能照明的参与式设计。",
+   "keywords": [
+    "intentional stance",
+    "smart lighting",
+    "trees",
+    "Black Summer"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3537797.3537799",
+    "doi": "10.1145/3537797.3537799",
+    "arxiv": "2303.14914",
+    "venue": "PDC 2022"
+   },
+   "source_url": "https://arxiv.org/abs/2303.14914"
+  },
+  {
+   "id": "kristina-lindstrom--response-able-stakeholders",
+   "creator_ids": [
+    "kristina-lindstrom",
+    "asa-stahl"
+   ],
+   "title": "Becoming response-able stakeholders: participatory design in times of uncertainties",
+   "year": 2016,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Argues for a participatory design space in which people and materials, such as plastics, can become stakeholders in issues that are not yet clearly articulated.",
+   "description_zh": "主张在参与式设计中开辟一个空间，让人和塑料等材料都能成为尚未清晰表述之议题的利益相关者。",
+   "idea_en": "Participation can start from matter and uncertainty, not from predefined stakeholders.",
+   "idea_zh": "参与可以从物质和不确定性开始，而不是从预设的利益相关者开始。",
+   "method": "Draws on their participatory projects with plastics and Haraway's response-ability.",
+   "method_zh": "基于她们关于塑料的参与式项目和 Haraway 的“回应能力”概念。",
+   "keywords": [
+    "response-ability",
+    "participatory design",
+    "plastics",
+    "socio-material"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HJO-1qHF74s"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/2948076.2948086",
+    "doi": "10.1145/2948076.2948086",
+    "arxiv": "",
+    "venue": "PDC 2016"
+   },
+   "source_url": "https://doi.org/10.1145/2948076.2948086"
+  },
+  {
+   "id": "chidi-usanga--giving-voice-to-nature",
+   "creator_ids": [
+    "chidi-usanga"
+   ],
+   "title": "Giving Voice to Nature: Participatory Design with Non-Human Stakeholders for Sustainable Development",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A workshop on how participatory design could co-design with animals, plants, micro-organisms and their ecosystems for sustainable development.",
+   "description_zh": "一场工作坊，探讨参与式设计如何与动物、植物、微生物及其生态系统共同设计，服务可持续发展。",
+   "idea_en": "Giving nature a voice is a design problem as much as a political one.",
+   "idea_zh": "让自然发声既是政治问题，也是设计问题。",
+   "method": "Workshop gathering methods, cases and stories of more-than-human participation.",
+   "method_zh": "通过工作坊收集超越人类参与的方法、案例和故事。",
+   "keywords": [
+    "participatory design",
+    "non-human stakeholders",
+    "sustainable development",
+    "workshop"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3661455.3669896",
+    "doi": "10.1145/3661455.3669896",
+    "arxiv": "",
+    "venue": "PDC 2024"
+   },
+   "source_url": "https://doi.org/10.1145/3661455.3669896"
+  },
+  {
+   "id": "maliheh-ghajargar--tellings-of-the-pacific-ocean",
+   "creator_ids": [
+    "maliheh-ghajargar"
+   ],
+   "title": "Tellings of the Pacific Ocean: A Landscape-based Approach for Multispecies Design and HCI",
+   "year": 2025,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A graphic novel in which the Pacific Ocean landscape is the main character, used to test comics as a multispecies storytelling method for design.",
+   "description_zh": "一部以太平洋景观为主角的图像小说，用来检验漫画作为设计中多物种叙事方法的可能。",
+   "idea_en": "Let a landscape be the protagonist to tell stories across species, times and scales.",
+   "idea_zh": "让景观成为主角，讲述跨越物种、时间和尺度的故事。",
+   "method": "Combines Anna Tsing's 'adventures of landscape' with sequential art such as storyboards.",
+   "method_zh": "把 Anna Tsing 的“景观的冒险”与故事板等连续图像艺术结合。",
+   "keywords": [
+    "graphic novel",
+    "landscape",
+    "multispecies storytelling",
+    "Pacific Ocean"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3736651",
+    "doi": "10.1145/3736651",
+    "arxiv": "",
+    "venue": "ACM Journal on Computing and Sustainable Societies 2025"
+   },
+   "source_url": "https://doi.org/10.1145/3736651"
+  },
+  {
+   "id": "tiffany-wun--compost-kits",
+   "creator_ids": [
+    "tiffany-wun",
+    "ron-wakkary"
+   ],
+   "title": "Compost Kits: Bridging More-than-Human Theory with Design Practice through Vermicomposting",
+   "year": 2025,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "bio"
+   ],
+   "organisms": [
+    "animals",
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "Four designers kept a worm-composting habitat with guiding booklets for sixteen weeks while reflecting on the materials they use in their own practice.",
+   "description_zh": "四位设计师在十六周里一边照料蚯蚓堆肥箱、阅读引导手册，一边反思自己实践中使用的材料。",
+   "idea_en": "Caring for worms and compost makes more-than-human ideas tangible in everyday design work.",
+   "idea_zh": "照料蚯蚓和堆肥，让超越人类的理念在日常设计工作中变得具体。",
+   "method": "Design probe of a vermicompost habitat plus reflective booklets, studied through co-speculation with the designers.",
+   "method_zh": "以蚯蚓堆肥箱加反思手册作为设计探针，通过与设计师共同思辨进行研究。",
+   "keywords": [
+    "vermicomposting",
+    "design probe",
+    "worms",
+    "material biographies"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3757980.3757990",
+    "doi": "10.1145/3757980.3757990",
+    "arxiv": "",
+    "venue": "Academic Mindtrek 2025"
+   },
+   "source_url": "https://doi.org/10.1145/3757980.3757990"
+  },
+  {
+   "id": "clara-mancini--aci-manifesto",
+   "creator_ids": [
+    "clara-mancini"
+   ],
+   "title": "Animal-computer interaction: a manifesto",
+   "year": 2011,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "The founding text of Animal-Computer Interaction, calling for a user-centred approach to technology that animals use or are affected by.",
+   "description_zh": "动物-计算机交互（ACI）的奠基文本，呼吁对动物使用或受其影响的技术采用以用户为中心的方法。",
+   "idea_en": "Animals are users too, and technology for them should be designed around their needs.",
+   "idea_zh": "动物也是用户，面向它们的技术应当围绕它们的需求来设计。",
+   "method": "Manifesto setting out aims for ACI: studying animal-technology interaction, designing for animal welfare and developing animal-centred methods.",
+   "method_zh": "宣言提出 ACI 的目标：研究动物与技术的互动、为动物福利而设计、发展以动物为中心的方法。",
+   "keywords": [
+    "ACI",
+    "manifesto",
+    "animal welfare",
+    "user-centred design"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=TMOJSpXfRoI"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/1978822.1978836",
+    "doi": "10.1145/1978822.1978836",
+    "arxiv": "",
+    "venue": "ACM Interactions 2011"
+   },
+   "source_url": "https://www.open.ac.uk/blogs/ACI/"
+  },
+  {
+   "id": "clara-mancini--animal-centred-ethics",
+   "creator_ids": [
+    "clara-mancini"
+   ],
+   "title": "Towards an animal-centred ethics for Animal-Computer Interaction",
+   "year": 2017,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Argues that animals in ACI research should be treated as consenting participants and design contributors rather than research instruments, and proposes ethical principles to match.",
+   "description_zh": "主张 ACI 研究中的动物应被视为可以表达同意的参与者和设计贡献者，而不是研究工具，并提出相应的伦理原则。",
+   "idea_en": "Research ethics for animals should be as participant-centred as HCI ethics for people.",
+   "idea_zh": "针对动物的研究伦理，应当像 HCI 对人的研究伦理一样以参与者为中心。",
+   "method": "Critical analysis of animal research regulations and proposal of an animal-centred ethical framework.",
+   "method_zh": "批判分析动物研究法规，提出以动物为中心的伦理框架。",
+   "keywords": [
+    "ethics",
+    "consent",
+    "ACI",
+    "animal welfare"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1016/j.ijhcs.2016.04.008",
+    "doi": "10.1016/j.ijhcs.2016.04.008",
+    "arxiv": "",
+    "venue": "International Journal of Human-Computer Studies 2017"
+   },
+   "source_url": "https://www.open.ac.uk/blogs/ACI/"
+  },
+  {
+   "id": "clara-mancini--cancer-detection-dogs",
+   "creator_ids": [
+    "clara-mancini"
+   ],
+   "title": "Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs",
+   "year": 2015,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Sensor-equipped sample holders record how long and how hard a medical detection dog sniffs each sample, so the dog's own confidence can be read without relying on the handler.",
+   "description_zh": "装有传感器的样本架记录医学检测犬嗅闻每个样本的时间和力度，从而不依赖训犬员也能读出狗自己的判断信心。",
+   "idea_en": "Design the interface around how the dog works, and it can report what the dog knows.",
+   "idea_zh": "围绕狗的工作方式设计界面，界面就能传达狗所知道的事。",
+   "method": "Pressure and proximity sensors in the sample stands, developed with the charity Medical Detection Dogs.",
+   "method_zh": "在样本架中加入压力和距离传感器，与慈善机构 Medical Detection Dogs 合作开发。",
+   "keywords": [
+    "medical detection dogs",
+    "cancer detection",
+    "canine interface",
+    "sensors"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=MyHjq8Od-Xg"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2702123.2702562",
+    "doi": "10.1145/2702123.2702562",
+    "arxiv": "",
+    "venue": "CHI 2015"
+   },
+   "source_url": "https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf"
+  },
+  {
+   "id": "charlotte-robinson--diabetes-alert-dogs",
+   "creator_ids": [
+    "charlotte-robinson",
+    "clara-mancini"
+   ],
+   "title": "Canine-centered interface design: supporting the work of diabetes alert dogs",
+   "year": 2014,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Prototype alarm interfaces that diabetes alert dogs can press or pull to summon help when their person's blood sugar is dangerously low.",
+   "description_zh": "为糖尿病预警犬设计的报警界面原型：当主人血糖危险地降低时，狗可以按压或拉动它来呼救。",
+   "idea_en": "Shape the interface to the dog's body and skills, not to human buttons.",
+   "idea_zh": "让界面适配狗的身体和能力，而不是人类的按钮。",
+   "method": "Iterative prototyping of canine-operable alarm devices tested with trained assistance dogs.",
+   "method_zh": "对狗可操作的报警装置进行迭代原型设计，并用受训辅助犬测试。",
+   "keywords": [
+    "diabetes alert dogs",
+    "assistance dogs",
+    "canine-centred design",
+    "alarm"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_vYdDrMHC0U"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/_vYdDrMHC0U/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2556288.2557396",
+    "doi": "10.1145/2556288.2557396",
+    "arxiv": "",
+    "venue": "CHI 2014"
+   },
+   "source_url": "https://www.open.ac.uk/blogs/ACI/"
+  },
+  {
+   "id": "ilyena-hirskyj-douglas--dogphone",
+   "creator_ids": [
+    "ilyena-hirskyj-douglas",
+    "roosa-piitulainen"
+   ],
+   "title": "Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone)",
+   "year": 2021,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "DogPhone lets a dog start a video call to its owner by picking up and shaking a soft ball; it was tested for 16 days with the first author's Labrador, Zack.",
+   "description_zh": "DogPhone 让狗通过叼起并摇晃一个软球来给主人拨打视频电话；它在第一作者的拉布拉多犬 Zack 身上测试了 16 天。",
+   "idea_en": "Give animals control over when to connect, and see what an animal-initiated internet looks like.",
+   "idea_zh": "让动物自己决定何时连线，看看由动物发起的互联网会是什么样。",
+   "method": "An accelerometer inside a ball triggers a laptop video call; the owner can also call, and the dog may ignore it.",
+   "method_zh": "球内的加速度计触发笔记本电脑发起视频通话；主人也可以打过来，而狗可以不理会。",
+   "keywords": [
+    "DogPhone",
+    "video call",
+    "dogs",
+    "animal agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LLNrNAMnA6M"
+   },
+   "images": [
+    "https://www.gla.ac.uk/media/Media_819888_smxx.jpg",
+    "https://www.gla.ac.uk/media/Media_819889_smxx.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3488539",
+    "doi": "10.1145/3488539",
+    "arxiv": "",
+    "venue": "PACM HCI (ISS) 2021"
+   },
+   "source_url": "https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html"
+  },
+  {
+   "id": "roosa-piitulainen--music-for-monkeys",
+   "creator_ids": [
+    "roosa-piitulainen",
+    "ilyena-hirskyj-douglas"
+   ],
+   "title": "Music for Monkeys: Building Methods to Design with White-Faced Sakis for Animal-Driven Audio Enrichment Devices",
+   "year": 2020,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "White-faced sakis at Korkeasaari Zoo in Helsinki could choose to play music, rain or traffic sounds by entering a tunnel fitted with infrared sensors.",
+   "description_zh": "赫尔辛基 Korkeasaari 动物园的白脸僧面猴可以通过进入装有红外传感器的隧道，自己选择播放音乐、雨声或交通噪音。",
+   "idea_en": "Let the animal choose the stimulus and log its choices to learn what it prefers.",
+   "idea_zh": "让动物自己选择刺激，并记录它的选择，以了解它的偏好。",
+   "method": "Low-fidelity form tests in the enclosure led to a tunnel with IR sensors that triggers audio and logs every interaction.",
+   "method_zh": "先在兽舍中进行低保真形态测试，再做出带红外传感器的隧道，触发声音并记录每次互动。",
+   "keywords": [
+    "white-faced sakis",
+    "zoo enrichment",
+    "audio",
+    "animal-centred design"
+   ],
+   "images": [
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg",
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.3390/ani10101768",
+    "doi": "10.3390/ani10101768",
+    "arxiv": "",
+    "venue": "Animals 2020"
+   },
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/"
+  },
+  {
+   "id": "ilyena-hirskyj-douglas--monkeys-audio-or-visual",
+   "creator_ids": [
+    "ilyena-hirskyj-douglas"
+   ],
+   "title": "Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos",
+   "year": 2022,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A 'monkey media player' tunnel lets sakis choose between videos and sounds; over several weeks they triggered audio about twice as often as video.",
+   "description_zh": "一条“猴子媒体播放器”隧道让僧面猴在视频和声音之间选择；几周下来，它们触发声音的次数大约是视频的两倍。",
+   "idea_en": "Offer animals several options, not one, and measure their experience through their choices.",
+   "idea_zh": "给动物多个选项而不是一个，通过它们的选择来衡量体验。",
+   "method": "A tunnel with three infrared zones plays a chosen video or sound for as long as the monkey stays; interactions are logged over weeks.",
+   "method_zh": "隧道内有三个红外区域，猴子停留多久就播放多久对应的视频或声音，并连续数周记录互动。",
+   "keywords": [
+    "white-faced sakis",
+    "choice",
+    "zoo",
+    "monkey-computer interaction"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_rB1FVmks4g"
+   },
+   "images": [
+    "https://www.gla.ac.uk/media/Media_853879_smxx.jpeg",
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7ba/7924172/b4b3a0f72383/animals-11-00557-g001.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533577",
+    "doi": "10.1145/3532106.3533577",
+    "arxiv": "",
+    "venue": "DIS 2022"
+   },
+   "source_url": "https://www.gla.ac.uk/news/archiveofnews/2022/june/headline_853821_en.html"
+  },
+  {
+   "id": "rebecca-kleinberger--parrot-video-calls",
+   "creator_ids": [
+    "rebecca-kleinberger",
+    "ilyena-hirskyj-douglas"
+   ],
+   "title": "Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment",
+   "year": 2023,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Pet parrots learned to ring a bell to request a call and then chose which other parrot to video-call on a tablet; many formed preferences for particular partners.",
+   "description_zh": "宠物鹦鹉学会摇铃请求通话，然后在平板上选择要视频通话的另一只鹦鹉；许多鹦鹉对特定伙伴形成了偏好。",
+   "idea_en": "Social technology for animals should let them choose whether and whom to call.",
+   "idea_zh": "面向动物的社交技术，应该让它们自己决定是否通话、和谁通话。",
+   "method": "Tablet video calls initiated by the birds, with caregivers supervising; usage and behaviour analysed over months.",
+   "method_zh": "由鸟类发起、看护人在旁监督的平板视频通话，并在数月中分析使用情况和行为。",
+   "keywords": [
+    "parrots",
+    "video calls",
+    "enrichment",
+    "animal agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=R8BlvicJfJM"
+   },
+   "images": [
+    "https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg",
+    "https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581166",
+    "doi": "10.1145/3544548.3581166",
+    "arxiv": "",
+    "venue": "CHI 2023"
+   },
+   "source_url": "https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls"
+  },
+  {
+   "id": "rebecca-kleinberger--no-more-angry-birds",
+   "creator_ids": [
+    "rebecca-kleinberger",
+    "ilyena-hirskyj-douglas"
+   ],
+   "title": "No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots",
+   "year": 2024,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A study of how 20 pet parrots touch tablet screens with their beaks and tongues, used to derive interface guidelines for parrot apps.",
+   "description_zh": "研究 20 只宠物鹦鹉如何用喙和舌头触碰平板屏幕，并据此提出鹦鹉应用的界面设计准则。",
+   "idea_en": "Human touchscreen standards do not fit parrots; measure their bodies to design for them.",
+   "idea_zh": "人类的触屏标准不适合鹦鹉；要测量它们的身体来为它们设计。",
+   "method": "Touch-target experiments on tablets, tested against HCI models such as Fitts's law.",
+   "method_zh": "在平板上进行触控目标实验，并与菲茨定律等 HCI 模型对照检验。",
+   "keywords": [
+    "parrots",
+    "touchscreen",
+    "ergonomics",
+    "Fitts's law"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EY5GiklaplM"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642119",
+    "doi": "10.1145/3613904.3642119",
+    "arxiv": "",
+    "venue": "CHI 2024"
+   },
+   "source_url": "https://doi.org/10.1145/3613904.3642119"
+  },
+  {
+   "id": "fiona-french--more-than-human-aesthetics-elephants",
+   "creator_ids": [
+    "fiona-french",
+    "clara-mancini"
+   ],
+   "title": "More Than Human Aesthetics: Interactive Enrichment for Elephants",
+   "year": 2020,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Explores what an elephant-specific aesthetic of interaction might be, drawing on the authors' work designing interactive sound and play devices for captive elephants.",
+   "description_zh": "基于为圈养大象设计互动声音和游戏装置的经验，探讨大象特有的交互美学可能是什么样。",
+   "idea_en": "Aesthetics are species-specific; design for the senses and body of the animal in front of you.",
+   "idea_zh": "美学因物种而异；要为眼前这只动物的感官和身体而设计。",
+   "method": "Applies existing aesthetic dimensions and design principles to elephant enrichment prototypes.",
+   "method_zh": "把已有的美学维度和设计原则应用到大象丰容原型上。",
+   "keywords": [
+    "elephants",
+    "species-specific aesthetics",
+    "enrichment",
+    "multisensory"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=G7Eh4owhNFk"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/G7Eh4owhNFk/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395445",
+    "doi": "10.1145/3357236.3395445",
+    "arxiv": "",
+    "venue": "DIS 2020"
+   },
+   "source_url": "https://doi.org/10.1145/3357236.3395445"
+  },
+  {
+   "id": "fiona-french--interactive-toys-for-elephants",
+   "creator_ids": [
+    "fiona-french",
+    "clara-mancini"
+   ],
+   "title": "Designing Interactive Toys for Elephants",
+   "year": 2015,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Early research on digital toys and games as playful cognitive enrichment for captive elephants.",
+   "description_zh": "关于用数字玩具和游戏为圈养大象提供游戏化认知丰容的早期研究。",
+   "idea_en": "Play is a route to enrichment and a method for designing with any species.",
+   "idea_zh": "游戏是丰容的途径，也是与任何物种一起设计的方法。",
+   "method": "Design research with keepers and elephants to develop playful interactive devices.",
+   "method_zh": "与饲养员和大象一起开展设计研究，开发有趣的互动装置。",
+   "keywords": [
+    "elephants",
+    "play",
+    "enrichment",
+    "CHI PLAY"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2793107.2810327",
+    "doi": "10.1145/2793107.2810327",
+    "arxiv": "",
+    "venue": "CHI PLAY 2015"
+   },
+   "source_url": "https://doi.org/10.1145/2793107.2810327"
+  },
+  {
+   "id": "sarah-webber--kinecting-with-orangutans",
+   "creator_ids": [
+    "sarah-webber",
+    "marcus-carter"
+   ],
+   "title": "Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology",
+   "year": 2017,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "Kinect-driven projections at Melbourne Zoo let orangutans play with light; the study looked at how watching them play changed visitors' empathy.",
+   "description_zh": "墨尔本动物园用 Kinect 驱动的投影让猩猩与光互动；研究考察了游客观看猩猩玩耍后共情的变化。",
+   "idea_en": "Technology for animals is also a window through which people see animals differently.",
+   "idea_zh": "为动物设计的技术，也是一扇让人重新看待动物的窗口。",
+   "method": "Microsoft Kinect depth sensing drives floor projections in the orangutan enclosure; visitor responses were observed and surveyed.",
+   "method_zh": "用微软 Kinect 深度感知驱动猩猩兽舍中的地面投影，并观察和调查游客反应。",
+   "keywords": [
+    "orangutans",
+    "Melbourne Zoo",
+    "Kinect",
+    "empathy"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=l7OyfuidBI0"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025729",
+    "doi": "10.1145/3025453.3025729",
+    "arxiv": "",
+    "venue": "CHI 2017"
+   },
+   "source_url": "https://doi.org/10.1145/3025453.3025729"
+  },
+  {
+   "id": "marcus-carter--orangutan-interactive-projections",
+   "creator_ids": [
+    "marcus-carter",
+    "sarah-webber"
+   ],
+   "title": "An evaluation of interactive projections as digital enrichment for orangutans",
+   "year": 2021,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Evaluates the interactive projection system in Melbourne Zoo's orangutan exhibit as enrichment that works without food rewards.",
+   "description_zh": "评估墨尔本动物园猩猩展区的互动投影系统，作为一种不需要食物奖励的丰容方式。",
+   "idea_en": "Digital enrichment can be intrinsically rewarding for great apes.",
+   "idea_zh": "数字丰容本身就可以让大猿获得满足。",
+   "method": "Behavioural observation of orangutans using projected interactive games over time.",
+   "method_zh": "长期观察猩猩使用投影互动游戏的行为。",
+   "keywords": [
+    "orangutans",
+    "digital enrichment",
+    "zoo",
+    "projection"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WObQaW2JYSs"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1002/zoo.21587",
+    "doi": "10.1002/zoo.21587",
+    "arxiv": "",
+    "venue": "Zoo Biology 2021"
+   },
+   "source_url": "https://doi.org/10.1002/zoo.21587"
+  },
+  {
+   "id": "adrian-david-cheok--poultry-internet",
+   "creator_ids": [
+    "adrian-david-cheok"
+   ],
+   "title": "Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet",
+   "year": 2006,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A chicken wears a jacket with vibration motors; when its owner strokes a sensor-equipped chicken doll at the office, the touch is sent over the internet to the live bird.",
+   "description_zh": "一只鸡穿着装有振动马达的背心；当主人在办公室抚摸装有传感器的鸡玩偶时，触感会通过互联网传给真实的鸡。",
+   "idea_en": "Remote touch can extend human-animal companionship across distance.",
+   "idea_zh": "远程触摸可以让人与动物的陪伴跨越距离。",
+   "method": "Tactile sensing doll, internet link, vibrotactile pet jacket and a webcam-tracked mixed-reality view of the chicken (first author Shang Ping Lee).",
+   "method_zh": "触觉感应玩偶、互联网连接、振动背心以及用摄像头追踪鸡的混合现实画面（第一作者 Shang Ping Lee）。",
+   "keywords": [
+    "chickens",
+    "remote touch",
+    "wearable",
+    "mixed reality"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1x-8EzuMiqU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1007/s00779-005-0051-6",
+    "doi": "10.1007/s00779-005-0051-6",
+    "arxiv": "",
+    "venue": "Personal and Ubiquitous Computing 2006"
+   },
+   "source_url": "https://mixedrealitylab.org/projects/all-projects/poultry-internet/"
+  },
+  {
+   "id": "adrian-david-cheok--metazoa-ludens",
+   "creator_ids": [
+    "adrian-david-cheok"
+   ],
+   "title": "Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans",
+   "year": 2011,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A hamster running in a physical arena controls an avatar in a computer game, while the human player's avatar moves a physical bait in the arena that the hamster chases.",
+   "description_zh": "仓鼠在实体场地中奔跑，控制电脑游戏中的一个角色；人类玩家的角色则移动场地里的实体诱饵，让仓鼠追逐。",
+   "idea_en": "Humans and small pets can play one game together through mixed reality.",
+   "idea_zh": "借助混合现实，人和小宠物可以一起玩同一个游戏。",
+   "method": "Camera tracking of the hamster, a motorised bait under the arena and a shared virtual game; the pet's wellbeing was checked with standard scoring methods.",
+   "method_zh": "摄像头追踪仓鼠，场地下方用电机驱动诱饵，双方进入共享虚拟游戏；用标准评分方法检查宠物健康。",
+   "keywords": [
+    "hamsters",
+    "mixed reality",
+    "interspecies play",
+    "Mixed Reality Lab"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7o7UIpOy5LA"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1109/tsmca.2011.2108998",
+    "doi": "10.1109/tsmca.2011.2108998",
+    "arxiv": "",
+    "venue": "IEEE Transactions on Systems, Man, and Cybernetics 2011"
+   },
+   "source_url": "https://ieeexplore.ieee.org/document/5740616/"
+  },
+  {
+   "id": "thad-starner--chat-dolphin-wearable",
+   "creator_ids": [
+    "thad-starner",
+    "denise-herzing"
+   ],
+   "title": "An underwater wearable computer for two way human-dolphin communication experimentation (CHAT)",
+   "year": 2013,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Divers wear CHAT, an underwater computer that plays synthetic whistles labelled for objects such as sargassum or a scarf and listens for wild dolphins mimicking them.",
+   "description_zh": "潜水员佩戴 CHAT 水下计算机，它播放代表马尾藻、围巾等物体的合成哨声，并监听野生海豚是否模仿这些声音。",
+   "idea_en": "Build a small shared vocabulary so dolphins can ask humans for things.",
+   "idea_zh": "建立一小套共享词汇，让海豚能向人类“要东西”。",
+   "method": "Underwater wearable with hydrophones and real-time whistle recognition, used with wild Atlantic spotted dolphins in the Bahamas (Wild Dolphin Project, Georgia Tech).",
+   "method_zh": "带水听器和实时哨声识别的水下可穿戴设备，在巴哈马与野生大西洋斑纹海豚一起使用（Wild Dolphin Project 与佐治亚理工合作）。",
+   "keywords": [
+    "dolphins",
+    "CHAT",
+    "underwater wearable",
+    "Wild Dolphin Project"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=YhopeQKbpZA"
+   },
+   "images": [
+    "https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg",
+    "https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2493988.2494346",
+    "doi": "10.1145/2493988.2494346",
+    "arxiv": "",
+    "venue": "ISWC 2013"
+   },
+   "source_url": "https://www.wilddolphinproject.org/our-research/chat-research/"
+  },
+  {
+   "id": "melody-moore-jackson--fido",
+   "creator_ids": [
+    "melody-moore-jackson",
+    "thad-starner"
+   ],
+   "title": "FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces",
+   "year": 2013,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "Service-dog vests with sensors that the dog can bite, tug or nose-touch to send a message, such as calling emergency services or alerting a deaf handler.",
+   "description_zh": "带传感器的服务犬背心，狗可以咬、拉或用鼻子触碰来发送信息，例如拨打急救电话或提醒听障主人。",
+   "idea_en": "Give working dogs a way to talk back through the gear they already wear.",
+   "idea_zh": "让工作犬通过它们已经穿戴的装备“回话”。",
+   "method": "Bite, tug and proximity sensors on a vest connected to a phone; tested with trained dogs.",
+   "method_zh": "背心上装有咬合、拉拽和接近传感器并连接手机，在受训犬身上测试。",
+   "keywords": [
+    "service dogs",
+    "wearable",
+    "Georgia Tech",
+    "FIDO"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1iaIQktV26M"
+   },
+   "images": [
+    "https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg",
+    "https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2493988.2494334",
+    "doi": "10.1145/2493988.2494334",
+    "arxiv": "",
+    "venue": "ISWC 2013"
+   },
+   "source_url": "https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade"
+  },
+  {
+   "id": "melody-moore-jackson--going-to-the-dogs",
+   "creator_ids": [
+    "melody-moore-jackson",
+    "thad-starner"
+   ],
+   "title": "Going to the Dogs: Towards an Interactive Touchscreen Interface for Working Dogs",
+   "year": 2014,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A touchscreen interface sized and spaced for dogs' nose touches so that assistance dogs could, for example, call for help.",
+   "description_zh": "一个按狗鼻触碰来设定目标大小和间距的触摸屏界面，让辅助犬能够例如呼叫救援。",
+   "idea_en": "Measure an animal's pointing ability before designing its buttons.",
+   "idea_zh": "在设计按钮之前，先测量动物的“指点”能力。",
+   "method": "Target-size and spacing experiments with trained dogs on a wall-mounted touchscreen (first author Clint Zeagler).",
+   "method_zh": "在壁挂触摸屏上与受训犬进行目标大小和间距实验（第一作者 Clint Zeagler）。",
+   "keywords": [
+    "dogs",
+    "touchscreen",
+    "UIST",
+    "assistance dogs"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=AZzJkar5h_g"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2642918.2647364",
+    "doi": "10.1145/2642918.2647364",
+    "arxiv": "",
+    "venue": "UIST 2014"
+   },
+   "source_url": "https://doi.org/10.1145/2642918.2647364"
+  },
+  {
+   "id": "frank-noz--cat-cat-revolution",
+   "creator_ids": [
+    "frank-noz"
+   ],
+   "title": "Cat Cat Revolution: An Interspecies Gaming Experience",
+   "year": 2011,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "An iPad game of cat and mouse in which the cat chases a virtual mouse on screen while its owner controls the mouse.",
+   "description_zh": "一款 iPad 猫捉老鼠游戏：猫在屏幕上追逐虚拟老鼠，主人负责操控老鼠。",
+   "idea_en": "Pets can be real players in a shared game when the interface suits their species.",
+   "idea_zh": "只要界面适合物种，宠物就能成为共享游戏中真正的玩家。",
+   "method": "Tablet game with a species-appropriate interface for cats and a controller for the human player.",
+   "method_zh": "为猫设计了适合其物种的平板界面，人类玩家则使用控制端。",
+   "keywords": [
+    "cats",
+    "iPad",
+    "interspecies play",
+    "games"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1978942.1979331",
+    "doi": "10.1145/1978942.1979331",
+    "arxiv": "",
+    "venue": "CHI 2011"
+   },
+   "source_url": "https://doi.org/10.1145/1978942.1979331"
+  },
+  {
+   "id": "chadwick-wingrave--canine-amusement-and-training",
+   "creator_ids": [
+    "chadwick-wingrave"
+   ],
+   "title": "Early explorations of CAT: canine amusement and training",
+   "year": 2010,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A serious-games prototype meant to get people to spend calm, healthy and enjoyable play time with their dogs.",
+   "description_zh": "一个严肃游戏原型，旨在让人与自己的狗进行平静、健康而愉快的游戏时间。",
+   "idea_en": "Games can shape the everyday routines that humans and dogs share.",
+   "idea_zh": "游戏可以塑造人与狗共享的日常习惯。",
+   "method": "Prototype game system combining dog training and play, designed with a serious-games approach.",
+   "method_zh": "结合训犬与游戏的原型系统，采用严肃游戏方法设计。",
+   "keywords": [
+    "dogs",
+    "serious games",
+    "training",
+    "CHI"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/1753846.1753849",
+    "doi": "10.1145/1753846.1753849",
+    "arxiv": "",
+    "venue": "CHI 2010 Extended Abstracts"
+   },
+   "source_url": "https://doi.org/10.1145/1753846.1753849"
+  },
+  {
+   "id": "patricia-pons--interspecies-digital-games",
+   "creator_ids": [
+    "patricia-pons"
+   ],
+   "title": "Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies",
+   "year": 2016,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An observational study of which technological stimuli - projected lights, moving objects, sounds, tablets - actually interest cats, to inform games for cats and people.",
+   "description_zh": "一项观察研究：哪些技术刺激（投影光、移动物体、声音、平板）真正能吸引猫，为设计猫与人的游戏提供依据。",
+   "idea_en": "Study what the animal is curious about before designing play for it.",
+   "idea_zh": "先研究动物对什么好奇，再为它设计游戏。",
+   "method": "Sessions with cats and different interactive stimuli, recorded and coded for interest and engagement.",
+   "method_zh": "让猫接触不同的互动刺激，录像并按兴趣和投入程度编码分析。",
+   "keywords": [
+    "cats",
+    "interspecies games",
+    "playful environments",
+    "observation"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ie6xe3v70kQ"
+   },
+   "images": [
+    "https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2851581.2892381",
+    "doi": "10.1145/2851581.2892381",
+    "arxiv": "",
+    "venue": "CHI 2016 Extended Abstracts"
+   },
+   "source_url": "https://doi.org/10.1145/2851581.2892381"
+  },
+  {
+   "id": "anna-zamansky--log-my-dog",
+   "creator_ids": [
+    "anna-zamansky"
+   ],
+   "title": "Log My Dog: Perceived Impact of Dog Activity Tracking",
+   "year": 2019,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "paper",
+   "description": "A study of owners who use a popular dog activity tracker, finding that it mainly motivates the owners to be more active with their dogs.",
+   "description_zh": "对使用热门狗活动追踪器的主人进行研究，发现它主要促使主人与狗一起更多地活动。",
+   "idea_en": "Pet wearables change the human side of the relationship as much as the animal's.",
+   "idea_zh": "宠物可穿戴设备改变的不只是动物，也改变了关系中人的一方。",
+   "method": "Empirical user study of owners of a commercial dog activity tracker.",
+   "method_zh": "针对商用狗活动追踪器用户的实证研究。",
+   "keywords": [
+    "dog wearables",
+    "activity tracking",
+    "quantified pet"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1109/mc.2018.2889637",
+    "doi": "10.1109/mc.2018.2889637",
+    "arxiv": "",
+    "venue": "IEEE Computer 2019"
+   },
+   "source_url": "https://doi.org/10.1109/mc.2018.2889637"
+  },
+  {
+   "id": "jennifer-gabrys--smart-forests",
+   "creator_ids": [
+    "jennifer-gabrys"
+   ],
+   "title": "Smart forests and data practices: From the Internet of Trees to planetary governance",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Studies forests fitted with sensors, drones and data platforms, and argues that forests are becoming technologies for managing environmental change.",
+   "description_zh": "研究装有传感器、无人机和数据平台的森林，认为森林正在成为管理环境变化的技术。",
+   "idea_en": "When forests become 'smart', they also become instruments of governance; ask who they serve.",
+   "idea_zh": "当森林变得“智能”，它也成了治理工具；要追问它服务于谁。",
+   "method": "Analysis of smart forest projects and five digital practices, part of the ERC Smart Forests project.",
+   "method_zh": "分析智能森林项目及五种数字实践，属于 ERC Smart Forests 项目。",
+   "keywords": [
+    "Smart Forests",
+    "Internet of Trees",
+    "environmental governance",
+    "sensors"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pV6DwcK69gQ"
+   },
+   "images": [
+    "https://smartforests.net/media/pages/about/fdf505d0de-1593377557/smartforest-ok.jpg",
+    "https://smartforests.net/media/pages/home/fd0c426ad2-1644954050/smartforests-homepage-3-800x800.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/2053951720904871",
+    "doi": "10.1177/2053951720904871",
+    "arxiv": "",
+    "venue": "Big Data & Society 2020"
+   },
+   "source_url": "https://smartforests.net/"
+  },
+  {
+   "id": "jennifer-gabrys--citizen-sense-just-good-enough-data",
+   "creator_ids": [
+    "jennifer-gabrys"
+   ],
+   "title": "Just good enough data: Figuring data citizenships through air pollution sensing and data stories",
+   "year": 2016,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "In the Citizen Sense project, residents near fracking sites in Pennsylvania used low-cost air monitors and wrote 'data stories' to make evidence that was good enough to act on.",
+   "description_zh": "在 Citizen Sense 项目中，宾夕法尼亚州页岩气开采区附近的居民使用低成本空气监测器，并撰写“数据故事”，生成足以采取行动的证据。",
+   "idea_en": "Citizen data does not need to be perfect to be powerful; it needs to be good enough.",
+   "idea_zh": "市民数据不必完美才有力量，只要“足够好”。",
+   "method": "Participatory sensing with DIY and low-cost air-quality monitors, combined with collaborative data storytelling.",
+   "method_zh": "使用 DIY 和低成本空气质量监测器开展参与式感知，并结合协作式数据叙事。",
+   "keywords": [
+    "Citizen Sense",
+    "air pollution",
+    "fracking",
+    "citizen sensing"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Loz1NFyQ5Lo"
+   },
+   "images": [
+    "https://i2.wp.com/citizensense.net/cs/wp-content/uploads/2014/06/evidence4.jpg?fit=2048%2C1352&ssl=1",
+    "https://i0.wp.com/citizensense.net/cs/wp-content/uploads/2017/11/Dustbox_Garden_sm.jpg?fit=794%2C676&ssl=1"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1177/2053951716679677",
+    "doi": "10.1177/2053951716679677",
+    "arxiv": "",
+    "venue": "Big Data & Society 2016"
+   },
+   "source_url": "https://citizensense.net/"
+  },
+  {
+   "id": "stacey-kuznetsov--red-balloon-green-balloon",
+   "creator_ids": [
+    "stacey-kuznetsov"
+   ],
+   "title": "Red balloon, green balloon, sensors in the sky",
+   "year": 2011,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Large glowing balloons change colour according to attached air-quality sensors, making local pollution visible in public space; a DIY kit let others build them.",
+   "description_zh": "大型发光气球根据所挂空气质量传感器的读数改变颜色，让本地污染在公共空间中可见；DIY 套件让其他人也能自己制作。",
+   "idea_en": "Make invisible environmental data public, visible and buildable by citizens.",
+   "idea_zh": "让看不见的环境数据变得公开、可见，而且市民能自己做。",
+   "method": "Balloons with LEDs driven by exhaust, diesel or VOC sensors, released as a DIY kit with PCB and instructions.",
+   "method_zh": "气球内的 LED 由尾气、柴油或挥发性有机物传感器驱动，并以带电路板和说明的 DIY 套件发布。",
+   "keywords": [
+    "air quality",
+    "DIY",
+    "public display",
+    "citizen science"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2030112.2030145",
+    "doi": "10.1145/2030112.2030145",
+    "arxiv": "",
+    "venue": "UbiComp 2011"
+   },
+   "source_url": "https://doi.org/10.1145/2030112.2030145"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Anne Galloway - More-Than-Human Lab projects (Counting Sheep, speculative sheep farming)",
+   "why": "Speculative design with sheep and farmers; lab pages were unreachable this round.",
+   "link": "https://www.morethanhumanlab.org/",
+   "found_via": "anne-galloway",
+   "status": "no_media"
+  },
+  {
+   "name": "Laura Devendorf / Unstable Design Lab",
+   "why": "Co-author of Design for Collaborative Survival; weaving and more-than-human making.",
+   "link": "https://www.unstable.design/",
+   "found_via": "jen-liu",
+   "status": "open"
+  },
+  {
+   "name": "Audrey Desjardins",
+   "why": "Co-author of High Water Pants; home, data and more-than-human speculation.",
+   "link": "",
+   "found_via": "heidi-biggs",
+   "status": "open"
+  },
+  {
+   "name": "Ann Light",
+   "why": "Co-author of more-than-human participation; PD with non-human stakeholders; 'More-than-Human Participatory Approaches for Design' (PDC 2024, 10.1145/3661455.3669862).",
+   "link": "",
+   "found_via": "rachel-clarke",
+   "status": "open"
+  },
+  {
+   "name": "Anna Poikolainen Rosén",
+   "why": "Learning from gardening, felt senses for more-than-human design (DIS 2024), 'Introducing More-Than-Human Design in Practice' (Interactions 2025).",
+   "link": "",
+   "found_via": "sara-heitlinger",
+   "status": "open"
+  },
+  {
+   "name": "Stanislav Roudavski",
+   "why": "Designs habitat structures for birds; 'Are You Blocking Nonhuman Leadership?' (PDC 2026).",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Hanna Wirman",
+   "why": "Orangutan touch-screen games; ACI and game studies.",
+   "link": "",
+   "found_via": "sarah-webber",
+   "status": "open"
+  },
+  {
+   "name": "Apps for Apes (Orangutan Outreach)",
+   "why": "iPad enrichment programme for zoo orangutans; product-side counterpart to ACI research.",
+   "link": "",
+   "found_via": "sarah-webber",
+   "status": "open"
+  },
+  {
+   "name": "Pig Chase / Playing with Pigs (Utrecht School of the Arts, Wageningen)",
+   "why": "Game in which farmed pigs and humans play via a touch-sensitive light wall.",
+   "link": "",
+   "found_via": "clara-mancini",
+   "status": "open"
+  },
+  {
+   "name": "Alinta Krauth & Jason Nelson",
+   "why": "A(I)nimal-centred AI Jam (ACI 2023, 10.1145/3637882.3637903); art-leaning, better for mth-art-spec.",
+   "link": "https://www.alintakrauth.com/",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Armi Behzad",
+   "why": "Iterating through Feeling-with Nonhuman Things (CHI EA 2022); Making Space for Poems (2024).",
+   "link": "",
+   "found_via": "ron-wakkary",
+   "status": "open"
+  },
+  {
+   "name": "Pschetz et al. - Designing Temporal Ecologies",
+   "why": "Multispecies temporalities through design (DRS 2024, 10.21606/drs.2024.1068) and 2026 Bloomsbury book.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Tagus Multispecies Atlas",
+   "why": "Counter-mapping for affective multispecies interactions (2026, 10.1145/3803784.3809274).",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Anuradha Reddy / Marie Louise Juul Søndergaard / Yolande Strengers",
+   "why": "Co-authors of More-Than-Human Design and AI; AI agents, smart home and feminist posthuman design.",
+   "link": "",
+   "found_via": "iohanna-nicenboim",
+   "status": "open"
+  },
+  {
+   "name": "Jennifer Gabrys - Planetary Praxis",
+   "why": "Follow-up to Smart Forests on environmental data and practice.",
+   "link": "https://www.jennifergabrys.net/",
+   "found_via": "jennifer-gabrys",
+   "status": "open"
+  },
+  {
+   "name": "Kristina Lindström & Åsa Ståhl - Un/Making / compost projects",
+   "why": "Aftermath of design, compost and plastics projects with public participation.",
+   "link": "",
+   "found_via": "kristina-lindstrom",
+   "status": "open"
+  },
+  {
+   "name": "Daisy Yoo",
+   "why": "Co-author of the NordiCHI 2024 more-than-human scoping review; value-sensitive and long-term design.",
+   "link": "",
+   "found_via": "eva-eriksson",
+   "status": "open"
+  },
+  {
+   "name": "Charlotte Robinson & Clara Mancini - assistance dog emergency communication (UbiComp 2015)",
+   "why": "10.1145/2750858.2805849; follow-on to canine-centred interface design.",
+   "link": "",
+   "found_via": "clara-mancini",
+   "status": "open"
+  },
+  {
+   "name": "Melody Jackson - Canine Computer Interaction (ACI 2016)",
+   "why": "10.1145/2995257.2995384; more working-dog interfaces from Georgia Tech.",
+   "link": "",
+   "found_via": "melody-moore-jackson",
+   "status": "open"
+  },
+  {
+   "name": "Jeffrey Bardzell",
+   "why": "Co-author across the Bardzell lab's naturecultures papers.",
+   "link": "",
+   "found_via": "shaowen-bardzell",
+   "status": "open"
+  }
+ ]
+}

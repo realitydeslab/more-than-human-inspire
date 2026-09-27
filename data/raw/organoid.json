@@ -1,0 +1,2803 @@
+{
+  "batch": "organoid",
+  "creators": [
+    {
+      "id": "cortical-labs",
+      "name": "Cortical Labs",
+      "kind": "company",
+      "role": "Biotech company building biological computers from human neurons on silicon chips",
+      "based": "Melbourne, AU",
+      "bio": "Founded in 2019 by Hon Weng Chong, Cortical Labs grows human and mouse neurons on high-density multi-electrode arrays. It made DishBrain, which learned to play Pong, and sells the CL1 biological computer and cloud access to it.",
+      "why": "It turned neurons-in-a-dish from a lab experiment into a programmable product that designers and developers can rent.",
+      "links": {
+        "site": "https://corticallabs.com"
+      },
+      "role_zh": "用硅芯片上的人类神经元构建生物计算机的生物科技公司",
+      "bio_zh": "Cortical Labs 由 Hon Weng Chong 于 2019 年创立，在高密度多电极阵列上培养人类和小鼠神经元。它做出了学会玩 Pong 的 DishBrain，并出售 CL1 生物计算机和它的云端访问。",
+      "why_zh": "它把培养皿里的神经元从实验室实验变成了设计师和开发者可以租用、可以编程的产品。",
+      "based_zh": "墨尔本，澳大利亚",
+      "connected_to": [
+        "brett-kagan"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "brett-kagan",
+      "name": "Brett J. Kagan",
+      "kind": "person",
+      "role": "Chief Scientific Officer, Cortical Labs",
+      "based": "Melbourne, AU",
+      "bio": "Neuroscientist who led the DishBrain study and coined the term Synthetic Biological Intelligence for trained in vitro neural systems. He also writes on the ethics of embodied neural cultures.",
+      "why": "He set the experimental and ethical vocabulary for neurons that learn inside a game world.",
+      "links": {},
+      "role_zh": "Cortical Labs 首席科学官",
+      "bio_zh": "神经科学家，主导了 DishBrain 研究，并提出“合成生物智能”（Synthetic Biological Intelligence）一词来指称经过训练的体外神经系统。他也撰写关于具身神经培养物伦理的文章。",
+      "why_zh": "他为“在游戏世界里学习的神经元”确立了实验方法和伦理词汇。",
+      "based_zh": "墨尔本，澳大利亚",
+      "connected_to": [
+        "cortical-labs",
+        "thomas-hartung"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "finalspark",
+      "name": "FinalSpark",
+      "kind": "company",
+      "role": "Swiss startup running a remote-access biocomputing platform built on human brain organoids",
+      "based": "Vevey, CH",
+      "bio": "Founded by Fred Jordan and Martin Kutter, FinalSpark keeps human forebrain organoids on multi-electrode arrays around the clock and lets researchers program them over the internet through its Neuroplatform.",
+      "why": "It made living neural tissue available as a 24/7 online computing resource, opening organoid experiments to universities, artists and students.",
+      "links": {
+        "site": "https://finalspark.com"
+      },
+      "role_zh": "运营基于人类脑类器官的远程生物计算平台的瑞士初创公司",
+      "bio_zh": "FinalSpark 由 Fred Jordan 和 Martin Kutter 创立，把人类前脑类器官全天候养在多电极阵列上，研究者可以通过它的 Neuroplatform 在网上给这些类器官编程。",
+      "why_zh": "它让活体神经组织成为全天候在线的计算资源，把类器官实验开放给大学、艺术家和学生。",
+      "based_zh": "韦威，瑞士",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "feng-guo",
+      "name": "Feng Guo",
+      "kind": "person",
+      "role": "Associate Professor of Intelligent Systems Engineering, Indiana University Bloomington",
+      "based": "Bloomington, US",
+      "bio": "Bioengineer working on acoustofluidics and organoid-based computing. His group built Brainoware, which uses a brain organoid as the reservoir in a reservoir-computing system.",
+      "why": "Brainoware showed a concrete computing architecture in which living tissue does part of the work of an AI model.",
+      "links": {},
+      "role_zh": "印第安纳大学伯明顿分校智能系统工程副教授",
+      "bio_zh": "生物工程师，研究声流控和基于类器官的计算。他的团队做出了 Brainoware，把脑类器官用作储备池计算系统中的“储备池”。",
+      "why_zh": "Brainoware 给出了一个具体的计算架构：让活体组织承担 AI 模型的一部分工作。",
+      "based_zh": "伯明顿，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "thomas-hartung",
+      "name": "Thomas Hartung",
+      "kind": "person",
+      "role": "Professor, Johns Hopkins Bloomberg School of Public Health; director of CAAT",
+      "based": "Baltimore, US",
+      "bio": "Toxicologist who led the 2023 proposal to name and fund Organoid Intelligence as a field, and convened the Baltimore Declaration on its ethics.",
+      "why": "He framed organoid computing as a research programme with an explicit ethics track from the start.",
+      "links": {},
+      "role_zh": "约翰斯·霍普金斯大学布隆伯格公共卫生学院教授，替代动物试验中心（CAAT）主任",
+      "bio_zh": "毒理学家，2023 年牵头提出把“类器官智能”（Organoid Intelligence）确立为一个研究领域，并召集制定了关于其伦理的《巴尔的摩宣言》。",
+      "why_zh": "他从一开始就把类器官计算设定为自带伦理议程的研究计划。",
+      "based_zh": "巴尔的摩，美国",
+      "connected_to": [
+        "lena-smirnova",
+        "david-gracias",
+        "brett-kagan"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lena-smirnova",
+      "name": "Lena Smirnova",
+      "kind": "person",
+      "role": "Assistant Professor, Johns Hopkins Bloomberg School of Public Health",
+      "based": "Baltimore, US",
+      "bio": "Neurobiologist who develops human brain organoid models and leads Johns Hopkins work testing whether organoids show the basic mechanisms of learning and memory.",
+      "why": "Her lab supplies the biological evidence that Organoid Intelligence claims depend on.",
+      "links": {},
+      "role_zh": "约翰斯·霍普金斯大学布隆伯格公共卫生学院助理教授",
+      "bio_zh": "神经生物学家，开发人类脑类器官模型，领导约翰斯·霍普金斯大学检验类器官是否具备学习与记忆基本机制的研究。",
+      "why_zh": "她的实验室提供了“类器官智能”这一主张所依赖的生物学证据。",
+      "based_zh": "巴尔的摩，美国",
+      "connected_to": [
+        "thomas-hartung"
+      ],
+      "discovered_via": "thomas-hartung"
+    },
+    {
+      "id": "david-gracias",
+      "name": "David H. Gracias",
+      "kind": "person",
+      "role": "Professor of Chemical and Biomolecular Engineering, Johns Hopkins University",
+      "based": "Baltimore, US",
+      "bio": "Engineer known for self-folding micro-devices. His group made shell-shaped 3D microelectrode arrays that close around a brain organoid.",
+      "why": "He showed that electrodes can be folded to fit the shape of living tissue instead of flattening the tissue onto a chip.",
+      "links": {},
+      "role_zh": "约翰斯·霍普金斯大学化学与生物分子工程教授",
+      "bio_zh": "以自折叠微器件闻名的工程师。他的团队做出了能像贝壳一样合拢、包住脑类器官的三维微电极阵列。",
+      "why_zh": "他证明电极可以折叠成活体组织的形状，而不必把组织压平在芯片上。",
+      "based_zh": "巴尔的摩，美国",
+      "connected_to": [
+        "lena-smirnova",
+        "thomas-hartung"
+      ],
+      "discovered_via": "thomas-hartung"
+    },
+    {
+      "id": "jia-liu",
+      "name": "Jia Liu",
+      "kind": "person",
+      "role": "Associate Professor of Bioengineering, Harvard John A. Paulson School of Engineering and Applied Sciences",
+      "based": "Cambridge, US",
+      "bio": "Bioengineer who embeds soft, stretchable mesh electronics into organoids as they grow, so the electrodes become part of the tissue.",
+      "why": "His 'cyborg organoids' are a model for interfaces that grow together with living tissue.",
+      "links": {
+        "site": "https://liulab.seas.harvard.edu"
+      },
+      "role_zh": "哈佛大学约翰·保尔森工程与应用科学学院生物工程副教授",
+      "bio_zh": "生物工程师，在类器官生长过程中把柔软、可拉伸的网状电子嵌入其中，让电极成为组织的一部分。",
+      "why_zh": "他的“赛博类器官”是与活体组织一起生长的界面范例。",
+      "based_zh": "剑桥，美国",
+      "connected_to": [
+        "charles-lieber"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "charles-lieber",
+      "name": "Charles M. Lieber",
+      "kind": "person",
+      "role": "Nanoscientist; former Professor of Chemistry, Harvard University",
+      "based": "Cambridge, US",
+      "bio": "Chemist who pioneered nanowire and macroporous mesh electronics that can be merged with living tissue, including 3D 'cyborg' tissue scaffolds.",
+      "why": "His mesh electronics are the technical root of most tissue-embedded electrodes used with organoids today.",
+      "links": {},
+      "role_zh": "纳米科学家，哈佛大学化学系前教授",
+      "bio_zh": "化学家，开创了可与活体组织融合的纳米线和大孔网状电子，包括三维“赛博”组织支架。",
+      "why_zh": "他的网状电子是今天大多数嵌入类器官的电极技术的源头。",
+      "based_zh": "剑桥，美国",
+      "connected_to": [
+        "jia-liu"
+      ],
+      "discovered_via": "jia-liu"
+    },
+    {
+      "id": "sergiu-pasca",
+      "name": "Sergiu P. Pașca",
+      "kind": "person",
+      "role": "Professor of Psychiatry and Behavioral Sciences, Stanford University",
+      "based": "Stanford, US",
+      "bio": "Neuroscientist who developed human cortical organoids and assembloids, and transplanted human organoids into the rat brain where they joined its circuits.",
+      "why": "His work tests how far lab-grown human neural tissue can integrate with living bodies and devices.",
+      "links": {},
+      "role_zh": "斯坦福大学精神病学与行为科学教授",
+      "bio_zh": "神经科学家，开发了人类皮层类器官和“组装体”（assembloids），并把人类类器官移植进大鼠大脑，使其接入大鼠的神经回路。",
+      "why_zh": "他的研究检验了实验室培养的人类神经组织能在多大程度上与活体和设备融合。",
+      "based_zh": "斯坦福，美国",
+      "connected_to": [
+        "zhenan-bao",
+        "john-rogers"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "zhenan-bao",
+      "name": "Zhenan Bao",
+      "kind": "person",
+      "role": "Professor of Chemical Engineering, Stanford University",
+      "based": "Stanford, US",
+      "bio": "Materials scientist working on skin-like stretchable electronics, including kirigami-cut electrode sheets that follow growing organoids.",
+      "why": "She brings soft-material design to the problem of long-term contact with living neural tissue.",
+      "links": {
+        "site": "https://baogroup.stanford.edu"
+      },
+      "role_zh": "斯坦福大学化学工程教授",
+      "bio_zh": "材料科学家，研究类皮肤的可拉伸电子，包括能随类器官生长而变形的剪纸（kirigami）电极薄片。",
+      "why_zh": "她把软材料设计带进了“如何与活体神经组织长期接触”这一问题。",
+      "based_zh": "斯坦福，美国",
+      "connected_to": [
+        "sergiu-pasca"
+      ],
+      "discovered_via": "sergiu-pasca"
+    },
+    {
+      "id": "john-rogers",
+      "name": "John A. Rogers",
+      "kind": "person",
+      "role": "Professor of Materials Science and Biomedical Engineering, Northwestern University",
+      "based": "Evanston, US",
+      "bio": "Materials scientist known for bio-integrated and 3D-assembled electronics, including pop-up frameworks that wrap around neural spheroids.",
+      "why": "His 3D mesoscale frameworks show how an interface can be a small cage built around living tissue.",
+      "links": {
+        "site": "https://rogersgroup.northwestern.edu"
+      },
+      "role_zh": "美国西北大学材料科学与生物医学工程教授",
+      "bio_zh": "材料科学家，以生物集成电子和三维组装电子闻名，包括可包裹神经球体的弹出式三维框架。",
+      "why_zh": "他的三维介观框架展示了界面可以是一只围绕活体组织搭起来的小笼子。",
+      "based_zh": "埃文斯顿，美国",
+      "connected_to": [
+        "sergiu-pasca"
+      ],
+      "discovered_via": "sergiu-pasca"
+    },
+    {
+      "id": "kenneth-kosik",
+      "name": "Kenneth S. Kosik",
+      "kind": "person",
+      "role": "Professor of Neuroscience, University of California, Santa Barbara",
+      "based": "Santa Barbara, US",
+      "bio": "Neuroscientist whose lab recorded human brain organoids on high-density CMOS microelectrode arrays to map their circuits and oscillations.",
+      "why": "His recordings show what the electrical 'output' of an organoid looks like at single-neuron resolution.",
+      "links": {},
+      "role_zh": "加州大学圣塔芭芭拉分校神经科学教授",
+      "bio_zh": "神经科学家，他的实验室用高密度 CMOS 微电极阵列记录人类脑类器官，绘制其神经回路和振荡。",
+      "why_zh": "他的记录展示了类器官的电“输出”在单个神经元尺度上是什么样子。",
+      "based_zh": "圣塔芭芭拉，美国",
+      "connected_to": [
+        "alysson-muotri"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "alysson-muotri",
+      "name": "Alysson R. Muotri",
+      "kind": "person",
+      "role": "Professor of Pediatrics and Cellular & Molecular Medicine, UC San Diego",
+      "based": "San Diego, US",
+      "bio": "Stem-cell biologist whose cortical organoids produced EEG-like brain waves; he has linked organoids to robots and sent them to space.",
+      "why": "He pushed organoids from disease models toward embodied, brain-like systems and public debate about them.",
+      "links": {
+        "site": "https://muotri.ucsd.edu"
+      },
+      "role_zh": "加州大学圣地亚哥分校儿科学与细胞分子医学教授",
+      "bio_zh": "干细胞生物学家，他培养的皮层类器官产生了类似脑电图的脑波；他还把类器官连接到机器人上，并把它们送上太空。",
+      "why_zh": "他把类器官从疾病模型推向具身的、类脑的系统，也把相关讨论带入公众视野。",
+      "based_zh": "圣地亚哥，美国",
+      "connected_to": [
+        "braingeneers"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "braingeneers",
+      "name": "Braingeneers",
+      "kind": "lab",
+      "role": "Research group at UC Santa Cruz Genomics Institute (David Haussler, Mircea Teodorescu, Mohammed Mostajo-Radji)",
+      "based": "Santa Cruz, US",
+      "bio": "An interdisciplinary UC Santa Cruz group that runs organoid experiments through an internet-connected 'cloud lab' and trains cortical organoids in closed-loop tasks.",
+      "why": "They treat organoid experiments as networked, remotely operated systems and publish the tooling openly.",
+      "links": {
+        "site": "https://braingeneers.ucsc.edu",
+        "github": "https://github.com/braingeneers"
+      },
+      "role_zh": "加州大学圣克鲁兹分校基因组研究所的研究团队（David Haussler、Mircea Teodorescu、Mohammed Mostajo-Radji）",
+      "bio_zh": "加州大学圣克鲁兹分校的跨学科团队，通过联网的“云实验室”运行类器官实验，并在闭环任务中训练皮层类器官。",
+      "why_zh": "他们把类器官实验当作联网、可远程操作的系统来做，并公开发布工具。",
+      "based_zh": "圣克鲁兹，美国",
+      "connected_to": [
+        "alysson-muotri",
+        "kenneth-kosik"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "steve-potter",
+      "name": "Steve M. Potter",
+      "kind": "person",
+      "role": "Former Associate Professor of Biomedical Engineering, Georgia Institute of Technology",
+      "based": "Atlanta, US",
+      "bio": "Neuroengineer who embodied cultured rat neurons in simulated animals ('animats') and robots ('hybrots'), and co-created the MEART and Silent Barrage artworks with SymbioticA.",
+      "why": "He built the first closed-loop bodies for neurons in a dish and invited artists into the lab.",
+      "links": {
+        "site": "https://potterlab.gatech.edu"
+      },
+      "role_zh": "佐治亚理工学院生物医学工程系前副教授",
+      "bio_zh": "神经工程师，把培养的大鼠神经元接入模拟动物（“animat”）和机器人（“hybrot”），并与 SymbioticA 合作创作了 MEART 和 Silent Barrage。",
+      "why_zh": "他为培养皿里的神经元造出了最早的闭环身体，并把艺术家请进了实验室。",
+      "based_zh": "亚特兰大，美国",
+      "connected_to": [
+        "guy-ben-ary",
+        "thomas-demarse"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "thomas-demarse",
+      "name": "Thomas B. DeMarse",
+      "kind": "person",
+      "role": "Former Associate Professor of Biomedical Engineering, University of Florida",
+      "based": "Gainesville, US",
+      "bio": "Neuroengineer who trained a culture of about 25,000 rat cortical neurons to stabilise a simulated aircraft, after co-developing the animat with Steve Potter.",
+      "why": "His 'brain in a dish flies a plane' became a popular image of living neural computing.",
+      "links": {},
+      "role_zh": "佛罗里达大学生物医学工程系前副教授",
+      "bio_zh": "神经工程师，在与 Steve Potter 共同开发 animat 之后，训练约 2.5 万个大鼠皮层神经元去稳定一架模拟飞机。",
+      "why_zh": "他的“培养皿里的大脑开飞机”成了活体神经计算最广为人知的画面之一。",
+      "based_zh": "盖恩斯维尔，美国",
+      "connected_to": [
+        "steve-potter"
+      ],
+      "discovered_via": "steve-potter"
+    },
+    {
+      "id": "kevin-warwick",
+      "name": "Kevin Warwick",
+      "kind": "person",
+      "role": "Emeritus Professor of Engineering, Coventry University; formerly University of Reading",
+      "based": "Coventry, UK",
+      "bio": "Cybernetics researcher known for implant experiments on himself; his Reading team built Gordon, a wheeled robot driven by cultured rat neurons.",
+      "why": "Gordon made the idea of a robot with a living brain concrete and public.",
+      "links": {},
+      "role_zh": "考文垂大学工程学荣休教授，曾任职于雷丁大学",
+      "bio_zh": "控制论研究者，以在自己身上做植入实验闻名；他在雷丁大学的团队做出了由培养的大鼠神经元驱动的轮式机器人 Gordon。",
+      "why_zh": "Gordon 让“有活体大脑的机器人”这一想法变得具体并进入公众视野。",
+      "based_zh": "考文垂，英国",
+      "connected_to": [
+        "steve-potter"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "shimon-marom",
+      "name": "Shimon Marom",
+      "kind": "person",
+      "role": "Professor of Physiology, Technion – Israel Institute of Technology",
+      "based": "Haifa, IL",
+      "bio": "Neurophysiologist who showed in 2001 that cultured cortical networks can learn a stimulus-response task when stimulation stops as a reward.",
+      "why": "His 'stop the stimulus when you get it right' rule is the ancestor of the feedback used in DishBrain.",
+      "links": {},
+      "role_zh": "以色列理工学院生理学教授",
+      "bio_zh": "神经生理学家，2001 年证明：当刺激的停止被用作奖励时，培养的皮层网络可以学会一个刺激-反应任务。",
+      "why_zh": "他提出的“做对了就停止刺激”规则，是 DishBrain 反馈方式的前身。",
+      "based_zh": "海法，以色列",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "michela-chiappalone",
+      "name": "Michela Chiappalone",
+      "kind": "person",
+      "role": "Associate Professor of Bioengineering, University of Genoa; formerly Istituto Italiano di Tecnologia",
+      "based": "Genoa, IT",
+      "bio": "Bioengineer who embodied modular neuronal cultures in closed-loop robot navigation tasks.",
+      "why": "Her work links network structure in a dish to how well a neuro-robot behaves.",
+      "links": {},
+      "role_zh": "热那亚大学生物工程副教授，曾任职于意大利技术研究院",
+      "bio_zh": "生物工程师，把模块化的神经元培养物接入闭环机器人导航任务。",
+      "why_zh": "她的研究把培养皿中的网络结构与神经机器人的行为表现联系起来。",
+      "based_zh": "热那亚，意大利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "takuya-isomura",
+      "name": "Takuya Isomura",
+      "kind": "person",
+      "role": "Team Leader, Brain Intelligence Theory Unit, RIKEN Center for Brain Science",
+      "based": "Wako, JP",
+      "bio": "Theoretical neuroscientist who tests the free-energy principle with cultured neurons that learn to separate mixed signals.",
+      "why": "He uses neurons in a dish to test a general theory of how brains infer causes, not only to compute.",
+      "links": {},
+      "role_zh": "日本理化学研究所脑科学中心脑智能理论研究组组长",
+      "bio_zh": "理论神经科学家，用学会分离混合信号的培养神经元来检验自由能原理。",
+      "why_zh": "他用培养皿中的神经元来检验大脑如何推断原因的一般理论，而不只是用它们来计算。",
+      "based_zh": "和光，日本",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "hirokazu-takahashi",
+      "name": "Hirokazu Takahashi",
+      "kind": "person",
+      "role": "Professor of Mechano-Informatics, The University of Tokyo",
+      "based": "Tokyo, JP",
+      "bio": "Engineer whose lab uses living neuronal cultures as physical reservoirs to control robots.",
+      "why": "His lab treats a neuron culture as a physical computer, alongside other physical reservoirs.",
+      "links": {},
+      "role_zh": "东京大学机械信息学教授",
+      "bio_zh": "工程师，他的实验室把活体神经元培养物当作物理储备池来控制机器人。",
+      "why_zh": "他的实验室把神经元培养物当作一种物理计算机，与其他物理储备池并列研究。",
+      "based_zh": "东京，日本",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "koniku",
+      "name": "Koniku",
+      "kind": "company",
+      "role": "Wetware startup building smell sensors from living neurons",
+      "based": "California, US",
+      "bio": "Founded in 2015 by Oshiorenoya Agabi, Koniku builds devices that combine engineered neurons carrying olfactory receptors with silicon, aimed at detecting explosives and disease.",
+      "why": "One of the first companies to sell the idea of a neuron-based chip as a product rather than a research tool.",
+      "links": {
+        "site": "https://koniku.com"
+      },
+      "role_zh": "用活体神经元制造气味传感器的湿件初创公司",
+      "bio_zh": "Koniku 由 Oshiorenoya Agabi 于 2015 年创立，把带有嗅觉受体的工程神经元与硅结合，用于检测爆炸物和疾病。",
+      "why_zh": "它是最早把“神经元芯片”当作产品而不是研究工具来推广的公司之一。",
+      "based_zh": "加利福尼亚，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "tianjin-university",
+      "name": "Tianjin University Haptics & Brain-Computer Interface Team",
+      "kind": "lab",
+      "role": "Research team at Tianjin University working with the Southern University of Science and Technology",
+      "based": "Tianjin, CN",
+      "bio": "University team that built MetaBOC, an open-source brain-on-chip system that lets a brain organoid steer a small robot.",
+      "why": "It published organoid-robot control as open software, lowering the entry barrier for others.",
+      "links": {},
+      "role_zh": "天津大学与南方科技大学合作的研究团队",
+      "bio_zh": "高校研究团队，开发了开源的“片上脑”系统 MetaBOC，让脑类器官驾驶一台小型机器人。",
+      "why_zh": "它把类器官控制机器人的软件开源发布，降低了他人进入这个领域的门槛。",
+      "based_zh": "天津，中国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "the-thought-emporium",
+      "name": "The Thought Emporium",
+      "kind": "studio",
+      "role": "DIY science YouTube channel run by Justin Atkin",
+      "based": "Canada",
+      "bio": "A hobbyist biology and engineering lab on YouTube that grows rat neurons on home-made electrode arrays and tries to make them play Doom.",
+      "why": "It shows that neural-culture computing can be attempted, and failed, in the open by amateurs.",
+      "links": {
+        "youtube": "https://www.youtube.com/@thethoughtemporium"
+      },
+      "role_zh": "由 Justin Atkin 运营的 DIY 科学 YouTube 频道",
+      "bio_zh": "YouTube 上的业余生物与工程实验室，在自制电极阵列上培养大鼠神经元，并尝试让它们玩 Doom。",
+      "why_zh": "它表明业余爱好者也可以公开尝试神经培养物计算，包括公开失败。",
+      "based_zh": "加拿大",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "guy-ben-ary",
+      "name": "Guy Ben-Ary",
+      "kind": "person",
+      "role": "Artist and researcher, SymbioticA, The University of Western Australia",
+      "based": "Perth, AU",
+      "bio": "Bio-artist who has worked with living neurons since 2000: robotic drawing (MEART), neural synthesizers (cellF) and organoids grown from the composer Alvin Lucier's blood (Revivification).",
+      "why": "He has made neural cultures into performers and asked who the author is when neurons make art.",
+      "links": {
+        "site": "https://guybenary.com"
+      },
+      "role_zh": "西澳大学 SymbioticA 艺术家与研究者",
+      "bio_zh": "生物艺术家，自 2000 年起与活体神经元合作：机器人绘画（MEART）、神经合成器（cellF），以及用作曲家 Alvin Lucier 的血液培养出的类器官（Revivification）。",
+      "why_zh": "他把神经培养物变成表演者，并追问：当神经元创作艺术时，作者是谁？",
+      "based_zh": "珀斯，澳大利亚",
+      "connected_to": [
+        "steve-potter"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "horo-mo-x",
+      "name": "hOrO mO X",
+      "kind": "person",
+      "role": "Digital artist",
+      "based": "Paris, FR",
+      "bio": "Paris-based artist working with quantum randomness, AI and biocomputers; the MindWare series connects him to FinalSpark organoids.",
+      "why": "He treats a rented organoid as a partner in ritual and play, with attention to its possible suffering.",
+      "links": {
+        "site": "https://horomox.com"
+      },
+      "role_zh": "数字艺术家",
+      "bio_zh": "常驻巴黎的艺术家，创作涉及量子随机性、人工智能和生物计算机；MindWare 系列把他与 FinalSpark 的类器官连接起来。",
+      "why_zh": "他把一个租来的类器官当作仪式和游戏里的伙伴，并关注它可能承受的痛苦。",
+      "based_zh": "巴黎，法国",
+      "connected_to": [
+        "finalspark"
+      ],
+      "discovered_via": "finalspark"
+    },
+    {
+      "id": "amy-karle",
+      "name": "Amy Karle",
+      "kind": "person",
+      "role": "Artist working with bioart, AI and the body",
+      "based": "US",
+      "bio": "Artist and designer who works with living cells, 3D-printed tissue scaffolds and AI; Cortical Echoes turns neuron activity into music and speech.",
+      "why": "She designs the stage on which living neurons, humans and code meet.",
+      "links": {
+        "site": "https://www.amykarle.com"
+      },
+      "role_zh": "从事生物艺术、人工智能与身体创作的艺术家",
+      "bio_zh": "艺术家和设计师，使用活细胞、3D 打印组织支架和人工智能创作；《Cortical Echoes》把神经元活动转成音乐和语音。",
+      "why_zh": "她为活体神经元、人和代码的相遇设计舞台。",
+      "based_zh": "美国",
+      "connected_to": [
+        "eduardo-miranda",
+        "cortical-labs"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "eduardo-miranda",
+      "name": "Eduardo Reck Miranda",
+      "kind": "person",
+      "role": "Professor of Computer Music, University of Plymouth; head of ICCMR",
+      "based": "Plymouth, UK",
+      "bio": "Composer and researcher in unconventional computing and music, from biocomputers to quantum computers.",
+      "why": "He composes with non-silicon computers and treats them as musical partners.",
+      "links": {},
+      "role_zh": "普利茅斯大学计算机音乐教授，计算机音乐跨学科研究中心（ICCMR）负责人",
+      "bio_zh": "作曲家，研究非常规计算与音乐，从生物计算机到量子计算机。",
+      "why_zh": "他用非硅基计算机作曲，并把它们当作音乐伙伴。",
+      "based_zh": "普利茅斯，英国",
+      "connected_to": [
+        "amy-karle"
+      ],
+      "discovered_via": "amy-karle"
+    },
+    {
+      "id": "nefeli-manoudaki",
+      "name": "Nefeli Manoudaki",
+      "kind": "person",
+      "role": "Media artist and researcher, Media Arts and Technology, UC Santa Barbara",
+      "based": "Santa Barbara, US",
+      "bio": "Architect and media artist who co-created Simulacra Naturae, an installation driven by recorded brain organoid activity.",
+      "why": "Her work uses organoid signals as a co-creative influence on an ecosystem, not as a control input.",
+      "links": {},
+      "role_zh": "加州大学圣塔芭芭拉分校媒体艺术与技术项目的媒体艺术家与研究者",
+      "bio_zh": "建筑师和媒体艺术家，与团队共同创作了由脑类器官活动记录驱动的装置《Simulacra Naturae》。",
+      "why_zh": "她的作品把类器官信号当作影响生态系统的共创力量，而不是控制指令。",
+      "based_zh": "圣塔芭芭拉，美国",
+      "connected_to": [
+        "kenneth-kosik"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "andrea-lavazza",
+      "name": "Andrea Lavazza",
+      "kind": "person",
+      "role": "Philosopher; Senior Research Fellow, Centro Universitario Internazionale, Arezzo",
+      "based": "Arezzo, IT",
+      "bio": "Philosopher of mind and neuroethicist who, with Marcello Massimini, first set out how to assess possible consciousness in cerebral organoids.",
+      "why": "He made organoid consciousness a practical ethics question with proposed tests.",
+      "links": {},
+      "role_zh": "哲学家，阿雷佐国际大学中心高级研究员",
+      "bio_zh": "心灵哲学家和神经伦理学家，与 Marcello Massimini 最早提出了如何评估脑类器官可能具有的意识。",
+      "why_zh": "他把类器官意识变成了一个有具体检测方案的实际伦理问题。",
+      "based_zh": "阿雷佐，意大利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "nita-farahany",
+      "name": "Nita A. Farahany",
+      "kind": "person",
+      "role": "Professor of Law and Philosophy, Duke University",
+      "based": "Durham, US",
+      "bio": "Legal scholar and ethicist of neurotechnology who led a 2018 call in Nature for ethical rules on experiments with human brain tissue, organoids and chimeras.",
+      "why": "She moved the debate on brain surrogates from lab corridors to policy.",
+      "links": {
+        "site": "https://law.duke.edu/fac/farahany"
+      },
+      "role_zh": "杜克大学法学与哲学教授",
+      "bio_zh": "研究神经技术的法学学者和伦理学家，2018 年在《自然》上牵头呼吁为人脑组织、类器官和嵌合体实验制定伦理规则。",
+      "why_zh": "她把关于“大脑替代物”的讨论从实验室带进了政策层面。",
+      "based_zh": "达勒姆，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "national-academies",
+      "name": "National Academies of Sciences, Engineering, and Medicine",
+      "kind": "lab",
+      "role": "US non-profit institution that advises on science policy",
+      "based": "Washington, DC, US",
+      "bio": "Independent US institution that produces consensus reports; in 2021 it reviewed the science and ethics of human neural organoids, transplants and chimeras.",
+      "why": "Its report is a reference point for what current organoids can and cannot do.",
+      "links": {
+        "site": "https://www.nationalacademies.org"
+      },
+      "role_zh": "为科学政策提供咨询的美国非营利机构",
+      "bio_zh": "独立的美国机构，发布共识报告；2021 年评估了人类神经类器官、移植和嵌合体的科学与伦理。",
+      "why_zh": "它的报告是判断当前类器官能做什么、不能做什么的参照。",
+      "based_zh": "华盛顿特区，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "karola-kreitmair",
+      "name": "Karola V. Kreitmair",
+      "kind": "person",
+      "role": "Assistant Professor of Medical History and Bioethics, University of Wisconsin–Madison",
+      "based": "Madison, US",
+      "bio": "Bioethicist who writes on neurotechnology and on how uncertainty about consciousness should shape brain organoid research.",
+      "why": "She offers a precautionary framework for organoids whose inner life cannot be ruled out.",
+      "links": {},
+      "role_zh": "威斯康星大学麦迪逊分校医学史与生命伦理学助理教授",
+      "bio_zh": "生命伦理学家，研究神经技术，以及对意识的不确定性应如何影响脑类器官研究。",
+      "why_zh": "对于无法排除内在体验的类器官，她提供了一个预防性伦理框架。",
+      "based_zh": "麦迪逊，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lomax-boyd",
+      "name": "J. Lomax Boyd",
+      "kind": "person",
+      "role": "Assistant Professor, Berman Institute of Bioethics, Johns Hopkins University",
+      "based": "Baltimore, US",
+      "bio": "Neuroscientist and bioethicist who studies public and expert attitudes toward brain organoids and embodied biocomputing.",
+      "why": "He measures how people actually judge embodied organoids, giving design ethics an empirical base.",
+      "links": {},
+      "role_zh": "约翰斯·霍普金斯大学伯曼生命伦理研究所助理教授",
+      "bio_zh": "神经科学家和生命伦理学家，研究公众和专家如何看待脑类器官与具身生物计算。",
+      "why_zh": "他测量人们实际上如何评判具身类器官，为设计伦理提供实证基础。",
+      "based_zh": "巴尔的摩，美国",
+      "connected_to": [
+        "thomas-hartung"
+      ],
+      "discovered_via": "thomas-hartung"
+    },
+    {
+      "id": "jenn-leung",
+      "name": "Jenn Leung",
+      "kind": "person",
+      "role": "Designer and researcher, University of the Arts London; Antikythera studio",
+      "based": "London, UK",
+      "bio": "Designer and researcher who works on computation, simulation and games; co-author of a design-space study of organoid array computing for Antikythera.",
+      "why": "She approaches organoid intelligence as a design space for architectures, not only as a lab result.",
+      "links": {},
+      "role_zh": "伦敦艺术大学设计师与研究者；Antikythera 工作室成员",
+      "bio_zh": "研究计算、模拟与游戏的设计师和研究者；为 Antikythera 合著了关于类器官阵列计算设计空间的研究。",
+      "why_zh": "她把类器官智能当作一个架构设计空间来研究，而不仅仅是一项实验结果。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "benjamin-ward-cherrier",
+      "name": "Benjamin Ward-Cherrier",
+      "kind": "person",
+      "role": "Robotics researcher, University of Bristol",
+      "based": "Bristol, UK",
+      "bio": "Robotics researcher working on neuromorphic tactile sensing; his group used FinalSpark organoids to classify Braille from an artificial fingertip.",
+      "why": "His group connects robot touch sensors to living neural tissue.",
+      "links": {},
+      "role_zh": "布里斯托大学机器人研究者",
+      "bio_zh": "机器人研究者，研究类脑触觉传感；他的团队用 FinalSpark 的类器官对人工指尖读取的盲文进行分类。",
+      "why_zh": "他的团队把机器人的触觉传感器连接到活体神经组织上。",
+      "based_zh": "布里斯托，英国",
+      "connected_to": [
+        "finalspark"
+      ],
+      "discovered_via": "finalspark"
+    }
+  ],
+  "works": [
+    {
+      "id": "cortical-labs--dishbrain",
+      "creator_ids": [
+        "cortical-labs",
+        "brett-kagan"
+      ],
+      "title": "DishBrain: In vitro neurons learn and exhibit sentience when embodied in a simulated game-world",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "About 800,000 mouse and human neurons on a high-density electrode array were connected to a simulated game of Pong. Within five minutes of play the cultures hit the ball more often when the game gave them predictable feedback for hits and unpredictable noise for misses.",
+      "description_zh": "约 80 万个小鼠和人类神经元被放在高密度电极阵列上，接入一个模拟的 Pong 游戏。击中球时给出可预测的反馈、漏球时给出随机噪声，五分钟内这些培养物击中球的次数就明显增加。",
+      "idea_en": "Neurons in a dish can learn a game if the world answers them in a predictable way when they succeed.",
+      "idea_zh": "只要世界在它们成功时给出可预测的回应，培养皿里的神经元就能学会一个游戏。",
+      "method": "Ball position was encoded as electrical stimulation at sensory electrodes, paddle movement was decoded from activity in motor regions, and misses triggered random stimulation, following the free-energy principle.",
+      "method_zh": "球的位置被编码成感觉区电极上的电刺激，球拍动作从运动区的活动中解码；按照自由能原理，漏球时会触发随机刺激。",
+      "keywords": [
+        "DishBrain",
+        "Pong",
+        "Synthetic Biological Intelligence",
+        "HD-MEA",
+        "free-energy principle"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9ksLuRoEq6A"
+      },
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fc9c/9747182/12018c84d073/fx1.jpg",
+        "https://corticallabs.com/images/neuron-on-chip.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.neuron.2022.09.001",
+        "doi": "10.1016/j.neuron.2022.09.001",
+        "arxiv": "",
+        "venue": "Neuron 2022"
+      },
+      "source_url": "https://corticallabs.com"
+    },
+    {
+      "id": "cortical-labs--cl1",
+      "creator_ids": [
+        "cortical-labs"
+      ],
+      "title": "CL1 biological computer",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "product",
+      "description": "A self-contained unit that keeps about 800,000 human neurons alive on a silicon electrode chip for up to six months and runs user code against them in real time. It was launched in Barcelona in March 2025 at about US$35,000.",
+      "description_zh": "一台独立设备，让约 80 万个人类神经元在硅电极芯片上存活最长六个月，并实时运行用户代码与它们交互。2025 年 3 月在巴塞罗那发布，售价约 3.5 万美元。",
+      "idea_en": "A biological computer packaged like a lab instrument: life support, electrodes and an SDK in one box.",
+      "idea_zh": "把生物计算机做成一台实验仪器：生命维持、电极和开发工具包装在一个盒子里。",
+      "method": "Human iPSC-derived neurons grow on a planar multi-electrode array; a built-in perfusion system with filtration, gas mixing and temperature control keeps them alive, and a Python API sends stimuli and reads spikes with sub-millisecond latency.",
+      "method_zh": "由人类诱导多能干细胞分化的神经元生长在平面多电极阵列上；内置的灌流系统负责过滤、气体混合和温控以维持其存活，Python 接口以亚毫秒延迟发送刺激并读取放电。",
+      "keywords": [
+        "CL1",
+        "biOS",
+        "wetware",
+        "human iPSC neurons",
+        "MEA",
+        "SDK"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=3KeC8gxopio"
+      },
+      "images": [
+        "https://corticallabs.com/images/footer-device.jpg",
+        "https://corticallabs.com/images/card-device.png"
+      ],
+      "source_url": "https://corticallabs.com/cl1"
+    },
+    {
+      "id": "cortical-labs--cortical-cloud",
+      "creator_ids": [
+        "cortical-labs"
+      ],
+      "title": "Cortical Cloud",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "product",
+      "description": "A remote-access service where developers rent time on racks of CL1 units and run experiments on living neurons through the browser, without owning a wet lab.",
+      "description_zh": "一项远程访问服务：开发者租用成排 CL1 设备的使用时间，通过浏览器在活体神经元上运行实验，不需要自己拥有湿实验室。",
+      "idea_en": "Wetware-as-a-service: living neurons offered like cloud GPUs.",
+      "idea_zh": "“湿件即服务”：像云端 GPU 一样出租活体神经元。",
+      "method": "Server stacks of networked CL1 units are exposed through a cloud interface and Python SDK, so user code is deployed to cultures maintained by the company.",
+      "method_zh": "由联网 CL1 组成的服务器机架通过云端界面和 Python 开发工具包对外开放，用户代码被部署到由公司维护的神经培养物上。",
+      "keywords": [
+        "Cortical Cloud",
+        "Wetware-as-a-Service",
+        "CL1",
+        "remote lab"
+      ],
+      "images": [
+        "https://corticallabs.com/images/c-share.jpg"
+      ],
+      "source_url": "https://corticallabs.com/cloud.html"
+    },
+    {
+      "id": "cortical-labs--doom",
+      "creator_ids": [
+        "cortical-labs"
+      ],
+      "title": "Living human neurons play DOOM on a CL1",
+      "year": 2026,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "About 200,000 human neurons on a CL1 chip were connected to Freedoom, a free version of the 1993 shooter. The culture moved through corridors, met enemies and fired, clumsily and with frequent deaths; an independent developer built the setup in about a week using the public API.",
+      "description_zh": "约 20 万个人类神经元在 CL1 芯片上接入了 Freedoom（1993 年射击游戏的免费版本）。这团神经元会在走廊里移动、遭遇敌人并开火，动作笨拙、经常死亡；搭建者是一位独立开发者，借助公开的 API 用了大约一周。",
+      "idea_en": "Once neurons have an API, 'can it run DOOM?' becomes a test anyone can try on living tissue.",
+      "idea_zh": "一旦神经元有了 API，“它能跑 DOOM 吗？”就成了任何人都能在活体组织上尝试的测试。",
+      "method": "Game screen information was translated into patterns of electrical stimulation, and spiking responses were decoded into movement and firing commands in a closed loop running on the CL1.",
+      "method_zh": "游戏画面信息被转成电刺激模式，神经元的放电反应被解码为移动和开火指令，整个闭环在 CL1 上运行。",
+      "keywords": [
+        "DOOM",
+        "Freedoom",
+        "CL1",
+        "closed loop",
+        "game"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE"
+      },
+      "images": [
+        "https://static.scientificamerican.com/dam/m/5615652e83eaa237/original/GettyImages-2187865154.jpg?m=1774653169.265&w=1200"
+      ],
+      "source_url": "https://corticallabs.com/doom.html"
+    },
+    {
+      "id": "cortical-labs--critical-dynamics",
+      "creator_ids": [
+        "cortical-labs",
+        "brett-kagan"
+      ],
+      "title": "Critical dynamics arise during structured information presentation within embodied in vitro neuronal networks",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Using DishBrain recordings, the team showed that neural cultures move close to a 'critical' state, balanced between order and chaos, only when they receive structured game information, and that this state goes with better play.",
+      "description_zh": "团队利用 DishBrain 的记录发现：只有在接收有结构的游戏信息时，神经培养物才会接近介于有序与混沌之间的“临界”状态，而这种状态与更好的游戏表现相伴。",
+      "idea_en": "Criticality in a culture is a response to meaningful input, not something it has on its own.",
+      "idea_zh": "神经培养物的临界状态是对有意义输入的反应，而不是它自带的属性。",
+      "method": "Neuronal avalanches and related criticality metrics were computed from high-density MEA spike data recorded during gameplay and rest.",
+      "method_zh": "从游戏和静息期间记录的高密度微电极阵列放电数据中，计算神经元雪崩及相关临界性指标。",
+      "keywords": [
+        "criticality",
+        "neuronal avalanches",
+        "DishBrain",
+        "embodiment"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-41020-3/MediaObjects/41467_2023_41020_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41467-023-41020-3",
+        "doi": "10.1038/s41467-023-41020-3",
+        "arxiv": "",
+        "venue": "Nature Communications 2023"
+      }
+    },
+    {
+      "id": "cortical-labs--vs-deep-rl",
+      "creator_ids": [
+        "cortical-labs",
+        "brett-kagan"
+      ],
+      "title": "Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "DishBrain cultures and three deep reinforcement learning agents (DQN, A2C, PPO) were given the same limited number of Pong rallies. With so few samples, the living cultures learned faster than the algorithms.",
+      "description_zh": "研究给 DishBrain 神经培养物和三种深度强化学习算法（DQN、A2C、PPO）同样有限次数的 Pong 回合。样本如此之少时，活体培养物比算法学得更快。",
+      "idea_en": "Measured per sample, neurons are efficient learners; this matters when data and energy are scarce.",
+      "idea_zh": "按每个样本计算，神经元是高效的学习者；在数据和能量稀缺时，这一点很重要。",
+      "method": "Learning curves of in vitro networks on an HD-MEA were compared with time-matched training of DQN, A2C and PPO agents in the same simplified Pong environment.",
+      "method_zh": "在同一个简化 Pong 环境中，比较高密度微电极阵列上的体外网络与按时间匹配训练的 DQN、A2C、PPO 智能体的学习曲线。",
+      "keywords": [
+        "sample efficiency",
+        "reinforcement learning",
+        "DQN",
+        "PPO",
+        "Pong"
+      ],
+      "images": [
+        "https://arxiv.org/html/2405.16946v1/Figures/Figure_1.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2405.16946",
+        "doi": "",
+        "arxiv": "2405.16946",
+        "venue": "arXiv 2024"
+      }
+    },
+    {
+      "id": "cortical-labs--sbi-review",
+      "creator_ids": [
+        "brett-kagan",
+        "cortical-labs"
+      ],
+      "title": "The technology, opportunities, and challenges of Synthetic Biological Intelligence",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "A review that defines Synthetic Biological Intelligence, surveys the hardware, cell sources and training methods needed to make living neurons compute, and lists open problems.",
+      "description_zh": "一篇综述，定义了“合成生物智能”，梳理让活体神经元计算所需的硬件、细胞来源和训练方法，并列出尚未解决的问题。",
+      "idea_en": "A map of the full stack of a biological computer, from cells to software.",
+      "idea_zh": "一张生物计算机全栈地图：从细胞到软件。",
+      "method": "Literature review covering stem-cell derived neurons, microelectrode arrays, closed-loop feedback, and the software and ethics layers around them.",
+      "method_zh": "综述内容涵盖干细胞来源的神经元、微电极阵列、闭环反馈，以及围绕它们的软件与伦理层面。",
+      "keywords": [
+        "Synthetic Biological Intelligence",
+        "review",
+        "biocomputing stack"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/256f/10804936/ac4bfda9d037/gr1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.biotechadv.2023.108233",
+        "doi": "10.1016/j.biotechadv.2023.108233",
+        "arxiv": "",
+        "venue": "Biotechnology Advances 2023"
+      }
+    },
+    {
+      "id": "cortical-labs--organoid-ethics",
+      "creator_ids": [
+        "brett-kagan",
+        "cortical-labs"
+      ],
+      "title": "Neurons Embodied in a Virtual World: Evidence for Organoid Ethics?",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "An ethics commentary by the DishBrain team asking what moral status, if any, a neural culture that responds to a game world could have, and which safeguards researchers should adopt now.",
+      "description_zh": "DishBrain 团队撰写的伦理评论：一个会对游戏世界作出反应的神经培养物，可能拥有怎样的道德地位？研究者现在应采取哪些防护措施？",
+      "idea_en": "The builders of a system should also be the first to state its ethical limits.",
+      "idea_zh": "系统的建造者也应该最先说明它的伦理边界。",
+      "method": "Conceptual analysis linking DishBrain's goal-directed behaviour to debates on sentience, consciousness and research governance.",
+      "method_zh": "概念分析，把 DishBrain 的目标导向行为与关于感受性、意识和研究治理的讨论联系起来。",
+      "keywords": [
+        "sentience",
+        "moral status",
+        "DishBrain",
+        "neuroethics"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1080/21507740.2022.2048731",
+        "doi": "10.1080/21507740.2022.2048731",
+        "arxiv": "",
+        "venue": "AJOB Neuroscience 2022"
+      }
+    },
+    {
+      "id": "cortical-labs--bio-data-centres",
+      "creator_ids": [
+        "cortical-labs"
+      ],
+      "title": "Biological data centres",
+      "year": 2026,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "product",
+      "description": "Cortical Labs announced two data centres built from racks of CL1 units, one in Melbourne and one in Singapore, the latter with researchers at the National University of Singapore.",
+      "description_zh": "Cortical Labs 宣布建设两个由成排 CL1 组成的数据中心，一个在墨尔本，一个在新加坡，后者与新加坡国立大学的研究者合作。",
+      "idea_en": "What would a server room look like if its processors needed feeding?",
+      "idea_zh": "如果处理器需要“喂养”，机房会是什么样子？",
+      "method": "Many CL1 units, each carrying living human neurons on a multi-electrode array, are networked in server racks with shared life support and remote access.",
+      "method_zh": "许多台 CL1（每台都在多电极阵列上承载活体人类神经元）装进服务器机架联网，共享生命维持系统并支持远程访问。",
+      "keywords": [
+        "data centre",
+        "CL1",
+        "Singapore",
+        "Melbourne",
+        "energy"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=mwISkfdRN4o"
+      },
+      "images": [
+        "https://gizmodo.com/app/uploads/2025/03/CorticalLabs-1200x675.jpg"
+      ],
+      "source_url": "https://gizmodo.com/the-company-that-made-a-dish-of-neurons-play-doom-is-getting-into-brain-cell-powered-data-centers-2000731875"
+    },
+    {
+      "id": "finalspark--neuroplatform",
+      "creator_ids": [
+        "finalspark"
+      ],
+      "title": "Neuroplatform: open and remotely accessible wetware computing",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "product",
+      "description": "An online platform where 16 human forebrain organoids sit on multi-electrode arrays in incubators in Switzerland, and researchers anywhere stimulate and record them through Python notebooks. The paper reports more than 1,000 organoids kept over three years.",
+      "description_zh": "一个在线平台：瑞士培养箱中的 16 个人类前脑类器官放在多电极阵列上，各地的研究者都可以通过 Python 笔记本刺激和记录它们。论文报告了三年间维护超过 1000 个类器官的经验。",
+      "idea_en": "Organoids as a shared, always-on instrument that you log into rather than grow yourself.",
+      "idea_zh": "类器官成为一台共享、常开的仪器：你登录使用，而不必自己培养。",
+      "method": "iPSC-derived forebrain organoids on 8-electrode MEAs are kept alive by microfluidic perfusion; stimulation, recording, UV-uncaging of molecules and live video are exposed through a remote API.",
+      "method_zh": "由诱导多能干细胞分化的前脑类器官放在 8 电极微电极阵列上，靠微流控灌流维持存活；刺激、记录、紫外光释放分子和实时视频都通过远程 API 开放。",
+      "keywords": [
+        "Neuroplatform",
+        "brain organoids",
+        "remote access",
+        "Python",
+        "MEA",
+        "energy efficiency"
+      ],
+      "video": {
+        "url": "https://filedn.eu/lRqRnQL0KhFYX3vj9AlOhUF/neuroplatform.mp4"
+      },
+      "images": [
+        "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1376042/frai-07-1376042-HTML-r1/image_m/frai-07-1376042-g001.jpg",
+        "https://finalspark.com/wp-content/themes/divi-creative-agency/images/organoid-5.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/frai.2024.1376042",
+        "doi": "10.3389/frai.2024.1376042",
+        "arxiv": "",
+        "venue": "Frontiers in Artificial Intelligence 2024"
+      },
+      "source_url": "https://finalspark.com/neuroplatform/"
+    },
+    {
+      "id": "finalspark--butterfly",
+      "creator_ids": [
+        "finalspark"
+      ],
+      "title": "Organoid-controlled virtual butterfly",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "A public web demo in which visitors click in a 3D scene and a butterfly flies toward the click or not, depending on how a remote brain organoid responds to the stimulus.",
+      "description_zh": "一个公开的网页演示：访客在三维场景中点击，蝴蝶是否飞向点击处，取决于远端脑类器官对刺激的反应。",
+      "idea_en": "Let the public touch a living computer through a browser, with a gentle and legible metaphor.",
+      "idea_zh": "用一个温和、易懂的隐喻，让公众通过浏览器触碰一台活的计算机。",
+      "method": "Clicks inside the butterfly's field of view become electrical stimuli sent to an organoid on the Neuroplatform; its evoked spikes are decoded into flight direction in real time.",
+      "method_zh": "落在蝴蝶视野内的点击被转成电刺激，发送给 Neuroplatform 上的类器官；它被诱发的放电被实时解码为飞行方向。",
+      "keywords": [
+        "butterfly",
+        "web demo",
+        "Neuroplatform",
+        "public engagement"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=5wILRLhAq1g"
+      },
+      "images": [
+        "https://image.theregister.com/257569.jpg?imageId=257569&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683"
+      ],
+      "source_url": "https://butterfly.finalspark.com/"
+    },
+    {
+      "id": "benjamin-ward-cherrier--braille-organoids",
+      "creator_ids": [
+        "benjamin-ward-cherrier",
+        "finalspark"
+      ],
+      "title": "Encoding Tactile Stimuli for Braille Recognition with Organoids",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Touch data from an event-based robotic fingertip reading Braille was turned into electrical pulses for human forebrain organoids on FinalSpark's platform, and the organoids' responses were used to tell letters apart.",
+      "description_zh": "一个事件型机器人指尖读取盲文时产生的触觉数据，被转成电脉冲输入 FinalSpark 平台上的人类前脑类器官，再利用类器官的反应来区分字母。",
+      "idea_en": "Organoids can serve as the 'sensory cortex' of a robot's sense of touch.",
+      "idea_zh": "类器官可以充当机器人触觉的“感觉皮层”。",
+      "method": "Tactile events from the Evetac sensor were mapped to stimulation parameters (pulse number, amplitude, duration, delay); spike counts and shifts in the centre of activity were classified.",
+      "method_zh": "Evetac 传感器的触觉事件被映射为刺激参数（脉冲数、幅度、时长、延迟），再对放电数和活动中心的偏移进行分类。",
+      "keywords": [
+        "Braille",
+        "tactile sensing",
+        "Evetac",
+        "robotics",
+        "FinalSpark"
+      ],
+      "images": [
+        "https://arxiv.org/html/2508.20850v3/M1_finalspark.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2508.20850",
+        "doi": "",
+        "arxiv": "2508.20850",
+        "venue": "arXiv 2025"
+      }
+    },
+    {
+      "id": "feng-guo--brainoware",
+      "creator_ids": [
+        "feng-guo"
+      ],
+      "title": "Brainoware: Brain organoid reservoir computing for artificial intelligence",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "A living brain organoid on a microelectrode array served as the 'reservoir' of a reservoir-computing system and helped recognise Japanese vowels from different speakers and predict a chaotic equation.",
+      "description_zh": "放在微电极阵列上的活体脑类器官被用作储备池计算系统中的“储备池”，帮助识别不同说话人的日语元音，并预测一个混沌方程。",
+      "idea_en": "Use the tissue as-is: let the organoid's own dynamics transform inputs and train only a simple readout.",
+      "idea_zh": "保持组织原样：让类器官自身的动态去变换输入，只训练一个简单的读出层。",
+      "method": "Audio features were encoded as spatiotemporal electrical stimulation; the organoid's evoked activity was recorded and a linear readout was trained, with unsupervised plasticity in the tissue improving accuracy over time.",
+      "method_zh": "音频特征被编码为时空电刺激，记录类器官的诱发活动并训练线性读出层；组织中的无监督可塑性让准确率随时间提高。",
+      "keywords": [
+        "Brainoware",
+        "reservoir computing",
+        "speech recognition",
+        "Hénon map"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-023-01069-w/MediaObjects/41928_2023_1069_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41928-023-01069-w",
+        "doi": "10.1038/s41928-023-01069-w",
+        "arxiv": "",
+        "venue": "Nature Electronics 2023"
+      }
+    },
+    {
+      "id": "lena-smirnova--organoid-intelligence",
+      "creator_ids": [
+        "lena-smirnova",
+        "thomas-hartung",
+        "brett-kagan"
+      ],
+      "title": "Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "The paper that named Organoid Intelligence. It proposes scaling up brain organoids, interfacing them with 3D electrodes, and training them with machine learning to build biocomputers, with ethics built into the programme.",
+      "description_zh": "为“类器官智能”命名的论文。它提出扩大脑类器官的规模、用三维电极与之连接、用机器学习训练它们来构建生物计算机，并把伦理纳入整个计划。",
+      "idea_en": "A research agenda that names a field, its tools and its ethics in one document.",
+      "idea_zh": "一份研究议程，在同一份文件中为一个领域命名，并列出它的工具和伦理问题。",
+      "method": "Roadmap paper combining organoid biology, 3D microelectrode arrays, big-data and AI methods, and an embedded ethics approach.",
+      "method_zh": "路线图论文，结合类器官生物学、三维微电极阵列、大数据与人工智能方法，以及嵌入式伦理方法。",
+      "keywords": [
+        "Organoid Intelligence",
+        "OI",
+        "roadmap",
+        "Johns Hopkins"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=A1fXvgKVTmk"
+      },
+      "images": [
+        "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1017235/fsci-01-1017235-HTML-r9/image_m/fsci-01-1017235-g001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/fsci.2023.1017235",
+        "doi": "10.3389/fsci.2023.1017235",
+        "arxiv": "",
+        "venue": "Frontiers in Science 2023"
+      }
+    },
+    {
+      "id": "thomas-hartung--baltimore-declaration",
+      "creator_ids": [
+        "thomas-hartung",
+        "lena-smirnova"
+      ],
+      "title": "The Baltimore declaration toward the exploration of organoid intelligence",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "publication",
+      "description": "A short statement signed by participants of a 2022 workshop in Baltimore that commits Organoid Intelligence research to ethical guidance, public engagement and responsible scaling.",
+      "description_zh": "2022 年巴尔的摩研讨会参与者签署的简短声明，承诺类器官智能研究要接受伦理指导、开展公众参与并负责任地扩大规模。",
+      "idea_en": "Write the rules before the capability arrives.",
+      "idea_zh": "在能力出现之前先写好规则。",
+      "method": "Consensus statement drafted by researchers and ethicists at the first Organoid Intelligence workshop.",
+      "method_zh": "由首届类器官智能研讨会上的研究者和伦理学者共同起草的共识声明。",
+      "keywords": [
+        "Baltimore Declaration",
+        "governance",
+        "Organoid Intelligence"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7G6f1JaIg7w"
+      },
+      "paper": {
+        "url": "https://doi.org/10.3389/fsci.2023.1068159",
+        "doi": "10.3389/fsci.2023.1068159",
+        "arxiv": "",
+        "venue": "Frontiers in Science 2023"
+      }
+    },
+    {
+      "id": "lena-smirnova--learning-memory",
+      "creator_ids": [
+        "lena-smirnova",
+        "thomas-hartung"
+      ],
+      "title": "Human neural organoid microphysiological systems show the building blocks necessary for basic learning and memory",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Johns Hopkins researchers showed that mature human neural organoids have the molecular and electrophysiological ingredients of learning, including short- and long-term plasticity and immediate-early gene responses.",
+      "description_zh": "约翰斯·霍普金斯大学的研究者证明，成熟的人类神经类器官具备学习所需的分子和电生理要素，包括短期与长期可塑性以及即早基因反应。",
+      "idea_en": "Before asking organoids to compute, check that they have the parts that make learning possible.",
+      "idea_zh": "在要求类器官计算之前，先确认它们具备让学习成为可能的部件。",
+      "method": "Organoids were grown for weeks, then tested with gene-expression analysis and MEA recordings of plasticity after patterned stimulation.",
+      "method_zh": "类器官培养数周后，用基因表达分析和模式化刺激后的微电极阵列可塑性记录进行检验。",
+      "keywords": [
+        "synaptic plasticity",
+        "learning",
+        "memory",
+        "microphysiological systems"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-025-08632-5/MediaObjects/42003_2025_8632_Figa_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s42003-025-08632-5",
+        "doi": "10.1038/s42003-025-08632-5",
+        "arxiv": "",
+        "venue": "Communications Biology 2025"
+      }
+    },
+    {
+      "id": "david-gracias--shell-mea",
+      "creator_ids": [
+        "david-gracias",
+        "lena-smirnova"
+      ],
+      "title": "Shell microelectrode arrays (MEAs) for brain organoids",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Tiny self-folding shells lined with electrodes close around a spherical brain organoid like a clam, recording activity from its whole surface instead of only the underside that touches a flat chip.",
+      "description_zh": "带电极的微小自折叠壳像蚌壳一样合拢在球形脑类器官周围，从它的整个表面记录活动，而不只是记录贴在平面芯片上的底面。",
+      "idea_en": "Fit the interface to the organism's shape, not the organism to the interface.",
+      "idea_zh": "让界面适应生物的形状，而不是让生物适应界面。",
+      "method": "Photolithographically patterned polymer bilayers with gold electrodes self-fold into 3D shells when released, enclosing organoids for stimulation and recording.",
+      "method_zh": "带金电极的光刻聚合物双层结构在释放后自折叠成三维壳，包住类器官用于刺激和记录。",
+      "keywords": [
+        "shell MEA",
+        "self-folding",
+        "3D electrodes",
+        "EEG-like recording"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa27/9385157/0854adb5aee1/sciadv.abq5031-f1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.abq5031",
+        "doi": "10.1126/sciadv.abq5031",
+        "arxiv": "",
+        "venue": "Science Advances 2022"
+      }
+    },
+    {
+      "id": "jia-liu--cyborg-organoids",
+      "creator_ids": [
+        "jia-liu"
+      ],
+      "title": "Cyborg Organoids: Implantation of Nanoelectronics via Organogenesis for Tissue-Wide Electrophysiology",
+      "year": 2019,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons",
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "A stretchable mesh of electronics is laid on a flat sheet of stem cells; as the sheet folds into a 3D organoid, the mesh is folded inside it, leaving sensors spread through the grown tissue.",
+      "description_zh": "把可拉伸的网状电子铺在一层扁平的干细胞上；当细胞层折叠成三维类器官时，网状电子也被折进内部，传感器便分布在长成的组织之中。",
+      "idea_en": "Let the tissue build the device into itself as it grows.",
+      "idea_zh": "让组织在生长时把设备长进自己体内。",
+      "method": "Ultra-flexible, stretchable nanoelectronic meshes were placed on 2D stem-cell sheets that self-assembled into 3D organoids through organogenesis.",
+      "method_zh": "把超柔性、可拉伸的纳米电子网放在二维干细胞层上，这些细胞层通过器官发生自组装成三维类器官。",
+      "keywords": [
+        "cyborg organoid",
+        "mesh electronics",
+        "organogenesis",
+        "stretchable electronics"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=nCU3xlZw3xo"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1021/acs.nanolett.9b02512",
+        "doi": "10.1021/acs.nanolett.9b02512",
+        "arxiv": "",
+        "venue": "Nano Letters 2019"
+      }
+    },
+    {
+      "id": "jia-liu--stretchable-mesh",
+      "creator_ids": [
+        "jia-liu"
+      ],
+      "title": "Stretchable Mesh Nanoelectronics for 3D Single-Cell Chronic Electrophysiology from Developing Brain Organoids",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Mesh electronics grown into human brain organoids tracked the same individual neurons for months as the organoids developed, revealing how their firing patterns mature.",
+      "description_zh": "长进人类脑类器官的网状电子在类器官发育的几个月里持续追踪同一批单个神经元，揭示了它们的放电模式如何成熟。",
+      "idea_en": "An interface that stays with the same cells for their whole development, like a long-term diary.",
+      "idea_zh": "一种能在细胞整个发育过程中始终陪伴同一批细胞的界面，像一本长期日记。",
+      "method": "Tissue-like stretchable mesh electrodes were integrated during organoid formation, enabling chronic 3D single-unit recordings over months.",
+      "method_zh": "在类器官形成过程中整合类组织的可拉伸网状电极，实现长达数月的三维单神经元慢性记录。",
+      "keywords": [
+        "mesh nanoelectronics",
+        "chronic recording",
+        "single-unit",
+        "brain organoids"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6816/8930507/78285ced508d/nihms-1778930-f0001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1002/adma.202106829",
+        "doi": "10.1002/adma.202106829",
+        "arxiv": "",
+        "venue": "Advanced Materials 2022"
+      }
+    },
+    {
+      "id": "charles-lieber--nanowire-scaffolds",
+      "creator_ids": [
+        "charles-lieber",
+        "jia-liu"
+      ],
+      "title": "Macroporous nanowire nanoelectronic scaffolds for synthetic tissues",
+      "year": 2012,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "cells",
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "3D porous scaffolds made of nanowire transistors were seeded with neurons, heart cells and muscle cells, producing 'cyborg tissues' that could be sensed from within.",
+      "description_zh": "由纳米线晶体管构成的三维多孔支架上接种了神经元、心肌细胞和肌肉细胞，形成可以从内部被感知的“赛博组织”。",
+      "idea_en": "Make the electronics the scaffold that tissue grows on, so sensing happens everywhere inside.",
+      "idea_zh": "让电子器件本身成为组织生长的支架，感知就能在内部各处发生。",
+      "method": "Free-standing macroporous networks of silicon nanowire field-effect transistors were combined with extracellular matrix and cells to form 3D hybrid tissues.",
+      "method_zh": "把自支撑的大孔硅纳米线场效应晶体管网络与细胞外基质和细胞结合，形成三维混合组织。",
+      "keywords": [
+        "nanowire",
+        "cyborg tissue",
+        "3D scaffold",
+        "bioelectronics"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnmat3404/MediaObjects/41563_2012_Article_BFnmat3404_Fig1_HTML.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/nmat3404",
+        "doi": "10.1038/nmat3404",
+        "arxiv": "",
+        "venue": "Nature Materials 2012"
+      }
+    },
+    {
+      "id": "zhenan-bao--kirigami-electronics",
+      "creator_ids": [
+        "zhenan-bao",
+        "sergiu-pasca"
+      ],
+      "title": "Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Thin electrode sheets cut in a kirigami pattern open into a basket that holds a human neural organoid, and record its activity for months without damaging it.",
+      "description_zh": "按剪纸（kirigami）图案切割的薄电极片展开成小篮子，托住人类神经类器官，在不损伤它的情况下记录数月的活动。",
+      "idea_en": "Paper-cutting patterns can turn a flat circuit into a soft cradle for living tissue.",
+      "idea_zh": "剪纸图案可以把平面电路变成承托活体组织的柔软摇篮。",
+      "method": "Stretchable polymer electronics were patterned with kirigami cuts so they deform into 3D and conform to organoids and assembloids during long-term culture.",
+      "method_zh": "用剪纸切口图案化可拉伸聚合物电子，使其在长期培养中变形为三维并贴合类器官与组装体。",
+      "keywords": [
+        "kirigami",
+        "stretchable electronics",
+        "assembloids",
+        "long-term recording"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02081-3/MediaObjects/41587_2023_2081_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41587-023-02081-3",
+        "doi": "10.1038/s41587-023-02081-3",
+        "arxiv": "",
+        "venue": "Nature Biotechnology 2024"
+      }
+    },
+    {
+      "id": "john-rogers--3d-spheroid-interfaces",
+      "creator_ids": [
+        "john-rogers",
+        "sergiu-pasca"
+      ],
+      "title": "Three-dimensional, multifunctional neural interfaces for cortical spheroids and engineered assembloids",
+      "year": 2021,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Pop-up 3D frameworks carrying microelectrodes wrap around human cortical spheroids, so researchers can stimulate and record from many sides at once.",
+      "description_zh": "带有微电极的弹出式三维框架包裹住人类皮层球体，使研究者可以同时从多个方向刺激和记录。",
+      "idea_en": "A tiny architecture, built around the tissue, that carries sensors and stimulators.",
+      "idea_zh": "围绕组织搭建的微型建筑，承载传感器和刺激器。",
+      "method": "Mechanically guided 3D assembly buckles 2D thin-film circuits into mesoscale cages that hold recording and stimulation electrodes around spheroids.",
+      "method_zh": "利用力学引导的三维组装，把二维薄膜电路屈曲成介观尺度的笼状结构，在球体周围安置记录和刺激电极。",
+      "keywords": [
+        "3D mesostructures",
+        "mechanically guided assembly",
+        "cortical spheroids",
+        "assembloids"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4ad7/7968849/e1a78af1732b/abf9153-F1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.abf9153",
+        "doi": "10.1126/sciadv.abf9153",
+        "arxiv": "",
+        "venue": "Science Advances 2021"
+      }
+    },
+    {
+      "id": "kenneth-kosik--hd-mea-organoids",
+      "creator_ids": [
+        "kenneth-kosik"
+      ],
+      "title": "Functional neuronal circuitry and oscillatory dynamics in human brain organoids",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Slices of human brain organoids placed on high-density CMOS electrode arrays revealed thousands of individual neurons, their connections and rhythmic oscillations.",
+      "description_zh": "把人类脑类器官切片放在高密度 CMOS 电极阵列上，可以看到数千个单独的神经元、它们之间的连接以及节律性振荡。",
+      "idea_en": "High-density electrodes turn an organoid's activity into a readable circuit map.",
+      "idea_zh": "高密度电极把类器官的活动变成一张可读的电路图。",
+      "method": "Organoid slices were recorded on CMOS HD-MEAs with thousands of electrodes; spike sorting and connectivity inference mapped circuits and oscillations.",
+      "method_zh": "在拥有数千个电极的 CMOS 高密度微电极阵列上记录类器官切片，通过放电分类和连接推断绘制回路与振荡。",
+      "keywords": [
+        "HD-MEA",
+        "CMOS",
+        "oscillations",
+        "connectivity"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32115-4/MediaObjects/41467_2022_32115_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41467-022-32115-4",
+        "doi": "10.1038/s41467-022-32115-4",
+        "arxiv": "",
+        "venue": "Nature Communications 2022"
+      }
+    },
+    {
+      "id": "sergiu-pasca--transplanted-organoids",
+      "creator_ids": [
+        "sergiu-pasca"
+      ],
+      "title": "Maturation and circuit integration of transplanted human cortical organoids",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "organoid-interfaces",
+      "organisms": [
+        "neurons",
+        "animals"
+      ],
+      "kind": "paper",
+      "description": "Human cortical organoids transplanted into the brains of newborn rats matured, connected to rat circuits, responded to whisker touch, and could drive reward-seeking behaviour when stimulated with light.",
+      "description_zh": "移植到新生大鼠大脑中的人类皮层类器官成熟起来，接入大鼠的神经回路，对胡须触碰作出反应，并且在光刺激下能驱动大鼠的觅奖行为。",
+      "idea_en": "A living body can be the best interface for an organoid, which also raises new ethical questions.",
+      "idea_zh": "活的身体可能是类器官最好的界面，但这也带来新的伦理问题。",
+      "method": "Organoids were transplanted into rat somatosensory cortex; imaging, electrophysiology and optogenetic stimulation tested integration and behavioural effects.",
+      "method_zh": "把类器官移植到大鼠体感皮层，用成像、电生理和光遗传刺激检验其整合程度和对行为的影响。",
+      "keywords": [
+        "transplantation",
+        "rat",
+        "optogenetics",
+        "chimera"
+      ],
+      "also": [
+        "biohybrid"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05277-w/MediaObjects/41586_2022_5277_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41586-022-05277-w",
+        "doi": "10.1038/s41586-022-05277-w",
+        "arxiv": "",
+        "venue": "Nature 2022"
+      }
+    },
+    {
+      "id": "alysson-muotri--oscillatory-waves",
+      "creator_ids": [
+        "alysson-muotri"
+      ],
+      "title": "Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development",
+      "year": 2019,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Human cortical organoids grown for ten months developed increasingly complex network oscillations; a machine-learning model trained on EEG from preterm babies could not reliably tell organoid activity from infant brain activity.",
+      "description_zh": "培养十个月的人类皮层类器官发展出越来越复杂的网络振荡；一个用早产儿脑电图训练的机器学习模型难以可靠地区分类器官活动与婴儿大脑活动。",
+      "idea_en": "Organoids can produce brain-like rhythms, which makes both their promise and their ethics more pressing.",
+      "idea_zh": "类器官能产生类似大脑的节律，这让它们的潜力和伦理问题都更加紧迫。",
+      "method": "Organoids were recorded weekly on multi-well MEAs for months; oscillation features were compared with preterm neonatal EEG using a regression model.",
+      "method_zh": "在多孔微电极阵列上连续数月每周记录类器官，并用回归模型把振荡特征与早产新生儿脑电图进行比较。",
+      "keywords": [
+        "brain waves",
+        "EEG",
+        "preterm infants",
+        "network oscillations"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=rkpo7R8UOlc"
+      },
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ca6e/6778040/b7f263d3f8c1/nihms-1537695-f0001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.stem.2019.08.002",
+        "doi": "10.1016/j.stem.2019.08.002",
+        "arxiv": "",
+        "venue": "Cell Stem Cell 2019"
+      }
+    },
+    {
+      "id": "alysson-muotri--organoid-robots",
+      "creator_ids": [
+        "alysson-muotri"
+      ],
+      "title": "Neurobot: organoid-driven robots",
+      "year": 2019,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "Muotri's lab and a high-school student built a small legged robot that moves according to electrical signals recorded from brain organoids, as a first step toward giving organoids a body.",
+      "description_zh": "Muotri 实验室与一名高中生合作，做了一个根据脑类器官电信号移动的小型足式机器人，作为给类器官一个身体的第一步。",
+      "idea_en": "Give an organoid a body early, even a simple one, and see what changes.",
+      "idea_zh": "尽早给类器官一个身体，哪怕很简单，看看会发生什么。",
+      "method": "Spontaneous activity recorded from organoids on an MEA was translated by a computer into motor commands for the robot.",
+      "method_zh": "计算机把微电极阵列上记录的类器官自发活动转成机器人的运动指令。",
+      "keywords": [
+        "robot",
+        "embodiment",
+        "brain organoids",
+        "outreach"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NxKKLaz2c9M"
+      },
+      "source_url": "https://muotri.ucsd.edu"
+    },
+    {
+      "id": "braingeneers--cartpole",
+      "creator_ids": [
+        "braingeneers"
+      ],
+      "title": "Goal-directed learning in cortical organoids",
+      "year": 2026,
+      "field": "organoid",
+      "sub": "organoid-intelligence",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Mouse cortical organoids were placed in a closed loop with the 'cartpole' task of balancing a virtual pole. Training stimulation chosen by a reinforcement-learning agent improved their balancing more than random or no training, though gains faded after rest.",
+      "description_zh": "小鼠皮层类器官被接入“倒立摆”闭环任务，去平衡一根虚拟杆子。由强化学习智能体选择的训练刺激比随机刺激或不训练更能提升平衡表现，但休息后提升会消退。",
+      "idea_en": "Use AI to choose how to teach the living tissue, not to replace it.",
+      "idea_zh": "用 AI 来决定如何教导活体组织，而不是取代它。",
+      "method": "Pole angle was encoded as stimulation on an HD-MEA, spikes were decoded into force, and an RL agent selected training pulses; blocking AMPA and NMDA receptors abolished learning.",
+      "method_zh": "杆的角度被编码为高密度微电极阵列上的刺激，放电被解码为推力，强化学习智能体选择训练脉冲；阻断 AMPA 和 NMDA 受体后学习消失。",
+      "keywords": [
+        "cartpole",
+        "reinforcement learning",
+        "closed loop",
+        "plasticity"
+      ],
+      "images": [
+        "https://cdn.zmescience.com/wp-content/uploads/2026/03/2-18-26-Braingeneers-Mircea-CL-010-2048x1366-1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.celrep.2026.116984",
+        "doi": "10.1016/j.celrep.2026.116984",
+        "arxiv": "",
+        "venue": "Cell Reports 2026"
+      }
+    },
+    {
+      "id": "braingeneers--iot-cloud-lab",
+      "creator_ids": [
+        "braingeneers"
+      ],
+      "title": "IoT cloud laboratory: Internet of Things architecture for cellular biology",
+      "year": 2022,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons",
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "An open architecture that connects incubators, cameras, pumps and electrode arrays to the internet so organoid experiments can be run, watched and controlled remotely.",
+      "description_zh": "一个开放架构，把培养箱、摄像头、泵和电极阵列连上互联网，让类器官实验可以远程运行、观察和控制。",
+      "idea_en": "A cell culture becomes a networked device with an address, logs and remote controls.",
+      "idea_zh": "细胞培养物变成一台有地址、有日志、可以远程控制的联网设备。",
+      "method": "Lab devices publish and subscribe to messages through a cloud message broker, with data stored in the cloud and experiments scripted in software.",
+      "method_zh": "实验设备通过云端消息代理发布和订阅消息，数据存储在云端，实验由软件脚本控制。",
+      "keywords": [
+        "cloud lab",
+        "IoT",
+        "MQTT",
+        "remote experiments",
+        "open source"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cec6/10305744/14dab88d76f4/nihms-1898546-f0001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1016/j.iot.2022.100618",
+        "doi": "10.1016/j.iot.2022.100618",
+        "arxiv": "",
+        "venue": "Internet of Things 2022"
+      },
+      "source_url": "https://braingeneers.ucsc.edu",
+      "code_url": "https://github.com/braingeneers"
+    },
+    {
+      "id": "shimon-marom--learning-networks",
+      "creator_ids": [
+        "shimon-marom"
+      ],
+      "title": "Learning in Networks of Cortical Neurons",
+      "year": 2001,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Cultured rat cortical networks were stimulated until they produced a chosen response, and stimulation was then switched off. Over repeated trials the networks produced the response faster.",
+      "description_zh": "研究者持续刺激培养的大鼠皮层网络，直到它产生指定的反应，然后停止刺激。多次重复后，网络越来越快地产生这个反应。",
+      "idea_en": "Removing an annoying stimulus can work as a reward for a network with no body.",
+      "idea_zh": "对没有身体的网络来说，撤除一个恼人的刺激就可以充当奖励。",
+      "method": "Focal electrical stimulation through a multi-electrode array was stopped whenever a target electrode showed the desired response, a stimulus-removal learning rule.",
+      "method_zh": "通过多电极阵列施加局部电刺激，一旦目标电极出现期望的反应就停止刺激，即“撤除刺激”学习规则。",
+      "keywords": [
+        "stimulus removal",
+        "cortical cultures",
+        "MEA",
+        "learning"
+      ],
+      "images": [
+        "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/e8b1/6762268/967dfc708340/ns2215834001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1523/JNEUROSCI.21-22-08782.2001",
+        "doi": "10.1523/JNEUROSCI.21-22-08782.2001",
+        "arxiv": "",
+        "venue": "Journal of Neuroscience 2001"
+      }
+    },
+    {
+      "id": "steve-potter--animat",
+      "creator_ids": [
+        "steve-potter",
+        "thomas-demarse"
+      ],
+      "title": "The Neurally Controlled Animat: Biological Brains Acting with Simulated Bodies",
+      "year": 2001,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "A culture of rat cortical neurons controlled a simulated animal moving in a virtual room, and the animal's sensory input was fed back to the neurons as stimulation.",
+      "description_zh": "一团大鼠皮层神经元控制一只在虚拟房间里移动的模拟动物，模拟动物的感觉输入又以刺激的形式反馈给神经元。",
+      "idea_en": "A neuron culture needs a body, even a virtual one, to show behaviour.",
+      "idea_zh": "神经培养物需要一个身体（哪怕是虚拟的）才能表现出行为。",
+      "method": "Real-time MEA recording and stimulation software closed the loop between the culture and a simulated body, the first 'animat'.",
+      "method_zh": "实时的微电极阵列记录与刺激软件在培养物和模拟身体之间形成闭环，这就是第一个“animat”。",
+      "keywords": [
+        "animat",
+        "embodiment",
+        "closed loop",
+        "rat cortex"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1023/A:1012407611130",
+        "doi": "10.1023/A:1012407611130",
+        "arxiv": "",
+        "venue": "Autonomous Robots 2001"
+      }
+    },
+    {
+      "id": "steve-potter--hybrot",
+      "creator_ids": [
+        "steve-potter"
+      ],
+      "title": "Hybrot: the rat-brained robot",
+      "year": 2002,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "A few thousand rat neurons in a dish in Atlanta steered a small wheeled robot, which approached a target and kept its distance; sensor readings travelled back to the neurons as stimulation.",
+      "description_zh": "亚特兰大实验室培养皿中的几千个大鼠神经元驾驶一台小型轮式机器人，让它靠近目标并保持距离；传感器读数再以刺激形式传回神经元。",
+      "idea_en": "A hybrid robot: part living culture, part machine, linked across the room or the world.",
+      "idea_zh": "混合机器人：一部分是活体培养物，一部分是机器，二者可以隔着房间甚至隔着世界相连。",
+      "method": "Activity from a 60-electrode MEA was mapped to motor commands for a Koala robot, and its infrared sensor data was converted into electrical stimulation.",
+      "method_zh": "60 电极微电极阵列上的活动被映射为 Koala 机器人的运动指令，机器人的红外传感器数据则转换为电刺激。",
+      "keywords": [
+        "hybrot",
+        "robot",
+        "rat neurons",
+        "MEA"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=E8l3_kAUe0w"
+      },
+      "source_url": "https://potterlab.gatech.edu/labs/potter/animat/"
+    },
+    {
+      "id": "thomas-demarse--flight-control",
+      "creator_ids": [
+        "thomas-demarse"
+      ],
+      "title": "Adaptive flight control with living neuronal networks on microelectrode arrays",
+      "year": 2005,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "About 25,000 rat cortical neurons on an electrode array were connected to a flight simulator and learned to keep a simulated F-22 jet level in pitch and roll under changing wind.",
+      "description_zh": "约 2.5 万个大鼠皮层神经元放在电极阵列上，接入飞行模拟器，学会在变化的风中保持模拟 F-22 战机的俯仰和横滚平稳。",
+      "idea_en": "A brain in a dish can learn a control task when feedback is built into the loop.",
+      "idea_zh": "只要反馈被设计进回路，培养皿中的大脑就能学会一项控制任务。",
+      "method": "Aircraft attitude was encoded as stimulation frequency on MEA electrodes, network responses set control surfaces, and high-frequency training pulses adjusted the network until flight stabilised.",
+      "method_zh": "飞机姿态被编码为微电极阵列电极上的刺激频率，网络反应决定控制面，高频训练脉冲不断调整网络，直到飞行趋于稳定。",
+      "keywords": [
+        "flight simulator",
+        "F-22",
+        "adaptive control",
+        "rat neurons"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1w41gH6x_30"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1109/IJCNN.2005.1556108",
+        "doi": "10.1109/IJCNN.2005.1556108",
+        "arxiv": "",
+        "venue": "IJCNN 2005"
+      }
+    },
+    {
+      "id": "kevin-warwick--gordon",
+      "creator_ids": [
+        "kevin-warwick"
+      ],
+      "title": "Gordon: a robot with a biological brain",
+      "year": 2008,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "A wheeled robot at the University of Reading was driven entirely by 50,000 to 100,000 rat neurons on a 60-electrode array. It learned to steer away from walls using its ultrasound sensor.",
+      "description_zh": "雷丁大学的一台轮式机器人完全由 60 电极阵列上的 5 万到 10 万个大鼠神经元驱动，并学会了用超声波传感器避开墙壁。",
+      "idea_en": "A robot's personality can depend on how its living brain happened to grow.",
+      "idea_zh": "机器人的“性格”可能取决于它的活体大脑碰巧长成了什么样。",
+      "method": "Cultured neurons in an incubator talked to the robot over Bluetooth; sonar distance was delivered as stimulation and neural responses turned the wheels.",
+      "method_zh": "培养箱中的神经元通过蓝牙与机器人通信；声呐测得的距离以刺激形式输入，神经反应则驱动轮子转向。",
+      "keywords": [
+        "Gordon",
+        "robot",
+        "rat neurons",
+        "University of Reading"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1-0eZytv6Qk"
+      },
+      "images": [
+        "https://spectrum.ieee.org/media-library/image.png?id=26772063&width=1200&height=600&coordinates=0%2C16%2C0%2C17"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.14429/dsj.60.11",
+        "doi": "10.14429/dsj.60.11",
+        "arxiv": "",
+        "venue": "Defence Science Journal 2010"
+      }
+    },
+    {
+      "id": "michela-chiappalone--modular-assemblies",
+      "creator_ids": [
+        "michela-chiappalone"
+      ],
+      "title": "Modular Neuronal Assemblies Embodied in a Closed-Loop Environment: Toward Future Integration of Brains and Machines",
+      "year": 2012,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Hippocampal neurons grown as linked modules on electrode arrays controlled a virtual robot avoiding obstacles, and modular networks performed better than uniform ones.",
+      "description_zh": "在电极阵列上以相连模块形式生长的海马神经元控制一个避障的虚拟机器人，模块化网络的表现优于均匀网络。",
+      "idea_en": "How you shape the network in the dish changes how well its body behaves.",
+      "idea_zh": "你如何塑造培养皿中的网络，会改变它的身体表现得有多好。",
+      "method": "Polymer masks confined neurons into interconnected clusters on MEAs; a closed-loop system encoded robot sensors as stimulation and decoded spikes into wheel speeds, with tetanic stimulation as training.",
+      "method_zh": "用聚合物掩膜把神经元限制成微电极阵列上相互连接的簇；闭环系统把机器人传感器编码为刺激、把放电解码为轮速，并用强直刺激进行训练。",
+      "keywords": [
+        "modular networks",
+        "neurorobotics",
+        "hippocampal neurons",
+        "closed loop"
+      ],
+      "images": [
+        "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/33917/fncir-06-00099-r2/image_m/fncir-06-00099-g001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/fncir.2012.00099",
+        "doi": "10.3389/fncir.2012.00099",
+        "arxiv": "",
+        "venue": "Frontiers in Neural Circuits 2012"
+      }
+    },
+    {
+      "id": "takuya-isomura--blind-source-separation",
+      "creator_ids": [
+        "takuya-isomura"
+      ],
+      "title": "Cultured Cortical Neurons Can Perform Blind Source Separation According to the Free-Energy Principle",
+      "year": 2015,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Cultured rat neurons received two mixed hidden signals through electrodes and, over training, groups of neurons came to respond to each source separately, like picking out one voice at a party.",
+      "description_zh": "培养的大鼠神经元通过电极接收两个混合在一起的隐藏信号；经过训练，不同的神经元群分别对应其中一个信号源，就像在聚会上分辨出一个人的声音。",
+      "idea_en": "Neurons in a dish can infer hidden causes behind their input, not only react to it.",
+      "idea_zh": "培养皿里的神经元不仅会对输入作出反应，还能推断输入背后的隐藏原因。",
+      "method": "Two hidden sources were probabilistically mixed into stimulation patterns delivered through MEA electrodes; evoked responses were analysed against free-energy-principle predictions.",
+      "method_zh": "两个隐藏信号源被按概率混合成通过微电极阵列电极施加的刺激模式，并用自由能原理的预测来分析诱发反应。",
+      "keywords": [
+        "blind source separation",
+        "free-energy principle",
+        "cocktail party",
+        "inference"
+      ],
+      "images": [
+        "https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=10.1371/journal.pcbi.1004643.g001"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1371/journal.pcbi.1004643",
+        "doi": "10.1371/journal.pcbi.1004643",
+        "arxiv": "",
+        "venue": "PLOS Computational Biology 2015"
+      }
+    },
+    {
+      "id": "takuya-isomura--free-energy-validation",
+      "creator_ids": [
+        "takuya-isomura"
+      ],
+      "title": "Experimental validation of the free-energy principle with in vitro neural networks",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "Using cultured neurons that learn to separate signals, the study showed that changes in their connections followed the predictions of the free-energy principle, and that the theory could forecast how learning would unfold.",
+      "description_zh": "研究利用学会分离信号的培养神经元证明：它们连接强度的变化符合自由能原理的预测，而且该理论能够预见学习过程如何展开。",
+      "idea_en": "A theory of the brain can be tested, and used predictively, on neurons in a dish.",
+      "idea_zh": "关于大脑的理论可以在培养皿中的神经元上检验，并用来做预测。",
+      "method": "Rat cortical cultures on MEAs were trained on blind source separation; recorded responses were fitted to a canonical neural network equivalent to variational Bayesian inference.",
+      "method_zh": "在微电极阵列上训练大鼠皮层培养物完成盲源分离，并把记录到的反应拟合到一个等价于变分贝叶斯推断的典范神经网络。",
+      "keywords": [
+        "free-energy principle",
+        "Bayesian inference",
+        "plasticity",
+        "prediction"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-023-40141-z/MediaObjects/41467_2023_40141_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41467-023-40141-z",
+        "doi": "10.1038/s41467-023-40141-z",
+        "arxiv": "",
+        "venue": "Nature Communications 2023"
+      }
+    },
+    {
+      "id": "hirokazu-takahashi--force-reservoir",
+      "creator_ids": [
+        "hirokazu-takahashi"
+      ],
+      "title": "Physical reservoir computing with FORCE learning in a living neuronal culture",
+      "year": 2021,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "A living neuronal culture was used as a physical reservoir that produced a coherent output signal through FORCE learning; mounted on a vehicle robot, this closed loop gave the robot a homeostasis-like behaviour that let it solve a maze.",
+      "description_zh": "一团活体神经元培养物被当作物理储备池，通过 FORCE 学习产生连贯的输出信号；接入一台小车机器人后，这个闭环让机器人表现出类似稳态的行为，从而走出迷宫。",
+      "idea_en": "Treat the neuron culture as a physical material that computes, and let its own stability solve the task.",
+      "idea_zh": "把神经元培养物当作一种会计算的物理材料，让它自身的稳定性去解决任务。",
+      "method": "Activity recorded on a microelectrode array was linearly read out and trained online with FORCE learning, and the output was fed back by optically releasing caged compounds onto the culture.",
+      "method_zh": "在微电极阵列上记录神经活动，进行线性读出并用 FORCE 学习在线训练，输出再通过光照释放笼锁化合物的方式反馈给培养物。",
+      "keywords": [
+        "reservoir computing",
+        "FORCE learning",
+        "caged compounds",
+        "maze",
+        "homeostasis"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1063/5.0064771",
+        "doi": "10.1063/5.0064771",
+        "arxiv": "",
+        "venue": "Applied Physics Letters 2021"
+      }
+    },
+    {
+      "id": "tianjin-university--metaboc",
+      "creator_ids": [
+        "tianjin-university"
+      ],
+      "title": "MetaBOC: open-source brain-on-chip robot control",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "Researchers from Tianjin University and the Southern University of Science and Technology connected a human brain organoid on a chip to a small robot, which it steered to avoid obstacles and track targets; the software was released as open source.",
+      "description_zh": "天津大学与南方科技大学的研究者把芯片上的人类脑类器官连接到一台小型机器人上，由它驾驶机器人避障、追踪目标；相关软件以开源形式发布。",
+      "idea_en": "Pair a living organoid with AI decoding so each makes up for the other's limits.",
+      "idea_zh": "让活体类器官与 AI 解码配合，相互弥补对方的不足。",
+      "method": "Robot sensor data was encoded into stimulation of an organoid on an electrode chip, and AI algorithms decoded its activity into motor commands (details from press reports, likely simplified).",
+      "method_zh": "机器人传感器数据被编码成对电极芯片上类器官的刺激，AI 算法再把其活动解码成运动指令（细节来自媒体报道，可能有所简化）。",
+      "keywords": [
+        "MetaBOC",
+        "brain-on-chip",
+        "open source",
+        "robot",
+        "China"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=o_zsjINNHBE"
+      },
+      "images": [
+        "https://assets.newatlas.com/dims4/default/c7765d5/2147483647/strip/true/crop/1412x741+0+26/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F91%2Fd2%2Fac3230994d44a2861b102f2729b0%2F087b1f8897b844be95049e0d436dece6-1.jpg&na.image_optimisation=0"
+      ],
+      "source_url": "https://newatlas.com/robotics/brain-organoid-robot/"
+    },
+    {
+      "id": "the-thought-emporium--rat-neurons-doom",
+      "creator_ids": [
+        "the-thought-emporium"
+      ],
+      "title": "Growing living rat neurons to play DOOM",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "neurons-play",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "prototype",
+      "description": "A DIY video series in which a hobbyist lab cultures rat neurons, builds its own electrode array and stimulation hardware, and works toward letting the culture play DOOM.",
+      "description_zh": "一个 DIY 视频系列：业余实验室培养大鼠神经元，自制电极阵列和刺激硬件，并尝试让这团培养物去玩 DOOM。",
+      "idea_en": "Neural computing experiments can be done, documented and shared openly outside institutions.",
+      "idea_zh": "神经计算实验也可以在机构之外完成、记录并公开分享。",
+      "method": "Primary rat neurons were grown on a home-made multi-electrode array, with custom electronics to encode game frames as stimulation and read out spikes.",
+      "method_zh": "在自制多电极阵列上培养原代大鼠神经元，用定制电子设备把游戏画面编码为刺激并读取放电。",
+      "keywords": [
+        "DIY biology",
+        "DOOM",
+        "YouTube",
+        "open hardware"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=bEXefdbQDjw"
+      },
+      "source_url": "https://www.youtube.com/watch?v=bEXefdbQDjw"
+    },
+    {
+      "id": "koniku--konikore",
+      "creator_ids": [
+        "koniku"
+      ],
+      "title": "Konikore",
+      "year": 2017,
+      "field": "organoid",
+      "sub": "wetware",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "product",
+      "description": "A palm-sized device that combines living neurons engineered with olfactory receptors and silicon electronics to detect and classify smells, such as explosives. It was unveiled at TEDGlobal 2017.",
+      "description_zh": "一台手掌大小的设备，把带有嗅觉受体的工程神经元与硅电子结合起来，用来检测和分类气味，例如爆炸物。它于 2017 年在 TEDGlobal 上首次亮相。",
+      "idea_en": "Borrow a biological sense directly by building living receptor cells into a device.",
+      "idea_zh": "把活的受体细胞装进设备，直接借用生物的感官。",
+      "method": "Neurons derived from mouse stem cells and engineered to express odorant receptors sit on electrodes; their responses to airborne molecules are read and classified by software.",
+      "method_zh": "由小鼠干细胞分化并经过改造、表达气味受体的神经元位于电极上，软件读取并分类它们对空气中分子的反应。",
+      "keywords": [
+        "Konikore",
+        "olfaction",
+        "smell sensor",
+        "wetware",
+        "security"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=-brCBnjq1Uc"
+      },
+      "images": [
+        "https://koniku.com/meta-img.jpg"
+      ],
+      "source_url": "https://koniku.com"
+    },
+    {
+      "id": "guy-ben-ary--fish-and-chips",
+      "creator_ids": [
+        "guy-ben-ary",
+        "steve-potter"
+      ],
+      "title": "Fish & Chips",
+      "year": 2001,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "animals"
+      ],
+      "kind": "artwork",
+      "description": "SymbioticA's first 'semi-living artist': neurons from a goldfish, grown on a silicon chip, drove a robotic arm that drew on paper, while music stimulated the cells. Shown at Ars Electronica 2001.",
+      "description_zh": "SymbioticA 的第一个“半活体艺术家”：生长在硅芯片上的金鱼神经元驱动机械臂在纸上作画，同时用音乐刺激这些细胞。2001 年在 Ars Electronica 展出。",
+      "idea_en": "What happens to authorship when the 'artist' is a few thousand fish neurons?",
+      "idea_zh": "当“艺术家”是几千个鱼的神经元时，作者身份会变成什么？",
+      "method": "Goldfish neural tissue on a multi-electrode array was recorded and its activity mapped to movements of a pen-holding robotic arm.",
+      "method_zh": "记录多电极阵列上的金鱼神经组织，并把其活动映射为握笔机械臂的动作。",
+      "keywords": [
+        "SymbioticA",
+        "semi-living",
+        "goldfish",
+        "drawing robot",
+        "Ars Electronica"
+      ],
+      "images": [
+        "https://live.staticflickr.com/5179/5415033341_dfd93ef118_b.jpg"
+      ],
+      "source_url": "https://www.flickr.com/photos/arselectronica/5415033341"
+    },
+    {
+      "id": "guy-ben-ary--meart",
+      "creator_ids": [
+        "guy-ben-ary",
+        "steve-potter"
+      ],
+      "title": "MEART – the semi-living artist",
+      "year": 2003,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "artwork",
+      "description": "A robotic drawing arm in a gallery was controlled over the internet by rat cortical neurons living in a lab in Atlanta; a camera fed the drawing back to the neurons so they could 'see' their work.",
+      "description_zh": "展厅里的机械绘画臂通过互联网，由位于亚特兰大实验室中的大鼠皮层神经元控制；摄像头把画面反馈给神经元，让它们“看到”自己的作品。",
+      "idea_en": "Brain and body can be on different continents and still form one artist.",
+      "idea_zh": "大脑和身体可以分处不同大陆，却仍然构成同一位艺术家。",
+      "method": "Cultured rat neurons on a 60-electrode MEA exchanged data over the internet with a pneumatic drawing arm; a camera image of the drawing was converted into stimulation patterns.",
+      "method_zh": "60 电极微电极阵列上的大鼠神经元通过互联网与气动绘画臂交换数据；画作的摄像头图像被转换成刺激模式。",
+      "keywords": [
+        "MEART",
+        "SymbioticA",
+        "telepresence",
+        "drawing",
+        "hybrot"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=PM5Ui5KwmXQ"
+      },
+      "images": [
+        "https://guybenary.com/images/meart.jpg",
+        "https://guybenary.com/images/ma-1.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/neuro.12.005.2007",
+        "doi": "10.3389/neuro.12.005.2007",
+        "arxiv": "",
+        "venue": "Frontiers in Neurorobotics 2007"
+      },
+      "source_url": "https://guybenary.com/projects/meart.html"
+    },
+    {
+      "id": "guy-ben-ary--silent-barrage",
+      "creator_ids": [
+        "guy-ben-ary",
+        "steve-potter"
+      ],
+      "title": "Silent Barrage",
+      "year": 2009,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "artwork",
+      "description": "Tall robotic poles in a gallery mark walls with ink, driven by a rat neural culture in Atlanta; visitors' movements are sent back as stimulation, trying to calm the culture's epilepsy-like bursts.",
+      "description_zh": "展厅中高大的机器人立柱在墙上留下墨迹，由亚特兰大的大鼠神经培养物驱动；观众的移动被回传为刺激，试图平息培养物类似癫痫的爆发。",
+      "idea_en": "The audience becomes part of a feedback loop that may soothe or agitate a living network.",
+      "idea_zh": "观众成为反馈回路的一部分，可能安抚、也可能激惹一个活的神经网络。",
+      "method": "Cameras track visitors and convert their positions into stimulation of a remote MEA culture; recorded activity drives 32 robotic pole-drawers.",
+      "method_zh": "摄像头追踪观众，把他们的位置转换成对远端微电极阵列培养物的刺激；记录到的活动驱动 32 根机器人绘画立柱。",
+      "keywords": [
+        "Silent Barrage",
+        "Neurotica",
+        "epilepsy",
+        "interactive installation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=aaIJoXlXHZM"
+      },
+      "images": [
+        "https://guybenary.com/images/silent-barrage.jpg",
+        "https://guybenary.com/images/sb-how-it-works.jpg"
+      ],
+      "source_url": "https://guybenary.com/projects/silent-barrage.html"
+    },
+    {
+      "id": "guy-ben-ary--in-potentia",
+      "creator_ids": [
+        "guy-ben-ary"
+      ],
+      "title": "In-Potentia",
+      "year": 2012,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "Human foreskin cells were reprogrammed into stem cells and grown into a small functioning neural network inside a sculptural bioreactor, whose activity was turned into sound.",
+      "description_zh": "人类包皮细胞被重编程为干细胞，并在一个雕塑般的生物反应器中长成一个能工作的小型神经网络，其活动被转化为声音。",
+      "idea_en": "A 'brain' can be grown from almost any part of a body, which unsettles ideas of personhood.",
+      "idea_zh": "几乎可以用身体任何部位的细胞长出一个“大脑”，这动摇了关于人格的观念。",
+      "method": "Foreskin fibroblasts were reprogrammed via iPS technology into neurons, cultured on an MEA inside a custom incubator and sonified in real time.",
+      "method_zh": "包皮成纤维细胞经 iPS 技术重编程为神经元，在定制培养箱内的微电极阵列上培养，并被实时声音化。",
+      "keywords": [
+        "In-Potentia",
+        "iPS cells",
+        "personhood",
+        "sonification"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=99S6TEDT0w8"
+      },
+      "images": [
+        "https://guybenary.com/images/in-potentia.jpg",
+        "https://guybenary.com/images/ip-2.jpg"
+      ],
+      "source_url": "https://guybenary.com/projects/in-potentia.html"
+    },
+    {
+      "id": "guy-ben-ary--cellf",
+      "creator_ids": [
+        "guy-ben-ary"
+      ],
+      "title": "cellF",
+      "year": 2015,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A neural synthesizer whose 'brain' is a network of about 100,000 neurons grown from the artist's own skin cells. It plays analog modular synthesizers in live improvisation with human musicians.",
+      "description_zh": "一台神经合成器，它的“大脑”是用艺术家自己的皮肤细胞培养出的约 10 万个神经元网络。它在现场即兴中与人类音乐家一起演奏模拟模块合成器。",
+      "idea_en": "A self-portrait as a living instrument that improvises with other players.",
+      "idea_zh": "一幅以活体乐器形式呈现的自画像，与其他乐手即兴合奏。",
+      "method": "Skin cells were reprogrammed into iPS cells and differentiated into neurons on an MEA; their spikes control analog synth voltages, and the musicians' sound is fed back as stimulation.",
+      "method_zh": "皮肤细胞被重编程为 iPS 细胞并在微电极阵列上分化为神经元；神经放电控制模拟合成器电压，乐手的声音又作为刺激反馈回去。",
+      "keywords": [
+        "cellF",
+        "neural synthesizer",
+        "iPS cells",
+        "improvisation",
+        "self-portrait"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1G-vk5QWRsg"
+      },
+      "images": [
+        "https://guybenary.com/images/cellf.jpg",
+        "https://guybenary.com/images/cellf-neurons.jpg"
+      ],
+      "source_url": "https://guybenary.com/projects/cellf.html"
+    },
+    {
+      "id": "guy-ben-ary--music-for-surrogate-performer",
+      "creator_ids": [
+        "guy-ben-ary"
+      ],
+      "title": "Music for Surrogate Performer",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A live performance in which neurons grown from the late composer Alvin Lucier's blood play percussion, extending his 1965 brainwave piece Music for Solo Performer. Premiered in the Venice Biennale Music programme.",
+      "description_zh": "一场现场演出：用已故作曲家 Alvin Lucier 的血液培养出的神经元演奏打击乐，延续了他 1965 年的脑电波作品《Music for Solo Performer》。首演于威尼斯双年展音乐单元。",
+      "idea_en": "A composer's cells can keep performing his work after his death, with his consent.",
+      "idea_zh": "在本人同意的前提下，作曲家的细胞可以在他去世后继续演奏他的作品。",
+      "method": "Lucier's blood cells were reprogrammed into stem cells and grown into neural cultures; their electrical activity triggers mallets on percussion instruments.",
+      "method_zh": "Lucier 的血细胞被重编程为干细胞并培养成神经培养物，它们的电活动触发敲击打击乐器的槌子。",
+      "keywords": [
+        "Alvin Lucier",
+        "Music for Solo Performer",
+        "Venice Biennale",
+        "surrogate performer"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=O2sWa23PyTU"
+      },
+      "images": [
+        "https://www.guybenary.com/images/music-for-surrogate-performer.jpg",
+        "https://guybenary.com/images/mfsp-32-music-for-surrogate-performer-kontejner20251009.jpg"
+      ],
+      "source_url": "https://guybenary.com/projects/music-for-surrogate-performer.html"
+    },
+    {
+      "id": "guy-ben-ary--revivification",
+      "creator_ids": [
+        "guy-ben-ary"
+      ],
+      "title": "Revivification",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "In a dark chamber lined with 20 brass plates, cerebral organoids grown from Alvin Lucier's blood strike the plates through motorised mallets, composing a new work in real time throughout the exhibition at the Art Gallery of Western Australia.",
+      "description_zh": "在一个四壁排列着 20 块黄铜板的暗室里，用 Alvin Lucier 血液培养出的脑类器官通过电动槌子敲击铜板，在西澳大利亚美术馆的整个展期内实时创作新作品。",
+      "idea_en": "An in-vitro 'brain' of a dead composer as a living, ongoing performance.",
+      "idea_zh": "已故作曲家的体外“大脑”，成为一场持续进行的活体演出。",
+      "method": "Lucier's white blood cells were reprogrammed at Harvard into iPS cells and grown into cerebral organoids on electrodes; their activity drives mallets, and the resulting sound is fed back as stimulation.",
+      "method_zh": "Lucier 的白细胞在哈佛被重编程为 iPS 细胞，并在电极上长成脑类器官；它们的活动驱动槌子，发出的声音再作为刺激反馈回去。",
+      "keywords": [
+        "Revivification",
+        "Alvin Lucier",
+        "cerebral organoids",
+        "AGWA",
+        "sound installation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ysGUO5vsRJE"
+      },
+      "images": [
+        "https://guybenary.com/images/revivification.jpg",
+        "https://guybenary.com/images/reviv-1-installation.jpg"
+      ],
+      "source_url": "https://guybenary.com/projects/revivification.html"
+    },
+    {
+      "id": "horo-mo-x--neurodoom",
+      "creator_ids": [
+        "horo-mo-x",
+        "finalspark"
+      ],
+      "title": "NeuroDOOM – Knee-Deep in the Alive",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "artwork",
+      "description": "Part of the MindWare series: brain organoids on FinalSpark's platform in Switzerland 'play' DOOM, while the artist in Paris acts as their eyes, turning organoid signals into AI-generated game frames.",
+      "description_zh": "MindWare 系列的一部分：瑞士 FinalSpark 平台上的脑类器官“玩” DOOM，巴黎的艺术家充当它们的眼睛，把类器官信号转成 AI 生成的游戏画面。",
+      "idea_en": "Three kinds of intelligence, organoid, artificial and human, share one game loop.",
+      "idea_zh": "类器官、人工和人类三种智能共享同一个游戏回路。",
+      "method": "Organoid spikes from the Neuroplatform are interpreted by language models into prompts, image models render game frames, and the artist's meditative 'telepathic' input closes the loop.",
+      "method_zh": "Neuroplatform 上的类器官放电由语言模型解释成提示词，图像模型渲染出游戏画面，艺术家以冥想式的“心灵感应”输入闭合回路。",
+      "keywords": [
+        "MindWare",
+        "NeuroDOOM",
+        "FinalSpark",
+        "generative AI",
+        "ritual"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=FISzAn5GU5g"
+      },
+      "images": [
+        "https://horomox.com/doomthumb.jpg",
+        "https://horomox.com/doomschema.jpg"
+      ],
+      "source_url": "https://horomox.com/neurodoom"
+    },
+    {
+      "id": "amy-karle--cortical-echoes",
+      "creator_ids": [
+        "amy-karle",
+        "eduardo-miranda",
+        "cortical-labs"
+      ],
+      "title": "Cortical Echoes",
+      "year": 2026,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "artwork",
+      "description": "A live performance-installation in which human performers' voices and sounds stimulate living neurons cultured with Cortical Labs, and the neurons' spikes are turned into music, synthetic speech and light.",
+      "description_zh": "一件现场表演装置：人类表演者的声音刺激与 Cortical Labs 合作培养的活体神经元，神经元的放电又被转成音乐、合成语音和灯光。",
+      "idea_en": "A three-way conversation between people, code and living neurons.",
+      "idea_zh": "人、代码与活体神经元之间的三方对话。",
+      "method": "Audio and MIDI input is encoded as stimulation of neurons on a multi-electrode array; rule-based systems translate spike activity into generative music, phonetic speech and lighting.",
+      "method_zh": "音频和 MIDI 输入被编码为对多电极阵列上神经元的刺激；基于规则的系统把放电活动转成生成音乐、音素语音和灯光。",
+      "keywords": [
+        "Cortical Echoes",
+        "sonification",
+        "synthetic speech",
+        "S+T+ARTS",
+        "Cortical Labs"
+      ],
+      "video": {
+        "url": "https://vimeo.com/1171672567"
+      },
+      "images": [
+        "https://www.amykarle.com/wp-content/uploads/2026/03/cortical-echoes-concept-rendering-a.png"
+      ],
+      "source_url": "https://www.amykarle.com/project/cortical_echoes/"
+    },
+    {
+      "id": "nefeli-manoudaki--simulacra-naturae",
+      "creator_ids": [
+        "nefeli-manoudaki"
+      ],
+      "title": "Simulacra Naturae: Generative Ecosystem driven by Agent-Based Simulations and Brain Organoid Collective Intelligence",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "neural-art",
+      "organisms": [
+        "neurons",
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "A media installation where recorded brain organoid activity shapes a generative ecosystem of visuals, spatial sound, living plants and clay objects, inspired by termite colonies and slime moulds.",
+      "description_zh": "一件媒体装置：脑类器官的活动记录塑造了一个生成式生态系统，包括影像、空间声音、活体植物和陶土物件，灵感来自白蚁群和黏菌。",
+      "idea_en": "Treat organoid signals as a co-creative influence on a system, not as a remote control.",
+      "idea_zh": "把类器官信号当作影响系统的共创力量，而不是遥控器。",
+      "method": "Pre-recorded organoid spike data is streamed in real time to modulate agent-based simulations that drive projections, audio and fabricated artefacts.",
+      "method_zh": "预先记录的类器官放电数据被实时流式输入，调节驱动投影、声音和制作物件的智能体模拟。",
+      "keywords": [
+        "Simulacra Naturae",
+        "agent-based simulation",
+        "installation",
+        "UCSB",
+        "collective care"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=NZdfTDe8SCI"
+      },
+      "images": [
+        "https://arxiv.org/html/2509.02924v1/teaser.png"
+      ],
+      "paper": {
+        "url": "https://arxiv.org/abs/2509.02924",
+        "doi": "",
+        "arxiv": "2509.02924",
+        "venue": "arXiv 2025"
+      }
+    },
+    {
+      "id": "andrea-lavazza--organoid-consciousness",
+      "creator_ids": [
+        "andrea-lavazza"
+      ],
+      "title": "Cerebral organoids: ethical issues and consciousness assessment",
+      "year": 2018,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "One of the first papers to argue that cerebral organoids might one day have some form of consciousness, and to propose measuring it with tools such as the perturbational complexity index used in patients.",
+      "description_zh": "最早论证脑类器官未来可能具有某种形式意识的论文之一，并提出用临床上评估患者的工具（如扰动复杂度指数）来测量它。",
+      "idea_en": "If a system might feel, decide in advance how you would check.",
+      "idea_zh": "如果一个系统可能有感受，就要事先决定如何检验。",
+      "method": "Philosophical and neuroscientific analysis borrowing consciousness measures from clinical neurology.",
+      "method_zh": "借用临床神经学中意识测量方法的哲学与神经科学分析。",
+      "keywords": [
+        "consciousness",
+        "moral status",
+        "perturbational complexity index"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1136/medethics-2017-104555",
+        "doi": "10.1136/medethics-2017-104555",
+        "arxiv": "",
+        "venue": "Journal of Medical Ethics 2018"
+      }
+    },
+    {
+      "id": "nita-farahany--brain-tissue-ethics",
+      "creator_ids": [
+        "nita-farahany"
+      ],
+      "title": "The ethics of experimenting with human brain tissue",
+      "year": 2018,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A Nature comment by 17 scientists and ethicists calling for guidelines as brain organoids, ex vivo brain tissue and human-animal chimeras become more brain-like.",
+      "description_zh": "17 位科学家和伦理学家在《自然》发表的评论，呼吁在脑类器官、离体脑组织和人-动物嵌合体越来越像大脑之际制定指导原则。",
+      "idea_en": "Set rules while brain surrogates are still simple.",
+      "idea_zh": "趁大脑替代物还简单的时候就制定规则。",
+      "method": "Policy commentary identifying capacities (pain, awareness, memory) that should trigger oversight.",
+      "method_zh": "政策评论，列出应触发监管的能力（疼痛、觉知、记忆）。",
+      "keywords": [
+        "brain surrogates",
+        "chimeras",
+        "governance",
+        "Nature comment"
+      ],
+      "images": [
+        "https://media.nature.com/lw1200/magazine-assets/d41586-018-04813-x/d41586-018-04813-x_15700022.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/d41586-018-04813-x",
+        "doi": "10.1038/d41586-018-04813-x",
+        "arxiv": "",
+        "venue": "Nature 2018"
+      }
+    },
+    {
+      "id": "national-academies--neural-organoids-report",
+      "creator_ids": [
+        "national-academies"
+      ],
+      "title": "The Emerging Field of Human Neural Organoids, Transplants, and Chimeras",
+      "year": 2021,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons",
+        "animals"
+      ],
+      "kind": "publication",
+      "description": "A US consensus report concluding that current neural organoids are far from human-like awareness, while recommending ongoing oversight, public engagement and attention to donor consent.",
+      "description_zh": "一份美国共识报告，结论是目前的神经类器官离类人意识还很远，同时建议持续监管、开展公众参与并关注捐献者的知情同意。",
+      "idea_en": "A sober baseline for what organoids can do today, useful against both hype and fear.",
+      "idea_zh": "一份关于类器官目前能做什么的冷静基线，既可对抗炒作，也可对抗恐惧。",
+      "method": "Expert committee review of the scientific literature with ethical, legal and societal analysis.",
+      "method_zh": "专家委员会审阅科学文献，并进行伦理、法律和社会分析。",
+      "keywords": [
+        "National Academies",
+        "consensus report",
+        "chimeras",
+        "consent"
+      ],
+      "images": [
+        "https://nap.nationalacademies.org/cover/26078/150dpi"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.17226/26078",
+        "doi": "10.17226/26078",
+        "arxiv": "",
+        "venue": "National Academies Press 2021"
+      },
+      "source_url": "https://nap.nationalacademies.org/catalog/26078/the-emerging-field-of-human-neural-organoids-transplants-and-chimeras"
+    },
+    {
+      "id": "karola-kreitmair--organoid-consciousness",
+      "creator_ids": [
+        "karola-kreitmair"
+      ],
+      "title": "Consciousness and the Ethics of Human Brain Organoid Research",
+      "year": 2023,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "paper",
+      "description": "An argument that because we cannot rule out consciousness in brain organoids, research should follow precautionary rules on how organoids are made, used and disposed of.",
+      "description_zh": "文章论证：既然无法排除脑类器官有意识的可能，研究就应在类器官的制造、使用和处置上遵循预防性规则。",
+      "idea_en": "Uncertainty about inner life is itself a design constraint.",
+      "idea_zh": "对内在体验的不确定本身就是一条设计约束。",
+      "method": "Philosophical analysis of theories of consciousness applied to organoid research practice.",
+      "method_zh": "把各种意识理论应用到类器官研究实践中的哲学分析。",
+      "keywords": [
+        "consciousness",
+        "precautionary principle",
+        "neuroethics"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1017/s0963180123000063",
+        "doi": "10.1017/s0963180123000063",
+        "arxiv": "",
+        "venue": "Cambridge Quarterly of Healthcare Ethics 2023"
+      }
+    },
+    {
+      "id": "thomas-hartung--oi-elsi",
+      "creator_ids": [
+        "thomas-hartung",
+        "lena-smirnova"
+      ],
+      "title": "Brain organoids and organoid intelligence from ethical, legal, and social points of view",
+      "year": 2024,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A review of ethical, legal and social issues for Organoid Intelligence, from donor consent and ownership of cells to possible consciousness and public trust.",
+      "description_zh": "一篇综述，梳理类器官智能涉及的伦理、法律和社会问题，从捐献者同意、细胞所有权，到可能的意识和公众信任。",
+      "idea_en": "Every biocomputer starts with a person who donated cells.",
+      "idea_zh": "每一台生物计算机都始于一位捐献细胞的人。",
+      "method": "Structured literature review organised around the lifecycle of organoid research.",
+      "method_zh": "围绕类器官研究生命周期组织的结构化文献综述。",
+      "keywords": [
+        "ELSI",
+        "donor consent",
+        "ownership",
+        "Organoid Intelligence"
+      ],
+      "images": [
+        "https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1307613/frai-06-1307613-HTML/image_m/frai-06-1307613-g001.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.3389/frai.2023.1307613",
+        "doi": "10.3389/frai.2023.1307613",
+        "arxiv": "",
+        "venue": "Frontiers in Artificial Intelligence 2024"
+      }
+    },
+    {
+      "id": "lomax-boyd--embodied-organoid-ethics",
+      "creator_ids": [
+        "lomax-boyd"
+      ],
+      "title": "Ethical concerns about embodied brain organoids shaped by foundational distinctions and perceptions of consciousness",
+      "year": 2026,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A survey study of how people judge brain organoids that are connected to bodies, robots or games, showing that views on consciousness and on what counts as a 'body' shape their concerns.",
+      "description_zh": "一项调查研究，考察人们如何评判接入身体、机器人或游戏的脑类器官，发现对意识的看法以及对“什么算身体”的理解会影响他们的担忧。",
+      "idea_en": "Public intuitions about embodiment should inform how organoid systems are designed and presented.",
+      "idea_zh": "公众对“具身”的直觉，应该影响类器官系统的设计与呈现方式。",
+      "method": "Survey experiment measuring ethical concern across scenarios of organoid embodiment, analysed against beliefs about consciousness.",
+      "method_zh": "通过调查实验测量不同类器官具身情境下的伦理担忧，并结合受访者对意识的信念进行分析。",
+      "keywords": [
+        "public attitudes",
+        "embodiment",
+        "survey",
+        "consciousness"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-026-43243-y/MediaObjects/41598_2026_43243_Fig1_HTML.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/s41598-026-43243-y",
+        "doi": "10.1038/s41598-026-43243-y",
+        "arxiv": "",
+        "venue": "Scientific Reports 2026"
+      }
+    },
+    {
+      "id": "jenn-leung--organoid-array-computing",
+      "creator_ids": [
+        "jenn-leung"
+      ],
+      "title": "Organoid Array Computing: The Design Space of Organoid Intelligence",
+      "year": 2025,
+      "field": "organoid",
+      "sub": "ethics",
+      "organisms": [
+        "neurons"
+      ],
+      "kind": "publication",
+      "description": "An essay for the Antikythera journal that maps the design space of networked organoid arrays and argues that organoid intelligence will develop through guided evolution of living matter rather than top-down engineering.",
+      "description_zh": "为 Antikythera 期刊撰写的文章，描绘了联网类器官阵列的设计空间，并主张类器官智能将通过对活体物质的“引导式进化”而非自上而下的工程来发展。",
+      "idea_en": "Design organoid computers as ecologies you cultivate, not machines you specify.",
+      "idea_zh": "把类器官计算机当作需要培育的生态来设计，而不是按规格制造的机器。",
+      "method": "Speculative design research drawing on organoid biology, distributed computing and planetary computation theory.",
+      "method_zh": "思辨设计研究，借鉴类器官生物学、分布式计算和行星尺度计算理论。",
+      "keywords": [
+        "Antikythera",
+        "design space",
+        "organoid arrays",
+        "speculative design"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/anti.5czm",
+        "doi": "10.1162/anti.5czm",
+        "arxiv": "",
+        "venue": "Antikythera Digital Journal 2025"
+      },
+      "source_url": "https://ualresearchonline.arts.ac.uk/id/eprint/24036/"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Jordan & Kutter (FinalSpark founders)",
+      "why": "Fred Jordan and Martin Kutter could get their own person entries; FinalSpark also runs a university access programme and dopamine-uncaging reward experiments.",
+      "link": "https://finalspark.com",
+      "found_via": "finalspark",
+      "status": "open"
+    },
+    {
+      "name": "Hon Weng Chong",
+      "why": "Cortical Labs founder/CEO; talks on biological computing and design of CL1.",
+      "link": "https://www.youtube.com/watch?v=69byI7_zTC0",
+      "found_via": "cortical-labs",
+      "status": "open"
+    },
+    {
+      "name": "Kataoka / Sawai (Hiroshima University) organoid ethics",
+      "why": "Tsutomu Sawai and colleagues publish widely on brain organoid ethics and moral status.",
+      "link": "",
+      "found_via": "andrea-lavazza",
+      "status": "open"
+    },
+    {
+      "name": "Starting a Synthetic Biological Intelligence Lab from Scratch (Tanveer et al.)",
+      "why": "Practical 2024 guide to setting up an SBI lab; useful for designers wanting hands-on access.",
+      "link": "https://arxiv.org/abs/2412.14112",
+      "found_via": "braingeneers",
+      "status": "open"
+    },
+    {
+      "name": "Synthetic Biological Intelligence: System-Level Abstractions and Adaptive Bio-Digital Interaction (Schottlender et al.)",
+      "why": "2026 arXiv paper on software abstractions for bio-digital interaction; possible interface/HCI angle.",
+      "link": "https://arxiv.org/abs/2604.27933",
+      "found_via": "cortical-labs",
+      "status": "open"
+    },
+    {
+      "name": "Brain Organoid Computing - an Overview (Talavera & Ulmann)",
+      "why": "2025 overview from an analog-computing perspective.",
+      "link": "https://arxiv.org/abs/2503.19770",
+      "found_via": "finalspark",
+      "status": "open"
+    },
+    {
+      "name": "Holm & Lewis, 'Looking Under the Lamppost' (AJOB Neuroscience 2026)",
+      "why": "Recent critique of Organoid Intelligence ethics framing.",
+      "link": "https://doi.org/10.1080/21507740.2026.2649180",
+      "found_via": "thomas-hartung",
+      "status": "open"
+    },
+    {
+      "name": "NSF BEGIN OI programme",
+      "why": "US funding programme for organoid intelligence (2024) that requires an ethicist as co-PI; funded projects may include design work.",
+      "link": "https://www.nsf.gov",
+      "found_via": "thomas-hartung",
+      "status": "open"
+    },
+    {
+      "name": "Mohammed Mostajo-Radji / Ash Robbins (UCSC)",
+      "why": "Braingeneers researchers behind organoid cartpole learning and educational remote organoid access for students.",
+      "link": "https://braingeneers.ucsc.edu",
+      "found_via": "braingeneers",
+      "status": "open"
+    },
+    {
+      "name": "Oron Catts & Ionat Zurr / SymbioticA",
+      "why": "Host lab of Ben-Ary's neural works; belongs mainly to the bio-art batch.",
+      "link": "",
+      "found_via": "guy-ben-ary",
+      "status": "duplicate"
+    },
+    {
+      "name": "Bricolage (Guy Ben-Ary, 2020)",
+      "why": "Self-assembling cardiomyocyte sculptures; heart cells, not neurons, so it belongs to the bio-art batch.",
+      "link": "https://guybenary.com/projects/bricolage.html",
+      "found_via": "guy-ben-ary",
+      "status": "off_topic"
+    },
+    {
+      "name": "Madeline Lancaster (MRC LMB)",
+      "why": "Inventor of cerebral organoids (2013); foundational but biology rather than computing.",
+      "link": "",
+      "found_via": "sergiu-pasca",
+      "status": "open"
+    },
+    {
+      "name": "Daniel Wagenaar / Douglas Bakkum",
+      "why": "Potter-lab alumni behind MEA closed-loop tools (MeaBench) and MEART; Bakkum later worked with HD-MEAs at ETH.",
+      "link": "",
+      "found_via": "steve-potter",
+      "status": "open"
+    },
+    {
+      "name": "Andreas Hierlemann / MaxWell Biosystems",
+      "why": "ETH Zurich HD-MEA technology used by Cortical Labs-style and UCSC organoid experiments.",
+      "link": "https://www.mxwbio.com",
+      "found_via": "kenneth-kosik",
+      "status": "open"
+    }
+  ]
+}

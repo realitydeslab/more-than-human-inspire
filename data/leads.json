@@ -1,0 +1,946 @@
+[
+ {
+  "name": "OXMAN — EDEN and VIGILS",
+  "why": "Recent OXMAN projects (buildings as ecosystems; engineered bacterial biopigment patterning on textiles); year of first showing not confirmed.",
+  "link": "https://www.oxman.com/projects/vigils",
+  "found_via": "oxman",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Anicka Yi",
+  "why": "Artist working with bacteria, scent and 'biologizing the machine' (e.g. Life is Cheap, Guggenheim 2017).",
+  "link": "https://www.guggenheim.org/artwork/artist/anicka-yi",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Jennifer Willet",
+  "why": "Bio artist, BioARTCAMP and Incubator lab (Windsor).",
+  "link": "https://www.incubatorartlab.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "George Gessert",
+  "why": "Plant-breeding artist (Iris Project), early genetic art.",
+  "link": "https://en.wikipedia.org/wiki/George_Gessert",
+  "found_via": "eduardo-kac",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Stelarc — Ear on Arm",
+  "why": "Surgically constructed ear on the forearm; continues Extra Ear ¼ Scale with TC&A.",
+  "link": "https://stelarc.org/?catID=20242",
+  "found_via": "oron-catts",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Critical Art Ensemble",
+  "why": "GenTerra, Free Range Grain: public-participation biotech critique.",
+  "link": "http://critical-art.net/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Orkan Telhan",
+  "why": "Designer of microbial design studios and bio-fabricated food/material platforms.",
+  "link": "https://www.design.upenn.edu/people/orkan-telhan",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Biodesign Challenge",
+  "why": "Student competition and summit (since 2015) linking art/design schools with biotech; good source of student projects.",
+  "link": "https://www.biodesignchallenge.org/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "iGEM Art & Design track",
+  "why": "Art & design projects within the iGEM synthetic biology competition.",
+  "link": "https://igem.org/",
+  "found_via": "alexandra-daisy-ginsberg",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Genspace",
+  "why": "Community biolab in Brooklyn; site of many DIY-bio art projects (e.g. Stranger Visions work).",
+  "link": "https://www.genspace.org/",
+  "found_via": "heather-dewey-hagborg",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Richard Beckett — Probiotic design",
+  "why": "Architecture that cultivates beneficial microbes indoors (The Bartlett).",
+  "link": "https://www.ucl.ac.uk/bartlett/architecture/people/richard-beckett",
+  "found_via": "marcos-cruz",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Martyn Dade-Robertson",
+  "why": "Newcastle University; responsive bio-materials and 'living construction' (bacteria that respond to pressure).",
+  "link": "https://www.ncl.ac.uk/",
+  "found_via": "rachel-armstrong",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Living Architecture Systems Group",
+  "why": "Beesley's international research network; many further installations (Aegis, Grove, Meander).",
+  "link": "https://livingarchitecturesystems.com/",
+  "found_via": "philip-beesley",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Achim Menges — HygroScope and livMatS Biomimetic Shell",
+  "why": "More hygroscopic and bio-based ICD projects not added here.",
+  "link": "https://www.icd.uni-stuttgart.de/projects/hygroscope-meteorosensitive-morphology/",
+  "found_via": "achim-menges",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "ecoLogicStudio — GAN-Physarum, XenoDerma, Tree One",
+  "why": "More bio-digital projects, including slime-mould urban mapping.",
+  "link": "https://www.ecologicstudio.com/projects/gan-physarum-la-derive-numerique",
+  "found_via": "ecologicstudio",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Alexandra Daisy Ginsberg — Every Thing Eats Light, Growth Assembly editions",
+  "why": "Further Ginsberg works on photosynthesis and plants.",
+  "link": "https://www.daisyginsberg.com/work/every-thing-eats-light",
+  "found_via": "alexandra-daisy-ginsberg",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Kathy High",
+  "why": "Embracing Animal (2004): transgenic rats as art and care.",
+  "link": "https://www.kathyhigh.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Gina Czarnecki",
+  "why": "Palaces (2012): crystal sculpture to be seeded with stem cells from donated milk teeth.",
+  "link": "https://www.ginaczarnecki.com/",
+  "found_via": "oron-catts",
+  "status": "open",
+  "batch": "bio-arch-art"
+ },
+ {
+  "name": "Fiona Bell & Mirela Alistar (ATLAS, CU Boulder)",
+  "why": "HCI biomaterials: Kombucha SCOBY studio (TEI 2023, 10.1145/3569009.3571841), ReClaym compost clay (CHI 2022), Alganyl; likely belongs to biohybrid-hci",
+  "link": "https://www.fionaabell.com/",
+  "found_via": "stacey-kuznetsov",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Madalina Nicolae – Biohybrid Devices (UIST 2023)",
+  "why": "Bacterial cellulose + electronics fabrication framework (10.1145/3586183.3606774); interface-focused, for biohybrid-hci",
+  "link": "https://hci.cs.uni-saarland.de/projects/biohybrid-devices/",
+  "found_via": "eldy-lazaro-vasquez",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Elise Elsacker",
+  "why": "Mycelium composite materials research and bio-based architecture (VUB / Brussels)",
+  "link": "https://www.eliseelsacker.com/",
+  "found_via": "andre-studart",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Han Wösten (Utrecht University)",
+  "why": "Mycologist behind many design collaborations (Montalti, Livin Studio, Klarenbeek)",
+  "link": "https://www.uu.nl/staff/HABWosten",
+  "found_via": "maurizio-montalti",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Amy Congdon – Biological Atelier",
+  "why": "Tissue-engineered textiles and jewellery; co-created Zoa at Modern Meadow",
+  "link": "https://www.amycongdon.com/",
+  "found_via": "modern-meadow",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Living Ink Technologies",
+  "why": "Algae-based black ink as carbon-negative pigment",
+  "link": "https://livinginktech.com/",
+  "found_via": "charlotte-mccurdy",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Malai (coconut-water bacterial cellulose, India)",
+  "why": "Bacterial cellulose leather alternative from coconut water waste",
+  "link": "https://malai.eco/",
+  "found_via": "suzanne-lee",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Polybion – Celium",
+  "why": "Bacterial cellulose material grown on fruit waste (Mexico)",
+  "link": "https://www.polybion.bio/",
+  "found_via": "suzanne-lee",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Pili",
+  "why": "Microbial fermentation of dyes and pigments (France)",
+  "link": "https://www.pili.bio/",
+  "found_via": "colorifix",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Julia Lohmann – Hidaka Ohmu kelp pavilion (WEF Davos 2020)",
+  "why": "Large kelp-and-rattan pavilion; could be a separate work under Department of Seaweed",
+  "link": "https://www.dezeen.com/2020/01/24/seaweed-pavilion-julia-lohmann-hidaka-ohmu-architecture/",
+  "found_via": "julia-lohmann",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Faber Futures – Colour Coded (2018)",
+  "why": "Pigment collection and research on microbial colour; second Chieza work",
+  "link": "https://faberfutures.com/projects/colour-coded/",
+  "found_via": "natsai-audrey-chieza",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Jonas Edvard – Myx tile / Myx chair",
+  "why": "Further mycelium works (acoustic tile 2017, chair for The Mindcraft Project)",
+  "link": "https://www.jonasedvard.com/myx/myxtile",
+  "found_via": "jonas-edvard",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Carole Collet – Botanical Fur and other Design & Living Systems Lab projects",
+  "why": "More speculative plant/microbe textile works",
+  "link": "https://www.carolecollet.com/",
+  "found_via": "carole-collet",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Dirk Hebel & Felix Heisel – Cultivated Building Materials (Birkhäuser, 2017)",
+  "why": "Key book on grown building materials (mycelium, bamboo, bacteria)",
+  "link": "https://nb.ieb.kit.edu/",
+  "found_via": "dirk-hebel",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "MY-CO SPACE (MY-CO-X, 2018) and Shell Mycelium (Kochi Biennale 2016)",
+  "why": "Further mycelium pavilions; check against bio-arch-art",
+  "link": "",
+  "found_via": "dirk-hebel",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Richard Reames – arborsculpture",
+  "why": "Tree-shaping practitioner and author",
+  "link": "",
+  "found_via": "pooktre",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Teresa van Dongen – Electric Life (2019)",
+  "why": "Installation powered by electroactive bacteria; follow-up to Spark of Life",
+  "link": "https://www.teresavandongen.com/Electric-Life",
+  "found_via": "teresa-van-dongen",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Kukka (Laura Luchtman)",
+  "why": "Further natural and bacterial dye projects",
+  "link": "https://www.kukka.nl/",
+  "found_via": "living-colour",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Lining Yao – Morphing Matter Lab other bio-based works",
+  "why": "Check for bio-based responsive materials beyond bioLogic (e.g. hygromorphic biomaterials)",
+  "link": "https://morphingmatter.org/",
+  "found_via": "lining-yao",
+  "status": "open",
+  "batch": "bio-materials"
+ },
+ {
+  "name": "Christopher Voigt lab — Living circuit boards (bacterial transistors)",
+  "why": "Printed bacterial transistors wired into living circuit boards (Nat Chem Biol, Aug 2026); bacterial computing, better fit for biohybrid-unconv/molecular.",
+  "link": "https://news.mit.edu/2026/mit-engineers-connect-bacteria-to-create-living-transistors-0817",
+  "found_via": "christopher-voigt",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Netta Ofer & Mirela Alistar — Tracing as a Strategy for Orienting to Nonhuman Perspectives",
+  "why": "First-person tracing practice with slime mould (DIS 2024, 10.1145/3643834.3661621); fits mth theory-methods or fungal-computing.",
+  "link": "https://doi.org/10.1145/3643834.3661621",
+  "found_via": "netta-ofer",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Katia Vega et al. — DermalAbyss",
+  "why": "Biosensor tattoo inks that change colour with interstitial fluid (ISWC 2017, MIT Media Lab + Harvard); chemical not living, possible body-bio entry.",
+  "link": "https://www.media.mit.edu/projects/d-Abyss/overview/",
+  "found_via": "pat-pataranutaporn",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Foad Hamidi — Engaging Children Using a Digital Living Media System (DIS 2017)",
+  "why": "Follow-up to Rafigh; living media in children's games.",
+  "link": "https://doi.org/10.1145/3064663.3064708",
+  "found_via": "foad-hamidi",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Asgarali-Hoffman & Hamidi — Perspectives of Bioartists and Community Lab Organizers on Working with Living Organisms (CHI 2021)",
+  "why": "Interview study on practices and ethics of living-organism work; good for theory-methods.",
+  "link": "https://doi.org/10.1145/3411764.3445060",
+  "found_via": "foad-hamidi",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Stacey Kuznetsov — DIYbio Things (CHI 2015) and (DIY)biology and opportunities for HCI (DIS 2012)",
+  "why": "Foundational HCI papers on DIY biology tools and practices.",
+  "link": "https://doi.org/10.1145/2702123.2702235",
+  "found_via": "raphael-kim",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Pat Pataranutaporn — Wearable Lab on Body; Bio-Digital Wearables for Space Health",
+  "why": "Saliva biomarker sampling wearable and space bio-wearables; not living-organism based or no public media.",
+  "link": "https://www.media.mit.edu/projects/wearable-lab-on-body/overview/",
+  "found_via": "pat-pataranutaporn",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Karana group — On the Habitabilities of Bacterial Cellulose for Living Artefacts (DIS 2025)",
+  "why": "Bacterial cellulose as habitat for fungi/algae; biomaterial focus, left to bio-materials.",
+  "link": "https://doi.org/10.1145/3715336.3735432",
+  "found_via": "elvin-karana",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Peter Gloor (MIT CCI) — plants as sensors of human emotion",
+  "why": "Correlates plant bioelectric signals with human emotional states (Biomimetics 2026 and earlier).",
+  "link": "https://doi.org/10.3390/biomimetics11040236",
+  "found_via": "harpreet-sareen",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Hortum — cybernetic plant lifeform",
+  "why": "Plant-robot hybrid reported by Futurism; unresearched.",
+  "link": "https://www.youtube.com/watch?v=FU2OlfGF5FA",
+  "found_via": "harpreet-sareen",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Jasmine Lu & Pedro Lopes — Ecological HCI: Reflection and Future (CHI 2024 EA)",
+  "why": "Panel/overview on ecological HCI, theory-methods.",
+  "link": "https://doi.org/10.1145/3613905.3643985",
+  "found_via": "jasmine-lu",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Deep Rooted Connections: Cultivating Human-Plant-Computer Interaction Across Cultures (2025)",
+  "why": "Human-plant-computer interaction work by Boulahcen & Young; unresearched.",
+  "link": "https://doi.org/10.1145/3757232.3757240",
+  "found_via": "harpreet-sareen",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Gilberto Esparza — Plantas Nómadas",
+  "why": "Robot powered by microbial fuel cells from polluted water that carries plants; biohybrid robot / bio art.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Light Bio — Firefly Petunia",
+  "why": "Consumer autoluminescent plant (2024); plants as living lights, bio/synbio product.",
+  "link": "",
+  "found_via": "michael-strano",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Neri Oxman / Mediated Matter — Wanderers & Mushtari",
+  "why": "Wearables with photosynthetic and engineered microbes for the body; likely covered by bio-arch-art.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "biohybrid-hci"
+ },
+ {
+  "name": "Pierre Huyghe — Exomind (Deep Water)",
+  "why": "Living beehive on a concrete figure in a permanent garden at Dazaifu Tenmangu shrine (2017–); image only, could be its own work.",
+  "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/17096-pierre-huyghe-exomind-deep-water-2017ongoing/",
+  "found_via": "pierre-huyghe",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Pierre Huyghe — Umwelt (2011, ants and spiders on wall)",
+  "why": "Early gallery work releasing ants and spiders; image available at Esther Schipper.",
+  "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/7048-pierre-huyghe-umwelt-2011/",
+  "found_via": "pierre-huyghe",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Tomás Saraceno — Spider/Web Pavilion 7 and Arachnomancy cards",
+  "why": "Venice 2019 web pavilion and a spider-web divination deck; more works on studiotomassaraceno.org.",
+  "link": "https://studiotomassaraceno.org/spiderweb-pavilion-7/",
+  "found_via": "tomas-saraceno",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Sonia Levy — Creatures of the Lines",
+  "why": "Film on London's canal ecosystems (Nottingham Contemporary screening).",
+  "link": "https://www.youtube.com/watch?v=odAqq-XU0ic",
+  "found_via": "sonia-levy",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Jakob Kudsk Steensen — Catharsis / Liminal Lands",
+  "why": "Old-growth forest and other ecosystem simulations on the artist site.",
+  "link": "https://jakobsteensen.com/",
+  "found_via": "jakob-kudsk-steensen",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Chris Watson",
+  "why": "Wildlife sound recordist and sound artist (Weather Report, Inside the Circle of Fire).",
+  "link": "https://chriswatson.net/",
+  "found_via": "jana-winderen",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Leah Barclay",
+  "why": "Sound artist and researcher on acoustic ecology and river listening (River Listening, Biosphere Soundscapes).",
+  "link": "https://leahbarclay.com/",
+  "found_via": "jana-winderen",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Robertina Šebjanič",
+  "why": "Artist working with underwater noise and jellyfish (Aurelia 1+Hz, Echoes of the Abyss).",
+  "link": "https://robertina.net/",
+  "found_via": "kuai-shen",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "World Wilder Lab (Kasia Molga, Erik Overmeire, Ivan Henriques)",
+  "why": "Platform for inter- and intra-species communication founded 2013.",
+  "link": "https://www.studiomolga.com/ABOUT.html",
+  "found_via": "kasia-molga",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Sam Cusumano (Electricfeel)",
+  "why": "Built the biodata sonification hardware behind Data Garden Quartet and MIDI Sprout.",
+  "link": "https://www.youtube.com/watch?v=ekV1ngd_9GY",
+  "found_via": "data-garden",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Martin Bencsik",
+  "why": "Physicist monitoring honeybee colonies with accelerometers; scientific partner of The Hive.",
+  "link": "https://adventuresinbeeland.com/2017/03/05/middlesex-federation-day-dr-martin-bencsik-monitoring-honeybee-colony-activity-with-accelerometer-sensors/",
+  "found_via": "wolfgang-buttress",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Marshmallow Laser Feast — Evolver / Of the Oak",
+  "why": "Later MLF works on breath, bodies and trees not yet added.",
+  "link": "https://marshmallowlaserfeast.com/",
+  "found_via": "marshmallow-laser-feast",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Ackroyd & Harvey — Beuys' Acorns",
+  "why": "Oak saplings grown from Joseph Beuys's 7000 Oaks acorns; tree-care as art.",
+  "link": "https://www.ackroydandharvey.com/",
+  "found_via": "ackroyd-harvey",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Kuai Shen — Thermotaxis / The Crossing",
+  "why": "Further ant-colony installations (redwood ants in a cooled vessel; rain ants crossing laser barriers).",
+  "link": "https://kuaishen.tv/thermotaxis.html",
+  "found_via": "kuai-shen",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Shimabuku / Julia Lohmann Kelp Council / MOTH (More Than Human Life) — Design Museum 'More than Human' 2025",
+  "why": "Exhibition list is a good source: Kelp Council, rights-of-waterways mural by MOTH (NYU), Alusta Pavilion, Andrés Jaque's Microplanetary Rosette.",
+  "link": "https://designmuseum.org/exhibitions/more-than-human",
+  "found_via": "superflux",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "MOTH — More Than Human Life Project (NYU, César Rodríguez-Garavito)",
+  "why": "Rights of nature and more-than-human rights programme with festival and mural; video y6MUjXUnaQg.",
+  "link": "https://mothproject.org",
+  "found_via": "superflux",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Superflux — The Quiet Enchanting (2024)",
+  "why": "Mythic frieze on Bush House, King's College London, about collective re-enchantment with nature; Vimeo 952330021.",
+  "link": "https://superflux.in/index.php/work/the-quiet-enchanting/",
+  "found_via": "superflux",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Superflux — The Vault of Life, Museum of the Future Dubai (2022)",
+  "why": "Biodiversity vault exhibition, Vimeo 718404298.",
+  "link": "https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/",
+  "found_via": "superflux",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Natalie Jeremijenko — OOZ, Feral Robotic Dogs, Cross(x)Species Adventure Club, xDrones",
+  "why": "Several more interspecies interfaces; environmentalhealthclinic.net domain now hosts spam, so media must come from museum or press pages.",
+  "link": "https://en.wikipedia.org/wiki/Natalie_Jeremijenko",
+  "found_via": "natalie-jeremijenko",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Forensic Architecture — Cloud Studies (2020–21)",
+  "why": "Investigations of toxic clouds and airborne violence; atmosphere as evidence.",
+  "link": "https://forensic-architecture.org/investigation/cloud-studies",
+  "found_via": "forensic-architecture",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Andrés Jaque — The Microplanetary Rosette (2025) / Transmaterial works",
+  "why": "Shown in Design Museum More than Human; microbial ecologies as architecture.",
+  "link": "https://designmuseum.org/exhibitions/more-than-human",
+  "found_via": "andres-jaque",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Tobias Revell / Agi Haines / Dunne & Raby",
+  "why": "Speculative-design names from the brief; their work is mostly human- or synbio-centred, so nothing clearly nonhuman-oriented was found without web search.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Parliament of Things (Het Nieuwe Instituut / Casco, 2015–)",
+  "why": "Latour-inspired process that led to the Embassy of the North Sea.",
+  "link": "https://theparliamentofthings.org",
+  "found_via": "embassy-of-the-north-sea",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Interspecies Internet — Animals in Translation workshops",
+  "why": "Annual convenings linking ESP, CETI and ACI researchers; video qImucxZzzew.",
+  "link": "https://www.interspecies.io/",
+  "found_via": "interspecies-internet",
+  "status": "open",
+  "batch": "mth-art-spec"
+ },
+ {
+  "name": "Laura Devendorf / Unstable Design Lab",
+  "why": "Co-author of Design for Collaborative Survival; weaving and more-than-human making.",
+  "link": "https://www.unstable.design/",
+  "found_via": "jen-liu",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Audrey Desjardins",
+  "why": "Co-author of High Water Pants; home, data and more-than-human speculation.",
+  "link": "",
+  "found_via": "heidi-biggs",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Ann Light",
+  "why": "Co-author of more-than-human participation; PD with non-human stakeholders; 'More-than-Human Participatory Approaches for Design' (PDC 2024, 10.1145/3661455.3669862).",
+  "link": "",
+  "found_via": "rachel-clarke",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Anna Poikolainen Rosén",
+  "why": "Learning from gardening, felt senses for more-than-human design (DIS 2024), 'Introducing More-Than-Human Design in Practice' (Interactions 2025).",
+  "link": "",
+  "found_via": "sara-heitlinger",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Stanislav Roudavski",
+  "why": "Designs habitat structures for birds; 'Are You Blocking Nonhuman Leadership?' (PDC 2026).",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Hanna Wirman",
+  "why": "Orangutan touch-screen games; ACI and game studies.",
+  "link": "",
+  "found_via": "sarah-webber",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Apps for Apes (Orangutan Outreach)",
+  "why": "iPad enrichment programme for zoo orangutans; product-side counterpart to ACI research.",
+  "link": "",
+  "found_via": "sarah-webber",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Pig Chase / Playing with Pigs (Utrecht School of the Arts, Wageningen)",
+  "why": "Game in which farmed pigs and humans play via a touch-sensitive light wall.",
+  "link": "",
+  "found_via": "clara-mancini",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Alinta Krauth & Jason Nelson",
+  "why": "A(I)nimal-centred AI Jam (ACI 2023, 10.1145/3637882.3637903); art-leaning, better for mth-art-spec.",
+  "link": "https://www.alintakrauth.com/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Armi Behzad",
+  "why": "Iterating through Feeling-with Nonhuman Things (CHI EA 2022); Making Space for Poems (2024).",
+  "link": "",
+  "found_via": "ron-wakkary",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Pschetz et al. - Designing Temporal Ecologies",
+  "why": "Multispecies temporalities through design (DRS 2024, 10.21606/drs.2024.1068) and 2026 Bloomsbury book.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Tagus Multispecies Atlas",
+  "why": "Counter-mapping for affective multispecies interactions (2026, 10.1145/3803784.3809274).",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Anuradha Reddy / Marie Louise Juul Søndergaard / Yolande Strengers",
+  "why": "Co-authors of More-Than-Human Design and AI; AI agents, smart home and feminist posthuman design.",
+  "link": "",
+  "found_via": "iohanna-nicenboim",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Jennifer Gabrys - Planetary Praxis",
+  "why": "Follow-up to Smart Forests on environmental data and practice.",
+  "link": "https://www.jennifergabrys.net/",
+  "found_via": "jennifer-gabrys",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Kristina Lindström & Åsa Ståhl - Un/Making / compost projects",
+  "why": "Aftermath of design, compost and plastics projects with public participation.",
+  "link": "",
+  "found_via": "kristina-lindstrom",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Daisy Yoo",
+  "why": "Co-author of the NordiCHI 2024 more-than-human scoping review; value-sensitive and long-term design.",
+  "link": "",
+  "found_via": "eva-eriksson",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Charlotte Robinson & Clara Mancini - assistance dog emergency communication (UbiComp 2015)",
+  "why": "10.1145/2750858.2805849; follow-on to canine-centred interface design.",
+  "link": "",
+  "found_via": "clara-mancini",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Melody Jackson - Canine Computer Interaction (ACI 2016)",
+  "why": "10.1145/2995257.2995384; more working-dog interfaces from Georgia Tech.",
+  "link": "",
+  "found_via": "melody-moore-jackson",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Jeffrey Bardzell",
+  "why": "Co-author across the Bardzell lab's naturecultures papers.",
+  "link": "",
+  "found_via": "shaowen-bardzell",
+  "status": "open",
+  "batch": "mth-hci"
+ },
+ {
+  "name": "Jordan & Kutter (FinalSpark founders)",
+  "why": "Fred Jordan and Martin Kutter could get their own person entries; FinalSpark also runs a university access programme and dopamine-uncaging reward experiments.",
+  "link": "https://finalspark.com",
+  "found_via": "finalspark",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Hon Weng Chong",
+  "why": "Cortical Labs founder/CEO; talks on biological computing and design of CL1.",
+  "link": "https://www.youtube.com/watch?v=69byI7_zTC0",
+  "found_via": "cortical-labs",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Kataoka / Sawai (Hiroshima University) organoid ethics",
+  "why": "Tsutomu Sawai and colleagues publish widely on brain organoid ethics and moral status.",
+  "link": "",
+  "found_via": "andrea-lavazza",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Starting a Synthetic Biological Intelligence Lab from Scratch (Tanveer et al.)",
+  "why": "Practical 2024 guide to setting up an SBI lab; useful for designers wanting hands-on access.",
+  "link": "https://arxiv.org/abs/2412.14112",
+  "found_via": "braingeneers",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Synthetic Biological Intelligence: System-Level Abstractions and Adaptive Bio-Digital Interaction (Schottlender et al.)",
+  "why": "2026 arXiv paper on software abstractions for bio-digital interaction; possible interface/HCI angle.",
+  "link": "https://arxiv.org/abs/2604.27933",
+  "found_via": "cortical-labs",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Brain Organoid Computing - an Overview (Talavera & Ulmann)",
+  "why": "2025 overview from an analog-computing perspective.",
+  "link": "https://arxiv.org/abs/2503.19770",
+  "found_via": "finalspark",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Holm & Lewis, 'Looking Under the Lamppost' (AJOB Neuroscience 2026)",
+  "why": "Recent critique of Organoid Intelligence ethics framing.",
+  "link": "https://doi.org/10.1080/21507740.2026.2649180",
+  "found_via": "thomas-hartung",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "NSF BEGIN OI programme",
+  "why": "US funding programme for organoid intelligence (2024) that requires an ethicist as co-PI; funded projects may include design work.",
+  "link": "https://www.nsf.gov",
+  "found_via": "thomas-hartung",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Mohammed Mostajo-Radji / Ash Robbins (UCSC)",
+  "why": "Braingeneers researchers behind organoid cartpole learning and educational remote organoid access for students.",
+  "link": "https://braingeneers.ucsc.edu",
+  "found_via": "braingeneers",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Madeline Lancaster (MRC LMB)",
+  "why": "Inventor of cerebral organoids (2013); foundational but biology rather than computing.",
+  "link": "",
+  "found_via": "sergiu-pasca",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Daniel Wagenaar / Douglas Bakkum",
+  "why": "Potter-lab alumni behind MEA closed-loop tools (MeaBench) and MEART; Bakkum later worked with HD-MEAs at ETH.",
+  "link": "",
+  "found_via": "steve-potter",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "Andreas Hierlemann / MaxWell Biosystems",
+  "why": "ETH Zurich HD-MEA technology used by Cortical Labs-style and UCSC organoid experiments.",
+  "link": "https://www.mxwbio.com",
+  "found_via": "kenneth-kosik",
+  "status": "open",
+  "batch": "organoid"
+ },
+ {
+  "name": "WhiteFeather Hunter",
+  "why": "Bio artist; co-creator of Sentient Clit / Synthetic Sentience (bioprinted tissue from menstrual stem cells).",
+  "link": "",
+  "found_via": "jiabao-li",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Manu Prakash (Prakash Lab, Stanford)",
+  "why": "Frugal science; PlanktonScope and Gravity Machine data behind The Long Fall.",
+  "link": "https://web.stanford.edu/group/prakash-lab/",
+  "found_via": "jiabao-li",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Ecocentric Future Lab",
+  "why": "Jiabao Li's former UT Austin lab; Entangled Intelligences project.",
+  "link": "https://www.ecocentricfuture.com/entangled-intelligences",
+  "found_via": "jiabao-li",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Eike Schneiders",
+  "why": "Lead author of the Cat Royale papers; multispecies HRI.",
+  "link": "",
+  "found_via": "steve-benford",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Alan Chamberlain",
+  "why": "Mixed Reality Lab; animal-centric autonomous systems and trust.",
+  "link": "",
+  "found_via": "steve-benford",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Center for Genomic Gastronomy (Zack Denfeld & Cat Kramer)",
+  "why": "BAD Award 2011: Eat Less, Live More – and Pray for Beans.",
+  "link": "https://www.badaward.nl/artists-scientists/zack-denfeld-cat-kramer",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Agi Haines",
+  "why": "BAD Award 2015: Drones with Desires (machines with reconstructed nervous systems).",
+  "link": "https://www.badaward.nl/artists-scientists/agi-haines-marcel-de-jeu-jos-van-der-geest",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Marlot Meyer",
+  "why": "BAD Award 2022: Hacking Heuristics, non-anthropocentric embodied language via neural networks.",
+  "link": "https://www.badaward.nl/artists-scientists/marlot-meyer-with-marcel-de-jeu-jos-van-der-geest",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "Susana Cámara Leret & Mike Thompson",
+  "why": "BAD Award 2011: Aqua Vita, metabolic paintings from urine.",
+  "link": "https://www.badaward.nl/artists-scientists/susana-c%C3%A1mara-leret-and-mike-thompson",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "MU Hybrid Art House",
+  "why": "Eindhoven art house that runs the BAD Award and bio art exhibitions.",
+  "link": "https://mu.nl/en",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ },
+ {
+  "name": "BioArt Laboratories",
+  "why": "Eindhoven bio art lab (Jalila Essaïdi), BAD Award partner.",
+  "link": "https://bioartlab.com/",
+  "found_via": "bad-award",
+  "status": "open",
+  "batch": "user-picks"
+ }
+]

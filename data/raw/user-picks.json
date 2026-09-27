@@ -1,0 +1,2933 @@
+{
+ "batch": "user-picks",
+ "creators": [
+  {
+   "id": "ani-liu",
+   "name": "Ani Liu",
+   "kind": "person",
+   "role": "Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania",
+   "role_zh": "艺术家；宾夕法尼亚大学韦茨曼设计学院 Carrafiell 助理教授（新兴设计方向）",
+   "bio": "Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care.",
+   "bio_zh": "以研究为基础的艺术家，工作横跨生物学、技术与性别议题；毕业于 MIT 媒体实验室，曾任普林斯顿艺术学者。她的雕塑和装置用微生物、植物、母乳、精子和气味来探讨生育、劳动与照护。",
+   "why": "She shows how living material and lab techniques can carry questions about bodies, gender and interspecies intimacy.",
+   "why_zh": "她展示了活体材料和实验室手段如何承载关于身体、性别与跨物种亲密关系的提问。",
+   "links": {
+    "site": "https://ani-liu.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Philadelphia, US",
+   "based_zh": "费城，美国"
+  },
+  {
+   "id": "jiabao-li",
+   "name": "Jiabao Li",
+   "kind": "person",
+   "role": "Artist and designer; Associate Professor, Northeastern University (previously UT Austin, Stanford; Apple designer)",
+   "role_zh": "艺术家、设计师；美国东北大学副教授（曾任教于德州大学奥斯汀分校、斯坦福大学，曾任苹果公司设计师）",
+   "bio": "Artist, inventor and professor (Harvard GSD alum) whose installations, XR works, bio-art and performances deal with glaciers, bats, mice, squid, elephants and plankton. She co-founded Endless Health and ran the Ecocentric Future Lab at UT Austin.",
+   "bio_zh": "艺术家、发明者和教授（哈佛设计研究生院毕业），用装置、XR、生物艺术和表演处理冰川、蝙蝠、老鼠、鱿鱼、大象和浮游生物等主题。她联合创办了 Endless Health，并在德州大学奥斯汀分校主持生态中心未来实验室。",
+   "why": "Her body of work is one of the broadest current practices of co-creating with and for nonhuman species and melting ice.",
+   "why_zh": "她的作品是当下与非人类物种、与正在消融的冰川共同创作、为它们创作的最广泛实践之一。",
+   "links": {
+    "site": "https://www.jiabaoli.org",
+    "instagram": "https://www.instagram.com/jia.bao.li/"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国"
+  },
+  {
+   "id": "steve-benford",
+   "name": "Steve Benford",
+   "kind": "person",
+   "role": "Professor of Collaborative Computing, Mixed Reality Lab, University of Nottingham",
+   "role_zh": "诺丁汉大学混合现实实验室协作计算教授",
+   "bio": "Co-founder of the Mixed Reality Lab, known for performance-led research in the wild with artists such as Blast Theory, and for the trajectories framework. Recent work studies robots, AI and animals through the artwork Cat Royale.",
+   "bio_zh": "混合现实实验室联合创始人，以与 Blast Theory 等艺术家合作、在真实场景中进行的表演导向研究和“轨迹”框架著称。近年通过艺术作品 Cat Royale 研究机器人、AI 与动物。",
+   "why": "He brings artist-led, in-the-wild methods and careful ethics to multispecies technology research.",
+   "why_zh": "他把艺术家主导、在真实场景中展开的研究方法和细致的伦理实践带进多物种技术研究。",
+   "links": {
+    "site": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/people/steve.benford"
+   },
+   "connected_to": [
+    "blast-theory"
+   ],
+   "discovered_via": "seed",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国"
+  },
+  {
+   "id": "blast-theory",
+   "name": "Blast Theory",
+   "kind": "studio",
+   "role": "Artist group led by Matt Adams, Ju Row Farr and Nick Tandavanitj",
+   "role_zh": "由 Matt Adams、Ju Row Farr 和 Nick Tandavanitj 领导的艺术团体",
+   "bio": "Brighton-based artist group making interactive and mixed-reality works since 1991, long-term collaborators of Nottingham's Mixed Reality Lab.",
+   "bio_zh": "总部位于布莱顿的艺术团体，自 1991 年起创作互动与混合现实作品，是诺丁汉大学混合现实实验室的长期合作者。",
+   "why": "Their Cat Royale turned a robot caring for cats into a public test of trust in AI.",
+   "why_zh": "他们的 Cat Royale 把“机器人照顾猫”变成一场关于人们是否信任 AI 的公开实验。",
+   "links": {
+    "site": "https://www.blasttheory.co.uk",
+    "vimeo": "https://vimeo.com/blasttheory"
+   },
+   "connected_to": [
+    "steve-benford"
+   ],
+   "discovered_via": "steve-benford",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国"
+  },
+  {
+   "id": "studio-psk",
+   "name": "Studio PSK",
+   "kind": "studio",
+   "role": "Design studio (Patrick Stevenson-Keating)",
+   "role_zh": "设计工作室（Patrick Stevenson-Keating）",
+   "bio": "London design studio making speculative objects and narratives about science, technology and economics.",
+   "bio_zh": "伦敦设计工作室，围绕科学、技术与经济制作思辨性物件和叙事。",
+   "why": "It uses a near-future pigeon to show how markets could steer evolution.",
+   "why_zh": "它用一只近未来的鸽子展示市场如何左右进化。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "isaac-monte",
+   "name": "Isaac Monté",
+   "kind": "person",
+   "role": "Designer and artist",
+   "role_zh": "设计师、艺术家",
+   "bio": "Dutch designer who works with biological tissue and material processes, including decellularised organs.",
+   "bio_zh": "荷兰设计师，使用生物组织和材料工艺创作，包括脱细胞器官。",
+   "why": "He treats animal organs as design material and asks what ‘improving’ a body means.",
+   "why_zh": "他把动物器官当作设计材料，追问“改良”身体意味着什么。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "pei-ying-lin",
+   "name": "Pei-Ying Lin",
+   "kind": "person",
+   "role": "Designer and artist",
+   "role_zh": "设计师、艺术家",
+   "bio": "Taiwanese designer and researcher making speculative work on viruses, microbes and human–nonhuman relations.",
+   "bio_zh": "台湾设计师和研究者，以病毒、微生物和人与非人关系为主题创作思辨作品。",
+   "why": "She reframes viruses from enemies into partners that can be tamed.",
+   "why_zh": "她把病毒从敌人重新想象为可以被驯化的伙伴。",
+   "links": {
+    "site": "https://peiyinglin.net"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "cecilia-jonsson",
+   "name": "Cecilia Jonsson",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Swedish artist working with metals, minerals and biological material, often extracting iron from living sources.",
+   "bio_zh": "瑞典艺术家，使用金属、矿物和生物材料创作，常从生命体中提取铁。",
+   "why": "She turns the iron in human placentas into a navigational object.",
+   "why_zh": "她把人类胎盘中的铁变成一枚指南针。",
+   "links": {
+    "site": "https://www.ceciliajonsson.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jiwon-woo",
+   "name": "Jiwon Woo",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Korean artist working with microbes, fungi and fermentation to explore identity and inheritance.",
+   "bio_zh": "韩国艺术家，用微生物、真菌和发酵探讨身份与传承。",
+   "why": "She treats the microbes on a cook's hands as a family heritage.",
+   "why_zh": "她把厨师手上的微生物当作一种家族遗产。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "xandra-van-der-eijk",
+   "name": "Xandra van der Eijk",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Dutch artist working on ecological change, landscapes and the sea through sound, material and long-term research.",
+   "bio_zh": "荷兰艺术家，用声音、材料和长期研究关注生态变化、景观与海洋。",
+   "why": "She gives access to an industrialised sea by listening to it.",
+   "why_zh": "她通过聆听让人接近一片被工业化的海。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "baum-leahy",
+   "name": "Baum & Leahy",
+   "kind": "studio",
+   "role": "Artist duo (Amanda Baum and Rose Leahy)",
+   "role_zh": "艺术家二人组（Amanda Baum 与 Rose Leahy）",
+   "bio": "Artist-designer duo making speculative installations about microbes, deep time and more-than-human futures.",
+   "bio_zh": "艺术家-设计师二人组，创作关于微生物、深时和超越人类未来的思辨装置。",
+   "why": "They propose the Microbiocene: an epoch told from the microbes' point of view.",
+   "why_zh": "她们提出“微生物世”：一个从微生物视角讲述的地质时代。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "jonathan-ho",
+   "name": "Jonathan Ho",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Artist whose installations mix mythology, biology and gender, working with snail biologist Joris Koene on hermaphroditism.",
+   "bio_zh": "艺术家，装置融合神话、生物学与性别议题，曾与蜗牛生物学家 Joris Koene 合作研究雌雄同体。",
+   "why": "He uses the hermaphrodite snail as an icon of sexual fluidity.",
+   "why_zh": "他把雌雄同体的蜗牛当作性别流动的图腾。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emma-van-der-leest",
+   "name": "Emma van der Leest",
+   "kind": "person",
+   "role": "Biodesigner; founder of BlueCity Lab",
+   "role_zh": "生物设计师；BlueCity Lab 创始人",
+   "bio": "Dutch biodesigner who grows materials such as bacterial cellulose leather and runs the BlueCity Lab for biodesign in Rotterdam.",
+   "bio_zh": "荷兰生物设计师，培育细菌纤维素皮革等材料，并在鹿特丹运营生物设计实验室 BlueCity Lab。",
+   "why": "She works on making microbe-grown leather usable in everyday products.",
+   "why_zh": "她致力于让微生物长出的皮革能用在日常产品里。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Rotterdam, NL",
+   "based_zh": "鹿特丹，荷兰"
+  },
+  {
+   "id": "michael-sedbon",
+   "name": "Michael Sedbon",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.",
+   "bio_zh": "法国艺术家，搭建由算法管理蓝藻等活体培养物的人工生态系统。",
+   "why": "His setups make bacteria the citizens of machine-run political systems.",
+   "why_zh": "他的装置让细菌成为由机器治理的政治系统中的“公民”。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "sissel-marie-tonn",
+   "name": "Sissel Marie Tonn",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Danish artist whose research-based works deal with embodiment, pollution and how bodies sense their environment.",
+   "bio_zh": "丹麦艺术家，研究型作品关注具身性、污染以及身体如何感知环境。",
+   "why": "She imagines humans as sentinel species that register pollution in their own cells.",
+   "why_zh": "她把人想象成用自身细胞记录污染的“哨兵物种”。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "The Hague, NL",
+   "based_zh": "海牙，荷兰"
+  },
+  {
+   "id": "dasha-tsapenko",
+   "name": "Dasha Tsapenko",
+   "kind": "person",
+   "role": "Designer",
+   "role_zh": "设计师",
+   "bio": "Ukrainian designer based in the Netherlands, working with fungi, plants and grown textiles.",
+   "bio_zh": "旅居荷兰的乌克兰设计师，使用真菌、植物和生长出来的纺织品进行设计。",
+   "why": "She designs garments that grow food and fertile soil over their lifetime.",
+   "why_zh": "她设计的衣服在使用过程中会长出食物和肥沃的土壤。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Netherlands",
+   "based_zh": "荷兰"
+  },
+  {
+   "id": "kuang-yi-ku",
+   "name": "Kuang-Yi Ku",
+   "kind": "person",
+   "role": "Bio artist, trained dentist",
+   "role_zh": "生物艺术家，受过牙医训练",
+   "bio": "Taiwanese bio artist and researcher who uses biotechnology and speculative anatomy to explore queer sexuality and the body.",
+   "bio_zh": "台湾生物艺术家和研究者，用生物技术和思辨性解剖学探讨酷儿性与身体。",
+   "why": "He draws body borders as zones shared with microbes.",
+   "why_zh": "他把身体边界画成与微生物共享的地带。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "nonhuman-nonsense",
+   "name": "Nonhuman Nonsense",
+   "kind": "studio",
+   "role": "Research-driven design and art studio",
+   "role_zh": "研究驱动的设计与艺术工作室",
+   "bio": "Studio founded by Leo Fidjeland and Linnea Våglund that makes speculative projects about ecology, rights of nature and more-than-human politics.",
+   "bio_zh": "由 Leo Fidjeland 和 Linnea Våglund 创立的工作室，围绕生态、自然权利和超越人类的政治制作思辨项目。",
+   "why": "They invent myths and rituals for living with water and mud rather than against them.",
+   "why_zh": "他们为“与水和泥共处而非对抗”发明神话与仪式。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "anna-vershinina",
+   "name": "Anna Vershinina",
+   "kind": "person",
+   "role": "Architect and designer",
+   "role_zh": "建筑师、设计师",
+   "bio": "Architect and designer working on regenerative habitats that combine building and food growing.",
+   "bio_zh": "建筑师和设计师，研究把建造与种植食物结合在一起的再生性栖居空间。",
+   "why": "Her ExoGarden grows shelter and food together.",
+   "why_zh": "她的 ExoGarden 让住所和食物一起生长。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "carla-alcala-badias",
+   "name": "Carla Alcalà Badias",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Spanish artist working with sound, sediments and microorganisms, often with marine scientists.",
+   "bio_zh": "西班牙艺术家，常与海洋科学家合作，用声音、沉积物和微生物创作。",
+   "why": "She lets electroactive bacteria speak as oracles of polluted seas.",
+   "why_zh": "她让电活性细菌作为受污染海洋的“神谕者”发声。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "emilia-tapprest",
+   "name": "Emilia Tapprest",
+   "kind": "person",
+   "role": "Designer and filmmaker",
+   "role_zh": "设计师、电影创作者",
+   "bio": "Finnish designer and filmmaker who makes speculative films about technology, bodies and ecologies.",
+   "bio_zh": "芬兰设计师和电影创作者，拍摄关于技术、身体与生态的思辨影像。",
+   "why": "Her films show people trying, and failing, to understand other species through machines.",
+   "why_zh": "她的影片呈现人们借助机器理解其他物种时的努力与失败。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "samar-khan",
+   "name": "Samar Khan",
+   "kind": "person",
+   "role": "Designer and researcher",
+   "role_zh": "设计师、研究者",
+   "bio": "Designer and researcher who co-created the film Ecotonal Beings with Emilia Tapprest.",
+   "bio_zh": "设计师和研究者，与 Emilia Tapprest 共同创作影片 Ecotonal Beings。",
+   "why": "Co-author of a fiction about attuning to animals through technology.",
+   "why_zh": "与人合作了一部关于借助技术与动物协调的虚构影片。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "matthijs-munnik",
+   "name": "Matthijs Munnik",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "Dutch artist making audiovisual installations about perception, light and living systems.",
+   "bio_zh": "荷兰艺术家，创作关于感知、光与生命系统的视听装置。",
+   "why": "He turned lab worms into performers instead of test subjects.",
+   "why_zh": "他把实验室里的线虫从实验对象变成了表演者。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰"
+  },
+  {
+   "id": "charlotte-jarvis",
+   "name": "Charlotte Jarvis",
+   "kind": "person",
+   "role": "Artist",
+   "role_zh": "艺术家",
+   "bio": "British artist who works with living cells, DNA and scientists to make portraits and performances.",
+   "bio_zh": "英国艺术家，与科学家合作，用活细胞和 DNA 创作肖像与表演。",
+   "why": "She grew a cellular double of herself from her own stem cells.",
+   "why_zh": "她用自己的干细胞培养出一个细胞层面的“分身”。",
+   "links": {
+    "site": "https://www.charlottejarvis.com"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "c-lab",
+   "name": "C-Lab (Laura Cinti & Howard Boland)",
+   "kind": "studio",
+   "role": "Art-science studio",
+   "role_zh": "艺术-科学工作室",
+   "bio": "London studio of Laura Cinti and Howard Boland that makes living installations with bacteria, plants and biotechnology.",
+   "bio_zh": "Laura Cinti 与 Howard Boland 在伦敦的工作室，用细菌、植物和生物技术制作活体装置。",
+   "why": "Their Living Mirror uses magnetic bacteria as pixels.",
+   "why_zh": "他们的 Living Mirror 把磁性细菌当作像素。",
+   "links": {
+    "site": "https://www.c-lab.co.uk"
+   },
+   "connected_to": [],
+   "discovered_via": "seed",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  }
+ ],
+ "works": [
+  {
+   "id": "ani-liu--mind-controlled-spermatozoa",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Mind Controlled Spermatozoa",
+   "year": 2017,
+   "field": "biohybrid",
+   "sub": "body-bio",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A woman steers live human sperm under a microscope with her thoughts: an EEG headset drives electric fields on a glass slide that move the sperm. Made in response to the 2016 US election.",
+   "description_zh": "一位女性通过意念操控显微镜下的活体人类精子：脑电头环驱动玻片上的电场，让精子改变游动方向。作品是对 2016 年美国大选的回应。",
+   "idea_en": "A brain–computer interface can hand control over living cells to the body that is usually controlled.",
+   "idea_zh": "脑机接口可以把对活细胞的控制权交给通常被控制的那具身体。",
+   "method": "EEG signals are mapped to a custom electrode circuit on a slide, where sperm move by galvanotaxis (movement along an electric field).",
+   "method_zh": "把脑电信号映射到玻片上的定制电极电路，精子在电场中发生趋电运动（galvanotaxis）。",
+   "keywords": [
+    "EEG",
+    "brain-computer interface",
+    "galvanotaxis",
+    "sperm",
+    "feminism"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1495639466976-VZU7PUAOW6GIM5D494BW/image-asset.png",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1495639332073-KCZW7RRDU4JZYB6WZJT5/image-asset.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1487091924486-E8L5XTNOPJ7RVRSJEQJC/image-asset.png"
+   ],
+   "video": {
+    "url": "https://vimeo.com/722621970"
+   },
+   "source_url": "https://ani-liu.com/pussygrabsback"
+  },
+  {
+   "id": "ani-liu--laboratory-of-longings",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Laboratory of Longings",
+   "year": 2017,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A living installation in which the sweat of a couple is collected over two days and fed to a field of carnivorous pitcher plants, reversing the usual human–plant relation of agriculture.",
+   "description_zh": "一件活体装置：连续两天收集一对情侣的汗水，用来喂养一片食虫猪笼草，把农业中人与植物的关系倒转过来。",
+   "idea_en": "Let plants feed on humans, and the body becomes the crop.",
+   "idea_zh": "让植物以人为食，身体就成了被收获的作物。",
+   "method": "Heat lamps and an enclosure make the couple sweat; 227 cc of sweat is funnelled to Nepenthes x ventrata and Nepenthes sanguinea plants.",
+   "method_zh": "用加热灯和封闭空间让情侣出汗，把 227 毫升汗液导流给 Nepenthes x ventrata 和 Nepenthes sanguinea 两种猪笼草。",
+   "keywords": [
+    "Nepenthes",
+    "carnivorous plants",
+    "sweat",
+    "biofiction",
+    "olfaction"
+   ],
+   "also": [
+    "bio"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932062968-EK8XAGDCP1X2MCT8ULE1/image-asset.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932020914-H8PSZO256M8KNSL6VEMY/PRESS_BCA_ROTM17_%28MelissaBlackall%29_-4.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507933169599-M0TRMOWHIHZHKYW9E2QA/DSCF3745.JPG"
+   ],
+   "video": {
+    "url": "https://vimeo.com/317846789"
+   },
+   "source_url": "https://ani-liu.com/laboratory-of-longings-longings"
+  },
+  {
+   "id": "ani-liu--microbial-we",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Microbial We: Bacterial Self Portraits",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Self-portraits made from bacteria cultured from different parts of the artist's body, grown in Petri dishes through cut vinyl masks.",
+   "description_zh": "用从艺术家身体不同部位培养出的细菌制作的自画像，细菌在贴有镂空乙烯膜的培养皿中生长成像。",
+   "idea_en": "A portrait of 'me' can be drawn by the microbes that live on me.",
+   "idea_zh": "“我”的肖像可以由住在我身上的微生物来画。",
+   "method": "Skin swabs are plated on LB agar in 4-inch Petri dishes, with vinyl stencils shaping where colonies grow.",
+   "method_zh": "把皮肤拭子接种在 4 英寸培养皿的 LB 琼脂上，用乙烯模板控制菌落生长的位置。",
+   "keywords": [
+    "microbiome",
+    "Petri dish",
+    "self-portrait",
+    "LB agar"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1478023420325-R8SL80ZKE3C32W127YTC/IMG_4495.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1478023429052-RQD8XVEWRY89NAVTGRUN/Screen+Shot+2016-11-01+at+12.33.20+PM.png"
+   ],
+   "source_url": "https://ani-liu.com/microbial-we"
+  },
+  {
+   "id": "ani-liu--kisses-from-the-future",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Kisses from the Future (Microbial Self Portraits)",
+   "year": 2015,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A series of Petri-dish portraits of microorganisms cultured from kisses, presenting identity as a multispecies constellation shaped by touch.",
+   "description_zh": "一组培养皿肖像，培养的是亲吻时交换的微生物，把身份呈现为由接触塑造的多物种集合。",
+   "idea_en": "The self is co-made by the microbes we exchange with the people we touch.",
+   "idea_zh": "自我是由我们与所触碰之人交换的微生物共同塑造的。",
+   "method": "Microorganisms sampled from a kiss are cultured on agar in 4-inch dishes and shown as portraits.",
+   "method_zh": "从一次亲吻中采集微生物，在 4 英寸培养皿的琼脂上培养，并作为肖像展出。",
+   "keywords": [
+    "microbiome",
+    "kiss",
+    "identity",
+    "Petri dish"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/f8b83e11-4e77-4c98-bb15-50b0494dcac0/IMG_6847+2.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/4575d900-863d-41d6-b834-6dbe28934dd0/IMG_6892.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/e9db4ee0-7365-4f35-887e-769256539f6b/IMG_6894.JPG"
+   ],
+   "source_url": "https://ani-liu.com/kisses-from-the-future"
+  },
+  {
+   "id": "ani-liu--biota-beats",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Biota Beats",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "prototype",
+   "description": "A microbial record player: a Petri dish plated with bacteria from the human body sits on a turntable, and the colonies are read and turned into music. Built with the EMW Street Bio iGEM team (bronze medal, 2016).",
+   "description_zh": "一台微生物唱片机：把接种了人体细菌的培养皿放在转盘上，读取菌落并转成音乐。与 EMW Street Bio iGEM 团队合作完成（2016 年获铜奖）。",
+   "idea_en": "Your microbiome can be played like a record.",
+   "idea_zh": "你身上的微生物群可以像唱片一样被播放。",
+   "method": "A camera images the colonies on the rotating dish and custom code maps their positions to sound; the goal was real-time tracking of growth.",
+   "method_zh": "摄像头拍摄旋转培养皿上的菌落，定制程序把菌落位置映射为声音；目标是实时追踪菌落生长。",
+   "keywords": [
+    "iGEM",
+    "microbiome",
+    "sonification",
+    "record player",
+    "community lab"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1481861564982-J2ABUJLNN3YFN6W9PR72/image-asset.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1481861726132-U54OMZI3Y8AFZDHV6Q1P/image-asset.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1481861508280-JVLI0OPYU2EEXM6LNPIN/image-asset.jpeg"
+   ],
+   "source_url": "https://ani-liu.com/biota-beats"
+  },
+  {
+   "id": "ani-liu--forget-me-not",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Forget Me Not (Biotic Yearnings)",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants",
+    "molecules"
+   ],
+   "kind": "speculative",
+   "description": "A speculative synthetic-biology plant engineered to emit the body odour of a person who has died, proposing new rituals of mourning.",
+   "description_zh": "一株思辨性的合成生物植物：它被设计成散发一位已故之人的体味，为哀悼提出新的仪式。",
+   "idea_en": "Instead of wearing flower scents, engineer a flower that smells like someone you lost.",
+   "idea_zh": "与其让人涂上花香，不如设计一朵闻起来像逝去之人的花。",
+   "method": "A design proposal: a person's scent profile would likely be analysed and matched to plant fragrance pathways that could, in theory, be engineered.",
+   "method_zh": "一项设计提案：设想分析一个人的气味成分，并与理论上可被改造的植物香气合成途径相对应。",
+   "keywords": [
+    "synthetic biology",
+    "olfaction",
+    "mourning",
+    "flower"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146810619-22XBUHBEI37ERSDO4PVT/1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146821569-KQGLR05LMJ4KLHTGXYB1/1-1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1480401116374-P0ZRHHQ6D94CDTJAIC08/Ani+Liu+Experimental+Art+and+Olfaction2.png"
+   ],
+   "source_url": "https://ani-liu.com/botanyofmemory"
+  },
+  {
+   "id": "ani-liu--holding-back",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Holding Back Is Another Kind of Need (Smelfies)",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans",
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "A series of perfumes that bottle the body scent of three people who matter to the artist, distilled in the lab with a chemist; she also calls them 'smelfies'.",
+   "description_zh": "一组香水，把对艺术家重要的三个人的体味装进瓶中，与化学家合作在实验室蒸馏；她称之为“气味自拍”（smelfie）。",
+   "idea_en": "Lab chemistry can be used to keep a person's smell, not only their image.",
+   "idea_zh": "实验室化学可以用来保存一个人的气味，而不只是影像。",
+   "method": "Scent compounds are collected from a person and distilled into ethanol, informed by research linking olfactory stimuli to behaviour.",
+   "method_zh": "从人体收集气味分子并蒸馏进乙醇中，参考了嗅觉刺激与行为关联的研究。",
+   "keywords": [
+    "olfaction",
+    "perfume",
+    "smelfie",
+    "TED"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1536399924955-Q9FYDCJZL93AHYYLCIJA/bottles+in+a+row+copy.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1536400102286-JIDKV1X9DF7JK17VA8FD/taking+a+smell.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1478025317708-ZPAP9TGKY5NGQZGBTLW6/IMG_4955.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=_pQ1BCdSTTI"
+   },
+   "source_url": "https://ani-liu.com/holding-back-is-another-kind-of-need"
+  },
+  {
+   "id": "ani-liu--the-surrogacy",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "The Surrogacy (Bodies Are Not Factories)",
+   "year": 2019,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "animals",
+    "cells"
+   ],
+   "kind": "speculative",
+   "description": "Sculptures of a pig — and later a pig uterus — pregnant with human fetuses, imagining a future in which engineered livestock incubate human children.",
+   "description_zh": "一组雕塑：一头怀着人类胎儿的猪，以及后来的一只猪子宫，想象未来由基因改造的家畜来孕育人类孩子。",
+   "idea_en": "Reproductive technology that frees some bodies may exploit others, human or animal.",
+   "idea_zh": "解放一部分身体的生殖技术，可能在剥削另一些身体，无论人还是动物。",
+   "method": "Based on research into interspecific pregnancy for endangered species and pig-to-human organ transplants; made as 3D-printed resin sculptures.",
+   "method_zh": "参考了用于濒危物种的种间妊娠研究和猪到人的器官移植，以 3D 打印树脂雕塑呈现。",
+   "keywords": [
+    "xenotransplantation",
+    "surrogacy",
+    "pig",
+    "artificial womb"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/c6af31d9-48d4-4f81-a240-02a444e0dfcc/DSCF0020.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1c36b796-575b-43ac-9931-c5aa4ebb7552/B745CFFD-958C-4EE7-B234-84A76A9E0BEF.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/52611f4e-4d70-4516-aee0-08011085b728/Ani+Liu+Uterus+3d+print.jpg"
+   ],
+   "source_url": "https://ani-liu.com/the-surrogacy-pig"
+  },
+  {
+   "id": "ani-liu--ghosts-in-the-meat-machine",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "A Search for Ghosts in the Meat Machine (No Regrets for What You Haven't Been)",
+   "year": 2018,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans",
+    "cells"
+   ],
+   "kind": "artwork",
+   "description": "Nine sculptures, each the artist's height and holding her body's volume of liquid, that describe a person through anatomy, genetics, biochemistry, behaviour and algorithms. Made for the 2018 BAD Award with radiologists at Amsterdam UMC.",
+   "description_zh": "九件雕塑，每件都与艺术家同高，并盛着与她身体等量的液体，从解剖、基因、生化、行为和算法等角度描述一个人。作品为 2018 年 BAD Award 与阿姆斯特丹大学医学中心的放射科医生合作完成。",
+   "idea_en": "Split a body into all the ways science measures it and ask where the person went.",
+   "idea_zh": "把身体拆成科学测量它的所有方式，再问：人去了哪里？",
+   "method": "Medical scans of the artist (likely MRI, with Amsterdam UMC radiology) were turned into 3D prints and paired with vials, antennas and fluids in steel-and-glass vitrines.",
+   "method_zh": "把艺术家的医学扫描（很可能是与阿姆斯特丹大学医学中心放射科合作的 MRI）转成 3D 打印件，与玻璃瓶、天线和液体一起放入钢和玻璃的展柜中。",
+   "keywords": [
+    "MRI",
+    "posthuman",
+    "quantified self",
+    "BAD Award 2018 winner"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1544245727691-QE3IR7RZ38EAVTHN7OXG/IMG_2816.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1606859073999-2NH7A06PZQD48DCPEMXG/far6nkr54s7rcvtbkocsb70lq2ss.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1544246021666-LOP4M25PNVBBTRBLH5DQ/IMG_3029.JPG"
+   ],
+   "video": {
+    "url": "https://vimeo.com/305178743"
+   },
+   "source_url": "https://ani-liu.com/the-ghosts-you-havent-been",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "ani-liu--taxonomy-for-possible-consciousness",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "A Taxonomy for Possible Consciousness",
+   "year": 2018,
+   "field": "organoid",
+   "sub": "ethics",
+   "organisms": [
+    "neurons",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A portrait of an organic brain broken into its elemental materials and set beside the materials of a computational brain, asking whether sentience could be manufactured in a lab.",
+   "description_zh": "把一个有机大脑拆解成各种基本物质，并与计算机“大脑”的材料并置，追问意识能否在实验室中被制造。",
+   "idea_en": "If a mind is matter, list the matter and see whether a mind appears.",
+   "idea_zh": "如果心智就是物质，那就把物质逐一列出，看看心智是否出现。",
+   "method": "Capsules holding the elemental materials of a human brain are likely displayed next to materials of computers, as a material taxonomy.",
+   "method_zh": "很可能是把构成人脑的基本物质装进胶囊，与计算机的材料并列陈放，构成一套物质分类。",
+   "keywords": [
+    "sentience",
+    "brain",
+    "transhumanism",
+    "RISD Nature Lab"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1535513279437-WI2BMUMTAXJSQ3QH1ZMN/image+3.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1535513463532-TRX5W6QNSOS2YPRU3JXK/test+capsules+for+look+ANI+LIU.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1535513393313-3TLD7EXNU29VE0DTIC23/DSCF5558.JPG"
+   ],
+   "source_url": "https://ani-liu.com/materiality-for-possible-consciousness"
+  },
+  {
+   "id": "ani-liu--untitled-pumping",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Untitled (pumping)",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A kinetic sculpture that circulates one week's worth of breast milk (synthetic) through a coil of tubing, driven at the rhythm of the artist's own breast pump. Part of the solo show Ecologies of Care.",
+   "description_zh": "一件动态雕塑：让相当于一周量的母乳（合成奶）在一圈软管中循环，节奏取自艺术家自己的吸奶器。属于个展《照护的生态》。",
+   "idea_en": "The breast pump both frees and binds the postpartum body; make its rhythm visible.",
+   "idea_zh": "吸奶器既解放了产后身体，也把它重新绑回工作；把它的节奏变得可见。",
+   "method": "Food-grade tubing, a liquid pump, an air pump and a solenoid valve are timed by a microcontroller to the pump rhythm.",
+   "method_zh": "食品级软管、液体泵、气泵和电磁阀由微控制器按吸奶器节奏控制。",
+   "keywords": [
+    "breast milk",
+    "Ecologies of Care",
+    "care work",
+    "lactation"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/c1d67815-cc53-4cd4-b4d1-be60401c6439/03++Ani+Liu+Untitled+pumping.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/721287551"
+   },
+   "source_url": "https://ani-liu.com/untitled-pumping"
+  },
+  {
+   "id": "ani-liu--feeding-through-space-and-time",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Untitled (Feeding Through Space and Time)",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An installation that circulates about 5.85 gallons of milk, the volume of breast milk the artist produced each month, as a meditation on the invisible labor of reproduction and pumping at work.",
+   "description_zh": "一件装置，循环约 5.85 加仑的奶——艺术家每月分泌的母乳量——以此思考生育与职场吸奶中看不见的劳动。",
+   "idea_en": "Show the monthly volume of a body's care work as a physical mass.",
+   "idea_zh": "把一具身体一个月的照护劳动呈现为一团实体体量。",
+   "method": "Tubing, pumps and valves circulate synthetic milk in the rhythm of a breast pump, whose sound came to trigger the artist's letdown reflex.",
+   "method_zh": "软管、泵和阀门按吸奶器节奏循环合成奶；吸奶器的声音后来甚至会触发艺术家的泌乳反射。",
+   "keywords": [
+    "breast milk",
+    "letdown reflex",
+    "Labouring Bodies",
+    "Museum Tinguely"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/df1a4341-31c3-41cd-a365-2fa81fa765bc/Untitled+Pumping+detail+Image+Credit+Ani+Liu.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/40f74ccf-38e0-426a-92aa-234fea173d83/Installationview_Labouring+Bodies_Museum+Tinguely+2026_Pati+Grabowicz-128.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/5100a0be-9602-4627-8e27-3c8a5b67f362/Installationview_Labouring+Bodies_Museum+Tinguely+2026_Pati+Grabowicz-122.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/721278759"
+   },
+   "source_url": "https://ani-liu.com/feeding-through-space-time"
+  },
+  {
+   "id": "ani-liu--labor-of-love",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Untitled (Labor of Love)",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A data portrait of the first 30 days after giving birth: a grid of glass vials, each marking 30 minutes, filled with breast milk, formula or diaper fragments for every feed and diaper change.",
+   "description_zh": "一幅产后头 30 天的数据肖像：由玻璃小瓶组成的网格，每瓶代表 30 分钟，每次喂奶或换尿布就用母乳、配方奶或尿布碎片填入对应小瓶。",
+   "idea_en": "Care logged in its own materials becomes a visible calendar of labor.",
+   "idea_zh": "用照护本身的材料来记录照护，就得到一份看得见的劳动日历。",
+   "method": "Hand-logged feeding and diaper data are mapped onto a 24-hour by 30-day grid of vials in acrylic.",
+   "method_zh": "把手工记录的喂奶和换尿布数据映射到 24 小时 × 30 天的亚克力小瓶网格上。",
+   "keywords": [
+    "data physicalization",
+    "postpartum",
+    "breast milk",
+    "Ecologies of Care"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1801bfd5-c031-4dd3-968e-050acd3b6292/Untitled+Labor+of+Love+Image+Credit+Ani+Liu.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/617ebb04-0cc6-4da5-b338-dee19e52a8b3/IMG_2954.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/114aefdc-6b33-4ac6-af27-c069d6ec7c49/IMG_9333.jpg"
+   ],
+   "source_url": "https://ani-liu.com/untitled-labor-of-love"
+  },
+  {
+   "id": "ani-liu--milk-fat-globules",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Untitled (Milk Fat Globules)",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A scalloped-edge portrait of the artist's breast milk that layers microscope images of milk fat globules with camera imagery.",
+   "description_zh": "一幅扇贝形边缘的肖像，把艺术家母乳中乳脂球的显微图像与相机影像叠加在一起。",
+   "idea_en": "Under the microscope, breast milk is both information exchange and intimate labor.",
+   "idea_zh": "在显微镜下，母乳既是信息交换，也是亲密的劳动。",
+   "method": "Microscopic images of milk are layered with photographs and printed in a shape that echoes nursing pads and anatomical drawings.",
+   "method_zh": "把母乳的显微图像与照片叠加印制，外形呼应防溢乳垫和解剖图。",
+   "keywords": [
+    "microscopy",
+    "breast milk",
+    "Ecologies of Care"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/a46ffee5-2c1c-4fe5-ab33-c31dc3cb6c5f/BLF-2022-0606-Cuchifritos-AniLiu-0130.jpg",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/59dda90c-938a-4b3d-bc48-4ea5dcdc4d07/BLF-2022-0606-Cuchifritos-AniLiu-0124.jpg"
+   ],
+   "source_url": "https://ani-liu.com/milk-fat-globules"
+  },
+  {
+   "id": "ani-liu--the-days-are-long",
+   "creator_ids": [
+    "ani-liu"
+   ],
+   "title": "Untitled (The Days Are Long But The Years Are Short)",
+   "year": 2025,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Two candles made of beeswax and breast milk, cast directly from the artist's breasts while she was lactating, kept burning so they change continuously.",
+   "description_zh": "两支用蜂蜡和母乳制成的蜡烛，在艺术家哺乳期间直接从她的乳房翻模，展出时持续点燃、不断变化。",
+   "idea_en": "A body cast in its own milk slowly burns away, like the time of early parenthood.",
+   "idea_zh": "用自身乳汁翻制的身体慢慢燃尽，就像育儿初期的时光。",
+   "method": "Beeswax mixed with breast milk is cast from body moulds and fitted with cotton wicks.",
+   "method_zh": "把混有母乳的蜂蜡注入身体模具，装上棉芯。",
+   "keywords": [
+    "breast milk",
+    "beeswax",
+    "candle",
+    "casting"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/e97877ad-30e8-4bf6-888a-9a0692aa5b50/IMG_8755.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/52b01761-74fe-411d-9806-9fb4f09678ad/Ani+Liu+breasts+on+wall.JPG",
+    "https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/04fbca2a-a123-4f34-857c-c0b7bc26b5e6/Ani+Liu+Breast+2.JPG"
+   ],
+   "source_url": "https://ani-liu.com/breasts-in-flux"
+  },
+  {
+   "id": "jiabao-li--echovision",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "EchoVision + Nocturnal Fugue",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality bat mask that lets people 'see' by shouting: the echo of their voice is visualised as a bat would sense its surroundings. The companion piece Nocturnal Fugue is a performance built on AI research into bat vocal communication.",
+   "description_zh": "一副混合现实蝙蝠面具，让人通过喊叫来“看见”：声音的回声被可视化，模拟蝙蝠感知周围环境的方式。配套作品《夜曲赋格》是一场基于 AI 蝙蝠语言研究的表演。",
+   "idea_en": "To understand another species, borrow its sense, not just its image.",
+   "idea_zh": "要理解另一个物种，就去借用它的感官，而不只是它的形象。",
+   "method": "Bat-shaped masks built on the open-source HoloKit headset map voice pitch and loudness to spatial sound visualisation on an iPhone, working in darkness.",
+   "method_zh": "蝙蝠形面具基于开源 HoloKit 头显，在 iPhone 上把声音的音高和响度映射为空间回声可视化，可在黑暗中使用。",
+   "keywords": [
+    "bat",
+    "echolocation",
+    "HoloKit",
+    "mixed reality",
+    "Umwelt",
+    "Thomas Nagel"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=7LqsKpEZy4g"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3680530.3695460",
+    "doi": "10.1145/3680530.3695460",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2024 Art Papers"
+   },
+   "source_url": "https://www.jiabaoli.org/nocturnal-fugue"
+  },
+  {
+   "id": "jiabao-li--once-a-glacier",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Once a Glacier",
+   "year": 2023,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A 15-minute interactive VR film about a girl who tries to keep a piece of glacier ice alive as she grows up and the glacier disappears, drawing on Inupiaq stories in which glaciers sing their memories.",
+   "description_zh": "一部 15 分钟的互动 VR 电影：一个女孩在成长中试图保住一块冰川冰，而冰川正在消失；故事取材于伊努皮亚克人“冰川会唱出记忆”的传说。",
+   "idea_en": "Grief for a glacier can be told as a relationship between two beings.",
+   "idea_zh": "对冰川的哀悼，可以讲成两个生命之间的关系。",
+   "method": "Real-time VR with interactive scenes, based on the artist's own childhood in Alaska keeping ice in a freezer.",
+   "method_zh": "实时交互 VR，取材于艺术家童年在阿拉斯加把冰块藏在冰箱里的经历。",
+   "keywords": [
+    "glacier",
+    "VR",
+    "Inupiaq",
+    "climate grief",
+    "SXSW"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/96b3096b-70dc-42ea-a398-080665d6229b/jiabao+li+once+a+glacier.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397034-3E4TCOR94VU72TFTE2TP/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397032-ESFAJWAYUBAONWRGA4W3/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+13.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Vao4pbmbJLQ"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3681759.3688920",
+    "doi": "10.1145/3681759.3688920",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2024 XR"
+   },
+   "source_url": "https://www.jiabaoli.org/once-a-glacier"
+  },
+  {
+   "id": "jiabao-li--glaciers-lament",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Glacier's Lament",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Sixty years of melt data from Alaska's Mendenhall Glacier turned into music, played and danced on the glacier by local musicians who have watched it retreat.",
+   "description_zh": "把阿拉斯加门登霍尔冰川 60 年的融化数据写成音乐，由亲眼见证冰川退缩的当地音乐人在冰川上演奏和舞蹈。",
+   "idea_en": "Let a glacier's melt record become a score humans perform with it.",
+   "idea_zh": "让冰川的融化记录变成人类与它一起演奏的乐谱。",
+   "method": "Each note is one season: low pitch for frozen winters, rising pitch for summer melt; performers play alongside the glacier's own sounds.",
+   "method_zh": "每个音符代表一个季节：冬季冻结音高低，夏季融化音高升；演奏者与冰川本身的声音一起表演。",
+   "keywords": [
+    "glacier",
+    "data sonification",
+    "Mendenhall Glacier",
+    "dance"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1600373089411-GNWYV4IK917Q1X6X5DH3/Glacier+Data+Cello.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1602106288285-HIE2DT0MBDW01LD40Y5R/glacier+blue6.JPG",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1597952233408-ZR1Y2TRXHK9Y4MOY5ITD/3.png"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=79GaAtw8cU8"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3532837.3534948",
+    "doi": "10.1145/3532837.3534948",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2022 Art Gallery"
+   },
+   "source_url": "https://www.jiabaoli.org/glacier"
+  },
+  {
+   "id": "jiabao-li--time-sensitive",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Time Sensitive",
+   "year": 2023,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Cyanotypes, drawings and time-lapses that record glacier ice melting, together with the fireweed and Arctic birds that arrive as glaciers retreat, made with glaciologist Ginny Catania.",
+   "description_zh": "用蓝晒、绘画和延时影像记录冰川冰的融化，以及冰川退去后到来的柳兰和北极鸟类；与冰川学家 Ginny Catania 合作。",
+   "idea_en": "Glacial change is no longer deep time; compress it into a print you can watch form.",
+   "idea_zh": "冰川变化已不再是“深时”；把它压缩成一张能看着形成的印相。",
+   "method": "Melting ice on UV-sensitive cyanotype fabric in sunlight records its trajectory; drawings use melted glacier water on rocks.",
+   "method_zh": "让冰块在阳光下于蓝晒布上融化，记录融化轨迹；再用融化的冰川水在岩石上作画。",
+   "keywords": [
+    "cyanotype",
+    "glacier",
+    "fireweed",
+    "Ice Dynamics Lab"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f79d5437-1f99-4abe-8bc6-a73c66f26351/Jiabao+Li+Time+Sensitive+6.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bcb58264-4076-4398-a28e-430e7d260260/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=SCK9lXUwNYY"
+   },
+   "source_url": "https://www.jiabaoli.org/time-sensitive"
+  },
+  {
+   "id": "jiabao-li--cryoscape",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "CryoScapes",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A tabletop 3D ice printer, started during the Arctic Circle residency in Svalbard, prints landscapes in ice that melt as the audience watches, while an AI writes haiku-like poems about each form.",
+   "description_zh": "一台桌面 3D 冰打印机，源于斯瓦尔巴群岛北极圈驻留：它用冰打印出景观，观众看着它融化，同时 AI 为每个形态写下俳句式的诗。",
+   "idea_en": "Melting is the message: a sculpture that is co-made by local heat and humidity.",
+   "idea_zh": "融化本身就是信息：一件由当地温度和湿度共同完成的雕塑。",
+   "method": "A custom printer deposits water onto a cold plate; a camera feeds images to an AI that generates poems; humidity and water chemistry change each print.",
+   "method_zh": "定制打印机把水逐层沉积到冷板上；摄像头把图像传给 AI 生成诗句；湿度和水质会改变每次打印结果。",
+   "keywords": [
+    "ice printing",
+    "Svalbard",
+    "AI poetry",
+    "climate"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b718d95f-af0b-4a42-a695-6414ad93bd6a/jiabao+li+arctic.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349975529-W4JNC44WXTHZY975I7EQ/jiabao+li+arctic+26.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349943092-89KX5AV7YAIXKUYMDEIN/jiabao+li+arctic+35.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=EMdPmprYkWo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3757369.3767614",
+    "doi": "10.1145/3757369.3767614",
+    "arxiv": "",
+    "venue": "SIGGRAPH Asia 2025 Art Papers"
+   },
+   "source_url": "https://www.jiabaoli.org/cryoscapes"
+  },
+  {
+   "id": "jiabao-li--antiantarctica",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "AntiAntarctica: Polar Bear Relocation Initiative",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A satirical 'expert panel' plan to move polar bears from the melting Arctic to Antarctica, which then has to be renamed 'Anti-Antarctica' — until the penguins protest.",
+   "description_zh": "一个讽刺性的“专家组”方案：把北极熊从融化的北极搬到南极，于是南极（Antarctica，意为“无熊之地”）得改名为 Anti-Antarctica——直到企鹅们抗议。",
+   "idea_en": "Absurd techno-fixes expose how we treat habitat loss as a logistics problem.",
+   "idea_zh": "荒诞的技术方案揭示了我们如何把栖息地丧失当成物流问题。",
+   "method": "Performance, fake scientific posters and video made with Alanah Knibb during the Arctic Circle residency.",
+   "method_zh": "与 Alanah Knibb 在北极圈驻留期间创作的表演、伪科学海报和视频。",
+   "keywords": [
+    "polar bear",
+    "penguin",
+    "geoengineering satire",
+    "Arctic Circle residency"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/antiantarctica"
+  },
+  {
+   "id": "jiabao-li--futile-efforts",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Futile Efforts",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Video performances in the Arctic in which the artist refreezes glacier meltwater and returns it, polishes an iceberg, sweeps a snowy mountain and bails the ocean with a coffee cup.",
+   "description_zh": "在北极拍摄的一组影像表演：艺术家把冰川融水重新冻住还给冰川、擦亮冰山、清扫雪山、用咖啡杯舀干海洋。",
+   "idea_en": "Tiny absurd gestures mirror the scale problem of real geoengineering.",
+   "idea_zh": "微小而荒诞的动作映照出真实地球工程的尺度困境。",
+   "method": "Short single-take performance videos filmed in Svalbard during the Arctic Circle residency.",
+   "method_zh": "在斯瓦尔巴群岛北极圈驻留期间拍摄的一镜到底短片表演。",
+   "keywords": [
+    "glacier",
+    "geoengineering",
+    "performance",
+    "Svalbard"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/dd58197c-f787-4819-9242-fe633522836b/Jiabao+Li+Ars+Electronica+60.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/568a680d-17ba-404a-928b-d18767af7189/jiabao+li+arctic+43.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726337089750-CXYCOCLC291X30J36PAH/Jiabao+Li+Ars+Electronica+82.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0VinJWBqinw"
+   },
+   "source_url": "https://www.jiabaoli.org/futile-efforts"
+  },
+  {
+   "id": "jiabao-li--chthulucene",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Chthulucene",
+   "year": 2022,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A speculative world after sea-level rise in which octopuses, having switched off the gene that makes them die after breeding, pass knowledge across generations and become Earth's leading intelligence.",
+   "description_zh": "一个海平面上升后的思辨世界：章鱼关闭了让它们繁殖后死亡的基因，得以代代传承知识，成为地球上主导的智能。",
+   "idea_en": "Imagine the future from the viewpoint of a distributed, non-human intelligence.",
+   "idea_zh": "从一种分布式的非人类智能的视角想象未来。",
+   "method": "Installation and moving images that build on octopus neurobiology (optic gland signalling) and Donna Haraway's Chthulucene.",
+   "method_zh": "装置与影像，基于章鱼神经生物学（视腺信号）和 Donna Haraway 的“克苏鲁世”概念。",
+   "keywords": [
+    "octopus",
+    "Chthulucene",
+    "Donna Haraway",
+    "distributed intelligence"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074576-8A956ZPPTEIUAVV09FKB/Jiabao+Li+Chthulucene1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285076548-MOJZFZASZ1A2JXTFFYUQ/Jiabao+Li+Chthulucene6.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074722-0NLR1KHEAFONZAHRUNUA/Jiabao+Li+Chthulucene5.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3588428.3593823",
+    "doi": "10.1145/3588428.3593823",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2023 Art Gallery"
+   },
+   "source_url": "https://www.jiabaoli.org/chthulucene"
+  },
+  {
+   "id": "jiabao-li--squid-map",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Squid Map",
+   "year": 2022,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "At the Kewalo Marine Biology Lab in Hawaii, the artist gave a lab squid a tank floor of black and white sand shaped like country borders; over a month the squid carried and buried the sand until the map dissolved.",
+   "description_zh": "在夏威夷 Kewalo 海洋生物实验室，艺术家用黑白两色沙子在鱿鱼的水箱底铺出国家边界；一个月里鱿鱼搬运、掩埋沙子，直到地图消失。",
+   "idea_en": "An animal redraws a political map because borders mean nothing to it.",
+   "idea_zh": "一只动物重画了政治地图，因为边界对它毫无意义。",
+   "method": "Hawaiian black and white sands are laid out as a world map in an aquarium; the squid's burying and camouflage behaviour is documented over time.",
+   "method_zh": "把夏威夷黑沙和白沙在水族箱中铺成世界地图，长期记录鱿鱼的掩埋和伪装行为。",
+   "keywords": [
+    "squid",
+    "camouflage",
+    "migration",
+    "borders",
+    "Kewalo Marine Lab"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/84e3a87b-a9df-41ed-9ef2-7732a42f489b/squid+map+before+after.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b889ed3e-4ddd-48f6-95a3-b591ab4a3ce7/jiabao+li+squid+map+2+copy.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bad0ea09-91a8-4020-9dbe-a9913c12d00d/IMG_1687+copy.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/squid-map"
+  },
+  {
+   "id": "jiabao-li--squeeker-mouse-coach",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Squeeker: The Mouse Coach",
+   "year": 2023,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "An app and installation in which a pet mouse is your running coach: when the mouse starts running on its smart wheel you get a notification, and if you match its distance you both get a reward.",
+   "description_zh": "一个应用和装置，让宠物鼠当你的跑步教练：老鼠在智能跑轮上开跑时你会收到通知，跑够和它一样的距离，你们都能得到奖励。",
+   "idea_en": "Reverse the lab-mouse relation: let the mouse set the human's health routine.",
+   "idea_zh": "把实验鼠的关系反过来：让老鼠来安排人的健康作息。",
+   "method": "A sensor-equipped running wheel streams the mouse's distance to a mobile app; rewards are treats for the mouse and social-media scroll time for the human.",
+   "method_zh": "装有传感器的跑轮把老鼠的跑步距离传到手机应用；奖励是给老鼠的零食和给人的社交媒体滑动距离。",
+   "keywords": [
+    "mouse",
+    "running wheel",
+    "habit loop",
+    "app",
+    "IDFA DocLab"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=UvfkYPLJAaw"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3731459.3779140",
+    "doi": "10.1145/3731459.3779140",
+    "arxiv": "",
+    "venue": "TEI 2026"
+   },
+   "source_url": "https://www.jiabaoli.org/mouse-coach"
+  },
+  {
+   "id": "jiabao-li--animo-wildlife-priority",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "ANIMO: WildLife Priority Mode",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A proposal for a 'wildlife priority mode' in self-driving cars, shown with carpets printed from photos of flattened roadkill and an autonomous sweeping robot.",
+   "description_zh": "为自动驾驶汽车提出“野生动物优先模式”，并展出由被碾平的路杀动物照片制成的地毯和一台自动扫地机器人。",
+   "idea_en": "Autonomous vehicles have passenger and pedestrian modes; animals deserve one too.",
+   "idea_zh": "自动驾驶汽车有乘客优先和行人优先模式，动物也应该有一个。",
+   "method": "Computer-vision detection of crossing animals is proposed for autonomous cars; the installation uses documentary roadkill photography printed on rugs.",
+   "method_zh": "提出在自动驾驶中用计算机视觉识别过路动物；装置把纪实路杀照片印在地毯上。",
+   "keywords": [
+    "roadkill",
+    "autonomous vehicles",
+    "computer vision",
+    "wildlife"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/animo"
+  },
+  {
+   "id": "jiabao-li--elephant-in-the-room",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "The Elephant in the Room",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An art and legal campaign against elephant performances at Yunnan's Wild Elephant Valley: with lawyers and NGOs the team sued for the elephants' release, and an interactive 3D elephant let viewers click its scars during the court hearing.",
+   "description_zh": "一场针对云南野象谷大象表演的艺术与法律行动：团队与律师和 NGO 一起起诉，要求释放大象；庭审期间，观众可以点击一头三维大象身上的伤疤。",
+   "idea_en": "Art can act as evidence and advocacy for animals inside a courtroom.",
+   "idea_zh": "艺术可以在法庭上成为动物的证据和代言。",
+   "method": "A web-based 3D elephant model with clickable scars linked to abuse tools; clicks triggered drones to play elephant sounds outside the court.",
+   "method_zh": "网页上的三维大象模型，每道伤疤可点击并显示对应的虐待工具；每次点击都会触发法院外的无人机播放大象的声音。",
+   "keywords": [
+    "Asian elephant",
+    "animal rights",
+    "legal action",
+    "Yunnan"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943826587-OF3VHKO0DTB5RH7503HZ/Jiabao+Li+Elephant+in+the+room+3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943820257-OR69FLJ90YPMVHW5XHQZ/Jiabao+Li+Elephant+in+the+room+6.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1727584078942-KW7035UV9IM5E9X1YNA4/Jiabao+Li+GQ+elephant+2.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=jAL_rUdihQ0"
+   },
+   "source_url": "https://www.jiabaoli.org/elephant-in-the-room"
+  },
+  {
+   "id": "jiabao-li--wings-against-the-veil-of-light",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Wings Against the Veil of Light",
+   "year": 2024,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "artwork",
+   "description": "A Butoh dance performance in which dancers wear zipper-and-ruler wings to chirp like crickets, telling how light pollution makes male crickets call at the wrong time.",
+   "description_zh": "一场舞踏表演：舞者戴着用拉链和尺子做成的翅膀，像蟋蟀一样鸣叫，讲述光污染如何让雄蟋蟀在错误的时间鸣唱。",
+   "idea_en": "Borrow an insect's sound-making body to feel how our light disrupts its courtship.",
+   "idea_zh": "借用昆虫发声的身体，去感受人类的灯光如何打乱它们的求偶。",
+   "method": "Wearable wings with a file-and-scraper mechanism (zipper and ruler) mimic cricket stridulation; choreographed with Rosemary Candelario.",
+   "method_zh": "可穿戴的“锉刀-刮器”翅膀（拉链与尺子）模仿蟋蟀摩擦发声；由 Rosemary Candelario 编舞。",
+   "keywords": [
+    "cricket",
+    "stridulation",
+    "Butoh",
+    "light pollution"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851572775-050B68ZON2C30S1RQKM0/Jiabao+Li+cricket+2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851574015-ASDXQCJPX2KD61ZGPXE2/Jiabao+Li+cricket+3.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=V-doIkBdPkg"
+   },
+   "source_url": "https://www.jiabaoli.org/wings-against-the-veil-of-light"
+  },
+  {
+   "id": "jiabao-li--the-long-fall",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "The Long Fall: A Descent into the Ocean's Living Memory",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "algae",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A 15-minute audiovisual performance that follows plankton from the White Cliffs of Dover down into the deep sea as 'marine snow', showing how microscopic life moves carbon through the planet.",
+   "description_zh": "一场 15 分钟的视听表演，从多佛白崖出发，跟随浮游生物化作“海洋雪”沉入深海，展示微小生命如何在地球上搬运碳。",
+   "idea_en": "The climate is run by drifting cells you cannot see; change scale to meet them.",
+   "idea_zh": "气候由你看不见的漂流细胞运转；换一个尺度去认识它们。",
+   "method": "Uses microscope data from Manu Prakash's PlanktonScope and Gravity Machine (Stanford) rendered for immersive screens like Ars Electronica Deep Space.",
+   "method_zh": "使用斯坦福 Manu Prakash 实验室 PlanktonScope 和 Gravity Machine 的显微数据，为 Ars Electronica Deep Space 等沉浸式屏幕渲染。",
+   "keywords": [
+    "plankton",
+    "marine snow",
+    "carbon cycle",
+    "Prakash Lab",
+    "PlanktonScope"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/3ed87691-3894-45e6-b18a-95ceeb67549d/fusebox_may_10_fullres+11.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162854807-TP6ZM25L23M7U7R1MRSU/Ars+electronica+jiabao+li+5.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162860831-6MFT77BBFIL4W29WOFXB/Ars+electronica+jiabao+li+7.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=fe-Xd3gxcsU"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3799824.3812696",
+    "doi": "10.1145/3799824.3812696",
+    "arxiv": "",
+    "venue": "SIGGRAPH 2026 Art Gallery"
+   },
+   "source_url": "https://www.jiabaoli.org/long-fall"
+  },
+  {
+   "id": "jiabao-li--what-makes-us-most-human",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "What Makes Us Most Human Is Also So Animal",
+   "year": 2026,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A blind tasting performance in which visitors drink a lineup of mammal milks — the artist's own, cow, goat, camel, yak, donkey, bat, coyote and others — and guess the source.",
+   "description_zh": "一场盲品表演：观众品尝一排哺乳动物的奶——艺术家自己的、牛、羊、骆驼、牦牛、驴、蝙蝠、郊狼等——并猜出来源。",
+   "idea_en": "Breastfeeding makes us most human by reminding us that we are mammals.",
+   "idea_zh": "哺乳让我们最像人，正因为它提醒我们是哺乳动物。",
+   "method": "Milk samples from eleven mammal species are served in a blind tasting format.",
+   "method_zh": "以盲品形式提供十一种哺乳动物的奶样。",
+   "keywords": [
+    "milk",
+    "mammals",
+    "tasting",
+    "motherhood",
+    "Womb Wetware"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8k3acKrF-o8"
+   },
+   "source_url": "https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal"
+  },
+  {
+   "id": "jiabao-li--carbon-farm",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Carbon Farm",
+   "year": 2024,
+   "field": "bio",
+   "sub": "algae",
+   "organisms": [
+    "algae"
+   ],
+   "kind": "artwork",
+   "description": "Visitors breathe or speak into a CO2 collector; the captured carbon feeds algae cultures that are turned into a bioplastic made from their breath.",
+   "description_zh": "观众对着二氧化碳收集器呼吸或说话；捕获的碳被用来喂养藻类，再制成一种“由你的呼吸做成”的生物塑料。",
+   "idea_en": "Make the carbon in your words into something you can hold.",
+   "idea_zh": "把你说话时呼出的碳变成可以握在手里的东西。",
+   "method": "A direct-air-capture sorbent bed traps CO2, which is released by heating and bubbled into algae photobioreactors; algae biomass is processed into bioplastic.",
+   "method_zh": "直接空气捕集的吸附床捕获 CO2，加热释放后通入藻类光生物反应器，藻类生物质再加工成生物塑料。",
+   "keywords": [
+    "algae",
+    "direct air capture",
+    "bioplastic",
+    "carbon",
+    "TEI"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/e65b77d1-2a95-476a-91e1-7041d8ba550b/Jiabao+Li+Duende+51.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737387933851-A6BH4ZMGGF7QQ2T4RA2C/jiabao+li+carbon+farm+16.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737387934713-OHYCTHLHX28WEVSZ8YPC/jiabao+li+carbon+farm+17.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3689050.3707686",
+    "doi": "10.1145/3689050.3707686",
+    "arxiv": "",
+    "venue": "TEI 2025"
+   },
+   "source_url": "https://www.jiabaoli.org/carbon-farm"
+  },
+  {
+   "id": "jiabao-li--consume-our-consumption",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Consume Our Consumption (Plascetamol)",
+   "year": 2024,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "insects",
+    "bacteria"
+   ],
+   "kind": "speculative",
+   "description": "A speculative pill, 'Plascetamol', made from the gut microbes of plastic-eating superworms, served in food performances that invite people to 'eat plastic'. Made with Anya Koehne and Annan Zuo.",
+   "description_zh": "一种思辨性药丸“Plascetamol”，取材于能吃塑料的大麦虫肠道微生物，在邀请观众“吃塑料”的食物表演中呈现。与 Anya Koehne、Annan Zuo 合作。",
+   "idea_en": "If worms' microbes can digest plastic, could we borrow them?",
+   "idea_zh": "如果虫子的微生物能消化塑料，我们能否借用它们？",
+   "method": "Frass from Zophobas morio is cultured in carbon-free media with plastic nurdles as the only carbon source to select plastic-degrading bacteria.",
+   "method_zh": "把大麦虫（Zophobas morio）粪便培养在无碳培养基中，以塑料颗粒为唯一碳源，筛选可降解塑料的细菌。",
+   "keywords": [
+    "Zophobas morio",
+    "superworm",
+    "plastic degradation",
+    "microbiome",
+    "food performance"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758161729163-75WICKEV1ZTKHI3VQHBI/DSC01532.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758161738235-KPDR7LQV4IP11S861W0I/DSC01535.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/consume"
+  },
+  {
+   "id": "jiabao-li--menstrual-garden",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Menstrual Garden",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "molecules",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A multisensory installation with the smells of fresh and stagnant menstrual blood and 3D-printed sculptures of proteins found only in menstrual fluid, from a long-term mass-spectrometry study of the artist's own blood.",
+   "description_zh": "一件多感官装置，含有新鲜与淤积经血的气味，以及仅存在于经血中的蛋白质的 3D 打印雕塑，数据来自对艺术家本人经血的长期质谱研究。",
+   "idea_en": "An understudied body fluid becomes a garden of proteins.",
+   "idea_zh": "一种少有人研究的体液，变成了一座蛋白质花园。",
+   "method": "Menstrual effluent was analysed by mass spectrometry to build a stable menstrual proteome; top proteins were 3D printed from their structures.",
+   "method_zh": "用质谱分析经血，建立稳定的经血蛋白质组；把最常见的蛋白质按结构 3D 打印出来。",
+   "keywords": [
+    "menstrual blood",
+    "proteomics",
+    "mass spectrometry",
+    "olfactory art"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1669072958670-Y5OZPGTKSBGKPQFVU1L0/Jiabao+Li+menstrual+garden+4-3.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1669072954462-P6HVTCDOE9M9M4TRT58F/Jiabao+Li+menstrual+garden+2-2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1669072957252-938SXWXN6UXALLH2BZ3K/Jiabao+Li+menstrual+garden+3.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/menstrual-garden"
+  },
+  {
+   "id": "jiabao-li--gift",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Gift",
+   "year": 2024,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "The artist grew heart cells from stem cells in her menstrual blood and bioprinted a heart structure for them — a gift to her mother, who had developed heart disease.",
+   "description_zh": "艺术家用经血中的干细胞培养出心肌细胞，并为它们 3D 生物打印出心脏结构——作为礼物送给患上心脏病的母亲。",
+   "idea_en": "Return to a mother, cell by cell, the heart she once grew in her womb.",
+   "idea_zh": "把母亲曾在子宫里孕育出的心脏，一个细胞一个细胞地还给她。",
+   "method": "Menstrual-derived stem cells are differentiated into cardiomyocytes and seeded into a 3D bioprinted heart scaffold.",
+   "method_zh": "把经血来源的干细胞分化为心肌细胞，接种到 3D 生物打印的心脏支架中。",
+   "keywords": [
+    "menstrual stem cells",
+    "cardiomyocytes",
+    "bioprinting",
+    "Progenitorial Hysteresis"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/67349179-d419-4b3d-b8f0-6ff307904448/Jiabao+Li+Duende+146.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f1794ba2-562b-4aff-bdc9-6fce1bdc6b5f/Jiabao+Li+Duende+147.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/26f2a861-79de-4294-924e-6fd059675e2e/%E7%A4%BC%E7%89%A9.jpg"
+   ],
+   "source_url": "https://www.jiabaoli.org/gift"
+  },
+  {
+   "id": "jiabao-li--sentient-clit",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Sentient Clit: The Pussification of BioTech",
+   "year": 2024,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "neurons"
+   ],
+   "kind": "artwork",
+   "description": "With WhiteFeather Hunter, the artist bioprinted clitoris forms seeded with cells derived from menstrual fluid, and discussed them through video performance and online platforms such as OnlyFans.",
+   "description_zh": "艺术家与 WhiteFeather Hunter 合作，用经血来源的细胞接种 3D 生物打印的阴蒂形态，并通过影像表演和 OnlyFans 等网络平台展开讨论。",
+   "idea_en": "If bioprinted organs can respond neurally, who can consent for them?",
+   "idea_zh": "如果生物打印的器官能产生神经反应，谁能替它们表示同意？",
+   "method": "Stem cells from menstrual fluid are 3D bioprinted into clitoris shapes in support gel; some are seeded with cardiomyocytes.",
+   "method_zh": "把经血干细胞在支撑凝胶中 3D 生物打印成阴蒂形态，部分接种心肌细胞。",
+   "keywords": [
+    "bioprinting",
+    "menstrual stem cells",
+    "feminist biotech",
+    "sentience"
+   ],
+   "also": [
+    "organoid"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/714f6ccf-9ea2-4a1b-b5fd-38214abb33dd/Clitoris+bio+print+1-2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/25df8a3d-0242-4211-93e4-15bb0835bff8/Jiabao+Li+Sentient+Clit+2.jpg",
+    "https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1698638118344-WF5FC29CY43FLONUQRGO/neuron+2.jpg"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DkvH62jYCjM"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3686169.3686201",
+    "doi": "10.1145/3686169.3686201",
+    "arxiv": "",
+    "venue": "Halfway to the Future 2024"
+   },
+   "source_url": "https://www.jiabaoli.org/sentient-clit"
+  },
+  {
+   "id": "jiabao-li--creating-with-more-than-humans",
+   "creator_ids": [
+    "jiabao-li"
+   ],
+   "title": "Creating with More-than-Humans",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A paper reflecting on the artist's co-creation with mice, bats, squid and elephants, and on the ethics and practical methods of making art with and for nonhuman beings.",
+   "description_zh": "一篇论文，回顾艺术家与老鼠、蝙蝠、鱿鱼和大象共同创作的经验，讨论与非人类生命一起、为它们创作的伦理和方法。",
+   "idea_en": "Co-creation with other species reshapes what we count as agency, intelligence and creativity.",
+   "idea_zh": "与其他物种共同创作，会改变我们对能动性、智能和创造力的理解。",
+   "method": "Reflective practice paper drawing on a portfolio of installations, XR and performances.",
+   "method_zh": "基于一系列装置、XR 与表演作品的反思性实践论文。",
+   "keywords": [
+    "co-creation",
+    "multispecies",
+    "Halfway to the Future"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3686169.3686191",
+    "doi": "10.1145/3686169.3686191",
+    "arxiv": "",
+    "venue": "Halfway to the Future 2024"
+   }
+  },
+  {
+   "id": "blast-theory--cat-royale",
+   "creator_ids": [
+    "blast-theory",
+    "steve-benford"
+   ],
+   "title": "Cat Royale",
+   "year": 2023,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "Three cats lived for six hours a day over twelve days in a purpose-built 'cat utopia' where a robot arm played with them and offered treats, while an AI learned their preferences; the livestreamed work asked whether we should trust robots with care. Premiered at the World Science Festival Brisbane.",
+   "description_zh": "三只猫在十二天里每天有六小时住在专门搭建的“猫咪乌托邦”中，一只机械臂陪它们玩、给它们零食，AI 学习它们的偏好；这件网络直播作品追问：我们是否应该把照护托付给机器人。首演于布里斯班世界科学节。",
+   "idea_en": "Test trust in autonomous care systems with the most honest judges: cats.",
+   "idea_zh": "用最诚实的评委——猫——来检验人们对自主照护系统的信任。",
+   "method": "A robot arm (likely a Kinova) with custom toys was driven by a computer-vision and learning system that ranked games by the cats' engagement, supervised by humans in the loop and animal-welfare experts.",
+   "method_zh": "一台机械臂（很可能是 Kinova）配有定制玩具，由计算机视觉与学习系统根据猫的投入程度为游戏排序，并由在环人员和动物福利专家监督。",
+   "keywords": [
+    "Blast Theory",
+    "robot arm",
+    "cats",
+    "trustworthy autonomous systems",
+    "TAS Hub",
+    "Webby Award"
+   ],
+   "images": [
+    "https://www.blasttheory.co.uk/wp-content/uploads/2024/05/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0604-800x450.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2023/05/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976-800x450.jpg",
+    "https://www.blasttheory.co.uk/wp-content/uploads/2024/01/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0612-800x450.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1183715660"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3636499",
+    "doi": "10.1145/3636499",
+    "arxiv": "",
+    "venue": "ACM Interactions 2024"
+   },
+   "source_url": "https://www.blasttheory.co.uk/projects/cat-royale/"
+  },
+  {
+   "id": "steve-benford--multispecies-worlds",
+   "creator_ids": [
+    "steve-benford",
+    "blast-theory"
+   ],
+   "title": "Designing Multispecies Worlds for Robots, Cats, and Humans",
+   "year": 2024,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "CHI 2024 Best Paper reflecting on the design of Cat Royale: the enclosure, the robot and its autonomous system, custom end-effectors and the humans-in-the-loop, plus key moments from the twelve-day deployment.",
+   "description_zh": "CHI 2024 最佳论文，回顾 Cat Royale 的设计：围栏环境、机器人及其自主系统、定制末端执行器、在环人员，以及十二天展演中的关键时刻。",
+   "idea_en": "Design the whole world around the animal, not just the robot's interaction with it.",
+   "idea_zh": "要为动物设计整个世界，而不只是机器人与它的一次互动。",
+   "method": "Design case study of a deployed robot–cat installation, with video analysis and reflections from artists, engineers and welfare experts.",
+   "method_zh": "对一件已实际运行的机器人-猫装置进行设计案例研究，结合视频分析以及艺术家、工程师和动物福利专家的反思。",
+   "keywords": [
+    "Cat Royale",
+    "multispecies design",
+    "robot arm",
+    "CHI Best Paper"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.15431v1/Figures/CatRoyale_Overview_v3a.png",
+    "https://arxiv.org/html/2402.15431v1/Figures/Cats_Portrait_v2.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3642115",
+    "doi": "10.1145/3613904.3642115",
+    "arxiv": "2402.15431",
+    "venue": "CHI 2024"
+   }
+  },
+  {
+   "id": "steve-benford--ethical-tensions-multispecies",
+   "creator_ids": [
+    "steve-benford"
+   ],
+   "title": "Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space",
+   "year": 2024,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Reflects on getting Cat Royale through three ethics boards (computer science, veterinary science, animal welfare) and proposes a 'beneficiary-epistemology space' to map who benefits and how knowledge is produced in multispecies research.",
+   "description_zh": "回顾 Cat Royale 如何通过计算机科学、兽医学和动物福利三个伦理委员会的审查，并提出“受益者-认识论空间”，用来描绘多物种研究中谁受益、知识如何产生。",
+   "idea_en": "Ethical tensions in animal–technology research can be charted by who benefits and whose knowledge counts.",
+   "idea_zh": "动物技术研究中的伦理张力，可以按“谁受益”和“谁的知识算数”来绘制。",
+   "method": "Reflective analysis of the ethics review dialogue, organised as a two-axis framework.",
+   "method_zh": "对伦理审查过程中的对话进行反思性分析，整理为一个双轴框架。",
+   "keywords": [
+    "research ethics",
+    "IRB",
+    "animal welfare",
+    "Cat Royale"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3613904.3641994",
+    "doi": "10.1145/3613904.3641994",
+    "arxiv": "2402.15439",
+    "venue": "CHI 2024"
+   }
+  },
+  {
+   "id": "steve-benford--tas-for-cats",
+   "creator_ids": [
+    "steve-benford",
+    "blast-theory"
+   ],
+   "title": "TAS for Cats: An Artist-led Exploration of Trustworthy Autonomous Systems for Companion Animals",
+   "year": 2023,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Presents Cat Royale as an autonomous system built with the TAS Hub's creative ambassadors Blast Theory, and unpacks how many human and animal stakeholders were needed to run it responsibly.",
+   "description_zh": "把 Cat Royale 作为与 TAS Hub 创意大使 Blast Theory 共同搭建的自主系统来介绍，并剖析负责任地运行它需要多少人类与动物利益相关者。",
+   "idea_en": "An autonomous system for animals is only as trustworthy as the human network around it.",
+   "idea_zh": "一个面向动物的自主系统，可信程度取决于围绕它的人类网络。",
+   "method": "System description and responsible research and innovation (RRI) reflection on autonomy, trustworthiness and responsibility.",
+   "method_zh": "系统描述，以及从负责任研究与创新（RRI）角度对自主性、可信性和责任的反思。",
+   "keywords": [
+    "TAS Hub",
+    "RRI",
+    "companion animals",
+    "Cat Royale"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.15431v1/Figures/Environment_design_V3.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3597512.3597517",
+    "doi": "10.1145/3597512.3597517",
+    "arxiv": "",
+    "venue": "TAS 2023"
+   }
+  },
+  {
+   "id": "steve-benford--designing-for-trust-animal-centric",
+   "creator_ids": [
+    "steve-benford"
+   ],
+   "title": "Designing for Trust: Autonomous Animal-Centric Robotic & AI Systems",
+   "year": 2022,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "An ACI 2022 paper that frames the questions behind Cat Royale: how trust works when pets, people and domestic robots such as robot arms share a home.",
+   "description_zh": "ACI 2022 论文，提出 Cat Royale 背后的问题：当宠物、人与机械臂等家用机器人共处一室时，信任如何建立。",
+   "idea_en": "Trust in home robots must be designed for animals as well as for people.",
+   "idea_zh": "家用机器人的信任设计必须同时考虑动物和人。",
+   "method": "Position paper using a responsible research and innovation approach to animal-centric autonomous systems.",
+   "method_zh": "立场论文，用负责任研究与创新的方法讨论以动物为中心的自主系统。",
+   "keywords": [
+    "animal-computer interaction",
+    "trust",
+    "pets",
+    "robotics"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3565995.3566046",
+    "doi": "10.1145/3565995.3566046",
+    "arxiv": "",
+    "venue": "ACI 2022"
+   }
+  },
+  {
+   "id": "steve-benford--ecosystem-of-trust-cat-royale",
+   "creator_ids": [
+    "steve-benford"
+   ],
+   "title": "Charting the Ecosystem of Trust in Cat Royale, or What It Takes to Trust a Robot to Play with Cats",
+   "year": 2025,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "A case study of everything behind a trustworthy robot that plays with cats — from the control room and welfare experts to ethics review and public engagement — summarised as five layers of an 'ecosystem of trust'.",
+   "description_zh": "一项案例研究，梳理一台能让人放心陪猫玩耍的机器人背后的一切——从控制室、动物福利专家到伦理审查与公众参与——归纳为“信任生态”的五个层次。",
+   "idea_en": "Trust in a social robot is built in layers far beyond the robot itself.",
+   "idea_zh": "对社交机器人的信任，是在远超机器人本身的多个层次中建立的。",
+   "method": "Framework of five layers: personal workspace, orchestration, wider workspace, organisational culture and the public sphere.",
+   "method_zh": "五层框架：个人工作空间、编排、更广的工作空间、组织文化和公共领域。",
+   "keywords": [
+    "social robots",
+    "trust",
+    "Cat Royale",
+    "ICSR"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.15431v1/Figures/CR_Brisbane.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1007/978-981-95-2398-6_42",
+    "doi": "10.1007/978-981-95-2398-6_42",
+    "arxiv": "",
+    "venue": "Social Robotics (LNCS), 2025"
+   }
+  },
+  {
+   "id": "steve-benford--provoking-reflection-cat-royale",
+   "creator_ids": [
+    "steve-benford"
+   ],
+   "title": "Provoking Public Reflection on Robotics and AI through Cat Royale, an Artistic Installation",
+   "year": 2026,
+   "field": "mth",
+   "sub": "animal-computer",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "paper",
+   "description": "Studies how audiences responded to Cat Royale and argues that presenting an artwork as a deliberately ambiguous interface helps people move beyond for-or-against views of AI.",
+   "description_zh": "研究观众如何回应 Cat Royale，并提出：把艺术作品呈现为刻意含混的界面，能帮助人们跳出对 AI 非赞成即反对的立场。",
+   "idea_en": "Ambiguous art about animals and robots makes abstract AI debates tangible.",
+   "idea_zh": "关于动物与机器人的含混艺术，能把抽象的 AI 争论变得可感。",
+   "method": "Analysis of audience engagement data and comments around the livestreamed installation.",
+   "method_zh": "分析围绕这件直播装置的观众参与数据和评论。",
+   "keywords": [
+    "public engagement",
+    "ambiguity",
+    "AI",
+    "Cat Royale"
+   ],
+   "images": [
+    "https://arxiv.org/html/2402.15431v1/Figures/CR_System_Components.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3803784.3807545",
+    "doi": "10.1145/3803784.3807545",
+    "arxiv": "",
+    "venue": "Creativity & Cognition 2026"
+   }
+  },
+  {
+   "id": "steve-benford--conversation-between-trees",
+   "creator_ids": [
+    "steve-benford"
+   ],
+   "title": "A Conversation Between Trees",
+   "year": 2013,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "A CHI 2013 study of an interactive artwork by Active Ingredient that visualised live environmental data from sensors on remote trees alongside historical and forecast CO2 data, with a mobile sensing walk in a nearby forest.",
+   "description_zh": "CHI 2013 论文，研究 Active Ingredient 的一件互动艺术作品：它把远方树木上传感器传回的实时环境数据与历史和预测的 CO2 数据一起可视化，并在附近森林中组织移动感知漫步。",
+   "idea_en": "Trees can be staged as live narrators of climate data, fostering feeling rather than persuasion.",
+   "idea_zh": "可以把树木变成气候数据的实时讲述者，引发感受而不是说教。",
+   "method": "Sensors on remote trees streamed live environmental data to a gallery installation; the paper analyses artists', visitors' and a climate scientist's perspectives.",
+   "method_zh": "远方树上的传感器把实时环境数据传到展厅装置；论文分析艺术家、观众和一位气候科学家的视角。",
+   "keywords": [
+    "environmental sensing",
+    "trees",
+    "climate data",
+    "Active Ingredient",
+    "Rachel Jacobs"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2470654.2470673",
+    "doi": "10.1145/2470654.2470673",
+    "arxiv": "",
+    "venue": "CHI 2013"
+   }
+  },
+  {
+   "id": "maurizio-montalti--system-synthetics",
+   "creator_ids": [
+    "maurizio-montalti"
+   ],
+   "title": "System Synthetics",
+   "year": 2010,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "fungi"
+   ],
+   "kind": "speculative",
+   "description": "A scenario and lab research with Utrecht University in which one fungus breaks down plastic waste and a yeast turns the products into bio-ethanol. BAD Award 2010 winner.",
+   "description_zh": "与乌得勒支大学合作的一个设想与实验研究：一种丝状真菌分解塑料垃圾，另一种酵母把分解产物转化为生物乙醇。2010 年 BAD Award 获奖作品。",
+   "idea_en": "Pair two fungi so that waste plastic becomes fuel.",
+   "idea_zh": "让两种真菌配对，把废塑料变成燃料。",
+   "method": "A filamentous fungus degrades plastic; yeast ferments the resulting compounds into ethanol, researched with Prof. Han Wösten.",
+   "method_zh": "丝状真菌降解塑料，酵母把产物发酵成乙醇；与 Han Wösten 教授合作研究。",
+   "keywords": [
+    "fungi",
+    "plastic degradation",
+    "bio-ethanol",
+    "Han Wösten",
+    "BAD Award 2010 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/595/SYSTEM-SYNTHETICS-1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/596/SYSTEM-SYNTHETICS-2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/maurizio-montalti",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "matthijs-munnik--microscopic-opera",
+   "creator_ids": [
+    "matthijs-munnik"
+   ],
+   "title": "Microscopic Opera",
+   "year": 2010,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An audiovisual installation in which C. elegans lab worms, instead of being studied, produce the images and sounds. BAD Award 2010 winner, with the Netherlands Consortium for Systems Biology.",
+   "description_zh": "一件视听装置，实验室线虫 C. elegans 不再是被研究的对象，而是生成图像和声音的表演者。2010 年 BAD Award 获奖作品，与荷兰系统生物学联盟合作。",
+   "idea_en": "What if we are manipulated by something we cannot see, the way we manipulate worms?",
+   "idea_zh": "如果我们也在被看不见的东西操控，就像我们操控线虫一样呢？",
+   "method": "Worm movement under a microscope is likely tracked by camera and translated into projected images and sound.",
+   "method_zh": "很可能用摄像头追踪显微镜下线虫的运动，并转化为投影图像和声音。",
+   "keywords": [
+    "C. elegans",
+    "microscopy",
+    "sonification",
+    "BAD Award 2010 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/613/MICROSCOPIC-OPERA-1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/614/MICROSCOPIC-OPERA-2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/matthijs-munnik",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "charlotte-jarvis--ergo-sum",
+   "creator_ids": [
+    "charlotte-jarvis"
+   ],
+   "title": "Ergo Sum",
+   "year": 2012,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "The artist donated blood, skin and urine to a Leiden stem-cell lab, where they were turned into stem cells and grown into her own heart cells, brain cells and blood vessels: a cellular double that never lived inside her. BAD Award 2012 winner.",
+   "description_zh": "艺术家把血液、皮肤和尿液捐给莱顿的一个干细胞实验室，这些样本被转化为干细胞，再培养成她自己的心肌细胞、脑细胞和血管：一个从未在她体内存在过的细胞“分身”。2012 年 BAD Award 获奖作品。",
+   "idea_en": "A person can now exist as living parts outside their body.",
+   "idea_zh": "如今，一个人可以以活体部件的形式存在于自己的身体之外。",
+   "method": "Induced pluripotent stem cells (iPSCs) derived from the artist's samples were differentiated into cardiac, neural and vascular cells with Prof. Christine Mummery's lab.",
+   "method_zh": "与 Christine Mummery 教授的实验室合作，把艺术家样本诱导成多能干细胞（iPSC），再分化为心脏、神经和血管细胞。",
+   "keywords": [
+    "iPSC",
+    "stem cells",
+    "self-portrait",
+    "BAD Award 2012 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/547/ERGO-SUM-1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/548/ERGO-SUM-2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/charlotte-jarvis",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "c-lab--living-mirror",
+   "creator_ids": [
+    "c-lab"
+   ],
+   "title": "Living Mirror",
+   "year": 2012,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "An interactive bio-installation in which a visitor's face is captured and redrawn as a liquid, three-dimensional image made of magnetic bacteria. BAD Award 2012 winner, with FOM-Institute AMOLF.",
+   "description_zh": "一件互动生物装置：捕捉观众的面孔，再用磁性细菌组成的液态三维图像把它重新“画”出来。2012 年 BAD Award 获奖作品，与 FOM-AMOLF 研究所合作。",
+   "idea_en": "Living bacteria can be the pixels of a mirror.",
+   "idea_zh": "活细菌可以成为一面镜子的像素。",
+   "method": "Magnetic (magnetotactic) bacteria in liquid are likely steered by electromagnets driven from processed camera images of the viewer.",
+   "method_zh": "很可能是用处理后的观众影像驱动电磁铁，控制液体中的趋磁细菌排列。",
+   "keywords": [
+    "magnetotactic bacteria",
+    "bio display",
+    "portrait",
+    "BAD Award 2012 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/573/LIVING-MIRROR-1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/574/LIVING-MIRROR-2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/laura-cinti-howard-boland",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "spela-petric--naval-gazing",
+   "creator_ids": [
+    "spela-petric"
+   ],
+   "title": "Naval Gazing",
+   "year": 2014,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "algae",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A windmill-like tetrahedral 'habiton' released into the North Sea to drift and host seaweeds and shellfish until their weight sinks it — an object built to be useful only to nonhumans. BAD Award 2014 winner, with NIOZ.",
+   "description_zh": "一个类似风车的四面体“栖居体”（habiton），被放入北海随风漂流，承载海藻和贝类，直到它们的重量让它沉没——一个只对非人类有用的物件。2014 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。",
+   "idea_en": "Can humans invest in structures that are useless to themselves?",
+   "idea_zh": "人类能否为对自己毫无用处的结构投入？",
+   "method": "A sail-like tetrahedral frame designed with aquaculture researchers is colonised by marine organisms at sea.",
+   "method_zh": "与水产养殖研究者一起设计的帆状四面体框架，在海上被海洋生物逐渐占据。",
+   "keywords": [
+    "North Sea",
+    "habitat",
+    "aquaculture",
+    "NIOZ",
+    "BAD Award 2014 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/495/NAVALGAZING1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/436/MATTEROFLIFE-Naval-Gazing_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/%C5%A1pela-petri%C4%8D",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "studio-psk--perfect-pigeon",
+   "creator_ids": [
+    "studio-psk"
+   ],
+   "title": "The Economics of Evolution: The Perfect Pigeon",
+   "year": 2014,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A near-future scenario in which pigeons are bred as tamper-proof biological couriers for biotech companies, showing how economic pressure could replace natural selection. BAD Award 2014 winner, with the University of Groningen.",
+   "description_zh": "一个近未来场景：鸽子被培育成生物技术公司防篡改的生物信使，展示经济压力如何取代自然选择。2014 年 BAD Award 获奖作品，与格罗宁根大学合作。",
+   "idea_en": "Markets are now an evolutionary force.",
+   "idea_zh": "市场如今也是一种进化力量。",
+   "method": "Props, images and narrative built with evolutionary ecologist Jan Komdeur on selective breeding and pigeon genetics.",
+   "method_zh": "与进化生态学家 Jan Komdeur 合作，围绕选择性育种和鸽子遗传学制作道具、图像和叙事。",
+   "keywords": [
+    "pigeon",
+    "selective breeding",
+    "evolution",
+    "BAD Award 2014 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/482/STUDIOPSK1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/372/15897462326_37b42203c9_o_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/studio-psk",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "isaac-monte--art-of-deception",
+   "creator_ids": [
+    "isaac-monte"
+   ],
+   "title": "The Art of Deception",
+   "year": 2015,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "animals",
+    "cells"
+   ],
+   "kind": "artwork",
+   "description": "Discarded pig hearts are decellularised into translucent scaffolds, cast and dyed as elegant 'vessels for new life' that could be repopulated with cells. BAD Award 2015 winner, with Toby Kiers at VU Amsterdam.",
+   "description_zh": "把被丢弃的猪心脱细胞，变成半透明的支架，再翻模、染色，做成可被重新植入细胞的“新生命容器”。2015 年 BAD Award 获奖作品，与阿姆斯特丹自由大学的 Toby Kiers 合作。",
+   "idea_en": "Biotech can make organs not only functional but beautiful — and that is a kind of deception.",
+   "idea_zh": "生物技术不仅能让器官能用，还能让它变美——而这是一种欺骗。",
+   "method": "Detergent decellularisation removes cells from pig hearts, leaving the extracellular matrix, which is dried, cast and coloured.",
+   "method_zh": "用去垢剂脱细胞法去除猪心中的细胞，留下细胞外基质，再干燥、翻模和上色。",
+   "keywords": [
+    "decellularisation",
+    "pig heart",
+    "scaffold",
+    "Toby Kiers",
+    "BAD Award 2015 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/460/ARTOFDECEPTION1_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/461/ARTOFDECEPTION2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/isaac-mont%C3%A9-and-toby-kiers",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "pei-ying-lin--tame-is-to-tame",
+   "creator_ids": [
+    "pei-ying-lin"
+   ],
+   "title": "Tame is to Tame",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A conceptual 'dance' between humans and viruses: a virus-taming programme based on virology research that treats viruses as partners to domesticate rather than enemies to kill. BAD Award 2016 winner, with the Viroscience lab at Erasmus MC.",
+   "description_zh": "人与病毒之间的一场概念性“舞蹈”：基于病毒学研究的“驯化病毒”计划，把病毒当作可以驯化的伙伴，而非必须消灭的敌人。2016 年 BAD Award 获奖作品，与伊拉斯姆斯医学中心病毒科学实验室合作。",
+   "idea_en": "Replace the war metaphor for microbes with domestication.",
+   "idea_zh": "用“驯化”替换对微生物的战争隐喻。",
+   "method": "Speculative programme and objects built on virology findings about virus–host co-evolution, with Miranda de Graaf.",
+   "method_zh": "与 Miranda de Graaf 合作，基于病毒与宿主共同进化的病毒学发现制作思辨方案和物件。",
+   "keywords": [
+    "virus",
+    "domestication",
+    "co-evolution",
+    "BAD Award 2016 winner"
+   ],
+   "images": [
+    "https://peiyinglin.net/images/tameistotame/000.jpg",
+    "https://peiyinglin.net/images/tameistotame/001.jpg"
+   ],
+   "source_url": "https://peiyinglin.net/page?p=tameistotame",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "cecilia-jonsson--haem",
+   "creator_ids": [
+    "cecilia-jonsson"
+   ],
+   "title": "Haem",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans",
+    "cells"
+   ],
+   "kind": "artwork",
+   "description": "A compass needle made from iron extracted from human placentas, shown in a placenta-inspired labyrinth as a metaphor for how maternal resources guide a life. BAD Award 2016 winner, with the Netherlands Cancer Institute.",
+   "description_zh": "一枚用人类胎盘中提取的铁制成的指南针，陈列在以胎盘为灵感的迷宫中，隐喻母体给予的资源如何引导一生。2016 年 BAD Award 获奖作品，与荷兰癌症研究所合作。",
+   "idea_en": "A discarded organ can yield the material for a navigation tool.",
+   "idea_zh": "一个被丢弃的器官，可以提供制作导航工具的材料。",
+   "method": "Iron from the haemoglobin in donated placentas is extracted and smelted, combining medicine and metallurgy.",
+   "method_zh": "从捐赠胎盘的血红蛋白中提取铁并冶炼，结合医学与冶金。",
+   "keywords": [
+    "placenta",
+    "iron",
+    "haemoglobin",
+    "metallurgy",
+    "BAD Award 2016 winner"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/203bbb_012089f7702f40d9ae4122dc542699c1~mv2.jpg",
+    "https://static.wixstatic.com/media/203bbb_82282135be2f4718aa03086cc22e080a~mv2.jpg"
+   ],
+   "source_url": "https://www.ceciliajonsson.com/4-haem",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "jiwon-woo--son-mat",
+   "creator_ids": [
+    "jiwon-woo"
+   ],
+   "title": "Mother's Hand Taste (Son-mat)",
+   "year": 2017,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "The artist collected yeasts and bacteria from the hands of family members across generations in four cities to test whether the Korean idea of 'son-mat' (the taste of the hand) is carried by microbes into fermented food. BAD Award 2017 winner.",
+   "description_zh": "艺术家从分布在四座城市、跨越几代人的家人手上采集酵母和细菌，检验韩国“손맛”（手的味道）是否由微生物带进发酵食物。2017 年 BAD Award 获奖作品。",
+   "idea_en": "The taste of a family's cooking may be a microbial inheritance.",
+   "idea_zh": "一个家庭做菜的味道，可能是一份微生物遗产。",
+   "method": "Hand swabs from Philadelphia, Utrecht, Seoul and Tokyo were cultured and used to ferment food, with Prof. Han Wösten (Utrecht University).",
+   "method_zh": "采集费城、乌得勒支、首尔和东京家人的手部样本进行培养，并用于发酵食物；与乌得勒支大学 Han Wösten 教授合作。",
+   "keywords": [
+    "hand microbiome",
+    "fermentation",
+    "yeast",
+    "son-mat",
+    "BAD Award 2017 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/1133/Jiwon-Hanneke-Wetzer-6_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/1132/Jiwon-Hanneke-Wetzer-4_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/jiwon-woo-with-han-w%C3%B6sten",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "xandra-van-der-eijk--seasynthesis",
+   "creator_ids": [
+    "xandra-van-der-eijk"
+   ],
+   "title": "Seasynthesis",
+   "year": 2017,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing listening project that records underwater sound in the North Sea — ship propellers, offshore wind-farm construction, marine life — to give people access to a sea they rarely see. BAD Award 2017 winner, with Wageningen Marine Research.",
+   "description_zh": "一个持续的聆听项目，录制北海水下的声音——船只螺旋桨、海上风电施工、海洋生物——让人们接近这片很少被看见的海。2017 年 BAD Award 获奖作品，与瓦赫宁根海洋研究所合作。",
+   "idea_en": "Listening is a way into ecosystems we cannot enter.",
+   "idea_zh": "聆听是进入我们无法进入的生态系统的一种方式。",
+   "method": "Hydrophone recordings in the North Sea analysed with marine ecologist Han Lindeboom and presented as a sound installation.",
+   "method_zh": "与海洋生态学家 Han Lindeboom 合作分析北海的水听器录音，并以声音装置呈现。",
+   "keywords": [
+    "hydrophone",
+    "North Sea",
+    "underwater noise",
+    "BAD Award 2017 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/1145/Life-Time-Hanneke-Wetzer-1_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/xandra-van-der-eijk-with-han-lindeboom",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "baum-leahy--microbiocene",
+   "creator_ids": [
+    "baum-leahy"
+   ],
+   "title": "Microbiocene: Ancient Ooze to Future Myths",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A far-future archaeological site with a monument inscribed in 'microglyphs', telling myths based on microbial fossil data from ancient sea sediment — an epoch seen from the microbes' side. BAD Award 2018 winner, with NIOZ.",
+   "description_zh": "一个遥远未来的考古现场，纪念碑上刻着“微符文”，讲述基于古代海底沉积物中微生物化石数据的神话——一个从微生物视角看待的时代。2018 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。",
+   "idea_en": "Humans are a brief episode inside a four-billion-year microbial epoch.",
+   "idea_zh": "人类只是四十亿年微生物时代中的一个短暂插曲。",
+   "method": "Microbial fossil data (likely lipid biomarkers) from sediment cores, studied with NIOZ biogeochemists, was translated into a co-designed symbol system.",
+   "method_zh": "与 NIOZ 生物地球化学家合作研究沉积物岩芯中的微生物化石数据（很可能是脂类生物标志物），并转译成共同设计的符号系统。",
+   "keywords": [
+    "microbial fossils",
+    "deep time",
+    "sediment",
+    "NIOZ",
+    "BAD Award 2018 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/2669/BoudewijnBollmann_ReShape_opening-LORES-010_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/1848/Baumleahy003_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/baum-leahy-with-stefan-schouten-julie-lattaud-laura-schreuder-and-gabriella-weiss",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "jonathan-ho--sex-shells",
+   "creator_ids": [
+    "jonathan-ho"
+   ],
+   "title": "Sex Shells",
+   "year": 2019,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "An immersive temple-laboratory that makes the hermaphrodite snail a divine icon of gender and sexual fluidity, alternating between myth and biological fact. BAD Award 2019 winner, with snail biologist Joris Koene (VU Amsterdam).",
+   "description_zh": "一座沉浸式的“神殿-实验室”，把雌雄同体的蜗牛奉为性别与性流动的神圣图腾，在神话与生物学事实之间切换。2019 年 BAD Award 获奖作品，与阿姆斯特丹自由大学蜗牛生物学家 Joris Koene 合作。",
+   "idea_en": "Another species' biology can widen our imagination of sex and gender.",
+   "idea_zh": "另一个物种的生物学，可以拓展我们对性与性别的想象。",
+   "method": "Installation drawing on research into snail mating (likely including 'love darts'), presented as ritual objects and images.",
+   "method_zh": "装置借鉴关于蜗牛交配（很可能包括“恋矢”）的研究，以仪式物件和图像呈现。",
+   "keywords": [
+    "snail",
+    "hermaphroditism",
+    "gender",
+    "BAD Award 2019 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/8175/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-104_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/8176/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-107_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/jonathan-ho-joris-koene",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "emma-van-der-leest--fungkee",
+   "creator_ids": [
+    "emma-van-der-leest"
+   ],
+   "title": "Fungkee | Fungal Supercoatings",
+   "year": 2019,
+   "field": "bio",
+   "sub": "microbial",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "prototype",
+   "description": "With Aneta Schaap-Oziemlak and Radboudumc, the team developed a water-repellent fungal coating for bacterial-cellulose leather, using a fungus isolated from a human patient. BAD Award 2019 winner.",
+   "description_zh": "与 Aneta Schaap-Oziemlak 和拉德堡德大学医学中心合作，团队利用从病人身上分离出的真菌，为细菌纤维素皮革开发防水涂层。2019 年 BAD Award 获奖作品。",
+   "idea_en": "A harmful fungus can lend a useful property to a microbe-grown material.",
+   "idea_zh": "一种有害的真菌，也能为微生物长出的材料带来有用的性能。",
+   "method": "Hydrophobin-like water-repellent properties of fungi (likely) are applied as a spray to bacterial cellulose leather.",
+   "method_zh": "把真菌的防水特性（很可能来自疏水蛋白）以喷涂方式用于细菌纤维素皮革。",
+   "keywords": [
+    "bacterial cellulose",
+    "bio-leather",
+    "hydrophobic coating",
+    "BAD Award 2019 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/8180/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-137_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/8182/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-123_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/emma-van-der-leest-aneta-schaap-oziemlak-with-paul-verweij-sybren-de-hoog-radboudumc-cwz",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "michael-sedbon--cmd",
+   "creator_ids": [
+    "michael-sedbon"
+   ],
+   "title": "CMD: Experiments in Bio-Algorithmic-Politics",
+   "year": 2019,
+   "field": "biohybrid",
+   "sub": "living-interfaces",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "An artificial ecosystem of photosynthetic bacterial cultures that share scarce light, governed by self-learning algorithms that test market strategies of competition and collaboration. BAD Award 2019 winner, with Raoul Frese (VU Amsterdam).",
+   "description_zh": "一个由光合细菌培养物组成的人工生态系统，它们共享稀缺的光照，由自学习算法以竞争与合作的市场策略来管理。2019 年 BAD Award 获奖作品，与阿姆斯特丹自由大学 Raoul Frese 合作。",
+   "idea_en": "Let algorithms govern living cells and watch which politics lets them thrive.",
+   "idea_zh": "让算法治理活细胞，看看哪种政治能让它们繁盛。",
+   "method": "Photosynthetic bacteria (likely cyanobacteria) in bioreactors receive light allocated by a learning algorithm that reads their growth.",
+   "method_zh": "生物反应器中的光合细菌（很可能是蓝藻），其光照由读取生长数据的学习算法分配。",
+   "keywords": [
+    "cyanobacteria",
+    "algorithmic governance",
+    "photobioreactor",
+    "BAD Award 2019 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/8187/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-032_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/8188/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-035_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "source_url": "https://www.badaward.nl/artists-scientists/michael-sedbon-raoul-frese",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "sissel-marie-tonn--becoming-a-sentinel-species",
+   "creator_ids": [
+    "sissel-marie-tonn"
+   ],
+   "title": "Becoming a Sentinel Species",
+   "year": 2020,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "cells",
+    "humans",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An experimental science-fiction film in which two researchers grow their own immune cells and expose them to microplastics, imagining humans as a sentinel species that signals pollution. BAD Award 2020 winner.",
+   "description_zh": "一部实验性科幻影片：两位研究者培养自己的免疫细胞，并让它们接触微塑料，把人类想象成能发出污染警报的“哨兵物种”。2020 年 BAD Award 获奖作品。",
+   "idea_en": "We are not sealed off from our environment; our cells can be its instruments.",
+   "idea_zh": "我们并未与环境隔绝；我们的细胞可以成为环境的测量仪。",
+   "method": "Macrophages from the artist's blood were cultured and exposed to microplastics, with Heather Leslie and Juan Garcia Vallejo (Amsterdam UMC).",
+   "method_zh": "与 Heather Leslie 和 Juan Garcia Vallejo（阿姆斯特丹大学医学中心）合作，培养艺术家血液中的巨噬细胞并让其接触微塑料。",
+   "keywords": [
+    "microplastics",
+    "macrophages",
+    "sentinel species",
+    "BAD Award 2020 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/3378/Sissel-Marie-Tonn.-goda-kenzo-mud-2_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/3379/goda-kenzo-mud_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/490794220"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/sissel-marie-tonn-with-heather-leslie-juan-garcia-vallejo",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "dasha-tsapenko--fur-tilize",
+   "creator_ids": [
+    "dasha-tsapenko"
+   ],
+   "title": "Fur_tilize",
+   "year": 2020,
+   "field": "bio",
+   "sub": "biotextiles",
+   "organisms": [
+    "fungi",
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "Five grown fur coats show five life cycles of one garment: hemp reinforced by fungus, a mycelium coat, edible mushrooms, a legume 'fur', and finally fertile ground for crops. BAD Award 2020 winner, with Han Wösten.",
+   "description_zh": "五件“长出来的”皮草大衣展示同一件衣服的五个生命周期：真菌加固的麻、菌丝体外套、可食用蘑菇、豆科植物“皮毛”，最后成为可以种庄稼的沃土。2020 年 BAD Award 获奖作品，与 Han Wösten 合作。",
+   "idea_en": "A garment can gain value over time by hosting other species.",
+   "idea_zh": "一件衣服可以通过承载其他物种而随时间增值。",
+   "method": "Schizophyllum commune strains of opposite mating types colonise a hemp mat; the composite then fruits and is seeded with legumes that fix nitrogen.",
+   "method_zh": "两种交配型的裂褶菌菌株在麻纤维毡上定殖，复合材料随后长出子实体，再播种可固氮的豆科植物。",
+   "keywords": [
+    "Schizophyllum commune",
+    "mycelium",
+    "hemp",
+    "grown fashion",
+    "BAD Award 2020 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/3414/MU-Evolutionaries-Hanneke-Wetzer-118_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/3415/MU-Evolutionaries-Hanneke-Wetzer-114_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/490808883"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/dasha-tsapenko-with-han-w%C3%B6sten",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "kuang-yi-ku--atlas-of-queer-anatomy",
+   "creator_ids": [
+    "kuang-yi-ku"
+   ],
+   "title": "Atlas of Queer Anatomy (Filthy Anatomy)",
+   "year": 2022,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "Speculative anatomies of the LGBTQ+ body that visualise microbes migrating between people through contact, drawing body borders as shared zones rather than clean lines. BAD Award 2022 winner, with Henry de Vries (Amsterdam UMC).",
+   "description_zh": "为 LGBTQ+ 身体绘制的思辨解剖图，把人与人接触时迁移的微生物可视化，把身体边界画成共享地带而非干净的轮廓线。2022 年 BAD Award 获奖作品，与 Henry de Vries（阿姆斯特丹大学医学中心）合作。",
+   "idea_en": "Anatomy can include the microbes that blur where one body ends.",
+   "idea_zh": "解剖学可以把那些模糊身体边界的微生物也包括进来。",
+   "method": "Microbial cultures and dermatology research are combined with speculative anatomical illustration and objects.",
+   "method_zh": "把微生物培养和皮肤病学研究与思辨性解剖插图和物件结合。",
+   "keywords": [
+    "microbiome",
+    "queer anatomy",
+    "dermatology",
+    "BAD Award 2022 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/5161/Filthy-Anatomy_1_220811_114119_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/5162/Filthy-Anatomy_3_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/781878851"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/kuang-yi-ku-with-henry-de-vries",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "nonhuman-nonsense--mud-and-flood",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Mud & Flood: The Return of Nehalennia",
+   "year": 2022,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "Revives Nehalennia, an ancient goddess of Zeeland, as a goddess of mud and flood who helps dissolve the hard boundary between water and land in the Dutch delta. BAD Award 2022 winner, with NIOZ.",
+   "description_zh": "复活泽兰地区的古老女神 Nehalennia，让她成为泥与洪水之神，帮助消解荷兰三角洲中水与陆之间的硬边界。2022 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。",
+   "idea_en": "Build a mythology for living with water instead of fighting it.",
+   "idea_zh": "为“与水共处而非与水对抗”建立一套神话。",
+   "method": "Based on NIOZ research on estuarine sediment and salt marshes, likely presented as film and ritual objects.",
+   "method_zh": "基于 NIOZ 关于河口沉积物和盐沼的研究，很可能以影像和仪式物件呈现。",
+   "keywords": [
+    "salt marsh",
+    "delta",
+    "hydrofeminism",
+    "NIOZ",
+    "BAD Award 2022 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/5169/Mud-Flood-the-Return-of-Nehalennia2_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/781881528"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/nonhuman-nonsense-with-marte-stoorvogel",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "anna-vershinina--exogarden",
+   "creator_ids": [
+    "anna-vershinina"
+   ],
+   "title": "ExoGarden: 3D-Printed Modular Eco-Habitats for Earth and Space",
+   "year": 2023,
+   "field": "bio",
+   "sub": "architecture",
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A 3D-printed modular habitat that grows shelter and food together and bioremediates its surroundings, designed for resource-poor places on Earth and in space. BAD Award 2023 winner, with Wieger Wamelink (Wageningen University).",
+   "description_zh": "一个 3D 打印的模块化栖居单元，让住所和食物一起生长并修复周围环境，面向地球和太空中资源匮乏的地方。2023 年 BAD Award 获奖作品，与瓦赫宁根大学 Wieger Wamelink 合作。",
+   "idea_en": "Architecture that is also a garden can sustain life where little grows.",
+   "idea_zh": "同时也是花园的建筑，可以在寸草难生的地方维持生命。",
+   "method": "Printed modules host plants, likely grown on Mars and Moon regolith simulants, drawing on Wamelink's space-farming experiments.",
+   "method_zh": "打印模块承载植物，很可能种在火星和月球模拟土壤中，借鉴 Wamelink 的太空农业实验。",
+   "keywords": [
+    "space farming",
+    "3D printing",
+    "regolith",
+    "habitat",
+    "BAD Award 2023 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/6435/ExoGARDEN_Installation_small_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/894970437"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/anna-vershinina-with-wieger-wamelink",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "carla-alcala-badias--microbial-prophetesses",
+   "creator_ids": [
+    "carla-alcala-badias"
+   ],
+   "title": "Microbial Prophetesses",
+   "year": 2024,
+   "field": "biohybrid",
+   "sub": "microbial-interfaces",
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Electroactive bacteria from marine sediments are staged as modern Sibyls whose electrical signals 'sing' warnings about pollution. BAD Award 2024 winner, with Laura Villanueva (NIOZ).",
+   "description_zh": "来自海底沉积物的电活性细菌被塑造成现代的西比尔女先知，它们的电信号“唱出”关于污染的警告。2024 年 BAD Award 获奖作品，与 Laura Villanueva（NIOZ）合作。",
+   "idea_en": "Bacteria that feed on pollutants can be heard as environmental oracles.",
+   "idea_zh": "以污染物为食的细菌，可以被听作环境的神谕者。",
+   "method": "Likely sediment microbial fuel cells that harvest electrons from electroactive bacteria, with the current translated into sound.",
+   "method_zh": "很可能是用沉积物微生物燃料电池从电活性细菌中获取电子，再把电流转译成声音。",
+   "keywords": [
+    "electroactive bacteria",
+    "microbial fuel cell",
+    "biosensor",
+    "NIOZ",
+    "BAD Award 2024 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/8190/Microbial-Prophetesses-Still-Video-Wouter-3_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/8191/Microbial-Prophetesses-Still-Video-Wouter-1_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1039596411"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/carla-alcal%C3%A0-badias-laura-villanueva",
+   "collections": [
+    "bad-award"
+   ]
+  },
+  {
+   "id": "emilia-tapprest--ecotonal-beings",
+   "creator_ids": [
+    "emilia-tapprest",
+    "samar-khan"
+   ],
+   "title": "Ecotonal Beings",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A film of four near-future characters who use smart interfaces to attune to other species: a girl following eels with an underwater drone, a falconer, a marine biologist reading sea butterflies, and a man who takes orders from cows. BAD Award 2024 winner.",
+   "description_zh": "一部影片，讲述四个近未来人物借助智能界面去与其他物种协调：用水下无人机追踪鳗鱼的女孩、一位驯鹰人、解读海蝴蝶的海洋生物学家，以及听命于奶牛的男人。2024 年 BAD Award 获奖作品。",
+   "idea_en": "Technology can help us try to understand other species, even when we fail.",
+   "idea_zh": "技术可以帮助我们尝试理解其他物种，即使我们会失败。",
+   "method": "Speculative film informed by research with the Meertens Institute on bioacoustic AI and animistic practices.",
+   "method_zh": "思辨影片，参考了与 Meertens 研究所合作的生物声学 AI 与万物有灵实践研究。",
+   "keywords": [
+    "bioacoustics",
+    "eels",
+    "sea butterflies",
+    "speculative film",
+    "BAD Award 2024 winner"
+   ],
+   "images": [
+    "https://www.badaward.nl/imager/assets/site/8202/Ecotonal-Beings-Still-Video-Wouter-7_a5a12f426a1ab11909951db4fe37df8f.jpg",
+    "https://www.badaward.nl/imager/assets/site/8199/Ecotonal-Beings-Still-Video-Wouter-3_a5a12f426a1ab11909951db4fe37df8f.jpg"
+   ],
+   "video": {
+    "url": "https://vimeo.com/1039601786"
+   },
+   "source_url": "https://www.badaward.nl/artists-scientists/emilia-tapprest-samar-khan",
+   "collections": [
+    "bad-award"
+   ]
+  }
+ ],
+ "leads": [
+  {
+   "name": "WhiteFeather Hunter",
+   "why": "Bio artist; co-creator of Sentient Clit / Synthetic Sentience (bioprinted tissue from menstrual stem cells).",
+   "link": "",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "Manu Prakash (Prakash Lab, Stanford)",
+   "why": "Frugal science; PlanktonScope and Gravity Machine data behind The Long Fall.",
+   "link": "https://web.stanford.edu/group/prakash-lab/",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "Ecocentric Future Lab",
+   "why": "Jiabao Li's former UT Austin lab; Entangled Intelligences project.",
+   "link": "https://www.ecocentricfuture.com/entangled-intelligences",
+   "found_via": "jiabao-li",
+   "status": "open"
+  },
+  {
+   "name": "Eike Schneiders",
+   "why": "Lead author of the Cat Royale papers; multispecies HRI.",
+   "link": "",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Alan Chamberlain",
+   "why": "Mixed Reality Lab; animal-centric autonomous systems and trust.",
+   "link": "",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Clara Mancini",
+   "why": "Animal–computer interaction pioneer (Open University); co-author on Cat Royale ethics.",
+   "link": "https://www.animalcomputerinteractionlab.org/cat-royale-project",
+   "found_via": "steve-benford",
+   "status": "open"
+  },
+  {
+   "name": "Active Ingredient / Rachel Jacobs",
+   "why": "Artists behind A Conversation Between Trees (tree-sensing climate artwork).",
+   "link": "",
+   "found_via": "steve-benford",
+   "status": "no_media"
+  },
+  {
+   "name": "Center for Genomic Gastronomy (Zack Denfeld & Cat Kramer)",
+   "why": "BAD Award 2011: Eat Less, Live More – and Pray for Beans.",
+   "link": "https://www.badaward.nl/artists-scientists/zack-denfeld-cat-kramer",
+   "found_via": "bad-award",
+   "status": "open"
+  },
+  {
+   "name": "Tiddo Bakker",
+   "why": "BAD Award 2011: In Vena Verbum, a device that makes chloroplast activity visible (plant voice). No images found.",
+   "link": "https://www.badaward.nl/artists-scientists/tiddo-bakker",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "Lionel Billiet",
+   "why": "BAD project Concrete Lichen: inoculating concrete walls with lichen (Xanthoria parietina). No images found.",
+   "link": "https://www.badaward.nl/artists-scientists/lionel-billiet",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "Emma Dorothy Conley",
+   "why": "BAD Award 2015: MSA – Microbiome Security Agency. No images found.",
+   "link": "https://www.badaward.nl/artists-scientists/emma-dorothy-conley-guus-roeselers",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "Haseeb Ahmed",
+   "why": "BAD Award 2012: Fish Bone Chapel (3D-printed mutated zebrafish skeletons). No images found.",
+   "link": "https://www.badaward.nl/artists-scientists/haseeb-ahmed",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "Agi Haines",
+   "why": "BAD Award 2015: Drones with Desires (machines with reconstructed nervous systems).",
+   "link": "https://www.badaward.nl/artists-scientists/agi-haines-marcel-de-jeu-jos-van-der-geest",
+   "found_via": "bad-award",
+   "status": "open"
+  },
+  {
+   "name": "Marlot Meyer",
+   "why": "BAD Award 2022: Hacking Heuristics, non-anthropocentric embodied language via neural networks.",
+   "link": "https://www.badaward.nl/artists-scientists/marlot-meyer-with-marcel-de-jeu-jos-van-der-geest",
+   "found_via": "bad-award",
+   "status": "open"
+  },
+  {
+   "name": "Lilian van Daal & Roos Meerman",
+   "why": "BAD Award 2016: Dynamorphosis, materials inspired by embryonic self-assembly. No images found.",
+   "link": "https://www.badaward.nl/artists-scientists/lilian-van-daal-roos-meerman-with-renee-van-amerongen",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "Susana Cámara Leret & Mike Thompson",
+   "why": "BAD Award 2011: Aqua Vita, metabolic paintings from urine.",
+   "link": "https://www.badaward.nl/artists-scientists/susana-c%C3%A1mara-leret-and-mike-thompson",
+   "found_via": "bad-award",
+   "status": "open"
+  },
+  {
+   "name": "pamela varela & ella hebendanz",
+   "why": "BAD Award 2023: re-c(O)unting (bodies, laboratories, decolonial healing).",
+   "link": "https://www.badaward.nl/artists-scientists/pamela-varela-ella-hebendanz-with-joris-koene",
+   "found_via": "bad-award",
+   "status": "off_topic"
+  },
+  {
+   "name": "Hung Lu Chan",
+   "why": "BAD Award 2023: Close Encounters with Inner Aliens (fMRI + Midjourney).",
+   "link": "https://www.badaward.nl/artists-scientists/hung-lu-chan-with-floris-de-lange",
+   "found_via": "bad-award",
+   "status": "off_topic"
+  },
+  {
+   "name": "Nadine Botha",
+   "why": "BAD Award 2020: The Orders of the Undead (zombie films and infectious disease).",
+   "link": "https://www.badaward.nl/artists-scientists/nadine-botha-with-henry-de-vries",
+   "found_via": "bad-award",
+   "status": "off_topic"
+  },
+  {
+   "name": "Yiyun Chen",
+   "why": "BAD Award 2018: Horizontal Living (metabolic health, living in bed).",
+   "link": "https://www.badaward.nl/artists-scientists/yiyun-chen-with-patrick-schrauwen-vera-schrauwen-hinderling",
+   "found_via": "bad-award",
+   "status": "off_topic"
+  },
+  {
+   "name": "Guo Cheng",
+   "why": "BAD Award 2017: A Felicitous Neo-Past (a square metre of Amsterdam soil washed free of human traces). No clear work image found.",
+   "link": "https://www.badaward.nl/artists-scientists/guo-cheng-with-heather-leslie",
+   "found_via": "bad-award",
+   "status": "no_media"
+  },
+  {
+   "name": "MU Hybrid Art House",
+   "why": "Eindhoven art house that runs the BAD Award and bio art exhibitions.",
+   "link": "https://mu.nl/en",
+   "found_via": "bad-award",
+   "status": "open"
+  },
+  {
+   "name": "BioArt Laboratories",
+   "why": "Eindhoven bio art lab (Jalila Essaïdi), BAD Award partner.",
+   "link": "https://bioartlab.com/",
+   "found_via": "bad-award",
+   "status": "open"
+  }
+ ]
+}

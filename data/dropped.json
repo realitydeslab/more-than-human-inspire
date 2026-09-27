@@ -1,0 +1,110 @@
+{
+ "works": [],
+ "media": [
+  {
+   "id": "neri-oxman--aguahoja",
+   "what": "doi-title",
+   "doi": "10.1089/3dp.2014.0014",
+   "crossref": "Water-Based Robotic Fabrication: Large-Scale Additive Manufacturing of Functionally Graded Hydrogel Composites via Multichamber Extrusion",
+   "title": "Aguahoja"
+  },
+  {
+   "id": "neri-oxman--vespers",
+   "what": "doi-title",
+   "doi": "10.1002/adfm.201907401",
+   "crossref": "Hybrid Living Materials: Digital Design and Fabrication of 3D Multimaterial Structures with Programmable Biohybrid Surfaces",
+   "title": "Vespers"
+  },
+  {
+   "id": "neri-oxman--wanderers",
+   "what": "doi-title",
+   "doi": "10.1089/3dp.2016.0027",
+   "crossref": "Grown, Printed, and Biologically Augmented: An Additively Manufactured Microfluidic Wearable, Functionally Templated for Synthetic Microbes",
+   "title": "Wanderers: An Astrobiological Exploration"
+  },
+  {
+   "id": "oron-catts--semi-living-worry-dolls",
+   "what": "doi-title",
+   "doi": "10.1162/002409402760181123",
+   "crossref": "Growing Semi-Living Sculptures: The Tissue Culture & Art Project",
+   "title": "Semi-Living Worry Dolls"
+  },
+  {
+   "id": "achim-menges--hygroskin",
+   "what": "doi-title",
+   "doi": "10.1016/j.cad.2014.02.010",
+   "crossref": "Meteorosensitive architecture: Biomimetic building skins based on materially embedded and hygroscopically enabled responsiveness",
+   "title": "HygroSkin: Meteorosensitive Pavilion"
+  },
+  {
+   "id": "achim-menges--urbach-tower",
+   "what": "doi-title",
+   "doi": "10.1126/sciadv.aax1311",
+   "crossref": "Analysis of hygroscopic self-shaping wood at large scale for curved mass timber structures",
+   "title": "Urbach Tower"
+  },
+  {
+   "id": "marcos-cruz--bioreceptive-concrete",
+   "what": "doi-title",
+   "doi": "10.1017/s1359135516000130",
+   "crossref": "Bioreceptive design: a novel approach to biodigital materiality",
+   "title": "Bioreceptive Concrete Panels"
+  },
+  {
+   "id": "henk-jonkers--self-healing-concrete",
+   "what": "doi-title",
+   "doi": "10.1016/j.ecoleng.2008.12.036",
+   "crossref": "Application of bacteria as self-healing agent for the development of sustainable concrete",
+   "title": "Self-healing bioconcrete"
+  },
+  {
+   "id": "ingmar-riedel-kruse--biology-cloud-lab",
+   "what": "doi-title",
+   "doi": "10.1145/3051457.3053994",
+   "crossref": "Authentic Science Inquiry Learning at Scale Enabled by an Interactive Biology Cloud Experimentation Lab",
+   "title": "Interactive Biology Cloud Lab"
+  },
+  {
+   "id": "fabienne-felder--moss-fm",
+   "what": "doi-title",
+   "doi": "10.1098/rsos.160249",
+   "crossref": "Electrical output of bryophyte microbial fuel cell systems is sufficient to power a radio or an environmental sensor",
+   "title": "Moss FM"
+  },
+  {
+   "id": "lining-yao--second-skin",
+   "what": "doi-title",
+   "doi": "10.1126/sciadv.1601984",
+   "crossref": "Harnessing the hygroscopic and biofluorescent behaviors of genetically tractable microbial cells to design biohybrid wearables",
+   "title": "Second Skin: Biological Garment Powered by and Adapting to Body in Motion"
+  },
+  {
+   "id": "project-ceti--project-ceti",
+   "what": "doi-title",
+   "doi": "10.1016/j.isci.2022.104393",
+   "crossref": "Toward understanding the communication in sperm whales",
+   "title": "Project CETI"
+  },
+  {
+   "id": "jiabao-li--echovision",
+   "what": "doi-title",
+   "doi": "10.1145/3680530.3695460",
+   "crossref": "Becoming Bats with “EchoVision”: Towards Eco-Phenomenological Mixed Reality",
+   "title": "EchoVision + Nocturnal Fugue"
+  },
+  {
+   "id": "jiabao-li--cryoscape",
+   "what": "doi-title",
+   "doi": "10.1145/3757369.3767614",
+   "crossref": "Cryoscape: AI-Interpreted 3D Ice Printing as Climate Commentary",
+   "title": "CryoScapes"
+  },
+  {
+   "id": "jiabao-li--sentient-clit",
+   "what": "doi-title",
+   "doi": "10.1145/3686169.3686201",
+   "crossref": "Synthetic Sentience: From Cup to Dish",
+   "title": "Sentient Clit: The Pussification of BioTech"
+  }
+ ]
+}

@@ -1,0 +1,2961 @@
+{
+  "batch": "biohybrid-hci",
+  "creators": [
+    {
+      "id": "jasmine-lu",
+      "name": "Jasmine Lu",
+      "kind": "person",
+      "role": "HCI researcher, Human Computer Integration Lab, University of Chicago",
+      "based": "Chicago, US",
+      "bio": "Jasmine Lu builds interactive devices that live, age and decay: a smartwatch powered by a slime mould, plant-driven robot actuators, and tools for reusing e-waste.",
+      "why": "She showed that a living organism can be a working component of a consumer device, and that caring for it changes how people relate to the device.",
+      "links": {
+        "site": "https://lab.plopes.org/"
+      },
+      "role_zh": "芝加哥大学人机融合实验室（Human Computer Integration Lab）HCI 研究者",
+      "bio_zh": "Jasmine Lu 研究会生长、衰老和分解的交互设备：由黏菌供电的智能手表、由植物驱动的机器人执行器，以及回收电子垃圾的制作工具。",
+      "why_zh": "她证明了活体生物可以成为日常设备里真正工作的零件，而照料它会改变人与设备的关系。",
+      "based_zh": "芝加哥，美国",
+      "connected_to": [
+        "pedro-lopes"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pedro-lopes",
+      "name": "Pedro Lopes",
+      "kind": "person",
+      "role": "Associate Professor of Computer Science, University of Chicago; director of the Human Computer Integration Lab",
+      "based": "Chicago, US",
+      "bio": "Pedro Lopes studies devices that integrate with the user's body, from electrical muscle stimulation and chemical haptics to devices that contain living organisms.",
+      "why": "His lab brings living organisms and ecological thinking into mainstream UIST/CHI device research.",
+      "links": {
+        "site": "https://lab.plopes.org/"
+      },
+      "role_zh": "芝加哥大学计算机科学副教授，人机融合实验室（Human Computer Integration Lab）负责人",
+      "bio_zh": "Pedro Lopes 研究与使用者身体融为一体的设备，从肌肉电刺激、化学触觉，到内含活体生物的设备。",
+      "why_zh": "他的实验室把活体生物和生态思维带进了 UIST/CHI 主流设备研究。",
+      "based_zh": "芝加哥，美国",
+      "connected_to": [
+        "jasmine-lu"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "pat-pataranutaporn",
+      "name": "Pat Pataranutaporn",
+      "kind": "person",
+      "role": "Researcher, MIT Media Lab (Fluid Interfaces group)",
+      "based": "Cambridge, US",
+      "bio": "Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs.",
+      "why": "Living Bits gave HCI a shared vocabulary for designing with microbes, echoing Tangible Bits.",
+      "links": {
+        "site": "https://www.media.mit.edu/people/patpat/overview/"
+      },
+      "role_zh": "麻省理工学院媒体实验室（Fluid Interfaces 组）研究员",
+      "bio_zh": "Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。",
+      "why_zh": "Living Bits 仿照 Tangible Bits，为 HCI 提供了一套与微生物一起设计的共同语言。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [
+        "raphael-kim"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "harpreet-sareen",
+      "name": "Harpreet Sareen",
+      "kind": "person",
+      "role": "Designer and researcher of plant–machine hybrids; faculty at Parsons School of Design; formerly MIT Media Lab",
+      "based": "New York, US",
+      "bio": "Harpreet Sareen coined 'Cyborg Botany': plants with wires grown inside them, plants that drive robots, and plants that sense water or talk through sound.",
+      "why": "He treats living plants as ready-made sensors, displays and actuators instead of building synthetic ones.",
+      "links": {
+        "site": "https://harpreetsareen.com/"
+      },
+      "role_zh": "植物-机器混合体的设计师与研究者；任教于帕森斯设计学院，曾在麻省理工学院媒体实验室",
+      "bio_zh": "Harpreet Sareen 提出“赛博植物学”（Cyborg Botany）：在植物体内长出导线、让植物驾驶机器人、让植物感知水质或用声音说话。",
+      "why_zh": "他把活植物当作现成的传感器、显示器和执行器，而不是另造人工器件。",
+      "based_zh": "纽约，美国",
+      "connected_to": [
+        "yasuaki-kakehi"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "yasuaki-kakehi",
+      "name": "Yasuaki Kakehi",
+      "kind": "person",
+      "role": "Professor, Interfaculty Initiative in Information Studies, University of Tokyo; Kakehi Lab",
+      "based": "Tokyo, JP",
+      "bio": "Yasuaki Kakehi is a media artist and interaction researcher who works with materials, water, light and living matter.",
+      "why": "His lab hosts plant and algae interfaces that turn slow biological processes into sound and light.",
+      "links": {
+        "site": "https://www.xlab.iii.u-tokyo.ac.jp/"
+      },
+      "role_zh": "东京大学大学院情报学环教授，筧康明实验室负责人",
+      "bio_zh": "筧康明（Yasuaki Kakehi）是媒体艺术家和交互研究者，作品涉及材料、水、光和活体物质。",
+      "why_zh": "他的实验室孵化了多件植物和藻类界面，把缓慢的生物过程转成声音和光。",
+      "based_zh": "东京，日本",
+      "connected_to": [
+        "harpreet-sareen"
+      ],
+      "discovered_via": "harpreet-sareen"
+    },
+    {
+      "id": "ivan-poupyrev",
+      "name": "Ivan Poupyrev",
+      "kind": "person",
+      "role": "Interaction researcher; formerly Disney Research and Google ATAP (Project Soli, Jacquard)",
+      "based": "San Francisco, US",
+      "bio": "Ivan Poupyrev invented sensing technologies such as Touché, Botanicus Interacticus, Soli radar and Jacquard textiles.",
+      "why": "Botanicus Interacticus showed that an ordinary living plant can be a precise multi-touch and gesture sensor.",
+      "links": {
+        "site": "http://www.ivanpoupyrev.com/"
+      },
+      "role_zh": "交互研究者；曾任职迪士尼研究院与 Google ATAP（Project Soli、Jacquard）",
+      "bio_zh": "Ivan Poupyrev 发明了 Touché、Botanicus Interacticus、Soli 雷达和 Jacquard 智能织物等感知技术。",
+      "why_zh": "Botanicus Interacticus 证明了一盆普通的活植物就能成为精确的多点触控和手势传感器。",
+      "based_zh": "旧金山，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "raphael-kim",
+      "name": "Raphael Kim",
+      "kind": "person",
+      "role": "Designer and researcher of human–microbe interaction; PhD Queen Mary University of London; postdoc TU Delft",
+      "based": "London, UK",
+      "bio": "Raphael Kim designs 'biotic games' driven by living moulds and bacteria and helped found the Microbe-HCI community.",
+      "why": "His work treats microbial slowness and glitches as design material rather than a problem.",
+      "links": {},
+      "role_zh": "人与微生物交互的设计师与研究者；伦敦玛丽女王大学博士，代尔夫特理工大学博士后",
+      "bio_zh": "Raphael Kim 设计由活霉菌和细菌驱动的“生物游戏”，并参与发起了 Microbe-HCI 社群。",
+      "why_zh": "他的工作把微生物的缓慢和“故障”当作设计素材，而不是需要消除的问题。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "elvin-karana",
+        "pat-pataranutaporn",
+        "ingmar-riedel-kruse"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "elvin-karana",
+      "name": "Elvin Karana",
+      "kind": "person",
+      "role": "Professor of Materials Innovation and Design, TU Delft; leads research on living artefacts",
+      "based": "Delft, NL",
+      "bio": "Elvin Karana developed the Material Driven Design method and now studies 'living artefacts' made with bacteria, algae and fungi.",
+      "why": "Her group maps the 'living aesthetics' of microbes—how their colour, light and growth can be read and designed for.",
+      "links": {
+        "site": "https://www.tudelft.nl/en/ide/about-ide/people/karana-e"
+      },
+      "role_zh": "代尔夫特理工大学材料创新与设计教授，领导“活体人造物”研究",
+      "bio_zh": "Elvin Karana 提出了“材料驱动设计”（Material Driven Design）方法，现在研究用细菌、藻类和真菌制成的“活体人造物”。",
+      "why_zh": "她的团队系统研究微生物的“生命美学”：它们的颜色、光和生长如何被人读懂、被设计利用。",
+      "based_zh": "代尔夫特，荷兰",
+      "connected_to": [
+        "raphael-kim",
+        "jiwei-zhou"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jiwei-zhou",
+      "name": "Jiwei Zhou",
+      "kind": "person",
+      "role": "Design researcher, Faculty of Industrial Design Engineering, TU Delft",
+      "based": "Delft, NL",
+      "bio": "Jiwei Zhou designs living artefacts with cyanobacteria and studies how people care for them in daily life.",
+      "why": "Her Cyano-chromic Interface makes microbial photosynthesis visible fast enough for people to notice.",
+      "links": {},
+      "role_zh": "代尔夫特理工大学工业设计工程学院设计研究者",
+      "bio_zh": "周纪伟（Jiwei Zhou）用蓝藻设计活体人造物，并研究人们在日常生活中如何照料它们。",
+      "why_zh": "她的 Cyano-chromic Interface 让微生物的光合作用以人能察觉的速度显现出来。",
+      "based_zh": "代尔夫特，荷兰",
+      "connected_to": [
+        "elvin-karana",
+        "raphael-kim"
+      ],
+      "discovered_via": "elvin-karana"
+    },
+    {
+      "id": "mirela-alistar",
+      "name": "Mirela Alistar",
+      "kind": "person",
+      "role": "Assistant Professor, ATLAS Institute and Computer Science, University of Colorado Boulder; director of the Living Matter Lab",
+      "based": "Boulder, US",
+      "bio": "Mirela Alistar started in biochip design automation and now leads a lab on interaction design with living matter: algae, kombucha, microbiomes and biomaterials.",
+      "why": "Her lab is one of the most productive sources of living-organism interfaces at CHI, DIS and TEI.",
+      "links": {
+        "site": "https://www.colorado.edu/atlas/living-matter-lab"
+      },
+      "role_zh": "科罗拉多大学博尔德分校 ATLAS 研究所与计算机科学系助理教授，Living Matter Lab 负责人",
+      "bio_zh": "Mirela Alistar 出身于生物芯片设计自动化，现在领导一个研究与活体物质交互设计的实验室：藻类、康普茶、微生物组和生物材料。",
+      "why_zh": "她的实验室是 CHI、DIS、TEI 上活体生物界面研究最高产的来源之一。",
+      "based_zh": "博尔德，美国",
+      "connected_to": [
+        "fiona-bell",
+        "netta-ofer"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "fiona-bell",
+      "name": "Fiona Bell",
+      "kind": "person",
+      "role": "HCI researcher and designer; PhD, Living Matter Lab, CU Boulder",
+      "based": "US",
+      "bio": "Fiona Bell designs with biomaterials and living microbes: SCOBY wearables, skin-microbiome interfaces and photobioreactor sculptures.",
+      "why": "She extends the 'human' in HCI to the microbes living on and around us.",
+      "links": {},
+      "role_zh": "HCI 研究者与设计师，科罗拉多大学博尔德分校 Living Matter Lab 博士",
+      "bio_zh": "Fiona Bell 用生物材料和活体微生物做设计：SCOBY 可穿戴、皮肤微生物组界面和光生物反应器雕塑。",
+      "why_zh": "她把 HCI 中的“人”扩展到生活在我们身上和周围的微生物。",
+      "based_zh": "美国",
+      "connected_to": [
+        "mirela-alistar",
+        "netta-ofer"
+      ],
+      "discovered_via": "mirela-alistar"
+    },
+    {
+      "id": "netta-ofer",
+      "name": "Netta Ofer",
+      "kind": "person",
+      "role": "PhD researcher, Living Matter Lab, ATLAS Institute, CU Boulder",
+      "based": "Boulder, US",
+      "bio": "Netta Ofer designs interactions with bioluminescent algae, kombucha and slime mould through organism-centred and first-person methods.",
+      "why": "Her work shows how to design for the well-being of the organism before designing the interaction.",
+      "links": {},
+      "role_zh": "科罗拉多大学博尔德分校 ATLAS 研究所 Living Matter Lab 博士研究者",
+      "bio_zh": "Netta Ofer 以生物为中心、以第一人称的方法，设计与发光藻、康普茶和黏菌的交互。",
+      "why_zh": "她的工作示范了先为生物的福祉设计环境，再设计交互。",
+      "based_zh": "博尔德，美国",
+      "connected_to": [
+        "mirela-alistar",
+        "fiona-bell"
+      ],
+      "discovered_via": "mirela-alistar"
+    },
+    {
+      "id": "nadia-campo-woytuk",
+      "name": "Nadia Campo Woytuk",
+      "kind": "person",
+      "role": "Interaction design researcher, KTH Royal Institute of Technology",
+      "based": "Stockholm, SE",
+      "bio": "Nadia Campo Woytuk works on feminist HCI for intimate health, including menstruation and the vaginal microbiome.",
+      "why": "She brings feminist critique into designing with the body's own microbes.",
+      "links": {},
+      "role_zh": "瑞典皇家理工学院（KTH）交互设计研究者",
+      "bio_zh": "Nadia Campo Woytuk 从事面向私密健康的女性主义 HCI 研究，包括月经和阴道微生物组。",
+      "why_zh": "她把女性主义批判带入与身体自身微生物一起设计的研究中。",
+      "based_zh": "斯德哥尔摩，瑞典",
+      "connected_to": [
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "discovered_via": "mirela-alistar"
+    },
+    {
+      "id": "ingmar-riedel-kruse",
+      "name": "Ingmar Riedel-Kruse",
+      "kind": "person",
+      "role": "Professor of Molecular and Cellular Biology, University of Arizona; formerly Stanford Bioengineering",
+      "based": "Tucson, US",
+      "bio": "Ingmar Riedel-Kruse invented 'biotic games' and interactive biotechnology: touchscreens, joysticks and cloud labs that let people steer living Euglena cells with light.",
+      "why": "He turned microscopy from watching into playing, making real microorganisms interactive at museum and MOOC scale.",
+      "links": {},
+      "role_zh": "亚利桑那大学分子与细胞生物学教授，曾任斯坦福大学生物工程系",
+      "bio_zh": "Ingmar Riedel-Kruse 开创了“生物游戏”和交互式生物技术：用触摸屏、摇杆和云实验室，让人用光引导活的眼虫细胞。",
+      "why_zh": "他把显微镜从“看”变成了“玩”，让真实微生物在博物馆和在线课程规模上可以交互。",
+      "based_zh": "图森，美国",
+      "connected_to": [
+        "raphael-kim"
+      ],
+      "discovered_via": "raphael-kim"
+    },
+    {
+      "id": "foad-hamidi",
+      "name": "Foad Hamidi",
+      "kind": "person",
+      "role": "Faculty, Department of Information Systems, University of Maryland, Baltimore County",
+      "based": "Baltimore, US",
+      "bio": "Foad Hamidi designs participatory and assistive technologies, including living media interfaces that use mushrooms and plants.",
+      "why": "Rafigh is one of the first HCI systems to use a living organism's growth as feedback.",
+      "links": {
+        "site": "https://www.foadhamidi.info/"
+      },
+      "role_zh": "马里兰大学巴尔的摩县分校信息系统系教师",
+      "bio_zh": "Foad Hamidi 设计参与式与辅助技术，包括使用蘑菇和植物的“活体媒介界面”。",
+      "why_zh": "Rafigh 是最早把活体生物的生长当作反馈的 HCI 系统之一。",
+      "based_zh": "巴尔的摩，美国",
+      "connected_to": [
+        "timothy-merritt",
+        "mirela-alistar"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "timothy-merritt",
+      "name": "Timothy Merritt",
+      "kind": "person",
+      "role": "Associate Professor, Department of Computer Science, Aalborg University",
+      "based": "Aalborg, DK",
+      "bio": "Timothy Merritt researches shape-changing, tangible and living media interfaces.",
+      "why": "He co-defined 'living media interfaces' as a research area across biology, ethics, art and HCI.",
+      "links": {},
+      "role_zh": "奥尔堡大学计算机科学系副教授",
+      "bio_zh": "Timothy Merritt 研究形变界面、实体界面和活体媒介界面。",
+      "why_zh": "他参与界定了“活体媒介界面”这一横跨生物、伦理、艺术与 HCI 的研究方向。",
+      "based_zh": "奥尔堡，丹麦",
+      "connected_to": [
+        "foad-hamidi",
+        "mirela-alistar"
+      ],
+      "discovered_via": "foad-hamidi"
+    },
+    {
+      "id": "donald-degraen",
+      "name": "Donald Degraen",
+      "kind": "person",
+      "role": "HCI researcher, HIT Lab NZ, University of Canterbury; formerly Saarland University and DFKI",
+      "based": "Christchurch, NZ",
+      "bio": "Donald Degraen studies haptics and 'living media' interfaces that use real plants for ambient feedback.",
+      "why": "He uses the slow motion of plants as an alternative to lights and screens for notifications.",
+      "links": {
+        "site": "https://www.donalddegraen.com/"
+      },
+      "role_zh": "坎特伯雷大学 HIT Lab NZ 的 HCI 研究者，曾在萨尔大学和德国人工智能研究中心（DFKI）",
+      "bio_zh": "Donald Degraen 研究触觉，以及用真实植物做环境反馈的“活体媒介”界面。",
+      "why_zh": "他用植物的缓慢运动代替灯光和屏幕来做提示。",
+      "based_zh": "基督城，新西兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "jodi-forlizzi",
+      "name": "Jodi Forlizzi",
+      "kind": "person",
+      "role": "Professor, Human-Computer Interaction Institute, Carnegie Mellon University",
+      "based": "Pittsburgh, US",
+      "bio": "Jodi Forlizzi is an interaction design researcher known for work on product experience, robots and service design.",
+      "why": "Her group's Infotropism (2004) is an early field study of living plants as interactive displays.",
+      "links": {},
+      "role_zh": "卡内基梅隆大学人机交互研究所教授",
+      "bio_zh": "Jodi Forlizzi 是交互设计研究者，以产品体验、机器人和服务设计方面的研究著称。",
+      "why_zh": "她团队的 Infotropism（2004）是把活植物用作交互显示器的早期实地研究。",
+      "based_zh": "匹兹堡，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "akira-wakita",
+      "name": "Akira Wakita",
+      "kind": "person",
+      "role": "Professor, Faculty of Environment and Information Studies, Keio University",
+      "based": "Fujisawa, JP",
+      "bio": "Akira Wakita works on information design, ambient displays and digital fabrication.",
+      "why": "PlantDisplay was among the first to use houseplant growth itself as an ambient information display.",
+      "links": {},
+      "role_zh": "庆应义塾大学环境情报学部教授",
+      "bio_zh": "脇田玲（Akira Wakita）研究信息设计、环境显示和数字制造。",
+      "why_zh": "PlantDisplay 最早一批把盆栽植物的生长本身当作环境信息显示。",
+      "based_zh": "藤泽，日本",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "vito-gentile",
+      "name": "Vito Gentile",
+      "kind": "person",
+      "role": "Researcher, Ubiquitous Systems and Interfaces group, University of Palermo",
+      "based": "Palermo, IT",
+      "bio": "Vito Gentile researches pervasive displays and touchless interaction in public spaces.",
+      "why": "Plantxel proposed pixels made of living Mimosa plants.",
+      "links": {},
+      "role_zh": "巴勒莫大学泛在系统与界面组研究者",
+      "bio_zh": "Vito Gentile 研究公共空间中的泛在显示与无接触交互。",
+      "why_zh": "Plantxel 提出了由活体含羞草组成的像素。",
+      "based_zh": "巴勒莫，意大利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "leonardo-angelini",
+      "name": "Leonardo Angelini",
+      "kind": "person",
+      "role": "Professor, HES-SO University of Applied Sciences of Western Switzerland, Fribourg",
+      "based": "Fribourg, CH",
+      "bio": "Leonardo Angelini designs tangible and embodied interfaces for older adults and everyday objects.",
+      "why": "EmotiPlant turns a houseplant into an emotional companion that asks for care.",
+      "links": {},
+      "role_zh": "瑞士西部应用科学大学（HES-SO）弗里堡校区教授",
+      "bio_zh": "Leonardo Angelini 为老年人和日常物件设计实体交互界面。",
+      "why_zh": "EmotiPlant 把一盆室内植物变成会表达情绪、请求照料的陪伴者。",
+      "based_zh": "弗里堡，瑞士",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "helene-steiner",
+      "name": "Helene Steiner",
+      "kind": "person",
+      "role": "Designer and researcher; co-founder of Bento Lab; former artist-in-residence at Microsoft Research Cambridge",
+      "based": "London, UK",
+      "bio": "Helene Steiner works between design and biology: portable DNA labs, biological garments and plant–human communication.",
+      "why": "Project Florence imagined a conversational interface between people and a living plant.",
+      "links": {
+        "site": "https://www.helenesteiner.com/"
+      },
+      "role_zh": "设计师与研究者，Bento Lab 联合创始人，曾任微软剑桥研究院驻留艺术家",
+      "bio_zh": "Helene Steiner 在设计与生物之间工作：便携 DNA 实验室、生物服装以及植物与人的通讯。",
+      "why_zh": "Project Florence 设想了人与一株活植物之间的对话界面。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "lining-yao"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "eleni-stavrinidou",
+      "name": "Eleni Stavrinidou",
+      "kind": "person",
+      "role": "Associate Professor, Laboratory of Organic Electronics, Linköping University; leads the Electronic Plants group",
+      "based": "Norrköping, SE",
+      "bio": "Eleni Stavrinidou grows conductive polymer wires, sensors and supercapacitors inside living plants.",
+      "why": "Her 'e-Plants' made in-planta electronics a real lab technique.",
+      "links": {},
+      "role_zh": "林雪平大学有机电子实验室副教授，Electronic Plants 研究组负责人",
+      "bio_zh": "Eleni Stavrinidou 在活植物体内长出导电聚合物导线、传感器和超级电容器。",
+      "why_zh": "她的“电子植物”让植物体内电子学成为真正的实验技术。",
+      "based_zh": "诺尔雪平，瑞典",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "michael-strano",
+      "name": "Michael Strano",
+      "kind": "person",
+      "role": "Professor of Chemical Engineering, MIT; pioneer of plant nanobionics",
+      "based": "Cambridge, US",
+      "bio": "Michael Strano's lab embeds nanoparticles in living plants so they detect chemicals, report through infrared light, or glow.",
+      "why": "Plant nanobionics turns plants into self-powered environmental sensors and lamps.",
+      "links": {},
+      "role_zh": "麻省理工学院化学工程教授，植物纳米仿生学开拓者",
+      "bio_zh": "Michael Strano 的实验室把纳米颗粒植入活植物，让它们检测化学物质、用红外光报告结果，或者自己发光。",
+      "why_zh": "植物纳米仿生学把植物变成自供能的环境传感器和灯。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xiaodong-chen",
+      "name": "Xiaodong Chen",
+      "kind": "person",
+      "role": "Professor of Materials Science and Engineering, Nanyang Technological University, Singapore",
+      "based": "Singapore, SG",
+      "bio": "Xiaodong Chen develops soft bio-interfaced electronics, including conformable electrodes for plants.",
+      "why": "His team controlled a Venus flytrap from a smartphone, making a plant a robotic gripper.",
+      "links": {},
+      "role_zh": "新加坡南洋理工大学材料科学与工程教授",
+      "bio_zh": "陈晓东（Xiaodong Chen）研发与生物贴合的柔性电子，包括贴附在植物上的电极。",
+      "why_zh": "他的团队用手机控制捕蝇草，把植物变成机器人的抓手。",
+      "based_zh": "新加坡",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "fabienne-felder",
+      "name": "Fabienne Felder",
+      "kind": "person",
+      "role": "Designer and creative strategist; founder of the studio Lumot",
+      "based": "London, UK",
+      "bio": "Fabienne Felder designs with emerging biotechnologies, most notably moss-powered electronics.",
+      "why": "Moss FM made photo-microbial fuel cells tangible as an everyday object.",
+      "links": {},
+      "role_zh": "设计师与创意策略师，Lumot 工作室创始人",
+      "bio_zh": "Fabienne Felder 用新兴生物技术做设计，最知名的是用苔藓供电的电子设备。",
+      "why_zh": "Moss FM 把光合微生物燃料电池做成了一件看得见、用得上的日常物件。",
+      "based_zh": "伦敦，英国",
+      "connected_to": [
+        "paolo-bombelli"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "paolo-bombelli",
+      "name": "Paolo Bombelli",
+      "kind": "person",
+      "role": "Biochemist, Department of Biochemistry, University of Cambridge; biophotovoltaics researcher",
+      "based": "Cambridge, UK",
+      "bio": "Paolo Bombelli develops biophotovoltaic systems that harvest electricity from photosynthetic organisms such as moss and algae.",
+      "why": "He has repeatedly partnered with designers to show living power sources in public.",
+      "links": {},
+      "role_zh": "剑桥大学生物化学系生物化学家，生物光伏研究者",
+      "bio_zh": "Paolo Bombelli 研发生物光伏系统，从苔藓、藻类等光合生物中收集电能。",
+      "why_zh": "他多次与设计师合作，把“活的电源”带到公众面前。",
+      "based_zh": "剑桥，英国",
+      "connected_to": [
+        "fabienne-felder"
+      ],
+      "discovered_via": "fabienne-felder"
+    },
+    {
+      "id": "plant-e",
+      "name": "Plant-e",
+      "kind": "company",
+      "role": "Wageningen spin-off company producing plant microbial fuel cells",
+      "based": "Wageningen, NL",
+      "bio": "Plant-e, co-founded by Marjolein Helder, harvests electricity from bacteria that feed on organic matter released by the roots of living plants.",
+      "why": "It brought plant–microbe power from the lab into products, green roofs and wetlands.",
+      "links": {
+        "site": "https://plant-e.com/"
+      },
+      "role_zh": "瓦赫宁根大学衍生公司，生产植物微生物燃料电池",
+      "bio_zh": "Plant-e 由 Marjolein Helder 联合创立，从以活植物根系分泌物为食的细菌中收集电能。",
+      "why_zh": "它把植物-微生物发电从实验室带进了产品、绿色屋顶和湿地。",
+      "based_zh": "瓦赫宁根，荷兰",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "josiah-hester",
+      "name": "Josiah Hester",
+      "kind": "person",
+      "role": "Associate Professor, Georgia Institute of Technology; directs the Ka Moamoa lab on sustainable, battery-free computing",
+      "based": "Atlanta, US",
+      "bio": "Josiah Hester builds battery-free and intermittent computing systems powered by the environment.",
+      "why": "His team showed that soil microbes can power real sensors and wireless communication.",
+      "links": {},
+      "role_zh": "佐治亚理工学院副教授，领导研究可持续无电池计算的 Ka Moamoa 实验室",
+      "bio_zh": "Josiah Hester 研究由环境供能的无电池、间歇式计算系统。",
+      "why_zh": "他的团队证明了土壤微生物可以为真实的传感器和无线通讯供电。",
+      "based_zh": "亚特兰大，美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "christopher-voigt",
+      "name": "Christopher Voigt",
+      "kind": "person",
+      "role": "Professor of Biological Engineering, MIT",
+      "based": "Cambridge, US",
+      "bio": "Christopher Voigt designs genetic circuits and programmable bacteria, from light-sensing E. coli to 'living circuit boards'.",
+      "why": "His bacterial camera made a lawn of bacteria into a photographic display.",
+      "links": {},
+      "role_zh": "麻省理工学院生物工程教授",
+      "bio_zh": "Christopher Voigt 设计基因电路和可编程细菌，从能感光的大肠杆菌到“活体电路板”。",
+      "why_zh": "他的“细菌相机”把一层细菌变成了能显示照片的屏幕。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "lining-yao",
+      "name": "Lining Yao",
+      "kind": "person",
+      "role": "Associate Professor, UC Berkeley; director of the Morphing Matter Lab",
+      "based": "Berkeley, US",
+      "bio": "Lining Yao designs shape-changing materials, including bioLogic, which used living natto bacteria as humidity-driven actuators.",
+      "why": "bioLogic and Second Skin are landmark examples of microbes as wearable actuators.",
+      "links": {},
+      "role_zh": "加州大学伯克利分校副教授，Morphing Matter Lab 负责人",
+      "bio_zh": "姚立宁（Lining Yao）设计可变形材料，其中 bioLogic 用活的纳豆菌作为受湿度驱动的执行器。",
+      "why_zh": "bioLogic 和 Second Skin 是把微生物用作可穿戴执行器的标志性案例。",
+      "based_zh": "伯克利，美国",
+      "connected_to": [
+        "helene-steiner"
+      ],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "xuanhe-zhao",
+      "name": "Xuanhe Zhao",
+      "kind": "person",
+      "role": "Professor of Mechanical Engineering, MIT; directs the Soft Active Materials Lab",
+      "based": "Cambridge, US",
+      "bio": "Xuanhe Zhao develops hydrogel machines and bioadhesives, including hydrogels that host living engineered bacteria.",
+      "why": "His 'living tattoo' and living glove put programmed cells directly on the skin as sensors.",
+      "links": {},
+      "role_zh": "麻省理工学院机械工程教授，软活性材料实验室负责人",
+      "bio_zh": "赵选贺（Xuanhe Zhao）研发水凝胶机器和生物粘合剂，包括容纳活体工程细菌的水凝胶。",
+      "why_zh": "他的“活体纹身”和活体手套把编程细胞直接放到皮肤上当传感器。",
+      "based_zh": "剑桥（马萨诸塞州），美国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "christa-sommerer-laurent-mignonneau",
+      "name": "Christa Sommerer & Laurent Mignonneau",
+      "kind": "studio",
+      "role": "Media-art duo; professors at the Interface Cultures department, University of Art and Design Linz",
+      "based": "Linz, AT",
+      "bio": "Christa Sommerer and Laurent Mignonneau have made interactive artworks about artificial life since the early 1990s.",
+      "why": "Interactive Plant Growing (1992) was one of the first artworks to use real plants as the interface.",
+      "links": {},
+      "role_zh": "媒体艺术二人组，林茨艺术与设计大学界面文化系教授",
+      "bio_zh": "Christa Sommerer 和 Laurent Mignonneau 自 1990 年代初开始创作关于人工生命的交互艺术。",
+      "why_zh": "Interactive Plant Growing（1992）是最早把真实植物当作界面的艺术作品之一。",
+      "based_zh": "林茨，奥地利",
+      "connected_to": [],
+      "discovered_via": "seed"
+    },
+    {
+      "id": "scenocosme",
+      "name": "Scenocosme",
+      "kind": "studio",
+      "role": "Artist duo Grégory Lasserre and Anaïs met den Ancxt",
+      "based": "Lyon, FR",
+      "bio": "Scenocosme make interactive installations with plants, wood and bodies that react to touch and human bioelectricity.",
+      "why": "Akousmaflore turned touch-sensing plants into a gallery instrument long before plant sensing kits existed.",
+      "links": {
+        "site": "https://www.scenocosme.com/"
+      },
+      "role_zh": "艺术家二人组 Grégory Lasserre 与 Anaïs met den Ancxt",
+      "bio_zh": "Scenocosme 创作以植物、木头和身体为媒介的交互装置，对触摸和人体生物电作出反应。",
+      "why_zh": "早在植物传感套件出现之前，Akousmaflore 就把能感知触摸的植物做成了展厅里的乐器。",
+      "based_zh": "里昂，法国",
+      "connected_to": [],
+      "discovered_via": "seed"
+    }
+  ],
+  "works": [
+    {
+      "id": "jasmine-lu--slime-mould-smartwatch",
+      "creator_ids": [
+        "jasmine-lu",
+        "pedro-lopes"
+      ],
+      "title": "Integrating Living Organisms in Devices to Implement Care-based Interactions",
+      "year": 2022,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "slime-mold",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A smartwatch whose heart-rate sensor is wired through a living slime mould: if the wearer feeds and waters it, the mould stays conductive and the sensor works; if neglected, it dries out and the feature switches off until care resumes. Participants wore it for 9–14 days.",
+      "description_zh": "一块智能手表，心率传感器的电路要经过一团活的黏菌：佩戴者喂养、补水，黏菌保持导电，传感器就能工作；疏于照料，黏菌干枯，功能随之关闭，恢复照料后又能“复活”。参与者佩戴了 9–14 天。",
+      "idea_en": "Make a device feature depend on keeping an organism alive, so care becomes part of the interaction.",
+      "idea_zh": "让设备功能取决于一个生命是否被养活，照料就成了交互的一部分。",
+      "method": "Physarum polycephalum grows along a channel between two electrodes and acts as a 'living wire' that closes the circuit to the heart-rate sensor only when hydrated and fed with oats.",
+      "method_zh": "多头绒泡菌（Physarum polycephalum）在两个电极之间的通道里生长，形成一根“活导线”；只有在湿润并被喂燕麦时才导电，接通心率传感器。",
+      "keywords": [
+        "Physarum polycephalum",
+        "smartwatch",
+        "living wire",
+        "care-based interaction",
+        "UIST"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Bex91KV56PQ"
+      },
+      "images": [
+        "https://lab.plopes.org/project-thumbnails/UIST22-IntegratingPhysarum.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3526113.3545629",
+        "doi": "10.1145/3526113.3545629",
+        "arxiv": "",
+        "venue": "UIST 2022"
+      },
+      "source_url": "https://lab.plopes.org/",
+      "code_url": "https://github.com/humancomputerintegration/integrating-living-organisms"
+    },
+    {
+      "id": "jasmine-lu--plant-driven-actuators",
+      "creator_ids": [
+        "jasmine-lu",
+        "pedro-lopes"
+      ],
+      "title": "Designing Plant-Driven Actuators for Robots to Grow, Age, and Decay",
+      "year": 2024,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Yuhan Hu, Jasmine Lu, Pedro Lopes, Guy Hoffman and colleagues replace motors with plants: growing roots, swelling seeds and drying stems push, lift and bend robot parts over days, and decay becomes part of the robot's life.",
+      "description_zh": "Yuhan Hu、Jasmine Lu、Pedro Lopes、Guy Hoffman 等人用植物代替电机：生长的根、膨胀的种子和干燥的茎在几天内推动、抬起、弯折机器人部件，腐烂也成为机器人生命的一部分。",
+      "idea_en": "Let plants be the motors, and design robots that are slow, grow old and fall apart.",
+      "idea_zh": "让植物当电机，设计缓慢的、会变老也会散架的机器人。",
+      "method": "Growth, turgor and drying forces of seeds, sprouts and stems are measured and used as actuation primitives inside 3D-printed robot structures.",
+      "method_zh": "测量种子、嫩芽和茎在生长、膨压和干燥时产生的力，并把它们作为执行单元放进 3D 打印的机器人结构里。",
+      "keywords": [
+        "plant-robot hybrid",
+        "slow technology",
+        "decay",
+        "actuator",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=jcS5ZctTZ7o"
+      },
+      "images": [
+        "https://lab.plopes.org/project-thumbnails/DIS24-PlantBasedActuator.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3643834.3661519",
+        "doi": "10.1145/3643834.3661519",
+        "arxiv": "",
+        "venue": "DIS 2024"
+      },
+      "source_url": "https://lab.plopes.org/"
+    },
+    {
+      "id": "pat-pataranutaporn--living-bits",
+      "creator_ids": [
+        "pat-pataranutaporn"
+      ],
+      "title": "Living Bits: Opportunities and Challenges for Integrating Living Microorganisms in Human-Computer Interaction",
+      "year": 2020,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A framework paper, modelled on Tangible Bits, that maps how microbes on, in and around the body could become parts of wearables, games, instruments and robots, and gives principles for brainstorming microbial interfaces. Best Paper at Augmented Humans 2020.",
+      "description_zh": "一篇仿照 Tangible Bits 的框架论文：梳理身体表面、体内和周围的微生物如何成为可穿戴、游戏、乐器和机器人的一部分，并给出构思微生物界面的原则。获 Augmented Humans 2020 最佳论文。",
+      "idea_en": "Treat the trillions of microbes around us as living 'bits' for interaction design.",
+      "idea_zh": "把身边数以万亿计的微生物看作交互设计的活“比特”。",
+      "method": "Literature and project survey characterizing human–microbe interactions by context and scale, plus design cards for workshops.",
+      "method_zh": "通过文献与项目综述，按情境和尺度归纳人-微生物交互，并提供用于工作坊的设计卡片。",
+      "keywords": [
+        "Living Bits",
+        "Tangible Bits",
+        "microbe-HCI",
+        "framework",
+        "Augmented Humans"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=lIp1kZ_JiBM"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2020/03/18/overview.png.1400x1400.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3384657.3384783",
+        "doi": "10.1145/3384657.3384783",
+        "arxiv": "",
+        "venue": "Augmented Humans 2020"
+      },
+      "source_url": "https://www.media.mit.edu/projects/living-bits/overview/"
+    },
+    {
+      "id": "pat-pataranutaporn--biological-hci",
+      "creator_ids": [
+        "pat-pataranutaporn"
+      ],
+      "title": "Biological HCI: Towards Integrative Interfaces Between People, Computer, and Biological Materials",
+      "year": 2018,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "bacteria",
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "An early Bio-HCI framework with Todd Ingalls and Ed Finn (Arizona State University) that treats biological materials as interface elements, organised into biological material, intermediate platform and user interaction, with four experiments.",
+      "description_zh": "与亚利桑那州立大学的 Todd Ingalls、Ed Finn 合作的早期 Bio-HCI 框架：把生物材料当作界面元素，分为生物材料、中间平台和用户交互三层，并用四个实验加以检验。",
+      "idea_en": "Design interfaces in three layers: the living material, the platform that hosts it, and the person.",
+      "idea_zh": "把界面拆成三层来设计：活的材料、承载它的平台、以及人。",
+      "method": "Framework built with biotechnologists and speculative designers, tested through prototypes combining microbes and digital sensing.",
+      "method_zh": "与生物技术专家和思辨设计研究者共同搭建框架，并用结合微生物与数字传感的原型进行检验。",
+      "keywords": [
+        "Bio-HCI",
+        "framework",
+        "biological materials",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=L1x_uDRuRfQ"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3170427.3188662",
+        "doi": "10.1145/3170427.3188662",
+        "arxiv": "",
+        "venue": "CHI 2018 Extended Abstracts"
+      }
+    },
+    {
+      "id": "pat-pataranutaporn--cyberbiome",
+      "creator_ids": [
+        "pat-pataranutaporn"
+      ],
+      "title": "CyberBiome",
+      "year": 2022,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "prototype",
+      "description": "A wearable 'bio-digital organ' for astronauts: small 3D-printed bioreactors of engineered cells worn on the body produce therapeutics on demand, switched on digitally with light.",
+      "description_zh": "一个为宇航员设计的可穿戴“生物-数字器官”：佩戴在身上的 3D 打印小型生物反应器里装着工程细胞，用光以数字方式开启，按需生产药物。",
+      "idea_en": "Wear a tiny living factory that makes the medicine your body needs, when it needs it.",
+      "idea_zh": "把一座微型活体工厂穿在身上，在需要时生产身体需要的药。",
+      "method": "Engineered microbes with optogenetic circuits in wearable bioreactors; light pulses select which biomolecule is expressed.",
+      "method_zh": "带光遗传电路的工程微生物装在可穿戴生物反应器中，用光脉冲选择表达哪种生物分子。",
+      "keywords": [
+        "optogenetics",
+        "wearable bioreactor",
+        "space health",
+        "synthetic biology"
+      ],
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2022/10/02/PTPfTvzo.jpg.1400x1400.jpg"
+      ],
+      "source_url": "https://www.media.mit.edu/projects/cyber-biome/overview/"
+    },
+    {
+      "id": "harpreet-sareen--elowan",
+      "creator_ids": [
+        "harpreet-sareen"
+      ],
+      "title": "Elowan: A Plant-Robot Hybrid",
+      "year": 2018,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "A potted plant on a wheeled robot base that moves itself toward light: electrodes on its leaves and stem read its own bioelectrical responses and the robot follows them.",
+      "description_zh": "一盆放在轮式机器人底座上的植物，会自己朝光的方向移动：叶片和茎上的电极读取它自身的生物电反应，机器人据此行动。",
+      "idea_en": "Give a plant a body so its own signals decide where it goes.",
+      "idea_zh": "给植物一个身体，让它自己的信号决定去哪里。",
+      "method": "Silver electrodes pick up light-triggered action and variation potentials from the plant; amplified signals drive the robot's motors.",
+      "method_zh": "银电极拾取植物在光照刺激下产生的动作电位和变异电位，信号放大后驱动机器人电机。",
+      "keywords": [
+        "cyborg botany",
+        "plant electrophysiology",
+        "robot",
+        "MIT Media Lab"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=rptKlKZc7cs"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2018/11/01/BannerImage_v01.jpg.1400x1400.jpg"
+      ],
+      "source_url": "https://www.media.mit.edu/projects/elowan-a-plant-robot-hybrid/overview/"
+    },
+    {
+      "id": "harpreet-sareen--cyborg-botany",
+      "creator_ids": [
+        "harpreet-sareen"
+      ],
+      "title": "Cyborg Botany: Exploring In-Planta Cybernetic Systems for Interaction",
+      "year": 2019,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Plants as sensors, displays and actuators: in Planta Digitalis a conductive wire is grown inside a plant's xylem so the plant becomes a touch and motion sensor or antenna; in Phytoactuators, tapping an app makes a Venus flytrap snap shut.",
+      "description_zh": "把植物当作传感器、显示器和执行器：Planta Digitalis 在植物木质部内“长”出导线，让植物成为触摸/运动传感器或天线；Phytoactuators 中，在手机上一点，捕蝇草就会合上。",
+      "idea_en": "Instead of building sensors, grow them into plants that already sense and move.",
+      "idea_zh": "与其另造传感器，不如把它们长进本来就会感知和运动的植物里。",
+      "method": "A conductive polymer (PEDOT) self-assembles in the plant's vascular tissue; electrical stimulation through electrodes triggers the flytrap's action potentials.",
+      "method_zh": "导电聚合物 PEDOT 在植物维管组织中自组装成导线；通过电极施加电刺激触发捕蝇草的动作电位。",
+      "keywords": [
+        "Planta Digitalis",
+        "Phytoactuators",
+        "PEDOT",
+        "Venus flytrap",
+        "in-planta electronics",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=6gVrt37s9oY"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2019/05/08/titlegid-nosub.gif.1400x1400.gif"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3290607.3313091",
+        "doi": "10.1145/3290607.3313091",
+        "arxiv": "",
+        "venue": "CHI 2019 Extended Abstracts"
+      },
+      "source_url": "https://www.media.mit.edu/projects/cyborg-botany/overview/"
+    },
+    {
+      "id": "harpreet-sareen--argus",
+      "creator_ids": [
+        "harpreet-sareen"
+      ],
+      "title": "Argus: Water Monitoring through Nanosensors inside Living Plants",
+      "year": 2019,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "A bionic plant that checks water quality: nanosensors in its leaves glow, and the glow fades when the water it drinks contains heavy metals such as lead.",
+      "description_zh": "一株检测水质的仿生植物：叶片中的纳米传感器会发光，当它吸收的水中含有铅等重金属时，光会减弱消失。",
+      "idea_en": "Use a plant's own water uptake as a continuous, self-powered water test.",
+      "idea_zh": "借植物自身的吸水过程，做一个持续的、自供能的水质检测。",
+      "method": "Fluorescent nanosensors are infused into leaves; their near-infrared signal is quenched by heavy-metal ions carried up from the roots.",
+      "method_zh": "将荧光纳米传感器注入叶片，从根部运来的重金属离子会猝灭其近红外信号。",
+      "keywords": [
+        "plant nanobionics",
+        "water quality",
+        "nanosensor",
+        "lead"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=mkfdhwnJr_U"
+      },
+      "images": [
+        "https://dam-prod.media.mit.edu/thumb/2019/06/18/Cover.jpg.1400x1400.jpg"
+      ],
+      "source_url": "https://www.media.mit.edu/projects/argus-sensors-inside-plants/overview/"
+    },
+    {
+      "id": "harpreet-sareen--algaphon",
+      "creator_ids": [
+        "harpreet-sareen",
+        "yasuaki-kakehi"
+      ],
+      "title": "Algaphon",
+      "year": 2021,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "artwork",
+      "description": "An online hybrid installation for 'talking' with algae: a visitor's voice message is stretched in time and turned into light over a remote aquarium; a hydrophone records the oxygen bubbles the algae release in response and plays them back.",
+      "description_zh": "一件线上参与的混合装置，用来与藻类“对话”：访客的语音被拉长时间轴，转成照在远方水族箱上的光；水听器录下藻类随之释放的氧气泡声，再回放给访客。",
+      "idea_en": "Translate human speech into light, and hear the algae answer in bubbles at their own pace.",
+      "idea_zh": "把人的话语翻译成光，再以藻类自己的节奏，听它们用气泡回答。",
+      "method": "Voice input modulates photosynthetically active radiation (PAR) over the tank; hydrophone recordings of photosynthetic bubbling are returned as the reply. Made with Franziska Mack.",
+      "method_zh": "语音输入调制照射水族箱的光合有效辐射（PAR）；水听器录下光合作用产生的气泡声作为回复。与 Franziska Mack 合作。",
+      "keywords": [
+        "algae",
+        "photosynthesis",
+        "hydrophone",
+        "installation",
+        "Kakehi Lab"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7dYqzQ4rBV0"
+      },
+      "images": [
+        "https://harpreetsareen.com/wp-content/uploads/2022/08/algphon-cit.jpg"
+      ],
+      "source_url": "https://harpreetsareen.com/research"
+    },
+    {
+      "id": "harpreet-sareen--plantae-agrestis",
+      "creator_ids": [
+        "harpreet-sareen",
+        "yasuaki-kakehi"
+      ],
+      "title": "Plantae Agrestis: Distributed, Self-Organizing Cybernetic Plants in a Botanical Conservatory",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "A group of plant-robot hybrids in a botanical conservatory that each follow their plant's signals and together organise themselves in space.",
+      "description_zh": "植物园温室里的一群植物-机器人混合体，各自跟随所载植物的信号行动，并在空间中自行组织。",
+      "idea_en": "Let many plants, each with its own robot body, arrange themselves as a collective.",
+      "idea_zh": "让许多各有机器人身体的植物，自己组织成一个群体。",
+      "method": "Mobile robot bases likely read plant electrophysiology and light conditions, with simple local rules producing distributed movement across the conservatory.",
+      "method_zh": "移动机器人底座很可能读取植物电生理信号和光照条件，以简单的局部规则在温室中形成分布式移动。",
+      "keywords": [
+        "cybernetic plants",
+        "self-organization",
+        "conservatory",
+        "Leonardo"
+      ],
+      "images": [
+        "https://harpreetsareen.com/wp-content/uploads/2022/08/plantae-agrestis.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1162/leon_a_02315",
+        "doi": "10.1162/leon_a_02315",
+        "arxiv": "",
+        "venue": "Leonardo 2023"
+      },
+      "source_url": "https://harpreetsareen.com/research"
+    },
+    {
+      "id": "harpreet-sareen--heliobots",
+      "creator_ids": [
+        "harpreet-sareen"
+      ],
+      "title": "Heliobots: Stem-Based Robots on Helianthus annuus for Directed Morphological Growth",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "Small robots that live on the stems of sunflowers and use onboard directional lights to steer how the plants grow; each week they climb to a new position and bend the stem toward a planned shape.",
+      "description_zh": "住在向日葵茎上的小机器人，用自带的定向灯光引导植物生长；每周移动到新位置，把茎引向预先设计的形状。",
+      "idea_en": "Shape living plants with light instead of cutting or tying them.",
+      "idea_zh": "用光而不是修剪或捆绑来塑造活植物的形态。",
+      "method": "Stem-mounted robots exploit phototropism with programmed LED illumination, repositioning themselves along the stem as the plant grows.",
+      "method_zh": "安装在茎上的机器人利用向光性，按程序点亮 LED，并随植物生长沿茎重新定位。",
+      "keywords": [
+        "phototropism",
+        "sunflower",
+        "robotic arbortecture",
+        "growth steering"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=eK9rcXLm6bU"
+      },
+      "images": [
+        "https://harpreetsareen.com/wp-content/uploads/2023/08/robotic-arbortecture.jpg"
+      ],
+      "source_url": "https://harpreetsareen.com/research"
+    },
+    {
+      "id": "harpreet-sareen--neither-here-nor-there",
+      "creator_ids": [
+        "harpreet-sareen",
+        "yasuaki-kakehi"
+      ],
+      "title": "Neither Here Nor There: Botanical (mis)Communication",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "Four large potted plants hold a meeting around a table, discussing what it means to be human in sounds generated from GPT-3 text; visitors can only follow through a decoding app on their phones.",
+      "description_zh": "四株大型盆栽植物围坐在会议桌旁，用由 GPT-3 文本生成的声音讨论“何以为人”；访客只能借助手机上的解码应用才能听懂。",
+      "idea_en": "Put humans in the position of not understanding, and let plants be the ones in conversation.",
+      "idea_zh": "让人处于听不懂的位置，让植物成为对话的一方。",
+      "method": "Prompts on humanity and planetary politics are fed to GPT-3; outputs are encoded as plant sounds and decoded through a mobile app. Made with Lauria Clarke.",
+      "method_zh": "把关于人类与行星政治的提问输入 GPT-3，将输出编码为“植物声音”，再通过手机应用解码。与 Lauria Clarke 合作。",
+      "keywords": [
+        "speculative installation",
+        "GPT-3",
+        "more-than-human",
+        "Creativity and Cognition"
+      ],
+      "images": [
+        "https://harpreetsareen.com/wp-content/uploads/2023/08/download-3.jpeg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3591196.3596828",
+        "doi": "10.1145/3591196.3596828",
+        "arxiv": "",
+        "venue": "Creativity & Cognition 2023"
+      }
+    },
+    {
+      "id": "harpreet-sareen--sonifying-photosynthesis",
+      "creator_ids": [
+        "harpreet-sareen",
+        "yasuaki-kakehi"
+      ],
+      "title": "Sonifying Aquatic Plant Photosynthesis: A Music Generation System for Everyday Engagement and Care",
+      "year": 2025,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "A home music system that listens to the tiny oxygen bubbles released by coontail, an aquatic plant, and turns them into ambient music that follows the day cycle and the plant's health.",
+      "description_zh": "一套家用音乐系统，聆听水生植物金鱼藻释放的细小氧气泡，把它们转成随昼夜和植物健康状况变化的环境音乐。",
+      "idea_en": "Make a plant's photosynthesis audible so caring for it becomes a daily listening habit.",
+      "idea_zh": "让植物的光合作用可以被听见，照料它就成了每天聆听的习惯。",
+      "method": "A hydrophone captures bubble sounds from Ceratophyllum demersum; features of the raw audio drive a generative ambient music engine. First author Yating Dai.",
+      "method_zh": "水听器采集金鱼藻（Ceratophyllum demersum）的气泡声，用原始音频的特征驱动生成式环境音乐。第一作者 Yating Dai。",
+      "keywords": [
+        "coontail",
+        "sonification",
+        "photosynthesis",
+        "plant care",
+        "DIS"
+      ],
+      "images": [
+        "https://harpreetsareen.com/wp-content/uploads/2025/08/sonifying.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3715668.3736347",
+        "doi": "10.1145/3715668.3736347",
+        "arxiv": "",
+        "venue": "DIS 2025 Companion"
+      }
+    },
+    {
+      "id": "harpreet-sareen--micro-orchestrism",
+      "creator_ids": [
+        "harpreet-sareen"
+      ],
+      "title": "Micro Orchestrism: Musical co-creation of human and sake yeast to interrogate creative hierarchy",
+      "year": 2026,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "fungi"
+      ],
+      "kind": "artwork",
+      "description": "An audiovisual installation in which fermenting sake yeast act as co-composers, grounded in interviews with four Japanese sake brewers who describe microbes as active contributors to taste.",
+      "description_zh": "一件视听装置，让发酵中的清酒酵母担任共同作曲者；作品基于对四位日本清酒酿造师的访谈，他们把微生物描述为味道的积极贡献者。",
+      "idea_en": "Treat microbes as creative collaborators rather than compliant materials.",
+      "idea_zh": "把微生物当作创作的合作者，而不是听话的材料。",
+      "method": "Fermentation activity of sake yeast is likely sensed and mapped to sound and image, set against brewers' accounts of microbial agency. First author Kaori Ogawa.",
+      "method_zh": "很可能感测清酒酵母的发酵活动并映射为声音与图像，与酿造师对微生物能动性的讲述相互对照。第一作者 Kaori Ogawa。",
+      "keywords": [
+        "sake",
+        "yeast",
+        "fermentation",
+        "sound",
+        "TEI"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3731459.3779137",
+        "doi": "10.1145/3731459.3779137",
+        "arxiv": "",
+        "venue": "TEI 2026"
+      }
+    },
+    {
+      "id": "ivan-poupyrev--botanicus-interacticus",
+      "creator_ids": [
+        "ivan-poupyrev"
+      ],
+      "title": "Botanicus Interacticus: Interactive Plants Technology",
+      "year": 2012,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "prototype",
+      "description": "Ordinary living plants become multi-touch and gesture controllers: touching, sliding along or approaching a leaf or stem is recognised and triggers sound and visuals. Shown at SIGGRAPH 2012 by Disney Research.",
+      "description_zh": "让普通的活植物成为多点触控与手势控制器：触摸、沿叶片或茎滑动、手靠近都能被识别，并触发声音和画面。由迪士尼研究院在 SIGGRAPH 2012 展出。",
+      "idea_en": "Any plant can be an expressive, touch-sensitive interface with a single wire in its soil.",
+      "idea_zh": "只要在土里插一根导线，任何植物都能成为富有表现力的触摸界面。",
+      "method": "Swept Frequency Capacitive Sensing (from Touché) with one electrode in the soil measures the plant's impedance profile, and machine learning classifies touch and proximity.",
+      "method_zh": "沿用 Touché 的扫频电容感测，在土壤中插入一个电极测量植物的阻抗谱，再用机器学习识别触摸和靠近。",
+      "keywords": [
+        "Touché",
+        "capacitive sensing",
+        "Disney Research",
+        "SIGGRAPH"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=mhasvJW9Nyc"
+      },
+      "images": [
+        "http://www.ivanpoupyrev.com/wp-content/uploads/2015/11/Botanicus-Interacticus-06-1200x720.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/2343456.2343460",
+        "doi": "10.1145/2343456.2343460",
+        "arxiv": "",
+        "venue": "SIGGRAPH 2012 Emerging Technologies"
+      },
+      "source_url": "http://www.ivanpoupyrev.com/project/botanicus-interacticus"
+    },
+    {
+      "id": "raphael-kim--mould-rush",
+      "creator_ids": [
+        "raphael-kim"
+      ],
+      "title": "A New Mould Rush",
+      "year": 2018,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "fungi",
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "An online multiplayer strategy game driven by real mould growing in Petri dishes: players place moves remotely and the colonies' growth over days decides the outcome.",
+      "description_zh": "一款由培养皿中真实霉菌驱动的在线多人策略游戏：玩家远程落子，菌落数天的生长决定胜负。",
+      "idea_en": "Slowness of living growth can make a game better, not worse.",
+      "idea_zh": "生命生长的缓慢，可以让游戏更好玩，而不是更无聊。",
+      "method": "Living mould colonies grow on agar in a physical game board; their growth is likely captured by camera and turned into game state in an online interface.",
+      "method_zh": "活霉菌菌落在实体棋盘的琼脂上生长，其生长很可能由摄像头捕捉，并转换为在线界面中的游戏状态。",
+      "keywords": [
+        "biotic game",
+        "mould",
+        "slow game",
+        "Petri dish",
+        "FDG"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3235765.3235798",
+        "doi": "10.1145/3235765.3235798",
+        "arxiv": "",
+        "venue": "FDG 2018"
+      }
+    },
+    {
+      "id": "raphael-kim--moldy-ghosts",
+      "creator_ids": [
+        "raphael-kim"
+      ],
+      "title": "Moldy Ghosts and Yeasty Invasions: Glitches in Hybrid Bio-Digital Games",
+      "year": 2019,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "fungi",
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "Reports two 'glitches' in the biotic game Mould Rush—an extra character created by stray mould and a game freeze caused by invading yeast—and proposes using such glitches for learning, gameplay and ethical debate.",
+      "description_zh": "记录了生物游戏 Mould Rush 中的两次“故障”：意外长出的霉菌生成了多余角色，入侵的酵母让游戏卡死；并提出把这类故障用于学习、玩法和伦理讨论。",
+      "idea_en": "When living parts misbehave, the glitch itself can become the design.",
+      "idea_zh": "当活的零件“不听话”时，故障本身就可以成为设计。",
+      "method": "Observation of unexpected microbial contamination in the camera-tracked game and its effect on the digital game logic.",
+      "method_zh": "观察摄像头追踪的游戏中出现的意外微生物污染，以及它对数字游戏逻辑的影响。",
+      "keywords": [
+        "glitch",
+        "biotic game",
+        "bio-digital",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=z7gvj6DucF4"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3290607.3312895",
+        "doi": "10.1145/3290607.3312895",
+        "arxiv": "",
+        "venue": "CHI 2019 Extended Abstracts"
+      }
+    },
+    {
+      "id": "raphael-kim--mouldcraft",
+      "creator_ids": [
+        "raphael-kim"
+      ],
+      "title": "Growable, Invisible, Connected Toys: Twitching Towards Ubiquitous Bacterial Computing",
+      "year": 2019,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria",
+        "fungi"
+      ],
+      "kind": "paper",
+      "description": "Introduces MouldCraft, a smartphone-controlled console for playing with living microorganisms, framing bacteria as growable, invisible, connected 'toys' that can sense, act and communicate.",
+      "description_zh": "介绍 MouldCraft：一台用手机控制、可以与活微生物玩耍的游戏机，把细菌看作可生长、不可见、可联网的“玩具”，能够感知、行动和通讯。",
+      "idea_en": "Treat bacteria as the next connected toy, and teach microbiology through play.",
+      "idea_zh": "把细菌当作下一代联网玩具，通过玩来学习微生物学。",
+      "method": "Modular, interchangeable console with incubation, lighting and camera modules controlled over a smartphone app.",
+      "method_zh": "模块化、可互换的主机，包含培养、光照和摄像模块，由手机应用控制。",
+      "keywords": [
+        "MouldCraft",
+        "bacterial computing",
+        "edutainment",
+        "toolkit"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3363384.3363387",
+        "doi": "10.1145/3363384.3363387",
+        "arxiv": "",
+        "venue": "Halfway to the Future 2019"
+      }
+    },
+    {
+      "id": "raphael-kim--slow-biotic-games",
+      "creator_ids": [
+        "raphael-kim"
+      ],
+      "title": "Working with Nature's Lag: Initial Design Lessons for Slow Biotic Games",
+      "year": 2020,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "fungi",
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "Design lessons for games whose core mechanic is slow microbial growth, with practical recommendations for building play around an organism's response time.",
+      "description_zh": "为以微生物缓慢生长为核心机制的游戏总结设计经验，并给出围绕生物反应时间构建玩法的实用建议。",
+      "idea_en": "Design for the organism's clock, not the player's impatience.",
+      "idea_zh": "按生物的时钟来设计，而不是迎合玩家的急躁。",
+      "method": "Reflection on the development and play of Mould Rush and related biotic game prototypes.",
+      "method_zh": "基于 Mould Rush 及相关生物游戏原型的开发与试玩进行反思总结。",
+      "keywords": [
+        "slow game",
+        "biotic game",
+        "temporality",
+        "FDG"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3402942.3409790",
+        "doi": "10.1145/3402942.3409790",
+        "arxiv": "",
+        "venue": "FDG 2020"
+      }
+    },
+    {
+      "id": "raphael-kim--microbe-hci",
+      "creator_ids": [
+        "raphael-kim",
+        "pat-pataranutaporn",
+        "ingmar-riedel-kruse",
+        "mirela-alistar"
+      ],
+      "title": "Microbe-HCI: Introduction and Directions for Growth",
+      "year": 2021,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "The CHI special interest group that first gathered researchers who put microorganisms into HCI, mapping people, themes and future directions of the field.",
+      "description_zh": "首次召集把微生物引入 HCI 的研究者的 CHI 特别兴趣小组，梳理了该领域的人物、主题和未来方向。",
+      "idea_en": "Microbe-HCI is a community: bring biologists, artists and interaction designers into one room.",
+      "idea_zh": "Microbe-HCI 是一个社群：把生物学家、艺术家和交互设计师召集到同一个房间。",
+      "method": "Structured SIG discussion at CHI 2021 organised by Kim, Pataranutaporn, Forman, Lee, Riedel-Kruse, Alistar, Lazaro Vasquez and Vega.",
+      "method_zh": "由 Kim、Pataranutaporn、Forman、Lee、Riedel-Kruse、Alistar、Lazaro Vasquez 和 Vega 在 CHI 2021 组织的结构化小组讨论。",
+      "keywords": [
+        "Microbe-HCI",
+        "SIG",
+        "community",
+        "CHI"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3411763.3450408",
+        "doi": "10.1145/3411763.3450408",
+        "arxiv": "",
+        "venue": "CHI 2021 Extended Abstracts"
+      }
+    },
+    {
+      "id": "raphael-kim--surfacing-livingness",
+      "creator_ids": [
+        "raphael-kim",
+        "elvin-karana"
+      ],
+      "title": "Surfacing Livingness in Microbial Displays: A Design Taxonomy for HCI",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "A taxonomy, built from a review of microbial artefacts and a Flavobacteria case study, of six ways to make microbes' 'livingness' noticeable: canvassing, marking, magnifying, translating, nudging and molecular programming.",
+      "description_zh": "基于微生物人造物综述和黄杆菌案例研究，提出让微生物的“生命感”被人察觉的六种方式：铺陈、标记、放大、转译、轻推和分子编程。",
+      "idea_en": "A microbial display must first make its livingness visible; here are six ways to do it.",
+      "idea_zh": "微生物显示器首先要让“活着”这件事被看见，这里有六种办法。",
+      "method": "Systematic review of HCI and art artefacts with microorganisms, plus hands-on studies with iridescent Flavobacteria.",
+      "method_zh": "系统回顾含微生物的 HCI 与艺术作品，并结合对虹彩黄杆菌的动手研究。",
+      "keywords": [
+        "microbial display",
+        "livingness",
+        "taxonomy",
+        "Flavobacteria",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=x_ZvWRkyFuE"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3544548.3581417",
+        "doi": "10.1145/3544548.3581417",
+        "arxiv": "",
+        "venue": "CHI 2023"
+      }
+    },
+    {
+      "id": "elvin-karana--living-light-interfaces",
+      "creator_ids": [
+        "elvin-karana"
+      ],
+      "title": "Living Light Interfaces: An Exploration of Bioluminescence Aesthetics",
+      "year": 2021,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "paper",
+      "description": "A study of how bioluminescent microalgae flash when shaken, rotated or vibrated, documenting the intensity, texture and spatial spread of their light as material for future 'living light' interfaces. First author Bahareh Barati.",
+      "description_zh": "研究发光微藻在摇晃、旋转和振动下如何闪光，记录光的强度、质感和空间分布，为未来的“活体光”界面积累素材。第一作者 Bahareh Barati。",
+      "idea_en": "Before designing with living light, learn its aesthetics: how it flashes, fades and spreads.",
+      "idea_zh": "在用活的光做设计之前，先读懂它的美学：怎样闪、怎样暗、怎样扩散。",
+      "method": "A DIY shaking device applies orbital, pulsing and vibrating stimuli to dinoflagellate cultures while cameras record flash characteristics.",
+      "method_zh": "自制摇动装置对甲藻培养液施加环绕、脉冲和振动刺激，同时用摄像机记录闪光特征。",
+      "keywords": [
+        "bioluminescence",
+        "dinoflagellates",
+        "living aesthetics",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=XUX-4XPI1is"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3461778.3462038",
+        "doi": "10.1145/3461778.3462038",
+        "arxiv": "",
+        "venue": "DIS 2021"
+      }
+    },
+    {
+      "id": "elvin-karana--flavorium",
+      "creator_ids": [
+        "elvin-karana",
+        "raphael-kim"
+      ],
+      "title": "Flavorium: An Exploration of Flavobacteria's Living Aesthetics for Living Color Interfaces",
+      "year": 2022,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "A bio-digital habitat that keeps iridescent Flavobacteria alive for a month while a capture tool records how their colour, form and texture change, giving a design space for living colour interfaces.",
+      "description_zh": "一个生物-数字栖息装置，让虹彩黄杆菌存活一个月，同时用记录工具捕捉其颜色、形态和质感的变化，为“活体色彩界面”提供设计空间。",
+      "idea_en": "Bacteria can be a colour display whose colours are alive and change over weeks.",
+      "idea_zh": "细菌可以成为一块彩色显示器，它的颜色是活的，会在几周内变化。",
+      "method": "Structural-colour Flavobacteria colonies grown on agar under controlled conditions; imaging quantifies iridescence over time. First author Eduard Georges Groutars.",
+      "method_zh": "在受控条件下于琼脂上培养具有结构色的黄杆菌菌落，用成像量化虹彩随时间的变化。第一作者 Eduard Georges Groutars。",
+      "keywords": [
+        "Flavobacteria",
+        "structural colour",
+        "iridescence",
+        "living colour",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Bgheg_J5qws"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3491102.3517713",
+        "doi": "10.1145/3491102.3517713",
+        "arxiv": "",
+        "venue": "CHI 2022"
+      }
+    },
+    {
+      "id": "elvin-karana--flavometrics",
+      "creator_ids": [
+        "elvin-karana"
+      ],
+      "title": "FlavoMetrics: Towards a Digital Tool to Understand and Tune Living Aesthetics of Flavobacteria",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "An open-source simulation tool in which designers 'inoculate' virtual Flavobacteria and tune stimuli to preview how their living colour will develop, before growing them in a lab. First author Clarice Risseeuw.",
+      "description_zh": "一个开源模拟工具：设计师可以虚拟“接种”黄杆菌、调节刺激条件，在进实验室培养之前预览其活体色彩如何发展。第一作者 Clarice Risseeuw。",
+      "idea_en": "Prototype with microbes in software first, to match their slow time with design time.",
+      "idea_zh": "先在软件里用微生物做原型，让它们缓慢的时间与设计节奏对上。",
+      "method": "Computer-graphics rendering of iridescent colonies driven by a model of growth under different stimuli; evaluated with six biodesigners.",
+      "method_zh": "基于不同刺激下的生长模型，用计算机图形渲染虹彩菌落；由六位生物设计师进行评估。",
+      "keywords": [
+        "Flavobacteria",
+        "simulation",
+        "biodesign tool",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=oMSLKfJZpuI"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3563657.3596085",
+        "doi": "10.1145/3563657.3596085",
+        "arxiv": "",
+        "venue": "DIS 2023"
+      }
+    },
+    {
+      "id": "jiwei-zhou--cyano-chromic-interface",
+      "creator_ids": [
+        "jiwei-zhou",
+        "elvin-karana",
+        "raphael-kim"
+      ],
+      "title": "Cyano-chromic Interface: Aligning Human-Microbe Temporalities Towards Noticing and Attending to Living Artefacts",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "Cyanobacteria are coupled to an electrochromic display so that their photosynthetic activity shows up as a colour change people can notice quickly, instead of the days it takes to see microbes change.",
+      "description_zh": "把蓝藻与电致变色显示耦合，让它们的光合活动快速显示为人能察觉的颜色变化，而不必等上好几天才看到微生物的变化。",
+      "idea_en": "Close the time gap between microbes and people with a display that speaks at human speed.",
+      "idea_zh": "用一块以人类速度说话的显示屏，弥合微生物与人之间的时间差。",
+      "method": "The photosynthetic activity of Synechocystis sp. PCC6803 is coupled to an electrochromic material (likely through the small current it generates), forming a monochrome living display.",
+      "method_zh": "集胞藻 PCC6803（Synechocystis sp. PCC6803）的光合活动与电致变色材料耦合（很可能借助其产生的微弱电流），形成单色活体显示。",
+      "keywords": [
+        "cyanobacteria",
+        "Synechocystis",
+        "electrochromic",
+        "temporality",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=DF7c-9PynpQ"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3563657.3596132",
+        "doi": "10.1145/3563657.3596132",
+        "arxiv": "",
+        "venue": "DIS 2023"
+      }
+    },
+    {
+      "id": "jiwei-zhou--living-with-cyanobacteria",
+      "creator_ids": [
+        "jiwei-zhou",
+        "elvin-karana"
+      ],
+      "title": "Living with Cyanobacteria: Exploring Materiality in Caring for Microbes in Everyday Life",
+      "year": 2024,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "Eight participants lived for two weeks with a pliable, colour-changing cyanobacterial artefact that purifies air, placing and caring for it around their homes.",
+      "description_zh": "八位参与者与一件柔软、会变色、能净化空气的蓝藻人造物共同生活两周，在家中各处摆放并照料它。",
+      "idea_en": "A living object's material qualities shape how people learn to care for it.",
+      "idea_zh": "活体物件的材料特性，决定了人们怎样学会照料它。",
+      "method": "Cyanobacteria embedded in an adhesive, suspendable biocomposite whose colour reflects vitality; diary photos and interviews analysed.",
+      "method_zh": "蓝藻嵌入可粘贴、可悬挂的生物复合材料中，颜色反映活力；分析参与者的照片日记与访谈。",
+      "keywords": [
+        "cyanobacteria",
+        "care",
+        "living artefact",
+        "field study",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=9BqEG7GXjFQ"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3613904.3642039",
+        "doi": "10.1145/3613904.3642039",
+        "arxiv": "",
+        "venue": "CHI 2024"
+      }
+    },
+    {
+      "id": "mirela-alistar--semina-aeternitatis",
+      "creator_ids": [
+        "mirela-alistar"
+      ],
+      "title": "Semina Aeternitatis: Using Bacteria for Tangible Interaction with Data",
+      "year": 2020,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria",
+        "molecules"
+      ],
+      "kind": "artwork",
+      "description": "The memories of an elderly woman were encoded in DNA and inserted into cellulose-producing bacteria, which grew into a sculpture holding billions of copies of her stories that visitors could see, touch, smell and taste. Made with artist Margherita Pevere.",
+      "description_zh": "一位老年女性的记忆被编码进 DNA，并植入会生产纤维素的细菌；细菌长成一件雕塑，承载着她故事的数十亿份拷贝，观众可以看、摸、闻、尝。与艺术家 Margherita Pevere 合作。",
+      "idea_en": "Store a person's stories inside living bacteria and let people touch memory.",
+      "idea_zh": "把一个人的故事存进活细菌里，让人可以触摸记忆。",
+      "method": "Stories were encoded as nucleotides, assembled into a plasmid and transformed into Komagataeibacter rhaeticus, which grows a bacterial cellulose sheet.",
+      "method_zh": "把故事编码为核苷酸序列，组装成质粒并转入 Komagataeibacter rhaeticus，由它长出细菌纤维素薄膜。",
+      "keywords": [
+        "DNA data storage",
+        "Komagataeibacter",
+        "bacterial cellulose",
+        "Margherita Pevere",
+        "CHI"
+      ],
+      "images": [
+        "https://margheritapevere.com/app/uploads/2024/02/Pevere_Semina-Aeternitatis_11.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3334480.3381817",
+        "doi": "10.1145/3334480.3381817",
+        "arxiv": "",
+        "venue": "CHI 2020 Extended Abstracts"
+      },
+      "source_url": "https://margheritapevere.com/seminaaeternitatis/"
+    },
+    {
+      "id": "netta-ofer--bioluminescent-algae",
+      "creator_ids": [
+        "netta-ofer",
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "title": "Designing Direct Interactions with Bioluminescent Algae",
+      "year": 2021,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "algae"
+      ],
+      "kind": "paper",
+      "description": "Dinoflagellates glow blue when moved; the team designs vessels that keep them healthy and three games—checkers, a ball game and hopscotch—where players' touches and steps make the algae light up.",
+      "description_zh": "甲藻在被扰动时会发出蓝光；团队设计了让它们健康生存的容器，以及三个游戏——跳棋、球类游戏和跳房子——玩家的触碰和踩踏会让藻类亮起。",
+      "idea_en": "Design the organism's environment first, then the interaction.",
+      "idea_zh": "先为生物设计环境，再设计交互。",
+      "method": "Mechanical stimulation of dinoflagellate cultures in sealed, organism-centred containers triggers bioluminescence; a four-part framework (form, reception, feedback, control) guides design.",
+      "method_zh": "在以生物为中心设计的密封容器中机械刺激甲藻，引发生物发光；用形态、接收、反馈、控制四要素框架指导设计。",
+      "keywords": [
+        "dinoflagellates",
+        "bioluminescence",
+        "organism-centered design",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=LLGP6N0eDic"
+      },
+      "images": [
+        "https://www.colorado.edu/atlas/sites/default/files/styles/wide_image_style/public/block/bioluminescent_algea_2.png?h=7e15e65c&itok=apcnQsmw"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3461778.3462090",
+        "doi": "10.1145/3461778.3462090",
+        "arxiv": "",
+        "venue": "DIS 2021"
+      },
+      "source_url": "https://www.colorado.edu/atlas/designing-bioluminescence"
+    },
+    {
+      "id": "netta-ofer--felt-experiences-kombucha",
+      "creator_ids": [
+        "netta-ofer",
+        "mirela-alistar"
+      ],
+      "title": "Felt Experiences with Kombucha Scoby: Exploring First-person Perspectives with Living Matter",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "bacteria",
+        "fungi"
+      ],
+      "kind": "paper",
+      "description": "An autoethnography of growing and crafting with kombucha SCOBY—hearing it ferment, touching it at harvest, watching layers slowly form—leading to 'sensory engagement probes' that share these experiences.",
+      "description_zh": "一项关于培养和加工康普茶 SCOBY 的自我民族志：听它发酵、收获时触摸它、看它慢慢长出新层，并由此设计出分享这些体验的“感官参与探针”。",
+      "idea_en": "Designing with a living material starts with noticing how it feels to live alongside it.",
+      "idea_zh": "与活材料一起设计，要从留意与它共处的感受开始。",
+      "method": "Material samples fabricated from SCOBY biofilm, reflective writing and designed sensory probes (sound, touch, time-lapse).",
+      "method_zh": "用 SCOBY 生物膜制作材料样本，结合反思性写作和设计出的声音、触觉、延时影像等感官探针。",
+      "keywords": [
+        "kombucha",
+        "SCOBY",
+        "first-person research",
+        "autoethnography",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=tAAHQFDw1Gc"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3544548.3581276",
+        "doi": "10.1145/3544548.3581276",
+        "arxiv": "",
+        "venue": "CHI 2023"
+      }
+    },
+    {
+      "id": "fiona-bell--scoby-breastplate",
+      "creator_ids": [
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "title": "SCOBY Breastplate: Slowly Growing a Microbial Interface",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "bacteria",
+        "fungi",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "An interactive breastplate grown from kombucha SCOBY over 13 weeks, with embedded sensors and LEDs that respond differently to being hugged, tapped or brushed.",
+      "description_zh": "一件用康普茶 SCOBY 花 13 周长成的交互胸甲，内嵌传感器和 LED，对拥抱、轻拍、拂过作出不同的光响应。",
+      "idea_en": "Prototype at the pace of the organism, not at the pace of fail-fast.",
+      "idea_zh": "按生物的节奏做原型，而不是按“快速试错”的节奏。",
+      "method": "SCOBY biofilm tuned for strength, colour and conductivity through DIY-bio, digital fabrication and craft, then embedded with touch sensors and LEDs.",
+      "method_zh": "通过 DIY 生物、数字制造和手工技艺调节 SCOBY 生物膜的强度、颜色和导电性，再嵌入触摸传感器与 LED。",
+      "keywords": [
+        "SCOBY",
+        "wearable",
+        "slow design",
+        "biodegradable",
+        "TEI"
+      ],
+      "images": [
+        "https://www.colorado.edu/atlas/sites/default/files/styles/wide_image_style/public/2025-06/microbialInterfacesBanner.png?h=2aa4d2e4&itok=hWcw52SV"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3569009.3572805",
+        "doi": "10.1145/3569009.3572805",
+        "arxiv": "",
+        "venue": "TEI 2023 Arts Track"
+      },
+      "source_url": "https://www.colorado.edu/atlas/microbial-interfaces"
+    },
+    {
+      "id": "fiona-bell--micro-me",
+      "creator_ids": [
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "title": "µMe: Exploring the Human Microbiome as an Intimate Material for Living Interfaces",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "The wearer's own skin microbes are grown until visible, their colours tuned by temperature and growth medium, and worn in wearables that reveal how exercise, hugging or typing change the microbiome.",
+      "description_zh": "把佩戴者自己的皮肤微生物培养到肉眼可见，用温度和培养基调节它们的颜色，并做成可穿戴，显示运动、拥抱、打字如何改变微生物组。",
+      "idea_en": "Your skin microbiome is already an interface; make it visible.",
+      "idea_zh": "你的皮肤微生物组本来就是一个界面，把它显现出来。",
+      "method": "Skin swabs cultured on selective and pigment-promoting media; a design space maps environmental parameters to colony colour.",
+      "method_zh": "用皮肤拭子在选择性、促色素培养基上培养；设计空间把环境参数与菌落颜色对应起来。",
+      "keywords": [
+        "skin microbiome",
+        "wearable",
+        "intimate material",
+        "DIS"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=RpQ2ZPLoFCQ"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3563657.3596133",
+        "doi": "10.1145/3563657.3596133",
+        "arxiv": "",
+        "venue": "DIS 2023"
+      },
+      "source_url": "https://www.colorado.edu/atlas/microbial-interfaces"
+    },
+    {
+      "id": "fiona-bell--bio-digital-calendar",
+      "creator_ids": [
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "title": "Bio-Digital Calendar: Attuning to Nonhuman Temporalities for Multispecies Understanding",
+      "year": 2024,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "bacteria",
+        "fungi"
+      ],
+      "kind": "paper",
+      "description": "A calendar built around a jar of kombucha SCOBY that tracks its growth with sensors and turns it into sound, so that daily looking and listening tunes its keepers to the organism's slowness.",
+      "description_zh": "一本围绕一罐康普茶 SCOBY 搭建的日历：用传感器记录它的生长并转成声音，让照料者每天看一看、听一听，渐渐适应这个生物的慢节奏。",
+      "idea_en": "A calendar can count time in another organism's growth instead of in human days.",
+      "idea_zh": "日历可以用另一种生物的生长来计时，而不是用人的日子。",
+      "method": "Non-invasive sensors around the SCOBY vessel log growth and health; data are sonified and displayed as a daily calendar.",
+      "method_zh": "在 SCOBY 容器周围布置非侵入式传感器，记录生长和健康状况，数据被声音化并以日历形式呈现。",
+      "keywords": [
+        "kombucha",
+        "SCOBY",
+        "temporality",
+        "sonification",
+        "TEI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=dxP_CiyKbVI"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3623509.3633386",
+        "doi": "10.1145/3623509.3633386",
+        "arxiv": "",
+        "venue": "TEI 2024"
+      },
+      "source_url": "https://www.colorado.edu/atlas/microbial-interfaces"
+    },
+    {
+      "id": "fiona-bell--spectrospira",
+      "creator_ids": [
+        "fiona-bell"
+      ],
+      "title": "Spectrospira: A Case of Designing and Displaying a Cyanobacteria Photobioreactor",
+      "year": 2026,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "artwork",
+      "description": "A sculptural data physicalization of environmental sound data that is also a working photobioreactor keeping cyanobacteria alive, shown for four months in an art museum. Made with artist Andrea Polli.",
+      "description_zh": "一件把环境声音数据实体化的雕塑，同时也是一个维持蓝藻存活的光生物反应器，在美术馆展出四个月。与艺术家 Andrea Polli 合作。",
+      "idea_en": "A data sculpture can also be a home for living microbes that must be cared for on site.",
+      "idea_zh": "数据雕塑也可以是一群需要现场照料的活微生物的家。",
+      "method": "3D-printed forms from sound data around a hand-blown glass vessel, with pumps and lights to culture cyanobacteria (likely Spirulina).",
+      "method_zh": "由声音数据生成 3D 打印形态，围绕手工吹制的玻璃容器搭建，配有泵和光源培养蓝藻（很可能是螺旋藻）。",
+      "keywords": [
+        "cyanobacteria",
+        "photobioreactor",
+        "data physicalization",
+        "museum",
+        "DIS"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3800645.3812785",
+        "doi": "10.1145/3800645.3812785",
+        "arxiv": "",
+        "venue": "DIS 2026"
+      }
+    },
+    {
+      "id": "nadia-campo-woytuk--vaginal-microbiome",
+      "creator_ids": [
+        "nadia-campo-woytuk",
+        "fiona-bell",
+        "mirela-alistar"
+      ],
+      "title": "A Plurality of More-than-Humanness: Feminist Speculations for Designing with the Vaginal Microbiome",
+      "year": 2024,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "speculative",
+      "description": "Four speculative provocations—self-tests, smart sensors, home microbiology labs, microbiome influencers, microbial donation and fermented foods—imagine futures where vaginal microbes are central to interactive technology.",
+      "description_zh": "四组思辨性提案——自测、智能传感器、家庭微生物实验室、微生物组网红、微生物捐赠和发酵食品——想象阴道微生物成为交互技术核心的未来。",
+      "idea_en": "Designing with body microbes raises feminist questions about who controls intimate ecosystems.",
+      "idea_zh": "与身体微生物一起设计，会引出“谁掌控私密生态系统”的女性主义问题。",
+      "method": "Speculative design fiction and critical analysis drawing on feminist HCI, Bio-HCI and more-than-human design.",
+      "method_zh": "结合女性主义 HCI、Bio-HCI 与超越人类设计的思辨设计虚构与批判分析。",
+      "keywords": [
+        "vaginal microbiome",
+        "feminist HCI",
+        "speculative design",
+        "intimate health"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3686169.3686170",
+        "doi": "10.1145/3686169.3686170",
+        "arxiv": "",
+        "venue": "Halfway to the Future 2024"
+      }
+    },
+    {
+      "id": "ingmar-riedel-kruse--biotic-games",
+      "creator_ids": [
+        "ingmar-riedel-kruse"
+      ],
+      "title": "Design, Engineering and Utility of Biotic Games",
+      "year": 2011,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "cells",
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "The paper that coined 'biotic games': eight games played with living microorganisms, such as PAC-mecium (steering paramecia with electric fields through a maze) and Biotic Pinball.",
+      "description_zh": "提出“生物游戏”概念的论文：八款以活微生物为对象的游戏，例如用电场引导草履虫穿过迷宫的 PAC-mecium，以及生物弹球。",
+      "idea_en": "Games can run on living biological processes, with real noise and real smells.",
+      "idea_zh": "游戏可以运行在活的生物过程之上，带着真实的随机性和真实的气味。",
+      "method": "Microfluidic chambers, microscopes and cameras; players steer Paramecium and Euglena with electric fields, light or chemicals.",
+      "method_zh": "使用微流控腔室、显微镜和摄像头，玩家用电场、光或化学物质引导草履虫和眼虫。",
+      "keywords": [
+        "biotic games",
+        "PAC-mecium",
+        "Paramecium",
+        "Euglena",
+        "Lab on a Chip"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=f2Ux4pQH7KY"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1039/c0lc00399a",
+        "doi": "10.1039/c0lc00399a",
+        "arxiv": "",
+        "venue": "Lab on a Chip 2011"
+      }
+    },
+    {
+      "id": "ingmar-riedel-kruse--trap-it",
+      "creator_ids": [
+        "ingmar-riedel-kruse"
+      ],
+      "title": "Trap it!: A Playful Human-Biology Interaction for a Museum Installation",
+      "year": 2015,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "paper",
+      "description": "A museum exhibit where visitors draw on a touchscreen showing live Euglena under a microscope; the drawings are projected as light onto the cells, which swim away from or toward them.",
+      "description_zh": "一件博物馆展品：观众在显示显微镜下活眼虫的触摸屏上作画，画面被投射成光照到细胞上，细胞随之游开或游近。",
+      "idea_en": "Draw with light, and living cells respond in real time.",
+      "idea_zh": "用光作画，活细胞实时回应。",
+      "method": "Phototactic Euglena gracilis in a microfluidic chamber; a projector through the microscope turns touch input into light patterns. Built with Paulo Blikstein's group at Stanford.",
+      "method_zh": "趋光的纤细眼虫（Euglena gracilis）位于微流控腔室中，投影仪经显微镜把触摸输入变成光图案。与斯坦福 Paulo Blikstein 团队合作。",
+      "keywords": [
+        "Euglena",
+        "phototaxis",
+        "human-biology interaction",
+        "museum",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=BcuBK7g6DQ0"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/2702123.2702220",
+        "doi": "10.1145/2702123.2702220",
+        "arxiv": "",
+        "venue": "CHI 2015"
+      }
+    },
+    {
+      "id": "ingmar-riedel-kruse--ludusscope",
+      "creator_ids": [
+        "ingmar-riedel-kruse"
+      ],
+      "title": "LudusScope: Accessible Interactive Smartphone Microscopy for Life-Science Education",
+      "year": 2016,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "prototype",
+      "description": "A 3D-printed DIY smartphone microscope with a joystick and LEDs that lets students play with and experiment on living Euglena, including game modes and Scratch programming.",
+      "description_zh": "一台 3D 打印的 DIY 手机显微镜，配有摇杆和 LED，学生可以与活眼虫玩游戏、做实验，还可用 Scratch 编程。",
+      "idea_en": "Turn the school microscope from something you look through into something you play with.",
+      "idea_zh": "把学校里只能“看”的显微镜，变成可以“玩”的东西。",
+      "method": "Four joystick-controlled LEDs stimulate phototactic Euglena; the phone camera tracks cells in real time.",
+      "method_zh": "摇杆控制四个 LED 刺激趋光的眼虫，手机摄像头实时追踪细胞。",
+      "keywords": [
+        "Euglena",
+        "smartphone microscope",
+        "education",
+        "open hardware",
+        "PLOS ONE"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=C8uDOhuswgA"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1371/journal.pone.0162602",
+        "doi": "10.1371/journal.pone.0162602",
+        "arxiv": "",
+        "venue": "PLOS ONE 2016"
+      }
+    },
+    {
+      "id": "ingmar-riedel-kruse--biology-cloud-lab",
+      "creator_ids": [
+        "ingmar-riedel-kruse"
+      ],
+      "title": "Interactive Biology Cloud Lab",
+      "year": 2017,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "cells"
+      ],
+      "kind": "prototype",
+      "description": "Remote microscopes let online students run real light experiments on living Euglena over the internet; in an edX course, more than 300 learners ran over 2,300 experiments.",
+      "description_zh": "远程显微镜让在线学生通过互联网对活眼虫做真实的光照实验；在一门 edX 课程中，300 多名学习者完成了 2300 多次实验。",
+      "idea_en": "Put living cells in the cloud so anyone can experiment with them.",
+      "idea_zh": "把活细胞放上云端，让任何人都能用它们做实验。",
+      "method": "Networked microscopes with LED stimulation and cell tracking, controlled through web interfaces and a JavaScript API.",
+      "method_zh": "联网显微镜配备 LED 刺激和细胞追踪，通过网页界面和 JavaScript API 控制。",
+      "keywords": [
+        "cloud lab",
+        "Euglena",
+        "MOOC",
+        "remote experimentation"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=PuHRoSVmE_w"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3051457.3053994",
+        "doi": "10.1145/3051457.3053994",
+        "arxiv": "",
+        "venue": "Learning @ Scale 2017"
+      }
+    },
+    {
+      "id": "foad-hamidi--rafigh",
+      "creator_ids": [
+        "foad-hamidi"
+      ],
+      "title": "Rafigh: A Living Media Interface for Speech Intervention",
+      "year": 2014,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "fungi"
+      ],
+      "kind": "paper",
+      "description": "A speech-therapy game for children in which the more they speak during exercises, the more water a living mushroom colony receives; the mushrooms' growth shows their progress.",
+      "description_zh": "一个面向儿童的言语治疗游戏：孩子练习时说得越多，活的蘑菇群落得到的水就越多，蘑菇的生长就是他们进步的记录。",
+      "idea_en": "Use the growth of a living thing you care for as motivation and feedback.",
+      "idea_zh": "用你在乎的生命的生长，作为动力和反馈。",
+      "method": "Speech activity measured in a tablet game controls an automated irrigation system for a mushroom colony (likely an oyster-mushroom kit).",
+      "method_zh": "平板游戏记录的说话量控制一套为蘑菇群落浇水的自动灌溉系统（很可能是平菇种植包）。",
+      "keywords": [
+        "living media interface",
+        "mushrooms",
+        "speech therapy",
+        "children",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=01a_J6VB3SM"
+      },
+      "images": [
+        "https://www.foadhamidi.info/uploads/5/9/6/3/59639565/1441316583.png"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/2556288.2557402",
+        "doi": "10.1145/2556288.2557402",
+        "arxiv": "",
+        "venue": "CHI 2014"
+      },
+      "source_url": "https://www.foadhamidi.info/rafigh.html"
+    },
+    {
+      "id": "timothy-merritt--living-media-interfaces",
+      "creator_ids": [
+        "timothy-merritt",
+        "foad-hamidi",
+        "mirela-alistar"
+      ],
+      "title": "Living Media Interfaces: A Multi-perspective Analysis of Biological Materials for Interaction",
+      "year": 2020,
+      "field": "biohybrid",
+      "sub": "living-interfaces",
+      "organisms": [
+        "bacteria",
+        "plants",
+        "fungi"
+      ],
+      "kind": "paper",
+      "description": "Defines 'living media interfaces'—user interfaces that contain actual living organisms—and analyses them from biological, ethical, artistic and HCI perspectives, with Marta de Menezes.",
+      "description_zh": "界定了“活体媒介界面”——内含真实活体生物的用户界面——并与 Marta de Menezes 一起从生物、伦理、艺术和 HCI 四个视角进行分析。",
+      "idea_en": "A living interface engages people because it is alive, and that brings duties as well as possibilities.",
+      "idea_zh": "活体界面之所以吸引人，是因为它活着；这既带来可能，也带来责任。",
+      "method": "Conceptual analysis grounded in exemplar artworks and prototypes.",
+      "method_zh": "基于代表性艺术作品和原型的概念分析。",
+      "keywords": [
+        "living media interfaces",
+        "ethics",
+        "bio art",
+        "Digital Creativity"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1080/14626268.2019.1707231",
+        "doi": "10.1080/14626268.2019.1707231",
+        "arxiv": "",
+        "venue": "Digital Creativity 2020"
+      }
+    },
+    {
+      "id": "donald-degraen--ambiplant",
+      "creator_ids": [
+        "donald-degraen"
+      ],
+      "title": "AmbiPlant: Ambient Feedback for Digital Media through Actuated Plants",
+      "year": 2020,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Living plants next to a TV are moved by actuated support structures in sync with the film, as an alternative to ambient lighting; viewers found it more exciting and novel.",
+      "description_zh": "电视旁的活植物由可驱动的支撑结构随影片同步摆动，替代环境灯光；观众觉得它更刺激、更新颖。",
+      "idea_en": "A plant moving beside the screen can extend a film into the room.",
+      "idea_zh": "屏幕旁摇曳的植物可以把电影延伸进房间。",
+      "method": "Servo-driven supports under plant stems move according to media content; compared in a user study with ambient light and no effects.",
+      "method_zh": "植物茎下由舵机驱动的支撑结构按媒体内容运动；在用户研究中与环境灯光、无效果两种条件比较。",
+      "keywords": [
+        "ambient feedback",
+        "actuated plants",
+        "media",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=7T9ZChhi0JU"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1145/3334480.3382860",
+        "doi": "10.1145/3334480.3382860",
+        "arxiv": "",
+        "venue": "CHI 2020 Extended Abstracts"
+      }
+    },
+    {
+      "id": "donald-degraen--overgrown",
+      "creator_ids": [
+        "donald-degraen"
+      ],
+      "title": "Overgrown: Supporting Plant Growth with an Endoskeleton for Ambient Notifications",
+      "year": 2019,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "A robotic 'endoskeleton' over which a living plant grows; the structure moves to give ambient notifications, relying on people's empathy for the plant.",
+      "description_zh": "一副让活植物攀附生长的机器人“内骨骼”；结构通过运动给出环境提示，借助人们对植物的共情。",
+      "idea_en": "Hide the robot inside a plant so notifications feel alive.",
+      "idea_zh": "把机器人藏进植物里，让提示变得有生命感。",
+      "method": "Actuated robotic frame designed for climbing plants to grow over; evaluated in a focus group.",
+      "method_zh": "为攀援植物设计可驱动的机器人框架，让植物覆盖其上；通过焦点小组进行评估。",
+      "keywords": [
+        "ambient notification",
+        "plant endoskeleton",
+        "robot",
+        "CHI"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3290607.3312833",
+        "doi": "10.1145/3290607.3312833",
+        "arxiv": "",
+        "venue": "CHI 2019 Extended Abstracts"
+      }
+    },
+    {
+      "id": "jodi-forlizzi--infotropism",
+      "creator_ids": [
+        "jodi-forlizzi"
+      ],
+      "title": "Infotropism: Living and Robotic Plants as Interactive Displays",
+      "year": 2004,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Living plants placed between trash and recycling bins in a cafeteria received bursts of light whenever someone recycled, so over two weeks they leaned toward the more-used bin; people talked about caring for them.",
+      "description_zh": "在食堂的垃圾桶与回收桶之间放置活植物，每当有人回收就给植物一阵光照；两周后植物倒向使用更多的那一边，人们谈到了对植物的照顾。",
+      "idea_en": "Let a plant's phototropism slowly display collective behaviour.",
+      "idea_zh": "让植物的向光性慢慢显示出集体行为。",
+      "method": "Sensors on bins trigger directional lights; living plants bend over days by phototropism, compared with a robotic plant analogue. First author David Holstius.",
+      "method_zh": "垃圾桶上的传感器触发定向灯光，活植物因向光性在数天内弯曲，并与机器人仿生植物对照。第一作者 David Holstius。",
+      "keywords": [
+        "phototropism",
+        "eco-feedback",
+        "recycling",
+        "field study",
+        "DIS"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/1013115.1013145",
+        "doi": "10.1145/1013115.1013145",
+        "arxiv": "",
+        "venue": "DIS 2004"
+      }
+    },
+    {
+      "id": "akira-wakita--plantdisplay",
+      "creator_ids": [
+        "akira-wakita"
+      ],
+      "title": "PlantDisplay: Turning Houseplants into Ambient Display",
+      "year": 2006,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Houseplants show information through how they grow: the amount of communication between people is translated into watering and light, so the plants' condition reflects it.",
+      "description_zh": "让室内盆栽通过生长状态显示信息：人与人之间的通讯量被转换为浇水和光照，植物的状态因而反映出这些信息。",
+      "idea_en": "A plant's slow organic change can be a calm, emotional display.",
+      "idea_zh": "植物缓慢的有机变化，可以成为一种安静而有情感的显示。",
+      "method": "Data mapped to automated light and water supply for potted plants (likely daily communication logs as input). First author Satoshi Kuribayashi.",
+      "method_zh": "数据被映射为对盆栽的自动光照与供水（输入很可能是日常通讯记录）。第一作者 Satoshi Kuribayashi。",
+      "keywords": [
+        "ambient display",
+        "houseplants",
+        "calm technology",
+        "ACE"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/1178823.1178871",
+        "doi": "10.1145/1178823.1178871",
+        "arxiv": "",
+        "venue": "ACE 2006"
+      }
+    },
+    {
+      "id": "vito-gentile--plantxel",
+      "creator_ids": [
+        "vito-gentile"
+      ],
+      "title": "Plantxel: Towards a Plant-based Controllable Display",
+      "year": 2018,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "A display whose pixels are living Mimosa plants: puffs of air make the leaves fold, switching each 'plantxel' between open and closed for public visualisations.",
+      "description_zh": "一块以活含羞草为像素的显示屏：气流吹动让叶片闭合，每个“植物像素”在张开与闭合之间切换，用于公共空间的信息可视化。",
+      "idea_en": "Build a screen out of plants that move when touched.",
+      "idea_zh": "用受触即动的植物拼成一块屏幕。",
+      "method": "Thigmonastic Mimosa spegazzinii stimulated by an air-jet system; contrast depends on leaf density.",
+      "method_zh": "用气流系统刺激具有感震性的含羞草（Mimosa spegazzinii），对比度取决于叶片密度。",
+      "keywords": [
+        "Mimosa",
+        "thigmonasty",
+        "pervasive display",
+        "PerDis"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3205873.3205888",
+        "doi": "10.1145/3205873.3205888",
+        "arxiv": "",
+        "venue": "PerDis 2018"
+      }
+    },
+    {
+      "id": "leonardo-angelini--emotiplant",
+      "creator_ids": [
+        "leonardo-angelini"
+      ],
+      "title": "EmotiPlant: Human-Plant Interaction for Older Adults",
+      "year": 2016,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "An augmented houseplant that expresses emotions about its light, water and temperature and responds to touch, helping older adults care for indoor plants and keeping them company.",
+      "description_zh": "一盆增强型室内植物，会就光照、水分和温度表达情绪，并对触摸作出回应，帮助老年人照料植物，也陪伴他们。",
+      "idea_en": "A plant that 'says' how it feels makes caring easier and more social.",
+      "idea_zh": "会“说出”自己感受的植物，让照料更容易、也更有交流感。",
+      "method": "Environmental sensors in the pot and (likely capacitive) touch sensing on the plant drive expressive lights and sounds.",
+      "method_zh": "花盆内的环境传感器加上植物上的触摸感测（很可能是电容式），驱动富有表情的灯光和声音。",
+      "keywords": [
+        "older adults",
+        "plant care",
+        "tangible",
+        "TEI"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/2839462.2856548",
+        "doi": "10.1145/2839462.2856548",
+        "arxiv": "",
+        "venue": "TEI 2016"
+      }
+    },
+    {
+      "id": "helene-steiner--project-florence",
+      "creator_ids": [
+        "helene-steiner"
+      ],
+      "title": "Project Florence: A Plant to Human Experience",
+      "year": 2016,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "speculative",
+      "description": "A conversation with a plant at Microsoft Research: typed messages are analysed for sentiment and turned into light on the plant, and the plant's electrical and chemical responses are combined into a reply in words.",
+      "description_zh": "在微软研究院与一株植物“对话”：输入的文字经情感分析后转为照在植物上的光，植物的电与化学反应再被合成为一句文字回复。",
+      "idea_en": "Use language as the bridge for a plant–human interface.",
+      "idea_zh": "以语言为桥梁，搭建植物与人之间的界面。",
+      "method": "Azure natural-language processing modulates a light source on the plant; sensors read plant electrophysiology and environment to generate a response.",
+      "method_zh": "Azure 自然语言处理调制照在植物上的光源；传感器读取植物电生理和环境数据，生成回应。",
+      "keywords": [
+        "Microsoft Research",
+        "natural language processing",
+        "plant electrophysiology",
+        "Studio 99"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=WmNX9c9CUJs"
+      },
+      "images": [
+        "https://www.microsoft.com/en-us/research/wp-content/uploads/2015/11/florence2-1024x683.jpg"
+      ],
+      "source_url": "https://www.microsoft.com/en-us/research/project/project-florence/"
+    },
+    {
+      "id": "eleni-stavrinidou--electronic-plants",
+      "creator_ids": [
+        "eleni-stavrinidou"
+      ],
+      "title": "Electronic Plants",
+      "year": 2015,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Roses whose vascular tissue carries conductive polymer wires grown inside them, forming working transistors and digital logic, later extended to storing energy in the plant.",
+      "description_zh": "在玫瑰的维管组织内长出导电聚合物导线，形成可工作的晶体管和数字逻辑，后续还实现了在植物体内储存电能。",
+      "idea_en": "The plant's own plumbing can host electronic circuits.",
+      "idea_zh": "植物自身的“管道”可以承载电子电路。",
+      "method": "Cut rose stems take up PEDOT-S solution, which self-assembles into conducting wires in the xylem; electrodes form organic electrochemical transistors.",
+      "method_zh": "剪下的玫瑰茎吸收 PEDOT-S 溶液，在木质部中自组装成导线；再用电极构成有机电化学晶体管。",
+      "keywords": [
+        "e-Plants",
+        "PEDOT",
+        "organic electronics",
+        "Linköping",
+        "Science Advances"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=SNm6mJxNe7g"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.1501136",
+        "doi": "10.1126/sciadv.1501136",
+        "arxiv": "",
+        "venue": "Science Advances 2015"
+      }
+    },
+    {
+      "id": "michael-strano--explosive-sensing-spinach",
+      "creator_ids": [
+        "michael-strano"
+      ],
+      "title": "Nitroaromatic Detection and Infrared Communication from Wild-type Plants Using Plant Nanobionics",
+      "year": 2016,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Spinach leaves embedded with carbon nanotubes detect explosives in groundwater drawn up by the roots and report them as an infrared signal read by a smartphone-class camera.",
+      "description_zh": "叶片中嵌入碳纳米管的菠菜能检测根部吸上来的地下水中的爆炸物，并以红外信号报告，由手机级摄像头读取。",
+      "idea_en": "A living plant can be an environmental sensor that sends its own signal.",
+      "idea_zh": "活植物可以是一个自己发出信号的环境传感器。",
+      "method": "Near-infrared fluorescent single-walled carbon nanotubes in the leaf mesophyll change emission when nitroaromatics arrive via transpiration.",
+      "method_zh": "叶肉中的近红外荧光单壁碳纳米管在硝基芳香化合物随蒸腾作用到达时改变发光。",
+      "keywords": [
+        "plant nanobionics",
+        "spinach",
+        "carbon nanotubes",
+        "explosives",
+        "Nature Materials"
+      ],
+      "images": [
+        "https://news.mit.edu/sites/default/files/images/201610/MIT-Plant-Communication.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/nmat4771",
+        "doi": "10.1038/nmat4771",
+        "arxiv": "",
+        "venue": "Nature Materials"
+      },
+      "source_url": "https://news.mit.edu/2016/nanobionic-spinach-plants-detect-explosives-1031"
+    },
+    {
+      "id": "michael-strano--light-emitting-plants",
+      "creator_ids": [
+        "michael-strano"
+      ],
+      "title": "A Nanobionic Light-Emitting Plant",
+      "year": 2017,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "Watercress and other plants infused with firefly enzymes glow dimly for hours, a first step toward plants that light rooms and streets.",
+      "description_zh": "注入萤火虫酶的豆瓣菜等植物能微微发光数小时，迈出了让植物照亮房间和街道的第一步。",
+      "idea_en": "Grow lamps instead of wiring them.",
+      "idea_zh": "让灯长出来，而不是接上电线。",
+      "method": "Nanoparticles carrying luciferase, luciferin and coenzyme A are infused into leaves under pressure and release the reactants slowly.",
+      "method_zh": "把携带荧光素酶、荧光素和辅酶 A 的纳米颗粒加压注入叶片，缓慢释放反应物。",
+      "keywords": [
+        "plant nanobionics",
+        "bioluminescence",
+        "luciferase",
+        "watercress",
+        "Nano Letters"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=hp-vqd8zJM4"
+      },
+      "images": [
+        "https://news.mit.edu/sites/default/files/images/201712/MIT-Glowing-Plants.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1021/acs.nanolett.7b04369",
+        "doi": "10.1021/acs.nanolett.7b04369",
+        "arxiv": "",
+        "venue": "Nano Letters 2017"
+      },
+      "source_url": "https://news.mit.edu/2017/engineers-create-nanobionic-plants-that-glow-1213"
+    },
+    {
+      "id": "xiaodong-chen--venus-flytrap-actuator",
+      "creator_ids": [
+        "xiaodong-chen"
+      ],
+      "title": "An On-demand Plant-based Actuator Created Using Conformable Electrodes",
+      "year": 2021,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "paper",
+      "description": "A Venus flytrap wired with soft electrodes closes when triggered from a smartphone, and serves as a robotic gripper that can pick up small objects.",
+      "description_zh": "贴上柔软电极的捕蝇草可以由手机触发闭合，并作为机器人抓手夹起小物体。",
+      "idea_en": "Plants can be both sensors and actuators in a robot, controlled through their own electrical language.",
+      "idea_zh": "植物可以在机器人中同时充当传感器和执行器，用它自己的电信号语言来控制。",
+      "method": "Soft conformable electrodes (likely hydrogel-based) record and deliver electrical signals to the flytrap lobes, triggering action potentials and closure.",
+      "method_zh": "柔软贴合的电极（很可能基于水凝胶）在捕蝇草叶片上记录并施加电信号，触发动作电位使其闭合。",
+      "keywords": [
+        "Venus flytrap",
+        "Dionaea muscipula",
+        "plant electrophysiology",
+        "gripper",
+        "Nature Electronics"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JysNL6NYGqg"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1038/s41928-020-00530-4",
+        "doi": "10.1038/s41928-020-00530-4",
+        "arxiv": "",
+        "venue": "Nature Electronics 2021"
+      }
+    },
+    {
+      "id": "fabienne-felder--moss-fm",
+      "creator_ids": [
+        "fabienne-felder",
+        "paolo-bombelli"
+      ],
+      "title": "Moss FM",
+      "year": 2013,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "plants",
+        "bacteria"
+      ],
+      "kind": "prototype",
+      "description": "A radio powered by ten pots of moss: bacteria in the soil break down compounds released by the moss during photosynthesis, and the electrons are harvested to run a commercial FM radio.",
+      "description_zh": "一台由十盆苔藓供电的收音机：土壤中的细菌分解苔藓光合作用时释放的物质，产生的电子被收集起来驱动一台普通调频收音机。",
+      "idea_en": "Living moss and microbes together can be a battery.",
+      "idea_zh": "活的苔藓和微生物合在一起，就是一块电池。",
+      "method": "Photo-microbial fuel cells with electrodes in moss pots harvest electrons from rhizosphere bacteria; later published as a bryophyte MFC study.",
+      "method_zh": "在苔藓盆中放置电极构成光合微生物燃料电池，从根际细菌收集电子；后以苔藓类微生物燃料电池研究发表。",
+      "keywords": [
+        "photo-microbial fuel cell",
+        "moss",
+        "biophotovoltaics",
+        "Cambridge"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=PA2w9t2VNTw"
+      },
+      "images": [
+        "https://materiability.com/wp-content/uploads/2014/03/Moss-FM-2-copy.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1098/rsos.160249",
+        "doi": "10.1098/rsos.160249",
+        "arxiv": "",
+        "venue": "Royal Society Open Science 2016"
+      },
+      "source_url": "https://materiability.com/portfolio/moss-fm/"
+    },
+    {
+      "id": "plant-e--plant-microbial-fuel-cell",
+      "creator_ids": [
+        "plant-e"
+      ],
+      "title": "Plant-e: Electricity from Living Plants",
+      "year": 2009,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "plants",
+        "bacteria"
+      ],
+      "kind": "product",
+      "description": "Modules that generate electricity from living plants without harming them, used to power lights, sensors and Wi-Fi hotspots from green roofs, pots and wetlands.",
+      "description_zh": "在不伤害植物的前提下，从活植物中发电的模块，为绿色屋顶、花盆和湿地中的灯光、传感器和 Wi-Fi 热点供电。",
+      "idea_en": "Every planted surface could double as a small power plant.",
+      "idea_zh": "每一块种着植物的地面，都可以兼作一座小电站。",
+      "method": "Plant microbial fuel cells: roots release organic matter that soil bacteria oxidise, and electrodes collect the electrons.",
+      "method_zh": "植物微生物燃料电池：根系释放有机物，土壤细菌将其氧化，电极收集产生的电子。",
+      "keywords": [
+        "plant microbial fuel cell",
+        "Wageningen",
+        "Marjolein Helder",
+        "green roof"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=Ku1-_MOzkTE"
+      },
+      "source_url": "https://plant-e.com/"
+    },
+    {
+      "id": "data-garden--plantwave",
+      "creator_ids": [
+        "data-garden"
+      ],
+      "title": "PlantWave (MIDI Sprout)",
+      "year": 2015,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "organisms": [
+        "plants"
+      ],
+      "kind": "product",
+      "description": "A small device clipped to a plant's leaves that turns fluctuations in its electrical conductance into MIDI and music in an app; first launched as MIDI Sprout.",
+      "description_zh": "一个夹在植物叶片上的小设备，把植物电导的起伏变成 MIDI 信号和应用里的音乐；最初以 MIDI Sprout 之名推出。",
+      "idea_en": "Give everyone a way to 'listen' to a plant's biosignals.",
+      "idea_zh": "让每个人都能“听见”植物的生物信号。",
+      "method": "Two electrode pads measure galvanic changes across a leaf; firmware maps variations to MIDI notes and synthesised sound.",
+      "method_zh": "两片电极贴片测量叶片间的电流变化，固件把变化映射为 MIDI 音符和合成声音。",
+      "keywords": [
+        "plant music",
+        "biosignals",
+        "MIDI",
+        "consumer device"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=ycRKI1AABKE"
+      },
+      "images": [
+        "https://plantwave.com/cdn/shop/files/plantwave.png?v=1678040631"
+      ],
+      "source_url": "https://plantwave.com/"
+    },
+    {
+      "id": "josiah-hester--soil-powered-computing",
+      "creator_ids": [
+        "josiah-hester"
+      ],
+      "title": "Soil-Powered Computing: The Engineer's Guide to Practical Soil Microbial Fuel Cell Design",
+      "year": 2023,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria",
+        "ecosystems"
+      ],
+      "kind": "paper",
+      "description": "A soil microbial fuel cell redesigned for real use powers underground sensors and backscatter wireless communication from electricity made by bacteria in dirt, in wet and dry soil.",
+      "description_zh": "一种为实际使用重新设计的土壤微生物燃料电池，用泥土中细菌产生的电能，为地下传感器和反向散射无线通讯供电，干湿土壤都能工作。",
+      "idea_en": "Soil microbes can replace batteries for long-lived environmental sensors.",
+      "idea_zh": "土壤微生物可以替代电池，为长期运行的环境传感器供电。",
+      "method": "Vertical cell geometry keeps the anode in moist soil and the cathode in air; microbes oxidise organic matter and the energy is harvested for low-power electronics. First author Bill Yen, with Nivedita Arora.",
+      "method_zh": "垂直结构让阳极埋在湿土中、阴极暴露在空气里；微生物氧化有机物，产生的能量被收集供低功耗电子设备使用。第一作者 Bill Yen，合作者包括 Nivedita Arora。",
+      "keywords": [
+        "soil microbial fuel cell",
+        "battery-free",
+        "sustainable computing",
+        "IMWUT"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=DSuPx2K-9Ic"
+      },
+      "images": [
+        "https://news.northwestern.edu/assets/Stories/2024/01/dirt1940__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1145/3631410",
+        "doi": "10.1145/3631410",
+        "arxiv": "",
+        "venue": "IMWUT 2023"
+      },
+      "source_url": "https://news.northwestern.edu/stories/2024/01/dirt-powered-fuel-cell-runs-forever/"
+    },
+    {
+      "id": "christopher-voigt--bacterial-photography",
+      "creator_ids": [
+        "christopher-voigt"
+      ],
+      "title": "Engineering Escherichia coli to See Light",
+      "year": 2005,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "bacteria"
+      ],
+      "kind": "paper",
+      "description": "A lawn of engineered E. coli works as photographic film: projected images are 'printed' in the bacteria as dark and light areas, including the famous 'Hello World' bacterial photograph.",
+      "description_zh": "一层工程大肠杆菌像胶片一样工作：投射上去的图像在细菌中“印”成明暗区域，包括著名的“Hello World”细菌照片。",
+      "idea_en": "Bacteria can be pixels that sense light and display an image.",
+      "idea_zh": "细菌可以是能感光、能显示图像的像素。",
+      "method": "A synthetic light-sensing receptor (cyanobacterial phytochrome fused to EnvZ) switches a pigment-producing gene off in light, so exposed cells stay pale. Led by Anselm Levskaya with the Voigt and Ellington labs.",
+      "method_zh": "合成的感光受体（蓝藻光敏色素与 EnvZ 融合）在光照下关闭色素基因，受光细胞保持浅色。由 Anselm Levskaya 与 Voigt、Ellington 实验室完成。",
+      "keywords": [
+        "bacterial photography",
+        "E. coli",
+        "optogenetics",
+        "iGEM",
+        "Nature"
+      ],
+      "images": [
+        "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature04405/MediaObjects/41586_2005_BFnature04405_Fig1_HTML.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1038/nature04405",
+        "doi": "10.1038/nature04405",
+        "arxiv": "",
+        "venue": "Nature 2005"
+      }
+    },
+    {
+      "id": "lining-yao--second-skin",
+      "creator_ids": [
+        "lining-yao",
+        "helene-steiner"
+      ],
+      "title": "Second Skin: Biological Garment Powered by and Adapting to Body in Motion",
+      "year": 2016,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "prototype",
+      "description": "A running suit whose vents are lined with living microbial cells: as the body heats and sweats, the flaps open, and genetically tractable cells can also glow. Published in Science Advances as biohybrid wearables.",
+      "description_zh": "一套跑步服，通风口内衬活的微生物细胞：身体发热出汗时衣片张开；这些可遗传改造的细胞还能发出荧光。以“生物混合可穿戴”为题发表于《科学·进展》。",
+      "idea_en": "A garment can breathe with the body through living cells.",
+      "idea_zh": "服装可以借助活细胞，与身体一起呼吸。",
+      "method": "Humidity-responsive cell–latex bilayers (natto bacteria or engineered E. coli / yeast) pattern the garment's vents; fluorescent proteins add light output.",
+      "method_zh": "由吸湿响应的细胞-乳胶双层（纳豆菌或工程大肠杆菌/酵母）构成服装通风口，荧光蛋白提供发光输出。",
+      "keywords": [
+        "biohybrid wearable",
+        "sportswear",
+        "hygromorphic",
+        "Science Advances",
+        "CHI"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=twe-RAN2Dcc"
+      },
+      "paper": {
+        "url": "https://doi.org/10.1126/sciadv.1601984",
+        "doi": "10.1126/sciadv.1601984",
+        "arxiv": "",
+        "venue": "Science Advances 2017 (CHI 2016 Video Showcase)"
+      }
+    },
+    {
+      "id": "xuanhe-zhao--living-tattoo",
+      "creator_ids": [
+        "xuanhe-zhao"
+      ],
+      "title": "3D Printing of Living Responsive Materials and Devices (Living Tattoo)",
+      "year": 2017,
+      "field": "biohybrid",
+      "sub": "body-bio",
+      "also": [
+        "bio"
+      ],
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A 'living tattoo' printed from ink containing engineered bacteria: stuck onto skin, the patterned cells light up when they sense specific chemicals.",
+      "description_zh": "一种用含工程细菌的墨水打印出的“活体纹身”：贴在皮肤上后，图案中的细胞在感测到特定化学物质时会发光。",
+      "idea_en": "Print living sensors directly into patterns you can wear.",
+      "idea_zh": "把活的传感器直接打印成可以佩戴的图案。",
+      "method": "Hydrogel ink with genetically programmed E. coli is 3D printed into multi-layer patterns; cells in each branch respond to different inducers by expressing fluorescent proteins.",
+      "method_zh": "含基因编程大肠杆菌的水凝胶墨水被 3D 打印成多层图案，不同分支的细胞对不同诱导物响应并表达荧光蛋白。",
+      "keywords": [
+        "living tattoo",
+        "3D printing",
+        "hydrogel",
+        "engineered bacteria",
+        "Advanced Materials"
+      ],
+      "images": [
+        "https://news.mit.edu/sites/default/files/images/201712/MIT-3D.jpg"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1002/adma.201704821",
+        "doi": "10.1002/adma.201704821",
+        "arxiv": "",
+        "venue": "Advanced Materials"
+      },
+      "source_url": "https://news.mit.edu/2017/engineers-3-d-print-living-tattoo-1205"
+    },
+    {
+      "id": "xuanhe-zhao--living-glove",
+      "creator_ids": [
+        "xuanhe-zhao"
+      ],
+      "title": "Stretchable Living Materials and Devices with Hydrogel–Elastomer Hybrids Hosting Programmed Cells",
+      "year": 2017,
+      "field": "biohybrid",
+      "sub": "microbial-interfaces",
+      "organisms": [
+        "bacteria",
+        "humans"
+      ],
+      "kind": "paper",
+      "description": "A stretchable glove and bandage with channels of living engineered bacteria that fluoresce when the wearer touches specific chemicals.",
+      "description_zh": "一副可拉伸的手套和一块绷带，内有装着活工程细菌的通道，佩戴者接触特定化学物质时细菌会发出荧光。",
+      "idea_en": "Wearable living sensors need a soft, stretchable home that keeps cells alive and contained.",
+      "idea_zh": "可穿戴的活体传感器需要一个柔软、可拉伸、既能养活细胞又能把它们关住的“家”。",
+      "method": "Programmed E. coli live in hydrogel chambers bonded to elastomer; chemicals diffuse in and trigger fluorescent reporters. With Timothy Lu.",
+      "method_zh": "编程大肠杆菌生活在与弹性体粘合的水凝胶腔室中，化学物质扩散进入后触发荧光报告基因。与 Timothy Lu 合作。",
+      "keywords": [
+        "living materials",
+        "hydrogel",
+        "wearable sensor",
+        "PNAS"
+      ],
+      "paper": {
+        "url": "https://doi.org/10.1073/pnas.1618307114",
+        "doi": "10.1073/pnas.1618307114",
+        "arxiv": "",
+        "venue": "PNAS 2017"
+      }
+    },
+    {
+      "id": "christa-sommerer-laurent-mignonneau--interactive-plant-growing",
+      "creator_ids": [
+        "christa-sommerer-laurent-mignonneau"
+      ],
+      "title": "Interactive Plant Growing",
+      "year": 1992,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "plants"
+      ],
+      "kind": "artwork",
+      "description": "Visitors touch or approach five real plants, and each gesture makes virtual plants grow on a large projection; the living plants act as the interface to an artificial garden.",
+      "description_zh": "观众触摸或靠近五株真实植物，每个动作都会让大屏投影上的虚拟植物生长；活植物成为通往人工花园的界面。",
+      "idea_en": "Real plants can be the controllers of a digital world.",
+      "idea_zh": "真实的植物可以成为数字世界的控制器。",
+      "method": "The electrical potential difference between plant and visitor's body is measured and mapped to the growth of 3D computer-generated plants.",
+      "method_zh": "测量植物与观众身体之间的电位差，并映射为三维计算机生成植物的生长。",
+      "keywords": [
+        "media art",
+        "artificial life",
+        "ZKM",
+        "plant sensing"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=JXX7JNFD2X8"
+      }
+    },
+    {
+      "id": "scenocosme--akousmaflore",
+      "creator_ids": [
+        "scenocosme"
+      ],
+      "title": "Akousmaflore",
+      "year": 2007,
+      "field": "biohybrid",
+      "sub": "plant-interfaces",
+      "also": [
+        "mth"
+      ],
+      "organisms": [
+        "plants",
+        "humans"
+      ],
+      "kind": "artwork",
+      "description": "A garden of hanging living plants that 'sing' when touched or approached: each plant reacts to the electrical charge of visitors' bodies with its own sounds.",
+      "description_zh": "一座由悬挂的活植物组成的花园，被触摸或靠近时会“唱歌”：每株植物根据观众身体的电荷发出各自的声音。",
+      "idea_en": "Invisible bioelectric contact between people and plants can be made audible.",
+      "idea_zh": "人与植物之间看不见的生物电接触，可以被听见。",
+      "method": "Capacitive sensing of the body's electrostatic field through each plant triggers sound samples.",
+      "method_zh": "通过每株植物对人体静电场进行电容感测，触发声音样本。",
+      "keywords": [
+        "interactive installation",
+        "bioelectricity",
+        "sound",
+        "Scenocosme"
+      ],
+      "video": {
+        "url": "https://www.youtube.com/watch?v=1hae2Fwrqn8"
+      },
+      "images": [
+        "https://www.scenocosme.com/image/panoramique_akousmaflore_2.jpg"
+      ],
+      "source_url": "https://www.scenocosme.com/akousmaflore_en.htm"
+    }
+  ],
+  "leads": [
+    {
+      "name": "Christopher Voigt lab — Living circuit boards (bacterial transistors)",
+      "why": "Printed bacterial transistors wired into living circuit boards (Nat Chem Biol, Aug 2026); bacterial computing, better fit for biohybrid-unconv/molecular.",
+      "link": "https://news.mit.edu/2026/mit-engineers-connect-bacteria-to-create-living-transistors-0817",
+      "found_via": "christopher-voigt",
+      "status": "open"
+    },
+    {
+      "name": "Netta Ofer & Mirela Alistar — Tracing as a Strategy for Orienting to Nonhuman Perspectives",
+      "why": "First-person tracing practice with slime mould (DIS 2024, 10.1145/3643834.3661621); fits mth theory-methods or fungal-computing.",
+      "link": "https://doi.org/10.1145/3643834.3661621",
+      "found_via": "netta-ofer",
+      "status": "open"
+    },
+    {
+      "name": "Living Matter Lab — Nurturing Light",
+      "why": "Escape-room installation guided only by bioluminescent dinoflagellates that players feed by solving puzzles; year and documentation not found.",
+      "link": "https://www.colorado.edu/atlas/nurturing-light",
+      "found_via": "mirela-alistar",
+      "status": "no_media"
+    },
+    {
+      "name": "Katia Vega et al. — DermalAbyss",
+      "why": "Biosensor tattoo inks that change colour with interstitial fluid (ISWC 2017, MIT Media Lab + Harvard); chemical not living, possible body-bio entry.",
+      "link": "https://www.media.mit.edu/projects/d-Abyss/overview/",
+      "found_via": "pat-pataranutaporn",
+      "status": "open"
+    },
+    {
+      "name": "Foad Hamidi — Engaging Children Using a Digital Living Media System (DIS 2017)",
+      "why": "Follow-up to Rafigh; living media in children's games.",
+      "link": "https://doi.org/10.1145/3064663.3064708",
+      "found_via": "foad-hamidi",
+      "status": "open"
+    },
+    {
+      "name": "Asgarali-Hoffman & Hamidi — Perspectives of Bioartists and Community Lab Organizers on Working with Living Organisms (CHI 2021)",
+      "why": "Interview study on practices and ethics of living-organism work; good for theory-methods.",
+      "link": "https://doi.org/10.1145/3411764.3445060",
+      "found_via": "foad-hamidi",
+      "status": "open"
+    },
+    {
+      "name": "Stacey Kuznetsov — DIYbio Things (CHI 2015) and (DIY)biology and opportunities for HCI (DIS 2012)",
+      "why": "Foundational HCI papers on DIY biology tools and practices.",
+      "link": "https://doi.org/10.1145/2702123.2702235",
+      "found_via": "raphael-kim",
+      "status": "open"
+    },
+    {
+      "name": "Pat Pataranutaporn — Wearable Lab on Body; Bio-Digital Wearables for Space Health",
+      "why": "Saliva biomarker sampling wearable and space bio-wearables; not living-organism based or no public media.",
+      "link": "https://www.media.mit.edu/projects/wearable-lab-on-body/overview/",
+      "found_via": "pat-pataranutaporn",
+      "status": "open"
+    },
+    {
+      "name": "Karana group — On the Habitabilities of Bacterial Cellulose for Living Artefacts (DIS 2025)",
+      "why": "Bacterial cellulose as habitat for fungi/algae; biomaterial focus, left to bio-materials.",
+      "link": "https://doi.org/10.1145/3715336.3735432",
+      "found_via": "elvin-karana",
+      "status": "open"
+    },
+    {
+      "name": "Peter Gloor (MIT CCI) — plants as sensors of human emotion",
+      "why": "Correlates plant bioelectric signals with human emotional states (Biomimetics 2026 and earlier).",
+      "link": "https://doi.org/10.3390/biomimetics11040236",
+      "found_via": "harpreet-sareen",
+      "status": "open"
+    },
+    {
+      "name": "Hortum — cybernetic plant lifeform",
+      "why": "Plant-robot hybrid reported by Futurism; unresearched.",
+      "link": "https://www.youtube.com/watch?v=FU2OlfGF5FA",
+      "found_via": "harpreet-sareen",
+      "status": "open"
+    },
+    {
+      "name": "Jasmine Lu & Pedro Lopes — Ecological HCI: Reflection and Future (CHI 2024 EA)",
+      "why": "Panel/overview on ecological HCI, theory-methods.",
+      "link": "https://doi.org/10.1145/3613905.3643985",
+      "found_via": "jasmine-lu",
+      "status": "open"
+    },
+    {
+      "name": "Deep Rooted Connections: Cultivating Human-Plant-Computer Interaction Across Cultures (2025)",
+      "why": "Human-plant-computer interaction work by Boulahcen & Young; unresearched.",
+      "link": "https://doi.org/10.1145/3757232.3757240",
+      "found_via": "harpreet-sareen",
+      "status": "open"
+    },
+    {
+      "name": "Gilberto Esparza — Plantas Nómadas",
+      "why": "Robot powered by microbial fuel cells from polluted water that carries plants; biohybrid robot / bio art.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    },
+    {
+      "name": "Light Bio — Firefly Petunia",
+      "why": "Consumer autoluminescent plant (2024); plants as living lights, bio/synbio product.",
+      "link": "",
+      "found_via": "michael-strano",
+      "status": "open"
+    },
+    {
+      "name": "Neri Oxman / Mediated Matter — Wanderers & Mushtari",
+      "why": "Wearables with photosynthetic and engineered microbes for the body; likely covered by bio-arch-art.",
+      "link": "",
+      "found_via": "seed",
+      "status": "open"
+    }
+  ]
+}
