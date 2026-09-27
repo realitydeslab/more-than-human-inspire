@@ -3817,6 +3817,7 @@ Engineered or natural microbes as sensors, displays and on-body companions.
 - What it is: A tabletop gaming system that projects images into a mini-aquarium of millions of Euglena, which rearrange into visible bioconvection patterns within seconds for players to play with.
 - How it works: A projector shines light patterns onto phototactic Euglena gracilis; a camera tracks the resulting cell density patterns to drive games.
 - Paper: https://doi.org/10.26503/dl.v2016i1.753 (DiGRA/FDG 2016)
+- Images: https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png
 - Project page: https://doi.org/10.26503/dl.v2016i1.753
 
 #### Biota Beats — Ani Liu (2016)

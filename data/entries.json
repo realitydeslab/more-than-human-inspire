@@ -455,11 +455,11 @@
   "collections": [
    {
     "id": "breed-2026",
-    "en": "Entangled Life and Code (Breed et al. 2026)",
-    "zh": "《Entangled Life and Code》（Breed 等，2026）",
-    "desc_en": "The 70 bio-digital systems across HCI, design and engineering analysed in Breed, Karana, Bozzon & Song's computational design taxonomy for synergistic bio-digital systems.",
-    "desc_zh": "Breed、Karana、Bozzon 与 Song 在其“协同生物-数字系统的计算设计分类法”中分析的 70 个横跨人机交互、设计与工程的生物-数字系统。",
-    "url": "https://arxiv.org/abs/2601.15804",
+    "en": "Entangled Life and Code (Breed et al., CHI 2026)",
+    "zh": "《Entangled Life and Code》（Breed 等，CHI 2026）",
+    "desc_en": "The 71 bio-digital systems across HCI, design and engineering analysed in Breed, Karana, Bozzon & Song's computational design taxonomy for synergistic bio-digital systems (Table 4). Each work's keywords carry the paper's coding. Companion explorer: biodigitalviz.github.io.",
+    "desc_zh": "Breed、Karana、Bozzon 与 Song 在“协同生物-数字系统的计算设计分类法”中分析的 71 个横跨人机交互、设计与工程的生物-数字系统（表 4）。每件作品的关键词记录了论文对它的编码。配套浏览站点：biodigitalviz.github.io。",
+    "url": "https://doi.org/10.1145/3772318.3790657",
     "work": "zoe-breed--entangled-life-and-code",
     "type": "survey"
    },
@@ -24119,7 +24119,9 @@
     "Breed 2026: digital as output (connect to humans), input (activate)",
     "Breed 2026: trigger light → output movement"
    ],
-   "images": [],
+   "images": [
+    "https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png"
+   ],
    "paper": {
     "url": "https://doi.org/10.26503/dl.v2016i1.753",
     "doi": "10.26503/dl.v2016i1.753",

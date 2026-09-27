@@ -91,12 +91,6 @@
    "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   {
-   "id": "ingmar-riedel-kruse--biographr",
-   "what": "image",
-   "url": "https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
    "id": "kyungwon-lee--microaquarium",
    "what": "image",
    "url": "https://dl.acm.org/cms/attachment/html/10.1145/3334480.3383164/assets/html/images/chi20extendedabstracts-542-fig1.jpg",

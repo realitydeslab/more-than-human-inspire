@@ -3817,6 +3817,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 397 位创作者 · 616 �
 - 作品内容: 一套桌面游戏系统：把图像投射进装有数百万眼虫的小水族箱，眼虫在几秒内重新排列成肉眼可见的生物对流图案，供玩家游戏。
 - 实现方式: 投影仪把光图案照在趋光的眼虫上；摄像头追踪由此形成的细胞密度图案来驱动游戏。
 - 论文: https://doi.org/10.26503/dl.v2016i1.753 (DiGRA/FDG 2016)
+- 图片: https://www.researchgate.net/profile/Lukas-Gerber-3/publication/312491700/figure/fig1/AS:451685236645888@1484701560905/The-BioGraphr-uses-millions-of-living-organisms-Euglena-in-its-core-These-cells-form.png
 - 项目主页: https://doi.org/10.26503/dl.v2016i1.753
 
 #### Biota Beats — Ani Liu (2016)
