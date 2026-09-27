@@ -10459,8 +10459,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Len-mankin-pic.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "doi:10.1126/science.7973651": {
   "doi": "10.1126/science.7973651",
@@ -10793,8 +10792,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Repressilator_%28representation_based_on_Elowitz_%26_Liebler_2000%29.png",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)",
-  "unverified": true
+  "content_type": "image/png"
  },
  "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif": {
   "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2F35002125/MediaObjects/41586_2000_Article_BF35002125_Fig1_HTML.gif",
@@ -11445,9 +11443,9 @@
  },
  "img:https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg": {
   "url": "https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg",
-  "ok": false,
+  "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 403: Forbidden"
+  "content_type": "image/jpeg"
  },
  "doi:10.1109/memsys.2006.1627861": {
   "doi": "10.1109/memsys.2006.1627861",
@@ -12501,5 +12499,2498 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713343/asset/ecec7548-e785-42f9-82ba-13ffbb2ca2e1/assets/images/large/chi25-260-fig10.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713343/asset/ecec7548-e785-42f9-82ba-13ffbb2ca2e1/assets/images/large/chi25-260-fig10.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713343/asset/5ecef5e0-e71f-4b1a-89ae-ce4a2c11b9c6/assets/images/large/chi25-260-fig6.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713343/asset/5ecef5e0-e71f-4b1a-89ae-ce4a2c11b9c6/assets/images/large/chi25-260-fig6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "doi:10.1145/3706598.3713343": {
+  "doi": "10.1145/3706598.3713343",
+  "ok": true,
+  "type": "doi",
+  "title": "Aesthetics in Designing with the Living: A Systematic Review of Critical Perspectives and Artefacts",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713343"
+ },
+ "doi:10.1145/3656650.3656735": {
+  "doi": "10.1145/3656650.3656735",
+  "ok": true,
+  "type": "doi",
+  "title": "HoneyPot: Connecting Through a Mediated Ambient Plant",
+  "year": 2024,
+  "venue": "Proceedings of the 2024 International Conference on Advanced Visual Interfaces",
+  "url": "https://doi.org/10.1145/3656650.3656735"
+ },
+ "video:youtube:e0X39ZRc3iM": {
+  "url": "https://www.youtube.com/watch?v=e0X39ZRc3iM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "e0X39ZRc3iM",
+  "title": "Rendering - Seegrass Restoration with Morphing Ceramics",
+  "author": "Morphing Matter Lab",
+  "thumbnail": "https://i.ytimg.com/vi/e0X39ZRc3iM/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/08d0957a0fa0b92e956c9689306a34b74cae83ac/500px/5-Figure8-1.png": {
+  "url": "https://figures.semanticscholar.org/08d0957a0fa0b92e956c9689306a34b74cae83ac/500px/5-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3527927.3531453": {
+  "doi": "10.1145/3527927.3531453",
+  "ok": true,
+  "type": "doi",
+  "title": "Blue Ceramics: Co-designing Morphing Ceramics for Seagrass Meadow Restoration",
+  "year": 2022,
+  "venue": "Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3527927.3531453"
+ },
+ "doi:10.21606/iasdr.2023.156": {
+  "doi": "10.21606/iasdr.2023.156",
+  "ok": true,
+  "type": "doi",
+  "title": "Collaborating with an Amazonian tree: a bio-product design experiment with ancestral references",
+  "year": 2023,
+  "venue": "IASDR 2023: Life-Changing Design",
+  "url": "https://doi.org/10.21606/iasdr.2023.156"
+ },
+ "doi:10.21606/drs.2024.438": {
+  "doi": "10.21606/drs.2024.438",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing with more-than-human temporalities",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.438"
+ },
+ "img:https://figures.semanticscholar.org/bd419b94ce4f7855e40ed770a5a515fd7f1fb952/500px/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/bd419b94ce4f7855e40ed770a5a515fd7f1fb952/500px/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/bd419b94ce4f7855e40ed770a5a515fd7f1fb952/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/bd419b94ce4f7855e40ed770a5a515fd7f1fb952/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/2909132.2909267": {
+  "doi": "10.1145/2909132.2909267",
+  "ok": true,
+  "type": "doi",
+  "title": "Go and Grow",
+  "year": 2016,
+  "venue": "Proceedings of the International Working Conference on Advanced Visual Interfaces",
+  "url": "https://doi.org/10.1145/2909132.2909267"
+ },
+ "doi:10.1145/2702613.2732770": {
+  "doi": "10.1145/2702613.2732770",
+  "ok": true,
+  "type": "doi",
+  "title": "Biogotchi!",
+  "year": 2015,
+  "venue": "Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2702613.2732770"
+ },
+ "img:https://figures.semanticscholar.org/c7bdc7c5d76e823db02b6f795c2882ff914fee17/500px/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/c7bdc7c5d76e823db02b6f795c2882ff914fee17/500px/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/c7bdc7c5d76e823db02b6f795c2882ff914fee17/500px/2-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/c7bdc7c5d76e823db02b6f795c2882ff914fee17/500px/2-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3365610.3368410": {
+  "doi": "10.1145/3365610.3368410",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant shadow morphing as a peripheral display",
+  "year": 2019,
+  "venue": "Proceedings of the 18th International Conference on Mobile and Ubiquitous Multimedia",
+  "url": "https://doi.org/10.1145/3365610.3368410"
+ },
+ "video:youtube:rcR-6nRcGvc": {
+  "url": "https://www.youtube.com/watch?v=rcR-6nRcGvc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "rcR-6nRcGvc",
+  "title": "Sonnengarten: Human-Plant Interaction",
+  "author": "Sonnen Garten",
+  "thumbnail": "https://i.ytimg.com/vi/rcR-6nRcGvc/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/aea854f717ba85c2e5ff85926abf4d38df889caf/500px/2-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/aea854f717ba85c2e5ff85926abf4d38df889caf/500px/2-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/aea854f717ba85c2e5ff85926abf4d38df889caf/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/aea854f717ba85c2e5ff85926abf4d38df889caf/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/2968219.2971423": {
+  "doi": "10.1145/2968219.2971423",
+  "ok": true,
+  "type": "doi",
+  "title": "Sonnengarten",
+  "year": 2016,
+  "venue": "Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct",
+  "url": "https://doi.org/10.1145/2968219.2971423"
+ },
+ "doi:10.21606/iasdr.2023.202": {
+  "doi": "10.21606/iasdr.2023.202",
+  "ok": true,
+  "type": "doi",
+  "title": "Bio-Brutalism; five case studies framing the emergence of new raw aesthetics at the intersection of material regeneration, environmental design, and craft",
+  "year": 2023,
+  "venue": "IASDR 2023: Life-Changing Design",
+  "url": "https://doi.org/10.21606/iasdr.2023.202"
+ },
+ "doi:10.21606/iasdr.2023.416": {
+  "doi": "10.21606/iasdr.2023.416",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant Playmate: exploring effects of interactive plants for mental wellness microbreaks during knowledge-based work",
+  "year": 2023,
+  "venue": "IASDR 2023: Life-Changing Design",
+  "url": "https://doi.org/10.21606/iasdr.2023.416"
+ },
+ "video:youtube:tYwyQ9cMDmk": {
+  "url": "https://www.youtube.com/watch?v=tYwyQ9cMDmk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tYwyQ9cMDmk",
+  "title": "“Turning the Invisible Visible”: Transdisciplinary Bioart Explorations in Human-DNA Interaction",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/tYwyQ9cMDmk/hqdefault.jpg"
+ },
+ "doi:10.1145/3411764.3445408": {
+  "doi": "10.1145/3411764.3445408",
+  "ok": true,
+  "type": "doi",
+  "title": "“Turning the Invisible Visible”: Transdisciplinary Bioart Explorations in Human-DNA Interaction",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445408"
+ },
+ "img:https://figures.semanticscholar.org/d2f55629205ac87cfe462c6fb4c6b085af5d38db/500px/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d2f55629205ac87cfe462c6fb4c6b085af5d38db/500px/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/d2f55629205ac87cfe462c6fb4c6b085af5d38db/500px/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/d2f55629205ac87cfe462c6fb4c6b085af5d38db/500px/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3572921.3576207": {
+  "doi": "10.1145/3572921.3576207",
+  "ok": true,
+  "type": "doi",
+  "title": "Sprayful Interaction: Perceptions of a Moss-based SLow-resolution Living Media Display",
+  "year": 2022,
+  "venue": "Proceedings of the 34th Australian Conference on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3572921.3576207"
+ },
+ "img:https://figures.semanticscholar.org/8031fa5616c048f33f95aebea2eabfd734a3e4a4/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/8031fa5616c048f33f95aebea2eabfd734a3e4a4/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/8031fa5616c048f33f95aebea2eabfd734a3e4a4/500px/5-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/8031fa5616c048f33f95aebea2eabfd734a3e4a4/500px/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3597622": {
+  "doi": "10.1145/3597622",
+  "ok": true,
+  "type": "doi",
+  "title": "Synplant",
+  "year": 2023,
+  "venue": "Proceedings of the ACM on Computer Graphics and Interactive Techniques",
+  "url": "https://doi.org/10.1145/3597622"
+ },
+ "video:youtube:ig7lsqdQ_Jk": {
+  "url": "https://www.youtube.com/watch?v=ig7lsqdQ_Jk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ig7lsqdQ_Jk",
+  "title": "Immersive Flora",
+  "author": "Yasuaki Kakehi Laboratory -The University of Tokyo-",
+  "thumbnail": "https://i.ytimg.com/vi/ig7lsqdQ_Jk/hqdefault.jpg"
+ },
+ "doi:10.1145/3613905.3648675": {
+  "doi": "10.1145/3613905.3648675",
+  "ok": true,
+  "type": "doi",
+  "title": "Immersive Flora: Re-Engaging with the Forest through the Visualisation of Plant-Environment Interactions in Virtual Reality",
+  "year": 2024,
+  "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613905.3648675"
+ },
+ "doi:10.21606/drs.2024.615": {
+  "doi": "10.21606/drs.2024.615",
+  "ok": true,
+  "type": "doi",
+  "title": "SeaWeaver: Integrating Cultural Craft and Materials Innovation for Artificial Reef Conservation Strategies",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.615"
+ },
+ "video:youtube:9HTxxT4ds64": {
+  "url": "https://www.youtube.com/watch?v=9HTxxT4ds64",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9HTxxT4ds64",
+  "title": "My Green Pet: Current-based Interactive Plant",
+  "author": "뮤트",
+  "thumbnail": "https://i.ytimg.com/vi/9HTxxT4ds64/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/1c7991f8a75771efccfa22ffc47123c78c2fa0b2/500px/3-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/1c7991f8a75771efccfa22ffc47123c78c2fa0b2/500px/3-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/1810543.1810573": {
+  "doi": "10.1145/1810543.1810573",
+  "ok": true,
+  "type": "doi",
+  "title": "My Green Pet",
+  "year": 2010,
+  "venue": "Proceedings of the 9th International Conference on Interaction Design and Children",
+  "url": "https://doi.org/10.1145/1810543.1810573"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1687765065690-X0CUVWM58GEBDJ1VN8EU/DSCF8782.00_01_27_12.Still002.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1687765065690-X0CUVWM58GEBDJ1VN8EU/DSCF8782.00_01_27_12.Still002.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3643834.3660743": {
+  "doi": "10.1145/3643834.3660743",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing for Interdependence of Bees, Garden, Designer, and the Changing Season",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3660743"
+ },
+ "video:youtube:XzNEJZp2gXw": {
+  "url": "https://www.youtube.com/watch?v=XzNEJZp2gXw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XzNEJZp2gXw",
+  "title": "Metamorphonic",
+  "author": "Yuta Ikeya",
+  "thumbnail": "https://i.ytimg.com/vi/XzNEJZp2gXw/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/dc7b0f84-ced6-466b-901d-407a21cd14de/mainphoto2_edit2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/dc7b0f84-ced6-466b-901d-407a21cd14de/mainphoto2_edit2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3563657.3596053": {
+  "doi": "10.1145/3563657.3596053",
+  "ok": true,
+  "type": "doi",
+  "title": "Metamorphonic: A Reflective Design Inquiry into Human-Silkworm Relationship",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563657.3596053"
+ },
+ "doi:10.1145/3371049.3371067": {
+  "doi": "10.1145/3371049.3371067",
+  "ok": true,
+  "type": "doi",
+  "title": "AffectiveNemo",
+  "year": 2019,
+  "venue": "Proceedings of the Sixth International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3371049.3371067"
+ },
+ "video:youtube:IXqRVKZHpfA": {
+  "url": "https://www.youtube.com/watch?v=IXqRVKZHpfA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "IXqRVKZHpfA",
+  "title": "ACI2016 Video107-Aquarium Fish Talks about Its Mind for Breeding Support",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/IXqRVKZHpfA/hqdefault.jpg"
+ },
+ "doi:10.1145/2995257.3012017": {
+  "doi": "10.1145/2995257.3012017",
+  "ok": true,
+  "type": "doi",
+  "title": "TalkingNemo",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.3012017"
+ },
+ "img:https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/2-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/2-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/c4924751933ab12927d97d0cc643a51b85b5e8d0/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3145690.3145704": {
+  "doi": "10.1145/3145690.3145704",
+  "ok": true,
+  "type": "doi",
+  "title": "Silk fabricator",
+  "year": 2017,
+  "venue": "SIGGRAPH Asia 2017 Posters",
+  "url": "https://doi.org/10.1145/3145690.3145704"
+ },
+ "doi:10.1145/3623509.3633389": {
+  "doi": "10.1145/3623509.3633389",
+  "ok": true,
+  "type": "doi",
+  "title": "Sensing Bodies: Engaging Postcolonial Histories through More-than-Human Interactions",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3633389"
+ },
+ "img:https://figures.semanticscholar.org/67b9ccf3e40eb963cc723fb31f70bb0fde8c371f/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/67b9ccf3e40eb963cc723fb31f70bb0fde8c371f/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3458709.3458978": {
+  "doi": "10.1145/3458709.3458978",
+  "ok": true,
+  "type": "doi",
+  "title": "Tranquillity at Home: Designing Plant-mediated Interaction for Fatigue Assessment",
+  "year": 2021,
+  "venue": "Augmented Humans Conference 2021",
+  "url": "https://doi.org/10.1145/3458709.3458978"
+ },
+ "img:https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3446002.3446120": {
+  "doi": "10.1145/3446002.3446120",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Needs and Ways to Use Virtual Reality to Understand Animals' Perceptions",
+  "year": 2020,
+  "venue": "Proceedings of the Seventh International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3446002.3446120"
+ },
+ "img:https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3196709.3196720": {
+  "doi": "10.1145/3196709.3196720",
+  "ok": true,
+  "type": "doi",
+  "title": "BubbleTalk",
+  "year": 2018,
+  "venue": "Proceedings of the 2018 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3196709.3196720"
+ },
+ "video:youtube:f5Gk0hRFzUY": {
+  "url": "https://www.youtube.com/watch?v=f5Gk0hRFzUY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "f5Gk0hRFzUY",
+  "title": "I/O Plant demo movie",
+  "author": "Satoshi Kuribayashi",
+  "thumbnail": "https://i.ytimg.com/vi/f5Gk0hRFzUY/hqdefault.jpg"
+ },
+ "doi:10.1145/1240866.1241037": {
+  "doi": "10.1145/1240866.1241037",
+  "ok": true,
+  "type": "doi",
+  "title": "I/O plant",
+  "year": 2007,
+  "venue": "CHI '07 Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/1240866.1241037"
+ },
+ "img:https://figures.semanticscholar.org/1a04ae7915fd05bcc31bb952a5c190b88cf169c2/500px/1-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/1a04ae7915fd05bcc31bb952a5c190b88cf169c2/500px/1-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/1690388.1690504": {
+  "doi": "10.1145/1690388.1690504",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant feeling light",
+  "year": 2009,
+  "venue": "Proceedings of the International Conference on Advances in Computer Entertainment Technology",
+  "url": "https://doi.org/10.1145/1690388.1690504"
+ },
+ "img:https://figures.semanticscholar.org/c2f8442319ac80dd71d060827331d3b6f373f9ab/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/c2f8442319ac80dd71d060827331d3b6f373f9ab/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/c2f8442319ac80dd71d060827331d3b6f373f9ab/500px/4-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/c2f8442319ac80dd71d060827331d3b6f373f9ab/500px/4-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/2466627.2466638": {
+  "doi": "10.1145/2466627.2466638",
+  "ok": true,
+  "type": "doi",
+  "title": "Community engagements with living sensing systems",
+  "year": 2013,
+  "venue": "Proceedings of the 9th ACM Conference on Creativity &amp; Cognition",
+  "url": "https://doi.org/10.1145/2466627.2466638"
+ },
+ "video:youtube:6hi09Wjc1j4": {
+  "url": "https://www.youtube.com/watch?v=6hi09Wjc1j4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6hi09Wjc1j4",
+  "title": "Guttation Sensor",
+  "author": "Morphing Matter Lab",
+  "thumbnail": "https://i.ytimg.com/vi/6hi09Wjc1j4/hqdefault.jpg"
+ },
+ "doi:10.1145/3613905.3651087": {
+  "doi": "10.1145/3613905.3651087",
+  "ok": true,
+  "type": "doi",
+  "title": "Guttation Sensor: Wearable Microfluidic Chip for Plant Condition Monitoring and Diagnosis",
+  "year": 2024,
+  "venue": "Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3613905.3651087"
+ },
+ "doi:10.1145/3560905.3568418": {
+  "doi": "10.1145/3560905.3568418",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards the Plant-Based Sensor",
+  "year": 2022,
+  "venue": "Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems",
+  "url": "https://doi.org/10.1145/3560905.3568418"
+ },
+ "video:youtube:3lKQnyqlS0c": {
+  "url": "https://www.youtube.com/watch?v=3lKQnyqlS0c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3lKQnyqlS0c",
+  "title": "Update: Growing Patterns, Living Pigments. – Julia Moser",
+  "author": "Ars Electronica",
+  "thumbnail": "https://i.ytimg.com/vi/3lKQnyqlS0c/hqdefault.jpg"
+ },
+ "doi:10.21606/ti-2023/109": {
+  "doi": "10.21606/ti-2023/109",
+  "ok": true,
+  "type": "doi",
+  "title": "Growing Patterns: Textile Design with Living Pigments",
+  "year": 2023,
+  "venue": "Textile Intersections 2023",
+  "url": "https://doi.org/10.21606/ti-2023/109"
+ },
+ "img:https://figures.semanticscholar.org/54f125b7db030e39acb47e955b7234c294f587c0/500px/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/54f125b7db030e39acb47e955b7234c294f587c0/500px/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/54f125b7db030e39acb47e955b7234c294f587c0/500px/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/54f125b7db030e39acb47e955b7234c294f587c0/500px/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3569009.3572801": {
+  "doi": "10.1145/3569009.3572801",
+  "ok": true,
+  "type": "doi",
+  "title": "FloraWear: Wearable Living Interface",
+  "year": 2023,
+  "venue": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3569009.3572801"
+ },
+ "img:https://figures.semanticscholar.org/7771463357d50963c3f222def9f37ea4369dea45/500px/6-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/7771463357d50963c3f222def9f37ea4369dea45/500px/6-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3643834.3661621": {
+  "doi": "10.1145/3643834.3661621",
+  "ok": true,
+  "type": "doi",
+  "title": "Tracing as a Strategy for Orienting to Nonhuman Perspectives",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3661621"
+ },
+ "img:https://payload.cargocollective.com/1/16/540742/13689755/Electric-Life-2.0.01_1250.jpg": {
+  "url": "https://payload.cargocollective.com/1/16/540742/13689755/Electric-Life-2.0.01_1250.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3546155.3547285": {
+  "doi": "10.1145/3546155.3547285",
+  "ok": true,
+  "type": "doi",
+  "title": "From Concern to Care: A Transformative Reflection on Designing-with the Living",
+  "year": 2022,
+  "venue": "Nordic Human-Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3546155.3547285"
+ },
+ "doi:10.1145/2347504.2347507": {
+  "doi": "10.1145/2347504.2347507",
+  "ok": true,
+  "type": "doi",
+  "title": "Bees",
+  "year": 2011,
+  "venue": "Proceedings of the 2011 Conference on Designing Pleasurable Products and Interfaces",
+  "url": "https://doi.org/10.1145/2347504.2347507"
+ },
+ "video:youtube:-mfY-Z9bMQ4": {
+  "url": "https://www.youtube.com/watch?v=-mfY-Z9bMQ4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-mfY-Z9bMQ4",
+  "title": "More Than Human Places - Dr Serena Pollastri - Lancaster University",
+  "author": "TEA Talks Lancaster School of Architecture",
+  "thumbnail": "https://i.ytimg.com/vi/-mfY-Z9bMQ4/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/6-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/6-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3469410.3469413": {
+  "doi": "10.1145/3469410.3469413",
+  "ok": true,
+  "type": "doi",
+  "title": "More-Than-Human Future Cities: From the design of nature to designing for and through nature.",
+  "year": 2021,
+  "venue": "Media Architecture Biennale 20",
+  "url": "https://doi.org/10.1145/3469410.3469413"
+ },
+ "video:youtube:K3gPgBTqGYs": {
+  "url": "https://www.youtube.com/watch?v=K3gPgBTqGYs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "K3gPgBTqGYs",
+  "title": "Synthium (DECO3200 A3)",
+  "author": "Shiraz Center",
+  "thumbnail": "https://i.ytimg.com/vi/K3gPgBTqGYs/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/887787d72be6ec4e61ed9c9872022bd9d00a1033/500px/4-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/887787d72be6ec4e61ed9c9872022bd9d00a1033/500px/4-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/887787d72be6ec4e61ed9c9872022bd9d00a1033/500px/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/887787d72be6ec4e61ed9c9872022bd9d00a1033/500px/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3544549.3583842": {
+  "doi": "10.1145/3544549.3583842",
+  "ok": true,
+  "type": "doi",
+  "title": "Synthium: Mushrooms to facilitate the transition to the Post-Anthropocene",
+  "year": 2023,
+  "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544549.3583842"
+ },
+ "img:https://figures.semanticscholar.org/09bf064c1680f1e2dccc622ef13fd007db1216c3/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/09bf064c1680f1e2dccc622ef13fd007db1216c3/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3573382.3616049": {
+  "doi": "10.1145/3573382.3616049",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant Play",
+  "year": 2023,
+  "venue": "Companion Proceedings of the Annual Symposium on Computer-Human Interaction in Play",
+  "url": "https://doi.org/10.1145/3573382.3616049"
+ },
+ "video:youtube:58Cpgsja0iM": {
+  "url": "https://www.youtube.com/watch?v=58Cpgsja0iM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "58Cpgsja0iM",
+  "title": "Plant-Human Embodied Biofeedback: A Soft Robotic Surface for Emotion Regulation in Confined ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/58Cpgsja0iM/hqdefault.jpg"
+ },
+ "doi:10.1145/3430524.3446065": {
+  "doi": "10.1145/3430524.3446065",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant-Human Embodied Biofeedback (pheB): A Soft Robotic Surface for Emotion Regulation in Confined Physical Space",
+  "year": 2021,
+  "venue": "Proceedings of the Fifteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3430524.3446065"
+ },
+ "doi:10.1145/3623509.3635320": {
+  "doi": "10.1145/3623509.3635320",
+  "ok": true,
+  "type": "doi",
+  "title": "'イ'(1926) by BioLuminescent Bacteria",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3635320"
+ },
+ "img:https://dam-prod.media.mit.edu/thumb/2022/03/12/out.gif.1400x1400.gif": {
+  "url": "https://dam-prod.media.mit.edu/thumb/2022/03/12/out.gif.1400x1400.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://dam-prod.media.mit.edu/thumb/2022/03/12/ahs2022-3-fig1.jpg.1400x1400.jpg": {
+  "url": "https://dam-prod.media.mit.edu/thumb/2022/03/12/ahs2022-3-fig1.jpg.1400x1400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3519391.3519394": {
+  "doi": "10.1145/3519391.3519394",
+  "ok": true,
+  "type": "doi",
+  "title": "Pudica: A Framework For Designing Augmented Human-Flora Interaction",
+  "year": 2022,
+  "venue": "Augmented Humans 2022",
+  "url": "https://doi.org/10.1145/3519391.3519394"
+ },
+ "img:https://figures.semanticscholar.org/20d175ba44269323d29d2dea687ac38c9754ccaa/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/20d175ba44269323d29d2dea687ac38c9754ccaa/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3546155.3547295": {
+  "doi": "10.1145/3546155.3547295",
+  "ok": true,
+  "type": "doi",
+  "title": "Minty Zoo: An Interspecies Plant-Based Communication System",
+  "year": 2022,
+  "venue": "Nordic Human-Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3546155.3547295"
+ },
+ "doi:10.1145/3593743.3593753": {
+  "doi": "10.1145/3593743.3593753",
+  "ok": true,
+  "type": "doi",
+  "title": "Beyond human sensors: More-than-human Citizen Sensing in biodiversity Urban Living Labs",
+  "year": 2023,
+  "venue": "The 11th International Conference on Communities and Technologies (C&amp;T)",
+  "url": "https://doi.org/10.1145/3593743.3593753"
+ },
+ "video:youtube:w6rjtsi2ve0": {
+  "url": "https://www.youtube.com/watch?v=w6rjtsi2ve0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "w6rjtsi2ve0",
+  "title": "Smart Bee Houses: Designing to Support Urban Pollination",
+  "author": "Animal-Computer Interaction Conference",
+  "thumbnail": "https://i.ytimg.com/vi/w6rjtsi2ve0/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/4-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/4-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3493842.3493894": {
+  "doi": "10.1145/3493842.3493894",
+  "ok": true,
+  "type": "doi",
+  "title": "Smart Bee Houses: Designing to Support Urban Pollination",
+  "year": 2021,
+  "venue": "Eight International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/3493842.3493894"
+ },
+ "img:https://figures.semanticscholar.org/17b5eeb4ebad32b8e7af0c631c18c5a31f0cc2be/500px/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/17b5eeb4ebad32b8e7af0c631c18c5a31f0cc2be/500px/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3279778.3279929": {
+  "doi": "10.1145/3279778.3279929",
+  "ok": true,
+  "type": "doi",
+  "title": "Printable Hydroponics",
+  "year": 2018,
+  "venue": "Proceedings of the 2018 ACM International Conference on Interactive Surfaces and Spaces",
+  "url": "https://doi.org/10.1145/3279778.3279929"
+ },
+ "video:youtube:sVw0oJgNg9k": {
+  "url": "https://www.youtube.com/watch?v=sVw0oJgNg9k",
+  "ok": true,
+  "platform": "youtube",
+  "id": "sVw0oJgNg9k",
+  "title": "Calmbots: Exploring Possibilities of Multiple Insects with On-hand Devices and Flexible Controls ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/sVw0oJgNg9k/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/d875e2e52af8adbce1d8cc50e032d18262cc6f89/500px/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d875e2e52af8adbce1d8cc50e032d18262cc6f89/500px/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3491101.3516387": {
+  "doi": "10.1145/3491101.3516387",
+  "ok": true,
+  "type": "doi",
+  "title": "Calmbots: Exploring Possibilities of Multiple Insects with On-hand Devices and Flexible Controls as Creation Interfaces",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+  "url": "https://doi.org/10.1145/3491101.3516387"
+ },
+ "video:youtube:eDGaZDvnuto": {
+  "url": "https://www.youtube.com/watch?v=eDGaZDvnuto",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eDGaZDvnuto",
+  "title": "Turner Boxes and Bees: From Ambivalence to Diffraction",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/eDGaZDvnuto/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3563657.3596081": {
+  "doi": "10.1145/3563657.3596081",
+  "ok": true,
+  "type": "doi",
+  "title": "Turner Boxes and Bees: From Ambivalence to Diffraction",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563657.3596081"
+ },
+ "video:youtube:6iGI8DAr8PM": {
+  "url": "https://www.youtube.com/watch?v=6iGI8DAr8PM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "6iGI8DAr8PM",
+  "title": "Ingmar Reidel-Kruse and Biotic Games",
+  "author": "Stanford University School of Engineering",
+  "thumbnail": "https://i.ytimg.com/vi/6iGI8DAr8PM/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/b62d2e08a0664bce0349528876313eaa95da7383/500px/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/b62d2e08a0664bce0349528876313eaa95da7383/500px/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3170427.3186510": {
+  "doi": "10.1145/3170427.3186510",
+  "ok": true,
+  "type": "doi",
+  "title": "Prototyping Biotic Games and Interactive Experiments with JavaScript",
+  "year": 2018,
+  "venue": "Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3170427.3186510"
+ },
+ "img:https://figures.semanticscholar.org/d51d0cbc9da37a995e2970f38ad78f24c3cf2905/500px/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d51d0cbc9da37a995e2970f38ad78f24c3cf2905/500px/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3547522.3547691": {
+  "doi": "10.1145/3547522.3547691",
+  "ok": true,
+  "type": "doi",
+  "title": "Slowing Plants, Slowing Home",
+  "year": 2022,
+  "venue": "Adjunct Proceedings of the 2022 Nordic Human-Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3547522.3547691"
+ },
+ "doi:10.1145/3623509.3635317": {
+  "doi": "10.1145/3623509.3635317",
+  "ok": true,
+  "type": "doi",
+  "title": "Whispers from Silken Margins: Crafting Subtle Narratives in Silk-Defined Spaces",
+  "year": 2024,
+  "venue": "Proceedings of the Eighteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3623509.3635317"
+ },
+ "video:youtube:VNmdOLdt6ac": {
+  "url": "https://www.youtube.com/watch?v=VNmdOLdt6ac",
+  "ok": true,
+  "platform": "youtube",
+  "id": "VNmdOLdt6ac",
+  "title": "MossWater: A Living Media Interface for Encouraging Office Workers’ Daily Water Intake",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/VNmdOLdt6ac/hqdefault.jpg"
+ },
+ "img:https://figures.semanticscholar.org/39be850142e4cf5b51de5d705ea6ce01adf520c0/500px/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/39be850142e4cf5b51de5d705ea6ce01adf520c0/500px/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/39be850142e4cf5b51de5d705ea6ce01adf520c0/500px/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/39be850142e4cf5b51de5d705ea6ce01adf520c0/500px/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3411763.3451648": {
+  "doi": "10.1145/3411763.3451648",
+  "ok": true,
+  "type": "doi",
+  "title": "MossWater: A Living Media Interface for Encouraging Office Workers’ Daily Water Intake",
+  "year": 2021,
+  "venue": "Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411763.3451648"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3743674": {
+  "doi": "10.1145/3743674",
+  "ok": true,
+  "type": "doi",
+  "title": "Mediating Human–Nature Relations through Technology: A Scoping Review of Post-Anthropocentric Artifacts and Their Design Strategies",
+  "year": 2025,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3743674"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/2948076.2948115": {
+  "doi": "10.1145/2948076.2948115",
+  "ok": true,
+  "type": "doi",
+  "title": "Flora luma",
+  "year": 2016,
+  "venue": "Proceedings of the 14th Participatory Design Conference: Short Papers, Interactive Exhibitions, Workshops - Volume 2",
+  "url": "https://doi.org/10.1145/2948076.2948115"
+ },
+ "img:https://freight.cargo.site/t/original/i/96d55b21e4065708d8b77dfbd65244189546091f628de1074d9492c692d04b94/sydney_o.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/96d55b21e4065708d8b77dfbd65244189546091f628de1074d9492c692d04b94/sydney_o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/59526d0d7fea6a3f7c53c75b912c5c9bc287b3d0a98456607bfbe919a6860352/clocks_o.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/59526d0d7fea6a3f7c53c75b912c5c9bc287b3d0a98456607bfbe919a6860352/clocks_o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg": {
+  "url": "https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3173225.3173316": {
+  "doi": "10.1145/3173225.3173316",
+  "ok": true,
+  "type": "doi",
+  "title": "Rewilding Wearables",
+  "year": 2018,
+  "venue": "Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3173225.3173316"
+ },
+ "video:youtube:8Qk3BeolyiA": {
+  "url": "https://www.youtube.com/watch?v=8Qk3BeolyiA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "8Qk3BeolyiA",
+  "title": "reEarth | 10 Hortum Machina, B",
+  "author": "Danilo Sampaio",
+  "thumbnail": "https://i.ytimg.com/vi/8Qk3BeolyiA/hqdefault.jpg"
+ },
+ "img:https://ars.electronica.art/starts-prize/files/2016/06/hortummachina.jpg": {
+  "url": "https://ars.electronica.art/starts-prize/files/2016/06/hortummachina.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "doi:10.1145/3469410.3469419": {
+  "doi": "10.1145/3469410.3469419",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant(e)tecture",
+  "year": 2021,
+  "venue": "Media Architecture Biennale 20",
+  "url": "https://doi.org/10.1145/3469410.3469419"
+ },
+ "video:youtube:Uabjy9_hhH4": {
+  "url": "https://www.youtube.com/watch?v=Uabjy9_hhH4",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Uabjy9_hhH4",
+  "title": "Plant Radio: Tuning in to Plants by Combining Posthumanism and Design",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/Uabjy9_hhH4/hqdefault.jpg"
+ },
+ "doi:10.1145/3532106.3533517": {
+  "doi": "10.1145/3532106.3533517",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant Radio: Tuning in to plants by combining posthumanism and design",
+  "year": 2022,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3532106.3533517"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3537797.3537864": {
+  "doi": "10.1145/3537797.3537864",
+  "ok": true,
+  "type": "doi",
+  "title": "Open Forest",
+  "year": 2022,
+  "venue": "Proceedings of the Participatory Design Conference 2022 - Volume 2",
+  "url": "https://doi.org/10.1145/3537797.3537864"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3546155.3546651": {
+  "doi": "10.1145/3546155.3546651",
+  "ok": true,
+  "type": "doi",
+  "title": "Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction",
+  "year": 2022,
+  "venue": "Nordic Human-Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3546155.3546651"
+ },
+ "doi:10.1145/3569009.3572802": {
+  "doi": "10.1145/3569009.3572802",
+  "ok": true,
+  "type": "doi",
+  "title": "A Practice-Based Approach to Post-Human Computer Interaction: Design Notes from Nature Scenes",
+  "year": 2023,
+  "venue": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3569009.3572802"
+ },
+ "doi:10.1145/2851581.2891093": {
+  "doi": "10.1145/2851581.2891093",
+  "ok": true,
+  "type": "doi",
+  "title": "Avian Attractor",
+  "year": 2016,
+  "venue": "Proceedings of the 2016 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/2851581.2891093"
+ },
+ "video:youtube:LWzPm_ponkI": {
+  "url": "https://www.youtube.com/watch?v=LWzPm_ponkI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "LWzPm_ponkI",
+  "title": "WATERLICHT | Dream Landscape  in Museumplein Amsterdam by Studio Roosegaarde [OFFICIAL MOVIE]",
+  "author": "studioroosegaarde",
+  "thumbnail": "https://i.ytimg.com/vi/LWzPm_ponkI/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp": {
+  "url": "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.prod.website-files.com/6683beecb76948bee8843558/66c2e02fe9d04908dc6d1f24_8MAIN_Waterlicht_Roosegaarde_Loevestein_%40Daniel_result_new.webp": {
+  "url": "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66c2e02fe9d04908dc6d1f24_8MAIN_Waterlicht_Roosegaarde_Loevestein_%40Daniel_result_new.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:kZsNPzdNv8U": {
+  "url": "https://www.youtube.com/watch?v=kZsNPzdNv8U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kZsNPzdNv8U",
+  "title": "GLOWING NATURE | Microorganisms Glow Upon Your Touch by Studio Roosegaarde [OFFICIAL VIDEO]",
+  "author": "studioroosegaarde",
+  "thumbnail": "https://i.ytimg.com/vi/kZsNPzdNv8U/hqdefault.jpg"
+ },
+ "img:https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff64ca6e352a6547779_GLOWING%20NATURE%20ROOSEGAARDE%2001_new.webp": {
+  "url": "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff64ca6e352a6547779_GLOWING%20NATURE%20ROOSEGAARDE%2001_new.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff568b0455145891497_GLOWING%20NATURE%20ROOSEGAARDE%2005_new.webp": {
+  "url": "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff568b0455145891497_GLOWING%20NATURE%20ROOSEGAARDE%2005_new.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg/1920px-Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg": {
+  "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg/1920px-Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://freight.cargo.site/w/1030/i/0628c89dccbcfd87fce26815139587bdd0ca155613e2ac0280f92bda9d46448f/mothering-bacteria-1.jpg": {
+  "url": "https://freight.cargo.site/w/1030/i/0628c89dccbcfd87fce26815139587bdd0ca155613e2ac0280f92bda9d46448f/mothering-bacteria-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3325480.3329173": {
+  "doi": "10.1145/3325480.3329173",
+  "ok": true,
+  "type": "doi",
+  "title": "Mothering Bacteria",
+  "year": 2019,
+  "venue": "Proceedings of the 2019 on Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3325480.3329173"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3483529.3483726": {
+  "doi": "10.1145/3483529.3483726",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing with the Immune System",
+  "year": 2021,
+  "venue": "10th International Conference on Digital and Interactive Arts",
+  "url": "https://doi.org/10.1145/3483529.3483726"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:r9TaL5jPR50": {
+  "url": "https://www.youtube.com/watch?v=r9TaL5jPR50",
+  "ok": true,
+  "platform": "youtube",
+  "id": "r9TaL5jPR50",
+  "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/r9TaL5jPR50/hqdefault.jpg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3544548.3581083": {
+  "doi": "10.1145/3544548.3581083",
+  "ok": true,
+  "type": "doi",
+  "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581083"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.21606/nordes.2015.001": {
+  "doi": "10.21606/nordes.2015.001",
+  "ok": true,
+  "type": "doi",
+  "title": "Stakes at the edge of participation: Where words and things are the entirely serious title of a problem",
+  "year": 2015,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2015.001"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.21606/drs.2022.770": {
+  "doi": "10.21606/drs.2022.770",
+  "ok": true,
+  "type": "doi",
+  "title": "Birds, bees and bats: Exploring possibilities for cohabitation in the more-than-human city",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.770"
+ },
+ "img:https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg": {
+  "url": "https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.21606/nordes.2021.13": {
+  "doi": "10.21606/nordes.2021.13",
+  "ok": true,
+  "type": "doi",
+  "title": "Design for noticing with biodiversity logbooks",
+  "year": 2021,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2021.13"
+ },
+ "video:youtube:COWdBW2WhgY": {
+  "url": "https://www.youtube.com/watch?v=COWdBW2WhgY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "COWdBW2WhgY",
+  "title": "Conversation Starters: How Can We Misunderstand AI Better?",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/COWdBW2WhgY/hqdefault.jpg"
+ },
+ "img:https://payload.cargocollective.com/1/4/137851/14407603/prt_1666790732_2x.jpg": {
+  "url": "https://payload.cargocollective.com/1/4/137851/14407603/prt_1666790732_2x.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1145/3544549.3583914": {
+  "doi": "10.1145/3544549.3583914",
+  "ok": true,
+  "type": "doi",
+  "title": "Conversation Starters: How Can We Misunderstand AI Better?",
+  "year": 2023,
+  "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544549.3583914"
+ },
+ "video:youtube:WK4zhtUvNIQ": {
+  "url": "https://www.youtube.com/watch?v=WK4zhtUvNIQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "WK4zhtUvNIQ",
+  "title": "The Eco-Technical Interface: Attuning to the Instrumental",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/WK4zhtUvNIQ/hqdefault.jpg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/33450d8c9c40b1e702db1a65d9aa224dccf5284653e706ca2acdc3bebe2bb2cc/Salvaging-Birds-Still-3_Livio.png": {
+  "url": "https://freight.cargo.site/w/1200/i/33450d8c9c40b1e702db1a65d9aa224dccf5284653e706ca2acdc3bebe2bb2cc/Salvaging-Birds-Still-3_Livio.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://freight.cargo.site/t/original/i/fcdd8840acb35bccf15624e48cc17c524543cec2ccd6d47c17a1b54662ff4978/Salvaging-Birds_Still-6.png": {
+  "url": "https://freight.cargo.site/t/original/i/fcdd8840acb35bccf15624e48cc17c524543cec2ccd6d47c17a1b54662ff4978/Salvaging-Birds_Still-6.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3491102.3501851": {
+  "doi": "10.1145/3491102.3501851",
+  "ok": true,
+  "type": "doi",
+  "title": "The Eco-Technical Interface: Attuning to the Instrumental",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3491102.3501851"
+ },
+ "img:https://freight.cargo.site/w/1200/i/465d80e9997af6f883ae4f03c532cd992080d61cc4a494135deaa8fa33906f73/Thermopower_snow.png": {
+  "url": "https://freight.cargo.site/w/1200/i/465d80e9997af6f883ae4f03c532cd992080d61cc4a494135deaa8fa33906f73/Thermopower_snow.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://freight.cargo.site/t/original/i/b40f23f34184b94a6a810a2405a8d2f01ab7a49423c1be4f0b16457892eab338/Pika-cover-photo_darker-bottom.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/b40f23f34184b94a6a810a2405a8d2f01ab7a49423c1be4f0b16457892eab338/Pika-cover-photo_darker-bottom.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:q4Qks4wUiF0": {
+  "url": "https://www.youtube.com/watch?v=q4Qks4wUiF0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "q4Qks4wUiF0",
+  "title": "EP5: Digital Gardening with a Forest Atlas...",
+  "author": "PDC ",
+  "thumbnail": "https://i.ytimg.com/vi/q4Qks4wUiF0/hqdefault.jpg"
+ },
+ "img:https://fra1.digitaloceanspaces.com/smartforests/images/SmartForests_Atlas_Home.original.png": {
+  "url": "https://fra1.digitaloceanspaces.com/smartforests/images/SmartForests_Atlas_Home.original.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3537797.3537804": {
+  "doi": "10.1145/3537797.3537804",
+  "ok": true,
+  "type": "doi",
+  "title": "Digital Gardening with a Forest Atlas",
+  "year": 2022,
+  "venue": "Proceedings of the Participatory Design Conference 2022 - Volume 2",
+  "url": "https://doi.org/10.1145/3537797.3537804"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3569009.3572743": {
+  "doi": "10.1145/3569009.3572743",
+  "ok": true,
+  "type": "doi",
+  "title": "Embodying Wind through Flare: How Natural Phenomena Can Contribute to Enriching the Design of Interactive Systems",
+  "year": 2023,
+  "venue": "Proceedings of the Seventeenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3569009.3572743"
+ },
+ "doi:10.1145/3357236.3395574": {
+  "doi": "10.1145/3357236.3395574",
+  "ok": true,
+  "type": "doi",
+  "title": "The Inclusion Zone: Grounded Speculations in Chernobyl",
+  "year": 2020,
+  "venue": "Proceedings of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3357236.3395574"
+ },
+ "video:youtube:ZZh-I8tV3YE": {
+  "url": "https://www.youtube.com/watch?v=ZZh-I8tV3YE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ZZh-I8tV3YE",
+  "title": "Contact/Sense 2019",
+  "author": "Rewa Wright",
+  "thumbnail": "https://i.ytimg.com/vi/ZZh-I8tV3YE/hqdefault.jpg"
+ },
+ "doi:10.1145/3610591.3616428": {
+  "doi": "10.1145/3610591.3616428",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Eco-Digital: Performative Sensing with Plants and Data",
+  "year": 2023,
+  "venue": "SIGGRAPH Asia 2023 Art Papers",
+  "url": "https://doi.org/10.1145/3610591.3616428"
+ },
+ "video:youtube:Q5D8ABeS060": {
+  "url": "https://www.youtube.com/watch?v=Q5D8ABeS060",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Q5D8ABeS060",
+  "title": "'Biorhythms' by UnCalculated Studio ( Rewa Wright & SImon Howden).",
+  "author": "Rewa Wright",
+  "thumbnail": "https://i.ytimg.com/vi/Q5D8ABeS060/hqdefault.jpg"
+ },
+ "img:https://rewawright.com/wp-content/uploads/2022/09/screen-shot-2022-09-20-at-1.54.39-am.png": {
+  "url": "https://rewawright.com/wp-content/uploads/2022/09/screen-shot-2022-09-20-at-1.54.39-am.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.21606/iasdr.2023.100": {
+  "doi": "10.21606/iasdr.2023.100",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring and facilitating Daoism's contributions to design prototype, a case study from a \"More-than-Human\" social innovation project: Hokkhi",
+  "year": 2023,
+  "venue": "IASDR 2023: Life-Changing Design",
+  "url": "https://doi.org/10.21606/iasdr.2023.100"
+ },
+ "video:vimeo:60769517": {
+  "url": "https://vimeo.com/60769517",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "60769517",
+  "embeddable": true,
+  "title": "Wilder Quarterly  //  Mileece at MoMA",
+  "thumbnail": "https://i.vimeocdn.com/video/424567710-a7be793037b7bae31b2fe8b0ab936db466f146199afe73625b72b3debf5cdded-d?f=webp&region=us"
+ },
+ "img:https://static.wixstatic.com/media/9f7598_c0d8f01bd4e2474fad6783d7d43921eef000.jpg": {
+  "url": "https://static.wixstatic.com/media/9f7598_c0d8f01bd4e2474fad6783d7d43921eef000.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:yD2J4rlIouA": {
+  "url": "https://www.youtube.com/watch?v=yD2J4rlIouA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "yD2J4rlIouA",
+  "title": "Allochronic Cycles by Cesar & Lois",
+  "author": "Cesar & Lois collective",
+  "thumbnail": "https://i.ytimg.com/vi/yD2J4rlIouA/hqdefault.jpg"
+ },
+ "img:http://cesarandlois.org/wp-content/uploads/ac-banner.jpg": {
+  "url": "http://cesarandlois.org/wp-content/uploads/ac-banner.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://cesarandlois.org/wp-content/uploads/AI-1024x755.jpg": {
+  "url": "http://cesarandlois.org/wp-content/uploads/AI-1024x755.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:W8eVFRb9h4U": {
+  "url": "https://www.youtube.com/watch?v=W8eVFRb9h4U",
+  "ok": true,
+  "platform": "youtube",
+  "id": "W8eVFRb9h4U",
+  "title": "Unequal Hours Video Documentation: installation, time lapse, details.",
+  "author": "Anna Madeleine Raupach",
+  "thumbnail": "https://i.ytimg.com/vi/W8eVFRb9h4U/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/7730d3e7-ba4e-4c4c-a90a-04426c4c7188/CMAG+Gallery+4_Raupach_02.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/7730d3e7-ba4e-4c4c-a90a-04426c4c7188/CMAG+Gallery+4_Raupach_02.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/faa5bff0-f5c5-42a9-b17e-2d3cb1285919/AnnaMadeleineRaupach_UnequalHours_2021_03.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/faa5bff0-f5c5-42a9-b17e-2d3cb1285919/AnnaMadeleineRaupach_UnequalHours_2021_03.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:pMt6eB7L-HI": {
+  "url": "https://www.youtube.com/watch?v=pMt6eB7L-HI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "pMt6eB7L-HI",
+  "title": "Nadia Campo Woytuk - 'Biomenstrual' : NAVET Book Release Event 2024",
+  "author": "NAVET | KTH",
+  "thumbnail": "https://i.ytimg.com/vi/pMt6eB7L-HI/hqdefault.jpg"
+ },
+ "img:https://cortex.persona.co/i/cf88ecc115a21db16266fb05503f3d3cb4b59cb740044cb05db5b9501d9043dd/gallery_image1-small.png": {
+  "url": "https://cortex.persona.co/i/cf88ecc115a21db16266fb05503f3d3cb4b59cb740044cb05db5b9501d9043dd/gallery_image1-small.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:PaRdHTqZyqA": {
+  "url": "https://www.youtube.com/watch?v=PaRdHTqZyqA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PaRdHTqZyqA",
+  "title": "Labor: The Scent of Human Exertion | Paul Vanouse",
+  "author": "Falling Walls Foundation",
+  "thumbnail": "https://i.ytimg.com/vi/PaRdHTqZyqA/hqdefault.jpg"
+ },
+ "img:https://www.paulvanouse.com/labor-install-BN-1.jpg": {
+  "url": "https://www.paulvanouse.com/labor-install-BN-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.paulvanouse.com/labor-install-tj-2.jpg": {
+  "url": "https://www.paulvanouse.com/labor-install-tj-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg": {
+  "url": "https://static.wixstatic.com/media/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:HI1UUhRvs7s": {
+  "url": "https://www.youtube.com/watch?v=HI1UUhRvs7s",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HI1UUhRvs7s",
+  "title": "Yeastograms @ SPLICE in Oulu Art Museum",
+  "author": "Yeastograms",
+  "thumbnail": "https://i.ytimg.com/vi/HI1UUhRvs7s/hqdefault.jpg"
+ },
+ "img:http://www.hiivagrammi.fi/portfolio2019/wp-content/uploads/2019/09/about-nelio-1500x1200.jpg": {
+  "url": "http://www.hiivagrammi.fi/portfolio2019/wp-content/uploads/2019/09/about-nelio-1500x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremijenko_mothcinema-1024x768.jpg": {
+  "url": "https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremijenko_mothcinema-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremikenco_mothcinema2-1024x768.jpg": {
+  "url": "https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremikenco_mothcinema2-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/f092d5ebc4b9d858a85a56d59499caa97579f601bf515052bb6df7253355b452/theWoods-small.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/f092d5ebc4b9d858a85a56d59499caa97579f601bf515052bb6df7253355b452/theWoods-small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/8b3bdaf62ece6629c69bcbcaea53d62f8609dbcf05d678917d1e0a24e4e88073/plant-small.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/8b3bdaf62ece6629c69bcbcaea53d62f8609dbcf05d678917d1e0a24e4e88073/plant-small.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/6132729d77b59f573fc273ad/613284eb494a0173635c2266/613284eb494a0173635c2290/1633468288501/IMG_3972.jpeg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/6132729d77b59f573fc273ad/613284eb494a0173635c2266/613284eb494a0173635c2290/1633468288501/IMG_3972.jpeg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454743498-G6G390S3BRZ1156W8J5C/FQ6A4519+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454743498-G6G390S3BRZ1156W8J5C/FQ6A4519+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:d-3Vlp9Oodc": {
+  "url": "https://www.youtube.com/watch?v=d-3Vlp9Oodc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "d-3Vlp9Oodc",
+  "title": "Scott Thrift: How a 365-Day Clock Redefines Time Perception",
+  "author": "PSFK",
+  "thumbnail": "https://i.ytimg.com/vi/d-3Vlp9Oodc/hqdefault.jpg"
+ },
+ "img:https://thepresent.is/cdn/shop/files/thepresent-annual-clock-hero-on-white-wall-scott-thrift-1784w-2025_1200x.webp?v=1765303543": {
+  "url": "https://thepresent.is/cdn/shop/files/thepresent-annual-clock-hero-on-white-wall-scott-thrift-1784w-2025_1200x.webp?v=1765303543",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://thepresent.is/cdn/shop/files/The_Present_Clock-Lifestyle-Home-Bookshelf_865x640.jpg?v=1784831477": {
+  "url": "https://thepresent.is/cdn/shop/files/The_Present_Clock-Lifestyle-Home-Bookshelf_865x640.jpg?v=1784831477",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:NDZMHbjICck": {
+  "url": "https://www.youtube.com/watch?v=NDZMHbjICck",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NDZMHbjICck",
+  "title": "Keeping Time (Phenology Studies 2003-2012)",
+  "author": "Tega Brain",
+  "thumbnail": "https://i.ytimg.com/vi/NDZMHbjICck/hqdefault.jpg"
+ },
+ "img:https://freight.cargo.site/w/1200/i/9ac22f143ae9f0dd119c004c5d8357e98babc215d653db08f58345b7116bf5a1/TegaBrain-KeepingTime.jpg": {
+  "url": "https://freight.cargo.site/w/1200/i/9ac22f143ae9f0dd119c004c5d8357e98babc215d653db08f58345b7116bf5a1/TegaBrain-KeepingTime.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/ffee0cf6e7f4369a4cad6bdc9227a00f8a6c59e1d816879c110d42c8966bb22f/zgallery_oct2014_02_6.jpg": {
+  "url": "https://freight.cargo.site/t/original/i/ffee0cf6e7f4369a4cad6bdc9227a00f8a6c59e1d816879c110d42c8966bb22f/zgallery_oct2014_02_6.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:-5t2q_hSpgc": {
+  "url": "https://www.youtube.com/watch?v=-5t2q_hSpgc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "-5t2q_hSpgc",
+  "title": "The Idea of a Tree by Mischer'Traxler at Clerkenwell Design Week",
+  "author": "Dezeen",
+  "thumbnail": "https://i.ytimg.com/vi/-5t2q_hSpgc/hqdefault.jpg"
+ },
+ "img:https://mischertraxler.com/wp/wp-content/uploads/2017/11/mischertraxler_tioat_travelmachine.jpg": {
+  "url": "https://mischertraxler.com/wp/wp-content/uploads/2017/11/mischertraxler_tioat_travelmachine.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://mischertraxler.com/wp/wp-content/uploads/2017/11/the_idea_of_a_tree_all_different_trees-848x1200.jpg": {
+  "url": "https://mischertraxler.com/wp/wp-content/uploads/2017/11/the_idea_of_a_tree_all_different_trees-848x1200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:ggnKu3snciM": {
+  "url": "https://www.youtube.com/watch?v=ggnKu3snciM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ggnKu3snciM",
+  "title": "Matilde Boelhouwer Insectology",
+  "author": "Roel Klinkhamer",
+  "thumbnail": "https://i.ytimg.com/vi/ggnKu3snciM/hqdefault.jpg"
+ },
+ "img:https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz_photography-janneke-van-der-pol.jpg": {
+  "url": "https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz_photography-janneke-van-der-pol.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz1_photography-janneke-van-der-pol.jpg": {
+  "url": "https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz1_photography-janneke-van-der-pol.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:DGbrYUXW_Bk": {
+  "url": "https://www.youtube.com/watch?v=DGbrYUXW_Bk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "DGbrYUXW_Bk",
+  "title": "PetPace Collar",
+  "author": "PetPace",
+  "thumbnail": "https://i.ytimg.com/vi/DGbrYUXW_Bk/hqdefault.jpg"
+ },
+ "img:https://petpace.com/wp-content/uploads/2026/08/pic-dog.png": {
+  "url": "https://petpace.com/wp-content/uploads/2026/08/pic-dog.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:5kY24DUm0VM": {
+  "url": "https://www.youtube.com/watch?v=5kY24DUm0VM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "5kY24DUm0VM",
+  "title": "Deep Time Walk - crowdfunding campaign video 2016",
+  "author": "Opus Earth",
+  "thumbnail": "https://i.ytimg.com/vi/5kY24DUm0VM/hqdefault.jpg"
+ },
+ "img:https://www.deeptimewalk.org/wp-content/uploads/2018/04/facebook.jpg": {
+  "url": "https://www.deeptimewalk.org/wp-content/uploads/2018/04/facebook.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-mobile-home-june2018.png": {
+  "url": "https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-mobile-home-june2018.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:1ICO5NV4JQg": {
+  "url": "https://www.youtube.com/watch?v=1ICO5NV4JQg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "1ICO5NV4JQg",
+  "title": "Circa Solar - realign with the nature of time",
+  "author": "Best Crowdfunding Campaigns",
+  "thumbnail": "https://i.ytimg.com/vi/1ICO5NV4JQg/hqdefault.jpg"
+ },
+ "img:https://web.archive.org/web/20231209113039im_/http://circa.bio/img/border_applewatch_solar.png": {
+  "url": "https://web.archive.org/web/20231209113039im_/http://circa.bio/img/border_applewatch_solar.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:oWN8VToG5es": {
+  "url": "https://www.youtube.com/watch?v=oWN8VToG5es",
+  "ok": true,
+  "platform": "youtube",
+  "id": "oWN8VToG5es",
+  "title": "Future Flora",
+  "author": "gitomasello",
+  "thumbnail": "https://i.ytimg.com/vi/oWN8VToG5es/hqdefault.jpg"
+ },
+ "img:https://cortex.persona.co/w/320/h/320/c/0/0/320/320/i/fa7c91a4e51a384a49320bd5f32def069b34144ffd867b82508fba71b6bd0b82/16464742_382879488737904_8919630051306110976_a.jpg": {
+  "url": "https://cortex.persona.co/w/320/h/320/c/0/0/320/320/i/fa7c91a4e51a384a49320bd5f32def069b34144ffd867b82508fba71b6bd0b82/16464742_382879488737904_8919630051306110976_a.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:PD1Uf5BnK78": {
+  "url": "https://www.youtube.com/watch?v=PD1Uf5BnK78",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PD1Uf5BnK78",
+  "title": "Miya Masaoka - Brainwaves & Plants: Pieces for Plants, Biofeedback-driven Environment 2002",
+  "author": "MediaArtTube",
+  "thumbnail": "https://i.ytimg.com/vi/PD1Uf5BnK78/hqdefault.jpg"
+ },
+ "img:https://miyamasaoka.com/wp-content/uploads/1999/07/w.jpg": {
+  "url": "https://miyamasaoka.com/wp-content/uploads/1999/07/w.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3628516.3659425": {
+  "doi": "10.1145/3628516.3659425",
+  "ok": true,
+  "type": "doi",
+  "title": "TREESENSE – Sensitising Children to Nature through Embodied Play",
+  "year": 2024,
+  "venue": "Proceedings of the 23rd Annual ACM Interaction Design and Children Conference",
+  "url": "https://doi.org/10.1145/3628516.3659425"
+ },
+ "doi:10.21606/drs.2024.752": {
+  "doi": "10.21606/drs.2024.752",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing through ecological soundscape to foster human-nature interaction",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.752"
+ },
+ "video:youtube:HdJk8ROpuEo": {
+  "url": "https://www.youtube.com/watch?v=HdJk8ROpuEo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "HdJk8ROpuEo",
+  "title": "Everything | Gameplay Film",
+  "author": "David OReilly",
+  "thumbnail": "https://i.ytimg.com/vi/HdJk8ROpuEo/hqdefault.jpg"
+ },
+ "doi:10.21606/drs.2024.606": {
+  "doi": "10.21606/drs.2024.606",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring more-than-human worlds and becoming with living and non-living entities through play",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.606"
+ },
+ "video:youtube:kiM2_XB_HZE": {
+  "url": "https://www.youtube.com/watch?v=kiM2_XB_HZE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "kiM2_XB_HZE",
+  "title": "Endling - Extinction is Forever - Launch Trailer | PS4 Games",
+  "author": "PlayStation",
+  "thumbnail": "https://i.ytimg.com/vi/kiM2_XB_HZE/hqdefault.jpg"
+ },
+ "img:https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-3.jpg": {
+  "url": "https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-Win64-Shipping-2021-12-19-11-30-22.jpg": {
+  "url": "https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-Win64-Shipping-2021-12-19-11-30-22.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:NBnjZc1JOrs": {
+  "url": "https://www.youtube.com/watch?v=NBnjZc1JOrs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NBnjZc1JOrs",
+  "title": "Hybrid Ecologies _  Biennale Architettura 2025 _ Venice",
+  "author": "manuela garreton",
+  "thumbnail": "https://i.ytimg.com/vi/NBnjZc1JOrs/hqdefault.jpg"
+ },
+ "doi:10.21606/drs.2024.1104": {
+  "doi": "10.21606/drs.2024.1104",
+  "ok": true,
+  "type": "doi",
+  "title": "Hybrid Ecologies of artificial intelligence: prototyping terrestrial practices through a design installation",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.1104"
+ },
+ "doi:10.21606/drs.2024.347": {
+  "doi": "10.21606/drs.2024.347",
+  "ok": true,
+  "type": "doi",
+  "title": "Using a Mutualistic Design Methodology to Exhibit the Benefits of “Suboptimal” Product Design",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.347"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3635636.3660501": {
+  "doi": "10.1145/3635636.3660501",
+  "ok": true,
+  "type": "doi",
+  "title": "A Synergistic Connection: I Tell the Moon My Secret and the Moon Tells Me Yours",
+  "year": 2024,
+  "venue": "Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3635636.3660501"
+ },
+ "doi:10.1145/3643834.3660686": {
+  "doi": "10.1145/3643834.3660686",
+  "ok": true,
+  "type": "doi",
+  "title": "All Is Heard: Reimagining The Sounds of Home With Care",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3660686"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/12bdfd63-544a-491b-add0-6ab19edcd7ea/potterywithbee.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/12bdfd63-544a-491b-add0-6ab19edcd7ea/potterywithbee.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1e72bca4-5804-4a5d-bc63-f61ca3ab9aaf/garden.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1e72bca4-5804-4a5d-bc63-f61ca3ab9aaf/garden.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1145/3656156.3663692": {
+  "doi": "10.1145/3656156.3663692",
+  "ok": true,
+  "type": "doi",
+  "title": "AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3656156.3663692"
+ },
+ "video:youtube:9RgymypJYWE": {
+  "url": "https://www.youtube.com/watch?v=9RgymypJYWE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "9RgymypJYWE",
+  "title": "CAFKA.21: Jane Tingley, Foresta-Inclusive | Educational Virtual Tour",
+  "author": "CAFKATV",
+  "thumbnail": "https://i.ytimg.com/vi/9RgymypJYWE/hqdefault.jpg"
+ },
+ "img:https://janetingley.com/wp-content/uploads/2022/11/Air-Pod-1.png": {
+  "url": "https://janetingley.com/wp-content/uploads/2022/11/Air-Pod-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "video:youtube:0AMH239bEG8": {
+  "url": "https://www.youtube.com/watch?v=0AMH239bEG8",
+  "ok": true,
+  "platform": "youtube",
+  "id": "0AMH239bEG8",
+  "title": "'Symbiosia' by Thijs Biersteker in collaboration with Stefano Mancuso",
+  "author": "Thijs Biersteker",
+  "thumbnail": "https://i.ytimg.com/vi/0AMH239bEG8/hqdefault.jpg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5d80d9eeb97e2f5b4a6ceb62/1583048194961-J2B9LFJCZHFAAFR91EK3/2.003.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5d80d9eeb97e2f5b4a6ceb62/1583048194961-J2B9LFJCZHFAAFR91EK3/2.003.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/5d80d9eeb97e2f5b4a6ceb62/t/5d8c996d1d33674f2b89377c/1571932498263/websitedesign.001.jpeg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5d80d9eeb97e2f5b4a6ceb62/t/5d8c996d1d33674f2b89377c/1571932498263/websitedesign.001.jpeg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:PlEHoYRHPQ0": {
+  "url": "https://www.youtube.com/watch?v=PlEHoYRHPQ0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "PlEHoYRHPQ0",
+  "title": "Glaciator on the Glacier",
+  "author": "Joaquin Fargas",
+  "thumbnail": "https://i.ytimg.com/vi/PlEHoYRHPQ0/hqdefault.jpg"
+ },
+ "img:https://www.joaquinfargas.com/wp-content/uploads/2018/09/Adaggio-Tarjet-IMG_9759-1024x683.jpg": {
+  "url": "https://www.joaquinfargas.com/wp-content/uploads/2018/09/Adaggio-Tarjet-IMG_9759-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "ytmax:e0X39ZRc3iM": {
+  "url": "https://i.ytimg.com/vi/e0X39ZRc3iM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:rcR-6nRcGvc": {
+  "url": "https://i.ytimg.com/vi/rcR-6nRcGvc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tYwyQ9cMDmk": {
+  "url": "https://i.ytimg.com/vi/tYwyQ9cMDmk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ig7lsqdQ_Jk": {
+  "url": "https://i.ytimg.com/vi/ig7lsqdQ_Jk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9HTxxT4ds64": {
+  "url": "https://i.ytimg.com/vi/9HTxxT4ds64/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:XzNEJZp2gXw": {
+  "url": "https://i.ytimg.com/vi/XzNEJZp2gXw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:IXqRVKZHpfA": {
+  "url": "https://i.ytimg.com/vi/IXqRVKZHpfA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:f5Gk0hRFzUY": {
+  "url": "https://i.ytimg.com/vi/f5Gk0hRFzUY/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:6hi09Wjc1j4": {
+  "url": "https://i.ytimg.com/vi/6hi09Wjc1j4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3lKQnyqlS0c": {
+  "url": "https://i.ytimg.com/vi/3lKQnyqlS0c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-mfY-Z9bMQ4": {
+  "url": "https://i.ytimg.com/vi/-mfY-Z9bMQ4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:K3gPgBTqGYs": {
+  "url": "https://i.ytimg.com/vi/K3gPgBTqGYs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:58Cpgsja0iM": {
+  "url": "https://i.ytimg.com/vi/58Cpgsja0iM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:w6rjtsi2ve0": {
+  "url": "https://i.ytimg.com/vi/w6rjtsi2ve0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:sVw0oJgNg9k": {
+  "url": "https://i.ytimg.com/vi/sVw0oJgNg9k/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:eDGaZDvnuto": {
+  "url": "https://i.ytimg.com/vi/eDGaZDvnuto/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:6iGI8DAr8PM": {
+  "url": "https://i.ytimg.com/vi/6iGI8DAr8PM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:VNmdOLdt6ac": {
+  "url": "https://i.ytimg.com/vi/VNmdOLdt6ac/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:8Qk3BeolyiA": {
+  "url": "https://i.ytimg.com/vi/8Qk3BeolyiA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Uabjy9_hhH4": {
+  "url": "https://i.ytimg.com/vi/Uabjy9_hhH4/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:LWzPm_ponkI": {
+  "url": "https://i.ytimg.com/vi/LWzPm_ponkI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kZsNPzdNv8U": {
+  "url": "https://i.ytimg.com/vi/kZsNPzdNv8U/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:r9TaL5jPR50": {
+  "url": "https://i.ytimg.com/vi/r9TaL5jPR50/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:COWdBW2WhgY": {
+  "url": "https://i.ytimg.com/vi/COWdBW2WhgY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:WK4zhtUvNIQ": {
+  "url": "https://i.ytimg.com/vi/WK4zhtUvNIQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:q4Qks4wUiF0": {
+  "url": "https://i.ytimg.com/vi/q4Qks4wUiF0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ZZh-I8tV3YE": {
+  "url": "https://i.ytimg.com/vi/ZZh-I8tV3YE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Q5D8ABeS060": {
+  "url": "https://i.ytimg.com/vi/Q5D8ABeS060/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:yD2J4rlIouA": {
+  "url": "https://i.ytimg.com/vi/yD2J4rlIouA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:W8eVFRb9h4U": {
+  "url": "https://i.ytimg.com/vi/W8eVFRb9h4U/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:pMt6eB7L-HI": {
+  "url": "https://i.ytimg.com/vi/pMt6eB7L-HI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:PaRdHTqZyqA": {
+  "url": "https://i.ytimg.com/vi/PaRdHTqZyqA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:HI1UUhRvs7s": {
+  "url": "https://i.ytimg.com/vi/HI1UUhRvs7s/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:d-3Vlp9Oodc": {
+  "url": "https://i.ytimg.com/vi/d-3Vlp9Oodc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NDZMHbjICck": {
+  "url": "https://i.ytimg.com/vi/NDZMHbjICck/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:-5t2q_hSpgc": {
+  "url": "https://i.ytimg.com/vi/-5t2q_hSpgc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ggnKu3snciM": {
+  "url": "https://i.ytimg.com/vi/ggnKu3snciM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:DGbrYUXW_Bk": {
+  "url": "https://i.ytimg.com/vi/DGbrYUXW_Bk/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:5kY24DUm0VM": {
+  "url": "https://i.ytimg.com/vi/5kY24DUm0VM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:1ICO5NV4JQg": {
+  "url": "https://i.ytimg.com/vi/1ICO5NV4JQg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:oWN8VToG5es": {
+  "url": "https://i.ytimg.com/vi/oWN8VToG5es/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:PD1Uf5BnK78": {
+  "url": "https://i.ytimg.com/vi/PD1Uf5BnK78/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:HdJk8ROpuEo": {
+  "url": "https://i.ytimg.com/vi/HdJk8ROpuEo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:kiM2_XB_HZE": {
+  "url": "https://i.ytimg.com/vi/kiM2_XB_HZE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NBnjZc1JOrs": {
+  "url": "https://i.ytimg.com/vi/NBnjZc1JOrs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:9RgymypJYWE": {
+  "url": "https://i.ytimg.com/vi/9RgymypJYWE/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:0AMH239bEG8": {
+  "url": "https://i.ytimg.com/vi/0AMH239bEG8/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:PlEHoYRHPQ0": {
+  "url": "https://i.ytimg.com/vi/PlEHoYRHPQ0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://figures.semanticscholar.org/8f745c8c5db30f909633d7f4421c49e94f828224/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/8f745c8c5db30f909633d7f4421c49e94f828224/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://xlab.iii.u-tokyo.ac.jp/wp-content/uploads/ImmersiveFloraTeaser.png": {
+  "url": "https://xlab.iii.u-tokyo.ac.jp/wp-content/uploads/ImmersiveFloraTeaser.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/d9cc6b40-9458-4679-96ec-7567bc5b69f6/DSCF8782.00_00_39_12.Still001.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/d9cc6b40-9458-4679-96ec-7567bc5b69f6/DSCF8782.00_00_39_12.Still001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/f6397f_dda67aa2802e414299641a89c94c17e3~mv2.jpeg": {
+  "url": "https://static.wixstatic.com/media/f6397f_dda67aa2802e414299641a89c94c17e3~mv2.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/f6397f_16b7924c9b184dd296e86f610efa831e~mv2.jpeg": {
+  "url": "https://static.wixstatic.com/media/f6397f_16b7924c9b184dd296e86f610efa831e~mv2.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png": {
+  "url": "https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png": {
+  "url": "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png": {
+  "url": "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png": {
+  "url": "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png": {
+  "url": "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png": {
+  "url": "https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png": {
+  "url": "https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/0209bc61eb6ba83e58d4cd8e023d496210839d79/1-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/0209bc61eb6ba83e58d4cd8e023d496210839d79/1-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/cc8eef4cb3cbb96ae10ef153ff429bc30ba5a929/2-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/cc8eef4cb3cbb96ae10ef153ff429bc30ba5a929/2-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
  }
 }

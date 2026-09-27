@@ -41,12 +41,20 @@ def transient(res: dict) -> bool:
     return not res.get("ok") and bool(TRANSIENT.search(res.get("error") or ""))
 
 
+def _is_image(head: bytes) -> bool:
+    """PNG, JPEG, GIF or WebP magic bytes."""
+    return head.startswith((b"\x89PNG", b"\xff\xd8\xff", b"GIF8")) or (head[:4] == b"RIFF" and head[8:12] == b"WEBP")
+
+
 def check_image(url: str) -> dict:
     """An image URL is ok when it answers 200/206 with an image content type."""
     try:
         with _open(url, {"Range": "bytes=0-2047", "Accept": "image/avif,image/webp,image/*,*/*;q=0.8"}) as r:
             ctype = r.headers.get("Content-Type", "")
-            ok = r.status in (200, 206) and ctype.startswith("image/")
+            head = r.read(16)
+            # some hosts (e.g. figures.semanticscholar.org) label images binary/octet-stream; browsers still render them
+            sniffed = ctype.split(";")[0].strip() in ("binary/octet-stream", "application/octet-stream") and _is_image(head)
+            ok = r.status in (200, 206) and (ctype.startswith("image/") or sniffed)
             return {"url": url, "ok": ok, "type": "image", "content_type": ctype, **({} if ok else {"error": f"content-type {ctype}"})}
     except Exception as e:  # noqa: BLE001 - any failure means the image is not usable
         return {"url": url, "ok": False, "type": "image", "error": f"{type(e).__name__}: {e}"}

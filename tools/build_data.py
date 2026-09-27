@@ -314,11 +314,17 @@ def main() -> None:
 
     data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept}
     d = ROOT / "data"
+    # guard against works silently disappearing (e.g. two batches each deleting a shared work)
+    prev = {w["id"]: w.get("title", "") for w in json.loads((d / "entries.json").read_text())["works"]} if (d / "entries.json").exists() else {}
+    removed = sorted(set(prev) - {w["id"] for w in kept})
+    if removed:
+        logger.warning("works REMOVED since the last build (%d): %s", len(removed), removed[:20])
     (d / "entries.json").write_text(json.dumps(data, indent=1, ensure_ascii=False))
     (d / "entries.js").write_text("window.MTH = " + json.dumps(data, ensure_ascii=False) + ";\n")
     (d / "leads.json").write_text(json.dumps(open_leads, indent=1, ensure_ascii=False))
     (d / "leads_checked.json").write_text(json.dumps(checked_leads, indent=1, ensure_ascii=False))
-    (d / "dropped.json").write_text(json.dumps({"works": dropped, "media": problems}, indent=1, ensure_ascii=False))
+    (d / "dropped.json").write_text(json.dumps({"works": dropped, "media": problems,
+                                                "removed_since_last_build": [{"id": i, "title": prev[i]} for i in removed]}, indent=1, ensure_ascii=False))
     (d / "creators_index.txt").write_text("".join(
         f"{c['id']} | {c['name']} | {c.get('work_count', 0)} works\n" for c in sorted(out_creators, key=lambda c: c["id"])))
     from markdown_export import catalog_md, llms_txt  # noqa: PLC0415

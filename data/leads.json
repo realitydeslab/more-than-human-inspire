@@ -592,6 +592,46 @@
   "batch": "breed-2026"
  },
  {
+  "name": "AnimalSense (VR games on animal senses)",
+  "why": "CHI paper on understanding beyond-human animal senses through VR games; fits hni/umwelt.",
+  "link": "https://www.youtube.com/watch?v=OycDmP3hobQ",
+  "found_via": "haruka-kasuga",
+  "status": "open",
+  "batch": "ikeya-2025"
+ },
+ {
+  "name": "The Umwelt-sketch as More-than-human Design Methodology",
+  "why": "ACM paper proposing an umwelt-based sketching method for more-than-human design.",
+  "link": "https://www.youtube.com/watch?v=5o22Yf1mxGc",
+  "found_via": "yuta-ikeya",
+  "status": "open",
+  "batch": "ikeya-2025"
+ },
+ {
+  "name": "Patterns and Opportunities for the Design of Human-Plant Interaction",
+  "why": "Review of human-plant interaction design (DIS); overview paper for plant interfaces.",
+  "link": "https://www.youtube.com/watch?v=Szm8WD-pjoQ",
+  "found_via": "olivia-seow",
+  "status": "open",
+  "batch": "ikeya-2025"
+ },
+ {
+  "name": "Satoshi Kuribayashi — Plantio / Pocket Plantio",
+  "why": "Further plant-interface works by the I/O Plant author, with demo videos.",
+  "link": "https://www.youtube.com/watch?v=ak_ykCgOXPs",
+  "found_via": "satoshi-kuribayashi",
+  "status": "open",
+  "batch": "ikeya-2025"
+ },
+ {
+  "name": "Printable Hydroponic Gardens: Initial Explorations and Considerations",
+  "why": "Follow-up on printed hydroponic ecologies (CHI talk on ACM SIGCHI).",
+  "link": "https://www.youtube.com/watch?v=eBEic0rBWI0",
+  "found_via": "yuichiro-takeuchi",
+  "status": "open",
+  "batch": "ikeya-2025"
+ },
+ {
   "name": "Pierre Huyghe — Exomind (Deep Water)",
   "why": "Living beehive on a concrete figure in a permanent garden at Dazaifu Tenmangu shrine (2017–); image only, could be its own work.",
   "link": "https://www.estherschipper.com/artists/41-pierre-huyghe/works/17096-pierre-huyghe-exomind-deep-water-2017ongoing/",

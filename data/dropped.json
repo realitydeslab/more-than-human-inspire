@@ -79,30 +79,6 @@
    "title": "Second Skin: Biological Garment Powered by and Adapting to Body in Motion"
   },
   {
-   "id": "michel-maharbiz--micro-flea-circus",
-   "what": "image",
-   "url": "https://www.researchgate.net/profile/Mm-Maharbiz/publication/4240186/figure/fig3/AS:670022120775687@1536757130166/As-the-bacterial-cloud-collapsed-onto-the-pointsource-electrode-the-band-formed_Q320.jpg",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-   "id": "seung-ah-lee--tangible-interactive-microbiology",
-   "what": "image",
-   "url": "https://dl.acm.org/cms/asset/2442beb4-fa94-4473-b4ab-1f1078831d6a/2677199.2680561.key.jpg",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-   "id": "kyungwon-lee--microaquarium",
-   "what": "image",
-   "url": "https://dl.acm.org/cms/attachment/html/10.1145/3334480.3383164/assets/html/images/chi20extendedabstracts-542-fig1.jpg",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
-   "id": "kyungwon-lee--euglpollock",
-   "what": "image",
-   "url": "https://dl.acm.org/cms/asset/f80029e8-1d66-48bc-96d0-f18f4517f0c3/3503161.3548151.key.jpg",
-   "error": "HTTPError: HTTP Error 403: Forbidden"
-  },
-  {
    "id": "project-ceti--project-ceti",
    "what": "doi-title",
    "doi": "10.1016/j.isci.2022.104393",
@@ -129,6 +105,12 @@
    "doi": "10.1145/3686169.3686201",
    "crossref": "Synthetic Sentience: From Cup to Dish",
    "title": "Sentient Clit: The Pussification of BioTech"
+  }
+ ],
+ "removed_since_last_build": [
+  {
+   "id": "nadia-campo-woytuk--biomenstrual-composting",
+   "title": "Biomenstrual, Composting"
   }
  ]
 }

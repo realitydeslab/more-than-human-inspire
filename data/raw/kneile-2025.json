@@ -1,0 +1,4275 @@
+{
+ "batch": "kneile-2025",
+ "creators": [
+  {
+   "id": "madlen-kneile",
+   "name": "Madlen Kneile",
+   "kind": "person",
+   "role": "Researcher, Interaction Design for Sustainability and Transformation, University of Siegen",
+   "role_zh": "锡根大学“面向可持续与转型的交互设计”研究组研究员",
+   "bio": "Design researcher who studies how technology can mediate relations between humans and nature, and the challenges of designing technology for nonhumans.",
+   "bio_zh": "设计研究者，研究技术如何调解人与自然的关系，以及为非人类设计技术时面临的难题。",
+   "why": "Led the TOCHI scoping review that mapped 114 post-anthropocentric artifacts and seven design strategies, and curates the public Artifact Archive.",
+   "why_zh": "主导了 TOCHI 范围综述，梳理出 114 件后人类中心主义作品与七种设计策略，并维护公开的 Artifact Archive。",
+   "based": "Siegen, Germany",
+   "based_zh": "锡根，德国",
+   "links": {
+    "site": "https://artifact-archive.org"
+   },
+   "connected_to": [
+    "matthias-laschke",
+    "marc-hassenzahl",
+    "judith-dorrenbacher"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "judith-dorrenbacher",
+   "name": "Judith Dörrenbächer",
+   "kind": "person",
+   "role": "Researcher, Ubiquitous Design / Experience and Interaction, University of Siegen",
+   "role_zh": "锡根大学 Ubiquitous Design（体验与交互设计）研究组研究员",
+   "bio": "Designer and researcher working on more-than-human and critical design, including techno-mimesis methods in which designers take on the perspective of robots and other nonhumans.",
+   "bio_zh": "设计师与研究者，关注超越人类的设计与批判性设计，包括让设计者代入机器人等非人类视角的“技术拟态”方法。",
+   "why": "Co-author of the Kneile et al. review and of methods for designing from nonhuman perspectives.",
+   "why_zh": "Kneile 等人综述的合著者，也提出过从非人类视角出发的设计方法。",
+   "based": "Siegen, Germany",
+   "based_zh": "锡根，德国",
+   "links": {},
+   "connected_to": [
+    "marc-hassenzahl",
+    "madlen-kneile"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "marc-hassenzahl",
+   "name": "Marc Hassenzahl",
+   "kind": "person",
+   "role": "Professor of Ubiquitous Design / Experience and Interaction, University of Siegen",
+   "role_zh": "锡根大学 Ubiquitous Design（体验与交互设计）教授",
+   "bio": "Psychologist and design researcher known for foundational work on user experience and experience design, now also exploring wellbeing, relatedness and more-than-human perspectives.",
+   "bio_zh": "心理学家与设计研究者，以用户体验与体验设计的奠基性研究著称，近年也探索幸福感、人际联结与超越人类的视角。",
+   "why": "His group connects experience design with post-anthropocentric questions about technology and nature.",
+   "why_zh": "他的研究组把体验设计与“后人类中心主义下技术与自然”的问题联系起来。",
+   "based": "Siegen, Germany",
+   "based_zh": "锡根，德国",
+   "links": {
+    "site": "https://www.experienceandinteraction.com"
+   },
+   "connected_to": [
+    "matthias-laschke",
+    "judith-dorrenbacher",
+    "madlen-kneile"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "matthias-laschke",
+   "name": "Matthias Laschke",
+   "kind": "person",
+   "role": "Head of Interaction Design for Sustainability and Transformation, University of Siegen",
+   "role_zh": "锡根大学“面向可持续与转型的交互设计”研究组负责人",
+   "bio": "Designer known for 'pleasurable troublemakers', everyday objects that create small frictions to support behaviour change, now working on sustainability and human–nature relations.",
+   "bio_zh": "设计师，以“愉悦的捣乱者”著称：这类日常物件制造小小的阻力来促成行为改变；现在关注可持续与人与自然的关系。",
+   "why": "Senior author of the Kneile et al. review and co-curator of the Artifact Archive.",
+   "why_zh": "Kneile 等人综述的通讯作者之一，也是 Artifact Archive 的共同策展人。",
+   "based": "Siegen, Germany",
+   "based_zh": "锡根，德国",
+   "links": {},
+   "connected_to": [
+    "marc-hassenzahl",
+    "madlen-kneile"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "raune-frankjaer",
+   "name": "Raune Frankjær",
+   "kind": "person",
+   "role": "Designer and researcher in wearable and interaction design, Aarhus University",
+   "role_zh": "奥胡斯大学可穿戴与交互设计方向的设计师、研究者",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦",
+   "bio": "Designs light and textile interfaces that make plant and insect signals perceptible, from Flora Luma to the Rewilding Wearables and Plant Radio.",
+   "bio_zh": "设计把植物和昆虫信号变得可感知的光与织物界面，作品包括 Flora Luma、Rewilding Wearables 与 Plant Radio。",
+   "why": "A recurring maker of posthumanist interaction prototypes in Danish HCI.",
+   "why_zh": "丹麦 HCI 中后人类主义交互原型的持续创作者。",
+   "links": {},
+   "connected_to": [
+    "patricia-flanagan",
+    "margrete-lodahl-rolighed",
+    "lone-koefoed-hansen"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "tega-brain",
+   "name": "Tega Brain",
+   "kind": "person",
+   "role": "Artist and environmental engineer; Associate Professor of Integrated Digital Media, New York University",
+   "role_zh": "艺术家、环境工程师；纽约大学综合数字媒体副教授",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "bio": "Australian-born artist whose works on ecological time, phenology and 'eccentric engineering' use sensors, data and clocks to rethink environmental systems.",
+   "bio_zh": "出生于澳大利亚的艺术家，作品围绕生态时间、物候与“古怪工程”，用传感器、数据和时钟重新思考环境系统。",
+   "why": "Her phenology clocks and plant-run wifi are early art prototypes of ecological, decentred timekeeping.",
+   "why_zh": "她的物候钟和由植物控制的 wifi 是生态化、去中心化计时的早期艺术原型。",
+   "links": {
+    "site": "https://tegabrain.com"
+   },
+   "connected_to": [
+    "natalie-jeremijenko"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "patricia-flanagan",
+   "name": "Patricia (Tricia) Flanagan",
+   "kind": "person",
+   "role": "Artist, designer and researcher in wearable art; founder of the Wearables Lab",
+   "role_zh": "可穿戴艺术的艺术家、设计师与研究者；Wearables Lab 创始人",
+   "based": "Aarhus, Denmark / Hong Kong",
+   "based_zh": "奥胡斯，丹麦 / 香港",
+   "bio": "Makes 'cyborganic' wearables that blend bamboo, natural fibres and electronics into prosthetic senses.",
+   "bio_zh": "制作“cyborganic”可穿戴装置，把竹子、天然纤维和电子元件结合成义肢式的感官。",
+   "why": "Her Rewilding Wearables let people sense rewilded landscapes as insects might.",
+   "why_zh": "她的 Rewilding Wearables 让人像昆虫一样感知再野化的景观。",
+   "links": {
+    "site": "https://triciaflanagan.com"
+   },
+   "connected_to": [
+    "raune-frankjaer"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "interactive-architecture-lab",
+   "name": "Interactive Architecture Lab",
+   "kind": "lab",
+   "role": "Research group at the Bartlett School of Architecture, UCL (led by Ruairi Glynn)",
+   "role_zh": "伦敦大学学院巴特莱特建筑学院的研究小组（由 Ruairi Glynn 领导）",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "A multidisciplinary lab studying the behaviour and interaction of things, environments and their inhabitants through robotic and responsive architecture.",
+   "bio_zh": "跨学科实验室，用机器人和响应式建筑研究物、环境及其居住者的行为与交互。",
+   "why": "Its Hortum machina, B hands a robotic sphere over to the plants inside it.",
+   "why_zh": "它的 Hortum machina, B 把一个机器人球体交给里面的植物来驾驶。",
+   "links": {
+    "site": "http://www.interactivearchitecture.org"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "margrete-lodahl-rolighed",
+   "name": "Margrete Lodahl Rolighed",
+   "kind": "person",
+   "role": "Design researcher, Digital Design and Information Studies, Aarhus University",
+   "role_zh": "奥胡斯大学数字设计与信息研究方向的设计研究者",
+   "based": "Aarhus, Denmark",
+   "based_zh": "奥胡斯，丹麦",
+   "bio": "Works on posthumanist interaction design with plants, including the Plant Radio and plant-sensing design experiments.",
+   "bio_zh": "从事与植物相关的后人类主义交互设计，作品包括 Plant Radio 等植物感知设计实验。",
+   "why": "Turns plant electrophysiology into everyday devices that ask people to attend to plants.",
+   "why_zh": "把植物电生理信号变成日常装置，引导人去留意植物。",
+   "links": {},
+   "connected_to": [
+    "lone-koefoed-hansen",
+    "raune-frankjaer"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "jaz-hee-jeong-choi",
+   "name": "Jaz Hee-jeong Choi",
+   "kind": "person",
+   "role": "Professor and director of the Care-Full Design Lab, RMIT University",
+   "role_zh": "RMIT 大学教授，Care-Full Design Lab 负责人",
+   "based": "Melbourne, Australia",
+   "based_zh": "墨尔本，澳大利亚",
+   "bio": "Design researcher on care, urban food and more-than-human participation; co-founder of the More-than-Human Dérive and Open Forest projects.",
+   "bio_zh": "关注照护、城市食物与超越人类参与的设计研究者；More-than-Human Dérive 与 Open Forest 项目的共同发起人。",
+   "why": "Leads collective, walking-based methods for thinking with forests and other nonhuman worlds.",
+   "why_zh": "带领以行走为基础的集体方法，与森林等非人类世界一起思考。",
+   "links": {},
+   "connected_to": [
+    "marketa-dolejsova"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "marketa-dolejsova",
+   "name": "Markéta Dolejšová",
+   "kind": "person",
+   "role": "Design researcher, Aalto University; co-founder of Open Forest",
+   "role_zh": "阿尔托大学设计研究者；Open Forest 共同发起人",
+   "based": "Helsinki, Finland",
+   "based_zh": "赫尔辛基，芬兰",
+   "bio": "Works on speculative food futures, fermentation and more-than-human forest data through participatory events.",
+   "bio_zh": "通过参与式活动研究思辨的食物未来、发酵以及超越人类的森林数据。",
+   "why": "Brings participatory design to forest data and multispecies storytelling.",
+   "why_zh": "把参与式设计带入森林数据与多物种叙事。",
+   "links": {},
+   "connected_to": [
+    "jaz-hee-jeong-choi"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "patricia-ciobanu",
+   "name": "Patricia Ciobanu",
+   "kind": "person",
+   "role": "Researcher in interaction design, Department of Computer and Systems Sciences, Stockholm University",
+   "role_zh": "斯德哥尔摩大学计算机与系统科学系交互设计研究者",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "bio": "Studies time and nature in posthuman interaction through research-through-design and autobiographical design.",
+   "bio_zh": "用设计研究和自传式设计研究后人类交互中的时间与自然。",
+   "why": "Her web-browser prototype lets a hill's slow changes interrupt everyday screen time.",
+   "why_zh": "她的浏览器原型让一座山丘的缓慢变化打断日常的屏幕时间。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "dean-brown",
+   "name": "Dean Brown",
+   "kind": "person",
+   "role": "Designer and researcher, Interaction Research Studio, Goldsmiths, University of London",
+   "role_zh": "伦敦大学金史密斯学院 Interaction Research Studio 设计师、研究者",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "bio": "Member of the Interaction Research Studio, which designs research products for everyday and public settings.",
+   "bio_zh": "Interaction Research Studio 成员，该工作室为日常和公共场所设计研究型产品。",
+   "why": "Co-designed Nature Scenes, urban shelters that serve animals and human onlookers at once.",
+   "why_zh": "共同设计了 Nature Scenes：同时服务动物与人类观者的城市庇护所。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "judith-doyle",
+   "name": "Judith Doyle",
+   "kind": "person",
+   "role": "Artist, filmmaker and professor at OCAD University",
+   "role_zh": "艺术家、电影人，OCAD 大学教授",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "bio": "Media artist working with video, installation and interactive media.",
+   "bio_zh": "从事影像、装置与交互媒体的媒体艺术家。",
+   "why": "Her Avian Attractor mixes live human and recorded bird footage into one interspecies scene.",
+   "why_zh": "她的 Avian Attractor 把人的实时影像和鸟的录像混成一个跨物种场景。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "studio-roosegaarde",
+   "name": "Studio Roosegaarde",
+   "kind": "studio",
+   "role": "Social design lab founded by artist Daan Roosegaarde",
+   "role_zh": "由艺术家 Daan Roosegaarde 创立的社会设计实验室",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "鹿特丹，荷兰",
+   "bio": "Makes large public light installations about water, air, energy and living light, such as Waterlicht and Glowing Nature.",
+   "bio_zh": "制作关于水、空气、能源和生物光的大型公共光装置，例如 Waterlicht 与 Glowing Nature。",
+   "why": "Uses spectacle to make climate risks and living organisms visible in public space.",
+   "why_zh": "用视觉奇观让气候风险和活的生物在公共空间中可见。",
+   "links": {
+    "site": "https://studioroosegaarde.net"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "resorts-world-sentosa",
+   "name": "Resorts World Sentosa",
+   "kind": "company",
+   "role": "Integrated resort on Sentosa Island that operates the S.E.A. Aquarium",
+   "role_zh": "位于圣淘沙岛的综合度假村，运营 S.E.A. 海洋馆",
+   "based": "Singapore",
+   "based_zh": "新加坡",
+   "bio": "Tourism and leisure company whose S.E.A. Aquarium is one of the largest public aquariums in the world.",
+   "bio_zh": "旅游休闲公司，其 S.E.A. 海洋馆是世界上最大的公共水族馆之一。",
+   "why": "Its aquarium is a counter-example in the review: a designed habitat where humans and marine life meet but stay separated.",
+   "why_zh": "其海洋馆在综述中是一个对照案例：人与海洋生物在设计的栖息地里相遇，但彼此仍被隔开。",
+   "links": {
+    "site": "https://www.rwsentosa.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "prophecy-sun",
+   "name": "Prophecy Sun",
+   "kind": "person",
+   "role": "Artist, performer and researcher; PhD, School of Interactive Arts and Technology, Simon Fraser University",
+   "role_zh": "艺术家、表演者与研究者；西蒙菲莎大学交互艺术与技术学院博士",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大",
+   "bio": "Makes sound, performance and installation work on the maternal body, ecology and more-than-human relations.",
+   "bio_zh": "创作关于母性身体、生态与超越人类关系的声音、表演和装置作品。",
+   "why": "Treats the body as an interface that hosts other species.",
+   "why_zh": "把身体当作承载其他物种的界面。",
+   "links": {
+    "site": "https://prophecysun.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "gerd-geleff-nielsen",
+   "name": "Gerd Geleff Nielsen",
+   "kind": "person",
+   "role": "Designer and researcher in interaction design, IT University of Copenhagen",
+   "role_zh": "哥本哈根信息技术大学交互设计方向的设计师、研究者",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "bio": "Designs speculative wearables that bring the immune system and microbes into more-than-human design.",
+   "bio_zh": "设计思辨性可穿戴物，把免疫系统和微生物带入超越人类的设计。",
+   "why": "Frames bodily fluids and microbes as design partners in wearables.",
+   "why_zh": "把体液和微生物视作可穿戴设计中的合作者。",
+   "links": {},
+   "connected_to": [
+    "nadia-campo-woytuk"
+   ],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "geertje-slingerland",
+   "name": "Geertje Slingerland",
+   "kind": "person",
+   "role": "Researcher, Centre of Expertise Global & Inclusive Learning, The Hague University of Applied Sciences",
+   "role_zh": "海牙应用科学大学研究员",
+   "based": "The Hague, Netherlands",
+   "based_zh": "海牙，荷兰",
+   "bio": "Works on participatory design, city commons and biodiversity urban living labs with citizens.",
+   "bio_zh": "与市民一起研究参与式设计、城市公地和生物多样性城市生活实验室。",
+   "why": "Brings plants, sensors and gardens into citizen sensing as nonhuman participants.",
+   "why_zh": "把植物、传感器与花园作为非人参与者带入市民感知。",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "anna-madeleine-raupach",
+   "name": "Anna Madeleine Raupach",
+   "kind": "person",
+   "role": "Media artist and researcher",
+   "role_zh": "媒体艺术家、研究者",
+   "bio": "Australian artist whose kinetic and data-driven works, such as Unequal Hours and Augmented Tree Rings, visualise how natural and human timescales intersect.",
+   "bio_zh": "澳大利亚艺术家，其动态与数据作品（如 Unequal Hours、Augmented Tree Rings）呈现自然时间尺度与人类时间尺度的交织。",
+   "why": "Her public clocks make the time of other beings legible alongside human clock time.",
+   "why_zh": "她的公共时钟让其他生命的时间与人类钟表时间并置，变得可读。",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚",
+   "links": {
+    "site": "https://www.annamadeleine.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "cesar-and-lois",
+   "name": "Cesar & Lois",
+   "kind": "studio",
+   "role": "Art collective of Lucy HG Solomon and Cesar Baio",
+   "role_zh": "由 Lucy HG Solomon 与 Cesar Baio 组成的艺术团体",
+   "bio": "Art collective working across the US and Brazil that builds installations linking living systems such as mycelium, plants and bacteria with artificial intelligence and networks.",
+   "bio_zh": "活跃于美国与巴西的艺术团体，创作把菌丝、植物、细菌等生命系统与人工智能和网络连接起来的装置。",
+   "why": "They propose 'ecosystemic intelligence' that learns from nonhuman life cycles rather than from human data alone.",
+   "why_zh": "他们提出一种向非人类生命周期学习、而不只依赖人类数据的“生态系统智能”。",
+   "based": "San Marcos, US / São Paulo, Brazil",
+   "based_zh": "圣马科斯，美国 / 圣保罗，巴西",
+   "links": {
+    "site": "https://cesarandlois.org"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "ferne-edwards",
+   "name": "Ferne Edwards",
+   "kind": "person",
+   "role": "Researcher, Norwegian University of Science and Technology (NTNU)",
+   "role_zh": "挪威科技大学（NTNU）研究者",
+   "bio": "Urban researcher who, with NTNU design colleagues, studied student design projects for cohabiting with birds, bees and bats in the city.",
+   "bio_zh": "城市研究者，与 NTNU 设计团队合作，研究学生为城市中与鸟、蜂、蝙蝠共居而做的设计项目。",
+   "why": "Her work links urban planning to concrete habitat designs for nonhuman city dwellers.",
+   "why_zh": "她的研究把城市规划与为非人类城市居民设计的具体栖所联系起来。",
+   "based": "Trondheim, Norway",
+   "based_zh": "特隆赫姆，挪威",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "johanna-rotko",
+   "name": "Johanna Rotko",
+   "kind": "person",
+   "role": "Visual artist working with living yeasts; Bio Art Lab (hiivagrammi.fi)",
+   "role_zh": "以活酵母创作的视觉艺术家；Bio Art Lab（hiivagrammi.fi）",
+   "bio": "Finnish artist who has made yeastograms, images grown from living yeast cells exposed through photographs, since a 2013 Bioart Society workshop.",
+   "bio_zh": "芬兰艺术家，自 2013 年参加 Bioart Society 工作坊以来，一直创作“酵母图像”——用照片曝光活酵母细胞长出的图像。",
+   "why": "Her yeastograms hand authorship of a portrait over to growing microbes.",
+   "why_zh": "她的酵母图像把肖像的“作者权”交给了不断生长的微生物。",
+   "based": "Finland",
+   "based_zh": "芬兰",
+   "links": {
+    "site": "http://www.hiivagrammi.fi/portfolio2019/"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "jixiang-jiang",
+   "name": "Jixiang Jiang",
+   "kind": "person",
+   "role": "Design researcher, Politecnico di Milano",
+   "role_zh": "米兰理工大学设计研究者",
+   "bio": "Researches pluriversal and more-than-human design; led the Hokkhi project on Daoist practice and oyster reef restoration in Quanzhou with Shu Zhang and Yizao Wu.",
+   "bio_zh": "研究多元世界（pluriverse）与超越人类设计；与 Shu Zhang、Yizao Wu 一起主导了泉州道教实践与牡蛎礁修复项目 Hokkhi。",
+   "why": "Hokkhi brings a Chinese religious tradition into more-than-human design for marine ecosystems.",
+   "why_zh": "Hokkhi 把中国宗教传统带入面向海洋生态的超越人类设计。",
+   "based": "Milan, Italy",
+   "based_zh": "米兰，意大利",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "liz-edwards",
+   "name": "Liz Edwards",
+   "kind": "person",
+   "role": "Design researcher, ImaginationLancaster, Lancaster University",
+   "role_zh": "兰卡斯特大学 ImaginationLancaster 设计研究者",
+   "bio": "Works on design for place and nature engagement; co-led Biodiversity Logbooks with Serena Pollastri, a cyanotype toolkit for schoolchildren in Morecambe Bay.",
+   "bio_zh": "从事地方与自然参与相关的设计研究；与 Serena Pollastri 共同主导 Biodiversity Logbooks——为莫克姆湾学童设计的蓝晒工具包。",
+   "why": "Her slow, analogue toolkits train attention to nature instead of quick digital identification.",
+   "why_zh": "她的慢速、模拟工具包训练人们对自然的注意力，而不是快速的数字识别。",
+   "based": "Lancaster, UK",
+   "based_zh": "兰卡斯特，英国",
+   "links": {
+    "site": "https://imagination.lancaster.ac.uk/project/biodiversity-logbooks/"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "maya-livio",
+   "name": "Maya Livio",
+   "kind": "person",
+   "role": "Artist, writer and curator; PhD, University of Colorado Boulder",
+   "role_zh": "艺术家、写作者、策展人；科罗拉多大学博尔德分校博士",
+   "bio": "Makes films, media and curatorial projects about the contact zones between ecosystems and technological systems, including Salvaging Birds and Thermopower.",
+   "bio_zh": "以电影、媒体和策展项目探讨生态系统与技术系统的接触地带，作品包括 Salvaging Birds 和 Thermopower。",
+   "why": "She shows how scientific instruments and datasets shape which nonhumans are seen and conserved.",
+   "why_zh": "她揭示科学仪器与数据集如何决定哪些非人类被看见、被保护。",
+   "based": "Boulder, US",
+   "based_zh": "博尔德，美国",
+   "links": {
+    "site": "https://mayalivio.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "mellissa-monsoon",
+   "name": "Mellissa Monsoon",
+   "kind": "person",
+   "role": "Artist, illustrator and sculptor collaborating with microbiologists",
+   "role_zh": "与微生物学家合作的艺术家、插画师和雕塑家",
+   "bio": "British artist (MA Art and Science, Central Saint Martins) who casts her own body in agar and grows its skin bacteria; commissions include the Eden Project and the BBC.",
+   "bio_zh": "英国艺术家（中央圣马丁艺术与科学硕士），用琼脂翻铸自己的身体并培养其皮肤细菌；曾受 Eden Project 与 BBC 委托创作。",
+   "why": "Her microbial portraits make the invisible ecosystem of human skin visible.",
+   "why_zh": "她的微生物肖像让人类皮肤上不可见的生态系统变得可见。",
+   "based": "Kent, UK",
+   "based_zh": "肯特，英国",
+   "links": {
+    "site": "https://www.mmonsoon.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "mileece",
+   "name": "Mileece",
+   "kind": "person",
+   "role": "Sonic artist and environmental designer",
+   "role_zh": "声音艺术家、环境设计师",
+   "bio": "Sound artist who has performed and installed generative music made from the bioelectric signals of plants, including a 2013 performance at MoMA.",
+   "bio_zh": "声音艺术家，用植物生物电信号生成音乐并进行演出与装置创作，包括 2013 年在 MoMA 的演出。",
+   "why": "An early practitioner of plant bioelectric music as live, participatory performance.",
+   "why_zh": "较早把植物生物电音乐做成现场、可参与表演的实践者。",
+   "based": "US / UK",
+   "based_zh": "美国 / 英国",
+   "links": {
+    "site": "https://www.mileece.is",
+    "vimeo": "https://vimeo.com/60769517"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "rewa-wright",
+   "name": "Rewa Wright",
+   "kind": "person",
+   "role": "Artist and researcher in computational arts and mixed reality, Queensland University of Technology",
+   "role_zh": "昆士兰科技大学计算艺术与混合现实方向的艺术家、研究者",
+   "bio": "Māori artist-researcher who, with Simon Howden as UnCalculated Studio, makes mixed-reality performances in which plants act as co-composers through their bioelectric signals.",
+   "bio_zh": "毛利族艺术家兼研究者，与 Simon Howden 组成 UnCalculated Studio，创作让植物通过生物电信号成为共同作曲者的混合现实表演。",
+   "why": "She connects mātauranga Māori with eco-digital art, treating plants as kin rather than data sources.",
+   "why_zh": "她把毛利知识（mātauranga Māori）与生态数字艺术连接，把植物视为亲族而非数据源。",
+   "based": "Brisbane, Australia",
+   "based_zh": "布里斯班，澳大利亚",
+   "links": {
+    "site": "https://rewawright.com"
+   },
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "stijn-ossevoort",
+   "name": "Stijn Ossevoort",
+   "kind": "person",
+   "role": "Interaction designer; Eindhoven University of Technology (Industrial Design)",
+   "role_zh": "交互设计师；埃因霍温理工大学工业设计系",
+   "bio": "Designed Flare, a wind-responsive dress, with Miguel Bruns and proposed 'participation of natural phenomena' as a strong concept for interaction design (TEI 2023).",
+   "bio_zh": "与 Miguel Bruns 合作设计了会对风作出反应的连衣裙 Flare，并在 TEI 2023 提出“自然现象的参与”作为交互设计的强概念。",
+   "why": "Flare treats wind as a co-performer of an interactive garment.",
+   "why_zh": "Flare 把风当作交互服装的共同表演者。",
+   "based": "Eindhoven, Netherlands",
+   "based_zh": "埃因霍温，荷兰",
+   "links": {},
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "adrienne-adar",
+   "name": "Adrienne Adar",
+   "kind": "person",
+   "role": "Artist and plant-sound researcher",
+   "bio": "Makes interactive installations that amplify the vibrations and sounds of living plants.",
+   "why": "Her work invites people to listen to plants as active, responsive beings.",
+   "links": {
+    "site": "https://www.adrienneadar.com"
+   },
+   "role_zh": "艺术家、植物声音研究者",
+   "bio_zh": "创作互动装置，放大活体植物的振动和声音。",
+   "why_zh": "她的作品邀请人们把植物当作会回应的生命来聆听。",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "asa-river-jackson",
+   "name": "Asa River Jackson",
+   "kind": "person",
+   "role": "Designer and artist",
+   "bio": "Designs furniture and objects with a mutualistic method that serves both people and other species.",
+   "why": "Shows how product design can accept being suboptimal for humans to make room for nonhumans.",
+   "links": {
+    "site": "https://asariverjackson.com"
+   },
+   "role_zh": "设计师、艺术家",
+   "bio_zh": "用“互利共生”方法设计家具和物件，同时服务人和其他物种。",
+   "why_zh": "展示了产品设计如何为了给非人类留出空间而接受对人“不那么完美”。",
+   "based": "United States",
+   "based_zh": "美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "circa",
+   "name": "Circa (Ted Hunt)",
+   "kind": "studio",
+   "role": "Timekeeping design project by designer Ted Hunt",
+   "bio": "Circa makes solar and lunar watch faces and apps that replace clock time with the rhythms of the sun and moon.",
+   "why": "An example of redesigning a basic everyday tool, the clock, around natural cycles.",
+   "links": {
+    "site": "https://web.archive.org/web/2023/http://circa.bio/"
+   },
+   "role_zh": "设计师 Ted Hunt 的计时设计项目",
+   "bio_zh": "Circa 制作太阳与月亮表盘和 App，用日月节律取代钟表时间。",
+   "why_zh": "它围绕自然周期重新设计了钟表这一最基本的日常工具。",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "david-oreilly",
+   "name": "David OReilly",
+   "kind": "person",
+   "role": "Artist, animator and game designer",
+   "bio": "Irish artist known for the games Mountain and Everything and animation for Her.",
+   "why": "His game Everything lets players inhabit any entity, a playful form of decentering the human.",
+   "links": {
+    "site": "https://www.davidoreilly.com"
+   },
+   "role_zh": "艺术家、动画师、游戏设计师",
+   "bio_zh": "爱尔兰艺术家，作品包括游戏 Mountain、Everything，以及电影《Her》中的动画。",
+   "why_zh": "他的游戏 Everything 让玩家成为任何存在，是一种游戏化的“去人类中心”。",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "deep-time-walk",
+   "name": "Deep Time Walk",
+   "kind": "company",
+   "role": "Community interest company behind the Deep Time Walk app",
+   "bio": "A UK social enterprise, grown out of Schumacher College, that makes walking audio experiences of Earth's 4.6-billion-year history.",
+   "why": "Makes deep time tangible through walking, putting human history in planetary proportion.",
+   "links": {
+    "site": "https://www.deeptimewalk.org"
+   },
+   "role_zh": "Deep Time Walk App 背后的社区利益公司",
+   "bio_zh": "从舒马赫学院发展出来的英国社会企业，制作讲述地球 46 亿年历史的步行音频体验。",
+   "why_zh": "通过步行让深时间可感，把人类历史放回行星尺度。",
+   "based": "Totnes, UK",
+   "based_zh": "托特尼斯，英国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "francesca-valsecchi",
+   "name": "Francesca Valsecchi",
+   "kind": "person",
+   "role": "Associate Professor, College of Design and Innovation, Tongji University",
+   "bio": "Design researcher working on ecological soundscapes, oceans and more-than-human design.",
+   "why": "Her studio uses sound to foster human–nature interaction in urban China.",
+   "links": {},
+   "role_zh": "同济大学设计创意学院副教授",
+   "bio_zh": "设计研究者，关注生态声景、海洋与超越人类的设计。",
+   "why_zh": "她的工作室用声音促进中国城市中人与自然的互动。",
+   "based": "Shanghai, China",
+   "based_zh": "上海，中国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "giorgia-lupi",
+   "name": "Giorgia Lupi",
+   "kind": "person",
+   "role": "Information designer; partner at Pentagram",
+   "bio": "Italian information designer who co-founded Accurat and developed the idea of data humanism.",
+   "why": "Her hand-crafted data works make environmental change personal and readable.",
+   "links": {
+    "site": "http://giorgialupi.com"
+   },
+   "role_zh": "信息设计师，Pentagram 合伙人",
+   "bio_zh": "意大利信息设计师，Accurat 联合创始人，提出“数据人文主义”。",
+   "why_zh": "她手工感的数据作品让环境变化变得可读、与个人相关。",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "giulia-tomasello",
+   "name": "Giulia Tomasello",
+   "kind": "person",
+   "role": "Designer and researcher in biodesign and women's health",
+   "bio": "Italian designer whose Future Flora kit uses living bacteria for intimate care; STARTS Prize 2018 winner.",
+   "why": "Frames the human body as a microbial ecosystem to be cared for with, not against, microbes.",
+   "links": {
+    "site": "http://gitomasello.com"
+   },
+   "role_zh": "生物设计与女性健康方向的设计师、研究者",
+   "bio_zh": "意大利设计师，作品 Future Flora 用活细菌进行私密护理，获 2018 年 STARTS Prize。",
+   "why_zh": "把人体看作需要与微生物一起而不是对抗微生物来照护的生态系统。",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "herobeat-studios",
+   "name": "Herobeat Studios",
+   "kind": "studio",
+   "role": "Independent video game studio",
+   "bio": "Spanish studio that developed Endling: Extinction is Forever.",
+   "why": "Its game puts players in the body of an animal facing human-made extinction.",
+   "links": {
+    "site": "https://herobeatstudios.com"
+   },
+   "role_zh": "独立游戏工作室",
+   "bio_zh": "开发了《Endling: Extinction is Forever》的西班牙工作室。",
+   "why_zh": "他们的游戏让玩家成为一只面对人为灭绝的动物。",
+   "based": "Alicante, Spain",
+   "based_zh": "阿利坎特，西班牙",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "jane-tingley",
+   "name": "Jane Tingley",
+   "kind": "person",
+   "role": "Artist; Associate Professor, York University; director of SLOlab",
+   "bio": "Canadian artist who builds sensor networks and interactive installations about trees and forests.",
+   "why": "Her Foresta-Inclusive links living forests to galleries so their slow agency can be sensed.",
+   "links": {
+    "site": "https://janetingley.com"
+   },
+   "role_zh": "艺术家，约克大学副教授，SLOlab 主持人",
+   "bio_zh": "加拿大艺术家，搭建关于树木与森林的传感网络和互动装置。",
+   "why_zh": "她的 Foresta-Inclusive 把活着的森林与画廊相连，让人感知树木缓慢的能动性。",
+   "based": "Toronto, Canada",
+   "based_zh": "多伦多，加拿大",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "joaquin-fargas",
+   "name": "Joaquín Fargas",
+   "kind": "person",
+   "role": "Artist and engineer; director of Proyecto Biosfera",
+   "bio": "Argentine artist working across art, science and technology on climate and life, including sealed biospheres and Antarctic robots.",
+   "why": "His Glaciator robots work on behalf of a glacier rather than people.",
+   "links": {
+    "site": "https://www.joaquinfargas.com"
+   },
+   "role_zh": "艺术家、工程师，Proyecto Biosfera 负责人",
+   "bio_zh": "阿根廷艺术家，以艺术、科学与技术回应气候与生命议题，作品包括封闭生物圈和南极机器人。",
+   "why_zh": "他的 Glaciator 机器人为冰川而不是为人工作。",
+   "based": "Buenos Aires, Argentina",
+   "based_zh": "布宜诺斯艾利斯，阿根廷",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "marine-zorea",
+   "name": "Marine Zorea",
+   "kind": "person",
+   "role": "Sound designer and design researcher",
+   "bio": "Designs domestic soundscapes and sound interventions for homes and care settings.",
+   "why": "Her All Is Heard devices let outdoor life and birds shape the sound of the home.",
+   "links": {},
+   "role_zh": "声音设计师、设计研究者",
+   "bio_zh": "为家庭和照护场所设计家居声景与声音介入。",
+   "why_zh": "她的 All Is Heard 系列让户外生命和鸟类参与塑造家的声音。",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "matilde-boelhouwer",
+   "name": "Matilde Boelhouwer",
+   "kind": "person",
+   "role": "Designer; founder of Atelier Boelhouwer",
+   "bio": "Dutch designer who creates products for insects, notably artificial flowers for urban pollinators.",
+   "why": "Treats insects as the users of design.",
+   "links": {
+    "site": "https://www.matildeboelhouwer.com"
+   },
+   "role_zh": "设计师，Atelier Boelhouwer 创始人",
+   "bio_zh": "荷兰设计师，为昆虫设计产品，代表作是为城市传粉者做的人造花。",
+   "why_zh": "把昆虫当作设计的使用者。",
+   "based": "Utrecht, Netherlands",
+   "based_zh": "乌得勒支，荷兰",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "michaela-honauer",
+   "name": "Michaela Honauer",
+   "kind": "person",
+   "role": "Design researcher in e-textiles and child–computer interaction",
+   "bio": "Researches wearable and textile interfaces for play, performance and learning.",
+   "why": "Treesense lets children take a tree's perspective through embodied play.",
+   "links": {},
+   "role_zh": "电子纺织与儿童交互方向的设计研究者",
+   "bio_zh": "研究用于游戏、表演和学习的可穿戴与纺织界面。",
+   "why_zh": "Treesense 让孩子通过身体游戏体会树的视角。",
+   "based": "Germany",
+   "based_zh": "德国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "mischer-traxler",
+   "name": "mischer'traxler studio",
+   "kind": "studio",
+   "role": "Design studio of Katharina Mischer and Thomas Traxler",
+   "bio": "Austrian studio known for process-driven machines and installations about nature and biodiversity, such as The Idea of a Tree and Curiosity Cloud.",
+   "why": "Its work lets natural inputs such as sunlight co-author objects.",
+   "links": {
+    "site": "https://mischertraxler.com"
+   },
+   "role_zh": "Katharina Mischer 与 Thomas Traxler 的设计工作室",
+   "bio_zh": "奥地利工作室，以关注自然与生物多样性的过程机器和装置著称，如 The Idea of a Tree 和 Curiosity Cloud。",
+   "why_zh": "他们的作品让阳光等自然输入共同“书写”物件。",
+   "based": "Vienna, Austria",
+   "based_zh": "维也纳，奥地利",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "miya-masaoka",
+   "name": "Miya Masaoka",
+   "kind": "person",
+   "role": "Composer, koto player and sound artist; Professor at Columbia University",
+   "bio": "American composer who has made works with plants, insects and biofeedback since the 1990s.",
+   "why": "An early artist treating plants and insects as musical collaborators.",
+   "links": {
+    "site": "https://miyamasaoka.com"
+   },
+   "role_zh": "作曲家、古筝演奏者、声音艺术家，哥伦比亚大学教授",
+   "bio_zh": "美国作曲家，自 1990 年代起以植物、昆虫和生物反馈创作。",
+   "why_zh": "较早把植物和昆虫当作音乐合作者的艺术家。",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "petpace",
+   "name": "PetPace",
+   "kind": "company",
+   "role": "Pet health-monitoring company",
+   "bio": "Makes a sensor collar that monitors dogs' and cats' vital signs and reports to owners and vets.",
+   "why": "A commercial example of making an animal's bodily state legible to humans.",
+   "links": {
+    "site": "https://petpace.com"
+   },
+   "role_zh": "宠物健康监测公司",
+   "bio_zh": "生产监测猫狗体征、向主人和兽医报告的传感项圈。",
+   "why_zh": "让动物身体状态对人可读的商业案例。",
+   "based": "Burlington, US",
+   "based_zh": "伯灵顿，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "scott-thrift",
+   "name": "Scott Thrift",
+   "kind": "person",
+   "role": "Artist, filmmaker and designer of The Present",
+   "bio": "American artist who designs timepieces that show slower scales of time, such as a clock that turns once a year.",
+   "why": "Reorients everyday timekeeping toward seasons and natural cycles.",
+   "links": {
+    "site": "https://thepresent.is"
+   },
+   "role_zh": "艺术家、电影人，The Present 的设计者",
+   "bio_zh": "美国艺术家，设计展示更慢时间尺度的计时器，比如一年转一圈的钟。",
+   "why_zh": "把日常计时重新导向季节和自然周期。",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "thijs-biersteker",
+   "name": "Thijs Biersteker",
+   "kind": "person",
+   "role": "Artist; founder of Woven Studio",
+   "bio": "Dutch 'eco-artist' who turns scientific data on climate, pollution and plants into real-time installations.",
+   "why": "Gives trees and ecosystems a visible voice through live data.",
+   "links": {
+    "site": "https://thijsbiersteker.com"
+   },
+   "role_zh": "艺术家，Woven Studio 创始人",
+   "bio_zh": "荷兰“生态艺术家”，把气候、污染和植物的科学数据做成实时装置。",
+   "why_zh": "通过实时数据让树木和生态系统发出看得见的声音。",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "zhenchi-lai",
+   "name": "Zhenchi Lai",
+   "kind": "person",
+   "role": "Design researcher, National Taiwan University of Science and Technology",
+   "bio": "Researches AI tools for human–cat relationships.",
+   "why": "AI Cat Narrator uses language models to imagine a cat's view of the shared home.",
+   "links": {},
+   "role_zh": "台湾科技大学设计研究者",
+   "bio_zh": "研究面向人与猫关系的 AI 工具。",
+   "why_zh": "AI Cat Narrator 用语言模型想象猫眼中的共同家园。",
+   "based": "Taipei, Taiwan",
+   "based_zh": "台北，中国台湾",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  },
+  {
+   "id": "zoe-qi-jing-li",
+   "name": "Zoe Qi-Jing Li",
+   "kind": "person",
+   "role": "Artist and researcher, Hong Kong University of Science and Technology (Guangzhou)",
+   "bio": "Makes computational artworks that couple human expression with natural phenomena such as moonlight.",
+   "why": "Her moon piece hands part of the making to a celestial rhythm.",
+   "links": {},
+   "role_zh": "香港科技大学（广州）艺术家、研究者",
+   "bio_zh": "创作把人的表达与月光等自然现象结合起来的计算艺术。",
+   "why_zh": "她的月亮作品把一部分创作交给天体节律。",
+   "based": "Guangzhou, China",
+   "based_zh": "广州，中国",
+   "connected_to": [],
+   "discovered_via": "madlen-kneile"
+  }
+ ],
+ "works": [
+  {
+   "id": "madlen-kneile--post-anthropocentric-artifacts",
+   "creator_ids": [
+    "madlen-kneile",
+    "judith-dorrenbacher",
+    "marc-hassenzahl",
+    "matthias-laschke"
+   ],
+   "title": "Mediating Human–Nature Relations through Technology: A Scoping Review of Post-Anthropocentric Artifacts and Their Design Strategies",
+   "year": 2025,
+   "field": "hni",
+   "sub": "hni-theory",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "paper",
+   "description": "A PRISMA-ScR scoping review of 53 HCI and design papers that extracts 114 artifacts bringing humans and nature into contact, sorts them into seven design strategies in three focus areas, and publishes all of them in an online Artifact Archive.",
+   "description_zh": "一篇遵循 PRISMA-ScR 的范围综述：从 53 篇 HCI 与设计论文中提取出 114 件让人与自然发生接触的作品，按三大关注领域下的七种设计策略归类，并把全部作品放进在线的 Artifact Archive。",
+   "idea_en": "Most post-anthropocentric artifacts still serve human agency; the open space is designing artifacts that let nature intrude on, and gain power over, human routines.",
+   "idea_zh": "多数后人类中心主义作品仍在服务人的能动性；尚待开拓的是让自然能够介入、甚至掌控人类日常的设计。",
+   "method": "Keyword search of the ACM and DRS digital libraries plus reference checks, then clustering of artifact fact sheets by design strategy (revealing and recognizing, exploring, exchanging and expressing, sharing common livelihoods, intertwining spaces, intruding, empowering), human–technology relation, artifact type and entity of nature.",
+   "method_zh": "在 ACM 与 DRS 数字图书馆做关键词检索并追溯参考文献，再把作品资料卡按设计策略（揭示与识别、探索、交流与表达、共享生计、交织空间、闯入、赋权）、人-技术关系、作品类型和自然实体进行聚类。",
+   "keywords": [
+    "scoping review",
+    "post-anthropocentric design",
+    "human–nature relations",
+    "design strategies",
+    "Artifact Archive",
+    "PRISMA-ScR",
+    "postphenomenology",
+    "TOCHI"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png",
+    "https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3743674",
+    "doi": "10.1145/3743674",
+    "arxiv": "",
+    "venue": "ACM TOCHI 2025",
+    "title": "Mediating Human–Nature Relations through Technology: A Scoping Review of Post-Anthropocentric Artifacts and Their Design Strategies"
+   },
+   "source_url": "https://artifact-archive.org",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "raune-frankjaer--flora-luma",
+   "creator_ids": [
+    "raune-frankjaer"
+   ],
+   "title": "Flora Luma",
+   "year": 2016,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Glowing fibre-optic domes set among garden plants light up in response to the plants' electrical signals, which change when visitors touch or approach them.",
+   "description_zh": "花园植物之间放置着光纤发光圆罩，它们随植物的电信号亮起；访客触摸或靠近植物时，信号和灯光随之变化。",
+   "idea_en": "Let people see their own effect on a plant through light.",
+   "idea_zh": "用光让人看见自己对植物产生的影响。",
+   "method": "Electrodes pick up plant bioelectric responses to touch and proximity and drive LEDs in woven fibre-optic sculptures; built as a participatory design exhibit.",
+   "method_zh": "电极采集植物对触摸和接近的生物电反应，驱动光纤编织雕塑里的 LED；作为参与式设计展项展出。",
+   "keywords": [
+    "plant bioelectricity",
+    "fibre optics",
+    "participatory design",
+    "PDC",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png",
+    "https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2948076.2948115",
+    "venue": "PDC 2016",
+    "title": "Flora luma: a research-oriented artistic exploration of human-vegetal participatory space",
+    "doi": "10.1145/2948076.2948115"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "tega-brain--phenology-clock",
+   "creator_ids": [
+    "tega-brain",
+    "natalie-jeremijenko"
+   ],
+   "title": "Phenology Wall Clock (Sydney)",
+   "year": 2012,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Modified wall clocks whose faces show when local species in Sydney and New York flower, fruit, migrate or breed, so a year is read as a cycle of ecological events.",
+   "description_zh": "改装的挂钟，表盘上标出悉尼和纽约本地物种开花、结果、迁徙和繁殖的时间，让一年被读作一轮生态事件的循环。",
+   "idea_en": "Replace hours with the life cycles of the species around you.",
+   "idea_zh": "用身边物种的生命周期代替钟点。",
+   "method": "Phenology observations for an urban ecosystem are plotted on a rotating annual clock face; part of Natalie Jeremijenko's Phenology Clock project at the Environmental Health Clinic.",
+   "method_zh": "把城市生态系统的物候观测数据绘在按年旋转的钟面上；属于 Natalie Jeremijenko 在 Environmental Health Clinic 发起的 Phenology Clock 项目。",
+   "keywords": [
+    "phenology",
+    "ecological time",
+    "clock",
+    "Sydney",
+    "New York",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://freight.cargo.site/t/original/i/96d55b21e4065708d8b77dfbd65244189546091f628de1074d9492c692d04b94/sydney_o.jpg",
+    "https://freight.cargo.site/t/original/i/59526d0d7fea6a3f7c53c75b912c5c9bc287b3d0a98456607bfbe919a6860352/clocks_o.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025948",
+    "venue": "CHI 2017",
+    "title": "Designing for Cohabitation: Naturecultures, Hybrids, and Decentering the Human in Design",
+    "doi": "10.1145/3025453.3025948"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "nancy-smith--animal-crossing",
+   "creator_ids": [
+    "nancy-smith"
+   ],
+   "title": "Animal Crossing (wildlife overpass)",
+   "year": 2017,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A wildlife bridge over a highway, discussed by Smith, Bardzell and Bardzell, lets animals cross roads safely while human traffic below carries on unchanged.",
+   "description_zh": "一座横跨公路的野生动物桥（Smith、Bardzell 与 Bardzell 在论文中讨论的例子），让动物安全过路，而下方人类交通照常通行。",
+   "idea_en": "Coexistence by separation: give animals their own route instead of changing human routines.",
+   "idea_zh": "以分隔实现共存：给动物一条自己的路，而不改变人的日常。",
+   "method": "Vegetated overpasses and fencing guide animals over roads; the review uses it as an example of designing separate spaces that avoid encounters.",
+   "method_zh": "用覆盖植被的天桥和围栏引导动物越过公路；综述把它作为“设计分隔空间、避免相遇”的例子。",
+   "keywords": [
+    "wildlife crossing",
+    "infrastructure",
+    "cohabitation",
+    "Banff",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3025453.3025948",
+    "venue": "CHI 2017",
+    "title": "Designing for Cohabitation: Naturecultures, Hybrids, and Decentering the Human in Design",
+    "doi": "10.1145/3025453.3025948"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "patricia-flanagan--rewilding-wearables",
+   "creator_ids": [
+    "patricia-flanagan",
+    "raune-frankjaer"
+   ],
+   "title": "Rewilding Wearables (Cyborganic BW-V2)",
+   "year": 2018,
+   "field": "hni",
+   "sub": "umwelt",
+   "organisms": [
+    "insects",
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A woven bamboo headpiece with sensors and actuators is worn on walks through rewilded land and nudges the wearer toward insect-friendly spots, as if seeing the place through an insect's senses.",
+   "description_zh": "一件带传感器和执行器的竹编头饰，佩戴者在再野化的土地上行走时，它会把人引向对昆虫友好的地方，仿佛透过昆虫的感官看这片土地。",
+   "idea_en": "A prosthetic head that makes you perceive a landscape as an insect might.",
+   "idea_zh": "一个让人像昆虫那样感知景观的“义肢头”。",
+   "method": "'Cyborganic' device crafted from bamboo and electronics that seems to act on its own; tested in guided walks in Aarhus green spaces.",
+   "method_zh": "由竹子和电子元件手工制成、看似有自主行为的“cyborganic”装置；在奥胡斯绿地中通过引导式行走进行测试。",
+   "keywords": [
+    "wearable",
+    "rewilding",
+    "insects",
+    "cyborganic",
+    "TEI",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg",
+    "https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3173225.3173316",
+    "venue": "TEI 2018",
+    "title": "Rewilding Wearables: Sympoeitic Interfaces for Empathic Experience of Other-than-human Entities",
+    "doi": "10.1145/3173225.3173316"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "interactive-architecture-lab--hortum-machina-b",
+   "creator_ids": [
+    "interactive-architecture-lab"
+   ],
+   "title": "Hortum machina, B",
+   "year": 2015,
+   "field": "biohybrid",
+   "sub": "plant-interfaces",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A three-metre geodesic sphere holding twelve garden modules rolls through the city, steered by the electrical responses of the plants on board, which 'vote' to move toward sun or shade.",
+   "description_zh": "一个直径三米、装有十二个花园模块的网格球体在城市中滚动，由球上植物的电反应驾驶：植物“投票”决定滚向阳光还是阴凉。",
+   "idea_en": "Give a garden a body and let the plants decide where it goes.",
+   "idea_zh": "给花园一个身体，让植物决定去哪里。",
+   "method": "Electrodes read plant electrophysiology; a robotic core shifts the sphere's centre of gravity according to the plants' collective responses.",
+   "method_zh": "电极读取植物电生理信号；机器人核心根据植物的集体反应移动球体重心，使其滚动。",
+   "keywords": [
+    "plant-robot hybrid",
+    "Bartlett",
+    "reEarth",
+    "STARTS Prize 2016",
+    "Kneile 2025: empowering",
+    "Kneile 2025: nature's agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=8Qk3BeolyiA"
+   },
+   "images": [
+    "https://ars.electronica.art/starts-prize/files/2016/06/hortummachina.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3469410.3469419",
+    "venue": "MAB 2020",
+    "title": "Plant(e)tecture: Towards a Multispecies Media Architecture Framework for amplifying Plant Agencies",
+    "doi": "10.1145/3469410.3469419"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "margrete-lodahl-rolighed--plant-radio",
+   "creator_ids": [
+    "margrete-lodahl-rolighed",
+    "lone-koefoed-hansen"
+   ],
+   "title": "Plant Radio",
+   "year": 2022,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A radio-like box amplifies a houseplant's electrical signals into sound; it deliberately has no off switch, so the plant keeps sounding into the household's day and night.",
+   "description_zh": "一个像收音机的盒子把室内植物的电信号放大成声音；它刻意没有关机键，于是植物的声音会一直进入家人的白天和夜晚。",
+   "idea_en": "Remove the power button and the plant gets a permanent voice in the home.",
+   "idea_zh": "拿掉电源键，植物就在家里拥有了一直在场的声音。",
+   "method": "Electrodes pick up the plant's EMG-like signals, which are amplified and played through a speaker styled as a broadcast receiver; informed by mediation theory.",
+   "method_zh": "电极采集植物类似肌电的信号，放大后由外形像广播接收机的扬声器播放；设计以中介理论为依据。",
+   "keywords": [
+    "plant sonification",
+    "posthumanism",
+    "mediation theory",
+    "DIS",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Uabjy9_hhH4"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3532106.3533517",
+    "venue": "DIS 2022",
+    "title": "Plant Radio: Tuning in to plants by combining posthumanism and design",
+    "doi": "10.1145/3532106.3533517"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "jaz-hee-jeong-choi--feral-map",
+   "creator_ids": [
+    "jaz-hee-jeong-choi",
+    "marketa-dolejsova"
+   ],
+   "title": "Feral Map",
+   "year": 2022,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems",
+    "plants",
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "An online map of forest stories, creatures and impressions gathered on Open Forest walks, browsed without a fixed structure so that unexpected links between forest beings appear.",
+   "description_zh": "一张在线地图，收集 Open Forest 行走中记录的森林故事、生物与印象；没有固定浏览结构，森林生命之间意想不到的联系因此浮现。",
+   "idea_en": "Map a forest through stories rather than timber volumes.",
+   "idea_zh": "用故事而不是木材蓄积量来绘制森林。",
+   "method": "Participants walk local forests, record observations and co-write stories from forest creatures' perspectives, which are posted to a non-hierarchical web map.",
+   "method_zh": "参与者走进当地森林，记录观察，并以森林生物的视角共同写故事，再发布到一张非层级的网页地图上。",
+   "keywords": [
+    "Open Forest",
+    "More-than-Human Dérive",
+    "forest data",
+    "walking-with",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3537797.3537864",
+    "venue": "PDC 2022",
+    "title": "Open Forest: Data, Stories, and Walking-With",
+    "doi": "10.1145/3537797.3537864"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "patricia-ciobanu--me-the-hill-and-my-browser",
+   "creator_ids": [
+    "patricia-ciobanu"
+   ],
+   "title": "Me, the Hill and my Browser",
+   "year": 2022,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "Sensors on a hill near Stockholm feed a browser extension that alters the look of the websites the designer visits as moisture, light and temperature change outside, sometimes making pages hard to read.",
+   "description_zh": "斯德哥尔摩附近一座山丘上的传感器连到一个浏览器插件，随着室外湿度、光线和温度变化改变设计者所访问网站的外观，有时让网页难以阅读。",
+   "idea_en": "Let slow natural change leak into fast screen time.",
+   "idea_zh": "让自然的缓慢变化渗入快节奏的屏幕时间。",
+   "method": "Humidity, temperature, light and soil-moisture sensors stream to a browser plug-in; studied through autobiographical design and think-aloud walks on the hill.",
+   "method_zh": "湿度、温度、光照和土壤湿度传感器把数据传给浏览器插件；通过自传式设计和在山丘上的出声思考行走进行研究。",
+   "keywords": [
+    "temporality",
+    "browser extension",
+    "environmental sensing",
+    "autobiographical design",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3546155.3546651",
+    "venue": "NordiCHI 2022",
+    "title": "Me, the Hill and My Browser – Investigating the Role of Time in Posthuman Interaction",
+    "doi": "10.1145/3546155.3546651"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "dean-brown--nature-scenes",
+   "creator_ids": [
+    "dean-brown"
+   ],
+   "title": "Nature Scenes",
+   "year": 2019,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "animals",
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "Outdoor shelters and feeding stations for urban birds and insects in London's Brompton Design District, whose cameras capture animal moments that are then shown to people in public places such as a bar.",
+   "description_zh": "设在伦敦 Brompton Design District 的城市鸟类与昆虫庇护所和喂食站，内置相机捕捉动物瞬间，再在酒吧等公共场所播放给人看。",
+   "idea_en": "Design one object for two audiences: the animals who use it and the people who watch.",
+   "idea_zh": "为两类使用者设计同一件物品：使用它的动物和观看的人。",
+   "method": "Interaction Research Studio designed and deployed shelters with feeders and cameras for London Design Festival 2019; images are relayed to screens in nearby venues.",
+   "method_zh": "Interaction Research Studio 为 2019 年伦敦设计节设计并部署带喂食器和相机的庇护所，影像传到附近场所的屏幕上。",
+   "keywords": [
+    "Interaction Research Studio",
+    "London Design Festival",
+    "urban wildlife",
+    "post-human computer interaction",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3569009.3572802",
+    "venue": "TEI 2023",
+    "title": "A Practice-Based Approach to Post-Human Computer Interaction: Design Notes from Nature Scenes",
+    "doi": "10.1145/3569009.3572802"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "judith-doyle--avian-attractor",
+   "creator_ids": [
+    "judith-doyle"
+   ],
+   "title": "Avian Attractor",
+   "year": 2016,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An interactive installation that blends recorded images and video of birds with live camera footage of visitors, producing abstract composite scenes where birds and humans share one image.",
+   "description_zh": "一件交互装置，把鸟的录像和图片与访客的实时影像融合，生成鸟与人共处同一画面的抽象合成场景。",
+   "idea_en": "Put human and bird movement into the same frame to suggest kinship.",
+   "idea_zh": "把人和鸟的动作放进同一画面，暗示彼此的亲缘。",
+   "method": "Live video of visitors is composited in real time with archival bird footage; shown in the CHI 2016 interactivity programme.",
+   "method_zh": "访客的实时视频与鸟类影像资料实时合成；在 CHI 2016 交互展区展出。",
+   "keywords": [
+    "birds",
+    "video installation",
+    "CHI Interactivity",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/2851581.2891093",
+    "venue": "CHI 2016 EA",
+    "title": "Avian Attractor",
+    "doi": "10.1145/2851581.2891093"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "studio-roosegaarde--waterlicht",
+   "creator_ids": [
+    "studio-roosegaarde"
+   ],
+   "title": "Waterlicht",
+   "year": 2015,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Waving lines of blue LED light and lenses flood a public square after dark, showing how high the water could rise without Dutch dikes; visitors walk beneath the virtual sea level.",
+   "description_zh": "夜晚，波动的蓝色 LED 光线与透镜“淹没”一座公共广场，显示若没有荷兰的堤坝水位会涨多高；访客在虚拟海平面之下行走。",
+   "idea_en": "Make an abstract flood risk into a sea level you can stand under.",
+   "idea_zh": "把抽象的洪水风险变成一条可以站在其下的海平面。",
+   "method": "Software-controlled LEDs and lenses project layered light lines at a set height; toured to Westervoort, Amsterdam Museumplein, New York and elsewhere.",
+   "method_zh": "由软件控制的 LED 和透镜在设定高度投出层叠光线；先后在 Westervoort、阿姆斯特丹博物馆广场、纽约等地展出。",
+   "keywords": [
+    "sea-level rise",
+    "light installation",
+    "public space",
+    "Netherlands",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=LWzPm_ponkI"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp",
+    "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66c2e02fe9d04908dc6d1f24_8MAIN_Waterlicht_Roosegaarde_Loevestein_%40Daniel_result_new.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "venue": "MAB 2018",
+    "title": "More-than-Human Media Architecture",
+    "doi": "10.1145/3284389.3284495"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "studio-roosegaarde--glowing-nature",
+   "creator_ids": [
+    "studio-roosegaarde"
+   ],
+   "title": "Glowing Nature",
+   "year": 2017,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "algae",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A darkened space whose floor is covered with living bioluminescent algae that flash blue light wherever visitors step or press.",
+   "description_zh": "在暗下来的空间里，地面铺满活的生物发光藻类；访客踩到或按压的地方，就会闪出蓝光。",
+   "idea_en": "Imagine lighting that lives and answers your touch.",
+   "idea_zh": "想象一种活着、会回应触碰的照明。",
+   "method": "Dinoflagellate algae that emit light under mechanical stress are kept in transparent containers on the floor; shown at Museum De Lakenhal, Leiden, and elsewhere.",
+   "method_zh": "把受机械刺激就会发光的甲藻养在地面的透明容器里；曾在莱顿 De Lakenhal 博物馆等地展出。",
+   "keywords": [
+    "bioluminescence",
+    "dinoflagellates",
+    "living light",
+    "installation",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kZsNPzdNv8U"
+   },
+   "images": [
+    "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff64ca6e352a6547779_GLOWING%20NATURE%20ROOSEGAARDE%2001_new.webp",
+    "https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cd6ff568b0455145891497_GLOWING%20NATURE%20ROOSEGAARDE%2005_new.webp"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "venue": "MAB 2018",
+    "title": "More-than-Human Media Architecture",
+    "doi": "10.1145/3284389.3284495"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "resorts-world-sentosa--sea-aquarium",
+   "creator_ids": [
+    "resorts-world-sentosa"
+   ],
+   "title": "S.E.A. Aquarium",
+   "year": 2012,
+   "field": "aci",
+   "sub": "enrichment",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A large public aquarium in Singapore that recreates marine habitats with tailored lighting and water systems, so people meet sea life through glass while the two worlds stay apart.",
+   "description_zh": "新加坡一座大型公共水族馆，用定制的照明和水体系统复现海洋栖息地；人隔着玻璃与海洋生物相遇，两个世界仍然分开。",
+   "idea_en": "A designed habitat can host encounters without sharing space.",
+   "idea_zh": "设计出的栖息地可以促成相遇，却不共享空间。",
+   "method": "Artificial marine habitats with lighting that mimics natural conditions; cited by Foth and Caldwell as media architecture that addresses nonhuman inhabitants.",
+   "method_zh": "用模拟自然光照的人工海洋栖息地；Foth 与 Caldwell 把它列为面向非人居民的媒体建筑案例。",
+   "keywords": [
+    "aquarium",
+    "marine life",
+    "Singapore",
+    "media architecture",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg/1920px-Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg",
+    "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "venue": "MAB 2018",
+    "title": "More-than-Human Media Architecture",
+    "doi": "10.1145/3284389.3284495"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ]
+  },
+  {
+   "id": "marcus-foth--nest-box",
+   "creator_ids": [
+    "marcus-foth"
+   ],
+   "title": "Nest Box",
+   "year": 2018,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A wooden nest box fixed to a house gives a possum or bird a protected home inside the human world, with few points of contact and little change to human space.",
+   "description_zh": "固定在房屋上的木制巢箱，为负鼠或鸟在人类世界里提供一个受保护的家；与人的接触点很少，对人的空间改变也很小。",
+   "idea_en": "The simplest multispecies architecture: a box that makes room for another species.",
+   "idea_zh": "最简单的多物种建筑：一个为别的物种腾出空间的盒子。",
+   "method": "A standard nest box installed on a building; Foth and Caldwell use it to contrast low-tech habitat provision with media-heavy architecture.",
+   "method_zh": "在建筑上安装普通巢箱；Foth 与 Caldwell 用它对比低技术的栖息地供给和重媒体的建筑。",
+   "keywords": [
+    "nest box",
+    "urban wildlife",
+    "possum",
+    "media architecture",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "venue": "MAB 2018",
+    "title": "More-than-Human Media Architecture",
+    "doi": "10.1145/3284389.3284495"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "marcus-foth--firefly-sign",
+   "creator_ids": [
+    "marcus-foth"
+   ],
+   "title": "Firefly Sign (street lighting switched off for glow worms)",
+   "year": 2018,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "product",
+   "description": "A roadside sign announces that street lights on a path are switched off from May to September so glow worms can find mates; people cycling or walking there at night must adapt.",
+   "description_zh": "路边的告示牌说明：五月至九月某条小路的路灯会关闭，好让萤火虫找到配偶；夜里在那里骑车或步行的人需要自己适应。",
+   "idea_en": "Sometimes the design move for other species is to turn technology off.",
+   "idea_zh": "有时，为其他物种所做的设计就是关掉技术。",
+   "method": "A council policy of dimming street lights in breeding season, communicated by signage in South Gloucestershire, UK; cited by Foth and Caldwell.",
+   "method_zh": "英国南格洛斯特郡在繁殖季关闭路灯的政策，并以告示牌向公众说明；Foth 与 Caldwell 引用了这一案例。",
+   "keywords": [
+    "glow worms",
+    "light pollution",
+    "street lighting",
+    "signage",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3284389.3284495",
+    "venue": "MAB 2018",
+    "title": "More-than-Human Media Architecture",
+    "doi": "10.1145/3284389.3284495"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "aci",
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "prophecy-sun--mothering-bacteria",
+   "creator_ids": [
+    "prophecy-sun"
+   ],
+   "title": "Mothering Bacteria",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An installation that links a female body to bacteria grown from it: projected time-lapse images and sound follow the microbes' growth while visitors watch.",
+   "description_zh": "一件装置，把女性身体与从中培养出的细菌连在一起：投影的延时影像和声音跟随微生物的生长，访客在一旁观看。",
+   "idea_en": "The body as an interface that hosts and 'mothers' other life.",
+   "idea_zh": "把身体看作承载并“孕育”其他生命的界面。",
+   "method": "Bacteria sampled from the artist's body are cultured and filmed; the growth is rendered as video and sound in a performative exhibition shown at Creativity & Cognition 2019.",
+   "method_zh": "从艺术家身体取样的细菌被培养并拍摄，其生长被转成影像与声音，在 2019 年 Creativity & Cognition 的展演中呈现。",
+   "keywords": [
+    "microbiome",
+    "maternal body",
+    "Wolbachia",
+    "sound",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1030/i/0628c89dccbcfd87fce26815139587bdd0ca155613e2ac0280f92bda9d46448f/mothering-bacteria-1.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3325480.3329173",
+    "venue": "C&C 2019",
+    "title": "Mothering Bacteria: A Speculative Forecast of the Body as an Interface",
+    "doi": "10.1145/3325480.3329173"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "gerd-geleff-nielsen--symbiotic-breather",
+   "creator_ids": [
+    "gerd-geleff-nielsen"
+   ],
+   "title": "Symbiotic Breather",
+   "year": 2021,
+   "field": "bio",
+   "sub": "biotextiles",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "fungi",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A face mask of grown biomaterial protects the wearer from airborne viruses and bacteria while living microbes in it feed on the moist air the wearer breathes out.",
+   "description_zh": "一副由生长型生物材料制成的口罩，为佩戴者阻挡空气中的病毒和细菌；口罩里的活微生物则以佩戴者呼出的湿润空气为养分。",
+   "idea_en": "Protection as mutual care: the mask that shields you is also fed by you.",
+   "idea_zh": "防护即互相照护：保护你的口罩也靠你喂养。",
+   "method": "Speculative wearable made from microbially grown material (likely kombucha-type cellulose), designed around the immune system and chronic stress.",
+   "method_zh": "用微生物生长的材料（很可能是红茶菌类纤维素）制作的思辨性可穿戴物，围绕免疫系统和慢性压力设计。",
+   "keywords": [
+    "immune system",
+    "mask",
+    "biomaterial",
+    "wearable",
+    "ARTECH",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure1-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3483529.3483726",
+    "venue": "ARTECH 2021",
+    "title": "Designing with the Immune System: The Abject, Bodily Fluids, and Micro(be) Interactions",
+    "doi": "10.1145/3483529.3483726"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "gerd-geleff-nielsen--stress-monitor",
+   "creator_ids": [
+    "gerd-geleff-nielsen"
+   ],
+   "title": "Stress Monitor",
+   "year": 2021,
+   "field": "bio",
+   "sub": "biotextiles",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "plants",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "A living wearable whose organisms react to the wearer's stress hormones, so looking after the living material also means looking after oneself.",
+   "description_zh": "一件活的可穿戴物，其中的生物会对佩戴者的压力激素作出反应；照料这份活材料，也就是在照料自己。",
+   "idea_en": "A stress tracker that works through shared biology instead of numbers.",
+   "idea_zh": "一个靠共同的生物基础而不是数字来运作的压力追踪器。",
+   "method": "Speculative bracelet and shoulder pieces hosting moss and microbes that respond to bodily fluids; a counter-design to data-driven stress trackers.",
+   "method_zh": "思辨性的手环和肩饰，里面承载会对体液作出反应的苔藓和微生物；是对数据驱动压力追踪器的反向设计。",
+   "keywords": [
+    "stress",
+    "immune system",
+    "moss",
+    "wearable tracker",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/301eab72e3210f1db24aa3eebf40d33ba5959b05/3-Figure2-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3483529.3483726",
+    "venue": "ARTECH 2021",
+    "title": "Designing with the Immune System: The Abject, Bodily Fluids, and Micro(be) Interactions",
+    "doi": "10.1145/3483529.3483726"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "nadia-campo-woytuk--biomenstrual-collecting",
+   "creator_ids": [
+    "nadia-campo-woytuk"
+   ],
+   "title": "Biomenstrual, Collecting",
+   "year": 2023,
+   "field": "hni",
+   "sub": "gardening",
+   "also": [
+    "bio",
+    "mth"
+   ],
+   "organisms": [
+    "humans",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Hand-made tools for collecting and storing menstrual blood so it can be diluted and fed to plants, recasting menstruation as part of a shared human-soil-plant livelihood.",
+   "description_zh": "手工制作的工具，用来收集和储存经血，再稀释后浇灌植物，把月经重新看作人、土壤与植物共同生计的一部分。",
+   "idea_en": "Menstrual blood as a nutrient for other species, not waste.",
+   "idea_zh": "经血是其他物种的养分，而不是废物。",
+   "method": "Designed through first-person, feminist posthumanist research; collection vessels and pads made from biomaterials and ceramics, documented in the Biomenstrual project.",
+   "method_zh": "通过第一人称、女性主义后人类研究进行设计；用生物材料和陶瓷制作收集容器与护垫，记录在 Biomenstrual 项目中。",
+   "keywords": [
+    "menstruation",
+    "feminist HCI",
+    "Biomenstrual",
+    "soil",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=r9TaL5jPR50"
+   },
+   "images": [
+    "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581083",
+    "venue": "CHI 2023",
+    "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies",
+    "doi": "10.1145/3544548.3581083"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "nadia-campo-woytuk--biomenstrual-composting",
+   "creator_ids": [
+    "nadia-campo-woytuk"
+   ],
+   "title": "Biomenstrual, Composting",
+   "year": 2023,
+   "field": "hni",
+   "sub": "gardening",
+   "also": [
+    "bio",
+    "mth"
+   ],
+   "organisms": [
+    "humans",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Biodegradable menstrual pads embedded with seeds are worn and then buried, returning human nutrients and seeds to the earth so plants grow from them.",
+   "description_zh": "嵌有种子的可降解月经护垫，使用后被埋入土中，把人体的养分和种子还给大地，让植物从中长出。",
+   "idea_en": "A pad designed for its afterlife in the soil.",
+   "idea_zh": "为其在土壤中的“来世”而设计的护垫。",
+   "method": "Pads made from grown and plant-based biomaterials with seeds, tested in first-person use and garden burial.",
+   "method_zh": "用生长型与植物基生物材料加种子制成护垫，通过第一人称使用和埋入花园进行测试。",
+   "keywords": [
+    "menstrual pads",
+    "compost",
+    "seeds",
+    "biomaterials",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png",
+    "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581083",
+    "venue": "CHI 2023",
+    "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies",
+    "doi": "10.1145/3544548.3581083"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "geertje-slingerland--garden-planner",
+   "creator_ids": [
+    "geertje-slingerland"
+   ],
+   "title": "Garden Planner",
+   "year": 2023,
+   "field": "hni",
+   "sub": "gardening",
+   "organisms": [
+    "plants",
+    "insects",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A web tool that suggests plants suited to a garden's size and soil, steering residents' planting toward biodiversity and pollinators.",
+   "description_zh": "一个网页工具，根据花园大小和土壤推荐合适的植物，把居民的种植引向生物多样性和传粉昆虫。",
+   "idea_en": "A planning tool that argues on behalf of the garden's biodiversity.",
+   "idea_zh": "一个替花园的生物多样性说话的规划工具。",
+   "method": "Residents enter garden dimensions and soil conditions; the planner recommends plant species and layouts, developed within the BULL approach.",
+   "method_zh": "居民输入花园尺寸和土壤条件，规划器推荐植物种类和布局；在 BULL 方法框架内开发。",
+   "keywords": [
+    "garden planning",
+    "biodiversity",
+    "urban living lab",
+    "citizen sensing",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3593743.3593753",
+    "venue": "C&T 2023",
+    "title": "Beyond human sensors: More-than-human Citizen Sensing in biodiversity Urban Living Labs",
+    "doi": "10.1145/3593743.3593753"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "geertje-slingerland--opportunity-map",
+   "creator_ids": [
+    "geertje-slingerland"
+   ],
+   "title": "Opportunity Map",
+   "year": 2023,
+   "field": "hni",
+   "sub": "citizen-science",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "prototype",
+   "description": "A large street map with transparent overlays on which residents mark where their neighbourhood could be made greener and more biodiverse.",
+   "description_zh": "一张大尺寸街区地图，配有透明叠加层，居民在上面标出社区里可以变得更绿、更具生物多样性的地方。",
+   "idea_en": "Read your street with a biodiversity lens.",
+   "idea_zh": "用生物多样性的眼光重新阅读你的街道。",
+   "method": "Paper map and circular overlays used in outdoor co-design sessions during a Biodiversity Urban Living Lab.",
+   "method_zh": "在生物多样性城市生活实验室的户外共创活动中，使用纸质地图和圆形叠加片。",
+   "keywords": [
+    "co-design",
+    "map",
+    "biodiversity",
+    "urban living lab",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3593743.3593753",
+    "venue": "C&T 2023",
+    "title": "Beyond human sensors: More-than-human Citizen Sensing in biodiversity Urban Living Labs",
+    "doi": "10.1145/3593743.3593753"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "li-jonsson--birdflute",
+   "creator_ids": [
+    "li-jonsson",
+    "tau-ulv-lenskjold"
+   ],
+   "title": "Birdflute",
+   "year": 2015,
+   "field": "aci",
+   "sub": "communication",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A whistle-like device for elderly residents of a care home: blowing into it broadcasts bird calls outside the building, and birds in the park may call back.",
+   "description_zh": "为养老院老人设计的一件类似哨子的装置：向它吹气，楼外就会播放鸟鸣，公园里的鸟可能会回应。",
+   "idea_en": "Let people who cannot go outside start a conversation with birds through the window.",
+   "idea_zh": "让出不了门的人隔着窗户与鸟展开对话。",
+   "method": "Breath on the mouthpiece likely triggers recorded or synthesised bird calls played through an outdoor speaker; made in the co-design project Urban Animals and Us.",
+   "method_zh": "吹气很可能触发录制或合成的鸟鸣，由室外扬声器播放；出自协同设计项目 Urban Animals and Us。",
+   "keywords": [
+    "birds",
+    "elderly care",
+    "Urban Animals and Us",
+    "co-design",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/nordes.2015.001",
+    "venue": "Nordes 2015",
+    "title": "Stakes at the edge of participation: Where words and things are the entirely serious title of a problem",
+    "doi": "10.21606/nordes.2015.001"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "li-jonsson--interfed",
+   "creator_ids": [
+    "li-jonsson",
+    "tau-ulv-lenskjold"
+   ],
+   "title": "Interfed",
+   "year": 2015,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A feeder-camera set-up that produces paired images of a bird feeding place outdoors and the residents' room indoors; it is triggered by the birds, and people have little control over when it runs.",
+   "description_zh": "一套喂食器与摄像装置，同时生成室外鸟类觅食处与室内居住空间的成对图像；由鸟触发，人几乎无法控制它何时运行。",
+   "idea_en": "Hand the trigger to birds so that their visits interrupt and enrich human indoor life.",
+   "idea_zh": "把触发权交给鸟，让它们的造访打断并丰富人的室内生活。",
+   "method": "Bird visits at a feeder likely trigger cameras that capture both environments and display them side by side; part of Urban Animals and Us.",
+   "method_zh": "鸟在喂食器上的造访很可能触发摄像头，同时拍摄两个环境并并排呈现；属于 Urban Animals and Us 项目。",
+   "keywords": [
+    "birds",
+    "bird feeder",
+    "elderly care",
+    "Urban Animals and Us",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/nordes.2015.001",
+    "venue": "Nordes 2015",
+    "title": "Stakes at the edge of participation: Where words and things are the entirely serious title of a problem",
+    "doi": "10.21606/nordes.2015.001"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "ferne-edwards--bat-house",
+   "creator_ids": [
+    "ferne-edwards"
+   ],
+   "title": "Bat House",
+   "year": 2022,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "An urban bat shelter designed so that bats roost safely while people can watch them; the two living worlds stay separate but allow one-sided encounters.",
+   "description_zh": "一个城市蝙蝠栖所：蝙蝠可以安全栖息，人则可以观察它们；两个生活世界保持分隔，但允许单向的相遇。",
+   "idea_en": "Design habitat so that sheltering an animal and meeting it become the same object.",
+   "idea_zh": "把为动物提供庇护与和它相遇设计进同一个物件。",
+   "method": "A student design project at NTNU in Trondheim, developed from bat ecology requirements and cohabitation goals for the more-than-human city.",
+   "method_zh": "特隆赫姆 NTNU 的学生设计项目，依据蝙蝠生态需求与超越人类城市的共居目标开发。",
+   "keywords": [
+    "bats",
+    "urban habitat",
+    "Trondheim",
+    "cohabitation",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2022.770",
+    "venue": "DRS 2022",
+    "title": "Birds, bees and bats: Exploring possibilities for cohabitation in the more-than-human city",
+    "doi": "10.21606/drs.2022.770"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "ferne-edwards--chicken-coop-design",
+   "creator_ids": [
+    "ferne-edwards"
+   ],
+   "title": "Chicken Coop Design",
+   "year": 2022,
+   "field": "aci",
+   "sub": "wildlife",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A chicken coop for urban gardens shaped around the chickens' needs, giving them safe shelter while letting chickens and people meet in both directions.",
+   "description_zh": "一个为城市花园设计的鸡舍，以鸡的需求为出发点，既提供安全庇护，也让鸡和人可以双向相遇。",
+   "idea_en": "Treat backyard animals as neighbours whose space overlaps with ours.",
+   "idea_zh": "把后院动物当作与我们空间重叠的邻居。",
+   "method": "A student design project at NTNU developed within a study of cohabitation with birds, bees and bats in the city.",
+   "method_zh": "NTNU 学生设计项目，出自一项关于城市中与鸟、蜂、蝙蝠共居的研究。",
+   "keywords": [
+    "chickens",
+    "urban garden",
+    "cohabitation",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2022.770",
+    "venue": "DRS 2022",
+    "title": "Birds, bees and bats: Exploring possibilities for cohabitation in the more-than-human city",
+    "doi": "10.21606/drs.2022.770"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "liz-edwards--biodiversity-logbook",
+   "creator_ids": [
+    "liz-edwards"
+   ],
+   "title": "Biodiversity Logbook",
+   "year": 2021,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A toolkit of photo-sensitive albums, prompts and maps with which schoolchildren in Morecambe Bay make cyanotype prints of plants they find and record where they found them.",
+   "description_zh": "一套包含感光相册、提示贴纸和地图的工具包，让莫克姆湾的学童把找到的植物做成蓝晒印相，并记录发现地点。",
+   "idea_en": "Slow the act of recording nature down so that noticing becomes the point.",
+   "idea_zh": "把记录自然的过程放慢，让“留意”本身成为目的。",
+   "method": "Specimens are laid on cyanotype paper and exposed to sunlight; children add handwritten notes and the collected images are gathered on a shared map.",
+   "method_zh": "把标本放在蓝晒纸上经阳光曝光，孩子们添加手写笔记，收集的图像汇总到一张共享地图上。",
+   "keywords": [
+    "cyanotype",
+    "noticing",
+    "Morecambe Bay",
+    "children",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/nordes.2021.13",
+    "venue": "Nordes 2021",
+    "title": "Design for noticing with biodiversity logbooks",
+    "doi": "10.21606/nordes.2021.13"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "teresa-van-dongen--electric-life",
+   "creator_ids": [
+    "teresa-van-dongen"
+   ],
+   "title": "Electric Life",
+   "year": 2019,
+   "field": "bio",
+   "sub": "microbial",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A light installation powered entirely by electroactive microorganisms from river and lake mud; its owner must feed it a little tap water, nutrients and vinegar each week.",
+   "description_zh": "一件完全由河湖淤泥中的产电微生物供电的灯光装置；主人每周需要用少量自来水、营养物和醋喂养它。",
+   "idea_en": "A lamp that only shines if you look after the microbes that power it.",
+   "idea_zh": "只有照顾好为它供电的微生物，这盏灯才会亮。",
+   "method": "Microbial fuel cells harvest electrons that mud bacteria release as metabolic waste; developed with CMET at Ghent University and VITO and shown at Centre Pompidou.",
+   "method_zh": "微生物燃料电池收集淤泥细菌代谢排出的电子；与根特大学 CMET 和 VITO 合作开发，并在蓬皮杜中心展出。",
+   "keywords": [
+    "microbial fuel cell",
+    "electroactive bacteria",
+    "lighting",
+    "Centre Pompidou",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "https://payload.cargocollective.com/1/16/540742/13689755/Electric-Life-2.0.01_1250.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3546155.3547285",
+    "venue": "NordiCHI 2022",
+    "title": "From Concern to Care: A Transformative Reflection on Designing-with the Living",
+    "doi": "10.1145/3546155.3547285"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "iohanna-nicenboim--conversation-starters",
+   "creator_ids": [
+    "iohanna-nicenboim",
+    "elisa-giaccardi"
+   ],
+   "title": "Conversation Starters",
+   "year": 2023,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "Fictional home devices with conversational agents that are 'grown' and trained like a culture, for example to tell bedtime stories, so that their misunderstandings become part of living with them.",
+   "description_zh": "一组虚构的家用设备，其中的对话代理像培养菌种一样被“养大”和训练，比如用来讲睡前故事，让它们的误解成为共处的一部分。",
+   "idea_en": "Frame training AI as growing something, so that people learn when to trust it through care.",
+   "idea_zh": "把训练 AI 理解为“养育”，让人在照护中学会何时信任它。",
+   "method": "Fictional artifacts and scenarios use microbial growth as a metaphor for training conversational agents; explored with participants to probe explainable AI in everyday life.",
+   "method_zh": "以虚构物件与情境，用微生物生长比喻对话代理的训练；与参与者一起探讨日常生活中的可解释 AI。",
+   "keywords": [
+    "AI",
+    "explainability",
+    "growing",
+    "more-than-human AI",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=COWdBW2WhgY"
+   },
+   "images": [
+    "https://payload.cargocollective.com/1/4/137851/14407603/prt_1666790732_2x.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544549.3583914",
+    "venue": "CHI 2023 EA",
+    "title": "Conversation Starters: How Can We Misunderstand AI Better?",
+    "doi": "10.1145/3544549.3583914"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ]
+  },
+  {
+   "id": "maya-livio--salvaging-birds",
+   "creator_ids": [
+    "maya-livio"
+   ],
+   "title": "Salvaging Birds",
+   "year": 2019,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "artwork",
+   "description": "A film and media project that creates AI-generated female, intersex and queer birds and birdsong to fill the male bias in avian conservation datasets, woven with interviews of ornithologists.",
+   "description_zh": "一个电影与媒体项目，用 AI 生成雌性、间性和酷儿鸟类及鸟鸣，填补鸟类保护数据集中的雄性偏差，并穿插鸟类学家的访谈。",
+   "idea_en": "Ask what is lost when birds become data, and generate the birds the data leaves out.",
+   "idea_zh": "追问鸟变成数据时失去了什么，并生成被数据遗漏的鸟。",
+   "method": "Custom-trained generative models produce speculative bird images and songs from existing recordings of female or unsexed birds.",
+   "method_zh": "用定制训练的生成模型，基于已有的雌鸟或未标性别鸟类录音，生成思辨性的鸟类图像与鸣声。",
+   "keywords": [
+    "birds",
+    "datasets",
+    "AI",
+    "queer ecology",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=WK4zhtUvNIQ"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/33450d8c9c40b1e702db1a65d9aa224dccf5284653e706ca2acdc3bebe2bb2cc/Salvaging-Birds-Still-3_Livio.png",
+    "https://freight.cargo.site/t/original/i/fcdd8840acb35bccf15624e48cc17c524543cec2ccd6d47c17a1b54662ff4978/Salvaging-Birds_Still-6.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501851",
+    "venue": "CHI 2022",
+    "title": "The Eco-Technical Interface: Attuning to the Instrumental",
+    "doi": "10.1145/3491102.3501851"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "maya-livio--thermopower",
+   "creator_ids": [
+    "maya-livio"
+   ],
+   "title": "Thermopower",
+   "year": 2019,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A short film that follows the American pika's alpine tundra habitat through a year, using footage from a scientists' networked research camera to connect thermoregulation in animals and data centers.",
+   "description_zh": "一部短片，借助科学家的联网科研相机画面，跟随美洲鼠兔的高山苔原栖息地度过一年，把动物与数据中心的体温/温度调节联系起来。",
+   "idea_en": "Borrow a scientific instrument's eye to see a climate-threatened animal's world.",
+   "idea_zh": "借科研仪器之眼，看见一个受气候威胁的动物的世界。",
+   "method": "Repurposes TundraCam, a steerable networked camera used to study the alpine tundra, as the film's main recording apparatus.",
+   "method_zh": "把研究高山苔原的可遥控联网相机 TundraCam 挪用为影片的主要拍摄装置。",
+   "keywords": [
+    "American pika",
+    "Ochotona princeps",
+    "TundraCam",
+    "thermoregulation",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://freight.cargo.site/w/1200/i/465d80e9997af6f883ae4f03c532cd992080d61cc4a494135deaa8fa33906f73/Thermopower_snow.png",
+    "https://freight.cargo.site/t/original/i/b40f23f34184b94a6a810a2405a8d2f01ab7a49423c1be4f0b16457892eab338/Pika-cover-photo_darker-bottom.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3491102.3501851",
+    "venue": "CHI 2022",
+    "title": "The Eco-Technical Interface: Attuning to the Instrumental",
+    "doi": "10.1145/3491102.3501851"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "michelle-westerlaken--smart-forests-atlas",
+   "creator_ids": [
+    "michelle-westerlaken",
+    "jennifer-gabrys"
+   ],
+   "title": "Smart Forests Atlas",
+   "year": 2022,
+   "field": "hni",
+   "sub": "digital-nature",
+   "organisms": [
+    "ecosystems",
+    "plants"
+   ],
+   "kind": "product",
+   "description": "An open-data research platform on digital technologies in forests, built as a 'digital garden' where stories, data and impressions can be browsed without a fixed structure.",
+   "description_zh": "一个关于森林中数字技术的开放数据研究平台，以“数字花园”的方式构建，故事、数据与印象可以不按固定结构自由浏览。",
+   "idea_en": "Organise forest knowledge like a garden that grows, not like a finished archive.",
+   "idea_zh": "像打理一座会生长的花园那样组织森林知识，而不是做一个封闭的档案库。",
+   "method": "Designed with a digital tools cooperative around six design qualities meant to counter colonial and anthropocentric habits of gardening and archiving.",
+   "method_zh": "与一家数字工具合作社共同设计，围绕六项设计品质，抵制园艺与归档中的殖民与人类中心习惯。",
+   "keywords": [
+    "digital gardening",
+    "open data",
+    "forests",
+    "Smart Forests",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=q4Qks4wUiF0"
+   },
+   "images": [
+    "https://fra1.digitaloceanspaces.com/smartforests/images/SmartForests_Atlas_Home.original.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3537797.3537804",
+    "venue": "PDC 2022",
+    "title": "Digital Gardening with a Forest Atlas: Designing a Pluralistic and Participatory Open-Data Platform",
+    "doi": "10.1145/3537797.3537804"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "stijn-ossevoort--flare",
+   "creator_ids": [
+    "stijn-ossevoort"
+   ],
+   "title": "Flare",
+   "year": 2023,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A silk dress embroidered with dandelions made of LEDs that light up when the wind blows; the wearer can only partly control it, for example by stepping out of the wind.",
+   "description_zh": "一条绣有 LED 蒲公英的丝绸连衣裙，风一吹就会亮起；穿着者只能部分控制它，比如走出风口。",
+   "idea_en": "Let a natural phenomenon, not the wearer, drive an interactive garment.",
+   "idea_zh": "让自然现象而不是穿着者来驱动交互服装。",
+   "method": "Wind sensing likely drives LED dandelions embroidered on the dress; presented as an evocative object for the concept 'participation of natural phenomena'.",
+   "method_zh": "风的感测很可能驱动绣在裙上的 LED 蒲公英；作为“自然现象的参与”这一概念的唤起性物件提出。",
+   "keywords": [
+    "wind",
+    "wearable",
+    "LED",
+    "strong concept",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3569009.3572743",
+    "venue": "TEI 2023",
+    "title": "Embodying Wind through Flare: How Natural Phenomena Can Contribute to Enriching the Design of Interactive Systems",
+    "doi": "10.1145/3569009.3572743"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png",
+    "https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "nancy-smith--plantypus",
+   "creator_ids": [
+    "nancy-smith"
+   ],
+   "title": "Plantypus",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "also": [
+    "biohybrid",
+    "hni"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "A speculative robot that turns a houseplant's electrical signals into movement, so the plant can roam the house or leave it on its own, independent of people.",
+   "description_zh": "一个思辨性机器人，把室内植物的电信号转化为运动，让植物可以自己在屋里游走，甚至离开房子，不依赖人。",
+   "idea_en": "Give a potted plant the means to leave.",
+   "idea_zh": "让一盆植物拥有离开的能力。",
+   "method": "Imagined as a mobile base driven by the plant's bioelectrical signals, one of the artifacts in a design pictorial set in the Chernobyl Exclusion Zone.",
+   "method_zh": "设想为由植物生物电信号驱动的移动底座，是一组以切尔诺贝利禁区为背景的设计图文作品之一。",
+   "keywords": [
+    "Chernobyl",
+    "plant robot",
+    "design fiction",
+    "pictorial",
+    "Kneile 2025: empowering",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395574",
+    "venue": "DIS 2020",
+    "title": "The Inclusion Zone: Grounded Speculations in Chernobyl",
+    "doi": "10.1145/3357236.3395574"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "nancy-smith--sylvia-woodbridge",
+   "creator_ids": [
+    "nancy-smith"
+   ],
+   "title": "Sylvia Woodbridge",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A speculative forest infrastructure that amplifies signals between trees, for example spreading warnings about parasites faster; once installed, it works without people.",
+   "description_zh": "一种思辨性的森林基础设施，放大树与树之间的信号，例如让关于寄生虫的警报传得更快；安装后无需人参与。",
+   "idea_en": "Augment the forest's own communication instead of human monitoring.",
+   "idea_zh": "增强森林自身的交流，而不是加强人类的监测。",
+   "method": "Imagined as a relay network that boosts tree-to-tree chemical and electrical signalling in the Chernobyl Exclusion Zone.",
+   "method_zh": "设想为切尔诺贝利禁区中放大树间化学与电信号的中继网络。",
+   "keywords": [
+    "Chernobyl",
+    "trees",
+    "plant signalling",
+    "design fiction",
+    "Kneile 2025: empowering",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395574",
+    "venue": "DIS 2020",
+    "title": "The Inclusion Zone: Grounded Speculations in Chernobyl",
+    "doi": "10.1145/3357236.3395574"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "nancy-smith--whisper",
+   "creator_ids": [
+    "nancy-smith"
+   ],
+   "title": "Whisper",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "speculative",
+   "description": "A speculative warning system that tells animals, not people, where radiation is dangerous, using signals suited to their senses such as ultraviolet light or smells.",
+   "description_zh": "一种思辨性的预警系统，告诉动物（而不是人）哪里辐射危险，使用适合它们感官的信号，如紫外光或气味。",
+   "idea_en": "Design warning signs in the sensory languages of other species.",
+   "idea_zh": "用其他物种的感官语言设计警示标志。",
+   "method": "Imagined radiation-sensing beacons in the Chernobyl Exclusion Zone that emit species-specific cues such as UV light and scent.",
+   "method_zh": "设想在切尔诺贝利禁区中感测辐射的信标，发出紫外光、气味等针对特定物种的提示。",
+   "keywords": [
+    "Chernobyl",
+    "radiation",
+    "animal senses",
+    "design fiction",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3357236.3395574",
+    "venue": "DIS 2020",
+    "title": "The Inclusion Zone: Grounded Speculations in Chernobyl",
+    "doi": "10.1145/3357236.3395574"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "aci",
+    "hni"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "rewa-wright--contact-sense",
+   "creator_ids": [
+    "rewa-wright"
+   ],
+   "title": "Contact/Sense",
+   "year": 2019,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A mixed-reality performance in which sonified bioelectric signals from plants invite human performers to compose and play together with them.",
+   "description_zh": "一场混合现实表演：植物的生物电信号被转为声音，邀请人类表演者与植物一起作曲、演奏。",
+   "idea_en": "Treat plants as co-composers in a live performance.",
+   "idea_zh": "在现场表演中把植物当作共同作曲者。",
+   "method": "Plant signals are captured with electrodes and routed into a mixed-media sound and visual environment; informed by mātauranga Māori.",
+   "method_zh": "用电极采集植物信号并接入混合媒体的声音与影像环境；受毛利知识（mātauranga Māori）启发。",
+   "keywords": [
+    "plant sonification",
+    "mixed reality",
+    "mātauranga Māori",
+    "UnCalculated Studio",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ZZh-I8tV3YE"
+   },
+   "paper": {
+    "url": "https://doi.org/10.1145/3610591.3616428",
+    "venue": "SIGGRAPH Asia 2023 Art Papers",
+    "title": "Exploring the Eco-Digital: Performative Sensing with Plants and Data",
+    "doi": "10.1145/3610591.3616428"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "rewa-wright--biorhythms",
+   "creator_ids": [
+    "rewa-wright"
+   ],
+   "title": "Nga manawataki o te koiora: Biorhythms",
+   "year": 2022,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A projection-mapped video work that merges human- and plant-produced sound with abstracted imagery of Aotearoa New Zealand, premiered on a building facade in Nelson.",
+   "description_zh": "一件投影映射的影像作品，把人类与植物产生的声音与新西兰（奥特亚罗瓦）的抽象影像融为一体，在纳尔逊的一栋建筑立面上首映。",
+   "idea_en": "Let plants and people co-compose a public artwork.",
+   "idea_zh": "让植物与人共同创作一件公共艺术作品。",
+   "method": "Plant bioelectric data and human sound are combined into a generative audiovisual piece by UnCalculated Studio (Rewa Wright and Simon Howden).",
+   "method_zh": "UnCalculated Studio（Rewa Wright 与 Simon Howden）把植物生物电数据与人声结合成生成式视听作品。",
+   "keywords": [
+    "plant sonification",
+    "projection mapping",
+    "Aotearoa",
+    "UnCalculated Studio",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=Q5D8ABeS060"
+   },
+   "images": [
+    "https://rewawright.com/wp-content/uploads/2022/09/screen-shot-2022-09-20-at-1.54.39-am.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3610591.3616428",
+    "venue": "SIGGRAPH Asia 2023 Art Papers",
+    "title": "Exploring the Eco-Digital: Performative Sensing with Plants and Data",
+    "doi": "10.1145/3610591.3616428"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "jixiang-jiang--hokkhi",
+   "creator_ids": [
+    "jixiang-jiang"
+   ],
+   "title": "Hokkhi",
+   "year": 2023,
+   "field": "hni",
+   "sub": "outdoor",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Three artificial oyster reef prototypes made from oyster shells that first serve Daoist worshippers in Quanzhou as offerings, then are placed in the sea to help restore oyster reefs.",
+   "description_zh": "三个用牡蛎壳制成的人工牡蛎礁原型：先作为泉州道教信众的供奉之物，再被投放入海，帮助修复牡蛎礁。",
+   "idea_en": "Route a religious practice into reef restoration so that devotion also rebuilds habitat.",
+   "idea_zh": "把宗教实践引入礁体修复，让虔诚同时重建栖息地。",
+   "method": "Based on field research, expert interviews and the Daoist 'token of honesty' (Fǎ xìn) system, the reef units are co-created with worshippers within a product-service system.",
+   "method_zh": "基于田野调查、专家访谈和道教“法信”体系，在一个产品服务系统中与信众共同制作礁体单元。",
+   "keywords": [
+    "oyster reef",
+    "Daoism",
+    "Quanzhou",
+    "pluriverse",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/iasdr.2023.100",
+    "venue": "IASDR 2023",
+    "title": "Exploring and facilitating Daoism's contributions to design prototype, a case study from a “More-than-Human” social innovation project: Hokkhi",
+    "doi": "10.21606/iasdr.2023.100"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "mileece--bio-electricity",
+   "creator_ids": [
+    "mileece"
+   ],
+   "title": "Bio-Electricity",
+   "year": 2013,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A live performance in which the electrical signals of plants are turned into sound, and people make music with the plants, shown at MoMA.",
+   "description_zh": "一场现场表演：植物的电信号被转化为声音，人们与植物一起创作音乐，曾在 MoMA 呈现。",
+   "idea_en": "Make plants audible collaborators in improvised music.",
+   "idea_zh": "让植物成为即兴音乐中听得见的合作者。",
+   "method": "Electrodes on leaves pick up bioelectric changes that software maps to generative sound; people explore how their touch and presence alter it.",
+   "method_zh": "叶片上的电极采集生物电变化，软件将其映射为生成声音；人们探索自己的触摸与在场如何改变它。",
+   "keywords": [
+    "plant bioelectricity",
+    "generative music",
+    "MoMA",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://vimeo.com/60769517"
+   },
+   "images": [
+    "https://static.wixstatic.com/media/9f7598_c0d8f01bd4e2474fad6783d7d43921eef000.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "cesar-and-lois--allochronic-cycles",
+   "creator_ids": [
+    "cesar-and-lois"
+   ],
+   "title": "Allochronic Cycles",
+   "year": 2020,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A kinetic wall artwork of spinning disks set to different timescales, from the cosmos and evolution to Arabidopsis growth and virus cycles, while an AI forecasts how fast human activity disturbs them.",
+   "description_zh": "一件动态墙面作品，由按不同时间尺度转动的圆盘组成，从宇宙与演化到拟南芥生长和病毒周期；一个 AI 预测人类活动以多快的速度扰乱它们。",
+   "idea_en": "Picture intelligence as learning from the out-of-sync timescales of other life.",
+   "idea_zh": "把智能想象为向其他生命错位的时间尺度学习。",
+   "method": "Motorised concentric disks are programmed to distinct natural cycles; a time-forecasting AI modulates them in response to human carbon impact.",
+   "method_zh": "电机驱动的同心圆盘按不同的自然周期编程；时间预测 AI 根据人类碳排放影响调整它们。",
+   "keywords": [
+    "timescales",
+    "Arabidopsis",
+    "kinetic art",
+    "AI",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=yD2J4rlIouA"
+   },
+   "images": [
+    "http://cesarandlois.org/wp-content/uploads/ac-banner.jpg",
+    "http://cesarandlois.org/wp-content/uploads/AI-1024x755.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "anna-madeleine-raupach--unequal-hours",
+   "creator_ids": [
+    "anna-madeleine-raupach"
+   ],
+   "title": "Unequal Hours",
+   "year": 2021,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A public clock at the Canberra Museum and Gallery whose coloured ribbons link its hands to the cycles of nonhuman entities, showing how their times interweave with ours.",
+   "description_zh": "堪培拉博物馆与美术馆的一座公共时钟，彩色丝带把指针与各种非人类实体的周期相连，展示它们的时间如何与人类时间交织。",
+   "idea_en": "A clock that keeps more than human time.",
+   "idea_zh": "一座不只报人类时间的钟。",
+   "method": "Stepper motors, electronics, acrylic, ribbon, swivels and audio drive multiple hands set to ecological cycles.",
+   "method_zh": "步进电机、电子电路、亚克力、丝带、转环与声音驱动多根按生态周期运行的指针。",
+   "keywords": [
+    "clock",
+    "timescales",
+    "Canberra",
+    "kinetic installation",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W8eVFRb9h4U"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/7730d3e7-ba4e-4c4c-a90a-04426c4c7188/CMAG+Gallery+4_Raupach_02.jpg",
+    "https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/faa5bff0-f5c5-42a9-b17e-2d3cb1285919/AnnaMadeleineRaupach_UnequalHours_2021_03.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "nadia-campo-woytuk--biomenstrual-spellbook",
+   "creator_ids": [
+    "nadia-campo-woytuk"
+   ],
+   "title": "Biomenstrual, Spellbook",
+   "year": 2021,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "bio",
+    "hni"
+   ],
+   "organisms": [
+    "humans",
+    "bacteria",
+    "plants"
+   ],
+   "kind": "publication",
+   "description": "A spell book of DIY menstrual care that collects recipes for biomaterials, tools for making biodegradable pads, and rituals for returning menstrual waste to soil and plants.",
+   "description_zh": "一本 DIY 经期照护“咒语书”，收录生物材料配方、可降解卫生巾的制作工具，以及把经期废弃物归还土壤和植物的仪式。",
+   "idea_en": "Treat menstrual care as care for the bacteria, plants and soils the body is entangled with.",
+   "idea_zh": "把经期照护当作对与身体纠缠在一起的细菌、植物和土壤的照护。",
+   "method": "A downloadable book of biomaterial experiments, recipes and rituals from the Biomenstrual project by Nadia Campo Woytuk and Marie Louise Juul Søndergaard.",
+   "method_zh": "来自 Nadia Campo Woytuk 与 Marie Louise Juul Søndergaard 的 Biomenstrual 项目，是一本可下载的生物材料实验、配方与仪式之书。",
+   "keywords": [
+    "menstruation",
+    "biomaterials",
+    "spell book",
+    "ecofeminism",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=pMt6eB7L-HI"
+   },
+   "images": [
+    "https://cortex.persona.co/i/cf88ecc115a21db16266fb05503f3d3cb4b59cb740044cb05db5b9501d9043dd/gallery_image1-small.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "paul-vanouse--labor",
+   "creator_ids": [
+    "paul-vanouse"
+   ],
+   "title": "Labor",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "An installation in which bioreactors grow the skin bacteria that produce human sweat odour, recreating the smell of bodies under strenuous labour without any humans present.",
+   "description_zh": "一件装置作品：生物反应器培养产生人体汗味的皮肤细菌，在没有人在场的情况下重现高强度劳动中身体的气味。",
+   "idea_en": "The smell of human work is made by microbes.",
+   "idea_zh": "人类劳动的气味，其实是微生物制造的。",
+   "method": "Bacteria isolated from human skin are cultured in glass bioreactors on a sweat-like medium so that their metabolism releases the scent of exertion.",
+   "method_zh": "从人体皮肤分离的细菌在玻璃生物反应器中以类汗液培养基培养，其代谢释放出劳作的气味。",
+   "keywords": [
+    "sweat",
+    "skin microbiome",
+    "bioreactor",
+    "smell",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PaRdHTqZyqA"
+   },
+   "images": [
+    "https://www.paulvanouse.com/labor-install-BN-1.jpg",
+    "https://www.paulvanouse.com/labor-install-tj-2.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "mellissa-monsoon--microbial-me",
+   "creator_ids": [
+    "mellissa-monsoon"
+   ],
+   "title": "Microbial Me",
+   "year": 2012,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A cast of the artist's face made in agar and seeded with bacteria from her skin; the colonies grow, mix with microbes from the air and die, turning the portrait into a living ecosystem.",
+   "description_zh": "用琼脂翻铸的艺术家面部，接种了她皮肤上的细菌；菌落生长、与空气中的微生物混合、再死亡，让肖像变成一个活的生态系统。",
+   "idea_en": "A self-portrait drawn by the microbes that live on you.",
+   "idea_zh": "一幅由你身上的微生物绘制的自画像。",
+   "method": "Skin swabs are cultured on an agar face cast; first made in 2012 at the University of Westminster and later commissioned by the Eden Project.",
+   "method_zh": "把皮肤拭子接种到琼脂面部翻模上培养；2012 年首创于威斯敏斯特大学，后受 Eden Project 委托再作。",
+   "keywords": [
+    "skin microbiome",
+    "agar",
+    "portrait",
+    "Eden Project",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://static.wixstatic.com/media/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg/v1/fit/w_2500,h_1330,al_c/efecb5_752c2fdbf427484ca3126278481b8180%7Emv2_d_5184_3456_s_4_2.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ]
+  },
+  {
+   "id": "johanna-rotko--yeastograms",
+   "creator_ids": [
+    "johanna-rotko"
+   ],
+   "title": "Yeastograms",
+   "year": 2016,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "fungi",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Portraits of human faces printed into living yeast cultures; as the yeast and other microbes keep growing, the face slowly dissolves until it is barely recognisable.",
+   "description_zh": "把人脸肖像“印”进活的酵母培养物中；随着酵母和其他微生物不断生长，面孔慢慢溶解，直到几乎无法辨认。",
+   "idea_en": "Let microbial growth take over a human image.",
+   "idea_zh": "让微生物的生长接管人的影像。",
+   "method": "UV light exposes raster photographs onto yeast grown on a nutrient medium; unexposed cells grow into the image, which then keeps changing.",
+   "method_zh": "用紫外光把网点照片曝光到培养基上的酵母；未受照射的细胞长成图像，随后图像持续变化。",
+   "keywords": [
+    "yeast",
+    "yeastogram",
+    "UV exposure",
+    "bio art",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HI1UUhRvs7s"
+   },
+   "images": [
+    "http://www.hiivagrammi.fi/portfolio2019/wp-content/uploads/2019/09/about-nelio-1500x1200.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ]
+  },
+  {
+   "id": "natalie-jeremijenko--moth-cinema",
+   "creator_ids": [
+    "natalie-jeremijenko"
+   ],
+   "title": "Moth Cinema",
+   "year": 2012,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "insects",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A 20-foot screen lit at night above a planted habitat at Socrates Sculpture Park: the light attracts moths, the plants feed them, and their magnified shadows play out on the screen.",
+   "description_zh": "苏格拉底雕塑公园里一块夜间点亮的 20 英尺幕布，悬在一片种植的栖息地上方：灯光吸引飞蛾，植物喂养它们，它们放大的影子在幕布上上演。",
+   "idea_en": "Turn moths into the stars of an outdoor cinema while giving them food and shelter.",
+   "idea_zh": "让飞蛾成为露天电影的主角，同时为它们提供食物和庇护。",
+   "method": "A mesh screen, lights and moth-attracting host and nectar plants create both a projection surface and a pollinator habitat.",
+   "method_zh": "网状幕布、灯光与吸引飞蛾的寄主和蜜源植物，同时构成投影面与传粉者栖息地。",
+   "keywords": [
+    "moths",
+    "pollinators",
+    "Socrates Sculpture Park",
+    "light pollution",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremijenko_mothcinema-1024x768.jpg",
+    "https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremikenco_mothcinema2-1024x768.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "aci",
+    "mth"
+   ]
+  },
+  {
+   "id": "tega-brain--the-woods",
+   "creator_ids": [
+    "tega-brain"
+   ],
+   "title": "The Woods (Being Radiotropic)",
+   "year": 2016,
+   "field": "hni",
+   "sub": "digital-nature",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A wireless router controlled by a houseplant: the plant photographs itself and injects its images into the websites people load, and if it is doing badly it can kick users off its network.",
+   "description_zh": "一台由室内植物控制的无线路由器：植物给自己拍照，把照片插入人们打开的网页；如果它状况不好，还能把用户踢下网络。",
+   "idea_en": "Make network infrastructure negotiate with a plant instead of serving only humans.",
+   "idea_zh": "让网络基础设施与植物协商，而不只服务人类。",
+   "method": "A Linux router with a camera and sensors approximating the plant's condition rewrites web content and throttles access; part of the Being Radiotropic router series shown at Eyebeam.",
+   "method_zh": "一台带摄像头和传感器的 Linux 路由器，根据植物状态改写网页内容并限制接入；属于在 Eyebeam 展出的 Being Radiotropic 路由器系列。",
+   "keywords": [
+    "wifi router",
+    "eccentric engineering",
+    "Eyebeam",
+    "houseplant",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "images": [
+    "https://freight.cargo.site/t/original/i/f092d5ebc4b9d858a85a56d59499caa97579f601bf515052bb6df7253355b452/theWoods-small.jpg",
+    "https://freight.cargo.site/t/original/i/8b3bdaf62ece6629c69bcbcaea53d62f8609dbcf05d678917d1e0a24e4e88073/plant-small.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "adrienne-adar--sonic-succulents",
+   "creator_ids": [
+    "adrienne-adar"
+   ],
+   "title": "Sonic Succulents: Plant Sounds and Vibrations",
+   "year": 2019,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "biohybrid",
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A season-long exhibition at Brooklyn Botanic Garden in which live succulents and garden plants are fitted with vibration sensors and amplifiers, so that wind, growth and visitors' touch become audible plant sounds.",
+   "description_zh": "在布鲁克林植物园举办的整季展览：多肉和园中植物装上振动传感器与放大器，风吹、生长和观众的触碰都会变成可以听见的植物声音。",
+   "idea_en": "Amplify what plants already do, so people notice they are affecting another living being.",
+   "idea_zh": "把植物本来就在发出的动静放大，让人意识到自己正在影响另一个生命。",
+   "method": "Contact microphones and analog vibration sensors pick up mechanical vibrations in stems and leaves; amplifiers and speakers make them audible in real time.",
+   "method_zh": "接触式麦克风和模拟振动传感器拾取茎叶中的机械振动，经放大器和扬声器实时播放出来。",
+   "keywords": [
+    "plant sound",
+    "vibration sensing",
+    "Brooklyn Botanic Garden",
+    "interactive installation",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
+    "http://static1.squarespace.com/static/6132729d77b59f573fc273ad/613284eb494a0173635c2266/613284eb494a0173635c2290/1633468288501/IMG_3972.jpeg?format=1500w"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "giorgia-lupi--room-of-change",
+   "creator_ids": [
+    "giorgia-lupi"
+   ],
+   "title": "The Room of Change",
+   "year": 2019,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A 30-metre hand-crafted data tapestry that opened the XXII Triennale di Milano, Broken Nature, showing how land use, climate, species and populations have changed over past centuries and are projected to change; details appear as visitors step closer.",
+   "description_zh": "第二十二届米兰三年展“Broken Nature”开篇的一幅 30 米长手工数据挂毯，呈现土地利用、气候、物种和人口在过去几个世纪的变化与未来预测；观众越走近，看到的细节越多。",
+   "idea_en": "Layer global and local data at several reading distances so environmental change can be felt from macro to micro scale.",
+   "idea_zh": "把全球与本地数据叠放在不同的观看距离上，让人从宏观到微观都能感到环境变化。",
+   "method": "Multiple environmental and social datasets were drawn as a hand-made woven data visualisation with a timeline from past to future, read as a single long wall.",
+   "method_zh": "把多种环境与社会数据集手工绘制成一幅编织式数据可视化，从过去到未来排成一条长墙时间线。",
+   "keywords": [
+    "data humanism",
+    "data tapestry",
+    "Triennale Milano",
+    "Broken Nature",
+    "Accurat",
+    "climate change",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454743498-G6G390S3BRZ1156W8J5C/FQ6A4519+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg",
+    "https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "scott-thrift--the-present",
+   "creator_ids": [
+    "scott-thrift"
+   ],
+   "title": "The Present",
+   "year": 2012,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A wall clock whose single hand turns once a year: instead of hours it shows the seasons, with the dial coloured from winter white through spring and summer to autumn.",
+   "description_zh": "一只一年才转一圈的挂钟：只有一根指针，表盘颜色从冬季的白色渐变到春、夏、秋，显示的是季节而不是小时。",
+   "idea_en": "Show time at the scale of the year so people live by seasons instead of minutes.",
+   "idea_zh": "用“年”的尺度显示时间，让人按季节而不是按分钟生活。",
+   "method": "A slow quartz movement drives one hand through 360 degrees in 365 days over a spectral dial marking solstices and equinoxes.",
+   "method_zh": "慢速石英机芯带动一根指针在 365 天内转满一圈，表盘以光谱色标出冬至、夏至和春分、秋分。",
+   "keywords": [
+    "annual clock",
+    "seasons",
+    "slow time",
+    "Kickstarter",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=d-3Vlp9Oodc"
+   },
+   "images": [
+    "https://thepresent.is/cdn/shop/files/thepresent-annual-clock-hero-on-white-wall-scott-thrift-1784w-2025_1200x.webp?v=1765303543",
+    "https://thepresent.is/cdn/shop/files/The_Present_Clock-Lifestyle-Home-Bookshelf_865x640.jpg?v=1784831477"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "tega-brain--keeping-time",
+   "creator_ids": [
+    "tega-brain"
+   ],
+   "title": "Keeping Time (Phenology Studies)",
+   "year": 2013,
+   "field": "hni",
+   "sub": "citizen-science",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Prints and a video that scrape Flickr for photos of one plant species, such as the jacaranda or Sturt's desert pea, and lay them out by timestamp year by year, so the species' flowering season appears as a coloured band.",
+   "description_zh": "从 Flickr 抓取某一种植物（如蓝花楹、斯特尔特沙漠豌豆）的照片，按拍摄时间逐年排列成版画和视频，物种的花期就显现为一条彩色的带。",
+   "idea_en": "People's snapshots, sorted by date, become a record of a plant's own calendar.",
+   "idea_zh": "人们随手拍的照片按日期排好，就成了一种植物自己的日历。",
+   "method": "A script collects geotagged, time-stamped Flickr images of a species for 2002–2013 and arranges them in rows per year ordered by date.",
+   "method_zh": "脚本收集 2002–2013 年某物种带时间戳的 Flickr 图片，按年分行、按日期排序排列。",
+   "keywords": [
+    "phenology",
+    "Flickr",
+    "data art",
+    "Anthropocene",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NDZMHbjICck"
+   },
+   "images": [
+    "https://freight.cargo.site/w/1200/i/9ac22f143ae9f0dd119c004c5d8357e98babc215d653db08f58345b7116bf5a1/TegaBrain-KeepingTime.jpg",
+    "https://freight.cargo.site/t/original/i/ffee0cf6e7f4369a4cad6bdc9227a00f8a6c59e1d816879c110d42c8966bb22f/zgallery_oct2014_02_6.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "mischer-traxler--the-idea-of-a-tree",
+   "creator_ids": [
+    "mischer-traxler"
+   ],
+   "title": "The Idea of a Tree",
+   "year": 2008,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A solar-powered machine that pulls thread through glue and dye and winds it around a mould; the more sun on a given day, the thicker and darker the object, so each stool or lamp records the weather of the day it was made.",
+   "description_zh": "一台太阳能驱动的机器，把线拉过胶水和染料后缠绕在模具上；当天日照越强，物件就越厚、颜色越深，所以每张凳子或每盏灯都记录了它被制作那天的天气。",
+   "idea_en": "Let the sun, not the designer, decide the form, so an object carries the trace of its day like a tree ring.",
+   "idea_zh": "让太阳而不是设计师决定形状，使物件像年轮一样带着那一天的痕迹。",
+   "method": "Photovoltaic panels power the winding machine directly; varying sunlight changes winding speed and dye uptake, and production stops at sunset.",
+   "method_zh": "光伏板直接为缠绕机供电；日照变化改变缠绕速度和染色深浅，日落时生产停止。",
+   "keywords": [
+    "solar energy",
+    "process design",
+    "autonomous production",
+    "mischer'traxler",
+    "recorder",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=-5t2q_hSpgc"
+   },
+   "images": [
+    "https://mischertraxler.com/wp/wp-content/uploads/2017/11/mischertraxler_tioat_travelmachine.jpg",
+    "https://mischertraxler.com/wp/wp-content/uploads/2017/11/the_idea_of_a_tree_all_different_trees-848x1200.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "matilde-boelhouwer--insectology-food-for-buzz",
+   "creator_ids": [
+    "matilde-boelhouwer"
+   ],
+   "title": "Insectology: Food for Buzz",
+   "year": 2017,
+   "field": "hni",
+   "sub": "gardening",
+   "organisms": [
+    "insects"
+   ],
+   "kind": "prototype",
+   "description": "Five colourful artificial flowers for city walls, each shaped and coloured for one of the 'big five' pollinators (bees, bumblebees, hoverflies, butterflies and moths) and refilled with sugar water as an emergency food source.",
+   "description_zh": "五种装在城市墙面上的彩色人造花，分别按蜜蜂、熊蜂、食蚜蝇、蝴蝶和蛾这“五大传粉者”的喜好设计形状与颜色，并补充糖水作为应急食物来源。",
+   "idea_en": "Design flowers for insect eyes and tongues, not for human taste.",
+   "idea_zh": "按昆虫的眼睛和口器来设计花，而不是按人的审美。",
+   "method": "Flower forms, colours and nectar depths were tuned with engineers and biologists to each insect's tongue length and colour vision; a rain-fed reservoir supplies sugar water.",
+   "method_zh": "与工程师和生物学家合作，按每种昆虫的口器长度和色觉调整花形、颜色与花蜜深度；由雨水补给的储液器提供糖水。",
+   "keywords": [
+    "pollinators",
+    "urban biodiversity",
+    "artificial flowers",
+    "Atelier Boelhouwer",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ggnKu3snciM"
+   },
+   "images": [
+    "https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz_photography-janneke-van-der-pol.jpg",
+    "https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz1_photography-janneke-van-der-pol.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  },
+  {
+   "id": "petpace--petpace",
+   "creator_ids": [
+    "petpace"
+   ],
+   "title": "PetPace",
+   "year": 2012,
+   "field": "aci",
+   "sub": "companion",
+   "organisms": [
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A smart collar for dogs and cats that continuously tracks vital signs such as pulse, respiration, temperature, activity and posture, and alerts owners and vets when readings suggest pain or illness.",
+   "description_zh": "一款给猫狗戴的智能项圈，持续监测脉搏、呼吸、体温、活动和姿态等体征，在数据提示疼痛或疾病时提醒主人和兽医。",
+   "idea_en": "Make an animal's bodily state legible to the humans who care for it.",
+   "idea_zh": "让照护者读懂动物身体的状态。",
+   "method": "Non-invasive sensors in the collar stream physiological data to a cloud platform, where algorithms flag abnormal patterns and send alerts to an app.",
+   "method_zh": "项圈内的非侵入式传感器把生理数据传到云平台，由算法识别异常并通过 App 发出提醒。",
+   "keywords": [
+    "pet wearable",
+    "health monitoring",
+    "smart collar",
+    "veterinary",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=DGbrYUXW_Bk"
+   },
+   "images": [
+    "https://petpace.com/wp-content/uploads/2026/08/pic-dog.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ]
+  },
+  {
+   "id": "deep-time-walk--deep-time-walk-app",
+   "creator_ids": [
+    "deep-time-walk"
+   ],
+   "title": "Deep Time Walk App",
+   "year": 2016,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "An audio app for a 4.6 km walk through Earth's 4.6-billion-year history at one million years per metre: a dramatised narration tells how the planet and life formed, and humans appear only in the last few centimetres.",
+   "description_zh": "一款音频 App，带人走 4.6 公里，以每米一百万年的速度穿越地球 46 亿年历史：戏剧化旁白讲述地球与生命如何形成，人类只出现在最后几厘米。",
+   "idea_en": "Walk deep time with your body so human history shrinks to its true scale.",
+   "idea_zh": "用身体走完深时间，让人类历史缩回它真实的尺度。",
+   "method": "The app tracks walking distance and speed with GPS and plays scripted scientific narration keyed to the geological time reached.",
+   "method_zh": "App 用 GPS 追踪步行距离和速度，按走到的地质时间点播放相应的科学旁白。",
+   "keywords": [
+    "deep time",
+    "Gaia",
+    "audio walk",
+    "geology",
+    "Schumacher College",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=5kY24DUm0VM"
+   },
+   "images": [
+    "https://www.deeptimewalk.org/wp-content/uploads/2018/04/facebook.jpg",
+    "https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-mobile-home-june2018.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "circa--circa",
+   "creator_ids": [
+    "circa"
+   ],
+   "title": "Circa",
+   "year": 2019,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A watch face and app pair: Circa Solar has a single hour hand that turns once a day and follows local solar time, sunrise and sunset; Circa Lunar replaces the calendar with the moon's phases.",
+   "description_zh": "一套表盘与 App：Circa Solar 只有一根每天转一圈的时针，按当地太阳时和日出日落显示；Circa Lunar 用月相取代日历。",
+   "idea_en": "What if the Sun were your clock and the Moon your calendar?",
+   "idea_zh": "如果太阳是你的钟，月亮是你的日历，会怎样？",
+   "method": "The software geolocates the user to compute apparent solar time, daylight length and lunar phase, and drops minute and second hands.",
+   "method_zh": "软件根据用户所在经纬度计算视太阳时、昼长和月相，并去掉分针和秒针。",
+   "keywords": [
+    "solar time",
+    "lunar calendar",
+    "smartwatch",
+    "Ted Hunt",
+    "Kickstarter",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=1ICO5NV4JQg"
+   },
+   "images": [
+    "https://web.archive.org/web/20231209113039im_/http://circa.bio/img/border_applewatch_solar.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "giulia-tomasello--future-flora",
+   "creator_ids": [
+    "giulia-tomasello"
+   ],
+   "title": "Future Flora",
+   "year": 2016,
+   "field": "biohybrid",
+   "sub": "body-bio",
+   "also": [
+    "bio",
+    "hni"
+   ],
+   "organisms": [
+    "bacteria",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A harvesting kit that lets women grow beneficial bacteria at home and wear them in textile pads to treat and prevent vaginal infections; it won the STARTS Prize 2018 and is in the MAK Vienna collection.",
+   "description_zh": "一套“收获”工具包，让女性在家培养有益细菌，并把它们做进可穿戴的织物护垫，用来治疗和预防阴道感染；获 2018 年 STARTS Prize，并被维也纳 MAK 收藏。",
+   "idea_en": "Treat the body as a microbial ecosystem and wear the microbes that keep it healthy.",
+   "idea_zh": "把身体当作微生物生态系统，把让它健康的微生物穿在身上。",
+   "method": "Targeted lactic acid bacteria are grown on agar and microencapsulated into a non-woven fabric scaffold that is worn as a pad.",
+   "method_zh": "把选定的乳酸菌在琼脂上培养，再微胶囊化封装进无纺布支架，做成可以佩戴的护垫。",
+   "keywords": [
+    "probiotics",
+    "women's health",
+    "biodesign",
+    "STARTS Prize",
+    "wearable",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=oWN8VToG5es"
+   },
+   "images": [
+    "https://cortex.persona.co/w/320/h/320/c/0/0/320/320/i/fa7c91a4e51a384a49320bd5f32def069b34144ffd867b82508fba71b6bd0b82/16464742_382879488737904_8919630051306110976_a.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "miya-masaoka--pieces-for-plants",
+   "creator_ids": [
+    "miya-masaoka"
+   ],
+   "title": "Pieces for Plants",
+   "year": 2002,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "also": [
+    "biohybrid",
+    "hni"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Compositions in which houseplants are wired with biofeedback electrodes; their electrical responses to light, proximity and touch from visitors and performers are turned into sound.",
+   "description_zh": "一系列作品中，室内植物接上生物反馈电极，它们对光、靠近和观众或演奏者触碰的电反应被转换成声音。",
+   "idea_en": "Treat plants as co-performers whose responses shape the music.",
+   "idea_zh": "把植物当作共同演奏者，由它们的反应塑造音乐。",
+   "method": "Galvanic-response electrodes on leaves feed a computer that maps the plants' signal changes to synthesised sound; in later versions performers' brainwaves were added.",
+   "method_zh": "叶片上的皮电反应电极接入电脑，把植物信号的变化映射为合成声音；后来的版本还加入了演奏者的脑电波。",
+   "keywords": [
+    "plant biofeedback",
+    "sound art",
+    "Miya Masaoka",
+    "interspecies music",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PD1Uf5BnK78"
+   },
+   "images": [
+    "https://miyamasaoka.com/wp-content/uploads/1999/07/w.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "michaela-honauer--treesense",
+   "creator_ids": [
+    "michaela-honauer"
+   ],
+   "title": "Treesense",
+   "year": 2024,
+   "field": "hni",
+   "sub": "umwelt",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A modular costume kit of fabric parts and programmable sensors with which children turn themselves into a tree, feeling sun, wind and water as a tree would through light, sound and vibration.",
+   "description_zh": "一套由织物部件和可编程传感器组成的模块化服装，孩子可以把自己“变成”一棵树，通过光、声和振动像树一样感受阳光、风和水。",
+   "idea_en": "Let children understand a tree by becoming one with their bodies.",
+   "idea_zh": "让孩子用身体变成一棵树，从而理解树。",
+   "method": "Textile modules with embedded sensors and actuators map environmental inputs to haptic, sound and light feedback during role play.",
+   "method_zh": "内嵌传感器和执行器的织物模块在角色扮演中把环境输入映射为触觉、声音和光的反馈。",
+   "keywords": [
+    "children",
+    "embodied play",
+    "e-textiles",
+    "trees",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3628516.3659425",
+    "doi": "10.1145/3628516.3659425",
+    "venue": "IDC 2024",
+    "title": "TREESENSE – Sensitising Children to Nature through Embodied Play"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png",
+    "https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "francesca-valsecchi--stromatolive",
+   "creator_ids": [
+    "francesca-valsecchi"
+   ],
+   "title": "Stromatolive",
+   "year": 2024,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "bacteria",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "An interactive installation that turns the layered interior of stromatolites, sediment rocks built by microbial mats and banded like tree rings, into images and sound that visitors explore by touching the layers.",
+   "description_zh": "一件互动装置，把叠层石（由微生物席堆积而成、像年轮一样分层的沉积岩）内部的层理转成图像和声音，观众通过触摸各层来探索。",
+   "idea_en": "Listen to deep time recorded by microbes in stone.",
+   "idea_zh": "倾听微生物在石头里记录下的深时间。",
+   "method": "Scans of stromatolite cross-sections are mapped to visuals and sonified; touch sensors let visitors trigger the sound of each layer.",
+   "method_zh": "把叠层石切面的扫描映射为画面并声音化；触摸传感器让观众触发每一层的声音。",
+   "keywords": [
+    "stromatolite",
+    "sonification",
+    "soundscape",
+    "deep time",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.752",
+    "doi": "10.21606/drs.2024.752",
+    "venue": "DRS 2024",
+    "title": "Designing through ecological soundscape to foster human-nature interaction"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "francesca-valsecchi--under-the-shade",
+   "creator_ids": [
+    "francesca-valsecchi"
+   ],
+   "title": "Under the Shade",
+   "year": 2024,
+   "field": "hni",
+   "sub": "digital-nature",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A sound installation of loudspeakers that plays a generated soundscape of crows, letting people listen to crows and their calls away from the birds' own habitat.",
+   "description_zh": "由一组扬声器组成的声音装置，播放生成的乌鸦声景，让人在乌鸦栖息地之外聆听它们和它们的叫声。",
+   "idea_en": "Use sound to bring an overlooked urban bird into attention.",
+   "idea_zh": "用声音把一种被忽视的城市鸟类带入人的注意。",
+   "method": "Field recordings of crows are arranged into a spatial soundscape across multiple speakers.",
+   "method_zh": "把乌鸦的野外录音编排成分布在多个扬声器上的空间声景。",
+   "keywords": [
+    "crows",
+    "soundscape",
+    "urban birds",
+    "sound installation",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.752",
+    "venue": "DRS 2024",
+    "title": "Designing through ecological soundscape to foster human-nature interaction",
+    "doi": "10.21606/drs.2024.752"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "david-oreilly--everything",
+   "creator_ids": [
+    "david-oreilly"
+   ],
+   "title": "Everything",
+   "year": 2017,
+   "field": "hni",
+   "sub": "digital-nature",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A video game in which the player can become anything in the universe, from a bacterium or an animal to a planet or a galaxy, and move between scales, narrated by lectures of Alan Watts.",
+   "description_zh": "一款电子游戏：玩家可以成为宇宙中的任何东西，从细菌、动物到行星和星系，并在不同尺度间切换，配有 Alan Watts 讲座的旁白。",
+   "idea_en": "Play as every thing, so no one perspective is central.",
+   "idea_zh": "扮演万物，于是没有哪一种视角处于中心。",
+   "method": "A procedural open world lets the player possess any object or creature and zoom between scales; the gameplay film ran as an autoplay artwork.",
+   "method_zh": "程序化开放世界允许玩家附身于任何物体或生物，在尺度间缩放；游戏影片还作为自动播放的艺术作品展出。",
+   "keywords": [
+    "video game",
+    "perspective taking",
+    "Alan Watts",
+    "scale",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=HdJk8ROpuEo"
+   },
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.606",
+    "doi": "10.21606/drs.2024.606",
+    "venue": "DRS 2024",
+    "title": "Exploring more-than-human worlds and becoming with living and non-living entities through play"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "herobeat-studios--endling",
+   "creator_ids": [
+    "herobeat-studios"
+   ],
+   "title": "Endling: Extinction is Forever",
+   "year": 2022,
+   "field": "hni",
+   "sub": "digital-nature",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "product",
+   "description": "A video game in which the player is the last mother fox on an Earth ravaged by humans, protecting her cubs while forests are cut and rivers polluted.",
+   "description_zh": "一款电子游戏：玩家扮演在被人类破坏的地球上最后一只母狐狸，在森林被砍、河流被污染时保护幼崽。",
+   "idea_en": "Experience ecological collapse from the viewpoint of an animal trying to survive it.",
+   "idea_zh": "从一只努力求生的动物的视角体验生态崩溃。",
+   "method": "A side-scrolling survival game where the environment degrades day by day as a consequence of off-screen human activity.",
+   "method_zh": "一款横版生存游戏，环境随着画面外人类活动一天天恶化。",
+   "keywords": [
+    "video game",
+    "extinction",
+    "fox",
+    "Herobeat Studios",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=kiM2_XB_HZE"
+   },
+   "images": [
+    "https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-3.jpg",
+    "https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-Win64-Shipping-2021-12-19-11-30-22.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.606",
+    "venue": "DRS 2024",
+    "title": "Exploring more-than-human worlds and becoming with living and non-living entities through play",
+    "doi": "10.21606/drs.2024.606"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "martin-tironi--hybrid-ecologies",
+   "creator_ids": [
+    "martin-tironi"
+   ],
+   "title": "Hybrid Ecologies",
+   "year": 2024,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An installation where visitors generate AI images and the machine releases the amount of water that producing each image consumed in data-centre cooling, making the hidden water footprint of AI visible.",
+   "description_zh": "一件装置：观众生成 AI 图像，机器同时放出生成这张图在数据中心冷却中消耗的水量，让 AI 隐藏的用水足迹变得可见。",
+   "idea_en": "Make the earthly cost of AI tangible at the moment it is used.",
+   "idea_zh": "在使用 AI 的那一刻，让它的地球成本变得可以触摸。",
+   "method": "An image-generation interface is coupled to a pump that dispenses water in proportion to estimated per-image water consumption.",
+   "method_zh": "图像生成界面与水泵相连，按每张图的估算耗水量放出相应的水。",
+   "keywords": [
+    "artificial intelligence",
+    "water footprint",
+    "data centres",
+    "Chile",
+    "Venice Biennale",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=NBnjZc1JOrs"
+   },
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.1104",
+    "doi": "10.21606/drs.2024.1104",
+    "venue": "DRS 2024",
+    "title": "Hybrid Ecologies of artificial intelligence: prototyping terrestrial practices through a design installation"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "asa-river-jackson--mutualistic-design-products",
+   "creator_ids": [
+    "asa-river-jackson"
+   ],
+   "title": "Mutualistic Design Products",
+   "year": 2024,
+   "field": "mth",
+   "sub": "multispecies",
+   "organisms": [
+    "insects",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "A bench, a coffee table and a wall designed to be deliberately 'suboptimal' for humans so they also serve other species, through untreated materials, rough surfaces and cavities that insects, plants and fungi can use.",
+   "description_zh": "一张长椅、一张咖啡桌和一面墙，刻意对人来说“不那么完美”，以便同时服务其他物种：未处理的材料、粗糙表面和孔洞可供昆虫、植物和真菌利用。",
+   "idea_en": "Accept a little less comfort for people in exchange for room for other species.",
+   "idea_zh": "为人少一点舒适，换来其他物种的一点空间。",
+   "method": "A mutualistic design method chooses materials, processing and arrangement for both human use and nonhuman habitat value.",
+   "method_zh": "用“互利共生”设计方法同时依据人的使用和非人栖息价值来选择材料、加工方式与布置。",
+   "keywords": [
+    "mutualism",
+    "suboptimal design",
+    "furniture",
+    "habitat",
+    "Kneile 2025: intertwining spaces",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.21606/drs.2024.347",
+    "doi": "10.21606/drs.2024.347",
+    "venue": "DRS 2024",
+    "title": "Using a Mutualistic Design Methodology to Exhibit the Benefits of “Suboptimal” Product Design"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "hni"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "zoe-qi-jing-li--i-tell-the-moon-my-secret",
+   "creator_ids": [
+    "zoe-qi-jing-li"
+   ],
+   "title": "I Tell the Moon My Secret and the Moon Tells Me Yours",
+   "year": 2024,
+   "field": "hni",
+   "sub": "nature-connection",
+   "organisms": [
+    "ecosystems",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "People whisper a secret into the work; its waveform is exposed onto photographic paper using only moonlight as the light source, so the image appears only on nights when the moon is clearly visible.",
+   "description_zh": "人们对着作品低声说出一个秘密；它的声波被曝光到相纸上，光源只有月光，所以只有在月亮清晰可见的夜晚，图像才会出现。",
+   "idea_en": "Hand part of the making to the moon, so the work depends on a celestial rhythm.",
+   "idea_zh": "把一部分创作交给月亮，让作品取决于天体的节律。",
+   "method": "Recorded speech is converted to a waveform pattern and printed by long-exposure photography under moonlight.",
+   "method_zh": "录下的语音转换成波形图案，在月光下通过长时间曝光印制出来。",
+   "keywords": [
+    "moonlight",
+    "long exposure",
+    "voice",
+    "Varvara Guljajeva",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3635636.3660501",
+    "doi": "10.1145/3635636.3660501",
+    "venue": "C&C 2024",
+    "title": "A Synergistic Connection: I Tell the Moon My Secret and the Moon Tells Me Yours"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png",
+    "https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png"
+   ],
+   "also": [
+    "mth"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "marine-zorea--sound-passage",
+   "creator_ids": [
+    "marine-zorea"
+   ],
+   "title": "Sound Passage",
+   "year": 2024,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A window device that opens by itself to let outside sounds into the home; when it opens depends on changes outdoors, such as people, plants, animals or machines moving.",
+   "description_zh": "一个会自己打开的窗户装置，把屋外的声音放进家里；何时打开取决于户外的变化，比如人、植物、动物或机器的动静。",
+   "idea_en": "Let the outside world, not the resident, decide when home is quiet.",
+   "idea_zh": "让外面的世界而不是住户来决定家何时安静。",
+   "method": "An outdoor microphone detects changes in the soundscape and an actuator opens a vent to let sound in.",
+   "method_zh": "户外麦克风检测声景变化，执行器打开通风口让声音进入。",
+   "keywords": [
+    "domestic soundscape",
+    "care",
+    "sound design",
+    "home",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660686",
+    "doi": "10.1145/3643834.3660686",
+    "venue": "DIS 2024",
+    "title": "All Is Heard: Reimagining The Sounds of Home With Care"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "marine-zorea--humming-washer",
+   "creator_ids": [
+    "marine-zorea"
+   ],
+   "title": "Humming Washer",
+   "year": 2024,
+   "field": "hni",
+   "sub": "nature-connection",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals"
+   ],
+   "kind": "prototype",
+   "description": "A washing machine add-on that records bird song from nearby trees and plays it back when people press the machine's buttons, replacing beeps with the local birds.",
+   "description_zh": "一个洗衣机附件，录下附近树上的鸟鸣，在人按下洗衣机按钮时播放，用本地鸟声替代提示音。",
+   "idea_en": "Replace appliance beeps with the voices of the neighbours outside.",
+   "idea_zh": "用窗外邻居的声音替代家电的提示音。",
+   "method": "A microphone near trees captures bird calls, which a controller plays in response to button presses.",
+   "method_zh": "树旁的麦克风采集鸟叫，控制器在按钮被按下时播放。",
+   "keywords": [
+    "birdsong",
+    "domestic appliances",
+    "sound design",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660686",
+    "venue": "DIS 2024",
+    "title": "All Is Heard: Reimagining The Sounds of Home With Care",
+    "doi": "10.1145/3643834.3660686"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "yuta-ikeya--pottery-wheel",
+   "creator_ids": [
+    "yuta-ikeya",
+    "bahareh-barati"
+   ],
+   "title": "Pottery Wheel (Making Pottery with Bees)",
+   "year": 2023,
+   "field": "mth",
+   "sub": "multispecies",
+   "also": [
+    "aci",
+    "hni"
+   ],
+   "organisms": [
+    "insects",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "A pottery wheel that a human and red mason bees share: the person throws clay-rich mud, but when the sensor hive reports bees coming out, the wheel stops so the bees can collect the same mud for their nests.",
+   "description_zh": "一台由人和红壁蜂共用的陶轮：人用富含黏土的泥拉坯，但当带传感器的蜂巢报告有蜜蜂飞出时，陶轮停转，让蜜蜂采集同样的泥来筑巢。",
+   "idea_en": "Let bees interrupt human work, so sharing a material becomes a negotiation.",
+   "idea_zh": "让蜜蜂打断人的工作，把共享材料变成一次协商。",
+   "method": "The Beehouse's sensors send a signal to the wheel's motor controller, which halts rotation while bees are active.",
+   "method_zh": "Beehouse 的传感器向陶轮电机控制器发出信号，蜜蜂活动时陶轮停止转动。",
+   "keywords": [
+    "Osmia bicornis",
+    "mason bees",
+    "pottery",
+    "mud",
+    "Dutch Design Week",
+    "Kneile 2025: intruding",
+    "Kneile 2025: nature's agency"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/12bdfd63-544a-491b-add0-6ab19edcd7ea/potterywithbee.jpg",
+    "https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1e72bca4-5804-4a5d-bc63-f61ca3ab9aaf/garden.jpg"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3643834.3660743",
+    "venue": "DIS 2024",
+    "title": "Designing for Interdependence of Bees, Garden, Designer, and the Changing Season",
+    "doi": "10.1145/3643834.3660743"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "zhenchi-lai--ai-cat-narrator",
+   "creator_ids": [
+    "zhenchi-lai"
+   ],
+   "title": "AI Cat Narrator",
+   "year": 2024,
+   "field": "aci",
+   "sub": "companion",
+   "also": [
+    "hni",
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "humans"
+   ],
+   "kind": "prototype",
+   "description": "An AI tool that writes alternative stories of everyday moments between a cat and its people, told from the cat's side, based on sensor data from cats, cat literature and interviews with owners.",
+   "description_zh": "一个 AI 工具，根据猫的传感数据、有关猫的文献和对主人的访谈，从猫的角度为猫与人的日常瞬间写出另一种故事。",
+   "idea_en": "Use AI to imagine the shared home as the cat might tell it.",
+   "idea_zh": "用 AI 想象猫会怎样讲述这个共同的家。",
+   "method": "Data logged from cats is combined with literature and interview material in a large language model that generates first-person cat narratives.",
+   "method_zh": "把记录下来的猫的数据与文献和访谈材料一起输入大语言模型，生成猫第一人称的叙事。",
+   "keywords": [
+    "cats",
+    "large language model",
+    "narrative",
+    "companion animals",
+    "Kneile 2025: exploring",
+    "Kneile 2025: human agency"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3656156.3663692",
+    "doi": "10.1145/3656156.3663692",
+    "venue": "DIS 2024 Companion",
+    "title": "AI Cat Narrator: Designing an AI Tool for Exploring the Shared World and Social Connection with a Cat"
+   },
+   "collections": [
+    "kneile-2025"
+   ],
+   "images": [
+    "https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png",
+    "https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive"
+  },
+  {
+   "id": "jane-tingley--foresta-inclusive",
+   "creator_ids": [
+    "jane-tingley"
+   ],
+   "title": "Foresta-Inclusive",
+   "year": 2021,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Three sculptural sensor pods mounted on forest trees measure soil temperature, rain, CO2, particulate matter and more, and stream the data to interactive gallery installations that make the slow life of trees perceptible.",
+   "description_zh": "三个雕塑般的传感器舱安装在林中树干上，测量土壤温度、降雨、二氧化碳、颗粒物等，并把数据传给画廊里的互动装置，让树木缓慢的生命变得可以感知。",
+   "idea_en": "Build infrastructure for listening to a forest's slow voice.",
+   "idea_zh": "为聆听森林缓慢的声音搭建基础设施。",
+   "method": "WiFi-enabled eco-sensor pods send forest data to an Internet of Things platform that drives several art installations.",
+   "method_zh": "联网的生态传感器舱把森林数据发到物联网平台，驱动多件艺术装置。",
+   "keywords": [
+    "ecosensors",
+    "Internet of Things",
+    "forest",
+    "SLOlab",
+    "Kneile 2025: revealing and recognizing",
+    "Kneile 2025: human agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9RgymypJYWE"
+   },
+   "images": [
+    "https://janetingley.com/wp-content/uploads/2022/11/Air-Pod-1.png"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "thijs-biersteker--symbiosia",
+   "creator_ids": [
+    "thijs-biersteker"
+   ],
+   "title": "Symbiosia",
+   "year": 2019,
+   "field": "hni",
+   "sub": "eco-feedback",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "A real-time installation at the Fondation Cartier, Paris, in which twelve sensors on two trees measure moisture, temperature, CO2 and light, and an algorithm draws a new tree ring every second instead of every year.",
+   "description_zh": "巴黎卡地亚当代艺术基金会的一件实时装置：两棵树上的十二个传感器测量湿度、温度、二氧化碳和光照，算法每秒而不是每年画出一圈新的年轮。",
+   "idea_en": "Give trees a visual voice about their environment, in human time.",
+   "idea_zh": "用人的时间尺度，让树为自己的环境发出看得见的声音。",
+   "method": "Sensor data from the trees feeds a generative algorithm that renders rings whose shape reflects the trees' responses, with plant neurobiologist Stefano Mancuso.",
+   "method_zh": "树上的传感器数据输入生成算法，绘出反映树木反应的年轮；与植物神经生物学家 Stefano Mancuso 合作。",
+   "keywords": [
+    "tree rings",
+    "data art",
+    "Fondation Cartier",
+    "Stefano Mancuso",
+    "Kneile 2025: exchanging and expressing",
+    "Kneile 2025: shared agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=0AMH239bEG8"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/5d80d9eeb97e2f5b4a6ceb62/1583048194961-J2B9LFJCZHFAAFR91EK3/2.003.jpeg",
+    "http://static1.squarespace.com/static/5d80d9eeb97e2f5b4a6ceb62/t/5d8c996d1d33674f2b89377c/1571932498263/websitedesign.001.jpeg?format=1500w"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "joaquin-fargas--glaciator",
+   "creator_ids": [
+    "joaquin-fargas"
+   ],
+   "title": "Glaciator",
+   "year": 2018,
+   "field": "hni",
+   "sub": "outdoor",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "Solar-powered walking robots on an Antarctic glacier whose steps compact and recrystallise snow into ice, adding mass to the glacier as a gesture against its melting.",
+   "description_zh": "在南极冰川上行走的太阳能机器人，它们的脚步把积雪压实、再结晶成冰，为冰川增加质量，以此回应冰川融化。",
+   "idea_en": "Build machines that work for the glacier rather than for people.",
+   "idea_zh": "造一台为冰川工作而不是为人工作的机器。",
+   "method": "Solar-powered robots with compacting feet walk over the snowpack, accelerating the conversion of snow into glacial ice.",
+   "method_zh": "带压实脚掌的太阳能机器人在雪面上行走，加速积雪转变为冰川冰。",
+   "keywords": [
+    "Antarctica",
+    "robots",
+    "glacier",
+    "climate change",
+    "Antarctic Biennale",
+    "Kneile 2025: empowering",
+    "Kneile 2025: nature's agency"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=PlEHoYRHPQ0"
+   },
+   "images": [
+    "https://www.joaquinfargas.com/wp-content/uploads/2018/09/Adaggio-Tarjet-IMG_9759-1024x683.jpg"
+   ],
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ],
+   "also": [
+    "mth"
+   ]
+  }
+ ],
+ "leads": []
+}
