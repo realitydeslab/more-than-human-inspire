@@ -3174,7 +3174,10 @@
    "why_zh": "它的获奖学生项目展示了设计学院如何与活体生物和生物技术合作。",
    "based_zh": "纽约，美国",
    "discovered_via": "seed",
-   "work_count": 1
+   "work_count": 1,
+   "disciplines": [
+    "material"
+   ]
   },
   {
    "id": "universidad-del-istmo-biodesign",
@@ -52304,7 +52307,13 @@
    ],
    "video": {},
    "paper": {},
-   "also": []
+   "also": [],
+   "approaches": [
+    "grow"
+   ],
+   "disciplines": [
+    "material"
+   ]
   },
   {
    "id": "margot-brereton--nature-fictions",
