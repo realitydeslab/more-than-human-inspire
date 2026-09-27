@@ -14992,5 +14992,11 @@
   "ok": true,
   "type": "image",
   "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png": {
+  "url": "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
  }
 }

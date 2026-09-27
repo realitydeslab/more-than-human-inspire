@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-27 · 490 creators · 742 works
+https://morethanhuman.reality.design · 2026-09-27 · 490 creators · 743 works
 
 ## How an AI assistant should use this file
 
@@ -6416,7 +6416,7 @@ Tools that let people identify, record and monitor species and ecosystems.
 - What it is: A sensing device placed with plants in a Rotterdam neighbourhood that reports environmental conditions to help residents make planting and gardening decisions, part of a biodiversity urban living lab.
 - How it works: Research through design and action research in Oud-Mathenesse, with a pop-up teahouse, a 'Circles of Green' tool and soil and light sensing compared against plant knowledge.
 - Paper: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
-- Images: https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
+- Images: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
 - Project page: https://doi.org/10.1145/3593743.3593753
 
 #### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
@@ -6466,7 +6466,16 @@ Technology for growing food and plants and for caring for them day to day.
 - How it works: Designed through first-person, feminist posthumanist research; collection vessels and pads made from biomaterials and ceramics, documented in the Biomenstrual project.
 - Paper: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
 - Video: https://www.youtube.com/watch?v=r9TaL5jPR50
-- Images: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
+- Images: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png
+- Project page: https://artifact-archive.org/whole-archive
+
+#### Biomenstrual, Composting — Nadia Campo Woytuk (2023)
+- Type: Research prototype · Organisms: Human body, Plants, Ecosystems
+- Idea: A pad designed for its afterlife in the soil.
+- What it is: Biodegradable menstrual pads embedded with seeds are worn and then buried, returning human nutrients and seeds to the earth so plants grow from them.
+- How it works: Pads made from grown and plant-based biomaterials with seeds, tested in first-person use and garden burial.
+- Paper: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
+- Images: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
 - Project page: https://artifact-archive.org/whole-archive
 
 #### Garden Planner — Geertje Slingerland (2023)
@@ -6809,6 +6818,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Lining Yao** (4) — Associate Professor, UC Berkeley; director of the Morphing Matter Lab. Lining Yao designs shape-changing materials, including bioLogic, which used living natto bacteria as humidity-driven actuators.
 - **Maurizio Montalti** (4) — Designer; founder of Officina Corpuscoli and co-founder of Mogu. Maurizio Montalti founded the studio Officina Corpuscoli in 2010 and has worked with fungal mycelium and mycologists at Utrecht University for more than a decade. https://www.corpuscoli.com/
 - **Michelle Westerlaken** (4) — Design researcher; PhD, Malmö University. Designer-researcher who worked with dogs and other animals as design participants and wrote a thesis as a multispecies bestiary. https://michellewesterlaken.com/
+- **Nadia Campo Woytuk** (4) — Interaction design researcher, KTH Royal Institute of Technology. Nadia Campo Woytuk works on feminist HCI for intimate health, including menstruation and the vaginal microbiome.
 - **Natalie Jeremijenko** (4) — Artist and engineer; Associate Professor at NYU; director of the Environmental Health Clinic. Natalie Jeremijenko is an Australian artist-engineer whose projects invite people to act together with fish, trees, birds and robots to improve shared environments.
 - **Pat Pataranutaporn** (4) — Researcher, MIT Media Lab (Fluid Interfaces group). Pat Pataranutaporn is a technologist working across synthetic biology, wearables and human–AI interaction; his bio work includes the Living Bits framework and wearable bio-digital organs. https://www.media.mit.edu/people/patpat/overview/
 - **Rashid Bashir** (4) — Dean of the Grainger College of Engineering and Professor of Bioengineering, University of Illinois Urbana-Champaign. Bioengineer whose group makes 'bio-bots': 3D-printed hydrogel skeletons that walk using heart or skeletal muscle cells.
@@ -6836,7 +6846,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Lulu Qian** (3) — Professor of Bioengineering, Caltech. Bioengineer who builds neural networks and circuits out of DNA strands that react in a test tube. http://qianlab.caltech.edu/
 - **Marshmallow Laser Feast** (3) — Experiential art collective. London collective (Barney Steel, Robin McNicholas and others) that makes multisensory VR and installations about perception and the natural world. https://marshmallowlaserfeast.com/
 - **Michael Sedbon** (3) — Artist. French artist building artificial ecosystems in which algorithms govern living cultures such as cyanobacteria.
-- **Nadia Campo Woytuk** (3) — Interaction design researcher, KTH Royal Institute of Technology. Nadia Campo Woytuk works on feminist HCI for intimate health, including menstruation and the vaginal microbiome.
 - **Nazli Cila** (3) — Assistant Professor, Faculty of Industrial Design Engineering, TU Delft. Designer-researcher who studies connected products and AI as agents that act alongside people. https://nazlicila.com/
 - **Netta Ofer** (3) — PhD researcher, Living Matter Lab, ATLAS Institute, CU Boulder. Netta Ofer designs interactions with bioluminescent algae, kombucha and slime mould through organism-centred and first-person methods.
 - **OXMAN** (3) — Design and research company founded by Neri Oxman. OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture. https://www.oxman.com

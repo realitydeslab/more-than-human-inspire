@@ -2,7 +2,7 @@
 
 超越人类的设计、生物设计、人类 × 生物计算与类器官计算设计的作品目录：论文、研究原型、艺术作品和产品，由 Reality Design Lab 整理，作为设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 742 件作品
+https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 743 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -6416,7 +6416,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 742 �
 - 作品内容: 放在鹿特丹一个社区植物旁的感测装置，报告环境状况，帮助居民决定种什么、怎么打理花园；它是一个生物多样性城市生活实验室的一部分。
 - 实现方式: 在 Oud-Mathenesse 社区开展“通过设计做研究”与行动研究，包括快闪茶屋、“Circles of Green”工具，以及把土壤与光照传感数据与植物知识对照。
 - 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
-- 图片: https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
+- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
 - 项目主页: https://doi.org/10.1145/3593743.3593753
 
 #### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
@@ -6466,7 +6466,16 @@ https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 742 �
 - 实现方式: 通过第一人称、女性主义后人类研究进行设计；用生物材料和陶瓷制作收集容器与护垫，记录在 Biomenstrual 项目中。
 - 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
 - 视频: https://www.youtube.com/watch?v=r9TaL5jPR50
-- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
+- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Biomenstrual, Composting — Nadia Campo Woytuk (2023)
+- 类型: 研究原型 · 生物: 人体, 植物, 生态系统
+- 核心想法: 为其在土壤中的“来世”而设计的护垫。
+- 作品内容: 嵌有种子的可降解月经护垫，使用后被埋入土中，把人体的养分和种子还给大地，让植物从中长出。
+- 实现方式: 用生长型与植物基生物材料加种子制成护垫，通过第一人称使用和埋入花园进行测试。
+- 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
+- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
 - 项目主页: https://artifact-archive.org/whole-archive
 
 #### Garden Planner — Geertje Slingerland (2023)
@@ -6809,6 +6818,7 @@ https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 742 �
 - **Lining Yao** (4) — 加州大学伯克利分校副教授，Morphing Matter Lab 负责人. 姚立宁（Lining Yao）设计可变形材料，其中 bioLogic 用活的纳豆菌作为受湿度驱动的执行器。
 - **Maurizio Montalti** (4) — 设计师；Officina Corpuscoli 创始人，Mogu 联合创始人. Maurizio Montalti 于 2010 年创立工作室 Officina Corpuscoli，十多年来与乌得勒支大学的真菌学家一起研究菌丝体。 https://www.corpuscoli.com/
 - **Michelle Westerlaken** (4) — 设计研究者，马尔默大学博士. 设计研究者，把狗和其他动物作为设计参与者，并以“多物种动物寓言集”的形式写成博士论文。 https://michellewesterlaken.com/
+- **Nadia Campo Woytuk** (4) — 瑞典皇家理工学院（KTH）交互设计研究者. Nadia Campo Woytuk 从事面向私密健康的女性主义 HCI 研究，包括月经和阴道微生物组。
 - **Natalie Jeremijenko** (4) — 艺术家、工程师；纽约大学副教授；环境健康诊所负责人. Natalie Jeremijenko 是澳大利亚艺术家兼工程师，其项目邀请人们与鱼、树、鸟和机器人一起行动，改善共同的环境。
 - **Pat Pataranutaporn** (4) — 麻省理工学院媒体实验室（Fluid Interfaces 组）研究员. Pat Pataranutaporn 横跨合成生物学、可穿戴设备和人机智能交互开展研究；他的生物方向工作包括 Living Bits 框架和可穿戴的生物-数字器官。 https://www.media.mit.edu/people/patpat/overview/
 - **Rashid Bashir** (4) — 伊利诺伊大学厄巴纳-香槟分校格兰杰工程学院院长、生物工程教授. 生物工程师，团队制作“生物机器人”：3D 打印的水凝胶骨架，用心肌或骨骼肌细胞驱动行走。
@@ -6836,7 +6846,6 @@ https://morethanhuman.reality.design · 2026-09-27 · 490 位创作者 · 742 �
 - **Lulu Qian** (3) — 加州理工学院生物工程教授. 生物工程师，用在试管中反应的 DNA 链搭建神经网络和电路。 http://qianlab.caltech.edu/
 - **Marshmallow Laser Feast** (3) — 体验艺术团体. 伦敦艺术团体（Barney Steel、Robin McNicholas 等），创作关于感知与自然世界的多感官 VR 与装置。 https://marshmallowlaserfeast.com/
 - **Michael Sedbon** (3) — 艺术家. 法国艺术家，搭建由算法管理蓝藻等活体培养物的人工生态系统。
-- **Nadia Campo Woytuk** (3) — 瑞典皇家理工学院（KTH）交互设计研究者. Nadia Campo Woytuk 从事面向私密健康的女性主义 HCI 研究，包括月经和阴道微生物组。
 - **Nazli Cila** (3) — 代尔夫特理工大学工业设计工程学院助理教授. 设计研究者，研究把联网产品和 AI 当作与人并肩行动的“代理者”。 https://nazlicila.com/
 - **Netta Ofer** (3) — 科罗拉多大学博尔德分校 ATLAS 研究所 Living Matter Lab 博士研究者. Netta Ofer 以生物为中心、以第一人称的方法，设计与发光藻、康普茶和黏菌的交互。
 - **OXMAN** (3) — 由 Neri Oxman 创立的设计与研究公司. OXMAN 以公司形式延续 Mediated Matter 的方向，开发由生物生长出的产品和生态建筑。 https://www.oxman.com

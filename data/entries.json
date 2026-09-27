@@ -3008,7 +3008,7 @@
    "why_zh": "她把女性主义批判带入与身体自身微生物一起设计的研究中。",
    "based_zh": "斯德哥尔摩，瑞典",
    "discovered_via": "mirela-alistar",
-   "work_count": 3
+   "work_count": 4
   },
   {
    "id": "ingmar-riedel-kruse",
@@ -14738,7 +14738,53 @@
     "embeddable": true
    },
    "images": [
-    "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png",
+    "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1145/3544548.3581083",
+    "venue": "CHI 2023",
+    "title": "Feminist Posthumanist Design of Menstrual Care for More-than-Human Bodies",
+    "doi": "10.1145/3544548.3581083"
+   },
+   "source_url": "https://artifact-archive.org/whole-archive",
+   "collections": [
+    "kneile-2025"
+   ]
+  },
+  {
+   "id": "nadia-campo-woytuk--biomenstrual-composting",
+   "creator_ids": [
+    "nadia-campo-woytuk"
+   ],
+   "title": "Biomenstrual, Composting",
+   "year": 2023,
+   "field": "hni",
+   "sub": "gardening",
+   "also": [
+    "bio",
+    "mth"
+   ],
+   "organisms": [
+    "humans",
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "prototype",
+   "description": "Biodegradable menstrual pads embedded with seeds are worn and then buried, returning human nutrients and seeds to the earth so plants grow from them.",
+   "description_zh": "嵌有种子的可降解月经护垫，使用后被埋入土中，把人体的养分和种子还给大地，让植物从中长出。",
+   "idea_en": "A pad designed for its afterlife in the soil.",
+   "idea_zh": "为其在土壤中的“来世”而设计的护垫。",
+   "method": "Pads made from grown and plant-based biomaterials with seeds, tested in first-person use and garden burial.",
+   "method_zh": "用生长型与植物基生物材料加种子制成护垫，通过第一人称使用和埋入花园进行测试。",
+   "keywords": [
+    "menstrual pads",
+    "compost",
+    "seeds",
+    "biomaterials",
+    "Kneile 2025: sharing common livelihoods",
+    "Kneile 2025: shared agency"
+   ],
+   "images": [
     "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png",
     "https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png"
    ],
@@ -14751,7 +14797,8 @@
    "source_url": "https://artifact-archive.org/whole-archive",
    "collections": [
     "kneile-2025"
-   ]
+   ],
+   "video": {}
   },
   {
    "id": "rebecca-kleinberger--parrot-video-calls",
@@ -16065,7 +16112,7 @@
     "Ikeya 2025: C1 sensing the environment"
    ],
    "images": [
-    "https://wsrv.nl/?url=figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png"
+    "https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png"
    ],
    "paper": {
     "doi": "10.1145/3593743.3593753",

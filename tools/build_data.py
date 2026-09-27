@@ -110,7 +110,7 @@ def dedupe(works: list) -> list:
             keys.append(f"v:{w['video']['platform']}:{w['video']['id']}")
         # same DOI only means same work when the titles agree too: one paper can present several artifacts
         cur = next((index[k] for k in keys if k in index
-                    and (not k.startswith("doi:") or _similar(index[k].get("title", ""), w.get("title", "")) >= 0.6)), None)
+                    and (not k.startswith("doi:") or _similar(index[k].get("title", ""), w.get("title", "")) >= 0.9)), None)
         if cur is None:
             w["creator_ids"] = list(dict.fromkeys(w.get("creator_ids", [])))
             out.append(w)
