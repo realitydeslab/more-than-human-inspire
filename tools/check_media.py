@@ -24,11 +24,16 @@ IMG_EXT = re.compile(r"\.(jpe?g|png|webp|gif|avif)(\?|#|$)", re.I)
 TRANSIENT = re.compile(r"HTTP Error (429|5\d\d)|timed out|Temporary failure|Connection reset|RemoteDisconnected")
 
 
+# Wikimedia rejects browser-like user agents from scripts (robot policy); it wants an identifying one.
+BOT_UA = {"User-Agent": "MoreThanHumanInspire/1.0 (https://morethanhuman.reality.design; link checker)"}
+
+
 def _open(url: str, headers: dict | None = None, timeout: int = 20, tries: int = 3):
     """urlopen with retry and backoff on rate limits and server errors."""
+    base = BOT_UA if "wikimedia.org" in url or "wikipedia.org" in url else UA
     for i in range(tries):
         try:
-            return urllib.request.urlopen(urllib.request.Request(url, headers={**UA, **(headers or {})}), timeout=timeout)
+            return urllib.request.urlopen(urllib.request.Request(url, headers={**base, **(headers or {})}), timeout=timeout)
         except Exception as e:  # noqa: BLE001 - retried only when transient
             if i == tries - 1 or not TRANSIENT.search(f"{type(e).__name__}: {e}"):
                 raise

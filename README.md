@@ -42,7 +42,9 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 |---|---|
 | `python3 tools/check_media.py <url>…` / `--doi` / `--arxiv` / `--og <page>` | Check videos, images, DOIs and arXiv ids; list image candidates on a page |
 | `python3 tools/validate.py data/raw/<file>.json` (or `--all`) | Check a batch: required bilingual fields, taxonomy ids, duplicates |
-| `python3 tools/build_data.py [--recheck]` | Merge batches, verify every link, write `data/entries.*`, catalogs and `llms.txt` |
+| `python3 tools/build_data.py [--recheck]` | Merge batches, verify every link, write `data/entries.*`, catalogs and `llms.txt`; warns about works removed since the last build |
+| `python3 tools/audit_titles.py` | List same-title works across batches (possible duplicates) |
+| `tools/publish.sh "<message>"` | Validate all, rebuild, refuse on errors or unexpected removals, commit and push |
 
 ## Run locally
 

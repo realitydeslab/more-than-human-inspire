@@ -1388,8 +1388,8 @@
    "description_zh": "一系列声音装置：记录植物和菌根网络中的电动作电位，并在三维音频森林声景中进行空间化呈现。",
    "idea_en": "Plant electrical signals can be composed into immersive sound, not just plotted as data.",
    "idea_zh": "植物的电信号可以被作曲成沉浸式声音，而不只是画成数据图。",
-   "method": "Electrodes read plant action potentials, which drive sounds placed in space with novel 3D spatialisation techniques.",
-   "method_zh": "电极读取植物动作电位，驱动用新型三维空间化技术放置的声音。",
+   "method": "Electrodes read plant action potentials, which drive sounds placed around listeners with custom 3D spatialisation.",
+   "method_zh": "电极读取植物动作电位，驱动经过定制三维空间化处理、分布在听众四周的声音。",
    "keywords": [
     "plant electrophysiology",
     "3D audio",

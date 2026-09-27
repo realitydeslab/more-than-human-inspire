@@ -19205,8 +19205,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosquito_Alert_coverage_in_Europe.jpg/960px-Mosquito_Alert_coverage_in_Europe.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "doi:10.1038/s41467-017-00914-9": {
   "doi": "10.1038/s41467-017-00914-9",
@@ -19230,8 +19229,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg/960px-INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:yVVIlfNFLhs": {
   "url": "https://www.youtube.com/watch?v=yVVIlfNFLhs",
@@ -19246,8 +19244,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BioBlitz_Auckland_2005.jpg/960px-BioBlitz_Auckland_2005.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:IWb1y9HHu3o": {
   "url": "https://www.youtube.com/watch?v=IWb1y9HHu3o",
@@ -19352,8 +19349,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/FarmBot_Genesis_indoors.jpg/960px-FarmBot_Genesis_indoors.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:dCIFt8qNT3Y": {
   "url": "https://www.youtube.com/watch?v=dCIFt8qNT3Y",
@@ -19716,8 +19712,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Smog_free_tower_in_Beijing_03.jpg/960px-Smog_free_tower_in_Beijing_03.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:1e21KiPMm88": {
   "url": "https://www.youtube.com/watch?v=1e21KiPMm88",
@@ -19732,8 +19727,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GLOBAL-STRIPES-1850-2025-hires.png/960px-GLOBAL-STRIPES-1850-2025-hires.png",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/png"
  },
  "video:youtube:t8uepJMWbuo": {
   "url": "https://www.youtube.com/watch?v=t8uepJMWbuo",
@@ -19748,8 +19742,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Climate_Clock_NYC.jpg/960px-Climate_Clock_NYC.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:Z7UCUoWmv9I": {
   "url": "https://www.youtube.com/watch?v=Z7UCUoWmv9I",
@@ -19773,8 +19766,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Andrea_Polli_2013_Particle_Falls_056.JPG/960px-Andrea_Polli_2013_Particle_Falls_056.JPG",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:yFKTG3UqKGc": {
   "url": "https://www.youtube.com/watch?v=yFKTG3UqKGc",
@@ -20110,8 +20102,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RainRoomSharjah.jpg/960px-RainRoomSharjah.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:kYAaZ53tazU": {
   "url": "https://www.youtube.com/watch?v=kYAaZ53tazU",
@@ -20279,8 +20270,7 @@
   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg",
   "ok": true,
   "type": "image",
-  "error": "HTTPError: HTTP Error 429: Your request does not comply with our robot policy, https://w.wiki/4wJS. Please contact noc@wikimedia.org for further information (0fa5166)",
-  "unverified": true
+  "content_type": "image/jpeg"
  },
  "video:youtube:oUJGR6qNVzA": {
   "url": "https://www.youtube.com/watch?v=oUJGR6qNVzA",
@@ -22909,5 +22899,1829 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "video:youtube:eAnrfy96j9E": {
+  "url": "https://www.youtube.com/watch?v=eAnrfy96j9E",
+  "ok": true,
+  "platform": "youtube",
+  "id": "eAnrfy96j9E",
+  "title": "A Swifter Way Towards 3D-printed Organs",
+  "author": "Wyss Institute",
+  "thumbnail": "https://i.ytimg.com/vi/eAnrfy96j9E/hqdefault.jpg"
+ },
+ "video:youtube:93__9ZFI4yI": {
+  "url": "https://www.youtube.com/watch?v=93__9ZFI4yI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "93__9ZFI4yI",
+  "title": "Bioprinting complex living tissue in just a few seconds",
+  "author": "EPFL",
+  "thumbnail": "https://i.ytimg.com/vi/93__9ZFI4yI/hqdefault.jpg"
+ },
+ "doi:10.1073/pnas.1521342113": {
+  "doi": "10.1073/pnas.1521342113",
+  "ok": true,
+  "type": "doi",
+  "title": "Three-dimensional bioprinting of thick vascularized tissues",
+  "year": 2016,
+  "venue": "Proceedings of the National Academy of Sciences",
+  "url": "https://doi.org/10.1073/pnas.1521342113"
+ },
+ "video:youtube:g12qpAAqg6o": {
+  "url": "https://www.youtube.com/watch?v=g12qpAAqg6o",
+  "ok": true,
+  "platform": "youtube",
+  "id": "g12qpAAqg6o",
+  "title": "ReConstruct: 3D Bioprinted Vascularized Fat Tissues for Breast Recobstruction",
+  "author": "Wyss Institute",
+  "thumbnail": "https://i.ytimg.com/vi/g12qpAAqg6o/hqdefault.jpg"
+ },
+ "img:https://faberfutures.com/wp-content/uploads/2025/05/Faber-Futures_QUORUM_4-768x1024.jpeg": {
+  "url": "https://faberfutures.com/wp-content/uploads/2025/05/Faber-Futures_QUORUM_4-768x1024.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "video:youtube:cEuIyYnyGv0": {
+  "url": "https://www.youtube.com/watch?v=cEuIyYnyGv0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cEuIyYnyGv0",
+  "title": "Making MyBacon. A Look at MyForest Foods Mycelium Farming and Processing",
+  "author": "MyForest Foods",
+  "thumbnail": "https://i.ytimg.com/vi/cEuIyYnyGv0/hqdefault.jpg"
+ },
+ "video:youtube:W8tpiWSZfm0": {
+  "url": "https://www.youtube.com/watch?v=W8tpiWSZfm0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "W8tpiWSZfm0",
+  "title": "Lovely Trash - Mycelium 3d printing from waste",
+  "author": "Blast Studio",
+  "thumbnail": "https://i.ytimg.com/vi/W8tpiWSZfm0/hqdefault.jpg"
+ },
+ "video:youtube:wjAv24vhKmM": {
+  "url": "https://www.youtube.com/watch?v=wjAv24vhKmM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "wjAv24vhKmM",
+  "title": "Perfect Day's Precision Fermentation Animal-Free Milk Comes to Asia In an Industry First",
+  "author": "Animals Planet",
+  "thumbnail": "https://i.ytimg.com/vi/wjAv24vhKmM/hqdefault.jpg"
+ },
+ "video:youtube:ftoOT5f7jkE": {
+  "url": "https://www.youtube.com/watch?v=ftoOT5f7jkE",
+  "ok": true,
+  "platform": "youtube",
+  "id": "ftoOT5f7jkE",
+  "title": "Mobile Bedside Bioprinter Can Heal Wounds",
+  "author": "Barbara Ross",
+  "thumbnail": "https://i.ytimg.com/vi/ftoOT5f7jkE/hqdefault.jpg"
+ },
+ "img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-38366-w/MediaObjects/41598_2018_38366_Fig1_HTML.png": {
+  "url": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-38366-w/MediaObjects/41598_2018_38366_Fig1_HTML.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.1038/s41598-018-38366-w": {
+  "doi": "10.1038/s41598-018-38366-w",
+  "ok": true,
+  "type": "doi",
+  "title": "In Situ Bioprinting of Autologous Skin Cells Accelerates Wound Healing of Extensive Excisional Full-Thickness Wounds",
+  "year": 2019,
+  "venue": "Scientific Reports",
+  "url": "https://doi.org/10.1038/s41598-018-38366-w"
+ },
+ "doi:10.1038/nbt.2958": {
+  "doi": "10.1038/nbt.2958",
+  "ok": true,
+  "type": "doi",
+  "title": "3D bioprinting of tissues and organs",
+  "year": 2014,
+  "venue": "Nature Biotechnology",
+  "url": "https://doi.org/10.1038/nbt.2958"
+ },
+ "video:youtube:vzoowZzFZJs": {
+  "url": "https://www.youtube.com/watch?v=vzoowZzFZJs",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vzoowZzFZJs",
+  "title": "Reef Design Lab - MARS II",
+  "author": "REEF DESIGN LAB",
+  "thumbnail": "https://i.ytimg.com/vi/vzoowZzFZJs/hqdefault.jpg"
+ },
+ "video:youtube:s6UEKZRb2EY": {
+  "url": "https://www.youtube.com/watch?v=s6UEKZRb2EY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "s6UEKZRb2EY",
+  "title": "ReClaym our Compost: Biodegradable Clay for Intimate Making",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/s6UEKZRb2EY/hqdefault.jpg"
+ },
+ "doi:10.1145/3491102.3517711": {
+  "doi": "10.1145/3491102.3517711",
+  "ok": true,
+  "type": "doi",
+  "title": "ReClaym our Compost: Biodegradable Clay for Intimate Making",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3491102.3517711"
+ },
+ "doi:10.1145/3685526": {
+  "doi": "10.1145/3685526",
+  "ok": true,
+  "type": "doi",
+  "title": "Biodegradation as More-than-Human Unmaking",
+  "year": 2024,
+  "venue": "ACM Transactions on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/3685526"
+ },
+ "doi:10.1145/3686169.3686181": {
+  "doi": "10.1145/3686169.3686181",
+  "ok": true,
+  "type": "doi",
+  "title": "Directions for Degradation: Multispecies Entanglements with 3D Printed Biomaterials",
+  "year": 2024,
+  "venue": "Proceedings of the Halfway to the Future Symposium",
+  "url": "https://doi.org/10.1145/3686169.3686181"
+ },
+ "doi:10.1145/3706598.3714067": {
+  "doi": "10.1145/3706598.3714067",
+  "ok": true,
+  "type": "doi",
+  "title": "Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3714067"
+ },
+ "doi:10.1145/3563703.3593062": {
+  "doi": "10.1145/3563703.3593062",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Posthuman Data: Mapping Relations Between Bodies, Land and Data",
+  "year": 2023,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563703.3593062"
+ },
+ "video:youtube:cW876f40yho": {
+  "url": "https://www.youtube.com/watch?v=cW876f40yho",
+  "ok": true,
+  "platform": "youtube",
+  "id": "cW876f40yho",
+  "title": "Alternatives to Agrilogistics: Designing for Ecological Thinking",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/cW876f40yho/hqdefault.jpg"
+ },
+ "doi:10.1145/3479557": {
+  "doi": "10.1145/3479557",
+  "ok": true,
+  "type": "doi",
+  "title": "Alternatives to Agrilogistics: Designing for Ecological Thinking",
+  "year": 2021,
+  "venue": "Proceedings of the ACM on Human-Computer Interaction",
+  "url": "https://doi.org/10.1145/3479557"
+ },
+ "video:youtube:JqSW1nb6NMM": {
+  "url": "https://www.youtube.com/watch?v=JqSW1nb6NMM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "JqSW1nb6NMM",
+  "title": "Making space for material entanglements: A diffractive analysis of woodwork and the practice of ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/JqSW1nb6NMM/hqdefault.jpg"
+ },
+ "doi:10.1145/3532106.3533572": {
+  "doi": "10.1145/3532106.3533572",
+  "ok": true,
+  "type": "doi",
+  "title": "Making space for material entanglements: A diffractive analysis of woodwork and the practice of making an interactive system",
+  "year": 2022,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3532106.3533572"
+ },
+ "video:youtube:n7OupBMq5bA": {
+  "url": "https://www.youtube.com/watch?v=n7OupBMq5bA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "n7OupBMq5bA",
+  "title": "What the Sensor Knows: More-Than-Human Knowledge Co-Production in Wood Carving",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/n7OupBMq5bA/hqdefault.jpg"
+ },
+ "doi:10.1145/3563657.3596075": {
+  "doi": "10.1145/3563657.3596075",
+  "ok": true,
+  "type": "doi",
+  "title": "What the Sensor Knows: More-Than-Human Knowledge Co-Production in Wood Carving",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3563657.3596075"
+ },
+ "doi:10.1145/3706598.3713291": {
+  "doi": "10.1145/3706598.3713291",
+  "ok": true,
+  "type": "doi",
+  "title": "Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713291"
+ },
+ "doi:10.1145/3800645.3812827": {
+  "doi": "10.1145/3800645.3812827",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring the Pluralities of More-than-Human Biographies Through Speculative Maps",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3800645.3812827"
+ },
+ "video:youtube:3Elop4e9b8g": {
+  "url": "https://www.youtube.com/watch?v=3Elop4e9b8g",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3Elop4e9b8g",
+  "title": "Shroom Cards: Playful Exploration of Human Positionalities for More-than-Human Design",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/3Elop4e9b8g/hqdefault.jpg"
+ },
+ "doi:10.1145/3665463.3678784": {
+  "doi": "10.1145/3665463.3678784",
+  "ok": true,
+  "type": "doi",
+  "title": "Shroom Cards: Playful Exploration of Human Positionalities for More-than-Human Design",
+  "year": 2024,
+  "venue": "Companion Proceedings of the 2024 Annual Symposium on Computer-Human Interaction in Play",
+  "url": "https://doi.org/10.1145/3665463.3678784"
+ },
+ "doi:10.1145/3546155.3546689": {
+  "doi": "10.1145/3546155.3546689",
+  "ok": true,
+  "type": "doi",
+  "title": "Interactive Mycelium Composites: Material Exploration on Combining Mushroom with Off-the-shelf Electronic Components",
+  "year": 2022,
+  "venue": "Nordic Human-Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3546155.3546689"
+ },
+ "doi:10.1016/j.destud.2026.101422": {
+  "doi": "10.1016/j.destud.2026.101422",
+  "ok": true,
+  "type": "doi",
+  "title": "The spectrum of non-human agency: Rethinking participation in multispecies placemaking",
+  "year": 2026,
+  "venue": "Design Studies",
+  "url": "https://doi.org/10.1016/j.destud.2026.101422"
+ },
+ "doi:10.1145/3789492.3796449": {
+  "doi": "10.1145/3789492.3796449",
+  "ok": true,
+  "type": "doi",
+  "title": "Multispecies design: Centring the Agency of Non-Human Communities in Participatory Urban Design Processes",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 2: Exploratory Papers and Doctoral Colloquium",
+  "url": "https://doi.org/10.1145/3789492.3796449"
+ },
+ "video:youtube:g4Nrd5mv_Tk": {
+  "url": "https://www.youtube.com/watch?v=g4Nrd5mv_Tk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "g4Nrd5mv_Tk",
+  "title": "Tracing Conceptions of the Body in HCI: From User to More-Than-Human",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/g4Nrd5mv_Tk/hqdefault.jpg"
+ },
+ "doi:10.1145/3411764.3445656": {
+  "doi": "10.1145/3411764.3445656",
+  "ok": true,
+  "type": "doi",
+  "title": "Tracing Conceptions of the Body in HCI: From User to More-Than-Human",
+  "year": 2021,
+  "venue": "Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3411764.3445656"
+ },
+ "doi:10.1080/15710882.2017.1316409": {
+  "doi": "10.1080/15710882.2017.1316409",
+  "ok": true,
+  "type": "doi",
+  "title": "Nonhumans in participatory design",
+  "year": 2018,
+  "venue": "CoDesign",
+  "url": "https://doi.org/10.1080/15710882.2017.1316409"
+ },
+ "doi:10.1080/07370024.2023.2269934": {
+  "doi": "10.1080/07370024.2023.2269934",
+  "ok": true,
+  "type": "doi",
+  "title": "Doing responsibilities in entangled worlds",
+  "year": 2025,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2023.2269934"
+ },
+ "doi:10.1080/07370024.2023.2269893": {
+  "doi": "10.1080/07370024.2023.2269893",
+  "ok": true,
+  "type": "doi",
+  "title": "What mosses can teach us about design fabulations and feminist more-than-human care",
+  "year": 2025,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2023.2269893"
+ },
+ "video:youtube:L4_5GgX46Hc": {
+  "url": "https://www.youtube.com/watch?v=L4_5GgX46Hc",
+  "ok": true,
+  "platform": "youtube",
+  "id": "L4_5GgX46Hc",
+  "title": "Iterating through Feeling-with Nonhuman Things",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/L4_5GgX46Hc/hqdefault.jpg"
+ },
+ "doi:10.1145/3491101.3519860": {
+  "doi": "10.1145/3491101.3519860",
+  "ok": true,
+  "type": "doi",
+  "title": "Iterating through Feeling-with Nonhuman Things",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+  "url": "https://doi.org/10.1145/3491101.3519860"
+ },
+ "doi:10.1145/3706598.3713713": {
+  "doi": "10.1145/3706598.3713713",
+  "ok": true,
+  "type": "doi",
+  "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713713"
+ },
+ "video:youtube:Aa_BlTsGhkM": {
+  "url": "https://www.youtube.com/watch?v=Aa_BlTsGhkM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Aa_BlTsGhkM",
+  "title": "PlantMate: A Bidirectional Touch-Based System for Enhancing Human-Plant Empathy",
+  "author": "floydmueller",
+  "thumbnail": "https://i.ytimg.com/vi/Aa_BlTsGhkM/hqdefault.jpg"
+ },
+ "doi:10.1145/3706599.3720288": {
+  "doi": "10.1145/3706599.3720288",
+  "ok": true,
+  "type": "doi",
+  "title": "PlantMate: A Bidirectional Touch-Based System for Enhancing Human-Plant Empathy and Pro-Environmental Behavior",
+  "year": 2025,
+  "venue": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706599.3720288"
+ },
+ "doi:10.21606/drs.2024.948": {
+  "doi": "10.21606/drs.2024.948",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-human Design and AI: Exploring the Space between Theory and Practice",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.948"
+ },
+ "doi:10.1145/3715336.3735689": {
+  "doi": "10.1145/3715336.3735689",
+  "ok": true,
+  "type": "doi",
+  "title": "Domestic Cultures of Plant Care: A Moss Terrarium Probe",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735689"
+ },
+ "img:http://leahbarclay.com/wp-content/uploads/2015/03/1.Leah_LoganRiver.jpg": {
+  "url": "http://leahbarclay.com/wp-content/uploads/2015/03/1.Leah_LoganRiver.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://leahbarclay.com/wp-content/uploads/2015/03/3.LeahBarclay-Listening-to-the-Thames.jpg": {
+  "url": "http://leahbarclay.com/wp-content/uploads/2015/03/3.LeahBarclay-Listening-to-the-Thames.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_01516": {
+  "doi": "10.1162/leon_a_01516",
+  "ok": true,
+  "type": "doi",
+  "title": "River Listening: Acoustic Ecology and Aquatic Bioacoustics in Global River Systems",
+  "year": 2018,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_01516"
+ },
+ "doi:10.1145/3544549.3583945": {
+  "doi": "10.1145/3544549.3583945",
+  "ok": true,
+  "type": "doi",
+  "title": "CoCo: Compost Companion",
+  "year": 2023,
+  "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544549.3583945"
+ },
+ "doi:10.21606/nordes.2023.81": {
+  "doi": "10.21606/nordes.2023.81",
+  "ok": true,
+  "type": "doi",
+  "title": "A planetary turn for design? Speculations on withdrawal and cohabitation",
+  "year": 2023,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2023.81"
+ },
+ "doi:10.1145/3715336.3735680": {
+  "doi": "10.1145/3715336.3735680",
+  "ok": true,
+  "type": "doi",
+  "title": "Rethinking Representation in Design: Towards Constructing Parameters for Representation Tools in More-than-Human Design",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735680"
+ },
+ "doi:10.21606/nordes.2019.006": {
+  "doi": "10.21606/nordes.2019.006",
+  "ok": true,
+  "type": "doi",
+  "title": "Zoepolis: Non-anthropocentric design as an experiment in multi-species care",
+  "year": 2019,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2019.006"
+ },
+ "doi:10.1145/3715668.3735596": {
+  "doi": "10.1145/3715668.3735596",
+  "ok": true,
+  "type": "doi",
+  "title": "Ripples: Voices of the Lagoon—Attuning to Multispecies Justice through Tangible and Embodied Interaction",
+  "year": 2025,
+  "venue": "Companion Publication of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715668.3735596"
+ },
+ "doi:10.21606/drs.2022.524": {
+  "doi": "10.21606/drs.2022.524",
+  "ok": true,
+  "type": "doi",
+  "title": "Mediating the needs of human and natural nonhuman stakeholders: Towards a design methodological framework",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.524"
+ },
+ "doi:10.1162/desi_a_00746": {
+  "doi": "10.1162/desi_a_00746",
+  "ok": true,
+  "type": "doi",
+  "title": "Fungi Fabrics and Living Colors: Toward Ecocentric Biodesign?",
+  "year": 2024,
+  "venue": "Design Issues",
+  "url": "https://doi.org/10.1162/desi_a_00746"
+ },
+ "doi:10.1145/3803784.3816863": {
+  "doi": "10.1145/3803784.3816863",
+  "ok": true,
+  "type": "doi",
+  "title": "Nomadic Moss:Weaving a Humidity-Intimacy Wearable for More-than-Human Care",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Conference on Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3803784.3816863"
+ },
+ "doi:10.1145/3796624.3796652": {
+  "doi": "10.1145/3796624.3796652",
+  "ok": true,
+  "type": "doi",
+  "title": "Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 1: Full Papers",
+  "url": "https://doi.org/10.1145/3796624.3796652"
+ },
+ "doi:10.1145/3772318.3791373": {
+  "doi": "10.1145/3772318.3791373",
+  "ok": true,
+  "type": "doi",
+  "title": "When Plants Play: Rethinking Plant Materiality in Digital Games",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791373"
+ },
+ "doi:10.21606/drs.2026.814": {
+  "doi": "10.21606/drs.2026.814",
+  "ok": true,
+  "type": "doi",
+  "title": "Experiencing the More-than-Human Through Human Augmentation",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.814"
+ },
+ "doi:10.21606/drs.2026.428": {
+  "doi": "10.21606/drs.2026.428",
+  "ok": true,
+  "type": "doi",
+  "title": "Minamata’s Ecological Encounters Codesheet: Designing Remembrance Lenses through more-than-human and media archaeology",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.428"
+ },
+ "doi:10.21606/drs.2026.2623": {
+  "doi": "10.21606/drs.2026.2623",
+  "ok": true,
+  "type": "doi",
+  "title": "More than Weeds: Thickening designer-plant relations in the Sonoran Desert",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2623"
+ },
+ "doi:10.21606/drs.2026.2090": {
+  "doi": "10.21606/drs.2026.2090",
+  "ok": true,
+  "type": "doi",
+  "title": "Putting an ear to the ground: Attending to Frictions in Human-machine-soil Temporalities",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2090"
+ },
+ "doi:10.21606/iasdr.2025.749": {
+  "doi": "10.21606/iasdr.2025.749",
+  "ok": true,
+  "type": "doi",
+  "title": "Sensing Soil Habitability: Relational Data for Multispecies Attunement",
+  "year": 2025,
+  "venue": "IASDR 2025: Design Next",
+  "url": "https://doi.org/10.21606/iasdr.2025.749"
+ },
+ "doi:10.21606/drs.2026.2654": {
+  "doi": "10.21606/drs.2026.2654",
+  "ok": true,
+  "type": "doi",
+  "title": "The parliament of things: Shape-changing materials as amplifiers of interspecies relation design",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2654"
+ },
+ "doi:10.21606/drs.2026.2397": {
+  "doi": "10.21606/drs.2026.2397",
+  "ok": true,
+  "type": "doi",
+  "title": "Occupying the sensors: Underwater sound in an urban river",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2397"
+ },
+ "video:youtube:J8zNuyS5yj0": {
+  "url": "https://www.youtube.com/watch?v=J8zNuyS5yj0",
+  "ok": true,
+  "platform": "youtube",
+  "id": "J8zNuyS5yj0",
+  "title": "Artist uses AI to translate bat vocalisations into poetic English",
+  "author": "Alinta Krauth",
+  "thumbnail": "https://i.ytimg.com/vi/J8zNuyS5yj0/hqdefault.jpg"
+ },
+ "doi:10.1162/leon.a.2738": {
+  "doi": "10.1162/leon.a.2738",
+  "ok": true,
+  "type": "doi",
+  "title": "Interspecies Translation Technologies: Designing Interpretation Interfaces Referencing Simple to Poetically Complex Semiotic Frameworks",
+  "year": 2026,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon.a.2738"
+ },
+ "doi:10.1162/leon_a_02669": {
+  "doi": "10.1162/leon_a_02669",
+  "ok": true,
+  "type": "doi",
+  "title": "In Search for the Rarest Plant: Art, Drones, and AI. 艺术、无人机和人工智能：协同寻找最珍稀植物",
+  "year": 2026,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02669"
+ },
+ "video:youtube:_pHAL6bu_6c": {
+  "url": "https://www.youtube.com/watch?v=_pHAL6bu_6c",
+  "ok": true,
+  "platform": "youtube",
+  "id": "_pHAL6bu_6c",
+  "title": "Designing Tools and Interfaces for Ecological Restoration: An Investigation into the ...",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/_pHAL6bu_6c/hqdefault.jpg"
+ },
+ "doi:10.1145/3491102.3517664": {
+  "doi": "10.1145/3491102.3517664",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions",
+  "year": 2022,
+  "venue": "CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3491102.3517664"
+ },
+ "doi:10.1145/3210604.3210653": {
+  "doi": "10.1145/3210604.3210653",
+  "ok": true,
+  "type": "doi",
+  "title": "The tree as method",
+  "year": 2018,
+  "venue": "Proceedings of the 15th Participatory Design Conference: Short Papers, Situated Actions, Workshops and Tutorial - Volume 2",
+  "url": "https://doi.org/10.1145/3210604.3210653"
+ },
+ "doi:10.1016/j.foar.2022.04.007": {
+  "doi": "10.1016/j.foar.2022.04.007",
+  "ok": true,
+  "type": "doi",
+  "title": "Cultivating more-than-human care: Exploring bird watching as a landscaping practice on the example of sand martins and flooded gravel pits",
+  "year": 2022,
+  "venue": "Frontiers of Architectural Research",
+  "url": "https://doi.org/10.1016/j.foar.2022.04.007"
+ },
+ "img:https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_1.jpg": {
+  "url": "https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_2.jpg": {
+  "url": "https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1162/leon_a_02306": {
+  "doi": "10.1162/leon_a_02306",
+  "ok": true,
+  "type": "doi",
+  "title": "PlantConnect",
+  "year": 2023,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02306"
+ },
+ "doi:10.5151/sigradi2022-sigradi2022_147": {
+  "doi": "10.5151/sigradi2022-sigradi2022_147",
+  "ok": true,
+  "type": "doi",
+  "title": "Performative Accessories in Multispecies Design: Enhancing Humidity Levels for Plants with 3D-printed Biomimetic Structures",
+  "year": 2023,
+  "venue": "Blucher Design Proceedings",
+  "url": "https://doi.org/10.5151/sigradi2022-sigradi2022_147"
+ },
+ "doi:10.1145/3571589": {
+  "doi": "10.1145/3571589",
+  "ok": true,
+  "type": "doi",
+  "title": "Living-with and Designing-with Plants",
+  "year": 2023,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/3571589"
+ },
+ "doi:10.1145/3706598.3713916": {
+  "doi": "10.1145/3706598.3713916",
+  "ok": true,
+  "type": "doi",
+  "title": "Constituency as a Matter of Practice: Moving a Plant Studio",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713916"
+ },
+ "doi:10.1215/22011919-3615934": {
+  "doi": "10.1215/22011919-3615934",
+  "ok": true,
+  "type": "doi",
+  "title": "Anthropocene, Capitalocene, Plantationocene, Chthulucene: Making Kin",
+  "year": 2015,
+  "venue": "Environmental Humanities",
+  "url": "https://doi.org/10.1215/22011919-3615934"
+ },
+ "doi:10.21428/7808da6b.05eca6f1": {
+  "doi": "10.21428/7808da6b.05eca6f1",
+  "ok": true,
+  "type": "doi",
+  "title": "Tools for Multispecies Futures",
+  "year": 2019,
+  "venue": "Journal of Design and Science",
+  "url": "https://doi.org/10.21428/7808da6b.05eca6f1"
+ },
+ "doi:10.1145/3210604.3210641": {
+  "doi": "10.1145/3210604.3210641",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-human urban futures",
+  "year": 2018,
+  "venue": "Proceedings of the 15th Participatory Design Conference: Short Papers, Situated Actions, Workshops and Tutorial - Volume 2",
+  "url": "https://doi.org/10.1145/3210604.3210641"
+ },
+ "video:youtube:66OP9HnvhOA": {
+  "url": "https://www.youtube.com/watch?v=66OP9HnvhOA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "66OP9HnvhOA",
+  "title": "Ministry of Multispecies Communications Orientation 2052",
+  "author": "Rachel Clarke",
+  "thumbnail": "https://i.ytimg.com/vi/66OP9HnvhOA/hqdefault.jpg"
+ },
+ "doi:10.1145/3393914.3395845": {
+  "doi": "10.1145/3393914.3395845",
+  "ok": true,
+  "type": "doi",
+  "title": "Ministry of Multispecies Communications",
+  "year": 2020,
+  "venue": "Companion Publication of the 2020 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3393914.3395845"
+ },
+ "doi:10.1145/3643834.3661509": {
+  "doi": "10.1145/3643834.3661509",
+  "ok": true,
+  "type": "doi",
+  "title": "Crip Reflections on Designing with Plants: Intersecting Disability Theory, Chronic Illness, and More-than-Human Design✱",
+  "year": 2024,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3643834.3661509"
+ },
+ "doi:10.1145/3772318.3790454": {
+  "doi": "10.1145/3772318.3790454",
+  "ok": true,
+  "type": "doi",
+  "title": "Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3790454"
+ },
+ "doi:10.1145/3569219.3569344": {
+  "doi": "10.1145/3569219.3569344",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-Human-Data Interaction",
+  "year": 2022,
+  "venue": "Proceedings of the 25th International Academic Mindtrek Conference",
+  "url": "https://doi.org/10.1145/3569219.3569344"
+ },
+ "doi:10.21606/drs.2022.718": {
+  "doi": "10.21606/drs.2022.718",
+  "ok": true,
+  "type": "doi",
+  "title": "A more-than-human right-to-repair",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.718"
+ },
+ "doi:10.1145/3689050.3704797": {
+  "doi": "10.1145/3689050.3704797",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing with Water: From Material to Metaphor to More-than-Human Mindset",
+  "year": 2025,
+  "venue": "Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3689050.3704797"
+ },
+ "video:youtube:vYdiSg_3lxQ": {
+  "url": "https://www.youtube.com/watch?v=vYdiSg_3lxQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "vYdiSg_3lxQ",
+  "title": "Sensus Pond",
+  "author": "Yasuaki Kakehi Laboratory -The University of Tokyo-",
+  "thumbnail": "https://i.ytimg.com/vi/vYdiSg_3lxQ/hqdefault.jpg"
+ },
+ "doi:10.21606/iasdr.2025.992": {
+  "doi": "10.21606/iasdr.2025.992",
+  "ok": true,
+  "type": "doi",
+  "title": "Sensus Pond: Exploring Water as Sensing Medium for More-than-Human Observation",
+  "year": 2025,
+  "venue": "IASDR 2025: Design Next",
+  "url": "https://doi.org/10.21606/iasdr.2025.992"
+ },
+ "doi:10.1215/22011919-3527695": {
+  "doi": "10.1215/22011919-3527695",
+  "ok": true,
+  "type": "doi",
+  "title": "Multispecies Studies",
+  "year": 2016,
+  "venue": "Environmental Humanities",
+  "url": "https://doi.org/10.1215/22011919-3527695"
+ },
+ "video:youtube:OhuDZ877KIY": {
+  "url": "https://www.youtube.com/watch?v=OhuDZ877KIY",
+  "ok": true,
+  "platform": "youtube",
+  "id": "OhuDZ877KIY",
+  "title": "AniThings 1 Relax",
+  "author": "Philip van Allen",
+  "thumbnail": "https://i.ytimg.com/vi/OhuDZ877KIY/hqdefault.jpg"
+ },
+ "doi:10.1080/14626268.2016.1145127": {
+  "doi": "10.1080/14626268.2016.1145127",
+  "ok": true,
+  "type": "doi",
+  "title": "Animistic design: how to reimagine digital interaction between the human and the nonhuman",
+  "year": 2016,
+  "venue": "Digital Creativity",
+  "url": "https://doi.org/10.1080/14626268.2016.1145127"
+ },
+ "video:youtube:Szm8WD-pjoQ": {
+  "url": "https://www.youtube.com/watch?v=Szm8WD-pjoQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "Szm8WD-pjoQ",
+  "title": "Patterns and Opportunities for the Design of Human-Plant Interaction",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/Szm8WD-pjoQ/hqdefault.jpg"
+ },
+ "doi:10.1145/3532106.3533555": {
+  "doi": "10.1145/3532106.3533555",
+  "ok": true,
+  "type": "doi",
+  "title": "Patterns and Opportunities for the Design of Human-Plant Interaction",
+  "year": 2022,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3532106.3533555"
+ },
+ "doi:10.1145/2995257.2995393": {
+  "doi": "10.1145/2995257.2995393",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant-computer interaction, beauty and dissemination",
+  "year": 2016,
+  "venue": "Proceedings of the Third International Conference on Animal-Computer Interaction",
+  "url": "https://doi.org/10.1145/2995257.2995393"
+ },
+ "video:youtube:XggQrs19dls": {
+  "url": "https://www.youtube.com/watch?v=XggQrs19dls",
+  "ok": true,
+  "platform": "youtube",
+  "id": "XggQrs19dls",
+  "title": "LivingLoom: Investigating Human-Plant Symbiosis Through Integrating Living Plants Into (E-)Textiles",
+  "author": "Hybrid Body Lab",
+  "thumbnail": "https://i.ytimg.com/vi/XggQrs19dls/hqdefault.jpg"
+ },
+ "doi:10.1145/3706598.3713156": {
+  "doi": "10.1145/3706598.3713156",
+  "ok": true,
+  "type": "doi",
+  "title": "LivingLoom: Investigating Human-Plant Symbiosis Through Integrating Living Plants Into (E-)Textiles",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3706598.3713156"
+ },
+ "doi:10.1080/07370024.2023.2276392": {
+  "doi": "10.1080/07370024.2023.2276392",
+  "ok": true,
+  "type": "doi",
+  "title": "The aesthetics of more-than-human design: speculative energy briefs for the Chthulucene",
+  "year": 2025,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2023.2276392"
+ },
+ "doi:10.1145/3681716.3681731": {
+  "doi": "10.1145/3681716.3681731",
+  "ok": true,
+  "type": "doi",
+  "title": "Posthumanist Care and Ecologies of Empathy: Investigating Design Potentials for Nature:Culture HCI",
+  "year": 2024,
+  "venue": "Proceedings of the 27th International Academic Mindtrek Conference",
+  "url": "https://doi.org/10.1145/3681716.3681731"
+ },
+ "doi:10.1145/3527927.3531452": {
+  "doi": "10.1145/3527927.3531452",
+  "ok": true,
+  "type": "doi",
+  "title": "Exploring Kolam As An Ecofeminist Computational Art Practice",
+  "year": 2022,
+  "venue": "Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3527927.3531452"
+ },
+ "doi:10.1145/3544549.3577039": {
+  "doi": "10.1145/3544549.3577039",
+  "ok": true,
+  "type": "doi",
+  "title": "Visualising Forest Sound: Justice-led Ecoacoustic Data Interaction",
+  "year": 2023,
+  "venue": "Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544549.3577039"
+ },
+ "doi:10.1080/15710882.2024.2358966": {
+  "doi": "10.1080/15710882.2024.2358966",
+  "ok": true,
+  "type": "doi",
+  "title": "Assemblage-based stakeholder analysis in design: a conceptual framework through the lenses of post–anthropocentrism",
+  "year": 2024,
+  "venue": "CoDesign",
+  "url": "https://doi.org/10.1080/15710882.2024.2358966"
+ },
+ "doi:10.21606/drs.2022.418": {
+  "doi": "10.21606/drs.2022.418",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-human fluid speculations",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.418"
+ },
+ "doi:10.1080/07370024.2023.2276527": {
+  "doi": "10.1080/07370024.2023.2276527",
+  "ok": true,
+  "type": "doi",
+  "title": "Shit! Towards an experimental multiple-perspective approach to human-microbiome relations",
+  "year": 2025,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2023.2276527"
+ },
+ "doi:10.1145/3628096.3628742": {
+  "doi": "10.1145/3628096.3628742",
+  "ok": true,
+  "type": "doi",
+  "title": "Lions out of Bounds? Reflections on Digital Technology and Matristic Design to address Human-Wildlife Conflict",
+  "year": 2023,
+  "venue": "Proceedings of the 4th African Human Computer Interaction Conference",
+  "url": "https://doi.org/10.1145/3628096.3628742"
+ },
+ "doi:10.1080/15710882.2024.2319687": {
+  "doi": "10.1080/15710882.2024.2319687",
+  "ok": true,
+  "type": "doi",
+  "title": "Permeance\n            . A demodern artistic process for more-than-human collaborative practices in Participatory Design",
+  "year": 2024,
+  "venue": "CoDesign",
+  "url": "https://doi.org/10.1080/15710882.2024.2319687"
+ },
+ "doi:10.21606/drs.2024.307": {
+  "doi": "10.21606/drs.2024.307",
+  "ok": true,
+  "type": "doi",
+  "title": "When a tree says no: Towards a more-than-human consent notion for design",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.307"
+ },
+ "doi:10.1080/15710882.2021.1991958": {
+  "doi": "10.1080/15710882.2021.1991958",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant Hotels: designing the imaginary foundations of communities",
+  "year": 2022,
+  "venue": "CoDesign",
+  "url": "https://doi.org/10.1080/15710882.2021.1991958"
+ },
+ "video:youtube:La6e4FfMsww": {
+  "url": "https://www.youtube.com/watch?v=La6e4FfMsww",
+  "ok": true,
+  "platform": "youtube",
+  "id": "La6e4FfMsww",
+  "title": "Petra Lilja – Multi-species thinking | The Conference 2019",
+  "author": "The Conference / Media Evolution",
+  "thumbnail": "https://i.ytimg.com/vi/La6e4FfMsww/hqdefault.jpg"
+ },
+ "doi:10.21606/nordes.2019.037": {
+  "doi": "10.21606/nordes.2019.037",
+  "ok": true,
+  "type": "doi",
+  "title": "Design for the Age of Species – Exploring ways for designers to care for multispecies coexistence",
+  "year": 2019,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2019.037"
+ },
+ "video:youtube:4PeMhZEtf3Y": {
+  "url": "https://www.youtube.com/watch?v=4PeMhZEtf3Y",
+  "ok": true,
+  "platform": "youtube",
+  "id": "4PeMhZEtf3Y",
+  "title": "SoilSense: Appropriating Soil-based Microbial Fuel Cells to Create Tangible Interfaces",
+  "author": "welkin",
+  "thumbnail": "https://i.ytimg.com/vi/4PeMhZEtf3Y/hqdefault.jpg"
+ },
+ "doi:10.1145/3746059.3747675": {
+  "doi": "10.1145/3746059.3747675",
+  "ok": true,
+  "type": "doi",
+  "title": "SoilSense: Appropriating Soil-based Microbial Fuel Cells to Create Tangible Interfaces",
+  "year": 2025,
+  "venue": "Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology",
+  "url": "https://doi.org/10.1145/3746059.3747675"
+ },
+ "doi:10.21606/nordes.2023.23": {
+  "doi": "10.21606/nordes.2023.23",
+  "ok": true,
+  "type": "doi",
+  "title": "Missing species: Discursive design activism",
+  "year": 2023,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2023.23"
+ },
+ "img:https://ecolopes.org/wp-content/uploads/2022/09/Bildschirmfoto-2022-09-01-um-15.00.44-1.png": {
+  "url": "https://ecolopes.org/wp-content/uploads/2022/09/Bildschirmfoto-2022-09-01-um-15.00.44-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "doi:10.52842/conf.caadria.2024.1.535": {
+  "doi": "10.52842/conf.caadria.2024.1.535",
+  "ok": true,
+  "type": "doi",
+  "title": "Multispecies Building Envelopes: Adopting Plant Habitat Suitability Modelling for Ecological Design Decision-Making",
+  "year": 2024,
+  "venue": "CAADRIA proceedings",
+  "url": "https://doi.org/10.52842/conf.caadria.2024.1.535"
+ },
+ "doi:10.1145/3789492.3796389": {
+  "doi": "10.1145/3789492.3796389",
+  "ok": true,
+  "type": "doi",
+  "title": "With Elephants in the Room: More-Than-Human Participatory Design for Human-Elephant Co-existence",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 2: Exploratory Papers and Doctoral Colloquium",
+  "url": "https://doi.org/10.1145/3789492.3796389"
+ },
+ "doi:10.1145/3789492.3796405": {
+  "doi": "10.1145/3789492.3796405",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-Human Infrastructuring in the River Shannon: Water Quality, Level and Management as Voices Towards Respectful Coexistence with Nature",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 2: Exploratory Papers and Doctoral Colloquium",
+  "url": "https://doi.org/10.1145/3789492.3796405"
+ },
+ "video:youtube:3QSlfBesMqI": {
+  "url": "https://www.youtube.com/watch?v=3QSlfBesMqI",
+  "ok": true,
+  "platform": "youtube",
+  "id": "3QSlfBesMqI",
+  "title": "MIT MAS.s60 | FALL 2025 | Cry for AI | Team 1",
+  "author": "Critical Matter Group",
+  "thumbnail": "https://i.ytimg.com/vi/3QSlfBesMqI/hqdefault.jpg"
+ },
+ "doi:10.1145/3772363.3799109": {
+  "doi": "10.1145/3772363.3799109",
+  "ok": true,
+  "type": "doi",
+  "title": "Cry for AI: A Moss-Controlled AI Wearable for Resource-Aware Interaction",
+  "year": 2026,
+  "venue": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772363.3799109"
+ },
+ "doi:10.21606/drs.2026.2330": {
+  "doi": "10.21606/drs.2026.2330",
+  "ok": true,
+  "type": "doi",
+  "title": "Plant biographies: Expanding more-than-human modes of relating",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2330"
+ },
+ "doi:10.21606/iasdr.2025.1149": {
+  "doi": "10.21606/iasdr.2025.1149",
+  "ok": true,
+  "type": "doi",
+  "title": "Avian Experience in Urban Grotto: Ecological Soundscapes as a Biosemiotic Methodology in Multispecies Ethnographic Research and More-than-human Communication",
+  "year": 2025,
+  "venue": "IASDR 2025: Design Next",
+  "url": "https://doi.org/10.21606/iasdr.2025.1149"
+ },
+ "doi:10.21606/iasdr.2023.646": {
+  "doi": "10.21606/iasdr.2023.646",
+  "ok": true,
+  "type": "doi",
+  "title": "Ontological design approach for Alternative soil-human relations",
+  "year": 2023,
+  "venue": "IASDR 2023: Life-Changing Design",
+  "url": "https://doi.org/10.21606/iasdr.2023.646"
+ },
+ "doi:10.21606/nordes.2025.14": {
+  "doi": "10.21606/nordes.2025.14",
+  "ok": true,
+  "type": "doi",
+  "title": "Tangible theory as tool for attuning to non-human voices in domestic gardens",
+  "year": 2025,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2025.14"
+ },
+ "doi:10.21606/iasdr.2025.812": {
+  "doi": "10.21606/iasdr.2025.812",
+  "ok": true,
+  "type": "doi",
+  "title": "MuSE (Multispecies Sensory Engagement): Enhancing Emotional Bonds with Microorganisms",
+  "year": 2025,
+  "venue": "IASDR 2025: Design Next",
+  "url": "https://doi.org/10.21606/iasdr.2025.812"
+ },
+ "doi:10.21606/drs.2026.1224": {
+  "doi": "10.21606/drs.2026.1224",
+  "ok": true,
+  "type": "doi",
+  "title": "In kinship with harakeke phormium tenax: how one plant and its materials facilitate transitional knowledge through inter-indigenous and inter-cultural exchange.",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.1224"
+ },
+ "doi:10.1080/17547075.2026.2648918": {
+  "doi": "10.1080/17547075.2026.2648918",
+  "ok": true,
+  "type": "doi",
+  "title": "Colonial Performances in More-than-Human Design",
+  "year": 2026,
+  "venue": "Design and Culture",
+  "url": "https://doi.org/10.1080/17547075.2026.2648918"
+ },
+ "video:youtube:BvQRNYvjlHU": {
+  "url": "https://www.youtube.com/watch?v=BvQRNYvjlHU",
+  "ok": true,
+  "platform": "youtube",
+  "id": "BvQRNYvjlHU",
+  "title": "Boreal Intelligence, Cear & Lois - a preview",
+  "author": "Cesar & Lois collective",
+  "thumbnail": "https://i.ytimg.com/vi/BvQRNYvjlHU/hqdefault.jpg"
+ },
+ "doi:10.1162/leon.a.2731": {
+  "doi": "10.1162/leon.a.2731",
+  "ok": true,
+  "type": "doi",
+  "title": "Interspecies Interfaces in Artistic Contexts: Forest Signals as the Basis for Ecosystemic Intelligence",
+  "year": 2026,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon.a.2731"
+ },
+ "video:youtube:NLcnlKI3vHM": {
+  "url": "https://www.youtube.com/watch?v=NLcnlKI3vHM",
+  "ok": true,
+  "platform": "youtube",
+  "id": "NLcnlKI3vHM",
+  "title": "Fabulating Biodata Futures for Living and Knowing Together",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/NLcnlKI3vHM/hqdefault.jpg"
+ },
+ "doi:10.1145/3532106.3533477": {
+  "doi": "10.1145/3532106.3533477",
+  "ok": true,
+  "type": "doi",
+  "title": "Fabulating Biodata Futures for Living and Knowing Together",
+  "year": 2022,
+  "venue": "Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3532106.3533477"
+ },
+ "doi:10.1215/22011919-9712379": {
+  "doi": "10.1215/22011919-9712379",
+  "ok": true,
+  "type": "doi",
+  "title": "Can Microbes Be Active Participants in Research? Developing a Methodology for Collaborating with Plastic-Eating Microbes",
+  "year": 2022,
+  "venue": "Environmental Humanities",
+  "url": "https://doi.org/10.1215/22011919-9712379"
+ },
+ "doi:10.1145/3715336.3735426": {
+  "doi": "10.1145/3715336.3735426",
+  "ok": true,
+  "type": "doi",
+  "title": "Critter Connect, wearable design for place-based & multisensory species encounters.",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735426"
+ },
+ "doi:10.47982/jfde.2022.powerskin.7": {
+  "doi": "10.47982/jfde.2022.powerskin.7",
+  "ok": true,
+  "type": "doi",
+  "title": "Additively Manufactured Urban Multispecies Façades for Building Renovation",
+  "year": 2022,
+  "venue": "Journal of Facade Design and Engineering",
+  "url": "https://doi.org/10.47982/jfde.2022.powerskin.7"
+ },
+ "video:youtube:T9UnvfFXeSw": {
+  "url": "https://www.youtube.com/watch?v=T9UnvfFXeSw",
+  "ok": true,
+  "platform": "youtube",
+  "id": "T9UnvfFXeSw",
+  "title": "Loofah Wearables For Ecological Reflection",
+  "author": "gao yingting",
+  "thumbnail": "https://i.ytimg.com/vi/T9UnvfFXeSw/hqdefault.jpg"
+ },
+ "doi:10.1145/3731459.3774482": {
+  "doi": "10.1145/3731459.3774482",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Loofah Wearables For Embodied Ecological Reflection",
+  "year": 2026,
+  "venue": "Proceedings of the Twentieth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3731459.3774482"
+ },
+ "doi:10.1145/3750069.3750443": {
+  "doi": "10.1145/3750069.3750443",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing with an Assembly of Many",
+  "year": 2025,
+  "venue": "Proceedings of the 16th Biannual Conference of the Italian SIGCHI Chapter",
+  "url": "https://doi.org/10.1145/3750069.3750443"
+ },
+ "doi:10.1145/3661455.3669862": {
+  "doi": "10.1145/3661455.3669862",
+  "ok": true,
+  "type": "doi",
+  "title": "More-than-Human Participatory Approaches for Design: Method and Function in Making Relations",
+  "year": 2024,
+  "venue": "Participatory Design Conference 2024",
+  "url": "https://doi.org/10.1145/3661455.3669862"
+ },
+ "doi:10.1145/3599956": {
+  "doi": "10.1145/3599956",
+  "ok": true,
+  "type": "doi",
+  "title": "In Dialogue with the More-than-Human: Affective Prefiguration in Encounters with Others",
+  "year": 2023,
+  "venue": "Interactions",
+  "url": "https://doi.org/10.1145/3599956"
+ },
+ "doi:10.1016/j.ijhcs.2023.103128": {
+  "doi": "10.1016/j.ijhcs.2023.103128",
+  "ok": true,
+  "type": "doi",
+  "title": "The more-than-human turn in human-plant interaction design: From utilitarian object to living co-inhabitant",
+  "year": 2024,
+  "venue": "International Journal of Human-Computer Studies",
+  "url": "https://doi.org/10.1016/j.ijhcs.2023.103128"
+ },
+ "doi:10.1145/1952222.1952321": {
+  "doi": "10.1145/1952222.1952321",
+  "ok": true,
+  "type": "doi",
+  "title": "\"Please touch the plant on your way up the stairs...\"",
+  "year": 2010,
+  "venue": "Proceedings of the 22nd Conference of the Computer-Human Interaction Special Interest Group of Australia on Computer-Human Interaction",
+  "url": "https://doi.org/10.1145/1952222.1952321"
+ },
+ "doi:10.1145/3686169.3686211": {
+  "doi": "10.1145/3686169.3686211",
+  "ok": true,
+  "type": "doi",
+  "title": "Caring through: Engaging with temporality of care in more-than-human design",
+  "year": 2024,
+  "venue": "Proceedings of the Halfway to the Future Symposium",
+  "url": "https://doi.org/10.1145/3686169.3686211"
+ },
+ "doi:10.1145/3772318.3791217": {
+  "doi": "10.1145/3772318.3791217",
+  "ok": true,
+  "type": "doi",
+  "title": "Living Probes in Place: Exploring More-Than-Human Care Through Mycoremediation",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772318.3791217"
+ },
+ "doi:10.1145/3715336.3735444": {
+  "doi": "10.1145/3715336.3735444",
+  "ok": true,
+  "type": "doi",
+  "title": "A tidalectic reading of landscapes: Multispecies peripatetic ethnography as a method for knowing landscapes.",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735444"
+ },
+ "doi:10.1145/3803784.3809274": {
+  "doi": "10.1145/3803784.3809274",
+  "ok": true,
+  "type": "doi",
+  "title": "Tagus Multispecies Atlas: Fostering affective multispecies interactions through counter-mapping.",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Conference on Creativity and Cognition",
+  "url": "https://doi.org/10.1145/3803784.3809274"
+ },
+ "doi:10.21606/drs.2024.1052": {
+  "doi": "10.21606/drs.2024.1052",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing from the plants' perspective. A field case study in urban forest of “La Goccia”",
+  "year": 2024,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2024.1052"
+ },
+ "doi:10.21606/drs.2026.2159": {
+  "doi": "10.21606/drs.2026.2159",
+  "ok": true,
+  "type": "doi",
+  "title": "Grounding the Interspecies Playground: A More-than-Human Framework for the GOCCIA Project",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2159"
+ },
+ "doi:10.1145/2901790.2901879": {
+  "doi": "10.1145/2901790.2901879",
+  "ok": true,
+  "type": "doi",
+  "title": "Probing the Potential of Post-Anthropocentric 3D Printing",
+  "year": 2016,
+  "venue": "Proceedings of the 2016 ACM Conference on Designing Interactive Systems",
+  "url": "https://doi.org/10.1145/2901790.2901879"
+ },
+ "video:youtube:zfoMS2hPFDg": {
+  "url": "https://www.youtube.com/watch?v=zfoMS2hPFDg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "zfoMS2hPFDg",
+  "title": "Message Ritual: A Posthuman Account of Living with Lamp",
+  "author": "ACM SIGCHI",
+  "thumbnail": "https://i.ytimg.com/vi/zfoMS2hPFDg/hqdefault.jpg"
+ },
+ "doi:10.1145/3544548.3581363": {
+  "doi": "10.1145/3544548.3581363",
+  "ok": true,
+  "type": "doi",
+  "title": "Message Ritual: A Posthuman Account of Living with Lamp",
+  "year": 2023,
+  "venue": "Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3544548.3581363"
+ },
+ "doi:10.21606/drs.2022.347": {
+  "doi": "10.21606/drs.2022.347",
+  "ok": true,
+  "type": "doi",
+  "title": "Making-with the environment through more-than-human design",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.347"
+ },
+ "doi:10.1080/07370024.2023.2283536": {
+  "doi": "10.1080/07370024.2023.2283536",
+  "ok": true,
+  "type": "doi",
+  "title": "The everyday enactment of interfaces: a study of crises and conflicts in the more-than-human home",
+  "year": 2025,
+  "venue": "Human–Computer Interaction",
+  "url": "https://doi.org/10.1080/07370024.2023.2283536"
+ },
+ "doi:10.1162/desi_a_00666": {
+  "doi": "10.1162/desi_a_00666",
+  "ok": true,
+  "type": "doi",
+  "title": "Weaving Together a Decolonial Imaginary Through Design for Effective River Management: Pluriversal Ontological Design in Practice",
+  "year": 2022,
+  "venue": "Design Issues",
+  "url": "https://doi.org/10.1162/desi_a_00666"
+ },
+ "doi:10.1145/3715335.3735487": {
+  "doi": "10.1145/3715335.3735487",
+  "ok": true,
+  "type": "doi",
+  "title": "Navigating the Posthuman Turn in Computing and Design: A Posthuman Vocabulary",
+  "year": 2025,
+  "venue": "Proceedings of the ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies",
+  "url": "https://doi.org/10.1145/3715335.3735487"
+ },
+ "doi:10.1145/3715336.3735415": {
+  "doi": "10.1145/3715336.3735415",
+  "ok": true,
+  "type": "doi",
+  "title": "Show Me Your More-Than-Human",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735415"
+ },
+ "video:youtube:bgnQpzwg-fA": {
+  "url": "https://www.youtube.com/watch?v=bgnQpzwg-fA",
+  "ok": true,
+  "platform": "youtube",
+  "id": "bgnQpzwg-fA",
+  "title": "Biotopia at the Natural History Museum of Funchal | RTP Madeira | ITI",
+  "author": "Interactive Technologies Institute",
+  "thumbnail": "https://i.ytimg.com/vi/bgnQpzwg-fA/hqdefault.jpg"
+ },
+ "doi:10.1145/3715336.3735803": {
+  "doi": "10.1145/3715336.3735803",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing Biotopia: A Transmedia Experience for Natureculture Heritage and More-than-Human Entanglements",
+  "year": 2025,
+  "venue": "Proceedings of the 2025 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3715336.3735803"
+ },
+ "video:youtube:a0X9rhHH2Zg": {
+  "url": "https://www.youtube.com/watch?v=a0X9rhHH2Zg",
+  "ok": true,
+  "platform": "youtube",
+  "id": "a0X9rhHH2Zg",
+  "title": "Professor David Dunn's Bark Beetle Patent (UC Santa Cruz)",
+  "author": "UC Santa Cruz",
+  "thumbnail": "https://i.ytimg.com/vi/a0X9rhHH2Zg/hqdefault.jpg"
+ },
+ "doi:10.1162/leon.2009.42.3.239": {
+  "doi": "10.1162/leon.2009.42.3.239",
+  "ok": true,
+  "type": "doi",
+  "title": "Entomogenic Climate Change: Insect Bioacoustics and Future Forest Ecology",
+  "year": 2009,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon.2009.42.3.239"
+ },
+ "doi:10.1145/3689050.3704432": {
+  "doi": "10.1145/3689050.3704432",
+  "ok": true,
+  "type": "doi",
+  "title": "Echo of the Abyss: Understanding More-than-human Interconnectedness in the Deep Sea Through Virtual Reality Experiences.",
+  "year": 2025,
+  "venue": "Proceedings of the Nineteenth International Conference on Tangible, Embedded, and Embodied Interaction",
+  "url": "https://doi.org/10.1145/3689050.3704432"
+ },
+ "doi:10.21606/drs.2022.318": {
+  "doi": "10.21606/drs.2022.318",
+  "ok": true,
+  "type": "doi",
+  "title": "Why would I ever fry and eat my SCOBY? It would be like murder! Attuning to nonhumans through kombucha fermentation practices",
+  "year": 2022,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2022.318"
+ },
+ "doi:10.1145/3661455.3669883": {
+  "doi": "10.1145/3661455.3669883",
+  "ok": true,
+  "type": "doi",
+  "title": "One Thousand Years of Infrastructuring Katsuobushi: Aligning Temporalities within More-Than-Human Entanglements",
+  "year": 2024,
+  "venue": "Participatory Design Conference 2024",
+  "url": "https://doi.org/10.1145/3661455.3669883"
+ },
+ "doi:10.21606/drs.2018.546": {
+  "doi": "10.21606/drs.2018.546",
+  "ok": true,
+  "type": "doi",
+  "title": "Prototyping Multispecies Environments: attentiveness and friction as modes of knowing",
+  "year": 2018,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2018.546"
+ },
+ "doi:10.1162/leon_a_02059": {
+  "doi": "10.1162/leon_a_02059",
+  "ok": true,
+  "type": "doi",
+  "title": "Earth-Centered Communication Technology:Lichen as a Model Interface",
+  "year": 2021,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02059"
+ },
+ "doi:10.1145/3757369.3767609": {
+  "doi": "10.1145/3757369.3767609",
+  "ok": true,
+  "type": "doi",
+  "title": "The Dream of Zhuang Zhou: Entangled Agencies in Multispecies Virtual Reality",
+  "year": 2025,
+  "venue": "Proceedings of the SIGGRAPH Asia 2025 Art Papers",
+  "url": "https://doi.org/10.1145/3757369.3767609"
+ },
+ "doi:10.1145/3773286": {
+  "doi": "10.1145/3773286",
+  "ok": true,
+  "type": "doi",
+  "title": "Living with Bats: Designing an Interactive Space for Human-Wildlife Cohabitation",
+  "year": 2026,
+  "venue": "ACM Journal on Computing and Sustainable Societies",
+  "url": "https://doi.org/10.1145/3773286"
+ },
+ "doi:10.1162/leon_a_02367": {
+  "doi": "10.1162/leon_a_02367",
+  "ok": true,
+  "type": "doi",
+  "title": "Epiphytic Memory: A Cognitive Assemblage of Plant-Human-Technology",
+  "year": 2023,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon_a_02367"
+ },
+ "doi:10.1145/3800645.3813057": {
+  "doi": "10.1145/3800645.3813057",
+  "ok": true,
+  "type": "doi",
+  "title": "Playing Alongside Mushroom: Chasing Play in Human-Mycelium Encounters for More-than-Human Design",
+  "year": 2026,
+  "venue": "Proceedings of the 2026 Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3800645.3813057"
+ },
+ "doi:10.1145/3772363.3798654": {
+  "doi": "10.1145/3772363.3798654",
+  "ok": true,
+  "type": "doi",
+  "title": "Noticing Where the Forest Folds: Exploring (Mushroom) Foraging as a More-Than-Human Design Method",
+  "year": 2026,
+  "venue": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems",
+  "url": "https://doi.org/10.1145/3772363.3798654"
+ },
+ "doi:10.1145/3802974.3816028": {
+  "doi": "10.1145/3802974.3816028",
+  "ok": true,
+  "type": "doi",
+  "title": "PiscineMobil: A Design Probe for Interspecies Agency Reversal",
+  "year": 2026,
+  "venue": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+  "url": "https://doi.org/10.1145/3802974.3816028"
+ },
+ "doi:10.21606/drs.2026.2198": {
+  "doi": "10.21606/drs.2026.2198",
+  "ok": true,
+  "type": "doi",
+  "title": "Towards More-than-Human Inclusion: Designing Artefacts that Cultivate Attentiveness for Engaging with More-than-Human Worlds",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.2198"
+ },
+ "doi:10.21606/iasdr.2025.409": {
+  "doi": "10.21606/iasdr.2025.409",
+  "ok": true,
+  "type": "doi",
+  "title": "Confucian Ritual Space as More-Than-Human Design: Reframing the Zaojing in the Forbidden City",
+  "year": 2025,
+  "venue": "IASDR 2025: Design Next",
+  "url": "https://doi.org/10.21606/iasdr.2025.409"
+ },
+ "doi:10.21606/nordes.2023.65": {
+  "doi": "10.21606/nordes.2023.65",
+  "ok": true,
+  "type": "doi",
+  "title": "Destabilizing the quotidian: Urban recipes for cultivating care in the more-than-human city",
+  "year": 2023,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2023.65"
+ },
+ "doi:10.21606/drs.2026.1325": {
+  "doi": "10.21606/drs.2026.1325",
+  "ok": true,
+  "type": "doi",
+  "title": "In vegetal terms: Temporal lenses in human-plant interaction",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.1325"
+ },
+ "doi:10.21606/nordes.2025.46": {
+  "doi": "10.21606/nordes.2025.46",
+  "ok": true,
+  "type": "doi",
+  "title": "Pollino: A research-through-design approach to pollinator conservation",
+  "year": 2025,
+  "venue": "Nordic Design Research Conference",
+  "url": "https://doi.org/10.21606/nordes.2025.46"
+ },
+ "doi:10.21606/drs.2026.1786": {
+  "doi": "10.21606/drs.2026.1786",
+  "ok": true,
+  "type": "doi",
+  "title": "Multispecies convivial learning: Art-based interventions at a Japanese public junior high school",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.1786"
+ },
+ "doi:10.21606/drs.2026.1880": {
+  "doi": "10.21606/drs.2026.1880",
+  "ok": true,
+  "type": "doi",
+  "title": "Three-Eyed Seeing: A framework for regenerative ecological design",
+  "year": 2026,
+  "venue": "Proceedings of DRS",
+  "url": "https://doi.org/10.21606/drs.2026.1880"
+ },
+ "doi:10.1162/desi.a.716": {
+  "doi": "10.1162/desi.a.716",
+  "ok": true,
+  "type": "doi",
+  "title": "Storying Multispecies Heritage: Artistic Approaches to Designing Urban Futures",
+  "year": 2025,
+  "venue": "Design Issues",
+  "url": "https://doi.org/10.1162/desi.a.716"
+ },
+ "video:youtube:YCT-9vpFYnQ": {
+  "url": "https://www.youtube.com/watch?v=YCT-9vpFYnQ",
+  "ok": true,
+  "platform": "youtube",
+  "id": "YCT-9vpFYnQ",
+  "title": "Cry of Nature by Bugra Karabey",
+  "author": "Bugra Karabey",
+  "thumbnail": "https://i.ytimg.com/vi/YCT-9vpFYnQ/hqdefault.jpg"
+ },
+ "doi:10.1162/leon.2010.43.3.310": {
+  "doi": "10.1162/leon.2010.43.3.310",
+  "ok": true,
+  "type": "doi",
+  "title": "Cry of Nature: A Plant Interfaces with the World Using Music",
+  "year": 2010,
+  "venue": "Leonardo",
+  "url": "https://doi.org/10.1162/leon.2010.43.3.310"
+ },
+ "doi:10.1162/desi_a_00452": {
+  "doi": "10.1162/desi_a_00452",
+  "ok": true,
+  "type": "doi",
+  "title": "Planting and Tending Digital-Nature Hybrids in a Walled Kitchen Garden",
+  "year": 2017,
+  "venue": "Design Issues",
+  "url": "https://doi.org/10.1162/desi_a_00452"
+ },
+ "doi:10.46467/tdd39.2023.248-269": {
+  "doi": "10.46467/tdd39.2023.248-269",
+  "ok": true,
+  "type": "doi",
+  "title": "Becoming Solar: Towards More-Than-Human Understandings of Solar Energy",
+  "year": 2023,
+  "venue": "Temes de Disseny",
+  "url": "https://doi.org/10.46467/tdd39.2023.248-269"
+ },
+ "doi:10.1080/14606925.2024.2397207": {
+  "doi": "10.1080/14606925.2024.2397207",
+  "ok": true,
+  "type": "doi",
+  "title": "Designing harvesting tools for olive trees: Methodological reflections on exploring and incorporating plant perspectives in the early stages of design process",
+  "year": 2024,
+  "venue": "The Design Journal",
+  "url": "https://doi.org/10.1080/14606925.2024.2397207"
+ },
+ "doi:10.1145/3789492.3796430": {
+  "doi": "10.1145/3789492.3796430",
+  "ok": true,
+  "type": "doi",
+  "title": "In the Fermenting Corner: An Exploration of Boundaries and their Making in Co-ontological Participation at a Local Kimchi Store",
+  "year": 2026,
+  "venue": "Proceedings of the 19th Participatory Design Conference 2026, Vol. 2: Exploratory Papers and Doctoral Colloquium",
+  "url": "https://doi.org/10.1145/3789492.3796430"
+ },
+ "ytmax:eAnrfy96j9E": {
+  "url": "https://i.ytimg.com/vi/eAnrfy96j9E/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:93__9ZFI4yI": {
+  "url": "https://i.ytimg.com/vi/93__9ZFI4yI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:g12qpAAqg6o": {
+  "url": "https://i.ytimg.com/vi/g12qpAAqg6o/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cEuIyYnyGv0": {
+  "url": "https://i.ytimg.com/vi/cEuIyYnyGv0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:W8tpiWSZfm0": {
+  "url": "https://i.ytimg.com/vi/W8tpiWSZfm0/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:wjAv24vhKmM": {
+  "url": "https://i.ytimg.com/vi/wjAv24vhKmM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:ftoOT5f7jkE": {
+  "url": "https://i.ytimg.com/vi/ftoOT5f7jkE/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vzoowZzFZJs": {
+  "url": "https://i.ytimg.com/vi/vzoowZzFZJs/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:s6UEKZRb2EY": {
+  "url": "https://i.ytimg.com/vi/s6UEKZRb2EY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:cW876f40yho": {
+  "url": "https://i.ytimg.com/vi/cW876f40yho/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:JqSW1nb6NMM": {
+  "url": "https://i.ytimg.com/vi/JqSW1nb6NMM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:n7OupBMq5bA": {
+  "url": "https://i.ytimg.com/vi/n7OupBMq5bA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:3Elop4e9b8g": {
+  "url": "https://i.ytimg.com/vi/3Elop4e9b8g/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:g4Nrd5mv_Tk": {
+  "url": "https://i.ytimg.com/vi/g4Nrd5mv_Tk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:L4_5GgX46Hc": {
+  "url": "https://i.ytimg.com/vi/L4_5GgX46Hc/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Aa_BlTsGhkM": {
+  "url": "https://i.ytimg.com/vi/Aa_BlTsGhkM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:J8zNuyS5yj0": {
+  "url": "https://i.ytimg.com/vi/J8zNuyS5yj0/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:_pHAL6bu_6c": {
+  "url": "https://i.ytimg.com/vi/_pHAL6bu_6c/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:66OP9HnvhOA": {
+  "url": "https://i.ytimg.com/vi/66OP9HnvhOA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:vYdiSg_3lxQ": {
+  "url": "https://i.ytimg.com/vi/vYdiSg_3lxQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:OhuDZ877KIY": {
+  "url": "https://i.ytimg.com/vi/OhuDZ877KIY/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:Szm8WD-pjoQ": {
+  "url": "https://i.ytimg.com/vi/Szm8WD-pjoQ/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:XggQrs19dls": {
+  "url": "https://i.ytimg.com/vi/XggQrs19dls/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:La6e4FfMsww": {
+  "url": "https://i.ytimg.com/vi/La6e4FfMsww/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:4PeMhZEtf3Y": {
+  "url": "https://i.ytimg.com/vi/4PeMhZEtf3Y/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "ytmax:3QSlfBesMqI": {
+  "url": "https://i.ytimg.com/vi/3QSlfBesMqI/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:BvQRNYvjlHU": {
+  "url": "https://i.ytimg.com/vi/BvQRNYvjlHU/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:NLcnlKI3vHM": {
+  "url": "https://i.ytimg.com/vi/NLcnlKI3vHM/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:T9UnvfFXeSw": {
+  "url": "https://i.ytimg.com/vi/T9UnvfFXeSw/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:zfoMS2hPFDg": {
+  "url": "https://i.ytimg.com/vi/zfoMS2hPFDg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:bgnQpzwg-fA": {
+  "url": "https://i.ytimg.com/vi/bgnQpzwg-fA/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:a0X9rhHH2Zg": {
+  "url": "https://i.ytimg.com/vi/a0X9rhHH2Zg/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:YCT-9vpFYnQ": {
+  "url": "https://i.ytimg.com/vi/YCT-9vpFYnQ/maxresdefault.jpg",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 404: Not Found"
  }
 }

@@ -472,6 +472,38 @@
   "batch": "biohybrid-unconv"
  },
  {
+  "name": "Ori Elisar",
+  "why": "The Living Language (2015): Hebrew letterforms grown by Paenibacillus bacteria; typography as microbial growth.",
+  "link": "https://www.orielisar.com/",
+  "found_via": "orkan-telhan",
+  "status": "covered",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Sascha Pohflepp",
+  "why": "Speculative work on synthetic biology, carbon and deep time (Recovery, The Wandering Lands); Synthetic Aesthetics resident.",
+  "link": "",
+  "found_via": "dunne-raby",
+  "status": "covered",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Orkan Telhan & Dietmar Offenhuber — Reservoirs of Venice",
+  "why": "Water as computational medium, Venice Biennale 2025; belongs with unconventional-computing rather than bio design.",
+  "link": "https://www.orkantelhan.com/res-venice",
+  "found_via": "orkan-telhan",
+  "status": "off_topic",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Ginkgo Bioworks Creative Residency projects",
+  "why": "Individual residency outputs (scents, pigments, publications) are not documented as separate project pages with media.",
+  "link": "https://www.ginkgobioworks.com/",
+  "found_via": "ginkgo-bioworks",
+  "status": "no_media",
+  "batch": "bioprint-genetic"
+ },
+ {
   "name": "Stephanie Posavec & Miriam Quick: Air Transformed (2015)",
   "why": "Data-sonification and wearable objects of Sheffield air quality; project page 404, no stable media found.",
   "link": "https://www.stefanieposavec.com/",
@@ -560,6 +592,14 @@
   "batch": "mth-hci"
  },
  {
+  "name": "Armi Behzad",
+  "why": "Iterating through Feeling-with Nonhuman Things (CHI EA 2022); Making Space for Poems (2024).",
+  "link": "",
+  "found_via": "ron-wakkary",
+  "status": "covered",
+  "batch": "mth-hci"
+ },
+ {
   "name": "Jeffrey Bardzell",
   "why": "Co-author across the Bardzell lab's naturecultures papers.",
   "link": "",
@@ -622,6 +662,30 @@
   "found_via": "julia-lohmann",
   "status": "no_media",
   "batch": "mth-leads"
+ },
+ {
+  "name": "Anne Galloway",
+  "why": "Founder of the More-than-Human Lab (Victoria University of Wellington); speculative and creative ethnography with sheep and rural landscapes. Her papers are outside the swept venues.",
+  "link": "https://morethanhumanlab.org/",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Stacey Kuznetsov",
+  "why": "Social and Digital Systems group (ASU); biology-and-HCI and DIY bio work that bridges more-than-human and biohybrid design.",
+  "link": "",
+  "found_via": "seed",
+  "status": "covered",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Sjef van Gaalen — Functional fictions for multispecies cooperation",
+  "why": "Interactions 2021 essay (10.1145/3450506); dropped because no abstract or media could be retrieved.",
+  "link": "https://doi.org/10.1145/3450506",
+  "found_via": "sjef-van-gaalen",
+  "status": "no_media",
+  "batch": "mth-sweep"
  },
  {
   "name": "Oron Catts & Ionat Zurr / SymbioticA",

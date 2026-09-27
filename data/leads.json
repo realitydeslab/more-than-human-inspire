@@ -832,6 +832,110 @@
   "batch": "biohybrid-unconv"
  },
  {
+  "name": "Zoe Papadopoulou",
+  "why": "Designer working on public engagement with synthetic biology and DNA; collaborator on Synthetic Aesthetics-era projects.",
+  "link": "",
+  "found_via": "dunne-raby",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Marta de Menezes — later works",
+  "why": "Decon: Deconstructing Nature, Immortality for Two and antibody paintings, beyond the existing Nature? entry.",
+  "link": "https://martademenezes.com/",
+  "found_via": "bcl",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Amy Karle — Bringing Bones to Life and later bioprinted works",
+  "why": "Later bioprinting projects beyond Regenerative Reliquary; needs verification of dates and venues.",
+  "link": "https://www.youtube.com/watch?v=A4qWW8F1HTo",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Aspect Biosystems × Novo Nordisk printed tissue therapeutics",
+  "why": "Printed insulin-producing tissue programme (2023–); a product pipeline for printed living implants.",
+  "link": "https://aspectbiosystems.com/",
+  "found_via": "aspect-biosystems",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "CTIBiotech / L'Oréal printed skin with sebaceous glands",
+  "why": "Industrial bioprinted skin model for cosmetics testing; design-adjacent product pipeline.",
+  "link": "https://ctibiotech.com/",
+  "found_via": "organovo",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Cellbricks / Vital3D / FluidForm",
+  "why": "Second-generation bioprinting startups (implants, vascular scaffolds, FRESH commercialisation).",
+  "link": "",
+  "found_via": "adam-feinberg",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "MIT Self-Assembly Lab (Skylar Tibbits) — Growing Islands, Liquid Printed series",
+  "why": "4D printing and growth-based fabrication; the bio-relevant projects need scoping against the mth batch.",
+  "link": "https://selfassemblylab.mit.edu/",
+  "found_via": "lining-yao",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Synthetic Aesthetics residency pairings (2010–11)",
+  "why": "Six designer–scientist pairs beyond Agapakis × Tolaas; each produced a project worth a separate entry.",
+  "link": "https://www.syntheticaesthetics.org/",
+  "found_via": "christina-agapakis",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Biodesign Challenge student projects",
+  "why": "Annual student biodesign competition with a large archive of synbio design proposals; better handled as a collection.",
+  "link": "https://www.biodesignchallenge.org/",
+  "found_via": "orkan-telhan",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Solar Foods (Solein) and Air Protein",
+  "why": "Gas-fermentation protein as a designed food ingredient; consumer-facing product design still emerging.",
+  "link": "https://solarfoods.com/",
+  "found_via": "perfect-day",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Spiber, Bolt Threads and Colorifix later product lines",
+  "why": "Post-2020 product launches of engineered protein fibres and microbial dyes; the existing entries stop earlier.",
+  "link": "",
+  "found_via": "amsilk",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Andrea Shin Ling — Living Room Collective members",
+  "why": "Vincent Hui, Nicholas Hoban and Clayton Lee co-led Picoplanktonics; individual practices not yet researched.",
+  "link": "",
+  "found_via": "andrea-shin-ling",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
+  "name": "Jiwon Choi / Bio Craft Lab and Korean biodesign studios",
+  "why": "Growing regional biodesign scene using microbial dyeing and bioprinting; little English documentation gathered.",
+  "link": "",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "bioprint-genetic"
+ },
+ {
   "name": "Phylum",
   "why": "Art-research collective (DiBlasi, Castellanos, Bello) making machine-microbial artworks.",
   "link": "https://dl.acm.org/doi/10.1145/3597626",
@@ -1336,14 +1440,6 @@
   "batch": "mth-hci"
  },
  {
-  "name": "Armi Behzad",
-  "why": "Iterating through Feeling-with Nonhuman Things (CHI EA 2022); Making Space for Poems (2024).",
-  "link": "",
-  "found_via": "ron-wakkary",
-  "status": "open",
-  "batch": "mth-hci"
- },
- {
   "name": "Pschetz et al. - Designing Temporal Ecologies",
   "why": "Multispecies temporalities through design (DRS 2024, 10.21606/drs.2024.1068) and 2026 Bloomsbury book.",
   "link": "",
@@ -1494,6 +1590,78 @@
   "found_via": "emanuele-coccia",
   "status": "open",
   "batch": "mth-leads"
+ },
+ {
+  "name": "Kristin N. Dew & Daniela Rosner",
+  "why": "'Lessons from the Woodshop: Cultivating Design with Living Materials' (CHI 2018) treats wood as a living collaborator; not in the Crossref term results.",
+  "link": "https://doi.org/10.1145/3173574.3174159",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Bee and honeybee co-creation papers (TEI/CHI)",
+  "why": "Telling the Bees (TEI 2019), 4D Bioforming with Bees (CHI 2025), Wax Arts with Honeybees (TEI 2025): left to the aci batch by agreement.",
+  "link": "https://doi.org/10.1145/3706598.3713696",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Speaking for Animals / Urban Noticing Probes for Community Animals",
+  "why": "DIS 2026 and CHI 2025 multispecies-activism and street-animal cohabitation papers; left to the aci batch.",
+  "link": "https://doi.org/10.1145/3706598.3713977",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Weilenmann & Juhlin — Exploring interspecies sensemaking (UbiComp 2012)",
+  "why": "Early multispecies ethnography of dog-tracking technology in hunting; left to the aci batch.",
+  "link": "https://doi.org/10.1145/2370216.2370239",
+  "found_via": "fredrik-aspling",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "William Odom — urban agriculture and sustainable HCI (DIS 2010)",
+  "why": "Highly cited study of urban farmers resisting sensing technology; left to the hni batch.",
+  "link": "https://doi.org/10.1145/1858171.1858211",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Shannon Rodgers et al. — Nature Fictions (DIS 2023)",
+  "why": "Co-design approach imagining futures with nonhuman garden stakeholders; left to the hni batch.",
+  "link": "https://doi.org/10.1145/3563657.3595981",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Ferran Altarriba Bertran — joyful forest technology (DIS 2023, CHI 2025)",
+  "why": "Two papers on playful, joyful technology in forests; left to the hni batch.",
+  "link": "https://doi.org/10.1145/3563657.3596015",
+  "found_via": "caglar-genc",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "Abrahamsson & Bertoni — Compost Politics (Environmental Humanities 2014)",
+  "why": "Highly cited account of vermicomposting as multispecies togetherness; relevant background for compost-design works but not itself a design paper.",
+  "link": "https://doi.org/10.1215/22011919-3614962",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
+ },
+ {
+  "name": "DRS 2026 and PDC 2026 more-than-human tracks",
+  "why": "Dozens of 2026 short and exploratory papers (DRS 2026, PDC 2026 Vol. 2) not yet screened in full; the sweep took the strongest titles only.",
+  "link": "https://dl.designresearchsociety.org/",
+  "found_via": "seed",
+  "status": "open",
+  "batch": "mth-sweep"
  },
  {
   "name": "Jordan & Kutter (FinalSpark founders)",

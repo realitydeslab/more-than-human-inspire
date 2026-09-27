@@ -80,6 +80,10 @@ A work joins by listing the id in its `collections`, or by adding its work id to
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
 New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
 
+## Extra media (`data/media/<name>.json`)
+Images or a video found later for existing works, kept out of the research batches so passes never edit each other's files:
+`{ "<work-id>": { "images": ["https://…"], "video": { "url": "https://…" } } }` — images are appended (max 4), a video is used only when the work has none.
+
 ## Lead (person/lab found but not researched in this batch)
 ```json
 { "name": "…", "why": "…", "link": "…", "found_via": "creator id", "status": "open" }   // open | no_media | off_topic | duplicate

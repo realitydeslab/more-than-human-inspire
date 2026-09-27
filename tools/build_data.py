@@ -32,6 +32,7 @@ OVERRIDES = ROOT / "data" / "overrides.json"
 TAXONOMY = ROOT / "data" / "taxonomy.json"
 CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
+MEDIA = ROOT / "data" / "media"  # extra media per work, kept apart from the research batches
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
 LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
 
@@ -128,6 +129,20 @@ def dedupe(works: list) -> list:
         for k in keys:
             index.setdefault(k, cur)
     return out
+
+
+def add_media(works: list) -> None:
+    """data/media/*.json: { work_id: { "images": [...], "video": {"url": ...} } } — appended to works that lack them."""
+    by_id = {w["id"]: w for w in works}
+    for f in sorted(MEDIA.glob("*.json")) if MEDIA.exists() else []:
+        for wid, m in json.loads(f.read_text()).items():
+            w = by_id.get(wid)
+            if not w:
+                logger.warning("media %s: unknown work %s", f.name, wid)
+                continue
+            w["images"] = list(dict.fromkeys((w.get("images") or []) + (m.get("images") or [])))[:4]
+            if m.get("video") and not w["video"]:
+                w["video"] = _video(m["video"])
 
 
 def merge_creators(creators: dict, works: list, mapping: dict) -> None:
@@ -278,6 +293,7 @@ def main() -> None:
     works = dedupe(works)
     merge_creators(creators, works, ov.get("merge_creators", {}))
     works = [w for w in works if w.get("id") not in set(ov.get("drop_works", []))]
+    add_media(works)
     for w in works:
         if (w.get("field"), w.get("sub")) in LEGACY:
             w["field"], w["sub"] = LEGACY[(w["field"], w["sub"])]

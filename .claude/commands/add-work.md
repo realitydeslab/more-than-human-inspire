@@ -21,7 +21,8 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` first.
 5. **Validate.** `python3 tools/validate.py data/raw/add-<creator-id>.json` until ✓.
 6. **Build.** `python3 tools/build_data.py`. Check `data/dropped.json` (dead media, DOI title mismatches) and fix what is yours.
 7. **Preview** (optional): `./serve.sh`, open `http://localhost:8932/#view=works&q=<name>`.
-8. **Publish** (skip with `--no-push`):
-   `git add data index.html catalog.md catalog.zh.md llms.txt && git commit -m "feat(data): add <name> (<n> works)" && git push`.
+8. **Check duplicates**: `python3 tools/audit_titles.py` — resolve any same-title works that are yours.
+9. **Publish** (skip with `--no-push`): `tools/publish.sh "feat(data): add <name> (<n> works)"`
+   It validates every batch, rebuilds, refuses to publish if validation fails or works disappeared, then commits and pushes.
    GitHub Pages redeploys https://morethanhuman.reality.design in about a minute.
-9. **Report**: what was added (counts per field), notable works, what was left out and why, new leads, live URL.
+10. **Report**: what was added (counts per field), notable works, what was left out and why, new leads, live URL.

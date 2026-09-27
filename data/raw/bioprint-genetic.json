@@ -936,6 +936,27 @@
    "discovered_via": "seed"
   },
   {
+   "id": "diemut-strebe",
+   "name": "Diemut Strebe",
+   "kind": "person",
+   "role": "Artist, affiliate at MIT Center for Art, Science & Technology",
+   "based": "Boston, US / Germany",
+   "bio": "Diemut Strebe makes works with scientific laboratories, including Sugababe, a living replica of Van Gogh's ear engineered from cells of a Van Gogh descendant and kept alive in a nutrient vitrine.",
+   "why": "She uses genetic relatedness as a material for art-historical argument.",
+   "links": {
+    "site": "https://diemutstrebe.com/"
+   },
+   "role_zh": "艺术家，麻省理工学院艺术、科学与技术中心附属",
+   "based_zh": "美国波士顿／德国",
+   "bio_zh": "Diemut Strebe 与科学实验室合作创作，包括 Sugababe：用梵高后裔细胞培养出的活体梵高耳朵复制品，保存在营养液展柜中。",
+   "why_zh": "她把遗传亲缘关系当作论述艺术史的材料。",
+   "connected_to": [
+    "oron-catts",
+    "eduardo-kac"
+   ],
+   "discovered_via": "seed"
+  },
+  {
    "id": "gina-czarnecki",
    "name": "Gina Czarnecki",
    "kind": "person",
@@ -975,6 +996,28 @@
     "suzanne-lee",
     "modern-synthesis",
     "carole-collet"
+   ],
+   "discovered_via": "seed"
+  },
+  {
+   "id": "mary-maggic",
+   "name": "Mary Maggic",
+   "kind": "person",
+   "role": "Artist and researcher working on hormones, biopolitics and DIY biology",
+   "based": "Vienna, Austria",
+   "bio": "Mary Maggic makes protocols, workshops and videos for extracting and detecting hormones outside institutions, including Open Source Estrogen and the soap-opera instructional Housewives Making Drugs.",
+   "why": "They turn molecular biology into a distributable protocol and treat hormones as a political material.",
+   "links": {
+    "site": "https://maggic.ooo/",
+    "instagram": "https://www.instagram.com/maggic.ooo/"
+   },
+   "role_zh": "关注荷尔蒙、生命政治与 DIY 生物学的艺术家与研究者",
+   "based_zh": "奥地利维也纳",
+   "bio_zh": "Mary Maggic 制作在机构之外提取和检测荷尔蒙的协议、工作坊与影像，包括 Open Source Estrogen 与肥皂剧式教学片 Housewives Making Drugs。",
+   "why_zh": "他们把分子生物学变成可分发的协议，并把荷尔蒙当作政治材料。",
+   "connected_to": [
+    "genspace",
+    "the-odin"
    ],
    "discovered_via": "seed"
   },
@@ -1295,7 +1338,10 @@
     "venue": "Science Advances",
     "title": "Biomanufacturing of organ-specific tissues with high cellular density and embedded vascular channels"
    },
-   "source_url": "https://doi.org/10.1126/sciadv.aaw2459"
+   "source_url": "https://doi.org/10.1126/sciadv.aaw2459",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=eAnrfy96j9E"
+   }
   },
   {
    "id": "jennifer-lewis--biomimetic-4d-printing",
@@ -1659,7 +1705,10 @@
     "venue": "Advanced Materials",
     "title": "Volumetric Bioprinting of Complex Living-Tissue Constructs within Seconds"
    },
-   "source_url": "https://www.levatolab.com/"
+   "source_url": "https://www.levatolab.com/",
+   "video": {
+    "url": "https://www.youtube.com/watch?v=93__9ZFI4yI"
+   }
   },
   {
    "id": "andrew-pelling--apple-scaffolds",
@@ -3231,6 +3280,164 @@
    "source_url": "https://bcl.io/"
   },
   {
+   "id": "eduardo-kac--the-eighth-day",
+   "creator_ids": [
+    "eduardo-kac"
+   ],
+   "title": "The Eighth Day",
+   "year": 2001,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "animals",
+    "plants",
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "A clear dome holds a small ecology of transgenic organisms that all glow green — plants, amoebae, fish and mice — together with a biobot moved by amoeba activity.",
+   "description_zh": "一个透明穹顶中放着一个全部发绿光的转基因生态系统——植物、变形虫、鱼和老鼠——以及一个由变形虫活动驱动的生物机器人。",
+   "idea_en": "Assemble transgenic life into one artificial ecology and watch it become a shared condition.",
+   "idea_zh": "把转基因生命组装成一个人工生态系统，看它变成一种共同处境。",
+   "method": "GFP-expressing organisms are kept in a four-foot acrylic dome with life-support; a biobot with an amoeba colony as its brain moves according to their collective activity, streamed online.",
+   "method_zh": "表达 GFP 的生物被养在带生命支持的四英尺亚克力穹顶中；以变形虫群落为「大脑」的生物机器人依其集体活动移动，并在线直播。",
+   "keywords": [
+    "GFP",
+    "transgenic art",
+    "biobot",
+    "Arizona State University",
+    "telepresence"
+   ],
+   "images": [
+    "http://www.ekac.org/8thday-general-nopublic.jpg"
+   ],
+   "source_url": "http://www.ekac.org/8thday.html"
+  },
+  {
+   "id": "joe-davis--bacterial-radio",
+   "creator_ids": [
+    "joe-davis"
+   ],
+   "title": "Bacterial Radio",
+   "year": 2011,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "bacteria"
+   ],
+   "kind": "artwork",
+   "description": "Engineered bacteria deposit semiconducting minerals on glass, producing the crystal-radio components of a working receiver grown rather than manufactured.",
+   "description_zh": "工程细菌在玻璃上沉积半导体矿物，长出（而非制造出）可工作的矿石收音机元件。",
+   "idea_en": "Grow the electronics: bacteria as a fabrication step for a radio.",
+   "idea_zh": "让电子器件生长出来：把细菌当作收音机的一道制造工序。",
+   "method": "E. coli carrying genes for metal-binding proteins precipitate germanium and other semiconducting compounds in patterns on substrates, which are wired into a crystal radio circuit.",
+   "method_zh": "携带金属结合蛋白基因的大肠杆菌在基底上按图案沉淀锗等半导体化合物，再接入矿石收音机电路。",
+   "keywords": [
+    "Bacterial Radio",
+    "Prix Ars Electronica 2012",
+    "biomineralisation",
+    "crystal radio",
+    "MIT"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=W0pyeRCCJ44"
+   },
+   "source_url": "https://ars.electronica.art/"
+  },
+  {
+   "id": "paul-vanouse--relative-velocity-inscription-device",
+   "creator_ids": [
+    "paul-vanouse"
+   ],
+   "title": "Relative Velocity Inscription Device",
+   "year": 2002,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "molecules",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A live gel electrophoresis race between DNA samples from four members of the artist's mixed-race family, running for the length of the exhibition.",
+   "description_zh": "一场持续整个展期的活体凝胶电泳「竞赛」，参赛者是艺术家混血家庭四位成员的 DNA 样本。",
+   "idea_en": "Turn the apparatus of genetic comparison into a visible contest, and its politics show.",
+   "idea_zh": "把基因比较的装置变成一场可见的竞赛，它的政治就显露出来。",
+   "method": "A custom horizontal electrophoresis system separates family members' DNA over weeks; the migrating bands are lit and monitored, with skin-colour genetics as the stated premise.",
+   "method_zh": "定制的水平电泳系统在数周内分离家庭成员的 DNA；迁移的条带被照明并监测，作品以皮肤颜色的遗传学为前提。",
+   "keywords": [
+    "electrophoresis",
+    "race",
+    "genetic determinism",
+    "Jamaica",
+    "installation"
+   ],
+   "images": [
+    "https://www.paulvanouse.com/RVID-wide1.jpg"
+   ],
+   "source_url": "https://www.paulvanouse.com/rvid.html"
+  },
+  {
+   "id": "heather-dewey-hagborg--invisible",
+   "creator_ids": [
+    "heather-dewey-hagborg"
+   ],
+   "title": "Invisible",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "molecules",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Two sprays sold as a kit: one deletes most of the DNA a person leaves behind, the other replaces it with a confusing mixture of other people's DNA.",
+   "description_zh": "作为套件出售的两种喷雾：一种清除人留下的大部分 DNA，另一种用他人 DNA 的混合物覆盖其上。",
+   "idea_en": "If DNA is surveillance data, then counter-forensics can be a consumer product.",
+   "idea_zh": "如果 DNA 是监控数据，那么反取证也可以是一件消费品。",
+   "method": "Erase uses a bleach-based cleanser that degrades DNA on surfaces; Replace applies a mix of DNA from many sources so any recovered sample yields an unusable profile.",
+   "method_zh": "Erase 使用含次氯酸的清洁剂降解表面 DNA；Replace 喷上来自多个来源的 DNA 混合物，使任何采集样本都得不到可用图谱。",
+   "keywords": [
+    "counter-forensics",
+    "DNA privacy",
+    "spray kit",
+    "biopolitics"
+   ],
+   "images": [
+    "https://deweyhagborg.com/media/pages/projects/invisible/45706f416f-1643025441/be_invisible_stop.jpg"
+   ],
+   "source_url": "https://deweyhagborg.com/projects/invisible"
+  },
+  {
+   "id": "heather-dewey-hagborg--probably-chelsea",
+   "creator_ids": [
+    "heather-dewey-hagborg"
+   ],
+   "title": "Probably Chelsea",
+   "year": 2017,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "molecules",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "Thirty different 3D-printed portrait masks, all generated from Chelsea Manning's DNA, hang together to show how many faces one genome can be read as.",
+   "description_zh": "三十个不同的 3D 打印肖像面具，全部由 Chelsea Manning 的 DNA 生成，并排悬挂，显示同一份基因组可以被读成多少张脸。",
+   "idea_en": "One genome, thirty faces: DNA phenotyping is interpretation, not identification.",
+   "idea_zh": "一份基因组，三十张脸：DNA 表型推断是解释，不是识别。",
+   "method": "Genotype data from a cheek swab and hair sent by Manning is run through the artist's phenotyping algorithms with different parameters, and each resulting face is 3D printed in translucent plastic.",
+   "method_zh": "把 Manning 寄来的口腔擦拭样本与头发的基因型数据，用艺术家的表型算法以不同参数运算，每张生成的脸都用半透明塑料 3D 打印。",
+   "keywords": [
+    "DNA phenotyping",
+    "Chelsea Manning",
+    "forensic critique",
+    "3D printed portraits"
+   ],
+   "images": [
+    "https://deweyhagborg.com/media/pages/projects/probably-chelsea/9769243e4c-1643025328/heatherdeweyhagborgchelseamanning_pap5596.jpg"
+   ],
+   "source_url": "https://deweyhagborg.com/projects/probably-chelsea"
+  },
+  {
    "id": "ai-hasegawa--impossible-baby",
    "creator_ids": [
     "ai-hasegawa"
@@ -3388,6 +3595,38 @@
    "source_url": "https://dunneandraby.co.uk/"
   },
   {
+   "id": "diemut-strebe--sugababe",
+   "creator_ids": [
+    "diemut-strebe"
+   ],
+   "title": "Sugababe",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "cells",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A living replica of Van Gogh's severed ear, grown from cartilage cells engineered with DNA from a Van Gogh descendant and kept alive in a nutrient case visitors can speak into.",
+   "description_zh": "梵高被割下的耳朵的活体复制品：用带有梵高后裔 DNA 的软骨细胞培养而成，保存在观众可以对其说话的营养舱中。",
+   "idea_en": "Genetic relatedness used as a material for art history, with a live tissue as the artefact.",
+   "idea_zh": "把遗传亲缘当作艺术史的材料，而展品是活着的组织。",
+   "method": "Cartilage cells from a great-great-grandson of Van Gogh's brother are engineered and grown on a printed ear-shaped scaffold in a bioreactor; a microphone and processor relay visitors' voices as nerve-like signals.",
+   "method_zh": "取自梵高弟弟曾曾孙的软骨细胞经改造后在生物反应器中的耳形打印支架上培养；麦克风与处理器把观众声音转成类神经信号传入。",
+   "keywords": [
+    "Van Gogh",
+    "tissue engineering",
+    "bioreactor",
+    "ZKM",
+    "genetic lineage"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tdZYPLYEkVc"
+   },
+   "source_url": "https://diemutstrebe.com/"
+  },
+  {
    "id": "gina-czarnecki--heirloom",
    "creator_ids": [
     "gina-czarnecki"
@@ -3485,6 +3724,38 @@
     "url": "https://www.youtube.com/watch?v=PVEoXq_QwmU"
    },
    "source_url": "https://www.amycongdon.com/tissue-engineered-textiles"
+  },
+  {
+   "id": "mary-maggic--open-source-estrogen",
+   "creator_ids": [
+    "mary-maggic"
+   ],
+   "title": "Open Source Estrogen",
+   "year": 2015,
+   "field": "bio",
+   "sub": "bioart",
+   "organisms": [
+    "humans",
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "A set of DIY protocols, workshops and videos for detecting and extracting estrogen from bodies and water using kitchen equipment, distributed as open documentation.",
+   "description_zh": "一套用厨房器具检测和提取身体与水中雌激素的 DIY 协议、工作坊与影像，以开放文档形式分发。",
+   "idea_en": "Hormones are an environmental and political material, so the protocol is the artwork.",
+   "idea_zh": "荷尔蒙是一种环境与政治材料，因此协议本身就是作品。",
+   "method": "Low-cost extraction from urine and water samples, yeast estrogen biosensors and instructional formats including a soap-opera style video make hormone work reproducible outside clinics.",
+   "method_zh": "用低成本方法从尿液和水样中提取，配合酵母雌激素生物传感器，以及肥皂剧式教学影像，让荷尔蒙操作在诊所之外可复现。",
+   "keywords": [
+    "Open Source Estrogen",
+    "biohacking",
+    "xenoestrogens",
+    "gender politics",
+    "protocol"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=9JLaPYmmeaU"
+   },
+   "source_url": "https://maggic.ooo/Open-Source-Estrogen"
   },
   {
    "id": "charlotte-jarvis--in-posse",
@@ -3764,7 +4035,256 @@
     "url": "https://www.youtube.com/watch?v=wjAv24vhKmM"
    },
    "source_url": "https://perfectday.com/"
+  },
+  {
+   "id": "anthony-atala--in-situ-skin-bioprinting",
+   "creator_ids": [
+    "anthony-atala"
+   ],
+   "title": "In Situ Bioprinting of Autologous Skin Cells",
+   "year": 2019,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "A wheeled bedside printer scans a wound, then deposits the patient's own skin cells directly into it, closing large full-thickness wounds faster than grafts.",
+   "description_zh": "一台可推到床边的打印机先扫描创面，再把病人自身的皮肤细胞直接打印进去，比植皮更快闭合大面积全层创口。",
+   "idea_en": "Bring the printer to the body instead of printing a part and implanting it.",
+   "idea_zh": "把打印机带到身体旁，而不是先打印一个部件再植入。",
+   "method": "A hand-held laser scanner builds a 3D map of the wound; the cartridge system prints fibroblasts and keratinocytes in fibrin and collagen along the mapped topography in a single pass.",
+   "method_zh": "手持激光扫描仪建立创面三维图；卡盒系统按该地形一次性打印纤维蛋白与胶原中的成纤维细胞和角质细胞。",
+   "keywords": [
+    "in situ bioprinting",
+    "wound healing",
+    "autologous cells",
+    "bedside printer",
+    "WFIRM"
+   ],
+   "images": [
+    "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-018-38366-w/MediaObjects/41598_2018_38366_Fig1_HTML.png"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=ftoOT5f7jkE"
+   },
+   "paper": {
+    "url": "https://www.nature.com/articles/s41598-018-38366-w",
+    "doi": "10.1038/s41598-018-38366-w",
+    "venue": "Scientific Reports",
+    "title": "In Situ Bioprinting of Autologous Skin Cells Accelerates Wound Healing of Extensive Excisional Full-Thickness Wounds"
+   },
+   "source_url": "https://www.nature.com/articles/s41598-018-38366-w"
+  },
+  {
+   "id": "anthony-atala--3d-bioprinting-of-tissues-and-organs",
+   "creator_ids": [
+    "anthony-atala"
+   ],
+   "title": "3D Bioprinting of Tissues and Organs",
+   "year": 2014,
+   "field": "bio",
+   "sub": "bioprinting",
+   "organisms": [
+    "cells"
+   ],
+   "kind": "paper",
+   "description": "The reference review of bioprinting for non-specialists: printer types, bioink requirements, resolution limits and the vascularisation problem, laid out as a design brief.",
+   "description_zh": "面向非专业者的生物打印基准综述：打印机类型、生物墨水要求、分辨率极限与血管化难题，读起来像一份设计任务书。",
+   "idea_en": "One paper that tells a designer what bioprinting can and cannot do, and why.",
+   "idea_zh": "一篇论文告诉设计师生物打印能做什么、不能做什么，以及为什么。",
+   "method": "A systematic comparison of inkjet, microextrusion and laser-assisted bioprinting against the requirements of cell viability, resolution, mechanical strength and nutrient transport.",
+   "method_zh": "把喷墨、微挤出和激光辅助生物打印，系统对照细胞存活率、分辨率、力学强度和营养输运等要求进行比较。",
+   "keywords": [
+    "review",
+    "bioink",
+    "inkjet",
+    "microextrusion",
+    "laser-assisted printing"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1038/nbt.2958",
+    "doi": "10.1038/nbt.2958",
+    "venue": "Nature Biotechnology",
+    "title": "3D bioprinting of tissues and organs"
+   },
+   "source_url": "https://doi.org/10.1038/nbt.2958"
+  },
+  {
+   "id": "reef-design-lab--mars-ii",
+   "creator_ids": [
+    "reef-design-lab"
+   ],
+   "title": "MARS II",
+   "year": 2024,
+   "field": "bio",
+   "sub": "architecture",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "ecosystems",
+    "animals"
+   ],
+   "kind": "product",
+   "description": "A second generation of the modular reef system with revised geometry and casting process, shown above water at MPavilion in Melbourne before deployment.",
+   "description_zh": "模块化礁体系统的第二代，几何与浇注工艺经过修改，在部署前于墨尔本 MPavilion 以陆上形式展出。",
+   "idea_en": "Iterate habitat design like a product line, with each generation testing a new geometry.",
+   "idea_zh": "像产品线一样迭代栖息地设计，每一代测试一种新几何。",
+   "method": "Updated 3D-printed moulds cast ceramic modules with larger internal voids and simpler assembly; the exhibition version let visitors see the interlocking logic normally hidden underwater.",
+   "method_zh": "更新的 3D 打印模具浇注出内部空腔更大、拼装更简单的陶瓷模块；展览版让观众看到通常隐藏在水下的互锁逻辑。",
+   "keywords": [
+    "MARS II",
+    "MPavilion",
+    "modular reef",
+    "ceramic casting"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=vzoowZzFZJs"
+   },
+   "source_url": "https://reefdesignlab.com/"
   }
  ],
- "leads": []
+ "leads": [
+  {
+   "name": "Adam Zaretsky",
+   "why": "Transgenic bioart and workshops (Mutate or Die, VivoArts); provocative genetic-design pedagogy — no reliable project-page media found.",
+   "link": "https://www.emutagen.com/",
+   "found_via": "bcl",
+   "status": "no_media"
+  },
+  {
+   "name": "Kathy High",
+   "why": "Embracing Animal (2004): living with transgenic HLA-B27 rats; care and biotech kinship.",
+   "link": "https://www.kathyhigh.com/",
+   "found_via": "heather-dewey-hagborg",
+   "status": "open"
+  },
+  {
+   "name": "Anicka Yi",
+   "why": "You Can Call Me F (2015) and later works using bacteria cultured from women's bodies; scent and microbial politics in art institutions.",
+   "link": "https://www.guggenheim.org/",
+   "found_via": "center-for-genomic-gastronomy",
+   "status": "open"
+  },
+  {
+   "name": "Ori Elisar",
+   "why": "The Living Language (2015): Hebrew letterforms grown by Paenibacillus bacteria; typography as microbial growth.",
+   "link": "https://www.orielisar.com/",
+   "found_via": "orkan-telhan",
+   "status": "open"
+  },
+  {
+   "name": "Zoe Papadopoulou",
+   "why": "Designer working on public engagement with synthetic biology and DNA; collaborator on Synthetic Aesthetics-era projects.",
+   "link": "",
+   "found_via": "dunne-raby",
+   "status": "open"
+  },
+  {
+   "name": "Sascha Pohflepp",
+   "why": "Speculative work on synthetic biology, carbon and deep time (Recovery, The Wandering Lands); Synthetic Aesthetics resident.",
+   "link": "",
+   "found_via": "dunne-raby",
+   "status": "open"
+  },
+  {
+   "name": "Marta de Menezes — later works",
+   "why": "Decon: Deconstructing Nature, Immortality for Two and antibody paintings, beyond the existing Nature? entry.",
+   "link": "https://martademenezes.com/",
+   "found_via": "bcl",
+   "status": "open"
+  },
+  {
+   "name": "Orkan Telhan & Dietmar Offenhuber — Reservoirs of Venice",
+   "why": "Water as computational medium, Venice Biennale 2025; belongs with unconventional-computing rather than bio design.",
+   "link": "https://www.orkantelhan.com/res-venice",
+   "found_via": "orkan-telhan",
+   "status": "off_topic"
+  },
+  {
+   "name": "Amy Karle — Bringing Bones to Life and later bioprinted works",
+   "why": "Later bioprinting projects beyond Regenerative Reliquary; needs verification of dates and venues.",
+   "link": "https://www.youtube.com/watch?v=A4qWW8F1HTo",
+   "found_via": "seed",
+   "status": "open"
+  },
+  {
+   "name": "Aspect Biosystems × Novo Nordisk printed tissue therapeutics",
+   "why": "Printed insulin-producing tissue programme (2023–); a product pipeline for printed living implants.",
+   "link": "https://aspectbiosystems.com/",
+   "found_via": "aspect-biosystems",
+   "status": "open"
+  },
+  {
+   "name": "CTIBiotech / L'Oréal printed skin with sebaceous glands",
+   "why": "Industrial bioprinted skin model for cosmetics testing; design-adjacent product pipeline.",
+   "link": "https://ctibiotech.com/",
+   "found_via": "organovo",
+   "status": "open"
+  },
+  {
+   "name": "Cellbricks / Vital3D / FluidForm",
+   "why": "Second-generation bioprinting startups (implants, vascular scaffolds, FRESH commercialisation).",
+   "link": "",
+   "found_via": "adam-feinberg",
+   "status": "open"
+  },
+  {
+   "name": "MIT Self-Assembly Lab (Skylar Tibbits) — Growing Islands, Liquid Printed series",
+   "why": "4D printing and growth-based fabrication; the bio-relevant projects need scoping against the mth batch.",
+   "link": "https://selfassemblylab.mit.edu/",
+   "found_via": "lining-yao",
+   "status": "open"
+  },
+  {
+   "name": "Synthetic Aesthetics residency pairings (2010–11)",
+   "why": "Six designer–scientist pairs beyond Agapakis × Tolaas; each produced a project worth a separate entry.",
+   "link": "https://www.syntheticaesthetics.org/",
+   "found_via": "christina-agapakis",
+   "status": "open"
+  },
+  {
+   "name": "Ginkgo Bioworks Creative Residency projects",
+   "why": "Individual residency outputs (scents, pigments, publications) are not documented as separate project pages with media.",
+   "link": "https://www.ginkgobioworks.com/",
+   "found_via": "ginkgo-bioworks",
+   "status": "no_media"
+  },
+  {
+   "name": "Biodesign Challenge student projects",
+   "why": "Annual student biodesign competition with a large archive of synbio design proposals; better handled as a collection.",
+   "link": "https://www.biodesignchallenge.org/",
+   "found_via": "orkan-telhan",
+   "status": "open"
+  },
+  {
+   "name": "Solar Foods (Solein) and Air Protein",
+   "why": "Gas-fermentation protein as a designed food ingredient; consumer-facing product design still emerging.",
+   "link": "https://solarfoods.com/",
+   "found_via": "perfect-day",
+   "status": "open"
+  },
+  {
+   "name": "Spiber, Bolt Threads and Colorifix later product lines",
+   "why": "Post-2020 product launches of engineered protein fibres and microbial dyes; the existing entries stop earlier.",
+   "link": "",
+   "found_via": "amsilk",
+   "status": "open"
+  },
+  {
+   "name": "Andrea Shin Ling — Living Room Collective members",
+   "why": "Vincent Hui, Nicholas Hoban and Clayton Lee co-led Picoplanktonics; individual practices not yet researched.",
+   "link": "",
+   "found_via": "andrea-shin-ling",
+   "status": "open"
+  },
+  {
+   "name": "Jiwon Choi / Bio Craft Lab and Korean biodesign studios",
+   "why": "Growing regional biodesign scene using microbial dyeing and bioprinting; little English documentation gathered.",
+   "link": "",
+   "found_via": "seed",
+   "status": "open"
+  }
+ ]
 }
