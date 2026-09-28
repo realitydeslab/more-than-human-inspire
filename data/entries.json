@@ -127017,6 +127017,21 @@
    "founded": 2016
   },
   {
+   "id": "3brain",
+   "name": "3Brain",
+   "type": "company",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid"
+   ],
+   "description": "A company that makes high-density CMOS microelectrode arrays for recording neural cultures, organoids and retinas.",
+   "description_zh": "生产高密度 CMOS 微电极阵列的公司，用于记录神经培养物、类器官和视网膜。",
+   "url": "https://www.3brain.com/",
+   "image": "https://cdn.prod.website-files.com/5ddb902bd31f0f6a5f6c45fe/697a1256693f2ff0e48ad6e7_Website_Landing%20Page_96W_3840x2160_5.jpg"
+  },
+  {
    "id": "aboriginal-territories-in-cyberspace",
    "name": "Aboriginal Territories in Cyberspace (AbTeC)",
    "type": "research",
@@ -127080,6 +127095,29 @@
    "founded": 2018
   },
   {
+   "id": "allen-discovery-center-tufts",
+   "name": "Allen Discovery Center at Tufts University",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "synbio"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "Michael Levin's centre studying how bioelectric signals guide body shape, which co-created xenobots and other synthetic living forms.",
+   "description_zh": "Michael Levin 领导的中心，研究生物电信号如何引导身体形态，与合作者共同创造了 xenobot 等合成生命形式。",
+   "url": "https://allencenter.tufts.edu/",
+   "image": "https://allencenter.tufts.edu/wp-content/uploads/Levin-Lab-001-Pg3_R4_sm.png",
+   "based": "Medford, US",
+   "based_zh": "梅德福，美国",
+   "founded": 2016,
+   "people": [
+    "Michael Levin"
+   ],
+   "creator_id": "michael-levin"
+  },
+  {
    "id": "amazon-conservation-team",
    "name": "Amazon Conservation Team",
    "type": "nonprofit",
@@ -127101,6 +127139,47 @@
     "Mark Plotkin",
     "Liliana Madrigal"
    ]
+  },
+  {
+   "id": "amino-labs",
+   "name": "Amino Labs",
+   "type": "company",
+   "themes": [
+    "diybio",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company that makes beginner-friendly genetic engineering kits and mini-labs for schools and the public.",
+   "description_zh": "为学校和公众制作入门级基因工程套件和迷你实验室的公司。",
+   "url": "https://amino.bio/",
+   "image": "https://amino.bio/cdn/shop/files/tile_dna_46a15f05-1b71-4aa3-9273-cad0141ca09d_1024x1024.png?v=1713810746",
+   "based": "Montreal, CA",
+   "based_zh": "蒙特利尔，加拿大",
+   "people": [
+    "Julie Legault"
+   ]
+  },
+  {
+   "id": "amsilk",
+   "name": "AMSilk",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A German biotech company that produces spider-silk proteins by fermentation for textiles, cosmetics and medical coatings.",
+   "description_zh": "德国生物技术公司，通过发酵生产蜘蛛丝蛋白，用于纺织、化妆品和医疗涂层。",
+   "url": "https://www.amsilk.com/",
+   "image": "https://www.amsilk.com/app/uploads/AMSilk_biotech-silk-protein-company-office_fotocredit_@AMSilk-1024x682.jpg",
+   "based": "Planegg, DE",
+   "based_zh": "普拉内格，德国",
+   "founded": 2008,
+   "creator_id": "amsilk"
   },
   {
    "id": "anima-mundi-law-initiative",
@@ -127192,6 +127271,127 @@
    "people": [
     "Alasdair Davies"
    ]
+  },
+  {
+   "id": "ars-electronica-festival",
+   "name": "Ars Electronica",
+   "type": "event",
+   "themes": [
+    "bioart",
+    "biocomputing"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A Linz festival, museum and lab for art, technology and society whose yearly festival regularly features bio art, synthetic biology and living-machine work.",
+   "description_zh": "位于林茨的艺术、技术与社会节展、博物馆和实验室，每年的艺术节常展出生物艺术、合成生物学和活体机器作品。",
+   "url": "https://ars.electronica.art/news/en/",
+   "image": "https://ars.electronica.art/news/files/2018/10/facade.jpg",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "founded": 1979
+  },
+  {
+   "id": "ars-electronica-futurelab",
+   "name": "Ars Electronica Futurelab",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "futures"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Ars Electronica's research and development lab, which works with artists and companies on art-driven projects in AI, robotics and life sciences.",
+   "description_zh": "Ars Electronica 的研发实验室，与艺术家和企业合作开展以艺术为导向的人工智能、机器人和生命科学项目。",
+   "url": "https://ars.electronica.art/futurelab/en/",
+   "image": "https://ars.electronica.art/futurelab/files/2025/01/54208229203_64b7c98772_k-1500x1000.jpg",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "founded": 1996
+  },
+  {
+   "id": "art-laboratory-berlin",
+   "name": "Art Laboratory Berlin",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A Berlin art space and research platform for art at the intersection of the life sciences and technology, with exhibitions, conferences and a DIY lab.",
+   "description_zh": "柏林的艺术空间和研究平台，关注艺术与生命科学、技术的交汇，举办展览、会议并设有 DIY 实验室。",
+   "url": "https://artlaboratory-berlin.org/",
+   "image": "https://artlaboratory-berlin.org/wp-content/uploads/2021/06/SL_200314-0066.jpg",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "founded": 2006,
+   "people": [
+    "Regine Rapp",
+    "Christian de Lutz"
+   ]
+  },
+  {
+   "id": "arts-catalyst",
+   "name": "Arts Catalyst",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A UK arts organisation that commissions art engaging with science and ecology, from space biology to environmental justice.",
+   "description_zh": "英国艺术机构，委约与科学和生态对话的艺术作品，题材从太空生物学到环境正义。",
+   "url": "https://artscatalyst.org/",
+   "image": "https://artscatalyst.org/wp-content/uploads/2022/07/SF-wide-for-AC-Website.jpg",
+   "based": "Sheffield, UK",
+   "based_zh": "谢菲尔德，英国",
+   "founded": 1993
+  },
+  {
+   "id": "ucla-artsci-center",
+   "name": "Art|Sci Center (UCLA)",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Victoria Vesna's centre at UCLA that brings artists and scientists together through courses, exhibitions and events on biology and nanotech.",
+   "description_zh": "Victoria Vesna 在加州大学洛杉矶分校创办的中心，通过课程、展览和活动让艺术家与科学家在生物学和纳米技术领域合作。",
+   "url": "https://artsci.ucla.edu/",
+   "image": "https://artsci.ucla.edu/sites/artsci.ucla.edu/files/site_image/10yearanniversary.jpeg",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "people": [
+    "Victoria Vesna"
+   ]
+  },
+  {
+   "id": "asknature",
+   "name": "AskNature",
+   "type": "database",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "The Biomimicry Institute's free online library of biological strategies and bio-inspired designs, searchable by function.",
+   "description_zh": "Biomimicry Institute 的免费在线库，收录生物策略与仿生设计案例，可按功能检索。",
+   "url": "https://asknature.org/",
+   "image": "https://ask-nature.sfo3.digitaloceanspaces.com/wp-content/uploads/2024/09/27081443/AN_Home_Thumb_Fall24.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2008
   },
   {
    "id": "asociacion-andes-potato-park",
@@ -127364,6 +127564,26 @@
    "based_zh": "全球"
   },
   {
+   "id": "bugss",
+   "name": "Baltimore Underground Science Space (BUGSS)",
+   "type": "nonprofit",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Baltimore community lab offering biology classes, an iGEM team and art-science events for the public.",
+   "description_zh": "巴尔的摩的社区实验室，为公众提供生物课程、iGEM 团队和艺术科学活动。",
+   "url": "https://bugssonline.org/",
+   "image": "https://bugssonline.org/wp-content/uploads/2025/04/2checkerspot5-4-scaled.jpg",
+   "based": "Baltimore, US",
+   "based_zh": "巴尔的摩，美国",
+   "founded": 2012,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
    "id": "bat-conservation-trust",
    "name": "Bat Conservation Trust",
    "type": "nonprofit",
@@ -127380,6 +127600,24 @@
    "based": "London, UK",
    "based_zh": "伦敦，英国",
    "founded": 1990
+  },
+  {
+   "id": "bento-lab",
+   "name": "Bento Lab",
+   "type": "company",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London company that makes a portable DNA lab combining PCR, centrifuge and gel electrophoresis for education and fieldwork.",
+   "description_zh": "伦敦公司，生产集 PCR、离心机和凝胶电泳于一体的便携 DNA 实验室，用于教学和野外工作。",
+   "url": "https://bento.bio/",
+   "image": "https://cdn.bento.bio/app/uploads/lab-in-hand-comp-to-share.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "creator_id": "bento-lab"
   },
   {
    "id": "berggruen-institute",
@@ -127415,6 +127653,434 @@
    "based": "UK",
    "based_zh": "英国",
    "founded": 2010
+  },
+  {
+   "id": "bio-art-design-award",
+   "name": "Bio Art & Design Award (BAD Award)",
+   "type": "funding",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Dutch award that pairs young artists and designers with Dutch life-science labs, funding new works shown at MU Hybrid Art House.",
+   "description_zh": "荷兰奖项，让年轻艺术家和设计师与荷兰生命科学实验室结对，资助新作品并在 MU Hybrid Art House 展出。",
+   "url": "https://badaward.nl/",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "founded": 2011
+  },
+  {
+   "id": "bioart-ethics-beak",
+   "name": "Bio Art Ethics (BEAK)",
+   "type": "nonprofit",
+   "themes": [
+    "bioart",
+    "animal-welfare"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An initiative that offers ethical review and consulting for bio art projects, filling a gap left by institutional review boards.",
+   "description_zh": "为生物艺术项目提供伦理评估和咨询的组织，弥补机构伦理审查的空白。",
+   "url": "https://bioartethics.xyz/",
+   "image": "https://i.vimeocdn.com/video/1921090446-16eef6771ae775c6bf7e126fe8ce98edef7d10232d1eabc2f5e8032302cff91a-d_1920x1080?r=pad",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://www.hackteria.org/"
+  },
+  {
+   "id": "bio-biennial-ljubljana",
+   "name": "BIO – Biennial of Design Ljubljana",
+   "type": "event",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "One of Europe's oldest design biennials, run by the Museum of Architecture and Design, whose recent editions focus on ecology, food and living materials.",
+   "description_zh": "欧洲历史最悠久的设计双年展之一，由建筑与设计博物馆主办，近年各届聚焦生态、食物和活体材料。",
+   "url": "https://www.bio.si/",
+   "image": "https://www.bio.si/_next/image?url=https%3A%2F%2Fcms.bio.si%2Fassets%2Fbio-29-cover-img.jpg&w=3840&q=80",
+   "based": "Ljubljana, SI",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "founded": 1964
+  },
+  {
+   "id": "bioart-laboratories",
+   "name": "BioArt Laboratories",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Jalila Essaïdi's Eindhoven foundation that links art, science and industry, known for projects such as bulletproof skin and circular manure materials.",
+   "description_zh": "Jalila Essaïdi 在埃因霍温创办的基金会，连接艺术、科学与产业，代表项目有“防弹皮肤”和粪肥循环材料。",
+   "url": "https://bioartlab.com/",
+   "image": "https://bioartlab.com/wp-content/wp-uploads/2026/05/623daff8-7426-44c5-925e-c3e400610070-550x498.jpeg",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰",
+   "people": [
+    "Jalila Essaïdi"
+   ],
+   "found_via": "https://badaward.nl/"
+  },
+  {
+   "id": "bioart-society",
+   "name": "Bioart Society (SOLU)",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A Helsinki association that supports art about life sciences and ecology, runs the SOLU space and the Ars Bioarctica residency at the Kilpisjärvi field station.",
+   "description_zh": "赫尔辛基的协会，支持关于生命科学与生态的艺术，运营 SOLU 空间和位于 Kilpisjärvi 野外站的 Ars Bioarctica 驻留。",
+   "url": "https://bioartsociety.fi/",
+   "image": "https://bioartsociety.fi/assets/bioart/images/solu_bioart-8711c3b42e5b1303d834eba9f58cabc9692a4485e29a70edb109a11a8af25f26.png",
+   "based": "Helsinki, FI",
+   "based_zh": "赫尔辛基，芬兰",
+   "founded": 2008,
+   "people": [
+    "Erich Berger"
+   ]
+  },
+  {
+   "id": "biobased-creations",
+   "name": "Biobased Creations",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Dutch design agency that makes exhibitions and pavilions (such as the Embassy of Circular & Biobased Building) to show bio-based materials to the public.",
+   "description_zh": "荷兰设计机构，通过展览和展馆（如“循环与生物基建筑大使馆”）向公众展示生物基材料。",
+   "url": "https://biobasedcreations.com/",
+   "image": "https://biobasedcreations.com/wp-content/uploads/2025/03/Awards_BC-e1741860320464.png",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "people": [
+    "Pascal Leboucq"
+   ]
+  },
+  {
+   "id": "biobricks-foundation",
+   "name": "BioBricks Foundation",
+   "type": "nonprofit",
+   "themes": [
+    "synbio",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit that promoted open, standardised genetic parts and legal tools such as the Open Material Transfer Agreement; its old site is no longer active.",
+   "description_zh": "倡导开放、标准化遗传元件的非营利组织，推出了开放材料转让协议等法律工具；原网站已停用。",
+   "url": "https://en.wikipedia.org/wiki/BioBricks_Foundation",
+   "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Synthetic_Biology_Open_Language_%28SBOL%29_standard_visual_symbols.svg/1280px-Synthetic_Biology_Open_Language_%28SBOL%29_standard_visual_symbols.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2006,
+   "people": [
+    "Drew Endy",
+    "Tom Knight"
+   ]
+  },
+  {
+   "id": "biobuilder",
+   "name": "BioBuilder Educational Foundation",
+   "type": "education",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit that brings synthetic biology into high schools through teacher training, a textbook and lab activities.",
+   "description_zh": "把合成生物学带进高中的非营利组织，提供教师培训、教材和实验活动。",
+   "url": "https://biobuilder.org/",
+   "image": "https://biobuilder.org/wp-content/uploads/2023/11/BB_hero_cropped-scaled.webp",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "people": [
+    "Natalie Kuldell"
+   ]
+  },
+  {
+   "id": "bioclub-tokyo",
+   "name": "BioClub Tokyo",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Tokyo community lab and meetup for biology, art and design, founded with Loftwork and FabCafe.",
+   "description_zh": "东京的生物、艺术与设计社区实验室和聚会，与 Loftwork 和 FabCafe 合作创办。",
+   "url": "https://bioclub.tokyo/",
+   "image": "https://bioclub.tokyo/site/assets/files/1/bioclub_lab_orange_curtain.jpg",
+   "based": "Tokyo, JP",
+   "based_zh": "东京，日本",
+   "founded": 2015,
+   "people": [
+    "Georg Tremmel"
+   ],
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "biocurious",
+   "name": "BioCurious",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Bay Area community biology lab where members run open projects, classes and meetups.",
+   "description_zh": "旧金山湾区的社区生物实验室，会员在这里开展开放项目、课程和聚会。",
+   "url": "https://biocurious.org/",
+   "based": "San Jose, US",
+   "based_zh": "圣何塞，美国",
+   "founded": 2010,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "biodesign-challenge",
+   "name": "Biodesign Challenge",
+   "type": "education",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An international programme in which art, design and science students spend a semester designing projects with biotechnology, culminating in an annual summit and prizes.",
+   "description_zh": "面向艺术、设计与科学专业学生的国际项目：学生用一个学期以生物技术为材料做设计，每年在峰会上展示并评奖。",
+   "url": "https://www.biodesignchallenge.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/23b1ab2f-84d2-4206-b48c-c3822d5668b5/sprint_graphic_2026_green.png",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2015,
+   "people": [
+    "Daniel Grushkin",
+    "Christina Agapakis"
+   ]
+  },
+  {
+   "id": "biodesigned",
+   "name": "BioDesigned",
+   "type": "media",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An online magazine from the Biodesign Challenge community with essays, interviews and news on biology in design, art and industry.",
+   "description_zh": "Biodesign Challenge 社群的在线杂志，刊发关于设计、艺术和产业中生物学的文章、访谈与新闻。",
+   "url": "https://biodesigned.org/",
+   "image": "https://i.imgur.com/JokUTv3.png",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
+   "id": "biofabricate",
+   "name": "Biofabricate",
+   "type": "event",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Founded by Suzanne Lee, Biofabricate runs an annual summit and industry network for materials grown by living organisms, plus a biomaterials learning site.",
+   "description_zh": "由 Suzanne Lee 创办，每年举办峰会，并运营一个面向生物生长材料的产业网络和生物材料学习网站。",
+   "url": "https://www.biofabricate.co/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2014,
+   "people": [
+    "Suzanne Lee"
+   ],
+   "creator_id": "suzanne-lee"
+  },
+  {
+   "id": "biofaction",
+   "name": "Biofaction",
+   "type": "company",
+   "themes": [
+    "synbio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Vienna research and science-communication company that runs projects on synthetic biology, xenobiology and art, including the Bio:Fiction film festival.",
+   "description_zh": "维也纳的研究与科学传播公司，开展合成生物学、异种生物学与艺术相关项目，包括 Bio:Fiction 电影节。",
+   "url": "https://www.biofaction.com/",
+   "image": "https://www.biofaction.com/wp-content/uploads/2016/07/synmodgame-1024x683.jpg",
+   "based": "Vienna, AT",
+   "based_zh": "维也纳，奥地利",
+   "people": [
+    "Markus Schmidt"
+   ]
+  },
+  {
+   "id": "biofriction",
+   "name": "Biofriction",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A European project by Hangar, Kapelica Gallery, Bioart Society and Cultivamos Cultura that ran residencies and events on bio art and citizen biotech; the site is archived.",
+   "description_zh": "由 Hangar、Kapelica 画廊、Bioart Society 和 Cultivamos Cultura 合作的欧洲项目，举办生物艺术和公民生物技术的驻留与活动；网站已存档。",
+   "url": "https://biofriction.org/",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "founded": 2018
+  },
+  {
+   "id": "biohack-academy",
+   "name": "BioHack Academy (Waag)",
+   "type": "education",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Waag course in which participants build their own open-source biolab equipment and learn to grow and engineer organisms.",
+   "description_zh": "Waag 开设的课程，学员自己动手制作开源生物实验室设备，并学习培养和改造生物。",
+   "url": "https://waag.org/en/project/biohack-academy/",
+   "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2018-03/biohack-academy-biofactory.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 2015,
+   "people": [
+    "Pieter van Boheemen"
+   ]
+  },
+  {
+   "id": "biohacking-village",
+   "name": "Biohacking Village",
+   "type": "event",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit community and event at DEF CON on biohacking, medical device security and open biology.",
+   "description_zh": "在 DEF CON 大会举办的非营利社群和活动，关注生物黑客、医疗设备安全和开放生物学。",
+   "url": "https://www.villageb.io/",
+   "image": "https://villageb.io/og/default.png?v=2",
+   "based": "Las Vegas, US",
+   "based_zh": "拉斯维加斯，美国"
+  },
+  {
+   "id": "biohm",
+   "name": "Biohm",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A research-led company that grows mycelium insulation and makes building panels from food waste for a circular construction industry.",
+   "description_zh": "以研究为主导的公司，用菌丝体生长保温材料、用食物垃圾制作建筑板材，服务于循环建筑业。",
+   "url": "https://www.biohm.co.uk/",
+   "image": "https://static.wixstatic.com/media/f94178_0a465443a15643b3b17faf9b1ab49e0e~mv2.png/v1/fill/w_1489,h_739,al_c/f94178_0a465443a15643b3b17faf9b1ab49e0e~mv2.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2016,
+   "people": [
+    "Ehab Sayed"
+   ],
+   "creator_id": "biohm"
+  },
+  {
+   "id": "biologigaragen",
+   "name": "Biologigaragen",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Copenhagen community biology lab for citizen science and open biotech projects.",
+   "description_zh": "哥本哈根的社区生物实验室，支持公民科学和开放生物技术项目。",
+   "url": "http://biologigaragen.org/",
+   "based": "Copenhagen, DK",
+   "based_zh": "哥本哈根，丹麦",
+   "founded": 2010,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "biomaker",
+   "name": "Biomaker",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Cambridge-based open-source bioinstrumentation initiative that funds and documents low-cost hardware projects for biology.",
+   "description_zh": "剑桥的开源生物仪器项目，资助并记录面向生物学的低成本硬件项目。",
+   "url": "https://biomaker.org/",
+   "image": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,h=853,fit=crop/NxoRqIJ5bmpDbgEr/img_3653-SHHlv7SOa5pY9tYc.jpeg",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2017,
+   "people": [
+    "Jim Haseloff"
+   ]
+  },
+  {
+   "id": "biomason",
+   "name": "Biomason",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company that grows cement tiles and building products with bacteria at ambient temperature instead of kiln-fired cement.",
+   "description_zh": "公司在常温下用细菌生长水泥砖和建筑产品，代替高温烧制的水泥。",
+   "url": "https://biomason.com/",
+   "image": "https://biomason.com/wp-content/uploads/2024/04/home-about-1024x681.jpg",
+   "based": "Durham NC, US",
+   "based_zh": "达勒姆（北卡罗来纳州），美国",
+   "founded": 2012,
+   "people": [
+    "Ginger Krieg Dosier"
+   ],
+   "creator_id": "biomason"
   },
   {
    "id": "biome-japan",
@@ -127454,6 +128120,83 @@
    "founded": 2015
   },
   {
+   "id": "biomemory",
+   "name": "Biomemory",
+   "type": "company",
+   "themes": [
+    "biocomputing",
+    "synbio"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A French company developing DNA data storage appliances for data centres, using biological production of DNA.",
+   "description_zh": "法国公司，开发面向数据中心的 DNA 数据存储设备，采用生物方式生产 DNA。",
+   "url": "https://www.biomemory.com/",
+   "image": "https://cdn.prod.website-files.com/69a1daabcf12b345743e4373/69a9597753b58a71d8b3c463_39bc4a90987b182632fa3979927f9801_biomemory.avif",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "founded": 2021
+  },
+  {
+   "id": "biomimicry-institute",
+   "name": "Biomimicry Institute",
+   "type": "nonprofit",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A nonprofit that teaches designers to learn from nature's strategies, runs the Ray of Hope Prize and publishes AskNature.",
+   "description_zh": "非营利组织，教设计师向自然的策略学习，运营 Ray of Hope 奖并出版 AskNature 数据库。",
+   "url": "https://biomimicry.org/",
+   "image": "https://biomimicry.org/wp-content/uploads/2024/09/TheBiomimicryInstitute.png",
+   "based": "Missoula MT, US",
+   "based_zh": "米苏拉（蒙大拿州），美国",
+   "founded": 2006,
+   "people": [
+    "Janine Benyus"
+   ]
+  },
+  {
+   "id": "bionyfiken",
+   "name": "Bionyfiken",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "The Swedish biohacking association, which runs community lab activities, workshops and events.",
+   "description_zh": "瑞典生物黑客协会，组织社区实验室活动、工作坊和聚会。",
+   "url": "https://bionyfiken.se/",
+   "image": "https://bionyfiken.se/wp-content/uploads/2021/10/material_dna_extrahering.jpg",
+   "based": "Stockholm, SE",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "biook",
+   "name": "BIOOK",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Basque social enterprise and nonprofit that brings DIY biology to citizens through workshops, kits and a podcast.",
+   "description_zh": "巴斯克地区的社会企业和非营利组织，通过工作坊、套件和播客把 DIY 生物学带给普通市民。",
+   "url": "https://biook.org/",
+   "image": "https://biook.org/wp-content/uploads/2022/05/DSC_0003peque-comprimida.jpg",
+   "based": "Bilbao, ES",
+   "based_zh": "毕尔巴鄂，西班牙",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
    "id": "biophilic-cities",
    "name": "Biophilic Cities Network",
    "type": "network",
@@ -127473,6 +128216,64 @@
    "founded": 2013,
    "people": [
     "Tim Beatley"
+   ]
+  },
+  {
+   "id": "biotechnology-design-journal",
+   "name": "Biotechnology Design (Cambridge University Press)",
+   "type": "media",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open-access journal, formerly Research Directions: Biotechnology Design, that publishes research at the meeting point of design and biotechnology.",
+   "description_zh": "开放获取期刊，原名 Research Directions: Biotechnology Design，发表设计与生物技术交叉领域的研究。",
+   "url": "https://www.cambridge.org/core/journals/biotechnology-design",
+   "image": "https://www.cambridge.org/core/services/aop-file-manager/file/699d8c06ba3710174ae28153",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国"
+  },
+  {
+   "id": "biotehna",
+   "name": "Biotehna",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open platform run with Kapelica Gallery for artistic research into living systems, with a shared lab, workshops and residencies.",
+   "description_zh": "与 Kapelica 画廊一起运营的开放平台，支持对活体系统的艺术研究，提供共享实验室、工作坊和驻留。",
+   "url": "https://biotehna.org/",
+   "image": "https://biotehna.org/wp-content/uploads/2013/12/Ozadje-2.jpg",
+   "based": "Ljubljana, SI",
+   "based_zh": "卢布尔雅那，斯洛文尼亚"
+  },
+  {
+   "id": "biotopia",
+   "name": "BIOTOPIA",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A new natural history and life sciences museum in Munich that runs festivals, labs and exhibitions linking art, design and biology.",
+   "description_zh": "慕尼黑正在建设的自然史与生命科学博物馆，举办连接艺术、设计与生物学的节展、实验室和展览。",
+   "url": "https://biotopia.net/",
+   "image": "https://biotopia.net/images/headers/NaturkundemuseumBayern_Zukunftslabor_NG-key_Visual-web.jpg",
+   "based": "Munich, DE",
+   "based_zh": "慕尼黑，德国",
+   "people": [
+    "Michael John Gorman"
    ]
   },
   {
@@ -127498,6 +128299,102 @@
    ]
   },
   {
+   "id": "blast-studio",
+   "name": "Blast Studio",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London design studio that 3D-prints objects and columns from mycelium grown on waste such as used coffee cups.",
+   "description_zh": "伦敦设计工作室，用在废弃咖啡杯等垃圾上生长的菌丝体 3D 打印物件和柱子。",
+   "url": "https://www.blast-studio.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/6807b75e7d058a08ac560f59/2eb77a22-b1bb-4aa8-9165-539f82e7d677/Cupsan+at+V%26A_11L.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "creator_id": "blast-studio"
+  },
+  {
+   "id": "bluecity-rotterdam",
+   "name": "BlueCity",
+   "type": "network",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A circular-economy hub in a former Rotterdam swimming pool that hosts biomaterial startups and the BlueCity Lab for material experiments.",
+   "description_zh": "位于鹿特丹一座旧泳池里的循环经济中心，入驻多家生物材料初创公司，并设有做材料实验的 BlueCity Lab。",
+   "url": "https://www.bluecity.nl/en",
+   "image": "https://panel.bluecity.nl/media/site/9765b347aa-1681309026/bluecity-circulaire-economie-voormalig-tropicana-2021juni-17-1024x.webp",
+   "based": "Rotterdam, NL",
+   "based_zh": "鹿特丹，荷兰",
+   "founded": 2015
+  },
+  {
+   "id": "bolt-threads",
+   "name": "Bolt Threads",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A materials company known for bioengineered spider silk protein and the mycelium leather Mylo, now focused on bio-based beauty ingredients.",
+   "description_zh": "以生物工程蜘蛛丝蛋白和菌丝体皮革 Mylo 闻名的材料公司，现主要做生物基美妆成分。",
+   "url": "https://boltthreads.com/",
+   "based": "Emeryville CA, US",
+   "based_zh": "埃默里维尔（加州），美国",
+   "founded": 2009,
+   "creator_id": "bolt-threads"
+  },
+  {
+   "id": "boslab",
+   "name": "BosLab",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Boston-area community biology lab run by volunteers, with classes and member projects.",
+   "description_zh": "波士顿地区由志愿者运营的社区生物实验室，提供课程并支持会员项目。",
+   "url": "https://www.boslab.org/",
+   "image": "https://static.wixstatic.com/media/450308_75795be6df344462815057fb851147b9.png/v1/fit/w_2500,h_1330,al_c/450308_75795be6df344462815057fb851147b9.png",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "braingeneers",
+   "name": "Braingeneers (UC Santa Cruz)",
+   "type": "research",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid"
+   ],
+   "description": "A UC Santa Cruz-led group that builds remote-controlled lab tools to grow, record and train brain organoids over the internet.",
+   "description_zh": "由加州大学圣克鲁兹分校主导的研究组，开发可远程控制的实验工具，通过互联网培养、记录和训练脑类器官。",
+   "url": "https://braingeneers.ucsc.edu/",
+   "image": "https://braingeneers.ucsc.edu/files/2022/09/Big_Brains.png",
+   "based": "Santa Cruz, US",
+   "based_zh": "圣克鲁兹，美国",
+   "people": [
+    "David Haussler",
+    "Mircea Teodorescu",
+    "Sofie Salama"
+   ],
+   "creator_id": "braingeneers"
+  },
+  {
    "id": "budburst",
    "name": "Budburst",
    "type": "network",
@@ -127515,6 +128412,46 @@
    "based_zh": "芝加哥植物园，美国",
    "founded": 2007,
    "creator_id": "budburst"
+  },
+  {
+   "id": "build-a-cell",
+   "name": "Build-a-Cell",
+   "type": "network",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open international community of researchers working to build synthetic living cells from non-living parts.",
+   "description_zh": "开放的国际研究者社群，致力于用非生命组分构建合成活细胞。",
+   "url": "https://www.buildacell.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5d07ecc4436a5d0001912320/1580831625075-06WSRQDSF2I2ECA0MQ8B/workshop6.jpg",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
+   "id": "jhu-caat",
+   "name": "Center for Alternatives to Animal Testing (Johns Hopkins)",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "animal-welfare"
+   ],
+   "fields": [
+    "organoid"
+   ],
+   "description": "A Johns Hopkins centre that develops alternatives to animal testing and, under Thomas Hartung, launched the organoid intelligence research agenda.",
+   "description_zh": "约翰斯·霍普金斯大学的中心，研发替代动物实验的方法；在 Thomas Hartung 领导下提出了“类器官智能”研究议程。",
+   "url": "https://caat.publichealth.jhu.edu/",
+   "image": "http://kok.qpu.mybluehost.me/website_f97cde15/wp-content/uploads/2025/08/HP-Banner-2-e1754418218187-1024x370.png",
+   "based": "Baltimore, US",
+   "based_zh": "巴尔的摩，美国",
+   "founded": 1981,
+   "people": [
+    "Thomas Hartung"
+   ],
+   "creator_id": "thomas-hartung"
   },
   {
    "id": "center-for-democratic-environmental-rights",
@@ -127553,6 +128490,31 @@
    "based": "Orlando, Florida, US",
    "based_zh": "奥兰多，佛罗里达州，美国",
    "founded": 2006
+  },
+  {
+   "id": "center-for-genomic-gastronomy",
+   "name": "Center for Genomic Gastronomy",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An artist-led research group that studies the biotechnologies and biodiversity of human food systems through exhibitions, meals and publications.",
+   "description_zh": "由艺术家主导的研究团体，通过展览、餐食和出版物研究人类食物系统中的生物技术和生物多样性。",
+   "url": "https://genomicgastronomy.com/",
+   "image": "https://genomicgastronomy.com/wp-content/uploads/2026/04/Extreme-Salad-Man-620x352.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2010,
+   "people": [
+    "Zack Denfeld",
+    "Cathrine Kramer"
+   ],
+   "creator_id": "center-for-genomic-gastronomy"
   },
   {
    "id": "center-for-global-soundscapes",
@@ -127617,6 +128579,63 @@
     "Robin Wall Kimmerer"
    ],
    "creator_id": "robin-wall-kimmerer"
+  },
+  {
+   "id": "center-for-postnatural-history",
+   "name": "Center for PostNatural History",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "synbio"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A Pittsburgh museum of organisms intentionally altered by humans, from lab mice to genetically engineered fish.",
+   "description_zh": "匹兹堡的一家博物馆，收藏被人类有意改造过的生物，从实验小鼠到转基因鱼。",
+   "url": "https://www.postnatural.org/",
+   "image": "https://freight.cargo.site/w/1000/i/P1561780140117408608321723928893/CPNH-portrait-22inch_crop_minusme_vsm.jpg",
+   "based": "Pittsburgh, US",
+   "based_zh": "匹兹堡，美国",
+   "founded": 2008,
+   "people": [
+    "Richard Pell"
+   ]
+  },
+  {
+   "id": "rca-materials-science-culture",
+   "name": "Centre for Materials Science & Culture (RCA)",
+   "type": "research",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Royal College of Art research centre that brings designers and material scientists together, including work on bio-based and living materials.",
+   "description_zh": "英国皇家艺术学院的研究中心，把设计师和材料科学家聚在一起，研究内容包括生物基材料和活体材料。",
+   "url": "https://www.rca.ac.uk/research-innovation/research-centres/centre-materials-science-culture/",
+   "image": "https://rca-media2.rca.ac.uk/images/Rich_Mix_window.2e16d0ba.fill-1200x1200.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "aalto-chemarts",
+   "name": "CHEMARTS (Aalto University)",
+   "type": "education",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An Aalto University collaboration between chemistry and design students that develops new uses for wood-based and other biomaterials.",
+   "description_zh": "阿尔托大学化学与设计学生的合作项目，为木基及其他生物材料开发新用途。",
+   "url": "https://chemarts.aalto.fi/",
+   "image": "https://chemarts.aalto.fi/wp-content/uploads/2015/04/chemarts.jpg",
+   "based": "Espoo, FI",
+   "based_zh": "埃斯波，芬兰"
   },
   {
    "id": "children-and-nature-network",
@@ -127713,6 +128732,51 @@
    "founded": 2016
   },
   {
+   "id": "colorifix",
+   "name": "Colorifix",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company that uses engineered microbes to produce and fix dyes on textiles, cutting the water and chemicals used in dyeing.",
+   "description_zh": "利用工程微生物生产染料并把颜色固定在织物上的公司，减少染色过程的用水和化学品。",
+   "url": "https://www.colorifix.com/",
+   "image": "https://cdn.prod.website-files.com/66d9834431aefa9e1e41ae44/69834d60d476fc977d312b83_dario-rawert-OmvMDiMB_OI-unsplash.avif",
+   "based": "Norwich, UK",
+   "based_zh": "诺里奇，英国",
+   "founded": 2016,
+   "people": [
+    "Orr Yarkoni",
+    "Jim Ajioka"
+   ],
+   "creator_id": "colorifix"
+  },
+  {
+   "id": "mit-community-biotechnology",
+   "name": "Community Biotechnology Initiative (MIT Media Lab)",
+   "type": "network",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An MIT Media Lab initiative that supports community biology labs worldwide and convenes the Global Community Bio Summit.",
+   "description_zh": "MIT 媒体实验室的项目，支持全球的社区生物实验室，并召集“全球社区生物峰会”。",
+   "url": "https://www.media.mit.edu/groups/community-bio/overview/",
+   "image": "https://dam-prod.media.mit.edu/thumb/2017/06/26/unnamed-1.jpg.1400x1400.jpg",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2016,
+   "people": [
+    "David Sun Kong"
+   ]
+  },
+  {
    "id": "celdf",
    "name": "Community Environmental Legal Defense Fund (CELDF)",
    "type": "nonprofit",
@@ -127729,6 +128793,27 @@
    "based": "Pennsylvania, US",
    "based_zh": "宾夕法尼亚州，美国",
    "founded": 1995
+  },
+  {
+   "id": "eth-complex-materials",
+   "name": "Complex Materials Lab (ETH Zurich)",
+   "type": "research",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "André Studart's lab at ETH Zurich that develops bio-inspired and living materials, including 3D-printed bacteria-laden and self-healing materials.",
+   "description_zh": "André Studart 在苏黎世联邦理工学院的实验室，研发仿生材料和活体材料，包括含细菌的 3D 打印材料和自修复材料。",
+   "url": "https://complex.mat.ethz.ch/",
+   "image": "https://complex.mat.ethz.ch/_jcr_content/pageimages/image.imageformat.lightbox.130304642.jpg",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "people": [
+    "André R. Studart"
+   ],
+   "creator_id": "andre-studart"
   },
   {
    "id": "conservation-evidence",
@@ -127815,6 +128900,49 @@
    "creator_id": "cornell-lab-of-ornithology"
   },
   {
+   "id": "cortical-labs",
+   "name": "Cortical Labs",
+   "type": "company",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid",
+    "biohybrid"
+   ],
+   "description": "A Melbourne company that grows human neurons on chips; its DishBrain culture learned to play Pong and it sells the CL1 biological computer.",
+   "description_zh": "墨尔本公司，在芯片上培养人类神经元；其 DishBrain 学会了玩 Pong，并推出 CL1 生物计算机。",
+   "url": "https://corticallabs.com/",
+   "image": "https://corticallabs.com/images/c-share.jpg",
+   "based": "Melbourne, AU",
+   "based_zh": "墨尔本，澳大利亚",
+   "founded": 2019,
+   "people": [
+    "Hon Weng Chong",
+    "Brett Kagan"
+   ],
+   "creator_id": "cortical-labs"
+  },
+  {
+   "id": "counter-culture-labs",
+   "name": "Counter Culture Labs",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An Oakland community lab for citizen science and biohacking, home of the Real Vegan Cheese and Open Insulin projects.",
+   "description_zh": "奥克兰的公民科学与生物黑客社区实验室，是 Real Vegan Cheese 和 Open Insulin 项目的发源地。",
+   "url": "https://www.counterculturelabs.org/",
+   "image": "https://www.counterculturelabs.org/uploads/8/3/9/8/83988754/editor/20170926-174400.jpg?1540024331",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "founded": 2013,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
    "id": "country-needs-people",
    "name": "Country Needs People",
    "type": "network",
@@ -127873,6 +129001,26 @@
    "founded": 2004
   },
   {
+   "id": "cultivamos-cultura",
+   "name": "Cultivamos Cultura",
+   "type": "education",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Marta de Menezes' rural art-science centre in Portugal that hosts residencies, a biolab and workshops on bio art.",
+   "description_zh": "Marta de Menezes 在葡萄牙乡村创办的艺术与科学中心，提供驻留、生物实验室和生物艺术工作坊。",
+   "url": "https://cultivamoscultura.com/",
+   "image": "https://cultivamoscultura.com/wp-content/uploads/2025/01/Untitled-1.jpg",
+   "based": "São Luís, PT",
+   "based_zh": "圣路易斯，葡萄牙",
+   "people": [
+    "Marta de Menezes"
+   ]
+  },
+  {
    "id": "cultural-survival",
    "name": "Cultural Survival",
    "type": "nonprofit",
@@ -127913,6 +129061,27 @@
    ]
   },
   {
+   "id": "design-living-systems-lab-csm",
+   "name": "Design & Living Systems Lab (Central Saint Martins)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A research lab at Central Saint Martins led by Carole Collet that explores how biology and biotechnology can shape sustainable design futures.",
+   "description_zh": "中央圣马丁学院由 Carole Collet 领导的研究实验室，探索生物学和生物技术如何塑造可持续的设计未来。",
+   "url": "http://www.designandlivingsystems.com/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Carole Collet"
+   ],
+   "creator_id": "carole-collet"
+  },
+  {
    "id": "digital-naturalism-laboratories",
    "name": "Digital Naturalism Laboratories (Dinalab)",
    "type": "research",
@@ -127934,6 +129103,62 @@
     "Andrew Quitmeyer"
    ],
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "diybcn",
+   "name": "DIYBCN Biohackers",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Barcelona biohacker community that runs open workshops and projects in DIY biology.",
+   "description_zh": "巴塞罗那的生物黑客社群，开展 DIY 生物学开放工作坊和项目。",
+   "url": "https://diybcn.org/",
+   "image": "https://diybcn.org/images/tedtalk.jpg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "diybio-org",
+   "name": "DIYbio.org",
+   "type": "database",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "The founding network of the do-it-yourself biology movement, with a mailing list, safety discussions and a world directory of local groups.",
+   "description_zh": "DIY 生物学运动的发起网络，提供邮件列表和安全讨论，并维护全球本地小组目录。",
+   "url": "https://diybio.org/local/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2008,
+   "people": [
+    "Jason Bobe",
+    "Mackenzie Cowell"
+   ]
+  },
+  {
+   "id": "snia-dna-data-storage",
+   "name": "DNA Data Storage Alliance (SNIA)",
+   "type": "network",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "An industry alliance, now part of SNIA, that writes standards and roadmaps for storing digital data in DNA.",
+   "description_zh": "产业联盟，现隶属 SNIA，为在 DNA 中存储数字数据制定标准和路线图。",
+   "url": "https://www.snia.org/groups/snia-dna-technology-affiliate",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2020
   },
   {
    "id": "earth-biogenome-project",
@@ -128085,6 +129310,53 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "ecologicstudio",
+   "name": "ecoLogicStudio",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An architecture and urban design studio that builds photobioreactors and algae-based structures that capture carbon in cities.",
+   "description_zh": "建筑与城市设计工作室，建造光生物反应器和藻类结构，在城市中捕获碳。",
+   "url": "https://www.ecologicstudio.com/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2005,
+   "people": [
+    "Claudia Pasquero",
+    "Marco Poletto"
+   ],
+   "creator_id": "ecologicstudio"
+  },
+  {
+   "id": "ecovative",
+   "name": "Ecovative",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A pioneer of mycelium materials that grows packaging, foams and alternative meats from fungal mycelium and licenses the process.",
+   "description_zh": "菌丝体材料的先行者，用真菌菌丝体生长包装、泡沫材料和替代肉，并对外授权工艺。",
+   "url": "https://ecovative.com/",
+   "image": "https://ecovative.com/images/process.jpg",
+   "based": "Green Island NY, US",
+   "based_zh": "格林岛（纽约州），美国",
+   "founded": 2007,
+   "people": [
+    "Eben Bayer",
+    "Gavin McIntyre"
+   ],
+   "creator_id": "ecovative"
+  },
+  {
    "id": "embassy-of-the-north-sea",
    "name": "Embassy of the North Sea",
    "type": "nonprofit",
@@ -128148,6 +129420,23 @@
    ]
   },
   {
+   "id": "ebrc",
+   "name": "Engineering Biology Research Consortium (EBRC)",
+   "type": "network",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A US consortium of researchers and companies that writes roadmaps and policy guidance for engineering biology.",
+   "description_zh": "由研究者和公司组成的美国联盟，为工程生物学编写路线图和政策指南。",
+   "url": "https://ebrc.org/",
+   "based": "Emeryville, US",
+   "based_zh": "埃默里维尔，美国",
+   "founded": 2016
+  },
+  {
    "id": "environmental-neuroscience-lab-uchicago",
    "name": "Environmental Neuroscience Lab (University of Chicago)",
    "type": "research",
@@ -128204,6 +129493,73 @@
    "founded": 2013
   },
   {
+   "id": "fab-lab-barcelona",
+   "name": "Fab Lab Barcelona (IAAC)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "IAAC's digital fabrication lab, a hub of the global Fab Lab network, with research on distributed manufacturing, biomaterials and Fab City.",
+   "description_zh": "IAAC 的数字制造实验室，是全球 Fab Lab 网络的枢纽之一，研究分布式制造、生物材料和 Fab City。",
+   "url": "https://fablabbcn.org/",
+   "image": "https://fablabbcn.org/wp-content/uploads/2020/09/makethings-2.jpg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "founded": 2007,
+   "people": [
+    "Tomas Diez"
+   ],
+   "creator_id": "fab-lab-barcelona"
+  },
+  {
+   "id": "faber-futures",
+   "name": "Faber Futures",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Natsai Audrey Chieza's biodesign studio, known for dyeing textiles with Streptomyces bacteria and for strategy work on biotech and design.",
+   "description_zh": "Natsai Audrey Chieza 的生物设计工作室，以用链霉菌给织物染色闻名，也为生物技术与设计提供战略咨询。",
+   "url": "https://faberfutures.com/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Natsai Audrey Chieza"
+   ],
+   "creator_id": "natsai-audrey-chieza"
+  },
+  {
+   "id": "fabricademy",
+   "name": "Fabricademy",
+   "type": "education",
+   "themes": [
+    "biodesign",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A distributed textile and technology course across the Fab Lab network, covering biofabricated materials, bio-dyes and wearables.",
+   "description_zh": "分布在 Fab Lab 网络中的纺织与技术课程，内容包括生物制造材料、生物染料和可穿戴设备。",
+   "url": "https://textile-academy.org/",
+   "image": "https://textile-academy.org/content/images/2026/09/all_samples.jpeg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "founded": 2017,
+   "people": [
+    "Anastasia Pistofidou",
+    "Cecilia Raspanti"
+   ]
+  },
+  {
    "id": "fathomnet",
    "name": "FathomNet",
    "type": "database",
@@ -128220,6 +129576,30 @@
    "image": "https://static.wixstatic.com/media/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png/v1/fit/w_2500,h_1330,al_c/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png",
    "based": "Moss Landing, California, US",
    "based_zh": "莫斯兰丁，加利福尼亚州，美国"
+  },
+  {
+   "id": "finalspark",
+   "name": "FinalSpark",
+   "type": "company",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid",
+    "biohybrid"
+   ],
+   "description": "A Swiss company that runs brain organoids on electrode arrays and offers remote access to them through its Neuroplatform.",
+   "description_zh": "瑞士公司，在电极阵列上运行脑类器官，并通过 Neuroplatform 提供远程访问。",
+   "url": "https://finalspark.com/",
+   "image": "https://finalspark.com/wp-content/themes/divi-creative-agency/images/page-bg-neuroplatform-parallax-1.png",
+   "based": "Vevey, CH",
+   "based_zh": "沃韦，瑞士",
+   "founded": 2014,
+   "people": [
+    "Fred Jordan",
+    "Martin Kutter"
+   ],
+   "creator_id": "finalspark"
   },
   {
    "id": "firesticks-alliance",
@@ -128310,6 +129690,47 @@
    "founded": 2017
   },
   {
+   "id": "fungar",
+   "name": "FUNGAR – Fungal Architectures",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "biohybrid"
+   ],
+   "description": "An EU-funded project that set out to grow buildings from mycelium that can also sense and compute.",
+   "description_zh": "欧盟资助的项目，目标是用菌丝体生长出既能感知又能计算的建筑。",
+   "url": "https://www.fungar.eu/",
+   "image": "https://usercontent.one/wp/www.fungar.eu/wp-content/uploads/2019/12/cropped-FUNGAR_Prototype_001_03_LargeRotated.jpg",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "founded": 2019,
+   "people": [
+    "Andrew Adamatzky"
+   ]
+  },
+  {
+   "id": "fungateria",
+   "name": "FUNGATERIA",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An EU Pathfinder project developing engineered living materials from fungi and bacteria for self-growing, self-repairing structures.",
+   "description_zh": "欧盟 Pathfinder 项目，用真菌和细菌开发可自我生长、自我修复的工程化活体材料。",
+   "url": "https://www.fungateria.eu/",
+   "image": "https://usercontent.one/wp/www.fungateria.eu/wp-content/uploads/2022/12/fungaweb_6-265x377.jpg",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
    "id": "future-earth",
    "name": "Future Earth",
    "type": "network",
@@ -128364,6 +129785,42 @@
    "founded": 2016
   },
   {
+   "id": "future-materials-bank",
+   "name": "Future Materials Bank",
+   "type": "database",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open online database of sustainable and experimental materials made by artists and designers, initiated by the Jan van Eyck Academie in Maastricht.",
+   "description_zh": "开放的在线数据库，收录艺术家和设计师开发的可持续与实验性材料，由马斯特里赫特的 Jan van Eyck Academie 发起。",
+   "url": "https://www.futurematerialsbank.com/",
+   "image": "https://www.futurematerialsbank.com/wp-content/uploads/IMG_20250212_075142056_AE-300x300.jpg",
+   "based": "Maastricht, NL",
+   "based_zh": "马斯特里赫特，荷兰"
+  },
+  {
+   "id": "gosh",
+   "name": "Gathering for Open Science Hardware (GOSH)",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "citizen-science"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A global community that promotes open-source scientific hardware, including low-cost lab tools used by community biology labs.",
+   "description_zh": "推广开源科学硬件的全球社群，其中包括社区生物实验室常用的低成本实验工具。",
+   "url": "https://openhardware.science/",
+   "image": "https://openhardware.science/wp-content/uploads/2023/01/52463352862_23ab2d9759_o-scaled-e1672846250410.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2016
+  },
+  {
    "id": "gbif",
    "name": "GBIF (Global Biodiversity Information Facility)",
    "type": "database",
@@ -128383,6 +129840,48 @@
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
   },
   {
+   "id": "genomic-pub",
+   "name": "Genomic Pub",
+   "type": "network",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Korean knowledge-sharing community for biology beginners and experts, running talks and DIY bio activities.",
+   "description_zh": "韩国的生物学知识分享社群，面向初学者和专业人士，举办讲座和 DIY 生物活动。",
+   "url": "https://genomicpubus.imweb.me/",
+   "image": "https://cdn.imweb.me/upload/S20201217e35fe669ddb46/97f7eb1dca79c.png",
+   "based": "Seoul, KR",
+   "based_zh": "首尔，韩国",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "genspace",
+   "name": "Genspace",
+   "type": "nonprofit",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Brooklyn community biology lab, one of the first, offering classes, open lab access and art-science programmes to the public.",
+   "description_zh": "布鲁克林的社区生物实验室，最早的社区实验室之一，向公众提供课程、开放实验室和艺术科学项目。",
+   "url": "https://www.genspace.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/588b7cc315d5dbdea1425e5e/1540491803673-6PBKZM2BQ3L73U23CV9L/IMG_1319.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2009,
+   "people": [
+    "Ellen Jorgensen"
+   ],
+   "creator_id": "genspace",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
    "id": "global-alliance-rights-of-nature",
    "name": "Global Alliance for the Rights of Nature (GARN)",
    "type": "network",
@@ -128399,6 +129898,41 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 2010
+  },
+  {
+   "id": "global-biofoundry-alliance",
+   "name": "Global Biofoundry Alliance",
+   "type": "network",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An alliance of public biofoundries worldwide that share automated methods and standards for engineering biology.",
+   "description_zh": "全球公共生物铸造厂的联盟，共享工程生物学的自动化方法和标准。",
+   "url": "https://www.biofoundries.org/",
+   "image": "https://static.wixstatic.com/media/aeb252_f9065ec35d914801b1507374e409f18b~mv2.jpg/v1/fit/w_1200,h_771,q_90,enc_avif,quality_auto/aeb252_f9065ec35d914801b1507374e409f18b~mv2.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2019
+  },
+  {
+   "id": "global-community-bio-summit",
+   "name": "Global Community Bio Summit",
+   "type": "event",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A yearly summit, first hosted at the MIT Media Lab, that gathers community biology labs, biohackers and bioartists from around the world.",
+   "description_zh": "每年举办的峰会，最初在 MIT 媒体实验室举行，汇聚全球社区生物实验室、生物黑客和生物艺术家。",
+   "url": "https://www.biosummit.org/",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2017
   },
   {
    "id": "global-fishing-watch",
@@ -128493,6 +130027,29 @@
    "founded": 1995
   },
   {
+   "id": "glowee",
+   "name": "Glowee",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A French company that makes light from bioluminescent marine bacteria for public lighting and installations.",
+   "description_zh": "法国公司，用海洋发光细菌制造光源，用于公共照明和装置。",
+   "url": "https://glowee.com/",
+   "image": "https://glowee.com/wp-content/uploads/2025/01/bioluminescent-jellyfish.gif",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "founded": 2014,
+   "people": [
+    "Sandra Rey"
+   ],
+   "creator_id": "glowee"
+  },
+  {
    "id": "greenspace-scotland",
    "name": "Greenspace Scotland",
    "type": "nonprofit",
@@ -128511,6 +130068,42 @@
    "founded": 2002
   },
   {
+   "id": "grow-by-ginkgo",
+   "name": "GROW by Ginkgo",
+   "type": "media",
+   "themes": [
+    "synbio",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Ginkgo Bioworks' magazine of essays, fiction and art on biotechnology and its futures, commissioned from writers and artists.",
+   "description_zh": "Ginkgo Bioworks 出版的杂志，委约作家和艺术家撰写关于生物技术及其未来的文章、小说和艺术作品。",
+   "url": "https://www.growbyginkgo.com/",
+   "image": "https://www.growbyginkgo.com/wp-content/uploads/2020/06/Twitter-OpenGraph-Image-1200x630-1.png",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "creator_id": "ginkgo-bioworks"
+  },
+  {
+   "id": "grown-bio",
+   "name": "Grown.bio",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Dutch company that grows mycelium packaging and materials and licenses its process to local producers.",
+   "description_zh": "荷兰公司，生长菌丝体包装和材料，并把工艺授权给当地生产者。",
+   "url": "https://www.grown.bio/",
+   "image": "https://www.grown.bio/wp-content/uploads/2023/09/mushroom-packaging-flat-top.jpg",
+   "based": "Oosterhout, NL",
+   "based_zh": "奥斯特豪特，荷兰"
+  },
+  {
    "id": "hack-the-planet",
    "name": "Hack the Planet",
    "type": "company",
@@ -128527,6 +130120,50 @@
    "image": "https://www.hack-the-planet.io/assets/videos/hero-poster.webp",
    "based": "Netherlands",
    "based_zh": "荷兰"
+  },
+  {
+   "id": "hackteria",
+   "name": "Hackteria",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A global network for open-source biological art, sharing DIY lab tools, wiki tutorials and nomadic workshops across Europe and Asia.",
+   "description_zh": "开源生物艺术的全球网络，分享 DIY 实验工具、维基教程，并在欧洲和亚洲举办游牧式工作坊。",
+   "url": "https://www.hackteria.org/",
+   "image": "https://www.hackteria.org/wordpress/wp-content/themes/magazeen/timthumb.php?src=http://www.hackteria.org/wordpress/wp-content/uploads/2026/04/Webbanner_TBF_CoLabs.jpg&w=69&h=54&zc=1",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "founded": 2009,
+   "people": [
+    "Marc Dusseiller",
+    "Urs Gaudenz",
+    "Andy Gracie",
+    "Yashas Shetty"
+   ]
+  },
+  {
+   "id": "hackuarium",
+   "name": "Hackuarium",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Swiss community lab near Lausanne for DIY biology, open hardware and citizen science projects.",
+   "description_zh": "洛桑附近的瑞士社区实验室，从事 DIY 生物学、开源硬件和公民科学项目。",
+   "url": "https://wiki.hackuarium.ch/w/Main_Page",
+   "image": "https://wiki.hackuarium.ch/images/thumb/7/7c/3dprinthex.jpg/300px-3dprinthex.jpg",
+   "based": "Renens, CH",
+   "based_zh": "勒南，瑞士",
+   "founded": 2014,
+   "found_via": "https://diybio.org/local/"
   },
   {
    "id": "happywhale",
@@ -128567,6 +130204,45 @@
    "founded": 2009
   },
   {
+   "id": "honf-foundation",
+   "name": "HONF Foundation (House of Natural Fiber)",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Yogyakarta new-media art lab known for its Micronation/Macronation biotech projects and DIY science with local communities.",
+   "description_zh": "日惹的新媒体艺术实验室，以 Micronation/Macronation 生物技术项目和社区 DIY 科学闻名。",
+   "url": "https://honf.org/",
+   "based": "Yogyakarta, ID",
+   "based_zh": "日惹，印度尼西亚",
+   "founded": 1999,
+   "found_via": "https://www.hackteria.org/"
+  },
+  {
+   "id": "htgaa",
+   "name": "How To Grow (Almost) Anything",
+   "type": "education",
+   "themes": [
+    "synbio",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An MIT course on synthetic biology, open to remote nodes worldwide, that teaches students to design and build with living organisms.",
+   "description_zh": "MIT 的合成生物学课程，全球各地可远程节点参与，教学生用活体生物进行设计和建造。",
+   "url": "https://htgaa.org/",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "people": [
+    "David Sun Kong"
+   ]
+  },
+  {
    "id": "hints-lab",
    "name": "Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)",
    "type": "research",
@@ -128586,6 +130262,30 @@
    "people": [
     "Peter H. Kahn Jr."
    ]
+  },
+  {
+   "id": "huue",
+   "name": "Huue",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A startup that uses engineered microbes to make indigo and other textile dyes without petrochemicals or toxic reducing agents.",
+   "description_zh": "初创公司，用工程微生物生产靛蓝等纺织染料，不需要石化原料和有毒还原剂。",
+   "url": "https://huue.bio/",
+   "image": "http://static1.squarespace.com/static/5f04960111f51177ac75b70b/t/698e610332e1ff62f1c330b5/1770938627054/huue_social.png?format=1500w",
+   "based": "Berkeley CA, US",
+   "based_zh": "伯克利（加州），美国",
+   "founded": 2018,
+   "people": [
+    "Tammy Hsu",
+    "Michelle Zhu"
+   ],
+   "creator_id": "huue"
   },
   {
    "id": "icarus-max-planck",
@@ -128627,6 +130327,44 @@
    "based_zh": "全球"
   },
   {
+   "id": "igem-foundation",
+   "name": "iGEM Foundation",
+   "type": "education",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "The international Genetically Engineered Machine competition, where student teams design synthetic biology projects each year.",
+   "description_zh": "国际基因工程机器大赛的主办方，每年学生团队设计合成生物学项目参赛。",
+   "url": "https://igem.org/",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "founded": 2003,
+   "people": [
+    "Randy Rettberg"
+   ]
+  },
+  {
+   "id": "igem-registry",
+   "name": "iGEM Registry of Standard Biological Parts",
+   "type": "database",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open collection of standardised genetic parts (BioBricks) contributed and used by iGEM teams.",
+   "description_zh": "开放的标准化遗传元件（BioBricks）库，由 iGEM 团队贡献并使用。",
+   "url": "https://parts.igem.org/Main_Page",
+   "image": "https://static.igem.org/websites/technology/2022/distribution/2023-distribution-kit-small.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2003
+  },
+  {
    "id": "inaturalist",
    "name": "iNaturalist",
    "type": "network",
@@ -128645,6 +130383,24 @@
    "based_zh": "奥克兰，加利福尼亚州，美国",
    "founded": 2008,
    "creator_id": "inaturalist"
+  },
+  {
+   "id": "indiebio",
+   "name": "IndieBio",
+   "type": "education",
+   "themes": [
+    "synbio",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A biotech startup accelerator run by SOSV that has funded many biomaterials, food and synthetic biology companies.",
+   "description_zh": "SOSV 旗下的生物技术初创加速器，资助过许多生物材料、食品和合成生物学公司。",
+   "url": "https://indiebio.co/",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2014
   },
   {
    "id": "indigenous-climate-action",
@@ -128723,6 +130479,71 @@
    ]
   },
   {
+   "id": "icd-stuttgart",
+   "name": "Institute for Computational Design and Construction (University of Stuttgart)",
+   "type": "research",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Achim Menges' institute that develops biomimetic, computationally designed architecture, including fibre pavilions modelled on beetle shells and spider webs.",
+   "description_zh": "Achim Menges 领导的研究所，研究仿生的计算设计建筑，包括模仿甲虫壳和蜘蛛网的纤维展亭。",
+   "url": "https://www.icd.uni-stuttgart.de/",
+   "image": "https://www.icd.uni-stuttgart.de/img/slider-featured-images/Slider_ABLAG.jpg?__scale=w:1170,h:658,cx:259,cy:0,cw:1481,ch:833",
+   "based": "Stuttgart, DE",
+   "based_zh": "斯图加特，德国",
+   "founded": 2008,
+   "people": [
+    "Achim Menges"
+   ],
+   "creator_id": "icd-stuttgart"
+  },
+  {
+   "id": "icdo",
+   "name": "Institute for Computer Designed Organisms",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "synbio"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A research institute by the University of Vermont and Tufts teams behind xenobots that uses AI to design new living machines.",
+   "description_zh": "由佛蒙特大学和塔夫茨大学 xenobot 团队设立的研究所，用人工智能设计新的活体机器。",
+   "url": "https://cdorgs.github.io/",
+   "image": "https://cdorgs.github.io/img/00_Design_Organism_Pair_GreenEctoderm_RedCardiac.png",
+   "based": "Burlington, US",
+   "based_zh": "伯灵顿，美国",
+   "people": [
+    "Josh Bongard",
+    "Michael Levin"
+   ],
+   "creator_id": "josh-bongard"
+  },
+  {
+   "id": "institute-for-postnatural-studies",
+   "name": "Institute for Postnatural Studies",
+   "type": "education",
+   "themes": [
+    "bioart",
+    "mth-design"
+   ],
+   "fields": [
+    "mth",
+    "bio"
+   ],
+   "description": "A Madrid centre for artistic research that runs courses, residencies and publications questioning the idea of nature in the post-natural era.",
+   "description_zh": "马德里的艺术研究中心，通过课程、驻留和出版物反思“后自然”时代的自然观念。",
+   "url": "https://instituteforpostnaturalstudies.org/",
+   "image": "https://instituteforpostnaturalstudies.org/media/pages/files/415e42105b-1768305446/pangea_erotica_image_7e9c309631.jpeg",
+   "based": "Madrid, ES",
+   "based_zh": "马德里，西班牙",
+   "founded": 2020
+  },
+  {
    "id": "institute-for-the-future",
    "name": "Institute for the Future (IFTF)",
    "type": "research",
@@ -128759,6 +130580,27 @@
    "founded": 2010,
    "people": [
     "Paul Hebert"
+   ]
+  },
+  {
+   "id": "ijuc",
+   "name": "International Journal of Unconventional Computing",
+   "type": "media",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A journal for computing with physical, chemical and biological systems, edited by Andrew Adamatzky.",
+   "description_zh": "发表用物理、化学和生物系统进行计算研究的期刊，由 Andrew Adamatzky 主编。",
+   "url": "https://www.oldcitypublishing.com/journals/ijuc-home/",
+   "image": "https://www.oldcitypublishing.com/wp-content/uploads/2013/09/IJUCcover.jpg",
+   "based": "Philadelphia, US",
+   "based_zh": "费城，美国",
+   "founded": 2005,
+   "people": [
+    "Andrew Adamatzky"
    ]
   },
   {
@@ -128818,6 +130660,23 @@
    "based_zh": "全球",
    "founded": 1985,
    "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "isal-alife",
+   "name": "International Society for Artificial Life (ISAL)",
+   "type": "network",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "The society behind the ALIFE conference and Artificial Life journal, studying life-like behaviour in software, hardware and wetware.",
+   "description_zh": "ALIFE 会议和《Artificial Life》期刊背后的学会，研究软件、硬件与湿件中的类生命行为。",
+   "url": "https://alife.org/",
+   "image": "https://alife.org/wp-content/uploads/2025/08/AEDU.png",
+   "based": "Online",
+   "based_zh": "线上"
   },
   {
    "id": "infom",
@@ -128898,6 +130757,23 @@
    "based_zh": "英国（UKCEH 生物记录中心）"
   },
   {
+   "id": "isnsce",
+   "name": "ISNSCE and the DNA Computing Conference",
+   "type": "event",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "The society that runs the yearly International Conference on DNA Computing and Molecular Programming.",
+   "description_zh": "每年举办“DNA 计算与分子编程国际会议”的学会。",
+   "url": "https://isnsce.org/",
+   "image": "https://i0.wp.com/isnsce.org/wp-content/uploads/2024/10/seeman2020dna-1.jpg?resize=940%2C400&ssl=1",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
    "id": "ispot",
    "name": "iSpot",
    "type": "network",
@@ -128951,6 +130827,27 @@
    "founded": 1994
   },
   {
+   "id": "jogl",
+   "name": "Just One Giant Lab (JOGL)",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "citizen-science"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open research platform, co-founded by a La Paillasse founder, that connects distributed volunteers to solve science problems together.",
+   "description_zh": "开放研究平台，由 La Paillasse 的创始人之一参与创办，把分散各地的志愿者连接起来共同解决科学问题。",
+   "url": "https://www.jogl.network/",
+   "image": "https://www.jogl.network/og.png?v=6",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "people": [
+    "Thomas Landrain"
+   ]
+  },
+  {
    "id": "k-lisa-yang-center-conservation-bioacoustics",
    "name": "K. Lisa Yang Center for Conservation Bioacoustics",
    "type": "research",
@@ -128966,6 +130863,86 @@
    "url": "https://www.birds.cornell.edu/ccb/",
    "based": "Ithaca, New York, US",
    "based_zh": "伊萨卡，纽约州，美国"
+  },
+  {
+   "id": "kapelica-gallery",
+   "name": "Kapelica Gallery",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Ljubljana gallery for contemporary investigative art, among the first to show bio art, robotics and body-based work.",
+   "description_zh": "卢布尔雅那的当代探索性艺术画廊，是最早展出生物艺术、机器人艺术和身体艺术的机构之一。",
+   "url": "https://kapelica.org/",
+   "based": "Ljubljana, SI",
+   "based_zh": "卢布尔雅那，斯洛文尼亚",
+   "founded": 1995,
+   "people": [
+    "Jurij Krpan"
+   ]
+  },
+  {
+   "id": "keel-labs",
+   "name": "Keel Labs",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company, formerly AlgiKnit, that spins yarns from kelp-based alginate for knitwear and textiles.",
+   "description_zh": "原名 AlgiKnit 的公司，用海带提取的海藻酸盐纺纱，用于针织和纺织品。",
+   "url": "https://www.keellabs.com/",
+   "based": "Durham NC, US",
+   "based_zh": "达勒姆（北卡罗来纳州），美国",
+   "founded": 2016,
+   "people": [
+    "Aleksandra Gosiewski",
+    "Tessa Callaghan"
+   ],
+   "creator_id": "keel-labs"
+  },
+  {
+   "id": "koniku",
+   "name": "Koniku",
+   "type": "company",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A company that builds sensing devices combining living cells and silicon, aimed at smelling explosives and diseases.",
+   "description_zh": "把活细胞和硅芯片结合在一起制造传感设备的公司，目标是嗅出爆炸物和疾病。",
+   "url": "https://koniku.com/",
+   "image": "http://koniku.com/meta-img.jpg",
+   "founded": 2015,
+   "people": [
+    "Oshiorenoya Agabi"
+   ],
+   "creator_id": "koniku"
+  },
+  {
+   "id": "kontejner",
+   "name": "KONTEJNER",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Zagreb bureau for contemporary art practice that curates the Touch Me festival and exhibitions on the body, science and technology, including bio art.",
+   "description_zh": "萨格勒布的当代艺术实践机构，策划 Touch Me 艺术节以及关于身体、科学与技术（包括生物艺术）的展览。",
+   "url": "https://www.kontejner.org/",
+   "image": "https://www.kontejner.org/images/modules/tn_large_landscape_1790159218-kontejner_device-art-2026_social_web.png",
+   "based": "Zagreb, HR",
+   "based_zh": "萨格勒布，克罗地亚",
+   "founded": 2002
   },
   {
    "id": "lawyers-for-nature",
@@ -128986,6 +130963,61 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "leonardo-isast",
+   "name": "Leonardo / ISAST",
+   "type": "media",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit that publishes the journal Leonardo (MIT Press) and runs LASER talks, a key forum for art-science including bio art since 1968.",
+   "description_zh": "非营利组织，出版 Leonardo 期刊（MIT Press）并举办 LASER 讲座，自 1968 年起是艺术与科学（包括生物艺术）的重要论坛。",
+   "url": "https://leonardo.info/",
+   "image": "https://leonardo.info/sites/default/files/media_panes/laser-events-web-image_0.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 1968
+  },
+  {
+   "id": "lifepatch",
+   "name": "Lifepatch",
+   "type": "network",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A citizen initiative in art, science and technology in Yogyakarta that runs DIY biology, water monitoring and fermentation projects with local communities.",
+   "description_zh": "日惹的艺术、科学与技术公民组织，与当地社区开展 DIY 生物、水质监测和发酵项目。",
+   "url": "https://lifepatch.id/",
+   "based": "Yogyakarta, ID",
+   "based_zh": "日惹，印度尼西亚",
+   "founded": 2012,
+   "found_via": "https://www.hackteria.org/"
+  },
+  {
+   "id": "light-bio",
+   "name": "Light Bio",
+   "type": "company",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company that sells genetically engineered glowing plants, starting with the Firefly Petunia, using a fungal bioluminescence pathway.",
+   "description_zh": "销售转基因发光植物的公司，首款产品为 Firefly Petunia，利用了真菌的生物发光通路。",
+   "url": "https://light.bio/",
+   "image": "http://light.bio/cdn/shop/files/Firefly_Petunia_Light_Bio_OpenGraph02.jpg?v=1749046889",
+   "based": "Ketchum ID, US",
+   "based_zh": "凯彻姆（爱达荷州），美国",
+   "creator_id": "light-bio"
+  },
+  {
    "id": "limelight-rainforest",
    "name": "Limelight Rainforest",
    "type": "research",
@@ -129004,6 +131036,75 @@
    "found_via": "https://www.xprize.org/prizes/rainforest"
   },
   {
+   "id": "living-architecture-h2020",
+   "name": "Living Architecture (EU project)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "biocomputing"
+   ],
+   "fields": [
+    "bio",
+    "biohybrid"
+   ],
+   "description": "An EU-funded project that built microbial fuel cell bioreactor walls able to clean water, make electricity and respond to occupants.",
+   "description_zh": "欧盟资助的项目，建造了由微生物燃料电池构成的生物反应墙，可以净化水、发电并回应使用者。",
+   "url": "https://livingarchitecture-h2020.eu/",
+   "image": "http://livingarchitecture-h2020.eu/wp-content/uploads/2016/07/liar-news-4-1024x512.jpg",
+   "based": "Newcastle, UK",
+   "based_zh": "纽卡斯尔，英国",
+   "founded": 2016,
+   "people": [
+    "Rachel Armstrong"
+   ],
+   "creator_id": "rachel-armstrong"
+  },
+  {
+   "id": "living-ink",
+   "name": "Living Ink Technologies",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A company that makes printing inks and pigments from algae, starting with a carbon-negative black ink.",
+   "description_zh": "用藻类制作印刷油墨和颜料的公司，首个产品是碳负排放的黑色油墨。",
+   "url": "https://www.livingink.co/",
+   "image": "http://static1.squarespace.com/static/65662abc8bc75834d74f34c2/t/673cd312b414ac2a24a82a3b/1732039460395/P%2BC-Living+Ink-316.jpg?format=1500w",
+   "based": "Aurora CO, US",
+   "based_zh": "奥罗拉（科罗拉多州），美国",
+   "founded": 2013,
+   "people": [
+    "Scott Fulbright"
+   ],
+   "creator_id": "living-ink"
+  },
+  {
+   "id": "living-machines-conference",
+   "name": "Living Machines Conference",
+   "type": "event",
+   "themes": [
+    "biocomputing",
+    "biodesign"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A yearly international conference on biomimetic and biohybrid systems, from bio-inspired robots to living-artificial hybrids.",
+   "description_zh": "每年举办的国际会议，关注仿生与生物混合系统，从仿生机器人到活体与人工的混合体。",
+   "url": "https://livingmachinesconference.eu/2025/",
+   "image": "https://livingmachinesconference.eu/2025/wp-content/uploads/2024/11/site_image.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2012,
+   "people": [
+    "Tony Prescott",
+    "Paul Verschure"
+   ]
+  },
+  {
    "id": "local-contexts",
    "name": "Local Contexts",
    "type": "database",
@@ -129019,6 +131120,63 @@
    "image": "https://localcontexts.org/wp-content/uploads/2020/11/hero_overlay_generic.png",
    "based": "Global",
    "based_zh": "全球"
+  },
+  {
+   "id": "london-biohackspace",
+   "name": "London Biohackspace",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A volunteer-run community biology lab in London where members do open projects and host workshops.",
+   "description_zh": "伦敦由志愿者运营的社区生物实验室，会员开展开放项目并举办工作坊。",
+   "url": "https://biohackspace.org/",
+   "image": "https://biohackspace.org/wp-content/uploads/2021/05/2019-06-09-DNA-SNP-workshop-06-more-pipetting-1-300x196.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2011,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "ma-art-and-science-csm",
+   "name": "MA Art and Science (Central Saint Martins)",
+   "type": "education",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A master's course at Central Saint Martins for artists who work across art and scientific research, including biology and ecology.",
+   "description_zh": "中央圣马丁学院的硕士课程，面向在艺术与科学研究（包括生物学和生态学）之间工作的艺术家。",
+   "url": "https://www.arts.ac.uk/subjects/fine-art/postgraduate/ma-art-and-science-csm",
+   "image": "https://www.arts.ac.uk/__data/assets/image/0021/494301/present-tense-territory_Kentaro-Okumura~~_crop.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "ma-biodesign-csm",
+   "name": "MA Biodesign (Central Saint Martins)",
+   "type": "education",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A master's course at Central Saint Martins where students work with living systems, wet labs and scientists to design regenerative products and materials.",
+   "description_zh": "中央圣马丁学院的硕士课程，学生在湿实验室里与科学家合作，以活体系统设计再生性的产品与材料。",
+   "url": "https://www.arts.ac.uk/subjects/textiles-and-materials/postgraduate/ma-biodesign-csm",
+   "image": "https://www.arts.ac.uk/__data/assets/image/0031/292765/Harry_Mann_Image3.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2019,
+   "people": [
+    "Carole Collet"
+   ]
   },
   {
    "id": "macaulay-library",
@@ -129039,6 +131197,47 @@
    "based_zh": "伊萨卡，纽约州，美国",
    "founded": 1929,
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "made-of-air",
+   "name": "Made of Air",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Berlin company that turns biomass into biochar-based thermoplastics that lock carbon into facades, furniture and cars.",
+   "description_zh": "柏林公司，把生物质制成以生物炭为基础的热塑性材料，将碳封存在建筑立面、家具和汽车中。",
+   "url": "https://www.madeofair.com/",
+   "image": "http://static1.squarespace.com/static/61488a227e99c5752872f551/t/69383bb53df7ad1e137cb41a/1634211037972/Made-of-air_social_sharing.png?format=1500w",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "people": [
+    "Allison Dring",
+    "Daniel Schwaag"
+   ]
+  },
+  {
+   "id": "makery",
+   "name": "Makery",
+   "type": "media",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A bilingual online media outlet on labs, makers, DIY biology and art-science, covering hackerspaces and community labs worldwide.",
+   "description_zh": "双语在线媒体，报道实验室、创客、DIY 生物学和艺术与科学，关注全球的黑客空间与社区实验室。",
+   "url": "https://www.makery.info/en/",
+   "image": "https://www.makery.info/wp-content/uploads/2014/06/cover-linkedin-makery.jpg",
+   "based": "Paris, FR",
+   "based_zh": "巴黎，法国",
+   "founded": 2014,
+   "found_via": "https://www.hackteria.org/"
   },
   {
    "id": "map-of-life",
@@ -129062,6 +131261,156 @@
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
   },
   {
+   "id": "materiability",
+   "name": "Materiability Research Network",
+   "type": "education",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Manuel Kretzer's educational platform and network on smart and biological materials, with open tutorials and student projects.",
+   "description_zh": "Manuel Kretzer 创办的教育平台与网络，关注智能材料和生物材料，提供开放教程和学生项目。",
+   "url": "https://materiability.com/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Manuel Kretzer"
+   ]
+  },
+  {
+   "id": "material-innovation-initiative",
+   "name": "Material Innovation Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit think tank that publishes research and market reports on next-generation, animal-free materials such as mycelium and microbial leathers.",
+   "description_zh": "非营利智库，发布关于新一代无动物材料（如菌丝体和微生物皮革）的研究和市场报告。",
+   "url": "https://materialinnovation.org/",
+   "image": "https://materialinnovation.org/wp-content/uploads/2022/09/Mii-Silk-Weaving.jpg",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2019
+  },
+  {
+   "id": "materialdistrict",
+   "name": "MaterialDistrict",
+   "type": "database",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An online platform and yearly fair in Rotterdam that catalogues innovative materials, including a large section on bio-based and grown materials.",
+   "description_zh": "在线材料平台，每年在鹿特丹办展会，收录各类创新材料，其中生物基和生长材料占很大比例。",
+   "url": "https://materialdistrict.com/",
+   "image": "https://materialdistrict.com/_next/image/?url=https%3A%2F%2Fmedia.materialdistrict.com%2Fwp-content%2Fuploads%2F2026%2F09%2F8jm-960x640.jpg%3Fv%3D20260916074827&w=1920&q=75"
+  },
+  {
+   "id": "material-driven",
+   "name": "MaterialDriven",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London material consultancy, gallery and online library that promotes new, often bio-based and waste-derived materials to designers and brands.",
+   "description_zh": "伦敦的材料咨询机构，同时有展厅和线上材料库，向设计师和品牌推广新材料，其中许多是生物基材料或由废料制成。",
+   "url": "https://www.materialdriven.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/570a8015f699bb7295b31415/925d973f-1166-4667-830e-37fb6b9cb4a8/DSC_0288.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2014
+  },
+  {
+   "id": "materiom",
+   "name": "Materiom",
+   "type": "database",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open-data platform that publishes recipes and property data for biomaterials made from locally abundant biomass, so communities can make and test them.",
+   "description_zh": "开放数据平台，公开用本地丰富生物质制作生物材料的配方和性能数据，方便各地社区自行制作和测试。",
+   "url": "https://www.materiom.org/",
+   "image": "https://cdn.prod.website-files.com/672c04faa4dd0452a0dcc7e8/6a97f0e01ece7880dec2409e_Materiom_Team_0326_f1%20(1).jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2016,
+   "people": [
+    "Liz Corbin"
+   ]
+  },
+  {
+   "id": "maxwell-biosystems",
+   "name": "MaxWell Biosystems",
+   "type": "company",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid"
+   ],
+   "description": "A Swiss maker of high-density microelectrode arrays used to record and stimulate neurons and organoids, including in biocomputing research.",
+   "description_zh": "瑞士高密度微电极阵列制造商，其设备用于记录和刺激神经元与类器官，也用于生物计算研究。",
+   "url": "https://www.mxwbio.com/",
+   "image": "https://cdn.prod.website-files.com/686b5e0d1e85939ee7bacc64/6924712083593f06e45edbfd_a84d05965da7fc958bdbacf7098490f6_home%20hero%20resized.avif",
+   "based": "Zurich, CH",
+   "based_zh": "苏黎世，瑞士",
+   "founded": 2016
+  },
+  {
+   "id": "mediamatic",
+   "name": "Mediamatic",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An Amsterdam art centre with a biotech lab, fermentation kitchen and aquaponics greenhouse, running workshops on mycelium and bio art.",
+   "description_zh": "阿姆斯特丹的艺术中心，设有生物技术实验室、发酵厨房和鱼菜共生温室，举办菌丝体和生物艺术工作坊。",
+   "url": "https://www.mediamatic.net/",
+   "image": "http://www.mediamatic.net/image/2021/9/11/uploaden.jpg%28mediaclass-facebook-og.5b1a6c43821edb335f23abe4e193a6944c09e012%29.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 1983
+  },
+  {
+   "id": "mit-mediated-matter",
+   "name": "Mediated Matter (MIT Media Lab)",
+   "type": "research",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Neri Oxman's former MIT Media Lab group, which designed with silkworms, bacteria and biopolymers and coined 'material ecology'; its archive stays online.",
+   "description_zh": "Neri Oxman 在 MIT 媒体实验室的原研究组，与蚕、细菌和生物聚合物一起做设计，提出“材料生态学”；项目档案仍在线。",
+   "url": "https://www.media.mit.edu/groups/mediated-matter/overview/",
+   "image": "https://dam-prod.media.mit.edu/thumb/2016/08/24/silk-pavilion.1400x1400.jpg",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2010,
+   "people": [
+    "Neri Oxman"
+   ],
+   "creator_id": "mediated-matter"
+  },
+  {
    "id": "microsoft-ai-for-good-lab",
    "name": "Microsoft AI for Good Lab",
    "type": "research",
@@ -129081,6 +131430,116 @@
    "founded": 2018,
    "people": [
     "Juan Lavista Ferres"
+   ]
+  },
+  {
+   "id": "modern-meadow",
+   "name": "Modern Meadow",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A biotech company that designs protein-based materials for fashion and beauty, first known for lab-grown leather.",
+   "description_zh": "以蛋白质为基础设计时尚与美妆材料的生物技术公司，最早以实验室培育皮革闻名。",
+   "url": "https://www.modernmeadow.com/",
+   "image": "https://modernmeadow.com/uploads/images/_1200x630_crop_center-center_82_none/2026-04-09_MENABO0850.jpg?mtime=1753194582",
+   "based": "Nutley NJ, US",
+   "based_zh": "纳特利（新泽西州），美国",
+   "founded": 2011,
+   "people": [
+    "Andras Forgacs"
+   ],
+   "creator_id": "modern-meadow"
+  },
+  {
+   "id": "modern-synthesis",
+   "name": "Modern Synthesis",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London company that grows textile materials with bacteria that weave nanocellulose onto yarn frameworks.",
+   "description_zh": "伦敦公司，让细菌把纳米纤维素“织”在纱线骨架上，生长出纺织材料。",
+   "url": "https://www.modernsynthesis.com/",
+   "image": "https://www.modernsynthesis.com/_next/image?url=https%3A%2F%2Fadmin.modernsynthesis.com%2Fwp-content%2Fuploads%2F2026%2F07%2FHomepage-Header-High.png&w=2560&q=75",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Jen Keane"
+   ],
+   "creator_id": "modern-synthesis"
+  },
+  {
+   "id": "mogu",
+   "name": "Mogu",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An Italian company that grows acoustic panels and flooring from fungal mycelium and agricultural residues.",
+   "description_zh": "意大利公司，用真菌菌丝体和农业废料生长吸音板和地板。",
+   "url": "https://mogu.bio/",
+   "image": "https://mogu.bio/wp-content/uploads/2026/05/mogu-anteprima-open-graph.webp",
+   "based": "Inarzo, IT",
+   "based_zh": "伊纳尔佐，意大利",
+   "founded": 2015,
+   "people": [
+    "Maurizio Montalti"
+   ],
+   "creator_id": "mogu"
+  },
+  {
+   "id": "uw-misl",
+   "name": "Molecular Information Systems Lab (University of Washington)",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "synbio"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A University of Washington and Microsoft lab that builds systems to store and compute data in DNA.",
+   "description_zh": "华盛顿大学与微软合作的实验室，搭建在 DNA 中存储和计算数据的系统。",
+   "url": "https://misl.cs.washington.edu/",
+   "image": "https://misl.cs.washington.edu/img/pencil-dna.jpg",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "people": [
+    "Luis Ceze",
+    "Karin Strauss"
+   ],
+   "creator_id": "molecular-information-systems-lab"
+  },
+  {
+   "id": "molecular-programming-project",
+   "name": "Molecular Programming Project",
+   "type": "research",
+   "themes": [
+    "biocomputing",
+    "synbio"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A multi-university research effort that develops the theory and tools to program molecules such as DNA to compute and build.",
+   "description_zh": "跨大学的研究计划，开发让 DNA 等分子进行计算和自组装的理论与工具。",
+   "url": "http://molecular-programming.org/",
+   "based": "Pasadena, US",
+   "based_zh": "帕萨迪纳，美国",
+   "founded": 2008,
+   "people": [
+    "Erik Winfree"
    ]
   },
   {
@@ -129190,6 +131649,42 @@
    ]
   },
   {
+   "id": "mu-hybrid-art-house",
+   "name": "MU Hybrid Art House",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An Eindhoven art house that shows work at the edge of art, design and technology, with many exhibitions on biotech and nature, and co-runs the Bio Art & Design Award.",
+   "description_zh": "埃因霍温的艺术机构，展示艺术、设计与技术交界处的作品，常办生物技术与自然主题展览，并联合主办 Bio Art & Design Award。",
+   "url": "https://mu.nl/",
+   "based": "Eindhoven, NL",
+   "based_zh": "埃因霍温，荷兰"
+  },
+  {
+   "id": "mycotech-lab",
+   "name": "MYCL (Mycotech Lab)",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An Indonesian company that grows Mylea mycelium leather and binderless boards from agricultural waste.",
+   "description_zh": "印度尼西亚公司，用农业废料生长 Mylea 菌丝皮革和无胶板材。",
+   "url": "https://mycl.bio/",
+   "image": "https://mycl.bio/wp-content/uploads/2026/03/Seoul-Biennale.jpg.jpeg",
+   "based": "Bandung, ID",
+   "based_zh": "万隆，印度尼西亚",
+   "founded": 2015,
+   "creator_id": "mycl"
+  },
+  {
    "id": "native-land-digital",
    "name": "Native Land Digital",
    "type": "database",
@@ -129248,6 +131743,23 @@
    "people": [
     "Gretchen Daily"
    ]
+  },
+  {
+   "id": "natural-computing-journal",
+   "name": "Natural Computing (Springer)",
+   "type": "media",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "A Springer journal on computation inspired by or performed with nature, including DNA, molecular and cellular computing.",
+   "description_zh": "Springer 期刊，关注受自然启发或借助自然完成的计算，包括 DNA、分子和细胞计算。",
+   "url": "https://link.springer.com/journal/11047",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2002
   },
   {
    "id": "naturalis-biodiversity-center",
@@ -129417,6 +131929,51 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "new-harvest",
+   "name": "New Harvest",
+   "type": "nonprofit",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit research institute that funds open, public research in cellular agriculture, growing animal products from cell cultures.",
+   "description_zh": "非营利研究机构，资助细胞农业（用细胞培养生产动物产品）领域的开放公共研究。",
+   "url": "https://www.new-harvest.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/679bcf06163827377351ff39/bbc712d5-3a6c-44ad-8f1a-bfbe775e9425/new-harvest-cell-ag-landscape+2.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2004,
+   "people": [
+    "Isha Datar"
+   ]
+  },
+  {
+   "id": "next-nature",
+   "name": "Next Nature",
+   "type": "network",
+   "themes": [
+    "biodesign",
+    "futures"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An Amsterdam organisation that explores how technology becomes a 'next nature' through exhibitions, speculative projects and public debate.",
+   "description_zh": "阿姆斯特丹的机构，通过展览、思辨项目和公共讨论，探讨技术如何成为“下一种自然”。",
+   "url": "https://nextnature.org/en",
+   "image": "https://cms.nextnature.net/media/pages/mission/home/ae567b7b18-1742293351/2.-jphb20220709138-mediumres.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "people": [
+    "Koert van Mensvoort"
+   ],
+   "creator_id": "next-nature-network",
+   "found_via": "https://badaward.nl/"
+  },
+  {
    "id": "nga-tangata-tiaki-o-whanganui",
    "name": "Ngā Tāngata Tiaki o Whanganui (Te Awa Tupua)",
    "type": "nonprofit",
@@ -129433,6 +131990,26 @@
    "image": "https://www.ngatangatatiaki.co.nz/assets/Rangatira-o-te-kereme.jpg",
    "based": "Whanganui, Aotearoa New Zealand",
    "based_zh": "旺格努伊，新西兰"
+  },
+  {
+   "id": "nieuwe-instituut",
+   "name": "Nieuwe Instituut",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "The Dutch national institute for architecture, design and digital culture, whose research and exhibitions have covered biobased design and more-than-human perspectives.",
+   "description_zh": "荷兰国家建筑、设计与数字文化机构，其研究和展览涉及生物基设计和超越人类的视角。",
+   "url": "https://nieuweinstituut.nl/en",
+   "image": "https://cmsfiles.nieuweinstituut.nl/FUNGI_Aad_H_42_83af32ff88.jpg",
+   "based": "Rotterdam, NL",
+   "based_zh": "鹿特丹，荷兰",
+   "founded": 2013
   },
   {
    "id": "noema-magazine",
@@ -129515,6 +132092,29 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "notpla",
+   "name": "Notpla",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London company that makes packaging from seaweed and plants, including edible drink pods and coatings for takeaway boxes.",
+   "description_zh": "伦敦公司，用海藻和植物制作包装，包括可食用饮料胶囊和外卖盒涂层。",
+   "url": "https://www.notpla.com/",
+   "image": "https://cdn.prod.website-files.com/64ff4e18fe1818becb109f1a/68ff63859ec3f2cc263a0cb7_Espresso%20Cup%20391.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2014,
+   "people": [
+    "Rodrigo García González",
+    "Pierre Paslier"
+   ],
+   "creator_id": "notpla"
+  },
+  {
    "id": "obis",
    "name": "OBIS (Ocean Biodiversity Information System)",
    "type": "database",
@@ -129550,6 +132150,29 @@
    "founded": 2004
   },
   {
+   "id": "officina-corpuscoli",
+   "name": "Officina Corpuscoli",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Maurizio Montalti's design and research studio that works with fungi and other living systems to rethink materials and production.",
+   "description_zh": "Maurizio Montalti 的设计研究工作室，与真菌等活体系统合作，重新思考材料与生产。",
+   "url": "https://www.corpuscoli.com/",
+   "image": "https://www.corpuscoli.com/wp-content/uploads/2016/05/Officina-Corpuscoli-Fungal-Futures-thumbnail2-220x170.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 2010,
+   "people": [
+    "Maurizio Montalti"
+   ],
+   "creator_id": "maurizio-montalti"
+  },
+  {
    "id": "open-acoustic-devices",
    "name": "Open Acoustic Devices (AudioMoth)",
    "type": "company",
@@ -129574,6 +132197,126 @@
    "creator_id": "open-acoustic-devices"
   },
   {
+   "id": "open-biolab-brussels",
+   "name": "Open BioLab Brussels",
+   "type": "research",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An open biology lab at Erasmus University College Brussels for students, citizens and makers to experiment with biotech.",
+   "description_zh": "布鲁塞尔 Erasmus 应用科技大学的开放生物实验室，供学生、市民和创客进行生物技术实验。",
+   "url": "https://www.erasmushogeschool.be/nl/labs/openbiolab",
+   "image": "https://www.erasmushogeschool.be/sites/ehb/files/styles/image_625x328_/public/2017-12/25688720901_d85bf04f92_k_d.jpg?h=07b3670f&itok=a1Qkj5Pc",
+   "based": "Brussels, BE",
+   "based_zh": "布鲁塞尔，比利时",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "open-fung",
+   "name": "Open Fung",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An art and science network around fungi that publishes, organises events and partnered with Biodesign Challenge on a fungi track.",
+   "description_zh": "围绕真菌的艺术与科学网络，出版刊物、组织活动，并与 Biodesign Challenge 合作开设真菌赛道。",
+   "url": "https://www.openfung.org/",
+   "image": "https://freight.cargo.site/w/1000/i/D3150424811388834402863130336753/screenshot-1517688959.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://www.biodesignchallenge.org/"
+  },
+  {
+   "id": "open-insulin",
+   "name": "Open Insulin Foundation",
+   "type": "nonprofit",
+   "themes": [
+    "diybio",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A community biotech project that develops open protocols to produce affordable insulin at small scale.",
+   "description_zh": "社区生物技术项目，开发开放的小规模生产方案，让胰岛素更便宜。",
+   "url": "https://openinsulin.org/",
+   "image": "https://openinsulin.org/wp-content/uploads/2022/10/img-1.png",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "founded": 2015,
+   "people": [
+    "Anthony Di Franco"
+   ],
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "open-science-network-vancouver",
+   "name": "Open Science Network Society",
+   "type": "nonprofit",
+   "themes": [
+    "diybio",
+    "citizen-science"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Vancouver nonprofit with a community science lab, outreach and mentoring to bring hands-on science to the public.",
+   "description_zh": "温哥华的非营利组织，拥有社区科学实验室，通过推广和导师计划让公众亲手做科学。",
+   "url": "https://www.opensciencenet.org/",
+   "image": "https://www.opensciencenet.org/wp-content/uploads/2020/05/20150813-OSN-Workshop-Episode-1-9406.jpg",
+   "based": "Vancouver, CA",
+   "based_zh": "温哥华，加拿大",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "waag-open-wetlab",
+   "name": "Open Wetlab (Waag)",
+   "type": "research",
+   "themes": [
+    "diybio",
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Waag's public biology lab where artists, designers and citizens work hands-on with biotechnology and discuss its social questions.",
+   "description_zh": "Waag 的公共生物实验室，艺术家、设计师和市民在这里亲手操作生物技术，并讨论其社会问题。",
+   "url": "https://waag.org/en/lab/open-wetlab/",
+   "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/media/news/gmo-wetlab.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "people": [
+    "Lucas Evers"
+   ]
+  },
+  {
+   "id": "openwetware",
+   "name": "OpenWetWare",
+   "type": "database",
+   "themes": [
+    "diybio",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A wiki where biologists and community labs share protocols, lab notebooks and course material openly.",
+   "description_zh": "生物学者和社区实验室公开分享实验方案、实验记录和课程材料的维基网站。",
+   "url": "https://openwetware.org/wiki/Main_Page",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2005,
+   "found_via": "https://diybio.org/local/"
+  },
+  {
    "id": "orcasound",
    "name": "Orcasound",
    "type": "network",
@@ -129590,6 +132333,28 @@
    "url": "https://www.orcasound.net/",
    "based": "Salish Sea, US / Canada",
    "based_zh": "萨利希海，美国 / 加拿大"
+  },
+  {
+   "id": "organoid-intelligence-community",
+   "name": "Organoid Intelligence (OI) Community",
+   "type": "network",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "organoid"
+   ],
+   "description": "The community site for organoid intelligence research, which lists founding researchers and resources and runs the International Conference on Organoid Intelligence.",
+   "description_zh": "类器官智能研究的社群网站，列出创始研究者与资源，并主办国际类器官智能会议。",
+   "url": "https://organoidintelligence.org/",
+   "image": "https://organoidintelligence.org/wp-content/uploads/2026/03/ICOI-Website-Slider-4.png",
+   "based": "Baltimore, US",
+   "based_zh": "巴尔的摩，美国",
+   "founded": 2023,
+   "people": [
+    "Thomas Hartung",
+    "Lena Smirnova"
+   ]
   },
   {
    "id": "orion-magazine",
@@ -129610,6 +132375,30 @@
    "based": "Northampton, Massachusetts, US",
    "based_zh": "北安普顿，马萨诸塞州，美国",
    "founded": 1982
+  },
+  {
+   "id": "oxman",
+   "name": "OXMAN",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "Neri Oxman's New York design company that builds products, architecture and systems with and for nature, continuing her material ecology work.",
+   "description_zh": "Neri Oxman 在纽约创办的设计公司，与自然一起、为自然设计产品、建筑和系统，延续她的材料生态学研究。",
+   "url": "https://www.oxman.com/",
+   "image": "https://cdn.prod.website-files.com/690e0b6e2e2a0cbc45ab116e/696fe3952005ae09bb201fdc_OXMAN-OG-image.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2021,
+   "people": [
+    "Neri Oxman"
+   ],
+   "creator_id": "oxman"
   },
   {
    "id": "pachamama-alliance",
@@ -129648,6 +132437,29 @@
    "people": [
     "Robert Zarr"
    ]
+  },
+  {
+   "id": "pili",
+   "name": "Pili",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A French company, born from La Paillasse, that combines fermentation and chemistry to make bio-based dyes and pigments.",
+   "description_zh": "诞生于 La Paillasse 社区的法国公司，结合发酵与化学工艺生产生物基染料和颜料。",
+   "url": "https://www.pili.bio/",
+   "image": "https://www.pili.bio/wp-content/uploads/2024/10/e4fc3802-0167-4461-bc3f-6954387fbeb1-773d8194-918d-4f56-b738-21759f9465df-pili-hero2.webp",
+   "based": "Toulouse, FR",
+   "based_zh": "图卢兹，法国",
+   "founded": 2015,
+   "people": [
+    "Marie-Sarah Adenis"
+   ],
+   "creator_id": "pili"
   },
   {
    "id": "plantnet",
@@ -129711,6 +132523,29 @@
    "creator_id": "nonhuman-nonsense"
   },
   {
+   "id": "post-carbon-lab",
+   "name": "Post Carbon Lab",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A London textile research lab that develops photosynthetic coatings and microbial dyes for garments.",
+   "description_zh": "伦敦纺织研究实验室，开发用于服装的光合作用涂层和微生物染料。",
+   "url": "https://www.postcarbonlab.com/",
+   "image": "https://static.wixstatic.com/media/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png/v1/fill/w_2560,h_1396,al_c/70c204_6a4d0b040fe24dc5a75336f369903530~mv2_d_2560_1396_s_2.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2018,
+   "people": [
+    "Dian-Jen Lin",
+    "Hannes Hulstaert"
+   ],
+   "creator_id": "post-carbon-lab"
+  },
+  {
    "id": "potsdam-institute-climate-impact",
    "name": "Potsdam Institute for Climate Impact Research (PIK)",
    "type": "research",
@@ -129729,6 +132564,24 @@
    "founded": 1992
   },
   {
+   "id": "prix-ars-electronica",
+   "name": "Prix Ars Electronica",
+   "type": "funding",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A long-running media-art competition whose Hybrid Art and Artificial Life & Intelligence categories have recognised many key bio art works.",
+   "description_zh": "历史悠久的媒体艺术奖项，其“混合艺术”和“人工生命与智能”类别表彰过许多重要的生物艺术作品。",
+   "url": "https://ars.electronica.art/prix/en/",
+   "image": "https://ars.electronica.art/prix/files/2025/12/1923-vog_8309_3000x2375-1024x811.jpg",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "founded": 1987
+  },
+  {
    "id": "project-feederwatch",
    "name": "Project FeederWatch",
    "type": "network",
@@ -129745,6 +132598,28 @@
    "based": "Ithaca, US / Canada",
    "based_zh": "伊萨卡，美国 / 加拿大",
    "founded": 1987
+  },
+  {
+   "id": "prometheus-materials",
+   "name": "Prometheus Materials",
+   "type": "company",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A spin-out from the University of Colorado that makes low-carbon concrete blocks using microalgae-grown biocement.",
+   "description_zh": "科罗拉多大学的衍生公司，用微藻生长的生物水泥制造低碳混凝土砌块。",
+   "url": "https://prometheusmaterials.com/",
+   "image": "https://prometheusmaterials.com/wp-content/uploads/2025/04/Social.jpg",
+   "based": "Longmont CO, US",
+   "based_zh": "朗蒙特（科罗拉多州），美国",
+   "founded": 2021,
+   "people": [
+    "Wil Srubar"
+   ],
+   "creator_id": "prometheus-materials"
   },
   {
    "id": "protected-planet",
@@ -129787,6 +132662,26 @@
    ],
    "creator_id": "public-lab",
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "qian-lab-caltech",
+   "name": "Qian Lab (Caltech)",
+   "type": "research",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "Lulu Qian's Caltech lab that builds DNA circuits and molecular neural networks that recognise patterns.",
+   "description_zh": "Lulu Qian 在加州理工学院的实验室，构建能识别模式的 DNA 电路和分子神经网络。",
+   "url": "http://qianlab.caltech.edu/",
+   "based": "Pasadena, US",
+   "based_zh": "帕萨迪纳，美国",
+   "people": [
+    "Lulu Qian"
+   ],
+   "creator_id": "lulu-qian"
   },
   {
    "id": "quiet-parks-international",
@@ -130002,6 +132897,44 @@
    "founded": 1979
   },
   {
+   "id": "starts-eu",
+   "name": "S+T+ARTS",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "The European Commission's Science, Technology and the Arts initiative, which funds residencies, prizes and regional centres pairing artists with researchers.",
+   "description_zh": "欧盟委员会的“科学、技术与艺术”计划，资助驻留、奖项和区域中心，让艺术家与研究者合作。",
+   "url": "https://starts.eu/",
+   "image": "https://starts.eu/wp-content/uploads/starts_day_2-1024x512.jpg",
+   "based": "Brussels, BE",
+   "based_zh": "布鲁塞尔，比利时",
+   "founded": 2016
+  },
+  {
+   "id": "starts-prize",
+   "name": "S+T+ARTS Prize",
+   "type": "funding",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A European Commission prize run by Ars Electronica for collaborations between science, technology and the arts, often won by bio-based projects.",
+   "description_zh": "欧盟委员会委托 Ars Electronica 运营的奖项，表彰科学、技术与艺术的合作，获奖者中不少是生物相关项目。",
+   "url": "https://starts-prize.aec.at/en/",
+   "image": "https://ars.electronica.art/starts-prize/files/2026/06/cortical-echoes-1-1024x576.jpg",
+   "based": "Linz, AT",
+   "based_zh": "林茨，奥地利",
+   "founded": 2016
+  },
+  {
    "id": "saami-council",
    "name": "Saami Council",
    "type": "nonprofit",
@@ -130018,6 +132951,24 @@
    "based": "Sápmi (Norway, Sweden, Finland, Russia)",
    "based_zh": "萨普米（挪威、瑞典、芬兰、俄罗斯）",
    "founded": 1956
+  },
+  {
+   "id": "schering-stiftung",
+   "name": "Schering Stiftung",
+   "type": "funding",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Berlin foundation that supports art and science, including exhibitions and awards for artists working with the life sciences.",
+   "description_zh": "柏林的基金会，支持艺术与科学，为与生命科学合作的艺术家提供展览和奖项。",
+   "url": "https://scheringstiftung.de/de/",
+   "image": "https://scheringstiftung.de/wp-content/uploads/2023/08/World_Framed_007-scaled-e1783429214841-1164x776.jpg",
+   "based": "Berlin, DE",
+   "based_zh": "柏林，德国",
+   "founded": 2002
   },
   {
    "id": "schumacher-college",
@@ -130040,6 +132991,57 @@
    "founded": 1991
   },
   {
+   "id": "sciart-initiative",
+   "name": "SciArt Initiative",
+   "type": "network",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A nonprofit that connects scientists and artists through residencies, open calls, exhibitions and an online community.",
+   "description_zh": "非营利组织，通过驻留、公开征集、展览和线上社群把科学家与艺术家联系起来。",
+   "url": "https://www.sciartinitiative.org/",
+   "image": "http://www.sciartinitiative.org/uploads/6/0/8/9/6089526/dsc-9226-copy.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "sciart-magazine",
+   "name": "SciArt Magazine",
+   "type": "media",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An online magazine that covers artists working with science, publishing interviews and themed monthly issues.",
+   "description_zh": "报道与科学合作的艺术家的在线杂志，按月发布主题刊和访谈。",
+   "url": "https://www.sciartmagazine.com/",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
+   "id": "science-gallery-network",
+   "name": "Science Gallery Network",
+   "type": "network",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A network of university-linked galleries (Atlanta, Bengaluru, London, Melbourne, Monterrey and others) that show art-science exhibitions for young adults.",
+   "description_zh": "由大学支持的画廊网络（亚特兰大、班加罗尔、伦敦、墨尔本、蒙特雷等），面向年轻人举办艺术与科学展览。",
+   "url": "https://sciencegallery.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5d569899bdf59100013c8a11/1741610098717-85OW68LT87NIO0F37QDQ/science_gallery_darkmatters_lowres-85.jpg",
+   "based": "Dublin, IE",
+   "based_zh": "都柏林，爱尔兰",
+   "founded": 2008
+  },
+  {
    "id": "scistarter",
    "name": "SciStarter",
    "type": "database",
@@ -130058,6 +133060,27 @@
    "founded": 2011,
    "people": [
     "Darlene Cavalier"
+   ]
+  },
+  {
+   "id": "mit-sculpting-evolution",
+   "name": "Sculpting Evolution (MIT Media Lab)",
+   "type": "research",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Kevin Esvelt's MIT Media Lab group, which develops gene-drive and ecological engineering tools and argues for community-led, open decisions about them.",
+   "description_zh": "Kevin Esvelt 在 MIT 媒体实验室的研究组，开发基因驱动和生态工程工具，并主张由社区公开参与相关决策。",
+   "url": "https://www.media.mit.edu/groups/sculpting-evolution/overview/",
+   "image": "https://dam-prod.media.mit.edu/thumb/2016/12/12/IMG_6301.JPG.1400x1400.jpg",
+   "based": "Cambridge MA, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2016,
+   "people": [
+    "Kevin Esvelt"
    ]
   },
   {
@@ -130194,6 +133217,47 @@
    "based_zh": "荷兰"
   },
   {
+   "id": "soundbio-lab",
+   "name": "SoundBio Lab",
+   "type": "nonprofit",
+   "themes": [
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Seattle community biology lab offering workshops, open lab nights and a community iGEM team.",
+   "description_zh": "西雅图的社区生物实验室，提供工作坊、开放实验室夜和社区 iGEM 团队。",
+   "url": "https://www.sound.bio/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5864b03f44024334881622a8/efba6e1e-6ca0-4965-a6c5-2fa6cfb0ba35/White+side+by+side.png?format=1500w",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "spiber",
+   "name": "Spiber",
+   "type": "company",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Japanese company that ferments structural proteins inspired by spider silk and turns them into fibres for textiles and other products.",
+   "description_zh": "日本公司，受蜘蛛丝启发，通过发酵生产结构蛋白，并把它们做成纺织纤维等产品。",
+   "url": "https://spiber.inc/en",
+   "image": "https://spiber.inc/ja/opengraph-image.jpeg",
+   "based": "Tsuruoka, JP",
+   "based_zh": "鹤冈，日本",
+   "founded": 2007,
+   "people": [
+    "Kazuhide Sekiyama"
+   ],
+   "creator_id": "spiber"
+  },
+  {
    "id": "rechten-van-de-natuur",
    "name": "Stichting Rechten van de Natuur",
    "type": "nonprofit",
@@ -130279,6 +133343,88 @@
     "Jon Ardern"
    ],
    "creator_id": "superflux"
+  },
+  {
+   "id": "sva-bio-art-lab",
+   "name": "SVA Bio Art Lab",
+   "type": "education",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A biology lab inside the School of Visual Arts where art students work with living matter, founded by bio art pioneer Suzanne Anker.",
+   "description_zh": "纽约视觉艺术学院内的生物实验室，艺术学生在这里与活体材料合作，由生物艺术先驱 Suzanne Anker 创办。",
+   "url": "https://bioart.sva.edu/",
+   "image": "https://bioart.sva.edu/wp-content/uploads/2021/12/SVA_Bio_Art_Lab_NYC.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "Suzanne Anker"
+   ]
+  },
+  {
+   "id": "symbiotica",
+   "name": "SymbioticA (University of Western Australia)",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "The first research lab where artists work hands-on in a biology department, known for the Tissue Culture & Art Project and its artist residencies; its website is now archived.",
+   "description_zh": "第一个让艺术家在生物系里亲手做实验的研究室，以“组织培养与艺术项目”和艺术家驻留闻名；网站现已存档。",
+   "url": "https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/",
+   "based": "Perth, AU",
+   "based_zh": "珀斯，澳大利亚",
+   "founded": 2000,
+   "people": [
+    "Oron Catts",
+    "Ionat Zurr"
+   ],
+   "creator_id": "symbiotica"
+  },
+  {
+   "id": "synbio-africa",
+   "name": "SynBio Africa",
+   "type": "network",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "An organisation that builds synthetic biology capacity in Africa through training, research and policy dialogue.",
+   "description_zh": "通过培训、研究和政策对话在非洲建设合成生物学能力的组织。",
+   "url": "https://synbioafrica.com/",
+   "image": "https://synbioafrica.com/wp-content/uploads/2020/07/SynBio-Africa-Otim-Geoffrey-MSc.jpg",
+   "based": "Kampala, UG",
+   "based_zh": "坎帕拉，乌干达"
+  },
+  {
+   "id": "synbiobeta",
+   "name": "SynBioBeta",
+   "type": "event",
+   "themes": [
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "The main industry conference and community for synthetic biology startups and investors.",
+   "description_zh": "合成生物学初创公司与投资者的主要行业会议和社群。",
+   "url": "https://www.synbiobeta.com/",
+   "image": "https://framerusercontent.com/images/kanw5cSMnTabVUpv7sOthFHpk.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2012,
+   "people": [
+    "John Cumbers"
+   ]
   },
   {
    "id": "te-hiku-media",
@@ -130369,6 +133515,51 @@
    "founded": 2006,
    "people": [
     "Bill Browning"
+   ]
+  },
+  {
+   "id": "terreform-one",
+   "name": "Terreform ONE",
+   "type": "nonprofit",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "A nonprofit architecture and ecological design lab in New York that builds prototypes with mycelium, living plants and animal habitats.",
+   "description_zh": "纽约的非营利建筑与生态设计实验室，用菌丝体、活植物和动物栖息地做原型。",
+   "url": "https://www.terreform.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/61bd9bc5da6b0336a4d44519/f6090cab-1dbc-4746-af83-4efe2ef2ce2e/greenmossterreform.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2006,
+   "people": [
+    "Mitchell Joachim"
+   ],
+   "creator_id": "terreform-one"
+  },
+  {
+   "id": "waag-textilelab",
+   "name": "TextileLab Amsterdam (Waag)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Waag's open lab for textiles, where designers experiment with natural dyes, bacterial colour and grown materials.",
+   "description_zh": "Waag 的开放纺织实验室，设计师在这里试验天然染料、细菌色素和生长材料。",
+   "url": "https://waag.org/en/lab/textilelab/",
+   "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2019-01/textilelab-circular-heroes-circl_0.jpg",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "people": [
+    "Cecilia Raspanti"
    ]
   },
   {
@@ -130487,6 +133678,47 @@
    ]
   },
   {
+   "id": "risd-nature-lab",
+   "name": "The Nature Lab (RISD)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "bioart"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "Rhode Island School of Design's natural-history collection and biology lab, where art and design students study specimens and work with living systems.",
+   "description_zh": "罗德岛设计学院的自然史收藏和生物实验室，艺术与设计学生在这里研究标本并与活体系统合作。",
+   "url": "https://naturelab.risd.edu/",
+   "image": "https://lh3.googleusercontent.com/50iVXPEe7zPu6nn2gxVBBotcuwPwjUp3JmdvYxUUkiwSkv6mbTLCdqYJdqa27YjJdZdJsIatV6MG770aLnHZjLDrBhH7-SpY_Kn3yWrb7s0=s600-l85",
+   "based": "Providence, US",
+   "based_zh": "普罗维登斯，美国",
+   "founded": 1937
+  },
+  {
+   "id": "the-odin",
+   "name": "The ODIN",
+   "type": "company",
+   "themes": [
+    "diybio",
+    "synbio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "Josiah Zayner's company selling DIY CRISPR and genetic engineering kits, a flashpoint in debates about home biohacking.",
+   "description_zh": "Josiah Zayner 的公司，销售 DIY CRISPR 和基因工程套件，是家庭生物黑客争论的焦点。",
+   "url": "https://www.the-odin.com/",
+   "image": "https://cdn11.bigcommerce.com/s-89v4ku3/images/stencil/original/aaaaz-02_1644510918__76109.original.png",
+   "based": "Oakland, US",
+   "based_zh": "奥克兰，美国",
+   "people": [
+    "Josiah Zayner"
+   ]
+  },
+  {
    "id": "parliament-of-things",
    "name": "The Parliament of Things",
    "type": "research",
@@ -130524,6 +133756,46 @@
    "founded": 2010
   },
   {
+   "id": "transnatural",
+   "name": "Transnatural",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An Amsterdam gallery and cultural hub for art and design that merges nature and technology, from biomaterials to living installations.",
+   "description_zh": "阿姆斯特丹的画廊与文化中心，展示融合自然与技术的艺术和设计，从生物材料到活体装置。",
+   "url": "https://transnatural.org/",
+   "image": "https://transnatural.org/img/asset/YXNzZXRzL3NoZXJlX2luX21vdGlvbi9zcGhlcmVfaW5fbW90aW9uX3RyYW5zbmF0dXJhbDAxLmpwZw==?w=1600&fit=crop&s=c4bbe29057df823f3ecad1a21f007eb2",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰"
+  },
+  {
+   "id": "uwe-unconventional-computing-lab",
+   "name": "Unconventional Computing Laboratory (UWE Bristol)",
+   "type": "research",
+   "themes": [
+    "biocomputing"
+   ],
+   "fields": [
+    "biohybrid"
+   ],
+   "description": "Andrew Adamatzky's lab that computes with slime moulds, fungi, chemical reactions and other unconventional substrates.",
+   "description_zh": "Andrew Adamatzky 的实验室，用黏菌、真菌、化学反应等非常规介质做计算。",
+   "url": "https://uncomp.uwe.ac.uk/",
+   "image": "https://uncomp.uwe.ac.uk/wp-content/uploads/2019/09/ChaosCNNMemristorsFront.jpg",
+   "based": "Bristol, UK",
+   "based_zh": "布里斯托，英国",
+   "people": [
+    "Andrew Adamatzky"
+   ],
+   "creator_id": "andrew-adamatzky"
+  },
+  {
    "id": "usa-national-phenology-network",
    "name": "USA National Phenology Network (Nature's Notebook)",
    "type": "network",
@@ -130542,6 +133814,25 @@
    "founded": 2007
   },
   {
+   "id": "iaac-valldaura",
+   "name": "Valldaura Labs (IAAC)",
+   "type": "research",
+   "themes": [
+    "biodesign"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "IAAC's self-sufficient research campus in the Collserola forest, where students test bio-based construction, food and energy systems on site.",
+   "description_zh": "IAAC 位于 Collserola 森林中的自给自足研究园区，学生在现场试验生物基建造、食物和能源系统。",
+   "url": "https://valldaura.net/",
+   "image": "https://valldaura.net/wp-content/uploads/2021/03/9_Quarantine-Cabin_1440-x-555-@-72-DPI-1024x395.jpg",
+   "based": "Barcelona, ES",
+   "based_zh": "巴塞罗那，西班牙",
+   "creator_id": "iaac"
+  },
+  {
    "id": "vigie-nature",
    "name": "Vigie-Nature (MNHN)",
    "type": "network",
@@ -130558,6 +133849,44 @@
    "based": "Paris, France",
    "based_zh": "巴黎，法国",
    "founded": 1989
+  },
+  {
+   "id": "waag-futurelab",
+   "name": "Waag Futurelab",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "diybio"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "An Amsterdam research institute for technology and society that runs open labs (Open Wetlab, TextileLab, FabLab) and public programmes on biotech and ecology.",
+   "description_zh": "阿姆斯特丹的技术与社会研究机构，运营 Open Wetlab、TextileLab、FabLab 等开放实验室，并举办生物技术与生态主题的公共项目。",
+   "url": "https://waag.org/en/",
+   "image": "https://waag.org/_next/image/?url=https%3A%2F%2Fcms.waag.org%2Fsites%2Fwaag%2Ffiles%2F2021-09%2Ftrash_hacking_workshop_-_fab_academy_promo_pic.jpeg&w=2240&q=75",
+   "based": "Amsterdam, NL",
+   "based_zh": "阿姆斯特丹，荷兰",
+   "founded": 1994
+  },
+  {
+   "id": "wellcome-collection",
+   "name": "Wellcome Collection",
+   "type": "research",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A free London museum and library about health and life, whose exhibitions often commission artists working with biology and medicine.",
+   "description_zh": "伦敦的免费博物馆和图书馆，主题是健康与生命，其展览常委托与生物学和医学合作的艺术家。",
+   "url": "https://wellcomecollection.org/",
+   "image": "https://images.prismic.io/wellcomecollection/fc1e68b0528abbab8429d95afb5cfa4c74d40d52_tf_180516_2060224.jpg?auto=compress%2Cformat&rect=&w=800&h=",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2007
   },
   {
    "id": "wild-and-legal",
@@ -130735,6 +134064,29 @@
    "founded": 1993
   },
   {
+   "id": "wyss-institute",
+   "name": "Wyss Institute for Biologically Inspired Engineering (Harvard)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "synbio"
+   ],
+   "fields": [
+    "bio",
+    "biohybrid"
+   ],
+   "description": "Harvard's institute that turns biological principles into technologies, from organs-on-chips and DNA nanotech to engineered living materials.",
+   "description_zh": "哈佛大学的研究所，把生物学原理转化为技术，涵盖器官芯片、DNA 纳米技术和工程化活体材料等。",
+   "url": "https://wyss.harvard.edu/",
+   "image": "https://wyss-prod.s3.us-west-2.amazonaws.com/app/uploads/2025/09/09152354/cropped-Michelle-Katharina-and-Jack-in-Tissue-Culture-Candid-05652_FINAL-1-scaled-1.jpg",
+   "based": "Boston, US",
+   "based_zh": "波士顿，美国",
+   "founded": 2009,
+   "people": [
+    "Donald Ingber"
+   ]
+  },
+  {
    "id": "xeno-canto",
    "name": "xeno-canto",
    "type": "database",
@@ -130786,6 +134138,25 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 2019
+  },
+  {
+   "id": "ycam-bio-research",
+   "name": "YCAM (Yamaguchi Center for Arts and Media)",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "diybio"
+   ],
+   "fields": [
+    "bio"
+   ],
+   "description": "A Japanese art centre whose YCAM Bio Research programme runs a biolab, food and DNA workshops and art commissions with living systems.",
+   "description_zh": "日本的艺术中心，其 YCAM Bio Research 项目设有生物实验室，举办食物和 DNA 工作坊，并委约与活体系统合作的作品。",
+   "url": "https://www.ycam.jp/en/",
+   "image": "https://www.ycam.jp/_assets/images/og-image.png",
+   "based": "Yamaguchi, JP",
+   "based_zh": "山口，日本",
+   "founded": 2003
   },
   {
    "id": "zooniverse",

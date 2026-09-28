@@ -17422,36 +17422,78 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 - **Aboriginal Territories in Cyberspace (AbTeC)** (蒙特利尔，加拿大) — 一个原住民研究创作工作室，确保原住民在游戏、虚拟世界和网络中的存在，并举办关于原住民未来的 Skins 工作坊。 https://abtec.org/
 - **Abundant Intelligences** (蒙特利尔，加拿大) — 由 Concordia 大学牵头的国际研究项目，以原住民知识体系为基础设计 AI，在加拿大、美国和新西兰设有实验室。 https://abundant-intelligences.net/
+- **Allen Discovery Center at Tufts University** (梅德福，美国) — Michael Levin 领导的中心，研究生物电信号如何引导身体形态，与合作者共同创造了 xenobot 等合成生命形式。 https://allencenter.tufts.edu/
 - **Antikythera** (全球（伯格鲁恩研究所）) — 由伯格鲁恩研究所孵化的智库和工作室，从行星尺度重新思考计算，包括行星感知和围绕地球重新定位哲学。 https://antikythera.org/
+- **Ars Electronica Futurelab** (林茨，奥地利) — Ars Electronica 的研发实验室，与艺术家和企业合作开展以艺术为导向的人工智能、机器人和生命科学项目。 https://ars.electronica.art/futurelab/en/
+- **Art Laboratory Berlin** (柏林，德国) — 柏林的艺术空间和研究平台，关注艺术与生命科学、技术的交汇，举办展览、会议并设有 DIY 实验室。 https://artlaboratory-berlin.org/
+- **Arts Catalyst** (谢菲尔德，英国) — 英国艺术机构，委约与科学和生态对话的艺术作品，题材从太空生物学到环境正义。 https://artscatalyst.org/
+- **Art|Sci Center (UCLA)** (洛杉矶，美国) — Victoria Vesna 在加州大学洛杉矶分校创办的中心，通过课程、展览和活动让艺术家与科学家在生物学和纳米技术领域合作。 https://artsci.ucla.edu/
 - **Berggruen Institute (Planetary programme)** (洛杉矶，美国) — 一个智库，其“行星”项目和“未来人类”研究探讨关于地球、生命和智能的新观念应如何改变哲学与治理，并出版 Noema 杂志。 https://www.berggruen.org/
+- **BioArt Laboratories** (埃因霍温，荷兰) — Jalila Essaïdi 在埃因霍温创办的基金会，连接艺术、科学与产业，代表项目有“防弹皮肤”和粪肥循环材料。 https://bioartlab.com/
+- **BIOTOPIA** (慕尼黑，德国) — 慕尼黑正在建设的自然史与生命科学博物馆，举办连接艺术、设计与生物学的节展、实验室和展览。 https://biotopia.net/
+- **Braingeneers (UC Santa Cruz)** (圣克鲁兹，美国) — 由加州大学圣克鲁兹分校主导的研究组，开发可远程控制的实验工具，通过互联网培养、记录和训练脑类器官。 https://braingeneers.ucsc.edu/
+- **Center for Alternatives to Animal Testing (Johns Hopkins)** (巴尔的摩，美国) — 约翰斯·霍普金斯大学的中心，研发替代动物实验的方法；在 Thomas Hartung 领导下提出了“类器官智能”研究议程。 https://caat.publichealth.jhu.edu/
 - **Center for Earth Jurisprudence (Barry University)** (奥兰多，佛罗里达州，美国) — 一所法学院的研究中心，教授并研究地球法理学与自然权利。它设有环境与地球法诊所、奖学金项目和研讨会。 https://www.earthjurist.org/
+- **Center for Genomic Gastronomy** (线上) — 由艺术家主导的研究团体，通过展览、餐食和出版物研究人类食物系统中的生物技术和生物多样性。 https://genomicgastronomy.com/
 - **Center for Global Soundscapes (Purdue University)** (西拉法叶，印第安纳州，美国) — 普渡大学的声景生态学研究中心，录制并分析全球生态系统的声音，并开展公众声景项目。 https://centerforglobalsoundscapes.org/
 - **Center for Native Peoples and the Environment (SUNY-ESF)** (锡拉丘兹，纽约州，美国) — 由 Robin Wall Kimmerer 创办的中心，把原住民知识与西方科学知识结合起来，用于环境教育和生态修复。 https://www.esf.edu/nativepeoples/
+- **Center for PostNatural History** (匹兹堡，美国) — 匹兹堡的一家博物馆，收藏被人类有意改造过的生物，从实验小鼠到转基因鱼。 https://www.postnatural.org/
+- **Centre for Materials Science & Culture (RCA)** (伦敦，英国) — 英国皇家艺术学院的研究中心，把设计师和材料科学家聚在一起，研究内容包括生物基材料和活体材料。 https://www.rca.ac.uk/research-innovation/research-centres/centre-materials-science-culture/
 - **Citizen Sense** (伦敦，英国) — 一个研究团队，与社区一起开展 DIY 环境感知（如用 Dustbox 监测空气污染），并研究公民感知带来的改变。 https://citizensense.net/
+- **Complex Materials Lab (ETH Zurich)** (苏黎世，瑞士) — André Studart 在苏黎世联邦理工学院的实验室，研发仿生材料和活体材料，包括含细菌的 3D 打印材料和自修复材料。 https://complex.mat.ethz.ch/
 - **Cornell Lab of Ornithology** (伊萨卡，纽约州，美国) — 康奈尔大学的研究机构，研究鸟类与自然，并运营 eBird、Merlin 识鸟、Project FeederWatch 和 Macaulay Library 等大型公众科学项目。 https://www.birds.cornell.edu/home/
 - **CRESH (Centre for Research on Environment, Society and Health)** (爱丁堡 / 格拉斯哥，英国) — 爱丁堡大学与格拉斯哥大学合办的研究中心，研究绿地等环境如何影响健康和健康不平等。 https://cresh.org.uk/
+- **Design & Living Systems Lab (Central Saint Martins)** (伦敦，英国) — 中央圣马丁学院由 Carole Collet 领导的研究实验室，探索生物学和生物技术如何塑造可持续的设计未来。 http://www.designandlivingsystems.com/
 - **Digital Naturalism Laboratories (Dinalab)** (甘博阿，巴拿马) — 位于巴拿马雨林边缘的野外实验室和创客空间，艺术家、生物学家和黑客在这里制作研究和与野生动物互动的工具。 https://www.dinalab.net/
 - **Earth BioGenome Project** (全球) — 一项国际“登月计划”，旨在测序地球上所有已知真核生物的基因组，为保护和生物学研究提供资源。 https://www.earthbiogenome.org/
 - **Environmental Neuroscience Lab (University of Chicago)** (芝加哥，美国) — Marc Berman 的实验室，研究自然与城市环境如何影响注意力、情绪和行为，包括注意力恢复理论的研究。 https://voices.uchicago.edu/bermanlab/
 - **European Centre for Environment and Human Health (University of Exeter)** (特鲁罗，康沃尔，英国) — 埃克塞特大学的研究中心，研究绿色与蓝色空间等自然环境如何影响人类健康，例如“每周在自然中待 120 分钟”的发现。 https://www.ecehh.org/
+- **Fab Lab Barcelona (IAAC)** (巴塞罗那，西班牙) — IAAC 的数字制造实验室，是全球 Fab Lab 网络的枢纽之一，研究分布式制造、生物材料和 Fab City。 https://fablabbcn.org/
+- **FUNGAR – Fungal Architectures** (布里斯托，英国) — 欧盟资助的项目，目标是用菌丝体生长出既能感知又能计算的建筑。 https://www.fungar.eu/
+- **FUNGATERIA** (线上) — 欧盟 Pathfinder 项目，用真菌和细菌开发可自我生长、自我修复的工程化活体材料。 https://www.fungateria.eu/
 - **Future Generations Commissioner for Wales** (加的夫，威尔士，英国) — 根据 2015 年《威尔士后代福祉法》设立的机构，代表尚未出生者的利益，建议威尔士公共部门进行长期思考。 https://www.futuregenerations.wales/
 - **Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)** (西雅图，美国) — Peter Kahn 在华盛顿大学的实验室，研究人如何与自然以及机器人、自然影像等“技术自然”互动，并提出“环境代际遗忘”概念。 https://depts.washington.edu/hints/
 - **ICARUS (International Cooperation for Animal Research Using Space)** (拉多尔夫采尔，德国) — 马克斯·普朗克的项目，用卫星读取的微型标签在全球追踪小型动物，建立追踪迁徙与动物行为的“动物互联网”。 https://www.icarus.mpg.de/
 - **Indigenous Protocol and AI Working Group** (全球) — 一个由原住民学者和技术人员组成的小组，探讨如何从原住民视角构建 AI，包括与非人类亲属的关系。它 2020 年的立场文件被广泛引用。 https://www.indigenous-ai.net/
+- **Institute for Computational Design and Construction (University of Stuttgart)** (斯图加特，德国) — Achim Menges 领导的研究所，研究仿生的计算设计建筑，包括模仿甲虫壳和蜘蛛网的纤维展亭。 https://www.icd.uni-stuttgart.de/
+- **Institute for Computer Designed Organisms** (伯灵顿，美国) — 由佛蒙特大学和塔夫茨大学 xenobot 团队设立的研究所，用人工智能设计新的活体机器。 https://cdorgs.github.io/
 - **Institute for the Future (IFTF)** (帕洛阿尔托，加利福尼亚州，美国) — 一个非营利未来研究机构，制作长期预测、游戏和情景，包括关于气候未来和人与自然关系的研究。 https://www.iftf.org/
 - **IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services)** (波恩，德国) — 为政策制定者评估生物多样性状况的政府间机构。它 2022 年的价值评估把关系性价值和原住民对自然的价值观带入科学与政策讨论。 https://www.ipbes.net/
 - **K. Lisa Yang Center for Conservation Bioacoustics** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室下属中心，开发录音设备、BirdNET 等 AI 工具和声音分析软件 Raven，通过聆听来监测大象、鲸、鸟类和森林。 https://www.birds.cornell.edu/ccb/
+- **Kapelica Gallery** (卢布尔雅那，斯洛文尼亚) — 卢布尔雅那的当代探索性艺术画廊，是最早展出生物艺术、机器人艺术和身体艺术的机构之一。 https://kapelica.org/
+- **KONTEJNER** (萨格勒布，克罗地亚) — 萨格勒布的当代艺术实践机构，策划 Touch Me 艺术节以及关于身体、科学与技术（包括生物艺术）的展览。 https://www.kontejner.org/
 - **Limelight Rainforest** (全球) — 2024 年 XPRIZE 雨林奖的冠军团队，结合树冠筏、无人机、录音设备和 AI 来清点雨林物种。 https://limelightrainforest.org/
+- **Living Architecture (EU project)** (纽卡斯尔，英国) — 欧盟资助的项目，建造了由微生物燃料电池构成的生物反应墙，可以净化水、发电并回应使用者。 https://livingarchitecture-h2020.eu/
+- **Mediamatic** (阿姆斯特丹，荷兰) — 阿姆斯特丹的艺术中心，设有生物技术实验室、发酵厨房和鱼菜共生温室，举办菌丝体和生物艺术工作坊。 https://www.mediamatic.net/
+- **Mediated Matter (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — Neri Oxman 在 MIT 媒体实验室的原研究组，与蚕、细菌和生物聚合物一起做设计，提出“材料生态学”；项目档案仍在线。 https://www.media.mit.edu/groups/mediated-matter/overview/
 - **Microsoft AI for Good Lab** (雷德蒙德，华盛顿州，美国) — 微软面向社会和环境问题的应用研究实验室。其生物多样性工作包括 PyTorch-Wildlife、用于红外相机图像的 MegaDetector，以及与伙伴合作的物种监测。 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
+- **Molecular Information Systems Lab (University of Washington)** (西雅图，美国) — 华盛顿大学与微软合作的实验室，搭建在 DNA 中存储和计算数据的系统。 https://misl.cs.washington.edu/
+- **Molecular Programming Project** (帕萨迪纳，美国) — 跨大学的研究计划，开发让 DNA 等分子进行计算和自组装的理论与工具。 http://molecular-programming.org/
 - **More-Than-Human Life (MOTH) Program, NYU Law** (纽约，美国) — 纽约大学法学院的一个项目，通过法律研究、战略诉讼支持和叙事，推动自然与非人类动物的权利。 https://www.mothlife.org/
+- **MU Hybrid Art House** (埃因霍温，荷兰) — 埃因霍温的艺术机构，展示艺术、设计与技术交界处的作品，常办生物技术与自然主题展览，并联合主办 Bio Art & Design Award。 https://mu.nl/
 - **Natural Capital Alliance (formerly Natural Capital Project, Stanford)** (斯坦福，加利福尼亚州，美国) — 由斯坦福大学牵头的合作组织，开发 InVEST 等免费工具，绘制自然给人类带来的益处，包括接触自然对心理健康的益处。 https://naturalcapitalalliance.stanford.edu/
 - **Naturalis Biodiversity Center** (莱顿，荷兰) — 荷兰国家自然历史博物馆和研究中心，也开发 AI 物种识别和自动化生物多样性监测（ARISE）。 https://www.naturalis.nl/
 - **Nature Connectedness Research Group (University of Derby)** (德比，英国) — 一个研究人与自然联结感及其对幸福感和亲自然行为影响的团队，提出了“通往自然联结的路径”。 https://www.derby.ac.uk/research/themes/zero-carbon/zero-carbon-nbs-research-centre/nature-connectedness-research-group/
+- **Nieuwe Instituut** (鹿特丹，荷兰) — 荷兰国家建筑、设计与数字文化机构，其研究和展览涉及生物基设计和超越人类的视角。 https://nieuweinstituut.nl/en
+- **Open BioLab Brussels** (布鲁塞尔，比利时) — 布鲁塞尔 Erasmus 应用科技大学的开放生物实验室，供学生、市民和创客进行生物技术实验。 https://www.erasmushogeschool.be/nl/labs/openbiolab
+- **Open Wetlab (Waag)** (阿姆斯特丹，荷兰) — Waag 的公共生物实验室，艺术家、设计师和市民在这里亲手操作生物技术，并讨论其社会问题。 https://waag.org/en/lab/open-wetlab/
 - **Planetary Personhood** (斯德哥尔摩，瑞典) — 由 Nonhuman Nonsense 工作室发起的项目，通过思辨设计、法律草案和公共活动，想象赋予地球和非人类存在法律人格。 https://planetarypersonhood.com/
 - **Potsdam Institute for Climate Impact Research (PIK)** (波茨坦，德国) — 德国的气候与地球系统科学研究所，领导行星边界科学实验室及其年度《行星健康检查》。 https://www.pik-potsdam.de/
+- **Qian Lab (Caltech)** (帕萨迪纳，美国) — Lulu Qian 在加州理工学院的实验室，构建能识别模式的 DNA 电路和分子神经网络。 http://qianlab.caltech.edu/
+- **Sculpting Evolution (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — Kevin Esvelt 在 MIT 媒体实验室的研究组，开发基因驱动和生态工程工具，并主张由社区公开参与相关决策。 https://www.media.mit.edu/groups/sculpting-evolution/overview/
 - **Smart Forests** (剑桥，英国) — 剑桥大学的研究项目，研究森林如何通过传感器、无人机和数据成为数字环境，以及这对政治与生态意味着什么。 https://smartforests.net/
 - **Stockholm Resilience Centre** (斯德哥尔摩，瑞典) — 斯德哥尔摩大学关于社会-生态系统与韧性的研究中心，以“行星边界”框架闻名。 https://www.stockholmresilience.org/
+- **SymbioticA (University of Western Australia)** (珀斯，澳大利亚) — 第一个让艺术家在生物系里亲手做实验的研究室，以“组织培养与艺术项目”和艺术家驻留闻名；网站现已存档。 https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/
+- **TextileLab Amsterdam (Waag)** (阿姆斯特丹，荷兰) — Waag 的开放纺织实验室，设计师在这里试验天然染料、细菌色素和生长材料。 https://waag.org/en/lab/textilelab/
+- **The Nature Lab (RISD)** (普罗维登斯，美国) — 罗德岛设计学院的自然史收藏和生物实验室，艺术与设计学生在这里研究标本并与活体系统合作。 https://naturelab.risd.edu/
 - **The Parliament of Things** (阿姆斯特丹，荷兰) — 一个受 Bruno Latour 启发的研究与活动平台，探讨动物、植物、河流和物如何在政治中获得发言权。它围绕北海、土壤和莱茵河的权利举办过多场会议。 https://theparliamentofthings.org/
+- **Transnatural** (阿姆斯特丹，荷兰) — 阿姆斯特丹的画廊与文化中心，展示融合自然与技术的艺术和设计，从生物材料到活体装置。 https://transnatural.org/
+- **Unconventional Computing Laboratory (UWE Bristol)** (布里斯托，英国) — Andrew Adamatzky 的实验室，用黏菌、真菌、化学反应等非常规介质做计算。 https://uncomp.uwe.ac.uk/
+- **Valldaura Labs (IAAC)** (巴塞罗那，西班牙) — IAAC 位于 Collserola 森林中的自给自足研究园区，学生在现场试验生物基建造、食物和能源系统。 https://valldaura.net/
+- **Waag Futurelab** (阿姆斯特丹，荷兰) — 阿姆斯特丹的技术与社会研究机构，运营 Open Wetlab、TextileLab、FabLab 等开放实验室，并举办生物技术与生态主题的公共项目。 https://waag.org/en/
+- **Wellcome Collection** (伦敦，英国) — 伦敦的免费博物馆和图书馆，主题是健康与生命，其展览常委托与生物学和医学合作的艺术家。 https://wellcomecollection.org/
+- **Wyss Institute for Biologically Inspired Engineering (Harvard)** (波士顿，美国) — 哈佛大学的研究所，把生物学原理转化为技术，涵盖器官芯片、DNA 纳米技术和工程化活体材料等。 https://wyss.harvard.edu/
+- **YCAM (Yamaguchi Center for Arts and Media)** (山口，日本) — 日本的艺术中心，其 YCAM Bio Research 项目设有生物实验室，举办食物和 DNA 工作坊，并委约与活体系统合作的作品。 https://www.ycam.jp/en/
 
 ### 非营利与倡导组织
 
@@ -17460,28 +17502,46 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Arribada Initiative** (英国) — 一个开源保护技术项目，设计低成本的动物标签、相机和传感器，最早从海龟追踪器做起。 https://arribada.org/
 - **Asociación ANDES (Potato Park)** (库斯科，秘鲁) — 秘鲁的一个原住民组织，共同创立了“马铃薯公园”，克丘亚社区在那里以生物文化遗产领地的方式保护数百种本土马铃薯品种。 https://andes.org.pe/
 - **Awana Digital (Mapeo)** (全球) — 一个非营利组织（前身为 Digital Democracy），与原住民社区一起开发 Mapeo 等离线开源工具，用于绘制和监测他们的领地。 https://www.awana.digital/
+- **Baltimore Underground Science Space (BUGSS)** (巴尔的摩，美国) — 巴尔的摩的社区实验室，为公众提供生物课程、iGEM 团队和艺术科学活动。 https://bugssonline.org/
 - **Bat Conservation Trust** (伦敦，英国) — 英国的蝙蝠保护慈善机构，运营全国蝙蝠监测计划，志愿者每年用探测器调查蝙蝠。 https://www.bats.org.uk/
+- **Bio Art Ethics (BEAK)** (线上) — 为生物艺术项目提供伦理评估和咨询的组织，弥补机构伦理审查的空白。 https://bioartethics.xyz/
+- **BioBricks Foundation** (旧金山，美国) — 倡导开放、标准化遗传元件的非营利组织，推出了开放材料转让协议等法律工具；原网站已停用。 https://en.wikipedia.org/wiki/BioBricks_Foundation
+- **BioCurious** (圣何塞，美国) — 旧金山湾区的社区生物实验室，会员在这里开展开放项目、课程和聚会。 https://biocurious.org/
+- **Biologigaragen** (哥本哈根，丹麦) — 哥本哈根的社区生物实验室，支持公民科学和开放生物技术项目。 http://biologigaragen.org/
+- **Biomimicry Institute** (米苏拉（蒙大拿州），美国) — 非营利组织，教设计师向自然的策略学习，运营 Ray of Hope 奖并出版 AskNature 数据库。 https://biomimicry.org/
+- **Bionyfiken** (斯德哥尔摩，瑞典) — 瑞典生物黑客协会，组织社区实验室活动、工作坊和聚会。 https://bionyfiken.se/
+- **BIOOK** (毕尔巴鄂，西班牙) — 巴斯克地区的社会企业和非营利组织，通过工作坊、套件和播客把 DIY 生物学带给普通市民。 https://biook.org/
+- **BosLab** (波士顿，美国) — 波士顿地区由志愿者运营的社区生物实验室，提供课程并支持会员项目。 https://www.boslab.org/
 - **Center for Democratic and Environmental Rights (CDER)** (美国) — 一个法律中心，协助政府、部落和社区起草自然权利法律。它开展“拥有自己的土地”、传粉者权利等项目，并维护自然权利法律库。 https://www.centerforenvironmentalrights.org/
 - **Center for Humans and Nature** (芝加哥，美国) — 一个非营利组织，汇集哲学家、科学家、艺术家和原住民思想者，通过文章、书籍和期刊 Minding Nature，探讨人类对彼此和对超越人类世界的责任。 https://humansandnature.org/
 - **Community Environmental Legal Defense Fund (CELDF)** (宾夕法尼亚州，美国) — 一家美国法律非营利组织，帮助社区通过承认自然权利的地方法律。它参与起草了美国第一部自然权利条例（Tamaqua，2006）并为厄瓜多尔 2008 年宪法提供咨询。 https://celdf.org/
+- **Counter Culture Labs** (奥克兰，美国) — 奥克兰的公民科学与生物黑客社区实验室，是 Real Vegan Cheese 和 Open Insulin 项目的发源地。 https://www.counterculturelabs.org/
 - **Crop Trust (Svalbard Global Seed Vault)** (波恩，德国) — 一个国际组织，资助基因库中的作物多样性保护，并支持斯瓦尔巴全球种子库，为种子做可保存数百年的备份。 https://www.croptrust.org/
 - **Cultural Survival** (剑桥，马萨诸塞州，美国) — 一个由原住民主导的非营利组织，支持原住民对土地、语言和文化的权利，运营社区广播，并资助原住民环境捍卫者。 https://www.culturalsurvival.org/
+- **DIYBCN Biohackers** (巴塞罗那，西班牙) — 巴塞罗那的生物黑客社群，开展 DIY 生物学开放工作坊和项目。 https://diybcn.org/
 - **Earth Law Center** (美国) — 一家非营利组织，起草并捍卫赋予河流、海洋和生态系统法律权利的法律，包括《河流权利普遍宣言》。它也为律师和学生提供地球法培训。 https://www.earthlawcenter.org/
 - **Earthwatch Institute** (波士顿，美国 / 牛津，英国) — 一个组织志愿者跟随科学家参与野外科研考察的非营利机构，开展 FreshWater Watch 和“迷你森林”等项目。 https://earthwatch.org/
 - **Embassy of the North Sea** (海牙，荷兰) — 一个“大使馆”，倾听北海的植物、动物和人，与它们对话并为它们谈判。它通过艺术、研究和法律，推动北海最终能代表自己。 https://www.embassyofthenorthsea.com/
 - **End Ecocide on Earth** (法国) — 一个公民运动，起源于 2013 年的欧洲公民倡议，推动把生态灭绝定为罪行，并承认生态系统的权利。 https://www.endecocide.org/en/
+- **Genspace** (纽约，美国) — 布鲁克林的社区生物实验室，最早的社区实验室之一，向公众提供课程、开放实验室和艺术科学项目。 https://www.genspace.org/
 - **Global Fishing Watch** (华盛顿，美国) — 一个非营利组织，利用卫星和船舶追踪数据发布免费的全球捕捞与船只活动地图，推动海洋透明。 https://globalfishingwatch.org/
 - **Greenspace Scotland** (斯特灵，苏格兰，英国) — 苏格兰的一家慈善机构，关注公园与绿地的质量及其与健康的关系，包括绿色健康伙伴关系和自然处方。 https://www.greenspacescotland.org.uk/
+- **Hackuarium** (勒南，瑞士) — 洛桑附近的瑞士社区实验室，从事 DIY 生物学、开源硬件和公民科学项目。 https://wiki.hackuarium.ch/w/Main_Page
 - **Indigenous Climate Action** (加拿大) — 加拿大一个由原住民主导的组织，把原住民知识与权利放在气候行动的中心，并培养社区气候领导者。 https://www.indigenousclimateaction.com/
 - **Indigenous Leadership Initiative** (加拿大) — 一个第一民族组织，支持加拿大的原住民守护者项目和原住民保护区。 https://www.ilinationhood.ca/
 - **International Living Future Institute** (西雅图，美国) — 一个运营“生命建筑挑战”的非营利组织。该建筑标准要求再生性、与自然相连的设计，其中包括亲生命设计要求。 https://living-future.org/
 - **International Rivers** (全球) — 一家保护河流及沿河社区、反对破坏性水坝的组织，也推动河流权利。它共同发起国际河流行动日。 https://www.internationalrivers.org/
 - **Lawyers for Nature** (英国) — 英国的一群律师，在决策中为自然发声，就自然权利、河流权利和“让自然进入董事会”的公司模式提供咨询。 https://www.lawyersfornature.com/
+- **London Biohackspace** (伦敦，英国) — 伦敦由志愿者运营的社区生物实验室，会员开展开放项目并举办工作坊。 https://biohackspace.org/
+- **Material Innovation Initiative** (旧金山，美国) — 非营利智库，发布关于新一代无动物材料（如菌丝体和微生物皮革）的研究和市场报告。 https://materialinnovation.org/
 - **Native Seeds/SEARCH** (图森，亚利桑那州，美国) — 一个种子库，保存美国西南部适应干旱的作物品种，并通过“原住民种子分享”项目把种子交还给原住民社区。 https://www.nativeseeds.org/
 - **Nature's Rights** (欧洲) — 一个推动法律承认自然权利的欧洲运动，起草过欧盟自然权利指令的提案。 https://www.natures-rights.org/
 - **NDN Collective** (拉皮德城，南达科他州，美国) — 一个由原住民主导的组织，资助并组织原住民社区，包括推动把土地交还原住民管护的 LANDBACK 运动。 https://ndncollective.org/
+- **New Harvest** (线上) — 非营利研究机构，资助细胞农业（用细胞培养生产动物产品）领域的开放公共研究。 https://www.new-harvest.org/
 - **Ngā Tāngata Tiaki o Whanganui (Te Awa Tupua)** (旺格努伊，新西兰) — 旺格努伊河和解协议的部落信托机构。2017 年的《Te Awa Tupua 法》使旺格努伊河成为法人，并由人类监护人代表河流发言。 https://www.ngatangatatiaki.co.nz/
 - **Nonhuman Rights Project** (美国) — 一家民权组织，通过人身保护令诉讼，为大象、黑猩猩等认知复杂的动物争取法律人格与自由。 https://www.nonhumanrights.org/
+- **Open Insulin Foundation** (奥克兰，美国) — 社区生物技术项目，开发开放的小规模生产方案，让胰岛素更便宜。 https://openinsulin.org/
+- **Open Science Network Society** (温哥华，加拿大) — 温哥华的非营利组织，拥有社区科学实验室，通过推广和导师计划让公众亲手做科学。 https://www.opensciencenet.org/
 - **Pachamama Alliance** (旧金山，美国 / 厄瓜多尔) — 应 Achuar 族领袖邀请成立的组织，保护亚马孙雨林，并帮助全球北方的人们重新思考与地球的关系。 https://pachamama.org/
 - **Park Rx America** (美国) — 一个帮助医生为病人开出“去公园和自然中待一段时间”处方并记录这些自然处方的非营利组织。 https://www.parkrx.org/
 - **Quiet Parks International** (全球) — 一个认证没有人为噪声污染的荒野、城市和海洋场所的非营利组织，以保护自然声景。 https://www.quietparks.org/
@@ -17493,10 +17553,12 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Saami Council** (萨普米（挪威、瑞典、芬兰、俄罗斯）) — 由四个国家的萨米组织组成的理事会，关注萨米人的权利、土地使用、驯鹿放牧和北极环境政策。 https://www.saamicouncil.net/
 - **Sensing Clues** (荷兰) — 一个荷兰非营利组织，开发用于预防野生动物犯罪和监测自然的开放工具，把野外观察和传感器数据变成共享的态势地图。 https://sensingclues.org/
 - **Shan Shui Conservation Center (山水自然保护中心)** (北京，中国) — 中国的一家自然保护组织，与中国西部的当地社区合作保护雪豹和大熊猫，并举办“自然观察节”。 http://www.shanshui.org/
+- **SoundBio Lab** (西雅图，美国) — 西雅图的社区生物实验室，提供工作坊、开放实验室夜和社区 iGEM 团队。 https://www.sound.bio/
 - **Stichting Rechten van de Natuur** (荷兰) — 一个荷兰基金会，推动荷兰承认自然的法律权利，包括为瓦登海等生态系统发起的运动。 https://rechtenvandenatuur.org/
 - **Stop Ecocide International** (荷兰 / 英国) — 一项推动把生态灭绝（对自然造成严重而广泛的破坏）列为国际罪行的运动。它在 2021 年召集专家小组起草了生态灭绝的法律定义。 https://www.stopecocide.earth/
 - **Te Hiku Media** (凯塔亚，新西兰) — 一家毛利媒体机构，自建毛利语语音 AI，并制定了让原住民数据由社区掌控的许可协议。 https://tehiku.nz/
 - **Te Uru Taumatua (Ngāi Tūhoe)** (Te Urewera，新西兰) — Ngāi Tūhoe 部落的管理机构。根据 2014 年《Te Urewera 法》，原国家公园 Te Urewera 成为法律主体，由 Tūhoe 依照自己的价值观共同治理。 https://www.ngaituhoe.iwi.nz/
+- **Terreform ONE** (纽约，美国) — 纽约的非营利建筑与生态设计实验室，用菌丝体、活植物和动物栖息地做原型。 https://www.terreform.org/
 - **The Frozen Ark** (诺丁汉，英国) — 由动物园、博物馆和实验室组成的联盟，保存濒危动物的 DNA 和活细胞，避免其遗传信息消失。 https://www.frozenark.org/
 - **The Gaia Foundation** (伦敦，英国) — 一家基金会，与非洲、南美和欧洲的原住民及地方社区合作，保护种子、神圣自然地和水源，并推广地球法理学。 https://www.gaiafoundation.org/
 - **The Long Now Foundation** (旧金山，美国) — 一个鼓励以未来一万年为尺度进行长期思考的基金会，项目包括万年钟、罗塞塔项目和系列讲座。 https://longnow.org/
@@ -17512,39 +17574,60 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Association for Advancing Participatory Sciences (formerly Citizen Science Association)** (美国) — 一个面向运营或研究公众参与科学项目人员的专业协会，出版期刊 Citizen Science: Theory and Practice。 https://participatorysciences.org/
 - **Australian Citizen Science Association** (澳大利亚) — 一个全国性网络，通过项目检索、工作组和会议支持澳大利亚的公民科学。 https://citizenscience.org.au/
 - **Australian Earth Laws Alliance (AELA)** (澳大利亚) — 澳大利亚的全国性网络，与原住民知识持有者合作，推广地球法理学和自然权利。它曾为大堡礁等生态系统举办公民法庭。 https://www.earthlaws.org.au/
+- **Bioart Society (SOLU)** (赫尔辛基，芬兰) — 赫尔辛基的协会，支持关于生命科学与生态的艺术，运营 SOLU 空间和位于 Kilpisjärvi 野外站的 Ars Bioarctica 驻留。 https://bioartsociety.fi/
+- **BioClub Tokyo** (东京，日本) — 东京的生物、艺术与设计社区实验室和聚会，与 Loftwork 和 FabCafe 合作创办。 https://bioclub.tokyo/
+- **Biofriction** (巴塞罗那，西班牙) — 由 Hangar、Kapelica 画廊、Bioart Society 和 Cultivamos Cultura 合作的欧洲项目，举办生物艺术和公民生物技术的驻留与活动；网站已存档。 https://biofriction.org/
+- **Biomaker** (剑桥，英国) — 剑桥的开源生物仪器项目，资助并记录面向生物学的低成本硬件项目。 https://biomaker.org/
 - **Biophilic Cities Network** (夏洛茨维尔，弗吉尼亚州，美国) — 一个城市与研究者网络，设在弗吉尼亚大学，致力于把日常接触自然作为城市规划的核心。 https://www.biophiliccities.org/
+- **Biotehna** (卢布尔雅那，斯洛文尼亚) — 与 Kapelica 画廊一起运营的开放平台，支持对活体系统的艺术研究，提供共享实验室、工作坊和驻留。 https://biotehna.org/
+- **BlueCity** (鹿特丹，荷兰) — 位于鹿特丹一座旧泳池里的循环经济中心，入驻多家生物材料初创公司，并设有做材料实验的 BlueCity Lab。 https://www.bluecity.nl/en
 - **Budburst** (芝加哥植物园，美国) — 芝加哥植物园的项目，公众记录植物何时长叶、开花、结果以及传粉者的造访，用于研究气候影响。 https://budburst.org/
+- **Build-a-Cell** (线上) — 开放的国际研究者社群，致力于用非生命组分构建合成活细胞。 https://www.buildacell.org/
 - **Children & Nature Network** (明尼阿波利斯，美国) — 由《林间最后的小孩》作者 Richard Louv 共同创立的网络，致力于让每个孩子每天都能接触自然，并维护一个关于自然与儿童健康的研究资料库。 https://www.childrenandnature.org/
+- **Community Biotechnology Initiative (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — MIT 媒体实验室的项目，支持全球的社区生物实验室，并召集“全球社区生物峰会”。 https://www.media.mit.edu/groups/community-bio/overview/
 - **ConservationDrones.org** (全球) — 一个分享如何制作和使用低成本无人机进行野生动物调查、森林测绘与保护的社群。 https://conservationdrones.org/
 - **Country Needs People** (澳大利亚) — 一个由澳大利亚原住民和托雷斯海峡岛民组织组成的联盟，倡导原住民护林员项目和原住民保护区。 https://www.countryneedspeople.org.au/
 - **Dark Mountain Project** (英国) — 一个作家和艺术家网络，始于 2009 年的《去文明化》宣言，出版在生态崩溃时代寻找新故事的书籍。 https://dark-mountain.net/
+- **DNA Data Storage Alliance (SNIA)** (线上) — 产业联盟，现隶属 SNIA，为在 DNA 中存储数字数据制定标准和路线图。 https://www.snia.org/groups/snia-dna-technology-affiliate
 - **Earth Charter International** (圣何塞，哥斯达黎加) — 推广《地球宪章》的机构。《地球宪章》是 2000 年发布的伦理原则宣言，倡导尊重生命共同体、公正、可持续与和平的全球社会。 https://earthcharter.org/
 - **Earth System Governance Project** (全球) — 一个全球研究网络，研究社会如何治理人与地球系统的关系，包括自然权利与行星正义方面的工作。 https://www.earthsystemgovernance.org/
+- **Engineering Biology Research Consortium (EBRC)** (埃默里维尔，美国) — 由研究者和公司组成的美国联盟，为工程生物学编写路线图和政策指南。 https://ebrc.org/
 - **European Citizen Science Association (ECSA)** (柏林，德国) — 一个会员制协会，连接欧洲的公民科学实践者，发布了“公民科学十项原则”，并每两年举办一次大会。 https://www.ecsa.ngo/
 - **Firesticks Alliance** (澳大利亚) — 一个由原住民主导的网络，在澳大利亚各地复兴文化燃烧，即用火照护土地的传统做法。 https://www.firesticks.org.au/
 - **Forest School Association** (英国) — 英国森林学校的专业组织。森林学校是一种长期户外学习方式，孩子们定期在林地中学习。 https://forestschoolassociation.org/
 - **Forest Therapy Society (森林セラピーソサエティ)** (东京，日本) — 日本的一个组织，认证“森林疗法基地”和“森林疗法步道”（经测量证实步行有放松效果的森林），并培训森林疗法向导。 https://www.fo-society.jp/
 - **FrogID (Australian Museum)** (悉尼，澳大利亚) — 澳大利亚博物馆的应用，公众录下蛙鸣，由专家鉴定，用于绘制蛙类分布并追踪其减少。 https://www.frogid.net.au/
 - **Future Earth** (全球) — 一个全球可持续性研究者网络，协调地球系统研究，并主办“地球委员会”，界定安全与公正的地球系统边界。 https://futureearth.org/
+- **Gathering for Open Science Hardware (GOSH)** (线上) — 推广开源科学硬件的全球社群，其中包括社区生物实验室常用的低成本实验工具。 https://openhardware.science/
+- **Genomic Pub** (首尔，韩国) — 韩国的生物学知识分享社群，面向初学者和专业人士，举办讲座和 DIY 生物活动。 https://genomicpubus.imweb.me/
 - **Global Alliance for the Rights of Nature (GARN)** (全球) — 一个全球网络，由致力于让自然权利写入法律的组织和个人组成。它主办国际自然权利法庭，并连接数百个成员团体。 https://www.garn.org/
+- **Global Biofoundry Alliance** (线上) — 全球公共生物铸造厂的联盟，共享工程生物学的自动化方法和标准。 https://www.biofoundries.org/
 - **Global Indigenous Data Alliance (GIDA)** (全球) — 一个原住民数据主权团体网络，发布了原住民数据治理 CARE 原则，在生物多样性和科研数据中与 FAIR 原则并用。 https://www.gida-global.org/
 - **Globe at Night** (图森，亚利桑那州，美国（NOIRLab）) — NOIRLab 发起的活动，人们通过数可见的星星来测量光污染。光污染同样威胁夜行动物、昆虫和人。 https://globeatnight.org/
 - **GLOBE Program (GLOBE Observer)** (全球（NASA 支持）) — 一个国际科学教育项目，学生和公众收集云、地表覆盖、树木和蚊子的数据，供 NASA 科学家使用。 https://www.globe.gov/
+- **Hackteria** (苏黎世，瑞士) — 开源生物艺术的全球网络，分享 DIY 实验工具、维基教程，并在欧洲和亚洲举办游牧式工作坊。 https://www.hackteria.org/
 - **Harmony with Nature (United Nations)** (纽约，美国) — 联合国的一个项目，追踪全球自然权利立法，并召集地球法理学专家组成知识网络。它每年就“与自然和谐相处”向联合国大会提交报告。 http://www.harmonywithnatureun.org/
+- **HONF Foundation (House of Natural Fiber)** (日惹，印度尼西亚) — 日惹的新媒体艺术实验室，以 Micronation/Macronation 生物技术项目和社区 DIY 科学闻名。 https://honf.org/
 - **ICCA Consortium** (全球) — 一个全球协会，支持由原住民和地方社区保护的领地和区域（ICCA），也称“生命的领地”。 https://www.iccaconsortium.org/
 - **iNaturalist** (奥克兰，加利福尼亚州，美国) — 一个全球社群和应用，人们分享植物、动物和真菌的照片，由其他用户和计算机视觉协助鉴定。这些观察记录通过 GBIF 进入科研。 https://www.inaturalist.org/
 - **Indigenous Environmental Network** (贝米吉，明尼苏达州，美国) — 一个原住民基层团体联盟，致力于环境与经济正义、保护圣地和地球母亲的权利。 https://www.ienearth.org/
 - **International Barcode of Life (iBOL)** (圭尔夫，加拿大) — 一个研究联盟，为所有多细胞生物建立 DNA 条形码库，使人们能从少量组织或环境样本中识别物种。 https://ibol.org/
+- **International Society for Artificial Life (ISAL)** (线上) — ALIFE 会议和《Artificial Life》期刊背后的学会，研究软件、硬件与湿件中的类生命行为。 https://alife.org/
 - **International Society of Nature and Forest Medicine (INFOM)** (东京，日本) — 一个研究森林与自然对健康影响的学术团体，例如森林浴对压力激素和免疫细胞的影响。 https://www.infom.org/
 - **iSpot** (米尔顿凯恩斯，英国（开放大学）) — 开放大学的一个社群，通过照片鉴定野生动物，旨在帮助初学者向专家学习鉴定。 https://www.ispotnature.org/
 - **Journey North** (威斯康星大学麦迪逊分校，美国) — 一个公民科学项目，根据公众目击记录绘制帝王蝶、蜂鸟等物种的季节迁徙地图。 https://journeynorth.org/
+- **Just One Giant Lab (JOGL)** (巴黎，法国) — 开放研究平台，由 La Paillasse 的创始人之一参与创办，把分散各地的志愿者连接起来共同解决科学问题。 https://www.jogl.network/
+- **Lifepatch** (日惹，印度尼西亚) — 日惹的艺术、科学与技术公民组织，与当地社区开展 DIY 生物、水质监测和发酵项目。 https://lifepatch.id/
 - **Monarch Watch** (堪萨斯大学，美国) — 堪萨斯大学的项目，志愿者为帝王蝶做标记，并种植马利筋建立“帝王蝶驿站”，支持它们迁徙。 https://monarchwatch.org/
 - **Mosquito Alert** (巴塞罗那，西班牙) — 一个公民科学应用和研究项目，人们拍摄蚊子和孳生地，帮助专家和 AI 追踪入侵和传病的蚊种。 https://www.mosquitoalert.com/
 - **NaturaLista (CONABIO)** (墨西哥城，墨西哥) — iNaturalist 在墨西哥的国家节点，由生物多样性委员会 CONABIO 运营，拥有拉丁美洲最大的观察者社群之一。 https://www.naturalista.mx/
 - **Nature's Calendar (Woodland Trust)** (英国) — 林地信托的物候项目，志愿者记录季节信号（如第一片叶子、第一只燕子），追踪气候变化。 https://naturescalendar.woodlandtrust.org.uk/
 - **Netzwerk Rechte der Natur** (德国) — 一个德语网络，在德国、奥地利和瑞士推动自然权利，并收集相关法律文本和新闻。 https://www.rechte-der-natur.de/
+- **Next Nature** (阿姆斯特丹，荷兰) — 阿姆斯特丹的机构，通过展览、思辨项目和公共讨论，探讨技术如何成为“下一种自然”。 https://nextnature.org/en
 - **Nordic Alliance for the Rights of Nature (Nature & Democracy)** (北欧) — 一个北欧平台，致力于改变人们对自然的法律与文化理解，推动瑞典、挪威、芬兰、丹麦和冰岛承认自然权利。 https://natureanddemocracy.org/
+- **Open Fung** (线上) — 围绕真菌的艺术与科学网络，出版刊物、组织活动，并与 Biodesign Challenge 合作开设真菌赛道。 https://www.openfung.org/
 - **Orcasound** (萨利希海，美国 / 加拿大) — 萨利希海的一个水听器网络，直播水下声音，让公众聆听濒危的南方居留型虎鲸，并协助标注它们的叫声。 https://www.orcasound.net/
+- **Organoid Intelligence (OI) Community** (巴尔的摩，美国) — 类器官智能研究的社群网站，列出创始研究者与资源，并主办国际类器官智能会议。 https://organoidintelligence.org/
 - **Pl@ntNet** (蒙彼利埃，法国) — 法国的科研联盟与应用，用 AI 从照片识别植物，同时收集观察数据，帮助植物学家绘制植物多样性地图。 https://plantnet.org/
 - **Planetary Health Alliance** (巴尔的摩，美国（约翰斯·霍普金斯大学）) — 一个由数百所大学和机构组成的联盟，研究人类健康如何依赖地球自然系统的健康。 https://www.planetaryhealthalliance.org/
 - **Project FeederWatch** (伊萨卡，美国 / 加拿大) — 由康奈尔鸟类学实验室和加拿大鸟类组织开展的冬季调查，人们统计自家后院喂食器旁的鸟类。 https://feederwatch.org/
@@ -17552,7 +17635,11 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Reef Check** (玛丽安德尔湾，加利福尼亚州，美国) — 一个国际项目，培训志愿潜水员用统一方法调查珊瑚礁和海藻林的健康状况。 https://www.reefcheck.org/
 - **Rights of Nature Philippines** (菲律宾) — 一个联盟，推动菲律宾通过《自然权利法》，并推动承认生态系统权利的地方法规。 https://rightsofnature.org.ph/
 - **River Rights Network (UK)** (英国) — 一个英国网络，由河流团体、倡导者和合作社组成，推动河流权利进入英国法律。它在 AHRC 资助下举办“河流相会”工作坊。 https://www.riverrights.org/
+- **S+T+ARTS** (布鲁塞尔，比利时) — 欧盟委员会的“科学、技术与艺术”计划，资助驻留、奖项和区域中心，让艺术家与研究者合作。 https://starts.eu/
+- **SciArt Initiative** (纽约，美国) — 非营利组织，通过驻留、公开征集、展览和线上社群把科学家与艺术家联系起来。 https://www.sciartinitiative.org/
+- **Science Gallery Network** (都柏林，爱尔兰) — 由大学支持的画廊网络（亚特兰大、班加罗尔、伦敦、墨尔本、蒙特雷等），面向年轻人举办艺术与科学展览。 https://sciencegallery.org/
 - **SMART Conservation Tools** (全球) — 由多家保护组织组成的伙伴关系，维护 SMART 免费软件。全球一千多个保护区用它规划护林员巡逻、记录野生动物和威胁。 https://smartconservationtools.org/
+- **SynBio Africa** (坎帕拉，乌干达) — 通过培训、研究和政策对话在非洲建设合成生物学能力的组织。 https://synbioafrica.com/
 - **Te Mana Raraunga (Māori Data Sovereignty Network)** (新西兰) — 一个由毛利研究者和从业者组成的网络，制定毛利人掌控关于其人民、土地和珍宝（包括环境数据）的数据的原则。 https://www.temanararaunga.maori.nz/
 - **Tela Botanica** (蒙彼利埃，法国) — 一个法语植物学网络，拥有数万名成员，分享植物观察、在线课程和协作编写的植物志。 https://www.tela-botanica.org/
 - **The Buffalo Treaty** (黑脚联盟，美国 / 加拿大) — 由美国和加拿大多个原住民族签署的条约，旨在让野牛重返草原，把野牛视为亲属和伙伴。 https://www.buffalotreaty.com/
@@ -17567,6 +17654,10 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 ### 资助与奖项
 
+- **Bio Art & Design Award (BAD Award)** (埃因霍温，荷兰) — 荷兰奖项，让年轻艺术家和设计师与荷兰生命科学实验室结对，资助新作品并在 MU Hybrid Art House 展出。 https://badaward.nl/
+- **Prix Ars Electronica** (林茨，奥地利) — 历史悠久的媒体艺术奖项，其“混合艺术”和“人工生命与智能”类别表彰过许多重要的生物艺术作品。 https://ars.electronica.art/prix/en/
+- **S+T+ARTS Prize** (林茨，奥地利) — 欧盟委员会委托 Ars Electronica 运营的奖项，表彰科学、技术与艺术的合作，获奖者中不少是生物相关项目。 https://starts-prize.aec.at/en/
+- **Schering Stiftung** (柏林，德国) — 柏林的基金会，支持艺术与科学，为与生命科学合作的艺术家提供展览和奖项。 https://scheringstiftung.de/de/
 - **The Earthshot Prize** (伦敦，英国) — 一项年度奖项，每年为恢复自然、净化空气、复兴海洋、减少废弃物和应对气候的五个方案各颁发 100 万英镑。 https://earthshotprize.org/
 - **XPRIZE Rainforest** (全球) — 一项奖金 1000 万美元的竞赛，参赛团队用无人机、环境 DNA、声音和 AI 快速调查雨林生物多样性。决赛于 2024 年在亚马孙举行。 https://www.xprize.org/prizes/rainforest
 
@@ -17574,54 +17665,91 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 - **Anthropocene Curriculum (HKW / Max Planck Institute for the History of Science)** (柏林，德国) — 世界文化宫与马克斯·普朗克科学史研究所的长期合作项目，通过研习营、田野工作和线上档案，发展关于人类世的实验性教育。 https://www.anthropocene-curriculum.org/
 - **Association of Nature and Forest Therapy Guides and Programs (ANFT)** (美国) — 一个培训和认证森林疗愈向导的组织，把日本的“森林浴”改编为有引导的感官漫步。 https://anft.earth/
+- **BioBuilder Educational Foundation** (剑桥（马萨诸塞州），美国) — 把合成生物学带进高中的非营利组织，提供教师培训、教材和实验活动。 https://biobuilder.org/
+- **Biodesign Challenge** (纽约，美国) — 面向艺术、设计与科学专业学生的国际项目：学生用一个学期以生物技术为材料做设计，每年在峰会上展示并评奖。 https://www.biodesignchallenge.org/
+- **BioHack Academy (Waag)** (阿姆斯特丹，荷兰) — Waag 开设的课程，学员自己动手制作开源生物实验室设备，并学习培养和改造生物。 https://waag.org/en/project/biohack-academy/
+- **CHEMARTS (Aalto University)** (埃斯波，芬兰) — 阿尔托大学化学与设计学生的合作项目，为木基及其他生物材料开发新用途。 https://chemarts.aalto.fi/
+- **Cultivamos Cultura** (圣路易斯，葡萄牙) — Marta de Menezes 在葡萄牙乡村创办的艺术与科学中心，提供驻留、生物实验室和生物艺术工作坊。 https://cultivamoscultura.com/
+- **Fabricademy** (巴塞罗那，西班牙) — 分布在 Fab Lab 网络中的纺织与技术课程，内容包括生物制造材料、生物染料和可穿戴设备。 https://textile-academy.org/
+- **How To Grow (Almost) Anything** (剑桥（马萨诸塞州），美国) — MIT 的合成生物学课程，全球各地可远程节点参与，教学生用活体生物进行设计和建造。 https://htgaa.org/
+- **iGEM Foundation** (巴黎，法国) — 国际基因工程机器大赛的主办方，每年学生团队设计合成生物学项目参赛。 https://igem.org/
+- **IndieBio** (旧金山，美国) — SOSV 旗下的生物技术初创加速器，资助过许多生物材料、食品和合成生物学公司。 https://indiebio.co/
+- **Institute for Postnatural Studies** (马德里，西班牙) — 马德里的艺术研究中心，通过课程、驻留和出版物反思“后自然”时代的自然观念。 https://instituteforpostnaturalstudies.org/
+- **MA Art and Science (Central Saint Martins)** (伦敦，英国) — 中央圣马丁学院的硕士课程，面向在艺术与科学研究（包括生物学和生态学）之间工作的艺术家。 https://www.arts.ac.uk/subjects/fine-art/postgraduate/ma-art-and-science-csm
+- **MA Biodesign (Central Saint Martins)** (伦敦，英国) — 中央圣马丁学院的硕士课程，学生在湿实验室里与科学家合作，以活体系统设计再生性的产品与材料。 https://www.arts.ac.uk/subjects/textiles-and-materials/postgraduate/ma-biodesign-csm
+- **Materiability Research Network** (线上) — Manuel Kretzer 创办的教育平台与网络，关注智能材料和生物材料，提供开放教程和学生项目。 https://materiability.com/
 - **Schumacher College** (达廷顿，德文郡，英国) — 位于达廷顿庄园的学院，通过整体的、立足土地的学习，教授生态学、再生设计和生态经济学。 https://www.schumachercollege.org.uk/
 - **Serpentine Ecologies / Back to Earth** (伦敦，英国) — 蛇形画廊的长期生态项目，邀请艺术家、建筑师和思想者针对气候与生态紧急状况提出方案和行动。 https://www.serpentinegalleries.org/art-and-ideas/back-to-earth-can-i-get-back-to-you/
+- **SVA Bio Art Lab** (纽约，美国) — 纽约视觉艺术学院内的生物实验室，艺术学生在这里与活体材料合作，由生物艺术先驱 Suzanne Anker 创办。 https://bioart.sva.edu/
 - **Wild & Legal** (法国) — 一个法国项目，让学生为具体的生态系统（如河流和森林）起草赋予其权利的公民法律提案。 https://wildlegal.eu/
 
 ### 会议与活动系列
 
+- **Ars Electronica** (林茨，奥地利) — 位于林茨的艺术、技术与社会节展、博物馆和实验室，每年的艺术节常展出生物艺术、合成生物学和活体机器作品。 https://ars.electronica.art/news/en/
 - **Audubon Christmas Bird Count** (美洲) — 持续时间最长的公民科学调查，自 1900 年起每年冬季举行，志愿者在美洲各地固定的圆形区域内统计鸟类。 https://www.audubon.org/conservation/science/christmas-bird-count
 - **Big Butterfly Count** (英国) — 英国蝴蝶保护协会组织的夏季调查，公众用 15 分钟统计蝴蝶和日行蛾类。 https://bigbutterflycount.butterfly-conservation.org/
+- **BIO – Biennial of Design Ljubljana** (卢布尔雅那，斯洛文尼亚) — 欧洲历史最悠久的设计双年展之一，由建筑与设计博物馆主办，近年各届聚焦生态、食物和活体材料。 https://www.bio.si/
+- **Biofabricate** (纽约，美国) — 由 Suzanne Lee 创办，每年举办峰会，并运营一个面向生物生长材料的产业网络和生物材料学习网站。 https://www.biofabricate.co/
+- **Biohacking Village** (拉斯维加斯，美国) — 在 DEF CON 大会举办的非营利社群和活动，关注生物黑客、医疗设备安全和开放生物学。 https://www.villageb.io/
 - **City Nature Challenge** (全球) — 一年一度的生物快速调查，全球城市比赛在四天内于 iNaturalist 上记录最多的城市野生生物。 https://www.citynaturechallenge.org/
+- **Global Community Bio Summit** (剑桥（马萨诸塞州），美国) — 每年举办的峰会，最初在 MIT 媒体实验室举行，汇聚全球社区生物实验室、生物黑客和生物艺术家。 https://www.biosummit.org/
 - **International Rights of Nature Tribunal** (全球) — 由 GARN 召集的民间法庭，依据《地球母亲权利普遍宣言》审理亚马孙、大堡礁等生态系统受损的案件。 https://www.rightsofnaturetribunal.org/
+- **ISNSCE and the DNA Computing Conference** (线上) — 每年举办“DNA 计算与分子编程国际会议”的学会。 https://isnsce.org/
+- **Living Machines Conference** (线上) — 每年举办的国际会议，关注仿生与生物混合系统，从仿生机器人到活体与人工的混合体。 https://livingmachinesconference.eu/2025/
 - **RSPB Big Garden Birdwatch** (英国) — 英国一年一度的调查，数十万人花一小时统计自家花园或附近公园的鸟类。 https://www.rspb.org.uk/whats-happening/big-garden-birdwatch
+- **SynBioBeta** (旧金山，美国) — 合成生物学初创公司与投资者的主要行业会议和社群。 https://www.synbiobeta.com/
 
 ### 期刊、播客与报告
 
 - **Atmos** (纽约，美国) — 一本气候与文化杂志，以鲜明的视觉风格发表关于生态、原住民知识和超越人类关系的故事。 https://atmos.earth/
+- **BioDesigned** (线上) — Biodesign Challenge 社群的在线杂志，刊发关于设计、艺术和产业中生物学的文章、访谈与新闻。 https://biodesigned.org/
+- **Biotechnology Design (Cambridge University Press)** (剑桥，英国) — 开放获取期刊，原名 Research Directions: Biotechnology Design，发表设计与生物技术交叉领域的研究。 https://www.cambridge.org/core/journals/biotechnology-design
 - **Emergence Magazine** (线上) — 一本线上及印刷杂志，发表关于生态、文化与灵性的文章、影片和音频故事，常以原住民和关系性的世界观为中心。 https://emergencemagazine.org/
 - **For The Wild** (美国) — 一个播客与媒体项目，围绕土地、再野化、原住民抵抗和超越人类世界展开对话。 https://forthewild.world/
 - **Future Ecologies** (温哥华，加拿大) — 一档纪录片式播客，通过关于生态、土地与设计的故事，探索人与自然其他部分的关系。 https://www.futureecologies.net/
+- **GROW by Ginkgo** (波士顿，美国) — Ginkgo Bioworks 出版的杂志，委约作家和艺术家撰写关于生物技术及其未来的文章、小说和艺术作品。 https://www.growbyginkgo.com/
+- **International Journal of Unconventional Computing** (费城，美国) — 发表用物理、化学和生物系统进行计算研究的期刊，由 Andrew Adamatzky 主编。 https://www.oldcitypublishing.com/journals/ijuc-home/
+- **Leonardo / ISAST** (旧金山，美国) — 非营利组织，出版 Leonardo 期刊（MIT Press）并举办 LASER 讲座，自 1968 年起是艺术与科学（包括生物艺术）的重要论坛。 https://leonardo.info/
+- **Makery** (巴黎，法国) — 双语在线媒体，报道实验室、创客、DIY 生物学和艺术与科学，关注全球的黑客空间与社区实验室。 https://www.makery.info/en/
 - **Mongabay** (全球) — 一个非营利环境新闻机构，用多种语言报道森林、海洋、野生动物和原住民土地，并设有保护技术专题。 https://www.mongabay.com/
+- **Natural Computing (Springer)** (线上) — Springer 期刊，关注受自然启发或借助自然完成的计算，包括 DNA、分子和细胞计算。 https://link.springer.com/journal/11047
 - **Noema Magazine** (洛杉矶，美国) — 伯格鲁恩研究所出版的杂志，关注哲学、治理、技术与地球，发表关于非人类智能、行星思维和生态的文章。 https://www.noemamag.com/
 - **Orion Magazine** (北安普顿，马萨诸塞州，美国) — 一本无广告的自然、文化与地方杂志，刊登 Robin Wall Kimmerer、Barry Lopez 等作者关于人与自然关系的写作。 https://orionmagazine.org/
+- **SciArt Magazine** (线上) — 报道与科学合作的艺术家的在线杂志，按月发布主题刊和访谈。 https://www.sciartmagazine.com/
 
 ### 目录、档案与数据集
 
 - **Allen Coral Atlas** (线上) — 利用卫星图像绘制的全球浅海珊瑚礁地图，并监测珊瑚白化，供珊瑚礁管理者和科学家使用。 https://allencoralatlas.org/
 - **Arbimon** (线上（Rainforest Connection）) — Rainforest Connection 推出的免费云平台，用于存储、分析和分享生态声学录音，提供物种识别和声景分析工具。 https://arbimon.org/
+- **AskNature** (线上) — Biomimicry Institute 的免费在线库，收录生物策略与仿生设计案例，可按功能检索。 https://asknature.org/
 - **Atlas of Living Australia** (堪培拉，澳大利亚) — 澳大利亚国家生物多样性数据库，整合博物馆、植物标本馆和公民科学的记录，覆盖十万多个物种。 https://www.ala.org.au/
 - **BirdNET** (伊萨卡，美国 / 开姆尼茨，德国) — 康奈尔鸟类学实验室与开姆尼茨工业大学开发的免费 AI 工具，可通过声音识别数千种鸟类，既用于手机应用，也用于大型声学监测项目。 https://birdnet.cornell.edu/
 - **China Bird Report (中国观鸟记录中心)** (中国) — 中国主要的在线鸟类记录数据库，观鸟者在这里提交观鸟记录，用于鸟类分布和保护研究。 http://www.birdreport.cn/
 - **CitSci.org** (科罗拉多州立大学，美国) — 科罗拉多州立大学的免费平台，任何人都可以用它设计和运营公民科学项目，从数据表到分析一应俱全。 https://citsci.org/
 - **Conservation Evidence** (剑桥，英国) — 剑桥大学的免费数据库，汇总保护行动中哪些有效、哪些无效的科学证据。 https://www.conservationevidence.com/
+- **DIYbio.org** (线上) — DIY 生物学运动的发起网络，提供邮件列表和安全讨论，并维护全球本地小组目录。 https://diybio.org/local/
 - **EarthRanger (Ai2)** (西雅图，美国) — 艾伦人工智能研究所提供的免费软件，让保护区管理者在一张实时地图上看到护林员、佩戴项圈的动物、传感器和事件。 https://www.earthranger.com/
 - **eBird** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室的平台，观鸟者提交所见鸟类的清单，形成了全球最大的生物多样性数据集之一。 https://ebird.org/home
 - **Eco Jurisprudence Monitor** (线上) — 一个可检索的全球地图和数据库，收录自然权利的法律、判决、政策和倡议，与 GARN 和学术伙伴共同维护。 https://ecojurisprudence.org/
 - **FathomNet** (莫斯兰丁，加利福尼亚州，美国) — 由 MBARI 牵头的开放海洋生物标注图像库，用于训练能识别水下视频中深海动物的 AI。 https://www.fathomnet.org/
+- **Future Materials Bank** (马斯特里赫特，荷兰) — 开放的在线数据库，收录艺术家和设计师开发的可持续与实验性材料，由马斯特里赫特的 Jan van Eyck Academie 发起。 https://www.futurematerialsbank.com/
 - **GBIF (Global Biodiversity Information Facility)** (哥本哈根，丹麦) — 一个国际网络和开放数据基础设施，免费提供来自博物馆、调查和公民科学的数十亿条物种分布记录。 https://www.gbif.org/
 - **Global Forest Watch** (华盛顿，美国（WRI）) — 世界资源研究所的开放平台，展示卫星近实时的森林砍伐警报，让任何人都能监测森林。 https://www.globalforestwatch.org/
 - **Happywhale** (圣克鲁斯，加利福尼亚州，美国) — 一个平台，赏鲸者上传鲸尾照片，由 AI 匹配到座头鲸等鲸的个体，从而追踪它们跨越海洋的旅程。 https://happywhale.com/
+- **iGEM Registry of Standard Biological Parts** (线上) — 开放的标准化遗传元件（BioBricks）库，由 iGEM 团队贡献并使用。 https://parts.igem.org/Main_Page
 - **iRecord** (英国（UKCEH 生物记录中心）) — 英国分享野生动物目击记录的网站和应用，记录由专家核验，用于全国物种图集。 https://irecord.org.uk/
 - **IUCN Red List of Threatened Species** (全球) — 全球关于动物、真菌和植物灭绝风险的主要信息来源，已评估超过 16 万个物种。 https://www.iucnredlist.org/
 - **Local Contexts** (全球) — 一个倡议，提供“传统知识标签”和“生物文化标签”，原住民社区可把这些数字标签附在数据、样本和藏品上，以声明权利与来源。 https://localcontexts.org/
 - **Macaulay Library** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室的野生动物声音、照片和视频档案库，收藏数千万个媒体文件，大部分由观鸟者通过 eBird 贡献。 https://www.macaulaylibrary.org/
 - **Map of Life** (耶鲁大学，美国) — 由耶鲁大学主导的平台，绘制 45 万多个物种的分布，并为各国和保护区追踪生物多样性指标。 https://mol.org/
+- **MaterialDistrict** — 在线材料平台，每年在鹿特丹办展会，收录各类创新材料，其中生物基和生长材料占很大比例。 https://materialdistrict.com/
+- **Materiom** (伦敦，英国) — 开放数据平台，公开用本地丰富生物质制作生物材料的配方和性能数据，方便各地社区自行制作和测试。 https://www.materiom.org/
 - **Movebank** (康斯坦茨，德国) — 由马克斯·普朗克动物行为研究所托管的免费动物追踪数据库，收录数千个物种的数十亿个 GPS 定位点。 https://www.movebank.org/
 - **Native Land Digital** (加拿大) — 一个由原住民主导的非营利组织，绘制全球原住民领地、语言和条约的地图，让人们了解自己生活在谁的土地上。 https://native-land.ca/
 - **NatureServe** (阿灵顿，弗吉尼亚州，美国) — 美洲生物多样性数据中心的网络，追踪物种和生态系统的状况，服务保护规划。 https://www.natureserve.org/
 - **OBIS (Ocean Biodiversity Information System)** (奥斯坦德，比利时（UNESCO-IOC）) — 联合国教科文组织的全球开放获取海洋物种分布数据库，整合了数千个数据集。 https://obis.org/
 - **Observation.org (Waarneming.nl)** (荷兰) — 起源于荷兰的自然记录平台，配有 ObsIdentify 应用，人们在上面记录所有物种的目击情况，在欧洲广泛使用。 https://observation.org/
+- **OpenWetWare** (线上) — 生物学者和社区实验室公开分享实验方案、实验记录和课程材料的维基网站。 https://openwetware.org/wiki/Main_Page
 - **Protected Planet (UNEP-WCMC)** (剑桥，英国) — 全球保护地及其他有效区域保护措施的官方数据库，由 UNEP-WCMC 与 IUCN 共同维护。 https://www.protectedplanet.net/
 - **Restor** (苏黎世，瑞士) — 一个开放平台，源自苏黎世联邦理工学院 Crowther 实验室，生态修复项目可在上面标注地点并分享生物多样性、土壤和碳数据。 https://restor.eco/
 - **SciStarter** (美国) — 一个可检索的公民科学项目目录，收录数千个项目，并提供帮助人们参与、记录和获得认可的工具。 https://scistarter.org/
@@ -17631,17 +17759,56 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 ### 公司与工作室
 
+- **3Brain** — 生产高密度 CMOS 微电极阵列的公司，用于记录神经培养物、类器官和视网膜。 https://www.3brain.com/
+- **Amino Labs** (蒙特利尔，加拿大) — 为学校和公众制作入门级基因工程套件和迷你实验室的公司。 https://amino.bio/
+- **AMSilk** (普拉内格，德国) — 德国生物技术公司，通过发酵生产蜘蛛丝蛋白，用于纺织、化妆品和医疗涂层。 https://www.amsilk.com/
+- **Bento Lab** (伦敦，英国) — 伦敦公司，生产集 PCR、离心机和凝胶电泳于一体的便携 DNA 实验室，用于教学和野外工作。 https://bento.bio/
+- **Biobased Creations** (阿姆斯特丹，荷兰) — 荷兰设计机构，通过展览和展馆（如“循环与生物基建筑大使馆”）向公众展示生物基材料。 https://biobasedcreations.com/
+- **Biofaction** (维也纳，奥地利) — 维也纳的研究与科学传播公司，开展合成生物学、异种生物学与艺术相关项目，包括 Bio:Fiction 电影节。 https://www.biofaction.com/
+- **Biohm** (伦敦，英国) — 以研究为主导的公司，用菌丝体生长保温材料、用食物垃圾制作建筑板材，服务于循环建筑业。 https://www.biohm.co.uk/
+- **Biomason** (达勒姆（北卡罗来纳州），美国) — 公司在常温下用细菌生长水泥砖和建筑产品，代替高温烧制的水泥。 https://biomason.com/
 - **Biome (いきものコレクション)** (京都，日本) — 一家日本公司，其 Biome 应用把物种观察变成带 AI 识别的收集游戏，为企业和地方政府生成生物多样性数据。 https://biome.co.jp/
 - **Biome Makers** (加利福尼亚州，美国 / 西班牙) — 一家对土壤微生物组进行测序的公司，通过 BeCrop 检测让农民了解土壤生命与健康状况。 https://biomemakers.com/
+- **Biomemory** (巴黎，法国) — 法国公司，开发面向数据中心的 DNA 数据存储设备，采用生物方式生产 DNA。 https://www.biomemory.com/
+- **Blast Studio** (伦敦，英国) — 伦敦设计工作室，用在废弃咖啡杯等垃圾上生长的菌丝体 3D 打印物件和柱子。 https://www.blast-studio.com/
+- **Bolt Threads** (埃默里维尔（加州），美国) — 以生物工程蜘蛛丝蛋白和菌丝体皮革 Mylo 闻名的材料公司，现主要做生物基美妆成分。 https://boltthreads.com/
+- **Colorifix** (诺里奇，英国) — 利用工程微生物生产染料并把颜色固定在织物上的公司，减少染色过程的用水和化学品。 https://www.colorifix.com/
 - **Conservation X Labs** (美国) — 一家保护创新公司，开发 Sentinel AI 红外相机设备等工具，并举办开放创新奖。Wild Me 及其 Wildbook 平台于 2024 年并入该公司。 https://conservationxlabs.com/
+- **Cortical Labs** (墨尔本，澳大利亚) — 墨尔本公司，在芯片上培养人类神经元；其 DishBrain 学会了玩 Pong，并推出 CL1 生物计算机。 https://corticallabs.com/
+- **ecoLogicStudio** (伦敦，英国) — 建筑与城市设计工作室，建造光生物反应器和藻类结构，在城市中捕获碳。 https://www.ecologicstudio.com/
+- **Ecovative** (格林岛（纽约州），美国) — 菌丝体材料的先行者，用真菌菌丝体生长包装、泡沫材料和替代肉，并对外授权工艺。 https://ecovative.com/
+- **Faber Futures** (伦敦，英国) — Natsai Audrey Chieza 的生物设计工作室，以用链霉菌给织物染色闻名，也为生物技术与设计提供战略咨询。 https://faberfutures.com/
+- **FinalSpark** (沃韦，瑞士) — 瑞士公司，在电极阵列上运行脑类器官，并通过 Neuroplatform 提供远程访问。 https://finalspark.com/
+- **Glowee** (巴黎，法国) — 法国公司，用海洋发光细菌制造光源，用于公共照明和装置。 https://glowee.com/
+- **Grown.bio** (奥斯特豪特，荷兰) — 荷兰公司，生长菌丝体包装和材料，并把工艺授权给当地生产者。 https://www.grown.bio/
 - **Hack the Planet** (荷兰) — 一家荷兰技术工作室，开发坚固的 AI 红外相机和传感器，实时提醒社区大象、熊或偷猎者的出现。 https://www.hack-the-planet.io/
+- **Huue** (伯克利（加州），美国) — 初创公司，用工程微生物生产靛蓝等纺织染料，不需要石化原料和有毒还原剂。 https://huue.bio/
 - **Internet of Elephants** (内罗毕，肯尼亚) — 一家肯尼亚社会企业，把真实的野生动物追踪和研究数据变成游戏、故事和数字体验，让人们与动物个体建立联系。 https://internetofelephants.com/
+- **Keel Labs** (达勒姆（北卡罗来纳州），美国) — 原名 AlgiKnit 的公司，用海带提取的海藻酸盐纺纱，用于针织和纺织品。 https://www.keellabs.com/
+- **Koniku** — 把活细胞和硅芯片结合在一起制造传感设备的公司，目标是嗅出爆炸物和疾病。 https://koniku.com/
+- **Light Bio** (凯彻姆（爱达荷州），美国) — 销售转基因发光植物的公司，首款产品为 Firefly Petunia，利用了真菌的生物发光通路。 https://light.bio/
+- **Living Ink Technologies** (奥罗拉（科罗拉多州），美国) — 用藻类制作印刷油墨和颜料的公司，首个产品是碳负排放的黑色油墨。 https://www.livingink.co/
+- **Made of Air** (柏林，德国) — 柏林公司，把生物质制成以生物炭为基础的热塑性材料，将碳封存在建筑立面、家具和汽车中。 https://www.madeofair.com/
+- **MaterialDriven** (伦敦，英国) — 伦敦的材料咨询机构，同时有展厅和线上材料库，向设计师和品牌推广新材料，其中许多是生物基材料或由废料制成。 https://www.materialdriven.com/
+- **MaxWell Biosystems** (苏黎世，瑞士) — 瑞士高密度微电极阵列制造商，其设备用于记录和刺激神经元与类器官，也用于生物计算研究。 https://www.mxwbio.com/
+- **Modern Meadow** (纳特利（新泽西州），美国) — 以蛋白质为基础设计时尚与美妆材料的生物技术公司，最早以实验室培育皮革闻名。 https://www.modernmeadow.com/
+- **Modern Synthesis** (伦敦，英国) — 伦敦公司，让细菌把纳米纤维素“织”在纱线骨架上，生长出纺织材料。 https://www.modernsynthesis.com/
+- **Mogu** (伊纳尔佐，意大利) — 意大利公司，用真菌菌丝体和农业废料生长吸音板和地板。 https://mogu.bio/
+- **MYCL (Mycotech Lab)** (万隆，印度尼西亚) — 印度尼西亚公司，用农业废料生长 Mylea 菌丝皮革和无胶板材。 https://mycl.bio/
 - **NatureMetrics** (伦敦，英国) — 一家通过水和土壤样本中的环境 DNA 测量生物多样性的公司，客户包括企业、政府和保护组织。 https://www.naturemetrics.com/
 - **Nonhuman Nonsense** (斯德哥尔摩，瑞典) — 一家以研究为导向的设计与艺术工作室，创作关于非人类权利和行星人格的近未来虚构作品，如《行星人格》。 https://nonhuman-nonsense.com/
+- **Notpla** (伦敦，英国) — 伦敦公司，用海藻和植物制作包装，包括可食用饮料胶囊和外卖盒涂层。 https://www.notpla.com/
+- **Officina Corpuscoli** (阿姆斯特丹，荷兰) — Maurizio Montalti 的设计研究工作室，与真菌等活体系统合作，重新思考材料与生产。 https://www.corpuscoli.com/
 - **Open Acoustic Devices (AudioMoth)** (南安普顿，英国) — AudioMoth 的制造者。这是一款低成本开源录音设备，研究者和公民科学家用它录制鸟类、蝙蝠、昆虫和整个声景。 https://www.openacousticdevices.info/
+- **OXMAN** (纽约，美国) — Neri Oxman 在纽约创办的设计公司，与自然一起、为自然设计产品、建筑和系统，延续她的材料生态学研究。 https://www.oxman.com/
+- **Pili** (图卢兹，法国) — 诞生于 La Paillasse 社区的法国公司，结合发酵与化学工艺生产生物基染料和颜料。 https://www.pili.bio/
+- **Post Carbon Lab** (伦敦，英国) — 伦敦纺织研究实验室，开发用于服装的光合作用涂层和微生物染料。 https://www.postcarbonlab.com/
+- **Prometheus Materials** (朗蒙特（科罗拉多州），美国) — 科罗拉多大学的衍生公司，用微藻生长的生物水泥制造低碳混凝土砌块。 https://prometheusmaterials.com/
 - **Smart Parks** (荷兰) — 一家荷兰社会企业，搭建 LoRaWAN 传感器网络并开发开源动物项圈，用于保护野生动物和公园。 https://www.smartparks.org/
+- **Spiber** (鹤冈，日本) — 日本公司，受蜘蛛丝启发，通过发酵生产结构蛋白，并把它们做成纺织纤维等产品。 https://spiber.inc/en
 - **Superflux** (伦敦，英国) — 一家思辨设计与未来工作室，其装置作品如《复苏的庇护所》和《冲击的缓解》想象超越人类的未来。 https://superflux.in/
 - **Terrapin Bright Green** (纽约，美国) — 一家环境咨询公司，以报告《亲生命设计的 14 种模式》闻名，把自然与幸福感的研究转化为设计指南。 https://www.terrapinbrightgreen.com/
+- **The ODIN** (奥克兰，美国) — Josiah Zayner 的公司，销售 DIY CRISPR 和基因工程套件，是家庭生物黑客争论的焦点。 https://www.the-odin.com/
 - **Wildlife Acoustics** (梅纳德，马萨诸塞州，美国) — 一家生产 Song Meter 录音机、Echo Meter 蝙蝠探测器和 Kaleidoscope 分析软件的公司，用于生物声学监测。 https://www.wildlifeacoustics.com/
 
 ## 创作者
