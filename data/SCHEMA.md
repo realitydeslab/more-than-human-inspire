@@ -84,6 +84,28 @@ New collections: do not edit taxonomy.json concurrently — define them in `data
 Images or a video found later for existing works, kept out of the research batches so passes never edit each other's files:
 `{ "<work-id>": { "images": ["https://…"], "video": { "url": "https://…" } } }` — images are appended (max 4), a video is used only when the work has none.
 
+## Organization (`data/orgs/<batch>.json` → `{ "batch": "...", "orgs": [ Org, ... ] }`)
+Organizations and resources are a separate category from works (own tab). One record per organization / resource:
+```json
+{
+  "id": "nyu-center-for-mind-ethics-policy",          // kebab-case, unique across data/orgs
+  "name": "Center for Mind, Ethics, and Policy (NYU)",
+  "type": "research",                                  // one of taxonomy.org_types
+  "themes": ["sentience", "digital-minds", "animal-welfare"],   // 1–4 of taxonomy.org_themes
+  "fields": ["mth", "aci"],                            // 0–3 related gallery fields
+  "description": "1–2 sentences, English: what it does.",
+  "description_zh": "中文：它做什么。",
+  "url": "https://nonhumanminds.org/",                 // REQUIRED, must load
+  "image": "https://…/og.jpg",                         // optional: og:image or logo (check_media ok)
+  "based": "New York, US", "based_zh": "纽约，美国",     // optional ("Online" / "线上" allowed)
+  "founded": 2024,                                     // optional integer
+  "people": ["Jeff Sebo"],                             // optional key people
+  "creator_id": "",                                    // optional: matching creator id in the works data
+  "found_via": "https://sentient-futures.notion.site/aixa"   // optional: directory where it was found
+}
+```
+Validate with `python3 tools/validate_orgs.py data/orgs/<file>.json` (or `--all`).
+
 ## Lead (person/lab found but not researched in this batch)
 ```json
 { "name": "…", "why": "…", "link": "…", "found_via": "creator id", "status": "open" }   // open | no_media | off_topic | duplicate

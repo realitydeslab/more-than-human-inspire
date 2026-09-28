@@ -19,7 +19,7 @@ T = {
             "Combine organisms, methods and fields across works to propose new directions.",
             "Do not invent details that are not stated here; the links are the reference.",
         ],
-        "creators": "Creators", "idea": "Idea", "what": "What it is", "method": "How it works",
+        "creators": "Creators", "orgs": "Organizations & resources", "idea": "Idea", "what": "What it is", "method": "How it works",
         "paper": "Paper", "video": "Video", "images": "Images", "page": "Project page", "code": "Code",
         "organisms": "Organisms", "kind": "Type",
     },
@@ -34,7 +34,7 @@ T = {
             "把不同作品的生物、方法和领域组合起来，提出新的方向。",
             "不要编造这里没有写到的细节，以链接为准。",
         ],
-        "creators": "创作者", "idea": "核心想法", "what": "作品内容", "method": "实现方式",
+        "creators": "创作者", "orgs": "组织与资源", "idea": "核心想法", "what": "作品内容", "method": "实现方式",
         "paper": "论文", "video": "视频", "images": "图片", "page": "项目主页", "code": "代码",
         "organisms": "生物", "kind": "类型",
     },
@@ -85,6 +85,19 @@ def catalog_md(data: dict, lang: str) -> str:
                 continue
             out += [f"### {sub['zh'] if zh else sub['en']}", "", sub["desc_zh" if zh else "desc_en"], ""]
             out += ["\n\n".join(_work(w, lang, names, tax) for w in sw), ""]
+    orgs = data.get("orgs") or []
+    if orgs:
+        out += [f"## {s['orgs']}", ""]
+        for ot in tax.get("org_types", []):
+            group = [o for o in orgs if o.get("type") == ot[0]]
+            if not group:
+                continue
+            out += [f"### {ot[2] if zh else ot[1]}", ""]
+            for o in group:
+                desc = o.get("description_zh" if zh else "description", "")
+                based = o.get("based_zh" if zh else "based", "")
+                out.append(f"- **{o['name']}**" + (f" ({based})" if based else "") + f" — {desc} {o['url']}")
+            out.append("")
     out += [f"## {s['creators']}", ""]
     for c in sorted(data["creators"], key=lambda c: (-c.get("work_count", 0), c["name"])):
         role = c.get("role_zh" if zh else "role", "")
@@ -102,7 +115,7 @@ def llms_txt(data: dict) -> str:
         f"> {T['en']['intro']}",
         "",
         f"{len(data['creators'])} creators, {len(data['works'])} works ({fields}), "
-        f"{sum(bool(w.get('paper')) for w in data['works'])} with papers, updated {data['generated']}. "
+        f"{sum(bool(w.get('paper')) for w in data['works'])} with papers, {len(data.get('orgs') or [])} organizations & resources, updated {data['generated']}. "
         "Bilingual (English / Simplified Chinese).",
         "",
         "## Full catalog",

@@ -976,6 +976,149 @@
     "Food",
     "食物"
    ]
+  ],
+  "org_types": [
+   [
+    "research",
+    "Research centre & lab",
+    "研究中心与实验室",
+    "University centres, institutes and independent labs."
+   ],
+   [
+    "nonprofit",
+    "Nonprofit & advocacy",
+    "非营利与倡导组织",
+    "NGOs, foundations and advocacy groups."
+   ],
+   [
+    "network",
+    "Network & community",
+    "网络与社群",
+    "Networks, coalitions, communities and field-building initiatives."
+   ],
+   [
+    "funding",
+    "Funding & prize",
+    "资助与奖项",
+    "Funds, grant programmes and prizes."
+   ],
+   [
+    "education",
+    "Programme & residency",
+    "项目、驻留与课程",
+    "Fellowships, residencies, courses, schools and accelerators."
+   ],
+   [
+    "event",
+    "Conference & event series",
+    "会议与活动系列",
+    "Recurring conferences, workshops, summits and festivals."
+   ],
+   [
+    "media",
+    "Journal, podcast & report",
+    "期刊、播客与报告",
+    "Journals, magazines, podcasts, newsletters and landmark reports."
+   ],
+   [
+    "database",
+    "Directory, archive & dataset",
+    "目录、档案与数据集",
+    "Directories, archives, maps, databases and open datasets."
+   ],
+   [
+    "company",
+    "Company & studio",
+    "公司与工作室",
+    "Companies and studios building in the field."
+   ]
+  ],
+  "org_themes": [
+   [
+    "sentience",
+    "Animal sentience & minds",
+    "动物感知与心智"
+   ],
+   [
+    "ai-animals",
+    "AI × animals",
+    "AI × 动物"
+   ],
+   [
+    "digital-minds",
+    "AI welfare & digital minds",
+    "AI 福祉与数字心智"
+   ],
+   [
+    "interspecies-communication",
+    "Interspecies communication",
+    "跨物种沟通"
+   ],
+   [
+    "animal-welfare",
+    "Animal welfare & ethics",
+    "动物福利与伦理"
+   ],
+   [
+    "law-rights",
+    "Law & rights of nature",
+    "法律与自然权利"
+   ],
+   [
+    "mth-design",
+    "More-than-human design",
+    "超越人类的设计"
+   ],
+   [
+    "biodesign",
+    "Biodesign & biofabrication",
+    "生物设计与生物制造"
+   ],
+   [
+    "bioart",
+    "Bio art & art-science",
+    "生物艺术与艺术科学"
+   ],
+   [
+    "diybio",
+    "Community labs & DIYbio",
+    "社区实验室与 DIY 生物"
+   ],
+   [
+    "synbio",
+    "Synthetic biology",
+    "合成生物学"
+   ],
+   [
+    "biocomputing",
+    "Biocomputing & organoids",
+    "生物计算与类器官"
+   ],
+   [
+    "conservation-tech",
+    "Conservation & ecology tech",
+    "保护与生态技术"
+   ],
+   [
+    "citizen-science",
+    "Citizen science",
+    "公民科学"
+   ],
+   [
+    "nature-connection",
+    "Nature connection & wellbeing",
+    "自然联结与身心健康"
+   ],
+   [
+    "indigenous",
+    "Indigenous & relational knowledge",
+    "原住民与关系性知识"
+   ],
+   [
+    "futures",
+    "Futures & long-term thinking",
+    "未来与长期思考"
+   ]
   ]
  },
  "creators": [
@@ -126853,6 +126996,3833 @@
    "disciplines": [
     "architecture"
    ]
+  }
+ ],
+ "orgs": [
+  {
+   "id": "natureforall",
+   "name": "#NatureForAll (IUCN)",
+   "type": "network",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A global movement launched by IUCN to inspire love of nature, sharing tools and stories on how to connect people, especially young people, with nature.",
+   "description_zh": "由 IUCN 发起的全球运动，旨在激发人们对自然的热爱，分享如何让人（尤其是年轻人）与自然建立联系的工具和故事。",
+   "url": "https://natureforall.global/",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2016
+  },
+  {
+   "id": "aboriginal-territories-in-cyberspace",
+   "name": "Aboriginal Territories in Cyberspace (AbTeC)",
+   "type": "research",
+   "themes": [
+    "indigenous",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An Indigenous research-creation studio that ensures Indigenous presence in games, virtual worlds and the web, and runs the Skins workshops on Indigenous futures.",
+   "description_zh": "一个原住民研究创作工作室，确保原住民在游戏、虚拟世界和网络中的存在，并举办关于原住民未来的 Skins 工作坊。",
+   "url": "https://abtec.org/",
+   "image": "https://abtec.org/wp/wp-content/uploads/2024/10/about-skawennati.png",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "founded": 2005,
+   "people": [
+    "Jason Edward Lewis",
+    "Skawennati"
+   ]
+  },
+  {
+   "id": "abundant-intelligences",
+   "name": "Abundant Intelligences",
+   "type": "research",
+   "themes": [
+    "indigenous",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An international research programme led from Concordia University that designs AI from Indigenous knowledge systems, with labs in Canada, the US and Aotearoa New Zealand.",
+   "description_zh": "由 Concordia 大学牵头的国际研究项目，以原住民知识体系为基础设计 AI，在加拿大、美国和新西兰设有实验室。",
+   "url": "https://abundant-intelligences.net/",
+   "image": "https://abundant-intelligences.net/wp-content/uploads/2026/04/dc15695960e7bc1892db5fa4a2167ac1c0bba7f0-1024x683.jpg",
+   "based": "Montreal, Canada",
+   "based_zh": "蒙特利尔，加拿大",
+   "founded": 2023,
+   "people": [
+    "Jason Edward Lewis"
+   ]
+  },
+  {
+   "id": "allen-coral-atlas",
+   "name": "Allen Coral Atlas",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A global map of shallow coral reefs made from satellite imagery, with monitoring of coral bleaching, used by reef managers and scientists.",
+   "description_zh": "利用卫星图像绘制的全球浅海珊瑚礁地图，并监测珊瑚白化，供珊瑚礁管理者和科学家使用。",
+   "url": "https://allencoralatlas.org/",
+   "image": "https://allencoralatlas.org/_next/image/?url=https%3A%2F%2Fcdn.cosmicjs.com%2F76e3e2d0-d222-11ec-9f12-9bd712c1ee68-2.png&w=3840&q=75",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2018
+  },
+  {
+   "id": "amazon-conservation-team",
+   "name": "Amazon Conservation Team",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An organisation that partners with Indigenous peoples in Colombia and Suriname to map and protect their forests, combining ancestral knowledge with GPS and satellite monitoring.",
+   "description_zh": "一个与哥伦比亚和苏里南原住民合作的组织，把祖传知识与 GPS、卫星监测结合起来，绘制并保护他们的森林。",
+   "url": "https://www.amazonteam.org/",
+   "image": "https://www.amazonteam.org/wp-content/uploads/2018/09/open-graph-fb-amazon-2.jpg",
+   "based": "Arlington, Virginia, US / Colombia / Suriname",
+   "based_zh": "阿灵顿，弗吉尼亚州，美国 / 哥伦比亚 / 苏里南",
+   "founded": 1996,
+   "people": [
+    "Mark Plotkin",
+    "Liliana Madrigal"
+   ]
+  },
+  {
+   "id": "anima-mundi-law-initiative",
+   "name": "Anima Mundi Law Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A legal initiative that develops creative and practical legal strategies for the climate and ecological crises at the intersection of law, ecology and culture.",
+   "description_zh": "一个法律倡议，在法律、生态与文化的交汇处，为气候和生态危机提出有创意又可操作的法律策略。",
+   "url": "https://www.animamundilaw.org/",
+   "based": "UK",
+   "based_zh": "英国",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "anthropocene-curriculum",
+   "name": "Anthropocene Curriculum (HKW / Max Planck Institute for the History of Science)",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A long-term collaborative project of Haus der Kulturen der Welt and the Max Planck Institute for the History of Science that develops experimental education on the Anthropocene through campuses, field work and an online archive.",
+   "description_zh": "世界文化宫与马克斯·普朗克科学史研究所的长期合作项目，通过研习营、田野工作和线上档案，发展关于人类世的实验性教育。",
+   "url": "https://www.anthropocene-curriculum.org/",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2013
+  },
+  {
+   "id": "antikythera",
+   "name": "Antikythera",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A think tank and studio, incubated by the Berggruen Institute, that rethinks computation at planetary scale, including planetary sensing and the reorientation of philosophy around the Earth.",
+   "description_zh": "由伯格鲁恩研究所孵化的智库和工作室，从行星尺度重新思考计算，包括行星感知和围绕地球重新定位哲学。",
+   "url": "https://antikythera.org/",
+   "image": "https://framerusercontent.com/images/PoJNTvBMo1HrMxKQWdd1vnzSxE.png",
+   "based": "Global (Berggruen Institute)",
+   "based_zh": "全球（伯格鲁恩研究所）",
+   "founded": 2022,
+   "people": [
+    "Benjamin Bratton"
+   ]
+  },
+  {
+   "id": "arbimon",
+   "name": "Arbimon",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A free cloud platform from Rainforest Connection for storing, analysing and sharing ecoacoustic recordings, with tools for species detection and soundscape analysis.",
+   "description_zh": "Rainforest Connection 推出的免费云平台，用于存储、分析和分享生态声学录音，提供物种识别和声景分析工具。",
+   "url": "https://arbimon.org/",
+   "based": "Online (Rainforest Connection)",
+   "based_zh": "线上（Rainforest Connection）"
+  },
+  {
+   "id": "arribada-initiative",
+   "name": "Arribada Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An open-source conservation technology programme that designs low-cost animal tags, cameras and sensors, starting with sea turtle trackers.",
+   "description_zh": "一个开源保护技术项目，设计低成本的动物标签、相机和传感器，最早从海龟追踪器做起。",
+   "url": "https://arribada.org/",
+   "image": "https://arribada.org/wp-content/uploads/2020/02/3_tagged_tartaruga_front-scaled.jpg",
+   "based": "UK",
+   "based_zh": "英国",
+   "people": [
+    "Alasdair Davies"
+   ]
+  },
+  {
+   "id": "asociacion-andes-potato-park",
+   "name": "Asociación ANDES (Potato Park)",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Peruvian Indigenous organisation that co-founded the Potato Park, where Quechua communities conserve hundreds of native potato varieties as a biocultural heritage territory.",
+   "description_zh": "秘鲁的一个原住民组织，共同创立了“马铃薯公园”，克丘亚社区在那里以生物文化遗产领地的方式保护数百种本土马铃薯品种。",
+   "url": "https://andes.org.pe/",
+   "image": "https://andes.org.pe/wp-content/uploads/2025/09/people2_homepage.jpg",
+   "based": "Cusco, Peru",
+   "based_zh": "库斯科，秘鲁"
+  },
+  {
+   "id": "association-advancing-participatory-sciences",
+   "name": "Association for Advancing Participatory Sciences (formerly Citizen Science Association)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A professional association for people who run or study participatory and community science projects, which publishes the journal Citizen Science: Theory and Practice.",
+   "description_zh": "一个面向运营或研究公众参与科学项目人员的专业协会，出版期刊 Citizen Science: Theory and Practice。",
+   "url": "https://participatorysciences.org/",
+   "image": "https://participatorysciences.org/wp-content/uploads/2024/07/15.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2012
+  },
+  {
+   "id": "association-nature-forest-therapy",
+   "name": "Association of Nature and Forest Therapy Guides and Programs (ANFT)",
+   "type": "education",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An organisation that trains and certifies forest therapy guides, adapting Japanese shinrin-yoku (forest bathing) into guided sensory walks.",
+   "description_zh": "一个培训和认证森林疗愈向导的组织，把日本的“森林浴”改编为有引导的感官漫步。",
+   "url": "https://anft.earth/",
+   "image": "https://anft.earth/wp-content/uploads/2026/01/start-online-3.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2012,
+   "people": [
+    "M. Amos Clifford"
+   ]
+  },
+  {
+   "id": "atlas-of-living-australia",
+   "name": "Atlas of Living Australia",
+   "type": "database",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Australia's national biodiversity database, combining museum, herbarium and citizen science records for more than 100,000 species.",
+   "description_zh": "澳大利亚国家生物多样性数据库，整合博物馆、植物标本馆和公民科学的记录，覆盖十万多个物种。",
+   "url": "https://www.ala.org.au/",
+   "image": "https://www.ala.org.au/app/uploads/2020/07/jan2032.1-1920x749.png",
+   "based": "Canberra, Australia",
+   "based_zh": "堪培拉，澳大利亚",
+   "founded": 2010,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "atmos-magazine",
+   "name": "Atmos",
+   "type": "media",
+   "themes": [
+    "futures",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A climate and culture magazine that publishes stories on ecology, Indigenous knowledge and more-than-human relations with a strong visual style.",
+   "description_zh": "一本气候与文化杂志，以鲜明的视觉风格发表关于生态、原住民知识和超越人类关系的故事。",
+   "url": "https://atmos.earth/",
+   "image": "https://atmos.earth/wp-content/themes/atmos/assets/img/og-image.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2019
+  },
+  {
+   "id": "christmas-bird-count",
+   "name": "Audubon Christmas Bird Count",
+   "type": "event",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The longest-running citizen science survey, held every winter since 1900, in which volunteers count birds in set circles across the Americas.",
+   "description_zh": "持续时间最长的公民科学调查，自 1900 年起每年冬季举行，志愿者在美洲各地固定的圆形区域内统计鸟类。",
+   "url": "https://www.audubon.org/conservation/science/christmas-bird-count",
+   "image": "https://media.audubon.org/2024-01/Web_Aud_CBC-Colombia_231220_39_Photo-Luis-Bernardo-Cano.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale",
+   "based": "Americas",
+   "based_zh": "美洲",
+   "founded": 1900
+  },
+  {
+   "id": "australian-citizen-science-association",
+   "name": "Australian Citizen Science Association",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A national network that supports citizen science in Australia through a project finder, working groups and conferences.",
+   "description_zh": "一个全国性网络，通过项目检索、工作组和会议支持澳大利亚的公民科学。",
+   "url": "https://citizenscience.org.au/",
+   "image": "https://citizenscience.org.au/wp-content/uploads/2023/12/xJoin-Us-Banner.png.pagespeed.ic.ImNsnrigbJ.png",
+   "based": "Australia",
+   "based_zh": "澳大利亚",
+   "founded": 2014
+  },
+  {
+   "id": "australian-earth-laws-alliance",
+   "name": "Australian Earth Laws Alliance (AELA)",
+   "type": "network",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A national network that promotes earth jurisprudence and rights of nature in Australia, working with First Nations knowledge holders. It has run citizens' tribunals for ecosystems such as the Great Barrier Reef.",
+   "description_zh": "澳大利亚的全国性网络，与原住民知识持有者合作，推广地球法理学和自然权利。它曾为大堡礁等生态系统举办公民法庭。",
+   "url": "https://www.earthlaws.org.au/",
+   "image": "https://www.earthlaws.org.au/wp-content/uploads/2026/09/GBM-28-Sept-Land-and-Sea-Country-final-graphic.png",
+   "based": "Australia",
+   "based_zh": "澳大利亚",
+   "founded": 2012
+  },
+  {
+   "id": "awana-digital",
+   "name": "Awana Digital (Mapeo)",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth",
+    "hni"
+   ],
+   "description": "A nonprofit (formerly Digital Democracy) that builds Mapeo and other offline, open-source tools with Indigenous communities to map and monitor their territories.",
+   "description_zh": "一个非营利组织（前身为 Digital Democracy），与原住民社区一起开发 Mapeo 等离线开源工具，用于绘制和监测他们的领地。",
+   "url": "https://www.awana.digital/",
+   "image": "https://cdn.prod.website-files.com/65fdc7abae501de4e3e82a40/66995d5a9f0b629209b98091_awana-digital-name-announcement-opengraph.png",
+   "based": "Global",
+   "based_zh": "全球"
+  },
+  {
+   "id": "bat-conservation-trust",
+   "name": "Bat Conservation Trust",
+   "type": "nonprofit",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A UK charity for bats that runs the National Bat Monitoring Programme, in which volunteers survey bats with detectors every year.",
+   "description_zh": "英国的蝙蝠保护慈善机构，运营全国蝙蝠监测计划，志愿者每年用探测器调查蝙蝠。",
+   "url": "https://www.bats.org.uk/",
+   "image": "https://cdn.bats.org.uk/uploads/images/_imageLinkMedium/Barbastelle-flying-night-sky_Daniel-Whitby.jpg?v=1786610773",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1990
+  },
+  {
+   "id": "berggruen-institute",
+   "name": "Berggruen Institute (Planetary programme)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A think tank whose Planetary programme and Future Humans work explore how new ideas of the planet, life and intelligence should change philosophy and governance. It publishes Noema.",
+   "description_zh": "一个智库，其“行星”项目和“未来人类”研究探讨关于地球、生命和智能的新观念应如何改变哲学与治理，并出版 Noema 杂志。",
+   "url": "https://www.berggruen.org/",
+   "image": "https://cdn.sanity.io/images/9xbysn2u/production/74a11e5ba5de5915cd99a402ba882efd2b42fc2b-1200x631.jpg?rect=0,1,1200,630&w=1200&h=630&q=95",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "founded": 2010
+  },
+  {
+   "id": "big-butterfly-count",
+   "name": "Big Butterfly Count",
+   "type": "event",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A summer survey by Butterfly Conservation in which the public counts butterflies and day-flying moths for 15 minutes.",
+   "description_zh": "英国蝴蝶保护协会组织的夏季调查，公众用 15 分钟统计蝴蝶和日行蛾类。",
+   "url": "https://bigbutterflycount.butterfly-conservation.org/",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 2010
+  },
+  {
+   "id": "biome-japan",
+   "name": "Biome (いきものコレクション)",
+   "type": "company",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Japanese company whose Biome app turns species observation into a collection game with AI identification, generating biodiversity data for companies and local governments.",
+   "description_zh": "一家日本公司，其 Biome 应用把物种观察变成带 AI 识别的收集游戏，为企业和地方政府生成生物多样性数据。",
+   "url": "https://biome.co.jp/",
+   "image": "https://biome.co.jp/wp/wp-content/uploads/2023/02/service-biome2x.png",
+   "based": "Kyoto, Japan",
+   "based_zh": "京都，日本",
+   "founded": 2017
+  },
+  {
+   "id": "biome-makers",
+   "name": "Biome Makers",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A company that sequences soil microbiomes to give farmers a picture of soil life and health through its BeCrop test.",
+   "description_zh": "一家对土壤微生物组进行测序的公司，通过 BeCrop 检测让农民了解土壤生命与健康状况。",
+   "url": "https://biomemakers.com/",
+   "image": "https://biomemakers.com/hubfs/Web%20Images/Home%20Page/becrop-test.webp",
+   "based": "California, US / Spain",
+   "based_zh": "加利福尼亚州，美国 / 西班牙",
+   "founded": 2015
+  },
+  {
+   "id": "biophilic-cities",
+   "name": "Biophilic Cities Network",
+   "type": "network",
+   "themes": [
+    "nature-connection",
+    "mth-design"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A network of cities and researchers, based at the University of Virginia, that works to make daily contact with nature a core part of urban planning.",
+   "description_zh": "一个城市与研究者网络，设在弗吉尼亚大学，致力于把日常接触自然作为城市规划的核心。",
+   "url": "https://www.biophiliccities.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bbd32d6e66669016a6af7e2/1539636226028-MP5LUGBH1I6FNL1N15KD/landscape-roof-greenwich.png",
+   "based": "Charlottesville, Virginia, US",
+   "based_zh": "夏洛茨维尔，弗吉尼亚州，美国",
+   "founded": 2013,
+   "people": [
+    "Tim Beatley"
+   ]
+  },
+  {
+   "id": "birdnet",
+   "name": "BirdNET",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "ai-animals",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A free AI tool from the Cornell Lab and TU Chemnitz that identifies thousands of bird species by sound, used both in apps and in large acoustic monitoring projects.",
+   "description_zh": "康奈尔鸟类学实验室与开姆尼茨工业大学开发的免费 AI 工具，可通过声音识别数千种鸟类，既用于手机应用，也用于大型声学监测项目。",
+   "url": "https://birdnet.cornell.edu/",
+   "based": "Ithaca, US / Chemnitz, Germany",
+   "based_zh": "伊萨卡，美国 / 开姆尼茨，德国",
+   "founded": 2018,
+   "people": [
+    "Stefan Kahl"
+   ]
+  },
+  {
+   "id": "budburst",
+   "name": "Budburst",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Chicago Botanic Garden project in which the public records when plants leaf, flower and fruit, and how pollinators visit them, to study climate effects.",
+   "description_zh": "芝加哥植物园的项目，公众记录植物何时长叶、开花、结果以及传粉者的造访，用于研究气候影响。",
+   "url": "https://budburst.org/",
+   "image": "https://budburst.org/storage/statamic/hero-visual600.png",
+   "based": "Chicago Botanic Garden, US",
+   "based_zh": "芝加哥植物园，美国",
+   "founded": 2007,
+   "creator_id": "budburst"
+  },
+  {
+   "id": "center-for-democratic-environmental-rights",
+   "name": "Center for Democratic and Environmental Rights (CDER)",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A legal centre that supports governments, tribes and communities in writing rights-of-nature laws. It runs projects such as 'Land That Owns Itself', rights-of-pollinators work and a rights-of-nature law library.",
+   "description_zh": "一个法律中心，协助政府、部落和社区起草自然权利法律。它开展“拥有自己的土地”、传粉者权利等项目，并维护自然权利法律库。",
+   "url": "https://www.centerforenvironmentalrights.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5e3f36df772e5208fa96513c/55d41e47-7dde-455d-98d3-b5ffb6c98ae1/pexels-jess-vide-5008437.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Thomas Linzey"
+   ]
+  },
+  {
+   "id": "center-for-earth-jurisprudence",
+   "name": "Center for Earth Jurisprudence (Barry University)",
+   "type": "research",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A law-school centre that teaches and researches earth jurisprudence and rights of nature. It runs an environmental and earth law clinic, a fellowship and symposia.",
+   "description_zh": "一所法学院的研究中心，教授并研究地球法理学与自然权利。它设有环境与地球法诊所、奖学金项目和研讨会。",
+   "url": "https://www.earthjurist.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5645105de4b0ba0f65eaa14a/1511205347769-DE5GX70JSHZ7OT5OOSHD/Mashup+background.jpg",
+   "based": "Orlando, Florida, US",
+   "based_zh": "奥兰多，佛罗里达州，美国",
+   "founded": 2006
+  },
+  {
+   "id": "center-for-global-soundscapes",
+   "name": "Center for Global Soundscapes (Purdue University)",
+   "type": "research",
+   "themes": [
+    "nature-connection",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Purdue research centre in soundscape ecology that records and analyses the sounds of ecosystems worldwide and runs public soundscape projects.",
+   "description_zh": "普渡大学的声景生态学研究中心，录制并分析全球生态系统的声音，并开展公众声景项目。",
+   "url": "https://centerforglobalsoundscapes.org/",
+   "based": "West Lafayette, Indiana, US",
+   "based_zh": "西拉法叶，印第安纳州，美国",
+   "people": [
+    "Bryan Pijanowski"
+   ]
+  },
+  {
+   "id": "center-for-humans-and-nature",
+   "name": "Center for Humans and Nature",
+   "type": "nonprofit",
+   "themes": [
+    "futures",
+    "indigenous",
+    "nature-connection"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "A nonprofit that brings together philosophers, scientists, artists and Indigenous thinkers to explore human responsibilities to each other and the more-than-human world, through essays, books and the Minding Nature journal.",
+   "description_zh": "一个非营利组织，汇集哲学家、科学家、艺术家和原住民思想者，通过文章、书籍和期刊 Minding Nature，探讨人类对彼此和对超越人类世界的责任。",
+   "url": "https://humansandnature.org/",
+   "image": "https://humansandnature.org/wp-content/uploads/2021/09/centerforhumansandnaturehome.jpg",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "founded": 2003
+  },
+  {
+   "id": "center-for-native-peoples-and-environment",
+   "name": "Center for Native Peoples and the Environment (SUNY-ESF)",
+   "type": "research",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth",
+    "hni"
+   ],
+   "description": "A centre that brings Indigenous and Western scientific knowledge together for environmental education and restoration, founded by Robin Wall Kimmerer.",
+   "description_zh": "由 Robin Wall Kimmerer 创办的中心，把原住民知识与西方科学知识结合起来，用于环境教育和生态修复。",
+   "url": "https://www.esf.edu/nativepeoples/",
+   "image": "https://www.esf.edu/nativepeoples/images/skywoman.jpg",
+   "based": "Syracuse, New York, US",
+   "based_zh": "锡拉丘兹，纽约州，美国",
+   "founded": 2006,
+   "people": [
+    "Robin Wall Kimmerer"
+   ],
+   "creator_id": "robin-wall-kimmerer"
+  },
+  {
+   "id": "children-and-nature-network",
+   "name": "Children & Nature Network",
+   "type": "network",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A network co-founded by Richard Louv, author of Last Child in the Woods, that works to give every child daily access to nature, and keeps a research library on nature and child health.",
+   "description_zh": "由《林间最后的小孩》作者 Richard Louv 共同创立的网络，致力于让每个孩子每天都能接触自然，并维护一个关于自然与儿童健康的研究资料库。",
+   "url": "https://www.childrenandnature.org/",
+   "image": "https://www.childrenandnature.org/wp-content/uploads/home-7Z8A6660_web2-e1646713374318.jpg",
+   "based": "Minneapolis, US",
+   "based_zh": "明尼阿波利斯，美国",
+   "founded": 2006,
+   "people": [
+    "Richard Louv"
+   ]
+  },
+  {
+   "id": "china-bird-report",
+   "name": "China Bird Report (中国观鸟记录中心)",
+   "type": "database",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "China's main online bird records database, where birdwatchers submit checklists that are used for bird distribution and conservation research.",
+   "description_zh": "中国主要的在线鸟类记录数据库，观鸟者在这里提交观鸟记录，用于鸟类分布和保护研究。",
+   "url": "http://www.birdreport.cn/",
+   "based": "China",
+   "based_zh": "中国"
+  },
+  {
+   "id": "citizen-sense",
+   "name": "Citizen Sense",
+   "type": "research",
+   "themes": [
+    "citizen-science",
+    "mth-design"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "A research group that worked with communities on DIY environmental sensing, such as air pollution monitoring with the Dustbox, and studied what citizen sensing changes.",
+   "description_zh": "一个研究团队，与社区一起开展 DIY 环境感知（如用 Dustbox 监测空气污染），并研究公民感知带来的改变。",
+   "url": "https://citizensense.net/",
+   "image": "https://i0.wp.com/citizensense.net/cs/wp-content/uploads/2017/11/Dustbox_Garden_sm.jpg?fit=794%2C676&ssl=1",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2013,
+   "people": [
+    "Jennifer Gabrys"
+   ]
+  },
+  {
+   "id": "citsci-org",
+   "name": "CitSci.org",
+   "type": "database",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A free platform from Colorado State University that lets anyone design and run a citizen science project, from data sheets to analysis.",
+   "description_zh": "科罗拉多州立大学的免费平台，任何人都可以用它设计和运营公民科学项目，从数据表到分析一应俱全。",
+   "url": "https://citsci.org/",
+   "based": "Colorado State University, US",
+   "based_zh": "科罗拉多州立大学，美国"
+  },
+  {
+   "id": "city-nature-challenge",
+   "name": "City Nature Challenge",
+   "type": "event",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A yearly bioblitz in which cities around the world compete to record the most urban wildlife on iNaturalist over four days.",
+   "description_zh": "一年一度的生物快速调查，全球城市比赛在四天内于 iNaturalist 上记录最多的城市野生生物。",
+   "url": "https://www.citynaturechallenge.org/",
+   "image": "https://cnc-assets.sfo3.digitaloceanspaces.com/NHMLA/22_0769_CNC_23_Web_Hero_Image_230120_0c564990b8.webp",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2016
+  },
+  {
+   "id": "celdf",
+   "name": "Community Environmental Legal Defense Fund (CELDF)",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A US legal nonprofit that helps communities pass local laws recognising the rights of nature. It helped write the first US rights-of-nature ordinance (Tamaqua, 2006) and advised on Ecuador's 2008 constitution.",
+   "description_zh": "一家美国法律非营利组织，帮助社区通过承认自然权利的地方法律。它参与起草了美国第一部自然权利条例（Tamaqua，2006）并为厄瓜多尔 2008 年宪法提供咨询。",
+   "url": "https://celdf.org/",
+   "image": "http://celdf.org/wp-content/uploads/2025/06/20210509-191135-Edit-scaled.jpg",
+   "based": "Pennsylvania, US",
+   "based_zh": "宾夕法尼亚州，美国",
+   "founded": 1995
+  },
+  {
+   "id": "conservation-evidence",
+   "name": "Conservation Evidence",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A free database from the University of Cambridge that summarises scientific evidence on what works, and what does not, in conservation actions.",
+   "description_zh": "剑桥大学的免费数据库，汇总保护行动中哪些有效、哪些无效的科学证据。",
+   "url": "https://www.conservationevidence.com/",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2004,
+   "people": [
+    "William Sutherland"
+   ]
+  },
+  {
+   "id": "conservation-x-labs",
+   "name": "Conservation X Labs",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A conservation innovation company that builds tools such as the Sentinel AI camera-trap device and runs open innovation prizes. Wild Me and its Wildbook platform joined it in 2024.",
+   "description_zh": "一家保护创新公司，开发 Sentinel AI 红外相机设备等工具，并举办开放创新奖。Wild Me 及其 Wildbook 平台于 2024 年并入该公司。",
+   "url": "https://conservationxlabs.com/",
+   "image": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/67bcb7025f213824dad68c20_Section%201%20Background%20Image.avif",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2015,
+   "people": [
+    "Alex Dehgan",
+    "Paul Bunje"
+   ]
+  },
+  {
+   "id": "conservation-drones",
+   "name": "ConservationDrones.org",
+   "type": "network",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A community that shares knowledge on building and using low-cost drones for wildlife surveys, forest mapping and conservation.",
+   "description_zh": "一个分享如何制作和使用低成本无人机进行野生动物调查、森林测绘与保护的社群。",
+   "url": "https://conservationdrones.org/",
+   "image": "https://conservationdrones.org/wp-content/uploads/2026/07/figure2.jpeg?w=290",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2012,
+   "people": [
+    "Lian Pin Koh",
+    "Serge Wich"
+   ],
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "cornell-lab-of-ornithology",
+   "name": "Cornell Lab of Ornithology",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A research institute at Cornell University that studies birds and nature and runs large public science projects such as eBird, Merlin Bird ID, Project FeederWatch and the Macaulay Library.",
+   "description_zh": "康奈尔大学的研究机构，研究鸟类与自然，并运营 eBird、Merlin 识鸟、Project FeederWatch 和 Macaulay Library 等大型公众科学项目。",
+   "url": "https://www.birds.cornell.edu/home/",
+   "based": "Ithaca, New York, US",
+   "based_zh": "伊萨卡，纽约州，美国",
+   "founded": 1915,
+   "creator_id": "cornell-lab-of-ornithology"
+  },
+  {
+   "id": "country-needs-people",
+   "name": "Country Needs People",
+   "type": "network",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An alliance of Aboriginal and Torres Strait Islander organisations that campaigns for Indigenous ranger programmes and Indigenous Protected Areas in Australia.",
+   "description_zh": "一个由澳大利亚原住民和托雷斯海峡岛民组织组成的联盟，倡导原住民护林员项目和原住民保护区。",
+   "url": "https://www.countryneedspeople.org.au/",
+   "image": "https://assets.nationbuilder.com/thecountryneedsitspeople/pages/4289/meta_images/original/Minyumai_SEO.png?1770701914",
+   "based": "Australia",
+   "based_zh": "澳大利亚"
+  },
+  {
+   "id": "cresh",
+   "name": "CRESH (Centre for Research on Environment, Society and Health)",
+   "type": "research",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A research centre of the Universities of Edinburgh and Glasgow that studies how green space and other environments shape health and health inequalities.",
+   "description_zh": "爱丁堡大学与格拉斯哥大学合办的研究中心，研究绿地等环境如何影响健康和健康不平等。",
+   "url": "https://cresh.org.uk/",
+   "image": "https://cresh.org.uk/wp-content/uploads/2026/03/cropped-cut.jpg?w=240",
+   "based": "Edinburgh / Glasgow, UK",
+   "based_zh": "爱丁堡 / 格拉斯哥，英国",
+   "founded": 2008,
+   "people": [
+    "Richard Mitchell"
+   ]
+  },
+  {
+   "id": "crop-trust",
+   "name": "Crop Trust (Svalbard Global Seed Vault)",
+   "type": "nonprofit",
+   "themes": [
+    "futures",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An international organisation that funds crop diversity conservation in genebanks and supports the Svalbard Global Seed Vault, which stores seed back-ups for centuries.",
+   "description_zh": "一个国际组织，资助基因库中的作物多样性保护，并支持斯瓦尔巴全球种子库，为种子做可保存数百年的备份。",
+   "url": "https://www.croptrust.org/",
+   "image": "https://www.croptrust.org/fileadmin/_processed_/6/1/csm_Screenshot_2025-04-01_at_12.38.04_58ed432abb.png",
+   "based": "Bonn, Germany",
+   "based_zh": "波恩，德国",
+   "founded": 2004
+  },
+  {
+   "id": "cultural-survival",
+   "name": "Cultural Survival",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An Indigenous-led nonprofit that supports Indigenous peoples' rights to land, language and culture, with community radio and grants for Indigenous environmental defenders.",
+   "description_zh": "一个由原住民主导的非营利组织，支持原住民对土地、语言和文化的权利，运营社区广播，并资助原住民环境捍卫者。",
+   "url": "https://www.culturalsurvival.org/",
+   "image": "https://www.culturalsurvival.org/sites/default/files/styles/image_525x350/public/Bansgadhi%206.jpg?itok=rWJypqS1",
+   "based": "Cambridge, Massachusetts, US",
+   "based_zh": "剑桥，马萨诸塞州，美国",
+   "founded": 1972
+  },
+  {
+   "id": "dark-mountain-project",
+   "name": "Dark Mountain Project",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A network of writers and artists that began with the 2009 'Uncivilisation' manifesto, publishing books that look for new stories in a time of ecological collapse.",
+   "description_zh": "一个作家和艺术家网络，始于 2009 年的《去文明化》宣言，出版在生态崩溃时代寻找新故事的书籍。",
+   "url": "https://dark-mountain.net/",
+   "image": "https://dark-mountain.net/wp-content/uploads/2026/09/Kahn-Selesnick_Epilogue-1024x1024.jpg",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 2009,
+   "people": [
+    "Paul Kingsnorth",
+    "Dougald Hine"
+   ]
+  },
+  {
+   "id": "digital-naturalism-laboratories",
+   "name": "Digital Naturalism Laboratories (Dinalab)",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "mth-design"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "A field lab and makerspace at the edge of the Panamanian rainforest where artists, biologists and hackers build tools to study and interact with wildlife.",
+   "description_zh": "位于巴拿马雨林边缘的野外实验室和创客空间，艺术家、生物学家和黑客在这里制作研究和与野生动物互动的工具。",
+   "url": "https://www.dinalab.net/",
+   "image": "https://www.dinalab.net/wp-content/uploads/2019/04/cropped-Snapshot0.jpg",
+   "based": "Gamboa, Panama",
+   "based_zh": "甘博阿，巴拿马",
+   "people": [
+    "Andrew Quitmeyer"
+   ],
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "earth-biogenome-project",
+   "name": "Earth BioGenome Project",
+   "type": "research",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An international 'moonshot' to sequence the genomes of all known eukaryotic species on Earth, as a resource for conservation and biology.",
+   "description_zh": "一项国际“登月计划”，旨在测序地球上所有已知真核生物的基因组，为保护和生物学研究提供资源。",
+   "url": "https://www.earthbiogenome.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5a5e6c9518b27d27bddaf20f/1524604487487-YBP6RNEJ4N93LSZC32BU/Screen+Shot+2018-04-24+at+5.13.53+PM.png",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2018,
+   "people": [
+    "Harris Lewin"
+   ]
+  },
+  {
+   "id": "earth-charter-international",
+   "name": "Earth Charter International",
+   "type": "network",
+   "themes": [
+    "law-rights",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The body that promotes the Earth Charter, a 2000 declaration of ethical principles for a just, sustainable and peaceful global society that respects the community of life.",
+   "description_zh": "推广《地球宪章》的机构。《地球宪章》是 2000 年发布的伦理原则宣言，倡导尊重生命共同体、公正、可持续与和平的全球社会。",
+   "url": "https://earthcharter.org/",
+   "based": "San José, Costa Rica",
+   "based_zh": "圣何塞，哥斯达黎加",
+   "founded": 2000
+  },
+  {
+   "id": "earth-law-center",
+   "name": "Earth Law Center",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A nonprofit that drafts and defends laws giving rivers, oceans and ecosystems legal rights, including the Universal Declaration of the Rights of Rivers. It also trains lawyers and students in earth law.",
+   "description_zh": "一家非营利组织，起草并捍卫赋予河流、海洋和生态系统法律权利的法律，包括《河流权利普遍宣言》。它也为律师和学生提供地球法培训。",
+   "url": "https://www.earthlawcenter.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2008,
+   "people": [
+    "Grant Wilson"
+   ]
+  },
+  {
+   "id": "earth-system-governance-project",
+   "name": "Earth System Governance Project",
+   "type": "network",
+   "themes": [
+    "futures",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A global research network on how societies can govern the relationship between people and the Earth system, including work on rights of nature and planetary justice.",
+   "description_zh": "一个全球研究网络，研究社会如何治理人与地球系统的关系，包括自然权利与行星正义方面的工作。",
+   "url": "https://www.earthsystemgovernance.org/",
+   "image": "https://www.earthsystemgovernance.org/wp-content/uploads/2026/09/jodie-righos-qPHHt-JTf5s-unsplash-scaled.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2009
+  },
+  {
+   "id": "earthranger",
+   "name": "EarthRanger (Ai2)",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Free software from the Allen Institute for AI that gives protected-area managers one live map of rangers, collared animals, sensors and incidents.",
+   "description_zh": "艾伦人工智能研究所提供的免费软件，让保护区管理者在一张实时地图上看到护林员、佩戴项圈的动物、传感器和事件。",
+   "url": "https://www.earthranger.com/",
+   "image": "https://cdn.prod.website-files.com/61a93c4da07e4e6975c3f2b2/623c8c81a23bafef31efceb7_er-command%20center.jpg",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国"
+  },
+  {
+   "id": "earthwatch-institute",
+   "name": "Earthwatch Institute",
+   "type": "nonprofit",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that sends volunteers on field research expeditions with scientists and runs programmes such as FreshWater Watch and Tiny Forests.",
+   "description_zh": "一个组织志愿者跟随科学家参与野外科研考察的非营利机构，开展 FreshWater Watch 和“迷你森林”等项目。",
+   "url": "https://earthwatch.org/",
+   "image": "https://earthwatch.org/sites/default/files/2026/04/16/Homepage_hero_b.jpg",
+   "based": "Boston, US / Oxford, UK",
+   "based_zh": "波士顿，美国 / 牛津，英国",
+   "founded": 1971
+  },
+  {
+   "id": "ebird",
+   "name": "eBird",
+   "type": "database",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Cornell Lab platform where birders submit checklists of the birds they see, building one of the largest biodiversity datasets in the world.",
+   "description_zh": "康奈尔鸟类学实验室的平台，观鸟者提交所见鸟类的清单，形成了全球最大的生物多样性数据集之一。",
+   "url": "https://ebird.org/home",
+   "based": "Ithaca, New York, US",
+   "based_zh": "伊萨卡，纽约州，美国",
+   "founded": 2002
+  },
+  {
+   "id": "eco-jurisprudence-monitor",
+   "name": "Eco Jurisprudence Monitor",
+   "type": "database",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A searchable global map and database of rights-of-nature laws, court rulings, policies and initiatives, maintained with GARN and academic partners.",
+   "description_zh": "一个可检索的全球地图和数据库，收录自然权利的法律、判决、政策和倡议，与 GARN 和学术伙伴共同维护。",
+   "url": "https://ecojurisprudence.org/",
+   "image": "https://ecojurisprudence.org/staging/wp-content/uploads/2025/08/Open-Graph.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "embassy-of-the-north-sea",
+   "name": "Embassy of the North Sea",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An embassy that listens to, speaks with and negotiates on behalf of the plants, animals and people of the North Sea. It works through art, research and law toward the sea's self-representation.",
+   "description_zh": "一个“大使馆”，倾听北海的植物、动物和人，与它们对话并为它们谈判。它通过艺术、研究和法律，推动北海最终能代表自己。",
+   "url": "https://www.embassyofthenorthsea.com/",
+   "image": "https://embassyofthenorthsea.com/wp-content/uploads/2019/05/Noordzeeslak-blauw.jpg",
+   "based": "The Hague, Netherlands",
+   "based_zh": "海牙，荷兰",
+   "founded": 2018,
+   "creator_id": "embassy-of-the-north-sea"
+  },
+  {
+   "id": "emergence-magazine",
+   "name": "Emergence Magazine",
+   "type": "media",
+   "themes": [
+    "indigenous",
+    "futures",
+    "nature-connection"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "An online and print magazine of essays, films and audio stories on ecology, culture and spirituality, often centring Indigenous and relational views of the living world.",
+   "description_zh": "一本线上及印刷杂志，发表关于生态、文化与灵性的文章、影片和音频故事，常以原住民和关系性的世界观为中心。",
+   "url": "https://emergencemagazine.org/",
+   "image": "https://emergencemagazine.org/app/uploads/2021/03/EM-FB.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Emmanuel Vaughan-Lee"
+   ]
+  },
+  {
+   "id": "end-ecocide-on-earth",
+   "name": "End Ecocide on Earth",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A citizens' movement that grew out of a 2013 European Citizens' Initiative and campaigns for ecocide to be recognised as a crime and for the rights of ecosystems.",
+   "description_zh": "一个公民运动，起源于 2013 年的欧洲公民倡议，推动把生态灭绝定为罪行，并承认生态系统的权利。",
+   "url": "https://www.endecocide.org/en/",
+   "based": "France",
+   "based_zh": "法国",
+   "founded": 2013,
+   "people": [
+    "Valérie Cabanes"
+   ]
+  },
+  {
+   "id": "environmental-neuroscience-lab-uchicago",
+   "name": "Environmental Neuroscience Lab (University of Chicago)",
+   "type": "research",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Marc Berman's lab, which studies how natural and urban environments affect attention, mood and behaviour, including work on attention restoration theory.",
+   "description_zh": "Marc Berman 的实验室，研究自然与城市环境如何影响注意力、情绪和行为，包括注意力恢复理论的研究。",
+   "url": "https://voices.uchicago.edu/bermanlab/",
+   "image": "https://voices.uchicago.edu/bermanlab/files/2017/01/Lab_photo.jpg",
+   "based": "Chicago, US",
+   "based_zh": "芝加哥，美国",
+   "people": [
+    "Marc Berman"
+   ]
+  },
+  {
+   "id": "european-centre-environment-human-health",
+   "name": "European Centre for Environment and Human Health (University of Exeter)",
+   "type": "research",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A University of Exeter research centre that studies how natural environments, including green and blue spaces, affect human health, such as the '120 minutes a week in nature' finding.",
+   "description_zh": "埃克塞特大学的研究中心，研究绿色与蓝色空间等自然环境如何影响人类健康，例如“每周在自然中待 120 分钟”的发现。",
+   "url": "https://www.ecehh.org/",
+   "image": "https://www.ecehh.org/wp/wp-content/uploads/2013/05/About-us-400x300-c-default.jpg",
+   "based": "Truro, Cornwall, UK",
+   "based_zh": "特鲁罗，康沃尔，英国",
+   "founded": 2011
+  },
+  {
+   "id": "european-citizen-science-association",
+   "name": "European Citizen Science Association (ECSA)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A membership association that connects citizen science practitioners in Europe, publishes the Ten Principles of Citizen Science and runs a biennial conference.",
+   "description_zh": "一个会员制协会，连接欧洲的公民科学实践者，发布了“公民科学十项原则”，并每两年举办一次大会。",
+   "url": "https://www.ecsa.ngo/",
+   "image": "https://www.ecsa.ngo/wp-content/uploads/2024/07/Climate-change-blog-banner-640x640.jpg",
+   "based": "Berlin, Germany",
+   "based_zh": "柏林，德国",
+   "founded": 2013
+  },
+  {
+   "id": "fathomnet",
+   "name": "FathomNet",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An open image database of labelled ocean life, led by MBARI, used to train AI that can recognise deep-sea animals in underwater video.",
+   "description_zh": "由 MBARI 牵头的开放海洋生物标注图像库，用于训练能识别水下视频中深海动物的 AI。",
+   "url": "https://www.fathomnet.org/",
+   "image": "https://static.wixstatic.com/media/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png/v1/fit/w_2500,h_1330,al_c/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png",
+   "based": "Moss Landing, California, US",
+   "based_zh": "莫斯兰丁，加利福尼亚州，美国"
+  },
+  {
+   "id": "firesticks-alliance",
+   "name": "Firesticks Alliance",
+   "type": "network",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An Indigenous-led network that revives cultural burning, the practice of caring for Country with fire, across Australia.",
+   "description_zh": "一个由原住民主导的网络，在澳大利亚各地复兴文化燃烧，即用火照护土地的传统做法。",
+   "url": "https://www.firesticks.org.au/",
+   "image": "https://livingknowledge.network/wp-content/uploads/DSC6669-1.jpg",
+   "based": "Australia",
+   "based_zh": "澳大利亚"
+  },
+  {
+   "id": "for-the-wild",
+   "name": "For The Wild",
+   "type": "media",
+   "themes": [
+    "futures",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A podcast and media project with conversations on land, rewilding, Indigenous resistance and the more-than-human world.",
+   "description_zh": "一个播客与媒体项目，围绕土地、再野化、原住民抵抗和超越人类世界展开对话。",
+   "url": "https://forthewild.world/",
+   "image": "http://static1.squarespace.com/static/5403e5dbe4b04db10d1d362b/t/605a61eba3f93b0f3d4f14c2/1616536043450/FTW_PodcastCover_2021_1400x.jpg?format=1500w",
+   "based": "US",
+   "based_zh": "美国"
+  },
+  {
+   "id": "forest-school-association",
+   "name": "Forest School Association",
+   "type": "network",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The UK professional body for Forest School, a long-term outdoor learning approach in which children learn through regular sessions in woodland.",
+   "description_zh": "英国森林学校的专业组织。森林学校是一种长期户外学习方式，孩子们定期在林地中学习。",
+   "url": "https://forestschoolassociation.org/",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 2012
+  },
+  {
+   "id": "forest-therapy-society-japan",
+   "name": "Forest Therapy Society (森林セラピーソサエティ)",
+   "type": "network",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Japanese organisation that certifies Forest Therapy Bases and Roads, forests where the relaxing effects of walking have been measured, and trains forest therapy guides.",
+   "description_zh": "日本的一个组织，认证“森林疗法基地”和“森林疗法步道”（经测量证实步行有放松效果的森林），并培训森林疗法向导。",
+   "url": "https://www.fo-society.jp/",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "founded": 2008
+  },
+  {
+   "id": "frogid",
+   "name": "FrogID (Australian Museum)",
+   "type": "network",
+   "themes": [
+    "citizen-science",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An Australian Museum app in which the public records frog calls, which experts identify to map frog species and track declines.",
+   "description_zh": "澳大利亚博物馆的应用，公众录下蛙鸣，由专家鉴定，用于绘制蛙类分布并追踪其减少。",
+   "url": "https://www.frogid.net.au/",
+   "image": "https://media.frogid.net.au/media/dd/images/Litoria_bella_IronRangeNP_QLD_Ro.2e16d0ba.fill-1200x630.3545f7e.webp",
+   "based": "Sydney, Australia",
+   "based_zh": "悉尼，澳大利亚",
+   "founded": 2017
+  },
+  {
+   "id": "future-earth",
+   "name": "Future Earth",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A global network of sustainability researchers that coordinates research on Earth systems and hosts the Earth Commission, which defines safe and just Earth-system boundaries.",
+   "description_zh": "一个全球可持续性研究者网络，协调地球系统研究，并主办“地球委员会”，界定安全与公正的地球系统边界。",
+   "url": "https://futureearth.org/",
+   "image": "https://futureearth.org/wp-content/uploads/2026/09/mike-chavarri-kZokA2VTKn4-unsplash-1024x683.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2015
+  },
+  {
+   "id": "future-ecologies",
+   "name": "Future Ecologies",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A documentary podcast that explores the relationships between people and the rest of nature, through stories about ecology, land and design.",
+   "description_zh": "一档纪录片式播客，通过关于生态、土地与设计的故事，探索人与自然其他部分的关系。",
+   "url": "https://www.futureecologies.net/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5a8e18cbb078699864fdba57/38fffae7-2254-4edf-8267-854c03c513b7/B-mussels-salmon-3-2.jpg",
+   "based": "Vancouver, Canada",
+   "based_zh": "温哥华，加拿大"
+  },
+  {
+   "id": "future-generations-commissioner-wales",
+   "name": "Future Generations Commissioner for Wales",
+   "type": "research",
+   "themes": [
+    "futures",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The office that guards the interests of people not yet born under the Well-being of Future Generations (Wales) Act 2015. It advises Welsh public bodies to think long-term.",
+   "description_zh": "根据 2015 年《威尔士后代福祉法》设立的机构，代表尚未出生者的利益，建议威尔士公共部门进行长期思考。",
+   "url": "https://www.futuregenerations.wales/",
+   "image": "https://futuregenerations.wales/cym/wp-content/uploads/2025/04/Screenshot-2025-04-28-at-23.35.43-1500x750.jpg",
+   "based": "Cardiff, Wales, UK",
+   "based_zh": "加的夫，威尔士，英国",
+   "founded": 2016
+  },
+  {
+   "id": "gbif",
+   "name": "GBIF (Global Biodiversity Information Facility)",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An international network and open data infrastructure that gives free access to billions of species occurrence records from museums, surveys and citizen science.",
+   "description_zh": "一个国际网络和开放数据基础设施，免费提供来自博物馆、调查和公民科学的数十亿条物种分布记录。",
+   "url": "https://www.gbif.org/",
+   "based": "Copenhagen, Denmark",
+   "based_zh": "哥本哈根，丹麦",
+   "founded": 2001,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "global-alliance-rights-of-nature",
+   "name": "Global Alliance for the Rights of Nature (GARN)",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A worldwide network of organisations and individuals working to have the rights of nature recognised in law. It runs the International Rights of Nature Tribunal and connects hundreds of member groups.",
+   "description_zh": "一个全球网络，由致力于让自然权利写入法律的组织和个人组成。它主办国际自然权利法庭，并连接数百个成员团体。",
+   "url": "https://www.garn.org/",
+   "image": "https://www.garn.org/wp-content/uploads/2022/03/shutterstock_1842820804-2048x1366.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2010
+  },
+  {
+   "id": "global-fishing-watch",
+   "name": "Global Fishing Watch",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that publishes a free public map of fishing and vessel activity worldwide, built from satellite and ship-tracking data, to support ocean transparency.",
+   "description_zh": "一个非营利组织，利用卫星和船舶追踪数据发布免费的全球捕捞与船只活动地图，推动海洋透明。",
+   "url": "https://globalfishingwatch.org/",
+   "image": "https://globalfishingwatch.org/wp-content/uploads/partnering_with_planet.webp",
+   "based": "Washington, DC, US",
+   "based_zh": "华盛顿，美国",
+   "founded": 2015,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "global-forest-watch",
+   "name": "Global Forest Watch",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An open platform from the World Resources Institute that shows near-real-time forest loss alerts from satellites so anyone can monitor forests.",
+   "description_zh": "世界资源研究所的开放平台，展示卫星近实时的森林砍伐警报，让任何人都能监测森林。",
+   "url": "https://www.globalforestwatch.org/",
+   "image": "https://www.globalforestwatch.org/preview.jpg",
+   "based": "Washington, DC, US (WRI)",
+   "based_zh": "华盛顿，美国（WRI）",
+   "founded": 1997,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "global-indigenous-data-alliance",
+   "name": "Global Indigenous Data Alliance (GIDA)",
+   "type": "network",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A network of Indigenous data sovereignty groups that published the CARE Principles for Indigenous Data Governance, used alongside FAIR principles in biodiversity and research data.",
+   "description_zh": "一个原住民数据主权团体网络，发布了原住民数据治理 CARE 原则，在生物多样性和科研数据中与 FAIR 原则并用。",
+   "url": "https://www.gida-global.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1575188875010-VCIN832CDU8QB42JTUMO/Screen+Shot+2019-12-01+at+7.24.54+pm.png",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019
+  },
+  {
+   "id": "globe-at-night",
+   "name": "Globe at Night",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A NOIRLab campaign in which people count visible stars to measure light pollution, a threat to nocturnal animals, insects and people alike.",
+   "description_zh": "NOIRLab 发起的活动，人们通过数可见的星星来测量光污染。光污染同样威胁夜行动物、昆虫和人。",
+   "url": "https://globeatnight.org/",
+   "image": "https://s3.us-west-2.amazonaws.com/noirlab.edu.cee.prod/globeatnight/images/grus-outline.width-500.jpg?AWSAccessKeyId=ASIAWX3YSJVTLSL7D26W&Signature=xtkhSJ%2BRFFQ5MrgC7A7t9X5OdP0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGoaCXVzLXdlc3QtMiJHMEUCIQD6gy7VIYPvnBLUXCsSSUdyr92XJykrFipn3bYJCIk5aQIgDHx%2F%2BzjV%2FF%2F7m4YyC0sEfB42i88Kzm8kwIkXK132kBAqhwUIMxABGgw0NjM1NzI0NTQ3NTgiDMgwerbVYxzGgvDkASrkBPQX3uhaFRaP7265JxTYX6o65Uu4ITAH1uHA9g%2B7Pu31NQr1mVzz%2Bo0PIV69CwV3matxTdK7cuXShVjBbjSaDdu64SsOpgDeUuUi4kPBT3y62fJdEDThzPGABu1lJhmZDi%2B%2B0qdna1cv1UnAA1o1y4RUx3oyOHJ2YuXZIQx0jnnKjIojdH8EsjGkbJ%2BHuJmzF7h8cpJldPP0208RIAMflLzM8mVOVzJYuyQLaDPQCgphSVDRNMQ5JhclZTjwUpPlxvYfiVwOTnPmyLYn6bKtokp%2Fal2SWVuX2g%2BGz6fLNy7xFJxSMIQ%2FOWVJGiMIX%2BZtAJx3GbQihp3QMPsEp2czxy7K7FZF6EluRYjy3d1vEfy2RLDHfDG92tFeu2Ci4RcK4IEGqUIRPK0yY%2FnZkuszx%2BkmYBYVU8Eb8Id7shUNypNCFeFLZ6Gzn1U8k5vSfFi%2FkmM3TbeKKXGaHHhr0ntFvDadwz38uaXkd9uG3bTRrwC5ZSSjtjZT2jPPS3MkWDFaEXU3lXLu3WFOx4sBvGeLR5g6j4pz25eJYtQ9ylgGYArAE64cHRk2l2GZIzOsWeBkdUNaAWRdZntRCoX%2FnGvnZdmn7fsQp0Y2vuC%2B0eJXwi8K%2FMJ8E4g82jqTt70DO4W4gpgnN01vUg2SFUsuts%2F3g9%2FsGdTRzf4EvPutEbb9Y7AHHNIPo1gxyBtrKluBlhWa37%2BTKsqrTT5b5RfOmEYICxk2TK551e0bYJVDUZ98ZXD%2FACVGaumlKie9DqS6JNCg%2Fl2E9cgHBvwlCv8iQeNCajo9cjyE%2BXTKkaOd1ER%2FypGroo1yTDCf5ejVBjqYAfVEu0yBDNzdLDFQxG%2B8cyvFuF2aXBNmwnV%2Fv12VvYvXVnCa%2FpQhSKgSMcGyTmY5YCw17Ua1dCtWPdVG0EAocswdComorIGEB1cTR%2FEZ74ckEbbKhzX6HFJnGONxOYIkK4YynQJblyZPm9vlT0ABN0NLQISMGRiDaO%2BIjRi2AlCzKk3AQcqwViNSWuFHjnG0x5vTwoDShXEa&Expires=1790593333",
+   "based": "Tucson, Arizona, US (NOIRLab)",
+   "based_zh": "图森，亚利桑那州，美国（NOIRLab）",
+   "founded": 2006,
+   "creator_id": "noirlab"
+  },
+  {
+   "id": "globe-program",
+   "name": "GLOBE Program (GLOBE Observer)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An international science and education programme in which students and the public collect data on clouds, land cover, trees and mosquitoes that is used by NASA scientists.",
+   "description_zh": "一个国际科学教育项目，学生和公众收集云、地表覆盖、树木和蚊子的数据，供 NASA 科学家使用。",
+   "url": "https://www.globe.gov/",
+   "based": "Global (NASA-supported)",
+   "based_zh": "全球（NASA 支持）",
+   "founded": 1995
+  },
+  {
+   "id": "greenspace-scotland",
+   "name": "Greenspace Scotland",
+   "type": "nonprofit",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Scottish charity that works on the quality of parks and green spaces and their links to health, including green health partnerships and nature prescribing.",
+   "description_zh": "苏格兰的一家慈善机构，关注公园与绿地的质量及其与健康的关系，包括绿色健康伙伴关系和自然处方。",
+   "url": "https://www.greenspacescotland.org.uk/",
+   "image": "https://www.greenspacescotland.org.uk/images/afc8add5-3ef1-4741-bd43-da330fad7ee2/cropped?width=1200&height=630",
+   "based": "Stirling, Scotland, UK",
+   "based_zh": "斯特灵，苏格兰，英国",
+   "founded": 2002
+  },
+  {
+   "id": "hack-the-planet",
+   "name": "Hack the Planet",
+   "type": "company",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Dutch tech studio that builds rugged AI camera traps and sensors that warn communities in real time about elephants, bears and poachers.",
+   "description_zh": "一家荷兰技术工作室，开发坚固的 AI 红外相机和传感器，实时提醒社区大象、熊或偷猎者的出现。",
+   "url": "https://www.hack-the-planet.io/",
+   "image": "https://www.hack-the-planet.io/assets/videos/hero-poster.webp",
+   "based": "Netherlands",
+   "based_zh": "荷兰"
+  },
+  {
+   "id": "happywhale",
+   "name": "Happywhale",
+   "type": "database",
+   "themes": [
+    "citizen-science",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A platform where whale watchers upload tail-fluke photos that AI matches to individual humpbacks and other whales, tracking their journeys across oceans.",
+   "description_zh": "一个平台，赏鲸者上传鲸尾照片，由 AI 匹配到座头鲸等鲸的个体，从而追踪它们跨越海洋的旅程。",
+   "url": "https://happywhale.com/",
+   "based": "Santa Cruz, California, US",
+   "based_zh": "圣克鲁斯，加利福尼亚州，美国",
+   "founded": 2015,
+   "people": [
+    "Ted Cheeseman"
+   ]
+  },
+  {
+   "id": "un-harmony-with-nature",
+   "name": "Harmony with Nature (United Nations)",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A UN programme that tracks rights-of-nature law worldwide and convenes a Knowledge Network of experts in earth jurisprudence. It reports yearly to the UN General Assembly on living in harmony with nature.",
+   "description_zh": "联合国的一个项目，追踪全球自然权利立法，并召集地球法理学专家组成知识网络。它每年就“与自然和谐相处”向联合国大会提交报告。",
+   "url": "http://www.harmonywithnatureun.org/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2009
+  },
+  {
+   "id": "hints-lab",
+   "name": "Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)",
+   "type": "research",
+   "themes": [
+    "nature-connection",
+    "mth-design"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Peter Kahn's lab at the University of Washington, which studies how people interact with nature and with technological nature such as robots and nature displays, and the idea of 'environmental generational amnesia'.",
+   "description_zh": "Peter Kahn 在华盛顿大学的实验室，研究人如何与自然以及机器人、自然影像等“技术自然”互动，并提出“环境代际遗忘”概念。",
+   "url": "https://depts.washington.edu/hints/",
+   "image": "https://sites.uw.edu/hints/files/2023/09/download-1.png",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "people": [
+    "Peter H. Kahn Jr."
+   ]
+  },
+  {
+   "id": "icarus-max-planck",
+   "name": "ICARUS (International Cooperation for Animal Research Using Space)",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni",
+    "aci"
+   ],
+   "description": "A Max Planck project that tracks small animals worldwide with tiny tags read by satellites, to build an 'internet of animals' that follows migrations and animal behaviour.",
+   "description_zh": "马克斯·普朗克的项目，用卫星读取的微型标签在全球追踪小型动物，建立追踪迁徙与动物行为的“动物互联网”。",
+   "url": "https://www.icarus.mpg.de/",
+   "based": "Radolfzell, Germany",
+   "based_zh": "拉多尔夫采尔，德国",
+   "people": [
+    "Martin Wikelski"
+   ]
+  },
+  {
+   "id": "icca-consortium",
+   "name": "ICCA Consortium",
+   "type": "network",
+   "themes": [
+    "indigenous",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A global association supporting territories and areas conserved by Indigenous peoples and local communities (ICCAs), known as 'territories of life'.",
+   "description_zh": "一个全球协会，支持由原住民和地方社区保护的领地和区域（ICCA），也称“生命的领地”。",
+   "url": "https://www.iccaconsortium.org/",
+   "image": "https://www.iccaconsortium.org/wp-content/uploads/2025/08/icca-15y-a-03-1-600x481.png",
+   "based": "Global",
+   "based_zh": "全球"
+  },
+  {
+   "id": "inaturalist",
+   "name": "iNaturalist",
+   "type": "network",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A global community and app where people share photos of plants, animals and fungi, and other users and computer vision help identify them. Its observations feed research through GBIF.",
+   "description_zh": "一个全球社群和应用，人们分享植物、动物和真菌的照片，由其他用户和计算机视觉协助鉴定。这些观察记录通过 GBIF 进入科研。",
+   "url": "https://www.inaturalist.org/",
+   "image": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+   "based": "Oakland, California, US",
+   "based_zh": "奥克兰，加利福尼亚州，美国",
+   "founded": 2008,
+   "creator_id": "inaturalist"
+  },
+  {
+   "id": "indigenous-climate-action",
+   "name": "Indigenous Climate Action",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An Indigenous-led organisation in Canada that centres Indigenous knowledge and rights in climate action, and trains community climate leaders.",
+   "description_zh": "加拿大一个由原住民主导的组织，把原住民知识与权利放在气候行动的中心，并培养社区气候领导者。",
+   "url": "https://www.indigenousclimateaction.com/",
+   "based": "Canada",
+   "based_zh": "加拿大"
+  },
+  {
+   "id": "indigenous-environmental-network",
+   "name": "Indigenous Environmental Network",
+   "type": "network",
+   "themes": [
+    "indigenous",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An alliance of Indigenous grassroots groups working on environmental and economic justice, protection of sacred sites and the rights of Mother Earth.",
+   "description_zh": "一个原住民基层团体联盟，致力于环境与经济正义、保护圣地和地球母亲的权利。",
+   "url": "https://www.ienearth.org/",
+   "image": "https://www.ienearth.org/wp-content/uploads/2026/09/banner-w-ext-border.jpg",
+   "based": "Bemidji, Minnesota, US",
+   "based_zh": "贝米吉，明尼苏达州，美国",
+   "founded": 1990,
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "indigenous-leadership-initiative",
+   "name": "Indigenous Leadership Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A First Nations organisation that supports Indigenous Guardians programmes and Indigenous Protected and Conserved Areas in Canada.",
+   "description_zh": "一个第一民族组织，支持加拿大的原住民守护者项目和原住民保护区。",
+   "url": "https://www.ilinationhood.ca/",
+   "image": "http://static1.squarespace.com/static/5f8367238502ed181766aaf0/t/5fb4318d7f3a0e0136c640e1/1613681905206/RyanDickie.jpg?format=1500w",
+   "based": "Canada",
+   "based_zh": "加拿大"
+  },
+  {
+   "id": "indigenous-protocol-ai",
+   "name": "Indigenous Protocol and AI Working Group",
+   "type": "research",
+   "themes": [
+    "indigenous",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A group of Indigenous scholars and technologists who asked how AI could be built from Indigenous perspectives, including relationships with nonhuman kin. Its 2020 position paper is widely cited.",
+   "description_zh": "一个由原住民学者和技术人员组成的小组，探讨如何从原住民视角构建 AI，包括与非人类亲属的关系。它 2020 年的立场文件被广泛引用。",
+   "url": "https://www.indigenous-ai.net/",
+   "image": "https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019,
+   "people": [
+    "Jason Edward Lewis"
+   ]
+  },
+  {
+   "id": "institute-for-the-future",
+   "name": "Institute for the Future (IFTF)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A nonprofit futures research organisation that makes long-range forecasts, games and scenarios, including work on climate futures and relationships with the natural world.",
+   "description_zh": "一个非营利未来研究机构，制作长期预测、游戏和情景，包括关于气候未来和人与自然关系的研究。",
+   "url": "https://www.iftf.org/",
+   "image": "https://www.iftf.org/images/site/_1200x630_crop_center-center_none/What-IF.png",
+   "based": "Palo Alto, California, US",
+   "based_zh": "帕洛阿尔托，加利福尼亚州，美国",
+   "founded": 1968
+  },
+  {
+   "id": "ibol",
+   "name": "International Barcode of Life (iBOL)",
+   "type": "network",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A research alliance that builds a DNA barcode library of all multicellular life so species can be identified from small tissue or environmental samples.",
+   "description_zh": "一个研究联盟，为所有多细胞生物建立 DNA 条形码库，使人们能从少量组织或环境样本中识别物种。",
+   "url": "https://ibol.org/",
+   "image": "https://ibol.org/wp/wp-content/uploads/2023/02/2016-08-17-12.50.20-1024x680.jpg",
+   "based": "Guelph, Canada",
+   "based_zh": "圭尔夫，加拿大",
+   "founded": 2010,
+   "people": [
+    "Paul Hebert"
+   ]
+  },
+  {
+   "id": "international-living-future-institute",
+   "name": "International Living Future Institute",
+   "type": "nonprofit",
+   "themes": [
+    "nature-connection",
+    "mth-design"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that runs the Living Building Challenge, a building standard that requires regenerative, nature-connected design, including a biophilic design requirement.",
+   "description_zh": "一个运营“生命建筑挑战”的非营利组织。该建筑标准要求再生性、与自然相连的设计，其中包括亲生命设计要求。",
+   "url": "https://living-future.org/",
+   "image": "https://living-future.org/wp-content/uploads/2024/09/01-kendeda-building-under-sunny-skies_48911190001_o-1024x683.jpg",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国",
+   "founded": 2009
+  },
+  {
+   "id": "international-rights-of-nature-tribunal",
+   "name": "International Rights of Nature Tribunal",
+   "type": "event",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A people's tribunal convened by GARN that hears cases about harm to ecosystems, such as the Amazon and the Great Barrier Reef, using the Universal Declaration of the Rights of Mother Earth.",
+   "description_zh": "由 GARN 召集的民间法庭，依据《地球母亲权利普遍宣言》审理亚马孙、大堡礁等生态系统受损的案件。",
+   "url": "https://www.rightsofnaturetribunal.org/",
+   "image": "https://www.rightsofnaturetribunal.org/wp-content/uploads/2018/04/visual-seo.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2014
+  },
+  {
+   "id": "international-rivers",
+   "name": "International Rivers",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An organisation that defends rivers and river communities against destructive dams, and campaigns for the rights of rivers. It co-organises the International Day of Action for Rivers.",
+   "description_zh": "一家保护河流及沿河社区、反对破坏性水坝的组织，也推动河流权利。它共同发起国际河流行动日。",
+   "url": "https://www.internationalrivers.org/",
+   "image": "https://www.internationalrivers.org/wp-content/uploads/sites/86/2020/04/WebsiteBannerImage-1-1920x608.png",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 1985,
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "infom",
+   "name": "International Society of Nature and Forest Medicine (INFOM)",
+   "type": "network",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A scientific society that studies the health effects of forests and nature, such as effects of forest bathing on stress hormones and immune cells.",
+   "description_zh": "一个研究森林与自然对健康影响的学术团体，例如森林浴对压力激素和免疫细胞的影响。",
+   "url": "https://www.infom.org/",
+   "image": "https://www.infom.org/images/index_kv01.jpg",
+   "based": "Tokyo, Japan",
+   "based_zh": "东京，日本",
+   "people": [
+    "Qing Li"
+   ]
+  },
+  {
+   "id": "internet-of-elephants",
+   "name": "Internet of Elephants",
+   "type": "company",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Kenyan social enterprise that turns real wildlife tracking and research data into games, stories and digital experiences that connect people to individual animals.",
+   "description_zh": "一家肯尼亚社会企业，把真实的野生动物追踪和研究数据变成游戏、故事和数字体验，让人们与动物个体建立联系。",
+   "url": "https://internetofelephants.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/637133d1b288b81afd22e265/b4b53de7-889e-484e-9938-afd87163e5ef/metaverse-nature-wildlife-ioe.gif",
+   "based": "Nairobi, Kenya",
+   "based_zh": "内罗毕，肯尼亚",
+   "founded": 2016,
+   "people": [
+    "Gautam Shah"
+   ]
+  },
+  {
+   "id": "ipbes",
+   "name": "IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services)",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The intergovernmental body that assesses the state of biodiversity for policymakers. Its 2022 Values Assessment brought relational and Indigenous values of nature into the science-policy debate.",
+   "description_zh": "为政策制定者评估生物多样性状况的政府间机构。它 2022 年的价值评估把关系性价值和原住民对自然的价值观带入科学与政策讨论。",
+   "url": "https://www.ipbes.net/",
+   "image": "https://www.ipbes.net/sites/default/files/styles/hero_header_16_9_640_x_360/public/video_thumbnails/g-fc-pe17RI.jpg.webp?itok=MTFgBBFm",
+   "based": "Bonn, Germany",
+   "based_zh": "波恩，德国",
+   "founded": 2012
+  },
+  {
+   "id": "irecord",
+   "name": "iRecord",
+   "type": "database",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A UK website and app for sharing wildlife sightings, which are checked by expert verifiers and used for national species atlases.",
+   "description_zh": "英国分享野生动物目击记录的网站和应用，记录由专家核验，用于全国物种图集。",
+   "url": "https://irecord.org.uk/",
+   "image": "https://irecord.org.uk/sites/default/files/images/field-viewers.jpg",
+   "based": "UK (UKCEH Biological Records Centre)",
+   "based_zh": "英国（UKCEH 生物记录中心）"
+  },
+  {
+   "id": "ispot",
+   "name": "iSpot",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An Open University community for identifying wildlife from photos, designed to help beginners learn identification from experts.",
+   "description_zh": "开放大学的一个社群，通过照片鉴定野生动物，旨在帮助初学者向专家学习鉴定。",
+   "url": "https://www.ispotnature.org/",
+   "based": "Milton Keynes, UK (The Open University)",
+   "based_zh": "米尔顿凯恩斯，英国（开放大学）",
+   "founded": 2009
+  },
+  {
+   "id": "iucn-red-list",
+   "name": "IUCN Red List of Threatened Species",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The world's main source on the extinction risk of animals, fungi and plants, assessing more than 160,000 species.",
+   "description_zh": "全球关于动物、真菌和植物灭绝风险的主要信息来源，已评估超过 16 万个物种。",
+   "url": "https://www.iucnredlist.org/",
+   "image": "https://nrl.iucnredlist.org/assets/home/green_turtle-0260cf7fba13a743876327096e883697733e57c46ed2e75429b4e3b5c56db41e.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 1964
+  },
+  {
+   "id": "journey-north",
+   "name": "Journey North",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A citizen science programme that maps the seasonal migrations of monarch butterflies, hummingbirds and other species from public sightings.",
+   "description_zh": "一个公民科学项目，根据公众目击记录绘制帝王蝶、蜂鸟等物种的季节迁徙地图。",
+   "url": "https://journeynorth.org/",
+   "image": "https://mjv.nyc3.cdn.digitaloceanspaces.com/journey/images/design/jn-share.jpg",
+   "based": "University of Wisconsin–Madison, US",
+   "based_zh": "威斯康星大学麦迪逊分校，美国",
+   "founded": 1994
+  },
+  {
+   "id": "k-lisa-yang-center-conservation-bioacoustics",
+   "name": "K. Lisa Yang Center for Conservation Bioacoustics",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Cornell Lab centre that develops acoustic recorders, AI tools such as BirdNET, and sound analysis software (Raven) to monitor elephants, whales, birds and forests by listening.",
+   "description_zh": "康奈尔鸟类学实验室下属中心，开发录音设备、BirdNET 等 AI 工具和声音分析软件 Raven，通过聆听来监测大象、鲸、鸟类和森林。",
+   "url": "https://www.birds.cornell.edu/ccb/",
+   "based": "Ithaca, New York, US",
+   "based_zh": "伊萨卡，纽约州，美国"
+  },
+  {
+   "id": "lawyers-for-nature",
+   "name": "Lawyers for Nature",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A UK group of lawyers who give nature a voice in decision-making, advising on rights of nature, river rights and 'Nature on the Board' models for companies.",
+   "description_zh": "英国的一群律师，在决策中为自然发声，就自然权利、河流权利和“让自然进入董事会”的公司模式提供咨询。",
+   "url": "https://www.lawyersfornature.com/",
+   "image": "https://cdn.prod.website-files.com/66e67eed95c2eb7826f5c730/674e90507db69f17aac50802_open%20graph%20image.png",
+   "based": "UK",
+   "based_zh": "英国",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "limelight-rainforest",
+   "name": "Limelight Rainforest",
+   "type": "research",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The team that won the XPRIZE Rainforest grand prize in 2024, combining canopy rafts, drones, sound recorders and AI to inventory rainforest species.",
+   "description_zh": "2024 年 XPRIZE 雨林奖的冠军团队，结合树冠筏、无人机、录音设备和 AI 来清点雨林物种。",
+   "url": "https://limelightrainforest.org/",
+   "image": "https://limelightrainforest.org/images/slider/limelight.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "found_via": "https://www.xprize.org/prizes/rainforest"
+  },
+  {
+   "id": "local-contexts",
+   "name": "Local Contexts",
+   "type": "database",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An initiative that provides Traditional Knowledge and Biocultural Labels, digital tags Indigenous communities attach to data, samples and collections to assert their rights and provenance.",
+   "description_zh": "一个倡议，提供“传统知识标签”和“生物文化标签”，原住民社区可把这些数字标签附在数据、样本和藏品上，以声明权利与来源。",
+   "url": "https://localcontexts.org/",
+   "image": "https://localcontexts.org/wp-content/uploads/2020/11/hero_overlay_generic.png",
+   "based": "Global",
+   "based_zh": "全球"
+  },
+  {
+   "id": "macaulay-library",
+   "name": "Macaulay Library",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The Cornell Lab's archive of wildlife sounds, photos and videos, with tens of millions of media files contributed largely by birders through eBird.",
+   "description_zh": "康奈尔鸟类学实验室的野生动物声音、照片和视频档案库，收藏数千万个媒体文件，大部分由观鸟者通过 eBird 贡献。",
+   "url": "https://www.macaulaylibrary.org/",
+   "image": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/115245701/1200",
+   "based": "Ithaca, New York, US",
+   "based_zh": "伊萨卡，纽约州，美国",
+   "founded": 1929,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "map-of-life",
+   "name": "Map of Life",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Yale-led platform that maps where more than 450,000 species live and tracks biodiversity indicators for countries and protected areas.",
+   "description_zh": "由耶鲁大学主导的平台，绘制 45 万多个物种的分布，并为各国和保护区追踪生物多样性指标。",
+   "url": "https://mol.org/",
+   "image": "https://framerusercontent.com/assets/PLlOhO1f7tSSSCIM7P7TuQ0yE.png",
+   "based": "Yale University, US",
+   "based_zh": "耶鲁大学，美国",
+   "people": [
+    "Walter Jetz"
+   ],
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "microsoft-ai-for-good-lab",
+   "name": "Microsoft AI for Good Lab",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Microsoft's applied research lab for social and environmental problems. Its biodiversity work includes PyTorch-Wildlife, MegaDetector for camera-trap images and species monitoring with partners.",
+   "description_zh": "微软面向社会和环境问题的应用研究实验室。其生物多样性工作包括 PyTorch-Wildlife、用于红外相机图像的 MegaDetector，以及与伙伴合作的物种监测。",
+   "url": "https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2022/11/Homepage_banner.jpg",
+   "based": "Redmond, Washington, US",
+   "based_zh": "雷德蒙德，华盛顿州，美国",
+   "founded": 2018,
+   "people": [
+    "Juan Lavista Ferres"
+   ]
+  },
+  {
+   "id": "monarch-watch",
+   "name": "Monarch Watch",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A programme at the University of Kansas where volunteers tag monarch butterflies and plant milkweed 'Monarch Waystations' to support their migration.",
+   "description_zh": "堪萨斯大学的项目，志愿者为帝王蝶做标记，并种植马利筋建立“帝王蝶驿站”，支持它们迁徙。",
+   "url": "https://monarchwatch.org/",
+   "image": "https://monarchwatch.org/grafx/monarchwatch_header_1500x500.jpg",
+   "based": "University of Kansas, US",
+   "based_zh": "堪萨斯大学，美国",
+   "founded": 1992,
+   "people": [
+    "Chip Taylor"
+   ]
+  },
+  {
+   "id": "mongabay",
+   "name": "Mongabay",
+   "type": "media",
+   "themes": [
+    "conservation-tech",
+    "indigenous"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit environmental news outlet that reports on forests, oceans, wildlife and Indigenous land in several languages, with a regular series on conservation technology.",
+   "description_zh": "一个非营利环境新闻机构，用多种语言报道森林、海洋、野生动物和原住民土地，并设有保护技术专题。",
+   "url": "https://www.mongabay.com/",
+   "image": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-350x233.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 1999,
+   "people": [
+    "Rhett Butler"
+   ]
+  },
+  {
+   "id": "nyu-more-than-human-life",
+   "name": "More-Than-Human Life (MOTH) Program, NYU Law",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "mth-design",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A programme at NYU School of Law that works on the rights of nature and nonhuman animals through legal research, strategic litigation support and storytelling.",
+   "description_zh": "纽约大学法学院的一个项目，通过法律研究、战略诉讼支持和叙事，推动自然与非人类动物的权利。",
+   "url": "https://www.mothlife.org/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "César Rodríguez-Garavito"
+   ],
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "mosquito-alert",
+   "name": "Mosquito Alert",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A citizen science app and research project in which people photograph mosquitoes and breeding sites, helping experts and AI track invasive and disease-carrying species.",
+   "description_zh": "一个公民科学应用和研究项目，人们拍摄蚊子和孳生地，帮助专家和 AI 追踪入侵和传病的蚊种。",
+   "url": "https://www.mosquitoalert.com/",
+   "image": "http://www.mosquitoalert.com/wp-content/uploads/2025/09/6-1024x1024.png",
+   "based": "Barcelona, Spain",
+   "based_zh": "巴塞罗那，西班牙",
+   "founded": 2014,
+   "creator_id": "mosquito-alert"
+  },
+  {
+   "id": "movebank",
+   "name": "Movebank",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni",
+    "aci"
+   ],
+   "description": "A free online database of animal tracking data hosted by the Max Planck Institute of Animal Behavior, holding billions of GPS locations from thousands of species.",
+   "description_zh": "由马克斯·普朗克动物行为研究所托管的免费动物追踪数据库，收录数千个物种的数十亿个 GPS 定位点。",
+   "url": "https://www.movebank.org/",
+   "image": "https://www.movebank.org/cms/img/data_public_studies_20191211.jpg",
+   "based": "Konstanz, Germany",
+   "based_zh": "康斯坦茨，德国",
+   "people": [
+    "Martin Wikelski"
+   ]
+  },
+  {
+   "id": "native-land-digital",
+   "name": "Native Land Digital",
+   "type": "database",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth",
+    "hni"
+   ],
+   "description": "An Indigenous-led nonprofit that maps Indigenous territories, languages and treaties worldwide so people can learn whose land they live on.",
+   "description_zh": "一个由原住民主导的非营利组织，绘制全球原住民领地、语言和条约的地图，让人们了解自己生活在谁的土地上。",
+   "url": "https://native-land.ca/",
+   "image": "https://d75cfcm8x0ifj.cloudfront.net/zine/1/split-05-L.jpg",
+   "based": "Canada",
+   "based_zh": "加拿大",
+   "founded": 2015
+  },
+  {
+   "id": "native-seeds-search",
+   "name": "Native Seeds/SEARCH",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A seed bank that conserves arid-adapted crop varieties of the US Southwest and returns seeds to Native American communities through its Native American Seed Share.",
+   "description_zh": "一个种子库，保存美国西南部适应干旱的作物品种，并通过“原住民种子分享”项目把种子交还给原住民社区。",
+   "url": "https://www.nativeseeds.org/",
+   "image": "https://www.nativeseeds.org/cdn/shop/files/Dried_peppers_available_in_the_Sonoran_Pantry_212a5019-b00e-412c-b983-01b7756dbb4d_550x.jpg?v=1660254684",
+   "based": "Tucson, Arizona, US",
+   "based_zh": "图森，亚利桑那州，美国",
+   "founded": 1983
+  },
+  {
+   "id": "natural-capital-alliance-stanford",
+   "name": "Natural Capital Alliance (formerly Natural Capital Project, Stanford)",
+   "type": "research",
+   "themes": [
+    "nature-connection",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Stanford-led partnership that builds free tools such as InVEST to map the benefits nature gives people, including mental health benefits of nature experience.",
+   "description_zh": "由斯坦福大学牵头的合作组织，开发 InVEST 等免费工具，绘制自然给人类带来的益处，包括接触自然对心理健康的益处。",
+   "url": "https://naturalcapitalalliance.stanford.edu/",
+   "image": "https://naturalcapitalalliance.stanford.edu/sites/g/files/sbiybj25256/files/styles/card_1192x596/public/media/image/weixin_image_20260916104150_77_2_tongwu_0.jpg?h=06b0bff9&itok=zvSxe8Ut",
+   "based": "Stanford, California, US",
+   "based_zh": "斯坦福，加利福尼亚州，美国",
+   "founded": 2006,
+   "people": [
+    "Gretchen Daily"
+   ]
+  },
+  {
+   "id": "naturalis-biodiversity-center",
+   "name": "Naturalis Biodiversity Center",
+   "type": "research",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The Dutch national natural history museum and research centre, which also builds AI species recognition and automated biodiversity monitoring (ARISE).",
+   "description_zh": "荷兰国家自然历史博物馆和研究中心，也开发 AI 物种识别和自动化生物多样性监测（ARISE）。",
+   "url": "https://www.naturalis.nl/",
+   "image": "https://www.naturalis.nl/uploads/styles/auto_1024/public/background/LiveScience.jpg.webp?itok=W4G9P763",
+   "based": "Leiden, Netherlands",
+   "based_zh": "莱顿，荷兰",
+   "founded": 2010,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "naturalista-mexico",
+   "name": "NaturaLista (CONABIO)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Mexico's national node of iNaturalist, run by the biodiversity commission CONABIO, with one of the largest observer communities in Latin America.",
+   "description_zh": "iNaturalist 在墨西哥的国家节点，由生物多样性委员会 CONABIO 运营，拥有拉丁美洲最大的观察者社群之一。",
+   "url": "https://www.naturalista.mx/",
+   "based": "Mexico City, Mexico",
+   "based_zh": "墨西哥城，墨西哥",
+   "founded": 2013
+  },
+  {
+   "id": "nature-connectedness-research-group",
+   "name": "Nature Connectedness Research Group (University of Derby)",
+   "type": "research",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A research group that studies people's sense of connection with nature and its effects on wellbeing and pro-nature behaviour, and developed the 'pathways to nature connectedness'.",
+   "description_zh": "一个研究人与自然联结感及其对幸福感和亲自然行为影响的团队，提出了“通往自然联结的路径”。",
+   "url": "https://www.derby.ac.uk/research/themes/zero-carbon/zero-carbon-nbs-research-centre/nature-connectedness-research-group/",
+   "image": "https://cdn-derbyacuk.terminalfour.net/media/derbyacuk/assets/research/research-groups/images/Derby-4531-1466.jpg",
+   "based": "Derby, UK",
+   "based_zh": "德比，英国",
+   "people": [
+    "Miles Richardson"
+   ]
+  },
+  {
+   "id": "natures-calendar",
+   "name": "Nature's Calendar (Woodland Trust)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Woodland Trust phenology project in which volunteers record signs of the seasons, such as first leaves and first swallows, to track climate change.",
+   "description_zh": "林地信托的物候项目，志愿者记录季节信号（如第一片叶子、第一只燕子），追踪气候变化。",
+   "url": "https://naturescalendar.woodlandtrust.org.uk/",
+   "image": "https://naturescalendar.woodlandtrust.org.uk/media/2854/bramble-ben-lee.jpg",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 2000
+  },
+  {
+   "id": "natures-rights",
+   "name": "Nature's Rights",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A European movement for the legal recognition of nature's rights, which drafted a proposal for an EU directive on the rights of nature.",
+   "description_zh": "一个推动法律承认自然权利的欧洲运动，起草过欧盟自然权利指令的提案。",
+   "url": "https://www.natures-rights.org/",
+   "image": "https://static.wixstatic.com/media/e79a31_fbbcdd6750b944c19f32356124d7bb1d~mv2.jpg/v1/crop/x_0,y_206,w_1864,h_422/fill/w_380,h_86,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Linear_edited.jpg",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "people": [
+    "Mumta Ito"
+   ]
+  },
+  {
+   "id": "naturemetrics",
+   "name": "NatureMetrics",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A company that measures biodiversity from environmental DNA in water and soil samples, used by companies, governments and conservation groups.",
+   "description_zh": "一家通过水和土壤样本中的环境 DNA 测量生物多样性的公司，客户包括企业、政府和保护组织。",
+   "url": "https://www.naturemetrics.com/",
+   "image": "https://cdn.prod.website-files.com/6a4525e2958dfb4523426eb9/6a58eb1b23369ddb79faae58_Frame%2027071.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2014,
+   "creator_id": "naturemetrics"
+  },
+  {
+   "id": "natureserve",
+   "name": "NatureServe",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A network of biodiversity data centres in the Americas that tracks the status of species and ecosystems for conservation planning.",
+   "description_zh": "美洲生物多样性数据中心的网络，追踪物种和生态系统的状况，服务保护规划。",
+   "url": "https://www.natureserve.org/",
+   "image": "https://www.natureserve.org/sites/default/files/2021-09/hero-home-heron-water-teaser.jpg",
+   "based": "Arlington, Virginia, US",
+   "based_zh": "阿灵顿，弗吉尼亚州，美国",
+   "founded": 1994
+  },
+  {
+   "id": "ndn-collective",
+   "name": "NDN Collective",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An Indigenous-led organisation that funds and organises Indigenous communities, including the LANDBACK campaign to return land to Indigenous stewardship.",
+   "description_zh": "一个由原住民主导的组织，资助并组织原住民社区，包括推动把土地交还原住民管护的 LANDBACK 运动。",
+   "url": "https://ndncollective.org/",
+   "image": "https://ndncollective.sfo3.digitaloceanspaces.com/wp-content/uploads/2026/09/15230148/2024-IPD-PressRelease-8-672x448.jpg",
+   "based": "Rapid City, South Dakota, US",
+   "based_zh": "拉皮德城，南达科他州，美国",
+   "founded": 2018
+  },
+  {
+   "id": "netzwerk-rechte-der-natur",
+   "name": "Netzwerk Rechte der Natur",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A German-speaking network that campaigns for rights of nature in Germany, Austria and Switzerland, and collects legal texts and news on the topic.",
+   "description_zh": "一个德语网络，在德国、奥地利和瑞士推动自然权利，并收集相关法律文本和新闻。",
+   "url": "https://www.rechte-der-natur.de/",
+   "image": "https://www.rechte-der-natur.de/assets/images/2/Netzwerk_Rechte_der_Natur_qgr-3nqqj18824rtx88.png",
+   "based": "Germany",
+   "based_zh": "德国",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "nga-tangata-tiaki-o-whanganui",
+   "name": "Ngā Tāngata Tiaki o Whanganui (Te Awa Tupua)",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The iwi trust for the Whanganui River settlement. The 2017 Te Awa Tupua Act made the Whanganui River a legal person, with human guardians who speak for it.",
+   "description_zh": "旺格努伊河和解协议的部落信托机构。2017 年的《Te Awa Tupua 法》使旺格努伊河成为法人，并由人类监护人代表河流发言。",
+   "url": "https://www.ngatangatatiaki.co.nz/",
+   "image": "https://www.ngatangatatiaki.co.nz/assets/Rangatira-o-te-kereme.jpg",
+   "based": "Whanganui, Aotearoa New Zealand",
+   "based_zh": "旺格努伊，新西兰"
+  },
+  {
+   "id": "noema-magazine",
+   "name": "Noema Magazine",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A magazine of the Berggruen Institute on philosophy, governance, technology and the planet, publishing essays on nonhuman intelligence, planetary thinking and ecology.",
+   "description_zh": "伯格鲁恩研究所出版的杂志，关注哲学、治理、技术与地球，发表关于非人类智能、行星思维和生态的文章。",
+   "url": "https://www.noemamag.com/",
+   "image": "https://noemamag.imgix.net/2026/08/Noema_Issue7_Cover-1.jpg?fit=fit&fm=jpg&h=511&ixlib=php-3.3.1&w=767&s=22eefae91e3cc7d0e0023ee36c5d6ff9",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国",
+   "founded": 2020
+  },
+  {
+   "id": "nonhuman-nonsense",
+   "name": "Nonhuman Nonsense",
+   "type": "company",
+   "themes": [
+    "futures",
+    "mth-design",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A research-driven design and art studio that makes near-future fabulations about nonhuman rights and planetary personhood, such as 'Planetary Personhood'.",
+   "description_zh": "一家以研究为导向的设计与艺术工作室，创作关于非人类权利和行星人格的近未来虚构作品，如《行星人格》。",
+   "url": "https://nonhuman-nonsense.com/",
+   "image": "http://static1.squarespace.com/static/591f0cd3d2b857d64548a441/t/5d974563bd39b93acdf3f262/1570194790220/showreel_frame_625_1000.jpg?format=1500w",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "creator_id": "nonhuman-nonsense"
+  },
+  {
+   "id": "nonhuman-rights-project",
+   "name": "Nonhuman Rights Project",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "animal-welfare",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "A civil-rights organisation that brings habeas corpus cases to win legal personhood and liberty for cognitively complex animals such as elephants and chimpanzees.",
+   "description_zh": "一家民权组织，通过人身保护令诉讼，为大象、黑猩猩等认知复杂的动物争取法律人格与自由。",
+   "url": "https://www.nonhumanrights.org/",
+   "image": "https://www.nonhumanrights.org/wp-content/uploads/2023/06/BillyDodsonelephantcloseup-scaled-1-e1782152599555.webp",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 1996,
+   "people": [
+    "Steven M. Wise"
+   ],
+   "creator_id": "nonhuman-rights-project"
+  },
+  {
+   "id": "nordic-alliance-rights-of-nature",
+   "name": "Nordic Alliance for the Rights of Nature (Nature & Democracy)",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Nordic platform that works to change the legal and cultural understanding of nature, pushing for rights of nature in Sweden, Norway, Finland, Denmark and Iceland.",
+   "description_zh": "一个北欧平台，致力于改变人们对自然的法律与文化理解，推动瑞典、挪威、芬兰、丹麦和冰岛承认自然权利。",
+   "url": "https://natureanddemocracy.org/",
+   "image": "https://natureanddemocracy.org/img/alliance_soccard.JPG",
+   "based": "Nordic countries",
+   "based_zh": "北欧",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "obis",
+   "name": "OBIS (Ocean Biodiversity Information System)",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A UNESCO global open-access database of marine species occurrences, gathered from thousands of datasets.",
+   "description_zh": "联合国教科文组织的全球开放获取海洋物种分布数据库，整合了数千个数据集。",
+   "url": "https://obis.org/",
+   "image": "https://obis.org/images/OBIS-Poland_00001.jpeg",
+   "based": "Ostend, Belgium (UNESCO-IOC)",
+   "based_zh": "奥斯坦德，比利时（UNESCO-IOC）",
+   "founded": 2000
+  },
+  {
+   "id": "observation-org",
+   "name": "Observation.org (Waarneming.nl)",
+   "type": "database",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Dutch-born nature recording platform, with the ObsIdentify app, where people log sightings of all species. It is widely used across Europe.",
+   "description_zh": "起源于荷兰的自然记录平台，配有 ObsIdentify 应用，人们在上面记录所有物种的目击情况，在欧洲广泛使用。",
+   "url": "https://observation.org/",
+   "based": "Netherlands",
+   "based_zh": "荷兰",
+   "founded": 2004
+  },
+  {
+   "id": "open-acoustic-devices",
+   "name": "Open Acoustic Devices (AudioMoth)",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Makers of AudioMoth, a low-cost open-source acoustic logger used by researchers and citizen scientists to record birds, bats, insects and whole soundscapes.",
+   "description_zh": "AudioMoth 的制造者。这是一款低成本开源录音设备，研究者和公民科学家用它录制鸟类、蝙蝠、昆虫和整个声景。",
+   "url": "https://www.openacousticdevices.info/",
+   "image": "https://static.wixstatic.com/media/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg/v1/fill/w_1362,h_1247,al_c/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg",
+   "based": "Southampton, UK",
+   "based_zh": "南安普顿，英国",
+   "founded": 2017,
+   "people": [
+    "Alex Rogers",
+    "Andrew Hill",
+    "Peter Prince"
+   ],
+   "creator_id": "open-acoustic-devices"
+  },
+  {
+   "id": "orcasound",
+   "name": "Orcasound",
+   "type": "network",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni",
+    "aci"
+   ],
+   "description": "A hydrophone network in the Salish Sea that streams live underwater sound so the public can listen for endangered Southern Resident orcas and help label their calls.",
+   "description_zh": "萨利希海的一个水听器网络，直播水下声音，让公众聆听濒危的南方居留型虎鲸，并协助标注它们的叫声。",
+   "url": "https://www.orcasound.net/",
+   "based": "Salish Sea, US / Canada",
+   "based_zh": "萨利希海，美国 / 加拿大"
+  },
+  {
+   "id": "orion-magazine",
+   "name": "Orion Magazine",
+   "type": "media",
+   "themes": [
+    "futures",
+    "nature-connection"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "An ad-free magazine of nature, culture and place, publishing writers such as Robin Wall Kimmerer and Barry Lopez on how people relate to the natural world.",
+   "description_zh": "一本无广告的自然、文化与地方杂志，刊登 Robin Wall Kimmerer、Barry Lopez 等作者关于人与自然关系的写作。",
+   "url": "https://orionmagazine.org/",
+   "image": "https://orionmagazine.org/wp-content/uploads/2024/05/scablands-flyout-1440-1176x1176.jpg",
+   "based": "Northampton, Massachusetts, US",
+   "based_zh": "北安普顿，马萨诸塞州，美国",
+   "founded": 1982
+  },
+  {
+   "id": "pachamama-alliance",
+   "name": "Pachamama Alliance",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An organisation formed at the invitation of Achuar leaders to protect the Amazon rainforest and to help people in the Global North rethink their relationship with the Earth.",
+   "description_zh": "应 Achuar 族领袖邀请成立的组织，保护亚马孙雨林，并帮助全球北方的人们重新思考与地球的关系。",
+   "url": "https://pachamama.org/",
+   "image": "https://pachamama.org/hubfs/home-hero-bg-2.jpg",
+   "based": "San Francisco, US / Ecuador",
+   "based_zh": "旧金山，美国 / 厄瓜多尔",
+   "founded": 1995
+  },
+  {
+   "id": "park-rx-america",
+   "name": "Park Rx America",
+   "type": "nonprofit",
+   "themes": [
+    "nature-connection"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that helps doctors prescribe time in parks and nature to patients, and tracks those nature prescriptions.",
+   "description_zh": "一个帮助医生为病人开出“去公园和自然中待一段时间”处方并记录这些自然处方的非营利组织。",
+   "url": "https://www.parkrx.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2017,
+   "people": [
+    "Robert Zarr"
+   ]
+  },
+  {
+   "id": "plantnet",
+   "name": "Pl@ntNet",
+   "type": "network",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A French research consortium and app that identifies plants from photos with AI, while collecting observations that help botanists map plant biodiversity.",
+   "description_zh": "法国的科研联盟与应用，用 AI 从照片识别植物，同时收集观察数据，帮助植物学家绘制植物多样性地图。",
+   "url": "https://plantnet.org/",
+   "image": "https://plantnet.org/wp-content/uploads/2017/06/27557938951_b8b8f1deda_b-640x400.jpg",
+   "based": "Montpellier, France",
+   "based_zh": "蒙彼利埃，法国",
+   "founded": 2009,
+   "creator_id": "plantnet"
+  },
+  {
+   "id": "planetary-health-alliance",
+   "name": "Planetary Health Alliance",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A consortium of hundreds of universities and organisations that studies how human health depends on the health of Earth's natural systems.",
+   "description_zh": "一个由数百所大学和机构组成的联盟，研究人类健康如何依赖地球自然系统的健康。",
+   "url": "https://www.planetaryhealthalliance.org/",
+   "image": "https://planetaryhealthalliance.org/wp-content/uploads/2025/03/share-image-1.jpg",
+   "based": "Baltimore, US (Johns Hopkins)",
+   "based_zh": "巴尔的摩，美国（约翰斯·霍普金斯大学）",
+   "founded": 2016,
+   "people": [
+    "Samuel Myers"
+   ]
+  },
+  {
+   "id": "planetary-personhood",
+   "name": "Planetary Personhood",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A project by the studio Nonhuman Nonsense that imagines granting legal personhood to the planet and to nonhuman beings, through speculative design, legal drafts and public events.",
+   "description_zh": "由 Nonhuman Nonsense 工作室发起的项目，通过思辨设计、法律草案和公共活动，想象赋予地球和非人类存在法律人格。",
+   "url": "https://planetarypersonhood.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1601476441864-C09U9SJBQETH5W3ZJANH/planetary_personhood_banner_2.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "creator_id": "nonhuman-nonsense"
+  },
+  {
+   "id": "potsdam-institute-climate-impact",
+   "name": "Potsdam Institute for Climate Impact Research (PIK)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A German research institute on climate and Earth-system science that leads the Planetary Boundaries Science Lab and its yearly Planetary Health Check.",
+   "description_zh": "德国的气候与地球系统科学研究所，领导行星边界科学实验室及其年度《行星健康检查》。",
+   "url": "https://www.pik-potsdam.de/",
+   "image": "https://www.pik-potsdam.de/en/topics/land-use-food-water-ecosystems/land-use-food-water-ecosystems/@@images/slider_mobile_image.jpeg",
+   "based": "Potsdam, Germany",
+   "based_zh": "波茨坦，德国",
+   "founded": 1992
+  },
+  {
+   "id": "project-feederwatch",
+   "name": "Project FeederWatch",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A winter survey run by the Cornell Lab and Birds Canada in which people count the birds at their backyard feeders.",
+   "description_zh": "由康奈尔鸟类学实验室和加拿大鸟类组织开展的冬季调查，人们统计自家后院喂食器旁的鸟类。",
+   "url": "https://feederwatch.org/",
+   "image": "https://cdn.feederwatch.org/wp-content/uploads/2025/07/RBNU_BillSchneider-5-1280x851.png",
+   "based": "Ithaca, US / Canada",
+   "based_zh": "伊萨卡，美国 / 加拿大",
+   "founded": 1987
+  },
+  {
+   "id": "protected-planet",
+   "name": "Protected Planet (UNEP-WCMC)",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The official global database of protected areas and other effective area-based conservation measures, maintained by UNEP-WCMC with IUCN.",
+   "description_zh": "全球保护地及其他有效区域保护措施的官方数据库，由 UNEP-WCMC 与 IUCN 共同维护。",
+   "url": "https://www.protectedplanet.net/",
+   "image": "https://www.protectedplanet.net/assets/social-cce192f2e7a0b5be655ef28149aef43bd28e378d6589c8b599f9e45d64d7a6e4.png",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "public-lab",
+   "name": "Public Lab",
+   "type": "network",
+   "themes": [
+    "citizen-science",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A community that developed DIY tools such as balloon and kite mapping and low-cost spectrometers for environmental investigation, started after the 2010 Gulf oil spill. Its site is now an archive.",
+   "description_zh": "一个开发 DIY 环境调查工具的社群，如气球与风筝航拍、低成本光谱仪，始于 2010 年墨西哥湾漏油事件。其网站现为存档。",
+   "url": "https://publiclab.org/",
+   "based": "US (archived)",
+   "based_zh": "美国（已存档）",
+   "founded": 2010,
+   "people": [
+    "Shannon Dosemagen",
+    "Jeffrey Warren"
+   ],
+   "creator_id": "public-lab",
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "quiet-parks-international",
+   "name": "Quiet Parks International",
+   "type": "nonprofit",
+   "themes": [
+    "nature-connection",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that certifies wilderness, urban and marine places free of human noise pollution, so natural soundscapes can be protected.",
+   "description_zh": "一个认证没有人为噪声污染的荒野、城市和海洋场所的非营利组织，以保护自然声景。",
+   "url": "https://www.quietparks.org/",
+   "image": "http://static1.squarespace.com/static/5bafb638840b162de12e8913/t/5f97bef7466d6150a62ad77f/1603780364121/autumn-forest-landscape-21008.jpg?format=1500w",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019,
+   "people": [
+    "Gordon Hempton"
+   ]
+  },
+  {
+   "id": "rainforest-connection",
+   "name": "Rainforest Connection (RFCx)",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that places recycled smartphones as solar-powered 'Guardian' listening devices in forests to detect chainsaws and gunshots in real time and to monitor biodiversity by sound.",
+   "description_zh": "一个非营利组织，把回收的手机改装成太阳能“守护者”监听设备放进森林，实时侦测电锯声和枪声，并通过声音监测生物多样性。",
+   "url": "https://rfcx.org/",
+   "image": "https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2014,
+   "people": [
+    "Topher White"
+   ],
+   "creator_id": "rainforest-connection"
+  },
+  {
+   "id": "rainforest-foundation-us",
+   "name": "Rainforest Foundation US",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A nonprofit that supports Indigenous peoples in Central and South America to secure land rights, and trains community forest monitors to use drones, smartphones and satellite alerts.",
+   "description_zh": "一个非营利组织，支持中南美洲原住民争取土地权，并培训社区森林监测员使用无人机、手机和卫星警报。",
+   "url": "https://www.rainforestfoundation.org/",
+   "image": "https://rainforestfoundation.org/wp-content/uploads/San-Francisco-de-Yahuma-forest-monitor.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国"
+  },
+  {
+   "id": "rechtsperson-reuss",
+   "name": "Rechtsperson Reuss",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Swiss association campaigning to make the Reuss river a legal person, one of the first river-rights campaigns in Switzerland.",
+   "description_zh": "一个瑞士协会，推动让罗伊斯河成为法人，是瑞士最早的河流权利运动之一。",
+   "url": "https://r-reuss.ch/",
+   "image": "http://www.r-reuss.ch/uploads/1/4/7/4/147433466/20230818-100540_orig.jpg",
+   "based": "Switzerland",
+   "based_zh": "瑞士",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "reef-environmental-education-foundation",
+   "name": "REEF (Reef Environmental Education Foundation)",
+   "type": "nonprofit",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A marine conservation nonprofit whose Volunteer Fish Survey Project has collected hundreds of thousands of fish surveys from divers and snorkelers.",
+   "description_zh": "一个海洋保护非营利组织，其“志愿者鱼类调查项目”已从潜水员和浮潜者那里收集了数十万份鱼类调查。",
+   "url": "https://www.reef.org/",
+   "image": "https://www.reef.org/sites/default/files/styles/480x201/public/reef_fest_2026_email_banner_1.png?itok=lVWhx7As&timestamp=1781544188",
+   "based": "Key Largo, Florida, US",
+   "based_zh": "基拉戈，佛罗里达州，美国",
+   "founded": 1990
+  },
+  {
+   "id": "reef-check",
+   "name": "Reef Check",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An international programme that trains volunteer divers to survey the health of coral reefs and kelp forests with a standard method.",
+   "description_zh": "一个国际项目，培训志愿潜水员用统一方法调查珊瑚礁和海藻林的健康状况。",
+   "url": "https://www.reefcheck.org/",
+   "image": "https://www.reefcheck.org/wp-content/themes/reef-reefcheck/dist/images/Angelfish.png",
+   "based": "Marina del Rey, California, US",
+   "based_zh": "玛丽安德尔湾，加利福尼亚州，美国",
+   "founded": 1996
+  },
+  {
+   "id": "restor",
+   "name": "Restor",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An open platform, spun out of ETH Zurich's Crowther Lab, where restoration projects map their sites and share ecological data on biodiversity, soil and carbon.",
+   "description_zh": "一个开放平台，源自苏黎世联邦理工学院 Crowther 实验室，生态修复项目可在上面标注地点并分享生物多样性、土壤和碳数据。",
+   "url": "https://restor.eco/",
+   "image": "https://restor.eco/images/og-image.jpg",
+   "based": "Zurich, Switzerland",
+   "based_zh": "苏黎世，瑞士",
+   "people": [
+    "Thomas Crowther"
+   ]
+  },
+  {
+   "id": "revive-and-restore",
+   "name": "Revive & Restore",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech",
+    "synbio"
+   ],
+   "fields": [
+    "hni",
+    "bio"
+   ],
+   "description": "A nonprofit that applies biotechnology to conservation, such as cloning the black-footed ferret and Przewalski's horse and genetic rescue of endangered species.",
+   "description_zh": "一个把生物技术用于保护的非营利组织，例如克隆黑足鼬和普氏野马，以及对濒危物种进行基因拯救。",
+   "url": "https://reviverestore.org/",
+   "image": "https://i0.wp.com/reviverestore.org/wp-content/uploads/2023/09/Back-Title-slide-V2.png?fit=2560%2C1810&ssl=1",
+   "based": "Sausalito, California, US",
+   "based_zh": "索萨利托，加利福尼亚州，美国",
+   "founded": 2012,
+   "people": [
+    "Ryan Phelan",
+    "Stewart Brand"
+   ]
+  },
+  {
+   "id": "rights-of-nature-philippines",
+   "name": "Rights of Nature Philippines",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A coalition campaigning for a Rights of Nature Act in the Philippines and for local ordinances that recognise the rights of ecosystems.",
+   "description_zh": "一个联盟，推动菲律宾通过《自然权利法》，并推动承认生态系统权利的地方法规。",
+   "url": "https://rightsofnature.org.ph/",
+   "image": "https://rightsofnature.org.ph/wp-content/uploads/2026/02/signature-campaign-photo.png",
+   "based": "Philippines",
+   "based_zh": "菲律宾",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "river-rights-network",
+   "name": "River Rights Network (UK)",
+   "type": "network",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A UK network of river groups, campaigners and cooperatives working to make the rights of rivers real in British law. It runs 'A Meeting of Rivers' workshops supported by an AHRC grant.",
+   "description_zh": "一个英国网络，由河流团体、倡导者和合作社组成，推动河流权利进入英国法律。它在 AHRC 资助下举办“河流相会”工作坊。",
+   "url": "https://www.riverrights.org/",
+   "based": "UK",
+   "based_zh": "英国",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "big-garden-birdwatch",
+   "name": "RSPB Big Garden Birdwatch",
+   "type": "event",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An annual UK survey in which hundreds of thousands of people spend one hour counting the birds in their garden or local park.",
+   "description_zh": "英国一年一度的调查，数十万人花一小时统计自家花园或附近公园的鸟类。",
+   "url": "https://www.rspb.org.uk/whats-happening/big-garden-birdwatch",
+   "image": "https://base-prod.rspb-prod.magnolia-platform.com/.imaging/focalpoint/_WIDTH_x_HEIGHT_/dam/jcr:2c687236-062d-4fae-84ed-df24eac891a2/2210873-People-Outside-two-friends-taking-part-in-big-garden-birdwatch.jpg",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 1979
+  },
+  {
+   "id": "saami-council",
+   "name": "Saami Council",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A council of Sámi organisations across four countries that works on Sámi rights, land use, reindeer herding and Arctic environmental policy.",
+   "description_zh": "由四个国家的萨米组织组成的理事会，关注萨米人的权利、土地使用、驯鹿放牧和北极环境政策。",
+   "url": "https://www.saamicouncil.net/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5dfb35a66f00d54ab0729b75/1582905370259-YEQ0PWFTHA2PW9RO6L1Q/Arvidsjaur_Adolfstrom_mm_aug15-401_2500px_CJUTSI_16-9.jpg",
+   "based": "Sápmi (Norway, Sweden, Finland, Russia)",
+   "based_zh": "萨普米（挪威、瑞典、芬兰、俄罗斯）",
+   "founded": 1956
+  },
+  {
+   "id": "schumacher-college",
+   "name": "Schumacher College",
+   "type": "education",
+   "themes": [
+    "futures",
+    "nature-connection"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "A college on the Dartington estate that teaches ecology, regenerative design and ecological economics through holistic, land-based learning.",
+   "description_zh": "位于达廷顿庄园的学院，通过整体的、立足土地的学习，教授生态学、再生设计和生态经济学。",
+   "url": "https://www.schumachercollege.org.uk/",
+   "image": "http://static1.squarespace.com/static/671f7dd6625b3e0e165bc4d4/t/69dce8f44d15e019629e1736/1776085236790/Screenshot+2026-04-13+at+13.56.23.png?format=1500w",
+   "based": "Dartington, Devon, UK",
+   "based_zh": "达廷顿，德文郡，英国",
+   "founded": 1991
+  },
+  {
+   "id": "scistarter",
+   "name": "SciStarter",
+   "type": "database",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A searchable directory of thousands of citizen science projects, with tools that help people join, track and get credit for their contributions.",
+   "description_zh": "一个可检索的公民科学项目目录，收录数千个项目，并提供帮助人们参与、记录和获得认可的工具。",
+   "url": "https://scistarter.org/",
+   "image": "https://media.scistarter.org/attr/2026-09/facebook-cover-map-1640x856_kSWCwjv.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2011,
+   "people": [
+    "Darlene Cavalier"
+   ]
+  },
+  {
+   "id": "sensing-clues",
+   "name": "Sensing Clues",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Dutch nonprofit that builds open tools for wildlife crime prevention and nature monitoring, turning field observations and sensor data into shared situational maps.",
+   "description_zh": "一个荷兰非营利组织，开发用于预防野生动物犯罪和监测自然的开放工具，把野外观察和传感器数据变成共享的态势地图。",
+   "url": "https://sensingclues.org/",
+   "based": "Netherlands",
+   "based_zh": "荷兰"
+  },
+  {
+   "id": "serpentine-back-to-earth",
+   "name": "Serpentine Ecologies / Back to Earth",
+   "type": "education",
+   "themes": [
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The Serpentine Galleries' long-term ecology programme, in which artists, architects and thinkers make proposals and campaigns responding to the climate and ecological emergency.",
+   "description_zh": "蛇形画廊的长期生态项目，邀请艺术家、建筑师和思想者针对气候与生态紧急状况提出方案和行动。",
+   "url": "https://www.serpentinegalleries.org/art-and-ideas/back-to-earth-can-i-get-back-to-you/",
+   "image": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/11/Episode-9.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2020,
+   "people": [
+    "Hans Ulrich Obrist"
+   ]
+  },
+  {
+   "id": "shan-shui-conservation-center",
+   "name": "Shan Shui Conservation Center (山水自然保护中心)",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Chinese conservation NGO that works with local communities in western China on snow leopard and giant panda protection, and runs the Nature Watch Festival.",
+   "description_zh": "中国的一家自然保护组织，与中国西部的当地社区合作保护雪豹和大熊猫，并举办“自然观察节”。",
+   "url": "http://www.shanshui.org/",
+   "image": "https://www.shanshui.org/wp-content/themes/t4t/img/shanshuiPc/content02.png",
+   "based": "Beijing, China",
+   "based_zh": "北京，中国",
+   "founded": 2007
+  },
+  {
+   "id": "skylight-ai2",
+   "name": "Skylight (Ai2)",
+   "type": "database",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A free maritime monitoring platform from the Allen Institute for AI that uses satellite data and AI to detect illegal fishing and protect marine areas.",
+   "description_zh": "艾伦人工智能研究所的免费海事监测平台，利用卫星数据和 AI 侦测非法捕捞、保护海洋区域。",
+   "url": "https://www.skylight.global/",
+   "image": "https://cdn.prod.website-files.com/6578e66a0fec981f5a562d4b/6605aa901a486ba1497465e2_Skylight-screenshot-laptop.png",
+   "based": "Seattle, US",
+   "based_zh": "西雅图，美国"
+  },
+  {
+   "id": "smart-conservation-tools",
+   "name": "SMART Conservation Tools",
+   "type": "network",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A partnership of conservation organisations that maintains SMART, free software used in over a thousand protected areas to plan ranger patrols and record wildlife and threats.",
+   "description_zh": "由多家保护组织组成的伙伴关系，维护 SMART 免费软件。全球一千多个保护区用它规划护林员巡逻、记录野生动物和威胁。",
+   "url": "https://smartconservationtools.org/",
+   "image": "https://smartconservationtools.org/dnnimagehandler.ashx?mode=file&file=/Portals/0/OpenContent/Files/1403/SMART_wheel_diagram__3_.jpg&h=400&w=400&resizemode=crop",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2011,
+   "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "smart-forests",
+   "name": "Smart Forests",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "mth-design"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "A research project at the University of Cambridge that studies how forests become digital environments through sensors, drones and data, and what that means for politics and ecology.",
+   "description_zh": "剑桥大学的研究项目，研究森林如何通过传感器、无人机和数据成为数字环境，以及这对政治与生态意味着什么。",
+   "url": "https://smartforests.net/",
+   "image": "https://smartforests.net/media/pages/home/fd0c426ad2-1644954050/smartforests-homepage-3-800x800.jpg",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2019,
+   "people": [
+    "Jennifer Gabrys"
+   ]
+  },
+  {
+   "id": "smart-parks",
+   "name": "Smart Parks",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A Dutch social enterprise that builds LoRaWAN sensor networks and open-source animal collars to protect wildlife and parks.",
+   "description_zh": "一家荷兰社会企业，搭建 LoRaWAN 传感器网络并开发开源动物项圈，用于保护野生动物和公园。",
+   "url": "https://www.smartparks.org/",
+   "image": "https://www.smartparks.org/wp-content/uploads/2023/05/DSC_0358.jpg",
+   "based": "Netherlands",
+   "based_zh": "荷兰"
+  },
+  {
+   "id": "rechten-van-de-natuur",
+   "name": "Stichting Rechten van de Natuur",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Dutch foundation that works for legal rights of nature in the Netherlands, including campaigns for the Wadden Sea and other ecosystems.",
+   "description_zh": "一个荷兰基金会，推动荷兰承认自然的法律权利，包括为瓦登海等生态系统发起的运动。",
+   "url": "https://rechtenvandenatuur.org/",
+   "image": "https://www.rechtenvandenatuur.org/opengraph-image?4a81272bc54ea6c1",
+   "based": "Netherlands",
+   "based_zh": "荷兰",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "stockholm-resilience-centre",
+   "name": "Stockholm Resilience Centre",
+   "type": "research",
+   "themes": [
+    "futures",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A research centre at Stockholm University on social-ecological systems and resilience, known for the planetary boundaries framework.",
+   "description_zh": "斯德哥尔摩大学关于社会-生态系统与韧性的研究中心，以“行星边界”框架闻名。",
+   "url": "https://www.stockholmresilience.org/",
+   "image": "https://www.stockholmresilience.org/images/18.39aa239f11a8dd8de6b800011446/kraftriket.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "斯德哥尔摩，瑞典",
+   "founded": 2007,
+   "people": [
+    "Johan Rockström",
+    "Carl Folke"
+   ]
+  },
+  {
+   "id": "stop-ecocide-international",
+   "name": "Stop Ecocide International",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A campaign to make ecocide, severe and widespread damage to nature, an international crime. It convened the 2021 expert panel that drafted a legal definition of ecocide.",
+   "description_zh": "一项推动把生态灭绝（对自然造成严重而广泛的破坏）列为国际罪行的运动。它在 2021 年召集专家小组起草了生态灭绝的法律定义。",
+   "url": "https://www.stopecocide.earth/",
+   "image": "http://static1.squarespace.com/static/5ca2608ab914493c64ef1f6d/t/66da5340d1a3905f5cbca026/1725584198552/Driving+the+global+conversation+on+ecocide+law.+%283%29.jpg?format=1500w",
+   "based": "Netherlands / UK",
+   "based_zh": "荷兰 / 英国",
+   "founded": 2017,
+   "people": [
+    "Polly Higgins",
+    "Jojo Mehta"
+   ]
+  },
+  {
+   "id": "superflux",
+   "name": "Superflux",
+   "type": "company",
+   "themes": [
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A speculative design and futures studio whose installations, such as 'Refuge for Resurgence' and 'Mitigation of Shock', imagine more-than-human futures.",
+   "description_zh": "一家思辨设计与未来工作室，其装置作品如《复苏的庇护所》和《冲击的缓解》想象超越人类的未来。",
+   "url": "https://superflux.in/",
+   "image": "http://superflux.in/wp-content/uploads/2026/07/SF-Social-Share-Card-1.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2009,
+   "people": [
+    "Anab Jain",
+    "Jon Ardern"
+   ],
+   "creator_id": "superflux"
+  },
+  {
+   "id": "te-hiku-media",
+   "name": "Te Hiku Media",
+   "type": "nonprofit",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Māori media organisation that built its own te reo Māori speech AI and a licence that keeps Indigenous data under community control.",
+   "description_zh": "一家毛利媒体机构，自建毛利语语音 AI，并制定了让原住民数据由社区掌控的许可协议。",
+   "url": "https://tehiku.nz/",
+   "image": "https://cdn.tehiku.nz/collection/cover_image/2026/1101_banner3_web.jpg?Expires=1790593351&Signature=XiGPgq8a7IFg3Rjv4Did4msiyOrnFcIBXf1dFugesg4gKTaUUk76uHbb4OZIKCi1obJvQg2K1E0n623PQcn8VvKAHzKd7SpvB7VeHjOwYpnntLqScNtsACcblq~BGQrY53iD1kM01hR1kHZrKT3bFwGmYENFmvshzLDvFkDhfPB4FiUkzCrawt4a1totnID4NlUWOS8~u7qBReEviJwpNuYKUWmkg26v~2X8l5pnUhCa9a~lNzCwYi2C7NVk~MOLPkcKfGPNTmkLW2ZzESpziIN6FzFeTsXF9273Wa5kRDkyBwg4n3Ush2qZMdZRIXzb4NFrZ8kLPo9KhxaTEzeTNw__&Key-Pair-Id=K3G0WXOUH0CPUX",
+   "based": "Kaitāia, Aotearoa New Zealand",
+   "based_zh": "凯塔亚，新西兰"
+  },
+  {
+   "id": "te-mana-raraunga",
+   "name": "Te Mana Raraunga (Māori Data Sovereignty Network)",
+   "type": "network",
+   "themes": [
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A network of Māori researchers and practitioners that sets out principles for Māori control over data about Māori people, lands and taonga, including environmental data.",
+   "description_zh": "一个由毛利研究者和从业者组成的网络，制定毛利人掌控关于其人民、土地和珍宝（包括环境数据）的数据的原则。",
+   "url": "https://www.temanararaunga.maori.nz/",
+   "image": "https://images.squarespace-cdn.com/content/v1/58e9b10f9de4bb8d1fb5ebbc/1630293800055-535GGBJP2F2APQURXJJV/download+%282%29.png",
+   "based": "Aotearoa New Zealand",
+   "based_zh": "新西兰",
+   "founded": 2015
+  },
+  {
+   "id": "te-uru-taumatua",
+   "name": "Te Uru Taumatua (Ngāi Tūhoe)",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "The tribal authority of Ngāi Tūhoe. Under the Te Urewera Act 2014, the former national park Te Urewera became a legal entity, co-governed by Tūhoe according to its own values.",
+   "description_zh": "Ngāi Tūhoe 部落的管理机构。根据 2014 年《Te Urewera 法》，原国家公园 Te Urewera 成为法律主体，由 Tūhoe 依照自己的价值观共同治理。",
+   "url": "https://www.ngaituhoe.iwi.nz/",
+   "based": "Te Urewera, Aotearoa New Zealand",
+   "based_zh": "Te Urewera，新西兰"
+  },
+  {
+   "id": "tela-botanica",
+   "name": "Tela Botanica",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A French-speaking botanical network of tens of thousands of members who share plant observations, online courses and a collaborative flora.",
+   "description_zh": "一个法语植物学网络，拥有数万名成员，分享植物观察、在线课程和协作编写的植物志。",
+   "url": "https://www.tela-botanica.org/",
+   "image": "https://api.tela-botanica.org/img:003527941CRS.jpg",
+   "based": "Montpellier, France",
+   "based_zh": "蒙彼利埃，法国",
+   "founded": 1999
+  },
+  {
+   "id": "terrapin-bright-green",
+   "name": "Terrapin Bright Green",
+   "type": "company",
+   "themes": [
+    "nature-connection",
+    "mth-design"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An environmental consultancy known for the report '14 Patterns of Biophilic Design', which translated research on nature and wellbeing into design guidance.",
+   "description_zh": "一家环境咨询公司，以报告《亲生命设计的 14 种模式》闻名，把自然与幸福感的研究转化为设计指南。",
+   "url": "https://www.terrapinbrightgreen.com/",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2006,
+   "people": [
+    "Bill Browning"
+   ]
+  },
+  {
+   "id": "buffalo-treaty",
+   "name": "The Buffalo Treaty",
+   "type": "network",
+   "themes": [
+    "indigenous",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A treaty signed by Indigenous nations across the US and Canada to bring the buffalo back to the prairies, treating the buffalo as a relative and a partner.",
+   "description_zh": "由美国和加拿大多个原住民族签署的条约，旨在让野牛重返草原，把野牛视为亲属和伙伴。",
+   "url": "https://www.buffalotreaty.com/",
+   "image": "http://static1.squarespace.com/static/5e5fe077316ef31fa3aa0210/t/5e6da6698afded74f532d5da/1719673557746/Bison+by+Johane+Janelle+in+B+%26+W+small.jpg?format=1500w",
+   "based": "Blackfoot Confederacy, US / Canada",
+   "based_zh": "黑脚联盟，美国 / 加拿大",
+   "founded": 2014
+  },
+  {
+   "id": "club-of-rome",
+   "name": "The Club of Rome",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A group of thinkers known for the 1972 report The Limits to Growth, which still works on planetary emergencies and long-term economic change.",
+   "description_zh": "一个思想者团体，以 1972 年报告《增长的极限》闻名，至今仍关注行星紧急状况和长期经济变革。",
+   "url": "https://www.clubofrome.org/",
+   "image": "http://www.clubofrome.org/wp-content/uploads/2026/01/club-of-rome-home.png",
+   "based": "Winterthur, Switzerland",
+   "based_zh": "温特图尔，瑞士",
+   "founded": 1968
+  },
+  {
+   "id": "earthshot-prize",
+   "name": "The Earthshot Prize",
+   "type": "funding",
+   "themes": [
+    "conservation-tech",
+    "futures"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "An annual prize that awards £1 million each to five solutions for restoring nature, cleaning the air, reviving the oceans, reducing waste and fixing the climate.",
+   "description_zh": "一项年度奖项，每年为恢复自然、净化空气、复兴海洋、减少废弃物和应对气候的五个方案各颁发 100 万英镑。",
+   "url": "https://earthshotprize.org/",
+   "image": "https://earthshotprize.org/wp-content/uploads/2024/08/The-Earthshot-Prize.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2020
+  },
+  {
+   "id": "frozen-ark",
+   "name": "The Frozen Ark",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A consortium of zoos, museums and labs that stores DNA and living cells of endangered animals so their genetic information is not lost.",
+   "description_zh": "由动物园、博物馆和实验室组成的联盟，保存濒危动物的 DNA 和活细胞，避免其遗传信息消失。",
+   "url": "https://www.frozenark.org/",
+   "image": "http://static1.squarespace.com/static/5f100cc2d223ce3de0ab1aa5/t/60c1ea41b674716cb8d32570/1623321153416/Kaiser%27s+Newt+copy.jpg?format=1500w",
+   "based": "Nottingham, UK",
+   "based_zh": "诺丁汉，英国",
+   "founded": 2004
+  },
+  {
+   "id": "gaia-foundation",
+   "name": "The Gaia Foundation",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A foundation that works with Indigenous and local communities in Africa, South America and Europe to protect seeds, sacred natural sites and water, and to promote earth jurisprudence.",
+   "description_zh": "一家基金会，与非洲、南美和欧洲的原住民及地方社区合作，保护种子、神圣自然地和水源，并推广地球法理学。",
+   "url": "https://www.gaiafoundation.org/",
+   "image": "https://gaiafoundation.org/wp-content/uploads/2020/11/Burkina-Faso.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 1985
+  },
+  {
+   "id": "long-now-foundation",
+   "name": "The Long Now Foundation",
+   "type": "nonprofit",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A foundation that encourages long-term thinking over the next 10,000 years, through projects such as the 10,000-year Clock, the Rosetta Project and its seminar series.",
+   "description_zh": "一个鼓励以未来一万年为尺度进行长期思考的基金会，项目包括万年钟、罗塞塔项目和系列讲座。",
+   "url": "https://longnow.org/",
+   "image": "https://static.longnow.org/2025/08/longnow-1200x630-social-card-020241126-5-1.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 1996,
+   "people": [
+    "Stewart Brand",
+    "Danny Hillis"
+   ]
+  },
+  {
+   "id": "parliament-of-things",
+   "name": "The Parliament of Things",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A research and events platform, inspired by Bruno Latour, that asks how animals, plants, rivers and things could gain a voice in politics. It has held sessions on the rights of the North Sea, soil and the Rhine.",
+   "description_zh": "一个受 Bruno Latour 启发的研究与活动平台，探讨动物、植物、河流和物如何在政治中获得发言权。它围绕北海、土壤和莱茵河的权利举办过多场会议。",
+   "url": "https://theparliamentofthings.org/",
+   "image": "https://new.theparliamentofthings.org/wp-content/uploads/2018/03/fish.png",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "阿姆斯特丹，荷兰"
+  },
+  {
+   "id": "tierra-digna",
+   "name": "Tierra Digna",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A Colombian social-justice centre that brought the case in which the Constitutional Court declared the Atrato River a subject of rights in 2016. It supports Afro-Colombian and Indigenous communities defending their territories.",
+   "description_zh": "哥伦比亚的一个社会正义研究中心，提起了使宪法法院在 2016 年宣布阿特拉托河为权利主体的诉讼。它支持非裔和原住民社区捍卫自己的领地。",
+   "url": "https://tierradigna.org/",
+   "image": "https://tierradigna.org/wp-content/uploads/2025/04/Mapa-Colombia.jpg",
+   "based": "Bogotá, Colombia",
+   "based_zh": "波哥大，哥伦比亚",
+   "founded": 2010
+  },
+  {
+   "id": "usa-national-phenology-network",
+   "name": "USA National Phenology Network (Nature's Notebook)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A network that collects phenology data on plants and animals through its Nature's Notebook programme and publishes forecasts such as the spring leaf-out map.",
+   "description_zh": "一个通过 Nature's Notebook 项目收集动植物物候数据的网络，并发布春季展叶地图等预报。",
+   "url": "https://www.usanpn.org/",
+   "image": "https://usanpn.org/files/new-site/front-page-sos-block.png",
+   "based": "Tucson, Arizona, US",
+   "based_zh": "图森，亚利桑那州，美国",
+   "founded": 2007
+  },
+  {
+   "id": "vigie-nature",
+   "name": "Vigie-Nature (MNHN)",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The French National Museum of Natural History's citizen science programme, with protocols for monitoring birds, butterflies, pollinators (Spipoll), bats and plants.",
+   "description_zh": "法国国家自然历史博物馆的公民科学项目，为鸟类、蝴蝶、传粉者（Spipoll）、蝙蝠和植物监测提供统一方案。",
+   "url": "https://www.vigienature.fr/",
+   "image": "https://www.vigienature.fr/system/files/styles/16_10_highest/private/2025-01/0859_oedemera_nobilis-%C2%A9-Q.-Dubost-1_2.jpg.webp?itok=Jk5AuYu9",
+   "based": "Paris, France",
+   "based_zh": "巴黎，法国",
+   "founded": 1989
+  },
+  {
+   "id": "wild-and-legal",
+   "name": "Wild & Legal",
+   "type": "education",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "A French programme in which students draft citizen law proposals granting rights to specific ecosystems, such as rivers and forests.",
+   "description_zh": "一个法国项目，让学生为具体的生态系统（如河流和森林）起草赋予其权利的公民法律提案。",
+   "url": "https://wildlegal.eu/",
+   "image": "https://static.wixstatic.com/media/07058a_95ae8ac7460242849185516d990b4523~mv2.png/v1/fill/w_2500,h_3750,al_c/07058a_95ae8ac7460242849185516d990b4523~mv2.png",
+   "based": "France",
+   "based_zh": "法国",
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "wild-law-institute",
+   "name": "Wild Law Institute",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An institute that develops laws and practices based on earth jurisprudence, so that people take responsibility for the health of the Earth. It grew from Cormac Cullinan's work on 'Wild Law'.",
+   "description_zh": "一个研究机构，基于地球法理学发展法律与实践，让人们对地球的健康负责。它源于 Cormac Cullinan 关于“野性法”的工作。",
+   "url": "https://www.wildlaw.net/",
+   "based": "Cape Town, South Africa",
+   "based_zh": "开普敦，南非",
+   "people": [
+    "Cormac Cullinan"
+   ],
+   "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "wild-me-wildbook",
+   "name": "Wild Me (Wildbook)",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech",
+    "ai-animals",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The team behind Wildbook, open-source software that identifies individual animals such as whale sharks, zebras and giraffes from photos taken by researchers and the public.",
+   "description_zh": "Wildbook 开源软件的开发团队，能从研究者和公众拍摄的照片中识别鲸鲨、斑马、长颈鹿等动物个体。",
+   "url": "https://www.wildme.org/",
+   "image": "https://www.wildme.org/assets/social-card.jpg",
+   "based": "Portland, Oregon, US",
+   "based_zh": "波特兰，俄勒冈州，美国",
+   "people": [
+    "Jason Holmberg"
+   ],
+   "creator_id": "wild-me"
+  },
+  {
+   "id": "wildlabs",
+   "name": "WILDLABS",
+   "type": "network",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The main online community for conservation technology, where field conservationists, engineers and researchers share tools, run working groups on topics such as acoustic monitoring and camera traps, and publish the yearly State of Conservation Technology report.",
+   "description_zh": "保护技术领域最主要的线上社群，野外保护工作者、工程师和研究者在这里分享工具，围绕声学监测、红外相机等主题组织工作组，并每年发布《保护技术现状》报告。",
+   "url": "https://wildlabs.net/",
+   "image": "https://wildlabs.net/sites/default/files/styles/large/public/2026-05/IMG_7726%202_0.jpeg?itok=DZgnUBBD",
+   "based": "Global (hosted by WWF-UK)",
+   "based_zh": "全球（由 WWF-UK 主办）",
+   "founded": 2015
+  },
+  {
+   "id": "wildlife-acoustics",
+   "name": "Wildlife Acoustics",
+   "type": "company",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A company that makes Song Meter recorders, Echo Meter bat detectors and Kaleidoscope analysis software for bioacoustic monitoring.",
+   "description_zh": "一家生产 Song Meter 录音机、Echo Meter 蝙蝠探测器和 Kaleidoscope 分析软件的公司，用于生物声学监测。",
+   "url": "https://www.wildlifeacoustics.com/",
+   "image": "https://www.wildlifeacoustics.com/uploads/backgrounds/Kscope-Vertical.webp",
+   "based": "Maynard, Massachusetts, US",
+   "based_zh": "梅纳德，马萨诸塞州，美国",
+   "founded": 2003
+  },
+  {
+   "id": "wildlife-insights",
+   "name": "Wildlife Insights",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "ai-animals"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A platform built by Conservation International, Google and partners that uses AI to identify animals in camera-trap photos and shares the data for conservation.",
+   "description_zh": "由 Conservation International、Google 等伙伴共建的平台，用 AI 识别红外相机照片中的动物，并共享数据用于保护。",
+   "url": "https://www.wildlifeinsights.org/",
+   "image": "https://www.wildlifeinsights.org/sites/default/files/styles/project__600x600_/public/Image%20rows.png?itok=rrk4VhjA",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2019,
+   "creator_id": "wildlife-insights"
+  },
+  {
+   "id": "wildlife-protection-solutions",
+   "name": "Wildlife Protection Solutions",
+   "type": "nonprofit",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that deploys remote cameras and AI (wpsWatch) to detect poachers and monitor wildlife in protected areas.",
+   "description_zh": "一个非营利组织，在保护区部署远程相机和 AI（wpsWatch），侦测偷猎者并监测野生动物。",
+   "url": "https://wildlifeprotectionsolutions.org/",
+   "image": "https://wildlifeprotectionsolutions.org/og/og-default.jpg",
+   "based": "Global",
+   "based_zh": "全球"
+  },
+  {
+   "id": "work-that-reconnects-network",
+   "name": "Work That Reconnects Network",
+   "type": "network",
+   "themes": [
+    "nature-connection",
+    "futures"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A network of facilitators practising Joanna Macy's Work That Reconnects, group exercises such as the Council of All Beings that help people feel part of the living Earth.",
+   "description_zh": "一个践行 Joanna Macy “重新连接的工作”的引导者网络，通过“众生议会”等团体练习帮助人们感受到自己是活着的地球的一部分。",
+   "url": "https://workthatreconnects.org/",
+   "image": "https://workthatreconnects.org/wp-content/uploads/2025/08/Default-Featured-Image.png",
+   "based": "Global",
+   "based_zh": "全球",
+   "people": [
+    "Joanna Macy"
+   ]
+  },
+  {
+   "id": "world-forum-acoustic-ecology",
+   "name": "World Forum for Acoustic Ecology (WFAE)",
+   "type": "network",
+   "themes": [
+    "nature-connection",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni",
+    "mth"
+   ],
+   "description": "An international network of people who study and care for soundscapes, the sonic environment of humans and other species, building on R. Murray Schafer's World Soundscape Project.",
+   "description_zh": "一个研究和关怀声景（人类与其他物种的声音环境）的国际网络，延续了 R. Murray Schafer 的世界声景项目。",
+   "url": "https://www.wfae.net/",
+   "image": "https://wfae.net/wp-content/uploads/2025/08/20250602_makslinieku_ekspedicija_096-Juan-Duarte-scaled-e1757547745301-1024x682.jpg",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 1993
+  },
+  {
+   "id": "xeno-canto",
+   "name": "xeno-canto",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A community-built open archive of bird, frog, bat and insect sound recordings from around the world, widely used to train bioacoustic AI.",
+   "description_zh": "由社群共建的开放录音档案，收集全球鸟类、蛙类、蝙蝠和昆虫的声音，被广泛用于训练生物声学 AI。",
+   "url": "https://xeno-canto.org/",
+   "based": "Online (Naturalis, Netherlands)",
+   "based_zh": "线上（荷兰 Naturalis）",
+   "founded": 2005
+  },
+  {
+   "id": "xerces-society",
+   "name": "Xerces Society for Invertebrate Conservation",
+   "type": "nonprofit",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A nonprofit that protects insects and other invertebrates, running community science projects such as Bumble Bee Watch and the Western Monarch Count.",
+   "description_zh": "一个保护昆虫和其他无脊椎动物的非营利组织，开展 Bumble Bee Watch 和西部帝王蝶统计等社区科学项目。",
+   "url": "https://xerces.org/",
+   "based": "Portland, Oregon, US",
+   "based_zh": "波特兰，俄勒冈州，美国",
+   "founded": 1971
+  },
+  {
+   "id": "xprize-rainforest",
+   "name": "XPRIZE Rainforest",
+   "type": "funding",
+   "themes": [
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "A US$10 million competition in which teams used drones, eDNA, sound and AI to survey rainforest biodiversity quickly. The finals were held in the Amazon in 2024.",
+   "description_zh": "一项奖金 1000 万美元的竞赛，参赛团队用无人机、环境 DNA、声音和 AI 快速调查雨林生物多样性。决赛于 2024 年在亚马孙举行。",
+   "url": "https://www.xprize.org/prizes/rainforest",
+   "image": "https://assets-us-01.kc-usercontent.com:443/9bc15d1f-8a5c-007d-b507-e3496e85af86/fc4a868e-c073-4301-964a-0634f14c02a0/RainForestCard.jpg?w=500",
+   "based": "Global",
+   "based_zh": "全球",
+   "founded": 2019
+  },
+  {
+   "id": "zooniverse",
+   "name": "Zooniverse",
+   "type": "network",
+   "themes": [
+    "citizen-science"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "The largest platform for people-powered research, where volunteers classify camera-trap images, animal sounds, galaxies and archives for hundreds of projects.",
+   "description_zh": "规模最大的公众参与研究平台，志愿者为数百个项目分类红外相机图像、动物声音、星系和档案。",
+   "url": "https://www.zooniverse.org/",
+   "image": "https://static.zooniverse.org/fem-assets/oxford.jpg",
+   "based": "Oxford, UK / Chicago, US",
+   "based_zh": "牛津，英国 / 芝加哥，美国",
+   "founded": 2009,
+   "creator_id": "zooniverse"
+  },
+  {
+   "id": "zoop-het-nieuwe-instituut",
+   "name": "Zoöp (Zoönomic Foundation)",
+   "type": "network",
+   "themes": [
+    "law-rights",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "An organisational model developed at Het Nieuwe Instituut in which nonhuman life has a representative in an organisation's governance. Zoöps report on how their work affects the ecologies they depend on.",
+   "description_zh": "由 Het Nieuwe Instituut 发展的一种组织模式，让非人类生命在组织治理中拥有代表。成为 Zoöp 的组织需要报告其工作如何影响所依赖的生态。",
+   "url": "https://zoop.hetnieuweinstituut.nl/",
+   "image": "https://cmsfiles.nieuweinstituut.nl/DSC_7051_header_a2b85bc97a.jpg",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "鹿特丹，荷兰"
   }
  ]
 }

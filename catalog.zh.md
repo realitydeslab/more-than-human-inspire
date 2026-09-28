@@ -17416,6 +17416,234 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - 实现方式: 比较宾夕法尼亚一家医院 1972–1981 年间病历中配对的病人，他们的差别只在病房窗景。
 - 论文: https://doi.org/10.1126/science.6143402 (Science 1984)
 
+## 组织与资源
+
+### 研究中心与实验室
+
+- **Aboriginal Territories in Cyberspace (AbTeC)** (蒙特利尔，加拿大) — 一个原住民研究创作工作室，确保原住民在游戏、虚拟世界和网络中的存在，并举办关于原住民未来的 Skins 工作坊。 https://abtec.org/
+- **Abundant Intelligences** (蒙特利尔，加拿大) — 由 Concordia 大学牵头的国际研究项目，以原住民知识体系为基础设计 AI，在加拿大、美国和新西兰设有实验室。 https://abundant-intelligences.net/
+- **Antikythera** (全球（伯格鲁恩研究所）) — 由伯格鲁恩研究所孵化的智库和工作室，从行星尺度重新思考计算，包括行星感知和围绕地球重新定位哲学。 https://antikythera.org/
+- **Berggruen Institute (Planetary programme)** (洛杉矶，美国) — 一个智库，其“行星”项目和“未来人类”研究探讨关于地球、生命和智能的新观念应如何改变哲学与治理，并出版 Noema 杂志。 https://www.berggruen.org/
+- **Center for Earth Jurisprudence (Barry University)** (奥兰多，佛罗里达州，美国) — 一所法学院的研究中心，教授并研究地球法理学与自然权利。它设有环境与地球法诊所、奖学金项目和研讨会。 https://www.earthjurist.org/
+- **Center for Global Soundscapes (Purdue University)** (西拉法叶，印第安纳州，美国) — 普渡大学的声景生态学研究中心，录制并分析全球生态系统的声音，并开展公众声景项目。 https://centerforglobalsoundscapes.org/
+- **Center for Native Peoples and the Environment (SUNY-ESF)** (锡拉丘兹，纽约州，美国) — 由 Robin Wall Kimmerer 创办的中心，把原住民知识与西方科学知识结合起来，用于环境教育和生态修复。 https://www.esf.edu/nativepeoples/
+- **Citizen Sense** (伦敦，英国) — 一个研究团队，与社区一起开展 DIY 环境感知（如用 Dustbox 监测空气污染），并研究公民感知带来的改变。 https://citizensense.net/
+- **Cornell Lab of Ornithology** (伊萨卡，纽约州，美国) — 康奈尔大学的研究机构，研究鸟类与自然，并运营 eBird、Merlin 识鸟、Project FeederWatch 和 Macaulay Library 等大型公众科学项目。 https://www.birds.cornell.edu/home/
+- **CRESH (Centre for Research on Environment, Society and Health)** (爱丁堡 / 格拉斯哥，英国) — 爱丁堡大学与格拉斯哥大学合办的研究中心，研究绿地等环境如何影响健康和健康不平等。 https://cresh.org.uk/
+- **Digital Naturalism Laboratories (Dinalab)** (甘博阿，巴拿马) — 位于巴拿马雨林边缘的野外实验室和创客空间，艺术家、生物学家和黑客在这里制作研究和与野生动物互动的工具。 https://www.dinalab.net/
+- **Earth BioGenome Project** (全球) — 一项国际“登月计划”，旨在测序地球上所有已知真核生物的基因组，为保护和生物学研究提供资源。 https://www.earthbiogenome.org/
+- **Environmental Neuroscience Lab (University of Chicago)** (芝加哥，美国) — Marc Berman 的实验室，研究自然与城市环境如何影响注意力、情绪和行为，包括注意力恢复理论的研究。 https://voices.uchicago.edu/bermanlab/
+- **European Centre for Environment and Human Health (University of Exeter)** (特鲁罗，康沃尔，英国) — 埃克塞特大学的研究中心，研究绿色与蓝色空间等自然环境如何影响人类健康，例如“每周在自然中待 120 分钟”的发现。 https://www.ecehh.org/
+- **Future Generations Commissioner for Wales** (加的夫，威尔士，英国) — 根据 2015 年《威尔士后代福祉法》设立的机构，代表尚未出生者的利益，建议威尔士公共部门进行长期思考。 https://www.futuregenerations.wales/
+- **Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)** (西雅图，美国) — Peter Kahn 在华盛顿大学的实验室，研究人如何与自然以及机器人、自然影像等“技术自然”互动，并提出“环境代际遗忘”概念。 https://depts.washington.edu/hints/
+- **ICARUS (International Cooperation for Animal Research Using Space)** (拉多尔夫采尔，德国) — 马克斯·普朗克的项目，用卫星读取的微型标签在全球追踪小型动物，建立追踪迁徙与动物行为的“动物互联网”。 https://www.icarus.mpg.de/
+- **Indigenous Protocol and AI Working Group** (全球) — 一个由原住民学者和技术人员组成的小组，探讨如何从原住民视角构建 AI，包括与非人类亲属的关系。它 2020 年的立场文件被广泛引用。 https://www.indigenous-ai.net/
+- **Institute for the Future (IFTF)** (帕洛阿尔托，加利福尼亚州，美国) — 一个非营利未来研究机构，制作长期预测、游戏和情景，包括关于气候未来和人与自然关系的研究。 https://www.iftf.org/
+- **IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services)** (波恩，德国) — 为政策制定者评估生物多样性状况的政府间机构。它 2022 年的价值评估把关系性价值和原住民对自然的价值观带入科学与政策讨论。 https://www.ipbes.net/
+- **K. Lisa Yang Center for Conservation Bioacoustics** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室下属中心，开发录音设备、BirdNET 等 AI 工具和声音分析软件 Raven，通过聆听来监测大象、鲸、鸟类和森林。 https://www.birds.cornell.edu/ccb/
+- **Limelight Rainforest** (全球) — 2024 年 XPRIZE 雨林奖的冠军团队，结合树冠筏、无人机、录音设备和 AI 来清点雨林物种。 https://limelightrainforest.org/
+- **Microsoft AI for Good Lab** (雷德蒙德，华盛顿州，美国) — 微软面向社会和环境问题的应用研究实验室。其生物多样性工作包括 PyTorch-Wildlife、用于红外相机图像的 MegaDetector，以及与伙伴合作的物种监测。 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
+- **More-Than-Human Life (MOTH) Program, NYU Law** (纽约，美国) — 纽约大学法学院的一个项目，通过法律研究、战略诉讼支持和叙事，推动自然与非人类动物的权利。 https://www.mothlife.org/
+- **Natural Capital Alliance (formerly Natural Capital Project, Stanford)** (斯坦福，加利福尼亚州，美国) — 由斯坦福大学牵头的合作组织，开发 InVEST 等免费工具，绘制自然给人类带来的益处，包括接触自然对心理健康的益处。 https://naturalcapitalalliance.stanford.edu/
+- **Naturalis Biodiversity Center** (莱顿，荷兰) — 荷兰国家自然历史博物馆和研究中心，也开发 AI 物种识别和自动化生物多样性监测（ARISE）。 https://www.naturalis.nl/
+- **Nature Connectedness Research Group (University of Derby)** (德比，英国) — 一个研究人与自然联结感及其对幸福感和亲自然行为影响的团队，提出了“通往自然联结的路径”。 https://www.derby.ac.uk/research/themes/zero-carbon/zero-carbon-nbs-research-centre/nature-connectedness-research-group/
+- **Planetary Personhood** (斯德哥尔摩，瑞典) — 由 Nonhuman Nonsense 工作室发起的项目，通过思辨设计、法律草案和公共活动，想象赋予地球和非人类存在法律人格。 https://planetarypersonhood.com/
+- **Potsdam Institute for Climate Impact Research (PIK)** (波茨坦，德国) — 德国的气候与地球系统科学研究所，领导行星边界科学实验室及其年度《行星健康检查》。 https://www.pik-potsdam.de/
+- **Smart Forests** (剑桥，英国) — 剑桥大学的研究项目，研究森林如何通过传感器、无人机和数据成为数字环境，以及这对政治与生态意味着什么。 https://smartforests.net/
+- **Stockholm Resilience Centre** (斯德哥尔摩，瑞典) — 斯德哥尔摩大学关于社会-生态系统与韧性的研究中心，以“行星边界”框架闻名。 https://www.stockholmresilience.org/
+- **The Parliament of Things** (阿姆斯特丹，荷兰) — 一个受 Bruno Latour 启发的研究与活动平台，探讨动物、植物、河流和物如何在政治中获得发言权。它围绕北海、土壤和莱茵河的权利举办过多场会议。 https://theparliamentofthings.org/
+
+### 非营利与倡导组织
+
+- **Amazon Conservation Team** (阿灵顿，弗吉尼亚州，美国 / 哥伦比亚 / 苏里南) — 一个与哥伦比亚和苏里南原住民合作的组织，把祖传知识与 GPS、卫星监测结合起来，绘制并保护他们的森林。 https://www.amazonteam.org/
+- **Anima Mundi Law Initiative** (英国) — 一个法律倡议，在法律、生态与文化的交汇处，为气候和生态危机提出有创意又可操作的法律策略。 https://www.animamundilaw.org/
+- **Arribada Initiative** (英国) — 一个开源保护技术项目，设计低成本的动物标签、相机和传感器，最早从海龟追踪器做起。 https://arribada.org/
+- **Asociación ANDES (Potato Park)** (库斯科，秘鲁) — 秘鲁的一个原住民组织，共同创立了“马铃薯公园”，克丘亚社区在那里以生物文化遗产领地的方式保护数百种本土马铃薯品种。 https://andes.org.pe/
+- **Awana Digital (Mapeo)** (全球) — 一个非营利组织（前身为 Digital Democracy），与原住民社区一起开发 Mapeo 等离线开源工具，用于绘制和监测他们的领地。 https://www.awana.digital/
+- **Bat Conservation Trust** (伦敦，英国) — 英国的蝙蝠保护慈善机构，运营全国蝙蝠监测计划，志愿者每年用探测器调查蝙蝠。 https://www.bats.org.uk/
+- **Center for Democratic and Environmental Rights (CDER)** (美国) — 一个法律中心，协助政府、部落和社区起草自然权利法律。它开展“拥有自己的土地”、传粉者权利等项目，并维护自然权利法律库。 https://www.centerforenvironmentalrights.org/
+- **Center for Humans and Nature** (芝加哥，美国) — 一个非营利组织，汇集哲学家、科学家、艺术家和原住民思想者，通过文章、书籍和期刊 Minding Nature，探讨人类对彼此和对超越人类世界的责任。 https://humansandnature.org/
+- **Community Environmental Legal Defense Fund (CELDF)** (宾夕法尼亚州，美国) — 一家美国法律非营利组织，帮助社区通过承认自然权利的地方法律。它参与起草了美国第一部自然权利条例（Tamaqua，2006）并为厄瓜多尔 2008 年宪法提供咨询。 https://celdf.org/
+- **Crop Trust (Svalbard Global Seed Vault)** (波恩，德国) — 一个国际组织，资助基因库中的作物多样性保护，并支持斯瓦尔巴全球种子库，为种子做可保存数百年的备份。 https://www.croptrust.org/
+- **Cultural Survival** (剑桥，马萨诸塞州，美国) — 一个由原住民主导的非营利组织，支持原住民对土地、语言和文化的权利，运营社区广播，并资助原住民环境捍卫者。 https://www.culturalsurvival.org/
+- **Earth Law Center** (美国) — 一家非营利组织，起草并捍卫赋予河流、海洋和生态系统法律权利的法律，包括《河流权利普遍宣言》。它也为律师和学生提供地球法培训。 https://www.earthlawcenter.org/
+- **Earthwatch Institute** (波士顿，美国 / 牛津，英国) — 一个组织志愿者跟随科学家参与野外科研考察的非营利机构，开展 FreshWater Watch 和“迷你森林”等项目。 https://earthwatch.org/
+- **Embassy of the North Sea** (海牙，荷兰) — 一个“大使馆”，倾听北海的植物、动物和人，与它们对话并为它们谈判。它通过艺术、研究和法律，推动北海最终能代表自己。 https://www.embassyofthenorthsea.com/
+- **End Ecocide on Earth** (法国) — 一个公民运动，起源于 2013 年的欧洲公民倡议，推动把生态灭绝定为罪行，并承认生态系统的权利。 https://www.endecocide.org/en/
+- **Global Fishing Watch** (华盛顿，美国) — 一个非营利组织，利用卫星和船舶追踪数据发布免费的全球捕捞与船只活动地图，推动海洋透明。 https://globalfishingwatch.org/
+- **Greenspace Scotland** (斯特灵，苏格兰，英国) — 苏格兰的一家慈善机构，关注公园与绿地的质量及其与健康的关系，包括绿色健康伙伴关系和自然处方。 https://www.greenspacescotland.org.uk/
+- **Indigenous Climate Action** (加拿大) — 加拿大一个由原住民主导的组织，把原住民知识与权利放在气候行动的中心，并培养社区气候领导者。 https://www.indigenousclimateaction.com/
+- **Indigenous Leadership Initiative** (加拿大) — 一个第一民族组织，支持加拿大的原住民守护者项目和原住民保护区。 https://www.ilinationhood.ca/
+- **International Living Future Institute** (西雅图，美国) — 一个运营“生命建筑挑战”的非营利组织。该建筑标准要求再生性、与自然相连的设计，其中包括亲生命设计要求。 https://living-future.org/
+- **International Rivers** (全球) — 一家保护河流及沿河社区、反对破坏性水坝的组织，也推动河流权利。它共同发起国际河流行动日。 https://www.internationalrivers.org/
+- **Lawyers for Nature** (英国) — 英国的一群律师，在决策中为自然发声，就自然权利、河流权利和“让自然进入董事会”的公司模式提供咨询。 https://www.lawyersfornature.com/
+- **Native Seeds/SEARCH** (图森，亚利桑那州，美国) — 一个种子库，保存美国西南部适应干旱的作物品种，并通过“原住民种子分享”项目把种子交还给原住民社区。 https://www.nativeseeds.org/
+- **Nature's Rights** (欧洲) — 一个推动法律承认自然权利的欧洲运动，起草过欧盟自然权利指令的提案。 https://www.natures-rights.org/
+- **NDN Collective** (拉皮德城，南达科他州，美国) — 一个由原住民主导的组织，资助并组织原住民社区，包括推动把土地交还原住民管护的 LANDBACK 运动。 https://ndncollective.org/
+- **Ngā Tāngata Tiaki o Whanganui (Te Awa Tupua)** (旺格努伊，新西兰) — 旺格努伊河和解协议的部落信托机构。2017 年的《Te Awa Tupua 法》使旺格努伊河成为法人，并由人类监护人代表河流发言。 https://www.ngatangatatiaki.co.nz/
+- **Nonhuman Rights Project** (美国) — 一家民权组织，通过人身保护令诉讼，为大象、黑猩猩等认知复杂的动物争取法律人格与自由。 https://www.nonhumanrights.org/
+- **Pachamama Alliance** (旧金山，美国 / 厄瓜多尔) — 应 Achuar 族领袖邀请成立的组织，保护亚马孙雨林，并帮助全球北方的人们重新思考与地球的关系。 https://pachamama.org/
+- **Park Rx America** (美国) — 一个帮助医生为病人开出“去公园和自然中待一段时间”处方并记录这些自然处方的非营利组织。 https://www.parkrx.org/
+- **Quiet Parks International** (全球) — 一个认证没有人为噪声污染的荒野、城市和海洋场所的非营利组织，以保护自然声景。 https://www.quietparks.org/
+- **Rainforest Connection (RFCx)** (旧金山，美国) — 一个非营利组织，把回收的手机改装成太阳能“守护者”监听设备放进森林，实时侦测电锯声和枪声，并通过声音监测生物多样性。 https://rfcx.org/
+- **Rainforest Foundation US** (纽约，美国) — 一个非营利组织，支持中南美洲原住民争取土地权，并培训社区森林监测员使用无人机、手机和卫星警报。 https://www.rainforestfoundation.org/
+- **Rechtsperson Reuss** (瑞士) — 一个瑞士协会，推动让罗伊斯河成为法人，是瑞士最早的河流权利运动之一。 https://r-reuss.ch/
+- **REEF (Reef Environmental Education Foundation)** (基拉戈，佛罗里达州，美国) — 一个海洋保护非营利组织，其“志愿者鱼类调查项目”已从潜水员和浮潜者那里收集了数十万份鱼类调查。 https://www.reef.org/
+- **Revive & Restore** (索萨利托，加利福尼亚州，美国) — 一个把生物技术用于保护的非营利组织，例如克隆黑足鼬和普氏野马，以及对濒危物种进行基因拯救。 https://reviverestore.org/
+- **Saami Council** (萨普米（挪威、瑞典、芬兰、俄罗斯）) — 由四个国家的萨米组织组成的理事会，关注萨米人的权利、土地使用、驯鹿放牧和北极环境政策。 https://www.saamicouncil.net/
+- **Sensing Clues** (荷兰) — 一个荷兰非营利组织，开发用于预防野生动物犯罪和监测自然的开放工具，把野外观察和传感器数据变成共享的态势地图。 https://sensingclues.org/
+- **Shan Shui Conservation Center (山水自然保护中心)** (北京，中国) — 中国的一家自然保护组织，与中国西部的当地社区合作保护雪豹和大熊猫，并举办“自然观察节”。 http://www.shanshui.org/
+- **Stichting Rechten van de Natuur** (荷兰) — 一个荷兰基金会，推动荷兰承认自然的法律权利，包括为瓦登海等生态系统发起的运动。 https://rechtenvandenatuur.org/
+- **Stop Ecocide International** (荷兰 / 英国) — 一项推动把生态灭绝（对自然造成严重而广泛的破坏）列为国际罪行的运动。它在 2021 年召集专家小组起草了生态灭绝的法律定义。 https://www.stopecocide.earth/
+- **Te Hiku Media** (凯塔亚，新西兰) — 一家毛利媒体机构，自建毛利语语音 AI，并制定了让原住民数据由社区掌控的许可协议。 https://tehiku.nz/
+- **Te Uru Taumatua (Ngāi Tūhoe)** (Te Urewera，新西兰) — Ngāi Tūhoe 部落的管理机构。根据 2014 年《Te Urewera 法》，原国家公园 Te Urewera 成为法律主体，由 Tūhoe 依照自己的价值观共同治理。 https://www.ngaituhoe.iwi.nz/
+- **The Frozen Ark** (诺丁汉，英国) — 由动物园、博物馆和实验室组成的联盟，保存濒危动物的 DNA 和活细胞，避免其遗传信息消失。 https://www.frozenark.org/
+- **The Gaia Foundation** (伦敦，英国) — 一家基金会，与非洲、南美和欧洲的原住民及地方社区合作，保护种子、神圣自然地和水源，并推广地球法理学。 https://www.gaiafoundation.org/
+- **The Long Now Foundation** (旧金山，美国) — 一个鼓励以未来一万年为尺度进行长期思考的基金会，项目包括万年钟、罗塞塔项目和系列讲座。 https://longnow.org/
+- **Tierra Digna** (波哥大，哥伦比亚) — 哥伦比亚的一个社会正义研究中心，提起了使宪法法院在 2016 年宣布阿特拉托河为权利主体的诉讼。它支持非裔和原住民社区捍卫自己的领地。 https://tierradigna.org/
+- **Wild Law Institute** (开普敦，南非) — 一个研究机构，基于地球法理学发展法律与实践，让人们对地球的健康负责。它源于 Cormac Cullinan 关于“野性法”的工作。 https://www.wildlaw.net/
+- **Wild Me (Wildbook)** (波特兰，俄勒冈州，美国) — Wildbook 开源软件的开发团队，能从研究者和公众拍摄的照片中识别鲸鲨、斑马、长颈鹿等动物个体。 https://www.wildme.org/
+- **Wildlife Protection Solutions** (全球) — 一个非营利组织，在保护区部署远程相机和 AI（wpsWatch），侦测偷猎者并监测野生动物。 https://wildlifeprotectionsolutions.org/
+- **Xerces Society for Invertebrate Conservation** (波特兰，俄勒冈州，美国) — 一个保护昆虫和其他无脊椎动物的非营利组织，开展 Bumble Bee Watch 和西部帝王蝶统计等社区科学项目。 https://xerces.org/
+
+### 网络与社群
+
+- **#NatureForAll (IUCN)** (全球) — 由 IUCN 发起的全球运动，旨在激发人们对自然的热爱，分享如何让人（尤其是年轻人）与自然建立联系的工具和故事。 https://natureforall.global/
+- **Association for Advancing Participatory Sciences (formerly Citizen Science Association)** (美国) — 一个面向运营或研究公众参与科学项目人员的专业协会，出版期刊 Citizen Science: Theory and Practice。 https://participatorysciences.org/
+- **Australian Citizen Science Association** (澳大利亚) — 一个全国性网络，通过项目检索、工作组和会议支持澳大利亚的公民科学。 https://citizenscience.org.au/
+- **Australian Earth Laws Alliance (AELA)** (澳大利亚) — 澳大利亚的全国性网络，与原住民知识持有者合作，推广地球法理学和自然权利。它曾为大堡礁等生态系统举办公民法庭。 https://www.earthlaws.org.au/
+- **Biophilic Cities Network** (夏洛茨维尔，弗吉尼亚州，美国) — 一个城市与研究者网络，设在弗吉尼亚大学，致力于把日常接触自然作为城市规划的核心。 https://www.biophiliccities.org/
+- **Budburst** (芝加哥植物园，美国) — 芝加哥植物园的项目，公众记录植物何时长叶、开花、结果以及传粉者的造访，用于研究气候影响。 https://budburst.org/
+- **Children & Nature Network** (明尼阿波利斯，美国) — 由《林间最后的小孩》作者 Richard Louv 共同创立的网络，致力于让每个孩子每天都能接触自然，并维护一个关于自然与儿童健康的研究资料库。 https://www.childrenandnature.org/
+- **ConservationDrones.org** (全球) — 一个分享如何制作和使用低成本无人机进行野生动物调查、森林测绘与保护的社群。 https://conservationdrones.org/
+- **Country Needs People** (澳大利亚) — 一个由澳大利亚原住民和托雷斯海峡岛民组织组成的联盟，倡导原住民护林员项目和原住民保护区。 https://www.countryneedspeople.org.au/
+- **Dark Mountain Project** (英国) — 一个作家和艺术家网络，始于 2009 年的《去文明化》宣言，出版在生态崩溃时代寻找新故事的书籍。 https://dark-mountain.net/
+- **Earth Charter International** (圣何塞，哥斯达黎加) — 推广《地球宪章》的机构。《地球宪章》是 2000 年发布的伦理原则宣言，倡导尊重生命共同体、公正、可持续与和平的全球社会。 https://earthcharter.org/
+- **Earth System Governance Project** (全球) — 一个全球研究网络，研究社会如何治理人与地球系统的关系，包括自然权利与行星正义方面的工作。 https://www.earthsystemgovernance.org/
+- **European Citizen Science Association (ECSA)** (柏林，德国) — 一个会员制协会，连接欧洲的公民科学实践者，发布了“公民科学十项原则”，并每两年举办一次大会。 https://www.ecsa.ngo/
+- **Firesticks Alliance** (澳大利亚) — 一个由原住民主导的网络，在澳大利亚各地复兴文化燃烧，即用火照护土地的传统做法。 https://www.firesticks.org.au/
+- **Forest School Association** (英国) — 英国森林学校的专业组织。森林学校是一种长期户外学习方式，孩子们定期在林地中学习。 https://forestschoolassociation.org/
+- **Forest Therapy Society (森林セラピーソサエティ)** (东京，日本) — 日本的一个组织，认证“森林疗法基地”和“森林疗法步道”（经测量证实步行有放松效果的森林），并培训森林疗法向导。 https://www.fo-society.jp/
+- **FrogID (Australian Museum)** (悉尼，澳大利亚) — 澳大利亚博物馆的应用，公众录下蛙鸣，由专家鉴定，用于绘制蛙类分布并追踪其减少。 https://www.frogid.net.au/
+- **Future Earth** (全球) — 一个全球可持续性研究者网络，协调地球系统研究，并主办“地球委员会”，界定安全与公正的地球系统边界。 https://futureearth.org/
+- **Global Alliance for the Rights of Nature (GARN)** (全球) — 一个全球网络，由致力于让自然权利写入法律的组织和个人组成。它主办国际自然权利法庭，并连接数百个成员团体。 https://www.garn.org/
+- **Global Indigenous Data Alliance (GIDA)** (全球) — 一个原住民数据主权团体网络，发布了原住民数据治理 CARE 原则，在生物多样性和科研数据中与 FAIR 原则并用。 https://www.gida-global.org/
+- **Globe at Night** (图森，亚利桑那州，美国（NOIRLab）) — NOIRLab 发起的活动，人们通过数可见的星星来测量光污染。光污染同样威胁夜行动物、昆虫和人。 https://globeatnight.org/
+- **GLOBE Program (GLOBE Observer)** (全球（NASA 支持）) — 一个国际科学教育项目，学生和公众收集云、地表覆盖、树木和蚊子的数据，供 NASA 科学家使用。 https://www.globe.gov/
+- **Harmony with Nature (United Nations)** (纽约，美国) — 联合国的一个项目，追踪全球自然权利立法，并召集地球法理学专家组成知识网络。它每年就“与自然和谐相处”向联合国大会提交报告。 http://www.harmonywithnatureun.org/
+- **ICCA Consortium** (全球) — 一个全球协会，支持由原住民和地方社区保护的领地和区域（ICCA），也称“生命的领地”。 https://www.iccaconsortium.org/
+- **iNaturalist** (奥克兰，加利福尼亚州，美国) — 一个全球社群和应用，人们分享植物、动物和真菌的照片，由其他用户和计算机视觉协助鉴定。这些观察记录通过 GBIF 进入科研。 https://www.inaturalist.org/
+- **Indigenous Environmental Network** (贝米吉，明尼苏达州，美国) — 一个原住民基层团体联盟，致力于环境与经济正义、保护圣地和地球母亲的权利。 https://www.ienearth.org/
+- **International Barcode of Life (iBOL)** (圭尔夫，加拿大) — 一个研究联盟，为所有多细胞生物建立 DNA 条形码库，使人们能从少量组织或环境样本中识别物种。 https://ibol.org/
+- **International Society of Nature and Forest Medicine (INFOM)** (东京，日本) — 一个研究森林与自然对健康影响的学术团体，例如森林浴对压力激素和免疫细胞的影响。 https://www.infom.org/
+- **iSpot** (米尔顿凯恩斯，英国（开放大学）) — 开放大学的一个社群，通过照片鉴定野生动物，旨在帮助初学者向专家学习鉴定。 https://www.ispotnature.org/
+- **Journey North** (威斯康星大学麦迪逊分校，美国) — 一个公民科学项目，根据公众目击记录绘制帝王蝶、蜂鸟等物种的季节迁徙地图。 https://journeynorth.org/
+- **Monarch Watch** (堪萨斯大学，美国) — 堪萨斯大学的项目，志愿者为帝王蝶做标记，并种植马利筋建立“帝王蝶驿站”，支持它们迁徙。 https://monarchwatch.org/
+- **Mosquito Alert** (巴塞罗那，西班牙) — 一个公民科学应用和研究项目，人们拍摄蚊子和孳生地，帮助专家和 AI 追踪入侵和传病的蚊种。 https://www.mosquitoalert.com/
+- **NaturaLista (CONABIO)** (墨西哥城，墨西哥) — iNaturalist 在墨西哥的国家节点，由生物多样性委员会 CONABIO 运营，拥有拉丁美洲最大的观察者社群之一。 https://www.naturalista.mx/
+- **Nature's Calendar (Woodland Trust)** (英国) — 林地信托的物候项目，志愿者记录季节信号（如第一片叶子、第一只燕子），追踪气候变化。 https://naturescalendar.woodlandtrust.org.uk/
+- **Netzwerk Rechte der Natur** (德国) — 一个德语网络，在德国、奥地利和瑞士推动自然权利，并收集相关法律文本和新闻。 https://www.rechte-der-natur.de/
+- **Nordic Alliance for the Rights of Nature (Nature & Democracy)** (北欧) — 一个北欧平台，致力于改变人们对自然的法律与文化理解，推动瑞典、挪威、芬兰、丹麦和冰岛承认自然权利。 https://natureanddemocracy.org/
+- **Orcasound** (萨利希海，美国 / 加拿大) — 萨利希海的一个水听器网络，直播水下声音，让公众聆听濒危的南方居留型虎鲸，并协助标注它们的叫声。 https://www.orcasound.net/
+- **Pl@ntNet** (蒙彼利埃，法国) — 法国的科研联盟与应用，用 AI 从照片识别植物，同时收集观察数据，帮助植物学家绘制植物多样性地图。 https://plantnet.org/
+- **Planetary Health Alliance** (巴尔的摩，美国（约翰斯·霍普金斯大学）) — 一个由数百所大学和机构组成的联盟，研究人类健康如何依赖地球自然系统的健康。 https://www.planetaryhealthalliance.org/
+- **Project FeederWatch** (伊萨卡，美国 / 加拿大) — 由康奈尔鸟类学实验室和加拿大鸟类组织开展的冬季调查，人们统计自家后院喂食器旁的鸟类。 https://feederwatch.org/
+- **Public Lab** (美国（已存档）) — 一个开发 DIY 环境调查工具的社群，如气球与风筝航拍、低成本光谱仪，始于 2010 年墨西哥湾漏油事件。其网站现为存档。 https://publiclab.org/
+- **Reef Check** (玛丽安德尔湾，加利福尼亚州，美国) — 一个国际项目，培训志愿潜水员用统一方法调查珊瑚礁和海藻林的健康状况。 https://www.reefcheck.org/
+- **Rights of Nature Philippines** (菲律宾) — 一个联盟，推动菲律宾通过《自然权利法》，并推动承认生态系统权利的地方法规。 https://rightsofnature.org.ph/
+- **River Rights Network (UK)** (英国) — 一个英国网络，由河流团体、倡导者和合作社组成，推动河流权利进入英国法律。它在 AHRC 资助下举办“河流相会”工作坊。 https://www.riverrights.org/
+- **SMART Conservation Tools** (全球) — 由多家保护组织组成的伙伴关系，维护 SMART 免费软件。全球一千多个保护区用它规划护林员巡逻、记录野生动物和威胁。 https://smartconservationtools.org/
+- **Te Mana Raraunga (Māori Data Sovereignty Network)** (新西兰) — 一个由毛利研究者和从业者组成的网络，制定毛利人掌控关于其人民、土地和珍宝（包括环境数据）的数据的原则。 https://www.temanararaunga.maori.nz/
+- **Tela Botanica** (蒙彼利埃，法国) — 一个法语植物学网络，拥有数万名成员，分享植物观察、在线课程和协作编写的植物志。 https://www.tela-botanica.org/
+- **The Buffalo Treaty** (黑脚联盟，美国 / 加拿大) — 由美国和加拿大多个原住民族签署的条约，旨在让野牛重返草原，把野牛视为亲属和伙伴。 https://www.buffalotreaty.com/
+- **The Club of Rome** (温特图尔，瑞士) — 一个思想者团体，以 1972 年报告《增长的极限》闻名，至今仍关注行星紧急状况和长期经济变革。 https://www.clubofrome.org/
+- **USA National Phenology Network (Nature's Notebook)** (图森，亚利桑那州，美国) — 一个通过 Nature's Notebook 项目收集动植物物候数据的网络，并发布春季展叶地图等预报。 https://www.usanpn.org/
+- **Vigie-Nature (MNHN)** (巴黎，法国) — 法国国家自然历史博物馆的公民科学项目，为鸟类、蝴蝶、传粉者（Spipoll）、蝙蝠和植物监测提供统一方案。 https://www.vigienature.fr/
+- **WILDLABS** (全球（由 WWF-UK 主办）) — 保护技术领域最主要的线上社群，野外保护工作者、工程师和研究者在这里分享工具，围绕声学监测、红外相机等主题组织工作组，并每年发布《保护技术现状》报告。 https://wildlabs.net/
+- **Work That Reconnects Network** (全球) — 一个践行 Joanna Macy “重新连接的工作”的引导者网络，通过“众生议会”等团体练习帮助人们感受到自己是活着的地球的一部分。 https://workthatreconnects.org/
+- **World Forum for Acoustic Ecology (WFAE)** (全球) — 一个研究和关怀声景（人类与其他物种的声音环境）的国际网络，延续了 R. Murray Schafer 的世界声景项目。 https://www.wfae.net/
+- **Zooniverse** (牛津，英国 / 芝加哥，美国) — 规模最大的公众参与研究平台，志愿者为数百个项目分类红外相机图像、动物声音、星系和档案。 https://www.zooniverse.org/
+- **Zoöp (Zoönomic Foundation)** (鹿特丹，荷兰) — 由 Het Nieuwe Instituut 发展的一种组织模式，让非人类生命在组织治理中拥有代表。成为 Zoöp 的组织需要报告其工作如何影响所依赖的生态。 https://zoop.hetnieuweinstituut.nl/
+
+### 资助与奖项
+
+- **The Earthshot Prize** (伦敦，英国) — 一项年度奖项，每年为恢复自然、净化空气、复兴海洋、减少废弃物和应对气候的五个方案各颁发 100 万英镑。 https://earthshotprize.org/
+- **XPRIZE Rainforest** (全球) — 一项奖金 1000 万美元的竞赛，参赛团队用无人机、环境 DNA、声音和 AI 快速调查雨林生物多样性。决赛于 2024 年在亚马孙举行。 https://www.xprize.org/prizes/rainforest
+
+### 项目、驻留与课程
+
+- **Anthropocene Curriculum (HKW / Max Planck Institute for the History of Science)** (柏林，德国) — 世界文化宫与马克斯·普朗克科学史研究所的长期合作项目，通过研习营、田野工作和线上档案，发展关于人类世的实验性教育。 https://www.anthropocene-curriculum.org/
+- **Association of Nature and Forest Therapy Guides and Programs (ANFT)** (美国) — 一个培训和认证森林疗愈向导的组织，把日本的“森林浴”改编为有引导的感官漫步。 https://anft.earth/
+- **Schumacher College** (达廷顿，德文郡，英国) — 位于达廷顿庄园的学院，通过整体的、立足土地的学习，教授生态学、再生设计和生态经济学。 https://www.schumachercollege.org.uk/
+- **Serpentine Ecologies / Back to Earth** (伦敦，英国) — 蛇形画廊的长期生态项目，邀请艺术家、建筑师和思想者针对气候与生态紧急状况提出方案和行动。 https://www.serpentinegalleries.org/art-and-ideas/back-to-earth-can-i-get-back-to-you/
+- **Wild & Legal** (法国) — 一个法国项目，让学生为具体的生态系统（如河流和森林）起草赋予其权利的公民法律提案。 https://wildlegal.eu/
+
+### 会议与活动系列
+
+- **Audubon Christmas Bird Count** (美洲) — 持续时间最长的公民科学调查，自 1900 年起每年冬季举行，志愿者在美洲各地固定的圆形区域内统计鸟类。 https://www.audubon.org/conservation/science/christmas-bird-count
+- **Big Butterfly Count** (英国) — 英国蝴蝶保护协会组织的夏季调查，公众用 15 分钟统计蝴蝶和日行蛾类。 https://bigbutterflycount.butterfly-conservation.org/
+- **City Nature Challenge** (全球) — 一年一度的生物快速调查，全球城市比赛在四天内于 iNaturalist 上记录最多的城市野生生物。 https://www.citynaturechallenge.org/
+- **International Rights of Nature Tribunal** (全球) — 由 GARN 召集的民间法庭，依据《地球母亲权利普遍宣言》审理亚马孙、大堡礁等生态系统受损的案件。 https://www.rightsofnaturetribunal.org/
+- **RSPB Big Garden Birdwatch** (英国) — 英国一年一度的调查，数十万人花一小时统计自家花园或附近公园的鸟类。 https://www.rspb.org.uk/whats-happening/big-garden-birdwatch
+
+### 期刊、播客与报告
+
+- **Atmos** (纽约，美国) — 一本气候与文化杂志，以鲜明的视觉风格发表关于生态、原住民知识和超越人类关系的故事。 https://atmos.earth/
+- **Emergence Magazine** (线上) — 一本线上及印刷杂志，发表关于生态、文化与灵性的文章、影片和音频故事，常以原住民和关系性的世界观为中心。 https://emergencemagazine.org/
+- **For The Wild** (美国) — 一个播客与媒体项目，围绕土地、再野化、原住民抵抗和超越人类世界展开对话。 https://forthewild.world/
+- **Future Ecologies** (温哥华，加拿大) — 一档纪录片式播客，通过关于生态、土地与设计的故事，探索人与自然其他部分的关系。 https://www.futureecologies.net/
+- **Mongabay** (全球) — 一个非营利环境新闻机构，用多种语言报道森林、海洋、野生动物和原住民土地，并设有保护技术专题。 https://www.mongabay.com/
+- **Noema Magazine** (洛杉矶，美国) — 伯格鲁恩研究所出版的杂志，关注哲学、治理、技术与地球，发表关于非人类智能、行星思维和生态的文章。 https://www.noemamag.com/
+- **Orion Magazine** (北安普顿，马萨诸塞州，美国) — 一本无广告的自然、文化与地方杂志，刊登 Robin Wall Kimmerer、Barry Lopez 等作者关于人与自然关系的写作。 https://orionmagazine.org/
+
+### 目录、档案与数据集
+
+- **Allen Coral Atlas** (线上) — 利用卫星图像绘制的全球浅海珊瑚礁地图，并监测珊瑚白化，供珊瑚礁管理者和科学家使用。 https://allencoralatlas.org/
+- **Arbimon** (线上（Rainforest Connection）) — Rainforest Connection 推出的免费云平台，用于存储、分析和分享生态声学录音，提供物种识别和声景分析工具。 https://arbimon.org/
+- **Atlas of Living Australia** (堪培拉，澳大利亚) — 澳大利亚国家生物多样性数据库，整合博物馆、植物标本馆和公民科学的记录，覆盖十万多个物种。 https://www.ala.org.au/
+- **BirdNET** (伊萨卡，美国 / 开姆尼茨，德国) — 康奈尔鸟类学实验室与开姆尼茨工业大学开发的免费 AI 工具，可通过声音识别数千种鸟类，既用于手机应用，也用于大型声学监测项目。 https://birdnet.cornell.edu/
+- **China Bird Report (中国观鸟记录中心)** (中国) — 中国主要的在线鸟类记录数据库，观鸟者在这里提交观鸟记录，用于鸟类分布和保护研究。 http://www.birdreport.cn/
+- **CitSci.org** (科罗拉多州立大学，美国) — 科罗拉多州立大学的免费平台，任何人都可以用它设计和运营公民科学项目，从数据表到分析一应俱全。 https://citsci.org/
+- **Conservation Evidence** (剑桥，英国) — 剑桥大学的免费数据库，汇总保护行动中哪些有效、哪些无效的科学证据。 https://www.conservationevidence.com/
+- **EarthRanger (Ai2)** (西雅图，美国) — 艾伦人工智能研究所提供的免费软件，让保护区管理者在一张实时地图上看到护林员、佩戴项圈的动物、传感器和事件。 https://www.earthranger.com/
+- **eBird** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室的平台，观鸟者提交所见鸟类的清单，形成了全球最大的生物多样性数据集之一。 https://ebird.org/home
+- **Eco Jurisprudence Monitor** (线上) — 一个可检索的全球地图和数据库，收录自然权利的法律、判决、政策和倡议，与 GARN 和学术伙伴共同维护。 https://ecojurisprudence.org/
+- **FathomNet** (莫斯兰丁，加利福尼亚州，美国) — 由 MBARI 牵头的开放海洋生物标注图像库，用于训练能识别水下视频中深海动物的 AI。 https://www.fathomnet.org/
+- **GBIF (Global Biodiversity Information Facility)** (哥本哈根，丹麦) — 一个国际网络和开放数据基础设施，免费提供来自博物馆、调查和公民科学的数十亿条物种分布记录。 https://www.gbif.org/
+- **Global Forest Watch** (华盛顿，美国（WRI）) — 世界资源研究所的开放平台，展示卫星近实时的森林砍伐警报，让任何人都能监测森林。 https://www.globalforestwatch.org/
+- **Happywhale** (圣克鲁斯，加利福尼亚州，美国) — 一个平台，赏鲸者上传鲸尾照片，由 AI 匹配到座头鲸等鲸的个体，从而追踪它们跨越海洋的旅程。 https://happywhale.com/
+- **iRecord** (英国（UKCEH 生物记录中心）) — 英国分享野生动物目击记录的网站和应用，记录由专家核验，用于全国物种图集。 https://irecord.org.uk/
+- **IUCN Red List of Threatened Species** (全球) — 全球关于动物、真菌和植物灭绝风险的主要信息来源，已评估超过 16 万个物种。 https://www.iucnredlist.org/
+- **Local Contexts** (全球) — 一个倡议，提供“传统知识标签”和“生物文化标签”，原住民社区可把这些数字标签附在数据、样本和藏品上，以声明权利与来源。 https://localcontexts.org/
+- **Macaulay Library** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室的野生动物声音、照片和视频档案库，收藏数千万个媒体文件，大部分由观鸟者通过 eBird 贡献。 https://www.macaulaylibrary.org/
+- **Map of Life** (耶鲁大学，美国) — 由耶鲁大学主导的平台，绘制 45 万多个物种的分布，并为各国和保护区追踪生物多样性指标。 https://mol.org/
+- **Movebank** (康斯坦茨，德国) — 由马克斯·普朗克动物行为研究所托管的免费动物追踪数据库，收录数千个物种的数十亿个 GPS 定位点。 https://www.movebank.org/
+- **Native Land Digital** (加拿大) — 一个由原住民主导的非营利组织，绘制全球原住民领地、语言和条约的地图，让人们了解自己生活在谁的土地上。 https://native-land.ca/
+- **NatureServe** (阿灵顿，弗吉尼亚州，美国) — 美洲生物多样性数据中心的网络，追踪物种和生态系统的状况，服务保护规划。 https://www.natureserve.org/
+- **OBIS (Ocean Biodiversity Information System)** (奥斯坦德，比利时（UNESCO-IOC）) — 联合国教科文组织的全球开放获取海洋物种分布数据库，整合了数千个数据集。 https://obis.org/
+- **Observation.org (Waarneming.nl)** (荷兰) — 起源于荷兰的自然记录平台，配有 ObsIdentify 应用，人们在上面记录所有物种的目击情况，在欧洲广泛使用。 https://observation.org/
+- **Protected Planet (UNEP-WCMC)** (剑桥，英国) — 全球保护地及其他有效区域保护措施的官方数据库，由 UNEP-WCMC 与 IUCN 共同维护。 https://www.protectedplanet.net/
+- **Restor** (苏黎世，瑞士) — 一个开放平台，源自苏黎世联邦理工学院 Crowther 实验室，生态修复项目可在上面标注地点并分享生物多样性、土壤和碳数据。 https://restor.eco/
+- **SciStarter** (美国) — 一个可检索的公民科学项目目录，收录数千个项目，并提供帮助人们参与、记录和获得认可的工具。 https://scistarter.org/
+- **Skylight (Ai2)** (西雅图，美国) — 艾伦人工智能研究所的免费海事监测平台，利用卫星数据和 AI 侦测非法捕捞、保护海洋区域。 https://www.skylight.global/
+- **Wildlife Insights** (线上) — 由 Conservation International、Google 等伙伴共建的平台，用 AI 识别红外相机照片中的动物，并共享数据用于保护。 https://www.wildlifeinsights.org/
+- **xeno-canto** (线上（荷兰 Naturalis）) — 由社群共建的开放录音档案，收集全球鸟类、蛙类、蝙蝠和昆虫的声音，被广泛用于训练生物声学 AI。 https://xeno-canto.org/
+
+### 公司与工作室
+
+- **Biome (いきものコレクション)** (京都，日本) — 一家日本公司，其 Biome 应用把物种观察变成带 AI 识别的收集游戏，为企业和地方政府生成生物多样性数据。 https://biome.co.jp/
+- **Biome Makers** (加利福尼亚州，美国 / 西班牙) — 一家对土壤微生物组进行测序的公司，通过 BeCrop 检测让农民了解土壤生命与健康状况。 https://biomemakers.com/
+- **Conservation X Labs** (美国) — 一家保护创新公司，开发 Sentinel AI 红外相机设备等工具，并举办开放创新奖。Wild Me 及其 Wildbook 平台于 2024 年并入该公司。 https://conservationxlabs.com/
+- **Hack the Planet** (荷兰) — 一家荷兰技术工作室，开发坚固的 AI 红外相机和传感器，实时提醒社区大象、熊或偷猎者的出现。 https://www.hack-the-planet.io/
+- **Internet of Elephants** (内罗毕，肯尼亚) — 一家肯尼亚社会企业，把真实的野生动物追踪和研究数据变成游戏、故事和数字体验，让人们与动物个体建立联系。 https://internetofelephants.com/
+- **NatureMetrics** (伦敦，英国) — 一家通过水和土壤样本中的环境 DNA 测量生物多样性的公司，客户包括企业、政府和保护组织。 https://www.naturemetrics.com/
+- **Nonhuman Nonsense** (斯德哥尔摩，瑞典) — 一家以研究为导向的设计与艺术工作室，创作关于非人类权利和行星人格的近未来虚构作品，如《行星人格》。 https://nonhuman-nonsense.com/
+- **Open Acoustic Devices (AudioMoth)** (南安普顿，英国) — AudioMoth 的制造者。这是一款低成本开源录音设备，研究者和公民科学家用它录制鸟类、蝙蝠、昆虫和整个声景。 https://www.openacousticdevices.info/
+- **Smart Parks** (荷兰) — 一家荷兰社会企业，搭建 LoRaWAN 传感器网络并开发开源动物项圈，用于保护野生动物和公园。 https://www.smartparks.org/
+- **Superflux** (伦敦，英国) — 一家思辨设计与未来工作室，其装置作品如《复苏的庇护所》和《冲击的缓解》想象超越人类的未来。 https://superflux.in/
+- **Terrapin Bright Green** (纽约，美国) — 一家环境咨询公司，以报告《亲生命设计的 14 种模式》闻名，把自然与幸福感的研究转化为设计指南。 https://www.terrapinbrightgreen.com/
+- **Wildlife Acoustics** (梅纳德，马萨诸塞州，美国) — 一家生产 Song Meter 录音机、Echo Meter 蝙蝠探测器和 Kaleidoscope 分析软件的公司，用于生物声学监测。 https://www.wildlifeacoustics.com/
+
 ## 创作者
 
 - **Earth Species Project** (24) — 由 Aza Raskin 和 Britt Selvitelle 共同创办的非营利 AI 研究实验室. Earth Species Project 开发机器学习模型和基准，用来解码动物交流。 https://www.earthspecies.org

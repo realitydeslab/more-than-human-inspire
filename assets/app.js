@@ -11,7 +11,10 @@
   const APPS = TAX.approaches || [];
   const DISCS = TAX.disciplines || [];
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
-  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "works", "papers", "creators", "starred"];
+  const ORGS = DATA.orgs || [];
+  const OTYPES = TAX.org_types || [];
+  const OTHEMES = TAX.org_themes || [];
+  const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
   const FILTERED = ["works", "papers", "creators"];
 
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
@@ -38,7 +41,7 @@
   const subOf = (w) => (fieldById[w.field]?.subs || []).find((s) => s.id === w.sub);
   const src = (p) => S().sources[p] || p;
 
-  const state = { view: "atlas", q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
+  const state = { view: "atlas", oq: "", otype: "", otheme: "", q: "", apps: new Set(), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", sort: "new", creator: "", video: false, paper: false, sub: "" };
   let currentList = [];
   let openIndex = -1;
   let mediaIndex = 0;
@@ -50,6 +53,7 @@
     state.view = VIEWS.includes(p.get("view")) ? p.get("view") : "atlas";
     Object.assign(state, { q: p.get("q") || "", apps: set(p, "a"), discs: set(p, "d"), cols: set(p, "col"), fields: set(p, "f"), orgs: set(p, "o"), kinds: set(p, "k"), era: p.get("era") || "",
       sort: p.get("sort") || "new", creator: p.get("c") || "", video: p.get("v") === "1", paper: p.get("p") === "1", sub: p.get("sub") || "" });
+    Object.assign(state, { otype: p.get("ot") || "", otheme: p.get("oth") || "", oq: p.get("oq") || "" });
     return { work: p.get("w") };
   }
   function writeHash(workId) {
@@ -69,6 +73,11 @@
       if (state.creator) p.set("c", state.creator);
       if (state.video) p.set("v", "1");
       if (state.paper) p.set("p", "1");
+    }
+    if (state.view === "orgs") {
+      if (state.otype) p.set("ot", state.otype);
+      if (state.otheme) p.set("oth", state.otheme);
+      if (state.oq) p.set("oq", state.oq);
     }
     if (workId) p.set("w", workId);
     history.replaceState(null, "", "#" + p.toString());
@@ -187,6 +196,37 @@
         <div class="cols__grid">${cs.map(colCard).join("")}</div></section>`).join("");
     return groups.length;
   }
+  const pairName = (list, k) => { const r = list.find((x) => x[0] === k); return r ? (zh() ? r[2] : r[1]) : k; };
+  function renderOrgs() {
+    currentList = [];
+    const q = state.oq.toLowerCase();
+    const hit = (o, skip) => (skip === "t" || !state.otype || o.type === state.otype) && (skip === "h" || !state.otheme || (o.themes || []).includes(state.otheme)) &&
+      (!q || [o.name, o.description, o.description_zh, o.based, ...(o.people || [])].join(" ").toLowerCase().includes(q));
+    const chips = (list, cur, attr, skip, test) => list.map(([k]) => { const n = ORGS.filter((o) => hit(o, skip) && test(o, k)).length;
+      return n || cur === k ? `<button class="chip" data-${attr}="${esc(k)}" aria-pressed="${cur === k}">${esc(pairName(list, k))}<small>${n}</small></button>` : ""; }).join("");
+    const shown = ORGS.filter((o) => hit(o));
+    $("#orgHead").innerHTML = `<div class="starred__head"><h2 class="starred__title">${esc(S().tab_orgs)}</h2><p class="starred__lede">${esc(S().orgs_lede)}</p>
+        <p class="count mono">${esc(S().orgs_n(shown.length))}</p></div>
+      <label class="search orgsearch"><span class="visually-hidden">${esc(S().search_label)}</span><input id="oq" type="search" autocomplete="off" placeholder="${esc(S().orgs_search)}" value="${esc(state.oq)}"></label>
+      <div class="facets"><div class="chiprow"><span class="chiprow__label mono">${esc(S().f_org_type)}</span><div class="chips">${chips(OTYPES, state.otype, "otype", "t", (o, k) => o.type === k)}</div></div>
+      <div class="chiprow"><span class="chiprow__label mono">${esc(S().f_org_theme)}</span><div class="chips">${chips(OTHEMES, state.otheme, "otheme", "h", (o, k) => (o.themes || []).includes(k))}</div></div></div>`;
+    const card = (o) => {
+      const nWorks = o.creator_id ? DATA.works.filter((w) => w.creator_ids.includes(o.creator_id)).length : 0;
+      const meta = [pairName(OTYPES, o.type), zh() ? o.based_zh || o.based : o.based, o.founded].filter(Boolean).join(" · ");
+      return `<article class="org">
+        <a class="org__media" href="${esc(o.url)}" target="_blank" rel="noopener">${o.image ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(o.image)}" alt="" onerror="this.remove()">` : ""}<span class="org__mono">${esc((o.name || "?").replace(/^(the|center|centre)\s+/i, "").slice(0, 1))}</span></a>
+        <div class="org__body"><h3 class="org__name"><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.name)} ↗</a></h3>
+          <div class="org__meta mono">${esc(meta)}</div>
+          <p class="org__desc">${esc(zh() ? o.description_zh : o.description)}</p>
+          <div class="tags">${(o.themes || []).map((k) => `<button class="tag tag--col" data-otheme="${esc(k)}">${esc(pairName(OTHEMES, k))}</button>`).join("")}</div>
+          ${nWorks ? `<button class="org__works mono" data-creator="${esc(o.creator_id)}">${esc(S().org_works(nWorks))}</button>` : ""}</div></article>`;
+    };
+    $("#orgList").innerHTML = OTYPES.map(([k]) => { const g = shown.filter((o) => o.type === k); return g.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(pairName(OTYPES, k))}</h3><span class="scat__n mono">${g.length}</span></div>
+      <p class="scat__desc">${esc((OTYPES.find((x) => x[0] === k) || [])[3] || "")}</p><div class="orgs">${g.map(card).join("")}</div></section>` : ""; }).join("");
+    const inp = $("#oq");
+    inp.addEventListener("input", (e) => { clearTimeout(renderOrgs.t); renderOrgs.t = setTimeout(() => { state.oq = e.target.value.trim(); render(); const i = $("#oq"); i.focus(); i.setSelectionRange(i.value.length, i.value.length); }, 200); });
+    return ORGS.length;
+  }
   function renderAtlas() {
     currentList = [];
     $("#atlas").innerHTML = `<p class="keys__lede">${esc(S().atlas_lede)}</p><div class="atlas">${FIELDS.map((f, i) => {
@@ -294,7 +334,7 @@
     $("#hasPaper").setAttribute("aria-pressed", state.paper);
     $("#starCount").textContent = stars.size ? stars.size : "";
     renderChips();
-    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
+    const n = f ? renderField(f) : { atlas: renderAtlas, collections: renderCollections, orgs: renderOrgs, works: renderWorks, papers: renderPapers, creators: renderCreators, starred: renderStarred }[state.view]();
     $("#empty").hidden = n > 0;
     lazyVideos();
     writeHash();
@@ -438,6 +478,8 @@
     if (d.field) { toggle(state.fields, d.field); return render(); }
     if (d.org) { toggle(state.orgs, d.org); return render(); }
     if (d.col) { toggle(state.cols, d.col); return render(); }
+    if (d.otype !== undefined) { state.otype = state.otype === d.otype ? "" : d.otype; return render(); }
+    if (d.otheme !== undefined) { state.otheme = state.otheme === d.otheme ? "" : d.otheme; return render(); }
     if (d.app) { toggle(state.apps, d.app); return render(); }
     if (d.disc) { toggle(state.discs, d.disc); return render(); }
     if (d.appGo) { Object.assign(state, { q: "", apps: new Set([d.appGo]), discs: new Set(), cols: new Set(), fields: new Set(), orgs: new Set(), kinds: new Set(), era: "", creator: "", video: false, paper: false }); return go("works"); }

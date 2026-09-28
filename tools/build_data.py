@@ -33,6 +33,7 @@ TAXONOMY = ROOT / "data" / "taxonomy.json"
 CACHE = ROOT / "data" / "media_cache.json"
 COLLECTIONS = ROOT / "data" / "collections"
 MEDIA = ROOT / "data" / "media"
+ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
 APPROACH = ROOT / "data" / "approach"      # { work_id: [approach ids] }
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
 # categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
@@ -270,6 +271,35 @@ def apply_collections(works: list, known: set) -> None:
             w.pop("collections", None)
 
 
+def load_orgs(cache: dict, creator_ids: set) -> list:
+    """Merge data/orgs/*.json by id; verify images (cached); keep only valid creator links."""
+    from check_media import check_image, transient  # noqa: PLC0415
+    orgs: dict[str, dict] = {}
+    for f in sorted(ORGS.glob("*.json")) if ORGS.exists() else []:
+        try:
+            d = json.loads(f.read_text())
+        except json.JSONDecodeError as e:
+            logger.error("SKIP %s: invalid JSON (%s)", f.name, e)
+            continue
+        for o in d.get("orgs", []):
+            if not o.get("id"):
+                continue
+            cur = orgs.setdefault(o["id"], {})
+            for k, v in o.items():
+                if v and not cur.get(k):
+                    cur[k] = v
+    todo = [o["image"] for o in orgs.values() if o.get("image") and not cache.get(f"img:{o['image']}", {}).get("ok")]
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        for u, res in zip(todo, ex.map(check_image, todo)):
+            cache[f"img:{u}"] = {**res, "ok": True, "unverified": True} if transient(res) else res
+    for o in orgs.values():
+        if o.get("image") and not cache.get(f"img:{o['image']}", {}).get("ok"):
+            o.pop("image")
+        if o.get("creator_id") and o["creator_id"] not in creator_ids:
+            o.pop("creator_id")
+    return sorted(orgs.values(), key=lambda o: o.get("name", "").lower())
+
+
 def load_labels(folder: Path, allowed: set, what: str) -> dict:
     """Merge label files ({id: [label, ...]}); later files win; unknown labels are dropped with a warning."""
     out: dict = {}
@@ -353,7 +383,9 @@ def main() -> None:
     kept.sort(key=lambda w: (-(w.get("year") or 0), w.get("title", "")))
     open_leads, checked_leads = classify_leads(leads, creators)
 
-    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept}
+    orgs = load_orgs(cache, {c["id"] for c in out_creators})
+    CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
+    data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "orgs": orgs}
     d = ROOT / "data"
     # guard against works silently disappearing (e.g. two batches each deleting a shared work)
     prev = {w["id"]: w.get("title", "") for w in json.loads((d / "entries.json").read_text())["works"]} if (d / "entries.json").exists() else {}
@@ -377,6 +409,7 @@ def main() -> None:
         stamp = str(int(time.time()))
         index.write_text(re.sub(r'(assets/(?:app|i18n|export)\.(?:js|css)|data/entries\.js)(\?v=\d+)?"', rf'\1?v={stamp}"', index.read_text()))
     by_field = {f: sum(w["field"] == f for w in kept) for f in subs}
+    logger.info("organizations: %d (%d with image)", len(orgs), sum(bool(o.get("image")) for o in orgs))
     logger.info("classified: approach %d/%d works, discipline %d/%d creators",
                 sum(bool(w.get("approaches")) for w in kept), len(kept), sum(bool(c.get("disciplines")) for c in out_creators), len(out_creators))
     logger.info("creators=%d works=%d dropped=%d media_problems=%d open_leads=%d | %s | video=%d images=%d paper=%d",

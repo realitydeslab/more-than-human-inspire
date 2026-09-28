@@ -398,3 +398,18 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .tag--col:hover { border-color: var(--accent); color: var(--accent-text); }
 .survey-btn { margin: 4px 0 8px; }
 .chiprow__label { flex-basis: 76px; }
+
+/* organizations & resources */
+.orgsearch { display: block; max-width: 520px; margin: 0 0 12px; }
+.orgs { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 22px 20px; }
+.org { display: flex; flex-direction: column; border-top: 1px solid var(--line); padding-top: 12px; }
+.org__media { position: relative; display: block; aspect-ratio: 16 / 7; background: radial-gradient(circle at 80% 10%, color-mix(in srgb, var(--accent) 18%, transparent), transparent 55%), var(--bg-2); border-radius: 3px; overflow: hidden; }
+.org__media img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; filter: saturate(.85); z-index: 1; }
+.org__mono { position: absolute; left: 14px; bottom: 6px; font: 400 44px/1 var(--serif); color: var(--muted); }
+.org__name { font: 400 20px/1.2 var(--serif); letter-spacing: -.01em; margin: 10px 0 4px; }
+.org__name a { text-decoration: none; }
+.org__name a:hover { color: var(--accent-text); }
+.org__meta { font-size: 11px; color: var(--muted); }
+.org__desc { font-size: 13.5px; margin: 6px 0 4px; }
+.org__works { align-self: flex-start; margin-top: 8px; background: none; border: 1px solid var(--line); border-radius: 99px; padding: 3px 10px; font-size: 11px; color: var(--accent-text); }
+.org__works:hover { border-color: var(--accent); }

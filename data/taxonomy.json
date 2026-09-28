@@ -614,5 +614,148 @@
       "Food",
       "食物"
     ]
+  ],
+  "org_types": [
+    [
+      "research",
+      "Research centre & lab",
+      "研究中心与实验室",
+      "University centres, institutes and independent labs."
+    ],
+    [
+      "nonprofit",
+      "Nonprofit & advocacy",
+      "非营利与倡导组织",
+      "NGOs, foundations and advocacy groups."
+    ],
+    [
+      "network",
+      "Network & community",
+      "网络与社群",
+      "Networks, coalitions, communities and field-building initiatives."
+    ],
+    [
+      "funding",
+      "Funding & prize",
+      "资助与奖项",
+      "Funds, grant programmes and prizes."
+    ],
+    [
+      "education",
+      "Programme & residency",
+      "项目、驻留与课程",
+      "Fellowships, residencies, courses, schools and accelerators."
+    ],
+    [
+      "event",
+      "Conference & event series",
+      "会议与活动系列",
+      "Recurring conferences, workshops, summits and festivals."
+    ],
+    [
+      "media",
+      "Journal, podcast & report",
+      "期刊、播客与报告",
+      "Journals, magazines, podcasts, newsletters and landmark reports."
+    ],
+    [
+      "database",
+      "Directory, archive & dataset",
+      "目录、档案与数据集",
+      "Directories, archives, maps, databases and open datasets."
+    ],
+    [
+      "company",
+      "Company & studio",
+      "公司与工作室",
+      "Companies and studios building in the field."
+    ]
+  ],
+  "org_themes": [
+    [
+      "sentience",
+      "Animal sentience & minds",
+      "动物感知与心智"
+    ],
+    [
+      "ai-animals",
+      "AI × animals",
+      "AI × 动物"
+    ],
+    [
+      "digital-minds",
+      "AI welfare & digital minds",
+      "AI 福祉与数字心智"
+    ],
+    [
+      "interspecies-communication",
+      "Interspecies communication",
+      "跨物种沟通"
+    ],
+    [
+      "animal-welfare",
+      "Animal welfare & ethics",
+      "动物福利与伦理"
+    ],
+    [
+      "law-rights",
+      "Law & rights of nature",
+      "法律与自然权利"
+    ],
+    [
+      "mth-design",
+      "More-than-human design",
+      "超越人类的设计"
+    ],
+    [
+      "biodesign",
+      "Biodesign & biofabrication",
+      "生物设计与生物制造"
+    ],
+    [
+      "bioart",
+      "Bio art & art-science",
+      "生物艺术与艺术科学"
+    ],
+    [
+      "diybio",
+      "Community labs & DIYbio",
+      "社区实验室与 DIY 生物"
+    ],
+    [
+      "synbio",
+      "Synthetic biology",
+      "合成生物学"
+    ],
+    [
+      "biocomputing",
+      "Biocomputing & organoids",
+      "生物计算与类器官"
+    ],
+    [
+      "conservation-tech",
+      "Conservation & ecology tech",
+      "保护与生态技术"
+    ],
+    [
+      "citizen-science",
+      "Citizen science",
+      "公民科学"
+    ],
+    [
+      "nature-connection",
+      "Nature connection & wellbeing",
+      "自然联结与身心健康"
+    ],
+    [
+      "indigenous",
+      "Indigenous & relational knowledge",
+      "原住民与关系性知识"
+    ],
+    [
+      "futures",
+      "Futures & long-term thinking",
+      "未来与长期思考"
+    ]
   ]
 }

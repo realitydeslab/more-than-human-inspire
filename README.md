@@ -17,6 +17,7 @@ Design with more than humans. A bilingual (English / 中文) gallery of **More-t
 - **All works**: filter by field, organism (fungi, slime mould, bacteria, algae, plants, animals, insects, cells, neurons, DNA, ecosystems, human body), type (paper, prototype, artwork, product, speculative, book), collection and era; full-text search.
 - **Papers**: every work with a paper, with venue and DOI (checked against Crossref / arXiv).
 - **Collections**: sets of works that belong together — the systems analysed in a survey paper (e.g. Breed et al. 2026, Ikeya et al. CHI 2025) or the winners of an award (BAD Award).
+- **Organizations & resources**: research centres, labs, nonprofits, networks, funders, programmes, event series, journals and directories of the field — filter by type and theme (nonhuman minds, AI × animals, interspecies communication, bio design, rights of nature, …). Data in `data/orgs/*.json`, validated by `tools/validate_orgs.py`.
 - **Creators**: people, labs, studios and companies, with bios and all their works.
 - **Starred**: star works in your browser, export them as `SKILL.md`, `README.md` or a reading list with DOIs.
 
@@ -82,6 +83,7 @@ Images and videos are linked from the creators, labs, museums and publishers and
 - **全部作品**：按领域、生物、类型、合集和年代筛选，支持全文搜索。
 - **论文**：所有附带论文的作品，列出发表处与 DOI（已经过 Crossref / arXiv 核对）。
 - **合集**：一篇综述论文分析过的系统（如 Breed 等 2026、Ikeya 等 CHI 2025），或一个奖项的获奖作品（BAD Award）。
+- **组织与资源**：这个领域的研究中心、实验室、非营利组织、网络、资助方、项目、活动、期刊与目录，可按类型和主题筛选。
 - **创作者**、**收藏**（可导出 `SKILL.md`、`README.md` 或附 DOI 的阅读清单）。
 
 在 Claude Code 中打开本仓库，输入 `/add-work <名字、DOI 或链接>` 即可让 AI 调研并添加新作品。本地运行：`./serve.sh`。

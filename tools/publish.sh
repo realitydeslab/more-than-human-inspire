@@ -5,6 +5,9 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 msg="${1:?commit message required}"
 python3 tools/validate.py --all > /tmp/mth-validate.txt || { grep -v "^   note" /tmp/mth-validate.txt | grep -v "^✓"; echo "✗ validation failed — not publishing"; exit 1; }
+if ls data/orgs/*.json >/dev/null 2>&1; then
+  python3 tools/validate_orgs.py --all > /tmp/mth-orgs.txt || { grep -v "^✓" /tmp/mth-orgs.txt; echo "✗ organization validation failed — not publishing"; exit 1; }
+fi
 python3 tools/build_data.py 2>&1 | tee /tmp/mth-build.txt | grep -E "creators=|REMOVED|unknown work" || true
 if grep -q "REMOVED" /tmp/mth-build.txt && [ "${ALLOW_REMOVED:-0}" != "1" ]; then
   echo "✗ works were removed since the last build (see data/dropped.json) — set ALLOW_REMOVED=1 if intended"; exit 1

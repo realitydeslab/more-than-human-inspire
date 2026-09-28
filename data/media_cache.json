@@ -35839,5 +35839,911 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "img:https://www.garn.org/wp-content/uploads/2022/03/shutterstock_1842820804-2048x1366.jpg": {
+  "url": "https://www.garn.org/wp-content/uploads/2022/03/shutterstock_1842820804-2048x1366.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://celdf.org/wp-content/uploads/2025/06/20210509-191135-Edit-scaled.jpg": {
+  "url": "http://celdf.org/wp-content/uploads/2025/06/20210509-191135-Edit-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5e3f36df772e5208fa96513c/55d41e47-7dde-455d-98d3-b5ffb6c98ae1/pexels-jess-vide-5008437.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5e3f36df772e5208fa96513c/55d41e47-7dde-455d-98d3-b5ffb6c98ae1/pexels-jess-vide-5008437.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.nonhumanrights.org/wp-content/uploads/2023/06/BillyDodsonelephantcloseup-scaled-1-e1782152599555.webp": {
+  "url": "https://www.nonhumanrights.org/wp-content/uploads/2023/06/BillyDodsonelephantcloseup-scaled-1-e1782152599555.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/5ca2608ab914493c64ef1f6d/t/66da5340d1a3905f5cbca026/1725584198552/Driving+the+global+conversation+on+ecocide+law.+%283%29.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5ca2608ab914493c64ef1f6d/t/66da5340d1a3905f5cbca026/1725584198552/Driving+the+global+conversation+on+ecocide+law.+%283%29.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.ngatangatatiaki.co.nz/assets/Rangatira-o-te-kereme.jpg": {
+  "url": "https://www.ngatangatatiaki.co.nz/assets/Rangatira-o-te-kereme.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://tierradigna.org/wp-content/uploads/2025/04/Mapa-Colombia.jpg": {
+  "url": "https://tierradigna.org/wp-content/uploads/2025/04/Mapa-Colombia.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.internationalrivers.org/wp-content/uploads/sites/86/2020/04/WebsiteBannerImage-1-1920x608.png": {
+  "url": "https://www.internationalrivers.org/wp-content/uploads/sites/86/2020/04/WebsiteBannerImage-1-1920x608.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5645105de4b0ba0f65eaa14a/1511205347769-DE5GX70JSHZ7OT5OOSHD/Mashup+background.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5645105de4b0ba0f65eaa14a/1511205347769-DE5GX70JSHZ7OT5OOSHD/Mashup+background.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://gaiafoundation.org/wp-content/uploads/2020/11/Burkina-Faso.png": {
+  "url": "https://gaiafoundation.org/wp-content/uploads/2020/11/Burkina-Faso.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://ecojurisprudence.org/staging/wp-content/uploads/2025/08/Open-Graph.jpg": {
+  "url": "https://ecojurisprudence.org/staging/wp-content/uploads/2025/08/Open-Graph.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1601476441864-C09U9SJBQETH5W3ZJANH/planetary_personhood_banner_2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1601476441864-C09U9SJBQETH5W3ZJANH/planetary_personhood_banner_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://natureanddemocracy.org/img/alliance_soccard.JPG": {
+  "url": "https://natureanddemocracy.org/img/alliance_soccard.JPG",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.rechte-der-natur.de/assets/images/2/Netzwerk_Rechte_der_Natur_qgr-3nqqj18824rtx88.png": {
+  "url": "https://www.rechte-der-natur.de/assets/images/2/Netzwerk_Rechte_der_Natur_qgr-3nqqj18824rtx88.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.wixstatic.com/media/07058a_95ae8ac7460242849185516d990b4523~mv2.png/v1/fill/w_2500,h_3750,al_c/07058a_95ae8ac7460242849185516d990b4523~mv2.png": {
+  "url": "https://static.wixstatic.com/media/07058a_95ae8ac7460242849185516d990b4523~mv2.png/v1/fill/w_2500,h_3750,al_c/07058a_95ae8ac7460242849185516d990b4523~mv2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn.prod.website-files.com/66e67eed95c2eb7826f5c730/674e90507db69f17aac50802_open%20graph%20image.png": {
+  "url": "https://cdn.prod.website-files.com/66e67eed95c2eb7826f5c730/674e90507db69f17aac50802_open%20graph%20image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://rightsofnature.org.ph/wp-content/uploads/2026/02/signature-campaign-photo.png": {
+  "url": "https://rightsofnature.org.ph/wp-content/uploads/2026/02/signature-campaign-photo.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.rechtenvandenatuur.org/opengraph-image?4a81272bc54ea6c1": {
+  "url": "https://www.rechtenvandenatuur.org/opengraph-image?4a81272bc54ea6c1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://www.r-reuss.ch/uploads/1/4/7/4/147433466/20230818-100540_orig.jpg": {
+  "url": "http://www.r-reuss.ch/uploads/1/4/7/4/147433466/20230818-100540_orig.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.earthlaws.org.au/wp-content/uploads/2026/09/GBM-28-Sept-Land-and-Sea-Country-final-graphic.png": {
+  "url": "https://www.earthlaws.org.au/wp-content/uploads/2026/09/GBM-28-Sept-Land-and-Sea-Country-final-graphic.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.wixstatic.com/media/e79a31_fbbcdd6750b944c19f32356124d7bb1d~mv2.jpg/v1/crop/x_0,y_206,w_1864,h_422/fill/w_380,h_86,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Linear_edited.jpg": {
+  "url": "https://static.wixstatic.com/media/e79a31_fbbcdd6750b944c19f32356124d7bb1d~mv2.jpg/v1/crop/x_0,y_206,w_1864,h_422/fill/w_380,h_86,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Linear_edited.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://www.rightsofnaturetribunal.org/wp-content/uploads/2018/04/visual-seo.jpg": {
+  "url": "https://www.rightsofnaturetribunal.org/wp-content/uploads/2018/04/visual-seo.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://futuregenerations.wales/cym/wp-content/uploads/2025/04/Screenshot-2025-04-28-at-23.35.43-1500x750.jpg": {
+  "url": "https://futuregenerations.wales/cym/wp-content/uploads/2025/04/Screenshot-2025-04-28-at-23.35.43-1500x750.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.ienearth.org/wp-content/uploads/2026/09/banner-w-ext-border.jpg": {
+  "url": "https://www.ienearth.org/wp-content/uploads/2026/09/banner-w-ext-border.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://d75cfcm8x0ifj.cloudfront.net/zine/1/split-05-L.jpg": {
+  "url": "https://d75cfcm8x0ifj.cloudfront.net/zine/1/split-05-L.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg": {
+  "url": "https://www.indigenous-ai.net/wp-content/uploads/2019/04/waiwai2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://abundant-intelligences.net/wp-content/uploads/2026/04/dc15695960e7bc1892db5fa4a2167ac1c0bba7f0-1024x683.jpg": {
+  "url": "https://abundant-intelligences.net/wp-content/uploads/2026/04/dc15695960e7bc1892db5fa4a2167ac1c0bba7f0-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://abtec.org/wp/wp-content/uploads/2024/10/about-skawennati.png": {
+  "url": "https://abtec.org/wp/wp-content/uploads/2024/10/about-skawennati.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.esf.edu/nativepeoples/images/skywoman.jpg": {
+  "url": "https://www.esf.edu/nativepeoples/images/skywoman.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5dfb35a66f00d54ab0729b75/1582905370259-YEQ0PWFTHA2PW9RO6L1Q/Arvidsjaur_Adolfstrom_mm_aug15-401_2500px_CJUTSI_16-9.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5dfb35a66f00d54ab0729b75/1582905370259-YEQ0PWFTHA2PW9RO6L1Q/Arvidsjaur_Adolfstrom_mm_aug15-401_2500px_CJUTSI_16-9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.tehiku.nz/collection/cover_image/2026/1101_banner3_web.jpg?Expires=1790593351&Signature=XiGPgq8a7IFg3Rjv4Did4msiyOrnFcIBXf1dFugesg4gKTaUUk76uHbb4OZIKCi1obJvQg2K1E0n623PQcn8VvKAHzKd7SpvB7VeHjOwYpnntLqScNtsACcblq~BGQrY53iD1kM01hR1kHZrKT3bFwGmYENFmvshzLDvFkDhfPB4FiUkzCrawt4a1totnID4NlUWOS8~u7qBReEviJwpNuYKUWmkg26v~2X8l5pnUhCa9a~lNzCwYi2C7NVk~MOLPkcKfGPNTmkLW2ZzESpziIN6FzFeTsXF9273Wa5kRDkyBwg4n3Ush2qZMdZRIXzb4NFrZ8kLPo9KhxaTEzeTNw__&Key-Pair-Id=K3G0WXOUH0CPUX": {
+  "url": "https://cdn.tehiku.nz/collection/cover_image/2026/1101_banner3_web.jpg?Expires=1790593351&Signature=XiGPgq8a7IFg3Rjv4Did4msiyOrnFcIBXf1dFugesg4gKTaUUk76uHbb4OZIKCi1obJvQg2K1E0n623PQcn8VvKAHzKd7SpvB7VeHjOwYpnntLqScNtsACcblq~BGQrY53iD1kM01hR1kHZrKT3bFwGmYENFmvshzLDvFkDhfPB4FiUkzCrawt4a1totnID4NlUWOS8~u7qBReEviJwpNuYKUWmkg26v~2X8l5pnUhCa9a~lNzCwYi2C7NVk~MOLPkcKfGPNTmkLW2ZzESpziIN6FzFeTsXF9273Wa5kRDkyBwg4n3Ush2qZMdZRIXzb4NFrZ8kLPo9KhxaTEzeTNw__&Key-Pair-Id=K3G0WXOUH0CPUX",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/58e9b10f9de4bb8d1fb5ebbc/1630293800055-535GGBJP2F2APQURXJJV/download+%282%29.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/58e9b10f9de4bb8d1fb5ebbc/1630293800055-535GGBJP2F2APQURXJJV/download+%282%29.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://localcontexts.org/wp-content/uploads/2020/11/hero_overlay_generic.png": {
+  "url": "https://localcontexts.org/wp-content/uploads/2020/11/hero_overlay_generic.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1575188875010-VCIN832CDU8QB42JTUMO/Screen+Shot+2019-12-01+at+7.24.54+pm.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5d3799de845604000199cd24/1575188875010-VCIN832CDU8QB42JTUMO/Screen+Shot+2019-12-01+at+7.24.54+pm.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.culturalsurvival.org/sites/default/files/styles/image_525x350/public/Bansgadhi%206.jpg?itok=rWJypqS1": {
+  "url": "https://www.culturalsurvival.org/sites/default/files/styles/image_525x350/public/Bansgadhi%206.jpg?itok=rWJypqS1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ndncollective.sfo3.digitaloceanspaces.com/wp-content/uploads/2026/09/15230148/2024-IPD-PressRelease-8-672x448.jpg": {
+  "url": "https://ndncollective.sfo3.digitaloceanspaces.com/wp-content/uploads/2026/09/15230148/2024-IPD-PressRelease-8-672x448.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.amazonteam.org/wp-content/uploads/2018/09/open-graph-fb-amazon-2.jpg": {
+  "url": "https://www.amazonteam.org/wp-content/uploads/2018/09/open-graph-fb-amazon-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/65fdc7abae501de4e3e82a40/66995d5a9f0b629209b98091_awana-digital-name-announcement-opengraph.png": {
+  "url": "https://cdn.prod.website-files.com/65fdc7abae501de4e3e82a40/66995d5a9f0b629209b98091_awana-digital-name-announcement-opengraph.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.iccaconsortium.org/wp-content/uploads/2025/08/icca-15y-a-03-1-600x481.png": {
+  "url": "https://www.iccaconsortium.org/wp-content/uploads/2025/08/icca-15y-a-03-1-600x481.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://static1.squarespace.com/static/5f8367238502ed181766aaf0/t/5fb4318d7f3a0e0136c640e1/1613681905206/RyanDickie.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5f8367238502ed181766aaf0/t/5fb4318d7f3a0e0136c640e1/1613681905206/RyanDickie.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/5e5fe077316ef31fa3aa0210/t/5e6da6698afded74f532d5da/1719673557746/Bison+by+Johane+Janelle+in+B+%26+W+small.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5e5fe077316ef31fa3aa0210/t/5e6da6698afded74f532d5da/1719673557746/Bison+by+Johane+Janelle+in+B+%26+W+small.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://pachamama.org/hubfs/home-hero-bg-2.jpg": {
+  "url": "https://pachamama.org/hubfs/home-hero-bg-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://andes.org.pe/wp-content/uploads/2025/09/people2_homepage.jpg": {
+  "url": "https://andes.org.pe/wp-content/uploads/2025/09/people2_homepage.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets.nationbuilder.com/thecountryneedsitspeople/pages/4289/meta_images/original/Minyumai_SEO.png?1770701914": {
+  "url": "https://assets.nationbuilder.com/thecountryneedsitspeople/pages/4289/meta_images/original/Minyumai_SEO.png?1770701914",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://livingknowledge.network/wp-content/uploads/DSC6669-1.jpg": {
+  "url": "https://livingknowledge.network/wp-content/uploads/DSC6669-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.nativeseeds.org/cdn/shop/files/Dried_peppers_available_in_the_Sonoran_Pantry_212a5019-b00e-412c-b983-01b7756dbb4d_550x.jpg?v=1660254684": {
+  "url": "https://www.nativeseeds.org/cdn/shop/files/Dried_peppers_available_in_the_Sonoran_Pantry_212a5019-b00e-412c-b983-01b7756dbb4d_550x.jpg?v=1660254684",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.ipbes.net/sites/default/files/styles/hero_header_16_9_640_x_360/public/video_thumbnails/g-fc-pe17RI.jpg.webp?itok=MTFgBBFm": {
+  "url": "https://www.ipbes.net/sites/default/files/styles/hero_header_16_9_640_x_360/public/video_thumbnails/g-fc-pe17RI.jpg.webp?itok=MTFgBBFm",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://rainforestfoundation.org/wp-content/uploads/San-Francisco-de-Yahuma-forest-monitor.jpg": {
+  "url": "https://rainforestfoundation.org/wp-content/uploads/San-Francisco-de-Yahuma-forest-monitor.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wildlabs.net/sites/default/files/styles/large/public/2026-05/IMG_7726%202_0.jpeg?itok=DZgnUBBD": {
+  "url": "https://wildlabs.net/sites/default/files/styles/large/public/2026-05/IMG_7726%202_0.jpeg?itok=DZgnUBBD",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/67bcb7025f213824dad68c20_Section%201%20Background%20Image.avif": {
+  "url": "https://cdn.prod.website-files.com/67bcb7025f213824dad68b8a/67bcb7025f213824dad68c20_Section%201%20Background%20Image.avif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://www.wildlifeinsights.org/sites/default/files/styles/project__600x600_/public/Image%20rows.png?itok=rrk4VhjA": {
+  "url": "https://www.wildlifeinsights.org/sites/default/files/styles/project__600x600_/public/Image%20rows.png?itok=rrk4VhjA",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.movebank.org/cms/img/data_public_studies_20191211.jpg": {
+  "url": "https://www.movebank.org/cms/img/data_public_studies_20191211.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg/v1/fill/w_1362,h_1247,al_c/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg/v1/fill/w_1362,h_1247,al_c/b31671_8bfd3e8f9e814ccd8fd5c54c027c0a2d~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.wildlifeacoustics.com/uploads/backgrounds/Kscope-Vertical.webp": {
+  "url": "https://www.wildlifeacoustics.com/uploads/backgrounds/Kscope-Vertical.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://assets-us-01.kc-usercontent.com:443/9bc15d1f-8a5c-007d-b507-e3496e85af86/fc4a868e-c073-4301-964a-0634f14c02a0/RainForestCard.jpg?w=500": {
+  "url": "https://assets-us-01.kc-usercontent.com:443/9bc15d1f-8a5c-007d-b507-e3496e85af86/fc4a868e-c073-4301-964a-0634f14c02a0/RainForestCard.jpg?w=500",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://limelightrainforest.org/images/slider/limelight.jpg": {
+  "url": "https://limelightrainforest.org/images/slider/limelight.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/61a93c4da07e4e6975c3f2b2/623c8c81a23bafef31efceb7_er-command%20center.jpg": {
+  "url": "https://cdn.prod.website-files.com/61a93c4da07e4e6975c3f2b2/623c8c81a23bafef31efceb7_er-command%20center.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6578e66a0fec981f5a562d4b/6605aa901a486ba1497465e2_Skylight-screenshot-laptop.png": {
+  "url": "https://cdn.prod.website-files.com/6578e66a0fec981f5a562d4b/6605aa901a486ba1497465e2_Skylight-screenshot-laptop.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://smartconservationtools.org/dnnimagehandler.ashx?mode=file&file=/Portals/0/OpenContent/Files/1403/SMART_wheel_diagram__3_.jpg&h=400&w=400&resizemode=crop": {
+  "url": "https://smartconservationtools.org/dnnimagehandler.ashx?mode=file&file=/Portals/0/OpenContent/Files/1403/SMART_wheel_diagram__3_.jpg&h=400&w=400&resizemode=crop",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://globalfishingwatch.org/wp-content/uploads/partnering_with_planet.webp": {
+  "url": "https://globalfishingwatch.org/wp-content/uploads/partnering_with_planet.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://framerusercontent.com/assets/PLlOhO1f7tSSSCIM7P7TuQ0yE.png": {
+  "url": "https://framerusercontent.com/assets/PLlOhO1f7tSSSCIM7P7TuQ0yE.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn.download.ams.birds.cornell.edu/api/v2/asset/115245701/1200": {
+  "url": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/115245701/1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.microsoft.com/en-us/research/wp-content/uploads/2022/11/Homepage_banner.jpg": {
+  "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2022/11/Homepage_banner.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6a4525e2958dfb4523426eb9/6a58eb1b23369ddb79faae58_Frame%2027071.png": {
+  "url": "https://cdn.prod.website-files.com/6a4525e2958dfb4523426eb9/6a58eb1b23369ddb79faae58_Frame%2027071.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://biomemakers.com/hubfs/Web%20Images/Home%20Page/becrop-test.webp": {
+  "url": "https://biomemakers.com/hubfs/Web%20Images/Home%20Page/becrop-test.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://arribada.org/wp-content/uploads/2020/02/3_tagged_tartaruga_front-scaled.jpg": {
+  "url": "https://arribada.org/wp-content/uploads/2020/02/3_tagged_tartaruga_front-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://conservationdrones.org/wp-content/uploads/2026/07/figure2.jpeg?w=290": {
+  "url": "https://conservationdrones.org/wp-content/uploads/2026/07/figure2.jpeg?w=290",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.hack-the-planet.io/assets/videos/hero-poster.webp": {
+  "url": "https://www.hack-the-planet.io/assets/videos/hero-poster.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.smartparks.org/wp-content/uploads/2023/05/DSC_0358.jpg": {
+  "url": "https://www.smartparks.org/wp-content/uploads/2023/05/DSC_0358.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/637133d1b288b81afd22e265/b4b53de7-889e-484e-9938-afd87163e5ef/metaverse-nature-wildlife-ioe.gif": {
+  "url": "https://images.squarespace-cdn.com/content/v1/637133d1b288b81afd22e265/b4b53de7-889e-484e-9938-afd87163e5ef/metaverse-nature-wildlife-ioe.gif",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/gif"
+ },
+ "img:https://wildlifeprotectionsolutions.org/og/og-default.jpg": {
+  "url": "https://wildlifeprotectionsolutions.org/og/og-default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://earthshotprize.org/wp-content/uploads/2024/08/The-Earthshot-Prize.png": {
+  "url": "https://earthshotprize.org/wp-content/uploads/2024/08/The-Earthshot-Prize.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png/v1/fit/w_2500,h_1330,al_c/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png": {
+  "url": "https://static.wixstatic.com/media/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png/v1/fit/w_2500,h_1330,al_c/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-350x233.jpg": {
+  "url": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/09/28012336/aa.-Bluespotted-ribbontail-ray-Pulau-Hantu-2017-350x233.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://allencoralatlas.org/_next/image/?url=https%3A%2F%2Fcdn.cosmicjs.com%2F76e3e2d0-d222-11ec-9f12-9bd712c1ee68-2.png&w=3840&q=75": {
+  "url": "https://allencoralatlas.org/_next/image/?url=https%3A%2F%2Fcdn.cosmicjs.com%2F76e3e2d0-d222-11ec-9f12-9bd712c1ee68-2.png&w=3840&q=75",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.protectedplanet.net/assets/social-cce192f2e7a0b5be655ef28149aef43bd28e378d6589c8b599f9e45d64d7a6e4.png": {
+  "url": "https://www.protectedplanet.net/assets/social-cce192f2e7a0b5be655ef28149aef43bd28e378d6589c8b599f9e45d64d7a6e4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://nrl.iucnredlist.org/assets/home/green_turtle-0260cf7fba13a743876327096e883697733e57c46ed2e75429b4e3b5c56db41e.jpg": {
+  "url": "https://nrl.iucnredlist.org/assets/home/green_turtle-0260cf7fba13a743876327096e883697733e57c46ed2e75429b4e3b5c56db41e.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.natureserve.org/sites/default/files/2021-09/hero-home-heron-water-teaser.jpg": {
+  "url": "https://www.natureserve.org/sites/default/files/2021-09/hero-home-heron-water-teaser.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://obis.org/images/OBIS-Poland_00001.jpeg": {
+  "url": "https://obis.org/images/OBIS-Poland_00001.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ibol.org/wp/wp-content/uploads/2023/02/2016-08-17-12.50.20-1024x680.jpg": {
+  "url": "https://ibol.org/wp/wp-content/uploads/2023/02/2016-08-17-12.50.20-1024x680.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5a5e6c9518b27d27bddaf20f/1524604487487-YBP6RNEJ4N93LSZC32BU/Screen+Shot+2018-04-24+at+5.13.53+PM.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5a5e6c9518b27d27bddaf20f/1524604487487-YBP6RNEJ4N93LSZC32BU/Screen+Shot+2018-04-24+at+5.13.53+PM.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/5f100cc2d223ce3de0ab1aa5/t/60c1ea41b674716cb8d32570/1623321153416/Kaiser%27s+Newt+copy.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5f100cc2d223ce3de0ab1aa5/t/60c1ea41b674716cb8d32570/1623321153416/Kaiser%27s+Newt+copy.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://i0.wp.com/reviverestore.org/wp-content/uploads/2023/09/Back-Title-slide-V2.png?fit=2560%2C1810&ssl=1": {
+  "url": "https://i0.wp.com/reviverestore.org/wp-content/uploads/2023/09/Back-Title-slide-V2.png?fit=2560%2C1810&ssl=1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://restor.eco/images/og-image.jpg": {
+  "url": "https://restor.eco/images/og-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.naturalis.nl/uploads/styles/auto_1024/public/background/LiveScience.jpg.webp?itok=W4G9P763": {
+  "url": "https://www.naturalis.nl/uploads/styles/auto_1024/public/background/LiveScience.jpg.webp?itok=W4G9P763",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.dinalab.net/wp-content/uploads/2019/04/cropped-Snapshot0.jpg": {
+  "url": "https://www.dinalab.net/wp-content/uploads/2019/04/cropped-Snapshot0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.inaturalist.org/sites/1-shareable_image.png?1573071871": {
+  "url": "https://static.inaturalist.org/sites/1-shareable_image.png?1573071871",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://plantnet.org/wp-content/uploads/2017/06/27557938951_b8b8f1deda_b-640x400.jpg": {
+  "url": "https://plantnet.org/wp-content/uploads/2017/06/27557938951_b8b8f1deda_b-640x400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.zooniverse.org/fem-assets/oxford.jpg": {
+  "url": "https://static.zooniverse.org/fem-assets/oxford.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.scistarter.org/attr/2026-09/facebook-cover-map-1640x856_kSWCwjv.png": {
+  "url": "https://media.scistarter.org/attr/2026-09/facebook-cover-map-1640x856_kSWCwjv.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.ecsa.ngo/wp-content/uploads/2024/07/Climate-change-blog-banner-640x640.jpg": {
+  "url": "https://www.ecsa.ngo/wp-content/uploads/2024/07/Climate-change-blog-banner-640x640.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://participatorysciences.org/wp-content/uploads/2024/07/15.png": {
+  "url": "https://participatorysciences.org/wp-content/uploads/2024/07/15.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://citizenscience.org.au/wp-content/uploads/2023/12/xJoin-Us-Banner.png.pagespeed.ic.ImNsnrigbJ.png": {
+  "url": "https://citizenscience.org.au/wp-content/uploads/2023/12/xJoin-Us-Banner.png.pagespeed.ic.ImNsnrigbJ.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.ala.org.au/app/uploads/2020/07/jan2032.1-1920x749.png": {
+  "url": "https://www.ala.org.au/app/uploads/2020/07/jan2032.1-1920x749.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://s3.us-west-2.amazonaws.com/noirlab.edu.cee.prod/globeatnight/images/grus-outline.width-500.jpg?AWSAccessKeyId=ASIAWX3YSJVTLSL7D26W&Signature=xtkhSJ%2BRFFQ5MrgC7A7t9X5OdP0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGoaCXVzLXdlc3QtMiJHMEUCIQD6gy7VIYPvnBLUXCsSSUdyr92XJykrFipn3bYJCIk5aQIgDHx%2F%2BzjV%2FF%2F7m4YyC0sEfB42i88Kzm8kwIkXK132kBAqhwUIMxABGgw0NjM1NzI0NTQ3NTgiDMgwerbVYxzGgvDkASrkBPQX3uhaFRaP7265JxTYX6o65Uu4ITAH1uHA9g%2B7Pu31NQr1mVzz%2Bo0PIV69CwV3matxTdK7cuXShVjBbjSaDdu64SsOpgDeUuUi4kPBT3y62fJdEDThzPGABu1lJhmZDi%2B%2B0qdna1cv1UnAA1o1y4RUx3oyOHJ2YuXZIQx0jnnKjIojdH8EsjGkbJ%2BHuJmzF7h8cpJldPP0208RIAMflLzM8mVOVzJYuyQLaDPQCgphSVDRNMQ5JhclZTjwUpPlxvYfiVwOTnPmyLYn6bKtokp%2Fal2SWVuX2g%2BGz6fLNy7xFJxSMIQ%2FOWVJGiMIX%2BZtAJx3GbQihp3QMPsEp2czxy7K7FZF6EluRYjy3d1vEfy2RLDHfDG92tFeu2Ci4RcK4IEGqUIRPK0yY%2FnZkuszx%2BkmYBYVU8Eb8Id7shUNypNCFeFLZ6Gzn1U8k5vSfFi%2FkmM3TbeKKXGaHHhr0ntFvDadwz38uaXkd9uG3bTRrwC5ZSSjtjZT2jPPS3MkWDFaEXU3lXLu3WFOx4sBvGeLR5g6j4pz25eJYtQ9ylgGYArAE64cHRk2l2GZIzOsWeBkdUNaAWRdZntRCoX%2FnGvnZdmn7fsQp0Y2vuC%2B0eJXwi8K%2FMJ8E4g82jqTt70DO4W4gpgnN01vUg2SFUsuts%2F3g9%2FsGdTRzf4EvPutEbb9Y7AHHNIPo1gxyBtrKluBlhWa37%2BTKsqrTT5b5RfOmEYICxk2TK551e0bYJVDUZ98ZXD%2FACVGaumlKie9DqS6JNCg%2Fl2E9cgHBvwlCv8iQeNCajo9cjyE%2BXTKkaOd1ER%2FypGroo1yTDCf5ejVBjqYAfVEu0yBDNzdLDFQxG%2B8cyvFuF2aXBNmwnV%2Fv12VvYvXVnCa%2FpQhSKgSMcGyTmY5YCw17Ua1dCtWPdVG0EAocswdComorIGEB1cTR%2FEZ74ckEbbKhzX6HFJnGONxOYIkK4YynQJblyZPm9vlT0ABN0NLQISMGRiDaO%2BIjRi2AlCzKk3AQcqwViNSWuFHjnG0x5vTwoDShXEa&Expires=1790593333": {
+  "url": "https://s3.us-west-2.amazonaws.com/noirlab.edu.cee.prod/globeatnight/images/grus-outline.width-500.jpg?AWSAccessKeyId=ASIAWX3YSJVTLSL7D26W&Signature=xtkhSJ%2BRFFQ5MrgC7A7t9X5OdP0%3D&x-amz-security-token=IQoJb3JpZ2luX2VjEGoaCXVzLXdlc3QtMiJHMEUCIQD6gy7VIYPvnBLUXCsSSUdyr92XJykrFipn3bYJCIk5aQIgDHx%2F%2BzjV%2FF%2F7m4YyC0sEfB42i88Kzm8kwIkXK132kBAqhwUIMxABGgw0NjM1NzI0NTQ3NTgiDMgwerbVYxzGgvDkASrkBPQX3uhaFRaP7265JxTYX6o65Uu4ITAH1uHA9g%2B7Pu31NQr1mVzz%2Bo0PIV69CwV3matxTdK7cuXShVjBbjSaDdu64SsOpgDeUuUi4kPBT3y62fJdEDThzPGABu1lJhmZDi%2B%2B0qdna1cv1UnAA1o1y4RUx3oyOHJ2YuXZIQx0jnnKjIojdH8EsjGkbJ%2BHuJmzF7h8cpJldPP0208RIAMflLzM8mVOVzJYuyQLaDPQCgphSVDRNMQ5JhclZTjwUpPlxvYfiVwOTnPmyLYn6bKtokp%2Fal2SWVuX2g%2BGz6fLNy7xFJxSMIQ%2FOWVJGiMIX%2BZtAJx3GbQihp3QMPsEp2czxy7K7FZF6EluRYjy3d1vEfy2RLDHfDG92tFeu2Ci4RcK4IEGqUIRPK0yY%2FnZkuszx%2BkmYBYVU8Eb8Id7shUNypNCFeFLZ6Gzn1U8k5vSfFi%2FkmM3TbeKKXGaHHhr0ntFvDadwz38uaXkd9uG3bTRrwC5ZSSjtjZT2jPPS3MkWDFaEXU3lXLu3WFOx4sBvGeLR5g6j4pz25eJYtQ9ylgGYArAE64cHRk2l2GZIzOsWeBkdUNaAWRdZntRCoX%2FnGvnZdmn7fsQp0Y2vuC%2B0eJXwi8K%2FMJ8E4g82jqTt70DO4W4gpgnN01vUg2SFUsuts%2F3g9%2FsGdTRzf4EvPutEbb9Y7AHHNIPo1gxyBtrKluBlhWa37%2BTKsqrTT5b5RfOmEYICxk2TK551e0bYJVDUZ98ZXD%2FACVGaumlKie9DqS6JNCg%2Fl2E9cgHBvwlCv8iQeNCajo9cjyE%2BXTKkaOd1ER%2FypGroo1yTDCf5ejVBjqYAfVEu0yBDNzdLDFQxG%2B8cyvFuF2aXBNmwnV%2Fv12VvYvXVnCa%2FpQhSKgSMcGyTmY5YCw17Ua1dCtWPdVG0EAocswdComorIGEB1cTR%2FEZ74ckEbbKhzX6HFJnGONxOYIkK4YynQJblyZPm9vlT0ABN0NLQISMGRiDaO%2BIjRi2AlCzKk3AQcqwViNSWuFHjnG0x5vTwoDShXEa&Expires=1790593333",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.mosquitoalert.com/wp-content/uploads/2025/09/6-1024x1024.png": {
+  "url": "http://www.mosquitoalert.com/wp-content/uploads/2025/09/6-1024x1024.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn.bats.org.uk/uploads/images/_imageLinkMedium/Barbastelle-flying-night-sky_Daniel-Whitby.jpg?v=1786610773": {
+  "url": "https://cdn.bats.org.uk/uploads/images/_imageLinkMedium/Barbastelle-flying-night-sky_Daniel-Whitby.jpg?v=1786610773",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://irecord.org.uk/sites/default/files/images/field-viewers.jpg": {
+  "url": "https://irecord.org.uk/sites/default/files/images/field-viewers.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.feederwatch.org/wp-content/uploads/2025/07/RBNU_BillSchneider-5-1280x851.png": {
+  "url": "https://cdn.feederwatch.org/wp-content/uploads/2025/07/RBNU_BillSchneider-5-1280x851.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cnc-assets.sfo3.digitaloceanspaces.com/NHMLA/22_0769_CNC_23_Web_Hero_Image_230120_0c564990b8.webp": {
+  "url": "https://cnc-assets.sfo3.digitaloceanspaces.com/NHMLA/22_0769_CNC_23_Web_Hero_Image_230120_0c564990b8.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://base-prod.rspb-prod.magnolia-platform.com/.imaging/focalpoint/_WIDTH_x_HEIGHT_/dam/jcr:2c687236-062d-4fae-84ed-df24eac891a2/2210873-People-Outside-two-friends-taking-part-in-big-garden-birdwatch.jpg": {
+  "url": "https://base-prod.rspb-prod.magnolia-platform.com/.imaging/focalpoint/_WIDTH_x_HEIGHT_/dam/jcr:2c687236-062d-4fae-84ed-df24eac891a2/2210873-People-Outside-two-friends-taking-part-in-big-garden-birdwatch.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp;charset=UTF-8"
+ },
+ "img:https://naturescalendar.woodlandtrust.org.uk/media/2854/bramble-ben-lee.jpg": {
+  "url": "https://naturescalendar.woodlandtrust.org.uk/media/2854/bramble-ben-lee.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://usanpn.org/files/new-site/front-page-sos-block.png": {
+  "url": "https://usanpn.org/files/new-site/front-page-sos-block.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://mjv.nyc3.cdn.digitaloceanspaces.com/journey/images/design/jn-share.jpg": {
+  "url": "https://mjv.nyc3.cdn.digitaloceanspaces.com/journey/images/design/jn-share.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://monarchwatch.org/grafx/monarchwatch_header_1500x500.jpg": {
+  "url": "https://monarchwatch.org/grafx/monarchwatch_header_1500x500.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.reefcheck.org/wp-content/themes/reef-reefcheck/dist/images/Angelfish.png": {
+  "url": "https://www.reefcheck.org/wp-content/themes/reef-reefcheck/dist/images/Angelfish.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.reef.org/sites/default/files/styles/480x201/public/reef_fest_2026_email_banner_1.png?itok=lVWhx7As&timestamp=1781544188": {
+  "url": "https://www.reef.org/sites/default/files/styles/480x201/public/reef_fest_2026_email_banner_1.png?itok=lVWhx7As&timestamp=1781544188",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://earthwatch.org/sites/default/files/2026/04/16/Homepage_hero_b.jpg": {
+  "url": "https://earthwatch.org/sites/default/files/2026/04/16/Homepage_hero_b.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.vigienature.fr/system/files/styles/16_10_highest/private/2025-01/0859_oedemera_nobilis-%C2%A9-Q.-Dubost-1_2.jpg.webp?itok=Jk5AuYu9": {
+  "url": "https://www.vigienature.fr/system/files/styles/16_10_highest/private/2025-01/0859_oedemera_nobilis-%C2%A9-Q.-Dubost-1_2.jpg.webp?itok=Jk5AuYu9",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://api.tela-botanica.org/img:003527941CRS.jpg": {
+  "url": "https://api.tela-botanica.org/img:003527941CRS.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://media.frogid.net.au/media/dd/images/Litoria_bella_IronRangeNP_QLD_Ro.2e16d0ba.fill-1200x630.3545f7e.webp": {
+  "url": "https://media.frogid.net.au/media/dd/images/Litoria_bella_IronRangeNP_QLD_Ro.2e16d0ba.fill-1200x630.3545f7e.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.shanshui.org/wp-content/themes/t4t/img/shanshuiPc/content02.png": {
+  "url": "https://www.shanshui.org/wp-content/themes/t4t/img/shanshuiPc/content02.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://biome.co.jp/wp/wp-content/uploads/2023/02/service-biome2x.png": {
+  "url": "https://biome.co.jp/wp/wp-content/uploads/2023/02/service-biome2x.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn-derbyacuk.terminalfour.net/media/derbyacuk/assets/research/research-groups/images/Derby-4531-1466.jpg": {
+  "url": "https://cdn-derbyacuk.terminalfour.net/media/derbyacuk/assets/research/research-groups/images/Derby-4531-1466.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://sites.uw.edu/hints/files/2023/09/download-1.png": {
+  "url": "https://sites.uw.edu/hints/files/2023/09/download-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://voices.uchicago.edu/bermanlab/files/2017/01/Lab_photo.jpg": {
+  "url": "https://voices.uchicago.edu/bermanlab/files/2017/01/Lab_photo.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.ecehh.org/wp/wp-content/uploads/2013/05/About-us-400x300-c-default.jpg": {
+  "url": "https://www.ecehh.org/wp/wp-content/uploads/2013/05/About-us-400x300-c-default.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cresh.org.uk/wp-content/uploads/2026/03/cropped-cut.jpg?w=240": {
+  "url": "https://cresh.org.uk/wp-content/uploads/2026/03/cropped-cut.jpg?w=240",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://naturalcapitalalliance.stanford.edu/sites/g/files/sbiybj25256/files/styles/card_1192x596/public/media/image/weixin_image_20260916104150_77_2_tongwu_0.jpg?h=06b0bff9&itok=zvSxe8Ut": {
+  "url": "https://naturalcapitalalliance.stanford.edu/sites/g/files/sbiybj25256/files/styles/card_1192x596/public/media/image/weixin_image_20260916104150_77_2_tongwu_0.jpg?h=06b0bff9&itok=zvSxe8Ut",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.childrenandnature.org/wp-content/uploads/home-7Z8A6660_web2-e1646713374318.jpg": {
+  "url": "https://www.childrenandnature.org/wp-content/uploads/home-7Z8A6660_web2-e1646713374318.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://living-future.org/wp-content/uploads/2024/09/01-kendeda-building-under-sunny-skies_48911190001_o-1024x683.jpg": {
+  "url": "https://living-future.org/wp-content/uploads/2024/09/01-kendeda-building-under-sunny-skies_48911190001_o-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5bbd32d6e66669016a6af7e2/1539636226028-MP5LUGBH1I6FNL1N15KD/landscape-roof-greenwich.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5bbd32d6e66669016a6af7e2/1539636226028-MP5LUGBH1I6FNL1N15KD/landscape-roof-greenwich.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://anft.earth/wp-content/uploads/2026/01/start-online-3.png": {
+  "url": "https://anft.earth/wp-content/uploads/2026/01/start-online-3.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.infom.org/images/index_kv01.jpg": {
+  "url": "https://www.infom.org/images/index_kv01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.greenspacescotland.org.uk/images/afc8add5-3ef1-4741-bd43-da330fad7ee2/cropped?width=1200&height=630": {
+  "url": "https://www.greenspacescotland.org.uk/images/afc8add5-3ef1-4741-bd43-da330fad7ee2/cropped?width=1200&height=630",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wfae.net/wp-content/uploads/2025/08/20250602_makslinieku_ekspedicija_096-Juan-Duarte-scaled-e1757547745301-1024x682.jpg": {
+  "url": "https://wfae.net/wp-content/uploads/2025/08/20250602_makslinieku_ekspedicija_096-Juan-Duarte-scaled-e1757547745301-1024x682.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/5bafb638840b162de12e8913/t/5f97bef7466d6150a62ad77f/1603780364121/autumn-forest-landscape-21008.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5bafb638840b162de12e8913/t/5f97bef7466d6150a62ad77f/1603780364121/autumn-forest-landscape-21008.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://workthatreconnects.org/wp-content/uploads/2025/08/Default-Featured-Image.png": {
+  "url": "https://workthatreconnects.org/wp-content/uploads/2025/08/Default-Featured-Image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.longnow.org/2025/08/longnow-1200x630-social-card-020241126-5-1.png": {
+  "url": "https://static.longnow.org/2025/08/longnow-1200x630-social-card-020241126-5-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://framerusercontent.com/images/PoJNTvBMo1HrMxKQWdd1vnzSxE.png": {
+  "url": "https://framerusercontent.com/images/PoJNTvBMo1HrMxKQWdd1vnzSxE.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://cdn.sanity.io/images/9xbysn2u/production/74a11e5ba5de5915cd99a402ba882efd2b42fc2b-1200x631.jpg?rect=0,1,1200,630&w=1200&h=630&q=95": {
+  "url": "https://cdn.sanity.io/images/9xbysn2u/production/74a11e5ba5de5915cd99a402ba882efd2b42fc2b-1200x631.jpg?rect=0,1,1200,630&w=1200&h=630&q=95",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://dark-mountain.net/wp-content/uploads/2026/09/Kahn-Selesnick_Epilogue-1024x1024.jpg": {
+  "url": "https://dark-mountain.net/wp-content/uploads/2026/09/Kahn-Selesnick_Epilogue-1024x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://humansandnature.org/wp-content/uploads/2021/09/centerforhumansandnaturehome.jpg": {
+  "url": "https://humansandnature.org/wp-content/uploads/2021/09/centerforhumansandnaturehome.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.stockholmresilience.org/images/18.39aa239f11a8dd8de6b800011446/kraftriket.jpg": {
+  "url": "https://www.stockholmresilience.org/images/18.39aa239f11a8dd8de6b800011446/kraftriket.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.pik-potsdam.de/en/topics/land-use-food-water-ecosystems/land-use-food-water-ecosystems/@@images/slider_mobile_image.jpeg": {
+  "url": "https://www.pik-potsdam.de/en/topics/land-use-food-water-ecosystems/land-use-food-water-ecosystems/@@images/slider_mobile_image.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://planetaryhealthalliance.org/wp-content/uploads/2025/03/share-image-1.jpg": {
+  "url": "https://planetaryhealthalliance.org/wp-content/uploads/2025/03/share-image-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://futureearth.org/wp-content/uploads/2026/09/mike-chavarri-kZokA2VTKn4-unsplash-1024x683.jpg": {
+  "url": "https://futureearth.org/wp-content/uploads/2026/09/mike-chavarri-kZokA2VTKn4-unsplash-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.earthsystemgovernance.org/wp-content/uploads/2026/09/jodie-righos-qPHHt-JTf5s-unsplash-scaled.jpg": {
+  "url": "https://www.earthsystemgovernance.org/wp-content/uploads/2026/09/jodie-righos-qPHHt-JTf5s-unsplash-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.clubofrome.org/wp-content/uploads/2026/01/club-of-rome-home.png": {
+  "url": "http://www.clubofrome.org/wp-content/uploads/2026/01/club-of-rome-home.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.iftf.org/images/site/_1200x630_crop_center-center_none/What-IF.png": {
+  "url": "https://www.iftf.org/images/site/_1200x630_crop_center-center_none/What-IF.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.croptrust.org/fileadmin/_processed_/6/1/csm_Screenshot_2025-04-01_at_12.38.04_58ed432abb.png": {
+  "url": "https://www.croptrust.org/fileadmin/_processed_/6/1/csm_Screenshot_2025-04-01_at_12.38.04_58ed432abb.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/671f7dd6625b3e0e165bc4d4/t/69dce8f44d15e019629e1736/1776085236790/Screenshot+2026-04-13+at+13.56.23.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/671f7dd6625b3e0e165bc4d4/t/69dce8f44d15e019629e1736/1776085236790/Screenshot+2026-04-13+at+13.56.23.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://superflux.in/wp-content/uploads/2026/07/SF-Social-Share-Card-1.jpg": {
+  "url": "http://superflux.in/wp-content/uploads/2026/07/SF-Social-Share-Card-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/591f0cd3d2b857d64548a441/t/5d974563bd39b93acdf3f262/1570194790220/showreel_frame_625_1000.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/591f0cd3d2b857d64548a441/t/5d974563bd39b93acdf3f262/1570194790220/showreel_frame_625_1000.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://d37zoqglehb9o7.cloudfront.net/uploads/2020/11/Episode-9.jpg": {
+  "url": "https://d37zoqglehb9o7.cloudfront.net/uploads/2020/11/Episode-9.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "application/octet-stream"
+ },
+ "img:https://emergencemagazine.org/app/uploads/2021/03/EM-FB.jpg": {
+  "url": "https://emergencemagazine.org/app/uploads/2021/03/EM-FB.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://orionmagazine.org/wp-content/uploads/2024/05/scablands-flyout-1440-1176x1176.jpg": {
+  "url": "https://orionmagazine.org/wp-content/uploads/2024/05/scablands-flyout-1440-1176x1176.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://noemamag.imgix.net/2026/08/Noema_Issue7_Cover-1.jpg?fit=fit&fm=jpg&h=511&ixlib=php-3.3.1&w=767&s=22eefae91e3cc7d0e0023ee36c5d6ff9": {
+  "url": "https://noemamag.imgix.net/2026/08/Noema_Issue7_Cover-1.jpg?fit=fit&fm=jpg&h=511&ixlib=php-3.3.1&w=767&s=22eefae91e3cc7d0e0023ee36c5d6ff9",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://atmos.earth/wp-content/themes/atmos/assets/img/og-image.jpg": {
+  "url": "https://atmos.earth/wp-content/themes/atmos/assets/img/og-image.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/5403e5dbe4b04db10d1d362b/t/605a61eba3f93b0f3d4f14c2/1616536043450/FTW_PodcastCover_2021_1400x.jpg?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5403e5dbe4b04db10d1d362b/t/605a61eba3f93b0f3d4f14c2/1616536043450/FTW_PodcastCover_2021_1400x.jpg?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5a8e18cbb078699864fdba57/38fffae7-2254-4edf-8267-854c03c513b7/B-mussels-salmon-3-2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5a8e18cbb078699864fdba57/38fffae7-2254-4edf-8267-854c03c513b7/B-mussels-salmon-3-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
  }
 }
