@@ -127032,6 +127032,28 @@
    "image": "https://cdn.prod.website-files.com/5ddb902bd31f0f6a5f6c45fe/697a1256693f2ff0e48ad6e7_Website_Landing%20Page_96W_3840x2160_5.jpg"
   },
   {
+   "id": "aarhus-university-research-on-the-anthropocene",
+   "name": "Aarhus University Research on the Anthropocene (AURA)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Transdisciplinary project (2013–2018) led by Anna Tsing and Nils Bubandt that paired anthropologists and biologists to study life in human-disturbed landscapes; it led to the book Arts of Living on a Damaged Planet.",
+   "description_zh": "由 Anna Tsing 与 Nils Bubandt 领导的跨学科项目（2013–2018），让人类学家与生物学家合作研究人类扰动景观中的生命，成果包括《Arts of Living on a Damaged Planet》一书。",
+   "url": "https://anthropocene.au.dk/",
+   "image": "https://anthropocene.au.dk/fileadmin/templavoila/auraweb-banner1.jpg",
+   "based": "Aarhus, Denmark",
+   "based_zh": "丹麦奥胡斯",
+   "founded": 2013,
+   "people": [
+    "Anna Tsing",
+    "Nils Bubandt"
+   ]
+  },
+  {
    "id": "aboriginal-territories-in-cyberspace",
    "name": "Aboriginal Territories in Cyberspace (AbTeC)",
    "type": "research",
@@ -127114,6 +127136,20 @@
     "Clara Mancini"
    ],
    "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "acm-dis",
+   "name": "ACM Designing Interactive Systems (DIS) Conference",
+   "type": "event",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Annual ACM conference on interaction design that has become a main venue for more-than-human, ecological and speculative design papers and workshops.",
+   "description_zh": "ACM 的年度交互设计会议，已成为超越人类、生态与思辨设计论文和工作坊的重要场合。",
+   "url": "https://dis.acm.org/"
   },
   {
    "id": "ai-and-animals-documentary",
@@ -127330,6 +127366,26 @@
    "creator_id": "amsilk"
   },
   {
+   "id": "office-for-political-innovation",
+   "name": "Andrés Jaque / Office for Political Innovation",
+   "type": "company",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Architecture office founded by Andrés Jaque whose 'transspecies' projects, such as COSMO, the Transspecies Kitchen and STONELIFE, design buildings as ecosystems shared with microbes, plants and animals.",
+   "description_zh": "Andrés Jaque 创立的建筑事务所，其“跨物种”项目如 COSMO、《Transspecies Kitchen》和 STONELIFE，把建筑设计为与微生物、植物和动物共享的生态系统。",
+   "url": "https://offpolinn.com/",
+   "image": "https://offpolinn.com/wp-content/uploads/2026/09/26.09.16-Monocle-Reggio-School-798x1024.jpg",
+   "based": "Madrid, Spain and New York, US",
+   "based_zh": "西班牙马德里与美国纽约",
+   "people": [
+    "Andrés Jaque"
+   ]
+  },
+  {
    "id": "anima-mundi-law-initiative",
    "name": "Anima Mundi Law Initiative",
    "type": "nonprofit",
@@ -127412,6 +127468,22 @@
     "Oscar Horta"
    ],
    "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animal-history-group",
+   "name": "Animal History Group",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Network founded in 2016 in the UK, now international and online, connecting historians whose work takes animals seriously as historical subjects.",
+   "description_zh": "2016 年在英国成立、现已国际化的线上网络，联结把动物视为历史主体的历史学者。",
+   "url": "https://animalhistorygroup.org/",
+   "image": "https://animalhistorygroup.org/wp-content/uploads/2021/08/navigational-tile-seminar.png",
+   "founded": 2016
   },
   {
    "id": "harvard-animal-law-policy-program",
@@ -127514,6 +127586,61 @@
    ]
   },
   {
+   "id": "reaktion-animal-series",
+   "name": "Animal series (Reaktion Books)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Illustrated book series edited by Jonathan Burt with more than 100 volumes, each on the cultural and natural history of one animal, from Salamander to Jaguar.",
+   "description_zh": "由 Jonathan Burt 主编的插图丛书，已出版 100 多册，每册讲述一种动物（从蝾螈到美洲豹）的文化史与自然史。",
+   "url": "https://reaktionbooks.co.uk/series/animal",
+   "image": "https://reaktionbooks.co.uk/wp-content/uploads/2026/09/9781836393382-2-wpv_720x.jpg",
+   "people": [
+    "Jonathan Burt"
+   ],
+   "found_via": "https://en.wikipedia.org/wiki/Animal_studies"
+  },
+  {
+   "id": "wesleyan-animal-studies",
+   "name": "Animal Studies at Wesleyan University",
+   "type": "education",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Undergraduate animal studies programme at Wesleyan that draws on the humanities, social sciences and sciences to study past and present human–animal relations and their ethics.",
+   "description_zh": "卫斯理大学的本科动物研究项目，结合人文、社会科学与自然科学，研究过去与现在的人与动物关系及其伦理。",
+   "url": "https://www.wesleyan.edu/animalstudies/",
+   "image": "https://www.wesleyan.edu/animalstudies/_internal/files/images/animal-studies.jpg",
+   "based": "Middletown, CT, US",
+   "based_zh": "美国康涅狄格州米德尔敦",
+   "people": [
+    "Lori Gruen"
+   ]
+  },
+  {
+   "id": "animal-studies-journal",
+   "name": "Animal Studies Journal",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access journal of the Australasian Animal Studies Association, hosted by the University of Wollongong, publishing articles and reviews on human–animal relations.",
+   "description_zh": "澳大拉西亚动物研究协会的开放获取期刊，由卧龙岗大学承办，发表人与动物关系的论文与书评。",
+   "url": "https://www.uowoajournals.org/asj/",
+   "image": "https://www.uowoajournals.org/media/cover_images/ec5ec489-8697-4c30-ac72-3eb8c1470032.jpg",
+   "founded": 2012
+  },
+  {
    "id": "ea-animal-welfare-fund",
    "name": "Animal Welfare Fund (EA Funds)",
    "type": "funding",
@@ -127550,6 +127677,47 @@
    ]
   },
   {
+   "id": "glasgow-aci-group",
+   "name": "Animal-Computer Interaction Group (University of Glasgow)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "animal-welfare",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Group led by Ilyena Hirskyj-Douglas (earlier at Aalto University) that builds animal-controlled and internet-enabled systems, such as parrots video-calling each other and music or video interfaces that dogs and monkeys operate themselves.",
+   "description_zh": "由 Ilyena Hirskyj-Douglas 领导（此前在阿尔托大学），开发由动物自己操控、联网的系统，例如鹦鹉之间的视频通话，以及狗和猴子自行操作的音乐或视频界面。",
+   "url": "https://animalcomputerinteraction.com/",
+   "based": "Glasgow, UK",
+   "based_zh": "英国格拉斯哥",
+   "people": [
+    "Ilyena Hirskyj-Douglas"
+   ]
+  },
+  {
+   "id": "open-university-aci-lab",
+   "name": "Animal-Computer Interaction Lab (The Open University)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "animal-welfare"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "The lab founded by Clara Mancini, who wrote the 2011 ACI manifesto; it designs technology for and with animals such as assistance and detection dogs, and develops animal-centred research ethics.",
+   "description_zh": "由 Clara Mancini 创立，她于 2011 年发表了动物-计算机交互（ACI）宣言；实验室为辅助犬、检测犬等动物、并与它们一起设计技术，并制定以动物为中心的研究伦理。",
+   "url": "https://www.open.ac.uk/blogs/ACI/",
+   "based": "Milton Keynes, UK",
+   "based_zh": "英国米尔顿凯恩斯",
+   "people": [
+    "Clara Mancini"
+   ]
+  },
+  {
    "id": "animal-harm-benchmark",
    "name": "AnimalHarmBench",
    "type": "database",
@@ -127565,6 +127733,75 @@
    "based_zh": "线上",
    "founded": 2025,
    "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animalibus-book-series",
+   "name": "Animalibus: Of Animals and Cultures (Penn State University Press)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book series on the importance of animals in human life and on how thinking about animals changes our ideas of the human.",
+   "description_zh": "丛书关注动物在人类生活中的重要性，以及对动物的思考如何改变我们对“人”的理解。",
+   "url": "https://www.psupress.org/books/series/book_SeriesAnimalibus.html"
+  },
+  {
+   "id": "animalities-book-series",
+   "name": "Animalities (Edinburgh University Press)",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book series edited by Matthew Chrulew on animality's plural futures, including English translations of Vinciane Despret and Dominique Lestel.",
+   "description_zh": "Matthew Chrulew 主编的丛书，探讨动物性的多元未来，包括 Vinciane Despret 与 Dominique Lestel 著作的英译本。",
+   "url": "https://edinburghuniversitypress.com/series-animalities",
+   "image": "https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399525992_2.jpg",
+   "people": [
+    "Matthew Chrulew"
+   ]
+  },
+  {
+   "id": "animals-and-media",
+   "name": "Animals & Media",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Style guide and resource for journalists, advertisers and entertainment media on how to represent nonhuman animals as individuals rather than objects.",
+   "description_zh": "面向记者、广告与娱乐媒体从业者的写作指南与资源，说明如何把非人动物作为个体而非物件来呈现。",
+   "url": "https://animalsandmedia.org/",
+   "image": "https://animalsandmedia.org/wp-content/uploads/2018/06/Home3_McArthur.jpg",
+   "people": [
+    "Carrie P. Freeman"
+   ],
+   "found_via": "https://en.wikipedia.org/wiki/Animal_studies"
+  },
+  {
+   "id": "animals-and-society-institute",
+   "name": "Animals & Society Institute",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Nonprofit scholarly organisation that builds the field of human–animal studies through journals such as Society & Animals, a book series, and the Human-Animal Studies Summer Institute.",
+   "description_zh": "非营利学术组织，通过《Society & Animals》等期刊、丛书和“人与动物研究暑期学院”推动人与动物研究领域的发展。",
+   "url": "https://www.animalsandsociety.org/",
+   "image": "https://www.animalsandsociety.org/wp-content/uploads/2024/03/2024-Society-and-Animals-Cover-for-web.jpg",
+   "based": "US",
+   "based_zh": "美国"
   },
   {
    "id": "animals-in-translation-report",
@@ -127585,6 +127822,25 @@
    "based_zh": "线上",
    "founded": 2024,
    "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "antennae-journal",
+   "name": "Antennae: The Journal of Nature in Visual Culture",
+   "type": "media",
+   "themes": [
+    "bioart",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access journal founded by Giovanni Aloi in 2007 on animals, plants and nature in contemporary art and visual culture.",
+   "description_zh": "Giovanni Aloi 于 2007 年创办的开放获取期刊，关注当代艺术与视觉文化中的动物、植物与自然。",
+   "url": "https://www.antennae.org.uk/",
+   "founded": 2007,
+   "people": [
+    "Giovanni Aloi"
+   ]
   },
   {
    "id": "anthropic-model-welfare",
@@ -127623,6 +127879,24 @@
    "founded": 2013
   },
   {
+   "id": "aaa-anthropology-and-environment",
+   "name": "Anthropology & Environment Society (American Anthropological Association)",
+   "type": "network",
+   "themes": [
+    "futures",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Section of the American Anthropological Association for environmental anthropology, including multispecies ethnography and political ecology; it runs the Engagement blog, prizes and conference panels.",
+   "description_zh": "美国人类学协会下的环境人类学分会，涵盖多物种民族志与政治生态学，运营 Engagement 博客，设立奖项并组织会议分组。",
+   "url": "https://ae.americananthro.org/",
+   "image": "https://ae.americananthro.org/wp-content/uploads/Title-1-630x466.png",
+   "based": "US",
+   "based_zh": "美国"
+  },
+  {
    "id": "antikythera",
    "name": "Antikythera",
    "type": "research",
@@ -127644,6 +127918,26 @@
    ]
   },
   {
+   "id": "ants-of-the-prairie",
+   "name": "Ants of the Prairie",
+   "type": "company",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Joyce Hwang's architecture practice in Buffalo that designs habitats for bats, birds and insects into buildings and public space, such as Bat Tower and Bat Cloud.",
+   "description_zh": "Joyce Hwang 在布法罗的建筑实践，把蝙蝠、鸟类和昆虫的栖息地设计进建筑和公共空间，如 Bat Tower 和 Bat Cloud。",
+   "url": "https://www.antsoftheprairie.com/",
+   "image": "https://www.antsoftheprairie.com/media/pages/projects/shelter-of-belonging-in-section-as-cosmogram/ce03fa931e-1769725222/crop-1.jpg",
+   "based": "Buffalo, US",
+   "based_zh": "美国布法罗",
+   "people": [
+    "Joyce Hwang"
+   ]
+  },
+  {
    "id": "ape-initiative",
    "name": "Ape Initiative",
    "type": "research",
@@ -127661,6 +127955,27 @@
    "based": "Des Moines, US",
    "based_zh": "得梅因，美国",
    "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "arachnophilia",
+   "name": "Arachnophilia",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "bioart"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research platform started by Studio Tomás Saraceno on spiders and their webs, with the Arachnomancy app, spider/web mapping against extinction and work on vibrational communication between species.",
+   "description_zh": "由 Studio Tomás Saraceno 发起的蜘蛛与蛛网研究平台，包括 Arachnomancy 应用、对抗灭绝的蜘蛛/网络测绘，以及物种间振动交流的研究。",
+   "url": "https://arachnophilia.net/",
+   "image": "https://arachnophilia.net/wp-content/uploads/2021/06/arachnomancyapp-265x180.jpg",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "people": [
+    "Tomás Saraceno"
+   ]
   },
   {
    "id": "arbimon",
@@ -127837,6 +128152,24 @@
    "founded": 2008
   },
   {
+   "id": "asle-uki",
+   "name": "ASLE-UKI (Association for the Study of Literature and Environment, UK & Ireland)",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Association founded in 1998 for ecocriticism, environmental humanities and animal studies in the UK and Ireland; it publishes the journal Green Letters.",
+   "description_zh": "1998 年成立，面向英国与爱尔兰的生态批评、环境人文与动物研究学会，出版期刊《Green Letters》。",
+   "url": "https://asle.org.uk/",
+   "based": "UK & Ireland",
+   "based_zh": "英国与爱尔兰",
+   "founded": 1998,
+   "found_via": "https://en.wikipedia.org/wiki/Ecocriticism"
+  },
+  {
    "id": "asociacion-andes-potato-park",
    "name": "Asociación ANDES (Potato Park)",
    "type": "nonprofit",
@@ -127902,6 +128235,24 @@
    "based": "International",
    "based_zh": "国际",
    "founded": 1994
+  },
+  {
+   "id": "asle",
+   "name": "Association for the Study of Literature and Environment (ASLE)",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Professional association for ecocriticism and the environmental humanities, founded in 1992; it holds a biennial conference and publishes the journal ISLE.",
+   "description_zh": "1992 年成立的生态批评与环境人文专业学会，举办双年会并出版期刊《ISLE》。",
+   "url": "https://www.asle.org/",
+   "image": "https://www.asle.org/wp-content/uploads/TreesSkyPattern.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 1992
   },
   {
    "id": "association-nature-forest-therapy",
@@ -127980,6 +128331,24 @@
    "based": "Americas",
    "based_zh": "美洲",
    "founded": 1900
+  },
+  {
+   "id": "australasian-animal-studies-association",
+   "name": "Australasian Animal Studies Association (AASA)",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Association for animal studies in Australia, New Zealand and the region, established in 2005, that holds conferences and supports the Animal Studies Journal.",
+   "description_zh": "澳大利亚、新西兰及周边地区的动物研究协会，成立于 2005 年，举办会议并支持《Animal Studies Journal》。",
+   "url": "https://animalstudies.org.au/",
+   "image": "https://animalstudies.org.au/wp-content/uploads/2025/11/ALFF-1080x1080-poster.png",
+   "based": "Australia",
+   "based_zh": "澳大利亚",
+   "founded": 2005
   },
   {
    "id": "australian-citizen-science-association",
@@ -128885,6 +129254,27 @@
    "creator_id": "braingeneers"
   },
   {
+   "id": "british-animal-studies-network",
+   "name": "British Animal Studies Network",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "UK network for animal studies scholars, founded at the University of Strathclyde by Erica Fudge, that holds themed meetings and keeps a living bibliography of the field.",
+   "description_zh": "英国的动物研究学者网络，由 Erica Fudge 在斯特拉斯克莱德大学创立，举办主题会议并维护该领域的“活书目”。",
+   "url": "https://britishanimalstudiesnetwork.org.uk/",
+   "image": "https://britishanimalstudiesnetwork.org.uk/portals/12/basn-banner.jpg?ver=pWxHgvvz6jBRv9tfg2ApPg%3d%3d",
+   "based": "Glasgow, UK",
+   "based_zh": "英国格拉斯哥",
+   "founded": 2007,
+   "people": [
+    "Erica Fudge"
+   ]
+  },
+  {
    "id": "brooks-institute",
    "name": "Brooks Institute for Animal Rights Law and Policy",
    "type": "research",
@@ -129028,6 +129418,26 @@
    "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
+   "id": "uwm-center-for-21st-century-studies",
+   "name": "Center for 21st Century Studies (UW–Milwaukee)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Humanities centre at the University of Wisconsin–Milwaukee whose 2012 conference and book The Nonhuman Turn, edited by Richard Grusin, named a shift toward nonhuman theory across disciplines.",
+   "description_zh": "威斯康星大学密尔沃基分校的人文研究中心，其 2012 年会议及 Richard Grusin 主编的同名书《The Nonhuman Turn》标志了各学科转向非人理论。",
+   "url": "https://uwm.edu/c21/",
+   "image": "https://uwm.edu/c21/wp-content/uploads/sites/359/2026/08/Banner-1500px400px_FY27_Spliced-1.jpeg",
+   "based": "Milwaukee, US",
+   "based_zh": "美国密尔沃基",
+   "people": [
+    "Richard Grusin"
+   ]
+  },
+  {
    "id": "jhu-caat",
    "name": "Center for Alternatives to Animal Testing (Johns Hopkins)",
    "type": "research",
@@ -129068,6 +129478,44 @@
    "people": [
     "Pamela Frasch"
    ]
+  },
+  {
+   "id": "ucsc-center-for-creative-ecologies",
+   "name": "Center for Creative Ecologies (UC Santa Cruz)",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "T. J. Demos's centre at UC Santa Cruz on how artists, filmmakers, architects and activists respond to environmental crises, through seminars, publications and exhibitions.",
+   "description_zh": "T. J. Demos 在加州大学圣克鲁兹分校主持的中心，研究艺术家、电影人、建筑师与行动者如何回应环境危机，举办研讨会、出版物和展览。",
+   "url": "https://creativeecologies.ucsc.edu/",
+   "image": "https://creativeecologies.ucsc.edu/files/2024/03/HAVC-SEMINAR-POSTER-2024_V3-3442657673d444e4.png",
+   "based": "Santa Cruz, US",
+   "based_zh": "美国圣克鲁兹",
+   "people": [
+    "T. J. Demos"
+   ]
+  },
+  {
+   "id": "wisconsin-center-culture-history-environment",
+   "name": "Center for Culture, History, and Environment (UW–Madison)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Environmental humanities and social science centre at the Nelson Institute, University of Wisconsin–Madison, focused on the entangled histories of nature and culture.",
+   "description_zh": "威斯康星大学麦迪逊分校尼尔森研究所的环境人文与社会科学中心，关注自然与文化相互缠结的历史。",
+   "url": "https://che.nelson.wisc.edu/",
+   "image": "https://che.nelson.wisc.edu/wp-content/uploads/home-owl-tree-lakeshore.jpg",
+   "based": "Madison, US",
+   "based_zh": "美国麦迪逊"
   },
   {
    "id": "center-for-democratic-environmental-rights",
@@ -129351,6 +129799,27 @@
    "image": "https://rca-media2.rca.ac.uk/images/Rich_Mix_window.2e16d0ba.fill-1200x1200.jpg",
    "based": "London, UK",
    "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "centre-for-postdigital-cultures",
+   "name": "Centre for Postdigital Cultures (Coventry University)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Coventry University centre that re-imagines digital culture toward a just and sustainable postcapitalist society through open publishing, posthumanities and environmental media projects.",
+   "description_zh": "考文垂大学的研究中心，通过开放出版、后人文与环境媒介项目重新想象数字文化，面向公正、可持续的后资本主义社会。",
+   "url": "https://www.coventry.ac.uk/research/areas-of-research/postdigital-cultures/",
+   "image": "https://www.coventry.ac.uk/globalassets/media/global/08-new-research-section/cpc/signposts/cpc-banner-brighter-1150x230.jpg",
+   "based": "Coventry, UK",
+   "based_zh": "英国考文垂",
+   "people": [
+    "Gary Hall",
+    "Janneke Adema"
+   ]
   },
   {
    "id": "centre-for-wild-animal-welfare",
@@ -129704,6 +130173,28 @@
    "creator_id": "andre-studart"
   },
   {
+   "id": "tu-delft-connected-everyday-lab",
+   "name": "Connected Everyday Lab (TU Delft)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research group in TU Delft's Industrial Design Engineering faculty, founded by Elisa Giaccardi, that uses design interventions to study connected things, social robots and smart materials, and helped develop more-than-human and thing-centred design.",
+   "description_zh": "代尔夫特理工大学工业设计工程学院的研究组，由 Elisa Giaccardi 创立，通过设计干预研究联网物件、社交机器人和智能材料，推动了超越人类的设计和以物为中心的设计。",
+   "url": "https://www.tudelft.nl/io/onderzoek/research-labs/connected-everyday-lab",
+   "image": "https://t.e7096c671.entry.domains/lWGCgfKXr8PlHzUExuYPXXRV_54=/fit-in/300x300/filters:strip_exif()/https%3A%2F%2Fwww.tudelft.nl%2F_assets%2Ff6b877d73456607fbfa2de3e3c5fd420%2FImages%2FOpenGraph%2FTUDelft.jpg%3Fhash%3D9ac1b46830",
+   "based": "Delft, Netherlands",
+   "based_zh": "荷兰代尔夫特",
+   "people": [
+    "Elisa Giaccardi",
+    "Nazli Cila",
+    "Iohanna Nicenboim"
+   ]
+  },
+  {
    "id": "consciousness-in-ai-report",
    "name": "Consciousness in Artificial Intelligence (Butlin, Long et al. report)",
    "type": "media",
@@ -129809,6 +130300,29 @@
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
   },
   {
+   "id": "cooking-sections",
+   "name": "Cooking Sections",
+   "type": "company",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "London spatial practice of Daniel Fernández Pascual and Alon Schwabe that studies landscapes through food, e.g. CLIMAVORE, which changes menus to follow climate-altered ecosystems.",
+   "description_zh": "Daniel Fernández Pascual 与 Alon Schwabe 在伦敦的空间实践团体，通过食物研究景观，例如随气候变化下的生态系统而调整菜单的 CLIMAVORE 项目。",
+   "url": "https://www.cooking-sections.com/",
+   "based": "London, UK",
+   "based_zh": "英国伦敦",
+   "founded": 2013,
+   "people": [
+    "Daniel Fernández Pascual",
+    "Alon Schwabe"
+   ],
+   "creator_id": "cooking-sections"
+  },
+  {
    "id": "cornell-lab-of-ornithology",
    "name": "Cornell Lab of Ornithology",
    "type": "research",
@@ -129910,6 +130424,113 @@
    ]
   },
   {
+   "id": "brill-critical-animal-studies-series",
+   "name": "Critical Animal Studies (Brill book series)",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Brill book series, started in 2012, for critical animal studies scholarship that links animal liberation with wider social and ecological justice.",
+   "description_zh": "Brill 自 2012 年起出版的丛书，收录把动物解放与更广泛的社会和生态正义联系起来的批判性动物研究。",
+   "url": "https://brill.com/display/serial/CAST",
+   "image": "https://brill.com/cover/covers/22124950.jpg",
+   "founded": 2012
+  },
+  {
+   "id": "critical-climate-change-book-series",
+   "name": "Critical Climate Change (Open Humanities Press)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access book series edited by Tom Cohen and Claire Colebrook on climate change and the critical and theoretical questions it raises.",
+   "description_zh": "由 Tom Cohen 与 Claire Colebrook 主编的开放获取丛书，探讨气候变化及其引发的批判与理论问题。",
+   "url": "https://www.openhumanitiespress.org/books/series/critical-climate-change/",
+   "people": [
+    "Tom Cohen",
+    "Claire Colebrook"
+   ]
+  },
+  {
+   "id": "critical-life-studies-book-series",
+   "name": "Critical Life Studies (Columbia University Press)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book series on life beyond the human, with titles such as Plants in Place and Earthborn Democracy on vegetal and entangled life.",
+   "description_zh": "关注超越人类之生命的丛书，收录《Plants in Place》《Earthborn Democracy》等关于植物生命与缠结生命的著作。",
+   "url": "https://cup.columbia.edu/series/critical-life-studies/",
+   "image": "https://cup-us.imgix.net/covers/9780231216425.jpg?auto=format&w=350"
+  },
+  {
+   "id": "critical-media-lab-basel",
+   "name": "Critical Media Lab (FHNW Academy of Art and Design Basel)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research lab at the Institute of Experimental Design and Media Cultures in Basel working on media, technology and ecology, with projects such as Feral Hacking for Climate Regeneration and Climate Cosmograms.",
+   "description_zh": "巴塞尔实验设计与媒介文化研究所的研究实验室，研究媒介、技术与生态，项目包括“为气候再生的野性骇客”与“气候宇宙图”。",
+   "url": "https://criticalmedialab.ch/",
+   "image": "https://criticalmedialab.ch/wp-content/uploads/2026/07/mesh-poster-video-600x338.jpg",
+   "based": "Basel, Switzerland",
+   "based_zh": "瑞士巴塞尔"
+  },
+  {
+   "id": "critical-posthumanism-network",
+   "name": "Critical Posthumanism Network",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Scholarly network and online 'Genealogy of the Posthuman' that collects concept entries, positions and debates in critical posthumanism.",
+   "description_zh": "学术网络及在线“后人类谱系”，汇集批判性后人类主义中的概念词条、立场和争论。",
+   "url": "https://criticalposthumanism.net/",
+   "image": "https://i0.wp.com/criticalposthumanism.net/wp-content/uploads/2019/08/Screenshot-2019-08-02-10.07.55.png?fit=1522%2C544&ssl=1",
+   "people": [
+    "Stefan Herbrechter",
+    "Ivan Callus"
+   ]
+  },
+  {
+   "id": "critical-posthumanisms-book-series",
+   "name": "Critical Posthumanisms (Brill book series)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Brill book series, started in 2015 and edited by Ivan Callus and Stefan Herbrechter, on posthumanist theory in literature, culture and philosophy.",
+   "description_zh": "Brill 自 2015 年起出版、由 Ivan Callus 与 Stefan Herbrechter 主编的丛书，研究文学、文化与哲学中的后人类理论。",
+   "url": "https://brill.com/display/serial/CPH",
+   "image": "https://brill.com/cover/covers/18720943.jpg",
+   "founded": 2015,
+   "people": [
+    "Ivan Callus",
+    "Stefan Herbrechter"
+   ]
+  },
+  {
    "id": "crop-trust",
    "name": "Crop Trust (Svalbard Global Seed Vault)",
    "type": "nonprofit",
@@ -129983,6 +130604,27 @@
    "founded": 1972
   },
   {
+   "id": "cyberforest",
+   "name": "Cyberforest (University of Tokyo)",
+   "type": "database",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "hni",
+    "aci"
+   ],
+   "description": "University of Tokyo project that has streamed and archived live sound and webcam images from its research forests, used for soundscape research, ecology education and Hill Hiroki Kobayashi's human–computer–biosphere interaction work.",
+   "description_zh": "东京大学的项目，从其研究林实时传输并存档声音和摄像头影像，用于声景研究、生态教育，以及小林博树的“人-计算机-生物圈交互”研究。",
+   "url": "http://cyberforest.jp/",
+   "based": "Tokyo, Japan",
+   "based_zh": "日本东京",
+   "people": [
+    "Hill Hiroki Kobayashi"
+   ]
+  },
+  {
    "id": "dark-mountain-project",
    "name": "Dark Mountain Project",
    "type": "network",
@@ -130002,6 +130644,27 @@
    "people": [
     "Paul Kingsnorth",
     "Dougald Hine"
+   ]
+  },
+  {
+   "id": "dcode-network",
+   "name": "DCODE Network",
+   "type": "education",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "European doctoral network (Marie Skłodowska-Curie) coordinated from TU Delft that trained PhD designers to rethink design for AI and digital transformation, including more-than-human perspectives.",
+   "description_zh": "由代尔夫特理工大学协调的欧洲玛丽·居里博士网络，培养设计方向博士生，为 AI 和数字化转型重新思考设计，包括超越人类的视角。",
+   "url": "https://dcode-network.eu/",
+   "image": "https://dcode-network.eu/wp-content/uploads/2021/05/Screenshot-2021-06-06-at-20.23.04.png",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "people": [
+    "Elisa Giaccardi"
    ]
   },
   {
@@ -130044,6 +130707,21 @@
     "Carole Collet"
    ],
    "creator_id": "carole-collet"
+  },
+  {
+   "id": "design-research-society",
+   "name": "Design Research Society (DRS)",
+   "type": "network",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International learned society for design research, founded in 1966, whose biennial DRS conference and special interest groups host much more-than-human and ecological design research.",
+   "description_zh": "1966 年成立的国际设计研究学会，其双年会与各特别兴趣小组汇集了大量超越人类与生态设计研究。",
+   "url": "https://www.designresearchsociety.org/",
+   "founded": 1966
   },
   {
    "id": "rethink-priorities-digital-consciousness-model",
@@ -130098,6 +130776,27 @@
     "Andrew Quitmeyer"
    ],
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "digital-nature-group",
+   "name": "Digital Nature Group (University of Tsukuba)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Yoichi Ochiai's lab, built around the idea of 'Digital Nature', a computational nature in which people, machines, matter and virtual worlds merge; projects include Calmbots, cockroach-carrying robots.",
+   "description_zh": "落合阳一的研究室，以“计算机自然”（Digital Nature）为核心理念，即人、机器、物质与虚拟世界相互融合的计算自然；项目包括让蟑螂搬运物品的 Calmbots。",
+   "url": "https://digitalnature.slis.tsukuba.ac.jp/",
+   "image": "https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2026/08/project_key_visual.png",
+   "based": "Tsukuba, Japan",
+   "based_zh": "日本筑波",
+   "people": [
+    "Yoichi Ochiai"
+   ]
   },
   {
    "id": "templeton-diverse-intelligences",
@@ -130238,6 +130937,46 @@
     "Shane Gero"
    ],
    "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "drs-pluriversal-design-sig",
+   "name": "DRS Pluriversal Design SIG",
+   "type": "network",
+   "themes": [
+    "mth-design",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design Research Society special interest group for pluriversal design, bringing in epistemologies and design practices from people excluded from mainstream design narratives.",
+   "description_zh": "设计研究学会关于“多元宇宙设计”的特别兴趣小组，引入被主流设计叙事排斥的人群的认识论与设计实践。",
+   "url": "https://www.designresearchsociety.org/cpages/sig-pluriversal-design",
+   "people": [
+    "Lesley-Ann Noel",
+    "Renata M. Leitão"
+   ],
+   "found_via": "https://www.designresearchsociety.org/cpages/sigs"
+  },
+  {
+   "id": "drs-sustainability-sig",
+   "name": "DRS Sustainability & Transitions SIG (SusSIG)",
+   "type": "network",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design Research Society special interest group that connects design researchers working on ecological care, sustainability transitions and responses to the destruction of ecological systems.",
+   "description_zh": "设计研究学会的特别兴趣小组，联结关注生态照料、可持续转型以及应对生态系统破坏的设计研究者。",
+   "url": "https://www.designresearchsociety.org/cpages/sustainability-sig",
+   "people": [
+    "Joanna Boehnert",
+    "Dan Lockton"
+   ],
+   "found_via": "https://www.designresearchsociety.org/cpages/sigs"
   },
   {
    "id": "duke-canine-cognition-center",
@@ -130437,6 +131176,23 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "ecoartspace",
+   "name": "ecoartspace",
+   "type": "network",
+   "themes": [
+    "bioart"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International membership network of artists working with ecology and the environment, which organises exhibitions, events and publications on art and nature.",
+   "description_zh": "面向从事生态与环境创作的艺术家的国际会员网络，组织关于艺术与自然的展览、活动和出版物。",
+   "url": "https://ecoartspace.org/",
+   "image": "https://ecoartspace.org/resources/Pictures/_sh68733.jpg",
+   "based": "US",
+   "based_zh": "美国"
+  },
+  {
    "id": "ecologicstudio",
    "name": "ecoLogicStudio",
    "type": "company",
@@ -130461,6 +131217,25 @@
    "creator_id": "ecologicstudio"
   },
   {
+   "id": "ecolopes",
+   "name": "ECOLOPES (Ecological Building Envelopes)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "EU Horizon 2020 research project that developed a computational design approach for building envelopes shared by humans, plants, animals and microbes, to regenerate urban ecosystems.",
+   "description_zh": "欧盟“地平线 2020”研究项目，开发一种计算设计方法，使建筑外围护结构由人、植物、动物和微生物共享，以修复城市生态系统。",
+   "url": "https://ecolopes.org/",
+   "image": "https://ecolopes.org/wp-content/uploads/2022/09/Bildschirmfoto-2022-09-01-um-15.00.44-1.png",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "founded": 2021
+  },
+  {
    "id": "ecovative",
    "name": "Ecovative",
    "type": "company",
@@ -130482,6 +131257,39 @@
     "Gavin McIntyre"
    ],
    "creator_id": "ecovative"
+  },
+  {
+   "id": "ecozona-journal",
+   "name": "Ecozon@: European Journal of Literature, Culture and Environment",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access ecocriticism journal of EASLCE, founded in 2010, publishing articles and creative writing on literature, culture and the environment.",
+   "description_zh": "EASLCE 的开放获取生态批评期刊，2010 年创刊，发表关于文学、文化与环境的论文与创意写作。",
+   "url": "https://ecozona.eu/",
+   "image": "https://ecozona.eu/public/journals/11/cover_issue_298_en_US.jpg",
+   "founded": 2010
+  },
+  {
+   "id": "edge-effects-magazine",
+   "name": "Edge Effects",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Digital magazine of the Center for Culture, History, and Environment at UW–Madison, publishing short essays, interviews and podcasts in the environmental humanities.",
+   "description_zh": "威斯康星大学麦迪逊分校“文化、历史与环境中心”的数字杂志，发表环境人文领域的短文、访谈和播客。",
+   "url": "https://edgeeffects.net/",
+   "image": "https://i0.wp.com/edgeeffects.net/wp-content/uploads/2025/01/cropped-ee-banner-colorful.png?fit=8533%2C4465&ssl=1",
+   "based": "Madison, US",
+   "based_zh": "美国麦迪逊"
   },
   {
    "id": "eleos-ai",
@@ -130609,6 +131417,127 @@
    "founded": 2016
   },
   {
+   "id": "ensayos-tierra-del-fuego",
+   "name": "Ensayos",
+   "type": "research",
+   "themes": [
+    "indigenous",
+    "bioart"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Nomadic collective research practice started by Camila Marambio in Tierra del Fuego in 2010, joining artists, scientists and Indigenous Selk'nam knowledge holders around peatlands, beavers and the sea; since 2025 in archive mode.",
+   "description_zh": "由 Camila Marambio 于 2010 年在火地岛发起的游牧式集体研究实践，艺术家、科学家与塞尔克南原住民知识持有者围绕泥炭地、海狸与海洋开展合作；2025 年起进入档案状态。",
+   "url": "https://ensayostierradelfuego.net/",
+   "based": "Tierra del Fuego, Chile",
+   "based_zh": "智利火地岛",
+   "founded": 2010,
+   "people": [
+    "Camila Marambio"
+   ]
+  },
+  {
+   "id": "environment-and-society-portal",
+   "name": "Environment & Society Portal",
+   "type": "database",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access digital archive of the Rachel Carson Center with environmental humanities books, journals, films, virtual exhibitions and an interactive map of environmental history.",
+   "description_zh": "雷切尔·卡森中心的开放获取数字档案，收录环境人文领域的书籍、期刊、影片、线上展览和环境史互动地图。",
+   "url": "https://www.environmentandsociety.org/",
+   "image": "https://www.environmentandsociety.org/sites/all/themes/esp_radix/assets/images/backgrounds/home-bg--virtual-exhibitions-2.jpg",
+   "based": "Munich, Germany",
+   "based_zh": "德国慕尼黑",
+   "founded": 2011
+  },
+  {
+   "id": "environmental-cultures-book-series",
+   "name": "Environmental Cultures (Bloomsbury book series)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Bloomsbury Academic book series in ecocriticism and the environmental humanities.",
+   "description_zh": "Bloomsbury Academic 的生态批评与环境人文丛书。",
+   "url": "https://www.bloomsbury.com/uk/series/environmental-cultures/"
+  },
+  {
+   "id": "environmental-humanities-journal",
+   "name": "Environmental Humanities (journal)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open-access journal from Duke University Press, started at UNSW in 2012, that publishes interdisciplinary humanities scholarship on environmental questions, including much multispecies research.",
+   "description_zh": "杜克大学出版社的开放获取期刊，2012 年创刊于新南威尔士大学，发表关于环境问题的跨学科人文研究，其中包括大量多物种研究。",
+   "url": "https://www.dukeupress.edu/environmental-humanities",
+   "image": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/9716c393-6218-42a1-847b-0e4c19e2f5b0/ENV_new_pr.jpg",
+   "founded": 2012,
+   "found_via": "https://en.wikipedia.org/wiki/Environmental_humanities"
+  },
+  {
+   "id": "unsw-environmental-humanities",
+   "name": "Environmental Humanities at UNSW Sydney",
+   "type": "research",
+   "themes": [
+    "futures",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "UNSW's environmental humanities group, where the journal Environmental Humanities began, works on multispecies and more-than-human studies, extinction, posthumanism and new materialism.",
+   "description_zh": "新南威尔士大学的环境人文研究群体，《Environmental Humanities》期刊即在此创办，研究多物种与超越人类研究、灭绝、后人类主义和新物质主义。",
+   "url": "https://www.unsw.edu.au/arts-design-architecture/our-schools/humanities-languages/our-research/research-strengths/environment-and-society",
+   "image": "https://www.unsw.edu.au/content/dam/images/ada/humanities-languages/stock/2021-05-hal-istock/2021-05-env-society.cropimg.width=700.crop=landscape.jpeg",
+   "based": "Sydney, Australia",
+   "based_zh": "澳大利亚悉尼"
+  },
+  {
+   "id": "utah-environmental-humanities",
+   "name": "Environmental Humanities Graduate Program (University of Utah)",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Fully funded interdisciplinary master's programme at the University of Utah that trains environmental thinkers through research-intensive, community-engaged environmental humanities.",
+   "description_zh": "犹他大学的全额资助跨学科硕士项目，以研究密集、社区参与的环境人文课程培养环境思想者与领导者。",
+   "url": "https://environmental-humanities.utah.edu/",
+   "based": "Salt Lake City, US",
+   "based_zh": "美国盐湖城",
+   "found_via": "https://en.wikipedia.org/wiki/Environmental_humanities"
+  },
+  {
+   "id": "princeton-environmental-humanities",
+   "name": "Environmental Humanities Program (Princeton HMEI)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Programme in Princeton's High Meadows Environmental Institute that funds humanities faculty research and courses on environmental topics and runs seminars, lecture series and conferences.",
+   "description_zh": "普林斯顿大学高草甸环境研究所的项目，资助人文学科教师开展环境议题的研究与课程，并举办研讨会、讲座系列和会议。",
+   "url": "https://environment.princeton.edu/research/environmental-humanities/",
+   "based": "Princeton, US",
+   "based_zh": "美国普林斯顿"
+  },
+  {
    "id": "environmental-neuroscience-lab-uchicago",
    "name": "Environmental Neuroscience Lab (University of Chicago)",
    "type": "research",
@@ -130647,6 +131576,24 @@
    "found_via": "https://sentientfutures.ai/"
   },
   {
+   "id": "easlce",
+   "name": "European Association for the Study of Literature, Culture and Environment (EASLCE)",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "European association for ecocriticism and environmental humanities, founded in 2004, that holds biennial conferences and publishes the journal Ecozon@.",
+   "description_zh": "2004 年成立的欧洲生态批评与环境人文学会，举办双年会并出版期刊《Ecozon@》。",
+   "url": "https://www.easlce.eu/",
+   "image": "https://www.easlce.eu/wp-content/uploads/2023/09/deborah-1200-diem-ds_NPvoAzro-unsplash.webp",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "founded": 2004
+  },
+  {
    "id": "european-centre-environment-human-health",
    "name": "European Centre for Environment and Human Health (University of Exeter)",
    "type": "research",
@@ -130683,6 +131630,69 @@
    "founded": 2013
   },
   {
+   "id": "everyday-design-studio-sfu",
+   "name": "Everyday Design Studio (Simon Fraser University)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design research studio at SFU's School of Interactive Arts and Technology that builds research products to study everyday life with technology, including postphenomenology and more-than-human design (e.g. Morse Things, Tilting Bowl).",
+   "description_zh": "西蒙弗雷泽大学交互艺术与技术学院的设计研究工作室，通过制作“研究产品”研究日常生活中的技术，涉及后现象学与超越人类的设计（如 Morse Things、Tilting Bowl）。",
+   "url": "http://eds.siat.sfu.ca/",
+   "based": "Surrey, BC, Canada",
+   "based_zh": "加拿大不列颠哥伦比亚省素里",
+   "people": [
+    "Ron Wakkary",
+    "William Odom"
+   ]
+  },
+  {
+   "id": "exeter-ease-anthrozoology",
+   "name": "Exeter Anthrozoology as Symbiotic Ethics (EASE)",
+   "type": "research",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth",
+    "aci"
+   ],
+   "description": "Working group at the University of Exeter, founded in 2016, that joins anthropology, philosophy, geography, animal behaviour and computer science to study human interactions with other living things; it runs an MA in Anthrozoology.",
+   "description_zh": "埃克塞特大学 2016 年成立的工作组，汇集人类学、哲学、地理学、动物行为学和计算机科学，研究人与其他生命的互动，并开设人类动物学硕士课程。",
+   "url": "https://www.exeter.ac.uk/research/centres/ease/",
+   "image": "https://www.exeter.ac.uk/v8media/universityofexeter/collegeofsocialsciencesandinternationalstudies/sociology/research/ease/puppieswithlorry_simonking.jpg",
+   "based": "Exeter, UK",
+   "based_zh": "英国埃克塞特",
+   "founded": 2016,
+   "people": [
+    "Samantha Hurn"
+   ]
+  },
+  {
+   "id": "siegen-experience-interaction-design",
+   "name": "Experience & Interaction Design (University of Siegen)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Marc Hassenzahl's group designs for wellbeing and meaningful experiences, including 'pleasurable troublemakers' and research on robots, animals and other nonhuman actors in everyday life.",
+   "description_zh": "Marc Hassenzahl 领导的小组为福祉和有意义的体验而设计，包括“愉悦的麻烦制造者”，以及关于机器人、动物等非人行动者在日常生活中角色的研究。",
+   "url": "https://www.experienceandinteraction.com/",
+   "image": "https://images.squarespace-cdn.com/content/v1/58170bb9e4fcb5fd591e8449/1501089093713-VK9DO8RF7VIU413L9OOA/Banners2.png",
+   "based": "Siegen, Germany",
+   "based_zh": "德国锡根",
+   "people": [
+    "Marc Hassenzahl",
+    "Matthias Laschke"
+   ]
+  },
+  {
    "id": "experience-machines",
    "name": "Experience Machines (newsletter)",
    "type": "media",
@@ -130700,6 +131710,25 @@
     "Robert Long"
    ],
    "found_via": "https://nonhumanminds.org/"
+  },
+  {
+   "id": "experimental-futures-book-series",
+   "name": "Experimental Futures (Duke University Press)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Duke book series on technological lives, scientific arts and anthropological voices, home to multispecies titles such as The Multispecies Salon and Staying with the Trouble.",
+   "description_zh": "杜克大学出版社关于技术生活、科学艺术与人类学之声的丛书，收录《The Multispecies Salon》《Staying with the Trouble》等多物种著作。",
+   "url": "https://www.dukeupress.edu/series/experimental-futures-technological-lives-scientific-arts-anthropological-voices",
+   "image": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/91b3ed8a-64d1-4c91-a569-cf6effe6d9cc/dup_imagena_pr.jpg?fm=webp&auto=format",
+   "people": [
+    "Michael M. J. Fischer",
+    "Joseph Dumit"
+   ]
   },
   {
    "id": "fab-lab-barcelona",
@@ -130839,6 +131868,28 @@
    "based_zh": "美国",
    "founded": 2000,
    "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "feral-atlas",
+   "name": "Feral Atlas: The More-Than-Human Anthropocene",
+   "type": "database",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Online atlas (Stanford University Press, 2020) with 79 field reports by scientists, humanists and artists on the feral ecologies that grow when nonhuman beings get entangled with human infrastructure.",
+   "description_zh": "在线图集（斯坦福大学出版社，2020），收录科学家、人文学者和艺术家撰写的 79 篇田野报告，讲述非人存在与人类基础设施缠结时生长出的“野性生态”。",
+   "url": "https://feralatlas.org/",
+   "image": "https://feralatlas.org/build/sup/assets/img/jpg/fa.jpg",
+   "founded": 2020,
+   "people": [
+    "Anna Tsing",
+    "Jennifer Deger",
+    "Alder Keleman Saxena",
+    "Feifei Zhou"
+   ]
   },
   {
    "id": "finalspark",
@@ -131166,6 +132217,27 @@
    "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
   },
   {
+   "id": "koc-futurewell",
+   "name": "Futurewell: Co-creation and Wellbeing Design Research Group (Koç University)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design research group founded in 2019 by Aykut Coşkun that works on the social and justice side of design and technology, including wellbeing, co-creation and more-than-human design.",
+   "description_zh": "由 Aykut Coşkun 于 2019 年创立的设计研究组，关注设计与技术的社会与正义层面，包括福祉、共创和超越人类的设计。",
+   "url": "https://research.ku.edu.tr/research-infrastructure/laboratories/futurewell/",
+   "image": "https://research.ku.edu.tr/wp-content/uploads/2025/12/Image-from-iOS-2-2048x1536-1-1024x768.jpg",
+   "based": "Istanbul, Türkiye",
+   "based_zh": "土耳其伊斯坦布尔",
+   "founded": 2019,
+   "people": [
+    "Aykut Coşkun"
+   ]
+  },
+  {
    "id": "gosh",
    "name": "Gathering for Open Science Hardware (GOSH)",
    "type": "network",
@@ -131452,6 +132524,21 @@
    "creator_id": "glowee"
   },
   {
+   "id": "green-letters-journal",
+   "name": "Green Letters: Studies in Ecocriticism",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Journal of ASLE-UKI, published by Taylor & Francis, with ecocritical research on literature, culture and the more-than-human world.",
+   "description_zh": "ASLE-UKI 的期刊，由 Taylor & Francis 出版，发表关于文学、文化与超越人类世界的生态批评研究。",
+   "url": "https://asle.org.uk/green-letters/",
+   "found_via": "https://en.wikipedia.org/wiki/Ecocriticism"
+  },
+  {
    "id": "greenspace-scotland",
    "name": "Greenspace Scotland",
    "type": "nonprofit",
@@ -131606,6 +132693,27 @@
    "founded": 2009
   },
   {
+   "id": "salzburg-hci-plus",
+   "name": "hci.plus (University of Salzburg)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "HCI group at the University of Salzburg led by Christopher Frauenberger, who proposed 'Entanglement HCI' and works on responsible, more-than-human perspectives on technology design.",
+   "description_zh": "萨尔茨堡大学的人机交互研究组，由 Christopher Frauenberger 领导，他提出了“缠结人机交互”（Entanglement HCI），研究负责任的、超越人类视角的技术设计。",
+   "url": "https://hci.plus/",
+   "image": "https://hci.plus/wp-content/uploads/2015/05/122Salzburg_Center-for-Human-Computer-Interaction_A.Laminger.jpg",
+   "based": "Salzburg, Austria",
+   "based_zh": "奥地利萨尔茨堡",
+   "people": [
+    "Christopher Frauenberger",
+    "Verena Fuchsberger"
+   ]
+  },
+  {
    "id": "hive-animal-advocacy",
    "name": "Hive",
    "type": "network",
@@ -131679,6 +132787,28 @@
    ]
   },
   {
+   "id": "uchicago-human-computer-integration-lab",
+   "name": "Human Computer Integration Lab (University of Chicago)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "biodesign"
+   ],
+   "fields": [
+    "mth",
+    "biohybrid"
+   ],
+   "description": "Pedro Lopes's lab studies interfaces that integrate with the body; its work also includes devices that host living organisms such as slime mould, which users must care for.",
+   "description_zh": "Pedro Lopes 的实验室研究与身体融合的界面，其研究也包括承载黏菌等活体生物、需要用户照料的设备。",
+   "url": "https://lab.plopes.org/",
+   "based": "Chicago, US",
+   "based_zh": "美国芝加哥",
+   "people": [
+    "Pedro Lopes",
+    "Jasmine Lu"
+   ]
+  },
+  {
    "id": "hints-lab",
    "name": "Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)",
    "type": "research",
@@ -131700,6 +132830,22 @@
    ]
   },
   {
+   "id": "brill-human-animal-studies-series",
+   "name": "Human-Animal Studies (Brill book series)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Brill book series, started in 2005, publishing interdisciplinary monographs and edited volumes on the relations between humans and other animals.",
+   "description_zh": "Brill 自 2005 年起出版的丛书，收录关于人与其他动物关系的跨学科专著与文集。",
+   "url": "https://brill.com/display/serial/HAS",
+   "image": "https://brill.com/cover/covers/15734226.jpg",
+   "founded": 2005
+  },
+  {
    "id": "humane-league-labs",
    "name": "Humane League Labs",
    "type": "research",
@@ -131712,6 +132858,38 @@
    "image": "https://images.ctfassets.net/ww1ie0z745y7/4Q9PiRd2FFrb9cx4RfZgyt/ac9e928e91930641a0fee51f7ec2d5b7/ic-youtube-white-normal_2x.png",
    "based": "US",
    "based_zh": "美国"
+  },
+  {
+   "id": "humanimalia",
+   "name": "Humanimalia",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Diamond open-access journal, published twice a year since 2009, devoted to human–animal relations from cultural, historical, philosophical, political and aesthetic perspectives.",
+   "description_zh": "钻石开放获取期刊，自 2009 年起每年两期，从文化、历史、哲学、政治和美学角度研究人与动物关系。",
+   "url": "https://humanimalia.org/",
+   "image": "https://humanimalia.org/public/journals/8/cover_issue_1756_en.png",
+   "founded": 2009
+  },
+  {
+   "id": "humanities-for-the-environment",
+   "name": "Humanities for the Environment (HfE)",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Global network of humanities 'observatories', started with Mellon Foundation support, that mobilise the arts and humanities on social and environmental challenges, e.g. the youth project Storying Just Futures.",
+   "description_zh": "由人文“观测站”组成的全球网络，在梅隆基金会支持下启动，动员艺术与人文学科应对社会与环境挑战，如青年项目“讲述公正的未来”。",
+   "url": "https://hfe-observatories.org/",
+   "image": "https://hfe-observatories.org/wp-content/uploads/2025/11/Premio-FBBVA-Biophilia-Thom-van-Dooren-c-Quentin-Jones-cropped-150x150.webp",
+   "founded": 2013
   },
   {
    "id": "huue",
@@ -131736,6 +132914,26 @@
     "Michelle Zhu"
    ],
    "creator_id": "huue"
+  },
+  {
+   "id": "hybrid-ecologies-lab",
+   "name": "Hybrid Ecologies Lab (UC Berkeley)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth",
+    "hni"
+   ],
+   "description": "Eric Paulos's lab works on critical making, new materials and tools, including unmaking, decomposable electronics and citizen air-quality sensing.",
+   "description_zh": "Eric Paulos 的实验室研究批判性制作、新材料与工具，包括“拆解”、可降解电子和公民空气质量感知。",
+   "url": "https://www.hybrid-ecologies.org/",
+   "based": "Berkeley, US",
+   "based_zh": "美国伯克利",
+   "people": [
+    "Eric Paulos"
+   ]
   },
   {
    "id": "icarus-max-planck",
@@ -131813,6 +133011,27 @@
    "based": "Online",
    "based_zh": "线上",
    "founded": 2003
+  },
+  {
+   "id": "imaginationlancaster",
+   "name": "ImaginationLancaster (Lancaster University)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design-led research centre whose speculative and game design group (Paul Coulton, Joseph Lindley) has proposed more-than-human-centred design for AI and the Internet of Things.",
+   "description_zh": "以设计为主导的研究中心，其思辨设计与游戏设计小组（Paul Coulton、Joseph Lindley）为 AI 和物联网提出了“以超越人类为中心的设计”。",
+   "url": "https://imagination.lancaster.ac.uk/",
+   "based": "Lancaster, UK",
+   "based_zh": "英国兰卡斯特",
+   "people": [
+    "Paul Coulton",
+    "Joseph Lindley"
+   ]
   },
   {
    "id": "inaturalist",
@@ -132011,6 +133230,44 @@
    "creator_id": "josh-bongard"
   },
   {
+   "id": "institute-for-critical-animal-studies",
+   "name": "Institute for Critical Animal Studies (ICAS)",
+   "type": "network",
+   "themes": [
+    "animal-welfare",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Scholar-activist network for critical animal studies that links animal liberation with other social justice movements; it publishes the Journal for Critical Animal Studies and holds conferences.",
+   "description_zh": "批判性动物研究的学者-行动者网络，把动物解放与其他社会正义运动联系起来，出版《Journal for Critical Animal Studies》并举办会议。",
+   "url": "https://criticalanimalstudies.org/",
+   "founded": 2001
+  },
+  {
+   "id": "edinburgh-institute-for-design-informatics",
+   "name": "Institute for Design Informatics (University of Edinburgh)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Institute combining design, data and computation; Larissa Pschetz's group here works on temporal design, biodesign and designing with other species and ecological time.",
+   "description_zh": "融合设计、数据与计算的研究所；Larissa Pschetz 的小组在此研究时间设计、生物设计，以及与其他物种和生态时间共同设计。",
+   "url": "https://designinformatics.org/",
+   "image": "https://designinformatics.org/wp-content/uploads/2026/02/OurResearch-buttonimage.jpg",
+   "based": "Edinburgh, UK",
+   "based_zh": "英国爱丁堡",
+   "people": [
+    "Larissa Pschetz",
+    "Chris Speed"
+   ]
+  },
+  {
    "id": "institute-for-postnatural-studies",
    "name": "Institute for Postnatural Studies",
    "type": "education",
@@ -132047,6 +133304,92 @@
    "based": "Palo Alto, California, US",
    "based_zh": "帕洛阿尔托，加利福尼亚州，美国",
    "founded": 1968
+  },
+  {
+   "id": "institute-of-queer-ecology",
+   "name": "Institute of Queer Ecology (IQECO)",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Collaborative art organisation founded in 2017 by Lee Pivnik and co-directed by Nicolas Baird that uses queer ecology to imagine and build more equitable relations between humans and the rest of nature, through exhibitions and events.",
+   "description_zh": "由 Lee Pivnik 于 2017 年创立、Nicolas Baird 共同主持的协作艺术组织，以酷儿生态学想象并建立人与自然之间更平等的关系，形式包括展览和活动。",
+   "url": "https://queerecology.org/",
+   "image": "https://freight.cargo.site/t/original/i/01331c52a51b67cb6f2d24f91f598a818954da615701420425a554868a1cee82/IQECO-simple.png",
+   "founded": 2017,
+   "people": [
+    "Lee Pivnik",
+    "Nicolas Baird"
+   ]
+  },
+  {
+   "id": "interact-animal-lab",
+   "name": "INTERACT Animal Lab (Northeastern University)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "animal-welfare",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Rébecca Kleinberger's lab studies technology for animal enrichment, including parrots using touchscreens and video calls, games for animals, zoo enrichment and pet technology.",
+   "description_zh": "Rébecca Kleinberger 的实验室研究用于动物丰容的技术，包括鹦鹉使用触摸屏和视频通话、动物游戏、动物园丰容和宠物科技。",
+   "url": "https://www.interactanimallab.com/",
+   "image": "http://static1.squarespace.com/static/64556f3a56032e1759f38684/t/67a016ea10df1c2271d36712/1738544874616/interact+animal+lab+-+full+width+black.png?format=1500w",
+   "based": "Boston, US",
+   "based_zh": "美国波士顿",
+   "people": [
+    "Rébecca Kleinberger"
+   ]
+  },
+  {
+   "id": "interactive-organisms-lab",
+   "name": "Interactive Organisms Lab (UC Davis)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "biohybrid",
+    "mth"
+   ],
+   "description": "Katia Vega's lab treats the body and living systems as computing platforms: biocosmetic sensing interfaces, biosensing from animal biofluids and growable interfaces made from bio-based materials.",
+   "description_zh": "Katia Vega 的实验室把身体和活体系统当作计算平台：生物化妆品传感界面、基于动物体液的生物传感，以及用生物基材料“长出来”的界面。",
+   "url": "https://katiavega.com/",
+   "based": "Davis, US",
+   "based_zh": "美国戴维斯",
+   "people": [
+    "Katia Vega"
+   ]
+  },
+  {
+   "id": "interactive-technologies-institute",
+   "name": "Interactive Technologies Institute (ITI/LARSyS)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "HCI research centre in Lisbon and Madeira that studies relationships between technology, humans and ecosystems; it runs an Interspecies Research Studio and projects on landscapes, oceans and human–nature relations.",
+   "description_zh": "位于里斯本和马德拉的人机交互研究中心，研究技术、人与生态系统之间的关系；设有“跨物种研究工作室”，开展关于景观、海洋和人与自然关系的项目。",
+   "url": "https://iti.larsys.pt/",
+   "image": "https://groups.tecnico.ulisboa.pt/~iti.daemon/wp-content/uploads/2023/06/1200-x-628.jpg",
+   "based": "Lisbon and Funchal, Portugal",
+   "based_zh": "葡萄牙里斯本与丰沙尔",
+   "people": [
+    "Valentina Nisi",
+    "Nuno Jardim Nunes"
+   ]
   },
   {
    "id": "ibol",
@@ -132164,6 +133507,23 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "isaz-international-society-for-anthrozoology",
+   "name": "International Society for Anthrozoology (ISAZ)",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "aci",
+    "mth"
+   ],
+   "description": "Professional society, founded in 1991, for researchers of human–animal interactions and relationships; it publishes the journal Anthrozoös and holds an annual conference.",
+   "description_zh": "1991 年成立的专业学会，面向研究人与动物互动及关系的学者，出版期刊《Anthrozoös》并举办年会。",
+   "url": "https://isaz.net/",
+   "image": "https://cdn.firespring.com/images/5fd2f544-1e5c-4444-a912-e8263e322488.png",
+   "founded": 1991
+  },
+  {
    "id": "isae",
    "name": "International Society for Applied Ethology",
    "type": "network",
@@ -132195,6 +133555,23 @@
    "image": "https://alife.org/wp-content/uploads/2025/08/AEDU.png",
    "based": "Online",
    "based_zh": "线上"
+  },
+  {
+   "id": "international-society-for-biosemiotic-studies",
+   "name": "International Society for Biosemiotic Studies",
+   "type": "network",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Society, founded in 2005, for biosemiotics, the study of signs and meaning-making in living systems from cells to animals; it holds the annual Gatherings in Biosemiotics.",
+   "description_zh": "2005 年成立的生物符号学学会，研究从细胞到动物的生命系统中的符号与意义生成，每年举办“生物符号学聚会”。",
+   "url": "https://www.biosemiotics.org/",
+   "image": "https://www.biosemiotics.org/images/og-image.png",
+   "founded": 2005
   },
   {
    "id": "infom",
@@ -132362,6 +133739,22 @@
    "based_zh": "英国（UKCEH 生物记录中心）"
   },
   {
+   "id": "isle-journal",
+   "name": "ISLE: Interdisciplinary Studies in Literature and Environment",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Quarterly journal of ASLE, published by Oxford University Press, covering ecocriticism, environmental humanities and animal studies.",
+   "description_zh": "ASLE 的季刊，由牛津大学出版社出版，涵盖生态批评、环境人文与动物研究。",
+   "url": "https://www.asle.org/research-write/isle-journal/",
+   "image": "https://www.asle.org/wp-content/uploads/2023/04/isle_30_1cover.jpeg",
+   "founded": 1993
+  },
+  {
    "id": "isnsce",
    "name": "ISNSCE and the DNA Computing Conference",
    "type": "event",
@@ -132473,6 +133866,42 @@
    ]
   },
   {
+   "id": "journal-of-posthuman-studies",
+   "name": "Journal of Posthuman Studies",
+   "type": "media",
+   "themes": [
+    "futures",
+    "digital-minds"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Penn State University Press journal, edited by Stefan Lorenz Sorgner, on what it means to be human amid technological, scientific and cultural change, covering posthumanism and transhumanism.",
+   "description_zh": "宾州州立大学出版社的期刊，由 Stefan Lorenz Sorgner 主编，探讨技术、科学与文化变迁中“人”意味着什么，涵盖后人类主义与超人类主义。",
+   "url": "https://www.psupress.org/journals/jnls_JPHS.html",
+   "image": "https://www.psupress.org/journals/images/img_SM_JPHS.jpg",
+   "founded": 2017,
+   "people": [
+    "Stefan Lorenz Sorgner"
+   ]
+  },
+  {
+   "id": "journal-of-posthumanism",
+   "name": "Journal of Posthumanism",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Multilingual open-access journal from Transnational Press London publishing posthumanist work across social sciences, humanities, arts, medicine and STEM.",
+   "description_zh": "Transnational Press London 出版的多语种开放获取期刊，发表跨社会科学、人文、艺术、医学与理工领域的后人类主义研究。",
+   "url": "https://posthumanism.co.uk/jp",
+   "image": "https://posthumanism.co.uk/public/journals/1/JP2025-frontcover2.jpg",
+   "founded": 2021
+  },
+  {
    "id": "journey-north",
    "name": "Journey North",
    "type": "network",
@@ -132527,6 +133956,27 @@
    "url": "https://www.birds.cornell.edu/ccb/",
    "based": "Ithaca, New York, US",
    "based_zh": "伊萨卡，纽约州，美国"
+  },
+  {
+   "id": "kakehi-lab",
+   "name": "Kakehi Lab (University of Tokyo)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "biodesign"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Yasuaki Kakehi's material experience design lab makes interactive works with materials, water and living plants, such as Sensus Pond, Algaphon and cybernetic plants for botanical gardens.",
+   "description_zh": "筧康明的材料体验设计实验室，用材料、水和活体植物制作交互作品，例如 Sensus Pond、Algaphon 以及植物园中的控制论植物。",
+   "url": "https://xlab.iii.u-tokyo.ac.jp/",
+   "image": "https://xlab.iii.u-tokyo.ac.jp/wp-content/uploads/lab_.jpg",
+   "based": "Tokyo, Japan",
+   "based_zh": "日本东京",
+   "people": [
+    "Yasuaki Kakehi"
+   ]
   },
   {
    "id": "kapelica-gallery",
@@ -132652,6 +134102,45 @@
    "founded": 2002
   },
   {
+   "id": "kth-environmental-humanities-laboratory",
+   "name": "KTH Environmental Humanities Laboratory",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Environmental humanities lab at KTH Royal Institute of Technology in Stockholm, set up in 2011, that brings historians, artists and scientists together on the Anthropocene, environmental justice and the future of the planet.",
+   "description_zh": "斯德哥尔摩皇家理工学院的环境人文实验室，2011 年成立，汇聚历史学家、艺术家和科学家研究人类世、环境正义与地球未来。",
+   "url": "https://www.kth.se/ehl",
+   "image": "https://www.kth.se/polopoly_fs/1.1235689.1678184458!/image/ebba-thoresson-O9vsfZq8UWw-unsplash.jpg",
+   "based": "Stockholm, Sweden",
+   "based_zh": "瑞典斯德哥尔摩",
+   "founded": 2011,
+   "people": [
+    "Sverker Sörlin"
+   ]
+  },
+  {
+   "id": "ucla-lens",
+   "name": "Laboratory for Environmental Narrative Strategies (LENS, UCLA)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Incubator at UCLA's Institute of the Environment and Sustainability for research and creative work on environmental storytelling, media and communication for sustainability and environmental justice.",
+   "description_zh": "加州大学洛杉矶分校环境与可持续研究所下的孵化平台，支持关于环境叙事、媒介与传播的研究与创作，服务于可持续与环境正义。",
+   "url": "https://www.ioes.ucla.edu/lens/",
+   "image": "https://www.ioes.ucla.edu/wp-content/uploads/2021/09/culturesbiodiversity_animal_land_mountain_lion.webp",
+   "based": "Los Angeles, US",
+   "based_zh": "美国洛杉矶",
+   "found_via": "https://en.wikipedia.org/wiki/Environmental_humanities"
+  },
+  {
    "id": "lawyers-for-nature",
    "name": "Lawyers for Nature",
    "type": "nonprofit",
@@ -132743,6 +134232,21 @@
    "found_via": "https://www.xprize.org/prizes/rainforest"
   },
   {
+   "id": "limits-computing-within-limits",
+   "name": "LIMITS – Workshop on Computing within Limits",
+   "type": "event",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Annual workshop since 2015 on computing in a world of ecological, material and economic limits, a venue for degrowth, collapse-informed and more-than-human computing research.",
+   "description_zh": "自 2015 年起的年度研讨会，关注在生态、物质和经济有限的世界中如何做计算，是去增长、面向崩溃与超越人类的计算研究的交流场合。",
+   "url": "https://computingwithinlimits.org/",
+   "founded": 2015
+  },
+  {
    "id": "living-architecture-h2020",
    "name": "Living Architecture (EU project)",
    "type": "research",
@@ -132809,6 +134313,28 @@
    "people": [
     "Tony Prescott",
     "Paul Verschure"
+   ]
+  },
+  {
+   "id": "cu-boulder-living-matter-lab",
+   "name": "Living Matter Lab (CU Boulder ATLAS)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "biohybrid",
+    "mth"
+   ],
+   "description": "Mirela Alistar's lab in the ATLAS Institute builds open, low-cost tools such as digital microfluidic biochips so people can work with their own biology and microbiome, and does HCI research with living materials such as kombucha cultures.",
+   "description_zh": "Mirela Alistar 在 ATLAS 研究院的实验室，开发数字微流控生物芯片等开放、低成本的工具，让人们能处理自己的生物与微生物组信息，并用康普茶菌膜等活体材料开展人机交互研究。",
+   "url": "https://www.colorado.edu/atlas/living-matter-lab",
+   "image": "https://www.colorado.edu/atlas/sites/default/files/styles/focal_image_wide/public/callout/alganyl.jpeg?h=19714576&itok=YBfZpygx",
+   "based": "Boulder, US",
+   "based_zh": "美国博尔德",
+   "people": [
+    "Mirela Alistar"
    ]
   },
   {
@@ -132884,6 +134410,23 @@
    "people": [
     "Carole Collet"
    ]
+  },
+  {
+   "id": "bristol-ma-environmental-humanities",
+   "name": "MA Environmental Humanities (University of Bristol)",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Interdisciplinary master's at Bristol that combines environmental history with literature and culture to study how human relationships with the environment are shaped by behaviour, beliefs and structures.",
+   "description_zh": "布里斯托大学的跨学科硕士课程，结合环境史与文学文化研究，探讨人与环境的关系如何被行为、信念和制度塑造。",
+   "url": "https://www.bristol.ac.uk/study/postgraduate/taught/ma-environmental-humanities/",
+   "image": "https://www.bristol.ac.uk/media-library/sites/study/postgraduate/images/programme/arts-ma-environmental-humanities.jpg",
+   "based": "Bristol, UK",
+   "based_zh": "英国布里斯托"
   },
   {
    "id": "macaulay-library",
@@ -133122,6 +134665,26 @@
    ]
   },
   {
+   "id": "matters-of-activity",
+   "name": "Matters of Activity (Cluster of Excellence, HU Berlin)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "Interdisciplinary Cluster of Excellence at Humboldt-Universität zu Berlin on a new culture of materials, where biology and technology, mind and material, nature and culture intertwine; projects include active materials and marine reef prototypes.",
+   "description_zh": "柏林洪堡大学的跨学科卓越集群，探索一种新的材料文化，其中生物与技术、心智与物质、自然与文化相互交织；项目包括活性材料和海洋礁体原型。",
+   "url": "https://www.matters-of-activity.de/en/",
+   "image": "https://www.matters-of-activity.de/images/cover_image_large.jpg?w=1600",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "founded": 2019
+  },
+  {
    "id": "maxwell-biosystems",
    "name": "MaxWell Biosystems",
    "type": "company",
@@ -133287,6 +134850,26 @@
     "Paco Calvo"
    ],
    "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "nottingham-mixed-reality-lab",
+   "name": "Mixed Reality Laboratory (University of Nottingham)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Interdisciplinary lab of computer scientists, artists and social scientists known for performance-led research with Blast Theory; recent multispecies work includes Cat Royale, a robot that played with cats, and studies of trust and ethics in animal-centred robotics.",
+   "description_zh": "由计算机科学家、艺术家和社会科学家组成的跨学科实验室，以与 Blast Theory 合作的表演式研究闻名；近期的多物种研究包括让机器人与猫玩耍的《Cat Royale》，以及以动物为中心的机器人中的信任与伦理研究。",
+   "url": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/",
+   "image": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/mastheads/thresholds-cropped-950x300.png",
+   "based": "Nottingham, UK",
+   "based_zh": "英国诺丁汉",
+   "people": [
+    "Steve Benford"
+   ]
   },
   {
    "id": "modern-meadow",
@@ -133459,6 +135042,48 @@
    "found_via": "https://sentientfutures.ai/"
   },
   {
+   "id": "qut-more-than-human-futures",
+   "name": "More-than-Human Futures (QUT)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research group in QUT's Creative Industries Faculty that works on more-than-human smart cities, urban governance and design; its members wrote the book Designing More-than-Human Smart Cities (2024).",
+   "description_zh": "昆士兰科技大学创意产业学院的研究组，研究超越人类的智慧城市、城市治理与设计；成员著有《Designing More-than-Human Smart Cities》（2024）。",
+   "url": "https://research.qut.edu.au/morethanhuman/",
+   "image": "https://research.qut.edu.au/morethanhuman/wp-content/uploads/sites/294/2020/07/more-than-human-heroimage-scaled.jpg",
+   "based": "Brisbane, Australia",
+   "based_zh": "澳大利亚布里斯班",
+   "people": [
+    "Marcus Foth"
+   ]
+  },
+  {
+   "id": "more-than-human-lab",
+   "name": "More-Than-Human Lab (Anne Galloway)",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Founded by Anne Galloway at Victoria University of Wellington, the lab did design research and multispecies ethnography on how people live with sheep, other animals, plants and places. The site now serves as an archive of her writing, photography and design work.",
+   "description_zh": "由 Anne Galloway 在惠灵顿维多利亚大学创立，以设计研究和多物种民族志探讨人如何与羊、其他动物、植物和地方共同生活。网站现为她的写作、摄影和设计研究档案。",
+   "url": "https://www.morethanhumanlab.nz/",
+   "image": "https://www.morethanhumanlab.nz/wp-content/uploads/2024/03/423F9134-2BE9-4931-91D2-25C5C22F4956_1_105_c.jpeg",
+   "based": "Wellington, New Zealand",
+   "based_zh": "新西兰惠灵顿",
+   "people": [
+    "Anne Galloway"
+   ]
+  },
+  {
    "id": "nyu-more-than-human-life",
    "name": "More-Than-Human Life (MOTH) Program, NYU Law",
    "type": "research",
@@ -133479,6 +135104,28 @@
     "César Rodríguez-Garavito"
    ],
    "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "morphing-matter-lab",
+   "name": "Morphing Matter Lab (UC Berkeley)",
+   "type": "research",
+   "themes": [
+    "biodesign",
+    "mth-design"
+   ],
+   "fields": [
+    "bio",
+    "mth"
+   ],
+   "description": "Lining Yao's lab (formerly at Carnegie Mellon) designs shape-changing materials, many inspired by or made from living and biological matter, such as seed-inspired self-burying carriers.",
+   "description_zh": "姚力宁的实验室（原在卡内基梅隆大学）设计会变形的材料，许多受活体与生物物质启发或由其制成，例如仿种子的自埋载体。",
+   "url": "https://morphingmatter.org/",
+   "image": "http://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/64f387e9ca64cb7707327258/1693681641818/MML_logo-01.png?format=1500w",
+   "based": "Berkeley, US",
+   "based_zh": "美国伯克利",
+   "people": [
+    "Lining Yao"
+   ]
   },
   {
    "id": "mosquito-alert",
@@ -133537,6 +135184,29 @@
    "url": "https://mu.nl/",
    "based": "Eindhoven, NL",
    "based_zh": "埃因霍温，荷兰"
+  },
+  {
+   "id": "multispecies-justice-sei",
+   "name": "Multispecies Justice (Sydney Environment Institute)",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research program at the University of Sydney that develops a theory of justice including other animals, plants, forests, rivers and ecosystems, and applies it to law, economics, urban transitions and decision-making.",
+   "description_zh": "悉尼大学的研究项目，发展一种把其他动物、植物、森林、河流与生态系统纳入其中的正义理论，并应用于法律、经济、城市转型与决策。",
+   "url": "https://www.sydney.edu.au/sydney-environment-institute/our-research/environmental-justices/multispecies-justice.html",
+   "image": "https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/our-impact/echidna-multispecies-justice-page,-2025-.jpg",
+   "based": "Sydney, Australia",
+   "based_zh": "澳大利亚悉尼",
+   "people": [
+    "Danielle Celermajer",
+    "David Schlosberg",
+    "Christine Winter"
+   ]
   },
   {
    "id": "mycotech-lab",
@@ -133839,6 +135509,39 @@
    ]
   },
   {
+   "id": "new-materialism-cost-action",
+   "name": "New Materialism: How Matter Comes to Matter (COST Action IS1307)",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "European research network (2014–2018) that connected new materialist scholars across disciplines; its outputs include the online New Materialism Almanac of key concepts.",
+   "description_zh": "欧洲研究网络（2014–2018），联结各学科的新物质主义学者；成果包括在线“新物质主义年鉴”，收录核心概念。",
+   "url": "https://newmaterialism.eu/",
+   "image": "https://newmaterialism.eu/assets/img/nm.jpg",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "founded": 2014
+  },
+  {
+   "id": "new-materialisms-book-series",
+   "name": "New Materialisms (Edinburgh University Press)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book series that serves as a hub for new materialist studies of matter, bodies, technology and ecology.",
+   "description_zh": "丛书，作为新物质主义研究的平台，探讨物质、身体、技术与生态。",
+   "url": "https://edinburghuniversitypress.com/series-new-materialisms",
+   "image": "https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399570251_1.jpg"
+  },
+  {
    "id": "new-york-declaration-animal-consciousness",
    "name": "New York Declaration on Animal Consciousness",
    "type": "media",
@@ -133984,6 +135687,22 @@
    "creator_id": "nonhuman-rights-project"
   },
   {
+   "id": "nordes",
+   "name": "Nordes – Nordic Design Research Conference",
+   "type": "event",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Biennial Nordic design research conference, running since 2005, that has become a main venue for more-than-human, ecological and participatory design research.",
+   "description_zh": "北欧设计研究双年会，自 2005 年举办，已成为超越人类的设计、生态设计与参与式设计研究的重要场合。",
+   "url": "https://nordes.org/",
+   "image": "https://nordes.org/wp-content/uploads/2015/10/banner_940x200.png",
+   "founded": 2005
+  },
+  {
    "id": "nordic-alliance-rights-of-nature",
    "name": "Nordic Alliance for the Rights of Nature (Nature & Democracy)",
    "type": "network",
@@ -134110,6 +135829,21 @@
    "found_via": "https://www.interspecies.io/"
   },
   {
+   "id": "ocean-archive",
+   "name": "Ocean-Archive.org",
+   "type": "database",
+   "themes": [
+    "bioart",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "TBA21–Academy's online archive for decentralised research and knowledge-sharing about the ocean, collecting artworks, films, talks and fieldwork.",
+   "description_zh": "TBA21–Academy 的在线档案，用于关于海洋的去中心化研究与知识分享，收录艺术作品、影片、讲座和田野资料。",
+   "url": "https://ocean-archive.org/"
+  },
+  {
    "id": "officina-corpuscoli",
    "name": "Officina Corpuscoli",
    "type": "company",
@@ -134216,6 +135950,26 @@
     "Anthony Di Franco"
    ],
    "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "newcastle-open-lab",
+   "name": "Open Lab (Newcastle University)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Newcastle University's interaction design and digital civics lab; its researchers have run more-than-human participation projects on smart cities and urban futures, such as the Ministry of Multispecies Communications.",
+   "description_zh": "纽卡斯尔大学的交互设计与数字公民研究实验室，研究者开展过关于智慧城市与城市未来的“超越人类的参与”项目，如“多物种通讯部”（Ministry of Multispecies Communications）。",
+   "url": "https://openlab.ncl.ac.uk/",
+   "image": "https://openlab.ncl.ac.uk/static/opengraph.png",
+   "based": "Newcastle upon Tyne, UK",
+   "based_zh": "英国泰恩河畔纽卡斯尔",
+   "people": [
+    "Rachel Clarke"
+   ]
   },
   {
    "id": "open-paws",
@@ -134355,6 +136109,23 @@
    "founded": 1982
   },
   {
+   "id": "oslo-school-of-environmental-humanities",
+   "name": "Oslo School of Environmental Humanities (OSEH)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research and teaching initiative of the University of Oslo's Faculty of Humanities (2019–2023) that built environmental humanities across history, literature, philosophy and religion.",
+   "description_zh": "奥斯陆大学人文学院的研究与教学计划（2019–2023），在历史、文学、哲学与宗教研究中建立环境人文方向。",
+   "url": "https://www.hf.uio.no/ikos/english/research/center/oseh/",
+   "based": "Oslo, Norway",
+   "based_zh": "挪威奥斯陆",
+   "founded": 2019
+  },
+  {
    "id": "oxford-centre-animal-ethics",
    "name": "Oxford Centre for Animal Ethics",
    "type": "research",
@@ -134415,6 +136186,20 @@
    "based": "San Francisco, US / Ecuador",
    "based_zh": "旧金山，美国 / 厄瓜多尔",
    "founded": 1995
+  },
+  {
+   "id": "palgrave-studies-in-animals-and-literature",
+   "name": "Palgrave Studies in Animals and Literature (book series)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Palgrave Macmillan book series on the 'animal turn' in literary studies and the ethical and philosophical questions it raises.",
+   "description_zh": "Palgrave Macmillan 丛书，关注文学研究中的“动物转向”及其引发的伦理和哲学问题。",
+   "url": "https://link.springer.com/series/14649"
   },
   {
    "id": "park-rx-america",
@@ -134521,6 +136306,74 @@
    "creator_id": "nonhuman-nonsense"
   },
   {
+   "id": "planetary-praxis",
+   "name": "Planetary Praxis (University of Cambridge)",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "citizen-science"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Jennifer Gabrys's research group on social, digital and environmental justice through practice-based work, following earlier projects Citizen Sense and Smart Forests on sensing and environmental data.",
+   "description_zh": "Jennifer Gabrys 领导的研究组，以实践为基础研究社会、数字与环境正义，延续了她此前关于环境感知与数据的 Citizen Sense 和 Smart Forests 项目。",
+   "url": "https://planetarypraxis.org/",
+   "image": "https://planetarypraxis.org/media/pages/home/01a031ed7d-1644950736/air-quality-garden-walking-tour-visits-the-pop-up-garden-developed-through-the-city-in-bloom-initiative-1-800x800.jpg",
+   "based": "Cambridge, UK",
+   "based_zh": "英国剑桥",
+   "people": [
+    "Jennifer Gabrys"
+   ]
+  },
+  {
+   "id": "plant-humanities-initiative",
+   "name": "Plant Humanities Initiative (Dumbarton Oaks)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Mellon-funded programme at Dumbarton Oaks (Harvard) that studies the cultural histories of plants through fellowships, summer programmes and digital tools.",
+   "description_zh": "哈佛大学敦巴顿橡树园在梅隆基金会资助下的项目，通过研究员计划、暑期项目和数字工具研究植物的文化史。",
+   "url": "https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative",
+   "based": "Washington, DC, US",
+   "based_zh": "美国华盛顿特区"
+  },
+  {
+   "id": "plant-humanities-lab",
+   "name": "Plant Humanities Lab",
+   "type": "database",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Open digital platform from Dumbarton Oaks and JSTOR Labs with illustrated narratives on the cultural histories of individual plants and their influence on human societies.",
+   "description_zh": "敦巴顿橡树园与 JSTOR Labs 的开放数字平台，以图文叙事讲述单种植物的文化史及其对人类社会的影响。",
+   "url": "https://lab.plant-humanities.org/",
+   "image": "https://res.cloudinary.com/dmceci9t1/image/fetch/w_1200,c_limit/https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg"
+  },
+  {
+   "id": "plant-perspectives-journal",
+   "name": "Plant Perspectives (journal)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "White Horse Press journal on human–plant relations across the humanities, social sciences and plant sciences, e.g. issues on more-than-human tropical plant histories.",
+   "description_zh": "White Horse Press 出版的期刊，跨人文、社会科学和植物科学研究人与植物的关系，例如关于超越人类的热带植物史的专题。",
+   "url": "https://www.whp-journals.co.uk/PP",
+   "image": "https://www.whp-journals.co.uk/public/journals/7/cover_issue_180_en_US.png",
+   "founded": 2024
+  },
+  {
    "id": "policy-for-animals",
    "name": "Policy for Animals",
    "type": "nonprofit",
@@ -134573,6 +136426,25 @@
     "Hannes Hulstaert"
    ],
    "creator_id": "post-carbon-lab"
+  },
+  {
+   "id": "posthumanities-book-series",
+   "name": "Posthumanities (University of Minnesota Press)",
+   "type": "media",
+   "themes": [
+    "futures",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book series edited by Cary Wolfe since 2007 that brought key posthumanist texts into English, including Haraway's When Species Meet and works by Despret, Serres and Uexküll.",
+   "description_zh": "Cary Wolfe 自 2007 年起主编的丛书，出版了哈拉维《When Species Meet》以及德普雷、塞尔、于克斯屈尔等人的重要后人类主义著作英文版。",
+   "url": "https://www.upress.umn.edu/search-grid/?series=posthumanities",
+   "founded": 2007,
+   "people": [
+    "Cary Wolfe"
+   ]
   },
   {
    "id": "potsdam-institute-climate-impact",
@@ -134796,6 +136668,48 @@
    ]
   },
   {
+   "id": "qut-design-lab",
+   "name": "QUT Design Lab",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design research centre at Queensland University of Technology that hosts Margot Brereton's interaction design work on nature and community technologies and Marcus Foth's urban informatics group.",
+   "description_zh": "昆士兰科技大学的设计研究中心，涵盖 Margot Brereton 关于自然与社区技术的交互设计研究，以及 Marcus Foth 的城市信息学小组。",
+   "url": "https://research.qut.edu.au/designlab/",
+   "image": "https://research.qut.edu.au/designlab/wp-content/uploads/sites/2/2021/09/indigenous-art-scaled.jpg",
+   "based": "Brisbane, Australia",
+   "based_zh": "澳大利亚布里斯班",
+   "people": [
+    "Margot Brereton",
+    "Marcus Foth"
+   ]
+  },
+  {
+   "id": "rachel-carson-center",
+   "name": "Rachel Carson Center for Environment and Society (LMU Munich)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International research centre for the environmental humanities founded in 2009 by LMU Munich and the Deutsches Museum; it hosts fellows, publishes RCC Perspectives and runs the Environment & Society Portal.",
+   "description_zh": "由慕尼黑大学与德意志博物馆于 2009 年创立的国际环境人文研究中心，接待访问学者，出版《RCC Perspectives》，并运营“环境与社会门户”。",
+   "url": "https://www.sprachlit.lmu.de/carsoncenter/en/",
+   "image": "https://cms-cdn.lmu.de/media/13-sprachlit/rachel-carson-center/rcc-web-images/dsc07331_8m_2_1_format_m.jpg",
+   "based": "Munich, Germany",
+   "based_zh": "德国慕尼黑",
+   "founded": 2009,
+   "people": [
+    "Christof Mauch"
+   ]
+  },
+  {
    "id": "rainforest-connection",
    "name": "Rainforest Connection (RFCx)",
    "type": "nonprofit",
@@ -134834,6 +136748,25 @@
    "image": "https://rainforestfoundation.org/wp-content/uploads/San-Francisco-de-Yahuma-forest-monitor.jpg",
    "based": "New York, US",
    "based_zh": "纽约，美国"
+  },
+  {
+   "id": "reality-design-lab",
+   "name": "Reality Design Lab",
+   "type": "research",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Botao Amber Hu's design research lab working on mixed reality, speculative and more-than-human design; it runs this More-than-Human Inspire gallery.",
+   "description_zh": "胡博涛（Botao Amber Hu）的设计研究实验室，研究混合现实、思辨设计和超越人类的设计；本“More-than-Human Inspire”图库即由其维护。",
+   "url": "https://reality.design/",
+   "image": "https://reality.design/static/images/twitter-card.png",
+   "people": [
+    "Botao Amber Hu"
+   ]
   },
   {
    "id": "rechtsperson-reuss",
@@ -134908,6 +136841,130 @@
    "founded": 1996
   },
   {
+   "id": "rsd-systemic-design-symposium",
+   "name": "Relating Systems Thinking and Design (RSD) Symposium",
+   "type": "event",
+   "themes": [
+    "mth-design",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Annual systemic design symposium of the Systemic Design Association, with an open repository of over 1,400 proceedings papers on ecological and social systems change.",
+   "description_zh": "系统设计协会主办的年度系统设计研讨会，并提供收录 1400 多篇论文的开放知识库，涉及生态与社会系统变革。",
+   "url": "https://rsdsymposium.org/",
+   "image": "https://rsdsymposium.org/wp-content/uploads/2026/07/RSD15-SQUARE-ASSETS-RSDX.png",
+   "founded": 2012
+  },
+  {
+   "id": "relations-beyond-anthropocentrism",
+   "name": "Relations: Beyond Anthropocentrism",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International open-access journal on environmental philosophy and non-anthropocentric thinking in the humanities and natural sciences.",
+   "description_zh": "国际开放获取期刊，发表环境哲学以及人文与自然科学中的非人类中心主义思考。",
+   "url": "https://www.ledonline.it/index.php/relations",
+   "founded": 2013
+  },
+  {
+   "id": "bath-spa-research-centre-environmental-humanities",
+   "name": "Research Centre for Environmental Humanities (Bath Spa University)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Bath Spa University centre where humanities scholars, artists, writers and scientists work with communities on ethical, creative and historically informed responses to environmental problems; it also runs an MA in Environmental Humanities.",
+   "description_zh": "巴斯斯巴大学的研究中心，人文学者、艺术家、作家和科学家与社区合作，对环境问题做出合乎伦理、富有创意、具历史意识的回应；另开设环境人文硕士课程。",
+   "url": "https://www.bathspa.ac.uk/research-and-enterprise/research-centres/environmental-humanities/",
+   "image": "https://www.bathspa.ac.uk/media/bathspaacuk/be-bath-spa/Newton-Park-tree-over-lake.jpg",
+   "based": "Bath, UK",
+   "based_zh": "英国巴斯"
+  },
+  {
+   "id": "research-institute-for-humanity-and-nature",
+   "name": "Research Institute for Humanity and Nature (RIHN)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "indigenous"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "National institute in Kyoto founded in 2001 that runs transdisciplinary projects on global environmental problems as problems of the relationship between humans and nature.",
+   "description_zh": "2001 年在京都成立的国立研究所，把全球环境问题视为人与自然关系的问题，开展跨学科研究项目。",
+   "url": "https://www.chikyu.ac.jp/rihn_e/",
+   "image": "https://www.chikyu.ac.jp/rihn/common/img/thumb_fb.png",
+   "based": "Kyoto, Japan",
+   "based_zh": "日本京都",
+   "founded": 2001
+  },
+  {
+   "id": "vu-research-master-environmental-humanities",
+   "name": "Research Master Environmental Humanities (VU Amsterdam)",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Two-year research master's at Vrije Universiteit Amsterdam that trains students to study environmental questions with methods from history, literature, philosophy and the arts.",
+   "description_zh": "阿姆斯特丹自由大学的两年制研究型硕士，培养学生运用历史、文学、哲学与艺术的方法研究环境问题。",
+   "url": "https://vu.nl/en/education/master/humanities-research-environmental-humanities",
+   "image": "https://assets-eu-01.kc-usercontent.com:443/ff31ad68-341e-015e-fb52-24df7a00ecea/dc2c12a4-a640-4205-898d-0053481ce8ee/TS_MA_Humanities_Hero1_2200x720.jpg",
+   "based": "Amsterdam, Netherlands",
+   "based_zh": "荷兰阿姆斯特丹"
+  },
+  {
+   "id": "research-through-design-conference",
+   "name": "Research Through Design (RTD) Conference",
+   "type": "event",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Biennial conference, first held in 2013, where design research is presented through artefacts and exhibitions; it regularly features speculative and more-than-human design work.",
+   "description_zh": "2013 年首届举办的双年会，以物件和展览呈现设计研究，常有思辨与超越人类的设计作品。",
+   "url": "https://researchthroughdesign.org/",
+   "image": "https://researchthroughdesign.org/content/images/2026/09/rtd-full.webp",
+   "founded": 2013
+  },
+  {
+   "id": "mit-media-lab-responsive-environments",
+   "name": "Responsive Environments Group (MIT Media Lab)",
+   "type": "research",
+   "themes": [
+    "conservation-tech",
+    "mth-design"
+   ],
+   "fields": [
+    "mth",
+    "hni"
+   ],
+   "description": "Joseph Paradiso's group builds sensor networks that mediate how people perceive places; with the Living Observatory it instrumented the restored Tidmarsh wetland so visitors can hear and explore the ecosystem remotely.",
+   "description_zh": "Joseph Paradiso 领导的小组开发传感网络，改变人们感知场所的方式；与 Living Observatory 合作在修复后的 Tidmarsh 湿地布设传感器，让人们远程聆听和探索生态系统。",
+   "url": "https://www.media.mit.edu/groups/responsive-environments/overview/",
+   "image": "https://dam-prod.media.mit.edu/thumb/2016/10/17/cattails.jpg.1400x1400.jpg",
+   "based": "Cambridge, MA, US",
+   "based_zh": "美国马萨诸塞州剑桥",
+   "people": [
+    "Joseph Paradiso"
+   ]
+  },
+  {
    "id": "restor",
    "name": "Restor",
    "type": "database",
@@ -134949,6 +137006,24 @@
     "Bob Fischer"
    ],
    "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "rethinking-environment-doctoral-program",
+   "name": "Rethinking Environment International Doctorate Program",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Bavarian doctoral programme in the environmental humanities run jointly by the University of Augsburg and LMU Munich; its second cohort (2025–2029) has 12 PhD students.",
+   "description_zh": "巴伐利亚的环境人文国际博士项目，由奥格斯堡大学与慕尼黑大学合办；第二期（2025–2029）有 12 名博士生。",
+   "url": "https://rethinking-environment-idk.de/",
+   "image": "https://rethinking-environment-idk.de/wp-content/uploads/IMG_2484-2-800x454.jpg",
+   "based": "Augsburg and Munich, Germany",
+   "based_zh": "德国奥格斯堡与慕尼黑",
+   "found_via": "https://www.sprachlit.lmu.de/carsoncenter/en/"
   },
   {
    "id": "lse-sentience-report-cephalopods-decapods",
@@ -135030,6 +137105,20 @@
    "based": "UK",
    "based_zh": "英国",
    "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "routledge-environmental-humanities-book-series",
+   "name": "Routledge Environmental Humanities (book series)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Large Routledge book series on environmental humanities topics from microplastics and extinction to climate and displacement.",
+   "description_zh": "Routledge 的大型环境人文丛书，主题涵盖微塑料、物种灭绝、气候与迁徙等。",
+   "url": "https://www.routledge.com/Routledge-Environmental-Humanities/book-series/REH"
   },
   {
    "id": "big-garden-birdwatch",
@@ -135523,6 +137612,39 @@
    "based_zh": "荷兰"
   },
   {
+   "id": "society-and-animals-journal",
+   "name": "Society & Animals (journal)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Brill journal founded in 1993 that publishes social science and humanities studies of human–nonhuman animal relations.",
+   "description_zh": "Brill 出版的期刊，1993 年创刊，发表关于人与非人动物关系的社会科学与人文研究。",
+   "url": "https://brill.com/view/journals/soan/soan-overview.xml",
+   "image": "https://brill.com/cover/covers/9005.jpg",
+   "founded": 1993
+  },
+  {
+   "id": "society-for-literature-science-and-the-arts",
+   "name": "Society for Literature, Science, and the Arts (SLSA)",
+   "type": "network",
+   "themes": [
+    "bioart",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Learned society for work between the humanities, sciences and arts, with an annual conference and the journal Configurations; a long-standing home for posthumanist and animal studies scholarship.",
+   "description_zh": "连接人文、科学与艺术的学会，举办年会并出版期刊《Configurations》，长期是后人类主义与动物研究学术的重要平台。",
+   "url": "https://litsciarts.org/",
+   "image": "https://litsciarts.org/wp-content/uploads/2026/09/cutting-new-college-2-765x460.png",
+   "founded": 1985
+  },
+  {
    "id": "soundbio-lab",
    "name": "SoundBio Lab",
    "type": "nonprofit",
@@ -135539,6 +137661,26 @@
    "based": "Seattle, US",
    "based_zh": "西雅图，美国",
    "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "speculative-life-cluster",
+   "name": "Speculative Life Research Cluster (Milieux, Concordia University)",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "biodesign",
+    "futures"
+   ],
+   "fields": [
+    "mth",
+    "bio"
+   ],
+   "description": "Research cluster at Concordia's Milieux Institute, with its own biolab, that studies how life is shaped by socio-technical practices through art, design, science and environmental humanities projects.",
+   "description_zh": "康考迪亚大学 Milieux 研究所的研究集群，设有生物实验室，通过艺术、设计、科学与环境人文项目研究生命如何被社会技术实践塑造。",
+   "url": "https://milieux.concordia.ca/cluster/speculative-life/",
+   "image": "https://milieux.concordia.ca/wp-content/uploads/2026/09/Untitled-September-22-2026-at-11.27.49-1.png",
+   "based": "Montréal, Canada",
+   "based_zh": "加拿大蒙特利尔"
   },
   {
    "id": "spiber",
@@ -135641,6 +137783,50 @@
    "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
   },
   {
+   "id": "studio-animal-aided-design",
+   "name": "Studio Animal-Aided Design",
+   "type": "company",
+   "themes": [
+    "mth-design",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Studio of landscape architect Thomas E. Hauck and ecologist Wolfgang W. Weisser that applies their Animal-Aided Design method, which treats animals as stakeholders and plans their life cycles into buildings and urban quarters.",
+   "description_zh": "景观建筑师 Thomas E. Hauck 与生态学家 Wolfgang W. Weisser 的工作室，运用他们提出的“动物辅助设计”方法，把动物视为利益相关者，把它们的生命周期规划进建筑和城市街区。",
+   "url": "https://animal-aided-design.de/",
+   "image": "https://animal-aided-design.de/wp-content/uploads/2026/06/Haus_des_Waldes_1.jpg",
+   "based": "Germany",
+   "based_zh": "德国",
+   "people": [
+    "Thomas E. Hauck",
+    "Wolfgang W. Weisser"
+   ]
+  },
+  {
+   "id": "studio-ossidiana",
+   "name": "Studio Ossidiana",
+   "type": "company",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Rotterdam architecture and design studio of Alessandra Covini and Giovanni Bellotti that designs spaces and objects for birds and other species alongside people, such as bird platforms and aviaries.",
+   "description_zh": "Alessandra Covini 与 Giovanni Bellotti 在鹿特丹的建筑与设计工作室，为鸟类等物种与人共同设计空间和物件，如鸟类平台与鸟舍。",
+   "url": "https://www.ossidiana.com/",
+   "based": "Rotterdam, Netherlands",
+   "based_zh": "荷兰鹿特丹",
+   "founded": 2015,
+   "people": [
+    "Alessandra Covini",
+    "Giovanni Bellotti"
+   ],
+   "creator_id": "studio-ossidiana"
+  },
+  {
    "id": "superflux",
    "name": "Superflux",
    "type": "company",
@@ -135702,6 +137888,29 @@
    "based_zh": "纽约，美国",
    "people": [
     "Suzanne Anker"
+   ]
+  },
+  {
+   "id": "sydney-environment-institute",
+   "name": "Sydney Environment Institute (University of Sydney)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Multidisciplinary institute at the University of Sydney on environmental justice, climate and sustainable futures; its Multispecies Justice project asks what justice means for nonhuman beings.",
+   "description_zh": "悉尼大学的跨学科研究所，研究环境正义、气候与可持续未来；其“多物种正义”项目探讨正义对非人存在意味着什么。",
+   "url": "https://www.sydney.edu.au/sydney-environment-institute/",
+   "image": "https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/hero-landing-page-images/ghost_gum_image_via_shutterstock_1037499214.jpg",
+   "based": "Sydney, Australia",
+   "based_zh": "澳大利亚悉尼",
+   "founded": 2012,
+   "people": [
+    "Danielle Celermajer",
+    "David Schlosberg"
    ]
   },
   {
@@ -135788,6 +137997,26 @@
    "found_via": "https://nonhumanminds.org/"
   },
   {
+   "id": "tba21-academy",
+   "name": "TBA21–Academy",
+   "type": "research",
+   "themes": [
+    "bioart",
+    "conservation-tech"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research and advocacy arm of TBA21 that uses art to build relationships with oceans and waters, through expeditions, residencies, commissions and the Ocean Space in Venice.",
+   "description_zh": "TBA21 的研究与倡导部门，以艺术建立人与海洋和水域的关系，形式包括考察、驻留、委托创作和威尼斯的 Ocean Space。",
+   "url": "https://tba21.org/academy",
+   "based": "Venice, Italy and Madrid, Spain",
+   "based_zh": "意大利威尼斯与西班牙马德里",
+   "people": [
+    "Markus Reymann"
+   ]
+  },
+  {
    "id": "te-hiku-media",
    "name": "Te Hiku Media",
    "type": "nonprofit",
@@ -135840,6 +138069,27 @@
    "based_zh": "Te Urewera，新西兰"
   },
   {
+   "id": "tech4animals-lab",
+   "name": "Tech4Animals Lab (University of Haifa)",
+   "type": "research",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Anna Zamansky's lab builds animal-centred AI that reads behaviour, emotion and pain in dogs, cats, horses and other animals to support welfare and veterinary decisions.",
+   "description_zh": "Anna Zamansky 的实验室开发以动物为中心的 AI，识别狗、猫、马等动物的行为、情绪和疼痛，用于支持福利与兽医决策。",
+   "url": "https://tech4animals.haifa.ac.il/",
+   "image": "https://tech4animals.haifa.ac.il/wp-content/uploads/2025/07/DOG3.png",
+   "based": "Haifa, Israel",
+   "based_zh": "以色列海法",
+   "people": [
+    "Anna Zamansky"
+   ]
+  },
+  {
    "id": "tehanu",
    "name": "Tehanu",
    "type": "company",
@@ -135879,6 +138129,21 @@
    "based": "Montpellier, France",
    "based_zh": "蒙彼利埃，法国",
    "founded": 1999
+  },
+  {
+   "id": "terra-critica",
+   "name": "Terra Critica",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International humanities network that re-examines critical theory for a globally entangled, ecologically interdependent world, linked to new materialist and posthuman thought.",
+   "description_zh": "国际人文网络，在全球缠结、生态相互依存的条件下重新审视批判理论，与新物质主义和后人类思想相关。",
+   "url": "https://terracritica.net/",
+   "image": "https://terracritica.net/wp-content/uploads/sites/1126/2024/11/foto1terra.jpg"
   },
   {
    "id": "terrapin-bright-green",
@@ -136148,6 +138413,25 @@
    ]
   },
   {
+   "id": "multispecies-salon",
+   "name": "The Multispecies Salon",
+   "type": "media",
+   "themes": [
+    "bioart",
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Art and anthropology project led by Eben Kirksey, which began as a series of exhibitions and became the 2014 Duke book that helped establish multispecies ethnography; the website is its companion archive.",
+   "description_zh": "由 Eben Kirksey 主导的艺术与人类学项目，最初是一系列展览，后成为 2014 年杜克大学出版社的同名书，推动了多物种民族志的形成；网站是它的配套档案。",
+   "url": "https://www.multispecies-salon.org/",
+   "image": "https://i0.wp.com/www.multispecies-salon.org/working/wp-content/uploads/2014/01/multispecies-salon-tessa-farmer-new-crop.jpg?fit=1200%2C459&ssl=1",
+   "people": [
+    "Eben Kirksey"
+   ]
+  },
+  {
    "id": "risd-nature-lab",
    "name": "The Nature Lab (RISD)",
    "type": "research",
@@ -136226,6 +138510,27 @@
    "based_zh": "阿姆斯特丹，荷兰"
   },
   {
+   "id": "posthumanities-hub",
+   "name": "The Posthumanities Hub",
+   "type": "network",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Research network founded by Cecilia Åsberg at Linköping University (later also at KTH) for feminist posthumanities, environmental humanities and art-science work, e.g. on oceans and multispecies relations.",
+   "description_zh": "由 Cecilia Åsberg 在林雪平大学创立（后也设于皇家理工学院）的研究网络，从事女性主义后人文、环境人文和艺术-科学研究，如海洋与多物种关系。",
+   "url": "https://posthumanitieshub.net/",
+   "image": "https://posthumanitieshub.net/wp-content/uploads/2024/06/Posthuman-Yoast.jpg",
+   "based": "Linköping, Sweden",
+   "based_zh": "瑞典林雪平",
+   "founded": 2008,
+   "people": [
+    "Cecilia Åsberg"
+   ]
+  },
+  {
    "id": "safina-center",
    "name": "The Safina Center",
    "type": "nonprofit",
@@ -136283,6 +138588,23 @@
    "based_zh": "线上"
   },
   {
+   "id": "theory-in-the-new-humanities-series",
+   "name": "Theory in the New Humanities (Bloomsbury book series)",
+   "type": "media",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Bloomsbury Academic book series edited by Rosi Braidotti on posthuman, new materialist and other emerging theory in the humanities.",
+   "description_zh": "Rosi Braidotti 主编的 Bloomsbury Academic 丛书，出版人文学科中后人类、新物质主义等新兴理论著作。",
+   "url": "https://www.bloomsbury.com/uk/series/theory-in-the-new-humanities/",
+   "people": [
+    "Rosi Braidotti"
+   ]
+  },
+  {
    "id": "tierra-digna",
    "name": "Tierra Digna",
    "type": "nonprofit",
@@ -136319,6 +138641,29 @@
    "founded": 2019
   },
   {
+   "id": "transition-design-institute",
+   "name": "Transition Design Institute (Carnegie Mellon University)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Institute at CMU's School of Design that develops Transition Design, an approach to long-horizon, systems-level change for problems such as climate change and biodiversity loss; it runs a PhD track, podcast and conference.",
+   "description_zh": "卡内基梅隆大学设计学院的研究所，发展“转型设计”这一面向长期、系统层面变革的方法，应对气候变化、生物多样性丧失等问题；设有博士方向、播客和会议。",
+   "url": "https://transitiondesigninstitute.net/",
+   "image": "https://transitiondesigninstitute.net/wp-content/uploads/2025/03/TDI-Home_Hero1.jpg",
+   "based": "Pittsburgh, US",
+   "based_zh": "美国匹兹堡",
+   "people": [
+    "Terry Irwin",
+    "Gideon Kossoff"
+   ],
+   "found_via": "https://www.design.cmu.edu/news/transition-design-institute-website-launches"
+  },
+  {
    "id": "transnatural",
    "name": "Transnatural",
    "type": "research",
@@ -136336,6 +138681,25 @@
    "image": "https://transnatural.org/img/asset/YXNzZXRzL3NoZXJlX2luX21vdGlvbi9zcGhlcmVfaW5fbW90aW9uX3RyYW5zbmF0dXJhbDAxLmpwZw==?w=1600&fit=crop&s=c4bbe29057df823f3ecad1a21f007eb2",
    "based": "Amsterdam, NL",
    "based_zh": "阿姆斯特丹，荷兰"
+  },
+  {
+   "id": "trinity-centre-environmental-humanities",
+   "name": "Trinity Centre for Environmental Humanities (Trinity College Dublin)",
+   "type": "research",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Trinity College Dublin centre that treats the humanities as a resource for living with environmental change, with work on ocean history, animals and climate.",
+   "description_zh": "都柏林圣三一学院的研究中心，视人文学科为应对环境变化的资源，研究海洋史、动物与气候等议题。",
+   "url": "https://www.tcd.ie/tceh/",
+   "based": "Dublin, Ireland",
+   "based_zh": "爱尔兰都柏林",
+   "people": [
+    "Poul Holm"
+   ]
   },
   {
    "id": "oxford-uehiro-centre",
@@ -136356,6 +138720,27 @@
     "Julian Savulescu"
    ],
    "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "umea-institute-of-design",
+   "name": "Umeå Institute of Design",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Design school at Umeå University whose design research group (Johan Redström and others) works on design theory, speculative and more-than-human design and bio-based design.",
+   "description_zh": "于默奥大学的设计学院，其设计研究组（Johan Redström 等）研究设计理论、思辨设计、超越人类的设计和生物基设计。",
+   "url": "https://www.umu.se/en/umea-institute-of-design/",
+   "image": "https://www.umu.se/ubnoy/globalassets/mediaflow/img_7175.webp?width=1400&quality=90",
+   "based": "Umeå, Sweden",
+   "based_zh": "瑞典于默奥",
+   "founded": 1989,
+   "people": [
+    "Johan Redström"
+   ]
   },
   {
    "id": "uwe-unconventional-computing-lab",
@@ -136393,6 +138778,25 @@
    "based": "Wheathampstead, UK",
    "based_zh": "英国惠特汉普斯特德",
    "founded": 1926
+  },
+  {
+   "id": "cu-boulder-unstable-design-lab",
+   "name": "Unstable Design Lab (CU Boulder)",
+   "type": "research",
+   "themes": [
+    "mth-design"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Laura Devendorf's lab explores experimental weaving, smart textiles and fabrication tools such as AdaCAD; earlier projects like Wind Loom and Redeform tried post-anthropocentric making with wind and machines.",
+   "description_zh": "Laura Devendorf 的实验室探索实验性编织、智能纺织品以及 AdaCAD 等制作工具；早期项目如 Wind Loom 和 Redeform 尝试与风和机器一起进行“后人类中心”的制作。",
+   "url": "https://www.unstable.design/",
+   "based": "Boulder, US",
+   "based_zh": "美国博尔德",
+   "people": [
+    "Laura Devendorf"
+   ]
   },
   {
    "id": "usa-national-phenology-network",
@@ -136488,6 +138892,22 @@
    "based": "Amsterdam, NL",
    "based_zh": "阿姆斯特丹，荷兰",
    "founded": 1994
+  },
+  {
+   "id": "wbi-studies-repository",
+   "name": "WBI Studies Repository (WellBeing International)",
+   "type": "database",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "fields": [
+    "mth",
+    "aci"
+   ],
+   "description": "Open-access repository of papers, books and archives on human–animal bonds, animal well-being, sentience and environmental sustainability, which grew out of the former Animal Studies Repository.",
+   "description_zh": "开放获取文献库，收录关于人与动物联结、动物福祉、感知与环境可持续的论文、书籍与档案，前身为“动物研究文献库”。",
+   "url": "https://www.wellbeingintlstudiesrepository.org/"
   },
   {
    "id": "welfare-footprint-project",
@@ -136859,6 +139279,23 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 2019
+  },
+  {
+   "id": "yale-environmental-humanities",
+   "name": "Yale Environmental Humanities Program",
+   "type": "education",
+   "themes": [
+    "futures"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Yale programme that supports teaching, research and public events bringing humanities perspectives to environmental change, including a graduate certificate.",
+   "description_zh": "耶鲁大学的项目，支持把人文视角带入环境变化议题的教学、研究和公共活动，并设研究生证书。",
+   "url": "https://environmentalhumanities.yale.edu/",
+   "image": "https://environmentalhumanities.yale.edu/sites/default/files/styles/adaptive/adaptive-image/public/farmcountry_r1.jpg?itok=E-oPzBsA",
+   "based": "New Haven, US",
+   "based_zh": "美国纽黑文"
   },
   {
    "id": "ycam-bio-research",

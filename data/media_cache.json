@@ -38191,5 +38191,551 @@
   "ok": true,
   "type": "image",
   "content_type": "image/png"
+ },
+ "img:https://www.morethanhumanlab.nz/wp-content/uploads/2024/03/423F9134-2BE9-4931-91D2-25C5C22F4956_1_105_c.jpeg": {
+  "url": "https://www.morethanhumanlab.nz/wp-content/uploads/2024/03/423F9134-2BE9-4931-91D2-25C5C22F4956_1_105_c.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/64556f3a56032e1759f38684/t/67a016ea10df1c2271d36712/1738544874616/interact+animal+lab+-+full+width+black.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/64556f3a56032e1759f38684/t/67a016ea10df1c2271d36712/1738544874616/interact+animal+lab+-+full+width+black.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://tech4animals.haifa.ac.il/wp-content/uploads/2025/07/DOG3.png": {
+  "url": "https://tech4animals.haifa.ac.il/wp-content/uploads/2025/07/DOG3.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://t.e7096c671.entry.domains/lWGCgfKXr8PlHzUExuYPXXRV_54=/fit-in/300x300/filters:strip_exif()/https%3A%2F%2Fwww.tudelft.nl%2F_assets%2Ff6b877d73456607fbfa2de3e3c5fd420%2FImages%2FOpenGraph%2FTUDelft.jpg%3Fhash%3D9ac1b46830": {
+  "url": "https://t.e7096c671.entry.domains/lWGCgfKXr8PlHzUExuYPXXRV_54=/fit-in/300x300/filters:strip_exif()/https%3A%2F%2Fwww.tudelft.nl%2F_assets%2Ff6b877d73456607fbfa2de3e3c5fd420%2FImages%2FOpenGraph%2FTUDelft.jpg%3Fhash%3D9ac1b46830",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.umu.se/ubnoy/globalassets/mediaflow/img_7175.webp?width=1400&quality=90": {
+  "url": "https://www.umu.se/ubnoy/globalassets/mediaflow/img_7175.webp?width=1400&quality=90",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://openlab.ncl.ac.uk/static/opengraph.png": {
+  "url": "https://openlab.ncl.ac.uk/static/opengraph.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/mastheads/thresholds-cropped-950x300.png": {
+  "url": "https://www.nottingham.ac.uk/research/groups/mixedrealitylab/images/mastheads/thresholds-cropped-950x300.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://dam-prod.media.mit.edu/thumb/2016/10/17/cattails.jpg.1400x1400.jpg": {
+  "url": "https://dam-prod.media.mit.edu/thumb/2016/10/17/cattails.jpg.1400x1400.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.colorado.edu/atlas/sites/default/files/styles/focal_image_wide/public/callout/alganyl.jpeg?h=19714576&itok=YBfZpygx": {
+  "url": "https://www.colorado.edu/atlas/sites/default/files/styles/focal_image_wide/public/callout/alganyl.jpeg?h=19714576&itok=YBfZpygx",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:http://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/64f387e9ca64cb7707327258/1693681641818/MML_logo-01.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5fc1dbf8116eb00e3c52b568/t/64f387e9ca64cb7707327258/1693681641818/MML_logo-01.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://research.qut.edu.au/designlab/wp-content/uploads/sites/2/2021/09/indigenous-art-scaled.jpg": {
+  "url": "https://research.qut.edu.au/designlab/wp-content/uploads/sites/2/2021/09/indigenous-art-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://research.qut.edu.au/morethanhuman/wp-content/uploads/sites/294/2020/07/more-than-human-heroimage-scaled.jpg": {
+  "url": "https://research.qut.edu.au/morethanhuman/wp-content/uploads/sites/294/2020/07/more-than-human-heroimage-scaled.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://designinformatics.org/wp-content/uploads/2026/02/OurResearch-buttonimage.jpg": {
+  "url": "https://designinformatics.org/wp-content/uploads/2026/02/OurResearch-buttonimage.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://research.ku.edu.tr/wp-content/uploads/2025/12/Image-from-iOS-2-2048x1536-1-1024x768.jpg": {
+  "url": "https://research.ku.edu.tr/wp-content/uploads/2025/12/Image-from-iOS-2-2048x1536-1-1024x768.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://groups.tecnico.ulisboa.pt/~iti.daemon/wp-content/uploads/2023/06/1200-x-628.jpg": {
+  "url": "https://groups.tecnico.ulisboa.pt/~iti.daemon/wp-content/uploads/2023/06/1200-x-628.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/58170bb9e4fcb5fd591e8449/1501089093713-VK9DO8RF7VIU413L9OOA/Banners2.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/58170bb9e4fcb5fd591e8449/1501089093713-VK9DO8RF7VIU413L9OOA/Banners2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://hci.plus/wp-content/uploads/2015/05/122Salzburg_Center-for-Human-Computer-Interaction_A.Laminger.jpg": {
+  "url": "https://hci.plus/wp-content/uploads/2015/05/122Salzburg_Center-for-Human-Computer-Interaction_A.Laminger.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://reality.design/static/images/twitter-card.png": {
+  "url": "https://reality.design/static/images/twitter-card.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://xlab.iii.u-tokyo.ac.jp/wp-content/uploads/lab_.jpg": {
+  "url": "https://xlab.iii.u-tokyo.ac.jp/wp-content/uploads/lab_.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://planetarypraxis.org/media/pages/home/01a031ed7d-1644950736/air-quality-garden-walking-tour-visits-the-pop-up-garden-developed-through-the-city-in-bloom-initiative-1-800x800.jpg": {
+  "url": "https://planetarypraxis.org/media/pages/home/01a031ed7d-1644950736/air-quality-garden-walking-tour-visits-the-pop-up-garden-developed-through-the-city-in-bloom-initiative-1-800x800.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.antsoftheprairie.com/media/pages/projects/shelter-of-belonging-in-section-as-cosmogram/ce03fa931e-1769725222/crop-1.jpg": {
+  "url": "https://www.antsoftheprairie.com/media/pages/projects/shelter-of-belonging-in-section-as-cosmogram/ce03fa931e-1769725222/crop-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cms-cdn.lmu.de/media/13-sprachlit/rachel-carson-center/rcc-web-images/dsc07331_8m_2_1_format_m.jpg": {
+  "url": "https://cms-cdn.lmu.de/media/13-sprachlit/rachel-carson-center/rcc-web-images/dsc07331_8m_2_1_format_m.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.environmentandsociety.org/sites/all/themes/esp_radix/assets/images/backgrounds/home-bg--virtual-exhibitions-2.jpg": {
+  "url": "https://www.environmentandsociety.org/sites/all/themes/esp_radix/assets/images/backgrounds/home-bg--virtual-exhibitions-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.kth.se/polopoly_fs/1.1235689.1678184458!/image/ebba-thoresson-O9vsfZq8UWw-unsplash.jpg": {
+  "url": "https://www.kth.se/polopoly_fs/1.1235689.1678184458!/image/ebba-thoresson-O9vsfZq8UWw-unsplash.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.unsw.edu.au/content/dam/images/ada/humanities-languages/stock/2021-05-hal-istock/2021-05-env-society.cropimg.width=700.crop=landscape.jpeg": {
+  "url": "https://www.unsw.edu.au/content/dam/images/ada/humanities-languages/stock/2021-05-hal-istock/2021-05-env-society.cropimg.width=700.crop=landscape.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.bathspa.ac.uk/media/bathspaacuk/be-bath-spa/Newton-Park-tree-over-lake.jpg": {
+  "url": "https://www.bathspa.ac.uk/media/bathspaacuk/be-bath-spa/Newton-Park-tree-over-lake.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://anthropocene.au.dk/fileadmin/templavoila/auraweb-banner1.jpg": {
+  "url": "https://anthropocene.au.dk/fileadmin/templavoila/auraweb-banner1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i0.wp.com/www.multispecies-salon.org/working/wp-content/uploads/2014/01/multispecies-salon-tessa-farmer-new-crop.jpg?fit=1200%2C459&ssl=1": {
+  "url": "https://i0.wp.com/www.multispecies-salon.org/working/wp-content/uploads/2014/01/multispecies-salon-tessa-farmer-new-crop.jpg?fit=1200%2C459&ssl=1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/hero-landing-page-images/ghost_gum_image_via_shutterstock_1037499214.jpg": {
+  "url": "https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/hero-landing-page-images/ghost_gum_image_via_shutterstock_1037499214.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://creativeecologies.ucsc.edu/files/2024/03/HAVC-SEMINAR-POSTER-2024_V3-3442657673d444e4.png": {
+  "url": "https://creativeecologies.ucsc.edu/files/2024/03/HAVC-SEMINAR-POSTER-2024_V3-3442657673d444e4.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://che.nelson.wisc.edu/wp-content/uploads/home-owl-tree-lakeshore.jpg": {
+  "url": "https://che.nelson.wisc.edu/wp-content/uploads/home-owl-tree-lakeshore.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://environmentalhumanities.yale.edu/sites/default/files/styles/adaptive/adaptive-image/public/farmcountry_r1.jpg?itok=E-oPzBsA": {
+  "url": "https://environmentalhumanities.yale.edu/sites/default/files/styles/adaptive/adaptive-image/public/farmcountry_r1.jpg?itok=E-oPzBsA",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://uwm.edu/c21/wp-content/uploads/sites/359/2026/08/Banner-1500px400px_FY27_Spliced-1.jpeg": {
+  "url": "https://uwm.edu/c21/wp-content/uploads/sites/359/2026/08/Banner-1500px400px_FY27_Spliced-1.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.chikyu.ac.jp/rihn/common/img/thumb_fb.png": {
+  "url": "https://www.chikyu.ac.jp/rihn/common/img/thumb_fb.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://hfe-observatories.org/wp-content/uploads/2025/11/Premio-FBBVA-Biophilia-Thom-van-Dooren-c-Quentin-Jones-cropped-150x150.webp": {
+  "url": "https://hfe-observatories.org/wp-content/uploads/2025/11/Premio-FBBVA-Biophilia-Thom-van-Dooren-c-Quentin-Jones-cropped-150x150.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://res.cloudinary.com/dmceci9t1/image/fetch/w_1200,c_limit/https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg": {
+  "url": "https://res.cloudinary.com/dmceci9t1/image/fetch/w_1200,c_limit/https://images.metmuseum.org/CRDImages/ep/original/DP-17161-001.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://posthumanitieshub.net/wp-content/uploads/2024/06/Posthuman-Yoast.jpg": {
+  "url": "https://posthumanitieshub.net/wp-content/uploads/2024/06/Posthuman-Yoast.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i0.wp.com/criticalposthumanism.net/wp-content/uploads/2019/08/Screenshot-2019-08-02-10.07.55.png?fit=1522%2C544&ssl=1": {
+  "url": "https://i0.wp.com/criticalposthumanism.net/wp-content/uploads/2019/08/Screenshot-2019-08-02-10.07.55.png?fit=1522%2C544&ssl=1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://terracritica.net/wp-content/uploads/sites/1126/2024/11/foto1terra.jpg": {
+  "url": "https://terracritica.net/wp-content/uploads/sites/1126/2024/11/foto1terra.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://nordes.org/wp-content/uploads/2015/10/banner_940x200.png": {
+  "url": "https://nordes.org/wp-content/uploads/2015/10/banner_940x200.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://researchthroughdesign.org/content/images/2026/09/rtd-full.webp": {
+  "url": "https://researchthroughdesign.org/content/images/2026/09/rtd-full.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://rsdsymposium.org/wp-content/uploads/2026/07/RSD15-SQUARE-ASSETS-RSDX.png": {
+  "url": "https://rsdsymposium.org/wp-content/uploads/2026/07/RSD15-SQUARE-ASSETS-RSDX.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://dcode-network.eu/wp-content/uploads/2021/05/Screenshot-2021-06-06-at-20.23.04.png": {
+  "url": "https://dcode-network.eu/wp-content/uploads/2021/05/Screenshot-2021-06-06-at-20.23.04.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.animalsandsociety.org/wp-content/uploads/2024/03/2024-Society-and-Animals-Cover-for-web.jpg": {
+  "url": "https://www.animalsandsociety.org/wp-content/uploads/2024/03/2024-Society-and-Animals-Cover-for-web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://britishanimalstudiesnetwork.org.uk/portals/12/basn-banner.jpg?ver=pWxHgvvz6jBRv9tfg2ApPg%3d%3d": {
+  "url": "https://britishanimalstudiesnetwork.org.uk/portals/12/basn-banner.jpg?ver=pWxHgvvz6jBRv9tfg2ApPg%3d%3d",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://animalstudies.org.au/wp-content/uploads/2025/11/ALFF-1080x1080-poster.png": {
+  "url": "https://animalstudies.org.au/wp-content/uploads/2025/11/ALFF-1080x1080-poster.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://animalhistorygroup.org/wp-content/uploads/2021/08/navigational-tile-seminar.png": {
+  "url": "https://animalhistorygroup.org/wp-content/uploads/2021/08/navigational-tile-seminar.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://cdn.firespring.com/images/5fd2f544-1e5c-4444-a912-e8263e322488.png": {
+  "url": "https://cdn.firespring.com/images/5fd2f544-1e5c-4444-a912-e8263e322488.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.exeter.ac.uk/v8media/universityofexeter/collegeofsocialsciencesandinternationalstudies/sociology/research/ease/puppieswithlorry_simonking.jpg": {
+  "url": "https://www.exeter.ac.uk/v8media/universityofexeter/collegeofsocialsciencesandinternationalstudies/sociology/research/ease/puppieswithlorry_simonking.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.wesleyan.edu/animalstudies/_internal/files/images/animal-studies.jpg": {
+  "url": "https://www.wesleyan.edu/animalstudies/_internal/files/images/animal-studies.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://litsciarts.org/wp-content/uploads/2026/09/cutting-new-college-2-765x460.png": {
+  "url": "https://litsciarts.org/wp-content/uploads/2026/09/cutting-new-college-2-765x460.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.asle.org/wp-content/uploads/TreesSkyPattern.png": {
+  "url": "https://www.asle.org/wp-content/uploads/TreesSkyPattern.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.easlce.eu/wp-content/uploads/2023/09/deborah-1200-diem-ds_NPvoAzro-unsplash.webp": {
+  "url": "https://www.easlce.eu/wp-content/uploads/2023/09/deborah-1200-diem-ds_NPvoAzro-unsplash.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.biosemiotics.org/images/og-image.png": {
+  "url": "https://www.biosemiotics.org/images/og-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/9716c393-6218-42a1-847b-0e4c19e2f5b0/ENV_new_pr.jpg": {
+  "url": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/9716c393-6218-42a1-847b-0e4c19e2f5b0/ENV_new_pr.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://humanimalia.org/public/journals/8/cover_issue_1756_en.png": {
+  "url": "https://humanimalia.org/public/journals/8/cover_issue_1756_en.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://brill.com/cover/covers/9005.jpg": {
+  "url": "https://brill.com/cover/covers/9005.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.uowoajournals.org/media/cover_images/ec5ec489-8697-4c30-ac72-3eb8c1470032.jpg": {
+  "url": "https://www.uowoajournals.org/media/cover_images/ec5ec489-8697-4c30-ac72-3eb8c1470032.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.whp-journals.co.uk/public/journals/7/cover_issue_180_en_US.png": {
+  "url": "https://www.whp-journals.co.uk/public/journals/7/cover_issue_180_en_US.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.psupress.org/journals/images/img_SM_JPHS.jpg": {
+  "url": "https://www.psupress.org/journals/images/img_SM_JPHS.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://posthumanism.co.uk/public/journals/1/JP2025-frontcover2.jpg": {
+  "url": "https://posthumanism.co.uk/public/journals/1/JP2025-frontcover2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ecozona.eu/public/journals/11/cover_issue_298_en_US.jpg": {
+  "url": "https://ecozona.eu/public/journals/11/cover_issue_298_en_US.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/91b3ed8a-64d1-4c91-a569-cf6effe6d9cc/dup_imagena_pr.jpg?fm=webp&auto=format": {
+  "url": "https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/91b3ed8a-64d1-4c91-a569-cf6effe6d9cc/dup_imagena_pr.jpg?fm=webp&auto=format",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://brill.com/cover/covers/15734226.jpg": {
+  "url": "https://brill.com/cover/covers/15734226.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399525992_2.jpg": {
+  "url": "https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399525992_2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399570251_1.jpg": {
+  "url": "https://edinburghuniversitypress.com/media/catalog/product/cache/46fa299f1a7f6e10f30501ac4cd10ecc/9/7/9781399570251_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://brill.com/cover/covers/18720943.jpg": {
+  "url": "https://brill.com/cover/covers/18720943.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cup-us.imgix.net/covers/9780231216425.jpg?auto=format&w=350": {
+  "url": "https://cup-us.imgix.net/covers/9780231216425.jpg?auto=format&w=350",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://www.coventry.ac.uk/globalassets/media/global/08-new-research-section/cpc/signposts/cpc-banner-brighter-1150x230.jpg": {
+  "url": "https://www.coventry.ac.uk/globalassets/media/global/08-new-research-section/cpc/signposts/cpc-banner-brighter-1150x230.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://criticalmedialab.ch/wp-content/uploads/2026/07/mesh-poster-video-600x338.jpg": {
+  "url": "https://criticalmedialab.ch/wp-content/uploads/2026/07/mesh-poster-video-600x338.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.ioes.ucla.edu/wp-content/uploads/2021/09/culturesbiodiversity_animal_land_mountain_lion.webp": {
+  "url": "https://www.ioes.ucla.edu/wp-content/uploads/2021/09/culturesbiodiversity_animal_land_mountain_lion.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://rethinking-environment-idk.de/wp-content/uploads/IMG_2484-2-800x454.jpg": {
+  "url": "https://rethinking-environment-idk.de/wp-content/uploads/IMG_2484-2-800x454.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.asle.org/wp-content/uploads/2023/04/isle_30_1cover.jpeg": {
+  "url": "https://www.asle.org/wp-content/uploads/2023/04/isle_30_1cover.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://reaktionbooks.co.uk/wp-content/uploads/2026/09/9781836393382-2-wpv_720x.jpg": {
+  "url": "https://reaktionbooks.co.uk/wp-content/uploads/2026/09/9781836393382-2-wpv_720x.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://brill.com/cover/covers/22124950.jpg": {
+  "url": "https://brill.com/cover/covers/22124950.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://animalsandmedia.org/wp-content/uploads/2018/06/Home3_McArthur.jpg": {
+  "url": "https://animalsandmedia.org/wp-content/uploads/2018/06/Home3_McArthur.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://newmaterialism.eu/assets/img/nm.jpg": {
+  "url": "https://newmaterialism.eu/assets/img/nm.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://arachnophilia.net/wp-content/uploads/2021/06/arachnomancyapp-265x180.jpg": {
+  "url": "https://arachnophilia.net/wp-content/uploads/2021/06/arachnomancyapp-265x180.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://freight.cargo.site/t/original/i/01331c52a51b67cb6f2d24f91f598a818954da615701420425a554868a1cee82/IQECO-simple.png": {
+  "url": "https://freight.cargo.site/t/original/i/01331c52a51b67cb6f2d24f91f598a818954da615701420425a554868a1cee82/IQECO-simple.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/our-impact/echidna-multispecies-justice-page,-2025-.jpg": {
+  "url": "https://www.sydney.edu.au/content/dam/corporate/images/sydney-environment-institute/our-impact/echidna-multispecies-justice-page,-2025-.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://transitiondesigninstitute.net/wp-content/uploads/2025/03/TDI-Home_Hero1.jpg": {
+  "url": "https://transitiondesigninstitute.net/wp-content/uploads/2025/03/TDI-Home_Hero1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://milieux.concordia.ca/wp-content/uploads/2026/09/Untitled-September-22-2026-at-11.27.49-1.png": {
+  "url": "https://milieux.concordia.ca/wp-content/uploads/2026/09/Untitled-September-22-2026-at-11.27.49-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.bristol.ac.uk/media-library/sites/study/postgraduate/images/programme/arts-ma-environmental-humanities.jpg": {
+  "url": "https://www.bristol.ac.uk/media-library/sites/study/postgraduate/images/programme/arts-ma-environmental-humanities.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://assets-eu-01.kc-usercontent.com:443/ff31ad68-341e-015e-fb52-24df7a00ecea/dc2c12a4-a640-4205-898d-0053481ce8ee/TS_MA_Humanities_Hero1_2200x720.jpg": {
+  "url": "https://assets-eu-01.kc-usercontent.com:443/ff31ad68-341e-015e-fb52-24df7a00ecea/dc2c12a4-a640-4205-898d-0053481ce8ee/TS_MA_Humanities_Hero1_2200x720.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2026/08/project_key_visual.png": {
+  "url": "https://digitalnature.slis.tsukuba.ac.jp/wp-content/uploads/2026/08/project_key_visual.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://offpolinn.com/wp-content/uploads/2026/09/26.09.16-Monocle-Reggio-School-798x1024.jpg": {
+  "url": "https://offpolinn.com/wp-content/uploads/2026/09/26.09.16-Monocle-Reggio-School-798x1024.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://animal-aided-design.de/wp-content/uploads/2026/06/Haus_des_Waldes_1.jpg": {
+  "url": "https://animal-aided-design.de/wp-content/uploads/2026/06/Haus_des_Waldes_1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.matters-of-activity.de/images/cover_image_large.jpg?w=1600": {
+  "url": "https://www.matters-of-activity.de/images/cover_image_large.jpg?w=1600",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ecoartspace.org/resources/Pictures/_sh68733.jpg": {
+  "url": "https://ecoartspace.org/resources/Pictures/_sh68733.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://i0.wp.com/edgeeffects.net/wp-content/uploads/2025/01/cropped-ee-banner-colorful.png?fit=8533%2C4465&ssl=1": {
+  "url": "https://i0.wp.com/edgeeffects.net/wp-content/uploads/2025/01/cropped-ee-banner-colorful.png?fit=8533%2C4465&ssl=1",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://ae.americananthro.org/wp-content/uploads/Title-1-630x466.png": {
+  "url": "https://ae.americananthro.org/wp-content/uploads/Title-1-630x466.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
  }
 }
