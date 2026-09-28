@@ -122,24 +122,31 @@
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
   /* Card-sized variants of hotlinked images (much lighter on phones); the original is the fallback. */
-  function small(u) {
+  /* Pick an image size that is sharp where it is shown: slot width (CSS px) × pixel density (capped at 2),
+     rounded up to a size the host offers. The original URL is always the fallback. */
+  const DPR = Math.min(window.devicePixelRatio || 1, 2);
+  const need = (cssW) => Math.round(cssW * DPR);
+  const CARD_W = () => Math.min(innerWidth - 32, 420);   // grid cards, strips, org cards
+  const sizeUp = (px, sizes) => sizes.find((s) => s >= px) || null;
+  function small(u, px = need(CARD_W())) {
     if (!u) return u;
-    if (u.includes("i.ytimg.com/vi/")) return u.replace(/\/(maxresdefault|hqdefault|sddefault)\.jpg/, "/mqdefault.jpg");
-    if (u.includes("i.vimeocdn.com/")) return u.replace(/-d_\d+(x\d+)?/, "-d_640").replace(/([?&]mw=)\d+/, "$1640");
-    if (u.includes("images.squarespace-cdn.com/") && !/[?&]format=/.test(u)) return u + (u.includes("?") ? "&" : "?") + "format=750w";
-    if (u.includes("upload.wikimedia.org/wikipedia/commons/thumb/")) return u.replace(/\/\d+px-([^/]+)$/, "/640px-$1");
-    if (/upload\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/[^/]+\.(jpe?g|png)$/i.test(u)) {
+    if (u.includes("i.ytimg.com/vi/")) return px <= 320 ? u.replace(/\/(maxresdefault|hqdefault|sddefault)\.jpg/, "/mqdefault.jpg") : u;
+    if (u.includes("i.vimeocdn.com/")) { const w = sizeUp(px, [640, 960, 1280]); return w ? u.replace(/-d_\d+(x\d+)?/, `-d_${w}`).replace(/([?&]mw=)\d+/, `$1${w}`) : u; }
+    if (u.includes("images.squarespace-cdn.com/") && !/[?&]format=/.test(u)) { const w = sizeUp(px, [500, 750, 1000, 1500, 2500]); return w ? u + (u.includes("?") ? "&" : "?") + `format=${w}w` : u; }
+    const wk = sizeUp(px, [640, 960, 1280]);
+    if (wk && u.includes("upload.wikimedia.org/wikipedia/commons/thumb/")) return u.replace(/\/\d+px-([^/]+)$/, `/${wk}px-$1`);
+    if (wk && /upload\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/[^/]+\.(jpe?g|png)$/i.test(u)) {
       const m = u.match(/commons\/([0-9a-f])\/([0-9a-f]{2})\/([^/]+)$/);
-      return `https://upload.wikimedia.org/wikipedia/commons/thumb/${m[1]}/${m[2]}/${m[3]}/640px-${m[3]}`;
+      return `https://upload.wikimedia.org/wikipedia/commons/thumb/${m[1]}/${m[2]}/${m[3]}/${wk}px-${m[3]}`;
     }
-    if (u.includes("covers.openlibrary.org/")) return u.replace(/-L\.jpg/, "-M.jpg");
+    if (u.includes("covers.openlibrary.org/") && px <= 180) return u.replace(/-L\.jpg/, "-M.jpg");
     return u;
   }
-  const imgTag = (u, fallbackHtml) => { const s2 = small(u); return `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(s2)}"${s2 !== u ? ` data-o="${esc(u)}"` : ""} alt="" onerror="if(this.dataset.o&&this.src!==this.dataset.o){this.src=this.dataset.o}else{this.outerHTML=this.dataset.ph||''}" data-ph="${esc(fallbackHtml)}">`; };
+  const imgTag = (u, fallbackHtml, px) => { const s2 = small(u, px); return `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(s2)}"${s2 !== u ? ` data-o="${esc(u)}"` : ""} alt="" onerror="if(this.dataset.o&&this.src!==this.dataset.o){this.src=this.dataset.o}else{this.outerHTML=this.dataset.ph||''}" data-ph="${esc(fallbackHtml)}">`; };
   const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
-  function thumb(w) {
+  function thumb(w, px) {
     const p = poster(w);
-    if (p) return imgTag(p, paperPh(w));
+    if (p) return imgTag(p, paperPh(w), px);
     if (w.video?.platform === "mp4") return `<video muted playsinline preload="none" data-src="${esc(w.video.url)}#t=0.8"></video>`;
     return paperPh(w);
   }
@@ -294,7 +301,7 @@
       const shots = sorted(ws.filter(poster)).sort((a, b) => photoFirst(a) - photoFirst(b)).slice(0, 3);
       const subs = f.subs.map((s) => { const n = ws.filter((w) => w.sub === s.id).length; return n ? `<li><button data-go="${f.id}" data-go-sub="${s.id}">${esc(nm(s))}<small class="mono">${n}</small></button></li>` : ""; }).join("");
       return `<section class="fieldcard">
-        <button class="fieldcard__media" data-go="${f.id}" aria-label="${esc(nm(f))}">${shots.map((w, j) => `<div class="kc__shot kc__shot--${"abc"[j]}">${thumb(w)}</div>`).join("")}
+        <button class="fieldcard__media" data-go="${f.id}" aria-label="${esc(nm(f))}">${shots.map((w, j) => `<div class="kc__shot kc__shot--${"abc"[j]}">${thumb(w, need(Math.min(innerWidth - 32, 760) * (j ? 0.34 : 0.67)))}</div>`).join("")}
           <span class="br br--tl"></span><span class="br br--tr"></span><span class="br br--bl"></span><span class="br br--br"></span></button>
         <div class="fieldcard__body"><span class="fieldcard__num mono">0${i + 1}</span>
           <h2 class="fieldcard__title"><button data-go="${f.id}">${esc(nm(f))}</button></h2>

@@ -187,6 +187,8 @@ def verify(works: list, recheck: bool) -> dict:
         if w["video"].get("platform") == "youtube":
             u = f"https://i.ytimg.com/vi/{w['video']['id']}/maxresdefault.jpg"
             jobs[f"ytmax:{w['video']['id']}"] = (check_image, u)
+            if cache.get(f"ytmax:{w['video']['id']}", {}).get("ok") is False:  # no maxres: try the 1280×720 hq720 poster
+                jobs[f"yt720:{w['video']['id']}"] = (check_image, f"https://i.ytimg.com/vi/{w['video']['id']}/hq720.jpg")
     todo = {k: v for k, v in jobs.items() if recheck or not cache.get(k, {}).get("ok") or cache[k].get("unverified")}
     logger.info("verifying %d links (%d cached)", len(todo), len(jobs) - len(todo))
 
@@ -219,7 +221,12 @@ def apply_media(w: dict, cache: dict, problems: list) -> bool:
         res = cache.get(f"video:{v['platform']}:{v['id']}", {})
         if res.get("ok"):
             hd = cache.get(f"ytmax:{v['id']}", {}) if v["platform"] == "youtube" else {}
-            v["thumbnail"] = v.get("thumbnail") or (hd.get("url") if hd.get("ok") and not hd.get("unverified") else "") or res.get("thumbnail") or ""
+            h7 = cache.get(f"yt720:{v['id']}", {}) if v["platform"] == "youtube" else {}
+            ok_url = lambda r: r.get("url") if r.get("ok") and not r.get("unverified") else ""  # noqa: E731
+            given = v.get("thumbnail") or ""
+            if "i.ytimg.com/" in given:  # a batch-supplied YouTube poster never beats the sharper 1280 px versions
+                given = ""
+            v["thumbnail"] = ok_url(hd) or ok_url(h7) or given or res.get("thumbnail") or ""
             v["embeddable"] = res.get("embeddable", True)
         else:
             problems.append({"id": w["id"], "what": "video", "url": v["url"], "error": res.get("error")})
