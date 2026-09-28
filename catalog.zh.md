@@ -17423,50 +17423,85 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Aboriginal Territories in Cyberspace (AbTeC)** (蒙特利尔，加拿大) — 一个原住民研究创作工作室，确保原住民在游戏、虚拟世界和网络中的存在，并举办关于原住民未来的 Skins 工作坊。 https://abtec.org/
 - **Abundant Intelligences** (蒙特利尔，加拿大) — 由 Concordia 大学牵头的国际研究项目，以原住民知识体系为基础设计 AI，在加拿大、美国和新西兰设有实验室。 https://abundant-intelligences.net/
 - **Allen Discovery Center at Tufts University** (梅德福，美国) — Michael Levin 领导的中心，研究生物电信号如何引导身体形态，与合作者共同创造了 xenobot 等合成生命形式。 https://allencenter.tufts.edu/
+- **Animal Law & Policy Program (Harvard Law School)** (剑桥（马萨诸塞州），美国) — 哈佛法学院的项目，研究并讲授动物法律与政策，内容从养殖动物监管到野生动物和动物实验。 https://animal.law.harvard.edu/
+- **Animal Law and Policy Program (UCLA Law)** (洛杉矶，美国) — 加州大学洛杉矶分校法学院的项目，支持关于动物法律待遇的研究、教学和公开活动。 https://law.ucla.edu/academics/centers/animal-law-policy-program
+- **Anthropic — Model Welfare research** (旧金山，美国) — AI 公司 Anthropic 的研究项目，探究其 Claude 模型是否可能具有值得重视的体验或偏好，并推出低成本措施，例如允许模型结束辱骂性对话。 https://www.anthropic.com/research/exploring-model-welfare
 - **Antikythera** (全球（伯格鲁恩研究所）) — 由伯格鲁恩研究所孵化的智库和工作室，从行星尺度重新思考计算，包括行星感知和围绕地球重新定位哲学。 https://antikythera.org/
+- **Ape Initiative** (得梅因，美国) — 位于爱荷华州的庇护所与研究中心，已故倭黑猩猩 Kanzi 曾生活于此；它通过词形符号键盘和非侵入性、以选择为基础的研究来探索倭黑猩猩的认知与沟通。 https://www.apeinitiative.org/
 - **Ars Electronica Futurelab** (林茨，奥地利) — Ars Electronica 的研发实验室，与艺术家和企业合作开展以艺术为导向的人工智能、机器人和生命科学项目。 https://ars.electronica.art/futurelab/en/
 - **Art Laboratory Berlin** (柏林，德国) — 柏林的艺术空间和研究平台，关注艺术与生命科学、技术的交汇，举办展览、会议并设有 DIY 实验室。 https://artlaboratory-berlin.org/
 - **Arts Catalyst** (谢菲尔德，英国) — 英国艺术机构，委约与科学和生态对话的艺术作品，题材从太空生物学到环境正义。 https://artscatalyst.org/
 - **Art|Sci Center (UCLA)** (洛杉矶，美国) — Victoria Vesna 在加州大学洛杉矶分校创办的中心，通过课程、展览和活动让艺术家与科学家在生物学和纳米技术领域合作。 https://artsci.ucla.edu/
+- **aWISH (Animal Welfare Indicators at the Slaughterhouse)** (欧洲) — 欧盟资助的项目，利用在屠宰场收集的数据和自动化指标，监测并改善养殖动物一生中的福利。 https://www.awish-project.eu/about/
 - **Berggruen Institute (Planetary programme)** (洛杉矶，美国) — 一个智库，其“行星”项目和“未来人类”研究探讨关于地球、生命和智能的新观念应如何改变哲学与治理，并出版 Noema 杂志。 https://www.berggruen.org/
 - **BioArt Laboratories** (埃因霍温，荷兰) — Jalila Essaïdi 在埃因霍温创办的基金会，连接艺术、科学与产业，代表项目有“防弹皮肤”和粪肥循环材料。 https://bioartlab.com/
 - **BIOTOPIA** (慕尼黑，德国) — 慕尼黑正在建设的自然史与生命科学博物馆，举办连接艺术、设计与生物学的节展、实验室和展览。 https://biotopia.net/
 - **Braingeneers (UC Santa Cruz)** (圣克鲁兹，美国) — 由加州大学圣克鲁兹分校主导的研究组，开发可远程控制的实验工具，通过互联网培养、记录和训练脑类器官。 https://braingeneers.ucsc.edu/
+- **Brooks Institute for Animal Rights Law and Policy** (美国) — 资助动物法律与政策学术研究、奖学金和学生项目的智库，包括 Brooks 动物法学生峰会。 https://thebrooksinstitute.org/
+- **California Institute for Machine Consciousness** (伯克利，美国) — 由 Joscha Bach 共同创立的研究机构，研究意识如何可能在机器中产生，并构建可检验的意识计算模型。 https://cimc.ai/
+- **CaML (Compassion in Machine Learning)** (国际) — 研究团体，衡量并减少 AI 模型中的物种歧视偏见，例如用表达对所有有感知生命关怀的合成数据训练模型。 https://www.compassionml.com/
 - **Center for Alternatives to Animal Testing (Johns Hopkins)** (巴尔的摩，美国) — 约翰斯·霍普金斯大学的中心，研发替代动物实验的方法；在 Thomas Hartung 领导下提出了“类器官智能”研究议程。 https://caat.publichealth.jhu.edu/
 - **Center for Earth Jurisprudence (Barry University)** (奥兰多，佛罗里达州，美国) — 一所法学院的研究中心，教授并研究地球法理学与自然权利。它设有环境与地球法诊所、奖学金项目和研讨会。 https://www.earthjurist.org/
 - **Center for Genomic Gastronomy** (线上) — 由艺术家主导的研究团体，通过展览、餐食和出版物研究人类食物系统中的生物技术和生物多样性。 https://genomicgastronomy.com/
 - **Center for Global Soundscapes (Purdue University)** (西拉法叶，印第安纳州，美国) — 普渡大学的声景生态学研究中心，录制并分析全球生态系统的声音，并开展公众声景项目。 https://centerforglobalsoundscapes.org/
+- **Center for Mind, Brain, and Consciousness (NYU)** (纽约，美国) — 由 David Chalmers 和 Ned Block 主持的纽约大学哲学研究中心，举办关于意识科学的研讨会和辩论，包括动物意识与 AI 意识，常与 CMEP 联合主办。 https://wp.nyu.edu/consciousness/
+- **Center for Mind, Ethics, and Policy (NYU)** (纽约，美国) — 纽约大学的研究中心，研究非人类的意识、感知能力及其道德、法律和政治地位，重点关注动物与 AI 系统。它发表研究、资助数字心智方向的工作，并举办公开活动和年度峰会。 https://nonhumanminds.org/
 - **Center for Native Peoples and the Environment (SUNY-ESF)** (锡拉丘兹，纽约州，美国) — 由 Robin Wall Kimmerer 创办的中心，把原住民知识与西方科学知识结合起来，用于环境教育和生态修复。 https://www.esf.edu/nativepeoples/
 - **Center for PostNatural History** (匹兹堡，美国) — 匹兹堡的一家博物馆，收藏被人类有意改造过的生物，从实验小鼠到转基因鱼。 https://www.postnatural.org/
+- **Center for Reducing Suffering** (国际) — 研究如何在长远未来减少严重痛苦的机构，关注对象包括野生动物和潜在的数字心智。 https://centerforreducingsuffering.org/
+- **Center for the Future of AI, Mind & Society (FAU)** (博卡拉顿，美国) — 由哲学家 Susan Schneider 主持的佛罗里达大西洋大学研究中心，研究机器意识、AI 伦理与心智的未来。 https://www.fau.edu/future-mind/
+- **Center on Long-Term Risk** (伦敦，英国) — 关注防止先进 AI 带来最坏结果的研究机构，包括可能波及数字心智的“天文级苦难风险”（s-risks）。 https://longtermrisk.org/
+- **Centre for Animals and Social Justice** (英国) — 英国智库，研究如何把动物保护纳入政治与政府工作，例如通过动物感知委员会。 https://www.casj.org.uk/
 - **Centre for Materials Science & Culture (RCA)** (伦敦，英国) — 英国皇家艺术学院的研究中心，把设计师和材料科学家聚在一起，研究内容包括生物基材料和活体材料。 https://www.rca.ac.uk/research-innovation/research-centres/centre-materials-science-culture/
+- **Centre for Wild Animal Welfare** (剑桥，英国) — 英国机构，推动将野生动物福利纳入政策，例如以人道方式管理城市野生动物和有害生物防治。 https://www.wildanimalwelfare.org/
+- **Chittka Lab (Queen Mary University of London)** (伦敦，英国) — Lars Chittka 的蜜蜂实验室，其关于熊蜂学习、玩耍和类情绪状态的实验是昆虫心智讨论的核心依据。 https://chittkalab.sbcs.qmul.ac.uk/
 - **Citizen Sense** (伦敦，英国) — 一个研究团队，与社区一起开展 DIY 环境感知（如用 Dustbox 监测空气污染），并研究公民感知带来的改变。 https://citizensense.net/
+- **Clever Dog Lab (Vetmeduni Vienna)** (奥地利维也纳) — 维也纳 Messerli 研究所的犬类认知实验室，家犬在此参与关于感知、社会学习和情绪的研究，包括触摸屏实验。 https://www.vetmeduni.ac.at/cleverdoglab
+- **Comparative Cognition Lab, UC San Diego (MICO)** (圣迭戈，美国) — Federico Rossano 的实验室，研究狗、猫和类人猿的沟通；它运营 MICO（大规模跨物种沟通观测站），这是一个让宠物使用语音按钮的公民科学研究。 https://cclab.ucsd.edu/
 - **Complex Materials Lab (ETH Zurich)** (苏黎世，瑞士) — André Studart 在苏黎世联邦理工学院的实验室，研发仿生材料和活体材料，包括含细菌的 3D 打印材料和自修复材料。 https://complex.mat.ethz.ch/
 - **Cornell Lab of Ornithology** (伊萨卡，纽约州，美国) — 康奈尔大学的研究机构，研究鸟类与自然，并运营 eBird、Merlin 识鸟、Project FeederWatch 和 Macaulay Library 等大型公众科学项目。 https://www.birds.cornell.edu/home/
 - **CRESH (Centre for Research on Environment, Society and Health)** (爱丁堡 / 格拉斯哥，英国) — 爱丁堡大学与格拉斯哥大学合办的研究中心，研究绿地等环境如何影响健康和健康不平等。 https://cresh.org.uk/
 - **Design & Living Systems Lab (Central Saint Martins)** (伦敦，英国) — 中央圣马丁学院由 Carole Collet 领导的研究实验室，探索生物学和生物技术如何塑造可持续的设计未来。 http://www.designandlivingsystems.com/
 - **Digital Naturalism Laboratories (Dinalab)** (甘博阿，巴拿马) — 位于巴拿马雨林边缘的野外实验室和创客空间，艺术家、生物学家和黑客在这里制作研究和与野生动物互动的工具。 https://www.dinalab.net/
+- **Dolphin Communication Project** (美国 / 巴哈马) — 由 Kathleen Dudzinski 领导的非营利组织，研究野生与人工饲养海豚如何通过声音和触碰进行沟通，并开展关于海豚行为的公众教育。 https://www.dolphincommunicationproject.org/
+- **DolphinGemma (Google × Wild Dolphin Project)** (山景城，美国) — Google 的开源音频语言模型，基于 Wild Dolphin Project 数十年的录音训练，学习海豚发声的结构并生成类似海豚的声音序列。 https://blog.google/innovation-and-ai/products/dolphingemma/
+- **Dominica Sperm Whale Project** (多米尼克) — 始于 2005 年的长期野外研究，在多米尼克近海追踪抹香鲸家族个体，记录它们的发声族群与文化；其数据是 Project CETI 的基础。 http://www.thespermwhaleproject.org/
+- **Duke Canine Cognition Center** (达勒姆，美国) — Brian Hare 在杜克大学的实验室，研究狗如何思考与解读人类信号，所用游戏也可由主人通过 Dognition 平台来玩。 https://evolutionaryanthropology.duke.edu/research/dogs
 - **Earth BioGenome Project** (全球) — 一项国际“登月计划”，旨在测序地球上所有已知真核生物的基因组，为保护和生物学研究提供资源。 https://www.earthbiogenome.org/
+- **Earth Species Project** (伯克利，美国) — 非营利 AI 实验室，构建 NatureLM-audio 等开源机器学习模型来解码非人类动物的沟通，并发布生物声学基准与数据集。 https://earthspecies.org/
+- **Eleos AI Research** (美国) — 非营利研究机构，研究 AI 系统是否可能具有意识或福利，并就如何评估与应对这种可能性向 AI 实验室提供建议。 https://eleosai.org/
+- **ElephantVoices** (肯尼亚 / 挪威) — 由 Joyce Poole 和 Petter Granli 创立的非营利组织，研究大象的沟通，并发布 Elephant Ethogram——一个关于非洲草原象行为与叫声的开放数据库。 https://www.elephantvoices.org/
 - **Environmental Neuroscience Lab (University of Chicago)** (芝加哥，美国) — Marc Berman 的实验室，研究自然与城市环境如何影响注意力、情绪和行为，包括注意力恢复理论的研究。 https://voices.uchicago.edu/bermanlab/
 - **European Centre for Environment and Human Health (University of Exeter)** (特鲁罗，康沃尔，英国) — 埃克塞特大学的研究中心，研究绿色与蓝色空间等自然环境如何影响人类健康，例如“每周在自然中待 120 分钟”的发现。 https://www.ecehh.org/
 - **Fab Lab Barcelona (IAAC)** (巴塞罗那，西班牙) — IAAC 的数字制造实验室，是全球 Fab Lab 网络的枢纽之一，研究分布式制造、生物材料和 Fab City。 https://fablabbcn.org/
+- **Family Dog Project (ELTE)** (匈牙利布达佩斯) — 布达佩斯罗兰大学的研究团队，开创了狗与人沟通的研究，包括在狗聆听人类语言时进行脑成像。 https://ethology.elte.hu/Family_Dog_Project
+- **Faunalytics** (美国) — 为动物倡导者开展研究的非营利机构，维护大型研究资料库；它参与开发了衡量 AI 模型中物种歧视偏见的基准测试。 https://faunalytics.org/
+- **Forethought** (牛津，英国) — 研究如何应对向先进 AI 过渡的非营利机构，议题包括数字心智的道德地位与权利。 https://www.forethought.org/
+- **Foundations of Animal Sentience (ASENT)** (伦敦，英国) — 由欧洲研究理事会资助、Jonathan Birch 领导的 LSE 项目（2019–2024），开发了评估章鱼、蟹类和昆虫等动物感知能力的方法，并将其与福利政策相连接。 https://www.lse.ac.uk/cpnss/archived-research-project-and-grants/foundations-of-animal-sentience-asent
 - **FUNGAR – Fungal Architectures** (布里斯托，英国) — 欧盟资助的项目，目标是用菌丝体生长出既能感知又能计算的建筑。 https://www.fungar.eu/
 - **FUNGATERIA** (线上) — 欧盟 Pathfinder 项目，用真菌和细菌开发可自我生长、自我修复的工程化活体材料。 https://www.fungateria.eu/
 - **Future Generations Commissioner for Wales** (加的夫，威尔士，英国) — 根据 2015 年《威尔士后代福祉法》设立的机构，代表尚未出生者的利益，建议威尔士公共部门进行长期思考。 https://www.futuregenerations.wales/
+- **Global Priorities Institute (Oxford)** (牛津，英国) — 牛津大学研究机构（2018–2025），在全球优先事项方面开展哲学与经济学研究，包括动物的道德权重和对长远未来的“无知”问题。 https://www.globalprioritiesinstitute.org/
 - **Human Interaction with Nature and Technological Systems Lab (HINTS, University of Washington)** (西雅图，美国) — Peter Kahn 在华盛顿大学的实验室，研究人如何与自然以及机器人、自然影像等“技术自然”互动，并提出“环境代际遗忘”概念。 https://depts.washington.edu/hints/
+- **Humane League Labs** (美国) — The Humane League 的研究部门，检验哪些信息和倡导策略最能有效减少养殖动物的痛苦。 https://thehumaneleague.org/article/humane-league-labs
 - **ICARUS (International Cooperation for Animal Research Using Space)** (拉多尔夫采尔，德国) — 马克斯·普朗克的项目，用卫星读取的微型标签在全球追踪小型动物，建立追踪迁徙与动物行为的“动物互联网”。 https://www.icarus.mpg.de/
 - **Indigenous Protocol and AI Working Group** (全球) — 一个由原住民学者和技术人员组成的小组，探讨如何从原住民视角构建 AI，包括与非人类亲属的关系。它 2020 年的立场文件被广泛引用。 https://www.indigenous-ai.net/
 - **Institute for Computational Design and Construction (University of Stuttgart)** (斯图加特，德国) — Achim Menges 领导的研究所，研究仿生的计算设计建筑，包括模仿甲虫壳和蜘蛛网的纤维展亭。 https://www.icd.uni-stuttgart.de/
 - **Institute for Computer Designed Organisms** (伯灵顿，美国) — 由佛蒙特大学和塔夫茨大学 xenobot 团队设立的研究所，用人工智能设计新的活体机器。 https://cdorgs.github.io/
 - **Institute for the Future (IFTF)** (帕洛阿尔托，加利福尼亚州，美国) — 一个非营利未来研究机构，制作长期预测、游戏和情景，包括关于气候未来和人与自然关系的研究。 https://www.iftf.org/
 - **IPBES (Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services)** (波恩，德国) — 为政策制定者评估生物多样性状况的政府间机构。它 2022 年的价值评估把关系性价值和原住民对自然的价值观带入科学与政策讨论。 https://www.ipbes.net/
+- **Jeremy Coller Centre for Animal Sentience (LSE)** (伦敦，英国) — 由 Jonathan Birch 领导的伦敦政治经济学院研究中心，研究动物（以及 AI）具有感知能力的证据并将其转化为政策，延续了促成英国《动物福利（感知）法》的评估工作。 https://www.lse.ac.uk/sentience
 - **K. Lisa Yang Center for Conservation Bioacoustics** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室下属中心，开发录音设备、BirdNET 等 AI 工具和声音分析软件 Raven，通过聆听来监测大象、鲸、鸟类和森林。 https://www.birds.cornell.edu/ccb/
 - **Kapelica Gallery** (卢布尔雅那，斯洛文尼亚) — 卢布尔雅那的当代探索性艺术画廊，是最早展出生物艺术、机器人艺术和身体艺术的机构之一。 https://kapelica.org/
+- **Kinds of Intelligence programme (Leverhulme CFI)** (剑桥，英国) — 剑桥大学的研究项目，比较动物、人类与人工智能；它创建了 Animal-AI 测试平台，用动物认知研究中的任务来测试 AI 智能体。 https://www.lcfi.ac.uk/research/programme/kinds-of-intelligence
 - **KONTEJNER** (萨格勒布，克罗地亚) — 萨格勒布的当代艺术实践机构，策划 Touch Me 艺术节以及关于身体、科学与技术（包括生物艺术）的展览。 https://www.kontejner.org/
 - **Limelight Rainforest** (全球) — 2024 年 XPRIZE 雨林奖的冠军团队，结合树冠筏、无人机、录音设备和 AI 来清点雨林物种。 https://limelightrainforest.org/
 - **Living Architecture (EU project)** (纽卡斯尔，英国) — 欧盟资助的项目，建造了由微生物燃料电池构成的生物反应墙，可以净化水、发电并回应使用者。 https://livingarchitecture-h2020.eu/
 - **Mediamatic** (阿姆斯特丹，荷兰) — 阿姆斯特丹的艺术中心，设有生物技术实验室、发酵厨房和鱼菜共生温室，举办菌丝体和生物艺术工作坊。 https://www.mediamatic.net/
 - **Mediated Matter (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — Neri Oxman 在 MIT 媒体实验室的原研究组，与蚕、细菌和生物聚合物一起做设计，提出“材料生态学”；项目档案仍在线。 https://www.media.mit.edu/groups/mediated-matter/overview/
+- **Messerli Research Institute** (奥地利维也纳) — 维也纳的跨学科研究所，通过比较认知、动物伦理和比较医学来研究人与动物的关系。 https://www.vetmeduni.ac.at/en/messerli
 - **Microsoft AI for Good Lab** (雷德蒙德，华盛顿州，美国) — 微软面向社会和环境问题的应用研究实验室。其生物多样性工作包括 PyTorch-Wildlife、用于红外相机图像的 MegaDetector，以及与伙伴合作的物种监测。 https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/
+- **Minimal Intelligence Lab (MINT Lab, University of Murcia)** (西班牙穆尔西亚) — Paco Calvo 的实验室，研究植物的智能与行为（例如攀援豆类是否会规划动作）以及“最小心智”的哲学。 https://www.um.es/mintlab/
 - **Molecular Information Systems Lab (University of Washington)** (西雅图，美国) — 华盛顿大学与微软合作的实验室，搭建在 DNA 中存储和计算数据的系统。 https://misl.cs.washington.edu/
 - **Molecular Programming Project** (帕萨迪纳，美国) — 跨大学的研究计划，开发让 DNA 等分子进行计算和自组装的理论与工具。 http://molecular-programming.org/
 - **More-Than-Human Life (MOTH) Program, NYU Law** (纽约，美国) — 纽约大学法学院的一个项目，通过法律研究、战略诉讼支持和叙事，推动自然与非人类动物的权利。 https://www.mothlife.org/
@@ -17474,31 +17509,53 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Natural Capital Alliance (formerly Natural Capital Project, Stanford)** (斯坦福，加利福尼亚州，美国) — 由斯坦福大学牵头的合作组织，开发 InVEST 等免费工具，绘制自然给人类带来的益处，包括接触自然对心理健康的益处。 https://naturalcapitalalliance.stanford.edu/
 - **Naturalis Biodiversity Center** (莱顿，荷兰) — 荷兰国家自然历史博物馆和研究中心，也开发 AI 物种识别和自动化生物多样性监测（ARISE）。 https://www.naturalis.nl/
 - **Nature Connectedness Research Group (University of Derby)** (德比，英国) — 一个研究人与自然联结感及其对幸福感和亲自然行为影响的团队，提出了“通往自然联结的路径”。 https://www.derby.ac.uk/research/themes/zero-carbon/zero-carbon-nbs-research-centre/nature-connectedness-research-group/
+- **NC3Rs** (伦敦，英国) — 英国国家中心，资助和推动在科研中替代、减少和优化动物使用（3R），包括 AI 和计算替代方法。 https://nc3rs.org.uk/
 - **Nieuwe Instituut** (鹿特丹，荷兰) — 荷兰国家建筑、设计与数字文化机构，其研究和展览涉及生物基设计和超越人类的视角。 https://nieuweinstituut.nl/en
+- **Ocean Alliance** (格洛斯特，美国) — 由 Roger Payne 创立的鲸类研究非营利组织，他录制的座头鲸歌声引发了“拯救鲸鱼”运动；该组织正在数字化 1200 多盘原始录音带，并开发基于无人机的鲸类研究方法。 https://whale.org/
 - **Open BioLab Brussels** (布鲁塞尔，比利时) — 布鲁塞尔 Erasmus 应用科技大学的开放生物实验室，供学生、市民和创客进行生物技术实验。 https://www.erasmushogeschool.be/nl/labs/openbiolab
 - **Open Wetlab (Waag)** (阿姆斯特丹，荷兰) — Waag 的公共生物实验室，艺术家、设计师和市民在这里亲手操作生物技术，并讨论其社会问题。 https://waag.org/en/lab/open-wetlab/
+- **Oxford Centre for Animal Ethics** (牛津，英国) — 由 Andrew Linzey 创立的独立学术中心，出版《Journal of Animal Ethics》和系列丛书，并举办年度动物伦理暑期学校。 https://www.oxfordanimalethics.com/
 - **Planetary Personhood** (斯德哥尔摩，瑞典) — 由 Nonhuman Nonsense 工作室发起的项目，通过思辨设计、法律草案和公共活动，想象赋予地球和非人类存在法律人格。 https://planetarypersonhood.com/
 - **Potsdam Institute for Climate Impact Research (PIK)** (波茨坦，德国) — 德国的气候与地球系统科学研究所，领导行星边界科学实验室及其年度《行星健康检查》。 https://www.pik-potsdam.de/
+- **Project CETI (Cetacean Translation Initiative)** (多米尼克 / 纽约，美国) — 由海洋生物学家、机器人学家、语言学家和机器学习研究者组成的跨学科项目，在多米尼克近海研究抹香鲸的沟通方式，包括其咔嗒声“codas”的结构。 https://www.projectceti.org/
 - **Qian Lab (Caltech)** (帕萨迪纳，美国) — Lulu Qian 在加州理工学院的实验室，构建能识别模式的 DNA 电路和分子神经网络。 http://qianlab.caltech.edu/
+- **Qualia Research Institute** (旧金山，美国) — 独立研究团体，试图为意识体验与效价建立数学理论，研究范围从现象学研究到神经科学模型。 https://qri.org/
+- **Reciprocal Research** (美国) — 由 Cameron Berg 领导的非营利研究机构，对大语言模型的自我报告、内省以及可能的意识开展实证实验。 https://reciprocalresearch.org/
+- **Rethink Priorities** (远程 / 美国) — 研究型智库，拥有规模较大的动物福利与世界观研究团队；以比较不同物种福利能力的“道德权重项目”和“数字意识模型”著称。 https://rethinkpriorities.org/
 - **Sculpting Evolution (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — Kevin Esvelt 在 MIT 媒体实验室的研究组，开发基因驱动和生态工程工具，并主张由社区公开参与相关决策。 https://www.media.mit.edu/groups/sculpting-evolution/overview/
+- **Sentience Institute** (美国) — 研究“道德圈扩展”的智库，即社会如何开始关心动物以及可能具有感知的 AI，其工作包括“AI、道德与感知”（AIMS）调查。 https://www.sentienceinstitute.org/
 - **Smart Forests** (剑桥，英国) — 剑桥大学的研究项目，研究森林如何通过传感器、无人机和数据成为数字环境，以及这对政治与生态意味着什么。 https://smartforests.net/
 - **Stockholm Resilience Centre** (斯德哥尔摩，瑞典) — 斯德哥尔摩大学关于社会-生态系统与韧性的研究中心，以“行星边界”框架闻名。 https://www.stockholmresilience.org/
+- **Sussex Centre for Consciousness Science** (布莱顿，英国) — 由 Anil Seth 共同主持的萨塞克斯大学研究中心，研究意识体验的大脑基础以及 AI 具有意识的可能性。 https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science
 - **SymbioticA (University of Western Australia)** (珀斯，澳大利亚) — 第一个让艺术家在生物系里亲手做实验的研究室，以“组织培养与艺术项目”和艺术家驻留闻名；网站现已存档。 https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/
 - **TextileLab Amsterdam (Waag)** (阿姆斯特丹，荷兰) — Waag 的开放纺织实验室，设计师在这里试验天然染料、细菌色素和生长材料。 https://waag.org/en/lab/textilelab/
+- **The Alex Foundation** (美国) — 支持 Irene Pepperberg 研究非洲灰鹦鹉认知与沟通的非营利组织，研究始于鹦鹉 Alex，并在 Griffin 身上延续。 https://alexfoundation.org/
+- **The Bat Lab (Yossi Yovel, Tel Aviv University)** (以色列特拉维夫) — 特拉维夫大学的实验室，在野外追踪蝙蝠，并用机器学习对其社交叫声进行分类；Yossi Yovel 同时主持 Coller Dolittle 奖。 https://www.yovelbatlab.com/
+- **The Gorilla Foundation** (伍德赛德，美国) — Koko 项目背后的机构：自 1970 年代起，Francine Patterson 教大猩猩 Koko 一种改编的手语；如今它致力于类人猿庇护与保护。 https://www.koko.org/
 - **The Nature Lab (RISD)** (普罗维登斯，美国) — 罗德岛设计学院的自然史收藏和生物实验室，艺术与设计学生在这里研究标本并与活体系统合作。 https://naturelab.risd.edu/
 - **The Parliament of Things** (阿姆斯特丹，荷兰) — 一个受 Bruno Latour 启发的研究与活动平台，探讨动物、植物、河流和物如何在政治中获得发言权。它围绕北海、土壤和莱茵河的权利举办过多场会议。 https://theparliamentofthings.org/
 - **Transnatural** (阿姆斯特丹，荷兰) — 阿姆斯特丹的画廊与文化中心，展示融合自然与技术的艺术和设计，从生物材料到活体装置。 https://transnatural.org/
+- **Uehiro Oxford Institute (formerly Oxford Uehiro Centre for Practical Ethics)** (牛津，英国) — 牛津大学的伦理学研究中心，其研究者关注道德地位、动物伦理、AI 伦理与道德圈问题。 https://www.practicalethics.ox.ac.uk/
 - **Unconventional Computing Laboratory (UWE Bristol)** (布里斯托，英国) — Andrew Adamatzky 的实验室，用黏菌、真菌、化学反应等非常规介质做计算。 https://uncomp.uwe.ac.uk/
 - **Valldaura Labs (IAAC)** (巴塞罗那，西班牙) — IAAC 位于 Collserola 森林中的自给自足研究园区，学生在现场试验生物基建造、食物和能源系统。 https://valldaura.net/
 - **Waag Futurelab** (阿姆斯特丹，荷兰) — 阿姆斯特丹的技术与社会研究机构，运营 Open Wetlab、TextileLab、FabLab 等开放实验室，并举办生物技术与生态主题的公共项目。 https://waag.org/en/
+- **Welfare Footprint Institute (formerly Welfare Footprint Project)** (美国 / 巴西) — 研究机构，把动物痛苦量化为处于不同强度疼痛中的时间，为无笼饲养、鱼类屠宰方式等做法提供可比较的数字。 https://welfarefootprint.org/
 - **Wellcome Collection** (伦敦，英国) — 伦敦的免费博物馆和图书馆，主题是健康与生命，其展览常委托与生物学和医学合作的艺术家。 https://wellcomecollection.org/
+- **Wild Animal Initiative** (美国) — 非营利组织，通过资助和发表关于野生动物生活的研究、维护开放研究资料库，建设野生动物福利这一科学领域。 https://www.wildanimalinitiative.org/
+- **Wild Animal Welfare Program (NYU)** (纽约，美国) — 纽约大学环境研究系的项目，研究野生动物的福利以及人类如何负责任地改善它，连接动物福利科学、生态学与伦理学。 https://sites.google.com/nyu.edu/wildanimalwelfare/home
+- **Wild Dolphin Project** (美国佛罗里达 / 巴哈马) — 自 1985 年起在巴哈马研究一个野生大西洋斑纹海豚群体的非营利组织，记录它们的声音与行为，并测试 CHAT 等双向水下交流界面。 https://www.wilddolphinproject.org/
+- **Wild Minds Lab (University of St Andrews)** (圣安德鲁斯，英国) — Catherine Hobaiter 的实验室，研究野生类人猿的沟通与认知，其中包括邀请公众协助解读黑猩猩和倭黑猩猩手势的 Great Ape Dictionary 项目。 https://www.wildminds.ac.uk/
 - **Wyss Institute for Biologically Inspired Engineering (Harvard)** (波士顿，美国) — 哈佛大学的研究所，把生物学原理转化为技术，涵盖器官芯片、DNA 纳米技术和工程化活体材料等。 https://wyss.harvard.edu/
 - **YCAM (Yamaguchi Center for Arts and Media)** (山口，日本) — 日本的艺术中心，其 YCAM Bio Research 项目设有生物实验室，举办食物和 DNA 工作坊，并委约与活体系统合作的作品。 https://www.ycam.jp/en/
 
 ### 非营利与倡导组织
 
 - **Amazon Conservation Team** (阿灵顿，弗吉尼亚州，美国 / 哥伦比亚 / 苏里南) — 一个与哥伦比亚和苏里南原住民合作的组织，把祖传知识与 GPS、卫星监测结合起来，绘制并保护他们的森林。 https://www.amazonteam.org/
+- **Amplify for Animals** (线上) — Vegan Hacktivists 的项目，培训并支持动物保护团体有效使用 AI 与数字工具。 https://veganhacktivists.org/amplify
 - **Anima Mundi Law Initiative** (英国) — 一个法律倡议，在法律、生态与文化的交汇处，为气候和生态危机提出有创意又可操作的法律策略。 https://www.animamundilaw.org/
+- **Animal Charity Evaluators** (美国) — 评估动物慈善机构的组织，研究并推荐每一美元能产生最大效益的机构；它也研究 AI 对动物的影响。 https://animalcharityevaluators.org/
+- **Animal Ethics** (国际) — 倡导关怀所有有感知动物的非营利组织，拥有大量关于野生动物苦难的资料库，并制作了 2026 年纪录片《AI & Animals》。 https://www.animal-ethics.org/
+- **Animal Legal Defense Fund** (科塔蒂，美国) — 美国法律倡导组织，通过诉讼保护动物，支持动物法教育项目，并每年发布各州动物保护法律排名。 https://aldf.org/
 - **Arribada Initiative** (英国) — 一个开源保护技术项目，设计低成本的动物标签、相机和传感器，最早从海龟追踪器做起。 https://arribada.org/
 - **Asociación ANDES (Potato Park)** (库斯科，秘鲁) — 秘鲁的一个原住民组织，共同创立了“马铃薯公园”，克丘亚社区在那里以生物文化遗产领地的方式保护数百种本土马铃薯品种。 https://andes.org.pe/
 - **Awana Digital (Mapeo)** (全球) — 一个非营利组织（前身为 Digital Democracy），与原住民社区一起开发 Mapeo 等离线开源工具，用于绘制和监测他们的领地。 https://www.awana.digital/
@@ -17512,23 +17569,28 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Bionyfiken** (斯德哥尔摩，瑞典) — 瑞典生物黑客协会，组织社区实验室活动、工作坊和聚会。 https://bionyfiken.se/
 - **BIOOK** (毕尔巴鄂，西班牙) — 巴斯克地区的社会企业和非营利组织，通过工作坊、套件和播客把 DIY 生物学带给普通市民。 https://biook.org/
 - **BosLab** (波士顿，美国) — 波士顿地区由志愿者运营的社区生物实验室，提供课程并支持会员项目。 https://www.boslab.org/
+- **Carboncopies Foundation** (旧金山，美国) — 支持全脑仿真与“独立于载体的心智”研究的非营利组织，通过研讨会、研究路线图和公众教育开展工作。 https://carboncopies.org/
 - **Center for Democratic and Environmental Rights (CDER)** (美国) — 一个法律中心，协助政府、部落和社区起草自然权利法律。它开展“拥有自己的土地”、传粉者权利等项目，并维护自然权利法律库。 https://www.centerforenvironmentalrights.org/
 - **Center for Humans and Nature** (芝加哥，美国) — 一个非营利组织，汇集哲学家、科学家、艺术家和原住民思想者，通过文章、书籍和期刊 Minding Nature，探讨人类对彼此和对超越人类世界的责任。 https://humansandnature.org/
 - **Community Environmental Legal Defense Fund (CELDF)** (宾夕法尼亚州，美国) — 一家美国法律非营利组织，帮助社区通过承认自然权利的地方法律。它参与起草了美国第一部自然权利条例（Tamaqua，2006）并为厄瓜多尔 2008 年宪法提供咨询。 https://celdf.org/
+- **Compassion in World Farming** (英国戈德尔明) — 国际养殖动物福利组织，反对工厂化养殖，举办动物感知会议，并参与欧盟和英国关于精准畜牧的政策讨论。 https://www.ciwf.org/
 - **Counter Culture Labs** (奥克兰，美国) — 奥克兰的公民科学与生物黑客社区实验室，是 Real Vegan Cheese 和 Open Insulin 项目的发源地。 https://www.counterculturelabs.org/
 - **Crop Trust (Svalbard Global Seed Vault)** (波恩，德国) — 一个国际组织，资助基因库中的作物多样性保护，并支持斯瓦尔巴全球种子库，为种子做可保存数百年的备份。 https://www.croptrust.org/
+- **Crustacean Compassion** (英国) — 英国慈善机构，曾推动在法律上承认蟹和龙虾具有感知能力，如今推动制定人道处理与屠宰规则。 https://www.crustaceancompassion.org/
 - **Cultural Survival** (剑桥，马萨诸塞州，美国) — 一个由原住民主导的非营利组织，支持原住民对土地、语言和文化的权利，运营社区广播，并资助原住民环境捍卫者。 https://www.culturalsurvival.org/
 - **DIYBCN Biohackers** (巴塞罗那，西班牙) — 巴塞罗那的生物黑客社群，开展 DIY 生物学开放工作坊和项目。 https://diybcn.org/
 - **Earth Law Center** (美国) — 一家非营利组织，起草并捍卫赋予河流、海洋和生态系统法律权利的法律，包括《河流权利普遍宣言》。它也为律师和学生提供地球法培训。 https://www.earthlawcenter.org/
 - **Earthwatch Institute** (波士顿，美国 / 牛津，英国) — 一个组织志愿者跟随科学家参与野外科研考察的非营利机构，开展 FreshWater Watch 和“迷你森林”等项目。 https://earthwatch.org/
 - **Embassy of the North Sea** (海牙，荷兰) — 一个“大使馆”，倾听北海的植物、动物和人，与它们对话并为它们谈判。它通过艺术、研究和法律，推动北海最终能代表自己。 https://www.embassyofthenorthsea.com/
 - **End Ecocide on Earth** (法国) — 一个公民运动，起源于 2013 年的欧洲公民倡议，推动把生态灭绝定为罪行，并承认生态系统的权利。 https://www.endecocide.org/en/
+- **Fish Welfare Initiative** (印度 / 国际) — 改善印度和东南亚养殖鱼类状况的非营利组织，与养殖户合作改善水质和养殖密度。 https://www.fishwelfareinitiative.org/
 - **Genspace** (纽约，美国) — 布鲁克林的社区生物实验室，最早的社区实验室之一，向公众提供课程、开放实验室和艺术科学项目。 https://www.genspace.org/
 - **Global Fishing Watch** (华盛顿，美国) — 一个非营利组织，利用卫星和船舶追踪数据发布免费的全球捕捞与船只活动地图，推动海洋透明。 https://globalfishingwatch.org/
 - **Greenspace Scotland** (斯特灵，苏格兰，英国) — 苏格兰的一家慈善机构，关注公园与绿地的质量及其与健康的关系，包括绿色健康伙伴关系和自然处方。 https://www.greenspacescotland.org.uk/
 - **Hackuarium** (勒南，瑞士) — 洛桑附近的瑞士社区实验室，从事 DIY 生物学、开源硬件和公民科学项目。 https://wiki.hackuarium.ch/w/Main_Page
 - **Indigenous Climate Action** (加拿大) — 加拿大一个由原住民主导的组织，把原住民知识与权利放在气候行动的中心，并培养社区气候领导者。 https://www.indigenousclimateaction.com/
 - **Indigenous Leadership Initiative** (加拿大) — 一个第一民族组织，支持加拿大的原住民守护者项目和原住民保护区。 https://www.ilinationhood.ca/
+- **Innovate Animal Ag** (美国) — 帮助养殖者采用改善动物福利技术的非营利组织，例如鸡蛋孵化前性别鉴定和福利监测传感器。 https://innovateanimalag.org/
 - **International Living Future Institute** (西雅图，美国) — 一个运营“生命建筑挑战”的非营利组织。该建筑标准要求再生性、与自然相连的设计，其中包括亲生命设计要求。 https://living-future.org/
 - **International Rivers** (全球) — 一家保护河流及沿河社区、反对破坏性水坝的组织，也推动河流权利。它共同发起国际河流行动日。 https://www.internationalrivers.org/
 - **Lawyers for Nature** (英国) — 英国的一群律师，在决策中为自然发声，就自然权利、河流权利和“让自然进入董事会”的公司模式提供咨询。 https://www.lawyersfornature.com/
@@ -17541,9 +17603,11 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Ngā Tāngata Tiaki o Whanganui (Te Awa Tupua)** (旺格努伊，新西兰) — 旺格努伊河和解协议的部落信托机构。2017 年的《Te Awa Tupua 法》使旺格努伊河成为法人，并由人类监护人代表河流发言。 https://www.ngatangatatiaki.co.nz/
 - **Nonhuman Rights Project** (美国) — 一家民权组织，通过人身保护令诉讼，为大象、黑猩猩等认知复杂的动物争取法律人格与自由。 https://www.nonhumanrights.org/
 - **Open Insulin Foundation** (奥克兰，美国) — 社区生物技术项目，开发开放的小规模生产方案，让胰岛素更便宜。 https://openinsulin.org/
+- **Open Paws** (国际) — 为动物倡导开发 AI 工具和开放数据集的非营利组织，包括训练能考虑动物利益的模型。 https://www.openpaws.ai/
 - **Open Science Network Society** (温哥华，加拿大) — 温哥华的非营利组织，拥有社区科学实验室，通过推广和导师计划让公众亲手做科学。 https://www.opensciencenet.org/
 - **Pachamama Alliance** (旧金山，美国 / 厄瓜多尔) — 应 Achuar 族领袖邀请成立的组织，保护亚马孙雨林，并帮助全球北方的人们重新思考与地球的关系。 https://pachamama.org/
 - **Park Rx America** (美国) — 一个帮助医生为病人开出“去公园和自然中待一段时间”处方并记录这些自然处方的非营利组织。 https://www.parkrx.org/
+- **Policy for Animals** (美国) — 致力于将动物纳入公共政策的机构，并发表了关于 AI 监管如何顾及动物的分析。 https://www.policyforanimals.org/
 - **Quiet Parks International** (全球) — 一个认证没有人为噪声污染的荒野、城市和海洋场所的非营利组织，以保护自然声景。 https://www.quietparks.org/
 - **Rainforest Connection (RFCx)** (旧金山，美国) — 一个非营利组织，把回收的手机改装成太阳能“守护者”监听设备放进森林，实时侦测电锯声和枪声，并通过声音监测生物多样性。 https://rfcx.org/
 - **Rainforest Foundation US** (纽约，美国) — 一个非营利组织，支持中南美洲原住民争取土地权，并培训社区森林监测员使用无人机、手机和卫星警报。 https://www.rainforestfoundation.org/
@@ -17551,18 +17615,24 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **REEF (Reef Environmental Education Foundation)** (基拉戈，佛罗里达州，美国) — 一个海洋保护非营利组织，其“志愿者鱼类调查项目”已从潜水员和浮潜者那里收集了数十万份鱼类调查。 https://www.reef.org/
 - **Revive & Restore** (索萨利托，加利福尼亚州，美国) — 一个把生物技术用于保护的非营利组织，例如克隆黑足鼬和普氏野马，以及对濒危物种进行基因拯救。 https://reviverestore.org/
 - **Saami Council** (萨普米（挪威、瑞典、芬兰、俄罗斯）) — 由四个国家的萨米组织组成的理事会，关注萨米人的权利、土地使用、驯鹿放牧和北极环境政策。 https://www.saamicouncil.net/
+- **Screwworm Free Future** (国际) — 致力于消灭新大陆螺旋锥蝇的计划，这种寄生虫会啃食活体动物；它采用基因驱动和不育昆虫技术，以减少野生动物的痛苦。 https://www.screwworm.org/
 - **Sensing Clues** (荷兰) — 一个荷兰非营利组织，开发用于预防野生动物犯罪和监测自然的开放工具，把野外观察和传感器数据变成共享的态势地图。 https://sensingclues.org/
 - **Shan Shui Conservation Center (山水自然保护中心)** (北京，中国) — 中国的一家自然保护组织，与中国西部的当地社区合作保护雪豹和大熊猫，并举办“自然观察节”。 http://www.shanshui.org/
+- **Shrimp Welfare Project** (国际) — 与养殖户和采购商合作减少养殖虾痛苦的非营利组织，例如推动屠宰前电击致晕，并资助虾类感知研究。 https://www.shrimpwelfareproject.org/
 - **SoundBio Lab** (西雅图，美国) — 西雅图的社区生物实验室，提供工作坊、开放实验室夜和社区 iGEM 团队。 https://www.sound.bio/
 - **Stichting Rechten van de Natuur** (荷兰) — 一个荷兰基金会，推动荷兰承认自然的法律权利，包括为瓦登海等生态系统发起的运动。 https://rechtenvandenatuur.org/
 - **Stop Ecocide International** (荷兰 / 英国) — 一项推动把生态灭绝（对自然造成严重而广泛的破坏）列为国际罪行的运动。它在 2021 年召集专家小组起草了生态灭绝的法律定义。 https://www.stopecocide.earth/
 - **Te Hiku Media** (凯塔亚，新西兰) — 一家毛利媒体机构，自建毛利语语音 AI，并制定了让原住民数据由社区掌控的许可协议。 https://tehiku.nz/
 - **Te Uru Taumatua (Ngāi Tūhoe)** (Te Urewera，新西兰) — Ngāi Tūhoe 部落的管理机构。根据 2014 年《Te Urewera 法》，原国家公园 Te Urewera 成为法律主体，由 Tūhoe 依照自己的价值观共同治理。 https://www.ngaituhoe.iwi.nz/
 - **Terreform ONE** (纽约，美国) — 纽约的非营利建筑与生态设计实验室，用菌丝体、活植物和动物栖息地做原型。 https://www.terreform.org/
+- **The Far Out Initiative** (英国) — 研究一类几乎感受不到疼痛的遗传变异人群的项目，长期目标是用基因编辑减少野生和养殖动物的痛苦。 https://farout.bio/
 - **The Frozen Ark** (诺丁汉，英国) — 由动物园、博物馆和实验室组成的联盟，保存濒危动物的 DNA 和活细胞，避免其遗传信息消失。 https://www.frozenark.org/
 - **The Gaia Foundation** (伦敦，英国) — 一家基金会，与非洲、南美和欧洲的原住民及地方社区合作，保护种子、神圣自然地和水源，并推广地球法理学。 https://www.gaiafoundation.org/
 - **The Long Now Foundation** (旧金山，美国) — 一个鼓励以未来一万年为尺度进行长期思考的基金会，项目包括万年钟、罗塞塔项目和系列讲座。 https://longnow.org/
+- **The Safina Center** (长岛，美国) — 由生态学家、作家 Carl Safina 创立的非营利组织，结合科学、写作和艺术，讲述动物的内心生活以及保护它们的理由。 https://www.safinacenter.org/
 - **Tierra Digna** (波哥大，哥伦比亚) — 哥伦比亚的一个社会正义研究中心，提起了使宪法法院在 2016 年宣布阿特拉托河为权利主体的诉讼。它支持非裔和原住民社区捍卫自己的领地。 https://tierradigna.org/
+- **Universities Federation for Animal Welfare (UFAW)** (英国惠特汉普斯特德) — 英国科学慈善机构，资助动物福利科学研究，出版期刊《Animal Welfare》，并举办改善圈养与野生动物生活的会议。 https://scienceforanimalwelfare.org/
+- **Vegan Hacktivists** (国际) — 志愿者技术团体，免费为动物保护组织构建网站、应用和数据工具；其设计工作室为 Violet Studios。 https://veganhacktivists.org/
 - **Wild Law Institute** (开普敦，南非) — 一个研究机构，基于地球法理学发展法律与实践，让人们对地球的健康负责。它源于 Cormac Cullinan 关于“野性法”的工作。 https://www.wildlaw.net/
 - **Wild Me (Wildbook)** (波特兰，俄勒冈州，美国) — Wildbook 开源软件的开发团队，能从研究者和公众拍摄的照片中识别鲸鲨、斑马、长颈鹿等动物个体。 https://www.wildme.org/
 - **Wildlife Protection Solutions** (全球) — 一个非营利组织，在保护区部署远程相机和 AI（wpsWatch），侦测偷猎者并监测野生动物。 https://wildlifeprotectionsolutions.org/
@@ -17571,7 +17641,10 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 ### 网络与社群
 
 - **#NatureForAll (IUCN)** (全球) — 由 IUCN 发起的全球运动，旨在激发人们对自然的热爱，分享如何让人（尤其是年轻人）与自然建立联系的工具和故事。 https://natureforall.global/
+- **ARCANI (Accelerating Research Collaboration on Artificial and Natural Intelligences)** (美国) — 由美国国家科学基金会资助的研究协调网络，连接研究生物智能与人工智能的学术群体，合作方包括 Diverse Intelligences、圣塔菲研究所、Earth Species Project 和 Interspecies Internet。 https://www.arcanigroup.org/
 - **Association for Advancing Participatory Sciences (formerly Citizen Science Association)** (美国) — 一个面向运营或研究公众参与科学项目人员的专业协会，出版期刊 Citizen Science: Theory and Practice。 https://participatorysciences.org/
+- **Association for Mathematical Consciousness Science** (国际) — 学术协会，推动以形式化和数学方法研究意识科学，并发表过关于负责任地研究 AI 意识的公开信。 https://amcs-community.org/
+- **Association for the Scientific Study of Consciousness (ASSC)** (国际) — 意识科学领域的主要学术学会；其年会汇聚研究人类、动物和机器意识的神经科学家、心理学家和哲学家。 https://theassc.org/
 - **Australian Citizen Science Association** (澳大利亚) — 一个全国性网络，通过项目检索、工作组和会议支持澳大利亚的公民科学。 https://citizenscience.org.au/
 - **Australian Earth Laws Alliance (AELA)** (澳大利亚) — 澳大利亚的全国性网络，与原住民知识持有者合作，推广地球法理学和自然权利。它曾为大堡礁等生态系统举办公民法庭。 https://www.earthlaws.org.au/
 - **Bioart Society (SOLU)** (赫尔辛基，芬兰) — 赫尔辛基的协会，支持关于生命科学与生态的艺术，运营 SOLU 空间和位于 Kilpisjärvi 野外站的 Ars Bioarctica 驻留。 https://bioartsociety.fi/
@@ -17585,6 +17658,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Build-a-Cell** (线上) — 开放的国际研究者社群，致力于用非生命组分构建合成活细胞。 https://www.buildacell.org/
 - **Children & Nature Network** (明尼阿波利斯，美国) — 由《林间最后的小孩》作者 Richard Louv 共同创立的网络，致力于让每个孩子每天都能接触自然，并维护一个关于自然与儿童健康的研究资料库。 https://www.childrenandnature.org/
 - **Community Biotechnology Initiative (MIT Media Lab)** (剑桥（马萨诸塞州），美国) — MIT 媒体实验室的项目，支持全球的社区生物实验室，并召集“全球社区生物峰会”。 https://www.media.mit.edu/groups/community-bio/overview/
+- **Comparative Cognition Society** (美国) — 研究跨物种认知的学术学会；它举办年度国际比较认知大会（CO3），并出版期刊《Comparative Cognition & Behavior Reviews》。 https://comparativecognition.org/
 - **ConservationDrones.org** (全球) — 一个分享如何制作和使用低成本无人机进行野生动物调查、森林测绘与保护的社群。 https://conservationdrones.org/
 - **Country Needs People** (澳大利亚) — 一个由澳大利亚原住民和托雷斯海峡岛民组织组成的联盟，倡导原住民护林员项目和原住民保护区。 https://www.countryneedspeople.org.au/
 - **Dark Mountain Project** (英国) — 一个作家和艺术家网络，始于 2009 年的《去文明化》宣言，出版在生态崩溃时代寻找新故事的书籍。 https://dark-mountain.net/
@@ -17593,6 +17667,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Earth System Governance Project** (全球) — 一个全球研究网络，研究社会如何治理人与地球系统的关系，包括自然权利与行星正义方面的工作。 https://www.earthsystemgovernance.org/
 - **Engineering Biology Research Consortium (EBRC)** (埃默里维尔，美国) — 由研究者和公司组成的美国联盟，为工程生物学编写路线图和政策指南。 https://ebrc.org/
 - **European Citizen Science Association (ECSA)** (柏林，德国) — 一个会员制协会，连接欧洲的公民科学实践者，发布了“公民科学十项原则”，并每两年举办一次大会。 https://www.ecsa.ngo/
+- **FAST (Farmed Animal Strategic Team)** (线上) — 长期运营的邮件列表与资源中心，连接为养殖动物专业工作的人士，并列出职位、资助与工具信息。 https://fastcommunity.org/
 - **Firesticks Alliance** (澳大利亚) — 一个由原住民主导的网络，在澳大利亚各地复兴文化燃烧，即用火照护土地的传统做法。 https://www.firesticks.org.au/
 - **Forest School Association** (英国) — 英国森林学校的专业组织。森林学校是一种长期户外学习方式，孩子们定期在林地中学习。 https://forestschoolassociation.org/
 - **Forest Therapy Society (森林セラピーソサエティ)** (东京，日本) — 日本的一个组织，认证“森林疗法基地”和“森林疗法步道”（经测量证实步行有放松效果的森林），并培训森林疗法向导。 https://www.fo-society.jp/
@@ -17607,17 +17682,25 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **GLOBE Program (GLOBE Observer)** (全球（NASA 支持）) — 一个国际科学教育项目，学生和公众收集云、地表覆盖、树木和蚊子的数据，供 NASA 科学家使用。 https://www.globe.gov/
 - **Hackteria** (苏黎世，瑞士) — 开源生物艺术的全球网络，分享 DIY 实验工具、维基教程，并在欧洲和亚洲举办游牧式工作坊。 https://www.hackteria.org/
 - **Harmony with Nature (United Nations)** (纽约，美国) — 联合国的一个项目，追踪全球自然权利立法，并召集地球法理学专家组成知识网络。它每年就“与自然和谐相处”向联合国大会提交报告。 http://www.harmonywithnatureun.org/
+- **Hive** (线上) — 面向养殖动物倡导者的社群平台，提供 Slack 工作区、通讯、课程和活动，帮助提升技能、建立联系。 https://www.joinhive.org/
 - **HONF Foundation (House of Natural Fiber)** (日惹，印度尼西亚) — 日惹的新媒体艺术实验室，以 Micronation/Macronation 生物技术项目和社区 DIY 科学闻名。 https://honf.org/
 - **ICCA Consortium** (全球) — 一个全球协会，支持由原住民和地方社区保护的领地和区域（ICCA），也称“生命的领地”。 https://www.iccaconsortium.org/
 - **iNaturalist** (奥克兰，加利福尼亚州，美国) — 一个全球社群和应用，人们分享植物、动物和真菌的照片，由其他用户和计算机视觉协助鉴定。这些观察记录通过 GBIF 进入科研。 https://www.inaturalist.org/
 - **Indigenous Environmental Network** (贝米吉，明尼苏达州，美国) — 一个原住民基层团体联盟，致力于环境与经济正义、保护圣地和地球母亲的权利。 https://www.ienearth.org/
+- **Insect Welfare Research Society** (美国) — 推动与资助昆虫感知与福利研究的科学学会，尤其关注为食品和饲料而养殖的数十亿只昆虫。 https://www.insectwelfare.com/
 - **International Barcode of Life (iBOL)** (圭尔夫，加拿大) — 一个研究联盟，为所有多细胞生物建立 DNA 条形码库，使人们能从少量组织或环境样本中识别物种。 https://ibol.org/
+- **International Bioacoustics Society (IBAC)** (国际) — 自 1969 年起活跃的科学学会，面向研究动物发声、听觉与声音沟通的研究者，并定期举办生物声学会议。 https://ibac.info/
+- **International Society for Applied Ethology** (国际) — 研究家养、圈养和野生动物行为及其与福利和管理关系的科学学会。 https://www.applied-ethology.org/
 - **International Society for Artificial Life (ISAL)** (线上) — ALIFE 会议和《Artificial Life》期刊背后的学会，研究软件、硬件与湿件中的类生命行为。 https://alife.org/
 - **International Society of Nature and Forest Medicine (INFOM)** (东京，日本) — 一个研究森林与自然对健康影响的学术团体，例如森林浴对压力激素和免疫细胞的影响。 https://www.infom.org/
+- **Interspecies Internet** (美国特拉华州 / 英国) — 面向新兴跨物种沟通领域的非营利网络（成员超过 11,500 人）。它举办每月一次的 Interspecies Conversations 讲座、研讨会，发布《Animals in Translation》报告，并推进共享的伦理与数据标准项目。 https://www.interspecies.io/
 - **iSpot** (米尔顿凯恩斯，英国（开放大学）) — 开放大学的一个社群，通过照片鉴定野生动物，旨在帮助初学者向专家学习鉴定。 https://www.ispotnature.org/
 - **Journey North** (威斯康星大学麦迪逊分校，美国) — 一个公民科学项目，根据公众目击记录绘制帝王蝶、蜂鸟等物种的季节迁徙地图。 https://journeynorth.org/
 - **Just One Giant Lab (JOGL)** (巴黎，法国) — 开放研究平台，由 La Paillasse 的创始人之一参与创办，把分散各地的志愿者连接起来共同解决科学问题。 https://www.jogl.network/
 - **Lifepatch** (日惹，印度尼西亚) — 日惹的艺术、科学与技术公民组织，与当地社区开展 DIY 生物、水质监测和发酵项目。 https://lifepatch.id/
+- **ManyBirds** (国际) — 大团队科学项目，协调多个实验室在众多鸟类物种中开展行为与认知研究，以建立鸟类心智的比较图景。 https://themanybirds.com/
+- **ManyDogs Project** (国际) — 由多个犬类认知实验室组成的国际联盟，在多个研究点和犬种之间开展联合研究，例如狗如何理解人类的指向手势。 https://manydogs.org/
+- **ManyPrimates** (国际) — 开放协作的研究网络，在众多灵长类物种和研究地点开展相同的认知实验，以获得更大且可重复的样本。 https://manyprimates.github.io/
 - **Monarch Watch** (堪萨斯大学，美国) — 堪萨斯大学的项目，志愿者为帝王蝶做标记，并种植马利筋建立“帝王蝶驿站”，支持它们迁徙。 https://monarchwatch.org/
 - **Mosquito Alert** (巴塞罗那，西班牙) — 一个公民科学应用和研究项目，人们拍摄蚊子和孳生地，帮助专家和 AI 追踪入侵和传病的蚊种。 https://www.mosquitoalert.com/
 - **NaturaLista (CONABIO)** (墨西哥城，墨西哥) — iNaturalist 在墨西哥的国家节点，由生物多样性委员会 CONABIO 运营，拥有拉丁美洲最大的观察者社群之一。 https://www.naturalista.mx/
@@ -17630,6 +17713,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Organoid Intelligence (OI) Community** (巴尔的摩，美国) — 类器官智能研究的社群网站，列出创始研究者与资源，并主办国际类器官智能会议。 https://organoidintelligence.org/
 - **Pl@ntNet** (蒙彼利埃，法国) — 法国的科研联盟与应用，用 AI 从照片识别植物，同时收集观察数据，帮助植物学家绘制植物多样性地图。 https://plantnet.org/
 - **Planetary Health Alliance** (巴尔的摩，美国（约翰斯·霍普金斯大学）) — 一个由数百所大学和机构组成的联盟，研究人类健康如何依赖地球自然系统的健康。 https://www.planetaryhealthalliance.org/
+- **PRISM (Partnership for Research Into Sentient Machines)** (伦敦，英国) — 非营利合作组织，围绕“AI 可能具有意识”召集研究者、企业和政策制定者，并举办相关活动、制作播客。 https://www.prism-global.com/
 - **Project FeederWatch** (伊萨卡，美国 / 加拿大) — 由康奈尔鸟类学实验室和加拿大鸟类组织开展的冬季调查，人们统计自家后院喂食器旁的鸟类。 https://feederwatch.org/
 - **Public Lab** (美国（已存档）) — 一个开发 DIY 环境调查工具的社群，如气球与风筝航拍、低成本光谱仪，始于 2010 年墨西哥湾漏油事件。其网站现为存档。 https://publiclab.org/
 - **Reef Check** (玛丽安德尔湾，加利福尼亚州，美国) — 一个国际项目，培训志愿潜水员用统一方法调查珊瑚礁和海藻林的健康状况。 https://www.reefcheck.org/
@@ -17638,6 +17722,9 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **S+T+ARTS** (布鲁塞尔，比利时) — 欧盟委员会的“科学、技术与艺术”计划，资助驻留、奖项和区域中心，让艺术家与研究者合作。 https://starts.eu/
 - **SciArt Initiative** (纽约，美国) — 非营利组织，通过驻留、公开征集、展览和线上社群把科学家与艺术家联系起来。 https://www.sciartinitiative.org/
 - **Science Gallery Network** (都柏林，爱尔兰) — 由大学支持的画廊网络（亚特兰大、班加罗尔、伦敦、墨尔本、蒙特雷等），面向年轻人举办艺术与科学展览。 https://sciencegallery.org/
+- **Scottish Primate Research Group** (苏格兰，英国) — 由苏格兰多所大学组成的研究网络，研究灵长类的行为、认知与沟通，包括爱丁堡动物园的 Living Links 研究中心；也是 ARCANI 成员。 https://sprg.org.uk/
+- **Sentient Futures** (旧金山，美国) — 面向 AI、动物与可能具有感知的数字心智交叉领域的领域建设型非营利组织。它开设 AI×Animals 课程，运营项目孵化器、驻留项目、拥有 1700 多名成员的 Slack 社群，并举办 Sentient Futures 峰会。 https://sentientfutures.ai/
+- **Sentientism** (线上) — 一个网络、播客和线上社群，倡导将证据与理性和对所有有感知生命的道德关怀相结合的世界观。 https://sentientism.info/
 - **SMART Conservation Tools** (全球) — 由多家保护组织组成的伙伴关系，维护 SMART 免费软件。全球一千多个保护区用它规划护林员巡逻、记录野生动物和威胁。 https://smartconservationtools.org/
 - **SynBio Africa** (坎帕拉，乌干达) — 通过培训、研究和政策对话在非洲建设合成生物学能力的组织。 https://synbioafrica.com/
 - **Te Mana Raraunga (Māori Data Sovereignty Network)** (新西兰) — 一个由毛利研究者和从业者组成的网络，制定毛利人掌控关于其人民、土地和珍宝（包括环境数据）的数据的原则。 https://www.temanararaunga.maori.nz/
@@ -17654,20 +17741,34 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 ### 资助与奖项
 
+- **Accelerating Research on Consciousness (Templeton World Charity Foundation)** (巴哈马拿骚) — 资助项目，组织“对抗性合作”，让相互竞争的意识理论在预注册实验中直接对比检验。 https://www.templetonworldcharity.org/our-initiatives/accelerating-research-consciousness
+- **Animal Welfare Fund (EA Funds)** (线上) — 为动物福利项目提供中小额资助的基金，包括被忽视物种和与 AI 相关的动物工作。 https://funds.effectivealtruism.org/funds/animal-welfare
 - **Bio Art & Design Award (BAD Award)** (埃因霍温，荷兰) — 荷兰奖项，让年轻艺术家和设计师与荷兰生命科学实验室结对，资助新作品并在 MU Hybrid Art House 展出。 https://badaward.nl/
+- **Coefficient Giving (formerly Open Philanthropy) — Farm Animal Welfare** (旧金山，美国) — 全球最大的养殖动物福利工作资助者（前身为 Open Philanthropy）；它同时资助 AI 安全和数字心智研究。 https://coefficientgiving.org/
+- **Coller Dolittle Prize for Two-way Interspecies Communication** (以色列特拉维夫 / 英国伦敦) — 由 Jeremy Coller 基金会与特拉维夫大学设立的奖项：每年 10 万美元奖励解码动物沟通的研究，并为首个实现与另一物种双向交流的团队设立大奖。 https://coller-dolittle-24.sites.tau.ac.il/
+- **Digital Minds Fund (Longview Philanthropy)** (伦敦，英国) — 由 Longview Philanthropy 运营的资助项目，资助关于 AI 系统可能的意识、福利与道德地位的研究和应用工作。 https://www.longview.org/fund/digital-minds-fund/
+- **Diverse Intelligences (Templeton World Charity Foundation)** (巴哈马拿骚) — 资助动物、植物、微生物和机器中多种智能形式研究的计划，并为青年学者举办暑期研习班。 https://www.templetonworldcharity.org/our-initiatives/diverse-intelligences
+- **Jeremy Coller Foundation** (伦敦，英国) — 投资人 Jeremy Coller 的慈善基金会，资助反对工厂化养殖的工作、LSE 动物感知研究中心、Coller Dolittle 奖以及早期的 Interspecies Internet 研讨会。 https://www.jeremycollerfoundation.org/
+- **Macroscopic Ventures** (瑞士) — 慈善基金（前身为 Polaris Ventures），资助减少先进 AI 带来的大规模苦难的工作，包括数字感知研究。 https://macroscopic.org/
 - **Prix Ars Electronica** (林茨，奥地利) — 历史悠久的媒体艺术奖项，其“混合艺术”和“人工生命与智能”类别表彰过许多重要的生物艺术作品。 https://ars.electronica.art/prix/en/
 - **S+T+ARTS Prize** (林茨，奥地利) — 欧盟委员会委托 Ars Electronica 运营的奖项，表彰科学、技术与艺术的合作，获奖者中不少是生物相关项目。 https://starts-prize.aec.at/en/
 - **Schering Stiftung** (柏林，德国) — 柏林的基金会，支持艺术与科学，为与生命科学合作的艺术家提供展览和奖项。 https://scheringstiftung.de/de/
+- **Stray Dog Institute** (美国) — 资助并研究终结工厂化养殖、建设更公正食物体系的基金会，关注技术对动物的影响。 https://straydoginstitute.org/
 - **The Earthshot Prize** (伦敦，英国) — 一项年度奖项，每年为恢复自然、净化空气、复兴海洋、减少废弃物和应对气候的五个方案各颁发 100 万英镑。 https://earthshotprize.org/
+- **The Navigation Fund** (美国) — Jed McCaleb 设立的基金会，资助养殖动物福利、AI 安全等被忽视领域；是 Sentient Futures 的支持者之一。 https://www.navigation.org/
 - **XPRIZE Rainforest** (全球) — 一项奖金 1000 万美元的竞赛，参赛团队用无人机、环境 DNA、声音和 AI 快速调查雨林生物多样性。决赛于 2024 年在亚马孙举行。 https://www.xprize.org/prizes/rainforest
 
 ### 项目、驻留与课程
 
+- **AI×Animals course (Sentient Futures)** (线上) — 免费的 8 周线上研修课程，课程大纲公开，内容涵盖精准畜牧、AI 辅助的跨物种沟通、遗传福利、替代蛋白，以及变革性 AI 时代的动物倡导。 https://sentient-futures.notion.site/aixa
+- **Ambitious Impact (Charity Entrepreneurship)** (伦敦，英国) — 培训创始人创办高影响力慈善机构的孵化器，孵化了 Shrimp Welfare Project 和 Fish Welfare Initiative 等多个动物福利组织。 https://www.ambitiousimpact.com/
+- **Animal Advocacy Careers** (线上) — 运营职位板、技能课程和职业咨询的机构，帮助人们找到为动物带来高影响力的工作。 https://animaladvocacycareers.org/
 - **Anthropocene Curriculum (HKW / Max Planck Institute for the History of Science)** (柏林，德国) — 世界文化宫与马克斯·普朗克科学史研究所的长期合作项目，通过研习营、田野工作和线上档案，发展关于人类世的实验性教育。 https://www.anthropocene-curriculum.org/
 - **Association of Nature and Forest Therapy Guides and Programs (ANFT)** (美国) — 一个培训和认证森林疗愈向导的组织，把日本的“森林浴”改编为有引导的感官漫步。 https://anft.earth/
 - **BioBuilder Educational Foundation** (剑桥（马萨诸塞州），美国) — 把合成生物学带进高中的非营利组织，提供教师培训、教材和实验活动。 https://biobuilder.org/
 - **Biodesign Challenge** (纽约，美国) — 面向艺术、设计与科学专业学生的国际项目：学生用一个学期以生物技术为材料做设计，每年在峰会上展示并评奖。 https://www.biodesignchallenge.org/
 - **BioHack Academy (Waag)** (阿姆斯特丹，荷兰) — Waag 开设的课程，学员自己动手制作开源生物实验室设备，并学习培养和改造生物。 https://waag.org/en/project/biohack-academy/
+- **Center for Animal Law Studies (Lewis & Clark Law School)** (波特兰，美国) — 法学院下属中心，开设首个动物法法学硕士（LL.M.）项目和法律诊所，并出版《Animal Law Review》。 https://law.lclark.edu/centers/animal_law_studies/
 - **CHEMARTS (Aalto University)** (埃斯波，芬兰) — 阿尔托大学化学与设计学生的合作项目，为木基及其他生物材料开发新用途。 https://chemarts.aalto.fi/
 - **Cultivamos Cultura** (圣路易斯，葡萄牙) — Marta de Menezes 在葡萄牙乡村创办的艺术与科学中心，提供驻留、生物实验室和生物艺术工作坊。 https://cultivamoscultura.com/
 - **Fabricademy** (巴塞罗那，西班牙) — 分布在 Fab Lab 网络中的纺织与技术课程，内容包括生物制造材料、生物染料和可穿戴设备。 https://textile-academy.org/
@@ -17685,41 +17786,75 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 
 ### 会议与活动系列
 
+- **ACI — International Conference on Animal-Computer Interaction** (国际) — 动物-计算机交互领域的年度会议，议题包括与动物一起、为动物设计技术，以及让动物参与研究的伦理。 https://www.aciconf.org/
+- **AI for Non-Human Animal Communication (NeurIPS workshop)** (线上 / NeurIPS) — 机器学习会议的专题研讨会，汇集将 AI 用于研究动物发声、手势和其他信号的研究者，并讨论解码这些信号的伦理问题。 https://aiforanimalcomms.org/
 - **Ars Electronica** (林茨，奥地利) — 位于林茨的艺术、技术与社会节展、博物馆和实验室，每年的艺术节常展出生物艺术、合成生物学和活体机器作品。 https://ars.electronica.art/news/en/
 - **Audubon Christmas Bird Count** (美洲) — 持续时间最长的公民科学调查，自 1900 年起每年冬季举行，志愿者在美洲各地固定的圆形区域内统计鸟类。 https://www.audubon.org/conservation/science/christmas-bird-count
 - **Big Butterfly Count** (英国) — 英国蝴蝶保护协会组织的夏季调查，公众用 15 分钟统计蝴蝶和日行蛾类。 https://bigbutterflycount.butterfly-conservation.org/
 - **BIO – Biennial of Design Ljubljana** (卢布尔雅那，斯洛文尼亚) — 欧洲历史最悠久的设计双年展之一，由建筑与设计博物馆主办，近年各届聚焦生态、食物和活体材料。 https://www.bio.si/
 - **Biofabricate** (纽约，美国) — 由 Suzanne Lee 创办，每年举办峰会，并运营一个面向生物生长材料的产业网络和生物材料学习网站。 https://www.biofabricate.co/
 - **Biohacking Village** (拉斯维加斯，美国) — 在 DEF CON 大会举办的非营利社群和活动，关注生物黑客、医疗设备安全和开放生物学。 https://www.villageb.io/
+- **CARE — Conference on Animal Rights in Europe** (欧洲) — 由 Anima International 组织的大型欧洲会议，供动物倡导者、研究者和机构交流策略与研究。 https://www.careconf.eu/
 - **City Nature Challenge** (全球) — 一年一度的生物快速调查，全球城市比赛在四天内于 iNaturalist 上记录最多的城市野生生物。 https://www.citynaturechallenge.org/
+- **Decoding Communication in Nonhuman Species (Simons Institute workshops)** (伯克利，美国) — 加州大学伯克利分校西蒙斯计算理论研究所的系列研讨会，与 Project CETI 联合举办（2020、2023、2024、2025），计算机科学家、语言学家和生物学家在此分享解码动物沟通的研究。 https://simons.berkeley.edu/workshops/decoding-communication-nonhuman-species-iv-co-hosted-project-ceti
 - **Global Community Bio Summit** (剑桥（马萨诸塞州），美国) — 每年举办的峰会，最初在 MIT 媒体实验室举行，汇聚全球社区生物实验室、生物黑客和生物艺术家。 https://www.biosummit.org/
 - **International Rights of Nature Tribunal** (全球) — 由 GARN 召集的民间法庭，依据《地球母亲权利普遍宣言》审理亚马孙、大堡礁等生态系统受损的案件。 https://www.rightsofnaturetribunal.org/
+- **Interspecies Conversations (lecture series)** (线上) — Interspecies Internet 举办的免费每月线上讲座系列，邀请动物沟通与认知研究者主讲，内容从鹦鹉和蝙蝠的发声到抹香鲸声学和动物-计算机交互。 https://www.interspecies.io/interspecies-conversations
 - **ISNSCE and the DNA Computing Conference** (线上) — 每年举办“DNA 计算与分子编程国际会议”的学会。 https://isnsce.org/
 - **Living Machines Conference** (线上) — 每年举办的国际会议，关注仿生与生物混合系统，从仿生机器人到活体与人工的混合体。 https://livingmachinesconference.eu/2025/
+- **Minding Animals International** (国际) — 国际网络，其会议约每三年举办一次，汇聚动物研究与动物伦理领域的学者、艺术家和倡导者。 https://www.mindinganimals.com/
+- **NYU Mind, Ethics, and Policy Summit** (纽约，美国) — 纽约大学每年举办的两天峰会，研究者、实践者和政策制定者在此讨论哪些非人类重要、有多重要，以及这对法律、政策和 AI 治理意味着什么。 https://nonhumanminds.org/opportunities/
 - **RSPB Big Garden Birdwatch** (英国) — 英国一年一度的调查，数十万人花一小时统计自家花园或附近公园的鸟类。 https://www.rspb.org.uk/whats-happening/big-garden-birdwatch
+- **Sentient Futures Summit** (旧金山，美国) — 每年两次的会议（前身为 AI, Animals & Digital Minds），把 AI 研究者、福利科学家、哲学家和动物倡导者聚在一起，讨论变革性 AI 将如何影响动物与人工心智。 https://sentientfutures.ai/summit
 - **SynBioBeta** (旧金山，美国) — 合成生物学初创公司与投资者的主要行业会议和社群。 https://www.synbiobeta.com/
+- **The Science of Consciousness (conference)** (图森，美国) — 始于 1994 年亚利桑那大学的长期跨学科会议系列，议题涵盖意识理论、动物心智和机器意识。 https://consciousness.arizona.edu/
 
 ### 期刊、播客与报告
 
+- **AI & Animals: A Documentary** (线上) — Animal Ethics 制作的 36 分钟纪录片，讲述 AI 可能如何扩大工厂化养殖规模、在语言模型中带有物种歧视偏见，同时也能助力动物倡导、野生动物福利和替代动物利用的方案。 https://www.aiandanimals.org/
+- **Animal Cognition (journal)** (线上) — Springer 出版的期刊，发表关于从昆虫到类人猿等各类动物思维、学习、记忆和沟通的研究。 https://link.springer.com/journal/10071
+- **Animal Sentience (journal)** (线上) — 由 Stevan Harnad 创办的开放获取跨学科期刊，发表关于动物感受的目标文章，并附有科学家和哲学家的开放同行评论。 https://www.wellbeingintlstudiesrepository.org/animsent/
+- **Animals in Translation (Interspecies Internet report)** (线上) — 来自 2024 年 Interspecies Internet 与圣塔菲研究所联合举办研讨会的多媒体出版物，提出了判断动物沟通是否被“解码”的标准与框架。 https://www.interspecies.io/publication
 - **Atmos** (纽约，美国) — 一本气候与文化杂志，以鲜明的视觉风格发表关于生态、原住民知识和超越人类关系的故事。 https://atmos.earth/
 - **BioDesigned** (线上) — Biodesign Challenge 社群的在线杂志，刊发关于设计、艺术和产业中生物学的文章、访谈与新闻。 https://biodesigned.org/
 - **Biotechnology Design (Cambridge University Press)** (剑桥，英国) — 开放获取期刊，原名 Research Directions: Biotechnology Design，发表设计与生物技术交叉领域的研究。 https://www.cambridge.org/core/journals/biotechnology-design
+- **Cambridge Declaration on Consciousness** (剑桥，英国) — 2012 年由一批神经科学家发表的宣言，指出许多非人类动物（包括所有哺乳动物、鸟类和章鱼）拥有产生意识的神经基础。 https://philiplow.foundation/consciousness/
+- **Consciousness in Artificial Intelligence (Butlin, Long et al. report)** (线上) — 19 位科学家与哲学家 2023 年发表的报告，从神经科学意识理论中提炼出指标属性，并据此评估当前的 AI 系统。 https://arxiv.org/abs/2308.08708
 - **Emergence Magazine** (线上) — 一本线上及印刷杂志，发表关于生态、文化与灵性的文章、影片和音频故事，常以原住民和关系性的世界观为中心。 https://emergencemagazine.org/
+- **Experience Machines (newsletter)** (线上) — Eleos AI 的 Robert Long 在 Substack 上的通讯，讨论 AI 意识、AI 福利与心灵哲学。 https://experiencemachines.substack.com/
 - **For The Wild** (美国) — 一个播客与媒体项目，围绕土地、再野化、原住民抵抗和超越人类世界展开对话。 https://forthewild.world/
 - **Future Ecologies** (温哥华，加拿大) — 一档纪录片式播客，通过关于生态、土地与设计的故事，探索人与自然其他部分的关系。 https://www.futureecologies.net/
+- **Future Perfect (Vox)** (线上) — Vox 的专栏，关注行善的有效方式，定期报道养殖动物福利、动物感知与 AI 福利。 https://www.vox.com/future-perfect
 - **GROW by Ginkgo** (波士顿，美国) — Ginkgo Bioworks 出版的杂志，委约作家和艺术家撰写关于生物技术及其未来的文章、小说和艺术作品。 https://www.growbyginkgo.com/
+- **How I Learned to Love Shrimp (podcast)** (线上) — Amanda Hungerford 和 James Ozden 主持的播客，访谈内容涉及被忽视的动物、动物感知以及帮助它们的策略。 https://www.howilearnedtoloveshrimp.com/
 - **International Journal of Unconventional Computing** (费城，美国) — 发表用物理、化学和生物系统进行计算研究的期刊，由 Andrew Adamatzky 主编。 https://www.oldcitypublishing.com/journals/ijuc-home/
+- **Interspecies Future: A Primer (LAS Art Foundation)** (德国柏林) — LAS Art Foundation 出版的书，收录 60 多位艺术家、科学家和技术专家关于跨物种沟通、非人类智能与原住民知识的文章。 https://www.las-art.foundation/explore/publication-interspecies-future-a-primer
+- **Journal of Animal Ethics** (线上) — 牛津动物伦理中心主办、伊利诺伊大学出版社出版的同行评审期刊，探讨动物的道德地位与对待方式。 https://www.jstor.org/journal/janimalethics
+- **Knowing Animals (podcast)** (线上) — 由哲学家 Josh Milburn 主持的学术播客，动物研究与动物伦理领域的研究者在此讨论自己的工作。 https://knowinganimals.libsyn.com/
 - **Leonardo / ISAST** (旧金山，美国) — 非营利组织，出版 Leonardo 期刊（MIT Press）并举办 LASER 讲座，自 1968 年起是艺术与科学（包括生物艺术）的重要论坛。 https://leonardo.info/
 - **Makery** (巴黎，法国) — 双语在线媒体，报道实验室、创客、DIY 生物学和艺术与科学，关注全球的黑客空间与社区实验室。 https://www.makery.info/en/
 - **Mongabay** (全球) — 一个非营利环境新闻机构，用多种语言报道森林、海洋、野生动物和原住民土地，并设有保护技术专题。 https://www.mongabay.com/
+- **Montreal Declaration for a Responsible Development of AI** (加拿大蒙特利尔) — 2018 年通过蒙特利尔公众咨询起草的 AI 伦理原则宣言，其第一条原则指出 AI 必须促进所有有感知生命福祉的增长。 https://montrealdeclaration-responsibleai.com/
 - **Natural Computing (Springer)** (线上) — Springer 期刊，关注受自然启发或借助自然完成的计算，包括 DNA、分子和细胞计算。 https://link.springer.com/journal/11047
+- **New York Declaration on Animal Consciousness** (纽约，美国) — 2024 年由数百名科学家和哲学家签署的声明，指出有强有力的证据支持哺乳动物和鸟类具有意识体验，并且所有脊椎动物和许多无脊椎动物至少有现实的可能性具有意识。 https://sites.google.com/nyu.edu/nydeclaration/declaration
 - **Noema Magazine** (洛杉矶，美国) — 伯格鲁恩研究所出版的杂志，关注哲学、治理、技术与地球，发表关于非人类智能、行星思维和生态的文章。 https://www.noemamag.com/
 - **Orion Magazine** (北安普顿，马萨诸塞州，美国) — 一本无广告的自然、文化与地方杂志，刊登 Robin Wall Kimmerer、Barry Lopez 等作者关于人与自然关系的写作。 https://orionmagazine.org/
+- **Politics and Animals (journal)** (瑞典隆德) — 开放获取的同行评审期刊，探讨动物的政治与法律地位，从动物公民身份到民主代表。 https://journals.lub.lu.se/pa/
+- **Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans (LSE report)** (伦敦，英国) — Jonathan Birch 等人 2021 年为英国政府撰写的报告，发现章鱼、鱿鱼、蟹和龙虾具有感知能力的有力证据，促使它们被纳入 2022 年《动物福利（感知）法》。 https://www.lse.ac.uk/business/consulting/reports/review-of-the-evidence-of-sentiences-in-cephalopod-molluscs-and-decapod-crustaceans
 - **SciArt Magazine** (线上) — 报道与科学合作的艺术家的在线杂志，按月发布主题刊和访谈。 https://www.sciartmagazine.com/
+- **Sentient (formerly Sentient Media)** (美国) — 非营利新闻机构，报道动物农业、动物福利和动物所受对待，并培训记者报道这些议题。 https://sentientmedia.org/
+- **Taking AI Welfare Seriously (report)** (线上) — Robert Long、Jeff Sebo 等人 2024 年发表的报告，认为部分 AI 系统可能很快具有意识或稳健的能动性，AI 公司应开始为 AI 福利制定政策。 https://arxiv.org/abs/2411.00986
+- **The Sentience Institute Podcast** (线上) — Sentience Institute 的访谈播客，讨论道德圈扩展、数字心智和有效的动物倡导。 https://www.sentienceinstitute.org/podcast
+- **Toulon Declaration** (法国土伦) — 2019 年由土伦大学法学学者发表的宣言，呼吁承认动物是法律上的人格主体，而不是物。 https://www.univ-tln.fr/declaration-de-toulon/
 
 ### 目录、档案与数据集
 
+- **AI Welfare Guide** (线上) — 面向进入 AI 福利研究领域者的入门网站，总结主要意识理论、关键机构与未解问题；在 Sentient Futures 孵化器中完成。 https://aiwelfare.guide/
 - **Allen Coral Atlas** (线上) — 利用卫星图像绘制的全球浅海珊瑚礁地图，并监测珊瑚白化，供珊瑚礁管理者和科学家使用。 https://allencoralatlas.org/
+- **Animal Protection Index (World Animal Protection)** (伦敦，英国) — 对 50 个国家的动物福利立法与政策进行排名的指数，包括是否承认动物具有感知能力。 https://api.worldanimalprotection.org/
+- **Animal Rights Map** (线上) — 动物保护组织、团体和庇护所的交互式世界地图，帮助倡导者相互找到彼此。 https://animalrightsmap.org/
+- **Animal-AI Testbed** (剑桥，英国) — 开源 3D 环境与任务集（2019 年 Animal-AI 奥林匹克赛的基础），用改编自比较动物认知研究的实验来评估 AI 智能体。 https://github.com/Kinds-of-Intelligence-CFI/animal-ai
+- **AnimalHarmBench** (线上) — 开源基准测试，基于 Coghlan 和 Parker 提出的 AI 对动物伤害框架，检验大语言模型如何推理对动物的伤害。 https://github.com/AI-for-Animals/ahb
 - **Arbimon** (线上（Rainforest Connection）) — Rainforest Connection 推出的免费云平台，用于存储、分析和分享生态声学录音，提供物种识别和声景分析工具。 https://arbimon.org/
 - **AskNature** (线上) — Biomimicry Institute 的免费在线库，收录生物策略与仿生设计案例，可按功能检索。 https://asknature.org/
 - **Atlas of Living Australia** (堪培拉，澳大利亚) — 澳大利亚国家生物多样性数据库，整合博物馆、植物标本馆和公民科学的记录，覆盖十万多个物种。 https://www.ala.org.au/
@@ -17727,6 +17862,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **China Bird Report (中国观鸟记录中心)** (中国) — 中国主要的在线鸟类记录数据库，观鸟者在这里提交观鸟记录，用于鸟类分布和保护研究。 http://www.birdreport.cn/
 - **CitSci.org** (科罗拉多州立大学，美国) — 科罗拉多州立大学的免费平台，任何人都可以用它设计和运营公民科学项目，从数据表到分析一应俱全。 https://citsci.org/
 - **Conservation Evidence** (剑桥，英国) — 剑桥大学的免费数据库，汇总保护行动中哪些有效、哪些无效的科学证据。 https://www.conservationevidence.com/
+- **Digital Consciousness Model (Rethink Priorities)** (线上) — 来自 Rethink Priorities AI 认知计划的概率模型，综合多种意识理论，估计不同 AI 系统（以及动物）具有意识的可能性。 https://rethinkpriorities.org/digital-consciousness/
 - **DIYbio.org** (线上) — DIY 生物学运动的发起网络，提供邮件列表和安全讨论，并维护全球本地小组目录。 https://diybio.org/local/
 - **EarthRanger (Ai2)** (西雅图，美国) — 艾伦人工智能研究所提供的免费软件，让保护区管理者在一张实时地图上看到护林员、佩戴项圈的动物、传感器和事件。 https://www.earthranger.com/
 - **eBird** (伊萨卡，纽约州，美国) — 康奈尔鸟类学实验室的平台，观鸟者提交所见鸟类的清单，形成了全球最大的生物多样性数据集之一。 https://ebird.org/home
@@ -17734,9 +17870,11 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **FathomNet** (莫斯兰丁，加利福尼亚州，美国) — 由 MBARI 牵头的开放海洋生物标注图像库，用于训练能识别水下视频中深海动物的 AI。 https://www.fathomnet.org/
 - **Future Materials Bank** (马斯特里赫特，荷兰) — 开放的在线数据库，收录艺术家和设计师开发的可持续与实验性材料，由马斯特里赫特的 Jan van Eyck Academie 发起。 https://www.futurematerialsbank.com/
 - **GBIF (Global Biodiversity Information Facility)** (哥本哈根，丹麦) — 一个国际网络和开放数据基础设施，免费提供来自博物馆、调查和公民科学的数十亿条物种分布记录。 https://www.gbif.org/
+- **Global Animal Law (GAL) Association** (瑞士苏黎世) — 维护全球动物保护法律与宪法条款开放数据库的协会。 https://www.globalanimallaw.org/
 - **Global Forest Watch** (华盛顿，美国（WRI）) — 世界资源研究所的开放平台，展示卫星近实时的森林砍伐警报，让任何人都能监测森林。 https://www.globalforestwatch.org/
 - **Happywhale** (圣克鲁斯，加利福尼亚州，美国) — 一个平台，赏鲸者上传鲸尾照片，由 AI 匹配到座头鲸等鲸的个体，从而追踪它们跨越海洋的旅程。 https://happywhale.com/
 - **iGEM Registry of Standard Biological Parts** (线上) — 开放的标准化遗传元件（BioBricks）库，由 iGEM 团队贡献并使用。 https://parts.igem.org/Main_Page
+- **Interspecies communication archive (Internet Archive)** (线上) — 由 Earth Species Project 与 Interspecies Internet 在互联网档案馆上整理的开放合集，收录跨物种沟通相关的书籍、论文、视频和音频。 https://archive.org/details/interspecies.io-books-and-papers
 - **iRecord** (英国（UKCEH 生物记录中心）) — 英国分享野生动物目击记录的网站和应用，记录由专家核验，用于全国物种图集。 https://irecord.org.uk/
 - **IUCN Red List of Threatened Species** (全球) — 全球关于动物、真菌和植物灭绝风险的主要信息来源，已评估超过 16 万个物种。 https://www.iucnredlist.org/
 - **Local Contexts** (全球) — 一个倡议，提供“传统知识标签”和“生物文化标签”，原住民社区可把这些数字标签附在数据、样本和藏品上，以声明权利与来源。 https://localcontexts.org/
@@ -17744,6 +17882,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Map of Life** (耶鲁大学，美国) — 由耶鲁大学主导的平台，绘制 45 万多个物种的分布，并为各国和保护区追踪生物多样性指标。 https://mol.org/
 - **MaterialDistrict** — 在线材料平台，每年在鹿特丹办展会，收录各类创新材料，其中生物基和生长材料占很大比例。 https://materialdistrict.com/
 - **Materiom** (伦敦，英国) — 开放数据平台，公开用本地丰富生物质制作生物材料的配方和性能数据，方便各地社区自行制作和测试。 https://www.materiom.org/
+- **MICO (Massive Interspecies Communication Observatory)** (圣迭戈，美国) — 由非营利组织、大学与企业合作的项目，由 Interspecies Internet 作为财务托管方，收集使用语音按钮的宠物数据，使研究者能够大规模开展盲法、对照的动物沟通研究。 https://micoproject.org/
 - **Movebank** (康斯坦茨，德国) — 由马克斯·普朗克动物行为研究所托管的免费动物追踪数据库，收录数千个物种的数十亿个 GPS 定位点。 https://www.movebank.org/
 - **Native Land Digital** (加拿大) — 一个由原住民主导的非营利组织，绘制全球原住民领地、语言和条约的地图，让人们了解自己生活在谁的土地上。 https://native-land.ca/
 - **NatureServe** (阿灵顿，弗吉尼亚州，美国) — 美洲生物多样性数据中心的网络，追踪物种和生态系统的状况，服务保护规划。 https://www.natureserve.org/
@@ -17773,12 +17912,15 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Blast Studio** (伦敦，英国) — 伦敦设计工作室，用在废弃咖啡杯等垃圾上生长的菌丝体 3D 打印物件和柱子。 https://www.blast-studio.com/
 - **Bolt Threads** (埃默里维尔（加州），美国) — 以生物工程蜘蛛丝蛋白和菌丝体皮革 Mylo 闻名的材料公司，现主要做生物基美妆成分。 https://boltthreads.com/
 - **Colorifix** (诺里奇，英国) — 利用工程微生物生产染料并把颜色固定在织物上的公司，减少染色过程的用水和化学品。 https://www.colorifix.com/
+- **Conscium** (伦敦，英国) — 伦敦的 AI 公司，从事机器意识研究与 AI 智能体验证；它发布了负责任开展 AI 意识研究的原则。 https://conscium.com/
 - **Conservation X Labs** (美国) — 一家保护创新公司，开发 Sentinel AI 红外相机设备等工具，并举办开放创新奖。Wild Me 及其 Wildbook 平台于 2024 年并入该公司。 https://conservationxlabs.com/
 - **Cortical Labs** (墨尔本，澳大利亚) — 墨尔本公司，在芯片上培养人类神经元；其 DishBrain 学会了玩 Pong，并推出 CL1 生物计算机。 https://corticallabs.com/
 - **ecoLogicStudio** (伦敦，英国) — 建筑与城市设计工作室，建造光生物反应器和藻类结构，在城市中捕获碳。 https://www.ecologicstudio.com/
 - **Ecovative** (格林岛（纽约州），美国) — 菌丝体材料的先行者，用真菌菌丝体生长包装、泡沫材料和替代肉，并对外授权工艺。 https://ecovative.com/
+- **Eon Systems** (旧金山，美国) — 致力于全脑仿真的公司，从果蝇完整连接组模型起步，这也引出了关于被仿真心智道德地位的问题。 https://eon.systems/
 - **Faber Futures** (伦敦，英国) — Natsai Audrey Chieza 的生物设计工作室，以用链霉菌给织物染色闻名，也为生物技术与设计提供战略咨询。 https://faberfutures.com/
 - **FinalSpark** (沃韦，瑞士) — 瑞士公司，在电极阵列上运行脑类器官，并通过 Neuroplatform 提供远程访问。 https://finalspark.com/
+- **FluentPet** (美国) — 生产可录音按钮板的公司，狗和猫可以按下按钮“说出”词语；它为与加州大学圣迭戈分校合作的 MICO 研究提供技术支持。 https://fluent.pet/
 - **Glowee** (巴黎，法国) — 法国公司，用海洋发光细菌制造光源，用于公共照明和装置。 https://glowee.com/
 - **Grown.bio** (奥斯特豪特，荷兰) — 荷兰公司，生长菌丝体包装和材料，并把工艺授权给当地生产者。 https://www.grown.bio/
 - **Hack the Planet** (荷兰) — 一家荷兰技术工作室，开发坚固的 AI 红外相机和传感器，实时提醒社区大象、熊或偷猎者的出现。 https://www.hack-the-planet.io/
@@ -17807,9 +17949,11 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Smart Parks** (荷兰) — 一家荷兰社会企业，搭建 LoRaWAN 传感器网络并开发开源动物项圈，用于保护野生动物和公园。 https://www.smartparks.org/
 - **Spiber** (鹤冈，日本) — 日本公司，受蜘蛛丝启发，通过发酵生产结构蛋白，并把它们做成纺织纤维等产品。 https://spiber.inc/en
 - **Superflux** (伦敦，英国) — 一家思辨设计与未来工作室，其装置作品如《复苏的庇护所》和《冲击的缓解》想象超越人类的未来。 https://superflux.in/
+- **Tehanu** (卢旺达 / 欧洲) — 由作家 Jonathan Ledgard 发起的项目，为其他物种提供基于 AI 的数字身份和钱包，使它们能够为人类的护自然行为付款；2024 年的首个案例对象是卢旺达山地大猩猩。 https://www.tehanu.io/
 - **Terrapin Bright Green** (纽约，美国) — 一家环境咨询公司，以报告《亲生命设计的 14 种模式》闻名，把自然与幸福感的研究转化为设计指南。 https://www.terrapinbrightgreen.com/
 - **The ODIN** (奥克兰，美国) — Josiah Zayner 的公司，销售 DIY CRISPR 和基因工程套件，是家庭生物黑客争论的焦点。 https://www.the-odin.com/
 - **Wildlife Acoustics** (梅纳德，马萨诸塞州，美国) — 一家生产 Song Meter 录音机、Echo Meter 蝙蝠探测器和 Kaleidoscope 分析软件的公司，用于生物声学监测。 https://www.wildlifeacoustics.com/
+- **Zoolingua** (弗拉格斯塔夫，美国) — 由草原犬鼠语言研究者 Con Slobodchikoff 创立的公司，目标是用 AI 为主人翻译狗的叫声、面部表情和肢体语言。 https://zoolingua.com/
 
 ## 创作者
 

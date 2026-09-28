@@ -127077,6 +127077,120 @@
    ]
   },
   {
+   "id": "templeton-accelerating-research-consciousness",
+   "name": "Accelerating Research on Consciousness (Templeton World Charity Foundation)",
+   "type": "funding",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Funding programme that sets up 'adversarial collaborations' in which rival theories of consciousness are tested against each other in pre-registered experiments.",
+   "description_zh": "资助项目，组织“对抗性合作”，让相互竞争的意识理论在预注册实验中直接对比检验。",
+   "url": "https://www.templetonworldcharity.org/our-initiatives/accelerating-research-consciousness",
+   "image": "https://www.templetonworldcharity.org/assets/site/blog/_1200x630_fit_center-center_82_none/TWCF.jpg?mtime=1715884795",
+   "based": "Nassau, Bahamas",
+   "based_zh": "巴哈马拿骚",
+   "founded": 2019
+  },
+  {
+   "id": "aci-conference",
+   "name": "ACI — International Conference on Animal-Computer Interaction",
+   "type": "event",
+   "themes": [
+    "ai-animals",
+    "interspecies-communication",
+    "animal-welfare"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Annual conference of the animal–computer interaction community, on designing technology with and for animals and on the ethics of involving them in research.",
+   "description_zh": "动物-计算机交互领域的年度会议，议题包括与动物一起、为动物设计技术，以及让动物参与研究的伦理。",
+   "url": "https://www.aciconf.org/",
+   "image": "https://static.wixstatic.com/media/1bf0ca_b0d3f4b8d5ed44faa584e1c2237a2c0a~mv2.jpeg",
+   "based": "International",
+   "based_zh": "国际",
+   "people": [
+    "Clara Mancini"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "ai-and-animals-documentary",
+   "name": "AI & Animals: A Documentary",
+   "type": "media",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "description": "36-minute documentary by Animal Ethics on how AI may scale up factory farming, carry speciesist bias in language models, and also help advocacy, wild animal welfare and alternatives to animal use.",
+   "description_zh": "Animal Ethics 制作的 36 分钟纪录片，讲述 AI 可能如何扩大工厂化养殖规模、在语言模型中带有物种歧视偏见，同时也能助力动物倡导、野生动物福利和替代动物利用的方案。",
+   "url": "https://www.aiandanimals.org/",
+   "image": "https://www.aiandanimals.org/wp-content/uploads/AI-and-animals-YT-Clean.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2026,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "neurips-ai-animal-communication-workshop",
+   "name": "AI for Non-Human Animal Communication (NeurIPS workshop)",
+   "type": "event",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Machine-learning conference workshop that gathers researchers applying AI to the study of animal vocalisations, gestures and other signals, and discusses the ethics of decoding them.",
+   "description_zh": "机器学习会议的专题研讨会，汇集将 AI 用于研究动物发声、手势和其他信号的研究者，并讨论解码这些信号的伦理问题。",
+   "url": "https://aiforanimalcomms.org/",
+   "image": "https://aiforanimalcomms.org/dist/social-preview.png",
+   "based": "Online / NeurIPS",
+   "based_zh": "线上 / NeurIPS",
+   "founded": 2025
+  },
+  {
+   "id": "ai-welfare-guide",
+   "name": "AI Welfare Guide",
+   "type": "database",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Onboarding website for people entering AI welfare research that summarises the main theories of consciousness, key organisations and open questions; built in the Sentient Futures incubator.",
+   "description_zh": "面向进入 AI 福利研究领域者的入门网站，总结主要意识理论、关键机构与未解问题；在 Sentient Futures 孵化器中完成。",
+   "url": "https://aiwelfare.guide/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2026,
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
+   "id": "sentient-futures-aixa-course",
+   "name": "AI×Animals course (Sentient Futures)",
+   "type": "education",
+   "themes": [
+    "ai-animals",
+    "animal-welfare",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "mth",
+    "aci"
+   ],
+   "description": "Free 8-week online fellowship with an open syllabus covering precision livestock farming, AI-assisted interspecies communication, genetic welfare, alternative proteins and animal advocacy in the age of transformative AI.",
+   "description_zh": "免费的 8 周线上研修课程，课程大纲公开，内容涵盖精准畜牧、AI 辅助的跨物种沟通、遗传福利、替代蛋白，以及变革性 AI 时代的动物倡导。",
+   "url": "https://sentient-futures.notion.site/aixa",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2025,
+   "people": [
+    "Constance Li"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "allen-coral-atlas",
    "name": "Allen Coral Atlas",
    "type": "database",
@@ -127141,6 +127255,22 @@
    ]
   },
   {
+   "id": "ambitious-impact",
+   "name": "Ambitious Impact (Charity Entrepreneurship)",
+   "type": "education",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Incubator that trains founders to start new high-impact charities, including several animal welfare groups such as Shrimp Welfare Project and Fish Welfare Initiative.",
+   "description_zh": "培训创始人创办高影响力慈善机构的孵化器，孵化了 Shrimp Welfare Project 和 Fish Welfare Initiative 等多个动物福利组织。",
+   "url": "https://www.ambitiousimpact.com/",
+   "image": "https://static.wixstatic.com/media/9475db_9d49644ef1bc4f42948986573bb21ece~mv2.png",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2018,
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
    "id": "amino-labs",
    "name": "Amino Labs",
    "type": "company",
@@ -127160,6 +127290,24 @@
    "people": [
     "Julie Legault"
    ]
+  },
+  {
+   "id": "amplify-for-animals",
+   "name": "Amplify for Animals",
+   "type": "nonprofit",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "description": "Programme of Vegan Hacktivists that trains and supports animal protection groups in using AI and digital tools effectively.",
+   "description_zh": "Vegan Hacktivists 的项目，培训并支持动物保护团体有效使用 AI 与数字工具。",
+   "url": "https://veganhacktivists.org/amplify",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Steven Rouk"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "amsilk",
@@ -127197,6 +127345,265 @@
    "based": "UK",
    "based_zh": "英国",
    "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "animal-advocacy-careers",
+   "name": "Animal Advocacy Careers",
+   "type": "education",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Organisation that runs a job board, skills courses and career advising to help people find high-impact work for animals.",
+   "description_zh": "运营职位板、技能课程和职业咨询的机构，帮助人们找到为动物带来高影响力的工作。",
+   "url": "https://animaladvocacycareers.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2020,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animal-charity-evaluators",
+   "name": "Animal Charity Evaluators",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Charity evaluator that researches animal charities and recommends those that can do the most good per dollar; it also studies AI's impact on animals.",
+   "description_zh": "评估动物慈善机构的组织，研究并推荐每一美元能产生最大效益的机构；它也研究 AI 对动物的影响。",
+   "url": "https://animalcharityevaluators.org/",
+   "image": "https://animalcharityevaluators.org/wp-content/uploads/2023/07/ACE-Rebrand-Blog-Post-Featured-Image.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2012,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animal-cognition-journal",
+   "name": "Animal Cognition (journal)",
+   "type": "media",
+   "themes": [
+    "sentience"
+   ],
+   "description": "Springer journal publishing research on thinking, learning, memory and communication across animal species, from insects to great apes.",
+   "description_zh": "Springer 出版的期刊，发表关于从昆虫到类人猿等各类动物思维、学习、记忆和沟通的研究。",
+   "url": "https://link.springer.com/journal/10071",
+   "image": "https://media.springernature.com/w88/springer-static/cover-hires/journal/10071?as=webp",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 1998
+  },
+  {
+   "id": "animal-ethics",
+   "name": "Animal Ethics",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "sentience",
+    "ai-animals"
+   ],
+   "description": "Nonprofit that promotes consideration for all sentient animals, with a large resource library on wild animal suffering and the 2026 documentary 'AI & Animals'.",
+   "description_zh": "倡导关怀所有有感知动物的非营利组织，拥有大量关于野生动物苦难的资料库，并制作了 2026 年纪录片《AI & Animals》。",
+   "url": "https://www.animal-ethics.org/",
+   "image": "https://www.animal-ethics.org/wp-content/uploads/Octopus_thumb.png",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2012,
+   "people": [
+    "Oscar Horta"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "harvard-animal-law-policy-program",
+   "name": "Animal Law & Policy Program (Harvard Law School)",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Harvard Law School programme that researches and teaches animal law and policy, from farmed animal regulation to wildlife and animal testing.",
+   "description_zh": "哈佛法学院的项目，研究并讲授动物法律与政策，内容从养殖动物监管到野生动物和动物实验。",
+   "url": "https://animal.law.harvard.edu/",
+   "image": "https://animal.law.harvard.edu/wp-content/uploads/hlsalpp-opengraph.jpg",
+   "based": "Cambridge, US",
+   "based_zh": "剑桥（马萨诸塞州），美国",
+   "founded": 2014,
+   "people": [
+    "Kristen Stilt"
+   ]
+  },
+  {
+   "id": "ucla-animal-law-policy-program",
+   "name": "Animal Law and Policy Program (UCLA Law)",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "UCLA School of Law programme that supports research, teaching and public events on the legal treatment of animals.",
+   "description_zh": "加州大学洛杉矶分校法学院的项目，支持关于动物法律待遇的研究、教学和公开活动。",
+   "url": "https://law.ucla.edu/academics/centers/animal-law-policy-program",
+   "based": "Los Angeles, US",
+   "based_zh": "洛杉矶，美国"
+  },
+  {
+   "id": "animal-legal-defense-fund",
+   "name": "Animal Legal Defense Fund",
+   "type": "nonprofit",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "US legal advocacy organisation that brings lawsuits to protect animals, supports animal law programmes and publishes annual rankings of state animal protection laws.",
+   "description_zh": "美国法律倡导组织，通过诉讼保护动物，支持动物法教育项目，并每年发布各州动物保护法律排名。",
+   "url": "https://aldf.org/",
+   "image": "https://aldf.org/wp-content/uploads/2018/07/ALDF_FB_Og_image-1200x628.jpg",
+   "based": "Cotati, US",
+   "based_zh": "科塔蒂，美国",
+   "founded": 1979,
+   "people": [
+    "Joyce Tischler"
+   ]
+  },
+  {
+   "id": "animal-protection-index",
+   "name": "Animal Protection Index (World Animal Protection)",
+   "type": "database",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Index that ranks 50 countries on their animal welfare legislation and policy, including recognition of animal sentience.",
+   "description_zh": "对 50 个国家的动物福利立法与政策进行排名的指数，包括是否承认动物具有感知能力。",
+   "url": "https://api.worldanimalprotection.org/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2014
+  },
+  {
+   "id": "animal-rights-map",
+   "name": "Animal Rights Map",
+   "type": "database",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Interactive world map of animal protection organisations, groups and sanctuaries, made to help advocates find each other.",
+   "description_zh": "动物保护组织、团体和庇护所的交互式世界地图，帮助倡导者相互找到彼此。",
+   "url": "https://animalrightsmap.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animal-sentience-journal",
+   "name": "Animal Sentience (journal)",
+   "type": "media",
+   "themes": [
+    "sentience",
+    "animal-welfare"
+   ],
+   "description": "Open-access interdisciplinary journal founded by Stevan Harnad that publishes target articles on animal feeling with open peer commentary from scientists and philosophers.",
+   "description_zh": "由 Stevan Harnad 创办的开放获取跨学科期刊，发表关于动物感受的目标文章，并附有科学家和哲学家的开放同行评论。",
+   "url": "https://www.wellbeingintlstudiesrepository.org/animsent/",
+   "image": "https://www.wellbeingintlstudiesrepository.org/assets/md5images/8e240588cf8cd3a028768d4294acd7d3.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2016,
+   "people": [
+    "Stevan Harnad"
+   ]
+  },
+  {
+   "id": "ea-animal-welfare-fund",
+   "name": "Animal Welfare Fund (EA Funds)",
+   "type": "funding",
+   "themes": [
+    "animal-welfare",
+    "ai-animals"
+   ],
+   "description": "Grant fund that makes small and medium grants to animal welfare projects, including neglected species and AI-related work for animals.",
+   "description_zh": "为动物福利项目提供中小额资助的基金，包括被忽视物种和与 AI 相关的动物工作。",
+   "url": "https://funds.effectivealtruism.org/funds/animal-welfare",
+   "image": "https://funds.effectivealtruism.org/preview-awf.jpg",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2017,
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
+   "id": "animal-ai-testbed",
+   "name": "Animal-AI Testbed",
+   "type": "database",
+   "themes": [
+    "ai-animals",
+    "sentience"
+   ],
+   "description": "Open-source 3D environment and task set (behind the 2019 Animal-AI Olympics) that evaluates AI agents with experiments adapted from comparative animal cognition.",
+   "description_zh": "开源 3D 环境与任务集（2019 年 Animal-AI 奥林匹克赛的基础），用改编自比较动物认知研究的实验来评估 AI 智能体。",
+   "url": "https://github.com/Kinds-of-Intelligence-CFI/animal-ai",
+   "image": "https://repository-images.githubusercontent.com/575343740/4d4bc383-e4c1-4412-b683-35c5797b872e",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2019,
+   "people": [
+    "Matthew Crosby"
+   ]
+  },
+  {
+   "id": "animal-harm-benchmark",
+   "name": "AnimalHarmBench",
+   "type": "database",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "description": "Open benchmark that tests how large language models reason about harm to animals, using a framework of AI harms to animals by Coghlan and Parker.",
+   "description_zh": "开源基准测试，基于 Coghlan 和 Parker 提出的 AI 对动物伤害框架，检验大语言模型如何推理对动物的伤害。",
+   "url": "https://github.com/AI-for-Animals/ahb",
+   "image": "https://opengraph.githubassets.com/de69b754650a2bc0988cd2e03451bb8014d195b5a7cd23be64d68bf7d60ebafb/AI-for-Animals/ahb",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2025,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "animals-in-translation-report",
+   "name": "Animals in Translation (Interspecies Internet report)",
+   "type": "media",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Multimedia publication from the 2024 Interspecies Internet workshop co-hosted with the Santa Fe Institute, proposing criteria and frameworks for judging whether animal communication has been decoded.",
+   "description_zh": "来自 2024 年 Interspecies Internet 与圣塔菲研究所联合举办研讨会的多媒体出版物，提出了判断动物沟通是否被“解码”的标准与框架。",
+   "url": "https://www.interspecies.io/publication",
+   "image": "http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2024,
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "anthropic-model-welfare",
+   "name": "Anthropic — Model Welfare research",
+   "type": "research",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Research programme at AI company Anthropic that investigates whether its Claude models might have experiences or preferences that matter, and introduces low-cost interventions such as letting models end abusive conversations.",
+   "description_zh": "AI 公司 Anthropic 的研究项目，探究其 Claude 模型是否可能具有值得重视的体验或偏好，并推出低成本措施，例如允许模型结束辱骂性对话。",
+   "url": "https://www.anthropic.com/research/exploring-model-welfare",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2024,
+   "people": [
+    "Kyle Fish"
+   ],
+   "found_via": "https://nonhumanminds.org/"
   },
   {
    "id": "anthropocene-curriculum",
@@ -127237,6 +127644,25 @@
    ]
   },
   {
+   "id": "ape-initiative",
+   "name": "Ape Initiative",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Iowa sanctuary and research centre, home of the late bonobo Kanzi, that studies bonobo cognition and communication through lexigram keyboards and non-invasive, choice-based research.",
+   "description_zh": "位于爱荷华州的庇护所与研究中心，已故倭黑猩猩 Kanzi 曾生活于此；它通过词形符号键盘和非侵入性、以选择为基础的研究来探索倭黑猩猩的认知与沟通。",
+   "url": "https://www.apeinitiative.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5db0ba511b25a26c8d30947a/1573761027045-VDWXSMYUPG0DZR8P1TL6/IMG_1587.jpg",
+   "based": "Des Moines, US",
+   "based_zh": "得梅因，美国",
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
    "id": "arbimon",
    "name": "Arbimon",
    "type": "database",
@@ -127251,6 +127677,23 @@
    "url": "https://arbimon.org/",
    "based": "Online (Rainforest Connection)",
    "based_zh": "线上（Rainforest Connection）"
+  },
+  {
+   "id": "arcani",
+   "name": "ARCANI (Accelerating Research Collaboration on Artificial and Natural Intelligences)",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "digital-minds",
+    "interspecies-communication"
+   ],
+   "description": "NSF-funded research coordination network that links communities studying biological and artificial intelligence, with partners such as Diverse Intelligences, Santa Fe Institute, Earth Species Project and Interspecies Internet.",
+   "description_zh": "由美国国家科学基金会资助的研究协调网络，连接研究生物智能与人工智能的学术群体，合作方包括 Diverse Intelligences、圣塔菲研究所、Earth Species Project 和 Interspecies Internet。",
+   "url": "https://www.arcanigroup.org/",
+   "image": "http://static1.squarespace.com/static/65ac1ddc50c8237e26572511/t/65b0223f0f5978395921f897/1706041922308/Arcani+butterfly+black.png?format=1500w",
+   "based": "US",
+   "based_zh": "美国",
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "arribada-initiative",
@@ -127430,6 +127873,37 @@
    "founded": 2012
   },
   {
+   "id": "amcs",
+   "name": "Association for Mathematical Consciousness Science",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Scholarly association that promotes formal and mathematical approaches to consciousness science and has published open letters on the responsible study of AI consciousness.",
+   "description_zh": "学术协会，推动以形式化和数学方法研究意识科学，并发表过关于负责任地研究 AI 意识的公开信。",
+   "url": "https://amcs-community.org/",
+   "image": "http://amcs-community.org/wp-content/uploads/2021/01/Mathematical-Consciousness-Science-1024x576.jpg",
+   "based": "International",
+   "based_zh": "国际"
+  },
+  {
+   "id": "assc",
+   "name": "Association for the Scientific Study of Consciousness (ASSC)",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Main scholarly society for consciousness science; its annual conference brings together neuroscientists, psychologists and philosophers working on human, animal and machine consciousness.",
+   "description_zh": "意识科学领域的主要学术学会；其年会汇聚研究人类、动物和机器意识的神经科学家、心理学家和哲学家。",
+   "url": "https://theassc.org/",
+   "image": "https://theassc.org/wp-content/uploads/2025/11/thanks_for_applying_150-e1465222673878.png",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 1994
+  },
+  {
    "id": "association-nature-forest-therapy",
    "name": "Association of Nature and Forest Therapy Guides and Programs (ANFT)",
    "type": "education",
@@ -127562,6 +128036,22 @@
    "image": "https://cdn.prod.website-files.com/65fdc7abae501de4e3e82a40/66995d5a9f0b629209b98091_awana-digital-name-announcement-opengraph.png",
    "based": "Global",
    "based_zh": "全球"
+  },
+  {
+   "id": "awish-project",
+   "name": "aWISH (Animal Welfare Indicators at the Slaughterhouse)",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "ai-animals"
+   ],
+   "description": "EU-funded project that uses data and automated indicators collected at slaughterhouses to monitor and improve the welfare of farmed animals across their lives.",
+   "description_zh": "欧盟资助的项目，利用在屠宰场收集的数据和自动化指标，监测并改善养殖动物一生中的福利。",
+   "url": "https://www.awish-project.eu/about/",
+   "image": "https://www.awish-project.eu/wp-content/uploads/2023/01/Zoom-Cover2.png",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "bugss",
@@ -128395,6 +128885,22 @@
    "creator_id": "braingeneers"
   },
   {
+   "id": "brooks-institute",
+   "name": "Brooks Institute for Animal Rights Law and Policy",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Think tank that funds scholarship, fellowships and student programmes in animal law and policy, including the Brooks Animal Law student summits.",
+   "description_zh": "资助动物法律与政策学术研究、奖学金和学生项目的智库，包括 Brooks 动物法学生峰会。",
+   "url": "https://thebrooksinstitute.org/",
+   "image": "https://thebrooksinstitute.org/sites/default/files/styles/3_across_phone/public/2025-08/Video%20thumbnail%20alt%201%20copy%20%281%29.png?itok=etX4nkbT",
+   "based": "US",
+   "based_zh": "美国",
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
    "id": "budburst",
    "name": "Budburst",
    "type": "network",
@@ -128431,6 +128937,97 @@
    "based_zh": "线上"
   },
   {
+   "id": "california-institute-machine-consciousness",
+   "name": "California Institute for Machine Consciousness",
+   "type": "research",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Research institute co-founded by Joscha Bach to study how consciousness could arise in machines and to build testable computational models of it.",
+   "description_zh": "由 Joscha Bach 共同创立的研究机构，研究意识如何可能在机器中产生，并构建可检验的意识计算模型。",
+   "url": "https://cimc.ai/",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "people": [
+    "Joscha Bach"
+   ]
+  },
+  {
+   "id": "cambridge-declaration-on-consciousness",
+   "name": "Cambridge Declaration on Consciousness",
+   "type": "media",
+   "themes": [
+    "sentience"
+   ],
+   "description": "2012 declaration by a group of neuroscientists stating that many nonhuman animals, including all mammals, birds and octopuses, possess the neurological substrates that generate consciousness.",
+   "description_zh": "2012 年由一批神经科学家发表的宣言，指出许多非人类动物（包括所有哺乳动物、鸟类和章鱼）拥有产生意识的神经基础。",
+   "url": "https://philiplow.foundation/consciousness/",
+   "image": "https://philiplow.foundation/data/uploads/cambridge/CambridgeDeclarationSignatureCeremony.jpg",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2012,
+   "people": [
+    "Philip Low",
+    "Christof Koch"
+   ]
+  },
+  {
+   "id": "compassion-in-machine-learning",
+   "name": "CaML (Compassion in Machine Learning)",
+   "type": "research",
+   "themes": [
+    "ai-animals",
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "description": "Research group that measures and reduces speciesist bias in AI models, for example by training models on synthetic data that expresses compassion for all sentient beings.",
+   "description_zh": "研究团体，衡量并减少 AI 模型中的物种歧视偏见，例如用表达对所有有感知生命关怀的合成数据训练模型。",
+   "url": "https://www.compassionml.com/",
+   "image": "https://www.compassionml.com/images/banner.png",
+   "based": "International",
+   "based_zh": "国际",
+   "people": [
+    "Miles Tidmarsh",
+    "Jasmine Brazilek"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "carboncopies-foundation",
+   "name": "Carboncopies Foundation",
+   "type": "nonprofit",
+   "themes": [
+    "digital-minds",
+    "futures"
+   ],
+   "description": "Nonprofit that supports research on whole-brain emulation and substrate-independent minds through workshops, a research roadmap and public education.",
+   "description_zh": "支持全脑仿真与“独立于载体的心智”研究的非营利组织，通过研讨会、研究路线图和公众教育开展工作。",
+   "url": "https://carboncopies.org/",
+   "image": "https://carboncopies.org/assets/images/HeaderImage.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2010,
+   "people": [
+    "Randal Koene"
+   ]
+  },
+  {
+   "id": "care-conference",
+   "name": "CARE — Conference on Animal Rights in Europe",
+   "type": "event",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Large European conference organised by Anima International for animal advocates, researchers and organisations to share strategy and research.",
+   "description_zh": "由 Anima International 组织的大型欧洲会议，供动物倡导者、研究者和机构交流策略与研究。",
+   "url": "https://www.careconf.eu/",
+   "image": "https://boilerplate-wp-media.storage.googleapis.com/wp-content/uploads/sites/10/2026/03/19143605/Hero-section.jpg",
+   "based": "Europe",
+   "based_zh": "欧洲",
+   "founded": 2017,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "jhu-caat",
    "name": "Center for Alternatives to Animal Testing (Johns Hopkins)",
    "type": "research",
@@ -128452,6 +129049,25 @@
     "Thomas Hartung"
    ],
    "creator_id": "thomas-hartung"
+  },
+  {
+   "id": "center-for-animal-law-studies",
+   "name": "Center for Animal Law Studies (Lewis & Clark Law School)",
+   "type": "education",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Law school centre offering the first animal law LL.M. and clinics, and publishing the Animal Law Review.",
+   "description_zh": "法学院下属中心，开设首个动物法法学硕士（LL.M.）项目和法律诊所，并出版《Animal Law Review》。",
+   "url": "https://law.lclark.edu/centers/animal_law_studies/",
+   "image": "https://law.lclark.edu/live/image/gid/41/width/1260/height/630/crop/1/96535_south-africa-gdcbc6c067_1920.rev.1667578737.jpg",
+   "based": "Portland, US",
+   "based_zh": "波特兰，美国",
+   "founded": 2008,
+   "people": [
+    "Pamela Frasch"
+   ]
   },
   {
    "id": "center-for-democratic-environmental-rights",
@@ -128558,6 +129174,51 @@
    "founded": 2003
   },
   {
+   "id": "nyu-center-for-mind-brain-consciousness",
+   "name": "Center for Mind, Brain, and Consciousness (NYU)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "NYU philosophy centre directed by David Chalmers and Ned Block that runs workshops and debates on consciousness science, including animal and AI consciousness, often co-hosted with CMEP.",
+   "description_zh": "由 David Chalmers 和 Ned Block 主持的纽约大学哲学研究中心，举办关于意识科学的研讨会和辩论，包括动物意识与 AI 意识，常与 CMEP 联合主办。",
+   "url": "https://wp.nyu.edu/consciousness/",
+   "image": "https://wp.nyu.edu/consciousness/wp-content/uploads/sites/2713/2015/10/gears-inside-the-brain.jpeg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "people": [
+    "David Chalmers",
+    "Ned Block"
+   ],
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
+   "id": "nyu-center-for-mind-ethics-policy",
+   "name": "Center for Mind, Ethics, and Policy (NYU)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "NYU research centre on the consciousness, sentience, moral, legal and political status of nonhumans, with a focus on animals and AI systems. It publishes research, funds digital-minds work and hosts public events and an annual summit.",
+   "description_zh": "纽约大学的研究中心，研究非人类的意识、感知能力及其道德、法律和政治地位，重点关注动物与 AI 系统。它发表研究、资助数字心智方向的工作，并举办公开活动和年度峰会。",
+   "url": "https://nonhumanminds.org/",
+   "image": "https://nonhumanminds.org/wp-content/uploads/2025/08/769726727-homepage-hero-block-4.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2022,
+   "people": [
+    "Jeff Sebo",
+    "Harvey Lederman"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "center-for-native-peoples-and-environment",
    "name": "Center for Native Peoples and the Environment (SUNY-ESF)",
    "type": "research",
@@ -128604,6 +129265,77 @@
    ]
   },
   {
+   "id": "center-for-reducing-suffering",
+   "name": "Center for Reducing Suffering",
+   "type": "research",
+   "themes": [
+    "futures",
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Research organisation on how to reduce severe suffering in the long-term future, including that of wild animals and potential digital minds.",
+   "description_zh": "研究如何在长远未来减少严重痛苦的机构，关注对象包括野生动物和潜在的数字心智。",
+   "url": "https://centerforreducingsuffering.org/",
+   "image": "https://centerforreducingsuffering.org/wp-content/uploads/2023/08/reasoned-politics-avoiding-the-worst.jpg",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2020,
+   "people": [
+    "Tobias Baumann",
+    "Magnus Vinding"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "fau-center-future-ai-mind-society",
+   "name": "Center for the Future of AI, Mind & Society (FAU)",
+   "type": "research",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Florida Atlantic University centre directed by philosopher Susan Schneider that studies machine consciousness, AI ethics and the future of the mind.",
+   "description_zh": "由哲学家 Susan Schneider 主持的佛罗里达大西洋大学研究中心，研究机器意识、AI 伦理与心智的未来。",
+   "url": "https://www.fau.edu/future-mind/",
+   "image": "https://www.fau.edu/future-mind/images/future-mind-banner-short.png",
+   "based": "Boca Raton, US",
+   "based_zh": "博卡拉顿，美国",
+   "people": [
+    "Susan Schneider"
+   ]
+  },
+  {
+   "id": "center-on-long-term-risk",
+   "name": "Center on Long-Term Risk",
+   "type": "research",
+   "themes": [
+    "futures",
+    "digital-minds"
+   ],
+   "description": "Research institute focused on preventing worst-case outcomes of advanced AI, including risks of astronomical suffering (s-risks) that could affect digital minds.",
+   "description_zh": "关注防止先进 AI 带来最坏结果的研究机构，包括可能波及数字心智的“天文级苦难风险”（s-risks）。",
+   "url": "https://longtermrisk.org/",
+   "image": "https://longtermrisk.org/media/brand/CLR_facebook_coverphoto_v3a.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2013,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "centre-for-animals-social-justice",
+   "name": "Centre for Animals and Social Justice",
+   "type": "research",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "UK think tank that researches how to embed animal protection in politics and government, such as through an Animal Sentience Committee.",
+   "description_zh": "英国智库，研究如何把动物保护纳入政治与政府工作，例如通过动物感知委员会。",
+   "url": "https://www.casj.org.uk/",
+   "based": "UK",
+   "based_zh": "英国",
+   "founded": 2011
+  },
+  {
    "id": "rca-materials-science-culture",
    "name": "Centre for Materials Science & Culture (RCA)",
    "type": "research",
@@ -128619,6 +129351,24 @@
    "image": "https://rca-media2.rca.ac.uk/images/Rich_Mix_window.2e16d0ba.fill-1200x1200.jpg",
    "based": "London, UK",
    "based_zh": "伦敦，英国"
+  },
+  {
+   "id": "centre-for-wild-animal-welfare",
+   "name": "Centre for Wild Animal Welfare",
+   "type": "research",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "UK-based organisation working to bring wild animal welfare into policy, such as humane management of urban wildlife and pest control.",
+   "description_zh": "英国机构，推动将野生动物福利纳入政策，例如以人道方式管理城市野生动物和有害生物防治。",
+   "url": "https://www.wildanimalwelfare.org/",
+   "image": "http://static1.squarespace.com/static/69c46ec30c9dc23ed7b24b94/t/6a4e110c140391182d41ac95/1783501068759/opengraph.png?format=1500w",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "people": [
+    "Ben Stevenson"
+   ],
+   "found_via": "https://sentientfutures.ai/"
   },
   {
    "id": "aalto-chemarts",
@@ -128673,6 +129423,24 @@
    "url": "http://www.birdreport.cn/",
    "based": "China",
    "based_zh": "中国"
+  },
+  {
+   "id": "chittka-lab",
+   "name": "Chittka Lab (Queen Mary University of London)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "description": "Lars Chittka's bee lab, whose experiments on learning, play and emotion-like states in bumblebees are central to the debate on insect minds.",
+   "description_zh": "Lars Chittka 的蜜蜂实验室，其关于熊蜂学习、玩耍和类情绪状态的实验是昆虫心智讨论的核心依据。",
+   "url": "https://chittkalab.sbcs.qmul.ac.uk/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Lars Chittka"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "citizen-sense",
@@ -128730,6 +129498,71 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 2016
+  },
+  {
+   "id": "clever-dog-lab",
+   "name": "Clever Dog Lab (Vetmeduni Vienna)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Dog cognition lab at the Messerli Research Institute in Vienna where pet dogs take part in studies of perception, social learning and emotion, including touchscreen experiments.",
+   "description_zh": "维也纳 Messerli 研究所的犬类认知实验室，家犬在此参与关于感知、社会学习和情绪的研究，包括触摸屏实验。",
+   "url": "https://www.vetmeduni.ac.at/cleverdoglab",
+   "image": "https://www.vetmeduni.ac.at/fileadmin/_processed_/b/0/csm_Mago_wp_2f2da19e95.jpg",
+   "based": "Vienna, Austria",
+   "based_zh": "奥地利维也纳",
+   "people": [
+    "Ludwig Huber"
+   ]
+  },
+  {
+   "id": "coefficient-giving-farm-animal-welfare",
+   "name": "Coefficient Giving (formerly Open Philanthropy) — Farm Animal Welfare",
+   "type": "funding",
+   "themes": [
+    "animal-welfare",
+    "digital-minds"
+   ],
+   "description": "Largest funder of farm animal welfare work worldwide (formerly Open Philanthropy); it also funds AI safety and research on digital minds.",
+   "description_zh": "全球最大的养殖动物福利工作资助者（前身为 Open Philanthropy）；它同时资助 AI 安全和数字心智研究。",
+   "url": "https://coefficientgiving.org/",
+   "image": "https://coefficientgiving.org/wp-content/uploads/share-image.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2017,
+   "people": [
+    "Lewis Bollard"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "coller-dolittle-prize",
+   "name": "Coller Dolittle Prize for Two-way Interspecies Communication",
+   "type": "funding",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Prize by the Jeremy Coller Foundation and Tel Aviv University: a US$100,000 annual award for research on decoding animal communication and a major prize for the first team to achieve two-way communication with another species.",
+   "description_zh": "由 Jeremy Coller 基金会与特拉维夫大学设立的奖项：每年 10 万美元奖励解码动物沟通的研究，并为首个实现与另一物种双向交流的团队设立大奖。",
+   "url": "https://coller-dolittle-24.sites.tau.ac.il/",
+   "image": "https://static.wixstatic.com/media/080994_44699c84709444fdad664c1d431384d0~mv2.jpg",
+   "based": "Tel Aviv, Israel / London, UK",
+   "based_zh": "以色列特拉维夫 / 英国伦敦",
+   "founded": 2024,
+   "people": [
+    "Jeremy Coller",
+    "Yossi Yovel"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "colorifix",
@@ -128795,6 +129628,61 @@
    "founded": 1995
   },
   {
+   "id": "comparative-cognition-lab-ucsd-mico",
+   "name": "Comparative Cognition Lab, UC San Diego (MICO)",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Federico Rossano's lab studying communication in dogs, cats and great apes; it runs MICO, the Massive Interspecies Communication Observatory, a citizen-science study of pets using soundboard buttons.",
+   "description_zh": "Federico Rossano 的实验室，研究狗、猫和类人猿的沟通；它运营 MICO（大规模跨物种沟通观测站），这是一个让宠物使用语音按钮的公民科学研究。",
+   "url": "https://cclab.ucsd.edu/",
+   "image": "https://quote.ucsd.edu/cclab/files/2025/10/DSCF1851-scaled-e1761936266209-768x348.jpeg",
+   "based": "San Diego, US",
+   "based_zh": "圣迭戈，美国",
+   "people": [
+    "Federico Rossano"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "comparative-cognition-society",
+   "name": "Comparative Cognition Society",
+   "type": "network",
+   "themes": [
+    "sentience"
+   ],
+   "description": "Scholarly society for the study of cognition across species; it runs the annual International Conference on Comparative Cognition (CO3) and the journal Comparative Cognition & Behavior Reviews.",
+   "description_zh": "研究跨物种认知的学术学会；它举办年度国际比较认知大会（CO3），并出版期刊《Comparative Cognition & Behavior Reviews》。",
+   "url": "https://comparativecognition.org/",
+   "image": "https://comparativecognition.org/ims/aboutim.png",
+   "based": "US",
+   "based_zh": "美国"
+  },
+  {
+   "id": "compassion-in-world-farming",
+   "name": "Compassion in World Farming",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "International farm animal welfare organisation that campaigns against factory farming, runs animal sentience conferences and engages with EU and UK policy on precision livestock farming.",
+   "description_zh": "国际养殖动物福利组织，反对工厂化养殖，举办动物感知会议，并参与欧盟和英国关于精准畜牧的政策讨论。",
+   "url": "https://www.ciwf.org/",
+   "based": "Godalming, UK",
+   "based_zh": "英国戈德尔明",
+   "founded": 1967,
+   "people": [
+    "Peter Roberts"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
    "id": "eth-complex-materials",
    "name": "Complex Materials Lab (ETH Zurich)",
    "type": "research",
@@ -128814,6 +129702,46 @@
     "André R. Studart"
    ],
    "creator_id": "andre-studart"
+  },
+  {
+   "id": "consciousness-in-ai-report",
+   "name": "Consciousness in Artificial Intelligence (Butlin, Long et al. report)",
+   "type": "media",
+   "themes": [
+    "digital-minds",
+    "sentience"
+   ],
+   "description": "2023 report by 19 scientists and philosophers that derives indicator properties from neuroscientific theories of consciousness and assesses current AI systems against them.",
+   "description_zh": "19 位科学家与哲学家 2023 年发表的报告，从神经科学意识理论中提炼出指标属性，并据此评估当前的 AI 系统。",
+   "url": "https://arxiv.org/abs/2308.08708",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2023,
+   "people": [
+    "Patrick Butlin",
+    "Robert Long",
+    "Yoshua Bengio",
+    "Jonathan Birch"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
+   "id": "conscium",
+   "name": "Conscium",
+   "type": "company",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "London AI company working on machine consciousness research and verification of AI agents; it published principles for responsible research on AI consciousness.",
+   "description_zh": "伦敦的 AI 公司，从事机器意识研究与 AI 智能体验证；它发布了负责任开展 AI 意识研究的原则。",
+   "url": "https://conscium.com/",
+   "image": "https://conscium.com/hubfs/Ballerina%20Hero%20Transparent.webp",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Calum Chace",
+    "Daniel Hulme"
+   ]
   },
   {
    "id": "conservation-evidence",
@@ -129001,6 +129929,22 @@
    "founded": 2004
   },
   {
+   "id": "crustacean-compassion",
+   "name": "Crustacean Compassion",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "law-rights",
+    "sentience"
+   ],
+   "description": "UK charity that campaigned for crabs and lobsters to be recognised as sentient in law and now pushes for humane handling and slaughter rules.",
+   "description_zh": "英国慈善机构，曾推动在法律上承认蟹和龙虾具有感知能力，如今推动制定人道处理与屠宰规则。",
+   "url": "https://www.crustaceancompassion.org/",
+   "image": "https://static.wixstatic.com/media/46ca59_7d07479125bb459f981c1e97e129b502~mv2.jpg",
+   "based": "UK",
+   "based_zh": "英国"
+  },
+  {
    "id": "cultivamos-cultura",
    "name": "Cultivamos Cultura",
    "type": "education",
@@ -129061,6 +130005,26 @@
    ]
   },
   {
+   "id": "simons-decoding-nonhuman-communication",
+   "name": "Decoding Communication in Nonhuman Species (Simons Institute workshops)",
+   "type": "event",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Workshop series at UC Berkeley's Simons Institute for the Theory of Computing, co-hosted with Project CETI (2020, 2023, 2024, 2025), where computer scientists, linguists and biologists present work on decoding animal communication.",
+   "description_zh": "加州大学伯克利分校西蒙斯计算理论研究所的系列研讨会，与 Project CETI 联合举办（2020、2023、2024、2025），计算机科学家、语言学家和生物学家在此分享解码动物沟通的研究。",
+   "url": "https://simons.berkeley.edu/workshops/decoding-communication-nonhuman-species-iv-co-hosted-project-ceti",
+   "image": "https://simons.berkeley.edu/sites/default/files/styles/facebook/public/2023-03/spermwhale000%20Photo%20Amanda%20Cotton%202_0.jpg?h=d6cc47ca&itok=UxnjzDUn",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "founded": 2020,
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "design-living-systems-lab-csm",
    "name": "Design & Living Systems Lab (Central Saint Martins)",
    "type": "research",
@@ -129080,6 +130044,37 @@
     "Carole Collet"
    ],
    "creator_id": "carole-collet"
+  },
+  {
+   "id": "rethink-priorities-digital-consciousness-model",
+   "name": "Digital Consciousness Model (Rethink Priorities)",
+   "type": "database",
+   "themes": [
+    "digital-minds",
+    "sentience"
+   ],
+   "description": "Probabilistic model from Rethink Priorities' AI Cognition Initiative that combines many theories of consciousness to estimate how likely different AI systems (and animals) are to be conscious.",
+   "description_zh": "来自 Rethink Priorities AI 认知计划的概率模型，综合多种意识理论，估计不同 AI 系统（以及动物）具有意识的可能性。",
+   "url": "https://rethinkpriorities.org/digital-consciousness/",
+   "image": "https://rethinkpriorities.org/wp-content/uploads/2024/10/lv0wnokrpgnm2yaov9gt.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2025,
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
+   "id": "digital-minds-fund-longview",
+   "name": "Digital Minds Fund (Longview Philanthropy)",
+   "type": "funding",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Grant programme run by Longview Philanthropy that funds research and applied work on the possible consciousness, welfare and moral status of AI systems.",
+   "description_zh": "由 Longview Philanthropy 运营的资助项目，资助关于 AI 系统可能的意识、福利与道德地位的研究和应用工作。",
+   "url": "https://www.longview.org/fund/digital-minds-fund/",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "found_via": "https://sentientfutures.ai/"
   },
   {
    "id": "digital-naturalism-laboratories",
@@ -129103,6 +130098,22 @@
     "Andrew Quitmeyer"
    ],
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
+  },
+  {
+   "id": "templeton-diverse-intelligences",
+   "name": "Diverse Intelligences (Templeton World Charity Foundation)",
+   "type": "funding",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Funding initiative that supports research on the many forms of intelligence in animals, plants, microbes and machines, and runs a summer institute for early-career scholars.",
+   "description_zh": "资助动物、植物、微生物和机器中多种智能形式研究的计划，并为青年学者举办暑期研习班。",
+   "url": "https://www.templetonworldcharity.org/our-initiatives/diverse-intelligences",
+   "image": "https://www.templetonworldcharity.org/assets/site/blog/_1200x630_fit_center-center_82_none/TWCF.jpg?mtime=1715884795",
+   "based": "Nassau, Bahamas",
+   "based_zh": "巴哈马拿骚",
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "diybcn",
@@ -129159,6 +130170,95 @@
    "based": "Online",
    "based_zh": "线上",
    "founded": 2020
+  },
+  {
+   "id": "dolphin-communication-project",
+   "name": "Dolphin Communication Project",
+   "type": "research",
+   "themes": [
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Nonprofit led by Kathleen Dudzinski that studies how wild and managed dolphins communicate through sound and touch, and runs public education on dolphin behaviour.",
+   "description_zh": "由 Kathleen Dudzinski 领导的非营利组织，研究野生与人工饲养海豚如何通过声音和触碰进行沟通，并开展关于海豚行为的公众教育。",
+   "url": "https://www.dolphincommunicationproject.org/",
+   "image": "https://www.dolphincommunicationproject.org/wp-content/uploads/Homepage_BottomRightofSupportText-300x200.jpg",
+   "based": "US / Bahamas",
+   "based_zh": "美国 / 巴哈马",
+   "people": [
+    "Kathleen Dudzinski"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "dolphingemma",
+   "name": "DolphinGemma (Google × Wild Dolphin Project)",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Open audio language model from Google, trained on decades of Wild Dolphin Project recordings, that learns the structure of dolphin vocalisations and generates dolphin-like sound sequences.",
+   "description_zh": "Google 的开源音频语言模型，基于 Wild Dolphin Project 数十年的录音训练，学习海豚发声的结构并生成类似海豚的声音序列。",
+   "url": "https://blog.google/innovation-and-ai/products/dolphingemma/",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png",
+   "based": "Mountain View, US",
+   "based_zh": "山景城，美国",
+   "founded": 2025,
+   "people": [
+    "Denise Herzing",
+    "Thad Starner"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "dominica-sperm-whale-project",
+   "name": "Dominica Sperm Whale Project",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Long-term field study, started in 2005, that follows individual sperm whale families off Dominica and documents their vocal clans and culture; its data underpins Project CETI.",
+   "description_zh": "始于 2005 年的长期野外研究，在多米尼克近海追踪抹香鲸家族个体，记录它们的发声族群与文化；其数据是 Project CETI 的基础。",
+   "url": "http://www.thespermwhaleproject.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441722245002-M1BGPKEV6AQ0JFFAI800/DSWP+banner+NO+TEXT.jpg",
+   "based": "Dominica",
+   "based_zh": "多米尼克",
+   "founded": 2005,
+   "people": [
+    "Shane Gero"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "duke-canine-cognition-center",
+   "name": "Duke Canine Cognition Center",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Brian Hare's lab at Duke University that studies how dogs think and read human cues, using games that owners can also play through the Dognition platform.",
+   "description_zh": "Brian Hare 在杜克大学的实验室，研究狗如何思考与解读人类信号，所用游戏也可由主人通过 Dognition 平台来玩。",
+   "url": "https://evolutionaryanthropology.duke.edu/research/dogs",
+   "image": "https://evolutionaryanthropology.duke.edu/sites/evolutionaryanthropology.duke.edu/files/styles/social_media/public/images/HARE_WOODS_PuppyKindergarten_HC_FB_Header_2.png?h=d1cb525d&itok=ss96oHI7",
+   "based": "Durham, US",
+   "based_zh": "达勒姆，美国",
+   "people": [
+    "Brian Hare"
+   ]
   },
   {
    "id": "earth-biogenome-project",
@@ -129218,6 +130318,33 @@
    "people": [
     "Grant Wilson"
    ]
+  },
+  {
+   "id": "earth-species-project",
+   "name": "Earth Species Project",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci",
+    "mth"
+   ],
+   "description": "Nonprofit AI lab that builds open machine-learning models, such as NatureLM-audio, to decode nonhuman animal communication and publishes benchmarks and datasets for bioacoustics.",
+   "description_zh": "非营利 AI 实验室，构建 NatureLM-audio 等开源机器学习模型来解码非人类动物的沟通，并发布生物声学基准与数据集。",
+   "url": "https://earthspecies.org/",
+   "image": "https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg",
+   "based": "Berkeley, US",
+   "based_zh": "伯克利，美国",
+   "founded": 2017,
+   "people": [
+    "Aza Raskin",
+    "Katie Zacarian",
+    "Britt Selvitelle"
+   ],
+   "creator_id": "earth-species-project",
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "earth-system-governance-project",
@@ -129357,6 +130484,51 @@
    "creator_id": "ecovative"
   },
   {
+   "id": "eleos-ai",
+   "name": "Eleos AI Research",
+   "type": "research",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Nonprofit research organisation that studies whether AI systems could be conscious or have welfare, and advises AI labs on how to assess and respond to that possibility.",
+   "description_zh": "非营利研究机构，研究 AI 系统是否可能具有意识或福利，并就如何评估与应对这种可能性向 AI 实验室提供建议。",
+   "url": "https://eleosai.org/",
+   "image": "https://www.eleosai.org/images/eleos-opengraph.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2024,
+   "people": [
+    "Robert Long",
+    "Kathleen Finlinson",
+    "Rosie Campbell"
+   ],
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
+   "id": "elephantvoices",
+   "name": "ElephantVoices",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Nonprofit founded by Joyce Poole and Petter Granli that studies elephant communication and publishes the Elephant Ethogram, an open database of African savanna elephant behaviours and calls.",
+   "description_zh": "由 Joyce Poole 和 Petter Granli 创立的非营利组织，研究大象的沟通，并发布 Elephant Ethogram——一个关于非洲草原象行为与叫声的开放数据库。",
+   "url": "https://www.elephantvoices.org/",
+   "image": "https://cdn.sanity.io/images/1367lwmq/production/31e817fe74ea9c07e5af78d8b1316df72d6a69cb-1440x850.jpg?rect=0,98,1440,752&w=1200&h=627&fit=crop&auto=format",
+   "based": "Kenya / Norway",
+   "based_zh": "肯尼亚 / 挪威",
+   "founded": 2002,
+   "people": [
+    "Joyce Poole",
+    "Petter Granli"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
    "id": "embassy-of-the-north-sea",
    "name": "Embassy of the North Sea",
    "type": "nonprofit",
@@ -129457,6 +130629,24 @@
    ]
   },
   {
+   "id": "eon-systems",
+   "name": "Eon Systems",
+   "type": "company",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Company working on whole-brain emulation, starting from complete connectome models of the fruit fly, which raises questions about the moral status of emulated minds.",
+   "description_zh": "致力于全脑仿真的公司，从果蝇完整连接组模型起步，这也引出了关于被仿真心智道德地位的问题。",
+   "url": "https://eon.systems/",
+   "image": "https://eon.systems/images/og-banner.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "people": [
+    "Michael Andregg"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
    "id": "european-centre-environment-human-health",
    "name": "European Centre for Environment and Human Health (University of Exeter)",
    "type": "research",
@@ -129491,6 +130681,25 @@
    "based": "Berlin, Germany",
    "based_zh": "柏林，德国",
    "founded": 2013
+  },
+  {
+   "id": "experience-machines",
+   "name": "Experience Machines (newsletter)",
+   "type": "media",
+   "themes": [
+    "digital-minds",
+    "sentience"
+   ],
+   "description": "Substack newsletter by Eleos AI's Robert Long on AI consciousness, AI welfare and the philosophy of mind.",
+   "description_zh": "Eleos AI 的 Robert Long 在 Substack 上的通讯，讨论 AI 意识、AI 福利与心灵哲学。",
+   "url": "https://experiencemachines.substack.com/",
+   "image": "https://substackcdn.com/image/fetch/$s_!zbp4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fexperiencemachines.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D652676401%26version%3D9",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Robert Long"
+   ],
+   "found_via": "https://nonhumanminds.org/"
   },
   {
    "id": "fab-lab-barcelona",
@@ -129560,6 +130769,43 @@
    ]
   },
   {
+   "id": "family-dog-project",
+   "name": "Family Dog Project (ELTE)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Research group at Eötvös Loránd University, Budapest, that pioneered studies of dog–human communication, including dog brain imaging while listening to speech.",
+   "description_zh": "布达佩斯罗兰大学的研究团队，开创了狗与人沟通的研究，包括在狗聆听人类语言时进行脑成像。",
+   "url": "https://ethology.elte.hu/Family_Dog_Project",
+   "image": "https://ethology.elte.hu/media/16/3e/e1ca053a25bb3651c57f7a5e0f9d260aba81d1afcd9bdc0ab4bc9cab76ea/barks2-thumb.png?v202209270307",
+   "based": "Budapest, Hungary",
+   "based_zh": "匈牙利布达佩斯",
+   "founded": 1994,
+   "people": [
+    "Ádám Miklósi",
+    "Vilmos Csányi"
+   ]
+  },
+  {
+   "id": "fast-farmed-animal-strategic-team",
+   "name": "FAST (Farmed Animal Strategic Team)",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Long-running email list and resource hub that connects people working professionally for farmed animals, with jobs, funding and tools listings.",
+   "description_zh": "长期运营的邮件列表与资源中心，连接为养殖动物专业工作的人士，并列出职位、资助与工具信息。",
+   "url": "https://fastcommunity.org/",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "fathomnet",
    "name": "FathomNet",
    "type": "database",
@@ -129576,6 +130822,23 @@
    "image": "https://static.wixstatic.com/media/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png/v1/fit/w_2500,h_1330,al_c/778cd0_4229a9a73ded43fa90edc175d527ecca%7Emv2.png",
    "based": "Moss Landing, California, US",
    "based_zh": "莫斯兰丁，加利福尼亚州，美国"
+  },
+  {
+   "id": "faunalytics",
+   "name": "Faunalytics",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "ai-animals"
+   ],
+   "description": "Research nonprofit that runs studies for animal advocates and keeps a large research library; it co-developed benchmarks for measuring speciesist bias in AI models.",
+   "description_zh": "为动物倡导者开展研究的非营利机构，维护大型研究资料库；它参与开发了衡量 AI 模型中物种歧视偏见的基准测试。",
+   "url": "https://faunalytics.org/",
+   "image": "https://faunalytics.org/wp-content/uploads/2018/12/faunalytics-og-1200x600-home-2.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2000,
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
   },
   {
    "id": "finalspark",
@@ -129617,6 +130880,46 @@
    "image": "https://livingknowledge.network/wp-content/uploads/DSC6669-1.jpg",
    "based": "Australia",
    "based_zh": "澳大利亚"
+  },
+  {
+   "id": "fish-welfare-initiative",
+   "name": "Fish Welfare Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Nonprofit that improves conditions for farmed fish in India and Southeast Asia by working with farmers on water quality and stocking density.",
+   "description_zh": "改善印度和东南亚养殖鱼类状况的非营利组织，与养殖户合作改善水质和养殖密度。",
+   "url": "https://www.fishwelfareinitiative.org/",
+   "image": "https://static.wixstatic.com/media/53745e_41276a71b73d46cbbba527bc098891be~mv2.jpg",
+   "based": "India / International",
+   "based_zh": "印度 / 国际",
+   "founded": 2019,
+   "people": [
+    "Haven King-Nobles"
+   ]
+  },
+  {
+   "id": "fluentpet",
+   "name": "FluentPet",
+   "type": "company",
+   "themes": [
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Company making recordable soundboard buttons that dogs and cats press to 'say' words; it provides the technology for the MICO research study with UC San Diego.",
+   "description_zh": "生产可录音按钮板的公司，狗和猫可以按下按钮“说出”词语；它为与加州大学圣迭戈分校合作的 MICO 研究提供技术支持。",
+   "url": "https://fluent.pet/",
+   "image": "http://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Leo Trottier"
+   ],
+   "creator_id": "fluentpet",
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "for-the-wild",
@@ -129669,6 +130972,46 @@
    "based": "Tokyo, Japan",
    "based_zh": "东京，日本",
    "founded": 2008
+  },
+  {
+   "id": "forethought",
+   "name": "Forethought",
+   "type": "research",
+   "themes": [
+    "futures",
+    "digital-minds"
+   ],
+   "description": "Research nonprofit on how to navigate the transition to advanced AI, including the moral status and rights of digital minds.",
+   "description_zh": "研究如何应对向先进 AI 过渡的非营利机构，议题包括数字心智的道德地位与权利。",
+   "url": "https://www.forethought.org/",
+   "image": "https://www.forethought.org/social-preview/default-social-preview.png",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "founded": 2025,
+   "people": [
+    "William MacAskill",
+    "Tom Davidson"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "foundations-of-animal-sentience-asent",
+   "name": "Foundations of Animal Sentience (ASENT)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "animal-welfare"
+   ],
+   "description": "ERC-funded LSE project (2019–2024) led by Jonathan Birch that developed methods for assessing sentience in animals such as octopuses, crabs and insects and linked them to welfare policy.",
+   "description_zh": "由欧洲研究理事会资助、Jonathan Birch 领导的 LSE 项目（2019–2024），开发了评估章鱼、蟹类和昆虫等动物感知能力的方法，并将其与福利政策相连接。",
+   "url": "https://www.lse.ac.uk/cpnss/archived-research-project-and-grants/foundations-of-animal-sentience-asent",
+   "image": "https://www.lse.ac.uk/all-images/campus-tour-video1.x437a8b27.jpg?w=560&h=315&q=85&f=webp",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2019,
+   "people": [
+    "Jonathan Birch"
+   ]
   },
   {
    "id": "frogid",
@@ -129802,6 +131145,27 @@
    "based_zh": "马斯特里赫特，荷兰"
   },
   {
+   "id": "vox-future-perfect",
+   "name": "Future Perfect (Vox)",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "digital-minds"
+   ],
+   "description": "Vox section on effective ways to do good, with regular reporting on farmed animal welfare, animal sentience and AI welfare.",
+   "description_zh": "Vox 的专栏，关注行善的有效方式，定期报道养殖动物福利、动物感知与 AI 福利。",
+   "url": "https://www.vox.com/future-perfect",
+   "image": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/Option2_LeadArt_FP50.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2018,
+   "people": [
+    "Kelsey Piper",
+    "Dylan Matthews"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
    "id": "gosh",
    "name": "Gathering for Open Science Hardware (GOSH)",
    "type": "network",
@@ -129900,6 +131264,24 @@
    "founded": 2010
   },
   {
+   "id": "global-animal-law",
+   "name": "Global Animal Law (GAL) Association",
+   "type": "database",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Association that maintains an open database of animal protection laws and constitutional provisions around the world.",
+   "description_zh": "维护全球动物保护法律与宪法条款开放数据库的协会。",
+   "url": "https://www.globalanimallaw.org/",
+   "image": "https://www.globalanimallaw.org/_thumbnails_/4/209_frog.jpg?m=1593432402",
+   "based": "Zurich, Switzerland",
+   "based_zh": "瑞士苏黎世",
+   "people": [
+    "Anne Peters"
+   ]
+  },
+  {
    "id": "global-biofoundry-alliance",
    "name": "Global Biofoundry Alliance",
    "type": "network",
@@ -129989,6 +131371,26 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 2019
+  },
+  {
+   "id": "global-priorities-institute",
+   "name": "Global Priorities Institute (Oxford)",
+   "type": "research",
+   "themes": [
+    "futures",
+    "sentience"
+   ],
+   "description": "Oxford research institute (2018–2025) that produced philosophy and economics research on global priorities, including moral weights of animals and cluelessness about the long-term future.",
+   "description_zh": "牛津大学研究机构（2018–2025），在全球优先事项方面开展哲学与经济学研究，包括动物的道德权重和对长远未来的“无知”问题。",
+   "url": "https://www.globalprioritiesinstitute.org/",
+   "image": "https://www.globalprioritiesinstitute.org/images/image1.png",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "founded": 2018,
+   "people": [
+    "Hilary Greaves"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "globe-at-night",
@@ -130204,6 +131606,21 @@
    "founded": 2009
   },
   {
+   "id": "hive-animal-advocacy",
+   "name": "Hive",
+   "type": "network",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Community platform for farmed animal advocates with a Slack workspace, newsletter, courses and events for building skills and connections.",
+   "description_zh": "面向养殖动物倡导者的社群平台，提供 Slack 工作区、通讯、课程和活动，帮助提升技能、建立联系。",
+   "url": "https://www.joinhive.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/66fff96b2acab3473576533b/84babf1e-057f-4897-bf1e-37d8bdbf1a1d/orange.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "honf-foundation",
    "name": "HONF Foundation (House of Natural Fiber)",
    "type": "network",
@@ -130221,6 +131638,25 @@
    "based_zh": "日惹，印度尼西亚",
    "founded": 1999,
    "found_via": "https://www.hackteria.org/"
+  },
+  {
+   "id": "how-i-learned-to-love-shrimp",
+   "name": "How I Learned to Love Shrimp (podcast)",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Podcast by Amanda Hungerford and James Ozden with interviews about neglected animals, animal sentience and strategy for helping them.",
+   "description_zh": "Amanda Hungerford 和 James Ozden 主持的播客，访谈内容涉及被忽视的动物、动物感知以及帮助它们的策略。",
+   "url": "https://www.howilearnedtoloveshrimp.com/",
+   "image": "https://static.wixstatic.com/media/54ef8a_55b7406fecda42068a5b2934e63de7f1~mv2.png",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Amanda Hungerford",
+    "James Ozden"
+   ]
   },
   {
    "id": "htgaa",
@@ -130262,6 +131698,20 @@
    "people": [
     "Peter H. Kahn Jr."
    ]
+  },
+  {
+   "id": "humane-league-labs",
+   "name": "Humane League Labs",
+   "type": "research",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Research arm of The Humane League that tests which messages and campaign tactics most effectively reduce farmed animal suffering.",
+   "description_zh": "The Humane League 的研究部门，检验哪些信息和倡导策略最能有效减少养殖动物的痛苦。",
+   "url": "https://thehumaneleague.org/article/humane-league-labs",
+   "image": "https://images.ctfassets.net/ww1ie0z745y7/4Q9PiRd2FFrb9cx4RfZgyt/ac9e928e91930641a0fee51f7ec2d5b7/ic-youtube-white-normal_2x.png",
+   "based": "US",
+   "based_zh": "美国"
   },
   {
    "id": "huue",
@@ -130479,6 +131929,43 @@
    ]
   },
   {
+   "id": "innovate-animal-ag",
+   "name": "Innovate Animal Ag",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "ai-animals"
+   ],
+   "description": "Nonprofit that helps farmers adopt technologies that improve animal welfare, such as in-ovo sexing of eggs and welfare-monitoring sensors.",
+   "description_zh": "帮助养殖者采用改善动物福利技术的非营利组织，例如鸡蛋孵化前性别鉴定和福利监测传感器。",
+   "url": "https://innovateanimalag.org/",
+   "image": "http://static1.squarespace.com/static/63ec3dc1fecdda25c95f6f39/t/67d210af6a6677671de799c1/1686358942089/cover+image.png?format=1500w",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Robert Yaman"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "insect-welfare-research-society",
+   "name": "Insect Welfare Research Society",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "animal-welfare"
+   ],
+   "description": "Scientific society that funds and promotes research on insect sentience and welfare, especially for the billions of insects raised on farms for food and feed.",
+   "description_zh": "推动与资助昆虫感知与福利研究的科学学会，尤其关注为食品和饲料而养殖的数十亿只昆虫。",
+   "url": "https://www.insectwelfare.com/",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Meghan Barrett"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
    "id": "icd-stuttgart",
    "name": "Institute for Computational Design and Construction (University of Stuttgart)",
    "type": "research",
@@ -130583,6 +132070,21 @@
    ]
   },
   {
+   "id": "ibac",
+   "name": "International Bioacoustics Society (IBAC)",
+   "type": "network",
+   "themes": [
+    "interspecies-communication"
+   ],
+   "description": "Scientific society, active since 1969, for researchers studying animal sound production, perception and communication; it holds regular bioacoustics meetings.",
+   "description_zh": "自 1969 年起活跃的科学学会，面向研究动物发声、听觉与声音沟通的研究者，并定期举办生物声学会议。",
+   "url": "https://ibac.info/",
+   "image": "https://ibac.info/wp-content/uploads/2026/04/international-bioacoustics-society-ibac-opengraph-1024x484.png",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 1969
+  },
+  {
    "id": "ijuc",
    "name": "International Journal of Unconventional Computing",
    "type": "media",
@@ -130662,6 +132164,22 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "isae",
+   "name": "International Society for Applied Ethology",
+   "type": "network",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Scientific society for the study of the behaviour of domestic, captive and wild animals as it relates to their welfare and management.",
+   "description_zh": "研究家养、圈养和野生动物行为及其与福利和管理关系的科学学会。",
+   "url": "https://www.applied-ethology.org/",
+   "image": "https://www.applied-ethology.org/hres/Framework17.png",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 1966
+  },
+  {
    "id": "isal-alife",
    "name": "International Society for Artificial Life (ISAL)",
    "type": "network",
@@ -130719,6 +132237,93 @@
    "people": [
     "Gautam Shah"
    ]
+  },
+  {
+   "id": "interspecies-archive",
+   "name": "Interspecies communication archive (Internet Archive)",
+   "type": "database",
+   "themes": [
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Open collection of books, papers, video and audio on interspecies communication curated by Earth Species Project and Interspecies Internet on the Internet Archive.",
+   "description_zh": "由 Earth Species Project 与 Interspecies Internet 在互联网档案馆上整理的开放合集，收录跨物种沟通相关的书籍、论文、视频和音频。",
+   "url": "https://archive.org/details/interspecies.io-books-and-papers",
+   "based": "Online",
+   "based_zh": "线上",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "interspecies-conversations",
+   "name": "Interspecies Conversations (lecture series)",
+   "type": "event",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Free monthly online lecture series by Interspecies Internet with researchers on animal communication and cognition, from parrot and bat vocalisations to sperm whale acoustics and animal–computer interaction.",
+   "description_zh": "Interspecies Internet 举办的免费每月线上讲座系列，邀请动物沟通与认知研究者主讲，内容从鹦鹉和蝙蝠的发声到抹香鲸声学和动物-计算机交互。",
+   "url": "https://www.interspecies.io/interspecies-conversations",
+   "image": "http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2021,
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "interspecies-future-primer",
+   "name": "Interspecies Future: A Primer (LAS Art Foundation)",
+   "type": "media",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Book published by LAS Art Foundation with more than 60 contributions from artists, scientists and technologists on interspecies communication, nonhuman intelligence and Indigenous knowledge.",
+   "description_zh": "LAS Art Foundation 出版的书，收录 60 多位艺术家、科学家和技术专家关于跨物种沟通、非人类智能与原住民知识的文章。",
+   "url": "https://www.las-art.foundation/explore/publication-interspecies-future-a-primer",
+   "image": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/e2604ad73c80bd0d38a582318435fa3c08a56f0a-1900x1267.jpg?rect=0,138,1900,993&w=1200&h=627&fm=webp",
+   "based": "Berlin, Germany",
+   "based_zh": "德国柏林",
+   "founded": 2025,
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "interspecies-internet",
+   "name": "Interspecies Internet",
+   "type": "network",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals",
+    "sentience"
+   ],
+   "fields": [
+    "aci",
+    "mth"
+   ],
+   "description": "Nonprofit network (11,500+ members) for the emerging field of interspecies communication. It runs the monthly Interspecies Conversations lectures, workshops, the Animals in Translation report and shared ethics and data standards projects.",
+   "description_zh": "面向新兴跨物种沟通领域的非营利网络（成员超过 11,500 人）。它举办每月一次的 Interspecies Conversations 讲座、研讨会，发布《Animals in Translation》报告，并推进共享的伦理与数据标准项目。",
+   "url": "https://www.interspecies.io/",
+   "image": "http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w",
+   "based": "Delaware, US / UK",
+   "based_zh": "美国特拉华州 / 英国",
+   "founded": 2019,
+   "people": [
+    "Diana Reiss",
+    "Peter Gabriel",
+    "Neil Gershenfeld",
+    "Vint Cerf",
+    "Kate Armstrong"
+   ],
+   "creator_id": "interspecies-internet",
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "ipbes",
@@ -130807,6 +132412,65 @@
    "based": "Global",
    "based_zh": "全球",
    "founded": 1964
+  },
+  {
+   "id": "jeremy-coller-centre-animal-sentience",
+   "name": "Jeremy Coller Centre for Animal Sentience (LSE)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "animal-welfare",
+    "digital-minds"
+   ],
+   "description": "LSE research centre led by Jonathan Birch that studies the evidence for sentience across animals (and AI) and turns it into policy, building on the review that led to the UK's Animal Welfare (Sentience) Act.",
+   "description_zh": "由 Jonathan Birch 领导的伦敦政治经济学院研究中心，研究动物（以及 AI）具有感知能力的证据并将其转化为政策，延续了促成英国《动物福利（感知）法》的评估工作。",
+   "url": "https://www.lse.ac.uk/sentience",
+   "image": "https://www.lse.ac.uk/all-images/image-24-11-2025-at-17.40.xcbbefc53.jpeg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2025,
+   "people": [
+    "Jonathan Birch"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "jeremy-coller-foundation",
+   "name": "Jeremy Coller Foundation",
+   "type": "funding",
+   "themes": [
+    "sentience",
+    "animal-welfare",
+    "interspecies-communication"
+   ],
+   "description": "Philanthropic foundation of investor Jeremy Coller that funds work against factory farming, the LSE centre for animal sentience, the Coller Dolittle Prize and early Interspecies Internet workshops.",
+   "description_zh": "投资人 Jeremy Coller 的慈善基金会，资助反对工厂化养殖的工作、LSE 动物感知研究中心、Coller Dolittle 奖以及早期的 Interspecies Internet 研讨会。",
+   "url": "https://www.jeremycollerfoundation.org/",
+   "image": "https://images.ctfassets.net/l11efonqeeml/1W7Z1RBjARD63kjZC332sf/9c966380e66d082c6973e5d958db59ce/Land-Use-744x1024.webp",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "people": [
+    "Jeremy Coller"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "journal-of-animal-ethics",
+   "name": "Journal of Animal Ethics",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Peer-reviewed journal of the Oxford Centre for Animal Ethics, published by University of Illinois Press, on the moral status and treatment of animals.",
+   "description_zh": "牛津动物伦理中心主办、伊利诺伊大学出版社出版的同行评审期刊，探讨动物的道德地位与对待方式。",
+   "url": "https://www.jstor.org/journal/janimalethics",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2011,
+   "people": [
+    "Andrew Linzey"
+   ]
   },
   {
    "id": "journey-north",
@@ -130905,6 +132569,49 @@
     "Tessa Callaghan"
    ],
    "creator_id": "keel-labs"
+  },
+  {
+   "id": "lcfi-kinds-of-intelligence",
+   "name": "Kinds of Intelligence programme (Leverhulme CFI)",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "digital-minds",
+    "ai-animals"
+   ],
+   "description": "Cambridge research programme comparing animal, human and artificial intelligence; it created the Animal-AI Testbed, which tests AI agents on tasks from animal cognition studies.",
+   "description_zh": "剑桥大学的研究项目，比较动物、人类与人工智能；它创建了 Animal-AI 测试平台，用动物认知研究中的任务来测试 AI 智能体。",
+   "url": "https://www.lcfi.ac.uk/research/programme/kinds-of-intelligence",
+   "image": "https://www.lcfi.ac.uk/wp-content/uploads/2024/04/cf794608fcc93e9f6bd718f12a9811b0.jpg",
+   "based": "Cambridge, UK",
+   "based_zh": "剑桥，英国",
+   "founded": 2016,
+   "people": [
+    "Lucy Cheke",
+    "Marta Halina",
+    "José Hernández-Orallo"
+   ]
+  },
+  {
+   "id": "knowing-animals-podcast",
+   "name": "Knowing Animals (podcast)",
+   "type": "media",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Academic podcast hosted by philosopher Josh Milburn in which researchers in animal studies and animal ethics discuss their work.",
+   "description_zh": "由哲学家 Josh Milburn 主持的学术播客，动物研究与动物伦理领域的研究者在此讨论自己的工作。",
+   "url": "https://knowinganimals.libsyn.com/",
+   "image": "http://assets.libsyn.com/content/138270852?height=250&width=250",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Josh Milburn"
+   ]
   },
   {
    "id": "koniku",
@@ -131199,6 +132906,22 @@
    "found_via": "https://github.com/anselmbradford/awesome-conservation-tech"
   },
   {
+   "id": "macroscopic-ventures",
+   "name": "Macroscopic Ventures",
+   "type": "funding",
+   "themes": [
+    "futures",
+    "digital-minds"
+   ],
+   "description": "Philanthropic fund (formerly Polaris Ventures) that funds work on reducing large-scale suffering from advanced AI, including research on digital sentience.",
+   "description_zh": "慈善基金（前身为 Polaris Ventures），资助减少先进 AI 带来的大规模苦难的工作，包括数字感知研究。",
+   "url": "https://macroscopic.org/",
+   "image": "https://macroscopic.org/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F11j8q4ao%2Fproduction%2F67a365d1d818ffae3e56ff1dcfd7fcdec0f70ccb-562x830.jpg&w=1200&q=75",
+   "based": "Switzerland",
+   "based_zh": "瑞士",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "made-of-air",
    "name": "Made of Air",
    "type": "company",
@@ -131238,6 +132961,53 @@
    "based_zh": "巴黎，法国",
    "founded": 2014,
    "found_via": "https://www.hackteria.org/"
+  },
+  {
+   "id": "manybirds",
+   "name": "ManyBirds",
+   "type": "network",
+   "themes": [
+    "sentience"
+   ],
+   "description": "Big-team science project that coordinates behaviour and cognition studies across many bird species and labs to build a comparative picture of avian minds.",
+   "description_zh": "大团队科学项目，协调多个实验室在众多鸟类物种中开展行为与认知研究，以建立鸟类心智的比较图景。",
+   "url": "https://themanybirds.com/",
+   "image": "https://themanybirds.com/wp-content/uploads/2021/11/pexels-pixabay-459326-scaled-1-1024x683.jpg",
+   "based": "International",
+   "based_zh": "国际"
+  },
+  {
+   "id": "manydogs",
+   "name": "ManyDogs Project",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "International consortium of dog-cognition labs that runs joint studies, such as how dogs understand human pointing, across many sites and breeds.",
+   "description_zh": "由多个犬类认知实验室组成的国际联盟，在多个研究点和犬种之间开展联合研究，例如狗如何理解人类的指向手势。",
+   "url": "https://manydogs.org/",
+   "image": "https://manydogs.org/images/many_dogs_banner_wide.jpg",
+   "based": "International",
+   "based_zh": "国际"
+  },
+  {
+   "id": "manyprimates",
+   "name": "ManyPrimates",
+   "type": "network",
+   "themes": [
+    "sentience"
+   ],
+   "description": "Open, collaborative research network that runs the same cognition experiments across many primate species and sites to get larger, reproducible samples.",
+   "description_zh": "开放协作的研究网络，在众多灵长类物种和研究地点开展相同的认知实验，以获得更大且可重复的样本。",
+   "url": "https://manyprimates.github.io/",
+   "image": "https://manyprimates.github.io/assets/images/pic05.jpg",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2018
   },
   {
    "id": "map-of-life",
@@ -131411,6 +133181,52 @@
    "creator_id": "mediated-matter"
   },
   {
+   "id": "messerli-research-institute",
+   "name": "Messerli Research Institute",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Interdisciplinary institute in Vienna that studies human–animal relationships through comparative cognition, animal ethics and comparative medicine.",
+   "description_zh": "维也纳的跨学科研究所，通过比较认知、动物伦理和比较医学来研究人与动物的关系。",
+   "url": "https://www.vetmeduni.ac.at/en/messerli",
+   "image": "https://www.vetmeduni.ac.at/fileadmin/_processed_/d/1/csm_header-messerlihaus-BER-1402_d0d824b051.jpg",
+   "based": "Vienna, Austria",
+   "based_zh": "奥地利维也纳",
+   "founded": 2010,
+   "people": [
+    "Ludwig Huber",
+    "Herwig Grimm"
+   ]
+  },
+  {
+   "id": "mico-interspecies-communication-observatory",
+   "name": "MICO (Massive Interspecies Communication Observatory)",
+   "type": "database",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Nonprofit–university–industry partnership, fiscally sponsored by Interspecies Internet, that collects data from pets using soundboard buttons so researchers can run blind, controlled studies of animal communication at scale.",
+   "description_zh": "由非营利组织、大学与企业合作的项目，由 Interspecies Internet 作为财务托管方，收集使用语音按钮的宠物数据，使研究者能够大规模开展盲法、对照的动物沟通研究。",
+   "url": "https://micoproject.org/",
+   "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5045f319-8bc8-4101-ae98-e471c5f2182c/DALLE_2025-02-28_08.37.29_-_A_minimalist_digital_artwork_with_a_soft_earth-tone_gradient_background_blending_soft_browns_muted_greens_and_pale_beige._Fine_geometric_lines_and_/public",
+   "based": "San Diego, US",
+   "based_zh": "圣迭戈，美国",
+   "people": [
+    "Federico Rossano",
+    "Leo Trottier"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
    "id": "microsoft-ai-for-good-lab",
    "name": "Microsoft AI for Good Lab",
    "type": "research",
@@ -131431,6 +133247,46 @@
    "people": [
     "Juan Lavista Ferres"
    ]
+  },
+  {
+   "id": "minding-animals-conference",
+   "name": "Minding Animals International",
+   "type": "event",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "International network whose conference, held roughly every three years, gathers scholars, artists and advocates in animal studies and animal ethics.",
+   "description_zh": "国际网络，其会议约每三年举办一次，汇聚动物研究与动物伦理领域的学者、艺术家和倡导者。",
+   "url": "https://www.mindinganimals.com/",
+   "image": "https://www.mindinganimals.com/files/2018/06/animal-elephant-ivory-70080.jpg",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2009
+  },
+  {
+   "id": "minimal-intelligence-lab",
+   "name": "Minimal Intelligence Lab (MINT Lab, University of Murcia)",
+   "type": "research",
+   "themes": [
+    "sentience"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Paco Calvo's lab studying plant intelligence and behaviour, such as whether climbing beans plan their movements, and the philosophy of minimal minds.",
+   "description_zh": "Paco Calvo 的实验室，研究植物的智能与行为（例如攀援豆类是否会规划动作）以及“最小心智”的哲学。",
+   "url": "https://www.um.es/mintlab/",
+   "image": "https://www.um.es/mintlab/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-02-at-10.21.22.jpeg",
+   "based": "Murcia, Spain",
+   "based_zh": "西班牙穆尔西亚",
+   "people": [
+    "Paco Calvo"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "modern-meadow",
@@ -131584,6 +133440,23 @@
    "people": [
     "Rhett Butler"
    ]
+  },
+  {
+   "id": "montreal-declaration-responsible-ai",
+   "name": "Montreal Declaration for a Responsible Development of AI",
+   "type": "media",
+   "themes": [
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "description": "2018 declaration of ethical principles for AI, drafted through public consultation in Montreal, whose first principle says AI must permit the growth of the well-being of all sentient beings.",
+   "description_zh": "2018 年通过蒙特利尔公众咨询起草的 AI 伦理原则宣言，其第一条原则指出 AI 必须促进所有有感知生命福祉的增长。",
+   "url": "https://montrealdeclaration-responsibleai.com/",
+   "image": "https://declarationmontreal-iaresponsable.com/wp-content/uploads/2023/05/declaration-ia-facebook-1024x576.jpg",
+   "based": "Montreal, Canada",
+   "based_zh": "加拿大蒙特利尔",
+   "founded": 2018,
+   "found_via": "https://sentientfutures.ai/"
   },
   {
    "id": "nyu-more-than-human-life",
@@ -131893,6 +133766,22 @@
    "founded": 1994
   },
   {
+   "id": "nc3rs",
+   "name": "NC3Rs",
+   "type": "research",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "UK national centre that funds and promotes the replacement, reduction and refinement of animals in research, including AI and computational alternatives.",
+   "description_zh": "英国国家中心，资助和推动在科研中替代、减少和优化动物使用（3R），包括 AI 和计算替代方法。",
+   "url": "https://nc3rs.org.uk/",
+   "image": "https://nc3rs.org.uk/sites/default/files/styles/image_16_9/public/2021-08/NC3Rs%20Research%20Review%202019.jpg?itok=90tnhbmZ",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2004,
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
    "id": "ndn-collective",
    "name": "NDN Collective",
    "type": "nonprofit",
@@ -131948,6 +133837,27 @@
    "people": [
     "Isha Datar"
    ]
+  },
+  {
+   "id": "new-york-declaration-animal-consciousness",
+   "name": "New York Declaration on Animal Consciousness",
+   "type": "media",
+   "themes": [
+    "sentience",
+    "animal-welfare"
+   ],
+   "description": "2024 statement signed by hundreds of scientists and philosophers saying there is strong support for conscious experience in mammals and birds and at least a realistic possibility in all vertebrates and many invertebrates.",
+   "description_zh": "2024 年由数百名科学家和哲学家签署的声明，指出有强有力的证据支持哺乳动物和鸟类具有意识体验，并且所有脊椎动物和许多无脊椎动物至少有现实的可能性具有意识。",
+   "url": "https://sites.google.com/nyu.edu/nydeclaration/declaration",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2024,
+   "people": [
+    "Kristin Andrews",
+    "Jonathan Birch",
+    "Jeff Sebo"
+   ],
+   "found_via": "https://nonhumanminds.org/"
   },
   {
    "id": "next-nature",
@@ -132115,6 +134025,30 @@
    "creator_id": "notpla"
   },
   {
+   "id": "nyu-mind-ethics-policy-summit",
+   "name": "NYU Mind, Ethics, and Policy Summit",
+   "type": "event",
+   "themes": [
+    "sentience",
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Annual two-day summit at NYU where researchers, practitioners and policymakers discuss which nonhumans matter, how much, and what follows for law, policy and AI governance.",
+   "description_zh": "纽约大学每年举办的两天峰会，研究者、实践者和政策制定者在此讨论哪些非人类重要、有多重要，以及这对法律、政策和 AI 治理意味着什么。",
+   "url": "https://nonhumanminds.org/opportunities/",
+   "image": "https://nonhumanminds.org/wp-content/uploads/2025/08/769726727-homepage-hero-block-4.jpg",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2024,
+   "people": [
+    "Jeff Sebo"
+   ],
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
    "id": "obis",
    "name": "OBIS (Ocean Biodiversity Information System)",
    "type": "database",
@@ -132148,6 +134082,32 @@
    "based": "Netherlands",
    "based_zh": "荷兰",
    "founded": 2004
+  },
+  {
+   "id": "ocean-alliance",
+   "name": "Ocean Alliance",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "conservation-tech"
+   ],
+   "fields": [
+    "aci",
+    "hni"
+   ],
+   "description": "Whale research nonprofit founded by Roger Payne, whose humpback song recordings sparked 'Save the Whales'; it is digitising more than 1,200 original tapes and develops drone-based whale research.",
+   "description_zh": "由 Roger Payne 创立的鲸类研究非营利组织，他录制的座头鲸歌声引发了“拯救鲸鱼”运动；该组织正在数字化 1200 多盘原始录音带，并开发基于无人机的鲸类研究方法。",
+   "url": "https://whale.org/",
+   "image": "https://whale.org/wp-content/uploads/2024/05/Home-Page_Drone-Image_01.webp",
+   "based": "Gloucester, US",
+   "based_zh": "格洛斯特，美国",
+   "founded": 1971,
+   "people": [
+    "Roger Payne",
+    "Iain Kerr"
+   ],
+   "creator_id": "ocean-alliance",
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "officina-corpuscoli",
@@ -132256,6 +134216,24 @@
     "Anthony Di Franco"
    ],
    "found_via": "https://diybio.org/local/"
+  },
+  {
+   "id": "open-paws",
+   "name": "Open Paws",
+   "type": "nonprofit",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "description": "Nonprofit building AI tools and open datasets for animal advocacy, including models trained to take animals' interests into account.",
+   "description_zh": "为动物倡导开发 AI 工具和开放数据集的非营利组织，包括训练能考虑动物利益的模型。",
+   "url": "https://www.openpaws.ai/",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2023,
+   "people": [
+    "Sam Tucker"
+   ]
   },
   {
    "id": "open-science-network-vancouver",
@@ -132375,6 +134353,26 @@
    "based": "Northampton, Massachusetts, US",
    "based_zh": "北安普顿，马萨诸塞州，美国",
    "founded": 1982
+  },
+  {
+   "id": "oxford-centre-animal-ethics",
+   "name": "Oxford Centre for Animal Ethics",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Independent academic centre founded by Andrew Linzey that publishes the Journal of Animal Ethics and book series and runs an annual summer school on animal ethics.",
+   "description_zh": "由 Andrew Linzey 创立的独立学术中心，出版《Journal of Animal Ethics》和系列丛书，并举办年度动物伦理暑期学校。",
+   "url": "https://www.oxfordanimalethics.com/",
+   "image": "https://www.oxfordanimalethics.com/wpcms/wp-content/uploads/the-ferrater-mora-oxford-centre-for-animal-ethics.png",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "founded": 2006,
+   "people": [
+    "Andrew Linzey",
+    "Clair Linzey"
+   ]
   },
   {
    "id": "oxman",
@@ -132523,6 +134521,37 @@
    "creator_id": "nonhuman-nonsense"
   },
   {
+   "id": "policy-for-animals",
+   "name": "Policy for Animals",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "law-rights",
+    "ai-animals"
+   ],
+   "description": "Organisation that works on animal-inclusive public policy and has published analysis of how AI regulation can account for animals.",
+   "description_zh": "致力于将动物纳入公共政策的机构，并发表了关于 AI 监管如何顾及动物的分析。",
+   "url": "https://www.policyforanimals.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "politics-and-animals-journal",
+   "name": "Politics and Animals (journal)",
+   "type": "media",
+   "themes": [
+    "law-rights",
+    "animal-welfare"
+   ],
+   "description": "Open-access peer-reviewed journal on the political and legal status of animals, from animal citizenship to democratic representation.",
+   "description_zh": "开放获取的同行评审期刊，探讨动物的政治与法律地位，从动物公民身份到民主代表。",
+   "url": "https://journals.lub.lu.se/pa/",
+   "based": "Lund, Sweden",
+   "based_zh": "瑞典隆德",
+   "founded": 2015
+  },
+  {
    "id": "post-carbon-lab",
    "name": "Post Carbon Lab",
    "type": "company",
@@ -132564,6 +134593,20 @@
    "founded": 1992
   },
   {
+   "id": "prism-sentient-machines",
+   "name": "PRISM (Partnership for Research Into Sentient Machines)",
+   "type": "network",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Non-profit partnership that convenes researchers, companies and policymakers around the possibility of conscious AI, and runs events and a podcast on the topic.",
+   "description_zh": "非营利合作组织，围绕“AI 可能具有意识”召集研究者、企业和政策制定者，并举办相关活动、制作播客。",
+   "url": "https://www.prism-global.com/",
+   "image": "https://www.prism-global.com/og.png?v=2",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国"
+  },
+  {
    "id": "prix-ars-electronica",
    "name": "Prix Ars Electronica",
    "type": "funding",
@@ -132580,6 +134623,33 @@
    "based": "Linz, AT",
    "based_zh": "林茨，奥地利",
    "founded": 1987
+  },
+  {
+   "id": "project-ceti",
+   "name": "Project CETI (Cetacean Translation Initiative)",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci",
+    "mth"
+   ],
+   "description": "Interdisciplinary initiative of marine biologists, roboticists, linguists and machine-learning researchers working to understand sperm whale communication off Dominica, including the structure of their click codas.",
+   "description_zh": "由海洋生物学家、机器人学家、语言学家和机器学习研究者组成的跨学科项目，在多米尼克近海研究抹香鲸的沟通方式，包括其咔嗒声“codas”的结构。",
+   "url": "https://www.projectceti.org/",
+   "image": "https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png",
+   "based": "Dominica / New York, US",
+   "based_zh": "多米尼克 / 纽约，美国",
+   "founded": 2020,
+   "people": [
+    "David Gruber",
+    "Shane Gero",
+    "Gašper Beguš"
+   ],
+   "creator_id": "project-ceti",
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "project-feederwatch",
@@ -132684,6 +134754,26 @@
    "creator_id": "lulu-qian"
   },
   {
+   "id": "qualia-research-institute",
+   "name": "Qualia Research Institute",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Independent research group that tries to build a mathematical theory of conscious experience and valence, from phenomenology studies to neuroscience models.",
+   "description_zh": "独立研究团体，试图为意识体验与效价建立数学理论，研究范围从现象学研究到神经科学模型。",
+   "url": "https://qri.org/",
+   "image": "https://qri.org/images/hyperbolic.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2018,
+   "people": [
+    "Andrés Gómez Emilsson",
+    "Michael Johnson"
+   ]
+  },
+  {
    "id": "quiet-parks-international",
    "name": "Quiet Parks International",
    "type": "nonprofit",
@@ -132764,6 +134854,24 @@
    "found_via": "https://www.garn.org/members/"
   },
   {
+   "id": "reciprocal-research",
+   "name": "Reciprocal Research",
+   "type": "research",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "Research nonprofit led by Cameron Berg that runs empirical experiments on self-reports, introspection and possible consciousness in large language models.",
+   "description_zh": "由 Cameron Berg 领导的非营利研究机构，对大语言模型的自我报告、内省以及可能的意识开展实证实验。",
+   "url": "https://reciprocalresearch.org/",
+   "image": "https://reciprocalresearch.org/og-image.png",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Cameron Berg"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
    "id": "reef-environmental-education-foundation",
    "name": "REEF (Reef Environmental Education Foundation)",
    "type": "nonprofit",
@@ -132817,6 +134925,51 @@
    "based_zh": "苏黎世，瑞士",
    "people": [
     "Thomas Crowther"
+   ]
+  },
+  {
+   "id": "rethink-priorities",
+   "name": "Rethink Priorities",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Research think tank with large animal welfare and worldview teams; known for its Moral Weight Project comparing welfare capacities across species and its Digital Consciousness Model.",
+   "description_zh": "研究型智库，拥有规模较大的动物福利与世界观研究团队；以比较不同物种福利能力的“道德权重项目”和“数字意识模型”著称。",
+   "url": "https://rethinkpriorities.org/",
+   "image": "https://rethinkpriorities.org/wp-content/uploads/2024/10/broadening_hero_sq.jpg",
+   "based": "Remote / US",
+   "based_zh": "远程 / 美国",
+   "founded": 2018,
+   "people": [
+    "Marcus A. Davis",
+    "Peter Wildeford",
+    "Bob Fischer"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "lse-sentience-report-cephalopods-decapods",
+   "name": "Review of the Evidence of Sentience in Cephalopod Molluscs and Decapod Crustaceans (LSE report)",
+   "type": "media",
+   "themes": [
+    "sentience",
+    "animal-welfare",
+    "law-rights"
+   ],
+   "description": "2021 report for the UK government by Jonathan Birch and colleagues that found strong evidence of sentience in octopuses, squid, crabs and lobsters; it led to their inclusion in the Animal Welfare (Sentience) Act 2022.",
+   "description_zh": "Jonathan Birch 等人 2021 年为英国政府撰写的报告，发现章鱼、鱿鱼、蟹和龙虾具有感知能力的有力证据，促使它们被纳入 2022 年《动物福利（感知）法》。",
+   "url": "https://www.lse.ac.uk/business/consulting/reports/review-of-the-evidence-of-sentiences-in-cephalopod-molluscs-and-decapod-crustaceans",
+   "image": "https://www.lse.ac.uk/business/consulting/assets/images/report-covers/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans.jpg",
+   "based": "London, UK",
+   "based_zh": "伦敦，英国",
+   "founded": 2021,
+   "people": [
+    "Jonathan Birch",
+    "Alexandra Schnell",
+    "Kristin Andrews"
    ]
   },
   {
@@ -133063,6 +135216,36 @@
    ]
   },
   {
+   "id": "scottish-primate-research-group",
+   "name": "Scottish Primate Research Group",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "interspecies-communication"
+   ],
+   "description": "Research network of Scottish universities studying primate behaviour, cognition and communication, including the Living Links research centre at Edinburgh Zoo; a member of ARCANI.",
+   "description_zh": "由苏格兰多所大学组成的研究网络，研究灵长类的行为、认知与沟通，包括爱丁堡动物园的 Living Links 研究中心；也是 ARCANI 成员。",
+   "url": "https://sprg.org.uk/",
+   "based": "Scotland, UK",
+   "based_zh": "苏格兰，英国",
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "screwworm-free-future",
+   "name": "Screwworm Free Future",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Initiative working to eradicate the New World screwworm, a parasite that eats living animals, using gene-drive and sterile-insect techniques to reduce wild animal suffering.",
+   "description_zh": "致力于消灭新大陆螺旋锥蝇的计划，这种寄生虫会啃食活体动物；它采用基因驱动和不育昆虫技术，以减少野生动物的痛苦。",
+   "url": "https://www.screwworm.org/",
+   "image": "https://static.wixstatic.com/media/3bd51c_14bd72ed2ded4cd3ad2233dd47cdae3b~mv2.jpg",
+   "based": "International",
+   "based_zh": "国际",
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "mit-sculpting-evolution",
    "name": "Sculpting Evolution (MIT Media Lab)",
    "type": "research",
@@ -133098,6 +135281,109 @@
    "url": "https://sensingclues.org/",
    "based": "Netherlands",
    "based_zh": "荷兰"
+  },
+  {
+   "id": "sentience-institute",
+   "name": "Sentience Institute",
+   "type": "research",
+   "themes": [
+    "digital-minds",
+    "animal-welfare",
+    "futures"
+   ],
+   "description": "Think tank researching moral circle expansion — how societies come to care about animals and possibly sentient AI — including its AI, Morality, and Sentience (AIMS) survey.",
+   "description_zh": "研究“道德圈扩展”的智库，即社会如何开始关心动物以及可能具有感知的 AI，其工作包括“AI、道德与感知”（AIMS）调查。",
+   "url": "https://www.sentienceinstitute.org/",
+   "image": "http://www.sentienceinstitute.org/img/header_photos/home_image_darkened.png",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2017,
+   "people": [
+    "Jacy Reese Anthis",
+    "Janet Pauketat"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "sentient-media",
+   "name": "Sentient (formerly Sentient Media)",
+   "type": "media",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Nonprofit newsroom that reports on animal agriculture, animal welfare and the treatment of animals, and trains journalists to cover them.",
+   "description_zh": "非营利新闻机构，报道动物农业、动物福利和动物所受对待，并培训记者报道这些议题。",
+   "url": "https://sentientmedia.org/",
+   "image": "https://sentientmedia.org/wp-content/uploads/2024/03/Launch-1.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2017,
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
+   "id": "sentient-futures",
+   "name": "Sentient Futures",
+   "type": "network",
+   "themes": [
+    "ai-animals",
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Field-building nonprofit for the intersection of AI, animals and possibly sentient digital minds. It runs the AI×Animals course, a project incubator, a residency, a 1,700-member Slack community and the Sentient Futures Summit.",
+   "description_zh": "面向 AI、动物与可能具有感知的数字心智交叉领域的领域建设型非营利组织。它开设 AI×Animals 课程，运营项目孵化器、驻留项目、拥有 1700 多名成员的 Slack 社群，并举办 Sentient Futures 峰会。",
+   "url": "https://sentientfutures.ai/",
+   "image": "https://sentientfutures.ai/ogimage.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2023,
+   "people": [
+    "Constance Li"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "sentient-futures-summit",
+   "name": "Sentient Futures Summit",
+   "type": "event",
+   "themes": [
+    "ai-animals",
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Twice-yearly conference (formerly AI, Animals & Digital Minds) that brings AI researchers, welfare scientists, philosophers and animal advocates together to discuss how transformative AI will affect animals and artificial minds.",
+   "description_zh": "每年两次的会议（前身为 AI, Animals & Digital Minds），把 AI 研究者、福利科学家、哲学家和动物倡导者聚在一起，讨论变革性 AI 将如何影响动物与人工心智。",
+   "url": "https://sentientfutures.ai/summit",
+   "image": "https://sentientfutures.ai/ogimage.png",
+   "based": "San Francisco, US",
+   "based_zh": "旧金山，美国",
+   "founded": 2024,
+   "people": [
+    "Constance Li"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
+   "id": "sentientism",
+   "name": "Sentientism",
+   "type": "network",
+   "themes": [
+    "sentience",
+    "animal-welfare"
+   ],
+   "description": "Network, podcast and online community for a worldview that combines evidence and reason with moral concern for all sentient beings.",
+   "description_zh": "一个网络、播客和线上社群，倡导将证据与理性和对所有有感知生命的道德关怀相结合的世界观。",
+   "url": "https://sentientism.info/",
+   "based": "Online",
+   "based_zh": "线上",
+   "people": [
+    "Jamie Woodhouse"
+   ]
   },
   {
    "id": "serpentine-back-to-earth",
@@ -133139,6 +135425,26 @@
    "based": "Beijing, China",
    "based_zh": "北京，中国",
    "founded": 2007
+  },
+  {
+   "id": "shrimp-welfare-project",
+   "name": "Shrimp Welfare Project",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Nonprofit that works with farmers and buyers to reduce the suffering of farmed shrimp, for example through electrical stunning before slaughter, and funds shrimp sentience research.",
+   "description_zh": "与养殖户和采购商合作减少养殖虾痛苦的非营利组织，例如推动屠宰前电击致晕，并资助虾类感知研究。",
+   "url": "https://www.shrimpwelfareproject.org/",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2021,
+   "people": [
+    "Aaron Boddy",
+    "Andrés Jiménez Zorrilla"
+   ],
+   "found_via": "https://sentientfutures.ai/"
   },
   {
    "id": "skylight-ai2",
@@ -133321,6 +135627,20 @@
    ]
   },
   {
+   "id": "stray-dog-institute",
+   "name": "Stray Dog Institute",
+   "type": "funding",
+   "themes": [
+    "animal-welfare"
+   ],
+   "description": "Foundation that funds and researches efforts to end factory farming and build more just food systems, with interest in technology's effects on animals.",
+   "description_zh": "资助并研究终结工厂化养殖、建设更公正食物体系的基金会，关注技术对动物的影响。",
+   "url": "https://straydoginstitute.org/",
+   "based": "US",
+   "based_zh": "美国",
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
    "id": "superflux",
    "name": "Superflux",
    "type": "company",
@@ -133343,6 +135663,26 @@
     "Jon Ardern"
    ],
    "creator_id": "superflux"
+  },
+  {
+   "id": "sussex-centre-consciousness-science",
+   "name": "Sussex Centre for Consciousness Science",
+   "type": "research",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "University of Sussex centre co-directed by Anil Seth that studies the brain basis of conscious experience and the prospects for consciousness in AI.",
+   "description_zh": "由 Anil Seth 共同主持的萨塞克斯大学研究中心，研究意识体验的大脑基础以及 AI 具有意识的可能性。",
+   "url": "https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science",
+   "image": "https://www.sussex.ac.uk/wcm/assets/media/original/78946.png",
+   "based": "Brighton, UK",
+   "based_zh": "布莱顿，英国",
+   "founded": 2010,
+   "people": [
+    "Anil Seth"
+   ],
+   "found_via": "https://nonhumanminds.org/"
   },
   {
    "id": "sva-bio-art-lab",
@@ -133427,6 +135767,27 @@
    ]
   },
   {
+   "id": "taking-ai-welfare-seriously",
+   "name": "Taking AI Welfare Seriously (report)",
+   "type": "media",
+   "themes": [
+    "digital-minds"
+   ],
+   "description": "2024 report by Robert Long, Jeff Sebo and co-authors arguing that some AI systems may soon be conscious or robustly agentic, and that AI companies should start preparing policies for AI welfare.",
+   "description_zh": "Robert Long、Jeff Sebo 等人 2024 年发表的报告，认为部分 AI 系统可能很快具有意识或稳健的能动性，AI 公司应开始为 AI 福利制定政策。",
+   "url": "https://arxiv.org/abs/2411.00986",
+   "based": "Online",
+   "based_zh": "线上",
+   "founded": 2024,
+   "people": [
+    "Robert Long",
+    "Jeff Sebo",
+    "Patrick Butlin",
+    "David Chalmers"
+   ],
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
    "id": "te-hiku-media",
    "name": "Te Hiku Media",
    "type": "nonprofit",
@@ -133477,6 +135838,29 @@
    "url": "https://www.ngaituhoe.iwi.nz/",
    "based": "Te Urewera, Aotearoa New Zealand",
    "based_zh": "Te Urewera，新西兰"
+  },
+  {
+   "id": "tehanu",
+   "name": "Tehanu",
+   "type": "company",
+   "themes": [
+    "ai-animals",
+    "interspecies-communication",
+    "law-rights"
+   ],
+   "fields": [
+    "mth"
+   ],
+   "description": "Project started by writer Jonathan Ledgard that gives other species an AI-based digital identity and wallet so they can pay humans for pro-nature actions; its first case, in 2024, involved Rwandan mountain gorillas.",
+   "description_zh": "由作家 Jonathan Ledgard 发起的项目，为其他物种提供基于 AI 的数字身份和钱包，使它们能够为人类的护自然行为付款；2024 年的首个案例对象是卢旺达山地大猩猩。",
+   "url": "https://www.tehanu.io/",
+   "image": "https://www.tehanu.io/images/og-image.png",
+   "based": "Rwanda / Europe",
+   "based_zh": "卢旺达 / 欧洲",
+   "people": [
+    "Jonathan Ledgard"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "tela-botanica",
@@ -133563,6 +135947,50 @@
    ]
   },
   {
+   "id": "alex-foundation",
+   "name": "The Alex Foundation",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Nonprofit supporting Irene Pepperberg's research on grey parrot cognition and communication, begun with the parrot Alex and continued with Griffin.",
+   "description_zh": "支持 Irene Pepperberg 研究非洲灰鹦鹉认知与沟通的非营利组织，研究始于鹦鹉 Alex，并在 Griffin 身上延续。",
+   "url": "https://alexfoundation.org/",
+   "image": "https://alexfoundation.org/wp-content/uploads/2015/03/167176334_6cf73d70ea_o.jpg",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Irene Pepperberg"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "yovel-bat-lab",
+   "name": "The Bat Lab (Yossi Yovel, Tel Aviv University)",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Tel Aviv University lab that tracks bats in the wild and uses machine learning to classify their social calls; Yossi Yovel also chairs the Coller Dolittle Prize.",
+   "description_zh": "特拉维夫大学的实验室，在野外追踪蝙蝠，并用机器学习对其社交叫声进行分类；Yossi Yovel 同时主持 Coller Dolittle 奖。",
+   "url": "https://www.yovelbatlab.com/",
+   "image": "https://static.wixstatic.com/media/f46e61_043360f767cc4c8c841f3519e81c5ca6~mv2.jpg",
+   "based": "Tel Aviv, Israel",
+   "based_zh": "以色列特拉维夫",
+   "people": [
+    "Yossi Yovel"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "buffalo-treaty",
    "name": "The Buffalo Treaty",
    "type": "network",
@@ -133619,6 +136047,25 @@
    "founded": 2020
   },
   {
+   "id": "far-out-initiative",
+   "name": "The Far Out Initiative",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Project that studies people with a genetic variant that makes them nearly pain-free, with the long-term aim of using gene editing to reduce suffering in wild and farmed animals.",
+   "description_zh": "研究一类几乎感受不到疼痛的遗传变异人群的项目，长期目标是用基因编辑减少野生和养殖动物的痛苦。",
+   "url": "https://farout.bio/",
+   "image": "https://farout.bio/assets/og-image.png",
+   "based": "UK",
+   "based_zh": "英国",
+   "people": [
+    "Jim Cameron"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
    "id": "frozen-ark",
    "name": "The Frozen Ark",
    "type": "nonprofit",
@@ -133654,6 +136101,29 @@
    "based": "London, UK",
    "based_zh": "伦敦，英国",
    "founded": 1985
+  },
+  {
+   "id": "gorilla-foundation",
+   "name": "The Gorilla Foundation",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Organisation behind Project Koko, in which Francine Patterson taught the gorilla Koko a modified sign language from the 1970s; it now works on great ape sanctuary and conservation.",
+   "description_zh": "Koko 项目背后的机构：自 1970 年代起，Francine Patterson 教大猩猩 Koko 一种改编的手语；如今它致力于类人猿庇护与保护。",
+   "url": "https://www.koko.org/",
+   "image": "https://www.koko.org/wp-content/uploads/2022/06/pixie_1655711512341.png",
+   "based": "Woodside, US",
+   "based_zh": "伍德赛德，美国",
+   "founded": 1976,
+   "people": [
+    "Francine Patterson"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "long-now-foundation",
@@ -133698,6 +136168,25 @@
    "founded": 1937
   },
   {
+   "id": "navigation-fund",
+   "name": "The Navigation Fund",
+   "type": "funding",
+   "themes": [
+    "animal-welfare",
+    "digital-minds"
+   ],
+   "description": "Foundation of Jed McCaleb that funds farmed animal welfare, AI safety and other neglected areas; a supporter of Sentient Futures.",
+   "description_zh": "Jed McCaleb 设立的基金会，资助养殖动物福利、AI 安全等被忽视领域；是 Sentient Futures 的支持者之一。",
+   "url": "https://www.navigation.org/",
+   "image": "https://cdn.prod.website-files.com/6539079f4ed6581ed4aacea6/69b5b11d058dec62936eaabc_Untitled%20design%20(10).png",
+   "based": "US",
+   "based_zh": "美国",
+   "people": [
+    "Jed McCaleb"
+   ],
+   "found_via": "https://sentientfutures.ai/"
+  },
+  {
    "id": "the-odin",
    "name": "The ODIN",
    "type": "company",
@@ -133737,6 +136226,63 @@
    "based_zh": "阿姆斯特丹，荷兰"
   },
   {
+   "id": "safina-center",
+   "name": "The Safina Center",
+   "type": "nonprofit",
+   "themes": [
+    "sentience",
+    "conservation-tech"
+   ],
+   "fields": [
+    "hni"
+   ],
+   "description": "Nonprofit founded by ecologist and author Carl Safina that combines science, writing and art to communicate the inner lives of animals and the case for protecting them.",
+   "description_zh": "由生态学家、作家 Carl Safina 创立的非营利组织，结合科学、写作和艺术，讲述动物的内心生活以及保护它们的理由。",
+   "url": "https://www.safinacenter.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/5de3d8be631c6c6acaf7aac8/1641995723677-QWE34X69D2320RDFEL3W/unsplash-image-ul-ZsFLIjvw.jpg",
+   "based": "Long Island, US",
+   "based_zh": "长岛，美国",
+   "people": [
+    "Carl Safina"
+   ],
+   "found_via": "https://www.interspecies.io/"
+  },
+  {
+   "id": "science-of-consciousness-conference",
+   "name": "The Science of Consciousness (conference)",
+   "type": "event",
+   "themes": [
+    "sentience",
+    "digital-minds"
+   ],
+   "description": "Long-running interdisciplinary conference series started at the University of Arizona in 1994, covering theories of consciousness, animal minds and machine consciousness.",
+   "description_zh": "始于 1994 年亚利桑那大学的长期跨学科会议系列，议题涵盖意识理论、动物心智和机器意识。",
+   "url": "https://consciousness.arizona.edu/",
+   "image": "https://consciousness.arizona.edu/sites/default/files/www_webheader.png",
+   "based": "Tucson, US",
+   "based_zh": "图森，美国",
+   "founded": 1994,
+   "people": [
+    "Stuart Hameroff",
+    "David Chalmers"
+   ]
+  },
+  {
+   "id": "sentience-institute-podcast",
+   "name": "The Sentience Institute Podcast",
+   "type": "media",
+   "themes": [
+    "digital-minds",
+    "animal-welfare"
+   ],
+   "description": "Interview podcast from Sentience Institute on moral circle expansion, digital minds and effective animal advocacy.",
+   "description_zh": "Sentience Institute 的访谈播客，讨论道德圈扩展、数字心智和有效的动物倡导。",
+   "url": "https://www.sentienceinstitute.org/podcast",
+   "image": "http://www.sentienceinstitute.org/img/header_photos/podcast.png",
+   "based": "Online",
+   "based_zh": "线上"
+  },
+  {
    "id": "tierra-digna",
    "name": "Tierra Digna",
    "type": "nonprofit",
@@ -133754,6 +136300,23 @@
    "based": "Bogotá, Colombia",
    "based_zh": "波哥大，哥伦比亚",
    "founded": 2010
+  },
+  {
+   "id": "toulon-declaration",
+   "name": "Toulon Declaration",
+   "type": "media",
+   "themes": [
+    "law-rights",
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "2019 declaration by legal scholars at the University of Toulon calling for animals to be recognised as legal persons rather than things.",
+   "description_zh": "2019 年由土伦大学法学学者发表的宣言，呼吁承认动物是法律上的人格主体，而不是物。",
+   "url": "https://www.univ-tln.fr/declaration-de-toulon/",
+   "image": "https://www.univ-tln.fr/wp-content/uploads/declaration-de-toulon-droit-2019.webp",
+   "based": "Toulon, France",
+   "based_zh": "法国土伦",
+   "founded": 2019
   },
   {
    "id": "transnatural",
@@ -133775,6 +136338,26 @@
    "based_zh": "阿姆斯特丹，荷兰"
   },
   {
+   "id": "oxford-uehiro-centre",
+   "name": "Uehiro Oxford Institute (formerly Oxford Uehiro Centre for Practical Ethics)",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "digital-minds"
+   ],
+   "description": "Oxford ethics centre whose researchers work on moral status, animal ethics, AI ethics and the moral circle.",
+   "description_zh": "牛津大学的伦理学研究中心，其研究者关注道德地位、动物伦理、AI 伦理与道德圈问题。",
+   "url": "https://www.practicalethics.ox.ac.uk/",
+   "image": "https://www.practicalethics.ox.ac.uk/sites/default/files/styles/listing_landscape_image/public/practicalethics/images/media/uehiro-homepage-main-banner.jpg?itok=qnmqt_bj",
+   "based": "Oxford, UK",
+   "based_zh": "牛津，英国",
+   "founded": 2002,
+   "people": [
+    "Julian Savulescu"
+   ],
+   "found_via": "https://forum.effectivealtruism.org/posts/Zp5cFZF4CLQrGZHTg"
+  },
+  {
    "id": "uwe-unconventional-computing-lab",
    "name": "Unconventional Computing Laboratory (UWE Bristol)",
    "type": "research",
@@ -133794,6 +136377,22 @@
     "Andrew Adamatzky"
    ],
    "creator_id": "andrew-adamatzky"
+  },
+  {
+   "id": "ufaw",
+   "name": "Universities Federation for Animal Welfare (UFAW)",
+   "type": "nonprofit",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "UK scientific charity that funds animal welfare science, publishes the journal Animal Welfare and runs conferences on improving the lives of kept and wild animals.",
+   "description_zh": "英国科学慈善机构，资助动物福利科学研究，出版期刊《Animal Welfare》，并举办改善圈养与野生动物生活的会议。",
+   "url": "https://scienceforanimalwelfare.org/",
+   "image": "https://scienceforanimalwelfare.org/wp-content/uploads/2026/07/Assessing-Animal-Welfare-Featured-Image.png",
+   "based": "Wheathampstead, UK",
+   "based_zh": "英国惠特汉普斯特德",
+   "founded": 1926
   },
   {
    "id": "usa-national-phenology-network",
@@ -133831,6 +136430,26 @@
    "based": "Barcelona, ES",
    "based_zh": "巴塞罗那，西班牙",
    "creator_id": "iaac"
+  },
+  {
+   "id": "vegan-hacktivists",
+   "name": "Vegan Hacktivists",
+   "type": "nonprofit",
+   "themes": [
+    "ai-animals",
+    "animal-welfare"
+   ],
+   "description": "Volunteer tech collective that builds websites, apps and data tools for animal protection organisations for free; its design studio is Violet Studios.",
+   "description_zh": "志愿者技术团体，免费为动物保护组织构建网站、应用和数据工具；其设计工作室为 Violet Studios。",
+   "url": "https://veganhacktivists.org/",
+   "image": "https://images.squarespace-cdn.com/content/v1/67b724ecf8c19679621f4dd4/94bdc5ca-4338-4b6a-9f82-912a0a26bd5a/pexels-photo-3399700_expanded.jpg",
+   "based": "International",
+   "based_zh": "国际",
+   "founded": 2019,
+   "people": [
+    "David van Beveren"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
   },
   {
    "id": "vigie-nature",
@@ -133871,6 +136490,25 @@
    "founded": 1994
   },
   {
+   "id": "welfare-footprint-project",
+   "name": "Welfare Footprint Institute (formerly Welfare Footprint Project)",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Research institute that measures animal suffering as time spent in pain of different intensities, giving comparable numbers for practices such as cage-free housing or fish slaughter methods.",
+   "description_zh": "研究机构，把动物痛苦量化为处于不同强度疼痛中的时间，为无笼饲养、鱼类屠宰方式等做法提供可比较的数字。",
+   "url": "https://welfarefootprint.org/",
+   "image": "https://welfarefootprint.org/wp-content/uploads/2023/07/Welfare-Footprint-P-1024x440.png",
+   "based": "US / Brazil",
+   "based_zh": "美国 / 巴西",
+   "people": [
+    "Cynthia Schuck-Paim",
+    "Wladimir Alonso"
+   ]
+  },
+  {
    "id": "wellcome-collection",
    "name": "Wellcome Collection",
    "type": "research",
@@ -133905,6 +136543,70 @@
    "based": "France",
    "based_zh": "法国",
    "found_via": "https://www.garn.org/members/"
+  },
+  {
+   "id": "wild-animal-initiative",
+   "name": "Wild Animal Initiative",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "Nonprofit that builds the scientific field of wild animal welfare by funding and publishing research on the lives of wild animals and keeping an open research library.",
+   "description_zh": "非营利组织，通过资助和发表关于野生动物生活的研究、维护开放研究资料库，建设野生动物福利这一科学领域。",
+   "url": "https://www.wildanimalinitiative.org/",
+   "image": "http://static1.squarespace.com/static/5f04bd57a1c21d767782adb8/t/65677aadc2bfcb0d7fbfd319/1701280443507/P1290507.JPG?format=1500w",
+   "based": "US",
+   "based_zh": "美国",
+   "founded": 2019,
+   "people": [
+    "Cameron Meyer Shorb"
+   ],
+   "found_via": "https://sentient-futures.notion.site/aixa"
+  },
+  {
+   "id": "nyu-wild-animal-welfare-program",
+   "name": "Wild Animal Welfare Program (NYU)",
+   "type": "research",
+   "themes": [
+    "animal-welfare",
+    "sentience"
+   ],
+   "description": "NYU programme in the Department of Environmental Studies that studies the welfare of wild animals and how humans can responsibly improve it, linking animal welfare science, ecology and ethics.",
+   "description_zh": "纽约大学环境研究系的项目，研究野生动物的福利以及人类如何负责任地改善它，连接动物福利科学、生态学与伦理学。",
+   "url": "https://sites.google.com/nyu.edu/wildanimalwelfare/home",
+   "based": "New York, US",
+   "based_zh": "纽约，美国",
+   "founded": 2022,
+   "people": [
+    "Becca Franks",
+    "Jeff Sebo"
+   ],
+   "found_via": "https://nonhumanminds.org/"
+  },
+  {
+   "id": "wild-dolphin-project",
+   "name": "Wild Dolphin Project",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Nonprofit that has studied a community of wild Atlantic spotted dolphins in the Bahamas since 1985, recording their sounds and behaviour and testing two-way underwater interfaces such as CHAT.",
+   "description_zh": "自 1985 年起在巴哈马研究一个野生大西洋斑纹海豚群体的非营利组织，记录它们的声音与行为，并测试 CHAT 等双向水下交流界面。",
+   "url": "https://www.wilddolphinproject.org/",
+   "image": "https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg",
+   "based": "Florida, US / Bahamas",
+   "based_zh": "美国佛罗里达 / 巴哈马",
+   "founded": 1985,
+   "people": [
+    "Denise Herzing"
+   ],
+   "creator_id": "wild-dolphin-project",
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "wild-law-institute",
@@ -133948,6 +136650,25 @@
     "Jason Holmberg"
    ],
    "creator_id": "wild-me"
+  },
+  {
+   "id": "wild-minds-lab",
+   "name": "Wild Minds Lab (University of St Andrews)",
+   "type": "research",
+   "themes": [
+    "interspecies-communication",
+    "sentience"
+   ],
+   "description": "Catherine Hobaiter's lab studying communication and cognition in wild apes, including the Great Ape Dictionary project that invites the public to help decode chimpanzee and bonobo gestures.",
+   "description_zh": "Catherine Hobaiter 的实验室，研究野生类人猿的沟通与认知，其中包括邀请公众协助解读黑猩猩和倭黑猩猩手势的 Great Ape Dictionary 项目。",
+   "url": "https://www.wildminds.ac.uk/",
+   "image": "https://www.wildminds.ac.uk/files/2020/07/home.001.jpeg",
+   "based": "St Andrews, UK",
+   "based_zh": "圣安德鲁斯，英国",
+   "people": [
+    "Catherine Hobaiter"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "wildlabs",
@@ -134157,6 +136878,28 @@
    "based": "Yamaguchi, JP",
    "based_zh": "山口，日本",
    "founded": 2003
+  },
+  {
+   "id": "zoolingua",
+   "name": "Zoolingua",
+   "type": "company",
+   "themes": [
+    "interspecies-communication",
+    "ai-animals"
+   ],
+   "fields": [
+    "aci"
+   ],
+   "description": "Company founded by prairie-dog language researcher Con Slobodchikoff that aims to use AI to translate dogs' vocalisations, facial expressions and body language for their owners.",
+   "description_zh": "由草原犬鼠语言研究者 Con Slobodchikoff 创立的公司，目标是用 AI 为主人翻译狗的叫声、面部表情和肢体语言。",
+   "url": "https://zoolingua.com/",
+   "image": "https://zoolingua.com/wp-content/uploads/2025/11/dalmation1-1024x684.jpg",
+   "based": "Flagstaff, US",
+   "based_zh": "弗拉格斯塔夫，美国",
+   "people": [
+    "Con Slobodchikoff"
+   ],
+   "found_via": "https://www.interspecies.io/"
   },
   {
    "id": "zooniverse",

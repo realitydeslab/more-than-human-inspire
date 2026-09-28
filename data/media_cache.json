@@ -37549,5 +37549,647 @@
   "ok": true,
   "type": "image",
   "content_type": "image/webp"
+ },
+ "img:https://sentientfutures.ai/ogimage.png": {
+  "url": "https://sentientfutures.ai/ogimage.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://nonhumanminds.org/wp-content/uploads/2025/08/769726727-homepage-hero-block-4.jpg": {
+  "url": "https://nonhumanminds.org/wp-content/uploads/2025/08/769726727-homepage-hero-block-4.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://wp.nyu.edu/consciousness/wp-content/uploads/sites/2713/2015/10/gears-inside-the-brain.jpeg": {
+  "url": "https://wp.nyu.edu/consciousness/wp-content/uploads/sites/2713/2015/10/gears-inside-the-brain.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://sites.google.com/sitesv-images-rt/AMxu72vqIUoslJv2T0qhWMFXvOlbaS9aFoZbiVymFCN-R8NyYHRbS0ZZFvffkIogxAzmSvWmcZudUcLNQGZWtB5jOqBJ5cqCGwK6GqYkztDDg4cLvcSunYVFAHuS3XaR2UfFDNhtftmazql-o5k6rySlxOhXEQmxSDCKuk4Zrf9PxrBNuMH6ysJmyiJL5TEcdNo=w16383": {
+  "url": "https://sites.google.com/sitesv-images-rt/AMxu72vqIUoslJv2T0qhWMFXvOlbaS9aFoZbiVymFCN-R8NyYHRbS0ZZFvffkIogxAzmSvWmcZudUcLNQGZWtB5jOqBJ5cqCGwK6GqYkztDDg4cLvcSunYVFAHuS3XaR2UfFDNhtftmazql-o5k6rySlxOhXEQmxSDCKuk4Zrf9PxrBNuMH6ysJmyiJL5TEcdNo=w16383",
+  "ok": false,
+  "type": "image",
+  "error": "HTTPError: HTTP Error 403: Forbidden"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441722245002-M1BGPKEV6AQ0JFFAI800/DSWP+banner+NO+TEXT.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441722245002-M1BGPKEV6AQ0JFFAI800/DSWP+banner+NO+TEXT.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/080994_44699c84709444fdad664c1d431384d0~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/080994_44699c84709444fdad664c1d431384d0~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://simons.berkeley.edu/sites/default/files/styles/facebook/public/2023-03/spermwhale000%20Photo%20Amanda%20Cotton%202_0.jpg?h=d6cc47ca&itok=UxnjzDUn": {
+  "url": "https://simons.berkeley.edu/sites/default/files/styles/facebook/public/2023-03/spermwhale000%20Photo%20Amanda%20Cotton%202_0.jpg?h=d6cc47ca&itok=UxnjzDUn",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://aiforanimalcomms.org/dist/social-preview.png": {
+  "url": "https://aiforanimalcomms.org/dist/social-preview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://quote.ucsd.edu/cclab/files/2025/10/DSCF1851-scaled-e1761936266209-768x348.jpeg": {
+  "url": "https://quote.ucsd.edu/cclab/files/2025/10/DSCF1851-scaled-e1761936266209-768x348.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5045f319-8bc8-4101-ae98-e471c5f2182c/DALLE_2025-02-28_08.37.29_-_A_minimalist_digital_artwork_with_a_soft_earth-tone_gradient_background_blending_soft_browns_muted_greens_and_pale_beige._Fine_geometric_lines_and_/public": {
+  "url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/5045f319-8bc8-4101-ae98-e471c5f2182c/DALLE_2025-02-28_08.37.29_-_A_minimalist_digital_artwork_with_a_soft_earth-tone_gradient_background_blending_soft_browns_muted_greens_and_pale_beige._Fine_geometric_lines_and_/public",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/e2604ad73c80bd0d38a582318435fa3c08a56f0a-1900x1267.jpg?rect=0,138,1900,993&w=1200&h=627&fm=webp": {
+  "url": "https://cdn.sanity.io/images/sp7kseaf/production-20-01-25/e2604ad73c80bd0d38a582318435fa3c08a56f0a-1900x1267.jpg?rect=0,138,1900,993&w=1200&h=627&fm=webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048": {
+  "url": "http://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://cdn.sanity.io/images/1367lwmq/production/31e817fe74ea9c07e5af78d8b1316df72d6a69cb-1440x850.jpg?rect=0,98,1440,752&w=1200&h=627&fit=crop&auto=format": {
+  "url": "https://cdn.sanity.io/images/1367lwmq/production/31e817fe74ea9c07e5af78d8b1316df72d6a69cb-1440x850.jpg?rect=0,98,1440,752&w=1200&h=627&fit=crop&auto=format",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/avif"
+ },
+ "img:https://alexfoundation.org/wp-content/uploads/2015/03/167176334_6cf73d70ea_o.jpg": {
+  "url": "https://alexfoundation.org/wp-content/uploads/2015/03/167176334_6cf73d70ea_o.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5db0ba511b25a26c8d30947a/1573761027045-VDWXSMYUPG0DZR8P1TL6/IMG_1587.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5db0ba511b25a26c8d30947a/1573761027045-VDWXSMYUPG0DZR8P1TL6/IMG_1587.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.koko.org/wp-content/uploads/2022/06/pixie_1655711512341.png": {
+  "url": "https://www.koko.org/wp-content/uploads/2022/06/pixie_1655711512341.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://whale.org/wp-content/uploads/2024/05/Home-Page_Drone-Image_01.webp": {
+  "url": "https://whale.org/wp-content/uploads/2024/05/Home-Page_Drone-Image_01.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.dolphincommunicationproject.org/wp-content/uploads/Homepage_BottomRightofSupportText-300x200.jpg": {
+  "url": "https://www.dolphincommunicationproject.org/wp-content/uploads/Homepage_BottomRightofSupportText-300x200.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/f46e61_043360f767cc4c8c841f3519e81c5ca6~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/f46e61_043360f767cc4c8c841f3519e81c5ca6~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.wildminds.ac.uk/files/2020/07/home.001.jpeg": {
+  "url": "https://www.wildminds.ac.uk/files/2020/07/home.001.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/65ac1ddc50c8237e26572511/t/65b0223f0f5978395921f897/1706041922308/Arcani+butterfly+black.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/65ac1ddc50c8237e26572511/t/65b0223f0f5978395921f897/1706041922308/Arcani+butterfly+black.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.tehanu.io/images/og-image.png": {
+  "url": "https://www.tehanu.io/images/og-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/5de3d8be631c6c6acaf7aac8/1641995723677-QWE34X69D2320RDFEL3W/unsplash-image-ul-ZsFLIjvw.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/5de3d8be631c6c6acaf7aac8/1641995723677-QWE34X69D2320RDFEL3W/unsplash-image-ul-ZsFLIjvw.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.lse.ac.uk/all-images/image-24-11-2025-at-17.40.xcbbefc53.jpeg": {
+  "url": "https://www.lse.ac.uk/all-images/image-24-11-2025-at-17.40.xcbbefc53.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.ctfassets.net/l11efonqeeml/1W7Z1RBjARD63kjZC332sf/9c966380e66d082c6973e5d958db59ce/Land-Use-744x1024.webp": {
+  "url": "https://images.ctfassets.net/l11efonqeeml/1W7Z1RBjARD63kjZC332sf/9c966380e66d082c6973e5d958db59ce/Land-Use-744x1024.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.lse.ac.uk/all-images/campus-tour-video1.x437a8b27.jpg?w=560&h=315&q=85&f=webp": {
+  "url": "https://www.lse.ac.uk/all-images/campus-tour-video1.x437a8b27.jpg?w=560&h=315&q=85&f=webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.lse.ac.uk/business/consulting/assets/images/report-covers/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans.jpg": {
+  "url": "https://www.lse.ac.uk/business/consulting/assets/images/report-covers/Sentience-in-Cephalopod-Molluscs-and-Decapod-Crustaceans.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://philiplow.foundation/data/uploads/cambridge/CambridgeDeclarationSignatureCeremony.jpg": {
+  "url": "https://philiplow.foundation/data/uploads/cambridge/CambridgeDeclarationSignatureCeremony.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.univ-tln.fr/wp-content/uploads/declaration-de-toulon-droit-2019.webp": {
+  "url": "https://www.univ-tln.fr/wp-content/uploads/declaration-de-toulon-droit-2019.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://welfarefootprint.org/wp-content/uploads/2023/07/Welfare-Footprint-P-1024x440.png": {
+  "url": "https://welfarefootprint.org/wp-content/uploads/2023/07/Welfare-Footprint-P-1024x440.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.wellbeingintlstudiesrepository.org/assets/md5images/8e240588cf8cd3a028768d4294acd7d3.png": {
+  "url": "https://www.wellbeingintlstudiesrepository.org/assets/md5images/8e240588cf8cd3a028768d4294acd7d3.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://media.springernature.com/w88/springer-static/cover-hires/journal/10071?as=webp": {
+  "url": "https://media.springernature.com/w88/springer-static/cover-hires/journal/10071?as=webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://comparativecognition.org/ims/aboutim.png": {
+  "url": "https://comparativecognition.org/ims/aboutim.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://manyprimates.github.io/assets/images/pic05.jpg": {
+  "url": "https://manyprimates.github.io/assets/images/pic05.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://manydogs.org/images/many_dogs_banner_wide.jpg": {
+  "url": "https://manydogs.org/images/many_dogs_banner_wide.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://themanybirds.com/wp-content/uploads/2021/11/pexels-pixabay-459326-scaled-1-1024x683.jpg": {
+  "url": "https://themanybirds.com/wp-content/uploads/2021/11/pexels-pixabay-459326-scaled-1-1024x683.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://evolutionaryanthropology.duke.edu/sites/evolutionaryanthropology.duke.edu/files/styles/social_media/public/images/HARE_WOODS_PuppyKindergarten_HC_FB_Header_2.png?h=d1cb525d&itok=ss96oHI7": {
+  "url": "https://evolutionaryanthropology.duke.edu/sites/evolutionaryanthropology.duke.edu/files/styles/social_media/public/images/HARE_WOODS_PuppyKindergarten_HC_FB_Header_2.png?h=d1cb525d&itok=ss96oHI7",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://ethology.elte.hu/media/16/3e/e1ca053a25bb3651c57f7a5e0f9d260aba81d1afcd9bdc0ab4bc9cab76ea/barks2-thumb.png?v202209270307": {
+  "url": "https://ethology.elte.hu/media/16/3e/e1ca053a25bb3651c57f7a5e0f9d260aba81d1afcd9bdc0ab4bc9cab76ea/barks2-thumb.png?v202209270307",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.vetmeduni.ac.at/fileadmin/_processed_/b/0/csm_Mago_wp_2f2da19e95.jpg": {
+  "url": "https://www.vetmeduni.ac.at/fileadmin/_processed_/b/0/csm_Mago_wp_2f2da19e95.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.vetmeduni.ac.at/fileadmin/_processed_/d/1/csm_header-messerlihaus-BER-1402_d0d824b051.jpg": {
+  "url": "https://www.vetmeduni.ac.at/fileadmin/_processed_/d/1/csm_header-messerlihaus-BER-1402_d0d824b051.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.um.es/mintlab/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-02-at-10.21.22.jpeg": {
+  "url": "https://www.um.es/mintlab/wp-content/uploads/2025/09/WhatsApp-Image-2025-09-02-at-10.21.22.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.eleosai.org/images/eleos-opengraph.png": {
+  "url": "https://www.eleosai.org/images/eleos-opengraph.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png": {
+  "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/22123ca35830d33778466f80c42387a51ef49f22-2401x1261.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://rethinkpriorities.org/wp-content/uploads/2024/10/broadening_hero_sq.jpg": {
+  "url": "https://rethinkpriorities.org/wp-content/uploads/2024/10/broadening_hero_sq.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://rethinkpriorities.org/wp-content/uploads/2024/10/lv0wnokrpgnm2yaov9gt.png": {
+  "url": "https://rethinkpriorities.org/wp-content/uploads/2024/10/lv0wnokrpgnm2yaov9gt.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://www.sentienceinstitute.org/img/header_photos/home_image_darkened.png": {
+  "url": "http://www.sentienceinstitute.org/img/header_photos/home_image_darkened.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://reciprocalresearch.org/og-image.png": {
+  "url": "https://reciprocalresearch.org/og-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.prism-global.com/og.png?v=2": {
+  "url": "https://www.prism-global.com/og.png?v=2",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://conscium.com/hubfs/Ballerina%20Hero%20Transparent.webp": {
+  "url": "https://conscium.com/hubfs/Ballerina%20Hero%20Transparent.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://eon.systems/images/og-banner.png": {
+  "url": "https://eon.systems/images/og-banner.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://carboncopies.org/assets/images/HeaderImage.png": {
+  "url": "https://carboncopies.org/assets/images/HeaderImage.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://qri.org/images/hyperbolic.png": {
+  "url": "https://qri.org/images/hyperbolic.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://declarationmontreal-iaresponsable.com/wp-content/uploads/2023/05/declaration-ia-facebook-1024x576.jpg": {
+  "url": "https://declarationmontreal-iaresponsable.com/wp-content/uploads/2023/05/declaration-ia-facebook-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://amcs-community.org/wp-content/uploads/2021/01/Mathematical-Consciousness-Science-1024x576.jpg": {
+  "url": "http://amcs-community.org/wp-content/uploads/2021/01/Mathematical-Consciousness-Science-1024x576.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://theassc.org/wp-content/uploads/2025/11/thanks_for_applying_150-e1465222673878.png": {
+  "url": "https://theassc.org/wp-content/uploads/2025/11/thanks_for_applying_150-e1465222673878.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://consciousness.arizona.edu/sites/default/files/www_webheader.png": {
+  "url": "https://consciousness.arizona.edu/sites/default/files/www_webheader.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.sussex.ac.uk/wcm/assets/media/original/78946.png": {
+  "url": "https://www.sussex.ac.uk/wcm/assets/media/original/78946.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.fau.edu/future-mind/images/future-mind-banner-short.png": {
+  "url": "https://www.fau.edu/future-mind/images/future-mind-banner-short.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.lcfi.ac.uk/wp-content/uploads/2024/04/cf794608fcc93e9f6bd718f12a9811b0.jpg": {
+  "url": "https://www.lcfi.ac.uk/wp-content/uploads/2024/04/cf794608fcc93e9f6bd718f12a9811b0.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://repository-images.githubusercontent.com/575343740/4d4bc383-e4c1-4412-b683-35c5797b872e": {
+  "url": "https://repository-images.githubusercontent.com/575343740/4d4bc383-e4c1-4412-b683-35c5797b872e",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://substackcdn.com/image/fetch/$s_!zbp4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fexperiencemachines.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D652676401%26version%3D9": {
+  "url": "https://substackcdn.com/image/fetch/$s_!zbp4!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fexperiencemachines.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D652676401%26version%3D9",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/5f04bd57a1c21d767782adb8/t/65677aadc2bfcb0d7fbfd319/1701280443507/P1290507.JPG?format=1500w": {
+  "url": "http://static1.squarespace.com/static/5f04bd57a1c21d767782adb8/t/65677aadc2bfcb0d7fbfd319/1701280443507/P1290507.JPG?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:http://static1.squarespace.com/static/69c46ec30c9dc23ed7b24b94/t/6a4e110c140391182d41ac95/1783501068759/opengraph.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/69c46ec30c9dc23ed7b24b94/t/6a4e110c140391182d41ac95/1783501068759/opengraph.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.animal-ethics.org/wp-content/uploads/Octopus_thumb.png": {
+  "url": "https://www.animal-ethics.org/wp-content/uploads/Octopus_thumb.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.aiandanimals.org/wp-content/uploads/AI-and-animals-YT-Clean.jpg": {
+  "url": "https://www.aiandanimals.org/wp-content/uploads/AI-and-animals-YT-Clean.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://faunalytics.org/wp-content/uploads/2018/12/faunalytics-og-1200x600-home-2.jpg": {
+  "url": "https://faunalytics.org/wp-content/uploads/2018/12/faunalytics-og-1200x600-home-2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.ctfassets.net/ww1ie0z745y7/4Q9PiRd2FFrb9cx4RfZgyt/ac9e928e91930641a0fee51f7ec2d5b7/ic-youtube-white-normal_2x.png": {
+  "url": "https://images.ctfassets.net/ww1ie0z745y7/4Q9PiRd2FFrb9cx4RfZgyt/ac9e928e91930641a0fee51f7ec2d5b7/ic-youtube-white-normal_2x.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://animalcharityevaluators.org/wp-content/uploads/2023/07/ACE-Rebrand-Blog-Post-Featured-Image.png": {
+  "url": "https://animalcharityevaluators.org/wp-content/uploads/2023/07/ACE-Rebrand-Blog-Post-Featured-Image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.oxfordanimalethics.com/wpcms/wp-content/uploads/the-ferrater-mora-oxford-centre-for-animal-ethics.png": {
+  "url": "https://www.oxfordanimalethics.com/wpcms/wp-content/uploads/the-ferrater-mora-oxford-centre-for-animal-ethics.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.practicalethics.ox.ac.uk/sites/default/files/styles/listing_landscape_image/public/practicalethics/images/media/uehiro-homepage-main-banner.jpg?itok=qnmqt_bj": {
+  "url": "https://www.practicalethics.ox.ac.uk/sites/default/files/styles/listing_landscape_image/public/practicalethics/images/media/uehiro-homepage-main-banner.jpg?itok=qnmqt_bj",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://scienceforanimalwelfare.org/wp-content/uploads/2026/07/Assessing-Animal-Welfare-Featured-Image.png": {
+  "url": "https://scienceforanimalwelfare.org/wp-content/uploads/2026/07/Assessing-Animal-Welfare-Featured-Image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.applied-ethology.org/hres/Framework17.png": {
+  "url": "https://www.applied-ethology.org/hres/Framework17.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://nc3rs.org.uk/sites/default/files/styles/image_16_9/public/2021-08/NC3Rs%20Research%20Review%202019.jpg?itok=90tnhbmZ": {
+  "url": "https://nc3rs.org.uk/sites/default/files/styles/image_16_9/public/2021-08/NC3Rs%20Research%20Review%202019.jpg?itok=90tnhbmZ",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://static1.squarespace.com/static/63ec3dc1fecdda25c95f6f39/t/67d210af6a6677671de799c1/1686358942089/cover+image.png?format=1500w": {
+  "url": "http://static1.squarespace.com/static/63ec3dc1fecdda25c95f6f39/t/67d210af6a6677671de799c1/1686358942089/cover+image.png?format=1500w",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://www.awish-project.eu/wp-content/uploads/2023/01/Zoom-Cover2.png": {
+  "url": "https://www.awish-project.eu/wp-content/uploads/2023/01/Zoom-Cover2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.compassionml.com/images/banner.png": {
+  "url": "https://www.compassionml.com/images/banner.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://opengraph.githubassets.com/de69b754650a2bc0988cd2e03451bb8014d195b5a7cd23be64d68bf7d60ebafb/AI-for-Animals/ahb": {
+  "url": "https://opengraph.githubassets.com/de69b754650a2bc0988cd2e03451bb8014d195b5a7cd23be64d68bf7d60ebafb/AI-for-Animals/ahb",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/67b724ecf8c19679621f4dd4/94bdc5ca-4338-4b6a-9f82-912a0a26bd5a/pexels-photo-3399700_expanded.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/67b724ecf8c19679621f4dd4/94bdc5ca-4338-4b6a-9f82-912a0a26bd5a/pexels-photo-3399700_expanded.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/66fff96b2acab3473576533b/84babf1e-057f-4897-bf1e-37d8bdbf1a1d/orange.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/66fff96b2acab3473576533b/84babf1e-057f-4897-bf1e-37d8bdbf1a1d/orange.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://farout.bio/assets/og-image.png": {
+  "url": "https://farout.bio/assets/og-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://static.wixstatic.com/media/3bd51c_14bd72ed2ded4cd3ad2233dd47cdae3b~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/3bd51c_14bd72ed2ded4cd3ad2233dd47cdae3b~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/53745e_41276a71b73d46cbbba527bc098891be~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/53745e_41276a71b73d46cbbba527bc098891be~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/46ca59_7d07479125bb459f981c1e97e129b502~mv2.jpg": {
+  "url": "https://static.wixstatic.com/media/46ca59_7d07479125bb459f981c1e97e129b502~mv2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/9475db_9d49644ef1bc4f42948986573bb21ece~mv2.png": {
+  "url": "https://static.wixstatic.com/media/9475db_9d49644ef1bc4f42948986573bb21ece~mv2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://centerforreducingsuffering.org/wp-content/uploads/2023/08/reasoned-politics-avoiding-the-worst.jpg": {
+  "url": "https://centerforreducingsuffering.org/wp-content/uploads/2023/08/reasoned-politics-avoiding-the-worst.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://longtermrisk.org/media/brand/CLR_facebook_coverphoto_v3a.jpg": {
+  "url": "https://longtermrisk.org/media/brand/CLR_facebook_coverphoto_v3a.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://macroscopic.org/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F11j8q4ao%2Fproduction%2F67a365d1d818ffae3e56ff1dcfd7fcdec0f70ccb-562x830.jpg&w=1200&q=75": {
+  "url": "https://macroscopic.org/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F11j8q4ao%2Fproduction%2F67a365d1d818ffae3e56ff1dcfd7fcdec0f70ccb-562x830.jpg&w=1200&q=75",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.forethought.org/social-preview/default-social-preview.png": {
+  "url": "https://www.forethought.org/social-preview/default-social-preview.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.globalprioritiesinstitute.org/images/image1.png": {
+  "url": "https://www.globalprioritiesinstitute.org/images/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://animal.law.harvard.edu/wp-content/uploads/hlsalpp-opengraph.jpg": {
+  "url": "https://animal.law.harvard.edu/wp-content/uploads/hlsalpp-opengraph.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://thebrooksinstitute.org/sites/default/files/styles/3_across_phone/public/2025-08/Video%20thumbnail%20alt%201%20copy%20%281%29.png?itok=etX4nkbT": {
+  "url": "https://thebrooksinstitute.org/sites/default/files/styles/3_across_phone/public/2025-08/Video%20thumbnail%20alt%201%20copy%20%281%29.png?itok=etX4nkbT",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://law.lclark.edu/live/image/gid/41/width/1260/height/630/crop/1/96535_south-africa-gdcbc6c067_1920.rev.1667578737.jpg": {
+  "url": "https://law.lclark.edu/live/image/gid/41/width/1260/height/630/crop/1/96535_south-africa-gdcbc6c067_1920.rev.1667578737.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://aldf.org/wp-content/uploads/2018/07/ALDF_FB_Og_image-1200x628.jpg": {
+  "url": "https://aldf.org/wp-content/uploads/2018/07/ALDF_FB_Og_image-1200x628.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.globalanimallaw.org/_thumbnails_/4/209_frog.jpg?m=1593432402": {
+  "url": "https://www.globalanimallaw.org/_thumbnails_/4/209_frog.jpg?m=1593432402",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://coefficientgiving.org/wp-content/uploads/share-image.png": {
+  "url": "https://coefficientgiving.org/wp-content/uploads/share-image.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://funds.effectivealtruism.org/preview-awf.jpg": {
+  "url": "https://funds.effectivealtruism.org/preview-awf.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.prod.website-files.com/6539079f4ed6581ed4aacea6/69b5b11d058dec62936eaabc_Untitled%20design%20(10).png": {
+  "url": "https://cdn.prod.website-files.com/6539079f4ed6581ed4aacea6/69b5b11d058dec62936eaabc_Untitled%20design%20(10).png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.templetonworldcharity.org/assets/site/blog/_1200x630_fit_center-center_82_none/TWCF.jpg?mtime=1715884795": {
+  "url": "https://www.templetonworldcharity.org/assets/site/blog/_1200x630_fit_center-center_82_none/TWCF.jpg?mtime=1715884795",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://sentientmedia.org/wp-content/uploads/2024/03/Launch-1.jpg": {
+  "url": "https://sentientmedia.org/wp-content/uploads/2024/03/Launch-1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://platform.vox.com/wp-content/uploads/sites/2/2024/11/Option2_LeadArt_FP50.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200": {
+  "url": "https://platform.vox.com/wp-content/uploads/sites/2/2024/11/Option2_LeadArt_FP50.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://static.wixstatic.com/media/54ef8a_55b7406fecda42068a5b2934e63de7f1~mv2.png": {
+  "url": "https://static.wixstatic.com/media/54ef8a_55b7406fecda42068a5b2934e63de7f1~mv2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:http://assets.libsyn.com/content/138270852?height=250&width=250": {
+  "url": "http://assets.libsyn.com/content/138270852?height=250&width=250",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:http://www.sentienceinstitute.org/img/header_photos/podcast.png": {
+  "url": "http://www.sentienceinstitute.org/img/header_photos/podcast.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
+ },
+ "img:https://www.mindinganimals.com/files/2018/06/animal-elephant-ivory-70080.jpg": {
+  "url": "https://www.mindinganimals.com/files/2018/06/animal-elephant-ivory-70080.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://boilerplate-wp-media.storage.googleapis.com/wp-content/uploads/sites/10/2026/03/19143605/Hero-section.jpg": {
+  "url": "https://boilerplate-wp-media.storage.googleapis.com/wp-content/uploads/sites/10/2026/03/19143605/Hero-section.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://static.wixstatic.com/media/1bf0ca_b0d3f4b8d5ed44faa584e1c2237a2c0a~mv2.jpeg": {
+  "url": "https://static.wixstatic.com/media/1bf0ca_b0d3f4b8d5ed44faa584e1c2237a2c0a~mv2.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://ibac.info/wp-content/uploads/2026/04/international-bioacoustics-society-ibac-opengraph-1024x484.png": {
+  "url": "https://ibac.info/wp-content/uploads/2026/04/international-bioacoustics-society-ibac-opengraph-1024x484.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png"
  }
 }
