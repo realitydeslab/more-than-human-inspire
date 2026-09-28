@@ -3,7 +3,7 @@
 catalog_md(data, lang) -> every field and sub-category with its works, then every creator.
 llms_txt(data)         -> short index pointing to the full files.
 """
-SITE = "https://morethanhuman.reality.design"
+SITE = "https://more-than-human.reality.design"
 
 T = {
     "en": {

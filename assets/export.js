@@ -1,7 +1,7 @@
 /* More than Human Inspire — language-aware field access and Markdown export (SKILL.md / README.md / reading list). */
 (() => {
   "use strict";
-  const SITE = "https://morethanhuman.reality.design";
+  const SITE = "https://more-than-human.reality.design";
 
   const text = {
     work(w, lang) {

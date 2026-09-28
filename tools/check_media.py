@@ -25,7 +25,7 @@ TRANSIENT = re.compile(r"HTTP Error (429|5\d\d)|timed out|Temporary failure|Conn
 
 
 # Wikimedia rejects browser-like user agents from scripts (robot policy); it wants an identifying one.
-BOT_UA = {"User-Agent": "MoreThanHumanInspire/1.0 (https://morethanhuman.reality.design; link checker)"}
+BOT_UA = {"User-Agent": "MoreThanHumanInspire/1.0 (https://more-than-human.reality.design; link checker)"}
 
 
 def _open(url: str, headers: dict | None = None, timeout: int = 20, tries: int = 3):

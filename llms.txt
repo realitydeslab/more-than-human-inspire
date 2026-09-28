@@ -6,10 +6,10 @@
 
 ## Full catalog
 
-- [English catalog](https://morethanhuman.reality.design/catalog.md): every field and sub-category with all works, then all creators
-- [Chinese catalog](https://morethanhuman.reality.design/catalog.zh.md): 中文版完整目录
-- [Raw data (JSON)](https://morethanhuman.reality.design/data/entries.json)
+- [English catalog](https://more-than-human.reality.design/catalog.md): every field and sub-category with all works, then all creators
+- [Chinese catalog](https://more-than-human.reality.design/catalog.zh.md): 中文版完整目录
+- [Raw data (JSON)](https://more-than-human.reality.design/data/entries.json)
 
 ## Website
 
-- [https://morethanhuman.reality.design](https://morethanhuman.reality.design): images and videos, paper links, filters by field, organism and type, starring and SKILL.md export
+- [https://more-than-human.reality.design](https://more-than-human.reality.design): images and videos, paper links, filters by field, organism and type, starring and SKILL.md export

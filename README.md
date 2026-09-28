@@ -1,6 +1,6 @@
 # More than Human Inspire
 
-**https://morethanhuman.reality.design**
+**https://more-than-human.reality.design**
 
 Design with more than humans. A bilingual (English / 中文) gallery of **More-than-Human Design**, **Bio Design**, **Human × Biocomputing**, **Organoid Computing Design**, **Animal–Computer Interaction** and **Human–Nature Interaction**: papers, research prototypes, artworks, products and speculative projects. Every work has its core idea, how it works, and links to its paper, video and images. Built by [Reality Design Lab](https://reality.design) as idea material for designers, researchers and students; a sibling of [Reality Design Inspire](https://inspire.reality.design).
 
@@ -73,7 +73,7 @@ Images and videos are linked from the creators, labs, museums and publishers and
 
 # More than Human Inspire（中文）
 
-**https://morethanhuman.reality.design**
+**https://more-than-human.reality.design**
 
 与万物一起设计。这是一个中英双语的作品库，收录**超越人类的设计**、**生物设计**、**人类 × 生物计算**、**类器官计算设计**、**动物-计算机交互**与**人与自然交互**六个领域的论文、研究原型、艺术作品、产品和思辨设计项目。每件作品都写明核心想法和实现方式，并附上论文、视频和图片链接。由 [Reality Design Lab](https://reality.design) 整理，是 [Reality Design Inspire](https://inspire.reality.design) 的姊妹站。
 

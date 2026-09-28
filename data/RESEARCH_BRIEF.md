@@ -1,6 +1,6 @@
 # Research brief (for every research agent)
 
-Project: **More than Human Inspire** — a bilingual (English / Simplified Chinese) gallery at morethanhuman.reality.design
+Project: **More than Human Inspire** — a bilingual (English / Simplified Chinese) gallery at more-than-human.reality.design
 of More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design works, made by
 Reality Design Lab as idea material for designers, researchers and students. Working dir:
 `/Users/amber/Projects/HoloKit/HoloKit2/mth-inspire`.

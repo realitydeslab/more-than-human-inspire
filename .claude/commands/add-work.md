@@ -24,5 +24,5 @@ Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` first.
 8. **Check duplicates**: `python3 tools/audit_titles.py` — resolve any same-title works that are yours.
 9. **Publish** (skip with `--no-push`): `tools/publish.sh "feat(data): add <name> (<n> works)"`
    It validates every batch, rebuilds, refuses to publish if validation fails or works disappeared, then commits and pushes.
-   GitHub Pages redeploys https://morethanhuman.reality.design in about a minute.
+   GitHub Pages redeploys https://more-than-human.reality.design in about a minute.
 10. **Report**: what was added (counts per field), notable works, what was left out and why, new leads, live URL.

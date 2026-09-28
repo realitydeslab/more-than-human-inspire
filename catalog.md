@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, Animal–Computer Interaction and Human–Nature Interaction: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://morethanhuman.reality.design · 2026-09-28 · 1291 creators · 2028 works
+https://more-than-human.reality.design · 2026-09-28 · 1291 creators · 2028 works
 
 ## How an AI assistant should use this file
 
