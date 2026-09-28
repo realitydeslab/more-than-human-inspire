@@ -16604,9 +16604,7 @@
   },
   {
    "id": "werewool",
-   "links": {
-    "site": "https://www.werewool.bio"
-   },
+   "links": {},
    "connected_to": [],
    "name": "Werewool",
    "kind": "company",
@@ -74772,10 +74770,7 @@
     "thumbnail": "https://i.ytimg.com/vi/zKigW6hDEcE/maxresdefault.jpg",
     "embeddable": true
    },
-   "images": [
-    "https://www.werewool.bio/uploads/22_eeac3db53f.webp"
-   ],
-   "source_url": "https://www.werewool.bio",
+   "images": [],
    "collections": [
     "biofabricate-summit",
     "biodesign-challenge",

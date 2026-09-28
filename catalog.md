@@ -6445,8 +6445,6 @@ Garments and textiles dyed, grown or animated by living organisms.
 - What it is: Textile fibres made from proteins whose sequences are borrowed from nature, for example a coral protein that gives colour without dye; the fibres are produced by engineered microbes and spun into yarn.
 - How it works: Selected protein sequences are expressed in microbes by fermentation, purified and spun into fibres whose colour and texture come from the protein itself.
 - Video: https://www.youtube.com/watch?v=zKigW6hDEcE
-- Images: https://www.werewool.bio/uploads/22_eeac3db53f.webp
-- Project page: https://www.werewool.bio
 
 #### Bio Iridescent Sequin — Elissa Brunato (2019)
 - Type: Research prototype · Organisms: Plants
@@ -19305,7 +19303,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Vollebak** (1) — Clothing company (Steve and Nick Tidball). Vollebak is a London clothing company known for experimental garments, including a T-shirt made from plants and algae. https://www.vollebak.com
 - **Weird Ecologies (RCA team)** (1) — Student team, Royal College of Art. Weird Ecologies is an RCA team designing devices that support toxin-tolerant organisms on contaminated land.
 - **Wenjia Sun** (1) — Design researcher, National Chung Cheng University. Design researcher working on speculative design, legal fiction and nonhuman rights.
-- **Werewool** (1) — Biotech fibre start-up co-founded by Chui-Lian Lee and Valentina Gomez. Werewool designs textile fibres from protein sequences found in nature, such as fluorescent coral proteins, so that colour, stretch or moisture handling are built into the fibre itself. https://www.werewool.bio
+- **Werewool** (1) — Biotech fibre start-up co-founded by Chui-Lian Lee and Valentina Gomez. Werewool designs textile fibres from protein sequences found in nature, such as fluorescent coral proteins, so that colour, stretch or moisture handling are built into the fibre itself.
 - **Werner Aisslinger** (1) — Industrial designer; founder of Studio Aisslinger. Werner Aisslinger designs furniture, interiors and experimental material projects such as the Hemp Chair. https://aisslinger.de/
 - **Wevr** (1) — VR studio. Los Angeles company known for theBlu VR series.
 - **Whale-SETI** (1) — Research team of the SETI Institute, UC Davis and the Alaska Whale Foundation (Brenda McCowan, Laurance Doyle, Fred Sharpe). Whale-SETI studies humpback whale communication with information theory as a test case for recognising intelligent signals from unknown senders. https://www.seti.org

@@ -300,6 +300,24 @@ def load_orgs(cache: dict, creator_ids: set) -> list:
     return sorted(orgs.values(), key=lambda o: o.get("name", "").lower())
 
 
+def strip_blocked(items: list, blocked: list, what: str) -> None:
+    """Remove URLs on blocked (hijacked / spam) domains from works, creators or orgs, in place."""
+    if not blocked:
+        return
+    bad = lambda u: isinstance(u, str) and any(d in u.lower() for d in blocked)  # noqa: E731
+    for x in items:
+        for k in ("source_url", "code_url", "url", "image"):
+            if bad(x.get(k)):
+                logger.warning("%s %s: removed blocked %s %s", what, x.get("id"), k, x[k])
+                x.pop(k)
+        if isinstance(x.get("images"), list):
+            x["images"] = [u for u in x["images"] if not bad(u)]
+        if bad((x.get("video") or {}).get("url")):
+            x["video"] = {}
+        if isinstance(x.get("links"), dict):
+            x["links"] = {k: v for k, v in x["links"].items() if not bad(v)}
+
+
 def load_labels(folder: Path, allowed: set, what: str) -> dict:
     """Merge label files ({id: [label, ...]}); later files win; unknown labels are dropped with a warning."""
     out: dict = {}
@@ -338,6 +356,8 @@ def main() -> None:
     merge_creators(creators, works, ov.get("merge_creators", {}))
     works = [w for w in works if w.get("id") not in set(ov.get("drop_works", []))]
     add_media(works)
+    strip_blocked(works, ov.get("blocked_domains", []), "work")
+    strip_blocked(list(creators.values()), ov.get("blocked_domains", []), "creator")
     for w in works:
         if (w.get("field"), w.get("sub")) in LEGACY:
             w["field"], w["sub"] = LEGACY[(w["field"], w["sub"])]
@@ -384,6 +404,8 @@ def main() -> None:
     open_leads, checked_leads = classify_leads(leads, creators)
 
     orgs = load_orgs(cache, {c["id"] for c in out_creators})
+    strip_blocked(orgs, ov.get("blocked_domains", []), "org")
+    orgs = [o for o in orgs if o.get("url")]
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
     data = {"generated": date.today().isoformat(), "taxonomy": tax, "creators": out_creators, "works": kept, "orgs": orgs}
     d = ROOT / "data"

@@ -60,7 +60,7 @@ Open this folder in [Claude Code](https://claude.com/claude-code) and run:
 | `data/taxonomy.json` | Fields and sub-categories, organisms, work types, collections |
 | `data/raw/*.json` | Research batches: creators, works, leads |
 | `data/collections/*.json` | Extra members of a collection (lists of work ids) |
-| `data/overrides.json` | Optional manual curation: merge creators, drop or patch works |
+| `data/overrides.json` | Manual curation: merge creators, drop or patch works, `blocked_domains` (hijacked / spam domains stripped from every link and image at build) |
 | `data/entries.json`, `data/entries.js` | Built dataset used by the site |
 | `data/media_cache.json` | Link-check results |
 | `data/dropped.json` | Dead links and DOI/title mismatches found at build |

@@ -6445,8 +6445,6 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - 作品内容: 由借鉴自然蛋白序列的蛋白质制成的纺织纤维，例如一种无需染料就能显色的珊瑚蛋白；纤维由改造过的微生物生产，再纺成纱线。
 - 实现方式: 把挑选出的蛋白序列在微生物中通过发酵表达、纯化，再纺成纤维，颜色和质感来自蛋白本身。
 - 视频: https://www.youtube.com/watch?v=zKigW6hDEcE
-- 图片: https://www.werewool.bio/uploads/22_eeac3db53f.webp
-- 项目主页: https://www.werewool.bio
 
 #### Bio Iridescent Sequin — Elissa Brunato (2019)
 - 类型: 研究原型 · 生物: 植物
@@ -19305,7 +19303,7 @@ https://more-than-human.reality.design · 2026-09-28 · 1291 位创作者 · 202
 - **Vollebak** (1) — 服装公司（Steve 与 Nick Tidball）. Vollebak 是伦敦的服装公司，以实验性服装著称，其中包括一件由植物和藻类制成的 T 恤。 https://www.vollebak.com
 - **Weird Ecologies (RCA team)** (1) — 皇家艺术学院学生团队. Weird Ecologies 是皇家艺术学院团队，设计在污染土地上支持耐毒生物的装置。
 - **Wenjia Sun** (1) — 中正大学设计研究者. 设计研究者，研究思辨设计、法律虚构和非人权利。
-- **Werewool** (1) — 由 Chui-Lian Lee 和 Valentina Gomez 共同创立的生物纤维初创公司. Werewool 从自然界的蛋白质序列（例如珊瑚的荧光蛋白）出发设计纺织纤维，让颜色、弹性或吸湿性直接内置于纤维本身。 https://www.werewool.bio
+- **Werewool** (1) — 由 Chui-Lian Lee 和 Valentina Gomez 共同创立的生物纤维初创公司. Werewool 从自然界的蛋白质序列（例如珊瑚的荧光蛋白）出发设计纺织纤维，让颜色、弹性或吸湿性直接内置于纤维本身。
 - **Werner Aisslinger** (1) — 工业设计师；Studio Aisslinger 创始人. Werner Aisslinger 设计家具、室内以及 Hemp Chair 等实验性材料项目。 https://aisslinger.de/
 - **Wevr** (1) — VR 工作室. 以 VR 系列《theBlu》闻名的洛杉矶公司。
 - **Whale-SETI** (1) — 由 SETI Institute、加州大学戴维斯分校和 Alaska Whale Foundation 组成的研究团队（Brenda McCowan、Laurance Doyle、Fred Sharpe）. Whale-SETI 用信息论研究座头鲸的交流，把它当作识别未知发送者智能信号的测试案例。 https://www.seti.org

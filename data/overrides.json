@@ -436,5 +436,12 @@
     "hni"
    ]
   }
- }
+ },
+ "blocked_domains": [
+  "environmentalhealthclinic.net",
+  "kawsaksacha.org",
+  "lapaillasse.org",
+  "publicdesignworkshop.net",
+  "werewool.bio"
+ ]
 }
