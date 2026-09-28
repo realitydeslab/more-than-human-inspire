@@ -413,3 +413,30 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .org__desc { font-size: 13.5px; margin: 6px 0 4px; }
 .org__works { align-self: flex-start; margin-top: 8px; background: none; border: 1px solid var(--line); border-radius: 99px; padding: 3px 10px; font-size: 11px; color: var(--accent-text); }
 .org__works:hover { border-color: var(--accent); }
+
+/* ---------- performance (phones) ---------- */
+.lazy-sentinel { grid-column: 1 / -1; height: 1px; }
+tr.lazy-sentinel td { padding: 0; border: 0; }
+.strip__more { flex: 0 0 auto; align-self: center; background: none; border: 1px solid var(--line); border-radius: 99px; padding: 8px 14px; font-size: 12px; color: var(--accent-text); }
+.strip__more:hover { border-color: var(--accent); }
+/* skip layout and paint for off-screen sections */
+.scat, .creator, .org, .fieldcard, .module { content-visibility: auto; contain-intrinsic-size: auto 640px; }
+.org { contain-intrinsic-size: auto 360px; }
+@media (max-width: 900px), (hover: none) {
+  /* a translucent blurred sticky bar repaints on every scroll frame */
+  .filters { backdrop-filter: none; -webkit-backdrop-filter: none; background: var(--bg); }
+  .player::backdrop { backdrop-filter: none; background: color-mix(in srgb, var(--bg) 94%, transparent); }
+  /* no image filters or hover zooms on touch screens */
+  .card__media img, .card__media video, .kc__shot img, .org__media img { filter: none; transition: none; }
+  .card:hover .card__media img, .fieldcard__media:hover img { transform: none; }
+  .br { display: none; }
+  .title, .lede, .stats { animation: none; }
+}
+/* no sideways page scroll on phones: the tab bar scrolls inside itself, the headline wraps */
+.tabs { max-width: 100vw; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.tabs::-webkit-scrollbar { display: none; }
+@media (max-width: 700px) { .title { white-space: normal; font-size: clamp(40px, 13vw, 72px); } .title em { display: inline; } }
+/* the headline must never be wider than the window (iOS Safari would scroll sideways) */
+.title { font-size: clamp(28px, 7.6vw, 140px); max-width: 100%; }
+html, body { overflow-x: clip; }
+@media (max-width: 700px) { .title { white-space: normal; font-size: clamp(40px, 12.5vw, 72px); } }

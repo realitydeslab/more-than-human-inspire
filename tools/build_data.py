@@ -318,6 +318,36 @@ def strip_blocked(items: list, blocked: list, what: str) -> None:
             x["links"] = {k: v for k, v in x["links"].items() if not bad(v)}
 
 
+CORE_WORK = ("id", "title", "year", "field", "sub", "also", "kind", "organisms", "approaches", "disciplines", "collections",
+             "creator_ids", "idea_en", "idea_zh", "keywords")
+
+
+def write_split(data: dict, d: Path) -> None:
+    """entries.js = what cards, filters and search need (loaded first); details.json = everything else (fetched after
+    first paint). entries.json keeps the full record for AI assistants and raw use."""
+    stamp = str(int(time.time()))
+    works, details_w = [], {}
+    for w in data["works"]:
+        core = {k: w[k] for k in CORE_WORK if w.get(k)}
+        v = w.get("video") or {}
+        if v:
+            core["video"] = {k: v[k] for k in ("platform", "id", "url", "thumbnail", "embeddable") if k in v}
+        if w.get("images"):
+            core["images"] = w["images"][:1]
+        p = w.get("paper") or {}
+        if p:
+            core["paper"] = {k: p[k] for k in ("url", "venue") if p.get(k)}
+        works.append(core)
+        details_w[w["id"]] = {k: w[k] for k in ("description", "description_zh", "method", "method_zh", "images", "paper",
+                                                "source_url", "code_url") if w.get(k)}
+    creators = [{k: c[k] for k in ("id", "name", "kind", "disciplines", "work_count") if c.get(k)} for c in data["creators"]]
+    core = {"generated": data["generated"], "taxonomy": data["taxonomy"], "works": works, "creators": creators,
+            "orgs": [], "details": f"data/details.json?v={stamp}"}
+    details = {"works": details_w, "creators": {c["id"]: c for c in data["creators"]}, "orgs": data.get("orgs", [])}
+    (d / "entries.js").write_text("window.MTH = " + json.dumps(core, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    (d / "details.json").write_text(json.dumps(details, ensure_ascii=False, separators=(",", ":")))
+
+
 def load_labels(folder: Path, allowed: set, what: str) -> dict:
     """Merge label files ({id: [label, ...]}); later files win; unknown labels are dropped with a warning."""
     out: dict = {}
@@ -415,7 +445,7 @@ def main() -> None:
     if removed:
         logger.warning("works REMOVED since the last build (%d): %s", len(removed), removed[:20])
     (d / "entries.json").write_text(json.dumps(data, indent=1, ensure_ascii=False))
-    (d / "entries.js").write_text("window.MTH = " + json.dumps(data, ensure_ascii=False) + ";\n")
+    write_split(data, d)
     (d / "leads.json").write_text(json.dumps(open_leads, indent=1, ensure_ascii=False))
     (d / "leads_checked.json").write_text(json.dumps(checked_leads, indent=1, ensure_ascii=False))
     (d / "dropped.json").write_text(json.dumps({"works": dropped, "media": problems,

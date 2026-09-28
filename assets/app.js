@@ -11,7 +11,7 @@
   const APPS = TAX.approaches || [];
   const DISCS = TAX.disciplines || [];
   const ERAS = [["1999", 0, 1999, "≤1999"], ["2000", 2000, 2009, "2000–09"], ["2010", 2010, 2014, "2010–14"], ["2015", 2015, 2019, "2015–19"], ["2020", 2020, 2030, "2020–26"]];
-  const ORGS = DATA.orgs || [];
+  let ORGS = DATA.orgs || [];
   const OTYPES = TAX.org_types || [];
   const OTHEMES = TAX.org_themes || [];
   const VIEWS = ["atlas", ...FIELDS.map((f) => f.id), "collections", "orgs", "works", "papers", "creators", "starred"];
@@ -20,6 +20,8 @@
   const creatorsById = Object.fromEntries(DATA.creators.map((c) => [c.id, c]));
   const worksById = Object.fromEntries(DATA.works.map((w) => [w.id, w]));
   const fieldById = Object.fromEntries(FIELDS.map((f) => [f.id, f]));
+  const worksByCreator = {};
+  DATA.works.forEach((w) => w.creator_ids.forEach((c) => (worksByCreator[c] = worksByCreator[c] || []).push(w)));
   const $ = (s, el = document) => el.querySelector(s);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 
@@ -87,9 +89,11 @@
   const creatorNames = (w) => w.creator_ids.map((id) => creatorsById[id]?.name || id);
   const inField = (w, f) => w.field === f || (w.also || []).includes(f);
   function haystack(w) {
-    return [w.title, w.description, w.description_zh, w.idea_en, w.idea_zh, w.method, w.method_zh, w.paper?.venue, ...(w.keywords || []),
-      ...(w.organisms || []).map((o) => pair(TAX.organisms, o)), ...creatorNames(w), w.year].join(" ").toLowerCase();
+    if (w._h) return w._h;
+    return (w._h = [w.title, w.description, w.description_zh, w.idea_en, w.idea_zh, w.method, w.method_zh, w.paper?.venue, ...(w.keywords || []),
+      ...(w.organisms || []).map((o) => pair(TAX.organisms, o)), ...creatorNames(w), w.year].join(" ").toLowerCase());
   }
+  let qLower = "";
   function matches(w, skip = "") {
     if (state.creator && !w.creator_ids.includes(state.creator)) return false;
     if (state.video && !w.video?.url) return false;
@@ -104,7 +108,7 @@
       const e = ERAS.find((x) => x[0] === state.era);
       if (!w.year || w.year < e[1] || w.year > e[2]) return false;
     }
-    if (state.q && !haystack(w).includes(state.q.toLowerCase())) return false;
+    if (state.q && !haystack(w).includes(qLower)) return false;
     return true;
   }
   function sorted(list) {
@@ -117,10 +121,25 @@
 
   /* ---------- cards ---------- */
   const poster = (w) => w.video?.thumbnail || (w.images || [])[0] || "";
+  /* Card-sized variants of hotlinked images (much lighter on phones); the original is the fallback. */
+  function small(u) {
+    if (!u) return u;
+    if (u.includes("i.ytimg.com/vi/")) return u.replace(/\/(maxresdefault|hqdefault|sddefault)\.jpg/, "/mqdefault.jpg");
+    if (u.includes("i.vimeocdn.com/")) return u.replace(/-d_\d+(x\d+)?/, "-d_640").replace(/([?&]mw=)\d+/, "$1640");
+    if (u.includes("images.squarespace-cdn.com/") && !/[?&]format=/.test(u)) return u + (u.includes("?") ? "&" : "?") + "format=750w";
+    if (u.includes("upload.wikimedia.org/wikipedia/commons/thumb/")) return u.replace(/\/\d+px-([^/]+)$/, "/640px-$1");
+    if (/upload\.wikimedia\.org\/wikipedia\/commons\/[0-9a-f]\/[0-9a-f]{2}\/[^/]+\.(jpe?g|png)$/i.test(u)) {
+      const m = u.match(/commons\/([0-9a-f])\/([0-9a-f]{2})\/([^/]+)$/);
+      return `https://upload.wikimedia.org/wikipedia/commons/thumb/${m[1]}/${m[2]}/${m[3]}/640px-${m[3]}`;
+    }
+    if (u.includes("covers.openlibrary.org/")) return u.replace(/-L\.jpg/, "-M.jpg");
+    return u;
+  }
+  const imgTag = (u, fallbackHtml) => { const s2 = small(u); return `<img loading="lazy" decoding="async" referrerpolicy="no-referrer" src="${esc(s2)}"${s2 !== u ? ` data-o="${esc(u)}"` : ""} alt="" onerror="if(this.dataset.o&&this.src!==this.dataset.o){this.src=this.dataset.o}else{this.outerHTML=this.dataset.ph||''}" data-ph="${esc(fallbackHtml)}">`; };
   const paperPh = (w) => `<div class="ph ph--paper"><span class="ph__venue mono">${esc(w.paper?.venue || S().paper_card)}</span><span class="ph__title">${esc(w.title)}</span></div>`;
   function thumb(w) {
     const p = poster(w);
-    if (p) return `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(p)}" alt="" onerror="this.outerHTML=this.dataset.ph" data-ph="${esc(paperPh(w))}">`;
+    if (p) return imgTag(p, paperPh(w));
     if (w.video?.platform === "mp4") return `<video muted playsinline preload="none" data-src="${esc(w.video.url)}#t=0.8"></video>`;
     return paperPh(w);
   }
@@ -144,6 +163,43 @@
       </button>${starBtn(w.id)}
     </div>`;
   }
+
+  /* ---------- progressive rendering: render the first items, append more as the end scrolls into view ---------- */
+  const lazyLists = new Map();
+  let lazySeq = 0;
+  const lazyIO = "IntersectionObserver" in window ? new IntersectionObserver((entries) => entries.forEach((e) => { if (e.isIntersecting) more(e.target); }), { rootMargin: "1200px 0px" }) : null;
+  function fill(el, list, fn, first = 24, step = 36) {
+    if (!el) return;
+    if (!lazyIO || list.length <= first) { el.innerHTML = list.map(fn).join(""); return; }
+    const id = String(++lazySeq);
+    el.innerHTML = list.slice(0, first).map(fn).join("");
+    lazyLists.set(id, { list, fn, i: first, step });
+    const sentinel = document.createElement(el.tagName === "TBODY" ? "tr" : "div");
+    sentinel.className = "lazy-sentinel";
+    sentinel.dataset.lazy = id;
+    if (el.tagName === "TBODY") sentinel.innerHTML = "<td colspan='9'></td>";
+    el.append(sentinel);
+    lazyIO.observe(sentinel);
+  }
+  function more(sentinel) {
+    const job = lazyLists.get(sentinel.dataset.lazy);
+    if (!job) { lazyIO.unobserve(sentinel); sentinel.remove(); return; }
+    const next = job.list.slice(job.i, job.i + job.step);
+    job.i += next.length;
+    sentinel.insertAdjacentHTML("beforebegin", next.map(job.fn).join(""));
+    if (job.i >= job.list.length) { lazyIO.unobserve(sentinel); sentinel.remove(); lazyLists.delete(sentinel.dataset.lazy); }
+    lazyVideos();
+    // the observer only fires on changes; if the end is still near after this batch, keep going
+    requestAnimationFrame(() => { if (sentinel.isConnected && near(sentinel)) more(sentinel); });
+  }
+  const near = (el) => el.getBoundingClientRect().top < innerHeight + 1200;
+  let scrollTick = false;
+  addEventListener("scroll", () => {  // backup for browsers/tabs where observer callbacks are throttled
+    if (scrollTick) return;
+    scrollTick = true;
+    requestAnimationFrame(() => { scrollTick = false; document.querySelectorAll(".lazy-sentinel").forEach((el) => { if (near(el)) more(el); }); });
+  }, { passive: true });
+  function resetLazy() { if (lazyIO) lazyIO.disconnect(); lazyLists.clear(); }
 
   /* ---------- static text, tabs, chips ---------- */
   function applyStatic() {
@@ -199,6 +255,7 @@
   const pairName = (list, k) => { const r = list.find((x) => x[0] === k); return r ? (zh() ? r[2] : r[1]) : k; };
   function renderOrgs() {
     currentList = [];
+    if (!detailsReady) { $("#orgHead").innerHTML = `<p class="count mono">${esc(S().loading)}</p>`; $("#orgList").innerHTML = ""; return 1; }
     const q = state.oq.toLowerCase();
     const hit = (o, skip) => (skip === "t" || !state.otype || o.type === state.otype) && (skip === "h" || !state.otheme || (o.themes || []).includes(state.otheme)) &&
       (!q || [o.name, o.description, o.description_zh, o.based, ...(o.people || [])].join(" ").toLowerCase().includes(q));
@@ -211,18 +268,20 @@
       <div class="facets"><div class="chiprow"><span class="chiprow__label mono">${esc(S().f_org_type)}</span><div class="chips">${chips(OTYPES, state.otype, "otype", "t", (o, k) => o.type === k)}</div></div>
       <div class="chiprow"><span class="chiprow__label mono">${esc(S().f_org_theme)}</span><div class="chips">${chips(OTHEMES, state.otheme, "otheme", "h", (o, k) => (o.themes || []).includes(k))}</div></div></div>`;
     const card = (o) => {
-      const nWorks = o.creator_id ? DATA.works.filter((w) => w.creator_ids.includes(o.creator_id)).length : 0;
+      const nWorks = o.creator_id ? (worksByCreator[o.creator_id] || []).length : 0;
       const meta = [pairName(OTYPES, o.type), zh() ? o.based_zh || o.based : o.based, o.founded].filter(Boolean).join(" · ");
       return `<article class="org">
-        <a class="org__media" href="${esc(o.url)}" target="_blank" rel="noopener">${o.image ? `<img loading="lazy" referrerpolicy="no-referrer" src="${esc(o.image)}" alt="" onerror="this.remove()">` : ""}<span class="org__mono">${esc((o.name || "?").replace(/^(the|center|centre)\s+/i, "").slice(0, 1))}</span></a>
+        <a class="org__media" href="${esc(o.url)}" target="_blank" rel="noopener">${o.image ? imgTag(o.image, "") : ""}<span class="org__mono">${esc((o.name || "?").replace(/^(the|center|centre)\s+/i, "").slice(0, 1))}</span></a>
         <div class="org__body"><h3 class="org__name"><a href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.name)} ↗</a></h3>
           <div class="org__meta mono">${esc(meta)}</div>
           <p class="org__desc">${esc(zh() ? o.description_zh : o.description)}</p>
           <div class="tags">${(o.themes || []).map((k) => `<button class="tag tag--col" data-otheme="${esc(k)}">${esc(pairName(OTHEMES, k))}</button>`).join("")}</div>
           ${nWorks ? `<button class="org__works mono" data-creator="${esc(o.creator_id)}">${esc(S().org_works(nWorks))}</button>` : ""}</div></article>`;
     };
-    $("#orgList").innerHTML = OTYPES.map(([k]) => { const g = shown.filter((o) => o.type === k); return g.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(pairName(OTYPES, k))}</h3><span class="scat__n mono">${g.length}</span></div>
-      <p class="scat__desc">${esc((OTYPES.find((x) => x[0] === k) || [])[3] || "")}</p><div class="orgs">${g.map(card).join("")}</div></section>` : ""; }).join("");
+    const groups = OTYPES.map(([k]) => [k, shown.filter((o) => o.type === k)]).filter(([, g]) => g.length);
+    $("#orgList").innerHTML = groups.map(([k, g]) => `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(pairName(OTYPES, k))}</h3><span class="scat__n mono">${g.length}</span></div>
+      <p class="scat__desc">${esc((OTYPES.find((x) => x[0] === k) || [])[3] || "")}</p><div class="orgs" data-og="${esc(k)}"></div></section>`).join("");
+    groups.forEach(([k, g]) => fill($(`.orgs[data-og="${k}"]`), g, card, 9, 24));
     const inp = $("#oq");
     inp.addEventListener("input", (e) => { clearTimeout(renderOrgs.t); renderOrgs.t = setTimeout(() => { state.oq = e.target.value.trim(); render(); const i = $("#oq"); i.focus(); i.setSelectionRange(i.value.length, i.value.length); }, 200); });
     return ORGS.length;
@@ -262,36 +321,40 @@
         <p class="starred__lede">${esc(zh() ? f.desc_zh : f.desc_en)}</p><p class="count mono">${esc(S().field_count(primary.length, also.length))}</p></div>
       <div class="chips scat-chips">${chip("", S().all_cats, primary.length + also.length)}${cats.map((c) => { const n = listOf(c.id).length; return n ? chip(c.id, nm(c), n) : ""; }).join("")}</div>`;
     const section = (c) => { const ws = listOf(c.id); return ws.length ? `<section class="scat"><div class="scat__head"><h3 class="scat__title">${esc(nm(c))}</h3><span class="scat__n mono">${ws.length}</span></div>
-        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid">${ws.map(card).join("")}</div></section>` : ""; };
+        <p class="scat__desc">${esc(zh() ? c.desc_zh : c.desc_en)}</p><div class="grid" data-sub-grid="${esc(c.id)}"></div></section>` : ""; };
     const shown = state.sub ? cats.filter((c) => c.id === state.sub) : cats;
     $("#fieldGrid").innerHTML = shown.map(section).join("");
+    shown.forEach((c) => fill($(`[data-sub-grid="${c.id}"]`), listOf(c.id), card, state.sub ? 24 : 8, 24));
     currentList = shown.flatMap((c) => listOf(c.id));
     return currentList.length;
   }
   function renderWorks() {
     currentList = sorted(DATA.works.filter((w) => matches(w)));
-    $("#grid").innerHTML = currentList.map(card).join("");
+    fill($("#grid"), currentList, card, 24, 36);
     $("#worksCount").textContent = S().n_works(currentList.length);
     return currentList.length;
   }
   function renderPapers() {
     currentList = sorted(DATA.works.filter((w) => w.paper?.url && matches(w)));
     $("#papersHead").innerHTML = `<p class="count mono">${esc(S().papers_n(currentList.length))} · ${esc(S().papers_lede)}</p>`;
-    $("#paperTable").innerHTML = currentList.length ? `<table class="papers"><thead><tr><th>${esc(S().col_year)}</th><th>${esc(S().col_title)}</th><th>${esc(S().col_venue)}</th><th>${esc(S().col_field)}</th></tr></thead><tbody>${currentList.map((w) => `
+    $("#paperTable").innerHTML = currentList.length ? `<table class="papers"><thead><tr><th>${esc(S().col_year)}</th><th>${esc(S().col_title)}</th><th>${esc(S().col_venue)}</th><th>${esc(S().col_field)}</th></tr></thead><tbody id="paperRows"></tbody></table>` : "";
+    const row = (w) => `
       <tr><td class="mono">${w.year || ""}</td>
         <td><button class="papers__title" data-open="${esc(w.id)}">${esc(w.title)}</button><div class="papers__who">${esc(creatorNames(w).join(", "))}</div></td>
         <td class="papers__venue"><a href="${esc(w.paper.url)}" target="_blank" rel="noopener">${esc(w.paper.venue || (w.paper.doi ? "DOI" : "Link"))} ↗</a></td>
-        <td><span class="tag">${esc(nm(fieldById[w.field] || {}))}</span>${subOf(w) ? ` <span class="tag">${esc(nm(subOf(w)))}</span>` : ""}</td></tr>`).join("")}</tbody></table>` : "";
+        <td><span class="tag">${esc(nm(fieldById[w.field] || {}))}</span>${subOf(w) ? ` <span class="tag">${esc(nm(subOf(w)))}</span>` : ""}</td></tr>`;
+    fill($("#paperRows"), currentList, row, 60, 80);
     return currentList.length;
   }
   function renderCreators() {
+    if (!detailsReady) { $("#creatorList").innerHTML = `<p class="count mono">${esc(S().loading)}</p>`; return 1; }
     const q = state.q.toLowerCase();
     const rows = DATA.creators
-      .map((c) => ({ c, works: sorted(DATA.works.filter((w) => w.creator_ids.includes(c.id) && matches(w))) }))
+      .map((c) => ({ c, works: sorted((worksByCreator[c.id] || []).filter((w) => matches(w))) }))
       .filter(({ c, works }) => works.length || (q && [c.name, c.bio, c.bio_zh, c.role].join(" ").toLowerCase().includes(q)))
       .sort((a, b) => b.works.length - a.works.length || a.c.name.localeCompare(b.c.name));
     currentList = rows.flatMap((r) => r.works);
-    $("#creatorList").innerHTML = rows.map(({ c, works }) => {
+    const article = ({ c, works }) => {
       const t = TX.creator(c, lang);
       const links = Object.entries(c.links || {}).filter(([, u]) => u).map(([k, u]) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(k)} ↗</a>`).join("");
       const conn = (c.connected_to || []).filter((id) => creatorsById[id]).map((id) => `<button data-creator="${esc(id)}">${esc(creatorsById[id].name)}</button>`).join("");
@@ -303,8 +366,9 @@
           ${t.why ? `<p class="creator__why">${esc(t.why)}</p>` : ""}
           <div class="links">${links}</div>
           ${conn ? `<div class="web">${esc(S().connected)} ${conn}</div>` : ""}
-        </div><div class="strip">${works.map(card).join("")}</div></article>`;
-    }).join("");
+        </div><div class="strip">${works.slice(0, 12).map(card).join("")}${works.length > 12 ? `<button class="strip__more mono" data-creator="${esc(c.id)}">${esc(S().all_n(works.length))}</button>` : ""}</div></article>`;
+    };
+    fill($("#creatorList"), rows, article, 12, 12);
     return rows.length;
   }
   function renderStarred() {
@@ -318,11 +382,13 @@
           <button class="btn mono" data-export="list">${esc(S().export_bib)}</button>
           <button class="btn mono" data-export="copy">${esc(S().copy_md)}</button>
           <button class="btn btn--quiet mono" data-export="clear">${esc(S().clear_stars)}</button></div>` : `<p class="starred__empty">${esc(S().starred_empty)}</p>`}</div>`;
-    $("#starGrid").innerHTML = list.map(card).join("");
+    fill($("#starGrid"), list, card, 24, 36);
     return 1;
   }
 
   function render() {
+    resetLazy();
+    qLower = state.q.toLowerCase();
     document.querySelectorAll(".tab").forEach((t) => t.setAttribute("aria-selected", t.dataset.view === state.view));
     const f = fieldById[state.view];
     const pane = f ? "field" : state.view;
@@ -449,7 +515,8 @@
     toast(S().downloaded(name));
   }
   let clearArmed = false;
-  function doExport(kind) {
+  async function doExport(kind) {
+    await detailsLoaded;
     const list = DATA.works.filter((w) => stars.has(w.id));
     const X = window.MthExport;
     if (kind === "skill") download("SKILL.md", X.skillMd(list, DATA, lang));
@@ -523,6 +590,17 @@
     document.documentElement.dataset.theme = next;
     store.set("mth-theme", next);
   });
+
+  /* ---------- details: descriptions, full media, bios and organizations load after the first screen ---------- */
+  let detailsReady = !DATA.details;
+  const detailsLoaded = !DATA.details ? Promise.resolve() : fetch(DATA.details).then((r) => r.json()).then((d) => {
+    DATA.works.forEach((w) => { const x = d.works[w.id]; if (x) Object.assign(w, x); w._h = null; });
+    DATA.creators.forEach((c) => { const x = d.creators[c.id]; if (x) Object.assign(c, x); });
+    ORGS = DATA.orgs = d.orgs || [];
+    detailsReady = true;
+    if (["creators", "orgs"].includes(state.view) || state.q) render();
+    if ($("#player").open) { const w = worksById[$("#player").dataset.id]; if (w) { showMedia(w); fillInfo(w); } }
+  }).catch(() => { detailsReady = true; });
 
   /* ---------- init ---------- */
   applyStatic();
