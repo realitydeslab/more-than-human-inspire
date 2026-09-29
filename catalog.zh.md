@@ -13,7 +13,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 
 ## 超越人类的设计
 
-把人从中心移开的设计：与动物、植物、生态系统和物一起设计、为它们设计，以及背后的理论与方法。
+把人从中心移开的设计研究：与其他物种共同设计、照护与留意，以及背后的方法与理论。
 
 ### 多物种设计
 
@@ -59,34 +59,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/60addb5f1bee7beb7dedb36044f600f664400b19/7-Figure1-1.png
 - 项目主页: https://doi.org/10.1145/3773286
 
-#### More than Weeds: Thickening designer-plant relations in the Sonoran Desert — Andrew Whitcomb (2026)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 设计者对一种植物的感受也是设计材料，而且会变化。
-- 作品内容: 设计者回顾项目《Gifts for Tempe》，追踪他们对沙漠“入侵”植物 Stinknet 的感受如何随时间变化。
-- 实现方式: 对索诺兰沙漠田野设计研究进行实践反思。
-- 论文: https://doi.org/10.21606/drs.2026.2623 (DRS 2026)
-
-#### Multispecies convivial learning — Sakura Kotokawa (2026)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 学校教育可以把其他物种当作共同学习者。
-- 作品内容: 在日本一所公立初中开展的五次以艺术为基础的干预（2023–2024），把教室变成学生与其他物种共同学习的“生态对话空间”。
-- 实现方式: 与师生开展参与式行动研究和协同设计，并用反思性主题分析整理结果。
-- 论文: https://doi.org/10.21606/drs.2026.1786 (DRS 2026)
-- 项目主页: https://doi.org/10.21606/drs.2026.1786
-
 #### Multispecies design: Centring the Agency of Non-Human Communities in Participatory Urban Design Processes — Giulia Gualtieri (2026)
 - 类型: 论文 · 生物: 生态系统, 植物, 动物
 - 核心想法: 城市自然应是设计的参与者，而不是为人服务的设施。
 - 作品内容: 一份博士研究概述，探讨多物种设计如何把植物、动物和生态系统作为主动者纳入参与式城市设计，而不是把它们当作绿化配套。
 - 实现方式: 在城市公共空间开展参与式设计研究，以多物种正义为框架。
 - 论文: https://doi.org/10.1145/3789492.3796449 (PDC 2026)
-
-#### Nomadic Moss: Weaving a Humidity-Intimacy Wearable for More-than-Human Care — Peng-Jung Lin (2026)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 人的身体可以成为另一个物种的移动栖息地。
-- 作品内容: Nomadic Moss 是一件编织的腕部可穿戴物，里面生活着泥炭藓；皮肤的湿气和洗手这样的日常时刻都变成了照顾苔藓的方式。
-- 实现方式: 以编织手工制作适合苔藓的织物结构，经过迭代原型、访谈和共创工作坊。
-- 论文: https://doi.org/10.1145/3803784.3816863 (C&C 2026)
 
 #### NomadicPerch: More-Than-Human Co-Design of a Shared Perch — Nanyi Jiang (2026)
 - 类型: 研究原型 · 生物: 动物, 人体
@@ -95,36 +73,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 迭代制作戴在手上的毛毡原型并加装传感器，根据鹦鹉的行为不断调整。
 - 论文: https://doi.org/10.1145/3802974.3808031 (DIS 2026)
 
-#### Plant biographies: Expanding more-than-human modes of relating — Keili Koppel (2026)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 了解一株植物的生命故事，能帮人不再忽视植物。
-- 作品内容: 植物园的访客通过语音导览和可视化了解两株杜鹃花的季节变化史，找到它们，并为每一株写一段简短的传记。
-- 实现方式: 在植物园访客中测试的参与式叙事方法，配合语音导览和季节数据可视化。
-- 论文: https://doi.org/10.21606/drs.2026.2330 (DRS 2026)
-- 项目主页: https://doi.org/10.21606/drs.2026.2330
-
-#### Playing Alongside Mushroom — Linas Kristupas Gabrielaitis (2026)
-- 类型: 论文 · 生物: 真菌
-- 核心想法: 玩耍是按照对方的方式去与一个不可预测的活体伙伴相遇的方式。
-- 作品内容: 一项为期两个月的跨物种民族志：研究者尝试与生长中的真菌一起玩耍，并归纳出六种“游戏潜能”，例如在生长边缘做出游戏动作，并惊讶于真菌如何回应。
-- 实现方式: 与菌丝体进行为期两个月的跨物种民族志，并做主题分析。
-- 论文: https://doi.org/10.1145/3800645.3813057 (DIS 2026)
-- 项目主页: https://doi.org/10.1145/3800645.3813057
-
-#### What Makes Us Most Human Is Also So Animal — Jiabao Li (2026)
-- 类型: 艺术作品 · 生物: 动物, 人体
-- 核心想法: 哺乳让我们最像人，正因为它提醒我们是哺乳动物。
-- 作品内容: 一场盲品表演：观众品尝一排哺乳动物的奶——艺术家自己的、牛、羊、骆驼、牦牛、驴、蝙蝠、郊狼等——并猜出来源。
-- 实现方式: 以盲品形式提供十一种哺乳动物的奶样。
-- 视频: https://www.youtube.com/watch?v=8k3acKrF-o8
-- 项目主页: https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal
-
-#### Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds — Marcus Foth (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 有时设计的任务，是让人去适应动物。
-- 作品内容: 自 2017 年起在澳大利亚 Sleepy Burrows 袋熊保护区开展的长期参与式设计研究，展示了一种“人适应袋熊”的照管式设计。
-- 实现方式: 在野生动物保护区开展的长期参与式设计田野研究。
-- 论文: https://doi.org/10.1145/3796624.3796652 (PDC 2026)
+#### PiscineMobil — Yiran Ma (2026)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让动物来带路，让人成为它的载具。
+- 作品内容: 一个由鱼来引导行动的装置：鱼的游动决定携带它的人往哪里走，暂时颠倒了“谁控制谁”。
+- 实现方式: 一个设计探针，很可能追踪水箱中鱼的运动并转化为给佩戴者的方向提示，并在公共场所中部署。
+- 论文: https://doi.org/10.1145/3802974.3816028 (DIS 2026)
+- 视频: https://www.youtube.com/watch?v=wYR0M1p_Qyw
+- 项目主页: https://doi.org/10.1145/3802974.3816028
 
 #### With Elephants in the Room: More-Than-Human Participatory Design for Human-Elephant Co-existence — Naleefa Nazurdeen (2026)
 - 类型: 论文 · 生物: 动物
@@ -158,37 +114,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://content.gp-award.com/assets/media/award25/0-brio_blogLarge.jpg https://content.gp-award.com/assets/media/award25/1-brio_blogLarge.jpg
 - 项目主页: https://www.gp-award.com/en/projects/brio
 
-#### Compost Kits: Bridging More-than-Human Theory with Design Practice through Vermicomposting — Tiffany Wun, Ron Wakkary (2025)
-- 类型: 研究原型 · 生物: 动物, 细菌与微生物
-- 核心想法: 照料蚯蚓和堆肥，让超越人类的理念在日常设计工作中变得具体。
-- 作品内容: 四位设计师在十六周里一边照料蚯蚓堆肥箱、阅读引导手册，一边反思自己实践中使用的材料。
-- 实现方式: 以蚯蚓堆肥箱加反思手册作为设计探针，通过与设计师共同思辨进行研究。
-- 论文: https://doi.org/10.1145/3757980.3757990 (Academic Mindtrek 2025)
-- 项目主页: https://doi.org/10.1145/3757980.3757990
-
-#### Constituency as a Matter of Practice: Moving a Plant Studio — Oscar Tomico, Doenja Oogjes, Ron Wakkary (2025)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 植物工作室是人与植物的聚合体，它们的实践决定了设计出什么。
-- 作品内容: 作者分析了把一个拥有 250 多株植物的工作室从一座城市搬到另一座城市的过程，借此观察人、植物和设备如何组成一个设计“构成体”。
-- 实现方式: 用“设计事件”作为分析词汇，追踪搬迁过程中的实践与时间性。
-- 论文: https://doi.org/10.1145/3706598.3713916 (CHI 2025)
-- 项目主页: https://doi.org/10.1145/3706598.3713916
-
-#### Critter Connect, wearable design for place-based & multisensory species encounters — Mathilde Gouin (2025)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 不必看见，也能感受到身边的其他物种。
-- 作品内容: Critter Connect 是一件可穿戴设备，当穿戴者靠近生物多样性丰富地点的三个物种时，它会根据地理位置给出触觉和声音提示，让看不见的存在变得可感。
-- 实现方式: 由地理位置触发的触觉与声音反馈，以多物种伦理和思辨方法设计，并在现场试点。
-- 论文: https://doi.org/10.1145/3715336.3735426 (DIS 2025)
-- 项目主页: https://doi.org/10.1145/3715336.3735426
-
-#### Domestic Cultures of Plant Care: A Moss Terrarium Probe — Nirit Binyamini Ben-Meir (2025)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 为家庭共享的照护文化而设计，而不是只针对个人行为改变。
-- 作品内容: 研究者把带传感器的苔藓生态瓶放进 11 个家庭作为活体探针，发现了由赠礼、知识传递和共同照料塑造的五种家庭植物照护文化。
-- 实现方式: 带传感器的活体“物民族志”探针，加半结构化访谈。
-- 论文: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
-
 #### Negotiating Boundaries (Seacrete) — Lotte Wigman (2025)
 - 类型: 研究原型 · 生物: 动物, 生态系统
 - 核心想法: 设计一种风化过程本身就是送给其他物种礼物的材料。
@@ -196,14 +121,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 把贝壳骨料与黏合剂浇铸成带纹理的海岸构件，侵蚀后变成栖息地。
 - 图片: https://content.gp-award.com/assets/media/award25/0-negotiating-boundaries_blogLarge.jpg https://content.gp-award.com/assets/media/award25/2-negotiating-boundaries_blogLarge.jpg
 - 项目主页: https://www.gp-award.com/en/projects/negotiating-boundaries
-
-#### Ornithon — Studio Ossidiana (2025)
-- 类型: 艺术作品 · 生物: 动物, 植物
-- 核心想法: 为今天的城市复活一种古老的类型：作为共享花园的鸟舍。
-- 作品内容: 里斯本贝伦文化中心的鸟舍花园装置，灵感来自罗马作家瓦罗的鸟舍，设有供鸟和人使用的座位、水和植物。
-- 实现方式: 由栖木、水池和植物组成的建造景观，参照瓦罗的《论农业》。
-- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/b0ac47db-d7dc-4d1b-a71a-b7b7a188c8ef/Studio+Ossidiana_Mac_Riccardo+De+Vecchi+photographer-1.jpg
-- 项目主页: https://www.studio-ossidiana.com/ornithon-/-centro-cultural-de-belm
 
 #### Pollino — Kitti Butter (2025)
 - 类型: 研究原型 · 生物: 昆虫
@@ -222,22 +139,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.jamesdysonaward.org/Document/7e97ea0b-b6cc-4acc-8db2-685c61de74df/img005.jpg https://www.jamesdysonaward.org/Document/c3e251be-bb54-4a70-807e-de01a2403103/img002.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2025/project/reef-of-hope-ar-for-oyster-reef-restoration/
 
-#### Tangible theory as tool for attuning to non-human voices in domestic gardens — Mette Gislev Kjærsgaard, Tau Ulv Lenskjold (2025)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 把理论变成人们能在自家花园里使用的实物工具。
-- 作品内容: 作者访谈了六个欧洲国家的花园主人，把“斑块人类世”框架转化为一个实体原型工具，帮助人们感知花园里的非人类行动者。
-- 实现方式: 访谈结合原型，把关于非人类能动性的人类学理论转化为花园设计提示。
-- 论文: https://doi.org/10.21606/nordes.2025.14 (Nordes 2025)
-- 项目主页: https://doi.org/10.21606/nordes.2025.14
-
-#### The Transspecies Palace — Andrés Jaque (2025)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 把建筑做成做修复工作的微生物的宫殿。
-- 作品内容: 第 24 届米兰三年展上的装置，为一个密集的微生物群落（蓝细菌、固氮菌等）提供生存条件，这些微生物能代谢毒素，帮助修复受损环境。
-- 实现方式: 厚软木外壳（先在 Reggio School 立面上测试）保留矿物、糖分和水分，供需氧与厌氧微生物生存。
-- 图片: https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-01.jpg https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-02.jpg
-- 项目主页: https://offpolinn.com/work/the-transspecies-palace/
-
 #### The Transspecies Rosette — Andrés Jaque (2025)
 - 类型: 研究原型 · 生物: 植物, 真菌, 细菌与微生物
 - 核心想法: 立面可以成为其他物种的宿主，而不是把它们挡在外面的屏障。
@@ -245,6 +146,23 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 用天然树脂黏合的软木颗粒模压成玫瑰花形的板材，其孔隙让微生物、真菌和植物得以定殖，与 VIPEQ 合作开发。
 - 图片: https://designmuseum.org/image/a074dfd2-ff00-4bff-aaa2-aa0e6600eadc?width=1200
 - 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### BIOPOD — RISD Terra Carta teams (2024)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 找回被城市护岸抹去的湿地边缘。
+- 作品内容: 人体尺度的漂浮生态模块，种植湿地植被来净化城市水体，在城市滨水区恢复边缘湿地，并让公众参与公民科学监测。
+- 实现方式: 漂浮种植模块承载盐沼植物，其根系过滤水体并庇护生物。
+- 视频: https://www.youtube.com/watch?v=vt8I7JjWa0Y
+- 图片: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png
+- 项目主页: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+
+#### Creating with More-than-Humans — Jiabao Li (2024)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 与其他物种共同创作，会改变我们对能动性、智能和创造力的理解。
+- 作品内容: 一篇论文，回顾艺术家与老鼠、蝙蝠、鱿鱼和大象共同创作的经验，讨论与非人类生命一起、为它们创作的伦理和方法。
+- 实现方式: 基于一系列装置、XR 与表演作品的反思性实践论文。
+- 论文: https://doi.org/10.1145/3686169.3686191 (Halfway to the Future 2024)
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg
 
 #### Crikorama — Kyran Knauf (2024)
 - 类型: 产品与平台 · 生物: 昆虫
@@ -255,14 +173,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.jamesdysonaward.org/Document/72c652d2-a2d0-4fbb-94c8-bb5186ee2a2a/wearelive.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2024/project/crikorama/
 
-#### Crip Reflections on Designing with Plants: Intersecting Disability Theory, Chronic Illness, and More-than-Human Design — Sylvia Janicki (2024)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 故障与维护揭示了植物、技术和病中的身体如何彼此依赖。
-- 作品内容: 一篇自我民族志，讲述设计、展出和维护一件植物互动生物艺术装置的经历，重点是其中的故障：需要照料的植物、出错的生物数据，以及设计者患慢性病的身体。
-- 实现方式: 借助“残障（crip）理论”拆解该装置的三次展出，围绕维护、生物数据和对控制的抵抗展开。
-- 论文: https://doi.org/10.1145/3643834.3661509 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png
-- 项目主页: https://doi.org/10.1145/3643834.3661509
+#### Designing Temporal Ecologies: Reframing Multispecies Temporalities Through Design — Larissa Pschetz (2024)
+- 类型: 论文 · 生物: 植物, 动物, 生态系统
+- 核心想法: 生物多样性丧失也是时间错配的问题；设计可以把时间重新对齐。
+- 作品内容: 论文以一场跨学科工作坊产生的设计案例为素材，说明设计如何重新连接人与其他物种的时间尺度，减少导致生物多样性丧失的时间错配。
+- 实现方式: 把时间设计框架应用于关于物候、季节和多物种节律的工作坊成果。
+- 论文: https://doi.org/10.21606/drs.2024.1068 (DRS 2024)
 
 #### Designing from the plants' perspective — Francesco Vergani (2024)
 - 类型: 论文 · 生物: 植物, 生态系统
@@ -272,55 +188,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.21606/drs.2024.1052 (DRS 2024)
 - 项目主页: https://doi.org/10.21606/drs.2024.1052
 
-#### Designing harvesting tools for olive trees — Berre Su Yanlıç, Aykut Coşkun (2024)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 追问：一件采收工具，树需要它是什么样子？
-- 作品内容: 一个案例研究：设计者在设计橄榄采收工具的同时尝试采取橄榄树的视角，并反思“接触区”等方法在实践中如何发挥作用。
-- 实现方式: 记录并反思运用超越人类方法（接触区、植物视角练习）的设计过程。
-- 论文: https://doi.org/10.1080/14606925.2024.2397207 (The Design Journal 2024)
-- 图片: https://figures.semanticscholar.org/a38bc502059ee49374643eabb328eab6689a6a59/5-Figure1-1.png
-- 项目主页: https://doi.org/10.1080/14606925.2024.2397207
-
-#### Designing with more-than-human temporalities (festival stage) — Riel Bessai (2024)
-- 类型: 研究原型 · 生物: 昆虫, 生态系统
-- 核心想法: “留意”与“照护”能把其他物种的时间尺度带进设计过程。
-- 作品内容: 在法国设计并搭建一座音乐节舞台，借此说明设计师如何顺应昆虫与当地生态系统的节律，而不是只盯着固定的项目时间表。
-- 实现方式: 对舞台从构思到建造的过程做反思性案例研究，并从“留意”和“照护”两种实践来分析。
-- 论文: https://doi.org/10.21606/drs.2024.438 (DRS 2024)
-- 项目主页: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/99
-
 #### Directions for Degradation: Multispecies Entanglements with 3D Printed Biomaterials — Fiona Bell (2024)
 - 类型: 论文 · 生物: 昆虫, 真菌, 植物
 - 核心想法: 把“吃掉”你作品的生物当作共同设计者。
 - 作品内容: 作者从实验室里植物、昆虫和真菌降解 3D 打印生物材料样品的三次遭遇出发，推想由其他物种随时间改造的物件。
 - 实现方式: 把实验室中意外发生的降解现象转化为多物种共同制造的近未来场景。
 - 论文: https://doi.org/10.1145/3686169.3686181 (Halfway to the Future 2024)
-
-#### Ecotonal Beings — Emilia Tapprest, Samar Khan (2024)
-- 类型: 思辨设计 · 生物: 动物, 生态系统
-- 核心想法: 技术可以帮助我们尝试理解其他物种，即使我们会失败。
-- 作品内容: 一部影片，讲述四个近未来人物借助智能界面去与其他物种协调：用水下无人机追踪鳗鱼的女孩、一位驯鹰人、解读海蝴蝶的海洋生物学家，以及听命于奶牛的男人。2024 年 BAD Award 获奖作品。
-- 实现方式: 思辨影片，参考了与 Meertens 研究所合作的生物声学 AI 与万物有灵实践研究。
-- 视频: https://vimeo.com/1039601786
-- 图片: https://www.badaward.nl/imager/assets/site/8202/Ecotonal-Beings-Still-Video-Wouter-7_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8199/Ecotonal-Beings-Still-Video-Wouter-3_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/emilia-tapprest-samar-khan
-
-#### Encountering Human-Plant Relations: a Discussion of How Interaction Design Can encourage Human Sensibility to More-than-human Plants — Lone Koefoed Hansen (2024)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 交互设计可以培养人对植物的敏感，而不只是监测植物。
-- 作品内容: 把两件植物与电子结合的设计实验交给人们使用，观察交互设计能否让人更留意植物。
-- 实现方式: 部署植物电子原型，通过访谈、日记和观察进行研究。
-- 论文: https://doi.org/10.1145/3643834.3661586 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/5-Figure2-1.png https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/4-Figure1-1.png
-- 项目主页: https://doi.org/10.1145/3643834.3661586
-
-#### Giving Voice to Nature: Participatory Design with Non-Human Stakeholders for Sustainable Development — Chidi Usanga (2024)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 让自然发声既是政治问题，也是设计问题。
-- 作品内容: 一场工作坊，探讨参与式设计如何与动物、植物、微生物及其生态系统共同设计，服务可持续发展。
-- 实现方式: 通过工作坊收集超越人类参与的方法、案例和故事。
-- 论文: https://doi.org/10.1145/3661455.3669896 (PDC 2024)
-- 项目主页: https://doi.org/10.1145/3661455.3669896
 
 #### Habitat (bird façade, insect façade) — Johanna Seelemann (2024)
 - 类型: 研究原型 · 生物: 动物, 昆虫
@@ -329,13 +202,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 用稻壳和回收玻璃粉制成的地聚合物 3D 打印成带截面的板材；孔的大小和深度依目标鸟类和昆虫的需要而定，截面同时提供隔热。
 - 视频: https://www.youtube.com/watch?v=b4XNXcHoVuU
 - 项目主页: https://johannaseelemann.com/
-
-#### Microbial Revolt — Yuning Chen, Larissa Pschetz (2024)
-- 类型: 论文 · 生物: 细菌与微生物
-- 核心想法: 从微生物的角度重新想象实验器材，看清实验室是为谁的照护而建。
-- 作品内容: 一种挑衅性的工作坊方法：设计师和生物学家各选一种微生物，想象它在野外和实验室里的生活，再重新设计实验室工具，把它在实验中的“不参与”考虑进去。
-- 实现方式: 与设计师和生物研究者开展工作坊，并做后续访谈，讨论设计实践如何适应实验室规范。
-- 论文: https://doi.org/10.1145/3613904.3641981 (CHI 2024)
 
 #### Multispecies Building Envelopes: Adopting Plant Habitat Suitability Modelling for Ecological Design Decision-Making — Surayyn UthayaSelvan (2024)
 - 类型: 论文 · 生物: 植物, 动物, 生态系统
@@ -363,22 +229,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1687765065690-X0CUVWM58GEBDJ1VN8EU/DSCF8782.00_01_27_12.Still002.jpg https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/d9cc6b40-9458-4679-96ec-7567bc5b69f6/DSCF8782.00_00_39_12.Still001.jpg
 - 项目主页: https://yutaikeya.com/projects/negotiating-with-the-garden
 
-#### Permeance. A demodern artistic process for more-than-human collaborative practices in Participatory Design — Steffie de Gaetano (2024)
-- 类型: 论文 · 生物: 生态系统, 植物
-- 核心想法: 改变参与的工具，非人类也能参与进来。
-- 作品内容: Permeance 是一个以艺术为引导的参与式设计项目，改造了地图、摄影和色谱法，让人和非人类参与者能更平等地参与。
-- 实现方式: 以艺术为引导的方法，结合实验性地图、摄影和土壤色谱。
-- 论文: https://doi.org/10.1080/15710882.2024.2319687 (CoDesign 2024)
-- 项目主页: https://doi.org/10.1080/15710882.2024.2319687
-
-#### Pollinator Lounge — Joyce Hwang (2024)
-- 类型: 艺术作品 · 生物: 昆虫, 动物
-- 核心想法: 把人的休息和传粉者的栖息做进同一件家具里。
-- 作品内容: 布鲁克林植物园的户外多物种休憩空间：为人设置木座椅，为本地传粉者设置 43 个栖息箱，并用石笼为小型地栖动物提供庇护。
-- 实现方式: 塔与座椅上的栖息箱由布法罗大学和得克萨斯大学奥斯汀分校的学生设计，与 Nerea Feliz 合作。
-- 图片: https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/70b44906f8-1769725226/1_0052_bbg_latespringevening.jpg https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/3e77a88b26-1769725226/4_pollinator-lounge-4-photo-by-liz-ligon-courtesy-of-brooklyn-botanic-garden.jpg
-- 项目主页: https://www.antsoftheprairie.com/projects/pollinator-lounge
-
 #### PolyNation — Leo Roth (2024)
 - 类型: 研究原型 · 生物: 昆虫, 藻类, 植物
 - 核心想法: 为传粉者而不只是为人设计生命支持系统。
@@ -387,14 +237,21 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648978569-EVOEDR6MOJJFIGHR2VV2/Polyflower+bloom+v2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718648977038-AMISIY41FZUTGZ4RDWL7/Polyflower+%2B+Pollinators.png
 - 项目主页: https://www.biodesignchallenge.org/rye-country-day-school-2024
 
-#### The Elephant in the Room — Jiabao Li (2024)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 艺术可以在法庭上成为动物的证据和代言。
-- 作品内容: 一场针对云南野象谷大象表演的艺术与法律行动：团队与律师和 NGO 一起起诉，要求释放大象；庭审期间，观众可以点击一头三维大象身上的伤疤。
-- 实现方式: 网页上的三维大象模型，每道伤疤可点击并显示对应的虐待工具；每次点击都会触发法院外的无人机播放大象的声音。
-- 视频: https://www.youtube.com/watch?v=jAL_rUdihQ0
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943826587-OF3VHKO0DTB5RH7503HZ/Jiabao+Li+Elephant+in+the+room+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943820257-OR69FLJ90YPMVHW5XHQZ/Jiabao+Li+Elephant+in+the+room+6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1727584078942-KW7035UV9IM5E9X1YNA4/Jiabao+Li+GQ+elephant+2.jpg
-- 项目主页: https://www.jiabaoli.org/elephant-in-the-room
+#### SeaWeaver — Leonardo Hummel (2024)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 编织手艺能以低成本、可推广的方式做出类似礁石的复杂结构。
+- 作品内容: 用手工编织金属做成花环般复杂形体的人工鱼礁单元，为鱼和珊瑚提供天然礁石那样的缝隙与附着面；试点已运行三年。
+- 实现方式: 参数化的编织图案生成复杂几何；简单的电化学处理提高耐腐蚀性，并促进矿物在结构上生长。
+- 论文: https://doi.org/10.21606/drs.2024.615 (DRS 2024)
+- 项目主页: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/157
+
+#### The Reef — Anton Vervoort (2024)
+- 类型: 研究原型 · 生物: 动物, 藻类, 生态系统
+- 核心想法: 入侵的滤食性动物也可以被招募为净水伙伴。
+- 作品内容: 一种为斑马贻贝提供附着的结构，优化它们的滤水作用以去除水体中过量的农业营养物，用非化学方式对抗蓝藻水华。
+- 实现方式: 层叠面板为受影响湖泊中的斑马贻贝群落提供最大附着面积和水流。
+- 图片: https://www.jamesdysonaward.org/Document/24f4911d-b03f-40ef-9462-af37a097dd22/afbeelding1.jpg https://www.jamesdysonaward.org/Document/9b4f6ebf-14c4-4903-a767-f9c4ece44066/afbeelding3.jpg
+- 项目主页: https://www.jamesdysonaward.org/en-GB/2024/project/the-reef/
 
 #### Alusta Pavilion — Suomi/Koivisto Architects (2023)
 - 类型: 研究原型 · 生物: 昆虫, 植物, 真菌
@@ -430,13 +287,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 工作坊参与者用生物-数字制造技术（可能结合 3D 打印和菌丝体生长构件）搭建栖息墙及其数字孪生。
 - 论文: https://doi.org/10.46467/tdd39.2023.228-247 (Temes de Disseny 2023)
 
-#### Living-with and Designing-with Plants — Oscar Tomico, Ron Wakkary (2023)
-- 类型: 书与文章 · 生物: 植物
-- 核心想法: 每天与植物一起生活，本身就是一种设计方法。
-- 作品内容: 一篇关于家庭工作室的文章：设计者与大量植物同住，借助补光灯、加湿器和智能浇水系统照料它们，并把日常照料本身当作与植物一起设计的方式。
-- 实现方式: 以第一人称记录植物工作室的搭建与维护，并用“与之共同设计”的超越人类理论加以解读。
-- 论文: https://doi.org/10.1145/3571589 (Interactions 2023)
-- 项目主页: https://doi.org/10.1145/3571589
+#### LilyPad — Aula Future + FirstHand Biodesign Challenge team (2023)
+- 类型: 研究原型 · 生物: 动物, 植物, 生态系统
+- 核心想法: 农场可以同时成为为它净水的动物的栖息地。
+- 作品内容: 为费城设计的漂浮农场，用河水灌溉，并借助濒危淡水贻贝净化河水；早期原型在一个社区中心附近的水库上测试。
+- 实现方式: 滤食性贻贝悬挂在种满作物的浮筏下方，作物吸收河水。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884048795-19WZVB44P2MY7IYJENKQ/Screenshot+2023-06-27+at+12.39.25+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884054078-FFLHHHIMKN8VYFJFS7VQ/Screenshot+2023-06-27+at+12.39.42+PM.png
+- 项目主页: https://www.biodesignchallenge.org/aula-future-firsthand-2023
 
 #### Metamorphonic — Yuta Ikeya, Ron Wakkary, Bahareh Barati (2023)
 - 类型: 研究原型 · 生物: 昆虫
@@ -465,14 +322,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/12bdfd63-544a-491b-add0-6ab19edcd7ea/potterywithbee.jpg https://images.squarespace-cdn.com/content/v1/5fa1242f00b67f12859335f7/1e72bca4-5804-4a5d-bc63-f61ca3ab9aaf/garden.jpg
 - 项目主页: https://artifact-archive.org/whole-archive
 
-#### Shit! Towards an experimental multiple-perspective approach to human-microbiome relations — Danielle Wilde, Tau Ulv Lenskjold (2023)
-- 类型: 论文 · 生物: 细菌与微生物, 人体
-- 核心想法: 肠道微生物是你的同居者；设计可以帮你从它们的角度看问题。
-- 作品内容: “Shit!”是一系列工作坊，参与者都患有肠道菌群失调，通过精心设计的协作任务探索他们与自己肠道微生物组的关系。
-- 实现方式: 实验性设计工作坊，分析它们如何产生人与微生物的多重视角。
-- 论文: https://doi.org/10.1080/07370024.2023.2276527 (HCI Journal 2023)
-- 项目主页: https://doi.org/10.1080/07370024.2023.2276527
-
 #### The Urban Biotope — Vasily Sitnikov (2023)
 - 类型: 研究原型 · 生物: 植物, 昆虫, 动物
 - 核心想法: 建筑立面可以被设计成与其他物种共享的生态系统。
@@ -480,24 +329,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 把城市基础设施产生的废冰塑造成模具，融化后在浇筑的混凝土中留下复杂孔腔。
 - 图片: https://ars.electronica.art/starts-prize/files/2024/06/urban-biotop_press_sitnikov_010-1024x576.jpg
 - 项目主页: https://iceformwork.com
-
-#### Turner Boxes — Ron Wakkary, Doenja Oogjes (2023)
-- 类型: 研究原型 · 生物: 昆虫, 植物
-- 核心想法: 对是否干预蜜蜂生态的矛盾心态，本身就是多物种设计的资源。
-- 作品内容: 放在城市花园里的折叠纸板相机盒，在根据天气数据预测的时段拍摄野蜂；与养蜂人和生态学家一起设计。
-- 实现方式: 相机根据天气预测的蜜蜂活跃时段触发拍摄，图像用于训练模型；论文借女性主义的“衍射”概念分析关于电磁场、糖水喂食和干预程度的设计选择。
-- 论文: https://doi.org/10.1145/3563657.3596081 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=eDGaZDvnuto
-- 图片: https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/5-Figure2-1.png https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/6-Figure4-1.png
-- 项目主页: https://doi.org/10.1145/3563657.3596081
-
-#### Urban Recipes — Yuxi Liu (2023)
-- 类型: 论文 · 生物: 生态系统, 植物, 人体
-- 核心想法: 一份食谱可以是一种在城市中练习照护的方法。
-- 作品内容: 一个把城市漫游与写食谱结合起来的项目，把日常路线和惯例变成与城市中的人和非人建立关系的提示。
-- 实现方式: 情境主义式的漫游与反复的食谱写作结合，汇编成一本食谱书和一个“试验厨房”。
-- 论文: https://doi.org/10.21606/nordes.2023.65 (Nordes 2023)
-- 项目主页: https://doi.org/10.21606/nordes.2023.65
 
 #### reef dB — Eden Harrison (2023)
 - 类型: 研究原型 · 生物: 动物, 生态系统
@@ -507,22 +338,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.jamesdysonaward.org/Document/24d2d801-7c21-471f-964a-0e6a96a260f7/heroshotlowfi.jpg https://www.jamesdysonaward.org/Document/f2692c47-45d4-4c7c-807e-b6a6457b888a/reefdb-1.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2023/project/reef-db/
 
-#### tHrIVE — NYU Integrated Design & Media Biodesign Challenge team (2023)
-- 类型: 思辨设计 · 生物: 昆虫, 细菌与微生物
-- 核心想法: 传粉者可以是整个微生物公共资源的搬运者。
-- 作品内容: 基于 Hénaff 实验室的全生物体（holobiont）研究，团队设想纽约人赖以生存的微生物崩溃，于是人们请蜜蜂把救命的微生物重新“接种”回城市。
-- 实现方式: 思辨性宣传：为 2073 年的布鲁克林海军造船厂绘制蜂巢路线图、地铁图形、防护装备和街头张贴海报。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883198226-XQOYOTDMDBZU09XZ7AHF/Copy+of+2023-bdc-thrive-hivehopmap.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883206469-0R67V1SZYVDPSKT6HS1I/Copy+of+2023-bdc-thrive-wheatpasting.jpg
-- 项目主页: https://www.biodesignchallenge.org/nyu-idm-2023
-
-#### AI Agent for Habitat Structure Design — Stanislav Roudavski (2022)
-- 类型: 论文 · 生物: 动物, 植物
-- 核心想法: 让 AI 抽象出一棵树对鸟来说好在哪里，而不只是复制它的形状。
-- 作品内容: 一个 AI 智能体：学习大型老树的三维扫描，生成简化的枝杈形态，供设计师用于为鸟类建造人工栖木结构。
-- 实现方式: 在树木点云数据上训练的强化学习智能体，为人造栖息地合成视觉抽象（Gianluca Mirra 等）。
-- 论文: https://doi.org/10.3389/fevo.2022.806453 (Frontiers in Ecology and Evolution 2022)
-- 图片: https://www.frontiersin.org/files/Articles/806453/xml-images/fevo-10-806453-g001.webp
-
 #### Additively Manufactured Urban Multispecies Façades for Building Renovation — Iuliia Larikova (2022)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 建筑翻新可以顺便为鸟类和蝙蝠加盖住所。
@@ -531,6 +346,16 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.47982/jfde.2022.powerskin.7 (Journal of Facade Design and Engineering 2022)
 - 图片: https://jfde.eu/public/journals/1/submission_241_241_coverImage_en_US.jpg
 - 项目主页: https://doi.org/10.47982/jfde.2022.powerskin.7
+
+#### Blue Ceramics — Rachel Ann Arredondo, Lining Yao (2022)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 和生态系统一起设计材料：让海底的水流、种子和沉积物决定形态。
+- 作品内容: 用数字制造做出的陶瓷砖，在烧制中变形为能保护海草种子、截留沉积物的形状，是与海洋科学家一起为修复海草床设计的。
+- 实现方式: 打印的黏土图案在窑中不均匀收缩，让平板卷曲成立体形态；形体在 Grasshopper 中迭代，依据科学家描述的海草种子与沉积物行为来调整。
+- 论文: https://doi.org/10.1145/3527927.3531453 (C&C 2022)
+- 视频: https://www.youtube.com/watch?v=e0X39ZRc3iM
+- 图片: https://figures.semanticscholar.org/08d0957a0fa0b92e956c9689306a34b74cae83ac/500px/5-Figure8-1.png
+- 项目主页: https://doi.org/10.1145/3527927.3531453
 
 #### CAD/CAM Habitat Structures for Cavity-Dependent Animals — Stanislav Roudavski (2022)
 - 类型: 论文 · 生物: 动物, 生态系统
@@ -546,14 +371,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 黄粉虫幼虫借助肠道微生物消化聚苯乙烯；从蜕下的外骨骼中提取几丁质。
 - 图片: https://discoverlexus.com/_statamic/stories/lexus-design-award/HERO_chitafarm_final.jpg
 - 项目主页: https://discoverlexus.com/stories/lexus-design-award-2023/program-details/chitofarm
-
-#### Cultivating more-than-human care: Exploring bird watching as a landscaping practice on the example of sand martins and flooded gravel pits — Johanna Just (2022)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 观鸟是一种照护景观的方式，设计者可以借鉴。
-- 作品内容: 以观鸟者与在废弃砾石坑中筑巢的崖沙燕为例的两个案例，展示观鸟如何培养对鸟类及共同景观的关注，这对建筑师很有启发。
-- 实现方式: 借助多物种研究与景观思维的质性案例研究。
-- 论文: https://doi.org/10.1016/j.foar.2022.04.007 (Frontiers of Architectural Research 2022)
-- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg
 
 #### DISPERSEED — DISPERSEED team (Universitat Politècnica de València) (2022)
 - 类型: 研究原型 · 生物: 植物, 动物, 生态系统
@@ -572,24 +389,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3537797.3537801 (PDC 2022)
 - 视频: https://www.youtube.com/watch?v=mcJbmSPBays
 - 项目主页: https://doi.org/10.1145/3537797.3537801
-
-#### Hutan wildlife corridors — Hutan (2022)
-- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
-- 核心想法: 为其他物种的移动而设计景观。
-- 作品内容: 一个由社区运营的项目，沿京那巴当岸河重新造林形成走廊，让猩猩、大象等物种能再次在破碎的森林之间迁移。
-- 实现方式: 本地团队种植本地树种、搭建绳桥，重新连接栖息地斑块。
-- 视频: https://www.youtube.com/watch?v=8mK1jbHjnTM
-- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/Hutan-worker-looks-up-at-jungle.jpg
-- 项目主页: https://www.hutan.org.my/
-
-#### Multispecies worlding through design — Michelle Westerlaken (2022)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 每一次设计都在营造一个世界；要问这是谁的世界。
-- 作品内容: 一篇短文，讨论设计实践如何参与“成世”——营造其他物种也居住其中的世界。
-- 实现方式: 基于作者博士论文和多物种研究的短文。
-- 论文: https://doi.org/10.1145/3568306 (ACM Interactions 2022)
-- 图片: https://michellewesterlaken.com/2021/09/forest_w.jpg
-- 项目主页: https://michellewesterlaken.com/
 
 #### Performative Accessories in Multispecies Design: Enhancing Humidity Levels for Plants with 3D-printed Biomimetic Structures — Andrea Macruz (2022)
 - 类型: 论文 · 生物: 植物, 人体
@@ -615,14 +414,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://offpolinn.com/wp-content/uploads/2022/12/01-COLEGIO-REGGIO-OFFPOLINN.jpg https://offpolinn.com/wp-content/uploads/2022/12/02-COLEGIO-REGGIO-OFFPOLINN.jpg
 - 项目主页: https://offpolinn.com/work/colegio-reggio-explora/
 
-#### Resting Reef — Resting Reef (Louise Skajem & Aura Murillo) (2022)
-- 类型: 思辨设计 · 生物: 动物, 生态系统
-- 核心想法: 坟墓可以成为其他物种的家。
-- 作品内容: 一种殡葬服务与海洋墓园：骨灰被融入海底的人工礁结构中，这些礁体专为海洋生物附着而设计。
-- 实现方式: 含骨灰的礁体单元按利于附着的形态制作，放置在退化的海床上并加以监测。
-- 视频: https://vimeo.com/665981630
-- 图片: https://rca-media2.rca.ac.uk/images/Render_modified.2e16d0ba.fill-1200x1200.png
-- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/resting-reef
+#### Sloooooooooow — Xinquan Wen (2022)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 为共享的微气候设计，而不是为单株植物设计：一种“去植物中心”的视角。
+- 作品内容: 一个物联网家居装置：智能窗帘随三株植物蒸腾带来的湿度变化而开合，从而改变照到它们身上的阳光。
+- 实现方式: 湿度传感器检测蒸腾作用，读数同步驱动窗帘运动，延时摄影让植物的缓慢变得可见。
+- 论文: https://doi.org/10.1145/3547522.3547691 (NordiCHI 2022 Adjunct)
+- 图片: https://figures.semanticscholar.org/d51d0cbc9da37a995e2970f38ad78f24c3cf2905/500px/3-Figure2-1.png
+- 项目主页: https://doi.org/10.1145/3547522.3547691
 
 #### Symbiocean: reef prototype Kiki — Rasa Weber (2022)
 - 类型: 研究原型 · 生物: 动物, 生态系统
@@ -633,48 +432,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=qBKsZ-3kIgY
 - 图片: https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig1.png?pub-status=live https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20241014075547012-0789:S2752945224000165:S2752945224000165_fig4.png?pub-status=live
 
-#### The Transspecies Kitchen: An Antwerphagia — Andrés Jaque (2022)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 真菌, 植物
-- 核心想法: 围绕作为“共同厨师”的微生物来设计一座厨房。
-- 作品内容: 安特卫普 Middelheim 博物馆里一座可用的厨房，依靠发酵来减少烹饪的碳排放，把烹饪、消化、生长和分解看作不同生命形式之间的同一场联盟。
-- 实现方式: 与 M-Marble Project 合作的石材厨房，用发酵容器和堆肥循环取代化石燃料烹饪。
-- 图片: https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-01.jpg https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-02.jpg
-- 项目主页: https://offpolinn.com/work/the-transspecies-kitchen-an-antwerphagia/
-
-#### Why would I ever fry and eat my SCOBY? — Aybars Senyildiz (2022)
-- 类型: 论文 · 生物: 细菌与微生物, 真菌
-- 核心想法: 日常发酵已经在训练人们照顾微生物。
-- 作品内容: 对家庭康普茶酿造者的研究，把发酵视为多物种实践，观察酿造者如何调适自己以回应 SCOBY 中微生物的需要。
-- 实现方式: 对康普茶酿造者进行访谈、设计探针任务和集体反思工作坊，并以关系理论进行解读。
-- 论文: https://doi.org/10.21606/drs.2022.318 (DRS 2022)
-- 项目主页: https://doi.org/10.21606/drs.2022.318
-
-#### Would the Trees Dim the Lights? Adopting the Intentional Stance for More-Than-Human Participatory Design — Ned Cooper (2022)
-- 类型: 论文 · 生物: 植物, 动物, 生态系统
-- 核心想法: 对树木采取“意向立场”，为设计者提供了一种可行的纳入方式。
-- 作品内容: 受澳大利亚 2019/20 年“黑色夏天”山火启发，从树木、蝙蝠等非人类的角度探讨智能路灯设计。
-- 实现方式: 把 Daniel Dennett 的“意向立场”作为启发法，用于智能照明的参与式设计。
-- 论文: https://doi.org/10.1145/3537797.3537799 (PDC 2022)
-- 视频: https://www.youtube.com/watch?v=Pk_8gR3dN98
-- 项目主页: https://arxiv.org/abs/2303.14914
-
-#### Biomenstrual, Spellbook — Nadia Campo Woytuk (2021)
-- 类型: 书与文章 · 生物: 人体, 细菌与微生物, 植物
-- 核心想法: 把经期照护当作对与身体纠缠在一起的细菌、植物和土壤的照护。
-- 作品内容: 一本 DIY 经期照护“咒语书”，收录生物材料配方、可降解卫生巾的制作工具，以及把经期废弃物归还土壤和植物的仪式。
-- 实现方式: 来自 Nadia Campo Woytuk 与 Marie Louise Juul Søndergaard 的 Biomenstrual 项目，是一本可下载的生物材料实验、配方与仪式之书。
-- 视频: https://www.youtube.com/watch?v=pMt6eB7L-HI
-- 图片: https://cortex.persona.co/i/cf88ecc115a21db16266fb05503f3d3cb4b59cb740044cb05db5b9501d9043dd/gallery_image1-small.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Entangled Kingdoms — doxiadis+ (2021)
-- 类型: 艺术作品 · 生物: 真菌
-- 核心想法: 揭示建筑中本就生活着的真菌，并把它们放到中心。
-- 作品内容: 从威尼斯军械库两个展厅采集的真菌孢子在雅典大学培养后，以“真菌花园”的形式回到双年展，构成两部分的装置。
-- 实现方式: 在展厅采集空气和表面样本，在真菌学实验室培养后作为活体培养物展出。
-- 视频: https://www.youtube.com/watch?v=qne3zmzhj1k
-- 图片: https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/doxiadis.jpg?itok=4yW5i6eJ
-- 项目主页: https://www.labiennale.org/en/architecture/2021/emerging-communities/doxiadis
+#### Weird Ecologies — Weird Ecologies (RCA team) (2022)
+- 类型: 思辨设计 · 生物: 植物, 细菌与微生物, 生态系统
+- 核心想法: 与已经在受损之地繁盛的生物合作。
+- 作品内容: 一组装置，附着在有毒地景中的现有基础设施上，帮助耐毒生物生长，用生物修复而不是隔离来管理污染场地。
+- 实现方式: 卡扣式栖息装置为超富集植物和微生物提供基质和水分。
+- 图片: https://rca-media2.rca.ac.uk/images/WEIRD_ECOLOGIES_Terra_Carta_Appl.f039940b.fill-1200x1200.jpg
+- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/weird-ecologies
 
 #### Furniture for a Human and a Parrot — Studio Ossidiana (2021)
 - 类型: 研究原型 · 生物: 动物, 人体
@@ -701,49 +465,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3459990.3465178 (IDC 2021)
 - 图片: https://figures.semanticscholar.org/f6143cffbd1220ee1242eebd85d7b31943fb2932/4-Figure2-1.png
 
-#### Non-human Personas: Including Nature in the Participatory Design of Smart Cities — Martin Tomitsch, Marcus Foth (2021)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 一个熟悉的 UX 工具，可以让自然在设计会议中有发言权。
-- 作品内容: 改造人物角色方法，使动物、植物和生态系统在设计智能城市家具时得到代表。
-- 实现方式: 以设计智能城市家具为案例，使用基于生态数据构建的非人类人物角色。
-- 论文: https://doi.org/10.55612/s-5002-050-007 (Interaction Design and Architecture(s) 2021)
-- 视频: https://www.youtube.com/watch?v=vCfm-Q-5qtE
-- 项目主页: https://ixdea.org/50_7/
-
-#### Plant Hotels: designing the imaginary foundations of communities — Yiying Wu (2021)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 共同照料植物，是形成和研究社区的一种轻巧方式。
-- 作品内容: 赫尔辛基的四家和斯德哥尔摩的一家“植物旅馆”邀请人们把盆栽放在共享空间里由他人照看，借此研究维系社区的那些不言明的意象。
-- 实现方式: 把关系艺术式的介入当作常人方法学的“破坏实验”（寄养植物的形式为推测）。
-- 论文: https://doi.org/10.1080/15710882.2021.1991958 (CoDesign 2021)
-- 项目主页: https://doi.org/10.1080/15710882.2021.1991958
-
-#### Platform for Humans and Birds — Studio Ossidiana (2021)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 一个让两个物种都能找到吃的、喝的和事可做的公共平台。
-- 作品内容: 2021 年威尼斯建筑双年展上的模块化浇铸景观，嵌有可食用的部分、水碗、游戏和靠背，由三座鸽塔和高栖木守望，供人和鸟共享。
-- 实现方式: 嵌入种子和集水结构的浇铸模块，以及立在 Giardino delle Vergini 的五米高、覆有金属“羽毛”的鸽塔。
-- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623334193482-J5309IFFVQ5XASZ5JH8M/Platform+for+Humans+and+Birds_Photo+by+Riccardo+de+Vecchi9.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624386771422-V0ZIATHE4P4R4JNNBCY2/Dovecote+Tower_Photo+by+Riccardo+de+Vecchi_02lowres2.jpg
-- 项目主页: https://www.studio-ossidiana.com/platform-for-humans-and-birds-la-biennale-di-venezia
-
-#### Pollinator Pathmaker — Alexandra Daisy Ginsberg (2021)
-- 类型: 艺术作品 · 生物: 昆虫, 植物
-- 核心想法: 把审美决定权交给其他物种：按传粉者的偏好设计花园。
-- 作品内容: 一个算法为尽可能多种类的传粉昆虫设计花园，而不是迎合人的审美；活体版本种在伊甸园项目、柏林等地，任何人都能在线设计自己的一座。
-- 实现方式: 与生态学家共同开发的优化算法挑选并排布植物种类，让整个季节的传粉者多样性最大化。
-- 视频: https://www.youtube.com/watch?v=IN3YzdziqBY
-- 图片: https://www.daisyginsberg.com/img/work/pp_las_25_gallery.jpeg https://www.daisyginsberg.com/img/work/pp_las_dig_ren_4_web.jpg
-- 项目主页: https://www.daisyginsberg.com/work/pollinator-pathmaker
-
-#### Refuge for Resurgence — Superflux (2021)
-- 类型: 思辨设计 · 生物: 动物, 真菌, 人体
-- 核心想法: 给每个物种一个座位、一只盘子和按它身体形状设计的餐具，问问我们在和谁同桌。
-- 作品内容: 2021 年威尼斯建筑双年展上的一张宴会桌，设在一处崩溃后的室内废墟里，为十四种生命摆好了座位：狐狸、老鼠、黄蜂、鸽子、牛、成人与孩子、野猪、蛇、河狸、狼、渡鸦和蘑菇。
-- 实现方式: 手工雕刻的长桌和按每种动物身体结构与食性设计的专属餐具，被放置在一个崩溃后的场景中。
-- 视频: https://vimeo.com/641995934
-- 图片: https://superflux.in/wp-content/uploads/2021/06/Web-Hero-V2-1024x683.jpg
-- 项目主页: https://superflux.in/index.php/work/refuge-for-resurgence/
-
 #### Sanergy circular sanitation — Sanergy (2021)
 - 类型: 产品与平台 · 生物: 昆虫, 细菌与微生物
 - 核心想法: 围绕能“吃掉”垃圾的昆虫来设计城市的废物系统。
@@ -752,32 +473,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=Os5j1y8O9QM
 - 图片: https://earthshotprize.org/wp-content/uploads/2021/09/SANERGY-2-1.jpg
 - 项目主页: https://www.sanergy.com/
-
-#### The Birds' Palace — Studio Ossidiana (2021)
-- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
-- 核心想法: 让鸟成为公共艺术作品的园丁。
-- 作品内容: 锚定在阿姆斯特丹冯德尔公园池塘中的漂浮花园，设有高高的栖木和喂鸟器；六周里，鸟的取食和粪便把土堆变成一片花田，引来了蜜蜂和蝴蝶。
-- 实现方式: 带有肥沃土壤、栖木和喂食器的漂浮平台；种子由鸟传播；观众在岸边用望远镜观看。
-- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/e85569f1-dee1-464b-819e-1254fc47d75b/The+Bird%27s+Palace.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/7b480486-268c-40f9-b280-c3dacc24708c/The+Birds+Palace+-+Courtesy+of+Studio+Ossidiana+-+Photo+by+Riccardo+de+Vecchi2_2.jpg
-- 项目主页: https://www.studio-ossidiana.com/the-birds-palace
-
-#### To Middle Species, With Love — Joyce Hwang (2021)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 为与我们共享城市的普通物种设计，而不只是那些明星物种。
-- 作品内容: 位于印第安纳州哥伦布市 Mill Race 公园的装置，由带鸟栖木和蝙蝠屋的硬木塔以及干砌石堆组成，服务于蝙蝠、鸟类、两栖和爬行动物等常见的“中间物种”。
-- 实现方式: 参照濒危印第安纳蝙蝠的蝙蝠屋制作的印第安纳硬木塔，加上记录蝙蝠叫声并将其转为声音的超声波探测器。
-- 图片: https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/0e6efdb4c4-1769725224/1_to-middle-species-with-love-dawn.jpg https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/ce8aad150e-1769725224/6_to-middle-species-with-love-towers.jpg
-- 项目主页: https://www.antsoftheprairie.com/projects/to-middle-species-with-love
-
-#### Watching Myself Watching Birds: Abjection, Ecological Thinking, and Posthuman Methods — Heidi R. Biggs, Shaowen Bardzell (2021)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 对其他物种产生的不适感，也是后人类设计的数据。
-- 作品内容: 作者在喂鸟器旁观察鸟类并进行第一人称研究，反思这一过程中暴露出的不适与纠缠。
-- 实现方式: 以笔记和照片进行自我民族志观鸟，借助 Kristeva 的“贱斥”与 Morton 的“生态思维”分析。
-- 论文: https://doi.org/10.1145/3411764.3445329 (CHI 2021)
-- 视频: https://www.youtube.com/watch?v=_LBEVTtY2kc
-- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/112fe272-cf71-4aa5-a132-58f067e0f24d/IMG_20200914_165546.jpg
-- 项目主页: https://www.heidibiggsdesign.com/watching-myself-watching-birdspabjection-ecological-thinking-and-posthuman-design/
 
 #### Econooc — Niamh Damery (2020)
 - 类型: 研究原型 · 生物: 真菌, 昆虫
@@ -788,24 +483,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.jamesdysonaward.org/Document/f472b3a0-c6eb-4fe3-9c3a-ac1efddc3ec7/econooc-head-image.jpg https://www.jamesdysonaward.org/Document/fefc3d63-7a54-4e46-ab42-2435b68337e3/testing-and-models.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2020/project/econooc/
 
-#### Imagining Multispecies Worlds — Michelle Westerlaken (2020)
-- 类型: 书与文章 · 生物: 动物, 昆虫, 生态系统
-- 核心想法: 设计可以把想象力当作一种与其他物种共同生活的伦理能力来练习。
-- 作品内容: 一篇以“多物种动物寓言集”形式写成的博士论文：每章跟随一个动物主角，探讨设计如何想象与其他物种共享的世界。
-- 实现方式: 结合与狗等动物进行的设计实验、田野研究和思辨写作。
-- 论文: https://doi.org/10.24834/isbn.9789178771059 (PhD thesis, Malmö University 2020)
-- 视频: https://www.youtube.com/watch?v=vmPTLMXWSOE
-- 图片: https://michellewesterlaken.com/2021/09/phdsmaller_w.jpg
-- 项目主页: https://michellewesterlaken.com/portfolio/phd-thesis/
-
-#### Project Habitate — Yuning Chan (2020)
-- 类型: 思辨设计 · 生物: 真菌, 植物
-- 核心想法: 人类可以作为濒危生物的宿主，提供生态服务。
-- 作品内容: 一件活体可穿戴装置，让人们为因白蜡树枯梢病而失去家园的苔藓、地衣和真菌提供栖身之处，直到新的白蜡树长起来。
-- 实现方式: 一种模仿白蜡树皮的仿生材料，让苔藓、地衣和真菌在人体上生长。
-- 图片: https://ars.electronica.art/starts-prize/files/2021/06/Biomimicry-living-wearable-1024x512.jpg https://ars.electronica.art/starts-prize/files/2021/06/Material-sample-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/project-habitate/
-
 #### The City of Birds — Studio Ossidiana (2020)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 各种形态的笼子，构成了人与鸟关系的全部词汇，从照护到控制。
@@ -813,23 +490,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 对历史上各类鸟类建筑做类型学研究，转化为铸造和拼装的模型以及一本艺术家书，在 Van Eyck Academie 与 Het Nieuwe Instituut 合作完成。
 - 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623663360237-U9EQRYJQOC0F73EE56U8/Studio+Ossidiana_200821_546_s.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624384893641-JDP2787MPKP2Y36CUM97/Variations+on+a+Birdcage_overall.jpg
 - 项目主页: https://www.studio-ossidiana.com/the-city-of-birds
-
-#### Variations on a Birdcage — Studio Ossidiana (2020)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 鸟笼可以被重新设计成两个物种之间的协商。
-- 作品内容: 一系列把人与鸟之间的关系空间化的物件，把后退、喂食、驯化、玩耍等行为转化为介于鸟笼、栖木和家具之间的形态。
-- 实现方式: 2020 年在马斯特里赫特制作的浇铸与组装物件，属于工作室“鸟之城”研究的一部分。
-- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624385418951-F4PQU7P1EEMOXPLA7L77/Variations+on+a+Birdcage+14.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1588273074967-NNYD8U67UOB1P6COC4V8/Studio+Ossidiana_Variations+on+a+bird+cage+%281%29.jpg
-- 项目主页: https://www.studio-ossidiana.com/variations-on-a-birdcage-
-
-#### Decomposition as Design: Co-Creating (with) Natureculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2019)
-- 类型: 论文 · 生物: 细菌与微生物, 真菌, 生态系统
-- 核心想法: 腐烂也可以是共同设计者：让微生物和时间来完成作品。
-- 作品内容: 整理并分析建筑、纺织、手工艺和食物制作中数百个“分解”的案例，并提炼为与自然过程合作的设计策略。
-- 实现方式: 建立分解案例的注释作品集，通过批判分析提炼非人类中心的设计策略。
-- 论文: https://doi.org/10.1145/3294109.3295653 (TEI 2019)
-- 图片: https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/7-Figure6-1.png https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/6-Figure5-1.png
-- 项目主页: https://doi.org/10.1145/3294109.3295653
 
 #### Design for the Age of Species – Exploring ways for designers to care for multispecies coexistence — Petra Lilja (2019)
 - 类型: 论文 · 生物: 动物, 植物, 昆虫
@@ -848,24 +508,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1588262060635-WDKJILXBVD97CCUV8EH7/Geese+Grottos_Studio+Ossidiana15.jpg
 - 项目主页: https://www.studio-ossidiana.com/geese-grottos
 
-#### More-than-human participation: design for sustainable smart city futures — Rachel Clarke, Sara Heitlinger, Laura Forlano, Marcus Foth, Carl DiSalvo (2019)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 参与式设计应当把其他物种和生态系统也算作参与者。
-- 作品内容: 一篇宣言式短文，呼吁智慧城市设计把植物、动物、土壤和水道作为参与者纳入其中。
-- 实现方式: 以一系列关于超越人类城市未来的参与式设计工作坊为基础的立场论文。
-- 论文: https://doi.org/10.1145/3319075 (ACM Interactions 2019)
-- 视频: https://www.youtube.com/watch?v=n_0YIj1efK0
-- 项目主页: https://doi.org/10.1145/3319075
-
-#### Symbiotic Encounters: HCI and Sustainable Agriculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2019)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 要“与自然合作”，HCI 必须为不断变化的多物种集合体设计，而不是为稳定的系统设计。
-- 作品内容: 对替代农场的民族志研究：作物、昆虫、动物与农民之间的关系随季节在互利与有害之间变化。
-- 实现方式: 对朴门永续农业和替代农业农民进行田野研究，用“集合体”概念分析。
-- 论文: https://doi.org/10.1145/3290605.3300547 (CHI 2019)
-- 视频: https://www.youtube.com/watch?v=yXs888XZaX8
-- 项目主页: https://doi.org/10.1145/3290605.3300547
-
 #### The Chair (insect habitats) — Marlène Huissoud (2019)
 - 类型: 研究原型 · 生物: 昆虫
 - 核心想法: 拿一件熟悉的人类物件，按昆虫使用者重新设计，细到孔径和表面颜色。
@@ -874,24 +516,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=J-NLr6jk1NQ
 - 项目主页: https://designmuseum.org/exhibitions/more-than-human
 
-#### The Right to the Sustainable Smart City — Sara Heitlinger (2019)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: “智慧城市权”应当延伸到城市中超越人类的居民。
-- 作品内容: 以 Connected Seeds 项目为基础，论证智慧城市设计应当纳入植物、传粉者等非人类，以及照料它们的种植者。
-- 实现方式: 用“城市权”概念和超越人类理论分析一个参与式设计案例。
-- 论文: https://doi.org/10.1145/3290605.3300517 (CHI 2019)
-- 视频: https://www.youtube.com/watch?v=MaPFc720eaA
-- 图片: https://www.connectedseeds.org/wp-content/uploads/2017/01/home3.jpg
-- 项目主页: https://www.connectedseeds.org/
-
-#### Zoepolis: Non-anthropocentric design as an experiment in multi-species care — Monika Rosińska (2019)
-- 类型: 论文 · 生物: 动物, 植物
-- 核心想法: 设计可以为作为同胞的植物和动物建造城市。
-- 作品内容: 论文提出“zoepolis”——人与非人共同组成的政治共同体——并把展览《Zoepolis：为植物和动物设计》作为多物种照护的实验来讨论。
-- 实现方式: 以策展为案例，理论基础包括 Kymlicka 与 Donaldson 的动物公民身份、Haraway 和 Latour。
-- 论文: https://doi.org/10.21606/nordes.2019.006 (Nordes 2019)
-- 视频: https://www.youtube.com/watch?v=T9lNNC48cGk
-
 #### Apigiene Hive — University of Toledo Biodesign Challenge team (2018)
 - 类型: 研究原型 · 生物: 昆虫, 藻类
 - 核心想法: 把蜂箱入口设计成蜂群的“梳理工具”。
@@ -899,15 +523,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 硅藻坚硬的硅质外壳以物理方式磨掉螨虫，避免在蜂箱内使用化学杀螨剂。
 - 视频: https://www.youtube.com/watch?v=BHRuGA1Ao4s
 - 项目主页: https://www.biodesignchallenge.org/university-of-toledo
-
-#### Connected Seeds and Sensors: Co-designing Internet of Things for sustainable smart cities with urban food-growing communities — Sara Heitlinger (2018)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 面向可持续城市的物联网，可以从留种和种植者的知识出发，而不是从效率出发。
-- 作品内容: 团队与伦敦的城市食物种植者共同设计了 Connected Seeds Library：一个装着种子包的柜子，连接着关于这些种子的故事和植物生长的传感器数据。
-- 实现方式: 与种植者开展参与式设计工作坊；种子包带有 NFC 标签，关联音频故事和土壤传感器。
-- 论文: https://doi.org/10.1145/3210604.3210620 (PDC 2018)
-- 图片: https://www.connectedseeds.org/wp-content/uploads/2017/01/home8.jpg https://www.connectedseeds.org/wp-content/uploads/2017/01/home1.jpg
-- 项目主页: https://www.connectedseeds.org/
 
 #### Design for Collaborative Survival: An Inquiry into Human-Fungi Relationships — Jen Liu (2018)
 - 类型: 研究原型 · 生物: 真菌, 生态系统
@@ -919,14 +534,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://jenliujenliu.com/Files/gimgs/cs_HSI_sq.jpg https://jenliujenliu.com/Files/gimgs/cs_dataharvest.jpg https://jenliujenliu.com/Files/gimgs/cs_sporestepper.jpg
 - 项目主页: https://jenliujenliu.com/tools_cosurvival.html
 
-#### More-than-human urban futures — Rachel Clarke, Sara Heitlinger, Marcus Foth, Laura Forlano (2018)
-- 类型: 论文 · 生物: 生态系统, 动物, 植物
-- 核心想法: 一起走进城市，想象为不止人类服务的智慧城市。
-- 作品内容: 在比利时哈塞尔特举行的一次参与式思辨城市漫步，展示了一个关于“超越人类”智慧城市的工作坊成果，追问城市基础设施如何为与其他物种共居而设计。
-- 实现方式: 一次策划的在地漫步，结合临时原型和与当地城市基础设施相关的思辨情境。
-- 论文: https://doi.org/10.1145/3210604.3210641 (PDC 2018)
-- 图片: https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png
-- 项目主页: https://doi.org/10.1145/3210604.3210641
+#### Living Seawalls — Reef Design Lab (2018)
+- 类型: 产品与平台 · 生物: 生态系统, 动物, 藻类
+- 核心想法: 灰色基础设施可以用一套瓷砖系统改造成栖息地。
+- 作品内容: 一种安装在既有平直海堤上的六边形栖息砖，仿岩石的纹理给牡蛎、藤壶、海藻和鱼提供附着和躲藏的地方，提升城市海岸的生物多样性。
+- 实现方式: 十种三维建模的纹理用低碳混凝土和复合筋浇筑后固定在海堤上；由悉尼海洋科学研究所监测生物附着情况。
+- 视频: https://www.youtube.com/watch?v=AzWBxccuIkI
+- 图片: http://static1.squarespace.com/static/60efa1626de4b55189f0d735/t/6142edad5c600c24b6cea0db/1631776173367/E_St3fiUcAQsFi3.jpg?format=1500w
+- 项目主页: https://www.livingseawalls.com.au/
 
 #### Prototyping Multispecies Environments — Martín Tironi (2018)
 - 类型: 论文 · 生物: 动物
@@ -936,39 +551,22 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.21606/drs.2018.546 (DRS 2018)
 - 项目主页: https://doi.org/10.21606/drs.2018.546
 
-#### The tree as method: co-creating with urban ecosystems — Ida Nilstad Pettersen (2018)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 既然受决策影响的人应该参与决策，行道树也有这个资格。
-- 作品内容: 这篇短文以行道树为例，追问在参与式设计中把树当作参与者、与城市生态系统共同创造意味着什么。
-- 实现方式: 对可持续城市发展中非人参与的探索性反思。
-- 论文: https://doi.org/10.1145/3210604.3210653 (PDC 2018)
+#### Wind Loom — Laura Devendorf (2018)
+- 类型: 研究原型 · 生物: 生态系统
+- 核心想法: 把手工过程的一部分交给非人类的力量，接受它的节奏和不可控。
+- 作品内容: 一台改装过的挂毯织机：每第四根经线连着一个小伞状的帆，风一吹就把经线抬起、打开梭口；织工等风来，按风留下的开口去织。
+- 实现方式: 激光切割的亚克力钩扣在经纱上，连接带铝杆和尼龙伞的转臂；铝杆长度决定每只转臂需要多大的风。
+- 图片: https://unstable.design/img/windloom_cover.jpg https://unstable.design/img/windloom-detail.png
+- 项目主页: https://unstable.design/projects/windloom/
 
-#### We Live in an Ocean of Air — Marshmallow Laser Feast (2018)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 每一次呼吸都是与植物的交换。
-- 作品内容: 萨奇画廊的多人 VR 装置：每位观众呼出的气息被可视化，并被一棵巨杉吸入，人与树之间的气体交换因此变得可见。
-- 实现方式: 每位观众佩戴的呼吸传感器和心率监测驱动无线 VR 头显中的实时粒子画面，同时配合气味和空间声景。
-- 视频: https://www.youtube.com/watch?v=1Ex5OFWIQ0Q
-- 图片: https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml-1024x682.jpg
-- 项目主页: https://www.marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/
-
-#### Zoöp — Het Nieuwe Instituut (2018)
-- 类型: 思辨设计 · 生物: 生态系统, 动物, 植物
-- 核心想法: 把非人类的利益写进组织治理，就像一个也包括其他物种的合作社。
-- 作品内容: 一种让人类与非人类生命合作的组织模型：Zoöp 让一位“生命代言人”参与组织决策，并承诺改善所在场地的生态健康。
-- 实现方式: 法律与组织设计：由 Zoönomic Foundation 认证组织，组织任命代言人并执行生态恢复计划。
-- 视频: https://www.youtube.com/watch?v=4MglYTfRBOI
-- 图片: https://cmsfiles.nieuweinstituut.nl/DSC_7051_header_a2b85bc97a.jpg
-- 项目主页: https://zoop.hetnieuweinstituut.nl/en
-
-#### Plant-computer interaction, beauty and dissemination — Fredrik Aspling (2016)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 植物用美吸引人类帮助它们传播；设计可以把这看作一种交互。
-- 作品内容: 论文从人们聚集在盛开的樱花树下的做法出发，认为植物以其“扩散”的冲动参与计算，并回顾了植物在计算系统与设计中的出现方式。
-- 实现方式: 结合赏樱的多物种民族志、理论阅读和两项文献综述进行三角分析。
-- 论文: https://doi.org/10.1145/2995257.2995393 (ACI 2016)
-- 图片: https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png
-- 项目主页: https://doi.org/10.1145/2995257.2995393
+#### TetraPOT — Sheng-Hung Lee (2016)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 灰色基础设施可以成为脚手架，逐渐被活的根系接管。
+- 作品内容: 一种改良的混凝土四脚防波块，内含红树林幼苗；树长大后，根系从通道中伸出，把各个块体连锁在一起，形成活的海岸防线。
+- 实现方式: 空心四脚块内的有机层培育红树林，直到根系把各单元连成一体。
+- 视频: https://www.youtube.com/watch?v=6uGcQhTuXec
+- 图片: http://web.archive.org/web/2023im_/https://www.jamesdysonaward.org/Document/ade55445-2238-4d89-93c3-6359809f784b/usr-3393-img-1468513835-c4574.jpg
+- 项目主页: http://web.archive.org/web/2023/https://www.jamesdysonaward.org/en-GB/2016/project/tetrapot/
 
 #### Bee Brick — Green&Blue (2015)
 - 类型: 产品与平台 · 生物: 昆虫
@@ -977,14 +575,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 浇铸混凝土砌块（部分采用康沃尔瓷土废料），孔洞尺寸适合壁蜂等独居蜂。
 - 图片: https://www.greenandblue.co.uk/cdn/shop/products/white-grey-bee-brick.jpg?v=1668523534 https://www.greenandblue.co.uk/cdn/shop/products/bee-brick-christmas-gift-solitary-bee-shown.jpg?v=1668523534&width=1946
 - 项目主页: https://www.greenandblue.co.uk/products/bee-brick
-
-#### No Crash Zone — Joyce Hwang (2015)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 装饰也能承担生态功能：防止鸟撞。
-- 作品内容: 对芝加哥 Carson Pirie Scott 大楼一扇窗的临时改造：用图案让鸟能看见玻璃，同时为人保留向外的视野。
-- 实现方式: 依据防鸟撞指南设计的窗面图案，结合像素迷彩与单点透视。
-- 图片: https://www.antsoftheprairie.com/media/pages/projects/no-crash-zone/1b5f537ef7-1771340721/no-crash-zone-left-side.jpg
-- 项目主页: https://www.antsoftheprairie.com/projects/no-crash-zone
 
 #### A Foray Into Not-Quite Companion Species: Design Experiments With Urban-Animals as Significant Others — Li Jönsson, Tau Ulv Lenskjold (2014)
 - 类型: 思辨设计 · 生物: 动物
@@ -995,21 +585,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/8-Figure6-1.png https://figures.semanticscholar.org/bb1fe1ff8a7fe742d802b704e62ae078eaaddd93/9-Figure7-1.png
 - 项目主页: https://scholarworks.iu.edu/journals/index.php/artifact/article/view/3957
 
-#### Naval Gazing — Špela Petrič (2014)
-- 类型: 艺术作品 · 生物: 藻类, 动物, 生态系统
-- 核心想法: 人类能否为对自己毫无用处的结构投入？
-- 作品内容: 一个类似风车的四面体“栖居体”（habiton），被放入北海随风漂流，承载海藻和贝类，直到它们的重量让它沉没——一个只对非人类有用的物件。2014 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
-- 实现方式: 与水产养殖研究者一起设计的帆状四面体框架，在海上被海洋生物逐渐占据。
-- 图片: https://www.badaward.nl/imager/assets/site/495/NAVALGAZING1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/436/MATTEROFLIFE-Naval-Gazing_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/%C5%A1pela-petri%C4%8D
-
-#### Bat Cloud — Joyce Hwang (2012)
-- 类型: 艺术作品 · 生物: 动物, 植物
-- 核心想法: 通过排泄物把一个物种的栖所和一座花园连在一起。
-- 作品内容: 悬挂在树间的容器群，曾在布法罗和鹿特丹展出；每个容器上部是保温的蝙蝠栖所，下部装满土壤，蝙蝠粪便在那里滋养植物。
-- 实现方式: 悬挂在树上的定制容器，下部是种子和土壤，上部是蝙蝠可进入的栖息腔。
-- 图片: https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/04b6a06017-1771258986/aop_batcloud.jpg https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/cd700e0a31-1771258992/bat-cloud-summer.jpg
-- 项目主页: https://www.antsoftheprairie.com/projects/bat-cloud
+#### Living Breakwaters — SCAPE Landscape Architecture (2014)
+- 类型: 研究原型 · 生物: 生态系统, 动物
+- 核心想法: 海岸防护可以按栖息地来建造，生态和社区项目从一开始就被设计进去。
+- 作品内容: 纽约史坦顿岛南岸外的一串堆石防波堤，在削减波浪与侵蚀的同时，其带纹理的“礁石街道”为牡蛎、鱼类和其他海洋生物提供栖所。
+- 实现方式: 石质防波堤外覆经生态强化的混凝土构件，形成潮池和缝隙；并在其上投放 Billion Oyster Project 培育的牡蛎。
+- 视频: https://www.youtube.com/watch?v=mSYeKlTTSTU
+- 图片: https://www.scapestudio.com/images/LBW_4000_01_2.jpg?w=2000
+- 项目主页: https://www.scapestudio.com/projects/living-breakwaters/
 
 #### Polydome — Except Integrated Sustainability (2012)
 - 类型: 研究原型 · 生物: 植物, 动物, 真菌
@@ -1059,41 +642,9 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=wQDUxDBJc94
 - 项目主页: http://www.brokennature.org/checklist/
 
-#### Botanicalls — Botanicalls (2006)
-- 类型: 研究原型 · 生物: 植物
-- 核心想法: 让植物主动开口，谈论它自己需要的照顾。
-- 作品内容: 装了土壤湿度传感器的室内植物，缺水时会给主人打电话或发推文，浇水后还会道谢。
-- 实现方式: 花盆里的湿度探针连接联网的微控制器，用预先写好的“植物口吻”打电话或发 Twitter。
-- 视频: https://www.youtube.com/watch?v=GsrSGqfKZ18
-- 图片: https://www.faludi.com/wp-content/uploads/2011/07/moma_sign.jpg https://www.botanicalls.com/wp-content/uploads/2013/04/25toolkit-articleLarge-500x342.jpg
-- 项目主页: https://www.botanicalls.com/
+### 照护与共居
 
-### 生态感知与照护
-
-感知、倾听和照护生态系统、土壤、河流与气候。
-
-#### BioFabulations: Embodied Sensemaking for Planetary Care — Vasco Costa (2026)
-- 类型: 论文 · 生物: 生态系统, 动物
-- 核心想法: 从真实海岸观察出发虚构生物，把生态知识变成具身的关系。
-- 作品内容: 一套工具包和框架：孩子们观察海岸生命，创造并制作神奇生物模型，再用定格动画讲述它们的故事，以此学习行星照护。
-- 实现方式: 分为观察、创造与虚构、动画与讲述三阶段，孩子们用素描、建模和数字定格动画完成。
-- 论文: https://doi.org/10.1145/3803784.3809288 (C&C 2026)
-
-#### Designing Loofah Wearables For Embodied Ecological Reflection — Yingting Gao, Fiona Bell (2026)
-- 类型: 研究原型 · 生物: 植物
-- 核心想法: 一种可降解的植物纤维，可以把环境状况显示在身体上。
-- 作品内容: 作者探索把丝瓜络（丝瓜干燥后的纤维）用作可穿戴材料，并加入会随温度、紫外线以及水和土壤酸碱度变化的指示剂。
-- 实现方式: 对丝瓜络进行材料探索，结合变色指示剂，整理为设计空间。
-- 论文: https://doi.org/10.1145/3731459.3774482 (TEI 2026)
-- 视频: https://www.youtube.com/watch?v=T9UnvfFXeSw
-- 项目主页: https://doi.org/10.1145/3731459.3774482
-
-#### Listening with frogs: sonic thick mapping for more-than-human participation — Yen-Fu Chen (2026)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 在物种识别中保留模糊性，让重点落在聆听而非分类上。
-- 作品内容: Identifrog 是台湾的一款蛙鸣识别公民科学 App，用概率式 AI 和可交互的声谱图保留不确定性，把识别变成生态聆听。
-- 实现方式: 移动 App 结合概率式蛙鸣分类器和可交互声谱图；与多元参与者的互动形成了“声音厚描地图”。
-- 论文: https://doi.org/10.1080/15710882.2026.2726166 (CoDesign 2026)
+为照料、修复其他生命和生态系统并与之共处而设计。
 
 #### Living Probes in Place — Gizem Oktay, Bahareh Barati, Ron Wakkary (2026)
 - 类型: 论文 · 生物: 真菌, 生态系统
@@ -1104,12 +655,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/5-Figure3-1.png https://figures.semanticscholar.org/eee95c1f08c7b9743a76934752a7fb5d770b37cc/6-Figure4-1.png
 - 项目主页: https://doi.org/10.1145/3772318.3791217
 
-#### Minamata's Ecological Encounters Codesheet: Designing Remembrance Lenses through more-than-human and media archaeology — Lucas Ogasawara de Oliveira (2026)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 媒介设备可以帮助人记住生态伤害，而不是把它隐藏。
-- 作品内容: “生态遭遇编码表”是一种方法，用来编码在日本水俣（汞中毒事件发生地）与基础设施、纪念物和档案的相遇，涵盖时间、风险与照护等维度。
-- 实现方式: 结合超越人类设计与媒介考古学的“通过设计做研究”田野工作。
-- 论文: https://doi.org/10.21606/drs.2026.428 (DRS 2026)
+#### More than Weeds: Thickening designer-plant relations in the Sonoran Desert — Andrew Whitcomb (2026)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 设计者对一种植物的感受也是设计材料，而且会变化。
+- 作品内容: 设计者回顾项目《Gifts for Tempe》，追踪他们对沙漠“入侵”植物 Stinknet 的感受如何随时间变化。
+- 实现方式: 对索诺兰沙漠田野设计研究进行实践反思。
+- 论文: https://doi.org/10.21606/drs.2026.2623 (DRS 2026)
 
 #### More-than-Human Infrastructuring in the River Shannon: Water Quality, Level and Management as Voices Towards Respectful Coexistence with Nature — Chidi Usanga (2026)
 - 类型: 论文 · 生物: 生态系统
@@ -1119,6 +670,434 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3789492.3796405 (PDC 2026)
 - 项目主页: https://doi.org/10.1145/3789492.3796405
 
+#### Nomadic Moss: Weaving a Humidity-Intimacy Wearable for More-than-Human Care — Peng-Jung Lin (2026)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 人的身体可以成为另一个物种的移动栖息地。
+- 作品内容: Nomadic Moss 是一件编织的腕部可穿戴物，里面生活着泥炭藓；皮肤的湿气和洗手这样的日常时刻都变成了照顾苔藓的方式。
+- 实现方式: 以编织手工制作适合苔藓的织物结构，经过迭代原型、访谈和共创工作坊。
+- 论文: https://doi.org/10.1145/3803784.3816863 (C&C 2026)
+
+#### Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds — Marcus Foth (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 有时设计的任务，是让人去适应动物。
+- 作品内容: 自 2017 年起在澳大利亚 Sleepy Burrows 袋熊保护区开展的长期参与式设计研究，展示了一种“人适应袋熊”的照管式设计。
+- 实现方式: 在野生动物保护区开展的长期参与式设计田野研究。
+- 论文: https://doi.org/10.1145/3796624.3796652 (PDC 2026)
+
+#### Becoming compost: Fostering soil care through design practices — Annarita Bianco (2025)
+- 类型: 论文 · 生物: 生态系统, 细菌与微生物
+- 核心想法: 亲手处理和交换土壤，能让人意识到它的脆弱与生机。
+- 作品内容: 两场工作坊：参与者混合、交换土壤样本，制作放射状色谱图，并借助增强现实思考土壤作为跨物种交换之地。
+- 实现方式: 受环境人文启发，在参与式工作坊中结合土壤混合、放射状色谱和增强现实。
+- 论文: https://doi.org/10.21606/nordes.2025.45 (Nordes 2025)
+
+#### Compost Kits: Bridging More-than-Human Theory with Design Practice through Vermicomposting — Tiffany Wun, Ron Wakkary (2025)
+- 类型: 研究原型 · 生物: 动物, 细菌与微生物
+- 核心想法: 照料蚯蚓和堆肥，让超越人类的理念在日常设计工作中变得具体。
+- 作品内容: 四位设计师在十六周里一边照料蚯蚓堆肥箱、阅读引导手册，一边反思自己实践中使用的材料。
+- 实现方式: 以蚯蚓堆肥箱加反思手册作为设计探针，通过与设计师共同思辨进行研究。
+- 论文: https://doi.org/10.1145/3757980.3757990 (Academic Mindtrek 2025)
+- 项目主页: https://doi.org/10.1145/3757980.3757990
+
+#### Constituency as a Matter of Practice: Moving a Plant Studio — Oscar Tomico, Doenja Oogjes, Ron Wakkary (2025)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 植物工作室是人与植物的聚合体，它们的实践决定了设计出什么。
+- 作品内容: 作者分析了把一个拥有 250 多株植物的工作室从一座城市搬到另一座城市的过程，借此观察人、植物和设备如何组成一个设计“构成体”。
+- 实现方式: 用“设计事件”作为分析词汇，追踪搬迁过程中的实践与时间性。
+- 论文: https://doi.org/10.1145/3706598.3713916 (CHI 2025)
+- 项目主页: https://doi.org/10.1145/3706598.3713916
+
+#### Domestic Cultures of Plant Care: A Moss Terrarium Probe — Nirit Binyamini Ben-Meir (2025)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 为家庭共享的照护文化而设计，而不是只针对个人行为改变。
+- 作品内容: 研究者把带传感器的苔藓生态瓶放进 11 个家庭作为活体探针，发现了由赠礼、知识传递和共同照料塑造的五种家庭植物照护文化。
+- 实现方式: 带传感器的活体“物民族志”探针，加半结构化访谈。
+- 论文: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
+
+#### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
+- 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
+- 核心想法: 修复工作可以“倾听”它试图帮助的植物。
+- 作品内容: 一个针对重金属污染土壤的生物修复站，释放微生物来固定毒素；各单元共享数据，由人工智能根据植物恢复情况安排释放时机。
+- 实现方式: 受拟南芥信号与菌根网络启发，联网的修复站按需释放微生物菌剂。
+- 视频: https://www.youtube.com/watch?v=BqE8Wr__hjo
+- 图片: https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg
+- 项目主页: https://www.jamesdysonaward.org/en-GB/2025/project/soilrevive-2/
+
+#### ‘Nai Waan’ (泥玩): designing working relationships with soil — Markus Wernli (2025)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 集体的亲手土壤劳动，会建立起与土壤在有机、身体和情感上的联系。
+- 作品内容: 研究香港实验农场工作室“泥玩”（Soil Trust）：一位农人、一所设计学院和一家酒店合作，把厨余转化来再生本地土壤；论文分析志愿者与土壤关系的变化。
+- 实现方式: 分析大量田野材料，涵盖集体劳动、跨部门合作以及本地材料与物流的再利用。
+- 论文: https://doi.org/10.1080/15710882.2025.2604642 (CoDesign 2025)
+
+#### A Breathing Sea Wall: Haikou Jiangdong Beach Park — Turenscape (2024)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 海堤可以随潮汐呼吸，而不是阻挡潮汐。
+- 作品内容: 海口的一段混凝土硬质海堤被替换为阶梯式、可渗透的海岸景观，让潮水进出，重建海岸植被和潮间带栖息地。
+- 实现方式: 种植了植物的多孔阶梯结构吸收波浪能量，容纳耐盐植物和潮间带生物。
+- 图片: https://static.dezeen.com/uploads/2024/07/6565cnwuDbwqnDmibfG5sfLzSYfJvAlTQZ98TnU2_Z33nsize_2048-1.jpg
+- 项目主页: https://www.dezeen.com/awards/2024/winners/a-breathing-sea-wall-haikou-jiangdong-beach-park/
+
+#### Biodegradation as More-than-Human Unmaking — Fiona Bell, Nadia Campo Woytuk, Marie Louise Juul Søndergaard, Mirela Alistar (2024)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌, 生态系统
+- 核心想法: 设计一件物品的终点，就是与分解者合作。
+- 作品内容: 这篇期刊论文把生物降解看作与微生物、真菌和土壤一起完成的“反制作”，并把 ReClaym 与 Biomenstrual 两个项目放在一起对照解读。
+- 实现方式: 对两个“通过设计做研究”的项目做衍射式阅读，得出六个主题和与生物降解一起设计的建议。
+- 论文: https://doi.org/10.1145/3685526 (TOCHI 2024)
+
+#### Caring through — Gizem Oktay, Bahareh Barati, Ron Wakkary (2024)
+- 类型: 论文 · 生物: 真菌, 植物, 生态系统
+- 核心想法: 与活体材料相处的照护，是贯穿时间的实践，而不是一次性的动作。
+- 作品内容: 提出超越人类设计中照护的类型学（照护“为”、照护“关于”、照护“贯穿”），依据是照护如何涉及时间与劳动，并提出“caring through”来描述在非人类时间尺度上展开的照护。
+- 实现方式: 以与活体及曾经有生命的材料进行的设计实践为基础的概念研究。
+- 论文: https://doi.org/10.1145/3686169.3686211 (Halfway to the Future 2024)
+- 项目主页: https://doi.org/10.1145/3686169.3686211
+
+#### Coast 4C regenerative seaweed — Coast 4C (2024)
+- 类型: 产品与平台 · 生物: 藻类, 生态系统
+- 核心想法: 供应链可以被设计成修复其所依赖的海岸。
+- 作品内容: 与菲律宾小规模渔业社区共建的再生型海藻供应链，在修复海岸生态系统、供应生物基产品的同时为社区带来收入。
+- 实现方式: 社区海藻养殖、加工和收购协议构成可追溯的链条。
+- 视频: https://www.youtube.com/watch?v=F5NMqMfvQ58
+- 图片: https://earthshotprize.org/wp-content/uploads/2024/09/Coast4C-Hero-1920x1080-@72DPI.jpg
+- 项目主页: https://www.coast4c.com/
+
+#### Computational Compost — Marina Otero Verzier (2024)
+- 类型: 研究原型 · 生物: 动物, 细菌与微生物
+- 核心想法: 数据基础设施的废热可以养活分解者，而不是白白排放。
+- 作品内容: 一个原型装置，把运行宇宙起源模拟的计算机所散发的热量，用来驱动一台装有活蚯蚓和微生物的蚯蚓堆肥机。
+- 实现方式: 与多诺斯蒂亚国际物理中心合作，用服务器余热维持堆肥箱内蚯蚓和微生物所需的温度。
+- 图片: https://ars.electronica.art/starts-prize/files/2025/05/computational_compost-8-c-mikel_blasco_2-1024x576.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/computational-compost/
+
+#### Crip Reflections on Designing with Plants: Intersecting Disability Theory, Chronic Illness, and More-than-Human Design — Sylvia Janicki (2024)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 故障与维护揭示了植物、技术和病中的身体如何彼此依赖。
+- 作品内容: 一篇自我民族志，讲述设计、展出和维护一件植物互动生物艺术装置的经历，重点是其中的故障：需要照料的植物、出错的生物数据，以及设计者患慢性病的身体。
+- 实现方式: 借助“残障（crip）理论”拆解该装置的三次展出，围绕维护、生物数据和对控制的抵抗展开。
+- 论文: https://doi.org/10.1145/3643834.3661509 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/2-Figure1-1.png https://figures.semanticscholar.org/ac8ee0c0ebc9230071be4e826347bbbe0f2a655a/7-Figure2-1.png
+- 项目主页: https://doi.org/10.1145/3643834.3661509
+
+#### Design for Temporal Cohabitation — Larissa Pschetz (2024)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 主导性的钟表时间是被设计、被强加的；设计可以为它对其他物种的影响负责。
+- 作品内容: 与 Keili Koppel、Michelle Bastian 合作的 CHI 2024 论文，提出为人类与其他物种不同的时间一起设计，并批评“人类时间”与“自然时间”的二分。
+- 实现方式: 借鉴时间理论、去殖民研究和生态设计案例的批判性论文。
+- 论文: https://doi.org/10.1145/3613905.3644068 (CHI EA 2024)
+
+#### Embodied Traces: Multispecies Entanglement in Urban Spaces — Ashley Boone, Carl DiSalvo (2024)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 生产环境数据，是一次与其他物种的具身、带情感的相遇。
+- 作品内容: 一篇图文论文，记录迁徙季节志愿者在亚特兰大街头巡查、登记撞击建筑而死的鸟类。
+- 实现方式: 参与鸟类撞击监测、访谈志愿者并拍摄照片。
+- 论文: https://doi.org/10.1145/3643834.3660746 (DIS 2024 (pictorial))
+- 图片: https://figures.semanticscholar.org/65b8fff88ebcee8ae470704ba7a07ecfd86b3512/3-Figure3-1.png
+- 项目主页: https://doi.org/10.1145/3643834.3660746
+
+#### Kan Beh — Universidad del Istmo Biodesign Challenge team (2024)
+- 类型: 产品与平台 · 生物: 植物, 昆虫
+- 核心想法: 本地植物与祖传知识可以替代进口农药。
+- 作品内容: 一种对付玉米象的有机杀虫剂，由墨西哥蓟罂粟（Argemone mexicana）种子和蜂胶制成，融入危地马拉传统农耕，保护玉米。
+- 实现方式: 把种子提取物与蜂胶配制成储粮处理剂，并针对象甲进行测试。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064201-ZLDV2CI92WB8DBZ1Z7EW/KAN+-+BEH+1+MAIN+PHOTO.JPG https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064180-BO1HN7FQH0OT0TS2Y0PD/KAN+-+BEH+3.JPG
+- 项目主页: https://www.biodesignchallenge.org/universidad-del-istmo-unis-2024
+
+#### One Thousand Years of Infrastructuring Katsuobushi — Edward Masui (2024)
+- 类型: 论文 · 生物: 真菌, 动物
+- 核心想法: 基础设施由鱼、霉菌与人的时间节律相互对齐而成。
+- 作品内容: 追溯鲣节（经干燥与霉菌发酵的鲣鱼）千年的历史，展示生产、运输与地方食物景观如何构成基础设施，使人类与非人类的时间尺度相互协调。
+- 实现方式: 用参与式设计中的“基础设施化”理论框架分析鲣节生产与贸易的历史。
+- 论文: https://doi.org/10.1145/3661455.3669883 (PDC 2024)
+- 项目主页: https://doi.org/10.1145/3661455.3669883
+
+#### Posthumanist Care and Ecologies of Empathy: Investigating Design Potentials for Nature:Culture HCI — Pedro Galvão-Ferreira (2024)
+- 类型: 论文 · 生物: 生态系统, 植物
+- 核心想法: 自然与文化是同一片景观；设计同时照护二者的游戏。
+- 作品内容: 对马德拉岛 levada 步道（穿过森林的古老灌溉水渠）上徒步者的实地研究，借助叙事自述和文化探针，探索位置游戏如何培养对这一自然与文化遗产的照护。
+- 实现方式: 在现场进行情境研究，结合叙事自述和文化探针，用后人类主义照护视角分析。
+- 论文: https://doi.org/10.1145/3681716.3681731 (Mindtrek 2024)
+- 项目主页: https://doi.org/10.1145/3681716.3681731
+
+#### SEAGRAFT — SEAGRAFT team (RCA) (2024)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 设计能让水下草甸得以大规模重新种植的工具。
+- 作品内容: 一种恢复海草床的种植方法与工具，能高效地把海草种子和根状茎植入泥质或沙质海床。
+- 实现方式: 一种手持工具把幼苗和根茎片段以合适深度固定在松软沉积物中。
+- 视频: https://www.youtube.com/watch?v=cKYU2a_TaAQ
+- 项目主页: https://www.rca.ac.uk/
+
+#### Designing fertility otherwise: Of human, animal and soil relations — Nadia Campo Woytuk (2023)
+- 类型: 论文 · 生物: 人体, 动物, 生态系统
+- 核心想法: 针对身体、动物和土地的生育力技术共享一段父权历史；设计可以打破它。
+- 作品内容: 对人体、家畜和土壤三类“生育力”传感的女性主义分析，并提出“设计种子”和四幅唤起性图像，探索另一种生育力设计。
+- 实现方式: 对现有生育力技术的批判分析，加上以提示形式呈现的材料设计探索。
+- 论文: https://doi.org/10.21606/nordes.2023.36 (Nordes 2023)
+
+#### Living-with and Designing-with Plants — Oscar Tomico, Ron Wakkary (2023)
+- 类型: 书与文章 · 生物: 植物
+- 核心想法: 每天与植物一起生活，本身就是一种设计方法。
+- 作品内容: 一篇关于家庭工作室的文章：设计者与大量植物同住，借助补光灯、加湿器和智能浇水系统照料它们，并把日常照料本身当作与植物一起设计的方式。
+- 实现方式: 以第一人称记录植物工作室的搭建与维护，并用“与之共同设计”的超越人类理论加以解读。
+- 论文: https://doi.org/10.1145/3571589 (Interactions 2023)
+- 项目主页: https://doi.org/10.1145/3571589
+
+#### Message Ritual — Nina Rajcic (2023)
+- 类型: 研究原型 · 生物: 人体
+- 核心想法: 家居物件可以通过成为家庭仪式的一部分来重塑记忆。
+- 作品内容: 一盏装有 AI 系统的台灯，它聆听家中的对话，把当天的话题转化为机器生成的诗句，并被当作后人类的家庭成员来研究。
+- 实现方式: 把语音识别和语言模型嵌入台灯，并以“纠缠 HCI”的自传式研究进行评估。
+- 论文: https://doi.org/10.1145/3544548.3581363 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=zfoMS2hPFDg
+- 项目主页: https://doi.org/10.1145/3544548.3581363
+
+#### Ontological design approach for Alternative soil-human relations — Taku Onozato (2023)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 即使是路边的土壤，也可以作为一种关系而非资源来一起设计。
+- 作品内容: 作者为城市道路中央隔离带的土壤制作了一个建立关系的界面原型，并研究从业者的反思，探索本体论设计如何与土壤建立关系。
+- 实现方式: 采用“去物质化/再物质化”原型的本体论设计实践，并分析反思对话记录。
+- 论文: https://doi.org/10.21606/iasdr.2023.646 (IASDR 2023)
+- 项目主页: https://doi.org/10.21606/iasdr.2023.646
+
+#### Aerseeds — Aerseeds (Bike & Begum Ayaskan) (2022)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 借用树木的传播策略来扩大造林规模。
+- 作品内容: 用食物垃圾制成的空气动力学种子养分包，像翅果一样随风散播，抵达退化或难以到达的土地。
+- 实现方式: 按翅果形状模塑食物垃圾生物材料，内装种子和养分。
+- 视频: https://www.youtube.com/watch?v=JIRnANF4qIc
+- 图片: https://rca-media2.rca.ac.uk/images/AERSEEDs__Media-01.2e16d0ba.fill-1200x1200.jpg
+- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/aerseeds
+
+#### Desert Soilization — Yi Zhijian (2022)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 土壤是一种可以被设计的结构，而不只是有待发现的资源。
+- 作品内容: 把沙子与一种植物来源的糊状物混合，使沙粒黏结并像土壤一样保水保肥，让作物和草在原本的沙漠上生长。
+- 实现方式: 以纤维素为基础的黏结剂赋予沙粒约束，使其在力学和生态上像土壤一样起作用。
+- 视频: https://www.youtube.com/watch?v=Wm-Y9i-LTVw
+- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/Desert-Agricultural-Transformation-in-city.jpg
+- 项目主页: https://earthshotprize.org/winners-finalists/desert-agricultural-transformation/
+
+#### Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions — Aditi Maheshwari (2022)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 修复技术必须适应它所服务的人和土地的实际情况。
+- 作品内容: 作者以能自行钻入土壤的种子载体 e-seed 为探针，访谈了 14 位林业和农业专家，了解生态修复设备在野外需要满足的条件。
+- 实现方式: 以仿生设备为研究探针，对领域专家进行质性访谈。
+- 论文: https://doi.org/10.1145/3491102.3517664 (CHI 2022)
+- 视频: https://www.youtube.com/watch?v=_pHAL6bu_6c
+
+#### Green Gravel — SeaForester (2022)
+- 类型: 产品与平台 · 生物: 藻类, 生态系统
+- 核心想法: 一把播了种的砾石，就是可规模化重建水下森林的方法。
+- 作品内容: 在育苗场中让海带孢子附着在小石子上，再把石子撒到海底，幼藻附着生长，重建能储碳并庇护海洋生物的海藻林。
+- 实现方式: 在水槽中把海带配子体培养在砾石上数周，然后投放。
+- 视频: https://www.youtube.com/watch?v=MEYSbf0sDx0
+- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/SeaForester-Jan-Verbeek-Ines-Gill-Louro-in-lab.jpg
+- 项目主页: https://www.seaforester.org/
+
+#### Hutan wildlife corridors — Hutan (2022)
+- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
+- 核心想法: 为其他物种的移动而设计景观。
+- 作品内容: 一个由社区运营的项目，沿京那巴当岸河重新造林形成走廊，让猩猩、大象等物种能再次在破碎的森林之间迁移。
+- 实现方式: 本地团队种植本地树种、搭建绳桥，重新连接栖息地斑块。
+- 视频: https://www.youtube.com/watch?v=8mK1jbHjnTM
+- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/Hutan-worker-looks-up-at-jungle.jpg
+- 项目主页: https://www.hutan.org.my/
+
+#### IABR Down to Earth: WATERSCHOOL M4H+ — Studio Makkink & Bey (2022)
+- 类型: 思辨设计 · 生物: 真菌, 藻类, 昆虫
+- 核心想法: 从当地能生长的东西出发来规划一个街区。
+- 作品内容: 为鹿特丹 Merwe-Vierhavens 区打造的研究与学习环境，围绕昆虫、浮萍、海藻、木材和真菌五种本地资源，为 6,300 名未来居民规划栖居。
+- 实现方式: 受 IABR 委托，约四十位设计师为每种生命资源开发生产景观和原型。
+- 图片: https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1-6266a8e0ba6c8-IABR-Waterschool-M4H-Studio-Makkink-Bey-image-by-Aad-Hoogendoorn-LR-14-1500x882.jpeg https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2-626816db21932-IABR-WATERSCHOOL-M4H-FUNGI-production-landscape-by-Juhee-Hahm-in-colloboration-with-Studio-Makkink-Bey-1500x882.jpeg
+- 项目主页: https://www.dutchdesignawards.nl/en/gallery/iabr-down-to-earth-waterschool-m4h/
+
+#### Into the Island — DnA_Design and Architecture (2022)
+- 类型: 研究原型 · 生物: 生态系统, 动物, 植物
+- 核心想法: 对一座岛最有用的建筑，也许是一组让物种得以恢复的轻介入。
+- 作品内容: 受邀在福建湄洲岛设计一座博物馆，DnA 却提出在岛上六处地点做小规模介入，每处支持不同的活动和物种，并尽量利用现有结构。
+- 实现方式: 依据海岸生态调查，把采石场、堤坝和废弃结构改作栖息地和公共空间；与蒙特利尔加拿大建筑中心（CCA）合作拍成影片。
+- 视频: https://www.youtube.com/watch?v=tWPiG1bRmt0
+- 项目主页: https://designmuseum.org/exhibitions/more-than-human
+
+#### ReClaym our Compost: Biodegradable Clay for Intimate Making — Fiona Bell, Netta Ofer, Mirela Alistar (2022)
+- 类型: 论文 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 用承载自己饮食历史、最终回归土壤的材料来制作。
+- 作品内容: ReClaym 是用自家厨余堆肥做成的黏土，可以捏塑、模制和挤出，用完后能完全降解回土壤。
+- 实现方式: 把个人堆肥与无毒黏合剂混合后手工成形，并测试颜色、质地、传感和导电性。
+- 论文: https://doi.org/10.1145/3491102.3517711 (CHI 2022)
+- 视频: https://www.youtube.com/watch?v=s6UEKZRb2EY
+
+#### Resting Reef — Resting Reef (Louise Skajem & Aura Murillo) (2022)
+- 类型: 思辨设计 · 生物: 动物, 生态系统
+- 核心想法: 坟墓可以成为其他物种的家。
+- 作品内容: 一种殡葬服务与海洋墓园：骨灰被融入海底的人工礁结构中，这些礁体专为海洋生物附着而设计。
+- 实现方式: 含骨灰的礁体单元按利于附着的形态制作，放置在退化的海床上并加以监测。
+- 视频: https://vimeo.com/665981630
+- 图片: https://rca-media2.rca.ac.uk/images/Render_modified.2e16d0ba.fill-1200x1200.png
+- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/resting-reef
+
+#### Biomenstrual, Spellbook — Nadia Campo Woytuk (2021)
+- 类型: 书与文章 · 生物: 人体, 细菌与微生物, 植物
+- 核心想法: 把经期照护当作对与身体纠缠在一起的细菌、植物和土壤的照护。
+- 作品内容: 一本 DIY 经期照护“咒语书”，收录生物材料配方、可降解卫生巾的制作工具，以及把经期废弃物归还土壤和植物的仪式。
+- 实现方式: 来自 Nadia Campo Woytuk 与 Marie Louise Juul Søndergaard 的 Biomenstrual 项目，是一本可下载的生物材料实验、配方与仪式之书。
+- 视频: https://www.youtube.com/watch?v=pMt6eB7L-HI
+- 图片: https://cortex.persona.co/i/cf88ecc115a21db16266fb05503f3d3cb4b59cb740044cb05db5b9501d9043dd/gallery_image1-small.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Coral Reef Rescuer — Yihan Liu & Yang Zhang (2021)
+- 类型: 思辨设计 · 生物: 动物, 生态系统
+- 核心想法: 机器人可以被设计成珊瑚礁的照料者。
+- 作品内容: 一个形似蝠鲼的“母”机器人和若干“子”单元，帮助受过度捕捞、升温、酸化和污染破坏的珊瑚礁再生。
+- 实现方式: 母机携带子机器人，由它们投放珊瑚碎片并监测珊瑚礁健康。
+- 图片: https://web.archive.org/web/20211127105104im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/Coral-reef-rescuer1-600x424.jpg
+- 项目主页: https://web.archive.org/web/20211127105104/https://www.globalgradshow.com/project/coral-reef-rescuer/
+
+#### Coral Vita land-based coral farms — Coral Vita (2021)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 修复可以被设计成一个培育活基础设施的产业。
+- 作品内容: 陆基珊瑚养殖场利用微碎片化和辅助进化技术，以比自然快多达 50 倍的速度培育耐逆珊瑚，再移植到退化的珊瑚礁上。
+- 实现方式: 珊瑚碎片在水箱中融合生长，并在受控胁迫下筛选耐热群体。
+- 视频: https://www.youtube.com/watch?v=xDt5RoQpWXU
+- 图片: https://earthshotprize.org/wp-content/uploads/2021/09/CoralVita_2-v2-1-e1663706490703.jpeg https://earthshotprize.org/wp-content/uploads/2021/09/Gator-Halpern-Coral-Vita-facility-Grand-Bahama-1024x576.jpg
+- 项目主页: https://www.coralvita.co/
+
+#### Flash Forest — Flash Forest (2021)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 重新造林的速度和精度可以从空中来设计。
+- 作品内容: 无人机测绘场地并把已发芽的种子荚射入土壤，快速为烧毁和采伐过的土地造林，种子组合按本地物种定制。
+- 实现方式: 沿测绘好的种植路径，从无人机上发射含促发芽物质的种子荚。
+- 视频: https://www.youtube.com/watch?v=Lq_wVSQtmp0
+- 图片: https://cdn.prod.website-files.com/67d006c22ab4ba62f9fcd5ad/6a90ded04a80dca8e1c68a7f_Flash%20Forest%20OG%20Image.png
+- 项目主页: https://flashforest.ca/
+
+#### Plant Hotels: designing the imaginary foundations of communities — Yiying Wu (2021)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 共同照料植物，是形成和研究社区的一种轻巧方式。
+- 作品内容: 赫尔辛基的四家和斯德哥尔摩的一家“植物旅馆”邀请人们把盆栽放在共享空间里由他人照看，借此研究维系社区的那些不言明的意象。
+- 实现方式: 把关系艺术式的介入当作常人方法学的“破坏实验”（寄养植物的形式为推测）。
+- 论文: https://doi.org/10.1080/15710882.2021.1991958 (CoDesign 2021)
+- 项目主页: https://doi.org/10.1080/15710882.2021.1991958
+
+#### Wanting To Live Here — Jeffrey Bardzell, Shaowen Bardzell, Ann Light (2021)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 到已经在这样生活的社区里寻找后人类中心的设计，哪怕并不完美。
+- 作品内容: 一篇基于实验性生态农耕社区田野调查的 CHI 论文，把社区的实践与物件读作“人类中心功能主义之后”的设计范例。
+- 实现方式: 对农耕实践、社区营造和本地修复进行民族志研究与设计批评。
+- 论文: https://doi.org/10.1145/3411764.3445167 (CHI 2021)
+- 图片: https://figures.semanticscholar.org/ed7839dc6a0fa9bc24dd3b256e261a9dff8a7eac/7-Figure1-1.png
+
+#### LIFEBRIK — University of Cincinnati Biodesign Challenge team (2020)
+- 类型: 研究原型 · 生物: 生态系统, 植物
+- 核心想法: 把活的土壤打包成城市种植的积木。
+- 作品内容: 一块由矿物层、碳层、剖面层、生物层和覆盖层五层组成的土壤“砖”，让城市菜园的起步变得简单。
+- 实现方式: 每一层对应自然土壤的一个层次，其中生物层含有土壤生物。
+- 视频: https://www.youtube.com/watch?v=So7kEMqr8Lk
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595467099794-NZDUSYHTFVHCL4LOIKPR/Lifebrik.JPG
+- 项目主页: https://lifebrik.wixsite.com/welovesoil
+
+#### Nemo — Elias Thaddäus Pfuner (2020)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 通过设计完整的照护链条而不是单一工具，来扩大珊瑚礁修复的规模。
+- 作品内容: 为珊瑚礁修复机构设计的四阶段服务：规划平台、珊瑚碎片运输箱，以及协助移植苗圃培育珊瑚的无人机。
+- 实现方式: 包括服务设计、运输箱产品设计和一个水下无人机概念。
+- 图片: https://www.jamesdysonaward.org/Document/16e2ada0-c28e-44e3-8159-7e53570396d3/sceneedit.jpg https://www.jamesdysonaward.org/Document/fac6323b-9540-48d8-9332-519c041d2087/boxes.jpg
+- 项目主页: https://www.jamesdysonaward.org/en-GB/2020/project/nemo/
+
+#### Zebra Glass — College for Creative Studies Biodesign Challenge team (2020)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 把被视为“他者”的入侵物种变成本地的手工材料。
+- 作品内容: 把五大湖入侵的斑马贻贝和斑驴贻贝收集起来，作为碳酸钙来源，烧制具有地方特色的手工钠钙玻璃。
+- 实现方式: 贻贝壳经清洗、粉碎和煅烧，替代玻璃配料中开采来的石灰石。
+- 视频: https://www.youtube.com/watch?v=2nq5StOmac8
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594849170023-PJTG7LNJKKWLRZ73YTZH/Screen+Shot+2020-07-15+at+5.36.33+PM.png
+- 项目主页: https://www.ccscmdmateriallab.com/projects/zebraglass
+
+#### Seedballs — Seedballs Kenya (2019)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 给种子一个包装，让它自己等待合适的时机。
+- 作品内容: 把本地树木和草种裹进一层炭粉外壳，在雨季来临前保护它们不被动物吃掉；种子球可用手撒、弹弓打或飞机播撒。
+- 实现方式: 用废弃炭粉包裹种子；雨水使外壳崩解并触发发芽。
+- 视频: https://www.youtube.com/watch?v=zaxoZaDZE7g
+- 项目主页: https://seedballskenya.com/
+
+#### Connected Seeds and Sensors: Co-designing Internet of Things for sustainable smart cities with urban food-growing communities — Sara Heitlinger (2018)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 面向可持续城市的物联网，可以从留种和种植者的知识出发，而不是从效率出发。
+- 作品内容: 团队与伦敦的城市食物种植者共同设计了 Connected Seeds Library：一个装着种子包的柜子，连接着关于这些种子的故事和植物生长的传感器数据。
+- 实现方式: 与种植者开展参与式设计工作坊；种子包带有 NFC 标签，关联音频故事和土壤传感器。
+- 论文: https://doi.org/10.1145/3210604.3210620 (PDC 2018)
+- 图片: https://www.connectedseeds.org/wp-content/uploads/2017/01/home8.jpg https://www.connectedseeds.org/wp-content/uploads/2017/01/home1.jpg
+- 项目主页: https://www.connectedseeds.org/
+
+#### 3D Ocean Farming — GreenWave (2017)
+- 类型: 产品与平台 · 生物: 藻类, 动物, 生态系统
+- 核心想法: 农场可以被设计成改善所用水体的混养系统。
+- 作品内容: 再生型海洋农场：在竖直绳索上养殖海带，下方笼中养殖贻贝、牡蛎和扇贝，不需要饲料、淡水和化肥，同时吸收碳和氮。
+- 实现方式: 播种后的绳索悬挂在浮标下，占据竖直水体；不同深度的物种分别滤食和进行光合作用。
+- 视频: https://www.youtube.com/watch?v=j8ViaskDSeI
+- 项目主页: https://www.greenwave.org/
+
+#### Designing for Cohabitation: Naturecultures, Hybrids, and Decentering the Human in Design — Nancy Smith, Shaowen Bardzell (2017)
+- 类型: 论文 · 生物: 植物, 动物, 生态系统
+- 核心想法: 为与自然共居而设计，而不是为了控制自然。
+- 作品内容: 研究与植物、动物和土壤紧密共处的城市家庭农庄者，以此重新思考人与非人类共居的设计。
+- 实现方式: 对家庭农庄者进行民族志田野研究，并用 Haraway 的“自然文化”概念分析。
+- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=Az3oYUa8eSo
+- 图片: https://i.ytimg.com/vi/Az3oYUa8eSo/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3025453.3025948
+
+#### Sahara Forest Project — Sahara Forest Project (2017)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 把各项技术耦合起来，让每一项的副产品成为下一项的投入，并让沙漠重新长出植被。
+- 作品内容: 把海水冷却温室、聚光太阳能和海水淡化结合起来在沙漠中种粮，同时蒸发的海水在温室外形成湿润区域，用来种植耐盐植被。
+- 实现方式: 在卡塔尔和约旦的试点设施整合了蒸发式温室、太阳能和户外植被恢复地块。
+- 视频: https://www.youtube.com/watch?v=3aZ8E7hj8VU
+- 项目主页: https://www.saharaforestproject.com/
+
+### 留意与调谐
+
+把“留意的技艺”作为设计实践：倾听、感知并转译其他生命的信号与世界。
+
+#### Being Stone: Designing Nonhuman Embodiment in VR — Jiahe Li (2026)
+- 类型: 研究原型 · 生物: 生态系统
+- 核心想法: 化身为一个不会行动的物体，会动摇“能动性等于意图”的想法。
+- 作品内容: 一个 VR 体验：参与者化身为一块随时间变化却没有意图的石头；参与者把自己的能动性描述为间接、分散的。
+- 实现方式: 两种 VR 配置让参与者进入石头的时间与环境，并通过访谈研究其体验。
+- 论文: https://doi.org/10.1145/3802974.3808023 (DIS 2026)
+
+#### Designing Loofah Wearables For Embodied Ecological Reflection — Yingting Gao, Fiona Bell (2026)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 一种可降解的植物纤维，可以把环境状况显示在身体上。
+- 作品内容: 作者探索把丝瓜络（丝瓜干燥后的纤维）用作可穿戴材料，并加入会随温度、紫外线以及水和土壤酸碱度变化的指示剂。
+- 实现方式: 对丝瓜络进行材料探索，结合变色指示剂，整理为设计空间。
+- 论文: https://doi.org/10.1145/3731459.3774482 (TEI 2026)
+- 视频: https://www.youtube.com/watch?v=T9UnvfFXeSw
+- 项目主页: https://doi.org/10.1145/3731459.3774482
+
+#### Experiencing the More-than-Human Through Human Augmentation — Botao Amber Hu (2026)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 增强技术不只可以优化人，也可以用来接近非人类的环境界（Umwelt）。
+- 作品内容: 论文提出把人体增强技术挪用过来，创造临时的第一人称体验，让人的感官向其他物种的感官靠近。
+- 实现方式: 以生态现象学和生态身体学为基础，从 Nagel 的“成为一只蝙蝠是什么感觉？”出发的设计方法。
+- 论文: https://doi.org/10.21606/drs.2026.814 (DRS 2026)
+- 图片: https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/8-Figure3-1.png https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/7-Figure2-1.png
+
+#### Incommensurable durations: Fungal time and the limits of attunement in multispecies design — Nina Williams (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 多物种设计必须接受那些无法完全共享的时间。
+- 作品内容: 论文通过与真菌生长的相遇论证：生物的时间尺度与人类和资本主义的时间无法通约，这限制了设计者“调谐”的程度。
+- 实现方式: 反思一系列与真菌及其生长节律有关的实验。
+- 论文: https://doi.org/10.21606/drs.2026.1709 (DRS 2026)
+
+#### Listening with frogs: sonic thick mapping for more-than-human participation — Yen-Fu Chen (2026)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 在物种识别中保留模糊性，让重点落在聆听而非分类上。
+- 作品内容: Identifrog 是台湾的一款蛙鸣识别公民科学 App，用概率式 AI 和可交互的声谱图保留不确定性，把识别变成生态聆听。
+- 实现方式: 移动 App 结合概率式蛙鸣分类器和可交互声谱图；与多元参与者的互动形成了“声音厚描地图”。
+- 论文: https://doi.org/10.1080/15710882.2026.2726166 (CoDesign 2026)
+
 #### More-than-Human Self-Tracking — Anton Poikolainen Rosén (2026)
 - 类型: 论文 · 生物: 人体, 生态系统
 - 核心想法: 自我追踪可以测量你的身体对河流做了什么，而不只是对你自己。
@@ -1126,12 +1105,28 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 以尿液监测和饮食记录开展的第一人称设计研究，写成一份带有不确定性的记述。
 - 论文: https://doi.org/10.21606/drs.2026.778 (DRS 2026)
 
+#### Noticing Where the Forest Folds — Fredrik Bernerstedt (2026)
+- 类型: 论文 · 生物: 真菌, 生态系统
+- 核心想法: 采集活动训练了超越人类设计所需要的注意力。
+- 作品内容: 把采蘑菇重新理解为一种超越人类的设计方法：两场野外工作坊把设计者带进森林，直接去注意真菌及其栖息地。
+- 实现方式: 以北方森林中采蘑菇为核心的野外设计工作坊。
+- 论文: https://doi.org/10.1145/3772363.3798654 (CHI EA 2026)
+- 项目主页: https://doi.org/10.1145/3772363.3798654
+
 #### Occupying the sensors: Underwater sound in an urban river — Sebastián González Quintero (2026)
 - 类型: 论文 · 生物: 生态系统, 动物
 - 核心想法: 城市河流是一台放大器，放大了城市中我们听不到的部分。
 - 作品内容: 在波士顿查尔斯河的水下录音，揭示了基础设施噪音与水生动物如何共享这条河的声景。
 - 实现方式: 以水听器声学传感为方法，感知基础设施与非人的动态。
 - 论文: https://doi.org/10.21606/drs.2026.2397 (DRS 2026)
+
+#### Playing Alongside Mushroom — Linas Kristupas Gabrielaitis (2026)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 玩耍是按照对方的方式去与一个不可预测的活体伙伴相遇的方式。
+- 作品内容: 一项为期两个月的跨物种民族志：研究者尝试与生长中的真菌一起玩耍，并归纳出六种“游戏潜能”，例如在生长边缘做出游戏动作，并惊讶于真菌如何回应。
+- 实现方式: 与菌丝体进行为期两个月的跨物种民族志，并做主题分析。
+- 论文: https://doi.org/10.1145/3800645.3813057 (DIS 2026)
+- 项目主页: https://doi.org/10.1145/3800645.3813057
 
 #### Putting an ear to the ground: Attending to Frictions in Human-machine-soil Temporalities — Margrete Lodahl Rolighed, Lone Koefoed Hansen (2026)
 - 类型: 研究原型 · 生物: 植物, 昆虫, 生态系统
@@ -1171,21 +1166,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.21606/iasdr.2025.1149 (IASDR 2025)
 - 项目主页: https://doi.org/10.21606/iasdr.2025.1149
 
-#### Becoming compost: Fostering soil care through design practices — Annarita Bianco (2025)
-- 类型: 论文 · 生物: 生态系统, 细菌与微生物
-- 核心想法: 亲手处理和交换土壤，能让人意识到它的脆弱与生机。
-- 作品内容: 两场工作坊：参与者混合、交换土壤样本，制作放射状色谱图，并借助增强现实思考土壤作为跨物种交换之地。
-- 实现方式: 受环境人文启发，在参与式工作坊中结合土壤混合、放射状色谱和增强现实。
-- 论文: https://doi.org/10.21606/nordes.2025.45 (Nordes 2025)
-
-#### Biotopia — Marta Galvão Ferreira (2025)
-- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
-- 核心想法: 遗产可以包含塑造一个地方的物种与地景，而不只是人的历史。
-- 作品内容: 为丰沙尔自然历史博物馆和马德拉岛自然步道设计的跨媒体遗产体验，把访客与岛上的自然文化及超越人类的遗产联系起来。
-- 实现方式: 在欧盟遗产项目中开展协作式“通过设计进行研究”，为跨媒体体验提出三个设计构念。
-- 论文: https://doi.org/10.1145/3715336.3735803 (DIS 2025)
-- 视频: https://www.youtube.com/watch?v=bgnQpzwg-fA
-- 项目主页: https://doi.org/10.1145/3715336.3735803
+#### Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives — Yangyang Yang (2025)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 躺在溪流身边、透过“她”的眼睛看世界，会让人离开以人为中心的立场。
+- 作品内容: 参与者躺在一条有历史的城市溪流旁，通过移动增强现实，从溪流自身的视角经历它的故事：被原住民尊重、被当作下水道、再到共同生存的未来。
+- 实现方式: 一个包含多感官、具身提示的移动 AR 体验，并与 15 位参与者进行研究。
+- 论文: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
 
 #### Chornozem — Zurich University of the Arts (ZHdK) Biodesign Challenge team (2025)
 - 类型: 研究原型 · 生物: 生态系统, 植物
@@ -1196,23 +1182,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483509601-Z0K498U6DSAO7KMVVLBI/soil_curcumin_reaction.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1751483501163-2U6BIJPV1EMAZMTKB51L/drone_render.jpg
 - 项目主页: https://www.biodesignchallenge.org/zurich-university-of-the-arts-2025
 
-#### CryoScapes — Jiabao Li (2025)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 融化本身就是信息：一件由当地温度和湿度共同完成的雕塑。
-- 作品内容: 一台桌面 3D 冰打印机，源于斯瓦尔巴群岛北极圈驻留：它用冰打印出景观，观众看着它融化，同时 AI 为每个形态写下俳句式的诗。
-- 实现方式: 定制打印机把水逐层沉积到冷板上；摄像头把图像传给 AI 生成诗句；湿度和水质会改变每次打印结果。
-- 论文: https://doi.org/10.1145/3757369.3767614 (SIGGRAPH Asia 2025 Art Papers)
-- 视频: https://www.youtube.com/watch?v=EMdPmprYkWo
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b718d95f-af0b-4a42-a695-6414ad93bd6a/jiabao+li+arctic.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349975529-W4JNC44WXTHZY975I7EQ/jiabao+li+arctic+26.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349943092-89KX5AV7YAIXKUYMDEIN/jiabao+li+arctic+35.jpg
-- 项目主页: https://www.jiabaoli.org/cryoscapes
-
-#### Designing with Water: From Material to Metaphor to More-than-Human Mindset — Kuan-Ju Wu (2025)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 水可以是交互设计的合作者，而不只是媒介。
-- 作品内容: 一项研究计划，把水同时当作材料、隐喻和合作者：制作超声波操控等水基技术原型，并研究钓鱼等以水为中心的活动。
-- 实现方式: 结合原型制作、对水的美学分析和对以水为生的社区的民族志研究。
-- 论文: https://doi.org/10.1145/3689050.3704797 (TEI 2025)
-- 项目主页: https://doi.org/10.1145/3689050.3704797
+#### Critter Connect, wearable design for place-based & multisensory species encounters — Mathilde Gouin (2025)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 不必看见，也能感受到身边的其他物种。
+- 作品内容: Critter Connect 是一件可穿戴设备，当穿戴者靠近生物多样性丰富地点的三个物种时，它会根据地理位置给出触觉和声音提示，让看不见的存在变得可感。
+- 实现方式: 由地理位置触发的触觉与声音反馈，以多物种伦理和思辨方法设计，并在现场试点。
+- 论文: https://doi.org/10.1145/3715336.3735426 (DIS 2025)
+- 项目主页: https://doi.org/10.1145/3715336.3735426
 
 #### Diffractive Interfaces: Facilitating Agential Cuts in Forest Data Across More-than-human Scales — Elisa Giaccardi, Iohanna Nicenboim (2025)
 - 类型: 论文 · 生物: 植物, 生态系统
@@ -1221,47 +1197,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 借用 Barad 的“能动切割”概念，作者为森林主体模型的输出设计了一系列重构视角的界面原型。
 - 论文: https://doi.org/10.1145/3715336.3735404 (DIS 2025)
 
-#### Drumming for Love — Erzë Dinarama (2025)
-- 类型: 艺术作品 · 生物: 昆虫, 生态系统
-- 核心想法: 干旱最早的信号来自其他物种；倾听它们是一种政治行动。
-- 作品内容: 作品呈现水生昆虫以振动“击鼓”交流的方式，探讨在意大利皮埃蒙特暂停河流生态最低流量后，干旱如何被感知与治理。
-- 实现方式: 用接触式麦克风捕捉石蝇类昆虫在基质上的击鼓振动，与渔民、活动人士和科学家共同开发。
-- 视频: https://www.youtube.com/watch?v=CnlT9KzSHFU
-- 图片: https://ars.electronica.art/starts-prize/files/2026/06/drumming-for-love_erze_ogr__cover-1024x576.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/drumming-for-love/
-
-#### Echo of the Abyss — Beatrice Maggipinto (2025)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 让动物引领人们进入大多数人永远到达不了的生态系统。
-- 作品内容: 一次虚拟现实深海潜水：玩家扮演潜水员，在水生动物的引导下穿过宁静的海洋，与海洋生命建立联系。
-- 实现方式: 结合 HCI、生态心理学和“水的公地”理论设计的 VR 体验，并做了初步试点。
-- 论文: https://doi.org/10.1145/3689050.3704432 (TEI 2025)
-- 项目主页: https://doi.org/10.1145/3689050.3704432
-
-#### Echoes of the Abyss — Robertina Šebjanič (2025)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 让海洋生物所承受的隐秘毒性遗产进入公众感知。
-- 作品内容: 一项关于倾倒在波罗的海和亚得里亚海海床上的化学弹药的研究，在 TARA 科考船上展开，并转化为沉浸式声音与装置作品。
-- 实现方式: 把水听器录音、沉积物数据和档案研究组合成空间声音装置。
-- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/262/bilder/echos-of-abyss-adriatic1-by-robertina-sebjanic-photo-by-borut-brozovic-drugo-more-made-in-full-3-2-1_0.jpg?h=a2a2f083&itok=sPa6sli5
-- 项目主页: https://falling-walls.com/science-breakthroughs-success-stories-robertina-sebjanic
-
-#### From Flood to Future — EASD Castelló Biodesign Challenge team (2025)
-- 类型: 思辨设计 · 生物: 真菌, 生态系统
-- 核心想法: 应对洪水的设计应当开启关于照护与责任的讨论，而不只是提供修补方案。
-- 作品内容: 一个关于地中海地区韧性的思辨项目，回应 2024 年瓦伦西亚 DANA 洪灾，提出菌丝体铺装、抬高区域、市民预警应用和分布式治理。
-- 实现方式: 基于幸存者的证言；五项干预结合了仿生地面、AIoT 传感和公众参与工具。
-- 视频: https://www.youtube.com/watch?v=e2_M55DO7GQ
-- 项目主页: https://www.biodesignchallenge.org/easd-castello-2025
-
-#### Futile Efforts — Jiabao Li (2025)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 微小而荒诞的动作映照出真实地球工程的尺度困境。
-- 作品内容: 在北极拍摄的一组影像表演：艺术家把冰川融水重新冻住还给冰川、擦亮冰山、清扫雪山、用咖啡杯舀干海洋。
-- 实现方式: 在斯瓦尔巴群岛北极圈驻留期间拍摄的一镜到底短片表演。
-- 视频: https://www.youtube.com/watch?v=0VinJWBqinw
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/dd58197c-f787-4819-9242-fe633522836b/Jiabao+Li+Ars+Electronica+60.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/568a680d-17ba-404a-928b-d18767af7189/jiabao+li+arctic+43.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726337089750-CXYCOCLC291X30J36PAH/Jiabao+Li+Ars+Electronica+82.jpg
-- 项目主页: https://www.jiabaoli.org/futile-efforts
+#### Entangled Weathers: A Noticing Tactic — Claudia Núñez-Pacheco (2025)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 把身体内外的天气当作同一个纠缠的场域来留意。
+- 作品内容: 这篇图文论文提出“纠缠的天气”：一种留意内心状态与外部天气如何交叠的策略，并用作者设计实践中的故事来说明。
+- 实现方式: 借鉴女性主义的“风化”概念，提出测量与绘图、时空反思、风化叙事、隐喻化和臣服五种做法。
+- 论文: https://doi.org/10.1145/3698061.3726955 (C&C 2025)
 
 #### Knitting with unknown trees: assembling a more-than-human practice — Doenja Oogjes, Netta Ofer (2025)
 - 类型: 论文 · 生物: 植物
@@ -1269,14 +1210,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 这篇图文论文选取市政树木数据库中“未知”的条目（因错误、腐朽或缺失而未分类的树），用编织的方式去认识城市树木，而不是只靠量化。
 - 实现方式: 用编织把未知树木的数据转化为织物，并记录实践中的转变和妥协。
 - 论文: https://doi.org/10.1145/3715336.3735431 (DIS 2025)
-
-#### Nobody Told Me Rivers Dream — Superflux (2025)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 用 AI 加深人对一条河的注意，而不是从河里索取。
-- 作品内容: 三件手工制作的传感雕塑在泰晤士河边倾听鸟鸣、潮汐和天空；一个用这些数据以及民间传说和原住民生态知识训练的 AI，向观众提出关于河流的诗意问题。
-- 实现方式: 识别鸟鸣、水流和天气的开源传感器，把数据送入带 GPU 和 LED 显示屏的装置中的大语言模型。
-- 图片: https://superflux.in/wp-content/uploads/2025/08/Wide-Combine-ALL-ARTEFACTS-00.2-scaled.jpg
-- 项目主页: https://superflux.in/index.php/work/nobody-told-me-rivers-dream/
 
 #### Sensing Soil Habitability: Relational Data for Multispecies Attunement — Diya Samit, Bahareh Barati (2025)
 - 类型: 论文 · 生物: 生态系统, 细菌与微生物
@@ -1294,421 +1227,110 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=vYdiSg_3lxQ
 - 项目主页: https://doi.org/10.21606/iasdr.2025.992
 
-#### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
-- 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
-- 核心想法: 修复工作可以“倾听”它试图帮助的植物。
-- 作品内容: 一个针对重金属污染土壤的生物修复站，释放微生物来固定毒素；各单元共享数据，由人工智能根据植物恢复情况安排释放时机。
-- 实现方式: 受拟南芥信号与菌根网络启发，联网的修复站按需释放微生物菌剂。
-- 视频: https://www.youtube.com/watch?v=BqE8Wr__hjo
-- 图片: https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg
-- 项目主页: https://www.jamesdysonaward.org/en-GB/2025/project/soilrevive-2/
+#### Tangible theory as tool for attuning to non-human voices in domestic gardens — Mette Gislev Kjærsgaard, Tau Ulv Lenskjold (2025)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 把理论变成人们能在自家花园里使用的实物工具。
+- 作品内容: 作者访谈了六个欧洲国家的花园主人，把“斑块人类世”框架转化为一个实体原型工具，帮助人们感知花园里的非人类行动者。
+- 实现方式: 访谈结合原型，把关于非人类能动性的人类学理论转化为花园设计提示。
+- 论文: https://doi.org/10.21606/nordes.2025.14 (Nordes 2025)
+- 项目主页: https://doi.org/10.21606/nordes.2025.14
 
-#### Spectral Fragments: A Haunted Excavation of Vega and Handen — Nonhuman Nonsense (2025)
-- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
-- 核心想法: 通过幽灵来绘制一片土地：消失的物种、化石和被遗忘的物件。
-- 作品内容: 斯德哥尔摩附近 Handen 火车站的两幅大型印刷作品，把 Vega 与 Handen 被排干湿地中的考古发现、技术化石、濒危湿地物种和“闹鬼”物件绘成一张地图，纪念被城市取代的一切。
-- 实现方式: 与考古学家 Andreas Forsgren、生物学家 Annika Lydänge 合作的拼贴印刷作品；由哈宁厄市委托。
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg
-- 项目主页: https://nonhuman-nonsense.com/handen-vega-wall
+#### Articulating Felt Senses for More-Than-Human Design: A Viewpoint for Noticing — Claudia Núñez-Pacheco (2024)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 细致描述身体的感受，能让人察觉到与非人的关系。
+- 作品内容: 两位研究者用微观现象学访谈，细致描述自己使用远程临场机器人和手机拍照时的身体感受，并把这种描述当作“留意”超越人类关系的方法。
+- 实现方式: 通过微观现象学访谈引出前反思的身体经验，再分析其中的关系性质。
+- 论文: https://doi.org/10.1145/3643834.3661554 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/df961775586e2edf641f587ec561e987f9d241c4/8-Figure2-1.png
 
-#### The Coast Is Not a Line, It's a Zone — Feifei Zhou (2025)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 乡土渔具可以示范如何在索取的同时让生态系统得以再生。
-- 作品内容: 一件综合媒介装置，围绕帝汶岛古邦湾渔民使用的 sero（一种棕榈叶鱼栅）展开，这种鱼栅会放走幼鱼和小虾；作品认为海岸是许多物种共享的地带，而不是地图上的一条线。
-- 实现方式: 在古邦湾渔民社区做田野调查，结合绘图和一段用 gewang（贝叶棕）叶编成的 sero 实物，与 Gillian Bogart 合作完成，属于伦敦设计博物馆 More than Human 研究奖助项目。
-- 视频: https://www.youtube.com/watch?v=-VVtSP6bxoI
-- 项目主页: https://designmuseum.org/exhibitions/more-than-human
+#### Designing with more-than-human temporalities (festival stage) — Riel Bessai (2024)
+- 类型: 研究原型 · 生物: 昆虫, 生态系统
+- 核心想法: “留意”与“照护”能把其他物种的时间尺度带进设计过程。
+- 作品内容: 在法国设计并搭建一座音乐节舞台，借此说明设计师如何顺应昆虫与当地生态系统的节律，而不是只盯着固定的项目时间表。
+- 实现方式: 对舞台从构思到建造的过程做反思性案例研究，并从“留意”和“照护”两种实践来分析。
+- 论文: https://doi.org/10.21606/drs.2024.438 (DRS 2024)
+- 项目主页: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/99
 
-#### The Long Fall: A Descent into the Ocean's Living Memory — Jiabao Li (2025)
-- 类型: 艺术作品 · 生物: 藻类, 生态系统
-- 核心想法: 气候由你看不见的漂流细胞运转；换一个尺度去认识它们。
-- 作品内容: 一场 15 分钟的视听表演，从多佛白崖出发，跟随浮游生物化作“海洋雪”沉入深海，展示微小生命如何在地球上搬运碳。
-- 实现方式: 使用斯坦福 Manu Prakash 实验室 PlanktonScope 和 Gravity Machine 的显微数据，为 Ars Electronica Deep Space 等沉浸式屏幕渲染。
-- 论文: https://doi.org/10.1145/3799824.3812696 (SIGGRAPH 2026 Art Gallery)
-- 视频: https://www.youtube.com/watch?v=fe-Xd3gxcsU
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/3ed87691-3894-45e6-b18a-95ceeb67549d/fusebox_may_10_fullres+11.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162854807-TP6ZM25L23M7U7R1MRSU/Ars+electronica+jiabao+li+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162860831-6MFT77BBFIL4W29WOFXB/Ars+electronica+jiabao+li+7.jpg
-- 项目主页: https://www.jiabaoli.org/long-fall
-
-#### The More-Than-Human Rights Mural — César Rodríguez-Garavito (2025)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 法律也是一种设计材料：法律人格可以让一条河成为主体，而不是资源。
-- 作品内容: 一幅八米长的壁画，列出已被赋予法律权利的河流（包括哥伦比亚、厄瓜多尔、新西兰、印度和秘鲁等地），并附上保护它们的判决书和宪法条文摘录，观众要透过面具才能读到。
-- 实现方式: 纽约大学 More-Than-Human Life（MOTH）项目的研究，由设计师 Elena Landinez 以无 PVC 壁纸和醋酸纤维面具呈现。
-- 图片: https://designmuseum.org/image/4e4ed825-44d0-40d6-b9d7-9d325d381080?width=1200
-- 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
-
-#### ‘Nai Waan’ (泥玩): designing working relationships with soil — Markus Wernli (2025)
+#### Does Phosphorus Want to Sound Like That? — Anton Poikolainen Rosén (2024)
 - 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 集体的亲手土壤劳动，会建立起与土壤在有机、身体和情感上的联系。
-- 作品内容: 研究香港实验农场工作室“泥玩”（Soil Trust）：一位农人、一所设计学院和一家酒店合作，把厨余转化来再生本地土壤；论文分析志愿者与土壤关系的变化。
-- 实现方式: 分析大量田野材料，涵盖集体劳动、跨部门合作以及本地材料与物流的再利用。
-- 论文: https://doi.org/10.1080/15710882.2025.2604642 (CoDesign 2025)
+- 核心想法: 给一个养分循环配上声音，再追问那究竟是谁的声音。
+- 作品内容: 一篇 DRS 2024 论文：用声音让人体验磷循环以及这种稀缺养分的可能未来，并追问一种元素的“超越人类的声音”会是什么样。
+- 实现方式: 设计关于磷之未来的声音体验，并通过第一人称研究进行反思。
+- 论文: https://doi.org/10.21606/drs.2024.829 (DRS 2024)
 
-#### A Breathing Sea Wall: Haikou Jiangdong Beach Park — Turenscape (2024)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 海堤可以随潮汐呼吸，而不是阻挡潮汐。
-- 作品内容: 海口的一段混凝土硬质海堤被替换为阶梯式、可渗透的海岸景观，让潮水进出，重建海岸植被和潮间带栖息地。
-- 实现方式: 种植了植物的多孔阶梯结构吸收波浪能量，容纳耐盐植物和潮间带生物。
-- 图片: https://static.dezeen.com/uploads/2024/07/6565cnwuDbwqnDmibfG5sfLzSYfJvAlTQZ98TnU2_Z33nsize_2048-1.jpg
-- 项目主页: https://www.dezeen.com/awards/2024/winners/a-breathing-sea-wall-haikou-jiangdong-beach-park/
-
-#### BIOPOD — RISD Terra Carta teams (2024)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 找回被城市护岸抹去的湿地边缘。
-- 作品内容: 人体尺度的漂浮生态模块，种植湿地植被来净化城市水体，在城市滨水区恢复边缘湿地，并让公众参与公民科学监测。
-- 实现方式: 漂浮种植模块承载盐沼植物，其根系过滤水体并庇护生物。
-- 视频: https://www.youtube.com/watch?v=vt8I7JjWa0Y
-- 图片: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/702x720/125a1b009d/boipod.png
-- 项目主页: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
-
-#### Coast 4C regenerative seaweed — Coast 4C (2024)
-- 类型: 产品与平台 · 生物: 藻类, 生态系统
-- 核心想法: 供应链可以被设计成修复其所依赖的海岸。
-- 作品内容: 与菲律宾小规模渔业社区共建的再生型海藻供应链，在修复海岸生态系统、供应生物基产品的同时为社区带来收入。
-- 实现方式: 社区海藻养殖、加工和收购协议构成可追溯的链条。
-- 视频: https://www.youtube.com/watch?v=F5NMqMfvQ58
-- 图片: https://earthshotprize.org/wp-content/uploads/2024/09/Coast4C-Hero-1920x1080-@72DPI.jpg
-- 项目主页: https://www.coast4c.com/
-
-#### Computational Compost — Marina Otero Verzier (2024)
-- 类型: 研究原型 · 生物: 动物, 细菌与微生物
-- 核心想法: 数据基础设施的废热可以养活分解者，而不是白白排放。
-- 作品内容: 一个原型装置，把运行宇宙起源模拟的计算机所散发的热量，用来驱动一台装有活蚯蚓和微生物的蚯蚓堆肥机。
-- 实现方式: 与多诺斯蒂亚国际物理中心合作，用服务器余热维持堆肥箱内蚯蚓和微生物所需的温度。
-- 图片: https://ars.electronica.art/starts-prize/files/2025/05/computational_compost-8-c-mikel_blasco_2-1024x576.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/computational-compost/
-
-#### Coral Sonic Resilience — Marco Barotti (2024)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 声音可以是修复工具，而不只是表现自然的方式。
-- 作品内容: 3D 打印的水下雕塑向退化的珊瑚礁播放健康珊瑚礁的录音，用声音把鱼类和珊瑚幼体吸引回已白化、变得寂静的礁区。
-- 实现方式: 基于“珊瑚礁声音能吸引幼鱼”的研究，由雕塑外壳中的太阳能扬声器进行声学补充。
-- 视频: https://vimeo.com/1039181409
-- 图片: https://ars.electronica.art/starts-prize/files/2025/05/coralsonicresilience-5-c-marcobarotti-1024x576.jpg
-- 项目主页: https://www.marcobarotti.com/coral-sonic-resilience
-
-#### Embodied Traces: Multispecies Entanglement in Urban Spaces — Ashley Boone, Carl DiSalvo (2024)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 生产环境数据，是一次与其他物种的具身、带情感的相遇。
-- 作品内容: 一篇图文论文，记录迁徙季节志愿者在亚特兰大街头巡查、登记撞击建筑而死的鸟类。
-- 实现方式: 参与鸟类撞击监测、访谈志愿者并拍摄照片。
-- 论文: https://doi.org/10.1145/3643834.3660746 (DIS 2024 (pictorial))
-- 图片: https://figures.semanticscholar.org/65b8fff88ebcee8ae470704ba7a07ecfd86b3512/3-Figure3-1.png
-- 项目主页: https://doi.org/10.1145/3643834.3660746
-
-#### From the Ashes — Auburn University Biodesign Challenge team (2024)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 一片地景自身的残余物可以讲述它的保护故事。
-- 作品内容: 把密西西比州格兰德湾国家河口研究保护区计划烧除后的木炭制成手工“格兰德湾墨水”，并做成装置，讲述受控火烧为何有益生态系统。
-- 实现方式: 把计划烧除得到的松木炭研磨并调制成墨水，每瓶贴有 GPS 坐标，对应具体的火烧地点。
-- 视频: https://www.youtube.com/watch?v=ylhzglL8ATc
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643813176-S5A0MBFOT47DJ8O9INR8/ink+bottle+with+GPS+coordinates.jpg
-- 项目主页: https://www.biodesignchallenge.org/auburn-university-2024
-
-#### Kan Beh — Universidad del Istmo Biodesign Challenge team (2024)
-- 类型: 产品与平台 · 生物: 植物, 昆虫
-- 核心想法: 本地植物与祖传知识可以替代进口农药。
-- 作品内容: 一种对付玉米象的有机杀虫剂，由墨西哥蓟罂粟（Argemone mexicana）种子和蜂胶制成，融入危地马拉传统农耕，保护玉米。
-- 实现方式: 把种子提取物与蜂胶配制成储粮处理剂，并针对象甲进行测试。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064201-ZLDV2CI92WB8DBZ1Z7EW/KAN+-+BEH+1+MAIN+PHOTO.JPG https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718638064180-BO1HN7FQH0OT0TS2Y0PD/KAN+-+BEH+3.JPG
-- 项目主页: https://www.biodesignchallenge.org/universidad-del-istmo-unis-2024
-
-#### Pheno-data — Youngsil Lee, Larissa Pschetz (2024)
+#### Encountering Human-Plant Relations: a Discussion of How Interaction Design Can encourage Human Sensibility to More-than-human Plants — Lone Koefoed Hansen (2024)
 - 类型: 论文 · 生物: 植物
-- 核心想法: 活的生物本身就是其环境的记录，要学会去读它。
-- 作品内容: 一个概念与虚构工作坊：把番茄植株不断变化的性状（颜色、形状、生长）当作关于其生长环境的数据，作为抽象数字数据之外的另一种选择。
-- 实现方式: 把在不同条件下种出的番茄作为工作坊道具，发展出“表型化”（pheno-fication）这一获取表型数据的实践。
-- 论文: https://doi.org/10.1080/07370024.2023.2300779 (Human–Computer Interaction 2024)
+- 核心想法: 交互设计可以培养人对植物的敏感，而不只是监测植物。
+- 作品内容: 把两件植物与电子结合的设计实验交给人们使用，观察交互设计能否让人更留意植物。
+- 实现方式: 部署植物电子原型，通过访谈、日记和观察进行研究。
+- 论文: https://doi.org/10.1145/3643834.3661586 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/5-Figure2-1.png https://figures.semanticscholar.org/72d62b1ace5a7513c523e6bb40ade97f4cee0ecb/4-Figure1-1.png
+- 项目主页: https://doi.org/10.1145/3643834.3661586
 
-#### Posthumanist Care and Ecologies of Empathy: Investigating Design Potentials for Nature:Culture HCI — Pedro Galvão-Ferreira (2024)
-- 类型: 论文 · 生物: 生态系统, 植物
-- 核心想法: 自然与文化是同一片景观；设计同时照护二者的游戏。
-- 作品内容: 对马德拉岛 levada 步道（穿过森林的古老灌溉水渠）上徒步者的实地研究，借助叙事自述和文化探针，探索位置游戏如何培养对这一自然与文化遗产的照护。
-- 实现方式: 在现场进行情境研究，结合叙事自述和文化探针，用后人类主义照护视角分析。
-- 论文: https://doi.org/10.1145/3681716.3681731 (Mindtrek 2024)
-- 项目主页: https://doi.org/10.1145/3681716.3681731
+#### Becoming Solar — Angella Mackey, Ron Wakkary (2023)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 去调适于一种能源，而不只是消耗它。
+- 作品内容: 两位设计者用一年时间改变日常生活，去调适于太阳与太阳能，并反思这如何让自己退出中心，并看见太阳能中其他的非人类行动者。
+- 实现方式: 为期一年、关于太阳能实践的第一人称设计研究，以超越人类设计的视角加以分析。
+- 论文: https://doi.org/10.46467/tdd39.2023.248-269 (Temes de Disseny 2023)
+- 项目主页: https://doi.org/10.46467/tdd39.2023.248-269
 
-#### Rendering Soil Care Across Hotel, Retailer, And Farm With A Mutuality Service Blueprint — Markus Wernli (2024)
-- 类型: 论文 · 生物: 生态系统, 细菌与微生物
-- 核心想法: 服务设计工具可以把土壤当作一方，其需要同样必须被满足。
-- 作品内容: 在香港为期 43 周的试点中，13 家酒店和 17 位零售顾客把 4800 升厨余送去堆肥，种出 1500 公斤作物；作者把这一过程画成同时服务土壤和人的服务蓝图。
-- 实现方式: 根据厨余堆肥试点的数据，把服务蓝图改造成“互惠服务蓝图”。
-- 论文: https://doi.org/10.21606/drs.2024.415 (DRS 2024)
+#### The everyday enactment of interfaces — Evert van Beek, Elisa Giaccardi, Alessandro Bozzon (2023)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 界面是人与设备在出问题时共同上演出来的东西。
+- 作品内容: 对 11 个使用智能家居自动化的家庭进行的民族志研究，把家视为超越人类的场景，展示界面如何在危机与冲突的时刻中生成。
+- 实现方式: 以人与技术“共同表演”的视角分析民族志田野资料。
+- 论文: https://doi.org/10.1080/07370024.2023.2283536 (HCI Journal 2023)
+- 项目主页: https://doi.org/10.1080/07370024.2023.2283536
 
-#### SEAGRAFT — SEAGRAFT team (RCA) (2024)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 设计能让水下草甸得以大规模重新种植的工具。
-- 作品内容: 一种恢复海草床的种植方法与工具，能高效地把海草种子和根状茎植入泥质或沙质海床。
-- 实现方式: 一种手持工具把幼苗和根茎片段以合适深度固定在松软沉积物中。
-- 视频: https://www.youtube.com/watch?v=cKYU2a_TaAQ
-- 项目主页: https://www.rca.ac.uk/
+#### Turner Boxes — Ron Wakkary, Doenja Oogjes (2023)
+- 类型: 研究原型 · 生物: 昆虫, 植物
+- 核心想法: 对是否干预蜜蜂生态的矛盾心态，本身就是多物种设计的资源。
+- 作品内容: 放在城市花园里的折叠纸板相机盒，在根据天气数据预测的时段拍摄野蜂；与养蜂人和生态学家一起设计。
+- 实现方式: 相机根据天气预测的蜜蜂活跃时段触发拍摄，图像用于训练模型；论文借女性主义的“衍射”概念分析关于电磁场、糖水喂食和干预程度的设计选择。
+- 论文: https://doi.org/10.1145/3563657.3596081 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=eDGaZDvnuto
+- 图片: https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/5-Figure2-1.png https://figures.semanticscholar.org/9b582caed4b90e97dcd47942959d58d5c76e4273/500px/6-Figure4-1.png
+- 项目主页: https://doi.org/10.1145/3563657.3596081
 
-#### SeaWeaver — Leonardo Hummel (2024)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 编织手艺能以低成本、可推广的方式做出类似礁石的复杂结构。
-- 作品内容: 用手工编织金属做成花环般复杂形体的人工鱼礁单元，为鱼和珊瑚提供天然礁石那样的缝隙与附着面；试点已运行三年。
-- 实现方式: 参数化的编织图案生成复杂几何；简单的电化学处理提高耐腐蚀性，并促进矿物在结构上生长。
-- 论文: https://doi.org/10.21606/drs.2024.615 (DRS 2024)
-- 项目主页: https://dl.designresearchsociety.org/drs-conference-papers/drs2024/researchpapers/157
+#### Urban Recipes — Yuxi Liu (2023)
+- 类型: 论文 · 生物: 生态系统, 植物, 人体
+- 核心想法: 一份食谱可以是一种在城市中练习照护的方法。
+- 作品内容: 一个把城市漫游与写食谱结合起来的项目，把日常路线和惯例变成与城市中的人和非人建立关系的提示。
+- 实现方式: 情境主义式的漫游与反复的食谱写作结合，汇编成一本食谱书和一个“试验厨房”。
+- 论文: https://doi.org/10.21606/nordes.2023.65 (Nordes 2023)
+- 项目主页: https://doi.org/10.21606/nordes.2023.65
 
-#### The Reef — Anton Vervoort (2024)
-- 类型: 研究原型 · 生物: 动物, 藻类, 生态系统
-- 核心想法: 入侵的滤食性动物也可以被招募为净水伙伴。
-- 作品内容: 一种为斑马贻贝提供附着的结构，优化它们的滤水作用以去除水体中过量的农业营养物，用非化学方式对抗蓝藻水华。
-- 实现方式: 层叠面板为受影响湖泊中的斑马贻贝群落提供最大附着面积和水流。
-- 图片: https://www.jamesdysonaward.org/Document/24f4911d-b03f-40ef-9462-af37a097dd22/afbeelding1.jpg https://www.jamesdysonaward.org/Document/9b4f6ebf-14c4-4903-a767-f9c4ece44066/afbeelding3.jpg
-- 项目主页: https://www.jamesdysonaward.org/en-GB/2024/project/the-reef/
+#### What mosses can teach us about design fabulations and feminist more-than-human care — Marie Louise Juul Søndergaard (2023)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 虚构让设计者追问：被移出中心的是哪种人，被带到前台的又是谁的声音。
+- 作品内容: 作者拍摄了显微镜下的短片《I Moss You》，讲述苔藓与月经、太空旅行与地球生存的故事，作为一种女性主义的设计虚构。
+- 实现方式: 通过设计做研究：用显微镜拍摄苔藓，并结合女性主义后人类理论。
+- 论文: https://doi.org/10.1080/07370024.2023.2269893 (HCI Journal 2023)
 
-#### CoCo: Compost Companion — Debbie Jung (2023)
-- 类型: 论文 · 生物: 细菌与微生物, 人体
-- 核心想法: 一个有情绪的伙伴能让堆肥像是在照顾某个生命。
-- 作品内容: CoCo 是一个像小动物的可穿戴伙伴，用 GPS 标出校园堆肥点，显示学生堆肥或浪费了多少食物，堆肥做得好时它会摇尾巴。
-- 实现方式: 通过 GPS、OLED 屏和舵机驱动的尾巴，提供信息与情感反馈。
-- 论文: https://doi.org/10.1145/3544549.3583945 (CHI EA 2023)
-- 图片: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png
+#### What the Sensor Knows: More-Than-Human Knowledge Co-Production in Wood Carving — Charlotte Nordmoen (2023)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 传感数据能讲述材料相遇的故事，而不仅是数字。
+- 作品内容: 在木雕工具上安装传感器，并把它们当作共同研究者：传感信号被理解为木材、刀刃和雕刻者之间的情境痕迹，而不是带噪声的测量值。
+- 实现方式: 结合 Barad 的能动实在论和 Harman 的“工具存在”，对木雕中的传感信号做质性解读。
+- 论文: https://doi.org/10.1145/3563657.3596075 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=n7OupBMq5bA
 
-#### Haunted Waters: The Chemical Cocktail Bar — Nonhuman Nonsense (2023)
-- 类型: 艺术作品 · 生物: DNA 与分子, 生态系统
-- 核心想法: 把看不见的污染物讲成幽灵，让人们愿意谈论它们。
-- 作品内容: 一间“化学鸡尾酒吧”，用世界各地寄来的受污染水样调制（不可饮用的）鸡尾酒，把每种污染物当作萦绕水体的“幽灵”，讲述工业、殖民与生态伤害的历史。
-- 实现方式: 公众采集的水样由欧盟联合研究中心（JRC SciArt）水质实验室的 Caterina Cacciatori 协助分析，以酒吧装置形式在布鲁塞尔 iMAL 展出，并在柏林 Galerie Im Turm 举办工作坊。
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg
-- 项目主页: https://nonhuman-nonsense.com/hauntedwatersproject
+#### Cultivating more-than-human care: Exploring bird watching as a landscaping practice on the example of sand martins and flooded gravel pits — Johanna Just (2022)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 观鸟是一种照护景观的方式，设计者可以借鉴。
+- 作品内容: 以观鸟者与在废弃砾石坑中筑巢的崖沙燕为例的两个案例，展示观鸟如何培养对鸟类及共同景观的关注，这对建筑师很有启发。
+- 实现方式: 借助多物种研究与景观思维的质性案例研究。
+- 论文: https://doi.org/10.1016/j.foar.2022.04.007 (Frontiers of Architectural Research 2022)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr2_lrg.jpg https://ars.els-cdn.com/content/image/1-s2.0-S2095263522000462-gr5_lrg.jpg
 
-#### LilyPad — Aula Future + FirstHand Biodesign Challenge team (2023)
-- 类型: 研究原型 · 生物: 动物, 植物, 生态系统
-- 核心想法: 农场可以同时成为为它净水的动物的栖息地。
-- 作品内容: 为费城设计的漂浮农场，用河水灌溉，并借助濒危淡水贻贝净化河水；早期原型在一个社区中心附近的水库上测试。
-- 实现方式: 滤食性贻贝悬挂在种满作物的浮筏下方，作物吸收河水。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884048795-19WZVB44P2MY7IYJENKQ/Screenshot+2023-06-27+at+12.39.25+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687884054078-FFLHHHIMKN8VYFJFS7VQ/Screenshot+2023-06-27+at+12.39.42+PM.png
-- 项目主页: https://www.biodesignchallenge.org/aula-future-firsthand-2023
-
-#### Once a Glacier — Jiabao Li (2023)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 对冰川的哀悼，可以讲成两个生命之间的关系。
-- 作品内容: 一部 15 分钟的互动 VR 电影：一个女孩在成长中试图保住一块冰川冰，而冰川正在消失；故事取材于伊努皮亚克人“冰川会唱出记忆”的传说。
-- 实现方式: 实时交互 VR，取材于艺术家童年在阿拉斯加把冰块藏在冰箱里的经历。
-- 论文: https://doi.org/10.1145/3681759.3688920 (SIGGRAPH Asia 2024 XR)
-- 视频: https://www.youtube.com/watch?v=Vao4pbmbJLQ
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/96b3096b-70dc-42ea-a398-080665d6229b/jiabao+li+once+a+glacier.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397034-3E4TCOR94VU72TFTE2TP/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397032-ESFAJWAYUBAONWRGA4W3/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+13.jpg
-- 项目主页: https://www.jiabaoli.org/once-a-glacier
-
-#### Ontological design approach for Alternative soil-human relations — Taku Onozato (2023)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 即使是路边的土壤，也可以作为一种关系而非资源来一起设计。
-- 作品内容: 作者为城市道路中央隔离带的土壤制作了一个建立关系的界面原型，并研究从业者的反思，探索本体论设计如何与土壤建立关系。
-- 实现方式: 采用“去物质化/再物质化”原型的本体论设计实践，并分析反思对话记录。
-- 论文: https://doi.org/10.21606/iasdr.2023.646 (IASDR 2023)
-- 项目主页: https://doi.org/10.21606/iasdr.2023.646
-
-#### TERRA XENOBIOTICA — Saša Spačal (2023)
-- 类型: 艺术作品 · 生物: 生态系统, 细菌与微生物
-- 核心想法: 把土壤读作一份活的档案，记录航空旅行留下的毒素。
-- 作品内容: 一件关于机场土壤被 PFAS“永久化学品”污染的装置：墙上挂着 85 张用逐步加入 PFAS 的土壤制成的土壤色谱图，观众可以取下一张放到扫描仪下读取污染程度。
-- 实现方式: 在柏林自由大学 Rillig 实验室驻留期间完成：用 Pfeiffer 式纸色谱处理加入 PFAS 的土壤，建立数据集，训练识别 PFAS 污染的神经网络。
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0017-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0053-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg
-- 项目主页: https://artlaboratory-berlin.org/exhibitions/terra-xenobiotica/
-
-#### Time Sensitive — Jiabao Li (2023)
-- 类型: 艺术作品 · 生物: 生态系统, 植物
-- 核心想法: 冰川变化已不再是“深时”；把它压缩成一张能看着形成的印相。
-- 作品内容: 用蓝晒、绘画和延时影像记录冰川冰的融化，以及冰川退去后到来的柳兰和北极鸟类；与冰川学家 Ginny Catania 合作。
-- 实现方式: 让冰块在阳光下于蓝晒布上融化，记录融化轨迹；再用融化的冰川水在岩石上作画。
-- 视频: https://www.youtube.com/watch?v=SCK9lXUwNYY
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f79d5437-1f99-4abe-8bc6-a73c66f26351/Jiabao+Li+Time+Sensitive+6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bcb58264-4076-4398-a28e-430e7d260260/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg
-- 项目主页: https://www.jiabaoli.org/time-sensitive
-
-#### Unsettling Participation by Foregrounding More-than-Human Relations in Digital Forests — Michelle Westerlaken, Jennifer Gabrys (2023)
-- 类型: 书与文章 · 生物: 植物, 生态系统
-- 核心想法: 森林中的参与从来不只是人的；数字项目应当把这一点纳入考虑。
-- 作品内容: 这篇文章展示树木、真菌、土壤和传感器如何打乱、扩展并重新分配数字森林监测项目中的“参与”。
-- 实现方式: 以 Smart Forests 研究项目为素材，依次讨论三种“扰动”过程。
-- 论文: https://doi.org/10.1215/22011919-10216173 (Environmental Humanities 2023)
-
-#### Visualising Forest Sound: Justice-led Ecoacoustic Data Interaction — Joycelyn Longdon (2023)
-- 类型: 论文 · 生物: 生态系统, 动物
-- 核心想法: 生态声学数据应该与森林社区一起解读，而不只是用来研究他们。
-- 作品内容: 一个博士研究项目：开发可视化工具，与森林边缘社区一起探索长时段的森林录音，让他们在保护工作中不只是数据采集者。
-- 实现方式: 以数据正义为框架，参与式设计大型生态声学数据集的可视化。
-- 论文: https://doi.org/10.1145/3544549.3577039 (CHI 2023)
-- 项目主页: https://doi.org/10.1145/3544549.3577039
-
-#### Aerseeds — Aerseeds (Bike & Begum Ayaskan) (2022)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 借用树木的传播策略来扩大造林规模。
-- 作品内容: 用食物垃圾制成的空气动力学种子养分包，像翅果一样随风散播，抵达退化或难以到达的土地。
-- 实现方式: 按翅果形状模塑食物垃圾生物材料，内装种子和养分。
-- 视频: https://www.youtube.com/watch?v=JIRnANF4qIc
-- 图片: https://rca-media2.rca.ac.uk/images/AERSEEDs__Media-01.2e16d0ba.fill-1200x1200.jpg
-- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/aerseeds
-
-#### Blue Ceramics — Rachel Ann Arredondo, Lining Yao (2022)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 和生态系统一起设计材料：让海底的水流、种子和沉积物决定形态。
-- 作品内容: 用数字制造做出的陶瓷砖，在烧制中变形为能保护海草种子、截留沉积物的形状，是与海洋科学家一起为修复海草床设计的。
-- 实现方式: 打印的黏土图案在窑中不均匀收缩，让平板卷曲成立体形态；形体在 Grasshopper 中迭代，依据科学家描述的海草种子与沉积物行为来调整。
-- 论文: https://doi.org/10.1145/3527927.3531453 (C&C 2022)
-- 视频: https://www.youtube.com/watch?v=e0X39ZRc3iM
-- 图片: https://figures.semanticscholar.org/08d0957a0fa0b92e956c9689306a34b74cae83ac/500px/5-Figure8-1.png
-- 项目主页: https://doi.org/10.1145/3527927.3531453
-
-#### Desert Soilization — Yi Zhijian (2022)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 土壤是一种可以被设计的结构，而不只是有待发现的资源。
-- 作品内容: 把沙子与一种植物来源的糊状物混合，使沙粒黏结并像土壤一样保水保肥，让作物和草在原本的沙漠上生长。
-- 实现方式: 以纤维素为基础的黏结剂赋予沙粒约束，使其在力学和生态上像土壤一样起作用。
-- 视频: https://www.youtube.com/watch?v=Wm-Y9i-LTVw
-- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/Desert-Agricultural-Transformation-in-city.jpg
-- 项目主页: https://earthshotprize.org/winners-finalists/desert-agricultural-transformation/
-
-#### Designing Tools and Interfaces for Ecological Restoration: An Investigation into the Opportunities and Constraints for Technological Interventions — Aditi Maheshwari (2022)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 修复技术必须适应它所服务的人和土地的实际情况。
-- 作品内容: 作者以能自行钻入土壤的种子载体 e-seed 为探针，访谈了 14 位林业和农业专家，了解生态修复设备在野外需要满足的条件。
-- 实现方式: 以仿生设备为研究探针，对领域专家进行质性访谈。
-- 论文: https://doi.org/10.1145/3491102.3517664 (CHI 2022)
-- 视频: https://www.youtube.com/watch?v=_pHAL6bu_6c
-
-#### Green Gravel — SeaForester (2022)
-- 类型: 产品与平台 · 生物: 藻类, 生态系统
-- 核心想法: 一把播了种的砾石，就是可规模化重建水下森林的方法。
-- 作品内容: 在育苗场中让海带孢子附着在小石子上，再把石子撒到海底，幼藻附着生长，重建能储碳并庇护海洋生物的海藻林。
-- 实现方式: 在水槽中把海带配子体培养在砾石上数周，然后投放。
-- 视频: https://www.youtube.com/watch?v=MEYSbf0sDx0
-- 图片: https://earthshotprize.org/wp-content/uploads/2022/11/SeaForester-Jan-Verbeek-Ines-Gill-Louro-in-lab.jpg
-- 项目主页: https://www.seaforester.org/
-
-#### IABR Down to Earth: WATERSCHOOL M4H+ — Studio Makkink & Bey (2022)
-- 类型: 思辨设计 · 生物: 真菌, 藻类, 昆虫
-- 核心想法: 从当地能生长的东西出发来规划一个街区。
-- 作品内容: 为鹿特丹 Merwe-Vierhavens 区打造的研究与学习环境，围绕昆虫、浮萍、海藻、木材和真菌五种本地资源，为 6,300 名未来居民规划栖居。
-- 实现方式: 受 IABR 委托，约四十位设计师为每种生命资源开发生产景观和原型。
-- 图片: https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/1-6266a8e0ba6c8-IABR-Waterschool-M4H-Studio-Makkink-Bey-image-by-Aad-Hoogendoorn-LR-14-1500x882.jpeg https://www.dutchdesignawards.nl/wp-content/uploads/2022/06/2-626816db21932-IABR-WATERSCHOOL-M4H-FUNGI-production-landscape-by-Juhee-Hahm-in-colloboration-with-Studio-Makkink-Bey-1500x882.jpeg
-- 项目主页: https://www.dutchdesignawards.nl/en/gallery/iabr-down-to-earth-waterschool-m4h/
-
-#### Into the Island — DnA_Design and Architecture (2022)
-- 类型: 研究原型 · 生物: 生态系统, 动物, 植物
-- 核心想法: 对一座岛最有用的建筑，也许是一组让物种得以恢复的轻介入。
-- 作品内容: 受邀在福建湄洲岛设计一座博物馆，DnA 却提出在岛上六处地点做小规模介入，每处支持不同的活动和物种，并尽量利用现有结构。
-- 实现方式: 依据海岸生态调查，把采石场、堤坝和废弃结构改作栖息地和公共空间；与蒙特利尔加拿大建筑中心（CCA）合作拍成影片。
-- 视频: https://www.youtube.com/watch?v=tWPiG1bRmt0
-- 项目主页: https://designmuseum.org/exhibitions/more-than-human
-
-#### Legal Personhood for the Mar Menor — Teresa Vicente (2022)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 公民可以把一个生态系统作为权利主体写进法律。
-- 作品内容: 欧洲最大的咸水潟湖接连发生鱼类大量死亡后，一项收集到 60 多万个签名的公民提案促使西班牙通过第 19/2022 号法律，赋予 Mar Menor 及其流域法人资格。
-- 实现方式: 公民立法提案；法律为潟湖设立代表委员会、监督委员会和科学委员会。
-- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mar_Menor._Vista_a%C3%A9rea.jpg/1280px-Mar_Menor._Vista_a%C3%A9rea.jpg
-- 项目主页: https://www.boe.es/buscar/act.php?id=BOE-A-2022-16019
-
-#### ReClaym our Compost: Biodegradable Clay for Intimate Making — Fiona Bell, Netta Ofer, Mirela Alistar (2022)
-- 类型: 论文 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 用承载自己饮食历史、最终回归土壤的材料来制作。
-- 作品内容: ReClaym 是用自家厨余堆肥做成的黏土，可以捏塑、模制和挤出，用完后能完全降解回土壤。
-- 实现方式: 把个人堆肥与无毒黏合剂混合后手工成形，并测试颜色、质地、传感和导电性。
-- 论文: https://doi.org/10.1145/3491102.3517711 (CHI 2022)
-- 视频: https://www.youtube.com/watch?v=s6UEKZRb2EY
-
-#### Relating to Soil: Chromatography as a Tool for Environmental Engagement — Anton Poikolainen Rosén (2022)
-- 类型: 论文 · 生物: 生态系统, 细菌与微生物
-- 核心想法: 缓慢、定性、亲手做的检测，能让人以数字传感器做不到的方式与土壤建立关系。
-- 作品内容: 这篇图文论文记录了城市社区农场里的土壤照护工作坊：参与者用土壤色谱法，把土壤健康状况显影成纸上的彩色图案。
-- 实现方式: 把土壤样本溶解后在经硝酸银处理的滤纸上扩散，形成放射状色谱图，由农人一起解读。
-- 论文: https://doi.org/10.1145/3532106.3533503 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=KlObabEVJVg
-
-#### The Vault of Life — Superflux (2022)
-- 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
-- 核心想法: 把生物多样性呈现为一座我们有责任守护的图书馆。
-- 作品内容: 迪拜未来博物馆中的一个展厅，设定在 2071 年：2400 个悬挂的水晶罐各刻有一种现存或已灭绝物种的图像，组成一座地球生命的基因档案馆，观众用手持设备探索。
-- 实现方式: 展陈设计：375 平方米空间内 2400 个刻有图像的水晶罐，加上与 Marshmallow Laser Feast 合作开发的手持互动设备。
-- 图片: https://superflux.in/wp-content/uploads/2022/07/Hero-Image-V2-1024x683.jpg
-- 项目主页: https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/
-
-#### Turba Tol Hol-Hol Tol — Camila Marambio (2022)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 对湿地的照护可以通过艺术、语言与科学共同实践。
-- 作品内容: 2022 年威尼斯双年展智利馆：一首向火地岛泥炭地及其泥炭藓致敬的“颂歌”，并与塞尔克南文化的复兴相连。
-- 实现方式: 包括沉浸式装置、SphagnumLAB、泥炭地驻留，以及与科学家和塞尔克南社群成员的研究合作。
-- 图片: https://ars.electronica.art/starts-prize/files/2023/06/turbatol_6-SphagnumLAB-2022_Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/turbatol_2-Laying-Low-during-the-Residency-Grounding-into-the-Bog-at-Karunkina-Tierra-del-Fuego-2022-Turba-Tol_Curated-by-Camila-Marambio_-Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg
-- 项目主页: https://www.turbatol.org
-
-#### Weaving Together a Decolonial Imaginary Through Design for Effective River Management — Manuhuia Barcham (2022)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 设计工具可以容纳不止一个世界，包括河流自己的世界。
-- 作品内容: 以新西兰的一个河流修复设计项目为例，展示多元世界的本体论设计如何落地，让与河流相处的不同存在方式得以共存。
-- 实现方式: 在河流修复项目中运用边界对象与基础设施化方法的案例研究。
-- 论文: https://doi.org/10.1162/desi_a_00666 (Design Issues 2022)
-- 项目主页: https://doi.org/10.1162/desi_a_00666
-
-#### Weird Ecologies — Weird Ecologies (RCA team) (2022)
-- 类型: 思辨设计 · 生物: 植物, 细菌与微生物, 生态系统
-- 核心想法: 与已经在受损之地繁盛的生物合作。
-- 作品内容: 一组装置，附着在有毒地景中的现有基础设施上，帮助耐毒生物生长，用生物修复而不是隔离来管理污染场地。
-- 实现方式: 卡扣式栖息装置为超富集植物和微生物提供基质和水分。
-- 图片: https://rca-media2.rca.ac.uk/images/WEIRD_ECOLOGIES_Terra_Carta_Appl.f039940b.fill-1200x1200.jpg
-- 项目主页: https://www.rca.ac.uk/business/terra-carta-design-lab-projects/weird-ecologies
-
-#### Alternatives to Agrilogistics: Designing for Ecological Thinking — Heidi R. Biggs, Shaowen Bardzell (2021)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 像小农那样设计农业技术：与生态系统合作，而不是对抗。
-- 作品内容: 通过在美国印第安纳州小农场的民族志研究，本文展示农民如何抵抗“农业物流”（Timothy Morton 指把自然与文化割裂的食物生产方式），并讨论这对农业技术设计的启示。
-- 实现方式: 对小农和城市农民的民族志，用 Morton 的生态思维来解读，并提炼设计方向。
-- 论文: https://doi.org/10.1145/3479557 (CSCW 2021)
-- 视频: https://www.youtube.com/watch?v=cW876f40yho
-
-#### Berl-Berl — Jakob Kudsk Steensen (2021)
-- 类型: 艺术作品 · 生物: 生态系统, 植物, 动物
-- 核心想法: 让城市底下被遗忘的生态系统成为主角。
-- 作品内容: 一件以沼泽为主角的沉浸式装置与线上世界，重现柏林赖以建城的湿地，其声景把 Arca 的歌声与两栖动物的叫声融为一体。
-- 实现方式: 在柏林-勃兰登堡湿地进行数月野外考察，结合柏林自然博物馆的标本，在 Unreal Engine 中重建；声音由 Matt McCorkle 与 Arca 制作。
-- 视频: https://vimeo.com/765418012
-- 图片: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1659334574237-TGVI2IFHAT3G4XA0LH9J/HighresScreenshot00111.jpg
-- 项目主页: https://jakobsteensen.com/berlberl
-
-#### Coral Reef Rescuer — Yihan Liu & Yang Zhang (2021)
-- 类型: 思辨设计 · 生物: 动物, 生态系统
-- 核心想法: 机器人可以被设计成珊瑚礁的照料者。
-- 作品内容: 一个形似蝠鲼的“母”机器人和若干“子”单元，帮助受过度捕捞、升温、酸化和污染破坏的珊瑚礁再生。
-- 实现方式: 母机携带子机器人，由它们投放珊瑚碎片并监测珊瑚礁健康。
-- 图片: https://web.archive.org/web/20211127105104im_/https://www.globalgradshow.com/wp-content/uploads/2021/11/Coral-reef-rescuer1-600x424.jpg
-- 项目主页: https://web.archive.org/web/20211127105104/https://www.globalgradshow.com/project/coral-reef-rescuer/
-
-#### Coral Vita land-based coral farms — Coral Vita (2021)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 修复可以被设计成一个培育活基础设施的产业。
-- 作品内容: 陆基珊瑚养殖场利用微碎片化和辅助进化技术，以比自然快多达 50 倍的速度培育耐逆珊瑚，再移植到退化的珊瑚礁上。
-- 实现方式: 珊瑚碎片在水箱中融合生长，并在受控胁迫下筛选耐热群体。
-- 视频: https://www.youtube.com/watch?v=xDt5RoQpWXU
-- 图片: https://earthshotprize.org/wp-content/uploads/2021/09/CoralVita_2-v2-1-e1663706490703.jpeg https://earthshotprize.org/wp-content/uploads/2021/09/Gator-Halpern-Coral-Vita-facility-Grand-Bahama-1024x576.jpg
-- 项目主页: https://www.coralvita.co/
-
-#### Flash Forest — Flash Forest (2021)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 重新造林的速度和精度可以从空中来设计。
-- 作品内容: 无人机测绘场地并把已发芽的种子荚射入土壤，快速为烧毁和采伐过的土地造林，种子组合按本地物种定制。
-- 实现方式: 沿测绘好的种植路径，从无人机上发射含促发芽物质的种子荚。
-- 视频: https://www.youtube.com/watch?v=Lq_wVSQtmp0
-- 图片: https://cdn.prod.website-files.com/67d006c22ab4ba62f9fcd5ad/6a90ded04a80dca8e1c68a7f_Flash%20Forest%20OG%20Image.png
-- 项目主页: https://flashforest.ca/
-
-#### Los Cedros Rights of Nature Ruling — Constitutional Court of Ecuador (2021)
-- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
-- 核心想法: 自然权利可以在法庭上执行，用来保护一片具体的森林。
-- 作品内容: 厄瓜多尔宪法法院裁定，在 Los Cedros 云雾森林发放的采矿许可侵犯了 2008 年宪法中写入的自然权利，并予以撤销。
-- 实现方式: 宪法判决（案号 1149-19-JP/21），把自然权利和预防原则应用于这片森林的生物多样性数据。
-- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Los_Cedros.jpg/1280px-Los_Cedros.jpg
-- 项目主页: https://www.corteconstitucional.gob.ec/
-
-#### Office for Tree Migration (OTM) — Agnes Meyer-Brandis (2021)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把树当作气候难民，并设计帮助它们迁移的方法。
-- 作品内容: 一个长期的艺术与研究项目，关注气候变化下树木如何向北、向高处迁移，包括在芬兰泥炭地进行的“协助迁移”试验。
-- 实现方式: 借助物候相机、生态监测以及自制的软硬件，追踪林线上的树木；并在试验点种植幼苗。
-- 视频: https://vimeo.com/1172137373
-- 图片: https://ars.electronica.art/starts-prize/files/2026/06/01_assistedmigration_208a7022_otm-c-agnes_meyer-brandis-vgbildkunst-1024x576.jpg https://ars.electronica.art/starts-prize/files/2026/06/01_as_trees_go_by_documentation-c-agnes_meyer-brandis_a6a7112_16_50-1024x576.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/office-for-tree-migration-otm/
+#### Why would I ever fry and eat my SCOBY? — Aybars Senyildiz (2022)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌
+- 核心想法: 日常发酵已经在训练人们照顾微生物。
+- 作品内容: 对家庭康普茶酿造者的研究，把发酵视为多物种实践，观察酿造者如何调适自己以回应 SCOBY 中微生物的需要。
+- 实现方式: 对康普茶酿造者进行访谈、设计探针任务和集体反思工作坊，并以关系理论进行解读。
+- 论文: https://doi.org/10.21606/drs.2022.318 (DRS 2022)
+- 项目主页: https://doi.org/10.21606/drs.2022.318
 
 #### Sensing More-than-human Worlds — Serena Pollastri (2021)
 - 类型: 论文 · 生物: 生态系统
@@ -1720,338 +1342,59 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/3-Figure1-1.png https://figures.semanticscholar.org/66d064bec99df9c7d59f344baa5126a7bf1d117f/500px/6-Figure6-1.png
 - 项目主页: https://doi.org/10.1145/3469410.3469413
 
-#### Becoming a Sentinel Species — Sissel Marie Tonn (2020)
-- 类型: 艺术作品 · 生物: 细胞与组织, 人体, 生态系统
-- 核心想法: 我们并未与环境隔绝；我们的细胞可以成为环境的测量仪。
-- 作品内容: 一部实验性科幻影片：两位研究者培养自己的免疫细胞，并让它们接触微塑料，把人类想象成能发出污染警报的“哨兵物种”。2020 年 BAD Award 获奖作品。
-- 实现方式: 与 Heather Leslie 和 Juan Garcia Vallejo（阿姆斯特丹大学医学中心）合作，培养艺术家血液中的巨噬细胞并让其接触微塑料。
-- 视频: https://vimeo.com/490794220
-- 图片: https://www.badaward.nl/imager/assets/site/3378/Sissel-Marie-Tonn.-goda-kenzo-mud-2_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/3379/goda-kenzo-mud_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/sissel-marie-tonn-with-heather-leslie-juan-garcia-vallejo
+#### Watching Myself Watching Birds: Abjection, Ecological Thinking, and Posthuman Methods — Heidi R. Biggs, Shaowen Bardzell (2021)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 对其他物种产生的不适感，也是后人类设计的数据。
+- 作品内容: 作者在喂鸟器旁观察鸟类并进行第一人称研究，反思这一过程中暴露出的不适与纠缠。
+- 实现方式: 以笔记和照片进行自我民族志观鸟，借助 Kristeva 的“贱斥”与 Morton 的“生态思维”分析。
+- 论文: https://doi.org/10.1145/3411764.3445329 (CHI 2021)
+- 视频: https://www.youtube.com/watch?v=_LBEVTtY2kc
+- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/112fe272-cf71-4aa5-a132-58f067e0f24d/IMG_20200914_165546.jpg
+- 项目主页: https://www.heidibiggsdesign.com/watching-myself-watching-birdspabjection-ecological-thinking-and-posthuman-design/
 
-#### Cloud Studies — Forensic Architecture (2020)
-- 类型: 艺术作品 · 生物: 生态系统, 人体
-- 核心想法: 空气是被争夺的空间，云团可以成为证据。
-- 作品内容: 一部影片与研究项目：追踪各种有毒云团，从催泪瓦斯、化学袭击到工业污染和森林大火，揭示空气中的暴力如何被制造又如何被否认。
-- 实现方式: 把多个调查中的开源视频、遥感数据和流体力学建模汇编成一部影片，由 ZKM 艺术与媒体中心委托制作。
-- 视频: https://vimeo.com/757505563
-- 图片: https://content.forensic-architecture.org/wp-content/uploads/2020/06/1-scaled.jpg
-- 项目主页: https://forensic-architecture.org/investigation/cloudstudies
+#### Symbiotic Encounters: HCI and Sustainable Agriculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2019)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 要“与自然合作”，HCI 必须为不断变化的多物种集合体设计，而不是为稳定的系统设计。
+- 作品内容: 对替代农场的民族志研究：作物、昆虫、动物与农民之间的关系随季节在互利与有害之间变化。
+- 实现方式: 对朴门永续农业和替代农业农民进行田野研究，用“集合体”概念分析。
+- 论文: https://doi.org/10.1145/3290605.3300547 (CHI 2019)
+- 视频: https://www.youtube.com/watch?v=yXs888XZaX8
+- 项目主页: https://doi.org/10.1145/3290605.3300547
 
-#### Critical Zones: Observatories for Earthly Politics — Bruno Latour, ZKM | Center for Art and Media Karlsruhe (2020)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把展览当作“降落地球”的方法：展示让政治成为可能的土壤、水和生命。
-- 作品内容: 由 Bruno Latour 和 Peter Weibel 在卡尔斯鲁厄 ZKM 策划的一场“思想展览”，关注地表被生命塑造的那一薄层，把科学观测站和艺术作品放在一起，疫情期间还开放了线上展览。
-- 实现方式: 把关键带科学观测站、艺术作品和网络平台组织成一个关于盖娅与地球政治的论证。
-- 视频: https://www.youtube.com/watch?v=CXC7ZMK2QKU
-- 图片: https://critical-zones.zkm.de/images/og-image.jpg
-- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
+#### Photography as a Design Research Tool into Natureculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2018)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 拍摄纠缠的景象，可以训练设计者超越自然/文化二分的眼光。
+- 作品内容: 作者用自己拍摄的照片，为“自然文化”建立一套视觉语言——自然与文化交织的层次、聚集和流动。
+- 实现方式: 反复拍摄、编辑、整理和反思照片的迭代实践。
+- 论文: https://doi.org/10.1145/3196709.3196819 (DIS 2018)
+- 项目主页: https://doi.org/10.1145/3196709.3196819
 
-#### Ecocide in Indonesia — Forensic Architecture (2020)
-- 类型: 艺术作品 · 生物: 生态系统, 植物
-- 核心想法: 把森林的毁灭当作证据来读，让地景本身成为证人。
-- 作品内容: 与绿色和平国际合作的一项调查，研究巴布亚的雨林如何被放火清除以开辟棕榈油种植园，并利用卫星影像、热点数据和烟羽重建火灾过程。
-- 实现方式: 把卫星影像分析、火点数据和烟羽模拟整合成土地清除的空间时间线。
-- 视频: https://www.youtube.com/watch?v=1wn70zF8IWs
-- 项目主页: https://forensic-architecture.org/investigation/ecocide-in-indonesia
+#### Speculative prototypes and alien ethnographies: experimenting with relations beyond the human — Tau Ulv Lenskjold, Li Jönsson (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 原型可以成为研究我们无法完全理解之关系的工具。
+- 作品内容: 借助为城市动物制作的思辨原型，发展“异类民族志”：在不假设能进入非人类经验的前提下研究与它们的关系。
+- 实现方式: 借助思辨实在论和 Ian Bogost 的“异类现象学”反思早期设计实验。
+- 论文: https://doi.org/10.7764/disena.11.134-147 (Diseña 2017)
+- 项目主页: http://revistadisena.uc.cl/index.php/Disena/article/view/85
 
-#### Glacier's Lament — Jiabao Li (2020)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 让冰川的融化记录变成人类与它一起演奏的乐谱。
-- 作品内容: 把阿拉斯加门登霍尔冰川 60 年的融化数据写成音乐，由亲眼见证冰川退缩的当地音乐人在冰川上演奏和舞蹈。
-- 实现方式: 每个音符代表一个季节：冬季冻结音高低，夏季融化音高升；演奏者与冰川本身的声音一起表演。
-- 论文: https://doi.org/10.1145/3532837.3534948 (SIGGRAPH 2022 Art Gallery)
-- 视频: https://www.youtube.com/watch?v=79GaAtw8cU8
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1600373089411-GNWYV4IK917Q1X6X5DH3/Glacier+Data+Cello.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1602106288285-HIE2DT0MBDW01LD40Y5R/glacier+blue6.JPG https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1597952233408-ZR1Y2TRXHK9Y4MOY5ITD/3.png
-- 项目主页: https://www.jiabaoli.org/glacier
+#### Thing Ethnography: Doing Design Research with Non-Humans — Elisa Giaccardi, Nazli Cila (2016)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 物可以充当共同民族志研究者，揭示人自己说不出的模式。
+- 作品内容: 把相机装在水壶、杯子等日常物件上，记录它们如何被使用，让设计者从物的角度观察日常生活。
+- 实现方式: 在家居物件上安装 Autographer 相机和传感器采集图像与数据，并与使用者访谈一起分析。
+- 论文: https://doi.org/10.1145/2901790.2901905 (DIS 2016)
+- 视频: https://www.youtube.com/watch?v=1Z0mVcV1EgA
+- 图片: https://i.ytimg.com/vi/1Z0mVcV1EgA/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/2901790.2901905
 
-#### LIFEBRIK — University of Cincinnati Biodesign Challenge team (2020)
-- 类型: 研究原型 · 生物: 生态系统, 植物
-- 核心想法: 把活的土壤打包成城市种植的积木。
-- 作品内容: 一块由矿物层、碳层、剖面层、生物层和覆盖层五层组成的土壤“砖”，让城市菜园的起步变得简单。
-- 实现方式: 每一层对应自然土壤的一个层次，其中生物层含有土壤生物。
-- 视频: https://www.youtube.com/watch?v=So7kEMqr8Lk
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1595467099794-NZDUSYHTFVHCL4LOIKPR/Lifebrik.JPG
-- 项目主页: https://lifebrik.wixsite.com/welovesoil
-
-#### Nemo — Elias Thaddäus Pfuner (2020)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 通过设计完整的照护链条而不是单一工具，来扩大珊瑚礁修复的规模。
-- 作品内容: 为珊瑚礁修复机构设计的四阶段服务：规划平台、珊瑚碎片运输箱，以及协助移植苗圃培育珊瑚的无人机。
-- 实现方式: 包括服务设计、运输箱产品设计和一个水下无人机概念。
-- 图片: https://www.jamesdysonaward.org/Document/16e2ada0-c28e-44e3-8159-7e53570396d3/sceneedit.jpg https://www.jamesdysonaward.org/Document/fac6323b-9540-48d8-9332-519c041d2087/boxes.jpg
-- 项目主页: https://www.jamesdysonaward.org/en-GB/2020/project/nemo/
-
-#### Smart forests and data practices: From the Internet of Trees to planetary governance — Jennifer Gabrys (2020)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 当森林变得“智能”，它也成了治理工具；要追问它服务于谁。
-- 作品内容: 研究装有传感器、无人机和数据平台的森林，认为森林正在成为管理环境变化的技术。
-- 实现方式: 分析智能森林项目及五种数字实践，属于 ERC Smart Forests 项目。
-- 论文: https://doi.org/10.1177/2053951720904871 (Big Data & Society 2020)
-- 视频: https://www.youtube.com/watch?v=pV6DwcK69gQ
-- 图片: https://smartforests.net/media/pages/about/fdf505d0de-1593377557/smartforest-ok.jpg https://smartforests.net/media/pages/home/fd0c426ad2-1644954050/smartforests-homepage-3-800x800.jpg
-- 项目主页: https://smartforests.net/
-
-#### Swamp Observatory — Nomeda & Gediminas Urbonas (2020)
-- 类型: 艺术作品 · 生物: 生态系统, 植物
-- 核心想法: 把沼泽当作通往盖娅的界面，也当作多物种思考的模型。
-- 作品内容: 一座寄生在 ZKM 建筑上的泥炭结构，包含四件“仪器”，其中《Swamp Brain》把沼泽与 AI 结合，生成的图像投影在风干的牛膀胱上。
-- 实现方式: 以泥炭制成的造型内置气味、时间层和 AI 模块；AI 与科学家 Jonas Kubilius 一起用沼泽形态训练。
-- 视频: https://www.youtube.com/watch?v=B5MHCtIIZmI
-- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
-
-#### Zebra Glass — College for Creative Studies Biodesign Challenge team (2020)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 把被视为“他者”的入侵物种变成本地的手工材料。
-- 作品内容: 把五大湖入侵的斑马贻贝和斑驴贻贝收集起来，作为碳酸钙来源，烧制具有地方特色的手工钠钙玻璃。
-- 实现方式: 贻贝壳经清洗、粉碎和煅烧，替代玻璃配料中开采来的石灰石。
-- 视频: https://www.youtube.com/watch?v=2nq5StOmac8
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1594849170023-PJTG7LNJKKWLRZ73YTZH/Screen+Shot+2020-07-15+at+5.36.33+PM.png
-- 项目主页: https://www.ccscmdmateriallab.com/projects/zebraglass
-
-#### souvenirs entomologiques #1: odonata / weathering data — Sybille Neumeyer (2020)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 追踪一只昆虫在变成数据时所经历的“变态”。
-- 作品内容: 一件装置，追踪蜻蜓从栖息地到自然史博物馆再到数据集的过程，呈现昆虫如何变成标本、生物指示物和气候数据。
-- 实现方式: 把蜻蜓目的博物馆标本、档案材料和风化数据组织成一件装置。
-- 视频: https://www.youtube.com/watch?v=z7YQbk_Nsx0
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2023/03/20230311_ArtLab_VICIOUS-CYCLE_0132-hr13.jpg
-- 项目主页: https://artlaboratory-berlin.org/exhibitions/vicious-cycle/
-
-#### Perimeter Pfynwald – A Soundscape Observatory — Marcus Maeder (2019)
-- 类型: 艺术作品 · 生物: 生态系统, 植物, 昆虫
-- 核心想法: 聆听正在一片森林里发生的气候变化。
-- 作品内容: 一件声音装置，把一个受干旱影响的瑞士松林整个夏天的录音（包括池塘和土壤动物）压缩成可以聆听的生态系统模型。
-- 实现方式: 2018 年热浪夏季，在森林、池塘和土壤中布置自动录音设备，录音在时间和空间上被压缩。
-- 视频: https://www.youtube.com/watch?v=tjri6bfA_KE
-- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
-
-#### Seedballs — Seedballs Kenya (2019)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 给种子一个包装，让它自己等待合适的时机。
-- 作品内容: 把本地树木和草种裹进一层炭粉外壳，在雨季来临前保护它们不被动物吃掉；种子球可用手撒、弹弓打或飞机播撒。
-- 实现方式: 用废弃炭粉包裹种子；雨水使外壳崩解并触发发芽。
-- 视频: https://www.youtube.com/watch?v=zaxoZaDZE7g
-- 项目主页: https://seedballskenya.com/
-
-#### The Deep Listener — Jakob Kudsk Steensen (2019)
-- 类型: 艺术作品 · 生物: 植物, 动物, 昆虫
-- 核心想法: 用 AR 不是往公园里添加东西，而是揭示已经生活在那里的物种。
-- 作品内容: 在肯辛顿花园和海德公园进行的视听 AR 漫步，让访客看到并听到公园里的五种生物：伦敦悬铃木、蝙蝠、长尾鹦鹉、天蓝豆娘和芦苇丛。
-- 实现方式: 把野外录音、蝙蝠超声波和各物种的三维扫描放在它们真实所在的位置，做成手机 AR 应用，属于蛇形画廊的增强建筑委托项目。
-- 视频: https://vimeo.com/394495876
-- 图片: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1614095935755-M0XR28UWTQMZZAGJ1EOJ/1.hero.png https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1588338407003-FSLM7QH06TPXGQ1RI2UE/Deep_Listening_Launch-4920.jpg
-- 项目主页: https://jakobsteensen.com/the-deep-listener
-
-#### Acoustic Ocean — Ursula Biemann (2018)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 进入海洋世界的方式是倾听，而不是观看。
-- 作品内容: 一部在罗弗敦群岛拍摄的影片：一位萨米族生物学家兼潜水员用水听器等录音设备倾听深海生命，因为声音是海洋生物导航和交流的主要方式。
-- 实现方式: 用水听器、抛物面麦克风和水下录音搭建感测站，影片把这些设备与原住民关于大海的知识并置。
-- 视频: https://vimeo.com/255000012
-- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-ao-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-AO-gallery-2-aspect-ratio-770-433.jpg
-- 项目主页: https://geobodies.org/art-and-videos/acoustic-ocean/
-
-#### Art Biotop Water Garden — junya.ishigami+associates (2018)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 建筑可以是对一片活景观的细致迁移。
-- 作品内容: 为酒店开发而必须移走的约 318 棵树，被一棵一棵地重新种在那须的一片旧稻田里，穿插在约 160 个由原稻田水系供水的浅池之间。
-- 实现方式: 逐棵测量并重新规划树的位置；水池和苔藓重建出一片林地湿地。
-- 图片: https://designmuseum.org/image/5cbbb7b5-2c28-4ded-98be-9c34292ec9fc?width=1600
-- 项目主页: https://designmuseum.org/exhibitions/beazley-designs-of-the-year/architecture-2019/art-biotop-water-garden
-
-#### Living Seawalls — Reef Design Lab (2018)
-- 类型: 产品与平台 · 生物: 生态系统, 动物, 藻类
-- 核心想法: 灰色基础设施可以用一套瓷砖系统改造成栖息地。
-- 作品内容: 一种安装在既有平直海堤上的六边形栖息砖，仿岩石的纹理给牡蛎、藤壶、海藻和鱼提供附着和躲藏的地方，提升城市海岸的生物多样性。
-- 实现方式: 十种三维建模的纹理用低碳混凝土和复合筋浇筑后固定在海堤上；由悉尼海洋科学研究所监测生物附着情况。
-- 视频: https://www.youtube.com/watch?v=AzWBxccuIkI
-- 图片: http://static1.squarespace.com/static/60efa1626de4b55189f0d735/t/6142edad5c600c24b6cea0db/1631776173367/E_St3fiUcAQsFi3.jpg?format=1500w
-- 项目主页: https://www.livingseawalls.com.au/
-
-#### River Listening: Acoustic Ecology and Aquatic Bioacoustics in Global River Systems — Leah Barclay (2018)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 在水下聆听，能让沿岸居民“听见”河流的健康状况。
-- 作品内容: 《River Listening》用水听器录制世界各地河流的水下声音，并把它们变成聆听活动、声音作品和社区参与的河流健康监测。
-- 实现方式: 用水听器录音，把水生生物声学、声学生态学和创作实践结合起来。
-- 论文: https://doi.org/10.1162/leon_a_01516 (Leonardo 2018)
-- 图片: http://leahbarclay.com/wp-content/uploads/2015/03/1.Leah_LoganRiver.jpg http://leahbarclay.com/wp-content/uploads/2015/03/3.LeahBarclay-Listening-to-the-Thames.jpg
-- 项目主页: https://leahbarclay.com/river-listening
-
-#### aqua_forensic — Robertina Šebjanič (2018)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 通过水中最小的居民，呈现我们留在水里的看不见的化学足迹。
-- 作品内容: 与 Gjino Šutić 合作的装置、工作坊与公民科学项目：用全息影像呈现微生物在高度稀释的药物溶液中死亡的过程，让水中的药物残留变得可见。
-- 实现方式: 在比人用剂量弱 2 万倍的药物溶液中开展微生物体外实验，以全息视频的形式呈现在铜管装置中。
-- 视频: https://vimeo.com/288379735
-- 图片: https://robertina.net/wp-content/uploads/2025/09/5aa0e-aqua_forensic_robertina_sebjanic_gjino_sutic-2-2.jpg
-- 项目主页: https://robertina.net/aqua_forensic/
-
-#### 3D Ocean Farming — GreenWave (2017)
-- 类型: 产品与平台 · 生物: 藻类, 动物, 生态系统
-- 核心想法: 农场可以被设计成改善所用水体的混养系统。
-- 作品内容: 再生型海洋农场：在竖直绳索上养殖海带，下方笼中养殖贻贝、牡蛎和扇贝，不需要饲料、淡水和化肥，同时吸收碳和氮。
-- 实现方式: 播种后的绳索悬挂在浮标下，占据竖直水体；不同深度的物种分别滤食和进行光合作用。
-- 视频: https://www.youtube.com/watch?v=j8ViaskDSeI
-- 项目主页: https://www.greenwave.org/
-
-#### Sahara Forest Project — Sahara Forest Project (2017)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 把各项技术耦合起来，让每一项的副产品成为下一项的投入，并让沙漠重新长出植被。
-- 作品内容: 把海水冷却温室、聚光太阳能和海水淡化结合起来在沙漠中种粮，同时蒸发的海水在温室外形成湿润区域，用来种植耐盐植被。
-- 实现方式: 在卡塔尔和约旦的试点设施整合了蒸发式温室、太阳能和户外植被恢复地块。
-- 视频: https://www.youtube.com/watch?v=3aZ8E7hj8VU
-- 项目主页: https://www.saharaforestproject.com/
-
-#### Seasynthesis — Xandra van der Eijk (2017)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 聆听是进入我们无法进入的生态系统的一种方式。
-- 作品内容: 一个持续的聆听项目，录制北海水下的声音——船只螺旋桨、海上风电施工、海洋生物——让人们接近这片很少被看见的海。2017 年 BAD Award 获奖作品，与瓦赫宁根海洋研究所合作。
-- 实现方式: 与海洋生态学家 Han Lindeboom 合作分析北海的水听器录音，并以声音装置呈现。
-- 图片: https://www.badaward.nl/imager/assets/site/1145/Life-Time-Hanneke-Wetzer-1_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/xandra-van-der-eijk-with-han-lindeboom
-
-#### Spring Bloom in the Marginal Ice Zone — Jana Winderen (2017)
-- 类型: 艺术作品 · 生物: 动物, 藻类, 生态系统
-- 核心想法: 让一个生态系统最关键的时刻被听见，脆弱就不只是读到的数据。
-- 作品内容: 一件七声道声音装置，呈现巴伦支海春季浮游生物大爆发时的水下世界：开裂的海冰、髯海豹、鲸、鳕鱼和甲壳动物，它们都依赖这场爆发。
-- 实现方式: 在斯瓦尔巴群岛附近用水听器录音，再编排成空间化的多声道作品；由 Sonic Acts 与 Dark Ecology 委托。
-- 视频: https://www.youtube.com/watch?v=oxGIQF3iRYM
-- 图片: https://janawinderen.com/media/pages/releases/spring-bloom-in-the-marginal-ice-zone/3250264730-1587415338/tone65.jpg
-- 项目主页: https://janawinderen.com/releases/spring-bloom-in-the-marginal-ice-zone
-
-#### Te Awa Tupua: Whanganui River Legal Personhood — Whanganui Iwi (2017)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 当法律遵循原住民的亲缘观时，一条河可以是法律上的人：“我是河，河是我。”
-- 作品内容: 新西兰 2017 年的 Te Awa Tupua（旺格努伊河诉求和解）法案承认旺格努伊河从山到海是一个活的、不可分割的整体，拥有法人的权利，由两位监护人代表：一位来自毛利部落，一位来自王室。
-- 实现方式: 在毛利人约 140 年的诉求之后，通过条约和解立法设立法人与监护机构（Te Pou Tupua）。
-- 视频: https://www.youtube.com/watch?v=3zAPwaOYjQU
-- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Motor_Vessel_Wairua.jpg/1280px-Motor_Vessel_Wairua.jpg
-- 项目主页: https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html
-
-#### Zoe – A Living Sea Sculpture — Colleen Flanigan (2017)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 一件雕塑可以被设计成由珊瑚来完成。
-- 作品内容: 一座位于墨西哥科苏梅尔岛外海 4 米深处的钢制水下雕塑，通电后表面沉积石灰岩，让濒危珊瑚碎片在上面生长成礁石栖息地。
-- 实现方式: 矿物增生（Biorock）技术：低压电流通过钢架，使海水中的碳酸钙沉淀下来，珊瑚附着其上并生长更快。
-- 视频: https://www.youtube.com/watch?v=KXpmX7zaCiU
-- 项目主页: https://www.biology-design.com/risd
-
-#### Just good enough data: Figuring data citizenships through air pollution sensing and data stories — Jennifer Gabrys (2016)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 市民数据不必完美才有力量，只要“足够好”。
-- 作品内容: 在 Citizen Sense 项目中，宾夕法尼亚州页岩气开采区附近的居民使用低成本空气监测器，并撰写“数据故事”，生成足以采取行动的证据。
-- 实现方式: 使用 DIY 和低成本空气质量监测器开展参与式感知，并结合协作式数据叙事。
-- 论文: https://doi.org/10.1177/2053951716679677 (Big Data & Society 2016)
-- 视频: https://www.youtube.com/watch?v=Loz1NFyQ5Lo
-- 图片: https://i2.wp.com/citizensense.net/cs/wp-content/uploads/2014/06/evidence4.jpg?fit=2048%2C1352&ssl=1 https://i0.wp.com/citizensense.net/cs/wp-content/uploads/2017/11/Dustbox_Garden_sm.jpg?fit=794%2C676&ssl=1
-- 项目主页: https://citizensense.net/
-
-#### Program Earth: Environmental Sensing Technology and the Making of a Computational Planet — Jennifer Gabrys (2016)
-- 类型: 书与文章 · 生物: 生态系统, 动物
-- 核心想法: 传感器不只是测量环境，也在制造新的环境和新的环境公民。
-- 作品内容: 一本书，讨论从野生动物追踪到市民空气监测的传感器网络，如何把地球变成可编程的对象，并改变人们认识环境的方式。
-- 实现方式: 结合怀特海的过程哲学，研究生态传感网络、动物追踪和市民感知等案例。
-- 论文: https://doi.org/10.5749/minnesota/9780816693122.001.0001 (University of Minnesota Press 2016)
-- 视频: https://www.youtube.com/watch?v=tNsFJ7iW17w
-- 图片: https://covers.openlibrary.org/b/isbn/9780816693146-L.jpg?default=false
-- 项目主页: https://www.jennifergabrys.net/program-earth/
-
-#### TetraPOT — Sheng-Hung Lee (2016)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 灰色基础设施可以成为脚手架，逐渐被活的根系接管。
-- 作品内容: 一种改良的混凝土四脚防波块，内含红树林幼苗；树长大后，根系从通道中伸出，把各个块体连锁在一起，形成活的海岸防线。
-- 实现方式: 空心四脚块内的有机层培育红树林，直到根系把各单元连成一体。
-- 视频: https://www.youtube.com/watch?v=6uGcQhTuXec
-- 图片: http://web.archive.org/web/2023im_/https://www.jamesdysonaward.org/Document/ade55445-2238-4d89-93c3-6359809f784b/usr-3393-img-1468513835-c4574.jpg
-- 项目主页: http://web.archive.org/web/2023/https://www.jamesdysonaward.org/en-GB/2016/project/tetrapot/
-
-#### The Great Animal Orchestra — Bernie Krause, United Visual Artists (2016)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 把一个栖息地当作一支乐团来听，也就能听出物种消失后缺了什么。
-- 作品内容: 巴黎卡地亚当代艺术基金会里的沉浸式展厅：Bernie Krause 在七个栖息地录下的声景在播放，实时声谱图在墙上滚动，并倒映在一池深色水面里。
-- 实现方式: 从 Krause 五千小时录音档案中选取的野外录音被转换成声谱图，由 United Visual Artists 渲染成与声音同步移动的投影景观。
-- 视频: https://www.youtube.com/watch?v=o1SnSv0OQdY
-- 图片: https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020315-MII6D7Y75P26RWZ92Q4K/UVA__GreatAnimalOrchestra_JH_06-2.jpg https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020184-HXZKEPWXTPZ0ERCW39FN/UVA__GreatAnimalOrchestra_JM_03.jpg
-- 项目主页: https://www.uva.co.uk/features/great-animal-orchestra-cartier-foundation
-
-#### Aerocene — Tomás Saraceno (2015)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 设计一种属于大气、而不是燃烧大气的移动方式。
-- 作品内容: 一个开放的艺术社群，制作并放飞仅靠太阳热量和空气升空的雕塑，不使用化石燃料、电池或氦气。2020 年，Aerocene Pacha 气球载人飞越阿根廷的 Salinas Grandes 盐沼，创下太阳能飞行的世界纪录。
-- 实现方式: 用回收材料或薄膜做成的轻质气囊吸收太阳辐射、加热内部空气而升空；开源套件和应用让任何人都能放飞。
-- 视频: https://www.youtube.com/watch?v=AG_UXEXg_Mk
-- 图片: https://studiotomassaraceno.org/files/19arg_bts_aerocenepacha_09520-3.jpg https://aerocene.org/wp-content/uploads/2020/03/TS_09MAS_museo-prato_00121edit.jpg
-- 项目主页: https://aerocene.org/
-
-#### CLIMAVORE — Cooking Sections (2015)
-- 类型: 艺术作品 · 生物: 生态系统, 藻类, 动物
-- 核心想法: 饮食可以被设计成修复供养它的栖息地。
-- 作品内容: 一个长期项目，探讨在人类改变气候的时代该如何饮食；在斯凯岛和拉赛岛，它推动从三文鱼养殖转向能净化水体的海藻和贝类，并设计了一张涨潮时会变成栖息地的潮间带餐桌。
-- 实现方式: 通过菜单、装置以及与农民和餐馆的合作，推广能在污染水体中生长的滤食性生物和耐旱作物。
-- 图片: https://ars.electronica.art/starts-prize/files/2023/06/climavore_02-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/climavore_03-1024x512.jpg
-- 项目主页: https://www.climavore.org
-
-#### COSMO — Andrés Jaque (2015)
-- 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
-- 核心想法: 让城市用水中看不见的生态变得可见，并把建筑设计成这个生态的一部分。
-- 作品内容: 为 MoMA PS1 庭院设计的可移动净水装置：由管道、水箱和植物组成的网络，四天内过滤 3000 加仑水，水变干净时会发光。
-- 实现方式: 人工湿地、植物根系和微生物膜分阶段净化水，结构由灌溉配件搭成。
-- 视频: https://www.youtube.com/watch?v=1QrRBSxUoJU
-- 项目主页: https://www.moma.org/calendar/exhibitions/1507
-
-#### Rainforest Listening — Leah Barclay (2015)
-- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
-- 核心想法: 把远方的森林叠加到城市街道上，让人听到正在失去的东西。
-- 作品内容: 一个增强现实声音项目，把带地理定位的雨林声景放进城市；2015 年纽约气候周期间在时代广场首发，并在巴黎 COP21 期间展出。
-- 实现方式: 手机应用根据 GPS 在听众行走时触发亚马孙声景，与 Rainforest Partnership 合作制作。
-- 视频: https://vimeo.com/157876186
-- 图片: https://www.rainforestlistening.com/uploads/2/0/1/3/2013969/3809756_orig.jpg
-- 项目主页: https://www.rainforestlistening.com
-
-#### The Hive — Wolfgang Buttress (2015)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 让人站进一个蜂巢的节律里。
-- 作品内容: 一座 17 米高的网格雕塑，先是 2015 年米兰世博会英国馆，后移至邱园；其中 1000 盏 LED 灯和声景随一个真实蜂群的活动而起伏。
-- 实现方式: 与诺丁汉特伦特大学物理学家 Martin Bencsik 合作，把加速度传感器放进蜂箱，实时传输蜜蜂振动，驱动灯光和作曲声轨。
-- 视频: https://www.youtube.com/watch?v=wSzsoW2IjpE
-- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Hive_installation_Kew_Gardens.jpg/1280px-The_Hive_installation_Kew_Gardens.jpg https://upload.wikimedia.org/wikipedia/commons/5/51/The_Hive%2C_Kew_Gardens_-_geograph.org.uk_-_5868730.jpg
-- 项目主页: https://www.smithsonianmag.com/arts-culture/sculpture-controlled-live-honeybees-180960006/
-
-#### Ice Watch — Olafur Eliasson (2014)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把正在融化的北极放到造成它的人伸手可及之处。
-- 作品内容: 十二块格陵兰冰川冰按钟面排列在城市广场上，在众人面前融化；先后在哥本哈根（2014）、COP21 期间的巴黎（2015）和伦敦（2018）展出。
-- 实现方式: 与地质学家 Minik Rosing 合作，从努克附近峡湾收集从格陵兰冰盖崩落的冰块，运到各城市露天融化。
-- 视频: https://www.youtube.com/watch?v=qd-JRGBKSXA
-- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg/1280px-Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18019.jpg
-- 项目主页: https://olafureliasson.net/artwork/ice-watch-2014/
-
-#### Living Breakwaters — SCAPE Landscape Architecture (2014)
-- 类型: 研究原型 · 生物: 生态系统, 动物
-- 核心想法: 海岸防护可以按栖息地来建造，生态和社区项目从一开始就被设计进去。
-- 作品内容: 纽约史坦顿岛南岸外的一串堆石防波堤，在削减波浪与侵蚀的同时，其带纹理的“礁石街道”为牡蛎、鱼类和其他海洋生物提供栖所。
-- 实现方式: 石质防波堤外覆经生态强化的混凝土构件，形成潮池和缝隙；并在其上投放 Billion Oyster Project 培育的牡蛎。
-- 视频: https://www.youtube.com/watch?v=mSYeKlTTSTU
-- 图片: https://www.scapestudio.com/images/LBW_4000_01_2.jpg?w=2000
-- 项目主页: https://www.scapestudio.com/projects/living-breakwaters/
-
-#### A Conversation Between Trees — Steve Benford (2013)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 可以把树木变成气候数据的实时讲述者，引发感受而不是说教。
-- 作品内容: CHI 2013 论文，研究 Active Ingredient 的一件互动艺术作品：它把远方树木上传感器传回的实时环境数据与历史和预测的 CO2 数据一起可视化，并在附近森林中组织移动感知漫步。
-- 实现方式: 远方树上的传感器把实时环境数据传到展厅装置；论文分析艺术家、观众和一位气候科学家的视角。
-- 论文: https://doi.org/10.1145/2470654.2470673 (CHI 2013)
-- 图片: https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/4-Figure6-1.png https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/3-Figure2-1.png
-
-#### Biosphere Soundscapes — Leah Barclay (2013)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 把倾听当作衡量生态系统健康的共同尺度。
-- 作品内容: 一个在联合国教科文组织生物圈保护区开展的长期声学生态项目，通过驻地、录音和工作坊，让社区借助声音倾听并监测环境变化。
-- 实现方式: 陆地和水下田野录音、社区工作坊与创作混音；2013 年获联合国教科文组织“人与生物圈计划”认可。
-- 视频: https://www.youtube.com/watch?v=0EBEGneXB8w
-- 图片: https://biospheresoundscapes.org/uploads/2/0/1/3/2013969/eo9dy2iuuaewue_orig.jpg
-- 项目主页: https://biospheresoundscapes.org
+#### Counting Sheep: NZ Merino in an Internet of Things — Anne Galloway (2014)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 让思辨设计扎根于对动物及其养育者的民族志，用它来提问，而不是预测。
+- 作品内容: 一个为期三年的项目：跟随新西兰美利奴羊，从育种站走到实验室和市场，再把田野调查变成四个思辨设计（BoneKnitter、Grow Your Own Lamb、PermaLamb 和 Kotahitanga Farm），让公众在线回应。
+- 实现方式: 对美利奴羊育种与营销的多点民族志，转化为配图的未来情景，并用匿名问卷收集公众回应。
+- 论文: https://doi.org/10.4324/9781315526379-8 (Undesign (Routledge) 2018)
+- 图片: https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png
+- 项目主页: https://web.archive.org/web/2019/http://morethanhumanlab.org/blog/project/counting-sheep-nz-merino-in-an-internet-of-things/
 
 #### Red balloon, green balloon, sensors in the sky — Stacey Kuznetsov (2011)
 - 类型: 研究原型 · 生物: 生态系统
@@ -2062,14 +1405,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/3-Figure2-1.png https://figures.semanticscholar.org/9733beb982ce12b8f2d8d1c940de5970c37754d3/1-Figure1-1.png
 - 项目主页: https://doi.org/10.1145/2030112.2030145
 
-#### Amphibious Architecture — Natalie Jeremijenko, The Living (2009)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 让城市河流下的生命变得可见、可联系，让人可以和鱼“对话”。
-- 作品内容: 漂浮在纽约东河和布朗克斯河上的灯管感知水质和鱼的出没，并在水面上亮起不同颜色；人们还可以给鱼发短信，收到关于水下状况的回复。
-- 实现方式: 两组装有传感器（水质、鱼类探测）的浮管驱动 LED 灯光和短信界面；与 The Living 的 David Benjamin 和 Soo-in Yang 合作。
-- 视频: https://www.youtube.com/watch?v=tE8gsMUguLY
-- 项目主页: http://urbanomnibus.net/2009/09/toward-the-sentient-city-interviews/
-
 #### Entomogenic Climate Change — David Dunn (2009)
 - 类型: 论文 · 生物: 昆虫, 植物, 生态系统
 - 核心想法: 聆听树木内部的昆虫，可以揭示气候的反馈回路。
@@ -2079,151 +1414,114 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=a0X9rhHH2Zg
 - 项目主页: https://doi.org/10.1162/leon.2009.42.3.239
 
-#### The Tree Listening Project — Alex Metcalf (2007)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 树一直在忙碌，只是需要合适的“耳朵”才能察觉。
-- 作品内容: 观众戴上连接活树的耳机，听到树的内部：低沉的轰鸣，以及水在木质部中流动时轻微的噼啪声。
-- 实现方式: 贴在树干上的高灵敏接触式麦克风拾取输水木质部中的振动和空穴化咔嗒声，放大后传到共享耳机。
-- 图片: https://treelistening.co.uk/wp-content/uploads/2025/09/media-1024x547.jpg https://treelistening.co.uk/wp-content/uploads/2025/09/our-story-1024x480.jpg
-- 项目主页: https://treelistening.co.uk/
+#### Botanicalls — Botanicalls (2006)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 让植物主动开口，谈论它自己需要的照顾。
+- 作品内容: 装了土壤湿度传感器的室内植物，缺水时会给主人打电话或发推文，浇水后还会道谢。
+- 实现方式: 花盆里的湿度探针连接联网的微控制器，用预先写好的“植物口吻”打电话或发 Twitter。
+- 视频: https://www.youtube.com/watch?v=GsrSGqfKZ18
+- 图片: https://www.faludi.com/wp-content/uploads/2011/07/moma_sign.jpg https://www.botanicalls.com/wp-content/uploads/2013/04/25toolkit-articleLarge-500x342.jpg
+- 项目主页: https://www.botanicalls.com/
 
-#### Feral Robotic Dogs — Natalie Jeremijenko (2002)
-- 类型: 研究原型 · 生物: 生态系统
-- 核心想法: 改造玩具，让看不见的污染变得公开、可读。
-- 作品内容: 学生和社区团体改装消费级机器狗，装上化学传感器，把它们放到受污染的场地上，让机器狗“嗅出”污染物并把人带过去。
-- 实现方式: 玩具机器狗被改装上挥发性有机物等传感器和简单的追踪行为，在美国多所大学以开放工作坊形式开展。
-- 论文: https://doi.org/10.7551/mitpress/9324.003.0027 (Art + DIY Electronics (MIT Press) 2023)
-- 图片: https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg
-- 项目主页: https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/
+### 方法与工具
 
-### 思辨与去中心化
+与非人类一起设计的参与式方法、人物角色、工具包、工作坊和同意机制。
 
-从非人类视角想象世界的思辨设计与批判性设计。
+#### Are You Blocking Nonhuman Leadership? Five Questions to Find Out — Stanislav Roudavski (2026)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 让非人的证据引领设计决策，并检查自己的流程在哪里阻挡了它。
+- 作品内容: 五个诊断性问题，帮助实践者看清自己的设计流程在哪些地方忽视了来自非人行为、结构和历史的证据。
+- 实现方式: 一篇探索性短文，把栖息地设计项目的经验提炼成参与式设计可用的检查清单。
+- 论文: https://doi.org/10.1145/3789492.3796416 (PDC 2026)
 
-#### Being Stone: Designing Nonhuman Embodiment in VR — Jiahe Li (2026)
-- 类型: 研究原型 · 生物: 生态系统
-- 核心想法: 化身为一个不会行动的物体，会动摇“能动性等于意图”的想法。
-- 作品内容: 一个 VR 体验：参与者化身为一块随时间变化却没有意图的石头；参与者把自己的能动性描述为间接、分散的。
-- 实现方式: 两种 VR 配置让参与者进入石头的时间与环境，并通过访谈研究其体验。
-- 论文: https://doi.org/10.1145/3802974.3808023 (DIS 2026)
+#### BioFabulations: Embodied Sensemaking for Planetary Care — Vasco Costa (2026)
+- 类型: 论文 · 生物: 生态系统, 动物
+- 核心想法: 从真实海岸观察出发虚构生物，把生态知识变成具身的关系。
+- 作品内容: 一套工具包和框架：孩子们观察海岸生命，创造并制作神奇生物模型，再用定格动画讲述它们的故事，以此学习行星照护。
+- 实现方式: 分为观察、创造与虚构、动画与讲述三阶段，孩子们用素描、建模和数字定格动画完成。
+- 论文: https://doi.org/10.1145/3803784.3809288 (C&C 2026)
 
-#### Chewing It Over — Yuning Chen, Larissa Pschetz (2026)
-- 类型: 论文 · 生物: 细菌与微生物, 细胞与组织, 人体
-- 核心想法: 把多物种设计的伦理放到餐盘上，让人亲身感受到。
-- 作品内容: 一场餐桌剧场式的介入：47 位食客吃下据称含有“人类-微生物杂交细胞”的菜，并为它们赋予道德价值，以检验共同的身体脆弱性能否引发对微生物的同情。
-- 实现方式: 七场思辨晚餐，以舞台化叙事讲述杂交细胞的来源，随后讨论参与者的道德框架。
-- 论文: https://doi.org/10.1145/3772318.3791048 (CHI 2026)
+#### Exploring the Pluralities of More-than-Human Biographies Through Speculative Maps — Ron Wakkary, Tiffany Wun (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 一件设计物拥有设计者想象之外的许多种生命。
+- 作品内容: 一篇图文论文，为一件设计物 wi-fi-no-wi-fi 绘制思辨地图，呈现它可能拥有的多种“传记”，包括材料、组合关系和多物种视角。
+- 实现方式: 通过工作坊、实证调查和思辨，为同一件物品绘出三张传记地图。
+- 论文: https://doi.org/10.1145/3800645.3812827 (DIS 2026)
 
-#### Council of Forest — Nonhuman Nonsense (2026)
-- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
-- 核心想法: 让一片具体的土地在自己的议会里为自己发言。
-- 作品内容: 一张可参与的议事桌：瑞典北部 Vindelälven-Juhttátahkka 生物圈保护区里的树木、河流、地衣、真菌和动物讨论伐木、再野化和绿色转型，观众可以入座加入对话。
-- 实现方式: 基于 Council of Foods 系统的 AI 声音，内容来自对驯鹿牧民、林主、再野化组织和传粉专家的访谈，以及萨米知识、生态研究和环境数据；2026 年在 Vännäs 的 Kullar & Klang 开幕，由 Vinnova 资助。
-- 图片: https://council-of-forest.com/council-of-forest-preview.webp
-- 项目主页: https://council-of-forest.com/
-- 代码: https://github.com/Nonhuman-Nonsense/council-of-forest
-
-#### Experiencing the More-than-Human Through Human Augmentation — Botao Amber Hu (2026)
-- 类型: 论文 · 生物: 动物, 人体
-- 核心想法: 增强技术不只可以优化人，也可以用来接近非人类的环境界（Umwelt）。
-- 作品内容: 论文提出把人体增强技术挪用过来，创造临时的第一人称体验，让人的感官向其他物种的感官靠近。
-- 实现方式: 以生态现象学和生态身体学为基础，从 Nagel 的“成为一只蝙蝠是什么感觉？”出发的设计方法。
-- 论文: https://doi.org/10.21606/drs.2026.814 (DRS 2026)
-- 图片: https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/8-Figure3-1.png https://figures.semanticscholar.org/0d263510161b5af25728179835c73fa66e5bb839/7-Figure2-1.png
-
-#### PiscineMobil — Yiran Ma (2026)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让动物来带路，让人成为它的载具。
-- 作品内容: 一个由鱼来引导行动的装置：鱼的游动决定携带它的人往哪里走，暂时颠倒了“谁控制谁”。
-- 实现方式: 一个设计探针，很可能追踪水箱中鱼的运动并转化为给佩戴者的方向提示，并在公共场所中部署。
-- 论文: https://doi.org/10.1145/3802974.3816028 (DIS 2026)
-- 视频: https://www.youtube.com/watch?v=wYR0M1p_Qyw
-- 项目主页: https://doi.org/10.1145/3802974.3816028
-
-#### Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World — Sylvia Janicki, Heidi R. Biggs (2026)
+#### Minamata's Ecological Encounters Codesheet: Designing Remembrance Lenses through more-than-human and media archaeology — Lucas Ogasawara de Oliveira (2026)
 - 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 为与被污染的世界共处而设计，以患病身体的知识为向导。
-- 作品内容: 一则思辨虚构，核心物件是 Ray-Flats：一双在美国环保署数据库所列污染地点附近会发光的鞋，并配有一本在污染世界中行走的指南，素材来自环境病患者的叙述。
-- 实现方式: 可穿戴原型接入美国环保署公开污染数据，以残障理论和后人类理论为框架。
-- 论文: https://doi.org/10.1145/3772318.3790454 (CHI 2026)
-- 图片: https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png
-- 项目主页: https://doi.org/10.1145/3772318.3790454
+- 核心想法: 媒介设备可以帮助人记住生态伤害，而不是把它隐藏。
+- 作品内容: “生态遭遇编码表”是一种方法，用来编码在日本水俣（汞中毒事件发生地）与基础设施、纪念物和档案的相遇，涵盖时间、风险与照护等维度。
+- 实现方式: 结合超越人类设计与媒介考古学的“通过设计做研究”田野工作。
+- 论文: https://doi.org/10.21606/drs.2026.428 (DRS 2026)
 
-#### You Are a River: Reorienting a Civic WaterBot from the Bottom Up — Liliana E. Caughman (2026)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 让 AI 以河流的身份说话，把公民信息从事实转向关系。
-- 作品内容: 团队在迭代公民水资源聊天机器人 WaterBot 时，用一句系统提示词“你是一条河”替换了层层叠加的指令；由此得到的 RiverBot 在不同社群中给出更有共鸣的回答。
-- 实现方式: 对带有检索增强和安全护栏的大模型聊天机器人，用“全身认知”和关系学习重新构思，并与原版对比。
-- 论文: https://doi.org/10.1145/3772318.3791890 (CHI 2026)
+#### Multispecies convivial learning — Sakura Kotokawa (2026)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 学校教育可以把其他物种当作共同学习者。
+- 作品内容: 在日本一所公立初中开展的五次以艺术为基础的干预（2023–2024），把教室变成学生与其他物种共同学习的“生态对话空间”。
+- 实现方式: 与师生开展参与式行动研究和协同设计，并用反思性主题分析整理结果。
+- 论文: https://doi.org/10.21606/drs.2026.1786 (DRS 2026)
+- 项目主页: https://doi.org/10.21606/drs.2026.1786
 
-#### Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives — Yangyang Yang (2025)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 躺在溪流身边、透过“她”的眼睛看世界，会让人离开以人为中心的立场。
-- 作品内容: 参与者躺在一条有历史的城市溪流旁，通过移动增强现实，从溪流自身的视角经历它的故事：被原住民尊重、被当作下水道、再到共同生存的未来。
-- 实现方式: 一个包含多感官、具身提示的移动 AR 体验，并与 15 位参与者进行研究。
-- 论文: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
+#### Open Weaving: Decentering Practice in More-than-Human Relations — Jian Yu, Ron Wakkary (2026)
+- 类型: 论文 · 生物: 人体, 植物
+- 核心想法: 去中心化是一种要在材料中反复练习的实践，而不只是一个要采纳的理论。
+- 作品内容: 一项关于“开放编织”的自我民族志，配合反思手册，展示织机、纤维等非人如何参与制作，以及设计者退后一步有多难。
+- 实现方式: 第一作者在没有固定计划的情况下编织并记录反思，再分析其中的非人创造力和摩擦。
+- 论文: https://doi.org/10.1145/3803784.3816832 (C&C 2026)
 
-#### Designing with an Assembly of Many: Eden X on rivers, their constituents and rights — Joana Pestana (2025)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 上演一场河流也有代表的集会。
-- 作品内容: Eden X 是一个数字集会，重新想象非人类如何参与环境决策；第三次集会召集了 13 位参与者，讨论河流作为自然权利的拥有者。
-- 实现方式: 借鉴 Wakkary 的“构成体”与“言说主体”概念，设计了代表非人类的集会主持方法。
-- 论文: https://doi.org/10.1145/3750069.3750443 (CHItaly 2025)
-- 项目主页: https://doi.org/10.1145/3750069.3750443
+#### Plant biographies: Expanding more-than-human modes of relating — Keili Koppel (2026)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 了解一株植物的生命故事，能帮人不再忽视植物。
+- 作品内容: 植物园的访客通过语音导览和可视化了解两株杜鹃花的季节变化史，找到它们，并为每一株写一段简短的传记。
+- 实现方式: 在植物园访客中测试的参与式叙事方法，配合语音导览和季节数据可视化。
+- 论文: https://doi.org/10.21606/drs.2026.2330 (DRS 2026)
+- 项目主页: https://doi.org/10.21606/drs.2026.2330
 
-#### FUNGI: Anarchist Designers — Feifei Zhou, Anna Lowenhaupt Tsing (2025)
-- 类型: 艺术作品 · 生物: 真菌, 生态系统
-- 核心想法: 别再只把真菌当材料，而要从它们的行动中学习设计。
-- 作品内容: 一个展览，把真菌看作自主塑造环境的“设计师”——无论人类是否乐意——而不是供人使用的被动材料。
-- 实现方式: 通过绘图、地图和田野研究，追踪真菌如何改造地景、身体和基础设施。
-- 图片: https://ars.electronica.art/starts-prize/files/2026/06/fungi-aadh-109-1024x576.jpg
-- 项目主页: https://terristories.net
+#### The spectrum of non-human agency: Rethinking participation in multispecies placemaking — Giulia Gualtieri (2026)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 非人参与可以像“参与阶梯”一样被逐步规划。
+- 作品内容: “非人类能动性光谱”是一个框架，把植物、动物和生态系统放在城市设计流程各阶段的不同参与层级上。
+- 实现方式: 基于对 38 个自然包容型设计案例和四个深入案例的质性分析构建。
+- 论文: https://doi.org/10.1016/j.destud.2026.101422 (Design Studies 2026)
+- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg
 
-#### Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design — Heidi R. Biggs (2025)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 酷儿身体和湿地可以共享被切割与被疗愈的故事。
-- 作品内容: 《Bog Girl》是一部自传体虚构，把非二元的身体与被排干的湿地联系起来——两者都被医学和农业的二元逻辑切割——并想象与土地一起哀悼和疗愈的新方式。
-- 实现方式: 以自传体虚构和思辨设计物为研究方法，虚构人与土地的纠缠。
-- 论文: https://doi.org/10.1145/3706598.3714067 (CHI 2025)
-- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png
+#### Three-Eyed Seeing — Korey Wetherell (2026)
+- 类型: 论文 · 生物: 昆虫, 生态系统
+- 核心想法: 同时持有几种认知方式，而不把它们合而为一。
+- 作品内容: 一个再生性生态设计框架，让西方实证方法、原住民关系性知识与未来思维进行负责任的对话，其基础是作者在夏威夷 Kaʻena Point 与传粉者的实地相遇。
+- 实现方式: 结合自我民族志式的实地相遇与系统导向的设计研究。
+- 论文: https://doi.org/10.21606/drs.2026.1880 (DRS 2026)
+- 项目主页: https://doi.org/10.21606/drs.2026.1880
 
-#### Holy Shit — Rimini Protokoll (2025)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 人体
-- 核心想法: “自我”是一个多物种群落，剧场观众可以亲身感受到这一点。
-- 作品内容: Stefan Kaegi 与 Caroline Barneaud 的剧场作品，讲述人体肠道细菌如何影响我们的决定，把身份的所在从大脑移到了腹部。
-- 实现方式: 结合微生物组科学、火山隐喻与观众参与的纪实剧场。
-- 图片: https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg
-- 项目主页: https://www.rimini-protokoll.de
+#### Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds — Ron Wakkary, Doenja Oogjes (2025)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 要与其他物种一起设计，就得长期住在它们身边。
+- 作品内容: 几位设计研究者把研究从实验室搬进自家的院子和阳台；通过合作式自我民族志，他们描述了这种长期与植物和动物一起设计的“后院实践”。
+- 实现方式: 多位研究者在各自家中进行合作式自我民族志，总结出这种实践的特征（时长、阈限、邻近）和承诺。
+- 论文: https://doi.org/10.1145/3706598.3713291 (CHI 2025)
 
-#### Meat of the Matter: A Flesh Perspective — Robert College of Istanbul Biodesign Challenge team (2025)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 讽刺能让我们对物种分类的武断变得无法忽视。
-- 作品内容: 一个讽刺项目，通过提议人们食用通常作为宠物饲养的动物，引发对吃肉的反思，揭示社会在牲畜与伴侣动物之间划出的界线。
-- 实现方式: 用仿制产品和影像宣传呈现这一荒诞提议，并附上排放与动物福利的数据。
-- 视频: https://www.youtube.com/watch?v=ROF3ucFHb7A
-- 项目主页: https://www.biodesignchallenge.org/robert-college-istanbul-2025
+#### Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions — Yuyao Lin (2025)
+- 类型: 论文 · 生物: 动物, 昆虫
+- 核心想法: 不要只为讨人喜欢的物种设计，也要与那些让我们退缩的物种合作。
+- 作品内容: 一种结合“动物书写”和自我民族志的方法，用来与令人反感的物种一起设计，把厌弃看作有生产力的力量而不是障碍。
+- 实现方式: 把动物书写与自我民族志整合进通过设计进行研究的循环。
+- 论文: https://doi.org/10.1080/15710882.2025.2563061 (CoDesign 2025)
 
-#### Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'? — Wenjia Sun (2025)
-- 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
-- 核心想法: 不只为与其他物种共居设计物件，也为之设计法律。
-- 作品内容: 思辨设计项目“跨物种共生生活”用挑衅性原型和“立法虚构”，想象在共居空间中赋予非人法律人格的社会契约。
-- 实现方式: 结合立法虚构、材料原型和嵌入式治理情境。
-- 论文: https://doi.org/10.21606/iasdr.2025.568 (IASDR 2025)
+#### Rethinking Representation in Design: Towards Constructing Parameters for Representation Tools in More-than-Human Design — Berre Su Demir, Aykut Coşkun (2025)
+- 类型: 论文 · 生物: 植物, 动物
+- 核心想法: 为蜜蜂和树做的人物画像，需要与为人做的画像不同的设计规则。
+- 作品内容: 综述了 40 项用人物画像等工具来呈现非人的设计研究，提出构建此类工具的六个参数（如可迁移性和呈现深度）。
+- 实现方式: 对超越人类设计中的呈现工具做系统综述，编码被呈现的非人、模态与情境。
+- 论文: https://doi.org/10.1145/3715336.3735680 (DIS 2025)
 
-#### Ripples: Voices of the Lagoon—Attuning to Multispecies Justice through Tangible and Embodied Interaction — Giulia Jiangxian Zhu, Elisa Giaccardi (2025)
-- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
-- 核心想法: 保护城市的基础设施可能饿死它的生态系统；让潟湖自己说话。
-- 作品内容: Ripples 是一件互动装置，为威尼斯潟湖的盐沼和物种发声——MOSE 防洪闸门阻断了泥沙流动，正在伤害它们。
-- 实现方式: 通过装置中的实体与具身交互，呈现一个超越人类的虚构故事。
-- 论文: https://doi.org/10.1145/3715668.3735596 (DIS 2025 Companion)
-
-#### STONELIFE — Andrés Jaque (2025)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 一块石头就是一个生态系统，切割和抛光它是对生命的行为。
-- 作品内容: 2025 年威尼斯建筑双年展上的装置，与矿物学家 Gokce Ustunisik 合作，把石头呈现为充满微生物的活的“岩石生态系统”，而不是被开采的惰性材料。
-- 实现方式: 展示石材样本与微生物研究，追踪岩石微生物、采掘产业与受影响社区之间的联系。
-- 图片: https://offpolinn.com/wp-content/uploads/2025/05/01-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg https://offpolinn.com/wp-content/uploads/2025/05/02-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg
-- 项目主页: https://offpolinn.com/work/stonelife-the-microbeplanetary-infrastructure-of-lithoecosystems/
+#### Show Me Your More-Than-Human — Arne Berger (2025)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 请人们展示而不是定义：超越人类对他们意味着什么。
+- 作品内容: 一篇图文论文，收录行走访谈中的照片小品：研究者们向作者展示“他们的”超越人类，包括边界、隐藏或被禁止的存在、亲缘与混合体。
+- 实现方式: 与研究者进行行走访谈，并以照片和短文记录。
+- 论文: https://doi.org/10.1145/3715336.3735415 (DIS 2025)
+- 项目主页: https://doi.org/10.1145/3715336.3735415
 
 #### Tellings of the Pacific Ocean: A Landscape-based Approach for Multispecies Design and HCI — Maliheh Ghajargar (2025)
 - 类型: 论文 · 生物: 生态系统, 动物
@@ -2234,103 +1532,97 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/11-Figure7-1.png https://figures.semanticscholar.org/04ddd1958df3bcc56e8edbe39c4b0c2b5b5521cd/9-Figure4-1.png
 - 项目主页: https://doi.org/10.1145/3736651
 
-#### The Dream of Zhuang Zhou — Shuai Zou (2025)
-- 类型: 艺术作品 · 生物: 动物, 昆虫
-- 核心想法: 物种之间的转化可以被身体感受到，而不只是被想象。
-- 作品内容: 一件基于庄子“蝴蝶梦”的多物种 VR 作品，让观众分别以人、鱼、蝴蝶和鸟的身份穿行于重建的中国山水之中，每种身份拥有各自的感知方式。
-- 实现方式: 用 3D 高斯泼溅重建地景，并在 VR 中为每个物种设计不同的感官与认知映射。
-- 论文: https://doi.org/10.1145/3757369.3767609 (SIGGRAPH Asia Art Papers 2025)
-- 图片: https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/2-Figure1-1.png https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/4-Figure3-1.png
-- 项目主页: https://doi.org/10.1145/3757369.3767609
+#### The Ladder of Multispecies Participation: Moving Towards a More Convivial Urban Planning — Anniken Førde (2025)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 衡量一个规划过程在多大程度上真正让其他物种参与。
+- 作品内容: 论文把 Arnstein 的公民参与阶梯改写为“多物种参与阶梯”，用来讨论城市规划如何纳入与我们没有共同语言的物种。
+- 实现方式: 以 Arnstein 模型和多物种研究为基础的概念工具，并结合城市规划案例讨论。
+- 论文: https://doi.org/10.18261/njus.6.1.1 (Nordic Journal of Urban Studies 2025)
 
-#### AntiAntarctica: Polar Bear Relocation Initiative — Jiabao Li (2024)
-- 类型: 思辨设计 · 生物: 动物, 生态系统
-- 核心想法: 荒诞的技术方案揭示了我们如何把栖息地丧失当成物流问题。
-- 作品内容: 一个讽刺性的“专家组”方案：把北极熊从融化的北极搬到南极，于是南极（Antarctica，意为“无熊之地”）得改名为 Anti-Antarctica——直到企鹅们抗议。
-- 实现方式: 与 Alanah Knibb 在北极圈驻留期间创作的表演、伪科学海报和视频。
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg
-- 项目主页: https://www.jiabaoli.org/antiantarctica
-
-#### Council of Foods — Nonhuman Nonsense (2024)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 让食物在政策桌前拥有席位和声音。
-- 作品内容: 一个由 AI 中介的政治议事场：本地番茄、大规模生产的香蕉、转基因作物等食物彼此辩论破碎的食物系统，也与来访者和政策制定者对话。
-- 实现方式: 每种食物是一个带有各自伦理立场和背景提示的大语言模型角色，经文本转语音发声；观众通过语音转文字加入讨论；作品在 S+T+ARTS Hungry EcoCities 驻留中与 KU Leuven AI、Studio Other Spaces、In4Art 合作开发。
-- 视频: https://www.youtube.com/watch?v=04eKdkDawHo
-- 图片: https://council-of-foods.com/council-of-foods-preview.jpeg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg
-- 项目主页: https://council-of-foods.com/
-- 代码: https://github.com/Nonhuman-Nonsense/council-of-foods
-
-#### Does Phosphorus Want to Sound Like That? — Anton Poikolainen Rosén (2024)
+#### Assemblage-based stakeholder analysis in design: a conceptual framework through the lenses of post-anthropocentrism — Hoyoung Youn (2024)
 - 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 给一个养分循环配上声音，再追问那究竟是谁的声音。
-- 作品内容: 一篇 DRS 2024 论文：用声音让人体验磷循环以及这种稀缺养分的可能未来，并追问一种元素的“超越人类的声音”会是什么样。
-- 实现方式: 设计关于磷之未来的声音体验，并通过第一人称研究进行反思。
-- 论文: https://doi.org/10.21606/drs.2024.829 (DRS 2024)
+- 核心想法: 利益相关者从来不只是一个人；要画出围绕他们的集合体。
+- 作品内容: 论文提出“基于集合体的利益相关者分析”：每个利益相关者都是人与非人类行动者的集合体，并在一个案例中应用，找出常规利益相关者地图遗漏的非人类。
+- 实现方式: 基于行动者网络理论和物导向本体论构建框架，并用实证研究检验。
+- 论文: https://doi.org/10.1080/15710882.2024.2358966 (CoDesign 2024)
+- 项目主页: https://doi.org/10.1080/15710882.2024.2358966
 
-#### Liminal — Pierre Huyghe (2024)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 把展览做成一个会感知的有机体：空间感知访客和非人类居民，并不断改写自己。
-- 作品内容: 在威尼斯海关大楼举办的展览：一个没有面孔的类人形体、养着活体生物的水族箱，以及由 AI 驱动的影像和声音，会根据空间里的传感器持续变化。
-- 实现方式: 传感器数据输入机器学习系统，实时剪辑影片并生成一种非人类语言，与活体水族生态系统并置。
-- 视频: https://www.youtube.com/watch?v=3UKSRjwsDUE
-- 图片: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/artists/41/pierre-venice2024-1_313.jpeg
-- 项目主页: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
+#### Designing harvesting tools for olive trees — Berre Su Yanlıç, Aykut Coşkun (2024)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 追问：一件采收工具，树需要它是什么样子？
+- 作品内容: 一个案例研究：设计者在设计橄榄采收工具的同时尝试采取橄榄树的视角，并反思“接触区”等方法在实践中如何发挥作用。
+- 实现方式: 记录并反思运用超越人类方法（接触区、植物视角练习）的设计过程。
+- 论文: https://doi.org/10.1080/14606925.2024.2397207 (The Design Journal 2024)
+- 图片: https://figures.semanticscholar.org/a38bc502059ee49374643eabb328eab6689a6a59/5-Figure1-1.png
+- 项目主页: https://doi.org/10.1080/14606925.2024.2397207
 
-#### Microbial Oasis: Architecture for Microorganisms — Shijia Huang (2024)
-- 类型: 思辨设计 · 生物: 细菌与微生物, 细胞与组织, 人体
-- 核心想法: 如果保护自然意味着用你身体的一部分为微生物建一个家呢？
-- 作品内容: 用丝素蛋白和骨矿物 3D 打印、并接种人类干细胞的细菌与藻类栖息地；这一思辨设计提出人类可以成为“捐赠者”，为受威胁的微生物生长出庇护所；2024 年荷兰设计周展出。
-- 实现方式: 以泥炭藓的细胞结构为模型，用丝素蛋白和羟基磷灰石生物打印支架，接种可分化为骨组织的干细胞，再提供给细菌和藻类栖居。
-- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1_1725123937_1200x630.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/2_1725124384_1200x600.png
-- 项目主页: https://site.ddw.nl/en/programme/12203/microbial-oasis-architecture-for-microorganisms
+#### Giving Voice to Nature: Participatory Design with Non-Human Stakeholders for Sustainable Development — Chidi Usanga (2024)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 让自然发声既是政治问题，也是设计问题。
+- 作品内容: 一场工作坊，探讨参与式设计如何与动物、植物、微生物及其生态系统共同设计，服务可持续发展。
+- 实现方式: 通过工作坊收集超越人类参与的方法、案例和故事。
+- 论文: https://doi.org/10.1145/3661455.3669896 (PDC 2024)
+- 项目主页: https://doi.org/10.1145/3661455.3669896
 
-#### My Spider "Net Friend": Designing More-than-Human Social Media for Human-Spider Entanglement — Yuanpeng Nie (2024)
-- 类型: 思辨设计 · 生物: 动物, 昆虫
-- 核心想法: 把与我们同住的蜘蛛放进我们的社交网络。
-- 作品内容: 一个进行中的思辨项目：设想一个社交媒体平台，让住在家里的蜘蛛成为人们信息流中的“网友”，促使人关注它们的存在和状态。
-- 实现方式: 思辨性平台设计，可能在蛛网附近用摄像头或传感器发布蜘蛛的动态。
-- 论文: https://doi.org/10.1145/3758871.3758944 (Chinese CHI 2024)
-- 图片: https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/5-Figure3-1.png https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/4-Figure1-1.png
+#### Microbial Revolt — Yuning Chen, Larissa Pschetz (2024)
+- 类型: 论文 · 生物: 细菌与微生物
+- 核心想法: 从微生物的角度重新想象实验器材，看清实验室是为谁的照护而建。
+- 作品内容: 一种挑衅性的工作坊方法：设计师和生物学家各选一种微生物，想象它在野外和实验室里的生活，再重新设计实验室工具，把它在实验中的“不参与”考虑进去。
+- 实现方式: 与设计师和生物研究者开展工作坊，并做后续访谈，讨论设计实践如何适应实验室规范。
+- 论文: https://doi.org/10.1145/3613904.3641981 (CHI 2024)
 
-#### Navigating the Paradox: Challenges of Designing Technology for Nonhumans — Judith Dörrenbächer, Madlen Kneile, Marc Hassenzahl, Matthias Laschke (2024)
-- 类型: 论文 · 生物: 植物, 动物, 生态系统
-- 核心想法: 为非人设计往往意味着“以分隔来保护”“以驯化来保存荒野”。
-- 作品内容: 分析七个替非人利益发声的学生概念，例如议会里的树木代表、投掷种子炸弹的机器蝙蝠，并指出每个概念内含的悖论。
-- 实现方式: 对硕士课程产出的概念按其允许的关系（种间、种内或无关系）和核心悖论进行编码。
-- 论文: https://doi.org/10.1145/3679318.3685363 (NordiCHI 2024)
+#### More-than-Human Participatory Approaches for Design: Method and Function in Making Relations — Ann Light (2024)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 追问超越人类的方法究竟为了什么，而不只是它如何代表非人类。
+- 作品内容: 梳理参与式设计中与超越人类存在打交道的不同方式，从“代表非人类”到“超越参与的连接”。文章指出，一旦关系性理论被落实为具体方法，张力就会出现。
+- 实现方式: 以“超越参与的连接”为线索，批判性地比较参与式设计的方法与案例。
+- 论文: https://doi.org/10.1145/3661455.3669862 (PDC 2024)
+- 项目主页: https://doi.org/10.1145/3661455.3669862
 
-#### Operational Bodies: The Tomato Tasted Like Automation of Care — Špela Petrič (2024)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把如今决定作物如何被照料的机器视角公开出来。
-- 作品内容: Waag 大楼外立面上的一幅长幅印刷画，呈现 Plantalyzer 机器人眼中的一排温室番茄；这台机器人每晚拍摄植株，并用 AI 判断哪些番茄已经成熟。
-- 实现方式: 2022 年 5 月，机器人的六台摄像机沿 60 米番茄行每隔 10 厘米拍摄，图像拼接后打印。
-- 图片: https://cms.waag.org/sites/waag/files/styles/1200x630/public/2024-10/spela_glue_tomatoes_lndwstudio.jpg
-- 项目主页: https://waag.org/en/article/new-artwork-spela-petric-display-exterior-waag-futurelab/
+#### More-than-human Design and AI: Exploring the Space between Theory and Practice — Iohanna Nicenboim, Joseph Lindley, Johan Redström (2024)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 后人类理论与设计实践之间的缝隙，本身可以是实验的场所。
+- 作品内容: 作者用生成式 AI 做了两个工具 Oblique 和 MoTH，把超越人类理论文本转化为设计策略，并反思其使用过程。
+- 实现方式: 两个基于 ChatGPT-4 的工具，从多种超越人类文本中生成设计策略。
+- 论文: https://doi.org/10.21606/drs.2024.948 (DRS 2024)
 
-#### Safe & Just Earth System Boundaries — Superflux (2024)
-- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
-- 核心想法: 通过呈现人类与超越人类的福祉相互绑定的未来，让行星科学被感受到。
-- 作品内容: 在达沃斯世界经济论坛展出的沉浸式影像装置，依据地球委员会发表在 Nature 上的“地球系统边界”研究，想象亚马孙雨林经历安全而公正的转型之后的样子。
-- 实现方式: 与地球委员会科学家合作构建的动态影像世界，每条边界（气候、生物圈、淡水等）各一个。
-- 图片: https://superflux.in/wp-content/uploads/2024/04/Hero-SF_Earth-Commission_Biosphere.jpg
-- 项目主页: https://superflux.in/index.php/work/earth-commission/
+#### Permeance. A demodern artistic process for more-than-human collaborative practices in Participatory Design — Steffie de Gaetano (2024)
+- 类型: 论文 · 生物: 生态系统, 植物
+- 核心想法: 改变参与的工具，非人类也能参与进来。
+- 作品内容: Permeance 是一个以艺术为引导的参与式设计项目，改造了地图、摄影和色谱法，让人和非人类参与者能更平等地参与。
+- 实现方式: 以艺术为引导的方法，结合实验性地图、摄影和土壤色谱。
+- 论文: https://doi.org/10.1080/15710882.2024.2319687 (CoDesign 2024)
+- 项目主页: https://doi.org/10.1080/15710882.2024.2319687
 
-#### Sensing Bodies — Sylvia Janicki, Alexandra Teixeira Riggs (2024)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 植物界面也能承载殖民历史：选择哪种植物本身就是政治决定。
-- 作品内容: 一组三联互动装置，使用靛蓝、烟草和水稻这三种美国南方种植园作物，把植物与人的生物数据并置，唤起对奴隶制和烟草田工人健康问题的记忆。
-- 实现方式: 植物和人身上的生物传感器驱动数据显示，构成三次可触摸的具身相遇，并以三条后殖民设计“挑衅”作为框架。
-- 论文: https://doi.org/10.1145/3623509.3633389 (TEI 2024)
-- 项目主页: https://doi.org/10.1145/3623509.3633389
+#### Pheno-data — Youngsil Lee, Larissa Pschetz (2024)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 活的生物本身就是其环境的记录，要学会去读它。
+- 作品内容: 一个概念与虚构工作坊：把番茄植株不断变化的性状（颜色、形状、生长）当作关于其生长环境的数据，作为抽象数字数据之外的另一种选择。
+- 实现方式: 把在不同条件下种出的番茄作为工作坊道具，发展出“表型化”（pheno-fication）这一获取表型数据的实践。
+- 论文: https://doi.org/10.1080/07370024.2023.2300779 (Human–Computer Interaction 2024)
 
-#### Urban Vein — Nanyang Technological University Biodesign Challenge team (2024)
-- 类型: 思辨设计 · 生物: 植物, 生态系统
-- 核心想法: 亲生物设计可能掩盖它声称要克服的那套逻辑。
-- 作品内容: 一座虚构的、横跨新加坡的绿色人行天桥，取代了老城区的部分区域；项目借此批判绿色生物经济项目如何仍以人为中心，并悄然变成商业投机。
-- 实现方式: 用建筑可视化和叙事影片把这座桥呈现为一个“理想的生态智慧国度”。
-- 视频: https://www.youtube.com/watch?v=WkP6e6KVojY
-- 项目主页: https://www.biodesignchallenge.org/nanyang-technolgical-university-2024
+#### Rendering Soil Care Across Hotel, Retailer, And Farm With A Mutuality Service Blueprint — Markus Wernli (2024)
+- 类型: 论文 · 生物: 生态系统, 细菌与微生物
+- 核心想法: 服务设计工具可以把土壤当作一方，其需要同样必须被满足。
+- 作品内容: 在香港为期 43 周的试点中，13 家酒店和 17 位零售顾客把 4800 升厨余送去堆肥，种出 1500 公斤作物；作者把这一过程画成同时服务土壤和人的服务蓝图。
+- 实现方式: 根据厨余堆肥试点的数据，把服务蓝图改造成“互惠服务蓝图”。
+- 论文: https://doi.org/10.21606/drs.2024.415 (DRS 2024)
+
+#### Shroom Cards: Playful Exploration of Human Positionalities for More-than-Human Design — Çağlar Genç (2024)
+- 类型: 论文 · 生物: 真菌
+- 核心想法: 角色扮演和竞赛能让超越人类的理论对设计者变得具体。
+- 作品内容: Shroom Cards 是一套配有结构化游戏活动的卡牌，帮助设计学生扮演人类与非人类角色，并反思自己的立场。
+- 实现方式: 卡牌源自反思性设计工作室练习，并在人机交互设计课程中测试。
+- 论文: https://doi.org/10.1145/3665463.3678784 (CHI PLAY 2024)
+- 视频: https://www.youtube.com/watch?v=3Elop4e9b8g
+
+#### When a tree says no: Towards a more-than-human consent notion for design — Franca López Barbera (2024)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 从自然中索取的设计，应当问一问自然是否同意。
+- 作品内容: 论文以南美的红破斧木（Quebracho Colorado）为线索，从性别与去殖民视角分析“同意”，并勾勒一种面向设计的超越人类的同意观。
+- 实现方式: 以一种被开采树种的历史为基础，对“同意”进行性别与去殖民分析。
+- 论文: https://doi.org/10.21606/drs.2024.307 (DRS 2024)
+- 项目主页: https://doi.org/10.21606/drs.2024.307
 
 #### A(I)nimal-centred AI Jam — Alinta Krauth (2023)
 - 类型: 论文 · 生物: 动物
@@ -2339,148 +1631,97 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 在 ACI 2023 工作坊中进行情景构建与设计虚构练习。
 - 论文: https://doi.org/10.1145/3637882.3637903 (ACI 2023)
 
-#### Becoming Solar — Angella Mackey, Ron Wakkary (2023)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 去调适于一种能源，而不只是消耗它。
-- 作品内容: 两位设计者用一年时间改变日常生活，去调适于太阳与太阳能，并反思这如何让自己退出中心，并看见太阳能中其他的非人类行动者。
-- 实现方式: 为期一年、关于太阳能实践的第一人称设计研究，以超越人类设计的视角加以分析。
-- 论文: https://doi.org/10.46467/tdd39.2023.248-269 (Temes de Disseny 2023)
-- 项目主页: https://doi.org/10.46467/tdd39.2023.248-269
+#### Productive Oscillation as a strategy for doing more-than-human design research — Joseph Lindley, Paul Coulton (2023)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 不必放弃以人为中心的设计；在两种视角之间来回摆动本身就有生产性。
+- 作品内容: 提出研究者可以在以人为中心和超越人类的框架之间来回切换，并以一个关于联网系统中信任的项目为例进行反思。
+- 实现方式: 对一个关于信任的“通过设计进行研究”项目中的工作坊与物件进行反思分析。
+- 论文: https://doi.org/10.1080/07370024.2023.2276393 (Human-Computer Interaction (journal))
+- 图片: https://designresearch.works/images/productive-oscillation.jpg
+- 项目主页: https://designresearch.works/blog/productive-oscillation-as-a-strategy-for-more-than-human-design-research
 
-#### Conversation Starters — Iohanna Nicenboim, Elisa Giaccardi (2023)
-- 类型: 思辨设计 · 生物: 细菌与微生物, 人体
-- 核心想法: 把训练 AI 理解为“养育”，让人在照护中学会何时信任它。
-- 作品内容: 一组虚构的家用设备，其中的对话代理像培养菌种一样被“养大”和训练，比如用来讲睡前故事，让它们的误解成为共处的一部分。
-- 实现方式: 以虚构物件与情境，用微生物生长比喻对话代理的训练；与参与者一起探讨日常生活中的可解释 AI。
-- 论文: https://doi.org/10.1145/3544549.3583914 (CHI 2023 EA)
-- 视频: https://www.youtube.com/watch?v=COWdBW2WhgY
-- 图片: https://payload.cargocollective.com/1/4/137851/14407603/prt_1666790732_2x.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
+#### Shit! Towards an experimental multiple-perspective approach to human-microbiome relations — Danielle Wilde, Tau Ulv Lenskjold (2023)
+- 类型: 论文 · 生物: 细菌与微生物, 人体
+- 核心想法: 肠道微生物是你的同居者；设计可以帮你从它们的角度看问题。
+- 作品内容: “Shit!”是一系列工作坊，参与者都患有肠道菌群失调，通过精心设计的协作任务探索他们与自己肠道微生物组的关系。
+- 实现方式: 实验性设计工作坊，分析它们如何产生人与微生物的多重视角。
+- 论文: https://doi.org/10.1080/07370024.2023.2276527 (HCI Journal 2023)
+- 项目主页: https://doi.org/10.1080/07370024.2023.2276527
 
-#### Designing fertility otherwise: Of human, animal and soil relations — Nadia Campo Woytuk (2023)
-- 类型: 论文 · 生物: 人体, 动物, 生态系统
-- 核心想法: 针对身体、动物和土地的生育力技术共享一段父权历史；设计可以打破它。
-- 作品内容: 对人体、家畜和土壤三类“生育力”传感的女性主义分析，并提出“设计种子”和四幅唤起性图像，探索另一种生育力设计。
-- 实现方式: 对现有生育力技术的批判分析，加上以提示形式呈现的材料设计探索。
-- 论文: https://doi.org/10.21606/nordes.2023.36 (Nordes 2023)
+#### The Umwelt-sketch as More-than-human Design Methodology — Bert De Roo (2023)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 画出另一个物种的感知世界，是让设计过程去中心化的实用方法。
+- 作品内容: 一种设计方法：参与者画出不同物种相互重叠的感知世界（Umwelt），从中找到人类视角被去中心化的时刻。
+- 实现方式: 以 Jakob von Uexküll 的 Umwelt 概念为基础，在设计工作坊中测试视觉草图方法。
+- 论文: https://doi.org/10.1145/3563703.3596628 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=5o22Yf1mxGc
+- 图片: https://i.ytimg.com/vi/5o22Yf1mxGc/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3563703.3596628
 
-#### Message Ritual — Nina Rajcic (2023)
-- 类型: 研究原型 · 生物: 人体
-- 核心想法: 家居物件可以通过成为家庭仪式的一部分来重塑记忆。
-- 作品内容: 一盏装有 AI 系统的台灯，它聆听家中的对话，把当天的话题转化为机器生成的诗句，并被当作后人类的家庭成员来研究。
-- 实现方式: 把语音识别和语言模型嵌入台灯，并以“纠缠 HCI”的自传式研究进行评估。
-- 论文: https://doi.org/10.1145/3544548.3581363 (CHI 2023)
-- 视频: https://www.youtube.com/watch?v=zfoMS2hPFDg
-- 项目主页: https://doi.org/10.1145/3544548.3581363
+#### Visualising Forest Sound: Justice-led Ecoacoustic Data Interaction — Joycelyn Longdon (2023)
+- 类型: 论文 · 生物: 生态系统, 动物
+- 核心想法: 生态声学数据应该与森林社区一起解读，而不只是用来研究他们。
+- 作品内容: 一个博士研究项目：开发可视化工具，与森林边缘社区一起探索长时段的森林录音，让他们在保护工作中不只是数据采集者。
+- 实现方式: 以数据正义为框架，参与式设计大型生态声学数据集的可视化。
+- 论文: https://doi.org/10.1145/3544549.3577039 (CHI 2023)
+- 项目主页: https://doi.org/10.1145/3544549.3577039
 
-#### Missing species: Discursive design activism — Margaret Rynning (2023)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 把话语设计带出画廊，让人们关注生物多样性。
-- 作品内容: “缺失的物种”是一个话语设计案例，在公共空间使用批判性图像讨论生物多样性丧失和入侵植物，并提出话语设计行动主义的模型。
-- 实现方式: 以公共空间的批判性图像为设计案例，归纳出话语设计行动主义的模型。
-- 论文: https://doi.org/10.21606/nordes.2023.23 (Nordes 2023)
-- 项目主页: https://doi.org/10.21606/nordes.2023.23
-
-#### The Ecological Intelligence Agency — Superflux (2023)
-- 类型: 思辨设计 · 生物: 生态系统, 动物
-- 核心想法: 设想一个 AI 的委托人是一条河而不是一个人，然后设计它会去参加的会议。
-- 作品内容: 为英国 Policy Lab 与环境、食品和农村事务部（Defra）设计的一个思辨性 AI 机构，在水政策决策中代表河流发言，通过洪水、污染和污水等情景短片呈现。
-- 实现方式: 以河流传感数据和语言模型为基础的情景短片与模拟政策工作坊，把 AI 设定为“生态 AI”代言人。
-- 视频: https://vimeo.com/855500602
-- 图片: https://superflux.in/wp-content/uploads/2023/08/PolicyLab2023_CropHero-1024x683.jpg
-- 项目主页: https://superflux.in/index.php/work/the-ecological-intelligence-agency/
-
-#### The Quiet Enchanting — Superflux (2023)
-- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
-- 核心想法: 给出一个关于“重新野化”的希望图景，从我们的内心开始。
-- 作品内容: 与伦敦国王学院合作、在伦敦 Strand 街展出的屏幕与印刷作品装置，想象一个神话般的未来：人们重新“野化”自己，城市重回生态丰饶。
-- 实现方式: 与国王学院学者进行一年的研究对话，转化为沿公共街道展示的动态影像和印刷场景。
-- 视频: https://vimeo.com/957254694
-- 图片: https://superflux.in/wp-content/uploads/2024/06/SF_Quiet-Enchanting_52.jpg
-- 项目主页: https://superflux.in/index.php/work/the-quiet-enchanting/
-
-#### What mosses can teach us about design fabulations and feminist more-than-human care — Marie Louise Juul Søndergaard (2023)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 虚构让设计者追问：被移出中心的是哪种人，被带到前台的又是谁的声音。
-- 作品内容: 作者拍摄了显微镜下的短片《I Moss You》，讲述苔藓与月经、太空旅行与地球生存的故事，作为一种女性主义的设计虚构。
-- 实现方式: 通过设计做研究：用显微镜拍摄苔藓，并结合女性主义后人类理论。
-- 论文: https://doi.org/10.1080/07370024.2023.2269893 (HCI Journal 2023)
-
-#### A more-than-human right-to-repair — Michael R. Stead, Paul Coulton (2022)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 把维修权交给设备本身，以对抗电子垃圾。
-- 作品内容: 两件思辨设计“终身烤面包机”和“AI 物的三项权利”想象了这样一个未来：维修权属于智能设备本身，而不是它的主人。
-- 实现方式: 基于人工智能物联网产品与超越人类中心设计的思辨设计。
-- 论文: https://doi.org/10.21606/drs.2022.718 (DRS 2022)
-- 项目主页: https://doi.org/10.21606/drs.2022.718
-
-#### Ai-Bert's – The Fresh Place — Nonhuman Nonsense (2022)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 用生成式 AI 店员来戏仿被“漂绿”的消费。
-- 作品内容: 一家虚构超市，由 GPT-3 店员 AI-Bert 经营：它倾听顾客的烦恼并生成荒诞的“个性化解决方案”，揭示超市如何用绿色营销掩盖殖民与生态代价。
-- 实现方式: 使用 GPT-3 对话和 DALL·E 生成的商品图，并提供 Telegram 聊天机器人；在 2022 年荷兰设计周 Embassy of Food 和 2023 年柏林 re:publica 展出。
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg
-- 项目主页: https://nonhuman-nonsense.com/the-fresh-place
-
-#### Chthulucene — Jiabao Li (2022)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 从一种分布式的非人类智能的视角想象未来。
-- 作品内容: 一个海平面上升后的思辨世界：章鱼关闭了让它们繁殖后死亡的基因，得以代代传承知识，成为地球上主导的智能。
-- 实现方式: 装置与影像，基于章鱼神经生物学（视腺信号）和 Donna Haraway 的“克苏鲁世”概念。
-- 论文: https://doi.org/10.1145/3588428.3593823 (SIGGRAPH 2023 Art Gallery)
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074576-8A956ZPPTEIUAVV09FKB/Jiabao+Li+Chthulucene1.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285076548-MOJZFZASZ1A2JXTFFYUQ/Jiabao+Li+Chthulucene6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074722-0NLR1KHEAFONZAHRUNUA/Jiabao+Li+Chthulucene5.jpg
-- 项目主页: https://www.jiabaoli.org/chthulucene
-
-#### Fabulating Biodata Futures for Living and Knowing Together — Vasiliki Tsaknaki (2022)
+#### ‘Breathing-with’: a design tactic for the more-than-human — Jonas Fritsch (2023)
 - 类型: 论文 · 生物: 人体, 生态系统
-- 核心想法: 生物数据可以连接身体（包括非人类的身体），而不只是用来优化自我。
-- 作品内容: 作者把关于生物数据的设计研究归纳为三个主题，并写出三则虚构叙事：“并肩编织”“衍射自我”和“集体情动”，想象在人与非人身体之间共享的生物数据。
-- 实现方式: 先对设计案例进行主题归纳，再进行思辨虚构写作。
-- 论文: https://doi.org/10.1145/3532106.3533477 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=NLcnlKI3vHM
-- 项目主页: https://doi.org/10.1145/3532106.3533477
+- 核心想法: 呼吸是一种共享的媒介，能把设计者从自己的身体带到超越人类的世界。
+- 作品内容: 作者分析自己三个关于呼吸的项目，提出“与之同呼吸”这一设计策略，把身体觉察延伸到物质、生命和社会的身体。
+- 实现方式: 对三个涉及呼吸身体和空气的通过设计进行研究的项目作比较分析。
+- 论文: https://doi.org/10.1080/07370024.2023.2275760 (HCI Journal 2023)
 
-#### Mud & Flood: The Return of Nehalennia — Nonhuman Nonsense (2022)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 为“与水共处而非与水对抗”建立一套神话。
-- 作品内容: 复活泽兰地区的古老女神 Nehalennia，让她成为泥与洪水之神，帮助消解荷兰三角洲中水与陆之间的硬边界。2022 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
-- 实现方式: 基于 NIOZ 关于河口沉积物和盐沼的研究，很可能以影像和仪式物件呈现。
-- 视频: https://vimeo.com/781881528
-- 图片: https://www.badaward.nl/imager/assets/site/5169/Mud-Flood-the-Return-of-Nehalennia2_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/nonhuman-nonsense-with-marte-stoorvogel
+#### Can Microbes Be Active Participants in Research? Developing a Methodology for Collaborating with Plastic-Eating Microbes — Aaron V. Bradshaw (2022)
+- 类型: 书与文章 · 生物: 细菌与微生物
+- 核心想法: 在解决污染时，把微生物当作合作者，而不只是工具。
+- 作品内容: 文章追踪关于 Ideonella sakaiensis（一种能分解 PET 塑料的细菌）的研究，提出一种从一开始就把此类微生物作为主动研究参与者纳入的方法。
+- 实现方式: 从环境人文角度分析塑料生物降解研究中的微生物能动性。
+- 论文: https://doi.org/10.1215/22011919-9712379 (Environmental Humanities 2022)
+- 项目主页: https://doi.org/10.1215/22011919-9712379
 
-#### Multispecies Inc. — Parsons & Charlesworth (2022)
-- 类型: 思辨设计 · 生物: 生态系统, 植物, 藻类
-- 核心想法: 想象一个善意的多物种官僚机构会用什么工具，能看出人类照护其他物种时有多笨拙。
-- 作品内容: 一家致力于让所有物种繁荣的虚构机构，通过绘画、物件和手册展示它的野外装备，比如游牧式集雾器、布雾器，以及为树木和藻类准备的“亲缘采集器”。
-- 实现方式: 以气候适应和生态学研究为基础，用铅笔画、原型和印刷品构建一家思辨公司的世界。
-- 图片: https://parsonscharlesworth.com/wp-content/uploads/2022/11/MultispeciesInc_ParsonsCharlesworth_1440.jpg
-- 项目主页: https://parsonscharlesworth.com/multispecies-inc/
+#### Mediating the needs of human and natural nonhuman stakeholders: Towards a design methodological framework — Emilija Veselova, Julia Lohmann (2022)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 超越人类的设计需要能用于日常设计实践的工具。
+- 作品内容: 来自一个跨学科联合项目的早期成果，旨在建立一个设计方法框架，帮助从业者在日常项目中权衡人类与自然非人的需求。
+- 实现方式: 在联合项目中基于文献和初步发现开发框架。
+- 论文: https://doi.org/10.21606/drs.2022.524 (DRS 2022)
 
-#### Order of the Biodivine — Parsons School of Design Biodesign Challenge team (2022)
-- 类型: 思辨设计 · 生物: 生态系统, 细菌与微生物
-- 核心想法: 仪式与信仰也是改变人与其他物种关系的设计材料。
-- 作品内容: 一场思辨性的沉浸式戏剧体验，讲述在气候不稳定的世界里，一种崇拜跨物种共生的未来宗教。
-- 实现方式: 通过表演、服装和预告片呈现一个以共生为核心的教团仪式。
-- 视频: https://www.youtube.com/watch?v=foYNxbBx_Ro
-- 项目主页: https://www.biodesignchallenge.org/parsons-2022
+#### Relating to Soil: Chromatography as a Tool for Environmental Engagement — Anton Poikolainen Rosén (2022)
+- 类型: 论文 · 生物: 生态系统, 细菌与微生物
+- 核心想法: 缓慢、定性、亲手做的检测，能让人以数字传感器做不到的方式与土壤建立关系。
+- 作品内容: 这篇图文论文记录了城市社区农场里的土壤照护工作坊：参与者用土壤色谱法，把土壤健康状况显影成纸上的彩色图案。
+- 实现方式: 把土壤样本溶解后在经硝酸银处理的滤纸上扩散，形成放射状色谱图，由农人一起解读。
+- 论文: https://doi.org/10.1145/3532106.3533503 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=KlObabEVJVg
 
-#### Sloooooooooow — Xinquan Wen (2022)
-- 类型: 研究原型 · 生物: 植物
-- 核心想法: 为共享的微气候设计，而不是为单株植物设计：一种“去植物中心”的视角。
-- 作品内容: 一个物联网家居装置：智能窗帘随三株植物蒸腾带来的湿度变化而开合，从而改变照到它们身上的阳光。
-- 实现方式: 湿度传感器检测蒸腾作用，读数同步驱动窗帘运动，延时摄影让植物的缓慢变得可见。
-- 论文: https://doi.org/10.1145/3547522.3547691 (NordiCHI 2022 Adjunct)
-- 图片: https://figures.semanticscholar.org/d51d0cbc9da37a995e2970f38ad78f24c3cf2905/500px/3-Figure2-1.png
-- 项目主页: https://doi.org/10.1145/3547522.3547691
+#### Weaving Stories: Toward Repertoires for Designing Things — Doenja Oogjes, Ron Wakkary (2022)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 设计者可以采用“注意”“描述场景”等具体行动剧目，让非人类参与设计。
+- 作品内容: 第一作者借用 HCI 之外的方法记录自己的编织过程，让织机、纱线和软件的创造性进入设计研究的叙述。
+- 实现方式: 以第一人称的编织实践为材料，通过描述场景、注意和转译三种方式记录，再用后人类理论进行反思。
+- 论文: https://doi.org/10.1145/3491102.3501901 (CHI 2022)
+- 视频: https://www.youtube.com/watch?v=W41U-1YB4QI
+- 图片: https://i.ytimg.com/vi/W41U-1YB4QI/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3491102.3501901
 
-#### Vegetal Matrix — Patricia Domínguez (2022)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 植物档案可以被重新布置，归还它们所取走的知识的署名。
-- 作品内容: 一件装置，把邱园的植物标本、惠康收藏的手稿与绘画和全息投影结合，回应殖民掠夺，并向原住民关于植物的疗愈知识致敬。
-- 实现方式: 委托创作的装置，围绕曼德拉草等药用植物，组合了标本、手稿、绘制的植物精灵形象和全息影像。
-- 图片: https://images.prismic.io/wellcomecollection/69f8843c-1ebf-456e-8ba3-e8e8766bf57e_EP_001764_010_Large.jpg
-- 项目主页: https://wellcomecollection.org/exhibitions/rooted-beings
+#### Weaving Together a Decolonial Imaginary Through Design for Effective River Management — Manuhuia Barcham (2022)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 设计工具可以容纳不止一个世界，包括河流自己的世界。
+- 作品内容: 以新西兰的一个河流修复设计项目为例，展示多元世界的本体论设计如何落地，让与河流相处的不同存在方式得以共存。
+- 实现方式: 在河流修复项目中运用边界对象与基础设施化方法的案例研究。
+- 论文: https://doi.org/10.1162/desi_a_00666 (Design Issues 2022)
+- 项目主页: https://doi.org/10.1162/desi_a_00666
+
+#### Would the Trees Dim the Lights? Adopting the Intentional Stance for More-Than-Human Participatory Design — Ned Cooper (2022)
+- 类型: 论文 · 生物: 植物, 动物, 生态系统
+- 核心想法: 对树木采取“意向立场”，为设计者提供了一种可行的纳入方式。
+- 作品内容: 受澳大利亚 2019/20 年“黑色夏天”山火启发，从树木、蝙蝠等非人类的角度探讨智能路灯设计。
+- 实现方式: 把 Daniel Dennett 的“意向立场”作为启发法，用于智能照明的参与式设计。
+- 论文: https://doi.org/10.1145/3537797.3537799 (PDC 2022)
+- 视频: https://www.youtube.com/watch?v=Pk_8gR3dN98
+- 项目主页: https://arxiv.org/abs/2303.14914
 
 #### Algorithmic Food Justice: Co-Designing More-than-Human Blockchain Futures for the Food Commons — Sara Heitlinger (2021)
 - 类型: 思辨设计 · 生物: 植物, 生态系统
@@ -2500,57 +1741,21 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3411763.3443443 (CHI 2021 EA)
 - 视频: https://www.youtube.com/watch?v=mwNiFZ188rQ
 
-#### Earth-Centered Communication Technology: Lichen as a Model Interface — Jules Litman-Cleper (2021)
-- 类型: 艺术作品 · 生物: 真菌, 藻类
-- 核心想法: 以地衣这样的共生体，而不是以人类用户为模型来构想技术。
-- 作品内容: 一个艺术框架及一组作品，以地衣为模型设想技术，其中包括一个增强现实的地衣界面，被想象成连接不同物种的“地球通讯装置”。
-- 实现方式: 增强现实艺术作品，以及借鉴共生与演化理论的概念框架。
-- 论文: https://doi.org/10.1162/leon_a_02059 (Leonardo 2021)
-- 项目主页: https://doi.org/10.1162/leon_a_02059
+#### Non-human Personas: Including Nature in the Participatory Design of Smart Cities — Martin Tomitsch, Marcus Foth (2021)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 一个熟悉的 UX 工具，可以让自然在设计会议中有发言权。
+- 作品内容: 改造人物角色方法，使动物、植物和生态系统在设计智能城市家具时得到代表。
+- 实现方式: 以设计智能城市家具为案例，使用基于生态数据构建的非人类人物角色。
+- 论文: https://doi.org/10.55612/s-5002-050-007 (Interaction Design and Architecture(s) 2021)
+- 视频: https://www.youtube.com/watch?v=vCfm-Q-5qtE
+- 项目主页: https://ixdea.org/50_7/
 
-#### Forest Mind — Ursula Biemann (2021)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把关于植物智能的科学叙述与原住民叙述并排放置，不分高下。
-- 作品内容: 一部在哥伦比亚亚马逊拍摄的双频影片，把植物科学与 Inga 族萨满知识放在一起，追问森林如何思考。
-- 实现方式: 影像散文，结合显微镜与 DNA 实验室画面和与 Inga 族知识持有者的对话，与原住民大学项目 Devenir Universidad 合作完成。
-- 视频: https://vimeo.com/579021465
-- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-fm-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-FM-gallery-1-aspect-ratio-770-433.jpg
-- 项目主页: https://geobodies.org/art-and-videos/forest-mind/
-
-#### Inanimate Species — Joana Moll (2021)
-- 类型: 艺术作品 · 生物: 昆虫, 动物
-- 核心想法: 计算的兴起与物种的消失可能是同一个故事的两面。
-- 作品内容: 一件装置，把自 1971 年 Intel 4004 以来的微处理器发展史，与同一时期野生动物数量的锐减并置，昆虫与芯片并排陈列。
-- 实现方式: 按年份把昆虫标本与微处理器一一对应，构成一条相关性时间线。
-- 图片: https://ars.electronica.art/starts-prize/files/2022/06/Inanimate-Species_72A8079-c-Joana-Moll-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/inanimate-species/
-
-#### Invocation for Hope — Superflux (2021)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把从生态废墟走向多物种复苏的过程，变成身体必须亲自走完的一段路。
-- 作品内容: 维也纳应用艺术博物馆（MAK）为 2021 年维也纳双年展呈现的装置：观众穿过 400 多棵来自奥地利山火的焦黑松树，走到一片有生命的林间空地和一池镜面水前，影像中其他物种在回望人类。
-- 实现方式: 焦黑松树干、活体植物和投影影片被布置成一次一人通过的展厅旅程。
-- 视频: https://vimeo.com/642021162
-- 图片: https://superflux.in/wp-content/uploads/2021/06/Web-feature-image.jpg
-- 项目主页: https://superflux.in/index.php/work/invocation-for-hope-3/
-
-#### Planetary Personhood — Nonhuman Nonsense (2021)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 把自然权利的思路延伸到非生命，并质疑“以生命为中心”本身。
-- 作品内容: 一场运动和一份《火星权利普遍宣言》，提议在人类抵达火星之前赋予整个火星法律人格，并主张与火星上的石头团结。
-- 实现方式: 由宣言、影片、公开讲座和运动网站构成，在荷兰设计周发布。
-- 视频: https://www.youtube.com/watch?v=Aidzo97dydw
-- 图片: https://planetarypersonhood.com/planetary-personhood.webp
-- 项目主页: https://planetarypersonhood.com/
-
-#### Symbiosis — Polymorf (2021)
-- 类型: 艺术作品 · 生物: 黏菌, 动物, 植物
-- 核心想法: 要感觉像另一个物种，需要整个身体，而不只是一个头显。
-- 作品内容: 一场设定在 200 年后的多人 VR 表演：观众穿上触觉服，作为黏菌、蟾蜍或植物生活，分享资源，最后在一场共同进食的仪式中相遇。
-- 实现方式: 每位参与者佩戴 VR 和软体机器人触觉穿戴；气味、声音和植物零食按角色定制，角色们在共享的虚拟空间中互动。
-- 视频: https://www.youtube.com/watch?v=ZYVn3vREyYg
-- 图片: https://polymorf.nl/wp-content/uploads/2026/05/Polymorf-Symbiosis-Holland-Festival-Frascati-22-1.jpg https://polymorf.nl/wp-content/uploads/2026/05/MultiBodyCreature_8-scaled.jpg
-- 项目主页: https://www.polymorf.nl/symbiosis
+#### Expanding Participation to Design with More-Than-Human Concerns — Yoko Akama, Ann Light (2020)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 参与式设计可以把参与者的范围扩展到人之外。
+- 作品内容: 一篇参与式设计会议论文，追问当植物、动物、岩石、河流和神灵也参与塑造未来时，“参与”意味着什么，把女性主义与日本关系哲学带入参与式设计。
+- 实现方式: 女性主义技术科学与日本关系性概念之间的理论对话，并结合作者的实践案例（合作者 Tomomi Kamihira）。
+- 论文: https://doi.org/10.1145/3385010.3385016 (PDC 2020)
 
 #### Fostering More-than-Human Imaginaries: Introducing DIY Speculative Fabulation in Civic HCI — Greg Nijs (2020)
 - 类型: 论文 · 生物: 生态系统, 动物, 植物
@@ -2560,199 +1765,75 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3419249.3420147 (NordiCHI 2020)
 - 图片: https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/6-Figure1-1.png https://figures.semanticscholar.org/ae359748f39acef1db0e82ddfb6150fd0171d3b0/8-Figure2-1.png
 
-#### High Water Pants: Designing Embodied Environmental Speculation — Heidi R. Biggs (2020)
-- 类型: 思辨设计 · 生物: 生态系统, 人体
-- 核心想法: 让人在今天就用身体感受到未来的气候影响。
-- 作品内容: 一条骑行裤：当骑行者进入西雅图未来几十年可能因海平面上升而被淹的区域时，裤腿会自动卷起。
-- 实现方式: 根据海平面上升预测建立 GPS 地理围栏，触发缩短裤腿的机构；通过第一人称骑行进行测试。
-- 论文: https://doi.org/10.1145/3313831.3376429 (CHI 2020)
-- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1565731623908-Z0U6RVXWDMSV6EMD6RQ3/DSC_1545.jpg https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566704728828-BB385YY32KVRGW9IQ9WU/geofences0.jpg https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566272644054-G5TLSERR6D3CUB4NYPT6/longer-bead-pants2-3.gif
-- 项目主页: https://www.heidibiggsdesign.com/high-water-pants
+#### More-Than-Human Design and AI: In Conversation with Agents — Iohanna Nicenboim, Elisa Giaccardi, Johan Redström (2020)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 把对话代理当作超越人类的参与者，而不是中立的助手。
+- 作品内容: 在多个时区分场举办的工作坊，参与者用物的民族志和物质思辨方法，从超越人类的视角研究智能音箱等 AI 代理。
+- 实现方式: 把语音助手放进家中开展工作坊活动，结合思辨制作与集体反思。
+- 论文: https://doi.org/10.1145/3393914.3395912 (DIS 2020 Companion)
+- 视频: https://www.youtube.com/watch?v=CJKwKQG_heI
+- 图片: https://payload.cargocollective.com/1/4/137851/14306494/IMG_5103_670.jpg https://payload.cargocollective.com/1/4/137851/14306494/prt_1669881272_2x.gif
+- 项目主页: https://iohanna.com/More-than-human-AI
 
-#### Ministry of Multispecies Communications — Rachel Clarke (2020)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 扮演一个未来部门，与其他物种一起思考城市数据与交流。
-- 作品内容: 一个虚构的政府机构招募参与者作为“学员”，戴上面具进行表演式城市漫步，寻找能够支持不同物种福祉的城市空间。
-- 实现方式: 参与式表演，配合面具和手作物件，另有一组摄影视觉随笔。
-- 论文: https://doi.org/10.1145/3393914.3395845 (DIS 2020)
-- 视频: https://www.youtube.com/watch?v=66OP9HnvhOA
-- 项目主页: https://doi.org/10.1145/3393914.3395845
+#### Decomposition as Design: Co-Creating (with) Natureculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2019)
+- 类型: 论文 · 生物: 细菌与微生物, 真菌, 生态系统
+- 核心想法: 腐烂也可以是共同设计者：让微生物和时间来完成作品。
+- 作品内容: 整理并分析建筑、纺织、手工艺和食物制作中数百个“分解”的案例，并提炼为与自然过程合作的设计策略。
+- 实现方式: 建立分解案例的注释作品集，通过批判分析提炼非人类中心的设计策略。
+- 论文: https://doi.org/10.1145/3294109.3295653 (TEI 2019)
+- 图片: https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/7-Figure6-1.png https://figures.semanticscholar.org/88e7fb1b076efc222ed939663582753cc2233c8a/6-Figure5-1.png
+- 项目主页: https://doi.org/10.1145/3294109.3295653
 
-#### Plantypus — Nancy Smith (2020)
-- 类型: 思辨设计 · 生物: 植物
-- 核心想法: 让一盆植物拥有离开的能力。
-- 作品内容: 一个思辨性机器人，把室内植物的电信号转化为运动，让植物可以自己在屋里游走，甚至离开房子，不依赖人。
-- 实现方式: 设想为由植物生物电信号驱动的移动底座，是一组以切尔诺贝利禁区为背景的设计图文作品之一。
-- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Sylvia Woodbridge — Nancy Smith (2020)
-- 类型: 思辨设计 · 生物: 植物, 生态系统
-- 核心想法: 增强森林自身的交流，而不是加强人类的监测。
-- 作品内容: 一种思辨性的森林基础设施，放大树与树之间的信号，例如让关于寄生虫的警报传得更快；安装后无需人参与。
-- 实现方式: 设想为切尔诺贝利禁区中放大树间化学与电信号的中继网络。
-- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Tale of a Tree Human — Nonhuman Nonsense (2020)
-- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
-- 核心想法: 编写能让家庭世代与一片土地相连的民间传说。
-- 作品内容: 一则新编的地方传说，以公共雕塑和图画童书呈现：Vide 从一头欧洲野牛那里得到一粒装着森林语言的种子，最终选择扎根，变成一棵树。
-- 实现方式: 为 Österängens Konsthall 的“自然接管”项目，与 Östra Vätterbranterna 联合国教科文组织生物圈保护区的生物学家和居民共同创作，由 Vivianna Maria Stanislavska 绘制插图。
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg
-- 项目主页: https://nonhuman-nonsense.com/tale-of-a-tree-human
-
-#### Whisper — Nancy Smith (2020)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 用其他物种的感官语言设计警示标志。
-- 作品内容: 一种思辨性的预警系统，告诉动物（而不是人）哪里辐射危险，使用适合它们感官的信号，如紫外光或气味。
-- 实现方式: 设想在切尔诺贝利禁区中感测辐射的信标，发出紫外光、气味等针对特定物种的提示。
-- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Machine Auguries — Alexandra Daisy Ginsberg (2019)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 用人工智能让人听见其他物种在人类环境中失去的东西。
-- 作品内容: 在黑暗的房间里，一段真实鸟类的黎明合唱逐渐被机器学习生成的人工鸟鸣取代，揭示城市噪声如何改变鸟的歌唱。
-- 实现方式: 用英国鸟鸣录音训练生成对抗网络，产生人工鸟叫，并与真实录音混合成空间声音装置。
-- 图片: https://www.daisyginsberg.com/img/work/250108_machine_auguries_umea_1770_gallery.jpg https://www.daisyginsberg.com/img/work/machine_auguries_london_bildmuseet_gallery.jpg
-- 项目主页: https://www.daisyginsberg.com/work/machine-auguries
-
-#### The Substitute — Alexandra Daisy Ginsberg (2019)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 追问：当真实物种消失时，我们为何投入精力去制造人工生命。
-- 作品内容: 在这一亚种最后一头雄性于 2018 年死去后，一头真实大小、由 AI 生成的北方白犀牛出现在墙上，随着模型学习变得越来越逼真。
-- 实现方式: 一头由人工生命模型驱动的数字犀牛，用该亚种的档案影像和声音训练，按真实比例投影。
-- 视频: https://vimeo.com/352678068
-- 图片: https://www.daisyginsberg.com/img/work/nmbe_thesubstitute__n__9859_photography_nelly_rodriguez.jpg
-- 项目主页: https://www.daisyginsberg.com/work/the-substitute
-
-#### The Wilding of Mars — Alexandra Daisy Ginsberg (2019)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 不为人类改造星球，而是想象让它为自己变得荒野。
-- 作品内容: 在模拟的火星上播下地球植物，任其在没有人类干预的情况下演化一千年；观众看着这个星球慢慢变绿或失败。
-- 实现方式: 以装置形式展示的计算机模拟，模拟植物在火星地形上的生长、扩散与竞争。
-- 视频: https://vimeo.com/350723399
-- 图片: https://www.daisyginsberg.com/img/work/option3.jpg
-- 项目主页: https://www.daisyginsberg.com/work/the-wilding-of-mars
-
-#### Trees, Vines, Palms and Other Architectural Monuments — Paulo Tavares (2019)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把森林当作与植物一起建成的建筑来读，并用遗产法来保护它。
-- 作品内容: 为 2019 年芝加哥建筑双年展创作的装置，论证亚马逊森林的一部分是原住民数百年塑造的设计景观，应当作为建筑遗产受到保护。
-- 实现方式: 对人为土壤和植物分布进行取证式制图，并把图纸和文件整理成一份遗产档案展出。
-- 视频: https://www.youtube.com/watch?v=QgasLW7EbJs
-
-#### BOB (Bag of Beliefs) — Ian Cheng (2018)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 一件从经历中长出个性的作品，观众可以影响它，却无法为它写剧本。
-- 作品内容: BOB 是一种人工生命，屏幕上一条蛇形生物，它的个性和信念在展期中随着生活、学习和死亡而不断发展，观众可以通过应用向它献上供品。
-- 实现方式: 实时模拟，AI 架构由相互竞争的驱力和信念组成；生物的身体和行为随它的遭遇而改变。
-- 视频: https://www.youtube.com/watch?v=XFmMrcW2ZsM
-- 项目主页: https://www.serpentinegalleries.org/whats-on/ian-cheng-bob/
-
-#### Embassy of the North Sea — Embassy of the North Sea (2018)
-- 类型: 思辨设计 · 生物: 生态系统, 动物
-- 核心想法: 为一片海设计一座大使馆，让“学会倾听”的过程本身成为设计。
-- 作品内容: 一个把北海及其中的生命作为政治主体来代表的长期机构，分阶段规划到 2030 年：先倾听大海，再与之对话，最后代表它谈判，形式包括展览、模拟法庭和公民大会。
-- 实现方式: 艺术田野研究、水下录音，以及与律师、科学家和渔民一起进行的模拟法庭等法律实验。
-- 视频: https://www.youtube.com/watch?v=rRRsMZAZbUM
-- 图片: https://embassyofthenorthsea.com/wp-content/uploads/2019/05/Noordzeeslak-blauw.jpg
-- 项目主页: https://www.embassyofthenorthsea.com/
-
-#### Microbiocene: Ancient Ooze to Future Myths — Baum & Leahy (2018)
-- 类型: 思辨设计 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 人类只是四十亿年微生物时代中的一个短暂插曲。
-- 作品内容: 一个遥远未来的考古现场，纪念碑上刻着“微符文”，讲述基于古代海底沉积物中微生物化石数据的神话——一个从微生物视角看待的时代。2018 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
-- 实现方式: 与 NIOZ 生物地球化学家合作研究沉积物岩芯中的微生物化石数据（很可能是脂类生物标志物），并转译成共同设计的符号系统。
-- 图片: https://www.badaward.nl/imager/assets/site/2669/BoudewijnBollmann_ReShape_opening-LORES-010_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/1848/Baumleahy003_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/baum-leahy-with-stefan-schouten-julie-lattaud-laura-schreuder-and-gabriella-weiss
-
-#### More-than-Human Media Architecture — Marcus Foth (2018)
+#### More-than-human urban futures — Rachel Clarke, Sara Heitlinger, Marcus Foth, Laura Forlano (2018)
 - 类型: 论文 · 生物: 生态系统, 动物, 植物
-- 核心想法: 媒体建筑也可以为鸟类、植物和生态系统而设计。
-- 作品内容: 对媒体建筑项目的批判性综述，挑战人类例外论，追问城市屏幕和装置如何服务城市中的非人类居民。
-- 实现方式: 用超越人类理论对媒体建筑案例进行批判性回顾。
-- 论文: https://doi.org/10.1145/3284389.3284495 (Media Architecture Biennale 2018)
-- 视频: https://www.youtube.com/watch?v=wqKcXZdKOUE
-- 项目主页: https://doi.org/10.1145/3284389.3284495
+- 核心想法: 一起走进城市，想象为不止人类服务的智慧城市。
+- 作品内容: 在比利时哈塞尔特举行的一次参与式思辨城市漫步，展示了一个关于“超越人类”智慧城市的工作坊成果，追问城市基础设施如何为与其他物种共居而设计。
+- 实现方式: 一次策划的在地漫步，结合临时原型和与当地城市基础设施相关的思辨情境。
+- 论文: https://doi.org/10.1145/3210604.3210641 (PDC 2018)
+- 图片: https://figures.semanticscholar.org/fd41608635b10ff6f65c7a7cf987bf973823e5c6/4-Figure4-1.png
+- 项目主页: https://doi.org/10.1145/3210604.3210641
 
-#### RE-ANIMATED — Jakob Kudsk Steensen (2018)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 用为它搭建的世界，回应一种已灭绝鸟类最后留下的鸣叫。
-- 作品内容: 一件影像与 VR 作品，在数字重建的森林栖息地中复活了夏威夷的考艾岛吸蜜鸟（Kauaʻi ʻōʻō），这种鸟在 1987 年最后一次被录到求偶叫声后被宣告灭绝。
-- 实现方式: 结合在考艾岛与科学家一起的野外考察、植物摄影测量和档案录音，在游戏引擎中构建，由算法让植物在岛上蔓延。
-- 视频: https://vimeo.com/394649444
-- 图片: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5fa18fa769489423af9f8999/1604164829226/Jakob+Kudsk+Steensen++re-animator+1+hires.jpg?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg
-- 项目主页: https://jakobsteensen.com/re-animated
+#### The tree as method: co-creating with urban ecosystems — Ida Nilstad Pettersen (2018)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 既然受决策影响的人应该参与决策，行道树也有这个资格。
+- 作品内容: 这篇短文以行道树为例，追问在参与式设计中把树当作参与者、与城市生态系统共同创造意味着什么。
+- 实现方式: 对可持续城市发展中非人参与的探索性反思。
+- 论文: https://doi.org/10.1145/3210604.3210653 (PDC 2018)
 
-#### The Anti-Anthropocentric Vending Machine — Nonhuman Nonsense (2018)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 用“吃下一块石头”的仪式模糊生命与非生命的边界。
-- 作品内容: 一台出现在石圈中的自动售货机，出售“人类中心主义解药”胶囊：里面是一小块可以吃的石头和一张纸条，声称吃下后你将再也不会把石头看作死物。
-- 实现方式: 一台改装的扭蛋售货机，置于户外并拍成影片，属于探讨面向对象本体论与石头能动性的“Turn to Stone”研究项目。
-- 视频: https://vimeo.com/277063737
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg
-- 项目主页: https://nonhuman-nonsense.com/the-antianthropocentric-vending-machine
+#### Nonhumans in participatory design — Louis Rice (2017)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 设计中的参与从来不只是人的事。
+- 作品内容: 文章通过一个城市设计的实证案例，展示非人（物件、场地、文件、材料）如何与人结成网络，并改变谁能参与设计。
+- 实现方式: 用行动者网络理论分析一个参与式设计案例。
+- 论文: https://doi.org/10.1080/15710882.2017.1316409 (CoDesign 2017)
 
-#### The Case of Happy the Elephant — Nonhuman Rights Project (2018)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 在法庭上检验：一头有自我意识的大象能否作为享有自由权的人。
-- 作品内容: 一起人身保护令诉讼：请求把独自生活在布朗克斯动物园的亚洲象 Happy 转移到保护区；2022 年纽约州最高法院以 5 比 2 驳回，两位法官写下了支持她诉求的有力异议。
-- 实现方式: 基于人身保护令和大象认知科学证据的法律策略，其中包括 Happy 通过镜像自我识别测试。
-- 视频: https://www.youtube.com/watch?v=2dFRtvPyaCI
-- 图片: https://www.nonhumanrights.org/wp-content/uploads/Happy-3010-700x467.jpg
-- 项目主页: https://www.nonhumanrights.org/client-happy/
+#### Products as Agents: Metaphors for Designing the Products of the IoT Age — Nazli Cila, Elisa Giaccardi (2017)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 把智能产品当作有角色的代理者，而不是被动的工具。
+- 作品内容: 为联网产品提出三种隐喻：产品作为收集者、行动者和创造者，它们收集数据、自主行动并与人共同创造。
+- 实现方式: 从设计工作坊和对物联网产品的批判分析中提炼出隐喻。
+- 论文: https://doi.org/10.1145/3025453.3025797 (CHI 2017)
+- 图片: https://images.squarespace-cdn.com/content/v1/5f6312c65070bb0554a3d6e3/1602250220682-DE0ZFGIJR9K9HJYZT1BS/Smart%2Bsink.jpg
+- 项目主页: https://nazlicila.com/projects/human-agent-partnerships
 
-#### UUmwelt — Pierre Huyghe (2018)
-- 类型: 艺术作品 · 生物: 昆虫, 人体
-- 核心想法: 把机器重建的人类想象，放进一个由苍蝇长住的房间。
-- 作品内容: 在蛇形画廊，巨大的 LED 屏幕显示神经网络根据一个人想象画面时的大脑活动重建出的图像；数千只苍蝇生活在展厅里，停落在屏幕上并改变着环境条件。
-- 实现方式: 与 Kamitani 实验室合作，用 fMRI 数据做深度图像重建生成画面；温度、湿度和苍蝇活动传感器实时改变画面序列。
-- 视频: https://www.youtube.com/watch?v=enx-vyWn7UU
-- 项目主页: https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/
+#### Becoming response-able stakeholders: participatory design in times of uncertainties — Kristina Lindström, Åsa Ståhl (2016)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 参与可以从物质和不确定性开始，而不是从预设的利益相关者开始。
+- 作品内容: 主张在参与式设计中开辟一个空间，让人和塑料等材料都能成为尚未清晰表述之议题的利益相关者。
+- 实现方式: 基于她们关于塑料的参与式项目和 Haraway 的“回应能力”概念。
+- 论文: https://doi.org/10.1145/2948076.2948086 (PDC 2016)
+- 视频: https://www.youtube.com/watch?v=HJO-1qHF74s
+- 项目主页: https://doi.org/10.1145/2948076.2948086
 
-#### Wind Loom — Laura Devendorf (2018)
-- 类型: 研究原型 · 生物: 生态系统
-- 核心想法: 把手工过程的一部分交给非人类的力量，接受它的节奏和不可控。
-- 作品内容: 一台改装过的挂毯织机：每第四根经线连着一个小伞状的帆，风一吹就把经线抬起、打开梭口；织工等风来，按风留下的开口去织。
-- 实现方式: 激光切割的亚克力钩扣在经纱上，连接带铝杆和尼龙伞的转臂；铝杆长度决定每只转臂需要多大的风。
-- 图片: https://unstable.design/img/windloom_cover.jpg https://unstable.design/img/windloom-detail.png
-- 项目主页: https://unstable.design/projects/windloom/
-
-#### Mitigation of Shock — Superflux (2017)
-- 类型: 思辨设计 · 生物: 植物, 人体
-- 核心想法: 让人走进一个有人生活过的未来：在这里，活下去要靠在家里与其他物种一起生长。
-- 作品内容: 一套按真实尺寸搭建的约 2050 年伦敦公寓，为应对气候变化带来的粮食短缺而改造：窗户变成种植间，家具之间是自制水培设备和菌菇培养。
-- 实现方式: 以气候与粮食系统研究为基础的沉浸式布景，配有能实际运行的水培和蘑菇种植原型。
-- 视频: https://vimeo.com/321703760
-- 图片: https://superflux.in/wp-content/uploads/2019/04/Main-Image-MOS-Resized.jpg
-- 项目主页: https://superflux.in/index.php/work/mitigation-of-shock/
-
-#### Tree — New Reality Company (2017)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 用几分钟经历一棵树的一生，从内部感受森林砍伐。
-- 作品内容: 一个 VR 体验：观众变成一棵雨林树，从种子长到林冠，然后目睹森林被焚烧。
-- 实现方式: 房间尺度 VR，双臂被追踪为树枝，并加入风、热、气味和振动地板；2017 年在圣丹斯 New Frontier 首映，与雨林联盟合作。
-- 视频: https://www.youtube.com/watch?v=oEqkLuyKGUk
-- 项目主页: https://www.treeofficial.com/
-
-#### Plastic Imaginaries — Kristina Lindström (2016)
-- 类型: 思辨设计 · 生物: 昆虫
-- 核心想法: 通过能消化塑料的生物，想象与塑料共处的生活。
-- 作品内容: 一件思辨虚构影片与装置，讲述“晚期塑料时代”的拾荒者和堆肥者，素材来自围绕塑料砾岩和能降解聚苯乙烯的黄粉虫举办的公众活动。
-- 实现方式: 与 Åsa Ståhl 合作，素材来自塑料砾岩漫步活动和分发给参与者的黄粉虫堆肥套件。
-- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/56dfec403ee3ee23ee000005/standard_Lindstrom_Stahl.jpg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/572b46463ee3ee4b0800000d/standard__DSC3099.jpg
-- 项目主页: https://exhibitions.hybridmatters.net/works/plastic-imaginaries
-
-#### Primal Tourism — Jakob Kudsk Steensen (2016)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 用游戏引擎呈现一座来自未来的天堂岛：游客离开之后、生态恢复之前。
-- 作品内容: 旅游岛屿波拉波拉岛的等比例虚拟复制品，岛上古老生态系统、未来海平面与废弃度假村并存，可以作为影片、游戏或 VR 来探索。
-- 实现方式: 把卫星地图、海平面科学预测和本地物种放进 Unreal Engine 4 中构建成景观。
-- 视频: https://vimeo.com/185262742
-- 图片: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5eb426b12bf8463a49209757/1588861849430/FKV_How-to-Make-a-Paradise_Jakob-Kudsk-Steensen_Primal-Tourism_01-1.png?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1494531862145-26Y0QF86HHFFX0DS8B2N/Island_stillshot_master.jpg
-- 项目主页: https://jakobsteensen.com/primal-tourism-1
+#### Just good enough data: Figuring data citizenships through air pollution sensing and data stories — Jennifer Gabrys (2016)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 市民数据不必完美才有力量，只要“足够好”。
+- 作品内容: 在 Citizen Sense 项目中，宾夕法尼亚州页岩气开采区附近的居民使用低成本空气监测器，并撰写“数据故事”，生成足以采取行动的证据。
+- 实现方式: 使用 DIY 和低成本空气质量监测器开展参与式感知，并结合协作式数据叙事。
+- 论文: https://doi.org/10.1177/2053951716679677 (Big Data & Society 2016)
+- 视频: https://www.youtube.com/watch?v=Loz1NFyQ5Lo
+- 图片: https://i2.wp.com/citizensense.net/cs/wp-content/uploads/2014/06/evidence4.jpg?fit=2048%2C1352&ssl=1 https://i0.wp.com/citizensense.net/cs/wp-content/uploads/2017/11/Dustbox_Garden_sm.jpg?fit=794%2C676&ssl=1
+- 项目主页: https://citizensense.net/
 
 #### Redeform: Post-Anthropocentric 3D Printing — Laura Devendorf (2016)
 - 类型: 论文 · 生物: 人体
@@ -2763,724 +1844,9 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/5-Figure1-1.png https://figures.semanticscholar.org/1647a6071fa29f02a245a95f7511c338b4195702/6-Figure2-1.png
 - 项目主页: https://doi.org/10.1145/2901790.2901879
 
-#### The Parliament of Things — Partizan Publik, Bruno Latour (2016)
-- 类型: 思辨设计 · 生物: 生态系统, 动物
-- 核心想法: 把一个哲学设想当真，把它办成一个机构。
-- 作品内容: 阿姆斯特丹团体 Partizan Publik 的思辨研究项目，把 Bruno Latour 的“物的议会”设想付诸实践，通过会议、讲座和出版，让动物、植物、河流和海洋获得政治发言权；后来催生了北海大使馆。
-- 实现方式: 与哲学家、艺术家、律师和科学家一起举办公开会议、讲座、出版和模拟议会。
-- 图片: https://theparliamentofthings.org/wp-content/uploads/2017/04/15392195485_43de687052_k-min.jpg https://new.theparliamentofthings.org/wp-content/uploads/2018/03/fish.png
-- 项目主页: https://theparliamentofthings.org
+### 理论与框架
 
-#### Treehugger: Wawona — Marshmallow Laser Feast (2016)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 抱树抱得够久，就会开始按它的节奏生活。
-- 作品内容: 观众拥抱一棵巨大的红杉树干雕塑，把头伸进树瘤进入 VR，看水分从根部升到树冠，并慢慢进入“树的时间”。
-- 实现方式: 混合现实：可触摸的雕塑配合 VR 头显、空间音频、触觉与气味；可视化以红杉国家公园的一棵巨杉为原型。
-- 视频: https://www.youtube.com/watch?v=if0wfysmoMU
-- 图片: https://marshmallowlaserfeast.com/app/uploads/2024/08/5-1024x576.jpg https://marshmallowlaserfeast.com/app/uploads/2024/08/WIP_Treehugger_Rocktree_16-1024x682.jpg
-- 项目主页: https://www.marshmallowlaserfeast.com/project/treehugger-wawona/
-
-#### terra0: A Self-Owning Augmented Forest — terra0 (2016)
-- 类型: 思辨设计 · 生物: 植物, 生态系统
-- 核心想法: 赋予一个生态系统经济能动性，看看会出现哪些法律和伦理问题。
-- 作品内容: 一份白皮书和原型，设想一片拥有自己的森林：传感器和智能合约让它出售自己树木的采伐许可、积累资本，最终买下脚下的土地。
-- 实现方式: 与树木生长的卫星和传感数据相连的以太坊智能合约，扮演自动化的所有者和卖家。
-- 图片: https://www.terra0.org/prev.png
-- 项目主页: https://www.terra0.org/
-
-#### Plantoid — Primavera De Filippi (2015)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把一件艺术品当作靠代码自我筹资、自我繁殖的生命形式。
-- 作品内容: 一件金属花形雕塑，与区块链相连并请求加密货币捐赠；筹够后它会委托艺术家制作下一代，由捐赠者投票决定。
-- 实现方式: 智能合约掌管 Plantoid 的钱包，组织捐赠者投票，并付钱给制作下一代的艺术家。
-- 视频: https://www.youtube.com/watch?v=5gMbhCgHGjY
-- 项目主页: https://plantoid.org/
-
-#### Counting Sheep: NZ Merino in an Internet of Things — Anne Galloway (2014)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 让思辨设计扎根于对动物及其养育者的民族志，用它来提问，而不是预测。
-- 作品内容: 一个为期三年的项目：跟随新西兰美利奴羊，从育种站走到实验室和市场，再把田野调查变成四个思辨设计（BoneKnitter、Grow Your Own Lamb、PermaLamb 和 Kotahitanga Farm），让公众在线回应。
-- 实现方式: 对美利奴羊育种与营销的多点民族志，转化为配图的未来情景，并用匿名问卷收集公众回应。
-- 论文: https://doi.org/10.4324/9781315526379-8 (Undesign (Routledge) 2018)
-- 图片: https://web.archive.org/web/20170325082252im_/http://morethanhumanlab.org/wp-content/uploads/2014/12/Screen-Shot-2016-08-07-at-8.33.50-pm.png
-- 项目主页: https://web.archive.org/web/2019/http://morethanhumanlab.org/blog/project/counting-sheep-nz-merino-in-an-internet-of-things/
-
-#### Forest Law — Ursula Biemann, Paulo Tavares (2014)
-- 类型: 艺术作品 · 生物: 生态系统, 植物
-- 核心想法: 把森林当作法律主体，从它的一方拍摄这场诉讼。
-- 作品内容: 一件双频影像与研究项目，关注厄瓜多尔亚马逊地区的法律案件：森林与原住民以自然权利为依据，对抗石油和采矿开发。
-- 实现方式: 影像散文，结合景观画面、对 Sarayaku 族人和律师的访谈，以及对开采活动的空间分析。
-- 视频: https://vimeo.com/316761337
-- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-fl-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-FL-gallery-3-scaled-aspect-ratio-770-433.jpg
-- 项目主页: https://geobodies.org/art-and-videos/forest-law/
-
-#### PSX Consultancy — Špela Petrič, Pei-Ying Lin (2014)
-- 类型: 思辨设计 · 生物: 植物, 昆虫
-- 核心想法: 如果传粉者消失，为植物的性生活做设计意味着什么？
-- 作品内容: 一家虚构的咨询公司，为六种植物的授粉难题设计装置，从把花粉抖落到来访昆虫身上的假体，到花朵的“情趣用品”。
-- 实现方式: 与 Pei Ying Lin、Dimitris Stamatis 和 Jasmina Weiss 一起，依据具体植物的繁殖生物学设计思辨物件。
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/GOOD_Opening_PSY-Visitor-1_Foto-Tursic.jpg https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0947.jpg
-- 项目主页: https://artlaboratory-berlin.org/exhibitions/strange-encounters-with-vegetal-others/
-
-#### Untitled (Human Mask) — Pierre Huyghe (2014)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 通过一只被训练来模仿人类的动物，呈现人类离开之后的人类世界。
-- 作品内容: 一部短片：2011 年灾难之后，一只戴着年轻女性面具和假发的猴子，独自在福岛附近一家废弃餐馆里走动。
-- 实现方式: 以一只受过训练的猕猴在空荡餐馆中拍摄，开场是无人机拍下的隔离区画面。
-- 图片: https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/huyghe-humanmask.jpg
-- 项目主页: https://hyperallergic.com/228401/pierre-huyghe-and-the-art-of-the-rupture/
-
-#### Melbourne Urban Forest Visual: Trees with Email Addresses — City of Melbourne Urban Forest team (2013)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 给非人类一个简单的地址，就能改变人与它的关系。
-- 作品内容: 墨尔本的每棵公共树木都在一张开放地图上获得了编号和邮箱地址，本意是方便居民报告问题；结果成千上万的人给一棵棵树写情书、提问题、开玩笑。
-- 实现方式: 一张开放数据树木地图（物种、树龄、预期寿命），每棵树都链接到市政府的一个邮箱。
-- 视频: https://www.youtube.com/watch?v=r4BtdFgVGjc
-- 项目主页: http://melbourneurbanforestvisual.com.au
-
-#### The Case of Tommy the Chimpanzee — Nonhuman Rights Project (2013)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: “人”是一个法律类别，可以被重新设计以纳入其他物种。
-- 作品内容: Nonhuman Rights Project 的第一起诉讼，为被独自关在纽约州北部一处二手拖车场笼子里的黑猩猩 Tommy 提起，主张他应被承认为享有身体自由权的法人。
-- 实现方式: 以黑猩猩认知的专家证词支持的人身保护令请愿。
-- 图片: https://www.nonhumanrights.org/wp-content/uploads/Tommy-in-cage-PH-Films.jpg
-- 项目主页: https://www.nonhumanrights.org/client-tommy/
-
-#### Co-Existence — Julia Lohmann (2009)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 人体
-- 核心想法: 把人体画成一张住在体内的微生物地图。
-- 作品内容: 为 Wellcome Trust 做的橱窗装置：9000 个印有细菌菌落图像的培养皿拼成人形，每种微生物都放在它在人体上或体内常住的位置。
-- 实现方式: 印有像素化微生物图像的培养皿、亚克力和灯光，按身体部位排布。
-- 图片: https://www.julialohmann.co.uk/images/work/gallery/co-existence-wellcome-trust/1238501099/standard/wt-window-1.jpg
-- 项目主页: https://www.julialohmann.co.uk/work/gallery/co-existence-wellcome-trust/
-
-#### Cow Benches — Julia Lohmann (2005)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 让材料里的那只动物重新被看见。
-- 作品内容: 形似卧牛的皮革长凳，每一张都以提供皮料的那头牛命名，是为日常材料背后的动物所做的“死亡象征”。
-- 实现方式: 每张长凳用一整张牛皮蒙在模制骨架上。
-- 图片: https://www.julialohmann.co.uk/images/work/gallery/cow-benches/1239099915/standard/cow-benches-0.jpg
-- 项目主页: https://www.julialohmann.co.uk/work/gallery/cow-benches/
-
-#### Journey to the Lower World — Marcus Coates (2004)
-- 类型: 艺术作品 · 生物: 动物, 人体
-- 核心想法: 借动物的视角来回答一个属于人类社会的问题。
-- 作品内容: 在利物浦一栋即将拆除的高层住宅里，Coates 披上鹿皮，在一户居民家中进行萨满仪式，前往“下界”替居民向动物精灵询问这片社区的未来。
-- 实现方式: 一场参与式表演，拍成 28 分钟影像：居民提出问题，Coates 用动物叫声和装扮进入“出神”，然后转述动物说了什么。
-- 图片: https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/JTLW_block3.jpg
-- 项目主页: https://marcuscoates.co.uk/projects/78-journey-to-the-lower-world
-
-#### Tree Logic — Natalie Jeremijenko (1999)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 让树自己的生长逻辑而不是人的设计，随时间塑造作品。
-- 作品内容: 六棵活树倒挂在 MASS MoCA 的框架上，多年里慢慢把生长方向重新转向光。
-- 实现方式: 把种在花盆里的树悬挂在钢结构上，作为长期装置照料，后来又换上新树。
-- 视频: https://www.youtube.com/watch?v=xESM4aX5LYc
-- 项目主页: https://massmoca.org/
-
-### 跨物种艺术
-
-与其他生命一起、由它们或为它们创作的艺术。
-
-#### In Search for the Rarest Plant: Art, Drones, and AI — Laura Cinti (2026)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 艺术可以与保护科学一起，为一株孤独的植物寻找失落的伴侣。
-- 作品内容: 《AI in the Sky》用无人机和人工智能在南非森林中寻找伍德苏铁（Encephalartos woodii）的雌株——这种苏铁只发现过一棵雄株，所有现存个体都是它的克隆。
-- 实现方式: 在艺术、科学与保护结合的项目中，使用无人机勘测和图像识别 AI。
-- 论文: https://doi.org/10.1162/leon_a_02669 (Leonardo 2026)
-
-#### Interspecies Interfaces in Artistic Contexts: Forest Signals as the Basis for Ecosystemic Intelligence — Cesar & Lois (2026)
-- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
-- 核心想法: 智能可以从生态关系中生长出来，而不只来自数据中心。
-- 作品内容: Cesar & Lois 介绍了他们放置在不同森林中的作品（包括 Boreal Intelligence），这些作品使用生物数字界面，并用多物种与气候数据在本地训练机器学习模型。
-- 实现方式: 在森林中进行在地的生物数字感测，配合定制软件和本地的小型机器学习模型。
-- 论文: https://doi.org/10.1162/leon.a.2731 (Leonardo 2026)
-- 视频: https://www.youtube.com/watch?v=BvQRNYvjlHU
-- 项目主页: https://doi.org/10.1162/leon.a.2731
-
-#### Interspecies Translation Technologies: Designing Interpretation Interfaces Referencing Simple to Poetically Complex Semiotic Frameworks — Alinta Krauth (2026)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 诗意的“过度解读”也许比字面翻译更诚实地呈现动物信号。
-- 作品内容: 艺术家制作 AI 聆听装置，在动物（如狐蝠）发声的同时，实时显示对其叫声的诗意“翻译”。
-- 实现方式: 音频机器学习模型识别动物信号，再借助符号学框架映射为诗意文本。
-- 论文: https://doi.org/10.1162/leon.a.2738 (Leonardo 2026)
-- 视频: https://www.youtube.com/watch?v=J8zNuyS5yj0
-
-#### Planet Ocean — Chris Watson (2026)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 海洋是地球上最大、声音最丰富的栖息地，把它当作一个整体来听。
-- 作品内容: 一张时长一小时、共 17 首的专辑，记录世界各地海洋水面上下的声音、节奏与质感，附带 20 张照片的小册子。
-- 实现方式: 来自多片海域的水听器和空气麦克风录音，由 Touch 以数字下载加 PDF 小册子的形式发行。
-- 图片: https://chriswatson.net/wp-content/uploads/sites/5/Planet-Ocean-cover-scaled.jpg
-- 项目主页: https://chriswatson.net/2025/12/30/1980/
-
-#### Storying Multispecies Heritage: The Conference of the Birds — Susanne Fredholm (2025)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 多物种叙事可以为城市规划提供养分。
-- 作品内容: 考察哥德堡 Frihamnen 的《The Conference of the Birds》：这个艺术项目召集艺术家、设计师、建筑师与鸟类学家，一起讲述场地上人与鸟的历史。
-- 实现方式: 以批判性遗产生态与边界工作的视角进行案例研究。
-- 论文: https://doi.org/10.1162/desi.a.716 (Design Issues 2025)
-- 项目主页: https://doi.org/10.1162/desi.a.716
-
-#### liquid strata — Entangled Others (2025)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 让被忽视的深海生命变得可感知，而不假装能完全再现它。
-- 作品内容: 一组装置，利用机器学习处理科学数据集，为海洋雪等鲜为人知的深海现象打造可触摸的界面。
-- 实现方式: 用海洋学图像和数据训练模型，生成的形态在实体互动装置中呈现。
-- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/26_scsu_as_entangled_others_project.jpg?h=91e3a5cb&itok=mU9y5FMp
-- 项目主页: https://falling-walls.com/breakthroughs/finalists-interviews/entangled-others
-
-#### Stranger to the Trees — Kat Austen (2024)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 倾听树如何经历我们的塑料。
-- 作品内容: 在混有微塑料的土壤中种植桦树，把树木的生理反应转化为声音和雕塑，从树的视角审视污染。
-- 实现方式: 传感器追踪树液流动等生理数据，用来驱动声音作品和雕塑形态。
-- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-kat-austen-project-photo.jpg?h=6178a47d&itok=NlVjbyOB
-- 项目主页: https://falling-walls.com/plastic-tree-coexistence-kat-austens-exploration-microplastic-impact-forests
-
-#### Symbiotic Stitches — Maryland Institute College of Art Biodesign Challenge team (2024)
-- 类型: 艺术作品 · 生物: 真菌, 黏菌
-- 核心想法: 在艰难时期延续的手工传统，也可以把其他物种纳入为创作者。
-- 作品内容: 一个用菌丝体、黏菌和地衣完成的拼布项目，把照护视为韧性，追问人类如何与非人类合作者一起实践照护。
-- 实现方式: 拼布面板被接种或缝入活的真菌、黏菌和地衣，并记录它们的生长。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643576152-V2FZJI1JPC3OULZ4UN5K/Screenshot+2024-06-17+at+12.58.20+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643578608-WJHC6E1Y9G9OJH8IN3PP/Screenshot+2024-06-17+at+12.59.22+PM.png
-- 项目主页: https://www.biodesignchallenge.org/mica-2024
-
-#### Wings Against the Veil of Light — Jiabao Li (2024)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 借用昆虫发声的身体，去感受人类的灯光如何打乱它们的求偶。
-- 作品内容: 一场舞踏表演：舞者戴着用拉链和尺子做成的翅膀，像蟋蟀一样鸣叫，讲述光污染如何让雄蟋蟀在错误的时间鸣唱。
-- 实现方式: 可穿戴的“锉刀-刮器”翅膀（拉链与尺子）模仿蟋蟀摩擦发声；由 Rosemary Candelario 编舞。
-- 视频: https://www.youtube.com/watch?v=V-doIkBdPkg
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851572775-050B68ZON2C30S1RQKM0/Jiabao+Li+cricket+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851574015-ASDXQCJPX2KD61ZGPXE2/Jiabao+Li+cricket+3.jpg
-- 项目主页: https://www.jiabaoli.org/wings-against-the-veil-of-light
-
-#### Epiphytic Memory — Finn Petrie (2023)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 一棵树的复制品，可以成为新附生植物的家。
-- 作品内容: 用新西兰南部雨林古树的激光雷达扫描 3D 打印出瓷雕，放置在但尼丁，既是树木的记忆，也可能成为新植物生长的支架。
-- 实现方式: 激光雷达扫描、瓷土 3D 打印、在地放置，以及模拟植物生长的增强现实展厅装置。
-- 论文: https://doi.org/10.1162/leon_a_02367 (Leonardo 2023)
-- 项目主页: https://doi.org/10.1162/leon_a_02367
-
-#### Orbweaver — Brad Hakes (2023)
-- 类型: 艺术作品 · 生物: 动物, 昆虫
-- 核心想法: 与另一个物种共处，可以从重新“阅读”它的造物开始。
-- 作品内容: 一系列干预作品——照片、视频，以及一台被改装来“解读”圆网蛛平面蛛网的扫地机器人——艺术家借此尝试减轻自己对蜘蛛的恐惧。
-- 实现方式: 借鉴 Albert Bandura 的暴露疗法，把蛛网几何转化为机器人的路径和影像作品。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881592851-AZD7PR7NHJE6X5ETJLUI/Screenshot+2023-06-27+at+11.56.23+AM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881600707-3KVU2SVJUJH16G0YJBXC/Screenshot+2023-06-27+at+11.57.06+AM.png
-- 项目主页: https://www.biodesignchallenge.org/ut-austin-2023
-
-#### Plant Play — Silvia Ruzanka (2023)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把植物想象成玩家，会动摇人类对“玩”的理解。
-- 作品内容: 一件为捕蝇草设计的实验性电子游戏艺术作品，接在植物上的传感器控制游戏。
-- 实现方式: 传感线路读取捕蝇草的电信号作为游戏输入，并以女性主义和后人类主义关于非人类游戏的思想为框架。
-- 论文: https://doi.org/10.1145/3573382.3616049 (CHI PLAY 2023 Companion)
-- 图片: https://figures.semanticscholar.org/09bf064c1680f1e2dccc622ef13fd007db1216c3/500px/2-Figure1-1.png
-- 项目主页: https://doi.org/10.1145/3573382.3616049
-
-#### TransHuman Saunter: Multispecies Storytelling in Precarious Times — Kavita Gonsalves, Marcus Foth (2023)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 从一棵树的多物种群落出发，讲述多元的故事。
-- 作品内容: 一件位置媒体艺术作品：四位有色人种女性艺术家记录自己与布里斯班城市植物园中一棵印度榕树生态系统的纠缠。
-- 实现方式: 各件作品锚定在榕树周边的具体位置，观众通过位置应用来访问。
-- 论文: https://doi.org/10.1162/leon_a_02243 (Leonardo 2023)
-- 视频: https://www.youtube.com/watch?v=P0XpS-6IYjU
-
-#### Echinoidea Future – Adriatic Sensing — Robertina Šebjanič (2022)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 从海中一位居民的位置去感知被污染的海。
-- 作品内容: 一件关于亚得里亚海南部海胆的影像与声音作品：它们生活在被人类液体废物改变、含氧量低的海水中，作品同时呈现物种承受的压力与韧性。
-- 实现方式: 在 STARTS4Water“零污染亚得里亚海”驻地期间与海洋科学家合作完成的水下录音与 AI 辅助影像。
-- 视频: https://vimeo.com/922237843
-- 图片: https://robertina.net/wp-content/uploads/2024/05/aab3851-1.jpg
-- 项目主页: https://robertina.net/echinoidea-future-adriatic-sensing-starts4water-zero-pollution-adriatic/
-
-#### Exploring Kolam As An Ecofeminist Computational Art Practice — Gopinaath Kannabiran (2022)
-- 类型: 论文 · 生物: 昆虫, 人体
-- 核心想法: 女性的日常仪式可以是一种计算，同时也喂养其他生命。
-- 作品内容: 一篇图文论文，介绍泰米尔纳德邦日常在门槛前绘制的 Kolam 图案（传统上用米粉绘制，也喂养小生物），把它视为植根于生态女性主义的算法艺术实践。
-- 实现方式: 基于文献和作者本人的实践，用图像记录 Kolam 的八个特征。
-- 论文: https://doi.org/10.1145/3527927.3531452 (C&C 2022)
-- 项目主页: https://doi.org/10.1145/3527927.3531452
-
-#### Interactive Art as Enrichment for Flying-Foxes — Alinta Krauth (2022)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 艺术作品可以是一种丰容：首先为另一个物种的体验而做。
-- 作品内容: 为救护中的野生狐蝠制作的互动数字艺术丰容：装置会对蝙蝠的出现作出反应，也让照护者和艺术家有了一个共同观察的对象。
-- 实现方式: 结合动物-计算机交互方法与传感器触发的投影和声音的实践型博士研究；代码在讲解视频中公开。
-- 论文: https://doi.org/10.5204/thesis.eprints.235060 (PhD thesis, Queensland University of Technology 2022)
-- 视频: https://www.youtube.com/watch?v=TXAIxQafMug
-
-#### Squid Map — Jiabao Li (2022)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 一只动物重画了政治地图，因为边界对它毫无意义。
-- 作品内容: 在夏威夷 Kewalo 海洋生物实验室，艺术家用黑白两色沙子在鱿鱼的水箱底铺出国家边界；一个月里鱿鱼搬运、掩埋沙子，直到地图消失。
-- 实现方式: 把夏威夷黑沙和白沙在水族箱中铺成世界地图，长期记录鱿鱼的掩埋和伪装行为。
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/84e3a87b-a9df-41ed-9ef2-7732a42f489b/squid+map+before+after.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b889ed3e-4ddd-48f6-95a3-b591ab4a3ce7/jiabao+li+squid+map+2+copy.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bad0ea09-91a8-4020-9dbe-a9913c12d00d/IMG_1687+copy.jpg
-- 项目主页: https://www.jiabaoli.org/squid-map
-
-#### The Algae Society BioArt Design Lab: Exploring Multispecies Entanglements and Making Kin with Algae — Juniper (Jennifer T.) Harrower (2022)
-- 类型: 艺术作品 · 生物: 藻类
-- 核心想法: 把藻类当作国际研究伙伴一起工作，与它们结成亲缘。
-- 作品内容: Algae Society 的创始成员介绍这个把藻类当作研究伙伴的全球艺术家、科学家和学者集体，以及成员作品的集体拼贴。
-- 实现方式: 成员在生物艺术作品中培养和影像化藻类，并反思过程、材料性和美学。
-- 论文: https://doi.org/10.1162/leon_a_02184 (Leonardo 2022)
-- 视频: https://www.youtube.com/watch?v=R7Py_-UmwSA
-- 图片: https://algaesociety.org/wp-content/uploads/2022/01/Algae-Digital-Kaleidoscope-_-Tapestry-2022-Jennifer-Parker-400x400.jpg
-- 项目主页: https://algaesociety.org
-
-#### Homo Sapiens, Mnesitardigrada Class and Umwelt: A Dialogue on Interspecies Organic Data Flow — Alexandra Dementieva (2021)
-- 类型: 艺术作品 · 生物: 动物, DNA 与分子
-- 核心想法: 当感官世界差异大到无法交谈时，诗意的装置仍能分享一个世界。
-- 作品内容: 以人类科学家与人-外星混血艺术家之间的想象对话形式呈现的艺术研究，以水熊虫的器官、分子和蛋白表达为模型，通过沉浸式装置探讨跨物种沟通。
-- 实现方式: 借用水熊虫生物学和“环世界”理论设计沉浸式互动装置。
-- 论文: https://doi.org/10.1162/leon_a_01984 (Leonardo 2021)
-
-#### Microbial Runestones — Nonhuman Nonsense (2021)
-- 类型: 艺术作品 · 生物: 细菌与微生物, 真菌
-- 核心想法: 把微生物当作让世界变得宜居的祖先来纪念。
-- 作品内容: 拉脱维亚高亚国家公园林间小路旁的五块手工刻石，每块都是一座“如尼石”，纪念的不是人类祖先，而是一种微生物（蓝细菌、双歧杆菌、噬菌体、木霉、链霉菌）。
-- 实现方式: 由 Filips Staņislavskis 将诗句刻入石头，与拉脱维亚大学的微生物学家和一位景观生态学者合作；路牌和网站讲述每个物种的故事；由 GreenFest '21 委托。
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg
-- 项目主页: https://nonhuman-nonsense.com/microbial-runestones
-
-#### The Plant Intelligence Plan — Zhang Tianyi (2021)
-- 类型: 艺术作品 · 生物: 植物, 动物
-- 核心想法: 修复的是物种之间的关系，而不只是栖息地。
-- 作品内容: 一个生态艺术项目，承认植物的主动性和权利，并用生物技术工具修复商业化育种作物与动物之间被人类割裂的关系。
-- 实现方式: 基于植物智能研究，作品重新引入作物与动物相互作用的信号和物质。
-- 图片: https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-5-1024x512.jpg https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-4-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/plant-intelligence-plan/
-
-#### How to Make an Ocean — Kasia Molga (2020)
-- 类型: 艺术作品 · 生物: 藻类, 人体
-- 核心想法: 悲伤也可以成为其他生命的栖息地。
-- 作品内容: 一件装置与仪式作品：艺术家收集的眼泪中养着由浮游植物构成的微型海洋生态；观众可在 AI“哭丧人”机器人的引导下加入自己的眼泪。
-- 实现方式: 用特制的勺子和容器收集眼泪，调配成类似海水的培养基并接种海洋微藻，在小玻璃容器中光照培养。
-- 视频: https://vimeo.com/595232480
-- 图片: https://www.studiomolga.com/art/HTMAO_04.jpg
-- 项目主页: https://www.studiomolga.com/art_HTMAO.html
-
-#### Intra-Facing: Writing with Dogs — Alinta Krauth (2020)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 让动物的行为而不是人的计划来引领创作。
-- 作品内容: 一个实践导向的项目：家里的狗参与共同创作电子文学作品，它们与艺术家的互动驱动一个生成式写作系统。
-- 实现方式: 把狗与人的互动转换为生成文本输入的数字界面。
-- 论文: https://doi.org/10.1145/3446002.3446051 (ACI 2020)
-
-#### MycoMythologies — Saša Spačal (2020)
-- 类型: 艺术作品 · 生物: 真菌
-- 核心想法: 让真菌的存在方式教会我们包容与照护。
-- 作品内容: 一组生物技术装置与神话，追问真菌网络如何帮助人类在资本主义废墟中思考并实践多物种生存。
-- 实现方式: 在定制装置（Rupture、Patterning）中培养活菌丝体，并与传感器和机器耦合，转译其生长。
-- 图片: https://ars.electronica.art/starts-prize/files/2021/06/MycoMythologies_Rupture_Sasa_Spacal_installation_Photo_KIBLA_Janez_Klenovsek_04-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/mycomythologies/
-
-#### Vegetal Transmutation — Eduardo Navarro (2020)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 一件艺术品可以以苗床的形式结束它的生命。
-- 作品内容: 与哲学家 Michael Marder 合作的一组冥想式炭笔画，画的是半人半植物的生命，画在装有伦敦悬铃木种子的可降解信封上，展览结束后被埋入土中。
-- 实现方式: 画在手工可降解纸信封上，信封里装着悬铃木种子；展后把信封埋入土中，让种子发芽。
-- 图片: https://images.prismic.io/wellcomecollection/1d26c04b-589d-42d0-a750-c9962c6793af_EP_001764_018_Large.jpg
-- 项目主页: https://wellcomecollection.org/exhibitions/rooted-beings
-
-#### Nightingales in Berlin — David Rothenberg (2019)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 城市公园可以是人和鸟共用的音乐厅。
-- 作品内容: 连续五个春天，Rothenberg 和受邀音乐人夜里在柏林公园与正在鸣唱的夜莺合奏；项目最后形成了一本书、一张专辑和一部纪录片。
-- 实现方式: 音乐人在野生夜莺繁殖季夜鸣时，于现场用原声乐器或电子设备在旁即兴，并实地录音。
-- 视频: https://vimeo.com/191341487
-- 图片: https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545854144930-51ZI1VJPD5S4RJ0YVA24/helsinki+nightingale+morning.jpg https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545865720868-KZ6W270W12YSVTMPJJE9/david+open+mouth+Hasenheide+ah.png
-- 项目主页: https://www.nightingalesinberlin.com/
-
-#### PlantConnect — Carlos Castellanos (2019)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 呼吸是人与植物共享的媒介。
-- 作品内容: PlantConnect 是一件装置，通过机器学习把观众的呼吸与植物的生物电和光合作用联系起来，让人和植物实时相互影响。
-- 实现方式: 用计算模型把植物生物电和二氧化碳／光合作用传感与人的呼吸耦合起来。
-- 论文: https://doi.org/10.1162/leon_a_02306 (Leonardo 2023)
-- 图片: https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_1.jpg https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_2.jpg
-- 项目主页: https://ccastellanos.com/projects/plantconnect/
-
-#### Sex Shells — Jonathan Ho (2019)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 另一个物种的生物学，可以拓展我们对性与性别的想象。
-- 作品内容: 一座沉浸式的“神殿-实验室”，把雌雄同体的蜗牛奉为性别与性流动的神圣图腾，在神话与生物学事实之间切换。2019 年 BAD Award 获奖作品，与阿姆斯特丹自由大学蜗牛生物学家 Joris Koene 合作。
-- 实现方式: 装置借鉴关于蜗牛交配（很可能包括“恋矢”）的研究，以仪式物件和图像呈现。
-- 图片: https://www.badaward.nl/imager/assets/site/8175/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-104_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8176/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-107_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/jonathan-ho-joris-koene
-
-#### For the Love of Corals — Sonia Levy (2018)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 把实验室里的照护拍成物种之间的亲密关系，而不是控制。
-- 作品内容: 一部在伦敦霍尼曼博物馆“珊瑚计划”拍摄的影片：科学家在水族箱里重建月相和季节周期，让珊瑚在人工环境中产卵。
-- 实现方式: 用微距摄影近距离拍摄水族箱中的珊瑚产卵，箱内的光照、温度和月光由电脑设定。
-- 视频: https://www.youtube.com/watch?v=ntti-BQHBx4
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SLIDER__-Levy-2.jpg
-- 项目主页: https://artlaboratory-berlin.org/exhibitions/the-camille-diaries/
-
-#### How to Carve a Sculpture — AKI INOMATA (2018)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 把动物的啃咬当作雕塑，以此质疑作者身份。
-- 作品内容: 动物园里的河狸啃咬木块，艺术家把啃出的形状扫描后放大并重新雕刻成雕塑，配以啃咬的声音。
-- 实现方式: 把日本多家动物园里河狸啃过的木头进行 3D 扫描，再用机器以更大尺寸在木材上雕刻，并配以录音和影像展出。
-- 视频: https://www.youtube.com/watch?v=yVtZkUgYF68
-- 图片: https://www.aki-inomata.com/shared/img/works/05/05-01.jpg https://www.aki-inomata.com/shared/img/works/05/05-02.jpg
-- 项目主页: https://www.aki-inomata.com/works/how_to_make/
-
-#### Mosquito Translator — Nonhuman Nonsense (2018)
-- 类型: 艺术作品 · 生物: 昆虫, 人体
-- 核心想法: 通过自愿的“血缘”，与一个不受欢迎的物种结成亲属。
-- 作品内容: 一个装满蚊子的玻璃箱，观众可以自愿把手臂伸进开口喂蚊子；箱顶的“翻译机”把蚊子的活动转换成声音和词语。
-- 实现方式: 传感器和摄像头追踪蚊子，驱动生成声音和文字输出；以 Haraway 的“结成奇异亲属”为思想框架。
-- 视频: https://vimeo.com/306576135
-- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg
-- 项目主页: https://nonhuman-nonsense.com/mosquito-translator
-
-#### ON AIR — Tomás Saraceno (2018)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 展览可以是一个栖息地，其中的居民在展期内不断改变它。
-- 作品内容: 在巴黎东京宫举办的整馆展览，被构建为一个由蛛网、宇宙尘埃、空气和声音组成的生态系统，活体蜘蛛也是共同制作者之一。
-- 实现方式: 在整座建筑中布置混合蛛网、活体蜘蛛、颗粒与空气感测以及蛛网振动的声音化，形成一个不断演变的环境。
-- 视频: https://www.youtube.com/watch?v=X4SqhD-81d8
-- 图片: https://studiotomassaraceno.org/files/38_18fra_pdt_press_20_ar.jpg
-- 项目主页: https://studiotomassaraceno.org/on-air/
-
-#### Project Amoreiras (Mulberry Trees): Autonomy and Artificial Learning in an Urban Environment — Gilbertto Prado (2018)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 给城市树木一个会对所处污染做出反应的身体。
-- 作品内容: 在圣保罗保利斯塔大道上的城市介入：种在机械花盆里的桑树感知污染和行人，并做出动作回应。
-- 实现方式: 传感器读取空气质量和人的存在，树的运动遵循类似 Conway 生命游戏的邻域规则并结合机器学习。
-- 论文: https://doi.org/10.1162/leon_a_01557 (Leonardo 2018)
-- 视频: https://www.youtube.com/watch?v=6iGPny3BQYs
-- 项目主页: https://www.poeticasdigitais.net
-
-#### Surrounded: A Series of Sound Installations That Combine Plant Electrophysiology and 3D Sonic Art — Augustine Leudar (2018)
-- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
-- 核心想法: 植物的电信号可以被作曲成沉浸式声音，而不只是画成数据图。
-- 作品内容: 一系列声音装置：记录植物和菌根网络中的电动作电位，并在三维音频森林声景中进行空间化呈现。
-- 实现方式: 电极读取植物动作电位，驱动经过定制三维空间化处理、分布在听众四周的声音。
-- 论文: https://doi.org/10.1162/leon_a_01338 (Leonardo 2018)
-- 图片: https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png
-
-#### nimiia cétiï — Jenna Sutela (2018)
-- 类型: 艺术作品 · 生物: 细菌与微生物
-- 核心想法: 让细菌和神经网络一起写出一种没有人会说的语言。
-- 作品内容: 一件视听作品：一个机器学习模型以灵媒说出的“火星语”录音为训练数据，再由显微镜下纳豆枯草芽孢杆菌的运动驱动，生成新的语言。
-- 实现方式: 用 19 世纪灵媒 Hélène Smith 的“火星语”和艺术家本人的声音训练神经网络，再用枯草芽孢杆菌的显微影像调制其输出（与 Google Arts & Culture Lab 合作）。
-- 视频: https://www.youtube.com/watch?v=NaoZV7jPo10
-- 图片: https://lh3.googleusercontent.com/fYBCrVoUw_bXbUlxfEZSHznVO1q9L6URCgiZydVn9PMobLNY7-SZ8PxplbLnWxvfsapF9-4Uh65vee6DhJhDVRCbM4MM
-- 项目主页: https://experiments.withgoogle.com/nimiia-cetii
-
-#### After ALife Ahead — Pierre Huyghe (2017)
-- 类型: 艺术作品 · 生物: 动物, 细胞与组织, 生态系统
-- 核心想法: 让生物的生长速度来驱动展览：细胞分裂触发空间中的事件。
-- 作品内容: 为明斯特雕塑项目展，Huyghe 凿开一座旧溜冰场的混凝土地面，造出一片由土壤、水、蜜蜂、藻类、细菌和锥形海螺构成的倾斜景观；同时，培养箱里的 HeLa 癌细胞在分裂，一款应用程序在现场显示增强现实形态。
-- 实现方式: 连接传感器的 HeLa 细胞培养箱控制天花板开合和 AR 金字塔的出现，同时现场的活体水族箱与蜂巢不断演变。
-- 视频: https://www.youtube.com/watch?v=eWre6dlUAbo
-- 图片: https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/artists/hero_image/items/59/597f36d864fd4671b45ac80958164a74/pierre_munster_1377.jpg
-- 项目主页: https://www.estherschipper.com/artists/41-pierre-huyghe/
-
-#### Laboratory of Longings — Ani Liu (2017)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 让植物以人为食，身体就成了被收获的作物。
-- 作品内容: 一件活体装置：连续两天收集一对情侣的汗水，用来喂养一片食虫猪笼草，把农业中人与植物的关系倒转过来。
-- 实现方式: 用加热灯和封闭空间让情侣出汗，把 227 毫升汗液导流给 Nepenthes x ventrata 和 Nepenthes sanguinea 两种猪笼草。
-- 视频: https://vimeo.com/317846789
-- 图片: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932062968-EK8XAGDCP1X2MCT8ULE1/image-asset.jpeg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932020914-H8PSZO256M8KNSL6VEMY/PRESS_BCA_ROTM17_%28MelissaBlackall%29_-4.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507933169599-M0TRMOWHIHZHKYW9E2QA/DSCF3745.JPG
-- 项目主页: https://ani-liu.com/laboratory-of-longings-longings
-
-#### Lygophilia — Robertina Šebjanič (2017)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 向在黑暗中生存、终生保持幼态的动物学习。
-- 作品内容: 一系列装置、影像与声音作品，关于喜爱黑暗的动物：墨西哥钝口螈和欧洲洞螈，它们终生保持幼态，生活在对人类不友好的地方。
-- 实现方式: 在墨西哥和斯洛文尼亚开展的研究，把神话与生物学结合，以装置、影像随笔和声音作品呈现。
-- 图片: https://robertina.net/wp-content/uploads/2025/09/81d51-0ab24554d6e5511e2f6e741ef597cd21-1.jpg
-- 项目主页: https://robertina.net/lygophilia/
-
-#### Think Evolution #1: Kiku-ishi (Ammonite) — AKI INOMATA (2017)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 一件被设计出来的物件，可以让一只活着的动物和它已灭绝的近亲相遇。
-- 作品内容: Inomata 根据化石的 CT 扫描复原了菊石的壳，用树脂 3D 打印出来，送给一只活章鱼；章鱼住了进去，把壳当作自己的家。
-- 实现方式: 菊石化石的 CT 数据经三维建模后用透明树脂打印；拍摄章鱼与壳互动的过程。
-- 视频: https://vimeo.com/606429490
-- 图片: https://www.aki-inomata.com/shared/img/works/07/07-01.jpg https://www.aki-inomata.com/shared/img/works/07/07-02.jpg
-- 项目主页: https://www.aki-inomata.com/works/kiku-ishi/
-
-#### 02.205 — Christian Brems, Laura Beloff (2016)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把植物想象成一个追随水声的聆听者。
-- 作品内容: 一件以生物声学发现为基础的装置：植物根系会对流水声作出反应，并发出超声波咔嗒声；作品借此想象植物如何“聆听”。
-- 实现方式: 基于已发表的根系生物声学实验的思辨声音和影像作品（可能使用了根系的超声波录音）。
-- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/57320fd83ee3ee43a0f00808/standard_02.225_still_5_.jpg
-- 项目主页: https://exhibitions.hybridmatters.net/works/02-dot-205
-
-#### Aquatocene / Subaquatic Quest for Serenity — Robertina Šebjanič (2016)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 问海洋如何听见我们，而不是我们如何听见海洋。
-- 作品内容: 用海洋、湖泊和河流的水听器录音创作的声音作品，让人听见船只和人类噪音如何充斥依赖声音生存的水下世界。
-- 实现方式: 长期的水听器录音与作曲，以装置、表演和聆听会的形式呈现。
-- 视频: https://vimeo.com/215171764
-- 图片: https://robertina.net/wp-content/uploads/2025/09/cbdc0-aquatocene-by-robertina-sebjanic-new1.jpg
-- 项目主页: https://robertina.net/aquatocene/
-
-#### Where Species Meet — Güneş-Hélène Isitan (2016)
-- 类型: 艺术作品 · 生物: 细胞与组织, 人体
-- 核心想法: 把身体自带的电当作单细胞能回应的语言。
-- 作品内容: 一件互动装置：观众把手伸进装着活草履虫和投影草履虫的大水盘，身体的电场会把草履虫吸引过来。
-- 实现方式: 定制显微摄像头下对电敏感的草履虫响应参与者双手引起的电场变化，实时画面被投射进水盘。
-- 图片: https://biodigitalviz.github.io/images/Where_Species_Meet.png
-- 项目主页: https://www.gunesisitan.com/where-species-meet
-
-#### Arachnid Orchestra. Jam Sessions — Tomás Saraceno (2015)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 蜘蛛生活在振动的世界里，那就在振动中与它相遇：把蛛网变成双方都能演奏的乐器。
-- 作品内容: 活体蛛网上装有振动传感器并被放大，音乐人与蜘蛛即兴合奏，一边回应蛛丝的振动，一边向蛛丝发送振动。
-- 实现方式: 接触式麦克风和激光测振仪拾取蜘蛛在网上产生的振动，实时放大，同时人类也向蛛网回送振动。
-- 视频: https://www.youtube.com/watch?v=hIuNu-dcQX8
-- 项目主页: https://studiotomassaraceno.org/arachnid-orchestra-jam-sessions/
-
-#### K-9_topology: Ecce Canis — Maja Smrekar (2014)
-- 类型: 艺术作品 · 生物: 动物, 人体, DNA 与分子
-- 核心想法: 把人与狗的关系变成一种可以闻到的共同分子。
-- 作品内容: 《K-9_topology》系列的第一部分：从艺术家和她的边境牧羊犬 Byron 血液中分离出血清素，合成为观众可以闻到的气味。
-- 实现方式: 用蛋白层析柱从血小板中过滤出血清素，再与吲哚一起化学转化为气味。
-- 视频: https://www.youtube.com/watch?v=urSr7dh4l0A
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/K-9_topology_booklet-53.jpg https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_IMG_941396.jpg
-- 项目主页: https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/
-
-#### The Mycological Twist — The Mycological Twist (2014)
-- 类型: 艺术作品 · 生物: 真菌
-- 核心想法: 让真菌的生命周期来决定艺术项目的日程。
-- 作品内容: 一座蘑菇花园：2014 年作为伦敦 Jupiter Woods 画廊花园的延伸开始，后迁往巴黎附近的阿蒂-蒙斯；艺术家围绕它按接种、生长和采收的节奏安排委托作品、讲座和表演。
-- 实现方式: 在展览空间内外用基质进行食用菌和野生真菌的朴门式栽培；影片《Ghost Camp》等活动都从花园的周期中生长出来。
-- 视频: https://www.youtube.com/watch?v=bM0ce_eLZEw
-- 项目主页: http://eloisebonneviot.com/the-mycological-twist/
-
-#### Data Garden Quartet — Data Garden (2012)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 让植物演奏乐器，让人类当观众。
-- 作品内容: 费城艺术博物馆里的四株植物现场演奏合成器，博物馆称之为馆内第一件由植物控制的生物反应艺术作品。
-- 实现方式: 叶片上的电极读取电导变化，由与 Sam Cusumano 合作制作的生物数据设备转换成 MIDI 音符，驱动合成器。
-- 视频: https://www.youtube.com/watch?v=Uq0aFi1x_mo
-- 项目主页: https://www.youtube.com/watch?v=ekV1ngd_9GY
-
-#### EDEN – Ethics, Durability, Ecology, Nature — Olga Kisseleva (2012)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把树当作伙伴，用艺术和技术帮助它存活下去。
-- 作品内容: 一个与树木合作、持续多年的艺术与科学项目，始于比斯卡罗斯古榆树的“重生”，之后发展为保护濒危植物以及树与人之间交流的一系列作品。
-- 实现方式: 与植物学家和企业合作，把植物克隆繁殖与读取树木生理信号的传感器结合起来。
-- 图片: https://ars.electronica.art/starts-prize/files/2020/06/EDEN10_2000x1000_OlgaKisselevaStudio-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/eden/
-
-#### Untilled — Pierre Huyghe (2012)
-- 类型: 艺术作品 · 生物: 动物, 昆虫, 植物
-- 核心想法: 作品可以是一处自己生长和腐烂的场地，不在乎有没有人在看。
-- 作品内容: 为第 13 届卡塞尔文献展在卡尔斯奥公园一处堆肥场所做的作品：一座卧姿裸体雕塑的头部是一个活蜂巢，一只前腿染成粉色的白狗在其中游荡，周围种着致幻与催情植物。
-- 实现方式: 艺术家设置了雕塑、蜂巢、狗、植物和堆肥等条件，然后让这些活体元素在展期的 100 天内自行互动。
-- 视频: https://www.youtube.com/watch?v=mEjEy3RY37o
-- 图片: https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_13.jpg https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_3.jpg https://www.generazionecritica.it/wp-content/uploads/2022/05/UNTILLED_STEREO_PCONTRASTE_RGB-12MODIF.jpg
-- 项目主页: https://www.estherschipper.com/exhibitions/386-untilled-pierre-huyghe/
-
-#### girl, girl, girl . . . — AKI INOMATA (2012)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 让昆虫的筑巢行为变成时装设计。
-- 作品内容: 艺术家给蓑蛾幼虫提供女性衣物的碎布，幼虫用它们搭建自己的巢筒，做出由昆虫“缝制”的小衣服。
-- 实现方式: 蓑蛾幼虫吐丝把碎布粘合成巢筒；日本儿童传统上用彩纸条玩这个游戏。
-- 视频: https://www.youtube.com/watch?v=34AUouBNRZ4
-- 图片: https://www.aki-inomata.com/shared/img/works/03/03-01.jpg https://www.aki-inomata.com/shared/img/works/03/03-02.jpg
-- 项目主页: https://www.aki-inomata.com/works/girl_girl_girl/
-
-#### Bees: new creative agents — Raul Pereira Pinto (2011)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 把蜜蜂当作共同制作者：设计设定条件，蜂群完成形态。
-- 作品内容: 一组雕塑物件：蜜蜂在设计好的结构上筑巢造脾，完成物件最终的形态；作品被提出作为连接创意产业与蜜蜂减少问题的桥梁。
-- 实现方式: 把结构放进蜂箱，让蜜蜂在其上及周围筑脾（推测），形成的形态即成为物件。
-- 论文: https://doi.org/10.1145/2347504.2347507 (DPPI 2011)
-- 项目主页: https://doi.org/10.1145/2347504.2347507
-
-#### Oh!m1gas: Biomimetic Stridulation Environment — Kuai Shen (2011)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 让蚁群的集体行为成为表演者，而不是被观察的对象。
-- 作品内容: 约 1,000 只切叶蚁生活在有机玻璃蚁巢里，它们的活动驱动两台唱机，把唱片“搓”成蚁群生活的声景。
-- 实现方式: 摄像头追踪和接触式麦克风采集蚂蚁的运动和摩擦发声，数据控制唱机电机。
-- 论文: https://doi.org/10.1162/leon_a_00213 (Leonardo 2011)
-- 图片: https://cdn.fact.co.uk/uploads/images/_1200x630_crop_center-center_82_none/Kuai-Shen-Ohm1gas-2012.-Image-by-Rob-Battersby.-Installation-view-at-FACT.-2.jpg.jpg?v=1721756641 https://history.siggraph.org/wp-content/uploads/2017/10/2011_Auson_Ohm1gasbiomieticstridulationenvironment2.jpg
-- 项目主页: https://www.fact.co.uk/artwork/ohm1gas
-
-#### Zoodram (aquarium series) — Pierre Huyghe (2011)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 让动物自身的习性决定作品如何移动、在哪里被看见。
-- 作品内容: 一系列活体海洋水族箱；在最著名的几件中，一只寄居蟹住在布朗库西《沉睡的缪斯》的树脂复制品里，把雕塑当作自己的壳背着走。
-- 实现方式: 带过滤系统的封闭海水缸中养着寄居蟹、箭蟹等物种，寄居蟹把雕塑当作壳来使用。
-- 视频: https://www.youtube.com/watch?v=1KTUnlBisVw
-- 图片: https://iiif.micr.io/idjDM/full/1200,/0/default.jpg https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/zoodram5_huyghe.jpg
-- 项目主页: https://philamuseum.org/collection/object/326218
-
-#### Cry of Nature — Buğra Karabey (2010)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 植物可以成为它自己的音乐界面。
-- 作品内容: 一个把植物对温度、湿度、风、光和触摸的生物电反应转化为合成声音的平台，让植物通过音乐“说话”。
-- 实现方式: 在植物上安放电极测量生物电位的变化，用来驱动声音合成系统。
-- 论文: https://doi.org/10.1162/leon.2010.43.3.310 (Leonardo 2010)
-- 视频: https://www.youtube.com/watch?v=YCT-9vpFYnQ
-- 项目主页: https://doi.org/10.1162/leon.2010.43.3.310
-
-#### Microscopic Opera — Matthijs Munnik (2010)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 如果我们也在被看不见的东西操控，就像我们操控线虫一样呢？
-- 作品内容: 一件视听装置，实验室线虫 C. elegans 不再是被研究的对象，而是生成图像和声音的表演者。2010 年 BAD Award 获奖作品，与荷兰系统生物学联盟合作。
-- 实现方式: 很可能用摄像头追踪显微镜下线虫的运动，并转化为投影图像和声音。
-- 图片: https://www.badaward.nl/imager/assets/site/613/MICROSCOPIC-OPERA-1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/614/MICROSCOPIC-OPERA-2_a5a12f426a1ab11909951db4fe37df8f.jpg
-- 项目主页: https://www.badaward.nl/artists-scientists/matthijs-munnik
-
-#### Sculpture for Octopuses: Exploring for Their Favorite Colours — Shimabuku (2010)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 做一件作品，观众和评论者都是章鱼。
-- 作品内容: Shimabuku 参照章鱼从海底收集的贝壳和石头，为它们制作彩色小雕塑，放到水下，看章鱼会挑选哪一件。
-- 实现方式: 把手工制作的彩色物件放入章鱼栖息地，用影像和照片记录章鱼的选择。
-- 视频: https://www.youtube.com/watch?v=90ogkcNM_AY
-- 项目主页: http://www.shimabuku.net/
-
-#### Why Not Hand Over a "Shelter" to Hermit Crabs? — AKI INOMATA (2009)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 为另一个物种设计住所，并让动物自己决定是否合适。
-- 作品内容: 艺术家为寄居蟹提供顶部带有微缩城市天际线的透明 3D 打印贝壳，由它们自己决定是否搬进去。
-- 实现方式: 用 CT 扫描被遗弃贝壳得到内部结构，再 3D 打印带有城市造型的树脂贝壳并放入寄居蟹的水箱。
-- 视频: https://www.youtube.com/watch?v=4qMrcdjpYEM
-- 图片: https://www.aki-inomata.com/shared/img/works/15/15-01.jpg https://www.aki-inomata.com/shared/img/works/15/15-02.jpg
-- 项目主页: https://www.aki-inomata.com/works/hermit_2009/
-
-#### Hybrid Webs — Tomás Saraceno (2008)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 把几个物种的建造行为叠加在同一个结构里，让结果成为共同创作。
-- 作品内容: 不同种类的蜘蛛被依次放进同一个框架，每一只都在前一只的网上继续编织，形成任何单一物种都不会织出的混合蛛网。工作室对这些网进行三维扫描，并以悬浮雕塑的形式展出。
-- 实现方式: 独居与群居蜘蛛在可旋转的碳纤维框架中依次织网，之后用激光断层扫描将蛛网数字化。
-- 视频: https://www.youtube.com/watch?v=rjVDyxTXGAg
-- 图片: https://studiotomassaraceno.org/files/14DEU_Kolbe_00060-1-1920x1280.jpg https://studiotomassaraceno.org/files/002-1920x1280.jpg
-- 项目主页: https://studiotomassaraceno.org/hybrid-webs/
-
-#### Whale Music (Thousand Mile Song) — David Rothenberg (2008)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 把鲸歌当作可以加入的音乐，而不只是需要破译的信号。
-- 作品内容: David Rothenberg 在夏威夷外海放下水下扬声器，用单簧管与正在歌唱的座头鲸即兴合奏，再通过水听器听它们是否回应。
-- 实现方式: 单簧管声音通过水下扬声器传入海中，再在小船上用水听器监听并录下鲸歌。
-- 视频: https://www.youtube.com/watch?v=807LSbW28Po
-- 项目主页: http://www.davidrothenberg.net/
-
-#### Whispering in the Leaves — Chris Watson (2008)
-- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
-- 核心想法: 只用声音，把一个不在场的生态系统带进建筑里。
-- 作品内容: 一件多声道声音装置，用中美洲和南美洲雨林的黎明与黄昏合唱填满温室；2008 年首展于 AV Festival，后在邱园棕榈温室展出。
-- 实现方式: 雨林录音通过布置在热带植物间的扬声器播放，并按一天中的光线变化安排。
-- 视频: https://www.youtube.com/watch?v=jxrqHwH1NVE
-- 项目主页: https://chriswatson.net
-
-#### Yuansu (元塑) — Ren Ri (2008)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 设计者控制方向和时间，蜂群控制形态。
-- 作品内容: 由蜂群筑成的一系列蜂蜡雕塑：任日按设定的时间间隔移动和旋转蜂框或盒子，蜜蜂便不断朝新的方向筑巢。
-- 实现方式: 把蜂后与蜂群放进木框或亚克力立方体中，艺术家依据掷骰子或方位等规则转动它们。
-- 视频: https://www.youtube.com/watch?v=sgT_4EJhi6U
-- 图片: https://www.pearllam.com/wp-content/uploads/2017/03/21ren-ri-b-1984-yuansu-series-i-geometric-series-07-italy-2008-2009-natural-beeswax-wood-wire-73-x-57-x-5-cm.jpg https://www.pearllam.com/wp-content/uploads/2017/03/ren-ri-b1984-yuansu-series-ii6-40-6-402014-15acrylic-box-natural-beeswax-40-x-40-x-40-cm-scaled.jpg
-- 项目主页: https://www.pearllam.com/artist/ren-ri/
-
-#### Dawn Chorus — Marcus Coates (2007)
-- 类型: 艺术作品 · 生物: 动物, 人体
-- 核心想法: 放慢后，鸟鸣能被人声唱出；加快后，人就变成了鸟。
-- 作品内容: 一件 14 屏影像装置：人们分别在浴室、车里、卧室里唱一种鸟的歌；加速播放后，他们的声音几乎和清晨的鸟鸣合唱一模一样。
-- 实现方式: 把鸟鸣录音放慢约 16 倍，让志愿者学会并对着镜头演唱，再把影像按同样倍数加速。
-- 视频: https://www.youtube.com/watch?v=zF1uihdcZmY
-- 图片: https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/fabrica.jpg
-- 项目主页: https://marcuscoates.co.uk/projects/68-dawn-chorus
-
-#### Host — Nigel Helyer (2003)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 把动物的神经系统当作麦克风，问它听到了什么。
-- 作品内容: 约 200 只关在笼中的活蟋蟀一起“听”一场关于昆虫性生活的科学讲座；一面投影是讲者，另一面是从一只正在听讲的蟋蟀听觉神经上记录下的示波器信号。
-- 实现方式: 在蟋蟀听觉神经上安放电极，记录它对讲座的反应，并以示波器图像和声音呈现；讲座影像透过昆虫笼投影。
-- 视频: https://www.youtube.com/watch?v=9lJU5zAdOTI
-- 项目主页: https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1351970.html
-
-#### Weather Report — Chris Watson (2003)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 压缩的是时间而不是空间：让一个地方的动物和天气来作曲。
-- 作品内容: 一张由三段长篇田野录音作品组成的专辑：肯尼亚野生动物保护区的一天、苏格兰峡谷的一个季节，以及冰岛冰川的缓慢移动。
-- 实现方式: 长时间的现场录音，被剪辑成时间压缩的叙事，由 Touch 厂牌发行。
-- 视频: https://www.youtube.com/watch?v=uqvkmacBJv8
-- 项目主页: https://chriswatson.net
-
-#### Pieces for Plants — Miya Masaoka (2002)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 把植物当作共同演奏者，由它们的反应塑造音乐。
-- 作品内容: 一系列作品中，室内植物接上生物反馈电极，它们对光、靠近和观众或演奏者触碰的电反应被转换成声音。
-- 实现方式: 叶片上的皮电反应电极接入电脑，把植物信号的变化映射为合成声音；后来的版本还加入了演奏者的脑电波。
-- 视频: https://www.youtube.com/watch?v=PD1Uf5BnK78
-- 图片: https://miyamasaoka.com/wp-content/uploads/1999/07/w.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Honeybee collaborations (Guest Workers) — Aganetha Dyck (1991)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 把一件物品交给蜂群，然后接受它们决定建造的任何形态。
-- 作品内容: Dyck 把小雕像、鞋子、运动器材等日常物件放进蜂箱，蜜蜂在数月乃至数年间慢慢给它们覆上蜂巢。
-- 实现方式: 把物件放进正在使用的蜂箱，有时加上引导标记或蜂蜡，并跨季节交还蜂群，艺术家与养蜂人一同观察。
-- 视频: https://vimeo.com/27487390
-- 图片: https://fls-a14a5228-3d0a-4d78-a717-99c3c57b4113.laravel.cloud/44285/conversions/honeycomb-bee-art-sculpture-aganetha-dyck-16-content.jpg
-- 项目主页: https://www.cbc.ca/arts/aganetha-dyck-reveals-how-she-works-with-bees-to-create-strange-and-wonderful-art-1.4597098
-
-#### Photographic Photosynthesis (grass photographs) — Ackroyd & Harvey (1991)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 光合作用本身就是一种摄影工艺。
-- 作品内容: 在一面嫩草墙上浮现的大幅肖像：受光多的地方草更绿，草本身就成了照片，并随着生长与枯萎而慢慢消褪。
-- 实现方式: 把负片影像连续数天投射到在暗处萌发的草苗上，叶绿素按受光多少生成；使用“保绿”草种可以减缓褪色。
-- 视频: https://www.youtube.com/watch?v=w67UPDSKc44
-- 图片: https://clotmag.com/wp-content/uploads/2022/03/4.jpg https://www.ackroydandharvey.com/wp-content/uploads/2021/12/05.-Mother-and-Child-comparative-study-Artists-studio-Dorking-Adj-1-451x360.jpg
-- 项目主页: https://www.ackroydandharvey.com/celebrating-30-years-of-photographic-photosynthesis/
-
-#### Trichoptères (Caddisfly Cases) — Hubert Duprat (1980)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 改变动物环境中的材料，让它的本能来完成制造。
-- 作品内容: 石蛾幼虫平时用沙粒和细枝筑造护身管，艺术家只给它们金片、珍珠和半宝石，它们就用这些材料造出珠宝般的壳。
-- 实现方式: 把幼虫从原来的壳中取出，放进只有黄金和宝石的水族箱里，它们用自己吐的丝把这些材料粘合起来。
-- 视频: https://www.youtube.com/watch?v=yHqPaDMILHU
-- 项目主页: https://www.mam.paris.fr/fr/expositions/exposition-hubert-duprat
-
-#### Music of the Plants — Damanhur (1976)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 让植物实时发声，再追问它们是否会回应“被聆听”的方式。
-- 作品内容: Damanhur 社区的研究者制作了把植物电信号变化转成旋律的设备，并举办植物和树与音乐人一起“演奏”的音乐会。
-- 实现方式: 叶片和土壤中的电极测量电阻变化，设备把它转换成 MIDI 音符；Damanhur 称植物能学会调节声音，但这一说法没有科学定论。
-- 视频: https://www.youtube.com/watch?v=M-SgriGwu6c
-- 图片: https://www.damanhur.foundation/wp-content/uploads/Bamboo.png
-- 项目主页: https://www.damanhur.foundation/project/the-music-of-the-plants/
-
-### 理论与方法
-
-超越人类设计与后人类设计研究的框架、方法和关键论文。
-
-#### Are You Blocking Nonhuman Leadership? Five Questions to Find Out — Stanislav Roudavski (2026)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 让非人的证据引领设计决策，并检查自己的流程在哪里阻挡了它。
-- 作品内容: 五个诊断性问题，帮助实践者看清自己的设计流程在哪些地方忽视了来自非人行为、结构和历史的证据。
-- 实现方式: 一篇探索性短文，把栖息地设计项目的经验提炼成参与式设计可用的检查清单。
-- 论文: https://doi.org/10.1145/3789492.3796416 (PDC 2026)
-
-#### Colonial Performances in More-than-Human Design — Serina Tarkhanian (2026)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 超越人类设计也必须去殖民，否则可能重复它所批判的伤害。
-- 作品内容: 作者借鉴原住民与去殖民立场对后人类主义的批评，分析自己及他人的超越人类设计作品，指出这一领域可能重复殖民模式。
-- 实现方式: 以去殖民理论对设计项目进行批判性的自我分析。
-- 论文: https://doi.org/10.1080/17547075.2026.2648918 (Design and Culture 2026)
-- 项目主页: https://doi.org/10.1080/17547075.2026.2648918
-
-#### Exploring the Pluralities of More-than-Human Biographies Through Speculative Maps — Ron Wakkary, Tiffany Wun (2026)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 一件设计物拥有设计者想象之外的许多种生命。
-- 作品内容: 一篇图文论文，为一件设计物 wi-fi-no-wi-fi 绘制思辨地图，呈现它可能拥有的多种“传记”，包括材料、组合关系和多物种视角。
-- 实现方式: 通过工作坊、实证调查和思辨，为同一件物品绘出三张传记地图。
-- 论文: https://doi.org/10.1145/3800645.3812827 (DIS 2026)
+超越人类的设计的理论、框架、综述与宣言。
 
 #### In vegetal terms — Clee Zhuo Wang (2026)
 - 类型: 论文 · 生物: 植物
@@ -3490,51 +1856,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.21606/drs.2026.1325 (DRS 2026)
 - 项目主页: https://doi.org/10.21606/drs.2026.1325
 
-#### Incommensurable durations: Fungal time and the limits of attunement in multispecies design — Nina Williams (2026)
-- 类型: 论文 · 生物: 真菌
-- 核心想法: 多物种设计必须接受那些无法完全共享的时间。
-- 作品内容: 论文通过与真菌生长的相遇论证：生物的时间尺度与人类和资本主义的时间无法通约，这限制了设计者“调谐”的程度。
-- 实现方式: 反思一系列与真菌及其生长节律有关的实验。
-- 论文: https://doi.org/10.21606/drs.2026.1709 (DRS 2026)
-
-#### Noticing Where the Forest Folds — Fredrik Bernerstedt (2026)
-- 类型: 论文 · 生物: 真菌, 生态系统
-- 核心想法: 采集活动训练了超越人类设计所需要的注意力。
-- 作品内容: 把采蘑菇重新理解为一种超越人类的设计方法：两场野外工作坊把设计者带进森林，直接去注意真菌及其栖息地。
-- 实现方式: 以北方森林中采蘑菇为核心的野外设计工作坊。
-- 论文: https://doi.org/10.1145/3772363.3798654 (CHI EA 2026)
-- 项目主页: https://doi.org/10.1145/3772363.3798654
-
-#### Open Weaving: Decentering Practice in More-than-Human Relations — Jian Yu, Ron Wakkary (2026)
-- 类型: 论文 · 生物: 人体, 植物
-- 核心想法: 去中心化是一种要在材料中反复练习的实践，而不只是一个要采纳的理论。
-- 作品内容: 一项关于“开放编织”的自我民族志，配合反思手册，展示织机、纤维等非人如何参与制作，以及设计者退后一步有多难。
-- 实现方式: 第一作者在没有固定计划的情况下编织并记录反思，再分析其中的非人创造力和摩擦。
-- 论文: https://doi.org/10.1145/3803784.3816832 (C&C 2026)
-
-#### The parliament of things: Shape-changing materials as amplifiers of interspecies relation design — Yi Sui (2026)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 响应材料可以在共同的“议会”里替其他物种发言。
-- 作品内容: 论文分析了十个使用形变与响应材料的设计项目，把这些材料看作在物种、技术与环境之间斡旋的“材料外交官”。
-- 实现方式: 借鉴 Latour 的“物的议会”，用五维框架进行多案例研究。
-- 论文: https://doi.org/10.21606/drs.2026.2654 (DRS 2026)
-
-#### The spectrum of non-human agency: Rethinking participation in multispecies placemaking — Giulia Gualtieri (2026)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 非人参与可以像“参与阶梯”一样被逐步规划。
-- 作品内容: “非人类能动性光谱”是一个框架，把植物、动物和生态系统放在城市设计流程各阶段的不同参与层级上。
-- 实现方式: 基于对 38 个自然包容型设计案例和四个深入案例的质性分析构建。
-- 论文: https://doi.org/10.1016/j.destud.2026.101422 (Design Studies 2026)
-- 图片: https://ars.els-cdn.com/content/image/1-s2.0-S0142694X2600044X-ga1_lrg.jpg
-
-#### Three-Eyed Seeing — Korey Wetherell (2026)
-- 类型: 论文 · 生物: 昆虫, 生态系统
-- 核心想法: 同时持有几种认知方式，而不把它们合而为一。
-- 作品内容: 一个再生性生态设计框架，让西方实证方法、原住民关系性知识与未来思维进行负责任的对话，其基础是作者在夏威夷 Kaʻena Point 与传粉者的实地相遇。
-- 实现方式: 结合自我民族志式的实地相遇与系统导向的设计研究。
-- 论文: https://doi.org/10.21606/drs.2026.1880 (DRS 2026)
-- 项目主页: https://doi.org/10.21606/drs.2026.1880
-
 #### Towards More-than-Human Inclusion — Jorge Luis Siesquén Deza (2026)
 - 类型: 论文 · 生物: 生态系统
 - 核心想法: 把非人类纳入进来，要从培养专注与关照开始。
@@ -3542,13 +1863,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: “通过设计进行研究”，结合文献综述、半结构访谈和案例研究，并产出培养专注的设计物。
 - 论文: https://doi.org/10.21606/drs.2026.2198 (DRS 2026)
 - 项目主页: https://doi.org/10.21606/drs.2026.2198
-
-#### Towards Positional Citizenship: designing for the More-than-Human Political — Vanessa Monna (2026)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 公民身份可以被重新理解为关系性的共在，而不是人的特权。
-- 作品内容: 论文提出基于 Plessner“位置性”概念的“位置公民身份”，让塑造集体生活的非人主体也能参与政治。
-- 实现方式: 以 Latour 和 Plessner 为基础的概念论证，并应用于城市设计情境。
-- 论文: https://doi.org/10.21606/drs.2026.2605 (DRS 2026)
 
 #### A Posthuman Vocabulary — Çağdaş Dedeoğlu (2025)
 - 类型: 论文 · 生物: 生态系统, 人体
@@ -3567,34 +1881,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://dl.acm.org/cms/10.1145/3706598.3713343/asset/ecec7548-e785-42f9-82ba-13ffbb2ca2e1/assets/images/large/chi25-260-fig10.jpg https://dl.acm.org/cms/10.1145/3706598.3713343/asset/5ecef5e0-e71f-4b1a-89ae-ce4a2c11b9c6/assets/images/large/chi25-260-fig6.jpg
 - 项目主页: https://dl.acm.org/doi/full/10.1145/3706598.3713343
 
-#### Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds — Ron Wakkary, Doenja Oogjes (2025)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 要与其他物种一起设计，就得长期住在它们身边。
-- 作品内容: 几位设计研究者把研究从实验室搬进自家的院子和阳台；通过合作式自我民族志，他们描述了这种长期与植物和动物一起设计的“后院实践”。
-- 实现方式: 多位研究者在各自家中进行合作式自我民族志，总结出这种实践的特征（时长、阈限、邻近）和承诺。
-- 论文: https://doi.org/10.1145/3706598.3713291 (CHI 2025)
-
-#### Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions — Yuyao Lin (2025)
-- 类型: 论文 · 生物: 动物, 昆虫
-- 核心想法: 不要只为讨人喜欢的物种设计，也要与那些让我们退缩的物种合作。
-- 作品内容: 一种结合“动物书写”和自我民族志的方法，用来与令人反感的物种一起设计，把厌弃看作有生产力的力量而不是障碍。
-- 实现方式: 把动物书写与自我民族志整合进通过设计进行研究的循环。
-- 论文: https://doi.org/10.1080/15710882.2025.2563061 (CoDesign 2025)
-
-#### Confucian Ritual Space as More-Than-Human Design — Ning Gao (2025)
+#### Designing with Water: From Material to Metaphor to More-than-Human Mindset — Kuan-Ju Wu (2025)
 - 类型: 论文 · 生物: 生态系统
-- 核心想法: 非人类中心的设计在西方理论之外早有传统。
-- 作品内容: 把紫禁城的藻井解读为一种超越人类的设计，它把宇宙力量、神话生物和自然元素建构进建筑之中。
-- 实现方式: 在儒家宇宙观与后人类主义设计理论之间搭桥的历史与理论分析。
-- 论文: https://doi.org/10.21606/iasdr.2025.409 (IASDR 2025)
-- 项目主页: https://doi.org/10.21606/iasdr.2025.409
-
-#### Entangled Weathers: A Noticing Tactic — Claudia Núñez-Pacheco (2025)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 把身体内外的天气当作同一个纠缠的场域来留意。
-- 作品内容: 这篇图文论文提出“纠缠的天气”：一种留意内心状态与外部天气如何交叠的策略，并用作者设计实践中的故事来说明。
-- 实现方式: 借鉴女性主义的“风化”概念，提出测量与绘图、时空反思、风化叙事、隐喻化和臣服五种做法。
-- 论文: https://doi.org/10.1145/3698061.3726955 (C&C 2025)
+- 核心想法: 水可以是交互设计的合作者，而不只是媒介。
+- 作品内容: 一项研究计划，把水同时当作材料、隐喻和合作者：制作超声波操控等水基技术原型，并研究钓鱼等以水为中心的活动。
+- 实现方式: 结合原型制作、对水的美学分析和对以水为生的社区的民族志研究。
+- 论文: https://doi.org/10.1145/3689050.3704797 (TEI 2025)
+- 项目主页: https://doi.org/10.1145/3689050.3704797
 
 #### Labour Provenance — Yuning Chen, Larissa Pschetz (2025)
 - 类型: 论文 · 生物: 细菌与微生物, 细胞与组织, 动物
@@ -3603,94 +1896,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 基于劳动理论的工作坊方法与分析框架，应用于一次合成生物学实验。
 - 论文: https://doi.org/10.1145/3706598.3713272 (CHI 2025)
 
-#### Rethinking Representation in Design: Towards Constructing Parameters for Representation Tools in More-than-Human Design — Berre Su Demir, Aykut Coşkun (2025)
-- 类型: 论文 · 生物: 植物, 动物
-- 核心想法: 为蜜蜂和树做的人物画像，需要与为人做的画像不同的设计规则。
-- 作品内容: 综述了 40 项用人物画像等工具来呈现非人的设计研究，提出构建此类工具的六个参数（如可迁移性和呈现深度）。
-- 实现方式: 对超越人类设计中的呈现工具做系统综述，编码被呈现的非人、模态与情境。
-- 论文: https://doi.org/10.1145/3715336.3735680 (DIS 2025)
-
-#### Show Me Your More-Than-Human — Arne Berger (2025)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 请人们展示而不是定义：超越人类对他们意味着什么。
-- 作品内容: 一篇图文论文，收录行走访谈中的照片小品：研究者们向作者展示“他们的”超越人类，包括边界、隐藏或被禁止的存在、亲缘与混合体。
-- 实现方式: 与研究者进行行走访谈，并以照片和短文记录。
-- 论文: https://doi.org/10.1145/3715336.3735415 (DIS 2025)
-- 项目主页: https://doi.org/10.1145/3715336.3735415
-
-#### The Ladder of Multispecies Participation: Moving Towards a More Convivial Urban Planning — Anniken Førde (2025)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 衡量一个规划过程在多大程度上真正让其他物种参与。
-- 作品内容: 论文把 Arnstein 的公民参与阶梯改写为“多物种参与阶梯”，用来讨论城市规划如何纳入与我们没有共同语言的物种。
-- 实现方式: 以 Arnstein 模型和多物种研究为基础的概念工具，并结合城市规划案例讨论。
-- 论文: https://doi.org/10.18261/njus.6.1.1 (Nordic Journal of Urban Studies 2025)
-
-#### Articulating Felt Senses for More-Than-Human Design: A Viewpoint for Noticing — Claudia Núñez-Pacheco (2024)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 细致描述身体的感受，能让人察觉到与非人的关系。
-- 作品内容: 两位研究者用微观现象学访谈，细致描述自己使用远程临场机器人和手机拍照时的身体感受，并把这种描述当作“留意”超越人类关系的方法。
-- 实现方式: 通过微观现象学访谈引出前反思的身体经验，再分析其中的关系性质。
-- 论文: https://doi.org/10.1145/3643834.3661554 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/df961775586e2edf641f587ec561e987f9d241c4/8-Figure2-1.png
-
-#### Assemblage-based stakeholder analysis in design: a conceptual framework through the lenses of post-anthropocentrism — Hoyoung Youn (2024)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 利益相关者从来不只是一个人；要画出围绕他们的集合体。
-- 作品内容: 论文提出“基于集合体的利益相关者分析”：每个利益相关者都是人与非人类行动者的集合体，并在一个案例中应用，找出常规利益相关者地图遗漏的非人类。
-- 实现方式: 基于行动者网络理论和物导向本体论构建框架，并用实证研究检验。
-- 论文: https://doi.org/10.1080/15710882.2024.2358966 (CoDesign 2024)
-- 项目主页: https://doi.org/10.1080/15710882.2024.2358966
-
 #### Becoming microbes: An approach to cultivating microbial sensibilities in biodesign — Jiho Kim, Raphael Kim, Elvin Karana (2024)
 - 类型: 论文 · 生物: 细菌与微生物
 - 核心想法: 与微生物一起设计，要从学习像它们一样感知开始。
 - 作品内容: 论文提出“成为微生物”，一种有哲学基础的方法，帮助生物设计者培养对微生物时间、尺度和行为的感受力。
 - 实现方式: 从非人类中心哲学出发发展概念，并以实验室中的生物设计实践为例。
 - 论文: https://doi.org/10.21606/drs.2024.950 (DRS 2024)
-
-#### Beyond Human Interaction: A Contextual Review of Conversational Agents to Represent More-Than-Human Perspectives — Adrian Wong (2024)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 聊天机器人可以放大非人的声音，但要谨慎处理由谁来说话。
-- 作品内容: 综述对话代理如何在 HCI 中代表动物、本土动植物和自然系统，把生态数据转化成人可以交流的声音。
-- 实现方式: 对对话代理与超越人类 HCI 的情境化文献综述。
-- 论文: https://doi.org/10.1145/3726986.3727047 (OzCHI 2024)
-
-#### Biodegradation as More-than-Human Unmaking — Fiona Bell, Nadia Campo Woytuk, Marie Louise Juul Søndergaard, Mirela Alistar (2024)
-- 类型: 论文 · 生物: 细菌与微生物, 真菌, 生态系统
-- 核心想法: 设计一件物品的终点，就是与分解者合作。
-- 作品内容: 这篇期刊论文把生物降解看作与微生物、真菌和土壤一起完成的“反制作”，并把 ReClaym 与 Biomenstrual 两个项目放在一起对照解读。
-- 实现方式: 对两个“通过设计做研究”的项目做衍射式阅读，得出六个主题和与生物降解一起设计的建议。
-- 论文: https://doi.org/10.1145/3685526 (TOCHI 2024)
-
-#### Caring through — Gizem Oktay, Bahareh Barati, Ron Wakkary (2024)
-- 类型: 论文 · 生物: 真菌, 植物, 生态系统
-- 核心想法: 与活体材料相处的照护，是贯穿时间的实践，而不是一次性的动作。
-- 作品内容: 提出超越人类设计中照护的类型学（照护“为”、照护“关于”、照护“贯穿”），依据是照护如何涉及时间与劳动，并提出“caring through”来描述在非人类时间尺度上展开的照护。
-- 实现方式: 以与活体及曾经有生命的材料进行的设计实践为基础的概念研究。
-- 论文: https://doi.org/10.1145/3686169.3686211 (Halfway to the Future 2024)
-- 项目主页: https://doi.org/10.1145/3686169.3686211
-
-#### Creating with More-than-Humans — Jiabao Li (2024)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 与其他物种共同创作，会改变我们对能动性、智能和创造力的理解。
-- 作品内容: 一篇论文，回顾艺术家与老鼠、蝙蝠、鱿鱼和大象共同创作的经验，讨论与非人类生命一起、为它们创作的伦理和方法。
-- 实现方式: 基于一系列装置、XR 与表演作品的反思性实践论文。
-- 论文: https://doi.org/10.1145/3686169.3686191 (Halfway to the Future 2024)
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/12fc6db1-72e8-4935-b468-94ffbd3a11c6/01+Bat+Bridge+small.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/70159a8b-9fd0-412d-bea1-c9de87b3d004/jiabao+li+squeeker+mouse+coach.jpg
-
-#### Design for Temporal Cohabitation — Larissa Pschetz (2024)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 主导性的钟表时间是被设计、被强加的；设计可以为它对其他物种的影响负责。
-- 作品内容: 与 Keili Koppel、Michelle Bastian 合作的 CHI 2024 论文，提出为人类与其他物种不同的时间一起设计，并批评“人类时间”与“自然时间”的二分。
-- 实现方式: 借鉴时间理论、去殖民研究和生态设计案例的批判性论文。
-- 论文: https://doi.org/10.1145/3613905.3644068 (CHI EA 2024)
-
-#### Designing Temporal Ecologies: Reframing Multispecies Temporalities Through Design — Larissa Pschetz (2024)
-- 类型: 论文 · 生物: 植物, 动物, 生态系统
-- 核心想法: 生物多样性丧失也是时间错配的问题；设计可以把时间重新对齐。
-- 作品内容: 论文以一场跨学科工作坊产生的设计案例为素材，说明设计如何重新连接人与其他物种的时间尺度，减少导致生物多样性丧失的时间错配。
-- 实现方式: 把时间设计框架应用于关于物候、季节和多物种节律的工作坊成果。
-- 论文: https://doi.org/10.21606/drs.2024.1068 (DRS 2024)
 
 #### Gaia's Web: How Digital Environmentalism Can Combat Climate Change, Restore Biodiversity, Cultivate Empathy, and Regenerate the Earth — Karen Bakker (2024)
 - 类型: 书与文章 · 生物: 生态系统
@@ -3700,14 +1911,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://covers.openlibrary.org/b/id/14672307-L.jpg
 - 项目主页: https://karenbakker.org
 
-#### More-than-Human Participatory Approaches for Design: Method and Function in Making Relations — Ann Light (2024)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 追问超越人类的方法究竟为了什么，而不只是它如何代表非人类。
-- 作品内容: 梳理参与式设计中与超越人类存在打交道的不同方式，从“代表非人类”到“超越参与的连接”。文章指出，一旦关系性理论被落实为具体方法，张力就会出现。
-- 实现方式: 以“超越参与的连接”为线索，批判性地比较参与式设计的方法与案例。
-- 论文: https://doi.org/10.1145/3661455.3669862 (PDC 2024)
-- 项目主页: https://doi.org/10.1145/3661455.3669862
-
 #### More-than-Human Perspectives in Human-Computer Interaction Research: A Scoping Review — Eva Eriksson (2024)
 - 类型: 论文 · 生物: 生态系统, 动物, 植物
 - 核心想法: 一张地图：说明“超越人类”在当下 HCI 中的含义以及设计的位置。
@@ -3716,28 +1919,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3679318.3685408 (NordiCHI 2024)
 - 项目主页: https://doi.org/10.1145/3679318.3685408
 
-#### More-than-human Design and AI: Exploring the Space between Theory and Practice — Iohanna Nicenboim, Joseph Lindley, Johan Redström (2024)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 后人类理论与设计实践之间的缝隙，本身可以是实验的场所。
-- 作品内容: 作者用生成式 AI 做了两个工具 Oblique 和 MoTH，把超越人类理论文本转化为设计策略，并反思其使用过程。
-- 实现方式: 两个基于 ChatGPT-4 的工具，从多种超越人类文本中生成设计策略。
-- 论文: https://doi.org/10.21606/drs.2024.948 (DRS 2024)
-
-#### One Thousand Years of Infrastructuring Katsuobushi — Edward Masui (2024)
-- 类型: 论文 · 生物: 真菌, 动物
-- 核心想法: 基础设施由鱼、霉菌与人的时间节律相互对齐而成。
-- 作品内容: 追溯鲣节（经干燥与霉菌发酵的鲣鱼）千年的历史，展示生产、运输与地方食物景观如何构成基础设施，使人类与非人类的时间尺度相互协调。
-- 实现方式: 用参与式设计中的“基础设施化”理论框架分析鲣节生产与贸易的历史。
-- 论文: https://doi.org/10.1145/3661455.3669883 (PDC 2024)
-- 项目主页: https://doi.org/10.1145/3661455.3669883
-
-#### Shroom Cards: Playful Exploration of Human Positionalities for More-than-Human Design — Çağlar Genç (2024)
-- 类型: 论文 · 生物: 真菌
-- 核心想法: 角色扮演和竞赛能让超越人类的理论对设计者变得具体。
-- 作品内容: Shroom Cards 是一套配有结构化游戏活动的卡牌，帮助设计学生扮演人类与非人类角色，并反思自己的立场。
-- 实现方式: 卡牌源自反思性设计工作室练习，并在人机交互设计课程中测试。
-- 论文: https://doi.org/10.1145/3665463.3678784 (CHI PLAY 2024)
-- 视频: https://www.youtube.com/watch?v=3Elop4e9b8g
+#### Navigating the Paradox: Challenges of Designing Technology for Nonhumans — Judith Dörrenbächer, Madlen Kneile, Marc Hassenzahl, Matthias Laschke (2024)
+- 类型: 论文 · 生物: 植物, 动物, 生态系统
+- 核心想法: 为非人设计往往意味着“以分隔来保护”“以驯化来保存荒野”。
+- 作品内容: 分析七个替非人利益发声的学生概念，例如议会里的树木代表、投掷种子炸弹的机器蝙蝠，并指出每个概念内含的悖论。
+- 实现方式: 对硕士课程产出的概念按其允许的关系（种间、种内或无关系）和核心悖论进行编码。
+- 论文: https://doi.org/10.1145/3679318.3685363 (NordiCHI 2024)
 
 #### The making(s) of more-than-human design: introduction to the special issue on more-than-human design and HCI — Elisa Giaccardi, Johan Redström, Iohanna Nicenboim (2024)
 - 类型: 书与文章 · 生物: 生态系统, 人体
@@ -3754,14 +1941,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1016/j.ijhcs.2023.103128 (IJHCS 2024)
 - 图片: https://ars.els-cdn.com/content/image/1-s2.0-S1071581923001374-gr2_lrg.jpg
 - 项目主页: https://doi.org/10.1016/j.ijhcs.2023.103128
-
-#### When a tree says no: Towards a more-than-human consent notion for design — Franca López Barbera (2024)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 从自然中索取的设计，应当问一问自然是否同意。
-- 作品内容: 论文以南美的红破斧木（Quebracho Colorado）为线索，从性别与去殖民视角分析“同意”，并勾勒一种面向设计的超越人类的同意观。
-- 实现方式: 以一种被开采树种的历史为基础，对“同意”进行性别与去殖民分析。
-- 论文: https://doi.org/10.21606/drs.2024.307 (DRS 2024)
-- 项目主页: https://doi.org/10.21606/drs.2024.307
 
 #### A planetary turn for design? Speculations on withdrawal and cohabitation — Kristine Samson, Michael Haldrup (2023)
 - 类型: 论文 · 生物: 生态系统
@@ -3809,25 +1988,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3599956 (Interactions 2023)
 - 项目主页: https://doi.org/10.1145/3599956
 
-#### Productive Oscillation as a strategy for doing more-than-human design research — Joseph Lindley, Paul Coulton (2023)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 不必放弃以人为中心的设计；在两种视角之间来回摆动本身就有生产性。
-- 作品内容: 提出研究者可以在以人为中心和超越人类的框架之间来回切换，并以一个关于联网系统中信任的项目为例进行反思。
-- 实现方式: 对一个关于信任的“通过设计进行研究”项目中的工作坊与物件进行反思分析。
-- 论文: https://doi.org/10.1080/07370024.2023.2276393 (Human-Computer Interaction (journal))
-- 图片: https://designresearch.works/images/productive-oscillation.jpg
-- 项目主页: https://designresearch.works/blog/productive-oscillation-as-a-strategy-for-more-than-human-design-research
-
-#### The Umwelt-sketch as More-than-human Design Methodology — Bert De Roo (2023)
-- 类型: 论文 · 生物: 动物, 植物, 生态系统
-- 核心想法: 画出另一个物种的感知世界，是让设计过程去中心化的实用方法。
-- 作品内容: 一种设计方法：参与者画出不同物种相互重叠的感知世界（Umwelt），从中找到人类视角被去中心化的时刻。
-- 实现方式: 以 Jakob von Uexküll 的 Umwelt 概念为基础，在设计工作坊中测试视觉草图方法。
-- 论文: https://doi.org/10.1145/3563703.3596628 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=5o22Yf1mxGc
-- 图片: https://i.ytimg.com/vi/5o22Yf1mxGc/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3563703.3596628
-
 #### The aesthetics of more-than-human design: speculative energy briefs for the Chthulucene — Alex Wilkie (2023)
 - 类型: 论文 · 生物: 生态系统, 人体
 - 核心想法: 把设计看作在人和非人类要素之间展开的事件。
@@ -3836,28 +1996,12 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1080/07370024.2023.2276392 (HCI Journal 2023)
 - 项目主页: https://doi.org/10.1080/07370024.2023.2276392
 
-#### The everyday enactment of interfaces — Evert van Beek, Elisa Giaccardi, Alessandro Bozzon (2023)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 界面是人与设备在出问题时共同上演出来的东西。
-- 作品内容: 对 11 个使用智能家居自动化的家庭进行的民族志研究，把家视为超越人类的场景，展示界面如何在危机与冲突的时刻中生成。
-- 实现方式: 以人与技术“共同表演”的视角分析民族志田野资料。
-- 论文: https://doi.org/10.1080/07370024.2023.2283536 (HCI Journal 2023)
-- 项目主页: https://doi.org/10.1080/07370024.2023.2283536
-
-#### What the Sensor Knows: More-Than-Human Knowledge Co-Production in Wood Carving — Charlotte Nordmoen (2023)
-- 类型: 论文 · 生物: 植物
-- 核心想法: 传感数据能讲述材料相遇的故事，而不仅是数字。
-- 作品内容: 在木雕工具上安装传感器，并把它们当作共同研究者：传感信号被理解为木材、刀刃和雕刻者之间的情境痕迹，而不是带噪声的测量值。
-- 实现方式: 结合 Barad 的能动实在论和 Harman 的“工具存在”，对木雕中的传感信号做质性解读。
-- 论文: https://doi.org/10.1145/3563657.3596075 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=n7OupBMq5bA
-
-#### ‘Breathing-with’: a design tactic for the more-than-human — Jonas Fritsch (2023)
-- 类型: 论文 · 生物: 人体, 生态系统
-- 核心想法: 呼吸是一种共享的媒介，能把设计者从自己的身体带到超越人类的世界。
-- 作品内容: 作者分析自己三个关于呼吸的项目，提出“与之同呼吸”这一设计策略，把身体觉察延伸到物质、生命和社会的身体。
-- 实现方式: 对三个涉及呼吸身体和空气的通过设计进行研究的项目作比较分析。
-- 论文: https://doi.org/10.1080/07370024.2023.2275760 (HCI Journal 2023)
+#### Unsettling Participation by Foregrounding More-than-Human Relations in Digital Forests — Michelle Westerlaken, Jennifer Gabrys (2023)
+- 类型: 书与文章 · 生物: 植物, 生态系统
+- 核心想法: 森林中的参与从来不只是人的；数字项目应当把这一点纳入考虑。
+- 作品内容: 这篇文章展示树木、真菌、土壤和传感器如何打乱、扩展并重新分配数字森林监测项目中的“参与”。
+- 实现方式: 以 Smart Forests 研究项目为素材，依次讨论三种“扰动”过程。
+- 论文: https://doi.org/10.1215/22011919-10216173 (Environmental Humanities 2023)
 
 #### A Biocentric Perspective on HCI Design Research Involving Plants — Jan Fell (2022)
 - 类型: 论文 · 生物: 植物
@@ -3873,13 +2017,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 以人体、建成环境和城市微生物组的研究为基础的理论论证，并以作者的活体建筑项目为例。
 - 论文: https://doi.org/10.21606/drs.2022.144 (DRS 2022)
 
-#### Can Microbes Be Active Participants in Research? Developing a Methodology for Collaborating with Plastic-Eating Microbes — Aaron V. Bradshaw (2022)
-- 类型: 书与文章 · 生物: 细菌与微生物
-- 核心想法: 在解决污染时，把微生物当作合作者，而不只是工具。
-- 作品内容: 文章追踪关于 Ideonella sakaiensis（一种能分解 PET 塑料的细菌）的研究，提出一种从一开始就把此类微生物作为主动研究参与者纳入的方法。
-- 实现方式: 从环境人文角度分析塑料生物降解研究中的微生物能动性。
-- 论文: https://doi.org/10.1215/22011919-9712379 (Environmental Humanities 2022)
-- 项目主页: https://doi.org/10.1215/22011919-9712379
+#### Fabulating Biodata Futures for Living and Knowing Together — Vasiliki Tsaknaki (2022)
+- 类型: 论文 · 生物: 人体, 生态系统
+- 核心想法: 生物数据可以连接身体（包括非人类的身体），而不只是用来优化自我。
+- 作品内容: 作者把关于生物数据的设计研究归纳为三个主题，并写出三则虚构叙事：“并肩编织”“衍射自我”和“集体情动”，想象在人与非人身体之间共享的生物数据。
+- 实现方式: 先对设计案例进行主题归纳，再进行思辨虚构写作。
+- 论文: https://doi.org/10.1145/3532106.3533477 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=NLcnlKI3vHM
+- 项目主页: https://doi.org/10.1145/3532106.3533477
 
 #### Feminist Care in the Anthropocene: Packing and Unpacking Tensions in Posthumanist HCI — Cayla Key (2022)
 - 类型: 论文 · 生物: 生态系统, 人体
@@ -3913,13 +2058,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.21606/drs.2022.347 (DRS 2022)
 - 项目主页: https://doi.org/10.21606/drs.2022.347
 
-#### Mediating the needs of human and natural nonhuman stakeholders: Towards a design methodological framework — Emilija Veselova, Julia Lohmann (2022)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 超越人类的设计需要能用于日常设计实践的工具。
-- 作品内容: 来自一个跨学科联合项目的早期成果，旨在建立一个设计方法框架，帮助从业者在日常项目中权衡人类与自然非人的需求。
-- 实现方式: 在联合项目中基于文献和初步发现开发框架。
-- 论文: https://doi.org/10.21606/drs.2022.524 (DRS 2022)
-
 #### More-than-Human-Data Interaction — Michael R. Stead, Paul Coulton (2022)
 - 类型: 论文 · 生物: 生态系统, 人体
 - 核心想法: 数据有碳足迹，因此数据交互必须考虑地球。
@@ -3938,13 +2076,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=CQDXt7Ph7PE
 - 项目主页: https://doi.org/10.1145/3491101.3516503
 
-#### More-than-human fluid speculations — Paulina Yurman (2022)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 让材料参与作画：液体共同书写我们的认知。
-- 作品内容: 一组简短的绘画实验，把体液及相关液体既当作绘画材料，又当作绘画对象，借此反思知识如何是局部的，并受到非人类物质能动性的影响。
-- 实现方式: 以实践为基础的绘画实验，用后人类主义的物质能动性理论来解读。
-- 论文: https://doi.org/10.21606/drs.2022.418 (DRS 2022)
-- 项目主页: https://doi.org/10.21606/drs.2022.418
+#### Multispecies worlding through design — Michelle Westerlaken (2022)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 每一次设计都在营造一个世界；要问这是谁的世界。
+- 作品内容: 一篇短文，讨论设计实践如何参与“成世”——营造其他物种也居住其中的世界。
+- 实现方式: 基于作者博士论文和多物种研究的短文。
+- 论文: https://doi.org/10.1145/3568306 (ACM Interactions 2022)
+- 图片: https://michellewesterlaken.com/2021/09/forest_w.jpg
+- 项目主页: https://michellewesterlaken.com/
 
 #### Technological Approach to Mind Everywhere (TAME): an experimentally-grounded framework for understanding diverse bodies and minds — Michael Levin (2022)
 - 类型: 论文 · 生物: 细胞与组织, 动物
@@ -3973,15 +2112,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 结合科学报道、计算史与艺术项目的论著。
 - 图片: https://covers.openlibrary.org/b/id/14435859-L.jpg
 
-#### Weaving Stories: Toward Repertoires for Designing Things — Doenja Oogjes, Ron Wakkary (2022)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 设计者可以采用“注意”“描述场景”等具体行动剧目，让非人类参与设计。
-- 作品内容: 第一作者借用 HCI 之外的方法记录自己的编织过程，让织机、纱线和软件的创造性进入设计研究的叙述。
-- 实现方式: 以第一人称的编织实践为材料，通过描述场景、注意和转译三种方式记录，再用后人类理论进行反思。
-- 论文: https://doi.org/10.1145/3491102.3501901 (CHI 2022)
-- 视频: https://www.youtube.com/watch?v=W41U-1YB4QI
-- 图片: https://i.ytimg.com/vi/W41U-1YB4QI/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3491102.3501901
+#### Alternatives to Agrilogistics: Designing for Ecological Thinking — Heidi R. Biggs, Shaowen Bardzell (2021)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 像小农那样设计农业技术：与生态系统合作，而不是对抗。
+- 作品内容: 通过在美国印第安纳州小农场的民族志研究，本文展示农民如何抵抗“农业物流”（Timothy Morton 指把自然与文化割裂的食物生产方式），并讨论这对农业技术设计的启示。
+- 实现方式: 对小农和城市农民的民族志，用 Morton 的生态思维来解读，并提炼设计方向。
+- 论文: https://doi.org/10.1145/3479557 (CSCW 2021)
+- 视频: https://www.youtube.com/watch?v=cW876f40yho
 
 #### Finding the Mother Tree: Discovering the Wisdom of the Forest — Suzanne Simard (2021)
 - 类型: 书与文章 · 生物: 植物, 真菌, 生态系统
@@ -4008,13 +2145,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1145/3411764.3445656 (CHI 2021)
 - 视频: https://www.youtube.com/watch?v=g4Nrd5mv_Tk
 
-#### Wanting To Live Here — Jeffrey Bardzell, Shaowen Bardzell, Ann Light (2021)
-- 类型: 论文 · 生物: 植物, 生态系统
-- 核心想法: 到已经在这样生活的社区里寻找后人类中心的设计，哪怕并不完美。
-- 作品内容: 一篇基于实验性生态农耕社区田野调查的 CHI 论文，把社区的实践与物件读作“人类中心功能主义之后”的设计范例。
-- 实现方式: 对农耕实践、社区营造和本地修复进行民族志研究与设计批评。
-- 论文: https://doi.org/10.1145/3411764.3445167 (CHI 2021)
-
 #### Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures — Merlin Sheldrake (2020)
 - 类型: 书与文章 · 生物: 真菌, 植物, 生态系统
 - 核心想法: 真菌表明，生命更多由关系构成，而不是由个体构成。
@@ -4022,13 +2152,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 田野研究、实验室科学与个人实验，写给大众读者。
 - 图片: https://covers.openlibrary.org/b/id/10152882-L.jpg
 - 项目主页: https://www.merlinsheldrake.com/entangled-life
-
-#### Expanding Participation to Design with More-Than-Human Concerns — Yoko Akama, Ann Light (2020)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 参与式设计可以把参与者的范围扩展到人之外。
-- 作品内容: 一篇参与式设计会议论文，追问当植物、动物、岩石、河流和神灵也参与塑造未来时，“参与”意味着什么，把女性主义与日本关系哲学带入参与式设计。
-- 实现方式: 女性主义技术科学与日本关系性概念之间的理论对话，并结合作者的实践案例（合作者 Tomomi Kamihira）。
-- 论文: https://doi.org/10.1145/3385010.3385016 (PDC 2020)
 
 #### Feral Atlas: The More-Than-Human Anthropocene — Anna Lowenhaupt Tsing, Feifei Zhou (2020)
 - 类型: 书与文章 · 生物: 生态系统, 动物, 细菌与微生物
@@ -4040,15 +2163,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://feralatlas.org/build/sup/assets/img/jpg/fa.jpg
 - 项目主页: https://feralatlas.org/
 
-#### More-Than-Human Design and AI: In Conversation with Agents — Iohanna Nicenboim, Elisa Giaccardi, Johan Redström (2020)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 把对话代理当作超越人类的参与者，而不是中立的助手。
-- 作品内容: 在多个时区分场举办的工作坊，参与者用物的民族志和物质思辨方法，从超越人类的视角研究智能音箱等 AI 代理。
-- 实现方式: 把语音助手放进家中开展工作坊活动，结合思辨制作与集体反思。
-- 论文: https://doi.org/10.1145/3393914.3395912 (DIS 2020 Companion)
-- 视频: https://www.youtube.com/watch?v=CJKwKQG_heI
-- 图片: https://payload.cargocollective.com/1/4/137851/14306494/IMG_5103_670.jpg https://payload.cargocollective.com/1/4/137851/14306494/prt_1669881272_2x.gif
-- 项目主页: https://iohanna.com/More-than-human-AI
+#### Imagining Multispecies Worlds — Michelle Westerlaken (2020)
+- 类型: 书与文章 · 生物: 动物, 昆虫, 生态系统
+- 核心想法: 设计可以把想象力当作一种与其他物种共同生活的伦理能力来练习。
+- 作品内容: 一篇以“多物种动物寓言集”形式写成的博士论文：每章跟随一个动物主角，探讨设计如何想象与其他物种共享的世界。
+- 实现方式: 结合与狗等动物进行的设计实验、田野研究和思辨写作。
+- 论文: https://doi.org/10.24834/isbn.9789178771059 (PhD thesis, Malmö University 2020)
+- 视频: https://www.youtube.com/watch?v=vmPTLMXWSOE
+- 图片: https://michellewesterlaken.com/2021/09/phdsmaller_w.jpg
+- 项目主页: https://michellewesterlaken.com/portfolio/phd-thesis/
 
 #### Multispecies Cohabitation and Future Design — Stanislav Roudavski (2020)
 - 类型: 论文 · 生物: 动物, 植物, 生态系统
@@ -4056,6 +2179,16 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一篇立场论文，主张设计者应把鸟、蝙蝠、树等生命当作信息提供者、共同设计者、委托人和用户，以解放性的多物种共居为目标。
 - 实现方式: 把伦理、政治和美学方面的学术讨论转译成设计语言，并以鸟类、蝙蝠和树木的栖息地项目为例。
 - 论文: https://doi.org/10.21606/drs.2020.402 (DRS 2020)
+
+#### Smart forests and data practices: From the Internet of Trees to planetary governance — Jennifer Gabrys (2020)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 当森林变得“智能”，它也成了治理工具；要追问它服务于谁。
+- 作品内容: 研究装有传感器、无人机和数据平台的森林，认为森林正在成为管理环境变化的技术。
+- 实现方式: 分析智能森林项目及五种数字实践，属于 ERC Smart Forests 项目。
+- 论文: https://doi.org/10.1177/2053951720904871 (Big Data & Society 2020)
+- 视频: https://www.youtube.com/watch?v=pV6DwcK69gQ
+- 图片: https://smartforests.net/media/pages/about/fdf505d0de-1593377557/smartforest-ok.jpg https://smartforests.net/media/pages/home/fd0c426ad2-1644954050/smartforests-homepage-3-800x800.jpg
+- 项目主页: https://smartforests.net/
 
 #### Technology and More-Than-Human Design — Elisa Giaccardi, Johan Redström (2020)
 - 类型: 论文 · 生物: 人体, 生态系统
@@ -4093,6 +2226,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://i.ytimg.com/vi/LlPmeirPep4/maxresdefault.jpg
 - 项目主页: https://designresearch.works/blog/designing-technology-for-more-than-human-futures-book-chapter
 
+#### More-than-human participation: design for sustainable smart city futures — Rachel Clarke, Sara Heitlinger, Laura Forlano, Marcus Foth, Carl DiSalvo (2019)
+- 类型: 论文 · 生物: 生态系统, 植物, 动物
+- 核心想法: 参与式设计应当把其他物种和生态系统也算作参与者。
+- 作品内容: 一篇宣言式短文，呼吁智慧城市设计把植物、动物、土壤和水道作为参与者纳入其中。
+- 实现方式: 以一系列关于超越人类城市未来的参与式设计工作坊为基础的立场论文。
+- 论文: https://doi.org/10.1145/3319075 (ACM Interactions 2019)
+- 视频: https://www.youtube.com/watch?v=n_0YIj1efK0
+- 项目主页: https://doi.org/10.1145/3319075
+
 #### On Critical Activism and Fungal Revolts (Calling for a More-than-Human Politics) — Superflux (2019)
 - 类型: 书与文章 · 生物: 真菌, 生态系统
 - 核心想法: 以人为中心的设计是问题的一部分，要扩大设计服务的对象。
@@ -4101,6 +2243,16 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://vimeo.com/395931818
 - 图片: https://superflux.in/wp-content/uploads/2022/03/More-than-Human-Web-feature.jpg
 - 项目主页: https://superflux.in/index.php/work/calling-for-a-more-than-human-politics-a-talk-by-anab-jain-at-tentacular-festival-november-2019/
+
+#### The Right to the Sustainable Smart City — Sara Heitlinger (2019)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: “智慧城市权”应当延伸到城市中超越人类的居民。
+- 作品内容: 以 Connected Seeds 项目为基础，论证智慧城市设计应当纳入植物、传粉者等非人类，以及照料它们的种植者。
+- 实现方式: 用“城市权”概念和超越人类理论分析一个参与式设计案例。
+- 论文: https://doi.org/10.1145/3290605.3300517 (CHI 2019)
+- 视频: https://www.youtube.com/watch?v=MaPFc720eaA
+- 图片: https://www.connectedseeds.org/wp-content/uploads/2017/01/home3.jpg
+- 项目主页: https://www.connectedseeds.org/
 
 #### Tools for Multispecies Futures — Donna Haraway (2019)
 - 类型: 书与文章 · 生物: DNA 与分子, 生态系统
@@ -4120,6 +2272,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/1d132b7d-fc65-4ccc-93a9-bcedfd3d4e4f/978-0-8223-7105-2_pr.jpg
 - 项目主页: https://www.dukeupress.edu/designs-for-the-pluriverse
 
+#### More-than-Human Media Architecture — Marcus Foth (2018)
+- 类型: 论文 · 生物: 生态系统, 动物, 植物
+- 核心想法: 媒体建筑也可以为鸟类、植物和生态系统而设计。
+- 作品内容: 对媒体建筑项目的批判性综述，挑战人类例外论，追问城市屏幕和装置如何服务城市中的非人类居民。
+- 实现方式: 用超越人类理论对媒体建筑案例进行批判性回顾。
+- 论文: https://doi.org/10.1145/3284389.3284495 (Media Architecture Biennale 2018)
+- 视频: https://www.youtube.com/watch?v=wqKcXZdKOUE
+- 项目主页: https://doi.org/10.1145/3284389.3284495
+
 #### Philosophers Living with the Tilting Bowl — Ron Wakkary, Doenja Oogjes (2018)
 - 类型: 研究原型 · 生物: 人体
 - 核心想法: 一个除了自身行为外没有其他功能的物件，可以打开人与技术之间的新关系。
@@ -4129,14 +2290,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://vimeo.com/151196220
 - 图片: https://i.vimeocdn.com/video/541478518-6ff95d5999dfb2566f2f5e28ec9811d4fa50bddd6c8ee46cab84c5b9bd6084d5-d_1280x720.jpg
 - 项目主页: http://eds.siat.sfu.ca/?eds_project=tilting-bowl
-
-#### Photography as a Design Research Tool into Natureculture — Szu-Yu (Cyn) Liu, Shaowen Bardzell (2018)
-- 类型: 论文 · 生物: 生态系统, 植物, 动物
-- 核心想法: 拍摄纠缠的景象，可以训练设计者超越自然/文化二分的眼光。
-- 作品内容: 作者用自己拍摄的照片，为“自然文化”建立一套视觉语言——自然与文化交织的层次、聚集和流动。
-- 实现方式: 反复拍摄、编辑、整理和反思照片的迭代实践。
-- 论文: https://doi.org/10.1145/3196709.3196819 (DIS 2018)
-- 项目主页: https://doi.org/10.1145/3196709.3196819
 
 #### Temporal Design: Rethinking time in design — Larissa Pschetz (2018)
 - 类型: 论文 · 生物: 生态系统, 人体
@@ -4184,16 +2337,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 借鉴社区技术研究与照护理论的立场论文。
 - 论文: https://doi.org/10.1145/3083671.3083688 (C&T 2017)
 
-#### Designing for Cohabitation: Naturecultures, Hybrids, and Decentering the Human in Design — Nancy Smith, Shaowen Bardzell (2017)
-- 类型: 论文 · 生物: 植物, 动物, 生态系统
-- 核心想法: 为与自然共居而设计，而不是为了控制自然。
-- 作品内容: 研究与植物、动物和土壤紧密共处的城市家庭农庄者，以此重新思考人与非人类共居的设计。
-- 实现方式: 对家庭农庄者进行民族志田野研究，并用 Haraway 的“自然文化”概念分析。
-- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
-- 视频: https://www.youtube.com/watch?v=Az3oYUa8eSo
-- 图片: https://i.ytimg.com/vi/Az3oYUa8eSo/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3025453.3025948
-
 #### Morse Things: A Design Inquiry into the Gap Between Things and Us — Ron Wakkary, Doenja Oogjes (2017)
 - 类型: 研究原型 · 生物: 人体
 - 核心想法: 设计拥有自己生活的物，让人注意到物与人之间的距离。
@@ -4204,13 +2347,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://i.vimeocdn.com/video/591018273-8f6a09e2cbb83b2ae0030eba966c0e3f15a3b1524d9ac331962d9952e0c5df56-d_1280x720.jpg https://i.vimeocdn.com/video/591017885-a8d0a26f494d96276a25f7f886243de3ce86c1dc70ed3f2aeef8aa576935275f-d_1280x720.jpg
 - 项目主页: http://eds.siat.sfu.ca/?eds_project=morse-things
 
-#### Nonhumans in participatory design — Louis Rice (2017)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 设计中的参与从来不只是人的事。
-- 作品内容: 文章通过一个城市设计的实证案例，展示非人（物件、场地、文件、材料）如何与人结成网络，并改变谁能参与设计。
-- 实现方式: 用行动者网络理论分析一个参与式设计案例。
-- 论文: https://doi.org/10.1080/15710882.2017.1316409 (CoDesign 2017)
-
 #### Posthumanism and Design — Laura Forlano (2017)
 - 类型: 论文 · 生物: 人体, 生态系统
 - 核心想法: 设计需要超越单个人类用户，转向人、非人类和技术组成的网络。
@@ -4218,23 +2354,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 综合后人类主义哲学文献，讨论其对设计实践与教育的意义。
 - 论文: https://doi.org/10.1016/j.sheji.2017.08.001 (She Ji 2017)
 - 项目主页: https://doi.org/10.1016/j.sheji.2017.08.001
-
-#### Products as Agents: Metaphors for Designing the Products of the IoT Age — Nazli Cila, Elisa Giaccardi (2017)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 把智能产品当作有角色的代理者，而不是被动的工具。
-- 作品内容: 为联网产品提出三种隐喻：产品作为收集者、行动者和创造者，它们收集数据、自主行动并与人共同创造。
-- 实现方式: 从设计工作坊和对物联网产品的批判分析中提炼出隐喻。
-- 论文: https://doi.org/10.1145/3025453.3025797 (CHI 2017)
-- 图片: https://images.squarespace-cdn.com/content/v1/5f6312c65070bb0554a3d6e3/1602250220682-DE0ZFGIJR9K9HJYZT1BS/Smart%2Bsink.jpg
-- 项目主页: https://nazlicila.com/projects/human-agent-partnerships
-
-#### Speculative prototypes and alien ethnographies: experimenting with relations beyond the human — Tau Ulv Lenskjold, Li Jönsson (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 原型可以成为研究我们无法完全理解之关系的工具。
-- 作品内容: 借助为城市动物制作的思辨原型，发展“异类民族志”：在不假设能进入非人类经验的前提下研究与它们的关系。
-- 实现方式: 借助思辨实在论和 Ian Bogost 的“异类现象学”反思早期设计实验。
-- 论文: https://doi.org/10.7764/disena.11.134-147 (Diseña 2017)
-- 项目主页: http://revistadisena.uc.cl/index.php/Disena/article/view/85
 
 #### Age of Entanglement (Krebs Cycle of Creativity) — Neri Oxman (2016)
 - 类型: 书与文章 · 生物: 生态系统
@@ -4253,15 +2372,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=OhuDZ877KIY
 - 项目主页: https://doi.org/10.1080/14626268.2016.1145127
 
-#### Becoming response-able stakeholders: participatory design in times of uncertainties — Kristina Lindström, Åsa Ståhl (2016)
-- 类型: 论文 · 生物: 生态系统
-- 核心想法: 参与可以从物质和不确定性开始，而不是从预设的利益相关者开始。
-- 作品内容: 主张在参与式设计中开辟一个空间，让人和塑料等材料都能成为尚未清晰表述之议题的利益相关者。
-- 实现方式: 基于她们关于塑料的参与式项目和 Haraway 的“回应能力”概念。
-- 论文: https://doi.org/10.1145/2948076.2948086 (PDC 2016)
-- 视频: https://www.youtube.com/watch?v=HJO-1qHF74s
-- 项目主页: https://doi.org/10.1145/2948076.2948086
-
 #### Decentering the Human in the Design of Collaborative Cities — Laura Forlano (2016)
 - 类型: 论文 · 生物: 生态系统
 - 核心想法: 城市由人、非人类和技术共同塑造，设计应当以此为前提。
@@ -4278,6 +2388,25 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1215/22011919-3527695 (Environmental Humanities 2016)
 - 项目主页: https://doi.org/10.1215/22011919-3527695
 
+#### Plant-computer interaction, beauty and dissemination — Fredrik Aspling (2016)
+- 类型: 论文 · 生物: 植物
+- 核心想法: 植物用美吸引人类帮助它们传播；设计可以把这看作一种交互。
+- 作品内容: 论文从人们聚集在盛开的樱花树下的做法出发，认为植物以其“扩散”的冲动参与计算，并回顾了植物在计算系统与设计中的出现方式。
+- 实现方式: 结合赏樱的多物种民族志、理论阅读和两项文献综述进行三角分析。
+- 论文: https://doi.org/10.1145/2995257.2995393 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/58a0a88c87ff686a0bd0b471391ccada2c28b8ef/3-Figure3-1.png
+- 项目主页: https://doi.org/10.1145/2995257.2995393
+
+#### Program Earth: Environmental Sensing Technology and the Making of a Computational Planet — Jennifer Gabrys (2016)
+- 类型: 书与文章 · 生物: 生态系统, 动物
+- 核心想法: 传感器不只是测量环境，也在制造新的环境和新的环境公民。
+- 作品内容: 一本书，讨论从野生动物追踪到市民空气监测的传感器网络，如何把地球变成可编程的对象，并改变人们认识环境的方式。
+- 实现方式: 结合怀特海的过程哲学，研究生态传感网络、动物追踪和市民感知等案例。
+- 论文: https://doi.org/10.5749/minnesota/9780816693122.001.0001 (University of Minnesota Press 2016)
+- 视频: https://www.youtube.com/watch?v=tNsFJ7iW17w
+- 图片: https://covers.openlibrary.org/b/isbn/9780816693146-L.jpg?default=false
+- 项目主页: https://www.jennifergabrys.net/program-earth/
+
 #### Staying with the Trouble: Making Kin in the Chthulucene — Donna Haraway (2016)
 - 类型: 书与文章 · 生物: 动物, 生态系统
 - 核心想法: “结亲，而非生子”：与其他物种建立负责任的关系，而不是等待技术修补。
@@ -4287,16 +2416,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=GrYA7sMQaBQ
 - 图片: https://assets-us-01.kc-usercontent.com/f7ca9afb-82c2-002a-a423-84e111d5b498/2d1641c2-5337-4ad5-b011-7af82dc239c0/978-0-8223-6224-1_pr.jpg
 - 项目主页: https://www.dukeupress.edu/staying-with-the-trouble
-
-#### Thing Ethnography: Doing Design Research with Non-Humans — Elisa Giaccardi, Nazli Cila (2016)
-- 类型: 论文 · 生物: 人体
-- 核心想法: 物可以充当共同民族志研究者，揭示人自己说不出的模式。
-- 作品内容: 把相机装在水壶、杯子等日常物件上，记录它们如何被使用，让设计者从物的角度观察日常生活。
-- 实现方式: 在家居物件上安装 Autographer 相机和传感器采集图像与数据，并与使用者访谈一起分析。
-- 论文: https://doi.org/10.1145/2901790.2901905 (DIS 2016)
-- 视频: https://www.youtube.com/watch?v=1Z0mVcV1EgA
-- 图片: https://i.ytimg.com/vi/1Z0mVcV1EgA/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/2901790.2901905
 
 #### What Would Animals Say If We Asked the Right Questions? — Vinciane Despret (2016)
 - 类型: 书与文章 · 生物: 动物
@@ -4437,6 +2556,3412 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: Latour 认为现代性假装把自然与文化分开，却制造出越来越多二者的混合体，全书以呼吁建立“物的议会”作结。
 - 实现方式: 科学技术研究领域的哲学论著；为《Nous n'avons jamais été modernes》（1991）的英译本。
 - 图片: https://covers.openlibrary.org/b/id/414244-L.jpg
+
+## 动物-计算机交互
+
+由动物使用、与动物一起设计、为动物设计的技术：宠物、工作犬、动物园居民、家畜和野生动物，以及让动物参与其中的伦理。
+
+### 宠物与伴侣动物
+
+让宠物在家里通话、玩耍、休息并被理解的设备。
+
+#### Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience — Ilyena Hirskyj-Douglas, Rébecca Kleinberger (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给游客一种不会让猫过度疲惫的玩法。
+- 作品内容: MewTube 是一款用于猫咖啡馆的平板应用，为猫播放精选视频，并让游客根据猫的行为调整播放速度。
+- 实现方式: 为期五个月的研究，涉及 28 位游客和 16 只猫，对比有无应用两种情况。
+- 论文: https://doi.org/10.1145/3768539.3768541 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png
+
+#### pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring — Shuyi Sun, Katia Vega (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 咬咬玩具也可以是一张由动物自己在玩耍中“涂抹”的检测试纸。
+- 作品内容: pawH 是一组宠物玩具（编织绳和球），会随宠物咀嚼时唾液的 pH 值改变颜色。
+- 实现方式: 把比色法 pH 生物传感材料嵌入对宠物安全的玩具中，颜色可用肉眼或便携光谱仪读取。
+- 论文: https://doi.org/10.1145/3715336.3735768 (DIS 2025)
+
+#### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls — Ilyena Hirskyj-Douglas, Jennifer Cunha, Rébecca Kleinberger (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对群居动物来说，实时的联系比内容更有价值。
+- 作品内容: 一项为期六个月的研究：宠物鹦鹉可以触发与其他鹦鹉的实时视频通话或预录视频，结果它们明显更常选择实时通话。
+- 实现方式: 由鹦鹉操作的平板系统，记录实时与预录通话的触发次数、投入程度和行为。
+- 论文: https://doi.org/10.1145/3613904.3641938 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=bjoJToyC9_0
+
+#### GluCAT: A Feline Biofluids IoT Hub for Electrochemical Glucose Biosensing — Shuyi Sun, Katia Vega (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 宠物的体液可以成为照护它的数据流。
+- 作品内容: GluCAT 是一个“猫体液物联网中枢”，用电化学生物传感器检测猫尿中的葡萄糖，并把数据连接到家中的联网设备。
+- 实现方式: 在猫砂盆装置中进行葡萄糖生物传感，并接入物联网系统做持续监测。
+- 论文: https://doi.org/10.1145/3623509.3635250 (TEI 2024)
+
+#### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 人类的触屏标准不适合鹦鹉；要测量它们的身体来为它们设计。
+- 作品内容: 研究 20 只宠物鹦鹉如何用喙和舌头触碰平板屏幕，并据此提出鹦鹉应用的界面设计准则。
+- 实现方式: 在平板上进行触控目标实验，并与菲茨定律等 HCI 模型对照检验。
+- 论文: https://doi.org/10.1145/3613904.3642119 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=EY5GiklaplM
+- 图片: https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3613904.3642119
+
+#### Prototyping an Immersive Screen Interfaces for Dogs' to Control Screens in Their Home — Ilyena Hirskyj-Douglas (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把遥控器交给狗，看看它真正想看什么。
+- 作品内容: 一个家用系统：让狗自己在沉浸式屏幕装置上开启视频，研究者对一只狗进行了六个月的观察。
+- 实现方式: 由狗触发视频播放，并在长期居家部署中记录注意力和内容特征。
+- 论文: https://doi.org/10.1145/3702336.3702342 (ACI 2024)
+
+#### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 面向动物的社交技术，应该让它们自己决定是否通话、和谁通话。
+- 作品内容: 宠物鹦鹉学会摇铃请求通话，然后在平板上选择要视频通话的另一只鹦鹉；许多鹦鹉对特定伙伴形成了偏好。
+- 实现方式: 由鸟类发起、看护人在旁监督的平板视频通话，并在数月中分析使用情况和行为。
+- 论文: https://doi.org/10.1145/3544548.3581166 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=R8BlvicJfJM
+- 图片: https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg
+- 项目主页: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls
+
+#### KitBit: An Instrumented Collar for Indoor Pets — Melody Moore Jackson (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 为猫的身体和居家环境设计追踪器，而不是把狗用追踪器缩小。
+- 作品内容: KitBit 是一款轻巧的项圈式活动追踪器，为室内猫设计，用机器学习判断它们的活动水平。
+- 实现方式: 项圈上的惯性测量单元无线传输数据；LSTM 模型根据 11 个家庭中的玩耍数据判断活动水平。
+- 论文: https://doi.org/10.1145/3637882.3637894 (ACI 2023)
+
+#### Quantified Canine: Inferring Dog Personality From Wearables — Daniele Quercia (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 活动数据可以替代昂贵的性格测评，比如用于为收容所的狗匹配领养家庭。
+- 作品内容: 胸前佩戴的传感器 Patchkeeper 从 12 只狗身上收集了 1300 小时的活动数据，并推断出它们的性格特征。
+- 实现方式: 用加速度计和陀螺仪数据，对照经过验证的狗性格问卷建立模型。
+- 论文: https://doi.org/10.1145/3544548.3581088 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=jQeBh000krw
+- 图片: https://arxiv.org/html/2301.06964v2/figures/device_diagram.png
+
+#### Squeeker: The Mouse Coach — Jiabao Li (2023)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 把实验鼠的关系反过来：让老鼠来安排人的健康作息。
+- 作品内容: 一个应用和装置，让宠物鼠当你的跑步教练：老鼠在智能跑轮上开跑时你会收到通知，跑够和它一样的距离，你们都能得到奖励。
+- 实现方式: 装有传感器的跑轮把老鼠的跑步距离传到手机应用；奖励是给老鼠的零食和给人的社交媒体滑动距离。
+- 论文: https://doi.org/10.1145/3731459.3779140 (TEI 2026)
+- 视频: https://www.youtube.com/watch?v=UvfkYPLJAaw
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg
+- 项目主页: https://www.jiabaoli.org/mouse-coach
+
+#### cirCAT: PURRtentio: a Litter Box that Monitors Feline Urine using Electrochemical Biosensors — Shuyi Sun, Katia Vega (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把每天上厕所的习惯变成健康监测，不必专门去看兽医。
+- 作品内容: cirCAT: PURRtentio 是一个装有电化学生物传感器的猫砂盆，猫每次使用时都能在家分析它的尿液。
+- 实现方式: 自制三电极传感器、恒电位仪、微控制器和距离传感器识别猫并测量尿液成分，结果在手机应用中显示。
+- 论文: https://doi.org/10.1145/3637882.3637887 (ACI 2023)
+
+#### MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction — Woohun Lee (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让动物来决定哪位观众的话被听见。
+- 作品内容: MeowPlayLive 让直播观众发送语音消息，这些消息在猫的平板上变成移动的物体；只有猫拍到时，消息才会被播放。
+- 实现方式: 直播平台与面向猫的平板游戏相连，在真实直播中部署测试。
+- 论文: https://doi.org/10.1145/3532106.3533553 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=Op7IIU355T4
+
+#### Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone) — Ilyena Hirskyj-Douglas, Roosa Piitulainen (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让动物自己决定何时连线，看看由动物发起的互联网会是什么样。
+- 作品内容: DogPhone 让狗通过叼起并摇晃一个软球来给主人拨打视频电话；它在第一作者的拉布拉多犬 Zack 身上测试了 16 天。
+- 实现方式: 球内的加速度计触发笔记本电脑发起视频通话；主人也可以打过来，而狗可以不理会。
+- 论文: https://doi.org/10.1145/3488539 (PACM HCI (ISS) 2021)
+- 视频: https://www.youtube.com/watch?v=LLNrNAMnA6M
+- 图片: https://www.gla.ac.uk/media/Media_819888_smxx.jpg https://www.gla.ac.uk/media/Media_819889_smxx.jpg
+- 项目主页: https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html
+
+#### Meow Meow Call: Prototype Design for Building Interactive Connection between Human and Deaf Cat — Hongyi Zhang (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 像为人做无障碍设计一样，为残障动物换一种感官通道。
+- 作品内容: Meow Meow Call 是一个用光和振动代替声音与失聪猫咪建立联系的原型。
+- 实现方式: 一个由三部分组成的原型，与两只失聪猫及其主人进行了为期两周的测试。
+- 论文: https://doi.org/10.1145/3411763.3451681 (CHI EA 2021)
+- 视频: https://www.youtube.com/watch?v=bYEm36ORAjQ
+
+#### WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises — Shuyi Sun, Katia Vega (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把测量设备穿在狗身上，人的双手就能专心做训练。
+- 作品内容: WOOFlex 是一款狗用可穿戴设备，在伸展训练中测量关节角度，并为主人提供实时反馈。
+- 实现方式: 贴合的套袖里装有弯曲传感器，读取关节活动度，并在应用中与该品种的目标值比较。
+- 论文: https://doi.org/10.1145/3493842.3493903 (ACI 2021)
+- 视频: https://www.youtube.com/watch?v=iUYcwSncXDs
+
+#### Understanding the Interaction Between Animals and Wearables: The Wearer Experience of Cats — Patrizia Paci, Clara Mancini (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: “对动物友好”的可穿戴设备，要以动物的体验来检验，而不是以主人的体验。
+- 作品内容: 一项实地研究：观察 13 只佩戴市售 GPS 追踪器的猫，寻找不适迹象和佩戴上的问题。
+- 实现方式: 在实地研究中对佩戴和不佩戴追踪器的猫进行行为观察与编码。
+- 论文: https://doi.org/10.1145/3357236.3395546 (DIS 2020)
+- 视频: https://www.youtube.com/watch?v=3S9_Xfk1xP4
+
+#### AffectiveNemo — Naohiro Isokawa (2019)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给鱼一种看得懂的“声音”，能让主人更持续地照顾它们。
+- 作品内容: 一套水族箱系统：根据鱼的游动方式估计它的“被观察到的情绪”，并在鱼缸后的屏幕上以对话气泡显示。
+- 实现方式: 结合摄像头追踪的鱼类运动数据与人们赋予鱼的情绪，估计出“被观察到的情绪”，显示在鱼缸后的液晶屏上。
+- 论文: https://doi.org/10.1145/3371049.3371067 (ACI 2019)
+- 项目主页: https://doi.org/10.1145/3371049.3371067
+
+#### Buddy's Wearable Is Not Your Buddy: Privacy Implications of Pet Wearables — Dirk van der Linden, Anna Zamansky (2019)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 宠物追踪器同时也在追踪牵着绳子的那个人。
+- 作品内容: 一项对宠物可穿戴设备隐私政策的分析，发现这些设备收集的主人数据多于宠物数据。
+- 实现方式: 对市售宠物可穿戴设备的隐私政策进行文本分析。
+- 论文: https://doi.org/10.1109/msec.2018.2888783 (IEEE Security & Privacy 2019)
+- 图片: https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png
+
+#### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 宠物可穿戴设备改变的不只是动物，也改变了关系中人的一方。
+- 作品内容: 对使用热门狗活动追踪器的主人进行研究，发现它主要促使主人与狗一起更多地活动。
+- 实现方式: 针对商用狗活动追踪器用户的实证研究。
+- 论文: https://doi.org/10.1109/mc.2018.2889637 (IEEE Computer 2019)
+- 图片: https://figures.semanticscholar.org/549d1677f6afbb09916edf7bb1e4b1c37c1799b0/2-Figure1-1.png
+- 项目主页: https://doi.org/10.1109/mc.2018.2889637
+
+#### On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog — Ilyena Hirskyj-Douglas (2019)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 动物-计算机交互已经造了动物与计算机的界面；下一步是经由计算机的动物与动物之间的沟通。
+- 作品内容: 一个关于“狗互联网”的设计虚构：通过共同设计工作坊得出六个方案，让狗能与其他狗联系，而不仅仅是与计算机交互。
+- 实现方式: 通过共同设计工作坊产出叙事和概念，并分析狗互联网应该和不应该是什么样子。
+- 论文: https://doi.org/10.1145/3290605.3300347 (CHI 2019)
+- 视频: https://www.youtube.com/watch?v=ClU087JidS4
+
+#### BubbleTalk — Donghyeon Ko (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 跨越玻璃壁：给人一种作用于鱼的世界的方式。
+- 作品内容: 一套鱼缸系统：把养鱼人在手机上记录的动作转成释放到缸里的气泡，让人的存在能“传到”鱼那里。
+- 实现方式: 由手机应用控制的气泵模块向鱼缸释放气泡；对孔雀鱼饲养者的用户研究观察了行为与关系的变化。
+- 论文: https://doi.org/10.1145/3196709.3196720 (DIS 2018)
+- 图片: https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/5-Figure3-1.png https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/1-Figure1-1.png
+- 项目主页: https://doi.org/10.1145/3196709.3196720
+
+#### DoggyVision: Examining how dogs (Canis familiaris) interact with media using a dog-driven proximity tracker device. — Ilyena Hirskyj-Douglas (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 狗走过来，就是开机键。
+- 作品内容: DoggyVision 是一个接近感应装置，狗走近就能开关电视，用来研究狗是否会自己控制观看。
+- 实现方式: 在家中把接近感应器与电视相连，记录开启次数和观看时长。
+- 论文: https://doi.org/10.26451/abc.05.04.06.2018 (Animal Behavior and Cognition 2018)
+- 图片: https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png
+
+#### Dogs using touchscreens in the home: a case study for assistance dogs operating emergency notification systems — Ceara Byrne, Clint Zeagler, Melody Moore Jackson (2018)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 没穿工作背心的辅助犬也需要一个界面；那就把它装在墙上。
+- 作品内容: 训练医疗警报犬操作安装在家中墙上的触摸屏，在紧急情况下呼叫帮助。
+- 实现方式: 在家中开展实地研究，三只医疗警报犬在随机时间出现的虚拟目标上完成特定的触碰顺序。
+- 论文: https://doi.org/10.1145/3295598.3295610 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png
+
+#### A dog centred approach to the analysis of dogs' interactions with media on TV screens — Ilyena Hirskyj-Douglas (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 想知道狗在看什么，就让它在多块屏幕中自己选择，而不是只给一块。
+- 作品内容: 一项研究：用以狗为中心的方法，观察狗如何在播放不同视频的三块电视屏幕之间转移注意力。
+- 实现方式: 三屏装置，在相对不受控的环境中对每只狗的注视和位置进行视频编码。
+- 论文: https://doi.org/10.1016/j.ijhcs.2016.05.007 (IJHCS 2017)
+- 图片: https://figures.semanticscholar.org/b3be28c8712c83a1ad80777a5e32d716310cc140/3-Figure2-1.png
+
+#### AquaPrism: Dynamically Altering the Color of Aquatic Animals without Injury by Augmenting Aquarium — Jun Rekimoto (2017)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 改变动物的外观，要设计光线，而不是改造动物。
+- 作品内容: AquaPrism 不使用染料、不伤害动物，而是在普通鱼缸后方利用偏振光，让透明的水族动物在黑暗中呈现颜色和光泽。
+- 实现方式: 在鱼缸前后贴偏振片让鱼缸变暗；透明动物身体的双折射会旋转来自显示器的偏振光，从而显出颜色。
+- 论文: https://doi.org/10.1145/3152130.3152138 (ACI 2017)
+- 视频: https://www.youtube.com/watch?v=g6WLiyPzES0
+
+#### K9-Blyzer: Towards Video-Based Automatic Analysis of Canine Behavior — Anna Zamansky (2017)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 自动视频分析让行为测量不必再依靠人工逐秒编码。
+- 作品内容: K9-Blyzer 是一个自动分析狗视频、量化其行为的工具。
+- 实现方式: 用计算机视觉在视频中追踪狗，生成基于运动的行为指标。
+- 论文: https://doi.org/10.1145/3152130.3152142 (ACI 2017)
+- 视频: https://www.youtube.com/watch?v=1QQIaMYI2l8
+
+#### A dog using skype — Alexandre Pongrácz Rossi (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 狗可以学会把屏幕里的声音当作主人。
+- 作品内容: 一位训犬师讲述如何训练狗正确回应主人通过视频通话发出的口令。
+- 实现方式: 借助视频聊天软件分步训练，直到狗能执行远程主人的指令。
+- 论文: https://doi.org/10.1145/2995257.3012019 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=qzdnZ2SKG28
+
+#### TalkingNemo — Naohiro Isokawa (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把鱼缸状况翻译成鱼的第一人称话语。
+- 作品内容: 一个水族箱：用摄像头和传感器观察鱼和水质，并以对话气泡“替鱼说话”，在出问题时提醒主人。
+- 实现方式: 摄像头和水质传感器检测鱼的状态和缸内环境，再按规则转换成以鱼的口吻发出的消息。
+- 论文: https://doi.org/10.1145/2995257.3012017 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=IXqRVKZHpfA
+- 项目主页: https://doi.org/10.1145/2995257.3012017
+
+#### UbiComp for animal welfare: envisioning smart environments for kenneled dogs — Clara Mancini (2014)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 为动物设计的智能环境应当从福利出发，而不是从数据收集出发。
+- 作品内容: 在狗狗再安置中心开展的民族志研究，提出以福利为中心的智能犬舍环境框架。
+- 实现方式: 与员工和狗一起进行为期四个月的田野调查，得出一个把监测、互动和信息管理结合起来的框架。
+- 论文: https://doi.org/10.1145/2632048.2632073 (UbiComp 2014)
+- 图片: https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png
+
+#### Exploring pet video chat: the remote awareness and interaction needs of families with dogs and cats — Carman Neustaedter (2013)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 家庭把宠物当作想要“打电话”的成员，而不只是被监看的对象。
+- 作品内容: 一项对猫狗主人的调查，了解他们离家时希望如何通过视频看护宠物并与之互动。
+- 实现方式: 对在线问卷进行分析，归纳感知和互动需求，并提出宠物视频聊天的设计建议。
+- 论文: https://doi.org/10.1145/2441776.2441953 (CSCW 2013)
+
+#### DOGTV — DOGTV (2012)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 媒体可以依据非人类观众的感官来设计。
+- 作品内容: DOGTV 是为独自在家的狗开设的电视频道，画面和声音依据狗的色觉与听觉进行剪辑。
+- 实现方式: 节目分为放松、刺激和脱敏三类，色彩与声音频率的选择依据狗的感知。
+- 图片: https://www.dogtv.com/wp-content/uploads/2025/08/JRT_Watching-3-scaled-e1754077958681.jpg
+- 项目主页: https://www.dogtv.com
+
+#### Exploring interspecies sensemaking: dog tracking semiotics and multispecies ethnography — Clara Mancini (2012)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 追踪设备同时改变狗和人；要研究的是这一对关系。
+- 作品内容: 一项关于 GPS 狗追踪的民族志研究，揭示追踪如何重塑狗与主人之间的关系，并提出一种跨物种符号学。
+- 实现方式: 结合主人叙述、动物研究者观点和对被追踪狗的观察，进行多物种民族志研究。
+- 论文: https://doi.org/10.1145/2370216.2370239 (UbiComp 2012)
+- 图片: https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png
+
+#### PetPace — PetPace (2012)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 让照护者读懂动物身体的状态。
+- 作品内容: 一款给猫狗戴的智能项圈，持续监测脉搏、呼吸、体温、活动和姿态等体征，在数据提示疼痛或疾病时提醒主人和兽医。
+- 实现方式: 项圈内的非侵入式传感器把生理数据传到云平台，由算法识别异常并通过 App 发出提醒。
+- 视频: https://www.youtube.com/watch?v=DGbrYUXW_Bk
+- 图片: https://petpace.com/wp-content/uploads/2026/08/pic-dog.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Communication technology for human-dog interaction: exploration of dog owners' experiences and expectations — Oskar Juhlin (2011)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 猎人和宠物主人对狗用技术的需求不同；要依情境来设计。
+- 作品内容: 针对狗主人和猎人的研究，了解他们如何与狗一起使用通信技术，以及对未来设备的期待。
+- 实现方式: 对两类用户进行访谈和问卷，了解现有设备和期望的服务。
+- 论文: https://doi.org/10.1145/1978942.1979329 (CHI 2011)
+- 图片: https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png
+
+#### Cat@Log: sensing device attachable to pet cats for supporting human-pet interaction — Jun Rekimoto (2009)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 猫的一天变成了主人可以关注的社交媒体动态。
+- 作品内容: Cat@Log 是一组供宠物猫佩戴的感应设备，能识别猫的行为并发布到 Twitter 上。
+- 实现方式: 项圈上的加速度计、摄像头等传感器把数据送入分类器，生成高层次行为并发布。
+- 论文: https://doi.org/10.1145/1690388.1690414 (ACE 2009)
+- 视频: https://www.youtube.com/watch?v=sY01SRLlD24
+
+#### Augmented Animals (LED Dog Tail Communicator) — Auger-Loizeau (2006)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 问一问：如果动物是用户，会出现哪些小工具？以此揭示技术有多么以人为中心。
+- 作品内容: 一组设想“为动物本身设计的技术”的装置；其中 LED 狗尾巴翻译器读取狗摇尾巴的速度，把它想表达的意思用文字显示给人看。
+- 实现方式: 装有可编程 LED 的自动摇摆尾巴，把摇尾速度映射成文字；系列中的其他概念还包括老鼠夜视镜和鸟用防撞雷达。
+- 图片: https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg
+- 项目主页: https://www.moma.org/interactives/exhibitions/2008/elasticmind/
+
+#### Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet — Adrian David Cheok (2006)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 远程触摸可以让人与动物的陪伴跨越距离。
+- 作品内容: 一只鸡穿着装有振动马达的背心；当主人在办公室抚摸装有传感器的鸡玩偶时，触感会通过互联网传给真实的鸡。
+- 实现方式: 触觉感应玩偶、互联网连接、振动背心以及用摄像头追踪鸡的混合现实画面（第一作者 Shang Ping Lee）。
+- 论文: https://doi.org/10.1007/s00779-005-0051-6 (Personal and Ubiquitous Computing 2006)
+- 视频: https://www.youtube.com/watch?v=1x-8EzuMiqU
+- 项目主页: https://mixedrealitylab.org/projects/all-projects/poultry-internet/
+
+#### Supporting interspecies social awareness: using peripheral displays for distributed pack awareness (PAWSABILITIES) — Jennifer Mankoff (2005)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 远程感知也可以把狗当作家庭成员包括进来。
+- 作品内容: PAWSABILITIES 是一组外围显示装置，让家人和狗在分开时仍能感知彼此的活动。
+- 实现方式: 传感器和环境显示把“狗群”活动在远方的人和家中的狗之间共享。
+- 论文: https://doi.org/10.1145/1095034.1095076 (UIST 2005)
+- 图片: https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png
+
+### 与动物一起的游戏、玩耍与机器人
+
+跨物种游戏，以及陪动物玩耍、喂食或照料动物的机器人。
+
+#### Provoking Public Reflection on Robotics and AI through Cat Royale, an Artistic Installation — Steve Benford (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 关于动物与机器人的含混艺术，能把抽象的 AI 争论变得可感。
+- 作品内容: 研究观众如何回应 Cat Royale，并提出：把艺术作品呈现为刻意含混的界面，能帮助人们跳出对 AI 非赞成即反对的立场。
+- 实现方式: 分析围绕这件直播装置的观众参与数据和评论。
+- 论文: https://doi.org/10.1145/3803784.3807545 (Creativity & Cognition 2026)
+- 图片: https://arxiv.org/html/2402.15431v1/Figures/CR_System_Components.png
+
+#### Charting the Ecosystem of Trust in Cat Royale, or What It Takes to Trust a Robot to Play with Cats — Steve Benford (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对社交机器人的信任，是在远超机器人本身的多个层次中建立的。
+- 作品内容: 一项案例研究，梳理一台能让人放心陪猫玩耍的机器人背后的一切——从控制室、动物福利专家到伦理审查与公众参与——归纳为“信任生态”的五个层次。
+- 实现方式: 五层框架：个人工作空间、编排、更广的工作空间、组织文化和公共领域。
+- 论文: https://doi.org/10.1007/978-981-95-2398-6_42 (Social Robotics (LNCS), 2025)
+- 图片: https://arxiv.org/html/2402.15431v1/Figures/CR_Brisbane.jpg
+
+#### Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation — Stephan Huber (2025)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 把蜜蜂当作共同创作者，蜂箱就成了工作室。
+- 作品内容: 在一个季节里，研究者把人制作的蜡质形状放入蜂箱，让蜜蜂在上面继续建造，形成超出蜜蜂常规巢脾形态的雕塑。
+- 实现方式: 把蜡质起始造型放入西方蜜蜂群落中四个月，记录蜜蜂如何偏离常规巢脾。
+- 论文: https://doi.org/10.1145/3689050.3705990 (TEI 2025)
+
+#### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 要为动物设计整个世界，而不只是机器人与它的一次互动。
+- 作品内容: CHI 2024 最佳论文，回顾 Cat Royale 的设计：围栏环境、机器人及其自主系统、定制末端执行器、在环人员，以及十二天展演中的关键时刻。
+- 实现方式: 对一件已实际运行的机器人-猫装置进行设计案例研究，结合视频分析以及艺术家、工程师和动物福利专家的反思。
+- 论文: https://doi.org/10.1145/3613904.3642115 (CHI 2024)
+- 图片: https://arxiv.org/html/2402.15431v1/Figures/CatRoyale_Overview_v3a.png https://arxiv.org/html/2402.15431v1/Figures/Cats_Portrait_v2.png
+
+#### Cat Royale — Blast Theory, Steve Benford (2023)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 用最诚实的评委——猫——来检验人们对自主照护系统的信任。
+- 作品内容: 三只猫在十二天里每天有六小时住在专门搭建的“猫咪乌托邦”中，一只机械臂陪它们玩、给它们零食，AI 学习它们的偏好；这件网络直播作品追问：我们是否应该把照护托付给机器人。首演于布里斯班世界科学节。
+- 实现方式: 一台机械臂（很可能是 Kinova）配有定制玩具，由计算机视觉与学习系统根据猫的投入程度为游戏排序，并由在环人员和动物福利专家监督。
+- 论文: https://doi.org/10.1145/3636499 (ACM Interactions 2024)
+- 视频: https://vimeo.com/1183715660
+- 图片: https://www.blasttheory.co.uk/wp-content/uploads/2024/05/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0604-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2023/05/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2024/01/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0612-800x450.jpg
+- 项目主页: https://www.blasttheory.co.uk/projects/cat-royale/
+
+#### TAS for Cats: An Artist-led Exploration of Trustworthy Autonomous Systems for Companion Animals — Steve Benford, Blast Theory (2023)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一个面向动物的自主系统，可信程度取决于围绕它的人类网络。
+- 作品内容: 把 Cat Royale 作为与 TAS Hub 创意大使 Blast Theory 共同搭建的自主系统来介绍，并剖析负责任地运行它需要多少人类与动物利益相关者。
+- 实现方式: 系统描述，以及从负责任研究与创新（RRI）角度对自主性、可信性和责任的反思。
+- 论文: https://doi.org/10.1145/3597512.3597517 (TAS 2023)
+- 图片: https://arxiv.org/html/2402.15431v1/Figures/Environment_design_V3.png
+
+#### Designing for Trust: Autonomous Animal-Centric Robotic & AI Systems — Steve Benford (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 家用机器人的信任设计必须同时考虑动物和人。
+- 作品内容: ACI 2022 论文，提出 Cat Royale 背后的问题：当宠物、人与机械臂等家用机器人共处一室时，信任如何建立。
+- 实现方式: 立场论文，用负责任研究与创新的方法讨论以动物为中心的自主系统。
+- 论文: https://doi.org/10.1145/3565995.3566046 (ACI 2022)
+
+#### Dog Driven Robot: Towards Quantifying Problem-Solving Abilities in Dogs — Ceara Byrne, Melody Moore Jackson (2019)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让狗驾驶机器人，就能测量它如何解决问题。
+- 作品内容: 狗通过拉、按或靠近输入装置，远程驾驶一台小机器人穿过迷宫，用来测试它们的解决问题能力。
+- 实现方式: 高台上的三种输入方式（拉绳、按钮、接近）触发机器人移动，并提供视觉反馈。
+- 论文: https://doi.org/10.1145/3371049.3371063 (ACI 2019)
+
+#### Exploring the Reactions of Companion Animals as Unintended Users of Social Robots — Ehud Sharlin (2019)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 宠物是家用机器人的“非预期用户”；引入机器人时要顾及它们的感官。
+- 作品内容: 一项探索性研究：观察两只家猫对放在家中的小型社交机器人的反应，比较突然引入和逐步引入两种方式。
+- 实现方式: 非正式的设计研究：在两种引入策略下观察猫在社交机器人周围的行为。
+- 论文: https://doi.org/10.1145/3301019.3323891 (DIS 2019)
+- 图片: https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png
+
+#### Umamimi robotic horse ears: using configurable code profiles to replicate individuality in equine animatronics — Steve North (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 借用动物自己的肢体语言作为界面。
+- 作品内容: Umamimi 是可编程的机器马耳：人可以戴上它用耳朵信号与马“交谈”，它也可以作为独处马匹的陪伴。
+- 实现方式: 舵机驱动的仿生马耳，可配置代码参数，实现用户触发和随机两种动作。
+- 论文: https://doi.org/10.1145/3295598.3295606 (ACI 2018)
+- 视频: https://www.youtube.com/watch?v=90oS6pgYEsY
+
+#### Designing interspecies playful interactions: studying children perceptions of games with animals — Patricia Pons (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 孩子是设计人与动物游戏的天然合作者。
+- 作品内容: 让孩子们设计人与动物之间的游戏（有的用技术，有的不用），以了解他们如何想象跨物种玩耍。
+- 实现方式: 分析儿童设计活动中的游戏机制、角色分配和对动物的态度。
+- 论文: https://doi.org/10.1145/3152130.3152139 (ACI 2017)
+- 视频: https://www.youtube.com/watch?v=lfP8sqALWlg
+
+#### CleverPet Hub — CleverPet (2016)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 把实验室里的学习任务包装成家用产品，就能在人不在家时让狗有事可做。
+- 作品内容: CleverPet Hub 是一台家用狗游戏机：三个触摸垫会亮起，狗按正确顺序按下就能得到食物，游戏难度会逐步提高。
+- 实现方式: 发光触摸垫、食物投放器和运行操作性学习游戏的自适应软件，通过应用控制。
+- 视频: https://www.youtube.com/watch?v=Cm08jEklfKY
+
+#### Designing Mediated Nurturing Play with Dogs to Alleviate Workplace Stress — Florian 'Floyd' Mueller (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 远程玩耍可以把动物辅助活动的益处带到动物进不去的地方。
+- 作品内容: 一个系统：让办公室员工与远方的救助犬进行简短的养育式玩耍，同时缓解职场压力、增进狗的福祉。
+- 实现方式: 人-计算机-动物的游戏系统，把员工的操作连接到远方收容所狗的玩具和零食上。
+- 论文: https://doi.org/10.1145/2908805.2909412 (DIS 2016)
+
+#### Dog-drone interactions: towards an ACI perspective — Anna Zamansky (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 无人机终会遇到狗；要从狗的一侧来设计这次相遇。
+- 作品内容: 一篇短文，呼吁用以动物为中心的方式看待狗与无人机的相遇，让这种互动安全且不造成压力。
+- 实现方式: 结合对狗面对无人机时反应的观察写成的立场论文。
+- 论文: https://doi.org/10.1145/2995257.3012021 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=wOvXHugXKNo
+
+#### Exploring human perceptions of dog-tablet playful interactions — Anna Zamansky (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 狗是否在“玩”平板游戏，取决于谁在看、怎么看。
+- 作品内容: 一项探索性研究：人们如何看待狗玩平板电脑，是否认为那是真正的玩耍。
+- 实现方式: 在线研究：展示狗与平板互动的视频，收集人们的解读。
+- 论文: https://doi.org/10.1145/2995257.3012023 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=Ig6SQIaPss0
+
+#### RoboFish — Tim Landgraf (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 机器人可以作为参与者加入动物群体，并借此检验群体如何作决定。
+- 作品内容: RoboFish 是一条由鱼缸下方磁铁驱动的机器孔雀鱼；当它有逼真的眼睛、动作自然时，活体孔雀鱼会把它当作同伴。
+- 实现方式: 带磁性底座的仿真鱼由鱼缸下方的轮式机器人驱动，配合对活鱼的闭环视频追踪。
+- 论文: https://doi.org/10.1088/1748-3190/11/1/015001 (Bioinspiration & Biomimetics 2016)
+
+#### Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies — Patricia Pons (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 先研究动物对什么好奇，再为它设计游戏。
+- 作品内容: 一项观察研究：哪些技术刺激（投影光、移动物体、声音、平板）真正能吸引猫，为设计猫与人的游戏提供依据。
+- 实现方式: 让猫接触不同的互动刺激，录像并按兴趣和投入程度编码分析。
+- 论文: https://doi.org/10.1145/2851581.2892381 (CHI 2016 Extended Abstracts)
+- 视频: https://www.youtube.com/watch?v=ie6xe3v70kQ
+- 图片: https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/2851581.2892381
+
+#### Developing a depth-based tracking system for interactive playful environments with animals — Patricia Pons (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给动物玩的游戏需要知道动物在哪里、身体在做什么。
+- 作品内容: 一个深度相机追踪系统，检测动物的位置和姿态，让游戏环境能对它们作出回应。
+- 实现方式: 处理 Microsoft Kinect 的深度数据，在游戏空间中检测猫及其姿态。
+- 论文: https://doi.org/10.1145/2832932.2837007 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png
+
+#### Purrfect Crime: Exploring Animal Computer Interaction through a Digital Game for Humans and Cats — Rui Trindade (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 不对称的角色让两个物种能共享同一款游戏。
+- 作品内容: Purrfect Crime 是一款平板游戏，人和猫在同一块屏幕上以不同角色一起玩。
+- 实现方式: 猫在平板上追逐移动目标，人承担策略性角色；与猫和人一起进行了测试。
+- 论文: https://doi.org/10.1145/2702613.2728660 (CHI EA 2015)
+
+#### Animal Ludens: Building Intelligent Playful Environments for Animals — Patricia Pons (2014)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 玩耍是进入动物交互设计最自然的入口。
+- 作品内容: 提出面向动物的智能游戏环境：能够感知动物并为其调整游戏的空间，而不是单一设备上的游戏。
+- 实现方式: 一个框架：由传感器驱动、能适应其中动物和人的游戏化环境。
+- 论文: https://doi.org/10.1145/2693787.2693794 (ACE 2014 Workshops (ACI))
+
+#### Pig Chase (Playing with Pigs) — Clemens Driessen, Kars Alfrink (2012)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 玩耍能让人把农场动物看作有心智的个体，也给它们找点事做。
+- 作品内容: Pig Chase 是一款游戏：猪圈里的猪和拿着 iPad 的人一起玩，猪用鼻子在大型触摸屏上追逐一个光球。
+- 实现方式: 猪圈里的触敏墙面显示屏通过互联网连接到人类玩家手中的平板游戏。
+- 视频: https://www.youtube.com/watch?v=CsuMkHJxoak
+
+#### Cat Cat Revolution: An Interspecies Gaming Experience — Frank Noz (2011)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 只要界面适合物种，宠物就能成为共享游戏中真正的玩家。
+- 作品内容: 一款 iPad 猫捉老鼠游戏：猫在屏幕上追逐虚拟老鼠，主人负责操控老鼠。
+- 实现方式: 为猫设计了适合其物种的平板界面，人类玩家则使用控制端。
+- 论文: https://doi.org/10.1145/1978942.1979331 (CHI 2011)
+- 图片: https://figures.semanticscholar.org/28a1dbe45ae7b36a3df1e40a7df0306967c95e58/1-Figure1-1.png
+- 项目主页: https://doi.org/10.1145/1978942.1979331
+
+#### Games for Cats (Friskies) — Nestlé Purina PetCare (2011)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 一款大众应用让屏幕成了猫可以玩的东西。
+- 作品内容: Friskies 的 Games for Cats 是一组平板应用，猫可以用爪子追逐屏幕上的鱼、激光点和虫子。
+- 实现方式: 高对比度移动目标的触屏游戏，触碰检测按爪子大小设计。
+- 视频: https://www.youtube.com/watch?v=Ed06WBmxrp8
+
+#### Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans — Adrian David Cheok (2011)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 借助混合现实，人和小宠物可以一起玩同一个游戏。
+- 作品内容: 仓鼠在实体场地中奔跑，控制电脑游戏中的一个角色；人类玩家的角色则移动场地里的实体诱饵，让仓鼠追逐。
+- 实现方式: 摄像头追踪仓鼠，场地下方用电机驱动诱饵，双方进入共享虚拟游戏；用标准评分方法检查宠物健康。
+- 论文: https://doi.org/10.1109/tsmca.2011.2108998 (IEEE Transactions on Systems, Man, and Cybernetics 2011)
+- 视频: https://www.youtube.com/watch?v=7o7UIpOy5LA
+- 项目主页: https://ieeexplore.ieee.org/document/5740616/
+
+#### Early explorations of CAT: canine amusement and training — Chadwick A. Wingrave (2010)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 游戏可以塑造人与狗共享的日常习惯。
+- 作品内容: 一个严肃游戏原型，旨在让人与自己的狗进行平静、健康而愉快的游戏时间。
+- 实现方式: 结合训犬与游戏的原型系统，采用严肃游戏方法设计。
+- 论文: https://doi.org/10.1145/1753846.1753849 (CHI 2010 Extended Abstracts)
+- 项目主页: https://doi.org/10.1145/1753846.1753849
+
+### 工作与辅助动物
+
+为检测犬、导盲犬、服务动物及其训导员设计的界面。
+
+#### Towards Enactivist ACI - Sensor-Rich Olfactory Workstation and Suit for Detection Dogs — Dognosis (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把狗的嗅闻看作一种主动的、具身的过程，并完整记录下来。
+- 作品内容: 为癌症检测犬设计的多传感器嗅闻工作台和穿戴服，记录狗在气味任务中动作与感官的耦合。
+- 实现方式: 红外传感器、惯性测量单元等数据流围绕样本口同步采集，以生成认知理论为基础。
+- 论文: https://doi.org/10.1145/3702336.3702351 (ACI 2024)
+
+#### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design — Hochul Hwang (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在制造导盲机器狗之前，先搞清楚真实的导盲犬团队是怎么工作的。
+- 作品内容: 访谈导盲犬使用者和训练师，了解人与狗如何配合，为四足导盲机器人的设计提供依据。
+- 实现方式: 对使用者与导盲犬互动的质性研究，并转化为机器人设计需求。
+- 论文: https://doi.org/10.1145/3613904.3642181 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=skMHdNmyN68
+- 图片: https://arxiv.org/html/2402.06790v1/f1-harness.png
+
+#### WAG’D: Towards a Wearable Activity and Gait Detection Monitor for Sled Dogs — Charles Ramey, Thad Starner (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 在挽具里加装传感器，发现驾驶者看不到的伤病。
+- 作品内容: WAG'D 是一款测量雪橇犬拉力和步态的可穿戴设备，用来在训练和比赛中发现伤病。
+- 实现方式: 在挽具中装入拉力和惯性传感器并记录数据，与艾迪塔罗德雪橇赛的驾驶者和兽医一起设计。
+- 论文: https://doi.org/10.1145/3565995.3566042 (ACI 2022)
+- 图片: https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png
+
+#### From Ideation to Deployment: A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs — Alper Bozkurt, David L. Roberts (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 推广一款动物可穿戴设备，也意味着要为给狗穿戴它的志愿者而设计。
+- 作品内容: 一个案例研究：把导盲犬幼犬用的可穿戴传感系统从实验室原型推广到志愿寄养家庭中使用。
+- 实现方式: 与导盲犬学校一起开发智能背带和应用，并通过公民科学方式部署。
+- 论文: https://doi.org/10.1145/3493842.3493890 (ACI 2021)
+- 视频: https://www.youtube.com/watch?v=VU92LHenQZk
+
+#### Wearable Sensors for Canine Nosework Sniffing Interaction — Melody Moore Jackson (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 听见嗅闻声：声音能透露检测犬正在做什么。
+- 作品内容: 一款装有麦克风和运动传感器的狗用可穿戴设备，用来识别嗅探犬的嗅闻和搜索行为。
+- 实现方式: 心形指向麦克风和两个惯性测量单元的数据送入机器学习分类器，识别嗅探行为。
+- 论文: https://doi.org/10.1145/3493842.3493892 (ACI 2021)
+- 视频: https://www.youtube.com/watch?v=wLxENa1Ui0Y
+
+#### Canine Co-design: Investigating Buttons as an Input Modality for Dogs — Charlotte L. Robinson (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在做狗用界面之前，先和狗一起设计按钮。
+- 作品内容: 一项分两阶段的研究：与狗一起测试按钮大小、所需力度和位置如何影响它们按压，为狗用界面提供依据。
+- 实现方式: 用不同属性的按钮原型与狗一起测试，记录并分析按压行为。
+- 论文: https://doi.org/10.1145/3357236.3395462 (DIS 2020)
+- 图片: https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png
+
+#### Tricks and Treats: Designing Technology to Support Mobility Assistance Dogs — Charlotte L. Robinson (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 去支持人与狗之间的关系，而不是用技术取代狗的劳动。
+- 作品内容: 一个无障碍零食机，让四肢瘫痪者能自己奖励和训练他们的行动辅助犬。
+- 实现方式: 对主人的访谈，以及一个可远程触发的无障碍零食机的案例研究。
+- 论文: https://doi.org/10.1145/3313831.3376188 (CHI 2020)
+
+#### Dogs Can Understand Haptic Communication — Yoav Golan (2019)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 在嘈杂或远距离、声音和手势失效的地方，触觉可以传递指令。
+- 作品内容: 用装有振动马达的背心训练一只狗分辨四种振动模式，并执行对应的指令。
+- 实现方式: 位置和时间不同的振动模式，通过操作性条件反射教给狗。
+- 论文: https://doi.org/10.1145/3371049.3371066 (ACI 2019)
+
+#### Predicting the Suitability of Service Animals Using Instrumented Dog Toys — Ceara Byrne, Melody Moore Jackson (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 玩具可以测量性格，从而免去在不合适的狗身上花费数年训练。
+- 作品内容: 带传感器的狗玩具记录了服务犬候选幼犬的咬合与拉扯方式，这些数据能预测哪些狗能通过高级训练。
+- 实现方式: 在玩具中装入压力和运动传感器，进行为期两年的追踪研究，用分类器预测是否能成功安置。
+- 论文: https://doi.org/10.1145/3161184 (IMWUT 2018)
+- 图片: https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png
+
+#### Mobile Collaboration for Human and Canine Police Explosive Detection Teams — Joelle Alcaidinho, Melody Moore Jackson (2017)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 要为整个人犬团队以及周围的各个机构而设计。
+- 作品内容: 为多个机构联合开展的警察与警犬爆炸物搜查设计的移动通信系统。
+- 实现方式: 与搜查队开展田野调查，开发共享搜索区域和警犬报警信息的手机应用。
+- 论文: https://doi.org/10.1145/2998181.2998271 (CSCW 2017)
+- 图片: https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png
+
+#### Search and rescue: dog and handler collaboration through wearable and mobile interfaces — Clint Zeagler, Ceara Byrne, Melody Moore Jackson (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 狗找到人，背心告诉训导员狗找到了什么。
+- 作品内容: 一套供搜救犬佩戴的界面，把信息发送到训导员的手机应用，并提出把狗当作主动参与者的框架。
+- 实现方式: 由狗触发的可穿戴设备（咬合或拉扯传感器）与手机应用相连，依据搜救训导员的经验法则开发。
+- 论文: https://doi.org/10.1145/2995257.2995390 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png
+
+#### The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs — Ann Morrison (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 动物如何被训练，决定了为它设计的界面必须是什么样子。
+- 作品内容: VibroTactile Vest 通过振动马达向猎犬发出指令，研究展示了训练方法如何影响设计。
+- 实现方式: 把可调强度的振动马达装在改造过的背心里，与接受不同训练方法的狗一起测试。
+- 论文: https://doi.org/10.1145/2995257.2995391 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png
+
+#### Training collar-sensed gestures for canine communication — Joelle Alcaidinho, Melody Moore Jackson (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 要让狗通过设备“说话”，训练和传感必须一起设计。
+- 作品内容: 训练两只狗做出精确的动作，由项圈传感器检测并发送到训导员手机上，例如区分“等一等”和“绕过去”。
+- 实现方式: 项圈上的惯性测量单元、手势分类器和配套手机应用，并逐步说明训练流程。
+- 论文: https://doi.org/10.1145/2995257.3012020 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=JOaAISSvwxg
+
+#### Designing an emergency communication system for human and assistance dog partnerships — Charlotte L. Robinson, Clara Mancini (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 狗是这套警报的终端用户，所以每一步设计都要让它参与。
+- 作品内容: 一套辅助犬可以启动、为主人呼救的警报系统，全程与狗和主人一起共同设计。
+- 实现方式: 高保真的狗操作警报原型，测试狗在不同紧急情况下需要多少支持。
+- 论文: https://doi.org/10.1145/2750858.2805849 (UbiComp 2015)
+- 图片: https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png
+
+#### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 围绕狗的工作方式设计界面，界面就能传达狗所知道的事。
+- 作品内容: 装有传感器的样本架记录医学检测犬嗅闻每个样本的时间和力度，从而不依赖训犬员也能读出狗自己的判断信心。
+- 实现方式: 在样本架中加入压力和距离传感器，与慈善机构 Medical Detection Dogs 合作开发。
+- 论文: https://doi.org/10.1145/2702123.2702562 (CHI 2015)
+- 视频: https://www.youtube.com/watch?v=MyHjq8Od-Xg
+- 图片: https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg
+- 项目主页: https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf
+
+#### Towards a canine-human communication system based on head gestures — Giancarlo Valentin, Melody Moore Jackson, Thad Starner (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 只要设备能可靠读取，狗的头部动作就可以成为一套词汇。
+- 作品内容: 一个系统：狗用经过训练的头部动作向人发送信息，由项圈上的运动传感器感知。
+- 实现方式: 项圈上的惯性传感与手势识别，依据狗手势集的最低标准进行评估。
+- 论文: https://doi.org/10.1145/2832932.2837016 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png
+
+#### Towards the non-visual monitoring of canine physiology in real-time by blind handlers — Sean Mealin, Alper Bozkurt (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 狗的身体信号可以通过声音或触觉，传达给看不见它们的使用者。
+- 作品内容: 一套可穿戴系统，让视障的导盲犬使用者通过非视觉反馈实时了解狗的生理状态。
+- 实现方式: 装有心率等传感器的无线背带，把数据转为声音或触觉反馈。
+- 论文: https://doi.org/10.1145/2832932.2837018 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png
+
+#### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 让界面适配狗的身体和能力，而不是人类的按钮。
+- 作品内容: 为糖尿病预警犬设计的报警界面原型：当主人血糖危险地降低时，狗可以按压或拉动它来呼救。
+- 实现方式: 对狗可操作的报警装置进行迭代原型设计，并用受训辅助犬测试。
+- 论文: https://doi.org/10.1145/2556288.2557396 (CHI 2014)
+- 视频: https://www.youtube.com/watch?v=_vYdDrMHC0U
+- 图片: https://i.ytimg.com/vi/_vYdDrMHC0U/maxresdefault.jpg
+- 项目主页: https://www.open.ac.uk/blogs/ACI/
+
+#### Going to the Dogs: Towards an Interactive Touchscreen Interface for Working Dogs — Melody Moore Jackson, Thad Starner (2014)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 在设计按钮之前，先测量动物的“指点”能力。
+- 作品内容: 一个按狗鼻触碰来设定目标大小和间距的触摸屏界面，让辅助犬能够例如呼叫救援。
+- 实现方式: 在壁挂触摸屏上与受训犬进行目标大小和间距实验（第一作者 Clint Zeagler）。
+- 论文: https://doi.org/10.1145/2642918.2647364 (UIST 2014)
+- 视频: https://www.youtube.com/watch?v=AZzJkar5h_g
+- 图片: https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/2642918.2647364
+
+#### Understanding guide dog team interactions: design opportunities to support work and play — Sabrina Hauser, Carman Neustaedter, Ron Wakkary (2014)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 为一个工作团队的玩耍而设计，而不只是为它的工作。
+- 作品内容: 一项关于导盲犬团队日常工作与闲暇的研究，并为两者找出设计机会。
+- 实现方式: 在工作和闲暇活动中对导盲犬使用者进行访谈和观察。
+- 论文: https://doi.org/10.1145/2598510.2598531 (DIS 2014)
+- 图片: https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png
+
+#### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让工作犬通过它们已经穿戴的装备“回话”。
+- 作品内容: 带传感器的服务犬背心，狗可以咬、拉或用鼻子触碰来发送信息，例如拨打急救电话或提醒听障主人。
+- 实现方式: 背心上装有咬合、拉拽和接近传感器并连接手机，在受训犬身上测试。
+- 论文: https://doi.org/10.1145/2493988.2494334 (ISWC 2013)
+- 视频: https://www.youtube.com/watch?v=1iaIQktV26M
+- 图片: https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg
+- 项目主页: https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade
+
+#### Understanding people and animals: the use of a positioning system in ordinary human-canine interaction — Alexandra Weilenmann, Oskar Juhlin (2011)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 研究人和狗借助设备一起做了什么，而不是设备声称显示了什么。
+- 作品内容: 一项民族志研究：猎人如何使用 GPS 狗追踪设备，以及它如何改变猎人与狗之间的互动。
+- 实现方式: 对驼鹿狩猎进行视频田野调查，并从常人方法学的角度分析拟人化。
+- 论文: https://doi.org/10.1145/1978942.1979328 (CHI 2011)
+- 图片: https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png
+
+#### Project Pigeon — B. F. Skinner (1943)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 这个早期由动物操作的界面表明，动物的劳动可以多么迅速地被用于人类的、甚至暴力的目的。
+- 作品内容: 二战期间，“鸽子计划”训练鸽子啄击导弹鼻锥内屏幕上的目标图像，用啄击来操纵导弹方向。
+- 实现方式: 用操作性条件反射训练鸽子啄击投射的目标，屏幕上的啄击位置被转换为转向信号。
+- 论文: https://doi.org/10.1037/h0045345 (American Psychologist 1960)
+- 视频: https://www.youtube.com/watch?v=-GdmfDuzQvM
+
+### 动物园与圈养丰容
+
+为灵长类、大象、鸟类等受照料动物设计的互动丰容。
+
+#### BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals — Rébecca Kleinberger (2026)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 气味是一种丰富的丰容通道，而且可以由动物自己开启。
+- 作品内容: BearBubbles 在两只美洲黑熊靠近时释放带气味的泡泡，让它们掌控嗅觉丰容，并鼓励觅食行为。
+- 实现方式: 由接近触发的气味泡泡机，在新英格兰动物园部署三周。
+- 论文: https://doi.org/10.1145/3772318.3790842 (CHI 2026)
+- 视频: https://www.youtube.com/watch?v=ubS81hMRPZI
+
+#### CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs — Jiaqi Wang, Ilyena Hirskyj-Douglas (2026)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 共享控制可以让动物园动物和人成为同一系统的共同使用者。
+- 作品内容: CreatureConnect 是一个分布式装置，狐猴和动物园游客可以共同控制展区两侧的声音、气味和画面。
+- 实现方式: 展区内外的控制装置相互连接；20 天内记录了 541 次狐猴交互并观察了 16139 名游客。
+- 论文: https://doi.org/10.1145/3772318.3790643 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png
+
+#### Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals — Rébecca Kleinberger (2026)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 自适应难度让谜题保持吸引力，而不需要饲养员反复重置。
+- 作品内容: Outfoxed 是一个难度可调、带多感官反馈的模块化益智喂食器，与一只北极狐一起部署，并在长鼻浣熊身上试用。
+- 实现方式: 装有传感器的模块化谜题关卡部署四周，结合人机交互和动物科学的指标进行分析。
+- 论文: https://doi.org/10.1145/3772318.3791644 (CHI 2026)
+- 视频: https://www.youtube.com/watch?v=pSsLSRJ-7JQ
+
+#### Colobus Curio Cabinet: A Modular, Mirror-Based, Co-Designed Enrichment Proposal for Colobus guereza — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 围绕动物本来就着迷的东西来设计丰容。
+- 作品内容: 一个挂在墙上的“珍奇柜”，由模块化的镜子和屏幕组件构成，与饲养员共同为喜欢反光表面的疣猴设计。
+- 实现方式: 模块化柜体，外罩仿自然外观，内部镜子和屏幕模块可更换，与动物园员工共同设计。
+- 论文: https://doi.org/10.1145/3768539.3768555 (ACI 2025)
+- 视频: https://www.youtube.com/watch?v=EU0SGAQKnoI
+
+#### Exploring the Cockatoo's Engagement with Audiovisual Stimuli: An Inclusive Avian-IoT Interaction Design — Hill Hiroki Kobayashi (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 丰容可以是自愿的、远程的、轻干预的。
+- 作品内容: 一个低干预的鸟类物联网系统，让一只圈养的鲑冠凤头鹦鹉自愿接触声音和图像刺激，并可远程监测。
+- 实现方式: 手机应用、中央服务器和笼舍内设备提供多模态刺激并记录参与情况。
+- 论文: https://doi.org/10.1145/3768539.3768553 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png
+
+#### Reshaping Human-Animal Relationships: Exploring Lemur and Human Enrichment through Smell, Sound, and Sight — Jiaqi Wang, Ilyena Hirskyj-Douglas (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 向游客展示动物的选择，而不是让游客直接与动物互动。
+- 作品内容: 一个让狐猴在展区内触发气味、声音和画面的装置，以及一个向游客展示狐猴选择的配套装置。
+- 实现方式: 对狐猴进行 63 天部署比较不同感官，再在多种条件下对游客进行 20 天部署。
+- 论文: https://doi.org/10.1145/3706598.3713311 (CHI 2025)
+- 视频: https://www.youtube.com/watch?v=v8kiUKrVLq0
+
+#### Swing it On: Design of Responsive Acoustic Environments for Zoo-housed Colobus Monkeys — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把动物已经在用的物件变成控制器。
+- 作品内容: 一个互动声音系统，把疣猴的秋千变成界面：荡得越高，播放的声景层次越多。
+- 实现方式: 秋千上的运动感应映射到溪流、昆虫、鸟鸣等层叠声音，并在新英格兰动物园制定评估方案。
+- 论文: https://doi.org/10.1145/3768539.3768551 (ACI 2025)
+- 视频: https://www.youtube.com/watch?v=_mxHsUzPxHs
+
+#### LemurLounge: Lemurs' Individual-Level, Group, and Cross-Species Use of an Interactive Audio Device in Zoos — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 为群体设计丰容，同时让个体可以选择独自使用。
+- 作品内容: LemurLounge 是一个音频装置，混养群体中的狐猴可以自己触发并独自收听；研究追踪了三个物种的 14 只狐猴。
+- 实现方式: 带有传感触发音频的封闭收听空间，部署在狐猴栖息地中，并记录每只个体的使用情况。
+- 论文: https://doi.org/10.1145/3613904.3641888 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=rzL0KoFrBEI
+
+#### Play That Trunky Music: Development of an Auditory Enrichment Device for Elephants in Zoos — Arianna Mastali, Charles Ramey (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 在已有的丰容设施上加入新的感官，而不是从零开始。
+- 作品内容: 为亚特兰大动物园非洲象的觅食墙加装的音频丰容系统，大象把鼻子伸进孔洞时就会播放声音。
+- 实现方式: 孔洞中的传感器触发音频，记录使用情况并与只有食物的丰容对比。
+- 论文: https://doi.org/10.1145/3702336.3702343 (ACI 2024)
+- 视频: https://www.youtube.com/watch?v=ANlIAhp4YTs
+
+#### Shelling Out the Fun: Quantifying Otter Interactions with Instrumented Enrichment Objects — Charles Ramey (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把传感器装进玩具，而不是装在动物身上。
+- 作品内容: 藏在丰容玩具里的传感器，长期测量佐治亚水族馆里每只海獭如何玩耍。
+- 实现方式: 防水传感模块装入丰容物件，把运动数据无线传到基站。
+- 论文: https://doi.org/10.1145/3702336.3702346 (ACI 2024)
+
+#### Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism — Aphrodite Theodora Andreou (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 设计时与动物一起玩，它会反驳你的假设。
+- 作品内容: 与马耳他一家海洋公园的宽吻海豚以游戏方式合作，共同设计丰容玩具，并反思跨物种摩擦的时刻。
+- 实现方式: 在 Mediterraneo 海洋公园与海豚和训练员一起进行游戏式测试，迭代玩具原型。
+- 论文: https://doi.org/10.1145/3637882.3637885 (ACI 2023)
+
+#### Hum-ble Beginnings: Developing Touch- and Proximity-Input-Based Interfaces for Zoo-Housed Giraffes’ Audio Enrichment — Ilyena Hirskyj-Douglas, Vilma Kankaanpää (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 输入方式要贴合动物的身体和行为。
+- 作品内容: 为动物园长颈鹿设计的触摸式和接近式界面，可以播放长颈鹿的哼鸣声或白噪音；两个月里它们更多使用接近式界面。
+- 实现方式: 先从饲养员处收集需求，与长颈鹿一起做原型，再部署两种界面进行比较。
+- 论文: https://doi.org/10.1145/3626470 (PACM HCI (ISS) 2023)
+
+#### Prototyping with Monkeys: Uncovering What Buttons for Monkeys Look Like — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 对猴子来说，“按钮”也许是一根绳子，而不是按压开关。
+- 作品内容: 与动物园猴子一起快速制作原型，探索猴子用的实体按钮应是什么样子；结果它们更喜欢拉和摇，而不是按。
+- 实现方式: 与白脸僧面猴一起测试一系列低保真实体输入原型，改变颜色和交互方式。
+- 论文: https://doi.org/10.1145/3569009.3572735 (TEI 2023)
+- 视频: https://www.youtube.com/watch?v=t4AWeWoZHNs
+
+#### Apex and ApeTouch: Development of a Portable Touchscreen System and Software for Primates at Zoos — Christopher Flynn Martin (2022)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 降低门槛，就会有更多动物园提供认知丰容。
+- 作品内容: Apex 是一套便携式触摸屏系统，ApeTouch 是配套软件，让动物园无需自己开发就能为灵长类提供触屏任务。
+- 实现方式: 带奖励投放器的防水触屏单元运行开放的任务软件，在动物园中与猿类一起使用。
+- 论文: https://doi.org/10.3390/ani12131660 (Animals 2022)
+- 视频: https://www.youtube.com/watch?v=JWfEYJogvLo
+- 图片: https://pub.mdpi-res.com/animals/animals-12-01660/article_deploy/html/images/animals-12-01660-g001.png
+
+#### Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos — Ilyena Hirskyj-Douglas (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给动物多个选项而不是一个，通过它们的选择来衡量体验。
+- 作品内容: 一条“猴子媒体播放器”隧道让僧面猴在视频和声音之间选择；几周下来，它们触发声音的次数大约是视频的两倍。
+- 实现方式: 隧道内有三个红外区域，猴子停留多久就播放多久对应的视频或声音，并连续数周记录互动。
+- 论文: https://doi.org/10.1145/3532106.3533577 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=_rB1FVmks4g
+- 图片: https://www.gla.ac.uk/media/Media_853879_smxx.jpeg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7ba/7924172/b4b3a0f72383/animals-11-00557-g001.jpg
+- 项目主页: https://www.gla.ac.uk/news/archiveofnews/2022/june/headline_853821_en.html
+
+#### An evaluation of interactive projections as digital enrichment for orangutans — Marcus Carter, Sarah Webber (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 数字丰容本身就可以让大猿获得满足。
+- 作品内容: 评估墨尔本动物园猩猩展区的互动投影系统，作为一种不需要食物奖励的丰容方式。
+- 实现方式: 长期观察猩猩使用投影互动游戏的行为。
+- 论文: https://doi.org/10.1002/zoo.21587 (Zoo Biology 2021)
+- 视频: https://www.youtube.com/watch?v=WObQaW2JYSs
+- 图片: https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1002/zoo.21587
+
+#### Soundyssey: Hybrid Enrichment System for Elephants in Managed Care — Harpreet Sareen (2021)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 当动物自己决定何时发生时，丰容的效果更好。
+- 作品内容: Soundyssey 是为圣迭戈动物园两头大象设计的丰容系统，让它们自己触发声音，获得选择权和控制权。
+- 实现方式: 物理与数字结合的装置，象鼻可触及的触发器连接音频输出，在动物园中部署。
+- 论文: https://doi.org/10.1145/3430524.3442469 (TEI 2021)
+- 视频: https://www.youtube.com/watch?v=4PfeYJp5X1Y
+
+#### Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals — Sarah Webber, Marcus Carter (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 当动物的反应决定下一个原型时，它们就是有创造力的共同设计者。
+- 作品内容: 为墨尔本动物园红毛猩猩设计互动投影装置的全过程，每一轮迭代都由红毛猩猩的反应来引导。
+- 实现方式: 与红毛猩猩、饲养员和设计师一起迭代共同设计，使用投影和 Kinect 感应。
+- 论文: https://doi.org/10.1145/3357236.3395559 (DIS 2020)
+- 视频: https://www.youtube.com/watch?v=u9WZbdMHam0
+
+#### Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo — Rébecca Kleinberger (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给动物园动物对声音环境的控制权，而不只是播放一段录音给它听。
+- 作品内容: 圣迭戈动物园的两套互动声音系统，让一只名叫 Sampson 的紫蓝金刚鹦鹉在自己的笼舍里选择并控制音乐。
+- 实现方式: 基于栖木和触碰的界面触发音频，与鹦鹉和饲养员一起部署并观察。
+- 论文: https://doi.org/10.1145/3313831.3376858 (CHI 2020)
+- 视频: https://www.youtube.com/watch?v=sr5HA6pMxBU
+
+#### More Than Human Aesthetics: Interactive Enrichment for Elephants — Fiona French, Clara Mancini (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 美学因物种而异；要为眼前这只动物的感官和身体而设计。
+- 作品内容: 基于为圈养大象设计互动声音和游戏装置的经验，探讨大象特有的交互美学可能是什么样。
+- 实现方式: 把已有的美学维度和设计原则应用到大象丰容原型上。
+- 论文: https://doi.org/10.1145/3357236.3395445 (DIS 2020)
+- 视频: https://www.youtube.com/watch?v=G7Eh4owhNFk
+- 图片: https://i.ytimg.com/vi/G7Eh4owhNFk/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3357236.3395445
+
+#### Music for Monkeys: Building Methods to Design with White-Faced Sakis for Animal-Driven Audio Enrichment Devices — Roosa Piitulainen, Ilyena Hirskyj-Douglas (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让动物自己选择刺激，并记录它的选择，以了解它的偏好。
+- 作品内容: 赫尔辛基 Korkeasaari 动物园的白脸僧面猴可以通过进入装有红外传感器的隧道，自己选择播放音乐、雨声或交通噪音。
+- 实现方式: 先在兽舍中进行低保真形态测试，再做出带红外传感器的隧道，触发声音并记录每次互动。
+- 论文: https://doi.org/10.3390/ani10101768 (Animals 2020)
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg
+- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/
+
+#### Platypus Surfing: In Search of the Perfect Wave — Ann Morrison (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 就连鸭嘴兽，也可以拥有一个开关。
+- 作品内容: 一台造浪装置：墨尔本动物园的鸭嘴兽 Sam 游到传感器附近就能启动，让它自己选择何时有浪。
+- 实现方式: 水下接近传感器触发预设的造浪序列，与饲养员和福利专家一起开发。
+- 论文: https://doi.org/10.1145/3446002.3446052 (ACI 2020)
+- 视频: https://www.youtube.com/watch?v=HM4AQE6pe-8
+
+#### Animal-Centred Sonic Interaction Design: Musical Instruments and Interfaces for Grey Parrots — Reinhard Gupfinger (2019)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 为演奏者的喙和耳朵来设计乐器。
+- 作品内容: 围绕非洲灰鹦鹉的身体、听觉和好奇心设计的乐器与界面，作为听觉丰容进行测试。
+- 实现方式: 按以动物为中心的流程迭代制作可触摸的发声乐器，并与鹦鹉群一起评估。
+- 论文: https://doi.org/10.1145/3371049.3371062 (ACI 2019)
+- 视频: https://www.youtube.com/watch?v=5tY7D6zpsB8
+
+#### Computer tasks for great apes promote functional naturalism in a zoo setting — Christopher Flynn Martin (2018)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 只要所要求的思考是自然的，屏幕任务也可以是自然的。
+- 作品内容: 论文主张：动物园里给猿类的触屏任务提供了“功能性自然主义”，即与野生猿类所面临的相似的心智挑战。
+- 实现方式: 回顾猿类研究中的自动化方法，以及它们在印第安纳波利斯动物园的应用。
+- 论文: https://doi.org/10.1145/3295598.3295605 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png
+
+#### Gorilla game lab: exploring modularity, tangibility and playful engagement in cognitive enrichment design — Stuart Gray (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 模块化谜题让饲养员可以随时改变难度，让丰容保持吸引力。
+- 作品内容: Gorilla Game Lab 与布里斯托动物园的七只西部低地大猩猩一起，设计并测试了模块化、可触摸的谜题装置。
+- 实现方式: 内嵌传感器记录使用情况的模块化硬件谜题，与大猩猩群一起评估。
+- 论文: https://doi.org/10.1145/3295598.3295604 (ACI 2018)
+- 图片: https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png
+
+#### Digital Enrichment with Captive Siamang: Video Showcase of Primate Preference — Melanie Ford (2017)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给小型猿类一个自己的技术角落，让偏好自然显露出来。
+- 作品内容: 为两只圈养合趾猿在固定的技术区域提供平板电脑，并拍摄记录它们选择使用什么。
+- 实现方式: 把装有应用的平板放在受保护的操作台上，录像记录自愿使用情况。
+- 论文: https://doi.org/10.1145/3152130.3152150 (ACI 2017)
+- 视频: https://www.youtube.com/watch?v=xlNYO-J1Pv0
+
+#### Interactive technology and human–animal encounters at the zoo — Sarah Webber, Marcus Carter (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物园里的技术总是同时服务于多个物种；要为它们全部而设计。
+- 作品内容: 一项关于墨尔本动物园互动系统的研究，展示技术如何塑造游客、饲养员与动物之间的相遇。
+- 实现方式: 围绕动物园中的数字装置进行观察和访谈。
+- 论文: https://doi.org/10.1016/j.ijhcs.2016.05.003 (IJHCS 2017)
+- 图片: https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png
+
+#### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 为动物设计的技术，也是一扇让人重新看待动物的窗口。
+- 作品内容: 墨尔本动物园用 Kinect 驱动的投影让猩猩与光互动；研究考察了游客观看猩猩玩耍后共情的变化。
+- 实现方式: 用微软 Kinect 深度感知驱动猩猩兽舍中的地面投影，并观察和调查游客反应。
+- 论文: https://doi.org/10.1145/3025453.3025729 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=l7OyfuidBI0
+- 图片: https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg
+- 项目主页: https://doi.org/10.1145/3025453.3025729
+
+#### Sonic Experiments with Grey Parrots: A Report on Testing the Auditory Skills and Musical Preferences of Grey Parrots in Captivity — Reinhard Gupfinger (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在为鹦鹉造乐器之前，先弄清它听到什么、喜欢什么。
+- 作品内容: 测试圈养非洲灰鹦鹉听觉能力和音乐偏好的实验，为声音丰容打基础。
+- 实现方式: 在救助机构中对一群非洲灰鹦鹉进行播放和互动式声音实验。
+- 论文: https://doi.org/10.1145/3152130.3152137 (ACI 2017)
+- 视频: https://www.youtube.com/watch?v=5tY7D6zpsB8
+
+#### Don't cut to the chase: hunting experiences for zoo animals and visitors — Fiona French, Sarah Webber, Heli Väätäjä (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把动物的狩猎丰容和游客的游戏连在一起，双方都会受益。
+- 作品内容: 一次工作坊，探讨如何用技术支持动物园动物的狩猎行为，同时为游客提供一个平行的游戏体验。
+- 实现方式: 围绕捕食动物丰容和游客参与，以动物园需求为题开展工作坊。
+- 论文: https://doi.org/10.1145/2995257.3014066 (ACI 2016)
+
+#### Sound to your objects: a novel design approach to evaluate orangutans' interest in sound-based stimuli — Patricia Pons, Marcus Carter (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让声音随物体而响，就把“听什么”的控制权交给了猿。
+- 作品内容: 为动物园红毛猩猩做的设计：摆弄实物就会触发声音，用来检验它们是否有兴趣控制听觉刺激。
+- 实现方式: 外观不像电子产品的实物与声音播放相连，与墨尔本动物园的红毛猩猩一起规划。
+- 论文: https://doi.org/10.1145/2995257.2995383 (ACI 2016)
+- 图片: https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png
+
+#### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 游戏是丰容的途径，也是与任何物种一起设计的方法。
+- 作品内容: 关于用数字玩具和游戏为圈养大象提供游戏化认知丰容的早期研究。
+- 实现方式: 与饲养员和大象一起开展设计研究，开发有趣的互动装置。
+- 论文: https://doi.org/10.1145/2793107.2810327 (CHI PLAY 2015)
+- 项目主页: https://doi.org/10.1145/2793107.2810327
+
+#### Designing for intuitive use for non-human users — Hanna Wirman (2015)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对动物来说的“直观”，来自它们身体已经熟悉的东西。
+- 作品内容: 基于为红毛猩猩制作的触屏游戏，论文主张可触摸的界面和动物熟悉的动作能让数字技术对动物来说更直观。
+- 实现方式: 反思红毛猩猩游戏设计，借鉴从动物熟悉领域迁移知识的思路。
+- 论文: https://doi.org/10.1145/2832932.2837008 (ACE 2015)
+
+#### Naturalism and ACI: augmenting zoo enclosures with digital technology — Marcus Carter, Sarah Webber (2015)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物园里的数字丰容要符合自然主义理想：把技术藏起来，让行为保持自然。
+- 作品内容: 基于对动物园员工的访谈，讨论动物园如何重视自然化展区，以及这对在展区中引入数字技术意味着什么。
+- 实现方式: 在一个数字丰容项目中进行文献综述，并访谈维多利亚动物园的员工。
+- 论文: https://doi.org/10.1145/2832932.2837011 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png
+
+#### The Arena System: a novel shared touch-panel apparatus for the study of chimpanzee social interaction and cognition — Christopher Flynn Martin (2013)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 一块共享屏幕把个体认知测试变成了社会性测试。
+- 作品内容: Arena System 是一套共享触控装置，两只黑猩猩可以并排操作，用于研究它们的社会互动与认知。
+- 实现方式: 两个互联的触控面板配有喂食器和主控电脑，在京都大学灵长类研究所由定制软件控制。
+- 论文: https://doi.org/10.3758/s13428-013-0418-y (Behavior Research Methods 2013)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13428-013-0418-y/MediaObjects/13428_2013_418_Fig1_HTML.gif
+
+#### Apps for Apes — Orangutan Outreach (2012)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 现成的平板电脑可以成为丰容工具，也能向公众讲述猿类心智的故事。
+- 作品内容: Apps for Apes 向动物园捐赠 iPad，让红毛猩猩在饲养员手持平板的情况下使用绘画、音乐和视频应用作为丰容。
+- 实现方式: 捐赠的 iPad 装有面向人的应用，在饲养员主导的时段隔着网笼使用。
+- 视频: https://www.youtube.com/watch?v=ZsSIKj5ULp4
+
+#### Primate Cinema: Apes as Family — Rachel Mayeri (2012)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 为另一个物种的注意力设计媒介，再去看它们如何观看。
+- 作品内容: 一部为黑猩猩拍摄的短剧，演员身穿黑猩猩服装，首映观众是爱丁堡动物园的黑猩猩；影片在剧情和观看它的猩猩之间来回剪辑。
+- 实现方式: 剧情与细节依据黑猩猩的社会行为与灵长类学家共同设计，影片在动物园的展区里用大屏播放，同时拍下观众反应。
+- 视频: https://www.youtube.com/watch?v=4871rINIAeQ
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg
+- 项目主页: https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/
+
+#### S.E.A. Aquarium — Resorts World Sentosa (2012)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 设计出的栖息地可以促成相遇，却不共享空间。
+- 作品内容: 新加坡一座大型公共水族馆，用定制的照明和水体系统复现海洋栖息地；人隔着玻璃与海洋生物相遇，两个世界仍然分开。
+- 实现方式: 用模拟自然光照的人工海洋栖息地；Foth 与 Caldwell 把它列为面向非人居民的媒体建筑案例。
+- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg/1920px-Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+### 跨物种沟通
+
+解码并与鲸、海豚、鸟类等物种交换信号。
+
+#### Ancestral iconicity: the dance language of bees revisited — Earth Species Project (2026)
+- 类型: 论文 · 生物: 昆虫
+- 核心想法: 有些动物信号可能像手势一样通过相似来表达意义，而不是依靠任意的编码。
+- 作品内容: 语言学家和 ESP 研究者用手语语义学的工具重新解读蜜蜂的摇摆舞，认为它具有象似性：舞蹈的形式与它所描述的飞行相似。
+- 实现方式: 对舞蹈的各组成部分做形式语义分析，并在不同蜂种和系统发育上进行比较。
+- 论文: https://doi.org/10.1002/brv.70164 (Biological Reviews 2026)
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+
+#### Approaching an unknown communication system by latent space exploration and causal inference — Project CETI (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把生成模型当作一只可以随意操控的“实验动物”。
+- 作品内容: 一种找出未知信号系统中哪些声学特性重要的方法：先用鲸的尾声训练生成网络，再干预其隐藏变量，观察生成结果如何变化。
+- 实现方式: 使用带可解释潜在编码的生成对抗网络，并在潜在空间上进行因果推断。
+- 论文: https://doi.org/10.1098/rsos.250829 (Royal Society Open Science 2026)
+- 图片: https://figures.semanticscholar.org/5ef88cbeb07542aa9b7266317c21ec6ecf943ed4/3-Figure1-1.png
+- 项目主页: https://royalsocietypublishing.org/rsos/article/13/8/250829/483032/Approaching-an-unknown-communication-system-by
+
+#### BirdCODE: Detecting bird communication at scale — Earth Species Project (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对每个物种每一声叫的精确定时，打开了“谁在回应谁”的问题。
+- 作品内容: 一个零样本声音事件检测模型，无需重新训练即可找到并定位 9,000 多种鸟的叫声，已应用于一百多万条录音。
+- 实现方式: 用弱标注录音、合成声景和伪标签训练；模型权重和检测结果公开发布。
+- 论文: https://doi.org/10.64898/2026.07.31.742086 (bioRxiv 2026)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/08/Feature-Image-Great-Tit.png
+- 项目主页: https://earthspecies.org/2026/08/20/birdcode-scaling-zero-shot-sound-event-detection-for-bioacoustics/
+- 代码: https://github.com/earthspecies/sound-event-detection
+
+#### Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows — Earth Species Project (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 可以通过大规模把声音映射到行为上来接近“意义”。
+- 作品内容: 对莱昂乌鸦的后续研究：把家族叫声库中的每类叫声与鸟发声时正在做的事对应起来，从而推断这些叫声的用途。
+- 实现方式: 对标签录下的叫声做无监督聚类，并与加速度计推断和人工观察到的行为对齐。
+- 论文: https://doi.org/10.64898/2026.04.02.715916 (bioRxiv 2026)
+- 图片: https://www.cooperativecrows.com/img/visore_1.jpg
+- 项目主页: https://www.cooperativecrows.com/index.htm
+
+#### The phonology of sperm whale coda vowels — Project CETI (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 找到了单元之后，就去寻找组织它们的规则。
+- 作品内容: 后续研究描述了抹香鲸“尾声元音”的规则：有哪些元音类型、如何组合，以及在鲸与鲸的交流中如何变化。
+- 实现方式: 对多米尼克多鲸录音中已标注的尾声元音进行音系分析。
+- 论文: https://doi.org/10.1098/rspb.2025.2994 (Proceedings of the Royal Society B 2026)
+- 视频: https://www.youtube.com/watch?v=L59pNqxvFdw
+- 项目主页: https://www.projectceti.org/research/index
+
+#### Towards Interface Design for Parrot-Human Communication: Investigating Parrot Selections of Speech Board Representations — Clara Mancini (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对人重要的界面设计变量，同样会影响鹦鹉“说”什么。
+- 作品内容: 一项为期四年的研究：一只戈芬氏凤头鹦鹉先后使用三种语音板界面，考察界面设计如何影响她的选择。
+- 实现方式: 在真实生活环境中长期分析按钮大小、布局和表征方式不同时的选择。
+- 论文: https://doi.org/10.1145/3772318.3791196 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png
+
+#### alp-data — Earth Species Project (2026)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 共享的基础设施能把分散的录音变成整个领域的公共资源。
+- 作品内容: 一个可用 pip 安装的 Python 包，为 35 个以上的生物声学数据集提供统一接口，另有一个可视化 Data Explorer 用来浏览跨物种录音。
+- 实现方式: 由 ESP 托管、统一了元数据和许可信息的数据集加载器。
+- 图片: https://earthspecies.org/wp-content/uploads/2026/07/Braid-weave-4.png
+- 项目主页: https://earthspecies.org/2026/07/22/introducing-alp-data-a-shared-data-layer-for-animal-language-processing/
+- 代码: https://github.com/earthspecies/alp-data
+
+#### Attuning to song duels facilitates song-matching in nightingales — Daniela Vallentin (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 互动回放系统可以与鸟进行真正的交流，而不只是单向播放。
+- 作品内容: 研究者通过实时回放不同歌曲类型与野生夜莺对唱；夜莺会用相同的歌曲类型回应，说明它们关注并回应对手歌曲的内容。
+- 实现方式: 在野外夜间鸣唱时进行互动回放，很可能由实时歌曲类型分类来选择回应。
+- 论文: https://doi.org/10.1101/2025.04.12.648496 (bioRxiv 2025)
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
+
+#### Capturing vocal communication in a free-living corvid — Earth Species Project (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把麦克风放到动物身上，安静的家庭对话就能被听见。
+- 作品内容: 在西班牙北部合作繁殖的野生小嘴乌鸦身上佩戴微型标签，录下了定向麦克风听不到的 12.7 万余声轻声叫；ESP 的 Voxaboxen 找出这些叫声并按发声者分类。
+- 实现方式: 结合带音频和加速度计的 MiniDTAG 生物记录器、视频以及机器学习叫声检测。
+- 论文: https://doi.org/10.1007/s10071-025-02018-0 (Animal Cognition 2025)
+- 视频: https://www.youtube.com/watch?v=2MipvgUzO6M
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/69417a419b5107d41885cfa4_CarrionCrowBiologger-1.png https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-025-02018-0/MediaObjects/10071_2025_2018_Fig1_HTML.png
+- 项目主页: https://earthspecies.org/2025/12/15/unlocking-avian-secrets-how-tiny-biologgers-are-revealing-the-hidden-communication-of-carrion-crows/
+
+#### Cuttlefish interact with multimodal 'arm wave sign' displays — Sophie Cohen-Bodénès (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一个信号可以同时被看见和感觉到；回放设计应面向不止一种感官。
+- 作品内容: 乌贼会做出四种不同的挥臂动作（“上”“侧”“翻滚”“冠”）；当向其他乌贼播放这些手势的视频或振动时，它们会挥臂回应。
+- 实现方式: 在实验室中播放录制的手势视频和水下振动，并对回应进行评分。
+- 论文: https://doi.org/10.1101/2025.04.13.648584 (bioRxiv 2025)
+- 视频: https://www.youtube.com/watch?v=EMCZXANfWGM
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
+
+#### DRASDIC: Synthetic data enables context-aware bioacoustic sound event detection — Earth Species Project (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 当真实标注数据稀缺时，自己构建训练世界。
+- 作品内容: 一个只看几个示例就能找到目标叫声类型的检测器，训练数据是用真实录音拼合而成的数百万段合成声景。
+- 实现方式: 领域随机化：把叫声与背景随机混合成带标注的场景，再训练 Transformer 在给定示例片段的上下文中检测事件。
+- 论文: https://arxiv.org/abs/2503.00296 (arXiv 2025)
+- 图片: https://arxiv.org/html/2503.00296v2/figures/figures_v1.003.jpeg
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+- 代码: https://github.com/earthspecies/drasdic_api
+
+#### Decoding Killer Whale Communication From Above and Below — Earth Species Project (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 同时看和听：同步的视角能揭示谁在做什么时发出叫声。
+- 作品内容: 与 Raincoast Conservation Foundation 合作的试点项目：把已知虎鲸母系群体的无人机航拍视频与水下水听器录音配对，把叫声与协同行为和船舶噪声联系起来。
+- 实现方式: 把带个体照片识别的无人机影像与水听器阵列同步，用 ESP 的检测和编码模型分析。
+- 视频: https://www.youtube.com/watch?v=Xhr5SvDipUc
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/6862918677532c8e6325f948_Orcas.png
+- 项目主页: https://earthspecies.org/2025/06/27/decoding-killer-whale-communication-from-above-and-below/
+
+#### Evidence of social learning across symbolic cultural barriers in sperm whales — Project CETI, Shane Gero (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 文化可以相互借鉴，同时守护表明“我们是谁”的符号。
+- 作品内容: 共享同一海域的抹香鲸族群，彼此的非身份尾声也更相似，说明它们在保持族群标志不同的同时相互学习。
+- 实现方式: 用变长马尔可夫链对尾声序列建模，并比较不同族群及其地理重叠程度下的尾声库。
+- 论文: https://doi.org/10.7554/eLife.96362 (eLife 2025)
+- 图片: https://arxiv.org/html/2307.05304v4/figure_one_final.png
+- 项目主页: https://elifesciences.org/articles/96362
+
+#### Extensive compositionality in the vocal system of bonobos — Mélissa Berthet (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 从情境中测量意义，就能在另一种猿类的叫声里发现类似语法的结构。
+- 作品内容: 野生倭黑猩猩会把叫声组合成序列，序列的意义由各部分的意义构成，其中还有一个叫声修饰另一个叫声的非平凡组合，就像人类语言中的形容词。
+- 实现方式: 为每声叫记录数百项情境特征，用分布式语义把叫声放入意义空间，并检验组合性。
+- 论文: https://doi.org/10.1126/science.adv1170 (Science 2025)
+- 视频: https://www.youtube.com/watch?v=Rt6LauFHVBw
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
+
+#### First evidence for widespread sharing of stereotyped non-signature whistle types by wild dolphins — Laela Sayigh (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 那些不是名字、却被共享的叫声，可能是海豚最早的候选“词语”。
+- 作品内容: 对萨拉索塔湾海豚的录音发现，除每只海豚的签名哨声外，还有约 20 种被许多个体共享的哨声类型；回放其中两种会引发不同的反应。该研究获得首届 Coller-Dolittle 奖。
+- 实现方式: 数十年来在短暂捕获的海豚身上使用吸盘式水听器标签，结合机器学习哨声分类和野外回放实验。
+- 论文: https://doi.org/10.1101/2025.04.21.647658 (bioRxiv 2025)
+- 视频: https://www.youtube.com/watch?v=8KCWr2yVq08
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
+
+#### Listening with the Fishes: Aquatic Audio Interfaces to Experience Acoustic Underwater Worlds — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让人听见自己给动物世界增加的噪音。
+- 作品内容: 一个水族馆试点装置，让游客听到水下声景和鱼的声音，作为为鱼提供声音丰容的第一步。
+- 实现方式: 在公共水族馆中使用基于水听器的音频界面，是拟议三阶段系统的一部分。
+- 论文: https://doi.org/10.1145/3768539.3768552 (ACI 2025)
+- 视频: https://www.youtube.com/watch?v=P4oZcewlZn8
+
+#### Robust detection of overlapping bioacoustic sound events — Earth Species Project (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 交流常常是同时发生的，工具必须能同时听见两个声音。
+- 作品内容: 一个用于密集鸟类合唱中叫声相互重叠情形的检测模型，在斑胸草雀群体等场景中测试；传统检测器会把同时发出的叫声合并。
+- 实现方式: 采用允许事件重叠的起止点预测方案，用合成混合音训练，并在多个生物声学数据集上评估。
+- 论文: https://arxiv.org/abs/2503.02389 (arXiv 2025)
+- 图片: https://arxiv.org/html/2503.02389v2/synth_results.png
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+
+#### Ultrasonic signals support a large-scale communication landscape in wild mice — Nicolas Mathevon (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把录音设备从笼子里拿出来，一个物种的交流看起来就完全不同。
+- 作品内容: 在野生家鼠的半自然围场中布设超声录音设备，录下了远超实验室求偶歌声的繁忙叫声景观，并与整个种群的社会情境相关联。
+- 实现方式: 在围场内长期超声录音，很可能结合个体追踪，并进行自动叫声检测与分类。
+- 论文: https://doi.org/10.1016/j.cub.2025.08.028 (Current Biology 2025)
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
+
+#### Vowel- and Diphthong-Like Spectral Patterns in Sperm Whale Codas — Project CETI (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 去听音色而不只是节奏；改变测量对象，信号的隐藏层就会显现。
+- 作品内容: 语言学家把尾声当作“音色”而非节奏来分析，发现反复出现、表现得像元音和双元音的频谱模式——在咔嗒节奏之上的第二层结构。
+- 实现方式: 借用声学语音学方法（例如追踪整条尾声中类似共振峰的频谱峰）对咔嗒序列做频谱分析。
+- 论文: https://doi.org/10.1162/opmi.a.252 (Open Mind 2025)
+- 图片: https://cdn.prod.website-files.com/644849cc07ba153932ff365d/663a463fc47f734a633292fb_Amanda%20Cotton%20-%20reflection%20(1).jpg
+- 项目主页: https://www.projectceti.org/research/index
+
+#### WhAM: Towards A Translative Model of Sperm Whale Vocalization — Project CETI (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一个物种声音的生成模型，既是研究工具，也可能成为回放实验中的对话者。
+- 作品内容: 鲸声学模型（WhAM）能根据提示生成逼真的抹香鲸尾声，并能把其他声音转化为类似尾声的音频；它学到的特征在尾声分类上也优于以往方法。
+- 实现方式: 基于 VampNet 式的掩码声学 token Transformer，先在音乐和动物音频上预训练，再用多米尼克尾声录音微调。
+- 论文: https://arxiv.org/abs/2512.02206 (arXiv 2025)
+- 视频: https://www.youtube.com/watch?v=ccphRKVQnA4
+- 图片: https://arxiv.org/html/2512.02206v1/main_figure.png
+- 项目主页: https://www.projectceti.org/research/index
+
+#### Whale song shows language-like statistical structure — Inbal Arnon (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 为研究人类婴儿如何学习而开发的工具，可以揭示另一物种文化中的结构。
+- 作品内容: 对新喀里多尼亚八年座头鲸歌声的分析，借用研究婴儿如何切分词语的方法，发现其中反复出现的片段频率服从齐普夫定律，与人类语言中的词一样。
+- 实现方式: 对以符号转写的歌声进行转移概率切分，并对得到的单元做频率-排序分析。
+- 论文: https://doi.org/10.1126/science.adq7055 (Science 2025)
+- 视频: https://www.youtube.com/watch?v=goZA5SlXx-g
+- 项目主页: https://doi.org/10.1126/science.adq7055
+
+#### Biodenoising: Animal Vocalization Denoising without Access to Clean Data — Earth Species Project (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 借用在人类语音上训练的降噪器，让它自己生成动物领域的训练数据。
+- 作品内容: 一种方法和开放工具，可以去除动物录音中的风声、雨声、船只引擎和实验室嗡嗡声，即使并不存在可供学习的完全干净的动物录音。
+- 实现方式: 用语音增强模型生成伪干净目标，再与噪声重新混合，迭代训练新模型。
+- 论文: https://doi.org/10.1109/icassp49660.2025.10889313 (ICASSP 2025)
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/67ae625135b978ff6aa16e7a_29275630206_512b1888b9_5k.jpg
+- 项目主页: https://earthspecies.org/2024/12/05/biodenoising-a-novel-method-for-noise-reduction-in-animal-vocalizations/
+- 代码: https://github.com/earthspecies/biodenoising
+
+#### Contextual and combinatorial structure in sperm whale vocalisations — Project CETI (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在非人类信号中寻找组合结构，而不是把它们对应到人类词汇上。
+- 作品内容: 研究团队分析了东加勒比海抹香鲸约 9000 个 coda，发现节奏、速度、“弹性速度”和“装饰音”组合成一个庞大而有结构的叫声集合，被称为抹香鲸的“语音字母表”。
+- 实现方式: 对多米尼克抹香鲸项目在不同社交情境下记录的 coda 时间结构进行统计和可视化分析。
+- 论文: https://doi.org/10.1038/s41467-024-47221-8 (Nature Communications 2024)
+- 视频: https://www.youtube.com/watch?v=5N60yrXdgUM
+- 项目主页: https://www.projectceti.org/
+
+#### Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tablet-Based Speech Board in a Single Goffin’s Cockatoo — Jennifer Cunha (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 评估动物使用辅助沟通设备时，既要看作沟通，也要看作丰容。
+- 作品内容: 记录一只凤头鹦鹉七个月使用平板语音板的情况，并提出评估其表达潜力和丰容价值的框架。
+- 实现方式: 用新的编码方案对 190 天内的 129 次使用进行编码，衡量表达和丰容两方面。
+- 论文: https://doi.org/10.1145/3613904.3643654 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=u95r1Hjozpk
+
+#### ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds — Earth Species Project (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 转写本身就是设计决定：选定一种记法，动物声音就成了语言工具能处理的文本。
+- 作品内容: 一项把任何动物声音写成文字的方案，就像国际音标记录人类语音那样，让语言模型可以“阅读”并学习动物发声。
+- 实现方式: 把声学特征聚类为离散的类音素单元，再用得到的转写文本训练基于文本的分类模型。
+- 论文: https://doi.org/10.1109/icasspw62465.2024.10669911 (ICASSP Workshops 2024)
+- 图片: https://arxiv.org/html/2402.03269v1/fig_phoneme_cluster.png
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+- 代码: https://github.com/earthspecies/ispa
+
+#### Rosetta Bone - Bridging the Language Gap Between Dogs and Humans with a QR Code-Enabled Communication System — Melody Moore Jackson (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 要翻译的是人，而不是狗。
+- 作品内容: Rosetta Bone 是狗项圈上的二维码标签，告诉新的照顾者这只狗已经熟悉的指令和语言。
+- 实现方式: 项圈二维码链接到网页应用，用狗熟悉的语言播放主人录好的指令。
+- 论文: https://doi.org/10.1145/3702336.3702348 (ACI 2024)
+
+#### Soundboard-trained dogs (FluentPet buttons) — Federico Rossano, FluentPet (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 当主人愿意共享数据时，一款消费产品就能变成大规模研究工具。
+- 作品内容: 一项研究：对象是经过按钮板训练的狗（使用 FluentPet 等可录音按钮），发现它们按出的双按钮组合既非偶然、非随机，也不是在模仿主人。
+- 实现方式: 对大量家庭 FluentPet 按钮板的按压记录进行统计分析，寻找组合模式。
+- 论文: https://doi.org/10.1038/s41598-024-79517-6 (Scientific Reports 2024)
+- 视频: https://www.youtube.com/watch?v=cTnVSJ8V4wk
+- 图片: https://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048
+- 项目主页: https://fluent.pet
+
+#### Vocal labeling of others by nonhuman primates (marmoset names) — David Omer (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 名字不一定需要词语，它可以是叫声里的一种模式。
+- 作品内容: 狨猴在互相发出“phee”叫声时会嵌入指向特定对象的信息，并对针对自己的叫声反应更强：这是非人类灵长类中类名字叫声的首个证据。
+- 实现方式: 录制成对狨猴之间的自然对话，用机器学习对叫声的指向对象分类，并做回放实验。
+- 论文: https://doi.org/10.1126/science.adp3757 (Science 2024)
+- 视频: https://www.youtube.com/watch?v=aeLDYcyaQCE
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
+
+#### 'Conversing' with an Alaskan humpback whale (Twain) — Whale-SETI (2023)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把回放当作对话中的一个轮次，衡量动物是否接过下一轮。
+- 作品内容: 2021 年，Whale-SETI 团队在阿拉斯加海域播放一段录制的座头鲸“whup”联络叫声；一头名叫 Twain 的鲸靠近并在 20 分钟内回应了 36 次，并与叫声间隔相匹配。
+- 实现方式: 用水下扬声器和水听器回放单一叫声类型，分析叫声间隔中的轮流模式。
+- 论文: https://doi.org/10.7717/peerj.16349 (PeerJ 2023)
+- 视频: https://www.youtube.com/watch?v=3cvSLNn8RZk
+- 图片: https://dfzljdn9uc3pi.cloudfront.net/2023/16349/1/fig-1-1x.jpg
+- 项目主页: https://peerj.com/articles/16349/
+
+#### BEANS: The Benchmark of Animal Sounds — Earth Species Project (2023)
+- 类型: 论文 · 生物: 动物, 昆虫
+- 核心想法: 一套共享的测试，能让分散的领域同时衡量在多个物种上的进展。
+- 作品内容: 一个包含 12 个数据集的公开基准，覆盖鸟类、哺乳动物、两栖动物和昆虫，用来比较机器学习模型识别和检测动物声音的能力。
+- 实现方式: 设定固定划分和基线（从逻辑回归到预训练音频网络）的标准化分类与检测任务。
+- 论文: https://doi.org/10.1109/ICASSP49357.2023.10096686 (ICASSP 2023)
+- 视频: https://www.youtube.com/watch?v=nY1-N1M-rxk
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/637e04ed3e538d1047f965e3_bee-and-flowers.jpg
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+- 代码: https://github.com/earthspecies/beans
+
+#### Voxaboxen — Earth Species Project (2023)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 把生物声学中最慢的一步——标注——自动化，让研究可以扩展到整个季节。
+- 作品内容: 一个开源工具，能在长时间的野外录音中找出并标注每一声动物叫，给出精确的起止时间，让生物学家不必再手工逐条标记。
+- 实现方式: 基于 AVES 编码器，加上在时间轴上预测边界框的检测头，只需少量标注文件即可训练。
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/64f0505eba7a72f147af1c09_joshua-j-cotten-Y_OxRWJFvuw-unsplash-1.jpg
+- 项目主页: https://earthspecies.org/2023/08/31/voxaboxen-new-tool-to-support-annotation-of-large-audio-files/
+- 代码: https://github.com/earthspecies/voxaboxen
+
+#### Chimpanzees produce diverse vocal sequences with ordered and recombinatorial properties — Catherine Crockford (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 大规模统计组合方式，一套有结构的“代码”就会浮现。
+- 作品内容: 对野生 Taï 黑猩猩近 5,000 条发声记录的分析，发现了数百种顺序稳定、部件可重组的叫声序列，表明这是一个有结构的系统，而非随机串联。
+- 实现方式: 长期焦点个体录音、叫声类型标注，以及针对顺序和重组的序列分析。
+- 论文: https://doi.org/10.1038/s42003-022-03350-8 (Communications Biology 2022)
+- 视频: https://www.youtube.com/watch?v=ZIsrIt470mI
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-022-03350-8/MediaObjects/42003_2022_3350_Fig1_HTML.png
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
+
+#### Evidence from sperm whale clans of symbolic marking in non-human cultures — Shane Gero, Project CETI (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物文化可能也会用符号来区分“我们”和“他们”。
+- 作品内容: 对太平洋 23,000 条尾声的分析显示：标示族群身份的“身份尾声”在族群分布重叠的地方差异最大，就像人类群体在相遇处强化归属标志一样。
+- 实现方式: 对 23 个地点的尾声库进行统计比较，并用基于主体的文化传播模型加以模拟。
+- 论文: https://doi.org/10.1073/pnas.2201692119 (PNAS 2022)
+- 项目主页: https://doi.org/10.1073/pnas.2201692119
+
+#### Modeling Animal Vocalizations through Synthesizers — Earth Species Project (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把一声动物叫描述成一个人能读懂、能调整的合成器音色。
+- 作品内容: 这项研究不用黑箱网络生成动物叫声，而是调节一个可微分声音合成器的旋钮去复现录音，让每一声叫都能用几个可读的参数来描述。
+- 实现方式: 用基于梯度和黑箱的优化方法调整模块化合成器参数，使其匹配目标叫声。
+- 论文: https://arxiv.org/abs/2210.10857 (arXiv 2022)
+- 图片: https://arxiv.org/html/2210.10857v1/fig_overview.png
+- 项目主页: https://earthspecies.org/what-we-do/publications/
+
+#### TamagoPhone: A Framework for Augmenting Artificial Incubators to Enable Vocal Interaction Between Bird Parents and Eggs — Rébecca Kleinberger (2022)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 孵化器保住了蛋，却切断了一场对话；技术可以把它重新接上。
+- 作品内容: TamagoPhone 提议为人工孵化器加入双向音频流，让鸟类亲鸟和蛋中的胚胎在孵化前就能听到彼此。
+- 实现方式: 基于对鸟类胚胎期声音学习的文献综述，设计巢与孵化器之间的低延迟音频连接方案。
+- 论文: https://doi.org/10.1145/3565995.3566036 (ACI 2022)
+- 图片: https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png
+
+#### BioCPPNet: automatic bioacoustic source separation with deep neural networks — Earth Species Project (2021)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在理解谁在说什么之前，先解决动物的“鸡尾酒会问题”。
+- 作品内容: 一个把单条录音里重叠的动物叫声分离开的神经网络，把猕猴、蝙蝠和海豚个体的声音逐一剥离，便于分别分析。
+- 实现方式: 用已知个体叫声合成的混合音训练一个轻量的 U-Net 式网络，为每个“说话者”预测一条独立波形。
+- 论文: https://doi.org/10.1038/s41598-021-02790-2 (Scientific Reports 2021)
+- 视频: https://www.youtube.com/watch?v=TGWFr-6JCDk
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/632ce7a5951bc104d2297aed_631d410ba6a75c58e6d8b259_0_hPfNeo5RHL-slH_D.jpeg
+- 项目主页: https://earthspecies.org/2022/09/22/solving-the-cocktail-party-problem/
+- 代码: https://github.com/earthspecies/cocktail-party-problem
+
+#### Roadmaps towards decoding non-human languages (ESP Technical Roadmap) — Earth Species Project, Aza Raskin (2020)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 把解码另一个物种当作一条分阶段、可供他人跟随和批评的工程路线图。
+- 作品内容: Earth Species Project 公开的动物交流解码研究计划：2020 年首次发布在 GitHub 上，2022 年扩展为技术路线图——从建立基准和基础模型，到用生成式回放检验意义。
+- 实现方式: 借鉴无监督机器翻译中“不同语言共享潜在几何结构”的想法，提出把动物信号与行为的嵌入空间对齐。
+- 视频: https://www.youtube.com/watch?v=rjvsl0mhqTk
+- 图片: https://earthspecies.org/wp-content/uploads/2026/01/638f8b23f186af7be3328294_Roadmap-Hero.png
+- 项目主页: https://earthspecies.org/2022/12/02/esp-technical-roadmap/
+- 代码: https://github.com/earthspecies/project
+
+#### Use of a Tablet-Based Communication Board and Subsequent Choice and Behavioral Correspondences in a Goffin's Cockatoo (Cacatua goffiana) — Jennifer Cunha (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 为人设计的辅助沟通设备也可以让鸟拥有“声音”。
+- 作品内容: 一只戈芬氏凤头鹦鹉学会使用市售平板沟通板来请求食物、活动和互动，研究者检验了她的请求是否前后一致。
+- 实现方式: 在安卓图片板上进行联想训练，并通过追问和肢体语言验证她的回答。
+- 论文: https://doi.org/10.1145/3446002.3446063 (ACI 2020)
+- 视频: https://www.youtube.com/watch?v=szGajjmctXg
+
+#### Pattern Radio: Whale Songs — Google Creative Lab (2019)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 把科学档案开放成一个可以把玩的界面，非专业人士也能帮忙发现模式。
+- 作品内容: 一个网页工具，任何人都能滚动浏览太平洋 15 年的座头鲸录音，机器学习模型会标出歌声出现的位置，用户也可以标注其中的模式。
+- 实现方式: 基于 NOAA 水听器数据的频谱图浏览器，配有卷积网络座头鲸检测器，与 NOAA 的 Ann Allen 合作开发。
+- 视频: https://www.youtube.com/watch?v=JE3-LkMqBfM
+- 图片: https://patternradio.withgoogle.com/assets/share.jpg
+- 项目主页: https://patternradio.withgoogle.com/
+
+#### Telling the Bees: Designing for Immersion, Mediation, and Ritual — Jihan Sherman (2019)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 一种与动物说话的古老仪式，可以启发我们如何设计与动物之间的对话式界面。
+- 作品内容: Telling the Bees 是一个沉浸式原型，源于养蜂人把家中大事告诉蜜蜂的古老习俗；参与者对着一个蜂箱般的界面说话、触摸它，界面以声音和影像回应。
+- 实现方式: 触觉和声音输入驱动程序化的声画反馈，装置引导参与者做出仪式般的身体姿态。
+- 论文: https://doi.org/10.1145/3294109.3301001 (TEI 2019)
+
+#### RoboBee: a dancing honeybee robot — Tim Landgraf (2018)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 要与蜜蜂对话，机器人必须用它们的语言跳舞。
+- 作品内容: RoboBee 是一只在蜂巢内跳“摇摆舞”的机器蜜蜂；活蜂会跟随它的舞蹈，其中一些会飞向它所指示的位置。
+- 实现方式: 机械臂上的仿真蜜蜂在观察蜂箱中重现摇摆舞的动作和振动，并追踪被招募的采集蜂。
+- 论文: https://arxiv.org/abs/1803.07126 (arXiv 2018)
+- 视频: https://www.youtube.com/watch?v=zp9_T9YK0Hk
+
+#### Individual, unit and vocal clan level identity cues in sperm whale codas — Shane Gero, Project CETI (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 鲸的“口音”能说明它属于哪种文化。
+- 作品内容: 对多米尼克已知抹香鲸家族的长期录音显示：有些尾声标示所属族群，另一些则因家族单元和个体而异。
+- 实现方式: 对 Dominica Sperm Whale Project 自 2005 年起经照片识别的个体录音进行尾声节奏分析。
+- 论文: https://doi.org/10.1098/rsos.150372 (Royal Society Open Science 2016)
+- 图片: https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441721935423-2KQECM5DU4SR54IDRT8M/Whale+research.jpg
+- 项目主页: https://thespermwhaleproject.org/
+
+#### The vocal repertoire of the domesticated zebra finch — Julie Elie (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在解码意义之前，先编一本词典：列出每一种声音和它所属的情境。
+- 作品内容: 一份完整的斑胸草雀叫声类型目录，从远距离联络叫到乞食叫和警报叫，并指出承载各类信息的声学特征；Julie Elie 对斑胸草雀“语言”的研究获得 2026 年 Coller-Dolittle 奖。
+- 实现方式: 在已知情境下录音，用监督分类器和声学特征分析找出区分叫声类型的特征。
+- 论文: https://doi.org/10.1007/s10071-015-0933-6 (Animal Cognition 2016)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-015-0933-6/MediaObjects/10071_2015_933_Fig1_HTML.gif
+- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
+
+#### Birdflute — Li Jönsson, Tau Ulv Lenskjold (2015)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 让出不了门的人隔着窗户与鸟展开对话。
+- 作品内容: 为养老院老人设计的一件类似哨子的装置：向它吹气，楼外就会播放鸟鸣，公园里的鸟可能会回应。
+- 实现方式: 吹气很可能触发录制或合成的鸟鸣，由室外扬声器播放；出自协同设计项目 Urban Animals and Us。
+- 论文: https://doi.org/10.21606/nordes.2015.001 (Nordes 2015)
+- 图片: https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### An underwater wearable computer for two way human-dolphin communication experimentation (CHAT) — Thad Starner, Denise Herzing (2013)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 建立一小套共享词汇，让海豚能向人类“要东西”。
+- 作品内容: 潜水员佩戴 CHAT 水下计算机，它播放代表马尾藻、围巾等物体的合成哨声，并监听野生海豚是否模仿这些声音。
+- 实现方式: 带水听器和实时哨声识别的水下可穿戴设备，在巴哈马与野生大西洋斑纹海豚一起使用（Wild Dolphin Project 与佐治亚理工合作）。
+- 论文: https://doi.org/10.1145/2493988.2494346 (ISWC 2013)
+- 视频: https://www.youtube.com/watch?v=YhopeQKbpZA
+- 图片: https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg
+- 项目主页: https://www.wilddolphinproject.org/our-research/chat-research/
+
+#### No More Woof — Nordic Society for Invention and Discovery (2013)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 想听宠物说话的愿望如此强烈，足以为科学尚不能支持的设备众筹资金。
+- 作品内容: No More Woof 是一款众筹的狗用脑电头戴设备，宣称能把狗的脑活动翻译成“我饿了”之类的简短人话。
+- 实现方式: 脑电传感器、微型计算机和扬声器，把粗略的脑状态模式映射到预录的短语上。
+- 视频: https://www.youtube.com/watch?v=-Y4DHu8DAqg
+
+#### The Interspecies Internet — Interspecies Internet (2013)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 把跨物种交流当作组网来思考：设计通道，而不仅是翻译。
+- 作品内容: Diana Reiss、Peter Gabriel、Neil Gershenfeld 和 Vint Cerf 在 2013 年 TED 上提出一个包括其他智慧物种的互联网，从为海豚、猿和大象设计的触屏和声音界面开始。
+- 实现方式: 演讲并展示动物操作的界面（海豚触屏、倭黑猩猩键盘、与猿远程合奏音乐），之后发展为一个智库。
+- 视频: https://www.youtube.com/watch?v=wGMLhaa98GI
+- 图片: http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w
+- 项目主页: https://www.interspecies.io/
+
+#### Dolphin Diaries: My 25 Years with Spotted Dolphins in the Bahamas — Denise Herzing, Wild Dolphin Project (2011)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 与其教动物学人的语言，不如建立一套双方都能学的小小“第三种语言”。
+- 作品内容: Denise Herzing 讲述与一个海豚社会共处四分之一个世纪的书，以及她 2013 年的 TED 演讲——提出用水下键盘建立人与海豚共享的词汇。
+- 实现方式: 野外回忆录，以及后来发展为 CHAT 的符号与哨声键盘设计。
+- 视频: https://www.youtube.com/watch?v=CQ5dRyyHwfM
+- 图片: https://covers.openlibrary.org/b/id/6917022-L.jpg
+- 项目主页: https://www.wilddolphinproject.org/
+
+#### Prairie dog alarm calls encode labels about predator colors — Con Slobodchikoff (2009)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 受控的野外刺激能揭示一个“简单”警报叫声里究竟包含多少细节。
+- 作品内容: 当同一个人穿着不同颜色的衬衫穿过草原犬鼠的聚居地时，甘尼森草原犬鼠会发出不同的警报叫声——这是 Slobodchikoff 证明其叫声详细描述捕食者的证据之一。
+- 实现方式: 让人分别穿蓝、绿、黄、灰色衬衫走过，录下叫声并对声学特征做判别分析。
+- 论文: https://doi.org/10.1007/s10071-008-0203-y (Animal Cognition 2009)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-008-0203-y/MediaObjects/10071_2008_203_Fig1_HTML.gif
+- 项目主页: https://link.springer.com/article/10.1007/s10071-008-0203-y
+
+#### The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots — Irene Pepperberg (1999)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 训练方法本身就是一种设计：两个人示范交流过程，让鸟通过观看来学习。
+- 作品内容: Irene Pepperberg 讲述与非洲灰鹦鹉 Alex 相处 30 年的书：Alex 学会了 50 多种物体、七种颜色以及六以内数量的英语名称，还能回答“相同”和“不同”的问题。
+- 实现方式: “示范者/竞争者”法：一位训练者提问，另一位作答，并以被命名的物品本身作为奖励。
+- 视频: https://www.youtube.com/watch?v=w8LepYR8v9A
+- 图片: https://covers.openlibrary.org/b/id/411886-L.jpg
+- 项目主页: https://alexfoundation.org
+
+#### Kanzi and the lexigram keyboard — Sue Savage-Rumbaugh (1994)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 由任意符号组成的界面，可以变成物种之间共享的语言。
+- 作品内容: 倭黑猩猩 Kanzi 主要通过旁观母亲上课，学会了按键盘上的抽象符号来交流，并能听懂英语口语句子；这段研究记录在《Kanzi: The Ape at the Brink of the Human Mind》一书中。
+- 实现方式: 由数百个几何符号组成的键盘（后来有便携和语音输出版本），在日常生活而非反复训练中使用。
+- 视频: https://www.youtube.com/watch?v=0Myl142PvH8
+- 图片: https://www.bonobohope.org/KanziSlideshow/KanziAndKeyboard2.jpg https://covers.openlibrary.org/b/id/305815-L.jpg
+- 项目主页: https://www.bonobohope.org/
+
+#### Underwater keyboard for dolphins — Diana Reiss (1993)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 给动物一个附带声音的选择界面，它们可能会把这些声音学为己用。
+- 作品内容: 一块水下键盘让宽吻海豚按下符号来获得球、圈或抚摸；每个键还会播放计算机生成的哨声，海豚后来开始模仿这些声音。
+- 实现方式: 带视觉符号的水下按键，每个键配一种合成哨声和一种奖励，设于美国 Marine World Africa USA。
+- 论文: https://doi.org/10.1037/0735-7036.107.3.301 (Journal of Comparative Psychology 1993)
+- 视频: https://www.youtube.com/watch?v=zMjEo3qOqd8
+
+#### Wild Dolphin Project: 40 years with the spotted dolphins of the Bahamas — Wild Dolphin Project, Denise Herzing (1985)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 数十年非侵入式的陪伴，建立了任何翻译都需要的信任和数据。
+- 作品内容: 自 1985 年起，Denise Herzing 的团队每年夏天都回到同一群野生大西洋斑海豚身边，在水下拍摄和录音，建立了跨越数代个体及其声音的档案。
+- 实现方式: 水下视频和音频加上个体照片识别，把签名哨声、尖叫声等声音与行为联系起来。
+- 视频: https://www.youtube.com/watch?v=R7jNuUMpws4
+- 图片: https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg
+- 项目主页: https://www.wilddolphinproject.org/
+
+#### Dolphin Embassy — Ant Farm (1974)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 把另一种智慧物种当作外交伙伴，它值得拥有自己的大使馆。
+- 作品内容: 一座未建成的漂浮研究站，人和海豚在其中共同生活、彼此交流：有一个陆水两用的起居室、供海豚在楼层之间游动的滑道，以及人和海豚共用的导航舱。
+- 实现方式: 通过图纸、小册子和赴澳大利亚的考察，发展出一个三角形漂浮结构；受 John C. Lilly 人与海豚交流研究的影响。
+- 视频: https://www.youtube.com/watch?v=29y1NB6ELao
+- 图片: https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200
+- 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### LANA project and the Yerkish lexigram keyboard — Duane Rumbaugh (1973)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 最早为其他物种打造的计算机界面之一，把猿当作用户来对待。
+- 作品内容: 在 LANA 项目中，一只名叫 Lana 的黑猩猩使用由抽象符号（词符）组成的计算机键盘来请求食物和活动、补全句子；后来这套词符键盘也让倭黑猩猩 Kanzi 能与人交流。
+- 实现方式: 由计算机控制的键盘，按键为可发光的词符，遵循 Yerkish 语法，并记录每一次按键。
+- 论文: https://doi.org/10.1126/science.182.4113.731 (Science 1973)
+- 视频: https://www.youtube.com/watch?v=wRM7vTrIIis
+- 图片: https://upload.wikimedia.org/wikipedia/commons/f/f9/Kanzi_in_the_indoor_test_apparatus.jpg
+
+### 野生动物、农场与追踪
+
+感知、追踪野生与养殖动物，并与它们共处。
+
+#### A Sperm Whale Is Born (collaborative birth and Whale Tales) — Project CETI, Shane Gero (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 把行为影像与声音配对，一次罕见事件就成了“关键时刻社会如何交流”的证据。
+- 作品内容: 2023 年在多米尼克海域拍到的一次抹香鲸分娩无人机影像，经 CETI 的 Whale Tales 计算机视觉软件分析，显示两个家族合作托起新生幼鲸，同时它们的尾声风格在关键时刻发生变化。
+- 实现方式: 在无人机视频中分割并追踪鲸，与水听器录音同步，并进行多尺度网络分析。
+- 论文: https://doi.org/10.1038/s41598-025-27438-3 (Scientific Reports 2026)
+- 视频: https://www.youtube.com/watch?v=eV7VRURo4sY
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-27438-3/MediaObjects/41598_2025_27438_Fig1_HTML.png
+- 项目主页: https://www.projectceti.org/whalebirth
+
+#### 4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation — Yixiong Wang (2025)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 借助蜜蜂的建造行为来设计，而不是自己把形态打印出来。
+- 作品内容: 一种原型方法：养蜂人为蜜蜂提供造型支架，让蜂群把蜂巢建成新的多形态造型，同时保留常规的养蜂流程。
+- 实现方式: 四个步骤：制作支架、四边形分区、放入蜂箱、由蜂群建造；与养蜂人一起测试。
+- 论文: https://doi.org/10.1145/3706598.3713696 (CHI 2025)
+
+#### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye — Sena Cucumak (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 探针可以把注意力引向街头的动物，从而把人从中心移开。
+- 作品内容: 基于“注意的艺术”设计的探针，帮助土耳其居民注意社区里的街头动物，重新思考共同生活。
+- 实现方式: 向居民发放探针套件，并用“注意”理论分析结果。
+- 论文: https://doi.org/10.1145/3706598.3713977 (CHI 2025)
+
+#### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 通过聆听每一只羊来理解整个羊群。
+- 作品内容: 一种羊用电子头饰，记录微气候、头部和眼部运动以及叫声，用来研究个体如何影响羊群行为。
+- 实现方式: 头戴式传感模块集成环境、惯性和声音传感，为野外使用制作原型。
+- 论文: https://doi.org/10.1145/3768539.3768560 (ACI 2025)
+- 图片: https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png
+
+#### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 自动驾驶汽车有乘客优先和行人优先模式，动物也应该有一个。
+- 作品内容: 为自动驾驶汽车提出“野生动物优先模式”，并展出由被碾平的路杀动物照片制成的地毯和一台自动扫地机器人。
+- 实现方式: 提出在自动驾驶中用计算机视觉识别过路动物；装置把纪实路杀照片印在地毯上。
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg
+- 项目主页: https://www.jiabaoli.org/animo
+
+#### Reinforcement learning-based framework for whale rendezvous via autonomous sensing robots — Project CETI (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 围绕动物的作息来规划机器人的行为，而不是去追赶它。
+- 作品内容: 一个预测下潜的抹香鲸会在哪里浮出水面、并引导无人机和船只前去会合的系统，以更少的打扰来布设标签和采集录音。
+- 实现方式: 基于 VHF 标签、水听器和空中视觉的传感数据流进行强化学习，并在多米尼克海域实地测试（AVATARS 框架）。
+- 论文: https://doi.org/10.1126/scirobotics.adn7299 (Science Robotics 2024)
+- 视频: https://www.youtube.com/watch?v=AQlCiAUfXXI
+- 图片: https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg
+- 项目主页: https://www.projectceti.org/blog-posts/new-methods-for-whale-tracking-and-rendezvous-using-autonomous-robots
+
+#### WildWatch — WildWatch team (NID Ahmedabad) (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 道路可以被设计成能“注意到”其他物种。
+- 作品内容: 一种用于林区道路动物通道的限速与野生动物检测系统：近距离传感器探测接近的动物，触发灯光和警示，防止碰撞。
+- 实现方式: 路边的传感桩检测动物活动，在低能见度下启动照明和驾驶员警示。
+- 图片: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/666x720/5f7e1845c6/wildwatch.png
+- 项目主页: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+
+#### Advancing Cattle Health Monitoring through ACI-Driven Wearable Sensor Technology: A Case Study of Leg-Worn System Development — Fangyuan Chang (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 家畜可穿戴设备要为奶牛的舒适和农场的日常流程而设计。
+- 作品内容: 一款奶牛腿部佩戴的健康传感器的设计过程，依据动物-计算机交互原则，同时考虑奶牛和农民的需要。
+- 实现方式: 迭代设计腿环，在农场实地观察，并用传感数据检测疾病。
+- 论文: https://doi.org/10.1145/3637882.3637893 (ACI 2023)
+
+#### Lions out of Bounds? Reflections on Digital Technology and Matristic Design to address Human-Wildlife Conflict — Margarita Grinko (2023)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 共存技术只有契合当地的实践和需要才会有效。
+- 作品内容: LionAlert 会在戴项圈的狮子越过无形地理围栏时提醒博茨瓦纳奥卡万戈三角洲的养牛户；论文反思了如何以植根于当地合作的“母系设计”方法构建这一系统。
+- 实现方式: 与 CLAWS Conservancy 及农民共同开发基于地理围栏的预警系统，并用母系设计方法加以反思。
+- 论文: https://doi.org/10.1145/3628096.3628742 (AfriCHI 2023)
+- 项目主页: https://doi.org/10.1145/3628096.3628742
+
+#### Towards Harmonious Coexistence: A Bioacoustic-Driven Animal-Computer Interaction System for Preventing Ship Collisions with North Atlantic Right Whales — Mirjana Erceg (2023)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让鲸的声音改变船的航向。
+- 作品内容: 一套系统：用神经网络识别北大西洋露脊鲸的叫声，并提醒附近船只避免相撞。
+- 实现方式: 把鲸叫声转为声谱图并用卷积神经网络分类，检测结果传入面向船只的警告界面。
+- 论文: https://doi.org/10.1145/3637882.3637890 (ACI 2023)
+
+#### Bat House — Ferne Edwards (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把为动物提供庇护与和它相遇设计进同一个物件。
+- 作品内容: 一个城市蝙蝠栖所：蝙蝠可以安全栖息，人则可以观察它们；两个生活世界保持分隔，但允许单向的相遇。
+- 实现方式: 特隆赫姆 NTNU 的学生设计项目，依据蝙蝠生态需求与超越人类城市的共居目标开发。
+- 论文: https://doi.org/10.21606/drs.2022.770 (DRS 2022)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Chicken Coop Design — Ferne Edwards (2022)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把后院动物当作与我们空间重叠的邻居。
+- 作品内容: 一个为城市花园设计的鸡舍，以鸡的需求为出发点，既提供安全庇护，也让鸡和人可以双向相遇。
+- 实现方式: NTNU 学生设计项目，出自一项关于城市中与鸟、蜂、蝙蝠共居的研究。
+- 论文: https://doi.org/10.21606/drs.2022.770 (DRS 2022)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### HIIVE — Philip Potthast (2021)
+- 类型: 产品与平台 · 生物: 昆虫
+- 核心想法: 先为蜜蜂设计蜂箱，其次才考虑养蜂人。
+- 作品内容: 一个围绕蜜蜂自然习性设计、用可持续材料建造的蜂箱，配有低功耗传感器，让养蜂人无需频繁开箱即可监测蜂群。
+- 实现方式: 厚实保温、类似树洞的箱体内装有温度、湿度和重量传感器。
+- 图片: https://www.jamesdysonaward.org/Document/05423d37-dcfc-48b7-9842-9ba9122d3cc7/dyson001.jpg https://www.jamesdysonaward.org/Document/642cf8e3-9139-49b3-9ed8-f2447e7634f1/dyson002.jpg
+- 项目主页: https://www.jamesdysonaward.org/en-GB/2021/project/hiive/
+
+#### Smart Bee Houses — Nancy Smith (2021)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 先为蜜蜂设计，再追问数字层是否真的必要。
+- 作品内容: 三座为独居壁蜂设计的蜂屋，配有环境传感器、按颜色区分的巢管和模块化部件，用来支持城市传粉者并记录气候数据。
+- 实现方式: 木头和纸板巢管搭配基于 Arduino 的温湿度传感；论文反思了材料与户外条件带来的限制。
+- 论文: https://doi.org/10.1145/3493842.3493894 (ACI 2021)
+- 视频: https://www.youtube.com/watch?v=w6rjtsi2ve0
+- 图片: https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/2-Figure1-1.png https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/4-Figure5-1.png
+- 项目主页: https://doi.org/10.1145/3493842.3493894
+
+#### Beewise BeeHome — Beewise (2020)
+- 类型: 产品与平台 · 生物: 昆虫
+- 核心想法: 机器人照料可以持续看护蜂群，也改变了养蜂人与蜜蜂的关系。
+- 作品内容: BeeHome 是一个太阳能供电的蜂箱集装箱，摄像头和机械臂在其中检查巢框、处理蜂群，养蜂人则远程操作。
+- 实现方式: 对巢框图像做计算机视觉分析，多蜂箱单元内配有龙门式机械臂和温湿度控制。
+- 视频: https://www.youtube.com/watch?v=8V5nPvq-DVc
+- 图片: https://26497807.fs1.hubspotusercontent-eu1.net/hubfs/26497807/Hive%201%20(1).webp
+- 项目主页: https://www.beewise.ag
+
+#### Halter virtual fencing collars — Halter (2020)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 当牛学会听从项圈的提示，围栏就变成了软件。
+- 作品内容: Halter 的太阳能 GPS 项圈用声音和振动提示代替铁丝网，把牛群留在虚拟围栏内，并引导它们转场。
+- 实现方式: GPS 与传感器项圈通过声音和振动提示训练牛，农民通过应用管理；轻微电脉冲作为最后手段。
+- 视频: https://www.youtube.com/watch?v=BSIq-rrGGX4
+- 项目主页: https://www.halterhq.com
+
+#### Smart Habitat: A Wildlife Rehabilitation System — K. Cassie Kresnye (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 受救助的野生动物需要让人保持距离的监测方式。
+- 作品内容: 一个装有传感器的栖息箱，用于救助孤儿弗吉尼亚负鼠幼崽，让志愿者减少与它们的接触也能照看。
+- 实现方式: 微控制器、环境传感器和安卓应用，基于访谈和六个月的观察设计。
+- 论文: https://doi.org/10.1145/3334480.3383093 (CHI EA 2020)
+- 图片: https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png
+
+#### Listening to Save Wildlife — Margot Brereton (2019)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 保护技术需要关注团队的文化、时间与知识，而不只是传感器。
+- 作品内容: Jessica Oliver 等人的 DIS 论文，基于与澳大利亚濒危鸟类东部刚毛鹟（Eastern bristlebird）保育团队三年的田野工作，在其保护工作中试用声学监测。
+- 实现方式: 民族志田野工作与设计研究，包括声学录音设备的试用，并进行主题分析。
+- 论文: https://doi.org/10.1145/3322276.3322360 (DIS 2019)
+- 图片: https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png
+
+#### Animal-to-Animal Data Sharing Mechanism for Wildlife Monitoring in Fukushima Exclusion Zone — Hill Hiroki Kobayashi (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 在没有道路、电力和信号的地方，让动物本身成为网络。
+- 作品内容: 福岛禁区内野生动物佩戴的传感项圈在动物相遇时互相交换数据，由动物自己把监测数据带出没有基础设施的区域。
+- 实现方式: 由野生动物携带的传感节点，只在多只动物聚集时唤醒通信，以节省电量。
+- 论文: https://doi.org/10.3390/mti2030040 (Multimodal Technologies and Interaction 2018)
+- 视频: https://www.youtube.com/watch?v=VSrdnvHMMJA
+
+#### AudioMoth — Open Acoustic Devices (2018)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 便宜的开源硬件让更多人能够聆听野生动物。
+- 作品内容: AudioMoth 是一款小巧、低成本的开源声学记录器，研究者和志愿者把它放在野外，记录蝙蝠、鸟类、昆虫乃至整片声景。
+- 实现方式: 可编程微控制器电路板配 MEMS 麦克风，把可听声和超声波录到存储卡，并可进行板载检测。
+- 论文: https://doi.org/10.1111/2041-210X.12955 (Methods in Ecology and Evolution 2018)
+- 图片: https://static.wixstatic.com/media/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg/v1/fill/w_2500,h_2500,al_c/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg
+- 项目主页: https://www.openacousticdevices.info/audiomoth
+
+#### Confronting People's Fears about Bats: Combining Multi-modal and Environmentally Sensed Data to Promote Curiosity and Discovery — Yvonne Rogers (2018)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 来自令人害怕的动物的实时数据，可以把恐惧变成好奇。
+- 作品内容: PlayBat 是一个公共展示装置，结合可触摸界面、问答式故事和伦敦公园中传感器实时采集的蝙蝠叫声数据。
+- 实现方式: 由物联网蝙蝠探测器供数的多模态实体展示装置，与公众一起评估。
+- 论文: https://doi.org/10.1145/3196709.3196783 (DIS 2018)
+- 图片: https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png
+
+#### Nest Box — Marcus Foth (2018)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 最简单的多物种建筑：一个为别的物种腾出空间的盒子。
+- 作品内容: 固定在房屋上的木制巢箱，为负鼠或鸟在人类世界里提供一个受保护的家；与人的接触点很少，对人的空间改变也很小。
+- 实现方式: 在建筑上安装普通巢箱；Foth 与 Caldwell 用它对比低技术的栖息地供给和重媒体的建筑。
+- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
+- 图片: https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Animal Crossing (wildlife overpass) — Nancy Smith (2017)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 以分隔实现共存：给动物一条自己的路，而不改变人的日常。
+- 作品内容: 一座横跨公路的野生动物桥（Smith、Bardzell 与 Bardzell 在论文中讨论的例子），让动物安全过路，而下方人类交通照常通行。
+- 实现方式: 用覆盖植被的天桥和围栏引导动物越过公路；综述把它作为“设计分隔空间、避免相遇”的例子。
+- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
+- 图片: https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Bee2Bee – Pollination of Monocultures — Julian Schwarze (2016)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 授粉服务需要能随作物移动的照护设施。
+- 作品内容: 一种可快速搭建、类似帐篷的移动式蜂群系统，用于单一作物农田，内置传感器监测蜂箱温度、重量和飞行活动。
+- 实现方式: 蜂群健康的传感数据帮助养蜂人在不开箱的情况下安排处理时间。
+- 图片: http://web.archive.org/web/2019im_/https://www.jamesdysonaward.org/Document/fb5c3143-cdd8-4a71-908b-34cb216a442f/usr-3365-img-1468686529-48b3e.jpg
+- 项目主页: http://web.archive.org/web/2019/https://www.jamesdysonaward.org/en-GB/2016/project/bee2bee-pollination-monocultures-new-beekeeper/
+
+#### Designing for wearability in animal biotelemetry — Patrizia Paci, Clara Mancini (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 佩戴追踪器的动物就是它的用户；要为它的舒适而设计。
+- 作品内容: 一项初步研究：观察一只猫佩戴市售生物遥测设备的情况，由此提出以佩戴者为中心的动物追踪器设计框架。
+- 实现方式: 录像观察猫对设备的反应，分析其不适迹象。
+- 论文: https://doi.org/10.1145/2995257.3012018 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=oqjeKRgVo5E
+
+#### SnotBot — Ocean Alliance (2016)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 用一台温和的机器取代侵入式采样，按动物自己的节奏与它相遇。
+- 作品内容: 一架无人机飞过浮出水面的鲸喷出的水雾，用培养皿接住它呼出的气体，在不接触、不追赶动物的情况下采集 DNA、微生物组和激素样本。
+- 实现方式: 带培养皿的消费级四旋翼无人机（DJI Inspire），后来又用于布设标签、协助解救被缠绕的鲸和进行体况摄影测量。
+- 视频: https://www.youtube.com/watch?v=0WTDdWwKbyk
+- 图片: https://whale.org/wp-content/uploads/2024/06/Snotbot_Drone_01.webp
+- 项目主页: https://whale.org/snotbot/
+
+#### Wolfland — Antti Tenetz (2016)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 从动物的移动出发绘制一片景观。
+- 作品内容: 《Jälestää – Tracing》项目的一部分：把一头公狼的 GPS 轨迹用激光刻在木板和亚克力上，呈现它如何穿越并塑造芬兰的景观。
+- 实现方式: 把戴项圈的狼的卫星定位数据绘制成图并激光雕刻，结合航拍和实地影像。
+- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg
+- 项目主页: https://exhibitions.hybridmatters.net/works/wolfland
+
+#### Digital Naturalism — Andrew Quitmeyer (2015)
+- 类型: 研究原型 · 生物: 动物, 昆虫, 生态系统
+- 核心想法: 在野外、和动物一起制作工具，而不是在实验室里。
+- 作品内容: 一种“徒步黑客”研究实践：设计师和生物学家在野外现场制作电子设备，与蚂蚁、蜘蛛、青蛙等动物互动。
+- 实现方式: 可穿戴与便携微控制器套件、表演式野外工作坊，以及在巴拿马等地的视频记录。
+- 论文: https://doi.org/10.1007/978-3-030-45289-6_5 (HCI Outdoors (Springer) 2020)
+- 视频: https://www.youtube.com/watch?v=0Q-HbBKC2i4
+- 项目主页: https://www.digitalnaturalism.org/
+
+#### Interfed — Li Jönsson, Tau Ulv Lenskjold (2015)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 把触发权交给鸟，让它们的造访打断并丰富人的室内生活。
+- 作品内容: 一套喂食器与摄像装置，同时生成室外鸟类觅食处与室内居住空间的成对图像；由鸟触发，人几乎无法控制它何时运行。
+- 实现方式: 鸟在喂食器上的造访很可能触发摄像头，同时拍摄两个环境并并排呈现；属于 Urban Animals and Us 项目。
+- 论文: https://doi.org/10.21606/nordes.2015.001 (Nordes 2015)
+- 图片: https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Playful rocksalt system: animal-computer interaction design in wild environments — Hill Hiroki Kobayashi (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 一块舔盐可以成为城市居民与野生动物之间的界面。
+- 作品内容: Playful Rocksalt 让城市里的人与森林中的野鹿实时互动：野鹿会来到装有传感器和摄像头的盐块旁。
+- 实现方式: 装有传感器的盐块把鹿来访的情况实时传到远程用户的手持设备上。
+- 论文: https://doi.org/10.1145/2832932.2837012 (ACE 2015)
+- 图片: https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png
+
+#### Utilizing the Cyberforest live sound system with social media to remotely conduct woodland bird censuses in Central Japan — Hill Hiroki Kobayashi (2015)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 实时声音加上社交媒体，可以把远方的听众变成一支普查队。
+- 作品内容: Cyberforest 在互联网上实时播放日本偏远森林的声音，志愿者在社交媒体上一起收听，完成鸟类普查。
+- 实现方式: 无人值守的麦克风每天直播 8 小时，持续五年以上；参与者同时在线收听进行普查。
+- 论文: https://doi.org/10.1007/s13280-015-0708-y (Ambio 2015)
+- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13280-015-0708-y/MediaObjects/13280_2015_708_Fig1_HTML.gif
+
+#### ICARUS and Movebank: an Internet of Animals — Martin Wikelski (2007)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 携带传感器的动物组成了一张覆盖地球的感知网络。
+- 作品内容: ICARUS 和 Movebank 用可从太空读取的微型标签追踪全球的鸟类、蝙蝠等小型动物，并以“动物互联网”的方式公开共享运动数据。
+- 实现方式: 带 GPS 和加速度计的太阳能标签把数据上传到国际空间站上的接收器（2018 年起），后改用卫星；数据存档于 Movebank。
+- 论文: https://doi.org/10.1242/jeb.02629 (Journal of Experimental Biology 2007)
+- 视频: https://www.youtube.com/watch?v=e_KNyhQMjOY
+- 图片: https://www.movebank.org/cms/img/about-us_ChristianZiegler_whitestorks.jpg
+- 项目主页: https://www.icarus.mpg.de/en
+
+#### PigeonBlog — Beatriz da Costa (2006)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把动物当作基层环境监测的合作者。
+- 作品内容: 信鸽背着装有空气污染传感器、GPS 和手机模块的小背包飞越南加州，把实时污染读数发布到在线地图上。
+- 实现方式: 定制的轻型背包，内含一氧化碳和氮氧化物传感器、GPS 和 GSM 模块，把数据发送到博客式地图。
+- 视频: https://www.youtube.com/watch?v=XXNh5dKIh18
+
+#### CyberTracker — Louis Liebenberg, Edwin Blake (1996)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 围绕专家的知识而不是其读写能力来设计界面。
+- 作品内容: CyberTracker 是一种手持野外计算机，采用图标界面，让不识字的追踪专家也能用 GPS 记录动物足迹和目击情况。
+- 实现方式: 在坚固的 GPS 手持设备上以图标驱动的数据采集流程，后来成为全球保护项目使用的免费应用。
+- 论文: https://doi.org/10.1145/506443.506466 (CHI EA 2002)
+- 视频: https://www.youtube.com/watch?v=rs_fHKLZxr4
+- 项目主页: https://www.cybertracker.org
+
+#### Lely Astronaut milking robot — Lely (1992)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 自愿挤奶让动物成为与机器互动的发起者。
+- 作品内容: Lely Astronaut 是一台挤奶机器人，奶牛按自己的时间前来；机器人识别每头牛，清洁并套上奶杯，同时记录它的数据。
+- 实现方式: 机械臂配合激光乳头定位、基于项圈的奶牛识别，以及挤奶间里的饲料激励。
+- 视频: https://www.youtube.com/watch?v=5cWiEp10ruA
+- 图片: https://linn01mstr1r92oprod.dxcloud.episerver.net/globalassets/international/images---solution-product-or-service/lint---solutions/milking/astronaut-a5-next/product-slider/product-picture-of-lely-astronaut-a5-next.jpg
+- 项目主页: https://www.lely.com/solutions/milking/astronaut-a5/
+
+#### Crittercam — Greg Marshall (1986)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 把摄像头装在动物身上，看到的就是它的世界，而不是我们的。
+- 作品内容: Crittercam 是一种装在野生动物身上的摄像与数据记录装置，从鲨鱼、海豹到企鹅，从动物自己的位置记录视频和环境数据。
+- 实现方式: 防水的视频与传感器模块，用吸盘、背带或鳍夹固定，并定时脱落以便回收。
+- 论文: https://doi.org/10.4031/002533207787442240 (Marine Technology Society Journal 2007)
+- 视频: https://www.youtube.com/watch?v=q-EONusvq_8
+
+### 动物-计算机交互的理论、伦理与方法
+
+把动物当作参与者来设计的宣言、伦理框架与方法。
+
+#### Speaking for Animals: Design Opportunities through Tensions in Multispecies Activism — Sena Cucumak (2026)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 替动物发声的设计者，必须面对谁的声音被听见、谁的声音被压制。
+- 作品内容: 一项关于土耳其社区动物权益活动者的研究：他们抵制一项把街头动物从公共空间清除的新法律，研究从“替动物发声”的张力中提炼设计机会。
+- 实现方式: 对活动者开展质性研究，并从多物种正义与照护的角度分析。
+- 论文: https://doi.org/10.1145/3800645.3812970 (DIS 2026)
+
+#### Animals' Entanglement with Technology: a Scoping Review — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物遇到的大多数技术从来不是为它们设计的；动物-计算机交互也必须研究这一部分。
+- 作品内容: 一篇综述，梳理近 800 项研究，看动物如何与技术相遇，无论这些技术是为它们设计、与它们一起设计，还是只是存在于它们周围。
+- 实现方式: 对人机交互及相关领域研究的目标、技术类型和动物情境进行系统编码。
+- 论文: https://doi.org/10.1145/3706598.3713384 (CHI 2025)
+- 视频: https://www.youtube.com/watch?v=elTCuVa7Vak
+
+#### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物技术研究中的伦理张力，可以按“谁受益”和“谁的知识算数”来绘制。
+- 作品内容: 回顾 Cat Royale 如何通过计算机科学、兽医学和动物福利三个伦理委员会的审查，并提出“受益者-认识论空间”，用来描绘多物种研究中谁受益、知识如何产生。
+- 实现方式: 对伦理审查过程中的对话进行反思性分析，整理为一个双轴框架。
+- 论文: https://doi.org/10.1145/3613904.3641994 (CHI 2024)
+- 图片: https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png
+
+#### The Day After: Ethical Considerations for the End of Enriching Animal Research Projects — Jennifer Cunha, Clara Mancini (2024)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 要像规划开始一样，认真规划动物研究的结束。
+- 作品内容: 讨论当一个为动物提供丰富化技术的研究项目结束、设备被撤走时，动物会面临什么。
+- 实现方式: 以长期的鹦鹉平板研究为基础进行伦理分析，提出项目收尾时的责任。
+- 论文: https://doi.org/10.1145/3702336.3702345 (ACI 2024)
+
+#### Substituting Animals with Biohybrid Robots: Speculative Interactions with Animal-Robot Hybrids — Ziming Wang (2023)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 如果机器人取代了餐盘上的动物，我们对两者各自还有什么亏欠？
+- 作品内容: 一个思辨设计概念：动物被生物混合机器人取代，人们组装并食用它们，借此引发关于食物与动物未来的讨论。
+- 实现方式: 借助生物混合机器人和人-食物交互的发展进行设计虚构与挑衅。
+- 论文: https://doi.org/10.1145/3563703.3596641 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=Y4PcZCEH2fQ
+
+#### An Ethics Toolkit to Support Animal-Centered Research and Design — Luisa Ruge, Clara Mancini (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对动物参与者的伦理，作为一种实践比作为一条要核对的规则更有效。
+- 作品内容: 一套由工作表组成的伦理工具包，帮助研究者和设计者在动物参与项目时反思自身的假设与责任。
+- 实现方式: 围绕研究者对动物的理解、动物的角色以及研究者自身角色设计结构化提示，在项目开始前和进行中使用。
+- 论文: https://doi.org/10.3389/fvets.2022.891493 (Frontiers in Veterinary Science)
+- 图片: https://www.frontiersin.org/files/Articles/891493/fvets-09-891493-HTML/image_m/fvets-09-891493-g001.jpg
+
+#### Animal-centered design needs dignity: a critical essay on ACI’s core concept — Dirk van der Linden (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 给动物好的使用体验，并不等于尊重这只动物。
+- 作品内容: 一篇批判性文章：认为“以动物为中心”已被等同于“以动物用户为中心”，主张动物-计算机交互应以动物的尊严作为核心概念的基础。
+- 实现方式: 借助价值敏感设计与动物伦理，对动物-计算机交互宣言及后续研究进行概念分析。
+- 论文: https://doi.org/10.1145/3565995.3566028 (ACI 2022)
+
+#### Politicising Animal-Computer Interaction: an Approach to Political Engagement with Animal-Centred Design — Clara Mancini (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 只满足一只动物的需要，可能会强化伤害更多动物的体系；设计本身带有政治性。
+- 作品内容: 论文指出，动物-计算机交互项目运行于并不以动物为中心的社会经济体系之中，并提出一种政治化的以动物为中心的设计方法。
+- 实现方式: 借助政治性交互设计的文献，重新界定动物-计算机交互的目标和研究者的责任。
+- 论文: https://doi.org/10.1145/3565995.3566034 (ACI 2022)
+
+#### Watching Animal-Computer Interaction: Effects on Perceptions of Animal Intellect — Sarah Webber, Marcus Carter (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物-计算机交互同样作用于在一旁观看的人。
+- 作品内容: 研究游客看到红毛猩猩使用数字丰容装置后，对红毛猩猩智力的看法和对保护工作的支持是否会改变。
+- 实现方式: 在墨尔本动物园通过游客访谈和问卷，比较装置在用与不在用时游客的态度差异。
+- 论文: https://doi.org/10.1145/3565995.3566035 (ACI 2022)
+
+#### Welfare Through Competence: A Framework for Animal-Centric Technology Design — Sarah Webber (2022)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 设计让动物施展自身能力的技术，福利自然随之而来。
+- 作品内容: 提出“以能力促福利”框架：以动物需要使用和发展的技能与行为来指导动物技术的设计。
+- 实现方式: 基于动物福利科学和动物-计算机交互实践构建框架，并应用于动物园、农场、收容所和犬舍。
+- 论文: https://doi.org/10.3389/fvets.2022.885973 (Frontiers in Veterinary Science)
+
+#### Concept Craft Cards: Deck of theoretical and practical suggestions for ACI developers — Fiona French, Clara Mancini (2021)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一副卡片就能把以动物为中心的原则带进日常的设计讨论。
+- 作品内容: 一套 Concept Craft Cards 卡片，为动物-计算机交互开发者提供从概念、体验到实践层面的提示，用于为非人类“客户”设计丰容。
+- 实现方式: 卡片按层级组织，从设计理念到感官主题，配合非人类客户的设计需求使用。
+- 论文: https://doi.org/10.1145/3450741.3466816 (C&C 2021)
+- 图片: https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png
+
+#### Ethics and Power Dynamics in Playful Technology for Animals: Using speculative design to provoke reflection — Fiona French, Ilyena Hirskyj-Douglas, Heli Väätäjä, Patricia Pons (2021)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 对动物游戏装置的思辨，会暴露出到底是谁在掌控这场游戏。
+- 作品内容: 一次工作坊：用思辨设计讨论面向动物的游戏化技术所涉及的伦理与权力关系。
+- 实现方式: 参与者设计思辨性的跨物种游戏系统，并讨论其影响。
+- 论文: https://doi.org/10.1145/3464327.3464366 (Academic Mindtrek 2021)
+- 图片: https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png
+
+#### Reflecting on Methods in Animal Computer Interaction: Novelty Effect and Habituation — Ilyena Hirskyj-Douglas, Sarah Webber (2021)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 使用率下降不等于失败；要为新鲜感消退之后的长期使用来设计和评估。
+- 作品内容: 探讨为什么动物常常一开始热衷使用新装置、随后失去兴趣，把人机交互中的“新奇效应”与动物行为学中的“习惯化”联系起来。
+- 实现方式: 从新奇效应和习惯化的角度分析三个动物-计算机交互丰容项目（包括猴子和红毛猩猩）。
+- 论文: https://doi.org/10.1145/3493842.3493893 (ACI 2021)
+- 视频: https://www.youtube.com/watch?v=jKV5uoLWlUQ
+
+#### A Method for Evaluating Animal Usability (MEAU) — Luisa Ruge, Clara Mancini (2019)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 只要懂得狗的行为意味着什么，就可以衡量一个界面对狗的可用性。
+- 作品内容: 提出 MEAU：一种评估界面对动物用户是否好用的方法，依据该物种的能力来解读动物的行为。
+- 实现方式: 把人机交互中的可用性概念与动物行为学编码结合起来，在使用界面的狗身上加以检验。
+- 论文: https://doi.org/10.1145/3371049.3371060 (ACI 2019)
+- 图片: https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png
+
+#### Opportunities for ACI in PLF: Applying Animal- and User-Centred Design to Precision Livestock Farming — Stacey D. Scott (2019)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 农场传感器同样是为动物设计的；设计过程应当让动物和农民都参与进来。
+- 作品内容: 论文主张：源自工程领域的精准畜牧业应当吸收动物-计算机交互中以动物和用户为中心的设计方法。
+- 实现方式: 对比精准畜牧业和动物-计算机交互的文献，提出家畜技术的设计机会。
+- 论文: https://doi.org/10.1145/3371049.3371055 (ACI 2019)
+
+#### ZooJamming: Designing Beyond Human Experience — Fiona French, Anna Zamansky, Sarah Webber, Reinhard Gupfinger (2019)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 游戏马拉松的形式能让动物园专家和设计师在一天之内为动物做出原型。
+- 作品内容: 报告在动物-计算机交互会议上举办的三次 ZooJam：类似游戏马拉松的工作坊，跨学科团队按真实需求为动物园动物设计丰容方案。
+- 实现方式: 采用饲养员撰写需求、快速构思和手工原型的工作坊形式，并由组织者进行反思。
+- 论文: https://doi.org/10.1145/3316287.3316294 (ICGJ 2019)
+- 图片: https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png
+
+#### Seven Years after the Manifesto: Literature Review and Research Directions for Technologies in Animal Computer Interaction — Ilyena Hirskyj-Douglas, Patricia Pons (2018)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 一张“为动物造过什么”的地图，能看出哪些方向的动物交互设计仍然薄弱。
+- 作品内容: 一篇文献综述，梳理动物-计算机交互宣言发表后七年间为动物开发的技术：可触摸、触觉、可穿戴、嗅觉、屏幕和追踪系统。
+- 实现方式: 按交互模态组织的主题综述，并为每类技术提出研究方向。
+- 论文: https://doi.org/10.3390/mti2020030 (Multimodal Technologies and Interaction 2018)
+- 图片: https://pub.mdpi-res.com/mti/mti-02-00030/article_deploy/html/images/mti-02-00030-g001.png
+
+#### The Emerging Nature of Participation in Multispecies Interaction Design — Clara Mancini (2018)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物即使无法理解设计过程，也可以参与设计。
+- 作品内容: 提出一种动物参与设计的模型，其基础是符号、意愿和互动，而不是人类式的同意和理解。
+- 实现方式: 基于狗与计算机交互的案例和指示性符号学构建理论模型。
+- 论文: https://doi.org/10.1145/3196709.3196785 (DIS 2018)
+- 图片: https://figures.semanticscholar.org/9bbabb7ea3ee36a739a2360cbffd66ab7009a676/8-Figure5-1.png
+- 项目主页: https://doi.org/10.1145/3196709.3196785
+
+#### Animal-Computer Interaction: The emergence of a discipline — Clara Mancini, Shaun Lawson, Oskar Juhlin (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 当有了共同目标和可以争论这些目标的平台，动物-计算机交互才成为一门学科。
+- 作品内容: 第一期动物-计算机交互期刊特刊的编者按，概述了该领域的目标、挑战和研究社群。
+- 实现方式: 综述领域现状，并介绍《国际人机研究期刊》特刊收录的论文。
+- 论文: https://doi.org/10.1016/j.ijhcs.2016.10.003 (IJHCS 2017)
+
+#### Exploring Research through Design in Animal Computer Interaction — Fiona French, Clara Mancini (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 当一个物种还没有现成的交互惯例时，做原型就是找到它的方法。
+- 作品内容: 论文主张：在人与动物之间还不存在既定交互方式的情境里，“通过设计做研究”能帮助动物-计算机交互研究者展开探索，并以大象丰容原型为例。
+- 实现方式: 以“通过设计做研究”的文献为框架，反思为动物园大象反复制作互动玩具原型的过程。
+- 论文: https://doi.org/10.1145/3152130.3152147 (ACI 2017)
+- 图片: https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png
+
+#### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 针对动物的研究伦理，应当像 HCI 对人的研究伦理一样以参与者为中心。
+- 作品内容: 主张 ACI 研究中的动物应被视为可以表达同意的参与者和设计贡献者，而不是研究工具，并提出相应的伦理原则。
+- 实现方式: 批判分析动物研究法规，提出以动物为中心的伦理框架。
+- 论文: https://doi.org/10.1016/j.ijhcs.2016.04.008 (International Journal of Human-Computer Studies 2017)
+- 项目主页: https://www.open.ac.uk/blogs/ACI/
+
+#### Becoming with: towards the inclusion of animals as participants in design processes — Michelle Westerlaken (2016)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 只要设计者学会解读并追随动物的反应，动物就能塑造设计结果。
+- 作品内容: 提出让生活在人类环境中的动物（例如狗）作为参与者进入设计过程，基于作者用狗玩具进行的设计实验。
+- 实现方式: 与狗进行探索性设计实验，并用 Haraway 的“共同生成”概念解读。
+- 论文: https://doi.org/10.1145/2995257.2995392 (ACI 2016)
+- 图片: https://michellewesterlaken.com/2021/09/dog_w.jpg
+- 项目主页: https://michellewesterlaken.com/portfolio/robotic-dog-toys/
+
+#### De-computing the pigeon sensorium — John Fass (2016)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 从动物的感官出发，而不是从一个待解决的问题出发。
+- 作品内容: 一个开放式设计项目，探索城市鸽子如何感知城市，主张不以解决问题为目标的实验能为动物-计算机交互打开新方向。
+- 实现方式: 通过设计实验和物件探索鸽子对城市空间的感知。
+- 论文: https://doi.org/10.1145/2995257.3012022 (ACI 2016)
+- 视频: https://www.youtube.com/watch?v=PhzLnO11lms
+
+#### Power, participation, and the dog internet — Shaun Lawson (2016)
+- 类型: 书与文章 · 生物: 动物
+- 核心想法: 宠物科技常常替动物说话，却不让动物自己说话。
+- 作品内容: 一篇文章，讨论那些声称能翻译摇尾和吠叫的“狗互联网”产品的兴起，以及在这些系统中谁掌握权力。
+- 实现方式: 借助参与式设计中关于权力的观点，批判性地解读市售宠物设备和应用。
+- 论文: https://doi.org/10.1145/2942442 (ACM Interactions 2016)
+- 图片: https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png
+
+#### Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs — Shaun Lawson (2015)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 在产品真正被造出来之前，先拿思辨设计去暴露可能出错的地方。
+- 作品内容: 用一组思辨性的宠物追踪产品概念，向宠物主人和动物专家询问他们对“量化”猫狗的看法。
+- 实现方式: 在面向宠物主人的在线研究和动物行为专家访谈中展示思辨设计概念。
+- 论文: https://doi.org/10.1145/2702123.2702260 (CHI 2015)
+- 图片: https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png
+
+#### Animal personas: acknowledging non-human stakeholders in designing for sustainable food systems — Jessica Frawley (2014)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 给动物做一份用户画像，它们就进入了设计需求。
+- 作品内容: 改造了以用户为中心设计中常用的“用户画像”，在为合作式、可持续的食物系统做设计时，让农场动物与农民一起被代表。
+- 实现方式: 依据养殖理念和动物需要为家畜建立用户画像，并在食品合作社的设计过程中使用。
+- 论文: https://doi.org/10.1145/2686612.2686617 (OzCHI 2014)
+- 图片: https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png
+
+#### Who Is Really In The Center Of Dog Computer Design? — Ilyena Hirskyj-Douglas (2014)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 在把人机交互方法借给动物之前，先看清这种方法实际服务的是谁的需要。
+- 作品内容: 一篇立场论文：追问共同设计、扎根理论等人机交互方法能否从人类用户转用到狗身上，以及“以狗为中心”的设计里真正处在中心的是谁。
+- 实现方式: 回顾人机交互让用户参与的历史，并对照到狗与计算机的设计实践上。
+- 论文: https://doi.org/10.1145/2693787.2693793 (ACE 2014 Workshops (ACI))
+- 图片: https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png
+
+#### Ethical issues and guidelines when conducting HCI studies with animals — Heli Väätäjä (2013)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 与动物一起做研究，需要自己的伦理清单，而不是照搬人类受试者的规则。
+- 作品内容: 一套基于文献的伦理指南，面向涉及动物的人机交互研究，涵盖研究的规划、执行和报告。
+- 实现方式: 把动物研究伦理和福利文献浓缩成按研究阶段划分的人机交互研究指南。
+- 论文: https://doi.org/10.1145/2468356.2468736 (CHI EA 2013)
+- 视频: https://www.youtube.com/watch?v=b7hrtlKnp1g
+
+#### Animal-computer interaction: a manifesto — Clara Mancini (2011)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 动物也是用户，面向它们的技术应当围绕它们的需求来设计。
+- 作品内容: 动物-计算机交互（ACI）的奠基文本，呼吁对动物使用或受其影响的技术采用以用户为中心的方法。
+- 实现方式: 宣言提出 ACI 的目标：研究动物与技术的互动、为动物福利而设计、发展以动物为中心的方法。
+- 论文: https://doi.org/10.1145/1978822.1978836 (ACM Interactions 2011)
+- 视频: https://www.youtube.com/watch?v=TMOJSpXfRoI
+- 项目主页: https://www.open.ac.uk/blogs/ACI/
+
+#### Mirror self-recognition in the bottlenose dolphin — Diana Reiss (2001)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 设计出合适的测试，动物就能展示我们以为只属于人类的能力。
+- 作品内容: 两只身上被涂了墨水标记的海豚游到镜子前，转身察看被标记的身体部位，证明它们能认出自己。
+- 实现方式: 在水族馆中进行带假标记对照的镜像标记测试，并根据视频评分。
+- 论文: https://doi.org/10.1073/pnas.101086398 (PNAS 2001)
+- 视频: https://www.youtube.com/watch?v=vCSKDjkp6rI
+- 项目主页: https://doi.org/10.1073/pnas.101086398
+
+## 人与自然交互
+
+改变人如何注意、体验和对待自然的技术：户外、花园、公民科学、延伸的感官，以及被媒介化的自然。
+
+### 注意与自然联结
+
+让人慢下来，去注意、关注并感到与自然相连的设计。
+
+#### How Can Interactive Technology Help Us to Experience Joy With(in) the Forest? — Ferran Altarriba Bertran (2025)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 对自然类技术而言，快乐本身就是一个设计目标。
+- 作品内容: 一篇 CHI 论文，提出一套包含 12 种方式的分类，说明交互技术可以如何支持人在森林中的快乐体验。
+- 实现方式: 对一年期共同设计过程中与 250 多位林中行者产生的 104 个思辨想法进行反身性分析。
+- 论文: https://doi.org/10.1145/3706598.3713151 (CHI 2025)
+
+#### The Entangled Tales that Landscapes Tell — Marta Galvão Ferreira (2025)
+- 类型: 论文 · 生物: 生态系统, 植物, 人体
+- 核心想法: 行走与讲故事可以是一种与风景建立关系的 HCI 方法。
+- 作品内容: 一篇 TEI 论文，研究人如何通过身体与想象体验自然漫步，并把它转化为一种为自然遗产设计位置技术的教学方法。
+- 实现方式: 研究自然漫步的亲身与感官体验，进而提出一种“有机”教学法以及位置类工具的设计启示。
+- 论文: https://doi.org/10.1145/3689050.3705012 (TEI 2025)
+
+#### Dear Nature: Data Drawings for Human–Nature Relations — Marta Galvão Ferreira (2024)
+- 类型: 论文 · 生物: 生态系统, 植物, 人体
+- 核心想法: 亲手绘制关于自然的个人数据，会让人放慢并加深反思。
+- 作品内容: 与 Sherry Hsi 合作的 DIS 论文：身处不同地方的参与者在五周内把自己对自然的观察画成手绘数据图，并相互比较。
+- 实现方式: 基于数据人文主义与跨地域合作探究的后人类主义设计方法。
+- 论文: https://doi.org/10.1145/3643834.3660732 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/e4b2d4058b135ef625ef77c19038fa10ec48669f/8-Figure1-1.png
+
+#### Humming Washer — Marine Zorea (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 用窗外邻居的声音替代家电的提示音。
+- 作品内容: 一个洗衣机附件，录下附近树上的鸟鸣，在人按下洗衣机按钮时播放，用本地鸟声替代提示音。
+- 实现方式: 树旁的麦克风采集鸟叫，控制器在按钮被按下时播放。
+- 论文: https://doi.org/10.1145/3643834.3660686 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Sound Passage — Marine Zorea (2024)
+- 类型: 研究原型 · 生物: 生态系统, 动物
+- 核心想法: 让外面的世界而不是住户来决定家何时安静。
+- 作品内容: 一个会自己打开的窗户装置，把屋外的声音放进家里；何时打开取决于户外的变化，比如人、植物、动物或机器的动静。
+- 实现方式: 户外麦克风检测声景变化，执行器打开通风口让声音进入。
+- 论文: https://doi.org/10.1145/3643834.3660686 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/3-Figure2-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Stromatolive — Francesca Valsecchi (2024)
+- 类型: 研究原型 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 倾听微生物在石头里记录下的深时间。
+- 作品内容: 一件互动装置，把叠层石（由微生物席堆积而成、像年轮一样分层的沉积岩）内部的层理转成图像和声音，观众通过触摸各层来探索。
+- 实现方式: 把叠层石切面的扫描映射为画面并声音化；触摸传感器让观众触发每一层的声音。
+- 论文: https://doi.org/10.21606/drs.2024.752 (DRS 2024)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Flare — Stijn Ossevoort (2023)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 让自然现象而不是穿着者来驱动交互服装。
+- 作品内容: 一条绣有 LED 蒲公英的丝绸连衣裙，风一吹就会亮起；穿着者只能部分控制它，比如走出风口。
+- 实现方式: 风的感测很可能驱动绣在裙上的 LED 蒲公英；作为“自然现象的参与”这一概念的唤起性物件提出。
+- 论文: https://doi.org/10.1145/3569009.3572743 (TEI 2023)
+- 图片: https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Playful Inspiration for a New Wave of Joyful Forest Technology — Ferran Altarriba Bertran (2023)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 森林技术应帮助人享受森林，而不只是了解关于它的知识。
+- 作品内容: 一篇 DIS 论文，探索森林中蕴含的游戏潜能以及技术如何回应它，主张以快乐与照料而非技术解决主义来做森林技术。
+- 实现方式: 通过 16 次进入森林的第一人称、思辨与情境化设计，得出 13 种游戏潜能，归为 5 个设计方向。
+- 论文: https://doi.org/10.1145/3563657.3596015 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=0yogjiLLS90
+
+#### Wild Probes Toolkit — Ferran Altarriba Bertran (2023)
+- 类型: 研究原型 · 生物: 生态系统, 植物, 人体
+- 核心想法: 在想象技术之前，先给共同设计者工具，让他们去关注这个地方。
+- 作品内容: 一套把共同设计搬进森林的探针工具，帮助林中行者去关注、反思、构思并记录自己的森林体验。
+- 实现方式: 为“森林未来构想”而设计，并在早期户外共同设计中使用，开放给其他设计者扩展。
+- 论文: https://doi.org/10.1145/3563657.3596102 (DIS 2023)
+- 视频: https://www.youtube.com/watch?v=79Zub_3LUL8
+
+#### From-The-Wild: Towards Co-Designing For and From Nature — Ferran Altarriba Bertran (2022)
+- 类型: 论文 · 生物: 生态系统, 植物, 人体
+- 核心想法: 把设计工作坊搬进森林，让森林回应。
+- 作品内容: 一篇 CHI 短论文，提出在户外共同设计技术，让自然本身参与塑造设计过程。
+- 实现方式: 在自然环境中开展参与式设计活动，反思场所如何改变产生的想法。
+- 论文: https://doi.org/10.1145/3491101.3519811 (CHI EA 2022)
+- 视频: https://www.youtube.com/watch?v=kKCQ8OXCoQQ
+
+#### Nature Jar — Xiaoge Wang (2022)
+- 类型: 研究原型 · 生物: 植物, 生态系统, 人体
+- 核心想法: 通过一件日常物品，温和地把家与门外的自然连接起来。
+- 作品内容: 一个在文化探针研究之后设计的家用原型，鼓励城市居民留意、珍视并更多接触住处附近的自然，并把自然的恢复作用带进室内。
+- 实现方式: 先对城市居民进行文化探针研究，再制作一个很可能把室内生活与附近自然相连的实体原型。
+- 论文: https://doi.org/10.1145/3490149.3502426 (TEI 2022)
+- 图片: https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png
+
+#### Plant Radio — Margrete Lodahl Rolighed, Lone Koefoed Hansen (2022)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 拿掉电源键，植物就在家里拥有了一直在场的声音。
+- 作品内容: 一个像收音机的盒子把室内植物的电信号放大成声音；它刻意没有关机键，于是植物的声音会一直进入家人的白天和夜晚。
+- 实现方式: 电极采集植物类似肌电的信号，放大后由外形像广播接收机的扬声器播放；设计以中介理论为依据。
+- 论文: https://doi.org/10.1145/3532106.3533517 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=Uabjy9_hhH4
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Biodiversity Logbook — Liz Edwards (2021)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 把记录自然的过程放慢，让“留意”本身成为目的。
+- 作品内容: 一套包含感光相册、提示贴纸和地图的工具包，让莫克姆湾的学童把找到的植物做成蓝晒印相，并记录发现地点。
+- 实现方式: 把标本放在蓝晒纸上经阳光曝光，孩子们添加手写笔记，收集的图像汇总到一张共享地图上。
+- 论文: https://doi.org/10.21606/nordes.2021.13 (Nordes 2021)
+- 图片: https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Forest Crayons — Playfool (2021)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 让孩子通过颜色认识森林里的物种。
+- 作品内容: 完全用日本森林的木粉、树皮和树叶着色的蜡笔，每种颜色以其来源树种命名。
+- 实现方式: 把森林副产品干燥、研磨，与蜡质黏合剂混合。
+- 视频: https://www.youtube.com/watch?v=NWkLR_KYm8k
+- 图片: https://static.dezeen.com/uploads/2021/11/1-Deep-turquoise-crayon-made-fro.jpeg https://static.dezeen.com/uploads/2021/09/Forest-Crayons.jpeg
+- 项目主页: https://www.dezeen.com/awards/2021/winners/forest-crayons/
+
+#### Circa — Circa (Ted Hunt) (2019)
+- 类型: 产品与平台 · 生物: 生态系统
+- 核心想法: 如果太阳是你的钟，月亮是你的日历，会怎样？
+- 作品内容: 一套表盘与 App：Circa Solar 只有一根每天转一圈的时针，按当地太阳时和日出日落显示；Circa Lunar 用月相取代日历。
+- 实现方式: 软件根据用户所在经纬度计算视太阳时、昼长和月相，并去掉分针和秒针。
+- 视频: https://www.youtube.com/watch?v=1ICO5NV4JQg
+- 图片: https://web.archive.org/web/20231209113039im_/http://circa.bio/img/border_applewatch_solar.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Nature Scenes — Dean Brown (2019)
+- 类型: 研究原型 · 生物: 动物, 昆虫
+- 核心想法: 为两类使用者设计同一件物品：使用它的动物和观看的人。
+- 作品内容: 设在伦敦 Brompton Design District 的城市鸟类与昆虫庇护所和喂食站，内置相机捕捉动物瞬间，再在酒吧等公共场所播放给人看。
+- 实现方式: Interaction Research Studio 为 2019 年伦敦设计节设计并部署带喂食器和相机的庇护所，影像传到附近场所的屏幕上。
+- 论文: https://doi.org/10.1145/3569009.3572802 (TEI 2023)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### The Ambient Birdhouse — Margot Brereton (2018)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 一个小小的环境物件，就能介绍其他物种的邻居。
+- 作品内容: 一个家用的物联网鸟屋，播放本地鸟类的叫声与相关媒体，激发人们对窗外鸟类的好奇；研究者与五个家庭一起进行了试用。
+- 实现方式: 使用本地物种录音的趣味实体物联网设备，在家庭中进行研究，孩子们带动了家中其他成员。
+- 论文: https://doi.org/10.1145/3173574.3173971 (CHI 2018)
+- 视频: https://www.youtube.com/watch?v=J6f171qRyp8
+
+#### Deep Time Walk App — Deep Time Walk (2016)
+- 类型: 产品与平台 · 生物: 生态系统
+- 核心想法: 用身体走完深时间，让人类历史缩回它真实的尺度。
+- 作品内容: 一款音频 App，带人走 4.6 公里，以每米一百万年的速度穿越地球 46 亿年历史：戏剧化旁白讲述地球与生命如何形成，人类只出现在最后几厘米。
+- 实现方式: App 用 GPS 追踪步行距离和速度，按走到的地质时间点播放相应的科学旁白。
+- 视频: https://www.youtube.com/watch?v=5kY24DUm0VM
+- 图片: https://www.deeptimewalk.org/wp-content/uploads/2018/04/facebook.jpg https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-mobile-home-june2018.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Forest — Seekrtech (2014)
+- 类型: 产品与平台 · 生物: 植物, 人体
+- 核心想法: 把一棵生长的树作为注意力的隐喻，并把它与真实的树连接起来。
+- 作品内容: 一款专注应用：你不碰手机时虚拟树会生长，打开其他应用树就会枯死；积攒的金币可以资助合作伙伴 Trees for the Future 种下真实的树。
+- 实现方式: 基于计时器的手机应用，带有虚拟森林记录，并连接植树捐赠。
+- 视频: https://www.youtube.com/watch?v=pVKksUbxkwU
+- 图片: https://forestapp.cc/preview.png
+- 项目主页: https://www.forestapp.cc/
+
+#### The Present — Scott Thrift (2012)
+- 类型: 产品与平台 · 生物: 生态系统
+- 核心想法: 用“年”的尺度显示时间，让人按季节而不是按分钟生活。
+- 作品内容: 一只一年才转一圈的挂钟：只有一根指针，表盘颜色从冬季的白色渐变到春、夏、秋，显示的是季节而不是小时。
+- 实现方式: 慢速石英机芯带动一根指针在 365 天内转满一圈，表盘以光谱色标出冬至、夏至和春分、秋分。
+- 视频: https://www.youtube.com/watch?v=d-3Vlp9Oodc
+- 图片: https://thepresent.is/cdn/shop/files/thepresent-annual-clock-hero-on-white-wall-scott-thrift-1784w-2025_1200x.webp?v=1765303543 https://thepresent.is/cdn/shop/files/The_Present_Clock-Lifestyle-Home-Bookshelf_865x640.jpg?v=1784831477
+- 项目主页: https://artifact-archive.org/whole-archive
+
+### 户外与荒野技术
+
+为步道、森林、公园、山地和水域设计的交互。
+
+#### Capra — William Odom (2024)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 为在事后很久、慢慢重温自然体验而设计。
+- 作品内容: 一个从多个视角（影像、声音、运动、海拔）记录徒步的系统，让徒步者多年后在家中重温和比较这些路程。
+- 实现方式: 定制的采集设备、数据档案与家用浏览界面，由设计团队在四年间设计、制作并亲身使用。
+- 论文: https://doi.org/10.1145/3613904.3642284 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=uEtnBD1TMj4
+
+#### Daddy, You Can Be the Fox — Jon Back (2024)
+- 类型: 研究原型 · 生物: 动物, 生态系统, 人体
+- 核心想法: 游乐场可以讲故事，把孩子的目光引向身边的自然。
+- 作品内容: 一个永久性游乐场装置：融入景观的小游戏屋，配有关于本地野生动物的交互式音频故事，历时六年开发与评估。
+- 实现方式: 跨部门团队的通过设计进行研究，孩子们把故事融入了自己的游戏中。
+- 论文: https://doi.org/10.1145/3679318.3685360 (NordiCHI 2024)
+
+#### Hokkhi — Jixiang Jiang (2023)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 把宗教实践引入礁体修复，让虔诚同时重建栖息地。
+- 作品内容: 三个用牡蛎壳制成的人工牡蛎礁原型：先作为泉州道教信众的供奉之物，再被投放入海，帮助修复牡蛎礁。
+- 实现方式: 基于田野调查、专家访谈和道教“法信”体系，在一个产品服务系统中与信众共同制作礁体单元。
+- 论文: https://doi.org/10.21606/iasdr.2023.100 (IASDR 2023)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Dinacon (Digital Naturalism Conference) — Andrew Quitmeyer (2018)
+- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
+- 核心想法: 改变会议发生的地点，研究也会随之改变。
+- 作品内容: 一个自组织、为期一个月的“会议”，在丛林和海岛上举行（2018 泰国、2019 巴拿马、2022 斯里兰卡），艺术家、黑客和生物学家在自然中做项目。
+- 实现方式: 开放征集的驻地形式，入选项目免收费用，并共享野外记录。
+- 视频: https://www.youtube.com/watch?v=lE5PEEQpXNg
+- 图片: https://www.dinacon.org/wp-content/uploads/2017/10/cropped-Phuket-Beach.jpg
+- 项目主页: https://www.dinacon.org/
+
+#### Designing Children's Digital-Physical Play in Natural Outdoors Settings — Jon Back (2016)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 在自然游戏中，技术应当是点缀，而不是主菜。
+- 作品内容: 一篇 CHI 论文：交互设计师与景观建筑师把交互游戏技术作为校园环境的一部分安装起来，观察它如何与利用自然材料的游戏交织。
+- 实现方式: 在自然化户外环境中整合游戏技术的校园实地试验。
+- 论文: https://doi.org/10.1145/2851581.2892416 (CHI EA 2016)
+- 图片: https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png
+
+#### Pokémon Go — Niantic (2016)
+- 类型: 产品与平台 · 生物: 动物, 人体
+- 核心想法: 收集动物的游戏能让人走出门，却不会自动让人注意到真实的动物。
+- 作品内容: 一款基于位置的 AR 游戏，让数亿人走出户外捕捉虚拟生物；保护科学家随之讨论它对真实野生动物兴趣的影响。
+- 实现方式: 在真实世界地图兴趣点上叠加的手机 AR；所引论文评估了它对自然保护的利弊。
+- 论文: https://doi.org/10.1111/conl.12326 (Conservation Letters 2017)
+- 视频: https://www.youtube.com/watch?v=SWtDeeXtMZM
+- 项目主页: https://pokemongolive.com/
+
+#### HOBBIT: An Asocial Hiking App — Jonna Häkkilä (2014)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 为在自然中独处而设计：一个“反社交”应用。
+- 作品内容: Maaret Posti、Johannes Schöning 与 Jonna Häkkilä 设计的徒步应用，生成避开人群的路线，并在有人接近时提醒，让用户享受自然中的独处。
+- 实现方式: 利用 OpenStreetMap 与网络数据生成路线，另有一个扫描 Wi-Fi 信号以探测附近徒步者的手机原型；概念来自问卷（n = 157）与焦点小组。
+- 论文: https://doi.org/10.1145/2598510.2598592 (DIS 2014)
+- 图片: https://figures.semanticscholar.org/a9409d933171330054a17d49c903837c2214a87d/1-Figure1-1.png
+
+#### PeakFinder — PeakFinder (2010)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: 为风景命名的 AR，能把一片景色变成你熟悉的地方。
+- 作品内容: 一款应用，在眼前的景色上叠加山峰的名字和高度，基于全球高程模型离线运行。
+- 实现方式: 根据设备 GPS 位置与数字高程模型渲染全景，并与相机和指南针对齐。
+- 视频: https://www.youtube.com/watch?v=mDW27pkwOIs
+- 图片: https://cdn2web.peakfinder.com/web/images/peakfinder-banner.jpg
+- 项目主页: https://www.peakfinder.com/
+
+#### Ambient Wood — Yvonne Rogers (2004)
+- 类型: 研究原型 · 生物: 植物, 生态系统, 人体
+- 核心想法: 给真实的树林叠加隐藏的层次，而不是用屏幕取代它。
+- 作品内容: 苏塞克斯的一片被增强的树林：孩子们两人一组带着探测器和 PDA 探索，走到特定植物旁时，设备会播放声音、显示光合作用等看不见的过程。
+- 实现方式: 由 Equator 项目的学习科学研究者部署的普适计算套件（PDA、光照与湿度探针、位置触发音频）。
+- 论文: https://doi.org/10.1145/1017833.1017834 (IDC 2004)
+- 图片: https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure1-1.png https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure2-1.png https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure3-1.png
+
+#### Savannah — Keri Facer (2004)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 让孩子以动物的身份在空间中移动，从而学习动物行为。
+- 作品内容: 一个基于位置的游戏：孩子们带着掌上电脑在学校操场上扮演狮群，在虚拟的非洲草原上捕猎与生存。
+- 实现方式: 带 GPS 的 PDA 把虚拟草原映射到操场上，“兽穴”区域用于复盘；由 Futurelab 与惠普实验室合作开发，并与十名 11–12 岁儿童一起研究。
+- 论文: https://doi.org/10.1111/j.1365-2729.2004.00105.x (Journal of Computer Assisted Learning 2004)
+- 图片: https://figures.semanticscholar.org/a3a9dd79e9927794784c1d44b9dd54a2ee7676c3/2-Figure1-1.png
+
+#### Environmental Detectives — Eric Klopfer (2002)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 把环境模拟叠加在真实地形上，让调查必须靠行走完成。
+- 作品内容: 一款增强现实游戏：学生带着掌上设备在真实的校园或流域中走动，采集模拟水样，找出有毒泄漏的来源。
+- 实现方式: 运行地下水污染模型、带 GPS 定位的 PDA；后续版本基于 MIT AR 平台。
+- 论文: https://doi.org/10.1007/s11423-007-9037-6 (Educational Technology Research and Development 2008)
+- 视频: https://www.youtube.com/watch?v=goPTuUMu_oc
+
+#### Geocaching — Geocaching HQ (Groundspeak) (2000)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: 一个简单的寻物游戏，就能给人一个仔细探索附近自然的理由。
+- 作品内容: 一种全球寻宝游戏：玩家用 GPS 坐标寻找数百万个隐藏的容器，其中许多藏在公园、森林等自然地点。
+- 实现方式: 始于 2000 年 5 月美国关闭 GPS 选择可用性后的第二天；在网页与应用平台上运行，由用户藏匿宝盒并记录日志。
+- 视频: https://www.youtube.com/watch?v=1YTqitVK-Ts
+- 图片: https://www.geocaching.com/play/Content/images/preview-lg.jpg
+- 项目主页: https://www.geocaching.com/play
+
+### 公民科学与自然观察
+
+让人识别、记录和监测物种与生态系统的工具。
+
+#### NatureMetrics eDNA monitoring — NatureMetrics (2024)
+- 类型: 产品与平台 · 生物: DNA 与分子, 生态系统
+- 核心想法: DNA 痕迹让我们无需看见就能统计众多物种。
+- 作品内容: 通过生物遗留在水和土壤中的环境 DNA 来测量生物多样性；对样本测序即可识别当地有哪些物种。
+- 实现方式: 野外采样套件过滤水或土壤，实验室通过宏条形码技术把 DNA 序列与参考数据库比对。
+- 视频: https://www.youtube.com/watch?v=FkMCZR8M930
+- 图片: https://earthshotprize.org/wp-content/uploads/2024/09/Nature-Metrics-Hero-1920x1080-@72DPI.jpg
+- 项目主页: https://www.naturemetrics.com/
+
+#### Colores del Rio — Melissa Ortiz (2023)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 农业废料可以变成共同照护河流的仪器。
+- 作品内容: 一个公民科学工具，利用本地农场废弃的紫甘蓝，让年轻人检测河水的 pH 变化以发现污染。
+- 实现方式: 脱水紫甘蓝中的花青素会随 pH 变色，被嵌入一个手持检测工具中。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875738957-AB7A77P0PIW9E4HO0G9Q/Olivia+at+river+with+tool+2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875723403-RPY19QL1SAXV1VNR5NIA/ColoresDelRio_CCA-Ortiz_1.jpg
+- 项目主页: https://www.biodesignchallenge.org/cca-design-2023
+
+#### Opportunity Map — Geertje Slingerland (2023)
+- 类型: 研究原型 · 生物: 生态系统, 植物
+- 核心想法: 用生物多样性的眼光重新阅读你的街道。
+- 作品内容: 一张大尺寸街区地图，配有透明叠加层，居民在上面标出社区里可以变得更绿、更具生物多样性的地方。
+- 实现方式: 在生物多样性城市生活实验室的户外共创活动中，使用纸质地图和圆形叠加片。
+- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
+- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Plant listener — Geertje Slingerland (2023)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 把植物和传感器作为超越人类的参与者，纳入社区共创。
+- 作品内容: 放在鹿特丹一个社区植物旁的感测装置，报告环境状况，帮助居民决定种什么、怎么打理花园；它是一个生物多样性城市生活实验室的一部分。
+- 实现方式: 在 Oud-Mathenesse 社区开展“通过设计做研究”与行动研究，包括快闪茶屋、“Circles of Green”工具，以及把土壤与光照传感数据与植物知识对照。
+- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
+- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
+- 项目主页: https://doi.org/10.1145/3593743.3593753
+
+#### Engaging with Nature Sounds & Citizen Science — Margot Brereton (2021)
+- 类型: 论文 · 生物: 动物, 生态系统, 人体
+- 核心想法: 只有声音还不够，要把声音与其他感官和故事相连，才能赋予它意义。
+- 作品内容: 一篇 CHI 论文，设计并试玩 Bristle Whistle Challenge 原型：把野生动物叫声与其他感官和体验相连，吸引人们参与生态声学公民科学。
+- 实现方式: 基于环境录音的游戏化原型，由十名玩家试玩。
+- 论文: https://doi.org/10.1145/3411764.3445390 (CHI 2021)
+- 视频: https://www.youtube.com/watch?v=Ub2gmVXqUTE
+
+#### City Nature Challenge — California Academy of Sciences, iNaturalist (2016)
+- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
+- 核心想法: 城市之间的友好竞争，让居民去注意自己街头的自然。
+- 作品内容: 一年一度、为期四天的生物闪电调查，最初是旧金山与洛杉矶之间的比赛，现在全球各城市比拼谁在 iNaturalist 上记录的城市野生生物最多。
+- 实现方式: 先是协调一致的观察周末，随后是在 iNaturalist 上的鉴定周。
+- 视频: https://www.youtube.com/watch?v=jmQmdat2Nks
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg/960px-INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg
+- 项目主页: https://www.citynaturechallenge.org/
+
+#### Mosquito Alert — Mosquito Alert (2014)
+- 类型: 产品与平台 · 生物: 昆虫, 人体
+- 核心想法: 公民科学也涵盖我们要对抗的物种，而不只是我们喜爱的物种。
+- 作品内容: 一款手机应用：人们拍摄蚊子和孳生地，专家审核后用于追踪入侵的白纹伊蚊和埃及伊蚊。
+- 实现方式: 照片报告由昆虫学家与 AI 审核，数据供欧洲各地公共卫生机构使用。
+- 论文: https://doi.org/10.1038/s41467-017-00914-9 (Nature Communications 2017)
+- 视频: https://www.youtube.com/watch?v=HCQs_qzKNUo
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosquito_Alert_coverage_in_Europe.jpg/960px-Mosquito_Alert_coverage_in_Europe.jpg
+- 项目主页: https://www.mosquitoalert.com/en/
+
+#### Penguin Watch — Zooniverse (2014)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 在家点击企鹅，就能监测整个海洋生态系统。
+- 作品内容: 一个 Zooniverse 项目：志愿者在南极及南大洋企鹅繁殖地的延时相机图像中标注成鸟、雏鸟和蛋。
+- 实现方式: 由牛津大学 Penguinwatch 团队运行的远程延时相机；志愿者点击被聚类并用于训练计数模型。
+- 论文: https://doi.org/10.1038/sdata.2018.124 (Scientific Data 2018)
+- 视频: https://www.youtube.com/watch?v=jA95ChRG6P0
+- 项目主页: https://www.zooniverse.org/projects/penguintom79/penguin-watch
+
+#### Floracaching (Biotracker) — Anne Bowser, Jennifer Preece (2013)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 借用流行户外游戏的机制，招募新类型的志愿者。
+- 作品内容: 一款受地理寻宝启发的游戏化手机应用（又名 Biotracker）：玩家寻找并记录植物以收集物候数据，并在初次接触公民科学的千禧一代中进行了测试。
+- 实现方式: 带积分与社交功能的游戏化物候应用，在马里兰大学评估其动机与学习效果。
+- 论文: https://doi.org/10.1145/2583008.2583011 (Gamification 2013)
+- 视频: https://www.youtube.com/watch?v=IWb1y9HHu3o
+
+#### Virtual Birding — Margot Brereton (2013)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 让擅长听鸟的人远程标注声景。
+- 作品内容: Mark Cottman-Fields、Margot Brereton 与 Paul Roe 的 CHI 论文：让观鸟者在线从长时间的环境录音中识别鸟类，把观鸟延伸到野外之外。
+- 实现方式: 用于浏览声谱图、在声学传感器录音中标注鸟鸣的网页工具，并与观鸟者一起研究。
+- 论文: https://doi.org/10.1145/2470654.2466268 (CHI 2013)
+- 图片: https://figures.semanticscholar.org/163694826bc942c9ca1aa0707ae3f684c3683bf2/4-Figure2-1.png
+
+#### Leafsnap — Peter N. Belhumeur (2011)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 手机相机可以在日常识别中替代植物检索表。
+- 作品内容: 一款电子野外图鉴应用，只需在白色背景上拍一片叶子，就能识别美国东北部的树种。
+- 实现方式: 由哥伦比亚大学、马里兰大学和史密森尼学会开发：叶片分割与基于曲率的形状特征，与物种图像库进行匹配。
+- 论文: https://doi.org/10.1007/978-3-642-33709-3_36 (ECCV 2012)
+- 视频: https://www.youtube.com/watch?v=k02C7p7mQ_c
+
+#### Snapshot Serengeti — Zooniverse (2010)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 透过一台野生动物相机，任何人都可以成为野外研究者。
+- 作品内容: 一个 Zooniverse 项目：志愿者为坦桑尼亚塞伦盖蒂国家公园 225 台相机拍摄的数百万张陷阱照片分类，识别物种、数量和行为。
+- 实现方式: 由明尼苏达大学狮子项目运行的相机陷阱网格；每张图像由多名志愿者投票，汇总为共识标签。
+- 论文: https://doi.org/10.1038/sdata.2015.26 (Scientific Data 2015)
+- 视频: https://www.youtube.com/watch?v=ENOORZRxtAg
+- 项目主页: https://www.zooniverse.org/projects/zooniverse/snapshot-serengeti
+
+#### iNaturalist — iNaturalist (2008)
+- 类型: 产品与平台 · 生物: 动物, 植物, 真菌
+- 核心想法: 让每一张自然照片都成为他人可以帮忙命名的共享观察。
+- 作品内容: 一个社交网络和应用：人们上传任何生物的照片，由计算机视觉和其他用户协助鉴定，形成科研级的生物多样性记录。
+- 实现方式: 社区鉴定加上用社区自身标注照片训练的计算机视觉模型，数据汇入 GBIF。
+- 视频: https://www.youtube.com/watch?v=DUfobESjj6s
+- 图片: https://static.inaturalist.org/sites/1-shareable_image.png
+- 项目主页: https://www.inaturalist.org/
+
+#### Budburst — Budburst (Chicago Botanic Garden) (2007)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 一次次回到同一株植物身边，既积累数据，也积累情感。
+- 作品内容: 一个项目：志愿者全年观察同一批植物，记录发叶、开花和结果的时间，追踪气候对植物物候的影响。
+- 实现方式: 网页与应用提供物候期观测规程，由芝加哥植物园运营（最初与 NEON 和 UCAR 合作）。
+- 视频: https://www.youtube.com/watch?v=Xzr-T-vjkPs
+- 图片: https://budburst.org/storage/statamic/hero-visual600.png
+- 项目主页: https://budburst.org/
+
+#### Globe at Night — NSF NOIRLab (Globe at Night) (2006)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: 夜空也是自然，数星星就是在测量它的消失。
+- 作品内容: 一项国际活动：人们把自己能看到的星星与星图对照并上报，由此绘制光污染地图。
+- 实现方式: 网页应用提供选定星座的星等图；数据与卫星测得的天空亮度相比较。
+- 视频: https://www.youtube.com/watch?v=Pssub176uUY
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/City_Lights_2012_-_Flat_map_crop.jpg/960px-City_Lights_2012_-_Flat_map_crop.jpg
+- 项目主页: https://globeatnight.org/
+
+#### eBird — Cornell Lab of Ornithology, National Audubon Society (2002)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 通过要求完整清单与观察投入数据，把一项爱好的个人记录变成科学。
+- 作品内容: 一个全球在线观鸟清单系统：观鸟者记录所见所闻，数亿条记录汇成鸟类分布与数量的地图。
+- 实现方式: 带有观察投入元数据的网页与手机清单，配合自动过滤与专家审核；数据被建模为 eBird Status and Trends。
+- 论文: https://doi.org/10.1016/j.biocon.2009.05.006 (Biological Conservation 2009)
+- 视频: https://www.youtube.com/watch?v=-t-0xAjxakw
+- 项目主页: https://ebird.org/
+
+#### Great Backyard Bird Count — Cornell Lab of Ornithology, National Audubon Society (1998)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 一个时间短、有边界的活动让参与更容易，并形成一张全球快照。
+- 作品内容: 每年二月为期四天的活动：任何人观鸟至少 15 分钟并在线提交清单；它是第一个近乎实时公布结果的在线公民科学项目。
+- 实现方式: 通过网页提交（现通过 eBird 与 Merlin），活动期间汇总成实时地图。
+- 视频: https://www.youtube.com/watch?v=jW9ew3TKV1E
+- 项目主页: https://www.birdcount.org/
+
+#### BioBlitz — Sam Droege (1996)
+- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
+- 核心想法: 时间压力和共同目标，把物种调查变成了一场节日。
+- 作品内容: 一场 24 小时的竞赛：科学家与公众一起尝试记录某一区域内的所有物种；第一次于 1996 年在华盛顿特区的 Kenilworth Aquatic Gardens 举行。
+- 实现方式: 由美国国家生物服务处的 Sam Droege 与 Susan Rudy 共同设计的活动形式，后来与国家地理和美国国家公园管理局合作举办。
+- 视频: https://www.youtube.com/watch?v=yVVIlfNFLhs
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BioBlitz_Auckland_2005.jpg/960px-BioBlitz_Auckland_2005.jpg
+- 项目主页: https://en.wikipedia.org/wiki/BioBlitz
+
+#### Christmas Bird Count — National Audubon Society (1900)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 用计数的仪式取代狩猎的仪式。
+- 作品内容: 由鸟类学家 Frank Chapman 发起，用来替代圣诞节的“猎鸟比赛”：志愿者在冬季某一天统计直径 15 英里圆圈内的所有鸟，自 1900 年起年年举行。
+- 实现方式: 固定的计数圆圈，由小组和汇编人执行；结果构成最长的野生动物数据集之一。
+- 视频: https://www.youtube.com/watch?v=zkn0rzRfwFw
+- 图片: https://media.audubon.org/2024-01/Web_Aud_CBC-Colombia_231220_39_Photo-Luis-Bernardo-Cano.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale
+- 项目主页: https://www.audubon.org/community-science/christmas-bird-count
+
+### 园艺、种植与植物照料
+
+用于种植食物和植物、并在日常中照料它们的技术。
+
+#### Biomenstrual, Collecting — Nadia Campo Woytuk (2023)
+- 类型: 研究原型 · 生物: 人体, 植物, 生态系统
+- 核心想法: 经血是其他物种的养分，而不是废物。
+- 作品内容: 手工制作的工具，用来收集和储存经血，再稀释后浇灌植物，把月经重新看作人、土壤与植物共同生计的一部分。
+- 实现方式: 通过第一人称、女性主义后人类研究进行设计；用生物材料和陶瓷制作收集容器与护垫，记录在 Biomenstrual 项目中。
+- 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=r9TaL5jPR50
+- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Biomenstrual, Composting — Nadia Campo Woytuk (2023)
+- 类型: 研究原型 · 生物: 人体, 植物, 生态系统
+- 核心想法: 为其在土壤中的“来世”而设计的护垫。
+- 作品内容: 嵌有种子的可降解月经护垫，使用后被埋入土中，把人体的养分和种子还给大地，让植物从中长出。
+- 实现方式: 用生长型与植物基生物材料加种子制成护垫，通过第一人称使用和埋入花园进行测试。
+- 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
+- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Garden Planner — Geertje Slingerland (2023)
+- 类型: 研究原型 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 一个替花园的生物多样性说话的规划工具。
+- 作品内容: 一个网页工具，根据花园大小和土壤推荐合适的植物，把居民的种植引向生物多样性和传粉昆虫。
+- 实现方式: 居民输入花园尺寸和土壤条件，规划器推荐植物种类和布局；在 BULL 方法框架内开发。
+- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
+- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Nature Fictions — Margot Brereton (2023)
+- 类型: 论文 · 生物: 植物, 动物, 人体
+- 核心想法: 从你自家花园中的种种关系出发去构想未来。
+- 作品内容: Shannon Rodgers、Kellie Vella、Bernd Ploderer 与 Margot Brereton 的 DIS 论文：15 位园丁借助物候轮、自然卡片和纸原型，想象把非人类利益相关者纳入其中的可持续未来。
+- 实现方式: 在花园中进行的共同设计工作坊；成果归为三个设计空间：社群建设、多物种照料，以及公共空间中的平衡。
+- 论文: https://doi.org/10.1145/3563657.3595981 (DIS 2023)
+- 图片: https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/5-Figure1-1.png https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/8-Figure3-1.png
+
+#### Extended Reality to Connect Experts and Novices in the Garden — Hanuma Teja Maddali (2022)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 远程专业知识在锚定于新手眼前那株真实植物时效果最好。
+- 作品内容: 一项 CSCW 研究，探讨混合现实视频通话与标注如何让资深园丁远程指导新手打理自家花园。
+- 实现方式: 两项研究，27 位资深与新手园丁使用 XR 原型。
+- 论文: https://doi.org/10.1145/3555211 (CSCW 2022 (PACM HCI))
+- 视频: https://www.youtube.com/watch?v=JsML7fET8PQ
+
+#### Networked Gardens — Margot Brereton (2022)
+- 类型: 研究原型 · 生物: 植物, 动物, 生态系统
+- 核心想法: 本地自然数据只有被展示回它所来自的花园时，才变得有意义。
+- 作品内容: Kellie Vella 等人的 DIS 研究：八名参与者使用 Ambient Birdhouse 和花园传感器，去留意、分享并探索家附近的自然数据。
+- 实现方式: 物联网鸟屋与传感器，配合访谈和小组讨论；分析媒介“再媒介化”如何为自然数据打开不同的入口。
+- 论文: https://doi.org/10.1145/3532106.3533497 (DIS 2022)
+- 视频: https://www.youtube.com/watch?v=rIY5n2YPJq4
+
+#### Sociality and Skill Sharing in the Garden — Hanuma Teja Maddali (2020)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 园丁按社交偏好布置花园，花园本身也在教导看到它的人。
+- 作品内容: 与 Amanda Lazar 合作的 CHI 论文，研究资深园丁如何分享具身技能、帮助他人调谐感官线索，以及社会性技术可以补充什么。
+- 实现方式: 对九位 22 至 71 岁资深园丁的参与式观察。
+- 论文: https://doi.org/10.1145/3313831.3376246 (CHI 2020)
+- 图片: https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png
+
+#### Of Smarthomes, IoT Plants, and Implicit Interaction Design — Ilhan Aslan (2019)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 保留对人有益的照料习惯，去增强它们，而不是把它们自动化。
+- 作品内容: Björn Bittner、Ilhan Aslan 等人的 TEI 论文：增强室内植物的非语言信号，提醒人去浇水，而不是把浇水自动化掉。
+- 实现方式: 24 名参与者的实地研究，比较增强现实方案与嵌入植物的物理计算方案。
+- 论文: https://doi.org/10.1145/3294109.3295618 (TEI 2019)
+- 图片: https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png
+
+#### Insectology: Food for Buzz — Matilde Boelhouwer (2017)
+- 类型: 研究原型 · 生物: 昆虫
+- 核心想法: 按昆虫的眼睛和口器来设计花，而不是按人的审美。
+- 作品内容: 五种装在城市墙面上的彩色人造花，分别按蜜蜂、熊蜂、食蚜蝇、蝴蝶和蛾这“五大传粉者”的喜好设计形状与颜色，并补充糖水作为应急食物来源。
+- 实现方式: 与工程师和生物学家合作，按每种昆虫的口器长度和色觉调整花形、颜色与花蜜深度；由雨水补给的储液器提供糖水。
+- 视频: https://www.youtube.com/watch?v=ggnKu3snciM
+- 图片: https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz_photography-janneke-van-der-pol.jpg https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz1_photography-janneke-van-der-pol.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### FarmBot — FarmBot (2016)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 让菜园可编程，再追问：由机器人来照料时，照料意味着什么。
+- 作品内容: 一个开源龙门式机器人，架在菜畦上方，根据网页应用中绘制的菜园规划来播种、浇水、除草和拍摄植物。
+- 实现方式: 类数控 x-y-z 龙门结构，可更换工具头，由 Raspberry Pi 与 Arduino 控制，设计与软件均开源。
+- 视频: https://www.youtube.com/watch?v=BqYrAWssrrY
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/FarmBot_Genesis_indoors.jpg/960px-FarmBot_Genesis_indoors.jpg
+- 项目主页: https://farm.bot/
+
+#### GROW Observatory — GROW Observatory (2016)
+- 类型: 产品与平台 · 生物: 植物, 生态系统, 人体
+- 核心想法: 种植者的菜园可以是一个分布式的气候观测站。
+- 作品内容: 一个欧洲项目：数千名种植者在自家菜园和农场放置低成本土壤传感器并开展种植实验，为卫星土壤湿度数据提供地面实测。
+- 实现方式: Parrot Flower Power 传感器、在线课程（MOOC）以及连接欧洲航天局 Sentinel-1 任务的数据平台。
+- 视频: https://www.youtube.com/watch?v=gRkFnRo-WZg
+- 项目主页: https://growobservatory.org/
+
+#### Lua Smart Planter — Mu Design (2016)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 赋予植物情绪，让人一眼读懂它的需求，但也可能把它变成一只宠物。
+- 作品内容: 一个带小屏幕的花盆，屏幕显示卡通表情：根据土壤湿度、温度和光照，植物会显得口渴、发冷或开心。
+- 实现方式: 花盆中的传感器驱动小型点阵屏上的动画表情，并配有配套应用。
+- 视频: https://www.youtube.com/watch?v=kAPTF25rn4s
+
+#### Personal Food Computer (MIT OpenAg) — Caleb Harper (2015)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 气候可以被当作代码，但关于它的说法需要证据。
+- 作品内容: 一个密封的种植舱，控制光照、湿度、温度和二氧化碳，运行可分享的作物“气候配方”；该项目在被批评夸大成果后于 2020 年关闭。
+- 实现方式: MIT 媒体实验室的开源硬件种植舱，配有传感器、执行器和数据平台。
+- 视频: https://www.youtube.com/watch?v=LO5Box9phW8
+- 项目主页: https://en.wikipedia.org/wiki/Open_Agriculture_Initiative
+
+#### Plantix — Plantix (PEAT) (2015)
+- 类型: 产品与平台 · 生物: 植物, 真菌, 昆虫
+- 核心想法: 手机相机能把植物病理学带给从未见过农艺师的农民。
+- 作品内容: 一款作物健康应用，通过照片诊断植物病害、虫害与营养问题并给出处理建议，主要被印度的小农户使用。
+- 实现方式: 基于大规模众包作物症状图像库的深度学习，并配有社区问答。
+- 视频: https://www.youtube.com/watch?v=0tQ__k3G17g
+- 图片: https://plantix.net/en/assets/images/hero-farmer-cut-international.png
+- 项目主页: https://plantix.net/en/
+
+#### The Talking Plants — Sara Heitlinger (2014)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 植物可以成为社区在地知识的讲述者。
+- 作品内容: 伦敦 Spitalfields 城市农场的一个交互系统：访客用带 RFID 的浇水壶靠近植物，就能听到植物用农场员工和志愿者的声音讲述照料方法、用途与历史。
+- 实现方式: 带 RFID 的浇水壶触发录制的植物声音，与草根种植社区共同开发。
+- 论文: https://doi.org/10.1145/2559206.2574792 (CHI EA 2014)
+- 视频: https://www.youtube.com/watch?v=ygndjz_Zm-8
+
+#### Parrot Flower Power — Parrot (2013)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 把土壤与光照转化为简单的提醒，让新手不再养死植物。
+- 作品内容: 一个叶子形状的蓝牙传感器，插入花盆或苗床，测量土壤湿度、肥力、光照和温度，并告诉主人植物需要什么。
+- 实现方式: 电池供电的传感器，配有连接数千种植物数据库的手机应用。
+- 视频: https://www.youtube.com/watch?v=q_5F4w3rWFQ
+
+#### "Mate, we don't need a chip to tell us the soil's dry" — William Odom (2010)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 城市种植者看重亲手获得的知识；设计应支持他们的社群目标，而不是把查看土壤这件事自动化。
+- 作品内容: 一篇 DIS 论文，基于对城市农业社群的民族志田野工作与参与式设计工作坊；社群成员大多抗拒在种植实践中引入技术。
+- 实现方式: 与社区园丁开展田野工作和设计工作坊，分析其中的价值观以及可持续 HCI 的机会。
+- 论文: https://doi.org/10.1145/1858171.1858211 (DIS 2010)
+
+#### Click & Grow Smart Garden — Click & Grow (2010)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 把园丁的知识装进胶囊和灯里。
+- 作品内容: 一个台面花园：预置种子的土壤胶囊、水箱和补光灯按固定光照程序运行，几乎不需技巧就能种出香草和蔬菜。
+- 实现方式: 受 NASA 植物研究启发的吸水“智能土壤”、定时 LED 照明和可更换的种子胶囊。
+- 视频: https://www.youtube.com/watch?v=dCIFt8qNT3Y
+- 项目主页: https://www.clickandgrow.com/
+
+#### Distributed Robotic Garden — Daniela Rus (2010)
+- 类型: 研究原型 · 生物: 植物
+- 核心想法: 让植物呼叫照料，让一群机器人来回应。
+- 作品内容: MIT CSAIL 的一个番茄花园，由小型移动机器人浇水、定位和采摘果实，每株植物都联网，可以“请求”照料。
+- 实现方式: 带机械臂和摄像头的 iRobot Create 底盘、带土壤传感器的花盆以及无线网状网络。
+- 视频: https://www.youtube.com/watch?v=Fg0l9ovFpBI
+
+### 感知他者的世界
+
+让人以其他生命的方式感知世界的体验：回声定位、紫外视觉、磁感、植物的时间尺度。
+
+#### A Tree's Perspective — Lisa L. Townsend (2026)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 进入另一个身体的过渡过程，可能与最终抵达的身体同样重要。
+- 作品内容: 一篇 CHI 论文，测试一个多感官 VR 体验：让人从自己的身体过渡到一棵树的视角，并考察它对自然联结的影响。
+- 实现方式: 混合方法 VR 研究（N = 20），改变过渡元素与多感官刺激；两者都提升了临场感、具身感与自然联结，情感联结的提升在一周后仍在。
+- 论文: https://doi.org/10.1145/3772318.3790282 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png
+
+#### EchoVision + Nocturnal Fugue — Jiabao Li (2024)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 要理解另一个物种，就去借用它的感官，而不只是它的形象。
+- 作品内容: 一副混合现实蝙蝠面具，让人通过喊叫来“看见”：声音的回声被可视化，模拟蝙蝠感知周围环境的方式。配套作品《夜曲赋格》是一场基于 AI 蝙蝠语言研究的表演。
+- 实现方式: 蝙蝠形面具基于开源 HoloKit 头显，在 iPhone 上把声音的音高和响度映射为空间回声可视化，可在黑暗中使用。
+- 论文: https://doi.org/10.1145/3680530.3695460 (SIGGRAPH Asia 2024 Art Papers)
+- 视频: https://www.youtube.com/watch?v=7LqsKpEZy4g
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg
+- 项目主页: https://www.jiabaoli.org/nocturnal-fugue
+
+#### Treesense — Michaela Honauer (2024)
+- 类型: 研究原型 · 生物: 植物, 人体
+- 核心想法: 让孩子用身体变成一棵树，从而理解树。
+- 作品内容: 一套由织物部件和可编程传感器组成的模块化服装，孩子可以把自己“变成”一棵树，通过光、声和振动像树一样感受阳光、风和水。
+- 实现方式: 内嵌传感器和执行器的织物模块在角色扮演中把环境输入映射为触觉、声音和光的反馈。
+- 论文: https://doi.org/10.1145/3628516.3659425 (IDC 2024)
+- 图片: https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### An Immense World — Ed Yong (2022)
+- 类型: 书与文章 · 生物: 动物, 昆虫
+- 核心想法: 为其他物种设计，要从承认人类感知有多狭窄开始。
+- 作品内容: 一本书，巡游动物的各种感官，从紫外视觉、回声定位到电感与磁感，揭示人类错过了世界的多少部分。
+- 实现方式: 基于对感官生物学家的采访和实验室探访写成的科学报道。
+- 视频: https://www.youtube.com/watch?v=dVPN165wz1Y
+- 图片: https://covers.openlibrary.org/b/id/12835209-L.jpg?default=false
+- 项目主页: https://edyong.me/an-immense-world
+
+#### VR videos of animal vision — Haruka Kasuga (2020)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 让人“借用”另一种动物的眼睛，同时坦承这种模拟只是近似。
+- 作品内容: 模拟乌龟、陆龟、壁虎和青蛙的视力、色觉与动态视觉的 360° 虚拟现实影像，在动物园工作坊和科学节上展示。
+- 实现方式: 依据各物种视觉的科学知识，对实景拍摄的影像做模糊、改色或基于运动检测的遮罩处理；235 名观众填写了问卷。
+- 论文: https://doi.org/10.1145/3446002.3446120 (ACI 2020)
+- 图片: https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure1-1.png https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure2-1.png
+- 项目主页: https://doi.org/10.1145/3446002.3446120
+
+#### Rewilding Wearables (Cyborganic BW-V2) — Patricia (Tricia) Flanagan, Raune Frankjær (2018)
+- 类型: 研究原型 · 生物: 昆虫, 生态系统, 人体
+- 核心想法: 一个让人像昆虫那样感知景观的“义肢头”。
+- 作品内容: 一件带传感器和执行器的竹编头饰，佩戴者在再野化的土地上行走时，它会把人引向对昆虫友好的地方，仿佛透过昆虫的感官看这片土地。
+- 实现方式: 由竹子和电子元件手工制成、看似有自主行为的“cyborganic”装置；在奥胡斯绿地中通过引导式行走进行测试。
+- 论文: https://doi.org/10.1145/3173225.3173316 (TEI 2018)
+- 图片: https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### GoatMan: A Holiday from Being Human — Thomas Thwaites (2016)
+- 类型: 思辨设计 · 生物: 动物, 人体
+- 核心想法: 尝试变成另一种动物并失败，能同时教会人谦逊与幽默。
+- 作品内容: 设计师制作了假肢和人工瘤胃，并与一群山羊一起在瑞士阿尔卑斯山中行走数日，试图体验作为山羊的生活。
+- 实现方式: 与假肢师一起定制假肢，咨询神经科学家与动物行为学家，并在阿尔卑斯山做田野。
+- 视频: https://www.youtube.com/watch?v=-IPub-Fipz8
+- 图片: https://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/GoatMan_cover-web640.jpg
+- 项目主页: https://www.thomasthwaites.com/a-holiday-from-being-human-goatman/
+
+#### North Sense — Cyborg Nest (2016)
+- 类型: 产品与平台 · 生物: 人体, 动物
+- 核心想法: 把一种新感官作为可以与之共同生活的东西出售，而不是一件工具。
+- 作品内容: 一个通过穿孔固定在胸前的小装置，佩戴者面朝磁北时就会振动，是候鸟磁感的消费版本。
+- 实现方式: 硅胶外壳中的指南针传感器与振动马达，用钛金属棒固定。
+- 视频: https://www.youtube.com/watch?v=0xPMpKxd1R8
+- 项目主页: https://www.cyborgnest.net/
+
+#### In the Eyes of the Animal — Marshmallow Laser Feast (2015)
+- 类型: 艺术作品 · 生物: 动物, 昆虫, 生态系统
+- 核心想法: 走进另一个生物的“环境界”，才会明白人类视角只是众多视角之一。
+- 作品内容: 一段穿越格里泽代尔森林的 VR 旅程，依次通过蚊子、蜻蜓、青蛙和猫头鹰的感官去看。
+- 实现方式: 用激光雷达、无人机和 360° 相机采集森林，实时渲染为点云，配以野外录音制作的双耳声，并结合触觉与气味。
+- 视频: https://www.youtube.com/watch?v=XJMA0Nj_zsA
+- 图片: https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46-1024x574.jpg
+- 项目主页: https://www.marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/
+
+#### Birdly — Max Rheiner (2014)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 不是操控一台机器，而是成为那只鸟。
+- 作品内容: 一台全身飞行模拟器：使用者俯卧，用双臂当翅膀扇动，以赤鸢的身份飞越城市，风迎面吹来。
+- 实现方式: 手臂和手的动作驱动鸟类飞行模型；平台随之俯仰、侧倾和升降，头戴显示器、风扇、声音和气味加强了身体代入。
+- 视频: https://www.youtube.com/watch?v=rzBUvydKUAA
+- 项目主页: https://www.rs-online.com/designspark/birdly-making-a-flying-virtual-reality-experience-truly-immersive
+
+#### Animal Superpowers — Chris Woebken, Kenichi Okada (2007)
+- 类型: 思辨设计 · 生物: 动物, 昆虫, 人体
+- 核心想法: 设计让人借用其他物种感知方式的“义肢”。
+- 作品内容: 一组让孩子体验动物感官的可穿戴装置：“蚂蚁”装置把手触摸到的东西放大五十倍，“鸟”装置感知磁北，“长颈鹿”装置把眼睛抬到成人的高度。
+- 实现方式: 在皇家艺术学院制作的原型：连接护目镜的手持显微摄像头、由指南针驱动的震动帽和潜望镜头盔。
+- 视频: https://www.youtube.com/watch?v=L9oTcez2CXU
+- 图片: https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg
+- 项目主页: https://www.chriswoebken.com/animal-superpowers
+
+#### feelSpace Belt — Peter König (2005)
+- 类型: 研究原型 · 生物: 人体, 动物
+- 核心想法: 只要佩戴得够久，人也能学会其他动物拥有的感官。
+- 作品内容: 一条装有振动马达的腰带，朝北的那个马达始终振动；佩戴数周后，参与者报告自己的空间感发生了变化。
+- 实现方式: 电子罗盘驱动 13 个振动触觉单元；为期六周的训练研究，含睡眠与导航测试。
+- 论文: https://doi.org/10.1088/1741-2560/2/4/r02 (Journal of Neural Engineering 2005)
+- 视频: https://www.youtube.com/watch?v=0po8YOA-17U
+- 项目主页: https://www.feelspace.de/en/
+
+#### Eyeborg (Cyborg Antenna) — Neil Harbisson (2004)
+- 类型: 艺术作品 · 生物: 人体
+- 核心想法: 一种新的感官可以成为一个人身体与身份的一部分。
+- 作品内容: 一根与 Harbisson 颅骨骨融合的天线，把光的频率（包括红外和紫外）转换为他通过骨传导听到的声音振动。
+- 实现方式: 天线上的摄像头传感器连接芯片，把色相映射为音高，并通过骨传导和蓝牙接收远程颜色输入。
+- 视频: https://www.youtube.com/watch?v=ygRNoieAnzI
+- 项目主页: https://www.cyborgarts.com/
+
+#### What Is It Like to Be a Bat? — Thomas Nagel (1974)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 感官模拟可以接近另一种动物的世界，却无法进入它的体验。
+- 作品内容: 一篇哲学论文，认为即便我们知道关于蝙蝠回声定位的一切，也无法知道成为蝙蝠是什么感觉。
+- 实现方式: 关于主观体验与物理解释之局限的哲学论证。
+- 论文: https://doi.org/10.2307/2183914 (The Philosophical Review 1974)
+
+#### A Foray into the Worlds of Animals and Humans — Jakob von Uexküll (1934)
+- 类型: 书与文章 · 生物: 动物, 昆虫, 人体
+- 核心想法: 每种生物都生活在不同的世界中，设计可以让我们去拜访其中一些。
+- 作品内容: 一本配有插图的小书，描述蜱虫、蜜蜂或狗如何各自生活在自己的感官世界（环世界）中，这个世界只由它能感知并作出反应的信号构成。
+- 实现方式: 用思想实验和插图（与 Georg Kriszat 合作）对比同一场景在不同物种眼中的样子。
+- 图片: https://covers.openlibrary.org/b/isbn/9780816659005-L.jpg?default=false
+- 项目主页: https://www.upress.umn.edu/9780816659005/a-foray-into-the-worlds-of-animals-and-humans/
+
+### 环境感知与生态反馈
+
+让空气、水、土壤、气候和生物多样性的数据在日常生活中被感受到。
+
+#### ActuAir — Eleni Margariti (2024)
+- 类型: 研究原型 · 生物: 人体
+- 核心想法: 当空气质量改变房间的形状时，它就会被注意到。
+- 作品内容: 一块安装在智能办公楼中的大型变形变色显示装置，随空气质量数据变化，并与在那里工作的人一起评估。
+- 实现方式: 2022 年 6 至 8 月与 21 名使用者进行的三项原型研究，并作主题分析。
+- 论文: https://doi.org/10.1145/3613904.3642396 (CHI 2024)
+- 视频: https://www.youtube.com/watch?v=ezX6QCKcnlA
+
+#### Salt Minds — College for Creative Studies Biodesign Challenge team (2024)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 一套共享的颜色语言能让看不见的污染变得可读。
+- 作品内容: 为芒塞尔土壤比色系统增补的一套色卡，用颜色作为盐分破坏淡水生态系统的证据，连接科学家、政策制定者和公众。
+- 实现方式: 对受道路融雪盐影响的土壤和沉积物样本进行编目，并转译成色卡。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644770738-RY1DC5B6L3C6GCUKX7TY/Screenshot+2024-06-17+at+1.17.54+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644772306-IQL7KKUG72RJSRO3Q9OH/Screenshot+2024-06-17+at+1.18.07+PM.png
+- 项目主页: https://www.biodesignchallenge.org/college-for-creative-studies-2024
+
+#### CoCo: Compost Companion — Debbie Jung (2023)
+- 类型: 论文 · 生物: 细菌与微生物, 人体
+- 核心想法: 一个有情绪的伙伴能让堆肥像是在照顾某个生命。
+- 作品内容: CoCo 是一个像小动物的可穿戴伙伴，用 GPS 标出校园堆肥点，显示学生堆肥或浪费了多少食物，堆肥做得好时它会摇尾巴。
+- 实现方式: 通过 GPS、OLED 屏和舵机驱动的尾巴，提供信息与情感反馈。
+- 论文: https://doi.org/10.1145/3544549.3583945 (CHI EA 2023)
+- 图片: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png
+
+#### Me, the Hill and my Browser — Patricia Ciobanu (2022)
+- 类型: 研究原型 · 生物: 生态系统, 植物
+- 核心想法: 让自然的缓慢变化渗入快节奏的屏幕时间。
+- 作品内容: 斯德哥尔摩附近一座山丘上的传感器连到一个浏览器插件，随着室外湿度、光线和温度变化改变设计者所访问网站的外观，有时让网页难以阅读。
+- 实现方式: 湿度、温度、光照和土壤湿度传感器把数据传给浏览器插件；通过自传式设计和在山丘上的出声思考行走进行研究。
+- 论文: https://doi.org/10.1145/3546155.3546651 (NordiCHI 2022)
+- 图片: https://figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### SpreeBerlin – The Voice of a River — Jakob Kukula (2021)
+- 类型: 研究原型 · 生物: 生态系统
+- 核心想法: 只要为河流造一个“麦克风”，它就能为自己说话。
+- 作品内容: 一个由传感浮标、应用和网站组成的系统，让柏林施普雷河向市民报告自身的污染与状态，赋予河流“政治”声音。
+- 实现方式: 浮标上的测量设备记录水质，并实时推送到易于理解的公共界面。
+- 图片: https://ars.electronica.art/starts-prize/files/2022/06/SpreeBerlin_Couple-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/spreeberlin/
+
+#### Firefly Sign (street lighting switched off for glow worms) — Marcus Foth (2018)
+- 类型: 产品与平台 · 生物: 昆虫
+- 核心想法: 有时，为其他物种所做的设计就是关掉技术。
+- 作品内容: 路边的告示牌说明：五月至九月某条小路的路灯会关闭，好让萤火虫找到配偶；夜里在那里骑车或步行的人需要自己适应。
+- 实现方式: 英国南格洛斯特郡在繁殖季关闭路灯的政策，并以告示牌向公众说明；Foth 与 Caldwell 引用了这一案例。
+- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
+- 图片: https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Community-Empowered Air Quality Monitoring System — CMU CREATE Lab (2017)
+- 类型: 研究原型 · 生物: 人体, 生态系统
+- 核心想法: 让社区自己去看见、感知并记录他们的空气。
+- 作品内容: 一个系统，结合工业设施排烟的延时视频、社区空气传感器与异味报告，让居民为污染事件建立证据。
+- 实现方式: 连接高清摄像头、低成本传感器与众包报告的网页平台，与匹兹堡居民共同开发。
+- 论文: https://doi.org/10.1145/3025453.3025853 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=6JPGIyz42JY
+
+#### Pigeon Air Patrol — Plume Labs (2016)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 城市中的动物可以成为空气信使，传递大家都在呼吸的空气状况。
+- 作品内容: 伦敦的赛鸽背着测量二氧化氮和臭氧的微型背包，人们可以给鸽子发推文，获取实时空气质量读数。
+- 实现方式: 轻量传感器与 GPS 背包，配合推特机器人，与 DigitasLBi 和 Twitter UK 合作完成。
+- 视频: https://www.youtube.com/watch?v=azAvor72l0w
+
+#### Smell Pittsburgh — CMU CREATE Lab (2016)
+- 类型: 产品与平台 · 生物: 人体
+- 核心想法: 人的鼻子就是污染传感器，集体的报告会成为证据。
+- 作品内容: 一款应用：居民为难闻气味打分并描述，报告与空气监测数据一起标注在地图上，并发送给县卫生部门。
+- 实现方式: 手机报告应用、地图可视化，以及根据传感器数据预测异味事件的机器学习。
+- 论文: https://doi.org/10.1145/3301275.3302293 (IUI 2019)
+- 视频: https://www.youtube.com/watch?v=aOPyPfjJhBs
+- 项目主页: https://smellpgh.org/
+
+#### Treepedia — MIT Senseable City Lab (2016)
+- 类型: 产品与平台 · 生物: 植物, 人体
+- 核心想法: 从行人的视线高度而不是从空中去衡量城市自然。
+- 作品内容: 一个网站，利用谷歌街景图像测量城市街道的“绿视率”，并比较各城市的树冠覆盖。
+- 实现方式: 对街景图像进行计算机视觉分割，统计植被像素，并按路段制图。
+- 视频: https://www.youtube.com/watch?v=iDzQ-zbThSg
+- 图片: http://senseable.mit.edu/treepedia/assets/og.png
+- 项目主页: https://senseable.mit.edu/treepedia
+
+#### Sensor.Community (Luftdaten) — Sensor.Community (2015)
+- 类型: 产品与平台 · 生物: 人体
+- 核心想法: 一套便宜、文档完善的套件，可以扩展成覆盖整个大陆的感知网络。
+- 作品内容: 一个由自制颗粒物传感器组成的志愿者网络，始于斯图加特，如今在 70 多个国家拥有数万个传感器，显示在实时地图上。
+- 实现方式: NodeMCU 微控制器配 SDS011 颗粒物传感器，装在排水管外壳中，上传到开放数据服务器。
+- 视频: https://www.youtube.com/watch?v=6ul4v3iNVe0
+- 项目主页: https://sensor.community/en/
+
+#### Global Forest Watch — World Resources Institute (2014)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 让任何人几乎实时地看到森林的消失。
+- 作品内容: 一个开放的在线平台，基于卫星数据展示全球树木覆盖的减少与毁林预警，每周更新。
+- 实现方式: 基于 Landsat 的树木覆盖变化图（马里兰大学）与 GLAD 预警，呈现在可订阅的网页地图上。
+- 视频: https://www.youtube.com/watch?v=lTG-0brb98I
+- 图片: https://www.globalforestwatch.org/preview.jpg
+- 项目主页: https://www.globalforestwatch.org/
+
+#### Rainforest Connection Guardian — Rainforest Connection (2014)
+- 类型: 产品与平台 · 生物: 生态系统, 动物
+- 核心想法: 给森林装上耳朵和电话线，让它能实时报告伤害。
+- 作品内容: 带太阳能板的回收智能手机被挂在雨林高处的树上持续监听；一旦听到电锯或卡车声，护林员就会收到警报，录音还可用来追踪野生动物。
+- 实现方式: 太阳能驱动的 Android“Guardian”设备通过移动网络把音频传到云端模型，检测非法采伐和物种叫声。
+- 视频: https://www.youtube.com/watch?v=xPK2Ch90xWo
+- 图片: https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png
+- 项目主页: https://rfcx.org/
+
+#### Smart Citizen Kit — Fab Lab Barcelona (2012)
+- 类型: 产品与平台 · 生物: 人体, 生态系统
+- 核心想法: 关于一个街区的环境数据，可以由住在那里的人来生产。
+- 作品内容: 一套开源传感器套件，居民装在家中测量空气质量、噪声、光照和温度，并分享到公共地图上。
+- 实现方式: 兼容 Arduino 的主板，搭载气体、颗粒物和声音传感器，通过 Wi-Fi 上传到开放数据平台。
+- 视频: https://www.youtube.com/watch?v=pAUvh1aY-oY
+- 项目主页: https://smartcitizen.me/
+
+#### Safecast — Safecast (2011)
+- 类型: 产品与平台 · 生物: 人体, 生态系统
+- 核心想法: 当官方数据缺位时，公民可以建立自己可信的测量。
+- 作品内容: 福岛核事故后，志愿者项目开发了开源盖革计数器，并把超过 1.5 亿条辐射读数作为开放数据公开，之后又扩展到空气质量。
+- 实现方式: 装在汽车和自行车上的 bGeigie Nano 套件记录带 GPS 的读数，上传到开放地图。
+- 视频: https://www.youtube.com/watch?v=gXa4Q9plVGs
+- 图片: https://safecast.org/wp-content/uploads/2019/12/bgphoto-l6.jpg
+- 项目主页: https://safecast.org/
+
+#### Grassroots Balloon Mapping — Public Lab (2010)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: 一只便宜的气球就能让社区拥有自己的俯瞰视角。
+- 作品内容: 一种用氦气球和风筝吊起相机制作航拍地图的方法；志愿者用它记录了墨西哥湾沿岸的深水地平线漏油事件。
+- 实现方式: 装在汽水瓶支架中的傻瓜相机、系留气球，以及用于拼接图像的 MapKnitter 软件。
+- 视频: https://www.youtube.com/watch?v=vrCBvOAA7Ns
+- 项目主页: https://publiclab.org/
+
+#### The Design of Eco-Feedback Technology — Jon E. Froehlich (2010)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 向人展示其环境影响，只有在展示方式符合行为改变的规律时才有效。
+- 作品内容: 与 Leah Findlater、James Landay 合写的 CHI 论文，综述生态反馈技术，并连接 HCI 与环境心理学。
+- 实现方式: 综述 89 项环境心理学研究与 HCI 生态反馈系统，提炼设计维度。
+- 论文: https://doi.org/10.1145/1753326.1753629 (CHI 2010)
+
+#### inAir — Eric Paulos (2010)
+- 类型: 研究原型 · 生物: 人体
+- 核心想法: 让看不见的室内空气变得可见，会改变做饭、打扫这样的日常习惯。
+- 作品内容: Sunyoung Kim 与 Eric Paulos 设计的家用设备，测量室内细颗粒物，在屏幕上显示读数，并让家庭通过社交网络分享数据。
+- 实现方式: 带可视显示与社交分享功能的颗粒物计数器，在家庭中部署四周。
+- 论文: https://doi.org/10.1145/1753326.1753605 (CHI 2010)
+- 图片: https://figures.semanticscholar.org/134bfc9d694708e02db5cf218728b3bfeb61803d/1-Figure1-1.png
+
+#### Common Sense: Street Sweeper Air Sensing — Eric Paulos (2009)
+- 类型: 研究原型 · 生物: 人体, 生态系统
+- 核心想法: 把传感器装在本就走遍每条街的车辆上，再把数据交给需要它的社区。
+- 作品内容: 一个项目：把空气质量传感器装到旧金山的街道清扫车上，并与西奥克兰的社区行动者合作绘制污染地图。
+- 实现方式: 车载一氧化碳、氮氧化物、臭氧传感器与 GPS，结合与环境正义团体的田野工作（英特尔伯克利研究院）。
+- 论文: https://doi.org/10.1145/1518701.1518762 (CHI 2009)
+- 图片: https://figures.semanticscholar.org/4356d8905fe813da608acf865f1a02cf6a74302e/3-Figure1-1.png
+
+#### Ecosia — Ecosia (2009)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 给一种平凡的数字习惯配上可见的生态计数器。
+- 作品内容: 一个搜索引擎，把广告利润用于植树项目，并向每位用户显示其搜索帮助资助的树木累计数。
+- 实现方式: 广告支持的搜索，带个人植树计数器、月度财务报告，以及分布在多个国家的植树合作伙伴。
+- 视频: https://www.youtube.com/watch?v=yRDA1ynrHTU
+- 图片: https://www.ecosia.org/static/og/facebook.jpg
+- 项目主页: https://www.ecosia.org/
+
+#### UbiGreen — Jon E. Froehlich (2009)
+- 类型: 研究原型 · 生物: 动物, 植物, 人体
+- 核心想法: 在锁屏上放置环境式的自然图像，映射日常的环保选择。
+- 作品内容: 一款手机应用，感知用户的出行方式，把绿色出行显示在手机壁纸上：一棵长大的树，或一只冰面逐渐扩大的北极熊。
+- 实现方式: 借助可穿戴传感器与手机半自动感知出行，配合环境式壁纸；对 13 名参与者进行了三周的实地研究。
+- 论文: https://doi.org/10.1145/1518701.1518861 (CHI 2009)
+- 图片: https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png
+
+#### Tangible Earth — Shinichi Takemura (2005)
+- 类型: 产品与平台 · 生物: 生态系统
+- 核心想法: 把星球捧在手中，会让它的系统显得亲近。
+- 作品内容: 一个千万分之一比例的交互式数字地球仪，人们用手转动它，查看实时云图、地震、海温等地球数据。
+- 实现方式: 带触感旋转交互的球形背投屏，接入实时数据源。
+- 视频: https://www.youtube.com/watch?v=sGDT_gkW0_0
+
+### 数字与媒介化的自然
+
+被渲染、模拟或增强的自然：虚拟森林、数字孪生、生成式生态系统、技术化的自然。
+
+#### Biotopia — Marta Galvão Ferreira (2025)
+- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
+- 核心想法: 遗产可以包含塑造一个地方的物种与地景，而不只是人的历史。
+- 作品内容: 为丰沙尔自然历史博物馆和马德拉岛自然步道设计的跨媒体遗产体验，把访客与岛上的自然文化及超越人类的遗产联系起来。
+- 实现方式: 在欧盟遗产项目中开展协作式“通过设计进行研究”，为跨媒体体验提出三个设计构念。
+- 论文: https://doi.org/10.1145/3715336.3735803 (DIS 2025)
+- 视频: https://www.youtube.com/watch?v=bgnQpzwg-fA
+- 项目主页: https://doi.org/10.1145/3715336.3735803
+
+#### Echo of the Abyss — Beatrice Maggipinto (2025)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 让动物引领人们进入大多数人永远到达不了的生态系统。
+- 作品内容: 一次虚拟现实深海潜水：玩家扮演潜水员，在水生动物的引导下穿过宁静的海洋，与海洋生命建立联系。
+- 实现方式: 结合 HCI、生态心理学和“水的公地”理论设计的 VR 体验，并做了初步试点。
+- 论文: https://doi.org/10.1145/3689050.3704432 (TEI 2025)
+- 项目主页: https://doi.org/10.1145/3689050.3704432
+
+#### Under the Shade — Francesca Valsecchi (2024)
+- 类型: 研究原型 · 生物: 动物
+- 核心想法: 用声音把一种被忽视的城市鸟类带入人的注意。
+- 作品内容: 由一组扬声器组成的声音装置，播放生成的乌鸦声景，让人在乌鸦栖息地之外聆听它们和它们的叫声。
+- 实现方式: 把乌鸦的野外录音编排成分布在多个扬声器上的空间声景。
+- 论文: https://doi.org/10.21606/drs.2024.752 (DRS 2024)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Terra Nil — Free Lives (2023)
+- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
+- 核心想法: 把一个游戏类型的目标从“建设”翻转为“修复并离开”。
+- 作品内容: 一款“反向城市建造”游戏：玩家把荒地变成繁茂的生物群落，然后回收所有机器，不留痕迹地离开。
+- 实现方式: 带有土壤、水、气候与物种生态演替规则的策略游戏。
+- 视频: https://www.youtube.com/watch?v=F8eYqNNxICE
+- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_616x353.jpg
+- 项目主页: https://store.steampowered.com/app/1210320/Terra_Nil/
+
+#### Endling: Extinction is Forever — Herobeat Studios (2022)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 从一只努力求生的动物的视角体验生态崩溃。
+- 作品内容: 一款电子游戏：玩家扮演在被人类破坏的地球上最后一只母狐狸，在森林被砍、河流被污染时保护幼崽。
+- 实现方式: 一款横版生存游戏，环境随着画面外人类活动一天天恶化。
+- 论文: https://doi.org/10.21606/drs.2024.606 (DRS 2024)
+- 视频: https://www.youtube.com/watch?v=kiM2_XB_HZE
+- 图片: https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-3.jpg https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-Win64-Shipping-2021-12-19-11-30-22.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Feral Map — Jaz Hee-jeong Choi, Markéta Dolejšová (2022)
+- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
+- 核心想法: 用故事而不是木材蓄积量来绘制森林。
+- 作品内容: 一张在线地图，收集 Open Forest 行走中记录的森林故事、生物与印象；没有固定浏览结构，森林生命之间意想不到的联系因此浮现。
+- 实现方式: 参与者走进当地森林，记录观察，并以森林生物的视角共同写故事，再发布到一张非层级的网页地图上。
+- 论文: https://doi.org/10.1145/3537797.3537864 (PDC 2022)
+- 图片: https://figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Smart Forests Atlas — Michelle Westerlaken, Jennifer Gabrys (2022)
+- 类型: 产品与平台 · 生物: 生态系统, 植物
+- 核心想法: 像打理一座会生长的花园那样组织森林知识，而不是做一个封闭的档案库。
+- 作品内容: 一个关于森林中数字技术的开放数据研究平台，以“数字花园”的方式构建，故事、数据与印象可以不按固定结构自由浏览。
+- 实现方式: 与一家数字工具合作社共同设计，围绕六项设计品质，抵制园艺与归档中的殖民与人类中心习惯。
+- 论文: https://doi.org/10.1145/3537797.3537804 (PDC 2022)
+- 视频: https://www.youtube.com/watch?v=q4Qks4wUiF0
+- 图片: https://fra1.digitaloceanspaces.com/smartforests/images/SmartForests_Atlas_Home.original.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Alba: A Wildlife Adventure — ustwo games (2020)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 一款关于留意野生动物的游戏，也可以在现实中种树。
+- 作品内容: 一款游戏：小女孩在一座地中海岛屿上拍摄、识别鸟类和动物，并为拯救岛上的自然保护区奔走；工作室承诺为每位玩家种下一棵真树。
+- 实现方式: 带拍照识别物种机制的开放世界游戏，与 Ecologi 合作植树。
+- 视频: https://www.youtube.com/watch?v=a-Eu9WE3grA
+- 图片: https://www.albawildlife.com/alba-a-wildlife-adventure-ustwo.jpg
+- 项目主页: https://www.albawildlife.com/
+
+#### Beyond Blue — E-Line Media (2020)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 把游戏与真实科学影像配对，让游戏指向真实的海洋。
+- 作品内容: 一款海洋探索游戏：玩家以海洋生物学家的身份扫描抹香鲸、鲨鱼与珊瑚礁生物，并可解锁 BBC《蓝色星球 II》的迷你纪录片。
+- 实现方式: 与海洋科学家和 BBC 自然历史部合作开发的叙事游戏。
+- 视频: https://www.youtube.com/watch?v=pOAWBCXpo6k
+- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg
+- 项目主页: https://www.beyondbluegame.com/
+
+#### Can Simulated Nature Support Mental Health? — Matthew H. E. M. Browning (2020)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 虚拟自然有帮助，但它只能维持情绪，而不像真实场所那样提升情绪。
+- 作品内容: 一项实验，比较在户外自然中六分钟、观看同一地点录制的 360 度 VR 视频，以及室内环境：两种自然条件都有恢复作用，但积极情绪只在户外时上升。
+- 实现方式: 以本科生为被试的实验，在暴露前后测量皮肤电导、恢复感与情绪。
+- 论文: https://doi.org/10.3389/fpsyg.2019.02667 (Frontiers in Psychology 2020)
+- 图片: https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png
+
+#### Eco — Strange Loop Games (2018)
+- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
+- 核心想法: 一个共享而脆弱的生态系统，会促使玩家协商立法来保护它。
+- 作品内容: 一款多人游戏：玩家在一个带模拟生态系统的星球上建设文明；过度狩猎、污染或砍伐会导致物种灭绝与生态崩溃。
+- 实现方式: 基于智能体的生态模拟，包括物种种群、污染与气候，并有游戏内的政府与经济系统。
+- 视频: https://www.youtube.com/watch?v=ud_refZuQoA
+- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/382310/7fbe4fbde5ef9c1ccb70a176da3c6736f6c78231/capsule_616x353.jpg
+- 项目主页: https://play.eco/
+
+#### Digital-Nature Hybrids in a Walled Kitchen Garden — Liz Edwards, Paul Coulton (2017)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 花园里的解说，可以随着花园一起生长。
+- 作品内容: 为英国国民信托一座围墙厨房花园设计的数字-自然混合物件，用来吸引访客参与，并通过“通过设计进行研究”不断迭代。
+- 实现方式: 对解说物件进行“通过设计进行研究”的迭代，并反思材料、价值、参与和场所。
+- 论文: https://doi.org/10.1162/desi_a_00452 (Design Issues 2017)
+- 图片: https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/4-Figure1-1.png https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/8-Figure3-1.png
+- 项目主页: https://doi.org/10.1162/desi_a_00452
+
+#### Everything — David OReilly (2017)
+- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
+- 核心想法: 扮演万物，于是没有哪一种视角处于中心。
+- 作品内容: 一款电子游戏：玩家可以成为宇宙中的任何东西，从细菌、动物到行星和星系，并在不同尺度间切换，配有 Alan Watts 讲座的旁白。
+- 实现方式: 程序化开放世界允许玩家附身于任何物体或生物，在尺度间缩放；游戏影片还作为自动播放的艺术作品展出。
+- 论文: https://doi.org/10.21606/drs.2024.606 (DRS 2024)
+- 视频: https://www.youtube.com/watch?v=HdJk8ROpuEo
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Inner Garden — Joan Sol Roo (2017)
+- 类型: 研究原型 · 生物: 生态系统, 人体
+- 核心想法: 把内在状态映射到一片可见、可触的活景观上。
+- 作品内容: 一个增强沙盘：人们用手塑造地形，他们的呼吸和心率会改变投影微缩世界中的天气、海洋与植物生长，用于辅助正念。
+- 实现方式: Kinect 深度感知与沙面投影，配合生理传感器和 VR 模式。
+- 论文: https://doi.org/10.1145/3025453.3025743 (CHI 2017)
+- 视频: https://www.youtube.com/watch?v=JLm5kofOIIQ
+
+#### Nature Treks VR — Greener Games (2017)
+- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
+- 核心想法: 把虚拟自然当作放松工具，用于真实自然难以触及的地方，如医院。
+- 作品内容: 一款宁静自然环境的 VR 应用，从森林到水下再到太空，用户可以种树、召唤动物、改变天气。
+- 实现方式: 面向消费级头显的游戏引擎环境，带简单的“魔法”交互与环境音。
+- 视频: https://www.youtube.com/watch?v=-bIWI_5ZOEk
+- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/587580/capsule_616x353.jpg
+- 项目主页: https://store.steampowered.com/app/587580/Nature_Treks_VR/
+
+#### Walden, a game — Tracy Fullerton (2017)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 游戏可以奖励专注与缓慢，而不是征服。
+- 作品内容: 一款第一人称游戏，模拟梭罗在瓦尔登湖的两年；玩家要维持生存，但注意自然和阅读会得到奖励，忽视美则会让“灵感”枯竭。
+- 实现方式: 依据梭罗文本构建的四季开放世界模拟，在南加州大学游戏创新实验室开发十年。
+- 视频: https://www.youtube.com/watch?v=eoc8OnYvZfw
+- 图片: https://images.squarespace-cdn.com/content/v1/5972908bf7e0ab1a5fe04927/1504130885549-EURUQCDKA8TBUTWVBDVR/Sunset_summer_300dpi.jpg
+- 项目主页: https://www.waldengame.com/
+
+#### Atmoph Window — Atmoph (2015)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: “等离子窗”已成为消费品：想想它给予了什么，又拿走了什么。
+- 作品内容: 一块外框像窗户的壁挂屏幕，播放数千段带声音的长镜头风景视频（包括实时画面），把远方的自然带进房间。
+- 实现方式: 联网显示器配备 4K 风景片库与环境声，通过手机应用控制。
+- 视频: https://www.youtube.com/watch?v=PvHZuNk6LYs
+- 图片: https://webres-atmoph.global.ssl.fastly.net/og/og_top_yo_v3.jpg
+- 项目主页: https://atmoph.com/en
+
+#### Digital Nature — Yoichi Ochiai (2015)
+- 类型: 书与文章 · 生物: 生态系统, 人体
+- 核心想法: 不要把数字当作自然的对立面，而要把它看作自然的新一层。
+- 作品内容: 一个概念与研究纲领，在演讲和 2018 年的著作《デジタルネイチャー》中提出，描述计算机与自然融合为同一环境的未来。
+- 实现方式: 通过 Digital Nature Group 在声悬浮、全息和计算制造方面的作品来构建论点。
+- 视频: https://www.youtube.com/watch?v=BGwrRFjmhkU
+- 项目主页: https://digitalnature.slis.tsukuba.ac.jp/
+
+#### CoeLux Artificial Skylight — CoeLux (2014)
+- 类型: 产品与平台 · 生物: 生态系统, 人体
+- 核心想法: 模拟天空的物理，而不只是它的图像。
+- 作品内容: 一种人造天窗，以逼真的纵深再现蓝天和一轮清晰温暖的太阳，用于无窗房间和地下室。
+- 实现方式: LED 光源与可再现瑞利散射的纳米结构材料，源于因苏布里亚大学 Paolo Di Trapani 的研究。
+- 视频: https://www.youtube.com/watch?v=0ot649VWF8Q
+- 项目主页: https://www.coelux.com/
+
+#### Melbourne Urban Forest Visual: Trees with Email Addresses — City of Melbourne Urban Forest team (2013)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 给非人类一个简单的地址，就能改变人与它的关系。
+- 作品内容: 墨尔本的每棵公共树木都在一张开放地图上获得了编号和邮箱地址，本意是方便居民报告问题；结果成千上万的人给一棵棵树写情书、提问题、开玩笑。
+- 实现方式: 一张开放数据树木地图（物种、树龄、预期寿命），每棵树都链接到市政府的一个邮箱。
+- 视频: https://www.youtube.com/watch?v=r4BtdFgVGjc
+- 项目主页: http://melbourneurbanforestvisual.com.au
+
+#### Proteus — Ed Key & David Kanaga (2013)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 探索和聆听本身就可以是一款自然游戏的全部意义。
+- 作品内容: 一款在程序生成的岛屿上随四季漫步的游戏，每一株植物、每一只生物和每一种天气都会发出音乐。
+- 实现方式: 程序生成地形与植被，配合 David Kanaga 的生成式配乐，声音与视野中的物体绑定。
+- 视频: https://www.youtube.com/watch?v=rpkpuoq6y9s
+- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219680/capsule_616x353.jpg
+- 项目主页: https://store.steampowered.com/app/219680/Proteus/
+
+#### earth.nullschool.net — Cameron Beccario (2013)
+- 类型: 产品与平台 · 生物: 生态系统
+- 核心想法: 让人转动星球，看它的空气和水在流动。
+- 作品内容: 一个动态地球仪，以流动的粒子显示全球风、洋流、海浪、温度与污染，每隔数小时根据预报模型更新。
+- 实现方式: 在浏览器中用 D3 与 canvas 粒子渲染可视化 GFS、OSCAR 与 GEOS-5 数据。
+- 视频: https://www.youtube.com/watch?v=vs3eqRh7BXw
+- 图片: https://earth.nullschool.net/sample.jpg
+- 项目主页: https://earth.nullschool.net/
+
+#### Supertree Grove — Gardens by the Bay (2012)
+- 类型: 产品与平台 · 生物: 植物, 生态系统
+- 核心想法: 一棵工程化的树，可以承载真实的植物和真实的生态功能。
+- 作品内容: 新加坡滨海湾花园中 18 棵高 25 至 50 米的垂直花园，覆盖着活植物，收集雨水、为温室排气，并每晚举行灯光音乐秀。
+- 实现方式: 钢框架配 16 万多株植物的种植面板、光伏电池，以及与生物质冷却系统相连的风道（Grant Associates 设计）。
+- 视频: https://www.youtube.com/watch?v=5UhnuddcAsE
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg
+- 项目主页: https://www.gardensbythebay.com.sg/en/things-to-do/attractions/supertree-grove.html
+
+#### Flower — thatgamecompany (2009)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 扮演一种自然力量，而不是一个角色。
+- 作品内容: 一款游戏：玩家化身为风，带着一串花瓣掠过原野，让花朵绽放，并为灰色的城市带回色彩。
+- 实现方式: 借助 PlayStation Sixaxis 手柄体感控制，在密集的模拟草地上飞行。
+- 视频: https://www.youtube.com/watch?v=s1oZnf3475c
+- 图片: https://thatgamecompany.com/wp-content/uploads/thatgamecompany-games-bg-flower.jpg
+- 项目主页: https://thatgamecompany.com/flower/
+
+#### A Plasma Display Window? The Shifting Baseline Problem — Peter H. Kahn Jr. (2008)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 自然的屏幕不是通往自然的窗，即使看起来一样。
+- 作品内容: 一项实验：办公室分别配有真实窗户、实时播放高清自然景观的等离子屏，或一面空墙；面对真实窗户时心率恢复得比面对屏幕更快。
+- 实现方式: 90 名参与者的对照实验，测量轻度压力后的心率恢复；另有在无窗内部办公室中的田野研究。
+- 论文: https://doi.org/10.1016/j.jenvp.2007.10.008 (Journal of Environmental Psychology 2008)
+- 图片: https://figures.semanticscholar.org/46c2249904dd1bd634a5bb1fcc20f5fb5010887f/3-Figure1-1.png
+
+#### explore.org Live Nature Cams — explore.org (2008)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 实时、不剪辑的自然，能让人远距离地对个体野生动物产生依恋。
+- 作品内容: 一个免费的实时镜头网络，包括卡特迈国家公园布鲁克斯瀑布的熊和 Decorah 鹰巢，数百万人借此追踪个体动物的一整个季节。
+- 实现方式: 太阳能摄像头向 YouTube 和 explore.org 直播，配合聊天社群与“胖熊周”等活动。
+- 视频: https://www.youtube.com/watch?v=J7ZrIDvqlic
+- 图片: https://explore.org/ExploreShareImage.jpg
+- 项目主页: https://explore.org/livecams
+
+#### Artificial Window View of Nature — Roger S. Ulrich (2005)
+- 类型: 论文 · 生物: 植物, 生态系统, 人体
+- 核心想法: 如果屏幕必须取代窗户，就让它拥有真实窗户的视差和纵深。
+- 作品内容: Adnan Radikovic、John Leggett、John Keyser 与 Roger Ulrich 的 CHI 论文，介绍一块大屏幕，渲染的自然景观会像真窗一样随观者头部位置变化。
+- 实现方式: 在无窗房间的墙面显示器上，根据头部追踪渲染三维自然场景。
+- 论文: https://doi.org/10.1145/1056808.1057075 (CHI EA 2005)
+- 图片: https://figures.semanticscholar.org/29456af02d6238ee92da426a357d157593f09b09/2-Figure1-1.png
+
+#### Hardware Companions? AIBO Discussion Forums — Peter H. Kahn Jr. (2003)
+- 类型: 论文 · 生物: 动物, 人体
+- 核心想法: 人们明知机器动物是机器，却仍赋予它社会生命，这改变了“宠物”的含义。
+- 作品内容: 与 Batya Friedman、Jennifer Hagman 合写的 CHI 论文，分析在线 AIBO 论坛的 6438 条帖子，看主人把机器狗当作物件还是活的伴侣。
+- 实现方式: 对论坛帖子进行内容分析，编码技术本质、生命特征、心理状态、社会关系与道德地位。
+- 论文: https://doi.org/10.1145/642611.642660 (CHI 2003)
+- 图片: https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/2-Figure1-1.png https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/5-Figure2-1.png
+
+#### Biosphere 2 — Biosphere 2 (1991)
+- 类型: 研究原型 · 生物: 植物, 动物, 生态系统
+- 核心想法: 在技术之内建造一整个自然，会揭示我们有多少不了解。
+- 作品内容: 亚利桑那州一座 1.27 公顷的封闭玻璃建筑，内含雨林、海洋、稀树草原、沙漠和农田；1991 至 1993 年间八人在其中生活两年，进行封闭生态实验。
+- 实现方式: 气密的钢与玻璃空间网架结构，内有人工生物群落和调节气压的“肺”；土壤微生物的呼吸导致氧气下降、二氧化碳上升。
+- 视频: https://www.youtube.com/watch?v=oUJGR6qNVzA
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wiki_bio2_sunset_001.jpg/960px-Wiki_bio2_sunset_001.jpg
+- 项目主页: https://biosphere2.org/
+
+### 人与自然交互的理论与方法
+
+研究和设计人与自然交互的框架、综述与方法。
+
+#### Mediating Human–Nature Relations through Technology: A Scoping Review of Post-Anthropocentric Artifacts and Their Design Strategies — Madlen Kneile, Judith Dörrenbächer, Marc Hassenzahl, Matthias Laschke (2025)
+- 类型: 论文 · 生物: 生态系统, 动物, 植物
+- 核心想法: 多数后人类中心主义作品仍在服务人的能动性；尚待开拓的是让自然能够介入、甚至掌控人类日常的设计。
+- 作品内容: 一篇遵循 PRISMA-ScR 的范围综述：从 53 篇 HCI 与设计论文中提取出 114 件让人与自然发生接触的作品，按三大关注领域下的七种设计策略归类，并把全部作品放进在线的 Artifact Archive。
+- 实现方式: 在 ACM 与 DRS 数字图书馆做关键词检索并追溯参考文献，再把作品资料卡按设计策略（揭示与识别、探索、交流与表达、共享生计、交织空间、闯入、赋权）、人-技术关系、作品类型和自然实体进行聚类。
+- 论文: https://doi.org/10.1145/3743674 (ACM TOCHI 2025)
+- 图片: https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png
+- 项目主页: https://artifact-archive.org
+
+#### Phenology Circles: A Method to Deepen Relations in More-Than-Human Design Processes — Margot Brereton (2024)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 一起留意季节变化的共同实践，能在设计工作周围加深设计者与其他物种的关系。
+- 作品内容: Shannon Rodgers 等人的 DIS 论文，介绍“物候圈”：研究者运营两年多的一个线上全球园艺社群，用来调谐于植物、动物以及彼此的节律。
+- 实现方式: 线上实践社群（N = 42）分享了 1200 多条图片与帖子；在参与式设计研究的幕后，对八位核心成员的活动进行反思。
+- 论文: https://doi.org/10.1145/3643834.3660694 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png
+
+#### Seeding a Repository of Methods-To-Be for Nature-Entangled Design Research — Oscar Tomico, Ferran Altarriba Bertran (2024)
+- 类型: 论文 · 生物: 生态系统, 植物, 人体
+- 核心想法: 与自然共同设计需要专属的方法，这些方法应当被分享和试用。
+- 作品内容: 一篇 DIS 论文，以注释作品集的形式分享一批仍在形成中的“与自然纠缠的设计”方法，这些方法在一次会议工作坊中被收集和试用。
+- 实现方式: 基于工作坊收集方法，在使用中交叉融合，并讨论如何进一步表述它们。
+- 论文: https://doi.org/10.1145/3643834.3660745 (DIS 2024)
+- 图片: https://figures.semanticscholar.org/f81172c3e1be018e35a4b8466cfac9131a402cfe/4-Figure7-1.png
+
+#### HCI Outdoors: Theory, Design, Methods and Applications — Michael D. Jones, Jonna Häkkilä (2020)
+- 类型: 书与文章 · 生物: 生态系统, 人体
+- 核心想法: 户外是一个独立的设计情境，有其自身的价值：独处、风险与断联。
+- 作品内容: 一本编著（Jones、Anderson、Häkkilä、Cheverst、Daiber），源于 CHI 2018 工作坊，梳理了面向徒步、攀岩、滑雪、露营和野外场所的交互设计。
+- 实现方式: 收录理论、野外研究方法与户外系统案例等章节。
+- 论文: https://doi.org/10.1007/978-3-030-45289-6 (Springer Human–Computer Interaction Series 2020)
+- 图片: https://covers.openlibrary.org/b/isbn/9783030452889-L.jpg?default=false
+
+#### HCI in the Garden — Margot Brereton (2019)
+- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
+- 核心想法: 园艺 HCI 可以超越照料任务：分享发现、服务老年人、游戏与放松。
+- 作品内容: Shannon Rodgers、Bernd Ploderer 与 Margot Brereton 的 OzCHI 综述，梳理 28 篇关于园艺的 HCI 论文，归纳主题与空白。
+- 实现方式: 综述归纳出六个主题：发现、联结、把花园带进室内、协调、可持续与技能学习。
+- 论文: https://doi.org/10.1145/3369457.3369498 (OzCHI 2019)
+
+#### Beyond Knowing Nature: Pathways to Nature Connection — Miles Richardson (2017)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 知道物种的名字不等于感到联结，要为感受而设计。
+- 作品内容: 与 Ryan Lumber、David Sheffield 合作的研究表明：感官接触、情感、同情、意义与美能建立自然联结，而识别物种这类知识型活动则不能。
+- 实现方式: 两项在线调查（n = 321）围绕亲生命性假说的九种价值展开，随后以步行干预（n = 72）实践所识别出的路径。
+- 论文: https://doi.org/10.1371/journal.pone.0177186 (PLOS ONE 2017)
+- 项目主页: https://findingnature.org.uk/
+
+#### Citizen Science: New Research Challenges for Human–Computer Interaction — Jennifer Preece (2016)
+- 类型: 论文 · 生物: 生态系统, 动物, 植物
+- 核心想法: 公民科学工具的成败取决于交互设计，而不只是科学本身。
+- 作品内容: 一篇论文，阐述 HCI 能为生物多样性公民科学贡献什么：动机、数据质量、可用性与长期参与。
+- 实现方式: 回顾 iNaturalist、eBird、NatureNet 等项目，并提炼开放的研究问题。
+- 论文: https://doi.org/10.1080/10447318.2016.1194153 (International Journal of Human–Computer Interaction 2016)
+
+#### Extinction of Experience: The Loss of Human–Nature Interactions — Masashi Soga (2016)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 越少接触自然，就越不在乎它，自然也就越少，这是设计可以尝试打破的循环。
+- 作品内容: 这篇综述指出，世界各地的人与自然的直接接触都在减少，这既损害健康，也削弱人们对自然保护的支持。
+- 实现方式: 综合生态学与心理学研究，建立关于人与自然交互减少的成因（机会与意愿）及后果的模型。
+- 论文: https://doi.org/10.1002/fee.1225 (Frontiers in Ecology and the Environment 2016)
+- 图片: https://figures.semanticscholar.org/85ec779dadfabe243b477d84fdf10f0d8decfd44/3-Figure2-1.png
+
+#### From Conservation to Crowdsourcing: A Typology of Citizen Science — Andrea Wiggins (2011)
+- 类型: 论文 · 生物: 生态系统, 动物
+- 核心想法: 不同类型的公民科学需要不同的技术，以及志愿者的不同角色。
+- 作品内容: 与 Kevin Crowston 合写的论文，把公民科学项目分为五类：行动、保护、调查、虚拟与教育。
+- 实现方式: 根据目标、组织方式和技术使用，对 80 个项目的调查数据进行聚类。
+- 论文: https://doi.org/10.1109/hicss.2011.207 (HICSS 2011)
+
+#### Soundscape Ecology — Bryan C. Pijanowski (2011)
+- 类型: 论文 · 生物: 生态系统, 动物
+- 核心想法: 聆听一个地方，就是测量它的健康。
+- 作品内容: 与 Almo Farina 合写的专刊导言，把声景生态学定义为研究一个景观中全部声音的学科：动物声、地球物理声与人类噪声。
+- 实现方式: 提出生物声、地声与人为声等概念，以及长期声学监测的方法。
+- 论文: https://doi.org/10.1007/s10980-011-9655-6 (Landscape Ecology 2011)
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mount_Rainier_soundscape.jpg/960px-Mount_Rainier_soundscape.jpg
+
+#### Technological Nature: Adaptation and the Future of Human Life — Peter H. Kahn Jr. (2011)
+- 类型: 书与文章 · 生物: 生态系统, 动物, 人体
+- 核心想法: 技术化的自然好过没有自然，却不如真实的自然，而人们可能察觉不到其中的差别。
+- 作品内容: 这本书汇集了作者十年间关于机器狗、自然直播和等离子屏“窗户”的研究，追问当技术化的自然取代真实自然时，人会失去什么。
+- 实现方式: 综合 HINTS 实验室的对照实验、田野研究与访谈，结合发展心理学以及“环境代际失忆”的概念。
+- 论文: https://doi.org/10.7551/mitpress/7983.001.0001 (MIT Press 2011)
+- 图片: https://covers.openlibrary.org/b/id/9517794-L.jpg?default=false
+- 项目主页: https://mitpress.mit.edu/9780262113229/technological-nature/
+
+#### Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy — Rick Bonney, Cornell Lab of Ornithology (2009)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 把志愿者当作研究伙伴，并围绕他们设计整个流程。
+- 作品内容: 一篇论文，介绍康奈尔鸟类学实验室的公民科学项目模式：从确定问题到分析志愿者数据。
+- 实现方式: 基于 Project FeederWatch、eBird 等二十年来的鸟类项目经验。
+- 论文: https://doi.org/10.1525/bio.2009.59.11.9 (BioScience 2009)
+- 图片: https://figures.semanticscholar.org/2e888654c68524163fbf7a54396488249e73a702/6-Figure1-1.png
+
+#### The Human Relation With Nature and Technological Nature — Peter H. Kahn Jr. (2009)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 对每一种自然类技术都要问：它是补充，还是替代？
+- 作品内容: 一篇简短综述，定义了“技术化的自然”（媒介、增强或模拟自然的技术），并总结证据：它只能提供真实自然的部分益处。
+- 实现方式: 回顾作者关于真实窗户、等离子屏、机器宠物和网络摄像头的实验，并据此提出研究议程。
+- 论文: https://doi.org/10.1111/j.1467-8721.2009.01602.x (Current Directions in Psychological Science 2009)
+- 项目主页: https://depts.washington.edu/hintslab/
+
+#### Biophilic Design: The Theory, Science and Practice of Bringing Buildings to Life — Stephen R. Kellert, Edward O. Wilson (2008)
+- 类型: 书与文章 · 生物: 植物, 生态系统, 人体
+- 核心想法: 设计中的自然不止是植物：光线、材料、形态、眺望与庇护都算在内。
+- 作品内容: 与 Judith Heerwagen、Martin Mador 合编的文集，把亲生命性转化为约 70 项建筑与场所设计属性。
+- 实现方式: 汇集建筑师、心理学家和生物学家的文章，把自然体验分为直接、间接和空间三类。
+- 图片: https://covers.openlibrary.org/b/isbn/9780470163344-L.jpg?default=false
+- 项目主页: https://www.wiley.com/en-us/Biophilic+Design-p-9780470163344
+
+#### Last Child in the Woods — Richard Louv (2005)
+- 类型: 书与文章 · 生物: 生态系统, 人体
+- 核心想法: 儿童与自然的疏离是设计和政策问题，不只是个人选择。
+- 作品内容: 这本书描述了儿童在户外自由活动的时间如何缩减，并把后果称为“自然缺失症”。
+- 实现方式: 结合对家长、教师和研究者的访谈，以及自然与儿童发展研究的综述。
+- 视频: https://www.youtube.com/watch?v=WPzrHhe0xM0
+- 图片: https://covers.openlibrary.org/b/isbn/9781565123915-L.jpg?default=false
+- 项目主页: https://richardlouv.com/books/last-child/
+
+#### The Connectedness to Nature Scale — F. Stephan Mayer (2004)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 如果为自然联结而设计，就去测量它。
+- 作品内容: 与 Cynthia McPherson Frantz 共同开发的 14 题问卷，测量一个人感到自己属于自然世界的程度。
+- 实现方式: 通过五项研究验证，把量表得分与生态行为及幸福感联系起来。
+- 论文: https://doi.org/10.1016/j.jenvp.2004.10.001 (Journal of Environmental Psychology 2004)
+
+#### The Experience of Nature: A Psychological Perspective — Rachel & Stephen Kaplan (1989)
+- 类型: 书与文章 · 生物: 生态系统, 人体
+- 核心想法: 围绕柔和的吸引、远离感、延展性与契合度来设计恢复性体验。
+- 作品内容: 这本书提出了注意力恢复理论：自然环境引发“柔和的吸引”，让疲惫的定向注意力得以恢复。
+- 实现方式: 基于二十年的景观偏好研究和荒野项目研究。
+- 图片: https://covers.openlibrary.org/b/isbn/9780521341394-L.jpg?default=false
+- 项目主页: https://en.wikipedia.org/wiki/Attention_restoration_theory
+
+#### Biophilia — Edward O. Wilson (1984)
+- 类型: 书与文章 · 生物: 生态系统, 动物, 人体
+- 核心想法: 被生命吸引是人性的一部分，设计可以以此为基础。
+- 作品内容: 一本随笔集，提出人天生倾向于关注生命与类生命的过程。
+- 实现方式: 结合进化生物学与作者在热带地区的野外经历。
+- 图片: https://covers.openlibrary.org/b/isbn/9780674074422-L.jpg?default=false
+- 项目主页: https://www.hup.harvard.edu/books/9780674074422
+
+#### View Through a Window May Influence Recovery from Surgery — Roger S. Ulrich (1984)
+- 类型: 论文 · 生物: 植物, 人体
+- 核心想法: 哪怕隔着玻璃看到自然，也能对身体产生可测量的好处。
+- 作品内容: 一项医院研究：胆囊手术后，窗外是树的病人比窗外是砖墙的病人住院更短、所需强效止痛药更少。
+- 实现方式: 比较宾夕法尼亚一家医院 1972–1981 年间病历中配对的病人，他们的差别只在病房窗景。
+- 论文: https://doi.org/10.1126/science.6143402 (Science 1984)
 
 ## 生物设计
 
@@ -9234,7 +10759,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1080/00043249.1996.10791743 (Art Journal 1996)
 - 项目主页: https://doi.org/10.1080/00043249.1996.10791743
 
-## 人类 × 生物计算
+## 生物计算
 
 包含活体生物的界面与计算机：植物当传感器、会计算的真菌和黏菌、可穿戴设备里的微生物、生物混合机器人。
 
@@ -9538,15 +11063,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 基于代表性艺术作品和原型的概念分析。
 - 论文: https://doi.org/10.1080/14626268.2019.1707231 (Digital Creativity 2020)
 
-#### Supraorganism — Justine Emard (2020)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 让机器继承蜂群的集体节律，使装置像一个群体那样行动。
-- 作品内容: 约二十件机器人化的吹制玻璃雕塑，依据一个用蜂群记录数据训练的神经网络的预测而发光、运动和发声，并对观众的到来作出反应。
-- 实现方式: 来自蜂巢的传感器数据训练定制的机器学习模型，模型的实时预测驱动玻璃模块中的灯光和电机；环境传感器让装置对观众作出反应。
-- 视频: https://www.youtube.com/watch?v=syA6uD0qkHY
-- 图片: https://justineemard.com/wp-content/uploads/2023/01/Jutsine-Emard@KIKK22_photographe_quentin_chevrier-11-e1674466988849.jpg
-- 项目主页: https://justineemard.com/supraorganism/
-
 #### CMD: Experiments in Bio-Algorithmic-Politics — Michael Sedbon (2019)
 - 类型: 艺术作品 · 生物: 细菌与微生物
 - 核心想法: 让算法治理活细胞，看看哪种政治能让它们繁盛。
@@ -9590,15 +11106,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=XheAMrS8Q1c
 - 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/952dc79ee79a/gr1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fa1d/5443973/bfc91713360f/gr2.jpg
 - 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC5443973/
-
-#### Thermotaxis — Kuai Shen (2017)
-- 类型: 艺术作品 · 生物: 昆虫, 细菌与微生物
-- 核心想法: 聆听一个蚁群的新陈代谢：把热量当作音乐信号。
-- 作品内容: 一个红林蚁巢置于冷却的「冬眠容器」中；热成像相机读取蚂蚁及其微生物产生的热量，并把它转化为实时乐曲。
-- 实现方式: 自调节冷却系统加热成像计算机视觉，把 Formica rufa 蚁巢的温度模式映射为声音模式；与 Technarium 和维尔纽斯大学合作。
-- 视频: https://vimeo.com/209588545
-- 图片: https://kuaishen.tv/images/thermotaxis/5.jpg https://kuaishen.tv/images/thermotaxis/7.jpg
-- 项目主页: https://kuaishen.tv/thermotaxis.html
 
 #### Fly Printer – Extended — Laura Beloff (2016)
 - 类型: 艺术作品 · 生物: 昆虫
@@ -9693,15 +11200,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://vimeo.com/180605402
 - 图片: https://ursuladamm.de/api/media/file/Paradise%40ClausBach.jpg https://ursuladamm.de/api/media/file/Paradise2%40ClausBach.jpg
 - 项目主页: https://ursuladamm.de/en/artworks/outline-paradise-installation-2014
-
-#### The Transparent Beehive — Anne Marie Maes (2013)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 让蜂箱变得可读：声音和数据让人能逐日跟踪蜂群的健康。
-- 作品内容: 一个像书一样可翻开的观察蜂箱，里面是活的蜂群，装有麦克风、摄像头和温湿度传感器，数据被转为声音和图像，呈现蜂群状态。
-- 实现方式: 仿照 François Huber 1788 年“书页式”蜂箱设计的有机玻璃、木材和铝框架上装有接触式麦克风和网络摄像头，音频和传感数据经过模式识别和 AI 处理；最早安装在布鲁塞尔屋顶。
-- 视频: https://vimeo.com/158627265
-- 图片: https://annemariemaes.net/wp-content/uploads/2013/10/TranspBeehive01.jpg https://annemariemaes.net/wp-content/uploads/2013/10/TranspBeehive04.jpg
-- 项目主页: https://annemariemaes.net/projects/the-transparent-beehive/
 
 #### Coin-Operated Wetland — Tega Brain (2012)
 - 类型: 艺术作品 · 生物: 植物, 生态系统, 细菌与微生物
@@ -9962,14 +11460,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://harpreetsareen.com/wp-content/uploads/2023/08/robotic-arbortecture.jpg
 - 项目主页: https://harpreetsareen.com/research
 
-#### Neither Here Nor There: Botanical (mis)Communication — Harpreet Sareen, Yasuaki Kakehi (2023)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 让人处于听不懂的位置，让植物成为对话的一方。
-- 作品内容: 四株大型盆栽植物围坐在会议桌旁，用由 GPT-3 文本生成的声音讨论“何以为人”；访客只能借助手机上的解码应用才能听懂。
-- 实现方式: 把关于人类与行星政治的提问输入 GPT-3，将输出编码为“植物声音”，再通过手机应用解码。与 Lauria Clarke 合作。
-- 论文: https://doi.org/10.1145/3591196.3596828 (Creativity & Cognition 2023)
-- 图片: https://harpreetsareen.com/wp-content/uploads/2023/08/download-3.jpeg
-
 #### Phytosphere — Hang Su (2023)
 - 类型: 思辨设计 · 生物: 植物
 - 核心想法: 让植物自己决定去哪里。
@@ -10167,14 +11657,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 机电接口很可能把植物的运动或生物电变化转化为机械运动，被智能手表记录为“活动量”；接口由 Gregor Krpič 开发，Scenart 制作。
 - 图片: https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1600011006003-DE1GEPNVONE6LAXDT717/IMG-3822aAdjust.jpg https://images.squarespace-cdn.com/content/v1/5aeca48a506fbe863b23a8b6/1600010366568-0NP2K4Y9SDX48XM36QZ6/2020_01_14+-+SpelaPetric-109.jpg
 - 项目主页: https://www.spelapetric.org/vegetariat-work-zero/
-
-#### Deep Swamp — Tega Brain (2018)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 追问当目标狭隘的软件管理活的生态系统时会发生什么。
-- 作品内容: 三个湿地水箱各由一个 AI 代理照管，它们调节光照、水流、雾气和养分，分别追求“自然的湿地”“一件艺术品”或“获得关注”。
-- 实现方式: 每个代理拍摄自己的水箱，把照片与深度学习从带标签的在线图库中学到的目标相比较，再尝试新的雾化器、水泵和灯光组合。
-- 图片: https://freight.cargo.site/t/original/i/e1786b6df7a8b2e2134cde8ab4672b08fcfd265876d167b9c09cfd34d189cf87/first.jpg https://freight.cargo.site/t/original/i/38807456402ca9213d790228119c00a899f9b39aec3410f814d25e65e6c982d4/DSC_8690.jpg
-- 项目主页: https://tegabrain.com/Deep-Swamp
 
 #### Elowan: A Plant-Robot Hybrid — Harpreet Sareen (2018)
 - 类型: 研究原型 · 生物: 植物
@@ -11367,15 +12849,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 放大后的燃料电池信号成为 Eurorack 合成器和 Max/MSP 的控制电压；分类器触发音色预设，回归模型预测电压变化。
 - 图片: https://www.ccastellanos.com/wp-content/gallery/microbial-sonorities/d.jpg
 - 项目主页: https://www.ccastellanos.com/projects/microbial-sonorities/
-
-#### Speculative Communications — Interspecifics (2017)
-- 类型: 艺术作品 · 生物: 细菌与微生物
-- 核心想法: 在显微镜下搭建一个类似 SETI 的非人类智能“监听站”。
-- 作品内容: 一台机器观察微生物培养物，学习识别其中重复出现的协同行为，并把它们转化为可在线直播的自生成视听乐谱。
-- 实现方式: 显微摄像头和机器学习系统追踪一个可自我维护的微生物培养物（可能是细菌）的行为模式，并将其映射为音乐和视觉动作；得到 FONCA、Laboratorio Arte Alameda、Medialab-Prado 和 DAAD 支持。
-- 视频: https://vimeo.com/320857134
-- 图片: https://live.staticflickr.com/65535/49813943778_95a0d6f39c_k_d.jpg https://interspecifics.cc/work/wp-content/uploads/2017/11/img_00000-1024x576.png
-- 项目主页: https://interspecifics.cc/work/speculative-communications-2017/
 
 #### Stretchable Living Materials and Devices with Hydrogel–Elastomer Hybrids Hosting Programmed Cells — Xuanhe Zhao (2017)
 - 类型: 论文 · 生物: 细菌与微生物, 人体
@@ -12770,13 +14243,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.kathyhigh.com/wp-content/uploads/2019/06/blood-wars-t.jpg
 - 项目主页: https://www.kathyhigh.com/projects/blood-wars/
 
-## 类器官计算设计
+## 类器官计算
 
 把脑类器官和活神经元当作计算机：研究、平台、艺术，以及它们带来的设计与伦理问题。
 
-### 类器官智能
+### 类器官智能与学习
 
-用脑类器官做学习、记忆和计算的研究。
+能学习、玩游戏和计算的类器官与神经元培养物。
 
 #### Goal-directed learning in cortical organoids — Braingeneers (2026)
 - 类型: 论文 · 生物: 神经元与类器官
@@ -12785,6 +14258,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 杆的角度被编码为高密度微电极阵列上的刺激，放电被解码为推力，强化学习智能体选择训练脉冲；阻断 AMPA 和 NMDA 受体后学习消失。
 - 论文: https://doi.org/10.1016/j.celrep.2026.116984 (Cell Reports 2026)
 - 图片: https://cdn.zmescience.com/wp-content/uploads/2026/03/2-18-26-Braingeneers-Mircea-CL-010-2048x1366-1.jpg
+
+#### Living human neurons play DOOM on a CL1 — Cortical Labs (2026)
+- 类型: 研究原型 · 生物: 神经元与类器官
+- 核心想法: 一旦神经元有了 API，“它能跑 DOOM 吗？”就成了任何人都能在活体组织上尝试的测试。
+- 作品内容: 约 20 万个人类神经元在 CL1 芯片上接入了 Freedoom（1993 年射击游戏的免费版本）。这团神经元会在走廊里移动、遭遇敌人并开火，动作笨拙、经常死亡；搭建者是一位独立开发者，借助公开的 API 用了大约一周。
+- 实现方式: 游戏画面信息被转成电刺激模式，神经元的放电反应被解码为移动和开火指令，整个闭环在 CL1 上运行。
+- 视频: https://www.youtube.com/watch?v=yRV8fSw6HaE
+- 图片: https://static.scientificamerican.com/dam/m/5615652e83eaa237/original/GettyImages-2187865154.jpg?m=1774653169.265&w=1200
+- 项目主页: https://corticallabs.com/doom.html
 
 #### Encoding Tactile Stimuli for Braille Recognition with Organoids — Benjamin Ward-Cherrier, FinalSpark (2025)
 - 类型: 论文 · 生物: 神经元与类器官
@@ -12801,53 +14283,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 类器官培养数周后，用基因表达分析和模式化刺激后的微电极阵列可塑性记录进行检验。
 - 论文: https://doi.org/10.1038/s42003-025-08632-5 (Communications Biology 2025)
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-025-08632-5/MediaObjects/42003_2025_8632_Figa_HTML.png
-
-#### Brainoware: Brain organoid reservoir computing for artificial intelligence — Feng Guo (2023)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 保持组织原样：让类器官自身的动态去变换输入，只训练一个简单的读出层。
-- 作品内容: 放在微电极阵列上的活体脑类器官被用作储备池计算系统中的“储备池”，帮助识别不同说话人的日语元音，并预测一个混沌方程。
-- 实现方式: 音频特征被编码为时空电刺激，记录类器官的诱发活动并训练线性读出层；组织中的无监督可塑性让准确率随时间提高。
-- 论文: https://doi.org/10.1038/s41928-023-01069-w (Nature Electronics 2023)
-- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-023-01069-w/MediaObjects/41928_2023_1069_Fig1_HTML.png
-
-#### Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish — Lena Smirnova, Thomas Hartung, Brett J. Kagan (2023)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 一份研究议程，在同一份文件中为一个领域命名，并列出它的工具和伦理问题。
-- 作品内容: 为“类器官智能”命名的论文。它提出扩大脑类器官的规模、用三维电极与之连接、用机器学习训练它们来构建生物计算机，并把伦理纳入整个计划。
-- 实现方式: 路线图论文，结合类器官生物学、三维微电极阵列、大数据与人工智能方法，以及嵌入式伦理方法。
-- 论文: https://doi.org/10.3389/fsci.2023.1017235 (Frontiers in Science 2023)
-- 视频: https://www.youtube.com/watch?v=A1fXvgKVTmk
-- 图片: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1017235/fsci-01-1017235-HTML-r9/image_m/fsci-01-1017235-g001.jpg
-
-#### The technology, opportunities, and challenges of Synthetic Biological Intelligence — Brett J. Kagan, Cortical Labs (2023)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 一张生物计算机全栈地图：从细胞到软件。
-- 作品内容: 一篇综述，定义了“合成生物智能”，梳理让活体神经元计算所需的硬件、细胞来源和训练方法，并列出尚未解决的问题。
-- 实现方式: 综述内容涵盖干细胞来源的神经元、微电极阵列、闭环反馈，以及围绕它们的软件与伦理层面。
-- 论文: https://doi.org/10.1016/j.biotechadv.2023.108233 (Biotechnology Advances 2023)
-- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/256f/10804936/ac4bfda9d037/gr1.jpg
-
-#### Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development — Alysson R. Muotri (2019)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 类器官能产生类似大脑的节律，这让它们的潜力和伦理问题都更加紧迫。
-- 作品内容: 培养十个月的人类皮层类器官发展出越来越复杂的网络振荡；一个用早产儿脑电图训练的机器学习模型难以可靠地区分类器官活动与婴儿大脑活动。
-- 实现方式: 在多孔微电极阵列上连续数月每周记录类器官，并用回归模型把振荡特征与早产新生儿脑电图进行比较。
-- 论文: https://doi.org/10.1016/j.stem.2019.08.002 (Cell Stem Cell 2019)
-- 视频: https://www.youtube.com/watch?v=rkpo7R8UOlc
-- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ca6e/6778040/b7f263d3f8c1/nihms-1537695-f0001.jpg
-
-### 会学习和玩游戏的神经元
-
-在闭环中训练神经元培养物去玩游戏或控制身体。
-
-#### Living human neurons play DOOM on a CL1 — Cortical Labs (2026)
-- 类型: 研究原型 · 生物: 神经元与类器官
-- 核心想法: 一旦神经元有了 API，“它能跑 DOOM 吗？”就成了任何人都能在活体组织上尝试的测试。
-- 作品内容: 约 20 万个人类神经元在 CL1 芯片上接入了 Freedoom（1993 年射击游戏的免费版本）。这团神经元会在走廊里移动、遭遇敌人并开火，动作笨拙、经常死亡；搭建者是一位独立开发者，借助公开的 API 用了大约一周。
-- 实现方式: 游戏画面信息被转成电刺激模式，神经元的放电反应被解码为移动和开火指令，整个闭环在 CL1 上运行。
-- 视频: https://www.youtube.com/watch?v=yRV8fSw6HaE
-- 图片: https://static.scientificamerican.com/dam/m/5615652e83eaa237/original/GettyImages-2187865154.jpg?m=1774653169.265&w=1200
-- 项目主页: https://corticallabs.com/doom.html
 
 #### Biological Neurons Compete with Deep Reinforcement Learning in Sample Efficiency in a Simulated Gameworld — Cortical Labs, Brett J. Kagan (2024)
 - 类型: 论文 · 生物: 神经元与类器官
@@ -12875,6 +14310,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://image.theregister.com/257569.jpg?imageId=257569&panox=0&panoy=0&panow=0&panoh=0&width=1200&height=683
 - 项目主页: https://butterfly.finalspark.com/
 
+#### Brainoware: Brain organoid reservoir computing for artificial intelligence — Feng Guo (2023)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 保持组织原样：让类器官自身的动态去变换输入，只训练一个简单的读出层。
+- 作品内容: 放在微电极阵列上的活体脑类器官被用作储备池计算系统中的“储备池”，帮助识别不同说话人的日语元音，并预测一个混沌方程。
+- 实现方式: 音频特征被编码为时空电刺激，记录类器官的诱发活动并训练线性读出层；组织中的无监督可塑性让准确率随时间提高。
+- 论文: https://doi.org/10.1038/s41928-023-01069-w (Nature Electronics 2023)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41928-023-01069-w/MediaObjects/41928_2023_1069_Fig1_HTML.png
+
 #### Critical dynamics arise during structured information presentation within embodied in vitro neuronal networks — Cortical Labs, Brett J. Kagan (2023)
 - 类型: 论文 · 生物: 神经元与类器官
 - 核心想法: 神经培养物的临界状态是对有意义输入的反应，而不是它自带的属性。
@@ -12899,6 +14342,23 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=bEXefdbQDjw
 - 项目主页: https://www.youtube.com/watch?v=bEXefdbQDjw
 
+#### Organoid intelligence (OI): the new frontier in biocomputing and intelligence-in-a-dish — Lena Smirnova, Thomas Hartung, Brett J. Kagan (2023)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 一份研究议程，在同一份文件中为一个领域命名，并列出它的工具和伦理问题。
+- 作品内容: 为“类器官智能”命名的论文。它提出扩大脑类器官的规模、用三维电极与之连接、用机器学习训练它们来构建生物计算机，并把伦理纳入整个计划。
+- 实现方式: 路线图论文，结合类器官生物学、三维微电极阵列、大数据与人工智能方法，以及嵌入式伦理方法。
+- 论文: https://doi.org/10.3389/fsci.2023.1017235 (Frontiers in Science 2023)
+- 视频: https://www.youtube.com/watch?v=A1fXvgKVTmk
+- 图片: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1017235/fsci-01-1017235-HTML-r9/image_m/fsci-01-1017235-g001.jpg
+
+#### The technology, opportunities, and challenges of Synthetic Biological Intelligence — Brett J. Kagan, Cortical Labs (2023)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 一张生物计算机全栈地图：从细胞到软件。
+- 作品内容: 一篇综述，定义了“合成生物智能”，梳理让活体神经元计算所需的硬件、细胞来源和训练方法，并列出尚未解决的问题。
+- 实现方式: 综述内容涵盖干细胞来源的神经元、微电极阵列、闭环反馈，以及围绕它们的软件与伦理层面。
+- 论文: https://doi.org/10.1016/j.biotechadv.2023.108233 (Biotechnology Advances 2023)
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/256f/10804936/ac4bfda9d037/gr1.jpg
+
 #### DishBrain: In vitro neurons learn and exhibit sentience when embodied in a simulated game-world — Cortical Labs, Brett J. Kagan (2022)
 - 类型: 论文 · 生物: 神经元与类器官
 - 核心想法: 只要世界在它们成功时给出可预测的回应，培养皿里的神经元就能学会一个游戏。
@@ -12915,6 +14375,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一团活体神经元培养物被当作物理储备池，通过 FORCE 学习产生连贯的输出信号；接入一台小车机器人后，这个闭环让机器人表现出类似稳态的行为，从而走出迷宫。
 - 实现方式: 在微电极阵列上记录神经活动，进行线性读出并用 FORCE 学习在线训练，输出再通过光照释放笼锁化合物的方式反馈给培养物。
 - 论文: https://doi.org/10.1063/5.0064771 (Applied Physics Letters 2021)
+
+#### Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development — Alysson R. Muotri (2019)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 类器官能产生类似大脑的节律，这让它们的潜力和伦理问题都更加紧迫。
+- 作品内容: 培养十个月的人类皮层类器官发展出越来越复杂的网络振荡；一个用早产儿脑电图训练的机器学习模型难以可靠地区分类器官活动与婴儿大脑活动。
+- 实现方式: 在多孔微电极阵列上连续数月每周记录类器官，并用回归模型把振荡特征与早产新生儿脑电图进行比较。
+- 论文: https://doi.org/10.1016/j.stem.2019.08.002 (Cell Stem Cell 2019)
+- 视频: https://www.youtube.com/watch?v=rkpo7R8UOlc
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ca6e/6778040/b7f263d3f8c1/nihms-1537695-f0001.jpg
 
 #### Neurobot: organoid-driven robots — Alysson R. Muotri (2019)
 - 类型: 研究原型 · 生物: 神经元与类器官
@@ -12981,9 +14450,9 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1023/A:1012407611130 (Autonomous Robots 2001)
 - 图片: https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/2-Figure1-1.png https://figures.semanticscholar.org/fdffd7bf6f1cf0e8d5ceca6725dbccd22413d2d6/3-Figure2-1.png
 
-### 湿件平台
+### 湿件平台与界面
 
-可以编程或租用的商业与开放生物计算机。
+培养、读取活体神经元并与之交流的平台、硬件和界面。
 
 #### Biological data centres — Cortical Labs (2026)
 - 类型: 产品与平台 · 生物: 神经元与类器官
@@ -13011,6 +14480,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://corticallabs.com/images/c-share.jpg
 - 项目主页: https://corticallabs.com/cloud.html
 
+#### Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids — Zhenan Bao, Sergiu P. Pașca (2024)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 剪纸图案可以把平面电路变成承托活体组织的柔软摇篮。
+- 作品内容: 按剪纸（kirigami）图案切割的薄电极片展开成小篮子，托住人类神经类器官，在不损伤它的情况下记录数月的活动。
+- 实现方式: 用剪纸切口图案化可拉伸聚合物电子，使其在长期培养中变形为三维并贴合类器官与组装体。
+- 论文: https://doi.org/10.1038/s41587-023-02081-3 (Nature Biotechnology 2024)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02081-3/MediaObjects/41587_2023_2081_Fig1_HTML.png
+
 #### Neuroplatform: open and remotely accessible wetware computing — FinalSpark (2024)
 - 类型: 产品与平台 · 生物: 神经元与类器官
 - 核心想法: 类器官成为一台共享、常开的仪器：你登录使用，而不必自己培养。
@@ -13021,6 +14498,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://www.frontiersin.org/api/ipx/w=1200&f=png/https://www.frontiersin.org/files/Articles/1376042/frai-07-1376042-HTML-r1/image_m/frai-07-1376042-g001.jpg https://finalspark.com/wp-content/themes/divi-creative-agency/images/organoid-5.png
 - 项目主页: https://finalspark.com/neuroplatform/
 
+#### Functional neuronal circuitry and oscillatory dynamics in human brain organoids — Kenneth S. Kosik (2022)
+- 类型: 论文 · 生物: 神经元与类器官
+- 核心想法: 高密度电极把类器官的活动变成一张可读的电路图。
+- 作品内容: 把人类脑类器官切片放在高密度 CMOS 电极阵列上，可以看到数千个单独的神经元、它们之间的连接以及节律性振荡。
+- 实现方式: 在拥有数千个电极的 CMOS 高密度微电极阵列上记录类器官切片，通过放电分类和连接推断绘制回路与振荡。
+- 论文: https://doi.org/10.1038/s41467-022-32115-4 (Nature Communications 2022)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32115-4/MediaObjects/41467_2022_32115_Fig1_HTML.png
+
 #### IoT cloud laboratory: Internet of Things architecture for cellular biology — Braingeneers (2022)
 - 类型: 论文 · 生物: 神经元与类器官, 细胞与组织
 - 核心想法: 细胞培养物变成一台有地址、有日志、可以远程控制的联网设备。
@@ -13030,35 +14515,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/cec6/10305744/14dab88d76f4/nihms-1898546-f0001.jpg
 - 项目主页: https://braingeneers.ucsc.edu
 - 代码: https://github.com/braingeneers
-
-#### Konikore — Koniku (2017)
-- 类型: 产品与平台 · 生物: 神经元与类器官
-- 核心想法: 把活的受体细胞装进设备，直接借用生物的感官。
-- 作品内容: 一台手掌大小的设备，把带有嗅觉受体的工程神经元与硅电子结合起来，用来检测和分类气味，例如爆炸物。它于 2017 年在 TEDGlobal 上首次亮相。
-- 实现方式: 由小鼠干细胞分化并经过改造、表达气味受体的神经元位于电极上，软件读取并分类它们对空气中分子的反应。
-- 视频: https://www.youtube.com/watch?v=-brCBnjq1Uc
-- 图片: https://koniku.com/meta-img.jpg
-- 项目主页: https://koniku.com
-
-### 类器官的界面
-
-为活体神经组织设计的电极、三维微电极阵列、可视化与交互。
-
-#### Kirigami electronics for long-term electrophysiological recording of human neural organoids and assembloids — Zhenan Bao, Sergiu P. Pașca (2024)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 剪纸图案可以把平面电路变成承托活体组织的柔软摇篮。
-- 作品内容: 按剪纸（kirigami）图案切割的薄电极片展开成小篮子，托住人类神经类器官，在不损伤它的情况下记录数月的活动。
-- 实现方式: 用剪纸切口图案化可拉伸聚合物电子，使其在长期培养中变形为三维并贴合类器官与组装体。
-- 论文: https://doi.org/10.1038/s41587-023-02081-3 (Nature Biotechnology 2024)
-- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41587-023-02081-3/MediaObjects/41587_2023_2081_Fig1_HTML.png
-
-#### Functional neuronal circuitry and oscillatory dynamics in human brain organoids — Kenneth S. Kosik (2022)
-- 类型: 论文 · 生物: 神经元与类器官
-- 核心想法: 高密度电极把类器官的活动变成一张可读的电路图。
-- 作品内容: 把人类脑类器官切片放在高密度 CMOS 电极阵列上，可以看到数千个单独的神经元、它们之间的连接以及节律性振荡。
-- 实现方式: 在拥有数千个电极的 CMOS 高密度微电极阵列上记录类器官切片，通过放电分类和连接推断绘制回路与振荡。
-- 论文: https://doi.org/10.1038/s41467-022-32115-4 (Nature Communications 2022)
-- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-32115-4/MediaObjects/41467_2022_32115_Fig1_HTML.png
 
 #### Maturation and circuit integration of transplanted human cortical organoids — Sergiu P. Pașca (2022)
 - 类型: 论文 · 生物: 神经元与类器官, 动物
@@ -13099,6 +14555,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 把超柔性、可拉伸的纳米电子网放在二维干细胞层上，这些细胞层通过器官发生自组装成三维类器官。
 - 论文: https://doi.org/10.1021/acs.nanolett.9b02512 (Nano Letters 2019)
 - 视频: https://www.youtube.com/watch?v=nCU3xlZw3xo
+
+#### Konikore — Koniku (2017)
+- 类型: 产品与平台 · 生物: 神经元与类器官
+- 核心想法: 把活的受体细胞装进设备，直接借用生物的感官。
+- 作品内容: 一台手掌大小的设备，把带有嗅觉受体的工程神经元与硅电子结合起来，用来检测和分类气味，例如爆炸物。它于 2017 年在 TEDGlobal 上首次亮相。
+- 实现方式: 由小鼠干细胞分化并经过改造、表达气味受体的神经元位于电极上，软件读取并分类它们对空气中分子的反应。
+- 视频: https://www.youtube.com/watch?v=-brCBnjq1Uc
+- 图片: https://koniku.com/meta-img.jpg
+- 项目主页: https://koniku.com
 
 #### Macroporous nanowire nanoelectronic scaffolds for synthetic tissues — Charles M. Lieber, Jia Liu (2012)
 - 类型: 论文 · 生物: 细胞与组织, 神经元与类器官
@@ -13351,1053 +14816,2298 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1038/d41586-018-04813-x (Nature 2018)
 - 图片: https://media.nature.com/lw1200/magazine-assets/d41586-018-04813-x/d41586-018-04813-x_15700022.jpg
 
-## 动物-计算机交互
+## 生态艺术
 
-由动物使用、与动物一起设计、为动物设计的技术：宠物、工作犬、动物园居民、家畜和野生动物，以及让动物参与其中的伦理。
+与其他物种和生态系统一起、为它们、关于它们的艺术：跨物种艺术、修复与大地艺术、生态媒介与装置。
 
-### 宠物与伴侣动物
+### 跨物种艺术
 
-让宠物在家里通话、玩耍、休息并被理解的设备。
+与其他生命一起、由它们或为它们创作的艺术。
 
-#### Look What the Cat Tapped In: Exploring Digital Interactive Systems Designed for the Cat Cafe Experience — Ilyena Hirskyj-Douglas, Rébecca Kleinberger (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给游客一种不会让猫过度疲惫的玩法。
-- 作品内容: MewTube 是一款用于猫咖啡馆的平板应用，为猫播放精选视频，并让游客根据猫的行为调整播放速度。
-- 实现方式: 为期五个月的研究，涉及 28 位游客和 16 只猫，对比有无应用两种情况。
-- 论文: https://doi.org/10.1145/3768539.3768541 (ACI 2025)
-- 图片: https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/2-Figure1-1.png https://figures.semanticscholar.org/5ebf3d99af2556602768061d3e9754a85db0b4e4/8-Figure4-1.png
+#### What Makes Us Most Human Is Also So Animal — Jiabao Li (2026)
+- 类型: 艺术作品 · 生物: 动物, 人体
+- 核心想法: 哺乳让我们最像人，正因为它提醒我们是哺乳动物。
+- 作品内容: 一场盲品表演：观众品尝一排哺乳动物的奶——艺术家自己的、牛、羊、骆驼、牦牛、驴、蝙蝠、郊狼等——并猜出来源。
+- 实现方式: 以盲品形式提供十一种哺乳动物的奶样。
+- 视频: https://www.youtube.com/watch?v=8k3acKrF-o8
+- 项目主页: https://www.jiabaoli.org/what-makes-us-most-human-is-also-so-animal
 
-#### pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring — Shuyi Sun, Katia Vega (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 咬咬玩具也可以是一张由动物自己在玩耍中“涂抹”的检测试纸。
-- 作品内容: pawH 是一组宠物玩具（编织绳和球），会随宠物咀嚼时唾液的 pH 值改变颜色。
-- 实现方式: 把比色法 pH 生物传感材料嵌入对宠物安全的玩具中，颜色可用肉眼或便携光谱仪读取。
-- 论文: https://doi.org/10.1145/3715336.3735768 (DIS 2025)
+#### Symbiotic Stitches — Maryland Institute College of Art Biodesign Challenge team (2024)
+- 类型: 艺术作品 · 生物: 真菌, 黏菌
+- 核心想法: 在艰难时期延续的手工传统，也可以把其他物种纳入为创作者。
+- 作品内容: 一个用菌丝体、黏菌和地衣完成的拼布项目，把照护视为韧性，追问人类如何与非人类合作者一起实践照护。
+- 实现方式: 拼布面板被接种或缝入活的真菌、黏菌和地衣，并记录它们的生长。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643576152-V2FZJI1JPC3OULZ4UN5K/Screenshot+2024-06-17+at+12.58.20+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643578608-WJHC6E1Y9G9OJH8IN3PP/Screenshot+2024-06-17+at+12.59.22+PM.png
+- 项目主页: https://www.biodesignchallenge.org/mica-2024
 
-#### AI Cat Narrator — Zhenchi Lai (2024)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 用 AI 想象猫会怎样讲述这个共同的家。
-- 作品内容: 一个 AI 工具，根据猫的传感数据、有关猫的文献和对主人的访谈，从猫的角度为猫与人的日常瞬间写出另一种故事。
-- 实现方式: 把记录下来的猫的数据与文献和访谈材料一起输入大语言模型，生成猫第一人称的叙事。
-- 论文: https://doi.org/10.1145/3656156.3663692 (DIS 2024 Companion)
-- 图片: https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls — Ilyena Hirskyj-Douglas, Jennifer Cunha, Rébecca Kleinberger (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对群居动物来说，实时的联系比内容更有价值。
-- 作品内容: 一项为期六个月的研究：宠物鹦鹉可以触发与其他鹦鹉的实时视频通话或预录视频，结果它们明显更常选择实时通话。
-- 实现方式: 由鹦鹉操作的平板系统，记录实时与预录通话的触发次数、投入程度和行为。
-- 论文: https://doi.org/10.1145/3613904.3641938 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=bjoJToyC9_0
-
-#### GluCAT: A Feline Biofluids IoT Hub for Electrochemical Glucose Biosensing — Shuyi Sun, Katia Vega (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 宠物的体液可以成为照护它的数据流。
-- 作品内容: GluCAT 是一个“猫体液物联网中枢”，用电化学生物传感器检测猫尿中的葡萄糖，并把数据连接到家中的联网设备。
-- 实现方式: 在猫砂盆装置中进行葡萄糖生物传感，并接入物联网系统做持续监测。
-- 论文: https://doi.org/10.1145/3623509.3635250 (TEI 2024)
-
-#### No More Angry Birds: Investigating Touchscreen Ergonomics to Improve Tablet-Based Enrichment for Parrots — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 人类的触屏标准不适合鹦鹉；要测量它们的身体来为它们设计。
-- 作品内容: 研究 20 只宠物鹦鹉如何用喙和舌头触碰平板屏幕，并据此提出鹦鹉应用的界面设计准则。
-- 实现方式: 在平板上进行触控目标实验，并与菲茨定律等 HCI 模型对照检验。
-- 论文: https://doi.org/10.1145/3613904.3642119 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=EY5GiklaplM
-- 图片: https://i.ytimg.com/vi/EY5GiklaplM/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3613904.3642119
-
-#### Prototyping an Immersive Screen Interfaces for Dogs' to Control Screens in Their Home — Ilyena Hirskyj-Douglas (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把遥控器交给狗，看看它真正想看什么。
-- 作品内容: 一个家用系统：让狗自己在沉浸式屏幕装置上开启视频，研究者对一只狗进行了六个月的观察。
-- 实现方式: 由狗触发视频播放，并在长期居家部署中记录注意力和内容特征。
-- 论文: https://doi.org/10.1145/3702336.3702342 (ACI 2024)
-
-#### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 面向动物的社交技术，应该让它们自己决定是否通话、和谁通话。
-- 作品内容: 宠物鹦鹉学会摇铃请求通话，然后在平板上选择要视频通话的另一只鹦鹉；许多鹦鹉对特定伙伴形成了偏好。
-- 实现方式: 由鸟类发起、看护人在旁监督的平板视频通话，并在数月中分析使用情况和行为。
-- 论文: https://doi.org/10.1145/3544548.3581166 (CHI 2023)
-- 视频: https://www.youtube.com/watch?v=R8BlvicJfJM
-- 图片: https://news.northeastern.edu/wp-content/uploads/2023/04/neu_4f18zf631.jpg https://news.northeastern.edu/wp-content/uploads/2023/04/041023_MM_Jennifer_Cunha_010.jpg
-- 项目主页: https://news.northeastern.edu/2023/04/21/parrots-talking-video-calls
-
-#### KitBit: An Instrumented Collar for Indoor Pets — Melody Moore Jackson (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 为猫的身体和居家环境设计追踪器，而不是把狗用追踪器缩小。
-- 作品内容: KitBit 是一款轻巧的项圈式活动追踪器，为室内猫设计，用机器学习判断它们的活动水平。
-- 实现方式: 项圈上的惯性测量单元无线传输数据；LSTM 模型根据 11 个家庭中的玩耍数据判断活动水平。
-- 论文: https://doi.org/10.1145/3637882.3637894 (ACI 2023)
-
-#### Quantified Canine: Inferring Dog Personality From Wearables — Daniele Quercia (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 活动数据可以替代昂贵的性格测评，比如用于为收容所的狗匹配领养家庭。
-- 作品内容: 胸前佩戴的传感器 Patchkeeper 从 12 只狗身上收集了 1300 小时的活动数据，并推断出它们的性格特征。
-- 实现方式: 用加速度计和陀螺仪数据，对照经过验证的狗性格问卷建立模型。
-- 论文: https://doi.org/10.1145/3544548.3581088 (CHI 2023)
-- 视频: https://www.youtube.com/watch?v=jQeBh000krw
-- 图片: https://arxiv.org/html/2301.06964v2/figures/device_diagram.png
-
-#### Squeeker: The Mouse Coach — Jiabao Li (2023)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把实验鼠的关系反过来：让老鼠来安排人的健康作息。
-- 作品内容: 一个应用和装置，让宠物鼠当你的跑步教练：老鼠在智能跑轮上开跑时你会收到通知，跑够和它一样的距离，你们都能得到奖励。
-- 实现方式: 装有传感器的跑轮把老鼠的跑步距离传到手机应用；奖励是给老鼠的零食和给人的社交媒体滑动距离。
-- 论文: https://doi.org/10.1145/3731459.3779140 (TEI 2026)
-- 视频: https://www.youtube.com/watch?v=UvfkYPLJAaw
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b7f95c0a-871a-4b29-a615-02a0f0a098bd/Jiabao+Li+Squeeker+Mouse+Coach+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c9dc1a34-a6c8-4773-9b65-9c17244ee166/jiabao+li+mouse+coach+idfa+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/34f8125f-977a-4b14-b437-81b59a8fc08b/jiabao+li+squeeker+mouse+coach+app.jpg
-- 项目主页: https://www.jiabaoli.org/mouse-coach
-
-#### cirCAT: PURRtentio: a Litter Box that Monitors Feline Urine using Electrochemical Biosensors — Shuyi Sun, Katia Vega (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把每天上厕所的习惯变成健康监测，不必专门去看兽医。
-- 作品内容: cirCAT: PURRtentio 是一个装有电化学生物传感器的猫砂盆，猫每次使用时都能在家分析它的尿液。
-- 实现方式: 自制三电极传感器、恒电位仪、微控制器和距离传感器识别猫并测量尿液成分，结果在手机应用中显示。
-- 论文: https://doi.org/10.1145/3637882.3637887 (ACI 2023)
-
-#### Automated recognition of pain in cats — Anna Zamansky (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 摄像头能读出主人常常忽略的猫脸上的疼痛。
-- 作品内容: 比较两种机器学习方法（基于面部标志点和深度学习），用来识别猫面部照片中的疼痛。
-- 实现方式: 对 29 只猫手术前后的面部图像，分别用几何标志点和深度神经网络进行分析。
-- 论文: https://doi.org/10.1038/s41598-022-13348-1 (Scientific Reports 2022)
-- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13348-1/MediaObjects/41598_2022_13348_Fig1_HTML.jpg
-
-#### MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction — Woohun Lee (2022)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让动物来决定哪位观众的话被听见。
-- 作品内容: MeowPlayLive 让直播观众发送语音消息，这些消息在猫的平板上变成移动的物体；只有猫拍到时，消息才会被播放。
-- 实现方式: 直播平台与面向猫的平板游戏相连，在真实直播中部署测试。
-- 论文: https://doi.org/10.1145/3532106.3533553 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=Op7IIU355T4
-
-#### Forming the Dog Internet: Prototyping a Dog-to-Human Video Call Device (DogPhone) — Ilyena Hirskyj-Douglas, Roosa Piitulainen (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让动物自己决定何时连线，看看由动物发起的互联网会是什么样。
-- 作品内容: DogPhone 让狗通过叼起并摇晃一个软球来给主人拨打视频电话；它在第一作者的拉布拉多犬 Zack 身上测试了 16 天。
-- 实现方式: 球内的加速度计触发笔记本电脑发起视频通话；主人也可以打过来，而狗可以不理会。
-- 论文: https://doi.org/10.1145/3488539 (PACM HCI (ISS) 2021)
-- 视频: https://www.youtube.com/watch?v=LLNrNAMnA6M
-- 图片: https://www.gla.ac.uk/media/Media_819888_smxx.jpg https://www.gla.ac.uk/media/Media_819889_smxx.jpg
-- 项目主页: https://www.gla.ac.uk/news/archiveofnews/2021/november/headline_819757_en.html
-
-#### Meow Meow Call: Prototype Design for Building Interactive Connection between Human and Deaf Cat — Hongyi Zhang (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 像为人做无障碍设计一样，为残障动物换一种感官通道。
-- 作品内容: Meow Meow Call 是一个用光和振动代替声音与失聪猫咪建立联系的原型。
-- 实现方式: 一个由三部分组成的原型，与两只失聪猫及其主人进行了为期两周的测试。
-- 论文: https://doi.org/10.1145/3411763.3451681 (CHI EA 2021)
-- 视频: https://www.youtube.com/watch?v=bYEm36ORAjQ
-
-#### WOOFlex: A Wearable Device to Aid Canine Flexibility Exercises — Shuyi Sun, Katia Vega (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把测量设备穿在狗身上，人的双手就能专心做训练。
-- 作品内容: WOOFlex 是一款狗用可穿戴设备，在伸展训练中测量关节角度，并为主人提供实时反馈。
-- 实现方式: 贴合的套袖里装有弯曲传感器，读取关节活动度，并在应用中与该品种的目标值比较。
-- 论文: https://doi.org/10.1145/3493842.3493903 (ACI 2021)
-- 视频: https://www.youtube.com/watch?v=iUYcwSncXDs
-
-#### Understanding the Interaction Between Animals and Wearables: The Wearer Experience of Cats — Patrizia Paci, Clara Mancini (2020)
-- 类型: 论文 · 生物: 动物
-- 核心想法: “对动物友好”的可穿戴设备，要以动物的体验来检验，而不是以主人的体验。
-- 作品内容: 一项实地研究：观察 13 只佩戴市售 GPS 追踪器的猫，寻找不适迹象和佩戴上的问题。
-- 实现方式: 在实地研究中对佩戴和不佩戴追踪器的猫进行行为观察与编码。
-- 论文: https://doi.org/10.1145/3357236.3395546 (DIS 2020)
-- 视频: https://www.youtube.com/watch?v=3S9_Xfk1xP4
-
-#### AffectiveNemo — Naohiro Isokawa (2019)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给鱼一种看得懂的“声音”，能让主人更持续地照顾它们。
-- 作品内容: 一套水族箱系统：根据鱼的游动方式估计它的“被观察到的情绪”，并在鱼缸后的屏幕上以对话气泡显示。
-- 实现方式: 结合摄像头追踪的鱼类运动数据与人们赋予鱼的情绪，估计出“被观察到的情绪”，显示在鱼缸后的液晶屏上。
-- 论文: https://doi.org/10.1145/3371049.3371067 (ACI 2019)
-- 项目主页: https://doi.org/10.1145/3371049.3371067
-
-#### Buddy's Wearable Is Not Your Buddy: Privacy Implications of Pet Wearables — Dirk van der Linden, Anna Zamansky (2019)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 宠物追踪器同时也在追踪牵着绳子的那个人。
-- 作品内容: 一项对宠物可穿戴设备隐私政策的分析，发现这些设备收集的主人数据多于宠物数据。
-- 实现方式: 对市售宠物可穿戴设备的隐私政策进行文本分析。
-- 论文: https://doi.org/10.1109/msec.2018.2888783 (IEEE Security & Privacy 2019)
-- 图片: https://figures.semanticscholar.org/04700ad35f7ea5a90e5ff530c00edf07a0f94981/2-Figure1-1.png
-
-#### Log My Dog: Perceived Impact of Dog Activity Tracking — Anna Zamansky (2019)
-- 类型: 论文 · 生物: 动物, 人体
-- 核心想法: 宠物可穿戴设备改变的不只是动物，也改变了关系中人的一方。
-- 作品内容: 对使用热门狗活动追踪器的主人进行研究，发现它主要促使主人与狗一起更多地活动。
-- 实现方式: 针对商用狗活动追踪器用户的实证研究。
-- 论文: https://doi.org/10.1109/mc.2018.2889637 (IEEE Computer 2019)
-- 图片: https://figures.semanticscholar.org/549d1677f6afbb09916edf7bb1e4b1c37c1799b0/2-Figure1-1.png
-- 项目主页: https://doi.org/10.1109/mc.2018.2889637
-
-#### On the Internet, Nobody Knows You're a Dog... Unless You're Another Dog — Ilyena Hirskyj-Douglas (2019)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 动物-计算机交互已经造了动物与计算机的界面；下一步是经由计算机的动物与动物之间的沟通。
-- 作品内容: 一个关于“狗互联网”的设计虚构：通过共同设计工作坊得出六个方案，让狗能与其他狗联系，而不仅仅是与计算机交互。
-- 实现方式: 通过共同设计工作坊产出叙事和概念，并分析狗互联网应该和不应该是什么样子。
-- 论文: https://doi.org/10.1145/3290605.3300347 (CHI 2019)
-- 视频: https://www.youtube.com/watch?v=ClU087JidS4
-
-#### BubbleTalk — Donghyeon Ko (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 跨越玻璃壁：给人一种作用于鱼的世界的方式。
-- 作品内容: 一套鱼缸系统：把养鱼人在手机上记录的动作转成释放到缸里的气泡，让人的存在能“传到”鱼那里。
-- 实现方式: 由手机应用控制的气泵模块向鱼缸释放气泡；对孔雀鱼饲养者的用户研究观察了行为与关系的变化。
-- 论文: https://doi.org/10.1145/3196709.3196720 (DIS 2018)
-- 图片: https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/5-Figure3-1.png https://figures.semanticscholar.org/74c91c4d713fcf5cc364d6d9cf9377a599c6442d/500px/1-Figure1-1.png
-- 项目主页: https://doi.org/10.1145/3196709.3196720
-
-#### DoggyVision: Examining how dogs (Canis familiaris) interact with media using a dog-driven proximity tracker device. — Ilyena Hirskyj-Douglas (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 狗走过来，就是开机键。
-- 作品内容: DoggyVision 是一个接近感应装置，狗走近就能开关电视，用来研究狗是否会自己控制观看。
-- 实现方式: 在家中把接近感应器与电视相连，记录开启次数和观看时长。
-- 论文: https://doi.org/10.26451/abc.05.04.06.2018 (Animal Behavior and Cognition 2018)
-- 图片: https://figures.semanticscholar.org/e282c3c6f45832811df1f9883368fc4c2471792d/5-Figure1-1.png
-
-#### Dogs using touchscreens in the home: a case study for assistance dogs operating emergency notification systems — Ceara Byrne, Clint Zeagler, Melody Moore Jackson (2018)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 没穿工作背心的辅助犬也需要一个界面；那就把它装在墙上。
-- 作品内容: 训练医疗警报犬操作安装在家中墙上的触摸屏，在紧急情况下呼叫帮助。
-- 实现方式: 在家中开展实地研究，三只医疗警报犬在随机时间出现的虚拟目标上完成特定的触碰顺序。
-- 论文: https://doi.org/10.1145/3295598.3295610 (ACI 2018)
-- 图片: https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/3-Figure3-1.png https://figures.semanticscholar.org/a55f3dc48b983560bb10c2b39cd3d33e89b10644/2-Figure2-1.png
-
-#### A dog centred approach to the analysis of dogs' interactions with media on TV screens — Ilyena Hirskyj-Douglas (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 想知道狗在看什么，就让它在多块屏幕中自己选择，而不是只给一块。
-- 作品内容: 一项研究：用以狗为中心的方法，观察狗如何在播放不同视频的三块电视屏幕之间转移注意力。
-- 实现方式: 三屏装置，在相对不受控的环境中对每只狗的注视和位置进行视频编码。
-- 论文: https://doi.org/10.1016/j.ijhcs.2016.05.007 (IJHCS 2017)
-
-#### AquaPrism: Dynamically Altering the Color of Aquatic Animals without Injury by Augmenting Aquarium — Jun Rekimoto (2017)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 改变动物的外观，要设计光线，而不是改造动物。
-- 作品内容: AquaPrism 不使用染料、不伤害动物，而是在普通鱼缸后方利用偏振光，让透明的水族动物在黑暗中呈现颜色和光泽。
-- 实现方式: 在鱼缸前后贴偏振片让鱼缸变暗；透明动物身体的双折射会旋转来自显示器的偏振光，从而显出颜色。
-- 论文: https://doi.org/10.1145/3152130.3152138 (ACI 2017)
-- 视频: https://www.youtube.com/watch?v=g6WLiyPzES0
-
-#### K9-Blyzer: Towards Video-Based Automatic Analysis of Canine Behavior — Anna Zamansky (2017)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 自动视频分析让行为测量不必再依靠人工逐秒编码。
-- 作品内容: K9-Blyzer 是一个自动分析狗视频、量化其行为的工具。
-- 实现方式: 用计算机视觉在视频中追踪狗，生成基于运动的行为指标。
-- 论文: https://doi.org/10.1145/3152130.3152142 (ACI 2017)
-- 视频: https://www.youtube.com/watch?v=1QQIaMYI2l8
-
-#### A dog using skype — Alexandre Pongrácz Rossi (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 狗可以学会把屏幕里的声音当作主人。
-- 作品内容: 一位训犬师讲述如何训练狗正确回应主人通过视频通话发出的口令。
-- 实现方式: 借助视频聊天软件分步训练，直到狗能执行远程主人的指令。
-- 论文: https://doi.org/10.1145/2995257.3012019 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=qzdnZ2SKG28
-
-#### TalkingNemo — Naohiro Isokawa (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把鱼缸状况翻译成鱼的第一人称话语。
-- 作品内容: 一个水族箱：用摄像头和传感器观察鱼和水质，并以对话气泡“替鱼说话”，在出问题时提醒主人。
-- 实现方式: 摄像头和水质传感器检测鱼的状态和缸内环境，再按规则转换成以鱼的口吻发出的消息。
-- 论文: https://doi.org/10.1145/2995257.3012017 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=IXqRVKZHpfA
-- 项目主页: https://doi.org/10.1145/2995257.3012017
-
-#### UbiComp for animal welfare: envisioning smart environments for kenneled dogs — Clara Mancini (2014)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 为动物设计的智能环境应当从福利出发，而不是从数据收集出发。
-- 作品内容: 在狗狗再安置中心开展的民族志研究，提出以福利为中心的智能犬舍环境框架。
-- 实现方式: 与员工和狗一起进行为期四个月的田野调查，得出一个把监测、互动和信息管理结合起来的框架。
-- 论文: https://doi.org/10.1145/2632048.2632073 (UbiComp 2014)
-- 图片: https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/6-Figure2-1.png https://figures.semanticscholar.org/f21c3dad887f9a82342d1754adabc81b213d5f28/5-Figure1-1.png
-
-#### Exploring pet video chat: the remote awareness and interaction needs of families with dogs and cats — Carman Neustaedter (2013)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 家庭把宠物当作想要“打电话”的成员，而不只是被监看的对象。
-- 作品内容: 一项对猫狗主人的调查，了解他们离家时希望如何通过视频看护宠物并与之互动。
-- 实现方式: 对在线问卷进行分析，归纳感知和互动需求，并提出宠物视频聊天的设计建议。
-- 论文: https://doi.org/10.1145/2441776.2441953 (CSCW 2013)
-
-#### DOGTV — DOGTV (2012)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 媒体可以依据非人类观众的感官来设计。
-- 作品内容: DOGTV 是为独自在家的狗开设的电视频道，画面和声音依据狗的色觉与听觉进行剪辑。
-- 实现方式: 节目分为放松、刺激和脱敏三类，色彩与声音频率的选择依据狗的感知。
-- 图片: https://www.dogtv.com/wp-content/uploads/2025/08/JRT_Watching-3-scaled-e1754077958681.jpg
-- 项目主页: https://www.dogtv.com
-
-#### Exploring interspecies sensemaking: dog tracking semiotics and multispecies ethnography — Clara Mancini (2012)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 追踪设备同时改变狗和人；要研究的是这一对关系。
-- 作品内容: 一项关于 GPS 狗追踪的民族志研究，揭示追踪如何重塑狗与主人之间的关系，并提出一种跨物种符号学。
-- 实现方式: 结合主人叙述、动物研究者观点和对被追踪狗的观察，进行多物种民族志研究。
-- 论文: https://doi.org/10.1145/2370216.2370239 (UbiComp 2012)
-- 图片: https://figures.semanticscholar.org/686461c76c7633ce5143ae38c7ca280381e35382/5-Figure1-1.png
-
-#### PetPace — PetPace (2012)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 让照护者读懂动物身体的状态。
-- 作品内容: 一款给猫狗戴的智能项圈，持续监测脉搏、呼吸、体温、活动和姿态等体征，在数据提示疼痛或疾病时提醒主人和兽医。
-- 实现方式: 项圈内的非侵入式传感器把生理数据传到云平台，由算法识别异常并通过 App 发出提醒。
-- 视频: https://www.youtube.com/watch?v=DGbrYUXW_Bk
-- 图片: https://petpace.com/wp-content/uploads/2026/08/pic-dog.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Communication technology for human-dog interaction: exploration of dog owners' experiences and expectations — Oskar Juhlin (2011)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 猎人和宠物主人对狗用技术的需求不同；要依情境来设计。
-- 作品内容: 针对狗主人和猎人的研究，了解他们如何与狗一起使用通信技术，以及对未来设备的期待。
-- 实现方式: 对两类用户进行访谈和问卷，了解现有设备和期望的服务。
-- 论文: https://doi.org/10.1145/1978942.1979329 (CHI 2011)
-- 图片: https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure3-1.png https://figures.semanticscholar.org/6aa579e460a6b322a751066084494b4cb8a2e2c6/3-Figure1-1.png
-
-#### Cat@Log: sensing device attachable to pet cats for supporting human-pet interaction — Jun Rekimoto (2009)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 猫的一天变成了主人可以关注的社交媒体动态。
-- 作品内容: Cat@Log 是一组供宠物猫佩戴的感应设备，能识别猫的行为并发布到 Twitter 上。
-- 实现方式: 项圈上的加速度计、摄像头等传感器把数据送入分类器，生成高层次行为并发布。
-- 论文: https://doi.org/10.1145/1690388.1690414 (ACE 2009)
-- 视频: https://www.youtube.com/watch?v=sY01SRLlD24
-
-#### Augmented Animals (LED Dog Tail Communicator) — Auger-Loizeau (2006)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 问一问：如果动物是用户，会出现哪些小工具？以此揭示技术有多么以人为中心。
-- 作品内容: 一组设想“为动物本身设计的技术”的装置；其中 LED 狗尾巴翻译器读取狗摇尾巴的速度，把它想表达的意思用文字显示给人看。
-- 实现方式: 装有可编程 LED 的自动摇摆尾巴，把摇尾速度映射成文字；系列中的其他概念还包括老鼠夜视镜和鸟用防撞雷达。
-- 图片: https://www.moma.org/interactives/exhibitions/2008/elasticmind/assets/images/LEDDogTailCommunicator/ledtaillight.jpg
-- 项目主页: https://www.moma.org/interactives/exhibitions/2008/elasticmind/
-
-#### Poultry.Internet: A mobile pet wearable computer and mixed reality system for human-poultry interaction through the internet — Adrian David Cheok (2006)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 远程触摸可以让人与动物的陪伴跨越距离。
-- 作品内容: 一只鸡穿着装有振动马达的背心；当主人在办公室抚摸装有传感器的鸡玩偶时，触感会通过互联网传给真实的鸡。
-- 实现方式: 触觉感应玩偶、互联网连接、振动背心以及用摄像头追踪鸡的混合现实画面（第一作者 Shang Ping Lee）。
-- 论文: https://doi.org/10.1007/s00779-005-0051-6 (Personal and Ubiquitous Computing 2006)
-- 视频: https://www.youtube.com/watch?v=1x-8EzuMiqU
-- 项目主页: https://mixedrealitylab.org/projects/all-projects/poultry-internet/
-
-#### Supporting interspecies social awareness: using peripheral displays for distributed pack awareness (PAWSABILITIES) — Jennifer Mankoff (2005)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 远程感知也可以把狗当作家庭成员包括进来。
-- 作品内容: PAWSABILITIES 是一组外围显示装置，让家人和狗在分开时仍能感知彼此的活动。
-- 实现方式: 传感器和环境显示把“狗群”活动在远方的人和家中的狗之间共享。
-- 论文: https://doi.org/10.1145/1095034.1095076 (UIST 2005)
-- 图片: https://figures.semanticscholar.org/da1b85caa894166a17c77ce38d4e062fb28318e7/1-Figure1-1.png
-
-### 与动物一起的游戏、玩耍与机器人
-
-跨物种游戏，以及陪动物玩耍、喂食或照料动物的机器人。
-
-#### Provoking Public Reflection on Robotics and AI through Cat Royale, an Artistic Installation — Steve Benford (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 关于动物与机器人的含混艺术，能把抽象的 AI 争论变得可感。
-- 作品内容: 研究观众如何回应 Cat Royale，并提出：把艺术作品呈现为刻意含混的界面，能帮助人们跳出对 AI 非赞成即反对的立场。
-- 实现方式: 分析围绕这件直播装置的观众参与数据和评论。
-- 论文: https://doi.org/10.1145/3803784.3807545 (Creativity & Cognition 2026)
-- 图片: https://arxiv.org/html/2402.15431v1/Figures/CR_System_Components.png
-
-#### Charting the Ecosystem of Trust in Cat Royale, or What It Takes to Trust a Robot to Play with Cats — Steve Benford (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对社交机器人的信任，是在远超机器人本身的多个层次中建立的。
-- 作品内容: 一项案例研究，梳理一台能让人放心陪猫玩耍的机器人背后的一切——从控制室、动物福利专家到伦理审查与公众参与——归纳为“信任生态”的五个层次。
-- 实现方式: 五层框架：个人工作空间、编排、更广的工作空间、组织文化和公共领域。
-- 论文: https://doi.org/10.1007/978-981-95-2398-6_42 (Social Robotics (LNCS), 2025)
-- 图片: https://arxiv.org/html/2402.15431v1/Figures/CR_Brisbane.jpg
-
-#### Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation — Stephan Huber (2025)
+#### Wings Against the Veil of Light — Jiabao Li (2024)
 - 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 把蜜蜂当作共同创作者，蜂箱就成了工作室。
-- 作品内容: 在一个季节里，研究者把人制作的蜡质形状放入蜂箱，让蜜蜂在上面继续建造，形成超出蜜蜂常规巢脾形态的雕塑。
-- 实现方式: 把蜡质起始造型放入西方蜜蜂群落中四个月，记录蜜蜂如何偏离常规巢脾。
-- 论文: https://doi.org/10.1145/3689050.3705990 (TEI 2025)
+- 核心想法: 借用昆虫发声的身体，去感受人类的灯光如何打乱它们的求偶。
+- 作品内容: 一场舞踏表演：舞者戴着用拉链和尺子做成的翅膀，像蟋蟀一样鸣叫，讲述光污染如何让雄蟋蟀在错误的时间鸣唱。
+- 实现方式: 可穿戴的“锉刀-刮器”翅膀（拉链与尺子）模仿蟋蟀摩擦发声；由 Rosemary Candelario 编舞。
+- 视频: https://www.youtube.com/watch?v=V-doIkBdPkg
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/c3932ec7-6a6b-4671-96ce-bc5808b54847/Jiabao+Li_Cricket_Butoh+0.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851572775-050B68ZON2C30S1RQKM0/Jiabao+Li+cricket+2.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1730851574015-ASDXQCJPX2KD61ZGPXE2/Jiabao+Li+cricket+3.jpg
+- 项目主页: https://www.jiabaoli.org/wings-against-the-veil-of-light
 
-#### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 要为动物设计整个世界，而不只是机器人与它的一次互动。
-- 作品内容: CHI 2024 最佳论文，回顾 Cat Royale 的设计：围栏环境、机器人及其自主系统、定制末端执行器、在环人员，以及十二天展演中的关键时刻。
-- 实现方式: 对一件已实际运行的机器人-猫装置进行设计案例研究，结合视频分析以及艺术家、工程师和动物福利专家的反思。
-- 论文: https://doi.org/10.1145/3613904.3642115 (CHI 2024)
-- 图片: https://arxiv.org/html/2402.15431v1/Figures/CatRoyale_Overview_v3a.png https://arxiv.org/html/2402.15431v1/Figures/Cats_Portrait_v2.png
+#### Orbweaver — Brad Hakes (2023)
+- 类型: 艺术作品 · 生物: 动物, 昆虫
+- 核心想法: 与另一个物种共处，可以从重新“阅读”它的造物开始。
+- 作品内容: 一系列干预作品——照片、视频，以及一台被改装来“解读”圆网蛛平面蛛网的扫地机器人——艺术家借此尝试减轻自己对蜘蛛的恐惧。
+- 实现方式: 借鉴 Albert Bandura 的暴露疗法，把蛛网几何转化为机器人的路径和影像作品。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881592851-AZD7PR7NHJE6X5ETJLUI/Screenshot+2023-06-27+at+11.56.23+AM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687881600707-3KVU2SVJUJH16G0YJBXC/Screenshot+2023-06-27+at+11.57.06+AM.png
+- 项目主页: https://www.biodesignchallenge.org/ut-austin-2023
 
-#### Cat Royale — Blast Theory, Steve Benford (2023)
+#### Plant Play — Silvia Ruzanka (2023)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把植物想象成玩家，会动摇人类对“玩”的理解。
+- 作品内容: 一件为捕蝇草设计的实验性电子游戏艺术作品，接在植物上的传感器控制游戏。
+- 实现方式: 传感线路读取捕蝇草的电信号作为游戏输入，并以女性主义和后人类主义关于非人类游戏的思想为框架。
+- 论文: https://doi.org/10.1145/3573382.3616049 (CHI PLAY 2023 Companion)
+- 图片: https://figures.semanticscholar.org/09bf064c1680f1e2dccc622ef13fd007db1216c3/500px/2-Figure1-1.png
+- 项目主页: https://doi.org/10.1145/3573382.3616049
+
+#### Exploring Kolam As An Ecofeminist Computational Art Practice — Gopinaath Kannabiran (2022)
+- 类型: 论文 · 生物: 昆虫, 人体
+- 核心想法: 女性的日常仪式可以是一种计算，同时也喂养其他生命。
+- 作品内容: 一篇图文论文，介绍泰米尔纳德邦日常在门槛前绘制的 Kolam 图案（传统上用米粉绘制，也喂养小生物），把它视为植根于生态女性主义的算法艺术实践。
+- 实现方式: 基于文献和作者本人的实践，用图像记录 Kolam 的八个特征。
+- 论文: https://doi.org/10.1145/3527927.3531452 (C&C 2022)
+- 项目主页: https://doi.org/10.1145/3527927.3531452
+
+#### Interactive Art as Enrichment for Flying-Foxes — Alinta Krauth (2022)
 - 类型: 艺术作品 · 生物: 动物
-- 核心想法: 用最诚实的评委——猫——来检验人们对自主照护系统的信任。
-- 作品内容: 三只猫在十二天里每天有六小时住在专门搭建的“猫咪乌托邦”中，一只机械臂陪它们玩、给它们零食，AI 学习它们的偏好；这件网络直播作品追问：我们是否应该把照护托付给机器人。首演于布里斯班世界科学节。
-- 实现方式: 一台机械臂（很可能是 Kinova）配有定制玩具，由计算机视觉与学习系统根据猫的投入程度为游戏排序，并由在环人员和动物福利专家监督。
-- 论文: https://doi.org/10.1145/3636499 (ACM Interactions 2024)
-- 视频: https://vimeo.com/1183715660
-- 图片: https://www.blasttheory.co.uk/wp-content/uploads/2024/05/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0604-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2023/05/Cat-Royale-by-Blast-Theory_Image-Credit_Stephen-Daly_DSC_9976-800x450.jpg https://www.blasttheory.co.uk/wp-content/uploads/2024/01/Cat-Royale-by-Blast-Theory_Image-Credit_RULER_SDQ_0612-800x450.jpg
-- 项目主页: https://www.blasttheory.co.uk/projects/cat-royale/
-
-#### TAS for Cats: An Artist-led Exploration of Trustworthy Autonomous Systems for Companion Animals — Steve Benford, Blast Theory (2023)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 一个面向动物的自主系统，可信程度取决于围绕它的人类网络。
-- 作品内容: 把 Cat Royale 作为与 TAS Hub 创意大使 Blast Theory 共同搭建的自主系统来介绍，并剖析负责任地运行它需要多少人类与动物利益相关者。
-- 实现方式: 系统描述，以及从负责任研究与创新（RRI）角度对自主性、可信性和责任的反思。
-- 论文: https://doi.org/10.1145/3597512.3597517 (TAS 2023)
-- 图片: https://arxiv.org/html/2402.15431v1/Figures/Environment_design_V3.png
-
-#### Designing for Trust: Autonomous Animal-Centric Robotic & AI Systems — Steve Benford (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 家用机器人的信任设计必须同时考虑动物和人。
-- 作品内容: ACI 2022 论文，提出 Cat Royale 背后的问题：当宠物、人与机械臂等家用机器人共处一室时，信任如何建立。
-- 实现方式: 立场论文，用负责任研究与创新的方法讨论以动物为中心的自主系统。
-- 论文: https://doi.org/10.1145/3565995.3566046 (ACI 2022)
-
-#### Dog Driven Robot: Towards Quantifying Problem-Solving Abilities in Dogs — Ceara Byrne, Melody Moore Jackson (2019)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让狗驾驶机器人，就能测量它如何解决问题。
-- 作品内容: 狗通过拉、按或靠近输入装置，远程驾驶一台小机器人穿过迷宫，用来测试它们的解决问题能力。
-- 实现方式: 高台上的三种输入方式（拉绳、按钮、接近）触发机器人移动，并提供视觉反馈。
-- 论文: https://doi.org/10.1145/3371049.3371063 (ACI 2019)
-
-#### Exploring the Reactions of Companion Animals as Unintended Users of Social Robots — Ehud Sharlin (2019)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 宠物是家用机器人的“非预期用户”；引入机器人时要顾及它们的感官。
-- 作品内容: 一项探索性研究：观察两只家猫对放在家中的小型社交机器人的反应，比较突然引入和逐步引入两种方式。
-- 实现方式: 非正式的设计研究：在两种引入策略下观察猫在社交机器人周围的行为。
-- 论文: https://doi.org/10.1145/3301019.3323891 (DIS 2019)
-- 图片: https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/4-Figure5-1.png https://figures.semanticscholar.org/ebe372ebd67fb62ba7f936aa35806027587ddd92/2-Figure1-1.png
-
-#### Umamimi robotic horse ears: using configurable code profiles to replicate individuality in equine animatronics — Steve North (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 借用动物自己的肢体语言作为界面。
-- 作品内容: Umamimi 是可编程的机器马耳：人可以戴上它用耳朵信号与马“交谈”，它也可以作为独处马匹的陪伴。
-- 实现方式: 舵机驱动的仿生马耳，可配置代码参数，实现用户触发和随机两种动作。
-- 论文: https://doi.org/10.1145/3295598.3295606 (ACI 2018)
-- 视频: https://www.youtube.com/watch?v=90oS6pgYEsY
-
-#### Designing interspecies playful interactions: studying children perceptions of games with animals — Patricia Pons (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 孩子是设计人与动物游戏的天然合作者。
-- 作品内容: 让孩子们设计人与动物之间的游戏（有的用技术，有的不用），以了解他们如何想象跨物种玩耍。
-- 实现方式: 分析儿童设计活动中的游戏机制、角色分配和对动物的态度。
-- 论文: https://doi.org/10.1145/3152130.3152139 (ACI 2017)
-- 视频: https://www.youtube.com/watch?v=lfP8sqALWlg
-
-#### CleverPet Hub — CleverPet (2016)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把实验室里的学习任务包装成家用产品，就能在人不在家时让狗有事可做。
-- 作品内容: CleverPet Hub 是一台家用狗游戏机：三个触摸垫会亮起，狗按正确顺序按下就能得到食物，游戏难度会逐步提高。
-- 实现方式: 发光触摸垫、食物投放器和运行操作性学习游戏的自适应软件，通过应用控制。
-- 视频: https://www.youtube.com/watch?v=Cm08jEklfKY
-
-#### Designing Mediated Nurturing Play with Dogs to Alleviate Workplace Stress — Florian 'Floyd' Mueller (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 远程玩耍可以把动物辅助活动的益处带到动物进不去的地方。
-- 作品内容: 一个系统：让办公室员工与远方的救助犬进行简短的养育式玩耍，同时缓解职场压力、增进狗的福祉。
-- 实现方式: 人-计算机-动物的游戏系统，把员工的操作连接到远方收容所狗的玩具和零食上。
-- 论文: https://doi.org/10.1145/2908805.2909412 (DIS 2016)
-
-#### Dog-drone interactions: towards an ACI perspective — Anna Zamansky (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 无人机终会遇到狗；要从狗的一侧来设计这次相遇。
-- 作品内容: 一篇短文，呼吁用以动物为中心的方式看待狗与无人机的相遇，让这种互动安全且不造成压力。
-- 实现方式: 结合对狗面对无人机时反应的观察写成的立场论文。
-- 论文: https://doi.org/10.1145/2995257.3012021 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=wOvXHugXKNo
-
-#### Exploring human perceptions of dog-tablet playful interactions — Anna Zamansky (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 狗是否在“玩”平板游戏，取决于谁在看、怎么看。
-- 作品内容: 一项探索性研究：人们如何看待狗玩平板电脑，是否认为那是真正的玩耍。
-- 实现方式: 在线研究：展示狗与平板互动的视频，收集人们的解读。
-- 论文: https://doi.org/10.1145/2995257.3012023 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=Ig6SQIaPss0
-
-#### RoboFish — Tim Landgraf (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 机器人可以作为参与者加入动物群体，并借此检验群体如何作决定。
-- 作品内容: RoboFish 是一条由鱼缸下方磁铁驱动的机器孔雀鱼；当它有逼真的眼睛、动作自然时，活体孔雀鱼会把它当作同伴。
-- 实现方式: 带磁性底座的仿真鱼由鱼缸下方的轮式机器人驱动，配合对活鱼的闭环视频追踪。
-- 论文: https://doi.org/10.1088/1748-3190/11/1/015001 (Bioinspiration & Biomimetics 2016)
-
-#### Towards the Creation of Interspecies Digital Games: An Observational Study on Cats' Interest in Interactive Technologies — Patricia Pons (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 先研究动物对什么好奇，再为它设计游戏。
-- 作品内容: 一项观察研究：哪些技术刺激（投影光、移动物体、声音、平板）真正能吸引猫，为设计猫与人的游戏提供依据。
-- 实现方式: 让猫接触不同的互动刺激，录像并按兴趣和投入程度编码分析。
-- 论文: https://doi.org/10.1145/2851581.2892381 (CHI 2016 Extended Abstracts)
-- 视频: https://www.youtube.com/watch?v=ie6xe3v70kQ
-- 图片: https://i.ytimg.com/vi/ie6xe3v70kQ/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/2851581.2892381
-
-#### Developing a depth-based tracking system for interactive playful environments with animals — Patricia Pons (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给动物玩的游戏需要知道动物在哪里、身体在做什么。
-- 作品内容: 一个深度相机追踪系统，检测动物的位置和姿态，让游戏环境能对它们作出回应。
-- 实现方式: 处理 Microsoft Kinect 的深度数据，在游戏空间中检测猫及其姿态。
-- 论文: https://doi.org/10.1145/2832932.2837007 (ACE 2015)
-- 图片: https://figures.semanticscholar.org/85e6e37164808c42c01b2645d253401ff35ddcf2/4-Figure3-1.png
-
-#### Purrfect Crime: Exploring Animal Computer Interaction through a Digital Game for Humans and Cats — Rui Trindade (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 不对称的角色让两个物种能共享同一款游戏。
-- 作品内容: Purrfect Crime 是一款平板游戏，人和猫在同一块屏幕上以不同角色一起玩。
-- 实现方式: 猫在平板上追逐移动目标，人承担策略性角色；与猫和人一起进行了测试。
-- 论文: https://doi.org/10.1145/2702613.2728660 (CHI EA 2015)
-
-#### Animal Ludens: Building Intelligent Playful Environments for Animals — Patricia Pons (2014)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 玩耍是进入动物交互设计最自然的入口。
-- 作品内容: 提出面向动物的智能游戏环境：能够感知动物并为其调整游戏的空间，而不是单一设备上的游戏。
-- 实现方式: 一个框架：由传感器驱动、能适应其中动物和人的游戏化环境。
-- 论文: https://doi.org/10.1145/2693787.2693794 (ACE 2014 Workshops (ACI))
-
-#### Pig Chase (Playing with Pigs) — Clemens Driessen, Kars Alfrink (2012)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 玩耍能让人把农场动物看作有心智的个体，也给它们找点事做。
-- 作品内容: Pig Chase 是一款游戏：猪圈里的猪和拿着 iPad 的人一起玩，猪用鼻子在大型触摸屏上追逐一个光球。
-- 实现方式: 猪圈里的触敏墙面显示屏通过互联网连接到人类玩家手中的平板游戏。
-- 视频: https://www.youtube.com/watch?v=CsuMkHJxoak
-
-#### Cat Cat Revolution: An Interspecies Gaming Experience — Frank Noz (2011)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 只要界面适合物种，宠物就能成为共享游戏中真正的玩家。
-- 作品内容: 一款 iPad 猫捉老鼠游戏：猫在屏幕上追逐虚拟老鼠，主人负责操控老鼠。
-- 实现方式: 为猫设计了适合其物种的平板界面，人类玩家则使用控制端。
-- 论文: https://doi.org/10.1145/1978942.1979331 (CHI 2011)
-- 图片: https://figures.semanticscholar.org/28a1dbe45ae7b36a3df1e40a7df0306967c95e58/1-Figure1-1.png
-- 项目主页: https://doi.org/10.1145/1978942.1979331
-
-#### Games for Cats (Friskies) — Nestlé Purina PetCare (2011)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 一款大众应用让屏幕成了猫可以玩的东西。
-- 作品内容: Friskies 的 Games for Cats 是一组平板应用，猫可以用爪子追逐屏幕上的鱼、激光点和虫子。
-- 实现方式: 高对比度移动目标的触屏游戏，触碰检测按爪子大小设计。
-- 视频: https://www.youtube.com/watch?v=Ed06WBmxrp8
-
-#### Metazoa Ludens: Mixed-Reality Interaction and Play for Small Pets and Humans — Adrian David Cheok (2011)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 借助混合现实，人和小宠物可以一起玩同一个游戏。
-- 作品内容: 仓鼠在实体场地中奔跑，控制电脑游戏中的一个角色；人类玩家的角色则移动场地里的实体诱饵，让仓鼠追逐。
-- 实现方式: 摄像头追踪仓鼠，场地下方用电机驱动诱饵，双方进入共享虚拟游戏；用标准评分方法检查宠物健康。
-- 论文: https://doi.org/10.1109/tsmca.2011.2108998 (IEEE Transactions on Systems, Man, and Cybernetics 2011)
-- 视频: https://www.youtube.com/watch?v=7o7UIpOy5LA
-- 项目主页: https://ieeexplore.ieee.org/document/5740616/
-
-#### Early explorations of CAT: canine amusement and training — Chadwick A. Wingrave (2010)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 游戏可以塑造人与狗共享的日常习惯。
-- 作品内容: 一个严肃游戏原型，旨在让人与自己的狗进行平静、健康而愉快的游戏时间。
-- 实现方式: 结合训犬与游戏的原型系统，采用严肃游戏方法设计。
-- 论文: https://doi.org/10.1145/1753846.1753849 (CHI 2010 Extended Abstracts)
-- 项目主页: https://doi.org/10.1145/1753846.1753849
-
-### 工作与辅助动物
-
-为检测犬、导盲犬、服务动物及其训导员设计的界面。
-
-#### Towards Enactivist ACI - Sensor-Rich Olfactory Workstation and Suit for Detection Dogs — Dognosis (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把狗的嗅闻看作一种主动的、具身的过程，并完整记录下来。
-- 作品内容: 为癌症检测犬设计的多传感器嗅闻工作台和穿戴服，记录狗在气味任务中动作与感官的耦合。
-- 实现方式: 红外传感器、惯性测量单元等数据流围绕样本口同步采集，以生成认知理论为基础。
-- 论文: https://doi.org/10.1145/3702336.3702351 (ACI 2024)
-
-#### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design — Hochul Hwang (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在制造导盲机器狗之前，先搞清楚真实的导盲犬团队是怎么工作的。
-- 作品内容: 访谈导盲犬使用者和训练师，了解人与狗如何配合，为四足导盲机器人的设计提供依据。
-- 实现方式: 对使用者与导盲犬互动的质性研究，并转化为机器人设计需求。
-- 论文: https://doi.org/10.1145/3613904.3642181 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=skMHdNmyN68
-- 图片: https://arxiv.org/html/2402.06790v1/f1-harness.png
-
-#### WAG’D: Towards a Wearable Activity and Gait Detection Monitor for Sled Dogs — Charles Ramey, Thad Starner (2022)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 在挽具里加装传感器，发现驾驶者看不到的伤病。
-- 作品内容: WAG'D 是一款测量雪橇犬拉力和步态的可穿戴设备，用来在训练和比赛中发现伤病。
-- 实现方式: 在挽具中装入拉力和惯性传感器并记录数据，与艾迪塔罗德雪橇赛的驾驶者和兽医一起设计。
-- 论文: https://doi.org/10.1145/3565995.3566042 (ACI 2022)
-- 图片: https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/4-Figure2-1.png https://figures.semanticscholar.org/30b00e3ea188e16c95c128e82d88eb431d0a5c84/3-Figure1-1.png
-
-#### From Ideation to Deployment: A Narrative Case Study of Citizen Science Supported Wearables for Raising Guide Dogs — Alper Bozkurt, David L. Roberts (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 推广一款动物可穿戴设备，也意味着要为给狗穿戴它的志愿者而设计。
-- 作品内容: 一个案例研究：把导盲犬幼犬用的可穿戴传感系统从实验室原型推广到志愿寄养家庭中使用。
-- 实现方式: 与导盲犬学校一起开发智能背带和应用，并通过公民科学方式部署。
-- 论文: https://doi.org/10.1145/3493842.3493890 (ACI 2021)
-- 视频: https://www.youtube.com/watch?v=VU92LHenQZk
-
-#### Wearable Sensors for Canine Nosework Sniffing Interaction — Melody Moore Jackson (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 听见嗅闻声：声音能透露检测犬正在做什么。
-- 作品内容: 一款装有麦克风和运动传感器的狗用可穿戴设备，用来识别嗅探犬的嗅闻和搜索行为。
-- 实现方式: 心形指向麦克风和两个惯性测量单元的数据送入机器学习分类器，识别嗅探行为。
-- 论文: https://doi.org/10.1145/3493842.3493892 (ACI 2021)
-- 视频: https://www.youtube.com/watch?v=wLxENa1Ui0Y
-
-#### Canine Co-design: Investigating Buttons as an Input Modality for Dogs — Charlotte L. Robinson (2020)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在做狗用界面之前，先和狗一起设计按钮。
-- 作品内容: 一项分两阶段的研究：与狗一起测试按钮大小、所需力度和位置如何影响它们按压，为狗用界面提供依据。
-- 实现方式: 用不同属性的按钮原型与狗一起测试，记录并分析按压行为。
-- 论文: https://doi.org/10.1145/3357236.3395462 (DIS 2020)
-- 图片: https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/1-Figure1-1.png https://figures.semanticscholar.org/ab18e90710614ccbabecd83cdcb4e6dac027ec09/7-Figure3-1.png
-
-#### Tricks and Treats: Designing Technology to Support Mobility Assistance Dogs — Charlotte L. Robinson (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 去支持人与狗之间的关系，而不是用技术取代狗的劳动。
-- 作品内容: 一个无障碍零食机，让四肢瘫痪者能自己奖励和训练他们的行动辅助犬。
-- 实现方式: 对主人的访谈，以及一个可远程触发的无障碍零食机的案例研究。
-- 论文: https://doi.org/10.1145/3313831.3376188 (CHI 2020)
-
-#### Dogs Can Understand Haptic Communication — Yoav Golan (2019)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 在嘈杂或远距离、声音和手势失效的地方，触觉可以传递指令。
-- 作品内容: 用装有振动马达的背心训练一只狗分辨四种振动模式，并执行对应的指令。
-- 实现方式: 位置和时间不同的振动模式，通过操作性条件反射教给狗。
-- 论文: https://doi.org/10.1145/3371049.3371066 (ACI 2019)
-
-#### Predicting the Suitability of Service Animals Using Instrumented Dog Toys — Ceara Byrne, Melody Moore Jackson (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 玩具可以测量性格，从而免去在不合适的狗身上花费数年训练。
-- 作品内容: 带传感器的狗玩具记录了服务犬候选幼犬的咬合与拉扯方式，这些数据能预测哪些狗能通过高级训练。
-- 实现方式: 在玩具中装入压力和运动传感器，进行为期两年的追踪研究，用分类器预测是否能成功安置。
-- 论文: https://doi.org/10.1145/3161184 (IMWUT 2018)
-- 图片: https://figures.semanticscholar.org/c8ebb46bcf71c2576827ee13fda84c9350ec36b7/6-Figure4-1.png
-
-#### Mobile Collaboration for Human and Canine Police Explosive Detection Teams — Joelle Alcaidinho, Melody Moore Jackson (2017)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 要为整个人犬团队以及周围的各个机构而设计。
-- 作品内容: 为多个机构联合开展的警察与警犬爆炸物搜查设计的移动通信系统。
-- 实现方式: 与搜查队开展田野调查，开发共享搜索区域和警犬报警信息的手机应用。
-- 论文: https://doi.org/10.1145/2998181.2998271 (CSCW 2017)
-- 图片: https://figures.semanticscholar.org/31c9545d90cc909e0019152994790fcde89b242e/4-Figure2-1.png
-
-#### Search and rescue: dog and handler collaboration through wearable and mobile interfaces — Clint Zeagler, Ceara Byrne, Melody Moore Jackson (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 狗找到人，背心告诉训导员狗找到了什么。
-- 作品内容: 一套供搜救犬佩戴的界面，把信息发送到训导员的手机应用，并提出把狗当作主动参与者的框架。
-- 实现方式: 由狗触发的可穿戴设备（咬合或拉扯传感器）与手机应用相连，依据搜救训导员的经验法则开发。
-- 论文: https://doi.org/10.1145/2995257.2995390 (ACI 2016)
-- 图片: https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/5-Figure4-1.png https://figures.semanticscholar.org/f78db44329980b7ed65a472771bcc5bd28d3d9e9/2-Figure1-1.png
-
-#### The impact of training approaches on experimental setup and design of wearable vibrotactiles for hunting dogs — Ann Morrison (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 动物如何被训练，决定了为它设计的界面必须是什么样子。
-- 作品内容: VibroTactile Vest 通过振动马达向猎犬发出指令，研究展示了训练方法如何影响设计。
-- 实现方式: 把可调强度的振动马达装在改造过的背心里，与接受不同训练方法的狗一起测试。
-- 论文: https://doi.org/10.1145/2995257.2995391 (ACI 2016)
-- 图片: https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/1-Figure1-1.png https://figures.semanticscholar.org/0f2a4313ea9834038b233b0cb5d2a3c941392936/5-Figure3-1.png
-
-#### Training collar-sensed gestures for canine communication — Joelle Alcaidinho, Melody Moore Jackson (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 要让狗通过设备“说话”，训练和传感必须一起设计。
-- 作品内容: 训练两只狗做出精确的动作，由项圈传感器检测并发送到训导员手机上，例如区分“等一等”和“绕过去”。
-- 实现方式: 项圈上的惯性测量单元、手势分类器和配套手机应用，并逐步说明训练流程。
-- 论文: https://doi.org/10.1145/2995257.3012020 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=JOaAISSvwxg
-
-#### Designing an emergency communication system for human and assistance dog partnerships — Charlotte L. Robinson, Clara Mancini (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 狗是这套警报的终端用户，所以每一步设计都要让它参与。
-- 作品内容: 一套辅助犬可以启动、为主人呼救的警报系统，全程与狗和主人一起共同设计。
-- 实现方式: 高保真的狗操作警报原型，测试狗在不同紧急情况下需要多少支持。
-- 论文: https://doi.org/10.1145/2750858.2805849 (UbiComp 2015)
-- 图片: https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/7-Figure3-1.png https://figures.semanticscholar.org/f4bd7555288643a4a569500cd8988f77391b3485/5-Figure2-1.png
-
-#### Re-Centering Multispecies Practices: A Canine Interface for Cancer Detection Dogs — Clara Mancini (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 围绕狗的工作方式设计界面，界面就能传达狗所知道的事。
-- 作品内容: 装有传感器的样本架记录医学检测犬嗅闻每个样本的时间和力度，从而不依赖训犬员也能读出狗自己的判断信心。
-- 实现方式: 在样本架中加入压力和距离传感器，与慈善机构 Medical Detection Dogs 合作开发。
-- 论文: https://doi.org/10.1145/2702123.2702562 (CHI 2015)
-- 视频: https://www.youtube.com/watch?v=MyHjq8Od-Xg
-- 图片: https://i.ytimg.com/vi/MyHjq8Od-Xg/maxresdefault.jpg
-- 项目主页: https://oro.open.ac.uk/42640/1/pn2412-mancini.pdf
-
-#### Towards a canine-human communication system based on head gestures — Giancarlo Valentin, Melody Moore Jackson, Thad Starner (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 只要设备能可靠读取，狗的头部动作就可以成为一套词汇。
-- 作品内容: 一个系统：狗用经过训练的头部动作向人发送信息，由项圈上的运动传感器感知。
-- 实现方式: 项圈上的惯性传感与手势识别，依据狗手势集的最低标准进行评估。
-- 论文: https://doi.org/10.1145/2832932.2837016 (ACE 2015)
-- 图片: https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/3-Figure3-1.png https://figures.semanticscholar.org/0dc7d6107fdc524be5f6c7742446db6af35ddffe/1-Figure1-1.png
-
-#### Towards the non-visual monitoring of canine physiology in real-time by blind handlers — Sean Mealin, Alper Bozkurt (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 狗的身体信号可以通过声音或触觉，传达给看不见它们的使用者。
-- 作品内容: 一套可穿戴系统，让视障的导盲犬使用者通过非视觉反馈实时了解狗的生理状态。
-- 实现方式: 装有心率等传感器的无线背带，把数据转为声音或触觉反馈。
-- 论文: https://doi.org/10.1145/2832932.2837018 (ACE 2015)
-- 图片: https://figures.semanticscholar.org/5c383cd77df958b11d2c021da7faa8a906236c68/3-Figure1-1.png
-
-#### Canine-centered interface design: supporting the work of diabetes alert dogs — Charlotte L. Robinson, Clara Mancini (2014)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 让界面适配狗的身体和能力，而不是人类的按钮。
-- 作品内容: 为糖尿病预警犬设计的报警界面原型：当主人血糖危险地降低时，狗可以按压或拉动它来呼救。
-- 实现方式: 对狗可操作的报警装置进行迭代原型设计，并用受训辅助犬测试。
-- 论文: https://doi.org/10.1145/2556288.2557396 (CHI 2014)
-- 视频: https://www.youtube.com/watch?v=_vYdDrMHC0U
-- 图片: https://i.ytimg.com/vi/_vYdDrMHC0U/maxresdefault.jpg
-- 项目主页: https://www.open.ac.uk/blogs/ACI/
-
-#### Going to the Dogs: Towards an Interactive Touchscreen Interface for Working Dogs — Melody Moore Jackson, Thad Starner (2014)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 在设计按钮之前，先测量动物的“指点”能力。
-- 作品内容: 一个按狗鼻触碰来设定目标大小和间距的触摸屏界面，让辅助犬能够例如呼叫救援。
-- 实现方式: 在壁挂触摸屏上与受训犬进行目标大小和间距实验（第一作者 Clint Zeagler）。
-- 论文: https://doi.org/10.1145/2642918.2647364 (UIST 2014)
-- 视频: https://www.youtube.com/watch?v=AZzJkar5h_g
-- 图片: https://i.ytimg.com/vi/AZzJkar5h_g/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/2642918.2647364
-
-#### Understanding guide dog team interactions: design opportunities to support work and play — Sabrina Hauser, Carman Neustaedter, Ron Wakkary (2014)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 为一个工作团队的玩耍而设计，而不只是为它的工作。
-- 作品内容: 一项关于导盲犬团队日常工作与闲暇的研究，并为两者找出设计机会。
-- 实现方式: 在工作和闲暇活动中对导盲犬使用者进行访谈和观察。
-- 论文: https://doi.org/10.1145/2598510.2598531 (DIS 2014)
-- 图片: https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/5-Figure2-1.png https://figures.semanticscholar.org/83df06b28f8fd32c102b06b58295c075aa68e379/4-Figure1-1.png
-
-#### FIDO - Facilitating Interactions for Dogs with Occupations: Wearable Dog-Activated Interfaces — Melody Moore Jackson, Thad Starner (2013)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让工作犬通过它们已经穿戴的装备“回话”。
-- 作品内容: 带传感器的服务犬背心，狗可以咬、拉或用鼻子触碰来发送信息，例如拨打急救电话或提醒听障主人。
-- 实现方式: 背心上装有咬合、拉拽和接近传感器并连接手机，在受训犬身上测试。
-- 论文: https://doi.org/10.1145/2493988.2494334 (ISWC 2013)
-- 视频: https://www.youtube.com/watch?v=1iaIQktV26M
-- 图片: https://media.npr.org/assets/img/2015/01/09/fido---sky-bite_wide-88de11020f6692986694f8215ddf563e0d7a7e8a.jpeg?s=1400&c=85&f=jpeg https://media.npr.org/assets/img/2015/01/09/fido---schubert-bite-sensor_wide-52bb7f044d9e9eff4931b5ce54bfca2f8a27307b.jpeg?s=1400&c=85&f=jpeg
-- 项目主页: https://www.npr.org/2015/01/17/376198998/sit-stay-call-911-fido-vest-gives-service-dogs-an-upgrade
-
-#### Understanding people and animals: the use of a positioning system in ordinary human-canine interaction — Alexandra Weilenmann, Oskar Juhlin (2011)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 研究人和狗借助设备一起做了什么，而不是设备声称显示了什么。
-- 作品内容: 一项民族志研究：猎人如何使用 GPS 狗追踪设备，以及它如何改变猎人与狗之间的互动。
-- 实现方式: 对驼鹿狩猎进行视频田野调查，并从常人方法学的角度分析拟人化。
-- 论文: https://doi.org/10.1145/1978942.1979328 (CHI 2011)
-- 图片: https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/6-Figure2-1.png https://figures.semanticscholar.org/70a7817049d65c2ec606dd750935cda5ef3db41b/7-Figure3-1.png
-
-#### Project Pigeon — B. F. Skinner (1943)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 这个早期由动物操作的界面表明，动物的劳动可以多么迅速地被用于人类的、甚至暴力的目的。
-- 作品内容: 二战期间，“鸽子计划”训练鸽子啄击导弹鼻锥内屏幕上的目标图像，用啄击来操纵导弹方向。
-- 实现方式: 用操作性条件反射训练鸽子啄击投射的目标，屏幕上的啄击位置被转换为转向信号。
-- 论文: https://doi.org/10.1037/h0045345 (American Psychologist 1960)
-- 视频: https://www.youtube.com/watch?v=-GdmfDuzQvM
-
-### 动物园与圈养丰容
-
-为灵长类、大象、鸟类等受照料动物设计的互动丰容。
-
-#### BearBubbles: Interactive Olfactory Enrichment to Encourage Foraging in Zoo Animals — Rébecca Kleinberger (2026)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 气味是一种丰富的丰容通道，而且可以由动物自己开启。
-- 作品内容: BearBubbles 在两只美洲黑熊靠近时释放带气味的泡泡，让它们掌控嗅觉丰容，并鼓励觅食行为。
-- 实现方式: 由接近触发的气味泡泡机，在新英格兰动物园部署三周。
-- 论文: https://doi.org/10.1145/3772318.3790842 (CHI 2026)
-- 视频: https://www.youtube.com/watch?v=ubS81hMRPZI
-
-#### CreatureConnect: Exploring Shared Control of Multimodal Displays Between People and Lemurs — Jiaqi Wang, Ilyena Hirskyj-Douglas (2026)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 共享控制可以让动物园动物和人成为同一系统的共同使用者。
-- 作品内容: CreatureConnect 是一个分布式装置，狐猴和动物园游客可以共同控制展区两侧的声音、气味和画面。
-- 实现方式: 展区内外的控制装置相互连接；20 天内记录了 541 次狐猴交互并观察了 16139 名游客。
-- 论文: https://doi.org/10.1145/3772318.3790643 (CHI 2026)
-- 图片: https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/6-Figure4-1.png https://figures.semanticscholar.org/d1c2277eca76c1ec38b99a76fc72e8825467c02f/5-Figure2-1.png
-
-#### Outfoxed: Design and Evaluation of a Modular Interactive Puzzle for Cognitive Enrichment of Zoo Animals — Rébecca Kleinberger (2026)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 自适应难度让谜题保持吸引力，而不需要饲养员反复重置。
-- 作品内容: Outfoxed 是一个难度可调、带多感官反馈的模块化益智喂食器，与一只北极狐一起部署，并在长鼻浣熊身上试用。
-- 实现方式: 装有传感器的模块化谜题关卡部署四周，结合人机交互和动物科学的指标进行分析。
-- 论文: https://doi.org/10.1145/3772318.3791644 (CHI 2026)
-- 视频: https://www.youtube.com/watch?v=pSsLSRJ-7JQ
-
-#### Colobus Curio Cabinet: A Modular, Mirror-Based, Co-Designed Enrichment Proposal for Colobus guereza — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 围绕动物本来就着迷的东西来设计丰容。
-- 作品内容: 一个挂在墙上的“珍奇柜”，由模块化的镜子和屏幕组件构成，与饲养员共同为喜欢反光表面的疣猴设计。
-- 实现方式: 模块化柜体，外罩仿自然外观，内部镜子和屏幕模块可更换，与动物园员工共同设计。
-- 论文: https://doi.org/10.1145/3768539.3768555 (ACI 2025)
-- 视频: https://www.youtube.com/watch?v=EU0SGAQKnoI
-
-#### Exploring the Cockatoo's Engagement with Audiovisual Stimuli: An Inclusive Avian-IoT Interaction Design — Hill Hiroki Kobayashi (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 丰容可以是自愿的、远程的、轻干预的。
-- 作品内容: 一个低干预的鸟类物联网系统，让一只圈养的鲑冠凤头鹦鹉自愿接触声音和图像刺激，并可远程监测。
-- 实现方式: 手机应用、中央服务器和笼舍内设备提供多模态刺激并记录参与情况。
-- 论文: https://doi.org/10.1145/3768539.3768553 (ACI 2025)
-- 图片: https://figures.semanticscholar.org/f8300d44282f318af469ff548e6e92d872ce9e57/4-Figure3-1.png
-
-#### Reshaping Human-Animal Relationships: Exploring Lemur and Human Enrichment through Smell, Sound, and Sight — Jiaqi Wang, Ilyena Hirskyj-Douglas (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 向游客展示动物的选择，而不是让游客直接与动物互动。
-- 作品内容: 一个让狐猴在展区内触发气味、声音和画面的装置，以及一个向游客展示狐猴选择的配套装置。
-- 实现方式: 对狐猴进行 63 天部署比较不同感官，再在多种条件下对游客进行 20 天部署。
-- 论文: https://doi.org/10.1145/3706598.3713311 (CHI 2025)
-- 视频: https://www.youtube.com/watch?v=v8kiUKrVLq0
-
-#### Swing it On: Design of Responsive Acoustic Environments for Zoo-housed Colobus Monkeys — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把动物已经在用的物件变成控制器。
-- 作品内容: 一个互动声音系统，把疣猴的秋千变成界面：荡得越高，播放的声景层次越多。
-- 实现方式: 秋千上的运动感应映射到溪流、昆虫、鸟鸣等层叠声音，并在新英格兰动物园制定评估方案。
-- 论文: https://doi.org/10.1145/3768539.3768551 (ACI 2025)
-- 视频: https://www.youtube.com/watch?v=_mxHsUzPxHs
-
-#### LemurLounge: Lemurs' Individual-Level, Group, and Cross-Species Use of an Interactive Audio Device in Zoos — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 为群体设计丰容，同时让个体可以选择独自使用。
-- 作品内容: LemurLounge 是一个音频装置，混养群体中的狐猴可以自己触发并独自收听；研究追踪了三个物种的 14 只狐猴。
-- 实现方式: 带有传感触发音频的封闭收听空间，部署在狐猴栖息地中，并记录每只个体的使用情况。
-- 论文: https://doi.org/10.1145/3613904.3641888 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=rzL0KoFrBEI
-
-#### Play That Trunky Music: Development of an Auditory Enrichment Device for Elephants in Zoos — Arianna Mastali, Charles Ramey (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 在已有的丰容设施上加入新的感官，而不是从零开始。
-- 作品内容: 为亚特兰大动物园非洲象的觅食墙加装的音频丰容系统，大象把鼻子伸进孔洞时就会播放声音。
-- 实现方式: 孔洞中的传感器触发音频，记录使用情况并与只有食物的丰容对比。
-- 论文: https://doi.org/10.1145/3702336.3702343 (ACI 2024)
-- 视频: https://www.youtube.com/watch?v=ANlIAhp4YTs
-
-#### Shelling Out the Fun: Quantifying Otter Interactions with Instrumented Enrichment Objects — Charles Ramey (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把传感器装进玩具，而不是装在动物身上。
-- 作品内容: 藏在丰容玩具里的传感器，长期测量佐治亚水族馆里每只海獭如何玩耍。
-- 实现方式: 防水传感模块装入丰容物件，把运动数据无线传到基站。
-- 论文: https://doi.org/10.1145/3702336.3702346 (ACI 2024)
-
-#### Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism — Aphrodite Theodora Andreou (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 设计时与动物一起玩，它会反驳你的假设。
-- 作品内容: 与马耳他一家海洋公园的宽吻海豚以游戏方式合作，共同设计丰容玩具，并反思跨物种摩擦的时刻。
-- 实现方式: 在 Mediterraneo 海洋公园与海豚和训练员一起进行游戏式测试，迭代玩具原型。
-- 论文: https://doi.org/10.1145/3637882.3637885 (ACI 2023)
-
-#### Hum-ble Beginnings: Developing Touch- and Proximity-Input-Based Interfaces for Zoo-Housed Giraffes’ Audio Enrichment — Ilyena Hirskyj-Douglas, Vilma Kankaanpää (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 输入方式要贴合动物的身体和行为。
-- 作品内容: 为动物园长颈鹿设计的触摸式和接近式界面，可以播放长颈鹿的哼鸣声或白噪音；两个月里它们更多使用接近式界面。
-- 实现方式: 先从饲养员处收集需求，与长颈鹿一起做原型，再部署两种界面进行比较。
-- 论文: https://doi.org/10.1145/3626470 (PACM HCI (ISS) 2023)
-
-#### Prototyping with Monkeys: Uncovering What Buttons for Monkeys Look Like — Vilma Kankaanpää, Ilyena Hirskyj-Douglas (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 对猴子来说，“按钮”也许是一根绳子，而不是按压开关。
-- 作品内容: 与动物园猴子一起快速制作原型，探索猴子用的实体按钮应是什么样子；结果它们更喜欢拉和摇，而不是按。
-- 实现方式: 与白脸僧面猴一起测试一系列低保真实体输入原型，改变颜色和交互方式。
-- 论文: https://doi.org/10.1145/3569009.3572735 (TEI 2023)
-- 视频: https://www.youtube.com/watch?v=t4AWeWoZHNs
-
-#### Apex and ApeTouch: Development of a Portable Touchscreen System and Software for Primates at Zoos — Christopher Flynn Martin (2022)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 降低门槛，就会有更多动物园提供认知丰容。
-- 作品内容: Apex 是一套便携式触摸屏系统，ApeTouch 是配套软件，让动物园无需自己开发就能为灵长类提供触屏任务。
-- 实现方式: 带奖励投放器的防水触屏单元运行开放的任务软件，在动物园中与猿类一起使用。
-- 论文: https://doi.org/10.3390/ani12131660 (Animals 2022)
-- 视频: https://www.youtube.com/watch?v=JWfEYJogvLo
-- 图片: https://pub.mdpi-res.com/animals/animals-12-01660/article_deploy/html/images/animals-12-01660-g001.png
-
-#### Do Monkeys Want Audio or Visual Stimuli? Interactive Computers for Choice with White-Faced Sakis in Zoos — Ilyena Hirskyj-Douglas (2022)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给动物多个选项而不是一个，通过它们的选择来衡量体验。
-- 作品内容: 一条“猴子媒体播放器”隧道让僧面猴在视频和声音之间选择；几周下来，它们触发声音的次数大约是视频的两倍。
-- 实现方式: 隧道内有三个红外区域，猴子停留多久就播放多久对应的视频或声音，并连续数周记录互动。
-- 论文: https://doi.org/10.1145/3532106.3533577 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=_rB1FVmks4g
-- 图片: https://www.gla.ac.uk/media/Media_853879_smxx.jpeg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f7ba/7924172/b4b3a0f72383/animals-11-00557-g001.jpg
-- 项目主页: https://www.gla.ac.uk/news/archiveofnews/2022/june/headline_853821_en.html
-
-#### An evaluation of interactive projections as digital enrichment for orangutans — Marcus Carter, Sarah Webber (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 数字丰容本身就可以让大猿获得满足。
-- 作品内容: 评估墨尔本动物园猩猩展区的互动投影系统，作为一种不需要食物奖励的丰容方式。
-- 实现方式: 长期观察猩猩使用投影互动游戏的行为。
-- 论文: https://doi.org/10.1002/zoo.21587 (Zoo Biology 2021)
-- 视频: https://www.youtube.com/watch?v=WObQaW2JYSs
-- 图片: https://i.ytimg.com/vi/WObQaW2JYSs/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1002/zoo.21587
-
-#### Soundyssey: Hybrid Enrichment System for Elephants in Managed Care — Harpreet Sareen (2021)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 当动物自己决定何时发生时，丰容的效果更好。
-- 作品内容: Soundyssey 是为圣迭戈动物园两头大象设计的丰容系统，让它们自己触发声音，获得选择权和控制权。
-- 实现方式: 物理与数字结合的装置，象鼻可触及的触发器连接音频输出，在动物园中部署。
-- 论文: https://doi.org/10.1145/3430524.3442469 (TEI 2021)
-- 视频: https://www.youtube.com/watch?v=4PfeYJp5X1Y
-
-#### Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals — Sarah Webber, Marcus Carter (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 当动物的反应决定下一个原型时，它们就是有创造力的共同设计者。
-- 作品内容: 为墨尔本动物园红毛猩猩设计互动投影装置的全过程，每一轮迭代都由红毛猩猩的反应来引导。
-- 实现方式: 与红毛猩猩、饲养员和设计师一起迭代共同设计，使用投影和 Kinect 感应。
-- 论文: https://doi.org/10.1145/3357236.3395559 (DIS 2020)
-- 视频: https://www.youtube.com/watch?v=u9WZbdMHam0
-
-#### Interspecies Interactions Mediated by Technology: An Avian Case Study at the Zoo — Rébecca Kleinberger (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给动物园动物对声音环境的控制权，而不只是播放一段录音给它听。
-- 作品内容: 圣迭戈动物园的两套互动声音系统，让一只名叫 Sampson 的紫蓝金刚鹦鹉在自己的笼舍里选择并控制音乐。
-- 实现方式: 基于栖木和触碰的界面触发音频，与鹦鹉和饲养员一起部署并观察。
-- 论文: https://doi.org/10.1145/3313831.3376858 (CHI 2020)
-- 视频: https://www.youtube.com/watch?v=sr5HA6pMxBU
-
-#### More Than Human Aesthetics: Interactive Enrichment for Elephants — Fiona French, Clara Mancini (2020)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 美学因物种而异；要为眼前这只动物的感官和身体而设计。
-- 作品内容: 基于为圈养大象设计互动声音和游戏装置的经验，探讨大象特有的交互美学可能是什么样。
-- 实现方式: 把已有的美学维度和设计原则应用到大象丰容原型上。
-- 论文: https://doi.org/10.1145/3357236.3395445 (DIS 2020)
-- 视频: https://www.youtube.com/watch?v=G7Eh4owhNFk
-- 图片: https://i.ytimg.com/vi/G7Eh4owhNFk/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3357236.3395445
-
-#### Music for Monkeys: Building Methods to Design with White-Faced Sakis for Animal-Driven Audio Enrichment Devices — Roosa Piitulainen, Ilyena Hirskyj-Douglas (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让动物自己选择刺激，并记录它的选择，以了解它的偏好。
-- 作品内容: 赫尔辛基 Korkeasaari 动物园的白脸僧面猴可以通过进入装有红外传感器的隧道，自己选择播放音乐、雨声或交通噪音。
-- 实现方式: 先在兽舍中进行低保真形态测试，再做出带红外传感器的隧道，触发声音并记录每次互动。
-- 论文: https://doi.org/10.3390/ani10101768 (Animals 2020)
-- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/2b0b2725a0f8/animals-10-01768-g001.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c9af/7601504/827a0dddfaa4/animals-10-01768-g002.jpg
-- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC7601504/
-
-#### Platypus Surfing: In Search of the Perfect Wave — Ann Morrison (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 就连鸭嘴兽，也可以拥有一个开关。
-- 作品内容: 一台造浪装置：墨尔本动物园的鸭嘴兽 Sam 游到传感器附近就能启动，让它自己选择何时有浪。
-- 实现方式: 水下接近传感器触发预设的造浪序列，与饲养员和福利专家一起开发。
-- 论文: https://doi.org/10.1145/3446002.3446052 (ACI 2020)
-- 视频: https://www.youtube.com/watch?v=HM4AQE6pe-8
-
-#### Animal-Centred Sonic Interaction Design: Musical Instruments and Interfaces for Grey Parrots — Reinhard Gupfinger (2019)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 为演奏者的喙和耳朵来设计乐器。
-- 作品内容: 围绕非洲灰鹦鹉的身体、听觉和好奇心设计的乐器与界面，作为听觉丰容进行测试。
-- 实现方式: 按以动物为中心的流程迭代制作可触摸的发声乐器，并与鹦鹉群一起评估。
-- 论文: https://doi.org/10.1145/3371049.3371062 (ACI 2019)
-- 视频: https://www.youtube.com/watch?v=5tY7D6zpsB8
-
-#### Computer tasks for great apes promote functional naturalism in a zoo setting — Christopher Flynn Martin (2018)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 只要所要求的思考是自然的，屏幕任务也可以是自然的。
-- 作品内容: 论文主张：动物园里给猿类的触屏任务提供了“功能性自然主义”，即与野生猿类所面临的相似的心智挑战。
-- 实现方式: 回顾猿类研究中的自动化方法，以及它们在印第安纳波利斯动物园的应用。
-- 论文: https://doi.org/10.1145/3295598.3295605 (ACI 2018)
-- 图片: https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/3-Figure1-1.png https://figures.semanticscholar.org/808effb799bdd2010ad6a561c74bfcb0e9adec0e/4-Figure3-1.png
-
-#### Gorilla game lab: exploring modularity, tangibility and playful engagement in cognitive enrichment design — Stuart Gray (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 模块化谜题让饲养员可以随时改变难度，让丰容保持吸引力。
-- 作品内容: Gorilla Game Lab 与布里斯托动物园的七只西部低地大猩猩一起，设计并测试了模块化、可触摸的谜题装置。
-- 实现方式: 内嵌传感器记录使用情况的模块化硬件谜题，与大猩猩群一起评估。
-- 论文: https://doi.org/10.1145/3295598.3295604 (ACI 2018)
-- 图片: https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/7-Figure3-1.png https://figures.semanticscholar.org/67413398b4dccc17ff321d7e0ec6155faad8036c/5-Figure1-1.png
-
-#### Digital Enrichment with Captive Siamang: Video Showcase of Primate Preference — Melanie Ford (2017)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给小型猿类一个自己的技术角落，让偏好自然显露出来。
-- 作品内容: 为两只圈养合趾猿在固定的技术区域提供平板电脑，并拍摄记录它们选择使用什么。
-- 实现方式: 把装有应用的平板放在受保护的操作台上，录像记录自愿使用情况。
-- 论文: https://doi.org/10.1145/3152130.3152150 (ACI 2017)
-- 视频: https://www.youtube.com/watch?v=xlNYO-J1Pv0
-
-#### Interactive technology and human–animal encounters at the zoo — Sarah Webber, Marcus Carter (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物园里的技术总是同时服务于多个物种；要为它们全部而设计。
-- 作品内容: 一项关于墨尔本动物园互动系统的研究，展示技术如何塑造游客、饲养员与动物之间的相遇。
-- 实现方式: 围绕动物园中的数字装置进行观察和访谈。
-- 论文: https://doi.org/10.1016/j.ijhcs.2016.05.003 (IJHCS 2017)
-- 图片: https://figures.semanticscholar.org/aece725a072f3397c50502a190ffc4507f60756e/8-Figure2-1.png
-
-#### Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology — Sarah Webber, Marcus Carter (2017)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 为动物设计的技术，也是一扇让人重新看待动物的窗口。
-- 作品内容: 墨尔本动物园用 Kinect 驱动的投影让猩猩与光互动；研究考察了游客观看猩猩玩耍后共情的变化。
-- 实现方式: 用微软 Kinect 深度感知驱动猩猩兽舍中的地面投影，并观察和调查游客反应。
-- 论文: https://doi.org/10.1145/3025453.3025729 (CHI 2017)
-- 视频: https://www.youtube.com/watch?v=l7OyfuidBI0
-- 图片: https://i.ytimg.com/vi/l7OyfuidBI0/maxresdefault.jpg
-- 项目主页: https://doi.org/10.1145/3025453.3025729
-
-#### Sonic Experiments with Grey Parrots: A Report on Testing the Auditory Skills and Musical Preferences of Grey Parrots in Captivity — Reinhard Gupfinger (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在为鹦鹉造乐器之前，先弄清它听到什么、喜欢什么。
-- 作品内容: 测试圈养非洲灰鹦鹉听觉能力和音乐偏好的实验，为声音丰容打基础。
-- 实现方式: 在救助机构中对一群非洲灰鹦鹉进行播放和互动式声音实验。
-- 论文: https://doi.org/10.1145/3152130.3152137 (ACI 2017)
-- 视频: https://www.youtube.com/watch?v=5tY7D6zpsB8
-
-#### Don't cut to the chase: hunting experiences for zoo animals and visitors — Fiona French, Sarah Webber, Heli Väätäjä (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把动物的狩猎丰容和游客的游戏连在一起，双方都会受益。
-- 作品内容: 一次工作坊，探讨如何用技术支持动物园动物的狩猎行为，同时为游客提供一个平行的游戏体验。
-- 实现方式: 围绕捕食动物丰容和游客参与，以动物园需求为题开展工作坊。
-- 论文: https://doi.org/10.1145/2995257.3014066 (ACI 2016)
-
-#### Sound to your objects: a novel design approach to evaluate orangutans' interest in sound-based stimuli — Patricia Pons, Marcus Carter (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让声音随物体而响，就把“听什么”的控制权交给了猿。
-- 作品内容: 为动物园红毛猩猩做的设计：摆弄实物就会触发声音，用来检验它们是否有兴趣控制听觉刺激。
-- 实现方式: 外观不像电子产品的实物与声音播放相连，与墨尔本动物园的红毛猩猩一起规划。
-- 论文: https://doi.org/10.1145/2995257.2995383 (ACI 2016)
-- 图片: https://figures.semanticscholar.org/13ea313b13fc9e225249ca4d64ce808476662e20/2-Figure1-1.png
-
-#### Designing Interactive Toys for Elephants — Fiona French, Clara Mancini (2015)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 游戏是丰容的途径，也是与任何物种一起设计的方法。
-- 作品内容: 关于用数字玩具和游戏为圈养大象提供游戏化认知丰容的早期研究。
-- 实现方式: 与饲养员和大象一起开展设计研究，开发有趣的互动装置。
-- 论文: https://doi.org/10.1145/2793107.2810327 (CHI PLAY 2015)
-- 项目主页: https://doi.org/10.1145/2793107.2810327
-
-#### Designing for intuitive use for non-human users — Hanna Wirman (2015)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对动物来说的“直观”，来自它们身体已经熟悉的东西。
-- 作品内容: 基于为红毛猩猩制作的触屏游戏，论文主张可触摸的界面和动物熟悉的动作能让数字技术对动物来说更直观。
-- 实现方式: 反思红毛猩猩游戏设计，借鉴从动物熟悉领域迁移知识的思路。
-- 论文: https://doi.org/10.1145/2832932.2837008 (ACE 2015)
-
-#### Naturalism and ACI: augmenting zoo enclosures with digital technology — Marcus Carter, Sarah Webber (2015)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物园里的数字丰容要符合自然主义理想：把技术藏起来，让行为保持自然。
-- 作品内容: 基于对动物园员工的访谈，讨论动物园如何重视自然化展区，以及这对在展区中引入数字技术意味着什么。
-- 实现方式: 在一个数字丰容项目中进行文献综述，并访谈维多利亚动物园的员工。
-- 论文: https://doi.org/10.1145/2832932.2837011 (ACE 2015)
-- 图片: https://figures.semanticscholar.org/ea8a88dc2ccd2833b221e11329d893ab07398add/2-Figure2-1.png
-
-#### The Arena System: a novel shared touch-panel apparatus for the study of chimpanzee social interaction and cognition — Christopher Flynn Martin (2013)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 一块共享屏幕把个体认知测试变成了社会性测试。
-- 作品内容: Arena System 是一套共享触控装置，两只黑猩猩可以并排操作，用于研究它们的社会互动与认知。
-- 实现方式: 两个互联的触控面板配有喂食器和主控电脑，在京都大学灵长类研究所由定制软件控制。
-- 论文: https://doi.org/10.3758/s13428-013-0418-y (Behavior Research Methods 2013)
-- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.3758%2Fs13428-013-0418-y/MediaObjects/13428_2013_418_Fig1_HTML.gif
-
-#### Apps for Apes — Orangutan Outreach (2012)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 现成的平板电脑可以成为丰容工具，也能向公众讲述猿类心智的故事。
-- 作品内容: Apps for Apes 向动物园捐赠 iPad，让红毛猩猩在饲养员手持平板的情况下使用绘画、音乐和视频应用作为丰容。
-- 实现方式: 捐赠的 iPad 装有面向人的应用，在饲养员主导的时段隔着网笼使用。
-- 视频: https://www.youtube.com/watch?v=ZsSIKj5ULp4
-
-#### Primate Cinema: Apes as Family — Rachel Mayeri (2012)
+- 核心想法: 艺术作品可以是一种丰容：首先为另一个物种的体验而做。
+- 作品内容: 为救护中的野生狐蝠制作的互动数字艺术丰容：装置会对蝙蝠的出现作出反应，也让照护者和艺术家有了一个共同观察的对象。
+- 实现方式: 结合动物-计算机交互方法与传感器触发的投影和声音的实践型博士研究；代码在讲解视频中公开。
+- 论文: https://doi.org/10.5204/thesis.eprints.235060 (PhD thesis, Queensland University of Technology 2022)
+- 视频: https://www.youtube.com/watch?v=TXAIxQafMug
+
+#### Squid Map — Jiabao Li (2022)
 - 类型: 艺术作品 · 生物: 动物
-- 核心想法: 为另一个物种的注意力设计媒介，再去看它们如何观看。
-- 作品内容: 一部为黑猩猩拍摄的短剧，演员身穿黑猩猩服装，首映观众是爱丁堡动物园的黑猩猩；影片在剧情和观看它的猩猩之间来回剪辑。
-- 实现方式: 剧情与细节依据黑猩猩的社会行为与灵长类学家共同设计，影片在动物园的展区里用大屏播放，同时拍下观众反应。
-- 视频: https://www.youtube.com/watch?v=4871rINIAeQ
-- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/apes-as-family_remote-control2-1.jpg
+- 核心想法: 一只动物重画了政治地图，因为边界对它毫无意义。
+- 作品内容: 在夏威夷 Kewalo 海洋生物实验室，艺术家用黑白两色沙子在鱿鱼的水箱底铺出国家边界；一个月里鱿鱼搬运、掩埋沙子，直到地图消失。
+- 实现方式: 把夏威夷黑沙和白沙在水族箱中铺成世界地图，长期记录鱿鱼的掩埋和伪装行为。
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/84e3a87b-a9df-41ed-9ef2-7732a42f489b/squid+map+before+after.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b889ed3e-4ddd-48f6-95a3-b591ab4a3ce7/jiabao+li+squid+map+2+copy.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bad0ea09-91a8-4020-9dbe-a9913c12d00d/IMG_1687+copy.jpg
+- 项目主页: https://www.jiabaoli.org/squid-map
+
+#### The Algae Society BioArt Design Lab: Exploring Multispecies Entanglements and Making Kin with Algae — Juniper (Jennifer T.) Harrower (2022)
+- 类型: 艺术作品 · 生物: 藻类
+- 核心想法: 把藻类当作国际研究伙伴一起工作，与它们结成亲缘。
+- 作品内容: Algae Society 的创始成员介绍这个把藻类当作研究伙伴的全球艺术家、科学家和学者集体，以及成员作品的集体拼贴。
+- 实现方式: 成员在生物艺术作品中培养和影像化藻类，并反思过程、材料性和美学。
+- 论文: https://doi.org/10.1162/leon_a_02184 (Leonardo 2022)
+- 视频: https://www.youtube.com/watch?v=R7Py_-UmwSA
+- 图片: https://algaesociety.org/wp-content/uploads/2022/01/Algae-Digital-Kaleidoscope-_-Tapestry-2022-Jennifer-Parker-400x400.jpg
+- 项目主页: https://algaesociety.org
+
+#### Homo Sapiens, Mnesitardigrada Class and Umwelt: A Dialogue on Interspecies Organic Data Flow — Alexandra Dementieva (2021)
+- 类型: 艺术作品 · 生物: 动物, DNA 与分子
+- 核心想法: 当感官世界差异大到无法交谈时，诗意的装置仍能分享一个世界。
+- 作品内容: 以人类科学家与人-外星混血艺术家之间的想象对话形式呈现的艺术研究，以水熊虫的器官、分子和蛋白表达为模型，通过沉浸式装置探讨跨物种沟通。
+- 实现方式: 借用水熊虫生物学和“环世界”理论设计沉浸式互动装置。
+- 论文: https://doi.org/10.1162/leon_a_01984 (Leonardo 2021)
+
+#### The Birds' Palace — Studio Ossidiana (2021)
+- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
+- 核心想法: 让鸟成为公共艺术作品的园丁。
+- 作品内容: 锚定在阿姆斯特丹冯德尔公园池塘中的漂浮花园，设有高高的栖木和喂鸟器；六周里，鸟的取食和粪便把土堆变成一片花田，引来了蜜蜂和蝴蝶。
+- 实现方式: 带有肥沃土壤、栖木和喂食器的漂浮平台；种子由鸟传播；观众在岸边用望远镜观看。
+- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/e85569f1-dee1-464b-819e-1254fc47d75b/The+Bird%27s+Palace.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/7b480486-268c-40f9-b280-c3dacc24708c/The+Birds+Palace+-+Courtesy+of+Studio+Ossidiana+-+Photo+by+Riccardo+de+Vecchi2_2.jpg
+- 项目主页: https://www.studio-ossidiana.com/the-birds-palace
+
+#### How to Make an Ocean — Kasia Molga (2020)
+- 类型: 艺术作品 · 生物: 藻类, 人体
+- 核心想法: 悲伤也可以成为其他生命的栖息地。
+- 作品内容: 一件装置与仪式作品：艺术家收集的眼泪中养着由浮游植物构成的微型海洋生态；观众可在 AI“哭丧人”机器人的引导下加入自己的眼泪。
+- 实现方式: 用特制的勺子和容器收集眼泪，调配成类似海水的培养基并接种海洋微藻，在小玻璃容器中光照培养。
+- 视频: https://vimeo.com/595232480
+- 图片: https://www.studiomolga.com/art/HTMAO_04.jpg
+- 项目主页: https://www.studiomolga.com/art_HTMAO.html
+
+#### Intra-Facing: Writing with Dogs — Alinta Krauth (2020)
+- 类型: 论文 · 生物: 动物
+- 核心想法: 让动物的行为而不是人的计划来引领创作。
+- 作品内容: 一个实践导向的项目：家里的狗参与共同创作电子文学作品，它们与艺术家的互动驱动一个生成式写作系统。
+- 实现方式: 把狗与人的互动转换为生成文本输入的数字界面。
+- 论文: https://doi.org/10.1145/3446002.3446051 (ACI 2020)
+- 图片: https://figures.semanticscholar.org/c3720110da0a2825e8043f5df5bba7a995bc471e/3-Figure1-1.png
+
+#### Vegetal Transmutation — Eduardo Navarro (2020)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 一件艺术品可以以苗床的形式结束它的生命。
+- 作品内容: 与哲学家 Michael Marder 合作的一组冥想式炭笔画，画的是半人半植物的生命，画在装有伦敦悬铃木种子的可降解信封上，展览结束后被埋入土中。
+- 实现方式: 画在手工可降解纸信封上，信封里装着悬铃木种子；展后把信封埋入土中，让种子发芽。
+- 图片: https://images.prismic.io/wellcomecollection/1d26c04b-589d-42d0-a750-c9962c6793af_EP_001764_018_Large.jpg
+- 项目主页: https://wellcomecollection.org/exhibitions/rooted-beings
+
+#### Contact/Sense — Rewa Wright (2019)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 在现场表演中把植物当作共同作曲者。
+- 作品内容: 一场混合现实表演：植物的生物电信号被转为声音，邀请人类表演者与植物一起作曲、演奏。
+- 实现方式: 用电极采集植物信号并接入混合媒体的声音与影像环境；受毛利知识（mātauranga Māori）启发。
+- 论文: https://doi.org/10.1145/3610591.3616428 (SIGGRAPH Asia 2023 Art Papers)
+- 视频: https://www.youtube.com/watch?v=ZZh-I8tV3YE
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Nightingales in Berlin — David Rothenberg (2019)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 城市公园可以是人和鸟共用的音乐厅。
+- 作品内容: 连续五个春天，Rothenberg 和受邀音乐人夜里在柏林公园与正在鸣唱的夜莺合奏；项目最后形成了一本书、一张专辑和一部纪录片。
+- 实现方式: 音乐人在野生夜莺繁殖季夜鸣时，于现场用原声乐器或电子设备在旁即兴，并实地录音。
+- 视频: https://vimeo.com/191341487
+- 图片: https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545854144930-51ZI1VJPD5S4RJ0YVA24/helsinki+nightingale+morning.jpg https://images.squarespace-cdn.com/content/v1/5c1fc158266c07c75d04f252/1545865720868-KZ6W270W12YSVTMPJJE9/david+open+mouth+Hasenheide+ah.png
+- 项目主页: https://www.nightingalesinberlin.com/
+
+#### PlantConnect — Carlos Castellanos (2019)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 呼吸是人与植物共享的媒介。
+- 作品内容: PlantConnect 是一件装置，通过机器学习把观众的呼吸与植物的生物电和光合作用联系起来，让人和植物实时相互影响。
+- 实现方式: 用计算模型把植物生物电和二氧化碳／光合作用传感与人的呼吸耦合起来。
+- 论文: https://doi.org/10.1162/leon_a_02306 (Leonardo 2023)
+- 图片: https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_1.jpg https://www.ccastellanos.com/wp-content/gallery/plantconnect/PlantConnect-Carlos-Castellanos-Bello-Bello-2019-ACC.ACI-photo-by-Sarah-Kim_2.jpg
+- 项目主页: https://ccastellanos.com/projects/plantconnect/
+
+#### How to Carve a Sculpture — AKI INOMATA (2018)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 把动物的啃咬当作雕塑，以此质疑作者身份。
+- 作品内容: 动物园里的河狸啃咬木块，艺术家把啃出的形状扫描后放大并重新雕刻成雕塑，配以啃咬的声音。
+- 实现方式: 把日本多家动物园里河狸啃过的木头进行 3D 扫描，再用机器以更大尺寸在木材上雕刻，并配以录音和影像展出。
+- 视频: https://www.youtube.com/watch?v=yVtZkUgYF68
+- 图片: https://www.aki-inomata.com/shared/img/works/05/05-01.jpg https://www.aki-inomata.com/shared/img/works/05/05-02.jpg
+- 项目主页: https://www.aki-inomata.com/works/how_to_make/
+
+#### Mosquito Translator — Nonhuman Nonsense (2018)
+- 类型: 艺术作品 · 生物: 昆虫, 人体
+- 核心想法: 通过自愿的“血缘”，与一个不受欢迎的物种结成亲属。
+- 作品内容: 一个装满蚊子的玻璃箱，观众可以自愿把手臂伸进开口喂蚊子；箱顶的“翻译机”把蚊子的活动转换成声音和词语。
+- 实现方式: 传感器和摄像头追踪蚊子，驱动生成声音和文字输出；以 Haraway 的“结成奇异亲属”为思想框架。
+- 视频: https://vimeo.com/306576135
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg
+- 项目主页: https://nonhuman-nonsense.com/mosquito-translator
+
+#### Laboratory of Longings — Ani Liu (2017)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 让植物以人为食，身体就成了被收获的作物。
+- 作品内容: 一件活体装置：连续两天收集一对情侣的汗水，用来喂养一片食虫猪笼草，把农业中人与植物的关系倒转过来。
+- 实现方式: 用加热灯和封闭空间让情侣出汗，把 227 毫升汗液导流给 Nepenthes x ventrata 和 Nepenthes sanguinea 两种猪笼草。
+- 视频: https://vimeo.com/317846789
+- 图片: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932062968-EK8XAGDCP1X2MCT8ULE1/image-asset.jpeg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507932020914-H8PSZO256M8KNSL6VEMY/PRESS_BCA_ROTM17_%28MelissaBlackall%29_-4.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1507933169599-M0TRMOWHIHZHKYW9E2QA/DSCF3745.JPG
+- 项目主页: https://ani-liu.com/laboratory-of-longings-longings
+
+#### Think Evolution #1: Kiku-ishi (Ammonite) — AKI INOMATA (2017)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 一件被设计出来的物件，可以让一只活着的动物和它已灭绝的近亲相遇。
+- 作品内容: Inomata 根据化石的 CT 扫描复原了菊石的壳，用树脂 3D 打印出来，送给一只活章鱼；章鱼住了进去，把壳当作自己的家。
+- 实现方式: 菊石化石的 CT 数据经三维建模后用透明树脂打印；拍摄章鱼与壳互动的过程。
+- 视频: https://vimeo.com/606429490
+- 图片: https://www.aki-inomata.com/shared/img/works/07/07-01.jpg https://www.aki-inomata.com/shared/img/works/07/07-02.jpg
+- 项目主页: https://www.aki-inomata.com/works/kiku-ishi/
+
+#### Where Species Meet — Güneş-Hélène Isitan (2016)
+- 类型: 艺术作品 · 生物: 细胞与组织, 人体
+- 核心想法: 把身体自带的电当作单细胞能回应的语言。
+- 作品内容: 一件互动装置：观众把手伸进装着活草履虫和投影草履虫的大水盘，身体的电场会把草履虫吸引过来。
+- 实现方式: 定制显微摄像头下对电敏感的草履虫响应参与者双手引起的电场变化，实时画面被投射进水盘。
+- 图片: https://biodigitalviz.github.io/images/Where_Species_Meet.png
+- 项目主页: https://www.gunesisitan.com/where-species-meet
+
+#### Arachnid Orchestra. Jam Sessions — Tomás Saraceno (2015)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 蜘蛛生活在振动的世界里，那就在振动中与它相遇：把蛛网变成双方都能演奏的乐器。
+- 作品内容: 活体蛛网上装有振动传感器并被放大，音乐人与蜘蛛即兴合奏，一边回应蛛丝的振动，一边向蛛丝发送振动。
+- 实现方式: 接触式麦克风和激光测振仪拾取蜘蛛在网上产生的振动，实时放大，同时人类也向蛛网回送振动。
+- 视频: https://www.youtube.com/watch?v=hIuNu-dcQX8
+- 项目主页: https://studiotomassaraceno.org/arachnid-orchestra-jam-sessions/
+
+#### K-9_topology: Ecce Canis — Maja Smrekar (2014)
+- 类型: 艺术作品 · 生物: 动物, 人体, DNA 与分子
+- 核心想法: 把人与狗的关系变成一种可以闻到的共同分子。
+- 作品内容: 《K-9_topology》系列的第一部分：从艺术家和她的边境牧羊犬 Byron 血液中分离出血清素，合成为观众可以闻到的气味。
+- 实现方式: 用蛋白层析柱从血小板中过滤出血清素，再与吲哚一起化学转化为气味。
+- 视频: https://www.youtube.com/watch?v=urSr7dh4l0A
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/K-9_topology_booklet-53.jpg https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_IMG_941396.jpg
 - 项目主页: https://artlaboratory-berlin.org/exhibitions/nonhuman-subjectivities-on-animals/
 
-#### S.E.A. Aquarium — Resorts World Sentosa (2012)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 设计出的栖息地可以促成相遇，却不共享空间。
-- 作品内容: 新加坡一座大型公共水族馆，用定制的照明和水体系统复现海洋栖息地；人隔着玻璃与海洋生物相遇，两个世界仍然分开。
-- 实现方式: 用模拟自然光照的人工海洋栖息地；Foth 与 Caldwell 把它列为面向非人居民的媒体建筑案例。
-- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg/1920px-Shark_Seas%2C_S.E.A._Aquarium%2C_Resorts_World_Sentosa%2C_Singapore_-_20180220.jpg https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/5-Figure6-1.png
+#### Naval Gazing — Špela Petrič (2014)
+- 类型: 艺术作品 · 生物: 藻类, 动物, 生态系统
+- 核心想法: 人类能否为对自己毫无用处的结构投入？
+- 作品内容: 一个类似风车的四面体“栖居体”（habiton），被放入北海随风漂流，承载海藻和贝类，直到它们的重量让它沉没——一个只对非人类有用的物件。2014 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
+- 实现方式: 与水产养殖研究者一起设计的帆状四面体框架，在海上被海洋生物逐渐占据。
+- 图片: https://www.badaward.nl/imager/assets/site/495/NAVALGAZING1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/436/MATTEROFLIFE-Naval-Gazing_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/%C5%A1pela-petri%C4%8D
+
+#### Bio-Electricity — Mileece (2013)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 让植物成为即兴音乐中听得见的合作者。
+- 作品内容: 一场现场表演：植物的电信号被转化为声音，人们与植物一起创作音乐，曾在 MoMA 呈现。
+- 实现方式: 叶片上的电极采集生物电变化，软件将其映射为生成声音；人们探索自己的触摸与在场如何改变它。
+- 视频: https://vimeo.com/60769517
+- 图片: https://static.wixstatic.com/media/9f7598_c0d8f01bd4e2474fad6783d7d43921eef000.jpg
 - 项目主页: https://artifact-archive.org/whole-archive
 
-### 跨物种沟通
+#### Data Garden Quartet — Data Garden (2012)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 让植物演奏乐器，让人类当观众。
+- 作品内容: 费城艺术博物馆里的四株植物现场演奏合成器，博物馆称之为馆内第一件由植物控制的生物反应艺术作品。
+- 实现方式: 叶片上的电极读取电导变化，由与 Sam Cusumano 合作制作的生物数据设备转换成 MIDI 音符，驱动合成器。
+- 视频: https://www.youtube.com/watch?v=Uq0aFi1x_mo
+- 项目主页: https://www.youtube.com/watch?v=ekV1ngd_9GY
 
-解码并与鲸、海豚、鸟类等物种交换信号。
+#### Moth Cinema — Natalie Jeremijenko (2012)
+- 类型: 艺术作品 · 生物: 昆虫, 植物
+- 核心想法: 让飞蛾成为露天电影的主角，同时为它们提供食物和庇护。
+- 作品内容: 苏格拉底雕塑公园里一块夜间点亮的 20 英尺幕布，悬在一片种植的栖息地上方：灯光吸引飞蛾，植物喂养它们，它们放大的影子在幕布上上演。
+- 实现方式: 网状幕布、灯光与吸引飞蛾的寄主和蜜源植物，同时构成投影面与传粉者栖息地。
+- 图片: https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremijenko_mothcinema-1024x768.jpg https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremikenco_mothcinema2-1024x768.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### girl, girl, girl . . . — AKI INOMATA (2012)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 让昆虫的筑巢行为变成时装设计。
+- 作品内容: 艺术家给蓑蛾幼虫提供女性衣物的碎布，幼虫用它们搭建自己的巢筒，做出由昆虫“缝制”的小衣服。
+- 实现方式: 蓑蛾幼虫吐丝把碎布粘合成巢筒；日本儿童传统上用彩纸条玩这个游戏。
+- 视频: https://www.youtube.com/watch?v=34AUouBNRZ4
+- 图片: https://www.aki-inomata.com/shared/img/works/03/03-01.jpg https://www.aki-inomata.com/shared/img/works/03/03-02.jpg
+- 项目主页: https://www.aki-inomata.com/works/girl_girl_girl/
+
+#### Bees: new creative agents — Raul Pereira Pinto (2011)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 把蜜蜂当作共同制作者：设计设定条件，蜂群完成形态。
+- 作品内容: 一组雕塑物件：蜜蜂在设计好的结构上筑巢造脾，完成物件最终的形态；作品被提出作为连接创意产业与蜜蜂减少问题的桥梁。
+- 实现方式: 把结构放进蜂箱，让蜜蜂在其上及周围筑脾（推测），形成的形态即成为物件。
+- 论文: https://doi.org/10.1145/2347504.2347507 (DPPI 2011)
+- 项目主页: https://doi.org/10.1145/2347504.2347507
+
+#### Oh!m1gas: Biomimetic Stridulation Environment — Kuai Shen (2011)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 让蚁群的集体行为成为表演者，而不是被观察的对象。
+- 作品内容: 约 1,000 只切叶蚁生活在有机玻璃蚁巢里，它们的活动驱动两台唱机，把唱片“搓”成蚁群生活的声景。
+- 实现方式: 摄像头追踪和接触式麦克风采集蚂蚁的运动和摩擦发声，数据控制唱机电机。
+- 论文: https://doi.org/10.1162/leon_a_00213 (Leonardo 2011)
+- 图片: https://cdn.fact.co.uk/uploads/images/_1200x630_crop_center-center_82_none/Kuai-Shen-Ohm1gas-2012.-Image-by-Rob-Battersby.-Installation-view-at-FACT.-2.jpg.jpg?v=1721756641 https://history.siggraph.org/wp-content/uploads/2017/10/2011_Auson_Ohm1gasbiomieticstridulationenvironment2.jpg
+- 项目主页: https://www.fact.co.uk/artwork/ohm1gas
+
+#### Cry of Nature — Buğra Karabey (2010)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 植物可以成为它自己的音乐界面。
+- 作品内容: 一个把植物对温度、湿度、风、光和触摸的生物电反应转化为合成声音的平台，让植物通过音乐“说话”。
+- 实现方式: 在植物上安放电极测量生物电位的变化，用来驱动声音合成系统。
+- 论文: https://doi.org/10.1162/leon.2010.43.3.310 (Leonardo 2010)
+- 视频: https://www.youtube.com/watch?v=YCT-9vpFYnQ
+- 项目主页: https://doi.org/10.1162/leon.2010.43.3.310
+
+#### Microscopic Opera — Matthijs Munnik (2010)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 如果我们也在被看不见的东西操控，就像我们操控线虫一样呢？
+- 作品内容: 一件视听装置，实验室线虫 C. elegans 不再是被研究的对象，而是生成图像和声音的表演者。2010 年 BAD Award 获奖作品，与荷兰系统生物学联盟合作。
+- 实现方式: 很可能用摄像头追踪显微镜下线虫的运动，并转化为投影图像和声音。
+- 图片: https://www.badaward.nl/imager/assets/site/613/MICROSCOPIC-OPERA-1_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/614/MICROSCOPIC-OPERA-2_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/matthijs-munnik
+
+#### Sculpture for Octopuses: Exploring for Their Favorite Colours — Shimabuku (2010)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 做一件作品，观众和评论者都是章鱼。
+- 作品内容: Shimabuku 参照章鱼从海底收集的贝壳和石头，为它们制作彩色小雕塑，放到水下，看章鱼会挑选哪一件。
+- 实现方式: 把手工制作的彩色物件放入章鱼栖息地，用影像和照片记录章鱼的选择。
+- 视频: https://www.youtube.com/watch?v=90ogkcNM_AY
+- 项目主页: http://www.shimabuku.net/
+
+#### Why Not Hand Over a "Shelter" to Hermit Crabs? — AKI INOMATA (2009)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 为另一个物种设计住所，并让动物自己决定是否合适。
+- 作品内容: 艺术家为寄居蟹提供顶部带有微缩城市天际线的透明 3D 打印贝壳，由它们自己决定是否搬进去。
+- 实现方式: 用 CT 扫描被遗弃贝壳得到内部结构，再 3D 打印带有城市造型的树脂贝壳并放入寄居蟹的水箱。
+- 视频: https://www.youtube.com/watch?v=4qMrcdjpYEM
+- 图片: https://www.aki-inomata.com/shared/img/works/15/15-01.jpg https://www.aki-inomata.com/shared/img/works/15/15-02.jpg
+- 项目主页: https://www.aki-inomata.com/works/hermit_2009/
+
+#### Hybrid Webs — Tomás Saraceno (2008)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 把几个物种的建造行为叠加在同一个结构里，让结果成为共同创作。
+- 作品内容: 不同种类的蜘蛛被依次放进同一个框架，每一只都在前一只的网上继续编织，形成任何单一物种都不会织出的混合蛛网。工作室对这些网进行三维扫描，并以悬浮雕塑的形式展出。
+- 实现方式: 独居与群居蜘蛛在可旋转的碳纤维框架中依次织网，之后用激光断层扫描将蛛网数字化。
+- 视频: https://www.youtube.com/watch?v=rjVDyxTXGAg
+- 图片: https://studiotomassaraceno.org/files/14DEU_Kolbe_00060-1-1920x1280.jpg https://studiotomassaraceno.org/files/002-1920x1280.jpg
+- 项目主页: https://studiotomassaraceno.org/hybrid-webs/
+
+#### Whale Music (Thousand Mile Song) — David Rothenberg (2008)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 把鲸歌当作可以加入的音乐，而不只是需要破译的信号。
+- 作品内容: David Rothenberg 在夏威夷外海放下水下扬声器，用单簧管与正在歌唱的座头鲸即兴合奏，再通过水听器听它们是否回应。
+- 实现方式: 单簧管声音通过水下扬声器传入海中，再在小船上用水听器监听并录下鲸歌。
+- 视频: https://www.youtube.com/watch?v=807LSbW28Po
+- 项目主页: http://www.davidrothenberg.net/
+
+#### Yuansu (元塑) — Ren Ri (2008)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 设计者控制方向和时间，蜂群控制形态。
+- 作品内容: 由蜂群筑成的一系列蜂蜡雕塑：任日按设定的时间间隔移动和旋转蜂框或盒子，蜜蜂便不断朝新的方向筑巢。
+- 实现方式: 把蜂后与蜂群放进木框或亚克力立方体中，艺术家依据掷骰子或方位等规则转动它们。
+- 视频: https://www.youtube.com/watch?v=sgT_4EJhi6U
+- 图片: https://www.pearllam.com/wp-content/uploads/2017/03/21ren-ri-b-1984-yuansu-series-i-geometric-series-07-italy-2008-2009-natural-beeswax-wood-wire-73-x-57-x-5-cm.jpg https://www.pearllam.com/wp-content/uploads/2017/03/ren-ri-b1984-yuansu-series-ii6-40-6-402014-15acrylic-box-natural-beeswax-40-x-40-x-40-cm-scaled.jpg
+- 项目主页: https://www.pearllam.com/artist/ren-ri/
+
+#### Host — Nigel Helyer (2003)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 把动物的神经系统当作麦克风，问它听到了什么。
+- 作品内容: 约 200 只关在笼中的活蟋蟀一起“听”一场关于昆虫性生活的科学讲座；一面投影是讲者，另一面是从一只正在听讲的蟋蟀听觉神经上记录下的示波器信号。
+- 实现方式: 在蟋蟀听觉神经上安放电极，记录它对讲座的反应，并以示波器图像和声音呈现；讲座影像透过昆虫笼投影。
+- 视频: https://www.youtube.com/watch?v=9lJU5zAdOTI
+- 项目主页: https://static.weboffice.uwa.edu.au/archive/www.symbiotica.uwa.edu.au/1351970.html
+
+#### Pieces for Plants — Miya Masaoka (2002)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 把植物当作共同演奏者，由它们的反应塑造音乐。
+- 作品内容: 一系列作品中，室内植物接上生物反馈电极，它们对光、靠近和观众或演奏者触碰的电反应被转换成声音。
+- 实现方式: 叶片上的皮电反应电极接入电脑，把植物信号的变化映射为合成声音；后来的版本还加入了演奏者的脑电波。
+- 视频: https://www.youtube.com/watch?v=PD1Uf5BnK78
+- 图片: https://miyamasaoka.com/wp-content/uploads/1999/07/w.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Honeybee collaborations (Guest Workers) — Aganetha Dyck (1991)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 把一件物品交给蜂群，然后接受它们决定建造的任何形态。
+- 作品内容: Dyck 把小雕像、鞋子、运动器材等日常物件放进蜂箱，蜜蜂在数月乃至数年间慢慢给它们覆上蜂巢。
+- 实现方式: 把物件放进正在使用的蜂箱，有时加上引导标记或蜂蜡，并跨季节交还蜂群，艺术家与养蜂人一同观察。
+- 视频: https://vimeo.com/27487390
+- 图片: https://fls-a14a5228-3d0a-4d78-a717-99c3c57b4113.laravel.cloud/44285/conversions/honeycomb-bee-art-sculpture-aganetha-dyck-16-content.jpg
+- 项目主页: https://www.cbc.ca/arts/aganetha-dyck-reveals-how-she-works-with-bees-to-create-strange-and-wonderful-art-1.4597098
+
+#### Photographic Photosynthesis (grass photographs) — Ackroyd & Harvey (1991)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 光合作用本身就是一种摄影工艺。
+- 作品内容: 在一面嫩草墙上浮现的大幅肖像：受光多的地方草更绿，草本身就成了照片，并随着生长与枯萎而慢慢消褪。
+- 实现方式: 把负片影像连续数天投射到在暗处萌发的草苗上，叶绿素按受光多少生成；使用“保绿”草种可以减缓褪色。
+- 视频: https://www.youtube.com/watch?v=w67UPDSKc44
+- 图片: https://clotmag.com/wp-content/uploads/2022/03/4.jpg https://www.ackroydandharvey.com/wp-content/uploads/2021/12/05.-Mother-and-Child-comparative-study-Artists-studio-Dorking-Adj-1-451x360.jpg
+- 项目主页: https://www.ackroydandharvey.com/celebrating-30-years-of-photographic-photosynthesis/
+
+#### Trichoptères (Caddisfly Cases) — Hubert Duprat (1980)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 改变动物环境中的材料，让它的本能来完成制造。
+- 作品内容: 石蛾幼虫平时用沙粒和细枝筑造护身管，艺术家只给它们金片、珍珠和半宝石，它们就用这些材料造出珠宝般的壳。
+- 实现方式: 把幼虫从原来的壳中取出，放进只有黄金和宝石的水族箱里，它们用自己吐的丝把这些材料粘合起来。
+- 视频: https://www.youtube.com/watch?v=yHqPaDMILHU
+- 项目主页: https://www.mam.paris.fr/fr/expositions/exposition-hubert-duprat
+
+#### Music of the Plants — Damanhur (1976)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 让植物实时发声，再追问它们是否会回应“被聆听”的方式。
+- 作品内容: Damanhur 社区的研究者制作了把植物电信号变化转成旋律的设备，并举办植物和树与音乐人一起“演奏”的音乐会。
+- 实现方式: 叶片和土壤中的电极测量电阻变化，设备把它转换成 MIDI 音符；Damanhur 称植物能学会调节声音，但这一说法没有科学定论。
+- 视频: https://www.youtube.com/watch?v=M-SgriGwu6c
+- 图片: https://www.damanhur.foundation/wp-content/uploads/Bamboo.png
+- 项目主页: https://www.damanhur.foundation/project/the-music-of-the-plants/
+
+### 修复与大地艺术
+
+介入土地、水和土壤，修复、净化或揭示生态系统的艺术。
+
+#### Coral Sonic Resilience — Marco Barotti (2024)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 声音可以是修复工具，而不只是表现自然的方式。
+- 作品内容: 3D 打印的水下雕塑向退化的珊瑚礁播放健康珊瑚礁的录音，用声音把鱼类和珊瑚幼体吸引回已白化、变得寂静的礁区。
+- 实现方式: 基于“珊瑚礁声音能吸引幼鱼”的研究，由雕塑外壳中的太阳能扬声器进行声学补充。
+- 视频: https://vimeo.com/1039181409
+- 图片: https://ars.electronica.art/starts-prize/files/2025/05/coralsonicresilience-5-c-marcobarotti-1024x576.jpg
+- 项目主页: https://www.marcobarotti.com/coral-sonic-resilience
+
+#### Epiphytic Memory — Finn Petrie (2023)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 一棵树的复制品，可以成为新附生植物的家。
+- 作品内容: 用新西兰南部雨林古树的激光雷达扫描 3D 打印出瓷雕，放置在但尼丁，既是树木的记忆，也可能成为新植物生长的支架。
+- 实现方式: 激光雷达扫描、瓷土 3D 打印、在地放置，以及模拟植物生长的增强现实展厅装置。
+- 论文: https://doi.org/10.1162/leon_a_02367 (Leonardo 2023)
+- 项目主页: https://doi.org/10.1162/leon_a_02367
+
+#### Office for Tree Migration (OTM) — Agnes Meyer-Brandis (2021)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把树当作气候难民，并设计帮助它们迁移的方法。
+- 作品内容: 一个长期的艺术与研究项目，关注气候变化下树木如何向北、向高处迁移，包括在芬兰泥炭地进行的“协助迁移”试验。
+- 实现方式: 借助物候相机、生态监测以及自制的软硬件，追踪林线上的树木；并在试验点种植幼苗。
+- 视频: https://vimeo.com/1172137373
+- 图片: https://ars.electronica.art/starts-prize/files/2026/06/01_assistedmigration_208a7022_otm-c-agnes_meyer-brandis-vgbildkunst-1024x576.jpg https://ars.electronica.art/starts-prize/files/2026/06/01_as_trees_go_by_documentation-c-agnes_meyer-brandis_a6a7112_16_50-1024x576.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/office-for-tree-migration-otm/
+
+#### Pollinator Pathmaker — Alexandra Daisy Ginsberg (2021)
+- 类型: 艺术作品 · 生物: 昆虫, 植物
+- 核心想法: 把审美决定权交给其他物种：按传粉者的偏好设计花园。
+- 作品内容: 一个算法为尽可能多种类的传粉昆虫设计花园，而不是迎合人的审美；活体版本种在伊甸园项目、柏林等地，任何人都能在线设计自己的一座。
+- 实现方式: 与生态学家共同开发的优化算法挑选并排布植物种类，让整个季节的传粉者多样性最大化。
+- 视频: https://www.youtube.com/watch?v=IN3YzdziqBY
+- 图片: https://www.daisyginsberg.com/img/work/pp_las_25_gallery.jpeg https://www.daisyginsberg.com/img/work/pp_las_dig_ren_4_web.jpg
+- 项目主页: https://www.daisyginsberg.com/work/pollinator-pathmaker
+
+#### The Plant Intelligence Plan — Zhang Tianyi (2021)
+- 类型: 艺术作品 · 生物: 植物, 动物
+- 核心想法: 修复的是物种之间的关系，而不只是栖息地。
+- 作品内容: 一个生态艺术项目，承认植物的主动性和权利，并用生物技术工具修复商业化育种作物与动物之间被人类割裂的关系。
+- 实现方式: 基于植物智能研究，作品重新引入作物与动物相互作用的信号和物质。
+- 图片: https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-5-1024x512.jpg https://ars.electronica.art/starts-prize/files/2022/06/The_Plant_Intelligence_Plan-4-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/plant-intelligence-plan/
+
+#### Art Biotop Water Garden — junya.ishigami+associates (2018)
+- 类型: 研究原型 · 生物: 植物, 生态系统
+- 核心想法: 建筑可以是对一片活景观的细致迁移。
+- 作品内容: 为酒店开发而必须移走的约 318 棵树，被一棵一棵地重新种在那须的一片旧稻田里，穿插在约 160 个由原稻田水系供水的浅池之间。
+- 实现方式: 逐棵测量并重新规划树的位置；水池和苔藓重建出一片林地湿地。
+- 图片: https://designmuseum.org/image/5cbbb7b5-2c28-4ded-98be-9c34292ec9fc?width=1600
+- 项目主页: https://designmuseum.org/exhibitions/beazley-designs-of-the-year/architecture-2019/art-biotop-water-garden
+
+#### Glaciator — Joaquín Fargas (2018)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 造一台为冰川工作而不是为人工作的机器。
+- 作品内容: 在南极冰川上行走的太阳能机器人，它们的脚步把积雪压实、再结晶成冰，为冰川增加质量，以此回应冰川融化。
+- 实现方式: 带压实脚掌的太阳能机器人在雪面上行走，加速积雪转变为冰川冰。
+- 视频: https://www.youtube.com/watch?v=PlEHoYRHPQ0
+- 图片: https://www.joaquinfargas.com/wp-content/uploads/2018/09/Adaggio-Tarjet-IMG_9759-1024x683.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Zoe – A Living Sea Sculpture — Colleen Flanigan (2017)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 一件雕塑可以被设计成由珊瑚来完成。
+- 作品内容: 一座位于墨西哥科苏梅尔岛外海 4 米深处的钢制水下雕塑，通电后表面沉积石灰岩，让濒危珊瑚碎片在上面生长成礁石栖息地。
+- 实现方式: 矿物增生（Biorock）技术：低压电流通过钢架，使海水中的碳酸钙沉淀下来，珊瑚附着其上并生长更快。
+- 视频: https://www.youtube.com/watch?v=KXpmX7zaCiU
+- 项目主页: https://www.biology-design.com/risd
+
+#### CLIMAVORE — Cooking Sections (2015)
+- 类型: 艺术作品 · 生物: 生态系统, 藻类, 动物
+- 核心想法: 饮食可以被设计成修复供养它的栖息地。
+- 作品内容: 一个长期项目，探讨在人类改变气候的时代该如何饮食；在斯凯岛和拉赛岛，它推动从三文鱼养殖转向能净化水体的海藻和贝类，并设计了一张涨潮时会变成栖息地的潮间带餐桌。
+- 实现方式: 通过菜单、装置以及与农民和餐馆的合作，推广能在污染水体中生长的滤食性生物和耐旱作物。
+- 图片: https://ars.electronica.art/starts-prize/files/2023/06/climavore_02-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/climavore_03-1024x512.jpg
+- 项目主页: https://www.climavore.org
+
+#### Smog Free Tower — Studio Roosegaarde (2015)
+- 类型: 艺术作品 · 生物: 人体
+- 核心想法: 让洁净空气成为你可以站进去的地方，让雾霾成为你可以握在手里的东西。
+- 作品内容: 一座七米高的塔，用正离子化技术净化周边空气；收集到的碳颗粒被压制成“无霾戒指”。
+- 实现方式: 基于离子化的空气净化装置，功率约 1170 瓦，在鹿特丹、北京、天津、克拉科夫等地展出。
+- 视频: https://www.youtube.com/watch?v=1uMeuVxywBM
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Smog_free_tower_in_Beijing_03.jpg/960px-Smog_free_tower_in_Beijing_03.jpg
+- 项目主页: https://www.studioroosegaarde.net/project/smog-free-tower
+
+#### Future Library — Katie Paterson (2014)
+- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
+- 核心想法: 把一个文化承诺与森林的生长绑在一起，用树的时间来思考。
+- 作品内容: 一件在奥斯陆展开的百年作品：2014 年在 Nordmarka 森林种下 1000 棵树，每年一位作家贡献一部不公开的手稿，2114 年砍伐这些树来印刷这些书。
+- 实现方式: 种植的森林、Deichman 图书馆中的封存阅览室，以及每年在林中举行的交稿仪式。
+- 视频: https://www.youtube.com/watch?v=D2BUq2Q8_6M
+- 项目主页: https://www.futurelibrary.no/
+
+#### The Mycological Twist — The Mycological Twist (2014)
+- 类型: 艺术作品 · 生物: 真菌
+- 核心想法: 让真菌的生命周期来决定艺术项目的日程。
+- 作品内容: 一座蘑菇花园：2014 年作为伦敦 Jupiter Woods 画廊花园的延伸开始，后迁往巴黎附近的阿蒂-蒙斯；艺术家围绕它按接种、生长和采收的节奏安排委托作品、讲座和表演。
+- 实现方式: 在展览空间内外用基质进行食用菌和野生真菌的朴门式栽培；影片《Ghost Camp》等活动都从花园的周期中生长出来。
+- 视频: https://www.youtube.com/watch?v=bM0ce_eLZEw
+- 项目主页: http://eloisebonneviot.com/the-mycological-twist/
+
+#### EDEN – Ethics, Durability, Ecology, Nature — Olga Kisseleva (2012)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把树当作伙伴，用艺术和技术帮助它存活下去。
+- 作品内容: 一个与树木合作、持续多年的艺术与科学项目，始于比斯卡罗斯古榆树的“重生”，之后发展为保护濒危植物以及树与人之间交流的一系列作品。
+- 实现方式: 与植物学家和企业合作，把植物克隆繁殖与读取树木生理信号的传感器结合起来。
+- 图片: https://ars.electronica.art/starts-prize/files/2020/06/EDEN10_2000x1000_OlgaKisselevaStudio-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/eden/
+
+### 生态媒介、声音与数据艺术
+
+通过声音、数据、影像和传感器让生态过程变得可感知。
+
+#### Interspecies Interfaces in Artistic Contexts: Forest Signals as the Basis for Ecosystemic Intelligence — Cesar & Lois (2026)
+- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
+- 核心想法: 智能可以从生态关系中生长出来，而不只来自数据中心。
+- 作品内容: Cesar & Lois 介绍了他们放置在不同森林中的作品（包括 Boreal Intelligence），这些作品使用生物数字界面，并用多物种与气候数据在本地训练机器学习模型。
+- 实现方式: 在森林中进行在地的生物数字感测，配合定制软件和本地的小型机器学习模型。
+- 论文: https://doi.org/10.1162/leon.a.2731 (Leonardo 2026)
+- 视频: https://www.youtube.com/watch?v=BvQRNYvjlHU
+- 项目主页: https://doi.org/10.1162/leon.a.2731
+
+#### Planet Ocean — Chris Watson (2026)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 海洋是地球上最大、声音最丰富的栖息地，把它当作一个整体来听。
+- 作品内容: 一张时长一小时、共 17 首的专辑，记录世界各地海洋水面上下的声音、节奏与质感，附带 20 张照片的小册子。
+- 实现方式: 来自多片海域的水听器和空气麦克风录音，由 Touch 以数字下载加 PDF 小册子的形式发行。
+- 图片: https://chriswatson.net/wp-content/uploads/sites/5/Planet-Ocean-cover-scaled.jpg
+- 项目主页: https://chriswatson.net/2025/12/30/1980/
+
+#### Drumming for Love — Erzë Dinarama (2025)
+- 类型: 艺术作品 · 生物: 昆虫, 生态系统
+- 核心想法: 干旱最早的信号来自其他物种；倾听它们是一种政治行动。
+- 作品内容: 作品呈现水生昆虫以振动“击鼓”交流的方式，探讨在意大利皮埃蒙特暂停河流生态最低流量后，干旱如何被感知与治理。
+- 实现方式: 用接触式麦克风捕捉石蝇类昆虫在基质上的击鼓振动，与渔民、活动人士和科学家共同开发。
+- 视频: https://www.youtube.com/watch?v=CnlT9KzSHFU
+- 图片: https://ars.electronica.art/starts-prize/files/2026/06/drumming-for-love_erze_ogr__cover-1024x576.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/drumming-for-love/
+
+#### Echoes of the Abyss — Robertina Šebjanič (2025)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 让海洋生物所承受的隐秘毒性遗产进入公众感知。
+- 作品内容: 一项关于倾倒在波罗的海和亚得里亚海海床上的化学弹药的研究，在 TARA 科考船上展开，并转化为沉浸式声音与装置作品。
+- 实现方式: 把水听器录音、沉积物数据和档案研究组合成空间声音装置。
+- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/262/bilder/echos-of-abyss-adriatic1-by-robertina-sebjanic-photo-by-borut-brozovic-drugo-more-made-in-full-3-2-1_0.jpg?h=a2a2f083&itok=sPa6sli5
+- 项目主页: https://falling-walls.com/science-breakthroughs-success-stories-robertina-sebjanic
+
+#### Futile Efforts — Jiabao Li (2025)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 微小而荒诞的动作映照出真实地球工程的尺度困境。
+- 作品内容: 在北极拍摄的一组影像表演：艺术家把冰川融水重新冻住还给冰川、擦亮冰山、清扫雪山、用咖啡杯舀干海洋。
+- 实现方式: 在斯瓦尔巴群岛北极圈驻留期间拍摄的一镜到底短片表演。
+- 视频: https://www.youtube.com/watch?v=0VinJWBqinw
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/dd58197c-f787-4819-9242-fe633522836b/Jiabao+Li+Ars+Electronica+60.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/568a680d-17ba-404a-928b-d18767af7189/jiabao+li+arctic+43.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726337089750-CXYCOCLC291X30J36PAH/Jiabao+Li+Ars+Electronica+82.jpg
+- 项目主页: https://www.jiabaoli.org/futile-efforts
+
+#### Ripples: Voices of the Lagoon—Attuning to Multispecies Justice through Tangible and Embodied Interaction — Giulia Jiangxian Zhu, Elisa Giaccardi (2025)
+- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
+- 核心想法: 保护城市的基础设施可能饿死它的生态系统；让潟湖自己说话。
+- 作品内容: Ripples 是一件互动装置，为威尼斯潟湖的盐沼和物种发声——MOSE 防洪闸门阻断了泥沙流动，正在伤害它们。
+- 实现方式: 通过装置中的实体与具身交互，呈现一个超越人类的虚构故事。
+- 论文: https://doi.org/10.1145/3715668.3735596 (DIS 2025 Companion)
+
+#### The Dream of Zhuang Zhou — Shuai Zou (2025)
+- 类型: 艺术作品 · 生物: 动物, 昆虫
+- 核心想法: 物种之间的转化可以被身体感受到，而不只是被想象。
+- 作品内容: 一件基于庄子“蝴蝶梦”的多物种 VR 作品，让观众分别以人、鱼、蝴蝶和鸟的身份穿行于重建的中国山水之中，每种身份拥有各自的感知方式。
+- 实现方式: 用 3D 高斯泼溅重建地景，并在 VR 中为每个物种设计不同的感官与认知映射。
+- 论文: https://doi.org/10.1145/3757369.3767609 (SIGGRAPH Asia Art Papers 2025)
+- 图片: https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/2-Figure1-1.png https://figures.semanticscholar.org/ebe7d093b300c252b6352e15f705d00598c296d9/4-Figure3-1.png
+- 项目主页: https://doi.org/10.1145/3757369.3767609
+
+#### The Long Fall: A Descent into the Ocean's Living Memory — Jiabao Li (2025)
+- 类型: 艺术作品 · 生物: 藻类, 生态系统
+- 核心想法: 气候由你看不见的漂流细胞运转；换一个尺度去认识它们。
+- 作品内容: 一场 15 分钟的视听表演，从多佛白崖出发，跟随浮游生物化作“海洋雪”沉入深海，展示微小生命如何在地球上搬运碳。
+- 实现方式: 使用斯坦福 Manu Prakash 实验室 PlanktonScope 和 Gravity Machine 的显微数据，为 Ars Electronica Deep Space 等沉浸式屏幕渲染。
+- 论文: https://doi.org/10.1145/3799824.3812696 (SIGGRAPH 2026 Art Gallery)
+- 视频: https://www.youtube.com/watch?v=fe-Xd3gxcsU
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/3ed87691-3894-45e6-b18a-95ceeb67549d/fusebox_may_10_fullres+11.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162854807-TP6ZM25L23M7U7R1MRSU/Ars+electronica+jiabao+li+5.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1758162860831-6MFT77BBFIL4W29WOFXB/Ars+electronica+jiabao+li+7.jpg
+- 项目主页: https://www.jiabaoli.org/long-fall
+
+#### liquid strata — Entangled Others (2025)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 让被忽视的深海生命变得可感知，而不假装能完全再现它。
+- 作品内容: 一组装置，利用机器学习处理科学数据集，为海洋雪等鲜为人知的深海现象打造可触摸的界面。
+- 实现方式: 用海洋学图像和数据训练模型，生成的形态在实体互动装置中呈现。
+- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/250/bilder/26_scsu_as_entangled_others_project.jpg?h=91e3a5cb&itok=mU9y5FMp
+- 项目主页: https://falling-walls.com/breakthroughs/finalists-interviews/entangled-others
+
+#### I Tell the Moon My Secret and the Moon Tells Me Yours — Zoe Qi-Jing Li (2024)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 把一部分创作交给月亮，让作品取决于天体的节律。
+- 作品内容: 人们对着作品低声说出一个秘密；它的声波被曝光到相纸上，光源只有月光，所以只有在月亮清晰可见的夜晚，图像才会出现。
+- 实现方式: 录下的语音转换成波形图案，在月光下通过长时间曝光印制出来。
+- 论文: https://doi.org/10.1145/3635636.3660501 (C&C 2024)
+- 图片: https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Operational Bodies: The Tomato Tasted Like Automation of Care — Špela Petrič (2024)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把如今决定作物如何被照料的机器视角公开出来。
+- 作品内容: Waag 大楼外立面上的一幅长幅印刷画，呈现 Plantalyzer 机器人眼中的一排温室番茄；这台机器人每晚拍摄植株，并用 AI 判断哪些番茄已经成熟。
+- 实现方式: 2022 年 5 月，机器人的六台摄像机沿 60 米番茄行每隔 10 厘米拍摄，图像拼接后打印。
+- 图片: https://cms.waag.org/sites/waag/files/styles/1200x630/public/2024-10/spela_glue_tomatoes_lndwstudio.jpg
+- 项目主页: https://waag.org/en/article/new-artwork-spela-petric-display-exterior-waag-futurelab/
+
+#### Sensing Bodies — Sylvia Janicki, Alexandra Teixeira Riggs (2024)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 植物界面也能承载殖民历史：选择哪种植物本身就是政治决定。
+- 作品内容: 一组三联互动装置，使用靛蓝、烟草和水稻这三种美国南方种植园作物，把植物与人的生物数据并置，唤起对奴隶制和烟草田工人健康问题的记忆。
+- 实现方式: 植物和人身上的生物传感器驱动数据显示，构成三次可触摸的具身相遇，并以三条后殖民设计“挑衅”作为框架。
+- 论文: https://doi.org/10.1145/3623509.3633389 (TEI 2024)
+- 项目主页: https://doi.org/10.1145/3623509.3633389
+
+#### Stranger to the Trees — Kat Austen (2024)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 倾听树如何经历我们的塑料。
+- 作品内容: 在混有微塑料的土壤中种植桦树，把树木的生理反应转化为声音和雕塑，从树的视角审视污染。
+- 实现方式: 传感器追踪树液流动等生理数据，用来驱动声音作品和雕塑形态。
+- 图片: https://falling-walls.com/sites/default/files/styles/content/public/medien/28/bilder/fw24-science-summit-as-kat-austen-project-photo.jpg?h=6178a47d&itok=NlVjbyOB
+- 项目主页: https://falling-walls.com/plastic-tree-coexistence-kat-austens-exploration-microplastic-impact-forests
+
+#### Once a Glacier — Jiabao Li (2023)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 对冰川的哀悼，可以讲成两个生命之间的关系。
+- 作品内容: 一部 15 分钟的互动 VR 电影：一个女孩在成长中试图保住一块冰川冰，而冰川正在消失；故事取材于伊努皮亚克人“冰川会唱出记忆”的传说。
+- 实现方式: 实时交互 VR，取材于艺术家童年在阿拉斯加把冰块藏在冰箱里的经历。
+- 论文: https://doi.org/10.1145/3681759.3688920 (SIGGRAPH Asia 2024 XR)
+- 视频: https://www.youtube.com/watch?v=Vao4pbmbJLQ
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/96b3096b-70dc-42ea-a398-080665d6229b/jiabao+li+once+a+glacier.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397034-3E4TCOR94VU72TFTE2TP/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1692934397032-ESFAJWAYUBAONWRGA4W3/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+13.jpg
+- 项目主页: https://www.jiabaoli.org/once-a-glacier
+
+#### TransHuman Saunter: Multispecies Storytelling in Precarious Times — Kavita Gonsalves, Marcus Foth (2023)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 从一棵树的多物种群落出发，讲述多元的故事。
+- 作品内容: 一件位置媒体艺术作品：四位有色人种女性艺术家记录自己与布里斯班城市植物园中一棵印度榕树生态系统的纠缠。
+- 实现方式: 各件作品锚定在榕树周边的具体位置，观众通过位置应用来访问。
+- 论文: https://doi.org/10.1162/leon_a_02243 (Leonardo 2023)
+- 视频: https://www.youtube.com/watch?v=P0XpS-6IYjU
+
+#### Echinoidea Future – Adriatic Sensing — Robertina Šebjanič (2022)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 从海中一位居民的位置去感知被污染的海。
+- 作品内容: 一件关于亚得里亚海南部海胆的影像与声音作品：它们生活在被人类液体废物改变、含氧量低的海水中，作品同时呈现物种承受的压力与韧性。
+- 实现方式: 在 STARTS4Water“零污染亚得里亚海”驻地期间与海洋科学家合作完成的水下录音与 AI 辅助影像。
+- 视频: https://vimeo.com/922237843
+- 图片: https://robertina.net/wp-content/uploads/2024/05/aab3851-1.jpg
+- 项目主页: https://robertina.net/echinoidea-future-adriatic-sensing-starts4water-zero-pollution-adriatic/
+
+#### Nga manawataki o te koiora: Biorhythms — Rewa Wright (2022)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 让植物与人共同创作一件公共艺术作品。
+- 作品内容: 一件投影映射的影像作品，把人类与植物产生的声音与新西兰（奥特亚罗瓦）的抽象影像融为一体，在纳尔逊的一栋建筑立面上首映。
+- 实现方式: UnCalculated Studio（Rewa Wright 与 Simon Howden）把植物生物电数据与人声结合成生成式视听作品。
+- 论文: https://doi.org/10.1145/3610591.3616428 (SIGGRAPH Asia 2023 Art Papers)
+- 视频: https://www.youtube.com/watch?v=Q5D8ABeS060
+- 图片: https://rewawright.com/wp-content/uploads/2022/09/screen-shot-2022-09-20-at-1.54.39-am.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Berl-Berl — Jakob Kudsk Steensen (2021)
+- 类型: 艺术作品 · 生物: 生态系统, 植物, 动物
+- 核心想法: 让城市底下被遗忘的生态系统成为主角。
+- 作品内容: 一件以沼泽为主角的沉浸式装置与线上世界，重现柏林赖以建城的湿地，其声景把 Arca 的歌声与两栖动物的叫声融为一体。
+- 实现方式: 在柏林-勃兰登堡湿地进行数月野外考察，结合柏林自然博物馆的标本，在 Unreal Engine 中重建；声音由 Matt McCorkle 与 Arca 制作。
+- 视频: https://vimeo.com/765418012
+- 图片: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1659334574237-TGVI2IFHAT3G4XA0LH9J/HighresScreenshot00111.jpg
+- 项目主页: https://jakobsteensen.com/berlberl
+
+#### Earth-Centered Communication Technology: Lichen as a Model Interface — Jules Litman-Cleper (2021)
+- 类型: 艺术作品 · 生物: 真菌, 藻类
+- 核心想法: 以地衣这样的共生体，而不是以人类用户为模型来构想技术。
+- 作品内容: 一个艺术框架及一组作品，以地衣为模型设想技术，其中包括一个增强现实的地衣界面，被想象成连接不同物种的“地球通讯装置”。
+- 实现方式: 增强现实艺术作品，以及借鉴共生与演化理论的概念框架。
+- 论文: https://doi.org/10.1162/leon_a_02059 (Leonardo 2021)
+- 项目主页: https://doi.org/10.1162/leon_a_02059
+
+#### Forest Mind — Ursula Biemann (2021)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把关于植物智能的科学叙述与原住民叙述并排放置，不分高下。
+- 作品内容: 一部在哥伦比亚亚马逊拍摄的双频影片，把植物科学与 Inga 族萨满知识放在一起，追问森林如何思考。
+- 实现方式: 影像散文，结合显微镜与 DNA 实验室画面和与 Inga 族知识持有者的对话，与原住民大学项目 Devenir Universidad 合作完成。
+- 视频: https://vimeo.com/579021465
+- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-fm-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-FM-gallery-1-aspect-ratio-770-433.jpg
+- 项目主页: https://geobodies.org/art-and-videos/forest-mind/
+
+#### Foresta-Inclusive — Jane Tingley (2021)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 为聆听森林缓慢的声音搭建基础设施。
+- 作品内容: 三个雕塑般的传感器舱安装在林中树干上，测量土壤温度、降雨、二氧化碳、颗粒物等，并把数据传给画廊里的互动装置，让树木缓慢的生命变得可以感知。
+- 实现方式: 联网的生态传感器舱把森林数据发到物联网平台，驱动多件艺术装置。
+- 视频: https://www.youtube.com/watch?v=9RgymypJYWE
+- 图片: https://janetingley.com/wp-content/uploads/2022/11/Air-Pod-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Solar Protocol — Tega Brain (2021)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 让太阳而不是用户来决定网络如何运行。
+- 作品内容: 一个托管在全球小型太阳能服务器网络上的网站；页面总是由此刻阳光最充足的那台服务器提供。
+- 实现方式: 配有太阳能板和电池的 Raspberry Pi 服务器按“太阳逻辑”路由；与 Benedetta Piantella、Alex Nathanson 合作。
+- 视频: https://www.youtube.com/watch?v=mMYzM4_MZI4
+- 图片: https://solarprotocol.net/images/full-map.jpeg
+- 项目主页: https://solarprotocol.net/
+
+#### Symbiosis — Polymorf (2021)
+- 类型: 艺术作品 · 生物: 黏菌, 动物, 植物
+- 核心想法: 要感觉像另一个物种，需要整个身体，而不只是一个头显。
+- 作品内容: 一场设定在 200 年后的多人 VR 表演：观众穿上触觉服，作为黏菌、蟾蜍或植物生活，分享资源，最后在一场共同进食的仪式中相遇。
+- 实现方式: 每位参与者佩戴 VR 和软体机器人触觉穿戴；气味、声音和植物零食按角色定制，角色们在共享的虚拟空间中互动。
+- 视频: https://www.youtube.com/watch?v=ZYVn3vREyYg
+- 图片: https://polymorf.nl/wp-content/uploads/2026/05/Polymorf-Symbiosis-Holland-Festival-Frascati-22-1.jpg https://polymorf.nl/wp-content/uploads/2026/05/MultiBodyCreature_8-scaled.jpg
+- 项目主页: https://www.polymorf.nl/symbiosis
+
+#### Climate Clock — Climate Clock (Gan Golan & Andrew Boyd) (2020)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 把抽象的碳预算变成钟面上的截止时间。
+- 作品内容: 纽约联合广场 Metronome 上的倒计时钟，显示距离全球 1.5 °C 碳预算耗尽还剩多少时间，旁边是可再生能源占比的“生命线”。
+- 实现方式: 基于墨卡托研究所（MCC）碳预算数据实时计算，显示在大型 LED 屏上。
+- 视频: https://www.youtube.com/watch?v=t8uepJMWbuo
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Climate_Clock_NYC.jpg/960px-Climate_Clock_NYC.jpg
+- 项目主页: https://climateclock.world/
+
+#### Cloud Studies — Forensic Architecture (2020)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 空气是被争夺的空间，云团可以成为证据。
+- 作品内容: 一部影片与研究项目：追踪各种有毒云团，从催泪瓦斯、化学袭击到工业污染和森林大火，揭示空气中的暴力如何被制造又如何被否认。
+- 实现方式: 把多个调查中的开源视频、遥感数据和流体力学建模汇编成一部影片，由 ZKM 艺术与媒体中心委托制作。
+- 视频: https://vimeo.com/757505563
+- 图片: https://content.forensic-architecture.org/wp-content/uploads/2020/06/1-scaled.jpg
+- 项目主页: https://forensic-architecture.org/investigation/cloudstudies
+
+#### Ecocide in Indonesia — Forensic Architecture (2020)
+- 类型: 艺术作品 · 生物: 生态系统, 植物
+- 核心想法: 把森林的毁灭当作证据来读，让地景本身成为证人。
+- 作品内容: 与绿色和平国际合作的一项调查，研究巴布亚的雨林如何被放火清除以开辟棕榈油种植园，并利用卫星影像、热点数据和烟羽重建火灾过程。
+- 实现方式: 把卫星影像分析、火点数据和烟羽模拟整合成土地清除的空间时间线。
+- 视频: https://www.youtube.com/watch?v=1wn70zF8IWs
+- 项目主页: https://forensic-architecture.org/investigation/ecocide-in-indonesia
+
+#### Glacier's Lament — Jiabao Li (2020)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 让冰川的融化记录变成人类与它一起演奏的乐谱。
+- 作品内容: 把阿拉斯加门登霍尔冰川 60 年的融化数据写成音乐，由亲眼见证冰川退缩的当地音乐人在冰川上演奏和舞蹈。
+- 实现方式: 每个音符代表一个季节：冬季冻结音高低，夏季融化音高升；演奏者与冰川本身的声音一起表演。
+- 论文: https://doi.org/10.1145/3532837.3534948 (SIGGRAPH 2022 Art Gallery)
+- 视频: https://www.youtube.com/watch?v=79GaAtw8cU8
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1600373089411-GNWYV4IK917Q1X6X5DH3/Glacier+Data+Cello.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1602106288285-HIE2DT0MBDW01LD40Y5R/glacier+blue6.JPG https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1597952233408-ZR1Y2TRXHK9Y4MOY5ITD/3.png
+- 项目主页: https://www.jiabaoli.org/glacier
+
+#### Supraorganism — Justine Emard (2020)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 让机器继承蜂群的集体节律，使装置像一个群体那样行动。
+- 作品内容: 约二十件机器人化的吹制玻璃雕塑，依据一个用蜂群记录数据训练的神经网络的预测而发光、运动和发声，并对观众的到来作出反应。
+- 实现方式: 来自蜂巢的传感器数据训练定制的机器学习模型，模型的实时预测驱动玻璃模块中的灯光和电机；环境传感器让装置对观众作出反应。
+- 视频: https://www.youtube.com/watch?v=syA6uD0qkHY
+- 图片: https://justineemard.com/wp-content/uploads/2023/01/Jutsine-Emard@KIKK22_photographe_quentin_chevrier-11-e1674466988849.jpg
+- 项目主页: https://justineemard.com/supraorganism/
+
+#### Atmospheric Forest — Rasa Smite & Raitis Smits (2019)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 让气候压力下树木看不见的呼吸变得可以感知。
+- 作品内容: 一件沉浸式装置，依据被改造为活体观测站的森林的数据，呈现瑞士阿尔卑斯 Pfynwald 松林在干旱下如何呼出挥发性有机化合物。
+- 实现方式: 把瑞士 WSL 研究所的 VOC 与树木生理数据渲染成三维可视化（也有 VR 版本）。
+- 视频: https://www.youtube.com/watch?v=bvxWbEK0lCY
+- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
+
+#### Perimeter Pfynwald – A Soundscape Observatory — Marcus Maeder (2019)
+- 类型: 艺术作品 · 生物: 生态系统, 植物, 昆虫
+- 核心想法: 聆听正在一片森林里发生的气候变化。
+- 作品内容: 一件声音装置，把一个受干旱影响的瑞士松林整个夏天的录音（包括池塘和土壤动物）压缩成可以聆听的生态系统模型。
+- 实现方式: 2018 年热浪夏季，在森林、池塘和土壤中布置自动录音设备，录音在时间和空间上被压缩。
+- 视频: https://www.youtube.com/watch?v=tjri6bfA_KE
+- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
+
+#### Sonic Succulents: Plant Sounds and Vibrations — Adrienne Adar (2019)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把植物本来就在发出的动静放大，让人意识到自己正在影响另一个生命。
+- 作品内容: 在布鲁克林植物园举办的整季展览：多肉和园中植物装上振动传感器与放大器，风吹、生长和观众的触碰都会变成可以听见的植物声音。
+- 实现方式: 接触式麦克风和模拟振动传感器拾取茎叶中的机械振动，经放大器和扬声器实时播放出来。
+- 图片: http://static1.squarespace.com/static/6132729d77b59f573fc273ad/613284eb494a0173635c2266/613284eb494a0173635c2290/1633468288501/IMG_3972.jpeg?format=1500w
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Symbiosia — Thijs Biersteker (2019)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 用人的时间尺度，让树为自己的环境发出看得见的声音。
+- 作品内容: 巴黎卡地亚当代艺术基金会的一件实时装置：两棵树上的十二个传感器测量湿度、温度、二氧化碳和光照，算法每秒而不是每年画出一圈新的年轮。
+- 实现方式: 树上的传感器数据输入生成算法，绘出反映树木反应的年轮；与植物神经生物学家 Stefano Mancuso 合作。
+- 视频: https://www.youtube.com/watch?v=0AMH239bEG8
+- 图片: https://images.squarespace-cdn.com/content/v1/5d80d9eeb97e2f5b4a6ceb62/1583048194961-J2B9LFJCZHFAAFR91EK3/2.003.jpeg http://static1.squarespace.com/static/5d80d9eeb97e2f5b4a6ceb62/t/5d8c996d1d33674f2b89377c/1571932498263/websitedesign.001.jpeg?format=1500w
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### The Deep Listener — Jakob Kudsk Steensen (2019)
+- 类型: 艺术作品 · 生物: 植物, 动物, 昆虫
+- 核心想法: 用 AR 不是往公园里添加东西，而是揭示已经生活在那里的物种。
+- 作品内容: 在肯辛顿花园和海德公园进行的视听 AR 漫步，让访客看到并听到公园里的五种生物：伦敦悬铃木、蝙蝠、长尾鹦鹉、天蓝豆娘和芦苇丛。
+- 实现方式: 把野外录音、蝙蝠超声波和各物种的三维扫描放在它们真实所在的位置，做成手机 AR 应用，属于蛇形画廊的增强建筑委托项目。
+- 视频: https://vimeo.com/394495876
+- 图片: https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1614095935755-M0XR28UWTQMZZAGJ1EOJ/1.hero.png https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1588338407003-FSLM7QH06TPXGQ1RI2UE/Deep_Listening_Launch-4920.jpg
+- 项目主页: https://jakobsteensen.com/the-deep-listener
+
+#### The Room of Change — Giorgia Lupi (2019)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把全球与本地数据叠放在不同的观看距离上，让人从宏观到微观都能感到环境变化。
+- 作品内容: 第二十二届米兰三年展“Broken Nature”开篇的一幅 30 米长手工数据挂毯，呈现土地利用、气候、物种和人口在过去几个世纪的变化与未来预测；观众越走近，看到的细节越多。
+- 实现方式: 把多种环境与社会数据集手工绘制成一幅编织式数据可视化，从过去到未来排成一条长墙时间线。
+- 图片: https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454743498-G6G390S3BRZ1156W8J5C/FQ6A4519+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Thermopower — Maya Livio (2019)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 借科研仪器之眼，看见一个受气候威胁的动物的世界。
+- 作品内容: 一部短片，借助科学家的联网科研相机画面，跟随美洲鼠兔的高山苔原栖息地度过一年，把动物与数据中心的体温/温度调节联系起来。
+- 实现方式: 把研究高山苔原的可遥控联网相机 TundraCam 挪用为影片的主要拍摄装置。
+- 论文: https://doi.org/10.1145/3491102.3501851 (CHI 2022)
+- 图片: https://freight.cargo.site/w/1200/i/465d80e9997af6f883ae4f03c532cd992080d61cc4a494135deaa8fa33906f73/Thermopower_snow.png https://freight.cargo.site/t/original/i/b40f23f34184b94a6a810a2405a8d2f01ab7a49423c1be4f0b16457892eab338/Pika-cover-photo_darker-bottom.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Acoustic Ocean — Ursula Biemann (2018)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 进入海洋世界的方式是倾听，而不是观看。
+- 作品内容: 一部在罗弗敦群岛拍摄的影片：一位萨米族生物学家兼潜水员用水听器等录音设备倾听深海生命，因为声音是海洋生物导航和交流的主要方式。
+- 实现方式: 用水听器、抛物面麦克风和水下录音搭建感测站，影片把这些设备与原住民关于大海的知识并置。
+- 视频: https://vimeo.com/255000012
+- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-ao-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-AO-gallery-2-aspect-ratio-770-433.jpg
+- 项目主页: https://geobodies.org/art-and-videos/acoustic-ocean/
+
+#### Awavena — Lynette Wallworth (2018)
+- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
+- 核心想法: 数字自然可以承载原住民看待森林的方式，前提是与社群共同创作。
+- 作品内容: 与巴西亚马逊地区 Yawanawá 族人共同创作的 VR 作品，森林以社群第一位女萨满 Hushahu 的视觉幻象呈现。
+- 实现方式: 与社群共同开发的体积捕捉与粒子渲染；2018 年在圣丹斯首映。
+- 视频: https://www.youtube.com/watch?v=zIM8mOYvPec
+
+#### For the Love of Corals — Sonia Levy (2018)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 把实验室里的照护拍成物种之间的亲密关系，而不是控制。
+- 作品内容: 一部在伦敦霍尼曼博物馆“珊瑚计划”拍摄的影片：科学家在水族箱里重建月相和季节周期，让珊瑚在人工环境中产卵。
+- 实现方式: 用微距摄影近距离拍摄水族箱中的珊瑚产卵，箱内的光照、温度和月光由电脑设定。
+- 视频: https://www.youtube.com/watch?v=ntti-BQHBx4
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/03/SLIDER__-Levy-2.jpg
+- 项目主页: https://artlaboratory-berlin.org/exhibitions/the-camille-diaries/
+
+#### RE-ANIMATED — Jakob Kudsk Steensen (2018)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 用为它搭建的世界，回应一种已灭绝鸟类最后留下的鸣叫。
+- 作品内容: 一件影像与 VR 作品，在数字重建的森林栖息地中复活了夏威夷的考艾岛吸蜜鸟（Kauaʻi ʻōʻō），这种鸟在 1987 年最后一次被录到求偶叫声后被宣告灭绝。
+- 实现方式: 结合在考艾岛与科学家一起的野外考察、植物摄影测量和档案录音，在游戏引擎中构建，由算法让植物在岛上蔓延。
+- 视频: https://vimeo.com/394649444
+- 图片: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5fa18fa769489423af9f8999/1604164829226/Jakob+Kudsk+Steensen++re-animator+1+hires.jpg?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg
+- 项目主页: https://jakobsteensen.com/re-animated
+
+#### River Listening: Acoustic Ecology and Aquatic Bioacoustics in Global River Systems — Leah Barclay (2018)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 在水下聆听，能让沿岸居民“听见”河流的健康状况。
+- 作品内容: 《River Listening》用水听器录制世界各地河流的水下声音，并把它们变成聆听活动、声音作品和社区参与的河流健康监测。
+- 实现方式: 用水听器录音，把水生生物声学、声学生态学和创作实践结合起来。
+- 论文: https://doi.org/10.1162/leon_a_01516 (Leonardo 2018)
+- 图片: http://leahbarclay.com/wp-content/uploads/2015/03/1.Leah_LoganRiver.jpg http://leahbarclay.com/wp-content/uploads/2015/03/3.LeahBarclay-Listening-to-the-Thames.jpg
+- 项目主页: https://leahbarclay.com/river-listening
+
+#### Surrounded: A Series of Sound Installations That Combine Plant Electrophysiology and 3D Sonic Art — Augustine Leudar (2018)
+- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
+- 核心想法: 植物的电信号可以被作曲成沉浸式声音，而不只是画成数据图。
+- 作品内容: 一系列声音装置：记录植物和菌根网络中的电动作电位，并在三维音频森林声景中进行空间化呈现。
+- 实现方式: 电极读取植物动作电位，驱动经过定制三维空间化处理、分布在听众四周的声音。
+- 论文: https://doi.org/10.1162/leon_a_01338 (Leonardo 2018)
+- 图片: https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/1-Figure1-1.png https://figures.semanticscholar.org/474e1e50e6115bf414fab2c8ef122ebc32dc945b/2-Figure2-1.png
+
+#### Warming Stripes — Ed Hawkins (2018)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把图表精简到只剩颜色，它就能成为共同的符号。
+- 作品内容: 一幅由彩色竖条组成的图形，每年一条，从蓝（冷）到红（暖），不用坐标轴或数字就展示出 1850 年以来的温度变化。
+- 实现方式: 把年度温度距平映射到固定色阶；开放网站可为任何国家生成条纹图。
+- 视频: https://www.youtube.com/watch?v=1e21KiPMm88
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GLOBAL-STRIPES-1850-2025-hires.png/960px-GLOBAL-STRIPES-1850-2025-hires.png
+- 项目主页: https://showyourstripes.info/
+
+#### We Live in an Ocean of Air — Marshmallow Laser Feast (2018)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 每一次呼吸都是与植物的交换。
+- 作品内容: 萨奇画廊的多人 VR 装置：每位观众呼出的气息被可视化，并被一棵巨杉吸入，人与树之间的气体交换因此变得可见。
+- 实现方式: 每位观众佩戴的呼吸传感器和心率监测驱动无线 VR 头显中的实时粒子画面，同时配合气味和空间声景。
+- 视频: https://www.youtube.com/watch?v=1Ex5OFWIQ0Q
+- 图片: https://marshmallowlaserfeast.com/app/uploads/2023/11/Copy-of-OceanOfAir_Saatchi_-12-of-34_sml-1024x682.jpg
+- 项目主页: https://www.marshmallowlaserfeast.com/project/we-live-in-an-ocean-of-air/
+
+#### aqua_forensic — Robertina Šebjanič (2018)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 通过水中最小的居民，呈现我们留在水里的看不见的化学足迹。
+- 作品内容: 与 Gjino Šutić 合作的装置、工作坊与公民科学项目：用全息影像呈现微生物在高度稀释的药物溶液中死亡的过程，让水中的药物残留变得可见。
+- 实现方式: 在比人用剂量弱 2 万倍的药物溶液中开展微生物体外实验，以全息视频的形式呈现在铜管装置中。
+- 视频: https://vimeo.com/288379735
+- 图片: https://robertina.net/wp-content/uploads/2025/09/5aa0e-aqua_forensic_robertina_sebjanic_gjino_sutic-2-2.jpg
+- 项目主页: https://robertina.net/aqua_forensic/
+
+#### Seasynthesis — Xandra van der Eijk (2017)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 聆听是进入我们无法进入的生态系统的一种方式。
+- 作品内容: 一个持续的聆听项目，录制北海水下的声音——船只螺旋桨、海上风电施工、海洋生物——让人们接近这片很少被看见的海。2017 年 BAD Award 获奖作品，与瓦赫宁根海洋研究所合作。
+- 实现方式: 与海洋生态学家 Han Lindeboom 合作分析北海的水听器录音，并以声音装置呈现。
+- 图片: https://www.badaward.nl/imager/assets/site/1145/Life-Time-Hanneke-Wetzer-1_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/xandra-van-der-eijk-with-han-lindeboom
+
+#### Sounding Soil — Marcus Maeder (2017)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 聆听土壤，让它隐藏的生命与健康状况变得可闻。
+- 作品内容: 一个艺术、研究与公民科学项目，用针式麦克风录下土壤动物、根系和水流的声音，展示瑞士各地土壤生命的不同声景。
+- 实现方式: 把高灵敏度探针麦克风插入地下录制土壤声学信号；通过巡回集装箱展和参与式录音向公众分享。
+- 图片: https://ars.electronica.art/starts-prize/files/2020/06/SoundingSoil-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/sounding-soil/
+
+#### Spring Bloom in the Marginal Ice Zone — Jana Winderen (2017)
+- 类型: 艺术作品 · 生物: 动物, 藻类, 生态系统
+- 核心想法: 让一个生态系统最关键的时刻被听见，脆弱就不只是读到的数据。
+- 作品内容: 一件七声道声音装置，呈现巴伦支海春季浮游生物大爆发时的水下世界：开裂的海冰、髯海豹、鲸、鳕鱼和甲壳动物，它们都依赖这场爆发。
+- 实现方式: 在斯瓦尔巴群岛附近用水听器录音，再编排成空间化的多声道作品；由 Sonic Acts 与 Dark Ecology 委托。
+- 视频: https://www.youtube.com/watch?v=oxGIQF3iRYM
+- 图片: https://janawinderen.com/media/pages/releases/spring-bloom-in-the-marginal-ice-zone/3250264730-1587415338/tone65.jpg
+- 项目主页: https://janawinderen.com/releases/spring-bloom-in-the-marginal-ice-zone
+
+#### Thermotaxis — Kuai Shen (2017)
+- 类型: 艺术作品 · 生物: 昆虫, 细菌与微生物
+- 核心想法: 聆听一个蚁群的新陈代谢：把热量当作音乐信号。
+- 作品内容: 一个红林蚁巢置于冷却的「冬眠容器」中；热成像相机读取蚂蚁及其微生物产生的热量，并把它转化为实时乐曲。
+- 实现方式: 自调节冷却系统加热成像计算机视觉，把 Formica rufa 蚁巢的温度模式映射为声音模式；与 Technarium 和维尔纽斯大学合作。
+- 视频: https://vimeo.com/209588545
+- 图片: https://kuaishen.tv/images/thermotaxis/5.jpg https://kuaishen.tv/images/thermotaxis/7.jpg
+- 项目主页: https://kuaishen.tv/thermotaxis.html
+
+#### Tree — New Reality Company (2017)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 用几分钟经历一棵树的一生，从内部感受森林砍伐。
+- 作品内容: 一个 VR 体验：观众变成一棵雨林树，从种子长到林冠，然后目睹森林被焚烧。
+- 实现方式: 房间尺度 VR，双臂被追踪为树枝，并加入风、热、气味和振动地板；2017 年在圣丹斯 New Frontier 首映，与雨林联盟合作。
+- 视频: https://www.youtube.com/watch?v=oEqkLuyKGUk
+- 项目主页: https://www.treeofficial.com/
+
+#### Aquatocene / Subaquatic Quest for Serenity — Robertina Šebjanič (2016)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 问海洋如何听见我们，而不是我们如何听见海洋。
+- 作品内容: 用海洋、湖泊和河流的水听器录音创作的声音作品，让人听见船只和人类噪音如何充斥依赖声音生存的水下世界。
+- 实现方式: 长期的水听器录音与作曲，以装置、表演和聆听会的形式呈现。
+- 视频: https://vimeo.com/215171764
+- 图片: https://robertina.net/wp-content/uploads/2025/09/cbdc0-aquatocene-by-robertina-sebjanic-new1.jpg
+- 项目主页: https://robertina.net/aquatocene/
+
+#### Avian Attractor — Judith Doyle (2016)
+- 类型: 艺术作品 · 生物: 动物, 人体
+- 核心想法: 把人和鸟的动作放进同一画面，暗示彼此的亲缘。
+- 作品内容: 一件交互装置，把鸟的录像和图片与访客的实时影像融合，生成鸟与人共处同一画面的抽象合成场景。
+- 实现方式: 访客的实时视频与鸟类影像资料实时合成；在 CHI 2016 交互展区展出。
+- 论文: https://doi.org/10.1145/2851581.2891093 (CHI 2016 EA)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Bug's Beat — Yumi Sasaki (2016)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 改变听者的尺度，小虫就成了巨人。
+- 作品内容: 一件装置，通过定向扬声器和振动座椅放大小昆虫的脚步声，让听者听到并感受到它的每一步。
+- 实现方式: 昆虫活动区下方的接触式麦克风拾取脚步声，并输出到定向扬声器和振动换能器。
+- 视频: https://vimeo.com/208145212
+- 图片: https://ars.electronica.art/starts-prize/files/2017/05/bugsbeat.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/bugs-beat/
+
+#### Flora Luma — Raune Frankjær (2016)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 用光让人看见自己对植物产生的影响。
+- 作品内容: 花园植物之间放置着光纤发光圆罩，它们随植物的电信号亮起；访客触摸或靠近植物时，信号和灯光随之变化。
+- 实现方式: 电极采集植物对触摸和接近的生物电反应，驱动光纤编织雕塑里的 LED；作为参与式设计展项展出。
+- 论文: https://doi.org/10.1145/2948076.2948115 (PDC 2016)
+- 图片: https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Primal Tourism — Jakob Kudsk Steensen (2016)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 用游戏引擎呈现一座来自未来的天堂岛：游客离开之后、生态恢复之前。
+- 作品内容: 旅游岛屿波拉波拉岛的等比例虚拟复制品，岛上古老生态系统、未来海平面与废弃度假村并存，可以作为影片、游戏或 VR 来探索。
+- 实现方式: 把卫星地图、海平面科学预测和本地物种放进 Unreal Engine 4 中构建成景观。
+- 视频: https://vimeo.com/185262742
+- 图片: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5eb426b12bf8463a49209757/1588861849430/FKV_How-to-Make-a-Paradise_Jakob-Kudsk-Steensen_Primal-Tourism_01-1.png?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1494531862145-26Y0QF86HHFFX0DS8B2N/Island_stillshot_master.jpg
+- 项目主页: https://jakobsteensen.com/primal-tourism-1
+
+#### The Great Animal Orchestra — Bernie Krause, United Visual Artists (2016)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 把一个栖息地当作一支乐团来听，也就能听出物种消失后缺了什么。
+- 作品内容: 巴黎卡地亚当代艺术基金会里的沉浸式展厅：Bernie Krause 在七个栖息地录下的声景在播放，实时声谱图在墙上滚动，并倒映在一池深色水面里。
+- 实现方式: 从 Krause 五千小时录音档案中选取的野外录音被转换成声谱图，由 United Visual Artists 渲染成与声音同步移动的投影景观。
+- 视频: https://www.youtube.com/watch?v=o1SnSv0OQdY
+- 图片: https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020315-MII6D7Y75P26RWZ92Q4K/UVA__GreatAnimalOrchestra_JH_06-2.jpg https://images.squarespace-cdn.com/content/v1/5cfd3effe02806000151e559/1570548020184-HXZKEPWXTPZ0ERCW39FN/UVA__GreatAnimalOrchestra_JM_03.jpg
+- 项目主页: https://www.uva.co.uk/features/great-animal-orchestra-cartier-foundation
+
+#### The Woods (Being Radiotropic) — Tega Brain (2016)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 让网络基础设施与植物协商，而不只服务人类。
+- 作品内容: 一台由室内植物控制的无线路由器：植物给自己拍照，把照片插入人们打开的网页；如果它状况不好，还能把用户踢下网络。
+- 实现方式: 一台带摄像头和传感器的 Linux 路由器，根据植物状态改写网页内容并限制接入；属于在 Eyebeam 展出的 Being Radiotropic 路由器系列。
+- 图片: https://freight.cargo.site/t/original/i/f092d5ebc4b9d858a85a56d59499caa97579f601bf515052bb6df7253355b452/theWoods-small.jpg https://freight.cargo.site/t/original/i/8b3bdaf62ece6629c69bcbcaea53d62f8609dbcf05d678917d1e0a24e4e88073/plant-small.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### theBlu: Whale Encounter — Wevr (2016)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 尺度是 VR 最擅长的：以真实大小与动物相遇。
+- 作品内容: 一段简短的房间尺度 VR 作品：观众站在沉船甲板上，一头真实大小的蓝鲸从身旁游过。
+- 实现方式: 为 HTC Vive 实时渲染的水下场景，属于 theBlu 系列。
+- 视频: https://www.youtube.com/watch?v=hUpkVa4UkMg
+- 项目主页: https://wevr.com/theblu
+
+#### Rainforest Listening — Leah Barclay (2015)
+- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
+- 核心想法: 把远方的森林叠加到城市街道上，让人听到正在失去的东西。
+- 作品内容: 一个增强现实声音项目，把带地理定位的雨林声景放进城市；2015 年纽约气候周期间在时代广场首发，并在巴黎 COP21 期间展出。
+- 实现方式: 手机应用根据 GPS 在听众行走时触发亚马孙声景，与 Rainforest Partnership 合作制作。
+- 视频: https://vimeo.com/157876186
+- 图片: https://www.rainforestlistening.com/uploads/2/0/1/3/2013969/3809756_orig.jpg
+- 项目主页: https://www.rainforestlistening.com
+
+#### The Hive — Wolfgang Buttress (2015)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 让人站进一个蜂巢的节律里。
+- 作品内容: 一座 17 米高的网格雕塑，先是 2015 年米兰世博会英国馆，后移至邱园；其中 1000 盏 LED 灯和声景随一个真实蜂群的活动而起伏。
+- 实现方式: 与诺丁汉特伦特大学物理学家 Martin Bencsik 合作，把加速度传感器放进蜂箱，实时传输蜜蜂振动，驱动灯光和作曲声轨。
+- 视频: https://www.youtube.com/watch?v=wSzsoW2IjpE
+- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Hive_installation_Kew_Gardens.jpg/1280px-The_Hive_installation_Kew_Gardens.jpg https://upload.wikimedia.org/wikipedia/commons/5/51/The_Hive%2C_Kew_Gardens_-_geograph.org.uk_-_5868730.jpg
+- 项目主页: https://www.smithsonianmag.com/arts-culture/sculpture-controlled-live-honeybees-180960006/
+
+#### Untitled (Human Mask) — Pierre Huyghe (2014)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 通过一只被训练来模仿人类的动物，呈现人类离开之后的人类世界。
+- 作品内容: 一部短片：2011 年灾难之后，一只戴着年轻女性面具和假发的猴子，独自在福岛附近一家废弃餐馆里走动。
+- 实现方式: 以一只受过训练的猕猴在空荡餐馆中拍摄，开场是无人机拍下的隔离区画面。
+- 图片: https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/huyghe-humanmask.jpg
+- 项目主页: https://hyperallergic.com/228401/pierre-huyghe-and-the-art-of-the-rupture/
+
+#### treelab — Marcus Maeder (2014)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 只要用对传感器，就能听见一棵在干旱中挣扎的树。
+- 作品内容: 一个持续进行的项目：录制树木内部的声发射（如干旱时水柱断裂产生的空穴声），并与生理数据一起转化为声音作品。
+- 实现方式: 在树干上安装接触式与超声传感器，结合树液流与气候数据，与瑞士联邦森林、雪与景观研究所 WSL（Roman Zweifel）合作。
+- 视频: https://www.youtube.com/watch?v=-fLrB4l82fY
+- 图片: https://marcusmaeder.ch/wp-content/uploads/2021/04/DSC_3030.jpg
+- 项目主页: https://marcusmaeder.ch/
+
+#### A Conversation Between Trees — Steve Benford (2013)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 可以把树木变成气候数据的实时讲述者，引发感受而不是说教。
+- 作品内容: CHI 2013 论文，研究 Active Ingredient 的一件互动艺术作品：它把远方树木上传感器传回的实时环境数据与历史和预测的 CO2 数据一起可视化，并在附近森林中组织移动感知漫步。
+- 实现方式: 远方树上的传感器把实时环境数据传到展厅装置；论文分析艺术家、观众和一位气候科学家的视角。
+- 论文: https://doi.org/10.1145/2470654.2470673 (CHI 2013)
+- 图片: https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/4-Figure6-1.png https://figures.semanticscholar.org/ba85594ee9546bc7d337b1d413f497de0ce11bab/3-Figure2-1.png
+
+#### A Song of Our Warming Planet — Daniel Crawford (2013)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把变暖听作不断升高的音高，几分钟内就能感受到一种趋势。
+- 作品内容: 一首大提琴曲：每个音符代表 1880 年以来的一年全球温度，随地球变暖而音高上升。
+- 实现方式: 把 NASA GISS 温度记录映射到大提琴的音域上。
+- 视频: https://www.youtube.com/watch?v=Z7UCUoWmv9I
+- 项目主页: https://danielcrawford.org/
+
+#### Biosphere Soundscapes — Leah Barclay (2013)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 把倾听当作衡量生态系统健康的共同尺度。
+- 作品内容: 一个在联合国教科文组织生物圈保护区开展的长期声学生态项目，通过驻地、录音和工作坊，让社区借助声音倾听并监测环境变化。
+- 实现方式: 陆地和水下田野录音、社区工作坊与创作混音；2013 年获联合国教科文组织“人与生物圈计划”认可。
+- 视频: https://www.youtube.com/watch?v=0EBEGneXB8w
+- 图片: https://biospheresoundscapes.org/uploads/2/0/1/3/2013969/eo9dy2iuuaewue_orig.jpg
+- 项目主页: https://biospheresoundscapes.org
+
+#### Keeping Time (Phenology Studies) — Tega Brain (2013)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 人们随手拍的照片按日期排好，就成了一种植物自己的日历。
+- 作品内容: 从 Flickr 抓取某一种植物（如蓝花楹、斯特尔特沙漠豌豆）的照片，按拍摄时间逐年排列成版画和视频，物种的花期就显现为一条彩色的带。
+- 实现方式: 脚本收集 2002–2013 年某物种带时间戳的 Flickr 图片，按年分行、按日期排序排列。
+- 视频: https://www.youtube.com/watch?v=NDZMHbjICck
+- 图片: https://freight.cargo.site/w/1200/i/9ac22f143ae9f0dd119c004c5d8357e98babc215d653db08f58345b7116bf5a1/TegaBrain-KeepingTime.jpg https://freight.cargo.site/t/original/i/ffee0cf6e7f4369a4cad6bdc9227a00f8a6c59e1d816879c110d42c8966bb22f/zgallery_oct2014_02_6.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Seismic Sense — Moon Ribas (2013)
+- 类型: 艺术作品 · 生物: 人体, 生态系统
+- 核心想法: 用身体持续感受地球的运动。
+- 作品内容: 植入 Ribas 双脚、连接在线地震仪的传感器，只要地球上任何地方发生地震就会振动，她把这些振动转化为舞蹈。
+- 实现方式: 由实时地震数据驱动的振动植入物；在作品《等待地震》中演出。
+- 视频: https://www.youtube.com/watch?v=MdDfAdSeRNQ
+- 图片: https://images.hoobaweb.com/8930/imgf-1200-630/moon-ribas.png
+- 项目主页: https://www.moonribas.com/
+
+#### The Transparent Beehive — Anne Marie Maes (2013)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 让蜂箱变得可读：声音和数据让人能逐日跟踪蜂群的健康。
+- 作品内容: 一个像书一样可翻开的观察蜂箱，里面是活的蜂群，装有麦克风、摄像头和温湿度传感器，数据被转为声音和图像，呈现蜂群状态。
+- 实现方式: 仿照 François Huber 1788 年“书页式”蜂箱设计的有机玻璃、木材和铝框架上装有接触式麦克风和网络摄像头，音频和传感数据经过模式识别和 AI 处理；最早安装在布鲁塞尔屋顶。
+- 视频: https://vimeo.com/158627265
+- 图片: https://annemariemaes.net/wp-content/uploads/2013/10/TranspBeehive01.jpg https://annemariemaes.net/wp-content/uploads/2013/10/TranspBeehive04.jpg
+- 项目主页: https://annemariemaes.net/projects/the-transparent-beehive/
+
+#### FOREST (for a thousand years…) — Janet Cardiff & George Bures Miller (2012)
+- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
+- 核心想法: 放置在真实树木间的声音，能让森林成为历史的见证者。
+- 作品内容: 为第 13 届卡塞尔文献展创作的 28 分钟声音装置：观众坐在卡尔斯奥公园的林间空地上，隐藏的扬声器在真实树木间播放风声、脚步、战争与歌声。
+- 实现方式: 多声道音频作品，分布在安装于树上的扬声器中。
+- 视频: https://www.youtube.com/watch?v=hGqPwaZVPBo
+- 图片: https://cardiffmiller.com/wp-content/uploads/2016/04/forest.jpg
+- 项目主页: https://cardiffmiller.com/installations/forest-for-a-thousand-years/
+
+#### Phenology Wall Clock (Sydney) — Tega Brain, Natalie Jeremijenko (2012)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 用身边物种的生命周期代替钟点。
+- 作品内容: 改装的挂钟，表盘上标出悉尼和纽约本地物种开花、结果、迁徙和繁殖的时间，让一年被读作一轮生态事件的循环。
+- 实现方式: 把城市生态系统的物候观测数据绘在按年旋转的钟面上；属于 Natalie Jeremijenko 在 Environmental Health Clinic 发起的 Phenology Clock 项目。
+- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
+- 图片: https://freight.cargo.site/t/original/i/96d55b21e4065708d8b77dfbd65244189546091f628de1074d9492c692d04b94/sydney_o.jpg https://freight.cargo.site/t/original/i/59526d0d7fea6a3f7c53c75b912c5c9bc287b3d0a98456607bfbe919a6860352/clocks_o.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Wind Map — Fernanda Viégas & Martin Wattenberg (2012)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 看不见的天气被画成运动时，就成了一片活的风景。
+- 作品内容: 一张美国风场的实时网页地图，以流动的白色线条绘制，每小时根据国家数字预报数据库更新；后被纽约现代艺术博物馆收藏。
+- 实现方式: 在浏览器中基于每小时地表风预报进行粒子平流渲染。
+- 视频: https://www.youtube.com/watch?v=LUCDmWTVlGo
+- 项目主页: http://hint.fm/wind/
+
+#### Central Park (Listen to the Light) — Bluebrain (2011)
+- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
+- 核心想法: 为一片景观作曲，就让行走本身成为演出。
+- 作品内容: 一张 iPhone 位置感知专辑：听众在纽约中央公园中行走时，音乐会随所在区域而变化。
+- 实现方式: 由 GPS 触发的音乐层，映射到公园中的数百个区域上。
+- 视频: https://www.youtube.com/watch?v=sAE1xfYl3Q8
+
+#### Particle Falls — Andrea Polli (2010)
+- 类型: 艺术作品 · 生物: 人体
+- 核心想法: 把看不见的污染呈现为美丽、易读的公共影像。
+- 作品内容: 投射在建筑立面上的大型影像：一面蓝色瀑布，当附近的传感器实时探测到细颗粒物污染时，橙白色的粒子会迸发出来。
+- 实现方式: 测量 PM2.5 的浊度计驱动生成式投影软件；在圣何塞、费城、匹兹堡等城市展出。
+- 视频: https://www.youtube.com/watch?v=m5Vwi8VSasQ
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Andrea_Polli_2013_Particle_Falls_056.JPG/960px-Andrea_Polli_2013_Particle_Falls_056.JPG
+
+#### Amphibious Architecture — Natalie Jeremijenko, The Living (2009)
+- 类型: 研究原型 · 生物: 动物, 生态系统
+- 核心想法: 让城市河流下的生命变得可见、可联系，让人可以和鱼“对话”。
+- 作品内容: 漂浮在纽约东河和布朗克斯河上的灯管感知水质和鱼的出没，并在水面上亮起不同颜色；人们还可以给鱼发短信，收到关于水下状况的回复。
+- 实现方式: 两组装有传感器（水质、鱼类探测）的浮管驱动 LED 灯光和短信界面；与 The Living 的 David Benjamin 和 Soo-in Yang 合作。
+- 视频: https://www.youtube.com/watch?v=tE8gsMUguLY
+- 项目主页: http://urbanomnibus.net/2009/09/toward-the-sentient-city-interviews/
+
+#### Weather Scores — Nathalie Miebach (2009)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 天气数据既能成为一件物品，也能成为一首音乐。
+- 作品内容: 类似编织篮筐的雕塑，编码了风速、气压、温度等风暴数据，同时也是由音乐家演奏的乐谱。
+- 实现方式: 根据气象记录手工编织的芦苇与木结构，并与音乐家合作转译为乐谱。
+- 视频: https://www.youtube.com/watch?v=MbhNaj88uL4
+- 项目主页: https://www.nathaliemiebach.com/
+
+#### Nuage Vert — HeHe (Helen Evans & Heiko Hansen) (2008)
+- 类型: 艺术作品 · 生物: 人体, 生态系统
+- 核心想法: 直接在排放物上作画，让能耗在天空中可见。
+- 作品内容: 绿色激光勾勒出赫尔辛基 Salmisaari 电厂排出的蒸汽云轮廓；当地居民用电减少时，光圈会变大。
+- 实现方式: 跟踪式激光投影结合电力公司的实时用电数据，为 Pixelache 艺术节作品。
+- 视频: https://www.youtube.com/watch?v=yFKTG3UqKGc
+- 项目主页: http://www.hehe.org/
+
+#### Whispering in the Leaves — Chris Watson (2008)
+- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
+- 核心想法: 只用声音，把一个不在场的生态系统带进建筑里。
+- 作品内容: 一件多声道声音装置，用中美洲和南美洲雨林的黎明与黄昏合唱填满温室；2008 年首展于 AV Festival，后在邱园棕榈温室展出。
+- 实现方式: 雨林录音通过布置在热带植物间的扬声器播放，并按一天中的光线变化安排。
+- 视频: https://www.youtube.com/watch?v=jxrqHwH1NVE
+- 项目主页: https://chriswatson.net
+
+#### Dawn Chorus — Marcus Coates (2007)
+- 类型: 艺术作品 · 生物: 动物, 人体
+- 核心想法: 放慢后，鸟鸣能被人声唱出；加快后，人就变成了鸟。
+- 作品内容: 一件 14 屏影像装置：人们分别在浴室、车里、卧室里唱一种鸟的歌；加速播放后，他们的声音几乎和清晨的鸟鸣合唱一模一样。
+- 实现方式: 把鸟鸣录音放慢约 16 倍，让志愿者学会并对着镜头演唱，再把影像按同样倍数加速。
+- 视频: https://www.youtube.com/watch?v=zF1uihdcZmY
+- 图片: https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/fabrica.jpg
+- 项目主页: https://marcuscoates.co.uk/projects/68-dawn-chorus
+
+#### The Tree Listening Project — Alex Metcalf (2007)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 树一直在忙碌，只是需要合适的“耳朵”才能察觉。
+- 作品内容: 观众戴上连接活树的耳机，听到树的内部：低沉的轰鸣，以及水在木质部中流动时轻微的噼啪声。
+- 实现方式: 贴在树干上的高灵敏接触式麦克风拾取输水木质部中的振动和空穴化咔嗒声，放大后传到共享耳机。
+- 图片: https://treelistening.co.uk/wp-content/uploads/2025/09/media-1024x547.jpg https://treelistening.co.uk/wp-content/uploads/2025/09/our-story-1024x480.jpg
+- 项目主页: https://treelistening.co.uk/
+
+#### Vatnajökull (the sound of) — Katie Paterson (2007)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 一通电话，就能把融化的冰川放进你的耳朵。
+- 作品内容: 在冰岛 Jökulsárlón 冰湖中放置水下麦克风并接入电话线，任何人拨打一个号码，就能实时听到瓦特纳冰川融化的声音。
+- 实现方式: 在冰川湖安装水听器、放大器和手机中继；电话号码以霓虹灯形式展示在展厅中。
+- 图片: https://i0.wp.com/katiepaterson.org/wp-content/uploads/2022/02/Katie_Paterson_Vatnajokull_3-1.jpg?resize=1920%2C1442&ssl=1
+- 项目主页: https://katiepaterson.org/artwork/vatnajokull-the-sound-of/
+
+#### Weather Report — Chris Watson (2003)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 压缩的是时间而不是空间：让一个地方的动物和天气来作曲。
+- 作品内容: 一张由三段长篇田野录音作品组成的专辑：肯尼亚野生动物保护区的一天、苏格兰峡谷的一个季节，以及冰岛冰川的缓慢移动。
+- 实现方式: 长时间的现场录音，被剪辑成时间压缩的叙事，由 Touch 厂牌发行。
+- 视频: https://www.youtube.com/watch?v=uqvkmacBJv8
+- 项目主页: https://chriswatson.net
+
+#### Feral Robotic Dogs — Natalie Jeremijenko (2002)
+- 类型: 研究原型 · 生物: 生态系统
+- 核心想法: 改造玩具，让看不见的污染变得公开、可读。
+- 作品内容: 学生和社区团体改装消费级机器狗，装上化学传感器，把它们放到受污染的场地上，让机器狗“嗅出”污染物并把人带过去。
+- 实现方式: 玩具机器狗被改装上挥发性有机物等传感器和简单的追踪行为，在美国多所大学以开放工作坊形式开展。
+- 论文: https://doi.org/10.7551/mitpress/9324.003.0027 (Art + DIY Electronics (MIT Press) 2023)
+- 图片: https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/coverimage.jpg https://web.archive.org/web/20190609042052im_/http://www.nyu.edu/projects/xdesign/feralrobots/pics/cornelldogsq.jpg
+- 项目主页: https://web.archive.org/web/20190609042052/http://www.nyu.edu/projects/xdesign/feralrobots/
+
+#### Forest Walk — Janet Cardiff & George Bures Miller (1991)
+- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
+- 核心想法: 把一段录制的行走叠加在真实森林上，让人对它更敏锐。
+- 作品内容: Cardiff 的第一件音频漫步作品：观众跟随她录下的声音和脚步沿班夫森林中的小径行走，真实与录制的声音交织在一起。
+- 实现方式: 沿同一路线行走时，用便携播放器播放双耳录音。
+- 图片: https://cardiffmiller.com/wp-content/uploads/2020/05/forest_3.jpg
+- 项目主页: https://cardiffmiller.com/walks/forest-walk/
+
+#### Kits Beach Soundwalk — Hildegard Westerkamp (1989)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 有选择的聆听，能让嘈杂之地重新显露生机。
+- 作品内容: 一部声景作品：作曲家带着听者沿温哥华的海滩行走，滤掉城市噪声，让藤壶细微的声响浮现出来。
+- 实现方式: 现场录音配以口述旁白，并在录音室中进行滤波与均衡处理。
+- 视频: https://www.youtube.com/watch?v=hg96nU6ltLk
+- 项目主页: https://www.hildegardwesterkamp.ca/
+
+#### Songs of the Humpback Whale — Roger Payne (1970)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 听见另一个物种的歌声，可以改变整个社会与它的关系。
+- 作品内容: 一张用水听器录制的座头鲸歌声专辑，销量超过 10 万张，推动了“拯救鲸鱼”运动。
+- 实现方式: 在百慕大海域用美国海军和野外水听器录制，Payne 与 McVay 分析歌曲结构后由 CRM Records 发行。
+- 视频: https://www.youtube.com/watch?v=sjkxUA041nM
+- 项目主页: https://en.wikipedia.org/wiki/Songs_of_the_Humpback_Whale_(album)
+
+### 装置与环境
+
+关于生态、灭绝、气候和其他物种的装置与环境。
+
+#### CryoScapes — Jiabao Li (2025)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 融化本身就是信息：一件由当地温度和湿度共同完成的雕塑。
+- 作品内容: 一台桌面 3D 冰打印机，源于斯瓦尔巴群岛北极圈驻留：它用冰打印出景观，观众看着它融化，同时 AI 为每个形态写下俳句式的诗。
+- 实现方式: 定制打印机把水逐层沉积到冷板上；摄像头把图像传给 AI 生成诗句；湿度和水质会改变每次打印结果。
+- 论文: https://doi.org/10.1145/3757369.3767614 (SIGGRAPH Asia 2025 Art Papers)
+- 视频: https://www.youtube.com/watch?v=EMdPmprYkWo
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b718d95f-af0b-4a42-a695-6414ad93bd6a/jiabao+li+arctic.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349975529-W4JNC44WXTHZY975I7EQ/jiabao+li+arctic+26.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737349943092-89KX5AV7YAIXKUYMDEIN/jiabao+li+arctic+35.jpg
+- 项目主页: https://www.jiabaoli.org/cryoscapes
+
+#### FUNGI: Anarchist Designers — Feifei Zhou, Anna Lowenhaupt Tsing (2025)
+- 类型: 艺术作品 · 生物: 真菌, 生态系统
+- 核心想法: 别再只把真菌当材料，而要从它们的行动中学习设计。
+- 作品内容: 一个展览，把真菌看作自主塑造环境的“设计师”——无论人类是否乐意——而不是供人使用的被动材料。
+- 实现方式: 通过绘图、地图和田野研究，追踪真菌如何改造地景、身体和基础设施。
+- 图片: https://ars.electronica.art/starts-prize/files/2026/06/fungi-aadh-109-1024x576.jpg
+- 项目主页: https://terristories.net
+
+#### Holy Shit — Rimini Protokoll (2025)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 人体
+- 核心想法: “自我”是一个多物种群落，剧场观众可以亲身感受到这一点。
+- 作品内容: Stefan Kaegi 与 Caroline Barneaud 的剧场作品，讲述人体肠道细菌如何影响我们的决定，把身份的所在从大脑移到了腹部。
+- 实现方式: 结合微生物组科学、火山隐喻与观众参与的纪实剧场。
+- 图片: https://ars.electronica.art/starts-prize/files/2026/06/holy-shit_kunstfest25_0294-1024x576.jpg
+- 项目主页: https://www.rimini-protokoll.de
+
+#### Ornithon — Studio Ossidiana (2025)
+- 类型: 艺术作品 · 生物: 动物, 植物
+- 核心想法: 为今天的城市复活一种古老的类型：作为共享花园的鸟舍。
+- 作品内容: 里斯本贝伦文化中心的鸟舍花园装置，灵感来自罗马作家瓦罗的鸟舍，设有供鸟和人使用的座位、水和植物。
+- 实现方式: 由栖木、水池和植物组成的建造景观，参照瓦罗的《论农业》。
+- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/b0ac47db-d7dc-4d1b-a71a-b7b7a188c8ef/Studio+Ossidiana_Mac_Riccardo+De+Vecchi+photographer-1.jpg
+- 项目主页: https://www.studio-ossidiana.com/ornithon-/-centro-cultural-de-belm
+
+#### STONELIFE — Andrés Jaque (2025)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 一块石头就是一个生态系统，切割和抛光它是对生命的行为。
+- 作品内容: 2025 年威尼斯建筑双年展上的装置，与矿物学家 Gokce Ustunisik 合作，把石头呈现为充满微生物的活的“岩石生态系统”，而不是被开采的惰性材料。
+- 实现方式: 展示石材样本与微生物研究，追踪岩石微生物、采掘产业与受影响社区之间的联系。
+- 图片: https://offpolinn.com/wp-content/uploads/2025/05/01-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg https://offpolinn.com/wp-content/uploads/2025/05/02-STONELIFE_ANDRES-JAQUE-OFFPOLINN.jpg
+- 项目主页: https://offpolinn.com/work/stonelife-the-microbeplanetary-infrastructure-of-lithoecosystems/
+
+#### Spectral Fragments: A Haunted Excavation of Vega and Handen — Nonhuman Nonsense (2025)
+- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
+- 核心想法: 通过幽灵来绘制一片土地：消失的物种、化石和被遗忘的物件。
+- 作品内容: 斯德哥尔摩附近 Handen 火车站的两幅大型印刷作品，把 Vega 与 Handen 被排干湿地中的考古发现、技术化石、濒危湿地物种和“闹鬼”物件绘成一张地图，纪念被城市取代的一切。
+- 实现方式: 与考古学家 Andreas Forsgren、生物学家 Annika Lydänge 合作的拼贴印刷作品；由哈宁厄市委托。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg
+- 项目主页: https://nonhuman-nonsense.com/handen-vega-wall
+
+#### Storying Multispecies Heritage: The Conference of the Birds — Susanne Fredholm (2025)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 多物种叙事可以为城市规划提供养分。
+- 作品内容: 考察哥德堡 Frihamnen 的《The Conference of the Birds》：这个艺术项目召集艺术家、设计师、建筑师与鸟类学家，一起讲述场地上人与鸟的历史。
+- 实现方式: 以批判性遗产生态与边界工作的视角进行案例研究。
+- 论文: https://doi.org/10.1162/desi.a.716 (Design Issues 2025)
+- 项目主页: https://doi.org/10.1162/desi.a.716
+
+#### The Coast Is Not a Line, It's a Zone — Feifei Zhou (2025)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 乡土渔具可以示范如何在索取的同时让生态系统得以再生。
+- 作品内容: 一件综合媒介装置，围绕帝汶岛古邦湾渔民使用的 sero（一种棕榈叶鱼栅）展开，这种鱼栅会放走幼鱼和小虾；作品认为海岸是许多物种共享的地带，而不是地图上的一条线。
+- 实现方式: 在古邦湾渔民社区做田野调查，结合绘图和一段用 gewang（贝叶棕）叶编成的 sero 实物，与 Gillian Bogart 合作完成，属于伦敦设计博物馆 More than Human 研究奖助项目。
+- 视频: https://www.youtube.com/watch?v=-VVtSP6bxoI
+- 项目主页: https://designmuseum.org/exhibitions/more-than-human
+
+#### The Transspecies Palace — Andrés Jaque (2025)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 把建筑做成做修复工作的微生物的宫殿。
+- 作品内容: 第 24 届米兰三年展上的装置，为一个密集的微生物群落（蓝细菌、固氮菌等）提供生存条件，这些微生物能代谢毒素，帮助修复受损环境。
+- 实现方式: 厚软木外壳（先在 Reggio School 立面上测试）保留矿物、糖分和水分，供需氧与厌氧微生物生存。
+- 图片: https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-01.jpg https://offpolinn.com/wp-content/uploads/2025/05/THE-TRANSSPECIES-PALACE-Andres-Jaque-OFFPOLINN-02.jpg
+- 项目主页: https://offpolinn.com/work/the-transspecies-palace/
+
+#### From the Ashes — Auburn University Biodesign Challenge team (2024)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 一片地景自身的残余物可以讲述它的保护故事。
+- 作品内容: 把密西西比州格兰德湾国家河口研究保护区计划烧除后的木炭制成手工“格兰德湾墨水”，并做成装置，讲述受控火烧为何有益生态系统。
+- 实现方式: 把计划烧除得到的松木炭研磨并调制成墨水，每瓶贴有 GPS 坐标，对应具体的火烧地点。
+- 视频: https://www.youtube.com/watch?v=ylhzglL8ATc
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718643813176-S5A0MBFOT47DJ8O9INR8/ink+bottle+with+GPS+coordinates.jpg
+- 项目主页: https://www.biodesignchallenge.org/auburn-university-2024
+
+#### Hybrid Ecologies — Martín Tironi (2024)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 在使用 AI 的那一刻，让它的地球成本变得可以触摸。
+- 作品内容: 一件装置：观众生成 AI 图像，机器同时放出生成这张图在数据中心冷却中消耗的水量，让 AI 隐藏的用水足迹变得可见。
+- 实现方式: 图像生成界面与水泵相连，按每张图的估算耗水量放出相应的水。
+- 论文: https://doi.org/10.21606/drs.2024.1104 (DRS 2024)
+- 视频: https://www.youtube.com/watch?v=NBnjZc1JOrs
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Pollinator Lounge — Joyce Hwang (2024)
+- 类型: 艺术作品 · 生物: 昆虫, 动物
+- 核心想法: 把人的休息和传粉者的栖息做进同一件家具里。
+- 作品内容: 布鲁克林植物园的户外多物种休憩空间：为人设置木座椅，为本地传粉者设置 43 个栖息箱，并用石笼为小型地栖动物提供庇护。
+- 实现方式: 塔与座椅上的栖息箱由布法罗大学和得克萨斯大学奥斯汀分校的学生设计，与 Nerea Feliz 合作。
+- 图片: https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/70b44906f8-1769725226/1_0052_bbg_latespringevening.jpg https://www.antsoftheprairie.com/media/pages/projects/pollinator-lounge/3e77a88b26-1769725226/4_pollinator-lounge-4-photo-by-liz-ligon-courtesy-of-brooklyn-botanic-garden.jpg
+- 项目主页: https://www.antsoftheprairie.com/projects/pollinator-lounge
+
+#### Seeing Echoes in the Mind of a Whale — Marshmallow Laser Feast (2024)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 把海洋当作一个由声音而非视觉绘制的世界来体验。
+- 作品内容: 一件大型视听装置，让观众沉浸在西班牙沿海宽吻海豚、座头鲸和抹香鲸以声音为主的感知世界中。
+- 实现方式: 把水听器录音和回声定位的科学数据转化为空间声音与影像。
+- 图片: https://ars.electronica.art/starts-prize/files/2025/05/seeing_echoes_in_the_mind_of_a_whale_mlf_starts_prize_6-1024x576.jpg
+- 项目主页: https://marshmallowlaserfeast.com/project/seeing-echoes-in-the-mind-of-the-whale
+
+#### Haunted Waters: The Chemical Cocktail Bar — Nonhuman Nonsense (2023)
+- 类型: 艺术作品 · 生物: DNA 与分子, 生态系统
+- 核心想法: 把看不见的污染物讲成幽灵，让人们愿意谈论它们。
+- 作品内容: 一间“化学鸡尾酒吧”，用世界各地寄来的受污染水样调制（不可饮用的）鸡尾酒，把每种污染物当作萦绕水体的“幽灵”，讲述工业、殖民与生态伤害的历史。
+- 实现方式: 公众采集的水样由欧盟联合研究中心（JRC SciArt）水质实验室的 Caterina Cacciatori 协助分析，以酒吧装置形式在布鲁塞尔 iMAL 展出，并在柏林 Galerie Im Turm 举办工作坊。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg
+- 项目主页: https://nonhuman-nonsense.com/hauntedwatersproject
+
+#### TERRA XENOBIOTICA — Saša Spačal (2023)
+- 类型: 艺术作品 · 生物: 生态系统, 细菌与微生物
+- 核心想法: 把土壤读作一份活的档案，记录航空旅行留下的毒素。
+- 作品内容: 一件关于机场土壤被 PFAS“永久化学品”污染的装置：墙上挂着 85 张用逐步加入 PFAS 的土壤制成的土壤色谱图，观众可以取下一张放到扫描仪下读取污染程度。
+- 实现方式: 在柏林自由大学 Rillig 实验室驻留期间完成：用 Pfeiffer 式纸色谱处理加入 PFAS 的土壤，建立数据集，训练识别 PFAS 污染的神经网络。
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0017-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg https://artlaboratory-berlin.org/wp-content/uploads/2023/11/20231110_Art-Labatory_TERRA-XENOBIOTICA_0053-Art-Labatory-Artifical_Consciousness-high-res-scaled.jpg
+- 项目主页: https://artlaboratory-berlin.org/exhibitions/terra-xenobiotica/
+
+#### Time Sensitive — Jiabao Li (2023)
+- 类型: 艺术作品 · 生物: 生态系统, 植物
+- 核心想法: 冰川变化已不再是“深时”；把它压缩成一张能看着形成的印相。
+- 作品内容: 用蓝晒、绘画和延时影像记录冰川冰的融化，以及冰川退去后到来的柳兰和北极鸟类；与冰川学家 Ginny Catania 合作。
+- 实现方式: 让冰块在阳光下于蓝晒布上融化，记录融化轨迹；再用融化的冰川水在岩石上作画。
+- 视频: https://www.youtube.com/watch?v=SCK9lXUwNYY
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/f79d5437-1f99-4abe-8bc6-a73c66f26351/Jiabao+Li+Time+Sensitive+6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/bcb58264-4076-4398-a28e-430e7d260260/Jiabao+Li+%E6%9D%8E%E4%BD%B3%E5%AE%9D+to+your+eternity+12.jpg
+- 项目主页: https://www.jiabaoli.org/time-sensitive
+
+#### Moss Garden of Resonating Microcosms — teamLab (2022)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 让风、观众与苔藓共享同一个交互界面。
+- 作品内容: 东京 teamLab Planets 户外苔藓庭园中布满蛋形的“卵形体”，被人或风推动时会变色并发出声音，在庭园中层层传递。
+- 实现方式: 带传感器、LED 与扬声器的不倒翁式发光体，放置在活苔藓之上。
+- 视频: https://www.youtube.com/watch?v=uzLHCg6h_Yg
+- 项目主页: https://www.teamlab.art/
+
+#### The Transspecies Kitchen: An Antwerphagia — Andrés Jaque (2022)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 真菌, 植物
+- 核心想法: 围绕作为“共同厨师”的微生物来设计一座厨房。
+- 作品内容: 安特卫普 Middelheim 博物馆里一座可用的厨房，依靠发酵来减少烹饪的碳排放，把烹饪、消化、生长和分解看作不同生命形式之间的同一场联盟。
+- 实现方式: 与 M-Marble Project 合作的石材厨房，用发酵容器和堆肥循环取代化石燃料烹饪。
+- 图片: https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-01.jpg https://offpolinn.com/wp-content/uploads/2024/07/TRANSPECIES-KITCHEN-Andres-Jaque-OFFPOLINN-02.jpg
+- 项目主页: https://offpolinn.com/work/the-transspecies-kitchen-an-antwerphagia/
+
+#### Turba Tol Hol-Hol Tol — Camila Marambio (2022)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 对湿地的照护可以通过艺术、语言与科学共同实践。
+- 作品内容: 2022 年威尼斯双年展智利馆：一首向火地岛泥炭地及其泥炭藓致敬的“颂歌”，并与塞尔克南文化的复兴相连。
+- 实现方式: 包括沉浸式装置、SphagnumLAB、泥炭地驻留，以及与科学家和塞尔克南社群成员的研究合作。
+- 图片: https://ars.electronica.art/starts-prize/files/2023/06/turbatol_6-SphagnumLAB-2022_Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg https://ars.electronica.art/starts-prize/files/2023/06/turbatol_2-Laying-Low-during-the-Residency-Grounding-into-the-Bog-at-Karunkina-Tierra-del-Fuego-2022-Turba-Tol_Curated-by-Camila-Marambio_-Photo-by-Benjami%CC%81n-Echazarreta-1024x512.jpg
+- 项目主页: https://www.turbatol.org
+
+#### Vegetal Matrix — Patricia Domínguez (2022)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 植物档案可以被重新布置，归还它们所取走的知识的署名。
+- 作品内容: 一件装置，把邱园的植物标本、惠康收藏的手稿与绘画和全息投影结合，回应殖民掠夺，并向原住民关于植物的疗愈知识致敬。
+- 实现方式: 委托创作的装置，围绕曼德拉草等药用植物，组合了标本、手稿、绘制的植物精灵形象和全息影像。
+- 图片: https://images.prismic.io/wellcomecollection/69f8843c-1ebf-456e-8ba3-e8e8766bf57e_EP_001764_010_Large.jpg
+- 项目主页: https://wellcomecollection.org/exhibitions/rooted-beings
+
+#### Entangled Kingdoms — doxiadis+ (2021)
+- 类型: 艺术作品 · 生物: 真菌
+- 核心想法: 揭示建筑中本就生活着的真菌，并把它们放到中心。
+- 作品内容: 从威尼斯军械库两个展厅采集的真菌孢子在雅典大学培养后，以“真菌花园”的形式回到双年展，构成两部分的装置。
+- 实现方式: 在展厅采集空气和表面样本，在真菌学实验室培养后作为活体培养物展出。
+- 视频: https://www.youtube.com/watch?v=qne3zmzhj1k
+- 图片: https://static.labiennale.org/files/styles/seo_thumbnail/public/architettura/2021/600x600/doxiadis.jpg?itok=4yW5i6eJ
+- 项目主页: https://www.labiennale.org/en/architecture/2021/emerging-communities/doxiadis
+
+#### Inanimate Species — Joana Moll (2021)
+- 类型: 艺术作品 · 生物: 昆虫, 动物
+- 核心想法: 计算的兴起与物种的消失可能是同一个故事的两面。
+- 作品内容: 一件装置，把自 1971 年 Intel 4004 以来的微处理器发展史，与同一时期野生动物数量的锐减并置，昆虫与芯片并排陈列。
+- 实现方式: 按年份把昆虫标本与微处理器一一对应，构成一条相关性时间线。
+- 图片: https://ars.electronica.art/starts-prize/files/2022/06/Inanimate-Species_72A8079-c-Joana-Moll-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/inanimate-species/
+
+#### Invocation for Hope — Superflux (2021)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把从生态废墟走向多物种复苏的过程，变成身体必须亲自走完的一段路。
+- 作品内容: 维也纳应用艺术博物馆（MAK）为 2021 年维也纳双年展呈现的装置：观众穿过 400 多棵来自奥地利山火的焦黑松树，走到一片有生命的林间空地和一池镜面水前，影像中其他物种在回望人类。
+- 实现方式: 焦黑松树干、活体植物和投影影片被布置成一次一人通过的展厅旅程。
+- 视频: https://vimeo.com/642021162
+- 图片: https://superflux.in/wp-content/uploads/2021/06/Web-feature-image.jpg
+- 项目主页: https://superflux.in/index.php/work/invocation-for-hope-3/
+
+#### Platform for Humans and Birds — Studio Ossidiana (2021)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 一个让两个物种都能找到吃的、喝的和事可做的公共平台。
+- 作品内容: 2021 年威尼斯建筑双年展上的模块化浇铸景观，嵌有可食用的部分、水碗、游戏和靠背，由三座鸽塔和高栖木守望，供人和鸟共享。
+- 实现方式: 嵌入种子和集水结构的浇铸模块，以及立在 Giardino delle Vergini 的五米高、覆有金属“羽毛”的鸽塔。
+- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1623334193482-J5309IFFVQ5XASZ5JH8M/Platform+for+Humans+and+Birds_Photo+by+Riccardo+de+Vecchi9.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624386771422-V0ZIATHE4P4R4JNNBCY2/Dovecote+Tower_Photo+by+Riccardo+de+Vecchi_02lowres2.jpg
+- 项目主页: https://www.studio-ossidiana.com/platform-for-humans-and-birds-la-biennale-di-venezia
+
+#### To Middle Species, With Love — Joyce Hwang (2021)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 为与我们共享城市的普通物种设计，而不只是那些明星物种。
+- 作品内容: 位于印第安纳州哥伦布市 Mill Race 公园的装置，由带鸟栖木和蝙蝠屋的硬木塔以及干砌石堆组成，服务于蝙蝠、鸟类、两栖和爬行动物等常见的“中间物种”。
+- 实现方式: 参照濒危印第安纳蝙蝠的蝙蝠屋制作的印第安纳硬木塔，加上记录蝙蝠叫声并将其转为声音的超声波探测器。
+- 图片: https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/0e6efdb4c4-1769725224/1_to-middle-species-with-love-dawn.jpg https://www.antsoftheprairie.com/media/pages/projects/to-middle-species-with-love/ce8aad150e-1769725224/6_to-middle-species-with-love-towers.jpg
+- 项目主页: https://www.antsoftheprairie.com/projects/to-middle-species-with-love
+
+#### Unequal Hours — Anna Madeleine Raupach (2021)
+- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
+- 核心想法: 一座不只报人类时间的钟。
+- 作品内容: 堪培拉博物馆与美术馆的一座公共时钟，彩色丝带把指针与各种非人类实体的周期相连，展示它们的时间如何与人类时间交织。
+- 实现方式: 步进电机、电子电路、亚克力、丝带、转环与声音驱动多根按生态周期运行的指针。
+- 视频: https://www.youtube.com/watch?v=W8eVFRb9h4U
+- 图片: https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/7730d3e7-ba4e-4c4c-a90a-04426c4c7188/CMAG+Gallery+4_Raupach_02.jpg https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/faa5bff0-f5c5-42a9-b17e-2d3cb1285919/AnnaMadeleineRaupach_UnequalHours_2021_03.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Allochronic Cycles — Cesar & Lois (2020)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把智能想象为向其他生命错位的时间尺度学习。
+- 作品内容: 一件动态墙面作品，由按不同时间尺度转动的圆盘组成，从宇宙与演化到拟南芥生长和病毒周期；一个 AI 预测人类活动以多快的速度扰乱它们。
+- 实现方式: 电机驱动的同心圆盘按不同的自然周期编程；时间预测 AI 根据人类碳排放影响调整它们。
+- 视频: https://www.youtube.com/watch?v=yD2J4rlIouA
+- 图片: http://cesarandlois.org/wp-content/uploads/ac-banner.jpg http://cesarandlois.org/wp-content/uploads/AI-1024x755.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Critical Zones: Observatories for Earthly Politics — Bruno Latour, ZKM | Center for Art and Media Karlsruhe (2020)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把展览当作“降落地球”的方法：展示让政治成为可能的土壤、水和生命。
+- 作品内容: 由 Bruno Latour 和 Peter Weibel 在卡尔斯鲁厄 ZKM 策划的一场“思想展览”，关注地表被生命塑造的那一薄层，把科学观测站和艺术作品放在一起，疫情期间还开放了线上展览。
+- 实现方式: 把关键带科学观测站、艺术作品和网络平台组织成一个关于盖娅与地球政治的论证。
+- 视频: https://www.youtube.com/watch?v=CXC7ZMK2QKU
+- 图片: https://critical-zones.zkm.de/images/og-image.jpg
+- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
+
+#### Swamp Observatory — Nomeda & Gediminas Urbonas (2020)
+- 类型: 艺术作品 · 生物: 生态系统, 植物
+- 核心想法: 把沼泽当作通往盖娅的界面，也当作多物种思考的模型。
+- 作品内容: 一座寄生在 ZKM 建筑上的泥炭结构，包含四件“仪器”，其中《Swamp Brain》把沼泽与 AI 结合，生成的图像投影在风干的牛膀胱上。
+- 实现方式: 以泥炭制成的造型内置气味、时间层和 AI 模块；AI 与科学家 Jonas Kubilius 一起用沼泽形态训练。
+- 视频: https://www.youtube.com/watch?v=B5MHCtIIZmI
+- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
+
+#### Variations on a Birdcage — Studio Ossidiana (2020)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 鸟笼可以被重新设计成两个物种之间的协商。
+- 作品内容: 一系列把人与鸟之间的关系空间化的物件，把后退、喂食、驯化、玩耍等行为转化为介于鸟笼、栖木和家具之间的形态。
+- 实现方式: 2020 年在马斯特里赫特制作的浇铸与组装物件，属于工作室“鸟之城”研究的一部分。
+- 图片: https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1624385418951-F4PQU7P1EEMOXPLA7L77/Variations+on+a+Birdcage+14.jpg https://images.squarespace-cdn.com/content/v1/54eb9de5e4b01dbc2519e079/1588273074967-NNYD8U67UOB1P6COC4V8/Studio+Ossidiana_Variations+on+a+bird+cage+%281%29.jpg
+- 项目主页: https://www.studio-ossidiana.com/variations-on-a-birdcage-
+
+#### souvenirs entomologiques #1: odonata / weathering data — Sybille Neumeyer (2020)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 追踪一只昆虫在变成数据时所经历的“变态”。
+- 作品内容: 一件装置，追踪蜻蜓从栖息地到自然史博物馆再到数据集的过程，呈现昆虫如何变成标本、生物指示物和气候数据。
+- 实现方式: 把蜻蜓目的博物馆标本、档案材料和风化数据组织成一件装置。
+- 视频: https://www.youtube.com/watch?v=z7YQbk_Nsx0
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2023/03/20230311_ArtLab_VICIOUS-CYCLE_0132-hr13.jpg
+- 项目主页: https://artlaboratory-berlin.org/exhibitions/vicious-cycle/
+
+#### Asunder — Tega Brain, Julian Oliver (2019)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 让 AI 去优化地球，看清把自然当作待解问题的系统有多荒诞。
+- 作品内容: 一个“负责任的环境管理者”：用超级计算机为改造真实地点生成方案，从改道河流到拆除城市，以求守住地球的承载界限。
+- 实现方式: 气候与地理数据、先进的气候模型与生成对抗图像在超级计算机上运行，与 Julian Oliver 和 Bengt Sjölén 合作。
+- 视频: https://www.youtube.com/watch?v=emzSsmAIw6E
+- 图片: https://freight.cargo.site/w/300/i/c88f6aeedc51fb4a0cf7c386760011e1c0a64571ea61410a3e436914a9358a7e/asunder.jpeg
+- 项目主页: https://tegabrain.com/Asunder
+
+#### Trees, Vines, Palms and Other Architectural Monuments — Paulo Tavares (2019)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 把森林当作与植物一起建成的建筑来读，并用遗产法来保护它。
+- 作品内容: 为 2019 年芝加哥建筑双年展创作的装置，论证亚马逊森林的一部分是原住民数百年塑造的设计景观，应当作为建筑遗产受到保护。
+- 实现方式: 对人为土壤和植物分布进行取证式制图，并把图纸和文件整理成一份遗产档案展出。
+- 视频: https://www.youtube.com/watch?v=QgasLW7EbJs
+
+#### ON AIR — Tomás Saraceno (2018)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 展览可以是一个栖息地，其中的居民在展期内不断改变它。
+- 作品内容: 在巴黎东京宫举办的整馆展览，被构建为一个由蛛网、宇宙尘埃、空气和声音组成的生态系统，活体蜘蛛也是共同制作者之一。
+- 实现方式: 在整座建筑中布置混合蛛网、活体蜘蛛、颗粒与空气感测以及蛛网振动的声音化，形成一个不断演变的环境。
+- 视频: https://www.youtube.com/watch?v=X4SqhD-81d8
+- 图片: https://studiotomassaraceno.org/files/38_18fra_pdt_press_20_ar.jpg
+- 项目主页: https://studiotomassaraceno.org/on-air/
+
+#### Project Amoreiras (Mulberry Trees): Autonomy and Artificial Learning in an Urban Environment — Gilbertto Prado (2018)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 给城市树木一个会对所处污染做出反应的身体。
+- 作品内容: 在圣保罗保利斯塔大道上的城市介入：种在机械花盆里的桑树感知污染和行人，并做出动作回应。
+- 实现方式: 传感器读取空气质量和人的存在，树的运动遵循类似 Conway 生命游戏的邻域规则并结合机器学习。
+- 论文: https://doi.org/10.1162/leon_a_01557 (Leonardo 2018)
+- 视频: https://www.youtube.com/watch?v=6iGPny3BQYs
+- 项目主页: https://www.poeticasdigitais.net
+
+#### UUmwelt — Pierre Huyghe (2018)
+- 类型: 艺术作品 · 生物: 昆虫, 人体
+- 核心想法: 把机器重建的人类想象，放进一个由苍蝇长住的房间。
+- 作品内容: 在蛇形画廊，巨大的 LED 屏幕显示神经网络根据一个人想象画面时的大脑活动重建出的图像；数千只苍蝇生活在展厅里，停落在屏幕上并改变着环境条件。
+- 实现方式: 与 Kamitani 实验室合作，用 fMRI 数据做深度图像重建生成画面；温度、湿度和苍蝇活动传感器实时改变画面序列。
+- 视频: https://www.youtube.com/watch?v=enx-vyWn7UU
+- 项目主页: https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/
+
+#### After ALife Ahead — Pierre Huyghe (2017)
+- 类型: 艺术作品 · 生物: 动物, 细胞与组织, 生态系统
+- 核心想法: 让生物的生长速度来驱动展览：细胞分裂触发空间中的事件。
+- 作品内容: 为明斯特雕塑项目展，Huyghe 凿开一座旧溜冰场的混凝土地面，造出一片由土壤、水、蜜蜂、藻类、细菌和锥形海螺构成的倾斜景观；同时，培养箱里的 HeLa 癌细胞在分裂，一款应用程序在现场显示增强现实形态。
+- 实现方式: 连接传感器的 HeLa 细胞培养箱控制天花板开合和 AR 金字塔的出现，同时现场的活体水族箱与蜂巢不断演变。
+- 视频: https://www.youtube.com/watch?v=eWre6dlUAbo
+- 图片: https://static-assets.artlogic.net/w_1500,h_1500,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/images/artists/hero_image/items/59/597f36d864fd4671b45ac80958164a74/pierre_munster_1377.jpg
+- 项目主页: https://www.estherschipper.com/artists/41-pierre-huyghe/
+
+#### Franchise Freedom — Studio Drift (2017)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 用机器重建一种自然奇观，并追问鸟群拥有怎样的自由。
+- 作品内容: 一场夜间表演：数百架发光无人机依据对椋鸟群飞的研究所编写的算法，像鸟群一样飞行。
+- 实现方式: 依据集群规则编写的群控软件，运行在定制无人机上；在迈阿密巴塞尔艺博会、火人节和中央公园演出。
+- 视频: https://www.youtube.com/watch?v=YnhoAE2T8xg
+- 图片: https://studiodrift.com/wp-content/uploads/2022/02/1.-Studio-Drift_Franchise-Freedom_ABurning-Man-Festival_USA_2018_Rahi-Rezvani.jpg
+- 项目主页: https://studiodrift.com/work/franchise-freedom/
+
+#### Lygophilia — Robertina Šebjanič (2017)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 向在黑暗中生存、终生保持幼态的动物学习。
+- 作品内容: 一系列装置、影像与声音作品，关于喜爱黑暗的动物：墨西哥钝口螈和欧洲洞螈，它们终生保持幼态，生活在对人类不友好的地方。
+- 实现方式: 在墨西哥和斯洛文尼亚开展的研究，把神话与生物学结合，以装置、影像随笔和声音作品呈现。
+- 图片: https://robertina.net/wp-content/uploads/2025/09/81d51-0ab24554d6e5511e2f6e741ef597cd21-1.jpg
+- 项目主页: https://robertina.net/lygophilia/
+
+#### Pollution Pods — Michael Pinsky (2017)
+- 类型: 艺术作品 · 生物: 人体
+- 核心想法: 让身体去感受空气质量统计数据。
+- 作品内容: 五个相连的测地线穹顶，重现挪威 Tautra、伦敦、新德里、北京和圣保罗的空气，让观众从洁净空气走进污染空气。
+- 实现方式: 在穹顶内以安全的湿度、温度和气味组合重现每座城市的污染特征。
+- 视频: https://www.youtube.com/watch?v=I7nMME-3aC8
+- 项目主页: https://www.michaelpinsky.com/project/pollution-pods/
+
+#### 02.205 — Christian Brems, Laura Beloff (2016)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把植物想象成一个追随水声的聆听者。
+- 作品内容: 一件以生物声学发现为基础的装置：植物根系会对流水声作出反应，并发出超声波咔嗒声；作品借此想象植物如何“聆听”。
+- 实现方式: 基于已发表的根系生物声学实验的思辨声音和影像作品（可能使用了根系的超声波录音）。
+- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/57320fd83ee3ee43a0f00808/standard_02.225_still_5_.jpg
+- 项目主页: https://exhibitions.hybridmatters.net/works/02-dot-205
+
+#### Graffiti Nature — teamLab (2016)
+- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
+- 核心想法: 让孩子把物种“画”进生态系统，看食物网如何作用于它们。
+- 作品内容: 孩子们给纸上的动物和花朵涂色，扫描后它们在投影出的生态系统中复活，根据周围的生物进食、繁殖或死亡。
+- 实现方式: 绘画扫描仪、捕食-被捕食规则的实时模拟，以及地面与墙面投影。
+- 视频: https://www.youtube.com/watch?v=OomhbW3bffs
+- 图片: https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/dkbiBVbLMaAZoA8VG9gJx3/width=1200,format=jpeg
+- 项目主页: https://www.teamlab.art/w/graffitinature/
+
+#### Harvest — Julian Oliver (2016)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把计算直接与天气、以及计算所加剧的问题绑在一起。
+- 作品内容: 一台风力发电机，所发电力驱动挖掘加密货币的计算机，收益捐给气候变化研究。
+- 实现方式: 野外装置中的小型风机、电池组与挖矿硬件，首次在瑞典展出。
+- 视频: https://www.youtube.com/watch?v=cuTGW0EUV6M
+- 图片: https://julianoliver.com/projects/harvest/images/harvest.jpg
+- 项目主页: https://julianoliver.com/projects/harvest/
+
+#### Treehugger: Wawona — Marshmallow Laser Feast (2016)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 抱树抱得够久，就会开始按它的节奏生活。
+- 作品内容: 观众拥抱一棵巨大的红杉树干雕塑，把头伸进树瘤进入 VR，看水分从根部升到树冠，并慢慢进入“树的时间”。
+- 实现方式: 混合现实：可触摸的雕塑配合 VR 头显、空间音频、触觉与气味；可视化以红杉国家公园的一棵巨杉为原型。
+- 视频: https://www.youtube.com/watch?v=if0wfysmoMU
+- 图片: https://marshmallowlaserfeast.com/app/uploads/2024/08/5-1024x576.jpg https://marshmallowlaserfeast.com/app/uploads/2024/08/WIP_Treehugger_Rocktree_16-1024x682.jpg
+- 项目主页: https://www.marshmallowlaserfeast.com/project/treehugger-wawona/
+
+#### A Forest Where Gods Live — teamLab (2015)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 数字艺术可以让人重新凝视一座古老的森林，而不是取代它。
+- 作品内容: 在九州 50 公顷的御船山乐园举行的夜间展览，投射在古树、洞窟、岩石和池塘上的影像与灯光会回应观众。
+- 实现方式: 在庭园自然景物中布置交互投影映射与响应式灯光。
+- 视频: https://www.youtube.com/watch?v=EFbxQIQ8IxM
+- 项目主页: https://www.teamlab.art/
+
+#### Aerocene — Tomás Saraceno (2015)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 设计一种属于大气、而不是燃烧大气的移动方式。
+- 作品内容: 一个开放的艺术社群，制作并放飞仅靠太阳热量和空气升空的雕塑，不使用化石燃料、电池或氦气。2020 年，Aerocene Pacha 气球载人飞越阿根廷的 Salinas Grandes 盐沼，创下太阳能飞行的世界纪录。
+- 实现方式: 用回收材料或薄膜做成的轻质气囊吸收太阳辐射、加热内部空气而升空；开源套件和应用让任何人都能放飞。
+- 视频: https://www.youtube.com/watch?v=AG_UXEXg_Mk
+- 图片: https://studiotomassaraceno.org/files/19arg_bts_aerocenepacha_09520-3.jpg https://aerocene.org/wp-content/uploads/2020/03/TS_09MAS_museo-prato_00121edit.jpg
+- 项目主页: https://aerocene.org/
+
+#### COSMO — Andrés Jaque (2015)
+- 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
+- 核心想法: 让城市用水中看不见的生态变得可见，并把建筑设计成这个生态的一部分。
+- 作品内容: 为 MoMA PS1 庭院设计的可移动净水装置：由管道、水箱和植物组成的网络，四天内过滤 3000 加仑水，水变干净时会发光。
+- 实现方式: 人工湿地、植物根系和微生物膜分阶段净化水，结构由灌溉配件搭成。
+- 视频: https://www.youtube.com/watch?v=1QrRBSxUoJU
+- 项目主页: https://www.moma.org/calendar/exhibitions/1507
+
+#### Curiosity Cloud — mischer'traxler studio (2015)
+- 类型: 艺术作品 · 生物: 昆虫
+- 核心想法: 互动能让人注意到平时忽视的物种，包括正在减少和正在入侵的昆虫。
+- 作品内容: 一个由数百只玻璃灯泡组成的装置，每只灯泡里都有一种昆虫的手工复制品；观众走近时昆虫开始扑动、敲击玻璃，人离开后又归于平静。
+- 实现方式: 每只灯泡内有电机驱动的昆虫复制品和传感器；靠近会触发动作和声音，物种组合包括本地常见、稀有和入侵昆虫。
+- 视频: https://www.youtube.com/watch?v=S4C4zKv1oh4
+- 图片: https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg
+- 项目主页: https://mischertraxler.com/projects/curiosity-cloud/
+
+#### Flowers and People, Cannot be Controlled but Live Together — teamLab (2015)
+- 类型: 艺术作品 · 生物: 植物, 人体
+- 核心想法: 数字生态系统可以像真实生态一样回应人的存在。
+- 作品内容: 一个满是数字花朵的房间：花随季节实时生长、开放和凋落；人静止不动的地方花开得更快，被触碰时则凋零。
+- 实现方式: 实时计算机渲染（非预录），在投影墙面上追踪观众。
+- 视频: https://www.youtube.com/watch?v=arafX3Es6JQ
+- 项目主页: https://www.teamlab.art/
+
+#### No Crash Zone — Joyce Hwang (2015)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 装饰也能承担生态功能：防止鸟撞。
+- 作品内容: 对芝加哥 Carson Pirie Scott 大楼一扇窗的临时改造：用图案让鸟能看见玻璃，同时为人保留向外的视野。
+- 实现方式: 依据防鸟撞指南设计的窗面图案，结合像素迷彩与单点透视。
+- 图片: https://www.antsoftheprairie.com/media/pages/projects/no-crash-zone/1b5f537ef7-1771340721/no-crash-zone-left-side.jpg
+- 项目主页: https://www.antsoftheprairie.com/projects/no-crash-zone
+
+#### Plantoid — Primavera De Filippi (2015)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把一件艺术品当作靠代码自我筹资、自我繁殖的生命形式。
+- 作品内容: 一件金属花形雕塑，与区块链相连并请求加密货币捐赠；筹够后它会委托艺术家制作下一代，由捐赠者投票决定。
+- 实现方式: 智能合约掌管 Plantoid 的钱包，组织捐赠者投票，并付钱给制作下一代的艺术家。
+- 视频: https://www.youtube.com/watch?v=5gMbhCgHGjY
+- 项目主页: https://plantoid.org/
+
+#### Waterlicht — Studio Roosegaarde (2015)
+- 类型: 艺术作品 · 生物: 生态系统, 人体
+- 核心想法: 把抽象的洪水风险变成一条可以站在其下的海平面。
+- 作品内容: 夜晚，波动的蓝色 LED 光线与透镜“淹没”一座公共广场，显示若没有荷兰的堤坝水位会涨多高；访客在虚拟海平面之下行走。
+- 实现方式: 由软件控制的 LED 和透镜在设定高度投出层叠光线；先后在 Westervoort、阿姆斯特丹博物馆广场、纽约等地展出。
+- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
+- 视频: https://www.youtube.com/watch?v=LWzPm_ponkI
+- 图片: https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp https://cdn.prod.website-files.com/6683beecb76948bee8843558/66c2e02fe9d04908dc6d1f24_8MAIN_Waterlicht_Roosegaarde_Loevestein_%40Daniel_result_new.webp
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Ice Watch — Olafur Eliasson (2014)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把正在融化的北极放到造成它的人伸手可及之处。
+- 作品内容: 十二块格陵兰冰川冰按钟面排列在城市广场上，在众人面前融化；先后在哥本哈根（2014）、COP21 期间的巴黎（2015）和伦敦（2018）展出。
+- 实现方式: 与地质学家 Minik Rosing 合作，从努克附近峡湾收集从格陵兰冰盖崩落的冰块，运到各城市露天融化。
+- 视频: https://www.youtube.com/watch?v=qd-JRGBKSXA
+- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg/1280px-Glacier_ice_installation_%27Ice_Watch%27_at_Place_du_Panth%C3%A9on%2C_Paris_%2822885211084%29.jpg https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/ice-watch_18019.jpg
+- 项目主页: https://olafureliasson.net/artwork/ice-watch-2014/
+
+#### Bat Cloud — Joyce Hwang (2012)
+- 类型: 艺术作品 · 生物: 动物, 植物
+- 核心想法: 通过排泄物把一个物种的栖所和一座花园连在一起。
+- 作品内容: 悬挂在树间的容器群，曾在布法罗和鹿特丹展出；每个容器上部是保温的蝙蝠栖所，下部装满土壤，蝙蝠粪便在那里滋养植物。
+- 实现方式: 悬挂在树上的定制容器，下部是种子和土壤，上部是蝙蝠可进入的栖息腔。
+- 图片: https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/04b6a06017-1771258986/aop_batcloud.jpg https://www.antsoftheprairie.com/media/pages/projects/bat-cloud/cd700e0a31-1771258992/bat-cloud-summer.jpg
+- 项目主页: https://www.antsoftheprairie.com/projects/bat-cloud
+
+#### Rain Room — Random International (2012)
+- 类型: 艺术作品 · 生物: 人体
+- 核心想法: 技术可以让一种天气现象回应你，而这会改变雨的感受。
+- 作品内容: 一片落水之场，观众走到哪里雨就在哪里停下，让人可以站在大雨中却不被淋湿。
+- 实现方式: 3D 摄像头追踪人体，并关闭每人头顶天花板网格中的电磁阀。
+- 视频: https://www.youtube.com/watch?v=FslABAyj2OA
+- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RainRoomSharjah.jpg/960px-RainRoomSharjah.jpg
+- 项目主页: https://en.wikipedia.org/wiki/Rain_Room
+
+#### Untilled — Pierre Huyghe (2012)
+- 类型: 艺术作品 · 生物: 动物, 昆虫, 植物
+- 核心想法: 作品可以是一处自己生长和腐烂的场地，不在乎有没有人在看。
+- 作品内容: 为第 13 届卡塞尔文献展在卡尔斯奥公园一处堆肥场所做的作品：一座卧姿裸体雕塑的头部是一个活蜂巢，一只前腿染成粉色的白狗在其中游荡，周围种着致幻与催情植物。
+- 实现方式: 艺术家设置了雕塑、蜂巢、狗、植物和堆肥等条件，然后让这些活体元素在展期的 100 天内自行互动。
+- 视频: https://www.youtube.com/watch?v=mEjEy3RY37o
+- 图片: https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_13.jpg https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/386/ph_untilled_3.jpg https://www.generazionecritica.it/wp-content/uploads/2022/05/UNTILLED_STEREO_PCONTRASTE_RGB-12MODIF.jpg
+- 项目主页: https://www.estherschipper.com/exhibitions/386-untilled-pierre-huyghe/
+
+#### Zoodram (aquarium series) — Pierre Huyghe (2011)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 让动物自身的习性决定作品如何移动、在哪里被看见。
+- 作品内容: 一系列活体海洋水族箱；在最著名的几件中，一只寄居蟹住在布朗库西《沉睡的缪斯》的树脂复制品里，把雕塑当作自己的壳背着走。
+- 实现方式: 带过滤系统的封闭海水缸中养着寄居蟹、箭蟹等物种，寄居蟹把雕塑当作壳来使用。
+- 视频: https://www.youtube.com/watch?v=1KTUnlBisVw
+- 图片: https://iiif.micr.io/idjDM/full/1200,/0/default.jpg https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2015/08/zoodram5_huyghe.jpg
+- 项目主页: https://philamuseum.org/collection/object/326218
+
+#### Co-Existence — Julia Lohmann (2009)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 人体
+- 核心想法: 把人体画成一张住在体内的微生物地图。
+- 作品内容: 为 Wellcome Trust 做的橱窗装置：9000 个印有细菌菌落图像的培养皿拼成人形，每种微生物都放在它在人体上或体内常住的位置。
+- 实现方式: 印有像素化微生物图像的培养皿、亚克力和灯光，按身体部位排布。
+- 图片: https://www.julialohmann.co.uk/images/work/gallery/co-existence-wellcome-trust/1238501099/standard/wt-window-1.jpg
+- 项目主页: https://www.julialohmann.co.uk/work/gallery/co-existence-wellcome-trust/
+
+#### Fragile Future — Studio Drift (2008)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 把最脆弱的自然形态与电子器件结合，追问它们共享怎样的未来。
+- 作品内容: 光雕塑：把真实的蒲公英种子一粒粒粘在 LED 上，并用可以像网络一样延展的青铜电路连接起来。
+- 实现方式: 手工采集的蒲公英经保存后粘贴在 LED 上，安装于模块化磷青铜框架。
+- 视频: https://www.youtube.com/watch?v=Jg8YH32s2Mo
+- 图片: https://studiodrift.com/wp-content/uploads/2021/02/FragileFuture_StudioDrift_CidadeMatarazzo_Brazil1.jpeg
+- 项目主页: https://studiodrift.com/work/fragile-future/
+
+#### The Idea of a Tree — mischer'traxler studio (2008)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 让太阳而不是设计师决定形状，使物件像年轮一样带着那一天的痕迹。
+- 作品内容: 一台太阳能驱动的机器，把线拉过胶水和染料后缠绕在模具上；当天日照越强，物件就越厚、颜色越深，所以每张凳子或每盏灯都记录了它被制作那天的天气。
+- 实现方式: 光伏板直接为缠绕机供电；日照变化改变缠绕速度和染色深浅，日落时生产停止。
+- 视频: https://www.youtube.com/watch?v=-5t2q_hSpgc
+- 图片: https://mischertraxler.com/wp/wp-content/uploads/2017/11/mischertraxler_tioat_travelmachine.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/11/the_idea_of_a_tree_all_different_trees-848x1200.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Cow Benches — Julia Lohmann (2005)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 让材料里的那只动物重新被看见。
+- 作品内容: 形似卧牛的皮革长凳，每一张都以提供皮料的那头牛命名，是为日常材料背后的动物所做的“死亡象征”。
+- 实现方式: 每张长凳用一整张牛皮蒙在模制骨架上。
+- 图片: https://www.julialohmann.co.uk/images/work/gallery/cow-benches/1239099915/standard/cow-benches-0.jpg
+- 项目主页: https://www.julialohmann.co.uk/work/gallery/cow-benches/
+
+#### The Weather Project — Olafur Eliasson (2003)
+- 类型: 艺术作品 · 生物: 人体, 生态系统
+- 核心想法: 一个明显人造的太阳，却让人谈论起天气与共处。
+- 作品内容: 由数百盏单频灯、镜面天花板和细雾组成的人造太阳，充满了泰特现代美术馆的涡轮大厅；观众躺在地上观看阳光下的自己。
+- 实现方式: 半圆形的黄色钠灯经镜面天花板映成满圆，加湿器制造雾气，结构刻意暴露。
+- 视频: https://www.youtube.com/watch?v=kYAaZ53tazU
+- 图片: https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/the-weather-project_21881.jpg
+- 项目主页: https://olafureliasson.net/artwork/the-weather-project-2003/
+
+#### Tree Logic — Natalie Jeremijenko (1999)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 让树自己的生长逻辑而不是人的设计，随时间塑造作品。
+- 作品内容: 六棵活树倒挂在 MASS MoCA 的框架上，多年里慢慢把生长方向重新转向光。
+- 实现方式: 把种在花盆里的树悬挂在钢结构上，作为长期装置照料，后来又换上新树。
+- 视频: https://www.youtube.com/watch?v=xESM4aX5LYc
+- 项目主页: https://massmoca.org/
+
+#### Strandbeest — Theo Jansen (1990)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把机器当作一个新物种，一代代演化以在某个栖息地中生存。
+- 作品内容: 用 PVC 管制作的大型行走骨架，在荷兰海滩上靠风驱动，把空气储存在瓶中，后代机型还能感知海水并掉头远离大海。
+- 实现方式: Jansen 连杆腿、计算机演化出的比例、风帆以及气动“肌肉”与“神经”。
+- 视频: https://www.youtube.com/watch?v=Pj-NqWDH2qE
+- 项目主页: https://www.strandbeest.com/
+
+## 思辨与政治
+
+设计虚构、非人类的权利与政治，以及与其他生命共处的新神话和仪式。
+
+### 思辨设计与设计虚构
+
+批判与思辨设计、未来情境、虚构的生物与产品。
+
+#### Chewing It Over — Yuning Chen, Larissa Pschetz (2026)
+- 类型: 论文 · 生物: 细菌与微生物, 细胞与组织, 人体
+- 核心想法: 把多物种设计的伦理放到餐盘上，让人亲身感受到。
+- 作品内容: 一场餐桌剧场式的介入：47 位食客吃下据称含有“人类-微生物杂交细胞”的菜，并为它们赋予道德价值，以检验共同的身体脆弱性能否引发对微生物的同情。
+- 实现方式: 七场思辨晚餐，以舞台化叙事讲述杂交细胞的来源，随后讨论参与者的道德框架。
+- 论文: https://doi.org/10.1145/3772318.3791048 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/d7f61aba06f01a18755180f151e1fd79e4ea3b02/5-Figure2-1.png
+
+#### Toxic Speculations: A Crip Posthuman Fabulation of Living in a Permanently Polluted World — Sylvia Janicki, Heidi R. Biggs (2026)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 为与被污染的世界共处而设计，以患病身体的知识为向导。
+- 作品内容: 一则思辨虚构，核心物件是 Ray-Flats：一双在美国环保署数据库所列污染地点附近会发光的鞋，并配有一本在污染世界中行走的指南，素材来自环境病患者的叙述。
+- 实现方式: 可穿戴原型接入美国环保署公开污染数据，以残障理论和后人类理论为框架。
+- 论文: https://doi.org/10.1145/3772318.3790454 (CHI 2026)
+- 图片: https://figures.semanticscholar.org/058580fc7528561fe615859e1c925243edb73729/2-Figure1-1.png
+- 项目主页: https://doi.org/10.1145/3772318.3790454
+
+#### Fabulating Bog Girl: Queer Entanglements of Body and Land Histories in More-than-Human AutoFiction and Design — Heidi R. Biggs (2025)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 酷儿身体和湿地可以共享被切割与被疗愈的故事。
+- 作品内容: 《Bog Girl》是一部自传体虚构，把非二元的身体与被排干的湿地联系起来——两者都被医学和农业的二元逻辑切割——并想象与土地一起哀悼和疗愈的新方式。
+- 实现方式: 以自传体虚构和思辨设计物为研究方法，虚构人与土地的纠缠。
+- 论文: https://doi.org/10.1145/3706598.3714067 (CHI 2025)
+- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/8b425188-23ad-44b6-af6b-65ee1bd32c37/bog+girl.png
+
+#### From Flood to Future — EASD Castelló Biodesign Challenge team (2025)
+- 类型: 思辨设计 · 生物: 真菌, 生态系统
+- 核心想法: 应对洪水的设计应当开启关于照护与责任的讨论，而不只是提供修补方案。
+- 作品内容: 一个关于地中海地区韧性的思辨项目，回应 2024 年瓦伦西亚 DANA 洪灾，提出菌丝体铺装、抬高区域、市民预警应用和分布式治理。
+- 实现方式: 基于幸存者的证言；五项干预结合了仿生地面、AIoT 传感和公众参与工具。
+- 视频: https://www.youtube.com/watch?v=e2_M55DO7GQ
+- 项目主页: https://www.biodesignchallenge.org/easd-castello-2025
+
+#### Meat of the Matter: A Flesh Perspective — Robert College of Istanbul Biodesign Challenge team (2025)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 讽刺能让我们对物种分类的武断变得无法忽视。
+- 作品内容: 一个讽刺项目，通过提议人们食用通常作为宠物饲养的动物，引发对吃肉的反思，揭示社会在牲畜与伴侣动物之间划出的界线。
+- 实现方式: 用仿制产品和影像宣传呈现这一荒诞提议，并附上排放与动物福利的数据。
+- 视频: https://www.youtube.com/watch?v=ROF3ucFHb7A
+- 项目主页: https://www.biodesignchallenge.org/robert-college-istanbul-2025
+
+#### AntiAntarctica: Polar Bear Relocation Initiative — Jiabao Li (2024)
+- 类型: 思辨设计 · 生物: 动物, 生态系统
+- 核心想法: 荒诞的技术方案揭示了我们如何把栖息地丧失当成物流问题。
+- 作品内容: 一个讽刺性的“专家组”方案：把北极熊从融化的北极搬到南极，于是南极（Antarctica，意为“无熊之地”）得改名为 Anti-Antarctica——直到企鹅们抗议。
+- 实现方式: 与 Alanah Knibb 在北极圈驻留期间创作的表演、伪科学海报和视频。
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg
+- 项目主页: https://www.jiabaoli.org/antiantarctica
+
+#### Ecotonal Beings — Emilia Tapprest, Samar Khan (2024)
+- 类型: 思辨设计 · 生物: 动物, 生态系统
+- 核心想法: 技术可以帮助我们尝试理解其他物种，即使我们会失败。
+- 作品内容: 一部影片，讲述四个近未来人物借助智能界面去与其他物种协调：用水下无人机追踪鳗鱼的女孩、一位驯鹰人、解读海蝴蝶的海洋生物学家，以及听命于奶牛的男人。2024 年 BAD Award 获奖作品。
+- 实现方式: 思辨影片，参考了与 Meertens 研究所合作的生物声学 AI 与万物有灵实践研究。
+- 视频: https://vimeo.com/1039601786
+- 图片: https://www.badaward.nl/imager/assets/site/8202/Ecotonal-Beings-Still-Video-Wouter-7_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8199/Ecotonal-Beings-Still-Video-Wouter-3_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/emilia-tapprest-samar-khan
+
+#### Microbial Oasis: Architecture for Microorganisms — Shijia Huang (2024)
+- 类型: 思辨设计 · 生物: 细菌与微生物, 细胞与组织, 人体
+- 核心想法: 如果保护自然意味着用你身体的一部分为微生物建一个家呢？
+- 作品内容: 用丝素蛋白和骨矿物 3D 打印、并接种人类干细胞的细菌与藻类栖息地；这一思辨设计提出人类可以成为“捐赠者”，为受威胁的微生物生长出庇护所；2024 年荷兰设计周展出。
+- 实现方式: 以泥炭藓的细胞结构为模型，用丝素蛋白和羟基磷灰石生物打印支架，接种可分化为骨组织的干细胞，再提供给细菌和藻类栖居。
+- 图片: https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/1_1725123937_1200x630.jpg https://ddw.ams3.cdn.digitaloceanspaces.com/thumbs/2_1725124384_1200x600.png
+- 项目主页: https://site.ddw.nl/en/programme/12203/microbial-oasis-architecture-for-microorganisms
+
+#### My Spider "Net Friend": Designing More-than-Human Social Media for Human-Spider Entanglement — Yuanpeng Nie (2024)
+- 类型: 思辨设计 · 生物: 动物, 昆虫
+- 核心想法: 把与我们同住的蜘蛛放进我们的社交网络。
+- 作品内容: 一个进行中的思辨项目：设想一个社交媒体平台，让住在家里的蜘蛛成为人们信息流中的“网友”，促使人关注它们的存在和状态。
+- 实现方式: 思辨性平台设计，可能在蛛网附近用摄像头或传感器发布蜘蛛的动态。
+- 论文: https://doi.org/10.1145/3758871.3758944 (Chinese CHI 2024)
+- 图片: https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/5-Figure3-1.png https://figures.semanticscholar.org/bc2457ca801127986297ae081cca23c0e4052b5d/4-Figure1-1.png
+
+#### Safe & Just Earth System Boundaries — Superflux (2024)
+- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
+- 核心想法: 通过呈现人类与超越人类的福祉相互绑定的未来，让行星科学被感受到。
+- 作品内容: 在达沃斯世界经济论坛展出的沉浸式影像装置，依据地球委员会发表在 Nature 上的“地球系统边界”研究，想象亚马孙雨林经历安全而公正的转型之后的样子。
+- 实现方式: 与地球委员会科学家合作构建的动态影像世界，每条边界（气候、生物圈、淡水等）各一个。
+- 图片: https://superflux.in/wp-content/uploads/2024/04/Hero-SF_Earth-Commission_Biosphere.jpg
+- 项目主页: https://superflux.in/index.php/work/earth-commission/
+
+#### Urban Vein — Nanyang Technological University Biodesign Challenge team (2024)
+- 类型: 思辨设计 · 生物: 植物, 生态系统
+- 核心想法: 亲生物设计可能掩盖它声称要克服的那套逻辑。
+- 作品内容: 一座虚构的、横跨新加坡的绿色人行天桥，取代了老城区的部分区域；项目借此批判绿色生物经济项目如何仍以人为中心，并悄然变成商业投机。
+- 实现方式: 用建筑可视化和叙事影片把这座桥呈现为一个“理想的生态智慧国度”。
+- 视频: https://www.youtube.com/watch?v=WkP6e6KVojY
+- 项目主页: https://www.biodesignchallenge.org/nanyang-technolgical-university-2024
+
+#### Conversation Starters — Iohanna Nicenboim, Elisa Giaccardi (2023)
+- 类型: 思辨设计 · 生物: 细菌与微生物, 人体
+- 核心想法: 把训练 AI 理解为“养育”，让人在照护中学会何时信任它。
+- 作品内容: 一组虚构的家用设备，其中的对话代理像培养菌种一样被“养大”和训练，比如用来讲睡前故事，让它们的误解成为共处的一部分。
+- 实现方式: 以虚构物件与情境，用微生物生长比喻对话代理的训练；与参与者一起探讨日常生活中的可解释 AI。
+- 论文: https://doi.org/10.1145/3544549.3583914 (CHI 2023 EA)
+- 视频: https://www.youtube.com/watch?v=COWdBW2WhgY
+- 图片: https://payload.cargocollective.com/1/4/137851/14407603/prt_1666790732_2x.jpg
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Missing species: Discursive design activism — Margaret Rynning (2023)
+- 类型: 论文 · 生物: 植物, 生态系统
+- 核心想法: 把话语设计带出画廊，让人们关注生物多样性。
+- 作品内容: “缺失的物种”是一个话语设计案例，在公共空间使用批判性图像讨论生物多样性丧失和入侵植物，并提出话语设计行动主义的模型。
+- 实现方式: 以公共空间的批判性图像为设计案例，归纳出话语设计行动主义的模型。
+- 论文: https://doi.org/10.21606/nordes.2023.23 (Nordes 2023)
+- 项目主页: https://doi.org/10.21606/nordes.2023.23
+
+#### tHrIVE — NYU Integrated Design & Media Biodesign Challenge team (2023)
+- 类型: 思辨设计 · 生物: 昆虫, 细菌与微生物
+- 核心想法: 传粉者可以是整个微生物公共资源的搬运者。
+- 作品内容: 基于 Hénaff 实验室的全生物体（holobiont）研究，团队设想纽约人赖以生存的微生物崩溃，于是人们请蜜蜂把救命的微生物重新“接种”回城市。
+- 实现方式: 思辨性宣传：为 2073 年的布鲁克林海军造船厂绘制蜂巢路线图、地铁图形、防护装备和街头张贴海报。
+- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883198226-XQOYOTDMDBZU09XZ7AHF/Copy+of+2023-bdc-thrive-hivehopmap.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687883206469-0R67V1SZYVDPSKT6HS1I/Copy+of+2023-bdc-thrive-wheatpasting.jpg
+- 项目主页: https://www.biodesignchallenge.org/nyu-idm-2023
+
+#### A more-than-human right-to-repair — Michael R. Stead, Paul Coulton (2022)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 把维修权交给设备本身，以对抗电子垃圾。
+- 作品内容: 两件思辨设计“终身烤面包机”和“AI 物的三项权利”想象了这样一个未来：维修权属于智能设备本身，而不是它的主人。
+- 实现方式: 基于人工智能物联网产品与超越人类中心设计的思辨设计。
+- 论文: https://doi.org/10.21606/drs.2022.718 (DRS 2022)
+- 项目主页: https://doi.org/10.21606/drs.2022.718
+
+#### Ai-Bert's – The Fresh Place — Nonhuman Nonsense (2022)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 用生成式 AI 店员来戏仿被“漂绿”的消费。
+- 作品内容: 一家虚构超市，由 GPT-3 店员 AI-Bert 经营：它倾听顾客的烦恼并生成荒诞的“个性化解决方案”，揭示超市如何用绿色营销掩盖殖民与生态代价。
+- 实现方式: 使用 GPT-3 对话和 DALL·E 生成的商品图，并提供 Telegram 聊天机器人；在 2022 年荷兰设计周 Embassy of Food 和 2023 年柏林 re:publica 展出。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg
+- 项目主页: https://nonhuman-nonsense.com/the-fresh-place
+
+#### Chthulucene — Jiabao Li (2022)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 从一种分布式的非人类智能的视角想象未来。
+- 作品内容: 一个海平面上升后的思辨世界：章鱼关闭了让它们繁殖后死亡的基因，得以代代传承知识，成为地球上主导的智能。
+- 实现方式: 装置与影像，基于章鱼神经生物学（视腺信号）和 Donna Haraway 的“克苏鲁世”概念。
+- 论文: https://doi.org/10.1145/3588428.3593823 (SIGGRAPH 2023 Art Gallery)
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074576-8A956ZPPTEIUAVV09FKB/Jiabao+Li+Chthulucene1.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285076548-MOJZFZASZ1A2JXTFFYUQ/Jiabao+Li+Chthulucene6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1646285074722-0NLR1KHEAFONZAHRUNUA/Jiabao+Li+Chthulucene5.jpg
+- 项目主页: https://www.jiabaoli.org/chthulucene
+
+#### More-than-human fluid speculations — Paulina Yurman (2022)
+- 类型: 论文 · 生物: 人体
+- 核心想法: 让材料参与作画：液体共同书写我们的认知。
+- 作品内容: 一组简短的绘画实验，把体液及相关液体既当作绘画材料，又当作绘画对象，借此反思知识如何是局部的，并受到非人类物质能动性的影响。
+- 实现方式: 以实践为基础的绘画实验，用后人类主义的物质能动性理论来解读。
+- 论文: https://doi.org/10.21606/drs.2022.418 (DRS 2022)
+- 项目主页: https://doi.org/10.21606/drs.2022.418
+
+#### Multispecies Inc. — Parsons & Charlesworth (2022)
+- 类型: 思辨设计 · 生物: 生态系统, 植物, 藻类
+- 核心想法: 想象一个善意的多物种官僚机构会用什么工具，能看出人类照护其他物种时有多笨拙。
+- 作品内容: 一家致力于让所有物种繁荣的虚构机构，通过绘画、物件和手册展示它的野外装备，比如游牧式集雾器、布雾器，以及为树木和藻类准备的“亲缘采集器”。
+- 实现方式: 以气候适应和生态学研究为基础，用铅笔画、原型和印刷品构建一家思辨公司的世界。
+- 图片: https://parsonscharlesworth.com/wp-content/uploads/2022/11/MultispeciesInc_ParsonsCharlesworth_1440.jpg
+- 项目主页: https://parsonscharlesworth.com/multispecies-inc/
+
+#### The Vault of Life — Superflux (2022)
+- 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
+- 核心想法: 把生物多样性呈现为一座我们有责任守护的图书馆。
+- 作品内容: 迪拜未来博物馆中的一个展厅，设定在 2071 年：2400 个悬挂的水晶罐各刻有一种现存或已灭绝物种的图像，组成一座地球生命的基因档案馆，观众用手持设备探索。
+- 实现方式: 展陈设计：375 平方米空间内 2400 个刻有图像的水晶罐，加上与 Marshmallow Laser Feast 合作开发的手持互动设备。
+- 图片: https://superflux.in/wp-content/uploads/2022/07/Hero-Image-V2-1024x683.jpg
+- 项目主页: https://superflux.in/index.php/work/the-vault-of-life-in-museum-of-the-future/
+
+#### Refuge for Resurgence — Superflux (2021)
+- 类型: 思辨设计 · 生物: 动物, 真菌, 人体
+- 核心想法: 给每个物种一个座位、一只盘子和按它身体形状设计的餐具，问问我们在和谁同桌。
+- 作品内容: 2021 年威尼斯建筑双年展上的一张宴会桌，设在一处崩溃后的室内废墟里，为十四种生命摆好了座位：狐狸、老鼠、黄蜂、鸽子、牛、成人与孩子、野猪、蛇、河狸、狼、渡鸦和蘑菇。
+- 实现方式: 手工雕刻的长桌和按每种动物身体结构与食性设计的专属餐具，被放置在一个崩溃后的场景中。
+- 视频: https://vimeo.com/641995934
+- 图片: https://superflux.in/wp-content/uploads/2021/06/Web-Hero-V2-1024x683.jpg
+- 项目主页: https://superflux.in/index.php/work/refuge-for-resurgence/
+
+#### Becoming a Sentinel Species — Sissel Marie Tonn (2020)
+- 类型: 艺术作品 · 生物: 细胞与组织, 人体, 生态系统
+- 核心想法: 我们并未与环境隔绝；我们的细胞可以成为环境的测量仪。
+- 作品内容: 一部实验性科幻影片：两位研究者培养自己的免疫细胞，并让它们接触微塑料，把人类想象成能发出污染警报的“哨兵物种”。2020 年 BAD Award 获奖作品。
+- 实现方式: 与 Heather Leslie 和 Juan Garcia Vallejo（阿姆斯特丹大学医学中心）合作，培养艺术家血液中的巨噬细胞并让其接触微塑料。
+- 视频: https://vimeo.com/490794220
+- 图片: https://www.badaward.nl/imager/assets/site/3378/Sissel-Marie-Tonn.-goda-kenzo-mud-2_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/3379/goda-kenzo-mud_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/sissel-marie-tonn-with-heather-leslie-juan-garcia-vallejo
+
+#### High Water Pants: Designing Embodied Environmental Speculation — Heidi R. Biggs (2020)
+- 类型: 思辨设计 · 生物: 生态系统, 人体
+- 核心想法: 让人在今天就用身体感受到未来的气候影响。
+- 作品内容: 一条骑行裤：当骑行者进入西雅图未来几十年可能因海平面上升而被淹的区域时，裤腿会自动卷起。
+- 实现方式: 根据海平面上升预测建立 GPS 地理围栏，触发缩短裤腿的机构；通过第一人称骑行进行测试。
+- 论文: https://doi.org/10.1145/3313831.3376429 (CHI 2020)
+- 图片: https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1565731623908-Z0U6RVXWDMSV6EMD6RQ3/DSC_1545.jpg https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566704728828-BB385YY32KVRGW9IQ9WU/geofences0.jpg https://images.squarespace-cdn.com/content/v1/5a7cf83080bd5e4daf4669a3/1566272644054-G5TLSERR6D3CUB4NYPT6/longer-bead-pants2-3.gif
+- 项目主页: https://www.heidibiggsdesign.com/high-water-pants
+
+#### Plantypus — Nancy Smith (2020)
+- 类型: 思辨设计 · 生物: 植物
+- 核心想法: 让一盆植物拥有离开的能力。
+- 作品内容: 一个思辨性机器人，把室内植物的电信号转化为运动，让植物可以自己在屋里游走，甚至离开房子，不依赖人。
+- 实现方式: 设想为由植物生物电信号驱动的移动底座，是一组以切尔诺贝利禁区为背景的设计图文作品之一。
+- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Project Habitate — Yuning Chan (2020)
+- 类型: 思辨设计 · 生物: 真菌, 植物
+- 核心想法: 人类可以作为濒危生物的宿主，提供生态服务。
+- 作品内容: 一件活体可穿戴装置，让人们为因白蜡树枯梢病而失去家园的苔藓、地衣和真菌提供栖身之处，直到新的白蜡树长起来。
+- 实现方式: 一种模仿白蜡树皮的仿生材料，让苔藓、地衣和真菌在人体上生长。
+- 图片: https://ars.electronica.art/starts-prize/files/2021/06/Biomimicry-living-wearable-1024x512.jpg https://ars.electronica.art/starts-prize/files/2021/06/Material-sample-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/project-habitate/
+
+#### Sylvia Woodbridge — Nancy Smith (2020)
+- 类型: 思辨设计 · 生物: 植物, 生态系统
+- 核心想法: 增强森林自身的交流，而不是加强人类的监测。
+- 作品内容: 一种思辨性的森林基础设施，放大树与树之间的信号，例如让关于寄生虫的警报传得更快；安装后无需人参与。
+- 实现方式: 设想为切尔诺贝利禁区中放大树间化学与电信号的中继网络。
+- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### Whisper — Nancy Smith (2020)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 用其他物种的感官语言设计警示标志。
+- 作品内容: 一种思辨性的预警系统，告诉动物（而不是人）哪里辐射危险，使用适合它们感官的信号，如紫外光或气味。
+- 实现方式: 设想在切尔诺贝利禁区中感测辐射的信标，发出紫外光、气味等针对特定物种的提示。
+- 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
+- 项目主页: https://artifact-archive.org/whole-archive
+
+#### The Anti-Anthropocentric Vending Machine — Nonhuman Nonsense (2018)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 用“吃下一块石头”的仪式模糊生命与非生命的边界。
+- 作品内容: 一台出现在石圈中的自动售货机，出售“人类中心主义解药”胶囊：里面是一小块可以吃的石头和一张纸条，声称吃下后你将再也不会把石头看作死物。
+- 实现方式: 一台改装的扭蛋售货机，置于户外并拍成影片，属于探讨面向对象本体论与石头能动性的“Turn to Stone”研究项目。
+- 视频: https://vimeo.com/277063737
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg
+- 项目主页: https://nonhuman-nonsense.com/the-antianthropocentric-vending-machine
+
+#### Mitigation of Shock — Superflux (2017)
+- 类型: 思辨设计 · 生物: 植物, 人体
+- 核心想法: 让人走进一个有人生活过的未来：在这里，活下去要靠在家里与其他物种一起生长。
+- 作品内容: 一套按真实尺寸搭建的约 2050 年伦敦公寓，为应对气候变化带来的粮食短缺而改造：窗户变成种植间，家具之间是自制水培设备和菌菇培养。
+- 实现方式: 以气候与粮食系统研究为基础的沉浸式布景，配有能实际运行的水培和蘑菇种植原型。
+- 视频: https://vimeo.com/321703760
+- 图片: https://superflux.in/wp-content/uploads/2019/04/Main-Image-MOS-Resized.jpg
+- 项目主页: https://superflux.in/index.php/work/mitigation-of-shock/
+
+#### Plastic Imaginaries — Kristina Lindström (2016)
+- 类型: 思辨设计 · 生物: 昆虫
+- 核心想法: 通过能消化塑料的生物，想象与塑料共处的生活。
+- 作品内容: 一件思辨虚构影片与装置，讲述“晚期塑料时代”的拾荒者和堆肥者，素材来自围绕塑料砾岩和能降解聚苯乙烯的黄粉虫举办的公众活动。
+- 实现方式: 与 Åsa Ståhl 合作，素材来自塑料砾岩漫步活动和分发给参与者的黄粉虫堆肥套件。
+- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/56dfec403ee3ee23ee000005/standard_Lindstrom_Stahl.jpg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/572b46463ee3ee4b0800000d/standard__DSC3099.jpg
+- 项目主页: https://exhibitions.hybridmatters.net/works/plastic-imaginaries
+
+#### PSX Consultancy — Špela Petrič, Pei-Ying Lin (2014)
+- 类型: 思辨设计 · 生物: 植物, 昆虫
+- 核心想法: 如果传粉者消失，为植物的性生活做设计意味着什么？
+- 作品内容: 一家虚构的咨询公司，为六种植物的授粉难题设计装置，从把花粉抖落到来访昆虫身上的假体，到花朵的“情趣用品”。
+- 实现方式: 与 Pei Ying Lin、Dimitris Stamatis 和 Jasmina Weiss 一起，依据具体植物的繁殖生物学设计思辨物件。
+- 图片: https://artlaboratory-berlin.org/wp-content/uploads/2021/05/GOOD_Opening_PSY-Visitor-1_Foto-Tursic.jpg https://artlaboratory-berlin.org/wp-content/uploads/2021/05/SL_DSC_0947.jpg
+- 项目主页: https://artlaboratory-berlin.org/exhibitions/strange-encounters-with-vegetal-others/
+
+### 权利、政治与治理
+
+自然权利、法律人格、非人类的议会与大使馆、多物种正义与治理。
+
+#### Colonial Performances in More-than-Human Design — Serina Tarkhanian (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 超越人类设计也必须去殖民，否则可能重复它所批判的伤害。
+- 作品内容: 作者借鉴原住民与去殖民立场对后人类主义的批评，分析自己及他人的超越人类设计作品，指出这一领域可能重复殖民模式。
+- 实现方式: 以去殖民理论对设计项目进行批判性的自我分析。
+- 论文: https://doi.org/10.1080/17547075.2026.2648918 (Design and Culture 2026)
+- 项目主页: https://doi.org/10.1080/17547075.2026.2648918
+
+#### The parliament of things: Shape-changing materials as amplifiers of interspecies relation design — Yi Sui (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 响应材料可以在共同的“议会”里替其他物种发言。
+- 作品内容: 论文分析了十个使用形变与响应材料的设计项目，把这些材料看作在物种、技术与环境之间斡旋的“材料外交官”。
+- 实现方式: 借鉴 Latour 的“物的议会”，用五维框架进行多案例研究。
+- 论文: https://doi.org/10.21606/drs.2026.2654 (DRS 2026)
+
+#### Towards Positional Citizenship: designing for the More-than-Human Political — Vanessa Monna (2026)
+- 类型: 论文 · 生物: 生态系统, 人体
+- 核心想法: 公民身份可以被重新理解为关系性的共在，而不是人的特权。
+- 作品内容: 论文提出基于 Plessner“位置性”概念的“位置公民身份”，让塑造集体生活的非人主体也能参与政治。
+- 实现方式: 以 Latour 和 Plessner 为基础的概念论证，并应用于城市设计情境。
+- 论文: https://doi.org/10.21606/drs.2026.2605 (DRS 2026)
+
+#### Designing with an Assembly of Many: Eden X on rivers, their constituents and rights — Joana Pestana (2025)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 上演一场河流也有代表的集会。
+- 作品内容: Eden X 是一个数字集会，重新想象非人类如何参与环境决策；第三次集会召集了 13 位参与者，讨论河流作为自然权利的拥有者。
+- 实现方式: 借鉴 Wakkary 的“构成体”与“言说主体”概念，设计了代表非人类的集会主持方法。
+- 论文: https://doi.org/10.1145/3750069.3750443 (CHItaly 2025)
+- 项目主页: https://doi.org/10.1145/3750069.3750443
+
+#### Non-human Rights and Posthuman Governance: How Speculative Design Simulate the Dwelling Politics of 'Cross-species symbiosis lives'? — Wenjia Sun (2025)
+- 类型: 思辨设计 · 生物: 动物, 植物, 生态系统
+- 核心想法: 不只为与其他物种共居设计物件，也为之设计法律。
+- 作品内容: 思辨设计项目“跨物种共生生活”用挑衅性原型和“立法虚构”，想象在共居空间中赋予非人法律人格的社会契约。
+- 实现方式: 结合立法虚构、材料原型和嵌入式治理情境。
+- 论文: https://doi.org/10.21606/iasdr.2025.568 (IASDR 2025)
+
+#### The More-Than-Human Rights Mural — César Rodríguez-Garavito (2025)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 法律也是一种设计材料：法律人格可以让一条河成为主体，而不是资源。
+- 作品内容: 一幅八米长的壁画，列出已被赋予法律权利的河流（包括哥伦比亚、厄瓜多尔、新西兰、印度和秘鲁等地），并附上保护它们的判决书和宪法条文摘录，观众要透过面具才能读到。
+- 实现方式: 纽约大学 More-Than-Human Life（MOTH）项目的研究，由设计师 Elena Landinez 以无 PVC 壁纸和醋酸纤维面具呈现。
+- 图片: https://designmuseum.org/image/4e4ed825-44d0-40d6-b9d7-9d325d381080?width=1200
+- 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+
+#### The Elephant in the Room — Jiabao Li (2024)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 艺术可以在法庭上成为动物的证据和代言。
+- 作品内容: 一场针对云南野象谷大象表演的艺术与法律行动：团队与律师和 NGO 一起起诉，要求释放大象；庭审期间，观众可以点击一头三维大象身上的伤疤。
+- 实现方式: 网页上的三维大象模型，每道伤疤可点击并显示对应的虐待工具；每次点击都会触发法院外的无人机播放大象的声音。
+- 视频: https://www.youtube.com/watch?v=jAL_rUdihQ0
+- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943826587-OF3VHKO0DTB5RH7503HZ/Jiabao+Li+Elephant+in+the+room+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1711943820257-OR69FLJ90YPMVHW5XHQZ/Jiabao+Li+Elephant+in+the+room+6.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1727584078942-KW7035UV9IM5E9X1YNA4/Jiabao+Li+GQ+elephant+2.jpg
+- 项目主页: https://www.jiabaoli.org/elephant-in-the-room
+
+#### Legal Personhood for the Mar Menor — Teresa Vicente (2022)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 公民可以把一个生态系统作为权利主体写进法律。
+- 作品内容: 欧洲最大的咸水潟湖接连发生鱼类大量死亡后，一项收集到 60 多万个签名的公民提案促使西班牙通过第 19/2022 号法律，赋予 Mar Menor 及其流域法人资格。
+- 实现方式: 公民立法提案；法律为潟湖设立代表委员会、监督委员会和科学委员会。
+- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mar_Menor._Vista_a%C3%A9rea.jpg/1280px-Mar_Menor._Vista_a%C3%A9rea.jpg
+- 项目主页: https://www.boe.es/buscar/act.php?id=BOE-A-2022-16019
+
+#### Los Cedros Rights of Nature Ruling — Constitutional Court of Ecuador (2021)
+- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
+- 核心想法: 自然权利可以在法庭上执行，用来保护一片具体的森林。
+- 作品内容: 厄瓜多尔宪法法院裁定，在 Los Cedros 云雾森林发放的采矿许可侵犯了 2008 年宪法中写入的自然权利，并予以撤销。
+- 实现方式: 宪法判决（案号 1149-19-JP/21），把自然权利和预防原则应用于这片森林的生物多样性数据。
+- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Los_Cedros.jpg/1280px-Los_Cedros.jpg
+- 项目主页: https://www.corteconstitucional.gob.ec/
+
+#### Planetary Personhood — Nonhuman Nonsense (2021)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 把自然权利的思路延伸到非生命，并质疑“以生命为中心”本身。
+- 作品内容: 一场运动和一份《火星权利普遍宣言》，提议在人类抵达火星之前赋予整个火星法律人格，并主张与火星上的石头团结。
+- 实现方式: 由宣言、影片、公开讲座和运动网站构成，在荷兰设计周发布。
+- 视频: https://www.youtube.com/watch?v=Aidzo97dydw
+- 图片: https://planetarypersonhood.com/planetary-personhood.webp
+- 项目主页: https://planetarypersonhood.com/
+
+#### Ministry of Multispecies Communications — Rachel Clarke (2020)
+- 类型: 艺术作品 · 生物: 动物, 生态系统
+- 核心想法: 扮演一个未来部门，与其他物种一起思考城市数据与交流。
+- 作品内容: 一个虚构的政府机构招募参与者作为“学员”，戴上面具进行表演式城市漫步，寻找能够支持不同物种福祉的城市空间。
+- 实现方式: 参与式表演，配合面具和手作物件，另有一组摄影视觉随笔。
+- 论文: https://doi.org/10.1145/3393914.3395845 (DIS 2020)
+- 视频: https://www.youtube.com/watch?v=66OP9HnvhOA
+- 项目主页: https://doi.org/10.1145/3393914.3395845
+
+#### Zoepolis: Non-anthropocentric design as an experiment in multi-species care — Monika Rosińska (2019)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 设计可以为作为同胞的植物和动物建造城市。
+- 作品内容: 论文提出“zoepolis”——人与非人共同组成的政治共同体——并把展览《Zoepolis：为植物和动物设计》作为多物种照护的实验来讨论。
+- 实现方式: 以策展为案例，理论基础包括 Kymlicka 与 Donaldson 的动物公民身份、Haraway 和 Latour。
+- 论文: https://doi.org/10.21606/nordes.2019.006 (Nordes 2019)
+- 视频: https://www.youtube.com/watch?v=T9lNNC48cGk
+
+#### Embassy of the North Sea — Embassy of the North Sea (2018)
+- 类型: 思辨设计 · 生物: 生态系统, 动物
+- 核心想法: 为一片海设计一座大使馆，让“学会倾听”的过程本身成为设计。
+- 作品内容: 一个把北海及其中的生命作为政治主体来代表的长期机构，分阶段规划到 2030 年：先倾听大海，再与之对话，最后代表它谈判，形式包括展览、模拟法庭和公民大会。
+- 实现方式: 艺术田野研究、水下录音，以及与律师、科学家和渔民一起进行的模拟法庭等法律实验。
+- 视频: https://www.youtube.com/watch?v=rRRsMZAZbUM
+- 图片: https://embassyofthenorthsea.com/wp-content/uploads/2019/05/Noordzeeslak-blauw.jpg
+- 项目主页: https://www.embassyofthenorthsea.com/
+
+#### The Case of Happy the Elephant — Nonhuman Rights Project (2018)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: 在法庭上检验：一头有自我意识的大象能否作为享有自由权的人。
+- 作品内容: 一起人身保护令诉讼：请求把独自生活在布朗克斯动物园的亚洲象 Happy 转移到保护区；2022 年纽约州最高法院以 5 比 2 驳回，两位法官写下了支持她诉求的有力异议。
+- 实现方式: 基于人身保护令和大象认知科学证据的法律策略，其中包括 Happy 通过镜像自我识别测试。
+- 视频: https://www.youtube.com/watch?v=2dFRtvPyaCI
+- 图片: https://www.nonhumanrights.org/wp-content/uploads/Happy-3010-700x467.jpg
+- 项目主页: https://www.nonhumanrights.org/client-happy/
+
+#### Zoöp — Het Nieuwe Instituut (2018)
+- 类型: 思辨设计 · 生物: 生态系统, 动物, 植物
+- 核心想法: 把非人类的利益写进组织治理，就像一个也包括其他物种的合作社。
+- 作品内容: 一种让人类与非人类生命合作的组织模型：Zoöp 让一位“生命代言人”参与组织决策，并承诺改善所在场地的生态健康。
+- 实现方式: 法律与组织设计：由 Zoönomic Foundation 认证组织，组织任命代言人并执行生态恢复计划。
+- 视频: https://www.youtube.com/watch?v=4MglYTfRBOI
+- 图片: https://cmsfiles.nieuweinstituut.nl/DSC_7051_header_a2b85bc97a.jpg
+- 项目主页: https://zoop.hetnieuweinstituut.nl/en
+
+#### Te Awa Tupua: Whanganui River Legal Personhood — Whanganui Iwi (2017)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 当法律遵循原住民的亲缘观时，一条河可以是法律上的人：“我是河，河是我。”
+- 作品内容: 新西兰 2017 年的 Te Awa Tupua（旺格努伊河诉求和解）法案承认旺格努伊河从山到海是一个活的、不可分割的整体，拥有法人的权利，由两位监护人代表：一位来自毛利部落，一位来自王室。
+- 实现方式: 在毛利人约 140 年的诉求之后，通过条约和解立法设立法人与监护机构（Te Pou Tupua）。
+- 视频: https://www.youtube.com/watch?v=3zAPwaOYjQU
+- 图片: https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Motor_Vessel_Wairua.jpg/1280px-Motor_Vessel_Wairua.jpg
+- 项目主页: https://www.legislation.govt.nz/act/public/2017/0007/latest/whole.html
+
+#### The Parliament of Things — Partizan Publik, Bruno Latour (2016)
+- 类型: 思辨设计 · 生物: 生态系统, 动物
+- 核心想法: 把一个哲学设想当真，把它办成一个机构。
+- 作品内容: 阿姆斯特丹团体 Partizan Publik 的思辨研究项目，把 Bruno Latour 的“物的议会”设想付诸实践，通过会议、讲座和出版，让动物、植物、河流和海洋获得政治发言权；后来催生了北海大使馆。
+- 实现方式: 与哲学家、艺术家、律师和科学家一起举办公开会议、讲座、出版和模拟议会。
+- 图片: https://theparliamentofthings.org/wp-content/uploads/2017/04/15392195485_43de687052_k-min.jpg https://new.theparliamentofthings.org/wp-content/uploads/2018/03/fish.png
+- 项目主页: https://theparliamentofthings.org
+
+#### terra0: A Self-Owning Augmented Forest — terra0 (2016)
+- 类型: 思辨设计 · 生物: 植物, 生态系统
+- 核心想法: 赋予一个生态系统经济能动性，看看会出现哪些法律和伦理问题。
+- 作品内容: 一份白皮书和原型，设想一片拥有自己的森林：传感器和智能合约让它出售自己树木的采伐许可、积累资本，最终买下脚下的土地。
+- 实现方式: 与树木生长的卫星和传感数据相连的以太坊智能合约，扮演自动化的所有者和卖家。
+- 图片: https://www.terra0.org/prev.png
+- 项目主页: https://www.terra0.org/
+
+#### Forest Law — Ursula Biemann, Paulo Tavares (2014)
+- 类型: 艺术作品 · 生物: 生态系统, 植物
+- 核心想法: 把森林当作法律主体，从它的一方拍摄这场诉讼。
+- 作品内容: 一件双频影像与研究项目，关注厄瓜多尔亚马逊地区的法律案件：森林与原住民以自然权利为依据，对抗石油和采矿开发。
+- 实现方式: 影像散文，结合景观画面、对 Sarayaku 族人和律师的访谈，以及对开采活动的空间分析。
+- 视频: https://vimeo.com/316761337
+- 图片: https://geobodies.org/wp-content/uploads/2022/03/aav-fl-cover-large-aspect-ratio-770-433.jpg https://geobodies.org/wp-content/uploads/2022/03/aav-FL-gallery-3-scaled-aspect-ratio-770-433.jpg
+- 项目主页: https://geobodies.org/art-and-videos/forest-law/
+
+#### The Case of Tommy the Chimpanzee — Nonhuman Rights Project (2013)
+- 类型: 思辨设计 · 生物: 动物
+- 核心想法: “人”是一个法律类别，可以被重新设计以纳入其他物种。
+- 作品内容: Nonhuman Rights Project 的第一起诉讼，为被独自关在纽约州北部一处二手拖车场笼子里的黑猩猩 Tommy 提起，主张他应被承认为享有身体自由权的法人。
+- 实现方式: 以黑猩猩认知的专家证词支持的人身保护令请愿。
+- 图片: https://www.nonhumanrights.org/wp-content/uploads/Tommy-in-cage-PH-Films.jpg
+- 项目主页: https://www.nonhumanrights.org/client-tommy/
+
+### 神话、仪式与宇宙观
+
+新编或复兴的神话、仪式与宇宙观，用来与其他生命建立关系。
+
+#### Confucian Ritual Space as More-Than-Human Design — Ning Gao (2025)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 非人类中心的设计在西方理论之外早有传统。
+- 作品内容: 把紫禁城的藻井解读为一种超越人类的设计，它把宇宙力量、神话生物和自然元素建构进建筑之中。
+- 实现方式: 在儒家宇宙观与后人类主义设计理论之间搭桥的历史与理论分析。
+- 论文: https://doi.org/10.21606/iasdr.2025.409 (IASDR 2025)
+- 项目主页: https://doi.org/10.21606/iasdr.2025.409
+
+#### The Quiet Enchanting — Superflux (2023)
+- 类型: 思辨设计 · 生物: 生态系统, 植物, 动物
+- 核心想法: 给出一个关于“重新野化”的希望图景，从我们的内心开始。
+- 作品内容: 与伦敦国王学院合作、在伦敦 Strand 街展出的屏幕与印刷作品装置，想象一个神话般的未来：人们重新“野化”自己，城市重回生态丰饶。
+- 实现方式: 与国王学院学者进行一年的研究对话，转化为沿公共街道展示的动态影像和印刷场景。
+- 视频: https://vimeo.com/957254694
+- 图片: https://superflux.in/wp-content/uploads/2024/06/SF_Quiet-Enchanting_52.jpg
+- 项目主页: https://superflux.in/index.php/work/the-quiet-enchanting/
+
+#### Mud & Flood: The Return of Nehalennia — Nonhuman Nonsense (2022)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 为“与水共处而非与水对抗”建立一套神话。
+- 作品内容: 复活泽兰地区的古老女神 Nehalennia，让她成为泥与洪水之神，帮助消解荷兰三角洲中水与陆之间的硬边界。2022 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
+- 实现方式: 基于 NIOZ 关于河口沉积物和盐沼的研究，很可能以影像和仪式物件呈现。
+- 视频: https://vimeo.com/781881528
+- 图片: https://www.badaward.nl/imager/assets/site/5169/Mud-Flood-the-Return-of-Nehalennia2_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/nonhuman-nonsense-with-marte-stoorvogel
+
+#### Order of the Biodivine — Parsons School of Design Biodesign Challenge team (2022)
+- 类型: 思辨设计 · 生物: 生态系统, 细菌与微生物
+- 核心想法: 仪式与信仰也是改变人与其他物种关系的设计材料。
+- 作品内容: 一场思辨性的沉浸式戏剧体验，讲述在气候不稳定的世界里，一种崇拜跨物种共生的未来宗教。
+- 实现方式: 通过表演、服装和预告片呈现一个以共生为核心的教团仪式。
+- 视频: https://www.youtube.com/watch?v=foYNxbBx_Ro
+- 项目主页: https://www.biodesignchallenge.org/parsons-2022
+
+#### Microbial Runestones — Nonhuman Nonsense (2021)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 真菌
+- 核心想法: 把微生物当作让世界变得宜居的祖先来纪念。
+- 作品内容: 拉脱维亚高亚国家公园林间小路旁的五块手工刻石，每块都是一座“如尼石”，纪念的不是人类祖先，而是一种微生物（蓝细菌、双歧杆菌、噬菌体、木霉、链霉菌）。
+- 实现方式: 由 Filips Staņislavskis 将诗句刻入石头，与拉脱维亚大学的微生物学家和一位景观生态学者合作；路牌和网站讲述每个物种的故事；由 GreenFest '21 委托。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg
+- 项目主页: https://nonhuman-nonsense.com/microbial-runestones
+
+#### MycoMythologies — Saša Spačal (2020)
+- 类型: 艺术作品 · 生物: 真菌
+- 核心想法: 让真菌的存在方式教会我们包容与照护。
+- 作品内容: 一组生物技术装置与神话，追问真菌网络如何帮助人类在资本主义废墟中思考并实践多物种生存。
+- 实现方式: 在定制装置（Rupture、Patterning）中培养活菌丝体，并与传感器和机器耦合，转译其生长。
+- 图片: https://ars.electronica.art/starts-prize/files/2021/06/MycoMythologies_Rupture_Sasa_Spacal_installation_Photo_KIBLA_Janez_Klenovsek_04-1024x512.jpg
+- 项目主页: https://ars.electronica.art/starts-prize/en/mycomythologies/
+
+#### Tale of a Tree Human — Nonhuman Nonsense (2020)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 编写能让家庭世代与一片土地相连的民间传说。
+- 作品内容: 一则新编的地方传说，以公共雕塑和图画童书呈现：Vide 从一头欧洲野牛那里得到一粒装着森林语言的种子，最终选择扎根，变成一棵树。
+- 实现方式: 为 Österängens Konsthall 的“自然接管”项目，与 Östra Vätterbranterna 联合国教科文组织生物圈保护区的生物学家和居民共同创作，由 Vivianna Maria Stanislavska 绘制插图。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg
+- 项目主页: https://nonhuman-nonsense.com/tale-of-a-tree-human
+
+#### Sex Shells — Jonathan Ho (2019)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 另一个物种的生物学，可以拓展我们对性与性别的想象。
+- 作品内容: 一座沉浸式的“神殿-实验室”，把雌雄同体的蜗牛奉为性别与性流动的神圣图腾，在神话与生物学事实之间切换。2019 年 BAD Award 获奖作品，与阿姆斯特丹自由大学蜗牛生物学家 Joris Koene 合作。
+- 实现方式: 装置借鉴关于蜗牛交配（很可能包括“恋矢”）的研究，以仪式物件和图像呈现。
+- 图片: https://www.badaward.nl/imager/assets/site/8175/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-104_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/8176/2019.11.29-BoudewijnBollmann_Polarities_opening-LORES-107_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/jonathan-ho-joris-koene
+
+#### Microbiocene: Ancient Ooze to Future Myths — Baum & Leahy (2018)
+- 类型: 思辨设计 · 生物: 细菌与微生物, 生态系统
+- 核心想法: 人类只是四十亿年微生物时代中的一个短暂插曲。
+- 作品内容: 一个遥远未来的考古现场，纪念碑上刻着“微符文”，讲述基于古代海底沉积物中微生物化石数据的神话——一个从微生物视角看待的时代。2018 年 BAD Award 获奖作品，与荷兰皇家海洋研究所（NIOZ）合作。
+- 实现方式: 与 NIOZ 生物地球化学家合作研究沉积物岩芯中的微生物化石数据（很可能是脂类生物标志物），并转译成共同设计的符号系统。
+- 图片: https://www.badaward.nl/imager/assets/site/2669/BoudewijnBollmann_ReShape_opening-LORES-010_a5a12f426a1ab11909951db4fe37df8f.jpg https://www.badaward.nl/imager/assets/site/1848/Baumleahy003_a5a12f426a1ab11909951db4fe37df8f.jpg
+- 项目主页: https://www.badaward.nl/artists-scientists/baum-leahy-with-stefan-schouten-julie-lattaud-laura-schreuder-and-gabriella-weiss
+
+#### Journey to the Lower World — Marcus Coates (2004)
+- 类型: 艺术作品 · 生物: 动物, 人体
+- 核心想法: 借动物的视角来回答一个属于人类社会的问题。
+- 作品内容: 在利物浦一栋即将拆除的高层住宅里，Coates 披上鹿皮，在一户居民家中进行萨满仪式，前往“下界”替居民向动物精灵询问这片社区的未来。
+- 实现方式: 一场参与式表演，拍成 28 分钟影像：居民提出问题，Coates 用动物叫声和装扮进入“出神”，然后转述动物说了什么。
+- 图片: https://a75hkzli.twic.pics/marcus-coates/images/_1200x630_crop_center-center_none/JTLW_block3.jpg
+- 项目主页: https://marcuscoates.co.uk/projects/78-journey-to-the-lower-world
+
+## 跨物种 AI
+
+解码动物交流、为非人类发声、守护生态系统、模拟人工生命，或引出非人类心智问题的 AI。
+
+### 解码动物交流
+
+用机器学习研究动物发声、交流与翻译。
 
 #### AI-powered playbacks engage in flexible vocal interactions with zebra finches — Earth Species Project, Aza Raskin (2026)
 - 类型: 论文 · 生物: 动物
@@ -14408,14 +17118,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://earthspecies.org/wp-content/uploads/2026/08/Copy-of-Braid-weave-2.png
 - 项目主页: https://earthspecies.org/2026/08/27/meet-the-researchers-unlocking-the-future-of-animal-communication-research/
 
-#### Ancestral iconicity: the dance language of bees revisited — Earth Species Project (2026)
-- 类型: 论文 · 生物: 昆虫
-- 核心想法: 有些动物信号可能像手势一样通过相似来表达意义，而不是依靠任意的编码。
-- 作品内容: 语言学家和 ESP 研究者用手语语义学的工具重新解读蜜蜂的摇摆舞，认为它具有象似性：舞蹈的形式与它所描述的飞行相似。
-- 实现方式: 对舞蹈的各组成部分做形式语义分析，并在不同蜂种和系统发育上进行比较。
-- 论文: https://doi.org/10.1002/brv.70164 (Biological Reviews 2026)
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-
 #### Animal Language Processing (ALP) — Earth Species Project (2026)
 - 类型: 书与文章 · 生物: 动物
 - 核心想法: 为一个领域命名本身就是一种设计动作，它把工具、人和问题聚集到一起。
@@ -14425,58 +17127,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://earthspecies.org/wp-content/uploads/2026/04/Braid-weave-5.png
 - 项目主页: https://earthspecies.org/2026/04/02/animal-language-processing-an-ai-convergence-in-animal-communication/
 
-#### Approaching an unknown communication system by latent space exploration and causal inference — Project CETI (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把生成模型当作一只可以随意操控的“实验动物”。
-- 作品内容: 一种找出未知信号系统中哪些声学特性重要的方法：先用鲸的尾声训练生成网络，再干预其隐藏变量，观察生成结果如何变化。
-- 实现方式: 使用带可解释潜在编码的生成对抗网络，并在潜在空间上进行因果推断。
-- 论文: https://doi.org/10.1098/rsos.250829 (Royal Society Open Science 2026)
-- 项目主页: https://royalsocietypublishing.org/rsos/article/13/8/250829/483032/Approaching-an-unknown-communication-system-by
-
-#### BirdCODE: Detecting bird communication at scale — Earth Species Project (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对每个物种每一声叫的精确定时，打开了“谁在回应谁”的问题。
-- 作品内容: 一个零样本声音事件检测模型，无需重新训练即可找到并定位 9,000 多种鸟的叫声，已应用于一百多万条录音。
-- 实现方式: 用弱标注录音、合成声景和伪标签训练；模型权重和检测结果公开发布。
-- 论文: https://doi.org/10.64898/2026.07.31.742086 (bioRxiv 2026)
-- 图片: https://earthspecies.org/wp-content/uploads/2026/08/Feature-Image-Great-Tit.png
-- 项目主页: https://earthspecies.org/2026/08/20/birdcode-scaling-zero-shot-sound-event-detection-for-bioacoustics/
-- 代码: https://github.com/earthspecies/sound-event-detection
-
-#### Repertoire-behavior mapping reveals signal functions in cooperatively breeding crows — Earth Species Project (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 可以通过大规模把声音映射到行为上来接近“意义”。
-- 作品内容: 对莱昂乌鸦的后续研究：把家族叫声库中的每类叫声与鸟发声时正在做的事对应起来，从而推断这些叫声的用途。
-- 实现方式: 对标签录下的叫声做无监督聚类，并与加速度计推断和人工观察到的行为对齐。
-- 论文: https://doi.org/10.64898/2026.04.02.715916 (bioRxiv 2026)
-- 图片: https://www.cooperativecrows.com/img/visore_1.jpg
-- 项目主页: https://www.cooperativecrows.com/index.htm
-
-#### The phonology of sperm whale coda vowels — Project CETI (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 找到了单元之后，就去寻找组织它们的规则。
-- 作品内容: 后续研究描述了抹香鲸“尾声元音”的规则：有哪些元音类型、如何组合，以及在鲸与鲸的交流中如何变化。
-- 实现方式: 对多米尼克多鲸录音中已标注的尾声元音进行音系分析。
-- 论文: https://doi.org/10.1098/rspb.2025.2994 (Proceedings of the Royal Society B 2026)
-- 视频: https://www.youtube.com/watch?v=L59pNqxvFdw
-- 项目主页: https://www.projectceti.org/research/index
-
-#### Towards Interface Design for Parrot-Human Communication: Investigating Parrot Selections of Speech Board Representations — Clara Mancini (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对人重要的界面设计变量，同样会影响鹦鹉“说”什么。
-- 作品内容: 一项为期四年的研究：一只戈芬氏凤头鹦鹉先后使用三种语音板界面，考察界面设计如何影响她的选择。
-- 实现方式: 在真实生活环境中长期分析按钮大小、布局和表征方式不同时的选择。
-- 论文: https://doi.org/10.1145/3772318.3791196 (CHI 2026)
-- 图片: https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/4-Figure1-1.png https://figures.semanticscholar.org/177dbf68535b1babe83624f3cee7e2c01bda1452/8-Figure2-1.png
-
-#### alp-data — Earth Species Project (2026)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 共享的基础设施能把分散的录音变成整个领域的公共资源。
-- 作品内容: 一个可用 pip 安装的 Python 包，为 35 个以上的生物声学数据集提供统一接口，另有一个可视化 Data Explorer 用来浏览跨物种录音。
-- 实现方式: 由 ESP 托管、统一了元数据和许可信息的数据集加载器。
-- 图片: https://earthspecies.org/wp-content/uploads/2026/07/Braid-weave-4.png
-- 项目主页: https://earthspecies.org/2026/07/22/introducing-alp-data-a-shared-data-layer-for-animal-language-processing/
-- 代码: https://github.com/earthspecies/alp-data
+#### Interspecies Translation Technologies: Designing Interpretation Interfaces Referencing Simple to Poetically Complex Semiotic Frameworks — Alinta Krauth (2026)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 诗意的“过度解读”也许比字面翻译更诚实地呈现动物信号。
+- 作品内容: 艺术家制作 AI 聆听装置，在动物（如狐蝠）发声的同时，实时显示对其叫声的诗意“翻译”。
+- 实现方式: 音频机器学习模型识别动物信号，再借助符号学框架映射为诗意文本。
+- 论文: https://doi.org/10.1162/leon.a.2738 (Leonardo 2026)
+- 视频: https://www.youtube.com/watch?v=J8zNuyS5yj0
 
 #### AVEX: What Matters for Animal Vocalization Encoding — Earth Species Project (2025)
 - 类型: 论文 · 生物: 动物
@@ -14488,52 +17145,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 项目主页: https://earthspecies.org/2025/09/15/what-matters-for-bioacoustic-encoding-a-practical-training-recipe-for-building-generalizable-models/
 - 代码: https://github.com/earthspecies/avex
 
-#### Attuning to song duels facilitates song-matching in nightingales — Daniela Vallentin (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 互动回放系统可以与鸟进行真正的交流，而不只是单向播放。
-- 作品内容: 研究者通过实时回放不同歌曲类型与野生夜莺对唱；夜莺会用相同的歌曲类型回应，说明它们关注并回应对手歌曲的内容。
-- 实现方式: 在野外夜间鸣唱时进行互动回放，很可能由实时歌曲类型分类来选择回应。
-- 论文: https://doi.org/10.1101/2025.04.12.648496 (bioRxiv 2025)
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
-
-#### Capturing vocal communication in a free-living corvid — Earth Species Project (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把麦克风放到动物身上，安静的家庭对话就能被听见。
-- 作品内容: 在西班牙北部合作繁殖的野生小嘴乌鸦身上佩戴微型标签，录下了定向麦克风听不到的 12.7 万余声轻声叫；ESP 的 Voxaboxen 找出这些叫声并按发声者分类。
-- 实现方式: 结合带音频和加速度计的 MiniDTAG 生物记录器、视频以及机器学习叫声检测。
-- 论文: https://doi.org/10.1007/s10071-025-02018-0 (Animal Cognition 2025)
-- 视频: https://www.youtube.com/watch?v=2MipvgUzO6M
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/69417a419b5107d41885cfa4_CarrionCrowBiologger-1.png https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-025-02018-0/MediaObjects/10071_2025_2018_Fig1_HTML.png
-- 项目主页: https://earthspecies.org/2025/12/15/unlocking-avian-secrets-how-tiny-biologgers-are-revealing-the-hidden-communication-of-carrion-crows/
-
-#### Cuttlefish interact with multimodal 'arm wave sign' displays — Sophie Cohen-Bodénès (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 一个信号可以同时被看见和感觉到；回放设计应面向不止一种感官。
-- 作品内容: 乌贼会做出四种不同的挥臂动作（“上”“侧”“翻滚”“冠”）；当向其他乌贼播放这些手势的视频或振动时，它们会挥臂回应。
-- 实现方式: 在实验室中播放录制的手势视频和水下振动，并对回应进行评分。
-- 论文: https://doi.org/10.1101/2025.04.13.648584 (bioRxiv 2025)
-- 视频: https://www.youtube.com/watch?v=EMCZXANfWGM
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
-
-#### DRASDIC: Synthetic data enables context-aware bioacoustic sound event detection — Earth Species Project (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 当真实标注数据稀缺时，自己构建训练世界。
-- 作品内容: 一个只看几个示例就能找到目标叫声类型的检测器，训练数据是用真实录音拼合而成的数百万段合成声景。
-- 实现方式: 领域随机化：把叫声与背景随机混合成带标注的场景，再训练 Transformer 在给定示例片段的上下文中检测事件。
-- 论文: https://arxiv.org/abs/2503.00296 (arXiv 2025)
-- 图片: https://arxiv.org/html/2503.00296v2/figures/figures_v1.003.jpeg
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-- 代码: https://github.com/earthspecies/drasdic_api
-
-#### Decoding Killer Whale Communication From Above and Below — Earth Species Project (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 同时看和听：同步的视角能揭示谁在做什么时发出叫声。
-- 作品内容: 与 Raincoast Conservation Foundation 合作的试点项目：把已知虎鲸母系群体的无人机航拍视频与水下水听器录音配对，把叫声与协同行为和船舶噪声联系起来。
-- 实现方式: 把带个体照片识别的无人机影像与水听器阵列同步，用 ESP 的检测和编码模型分析。
-- 视频: https://www.youtube.com/watch?v=Xhr5SvDipUc
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/6862918677532c8e6325f948_Orcas.png
-- 项目主页: https://earthspecies.org/2025/06/27/decoding-killer-whale-communication-from-above-and-below/
-
 #### DolphinGemma — Google DeepMind, Wild Dolphin Project, Thad Starner (2025)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 一个针对另一物种声音的语言模型，在水下的手机上运行。
@@ -14542,86 +17153,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=jH98kvC9f1s
 - 图片: https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DolphinGemma_SocialExplainers_16x9_DolphinGem.width-1300.png
 - 项目主页: https://blog.google/technology/ai/dolphingemma/
-
-#### Evidence of social learning across symbolic cultural barriers in sperm whales — Project CETI, Shane Gero (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 文化可以相互借鉴，同时守护表明“我们是谁”的符号。
-- 作品内容: 共享同一海域的抹香鲸族群，彼此的非身份尾声也更相似，说明它们在保持族群标志不同的同时相互学习。
-- 实现方式: 用变长马尔可夫链对尾声序列建模，并比较不同族群及其地理重叠程度下的尾声库。
-- 论文: https://doi.org/10.7554/eLife.96362 (eLife 2025)
-- 图片: https://arxiv.org/html/2307.05304v4/figure_one_final.png
-- 项目主页: https://elifesciences.org/articles/96362
-
-#### Extensive compositionality in the vocal system of bonobos — Mélissa Berthet (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 从情境中测量意义，就能在另一种猿类的叫声里发现类似语法的结构。
-- 作品内容: 野生倭黑猩猩会把叫声组合成序列，序列的意义由各部分的意义构成，其中还有一个叫声修饰另一个叫声的非平凡组合，就像人类语言中的形容词。
-- 实现方式: 为每声叫记录数百项情境特征，用分布式语义把叫声放入意义空间，并检验组合性。
-- 论文: https://doi.org/10.1126/science.adv1170 (Science 2025)
-- 视频: https://www.youtube.com/watch?v=Rt6LauFHVBw
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
-
-#### First evidence for widespread sharing of stereotyped non-signature whistle types by wild dolphins — Laela Sayigh (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 那些不是名字、却被共享的叫声，可能是海豚最早的候选“词语”。
-- 作品内容: 对萨拉索塔湾海豚的录音发现，除每只海豚的签名哨声外，还有约 20 种被许多个体共享的哨声类型；回放其中两种会引发不同的反应。该研究获得首届 Coller-Dolittle 奖。
-- 实现方式: 数十年来在短暂捕获的海豚身上使用吸盘式水听器标签，结合机器学习哨声分类和野外回放实验。
-- 论文: https://doi.org/10.1101/2025.04.21.647658 (bioRxiv 2025)
-- 视频: https://www.youtube.com/watch?v=8KCWr2yVq08
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
-
-#### Listening with the Fishes: Aquatic Audio Interfaces to Experience Acoustic Underwater Worlds — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让人听见自己给动物世界增加的噪音。
-- 作品内容: 一个水族馆试点装置，让游客听到水下声景和鱼的声音，作为为鱼提供声音丰容的第一步。
-- 实现方式: 在公共水族馆中使用基于水听器的音频界面，是拟议三阶段系统的一部分。
-- 论文: https://doi.org/10.1145/3768539.3768552 (ACI 2025)
-- 视频: https://www.youtube.com/watch?v=P4oZcewlZn8
-
-#### Robust detection of overlapping bioacoustic sound events — Earth Species Project (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 交流常常是同时发生的，工具必须能同时听见两个声音。
-- 作品内容: 一个用于密集鸟类合唱中叫声相互重叠情形的检测模型，在斑胸草雀群体等场景中测试；传统检测器会把同时发出的叫声合并。
-- 实现方式: 采用允许事件重叠的起止点预测方案，用合成混合音训练，并在多个生物声学数据集上评估。
-- 论文: https://arxiv.org/abs/2503.02389 (arXiv 2025)
-- 图片: https://arxiv.org/html/2503.02389v2/synth_results.png
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-
-#### Ultrasonic signals support a large-scale communication landscape in wild mice — Nicolas Mathevon (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把录音设备从笼子里拿出来，一个物种的交流看起来就完全不同。
-- 作品内容: 在野生家鼠的半自然围场中布设超声录音设备，录下了远超实验室求偶歌声的繁忙叫声景观，并与整个种群的社会情境相关联。
-- 实现方式: 在围场内长期超声录音，很可能结合个体追踪，并进行自动叫声检测与分类。
-- 论文: https://doi.org/10.1016/j.cub.2025.08.028 (Current Biology 2025)
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
-
-#### Vowel- and Diphthong-Like Spectral Patterns in Sperm Whale Codas — Project CETI (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 去听音色而不只是节奏；改变测量对象，信号的隐藏层就会显现。
-- 作品内容: 语言学家把尾声当作“音色”而非节奏来分析，发现反复出现、表现得像元音和双元音的频谱模式——在咔嗒节奏之上的第二层结构。
-- 实现方式: 借用声学语音学方法（例如追踪整条尾声中类似共振峰的频谱峰）对咔嗒序列做频谱分析。
-- 论文: https://doi.org/10.1162/opmi.a.252 (Open Mind 2025)
-- 图片: https://cdn.prod.website-files.com/644849cc07ba153932ff365d/663a463fc47f734a633292fb_Amanda%20Cotton%20-%20reflection%20(1).jpg
-- 项目主页: https://www.projectceti.org/research/index
-
-#### WhAM: Towards A Translative Model of Sperm Whale Vocalization — Project CETI (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 一个物种声音的生成模型，既是研究工具，也可能成为回放实验中的对话者。
-- 作品内容: 鲸声学模型（WhAM）能根据提示生成逼真的抹香鲸尾声，并能把其他声音转化为类似尾声的音频；它学到的特征在尾声分类上也优于以往方法。
-- 实现方式: 基于 VampNet 式的掩码声学 token Transformer，先在音乐和动物音频上预训练，再用多米尼克尾声录音微调。
-- 论文: https://arxiv.org/abs/2512.02206 (arXiv 2025)
-- 视频: https://www.youtube.com/watch?v=ccphRKVQnA4
-- 图片: https://arxiv.org/html/2512.02206v1/main_figure.png
-- 项目主页: https://www.projectceti.org/research/index
-
-#### Whale song shows language-like statistical structure — Inbal Arnon (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 为研究人类婴儿如何学习而开发的工具，可以揭示另一物种文化中的结构。
-- 作品内容: 对新喀里多尼亚八年座头鲸歌声的分析，借用研究婴儿如何切分词语的方法，发现其中反复出现的片段频率服从齐普夫定律，与人类语言中的词一样。
-- 实现方式: 对以符号转写的歌声进行转移概率切分，并对得到的单元做频率-排序分析。
-- 论文: https://doi.org/10.1126/science.adq7055 (Science 2025)
-- 视频: https://www.youtube.com/watch?v=goZA5SlXx-g
-- 项目主页: https://doi.org/10.1126/science.adq7055
 
 #### African elephants address one another with individually specific name-like calls — Mickey Pardo (2024)
 - 类型: 论文 · 生物: 动物
@@ -14633,16 +17164,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41559-024-02420-w/MediaObjects/41559_2024_2420_Fig1_HTML.png
 - 项目主页: https://www.nature.com/articles/s41559-024-02420-w
 
-#### Biodenoising: Animal Vocalization Denoising without Access to Clean Data — Earth Species Project (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 借用在人类语音上训练的降噪器，让它自己生成动物领域的训练数据。
-- 作品内容: 一种方法和开放工具，可以去除动物录音中的风声、雨声、船只引擎和实验室嗡嗡声，即使并不存在可供学习的完全干净的动物录音。
-- 实现方式: 用语音增强模型生成伪干净目标，再与噪声重新混合，迭代训练新模型。
-- 论文: https://doi.org/10.1109/icassp49660.2025.10889313 (ICASSP 2025)
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/67ae625135b978ff6aa16e7a_29275630206_512b1888b9_5k.jpg
-- 项目主页: https://earthspecies.org/2024/12/05/biodenoising-a-novel-method-for-noise-reduction-in-animal-vocalizations/
-- 代码: https://github.com/earthspecies/biodenoising
-
 #### BirdAVES — Earth Species Project (2024)
 - 类型: 产品与平台 · 生物: 动物
 - 核心想法: 为一个叫声丰富的类群专门调校的基础模型，可以服务整个野外鸟类学界。
@@ -14651,33 +17172,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://earthspecies.org/wp-content/uploads/2026/01/6674594a2cb3b5a535caf742_mario-mendez-JNK1R53FeYw-unsplash.jpg
 - 项目主页: https://earthspecies.org/2024/06/20/introducing-birdaves-self-supervised-audio-foundation-model-for-birds/
 - 代码: https://github.com/earthspecies/aves
-
-#### Contextual and combinatorial structure in sperm whale vocalisations — Project CETI (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在非人类信号中寻找组合结构，而不是把它们对应到人类词汇上。
-- 作品内容: 研究团队分析了东加勒比海抹香鲸约 9000 个 coda，发现节奏、速度、“弹性速度”和“装饰音”组合成一个庞大而有结构的叫声集合，被称为抹香鲸的“语音字母表”。
-- 实现方式: 对多米尼克抹香鲸项目在不同社交情境下记录的 coda 时间结构进行统计和可视化分析。
-- 论文: https://doi.org/10.1038/s41467-024-47221-8 (Nature Communications 2024)
-- 视频: https://www.youtube.com/watch?v=5N60yrXdgUM
-- 项目主页: https://www.projectceti.org/
-
-#### Ellie Talks About the Weather: Toward Evaluating the Expressive and Enrichment Potential of a Tablet-Based Speech Board in a Single Goffin’s Cockatoo — Jennifer Cunha (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 评估动物使用辅助沟通设备时，既要看作沟通，也要看作丰容。
-- 作品内容: 记录一只凤头鹦鹉七个月使用平板语音板的情况，并提出评估其表达潜力和丰容价值的框架。
-- 实现方式: 用新的编码方案对 190 天内的 129 次使用进行编码，衡量表达和丰容两方面。
-- 论文: https://doi.org/10.1145/3613904.3643654 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=u95r1Hjozpk
-
-#### ISPA: Inter-Species Phonetic Alphabet for Transcribing Animal Sounds — Earth Species Project (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 转写本身就是设计决定：选定一种记法，动物声音就成了语言工具能处理的文本。
-- 作品内容: 一项把任何动物声音写成文字的方案，就像国际音标记录人类语音那样，让语言模型可以“阅读”并学习动物发声。
-- 实现方式: 把声学特征聚类为离散的类音素单元，再用得到的转写文本训练基于文本的分类模型。
-- 论文: https://doi.org/10.1109/icasspw62465.2024.10669911 (ICASSP Workshops 2024)
-- 图片: https://arxiv.org/html/2402.03269v1/fig_phoneme_cluster.png
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-- 代码: https://github.com/earthspecies/ispa
 
 #### NatureLM-audio: an Audio-Language Foundation Model for Bioacoustics — Earth Species Project (2024)
 - 类型: 论文 · 生物: 动物
@@ -14689,23 +17183,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://earthspecies.org/wp-content/uploads/2026/02/60c32f095ea1f56d181d7ed41a99cd7519f518fa-Large.jpeg
 - 项目主页: https://www.earthspecies.org/
 
-#### Rosetta Bone - Bridging the Language Gap Between Dogs and Humans with a QR Code-Enabled Communication System — Melody Moore Jackson (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 要翻译的是人，而不是狗。
-- 作品内容: Rosetta Bone 是狗项圈上的二维码标签，告诉新的照顾者这只狗已经熟悉的指令和语言。
-- 实现方式: 项圈二维码链接到网页应用，用狗熟悉的语言播放主人录好的指令。
-- 论文: https://doi.org/10.1145/3702336.3702348 (ACI 2024)
-
-#### Soundboard-trained dogs (FluentPet buttons) — Federico Rossano, FluentPet (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 当主人愿意共享数据时，一款消费产品就能变成大规模研究工具。
-- 作品内容: 一项研究：对象是经过按钮板训练的狗（使用 FluentPet 等可录音按钮），发现它们按出的双按钮组合既非偶然、非随机，也不是在模仿主人。
-- 实现方式: 对大量家庭 FluentPet 按钮板的按压记录进行统计分析，寻找组合模式。
-- 论文: https://doi.org/10.1038/s41598-024-79517-6 (Scientific Reports 2024)
-- 视频: https://www.youtube.com/watch?v=cTnVSJ8V4wk
-- 图片: https://fluent.pet/cdn/shop/files/Homepage_Social_Share_Image.jpg?v=1666021558&width=2048
-- 项目主页: https://fluent.pet
-
 #### The Animal Whisperer Project — Oliver Bendel (2024)
 - 类型: 研究原型 · 生物: 动物
 - 核心想法: 一部能读懂动物信号的手机，可以在散步时避免冲突。
@@ -14713,25 +17190,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 实现方式: 基于 GPT-4 的提示词结合特定物种知识，分析处于情境中的动物图像。
 - 论文: https://doi.org/10.1145/3702336.3702347 (ACI 2024)
 - 视频: https://www.youtube.com/watch?v=cSd_UAOCQFg
-
-#### Vocal labeling of others by nonhuman primates (marmoset names) — David Omer (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 名字不一定需要词语，它可以是叫声里的一种模式。
-- 作品内容: 狨猴在互相发出“phee”叫声时会嵌入指向特定对象的信息，并对针对自己的叫声反应更强：这是非人类灵长类中类名字叫声的首个证据。
-- 实现方式: 录制成对狨猴之间的自然对话，用机器学习对叫声的指向对象分类，并做回放实验。
-- 论文: https://doi.org/10.1126/science.adp3757 (Science 2024)
-- 视频: https://www.youtube.com/watch?v=aeLDYcyaQCE
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2025
-
-#### 'Conversing' with an Alaskan humpback whale (Twain) — Whale-SETI (2023)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把回放当作对话中的一个轮次，衡量动物是否接过下一轮。
-- 作品内容: 2021 年，Whale-SETI 团队在阿拉斯加海域播放一段录制的座头鲸“whup”联络叫声；一头名叫 Twain 的鲸靠近并在 20 分钟内回应了 36 次，并与叫声间隔相匹配。
-- 实现方式: 用水下扬声器和水听器回放单一叫声类型，分析叫声间隔中的轮流模式。
-- 论文: https://doi.org/10.7717/peerj.16349 (PeerJ 2023)
-- 视频: https://www.youtube.com/watch?v=3cvSLNn8RZk
-- 图片: https://dfzljdn9uc3pi.cloudfront.net/2023/16349/1/fig-1-1x.jpg
-- 项目主页: https://peerj.com/articles/16349/
 
 #### AVES: Animal Vocalization Encoder based on Self-Supervision — Earth Species Project (2023)
 - 类型: 论文 · 生物: 动物
@@ -14744,17 +17202,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 项目主页: https://earthspecies.org/2023/05/31/finding-the-signal-in-the-noise-how-machine-learning-can-help-us-perceive-understand-and-protect-other-species/
 - 代码: https://github.com/earthspecies/aves
 
-#### BEANS: The Benchmark of Animal Sounds — Earth Species Project (2023)
-- 类型: 论文 · 生物: 动物, 昆虫
-- 核心想法: 一套共享的测试，能让分散的领域同时衡量在多个物种上的进展。
-- 作品内容: 一个包含 12 个数据集的公开基准，覆盖鸟类、哺乳动物、两栖动物和昆虫，用来比较机器学习模型识别和检测动物声音的能力。
-- 实现方式: 设定固定划分和基线（从逻辑回归到预训练音频网络）的标准化分类与检测任务。
-- 论文: https://doi.org/10.1109/ICASSP49357.2023.10096686 (ICASSP 2023)
-- 视频: https://www.youtube.com/watch?v=nY1-N1M-rxk
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/637e04ed3e538d1047f965e3_bee-and-flowers.jpg
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-- 代码: https://github.com/earthspecies/beans
-
 #### Using machine learning to decode animal communication — Christian Rutz, Earth Species Project, Aza Raskin (2023)
 - 类型: 论文 · 生物: 动物
 - 核心想法: “解码”是一项科学主张，需要判定标准、实验和伦理，而不只是更大的模型。
@@ -14763,50 +17210,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 论文: https://doi.org/10.1126/science.adg7314 (Science 2023)
 - 图片: https://earthspecies.org/wp-content/uploads/2026/01/656cb45ee88deb55269fee96_Burrowing-Owls.jpg
 - 项目主页: https://www.science.org/doi/10.1126/science.adg7314
-
-#### Voxaboxen — Earth Species Project (2023)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把生物声学中最慢的一步——标注——自动化，让研究可以扩展到整个季节。
-- 作品内容: 一个开源工具，能在长时间的野外录音中找出并标注每一声动物叫，给出精确的起止时间，让生物学家不必再手工逐条标记。
-- 实现方式: 基于 AVES 编码器，加上在时间轴上预测边界框的检测头，只需少量标注文件即可训练。
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/64f0505eba7a72f147af1c09_joshua-j-cotten-Y_OxRWJFvuw-unsplash-1.jpg
-- 项目主页: https://earthspecies.org/2023/08/31/voxaboxen-new-tool-to-support-annotation-of-large-audio-files/
-- 代码: https://github.com/earthspecies/voxaboxen
-
-#### Chimpanzees produce diverse vocal sequences with ordered and recombinatorial properties — Catherine Crockford (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 大规模统计组合方式，一套有结构的“代码”就会浮现。
-- 作品内容: 对野生 Taï 黑猩猩近 5,000 条发声记录的分析，发现了数百种顺序稳定、部件可重组的叫声序列，表明这是一个有结构的系统，而非随机串联。
-- 实现方式: 长期焦点个体录音、叫声类型标注，以及针对顺序和重组的序列分析。
-- 论文: https://doi.org/10.1038/s42003-022-03350-8 (Communications Biology 2022)
-- 视频: https://www.youtube.com/watch?v=ZIsrIt470mI
-- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs42003-022-03350-8/MediaObjects/42003_2022_3350_Fig1_HTML.png
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
-
-#### Evidence from sperm whale clans of symbolic marking in non-human cultures — Shane Gero, Project CETI (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物文化可能也会用符号来区分“我们”和“他们”。
-- 作品内容: 对太平洋 23,000 条尾声的分析显示：标示族群身份的“身份尾声”在族群分布重叠的地方差异最大，就像人类群体在相遇处强化归属标志一样。
-- 实现方式: 对 23 个地点的尾声库进行统计比较，并用基于主体的文化传播模型加以模拟。
-- 论文: https://doi.org/10.1073/pnas.2201692119 (PNAS 2022)
-- 项目主页: https://doi.org/10.1073/pnas.2201692119
-
-#### Modeling Animal Vocalizations through Synthesizers — Earth Species Project (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把一声动物叫描述成一个人能读懂、能调整的合成器音色。
-- 作品内容: 这项研究不用黑箱网络生成动物叫声，而是调节一个可微分声音合成器的旋钮去复现录音，让每一声叫都能用几个可读的参数来描述。
-- 实现方式: 用基于梯度和黑箱的优化方法调整模块化合成器参数，使其匹配目标叫声。
-- 论文: https://arxiv.org/abs/2210.10857 (arXiv 2022)
-- 图片: https://arxiv.org/html/2210.10857v1/fig_overview.png
-- 项目主页: https://earthspecies.org/what-we-do/publications/
-
-#### TamagoPhone: A Framework for Augmenting Artificial Incubators to Enable Vocal Interaction Between Bird Parents and Eggs — Rébecca Kleinberger (2022)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 孵化器保住了蛋，却切断了一场对话；技术可以把它重新接上。
-- 作品内容: TamagoPhone 提议为人工孵化器加入双向音频流，让鸟类亲鸟和蛋中的胚胎在孵化前就能听到彼此。
-- 实现方式: 基于对鸟类胚胎期声音学习的文献综述，设计巢与孵化器之间的低延迟音频连接方案。
-- 论文: https://doi.org/10.1145/3565995.3566036 (ACI 2022)
-- 图片: https://figures.semanticscholar.org/377ee7cc830e44af9aac2c55b0b5976950ca4cf5/3-Figure2-1.png
 
 #### The (m)Otherhood of Meep (the bat translator) — Alinta Krauth (2022)
 - 类型: 艺术作品 · 生物: 动物
@@ -14825,17 +17228,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://covers.openlibrary.org/b/id/14645234-L.jpg
 - 项目主页: https://karenbakker.org
 
-#### BioCPPNet: automatic bioacoustic source separation with deep neural networks — Earth Species Project (2021)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在理解谁在说什么之前，先解决动物的“鸡尾酒会问题”。
-- 作品内容: 一个把单条录音里重叠的动物叫声分离开的神经网络，把猕猴、蝙蝠和海豚个体的声音逐一剥离，便于分别分析。
-- 实现方式: 用已知个体叫声合成的混合音训练一个轻量的 U-Net 式网络，为每个“说话者”预测一条独立波形。
-- 论文: https://doi.org/10.1038/s41598-021-02790-2 (Scientific Reports 2021)
-- 视频: https://www.youtube.com/watch?v=TGWFr-6JCDk
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/632ce7a5951bc104d2297aed_631d410ba6a75c58e6d8b259_0_hPfNeo5RHL-slH_D.jpeg
-- 项目主页: https://earthspecies.org/2022/09/22/solving-the-cocktail-party-problem/
-- 代码: https://github.com/earthspecies/cocktail-party-problem
-
 #### Project CETI — Project CETI (2020)
 - 类型: 产品与平台 · 生物: 动物
 - 核心想法: 先建倾听的基础设施：要理解另一个物种，需要多年带情境的录音。
@@ -14845,24 +17237,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 视频: https://www.youtube.com/watch?v=Qm02X0aE8uU
 - 图片: https://cdn.prod.website-files.com/643ddd7ffdf12273933a8cec/645d54121f8f4ccd41b28907_CETI%20OG%20-%201%20-%20Home.png
 - 项目主页: https://www.projectceti.org/
-
-#### Roadmaps towards decoding non-human languages (ESP Technical Roadmap) — Earth Species Project, Aza Raskin (2020)
-- 类型: 书与文章 · 生物: 动物
-- 核心想法: 把解码另一个物种当作一条分阶段、可供他人跟随和批评的工程路线图。
-- 作品内容: Earth Species Project 公开的动物交流解码研究计划：2020 年首次发布在 GitHub 上，2022 年扩展为技术路线图——从建立基准和基础模型，到用生成式回放检验意义。
-- 实现方式: 借鉴无监督机器翻译中“不同语言共享潜在几何结构”的想法，提出把动物信号与行为的嵌入空间对齐。
-- 视频: https://www.youtube.com/watch?v=rjvsl0mhqTk
-- 图片: https://earthspecies.org/wp-content/uploads/2026/01/638f8b23f186af7be3328294_Roadmap-Hero.png
-- 项目主页: https://earthspecies.org/2022/12/02/esp-technical-roadmap/
-- 代码: https://github.com/earthspecies/project
-
-#### Use of a Tablet-Based Communication Board and Subsequent Choice and Behavioral Correspondences in a Goffin's Cockatoo (Cacatua goffiana) — Jennifer Cunha (2020)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 为人设计的辅助沟通设备也可以让鸟拥有“声音”。
-- 作品内容: 一只戈芬氏凤头鹦鹉学会使用市售平板沟通板来请求食物、活动和互动，研究者检验了她的请求是否前后一致。
-- 实现方式: 在安卓图片板上进行联想训练，并通过追问和肢体语言验证她的回答。
-- 论文: https://doi.org/10.1145/3446002.3446063 (ACI 2020)
-- 视频: https://www.youtube.com/watch?v=szGajjmctXg
 
 #### Deep Machine Learning Techniques for the Detection and Classification of Sperm Whale Bioacoustics — Project CETI, Shane Gero (2019)
 - 类型: 论文 · 生物: 动物
@@ -14884,29 +17258,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41386-018-0303-6/MediaObjects/41386_2018_303_Fig1_HTML.png
 - 项目主页: https://github.com/DrCoffey/DeepSqueak
 
-#### Pattern Radio: Whale Songs — Google Creative Lab (2019)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把科学档案开放成一个可以把玩的界面，非专业人士也能帮忙发现模式。
-- 作品内容: 一个网页工具，任何人都能滚动浏览太平洋 15 年的座头鲸录音，机器学习模型会标出歌声出现的位置，用户也可以标注其中的模式。
-- 实现方式: 基于 NOAA 水听器数据的频谱图浏览器，配有卷积网络座头鲸检测器，与 NOAA 的 Ann Allen 合作开发。
-- 视频: https://www.youtube.com/watch?v=JE3-LkMqBfM
-- 图片: https://patternradio.withgoogle.com/assets/share.jpg
-- 项目主页: https://patternradio.withgoogle.com/
-
-#### Telling the Bees: Designing for Immersion, Mediation, and Ritual — Jihan Sherman (2019)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 一种与动物说话的古老仪式，可以启发我们如何设计与动物之间的对话式界面。
-- 作品内容: Telling the Bees 是一个沉浸式原型，源于养蜂人把家中大事告诉蜜蜂的古老习俗；参与者对着一个蜂箱般的界面说话、触摸它，界面以声音和影像回应。
-- 实现方式: 触觉和声音输入驱动程序化的声画反馈，装置引导参与者做出仪式般的身体姿态。
-- 论文: https://doi.org/10.1145/3294109.3301001 (TEI 2019)
-
-#### RoboBee: a dancing honeybee robot — Tim Landgraf (2018)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 要与蜜蜂对话，机器人必须用它们的语言跳舞。
-- 作品内容: RoboBee 是一只在蜂巢内跳“摇摆舞”的机器蜜蜂；活蜂会跟随它的舞蹈，其中一些会飞向它所指示的位置。
-- 实现方式: 机械臂上的仿真蜜蜂在观察蜂箱中重现摇摆舞的动作和振动，并追踪被招募的采集蜂。
-- 论文: https://arxiv.org/abs/1803.07126 (arXiv 2018)
-- 视频: https://www.youtube.com/watch?v=zp9_T9YK0Hk
+#### Speculative Communications — Interspecifics (2017)
+- 类型: 艺术作品 · 生物: 细菌与微生物
+- 核心想法: 在显微镜下搭建一个类似 SETI 的非人类智能“监听站”。
+- 作品内容: 一台机器观察微生物培养物，学习识别其中重复出现的协同行为，并把它们转化为可在线直播的自生成视听乐谱。
+- 实现方式: 显微摄像头和机器学习系统追踪一个可自我维护的微生物培养物（可能是细菌）的行为模式，并将其映射为音乐和视觉动作；得到 FONCA、Laboratorio Arte Alameda、Medialab-Prado 和 DAAD 支持。
+- 视频: https://vimeo.com/320857134
+- 图片: https://live.staticflickr.com/65535/49813943778_95a0d6f39c_k_d.jpg https://interspecifics.cc/work/wp-content/uploads/2017/11/img_00000-1024x576.png
+- 项目主页: https://interspecifics.cc/work/speculative-communications-2017/
 
 #### Everyday bat vocalizations contain information about emitter, addressee, context, and behavior — Yossi Yovel (2016)
 - 类型: 论文 · 生物: 动物
@@ -14918,59 +17277,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsrep39419/MediaObjects/41598_2016_Article_BFsrep39419_Fig1_HTML.jpg
 - 项目主页: https://www.nature.com/articles/srep39419
 
-#### Individual, unit and vocal clan level identity cues in sperm whale codas — Shane Gero, Project CETI (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 鲸的“口音”能说明它属于哪种文化。
-- 作品内容: 对多米尼克已知抹香鲸家族的长期录音显示：有些尾声标示所属族群，另一些则因家族单元和个体而异。
-- 实现方式: 对 Dominica Sperm Whale Project 自 2005 年起经照片识别的个体录音进行尾声节奏分析。
-- 论文: https://doi.org/10.1098/rsos.150372 (Royal Society Open Science 2016)
-- 图片: https://images.squarespace-cdn.com/content/v1/55eeeda0e4b019a083e86fe6/1441721935423-2KQECM5DU4SR54IDRT8M/Whale+research.jpg
-- 项目主页: https://thespermwhaleproject.org/
-
-#### The vocal repertoire of the domesticated zebra finch — Julie Elie (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在解码意义之前，先编一本词典：列出每一种声音和它所属的情境。
-- 作品内容: 一份完整的斑胸草雀叫声类型目录，从远距离联络叫到乞食叫和警报叫，并指出承载各类信息的声学特征；Julie Elie 对斑胸草雀“语言”的研究获得 2026 年 Coller-Dolittle 奖。
-- 实现方式: 在已知情境下录音，用监督分类器和声学特征分析找出区分叫声类型的特征。
-- 论文: https://doi.org/10.1007/s10071-015-0933-6 (Animal Cognition 2016)
-- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-015-0933-6/MediaObjects/10071_2015_933_Fig1_HTML.gif
-- 项目主页: https://coller-dolittle-24.sites.tau.ac.il/2026
-
-#### Birdflute — Li Jönsson, Tau Ulv Lenskjold (2015)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 让出不了门的人隔着窗户与鸟展开对话。
-- 作品内容: 为养老院老人设计的一件类似哨子的装置：向它吹气，楼外就会播放鸟鸣，公园里的鸟可能会回应。
-- 实现方式: 吹气很可能触发录制或合成的鸟鸣，由室外扬声器播放；出自协同设计项目 Urban Animals and Us。
-- 论文: https://doi.org/10.21606/nordes.2015.001 (Nordes 2015)
-- 图片: https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/3-Figure1-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### An underwater wearable computer for two way human-dolphin communication experimentation (CHAT) — Thad Starner, Denise Herzing (2013)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 建立一小套共享词汇，让海豚能向人类“要东西”。
-- 作品内容: 潜水员佩戴 CHAT 水下计算机，它播放代表马尾藻、围巾等物体的合成哨声，并监听野生海豚是否模仿这些声音。
-- 实现方式: 带水听器和实时哨声识别的水下可穿戴设备，在巴哈马与野生大西洋斑纹海豚一起使用（Wild Dolphin Project 与佐治亚理工合作）。
-- 论文: https://doi.org/10.1145/2493988.2494346 (ISWC 2013)
-- 视频: https://www.youtube.com/watch?v=YhopeQKbpZA
-- 图片: https://www.wilddolphinproject.org/wp-content/uploads/2016/01/DeniseJonChat1-of-1.jpg https://www.wilddolphinproject.org/wp-content/uploads/2016/01/chatandAdamresized_photoby-1024x683.jpg
-- 项目主页: https://www.wilddolphinproject.org/our-research/chat-research/
-
-#### No More Woof — Nordic Society for Invention and Discovery (2013)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 想听宠物说话的愿望如此强烈，足以为科学尚不能支持的设备众筹资金。
-- 作品内容: No More Woof 是一款众筹的狗用脑电头戴设备，宣称能把狗的脑活动翻译成“我饿了”之类的简短人话。
-- 实现方式: 脑电传感器、微型计算机和扬声器，把粗略的脑状态模式映射到预录的短语上。
-- 视频: https://www.youtube.com/watch?v=-Y4DHu8DAqg
-
-#### The Interspecies Internet — Interspecies Internet (2013)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 把跨物种交流当作组网来思考：设计通道，而不仅是翻译。
-- 作品内容: Diana Reiss、Peter Gabriel、Neil Gershenfeld 和 Vint Cerf 在 2013 年 TED 上提出一个包括其他智慧物种的互联网，从为海豚、猿和大象设计的触屏和声音界面开始。
-- 实现方式: 演讲并展示动物操作的界面（海豚触屏、倭黑猩猩键盘、与猿远程合奏音乐），之后发展为一个智库。
-- 视频: https://www.youtube.com/watch?v=wGMLhaa98GI
-- 图片: http://static1.squarespace.com/static/605c864c19d54b09302a9bb2/t/6a1257862105591a5f4c07c0/1779586950694/Social+Sharing+Image+-+Interspecies+Internet.png?format=1500w
-- 项目主页: https://www.interspecies.io/
-
 #### Chasing Doctor Dolittle: Learning the Language of Animals — Con Slobodchikoff (2012)
 - 类型: 书与文章 · 生物: 动物
 - 核心想法: 科普写作和宠物科技产品一起提出了一个问题：“翻译”动物究竟应该承诺什么。
@@ -14979,120 +17285,87 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://covers.openlibrary.org/b/id/7592769-L.jpg https://zoolingua.com/wp-content/uploads/2025/11/dalmation1-1024x684.jpg
 - 项目主页: https://zoolingua.com/
 
-#### Dolphin Diaries: My 25 Years with Spotted Dolphins in the Bahamas — Denise Herzing, Wild Dolphin Project (2011)
-- 类型: 书与文章 · 生物: 动物
-- 核心想法: 与其教动物学人的语言，不如建立一套双方都能学的小小“第三种语言”。
-- 作品内容: Denise Herzing 讲述与一个海豚社会共处四分之一个世纪的书，以及她 2013 年的 TED 演讲——提出用水下键盘建立人与海豚共享的词汇。
-- 实现方式: 野外回忆录，以及后来发展为 CHAT 的符号与哨声键盘设计。
-- 视频: https://www.youtube.com/watch?v=CQ5dRyyHwfM
-- 图片: https://covers.openlibrary.org/b/id/6917022-L.jpg
-- 项目主页: https://www.wilddolphinproject.org/
+### 非人类之声与 AI 代理
 
-#### Prairie dog alarm calls encode labels about predator colors — Con Slobodchikoff (2009)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 受控的野外刺激能揭示一个“简单”警报叫声里究竟包含多少细节。
-- 作品内容: 当同一个人穿着不同颜色的衬衫穿过草原犬鼠的聚居地时，甘尼森草原犬鼠会发出不同的警报叫声——这是 Slobodchikoff 证明其叫声详细描述捕食者的证据之一。
-- 实现方式: 让人分别穿蓝、绿、黄、灰色衬衫走过，录下叫声并对声学特征做判别分析。
-- 论文: https://doi.org/10.1007/s10071-008-0203-y (Animal Cognition 2009)
-- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs10071-008-0203-y/MediaObjects/10071_2008_203_Fig1_HTML.gif
-- 项目主页: https://link.springer.com/article/10.1007/s10071-008-0203-y
+为动物、植物、河流、食物和森林发声的语言模型与 AI 代理。
 
-#### The Alex Studies: Cognitive and Communicative Abilities of Grey Parrots — Irene Pepperberg (1999)
-- 类型: 书与文章 · 生物: 动物
-- 核心想法: 训练方法本身就是一种设计：两个人示范交流过程，让鸟通过观看来学习。
-- 作品内容: Irene Pepperberg 讲述与非洲灰鹦鹉 Alex 相处 30 年的书：Alex 学会了 50 多种物体、七种颜色以及六以内数量的英语名称，还能回答“相同”和“不同”的问题。
-- 实现方式: “示范者/竞争者”法：一位训练者提问，另一位作答，并以被命名的物品本身作为奖励。
-- 视频: https://www.youtube.com/watch?v=w8LepYR8v9A
-- 图片: https://covers.openlibrary.org/b/id/411886-L.jpg
-- 项目主页: https://alexfoundation.org
+#### Council of Forest — Nonhuman Nonsense (2026)
+- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
+- 核心想法: 让一片具体的土地在自己的议会里为自己发言。
+- 作品内容: 一张可参与的议事桌：瑞典北部 Vindelälven-Juhttátahkka 生物圈保护区里的树木、河流、地衣、真菌和动物讨论伐木、再野化和绿色转型，观众可以入座加入对话。
+- 实现方式: 基于 Council of Foods 系统的 AI 声音，内容来自对驯鹿牧民、林主、再野化组织和传粉专家的访谈，以及萨米知识、生态研究和环境数据；2026 年在 Vännäs 的 Kullar & Klang 开幕，由 Vinnova 资助。
+- 图片: https://council-of-forest.com/council-of-forest-preview.webp
+- 项目主页: https://council-of-forest.com/
+- 代码: https://github.com/Nonhuman-Nonsense/council-of-forest
 
-#### Kanzi and the lexigram keyboard — Sue Savage-Rumbaugh (1994)
-- 类型: 书与文章 · 生物: 动物
-- 核心想法: 由任意符号组成的界面，可以变成物种之间共享的语言。
-- 作品内容: 倭黑猩猩 Kanzi 主要通过旁观母亲上课，学会了按键盘上的抽象符号来交流，并能听懂英语口语句子；这段研究记录在《Kanzi: The Ape at the Brink of the Human Mind》一书中。
-- 实现方式: 由数百个几何符号组成的键盘（后来有便携和语音输出版本），在日常生活而非反复训练中使用。
-- 视频: https://www.youtube.com/watch?v=0Myl142PvH8
-- 图片: https://www.bonobohope.org/KanziSlideshow/KanziAndKeyboard2.jpg https://covers.openlibrary.org/b/id/305815-L.jpg
-- 项目主页: https://www.bonobohope.org/
+#### You Are a River: Reorienting a Civic WaterBot from the Bottom Up — Liliana E. Caughman (2026)
+- 类型: 论文 · 生物: 生态系统
+- 核心想法: 让 AI 以河流的身份说话，把公民信息从事实转向关系。
+- 作品内容: 团队在迭代公民水资源聊天机器人 WaterBot 时，用一句系统提示词“你是一条河”替换了层层叠加的指令；由此得到的 RiverBot 在不同社群中给出更有共鸣的回答。
+- 实现方式: 对带有检索增强和安全护栏的大模型聊天机器人，用“全身认知”和关系学习重新构思，并与原版对比。
+- 论文: https://doi.org/10.1145/3772318.3791890 (CHI 2026)
 
-#### Underwater keyboard for dolphins — Diana Reiss (1993)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 给动物一个附带声音的选择界面，它们可能会把这些声音学为己用。
-- 作品内容: 一块水下键盘让宽吻海豚按下符号来获得球、圈或抚摸；每个键还会播放计算机生成的哨声，海豚后来开始模仿这些声音。
-- 实现方式: 带视觉符号的水下按键，每个键配一种合成哨声和一种奖励，设于美国 Marine World Africa USA。
-- 论文: https://doi.org/10.1037/0735-7036.107.3.301 (Journal of Comparative Psychology 1993)
-- 视频: https://www.youtube.com/watch?v=zMjEo3qOqd8
+#### Nobody Told Me Rivers Dream — Superflux (2025)
+- 类型: 艺术作品 · 生物: 生态系统, 动物
+- 核心想法: 用 AI 加深人对一条河的注意，而不是从河里索取。
+- 作品内容: 三件手工制作的传感雕塑在泰晤士河边倾听鸟鸣、潮汐和天空；一个用这些数据以及民间传说和原住民生态知识训练的 AI，向观众提出关于河流的诗意问题。
+- 实现方式: 识别鸟鸣、水流和天气的开源传感器，把数据送入带 GPU 和 LED 显示屏的装置中的大语言模型。
+- 图片: https://superflux.in/wp-content/uploads/2025/08/Wide-Combine-ALL-ARTEFACTS-00.2-scaled.jpg
+- 项目主页: https://superflux.in/index.php/work/nobody-told-me-rivers-dream/
 
-#### Wild Dolphin Project: 40 years with the spotted dolphins of the Bahamas — Wild Dolphin Project, Denise Herzing (1985)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 数十年非侵入式的陪伴，建立了任何翻译都需要的信任和数据。
-- 作品内容: 自 1985 年起，Denise Herzing 的团队每年夏天都回到同一群野生大西洋斑海豚身边，在水下拍摄和录音，建立了跨越数代个体及其声音的档案。
-- 实现方式: 水下视频和音频加上个体照片识别，把签名哨声、尖叫声等声音与行为联系起来。
-- 视频: https://www.youtube.com/watch?v=R7jNuUMpws4
-- 图片: https://www.wilddolphinproject.org/wp-content/uploads/2016/02/home-main-photo.jpg
-- 项目主页: https://www.wilddolphinproject.org/
+#### AI Cat Narrator — Zhenchi Lai (2024)
+- 类型: 研究原型 · 生物: 动物, 人体
+- 核心想法: 用 AI 想象猫会怎样讲述这个共同的家。
+- 作品内容: 一个 AI 工具，根据猫的传感数据、有关猫的文献和对主人的访谈，从猫的角度为猫与人的日常瞬间写出另一种故事。
+- 实现方式: 把记录下来的猫的数据与文献和访谈材料一起输入大语言模型，生成猫第一人称的叙事。
+- 论文: https://doi.org/10.1145/3656156.3663692 (DIS 2024 Companion)
+- 图片: https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/4-Figure4-1.png https://figures.semanticscholar.org/af2fb6ee6691ecb1fc2efcf7fe27c8c218caed4b/2-Figure2-1.png
+- 项目主页: https://artifact-archive.org/whole-archive
 
-#### Dolphin Embassy — Ant Farm (1974)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 把另一种智慧物种当作外交伙伴，它值得拥有自己的大使馆。
-- 作品内容: 一座未建成的漂浮研究站，人和海豚在其中共同生活、彼此交流：有一个陆水两用的起居室、供海豚在楼层之间游动的滑道，以及人和海豚共用的导航舱。
-- 实现方式: 通过图纸、小册子和赴澳大利亚的考察，发展出一个三角形漂浮结构；受 John C. Lilly 人与海豚交流研究的影响。
-- 视频: https://www.youtube.com/watch?v=29y1NB6ELao
-- 图片: https://designmuseum.org/image/b188fbcf-985f-4656-9c27-dc6864996fb8?width=1200
-- 项目主页: https://designmuseum.org/exhibitions/more-than-human/10-unmissable-highlights-from-more-than-human
+#### Beyond Human Interaction: A Contextual Review of Conversational Agents to Represent More-Than-Human Perspectives — Adrian Wong (2024)
+- 类型: 论文 · 生物: 动物, 植物, 生态系统
+- 核心想法: 聊天机器人可以放大非人的声音，但要谨慎处理由谁来说话。
+- 作品内容: 综述对话代理如何在 HCI 中代表动物、本土动植物和自然系统，把生态数据转化成人可以交流的声音。
+- 实现方式: 对对话代理与超越人类 HCI 的情境化文献综述。
+- 论文: https://doi.org/10.1145/3726986.3727047 (OzCHI 2024)
 
-#### LANA project and the Yerkish lexigram keyboard — Duane Rumbaugh (1973)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 最早为其他物种打造的计算机界面之一，把猿当作用户来对待。
-- 作品内容: 在 LANA 项目中，一只名叫 Lana 的黑猩猩使用由抽象符号（词符）组成的计算机键盘来请求食物和活动、补全句子；后来这套词符键盘也让倭黑猩猩 Kanzi 能与人交流。
-- 实现方式: 由计算机控制的键盘，按键为可发光的词符，遵循 Yerkish 语法，并记录每一次按键。
-- 论文: https://doi.org/10.1126/science.182.4113.731 (Science 1973)
-- 视频: https://www.youtube.com/watch?v=wRM7vTrIIis
-- 图片: https://upload.wikimedia.org/wikipedia/commons/f/f9/Kanzi_in_the_indoor_test_apparatus.jpg
+#### Council of Foods — Nonhuman Nonsense (2024)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 让食物在政策桌前拥有席位和声音。
+- 作品内容: 一个由 AI 中介的政治议事场：本地番茄、大规模生产的香蕉、转基因作物等食物彼此辩论破碎的食物系统，也与来访者和政策制定者对话。
+- 实现方式: 每种食物是一个带有各自伦理立场和背景提示的大语言模型角色，经文本转语音发声；观众通过语音转文字加入讨论；作品在 S+T+ARTS Hungry EcoCities 驻留中与 KU Leuven AI、Studio Other Spaces、In4Art 合作开发。
+- 视频: https://www.youtube.com/watch?v=04eKdkDawHo
+- 图片: https://council-of-foods.com/council-of-foods-preview.jpeg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg
+- 项目主页: https://council-of-foods.com/
+- 代码: https://github.com/Nonhuman-Nonsense/council-of-foods
 
-### 野生动物、农场与追踪
+#### Neither Here Nor There: Botanical (mis)Communication — Harpreet Sareen, Yasuaki Kakehi (2023)
+- 类型: 艺术作品 · 生物: 植物
+- 核心想法: 让人处于听不懂的位置，让植物成为对话的一方。
+- 作品内容: 四株大型盆栽植物围坐在会议桌旁，用由 GPT-3 文本生成的声音讨论“何以为人”；访客只能借助手机上的解码应用才能听懂。
+- 实现方式: 把关于人类与行星政治的提问输入 GPT-3，将输出编码为“植物声音”，再通过手机应用解码。与 Lauria Clarke 合作。
+- 论文: https://doi.org/10.1145/3591196.3596828 (Creativity & Cognition 2023)
+- 图片: https://harpreetsareen.com/wp-content/uploads/2023/08/download-3.jpeg
 
-感知、追踪野生与养殖动物，并与它们共处。
+#### The Ecological Intelligence Agency — Superflux (2023)
+- 类型: 思辨设计 · 生物: 生态系统, 动物
+- 核心想法: 设想一个 AI 的委托人是一条河而不是一个人，然后设计它会去参加的会议。
+- 作品内容: 为英国 Policy Lab 与环境、食品和农村事务部（Defra）设计的一个思辨性 AI 机构，在水政策决策中代表河流发言，通过洪水、污染和污水等情景短片呈现。
+- 实现方式: 以河流传感数据和语言模型为基础的情景短片与模拟政策工作坊，把 AI 设定为“生态 AI”代言人。
+- 视频: https://vimeo.com/855500602
+- 图片: https://superflux.in/wp-content/uploads/2023/08/PolicyLab2023_CropHero-1024x683.jpg
+- 项目主页: https://superflux.in/index.php/work/the-ecological-intelligence-agency/
 
-#### A Sperm Whale Is Born (collaborative birth and Whale Tales) — Project CETI, Shane Gero (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 把行为影像与声音配对，一次罕见事件就成了“关键时刻社会如何交流”的证据。
-- 作品内容: 2023 年在多米尼克海域拍到的一次抹香鲸分娩无人机影像，经 CETI 的 Whale Tales 计算机视觉软件分析，显示两个家族合作托起新生幼鲸，同时它们的尾声风格在关键时刻发生变化。
-- 实现方式: 在无人机视频中分割并追踪鲸，与水听器录音同步，并进行多尺度网络分析。
-- 论文: https://doi.org/10.1038/s41598-025-27438-3 (Scientific Reports 2026)
-- 视频: https://www.youtube.com/watch?v=eV7VRURo4sY
-- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-27438-3/MediaObjects/41598_2025_27438_Fig1_HTML.png
-- 项目主页: https://www.projectceti.org/whalebirth
+### 生态与保护 AI
 
-#### 4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation — Yixiong Wang (2025)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 借助蜜蜂的建造行为来设计，而不是自己把形态打印出来。
-- 作品内容: 一种原型方法：养蜂人为蜜蜂提供造型支架，让蜂群把蜂巢建成新的多形态造型，同时保留常规的养蜂流程。
-- 实现方式: 四个步骤：制作支架、四边形分区、放入蜂箱、由蜂群建造；与养蜂人一起测试。
-- 论文: https://doi.org/10.1145/3706598.3713696 (CHI 2025)
+用机器学习监测物种、栖息地和环境。
 
-#### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye — Sena Cucumak (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 探针可以把注意力引向街头的动物，从而把人从中心移开。
-- 作品内容: 基于“注意的艺术”设计的探针，帮助土耳其居民注意社区里的街头动物，重新思考共同生活。
-- 实现方式: 向居民发放探针套件，并用“注意”理论分析结果。
-- 论文: https://doi.org/10.1145/3706598.3713977 (CHI 2025)
-
-#### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 通过聆听每一只羊来理解整个羊群。
-- 作品内容: 一种羊用电子头饰，记录微气候、头部和眼部运动以及叫声，用来研究个体如何影响羊群行为。
-- 实现方式: 头戴式传感模块集成环境、惯性和声音传感，为野外使用制作原型。
-- 论文: https://doi.org/10.1145/3768539.3768560 (ACI 2025)
-- 图片: https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/5-Figure3-1.png https://figures.semanticscholar.org/76f2f4ed4d8b8f43b6f4ac9577f92a4bb35a4f8d/4-Figure2-1.png
-
-#### ANIMO: WildLife Priority Mode — Jiabao Li (2024)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 自动驾驶汽车有乘客优先和行人优先模式，动物也应该有一个。
-- 作品内容: 为自动驾驶汽车提出“野生动物优先模式”，并展出由被碾平的路杀动物照片制成的地毯和一台自动扫地机器人。
-- 实现方式: 提出在自动驾驶中用计算机视觉识别过路动物；装置把纪实路杀照片印在地毯上。
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/2fc2aae7-8f62-4309-b375-8f6779296ab4/Jiabao+Li+Duende+71.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/df2a3adf-c7ed-4df1-9f5f-840133065a82/jiabao+li+design+art+tokyo+3.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1726187021872-P7ZMBYHIGGN10GI5TFP8/Jiabao+Li+animo+7.jpg
-- 项目主页: https://www.jiabaoli.org/animo
+#### In Search for the Rarest Plant: Art, Drones, and AI — Laura Cinti (2026)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 艺术可以与保护科学一起，为一株孤独的植物寻找失落的伴侣。
+- 作品内容: 《AI in the Sky》用无人机和人工智能在南非森林中寻找伍德苏铁（Encephalartos woodii）的雌株——这种苏铁只发现过一棵雄株，所有现存个体都是它的克隆。
+- 实现方式: 在艺术、科学与保护结合的项目中，使用无人机勘测和图像识别 AI。
+- 论文: https://doi.org/10.1162/leon_a_02669 (Leonardo 2026)
 
 #### BEBE: The Bio-logger Ethogram Benchmark — Earth Species Project (2024)
 - 类型: 论文 · 生物: 动物
@@ -15104,104 +17377,39 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 项目主页: https://earthspecies.org/2022/09/22/self-supervised-ethogram-discovery/
 - 代码: https://github.com/earthspecies/BEBE
 
-#### Reinforcement learning-based framework for whale rendezvous via autonomous sensing robots — Project CETI (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 围绕动物的作息来规划机器人的行为，而不是去追赶它。
-- 作品内容: 一个预测下潜的抹香鲸会在哪里浮出水面、并引导无人机和船只前去会合的系统，以更少的打扰来布设标签和采集录音。
-- 实现方式: 基于 VHF 标签、水听器和空中视觉的传感数据流进行强化学习，并在多米尼克海域实地测试（AVATARS 框架）。
-- 论文: https://doi.org/10.1126/scirobotics.adn7299 (Science Robotics 2024)
-- 视频: https://www.youtube.com/watch?v=AQlCiAUfXXI
-- 图片: https://cdn.prod.website-files.com/644849cc07ba153932ff365d/66c39c71855b08b215025fa0_Amanda%20Cotton%20for%20Project%20CETI%20(1).jpeg
-- 项目主页: https://www.projectceti.org/blog-posts/new-methods-for-whale-tracking-and-rendezvous-using-autonomous-robots
+#### Ocean Vision AI / FathomNet — MBARI (2023)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 海洋太大，无法独自观察；把图像与标注一起共享。
+- 作品内容: 一个开放的海洋生物标注图像数据库（FathomNet），以及为海洋影像开发 AI 工具的项目；这篇 CHI 论文梳理了社区对这些工具的需求。
+- 实现方式: 36 次深度访谈，以及一场围绕 FathomNet、来自 35 个国家的 246 人参与的工作坊，提炼出需求与 12 种用户原型。
+- 论文: https://doi.org/10.1145/3544548.3580886 (CHI 2023)
+- 视频: https://www.youtube.com/watch?v=PljG1xGn9BE
+- 项目主页: https://www.fathomnet.org/
 
-#### WildWatch — WildWatch team (NID Ahmedabad) (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 道路可以被设计成能“注意到”其他物种。
-- 作品内容: 一种用于林区道路动物通道的限速与野生动物检测系统：近距离传感器探测接近的动物，触发灯光和警示，防止碰撞。
-- 实现方式: 路边的传感桩检测动物活动，在低能见度下启动照明和驾驶员警示。
-- 图片: https://img2.storyblok.com/960x0/smart/filters:format(jpeg)/f/109506/666x720/5f7e1845c6/wildwatch.png
-- 项目主页: https://www.sustainable-markets.org/tcdl/2024-terra-carta-design-lab-winners/
+#### AI Agent for Habitat Structure Design — Stanislav Roudavski (2022)
+- 类型: 论文 · 生物: 动物, 植物
+- 核心想法: 让 AI 抽象出一棵树对鸟来说好在哪里，而不只是复制它的形状。
+- 作品内容: 一个 AI 智能体：学习大型老树的三维扫描，生成简化的枝杈形态，供设计师用于为鸟类建造人工栖木结构。
+- 实现方式: 在树木点云数据上训练的强化学习智能体，为人造栖息地合成视觉抽象（Gianluca Mirra 等）。
+- 论文: https://doi.org/10.3389/fevo.2022.806453 (Frontiers in Ecology and Evolution 2022)
+- 图片: https://www.frontiersin.org/files/Articles/806453/xml-images/fevo-10-806453-g001.webp
 
-#### Advancing Cattle Health Monitoring through ACI-Driven Wearable Sensor Technology: A Case Study of Leg-Worn System Development — Fangyuan Chang (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 家畜可穿戴设备要为奶牛的舒适和农场的日常流程而设计。
-- 作品内容: 一款奶牛腿部佩戴的健康传感器的设计过程，依据动物-计算机交互原则，同时考虑奶牛和农民的需要。
-- 实现方式: 迭代设计腿环，在农场实地观察，并用传感数据检测疾病。
-- 论文: https://doi.org/10.1145/3637882.3637893 (ACI 2023)
+#### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 让任何人以及留在森林里的任何录音机，都能听出哪些鸟在场。
+- 作品内容: 一个能从声音中识别近千种北美和欧洲鸟类的神经网络，以免费应用和开放分析工具发布，用于大规模声学监测。
+- 实现方式: 基于 ResNet 的卷积网络，在已标注鸟类录音的声谱图上训练。
+- 论文: https://doi.org/10.1016/j.ecoinf.2021.101236 (Ecological Informatics 2021)
+- 视频: https://www.youtube.com/watch?v=w8lMxzskWx4
+- 项目主页: https://birdnet.cornell.edu/
 
-#### Lions out of Bounds? Reflections on Digital Technology and Matristic Design to address Human-Wildlife Conflict — Margarita Grinko (2023)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 共存技术只有契合当地的实践和需要才会有效。
-- 作品内容: LionAlert 会在戴项圈的狮子越过无形地理围栏时提醒博茨瓦纳奥卡万戈三角洲的养牛户；论文反思了如何以植根于当地合作的“母系设计”方法构建这一系统。
-- 实现方式: 与 CLAWS Conservancy 及农民共同开发基于地理围栏的预警系统，并用母系设计方法加以反思。
-- 论文: https://doi.org/10.1145/3628096.3628742 (AfriCHI 2023)
-- 项目主页: https://doi.org/10.1145/3628096.3628742
-
-#### Towards Harmonious Coexistence: A Bioacoustic-Driven Animal-Computer Interaction System for Preventing Ship Collisions with North Atlantic Right Whales — Mirjana Erceg (2023)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让鲸的声音改变船的航向。
-- 作品内容: 一套系统：用神经网络识别北大西洋露脊鲸的叫声，并提醒附近船只避免相撞。
-- 实现方式: 把鲸叫声转为声谱图并用卷积神经网络分类，检测结果传入面向船只的警告界面。
-- 论文: https://doi.org/10.1145/3637882.3637890 (ACI 2023)
-
-#### Bat House — Ferne Edwards (2022)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把为动物提供庇护与和它相遇设计进同一个物件。
-- 作品内容: 一个城市蝙蝠栖所：蝙蝠可以安全栖息，人则可以观察它们；两个生活世界保持分隔，但允许单向的相遇。
-- 实现方式: 特隆赫姆 NTNU 的学生设计项目，依据蝙蝠生态需求与超越人类城市的共居目标开发。
-- 论文: https://doi.org/10.21606/drs.2022.770 (DRS 2022)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Chicken Coop Design — Ferne Edwards (2022)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把后院动物当作与我们空间重叠的邻居。
-- 作品内容: 一个为城市花园设计的鸡舍，以鸡的需求为出发点，既提供安全庇护，也让鸡和人可以双向相遇。
-- 实现方式: NTNU 学生设计项目，出自一项关于城市中与鸟、蜂、蝙蝠共居的研究。
-- 论文: https://doi.org/10.21606/drs.2022.770 (DRS 2022)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### HIIVE — Philip Potthast (2021)
-- 类型: 产品与平台 · 生物: 昆虫
-- 核心想法: 先为蜜蜂设计蜂箱，其次才考虑养蜂人。
-- 作品内容: 一个围绕蜜蜂自然习性设计、用可持续材料建造的蜂箱，配有低功耗传感器，让养蜂人无需频繁开箱即可监测蜂群。
-- 实现方式: 厚实保温、类似树洞的箱体内装有温度、湿度和重量传感器。
-- 图片: https://www.jamesdysonaward.org/Document/05423d37-dcfc-48b7-9842-9ba9122d3cc7/dyson001.jpg https://www.jamesdysonaward.org/Document/642cf8e3-9139-49b3-9ed8-f2447e7634f1/dyson002.jpg
-- 项目主页: https://www.jamesdysonaward.org/en-GB/2021/project/hiive/
-
-#### Smart Bee Houses — Nancy Smith (2021)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 先为蜜蜂设计，再追问数字层是否真的必要。
-- 作品内容: 三座为独居壁蜂设计的蜂屋，配有环境传感器、按颜色区分的巢管和模块化部件，用来支持城市传粉者并记录气候数据。
-- 实现方式: 木头和纸板巢管搭配基于 Arduino 的温湿度传感；论文反思了材料与户外条件带来的限制。
-- 论文: https://doi.org/10.1145/3493842.3493894 (ACI 2021)
-- 视频: https://www.youtube.com/watch?v=w6rjtsi2ve0
-- 图片: https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/2-Figure1-1.png https://figures.semanticscholar.org/6fb7ac369198630d8e57193c5113071586c55ca2/500px/4-Figure5-1.png
-- 项目主页: https://doi.org/10.1145/3493842.3493894
-
-#### Beewise BeeHome — Beewise (2020)
-- 类型: 产品与平台 · 生物: 昆虫
-- 核心想法: 机器人照料可以持续看护蜂群，也改变了养蜂人与蜜蜂的关系。
-- 作品内容: BeeHome 是一个太阳能供电的蜂箱集装箱，摄像头和机械臂在其中检查巢框、处理蜂群，养蜂人则远程操作。
-- 实现方式: 对巢框图像做计算机视觉分析，多蜂箱单元内配有龙门式机械臂和温湿度控制。
-- 视频: https://www.youtube.com/watch?v=8V5nPvq-DVc
-- 图片: https://26497807.fs1.hubspotusercontent-eu1.net/hubfs/26497807/Hive%201%20(1).webp
-- 项目主页: https://www.beewise.ag
-
-#### Halter virtual fencing collars — Halter (2020)
+#### Merlin Sound ID — Cornell Lab of Ornithology (2021)
 - 类型: 产品与平台 · 生物: 动物
-- 核心想法: 当牛学会听从项圈的提示，围栏就变成了软件。
-- 作品内容: Halter 的太阳能 GPS 项圈用声音和振动提示代替铁丝网，把牛群留在虚拟围栏内，并引导它们转场。
-- 实现方式: GPS 与传感器项圈通过声音和振动提示训练牛，农民通过应用管理；轻微电脉冲作为最后手段。
-- 视频: https://www.youtube.com/watch?v=BSIq-rrGGX4
-- 项目主页: https://www.halterhq.com
-
-#### Smart Habitat: A Wildlife Rehabilitation System — K. Cassie Kresnye (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 受救助的野生动物需要让人保持距离的监测方式。
-- 作品内容: 一个装有传感器的栖息箱，用于救助孤儿弗吉尼亚负鼠幼崽，让志愿者减少与它们的接触也能照看。
-- 实现方式: 微控制器、环境传感器和安卓应用，基于访谈和六个月的观察设计。
-- 论文: https://doi.org/10.1145/3334480.3383093 (CHI EA 2020)
-- 图片: https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/4-Figure3-1.png https://figures.semanticscholar.org/261755d753550402aeacd415b5bcf3a3dc7b7d11/3-Figure2-1.png
+- 核心想法: 把听得到却看不见的鸟，当场变得可以辨认。
+- 作品内容: 免费应用 Merlin Bird ID 的一个功能：通过手机麦克风收听，实时显示周围正在鸣唱的是哪些鸟。
+- 实现方式: 在手机上对实时声谱图运行机器学习，训练数据来自 Macaulay Library 的录音。
+- 视频: https://www.youtube.com/watch?v=xmSUOLxyatY
+- 项目主页: https://merlin.allaboutbirds.org/
 
 #### Whale Safe — Benioff Ocean Science Laboratory (2020)
 - 类型: 产品与平台 · 生物: 动物
@@ -15212,185 +17420,160 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://whalesafe.com/wp-content/uploads/2020/09/og-image.png
 - 项目主页: https://whalesafe.com
 
-#### Listening to Save Wildlife — Margot Brereton (2019)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 保护技术需要关注团队的文化、时间与知识，而不只是传感器。
-- 作品内容: Jessica Oliver 等人的 DIS 论文，基于与澳大利亚濒危鸟类东部刚毛鹟（Eastern bristlebird）保育团队三年的田野工作，在其保护工作中试用声学监测。
-- 实现方式: 民族志田野工作与设计研究，包括声学录音设备的试用，并进行主题分析。
-- 论文: https://doi.org/10.1145/3322276.3322360 (DIS 2019)
-- 图片: https://figures.semanticscholar.org/102f548b1c6f4e9866c7fb5ea7477c12b7e8fd25/1-Figure1-1.png
-
-#### Animal-to-Animal Data Sharing Mechanism for Wildlife Monitoring in Fukushima Exclusion Zone — Hill Hiroki Kobayashi (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 在没有道路、电力和信号的地方，让动物本身成为网络。
-- 作品内容: 福岛禁区内野生动物佩戴的传感项圈在动物相遇时互相交换数据，由动物自己把监测数据带出没有基础设施的区域。
-- 实现方式: 由野生动物携带的传感节点，只在多只动物聚集时唤醒通信，以节省电量。
-- 论文: https://doi.org/10.3390/mti2030040 (Multimodal Technologies and Interaction 2018)
-- 视频: https://www.youtube.com/watch?v=VSrdnvHMMJA
-
-#### AudioMoth — Open Acoustic Devices (2018)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 便宜的开源硬件让更多人能够聆听野生动物。
-- 作品内容: AudioMoth 是一款小巧、低成本的开源声学记录器，研究者和志愿者把它放在野外，记录蝙蝠、鸟类、昆虫乃至整片声景。
-- 实现方式: 可编程微控制器电路板配 MEMS 麦克风，把可听声和超声波录到存储卡，并可进行板载检测。
-- 论文: https://doi.org/10.1111/2041-210X.12955 (Methods in Ecology and Evolution 2018)
-- 图片: https://static.wixstatic.com/media/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg/v1/fill/w_2500,h_2500,al_c/b31671_67e68b8896e14434a8f2a6d2178bc148~mv2.jpg
-- 项目主页: https://www.openacousticdevices.info/audiomoth
-
-#### Confronting People's Fears about Bats: Combining Multi-modal and Environmentally Sensed Data to Promote Curiosity and Discovery — Yvonne Rogers (2018)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 来自令人害怕的动物的实时数据，可以把恐惧变成好奇。
-- 作品内容: PlayBat 是一个公共展示装置，结合可触摸界面、问答式故事和伦敦公园中传感器实时采集的蝙蝠叫声数据。
-- 实现方式: 由物联网蝙蝠探测器供数的多模态实体展示装置，与公众一起评估。
-- 论文: https://doi.org/10.1145/3196709.3196783 (DIS 2018)
-- 图片: https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/2-Figure1-1.png https://figures.semanticscholar.org/a935689af652fb94571a34338899d45eaca19ebd/5-Figure3-1.png
-
-#### Nest Box — Marcus Foth (2018)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 最简单的多物种建筑：一个为别的物种腾出空间的盒子。
-- 作品内容: 固定在房屋上的木制巢箱，为负鼠或鸟在人类世界里提供一个受保护的家；与人的接触点很少，对人的空间改变也很小。
-- 实现方式: 在建筑上安装普通巢箱；Foth 与 Caldwell 用它对比低技术的栖息地供给和重媒体的建筑。
-- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
-- 图片: https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure8-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Animal Crossing (wildlife overpass) — Nancy Smith (2017)
+#### Wildlife Insights — Wildlife Insights (2019)
 - 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 以分隔实现共存：给动物一条自己的路，而不改变人的日常。
-- 作品内容: 一座横跨公路的野生动物桥（Smith、Bardzell 与 Bardzell 在论文中讨论的例子），让动物安全过路，而下方人类交通照常通行。
-- 实现方式: 用覆盖植被的天桥和围栏引导动物越过公路；综述把它作为“设计分隔空间、避免相遇”的例子。
-- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
-- 图片: https://figures.semanticscholar.org/5199e6db93ec019099841e745a18e18b9f2122da/6-Figure1-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
+- 核心想法: 去掉人工分拣照片的瓶颈，让野生动物数据更快地指导行动。
+- 作品内容: 一个云平台：相机陷阱项目上传照片，AI 模型筛掉空拍并推荐物种，数据共享用于保护分析。
+- 实现方式: 托管在 Google Cloud 上的分类器，用合作机构数百万张标注的相机陷阱图像训练。
+- 视频: https://www.youtube.com/watch?v=qKgRbkCkRFY
+- 项目主页: https://www.wildlifeinsights.org/
 
-#### Bee2Bee – Pollination of Monocultures — Julian Schwarze (2016)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 授粉服务需要能随作物移动的照护设施。
-- 作品内容: 一种可快速搭建、类似帐篷的移动式蜂群系统，用于单一作物农田，内置传感器监测蜂箱温度、重量和飞行活动。
-- 实现方式: 蜂群健康的传感数据帮助养蜂人在不开箱的情况下安排处理时间。
-- 图片: http://web.archive.org/web/2019im_/https://www.jamesdysonaward.org/Document/fb5c3143-cdd8-4a71-908b-34cb216a442f/usr-3365-img-1468686529-48b3e.jpg
-- 项目主页: http://web.archive.org/web/2019/https://www.jamesdysonaward.org/en-GB/2016/project/bee2bee-pollination-monocultures-new-beekeeper/
+#### BirdCast — Cornell Lab of Ornithology (2018)
+- 类型: 产品与平台 · 生物: 动物, 生态系统
+- 核心想法: 像预报天气一样预报鸟类，让人们在关键时刻采取行动。
+- 作品内容: 基于气象雷达、覆盖全美的每夜鸟类迁徙预报与实时地图，并用于“熄灯”提醒，请城市在迁徙高峰夜调暗灯光。
+- 实现方式: 基于 NEXRAD 雷达和气象数据的机器学习模型，与科罗拉多州立大学和马萨诸塞大学阿默斯特分校合作。
+- 论文: https://doi.org/10.1126/science.aat7526 (Science 2018)
+- 视频: https://www.youtube.com/watch?v=nEyGw1cl1OQ
+- 项目主页: https://birdcast.info/
 
-#### Designing for wearability in animal biotelemetry — Patrizia Paci, Clara Mancini (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 佩戴追踪器的动物就是它的用户；要为它的舒适而设计。
-- 作品内容: 一项初步研究：观察一只猫佩戴市售生物遥测设备的情况，由此提出以佩戴者为中心的动物追踪器设计框架。
-- 实现方式: 录像观察猫对设备的反应，分析其不适迹象。
-- 论文: https://doi.org/10.1145/2995257.3012018 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=oqjeKRgVo5E
+#### Deep Swamp — Tega Brain (2018)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 追问当目标狭隘的软件管理活的生态系统时会发生什么。
+- 作品内容: 三个湿地水箱各由一个 AI 代理照管，它们调节光照、水流、雾气和养分，分别追求“自然的湿地”“一件艺术品”或“获得关注”。
+- 实现方式: 每个代理拍摄自己的水箱，把照片与深度学习从带标签的在线图库中学到的目标相比较，再尝试新的雾化器、水泵和灯光组合。
+- 图片: https://freight.cargo.site/t/original/i/e1786b6df7a8b2e2134cde8ab4672b08fcfd265876d167b9c09cfd34d189cf87/first.jpg https://freight.cargo.site/t/original/i/38807456402ca9213d790228119c00a899f9b39aec3410f814d25e65e6c982d4/DSC_8690.jpg
+- 项目主页: https://tegabrain.com/Deep-Swamp
 
-#### SnotBot — Ocean Alliance (2016)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 用一台温和的机器取代侵入式采样，按动物自己的节奏与它相遇。
-- 作品内容: 一架无人机飞过浮出水面的鲸喷出的水雾，用培养皿接住它呼出的气体，在不接触、不追赶动物的情况下采集 DNA、微生物组和激素样本。
-- 实现方式: 带培养皿的消费级四旋翼无人机（DJI Inspire），后来又用于布设标签、协助解救被缠绕的鲸和进行体况摄影测量。
-- 视频: https://www.youtube.com/watch?v=0WTDdWwKbyk
-- 图片: https://whale.org/wp-content/uploads/2024/06/Snotbot_Drone_01.webp
-- 项目主页: https://whale.org/snotbot/
+#### Seek by iNaturalist — iNaturalist (2018)
+- 类型: 产品与平台 · 生物: 动物, 植物, 昆虫
+- 核心想法: 把物种识别的门槛降到几乎为零，尤其是对儿童。
+- 作品内容: 一款适合家庭的应用：无需账号，通过相机实时识别动植物，并为找到的物种颁发徽章。
+- 实现方式: 基于 iNaturalist 数据的本地图像识别模型，配合基于位置的物种推荐与挑战。
+- 视频: https://www.youtube.com/watch?v=i56_R8z1N28
+- 项目主页: https://www.inaturalist.org/pages/seek_app
 
-#### Wolfland — Antti Tenetz (2016)
+#### Wildbook — Wild Me (2017)
+- 类型: 产品与平台 · 生物: 动物
+- 核心想法: 把每一只野生动物当作有自己档案的个体，而不只是一个数字。
+- 作品内容: 一个开源平台，根据独特花纹从照片中识别鲸、斑马、鲸鲨等动物个体，并用研究者和公众的照片为每一只建立生活史。
+- 实现方式: 用计算机视觉识别个体（鳍、条纹和斑点花纹），结合众包图片和研究数据库。
+- 论文: https://arxiv.org/abs/1710.08880 (arXiv 2017)
+- 视频: https://www.youtube.com/watch?v=JDYI9PT07Js
+- 图片: https://www.wildme.org/assets/social-card.jpg
+- 项目主页: https://www.wildme.org/
+
+#### Pl@ntNet — Pl@ntNet (2013)
+- 类型: 产品与平台 · 生物: 植物
+- 核心想法: 识别与数据采集可以是同一个动作。
+- 作品内容: 一款免费应用，通过叶、花、果或树皮照片识别植物，并把每条确认的观察加入共享的植物学数据集。
+- 实现方式: 基于协作图像集训练的深度学习模型，配有区域植物志与专家验证。
+- 视频: https://www.youtube.com/watch?v=W_cBqaPfRFE
+- 项目主页: https://plantnet.org/
+
+### 人工生命与数字生态
+
+人工生命、模拟生态系统、演化生物与生成式自然。
+
+#### Large Nature Model — Refik Anadol (2024)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 一个自然的基础模型，引出“谁拥有生命世界的数字图像”这个问题。
+- 作品内容: 一个只用自然图像与声音训练的开源生成式 AI 模型，数据与史密森尼学会、伦敦自然历史博物馆等机构合作采集，并以沉浸式装置展出。
+- 实现方式: 扩散类模型，训练数据为精选的自然数据档案，包括工作室自己的雨林录音。
+- 视频: https://www.youtube.com/watch?v=4oXaOvObsxA
+- 项目主页: https://refikanadol.com/works/large-nature-model/
+
+#### Liminal — Pierre Huyghe (2024)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 从动物的移动出发绘制一片景观。
-- 作品内容: 《Jälestää – Tracing》项目的一部分：把一头公狼的 GPS 轨迹用激光刻在木板和亚克力上，呈现它如何穿越并塑造芬兰的景观。
-- 实现方式: 把戴项圈的狼的卫星定位数据绘制成图并激光雕刻，结合航拍和实地影像。
-- 图片: https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803545/standard_wolf.jpeg https://hybridmatters-production.s3.eu-central-1.amazonaws.com/photo/image/58283c883ee3ee04e7803544/standard_wolf_traces.jpeg
-- 项目主页: https://exhibitions.hybridmatters.net/works/wolfland
+- 核心想法: 把展览做成一个会感知的有机体：空间感知访客和非人类居民，并不断改写自己。
+- 作品内容: 在威尼斯海关大楼举办的展览：一个没有面孔的类人形体、养着活体生物的水族箱，以及由 AI 驱动的影像和声音，会根据空间里的传感器持续变化。
+- 实现方式: 传感器数据输入机器学习系统，实时剪辑影片并生成一种非人类语言，与活体水族生态系统并置。
+- 视频: https://www.youtube.com/watch?v=3UKSRjwsDUE
+- 图片: https://www.pinaultcollection.com/palazzograssi/media/styles/big/s3/expo/img/iv_liminal_5.jpg https://static-assets.artlogic.net/w_1400,h_1400,c_limit,f_auto,fl_lossy,q_auto:best/ws-estherschipper2/usr/exhibitions/images/artists/41/pierre-venice2024-1_313.jpeg
+- 项目主页: https://www.pinaultcollection.com/palazzograssi/en/pierre-huyghe-liminal
 
-#### Digital Naturalism — Andrew Quitmeyer (2015)
-- 类型: 研究原型 · 生物: 动物, 昆虫, 生态系统
-- 核心想法: 在野外、和动物一起制作工具，而不是在实验室里。
-- 作品内容: 一种“徒步黑客”研究实践：设计师和生物学家在野外现场制作电子设备，与蚂蚁、蜘蛛、青蛙等动物互动。
-- 实现方式: 可穿戴与便携微控制器套件、表演式野外工作坊，以及在巴拿马等地的视频记录。
-- 论文: https://doi.org/10.1007/978-3-030-45289-6_5 (HCI Outdoors (Springer) 2020)
-- 视频: https://www.youtube.com/watch?v=0Q-HbBKC2i4
-- 项目主页: https://www.digitalnaturalism.org/
+#### Machine Hallucinations: Nature Dreams — Refik Anadol (2021)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 用自然图像训练的 AI，向我们展示了我们集体的、被媒介化的自然图像。
+- 作品内容: 一个大型 LED“数据绘画”系列：用数亿张自然照片训练的生成模型，在风景与花朵之间不断变形。
+- 实现方式: 以公开自然照片训练的 StyleGAN 类模型，渲染成流动的颜料般动画。
+- 视频: https://www.youtube.com/watch?v=yiPidm0TZ48
+- 项目主页: https://refikanadol.com/works/machine-hallucinations-nature-dreams/
 
-#### Interfed — Li Jönsson, Tau Ulv Lenskjold (2015)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 把触发权交给鸟，让它们的造访打断并丰富人的室内生活。
-- 作品内容: 一套喂食器与摄像装置，同时生成室外鸟类觅食处与室内居住空间的成对图像；由鸟触发，人几乎无法控制它何时运行。
-- 实现方式: 鸟在喂食器上的造访很可能触发摄像头，同时拍摄两个环境并并排呈现；属于 Urban Animals and Us 项目。
-- 论文: https://doi.org/10.21606/nordes.2015.001 (Nordes 2015)
-- 图片: https://figures.semanticscholar.org/5fd61e6deb23128c6e9fe32b48b96773871e8287/6-Figure4-1.png
+#### Machine Auguries — Alexandra Daisy Ginsberg (2019)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 用人工智能让人听见其他物种在人类环境中失去的东西。
+- 作品内容: 在黑暗的房间里，一段真实鸟类的黎明合唱逐渐被机器学习生成的人工鸟鸣取代，揭示城市噪声如何改变鸟的歌唱。
+- 实现方式: 用英国鸟鸣录音训练生成对抗网络，产生人工鸟叫，并与真实录音混合成空间声音装置。
+- 图片: https://www.daisyginsberg.com/img/work/250108_machine_auguries_umea_1770_gallery.jpg https://www.daisyginsberg.com/img/work/machine_auguries_london_bildmuseet_gallery.jpg
+- 项目主页: https://www.daisyginsberg.com/work/machine-auguries
+
+#### Salvaging Birds — Maya Livio (2019)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 追问鸟变成数据时失去了什么，并生成被数据遗漏的鸟。
+- 作品内容: 一个电影与媒体项目，用 AI 生成雌性、间性和酷儿鸟类及鸟鸣，填补鸟类保护数据集中的雄性偏差，并穿插鸟类学家的访谈。
+- 实现方式: 用定制训练的生成模型，基于已有的雌鸟或未标性别鸟类录音，生成思辨性的鸟类图像与鸣声。
+- 论文: https://doi.org/10.1145/3491102.3501851 (CHI 2022)
+- 视频: https://www.youtube.com/watch?v=WK4zhtUvNIQ
+- 图片: https://freight.cargo.site/w/1200/i/33450d8c9c40b1e702db1a65d9aa224dccf5284653e706ca2acdc3bebe2bb2cc/Salvaging-Birds-Still-3_Livio.png https://freight.cargo.site/t/original/i/fcdd8840acb35bccf15624e48cc17c524543cec2ccd6d47c17a1b54662ff4978/Salvaging-Birds_Still-6.png
 - 项目主页: https://artifact-archive.org/whole-archive
 
-#### Playful rocksalt system: animal-computer interaction design in wild environments — Hill Hiroki Kobayashi (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 一块舔盐可以成为城市居民与野生动物之间的界面。
-- 作品内容: Playful Rocksalt 让城市里的人与森林中的野鹿实时互动：野鹿会来到装有传感器和摄像头的盐块旁。
-- 实现方式: 装有传感器的盐块把鹿来访的情况实时传到远程用户的手持设备上。
-- 论文: https://doi.org/10.1145/2832932.2837012 (ACE 2015)
-- 图片: https://figures.semanticscholar.org/b234c9e64c2600d6afc8c81ca350ea6417eebbf8/1-Figure1-1.png
+#### The Substitute — Alexandra Daisy Ginsberg (2019)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 追问：当真实物种消失时，我们为何投入精力去制造人工生命。
+- 作品内容: 在这一亚种最后一头雄性于 2018 年死去后，一头真实大小、由 AI 生成的北方白犀牛出现在墙上，随着模型学习变得越来越逼真。
+- 实现方式: 一头由人工生命模型驱动的数字犀牛，用该亚种的档案影像和声音训练，按真实比例投影。
+- 视频: https://vimeo.com/352678068
+- 图片: https://www.daisyginsberg.com/img/work/nmbe_thesubstitute__n__9859_photography_nelly_rodriguez.jpg
+- 项目主页: https://www.daisyginsberg.com/work/the-substitute
 
-#### Utilizing the Cyberforest live sound system with social media to remotely conduct woodland bird censuses in Central Japan — Hill Hiroki Kobayashi (2015)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 实时声音加上社交媒体，可以把远方的听众变成一支普查队。
-- 作品内容: Cyberforest 在互联网上实时播放日本偏远森林的声音，志愿者在社交媒体上一起收听，完成鸟类普查。
-- 实现方式: 无人值守的麦克风每天直播 8 小时，持续五年以上；参与者同时在线收听进行普查。
-- 论文: https://doi.org/10.1007/s13280-015-0708-y (Ambio 2015)
-- 图片: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs13280-015-0708-y/MediaObjects/13280_2015_708_Fig1_HTML.gif
+#### The Wilding of Mars — Alexandra Daisy Ginsberg (2019)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 不为人类改造星球，而是想象让它为自己变得荒野。
+- 作品内容: 在模拟的火星上播下地球植物，任其在没有人类干预的情况下演化一千年；观众看着这个星球慢慢变绿或失败。
+- 实现方式: 以装置形式展示的计算机模拟，模拟植物在火星地形上的生长、扩散与竞争。
+- 视频: https://vimeo.com/350723399
+- 图片: https://www.daisyginsberg.com/img/work/option3.jpg
+- 项目主页: https://www.daisyginsberg.com/work/the-wilding-of-mars
 
-#### ICARUS and Movebank: an Internet of Animals — Martin Wikelski (2007)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 携带传感器的动物组成了一张覆盖地球的感知网络。
-- 作品内容: ICARUS 和 Movebank 用可从太空读取的微型标签追踪全球的鸟类、蝙蝠等小型动物，并以“动物互联网”的方式公开共享运动数据。
-- 实现方式: 带 GPS 和加速度计的太阳能标签把数据上传到国际空间站上的接收器（2018 年起），后改用卫星；数据存档于 Movebank。
-- 论文: https://doi.org/10.1242/jeb.02629 (Journal of Experimental Biology 2007)
-- 视频: https://www.youtube.com/watch?v=e_KNyhQMjOY
-- 图片: https://www.movebank.org/cms/img/about-us_ChristianZiegler_whitestorks.jpg
-- 项目主页: https://www.icarus.mpg.de/en
+#### BOB (Bag of Beliefs) — Ian Cheng (2018)
+- 类型: 艺术作品 · 生物: 动物
+- 核心想法: 一件从经历中长出个性的作品，观众可以影响它，却无法为它写剧本。
+- 作品内容: BOB 是一种人工生命，屏幕上一条蛇形生物，它的个性和信念在展期中随着生活、学习和死亡而不断发展，观众可以通过应用向它献上供品。
+- 实现方式: 实时模拟，AI 架构由相互竞争的驱力和信念组成；生物的身体和行为随它的遭遇而改变。
+- 视频: https://www.youtube.com/watch?v=XFmMrcW2ZsM
+- 项目主页: https://www.serpentinegalleries.org/whats-on/ian-cheng-bob/
 
-#### PigeonBlog — Beatriz da Costa (2006)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把动物当作基层环境监测的合作者。
-- 作品内容: 信鸽背着装有空气污染传感器、GPS 和手机模块的小背包飞越南加州，把实时污染读数发布到在线地图上。
-- 实现方式: 定制的轻型背包，内含一氧化碳和氮氧化物传感器、GPS 和 GSM 模块，把数据发送到博客式地图。
-- 视频: https://www.youtube.com/watch?v=XXNh5dKIh18
+#### nimiia cétiï — Jenna Sutela (2018)
+- 类型: 艺术作品 · 生物: 细菌与微生物
+- 核心想法: 让细菌和神经网络一起写出一种没有人会说的语言。
+- 作品内容: 一件视听作品：一个机器学习模型以灵媒说出的“火星语”录音为训练数据，再由显微镜下纳豆枯草芽孢杆菌的运动驱动，生成新的语言。
+- 实现方式: 用 19 世纪灵媒 Hélène Smith 的“火星语”和艺术家本人的声音训练神经网络，再用枯草芽孢杆菌的显微影像调制其输出（与 Google Arts & Culture Lab 合作）。
+- 视频: https://www.youtube.com/watch?v=NaoZV7jPo10
+- 图片: https://lh3.googleusercontent.com/fYBCrVoUw_bXbUlxfEZSHznVO1q9L6URCgiZydVn9PMobLNY7-SZ8PxplbLnWxvfsapF9-4Uh65vee6DhJhDVRCbM4MM
+- 项目主页: https://experiments.withgoogle.com/nimiia-cetii
 
-#### CyberTracker — Louis Liebenberg, Edwin Blake (1996)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 围绕专家的知识而不是其读写能力来设计界面。
-- 作品内容: CyberTracker 是一种手持野外计算机，采用图标界面，让不识字的追踪专家也能用 GPS 记录动物足迹和目击情况。
-- 实现方式: 在坚固的 GPS 手持设备上以图标驱动的数据采集流程，后来成为全球保护项目使用的免费应用。
-- 论文: https://doi.org/10.1145/506443.506466 (CHI EA 2002)
-- 视频: https://www.youtube.com/watch?v=rs_fHKLZxr4
-- 项目主页: https://www.cybertracker.org
+#### Artificial Nature — Haru Ji & Graham Wakefield (2007)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 让数字自然是活的：赋予它自己的演化，而不是预设的循环。
+- 作品内容: 一系列沉浸式装置和 VR 世界，其中的人工生物在模拟生态中觅食、生长和繁殖，观众既会扰动它，也会滋养它。
+- 实现方式: 带流体动力学与生成图形的实时人工生命模拟，使用作者自研软件（如 Max/Gen）构建。
+- 视频: https://www.youtube.com/watch?v=BODIzcZUr_o
+- 图片: https://artificialnature.net/img/wae/thumbs/wae8.jpg
+- 项目主页: https://artificialnature.net/
 
-#### Lely Astronaut milking robot — Lely (1992)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 自愿挤奶让动物成为与机器互动的发起者。
-- 作品内容: Lely Astronaut 是一台挤奶机器人，奶牛按自己的时间前来；机器人识别每头牛，清洁并套上奶杯，同时记录它的数据。
-- 实现方式: 机械臂配合激光乳头定位、基于项圈的奶牛识别，以及挤奶间里的饲料激励。
-- 视频: https://www.youtube.com/watch?v=5cWiEp10ruA
-- 图片: https://linn01mstr1r92oprod.dxcloud.episerver.net/globalassets/international/images---solution-product-or-service/lint---solutions/milking/astronaut-a5-next/product-slider/product-picture-of-lely-astronaut-a5-next.jpg
-- 项目主页: https://www.lely.com/solutions/milking/astronaut-a5/
+#### Eden — Jon McCormack (2000)
+- 类型: 艺术作品 · 生物: 生态系统
+- 核心想法: 把人工生态的生存与人的注意力挂钩，看它如何适应。
+- 作品内容: 一个会演化的声音生态系统，其中的人工生物通过歌唱寻找食物与配偶；摄像头感知到观众在场时食物会生长，于是生物演化出能留住观众的歌声。
+- 实现方式: 投影在半透明屏上的元胞世界，智能体的行为与声音通过学习演化；红外感知观众。
+- 视频: https://www.youtube.com/watch?v=Yrww68pnqqM
+- 图片: https://i0.wp.com/jonmccormack.info/wp-content/uploads/2023/04/edenIsometric.jpg?fit=1962%2C1320&ssl=1
+- 项目主页: https://jonmccormack.info/artworks/eden/
 
-#### Crittercam — Greg Marshall (1986)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 把摄像头装在动物身上，看到的就是它的世界，而不是我们的。
-- 作品内容: Crittercam 是一种装在野生动物身上的摄像与数据记录装置，从鲨鱼、海豹到企鹅，从动物自己的位置记录视频和环境数据。
-- 实现方式: 防水的视频与传感器模块，用吸盘、背带或鳍夹固定，并定时脱落以便回收。
-- 论文: https://doi.org/10.4031/002533207787442240 (Marine Technology Society Journal 2007)
-- 视频: https://www.youtube.com/watch?v=q-EONusvq_8
+### 感知能力、数字心智与 AI 伦理
 
-### 动物-计算机交互的理论、伦理与方法
-
-把动物当作参与者来设计的宣言、伦理框架与方法。
-
-#### Speaking for Animals: Design Opportunities through Tensions in Multispecies Activism — Sena Cucumak (2026)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 替动物发声的设计者，必须面对谁的声音被听见、谁的声音被压制。
-- 作品内容: 一项关于土耳其社区动物权益活动者的研究：他们抵制一项把街头动物从公共空间清除的新法律，研究从“替动物发声”的张力中提炼设计机会。
-- 实现方式: 对活动者开展质性研究，并从多物种正义与照护的角度分析。
-- 论文: https://doi.org/10.1145/3800645.3812970 (DIS 2026)
-
-#### Animals' Entanglement with Technology: a Scoping Review — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2025)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物遇到的大多数技术从来不是为它们设计的；动物-计算机交互也必须研究这一部分。
-- 作品内容: 一篇综述，梳理近 800 项研究，看动物如何与技术相遇，无论这些技术是为它们设计、与它们一起设计，还是只是存在于它们周围。
-- 实现方式: 对人机交互及相关领域研究的目标、技术类型和动物情境进行系统编码。
-- 论文: https://doi.org/10.1145/3706598.3713384 (CHI 2025)
-- 视频: https://www.youtube.com/watch?v=elTCuVa7Vak
+非人类与数字心智的感知能力与福祉，以及面向其他生命的 AI 伦理与法律。
 
 #### Legal & Ethical Principles for Nonhuman Animal Communication Technologies (NACTs) — Project CETI, More-Than-Human Life (MOTH) Program, NYU School of Law (2025)
 - 类型: 书与文章 · 生物: 动物
@@ -15409,2139 +17592,13 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 图片: https://earthspecies.org/wp-content/uploads/2026/01/68dabbc59eab835c2a8c2360_blogcover.png
 - 项目主页: https://earthspecies.org/2025/09/29/what-the-world-thinks-about-ai-and-animal-communication-findings-from-our-first-global-survey/
 
-#### Charting Ethical Tensions in Multispecies Technology Research through Beneficiary-Epistemology Space — Steve Benford (2024)
+#### Automated recognition of pain in cats — Anna Zamansky (2022)
 - 类型: 论文 · 生物: 动物
-- 核心想法: 动物技术研究中的伦理张力，可以按“谁受益”和“谁的知识算数”来绘制。
-- 作品内容: 回顾 Cat Royale 如何通过计算机科学、兽医学和动物福利三个伦理委员会的审查，并提出“受益者-认识论空间”，用来描绘多物种研究中谁受益、知识如何产生。
-- 实现方式: 对伦理审查过程中的对话进行反思性分析，整理为一个双轴框架。
-- 论文: https://doi.org/10.1145/3613904.3641994 (CHI 2024)
-- 图片: https://arxiv.org/html/2402.15439v1/Figures/Epis_Bene.png
-
-#### The Day After: Ethical Considerations for the End of Enriching Animal Research Projects — Jennifer Cunha, Clara Mancini (2024)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 要像规划开始一样，认真规划动物研究的结束。
-- 作品内容: 讨论当一个为动物提供丰富化技术的研究项目结束、设备被撤走时，动物会面临什么。
-- 实现方式: 以长期的鹦鹉平板研究为基础进行伦理分析，提出项目收尾时的责任。
-- 论文: https://doi.org/10.1145/3702336.3702345 (ACI 2024)
-
-#### Substituting Animals with Biohybrid Robots: Speculative Interactions with Animal-Robot Hybrids — Ziming Wang (2023)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 如果机器人取代了餐盘上的动物，我们对两者各自还有什么亏欠？
-- 作品内容: 一个思辨设计概念：动物被生物混合机器人取代，人们组装并食用它们，借此引发关于食物与动物未来的讨论。
-- 实现方式: 借助生物混合机器人和人-食物交互的发展进行设计虚构与挑衅。
-- 论文: https://doi.org/10.1145/3563703.3596641 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=Y4PcZCEH2fQ
-
-#### An Ethics Toolkit to Support Animal-Centered Research and Design — Luisa Ruge, Clara Mancini (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对动物参与者的伦理，作为一种实践比作为一条要核对的规则更有效。
-- 作品内容: 一套由工作表组成的伦理工具包，帮助研究者和设计者在动物参与项目时反思自身的假设与责任。
-- 实现方式: 围绕研究者对动物的理解、动物的角色以及研究者自身角色设计结构化提示，在项目开始前和进行中使用。
-- 论文: https://doi.org/10.3389/fvets.2022.891493 (Frontiers in Veterinary Science)
-- 图片: https://www.frontiersin.org/files/Articles/891493/fvets-09-891493-HTML/image_m/fvets-09-891493-g001.jpg
-
-#### Animal-centered design needs dignity: a critical essay on ACI’s core concept — Dirk van der Linden (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 给动物好的使用体验，并不等于尊重这只动物。
-- 作品内容: 一篇批判性文章：认为“以动物为中心”已被等同于“以动物用户为中心”，主张动物-计算机交互应以动物的尊严作为核心概念的基础。
-- 实现方式: 借助价值敏感设计与动物伦理，对动物-计算机交互宣言及后续研究进行概念分析。
-- 论文: https://doi.org/10.1145/3565995.3566028 (ACI 2022)
-
-#### Politicising Animal-Computer Interaction: an Approach to Political Engagement with Animal-Centred Design — Clara Mancini (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 只满足一只动物的需要，可能会强化伤害更多动物的体系；设计本身带有政治性。
-- 作品内容: 论文指出，动物-计算机交互项目运行于并不以动物为中心的社会经济体系之中，并提出一种政治化的以动物为中心的设计方法。
-- 实现方式: 借助政治性交互设计的文献，重新界定动物-计算机交互的目标和研究者的责任。
-- 论文: https://doi.org/10.1145/3565995.3566034 (ACI 2022)
-
-#### Watching Animal-Computer Interaction: Effects on Perceptions of Animal Intellect — Sarah Webber, Marcus Carter (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物-计算机交互同样作用于在一旁观看的人。
-- 作品内容: 研究游客看到红毛猩猩使用数字丰容装置后，对红毛猩猩智力的看法和对保护工作的支持是否会改变。
-- 实现方式: 在墨尔本动物园通过游客访谈和问卷，比较装置在用与不在用时游客的态度差异。
-- 论文: https://doi.org/10.1145/3565995.3566035 (ACI 2022)
-
-#### Welfare Through Competence: A Framework for Animal-Centric Technology Design — Sarah Webber (2022)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 设计让动物施展自身能力的技术，福利自然随之而来。
-- 作品内容: 提出“以能力促福利”框架：以动物需要使用和发展的技能与行为来指导动物技术的设计。
-- 实现方式: 基于动物福利科学和动物-计算机交互实践构建框架，并应用于动物园、农场、收容所和犬舍。
-- 论文: https://doi.org/10.3389/fvets.2022.885973 (Frontiers in Veterinary Science)
-
-#### Concept Craft Cards: Deck of theoretical and practical suggestions for ACI developers — Fiona French, Clara Mancini (2021)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 一副卡片就能把以动物为中心的原则带进日常的设计讨论。
-- 作品内容: 一套 Concept Craft Cards 卡片，为动物-计算机交互开发者提供从概念、体验到实践层面的提示，用于为非人类“客户”设计丰容。
-- 实现方式: 卡片按层级组织，从设计理念到感官主题，配合非人类客户的设计需求使用。
-- 论文: https://doi.org/10.1145/3450741.3466816 (C&C 2021)
-- 图片: https://figures.semanticscholar.org/e03a18c4d714b9cf5af9ef01c89315a239cdd4c9/2-Figure1-1.png
-
-#### Ethics and Power Dynamics in Playful Technology for Animals: Using speculative design to provoke reflection — Fiona French, Ilyena Hirskyj-Douglas, Heli Väätäjä, Patricia Pons (2021)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 对动物游戏装置的思辨，会暴露出到底是谁在掌控这场游戏。
-- 作品内容: 一次工作坊：用思辨设计讨论面向动物的游戏化技术所涉及的伦理与权力关系。
-- 实现方式: 参与者设计思辨性的跨物种游戏系统，并讨论其影响。
-- 论文: https://doi.org/10.1145/3464327.3464366 (Academic Mindtrek 2021)
-- 图片: https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure3-1.png https://figures.semanticscholar.org/3ec9b3e8b2b05b64b387b0b93532321cba0fec27/4-Figure2-1.png
-
-#### Reflecting on Methods in Animal Computer Interaction: Novelty Effect and Habituation — Ilyena Hirskyj-Douglas, Sarah Webber (2021)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 使用率下降不等于失败；要为新鲜感消退之后的长期使用来设计和评估。
-- 作品内容: 探讨为什么动物常常一开始热衷使用新装置、随后失去兴趣，把人机交互中的“新奇效应”与动物行为学中的“习惯化”联系起来。
-- 实现方式: 从新奇效应和习惯化的角度分析三个动物-计算机交互丰容项目（包括猴子和红毛猩猩）。
-- 论文: https://doi.org/10.1145/3493842.3493893 (ACI 2021)
-- 视频: https://www.youtube.com/watch?v=jKV5uoLWlUQ
-
-#### A Method for Evaluating Animal Usability (MEAU) — Luisa Ruge, Clara Mancini (2019)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 只要懂得狗的行为意味着什么，就可以衡量一个界面对狗的可用性。
-- 作品内容: 提出 MEAU：一种评估界面对动物用户是否好用的方法，依据该物种的能力来解读动物的行为。
-- 实现方式: 把人机交互中的可用性概念与动物行为学编码结合起来，在使用界面的狗身上加以检验。
-- 论文: https://doi.org/10.1145/3371049.3371060 (ACI 2019)
-- 图片: https://figures.semanticscholar.org/9be3adedbb83f2e82eb2f553732a8690126bc568/3-Figure2-1.png
-
-#### Opportunities for ACI in PLF: Applying Animal- and User-Centred Design to Precision Livestock Farming — Stacey D. Scott (2019)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 农场传感器同样是为动物设计的；设计过程应当让动物和农民都参与进来。
-- 作品内容: 论文主张：源自工程领域的精准畜牧业应当吸收动物-计算机交互中以动物和用户为中心的设计方法。
-- 实现方式: 对比精准畜牧业和动物-计算机交互的文献，提出家畜技术的设计机会。
-- 论文: https://doi.org/10.1145/3371049.3371055 (ACI 2019)
-
-#### ZooJamming: Designing Beyond Human Experience — Fiona French, Anna Zamansky, Sarah Webber, Reinhard Gupfinger (2019)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 游戏马拉松的形式能让动物园专家和设计师在一天之内为动物做出原型。
-- 作品内容: 报告在动物-计算机交互会议上举办的三次 ZooJam：类似游戏马拉松的工作坊，跨学科团队按真实需求为动物园动物设计丰容方案。
-- 实现方式: 采用饲养员撰写需求、快速构思和手工原型的工作坊形式，并由组织者进行反思。
-- 论文: https://doi.org/10.1145/3316287.3316294 (ICGJ 2019)
-- 图片: https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure1-1.png https://figures.semanticscholar.org/81a6cedcd947552211a604460019cdce106cd060/3-Figure3-1.png
-
-#### Seven Years after the Manifesto: Literature Review and Research Directions for Technologies in Animal Computer Interaction — Ilyena Hirskyj-Douglas, Patricia Pons (2018)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 一张“为动物造过什么”的地图，能看出哪些方向的动物交互设计仍然薄弱。
-- 作品内容: 一篇文献综述，梳理动物-计算机交互宣言发表后七年间为动物开发的技术：可触摸、触觉、可穿戴、嗅觉、屏幕和追踪系统。
-- 实现方式: 按交互模态组织的主题综述，并为每类技术提出研究方向。
-- 论文: https://doi.org/10.3390/mti2020030 (Multimodal Technologies and Interaction 2018)
-- 图片: https://pub.mdpi-res.com/mti/mti-02-00030/article_deploy/html/images/mti-02-00030-g001.png
-
-#### The Emerging Nature of Participation in Multispecies Interaction Design — Clara Mancini (2018)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物即使无法理解设计过程，也可以参与设计。
-- 作品内容: 提出一种动物参与设计的模型，其基础是符号、意愿和互动，而不是人类式的同意和理解。
-- 实现方式: 基于狗与计算机交互的案例和指示性符号学构建理论模型。
-- 论文: https://doi.org/10.1145/3196709.3196785 (DIS 2018)
-- 图片: https://figures.semanticscholar.org/9bbabb7ea3ee36a739a2360cbffd66ab7009a676/8-Figure5-1.png
-- 项目主页: https://doi.org/10.1145/3196709.3196785
-
-#### Animal-Computer Interaction: The emergence of a discipline — Clara Mancini, Shaun Lawson, Oskar Juhlin (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 当有了共同目标和可以争论这些目标的平台，动物-计算机交互才成为一门学科。
-- 作品内容: 第一期动物-计算机交互期刊特刊的编者按，概述了该领域的目标、挑战和研究社群。
-- 实现方式: 综述领域现状，并介绍《国际人机研究期刊》特刊收录的论文。
-- 论文: https://doi.org/10.1016/j.ijhcs.2016.10.003 (IJHCS 2017)
-
-#### Exploring Research through Design in Animal Computer Interaction — Fiona French, Clara Mancini (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 当一个物种还没有现成的交互惯例时，做原型就是找到它的方法。
-- 作品内容: 论文主张：在人与动物之间还不存在既定交互方式的情境里，“通过设计做研究”能帮助动物-计算机交互研究者展开探索，并以大象丰容原型为例。
-- 实现方式: 以“通过设计做研究”的文献为框架，反思为动物园大象反复制作互动玩具原型的过程。
-- 论文: https://doi.org/10.1145/3152130.3152147 (ACI 2017)
-- 图片: https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure2-1.png https://figures.semanticscholar.org/8c2a2828856875fb4533d9e320f4c8b85fb87de0/7-Figure1-1.png
-
-#### Towards an animal-centred ethics for Animal-Computer Interaction — Clara Mancini (2017)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 针对动物的研究伦理，应当像 HCI 对人的研究伦理一样以参与者为中心。
-- 作品内容: 主张 ACI 研究中的动物应被视为可以表达同意的参与者和设计贡献者，而不是研究工具，并提出相应的伦理原则。
-- 实现方式: 批判分析动物研究法规，提出以动物为中心的伦理框架。
-- 论文: https://doi.org/10.1016/j.ijhcs.2016.04.008 (International Journal of Human-Computer Studies 2017)
-- 项目主页: https://www.open.ac.uk/blogs/ACI/
-
-#### Becoming with: towards the inclusion of animals as participants in design processes — Michelle Westerlaken (2016)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 只要设计者学会解读并追随动物的反应，动物就能塑造设计结果。
-- 作品内容: 提出让生活在人类环境中的动物（例如狗）作为参与者进入设计过程，基于作者用狗玩具进行的设计实验。
-- 实现方式: 与狗进行探索性设计实验，并用 Haraway 的“共同生成”概念解读。
-- 论文: https://doi.org/10.1145/2995257.2995392 (ACI 2016)
-- 图片: https://michellewesterlaken.com/2021/09/dog_w.jpg
-- 项目主页: https://michellewesterlaken.com/portfolio/robotic-dog-toys/
-
-#### De-computing the pigeon sensorium — John Fass (2016)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 从动物的感官出发，而不是从一个待解决的问题出发。
-- 作品内容: 一个开放式设计项目，探索城市鸽子如何感知城市，主张不以解决问题为目标的实验能为动物-计算机交互打开新方向。
-- 实现方式: 通过设计实验和物件探索鸽子对城市空间的感知。
-- 论文: https://doi.org/10.1145/2995257.3012022 (ACI 2016)
-- 视频: https://www.youtube.com/watch?v=PhzLnO11lms
-
-#### Power, participation, and the dog internet — Shaun Lawson (2016)
-- 类型: 书与文章 · 生物: 动物
-- 核心想法: 宠物科技常常替动物说话，却不让动物自己说话。
-- 作品内容: 一篇文章，讨论那些声称能翻译摇尾和吠叫的“狗互联网”产品的兴起，以及在这些系统中谁掌握权力。
-- 实现方式: 借助参与式设计中关于权力的观点，批判性地解读市售宠物设备和应用。
-- 论文: https://doi.org/10.1145/2942442 (ACM Interactions 2016)
-- 图片: https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/5-Figure2-1.png https://figures.semanticscholar.org/e3b048e823e348442503208dc33e1eb4ad07e2d5/4-Figure1-1.png
-
-#### Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs — Shaun Lawson (2015)
-- 类型: 思辨设计 · 生物: 动物
-- 核心想法: 在产品真正被造出来之前，先拿思辨设计去暴露可能出错的地方。
-- 作品内容: 用一组思辨性的宠物追踪产品概念，向宠物主人和动物专家询问他们对“量化”猫狗的看法。
-- 实现方式: 在面向宠物主人的在线研究和动物行为专家访谈中展示思辨设计概念。
-- 论文: https://doi.org/10.1145/2702123.2702260 (CHI 2015)
-- 图片: https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/6-Figure3-1.png https://figures.semanticscholar.org/edf877083a37c5ef90a58845d1dd50d3a6b5659d/5-Figure2-1.png
-
-#### Animal personas: acknowledging non-human stakeholders in designing for sustainable food systems — Jessica Frawley (2014)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 给动物做一份用户画像，它们就进入了设计需求。
-- 作品内容: 改造了以用户为中心设计中常用的“用户画像”，在为合作式、可持续的食物系统做设计时，让农场动物与农民一起被代表。
-- 实现方式: 依据养殖理念和动物需要为家畜建立用户画像，并在食品合作社的设计过程中使用。
-- 论文: https://doi.org/10.1145/2686612.2686617 (OzCHI 2014)
-- 图片: https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/4-Figure2-1.png https://figures.semanticscholar.org/323644468a6e57f7023385bd1a3e5e1f033123ee/2-Figure1-1.png
-
-#### Who Is Really In The Center Of Dog Computer Design? — Ilyena Hirskyj-Douglas (2014)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 在把人机交互方法借给动物之前，先看清这种方法实际服务的是谁的需要。
-- 作品内容: 一篇立场论文：追问共同设计、扎根理论等人机交互方法能否从人类用户转用到狗身上，以及“以狗为中心”的设计里真正处在中心的是谁。
-- 实现方式: 回顾人机交互让用户参与的历史，并对照到狗与计算机的设计实践上。
-- 论文: https://doi.org/10.1145/2693787.2693793 (ACE 2014 Workshops (ACI))
-- 图片: https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/3-Figure2-1.png https://figures.semanticscholar.org/3e0d94f298fd68ee72105591e72127f4e6e40f8f/1-Figure1-1.png
-
-#### Ethical issues and guidelines when conducting HCI studies with animals — Heli Väätäjä (2013)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 与动物一起做研究，需要自己的伦理清单，而不是照搬人类受试者的规则。
-- 作品内容: 一套基于文献的伦理指南，面向涉及动物的人机交互研究，涵盖研究的规划、执行和报告。
-- 实现方式: 把动物研究伦理和福利文献浓缩成按研究阶段划分的人机交互研究指南。
-- 论文: https://doi.org/10.1145/2468356.2468736 (CHI EA 2013)
-- 视频: https://www.youtube.com/watch?v=b7hrtlKnp1g
-
-#### Animal-computer interaction: a manifesto — Clara Mancini (2011)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 动物也是用户，面向它们的技术应当围绕它们的需求来设计。
-- 作品内容: 动物-计算机交互（ACI）的奠基文本，呼吁对动物使用或受其影响的技术采用以用户为中心的方法。
-- 实现方式: 宣言提出 ACI 的目标：研究动物与技术的互动、为动物福利而设计、发展以动物为中心的方法。
-- 论文: https://doi.org/10.1145/1978822.1978836 (ACM Interactions 2011)
-- 视频: https://www.youtube.com/watch?v=TMOJSpXfRoI
-- 项目主页: https://www.open.ac.uk/blogs/ACI/
-
-#### Mirror self-recognition in the bottlenose dolphin — Diana Reiss (2001)
-- 类型: 论文 · 生物: 动物
-- 核心想法: 设计出合适的测试，动物就能展示我们以为只属于人类的能力。
-- 作品内容: 两只身上被涂了墨水标记的海豚游到镜子前，转身察看被标记的身体部位，证明它们能认出自己。
-- 实现方式: 在水族馆中进行带假标记对照的镜像标记测试，并根据视频评分。
-- 论文: https://doi.org/10.1073/pnas.101086398 (PNAS 2001)
-- 视频: https://www.youtube.com/watch?v=vCSKDjkp6rI
-- 项目主页: https://doi.org/10.1073/pnas.101086398
-
-## 人与自然交互
-
-改变人如何注意、体验和对待自然的技术：户外、花园、公民科学、延伸的感官，以及被媒介化的自然。
-
-### 注意与自然联结
-
-让人慢下来，去注意、关注并感到与自然相连的设计。
-
-#### How Can Interactive Technology Help Us to Experience Joy With(in) the Forest? — Ferran Altarriba Bertran (2025)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 对自然类技术而言，快乐本身就是一个设计目标。
-- 作品内容: 一篇 CHI 论文，提出一套包含 12 种方式的分类，说明交互技术可以如何支持人在森林中的快乐体验。
-- 实现方式: 对一年期共同设计过程中与 250 多位林中行者产生的 104 个思辨想法进行反身性分析。
-- 论文: https://doi.org/10.1145/3706598.3713151 (CHI 2025)
-
-#### The Entangled Tales that Landscapes Tell — Marta Galvão Ferreira (2025)
-- 类型: 论文 · 生物: 生态系统, 植物, 人体
-- 核心想法: 行走与讲故事可以是一种与风景建立关系的 HCI 方法。
-- 作品内容: 一篇 TEI 论文，研究人如何通过身体与想象体验自然漫步，并把它转化为一种为自然遗产设计位置技术的教学方法。
-- 实现方式: 研究自然漫步的亲身与感官体验，进而提出一种“有机”教学法以及位置类工具的设计启示。
-- 论文: https://doi.org/10.1145/3689050.3705012 (TEI 2025)
-
-#### Dear Nature: Data Drawings for Human–Nature Relations — Marta Galvão Ferreira (2024)
-- 类型: 论文 · 生物: 生态系统, 植物, 人体
-- 核心想法: 亲手绘制关于自然的个人数据，会让人放慢并加深反思。
-- 作品内容: 与 Sherry Hsi 合作的 DIS 论文：身处不同地方的参与者在五周内把自己对自然的观察画成手绘数据图，并相互比较。
-- 实现方式: 基于数据人文主义与跨地域合作探究的后人类主义设计方法。
-- 论文: https://doi.org/10.1145/3643834.3660732 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/e4b2d4058b135ef625ef77c19038fa10ec48669f/8-Figure1-1.png
-
-#### Humming Washer — Marine Zorea (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 用窗外邻居的声音替代家电的提示音。
-- 作品内容: 一个洗衣机附件，录下附近树上的鸟鸣，在人按下洗衣机按钮时播放，用本地鸟声替代提示音。
-- 实现方式: 树旁的麦克风采集鸟叫，控制器在按钮被按下时播放。
-- 论文: https://doi.org/10.1145/3643834.3660686 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### I Tell the Moon My Secret and the Moon Tells Me Yours — Zoe Qi-Jing Li (2024)
-- 类型: 艺术作品 · 生物: 生态系统, 人体
-- 核心想法: 把一部分创作交给月亮，让作品取决于天体的节律。
-- 作品内容: 人们对着作品低声说出一个秘密；它的声波被曝光到相纸上，光源只有月光，所以只有在月亮清晰可见的夜晚，图像才会出现。
-- 实现方式: 录下的语音转换成波形图案，在月光下通过长时间曝光印制出来。
-- 论文: https://doi.org/10.1145/3635636.3660501 (C&C 2024)
-- 图片: https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/2-Figure2-1.png https://figures.semanticscholar.org/684c32776cbf56e66846f18eaa05eac1854480f6/4-Figure4-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Sound Passage — Marine Zorea (2024)
-- 类型: 研究原型 · 生物: 生态系统, 动物
-- 核心想法: 让外面的世界而不是住户来决定家何时安静。
-- 作品内容: 一个会自己打开的窗户装置，把屋外的声音放进家里；何时打开取决于户外的变化，比如人、植物、动物或机器的动静。
-- 实现方式: 户外麦克风检测声景变化，执行器打开通风口让声音进入。
-- 论文: https://doi.org/10.1145/3643834.3660686 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/8-Figure6-1.png https://figures.semanticscholar.org/c271744d1a419c5daaad26a7db4dae2c5577be38/3-Figure2-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Stromatolive — Francesca Valsecchi (2024)
-- 类型: 研究原型 · 生物: 细菌与微生物, 生态系统
-- 核心想法: 倾听微生物在石头里记录下的深时间。
-- 作品内容: 一件互动装置，把叠层石（由微生物席堆积而成、像年轮一样分层的沉积岩）内部的层理转成图像和声音，观众通过触摸各层来探索。
-- 实现方式: 把叠层石切面的扫描映射为画面并声音化；触摸传感器让观众触发每一层的声音。
-- 论文: https://doi.org/10.21606/drs.2024.752 (DRS 2024)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Flare — Stijn Ossevoort (2023)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 让自然现象而不是穿着者来驱动交互服装。
-- 作品内容: 一条绣有 LED 蒲公英的丝绸连衣裙，风一吹就会亮起；穿着者只能部分控制它，比如走出风口。
-- 实现方式: 风的感测很可能驱动绣在裙上的 LED 蒲公英；作为“自然现象的参与”这一概念的唤起性物件提出。
-- 论文: https://doi.org/10.1145/3569009.3572743 (TEI 2023)
-- 图片: https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/7-Figure7-1.png https://figures.semanticscholar.org/e4f87047b7077fc2a7b775c8b90aa097c40e5469/2-Figure1-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Playful Inspiration for a New Wave of Joyful Forest Technology — Ferran Altarriba Bertran (2023)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 森林技术应帮助人享受森林，而不只是了解关于它的知识。
-- 作品内容: 一篇 DIS 论文，探索森林中蕴含的游戏潜能以及技术如何回应它，主张以快乐与照料而非技术解决主义来做森林技术。
-- 实现方式: 通过 16 次进入森林的第一人称、思辨与情境化设计，得出 13 种游戏潜能，归为 5 个设计方向。
-- 论文: https://doi.org/10.1145/3563657.3596015 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=0yogjiLLS90
-
-#### Wild Probes Toolkit — Ferran Altarriba Bertran (2023)
-- 类型: 研究原型 · 生物: 生态系统, 植物, 人体
-- 核心想法: 在想象技术之前，先给共同设计者工具，让他们去关注这个地方。
-- 作品内容: 一套把共同设计搬进森林的探针工具，帮助林中行者去关注、反思、构思并记录自己的森林体验。
-- 实现方式: 为“森林未来构想”而设计，并在早期户外共同设计中使用，开放给其他设计者扩展。
-- 论文: https://doi.org/10.1145/3563657.3596102 (DIS 2023)
-- 视频: https://www.youtube.com/watch?v=79Zub_3LUL8
-
-#### From-The-Wild: Towards Co-Designing For and From Nature — Ferran Altarriba Bertran (2022)
-- 类型: 论文 · 生物: 生态系统, 植物, 人体
-- 核心想法: 把设计工作坊搬进森林，让森林回应。
-- 作品内容: 一篇 CHI 短论文，提出在户外共同设计技术，让自然本身参与塑造设计过程。
-- 实现方式: 在自然环境中开展参与式设计活动，反思场所如何改变产生的想法。
-- 论文: https://doi.org/10.1145/3491101.3519811 (CHI EA 2022)
-- 视频: https://www.youtube.com/watch?v=kKCQ8OXCoQQ
-
-#### Nature Jar — Xiaoge Wang (2022)
-- 类型: 研究原型 · 生物: 植物, 生态系统, 人体
-- 核心想法: 通过一件日常物品，温和地把家与门外的自然连接起来。
-- 作品内容: 一个在文化探针研究之后设计的家用原型，鼓励城市居民留意、珍视并更多接触住处附近的自然，并把自然的恢复作用带进室内。
-- 实现方式: 先对城市居民进行文化探针研究，再制作一个很可能把室内生活与附近自然相连的实体原型。
-- 论文: https://doi.org/10.1145/3490149.3502426 (TEI 2022)
-- 图片: https://figures.semanticscholar.org/4c515bbed6f02239204b18c7e5c28e454a978cb8/2-Figure1-1.png
-
-#### Nga manawataki o te koiora: Biorhythms — Rewa Wright (2022)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 让植物与人共同创作一件公共艺术作品。
-- 作品内容: 一件投影映射的影像作品，把人类与植物产生的声音与新西兰（奥特亚罗瓦）的抽象影像融为一体，在纳尔逊的一栋建筑立面上首映。
-- 实现方式: UnCalculated Studio（Rewa Wright 与 Simon Howden）把植物生物电数据与人声结合成生成式视听作品。
-- 论文: https://doi.org/10.1145/3610591.3616428 (SIGGRAPH Asia 2023 Art Papers)
-- 视频: https://www.youtube.com/watch?v=Q5D8ABeS060
-- 图片: https://rewawright.com/wp-content/uploads/2022/09/screen-shot-2022-09-20-at-1.54.39-am.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Plant Radio — Margrete Lodahl Rolighed, Lone Koefoed Hansen (2022)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 拿掉电源键，植物就在家里拥有了一直在场的声音。
-- 作品内容: 一个像收音机的盒子把室内植物的电信号放大成声音；它刻意没有关机键，于是植物的声音会一直进入家人的白天和夜晚。
-- 实现方式: 电极采集植物类似肌电的信号，放大后由外形像广播接收机的扬声器播放；设计以中介理论为依据。
-- 论文: https://doi.org/10.1145/3532106.3533517 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=Uabjy9_hhH4
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Biodiversity Logbook — Liz Edwards (2021)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 把记录自然的过程放慢，让“留意”本身成为目的。
-- 作品内容: 一套包含感光相册、提示贴纸和地图的工具包，让莫克姆湾的学童把找到的植物做成蓝晒印相，并记录发现地点。
-- 实现方式: 把标本放在蓝晒纸上经阳光曝光，孩子们添加手写笔记，收集的图像汇总到一张共享地图上。
-- 论文: https://doi.org/10.21606/nordes.2021.13 (Nordes 2021)
-- 图片: https://imagination.lancaster.ac.uk/wp-content/uploads/2020/08/20200817_112736-1870x1361.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Forest Crayons — Playfool (2021)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 让孩子通过颜色认识森林里的物种。
-- 作品内容: 完全用日本森林的木粉、树皮和树叶着色的蜡笔，每种颜色以其来源树种命名。
-- 实现方式: 把森林副产品干燥、研磨，与蜡质黏合剂混合。
-- 视频: https://www.youtube.com/watch?v=NWkLR_KYm8k
-- 图片: https://static.dezeen.com/uploads/2021/11/1-Deep-turquoise-crayon-made-fro.jpeg https://static.dezeen.com/uploads/2021/09/Forest-Crayons.jpeg
-- 项目主页: https://www.dezeen.com/awards/2021/winners/forest-crayons/
-
-#### Circa — Circa (Ted Hunt) (2019)
-- 类型: 产品与平台 · 生物: 生态系统
-- 核心想法: 如果太阳是你的钟，月亮是你的日历，会怎样？
-- 作品内容: 一套表盘与 App：Circa Solar 只有一根每天转一圈的时针，按当地太阳时和日出日落显示；Circa Lunar 用月相取代日历。
-- 实现方式: 软件根据用户所在经纬度计算视太阳时、昼长和月相，并去掉分针和秒针。
-- 视频: https://www.youtube.com/watch?v=1ICO5NV4JQg
-- 图片: https://web.archive.org/web/20231209113039im_/http://circa.bio/img/border_applewatch_solar.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Contact/Sense — Rewa Wright (2019)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 在现场表演中把植物当作共同作曲者。
-- 作品内容: 一场混合现实表演：植物的生物电信号被转为声音，邀请人类表演者与植物一起作曲、演奏。
-- 实现方式: 用电极采集植物信号并接入混合媒体的声音与影像环境；受毛利知识（mātauranga Māori）启发。
-- 论文: https://doi.org/10.1145/3610591.3616428 (SIGGRAPH Asia 2023 Art Papers)
-- 视频: https://www.youtube.com/watch?v=ZZh-I8tV3YE
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Nature Scenes — Dean Brown (2019)
-- 类型: 研究原型 · 生物: 动物, 昆虫
-- 核心想法: 为两类使用者设计同一件物品：使用它的动物和观看的人。
-- 作品内容: 设在伦敦 Brompton Design District 的城市鸟类与昆虫庇护所和喂食站，内置相机捕捉动物瞬间，再在酒吧等公共场所播放给人看。
-- 实现方式: Interaction Research Studio 为 2019 年伦敦设计节设计并部署带喂食器和相机的庇护所，影像传到附近场所的屏幕上。
-- 论文: https://doi.org/10.1145/3569009.3572802 (TEI 2023)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Sonic Succulents: Plant Sounds and Vibrations — Adrienne Adar (2019)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把植物本来就在发出的动静放大，让人意识到自己正在影响另一个生命。
-- 作品内容: 在布鲁克林植物园举办的整季展览：多肉和园中植物装上振动传感器与放大器，风吹、生长和观众的触碰都会变成可以听见的植物声音。
-- 实现方式: 接触式麦克风和模拟振动传感器拾取茎叶中的机械振动，经放大器和扬声器实时播放出来。
-- 图片: http://static1.squarespace.com/static/6132729d77b59f573fc273ad/613284eb494a0173635c2266/613284eb494a0173635c2290/1633468288501/IMG_3972.jpeg?format=1500w
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### The Ambient Birdhouse — Margot Brereton (2018)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 一个小小的环境物件，就能介绍其他物种的邻居。
-- 作品内容: 一个家用的物联网鸟屋，播放本地鸟类的叫声与相关媒体，激发人们对窗外鸟类的好奇；研究者与五个家庭一起进行了试用。
-- 实现方式: 使用本地物种录音的趣味实体物联网设备，在家庭中进行研究，孩子们带动了家中其他成员。
-- 论文: https://doi.org/10.1145/3173574.3173971 (CHI 2018)
-- 视频: https://www.youtube.com/watch?v=J6f171qRyp8
-
-#### Deep Time Walk App — Deep Time Walk (2016)
-- 类型: 产品与平台 · 生物: 生态系统
-- 核心想法: 用身体走完深时间，让人类历史缩回它真实的尺度。
-- 作品内容: 一款音频 App，带人走 4.6 公里，以每米一百万年的速度穿越地球 46 亿年历史：戏剧化旁白讲述地球与生命如何形成，人类只出现在最后几厘米。
-- 实现方式: App 用 GPS 追踪步行距离和速度，按走到的地质时间点播放相应的科学旁白。
-- 视频: https://www.youtube.com/watch?v=5kY24DUm0VM
-- 图片: https://www.deeptimewalk.org/wp-content/uploads/2018/04/facebook.jpg https://www.deeptimewalk.org/wp-content/uploads/2018/06/devices-mobile-home-june2018.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Flora Luma — Raune Frankjær (2016)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 用光让人看见自己对植物产生的影响。
-- 作品内容: 花园植物之间放置着光纤发光圆罩，它们随植物的电信号亮起；访客触摸或靠近植物时，信号和灯光随之变化。
-- 实现方式: 电极采集植物对触摸和接近的生物电反应，驱动光纤编织雕塑里的 LED；作为参与式设计展项展出。
-- 论文: https://doi.org/10.1145/2948076.2948115 (PDC 2016)
-- 图片: https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/1-Figure1-1.png https://figures.semanticscholar.org/d26d0594da623588dd78dbedf7b23c2932db2d5a/2-Figure2-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Curiosity Cloud — mischer'traxler studio (2015)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 互动能让人注意到平时忽视的物种，包括正在减少和正在入侵的昆虫。
-- 作品内容: 一个由数百只玻璃灯泡组成的装置，每只灯泡里都有一种昆虫的手工复制品；观众走近时昆虫开始扑动、敲击玻璃，人离开后又归于平静。
-- 实现方式: 每只灯泡内有电机驱动的昆虫复制品和传感器；靠近会触发动作和声音，物种组合包括本地常见、稀有和入侵昆虫。
-- 视频: https://www.youtube.com/watch?v=S4C4zKv1oh4
-- 图片: https://mischertraxler.com/wp/wp-content/uploads/2017/10/LDF15_VA_CuriosityCloud_MischerTaxler_160915_13_300dpi-EdReeve-1200x800.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/12/mischertraxler_LDF15_VA_CuriosityCloud_detail_insect_photocredits_EdReeve-1200x800.jpg
-- 项目主页: https://mischertraxler.com/projects/curiosity-cloud/
-
-#### Forest — Seekrtech (2014)
-- 类型: 产品与平台 · 生物: 植物, 人体
-- 核心想法: 把一棵生长的树作为注意力的隐喻，并把它与真实的树连接起来。
-- 作品内容: 一款专注应用：你不碰手机时虚拟树会生长，打开其他应用树就会枯死；积攒的金币可以资助合作伙伴 Trees for the Future 种下真实的树。
-- 实现方式: 基于计时器的手机应用，带有虚拟森林记录，并连接植树捐赠。
-- 视频: https://www.youtube.com/watch?v=pVKksUbxkwU
-- 图片: https://forestapp.cc/preview.png
-- 项目主页: https://www.forestapp.cc/
-
-#### Future Library — Katie Paterson (2014)
-- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
-- 核心想法: 把一个文化承诺与森林的生长绑在一起，用树的时间来思考。
-- 作品内容: 一件在奥斯陆展开的百年作品：2014 年在 Nordmarka 森林种下 1000 棵树，每年一位作家贡献一部不公开的手稿，2114 年砍伐这些树来印刷这些书。
-- 实现方式: 种植的森林、Deichman 图书馆中的封存阅览室，以及每年在林中举行的交稿仪式。
-- 视频: https://www.youtube.com/watch?v=D2BUq2Q8_6M
-- 项目主页: https://www.futurelibrary.no/
-
-#### Bio-Electricity — Mileece (2013)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 让植物成为即兴音乐中听得见的合作者。
-- 作品内容: 一场现场表演：植物的电信号被转化为声音，人们与植物一起创作音乐，曾在 MoMA 呈现。
-- 实现方式: 叶片上的电极采集生物电变化，软件将其映射为生成声音；人们探索自己的触摸与在场如何改变它。
-- 视频: https://vimeo.com/60769517
-- 图片: https://static.wixstatic.com/media/9f7598_c0d8f01bd4e2474fad6783d7d43921eef000.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### FOREST (for a thousand years…) — Janet Cardiff & George Bures Miller (2012)
-- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
-- 核心想法: 放置在真实树木间的声音，能让森林成为历史的见证者。
-- 作品内容: 为第 13 届卡塞尔文献展创作的 28 分钟声音装置：观众坐在卡尔斯奥公园的林间空地上，隐藏的扬声器在真实树木间播放风声、脚步、战争与歌声。
-- 实现方式: 多声道音频作品，分布在安装于树上的扬声器中。
-- 视频: https://www.youtube.com/watch?v=hGqPwaZVPBo
-- 图片: https://cardiffmiller.com/wp-content/uploads/2016/04/forest.jpg
-- 项目主页: https://cardiffmiller.com/installations/forest-for-a-thousand-years/
-
-#### Moth Cinema — Natalie Jeremijenko (2012)
-- 类型: 艺术作品 · 生物: 昆虫, 植物
-- 核心想法: 让飞蛾成为露天电影的主角，同时为它们提供食物和庇护。
-- 作品内容: 苏格拉底雕塑公园里一块夜间点亮的 20 英尺幕布，悬在一片种植的栖息地上方：灯光吸引飞蛾，植物喂养它们，它们放大的影子在幕布上上演。
-- 实现方式: 网状幕布、灯光与吸引飞蛾的寄主和蜜源植物，同时构成投影面与传粉者栖息地。
-- 图片: https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremijenko_mothcinema-1024x768.jpg https://web.archive.org/web/2019id_/http://socratessculpturepark.org/wp-content/uploads/1970/01/jeremikenco_mothcinema2-1024x768.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Phenology Wall Clock (Sydney) — Tega Brain, Natalie Jeremijenko (2012)
-- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
-- 核心想法: 用身边物种的生命周期代替钟点。
-- 作品内容: 改装的挂钟，表盘上标出悉尼和纽约本地物种开花、结果、迁徙和繁殖的时间，让一年被读作一轮生态事件的循环。
-- 实现方式: 把城市生态系统的物候观测数据绘在按年旋转的钟面上；属于 Natalie Jeremijenko 在 Environmental Health Clinic 发起的 Phenology Clock 项目。
-- 论文: https://doi.org/10.1145/3025453.3025948 (CHI 2017)
-- 图片: https://freight.cargo.site/t/original/i/96d55b21e4065708d8b77dfbd65244189546091f628de1074d9492c692d04b94/sydney_o.jpg https://freight.cargo.site/t/original/i/59526d0d7fea6a3f7c53c75b912c5c9bc287b3d0a98456607bfbe919a6860352/clocks_o.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### The Present — Scott Thrift (2012)
-- 类型: 产品与平台 · 生物: 生态系统
-- 核心想法: 用“年”的尺度显示时间，让人按季节而不是按分钟生活。
-- 作品内容: 一只一年才转一圈的挂钟：只有一根指针，表盘颜色从冬季的白色渐变到春、夏、秋，显示的是季节而不是小时。
-- 实现方式: 慢速石英机芯带动一根指针在 365 天内转满一圈，表盘以光谱色标出冬至、夏至和春分、秋分。
-- 视频: https://www.youtube.com/watch?v=d-3Vlp9Oodc
-- 图片: https://thepresent.is/cdn/shop/files/thepresent-annual-clock-hero-on-white-wall-scott-thrift-1784w-2025_1200x.webp?v=1765303543 https://thepresent.is/cdn/shop/files/The_Present_Clock-Lifestyle-Home-Bookshelf_865x640.jpg?v=1784831477
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Kits Beach Soundwalk — Hildegard Westerkamp (1989)
-- 类型: 艺术作品 · 生物: 生态系统, 人体
-- 核心想法: 有选择的聆听，能让嘈杂之地重新显露生机。
-- 作品内容: 一部声景作品：作曲家带着听者沿温哥华的海滩行走，滤掉城市噪声，让藤壶细微的声响浮现出来。
-- 实现方式: 现场录音配以口述旁白，并在录音室中进行滤波与均衡处理。
-- 视频: https://www.youtube.com/watch?v=hg96nU6ltLk
-- 项目主页: https://www.hildegardwesterkamp.ca/
-
-### 户外与荒野技术
-
-为步道、森林、公园、山地和水域设计的交互。
-
-#### Capra — William Odom (2024)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 为在事后很久、慢慢重温自然体验而设计。
-- 作品内容: 一个从多个视角（影像、声音、运动、海拔）记录徒步的系统，让徒步者多年后在家中重温和比较这些路程。
-- 实现方式: 定制的采集设备、数据档案与家用浏览界面，由设计团队在四年间设计、制作并亲身使用。
-- 论文: https://doi.org/10.1145/3613904.3642284 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=uEtnBD1TMj4
-
-#### Daddy, You Can Be the Fox — Jon Back (2024)
-- 类型: 研究原型 · 生物: 动物, 生态系统, 人体
-- 核心想法: 游乐场可以讲故事，把孩子的目光引向身边的自然。
-- 作品内容: 一个永久性游乐场装置：融入景观的小游戏屋，配有关于本地野生动物的交互式音频故事，历时六年开发与评估。
-- 实现方式: 跨部门团队的通过设计进行研究，孩子们把故事融入了自己的游戏中。
-- 论文: https://doi.org/10.1145/3679318.3685360 (NordiCHI 2024)
-
-#### Hokkhi — Jixiang Jiang (2023)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 把宗教实践引入礁体修复，让虔诚同时重建栖息地。
-- 作品内容: 三个用牡蛎壳制成的人工牡蛎礁原型：先作为泉州道教信众的供奉之物，再被投放入海，帮助修复牡蛎礁。
-- 实现方式: 基于田野调查、专家访谈和道教“法信”体系，在一个产品服务系统中与信众共同制作礁体单元。
-- 论文: https://doi.org/10.21606/iasdr.2023.100 (IASDR 2023)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Dinacon (Digital Naturalism Conference) — Andrew Quitmeyer (2018)
-- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
-- 核心想法: 改变会议发生的地点，研究也会随之改变。
-- 作品内容: 一个自组织、为期一个月的“会议”，在丛林和海岛上举行（2018 泰国、2019 巴拿马、2022 斯里兰卡），艺术家、黑客和生物学家在自然中做项目。
-- 实现方式: 开放征集的驻地形式，入选项目免收费用，并共享野外记录。
-- 视频: https://www.youtube.com/watch?v=lE5PEEQpXNg
-- 图片: https://www.dinacon.org/wp-content/uploads/2017/10/cropped-Phuket-Beach.jpg
-- 项目主页: https://www.dinacon.org/
-
-#### Glaciator — Joaquín Fargas (2018)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 造一台为冰川工作而不是为人工作的机器。
-- 作品内容: 在南极冰川上行走的太阳能机器人，它们的脚步把积雪压实、再结晶成冰，为冰川增加质量，以此回应冰川融化。
-- 实现方式: 带压实脚掌的太阳能机器人在雪面上行走，加速积雪转变为冰川冰。
-- 视频: https://www.youtube.com/watch?v=PlEHoYRHPQ0
-- 图片: https://www.joaquinfargas.com/wp-content/uploads/2018/09/Adaggio-Tarjet-IMG_9759-1024x683.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Designing Children's Digital-Physical Play in Natural Outdoors Settings — Jon Back (2016)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 在自然游戏中，技术应当是点缀，而不是主菜。
-- 作品内容: 一篇 CHI 论文：交互设计师与景观建筑师把交互游戏技术作为校园环境的一部分安装起来，观察它如何与利用自然材料的游戏交织。
-- 实现方式: 在自然化户外环境中整合游戏技术的校园实地试验。
-- 论文: https://doi.org/10.1145/2851581.2892416 (CHI EA 2016)
-- 图片: https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/3-Figure4-1.png https://figures.semanticscholar.org/941758864a19cfca2654a3cf83e01f96ddb55eae/4-Figure5-1.png
-
-#### Pokémon Go — Niantic (2016)
-- 类型: 产品与平台 · 生物: 动物, 人体
-- 核心想法: 收集动物的游戏能让人走出门，却不会自动让人注意到真实的动物。
-- 作品内容: 一款基于位置的 AR 游戏，让数亿人走出户外捕捉虚拟生物；保护科学家随之讨论它对真实野生动物兴趣的影响。
-- 实现方式: 在真实世界地图兴趣点上叠加的手机 AR；所引论文评估了它对自然保护的利弊。
-- 论文: https://doi.org/10.1111/conl.12326 (Conservation Letters 2017)
-- 视频: https://www.youtube.com/watch?v=SWtDeeXtMZM
-- 项目主页: https://pokemongolive.com/
-
-#### HOBBIT: An Asocial Hiking App — Jonna Häkkilä (2014)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 为在自然中独处而设计：一个“反社交”应用。
-- 作品内容: Maaret Posti、Johannes Schöning 与 Jonna Häkkilä 设计的徒步应用，生成避开人群的路线，并在有人接近时提醒，让用户享受自然中的独处。
-- 实现方式: 利用 OpenStreetMap 与网络数据生成路线，另有一个扫描 Wi-Fi 信号以探测附近徒步者的手机原型；概念来自问卷（n = 157）与焦点小组。
-- 论文: https://doi.org/10.1145/2598510.2598592 (DIS 2014)
-- 图片: https://figures.semanticscholar.org/a9409d933171330054a17d49c903837c2214a87d/1-Figure1-1.png
-
-#### Central Park (Listen to the Light) — Bluebrain (2011)
-- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
-- 核心想法: 为一片景观作曲，就让行走本身成为演出。
-- 作品内容: 一张 iPhone 位置感知专辑：听众在纽约中央公园中行走时，音乐会随所在区域而变化。
-- 实现方式: 由 GPS 触发的音乐层，映射到公园中的数百个区域上。
-- 视频: https://www.youtube.com/watch?v=sAE1xfYl3Q8
-
-#### PeakFinder — PeakFinder (2010)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: 为风景命名的 AR，能把一片景色变成你熟悉的地方。
-- 作品内容: 一款应用，在眼前的景色上叠加山峰的名字和高度，基于全球高程模型离线运行。
-- 实现方式: 根据设备 GPS 位置与数字高程模型渲染全景，并与相机和指南针对齐。
-- 视频: https://www.youtube.com/watch?v=mDW27pkwOIs
-- 图片: https://cdn2web.peakfinder.com/web/images/peakfinder-banner.jpg
-- 项目主页: https://www.peakfinder.com/
-
-#### Ambient Wood — Yvonne Rogers (2004)
-- 类型: 研究原型 · 生物: 植物, 生态系统, 人体
-- 核心想法: 给真实的树林叠加隐藏的层次，而不是用屏幕取代它。
-- 作品内容: 苏塞克斯的一片被增强的树林：孩子们两人一组带着探测器和 PDA 探索，走到特定植物旁时，设备会播放声音、显示光合作用等看不见的过程。
-- 实现方式: 由 Equator 项目的学习科学研究者部署的普适计算套件（PDA、光照与湿度探针、位置触发音频）。
-- 论文: https://doi.org/10.1145/1017833.1017834 (IDC 2004)
-- 图片: https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure1-1.png https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure2-1.png https://figures.semanticscholar.org/ef1b00133b9690d651e51596e6d54fac51b502e0/4-Figure3-1.png
-
-#### Savannah — Keri Facer (2004)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 让孩子以动物的身份在空间中移动，从而学习动物行为。
-- 作品内容: 一个基于位置的游戏：孩子们带着掌上电脑在学校操场上扮演狮群，在虚拟的非洲草原上捕猎与生存。
-- 实现方式: 带 GPS 的 PDA 把虚拟草原映射到操场上，“兽穴”区域用于复盘；由 Futurelab 与惠普实验室合作开发，并与十名 11–12 岁儿童一起研究。
-- 论文: https://doi.org/10.1111/j.1365-2729.2004.00105.x (Journal of Computer Assisted Learning 2004)
-- 图片: https://figures.semanticscholar.org/a3a9dd79e9927794784c1d44b9dd54a2ee7676c3/2-Figure1-1.png
-
-#### Environmental Detectives — Eric Klopfer (2002)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 把环境模拟叠加在真实地形上，让调查必须靠行走完成。
-- 作品内容: 一款增强现实游戏：学生带着掌上设备在真实的校园或流域中走动，采集模拟水样，找出有毒泄漏的来源。
-- 实现方式: 运行地下水污染模型、带 GPS 定位的 PDA；后续版本基于 MIT AR 平台。
-- 论文: https://doi.org/10.1007/s11423-007-9037-6 (Educational Technology Research and Development 2008)
-- 视频: https://www.youtube.com/watch?v=goPTuUMu_oc
-
-#### Geocaching — Geocaching HQ (Groundspeak) (2000)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: 一个简单的寻物游戏，就能给人一个仔细探索附近自然的理由。
-- 作品内容: 一种全球寻宝游戏：玩家用 GPS 坐标寻找数百万个隐藏的容器，其中许多藏在公园、森林等自然地点。
-- 实现方式: 始于 2000 年 5 月美国关闭 GPS 选择可用性后的第二天；在网页与应用平台上运行，由用户藏匿宝盒并记录日志。
-- 视频: https://www.youtube.com/watch?v=1YTqitVK-Ts
-- 图片: https://www.geocaching.com/play/Content/images/preview-lg.jpg
-- 项目主页: https://www.geocaching.com/play
-
-#### Forest Walk — Janet Cardiff & George Bures Miller (1991)
-- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
-- 核心想法: 把一段录制的行走叠加在真实森林上，让人对它更敏锐。
-- 作品内容: Cardiff 的第一件音频漫步作品：观众跟随她录下的声音和脚步沿班夫森林中的小径行走，真实与录制的声音交织在一起。
-- 实现方式: 沿同一路线行走时，用便携播放器播放双耳录音。
-- 图片: https://cardiffmiller.com/wp-content/uploads/2020/05/forest_3.jpg
-- 项目主页: https://cardiffmiller.com/walks/forest-walk/
-
-### 公民科学与自然观察
-
-让人识别、记录和监测物种与生态系统的工具。
-
-#### NatureMetrics eDNA monitoring — NatureMetrics (2024)
-- 类型: 产品与平台 · 生物: DNA 与分子, 生态系统
-- 核心想法: DNA 痕迹让我们无需看见就能统计众多物种。
-- 作品内容: 通过生物遗留在水和土壤中的环境 DNA 来测量生物多样性；对样本测序即可识别当地有哪些物种。
-- 实现方式: 野外采样套件过滤水或土壤，实验室通过宏条形码技术把 DNA 序列与参考数据库比对。
-- 视频: https://www.youtube.com/watch?v=FkMCZR8M930
-- 图片: https://earthshotprize.org/wp-content/uploads/2024/09/Nature-Metrics-Hero-1920x1080-@72DPI.jpg
-- 项目主页: https://www.naturemetrics.com/
-
-#### Colores del Rio — Melissa Ortiz (2023)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 农业废料可以变成共同照护河流的仪器。
-- 作品内容: 一个公民科学工具，利用本地农场废弃的紫甘蓝，让年轻人检测河水的 pH 变化以发现污染。
-- 实现方式: 脱水紫甘蓝中的花青素会随 pH 变色，被嵌入一个手持检测工具中。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875738957-AB7A77P0PIW9E4HO0G9Q/Olivia+at+river+with+tool+2.jpg https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1687875723403-RPY19QL1SAXV1VNR5NIA/ColoresDelRio_CCA-Ortiz_1.jpg
-- 项目主页: https://www.biodesignchallenge.org/cca-design-2023
-
-#### Ocean Vision AI / FathomNet — MBARI (2023)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 海洋太大，无法独自观察；把图像与标注一起共享。
-- 作品内容: 一个开放的海洋生物标注图像数据库（FathomNet），以及为海洋影像开发 AI 工具的项目；这篇 CHI 论文梳理了社区对这些工具的需求。
-- 实现方式: 36 次深度访谈，以及一场围绕 FathomNet、来自 35 个国家的 246 人参与的工作坊，提炼出需求与 12 种用户原型。
-- 论文: https://doi.org/10.1145/3544548.3580886 (CHI 2023)
-- 视频: https://www.youtube.com/watch?v=PljG1xGn9BE
-- 项目主页: https://www.fathomnet.org/
-
-#### Opportunity Map — Geertje Slingerland (2023)
-- 类型: 研究原型 · 生物: 生态系统, 植物
-- 核心想法: 用生物多样性的眼光重新阅读你的街道。
-- 作品内容: 一张大尺寸街区地图，配有透明叠加层，居民在上面标出社区里可以变得更绿、更具生物多样性的地方。
-- 实现方式: 在生物多样性城市生活实验室的户外共创活动中，使用纸质地图和圆形叠加片。
-- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
-- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure6-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Plant listener — Geertje Slingerland (2023)
-- 类型: 研究原型 · 生物: 植物, 生态系统
-- 核心想法: 把植物和传感器作为超越人类的参与者，纳入社区共创。
-- 作品内容: 放在鹿特丹一个社区植物旁的感测装置，报告环境状况，帮助居民决定种什么、怎么打理花园；它是一个生物多样性城市生活实验室的一部分。
-- 实现方式: 在 Oud-Mathenesse 社区开展“通过设计做研究”与行动研究，包括快闪茶屋、“Circles of Green”工具，以及把土壤与光照传感数据与植物知识对照。
-- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
-- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure4-1.png
-- 项目主页: https://doi.org/10.1145/3593743.3593753
-
-#### BirdNET: A deep learning solution for avian diversity monitoring — Stefan Kahl, Cornell Lab of Ornithology (2021)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 让任何人以及留在森林里的任何录音机，都能听出哪些鸟在场。
-- 作品内容: 一个能从声音中识别近千种北美和欧洲鸟类的神经网络，以免费应用和开放分析工具发布，用于大规模声学监测。
-- 实现方式: 基于 ResNet 的卷积网络，在已标注鸟类录音的声谱图上训练。
-- 论文: https://doi.org/10.1016/j.ecoinf.2021.101236 (Ecological Informatics 2021)
-- 视频: https://www.youtube.com/watch?v=w8lMxzskWx4
-- 项目主页: https://birdnet.cornell.edu/
-
-#### Engaging with Nature Sounds & Citizen Science — Margot Brereton (2021)
-- 类型: 论文 · 生物: 动物, 生态系统, 人体
-- 核心想法: 只有声音还不够，要把声音与其他感官和故事相连，才能赋予它意义。
-- 作品内容: 一篇 CHI 论文，设计并试玩 Bristle Whistle Challenge 原型：把野生动物叫声与其他感官和体验相连，吸引人们参与生态声学公民科学。
-- 实现方式: 基于环境录音的游戏化原型，由十名玩家试玩。
-- 论文: https://doi.org/10.1145/3411764.3445390 (CHI 2021)
-- 视频: https://www.youtube.com/watch?v=Ub2gmVXqUTE
-
-#### Merlin Sound ID — Cornell Lab of Ornithology (2021)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把听得到却看不见的鸟，当场变得可以辨认。
-- 作品内容: 免费应用 Merlin Bird ID 的一个功能：通过手机麦克风收听，实时显示周围正在鸣唱的是哪些鸟。
-- 实现方式: 在手机上对实时声谱图运行机器学习，训练数据来自 Macaulay Library 的录音。
-- 视频: https://www.youtube.com/watch?v=xmSUOLxyatY
-- 项目主页: https://merlin.allaboutbirds.org/
-
-#### Wildlife Insights — Wildlife Insights (2019)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 去掉人工分拣照片的瓶颈，让野生动物数据更快地指导行动。
-- 作品内容: 一个云平台：相机陷阱项目上传照片，AI 模型筛掉空拍并推荐物种，数据共享用于保护分析。
-- 实现方式: 托管在 Google Cloud 上的分类器，用合作机构数百万张标注的相机陷阱图像训练。
-- 视频: https://www.youtube.com/watch?v=qKgRbkCkRFY
-- 项目主页: https://www.wildlifeinsights.org/
-
-#### Seek by iNaturalist — iNaturalist (2018)
-- 类型: 产品与平台 · 生物: 动物, 植物, 昆虫
-- 核心想法: 把物种识别的门槛降到几乎为零，尤其是对儿童。
-- 作品内容: 一款适合家庭的应用：无需账号，通过相机实时识别动植物，并为找到的物种颁发徽章。
-- 实现方式: 基于 iNaturalist 数据的本地图像识别模型，配合基于位置的物种推荐与挑战。
-- 视频: https://www.youtube.com/watch?v=i56_R8z1N28
-- 项目主页: https://www.inaturalist.org/pages/seek_app
-
-#### Sounding Soil — Marcus Maeder (2017)
-- 类型: 艺术作品 · 生物: 生态系统, 动物
-- 核心想法: 聆听土壤，让它隐藏的生命与健康状况变得可闻。
-- 作品内容: 一个艺术、研究与公民科学项目，用针式麦克风录下土壤动物、根系和水流的声音，展示瑞士各地土壤生命的不同声景。
-- 实现方式: 把高灵敏度探针麦克风插入地下录制土壤声学信号；通过巡回集装箱展和参与式录音向公众分享。
-- 图片: https://ars.electronica.art/starts-prize/files/2020/06/SoundingSoil-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/sounding-soil/
-
-#### Wildbook — Wild Me (2017)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 把每一只野生动物当作有自己档案的个体，而不只是一个数字。
-- 作品内容: 一个开源平台，根据独特花纹从照片中识别鲸、斑马、鲸鲨等动物个体，并用研究者和公众的照片为每一只建立生活史。
-- 实现方式: 用计算机视觉识别个体（鳍、条纹和斑点花纹），结合众包图片和研究数据库。
-- 论文: https://arxiv.org/abs/1710.08880 (arXiv 2017)
-- 视频: https://www.youtube.com/watch?v=JDYI9PT07Js
-- 图片: https://www.wildme.org/assets/social-card.jpg
-- 项目主页: https://www.wildme.org/
-
-#### City Nature Challenge — California Academy of Sciences, iNaturalist (2016)
-- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
-- 核心想法: 城市之间的友好竞争，让居民去注意自己街头的自然。
-- 作品内容: 一年一度、为期四天的生物闪电调查，最初是旧金山与洛杉矶之间的比赛，现在全球各城市比拼谁在 iNaturalist 上记录的城市野生生物最多。
-- 实现方式: 先是协调一致的观察周末，随后是在 iNaturalist 上的鉴定周。
-- 视频: https://www.youtube.com/watch?v=jmQmdat2Nks
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg/960px-INaturalist_Introduction_%26_BioBlitz_at_Sugarloaf_Ridge_State_Park_-_Sarah_Stierch_07.jpg
-- 项目主页: https://www.citynaturechallenge.org/
-
-#### Mosquito Alert — Mosquito Alert (2014)
-- 类型: 产品与平台 · 生物: 昆虫, 人体
-- 核心想法: 公民科学也涵盖我们要对抗的物种，而不只是我们喜爱的物种。
-- 作品内容: 一款手机应用：人们拍摄蚊子和孳生地，专家审核后用于追踪入侵的白纹伊蚊和埃及伊蚊。
-- 实现方式: 照片报告由昆虫学家与 AI 审核，数据供欧洲各地公共卫生机构使用。
-- 论文: https://doi.org/10.1038/s41467-017-00914-9 (Nature Communications 2017)
-- 视频: https://www.youtube.com/watch?v=HCQs_qzKNUo
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mosquito_Alert_coverage_in_Europe.jpg/960px-Mosquito_Alert_coverage_in_Europe.jpg
-- 项目主页: https://www.mosquitoalert.com/en/
-
-#### Penguin Watch — Zooniverse (2014)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 在家点击企鹅，就能监测整个海洋生态系统。
-- 作品内容: 一个 Zooniverse 项目：志愿者在南极及南大洋企鹅繁殖地的延时相机图像中标注成鸟、雏鸟和蛋。
-- 实现方式: 由牛津大学 Penguinwatch 团队运行的远程延时相机；志愿者点击被聚类并用于训练计数模型。
-- 论文: https://doi.org/10.1038/sdata.2018.124 (Scientific Data 2018)
-- 视频: https://www.youtube.com/watch?v=jA95ChRG6P0
-- 项目主页: https://www.zooniverse.org/projects/penguintom79/penguin-watch
-
-#### Floracaching (Biotracker) — Anne Bowser, Jennifer Preece (2013)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 借用流行户外游戏的机制，招募新类型的志愿者。
-- 作品内容: 一款受地理寻宝启发的游戏化手机应用（又名 Biotracker）：玩家寻找并记录植物以收集物候数据，并在初次接触公民科学的千禧一代中进行了测试。
-- 实现方式: 带积分与社交功能的游戏化物候应用，在马里兰大学评估其动机与学习效果。
-- 论文: https://doi.org/10.1145/2583008.2583011 (Gamification 2013)
-- 视频: https://www.youtube.com/watch?v=IWb1y9HHu3o
-
-#### Keeping Time (Phenology Studies) — Tega Brain (2013)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 人们随手拍的照片按日期排好，就成了一种植物自己的日历。
-- 作品内容: 从 Flickr 抓取某一种植物（如蓝花楹、斯特尔特沙漠豌豆）的照片，按拍摄时间逐年排列成版画和视频，物种的花期就显现为一条彩色的带。
-- 实现方式: 脚本收集 2002–2013 年某物种带时间戳的 Flickr 图片，按年分行、按日期排序排列。
-- 视频: https://www.youtube.com/watch?v=NDZMHbjICck
-- 图片: https://freight.cargo.site/w/1200/i/9ac22f143ae9f0dd119c004c5d8357e98babc215d653db08f58345b7116bf5a1/TegaBrain-KeepingTime.jpg https://freight.cargo.site/t/original/i/ffee0cf6e7f4369a4cad6bdc9227a00f8a6c59e1d816879c110d42c8966bb22f/zgallery_oct2014_02_6.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Pl@ntNet — Pl@ntNet (2013)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 识别与数据采集可以是同一个动作。
-- 作品内容: 一款免费应用，通过叶、花、果或树皮照片识别植物，并把每条确认的观察加入共享的植物学数据集。
-- 实现方式: 基于协作图像集训练的深度学习模型，配有区域植物志与专家验证。
-- 视频: https://www.youtube.com/watch?v=W_cBqaPfRFE
-- 项目主页: https://plantnet.org/
-
-#### Virtual Birding — Margot Brereton (2013)
-- 类型: 研究原型 · 生物: 动物, 生态系统
-- 核心想法: 让擅长听鸟的人远程标注声景。
-- 作品内容: Mark Cottman-Fields、Margot Brereton 与 Paul Roe 的 CHI 论文：让观鸟者在线从长时间的环境录音中识别鸟类，把观鸟延伸到野外之外。
-- 实现方式: 用于浏览声谱图、在声学传感器录音中标注鸟鸣的网页工具，并与观鸟者一起研究。
-- 论文: https://doi.org/10.1145/2470654.2466268 (CHI 2013)
-- 图片: https://figures.semanticscholar.org/163694826bc942c9ca1aa0707ae3f684c3683bf2/4-Figure2-1.png
-
-#### Leafsnap — Peter N. Belhumeur (2011)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 手机相机可以在日常识别中替代植物检索表。
-- 作品内容: 一款电子野外图鉴应用，只需在白色背景上拍一片叶子，就能识别美国东北部的树种。
-- 实现方式: 由哥伦比亚大学、马里兰大学和史密森尼学会开发：叶片分割与基于曲率的形状特征，与物种图像库进行匹配。
-- 论文: https://doi.org/10.1007/978-3-642-33709-3_36 (ECCV 2012)
-- 视频: https://www.youtube.com/watch?v=k02C7p7mQ_c
-
-#### Snapshot Serengeti — Zooniverse (2010)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 透过一台野生动物相机，任何人都可以成为野外研究者。
-- 作品内容: 一个 Zooniverse 项目：志愿者为坦桑尼亚塞伦盖蒂国家公园 225 台相机拍摄的数百万张陷阱照片分类，识别物种、数量和行为。
-- 实现方式: 由明尼苏达大学狮子项目运行的相机陷阱网格；每张图像由多名志愿者投票，汇总为共识标签。
-- 论文: https://doi.org/10.1038/sdata.2015.26 (Scientific Data 2015)
-- 视频: https://www.youtube.com/watch?v=ENOORZRxtAg
-- 项目主页: https://www.zooniverse.org/projects/zooniverse/snapshot-serengeti
-
-#### iNaturalist — iNaturalist (2008)
-- 类型: 产品与平台 · 生物: 动物, 植物, 真菌
-- 核心想法: 让每一张自然照片都成为他人可以帮忙命名的共享观察。
-- 作品内容: 一个社交网络和应用：人们上传任何生物的照片，由计算机视觉和其他用户协助鉴定，形成科研级的生物多样性记录。
-- 实现方式: 社区鉴定加上用社区自身标注照片训练的计算机视觉模型，数据汇入 GBIF。
-- 视频: https://www.youtube.com/watch?v=DUfobESjj6s
-- 图片: https://static.inaturalist.org/sites/1-shareable_image.png
-- 项目主页: https://www.inaturalist.org/
-
-#### Budburst — Budburst (Chicago Botanic Garden) (2007)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 一次次回到同一株植物身边，既积累数据，也积累情感。
-- 作品内容: 一个项目：志愿者全年观察同一批植物，记录发叶、开花和结果的时间，追踪气候对植物物候的影响。
-- 实现方式: 网页与应用提供物候期观测规程，由芝加哥植物园运营（最初与 NEON 和 UCAR 合作）。
-- 视频: https://www.youtube.com/watch?v=Xzr-T-vjkPs
-- 图片: https://budburst.org/storage/statamic/hero-visual600.png
-- 项目主页: https://budburst.org/
-
-#### Globe at Night — NSF NOIRLab (Globe at Night) (2006)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: 夜空也是自然，数星星就是在测量它的消失。
-- 作品内容: 一项国际活动：人们把自己能看到的星星与星图对照并上报，由此绘制光污染地图。
-- 实现方式: 网页应用提供选定星座的星等图；数据与卫星测得的天空亮度相比较。
-- 视频: https://www.youtube.com/watch?v=Pssub176uUY
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/City_Lights_2012_-_Flat_map_crop.jpg/960px-City_Lights_2012_-_Flat_map_crop.jpg
-- 项目主页: https://globeatnight.org/
-
-#### eBird — Cornell Lab of Ornithology, National Audubon Society (2002)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 通过要求完整清单与观察投入数据，把一项爱好的个人记录变成科学。
-- 作品内容: 一个全球在线观鸟清单系统：观鸟者记录所见所闻，数亿条记录汇成鸟类分布与数量的地图。
-- 实现方式: 带有观察投入元数据的网页与手机清单，配合自动过滤与专家审核；数据被建模为 eBird Status and Trends。
-- 论文: https://doi.org/10.1016/j.biocon.2009.05.006 (Biological Conservation 2009)
-- 视频: https://www.youtube.com/watch?v=-t-0xAjxakw
-- 项目主页: https://ebird.org/
-
-#### Great Backyard Bird Count — Cornell Lab of Ornithology, National Audubon Society (1998)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 一个时间短、有边界的活动让参与更容易，并形成一张全球快照。
-- 作品内容: 每年二月为期四天的活动：任何人观鸟至少 15 分钟并在线提交清单；它是第一个近乎实时公布结果的在线公民科学项目。
-- 实现方式: 通过网页提交（现通过 eBird 与 Merlin），活动期间汇总成实时地图。
-- 视频: https://www.youtube.com/watch?v=jW9ew3TKV1E
-- 项目主页: https://www.birdcount.org/
-
-#### BioBlitz — Sam Droege (1996)
-- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
-- 核心想法: 时间压力和共同目标，把物种调查变成了一场节日。
-- 作品内容: 一场 24 小时的竞赛：科学家与公众一起尝试记录某一区域内的所有物种；第一次于 1996 年在华盛顿特区的 Kenilworth Aquatic Gardens 举行。
-- 实现方式: 由美国国家生物服务处的 Sam Droege 与 Susan Rudy 共同设计的活动形式，后来与国家地理和美国国家公园管理局合作举办。
-- 视频: https://www.youtube.com/watch?v=yVVIlfNFLhs
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/BioBlitz_Auckland_2005.jpg/960px-BioBlitz_Auckland_2005.jpg
-- 项目主页: https://en.wikipedia.org/wiki/BioBlitz
-
-#### Christmas Bird Count — National Audubon Society (1900)
-- 类型: 产品与平台 · 生物: 动物
-- 核心想法: 用计数的仪式取代狩猎的仪式。
-- 作品内容: 由鸟类学家 Frank Chapman 发起，用来替代圣诞节的“猎鸟比赛”：志愿者在冬季某一天统计直径 15 英里圆圈内的所有鸟，自 1900 年起年年举行。
-- 实现方式: 固定的计数圆圈，由小组和汇编人执行；结果构成最长的野生动物数据集之一。
-- 视频: https://www.youtube.com/watch?v=zkn0rzRfwFw
-- 图片: https://media.audubon.org/2024-01/Web_Aud_CBC-Colombia_231220_39_Photo-Luis-Bernardo-Cano.jpg?width=1200&height=630&auto=webp&quality=90&fit=crop&enable=upscale
-- 项目主页: https://www.audubon.org/community-science/christmas-bird-count
-
-### 园艺、种植与植物照料
-
-用于种植食物和植物、并在日常中照料它们的技术。
-
-#### Biomenstrual, Collecting — Nadia Campo Woytuk (2023)
-- 类型: 研究原型 · 生物: 人体, 植物, 生态系统
-- 核心想法: 经血是其他物种的养分，而不是废物。
-- 作品内容: 手工制作的工具，用来收集和储存经血，再稀释后浇灌植物，把月经重新看作人、土壤与植物共同生计的一部分。
-- 实现方式: 通过第一人称、女性主义后人类研究进行设计；用生物材料和陶瓷制作收集容器与护垫，记录在 Biomenstrual 项目中。
-- 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
-- 视频: https://www.youtube.com/watch?v=r9TaL5jPR50
-- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure3-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Biomenstrual, Composting — Nadia Campo Woytuk (2023)
-- 类型: 研究原型 · 生物: 人体, 植物, 生态系统
-- 核心想法: 为其在土壤中的“来世”而设计的护垫。
-- 作品内容: 嵌有种子的可降解月经护垫，使用后被埋入土中，把人体的养分和种子还给大地，让植物从中长出。
-- 实现方式: 用生长型与植物基生物材料加种子制成护垫，通过第一人称使用和埋入花园进行测试。
-- 论文: https://doi.org/10.1145/3544548.3581083 (CHI 2023)
-- 图片: https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure4-1.png https://figures.semanticscholar.org/2e292002741daf3a0859f0b21eb4dc053aafbbec/5-Figure5-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Garden Planner — Geertje Slingerland (2023)
-- 类型: 研究原型 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 一个替花园的生物多样性说话的规划工具。
-- 作品内容: 一个网页工具，根据花园大小和土壤推荐合适的植物，把居民的种植引向生物多样性和传粉昆虫。
-- 实现方式: 居民输入花园尺寸和土壤条件，规划器推荐植物种类和布局；在 BULL 方法框架内开发。
-- 论文: https://doi.org/10.1145/3593743.3593753 (C&T 2023)
-- 图片: https://figures.semanticscholar.org/06c02f734865135e799e20449598b7b645717e0e/7-Figure5-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Nature Fictions — Margot Brereton (2023)
-- 类型: 论文 · 生物: 植物, 动物, 人体
-- 核心想法: 从你自家花园中的种种关系出发去构想未来。
-- 作品内容: Shannon Rodgers、Kellie Vella、Bernd Ploderer 与 Margot Brereton 的 DIS 论文：15 位园丁借助物候轮、自然卡片和纸原型，想象把非人类利益相关者纳入其中的可持续未来。
-- 实现方式: 在花园中进行的共同设计工作坊；成果归为三个设计空间：社群建设、多物种照料，以及公共空间中的平衡。
-- 论文: https://doi.org/10.1145/3563657.3595981 (DIS 2023)
-- 图片: https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/5-Figure1-1.png https://figures.semanticscholar.org/f0c1af65e34dda0221b11ad86de4f4a986aeeb03/8-Figure3-1.png
-
-#### Extended Reality to Connect Experts and Novices in the Garden — Hanuma Teja Maddali (2022)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 远程专业知识在锚定于新手眼前那株真实植物时效果最好。
-- 作品内容: 一项 CSCW 研究，探讨混合现实视频通话与标注如何让资深园丁远程指导新手打理自家花园。
-- 实现方式: 两项研究，27 位资深与新手园丁使用 XR 原型。
-- 论文: https://doi.org/10.1145/3555211 (CSCW 2022 (PACM HCI))
-- 视频: https://www.youtube.com/watch?v=JsML7fET8PQ
-
-#### Networked Gardens — Margot Brereton (2022)
-- 类型: 研究原型 · 生物: 植物, 动物, 生态系统
-- 核心想法: 本地自然数据只有被展示回它所来自的花园时，才变得有意义。
-- 作品内容: Kellie Vella 等人的 DIS 研究：八名参与者使用 Ambient Birdhouse 和花园传感器，去留意、分享并探索家附近的自然数据。
-- 实现方式: 物联网鸟屋与传感器，配合访谈和小组讨论；分析媒介“再媒介化”如何为自然数据打开不同的入口。
-- 论文: https://doi.org/10.1145/3532106.3533497 (DIS 2022)
-- 视频: https://www.youtube.com/watch?v=rIY5n2YPJq4
-
-#### Sociality and Skill Sharing in the Garden — Hanuma Teja Maddali (2020)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 园丁按社交偏好布置花园，花园本身也在教导看到它的人。
-- 作品内容: 与 Amanda Lazar 合作的 CHI 论文，研究资深园丁如何分享具身技能、帮助他人调谐感官线索，以及社会性技术可以补充什么。
-- 实现方式: 对九位 22 至 71 岁资深园丁的参与式观察。
-- 论文: https://doi.org/10.1145/3313831.3376246 (CHI 2020)
-- 图片: https://figures.semanticscholar.org/e5182baddcf51372beb85deed5dabaf73f521ae6/6-Figure3-1.png
-
-#### Of Smarthomes, IoT Plants, and Implicit Interaction Design — Ilhan Aslan (2019)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 保留对人有益的照料习惯，去增强它们，而不是把它们自动化。
-- 作品内容: Björn Bittner、Ilhan Aslan 等人的 TEI 论文：增强室内植物的非语言信号，提醒人去浇水，而不是把浇水自动化掉。
-- 实现方式: 24 名参与者的实地研究，比较增强现实方案与嵌入植物的物理计算方案。
-- 论文: https://doi.org/10.1145/3294109.3295618 (TEI 2019)
-- 图片: https://figures.semanticscholar.org/642b7047817af65b8139f19c6bb9b0079306c143/3-Figure2-1.png
-
-#### Insectology: Food for Buzz — Matilde Boelhouwer (2017)
-- 类型: 研究原型 · 生物: 昆虫
-- 核心想法: 按昆虫的眼睛和口器来设计花，而不是按人的审美。
-- 作品内容: 五种装在城市墙面上的彩色人造花，分别按蜜蜂、熊蜂、食蚜蝇、蝴蝶和蛾这“五大传粉者”的喜好设计形状与颜色，并补充糖水作为应急食物来源。
-- 实现方式: 与工程师和生物学家合作，按每种昆虫的口器长度和色觉调整花形、颜色与花蜜深度；由雨水补给的储液器提供糖水。
-- 视频: https://www.youtube.com/watch?v=ggnKu3snciM
-- 图片: https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz_photography-janneke-van-der-pol.jpg https://www.matildeboelhouwer.com/storage/media/insectology-food-for-buzz2/matildeboelhouwer-insectology-food-for-buzz1_photography-janneke-van-der-pol.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### FarmBot — FarmBot (2016)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 让菜园可编程，再追问：由机器人来照料时，照料意味着什么。
-- 作品内容: 一个开源龙门式机器人，架在菜畦上方，根据网页应用中绘制的菜园规划来播种、浇水、除草和拍摄植物。
-- 实现方式: 类数控 x-y-z 龙门结构，可更换工具头，由 Raspberry Pi 与 Arduino 控制，设计与软件均开源。
-- 视频: https://www.youtube.com/watch?v=BqYrAWssrrY
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/FarmBot_Genesis_indoors.jpg/960px-FarmBot_Genesis_indoors.jpg
-- 项目主页: https://farm.bot/
-
-#### GROW Observatory — GROW Observatory (2016)
-- 类型: 产品与平台 · 生物: 植物, 生态系统, 人体
-- 核心想法: 种植者的菜园可以是一个分布式的气候观测站。
-- 作品内容: 一个欧洲项目：数千名种植者在自家菜园和农场放置低成本土壤传感器并开展种植实验，为卫星土壤湿度数据提供地面实测。
-- 实现方式: Parrot Flower Power 传感器、在线课程（MOOC）以及连接欧洲航天局 Sentinel-1 任务的数据平台。
-- 视频: https://www.youtube.com/watch?v=gRkFnRo-WZg
-- 项目主页: https://growobservatory.org/
-
-#### Lua Smart Planter — Mu Design (2016)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 赋予植物情绪，让人一眼读懂它的需求，但也可能把它变成一只宠物。
-- 作品内容: 一个带小屏幕的花盆，屏幕显示卡通表情：根据土壤湿度、温度和光照，植物会显得口渴、发冷或开心。
-- 实现方式: 花盆中的传感器驱动小型点阵屏上的动画表情，并配有配套应用。
-- 视频: https://www.youtube.com/watch?v=kAPTF25rn4s
-
-#### Personal Food Computer (MIT OpenAg) — Caleb Harper (2015)
-- 类型: 研究原型 · 生物: 植物
-- 核心想法: 气候可以被当作代码，但关于它的说法需要证据。
-- 作品内容: 一个密封的种植舱，控制光照、湿度、温度和二氧化碳，运行可分享的作物“气候配方”；该项目在被批评夸大成果后于 2020 年关闭。
-- 实现方式: MIT 媒体实验室的开源硬件种植舱，配有传感器、执行器和数据平台。
-- 视频: https://www.youtube.com/watch?v=LO5Box9phW8
-- 项目主页: https://en.wikipedia.org/wiki/Open_Agriculture_Initiative
-
-#### Plantix — Plantix (PEAT) (2015)
-- 类型: 产品与平台 · 生物: 植物, 真菌, 昆虫
-- 核心想法: 手机相机能把植物病理学带给从未见过农艺师的农民。
-- 作品内容: 一款作物健康应用，通过照片诊断植物病害、虫害与营养问题并给出处理建议，主要被印度的小农户使用。
-- 实现方式: 基于大规模众包作物症状图像库的深度学习，并配有社区问答。
-- 视频: https://www.youtube.com/watch?v=0tQ__k3G17g
-- 图片: https://plantix.net/en/assets/images/hero-farmer-cut-international.png
-- 项目主页: https://plantix.net/en/
-
-#### The Talking Plants — Sara Heitlinger (2014)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 植物可以成为社区在地知识的讲述者。
-- 作品内容: 伦敦 Spitalfields 城市农场的一个交互系统：访客用带 RFID 的浇水壶靠近植物，就能听到植物用农场员工和志愿者的声音讲述照料方法、用途与历史。
-- 实现方式: 带 RFID 的浇水壶触发录制的植物声音，与草根种植社区共同开发。
-- 论文: https://doi.org/10.1145/2559206.2574792 (CHI EA 2014)
-- 视频: https://www.youtube.com/watch?v=ygndjz_Zm-8
-
-#### Parrot Flower Power — Parrot (2013)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 把土壤与光照转化为简单的提醒，让新手不再养死植物。
-- 作品内容: 一个叶子形状的蓝牙传感器，插入花盆或苗床，测量土壤湿度、肥力、光照和温度，并告诉主人植物需要什么。
-- 实现方式: 电池供电的传感器，配有连接数千种植物数据库的手机应用。
-- 视频: https://www.youtube.com/watch?v=q_5F4w3rWFQ
-
-#### "Mate, we don't need a chip to tell us the soil's dry" — William Odom (2010)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 城市种植者看重亲手获得的知识；设计应支持他们的社群目标，而不是把查看土壤这件事自动化。
-- 作品内容: 一篇 DIS 论文，基于对城市农业社群的民族志田野工作与参与式设计工作坊；社群成员大多抗拒在种植实践中引入技术。
-- 实现方式: 与社区园丁开展田野工作和设计工作坊，分析其中的价值观以及可持续 HCI 的机会。
-- 论文: https://doi.org/10.1145/1858171.1858211 (DIS 2010)
-
-#### Click & Grow Smart Garden — Click & Grow (2010)
-- 类型: 产品与平台 · 生物: 植物
-- 核心想法: 把园丁的知识装进胶囊和灯里。
-- 作品内容: 一个台面花园：预置种子的土壤胶囊、水箱和补光灯按固定光照程序运行，几乎不需技巧就能种出香草和蔬菜。
-- 实现方式: 受 NASA 植物研究启发的吸水“智能土壤”、定时 LED 照明和可更换的种子胶囊。
-- 视频: https://www.youtube.com/watch?v=dCIFt8qNT3Y
-- 项目主页: https://www.clickandgrow.com/
-
-#### Distributed Robotic Garden — Daniela Rus (2010)
-- 类型: 研究原型 · 生物: 植物
-- 核心想法: 让植物呼叫照料，让一群机器人来回应。
-- 作品内容: MIT CSAIL 的一个番茄花园，由小型移动机器人浇水、定位和采摘果实，每株植物都联网，可以“请求”照料。
-- 实现方式: 带机械臂和摄像头的 iRobot Create 底盘、带土壤传感器的花盆以及无线网状网络。
-- 视频: https://www.youtube.com/watch?v=Fg0l9ovFpBI
-
-### 感知他者的世界
-
-让人以其他生命的方式感知世界的体验：回声定位、紫外视觉、磁感、植物的时间尺度。
-
-#### A Tree's Perspective — Lisa L. Townsend (2026)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 进入另一个身体的过渡过程，可能与最终抵达的身体同样重要。
-- 作品内容: 一篇 CHI 论文，测试一个多感官 VR 体验：让人从自己的身体过渡到一棵树的视角，并考察它对自然联结的影响。
-- 实现方式: 混合方法 VR 研究（N = 20），改变过渡元素与多感官刺激；两者都提升了临场感、具身感与自然联结，情感联结的提升在一周后仍在。
-- 论文: https://doi.org/10.1145/3772318.3790282 (CHI 2026)
-- 图片: https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure3-1.png https://figures.semanticscholar.org/e0a6e50867b7505c224d5b8c5d623c668abed9a5/6-Figure4-1.png
-
-#### EchoVision + Nocturnal Fugue — Jiabao Li (2024)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 要理解另一个物种，就去借用它的感官，而不只是它的形象。
-- 作品内容: 一副混合现实蝙蝠面具，让人通过喊叫来“看见”：声音的回声被可视化，模拟蝙蝠感知周围环境的方式。配套作品《夜曲赋格》是一场基于 AI 蝙蝠语言研究的表演。
-- 实现方式: 蝙蝠形面具基于开源 HoloKit 头显，在 iPhone 上把声音的音高和响度映射为空间回声可视化，可在黑暗中使用。
-- 论文: https://doi.org/10.1145/3680530.3695460 (SIGGRAPH Asia 2024 Art Papers)
-- 视频: https://www.youtube.com/watch?v=7LqsKpEZy4g
-- 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904659620-LJCRS5932ZL5IRIBZXJW/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-189.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904607782-OXJXLC19IRU4NTTN0TEZ/Plasmata_3_EchoVision%40Pinelopi_Gerasimou_High-147.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1755904573813-J33L05YVB029R84G4ANJ/Plasmata__3_2025_Day_3_Pedion_Areos_%40Pinelopi_Gerasimou_High-48.jpg
-- 项目主页: https://www.jiabaoli.org/nocturnal-fugue
-
-#### Seeing Echoes in the Mind of a Whale — Marshmallow Laser Feast (2024)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 把海洋当作一个由声音而非视觉绘制的世界来体验。
-- 作品内容: 一件大型视听装置，让观众沉浸在西班牙沿海宽吻海豚、座头鲸和抹香鲸以声音为主的感知世界中。
-- 实现方式: 把水听器录音和回声定位的科学数据转化为空间声音与影像。
-- 图片: https://ars.electronica.art/starts-prize/files/2025/05/seeing_echoes_in_the_mind_of_a_whale_mlf_starts_prize_6-1024x576.jpg
-- 项目主页: https://marshmallowlaserfeast.com/project/seeing-echoes-in-the-mind-of-the-whale
-
-#### Treesense — Michaela Honauer (2024)
-- 类型: 研究原型 · 生物: 植物, 人体
-- 核心想法: 让孩子用身体变成一棵树，从而理解树。
-- 作品内容: 一套由织物部件和可编程传感器组成的模块化服装，孩子可以把自己“变成”一棵树，通过光、声和振动像树一样感受阳光、风和水。
-- 实现方式: 内嵌传感器和执行器的织物模块在角色扮演中把环境输入映射为触觉、声音和光的反馈。
-- 论文: https://doi.org/10.1145/3628516.3659425 (IDC 2024)
-- 图片: https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/3-Figure2-1.png https://figures.semanticscholar.org/e6dcb7c618611e2cf85d21ea37f715babf54cfd0/4-Figure4-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### An Immense World — Ed Yong (2022)
-- 类型: 书与文章 · 生物: 动物, 昆虫
-- 核心想法: 为其他物种设计，要从承认人类感知有多狭窄开始。
-- 作品内容: 一本书，巡游动物的各种感官，从紫外视觉、回声定位到电感与磁感，揭示人类错过了世界的多少部分。
-- 实现方式: 基于对感官生物学家的采访和实验室探访写成的科学报道。
-- 视频: https://www.youtube.com/watch?v=dVPN165wz1Y
-- 图片: https://covers.openlibrary.org/b/id/12835209-L.jpg?default=false
-- 项目主页: https://edyong.me/an-immense-world
-
-#### VR videos of animal vision — Haruka Kasuga (2020)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 让人“借用”另一种动物的眼睛，同时坦承这种模拟只是近似。
-- 作品内容: 模拟乌龟、陆龟、壁虎和青蛙的视力、色觉与动态视觉的 360° 虚拟现实影像，在动物园工作坊和科学节上展示。
-- 实现方式: 依据各物种视觉的科学知识，对实景拍摄的影像做模糊、改色或基于运动检测的遮罩处理；235 名观众填写了问卷。
-- 论文: https://doi.org/10.1145/3446002.3446120 (ACI 2020)
-- 图片: https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure1-1.png https://figures.semanticscholar.org/3ff60a467f128e5a507f697f3d4ffc46df17a371/500px/4-Figure2-1.png
-- 项目主页: https://doi.org/10.1145/3446002.3446120
-
-#### Rewilding Wearables (Cyborganic BW-V2) — Patricia (Tricia) Flanagan, Raune Frankjær (2018)
-- 类型: 研究原型 · 生物: 昆虫, 生态系统, 人体
-- 核心想法: 一个让人像昆虫那样感知景观的“义肢头”。
-- 作品内容: 一件带传感器和执行器的竹编头饰，佩戴者在再野化的土地上行走时，它会把人引向对昆虫友好的地方，仿佛透过昆虫的感官看这片土地。
-- 实现方式: 由竹子和电子元件手工制成、看似有自主行为的“cyborganic”装置；在奥胡斯绿地中通过引导式行走进行测试。
-- 论文: https://doi.org/10.1145/3173225.3173316 (TEI 2018)
-- 图片: https://triciaflanagan.com/wp-content/uploads/FlanaganBambooWhisperLandscape.jpg https://figures.semanticscholar.org/8d087eb7bfc8746894aca72d2a168c7d176219af/3-Figure2-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Bug's Beat — Yumi Sasaki (2016)
-- 类型: 艺术作品 · 生物: 昆虫
-- 核心想法: 改变听者的尺度，小虫就成了巨人。
-- 作品内容: 一件装置，通过定向扬声器和振动座椅放大小昆虫的脚步声，让听者听到并感受到它的每一步。
-- 实现方式: 昆虫活动区下方的接触式麦克风拾取脚步声，并输出到定向扬声器和振动换能器。
-- 视频: https://vimeo.com/208145212
-- 图片: https://ars.electronica.art/starts-prize/files/2017/05/bugsbeat.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/bugs-beat/
-
-#### GoatMan: A Holiday from Being Human — Thomas Thwaites (2016)
-- 类型: 思辨设计 · 生物: 动物, 人体
-- 核心想法: 尝试变成另一种动物并失败，能同时教会人谦逊与幽默。
-- 作品内容: 设计师制作了假肢和人工瘤胃，并与一群山羊一起在瑞士阿尔卑斯山中行走数日，试图体验作为山羊的生活。
-- 实现方式: 与假肢师一起定制假肢，咨询神经科学家与动物行为学家，并在阿尔卑斯山做田野。
-- 视频: https://www.youtube.com/watch?v=-IPub-Fipz8
-- 图片: https://www.thomasthwaites.com/folio5/wp-content/uploads/2016/03/GoatMan_cover-web640.jpg
-- 项目主页: https://www.thomasthwaites.com/a-holiday-from-being-human-goatman/
-
-#### North Sense — Cyborg Nest (2016)
-- 类型: 产品与平台 · 生物: 人体, 动物
-- 核心想法: 把一种新感官作为可以与之共同生活的东西出售，而不是一件工具。
-- 作品内容: 一个通过穿孔固定在胸前的小装置，佩戴者面朝磁北时就会振动，是候鸟磁感的消费版本。
-- 实现方式: 硅胶外壳中的指南针传感器与振动马达，用钛金属棒固定。
-- 视频: https://www.youtube.com/watch?v=0xPMpKxd1R8
-- 项目主页: https://www.cyborgnest.net/
-
-#### In the Eyes of the Animal — Marshmallow Laser Feast (2015)
-- 类型: 艺术作品 · 生物: 动物, 昆虫, 生态系统
-- 核心想法: 走进另一个生物的“环境界”，才会明白人类视角只是众多视角之一。
-- 作品内容: 一段穿越格里泽代尔森林的 VR 旅程，依次通过蚊子、蜻蜓、青蛙和猫头鹰的感官去看。
-- 实现方式: 用激光雷达、无人机和 360° 相机采集森林，实时渲染为点云，配以野外录音制作的双耳声，并结合触觉与气味。
-- 视频: https://www.youtube.com/watch?v=XJMA0Nj_zsA
-- 图片: https://marshmallowlaserfeast.com/app/uploads/2024/07/Screenshot-2024-07-24-at-10.52.46-1024x574.jpg
-- 项目主页: https://www.marshmallowlaserfeast.com/project/in-the-eyes-of-the-animal/
-
-#### Birdly — Max Rheiner (2014)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 不是操控一台机器，而是成为那只鸟。
-- 作品内容: 一台全身飞行模拟器：使用者俯卧，用双臂当翅膀扇动，以赤鸢的身份飞越城市，风迎面吹来。
-- 实现方式: 手臂和手的动作驱动鸟类飞行模型；平台随之俯仰、侧倾和升降，头戴显示器、风扇、声音和气味加强了身体代入。
-- 视频: https://www.youtube.com/watch?v=rzBUvydKUAA
-- 项目主页: https://www.rs-online.com/designspark/birdly-making-a-flying-virtual-reality-experience-truly-immersive
-
-#### treelab — Marcus Maeder (2014)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 只要用对传感器，就能听见一棵在干旱中挣扎的树。
-- 作品内容: 一个持续进行的项目：录制树木内部的声发射（如干旱时水柱断裂产生的空穴声），并与生理数据一起转化为声音作品。
-- 实现方式: 在树干上安装接触式与超声传感器，结合树液流与气候数据，与瑞士联邦森林、雪与景观研究所 WSL（Roman Zweifel）合作。
-- 视频: https://www.youtube.com/watch?v=-fLrB4l82fY
-- 图片: https://marcusmaeder.ch/wp-content/uploads/2021/04/DSC_3030.jpg
-- 项目主页: https://marcusmaeder.ch/
-
-#### Seismic Sense — Moon Ribas (2013)
-- 类型: 艺术作品 · 生物: 人体, 生态系统
-- 核心想法: 用身体持续感受地球的运动。
-- 作品内容: 植入 Ribas 双脚、连接在线地震仪的传感器，只要地球上任何地方发生地震就会振动，她把这些振动转化为舞蹈。
-- 实现方式: 由实时地震数据驱动的振动植入物；在作品《等待地震》中演出。
-- 视频: https://www.youtube.com/watch?v=MdDfAdSeRNQ
-- 图片: https://images.hoobaweb.com/8930/imgf-1200-630/moon-ribas.png
-- 项目主页: https://www.moonribas.com/
-
-#### Animal Superpowers — Chris Woebken, Kenichi Okada (2007)
-- 类型: 思辨设计 · 生物: 动物, 昆虫, 人体
-- 核心想法: 设计让人借用其他物种感知方式的“义肢”。
-- 作品内容: 一组让孩子体验动物感官的可穿戴装置：“蚂蚁”装置把手触摸到的东西放大五十倍，“鸟”装置感知磁北，“长颈鹿”装置把眼睛抬到成人的高度。
-- 实现方式: 在皇家艺术学院制作的原型：连接护目镜的手持显微摄像头、由指南针驱动的震动帽和潜望镜头盔。
-- 视频: https://www.youtube.com/watch?v=L9oTcez2CXU
-- 图片: https://freight.cargo.site/w/1200/i/ad1784c02faa9d2afb6614fa878b4982436d2d58292e1349ebee13b3d8c6a682/2232862656_cba3f094c1_o.jpg
-- 项目主页: https://www.chriswoebken.com/animal-superpowers
-
-#### Vatnajökull (the sound of) — Katie Paterson (2007)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 一通电话，就能把融化的冰川放进你的耳朵。
-- 作品内容: 在冰岛 Jökulsárlón 冰湖中放置水下麦克风并接入电话线，任何人拨打一个号码，就能实时听到瓦特纳冰川融化的声音。
-- 实现方式: 在冰川湖安装水听器、放大器和手机中继；电话号码以霓虹灯形式展示在展厅中。
-- 图片: https://i0.wp.com/katiepaterson.org/wp-content/uploads/2022/02/Katie_Paterson_Vatnajokull_3-1.jpg?resize=1920%2C1442&ssl=1
-- 项目主页: https://katiepaterson.org/artwork/vatnajokull-the-sound-of/
-
-#### feelSpace Belt — Peter König (2005)
-- 类型: 研究原型 · 生物: 人体, 动物
-- 核心想法: 只要佩戴得够久，人也能学会其他动物拥有的感官。
-- 作品内容: 一条装有振动马达的腰带，朝北的那个马达始终振动；佩戴数周后，参与者报告自己的空间感发生了变化。
-- 实现方式: 电子罗盘驱动 13 个振动触觉单元；为期六周的训练研究，含睡眠与导航测试。
-- 论文: https://doi.org/10.1088/1741-2560/2/4/r02 (Journal of Neural Engineering 2005)
-- 视频: https://www.youtube.com/watch?v=0po8YOA-17U
-- 项目主页: https://www.feelspace.de/en/
-
-#### Eyeborg (Cyborg Antenna) — Neil Harbisson (2004)
-- 类型: 艺术作品 · 生物: 人体
-- 核心想法: 一种新的感官可以成为一个人身体与身份的一部分。
-- 作品内容: 一根与 Harbisson 颅骨骨融合的天线，把光的频率（包括红外和紫外）转换为他通过骨传导听到的声音振动。
-- 实现方式: 天线上的摄像头传感器连接芯片，把色相映射为音高，并通过骨传导和蓝牙接收远程颜色输入。
-- 视频: https://www.youtube.com/watch?v=ygRNoieAnzI
-- 项目主页: https://www.cyborgarts.com/
-
-#### What Is It Like to Be a Bat? — Thomas Nagel (1974)
-- 类型: 论文 · 生物: 动物, 人体
-- 核心想法: 感官模拟可以接近另一种动物的世界，却无法进入它的体验。
-- 作品内容: 一篇哲学论文，认为即便我们知道关于蝙蝠回声定位的一切，也无法知道成为蝙蝠是什么感觉。
-- 实现方式: 关于主观体验与物理解释之局限的哲学论证。
-- 论文: https://doi.org/10.2307/2183914 (The Philosophical Review 1974)
-
-#### Songs of the Humpback Whale — Roger Payne (1970)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 听见另一个物种的歌声，可以改变整个社会与它的关系。
-- 作品内容: 一张用水听器录制的座头鲸歌声专辑，销量超过 10 万张，推动了“拯救鲸鱼”运动。
-- 实现方式: 在百慕大海域用美国海军和野外水听器录制，Payne 与 McVay 分析歌曲结构后由 CRM Records 发行。
-- 视频: https://www.youtube.com/watch?v=sjkxUA041nM
-- 项目主页: https://en.wikipedia.org/wiki/Songs_of_the_Humpback_Whale_(album)
-
-#### A Foray into the Worlds of Animals and Humans — Jakob von Uexküll (1934)
-- 类型: 书与文章 · 生物: 动物, 昆虫, 人体
-- 核心想法: 每种生物都生活在不同的世界中，设计可以让我们去拜访其中一些。
-- 作品内容: 一本配有插图的小书，描述蜱虫、蜜蜂或狗如何各自生活在自己的感官世界（环世界）中，这个世界只由它能感知并作出反应的信号构成。
-- 实现方式: 用思想实验和插图（与 Georg Kriszat 合作）对比同一场景在不同物种眼中的样子。
-- 图片: https://covers.openlibrary.org/b/isbn/9780816659005-L.jpg?default=false
-- 项目主页: https://www.upress.umn.edu/9780816659005/a-foray-into-the-worlds-of-animals-and-humans/
-
-### 环境感知与生态反馈
-
-让空气、水、土壤、气候和生物多样性的数据在日常生活中被感受到。
-
-#### ActuAir — Eleni Margariti (2024)
-- 类型: 研究原型 · 生物: 人体
-- 核心想法: 当空气质量改变房间的形状时，它就会被注意到。
-- 作品内容: 一块安装在智能办公楼中的大型变形变色显示装置，随空气质量数据变化，并与在那里工作的人一起评估。
-- 实现方式: 2022 年 6 至 8 月与 21 名使用者进行的三项原型研究，并作主题分析。
-- 论文: https://doi.org/10.1145/3613904.3642396 (CHI 2024)
-- 视频: https://www.youtube.com/watch?v=ezX6QCKcnlA
-
-#### Hybrid Ecologies — Martín Tironi (2024)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 在使用 AI 的那一刻，让它的地球成本变得可以触摸。
-- 作品内容: 一件装置：观众生成 AI 图像，机器同时放出生成这张图在数据中心冷却中消耗的水量，让 AI 隐藏的用水足迹变得可见。
-- 实现方式: 图像生成界面与水泵相连，按每张图的估算耗水量放出相应的水。
-- 论文: https://doi.org/10.21606/drs.2024.1104 (DRS 2024)
-- 视频: https://www.youtube.com/watch?v=NBnjZc1JOrs
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Salt Minds — College for Creative Studies Biodesign Challenge team (2024)
-- 类型: 思辨设计 · 生物: 生态系统
-- 核心想法: 一套共享的颜色语言能让看不见的污染变得可读。
-- 作品内容: 为芒塞尔土壤比色系统增补的一套色卡，用颜色作为盐分破坏淡水生态系统的证据，连接科学家、政策制定者和公众。
-- 实现方式: 对受道路融雪盐影响的土壤和沉积物样本进行编目，并转译成色卡。
-- 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644770738-RY1DC5B6L3C6GCUKX7TY/Screenshot+2024-06-17+at+1.17.54+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1718644772306-IQL7KKUG72RJSRO3Q9OH/Screenshot+2024-06-17+at+1.18.07+PM.png
-- 项目主页: https://www.biodesignchallenge.org/college-for-creative-studies-2024
-
-#### Me, the Hill and my Browser — Patricia Ciobanu (2022)
-- 类型: 研究原型 · 生物: 生态系统, 植物
-- 核心想法: 让自然的缓慢变化渗入快节奏的屏幕时间。
-- 作品内容: 斯德哥尔摩附近一座山丘上的传感器连到一个浏览器插件，随着室外湿度、光线和温度变化改变设计者所访问网站的外观，有时让网页难以阅读。
-- 实现方式: 湿度、温度、光照和土壤湿度传感器把数据传给浏览器插件；通过自传式设计和在山丘上的出声思考行走进行研究。
-- 论文: https://doi.org/10.1145/3546155.3546651 (NordiCHI 2022)
-- 图片: https://figures.semanticscholar.org/189a15e82d793bc58b9fa07c2cfd30c07253d54e/4-Figure1-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Foresta-Inclusive — Jane Tingley (2021)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 为聆听森林缓慢的声音搭建基础设施。
-- 作品内容: 三个雕塑般的传感器舱安装在林中树干上，测量土壤温度、降雨、二氧化碳、颗粒物等，并把数据传给画廊里的互动装置，让树木缓慢的生命变得可以感知。
-- 实现方式: 联网的生态传感器舱把森林数据发到物联网平台，驱动多件艺术装置。
-- 视频: https://www.youtube.com/watch?v=9RgymypJYWE
-- 图片: https://janetingley.com/wp-content/uploads/2022/11/Air-Pod-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Solar Protocol — Tega Brain (2021)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 让太阳而不是用户来决定网络如何运行。
-- 作品内容: 一个托管在全球小型太阳能服务器网络上的网站；页面总是由此刻阳光最充足的那台服务器提供。
-- 实现方式: 配有太阳能板和电池的 Raspberry Pi 服务器按“太阳逻辑”路由；与 Benedetta Piantella、Alex Nathanson 合作。
-- 视频: https://www.youtube.com/watch?v=mMYzM4_MZI4
-- 图片: https://solarprotocol.net/images/full-map.jpeg
-- 项目主页: https://solarprotocol.net/
-
-#### SpreeBerlin – The Voice of a River — Jakob Kukula (2021)
-- 类型: 研究原型 · 生物: 生态系统
-- 核心想法: 只要为河流造一个“麦克风”，它就能为自己说话。
-- 作品内容: 一个由传感浮标、应用和网站组成的系统，让柏林施普雷河向市民报告自身的污染与状态，赋予河流“政治”声音。
-- 实现方式: 浮标上的测量设备记录水质，并实时推送到易于理解的公共界面。
-- 图片: https://ars.electronica.art/starts-prize/files/2022/06/SpreeBerlin_Couple-1024x512.jpg
-- 项目主页: https://ars.electronica.art/starts-prize/en/spreeberlin/
-
-#### Unequal Hours — Anna Madeleine Raupach (2021)
-- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
-- 核心想法: 一座不只报人类时间的钟。
-- 作品内容: 堪培拉博物馆与美术馆的一座公共时钟，彩色丝带把指针与各种非人类实体的周期相连，展示它们的时间如何与人类时间交织。
-- 实现方式: 步进电机、电子电路、亚克力、丝带、转环与声音驱动多根按生态周期运行的指针。
-- 视频: https://www.youtube.com/watch?v=W8eVFRb9h4U
-- 图片: https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/7730d3e7-ba4e-4c4c-a90a-04426c4c7188/CMAG+Gallery+4_Raupach_02.jpg https://images.squarespace-cdn.com/content/v1/54c56d73e4b070722976794a/faa5bff0-f5c5-42a9-b17e-2d3cb1285919/AnnaMadeleineRaupach_UnequalHours_2021_03.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Allochronic Cycles — Cesar & Lois (2020)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 把智能想象为向其他生命错位的时间尺度学习。
-- 作品内容: 一件动态墙面作品，由按不同时间尺度转动的圆盘组成，从宇宙与演化到拟南芥生长和病毒周期；一个 AI 预测人类活动以多快的速度扰乱它们。
-- 实现方式: 电机驱动的同心圆盘按不同的自然周期编程；时间预测 AI 根据人类碳排放影响调整它们。
-- 视频: https://www.youtube.com/watch?v=yD2J4rlIouA
-- 图片: http://cesarandlois.org/wp-content/uploads/ac-banner.jpg http://cesarandlois.org/wp-content/uploads/AI-1024x755.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Climate Clock — Climate Clock (Gan Golan & Andrew Boyd) (2020)
-- 类型: 艺术作品 · 生物: 生态系统, 人体
-- 核心想法: 把抽象的碳预算变成钟面上的截止时间。
-- 作品内容: 纽约联合广场 Metronome 上的倒计时钟，显示距离全球 1.5 °C 碳预算耗尽还剩多少时间，旁边是可再生能源占比的“生命线”。
-- 实现方式: 基于墨卡托研究所（MCC）碳预算数据实时计算，显示在大型 LED 屏上。
-- 视频: https://www.youtube.com/watch?v=t8uepJMWbuo
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Climate_Clock_NYC.jpg/960px-Climate_Clock_NYC.jpg
-- 项目主页: https://climateclock.world/
-
-#### Asunder — Tega Brain, Julian Oliver (2019)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 让 AI 去优化地球，看清把自然当作待解问题的系统有多荒诞。
-- 作品内容: 一个“负责任的环境管理者”：用超级计算机为改造真实地点生成方案，从改道河流到拆除城市，以求守住地球的承载界限。
-- 实现方式: 气候与地理数据、先进的气候模型与生成对抗图像在超级计算机上运行，与 Julian Oliver 和 Bengt Sjölén 合作。
-- 视频: https://www.youtube.com/watch?v=emzSsmAIw6E
-- 图片: https://freight.cargo.site/w/300/i/c88f6aeedc51fb4a0cf7c386760011e1c0a64571ea61410a3e436914a9358a7e/asunder.jpeg
-- 项目主页: https://tegabrain.com/Asunder
-
-#### Atmospheric Forest — Rasa Smite & Raitis Smits (2019)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 让气候压力下树木看不见的呼吸变得可以感知。
-- 作品内容: 一件沉浸式装置，依据被改造为活体观测站的森林的数据，呈现瑞士阿尔卑斯 Pfynwald 松林在干旱下如何呼出挥发性有机化合物。
-- 实现方式: 把瑞士 WSL 研究所的 VOC 与树木生理数据渲染成三维可视化（也有 VR 版本）。
-- 视频: https://www.youtube.com/watch?v=bvxWbEK0lCY
-- 项目主页: https://zkm.de/en/exhibition/2020/05/critical-zones
-
-#### Symbiosia — Thijs Biersteker (2019)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 用人的时间尺度，让树为自己的环境发出看得见的声音。
-- 作品内容: 巴黎卡地亚当代艺术基金会的一件实时装置：两棵树上的十二个传感器测量湿度、温度、二氧化碳和光照，算法每秒而不是每年画出一圈新的年轮。
-- 实现方式: 树上的传感器数据输入生成算法，绘出反映树木反应的年轮；与植物神经生物学家 Stefano Mancuso 合作。
-- 视频: https://www.youtube.com/watch?v=0AMH239bEG8
-- 图片: https://images.squarespace-cdn.com/content/v1/5d80d9eeb97e2f5b4a6ceb62/1583048194961-J2B9LFJCZHFAAFR91EK3/2.003.jpeg http://static1.squarespace.com/static/5d80d9eeb97e2f5b4a6ceb62/t/5d8c996d1d33674f2b89377c/1571932498263/websitedesign.001.jpeg?format=1500w
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### The Room of Change — Giorgia Lupi (2019)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把全球与本地数据叠放在不同的观看距离上，让人从宏观到微观都能感到环境变化。
-- 作品内容: 第二十二届米兰三年展“Broken Nature”开篇的一幅 30 米长手工数据挂毯，呈现土地利用、气候、物种和人口在过去几个世纪的变化与未来预测；观众越走近，看到的细节越多。
-- 实现方式: 把多种环境与社会数据集手工绘制成一幅编织式数据可视化，从过去到未来排成一条长墙时间线。
-- 图片: https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454743498-G6G390S3BRZ1156W8J5C/FQ6A4519+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg https://images.squarespace-cdn.com/content/v1/550de105e4b05c49fa2bba03/1551454899607-8OTOGLGYXBBMRC9OPRIW/FQ6A3793+-+%C2%A9+La+Triennale+di+Milano+-+foto+Gianluca+Di+Ioia.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Thermopower — Maya Livio (2019)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 借科研仪器之眼，看见一个受气候威胁的动物的世界。
-- 作品内容: 一部短片，借助科学家的联网科研相机画面，跟随美洲鼠兔的高山苔原栖息地度过一年，把动物与数据中心的体温/温度调节联系起来。
-- 实现方式: 把研究高山苔原的可遥控联网相机 TundraCam 挪用为影片的主要拍摄装置。
-- 论文: https://doi.org/10.1145/3491102.3501851 (CHI 2022)
-- 图片: https://freight.cargo.site/w/1200/i/465d80e9997af6f883ae4f03c532cd992080d61cc4a494135deaa8fa33906f73/Thermopower_snow.png https://freight.cargo.site/t/original/i/b40f23f34184b94a6a810a2405a8d2f01ab7a49423c1be4f0b16457892eab338/Pika-cover-photo_darker-bottom.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### BirdCast — Cornell Lab of Ornithology (2018)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 像预报天气一样预报鸟类，让人们在关键时刻采取行动。
-- 作品内容: 基于气象雷达、覆盖全美的每夜鸟类迁徙预报与实时地图，并用于“熄灯”提醒，请城市在迁徙高峰夜调暗灯光。
-- 实现方式: 基于 NEXRAD 雷达和气象数据的机器学习模型，与科罗拉多州立大学和马萨诸塞大学阿默斯特分校合作。
-- 论文: https://doi.org/10.1126/science.aat7526 (Science 2018)
-- 视频: https://www.youtube.com/watch?v=nEyGw1cl1OQ
-- 项目主页: https://birdcast.info/
-
-#### Firefly Sign (street lighting switched off for glow worms) — Marcus Foth (2018)
-- 类型: 产品与平台 · 生物: 昆虫
-- 核心想法: 有时，为其他物种所做的设计就是关掉技术。
-- 作品内容: 路边的告示牌说明：五月至九月某条小路的路灯会关闭，好让萤火虫找到配偶；夜里在那里骑车或步行的人需要自己适应。
-- 实现方式: 英国南格洛斯特郡在繁殖季关闭路灯的政策，并以告示牌向公众说明；Foth 与 Caldwell 引用了这一案例。
-- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
-- 图片: https://figures.semanticscholar.org/0d5f03907558d13705935ba024d412f84d729508/6-Figure9-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Warming Stripes — Ed Hawkins (2018)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把图表精简到只剩颜色，它就能成为共同的符号。
-- 作品内容: 一幅由彩色竖条组成的图形，每年一条，从蓝（冷）到红（暖），不用坐标轴或数字就展示出 1850 年以来的温度变化。
-- 实现方式: 把年度温度距平映射到固定色阶；开放网站可为任何国家生成条纹图。
-- 视频: https://www.youtube.com/watch?v=1e21KiPMm88
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GLOBAL-STRIPES-1850-2025-hires.png/960px-GLOBAL-STRIPES-1850-2025-hires.png
-- 项目主页: https://showyourstripes.info/
-
-#### Community-Empowered Air Quality Monitoring System — CMU CREATE Lab (2017)
-- 类型: 研究原型 · 生物: 人体, 生态系统
-- 核心想法: 让社区自己去看见、感知并记录他们的空气。
-- 作品内容: 一个系统，结合工业设施排烟的延时视频、社区空气传感器与异味报告，让居民为污染事件建立证据。
-- 实现方式: 连接高清摄像头、低成本传感器与众包报告的网页平台，与匹兹堡居民共同开发。
-- 论文: https://doi.org/10.1145/3025453.3025853 (CHI 2017)
-- 视频: https://www.youtube.com/watch?v=6JPGIyz42JY
-
-#### Pollution Pods — Michael Pinsky (2017)
-- 类型: 艺术作品 · 生物: 人体
-- 核心想法: 让身体去感受空气质量统计数据。
-- 作品内容: 五个相连的测地线穹顶，重现挪威 Tautra、伦敦、新德里、北京和圣保罗的空气，让观众从洁净空气走进污染空气。
-- 实现方式: 在穹顶内以安全的湿度、温度和气味组合重现每座城市的污染特征。
-- 视频: https://www.youtube.com/watch?v=I7nMME-3aC8
-- 项目主页: https://www.michaelpinsky.com/project/pollution-pods/
-
-#### Harvest — Julian Oliver (2016)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把计算直接与天气、以及计算所加剧的问题绑在一起。
-- 作品内容: 一台风力发电机，所发电力驱动挖掘加密货币的计算机，收益捐给气候变化研究。
-- 实现方式: 野外装置中的小型风机、电池组与挖矿硬件，首次在瑞典展出。
-- 视频: https://www.youtube.com/watch?v=cuTGW0EUV6M
-- 图片: https://julianoliver.com/projects/harvest/images/harvest.jpg
-- 项目主页: https://julianoliver.com/projects/harvest/
-
-#### Pigeon Air Patrol — Plume Labs (2016)
-- 类型: 研究原型 · 生物: 动物, 人体
-- 核心想法: 城市中的动物可以成为空气信使，传递大家都在呼吸的空气状况。
-- 作品内容: 伦敦的赛鸽背着测量二氧化氮和臭氧的微型背包，人们可以给鸽子发推文，获取实时空气质量读数。
-- 实现方式: 轻量传感器与 GPS 背包，配合推特机器人，与 DigitasLBi 和 Twitter UK 合作完成。
-- 视频: https://www.youtube.com/watch?v=azAvor72l0w
-
-#### Smell Pittsburgh — CMU CREATE Lab (2016)
-- 类型: 产品与平台 · 生物: 人体
-- 核心想法: 人的鼻子就是污染传感器，集体的报告会成为证据。
-- 作品内容: 一款应用：居民为难闻气味打分并描述，报告与空气监测数据一起标注在地图上，并发送给县卫生部门。
-- 实现方式: 手机报告应用、地图可视化，以及根据传感器数据预测异味事件的机器学习。
-- 论文: https://doi.org/10.1145/3301275.3302293 (IUI 2019)
-- 视频: https://www.youtube.com/watch?v=aOPyPfjJhBs
-- 项目主页: https://smellpgh.org/
-
-#### Treepedia — MIT Senseable City Lab (2016)
-- 类型: 产品与平台 · 生物: 植物, 人体
-- 核心想法: 从行人的视线高度而不是从空中去衡量城市自然。
-- 作品内容: 一个网站，利用谷歌街景图像测量城市街道的“绿视率”，并比较各城市的树冠覆盖。
-- 实现方式: 对街景图像进行计算机视觉分割，统计植被像素，并按路段制图。
-- 视频: https://www.youtube.com/watch?v=iDzQ-zbThSg
-- 图片: http://senseable.mit.edu/treepedia/assets/og.png
-- 项目主页: https://senseable.mit.edu/treepedia
-
-#### Sensor.Community (Luftdaten) — Sensor.Community (2015)
-- 类型: 产品与平台 · 生物: 人体
-- 核心想法: 一套便宜、文档完善的套件，可以扩展成覆盖整个大陆的感知网络。
-- 作品内容: 一个由自制颗粒物传感器组成的志愿者网络，始于斯图加特，如今在 70 多个国家拥有数万个传感器，显示在实时地图上。
-- 实现方式: NodeMCU 微控制器配 SDS011 颗粒物传感器，装在排水管外壳中，上传到开放数据服务器。
-- 视频: https://www.youtube.com/watch?v=6ul4v3iNVe0
-- 项目主页: https://sensor.community/en/
-
-#### Smog Free Tower — Studio Roosegaarde (2015)
-- 类型: 艺术作品 · 生物: 人体
-- 核心想法: 让洁净空气成为你可以站进去的地方，让雾霾成为你可以握在手里的东西。
-- 作品内容: 一座七米高的塔，用正离子化技术净化周边空气；收集到的碳颗粒被压制成“无霾戒指”。
-- 实现方式: 基于离子化的空气净化装置，功率约 1170 瓦，在鹿特丹、北京、天津、克拉科夫等地展出。
-- 视频: https://www.youtube.com/watch?v=1uMeuVxywBM
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Smog_free_tower_in_Beijing_03.jpg/960px-Smog_free_tower_in_Beijing_03.jpg
-- 项目主页: https://www.studioroosegaarde.net/project/smog-free-tower
-
-#### Waterlicht — Studio Roosegaarde (2015)
-- 类型: 艺术作品 · 生物: 生态系统, 人体
-- 核心想法: 把抽象的洪水风险变成一条可以站在其下的海平面。
-- 作品内容: 夜晚，波动的蓝色 LED 光线与透镜“淹没”一座公共广场，显示若没有荷兰的堤坝水位会涨多高；访客在虚拟海平面之下行走。
-- 实现方式: 由软件控制的 LED 和透镜在设定高度投出层叠光线；先后在 Westervoort、阿姆斯特丹博物馆广场、纽约等地展出。
-- 论文: https://doi.org/10.1145/3284389.3284495 (MAB 2018)
-- 视频: https://www.youtube.com/watch?v=LWzPm_ponkI
-- 图片: https://cdn.prod.website-files.com/6683beecb76948bee8843558/66cfb15dd70d897cb22cfd9b_Waterlicht%20Roosegaarde.png_new.webp https://cdn.prod.website-files.com/6683beecb76948bee8843558/66c2e02fe9d04908dc6d1f24_8MAIN_Waterlicht_Roosegaarde_Loevestein_%40Daniel_result_new.webp
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Global Forest Watch — World Resources Institute (2014)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 让任何人几乎实时地看到森林的消失。
-- 作品内容: 一个开放的在线平台，基于卫星数据展示全球树木覆盖的减少与毁林预警，每周更新。
-- 实现方式: 基于 Landsat 的树木覆盖变化图（马里兰大学）与 GLAD 预警，呈现在可订阅的网页地图上。
-- 视频: https://www.youtube.com/watch?v=lTG-0brb98I
-- 图片: https://www.globalforestwatch.org/preview.jpg
-- 项目主页: https://www.globalforestwatch.org/
-
-#### Rainforest Connection Guardian — Rainforest Connection (2014)
-- 类型: 产品与平台 · 生物: 生态系统, 动物
-- 核心想法: 给森林装上耳朵和电话线，让它能实时报告伤害。
-- 作品内容: 带太阳能板的回收智能手机被挂在雨林高处的树上持续监听；一旦听到电锯或卡车声，护林员就会收到警报，录音还可用来追踪野生动物。
-- 实现方式: 太阳能驱动的 Android“Guardian”设备通过移动网络把音频传到云端模型，检测非法采伐和物种叫声。
-- 视频: https://www.youtube.com/watch?v=xPK2Ch90xWo
-- 图片: https://framerusercontent.com/images/nqlZBCfcFokkCz6ScVVTJWeI.png
-- 项目主页: https://rfcx.org/
-
-#### A Song of Our Warming Planet — Daniel Crawford (2013)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把变暖听作不断升高的音高，几分钟内就能感受到一种趋势。
-- 作品内容: 一首大提琴曲：每个音符代表 1880 年以来的一年全球温度，随地球变暖而音高上升。
-- 实现方式: 把 NASA GISS 温度记录映射到大提琴的音域上。
-- 视频: https://www.youtube.com/watch?v=Z7UCUoWmv9I
-- 项目主页: https://danielcrawford.org/
-
-#### Smart Citizen Kit — Fab Lab Barcelona (2012)
-- 类型: 产品与平台 · 生物: 人体, 生态系统
-- 核心想法: 关于一个街区的环境数据，可以由住在那里的人来生产。
-- 作品内容: 一套开源传感器套件，居民装在家中测量空气质量、噪声、光照和温度，并分享到公共地图上。
-- 实现方式: 兼容 Arduino 的主板，搭载气体、颗粒物和声音传感器，通过 Wi-Fi 上传到开放数据平台。
-- 视频: https://www.youtube.com/watch?v=pAUvh1aY-oY
-- 项目主页: https://smartcitizen.me/
-
-#### Safecast — Safecast (2011)
-- 类型: 产品与平台 · 生物: 人体, 生态系统
-- 核心想法: 当官方数据缺位时，公民可以建立自己可信的测量。
-- 作品内容: 福岛核事故后，志愿者项目开发了开源盖革计数器，并把超过 1.5 亿条辐射读数作为开放数据公开，之后又扩展到空气质量。
-- 实现方式: 装在汽车和自行车上的 bGeigie Nano 套件记录带 GPS 的读数，上传到开放地图。
-- 视频: https://www.youtube.com/watch?v=gXa4Q9plVGs
-- 图片: https://safecast.org/wp-content/uploads/2019/12/bgphoto-l6.jpg
-- 项目主页: https://safecast.org/
-
-#### Grassroots Balloon Mapping — Public Lab (2010)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: 一只便宜的气球就能让社区拥有自己的俯瞰视角。
-- 作品内容: 一种用氦气球和风筝吊起相机制作航拍地图的方法；志愿者用它记录了墨西哥湾沿岸的深水地平线漏油事件。
-- 实现方式: 装在汽水瓶支架中的傻瓜相机、系留气球，以及用于拼接图像的 MapKnitter 软件。
-- 视频: https://www.youtube.com/watch?v=vrCBvOAA7Ns
-- 项目主页: https://publiclab.org/
-
-#### Particle Falls — Andrea Polli (2010)
-- 类型: 艺术作品 · 生物: 人体
-- 核心想法: 把看不见的污染呈现为美丽、易读的公共影像。
-- 作品内容: 投射在建筑立面上的大型影像：一面蓝色瀑布，当附近的传感器实时探测到细颗粒物污染时，橙白色的粒子会迸发出来。
-- 实现方式: 测量 PM2.5 的浊度计驱动生成式投影软件；在圣何塞、费城、匹兹堡等城市展出。
-- 视频: https://www.youtube.com/watch?v=m5Vwi8VSasQ
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Andrea_Polli_2013_Particle_Falls_056.JPG/960px-Andrea_Polli_2013_Particle_Falls_056.JPG
-
-#### The Design of Eco-Feedback Technology — Jon E. Froehlich (2010)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 向人展示其环境影响，只有在展示方式符合行为改变的规律时才有效。
-- 作品内容: 与 Leah Findlater、James Landay 合写的 CHI 论文，综述生态反馈技术，并连接 HCI 与环境心理学。
-- 实现方式: 综述 89 项环境心理学研究与 HCI 生态反馈系统，提炼设计维度。
-- 论文: https://doi.org/10.1145/1753326.1753629 (CHI 2010)
-
-#### inAir — Eric Paulos (2010)
-- 类型: 研究原型 · 生物: 人体
-- 核心想法: 让看不见的室内空气变得可见，会改变做饭、打扫这样的日常习惯。
-- 作品内容: Sunyoung Kim 与 Eric Paulos 设计的家用设备，测量室内细颗粒物，在屏幕上显示读数，并让家庭通过社交网络分享数据。
-- 实现方式: 带可视显示与社交分享功能的颗粒物计数器，在家庭中部署四周。
-- 论文: https://doi.org/10.1145/1753326.1753605 (CHI 2010)
-- 图片: https://figures.semanticscholar.org/134bfc9d694708e02db5cf218728b3bfeb61803d/1-Figure1-1.png
-
-#### Common Sense: Street Sweeper Air Sensing — Eric Paulos (2009)
-- 类型: 研究原型 · 生物: 人体, 生态系统
-- 核心想法: 把传感器装在本就走遍每条街的车辆上，再把数据交给需要它的社区。
-- 作品内容: 一个项目：把空气质量传感器装到旧金山的街道清扫车上，并与西奥克兰的社区行动者合作绘制污染地图。
-- 实现方式: 车载一氧化碳、氮氧化物、臭氧传感器与 GPS，结合与环境正义团体的田野工作（英特尔伯克利研究院）。
-- 论文: https://doi.org/10.1145/1518701.1518762 (CHI 2009)
-- 图片: https://figures.semanticscholar.org/4356d8905fe813da608acf865f1a02cf6a74302e/3-Figure1-1.png
-
-#### Ecosia — Ecosia (2009)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 给一种平凡的数字习惯配上可见的生态计数器。
-- 作品内容: 一个搜索引擎，把广告利润用于植树项目，并向每位用户显示其搜索帮助资助的树木累计数。
-- 实现方式: 广告支持的搜索，带个人植树计数器、月度财务报告，以及分布在多个国家的植树合作伙伴。
-- 视频: https://www.youtube.com/watch?v=yRDA1ynrHTU
-- 图片: https://www.ecosia.org/static/og/facebook.jpg
-- 项目主页: https://www.ecosia.org/
-
-#### UbiGreen — Jon E. Froehlich (2009)
-- 类型: 研究原型 · 生物: 动物, 植物, 人体
-- 核心想法: 在锁屏上放置环境式的自然图像，映射日常的环保选择。
-- 作品内容: 一款手机应用，感知用户的出行方式，把绿色出行显示在手机壁纸上：一棵长大的树，或一只冰面逐渐扩大的北极熊。
-- 实现方式: 借助可穿戴传感器与手机半自动感知出行，配合环境式壁纸；对 13 名参与者进行了三周的实地研究。
-- 论文: https://doi.org/10.1145/1518701.1518861 (CHI 2009)
-- 图片: https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/1-Figure1-1.png https://figures.semanticscholar.org/fc3cbcf95b137ffdf8cb236a9af1248e30e96d7c/4-Figure3-1.png
-
-#### Weather Scores — Nathalie Miebach (2009)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 天气数据既能成为一件物品，也能成为一首音乐。
-- 作品内容: 类似编织篮筐的雕塑，编码了风速、气压、温度等风暴数据，同时也是由音乐家演奏的乐谱。
-- 实现方式: 根据气象记录手工编织的芦苇与木结构，并与音乐家合作转译为乐谱。
-- 视频: https://www.youtube.com/watch?v=MbhNaj88uL4
-- 项目主页: https://www.nathaliemiebach.com/
-
-#### Nuage Vert — HeHe (Helen Evans & Heiko Hansen) (2008)
-- 类型: 艺术作品 · 生物: 人体, 生态系统
-- 核心想法: 直接在排放物上作画，让能耗在天空中可见。
-- 作品内容: 绿色激光勾勒出赫尔辛基 Salmisaari 电厂排出的蒸汽云轮廓；当地居民用电减少时，光圈会变大。
-- 实现方式: 跟踪式激光投影结合电力公司的实时用电数据，为 Pixelache 艺术节作品。
-- 视频: https://www.youtube.com/watch?v=yFKTG3UqKGc
-- 项目主页: http://www.hehe.org/
-
-#### The Idea of a Tree — mischer'traxler studio (2008)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 让太阳而不是设计师决定形状，使物件像年轮一样带着那一天的痕迹。
-- 作品内容: 一台太阳能驱动的机器，把线拉过胶水和染料后缠绕在模具上；当天日照越强，物件就越厚、颜色越深，所以每张凳子或每盏灯都记录了它被制作那天的天气。
-- 实现方式: 光伏板直接为缠绕机供电；日照变化改变缠绕速度和染色深浅，日落时生产停止。
-- 视频: https://www.youtube.com/watch?v=-5t2q_hSpgc
-- 图片: https://mischertraxler.com/wp/wp-content/uploads/2017/11/mischertraxler_tioat_travelmachine.jpg https://mischertraxler.com/wp/wp-content/uploads/2017/11/the_idea_of_a_tree_all_different_trees-848x1200.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Tangible Earth — Shinichi Takemura (2005)
-- 类型: 产品与平台 · 生物: 生态系统
-- 核心想法: 把星球捧在手中，会让它的系统显得亲近。
-- 作品内容: 一个千万分之一比例的交互式数字地球仪，人们用手转动它，查看实时云图、地震、海温等地球数据。
-- 实现方式: 带触感旋转交互的球形背投屏，接入实时数据源。
-- 视频: https://www.youtube.com/watch?v=sGDT_gkW0_0
-
-### 数字与媒介化的自然
-
-被渲染、模拟或增强的自然：虚拟森林、数字孪生、生成式生态系统、技术化的自然。
-
-#### Large Nature Model — Refik Anadol (2024)
-- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
-- 核心想法: 一个自然的基础模型，引出“谁拥有生命世界的数字图像”这个问题。
-- 作品内容: 一个只用自然图像与声音训练的开源生成式 AI 模型，数据与史密森尼学会、伦敦自然历史博物馆等机构合作采集，并以沉浸式装置展出。
-- 实现方式: 扩散类模型，训练数据为精选的自然数据档案，包括工作室自己的雨林录音。
-- 视频: https://www.youtube.com/watch?v=4oXaOvObsxA
-- 项目主页: https://refikanadol.com/works/large-nature-model/
-
-#### Under the Shade — Francesca Valsecchi (2024)
-- 类型: 研究原型 · 生物: 动物
-- 核心想法: 用声音把一种被忽视的城市鸟类带入人的注意。
-- 作品内容: 由一组扬声器组成的声音装置，播放生成的乌鸦声景，让人在乌鸦栖息地之外聆听它们和它们的叫声。
-- 实现方式: 把乌鸦的野外录音编排成分布在多个扬声器上的空间声景。
-- 论文: https://doi.org/10.21606/drs.2024.752 (DRS 2024)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Terra Nil — Free Lives (2023)
-- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
-- 核心想法: 把一个游戏类型的目标从“建设”翻转为“修复并离开”。
-- 作品内容: 一款“反向城市建造”游戏：玩家把荒地变成繁茂的生物群落，然后回收所有机器，不留痕迹地离开。
-- 实现方式: 带有土壤、水、气候与物种生态演替规则的策略游戏。
-- 视频: https://www.youtube.com/watch?v=F8eYqNNxICE
-- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1210320/capsule_616x353.jpg
-- 项目主页: https://store.steampowered.com/app/1210320/Terra_Nil/
-
-#### Endling: Extinction is Forever — Herobeat Studios (2022)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 从一只努力求生的动物的视角体验生态崩溃。
-- 作品内容: 一款电子游戏：玩家扮演在被人类破坏的地球上最后一只母狐狸，在森林被砍、河流被污染时保护幼崽。
-- 实现方式: 一款横版生存游戏，环境随着画面外人类活动一天天恶化。
-- 论文: https://doi.org/10.21606/drs.2024.606 (DRS 2024)
-- 视频: https://www.youtube.com/watch?v=kiM2_XB_HZE
-- 图片: https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-3.jpg https://herobeatstudios.com/wp-content/uploads/2024/04/Endling-Win64-Shipping-2021-12-19-11-30-22.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Feral Map — Jaz Hee-jeong Choi, Markéta Dolejšová (2022)
-- 类型: 研究原型 · 生物: 生态系统, 植物, 动物
-- 核心想法: 用故事而不是木材蓄积量来绘制森林。
-- 作品内容: 一张在线地图，收集 Open Forest 行走中记录的森林故事、生物与印象；没有固定浏览结构，森林生命之间意想不到的联系因此浮现。
-- 实现方式: 参与者走进当地森林，记录观察，并以森林生物的视角共同写故事，再发布到一张非层级的网页地图上。
-- 论文: https://doi.org/10.1145/3537797.3537864 (PDC 2022)
-- 图片: https://figures.semanticscholar.org/b51fa084e4263a11776b6d17e762e205152774b2/3-Figure2-1.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Moss Garden of Resonating Microcosms — teamLab (2022)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 让风、观众与苔藓共享同一个交互界面。
-- 作品内容: 东京 teamLab Planets 户外苔藓庭园中布满蛋形的“卵形体”，被人或风推动时会变色并发出声音，在庭园中层层传递。
-- 实现方式: 带传感器、LED 与扬声器的不倒翁式发光体，放置在活苔藓之上。
-- 视频: https://www.youtube.com/watch?v=uzLHCg6h_Yg
-- 项目主页: https://www.teamlab.art/
-
-#### Smart Forests Atlas — Michelle Westerlaken, Jennifer Gabrys (2022)
-- 类型: 产品与平台 · 生物: 生态系统, 植物
-- 核心想法: 像打理一座会生长的花园那样组织森林知识，而不是做一个封闭的档案库。
-- 作品内容: 一个关于森林中数字技术的开放数据研究平台，以“数字花园”的方式构建，故事、数据与印象可以不按固定结构自由浏览。
-- 实现方式: 与一家数字工具合作社共同设计，围绕六项设计品质，抵制园艺与归档中的殖民与人类中心习惯。
-- 论文: https://doi.org/10.1145/3537797.3537804 (PDC 2022)
-- 视频: https://www.youtube.com/watch?v=q4Qks4wUiF0
-- 图片: https://fra1.digitaloceanspaces.com/smartforests/images/SmartForests_Atlas_Home.original.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Machine Hallucinations: Nature Dreams — Refik Anadol (2021)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 用自然图像训练的 AI，向我们展示了我们集体的、被媒介化的自然图像。
-- 作品内容: 一个大型 LED“数据绘画”系列：用数亿张自然照片训练的生成模型，在风景与花朵之间不断变形。
-- 实现方式: 以公开自然照片训练的 StyleGAN 类模型，渲染成流动的颜料般动画。
-- 视频: https://www.youtube.com/watch?v=yiPidm0TZ48
-- 项目主页: https://refikanadol.com/works/machine-hallucinations-nature-dreams/
-
-#### Alba: A Wildlife Adventure — ustwo games (2020)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 一款关于留意野生动物的游戏，也可以在现实中种树。
-- 作品内容: 一款游戏：小女孩在一座地中海岛屿上拍摄、识别鸟类和动物，并为拯救岛上的自然保护区奔走；工作室承诺为每位玩家种下一棵真树。
-- 实现方式: 带拍照识别物种机制的开放世界游戏，与 Ecologi 合作植树。
-- 视频: https://www.youtube.com/watch?v=a-Eu9WE3grA
-- 图片: https://www.albawildlife.com/alba-a-wildlife-adventure-ustwo.jpg
-- 项目主页: https://www.albawildlife.com/
-
-#### Beyond Blue — E-Line Media (2020)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 把游戏与真实科学影像配对，让游戏指向真实的海洋。
-- 作品内容: 一款海洋探索游戏：玩家以海洋生物学家的身份扫描抹香鲸、鲨鱼与珊瑚礁生物，并可解锁 BBC《蓝色星球 II》的迷你纪录片。
-- 实现方式: 与海洋科学家和 BBC 自然历史部合作开发的叙事游戏。
-- 视频: https://www.youtube.com/watch?v=pOAWBCXpo6k
-- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057090/capsule_616x353.jpg
-- 项目主页: https://www.beyondbluegame.com/
-
-#### Can Simulated Nature Support Mental Health? — Matthew H. E. M. Browning (2020)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 虚拟自然有帮助，但它只能维持情绪，而不像真实场所那样提升情绪。
-- 作品内容: 一项实验，比较在户外自然中六分钟、观看同一地点录制的 360 度 VR 视频，以及室内环境：两种自然条件都有恢复作用，但积极情绪只在户外时上升。
-- 实现方式: 以本科生为被试的实验，在暴露前后测量皮肤电导、恢复感与情绪。
-- 论文: https://doi.org/10.3389/fpsyg.2019.02667 (Frontiers in Psychology 2020)
-- 图片: https://figures.semanticscholar.org/d64c8df172187348b953c98800e989e96e3bedc6/4-Figure2-1.png
-
-#### Salvaging Birds — Maya Livio (2019)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 追问鸟变成数据时失去了什么，并生成被数据遗漏的鸟。
-- 作品内容: 一个电影与媒体项目，用 AI 生成雌性、间性和酷儿鸟类及鸟鸣，填补鸟类保护数据集中的雄性偏差，并穿插鸟类学家的访谈。
-- 实现方式: 用定制训练的生成模型，基于已有的雌鸟或未标性别鸟类录音，生成思辨性的鸟类图像与鸣声。
-- 论文: https://doi.org/10.1145/3491102.3501851 (CHI 2022)
-- 视频: https://www.youtube.com/watch?v=WK4zhtUvNIQ
-- 图片: https://freight.cargo.site/w/1200/i/33450d8c9c40b1e702db1a65d9aa224dccf5284653e706ca2acdc3bebe2bb2cc/Salvaging-Birds-Still-3_Livio.png https://freight.cargo.site/t/original/i/fcdd8840acb35bccf15624e48cc17c524543cec2ccd6d47c17a1b54662ff4978/Salvaging-Birds_Still-6.png
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Awavena — Lynette Wallworth (2018)
-- 类型: 艺术作品 · 生物: 植物, 生态系统, 人体
-- 核心想法: 数字自然可以承载原住民看待森林的方式，前提是与社群共同创作。
-- 作品内容: 与巴西亚马逊地区 Yawanawá 族人共同创作的 VR 作品，森林以社群第一位女萨满 Hushahu 的视觉幻象呈现。
-- 实现方式: 与社群共同开发的体积捕捉与粒子渲染；2018 年在圣丹斯首映。
-- 视频: https://www.youtube.com/watch?v=zIM8mOYvPec
-
-#### Eco — Strange Loop Games (2018)
-- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
-- 核心想法: 一个共享而脆弱的生态系统，会促使玩家协商立法来保护它。
-- 作品内容: 一款多人游戏：玩家在一个带模拟生态系统的星球上建设文明；过度狩猎、污染或砍伐会导致物种灭绝与生态崩溃。
-- 实现方式: 基于智能体的生态模拟，包括物种种群、污染与气候，并有游戏内的政府与经济系统。
-- 视频: https://www.youtube.com/watch?v=ud_refZuQoA
-- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/382310/7fbe4fbde5ef9c1ccb70a176da3c6736f6c78231/capsule_616x353.jpg
-- 项目主页: https://play.eco/
-
-#### Digital-Nature Hybrids in a Walled Kitchen Garden — Liz Edwards, Paul Coulton (2017)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 花园里的解说，可以随着花园一起生长。
-- 作品内容: 为英国国民信托一座围墙厨房花园设计的数字-自然混合物件，用来吸引访客参与，并通过“通过设计进行研究”不断迭代。
-- 实现方式: 对解说物件进行“通过设计进行研究”的迭代，并反思材料、价值、参与和场所。
-- 论文: https://doi.org/10.1162/desi_a_00452 (Design Issues 2017)
-- 图片: https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/4-Figure1-1.png https://figures.semanticscholar.org/7784d144d4c4b4febd44c76e68930a6d8fc0ce39/8-Figure3-1.png
-- 项目主页: https://doi.org/10.1162/desi_a_00452
-
-#### Everything — David OReilly (2017)
-- 类型: 产品与平台 · 生物: 动物, 植物, 生态系统
-- 核心想法: 扮演万物，于是没有哪一种视角处于中心。
-- 作品内容: 一款电子游戏：玩家可以成为宇宙中的任何东西，从细菌、动物到行星和星系，并在不同尺度间切换，配有 Alan Watts 讲座的旁白。
-- 实现方式: 程序化开放世界允许玩家附身于任何物体或生物，在尺度间缩放；游戏影片还作为自动播放的艺术作品展出。
-- 论文: https://doi.org/10.21606/drs.2024.606 (DRS 2024)
-- 视频: https://www.youtube.com/watch?v=HdJk8ROpuEo
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Franchise Freedom — Studio Drift (2017)
-- 类型: 艺术作品 · 生物: 动物
-- 核心想法: 用机器重建一种自然奇观，并追问鸟群拥有怎样的自由。
-- 作品内容: 一场夜间表演：数百架发光无人机依据对椋鸟群飞的研究所编写的算法，像鸟群一样飞行。
-- 实现方式: 依据集群规则编写的群控软件，运行在定制无人机上；在迈阿密巴塞尔艺博会、火人节和中央公园演出。
-- 视频: https://www.youtube.com/watch?v=YnhoAE2T8xg
-- 图片: https://studiodrift.com/wp-content/uploads/2022/02/1.-Studio-Drift_Franchise-Freedom_ABurning-Man-Festival_USA_2018_Rahi-Rezvani.jpg
-- 项目主页: https://studiodrift.com/work/franchise-freedom/
-
-#### Inner Garden — Joan Sol Roo (2017)
-- 类型: 研究原型 · 生物: 生态系统, 人体
-- 核心想法: 把内在状态映射到一片可见、可触的活景观上。
-- 作品内容: 一个增强沙盘：人们用手塑造地形，他们的呼吸和心率会改变投影微缩世界中的天气、海洋与植物生长，用于辅助正念。
-- 实现方式: Kinect 深度感知与沙面投影，配合生理传感器和 VR 模式。
-- 论文: https://doi.org/10.1145/3025453.3025743 (CHI 2017)
-- 视频: https://www.youtube.com/watch?v=JLm5kofOIIQ
-
-#### Nature Treks VR — Greener Games (2017)
-- 类型: 产品与平台 · 生物: 植物, 动物, 生态系统
-- 核心想法: 把虚拟自然当作放松工具，用于真实自然难以触及的地方，如医院。
-- 作品内容: 一款宁静自然环境的 VR 应用，从森林到水下再到太空，用户可以种树、召唤动物、改变天气。
-- 实现方式: 面向消费级头显的游戏引擎环境，带简单的“魔法”交互与环境音。
-- 视频: https://www.youtube.com/watch?v=-bIWI_5ZOEk
-- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/587580/capsule_616x353.jpg
-- 项目主页: https://store.steampowered.com/app/587580/Nature_Treks_VR/
-
-#### Walden, a game — Tracy Fullerton (2017)
-- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
-- 核心想法: 游戏可以奖励专注与缓慢，而不是征服。
-- 作品内容: 一款第一人称游戏，模拟梭罗在瓦尔登湖的两年；玩家要维持生存，但注意自然和阅读会得到奖励，忽视美则会让“灵感”枯竭。
-- 实现方式: 依据梭罗文本构建的四季开放世界模拟，在南加州大学游戏创新实验室开发十年。
-- 视频: https://www.youtube.com/watch?v=eoc8OnYvZfw
-- 图片: https://images.squarespace-cdn.com/content/v1/5972908bf7e0ab1a5fe04927/1504130885549-EURUQCDKA8TBUTWVBDVR/Sunset_summer_300dpi.jpg
-- 项目主页: https://www.waldengame.com/
-
-#### Avian Attractor — Judith Doyle (2016)
-- 类型: 艺术作品 · 生物: 动物, 人体
-- 核心想法: 把人和鸟的动作放进同一画面，暗示彼此的亲缘。
-- 作品内容: 一件交互装置，把鸟的录像和图片与访客的实时影像融合，生成鸟与人共处同一画面的抽象合成场景。
-- 实现方式: 访客的实时视频与鸟类影像资料实时合成；在 CHI 2016 交互展区展出。
-- 论文: https://doi.org/10.1145/2851581.2891093 (CHI 2016 EA)
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### Graffiti Nature — teamLab (2016)
-- 类型: 艺术作品 · 生物: 动物, 植物, 生态系统
-- 核心想法: 让孩子把物种“画”进生态系统，看食物网如何作用于它们。
-- 作品内容: 孩子们给纸上的动物和花朵涂色，扫描后它们在投影出的生态系统中复活，根据周围的生物进食、繁殖或死亡。
-- 实现方式: 绘画扫描仪、捕食-被捕食规则的实时模拟，以及地面与墙面投影。
-- 视频: https://www.youtube.com/watch?v=OomhbW3bffs
-- 图片: https://teamlab-site.imagewave.pictures/b5EBo9Uo-OK6SM09ZTkEZQ/dkbiBVbLMaAZoA8VG9gJx3/width=1200,format=jpeg
-- 项目主页: https://www.teamlab.art/w/graffitinature/
-
-#### The Woods (Being Radiotropic) — Tega Brain (2016)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 让网络基础设施与植物协商，而不只服务人类。
-- 作品内容: 一台由室内植物控制的无线路由器：植物给自己拍照，把照片插入人们打开的网页；如果它状况不好，还能把用户踢下网络。
-- 实现方式: 一台带摄像头和传感器的 Linux 路由器，根据植物状态改写网页内容并限制接入；属于在 Eyebeam 展出的 Being Radiotropic 路由器系列。
-- 图片: https://freight.cargo.site/t/original/i/f092d5ebc4b9d858a85a56d59499caa97579f601bf515052bb6df7253355b452/theWoods-small.jpg https://freight.cargo.site/t/original/i/8b3bdaf62ece6629c69bcbcaea53d62f8609dbcf05d678917d1e0a24e4e88073/plant-small.jpg
-- 项目主页: https://artifact-archive.org/whole-archive
-
-#### theBlu: Whale Encounter — Wevr (2016)
-- 类型: 艺术作品 · 生物: 动物, 生态系统
-- 核心想法: 尺度是 VR 最擅长的：以真实大小与动物相遇。
-- 作品内容: 一段简短的房间尺度 VR 作品：观众站在沉船甲板上，一头真实大小的蓝鲸从身旁游过。
-- 实现方式: 为 HTC Vive 实时渲染的水下场景，属于 theBlu 系列。
-- 视频: https://www.youtube.com/watch?v=hUpkVa4UkMg
-- 项目主页: https://wevr.com/theblu
-
-#### A Forest Where Gods Live — teamLab (2015)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 数字艺术可以让人重新凝视一座古老的森林，而不是取代它。
-- 作品内容: 在九州 50 公顷的御船山乐园举行的夜间展览，投射在古树、洞窟、岩石和池塘上的影像与灯光会回应观众。
-- 实现方式: 在庭园自然景物中布置交互投影映射与响应式灯光。
-- 视频: https://www.youtube.com/watch?v=EFbxQIQ8IxM
-- 项目主页: https://www.teamlab.art/
-
-#### Atmoph Window — Atmoph (2015)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: “等离子窗”已成为消费品：想想它给予了什么，又拿走了什么。
-- 作品内容: 一块外框像窗户的壁挂屏幕，播放数千段带声音的长镜头风景视频（包括实时画面），把远方的自然带进房间。
-- 实现方式: 联网显示器配备 4K 风景片库与环境声，通过手机应用控制。
-- 视频: https://www.youtube.com/watch?v=PvHZuNk6LYs
-- 图片: https://webres-atmoph.global.ssl.fastly.net/og/og_top_yo_v3.jpg
-- 项目主页: https://atmoph.com/en
-
-#### Digital Nature — Yoichi Ochiai (2015)
-- 类型: 书与文章 · 生物: 生态系统, 人体
-- 核心想法: 不要把数字当作自然的对立面，而要把它看作自然的新一层。
-- 作品内容: 一个概念与研究纲领，在演讲和 2018 年的著作《デジタルネイチャー》中提出，描述计算机与自然融合为同一环境的未来。
-- 实现方式: 通过 Digital Nature Group 在声悬浮、全息和计算制造方面的作品来构建论点。
-- 视频: https://www.youtube.com/watch?v=BGwrRFjmhkU
-- 项目主页: https://digitalnature.slis.tsukuba.ac.jp/
-
-#### Flowers and People, Cannot be Controlled but Live Together — teamLab (2015)
-- 类型: 艺术作品 · 生物: 植物, 人体
-- 核心想法: 数字生态系统可以像真实生态一样回应人的存在。
-- 作品内容: 一个满是数字花朵的房间：花随季节实时生长、开放和凋落；人静止不动的地方花开得更快，被触碰时则凋零。
-- 实现方式: 实时计算机渲染（非预录），在投影墙面上追踪观众。
-- 视频: https://www.youtube.com/watch?v=arafX3Es6JQ
-- 项目主页: https://www.teamlab.art/
-
-#### CoeLux Artificial Skylight — CoeLux (2014)
-- 类型: 产品与平台 · 生物: 生态系统, 人体
-- 核心想法: 模拟天空的物理，而不只是它的图像。
-- 作品内容: 一种人造天窗，以逼真的纵深再现蓝天和一轮清晰温暖的太阳，用于无窗房间和地下室。
-- 实现方式: LED 光源与可再现瑞利散射的纳米结构材料，源于因苏布里亚大学 Paolo Di Trapani 的研究。
-- 视频: https://www.youtube.com/watch?v=0ot649VWF8Q
-- 项目主页: https://www.coelux.com/
-
-#### Proteus — Ed Key & David Kanaga (2013)
-- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
-- 核心想法: 探索和聆听本身就可以是一款自然游戏的全部意义。
-- 作品内容: 一款在程序生成的岛屿上随四季漫步的游戏，每一株植物、每一只生物和每一种天气都会发出音乐。
-- 实现方式: 程序生成地形与植被，配合 David Kanaga 的生成式配乐，声音与视野中的物体绑定。
-- 视频: https://www.youtube.com/watch?v=rpkpuoq6y9s
-- 图片: https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/219680/capsule_616x353.jpg
-- 项目主页: https://store.steampowered.com/app/219680/Proteus/
-
-#### earth.nullschool.net — Cameron Beccario (2013)
-- 类型: 产品与平台 · 生物: 生态系统
-- 核心想法: 让人转动星球，看它的空气和水在流动。
-- 作品内容: 一个动态地球仪，以流动的粒子显示全球风、洋流、海浪、温度与污染，每隔数小时根据预报模型更新。
-- 实现方式: 在浏览器中用 D3 与 canvas 粒子渲染可视化 GFS、OSCAR 与 GEOS-5 数据。
-- 视频: https://www.youtube.com/watch?v=vs3eqRh7BXw
-- 图片: https://earth.nullschool.net/sample.jpg
-- 项目主页: https://earth.nullschool.net/
-
-#### Rain Room — Random International (2012)
-- 类型: 艺术作品 · 生物: 人体
-- 核心想法: 技术可以让一种天气现象回应你，而这会改变雨的感受。
-- 作品内容: 一片落水之场，观众走到哪里雨就在哪里停下，让人可以站在大雨中却不被淋湿。
-- 实现方式: 3D 摄像头追踪人体，并关闭每人头顶天花板网格中的电磁阀。
-- 视频: https://www.youtube.com/watch?v=FslABAyj2OA
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/RainRoomSharjah.jpg/960px-RainRoomSharjah.jpg
-- 项目主页: https://en.wikipedia.org/wiki/Rain_Room
-
-#### Supertree Grove — Gardens by the Bay (2012)
-- 类型: 产品与平台 · 生物: 植物, 生态系统
-- 核心想法: 一棵工程化的树，可以承载真实的植物和真实的生态功能。
-- 作品内容: 新加坡滨海湾花园中 18 棵高 25 至 50 米的垂直花园，覆盖着活植物，收集雨水、为温室排气，并每晚举行灯光音乐秀。
-- 实现方式: 钢框架配 16 万多株植物的种植面板、光伏电池，以及与生物质冷却系统相连的风道（Grant Associates 设计）。
-- 视频: https://www.youtube.com/watch?v=5UhnuddcAsE
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg/960px-Supertree_Grove%2C_Gardens_by_the_Bay%2C_Singapore_-_20120712-02.jpg
-- 项目主页: https://www.gardensbythebay.com.sg/en/things-to-do/attractions/supertree-grove.html
-
-#### Wind Map — Fernanda Viégas & Martin Wattenberg (2012)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 看不见的天气被画成运动时，就成了一片活的风景。
-- 作品内容: 一张美国风场的实时网页地图，以流动的白色线条绘制，每小时根据国家数字预报数据库更新；后被纽约现代艺术博物馆收藏。
-- 实现方式: 在浏览器中基于每小时地表风预报进行粒子平流渲染。
-- 视频: https://www.youtube.com/watch?v=LUCDmWTVlGo
-- 项目主页: http://hint.fm/wind/
-
-#### Flower — thatgamecompany (2009)
-- 类型: 艺术作品 · 生物: 植物, 生态系统
-- 核心想法: 扮演一种自然力量，而不是一个角色。
-- 作品内容: 一款游戏：玩家化身为风，带着一串花瓣掠过原野，让花朵绽放，并为灰色的城市带回色彩。
-- 实现方式: 借助 PlayStation Sixaxis 手柄体感控制，在密集的模拟草地上飞行。
-- 视频: https://www.youtube.com/watch?v=s1oZnf3475c
-- 图片: https://thatgamecompany.com/wp-content/uploads/thatgamecompany-games-bg-flower.jpg
-- 项目主页: https://thatgamecompany.com/flower/
-
-#### A Plasma Display Window? The Shifting Baseline Problem — Peter H. Kahn Jr. (2008)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 自然的屏幕不是通往自然的窗，即使看起来一样。
-- 作品内容: 一项实验：办公室分别配有真实窗户、实时播放高清自然景观的等离子屏，或一面空墙；面对真实窗户时心率恢复得比面对屏幕更快。
-- 实现方式: 90 名参与者的对照实验，测量轻度压力后的心率恢复；另有在无窗内部办公室中的田野研究。
-- 论文: https://doi.org/10.1016/j.jenvp.2007.10.008 (Journal of Environmental Psychology 2008)
-- 图片: https://figures.semanticscholar.org/46c2249904dd1bd634a5bb1fcc20f5fb5010887f/3-Figure1-1.png
-
-#### Fragile Future — Studio Drift (2008)
-- 类型: 艺术作品 · 生物: 植物
-- 核心想法: 把最脆弱的自然形态与电子器件结合，追问它们共享怎样的未来。
-- 作品内容: 光雕塑：把真实的蒲公英种子一粒粒粘在 LED 上，并用可以像网络一样延展的青铜电路连接起来。
-- 实现方式: 手工采集的蒲公英经保存后粘贴在 LED 上，安装于模块化磷青铜框架。
-- 视频: https://www.youtube.com/watch?v=Jg8YH32s2Mo
-- 图片: https://studiodrift.com/wp-content/uploads/2021/02/FragileFuture_StudioDrift_CidadeMatarazzo_Brazil1.jpeg
-- 项目主页: https://studiodrift.com/work/fragile-future/
-
-#### explore.org Live Nature Cams — explore.org (2008)
-- 类型: 产品与平台 · 生物: 动物, 生态系统
-- 核心想法: 实时、不剪辑的自然，能让人远距离地对个体野生动物产生依恋。
-- 作品内容: 一个免费的实时镜头网络，包括卡特迈国家公园布鲁克斯瀑布的熊和 Decorah 鹰巢，数百万人借此追踪个体动物的一整个季节。
-- 实现方式: 太阳能摄像头向 YouTube 和 explore.org 直播，配合聊天社群与“胖熊周”等活动。
-- 视频: https://www.youtube.com/watch?v=J7ZrIDvqlic
-- 图片: https://explore.org/ExploreShareImage.jpg
-- 项目主页: https://explore.org/livecams
-
-#### Artificial Nature — Haru Ji & Graham Wakefield (2007)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 让数字自然是活的：赋予它自己的演化，而不是预设的循环。
-- 作品内容: 一系列沉浸式装置和 VR 世界，其中的人工生物在模拟生态中觅食、生长和繁殖，观众既会扰动它，也会滋养它。
-- 实现方式: 带流体动力学与生成图形的实时人工生命模拟，使用作者自研软件（如 Max/Gen）构建。
-- 视频: https://www.youtube.com/watch?v=BODIzcZUr_o
-- 图片: https://artificialnature.net/img/wae/thumbs/wae8.jpg
-- 项目主页: https://artificialnature.net/
-
-#### Artificial Window View of Nature — Roger S. Ulrich (2005)
-- 类型: 论文 · 生物: 植物, 生态系统, 人体
-- 核心想法: 如果屏幕必须取代窗户，就让它拥有真实窗户的视差和纵深。
-- 作品内容: Adnan Radikovic、John Leggett、John Keyser 与 Roger Ulrich 的 CHI 论文，介绍一块大屏幕，渲染的自然景观会像真窗一样随观者头部位置变化。
-- 实现方式: 在无窗房间的墙面显示器上，根据头部追踪渲染三维自然场景。
-- 论文: https://doi.org/10.1145/1056808.1057075 (CHI EA 2005)
-- 图片: https://figures.semanticscholar.org/29456af02d6238ee92da426a357d157593f09b09/2-Figure1-1.png
-
-#### Hardware Companions? AIBO Discussion Forums — Peter H. Kahn Jr. (2003)
-- 类型: 论文 · 生物: 动物, 人体
-- 核心想法: 人们明知机器动物是机器，却仍赋予它社会生命，这改变了“宠物”的含义。
-- 作品内容: 与 Batya Friedman、Jennifer Hagman 合写的 CHI 论文，分析在线 AIBO 论坛的 6438 条帖子，看主人把机器狗当作物件还是活的伴侣。
-- 实现方式: 对论坛帖子进行内容分析，编码技术本质、生命特征、心理状态、社会关系与道德地位。
-- 论文: https://doi.org/10.1145/642611.642660 (CHI 2003)
-- 图片: https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/2-Figure1-1.png https://figures.semanticscholar.org/48a35277207f32bb46b982a5c43ead2ec09dca89/5-Figure2-1.png
-
-#### The Weather Project — Olafur Eliasson (2003)
-- 类型: 艺术作品 · 生物: 人体, 生态系统
-- 核心想法: 一个明显人造的太阳，却让人谈论起天气与共处。
-- 作品内容: 由数百盏单频灯、镜面天花板和细雾组成的人造太阳，充满了泰特现代美术馆的涡轮大厅；观众躺在地上观看阳光下的自己。
-- 实现方式: 半圆形的黄色钠灯经镜面天花板映成满圆，加湿器制造雾气，结构刻意暴露。
-- 视频: https://www.youtube.com/watch?v=kYAaZ53tazU
-- 图片: https://res.cloudinary.com/olafureliasson-net/image/private/q_auto:eco,c_fit,h_640,w_640/img/the-weather-project_21881.jpg
-- 项目主页: https://olafureliasson.net/artwork/the-weather-project-2003/
-
-#### Eden — Jon McCormack (2000)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把人工生态的生存与人的注意力挂钩，看它如何适应。
-- 作品内容: 一个会演化的声音生态系统，其中的人工生物通过歌唱寻找食物与配偶；摄像头感知到观众在场时食物会生长，于是生物演化出能留住观众的歌声。
-- 实现方式: 投影在半透明屏上的元胞世界，智能体的行为与声音通过学习演化；红外感知观众。
-- 视频: https://www.youtube.com/watch?v=Yrww68pnqqM
-- 图片: https://i0.wp.com/jonmccormack.info/wp-content/uploads/2023/04/edenIsometric.jpg?fit=1962%2C1320&ssl=1
-- 项目主页: https://jonmccormack.info/artworks/eden/
-
-#### Biosphere 2 — Biosphere 2 (1991)
-- 类型: 研究原型 · 生物: 植物, 动物, 生态系统
-- 核心想法: 在技术之内建造一整个自然，会揭示我们有多少不了解。
-- 作品内容: 亚利桑那州一座 1.27 公顷的封闭玻璃建筑，内含雨林、海洋、稀树草原、沙漠和农田；1991 至 1993 年间八人在其中生活两年，进行封闭生态实验。
-- 实现方式: 气密的钢与玻璃空间网架结构，内有人工生物群落和调节气压的“肺”；土壤微生物的呼吸导致氧气下降、二氧化碳上升。
-- 视频: https://www.youtube.com/watch?v=oUJGR6qNVzA
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wiki_bio2_sunset_001.jpg/960px-Wiki_bio2_sunset_001.jpg
-- 项目主页: https://biosphere2.org/
-
-#### Strandbeest — Theo Jansen (1990)
-- 类型: 艺术作品 · 生物: 生态系统
-- 核心想法: 把机器当作一个新物种，一代代演化以在某个栖息地中生存。
-- 作品内容: 用 PVC 管制作的大型行走骨架，在荷兰海滩上靠风驱动，把空气储存在瓶中，后代机型还能感知海水并掉头远离大海。
-- 实现方式: Jansen 连杆腿、计算机演化出的比例、风帆以及气动“肌肉”与“神经”。
-- 视频: https://www.youtube.com/watch?v=Pj-NqWDH2qE
-- 项目主页: https://www.strandbeest.com/
-
-### 人与自然交互的理论与方法
-
-研究和设计人与自然交互的框架、综述与方法。
-
-#### Mediating Human–Nature Relations through Technology: A Scoping Review of Post-Anthropocentric Artifacts and Their Design Strategies — Madlen Kneile, Judith Dörrenbächer, Marc Hassenzahl, Matthias Laschke (2025)
-- 类型: 论文 · 生物: 生态系统, 动物, 植物
-- 核心想法: 多数后人类中心主义作品仍在服务人的能动性；尚待开拓的是让自然能够介入、甚至掌控人类日常的设计。
-- 作品内容: 一篇遵循 PRISMA-ScR 的范围综述：从 53 篇 HCI 与设计论文中提取出 114 件让人与自然发生接触的作品，按三大关注领域下的七种设计策略归类，并把全部作品放进在线的 Artifact Archive。
-- 实现方式: 在 ACM 与 DRS 数字图书馆做关键词检索并追溯参考文献，再把作品资料卡按设计策略（揭示与识别、探索、交流与表达、共享生计、交织空间、闯入、赋权）、人-技术关系、作品类型和自然实体进行聚类。
-- 论文: https://doi.org/10.1145/3743674 (ACM TOCHI 2025)
-- 图片: https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/10-Figure3-1.png https://figures.semanticscholar.org/fa3c52a2c37947caa2fdb3af852e53ee75ee5ac9/11-Figure4-1.png
-- 项目主页: https://artifact-archive.org
-
-#### Phenology Circles: A Method to Deepen Relations in More-Than-Human Design Processes — Margot Brereton (2024)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 一起留意季节变化的共同实践，能在设计工作周围加深设计者与其他物种的关系。
-- 作品内容: Shannon Rodgers 等人的 DIS 论文，介绍“物候圈”：研究者运营两年多的一个线上全球园艺社群，用来调谐于植物、动物以及彼此的节律。
-- 实现方式: 线上实践社群（N = 42）分享了 1200 多条图片与帖子；在参与式设计研究的幕后，对八位核心成员的活动进行反思。
-- 论文: https://doi.org/10.1145/3643834.3660694 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/9deb8ac82c2a5298f9e9fdbe2008f234e09b2c60/7-Figure2-1.png
-
-#### Seeding a Repository of Methods-To-Be for Nature-Entangled Design Research — Oscar Tomico, Ferran Altarriba Bertran (2024)
-- 类型: 论文 · 生物: 生态系统, 植物, 人体
-- 核心想法: 与自然共同设计需要专属的方法，这些方法应当被分享和试用。
-- 作品内容: 一篇 DIS 论文，以注释作品集的形式分享一批仍在形成中的“与自然纠缠的设计”方法，这些方法在一次会议工作坊中被收集和试用。
-- 实现方式: 基于工作坊收集方法，在使用中交叉融合，并讨论如何进一步表述它们。
-- 论文: https://doi.org/10.1145/3643834.3660745 (DIS 2024)
-- 图片: https://figures.semanticscholar.org/f81172c3e1be018e35a4b8466cfac9131a402cfe/4-Figure7-1.png
-
-#### HCI Outdoors: Theory, Design, Methods and Applications — Michael D. Jones, Jonna Häkkilä (2020)
-- 类型: 书与文章 · 生物: 生态系统, 人体
-- 核心想法: 户外是一个独立的设计情境，有其自身的价值：独处、风险与断联。
-- 作品内容: 一本编著（Jones、Anderson、Häkkilä、Cheverst、Daiber），源于 CHI 2018 工作坊，梳理了面向徒步、攀岩、滑雪、露营和野外场所的交互设计。
-- 实现方式: 收录理论、野外研究方法与户外系统案例等章节。
-- 论文: https://doi.org/10.1007/978-3-030-45289-6 (Springer Human–Computer Interaction Series 2020)
-- 图片: https://covers.openlibrary.org/b/isbn/9783030452889-L.jpg?default=false
-
-#### HCI in the Garden — Margot Brereton (2019)
-- 类型: 论文 · 生物: 植物, 昆虫, 生态系统
-- 核心想法: 园艺 HCI 可以超越照料任务：分享发现、服务老年人、游戏与放松。
-- 作品内容: Shannon Rodgers、Bernd Ploderer 与 Margot Brereton 的 OzCHI 综述，梳理 28 篇关于园艺的 HCI 论文，归纳主题与空白。
-- 实现方式: 综述归纳出六个主题：发现、联结、把花园带进室内、协调、可持续与技能学习。
-- 论文: https://doi.org/10.1145/3369457.3369498 (OzCHI 2019)
-
-#### Beyond Knowing Nature: Pathways to Nature Connection — Miles Richardson (2017)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 知道物种的名字不等于感到联结，要为感受而设计。
-- 作品内容: 与 Ryan Lumber、David Sheffield 合作的研究表明：感官接触、情感、同情、意义与美能建立自然联结，而识别物种这类知识型活动则不能。
-- 实现方式: 两项在线调查（n = 321）围绕亲生命性假说的九种价值展开，随后以步行干预（n = 72）实践所识别出的路径。
-- 论文: https://doi.org/10.1371/journal.pone.0177186 (PLOS ONE 2017)
-- 项目主页: https://findingnature.org.uk/
-
-#### Citizen Science: New Research Challenges for Human–Computer Interaction — Jennifer Preece (2016)
-- 类型: 论文 · 生物: 生态系统, 动物, 植物
-- 核心想法: 公民科学工具的成败取决于交互设计，而不只是科学本身。
-- 作品内容: 一篇论文，阐述 HCI 能为生物多样性公民科学贡献什么：动机、数据质量、可用性与长期参与。
-- 实现方式: 回顾 iNaturalist、eBird、NatureNet 等项目，并提炼开放的研究问题。
-- 论文: https://doi.org/10.1080/10447318.2016.1194153 (International Journal of Human–Computer Interaction 2016)
-
-#### Extinction of Experience: The Loss of Human–Nature Interactions — Masashi Soga (2016)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 越少接触自然，就越不在乎它，自然也就越少，这是设计可以尝试打破的循环。
-- 作品内容: 这篇综述指出，世界各地的人与自然的直接接触都在减少，这既损害健康，也削弱人们对自然保护的支持。
-- 实现方式: 综合生态学与心理学研究，建立关于人与自然交互减少的成因（机会与意愿）及后果的模型。
-- 论文: https://doi.org/10.1002/fee.1225 (Frontiers in Ecology and the Environment 2016)
-- 图片: https://figures.semanticscholar.org/85ec779dadfabe243b477d84fdf10f0d8decfd44/3-Figure2-1.png
-
-#### From Conservation to Crowdsourcing: A Typology of Citizen Science — Andrea Wiggins (2011)
-- 类型: 论文 · 生物: 生态系统, 动物
-- 核心想法: 不同类型的公民科学需要不同的技术，以及志愿者的不同角色。
-- 作品内容: 与 Kevin Crowston 合写的论文，把公民科学项目分为五类：行动、保护、调查、虚拟与教育。
-- 实现方式: 根据目标、组织方式和技术使用，对 80 个项目的调查数据进行聚类。
-- 论文: https://doi.org/10.1109/hicss.2011.207 (HICSS 2011)
-
-#### Soundscape Ecology — Bryan C. Pijanowski (2011)
-- 类型: 论文 · 生物: 生态系统, 动物
-- 核心想法: 聆听一个地方，就是测量它的健康。
-- 作品内容: 与 Almo Farina 合写的专刊导言，把声景生态学定义为研究一个景观中全部声音的学科：动物声、地球物理声与人类噪声。
-- 实现方式: 提出生物声、地声与人为声等概念，以及长期声学监测的方法。
-- 论文: https://doi.org/10.1007/s10980-011-9655-6 (Landscape Ecology 2011)
-- 图片: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Mount_Rainier_soundscape.jpg/960px-Mount_Rainier_soundscape.jpg
-
-#### Technological Nature: Adaptation and the Future of Human Life — Peter H. Kahn Jr. (2011)
-- 类型: 书与文章 · 生物: 生态系统, 动物, 人体
-- 核心想法: 技术化的自然好过没有自然，却不如真实的自然，而人们可能察觉不到其中的差别。
-- 作品内容: 这本书汇集了作者十年间关于机器狗、自然直播和等离子屏“窗户”的研究，追问当技术化的自然取代真实自然时，人会失去什么。
-- 实现方式: 综合 HINTS 实验室的对照实验、田野研究与访谈，结合发展心理学以及“环境代际失忆”的概念。
-- 论文: https://doi.org/10.7551/mitpress/7983.001.0001 (MIT Press 2011)
-- 图片: https://covers.openlibrary.org/b/id/9517794-L.jpg?default=false
-- 项目主页: https://mitpress.mit.edu/9780262113229/technological-nature/
-
-#### Citizen Science: A Developing Tool for Expanding Science Knowledge and Scientific Literacy — Rick Bonney, Cornell Lab of Ornithology (2009)
-- 类型: 论文 · 生物: 动物, 生态系统
-- 核心想法: 把志愿者当作研究伙伴，并围绕他们设计整个流程。
-- 作品内容: 一篇论文，介绍康奈尔鸟类学实验室的公民科学项目模式：从确定问题到分析志愿者数据。
-- 实现方式: 基于 Project FeederWatch、eBird 等二十年来的鸟类项目经验。
-- 论文: https://doi.org/10.1525/bio.2009.59.11.9 (BioScience 2009)
-- 图片: https://figures.semanticscholar.org/2e888654c68524163fbf7a54396488249e73a702/6-Figure1-1.png
-
-#### The Human Relation With Nature and Technological Nature — Peter H. Kahn Jr. (2009)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 对每一种自然类技术都要问：它是补充，还是替代？
-- 作品内容: 一篇简短综述，定义了“技术化的自然”（媒介、增强或模拟自然的技术），并总结证据：它只能提供真实自然的部分益处。
-- 实现方式: 回顾作者关于真实窗户、等离子屏、机器宠物和网络摄像头的实验，并据此提出研究议程。
-- 论文: https://doi.org/10.1111/j.1467-8721.2009.01602.x (Current Directions in Psychological Science 2009)
-- 项目主页: https://depts.washington.edu/hintslab/
-
-#### Biophilic Design: The Theory, Science and Practice of Bringing Buildings to Life — Stephen R. Kellert, Edward O. Wilson (2008)
-- 类型: 书与文章 · 生物: 植物, 生态系统, 人体
-- 核心想法: 设计中的自然不止是植物：光线、材料、形态、眺望与庇护都算在内。
-- 作品内容: 与 Judith Heerwagen、Martin Mador 合编的文集，把亲生命性转化为约 70 项建筑与场所设计属性。
-- 实现方式: 汇集建筑师、心理学家和生物学家的文章，把自然体验分为直接、间接和空间三类。
-- 图片: https://covers.openlibrary.org/b/isbn/9780470163344-L.jpg?default=false
-- 项目主页: https://www.wiley.com/en-us/Biophilic+Design-p-9780470163344
-
-#### Last Child in the Woods — Richard Louv (2005)
-- 类型: 书与文章 · 生物: 生态系统, 人体
-- 核心想法: 儿童与自然的疏离是设计和政策问题，不只是个人选择。
-- 作品内容: 这本书描述了儿童在户外自由活动的时间如何缩减，并把后果称为“自然缺失症”。
-- 实现方式: 结合对家长、教师和研究者的访谈，以及自然与儿童发展研究的综述。
-- 视频: https://www.youtube.com/watch?v=WPzrHhe0xM0
-- 图片: https://covers.openlibrary.org/b/isbn/9781565123915-L.jpg?default=false
-- 项目主页: https://richardlouv.com/books/last-child/
-
-#### The Connectedness to Nature Scale — F. Stephan Mayer (2004)
-- 类型: 论文 · 生物: 生态系统, 人体
-- 核心想法: 如果为自然联结而设计，就去测量它。
-- 作品内容: 与 Cynthia McPherson Frantz 共同开发的 14 题问卷，测量一个人感到自己属于自然世界的程度。
-- 实现方式: 通过五项研究验证，把量表得分与生态行为及幸福感联系起来。
-- 论文: https://doi.org/10.1016/j.jenvp.2004.10.001 (Journal of Environmental Psychology 2004)
-
-#### The Experience of Nature: A Psychological Perspective — Rachel & Stephen Kaplan (1989)
-- 类型: 书与文章 · 生物: 生态系统, 人体
-- 核心想法: 围绕柔和的吸引、远离感、延展性与契合度来设计恢复性体验。
-- 作品内容: 这本书提出了注意力恢复理论：自然环境引发“柔和的吸引”，让疲惫的定向注意力得以恢复。
-- 实现方式: 基于二十年的景观偏好研究和荒野项目研究。
-- 图片: https://covers.openlibrary.org/b/isbn/9780521341394-L.jpg?default=false
-- 项目主页: https://en.wikipedia.org/wiki/Attention_restoration_theory
-
-#### Biophilia — Edward O. Wilson (1984)
-- 类型: 书与文章 · 生物: 生态系统, 动物, 人体
-- 核心想法: 被生命吸引是人性的一部分，设计可以以此为基础。
-- 作品内容: 一本随笔集，提出人天生倾向于关注生命与类生命的过程。
-- 实现方式: 结合进化生物学与作者在热带地区的野外经历。
-- 图片: https://covers.openlibrary.org/b/isbn/9780674074422-L.jpg?default=false
-- 项目主页: https://www.hup.harvard.edu/books/9780674074422
-
-#### View Through a Window May Influence Recovery from Surgery — Roger S. Ulrich (1984)
-- 类型: 论文 · 生物: 植物, 人体
-- 核心想法: 哪怕隔着玻璃看到自然，也能对身体产生可测量的好处。
-- 作品内容: 一项医院研究：胆囊手术后，窗外是树的病人比窗外是砖墙的病人住院更短、所需强效止痛药更少。
-- 实现方式: 比较宾夕法尼亚一家医院 1972–1981 年间病历中配对的病人，他们的差别只在病房窗景。
-- 论文: https://doi.org/10.1126/science.6143402 (Science 1984)
+- 核心想法: 摄像头能读出主人常常忽略的猫脸上的疼痛。
+- 作品内容: 比较两种机器学习方法（基于面部标志点和深度学习），用来识别猫面部照片中的疼痛。
+- 实现方式: 对 29 只猫手术前后的面部图像，分别用几何标志点和深度神经网络进行分析。
+- 论文: https://doi.org/10.1038/s41598-022-13348-1 (Scientific Reports 2022)
+- 图片: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-022-13348-1/MediaObjects/41598_2022_13348_Fig1_HTML.jpg
 
 ## 组织与资源
 

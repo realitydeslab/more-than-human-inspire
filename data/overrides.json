@@ -224,21 +224,7 @@
     "mth"
    ]
   },
-  "project-ceti--project-ceti": {
-   "field": "aci",
-   "sub": "communication",
-   "also": [
-    "mth"
-   ]
-  },
   "project-ceti--sperm-whale-phonetic-alphabet": {
-   "field": "aci",
-   "sub": "communication",
-   "also": [
-    "mth"
-   ]
-  },
-  "earth-species-project--naturelm-audio": {
    "field": "aci",
    "sub": "communication",
    "also": [
@@ -265,27 +251,6 @@
    "sub": "wildlife",
    "also": [
     "mth"
-   ]
-  },
-  "stefan-kahl--birdnet": {
-   "field": "hni",
-   "sub": "citizen-science",
-   "also": [
-    "aci"
-   ]
-  },
-  "cornell-lab-of-ornithology--merlin-sound-id": {
-   "field": "hni",
-   "sub": "citizen-science",
-   "also": [
-    "aci"
-   ]
-  },
-  "wild-me--wildbook": {
-   "field": "hni",
-   "sub": "citizen-science",
-   "also": [
-    "aci"
    ]
   },
   "rainforest-connection--guardian": {
@@ -411,14 +376,6 @@
    "field": "aci",
    "sub": "wildlife",
    "also": [
-    "mth"
-   ]
-  },
-  "zhenchi-lai--ai-cat-narrator": {
-   "field": "aci",
-   "sub": "companion",
-   "also": [
-    "hni",
     "mth"
    ]
   },

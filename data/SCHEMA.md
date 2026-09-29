@@ -35,7 +35,8 @@ Each research batch writes one file: `data/raw/<batch>.json`
   "creator_ids": ["lining-yao", "mit-tangible-media"],
   "title": "bioLogic: Natto Cells as Nanoactuators for Shape-Changing Interfaces",
   "year": 2015,
-  "field": "bio",                            // primary field: mth | bio | biohybrid | organoid | hni  (data/taxonomy.json)
+  "field": "bio",                            // primary field: mth | aci | hni | bio | biohybrid | organoid | ecoart | speculation | ai  (data/taxonomy.json)
+                                             // design method/framework → mth · artwork → ecoart · fiction, rights, myth → speculation · AI is the core → ai
   "sub": "responsive",                       // one sub-category id of that field
   "also": ["biohybrid"],                     // optional: other fields it clearly belongs to
   "organisms": ["bacteria"],                 // 1-3 from the organism vocabulary
@@ -79,6 +80,10 @@ Defined in `data/taxonomy.json` → `collections` (`id, type, en, zh, desc_en, d
 A work joins by listing the id in its `collections`, or by adding its work id to `data/collections/<collection-id>.json`
 (a JSON list of work ids — use this for works that already exist in another batch). Awards are collections, never creators.
 New collections: do not edit taxonomy.json concurrently — define them in `data/collections/defs/<your-batch>.json` (a JSON list of collection objects); the build merges them.
+
+## Reclassification (`data/reclass/<name>.json`)
+Moves existing works to another field/sub without editing their batch: `{ "<work-id>": {"field": "ecoart", "sub": "eco-media", "also": ["mth"]} }`.
+Applied at build after `taxonomy.aliases` (old field/sub ids → default new ones, so older batches stay valid) and before `overrides.patch_works`.
 
 ## Extra media (`data/media/<name>.json`)
 Images or a video found later for existing works, kept out of the research batches so passes never edit each other's files:

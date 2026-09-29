@@ -36,8 +36,19 @@ MEDIA = ROOT / "data" / "media"
 ORGS = ROOT / "data" / "orgs"              # organizations & resources (separate category)
 APPROACH = ROOT / "data" / "approach"      # { work_id: [approach ids] }
 DISCIPLINE = ROOT / "data" / "discipline"  # { creator_id: [discipline ids] }  # extra media per work, kept apart from the research batches
-# categories that moved: old (field, sub) -> new; overrides.patch_works refines the sub
-LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
+RECLASS = ROOT / "data" / "reclass"        # { work_id: {field, sub, also} } — per-work moves after a taxonomy change
+
+
+def legacy_map(tax: dict) -> dict:
+    """Categories that moved: old (field, sub) -> default new (field, sub); data/reclass refines per work."""
+    return {tuple(a["from"]): tuple(a["to"]) for a in tax.get("aliases", [])}
+
+
+def load_reclass() -> dict:
+    patches: dict = {}
+    for f in sorted(RECLASS.glob("*.json")) if RECLASS.exists() else []:
+        patches.update(json.loads(f.read_text()))
+    return patches
 
 
 def _check_mp4(url: str) -> dict:
@@ -395,9 +406,11 @@ def main() -> None:
     add_media(works)
     strip_blocked(works, ov.get("blocked_domains", []), "work")
     strip_blocked(list(creators.values()), ov.get("blocked_domains", []), "creator")
+    legacy, reclass = legacy_map(tax), load_reclass()
     for w in works:
-        if (w.get("field"), w.get("sub")) in LEGACY:
-            w["field"], w["sub"] = LEGACY[(w["field"], w["sub"])]
+        if (w.get("field"), w.get("sub")) in legacy:
+            w["field"], w["sub"] = legacy[(w["field"], w["sub"])]
+        w.update({k: v for k, v in reclass.get(w["id"], {}).items() if k in ("field", "sub", "also")})
         w.update(ov.get("patch_works", {}).get(w["id"], {}))
     cache = verify(works, recheck)
 

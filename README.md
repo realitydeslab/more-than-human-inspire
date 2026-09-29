@@ -2,18 +2,21 @@
 
 **https://more-than-human.reality.design**
 
-Design with more than humans. A bilingual (English / 中文) gallery of **More-than-Human Design**, **Bio Design**, **Human × Biocomputing**, **Organoid Computing Design**, **Animal–Computer Interaction** and **Human–Nature Interaction**: papers, research prototypes, artworks, products and speculative projects. Every work has its core idea, how it works, and links to its paper, video and images. Built by [Reality Design Lab](https://reality.design) as idea material for designers, researchers and students; a sibling of [Reality Design Inspire](https://inspire.reality.design).
+Design with more than humans. A bilingual (English / 中文) gallery of works in nine fields — **More-than-Human Design**, **Animal–Computer Interaction**, **Human–Nature Interaction**, **Bio Design**, **Biocomputing**, **Organoid Computing**, **Eco Art**, **Speculation & Politics** and **AI × Nonhuman**: papers, research prototypes, artworks, products and speculative projects. Every work has its core idea, how it works, and links to its paper, video and images. Built by [Reality Design Lab](https://reality.design) as idea material for designers, researchers and students; a sibling of [Reality Design Inspire](https://inspire.reality.design).
 
 ## What's inside
 
-- **Atlas**: the four fields and their sub-categories at a glance, plus collections.
-- **Six field views**, each grouped by sub-category:
-  - More-than-Human Design: multispecies design, animal–computer interaction, ecological sensing & care, speculation & decentering, interspecies art, theory & methods.
+- **Atlas**: the nine fields in three groups (relating to other beings · working with living matter · culture & futures) and their sub-categories at a glance, plus collections.
+- **Nine field views**, each grouped by sub-category:
+  - More-than-Human Design: multispecies design, care & cohabitation, noticing & attunement, methods & tools, theory & frameworks.
   - Bio Design: mycelium, microbial fabrication, algae, grown objects, bio-textiles, bio-responsive materials, living architecture, bioprinting & biofabrication, genetic & synthetic biology design, bio art.
-  - Human × Biocomputing: living interfaces, plant interfaces & cyborg botany, fungal & slime-mould computing, microbial sensors & wearables, biohybrid robots, DNA & molecular computing, body & biosignals.
-  - Organoid Computing Design: organoid intelligence, neurons that learn & play, wetware platforms, interfaces for organoids, neural culture art, ethics & futures.
+  - Biocomputing: living interfaces, plant interfaces & cyborg botany, fungal & slime-mould computing, microbial sensors & wearables, biohybrid robots, DNA & molecular computing, body & biosignals.
+  - Organoid Computing: organoid intelligence & learning, wetware platforms & interfaces, neural culture art, ethics & futures.
   - Animal–Computer Interaction: pets & companion animals, play & robots, working animals, zoo enrichment, interspecies communication, wildlife & farm, theory & ethics.
   - Human–Nature Interaction: nature connection, outdoor technology, citizen science, gardening, sensing other worlds, eco-feedback, digital nature, theory.
+  - Eco Art: interspecies art, restorative & land art, ecological media, sound & data art, installations & environments.
+  - Speculation & Politics: speculative design & design fiction, rights, politics & governance, myth, ritual & cosmology.
+  - AI × Nonhuman: decoding animal communication, nonhuman voices & AI agents, AI for ecology & conservation, artificial life & digital ecologies, sentience, digital minds & AI ethics.
 - **All works**: filter by field, organism (fungi, slime mould, bacteria, algae, plants, animals, insects, cells, neurons, DNA, ecosystems, human body), type (paper, prototype, artwork, product, speculative, book), collection and era; full-text search.
 - **Papers**: every work with a paper, with venue and DOI (checked against Crossref / arXiv).
 - **Collections**: sets of works that belong together — the systems analysed in a survey paper (e.g. Breed et al. 2026, Ikeya et al. CHI 2025) or the winners of an award (BAD Award).
@@ -76,10 +79,10 @@ Images and videos are linked from the creators, labs, museums and publishers and
 
 **https://more-than-human.reality.design**
 
-与万物一起设计。这是一个中英双语的作品库，收录**超越人类的设计**、**生物设计**、**人类 × 生物计算**、**类器官计算设计**、**动物-计算机交互**与**人与自然交互**六个领域的论文、研究原型、艺术作品、产品和思辨设计项目。每件作品都写明核心想法和实现方式，并附上论文、视频和图片链接。由 [Reality Design Lab](https://reality.design) 整理，是 [Reality Design Inspire](https://inspire.reality.design) 的姊妹站。
+与万物一起设计。这是一个中英双语的作品库，收录**超越人类的设计**、**动物-计算机交互**、**人与自然交互**、**生物设计**、**生物计算**、**类器官计算**、**生态艺术**、**思辨与政治**与**跨物种 AI** 九个领域的论文、研究原型、艺术作品、产品和思辨设计项目。每件作品都写明核心想法和实现方式，并附上论文、视频和图片链接。由 [Reality Design Lab](https://reality.design) 整理，是 [Reality Design Inspire](https://inspire.reality.design) 的姊妹站。
 
-- **总览**：四个领域及其子类，以及各个合集。
-- **六个领域页**：按子类分组浏览。
+- **总览**：九个领域分三组（与其他生命相处 · 与活体物质一起工作 · 文化与未来）及其子类，以及各个合集。
+- **九个领域页**：按子类分组浏览。
 - **全部作品**：按领域、生物、类型、合集和年代筛选，支持全文搜索。
 - **论文**：所有附带论文的作品，列出发表处与 DOI（已经过 Crossref / arXiv 核对）。
 - **合集**：一篇综述论文分析过的系统（如 Breed 等 2026、Ikeya 等 CHI 2025），或一个奖项的获奖作品（BAD Award）。

@@ -8,8 +8,8 @@ SITE = "https://more-than-human.reality.design"
 T = {
     "en": {
         "title": "More than Human Inspire — catalog",
-        "intro": ("A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, "
-                  "Animal–Computer Interaction and Human–Nature Interaction: "
+        "intro": ("A catalog of More-than-Human Design, Animal–Computer Interaction, Human–Nature Interaction, Bio Design, "
+                  "Biocomputing, Organoid Computing, Eco Art, Speculation & Politics and AI × Nonhuman: "
                   "papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. "
                   "Each work lists its core idea, how it works, and links to its paper, video and images."),
         "how": "How an AI assistant should use this file",

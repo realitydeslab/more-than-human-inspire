@@ -27,7 +27,7 @@ ORGANISMS = {o[0] for o in TAX["organisms"]}
 KINDS = {k[0] for k in TAX["kinds"]}
 COLLECTIONS = {c["id"] for c in TAX.get("collections", [])} | {
     c["id"] for f in (ROOT / "data" / "collections" / "defs").glob("*.json") for c in json.loads(f.read_text())}
-LEGACY = {("mth", "animal-computer"): ("aci", "aci-theory")}
+LEGACY = {tuple(a["from"]): tuple(a["to"]) for a in TAX.get("aliases", [])}  # moved categories, remapped at build
 CJK = re.compile(r"[㐀-鿿]")
 
 WORK_EN = ("title", "description", "idea_en", "method")
@@ -142,6 +142,18 @@ def validate(path: Path) -> list[str]:
     return errs
 
 
+def validate_reclass() -> list:
+    """data/reclass/*.json: { work_id: {field, sub, also} } must use current ids."""
+    errs = []
+    for f in sorted((ROOT / "data" / "reclass").glob("*.json")):
+        for wid, r in json.loads(f.read_text()).items():
+            if r.get("field") not in FIELDS or r.get("sub") not in FIELDS[r["field"]]:
+                errs.append(f"{f.name}: {wid}: unknown field/sub {r.get('field')}/{r.get('sub')}")
+            if any(a not in FIELDS or a == r.get("field") for a in r.get("also") or []):
+                errs.append(f"{f.name}: {wid}: bad also {r.get('also')}")
+    return errs
+
+
 def main() -> int:
     args = sys.argv[1:]
     files = sorted(RAW.glob("*.json")) if args == ["--all"] else [Path(a) for a in args]
@@ -165,6 +177,11 @@ def main() -> int:
                 print(f"   … and {len(errs) - 40} more")
         else:
             print(f"✓ {f.name} ({summary})")
+    if args == ["--all"]:
+        rerrs = validate_reclass()
+        for e in rerrs[:40]:
+            print(f"✗ reclass: {e}")
+        bad += bool(rerrs)
     return 1 if bad else 0
 
 

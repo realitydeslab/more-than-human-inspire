@@ -7,6 +7,8 @@
   const TX = window.MthText;
   const TAX = DATA.taxonomy;
   const FIELDS = TAX.fields;
+  const GROUPS = TAX.field_groups || [{ id: "all", en: "", zh: "", fields: FIELDS.map((f) => f.id) }];
+  const ALIAS = Object.fromEntries((TAX.aliases || []).map((a) => [a.from.join("/"), a.to]));
   const COLS = TAX.collections || [];
   const APPS = TAX.approaches || [];
   const DISCS = TAX.disciplines || [];
@@ -52,6 +54,8 @@
   const set = (p, k) => new Set((p.get(k) || "").split(",").filter(Boolean));
   function readHash() {
     const p = new URLSearchParams(location.hash.slice(1));
+    const moved = ALIAS[`${p.get("view")}/${p.get("sub")}`];  // old category links → where they moved
+    if (moved) { p.set("view", moved[0]); p.set("sub", moved[1]); }
     state.view = VIEWS.includes(p.get("view")) ? p.get("view") : "atlas";
     Object.assign(state, { q: p.get("q") || "", apps: set(p, "a"), discs: set(p, "d"), cols: set(p, "col"), fields: set(p, "f"), orgs: set(p, "o"), kinds: set(p, "k"), era: p.get("era") || "",
       sort: p.get("sort") || "new", creator: p.get("c") || "", video: p.get("v") === "1", paper: p.get("p") === "1", sub: p.get("sub") || "" });
@@ -295,7 +299,9 @@
   }
   function renderAtlas() {
     currentList = [];
-    $("#atlas").innerHTML = `<p class="keys__lede">${esc(S().atlas_lede)}</p><div class="atlas">${FIELDS.map((f, i) => {
+    let num = 0;
+    const card = (f) => {
+      const i = num++;
       const ws = DATA.works.filter((w) => w.field === f.id);
       const photoFirst = (w) => (w.kind === "paper" || w.kind === "publication" ? 1 : 0) + (w.images?.length ? 0 : 0.5);
       const shots = sorted(ws.filter(poster)).sort((a, b) => photoFirst(a) - photoFirst(b)).slice(0, 3);
@@ -308,7 +314,9 @@
           <p class="fieldcard__desc">${esc(zh() ? f.desc_zh : f.desc_en)}</p>
           <ul class="sublist">${subs}</ul>
           <button class="tour__start mono" data-go="${f.id}">${esc(S().atlas_open(ws.length))}</button></div></section>`;
-    }).join("")}</div>${APPS.some(([k]) => DATA.works.some((w) => (w.approaches || []).includes(k))) ? `<section class="cols"><h2 class="scat__title">${esc(S().by_approach)}</h2><p class="scat__desc">${esc(S().by_approach_lede)}</p>
+    };
+    $("#atlas").innerHTML = `<p class="keys__lede">${esc(S().atlas_lede)}</p>${GROUPS.map((g) => `${g.en ? `<h2 class="atlas__group mono">${esc(nm(g))}</h2>` : ""}
+      <div class="atlas">${g.fields.map((id) => fieldById[id]).filter(Boolean).map(card).join("")}</div>`).join("")}${APPS.some(([k]) => DATA.works.some((w) => (w.approaches || []).includes(k))) ? `<section class="cols"><h2 class="scat__title">${esc(S().by_approach)}</h2><p class="scat__desc">${esc(S().by_approach_lede)}</p>
       <div class="cols__grid">${APPS.map(([k, en, zh_, dEn, dZh]) => { const n = DATA.works.filter((w) => (w.approaches || []).includes(k)).length; return n ? `<button class="colcard" data-app-go="${esc(k)}">
         <span class="colcard__n mono">${n}</span><span class="colcard__title">${esc(zh() ? zh_ : en)}</span><span class="colcard__desc">${esc(zh() ? dZh : dEn)}</span></button>` : ""; }).join("")}</div></section>` : ""}${COLS.length ? `<section class="cols"><h2 class="scat__title">${esc(S().collections)}</h2><p class="scat__desc">${esc(S().collections_lede)}</p>
       <div class="cols__grid">${COLS.map(colCard).join("")}</div></section>` : ""}`;

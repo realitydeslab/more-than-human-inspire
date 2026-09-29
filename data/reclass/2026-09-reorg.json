@@ -1,0 +1,2995 @@
+{
+ "aaron-v-bradshaw--plastic-eating-microbes": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "ackroyd-harvey--photographic-photosynthesis": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "adrian-wong--conversational-agents-mth": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "mth"
+  ]
+ },
+ "adrienne-adar--sonic-succulents": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "after-life-team--after-life": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "speculation"
+  ]
+ },
+ "agnes-meyer-brandis--office-for-tree-migration": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "agnes-meyer-brandis--one-tree-id": {
+  "field": "biohybrid",
+  "sub": "plant-interfaces",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "aki-inomata--girl-girl-girl": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "aki-inomata--hermit-crab-shelter": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "aki-inomata--how-to-carve-a-sculpture": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "alex-metcalf--tree-listening": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "alexandra-daisy-ginsberg--machine-auguries": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "alexandra-daisy-ginsberg--pollinator-pathmaker": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": [
+   "mth"
+  ]
+ },
+ "alexandra-daisy-ginsberg--the-substitute": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "alexandra-daisy-ginsberg--wilding-of-mars": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "alexandra-dementieva--mnesitardigrada": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": [
+   "speculation"
+  ]
+ },
+ "alinta-krauth--animal-centred-ai-jam": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "ai",
+   "speculation"
+  ]
+ },
+ "alinta-krauth--interspecies-translation": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "alinta-krauth--otherhood-of-meep": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "andrea-polli--particle-falls": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "andres-jaque--cosmo": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "andres-jaque--stonelife": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "andres-jaque--transspecies-kitchen": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "andres-jaque--transspecies-palace": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "andres-jaque--transspecies-rosette": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "andrew-quitmeyer--dinacon": {
+  "field": "hni",
+  "sub": "outdoor",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "andrew-whitcomb--more-than-weeds": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "angela-kilford--harakeke": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "angella-mackey--becoming-solar": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "ani-liu--laboratory-of-longings": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "ann-light--mth-participatory-approaches": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "anna-madeleine-raupach--unequal-hours": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "hni"
+  ]
+ },
+ "anna-zamansky--cat-pain-recognition": {
+  "field": "ai",
+  "sub": "minds",
+  "also": [
+   "aci"
+  ]
+ },
+ "anne-galloway--counting-sheep": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "speculation"
+  ]
+ },
+ "anne-marie-maes--transparent-beehive": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "biohybrid"
+  ]
+ },
+ "annika-wolff--sciberpunks": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "anniken-forde--ladder-multispecies-participation": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "anton-poikolainen-rosen--more-than-human-self-tracking": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "anton-poikolainen-rosen--phosphorus": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "speculation"
+  ]
+ },
+ "anton-poikolainen-rosen--relating-to-soil": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "anton-vervoort--the-reef": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "arnaud-tantet--brio": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "arne-berger--show-me-your-mth": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "arne-hendriks--mycelium-pigeon-towers": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "asa-river-jackson--mutualistic-design-products": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "auburn-biodesign--from-the-ashes": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "augustine-leudar--surrounded": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "aula-firsthand-biodesign--lilypad": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "aybars-senyildiz--kombucha-scoby-attuning": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "baum-leahy--microbiocene": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "beatrice-maggipinto--echo-of-the-abyss": {
+  "field": "hni",
+  "sub": "digital-nature",
+  "also": []
+ },
+ "beehaven-team--beehaven": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "benioff-ocean-science-laboratory--whale-safe": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "aci"
+  ]
+ },
+ "bernie-krause--great-animal-orchestra": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "berre-su-demir--representation-tools": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "berre-su-yanlic--olive-harvesting-tools": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "bert-de-roo--umwelt-sketch": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "betti-marenko--animistic-design": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "bluebrain--central-park-album": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "botanicalls--botanicalls": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "botao-amber-hu--human-augmentation": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "bruno-latour--critical-zones": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "speculation"
+  ]
+ },
+ "bruno-latour--politics-of-nature": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "bugra-karabey--cry-of-nature": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "caglar-genc--shroom-cards": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "camila-marambio--turba-tol-hol-hol-tol": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "carlos-castellanos--microbial-sonorities": {
+  "field": "biohybrid",
+  "sub": "microbial-interfaces",
+  "also": []
+ },
+ "carlos-castellanos--plantconnect": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "ccs-biodesign--zebra-glass": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "celestine-briet--beleaf": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "cesar-and-lois--allochronic-cycles": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "cesar-and-lois--forest-signals": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "ai"
+  ]
+ },
+ "cesar-rodriguez-garavito--more-than-human-rights-mural": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "charlotte-nordmoen--what-the-sensor-knows": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "chidi-usanga--giving-voice-to-nature": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "chitofarm--chitofarm": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "chris-watson--planet-ocean": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "chris-watson--weather-report": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "chris-watson--whispering-in-the-leaves": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "christa-sommerer-laurent-mignonneau--interactive-plant-growing": {
+  "field": "biohybrid",
+  "sub": "plant-interfaces",
+  "also": []
+ },
+ "christian-brems--02-205": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "christian-rutz--ml-decode-animal-communication": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "city-of-melbourne--tree-emails": {
+  "field": "hni",
+  "sub": "digital-nature",
+  "also": []
+ },
+ "claudia-nunez-pacheco--entangled-weathers": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "claudia-nunez-pacheco--felt-senses": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "climate-clock--climate-clock": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "colleen-flanigan--zoe": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "con-slobodchikoff--chasing-doctor-dolittle": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "constitutional-court-of-ecuador--los-cedros": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "cooking-sections--climavore": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": [
+   "mth"
+  ]
+ },
+ "cornell-lab-of-ornithology--birdcast": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "cornell-lab-of-ornithology--merlin-sound-id": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "cyn-liu--decomposition-as-design": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "cyn-liu--photography-natureculture": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "cyn-liu--symbiotic-encounters": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "dan-parker--insect-wall-twin": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "daniel-crawford--song-of-our-warming-planet": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "danielle-wilde--shit": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "david-bowen--fly-carving-device": {
+  "field": "biohybrid",
+  "sub": "biohybrid-robots",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "david-bowen--fly-revolver": {
+  "field": "biohybrid",
+  "sub": "biohybrid-robots",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "david-bowen--fly-tweet": {
+  "field": "biohybrid",
+  "sub": "living-interfaces",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "david-dunn--entomogenic-climate-change": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "debbie-jung--coco": {
+  "field": "hni",
+  "sub": "eco-feedback",
+  "also": []
+ },
+ "diya-samit--soil-habitability": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "doenja-oogjes--knitting-unknown-trees": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "doenja-oogjes--weaving-stories": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "donna-haraway--making-kin": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "donna-haraway--staying-with-the-trouble": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "donna-haraway--tools-multispecies-futures": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "doxiadis-plus--entangled-kingdoms": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "earth-species-project--animal-language-processing": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "earth-species-project--aves": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "earth-species-project--avex": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "earth-species-project--bebe": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "aci"
+  ]
+ },
+ "earth-species-project--birdaves": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "earth-species-project--global-survey-ai-animal-communication": {
+  "field": "ai",
+  "sub": "minds",
+  "also": [
+   "aci"
+  ]
+ },
+ "earth-species-project--naturelm-audio": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "earth-species-project--zebra-finch-ai-playbacks": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": [
+   "aci"
+  ]
+ },
+ "easd-castello-biodesign--from-flood-to-future": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "ed-hawkins--warming-stripes": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "edward-masui--katsuobushi": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "elisa-giaccardi--diffractive-interfaces": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "elisa-giaccardi--thing-ethnography": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "embassy-of-the-north-sea--embassy": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "emilia-tapprest--ecotonal-beings": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "emilija-veselova--mediating-needs": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "entangled-others--liquid-strata": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "ai"
+  ]
+ },
+ "erze-dinarama--drumming-for-love": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "evert-van-beek--more-than-human-home": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "feifei-zhou--fungi-anarchist-designers": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "feifei-zhou--the-coast-is-not-a-line": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "finn-petrie--epiphytic-memory": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "fiona-bell--biodegradation-unmaking": {
+  "field": "mth",
+  "sub": "care",
+  "also": [
+   "bio"
+  ]
+ },
+ "forensic-architecture--cloud-studies": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "speculation"
+  ]
+ },
+ "forensic-architecture--ecocide-in-indonesia": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "speculation"
+  ]
+ },
+ "franca-lopez-barbera--tree-says-no": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "speculation"
+  ]
+ },
+ "fredrik-aspling--plant-computer-interaction": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "fredrik-bernerstedt--mushroom-foraging-method": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "gilbertto-prado--amoreiras": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "giorgia-lupi--room-of-change": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "giulia-gualtieri--spectrum-non-human-agency": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "giulia-jiangxian-zhu--ripples": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "mth"
+  ]
+ },
+ "gizem-oktay--caring-through": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "gizem-oktay--living-probes-mycoremediation": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "google-deepmind--dolphingemma": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "greenwave--3d-ocean-farming": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "greg-nijs--diy-speculative-fabulation": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "speculation"
+  ]
+ },
+ "gunes-helene-isitan--where-species-meet": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "guy-ben-ary--bricolage": {
+  "field": "biohybrid",
+  "sub": "biohybrid-robots",
+  "also": []
+ },
+ "harpreet-sareen--neither-here-nor-there": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "biohybrid",
+   "ecoart"
+  ]
+ },
+ "haru-ji-graham-wakefield--artificial-nature": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "hehe--nuage-vert": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "heidi-biggs--agrilogistics": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "heidi-biggs--bog-girl": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "heidi-biggs--watching-myself-watching-birds": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "het-nieuwe-instituut--zoop": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "hildegard-westerkamp--kits-beach-soundwalk": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "hoyoung-youn--assemblage-stakeholders": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "hutan--wildlife-corridors": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "ian-cheng--bob": {
+  "field": "ai",
+  "sub": "alife",
+  "also": []
+ },
+ "ida-nilstad-pettersen--tree-as-method": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "inaturalist--inaturalist": {
+  "field": "hni",
+  "sub": "citizen-science",
+  "also": [
+   "ai"
+  ]
+ },
+ "inaturalist--seek": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "interspecifics--speculative-communications": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": [
+   "biohybrid"
+  ]
+ },
+ "iohanna-nicenboim--conversation-starters": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "iohanna-nicenboim--more-than-human-design-and-ai": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "iohanna-nicenboim--mth-design-and-ai-tools": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "iuliia-larikova--multispecies-facades": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "ivan-henriques--ecoshroom": {
+  "field": "biohybrid",
+  "sub": "fungal-computing",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jakob-kudsk-steensen--berl-berl": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jakob-kudsk-steensen--primal-tourism": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jakob-kudsk-steensen--re-animated": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jakob-kudsk-steensen--the-deep-listener": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jan-fell--biocentric-perspective-plants": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "jana-winderen--spring-bloom": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jane-tingley--foresta-inclusive": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "janet-cardiff--forest-for-a-thousand-years": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "janet-cardiff--forest-walk": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "jeffrey-bardzell--wanting-to-live-here": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "jenna-sutela--nimiia-cetii": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jennifer-gabrys--citizen-sense-just-good-enough-data": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "hni"
+  ]
+ },
+ "jennifer-gabrys--program-earth": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "jennifer-gabrys--smart-forests": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "jiabao-li--creating-with-more-than-humans": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jiabao-li--cryoscape": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "jiabao-li--elephant-in-the-room": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jiabao-li--futile-efforts": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jiabao-li--glaciers-lament": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jiabao-li--once-a-glacier": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jiabao-li--the-long-fall": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jiabao-li--time-sensitive": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "jiabao-li--what-makes-us-most-human": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": [
+   "mth"
+  ]
+ },
+ "jiahe-li--being-stone": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jian-yu--open-weaving": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "joana-moll--inanimate-species": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "joana-pestana--eden-x": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "joaquin-fargas--glaciator": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "johanna-just--bird-watching": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "jon-mccormack--eden": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "jonas-fritsch--breathing-with": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "jonathan-ho--sex-shells": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "joseph-lindley--productive-oscillation": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "joseph-lindley--speculative-lathe": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "joseph-samuel-johnson--living-with-bats": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "joyce-hwang--bat-cloud": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "joyce-hwang--bat-tower": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "joyce-hwang--no-crash-zone": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "joyce-hwang--pollinator-lounge": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "joyce-hwang--to-middle-species-with-love": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "joycelyn-longdon--forest-sound": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "judith-dorrenbacher--navigating-the-paradox": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "judith-doyle--avian-attractor": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "jules-litman-cleper--earth-tech-net-lichen": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "mth"
+  ]
+ },
+ "julia-lohmann--co-existence": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "julia-lohmann--cow-benches": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "julian-oliver--harvest": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "junya-ishigami--art-biotop-water-garden": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "justine-emard--supraorganism": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "ai"
+  ]
+ },
+ "karen-bakker--gaias-web": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "karen-bakker--sounds-of-life": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "kasia-molga--how-to-make-an-ocean": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": [
+   "speculation"
+  ]
+ },
+ "kat-austen--stranger-to-the-trees": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "katerina-inglezaki--tagus-multispecies-atlas": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "katerina-inglezaki--tidalectic-landscapes": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "katie-paterson--future-library": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "katie-paterson--vatnajokull": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "kavita-gonsalves--transhuman-saunter": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "keili-koppel--plant-biographies": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "ken-rinaldo--anicca-antenna": {
+  "field": "biohybrid",
+  "sub": "biohybrid-robots",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "kevin-coffey--deepsqueak": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "korey-wetherell--three-eyed-seeing": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "kristina-lindstrom--plastic-imaginaries": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "kristina-lindstrom--response-able-stakeholders": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "kuai-shen--ohm1gas": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "kuai-shen--thermotaxis": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "biohybrid"
+  ]
+ },
+ "kuan-ju-wu--designing-with-water": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "kuan-ju-wu--sensus-pond": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "larissa-pschetz--design-for-temporal-cohabitation": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "larissa-pschetz--temporal-ecologies": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "laura-cinti--ai-in-the-sky": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "laura-devendorf--post-anthropocentric-3d-printing": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "laura-devendorf--wind-loom": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "leah-barclay--biosphere-soundscapes": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "leah-barclay--rainforest-listening": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "leah-barclay--river-listening": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "leonardo-hummel--seaweaver": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "lieske-schreuder--snail-poo-linoleum": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "liliana-e-caughman--you-are-a-river": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "mth"
+  ]
+ },
+ "linas-kristupas-gabrielaitis--playing-alongside-mushroom": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "lone-koefoed-hansen--encountering-human-plant-relations": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "lotte-wigman--negotiating-boundaries": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "bio"
+  ]
+ },
+ "louis-rice--nonhumans-in-pd": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "lucas-ogasawara-de-oliveira--minamata-codesheet": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "lynette-wallworth--awavena": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "speculation"
+  ]
+ },
+ "maeid--magic-queen": {
+  "field": "bio",
+  "sub": "bioprinting",
+  "also": []
+ },
+ "maja-smrekar--ecce-canis": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "maliheh-ghajargar--tellings-of-the-pacific-ocean": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "manuel-simoes--tagus-colour-swatch": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "manuhuia-barcham--decolonial-river": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "speculation"
+  ]
+ },
+ "marco-barotti--coral-sonic-resilience": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "marcus-coates--dawn-chorus": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "marcus-coates--journey-to-the-lower-world": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "marcus-foth--more-than-human-media-architecture": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "marcus-foth--wombats": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "marcus-maeder--perimeter-pfynwald": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "marcus-maeder--sounding-soil": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "marcus-maeder--treelab": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "margaret-rynning--missing-species": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "margrete-lodahl-rolighed--plant-disco": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "marie-louise-juul-sondergaard--i-moss-you": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "marina-otero-verzier--computational-compost": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "markus-wernli--mutuality-service-blueprint": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "marshmallow-laser-feast--seeing-echoes-whale": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "marshmallow-laser-feast--treehugger-wawona": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "marshmallow-laser-feast--we-live-in-an-ocean-of-air": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "mth"
+  ]
+ },
+ "marta-galvao-ferreira--biotopia": {
+  "field": "hni",
+  "sub": "digital-nature",
+  "also": []
+ },
+ "martin-tironi--hybrid-ecologies": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "hni"
+  ]
+ },
+ "martin-tomitsch--non-human-personas": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "mathieu-lehanneur--local-river": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "mathilde-gouin--critter-connect": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "maya-livio--salvaging-birds": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "maya-livio--thermopower": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "mbari--ocean-vision-ai": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "mette-gislev-kjaersgaard--garden-voices": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "michael-levin--tame": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "ai"
+  ]
+ },
+ "michael-pinsky--pollution-pods": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "hni"
+  ]
+ },
+ "michael-r-stead--mth-right-to-repair": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "michael-sedbon--ctrl": {
+  "field": "biohybrid",
+  "sub": "fungal-computing",
+  "also": []
+ },
+ "michelle-westerlaken--imagining-multispecies-worlds": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "michelle-westerlaken--multispecies-worlding-through-design": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "michelle-westerlaken--unsettling-participation": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "mickey-pardo--elephant-names": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "mileece--bio-electricity": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "mischer-traxler--curiosity-cloud": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "mischer-traxler--the-idea-of-a-tree": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "miya-masaoka--pieces-for-plants": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "monika-rosinska--zoepolis": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "moon-ribas--seismic-sense": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "nadia-campo-woytuk--biomenstrual-spellbook": {
+  "field": "mth",
+  "sub": "care",
+  "also": [
+   "bio"
+  ]
+ },
+ "nadia-campo-woytuk--designing-fertility-otherwise": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "naleefa-nazurdeen--elephants-in-the-room": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "nancy-smith--designing-for-cohabitation": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "nancy-smith--plantypus": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "nancy-smith--sylvia-woodbridge": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "nancy-smith--whisper": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "natalie-jeremijenko--amphibious-architecture": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "mth"
+  ]
+ },
+ "natalie-jeremijenko--feral-robotic-dogs": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "natalie-jeremijenko--moth-cinema": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "natalie-jeremijenko--tree-logic": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "nathalie-miebach--weather-scores": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "nazli-cila--products-as-agents": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "ned-cooper--would-the-trees-dim-the-lights": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "neri-oxman--age-of-entanglement": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "new-reality-company--tree": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "nina-rajcic--message-ritual": {
+  "field": "mth",
+  "sub": "care",
+  "also": [
+   "ai"
+  ]
+ },
+ "nina-williams--fungal-time": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "ning-gao--confucian-zaojing": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "mth"
+  ]
+ },
+ "nirit-binyamini-ben-meir--moss-terrarium": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "nomeda-gediminas-urbonas--swamp-observatory": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "ai"
+  ]
+ },
+ "nonhuman-nonsense--ai-berts-fresh-place": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ai"
+  ]
+ },
+ "nonhuman-nonsense--anti-anthropocentric-vending-machine": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "nonhuman-nonsense--council-of-foods": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "ecoart",
+   "speculation"
+  ]
+ },
+ "nonhuman-nonsense--council-of-forest": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "ecoart",
+   "speculation"
+  ]
+ },
+ "nonhuman-nonsense--haunted-waters": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "nonhuman-nonsense--microbial-runestones": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "nonhuman-nonsense--mosquito-translator": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "nonhuman-nonsense--mud-and-flood": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "nonhuman-nonsense--planetary-personhood": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "nonhuman-nonsense--spectral-fragments": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "nonhuman-nonsense--tale-of-a-tree-human": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "nonhuman-rights-project--happy": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "nonhuman-rights-project--tommy": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "ntu-biodesign--urban-vein": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "nyu-idm-biodesign--thrive": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "olafur-eliasson--ice-watch": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "olafur-eliasson--weather-project": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "olga-kisseleva--eden": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "oliver-bendel--animal-whisperer": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": [
+   "aci"
+  ]
+ },
+ "omlab--starter-homes-for-swallows": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "bio"
+  ]
+ },
+ "oscar-tomico--living-with-plants": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "oscar-tomico--moving-plant-studio": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "parsons-biodesign--order-of-the-biodivine": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": []
+ },
+ "parsons-charlesworth--multispecies-inc": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "partizan-publik--parliament-of-things": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "patricia-dominguez--vegetal-matrix": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "paulina-yurman--fluid-speculations": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "paulo-tavares--trees-vines-palms": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "speculation"
+  ]
+ },
+ "peng-jung-lin--nomadic-moss": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "peter-belhumeur--leafsnap": {
+  "field": "hni",
+  "sub": "citizen-science",
+  "also": [
+   "ai"
+  ]
+ },
+ "pierre-huyghe--after-alife-ahead": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "pierre-huyghe--human-mask": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "pierre-huyghe--liminal": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "pierre-huyghe--untilled": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "pierre-huyghe--uumwelt": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "ai"
+  ]
+ },
+ "pierre-huyghe--zoodram": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "plantnet--plantnet": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "polymorf--symbiosis": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "primavera-de-filippi--plantoid": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "speculation"
+  ]
+ },
+ "project-ceti--nact-principles": {
+  "field": "ai",
+  "sub": "minds",
+  "also": [
+   "aci"
+  ]
+ },
+ "project-ceti--project-ceti": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "project-ceti--sperm-whale-birth": {
+  "field": "aci",
+  "sub": "wildlife",
+  "also": []
+ },
+ "project-ceti--sperm-whale-deep-learning": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "qingyu-zhang--avian-urban-grotto": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "rachel-ann-arredondo--blue-ceramics": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "rachel-armstrong--alice": {
+  "field": "biohybrid",
+  "sub": "microbial-interfaces",
+  "also": []
+ },
+ "rachel-clarke--ministry-multispecies": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "rachel-clarke--more-than-human-participation": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "rachel-clarke--mth-urban-futures": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "random-international--rain-room": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "rasa-smite-raitis-smits--atmospheric-forest": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "rasa-weber--symbiocean-kiki": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "raune-frankjaer--flora-luma": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "reef-design-lab--living-seawalls": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "refik-anadol--large-nature-model": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "refik-anadol--machine-hallucinations-nature-dreams": {
+  "field": "ai",
+  "sub": "alife",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "resting-reef--resting-reef": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "rewa-wright--biorhythms": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "rewa-wright--contact-sense": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "riel-bessai--more-than-human-temporalities": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "rimini-protokoll--holy-shit": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "risd-terra-carta--biopod": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "robertina-sebjanic--aqua-forensic": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "robertina-sebjanic--aquatocene": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "robertina-sebjanic--echinoidea-future": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "robertina-sebjanic--echoes-of-the-abyss": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "robertina-sebjanic--lygophilia": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "roger-payne--songs-of-the-humpback-whale": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "ron-wakkary--backyard-practices": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "ron-wakkary--speculative-maps": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "ron-wakkary--turner-boxes": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "saetbyeol-leeyouk--cry-for-ai": {
+  "field": "biohybrid",
+  "sub": "living-interfaces",
+  "also": []
+ },
+ "sakura-kotokawa--multispecies-convivial-learning": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "sanergy--black-soldier-fly": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "sara-heitlinger--algorithmic-food-justice": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "speculation"
+  ]
+ },
+ "sara-heitlinger--connected-seeds-and-sensors": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "sara-heitlinger--right-to-the-sustainable-smart-city": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "sasa-spacal--mycomythologies": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "sasa-spacal--terra-xenobiotica": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "scape-landscape-architecture--living-breakwaters": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "seaforester--green-gravel": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "sebastian-gonzalez-quintero--occupying-the-sensors": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "serena-pollastri--sensing-more-than-human-worlds": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "serina-tarkhanian--colonial-performances": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "sheng-hung-lee--tetrapot": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "shijia-huang--microbial-oasis": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "shuai-zou--dream-of-zhuang-zhou": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "silvia-ruzanka--plant-play": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": []
+ },
+ "sissel-marie-tonn--becoming-a-sentinel-species": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "sonia-levy--for-the-love-of-corals": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "spela-petric--naval-gazing": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": [
+   "mth"
+  ]
+ },
+ "spela-petric--operational-bodies": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "spela-petric--plai": {
+  "field": "biohybrid",
+  "sub": "plant-interfaces",
+  "also": [
+   "ai"
+  ]
+ },
+ "spela-petric--psx-consultancy": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "stacey-kuznetsov--red-balloon-green-balloon": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "stanislav-roudavski--ai-habitat-abstractions": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "mth"
+  ]
+ },
+ "stanislav-roudavski--multispecies-cohabitation": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "stanislav-roudavski--nonhuman-leadership": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "stefan-kahl--birdnet": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "steffie-de-gaetano--permeance": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "steve-benford--conversation-between-trees": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "mth"
+  ]
+ },
+ "steve-benford--designing-for-trust-animal-centric": {
+  "field": "aci",
+  "sub": "play",
+  "also": []
+ },
+ "steve-benford--provoking-reflection-cat-royale": {
+  "field": "aci",
+  "sub": "play",
+  "also": []
+ },
+ "studio-drift--fragile-future": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "studio-drift--franchise-freedom": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "studio-makkink-bey--waterschool-m4h": {
+  "field": "mth",
+  "sub": "care",
+  "also": [
+   "speculation"
+  ]
+ },
+ "studio-ossidiana--birds-palace": {
+  "field": "ecoart",
+  "sub": "interspecies-art",
+  "also": [
+   "mth"
+  ]
+ },
+ "studio-ossidiana--city-of-birds": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "studio-ossidiana--furniture-for-a-human-and-a-parrot": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "studio-ossidiana--ornithon": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "studio-ossidiana--platform-for-humans-and-birds": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "studio-ossidiana--variations-on-a-birdcage": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "studio-roosegaarde--smog-free-tower": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "studio-roosegaarde--waterlicht": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "suomi-koivisto--alusta-pavilion": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "superflux--ecological-intelligence-agency": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "speculation"
+  ]
+ },
+ "superflux--invocation-for-hope": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "speculation"
+  ]
+ },
+ "superflux--mitigation-of-shock": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "superflux--more-than-human-politics-talk": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "superflux--nobody-told-me-rivers-dream": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "superflux--refuge-for-resurgence": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart",
+   "mth"
+  ]
+ },
+ "superflux--safe-and-just-earth-system-boundaries": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "superflux--the-quiet-enchanting": {
+  "field": "speculation",
+  "sub": "myth-ritual",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "superflux--vault-of-life": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "surayyn-uthayaselvan--multispecies-envelopes": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "susan-loh--mth-turn-human-plant": {
+  "field": "mth",
+  "sub": "theory",
+  "also": []
+ },
+ "susanne-fredholm--conference-of-the-birds": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "mth"
+  ]
+ },
+ "sybille-neumeyer--souvenirs-entomologiques": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "sylvia-janicki--crip-plants": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "sylvia-janicki--sensing-bodies": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "sylvia-janicki--toxic-speculations": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "tau-ulv-lenskjold--alien-ethnographies": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "speculation"
+  ]
+ },
+ "teamlab--flowers-and-people": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "teamlab--forest-where-gods-live": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "speculation"
+  ]
+ },
+ "teamlab--graffiti-nature": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "teamlab--moss-garden": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "tega-brain--asunder": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": [
+   "ai"
+  ]
+ },
+ "tega-brain--deep-swamp": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "tega-brain--keeping-time": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "tega-brain--phenology-clock": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "tega-brain--solar-protocol": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "tega-brain--the-woods": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "biohybrid"
+  ]
+ },
+ "teresa-vicente--mar-menor-personhood": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "terra0--self-owning-forest": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "the-mycological-twist--mushroom-garden": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": []
+ },
+ "theo-jansen--strandbeest": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "theresa-schubert--sound-for-fungi": {
+  "field": "biohybrid",
+  "sub": "fungal-computing",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "thijs-biersteker--symbiosia": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "tiffany-wun--compost-kits": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "tomas-saraceno--aerocene": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "tomas-saraceno--on-air": {
+  "field": "ecoart",
+  "sub": "installation",
+  "also": []
+ },
+ "turenscape--breathing-sea-wall": {
+  "field": "mth",
+  "sub": "care",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "universidad-del-istmo-biodesign--kan-beh": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "ursula-biemann--acoustic-ocean": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "ursula-biemann--forest-law": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "ursula-biemann--forest-mind": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "vanessa-monna--positional-citizenship": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "vasco-costa--biofabulations": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "vasiliki-tsaknaki--biodata-futures": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "speculation"
+  ]
+ },
+ "viegas-wattenberg--wind-map": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "weird-ecologies--weird-ecologies": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "speculation"
+  ]
+ },
+ "wenjia-sun--cross-species-symbiosis-lives": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "wevr--theblu": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": [
+   "hni"
+  ]
+ },
+ "whanganui-iwi--te-awa-tupua": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": []
+ },
+ "wild-me--wildbook": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "wildlife-insights--wildlife-insights": {
+  "field": "ai",
+  "sub": "eco-ai",
+  "also": [
+   "hni"
+  ]
+ },
+ "wolfgang-buttress--the-hive": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "xandra-van-der-eijk--seasynthesis": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "xinquan-wen--sloooooooooow": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "yangyang-yang--being-the-creek": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "hni"
+  ]
+ },
+ "yen-fu-chen--identifrog": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "ai"
+  ]
+ },
+ "yi-sui--parliament-of-things": {
+  "field": "speculation",
+  "sub": "rights-politics",
+  "also": [
+   "mth"
+  ]
+ },
+ "yingting-gao--loofah-wearables": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": [
+   "bio"
+  ]
+ },
+ "yiran-ma--piscinemobil": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "aci"
+  ]
+ },
+ "yiying-wu--plant-hotels": {
+  "field": "mth",
+  "sub": "care",
+  "also": []
+ },
+ "yoko-akama--expanding-participation": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "yossi-yovel--bat-vocalizations": {
+  "field": "ai",
+  "sub": "animal-language",
+  "also": []
+ },
+ "youngsil-lee--pheno-data": {
+  "field": "mth",
+  "sub": "methods",
+  "also": [
+   "speculation"
+  ]
+ },
+ "youyang-hu--synplant": {
+  "field": "biohybrid",
+  "sub": "plant-interfaces",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "yuanpeng-nie--spider-net-friend": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "yumi-sasaki--bugs-beat": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "yuning-chan--project-habitate": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "yuning-chen--chewing-it-over": {
+  "field": "speculation",
+  "sub": "design-fiction",
+  "also": [
+   "mth"
+  ]
+ },
+ "yuning-chen--labour-provenance": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "bio"
+  ]
+ },
+ "yuning-chen--microbial-revolt": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "yuta-ikeya--aesthetics-designing-with-the-living": {
+  "field": "mth",
+  "sub": "theory",
+  "also": [
+   "bio"
+  ]
+ },
+ "yuta-ikeya--metamorphonic": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": [
+   "ecoart"
+  ]
+ },
+ "yuta-ikeya--negotiating-with-the-garden": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "yuta-ikeya--pottery-wheel": {
+  "field": "mth",
+  "sub": "multispecies",
+  "also": []
+ },
+ "yuxi-liu--urban-recipes": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "yuyao-lin--co-designing-with-the-abject": {
+  "field": "mth",
+  "sub": "methods",
+  "also": []
+ },
+ "zhang-tianyi--plant-intelligence-plan": {
+  "field": "ecoart",
+  "sub": "restoration",
+  "also": [
+   "speculation"
+  ]
+ },
+ "zhdk-biodesign--chornozem": {
+  "field": "mth",
+  "sub": "noticing",
+  "also": []
+ },
+ "zhenchi-lai--ai-cat-narrator": {
+  "field": "ai",
+  "sub": "nonhuman-agents",
+  "also": [
+   "aci"
+  ]
+ },
+ "zoe-qi-jing-li--i-tell-the-moon-my-secret": {
+  "field": "ecoart",
+  "sub": "eco-media",
+  "also": []
+ },
+ "zoran-srdic-janezic--biobot": {
+  "field": "organoid",
+  "sub": "neural-art",
+  "also": []
+ },
+ "zoran-srdic-janezic--code-of-diversity": {
+  "field": "organoid",
+  "sub": "neural-art",
+  "also": []
+ }
+}

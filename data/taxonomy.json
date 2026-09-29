@@ -4,8 +4,8 @@
       "id": "mth",
       "en": "More-than-Human Design",
       "zh": "超越人类的设计",
-      "desc_en": "Design that decenters the human: designing with and for animals, plants, ecosystems and things, and the theory and methods behind it.",
-      "desc_zh": "把人从中心移开的设计：与动物、植物、生态系统和物一起设计、为它们设计，以及背后的理论与方法。",
+      "desc_en": "Design research that decenters the human: co-designing with other species, caring and noticing, and the methods and theory behind it.",
+      "desc_zh": "把人从中心移开的设计研究：与其他物种共同设计、照护与留意，以及背后的方法与理论。",
       "subs": [
         {
           "id": "multispecies",
@@ -15,220 +15,32 @@
           "desc_zh": "与其他物种共同设计，把它们的需要和人的需要放在一起考虑。"
         },
         {
-          "id": "ecological",
-          "en": "Ecological Sensing & Care",
-          "zh": "生态感知与照护",
-          "desc_en": "Sensing, listening to and caring for ecosystems, soils, rivers and climates.",
-          "desc_zh": "感知、倾听和照护生态系统、土壤、河流与气候。"
+          "id": "care",
+          "en": "Care & Cohabitation",
+          "zh": "照护与共居",
+          "desc_en": "Designing for caring for, repairing and living alongside other beings and ecosystems.",
+          "desc_zh": "为照料、修复其他生命和生态系统并与之共处而设计。"
         },
         {
-          "id": "decentering",
-          "en": "Speculation & Decentering",
-          "zh": "思辨与去中心化",
-          "desc_en": "Speculative and critical design that imagines the world from nonhuman points of view.",
-          "desc_zh": "从非人类视角想象世界的思辨设计与批判性设计。"
+          "id": "noticing",
+          "en": "Noticing & Attunement",
+          "zh": "留意与调谐",
+          "desc_en": "The arts of noticing as design practice: listening to, sensing and translating the signals and worlds of other beings.",
+          "desc_zh": "把“留意的技艺”作为设计实践：倾听、感知并转译其他生命的信号与世界。"
         },
         {
-          "id": "interspecies-art",
-          "en": "Interspecies Art",
-          "zh": "跨物种艺术",
-          "desc_en": "Artworks made with, by or for other living beings.",
-          "desc_zh": "与其他生命一起、由它们或为它们创作的艺术。"
+          "id": "methods",
+          "en": "Methods & Tools",
+          "zh": "方法与工具",
+          "desc_en": "Participatory methods, personas, toolkits, workshops and consent mechanisms for designing with nonhumans.",
+          "desc_zh": "与非人类一起设计的参与式方法、人物角色、工具包、工作坊和同意机制。"
         },
         {
-          "id": "theory-methods",
-          "en": "Theory & Methods",
-          "zh": "理论与方法",
-          "desc_en": "Frameworks, methods and key papers of more-than-human and posthuman design research.",
-          "desc_zh": "超越人类设计与后人类设计研究的框架、方法和关键论文。"
-        }
-      ]
-    },
-    {
-      "id": "bio",
-      "en": "Bio Design",
-      "zh": "生物设计",
-      "desc_en": "Living organisms as material and collaborator: grown materials, microbial fabrication, living architecture and bio art.",
-      "desc_zh": "把生命当作材料和合作者：生长出来的材料、微生物制造、活体建筑与生物艺术。",
-      "subs": [
-        {
-          "id": "mycelium",
-          "en": "Mycelium & Fungal Materials",
-          "zh": "菌丝体与真菌材料",
-          "desc_en": "Objects, packaging, leather and buildings grown from fungal mycelium.",
-          "desc_zh": "用真菌菌丝体生长出的物件、包装、皮革和建筑。"
-        },
-        {
-          "id": "microbial",
-          "en": "Microbial Fabrication",
-          "zh": "微生物制造",
-          "desc_en": "Bacteria and yeast that make pigments, cellulose, cement and other materials.",
-          "desc_zh": "让细菌和酵母制造色素、纤维素、水泥等材料。"
-        },
-        {
-          "id": "algae",
-          "en": "Algae & Photosynthesis",
-          "zh": "藻类与光合作用",
-          "desc_en": "Algae and photosynthetic organisms in products, facades and energy systems.",
-          "desc_zh": "把藻类和光合生物用在产品、立面和能源系统里。"
-        },
-        {
-          "id": "grown",
-          "en": "Grown Objects & Plant Craft",
-          "zh": "生长而成的物件",
-          "desc_en": "Guiding roots, trees and plants to grow into furniture, textiles and structures.",
-          "desc_zh": "引导根系、树木和植物长成家具、织物和结构。"
-        },
-        {
-          "id": "biotextiles",
-          "en": "Bio-textiles & Fashion",
-          "zh": "生物纺织与时尚",
-          "desc_en": "Garments and textiles dyed, grown or animated by living organisms.",
-          "desc_zh": "由生命染色、生长或驱动的服装与织物。"
-        },
-        {
-          "id": "responsive",
-          "en": "Bio-responsive Materials",
-          "zh": "生物响应材料",
-          "desc_en": "Materials that move, change colour or shape using living cells or biological mechanisms.",
-          "desc_zh": "利用活细胞或生物机制改变形状、颜色或运动的材料。"
-        },
-        {
-          "id": "architecture",
-          "en": "Living Architecture",
-          "zh": "活体建筑",
-          "desc_en": "Buildings and structures that grow, breathe, repair or host life.",
-          "desc_zh": "会生长、呼吸、自我修复或容纳生命的建筑与结构。"
-        },
-        {
-          "id": "bioprinting",
-          "en": "Bioprinting & Biofabrication",
-          "zh": "生物 3D 打印与生物制造",
-          "desc_en": "3D printing and robotic fabrication with living cells, hydrogels and biological materials.",
-          "desc_zh": "用活细胞、水凝胶和生物材料进行 3D 打印和机器人制造。"
-        },
-        {
-          "id": "synbio",
-          "en": "Genetic & Synthetic Biology Design",
-          "zh": "基因与合成生物学设计",
-          "desc_en": "Designers working with genetically modified and engineered organisms: glowing plants, edited microbes, new species and their speculative futures.",
-          "desc_zh": "与基因改造和工程生物合作的设计：发光植物、编辑过的微生物、新物种，以及它们的思辨未来。"
-        },
-        {
-          "id": "bioart",
-          "en": "Bio Art",
-          "zh": "生物艺术",
-          "desc_en": "Art that uses living tissue, cells, bacteria or genes as its medium.",
-          "desc_zh": "以活体组织、细胞、细菌或基因为媒介的艺术。"
-        }
-      ]
-    },
-    {
-      "id": "biohybrid",
-      "en": "Human × Biocomputing",
-      "zh": "人类 × 生物计算",
-      "desc_en": "Interfaces and computers that include living organisms: plants as sensors, fungi and slime moulds that compute, microbes in wearables, biohybrid robots.",
-      "desc_zh": "包含活体生物的界面与计算机：植物当传感器、会计算的真菌和黏菌、可穿戴设备里的微生物、生物混合机器人。",
-      "subs": [
-        {
-          "id": "living-interfaces",
-          "en": "Living Interfaces",
-          "zh": "活体界面",
-          "desc_en": "Devices and displays with living organisms inside, and how people care for them.",
-          "desc_zh": "内部含有活体生物的设备和显示，以及人如何照料它们。"
-        },
-        {
-          "id": "plant-interfaces",
-          "en": "Plant Interfaces & Cyborg Botany",
-          "zh": "植物界面与赛博植物",
-          "desc_en": "Plants as touch sensors, displays, antennas and robots.",
-          "desc_zh": "把植物变成触摸传感器、显示器、天线和机器人。"
-        },
-        {
-          "id": "fungal-computing",
-          "en": "Fungal & Slime-mould Computing",
-          "zh": "真菌与黏菌计算",
-          "desc_en": "Mycelium and slime moulds that sense, signal and solve problems.",
-          "desc_zh": "会感知、传递信号和解决问题的菌丝体与黏菌。"
-        },
-        {
-          "id": "microbial-interfaces",
-          "en": "Microbial Sensors & Wearables",
-          "zh": "微生物传感与可穿戴",
-          "desc_en": "Engineered or natural microbes as sensors, displays and on-body companions.",
-          "desc_zh": "把天然或改造的微生物当作传感器、显示器和身上的伙伴。"
-        },
-        {
-          "id": "biohybrid-robots",
-          "en": "Biohybrid Robots",
-          "zh": "生物混合机器人",
-          "desc_en": "Robots driven by muscle, cells, fungi or whole organisms.",
-          "desc_zh": "由肌肉、细胞、真菌或整个生物驱动的机器人。"
-        },
-        {
-          "id": "molecular",
-          "en": "DNA & Molecular Computing",
-          "zh": "DNA 与分子计算",
-          "desc_en": "Computing and storing information with DNA, proteins and chemical reactions.",
-          "desc_zh": "用 DNA、蛋白质和化学反应来计算和存储信息。"
-        },
-        {
-          "id": "body-bio",
-          "en": "Body & Biosignals",
-          "zh": "身体与生物信号",
-          "desc_en": "Interfaces that couple the human body directly with other living systems.",
-          "desc_zh": "把人的身体直接与其他生命系统连接起来的界面。"
-        }
-      ]
-    },
-    {
-      "id": "organoid",
-      "en": "Organoid Computing Design",
-      "zh": "类器官计算设计",
-      "desc_en": "Brain organoids and living neurons as computers: research, platforms, art and the design and ethics questions they raise.",
-      "desc_zh": "把脑类器官和活神经元当作计算机：研究、平台、艺术，以及它们带来的设计与伦理问题。",
-      "subs": [
-        {
-          "id": "organoid-intelligence",
-          "en": "Organoid Intelligence",
-          "zh": "类器官智能",
-          "desc_en": "Research that uses brain organoids for learning, memory and computation.",
-          "desc_zh": "用脑类器官做学习、记忆和计算的研究。"
-        },
-        {
-          "id": "neurons-play",
-          "en": "Neurons that Learn & Play",
-          "zh": "会学习和玩游戏的神经元",
-          "desc_en": "Neural cultures trained in closed loop to play games or control bodies.",
-          "desc_zh": "在闭环中训练神经元培养物去玩游戏或控制身体。"
-        },
-        {
-          "id": "wetware",
-          "en": "Wetware Platforms",
-          "zh": "湿件平台",
-          "desc_en": "Commercial and open biocomputers you can program or rent.",
-          "desc_zh": "可以编程或租用的商业与开放生物计算机。"
-        },
-        {
-          "id": "organoid-interfaces",
-          "en": "Interfaces for Organoids",
-          "zh": "类器官的界面",
-          "desc_en": "Electrodes, 3D MEAs, visualisation and interaction design for living neural tissue.",
-          "desc_zh": "为活体神经组织设计的电极、三维微电极阵列、可视化与交互。"
-        },
-        {
-          "id": "neural-art",
-          "en": "Neural Culture Art",
-          "zh": "神经培养物艺术",
-          "desc_en": "Artworks in which living neurons draw, compose or perform.",
-          "desc_zh": "由活神经元绘画、作曲或表演的艺术作品。"
-        },
-        {
-          "id": "ethics",
-          "en": "Ethics & Futures",
-          "zh": "伦理与未来",
-          "desc_en": "Consciousness, consent and the futures of computing with living brains.",
-          "desc_zh": "意识、同意，以及用活体大脑计算的未来。"
+          "id": "theory",
+          "en": "Theory & Frameworks",
+          "zh": "理论与框架",
+          "desc_en": "Theory, frameworks, reviews and manifestos for designing beyond the human.",
+          "desc_zh": "超越人类的设计的理论、框架、综述与宣言。"
         }
       ]
     },
@@ -353,6 +165,395 @@
           "desc_en": "Frameworks, reviews and methods for studying and designing human–nature interaction.",
           "desc_zh": "研究和设计人与自然交互的框架、综述与方法。"
         }
+      ]
+    },
+    {
+      "id": "bio",
+      "en": "Bio Design",
+      "zh": "生物设计",
+      "desc_en": "Living organisms as material and collaborator: grown materials, microbial fabrication, living architecture and bio art.",
+      "desc_zh": "把生命当作材料和合作者：生长出来的材料、微生物制造、活体建筑与生物艺术。",
+      "subs": [
+        {
+          "id": "mycelium",
+          "en": "Mycelium & Fungal Materials",
+          "zh": "菌丝体与真菌材料",
+          "desc_en": "Objects, packaging, leather and buildings grown from fungal mycelium.",
+          "desc_zh": "用真菌菌丝体生长出的物件、包装、皮革和建筑。"
+        },
+        {
+          "id": "microbial",
+          "en": "Microbial Fabrication",
+          "zh": "微生物制造",
+          "desc_en": "Bacteria and yeast that make pigments, cellulose, cement and other materials.",
+          "desc_zh": "让细菌和酵母制造色素、纤维素、水泥等材料。"
+        },
+        {
+          "id": "algae",
+          "en": "Algae & Photosynthesis",
+          "zh": "藻类与光合作用",
+          "desc_en": "Algae and photosynthetic organisms in products, facades and energy systems.",
+          "desc_zh": "把藻类和光合生物用在产品、立面和能源系统里。"
+        },
+        {
+          "id": "grown",
+          "en": "Grown Objects & Plant Craft",
+          "zh": "生长而成的物件",
+          "desc_en": "Guiding roots, trees and plants to grow into furniture, textiles and structures.",
+          "desc_zh": "引导根系、树木和植物长成家具、织物和结构。"
+        },
+        {
+          "id": "biotextiles",
+          "en": "Bio-textiles & Fashion",
+          "zh": "生物纺织与时尚",
+          "desc_en": "Garments and textiles dyed, grown or animated by living organisms.",
+          "desc_zh": "由生命染色、生长或驱动的服装与织物。"
+        },
+        {
+          "id": "responsive",
+          "en": "Bio-responsive Materials",
+          "zh": "生物响应材料",
+          "desc_en": "Materials that move, change colour or shape using living cells or biological mechanisms.",
+          "desc_zh": "利用活细胞或生物机制改变形状、颜色或运动的材料。"
+        },
+        {
+          "id": "architecture",
+          "en": "Living Architecture",
+          "zh": "活体建筑",
+          "desc_en": "Buildings and structures that grow, breathe, repair or host life.",
+          "desc_zh": "会生长、呼吸、自我修复或容纳生命的建筑与结构。"
+        },
+        {
+          "id": "bioprinting",
+          "en": "Bioprinting & Biofabrication",
+          "zh": "生物 3D 打印与生物制造",
+          "desc_en": "3D printing and robotic fabrication with living cells, hydrogels and biological materials.",
+          "desc_zh": "用活细胞、水凝胶和生物材料进行 3D 打印和机器人制造。"
+        },
+        {
+          "id": "synbio",
+          "en": "Genetic & Synthetic Biology Design",
+          "zh": "基因与合成生物学设计",
+          "desc_en": "Designers working with genetically modified and engineered organisms: glowing plants, edited microbes, new species and their speculative futures.",
+          "desc_zh": "与基因改造和工程生物合作的设计：发光植物、编辑过的微生物、新物种，以及它们的思辨未来。"
+        },
+        {
+          "id": "bioart",
+          "en": "Bio Art",
+          "zh": "生物艺术",
+          "desc_en": "Art that uses living tissue, cells, bacteria or genes as its medium.",
+          "desc_zh": "以活体组织、细胞、细菌或基因为媒介的艺术。"
+        }
+      ]
+    },
+    {
+      "id": "biohybrid",
+      "en": "Biocomputing",
+      "zh": "生物计算",
+      "desc_en": "Interfaces and computers that include living organisms: plants as sensors, fungi and slime moulds that compute, microbes in wearables, biohybrid robots.",
+      "desc_zh": "包含活体生物的界面与计算机：植物当传感器、会计算的真菌和黏菌、可穿戴设备里的微生物、生物混合机器人。",
+      "subs": [
+        {
+          "id": "living-interfaces",
+          "en": "Living Interfaces",
+          "zh": "活体界面",
+          "desc_en": "Devices and displays with living organisms inside, and how people care for them.",
+          "desc_zh": "内部含有活体生物的设备和显示，以及人如何照料它们。"
+        },
+        {
+          "id": "plant-interfaces",
+          "en": "Plant Interfaces & Cyborg Botany",
+          "zh": "植物界面与赛博植物",
+          "desc_en": "Plants as touch sensors, displays, antennas and robots.",
+          "desc_zh": "把植物变成触摸传感器、显示器、天线和机器人。"
+        },
+        {
+          "id": "fungal-computing",
+          "en": "Fungal & Slime-mould Computing",
+          "zh": "真菌与黏菌计算",
+          "desc_en": "Mycelium and slime moulds that sense, signal and solve problems.",
+          "desc_zh": "会感知、传递信号和解决问题的菌丝体与黏菌。"
+        },
+        {
+          "id": "microbial-interfaces",
+          "en": "Microbial Sensors & Wearables",
+          "zh": "微生物传感与可穿戴",
+          "desc_en": "Engineered or natural microbes as sensors, displays and on-body companions.",
+          "desc_zh": "把天然或改造的微生物当作传感器、显示器和身上的伙伴。"
+        },
+        {
+          "id": "biohybrid-robots",
+          "en": "Biohybrid Robots",
+          "zh": "生物混合机器人",
+          "desc_en": "Robots driven by muscle, cells, fungi or whole organisms.",
+          "desc_zh": "由肌肉、细胞、真菌或整个生物驱动的机器人。"
+        },
+        {
+          "id": "molecular",
+          "en": "DNA & Molecular Computing",
+          "zh": "DNA 与分子计算",
+          "desc_en": "Computing and storing information with DNA, proteins and chemical reactions.",
+          "desc_zh": "用 DNA、蛋白质和化学反应来计算和存储信息。"
+        },
+        {
+          "id": "body-bio",
+          "en": "Body & Biosignals",
+          "zh": "身体与生物信号",
+          "desc_en": "Interfaces that couple the human body directly with other living systems.",
+          "desc_zh": "把人的身体直接与其他生命系统连接起来的界面。"
+        }
+      ]
+    },
+    {
+      "id": "organoid",
+      "en": "Organoid Computing",
+      "zh": "类器官计算",
+      "desc_en": "Brain organoids and living neurons as computers: research, platforms, art and the design and ethics questions they raise.",
+      "desc_zh": "把脑类器官和活神经元当作计算机：研究、平台、艺术，以及它们带来的设计与伦理问题。",
+      "subs": [
+        {
+          "id": "organoid-intelligence",
+          "en": "Organoid Intelligence & Learning",
+          "zh": "类器官智能与学习",
+          "desc_en": "Organoids and neuron cultures that learn, play games and compute.",
+          "desc_zh": "能学习、玩游戏和计算的类器官与神经元培养物。"
+        },
+        {
+          "id": "wetware",
+          "en": "Wetware Platforms & Interfaces",
+          "zh": "湿件平台与界面",
+          "desc_en": "Platforms, hardware and interfaces for growing, reading and talking to living neurons.",
+          "desc_zh": "培养、读取活体神经元并与之交流的平台、硬件和界面。"
+        },
+        {
+          "id": "neural-art",
+          "en": "Neural Culture Art",
+          "zh": "神经培养物艺术",
+          "desc_en": "Artworks in which living neurons draw, compose or perform.",
+          "desc_zh": "由活神经元绘画、作曲或表演的艺术作品。"
+        },
+        {
+          "id": "ethics",
+          "en": "Ethics & Futures",
+          "zh": "伦理与未来",
+          "desc_en": "Consciousness, consent and the futures of computing with living brains.",
+          "desc_zh": "意识、同意，以及用活体大脑计算的未来。"
+        }
+      ]
+    },
+    {
+      "id": "ecoart",
+      "en": "Eco Art",
+      "zh": "生态艺术",
+      "desc_en": "Art made with, for and about other species and ecosystems: interspecies art, restorative and land art, ecological media and installations.",
+      "desc_zh": "与其他物种和生态系统一起、为它们、关于它们的艺术：跨物种艺术、修复与大地艺术、生态媒介与装置。",
+      "subs": [
+        {
+          "id": "interspecies-art",
+          "en": "Interspecies Art",
+          "zh": "跨物种艺术",
+          "desc_en": "Artworks made with, by or for other living beings.",
+          "desc_zh": "与其他生命一起、由它们或为它们创作的艺术。"
+        },
+        {
+          "id": "restoration",
+          "en": "Restorative & Land Art",
+          "zh": "修复与大地艺术",
+          "desc_en": "Interventions in land, water and soil that repair, remediate or reveal ecosystems.",
+          "desc_zh": "介入土地、水和土壤，修复、净化或揭示生态系统的艺术。"
+        },
+        {
+          "id": "eco-media",
+          "en": "Ecological Media, Sound & Data Art",
+          "zh": "生态媒介、声音与数据艺术",
+          "desc_en": "Making ecological processes perceptible through sound, data, film and sensors.",
+          "desc_zh": "通过声音、数据、影像和传感器让生态过程变得可感知。"
+        },
+        {
+          "id": "installation",
+          "en": "Installations & Environments",
+          "zh": "装置与环境",
+          "desc_en": "Installations and environments about ecology, extinction, climate and other species.",
+          "desc_zh": "关于生态、灭绝、气候和其他物种的装置与环境。"
+        }
+      ]
+    },
+    {
+      "id": "speculation",
+      "en": "Speculation & Politics",
+      "zh": "思辨与政治",
+      "desc_en": "Design fiction, the rights and politics of nonhumans, and new myths and rituals for living with other beings.",
+      "desc_zh": "设计虚构、非人类的权利与政治，以及与其他生命共处的新神话和仪式。",
+      "subs": [
+        {
+          "id": "design-fiction",
+          "en": "Speculative Design & Design Fiction",
+          "zh": "思辨设计与设计虚构",
+          "desc_en": "Critical and speculative design, future scenarios and fictional organisms and products.",
+          "desc_zh": "批判与思辨设计、未来情境、虚构的生物与产品。"
+        },
+        {
+          "id": "rights-politics",
+          "en": "Rights, Politics & Governance",
+          "zh": "权利、政治与治理",
+          "desc_en": "Rights of nature, legal personhood, parliaments and embassies of nonhumans, multispecies justice and governance.",
+          "desc_zh": "自然权利、法律人格、非人类的议会与大使馆、多物种正义与治理。"
+        },
+        {
+          "id": "myth-ritual",
+          "en": "Myth, Ritual & Cosmology",
+          "zh": "神话、仪式与宇宙观",
+          "desc_en": "Invented and revived myths, rituals and cosmologies for relating to other beings.",
+          "desc_zh": "新编或复兴的神话、仪式与宇宙观，用来与其他生命建立关系。"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "en": "AI × Nonhuman",
+      "zh": "跨物种 AI",
+      "desc_en": "AI that decodes animal communication, speaks for nonhumans, watches over ecosystems, simulates artificial life, or raises questions of nonhuman minds.",
+      "desc_zh": "解码动物交流、为非人类发声、守护生态系统、模拟人工生命，或引出非人类心智问题的 AI。",
+      "subs": [
+        {
+          "id": "animal-language",
+          "en": "Decoding Animal Communication",
+          "zh": "解码动物交流",
+          "desc_en": "Machine learning for animal vocalisation, communication and translation.",
+          "desc_zh": "用机器学习研究动物发声、交流与翻译。"
+        },
+        {
+          "id": "nonhuman-agents",
+          "en": "Nonhuman Voices & AI Agents",
+          "zh": "非人类之声与 AI 代理",
+          "desc_en": "Language models and AI agents that speak for animals, plants, rivers, foods and forests.",
+          "desc_zh": "为动物、植物、河流、食物和森林发声的语言模型与 AI 代理。"
+        },
+        {
+          "id": "eco-ai",
+          "en": "AI for Ecology & Conservation",
+          "zh": "生态与保护 AI",
+          "desc_en": "Machine learning for monitoring species, habitats and environments.",
+          "desc_zh": "用机器学习监测物种、栖息地和环境。"
+        },
+        {
+          "id": "alife",
+          "en": "Artificial Life & Digital Ecologies",
+          "zh": "人工生命与数字生态",
+          "desc_en": "Artificial life, simulated ecosystems, evolved creatures and generative nature.",
+          "desc_zh": "人工生命、模拟生态系统、演化生物与生成式自然。"
+        },
+        {
+          "id": "minds",
+          "en": "Sentience, Digital Minds & AI Ethics",
+          "zh": "感知能力、数字心智与 AI 伦理",
+          "desc_en": "Nonhuman and digital sentience, welfare, and the ethics and law of AI for other beings.",
+          "desc_zh": "非人类与数字心智的感知能力与福祉，以及面向其他生命的 AI 伦理与法律。"
+        }
+      ]
+    }
+  ],
+  "field_groups": [
+    {
+      "id": "relating",
+      "en": "Relating to other beings",
+      "zh": "与其他生命相处",
+      "fields": [
+        "mth",
+        "aci",
+        "hni"
+      ]
+    },
+    {
+      "id": "living",
+      "en": "Working with living matter",
+      "zh": "与活体物质一起工作",
+      "fields": [
+        "bio",
+        "biohybrid",
+        "organoid"
+      ]
+    },
+    {
+      "id": "culture",
+      "en": "Culture & futures",
+      "zh": "文化与未来",
+      "fields": [
+        "ecoart",
+        "speculation",
+        "ai"
+      ]
+    }
+  ],
+  "aliases": [
+    {
+      "from": [
+        "mth",
+        "animal-computer"
+      ],
+      "to": [
+        "aci",
+        "aci-theory"
+      ]
+    },
+    {
+      "from": [
+        "mth",
+        "ecological"
+      ],
+      "to": [
+        "mth",
+        "care"
+      ]
+    },
+    {
+      "from": [
+        "mth",
+        "theory-methods"
+      ],
+      "to": [
+        "mth",
+        "theory"
+      ]
+    },
+    {
+      "from": [
+        "mth",
+        "decentering"
+      ],
+      "to": [
+        "speculation",
+        "design-fiction"
+      ]
+    },
+    {
+      "from": [
+        "mth",
+        "interspecies-art"
+      ],
+      "to": [
+        "ecoart",
+        "interspecies-art"
+      ]
+    },
+    {
+      "from": [
+        "organoid",
+        "neurons-play"
+      ],
+      "to": [
+        "organoid",
+        "organoid-intelligence"
+      ]
+    },
+    {
+      "from": [
+        "organoid",
+        "organoid-interfaces"
+      ],
+      "to": [
+        "organoid",
+        "wetware"
       ]
     }
   ],

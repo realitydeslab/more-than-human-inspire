@@ -7,7 +7,7 @@ argument-hint: <name, lab, paper DOI/URL or project URL> [, another …] [--no-p
 
 Input: `$ARGUMENTS` — one or more people, labs, studios, companies, papers (DOI / arXiv / URL) or project pages, comma-separated. `--no-push` = build and preview locally, do not commit or publish.
 
-The gallery collects More-than-Human Design, Bio Design, Human × Biocomputing and Organoid Computing Design works.
+The gallery has nine fields in three groups: More-than-Human Design, Animal–Computer Interaction, Human–Nature Interaction (relating to other beings); Bio Design, Biocomputing, Organoid Computing (working with living matter); Eco Art, Speculation & Politics, AI × Nonhuman (culture & futures). Boundary rule: design method/framework → mth; artwork → ecoart; fiction, rights, myth → speculation; AI is the core → ai.
 Read `data/SCHEMA.md`, `data/taxonomy.json` and `data/RESEARCH_BRIEF.md` first.
 
 ## Steps

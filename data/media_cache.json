@@ -40003,5 +40003,35 @@
   "ok": true,
   "type": "image",
   "content_type": "image/jpeg"
+ },
+ "img:https://figures.semanticscholar.org/b3be28c8712c83a1ad80777a5e32d716310cc140/3-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/b3be28c8712c83a1ad80777a5e32d716310cc140/3-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/d7f61aba06f01a18755180f151e1fd79e4ea3b02/5-Figure2-1.png": {
+  "url": "https://figures.semanticscholar.org/d7f61aba06f01a18755180f151e1fd79e4ea3b02/5-Figure2-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/ed7839dc6a0fa9bc24dd3b256e261a9dff8a7eac/7-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/ed7839dc6a0fa9bc24dd3b256e261a9dff8a7eac/7-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/c3720110da0a2825e8043f5df5bba7a995bc471e/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/c3720110da0a2825e8043f5df5bba7a995bc471e/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
+ },
+ "img:https://figures.semanticscholar.org/5ef88cbeb07542aa9b7266317c21ec6ecf943ed4/3-Figure1-1.png": {
+  "url": "https://figures.semanticscholar.org/5ef88cbeb07542aa9b7266317c21ec6ecf943ed4/3-Figure1-1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "binary/octet-stream"
  }
 }

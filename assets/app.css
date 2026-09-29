@@ -316,6 +316,8 @@ main { padding: 22px clamp(16px, 4vw, 56px) 60px; min-height: 60vh; }
 .keys__lede { color: var(--muted); max-width: 62ch; margin: 0 0 18px; font-size: 15px; }
 .atlas { display: grid; grid-template-columns: minmax(0, 1fr); gap: 0 48px; }
 @media (min-width: 900px) { .atlas { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1200px) { .atlas { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 36px; } }
+.atlas__group { font-size: 12px; font-weight: 400; letter-spacing: .08em; text-transform: uppercase; color: var(--accent-text); margin: 34px 0 0; }
 .fieldcard { border-top: 1px solid var(--line); padding: 26px 0 34px; display: grid; grid-template-columns: minmax(0, 1fr); gap: 16px; }
 .fieldcard__media { position: relative; display: grid; grid-template-columns: 2fr 1fr; grid-template-rows: 1fr 1fr; gap: 3px; aspect-ratio: 16 / 8; overflow: hidden; border-radius: 3px; background: var(--bg-2); border: 0; padding: 0; }
 .fieldcard__media:hover .br, .fieldcard__media:focus-visible .br { opacity: 1; }
