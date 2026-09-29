@@ -48,6 +48,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: A study at a local kimchi store arguing that more-than-human participatory design should attend to how boundaries between people, microbes and materials are made, dissolved and remade in everyday fermentation.
 - How it works: Fieldwork on everyday kimchi-making practices analysed as co-ontological participation.
 - Paper: https://doi.org/10.1145/3789492.3796430 (PDC 2026)
+- Images: https://dl.acm.org/cms/10.1145/3789492.3796430/asset/8d983350-ca88-4209-ac2f-822e08b8d623/assets/images/medium/image2.jpg
 - Project page: https://doi.org/10.1145/3789492.3796430
 
 #### Living with Bats — Joseph Samuel Johnson (2026)
@@ -72,6 +73,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: A felted, sensor-augmented wearable perch co-designed over time by the first author and her parrot Shiso, whose avoidance, destruction and attraction reshaped each prototype.
 - How it works: Iterative felted prototypes worn on the hand, with sensors, adjusted according to the parrot's behaviour.
 - Paper: https://doi.org/10.1145/3802974.3808031 (DIS 2026)
+- Images: https://dl.acm.org/cms/10.1145/3802974.3808031/asset/0d10d794-8a26-45bd-98b3-f9c7711df78a/assets/images/medium/discompanion26-53-fig1.jpg
 
 #### PiscineMobil — Yiran Ma (2026)
 - Type: Research prototype · Organisms: Animals
@@ -88,6 +90,7 @@ Co-designing with other species and designing for their needs alongside ours.
 - What it is: Workshops and design experiments in a Sri Lankan village explore how elephants' traces, behaviour and ecological presence can shape participatory design for living with elephants.
 - How it works: Village workshops and design experiments that bring elephant traces into different stages of participatory design.
 - Paper: https://doi.org/10.1145/3789492.3796389 (PDC 2026)
+- Images: https://dl.acm.org/cms/10.1145/3789492.3796389/asset/19ea01bb-270f-4570-9185-8ae626c9a5d8/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3789492.3796389/asset/75554dbd-794f-4fc8-8f7c-dcaa632f71f3/assets/images/medium/image2.jpg
 - Project page: https://doi.org/10.1145/3789492.3796389
 
 #### After Life — After Life team (RCA) (2025)
@@ -668,6 +671,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: Based on research with stakeholders of Ireland's River Shannon, the paper argues that water quality, water level and the river's responses to interventions can be read as the river's voices in governance.
 - How it works: Stakeholder research framed by participatory design infrastructuring and more-than-human thinking.
 - Paper: https://doi.org/10.1145/3789492.3796405 (PDC 2026)
+- Images: https://dl.acm.org/cms/10.1145/3789492.3796405/asset/b66ded3b-6c20-4b33-878a-74457980dff3/assets/images/medium/image2.png
 - Project page: https://doi.org/10.1145/3789492.3796405
 
 #### Nomadic Moss: Weaving a Humidity-Intimacy Wearable for More-than-Human Care — Peng-Jung Lin (2026)
@@ -676,6 +680,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: Nomadic Moss is a woven wrist wearable that hosts living Sphagnum moss, so that the humidity of skin and everyday moments like handwashing become ways of caring for the moss.
 - How it works: Craft-based weaving of moss-suitable textile structures, iterative prototyping, interviews and a co-creation workshop.
 - Paper: https://doi.org/10.1145/3803784.3816863 (C&C 2026)
+- Images: https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg
 
 #### Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds — Marcus Foth (2026)
 - Type: Paper · Organisms: Animals
@@ -683,6 +688,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: A longitudinal participatory design study since 2017 at the Sleepy Burrows Wombat Sanctuary in Australia shows design as a form of stewardship in which humans adapt to wombats.
 - How it works: Longitudinal participatory design fieldwork at a wildlife sanctuary.
 - Paper: https://doi.org/10.1145/3796624.3796652 (PDC 2026)
+- Images: https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg
 
 #### Becoming compost: Fostering soil care through design practices — Annarita Bianco (2025)
 - Type: Paper · Organisms: Ecosystems, Bacteria & microbes
@@ -697,6 +703,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: Four designers kept a worm-composting habitat with guiding booklets for sixteen weeks while reflecting on the materials they use in their own practice.
 - How it works: Design probe of a vermicompost habitat plus reflective booklets, studied through co-speculation with the designers.
 - Paper: https://doi.org/10.1145/3757980.3757990 (Academic Mindtrek 2025)
+- Images: https://dl.acm.org/cms/10.1145/3757980.3757990/asset/b3702b18-5b1e-4a20-81d5-7c60eebf2d18/assets/images/medium/image1.png
 - Project page: https://doi.org/10.1145/3757980.3757990
 
 #### Constituency as a Matter of Practice: Moving a Plant Studio — Oscar Tomico, Doenja Oogjes, Ron Wakkary (2025)
@@ -705,6 +712,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: The authors analyse moving a studio of more than 250 plants from one city to another, treating the move as a way to see how humans, plants and equipment form a design constituency.
 - How it works: Uses 'design events' as an analytic vocabulary to trace practices and temporalities during the relocation.
 - Paper: https://doi.org/10.1145/3706598.3713916 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713916/asset/547adc40-3860-4d64-ab28-d2e4090ab0d8/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3706598.3713916/asset/4e5486ae-71c8-4642-b3e7-4d354f16ecc2/assets/images/medium/image2.jpg
 - Project page: https://doi.org/10.1145/3706598.3713916
 
 #### Domestic Cultures of Plant Care: A Moss Terrarium Probe — Nirit Binyamini Ben-Meir (2025)
@@ -713,6 +721,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: A sensor-equipped moss terrarium was placed in 11 households as a living probe; the study found five domestic cultures of plant care shaped by gifts, shared knowledge and joint care.
 - How it works: Living 'thing ethnography' probe with sensors, plus semi-structured interviews.
 - Paper: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
+- Images: https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg
 
 #### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
 - Type: Research prototype · Organisms: Bacteria & microbes, Plants, Ecosystems
@@ -744,6 +753,7 @@ Designing for caring for, repairing and living alongside other beings and ecosys
 - What it is: A journal paper that frames biodegradation as unmaking done together with microbes, fungi and soil, reading the ReClaym and Biomenstrual projects through each other.
 - How it works: Diffractive reading of two research-through-design projects yields six themes and suggestions for designing with biodegradation.
 - Paper: https://doi.org/10.1145/3685526 (TOCHI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3685526/asset/ee43ff29-2f75-4c24-87d3-3761ec0642f8/assets/images/medium/tochi-2023-0227-f01.jpg
 
 #### Caring through — Gizem Oktay, Bahareh Barati, Ron Wakkary (2024)
 - Type: Paper · Organisms: Fungi, Plants, Ecosystems
@@ -1066,6 +1076,7 @@ The arts of noticing as design practice: listening to, sensing and translating t
 - What it is: A VR experience in which participants inhabit the viewpoint of a stone that changes over time but does not act with intention; participants described their agency as indirect and distributed.
 - How it works: Two VR configurations let participants enter the stone's time and environment; experiences were studied through interviews.
 - Paper: https://doi.org/10.1145/3802974.3808023 (DIS 2026)
+- Images: https://dl.acm.org/cms/10.1145/3802974.3808023/asset/a058d143-0e15-41fb-ad56-15877189cc9a/assets/images/medium/discompanion26-45-fig2.jpg https://dl.acm.org/cms/10.1145/3802974.3808023/asset/940e3be1-9e6c-49de-afe8-d327700ca5bd/assets/images/medium/discompanion26-45-fig1.jpg
 
 #### Designing Loofah Wearables For Embodied Ecological Reflection — Yingting Gao, Fiona Bell (2026)
 - Type: Research prototype · Organisms: Plants
@@ -1126,6 +1137,7 @@ The arts of noticing as design practice: listening to, sensing and translating t
 - What it is: A two-month interspecies ethnography of trying to play alongside growing fungi, which produced six 'play potentials' such as making play moves at the edge of growth and being surprised by how the fungus takes them up.
 - How it works: Interspecies ethnography with mycelium over two months, analysed thematically.
 - Paper: https://doi.org/10.1145/3800645.3813057 (DIS 2026)
+- Images: https://dl.acm.org/cms/10.1145/3800645.3813057/asset/17af31f0-dd74-42fa-aa14-0ffaaeb17c56/assets/images/medium/dis26-241-fig1.jpg
 - Project page: https://doi.org/10.1145/3800645.3813057
 
 #### Putting an ear to the ground: Attending to Frictions in Human-machine-soil Temporalities — Margrete Lodahl Rolighed, Lone Koefoed Hansen (2026)
@@ -1172,6 +1184,7 @@ The arts of noticing as design practice: listening to, sensing and translating t
 - What it is: Participants lie beside a historic urban creek and, through a mobile AR experience, live its story from its own perspective: respected by Indigenous people, used as a sewer, and imagined in a future of collaborative survival.
 - How it works: A mobile AR experience with multisensory, embodied prompts, studied with 15 participants.
 - Paper: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713713/asset/f749069e-6079-4897-bb65-714ef5861ae4/assets/images/medium/chi25-627-fig1.jpg https://dl.acm.org/cms/10.1145/3706598.3713713/asset/8047a55e-e09e-4fc7-b16b-270582a7682a/assets/images/medium/chi25-627-fig2.jpg
 
 #### Chornozem — Zurich University of the Arts (ZHdK) Biodesign Challenge team (2025)
 - Type: Research prototype · Organisms: Ecosystems, Plants
@@ -1433,6 +1446,7 @@ Participatory methods, personas, toolkits, workshops and consent mechanisms for 
 - What it is: Five diagnostic questions that help practitioners see where their design process sidelines evidence from nonhuman behaviours, structures and histories.
 - How it works: A short exploratory paper that distils lessons from habitat-design projects into a checklist for participatory design.
 - Paper: https://doi.org/10.1145/3789492.3796416 (PDC 2026)
+- Images: https://dl.acm.org/cms/10.1145/3789492.3796416/asset/735cb765-068a-4a21-a439-f6dee5c135de/assets/images/medium/pdc2026vol2-36-fig1.jpg
 
 #### BioFabulations: Embodied Sensemaking for Planetary Care — Vasco Costa (2026)
 - Type: Paper · Organisms: Ecosystems, Animals
@@ -1469,6 +1483,7 @@ Participatory methods, personas, toolkits, workshops and consent mechanisms for 
 - What it is: An autoethnography of open weaving with a reflective workbook, showing how the loom, fibres and other nonhumans participate in making and how hard it is for a designer to step back.
 - How it works: The first author weaves without a fixed plan and records reflections, which are analysed for nonhuman creativity and friction.
 - Paper: https://doi.org/10.1145/3803784.3816832 (C&C 2026)
+- Images: https://dl.acm.org/cms/10.1145/3803784.3816832/asset/ba186e27-83ca-449f-a26b-37b92d339915/assets/images/medium/cc26-140-fig1.jpg
 
 #### Plant biographies: Expanding more-than-human modes of relating — Keili Koppel (2026)
 - Type: Paper · Organisms: Plants
@@ -1500,6 +1515,7 @@ Participatory methods, personas, toolkits, workshops and consent mechanisms for 
 - What it is: Design researchers moved their work from labs into their own yards and balconies; a collaborative autoethnography describes these 'backyard practices' of designing with plants and animals over time.
 - How it works: Collaborative autoethnography across several researchers' home sites identifies features (duration, liminality, proximity) and commitments of the practice.
 - Paper: https://doi.org/10.1145/3706598.3713291 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713291/asset/616191bd-1776-4de1-9a37-4d91de9dee39/assets/images/medium/image2.jpg https://dl.acm.org/cms/10.1145/3706598.3713291/asset/8443a01c-c11f-45c1-a89e-76aa780b3abb/assets/images/medium/image1.jpg
 
 #### Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions — Yuyao Lin (2025)
 - Type: Paper · Organisms: Animals, Insects
@@ -1514,6 +1530,7 @@ Participatory methods, personas, toolkits, workshops and consent mechanisms for 
 - What it is: A review of 40 design studies that use personas and other tools to represent nonhumans, identifying six parameters (such as transferability and depth of representation) for building such tools.
 - How it works: Systematic review of representation tools in more-than-human design, coding represented nonhumans, modalities and contexts.
 - Paper: https://doi.org/10.1145/3715336.3735680 (DIS 2025)
+- Images: https://dl.acm.org/cms/10.1145/3715336.3735680/asset/07231df8-b8f5-48ea-b9df-830e97c902dd/assets/images/medium/image1.png https://dl.acm.org/cms/10.1145/3715336.3735680/asset/0f36a052-1cf2-411c-a5de-2f5c41cac5bc/assets/images/medium/image2.png
 
 #### Show Me Your More-Than-Human — Arne Berger (2025)
 - Type: Paper · Organisms: Ecosystems, Plants, Animals
@@ -1887,6 +1904,7 @@ Theory, frameworks, reviews and manifestos for designing beyond the human.
 - What it is: A research agenda that treats water as material, metaphor and collaborator: prototyping water-based technologies such as ultrasonic manipulation, and studying water-centred practices like fishing.
 - How it works: Combines prototyping, aesthetic analysis of water and ethnography of water-centred communities.
 - Paper: https://doi.org/10.1145/3689050.3704797 (TEI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3689050.3704797/asset/555ae706-051c-4e98-a4f6-99e9486923b9/assets/images/medium/tei25-23-fig2.jpg https://dl.acm.org/cms/10.1145/3689050.3704797/asset/dc5f2ecf-0e4d-46a1-aef8-099615d30b5e/assets/images/medium/tei25-23-fig1.jpg
 - Project page: https://doi.org/10.1145/3689050.3704797
 
 #### Labour Provenance — Yuning Chen, Larissa Pschetz (2025)
@@ -1895,6 +1913,7 @@ Theory, frameworks, reviews and manifestos for designing beyond the human.
 - What it is: A CHI 2025 paper that traces all the organisms behind one biodesign lab experiment, from engineered bacteria to the animals whose bodies supply lab reagents, and maps them as five types of more-than-human labourers.
 - How it works: Workshop method and an analytical framework grounded in labour theory, applied to a synthetic biology experiment.
 - Paper: https://doi.org/10.1145/3706598.3713272 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg
 
 #### Becoming microbes: An approach to cultivating microbial sensibilities in biodesign — Jiho Kim, Raphael Kim, Elvin Karana (2024)
 - Type: Paper · Organisms: Bacteria & microbes
@@ -2579,6 +2598,7 @@ Devices that let pets call, play, rest and be understood at home.
 - What it is: pawH are pet toys, a braided rope and a ball, that change colour with the pH of the pet's saliva as it chews.
 - How it works: Colorimetric pH biosensors embedded in pet-safe toy materials; colour read by eye or with a portable spectrometer.
 - Paper: https://doi.org/10.1145/3715336.3735768 (DIS 2025)
+- Images: https://dl.acm.org/cms/10.1145/3715336.3735768/asset/64787d83-fd83-410e-9e93-51c025929324/assets/images/medium/dis25-138-fig2.jpg https://dl.acm.org/cms/10.1145/3715336.3735768/asset/8b107ac6-74a0-4e45-8035-5a0f2b9801a7/assets/images/medium/dis25-138-fig1.jpg
 
 #### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls — Ilyena Hirskyj-Douglas, Jennifer Cunha, Rébecca Kleinberger (2024)
 - Type: Paper · Organisms: Animals
@@ -2611,6 +2631,7 @@ Devices that let pets call, play, rest and be understood at home.
 - What it is: A home system that lets a dog switch on videos on an immersive screen setup, studied over six months with one dog.
 - How it works: Dog-triggered video playback with logging of attention and content features over a long home deployment.
 - Paper: https://doi.org/10.1145/3702336.3702342 (ACI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3702336.3702342/asset/d974f29e-d94c-45d8-8f84-9752c68aadeb/assets/images/medium/aci2024-6-fig1.jpg https://dl.acm.org/cms/10.1145/3702336.3702342/asset/a3a8ef32-69ba-4efa-b9bc-ad16580645d9/assets/images/medium/aci2024-6-fig2.jpg
 
 #### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
 - Type: Research prototype · Organisms: Animals
@@ -2903,6 +2924,7 @@ Interspecies games and robots that play with, feed or care for animals.
 - What it is: Over one season, researchers placed human-made wax shapes in hives and let honeybees build on them, producing sculptures that go beyond the bees' usual comb forms.
 - How it works: Wax starter shapes introduced into Apis mellifera colonies for four months, with documentation of how bees deviated from regular comb.
 - Paper: https://doi.org/10.1145/3689050.3705990 (TEI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3689050.3705990/asset/6ceece72-51b9-4657-89e4-3541da54027f/assets/images/medium/tei25-80-fig2.jpg https://dl.acm.org/cms/10.1145/3689050.3705990/asset/84c9afcd-536c-4fbf-b06d-7cf93395cc09/assets/images/medium/tei25-80-fig1.jpg
 
 #### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
 - Type: Paper · Organisms: Animals
@@ -3087,6 +3109,7 @@ Interfaces for detection dogs, guide dogs, service animals and their handlers.
 - What it is: A sensor-rich sniffing workstation and wearable suit for cancer-detection dogs that captures how a dog's actions and senses are coupled during scent tasks.
 - How it works: Infrared sensors, IMUs and other streams synchronised around sample ports, grounded in enactive cognition.
 - Paper: https://doi.org/10.1145/3702336.3702351 (ACI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3702336.3702351/asset/60327011-a3ef-4f0e-a60d-c7d0b4e1420d/assets/images/medium/aci2024-15-fig2.jpg https://dl.acm.org/cms/10.1145/3702336.3702351/asset/e5645f4b-623b-447c-a2d4-7c764429df89/assets/images/medium/aci2024-15-fig1.jpg
 
 #### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design — Hochul Hwang (2024)
 - Type: Paper · Organisms: Animals
@@ -3353,6 +3376,7 @@ Interactive enrichment for primates, elephants, birds and other animals in care.
 - What it is: Sensors hidden inside enrichment toys measure how individual sea otters at Georgia Aquarium play with them over time.
 - How it works: Waterproof sensor packages in enrichment objects transmit motion data wirelessly to a base station.
 - Paper: https://doi.org/10.1145/3702336.3702346 (ACI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3702336.3702346/asset/2e5b4873-965a-446a-b795-d6d371ef158f/assets/images/medium/aci2024-10-fig1.jpg https://dl.acm.org/cms/10.1145/3702336.3702346/asset/3b27cac7-480c-42d1-9ae9-6745d92813da/assets/images/medium/aci2024-10-fig2.jpg
 
 #### Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism — Aphrodite Theodora Andreou (2023)
 - Type: Research prototype · Organisms: Animals
@@ -3820,6 +3844,7 @@ Decoding and exchanging signals with whales, dolphins, birds and other species.
 - What it is: Rosetta Bone is a QR-code tag on a dog's collar that tells a new caretaker the commands and language the dog already knows.
 - How it works: Collar QR tag linked to a web app that plays the owner's recorded cues in the dog's familiar language.
 - Paper: https://doi.org/10.1145/3702336.3702348 (ACI 2024)
+- Images: https://dl.acm.org/cms/10.1145/3702336.3702348/asset/64a39773-415a-46db-9f22-d2e2dd3f1260/assets/images/medium/aci2024-12-fig1.jpg
 
 #### Soundboard-trained dogs (FluentPet buttons) — Federico Rossano, FluentPet (2024)
 - Type: Paper · Organisms: Animals
@@ -4102,6 +4127,7 @@ Sensing, tracking and living alongside wild and farmed animals.
 - What it is: A prototyping method in which beekeepers give bees shaped scaffolds so the colony builds honeycomb into new, polymorphic forms, while keeping standard hive practice.
 - How it works: Four steps: scaffold creation, quadrilateral shape division, placement in hives and colony building; tested with beekeepers.
 - Paper: https://doi.org/10.1145/3706598.3713696 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713696/asset/e8757f06-a5f5-4f7e-9974-631e5a79d761/assets/images/medium/chi25-610-fig1.jpg
 
 #### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye — Sena Cucumak (2025)
 - Type: Paper · Organisms: Animals
@@ -4109,6 +4135,7 @@ Sensing, tracking and living alongside wild and farmed animals.
 - What it is: Design probes based on the 'arts of noticing' that help residents in Türkiye notice community street animals and rethink cohabitation.
 - How it works: Probe kits deployed with residents and analysed through noticing theory.
 - Paper: https://doi.org/10.1145/3706598.3713977 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713977/asset/a3e68d0b-6e37-4df3-b432-593c846f6197/assets/images/medium/chi25-888-fig1.jpg https://dl.acm.org/cms/10.1145/3706598.3713977/asset/b7e8589b-2f29-4fda-928f-ebdc6e165afb/assets/images/medium/chi25-888-fig2.jpg
 
 #### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
 - Type: Research prototype · Organisms: Animals
@@ -4640,6 +4667,7 @@ Designs that slow people down and help them notice, attend to and feel connected
 - What it is: A CHI paper presenting a taxonomy of 12 ways interactive technology might support joyful forest experiences.
 - How it works: Reflexive analysis of 104 speculative ideas from a year-long co-design process with more than 250 forest-goers.
 - Paper: https://doi.org/10.1145/3706598.3713151 (CHI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3706598.3713151/asset/ac9b1b88-f516-4185-b08c-ead76e752c3e/assets/images/medium/image2.png https://dl.acm.org/cms/10.1145/3706598.3713151/asset/cad6b887-ee34-4db6-89c3-3793a913c520/assets/images/medium/image1.png
 
 #### The Entangled Tales that Landscapes Tell — Marta Galvão Ferreira (2025)
 - Type: Paper · Organisms: Ecosystems, Plants, Human body
@@ -4647,6 +4675,7 @@ Designs that slow people down and help them notice, attend to and feel connected
 - What it is: A TEI paper that studies how nature walks are experienced through the body and imagination, and turns this into a teaching method for designing locative technologies for natural heritage.
 - How it works: Study of the lived and sensory experience of nature walks, leading to an organic pedagogy and design implications for locative tools.
 - Paper: https://doi.org/10.1145/3689050.3705012 (TEI 2025)
+- Images: https://dl.acm.org/cms/10.1145/3689050.3705012/asset/40b23658-0d91-4aae-9a85-d5f20dc7f9f1/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3689050.3705012/asset/4ccb9d4e-a1e7-4d4c-9af0-ef29dbae7a74/assets/images/medium/image2.jpg
 
 #### Dear Nature: Data Drawings for Human–Nature Relations — Marta Galvão Ferreira (2024)
 - Type: Paper · Organisms: Ecosystems, Plants, Human body
@@ -15365,6 +15394,7 @@ Making ecological processes perceptible through sound, data, film and sensors.
 - What it is: Ripples is an interactive installation that gives voice to the salt marshes and species of the Venice Lagoon, which are harmed by the MOSE flood gates blocking sediment flow.
 - How it works: A more-than-human fabulation delivered through tangible and embodied interaction in an installation.
 - Paper: https://doi.org/10.1145/3715668.3735596 (DIS 2025 Companion)
+- Images: https://dl.acm.org/cms/10.1145/3715668.3735596/asset/d894ae4a-e361-4534-9938-268fa9be6730/assets/images/medium/image1.png https://dl.acm.org/cms/10.1145/3715668.3735596/asset/38d62bb5-a500-4af5-b05b-c8211e59234f/assets/images/medium/image2.png
 
 #### The Dream of Zhuang Zhou — Shuai Zou (2025)
 - Type: Artwork · Organisms: Animals, Insects

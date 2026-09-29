@@ -40033,5 +40033,311 @@
   "ok": true,
   "type": "image",
   "content_type": "binary/octet-stream"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3803784.3816832/asset/ba186e27-83ca-449f-a26b-37b92d339915/assets/images/medium/cc26-140-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3803784.3816832/asset/ba186e27-83ca-449f-a26b-37b92d339915/assets/images/medium/cc26-140-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3802974.3808031/asset/0d10d794-8a26-45bd-98b3-f9c7711df78a/assets/images/medium/discompanion26-53-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3802974.3808031/asset/0d10d794-8a26-45bd-98b3-f9c7711df78a/assets/images/medium/discompanion26-53-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3802974.3808023/asset/a058d143-0e15-41fb-ad56-15877189cc9a/assets/images/medium/discompanion26-45-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3802974.3808023/asset/a058d143-0e15-41fb-ad56-15877189cc9a/assets/images/medium/discompanion26-45-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3802974.3808023/asset/940e3be1-9e6c-49de-afe8-d327700ca5bd/assets/images/medium/discompanion26-45-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3802974.3808023/asset/940e3be1-9e6c-49de-afe8-d327700ca5bd/assets/images/medium/discompanion26-45-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3800645.3813057/asset/17af31f0-dd74-42fa-aa14-0ffaaeb17c56/assets/images/medium/dis26-241-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3800645.3813057/asset/17af31f0-dd74-42fa-aa14-0ffaaeb17c56/assets/images/medium/dis26-241-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3789492.3796430/asset/8d983350-ca88-4209-ac2f-822e08b8d623/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3789492.3796430/asset/8d983350-ca88-4209-ac2f-822e08b8d623/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3789492.3796416/asset/735cb765-068a-4a21-a439-f6dee5c135de/assets/images/medium/pdc2026vol2-36-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3789492.3796416/asset/735cb765-068a-4a21-a439-f6dee5c135de/assets/images/medium/pdc2026vol2-36-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3789492.3796405/asset/b66ded3b-6c20-4b33-878a-74457980dff3/assets/images/medium/image2.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3789492.3796405/asset/b66ded3b-6c20-4b33-878a-74457980dff3/assets/images/medium/image2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3789492.3796389/asset/19ea01bb-270f-4570-9185-8ae626c9a5d8/assets/images/medium/image1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3789492.3796389/asset/19ea01bb-270f-4570-9185-8ae626c9a5d8/assets/images/medium/image1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3789492.3796389/asset/75554dbd-794f-4fc8-8f7c-dcaa632f71f3/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3789492.3796389/asset/75554dbd-794f-4fc8-8f7c-dcaa632f71f3/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3757980.3757990/asset/b3702b18-5b1e-4a20-81d5-7c60eebf2d18/assets/images/medium/image1.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3757980.3757990/asset/b3702b18-5b1e-4a20-81d5-7c60eebf2d18/assets/images/medium/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715668.3735596/asset/d894ae4a-e361-4534-9938-268fa9be6730/assets/images/medium/image1.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3715668.3735596/asset/d894ae4a-e361-4534-9938-268fa9be6730/assets/images/medium/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715668.3735596/asset/38d62bb5-a500-4af5-b05b-c8211e59234f/assets/images/medium/image2.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3715668.3735596/asset/38d62bb5-a500-4af5-b05b-c8211e59234f/assets/images/medium/image2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715336.3735768/asset/64787d83-fd83-410e-9e93-51c025929324/assets/images/medium/dis25-138-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3715336.3735768/asset/64787d83-fd83-410e-9e93-51c025929324/assets/images/medium/dis25-138-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715336.3735768/asset/8b107ac6-74a0-4e45-8035-5a0f2b9801a7/assets/images/medium/dis25-138-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3715336.3735768/asset/8b107ac6-74a0-4e45-8035-5a0f2b9801a7/assets/images/medium/dis25-138-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715336.3735680/asset/07231df8-b8f5-48ea-b9df-830e97c902dd/assets/images/medium/image1.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3715336.3735680/asset/07231df8-b8f5-48ea-b9df-830e97c902dd/assets/images/medium/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715336.3735680/asset/0f36a052-1cf2-411c-a5de-2f5c41cac5bc/assets/images/medium/image2.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3715336.3735680/asset/0f36a052-1cf2-411c-a5de-2f5c41cac5bc/assets/images/medium/image2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3715335.3735487/asset/3b2490bf-784f-4089-a1d4-1fdea4ea775a/assets/images/medium/compass25-35-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3715335.3735487/asset/3b2490bf-784f-4089-a1d4-1fdea4ea775a/assets/images/medium/compass25-35-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713977/asset/a3e68d0b-6e37-4df3-b432-593c846f6197/assets/images/medium/chi25-888-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713977/asset/a3e68d0b-6e37-4df3-b432-593c846f6197/assets/images/medium/chi25-888-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713977/asset/b7e8589b-2f29-4fda-928f-ebdc6e165afb/assets/images/medium/chi25-888-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713977/asset/b7e8589b-2f29-4fda-928f-ebdc6e165afb/assets/images/medium/chi25-888-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713916/asset/547adc40-3860-4d64-ab28-d2e4090ab0d8/assets/images/medium/image1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713916/asset/547adc40-3860-4d64-ab28-d2e4090ab0d8/assets/images/medium/image1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713916/asset/4e5486ae-71c8-4642-b3e7-4d354f16ecc2/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713916/asset/4e5486ae-71c8-4642-b3e7-4d354f16ecc2/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713713/asset/f749069e-6079-4897-bb65-714ef5861ae4/assets/images/medium/chi25-627-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713713/asset/f749069e-6079-4897-bb65-714ef5861ae4/assets/images/medium/chi25-627-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713713/asset/8047a55e-e09e-4fc7-b16b-270582a7682a/assets/images/medium/chi25-627-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713713/asset/8047a55e-e09e-4fc7-b16b-270582a7682a/assets/images/medium/chi25-627-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713696/asset/e8757f06-a5f5-4f7e-9974-631e5a79d761/assets/images/medium/chi25-610-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713696/asset/e8757f06-a5f5-4f7e-9974-631e5a79d761/assets/images/medium/chi25-610-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713291/asset/616191bd-1776-4de1-9a37-4d91de9dee39/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713291/asset/616191bd-1776-4de1-9a37-4d91de9dee39/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713291/asset/8443a01c-c11f-45c1-a89e-76aa780b3abb/assets/images/medium/image1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713291/asset/8443a01c-c11f-45c1-a89e-76aa780b3abb/assets/images/medium/image1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713151/asset/ac9b1b88-f516-4185-b08c-ead76e752c3e/assets/images/medium/image2.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713151/asset/ac9b1b88-f516-4185-b08c-ead76e752c3e/assets/images/medium/image2.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3706598.3713151/asset/cad6b887-ee34-4db6-89c3-3793a913c520/assets/images/medium/image1.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3706598.3713151/asset/cad6b887-ee34-4db6-89c3-3793a913c520/assets/images/medium/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702351/asset/60327011-a3ef-4f0e-a60d-c7d0b4e1420d/assets/images/medium/aci2024-15-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702351/asset/60327011-a3ef-4f0e-a60d-c7d0b4e1420d/assets/images/medium/aci2024-15-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702351/asset/e5645f4b-623b-447c-a2d4-7c764429df89/assets/images/medium/aci2024-15-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702351/asset/e5645f4b-623b-447c-a2d4-7c764429df89/assets/images/medium/aci2024-15-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702348/asset/64a39773-415a-46db-9f22-d2e2dd3f1260/assets/images/medium/aci2024-12-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702348/asset/64a39773-415a-46db-9f22-d2e2dd3f1260/assets/images/medium/aci2024-12-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702346/asset/2e5b4873-965a-446a-b795-d6d371ef158f/assets/images/medium/aci2024-10-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702346/asset/2e5b4873-965a-446a-b795-d6d371ef158f/assets/images/medium/aci2024-10-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702346/asset/3b27cac7-480c-42d1-9ae9-6745d92813da/assets/images/medium/aci2024-10-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702346/asset/3b27cac7-480c-42d1-9ae9-6745d92813da/assets/images/medium/aci2024-10-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702345/asset/80575ae9-3a7b-46b5-9a3d-22ab24b4fea8/assets/images/medium/image1.png": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702345/asset/80575ae9-3a7b-46b5-9a3d-22ab24b4fea8/assets/images/medium/image1.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/png;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702342/asset/d974f29e-d94c-45d8-8f84-9752c68aadeb/assets/images/medium/aci2024-6-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702342/asset/d974f29e-d94c-45d8-8f84-9752c68aadeb/assets/images/medium/aci2024-6-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3702336.3702342/asset/a3a8ef32-69ba-4efa-b9bc-ad16580645d9/assets/images/medium/aci2024-6-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3702336.3702342/asset/a3a8ef32-69ba-4efa-b9bc-ad16580645d9/assets/images/medium/aci2024-6-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3705990/asset/6ceece72-51b9-4657-89e4-3541da54027f/assets/images/medium/tei25-80-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3705990/asset/6ceece72-51b9-4657-89e4-3541da54027f/assets/images/medium/tei25-80-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3705990/asset/84c9afcd-536c-4fbf-b06d-7cf93395cc09/assets/images/medium/tei25-80-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3705990/asset/84c9afcd-536c-4fbf-b06d-7cf93395cc09/assets/images/medium/tei25-80-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3705012/asset/40b23658-0d91-4aae-9a85-d5f20dc7f9f1/assets/images/medium/image1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3705012/asset/40b23658-0d91-4aae-9a85-d5f20dc7f9f1/assets/images/medium/image1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3705012/asset/4ccb9d4e-a1e7-4d4c-9af0-ef29dbae7a74/assets/images/medium/image2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3705012/asset/4ccb9d4e-a1e7-4d4c-9af0-ef29dbae7a74/assets/images/medium/image2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3704797/asset/555ae706-051c-4e98-a4f6-99e9486923b9/assets/images/medium/tei25-23-fig2.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3704797/asset/555ae706-051c-4e98-a4f6-99e9486923b9/assets/images/medium/tei25-23-fig2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3689050.3704797/asset/dc5f2ecf-0e4d-46a1-aef8-099615d30b5e/assets/images/medium/tei25-23-fig1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3689050.3704797/asset/dc5f2ecf-0e4d-46a1-aef8-099615d30b5e/assets/images/medium/tei25-23-fig1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3685526/asset/ee43ff29-2f75-4c24-87d3-3761ec0642f8/assets/images/medium/tochi-2023-0227-f01.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3685526/asset/ee43ff29-2f75-4c24-87d3-3761ec0642f8/assets/images/medium/tochi-2023-0227-f01.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
+ },
+ "img:https://dl.acm.org/cms/10.1145/3512887/asset/8662e404-3b61-4d0e-8526-7128a6f00f31/assets/images/medium/tochi-2021-0172-un1.jpg": {
+  "url": "https://dl.acm.org/cms/10.1145/3512887/asset/8662e404-3b61-4d0e-8526-7128a6f00f31/assets/images/medium/tochi-2021-0172-un1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg;charset=UTF-8"
  }
 }

@@ -29850,8 +29850,10 @@
     "title": "Are You Blocking Nonhuman Leadership? Five Questions to Find Out"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3789492.3796416/asset/735cb765-068a-4a21-a439-f6dee5c135de/assets/images/medium/pdc2026vol2-36-fig1.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "theorize"
    ],
@@ -30076,10 +30078,13 @@
     "title": "Being Stone: Designing Nonhuman Embodiment in VR"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3802974.3808023/asset/a058d143-0e15-41fb-ad56-15877189cc9a/assets/images/medium/discompanion26-45-fig2.jpg",
+    "https://dl.acm.org/cms/10.1145/3802974.3808023/asset/940e3be1-9e6c-49de-afe8-d327700ca5bd/assets/images/medium/discompanion26-45-fig1.jpg"
+   ],
    "also": [
     "ecoart"
    ],
-   "images": [],
    "approaches": [
     "translate"
    ],
@@ -31129,7 +31134,9 @@
    },
    "source_url": "https://doi.org/10.1145/3789492.3796430",
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3789492.3796430/asset/8d983350-ca88-4209-ac2f-822e08b8d623/assets/images/medium/image2.jpg"
+   ],
    "also": [],
    "approaches": [
     "theorize"
@@ -31786,7 +31793,9 @@
    },
    "source_url": "https://doi.org/10.1145/3789492.3796405",
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3789492.3796405/asset/b66ded3b-6c20-4b33-878a-74457980dff3/assets/images/medium/image2.png"
+   ],
    "also": [],
    "approaches": [
     "advocate"
@@ -32006,7 +32015,10 @@
     "title": "Nomadic Moss: Weaving a Humidity-Intimacy Wearable for More-than-Human Care"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg",
+    "https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg"
+   ],
    "approaches": [
     "care",
     "interface"
@@ -32054,7 +32066,9 @@
     "aci"
    ],
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3802974.3808031/asset/0d10d794-8a26-45bd-98b3-f9c7711df78a/assets/images/medium/discompanion26-53-fig1.jpg"
+   ],
    "approaches": [
     "co-create"
    ],
@@ -32185,8 +32199,10 @@
     "title": "Open Weaving: Decentering Practice in More-than-Human Relations"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3803784.3816832/asset/ba186e27-83ca-449f-a26b-37b92d339915/assets/images/medium/cc26-140-fig1.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "theorize"
    ],
@@ -32413,8 +32429,10 @@
    },
    "source_url": "https://doi.org/10.1145/3800645.3813057",
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3800645.3813057/asset/17af31f0-dd74-42fa-aa14-0ffaaeb17c56/assets/images/medium/dis26-241-fig1.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "co-create"
    ],
@@ -33379,7 +33397,10 @@
     "title": "Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg",
+    "https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg"
+   ],
    "approaches": [
     "care"
    ],
@@ -33422,7 +33443,10 @@
    },
    "source_url": "https://doi.org/10.1145/3789492.3796389",
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3789492.3796389/asset/19ea01bb-270f-4570-9185-8ae626c9a5d8/assets/images/medium/image1.jpg",
+    "https://dl.acm.org/cms/10.1145/3789492.3796389/asset/75554dbd-794f-4fc8-8f7c-dcaa632f71f3/assets/images/medium/image2.jpg"
+   ],
    "approaches": [
     "advocate"
    ],
@@ -33557,7 +33581,9 @@
     "title": "4D Bioforming with Bees: An Industry-Compatible Prototyping Method for Polymorphic Honeycomb Creation"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713696/asset/e8757f06-a5f5-4f7e-9974-631e5a79d761/assets/images/medium/chi25-610-fig1.jpg"
+   ],
    "approaches": [
     "co-create"
    ],
@@ -34086,8 +34112,11 @@
     "title": "Backyard Practices: A Liminal Approach to Designing in More-than-Human Worlds"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713291/asset/616191bd-1776-4de1-9a37-4d91de9dee39/assets/images/medium/image2.jpg",
+    "https://dl.acm.org/cms/10.1145/3706598.3713291/asset/8443a01c-c11f-45c1-a89e-76aa780b3abb/assets/images/medium/image1.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "care"
    ],
@@ -34264,10 +34293,13 @@
     "title": "Being The Creek: Mobile Augmented Reality Experience as an Invitation for Exploring More-Than-Human Perspectives"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713713/asset/f749069e-6079-4897-bb65-714ef5861ae4/assets/images/medium/chi25-627-fig1.jpg",
+    "https://dl.acm.org/cms/10.1145/3706598.3713713/asset/8047a55e-e09e-4fc7-b16b-270582a7682a/assets/images/medium/chi25-627-fig2.jpg"
+   ],
    "also": [
     "hni"
    ],
-   "images": [],
    "approaches": [
     "translate"
    ],
@@ -34935,7 +34967,9 @@
    },
    "source_url": "https://doi.org/10.1145/3757980.3757990",
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3757980.3757990/asset/b3702b18-5b1e-4a20-81d5-7c60eebf2d18/assets/images/medium/image1.png"
+   ],
    "approaches": [
     "care"
    ],
@@ -35026,8 +35060,11 @@
    },
    "source_url": "https://doi.org/10.1145/3706598.3713916",
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713916/asset/547adc40-3860-4d64-ab28-d2e4090ab0d8/assets/images/medium/image1.jpg",
+    "https://dl.acm.org/cms/10.1145/3706598.3713916/asset/4e5486ae-71c8-4642-b3e7-4d354f16ecc2/assets/images/medium/image2.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "theorize"
    ],
@@ -35412,7 +35449,10 @@
     "title": "Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713977/asset/a3e68d0b-6e37-4df3-b432-593c846f6197/assets/images/medium/chi25-888-fig1.jpg",
+    "https://dl.acm.org/cms/10.1145/3706598.3713977/asset/b7e8589b-2f29-4fda-928f-ebdc6e165afb/assets/images/medium/chi25-888-fig2.jpg"
+   ],
    "approaches": [
     "translate"
    ],
@@ -35454,8 +35494,11 @@
    },
    "source_url": "https://doi.org/10.1145/3689050.3704797",
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3689050.3704797/asset/555ae706-051c-4e98-a4f6-99e9486923b9/assets/images/medium/tei25-23-fig2.jpg",
+    "https://dl.acm.org/cms/10.1145/3689050.3704797/asset/dc5f2ecf-0e4d-46a1-aef8-099615d30b5e/assets/images/medium/tei25-23-fig1.jpg"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "co-create"
    ],
@@ -35638,7 +35681,9 @@
     "title": "Domestic Cultures of Plant Care: A Moss Terrarium Probe"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg"
+   ],
    "approaches": [
     "care"
    ],
@@ -36641,7 +36686,10 @@
     "title": "How Can Interactive Technology Help Us to Experience Joy With(in) the Forest? Towards a Taxonomy of Tech for Joyful Human-Forest Interactions"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713151/asset/ac9b1b88-f516-4185-b08c-ead76e752c3e/assets/images/medium/image2.png",
+    "https://dl.acm.org/cms/10.1145/3706598.3713151/asset/cad6b887-ee34-4db6-89c3-3793a913c520/assets/images/medium/image1.png"
+   ],
    "also": [],
    "approaches": [
     "theorize"
@@ -37055,10 +37103,12 @@
     "title": "Labour Provenance as a Lens to Reveal More-Than-Human Ecologies in Biological Design and HCI"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg"
+   ],
    "also": [
     "bio"
    ],
-   "images": [],
    "approaches": [
     "theorize"
    ],
@@ -38291,8 +38341,11 @@
     "title": "Rethinking Representation in Design: Towards Constructing Parameters for Representation Tools in More-than-Human Design"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3715336.3735680/asset/07231df8-b8f5-48ea-b9df-830e97c902dd/assets/images/medium/image1.png",
+    "https://dl.acm.org/cms/10.1145/3715336.3735680/asset/0f36a052-1cf2-411c-a5de-2f5c41cac5bc/assets/images/medium/image2.png"
+   ],
    "also": [],
-   "images": [],
    "approaches": [
     "theorize"
    ],
@@ -38385,10 +38438,13 @@
     "title": "Ripples: Voices of the Lagoon—Attuning to Multispecies Justice through Tangible and Embodied Interaction"
    },
    "video": {},
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3715668.3735596/asset/d894ae4a-e361-4534-9938-268fa9be6730/assets/images/medium/image1.png",
+    "https://dl.acm.org/cms/10.1145/3715668.3735596/asset/38d62bb5-a500-4af5-b05b-c8211e59234f/assets/images/medium/image2.png"
+   ],
    "also": [
     "mth"
    ],
-   "images": [],
    "approaches": [
     "advocate",
     "translate"
@@ -39694,7 +39750,10 @@
     "title": "The Entangled Tales that Landscapes Tell: An Embodied HCI Pedagogy for Re-enchanted Nature Walks"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3689050.3705012/asset/40b23658-0d91-4aae-9a85-d5f20dc7f9f1/assets/images/medium/image1.jpg",
+    "https://dl.acm.org/cms/10.1145/3689050.3705012/asset/4ccb9d4e-a1e7-4d4c-9af0-ef29dbae7a74/assets/images/medium/image2.jpg"
+   ],
    "also": [],
    "approaches": [
     "theorize"
@@ -40165,7 +40224,10 @@
     "title": "Wax Arts With Honeybees – Taking First Steps Toward Multispecies Co-Creation"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3689050.3705990/asset/6ceece72-51b9-4657-89e4-3541da54027f/assets/images/medium/tei25-80-fig2.jpg",
+    "https://dl.acm.org/cms/10.1145/3689050.3705990/asset/84c9afcd-536c-4fbf-b06d-7cf93395cc09/assets/images/medium/tei25-80-fig1.jpg"
+   ],
    "approaches": [
     "co-create"
    ],
@@ -40448,7 +40510,10 @@
     "title": "pawH: Colorimetric pH-Sensing Toys for Non-Invasive Pet Health Monitoring"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3715336.3735768/asset/64787d83-fd83-410e-9e93-51c025929324/assets/images/medium/dis25-138-fig2.jpg",
+    "https://dl.acm.org/cms/10.1145/3715336.3735768/asset/8b107ac6-74a0-4e45-8035-5a0f2b9801a7/assets/images/medium/dis25-138-fig1.jpg"
+   ],
    "approaches": [
     "care"
    ],
@@ -41638,7 +41703,9 @@
     "title": "Biodegradation as More-than-Human Unmaking"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3685526/asset/ee43ff29-2f75-4c24-87d3-3761ec0642f8/assets/images/medium/tochi-2023-0227-f01.jpg"
+   ],
    "approaches": [
     "theorize"
    ],
@@ -46943,7 +47010,10 @@
     "title": "Prototyping an Immersive Screen Interfaces for Dogs' to Control Screens in Their Home"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3702336.3702342/asset/d974f29e-d94c-45d8-8f84-9752c68aadeb/assets/images/medium/aci2024-6-fig1.jpg",
+    "https://dl.acm.org/cms/10.1145/3702336.3702342/asset/a3a8ef32-69ba-4efa-b9bc-ad16580645d9/assets/images/medium/aci2024-6-fig2.jpg"
+   ],
    "approaches": [
     "interface"
    ],
@@ -47087,7 +47157,9 @@
     "title": "Rosetta Bone - Bridging the Language Gap Between Dogs and Humans with a QR Code-Enabled Communication System"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3702336.3702348/asset/64a39773-415a-46db-9f22-d2e2dd3f1260/assets/images/medium/aci2024-12-fig1.jpg"
+   ],
    "approaches": [
     "translate"
    ],
@@ -47716,7 +47788,10 @@
     "title": "Shelling Out the Fun: Quantifying Otter Interactions with Instrumented Enrichment Objects"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3702336.3702346/asset/2e5b4873-965a-446a-b795-d6d371ef158f/assets/images/medium/aci2024-10-fig1.jpg",
+    "https://dl.acm.org/cms/10.1145/3702336.3702346/asset/3b27cac7-480c-42d1-9ae9-6745d92813da/assets/images/medium/aci2024-10-fig2.jpg"
+   ],
    "approaches": [
     "care"
    ],
@@ -48379,7 +48454,10 @@
     "title": "Towards Enactivist ACI - Sensor-Rich Olfactory Workstation and Suit for Detection Dogs"
    },
    "video": {},
-   "images": [],
+   "images": [
+    "https://dl.acm.org/cms/10.1145/3702336.3702351/asset/60327011-a3ef-4f0e-a60d-c7d0b4e1420d/assets/images/medium/aci2024-15-fig2.jpg",
+    "https://dl.acm.org/cms/10.1145/3702336.3702351/asset/e5645f4b-623b-447c-a2d4-7c764429df89/assets/images/medium/aci2024-15-fig1.jpg"
+   ],
    "also": [],
    "approaches": [
     "interface"

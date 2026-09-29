@@ -48,6 +48,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 在一家本地泡菜店开展的研究，主张超越人类的参与式设计应关注人、微生物与材料之间的边界如何在日常发酵中被建立、消解与重建。
 - 实现方式: 对日常泡菜制作的田野研究，以“共同本体的参与”加以分析。
 - 论文: https://doi.org/10.1145/3789492.3796430 (PDC 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3789492.3796430/asset/8d983350-ca88-4209-ac2f-822e08b8d623/assets/images/medium/image2.jpg
 - 项目主页: https://doi.org/10.1145/3789492.3796430
 
 #### Living with Bats — Joseph Samuel Johnson (2026)
@@ -72,6 +73,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一件毛毡制、带传感器的可穿戴栖木，由第一作者和她的鹦鹉 Shiso 长期共同设计；鹦鹉的回避、破坏和亲近改变了每一版原型。
 - 实现方式: 迭代制作戴在手上的毛毡原型并加装传感器，根据鹦鹉的行为不断调整。
 - 论文: https://doi.org/10.1145/3802974.3808031 (DIS 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3802974.3808031/asset/0d10d794-8a26-45bd-98b3-f9c7711df78a/assets/images/medium/discompanion26-53-fig1.jpg
 
 #### PiscineMobil — Yiran Ma (2026)
 - 类型: 研究原型 · 生物: 动物
@@ -88,6 +90,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 在斯里兰卡一个村庄开展的工作坊和设计实验，探索大象的痕迹、行为和生态存在如何影响“与象共处”的参与式设计。
 - 实现方式: 在村庄开展工作坊与设计实验，把大象的痕迹带入参与式设计的不同阶段。
 - 论文: https://doi.org/10.1145/3789492.3796389 (PDC 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3789492.3796389/asset/19ea01bb-270f-4570-9185-8ae626c9a5d8/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3789492.3796389/asset/75554dbd-794f-4fc8-8f7c-dcaa632f71f3/assets/images/medium/image2.jpg
 - 项目主页: https://doi.org/10.1145/3789492.3796389
 
 #### After Life — After Life team (RCA) (2025)
@@ -668,6 +671,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 论文基于对爱尔兰香农河利益相关者的研究，认为水质、水位以及河流对工程干预的反应，都可以被视为河流在治理中的“声音”。
 - 实现方式: 以参与式设计中的“基础设施化”与超越人类思想为框架的利益相关者研究。
 - 论文: https://doi.org/10.1145/3789492.3796405 (PDC 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3789492.3796405/asset/b66ded3b-6c20-4b33-878a-74457980dff3/assets/images/medium/image2.png
 - 项目主页: https://doi.org/10.1145/3789492.3796405
 
 #### Nomadic Moss: Weaving a Humidity-Intimacy Wearable for More-than-Human Care — Peng-Jung Lin (2026)
@@ -676,6 +680,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: Nomadic Moss 是一件编织的腕部可穿戴物，里面生活着泥炭藓；皮肤的湿气和洗手这样的日常时刻都变成了照顾苔藓的方式。
 - 实现方式: 以编织手工制作适合苔藓的织物结构，经过迭代原型、访谈和共创工作坊。
 - 论文: https://doi.org/10.1145/3803784.3816863 (C&C 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3803784.3816863/asset/9bbaec27-26e4-46c0-9578-12dcc08e1131/assets/images/medium/cc26-171-fig1.jpg https://dl.acm.org/cms/10.1145/3803784.3816863/asset/5e5eccca-4574-4ef8-89e3-1705067fcad1/assets/images/medium/cc26-171-fig2.jpg
 
 #### Where Wombats Dominate and Humans Accommodate: Recasting Design as Situated Response-ability in More-than-Human Worlds — Marcus Foth (2026)
 - 类型: 论文 · 生物: 动物
@@ -683,6 +688,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 自 2017 年起在澳大利亚 Sleepy Burrows 袋熊保护区开展的长期参与式设计研究，展示了一种“人适应袋熊”的照管式设计。
 - 实现方式: 在野生动物保护区开展的长期参与式设计田野研究。
 - 论文: https://doi.org/10.1145/3796624.3796652 (PDC 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3796624.3796652/asset/2078633f-224c-4a47-a11e-1d92b8358f06/assets/images/medium/image2.jpg https://dl.acm.org/cms/10.1145/3796624.3796652/asset/e4bb2160-cd17-4d30-9285-0e39737e4911/assets/images/medium/image1.jpg
 
 #### Becoming compost: Fostering soil care through design practices — Annarita Bianco (2025)
 - 类型: 论文 · 生物: 生态系统, 细菌与微生物
@@ -697,6 +703,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 四位设计师在十六周里一边照料蚯蚓堆肥箱、阅读引导手册，一边反思自己实践中使用的材料。
 - 实现方式: 以蚯蚓堆肥箱加反思手册作为设计探针，通过与设计师共同思辨进行研究。
 - 论文: https://doi.org/10.1145/3757980.3757990 (Academic Mindtrek 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3757980.3757990/asset/b3702b18-5b1e-4a20-81d5-7c60eebf2d18/assets/images/medium/image1.png
 - 项目主页: https://doi.org/10.1145/3757980.3757990
 
 #### Constituency as a Matter of Practice: Moving a Plant Studio — Oscar Tomico, Doenja Oogjes, Ron Wakkary (2025)
@@ -705,6 +712,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 作者分析了把一个拥有 250 多株植物的工作室从一座城市搬到另一座城市的过程，借此观察人、植物和设备如何组成一个设计“构成体”。
 - 实现方式: 用“设计事件”作为分析词汇，追踪搬迁过程中的实践与时间性。
 - 论文: https://doi.org/10.1145/3706598.3713916 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713916/asset/547adc40-3860-4d64-ab28-d2e4090ab0d8/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3706598.3713916/asset/4e5486ae-71c8-4642-b3e7-4d354f16ecc2/assets/images/medium/image2.jpg
 - 项目主页: https://doi.org/10.1145/3706598.3713916
 
 #### Domestic Cultures of Plant Care: A Moss Terrarium Probe — Nirit Binyamini Ben-Meir (2025)
@@ -713,6 +721,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 研究者把带传感器的苔藓生态瓶放进 11 个家庭作为活体探针，发现了由赠礼、知识传递和共同照料塑造的五种家庭植物照护文化。
 - 实现方式: 带传感器的活体“物民族志”探针，加半结构化访谈。
 - 论文: https://doi.org/10.1145/3715336.3735689 (DIS 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3715336.3735689/asset/e8c6047b-d492-44d9-9924-d7c7e523c96d/assets/images/medium/dis25-59-fig2.jpg
 
 #### SoilRevive — SoilRevive team (Chia-Yi Liu & Yen-Chun Chen) (2025)
 - 类型: 研究原型 · 生物: 细菌与微生物, 植物, 生态系统
@@ -744,6 +753,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 这篇期刊论文把生物降解看作与微生物、真菌和土壤一起完成的“反制作”，并把 ReClaym 与 Biomenstrual 两个项目放在一起对照解读。
 - 实现方式: 对两个“通过设计做研究”的项目做衍射式阅读，得出六个主题和与生物降解一起设计的建议。
 - 论文: https://doi.org/10.1145/3685526 (TOCHI 2024)
+- 图片: https://dl.acm.org/cms/10.1145/3685526/asset/ee43ff29-2f75-4c24-87d3-3761ec0642f8/assets/images/medium/tochi-2023-0227-f01.jpg
 
 #### Caring through — Gizem Oktay, Bahareh Barati, Ron Wakkary (2024)
 - 类型: 论文 · 生物: 真菌, 植物, 生态系统
@@ -1066,6 +1076,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一个 VR 体验：参与者化身为一块随时间变化却没有意图的石头；参与者把自己的能动性描述为间接、分散的。
 - 实现方式: 两种 VR 配置让参与者进入石头的时间与环境，并通过访谈研究其体验。
 - 论文: https://doi.org/10.1145/3802974.3808023 (DIS 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3802974.3808023/asset/a058d143-0e15-41fb-ad56-15877189cc9a/assets/images/medium/discompanion26-45-fig2.jpg https://dl.acm.org/cms/10.1145/3802974.3808023/asset/940e3be1-9e6c-49de-afe8-d327700ca5bd/assets/images/medium/discompanion26-45-fig1.jpg
 
 #### Designing Loofah Wearables For Embodied Ecological Reflection — Yingting Gao, Fiona Bell (2026)
 - 类型: 研究原型 · 生物: 植物
@@ -1126,6 +1137,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一项为期两个月的跨物种民族志：研究者尝试与生长中的真菌一起玩耍，并归纳出六种“游戏潜能”，例如在生长边缘做出游戏动作，并惊讶于真菌如何回应。
 - 实现方式: 与菌丝体进行为期两个月的跨物种民族志，并做主题分析。
 - 论文: https://doi.org/10.1145/3800645.3813057 (DIS 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3800645.3813057/asset/17af31f0-dd74-42fa-aa14-0ffaaeb17c56/assets/images/medium/dis26-241-fig1.jpg
 - 项目主页: https://doi.org/10.1145/3800645.3813057
 
 #### Putting an ear to the ground: Attending to Frictions in Human-machine-soil Temporalities — Margrete Lodahl Rolighed, Lone Koefoed Hansen (2026)
@@ -1172,6 +1184,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 参与者躺在一条有历史的城市溪流旁，通过移动增强现实，从溪流自身的视角经历它的故事：被原住民尊重、被当作下水道、再到共同生存的未来。
 - 实现方式: 一个包含多感官、具身提示的移动 AR 体验，并与 15 位参与者进行研究。
 - 论文: https://doi.org/10.1145/3706598.3713713 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713713/asset/f749069e-6079-4897-bb65-714ef5861ae4/assets/images/medium/chi25-627-fig1.jpg https://dl.acm.org/cms/10.1145/3706598.3713713/asset/8047a55e-e09e-4fc7-b16b-270582a7682a/assets/images/medium/chi25-627-fig2.jpg
 
 #### Chornozem — Zurich University of the Arts (ZHdK) Biodesign Challenge team (2025)
 - 类型: 研究原型 · 生物: 生态系统, 植物
@@ -1433,6 +1446,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 五个诊断性问题，帮助实践者看清自己的设计流程在哪些地方忽视了来自非人行为、结构和历史的证据。
 - 实现方式: 一篇探索性短文，把栖息地设计项目的经验提炼成参与式设计可用的检查清单。
 - 论文: https://doi.org/10.1145/3789492.3796416 (PDC 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3789492.3796416/asset/735cb765-068a-4a21-a439-f6dee5c135de/assets/images/medium/pdc2026vol2-36-fig1.jpg
 
 #### BioFabulations: Embodied Sensemaking for Planetary Care — Vasco Costa (2026)
 - 类型: 论文 · 生物: 生态系统, 动物
@@ -1469,6 +1483,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一项关于“开放编织”的自我民族志，配合反思手册，展示织机、纤维等非人如何参与制作，以及设计者退后一步有多难。
 - 实现方式: 第一作者在没有固定计划的情况下编织并记录反思，再分析其中的非人创造力和摩擦。
 - 论文: https://doi.org/10.1145/3803784.3816832 (C&C 2026)
+- 图片: https://dl.acm.org/cms/10.1145/3803784.3816832/asset/ba186e27-83ca-449f-a26b-37b92d339915/assets/images/medium/cc26-140-fig1.jpg
 
 #### Plant biographies: Expanding more-than-human modes of relating — Keili Koppel (2026)
 - 类型: 论文 · 生物: 植物
@@ -1500,6 +1515,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 几位设计研究者把研究从实验室搬进自家的院子和阳台；通过合作式自我民族志，他们描述了这种长期与植物和动物一起设计的“后院实践”。
 - 实现方式: 多位研究者在各自家中进行合作式自我民族志，总结出这种实践的特征（时长、阈限、邻近）和承诺。
 - 论文: https://doi.org/10.1145/3706598.3713291 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713291/asset/616191bd-1776-4de1-9a37-4d91de9dee39/assets/images/medium/image2.jpg https://dl.acm.org/cms/10.1145/3706598.3713291/asset/8443a01c-c11f-45c1-a89e-76aa780b3abb/assets/images/medium/image1.jpg
 
 #### Co-designing with the abject: integrating Animal Writing to explore more-than-human interactions — Yuyao Lin (2025)
 - 类型: 论文 · 生物: 动物, 昆虫
@@ -1514,6 +1530,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 综述了 40 项用人物画像等工具来呈现非人的设计研究，提出构建此类工具的六个参数（如可迁移性和呈现深度）。
 - 实现方式: 对超越人类设计中的呈现工具做系统综述，编码被呈现的非人、模态与情境。
 - 论文: https://doi.org/10.1145/3715336.3735680 (DIS 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3715336.3735680/asset/07231df8-b8f5-48ea-b9df-830e97c902dd/assets/images/medium/image1.png https://dl.acm.org/cms/10.1145/3715336.3735680/asset/0f36a052-1cf2-411c-a5de-2f5c41cac5bc/assets/images/medium/image2.png
 
 #### Show Me Your More-Than-Human — Arne Berger (2025)
 - 类型: 论文 · 生物: 生态系统, 植物, 动物
@@ -1887,6 +1904,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一项研究计划，把水同时当作材料、隐喻和合作者：制作超声波操控等水基技术原型，并研究钓鱼等以水为中心的活动。
 - 实现方式: 结合原型制作、对水的美学分析和对以水为生的社区的民族志研究。
 - 论文: https://doi.org/10.1145/3689050.3704797 (TEI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3689050.3704797/asset/555ae706-051c-4e98-a4f6-99e9486923b9/assets/images/medium/tei25-23-fig2.jpg https://dl.acm.org/cms/10.1145/3689050.3704797/asset/dc5f2ecf-0e4d-46a1-aef8-099615d30b5e/assets/images/medium/tei25-23-fig1.jpg
 - 项目主页: https://doi.org/10.1145/3689050.3704797
 
 #### Labour Provenance — Yuning Chen, Larissa Pschetz (2025)
@@ -1895,6 +1913,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一篇 CHI 2025 论文：追溯一次生物设计实验背后的所有生物，从工程菌到为实验试剂提供身体的动物，把它们归纳为五类超越人类的劳动者。
 - 实现方式: 基于劳动理论的工作坊方法与分析框架，应用于一次合成生物学实验。
 - 论文: https://doi.org/10.1145/3706598.3713272 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713272/asset/2343294f-9357-4222-b392-3bd94f3f58dd/assets/images/medium/chi25-189-fig1.jpg
 
 #### Becoming microbes: An approach to cultivating microbial sensibilities in biodesign — Jiho Kim, Raphael Kim, Elvin Karana (2024)
 - 类型: 论文 · 生物: 细菌与微生物
@@ -2579,6 +2598,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: pawH 是一组宠物玩具（编织绳和球），会随宠物咀嚼时唾液的 pH 值改变颜色。
 - 实现方式: 把比色法 pH 生物传感材料嵌入对宠物安全的玩具中，颜色可用肉眼或便携光谱仪读取。
 - 论文: https://doi.org/10.1145/3715336.3735768 (DIS 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3715336.3735768/asset/64787d83-fd83-410e-9e93-51c025929324/assets/images/medium/dis25-138-fig2.jpg https://dl.acm.org/cms/10.1145/3715336.3735768/asset/8b107ac6-74a0-4e45-8035-5a0f2b9801a7/assets/images/medium/dis25-138-fig1.jpg
 
 #### Call of the Wild Web: Comparing Parrot Engagement in Live vs. Pre-Recorded Video Calls — Ilyena Hirskyj-Douglas, Jennifer Cunha, Rébecca Kleinberger (2024)
 - 类型: 论文 · 生物: 动物
@@ -2611,6 +2631,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一个家用系统：让狗自己在沉浸式屏幕装置上开启视频，研究者对一只狗进行了六个月的观察。
 - 实现方式: 由狗触发视频播放，并在长期居家部署中记录注意力和内容特征。
 - 论文: https://doi.org/10.1145/3702336.3702342 (ACI 2024)
+- 图片: https://dl.acm.org/cms/10.1145/3702336.3702342/asset/d974f29e-d94c-45d8-8f84-9752c68aadeb/assets/images/medium/aci2024-6-fig1.jpg https://dl.acm.org/cms/10.1145/3702336.3702342/asset/a3a8ef32-69ba-4efa-b9bc-ad16580645d9/assets/images/medium/aci2024-6-fig2.jpg
 
 #### Birds of a Feather Video-Flock Together: Design and Evaluation of an Agency-Based Parrot-to-Parrot Video-Calling System for Interspecies Ethical Enrichment — Rébecca Kleinberger, Ilyena Hirskyj-Douglas (2023)
 - 类型: 研究原型 · 生物: 动物
@@ -2903,6 +2924,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 在一个季节里，研究者把人制作的蜡质形状放入蜂箱，让蜜蜂在上面继续建造，形成超出蜜蜂常规巢脾形态的雕塑。
 - 实现方式: 把蜡质起始造型放入西方蜜蜂群落中四个月，记录蜜蜂如何偏离常规巢脾。
 - 论文: https://doi.org/10.1145/3689050.3705990 (TEI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3689050.3705990/asset/6ceece72-51b9-4657-89e4-3541da54027f/assets/images/medium/tei25-80-fig2.jpg https://dl.acm.org/cms/10.1145/3689050.3705990/asset/84c9afcd-536c-4fbf-b06d-7cf93395cc09/assets/images/medium/tei25-80-fig1.jpg
 
 #### Designing Multispecies Worlds for Robots, Cats, and Humans — Steve Benford, Blast Theory (2024)
 - 类型: 论文 · 生物: 动物
@@ -3087,6 +3109,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 为癌症检测犬设计的多传感器嗅闻工作台和穿戴服，记录狗在气味任务中动作与感官的耦合。
 - 实现方式: 红外传感器、惯性测量单元等数据流围绕样本口同步采集，以生成认知理论为基础。
 - 论文: https://doi.org/10.1145/3702336.3702351 (ACI 2024)
+- 图片: https://dl.acm.org/cms/10.1145/3702336.3702351/asset/60327011-a3ef-4f0e-a60d-c7d0b4e1420d/assets/images/medium/aci2024-15-fig2.jpg https://dl.acm.org/cms/10.1145/3702336.3702351/asset/e5645f4b-623b-447c-a2d4-7c764429df89/assets/images/medium/aci2024-15-fig1.jpg
 
 #### Towards Robotic Companions: Understanding Handler-Guide Dog Interactions for Informed Guide Dog Robot Design — Hochul Hwang (2024)
 - 类型: 论文 · 生物: 动物
@@ -3353,6 +3376,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 藏在丰容玩具里的传感器，长期测量佐治亚水族馆里每只海獭如何玩耍。
 - 实现方式: 防水传感模块装入丰容物件，把运动数据无线传到基站。
 - 论文: https://doi.org/10.1145/3702336.3702346 (ACI 2024)
+- 图片: https://dl.acm.org/cms/10.1145/3702336.3702346/asset/2e5b4873-965a-446a-b795-d6d371ef158f/assets/images/medium/aci2024-10-fig1.jpg https://dl.acm.org/cms/10.1145/3702336.3702346/asset/3b27cac7-480c-42d1-9ae9-6745d92813da/assets/images/medium/aci2024-10-fig2.jpg
 
 #### Co-designing Enrichment Toys with Bottlenose Dolphins: Playfulness as a Corrective to Anthropocentrism — Aphrodite Theodora Andreou (2023)
 - 类型: 研究原型 · 生物: 动物
@@ -3820,6 +3844,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: Rosetta Bone 是狗项圈上的二维码标签，告诉新的照顾者这只狗已经熟悉的指令和语言。
 - 实现方式: 项圈二维码链接到网页应用，用狗熟悉的语言播放主人录好的指令。
 - 论文: https://doi.org/10.1145/3702336.3702348 (ACI 2024)
+- 图片: https://dl.acm.org/cms/10.1145/3702336.3702348/asset/64a39773-415a-46db-9f22-d2e2dd3f1260/assets/images/medium/aci2024-12-fig1.jpg
 
 #### Soundboard-trained dogs (FluentPet buttons) — Federico Rossano, FluentPet (2024)
 - 类型: 论文 · 生物: 动物
@@ -4102,6 +4127,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一种原型方法：养蜂人为蜜蜂提供造型支架，让蜂群把蜂巢建成新的多形态造型，同时保留常规的养蜂流程。
 - 实现方式: 四个步骤：制作支架、四边形分区、放入蜂箱、由蜂群建造；与养蜂人一起测试。
 - 论文: https://doi.org/10.1145/3706598.3713696 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713696/asset/e8757f06-a5f5-4f7e-9974-631e5a79d761/assets/images/medium/chi25-610-fig1.jpg
 
 #### Designing Urban Noticing Probes for Community Animals and Cohabitation in Türkiye — Sena Cucumak (2025)
 - 类型: 论文 · 生物: 动物
@@ -4109,6 +4135,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 基于“注意的艺术”设计的探针，帮助土耳其居民注意社区里的街头动物，重新思考共同生活。
 - 实现方式: 向居民发放探针套件，并用“注意”理论分析结果。
 - 论文: https://doi.org/10.1145/3706598.3713977 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713977/asset/a3e68d0b-6e37-4df3-b432-593c846f6197/assets/images/medium/chi25-888-fig1.jpg https://dl.acm.org/cms/10.1145/3706598.3713977/asset/b7e8589b-2f29-4fda-928f-ebdc6e165afb/assets/images/medium/chi25-888-fig2.jpg
 
 #### Ewe’ve Got Nerve: Electronic Headwear System for Sheep Group Behavior Dynamics — Josiah Hester (2025)
 - 类型: 研究原型 · 生物: 动物
@@ -4640,6 +4667,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一篇 CHI 论文，提出一套包含 12 种方式的分类，说明交互技术可以如何支持人在森林中的快乐体验。
 - 实现方式: 对一年期共同设计过程中与 250 多位林中行者产生的 104 个思辨想法进行反身性分析。
 - 论文: https://doi.org/10.1145/3706598.3713151 (CHI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3706598.3713151/asset/ac9b1b88-f516-4185-b08c-ead76e752c3e/assets/images/medium/image2.png https://dl.acm.org/cms/10.1145/3706598.3713151/asset/cad6b887-ee34-4db6-89c3-3793a913c520/assets/images/medium/image1.png
 
 #### The Entangled Tales that Landscapes Tell — Marta Galvão Ferreira (2025)
 - 类型: 论文 · 生物: 生态系统, 植物, 人体
@@ -4647,6 +4675,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: 一篇 TEI 论文，研究人如何通过身体与想象体验自然漫步，并把它转化为一种为自然遗产设计位置技术的教学方法。
 - 实现方式: 研究自然漫步的亲身与感官体验，进而提出一种“有机”教学法以及位置类工具的设计启示。
 - 论文: https://doi.org/10.1145/3689050.3705012 (TEI 2025)
+- 图片: https://dl.acm.org/cms/10.1145/3689050.3705012/asset/40b23658-0d91-4aae-9a85-d5f20dc7f9f1/assets/images/medium/image1.jpg https://dl.acm.org/cms/10.1145/3689050.3705012/asset/4ccb9d4e-a1e7-4d4c-9af0-ef29dbae7a74/assets/images/medium/image2.jpg
 
 #### Dear Nature: Data Drawings for Human–Nature Relations — Marta Galvão Ferreira (2024)
 - 类型: 论文 · 生物: 生态系统, 植物, 人体
@@ -15365,6 +15394,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 204
 - 作品内容: Ripples 是一件互动装置，为威尼斯潟湖的盐沼和物种发声——MOSE 防洪闸门阻断了泥沙流动，正在伤害它们。
 - 实现方式: 通过装置中的实体与具身交互，呈现一个超越人类的虚构故事。
 - 论文: https://doi.org/10.1145/3715668.3735596 (DIS 2025 Companion)
+- 图片: https://dl.acm.org/cms/10.1145/3715668.3735596/asset/d894ae4a-e361-4534-9938-268fa9be6730/assets/images/medium/image1.png https://dl.acm.org/cms/10.1145/3715668.3735596/asset/38d62bb5-a500-4af5-b05b-c8211e59234f/assets/images/medium/image2.png
 
 #### The Dream of Zhuang Zhou — Shuai Zou (2025)
 - 类型: 艺术作品 · 生物: 动物, 昆虫
