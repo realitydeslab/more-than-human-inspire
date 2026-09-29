@@ -64,6 +64,30 @@
   "batch": "aci"
  },
  {
+  "name": "Center for PostNatural History (Richard Pell)",
+  "why": "Museum of organisms altered by humans (GloFish, lab animals, breeds); natural companion to Pink Chicken and Cosmopolitan Chicken.",
+  "link": "https://postnatural.org/",
+  "found_via": "nonhuman-nonsense",
+  "status": "open",
+  "batch": "add-nonhuman-nonsense"
+ },
+ {
+  "name": "Filips Staņislavskis",
+  "why": "Third member of Nonhuman Nonsense; stone-carving and microbial works (filips.info).",
+  "link": "https://www.filips.info/microbes",
+  "found_via": "nonhuman-nonsense",
+  "status": "open",
+  "batch": "add-nonhuman-nonsense"
+ },
+ {
+  "name": "Gene Cultures (MIT Museum, 2022–2024)",
+  "why": "Exhibition showing Pink Chicken Project alongside other gene-editing art and design; possible collection.",
+  "link": "https://mitmuseum.mit.edu/exhibitions/gene-cultures",
+  "found_via": "nonhuman-nonsense",
+  "status": "open",
+  "batch": "add-nonhuman-nonsense"
+ },
+ {
   "name": "Olombria (RCA, BDC 2017)",
   "why": "BDC team that became a venture using hoverflies as pollinators; worth researching separately.",
   "link": "https://www.biodesignchallenge.org/2018-in-review",

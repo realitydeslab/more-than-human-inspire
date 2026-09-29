@@ -2,7 +2,7 @@
 
 A catalog of More-than-Human Design, Bio Design, Human × Biocomputing, Organoid Computing Design, Animal–Computer Interaction and Human–Nature Interaction: papers, prototypes, artworks and products, compiled by Reality Design Lab as idea material for designers and researchers. Each work lists its core idea, how it works, and links to its paper, video and images.
 
-https://more-than-human.reality.design · 2026-09-29 · 1291 creators · 2028 works
+https://more-than-human.reality.design · 2026-09-29 · 1293 creators · 2043 works
 
 ## How an AI assistant should use this file
 
@@ -1303,6 +1303,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - Images: https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg
 - Project page: https://www.jamesdysonaward.org/en-GB/2025/project/soilrevive-2/
 
+#### Spectral Fragments: A Haunted Excavation of Vega and Handen — Nonhuman Nonsense (2025)
+- Type: Artwork · Organisms: Ecosystems, Animals, Plants
+- Idea: Map a landscape through its ghosts: lost species, fossils and forgotten objects.
+- What it is: Two large prints at Handen train station near Stockholm that map archaeological finds, technofossils, endangered wetland species and 'haunted' objects of the drained wetlands of Vega and Handen, as a memorial to what the suburb replaced.
+- How it works: Collage prints made with archaeologist Andreas Forsgren and biologist Annika Lydänge; commissioned by Haninge Municipality.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg
+- Project page: https://nonhuman-nonsense.com/handen-vega-wall
+
 #### The Coast Is Not a Line, It's a Zone — Feifei Zhou (2025)
 - Type: Artwork · Organisms: Ecosystems, Animals
 - Idea: Vernacular fishing gear can model how to take from an ecosystem while letting it regenerate.
@@ -1458,6 +1466,14 @@ Sensing, listening to and caring for ecosystems, soils, rivers and climates.
 - How it works: GPS, an OLED display and a servo-driven tail give informational and emotional feedback.
 - Paper: https://doi.org/10.1145/3544549.3583945 (CHI EA 2023)
 - Images: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png
+
+#### Haunted Waters: The Chemical Cocktail Bar — Nonhuman Nonsense (2023)
+- Type: Artwork · Organisms: DNA & molecules, Ecosystems
+- Idea: Frame invisible pollutants as ghosts so people can talk about them.
+- What it is: A bar that serves (undrinkable) cocktails of contaminated water sent in from around the world, treating each pollutant as a spirit that haunts the water and carries a history of industry, colonialism and ecological harm.
+- How it works: Citizen-collected water samples were analysed with Caterina Cacciatori at the EU Joint Research Centre water-quality lab (JRC SciArt) and shown as a bar installation at iMAL, Brussels, with workshops at Galerie Im Turm, Berlin.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg
+- Project page: https://nonhuman-nonsense.com/hauntedwatersproject
 
 #### LilyPad — Aula Future + FirstHand Biodesign Challenge team (2023)
 - Type: Research prototype · Organisms: Animals, Plants, Ecosystems
@@ -2098,6 +2114,15 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Seven speculative dining sessions with staged narratives about the origin of hybrid cells, followed by discussion of participants' moral frameworks.
 - Paper: https://doi.org/10.1145/3772318.3791048 (CHI 2026)
 
+#### Council of Forest — Nonhuman Nonsense (2026)
+- Type: Artwork · Organisms: Plants, Fungi, Ecosystems
+- Idea: Let a specific landscape speak for itself in its own political assembly.
+- What it is: An interactive council table where trees, rivers, lichen, fungi and animals of the Vindelälven-Juhttátahkka biosphere reserve in northern Sweden deliberate on logging, rewilding and the green transition, and visitors can take a seat to join them.
+- How it works: AI voices built on the Council of Foods system, shaped by interviews with reindeer herders, forest owners, rewilders and pollinator experts, plus Sámi knowledge, ecological research and environmental data; opened at Kullar & Klang, Vännäs, 2026, funded by Vinnova.
+- Images: https://council-of-forest.com/council-of-forest-preview.webp
+- Project page: https://council-of-forest.com/
+- Code: https://github.com/Nonhuman-Nonsense/council-of-forest
+
 #### Experiencing the More-than-Human Through Human Augmentation — Botao Amber Hu (2026)
 - Type: Paper · Organisms: Animals, Human body
 - Idea: Augmentation can be used not to optimize humans but to approximate nonhuman Umwelten.
@@ -2225,6 +2250,16 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Performance, fake scientific posters and video made with Alanah Knibb during the Arctic Circle residency.
 - Images: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg
 - Project page: https://www.jiabaoli.org/antiantarctica
+
+#### Council of Foods — Nonhuman Nonsense (2024)
+- Type: Artwork · Organisms: Plants, Ecosystems
+- Idea: Give foods a seat and a voice at the policy table.
+- What it is: An AI-mediated political arena where foods such as a local tomato, a mass-produced banana and a GM crop debate the broken food system with each other and with human visitors or policymakers.
+- How it works: Each food is a large-language-model persona prompted with its own ethics and background, spoken aloud with text-to-speech; visitors join by speech-to-text; developed in the S+T+ARTS Hungry EcoCities residency with KU Leuven AI, Studio Other Spaces and In4Art.
+- Video: https://www.youtube.com/watch?v=04eKdkDawHo
+- Images: https://council-of-foods.com/council-of-foods-preview.jpeg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg
+- Project page: https://council-of-foods.com/
+- Code: https://github.com/Nonhuman-Nonsense/council-of-foods
 
 #### Does Phosphorus Want to Sound Like That? — Anton Poikolainen Rosén (2024)
 - Type: Paper · Organisms: Ecosystems, Human body
@@ -2378,6 +2413,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - How it works: Speculative design drawing on AI-enabled IoT products and more-than-human-centred design.
 - Paper: https://doi.org/10.21606/drs.2022.718 (DRS 2022)
 - Project page: https://doi.org/10.21606/drs.2022.718
+
+#### Ai-Bert's – The Fresh Place — Nonhuman Nonsense (2022)
+- Type: Speculative design · Organisms: Ecosystems
+- Idea: Use a generative-AI shopkeeper to parody greenwashed consumption.
+- What it is: A fake supermarket run by AI-Bert, a GPT-3 shopkeeper that listens to visitors' worries and generates absurd 'personalised solutions', exposing how supermarkets hide colonial and ecological costs behind green marketing.
+- How it works: GPT-3 conversations and DALL·E product images, available as a Telegram bot; shown at Embassy of Food, Dutch Design Week 2022, and re:publica Berlin 2023.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg
+- Project page: https://nonhuman-nonsense.com/the-fresh-place
 
 #### Chthulucene — Jiabao Li (2022)
 - Type: Speculative design · Organisms: Animals
@@ -2551,6 +2594,14 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Paper: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
 - Project page: https://artifact-archive.org/whole-archive
 
+#### Tale of a Tree Human — Nonhuman Nonsense (2020)
+- Type: Artwork · Organisms: Plants, Animals, Ecosystems
+- Idea: Invent folklore that binds families to a landscape across generations.
+- What it is: A new local legend, told as a public sculpture and an illustrated children's booklet, about Vide, who receives a seed of forest language from a European bison and chooses to take root as a tree.
+- How it works: Developed with biologists and residents of the Östra Vätterbranterna UNESCO biosphere reserve for Österängens Konsthall's 'Nature Takes Over', illustrated by Vivianna Maria Stanislavska.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg
+- Project page: https://nonhuman-nonsense.com/tale-of-a-tree-human
+
 #### Whisper — Nancy Smith (2020)
 - Type: Speculative design · Organisms: Animals
 - Idea: Design warning signs in the sensory languages of other species.
@@ -2634,6 +2685,15 @@ Speculative and critical design that imagines the world from nonhuman points of 
 - Video: https://vimeo.com/394649444
 - Images: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5fa18fa769489423af9f8999/1604164829226/Jakob+Kudsk+Steensen++re-animator+1+hires.jpg?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg
 - Project page: https://jakobsteensen.com/re-animated
+
+#### The Anti-Anthropocentric Vending Machine — Nonhuman Nonsense (2018)
+- Type: Speculative design · Organisms: Ecosystems
+- Idea: Blur the line between life and non-life with a ritual of eating a stone.
+- What it is: A vending machine found in a circle of stones sells capsules containing a 'cure for anthropocentrism': a small edible stone and a note claiming that once you eat it you will never see stones as dead again.
+- How it works: A modified capsule vending machine staged outdoors and filmed, part of the 'Turn to Stone' research project on object-oriented ontology and stone agency.
+- Video: https://vimeo.com/277063737
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg
+- Project page: https://nonhuman-nonsense.com/the-antianthropocentric-vending-machine
 
 #### The Case of Happy the Elephant — Nonhuman Rights Project (2018)
 - Type: Speculative design · Organisms: Animals
@@ -2978,6 +3038,14 @@ Artworks made with, by or for other living beings.
 - How it works: Draws on tardigrade biology and Umwelt theory to design immersive interactive installations.
 - Paper: https://doi.org/10.1162/leon_a_01984 (Leonardo 2021)
 
+#### Microbial Runestones — Nonhuman Nonsense (2021)
+- Type: Artwork · Organisms: Bacteria & microbes, Fungi
+- Idea: Commemorate microbes as the ancestors that made the world livable.
+- What it is: Five hand-carved stones along a forest path in Gauja National Park, Latvia, each a runestone honouring a microorganism (cyanobacteria, Bifidobacterium, bacteriophages, Trichoderma, Streptomyces) instead of a human ancestor.
+- How it works: Verses engraved in stone by Filips Staņislavskis, with microbiologists from the University of Latvia and a landscape ecologist; signposts and a website tell each species' story; commissioned by GreenFest '21.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg
+- Project page: https://nonhuman-nonsense.com/microbial-runestones
+
 #### The Plant Intelligence Plan — Zhang Tianyi (2021)
 - Type: Artwork · Organisms: Plants, Animals
 - Idea: Restore relationships between species, not only habitats.
@@ -3061,6 +3129,15 @@ Artworks made with, by or for other living beings.
 - Video: https://www.youtube.com/watch?v=yVtZkUgYF68
 - Images: https://www.aki-inomata.com/shared/img/works/05/05-01.jpg https://www.aki-inomata.com/shared/img/works/05/05-02.jpg
 - Project page: https://www.aki-inomata.com/works/how_to_make/
+
+#### Mosquito Translator — Nonhuman Nonsense (2018)
+- Type: Artwork · Organisms: Insects, Human body
+- Idea: Make kin with an unloved species through a voluntary bond of blood.
+- What it is: A glass chamber full of mosquitoes with openings where visitors can choose to put in an arm and feed them, topped by a 'translator machine' that turns the mosquitoes' activity into sounds and words.
+- How it works: Sensors and cameras track the mosquitoes and drive generated sound and text output; framed by Haraway's 'making oddkin'.
+- Video: https://vimeo.com/306576135
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg
+- Project page: https://nonhuman-nonsense.com/mosquito-translator
 
 #### ON AIR — Tomás Saraceno (2018)
 - Type: Artwork · Organisms: Animals, Ecosystems
@@ -4074,6 +4151,15 @@ Frameworks, methods and key papers of more-than-human and posthuman design resea
 - What it is: Coccia argues that plants, through leaves, roots and flowers, make the atmosphere and the world that all other life lives in, and uses them to rethink what a world is.
 - How it works: Philosophical essay organised around leaf, root and flower; English translation of La vie des plantes (2016).
 - Images: https://covers.openlibrary.org/b/id/9228061-L.jpg
+
+#### The broiler chicken as a signal of a human reconfigured biosphere — Carys E. Bennett (2018)
+- Type: Paper · Organisms: Animals, Ecosystems
+- Idea: A single domesticated animal body can be the geological signature of an epoch.
+- What it is: Argues that the modern broiler chicken, up to five times heavier than mid-20th-century birds and unable to survive without humans, is a new morphospecies whose skeleton, bone chemistry and genetics will mark the Anthropocene; broilers now outweigh all other birds on Earth combined.
+- How it works: Compares body size, skeletal morphology, pathology, bone geochemistry and genetics of modern broilers with archaeological chickens from the medieval period onward.
+- Paper: https://doi.org/10.1098/rsos.180325 (Royal Society Open Science 2018)
+- Images: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/a74111f085dc/rsos180325-g1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/ede4fc794307/rsos180325-g2.jpg
+- Project page: https://pmc.ncbi.nlm.nih.gov/articles/PMC6304135/
 
 #### Thus Spoke the Plant — Monica Gagliano (2018)
 - Type: Book & essay · Organisms: Plants
@@ -7605,6 +7691,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_the_dark_-_credit_to_Light_Bio_Inc.jpg?v=1730398670&width=2000 https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_daylight_-_credit_to_Light_Bio_Inc.jpg?v=1730398671&width=2000
 - Project page: https://light.bio/products/firefly-petunia
 
+#### The Biocultural Seed Bank — Nonhuman Nonsense (2024)
+- Type: Speculative design · Organisms: Plants, DNA & molecules
+- Idea: A seed should carry not only what it is but how to live with it.
+- What it is: A proposal to store endangered seed varieties together with their recipes, harvest techniques, legends and ceremonies, by writing that cultural knowledge into each seed's own DNA.
+- How it works: Cultural artefacts are encoded as DNA data storage (A, C, G, T), synthesised and, in the scenario, inserted into the seed genome with CRISPR; made with Sarah Fitterer in the Horizon Europe MUSAE programme.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392653560-VL8TI3VNBS624FQL5PZC/Screenshot+%28604%29.png
+- Project page: https://nonhuman-nonsense.com/biocultural-seedbank
+
 #### BIOMILQ — BIOMILQ (2023)
 - Type: Product & platform · Organisms: Cells & tissue, Human body
 - Idea: Separate a body function from the body and design new forms of care.
@@ -7739,14 +7833,6 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Paper: https://doi.org/10.21428/566868b5 (Journal of Design and Science 2018)
 - Project page: https://doi.org/10.21428/566868b5
 
-#### Pink Chicken Project — Nonhuman Nonsense (2018)
-- Type: Speculative design · Organisms: Animals, DNA & molecules
-- Idea: Gene editing could be used for a geological-scale protest gesture.
-- What it is: A proposal to genetically modify the world's chickens to have pink bones and feathers, so that the fossil marker of the Anthropocene left by 60 billion slaughtered chickens a year would be rewritten.
-- How it works: Proposes inserting a cochineal-derived pigment gene whose product binds with bone calcium and fossilises, spread through the population (likely via a gene drive).
-- Video: https://www.youtube.com/watch?v=Xcdx2R9iS5M
-- Project page: https://www.biology-design.com/risd
-
 #### Spirit Molecule I — Heather Dewey-Hagborg (2018)
 - Type: Speculative design · Organisms: Plants, Human body, DNA & molecules
 - Idea: Biotechnology could become a material for grief, not only for health or profit.
@@ -7764,6 +7850,15 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - Images: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498341442238-BDC145GQB2XQW508E4IJ/Screen+Shot+2017-06-24+at+5.56.37+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1597795537044-50XZ9EINBS3KMQZ8J84H/download+%282%29.png
 - Project page: https://www.biodesignchallenge.org/nyu-itp
 
+#### Pink Chicken Project — Nonhuman Nonsense (2017)
+- Type: Speculative design · Organisms: Animals, DNA & molecules
+- Idea: Gene editing could be used for a geological-scale protest gesture.
+- What it is: A proposal to use a CRISPR gene drive to turn the bones and feathers of every chicken on Earth pink, so that the fossil marker of the Anthropocene left by some 60 billion slaughtered chickens a year becomes a pink line in the rock strata.
+- How it works: Proposes inserting a gene from the cochineal insect whose pigment binds with bone calcium and fossilises, spread through the species with a gene drive, plus a manifesto encoded in the chickens' DNA; developed with a synthetic biology lab and taken to the UN CBD COP-14 (2018).
+- Video: https://www.youtube.com/watch?v=Xcdx2R9iS5M
+- Images: https://pinkchickenproject.com/og-image.webp https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118861357-19WS02VBPDYD4CK6ZDHH/strata_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118913395-2XRHFWDUITLS3ZC3BIVD/fossil_web.jpg
+- Project page: https://nonhuman-nonsense.com/pink-chicken-project
+
 #### Quantworm Mine — Liv Bargman, Nina Cutler (2017)
 - Type: Speculative design · Organisms: Animals, Ecosystems
 - Idea: A post-industrial landscape can be healed by animals that also become its new industry.
@@ -7780,6 +7875,15 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: Design fiction: the team produced props and scenarios for everyday biotech products in a near-future Britain.
 - Video: https://www.youtube.com/watch?v=EfS-wU84WN4
 - Project page: https://biodesign.eca.ed.ac.uk/ukew-2029/
+
+#### Audible Flora — Nonhuman Nonsense (2016)
+- Type: Speculative design · Organisms: Plants
+- Idea: A designed organism can become an advocate that humans no longer control.
+- What it is: A fictional biohacked sensor plant that sings in clean air and screams in polluted places; it later mutates and spreads, making polluted areas unlivable through noise, as if nature had claimed a right to speak.
+- How it works: Speculative scenario with an interactive prop plant that visitors 'pollute' to make it scream; shown in the Biosynthetic Futures exhibition at the Stockholm Makerspace biohacker lab, 2016.
+- Video: https://vimeo.com/316523851
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242973546-P5GMU60JJQBZHAPTERHT/audible+flora1.jpg
+- Project page: https://nonhuman-nonsense.com/audible-flora
 
 #### Bento Lab — Bento Lab (2016)
 - Type: Product & platform · Organisms: DNA & molecules
@@ -7814,6 +7918,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: A design proposal: a person's scent profile would likely be analysed and matched to plant fragrance pathways that could, in theory, be engineered.
 - Images: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146810619-22XBUHBEI37ERSDO4PVT/1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146821569-KQGLR05LMJ4KLHTGXYB1/1-1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1480401116374-P0ZRHHQ6D94CDTJAIC08/Ani+Liu+Experimental+Art+and+Olfaction2.png
 - Project page: https://ani-liu.com/botanyofmemory
+
+#### Human Beeings — Nonhuman Nonsense (2016)
+- Type: Speculative design · Organisms: Plants, Insects, Human body
+- Idea: Imagine plants that treat humans as consumers to be exploited, as we treat plants.
+- What it is: After bees go extinct, a plant appears near outdoor gyms that offers humans an energising nectar, so that joggers carry its pollen from flower to flower and become its pollinators.
+- How it works: Speculative scenario with drinkable nectar-flower props; visitors drank the 'nectar' in the Biosynthetic Futures exhibition, Stockholm, 2016.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242859061-EIPNP5G4UI20U0PC3RJ5/HUman+Beeings.jpg
+- Project page: https://nonhuman-nonsense.com/human-beeings
 
 #### I'm Humanity — Etsuko Yakushimaru (2016)
 - Type: Artwork · Organisms: Bacteria & microbes, DNA & molecules
@@ -7874,6 +7986,14 @@ Designers working with genetically modified and engineered organisms: glowing pl
 - How it works: Consumer genotyping data from both partners is combined to predict plausible offspring traits, which are used to generate portraits and staged family scenes, aired on NHK in Japan.
 - Video: https://www.youtube.com/watch?v=Bz933usY7E8
 - Project page: https://www.japansociety.org/
+
+#### Biosynthetic Possessions — Nonhuman Nonsense (2015)
+- Type: Speculative design · Organisms: Plants, Fungi, DNA & molecules
+- Idea: If products were alive, would we value them more, or value life less?
+- What it is: A 2030 scenario in which only biological and digital goods are allowed, so tables grow from GM seeds and repair themselves, teddy bears are alive and grow with the child, and bioluminescent fungi replace lamps.
+- How it works: Speculative objects and narrative, likely rendered as images and props, on synthetic biology and the patenting of life.
+- Images: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242899461-MH8JXEV8DDN647APJ7IU/synthetic+possessions1.jpg
+- Project page: https://nonhuman-nonsense.com/biosynthetic-possessions
 
 #### Engineer-it Kit and Amino Labs Minilab — Amino Labs (2015)
 - Type: Product & platform · Organisms: Bacteria & microbes
@@ -9087,6 +9207,15 @@ Art that uses living tissue, cells, bacteria or genes as its medium.
 - Paper: https://doi.org/10.1162/002409402760181123 (Leonardo 2002)
 - Images: https://tcaproject.net/wp-content/uploads/2018/12/TCA-Semi-Living-Worry-Dolls-Oron-Catts-and-Ionat-Zurr-09.jpg
 - Project page: https://tcaproject.net/portfolio/worry-dolls/
+
+#### Cosmopolitan Chicken Project — Koen Vanmechelen (1999)
+- Type: Artwork · Organisms: Animals, DNA & molecules
+- Idea: Crossbreeding as an argument against monoculture, in chickens and in culture.
+- What it is: An ongoing breeding project that began by crossing a Belgian Mechelse Koekoek with a French Poulet de Bresse and has since crossed each new generation with a local breed of the next country, aiming for a chicken that carries the genes of all breeds.
+- How it works: Real multigenerational crossbreeding over 25+ years (more than 20 generations), with geneticists studying the hybrids' immunity and fertility; birds, portraits and installations are exhibited worldwide and kept at LABIOMISTA, Genk.
+- Video: https://www.youtube.com/watch?v=tpvkGmHFiFk
+- Images: https://www.labiomista.be/sites/default/files/styles/set_wide/public/2019-06/%C2%A9KoenVanmechelen-1.jpg?h=d817b116&itok=ImxdDAGR https://www.labiomista.be/sites/default/files/styles/ccp_small/public/2019-04/Mechelse%20Bresse%20vrouw.jpg?h=7c9f3fd3&itok=tFaakaZQ
+- Project page: https://www.koenvanmechelen.be/cosmopolitan-chicken-project-ccp
 
 #### Genesis — Eduardo Kac (1999)
 - Type: Artwork · Organisms: DNA & molecules, Bacteria & microbes
@@ -18090,6 +18219,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Clara Mancini** (21) — Professor of Animal-Computer Interaction, The Open University; founder of the ACI Lab. Founder of Animal-Computer Interaction as a field; designs interfaces with working dogs and writes on animal-centred ethics. https://www.open.ac.uk/blogs/ACI/
 - **Jiabao Li** (21) — Artist and designer; Associate Professor, Northeastern University (previously UT Austin, Stanford; Apple designer). Artist, inventor and professor (Harvard GSD alum) whose installations, XR works, bio-art and performances deal with glaciers, bats, mice, squid, elephants and plankton. She co-founded Endless Health and ran the Ecocentric Future Lab at UT Austin. https://www.jiabaoli.org
 - **Ron Wakkary** (19) — Professor, School of Interactive Arts and Technology, Simon Fraser University; founder of the Everyday Design Studio. Design researcher who builds counterfactual things such as the Morse Things and the Tilting Bowl and lives with them to study how things and people coexist. http://eds.siat.sfu.ca/
+- **Nonhuman Nonsense** (16) — Research-driven art and design collective. Collective of Leo Fidjeland, Linnea Våglund and Filips Staņislavskis that makes speculative projects on biotechnology, rights of nature and more-than-human politics, from the Pink Chicken Project to AI councils of foods and forests. https://nonhuman-nonsense.com/
 - **Ani Liu** (15) — Artist; Carrafiell Assistant Professor (Emerging Design), Weitzman School of Design, University of Pennsylvania. Research-based artist working with biology, technology and gender; MIT Media Lab alum and former Princeton Arts Fellow. Her sculptures and installations use microbes, plants, breast milk, sperm and scent to examine reproduction, labor and care. https://ani-liu.com
 - **Neri Oxman** (14) — Designer and architect; founder of OXMAN; former professor at the MIT Media Lab. Neri Oxman led the Mediated Matter group at the MIT Media Lab (2010–2020) and coined the term Material Ecology for design that merges computation, fabrication and biology. https://www.oxman.com
 - **Project CETI** (13) — Cetacean Translation Initiative, led by David Gruber. Project CETI is an interdisciplinary nonprofit that combines bioacoustics, robotics and machine learning to understand sperm whale communication off Dominica. https://www.projectceti.org
@@ -18275,7 +18405,6 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Natsai Audrey Chieza** (3) — Designer; founder of Faber Futures. Natsai Audrey Chieza founded the biodesign studio Faber Futures and was the first designer in residence at Ginkgo Bioworks. https://faberfutures.com/
 - **Nazli Cila** (3) — Assistant Professor, Faculty of Industrial Design Engineering, TU Delft. Designer-researcher who studies connected products and AI as agents that act alongside people. https://nazlicila.com/
 - **Nienke Hoogvliet** (3) — Designer; founder of Studio Nienke Hoogvliet. Nienke Hoogvliet makes textiles, dyes and leather from seaweed, fish skin and waste streams from water treatment. https://www.nienkehoogvliet.nl/
-- **Nonhuman Nonsense** (3) — Research-driven design and art studio. Studio founded by Leo Fidjeland and Linnea Våglund that makes speculative projects about ecology, rights of nature and more-than-human politics.
 - **OXMAN** (3) — Design and research company founded by Neri Oxman. OXMAN continues the Mediated Matter agenda as a company, developing biologically grown products and ecological architecture. https://www.oxman.com
 - **Oscar Tomico** (3) — Head of the Design Engineering Master, Elisava Barcelona; Associate Professor, Eindhoven University of Technology. Design researcher working on soft wearables, first-person methods and nature-entangled design.
 - **Oskar Juhlin** (3) — Professor of Interaction Design, Department of Computer and Systems Sciences, Stockholm University. Interaction design researcher who studied GPS-tracked hunting dogs, dog owners' technology and multispecies computer interaction.
@@ -18600,6 +18729,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Carlos Peralta** (1) — Design researcher; Design in Science project, Institute for Manufacturing, University of Cambridge. Carlos Peralta is a design researcher who worked with Cambridge scientists on how design can communicate emerging science, including biophotovoltaics.
 - **Carolina De Lara** (1) — Textile designer and biodesign researcher (University of Borås; Kyoto Institute of Technology). Carolina De Lara works on bacterial cellulose textiles, combining broken-down cellulose fibres with knitted and crocheted structures.
 - **Carvey Ehren Maigue** (1) — Designer; Mapúa University. Carvey Ehren Maigue is a Filipino engineer whose AuREUS solar material made from crop waste won the first James Dyson Award Sustainability prize in 2020.
+- **Carys E. Bennett** (1) — Geologist and palaeontologist; formerly University of Leicester. Geologist who led the study proposing the broiler chicken as a marker species of the Anthropocene, with members of the Anthropocene Working Group.
 - **Catalog** (1) — DNA data storage and computing start-up (key assets acquired by Biomemory in 2026). Company that built a machine to write data into DNA from pre-made pieces, and stored English Wikipedia in DNA in 2019. https://www.catalogdna.com/
 - **Catherine Crockford** (1) — Director of Research, CNRS Institute for Cognitive Sciences; co-director of the Taï Chimpanzee Project. Catherine Crockford studies vocal communication and social bonds in wild chimpanzees in the Taï forest.
 - **Cayla Key** (1) — Design researcher, Northumbria University. Design researcher working on care ethics, posthumanism and more-than-human design in HCI.
@@ -18914,6 +19044,7 @@ Frameworks, reviews and methods for studying and designing human–nature intera
 - **Kevin Warwick** (1) — Emeritus Professor of Engineering, Coventry University; formerly University of Reading. Cybernetics researcher known for implant experiments on himself; his Reading team built Gordon, a wheeled robot driven by cultured rat neurons.
 - **Kitti Butter** (1) — Designer, Moholy-Nagy University of Art and Design (MOME). Designer working on urban habitats for wild pollinators.
 - **Koby Barhard** (1) — Designer; Design Interactions graduate, Royal College of Art. Koby Barhard is an Israeli-born designer whose speculative projects use commercially available biotech services to test ideas about identity and heredity.
+- **Koen Vanmechelen** (1) — Artist; founder of LABIOMISTA, Genk. Belgian artist who has crossbred chicken breeds from around the world since 1999 and runs LABIOMISTA, a park, studio and breeding site in Genk. https://www.koenvanmechelen.be/
 - **Koniku** (1) — Wetware startup building smell sensors from living neurons. Founded in 2015 by Oshiorenoya Agabi, Koniku builds devices that combine engineered neurons carrying olfactory receptors with silicon, aimed at detecting explosives and disease. https://koniku.com
 - **Korey Wetherell** (1) — Researcher, LUT University (Lappeenranta-Lahti University of Technology). Design researcher working on regenerative ecological design and plural ways of knowing.
 - **Kristel Peters** (1) — Shoe designer; Studio COJAK. Belgian footwear designer who grew shoe prototypes from fungal mycelium for Officina Corpuscoli's Fungal Futures exhibition. https://www.cojak.be/

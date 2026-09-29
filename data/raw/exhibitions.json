@@ -4042,7 +4042,7 @@
     "nonhuman-nonsense"
    ],
    "title": "Pink Chicken Project",
-   "year": 2018,
+   "year": 2017,
    "field": "bio",
    "sub": "synbio",
    "organisms": [
@@ -4050,12 +4050,12 @@
     "molecules"
    ],
    "kind": "speculative",
-   "description": "A proposal to genetically modify the world's chickens to have pink bones and feathers, so that the fossil marker of the Anthropocene left by 60 billion slaughtered chickens a year would be rewritten.",
-   "description_zh": "一个提案：通过基因改造让全世界的鸡长出粉色的骨骼和羽毛，从而改写每年 600 亿只被宰杀的鸡在地层中留下的人类世化石标记。",
+   "description": "A proposal to use a CRISPR gene drive to turn the bones and feathers of every chicken on Earth pink, so that the fossil marker of the Anthropocene left by some 60 billion slaughtered chickens a year becomes a pink line in the rock strata.",
+   "description_zh": "一个提案：用 CRISPR 基因驱动让地球上所有鸡的骨骼和羽毛变成粉色，使每年约 600 亿只被宰杀的鸡在地层中留下的人类世化石标记变成一条粉色的线。",
    "idea_en": "Gene editing could be used for a geological-scale protest gesture.",
    "idea_zh": "基因编辑可以被用来做一个地质尺度的抗议姿态。",
-   "method": "Proposes inserting a cochineal-derived pigment gene whose product binds with bone calcium and fossilises, spread through the population (likely via a gene drive).",
-   "method_zh": "设想插入来自胭脂虫的色素基因，其产物与骨钙结合并能石化，并在种群中扩散（可能借助基因驱动）。",
+   "method": "Proposes inserting a gene from the cochineal insect whose pigment binds with bone calcium and fossilises, spread through the species with a gene drive, plus a manifesto encoded in the chickens' DNA; developed with a synthetic biology lab and taken to the UN CBD COP-14 (2018).",
+   "method_zh": "设想插入来自胭脂虫的基因，其色素与骨钙结合并可石化，再用基因驱动在整个物种中扩散，同时把一份宣言编码进鸡的 DNA；与一家合成生物学实验室合作开发，并于 2018 年带到联合国《生物多样性公约》COP-14 会场。",
    "keywords": [
     "Anthropocene",
     "gene drive",
@@ -4063,14 +4063,23 @@
     "chicken",
     "Leo Fidjeland",
     "Linnea Våglund",
+    "CRISPR",
+    "COP-14",
+    "MIT Museum Gene Cultures",
+    "pinkchickenproject.com",
     "Biodesign 2018"
    ],
    "video": {
     "url": "https://www.youtube.com/watch?v=Xcdx2R9iS5M"
    },
-   "source_url": "https://www.biology-design.com/risd",
+   "source_url": "https://nonhuman-nonsense.com/pink-chicken-project",
    "collections": [
     "biodesign-myers-exhibitions"
+   ],
+   "images": [
+    "https://pinkchickenproject.com/og-image.webp",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118861357-19WS02VBPDYD4CK6ZDHH/strata_web.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118913395-2XRHFWDUITLS3ZC3BIVD/fossil_web.jpg"
    ]
   },
   {

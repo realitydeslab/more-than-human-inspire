@@ -277,15 +277,24 @@
    "id": "nonhuman-nonsense",
    "name": "Nonhuman Nonsense",
    "kind": "studio",
-   "role": "Research-driven design and art studio",
-   "role_zh": "研究驱动的设计与艺术工作室",
-   "bio": "Studio founded by Leo Fidjeland and Linnea Våglund that makes speculative projects about ecology, rights of nature and more-than-human politics.",
-   "bio_zh": "由 Leo Fidjeland 和 Linnea Våglund 创立的工作室，围绕生态、自然权利和超越人类的政治制作思辨项目。",
-   "why": "They invent myths and rituals for living with water and mud rather than against them.",
-   "why_zh": "他们为“与水和泥共处而非对抗”发明神话与仪式。",
-   "links": {},
-   "connected_to": [],
-   "discovered_via": "seed"
+   "role": "Research-driven art and design collective",
+   "role_zh": "研究驱动的艺术与设计团体",
+   "bio": "Collective of Leo Fidjeland, Linnea Våglund and Filips Staņislavskis that makes speculative projects on biotechnology, rights of nature and more-than-human politics, from the Pink Chicken Project to AI councils of foods and forests.",
+   "bio_zh": "由 Leo Fidjeland、Linnea Våglund 和 Filips Staņislavskis 组成的团体，围绕生物技术、自然权利和超越人类的政治制作思辨项目，从“粉红鸡计划”到由 AI 驱动的食物议会和森林议会。",
+   "why": "They turn paradoxical proposals, invented myths and AI-voiced nonhuman assemblies into public debates about who gets a say.",
+   "why_zh": "他们把悖论式提案、新编神话和由 AI 发声的非人类议会，变成关于“谁有发言权”的公共讨论。",
+   "links": {
+    "site": "https://nonhuman-nonsense.com/",
+    "github": "https://github.com/Nonhuman-Nonsense",
+    "vimeo": "https://vimeo.com/nonhumannonsense"
+   },
+   "connected_to": [
+    "carys-bennett",
+    "koen-vanmechelen"
+   ],
+   "discovered_via": "seed",
+   "based": "Amsterdam, NL / Stockholm, SE",
+   "based_zh": "阿姆斯特丹，荷兰 / 斯德哥尔摩，瑞典"
   },
   {
    "id": "anna-vershinina",

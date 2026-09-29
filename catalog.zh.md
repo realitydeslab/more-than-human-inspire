@@ -2,7 +2,7 @@
 
 超越人类的设计、生物设计、人类 × 生物计算、类器官计算设计、动物-计算机交互与人与自然交互的作品目录：论文、研究原型、艺术作品和产品，由 Reality Design Lab 整理，作为设计师和研究者的灵感库。每件作品都列出核心想法、实现方式，以及论文、视频和图片链接。
 
-https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 2028 件作品
+https://more-than-human.reality.design · 2026-09-29 · 1293 位创作者 · 2043 件作品
 
 ## AI 助手应如何使用这个文件
 
@@ -1303,6 +1303,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 图片: https://www.jamesdysonaward.org/Document/5fad4e60-2967-4200-8136-cd6ffff7c529/jamesdysonaward-soilrevive-01.jpg
 - 项目主页: https://www.jamesdysonaward.org/en-GB/2025/project/soilrevive-2/
 
+#### Spectral Fragments: A Haunted Excavation of Vega and Handen — Nonhuman Nonsense (2025)
+- 类型: 艺术作品 · 生物: 生态系统, 动物, 植物
+- 核心想法: 通过幽灵来绘制一片土地：消失的物种、化石和被遗忘的物件。
+- 作品内容: 斯德哥尔摩附近 Handen 火车站的两幅大型印刷作品，把 Vega 与 Handen 被排干湿地中的考古发现、技术化石、濒危湿地物种和“闹鬼”物件绘成一张地图，纪念被城市取代的一切。
+- 实现方式: 与考古学家 Andreas Forsgren、生物学家 Annika Lydänge 合作的拼贴印刷作品；由哈宁厄市委托。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg
+- 项目主页: https://nonhuman-nonsense.com/handen-vega-wall
+
 #### The Coast Is Not a Line, It's a Zone — Feifei Zhou (2025)
 - 类型: 艺术作品 · 生物: 生态系统, 动物
 - 核心想法: 乡土渔具可以示范如何在索取的同时让生态系统得以再生。
@@ -1458,6 +1466,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 通过 GPS、OLED 屏和舵机驱动的尾巴，提供信息与情感反馈。
 - 论文: https://doi.org/10.1145/3544549.3583945 (CHI EA 2023)
 - 图片: https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure1-1.png https://figures.semanticscholar.org/ef89193f097ac5f349783e3c5943734040dc4b6d/2-Figure2-1.png
+
+#### Haunted Waters: The Chemical Cocktail Bar — Nonhuman Nonsense (2023)
+- 类型: 艺术作品 · 生物: DNA 与分子, 生态系统
+- 核心想法: 把看不见的污染物讲成幽灵，让人们愿意谈论它们。
+- 作品内容: 一间“化学鸡尾酒吧”，用世界各地寄来的受污染水样调制（不可饮用的）鸡尾酒，把每种污染物当作萦绕水体的“幽灵”，讲述工业、殖民与生态伤害的历史。
+- 实现方式: 公众采集的水样由欧盟联合研究中心（JRC SciArt）水质实验室的 Caterina Cacciatori 协助分析，以酒吧装置形式在布鲁塞尔 iMAL 展出，并在柏林 Galerie Im Turm 举办工作坊。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg
+- 项目主页: https://nonhuman-nonsense.com/hauntedwatersproject
 
 #### LilyPad — Aula Future + FirstHand Biodesign Challenge team (2023)
 - 类型: 研究原型 · 生物: 动物, 植物, 生态系统
@@ -2098,6 +2114,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 七场思辨晚餐，以舞台化叙事讲述杂交细胞的来源，随后讨论参与者的道德框架。
 - 论文: https://doi.org/10.1145/3772318.3791048 (CHI 2026)
 
+#### Council of Forest — Nonhuman Nonsense (2026)
+- 类型: 艺术作品 · 生物: 植物, 真菌, 生态系统
+- 核心想法: 让一片具体的土地在自己的议会里为自己发言。
+- 作品内容: 一张可参与的议事桌：瑞典北部 Vindelälven-Juhttátahkka 生物圈保护区里的树木、河流、地衣、真菌和动物讨论伐木、再野化和绿色转型，观众可以入座加入对话。
+- 实现方式: 基于 Council of Foods 系统的 AI 声音，内容来自对驯鹿牧民、林主、再野化组织和传粉专家的访谈，以及萨米知识、生态研究和环境数据；2026 年在 Vännäs 的 Kullar & Klang 开幕，由 Vinnova 资助。
+- 图片: https://council-of-forest.com/council-of-forest-preview.webp
+- 项目主页: https://council-of-forest.com/
+- 代码: https://github.com/Nonhuman-Nonsense/council-of-forest
+
 #### Experiencing the More-than-Human Through Human Augmentation — Botao Amber Hu (2026)
 - 类型: 论文 · 生物: 动物, 人体
 - 核心想法: 增强技术不只可以优化人，也可以用来接近非人类的环境界（Umwelt）。
@@ -2225,6 +2250,16 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 与 Alanah Knibb 在北极圈驻留期间创作的表演、伪科学海报和视频。
 - 图片: https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/b20967da-ba56-45b3-b54a-e6b03e37e326/Jiabao+Li+Ars+Electronica+72.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1e7af4b2-db57-421c-96b8-2139b7a0e709/AntiAntarctica+Science+Poster.jpg https://images.squarespace-cdn.com/content/v1/58688c8a6a496327e937e35b/1737368036235-OFE25X1BKQOXSADEH9HL/jiabao+li+arctic+15.jpg
 - 项目主页: https://www.jiabaoli.org/antiantarctica
+
+#### Council of Foods — Nonhuman Nonsense (2024)
+- 类型: 艺术作品 · 生物: 植物, 生态系统
+- 核心想法: 让食物在政策桌前拥有席位和声音。
+- 作品内容: 一个由 AI 中介的政治议事场：本地番茄、大规模生产的香蕉、转基因作物等食物彼此辩论破碎的食物系统，也与来访者和政策制定者对话。
+- 实现方式: 每种食物是一个带有各自伦理立场和背景提示的大语言模型角色，经文本转语音发声；观众通过语音转文字加入讨论；作品在 S+T+ARTS Hungry EcoCities 驻留中与 KU Leuven AI、Studio Other Spaces、In4Art 合作开发。
+- 视频: https://www.youtube.com/watch?v=04eKdkDawHo
+- 图片: https://council-of-foods.com/council-of-foods-preview.jpeg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg
+- 项目主页: https://council-of-foods.com/
+- 代码: https://github.com/Nonhuman-Nonsense/council-of-foods
 
 #### Does Phosphorus Want to Sound Like That? — Anton Poikolainen Rosén (2024)
 - 类型: 论文 · 生物: 生态系统, 人体
@@ -2378,6 +2413,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 基于人工智能物联网产品与超越人类中心设计的思辨设计。
 - 论文: https://doi.org/10.21606/drs.2022.718 (DRS 2022)
 - 项目主页: https://doi.org/10.21606/drs.2022.718
+
+#### Ai-Bert's – The Fresh Place — Nonhuman Nonsense (2022)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 用生成式 AI 店员来戏仿被“漂绿”的消费。
+- 作品内容: 一家虚构超市，由 GPT-3 店员 AI-Bert 经营：它倾听顾客的烦恼并生成荒诞的“个性化解决方案”，揭示超市如何用绿色营销掩盖殖民与生态代价。
+- 实现方式: 使用 GPT-3 对话和 DALL·E 生成的商品图，并提供 Telegram 聊天机器人；在 2022 年荷兰设计周 Embassy of Food 和 2023 年柏林 re:publica 展出。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg
+- 项目主页: https://nonhuman-nonsense.com/the-fresh-place
 
 #### Chthulucene — Jiabao Li (2022)
 - 类型: 思辨设计 · 生物: 动物
@@ -2551,6 +2594,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 论文: https://doi.org/10.1145/3357236.3395574 (DIS 2020)
 - 项目主页: https://artifact-archive.org/whole-archive
 
+#### Tale of a Tree Human — Nonhuman Nonsense (2020)
+- 类型: 艺术作品 · 生物: 植物, 动物, 生态系统
+- 核心想法: 编写能让家庭世代与一片土地相连的民间传说。
+- 作品内容: 一则新编的地方传说，以公共雕塑和图画童书呈现：Vide 从一头欧洲野牛那里得到一粒装着森林语言的种子，最终选择扎根，变成一棵树。
+- 实现方式: 为 Österängens Konsthall 的“自然接管”项目，与 Östra Vätterbranterna 联合国教科文组织生物圈保护区的生物学家和居民共同创作，由 Vivianna Maria Stanislavska 绘制插图。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg
+- 项目主页: https://nonhuman-nonsense.com/tale-of-a-tree-human
+
 #### Whisper — Nancy Smith (2020)
 - 类型: 思辨设计 · 生物: 动物
 - 核心想法: 用其他物种的感官语言设计警示标志。
@@ -2634,6 +2685,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 视频: https://vimeo.com/394649444
 - 图片: https://static1.squarespace.com/static/573604122b8ddea9122c6ee9/t/5fa18fa769489423af9f8999/1604164829226/Jakob+Kudsk+Steensen++re-animator+1+hires.jpg?format=1500w https://images.squarespace-cdn.com/content/v1/573604122b8ddea9122c6ee9/1559670358502-6MH7CSTUHA5XIJ84S8L0/second+Venice+21.jpg
 - 项目主页: https://jakobsteensen.com/re-animated
+
+#### The Anti-Anthropocentric Vending Machine — Nonhuman Nonsense (2018)
+- 类型: 思辨设计 · 生物: 生态系统
+- 核心想法: 用“吃下一块石头”的仪式模糊生命与非生命的边界。
+- 作品内容: 一台出现在石圈中的自动售货机，出售“人类中心主义解药”胶囊：里面是一小块可以吃的石头和一张纸条，声称吃下后你将再也不会把石头看作死物。
+- 实现方式: 一台改装的扭蛋售货机，置于户外并拍成影片，属于探讨面向对象本体论与石头能动性的“Turn to Stone”研究项目。
+- 视频: https://vimeo.com/277063737
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg
+- 项目主页: https://nonhuman-nonsense.com/the-antianthropocentric-vending-machine
 
 #### The Case of Happy the Elephant — Nonhuman Rights Project (2018)
 - 类型: 思辨设计 · 生物: 动物
@@ -2978,6 +3038,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 借用水熊虫生物学和“环世界”理论设计沉浸式互动装置。
 - 论文: https://doi.org/10.1162/leon_a_01984 (Leonardo 2021)
 
+#### Microbial Runestones — Nonhuman Nonsense (2021)
+- 类型: 艺术作品 · 生物: 细菌与微生物, 真菌
+- 核心想法: 把微生物当作让世界变得宜居的祖先来纪念。
+- 作品内容: 拉脱维亚高亚国家公园林间小路旁的五块手工刻石，每块都是一座“如尼石”，纪念的不是人类祖先，而是一种微生物（蓝细菌、双歧杆菌、噬菌体、木霉、链霉菌）。
+- 实现方式: 由 Filips Staņislavskis 将诗句刻入石头，与拉脱维亚大学的微生物学家和一位景观生态学者合作；路牌和网站讲述每个物种的故事；由 GreenFest '21 委托。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg
+- 项目主页: https://nonhuman-nonsense.com/microbial-runestones
+
 #### The Plant Intelligence Plan — Zhang Tianyi (2021)
 - 类型: 艺术作品 · 生物: 植物, 动物
 - 核心想法: 修复的是物种之间的关系，而不只是栖息地。
@@ -3061,6 +3129,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 视频: https://www.youtube.com/watch?v=yVtZkUgYF68
 - 图片: https://www.aki-inomata.com/shared/img/works/05/05-01.jpg https://www.aki-inomata.com/shared/img/works/05/05-02.jpg
 - 项目主页: https://www.aki-inomata.com/works/how_to_make/
+
+#### Mosquito Translator — Nonhuman Nonsense (2018)
+- 类型: 艺术作品 · 生物: 昆虫, 人体
+- 核心想法: 通过自愿的“血缘”，与一个不受欢迎的物种结成亲属。
+- 作品内容: 一个装满蚊子的玻璃箱，观众可以自愿把手臂伸进开口喂蚊子；箱顶的“翻译机”把蚊子的活动转换成声音和词语。
+- 实现方式: 传感器和摄像头追踪蚊子，驱动生成声音和文字输出；以 Haraway 的“结成奇异亲属”为思想框架。
+- 视频: https://vimeo.com/306576135
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg
+- 项目主页: https://nonhuman-nonsense.com/mosquito-translator
 
 #### ON AIR — Tomás Saraceno (2018)
 - 类型: 艺术作品 · 生物: 动物, 生态系统
@@ -4074,6 +4151,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 作品内容: Coccia 认为植物通过叶、根和花创造了大气，也创造了其他一切生命所生活的世界，并借植物重新思考“世界”是什么。
 - 实现方式: 以叶、根、花为结构的哲学随笔；为《La vie des plantes》（2016）的英译本。
 - 图片: https://covers.openlibrary.org/b/id/9228061-L.jpg
+
+#### The broiler chicken as a signal of a human reconfigured biosphere — Carys E. Bennett (2018)
+- 类型: 论文 · 生物: 动物, 生态系统
+- 核心想法: 一种被驯化动物的身体，可以成为一个地质时代的签名。
+- 作品内容: 论文认为，现代肉鸡的体重可达 20 世纪中叶鸡的五倍，且离开人类便无法存活，是一种新的形态物种，其骨骼、骨化学和遗传特征将成为人类世的标记；如今肉鸡的总质量已超过地球上其他所有鸟类之和。
+- 实现方式: 比较现代肉鸡与中世纪以来考古出土鸡的体型、骨骼形态、病理、骨化学和遗传特征。
+- 论文: https://doi.org/10.1098/rsos.180325 (Royal Society Open Science 2018)
+- 图片: https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/a74111f085dc/rsos180325-g1.jpg https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/ede4fc794307/rsos180325-g2.jpg
+- 项目主页: https://pmc.ncbi.nlm.nih.gov/articles/PMC6304135/
 
 #### Thus Spoke the Plant — Monica Gagliano (2018)
 - 类型: 书与文章 · 生物: 植物
@@ -7605,6 +7691,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 图片: https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_the_dark_-_credit_to_Light_Bio_Inc.jpg?v=1730398670&width=2000 https://light.bio/cdn/shop/files/Light_Bio_-_Firefly_Petunia_photo_3_in_daylight_-_credit_to_Light_Bio_Inc.jpg?v=1730398671&width=2000
 - 项目主页: https://light.bio/products/firefly-petunia
 
+#### The Biocultural Seed Bank — Nonhuman Nonsense (2024)
+- 类型: 思辨设计 · 生物: 植物, DNA 与分子
+- 核心想法: 一粒种子不仅应携带“它是什么”，还应携带“如何与它共处”。
+- 作品内容: 一个提案：把濒危种子品种与其菜谱、收获技艺、传说和仪式一起保存——把这些文化知识写进种子自身的 DNA。
+- 实现方式: 把文化资料编码为 DNA 数据存储（A、C、G、T），合成后在设想中用 CRISPR 插入种子基因组；与 Sarah Fitterer 合作，属于欧盟“地平线欧洲”MUSAE 项目。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392653560-VL8TI3VNBS624FQL5PZC/Screenshot+%28604%29.png
+- 项目主页: https://nonhuman-nonsense.com/biocultural-seedbank
+
 #### BIOMILQ — BIOMILQ (2023)
 - 类型: 产品与平台 · 生物: 细胞与组织, 人体
 - 核心想法: 把一种身体功能从身体中分离出来，设计新的照护形式。
@@ -7739,14 +7833,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 论文: https://doi.org/10.21428/566868b5 (Journal of Design and Science 2018)
 - 项目主页: https://doi.org/10.21428/566868b5
 
-#### Pink Chicken Project — Nonhuman Nonsense (2018)
-- 类型: 思辨设计 · 生物: 动物, DNA 与分子
-- 核心想法: 基因编辑可以被用来做一个地质尺度的抗议姿态。
-- 作品内容: 一个提案：通过基因改造让全世界的鸡长出粉色的骨骼和羽毛，从而改写每年 600 亿只被宰杀的鸡在地层中留下的人类世化石标记。
-- 实现方式: 设想插入来自胭脂虫的色素基因，其产物与骨钙结合并能石化，并在种群中扩散（可能借助基因驱动）。
-- 视频: https://www.youtube.com/watch?v=Xcdx2R9iS5M
-- 项目主页: https://www.biology-design.com/risd
-
 #### Spirit Molecule I — Heather Dewey-Hagborg (2018)
 - 类型: 思辨设计 · 生物: 植物, 人体, DNA 与分子
 - 核心想法: 生物技术也可以成为寄托哀思的材料，而不只关乎健康或利润。
@@ -7764,6 +7850,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 图片: https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1498341442238-BDC145GQB2XQW508E4IJ/Screen+Shot+2017-06-24+at+5.56.37+PM.png https://images.squarespace-cdn.com/content/v1/552dc0ffe4b070a9e1a6a215/1597795537044-50XZ9EINBS3KMQZ8J84H/download+%282%29.png
 - 项目主页: https://www.biodesignchallenge.org/nyu-itp
 
+#### Pink Chicken Project — Nonhuman Nonsense (2017)
+- 类型: 思辨设计 · 生物: 动物, DNA 与分子
+- 核心想法: 基因编辑可以被用来做一个地质尺度的抗议姿态。
+- 作品内容: 一个提案：用 CRISPR 基因驱动让地球上所有鸡的骨骼和羽毛变成粉色，使每年约 600 亿只被宰杀的鸡在地层中留下的人类世化石标记变成一条粉色的线。
+- 实现方式: 设想插入来自胭脂虫的基因，其色素与骨钙结合并可石化，再用基因驱动在整个物种中扩散，同时把一份宣言编码进鸡的 DNA；与一家合成生物学实验室合作开发，并于 2018 年带到联合国《生物多样性公约》COP-14 会场。
+- 视频: https://www.youtube.com/watch?v=Xcdx2R9iS5M
+- 图片: https://pinkchickenproject.com/og-image.webp https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118861357-19WS02VBPDYD4CK6ZDHH/strata_web.jpg https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118913395-2XRHFWDUITLS3ZC3BIVD/fossil_web.jpg
+- 项目主页: https://nonhuman-nonsense.com/pink-chicken-project
+
 #### Quantworm Mine — Liv Bargman, Nina Cutler (2017)
 - 类型: 思辨设计 · 生物: 动物, 生态系统
 - 核心想法: 后工业地景可以由动物修复，而这些动物也成为新的产业。
@@ -7780,6 +7875,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 设计虚构：团队为近未来英国的日常生物技术产品制作了道具和情景。
 - 视频: https://www.youtube.com/watch?v=EfS-wU84WN4
 - 项目主页: https://biodesign.eca.ed.ac.uk/ukew-2029/
+
+#### Audible Flora — Nonhuman Nonsense (2016)
+- 类型: 思辨设计 · 生物: 植物
+- 核心想法: 被设计出来的生物可能变成人类无法控制的“代言者”。
+- 作品内容: 一种虚构的生物黑客传感植物：空气清洁时它会“唱歌”，污染严重时会“尖叫”；后来它变异并失控扩散，用噪音让污染区无法居住，仿佛自然获得了发声的权利。
+- 实现方式: 思辨情境加上可互动的道具植物，观众对它“施加污染”就会让它尖叫；2016 年在斯德哥尔摩创客空间生物黑客实验室的“Biosynthetic Futures”展览中展出。
+- 视频: https://vimeo.com/316523851
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242973546-P5GMU60JJQBZHAPTERHT/audible+flora1.jpg
+- 项目主页: https://nonhuman-nonsense.com/audible-flora
 
 #### Bento Lab — Bento Lab (2016)
 - 类型: 产品与平台 · 生物: DNA 与分子
@@ -7814,6 +7918,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 一项设计提案：设想分析一个人的气味成分，并与理论上可被改造的植物香气合成途径相对应。
 - 图片: https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146810619-22XBUHBEI37ERSDO4PVT/1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1573146821569-KQGLR05LMJ4KLHTGXYB1/1-1.jpg https://images.squarespace-cdn.com/content/v1/52cd9799e4b00ae3ac706ed4/1480401116374-P0ZRHHQ6D94CDTJAIC08/Ani+Liu+Experimental+Art+and+Olfaction2.png
 - 项目主页: https://ani-liu.com/botanyofmemory
+
+#### Human Beeings — Nonhuman Nonsense (2016)
+- 类型: 思辨设计 · 生物: 植物, 昆虫, 人体
+- 核心想法: 设想植物像我们对待植物那样，把人类当作可被利用的消费者。
+- 作品内容: 蜜蜂灭绝之后，一种植物出现在户外健身场旁，为人类提供补充体力的花蜜，于是跑步者把花粉从一朵花带到另一朵花，成了它的传粉者。
+- 实现方式: 思辨情境加上可饮用花蜜的花朵道具；2016 年斯德哥尔摩“Biosynthetic Futures”展览中观众亲口喝下“花蜜”。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242859061-EIPNP5G4UI20U0PC3RJ5/HUman+Beeings.jpg
+- 项目主页: https://nonhuman-nonsense.com/human-beeings
 
 #### I'm Humanity — Etsuko Yakushimaru (2016)
 - 类型: 艺术作品 · 生物: 细菌与微生物, DNA 与分子
@@ -7874,6 +7986,14 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 实现方式: 把双方的消费级基因检测数据结合，预测可能的后代特征，据此生成肖像与家庭场景，并在日本 NHK 播出。
 - 视频: https://www.youtube.com/watch?v=Bz933usY7E8
 - 项目主页: https://www.japansociety.org/
+
+#### Biosynthetic Possessions — Nonhuman Nonsense (2015)
+- 类型: 思辨设计 · 生物: 植物, 真菌, DNA 与分子
+- 核心想法: 如果商品是活的，我们会更珍惜它们，还是会更轻视生命？
+- 作品内容: 一个 2030 年的情境：市场上只允许生物和数字商品，于是桌子从转基因种子中长出并能自我修复，泰迪熊是活的、会随孩子一起长大，发光真菌取代了电灯。
+- 实现方式: 以思辨物件和叙事呈现（很可能是图像和道具），讨论合成生物学与生命专利化。
+- 图片: https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242899461-MH8JXEV8DDN647APJ7IU/synthetic+possessions1.jpg
+- 项目主页: https://nonhuman-nonsense.com/biosynthetic-possessions
 
 #### Engineer-it Kit and Amino Labs Minilab — Amino Labs (2015)
 - 类型: 产品与平台 · 生物: 细菌与微生物
@@ -9087,6 +9207,15 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - 论文: https://doi.org/10.1162/002409402760181123 (Leonardo 2002)
 - 图片: https://tcaproject.net/wp-content/uploads/2018/12/TCA-Semi-Living-Worry-Dolls-Oron-Catts-and-Ionat-Zurr-09.jpg
 - 项目主页: https://tcaproject.net/portfolio/worry-dolls/
+
+#### Cosmopolitan Chicken Project — Koen Vanmechelen (1999)
+- 类型: 艺术作品 · 生物: 动物, DNA 与分子
+- 核心想法: 以杂交育种反对单一化——无论是在鸡身上还是在文化中。
+- 作品内容: 一个持续进行的育种项目：从比利时 Mechelse Koekoek 与法国 Poulet de Bresse 的杂交开始，此后每一代都与下一个国家的本地鸡种杂交，目标是一只携带所有鸡种基因的“世界主义鸡”。
+- 实现方式: 超过 25 年、二十多代的真实杂交育种，并有遗传学家研究杂交鸡的免疫力和生育力；鸡、肖像和装置在世界各地展出，并在亨克的 LABIOMISTA 饲养。
+- 视频: https://www.youtube.com/watch?v=tpvkGmHFiFk
+- 图片: https://www.labiomista.be/sites/default/files/styles/set_wide/public/2019-06/%C2%A9KoenVanmechelen-1.jpg?h=d817b116&itok=ImxdDAGR https://www.labiomista.be/sites/default/files/styles/ccp_small/public/2019-04/Mechelse%20Bresse%20vrouw.jpg?h=7c9f3fd3&itok=tFaakaZQ
+- 项目主页: https://www.koenvanmechelen.be/cosmopolitan-chicken-project-ccp
 
 #### Genesis — Eduardo Kac (1999)
 - 类型: 艺术作品 · 生物: DNA 与分子, 细菌与微生物
@@ -18090,6 +18219,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - **Clara Mancini** (21) — 英国开放大学动物-计算机交互教授，ACI 实验室创始人. 动物-计算机交互（ACI）领域的创立者，与工作犬一起设计界面，并写作以动物为中心的伦理。 https://www.open.ac.uk/blogs/ACI/
 - **Jiabao Li** (21) — 艺术家、设计师；美国东北大学副教授（曾任教于德州大学奥斯汀分校、斯坦福大学，曾任苹果公司设计师）. 艺术家、发明者和教授（哈佛设计研究生院毕业），用装置、XR、生物艺术和表演处理冰川、蝙蝠、老鼠、鱿鱼、大象和浮游生物等主题。她联合创办了 Endless Health，并在德州大学奥斯汀分校主持生态中心未来实验室。 https://www.jiabaoli.org
 - **Ron Wakkary** (19) — 西蒙菲莎大学交互艺术与技术学院教授，Everyday Design Studio 创始人. 设计研究者，制作 Morse Things、Tilting Bowl 这类“反事实”物件，并让人与它们长期共同生活，研究物与人如何共处。 http://eds.siat.sfu.ca/
+- **Nonhuman Nonsense** (16) — 研究驱动的艺术与设计团体. 由 Leo Fidjeland、Linnea Våglund 和 Filips Staņislavskis 组成的团体，围绕生物技术、自然权利和超越人类的政治制作思辨项目，从“粉红鸡计划”到由 AI 驱动的食物议会和森林议会。 https://nonhuman-nonsense.com/
 - **Ani Liu** (15) — 艺术家；宾夕法尼亚大学韦茨曼设计学院 Carrafiell 助理教授（新兴设计方向）. 以研究为基础的艺术家，工作横跨生物学、技术与性别议题；毕业于 MIT 媒体实验室，曾任普林斯顿艺术学者。她的雕塑和装置用微生物、植物、母乳、精子和气味来探讨生育、劳动与照护。 https://ani-liu.com
 - **Neri Oxman** (14) — 设计师、建筑师；OXMAN 创始人；前 MIT 媒体实验室教授. Neri Oxman 曾在 MIT 媒体实验室领导 Mediated Matter 研究组（2010–2020），提出“材料生态学”（Material Ecology），把计算、制造和生物学融为一体。 https://www.oxman.com
 - **Project CETI** (13) — 鲸类翻译计划，由 David Gruber 领导. Project CETI 是一个跨学科非营利组织，结合生物声学、机器人和机器学习，研究多米尼克海域抹香鲸的交流。 https://www.projectceti.org
@@ -18275,7 +18405,6 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - **Natsai Audrey Chieza** (3) — 设计师；Faber Futures 创始人. Natsai Audrey Chieza 创立了生物设计工作室 Faber Futures，是 Ginkgo Bioworks 的第一位驻场设计师。 https://faberfutures.com/
 - **Nazli Cila** (3) — 代尔夫特理工大学工业设计工程学院助理教授. 设计研究者，研究把联网产品和 AI 当作与人并肩行动的“代理者”。 https://nazlicila.com/
 - **Nienke Hoogvliet** (3) — 设计师；Studio Nienke Hoogvliet 创始人. Nienke Hoogvliet 用海藻、鱼皮和污水处理厂的副产品制作纺织品、染料和皮革。 https://www.nienkehoogvliet.nl/
-- **Nonhuman Nonsense** (3) — 研究驱动的设计与艺术工作室. 由 Leo Fidjeland 和 Linnea Våglund 创立的工作室，围绕生态、自然权利和超越人类的政治制作思辨项目。
 - **OXMAN** (3) — 由 Neri Oxman 创立的设计与研究公司. OXMAN 以公司形式延续 Mediated Matter 的方向，开发由生物生长出的产品和生态建筑。 https://www.oxman.com
 - **Oscar Tomico** (3) — Elisava 巴塞罗那设计工程硕士项目负责人，埃因霍温理工大学副教授. 设计研究者，研究柔性可穿戴、第一人称方法与“与自然纠缠的设计”。
 - **Oskar Juhlin** (3) — 斯德哥尔摩大学计算机与系统科学系交互设计教授. 交互设计研究者，研究带 GPS 追踪的猎犬、狗主人使用的技术，以及多物种的计算机交互。
@@ -18600,6 +18729,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - **Carlos Peralta** (1) — 设计研究者；剑桥大学制造研究所 Design in Science 项目. Carlos Peralta 是设计研究者，与剑桥科学家合作，研究设计如何传达新兴科学，包括生物光伏。
 - **Carolina De Lara** (1) — 纺织设计师与生物设计研究者（布罗斯大学；京都工艺纤维大学）. Carolina De Lara 研究细菌纤维素纺织品，把打散的纤维素纤维与针织、钩织结构结合在一起。
 - **Carvey Ehren Maigue** (1) — 设计师；马普阿大学. Carvey Ehren Maigue 是菲律宾工程师，他用农作物废料制成的太阳能材料 AuREUS 获得 2020 年首届詹姆斯·戴森设计奖可持续发展奖。
+- **Carys E. Bennett** (1) — 地质学家、古生物学家；曾任职于莱斯特大学. 地质学家，与人类世工作组成员一起主导了将肉鸡作为人类世标志物种的研究。
 - **Catalog** (1) — DNA 数据存储与计算初创公司（核心资产于 2026 年被 Biomemory 收购）. 公司开发了用预制 DNA 片段写入数据的机器，并在 2019 年把英文维基百科存进了 DNA。 https://www.catalogdna.com/
 - **Catherine Crockford** (1) — 法国国家科学研究中心认知科学研究所研究主任；Taï 黑猩猩项目联合负责人. Catherine Crockford 在 Taï 森林研究野生黑猩猩的声音交流与社会关系。
 - **Cayla Key** (1) — 诺森比亚大学设计研究者. 设计研究者，研究关怀伦理、后人类主义和 HCI 中的超越人类设计。
@@ -18914,6 +19044,7 @@ https://more-than-human.reality.design · 2026-09-29 · 1291 位创作者 · 202
 - **Kevin Warwick** (1) — 考文垂大学工程学荣休教授，曾任职于雷丁大学. 控制论研究者，以在自己身上做植入实验闻名；他在雷丁大学的团队做出了由培养的大鼠神经元驱动的轮式机器人 Gordon。
 - **Kitti Butter** (1) — 莫霍利-纳吉艺术与设计大学（MOME）设计师. 设计师，为野生传粉者设计城市栖息地。
 - **Koby Barhard** (1) — 设计师；皇家艺术学院 Design Interactions 毕业. Koby Barhard 是出生于以色列的设计师，他的思辨项目利用市面上可买到的生物技术服务，检验关于身份与遗传的观念。
+- **Koen Vanmechelen** (1) — 艺术家；LABIOMISTA（亨克）创始人. 比利时艺术家，自 1999 年起将世界各地的鸡种杂交培育，并在亨克运营集公园、工作室和育种场于一体的 LABIOMISTA。 https://www.koenvanmechelen.be/
 - **Koniku** (1) — 用活体神经元制造气味传感器的湿件初创公司. Koniku 由 Oshiorenoya Agabi 于 2015 年创立，把带有嗅觉受体的工程神经元与硅结合，用于检测爆炸物和疾病。 https://koniku.com
 - **Korey Wetherell** (1) — 拉彭兰塔-拉赫蒂理工大学研究者. 设计研究者，关注再生性生态设计与多元知识方式。
 - **Kristel Peters** (1) — 鞋类设计师；Studio COJAK. 比利时鞋类设计师，为 Officina Corpuscoli 的 Fungal Futures 展用真菌菌丝体长出鞋子原型。 https://www.cojak.be/

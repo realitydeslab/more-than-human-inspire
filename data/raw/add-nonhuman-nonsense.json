@@ -1,0 +1,599 @@
+{
+ "batch": "add-nonhuman-nonsense",
+ "creators": [
+  {
+   "id": "koen-vanmechelen",
+   "name": "Koen Vanmechelen",
+   "kind": "person",
+   "role": "Artist; founder of LABIOMISTA, Genk",
+   "role_zh": "艺术家；LABIOMISTA（亨克）创始人",
+   "based": "Genk, Belgium",
+   "based_zh": "亨克，比利时",
+   "bio": "Belgian artist who has crossbred chicken breeds from around the world since 1999 and runs LABIOMISTA, a park, studio and breeding site in Genk.",
+   "bio_zh": "比利时艺术家，自 1999 年起将世界各地的鸡种杂交培育，并在亨克运营集公园、工作室和育种场于一体的 LABIOMISTA。",
+   "why": "He uses real breeding over generations of chickens as an artistic medium for biocultural diversity.",
+   "why_zh": "他把跨越多代的真实鸡种杂交当作艺术媒介，来讨论生物与文化多样性。",
+   "links": {
+    "site": "https://www.koenvanmechelen.be/"
+   },
+   "connected_to": [],
+   "discovered_via": "nonhuman-nonsense"
+  },
+  {
+   "id": "carys-bennett",
+   "name": "Carys E. Bennett",
+   "kind": "person",
+   "role": "Geologist and palaeontologist; formerly University of Leicester",
+   "role_zh": "地质学家、古生物学家；曾任职于莱斯特大学",
+   "based": "Leicester, UK",
+   "based_zh": "莱斯特，英国",
+   "bio": "Geologist who led the study proposing the broiler chicken as a marker species of the Anthropocene, with members of the Anthropocene Working Group.",
+   "bio_zh": "地质学家，与人类世工作组成员一起主导了将肉鸡作为人类世标志物种的研究。",
+   "why": "Her paper is the scientific premise behind the Pink Chicken Project and other chicken-as-Anthropocene works.",
+   "why_zh": "她的论文是“粉红鸡计划”等以鸡作为人类世标志的作品的科学前提。",
+   "links": {
+    "scholar": "https://www.semanticscholar.org/paper/7d99949fd747d9a7a3a6067e26f0fa7458829d1c"
+   },
+   "connected_to": [],
+   "discovered_via": "nonhuman-nonsense"
+  }
+ ],
+ "works": [
+  {
+   "id": "nonhuman-nonsense--council-of-foods",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Council of Foods",
+   "year": 2024,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An AI-mediated political arena where foods such as a local tomato, a mass-produced banana and a GM crop debate the broken food system with each other and with human visitors or policymakers.",
+   "description_zh": "一个由 AI 中介的政治议事场：本地番茄、大规模生产的香蕉、转基因作物等食物彼此辩论破碎的食物系统，也与来访者和政策制定者对话。",
+   "idea_en": "Give foods a seat and a voice at the policy table.",
+   "idea_zh": "让食物在政策桌前拥有席位和声音。",
+   "method": "Each food is a large-language-model persona prompted with its own ethics and background, spoken aloud with text-to-speech; visitors join by speech-to-text; developed in the S+T+ARTS Hungry EcoCities residency with KU Leuven AI, Studio Other Spaces and In4Art.",
+   "method_zh": "每种食物是一个带有各自伦理立场和背景提示的大语言模型角色，经文本转语音发声；观众通过语音转文字加入讨论；作品在 S+T+ARTS Hungry EcoCities 驻留中与 KU Leuven AI、Studio Other Spaces、In4Art 合作开发。",
+   "keywords": [
+    "LLM",
+    "AI agents",
+    "food system",
+    "food policy",
+    "S+T+ARTS",
+    "Hungry EcoCities",
+    "parliament of things"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=04eKdkDawHo"
+   },
+   "images": [
+    "https://council-of-foods.com/council-of-foods-preview.jpeg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg"
+   ],
+   "source_url": "https://council-of-foods.com/",
+   "code_url": "https://github.com/Nonhuman-Nonsense/council-of-foods"
+  },
+  {
+   "id": "nonhuman-nonsense--council-of-forest",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Council of Forest",
+   "year": 2026,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "fungi",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "An interactive council table where trees, rivers, lichen, fungi and animals of the Vindelälven-Juhttátahkka biosphere reserve in northern Sweden deliberate on logging, rewilding and the green transition, and visitors can take a seat to join them.",
+   "description_zh": "一张可参与的议事桌：瑞典北部 Vindelälven-Juhttátahkka 生物圈保护区里的树木、河流、地衣、真菌和动物讨论伐木、再野化和绿色转型，观众可以入座加入对话。",
+   "idea_en": "Let a specific landscape speak for itself in its own political assembly.",
+   "idea_zh": "让一片具体的土地在自己的议会里为自己发言。",
+   "method": "AI voices built on the Council of Foods system, shaped by interviews with reindeer herders, forest owners, rewilders and pollinator experts, plus Sámi knowledge, ecological research and environmental data; opened at Kullar & Klang, Vännäs, 2026, funded by Vinnova.",
+   "method_zh": "基于 Council of Foods 系统的 AI 声音，内容来自对驯鹿牧民、林主、再野化组织和传粉专家的访谈，以及萨米知识、生态研究和环境数据；2026 年在 Vännäs 的 Kullar & Klang 开幕，由 Vinnova 资助。",
+   "keywords": [
+    "LLM",
+    "AI agents",
+    "forest",
+    "Sámi",
+    "biosphere reserve",
+    "rewilding",
+    "Vinnova"
+   ],
+   "images": [
+    "https://council-of-forest.com/council-of-forest-preview.webp"
+   ],
+   "source_url": "https://council-of-forest.com/",
+   "code_url": "https://github.com/Nonhuman-Nonsense/council-of-forest"
+  },
+  {
+   "id": "nonhuman-nonsense--haunted-waters",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Haunted Waters: The Chemical Cocktail Bar",
+   "year": 2023,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "molecules",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A bar that serves (undrinkable) cocktails of contaminated water sent in from around the world, treating each pollutant as a spirit that haunts the water and carries a history of industry, colonialism and ecological harm.",
+   "description_zh": "一间“化学鸡尾酒吧”，用世界各地寄来的受污染水样调制（不可饮用的）鸡尾酒，把每种污染物当作萦绕水体的“幽灵”，讲述工业、殖民与生态伤害的历史。",
+   "idea_en": "Frame invisible pollutants as ghosts so people can talk about them.",
+   "idea_zh": "把看不见的污染物讲成幽灵，让人们愿意谈论它们。",
+   "method": "Citizen-collected water samples were analysed with Caterina Cacciatori at the EU Joint Research Centre water-quality lab (JRC SciArt) and shown as a bar installation at iMAL, Brussels, with workshops at Galerie Im Turm, Berlin.",
+   "method_zh": "公众采集的水样由欧盟联合研究中心（JRC SciArt）水质实验室的 Caterina Cacciatori 协助分析，以酒吧装置形式在布鲁塞尔 iMAL 展出，并在柏林 Galerie Im Turm 举办工作坊。",
+   "keywords": [
+    "water pollution",
+    "PFAS",
+    "hauntology",
+    "JRC SciArt",
+    "iMAL",
+    "citizen science"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/hauntedwatersproject"
+  },
+  {
+   "id": "nonhuman-nonsense--microbial-runestones",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Microbial Runestones",
+   "year": 2021,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "organisms": [
+    "bacteria",
+    "fungi"
+   ],
+   "kind": "artwork",
+   "description": "Five hand-carved stones along a forest path in Gauja National Park, Latvia, each a runestone honouring a microorganism (cyanobacteria, Bifidobacterium, bacteriophages, Trichoderma, Streptomyces) instead of a human ancestor.",
+   "description_zh": "拉脱维亚高亚国家公园林间小路旁的五块手工刻石，每块都是一座“如尼石”，纪念的不是人类祖先，而是一种微生物（蓝细菌、双歧杆菌、噬菌体、木霉、链霉菌）。",
+   "idea_en": "Commemorate microbes as the ancestors that made the world livable.",
+   "idea_zh": "把微生物当作让世界变得宜居的祖先来纪念。",
+   "method": "Verses engraved in stone by Filips Staņislavskis, with microbiologists from the University of Latvia and a landscape ecologist; signposts and a website tell each species' story; commissioned by GreenFest '21.",
+   "method_zh": "由 Filips Staņislavskis 将诗句刻入石头，与拉脱维亚大学的微生物学家和一位景观生态学者合作；路牌和网站讲述每个物种的故事；由 GreenFest '21 委托。",
+   "keywords": [
+    "runestone",
+    "microbes",
+    "Gauja National Park",
+    "Latvia",
+    "multispecies memorial"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/microbial-runestones"
+  },
+  {
+   "id": "nonhuman-nonsense--tale-of-a-tree-human",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Tale of a Tree Human",
+   "year": 2020,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "plants",
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "artwork",
+   "description": "A new local legend, told as a public sculpture and an illustrated children's booklet, about Vide, who receives a seed of forest language from a European bison and chooses to take root as a tree.",
+   "description_zh": "一则新编的地方传说，以公共雕塑和图画童书呈现：Vide 从一头欧洲野牛那里得到一粒装着森林语言的种子，最终选择扎根，变成一棵树。",
+   "idea_en": "Invent folklore that binds families to a landscape across generations.",
+   "idea_zh": "编写能让家庭世代与一片土地相连的民间传说。",
+   "method": "Developed with biologists and residents of the Östra Vätterbranterna UNESCO biosphere reserve for Österängens Konsthall's 'Nature Takes Over', illustrated by Vivianna Maria Stanislavska.",
+   "method_zh": "为 Österängens Konsthall 的“自然接管”项目，与 Östra Vätterbranterna 联合国教科文组织生物圈保护区的生物学家和居民共同创作，由 Vivianna Maria Stanislavska 绘制插图。",
+   "keywords": [
+    "legend",
+    "myth-making",
+    "public sculpture",
+    "biosphere reserve",
+    "Sweden",
+    "European bison"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/tale-of-a-tree-human"
+  },
+  {
+   "id": "nonhuman-nonsense--ai-berts-fresh-place",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Ai-Bert's – The Fresh Place",
+   "year": 2022,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A fake supermarket run by AI-Bert, a GPT-3 shopkeeper that listens to visitors' worries and generates absurd 'personalised solutions', exposing how supermarkets hide colonial and ecological costs behind green marketing.",
+   "description_zh": "一家虚构超市，由 GPT-3 店员 AI-Bert 经营：它倾听顾客的烦恼并生成荒诞的“个性化解决方案”，揭示超市如何用绿色营销掩盖殖民与生态代价。",
+   "idea_en": "Use a generative-AI shopkeeper to parody greenwashed consumption.",
+   "idea_zh": "用生成式 AI 店员来戏仿被“漂绿”的消费。",
+   "method": "GPT-3 conversations and DALL·E product images, available as a Telegram bot; shown at Embassy of Food, Dutch Design Week 2022, and re:publica Berlin 2023.",
+   "method_zh": "使用 GPT-3 对话和 DALL·E 生成的商品图，并提供 Telegram 聊天机器人；在 2022 年荷兰设计周 Embassy of Food 和 2023 年柏林 re:publica 展出。",
+   "keywords": [
+    "GPT-3",
+    "DALL·E",
+    "supermarket",
+    "greenwashing",
+    "Embassy of Food",
+    "Dutch Design Week"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/the-fresh-place"
+  },
+  {
+   "id": "nonhuman-nonsense--biocultural-seed-bank",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "The Biocultural Seed Bank",
+   "year": 2024,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants",
+    "molecules"
+   ],
+   "kind": "speculative",
+   "description": "A proposal to store endangered seed varieties together with their recipes, harvest techniques, legends and ceremonies, by writing that cultural knowledge into each seed's own DNA.",
+   "description_zh": "一个提案：把濒危种子品种与其菜谱、收获技艺、传说和仪式一起保存——把这些文化知识写进种子自身的 DNA。",
+   "idea_en": "A seed should carry not only what it is but how to live with it.",
+   "idea_zh": "一粒种子不仅应携带“它是什么”，还应携带“如何与它共处”。",
+   "method": "Cultural artefacts are encoded as DNA data storage (A, C, G, T), synthesised and, in the scenario, inserted into the seed genome with CRISPR; made with Sarah Fitterer in the Horizon Europe MUSAE programme.",
+   "method_zh": "把文化资料编码为 DNA 数据存储（A、C、G、T），合成后在设想中用 CRISPR 插入种子基因组；与 Sarah Fitterer 合作，属于欧盟“地平线欧洲”MUSAE 项目。",
+   "keywords": [
+    "seed bank",
+    "DNA data storage",
+    "CRISPR",
+    "agrobiodiversity",
+    "MUSAE",
+    "S+T+ARTS"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392653560-VL8TI3VNBS624FQL5PZC/Screenshot+%28604%29.png"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/biocultural-seedbank"
+  },
+  {
+   "id": "nonhuman-nonsense--spectral-fragments",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Spectral Fragments: A Haunted Excavation of Vega and Handen",
+   "year": 2025,
+   "field": "mth",
+   "sub": "ecological",
+   "organisms": [
+    "ecosystems",
+    "animals",
+    "plants"
+   ],
+   "kind": "artwork",
+   "description": "Two large prints at Handen train station near Stockholm that map archaeological finds, technofossils, endangered wetland species and 'haunted' objects of the drained wetlands of Vega and Handen, as a memorial to what the suburb replaced.",
+   "description_zh": "斯德哥尔摩附近 Handen 火车站的两幅大型印刷作品，把 Vega 与 Handen 被排干湿地中的考古发现、技术化石、濒危湿地物种和“闹鬼”物件绘成一张地图，纪念被城市取代的一切。",
+   "idea_en": "Map a landscape through its ghosts: lost species, fossils and forgotten objects.",
+   "idea_zh": "通过幽灵来绘制一片土地：消失的物种、化石和被遗忘的物件。",
+   "method": "Collage prints made with archaeologist Andreas Forsgren and biologist Annika Lydänge; commissioned by Haninge Municipality.",
+   "method_zh": "与考古学家 Andreas Forsgren、生物学家 Annika Lydänge 合作的拼贴印刷作品；由哈宁厄市委托。",
+   "keywords": [
+    "wetland",
+    "technofossil",
+    "hauntology",
+    "public art",
+    "Haninge",
+    "Sweden"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg",
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/handen-vega-wall"
+  },
+  {
+   "id": "nonhuman-nonsense--mosquito-translator",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Mosquito Translator",
+   "year": 2018,
+   "field": "mth",
+   "sub": "interspecies-art",
+   "also": [
+    "aci"
+   ],
+   "organisms": [
+    "insects",
+    "humans"
+   ],
+   "kind": "artwork",
+   "description": "A glass chamber full of mosquitoes with openings where visitors can choose to put in an arm and feed them, topped by a 'translator machine' that turns the mosquitoes' activity into sounds and words.",
+   "description_zh": "一个装满蚊子的玻璃箱，观众可以自愿把手臂伸进开口喂蚊子；箱顶的“翻译机”把蚊子的活动转换成声音和词语。",
+   "idea_en": "Make kin with an unloved species through a voluntary bond of blood.",
+   "idea_zh": "通过自愿的“血缘”，与一个不受欢迎的物种结成亲属。",
+   "method": "Sensors and cameras track the mosquitoes and drive generated sound and text output; framed by Haraway's 'making oddkin'.",
+   "method_zh": "传感器和摄像头追踪蚊子，驱动生成声音和文字输出；以 Haraway 的“结成奇异亲属”为思想框架。",
+   "keywords": [
+    "mosquito",
+    "making kin",
+    "Donna Haraway",
+    "translation",
+    "blood"
+   ],
+   "video": {
+    "url": "https://vimeo.com/306576135"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/mosquito-translator"
+  },
+  {
+   "id": "nonhuman-nonsense--anti-anthropocentric-vending-machine",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "The Anti-Anthropocentric Vending Machine",
+   "year": 2018,
+   "field": "mth",
+   "sub": "decentering",
+   "organisms": [
+    "ecosystems"
+   ],
+   "kind": "speculative",
+   "description": "A vending machine found in a circle of stones sells capsules containing a 'cure for anthropocentrism': a small edible stone and a note claiming that once you eat it you will never see stones as dead again.",
+   "description_zh": "一台出现在石圈中的自动售货机，出售“人类中心主义解药”胶囊：里面是一小块可以吃的石头和一张纸条，声称吃下后你将再也不会把石头看作死物。",
+   "idea_en": "Blur the line between life and non-life with a ritual of eating a stone.",
+   "idea_zh": "用“吃下一块石头”的仪式模糊生命与非生命的边界。",
+   "method": "A modified capsule vending machine staged outdoors and filmed, part of the 'Turn to Stone' research project on object-oriented ontology and stone agency.",
+   "method_zh": "一台改装的扭蛋售货机，置于户外并拍成影片，属于探讨面向对象本体论与石头能动性的“Turn to Stone”研究项目。",
+   "keywords": [
+    "anthropocentrism",
+    "stones",
+    "Turn to Stone",
+    "object-oriented ontology",
+    "ritual"
+   ],
+   "video": {
+    "url": "https://vimeo.com/277063737"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/the-antianthropocentric-vending-machine"
+  },
+  {
+   "id": "nonhuman-nonsense--audible-flora",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Audible Flora",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "also": [
+    "biohybrid"
+   ],
+   "organisms": [
+    "plants"
+   ],
+   "kind": "speculative",
+   "description": "A fictional biohacked sensor plant that sings in clean air and screams in polluted places; it later mutates and spreads, making polluted areas unlivable through noise, as if nature had claimed a right to speak.",
+   "description_zh": "一种虚构的生物黑客传感植物：空气清洁时它会“唱歌”，污染严重时会“尖叫”；后来它变异并失控扩散，用噪音让污染区无法居住，仿佛自然获得了发声的权利。",
+   "idea_en": "A designed organism can become an advocate that humans no longer control.",
+   "idea_zh": "被设计出来的生物可能变成人类无法控制的“代言者”。",
+   "method": "Speculative scenario with an interactive prop plant that visitors 'pollute' to make it scream; shown in the Biosynthetic Futures exhibition at the Stockholm Makerspace biohacker lab, 2016.",
+   "method_zh": "思辨情境加上可互动的道具植物，观众对它“施加污染”就会让它尖叫；2016 年在斯德哥尔摩创客空间生物黑客实验室的“Biosynthetic Futures”展览中展出。",
+   "keywords": [
+    "biosensor",
+    "synthetic biology",
+    "pollution",
+    "invasive species",
+    "Biosynthetic Futures"
+   ],
+   "video": {
+    "url": "https://vimeo.com/316523851"
+   },
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242973546-P5GMU60JJQBZHAPTERHT/audible+flora1.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/audible-flora"
+  },
+  {
+   "id": "nonhuman-nonsense--human-beeings",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Human Beeings",
+   "year": 2016,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants",
+    "insects",
+    "humans"
+   ],
+   "kind": "speculative",
+   "description": "After bees go extinct, a plant appears near outdoor gyms that offers humans an energising nectar, so that joggers carry its pollen from flower to flower and become its pollinators.",
+   "description_zh": "蜜蜂灭绝之后，一种植物出现在户外健身场旁，为人类提供补充体力的花蜜，于是跑步者把花粉从一朵花带到另一朵花，成了它的传粉者。",
+   "idea_en": "Imagine plants that treat humans as consumers to be exploited, as we treat plants.",
+   "idea_zh": "设想植物像我们对待植物那样，把人类当作可被利用的消费者。",
+   "method": "Speculative scenario with drinkable nectar-flower props; visitors drank the 'nectar' in the Biosynthetic Futures exhibition, Stockholm, 2016.",
+   "method_zh": "思辨情境加上可饮用花蜜的花朵道具；2016 年斯德哥尔摩“Biosynthetic Futures”展览中观众亲口喝下“花蜜”。",
+   "keywords": [
+    "pollination",
+    "bee extinction",
+    "synthetic biology",
+    "Biosynthetic Futures"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242859061-EIPNP5G4UI20U0PC3RJ5/HUman+Beeings.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/human-beeings"
+  },
+  {
+   "id": "nonhuman-nonsense--biosynthetic-possessions",
+   "creator_ids": [
+    "nonhuman-nonsense"
+   ],
+   "title": "Biosynthetic Possessions",
+   "year": 2015,
+   "field": "bio",
+   "sub": "synbio",
+   "organisms": [
+    "plants",
+    "fungi",
+    "molecules"
+   ],
+   "kind": "speculative",
+   "description": "A 2030 scenario in which only biological and digital goods are allowed, so tables grow from GM seeds and repair themselves, teddy bears are alive and grow with the child, and bioluminescent fungi replace lamps.",
+   "description_zh": "一个 2030 年的情境：市场上只允许生物和数字商品，于是桌子从转基因种子中长出并能自我修复，泰迪熊是活的、会随孩子一起长大，发光真菌取代了电灯。",
+   "idea_en": "If products were alive, would we value them more, or value life less?",
+   "idea_zh": "如果商品是活的，我们会更珍惜它们，还是会更轻视生命？",
+   "method": "Speculative objects and narrative, likely rendered as images and props, on synthetic biology and the patenting of life.",
+   "method_zh": "以思辨物件和叙事呈现（很可能是图像和道具），讨论合成生物学与生命专利化。",
+   "keywords": [
+    "synthetic biology",
+    "living products",
+    "GM patents",
+    "bioluminescence"
+   ],
+   "images": [
+    "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242899461-MH8JXEV8DDN647APJ7IU/synthetic+possessions1.jpg"
+   ],
+   "source_url": "https://nonhuman-nonsense.com/biosynthetic-possessions"
+  },
+  {
+   "id": "koen-vanmechelen--cosmopolitan-chicken-project",
+   "creator_ids": [
+    "koen-vanmechelen"
+   ],
+   "title": "Cosmopolitan Chicken Project",
+   "year": 1999,
+   "field": "bio",
+   "sub": "bioart",
+   "also": [
+    "mth"
+   ],
+   "organisms": [
+    "animals",
+    "molecules"
+   ],
+   "kind": "artwork",
+   "description": "An ongoing breeding project that began by crossing a Belgian Mechelse Koekoek with a French Poulet de Bresse and has since crossed each new generation with a local breed of the next country, aiming for a chicken that carries the genes of all breeds.",
+   "description_zh": "一个持续进行的育种项目：从比利时 Mechelse Koekoek 与法国 Poulet de Bresse 的杂交开始，此后每一代都与下一个国家的本地鸡种杂交，目标是一只携带所有鸡种基因的“世界主义鸡”。",
+   "idea_en": "Crossbreeding as an argument against monoculture, in chickens and in culture.",
+   "idea_zh": "以杂交育种反对单一化——无论是在鸡身上还是在文化中。",
+   "method": "Real multigenerational crossbreeding over 25+ years (more than 20 generations), with geneticists studying the hybrids' immunity and fertility; birds, portraits and installations are exhibited worldwide and kept at LABIOMISTA, Genk.",
+   "method_zh": "超过 25 年、二十多代的真实杂交育种，并有遗传学家研究杂交鸡的免疫力和生育力；鸡、肖像和装置在世界各地展出，并在亨克的 LABIOMISTA 饲养。",
+   "keywords": [
+    "chicken",
+    "crossbreeding",
+    "biocultural diversity",
+    "Mechelse Koekoek",
+    "Poulet de Bresse",
+    "LABIOMISTA",
+    "Gallus gallus domesticus"
+   ],
+   "video": {
+    "url": "https://www.youtube.com/watch?v=tpvkGmHFiFk"
+   },
+   "images": [
+    "https://www.labiomista.be/sites/default/files/styles/set_wide/public/2019-06/%C2%A9KoenVanmechelen-1.jpg?h=d817b116&itok=ImxdDAGR",
+    "https://www.labiomista.be/sites/default/files/styles/ccp_small/public/2019-04/Mechelse%20Bresse%20vrouw.jpg?h=7c9f3fd3&itok=tFaakaZQ"
+   ],
+   "source_url": "https://www.koenvanmechelen.be/cosmopolitan-chicken-project-ccp"
+  },
+  {
+   "id": "carys-bennett--broiler-chicken-anthropocene",
+   "creator_ids": [
+    "carys-bennett"
+   ],
+   "title": "The broiler chicken as a signal of a human reconfigured biosphere",
+   "year": 2018,
+   "field": "mth",
+   "sub": "theory-methods",
+   "organisms": [
+    "animals",
+    "ecosystems"
+   ],
+   "kind": "paper",
+   "description": "Argues that the modern broiler chicken, up to five times heavier than mid-20th-century birds and unable to survive without humans, is a new morphospecies whose skeleton, bone chemistry and genetics will mark the Anthropocene; broilers now outweigh all other birds on Earth combined.",
+   "description_zh": "论文认为，现代肉鸡的体重可达 20 世纪中叶鸡的五倍，且离开人类便无法存活，是一种新的形态物种，其骨骼、骨化学和遗传特征将成为人类世的标记；如今肉鸡的总质量已超过地球上其他所有鸟类之和。",
+   "idea_en": "A single domesticated animal body can be the geological signature of an epoch.",
+   "idea_zh": "一种被驯化动物的身体，可以成为一个地质时代的签名。",
+   "method": "Compares body size, skeletal morphology, pathology, bone geochemistry and genetics of modern broilers with archaeological chickens from the medieval period onward.",
+   "method_zh": "比较现代肉鸡与中世纪以来考古出土鸡的体型、骨骼形态、病理、骨化学和遗传特征。",
+   "keywords": [
+    "Anthropocene",
+    "broiler chicken",
+    "biostratigraphy",
+    "technofossil",
+    "Anthropocene Working Group",
+    "Jan Zalasiewicz"
+   ],
+   "paper": {
+    "url": "https://doi.org/10.1098/rsos.180325",
+    "doi": "10.1098/rsos.180325",
+    "arxiv": "",
+    "venue": "Royal Society Open Science 2018",
+    "title": "The broiler chicken as a signal of a human reconfigured biosphere"
+   },
+   "images": [
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/a74111f085dc/rsos180325-g1.jpg",
+    "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/ede4fc794307/rsos180325-g2.jpg"
+   ],
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6304135/"
+  }
+ ],
+ "leads": [
+  {
+   "name": "Center for PostNatural History (Richard Pell)",
+   "why": "Museum of organisms altered by humans (GloFish, lab animals, breeds); natural companion to Pink Chicken and Cosmopolitan Chicken.",
+   "link": "https://postnatural.org/",
+   "found_via": "nonhuman-nonsense",
+   "status": "open"
+  },
+  {
+   "name": "Filips Staņislavskis",
+   "why": "Third member of Nonhuman Nonsense; stone-carving and microbial works (filips.info).",
+   "link": "https://www.filips.info/microbes",
+   "found_via": "nonhuman-nonsense",
+   "status": "open"
+  },
+  {
+   "name": "Gene Cultures (MIT Museum, 2022–2024)",
+   "why": "Exhibition showing Pink Chicken Project alongside other gene-editing art and design; possible collection.",
+   "link": "https://mitmuseum.mit.edu/exhibitions/gene-cultures",
+   "found_via": "nonhuman-nonsense",
+   "status": "open"
+  }
+ ]
+}

@@ -194,6 +194,7 @@ carman-neustaedter | Carman Neustaedter | 2 works
 carole-collet | Carole Collet | 2 works
 carolina-de-lara | Carolina De Lara | 1 works
 carvey-ehren-maigue | Carvey Ehren Maigue | 1 works
+carys-bennett | Carys E. Bennett | 1 works
 cassie-kresnye | K. Cassie Kresnye | 1 works
 catalog | Catalog | 1 works
 catherine-crockford | Catherine Crockford | 1 works
@@ -657,6 +658,7 @@ kit-parker | Kit Parker | 3 works
 kitti-butter | Kitti Butter | 1 works
 klarenbeek-dros | Studio Klarenbeek & Dros | 3 works
 koby-barhard | Koby Barhard | 1 works
+koen-vanmechelen | Koen Vanmechelen | 1 works
 koniku | Koniku | 1 works
 korey-wetherell | Korey Wetherell | 1 works
 kristel-peters | Kristel Peters | 1 works
@@ -879,7 +881,7 @@ nirit-binyamini-ben-meir | Nirit Binyamini Ben-Meir | 1 works
 nita-farahany | Nita A. Farahany | 1 works
 noirlab | NSF NOIRLab (Globe at Night) | 1 works
 nomeda-gediminas-urbonas | Nomeda & Gediminas Urbonas | 1 works
-nonhuman-nonsense | Nonhuman Nonsense | 3 works
+nonhuman-nonsense | Nonhuman Nonsense | 16 works
 nonhuman-rights-project | Nonhuman Rights Project | 2 works
 nordic-society-for-invention-and-discovery | Nordic Society for Invention and Discovery | 1 works
 northeastern-biodesign | Northeastern University Biodesign Challenge team | 1 works

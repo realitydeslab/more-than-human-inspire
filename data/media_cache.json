@@ -39781,5 +39781,227 @@
   "ok": false,
   "type": "image",
   "error": "HTTPError: HTTP Error 404: Not Found"
+ },
+ "video:youtube:04eKdkDawHo": {
+  "url": "https://www.youtube.com/watch?v=04eKdkDawHo",
+  "ok": true,
+  "platform": "youtube",
+  "id": "04eKdkDawHo",
+  "title": "COUNCIL OF FOODS by Nonhuman Nonsense ○ S+T+ARTS HUNGRY ECOCITIES",
+  "author": "STARTS EU",
+  "thumbnail": "https://i.ytimg.com/vi/04eKdkDawHo/hqdefault.jpg"
+ },
+ "img:https://council-of-foods.com/council-of-foods-preview.jpeg": {
+  "url": "https://council-of-foods.com/council-of-foods-preview.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392414385-KM6N1VO7I57UQQXZ90Z4/image_thumb_v2_Council+of+Foods_%C2%A9nonhuman+nonsense.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://council-of-forest.com/council-of-forest-preview.webp": {
+  "url": "https://council-of-forest.com/council-of-forest-preview.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224744-MEZUXZQV97VATLKG80U1/web+1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1719912224830-NFHUA3Z67QTHKUICDEM4/web+2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311073420-SYZWQXSCH5F436V1OBSH/ss9s.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733311077616-6EL9FOHB3ALR6WX1TWJX/ssclosebifo3.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1606388074772-K40C3MRI61SUG4FE8TXD/standing_on_web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1605188268497-82ZHXDNF1M2K0XSCGCDI/DSC02460a.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392477894-ZAX1Z7UX2IH8H665XFFV/thumb+1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733242485790-0O5AIFM8INTDGM09NEH1/image-asset.jpeg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392653560-VL8TI3VNBS624FQL5PZC/Screenshot+%28604%29.png": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1733392653560-VL8TI3VNBS624FQL5PZC/Screenshot+%28604%29.png",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923588-IQ0F3IO0AMMSCGPDCSS4/img1+edit1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1765977923523-W6IK1O6M5P4NMJ788BA8/img2+edit1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:306576135": {
+  "url": "https://vimeo.com/306576135",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "306576135",
+  "embeddable": true,
+  "title": "The Mosquito Translator - Prototype",
+  "thumbnail": "https://i.vimeocdn.com/video/746350983-5f2bf3e86400c1fe4fd06f1073015ed89cc74977949c94f1946bcfab12d6e9a4-d?f=webp&region=us"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242928030-XOCIM3EREEOGTVDA5OAV/Mosquito+translator.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:277063737": {
+  "url": "https://vimeo.com/277063737",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "277063737",
+  "embeddable": true,
+  "title": "Turn to Stone",
+  "thumbnail": "https://i.vimeocdn.com/video/709735541-05e31b5255a63b81ffbd53178e4cbcb7a5ed37ae8eeecabf8da448c19e0cb7e1-d?f=webp&region=us"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547243006535-0JCE2IX5CHLVX0MVF35K/maskin.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:vimeo:316523851": {
+  "url": "https://vimeo.com/316523851",
+  "ok": true,
+  "platform": "vimeo",
+  "id": "316523851",
+  "embeddable": true,
+  "title": "Audible Flora",
+  "thumbnail": "https://i.vimeocdn.com/video/758549996-8774e9ae9b69f08ee01ce83490164993eb55eaf21001a4dd5b096ea4e3a00ea3-d?f=webp&region=us"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242973546-P5GMU60JJQBZHAPTERHT/audible+flora1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242973546-P5GMU60JJQBZHAPTERHT/audible+flora1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242859061-EIPNP5G4UI20U0PC3RJ5/HUman+Beeings.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242859061-EIPNP5G4UI20U0PC3RJ5/HUman+Beeings.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242899461-MH8JXEV8DDN647APJ7IU/synthetic+possessions1.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1547242899461-MH8JXEV8DDN647APJ7IU/synthetic+possessions1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "video:youtube:tpvkGmHFiFk": {
+  "url": "https://www.youtube.com/watch?v=tpvkGmHFiFk",
+  "ok": true,
+  "platform": "youtube",
+  "id": "tpvkGmHFiFk",
+  "title": "Interview Koen Vanmechelen on the Cosmopolitan Chicken Project",
+  "author": "Koen Vanmechelen",
+  "thumbnail": "https://i.ytimg.com/vi/tpvkGmHFiFk/hqdefault.jpg"
+ },
+ "img:https://www.labiomista.be/sites/default/files/styles/set_wide/public/2019-06/%C2%A9KoenVanmechelen-1.jpg?h=d817b116&itok=ImxdDAGR": {
+  "url": "https://www.labiomista.be/sites/default/files/styles/set_wide/public/2019-06/%C2%A9KoenVanmechelen-1.jpg?h=d817b116&itok=ImxdDAGR",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://www.labiomista.be/sites/default/files/styles/ccp_small/public/2019-04/Mechelse%20Bresse%20vrouw.jpg?h=7c9f3fd3&itok=tFaakaZQ": {
+  "url": "https://www.labiomista.be/sites/default/files/styles/ccp_small/public/2019-04/Mechelse%20Bresse%20vrouw.jpg?h=7c9f3fd3&itok=tFaakaZQ",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/a74111f085dc/rsos180325-g1.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/a74111f085dc/rsos180325-g1.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "img:https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/ede4fc794307/rsos180325-g2.jpg": {
+  "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/fcc5/6304135/ede4fc794307/rsos180325-g2.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "doi:10.1098/rsos.180325": {
+  "doi": "10.1098/rsos.180325",
+  "ok": true,
+  "type": "doi",
+  "title": "The broiler chicken as a signal of a human reconfigured biosphere",
+  "year": 2018,
+  "venue": "Royal Society Open Science",
+  "url": "https://doi.org/10.1098/rsos.180325"
+ },
+ "img:https://pinkchickenproject.com/og-image.webp": {
+  "url": "https://pinkchickenproject.com/og-image.webp",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118861357-19WS02VBPDYD4CK6ZDHH/strata_web.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118861357-19WS02VBPDYD4CK6ZDHH/strata_web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "img:https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118913395-2XRHFWDUITLS3ZC3BIVD/fossil_web.jpg": {
+  "url": "https://images.squarespace-cdn.com/content/v1/591f0cd3d2b857d64548a441/1570118913395-2XRHFWDUITLS3ZC3BIVD/fossil_web.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/webp"
+ },
+ "ytmax:04eKdkDawHo": {
+  "url": "https://i.ytimg.com/vi/04eKdkDawHo/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
+ },
+ "ytmax:tpvkGmHFiFk": {
+  "url": "https://i.ytimg.com/vi/tpvkGmHFiFk/maxresdefault.jpg",
+  "ok": true,
+  "type": "image",
+  "content_type": "image/jpeg"
  }
 }
